@@ -3865,7 +3865,7 @@ if ('serviceWorker' in navigator) {
 document.addEventListener('DOMContentLoaded', ()=>{
   ladeDB().then(()=>{
     const el=document.getElementById('db-status');
-    if(el){el.textContent=FRAGEN.length+' Fragen geladen ✓';el.style.color='#10b981';}
+    if(el){el.textContent=FRAGEN.length+' Fragen bereit ✓';el.style.color='#10b981';}
   }).catch(e=>{
     const el=document.getElementById('db-status');
     if(el){el.textContent='Fehler: '+e.message;el.style.color='#ef4444';}
@@ -3919,15 +3919,16 @@ async function lobbyListe() {
       liste.forEach(ang => {
         const sw = { L:'😴 Leicht', M:'🎯 Mittel', S:'🔥 Schwer' }[ang.schwierigkeit] || ang.schwierigkeit;
         const alter = Math.floor((Date.now()/1000 - ang.erstellt) / 60);
+        const abgelaufen = alter >= 3;
         const el = document.createElement('div');
-        el.style.cssText = 'display:flex;align-items:center;gap:12px;padding:12px;background:var(--surface2);border:1px solid var(--border);border-radius:8px;margin-bottom:8px;cursor:pointer;';
+        el.style.cssText = `display:flex;align-items:center;gap:12px;padding:12px;background:var(--surface2);border:1px solid var(--border);border-radius:8px;margin-bottom:8px;${abgelaufen ? 'opacity:0.4;' : 'cursor:pointer;'}`;
         el.innerHTML = `
           <div style="font-size:24px;">🧑</div>
           <div style="flex:1;">
             <div style="font-weight:bold;font-size:14px;">${ang.host_name}</div>
-            <div style="font-size:12px;color:var(--muted);">${sw} · vor ${alter < 1 ? 'gerade eben' : alter + ' Min.'}</div>
+            <div style="font-size:12px;color:var(--muted);">${sw} · vor ${alter < 1 ? 'gerade eben' : alter + ' Min.'}${abgelaufen ? ' · abgelaufen' : ''}</div>
           </div>
-          <button class="btn btn-primary" style="font-size:12px;padding:8px 12px;" onclick="lobbyBeitreten('${ang.id}','${ang.host_name}')">Beitreten</button>`;
+          ${abgelaufen ? '<div style="font-size:12px;color:var(--muted);padding:8px 12px;">⏱ abgelaufen</div>' : `<button class="btn btn-primary" style="font-size:12px;padding:8px 12px;" onclick="lobbyBeitreten('${ang.id}','${ang.host_name}')">Beitreten</button>`}`;
         container.appendChild(el);
       });
     }
