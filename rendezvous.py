@@ -109,7 +109,7 @@ class Handler(BaseHTTPRequestHandler):
 
         # Dateien ausliefern
         if p == '/' or p == '/index.html':
-            self.send_html('ap6_webrtc_poc.html'); return
+            self.send_html('quizaway_v4.html'); return
         if p.endswith('.html'):
             self.send_html(p.lstrip('/')); return
         if p.endswith('.sqlite') or p.endswith('.db'):
