@@ -1062,11 +1062,16 @@
   /* ── Gegner-Preview auf Start-Screen ───────────── */
   .gegner-preview {
     width: 100%; background: var(--surface2);
+    border: 1px solid var(--border);
     border-radius: 14px; padding: 14px 16px;
     display: flex; align-items: center; gap: 14px;
     margin-bottom: 4px;
     box-sizing: border-box;
+    cursor: pointer;
+    transition: border-color 0.15s, transform 0.1s;
   }
+  .gegner-preview:hover { border-color: var(--accent); }
+  .gegner-preview:active { transform: scale(0.98); }
   .gp-avatar { font-size: 36px; }
   .gp-info { flex: 1; }
   .gp-name { font-size: 16px; font-weight: 700; }
@@ -1402,6 +1407,9 @@
         <div id="debug-status" style="font-size:11px;color:#f87171;margin-top:6px;"></div>
       </div>
       <div id="db-status" style="font-size:0.8rem;color:#6b7280;margin-top:4px;">Lade Datenbank...</div>
+      <div onclick="spielerNameAendern()" style="font-size:13px;color:var(--muted);cursor:pointer;margin-top:6px;padding:4px 12px;border-radius:16px;border:1px solid var(--border);display:inline-block;">
+        👤 <span class="spieler-name-anzeige">Spieler</span>
+      </div>
 
       <div class="mode-grid">
         <div class="mode-card" onclick="zeigeSchwierigkeit('sofa')">
@@ -1494,7 +1502,7 @@
       </div>
 
       <div id="schwier-auto-hinweis" style="display:none;text-align:center;font-size:0.8rem;color:var(--text-muted);">
-        Weiter in <span id="schwier-auto-sek">14</span>s mit Mittel
+        Weiter in <span id="schwier-auto-sek">14</span>s mit <span id="schwier-auto-label">Mittel</span>
       </div>
 
       <button class="btn btn-primary" onclick="schwierWeiter()">Weiter →</button>
@@ -1585,7 +1593,7 @@
     <div class="kat-header">
       <div class="kat-runde-label" id="kat-runde-label">Runde 1 von 5</div>
       <div class="kat-headline">Wähle eine<br>Kategorie</div>
-      <div class="kat-sub">Du wählst — dein Gegner übernimmt deine Fragen</div>
+      <div class="kat-sub" id="kat-sub-label" style="display:none;">Du wählst — dein Gegner übernimmt deine Fragen</div>
     </div>
 
     <div class="kat-cards" id="kat-cards">
@@ -1820,31 +1828,21 @@
         </div>
         <div class="duell-vs-label">VS</div>
         <div class="duell-player">
-          <div class="duell-avatar offen">?</div>
+          <div class="duell-avatar offen" id="duell-opp-avatar-hero">?</div>
           <div class="duell-player-info">
-            <div class="duell-player-name" id="duell-opp-name-hero">Gegner</div>
-            <div class="duell-player-liga" id="duell-opp-liga-hero">wird geladen…</div>
+            <div class="duell-player-name" id="duell-opp-name-hero">…</div>
+            <div class="duell-player-liga" id="duell-opp-liga-hero"></div>
           </div>
         </div>
       </div>
 
-      <div style="width:100%; font-size:13px; font-weight:700; color:var(--muted); text-transform:uppercase; letter-spacing:1px;">
+      <div style="width:100%; font-size:13px; font-weight:700; color:var(--muted); text-transform:uppercase; letter-spacing:1px; margin-bottom:8px;">
         Virtueller Gegner
       </div>
 
-      <div class="gegner-preview" id="gegner-preview">
+      <div class="gegner-preview" id="gegner-preview" onclick="duellStart()" style="cursor:pointer;"
+           title="Tippen zum Starten">
         <!-- wird per JS befüllt -->
-      </div>
-
-      <div class="gegner-liste">
-        <div class="gegner-card" onclick="duellStart()">
-          <div class="gegner-avatar">🎲</div>
-          <div class="gegner-info">
-            <div class="gegner-name" id="gegner-vorschau-name">Gegner würfeln…</div>
-            <div class="gegner-meta" id="gegner-vorschau-meta">Klicken zum Starten</div>
-          </div>
-          <div class="gegner-liga-badge" id="gegner-vorschau-liga">▶</div>
-        </div>
       </div>
     </div>
 
@@ -2092,7 +2090,7 @@
     </div>
 
     <div style="padding: 12px 20px 28px; flex-shrink:0;">
-      <button class="btn btn-secondary" onclick="showScreen('screen-duell-start')">⚔️ Duell starten</button>
+      <button class="btn btn-secondary" onclick="showScreen('screen-duell-start'); duellScreenInit()">⚔️ Duell starten</button>
     </div>
   </div>
 
@@ -2179,7 +2177,7 @@
     </div>
 
     <div style="padding: 12px 20px 28px; flex-shrink:0;">
-      <button class="btn btn-primary" onclick="showScreen('screen-duell-start')">⚔️ Duell spielen & aufsteigen</button>
+      <button class="btn btn-primary" onclick="showScreen('screen-duell-start'); duellScreenInit()">⚔️ Duell spielen & aufsteigen</button>
     </div>
   </div>
 
@@ -2262,7 +2260,7 @@ const KATEGORIEN = [
   { id: 'plz',    emoji: '📮', name: 'Postleitzahlen',   beispiel: 'Welche PLZ gehört zu welcher Stadt?' },
   { id: 'dist',   emoji: '📏', name: 'Distanz & Lage',   beispiel: 'Entfernungen, Grenzen, Himmelsrichtungen' },
   { id: 'hoehe',  emoji: '⛰️', name: 'Höhenlage',         beispiel: 'Wer liegt höher? Meeresspiegelnähe' },
-  { id: 'bahn',   emoji: '🚆', name: 'Deutsche Bahn',     beispiel: 'ICE-Halte, Strecken, Bahnhofsgröße' },
+  { id: 'bahn',   emoji: '🚆', name: 'Deutsche Bahn',     beispiel: 'ICE-Halte, Strecken, Bahnhofsgröße', locked: true },
   { id: 'gesch',  emoji: '🏛️', name: 'Geschichte',        beispiel: 'Gründung, Stadtrechte, Epochen',   locked: true },
   { id: 'pers',   emoji: '⭐', name: 'Persönlichkeiten',  beispiel: 'Geburtsort berühmter Menschen',    locked: true },
   { id: 'sport',  emoji: '⚽', name: 'Sport',             beispiel: 'Vereine, Stadien, Meisterschaften', locked: true },
@@ -2591,6 +2589,21 @@ async function ladeDB() {
   // Seed-PRNG in p2pStarteFragenMitKat übernimmt das Mischen
   FRAGEN = [...generiereGeoFragen(),...generiereHoeheFragen(),...generiereEwFragen(),...generiereKfzFragen(),...generiererPlzFragen()];
   console.log('Fragen generiert:', FRAGEN.length);
+
+  // Spielername laden
+  spielerNameLaden();
+
+  // Server-Timeout-Hinweis: nach 6s wenn DB noch nicht geladen
+  setTimeout(() => {
+    const el = document.getElementById('db-status');
+    if (el && el.textContent.includes('Lade')) {
+      const hint = document.createElement('div');
+      hint.id = 'server-hint';
+      hint.style.cssText = 'font-size:12px;color:#f59e0b;margin-top:6px;padding:8px 12px;background:rgba(245,158,11,0.1);border-radius:8px;border:1px solid rgba(245,158,11,0.3);';
+      hint.innerHTML = '⏳ Server startet... Render.com braucht beim ersten Aufruf bis zu 50s. Bitte warten.';
+      el.parentNode.insertBefore(hint, el.nextSibling);
+    }
+  }, 6000);
 }
 
 
@@ -2637,7 +2650,15 @@ function zeigeSchwierigkeit(modus) {
 }
 
 function schwierWaehle(sw, stopTimer = true) {
-  if (stopTimer) stopAutoWeiter();
+  if (stopTimer) {
+    stopAutoWeiter();
+    // Label aktualisieren
+    const labelEl = document.getElementById('schwier-auto-label');
+    const labelMap = { L: 'Leicht', M: 'Mittel', S: 'Schwer' };
+    if (labelEl) labelEl.textContent = labelMap[sw] || sw;
+    // Nach Wahl: kurzer 5s-Delay bevor Zwangsweiter
+    starteAutoWeiter(5 * DEBUG_TIMER_FAKTOR, () => schwierWeiter(), 'schwier-auto-hinweis', 'schwier-auto-sek');
+  }
   state.schwierigkeit = sw;
   const cardMap = { L:'schwier-leicht', M:'schwier-mittel', S:'schwier-schwer' };
   Object.values(cardMap).forEach(id => {
@@ -2764,6 +2785,10 @@ function zeigeKategoriewahl() {
   });
 
   showScreen('screen-kategorie');
+
+  // Label nur im Duell-Modus anzeigen
+  const katSubEl = document.getElementById('kat-sub-label');
+  if (katSubEl) katSubEl.style.display = state.modus === 'duell' ? '' : 'none';
 
   // Runde 1: 28s, folgende Runden: 14s
   const katTimerSek = state.runde === 1 ? 28 : 14;
@@ -2997,6 +3022,34 @@ function zeigeFeedback(richtig, frage) {
 
 const AUTO_WEITER = { timer: null };
 
+// ─── Spielername ─────────────────────────────────────────────────────────
+let SPIELER_NAME = 'Spieler';
+
+function spielerNameLaden() {
+  try {
+    const gespeichert = localStorage.getItem('quizaway_spielername');
+    if (gespeichert) {
+      SPIELER_NAME = gespeichert;
+      spielerNameAnzeigen();
+    }
+  } catch(e) {}
+}
+
+function spielerNameAnzeigen() {
+  document.querySelectorAll('.spieler-name-anzeige').forEach(el => {
+    el.textContent = SPIELER_NAME;
+  });
+}
+
+function spielerNameAendern() {
+  const neu = prompt('Dein Spielername:', SPIELER_NAME);
+  if (neu && neu.trim()) {
+    SPIELER_NAME = neu.trim().slice(0, 20);
+    try { localStorage.setItem('quizaway_spielername', SPIELER_NAME); } catch(e) {}
+    spielerNameAnzeigen();
+  }
+}
+
 function starteAutoWeiter(sekunden, callback, hinweisId, sekElId) {
   stopAutoWeiter();
   const start = Date.now();
@@ -3210,13 +3263,10 @@ let duellState = {
 function duellScreenInit() {
   const g = generiereGegner();
   duellState.pendingGegner = g;
-  document.getElementById('gegner-vorschau-name').textContent = g.name;
-  document.getElementById('gegner-vorschau-liga').textContent = g.liga.symbol;
-  document.getElementById('gegner-vorschau-meta').textContent =
-    `${g.liga.symbol} ${g.liga.name} · ${g.spiele} Spiele`;
 
-  // Vorschau-Box
+  // Vorschau-Box befüllen (klickbar → startet Duell)
   const preview = document.getElementById('gegner-preview');
+  if (!preview) return;
   const staerkenHtml = g.staerken.map(s => `<span class="gp-staerke">💪 ${s}</span>`).join('');
   preview.innerHTML = `
     <div class="gp-avatar">${g.avatar}</div>
@@ -3224,15 +3274,16 @@ function duellScreenInit() {
       <div class="gp-name">${g.name}</div>
       <div class="gp-liga">${g.liga.symbol} ${g.liga.name} · ${g.spiele} Spiele</div>
       <div class="gp-staerken">${staerkenHtml || '<span class="gp-staerke">🎯 Allrounder</span>'}</div>
+      <div style="font-size:11px;color:var(--accent);margin-top:6px;">▶ Tippen zum Starten</div>
     </div>`;
 
   // Hero VS-Bereich aktualisieren
-  const nameHero   = document.getElementById('duell-opp-name-hero');
-  const ligaHero   = document.getElementById('duell-opp-liga-hero');
-  const avatarEl   = document.querySelector('#screen-duell-start .duell-avatar.offen');
-  if (nameHero)  nameHero.textContent  = g.name;
-  if (ligaHero)  ligaHero.textContent  = g.liga.symbol + ' ' + g.liga.name;
-  if (avatarEl)  { avatarEl.textContent = g.avatar; avatarEl.classList.remove('offen'); }
+  const nameHero = document.getElementById('duell-opp-name-hero');
+  const ligaHero = document.getElementById('duell-opp-liga-hero');
+  const avatarEl = document.querySelector('#screen-duell-start .duell-avatar.offen');
+  if (nameHero) nameHero.textContent = g.name;
+  if (ligaHero) ligaHero.textContent = g.liga.symbol + ' ' + g.liga.name;
+  if (avatarEl) { avatarEl.textContent = g.avatar; avatarEl.classList.remove('offen'); }
 }
 
 function duellStart() {
@@ -3298,8 +3349,8 @@ function zeigeDuellKat() {
     dotsOpp.appendChild(do_);
   }
 
-  // 3 random categories
-  const verfuegbarD = KATEGORIEN.filter(k => !k.locked);
+  // 3 random categories — nur Kategorien mit tatsächlich vorhandenen Fragen
+  const verfuegbarD = KATEGORIEN.filter(k => !k.locked && FRAGEN.some(f => f.kat === k.id));
   const shuffled = [...verfuegbarD].sort(() => Math.random() - 0.5).slice(0, 3);
   const container = document.getElementById('duell-kat-cards');
   container.innerHTML = '';
@@ -3866,6 +3917,9 @@ document.addEventListener('DOMContentLoaded', ()=>{
   ladeDB().then(()=>{
     const el=document.getElementById('db-status');
     if(el){el.textContent=FRAGEN.length+' Fragen bereit ✓';el.style.color='#10b981';}
+  // Server-Timeout-Hinweis entfernen falls vorhanden
+  const serverHint = document.getElementById('server-hint');
+  if (serverHint) serverHint.remove();
   }).catch(e=>{
     const el=document.getElementById('db-status');
     if(el){el.textContent='Fehler: '+e.message;el.style.color='#ef4444';}
@@ -4061,7 +4115,7 @@ async function lobbyGuestVerbinden(aid, guestName) {
   let offer = null;
   for (let v = 0; v < 8; v++) {
     try {
-      const res = await fetch(RENDEZVOUS + '/offer/' + aid);
+      const res = await fetch(RENDEZVOUS + '/lobby/offer/' + aid);
       const data = await res.json();
       if (data.offer) { offer = data.offer; break; }
     } catch(e) { /* warten */ }
@@ -4126,7 +4180,7 @@ function lobbyAbbrechen() {
 
 // Rendezvous-Server: automatisch lokaler Server oder Produktions-URL
 const RENDEZVOUS = (location.hostname === 'localhost' || location.hostname === '127.0.0.1')
-  ? `http://${location.hostname}:${location.port || 8080}`
+  ? `http://${location.hostname}${location.port ? ':' + location.port : ''}`
   : location.origin;
 
 // ─── Duel-State (vollständig neu, getrennt von duellState) ───
