@@ -168,8 +168,9 @@ class Handler(BaseHTTPRequestHandler):
             aid = p.split('/')[-1]
             offer = store.get(aid, {}).get('offer')
             if not offer:
-                self.send_json(404, {'offer': None, 'error': 'Kein Offer'}); return
-            self.send_json(200, {'offer': offer}); return
+                # Noch nicht bereit — 200 mit offer:null damit Client weiterpollt
+                self.send_json(200, {'offer': None, 'ready': False}); return
+            self.send_json(200, {'offer': offer, 'ready': True}); return
 
         self.send_json(404, {'error': 'Nicht gefunden'})
 

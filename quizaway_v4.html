@@ -4235,7 +4235,7 @@ function duelMsgSend(obj) {
 async function duelIceGather(pc) {
   return new Promise(res => {
     if (pc.iceGatheringState === 'complete') { res(); return; }
-    const t = setTimeout(res, 3000);
+    const t = setTimeout(res, 5000);  // 5s für Render (US-Server)
     pc.onicegatheringstatechange = () => {
       if (pc.iceGatheringState === 'complete') { clearTimeout(t); res(); }
     };
