@@ -3961,7 +3961,7 @@ function lobbyOeffnen() {
 async function lobbyListe() {
   lobbyStatus('Lade Angebote…');
   try {
-    const res = await fetch(RENDEZVOUS + '/lobby');
+    const res = await rendezvousFetch('/lobby');
     const data = await res.json();
     const liste = data.angebote || [];
     const container = document.getElementById('lobby-liste');
@@ -4049,7 +4049,7 @@ async function lobbyHostVorbereiten(aid) {
 async function lobbyPollStatus() {
   if (!lobbyState.meineAngebotsId) return;
   try {
-    const res = await fetch(RENDEZVOUS + '/lobby/status/' + lobbyState.meineAngebotsId);
+    const res = await rendezvousFetch('/lobby/status/' + lobbyState.meineAngebotsId);
     const data = await res.json();
 
     if (data.status === 'angenommen') {
@@ -4069,7 +4069,7 @@ async function lobbyHostWarteAufAnswer(aid) {
   for (let v = 0; v < 20; v++) {
     await new Promise(r => setTimeout(r, 1500));
     try {
-      const res = await fetch(RENDEZVOUS + '/answer/' + aid);
+      const res = await rendezvousFetch('/answer/' + aid);
       const data = await res.json();
       if (data.answer) {
         await duel.pc.setRemoteDescription({type:'answer', sdp: data.answer});
@@ -4115,7 +4115,7 @@ async function lobbyGuestVerbinden(aid, guestName) {
   let offer = null;
   for (let v = 0; v < 8; v++) {
     try {
-      const res = await fetch(RENDEZVOUS + '/lobby/offer/' + aid);
+      const res = await rendezvousFetch('/lobby/offer/' + aid);
       const data = await res.json();
       if (data.offer) { offer = data.offer; break; }
     } catch(e) { /* warten */ }
@@ -4179,9 +4179,23 @@ function lobbyAbbrechen() {
 // ══════════════════════════════════════════════════════════
 
 // Rendezvous-Server: automatisch lokaler Server oder Produktions-URL
-const RENDEZVOUS = (location.hostname === 'localhost' || location.hostname === '127.0.0.1')
-  ? `http://${location.hostname}${location.port ? ':' + location.port : ''}`
-  : location.origin;
+// RENDEZVOUS: localhost → gleicher Port wie Browser (80 oder 8080), Render → location.origin
+const RENDEZVOUS = (() => {
+  if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') return location.origin;
+  const port = location.port || '80';
+  return `http://${location.hostname}:${port}`;
+})();
+// Fallback: wenn /lobby nicht erreichbar, automatisch anderen Port versuchen
+async function rendezvousFetch(path, opts) {
+  try {
+    return await fetch(RENDEZVOUS + path, opts);
+  } catch(e) {
+    // Fallback auf anderen lokalen Port
+    const altPort = (location.port === '8080' || (!location.port && false)) ? '80' : '8080';
+    const alt = `http://${location.hostname}:${altPort}`;
+    return await fetch(alt + path, opts);
+  }
+}
 
 // ─── Duel-State (vollständig neu, getrennt von duellState) ───
 let duel = {
@@ -4392,7 +4406,7 @@ async function p2pHost() {
   const dc = duel.pc.createDataChannel('duell');
   duelSetupDC(dc);
 
-  const pin_r = await fetch(RENDEZVOUS + '/new');
+  const pin_r = await rendezvousFetch('/new');
   const {pin} = await pin_r.json();
   duel.meinPin = pin;
   document.getElementById('p2p-pin-anzeige').textContent = pin;
@@ -4410,7 +4424,7 @@ async function p2pHost() {
   // Answer pollen
   const pollAnswer = async () => {
     if (!duel.meinPin) return;
-    const res = await fetch(RENDEZVOUS + '/answer/' + pin);
+    const res = await rendezvousFetch('/answer/' + pin);
     const data = await res.json();
     if (data.answer) {
       await duel.pc.setRemoteDescription({type:'answer', sdp: data.answer});
@@ -4441,7 +4455,7 @@ async function p2pJoin() {
   let data = null;
   for (let v = 0; v < 8; v++) {
     duelLog('Suche PIN ' + pin + '… (' + (v+1) + '/8)');
-    const res = await fetch(RENDEZVOUS + '/offer/' + pin);
+    const res = await rendezvousFetch('/offer/' + pin);
     data = await res.json();
     if (data.offer) break;
     await new Promise(r => setTimeout(r, 1500));
