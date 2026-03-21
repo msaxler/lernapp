@@ -4223,6 +4223,7 @@ let duel = {
   pingTimer: null,
   abbruchTimer: null,
   rundeWartTimer: null,
+  rundeAutoTimer: null,
   missedPings: 0,
 };
 
@@ -4679,8 +4680,23 @@ function duelZeigeVergleich() {
         btn.disabled = false;
         btn.style.opacity = '1';
         btn.textContent = duel.runde < 5 ? `Runde ${duel.runde + 1} starten →` : 'Ergebnis anzeigen →';
-        // Zwangsweiter: nach 14s automatisch weiter
-        starteAutoWeiter(14 * DEBUG_TIMER_FAKTOR, () => naechsteRunde(), 'runden-auto-hinweis', 'runden-auto-sek');
+        // Eigener Duell-Timer — unabhängig vom globalen AUTO_WEITER
+        const sek = 14 * (DEBUG_TIMER_FAKTOR || 1);
+        const hinweis = document.getElementById('runden-auto-hinweis');
+        const sekEl   = document.getElementById('runden-auto-sek');
+        if (hinweis) { hinweis.style.display = 'block'; hinweis.classList.remove('warnung'); }
+        if (sekEl) sekEl.textContent = sek;
+        const t0 = Date.now();
+        duel.rundeAutoTimer = setInterval(() => {
+          const verbleibend = Math.max(0, sek - Math.floor((Date.now() - t0) / 1000));
+          if (sekEl) sekEl.textContent = verbleibend;
+          if (verbleibend <= 3 && hinweis) hinweis.classList.add('warnung');
+          if (verbleibend <= 0) {
+            clearInterval(duel.rundeAutoTimer); duel.rundeAutoTimer = null;
+            if (hinweis) hinweis.style.display = 'none';
+            naechsteRunde();
+          }
+        }, 300);
       } else {
         btn.textContent = `⏳ Warte — ${duel.gegnerName} wählt Runde ${duel.runde + 1}…`;
         // Fallback: nach 30s automatisch weiter (Gegner hat nicht reagiert)
@@ -4721,7 +4737,10 @@ function duelUpdateScoreboard() {
 // ─── Nächste Runde (aufgerufen von naechsteRunde()) ──────────
 function duelNaechsteRunde() {
   stopAutoWeiter();
-  if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
+  if (duel.rundeWartTimer)  { clearTimeout(duel.rundeWartTimer);  duel.rundeWartTimer  = null; }
+  if (duel.rundeAutoTimer)  { clearInterval(duel.rundeAutoTimer); duel.rundeAutoTimer  = null; }
+  const hinweis = document.getElementById('runden-auto-hinweis');
+  if (hinweis) hinweis.style.display = 'none';
   const reveal = document.getElementById('duell-runden-reveal');
   if (reveal) reveal.style.display = 'none';
 
