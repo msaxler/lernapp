@@ -3613,6 +3613,12 @@ function zeigeDuellErgebnis(opts) {
     `${rangPrefix}<strong>${rangDiff}</strong> Ranglistenpunkte`
     + (aufgegeben ? ' · <span style="color:var(--muted)">Hochgerechnet</span>' : '');
 
+  // Liga-Anzeige dynamisch
+  const ligaNameEl = document.querySelector('.ende-liga-name');
+  const ligaSubEl  = document.querySelector('.ende-liga-sub');
+  if (ligaNameEl) ligaNameEl.textContent = `Bronze-Liga · ${rangPrefix}${rangDiff} Punkte`;
+  if (ligaSubEl)  ligaSubEl.textContent  = sieg ? 'Gut gespielt! Weiter so.' : 'Nächstes Mal klappt\'s!';
+
   document.getElementById('dv-richtig-me').textContent  = meR;
   document.getElementById('dv-richtig-opp').textContent = oppR;
   document.getElementById('dv-punkte-me').textContent   = meAnzeige;
@@ -4216,6 +4222,7 @@ let duel = {
   // Ping & Abbruch
   pingTimer: null,
   abbruchTimer: null,
+  rundeWartTimer: null,
   missedPings: 0,
 };
 
@@ -4660,21 +4667,27 @@ function duelZeigeVergleich() {
   }
   dotsEl.style.cssText = 'display:flex;align-items:center';
 
-  // Button nach 3s Mindest-Delay freischalten (laut Spezifikation B.7)
+  // Button nach 3s Mindest-Delay freischalten + Zwangsweiter starten
   const btn = document.getElementById('naechste-runde-btn');
   if (btn) {
     btn.disabled = true;
     btn.style.opacity = '0.4';
     btn.textContent = '⏳ ' + (duel.runde < 5 ? `Runde ${duel.runde + 1} starten →` : 'Ergebnis anzeigen →');
     setTimeout(() => {
-      // Nur freischalten wenn ich das Wahlrecht habe oder es die letzte Runde ist
       const ichDarfWeiter = duelIchWaehle(duel.runde + 1) || duel.runde >= 5;
       if (ichDarfWeiter) {
         btn.disabled = false;
         btn.style.opacity = '1';
         btn.textContent = duel.runde < 5 ? `Runde ${duel.runde + 1} starten →` : 'Ergebnis anzeigen →';
+        // Zwangsweiter: nach 14s automatisch weiter
+        starteAutoWeiter(14 * DEBUG_TIMER_FAKTOR, () => naechsteRunde(), 'runden-auto-hinweis', 'runden-auto-sek');
       } else {
         btn.textContent = `⏳ Warte — ${duel.gegnerName} wählt Runde ${duel.runde + 1}…`;
+        // Fallback: nach 30s automatisch weiter (Gegner hat nicht reagiert)
+        duel.rundeWartTimer = setTimeout(() => {
+          duelLog('Gegner hat nicht reagiert — automatisch weiter');
+          naechsteRunde();
+        }, 30000 * (DEBUG_TIMER_FAKTOR || 1));
       }
     }, 3000);
   }
@@ -4708,6 +4721,7 @@ function duelUpdateScoreboard() {
 // ─── Nächste Runde (aufgerufen von naechsteRunde()) ──────────
 function duelNaechsteRunde() {
   stopAutoWeiter();
+  if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
   const reveal = document.getElementById('duell-runden-reveal');
   if (reveal) reveal.style.display = 'none';
 
