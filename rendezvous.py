@@ -163,6 +163,14 @@ class Handler(BaseHTTPRequestHandler):
                 'offer':      store.get(aid, {}).get('offer')
             }); return
 
+        # GET /lobby/offer/ID  →  WebRTC-Offer abrufen (Guest)
+        if p.startswith('/lobby/offer/'):
+            aid = p.split('/')[-1]
+            offer = store.get(aid, {}).get('offer')
+            if not offer:
+                self.send_json(404, {'offer': None, 'error': 'Kein Offer'}); return
+            self.send_json(200, {'offer': offer}); return
+
         self.send_json(404, {'error': 'Nicht gefunden'})
 
     def do_POST(self):
