@@ -1,0 +1,342 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 560">
+<style>
+  .lbl { font: 500 14px/1 Arial, sans-serif; fill: #333; }
+  .sub { font: 400 11px/1 Arial, sans-serif; fill: #888; }
+  .nm  { font: 500 28px/1 Arial, sans-serif; fill: #1a1a2e; }
+  .tg  { font: 400 13px/1 Arial, sans-serif; fill: #666; }
+</style>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     XALENTO LOGO SYSTEM v4
+     N-Pfeil nach rechts-oben (NE) · Gradring 10°/90° · X angedeutet
+     ═══════════════════════════════════════════════════════════════ -->
+
+<!-- ── Wiederverwendbares Nadel+Ring-Makro als inline-Gruppe ──
+     Wird per transform positioniert und skaliert.
+     Basis: cx=0 cy=0, Ring r=56, Icon 140×140 -->
+
+<!-- ══════════════════
+     1. App-Icon (blau)
+     ══════════════════ -->
+<g transform="translate(120,120)">
+  <rect x="-68" y="-68" width="136" height="136" rx="28" fill="#1565C0"/>
+
+  <!-- Gradring 45° gedreht → N-Strich zeigt nach NE -->
+  <g transform="rotate(45)">
+    <circle cx="0" cy="0" r="54" fill="none" stroke="white" stroke-width="1.5" stroke-opacity="0.42"/>
+    <g stroke="white" stroke-linecap="round">
+      <!-- 36 × 10°-Striche -->
+      <line x1="0" y1="-54" x2="0" y2="-50" stroke-width="1" stroke-opacity="0.5"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(10)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(20)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(30)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(40)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(50)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(60)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(70)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(80)"/>
+      <line x1="0" y1="-54" x2="0" y2="-50" stroke-width="1" stroke-opacity="0.5" transform="rotate(90)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(100)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(110)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(120)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(130)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(140)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(150)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(160)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(170)"/>
+      <line x1="0" y1="-54" x2="0" y2="-50" stroke-width="1" stroke-opacity="0.5" transform="rotate(180)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(190)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(200)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(210)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(220)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(230)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(240)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(250)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(260)"/>
+      <line x1="0" y1="-54" x2="0" y2="-50" stroke-width="1" stroke-opacity="0.5" transform="rotate(270)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(280)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(290)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(300)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(310)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(320)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(330)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(340)"/>
+      <line x1="0" y1="-54" x2="0" y2="-51" stroke-width="1" stroke-opacity="0.38" transform="rotate(350)"/>
+      <!-- 4 × 90° Hauptstriche — dicker und länger -->
+      <line x1="0" y1="-54" x2="0" y2="-44" stroke-width="2.5" stroke-opacity="1"/>
+      <line x1="0" y1="-54" x2="0" y2="-45" stroke-width="1.5" stroke-opacity="0.68" transform="rotate(90)"/>
+      <line x1="0" y1="-54" x2="0" y2="-45" stroke-width="1.5" stroke-opacity="0.68" transform="rotate(180)"/>
+      <line x1="0" y1="-54" x2="0" y2="-45" stroke-width="1.5" stroke-opacity="0.68" transform="rotate(270)"/>
+    </g>
+  </g>
+
+  <!-- Drei blasse Rauten-Arme — X andeuten -->
+  <g transform="rotate(-45)" opacity="0.27">
+    <polygon points="0,-44 4,-7 0,-2.5 -4,-7" fill="white"/>
+    <polygon points="0,44 3.5,7 0,2.5 -3.5,7" fill="white"/>
+  </g>
+  <g transform="rotate(135)" opacity="0.27">
+    <polygon points="0,-44 4,-7 0,-2.5 -4,-7" fill="white"/>
+    <polygon points="0,44 3.5,7 0,2.5 -3.5,7" fill="white"/>
+  </g>
+
+  <!-- N-Pfeil → rotate(+45) = rechts-oben ↗ -->
+  <g transform="rotate(45)">
+    <path d="M0,-46  L3.2,-16 C1.9,-9 0,-1 0,-1  C0,-1 -1.9,-9 -3.2,-16 Z" fill="white"/>
+    <path d="M0,44   L2.2,12   C1.4,7 0,1 0,1   C0,1 -1.4,7 -2.2,12 Z"          fill="white" opacity="0.3"/>
+  </g>
+
+  <circle cx="0" cy="0" r="7"   fill="#1565C0" stroke="white" stroke-width="2.5"/>
+  <circle cx="0" cy="0" r="2.8" fill="white"/>
+</g>
+<text x="120" y="210" text-anchor="middle" class="lbl">App-Icon</text>
+<text x="120" y="226" text-anchor="middle" class="sub">1024 × 1024 px</text>
+
+<!-- ══════════════════════
+     2. Web-Logo horizontal
+     ══════════════════════ -->
+<g transform="translate(330,120)">
+  <circle cx="0" cy="0" r="56" fill="#1565C0"/>
+  <g transform="rotate(45)">
+    <circle cx="0" cy="0" r="46" fill="none" stroke="white" stroke-width="1.3" stroke-opacity="0.4"/>
+    <g stroke="white" stroke-linecap="round">
+      <line x1="0" y1="-46" x2="0" y2="-43" stroke-width="1" stroke-opacity="0.5"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(10)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(20)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(30)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(40)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(50)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(60)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(70)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(80)"/>
+      <line x1="0" y1="-46" x2="0" y2="-43" stroke-width="1" stroke-opacity="0.5" transform="rotate(90)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(100)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(110)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(120)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(130)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(140)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(150)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(160)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(170)"/>
+      <line x1="0" y1="-46" x2="0" y2="-43" stroke-width="1" stroke-opacity="0.5" transform="rotate(180)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(190)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(200)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(210)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(220)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(230)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(240)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(250)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(260)"/>
+      <line x1="0" y1="-46" x2="0" y2="-43" stroke-width="1" stroke-opacity="0.5" transform="rotate(270)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(280)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(290)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(300)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(310)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(320)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(330)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(340)"/>
+      <line x1="0" y1="-46" x2="0" y2="-44" stroke-width="1" stroke-opacity="0.35" transform="rotate(350)"/>
+      <line x1="0" y1="-46" x2="0" y2="-38" stroke-width="2.5" stroke-opacity="1"/>
+      <line x1="0" y1="-46" x2="0" y2="-39" stroke-width="1.5" stroke-opacity="0.65" transform="rotate(90)"/>
+      <line x1="0" y1="-46" x2="0" y2="-39" stroke-width="1.5" stroke-opacity="0.65" transform="rotate(180)"/>
+      <line x1="0" y1="-46" x2="0" y2="-39" stroke-width="1.5" stroke-opacity="0.65" transform="rotate(270)"/>
+    </g>
+  </g>
+  <g transform="rotate(-45)" opacity="0.27">
+    <polygon points="0,-38 3.5,-6 0,-2 -3.5,-6" fill="white"/>
+    <polygon points="0,38 3,6 0,2 -3,6" fill="white"/>
+  </g>
+  <g transform="rotate(135)" opacity="0.27">
+    <polygon points="0,-38 3.5,-6 0,-2 -3.5,-6" fill="white"/>
+    <polygon points="0,38 3,6 0,2 -3,6" fill="white"/>
+  </g>
+  <g transform="rotate(45)">
+    <path d="M0,-40 L3,-13 C1.8,-8 0,-1 0,-1 C0,-1 -1.8,-8 -3,-13 Z" fill="white"/>
+    <path d="M0,38 L2,11 C1.3,7 0,1 0,1 C0,1 -1.3,7 -2,11 Z" fill="white" opacity="0.3"/>
+  </g>
+  <circle cx="0" cy="0" r="6" fill="#1565C0" stroke="white" stroke-width="2.5"/>
+  <circle cx="0" cy="0" r="2.5" fill="white"/>
+</g>
+<!-- Schriftzug -->
+<text x="410" y="101" class="nm">Xalento</text>
+<text x="411" y="124" class="tg">Lern- &amp; Quizplattform</text>
+<text x="330" y="210" text-anchor="middle" class="lbl">Web-Logo (horizontal)</text>
+
+<!-- ══════════
+     3. Favicon
+     ══════════ -->
+<g transform="translate(620,120)">
+  <rect x="-38" y="-38" width="76" height="76" rx="10" fill="#1565C0"/>
+  <g transform="rotate(45)">
+    <circle cx="0" cy="0" r="30" fill="none" stroke="white" stroke-width="1" stroke-opacity="0.4"/>
+    <g stroke="white" stroke-linecap="round">
+      <line x1="0" y1="-30" x2="0" y2="-26" stroke-width="2" stroke-opacity="0.95"/>
+      <line x1="0" y1="-30" x2="0" y2="-27" stroke-width="1" stroke-opacity="0.45" transform="rotate(30)"/>
+      <line x1="0" y1="-30" x2="0" y2="-27" stroke-width="1" stroke-opacity="0.45" transform="rotate(60)"/>
+      <line x1="0" y1="-30" x2="0" y2="-26" stroke-width="1.5" stroke-opacity="0.65" transform="rotate(90)"/>
+      <line x1="0" y1="-30" x2="0" y2="-27" stroke-width="1" stroke-opacity="0.45" transform="rotate(120)"/>
+      <line x1="0" y1="-30" x2="0" y2="-27" stroke-width="1" stroke-opacity="0.45" transform="rotate(150)"/>
+      <line x1="0" y1="-30" x2="0" y2="-26" stroke-width="1.5" stroke-opacity="0.65" transform="rotate(180)"/>
+      <line x1="0" y1="-30" x2="0" y2="-27" stroke-width="1" stroke-opacity="0.45" transform="rotate(210)"/>
+      <line x1="0" y1="-30" x2="0" y2="-27" stroke-width="1" stroke-opacity="0.45" transform="rotate(240)"/>
+      <line x1="0" y1="-30" x2="0" y2="-26" stroke-width="1.5" stroke-opacity="0.65" transform="rotate(270)"/>
+      <line x1="0" y1="-30" x2="0" y2="-27" stroke-width="1" stroke-opacity="0.45" transform="rotate(300)"/>
+      <line x1="0" y1="-30" x2="0" y2="-27" stroke-width="1" stroke-opacity="0.45" transform="rotate(330)"/>
+    </g>
+  </g>
+  <g transform="rotate(-45)" opacity="0.27">
+    <polygon points="0,-24 2.5,-5 0,-2 -2.5,-5" fill="white"/>
+    <polygon points="0,24 2,-5 0,2 -2,5" fill="white"/>
+  </g>
+  <g transform="rotate(135)" opacity="0.27">
+    <polygon points="0,-24 2.5,-5 0,-2 -2.5,-5" fill="white"/>
+  </g>
+  <g transform="rotate(45)">
+    <path d="M0,-25 L2,-8 C1.2,-5 0,-1 0,-1 C0,-1 -1.2,-5 -2,-8 Z" fill="white"/>
+    <path d="M0,19 L1.8,6 C1.1,4 0,1 0,1 C0,1 -1.1,4 -1.8,6 Z" fill="white" opacity="0.3"/>
+  </g>
+  <circle cx="0" cy="0" r="4" fill="#1565C0" stroke="white" stroke-width="1.8"/>
+  <circle cx="0" cy="0" r="1.7" fill="white"/>
+</g>
+<text x="620" y="210" text-anchor="middle" class="lbl">Favicon</text>
+<text x="620" y="226" text-anchor="middle" class="sub">32 × 32 px</text>
+
+<!-- Trennlinie -->
+<line x1="40" y1="248" x2="780" y2="248" stroke="#ddd" stroke-width="0.5"/>
+
+<!-- ══════════════════
+     4. Modulfarben
+     ══════════════════ -->
+<text x="410" y="275" text-anchor="middle" class="lbl">Modul-Farbvarianten — identische Form, nur Farbe wechselt</text>
+
+<!-- Hilfsmakro Nadeln für Modulvarianten (r=42, kleinere Größe) -->
+<!-- Geo -->
+<g transform="translate(90,380)">
+  <circle cx="0" cy="0" r="52" fill="#2E7D32"/>
+  <g transform="rotate(45)">
+    <circle cx="0" cy="0" r="43" fill="none" stroke="white" stroke-width="1" stroke-opacity="0.38"/>
+    <g stroke="white" stroke-linecap="round">
+      <line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(10)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(20)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(30)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(40)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(50)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(60)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(70)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(80)"/>
+      <line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5" transform="rotate(90)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(100)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(110)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(120)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(130)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(140)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(150)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(160)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(170)"/>
+      <line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5" transform="rotate(180)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(190)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(200)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(210)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(220)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(230)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(240)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(250)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(260)"/>
+      <line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5" transform="rotate(270)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(280)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(290)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(300)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(310)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(320)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(330)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(340)"/>
+      <line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(350)"/>
+      <line x1="0" y1="-43" x2="0" y2="-35" stroke-width="2.5" stroke-opacity="1"/>
+      <line x1="0" y1="-43" x2="0" y2="-36" stroke-width="1.5" stroke-opacity="0.65" transform="rotate(90)"/>
+      <line x1="0" y1="-43" x2="0" y2="-36" stroke-width="1.5" stroke-opacity="0.65" transform="rotate(180)"/>
+      <line x1="0" y1="-43" x2="0" y2="-36" stroke-width="1.5" stroke-opacity="0.65" transform="rotate(270)"/>
+    </g>
+  </g>
+  <g transform="rotate(-45)" opacity="0.27"><polygon points="0,-35 3,-5.5 0,-2 -3,-5.5" fill="white"/><polygon points="0,35 3,5.5 0,2 -3,5.5" fill="white"/></g>
+  <g transform="rotate(135)" opacity="0.27"><polygon points="0,-35 3,-5.5 0,-2 -3,-5.5" fill="white"/><polygon points="0,35 3,5.5 0,2 -3,5.5" fill="white"/></g>
+  <g transform="rotate(45)"><path d="M0,-37 L3,-12 C1.8,-7 0,-1 0,-1 C0,-1 -1.8,-7 -3,-12 Z" fill="white"/><path d="M0,35 L2.2,10 C1.4,7 0,1 0,1 C0,1 -1.4,7 -2.2,10 Z" fill="white" opacity="0.3"/></g>
+  <circle cx="0" cy="0" r="5.5" fill="#2E7D32" stroke="white" stroke-width="2.2"/><circle cx="0" cy="0" r="2.2" fill="white"/>
+</g>
+<text x="90" y="453" text-anchor="middle" class="lbl">Geo</text>
+<text x="90" y="468" text-anchor="middle" class="sub">#2E7D32</text>
+
+<!-- Mathe -->
+<g transform="translate(250,380)">
+  <circle cx="0" cy="0" r="52" fill="#E65100"/>
+  <g transform="rotate(45)"><circle cx="0" cy="0" r="43" fill="none" stroke="white" stroke-width="1" stroke-opacity="0.38"/>
+    <g stroke="white" stroke-linecap="round">
+      <line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(10)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(20)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(30)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(40)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(50)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(60)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(70)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(80)"/><line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5" transform="rotate(90)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(100)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(110)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(120)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(130)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(140)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(150)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(160)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(170)"/><line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5" transform="rotate(180)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(190)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(200)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(210)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(220)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(230)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(240)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(250)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(260)"/><line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5" transform="rotate(270)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(280)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(290)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(300)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(310)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(320)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(330)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(340)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(350)"/>
+      <line x1="0" y1="-43" x2="0" y2="-35" stroke-width="2.5" stroke-opacity="1"/><line x1="0" y1="-43" x2="0" y2="-36" stroke-width="1.5" stroke-opacity="0.65" transform="rotate(90)"/><line x1="0" y1="-43" x2="0" y2="-36" stroke-width="1.5" stroke-opacity="0.65" transform="rotate(180)"/><line x1="0" y1="-43" x2="0" y2="-36" stroke-width="1.5" stroke-opacity="0.65" transform="rotate(270)"/>
+    </g>
+  </g>
+  <g transform="rotate(-45)" opacity="0.27"><polygon points="0,-35 3,-5.5 0,-2 -3,-5.5" fill="white"/><polygon points="0,35 3,5.5 0,2 -3,5.5" fill="white"/></g>
+  <g transform="rotate(135)" opacity="0.27"><polygon points="0,-35 3,-5.5 0,-2 -3,-5.5" fill="white"/><polygon points="0,35 3,5.5 0,2 -3,5.5" fill="white"/></g>
+  <g transform="rotate(45)"><path d="M0,-37 L3,-12 C1.8,-7 0,-1 0,-1 C0,-1 -1.8,-7 -3,-12 Z" fill="white"/><path d="M0,35 L2.2,10 C1.4,7 0,1 0,1 C0,1 -1.4,7 -2.2,10 Z" fill="white" opacity="0.3"/></g>
+  <circle cx="0" cy="0" r="5.5" fill="#E65100" stroke="white" stroke-width="2.2"/><circle cx="0" cy="0" r="2.2" fill="white"/>
+</g>
+<text x="250" y="453" text-anchor="middle" class="lbl">Mathe</text>
+<text x="250" y="468" text-anchor="middle" class="sub">#E65100</text>
+
+<!-- Sprachen -->
+<g transform="translate(410,380)">
+  <circle cx="0" cy="0" r="52" fill="#00695C"/>
+  <g transform="rotate(45)"><circle cx="0" cy="0" r="43" fill="none" stroke="white" stroke-width="1" stroke-opacity="0.38"/>
+    <g stroke="white" stroke-linecap="round">
+      <line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(10)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(20)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(30)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(40)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(50)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(60)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(70)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(80)"/><line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5" transform="rotate(90)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(100)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(110)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(120)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(130)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(140)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(150)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(160)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(170)"/><line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5" transform="rotate(180)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(190)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(200)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(210)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(220)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(230)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(240)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(250)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(260)"/><line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5" transform="rotate(270)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(280)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(290)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(300)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(310)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(320)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(330)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(340)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(350)"/>
+      <line x1="0" y1="-43" x2="0" y2="-35" stroke-width="2.5" stroke-opacity="1"/><line x1="0" y1="-43" x2="0" y2="-36" stroke-width="1.5" stroke-opacity="0.65" transform="rotate(90)"/><line x1="0" y1="-43" x2="0" y2="-36" stroke-width="1.5" stroke-opacity="0.65" transform="rotate(180)"/><line x1="0" y1="-43" x2="0" y2="-36" stroke-width="1.5" stroke-opacity="0.65" transform="rotate(270)"/>
+    </g>
+  </g>
+  <g transform="rotate(-45)" opacity="0.27"><polygon points="0,-35 3,-5.5 0,-2 -3,-5.5" fill="white"/><polygon points="0,35 3,5.5 0,2 -3,5.5" fill="white"/></g>
+  <g transform="rotate(135)" opacity="0.27"><polygon points="0,-35 3,-5.5 0,-2 -3,-5.5" fill="white"/><polygon points="0,35 3,5.5 0,2 -3,5.5" fill="white"/></g>
+  <g transform="rotate(45)"><path d="M0,-37 L3,-12 C1.8,-7 0,-1 0,-1 C0,-1 -1.8,-7 -3,-12 Z" fill="white"/><path d="M0,35 L2.2,10 C1.4,7 0,1 0,1 C0,1 -1.4,7 -2.2,10 Z" fill="white" opacity="0.3"/></g>
+  <circle cx="0" cy="0" r="5.5" fill="#00695C" stroke="white" stroke-width="2.2"/><circle cx="0" cy="0" r="2.2" fill="white"/>
+</g>
+<text x="410" y="453" text-anchor="middle" class="lbl">Sprachen</text>
+<text x="410" y="468" text-anchor="middle" class="sub">#00695C</text>
+
+<!-- Quiz Away -->
+<g transform="translate(570,380)">
+  <circle cx="0" cy="0" r="52" fill="#4527A0"/>
+  <g transform="rotate(45)"><circle cx="0" cy="0" r="43" fill="none" stroke="white" stroke-width="1" stroke-opacity="0.38"/>
+    <g stroke="white" stroke-linecap="round">
+      <line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(10)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(20)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(30)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(40)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(50)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(60)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(70)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(80)"/><line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5" transform="rotate(90)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(100)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(110)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(120)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(130)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(140)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(150)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(160)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(170)"/><line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5" transform="rotate(180)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(190)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(200)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(210)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(220)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(230)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(240)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(250)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(260)"/><line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5" transform="rotate(270)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(280)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(290)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(300)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(310)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(320)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(330)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(340)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="1" stroke-opacity="0.32" transform="rotate(350)"/>
+      <line x1="0" y1="-43" x2="0" y2="-35" stroke-width="2.5" stroke-opacity="1"/><line x1="0" y1="-43" x2="0" y2="-36" stroke-width="1.5" stroke-opacity="0.65" transform="rotate(90)"/><line x1="0" y1="-43" x2="0" y2="-36" stroke-width="1.5" stroke-opacity="0.65" transform="rotate(180)"/><line x1="0" y1="-43" x2="0" y2="-36" stroke-width="1.5" stroke-opacity="0.65" transform="rotate(270)"/>
+    </g>
+  </g>
+  <g transform="rotate(-45)" opacity="0.27"><polygon points="0,-35 3,-5.5 0,-2 -3,-5.5" fill="white"/><polygon points="0,35 3,5.5 0,2 -3,5.5" fill="white"/></g>
+  <g transform="rotate(135)" opacity="0.27"><polygon points="0,-35 3,-5.5 0,-2 -3,-5.5" fill="white"/><polygon points="0,35 3,5.5 0,2 -3,5.5" fill="white"/></g>
+  <g transform="rotate(45)"><path d="M0,-37 L3,-12 C1.8,-7 0,-1 0,-1 C0,-1 -1.8,-7 -3,-12 Z" fill="white"/><path d="M0,35 L2.2,10 C1.4,7 0,1 0,1 C0,1 -1.4,7 -2.2,10 Z" fill="white" opacity="0.3"/></g>
+  <circle cx="0" cy="0" r="5.5" fill="#4527A0" stroke="white" stroke-width="2.2"/><circle cx="0" cy="0" r="2.2" fill="white"/>
+</g>
+<text x="570" y="453" text-anchor="middle" class="lbl">Quiz Away</text>
+<text x="570" y="468" text-anchor="middle" class="sub">#4527A0</text>
+
+<!-- Monochrom -->
+<g transform="translate(730,380)">
+  <circle cx="0" cy="0" r="52" fill="none" stroke="#333" stroke-width="2"/>
+  <g transform="rotate(45)">
+    <circle cx="0" cy="0" r="43" fill="none" stroke="#333" stroke-width="0.8" stroke-opacity="0.4"/>
+    <g stroke="#333" stroke-linecap="round">
+      <line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(10)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(20)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(30)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(40)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(50)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(60)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(70)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(80)"/><line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5" transform="rotate(90)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(100)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(110)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(120)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(130)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(140)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(150)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(160)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(170)"/><line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5" transform="rotate(180)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(190)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(200)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(210)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(220)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(230)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(240)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(250)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(260)"/><line x1="0" y1="-43" x2="0" y2="-40" stroke-width="1" stroke-opacity="0.5" transform="rotate(270)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(280)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(290)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(300)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(310)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(320)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(330)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(340)"/><line x1="0" y1="-43" x2="0" y2="-41" stroke-width="0.8" stroke-opacity="0.3" transform="rotate(350)"/>
+      <line x1="0" y1="-43" x2="0" y2="-35" stroke-width="2.5" stroke-opacity="0.9"/><line x1="0" y1="-43" x2="0" y2="-36" stroke-width="1.5" stroke-opacity="0.5" transform="rotate(90)"/><line x1="0" y1="-43" x2="0" y2="-36" stroke-width="1.5" stroke-opacity="0.5" transform="rotate(180)"/><line x1="0" y1="-43" x2="0" y2="-36" stroke-width="1.5" stroke-opacity="0.5" transform="rotate(270)"/>
+    </g>
+  </g>
+  <g transform="rotate(-45)" opacity="0.22"><polygon points="0,-35 3,-5.5 0,-2 -3,-5.5" fill="#333"/><polygon points="0,35 3,5.5 0,2 -3,5.5" fill="#333"/></g>
+  <g transform="rotate(135)" opacity="0.22"><polygon points="0,-35 3,-5.5 0,-2 -3,-5.5" fill="#333"/><polygon points="0,35 3,5.5 0,2 -3,5.5" fill="#333"/></g>
+  <g transform="rotate(45)"><path d="M0,-37 L3,-12 C1.8,-7 0,-1 0,-1 C0,-1 -1.8,-7 -3,-12 Z" fill="#333"/><path d="M0,35 L2.2,10 C1.4,7 0,1 0,1 C0,1 -1.4,7 -2.2,10 Z" fill="#666" opacity="0.5"/></g>
+  <circle cx="0" cy="0" r="5.5" fill="white" stroke="#333" stroke-width="2.2"/><circle cx="0" cy="0" r="2.2" fill="#333"/>
+</g>
+<text x="730" y="453" text-anchor="middle" class="lbl">Monochrom</text>
+<text x="730" y="468" text-anchor="middle" class="sub">Druck / Briefpapier</text>
+
+<!-- Footer -->
+<line x1="40" y1="490" x2="780" y2="490" stroke="#ddd" stroke-width="0.5"/>
+<text x="410" y="516" text-anchor="middle" style="font: 500 13px Arial; fill:#333;">Xalento — Icon-System v4  ·  März 2026</text>
+<text x="410" y="533" text-anchor="middle" style="font: 400 11px Arial; fill:#999;">Pfeilnadel N↗ rechts-oben · Gradring 10°/90° · X angedeutet · vektoriell (SVG)</text>
+</svg>

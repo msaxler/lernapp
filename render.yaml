@@ -3,7 +3,7 @@ services:
     name: quizaway
     runtime: python
     buildCommand: pip install -r requirements.txt
-    startCommand: python rendezvous.py --port $PORT
+    startCommand: python scripts/sync/rendezvous.py --port $PORT
     envVars:
       - key: PORT
         value: 10000

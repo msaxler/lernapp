@@ -1,0 +1,809 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AP6 — WebRTC PoC</title>
+<script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jsqr@1.4.0/dist/jsQR.js"></script>
+<style>
+  :root {
+    --bg: #0e0f11;
+    --surface: #16181c;
+    --surface2: #1e2127;
+    --border: #2a2d35;
+    --accent: #3b82f6;
+    --accent2: #10b981;
+    --text: #e8eaf0;
+    --muted: #6b7280;
+    --danger: #ef4444;
+    --radius: 10px;
+    --font: 'DM Mono', 'Courier New', monospace;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px 16px 48px;
+  }
+
+  header {
+    width: 100%;
+    max-width: 680px;
+    margin-bottom: 32px;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 16px;
+  }
+
+  header h1 {
+    font-size: 13px;
+    letter-spacing: 0.15em;
+    color: var(--muted);
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+
+  header p {
+    font-size: 20px;
+    color: var(--text);
+    letter-spacing: -0.02em;
+  }
+
+  .badge {
+    display: inline-block;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-left: 8px;
+    vertical-align: middle;
+  }
+  .badge-blue  { background: rgba(59,130,246,.15); color: #60a5fa; border: 1px solid rgba(59,130,246,.3); }
+  .badge-green { background: rgba(16,185,129,.15); color: #34d399; border: 1px solid rgba(16,185,129,.3); }
+  .badge-red   { background: rgba(239,68,68,.15);  color: #f87171; border: 1px solid rgba(239,68,68,.3); }
+  .badge-gray  { background: rgba(107,114,128,.12); color: var(--muted); border: 1px solid var(--border); }
+
+  main {
+    width: 100%;
+    max-width: 680px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  /* Rolle wählen */
+  .role-picker {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+
+  .role-btn {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 20px;
+    cursor: pointer;
+    text-align: left;
+    transition: border-color .15s, background .15s;
+    color: var(--text);
+    font-family: var(--font);
+  }
+  .role-btn:hover { border-color: var(--accent); background: var(--surface2); }
+  .role-btn.active { border-color: var(--accent); background: var(--surface2); }
+  .role-btn .role-label {
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    margin-bottom: 4px;
+    display: block;
+  }
+  .role-btn .role-desc {
+    font-size: 12px;
+    color: var(--muted);
+    line-height: 1.5;
+  }
+
+  /* Panels */
+  .panel {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+
+  .panel-header {
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--border);
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .panel-body { padding: 16px; }
+
+  /* Status-Leiste */
+  .status-bar {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 13px;
+  }
+  .status-dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: var(--muted);
+    flex-shrink: 0;
+    transition: background .3s;
+  }
+  .status-dot.connecting { background: #f59e0b; animation: pulse 1s ease-in-out infinite; }
+  .status-dot.connected  { background: var(--accent2); }
+  .status-dot.error      { background: var(--danger); }
+
+  @keyframes pulse {
+    0%,100% { opacity: 1; } 50% { opacity: .3; }
+  }
+
+  /* QR */
+  .qr-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 0;
+  }
+  #qr-display { background: white; padding: 12px; border-radius: 8px; }
+
+  /* Textarea / Input */
+  textarea, input[type=text] {
+    width: 100%;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    color: var(--text);
+    font-family: var(--font);
+    font-size: 12px;
+    padding: 10px 12px;
+    resize: vertical;
+    outline: none;
+    transition: border-color .15s;
+    line-height: 1.6;
+  }
+  textarea:focus, input[type=text]:focus { border-color: var(--accent); }
+
+  /* Buttons */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 9px 16px;
+    border-radius: 6px;
+    font-family: var(--font);
+    font-size: 12px;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    border: none;
+    transition: opacity .15s, background .15s;
+  }
+  .btn:disabled { opacity: .35; cursor: not-allowed; }
+  .btn-primary  { background: var(--accent); color: #fff; }
+  .btn-primary:hover:not(:disabled) { background: #2563eb; }
+  .btn-success  { background: var(--accent2); color: #fff; }
+  .btn-success:hover:not(:disabled) { background: #059669; }
+  .btn-ghost    { background: var(--surface2); color: var(--text); border: 1px solid var(--border); }
+  .btn-ghost:hover:not(:disabled) { border-color: var(--accent); }
+
+  .btn-row { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
+
+  /* Chat */
+  .chat-log {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    height: 220px;
+    overflow-y: auto;
+    padding: 10px 12px;
+    font-size: 12px;
+    line-height: 1.7;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .chat-log:empty::before {
+    content: 'Noch keine Nachrichten...';
+    color: var(--muted);
+  }
+
+  .msg { display: flex; gap: 8px; }
+  .msg.sent .msg-text { color: #60a5fa; }
+  .msg.recv .msg-text { color: #34d399; }
+  .msg.sys  .msg-text { color: var(--muted); font-style: italic; }
+  .msg-who  { color: var(--muted); flex-shrink: 0; min-width: 52px; }
+  .msg-text { word-break: break-word; }
+
+  .chat-input-row {
+    display: flex;
+    gap: 8px;
+    margin-top: 10px;
+  }
+  .chat-input-row input { flex: 1; resize: none; }
+
+  /* Scan-Bereich */
+  .scan-wrap {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  #scan-video {
+    width: 100%;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+    display: none;
+    background: #000;
+  }
+  #scan-canvas { display: none; }
+
+  .or-divider {
+    text-align: center;
+    font-size: 11px;
+    color: var(--muted);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    position: relative;
+    margin: 4px 0;
+  }
+  .or-divider::before, .or-divider::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    width: 42%;
+    height: 1px;
+    background: var(--border);
+  }
+  .or-divider::before { left: 0; }
+  .or-divider::after  { right: 0; }
+
+  /* Step-Indikator */
+  .steps {
+    display: flex;
+    gap: 0;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .step {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .step-num {
+    width: 20px; height: 20px;
+    border-radius: 50%;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 10px;
+    flex-shrink: 0;
+  }
+  .step.active .step-num  { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .step.done .step-num    { background: var(--accent2); border-color: var(--accent2); color: #fff; }
+  .step-arrow { color: var(--border); margin: 0 6px; }
+
+  /* Info-Kästchen */
+  .info-box {
+    background: rgba(59,130,246,.07);
+    border: 1px solid rgba(59,130,246,.2);
+    border-radius: 6px;
+    padding: 10px 14px;
+    font-size: 12px;
+    color: #93c5fd;
+    line-height: 1.6;
+  }
+
+  /* Hidden */
+  .hidden { display: none !important; }
+
+  /* Scrollbar */
+  ::-webkit-scrollbar { width: 4px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>QuizAway · AP6</h1>
+  <p>WebRTC PoC — P2P Verbindung <span id="conn-badge" class="badge badge-gray">offline</span></p>
+</header>
+
+<main>
+
+  <!-- Rollenwahl -->
+  <div id="role-section">
+    <div class="panel">
+      <div class="panel-header">Rolle wählen</div>
+      <div class="panel-body">
+        <div class="info-box" style="margin-bottom:14px;">
+          Beide Geräte öffnen diese HTML-Datei. Gerät A wählt <strong>Verbindung starten</strong>,
+          Gerät B wählt <strong>Verbindung beitreten</strong>. Kein Server nötig.
+        </div>
+        <div class="role-picker">
+          <button class="role-btn" id="btn-offerer" onclick="chooseRole('offerer')">
+            <span class="role-label">Verbindung starten</span>
+            <span class="role-desc">Erzeugt QR-Code · wartet auf Antwort</span>
+          </button>
+          <button class="role-btn" id="btn-answerer" onclick="chooseRole('answerer')">
+            <span class="role-label">Verbindung beitreten</span>
+            <span class="role-desc">Scannt QR-Code · sendet Antwort zurück</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Offerer Flow -->
+  <div id="offerer-section" class="hidden">
+
+    <!-- Schritt 1: Angebot erzeugen -->
+    <div class="panel" id="step-offer-panel">
+      <div class="panel-header">
+        Schritt 1 — Angebot erzeugen
+        <span id="offer-step-badge" class="badge badge-gray">bereit</span>
+      </div>
+      <div class="panel-body">
+        <div class="btn-row">
+          <button class="btn btn-primary" id="btn-create-offer" onclick="createOffer()">
+            Angebot erzeugen
+          </button>
+        </div>
+        <div id="offer-qr-wrap" class="qr-wrap hidden" style="margin-top:16px;">
+          <div id="qr-display"></div>
+          <p style="font-size:12px;color:var(--muted);text-align:center;">
+            Gegenseite scannt diesen QR-Code und schickt einen Antwort-QR zurück
+          </p>
+          <button class="btn btn-ghost" onclick="copyOfferText()">SDP-Text kopieren</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Schritt 2: Antwort einscannen -->
+    <div class="panel" id="step-answer-panel">
+      <div class="panel-header">
+        Schritt 2 — Antwort der Gegenseite einscannen
+        <span id="answer-step-badge" class="badge badge-gray">wartet</span>
+      </div>
+      <div class="panel-body">
+        <div class="scan-wrap">
+          <button class="btn btn-ghost" id="btn-scan-answer" onclick="startScan('answer')" disabled>
+            Kamera starten
+          </button>
+          <video id="scan-video-answer" autoplay playsinline></video>
+          <canvas id="scan-canvas-answer"></canvas>
+          <div class="or-divider">oder</div>
+          <textarea id="answer-sdp-input" rows="3" placeholder="SDP-Antworttext hier einfügen..."></textarea>
+          <div class="btn-row">
+            <button class="btn btn-success" id="btn-apply-answer" onclick="applyAnswer()" disabled>
+              Antwort übernehmen
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Answerer Flow -->
+  <div id="answerer-section" class="hidden">
+
+    <!-- Schritt 1: Angebot einscannen -->
+    <div class="panel">
+      <div class="panel-header">
+        Schritt 1 — Angebot der Gegenseite einscannen
+        <span id="offer-scan-badge" class="badge badge-gray">bereit</span>
+      </div>
+      <div class="panel-body">
+        <div class="scan-wrap">
+          <button class="btn btn-primary" id="btn-scan-offer" onclick="startScan('offer')">
+            Kamera starten
+          </button>
+          <video id="scan-video-offer" autoplay playsinline></video>
+          <canvas id="scan-canvas-offer"></canvas>
+          <div class="or-divider">oder</div>
+          <textarea id="offer-sdp-input" rows="3" placeholder="SDP-Angebotstext hier einfügen..."></textarea>
+          <div class="btn-row">
+            <button class="btn btn-success" id="btn-process-offer" onclick="processOffer()">
+              Angebot verarbeiten
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Schritt 2: Antwort-QR anzeigen -->
+    <div class="panel hidden" id="answerer-qr-panel">
+      <div class="panel-header">
+        Schritt 2 — Antwort-QR an Gegenseite zeigen
+      </div>
+      <div class="panel-body">
+        <div class="qr-wrap">
+          <div id="qr-display-answer"></div>
+          <p style="font-size:12px;color:var(--muted);text-align:center;">
+            Gegenseite scannt diesen QR-Code — Verbindung wird dann automatisch aufgebaut
+          </p>
+          <button class="btn btn-ghost" onclick="copyAnswerText()">SDP-Text kopieren</button>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Verbindungsstatus -->
+  <div class="panel" id="status-panel">
+    <div class="panel-header">Verbindungsstatus</div>
+    <div class="panel-body">
+      <div class="status-bar">
+        <div class="status-dot" id="status-dot"></div>
+        <span id="status-text">Keine Verbindung</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Chat (wird sichtbar wenn verbunden) -->
+  <div class="panel hidden" id="chat-panel">
+    <div class="panel-header">
+      Nachrichtenkanal
+      <span class="badge badge-green">P2P · kein Server</span>
+    </div>
+    <div class="panel-body">
+      <div class="chat-log" id="chat-log"></div>
+      <div class="chat-input-row">
+        <input type="text" id="chat-input" placeholder="Nachricht eingeben..." onkeydown="if(event.key==='Enter')sendMsg()">
+        <button class="btn btn-primary" onclick="sendMsg()">Senden</button>
+      </div>
+      <div class="info-box" style="margin-top:12px;">
+        Direktverbindung aktiv — Nachrichten gehen P2P ohne Server.
+        Basis für späteren Ledger-Austausch (AP8).
+      </div>
+    </div>
+  </div>
+
+  <!-- Debug -->
+  <div class="panel">
+    <div class="panel-header">
+      Debug-Log
+      <button class="btn btn-ghost" style="padding:3px 8px;font-size:11px;" onclick="clearLog()">löschen</button>
+    </div>
+    <div class="panel-body">
+      <div class="chat-log" id="debug-log" style="height:140px;font-size:11px;"></div>
+    </div>
+  </div>
+
+</main>
+
+<script>
+// ─── State ───────────────────────────────────────────────────────────────────
+let pc = null;
+let dc = null;
+let role = null;
+let localSDP = null;
+let scanInterval = null;
+
+// ─── WebRTC Konfiguration ─────────────────────────────────────────────────────
+const RTC_CONFIG = {
+  iceServers: [
+    { urls: 'stun:stun.l.google.com:19302' },
+    { urls: 'stun:stun1.l.google.com:19302' }
+  ]
+};
+
+// ─── Hilfsfunktionen ──────────────────────────────────────────────────────────
+function dbg(msg, type = 'info') {
+  const log = document.getElementById('debug-log');
+  const el = document.createElement('div');
+  el.className = 'msg sys';
+  const ts = new Date().toLocaleTimeString('de', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+  el.innerHTML = `<span class="msg-who">${ts}</span><span class="msg-text">${msg}</span>`;
+  log.appendChild(el);
+  log.scrollTop = log.scrollHeight;
+}
+
+function clearLog() {
+  document.getElementById('debug-log').innerHTML = '';
+}
+
+function setStatus(state, text) {
+  const dot = document.getElementById('status-dot');
+  const txt = document.getElementById('status-text');
+  const badge = document.getElementById('conn-badge');
+  dot.className = 'status-dot ' + state;
+  txt.textContent = text;
+  if (state === 'connected') {
+    badge.textContent = 'verbunden';
+    badge.className = 'badge badge-green';
+  } else if (state === 'connecting') {
+    badge.textContent = 'verbinde...';
+    badge.className = 'badge badge-blue';
+  } else if (state === 'error') {
+    badge.textContent = 'fehler';
+    badge.className = 'badge badge-red';
+  } else {
+    badge.textContent = 'offline';
+    badge.className = 'badge badge-gray';
+  }
+}
+
+function showChat() {
+  document.getElementById('chat-panel').classList.remove('hidden');
+}
+
+function addMsg(who, text, cls) {
+  const log = document.getElementById('chat-log');
+  const el = document.createElement('div');
+  el.className = 'msg ' + cls;
+  el.innerHTML = `<span class="msg-who">${who}</span><span class="msg-text">${text}</span>`;
+  log.appendChild(el);
+  log.scrollTop = log.scrollHeight;
+}
+
+// SDP komprimieren für QR (QR hat Zeichenlimit)
+function compressSDP(sdp) {
+  return btoa(sdp.split('\n').map(l => l.trim()).filter(Boolean).join('\n'));
+}
+function decompressSDP(b64) {
+  try { return atob(b64); } catch(e) { return b64; }
+}
+
+function generateQR(containerId, text) {
+  const el = document.getElementById(containerId);
+  el.innerHTML = '';
+  try {
+    new QRCode(el, {
+      text,
+      width: 240, height: 240,
+      correctLevel: QRCode.CorrectLevel.M
+    });
+    dbg('QR-Code erzeugt (' + text.length + ' Zeichen)');
+  } catch(e) {
+    dbg('QR-Code zu groß für QR (' + text.length + ' Zeichen) — bitte SDP-Text kopieren', 'warn');
+    el.innerHTML = '<p style="color:var(--danger);font-size:12px;padding:8px;">SDP zu groß für QR.<br>Bitte "SDP-Text kopieren" verwenden.</p>';
+  }
+}
+
+// ─── Rolle wählen ─────────────────────────────────────────────────────────────
+function chooseRole(r) {
+  role = r;
+  document.getElementById('role-section').classList.add('hidden');
+  if (r === 'offerer') {
+    document.getElementById('offerer-section').classList.remove('hidden');
+    dbg('Rolle: Offerer (Verbindung starten)');
+  } else {
+    document.getElementById('answerer-section').classList.remove('hidden');
+    dbg('Rolle: Answerer (Verbindung beitreten)');
+  }
+  initPC();
+}
+
+// ─── PeerConnection initialisieren ───────────────────────────────────────────
+function initPC() {
+  pc = new RTCPeerConnection(RTC_CONFIG);
+  dbg('RTCPeerConnection erstellt');
+
+  pc.onicecandidate = (e) => {
+    if (e.candidate) {
+      dbg('ICE-Kandidat: ' + e.candidate.type);
+    } else {
+      dbg('ICE-Kandidaten vollständig — SDP bereit');
+      localSDP = pc.localDescription.sdp;
+      onSDPReady();
+    }
+  };
+
+  pc.onconnectionstatechange = () => {
+    const s = pc.connectionState;
+    dbg('Connection state: ' + s);
+    if (s === 'connected') {
+      setStatus('connected', 'P2P-Verbindung aktiv');
+      showChat();
+    } else if (s === 'connecting') {
+      setStatus('connecting', 'Verbinde...');
+    } else if (s === 'failed' || s === 'disconnected') {
+      setStatus('error', 'Verbindung unterbrochen');
+    }
+  };
+
+  pc.ondatachannel = (e) => {
+    dbg('DataChannel empfangen: ' + e.channel.label);
+    dc = e.channel;
+    setupDC();
+  };
+}
+
+function setupDC() {
+  dc.onopen = () => {
+    dbg('DataChannel offen');
+    addMsg('system', 'Verbindung hergestellt', 'sys');
+    dc.send(JSON.stringify({ type: 'hello', from: role, ts: Date.now() }));
+  };
+  dc.onmessage = (e) => {
+    try {
+      const msg = JSON.parse(e.data);
+      dbg('DataChannel: ' + e.data.slice(0, 80));
+      if (msg.type === 'chat') {
+        addMsg('gegenseite', msg.text, 'recv');
+      } else if (msg.type === 'hello') {
+        addMsg('system', 'Gegenseite verbunden (' + msg.from + ')', 'sys');
+      }
+    } catch(e) {
+      addMsg('gegenseite', e.data, 'recv');
+    }
+  };
+  dc.onclose = () => dbg('DataChannel geschlossen');
+  dc.onerror = (e) => dbg('DataChannel Fehler: ' + e);
+}
+
+// ─── OFFERER ─────────────────────────────────────────────────────────────────
+async function createOffer() {
+  const btn = document.getElementById('btn-create-offer');
+  btn.disabled = true;
+  btn.textContent = 'Wird erzeugt...';
+
+  dc = pc.createDataChannel('quizaway', { ordered: true });
+  dbg('DataChannel erstellt: quizaway');
+  setupDC();
+
+  try {
+    const offer = await pc.createOffer();
+    await pc.setLocalDescription(offer);
+    dbg('Offer erzeugt, warte auf ICE-Kandidaten...');
+    document.getElementById('offer-step-badge').textContent = 'warte auf ICE...';
+    document.getElementById('offer-step-badge').className = 'badge badge-blue';
+  } catch(e) {
+    dbg('Fehler beim Offer: ' + e);
+    btn.disabled = false;
+    btn.textContent = 'Angebot erzeugen';
+  }
+}
+
+function onSDPReady() {
+  if (role === 'offerer') {
+    const compressed = compressSDP(localSDP);
+    dbg('SDP-Offer komprimiert: ' + compressed.length + ' Zeichen');
+    document.getElementById('offer-qr-wrap').classList.remove('hidden');
+    generateQR('qr-display', compressed);
+    document.getElementById('offer-step-badge').textContent = 'QR bereit';
+    document.getElementById('offer-step-badge').className = 'badge badge-green';
+    // Answerer-Panel aktivieren
+    document.getElementById('btn-scan-answer').disabled = false;
+    document.getElementById('btn-apply-answer').disabled = false;
+    document.getElementById('answer-step-badge').textContent = 'bereit';
+    document.getElementById('answer-step-badge').className = 'badge badge-blue';
+  } else {
+    // Answerer
+    const compressed = compressSDP(localSDP);
+    dbg('SDP-Answer komprimiert: ' + compressed.length + ' Zeichen');
+    document.getElementById('answerer-qr-panel').classList.remove('hidden');
+    generateQR('qr-display-answer', compressed);
+  }
+}
+
+window.copyOfferText = function() {
+  navigator.clipboard.writeText(compressSDP(localSDP)).then(() => dbg('SDP-Text kopiert'));
+};
+window.copyAnswerText = function() {
+  navigator.clipboard.writeText(compressSDP(localSDP)).then(() => dbg('SDP-Text kopiert'));
+};
+
+async function applyAnswer() {
+  const raw = document.getElementById('answer-sdp-input').value.trim();
+  if (!raw) { dbg('Kein SDP-Text eingegeben'); return; }
+  const sdp = decompressSDP(raw);
+  dbg('Wende Answer an...');
+  setStatus('connecting', 'Verbinde...');
+  try {
+    await pc.setRemoteDescription({ type: 'answer', sdp });
+    dbg('RemoteDescription gesetzt — ICE-Handshake läuft');
+  } catch(e) {
+    dbg('Fehler beim Anwenden der Antwort: ' + e);
+    setStatus('error', 'Ungültige SDP-Antwort');
+  }
+}
+
+// ─── ANSWERER ────────────────────────────────────────────────────────────────
+async function processOffer() {
+  const raw = document.getElementById('offer-sdp-input').value.trim();
+  if (!raw) { dbg('Kein SDP-Text eingegeben'); return; }
+  const sdp = decompressSDP(raw);
+  dbg('Verarbeite Offer...');
+  setStatus('connecting', 'Verarbeite Angebot...');
+  try {
+    await pc.setRemoteDescription({ type: 'offer', sdp });
+    const answer = await pc.createAnswer();
+    await pc.setLocalDescription(answer);
+    dbg('Answer erzeugt, warte auf ICE-Kandidaten...');
+    document.getElementById('offer-scan-badge').textContent = 'Answer wird erzeugt...';
+    document.getElementById('offer-scan-badge').className = 'badge badge-blue';
+  } catch(e) {
+    dbg('Fehler beim Verarbeiten des Angebots: ' + e);
+    setStatus('error', 'Ungültiges Angebot');
+  }
+}
+
+// ─── QR-Scanner ──────────────────────────────────────────────────────────────
+async function startScan(target) {
+  const videoId = 'scan-video-' + (target === 'offer' ? 'offer' : 'answer');
+  const canvasId = 'scan-canvas-' + (target === 'offer' ? 'offer' : 'answer');
+  const video = document.getElementById(videoId);
+  const canvas = document.getElementById(canvasId);
+
+  if (!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia) {
+    dbg('Kamera nicht verfügbar — bitte SDP-Text manuell einfügen');
+    return;
+  }
+
+  try {
+    const stream = await navigator.mediaDevices.getUserMedia({ video: { facingMode: 'environment' } });
+    video.srcObject = stream;
+    video.style.display = 'block';
+    dbg('Kamera gestartet — QR-Code vor die Kamera halten');
+
+    if (scanInterval) clearInterval(scanInterval);
+    scanInterval = setInterval(() => {
+      if (video.readyState !== video.HAVE_ENOUGH_DATA) return;
+      canvas.width  = video.videoWidth;
+      canvas.height = video.videoHeight;
+      const ctx = canvas.getContext('2d');
+      ctx.drawImage(video, 0, 0);
+      const img = ctx.getImageData(0, 0, canvas.width, canvas.height);
+      const code = jsQR(img.data, img.width, img.height);
+      if (code) {
+        dbg('QR-Code erkannt: ' + code.data.slice(0, 40) + '...');
+        clearInterval(scanInterval);
+        stream.getTracks().forEach(t => t.stop());
+        video.style.display = 'none';
+        if (target === 'offer') {
+          document.getElementById('offer-sdp-input').value = code.data;
+          processOffer();
+        } else {
+          document.getElementById('answer-sdp-input').value = code.data;
+          applyAnswer();
+        }
+      }
+    }, 200);
+  } catch(e) {
+    dbg('Kamera-Fehler: ' + e.message + ' — bitte SDP-Text manuell einfügen');
+  }
+}
+
+// ─── Chat ────────────────────────────────────────────────────────────────────
+function sendMsg() {
+  const input = document.getElementById('chat-input');
+  const text = input.value.trim();
+  if (!text || !dc || dc.readyState !== 'open') {
+    if (!dc || dc.readyState !== 'open') dbg('DataChannel nicht offen');
+    return;
+  }
+  dc.send(JSON.stringify({ type: 'chat', text, from: role }));
+  addMsg('ich', text, 'sent');
+  input.value = '';
+}
+
+// ─── Init ────────────────────────────────────────────────────────────────────
+dbg('AP6 WebRTC PoC geladen — Rolle wählen um zu beginnen');
+dbg('Browser: ' + navigator.userAgent.split(' ').slice(-1)[0]);
+</script>
+</body>
+</html>

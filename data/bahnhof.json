@@ -1,0 +1,1581 @@
+{
+  "bahnhof_kategorien": {
+    "Berlin": {
+      "kategorie": 1,
+      "bahnhof_name": "Berlin Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Hamburg": {
+      "kategorie": 1,
+      "bahnhof_name": "Hamburg Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "München": {
+      "kategorie": 1,
+      "bahnhof_name": "München Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Köln": {
+      "kategorie": 1,
+      "bahnhof_name": "Köln Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Frankfurt am Main": {
+      "kategorie": 1,
+      "bahnhof_name": "Frankfurt (Main) Hbf",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Stuttgart": {
+      "kategorie": 1,
+      "bahnhof_name": "Stuttgart Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Düsseldorf": {
+      "kategorie": 1,
+      "bahnhof_name": "Düsseldorf Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Leipzig": {
+      "kategorie": 1,
+      "bahnhof_name": "Leipzig Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Dortmund": {
+      "kategorie": 2,
+      "bahnhof_name": "Dortmund Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Essen": {
+      "kategorie": 2,
+      "bahnhof_name": "Essen Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Bremen": {
+      "kategorie": 2,
+      "bahnhof_name": "Bremen Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Dresden": {
+      "kategorie": 2,
+      "bahnhof_name": "Dresden Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Hannover": {
+      "kategorie": 1,
+      "bahnhof_name": "Hannover Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Nürnberg": {
+      "kategorie": 1,
+      "bahnhof_name": "Nürnberg Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Duisburg": {
+      "kategorie": 2,
+      "bahnhof_name": "Duisburg Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Bochum": {
+      "kategorie": 3,
+      "bahnhof_name": "Bochum Hauptbahnhof",
+      "fernverkehr": false,
+      "ice_halt": false
+    },
+    "Wuppertal": {
+      "kategorie": 3,
+      "bahnhof_name": "Wuppertal Hauptbahnhof",
+      "fernverkehr": false,
+      "ice_halt": false
+    },
+    "Bielefeld": {
+      "kategorie": 2,
+      "bahnhof_name": "Bielefeld Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Bonn": {
+      "kategorie": 2,
+      "bahnhof_name": "Bonn Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Münster": {
+      "kategorie": 2,
+      "bahnhof_name": "Münster (Westf) Hbf",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Karlsruhe": {
+      "kategorie": 2,
+      "bahnhof_name": "Karlsruhe Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Mannheim": {
+      "kategorie": 1,
+      "bahnhof_name": "Mannheim Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Augsburg": {
+      "kategorie": 2,
+      "bahnhof_name": "Augsburg Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Wiesbaden": {
+      "kategorie": 3,
+      "bahnhof_name": "Wiesbaden Hauptbahnhof",
+      "fernverkehr": false,
+      "ice_halt": false
+    },
+    "Mainz": {
+      "kategorie": 3,
+      "bahnhof_name": "Mainz Hauptbahnhof",
+      "fernverkehr": false,
+      "ice_halt": false
+    },
+    "Koblenz": {
+      "kategorie": 3,
+      "bahnhof_name": "Koblenz Hauptbahnhof",
+      "fernverkehr": false,
+      "ice_halt": false
+    },
+    "Trier": {
+      "kategorie": 3,
+      "bahnhof_name": "Trier Hauptbahnhof",
+      "fernverkehr": false,
+      "ice_halt": false
+    },
+    "Freiburg im Breisgau": {
+      "kategorie": 2,
+      "bahnhof_name": "Freiburg (Breisgau) Hbf",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Heidelberg": {
+      "kategorie": 3,
+      "bahnhof_name": "Heidelberg Hauptbahnhof",
+      "fernverkehr": false,
+      "ice_halt": false
+    },
+    "Ulm": {
+      "kategorie": 2,
+      "bahnhof_name": "Ulm Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Regensburg": {
+      "kategorie": 3,
+      "bahnhof_name": "Regensburg Hauptbahnhof",
+      "fernverkehr": false,
+      "ice_halt": false
+    },
+    "Würzburg": {
+      "kategorie": 2,
+      "bahnhof_name": "Würzburg Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Erfurt": {
+      "kategorie": 2,
+      "bahnhof_name": "Erfurt Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Jena": {
+      "kategorie": 4,
+      "bahnhof_name": "Jena Paradies",
+      "fernverkehr": false,
+      "ice_halt": false
+    },
+    "Weimar": {
+      "kategorie": 4,
+      "bahnhof_name": "Weimar Bahnhof",
+      "fernverkehr": false,
+      "ice_halt": false
+    },
+    "Magdeburg": {
+      "kategorie": 2,
+      "bahnhof_name": "Magdeburg Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Halle (Saale)": {
+      "kategorie": 2,
+      "bahnhof_name": "Halle (Saale) Hbf",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Rostock": {
+      "kategorie": 2,
+      "bahnhof_name": "Rostock Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Schwerin": {
+      "kategorie": 3,
+      "bahnhof_name": "Schwerin Hauptbahnhof",
+      "fernverkehr": false,
+      "ice_halt": false
+    },
+    "Kiel": {
+      "kategorie": 2,
+      "bahnhof_name": "Kiel Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Lübeck": {
+      "kategorie": 3,
+      "bahnhof_name": "Lübeck Hauptbahnhof",
+      "fernverkehr": false,
+      "ice_halt": false
+    },
+    "Flensburg": {
+      "kategorie": 3,
+      "bahnhof_name": "Flensburg Bahnhof",
+      "fernverkehr": false,
+      "ice_halt": false
+    },
+    "Saarbrücken": {
+      "kategorie": 2,
+      "bahnhof_name": "Saarbrücken Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Potsdam": {
+      "kategorie": 3,
+      "bahnhof_name": "Potsdam Hauptbahnhof",
+      "fernverkehr": false,
+      "ice_halt": false
+    },
+    "Cottbus": {
+      "kategorie": 4,
+      "bahnhof_name": "Cottbus Hauptbahnhof",
+      "fernverkehr": false,
+      "ice_halt": false
+    },
+    "Görlitz": {
+      "kategorie": 4,
+      "bahnhof_name": "Görlitz Bahnhof",
+      "fernverkehr": false,
+      "ice_halt": false
+    },
+    "Aachen": {
+      "kategorie": 2,
+      "bahnhof_name": "Aachen Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Wolfsburg": {
+      "kategorie": 3,
+      "bahnhof_name": "Wolfsburg Hauptbahnhof",
+      "fernverkehr": false,
+      "ice_halt": false
+    },
+    "Braunschweig": {
+      "kategorie": 2,
+      "bahnhof_name": "Braunschweig Hauptbahnhof",
+      "fernverkehr": true,
+      "ice_halt": true
+    },
+    "Kassel": {
+      "kategorie": 2,
+      "bahnhof_name": "Kassel-Wilhelmshöhe",
+      "fernverkehr": true,
+      "ice_halt": true,
+      "hinweis": "ICE-Halt ist Kassel-Wilhelmshöhe, nicht Kassel Hbf!"
+    },
+    "Neuwied": {
+      "kategorie": 5,
+      "bahnhof_name": "Neuwied Bahnhof",
+      "fernverkehr": false,
+      "ice_halt": false
+    }
+  },
+  "ice_strecken": {
+    "Hamburg–München": {
+      "halte": [
+        "Hamburg-Altona(S)",
+        "Hamburg Hbf",
+        "Hannover Hbf",
+        "Würzburg Hbf",
+        "Ansbach",
+        "Donauwörth",
+        "Augsburg Hbf",
+        "München Hbf",
+        "Rosenheim",
+        "Kufstein"
+      ],
+      "halte_quiz": [
+        "Hamburg",
+        "Hannover",
+        "Würzburg",
+        "Augsburg",
+        "München"
+      ],
+      "halte_zeiten": [
+        "09:21:00",
+        "10:40:00",
+        "12:38:00",
+        "14:38:00",
+        "15:12:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 24",
+      "beschreibung": "ICE 24: Hamburg → München"
+    },
+    "Berlin–München": {
+      "halte": [
+        "Berlin Gesundbrunnen",
+        "Berlin Hbf",
+        "Berlin Südkreuz",
+        "Halle(Saale)Hbf",
+        "Erfurt Hbf",
+        "Nürnberg Hbf",
+        "Augsburg Hbf",
+        "München Hbf"
+      ],
+      "halte_quiz": [
+        "Berlin",
+        "Erfurt",
+        "Nürnberg",
+        "Augsburg",
+        "München"
+      ],
+      "halte_zeiten": [
+        "19:36:00",
+        "21:14:00",
+        "22:32:00",
+        "23:43:00",
+        "24:08:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 29",
+      "beschreibung": "ICE 29: Berlin → München"
+    },
+    "Köln–Frankfurt": {
+      "linie": "ICE 10/11",
+      "halte": [
+        "Köln",
+        "Siegburg",
+        "Montabaur",
+        "Limburg Süd",
+        "Frankfurt am Main"
+      ],
+      "halte_quiz": [
+        "Montabaur",
+        "Limburg Süd"
+      ],
+      "km": 177,
+      "beschreibung": "Neubaustrecke bis 300 km/h — Montabaur hat trotz 12.000 Einwohnern einen ICE-Halt!"
+    },
+    "Hamburg–Berlin": {
+      "halte": [
+        "Hamburg-Altona(S)",
+        "Hamburg Dammtor",
+        "Hamburg Hbf",
+        "Lüneburg",
+        "Uelzen",
+        "Stendal Hbf",
+        "Berlin-Spandau",
+        "Berlin Hbf",
+        "Berlin Südkreuz"
+      ],
+      "halte_quiz": [
+        "Hamburg",
+        "Berlin"
+      ],
+      "halte_zeiten": [
+        "18:49:00",
+        "21:33:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 23",
+      "beschreibung": "ICE 23: Hamburg → Berlin"
+    },
+    "Frankfurt–Stuttgart": {
+      "linie": "ICE 13",
+      "halte": [
+        "Frankfurt am Main",
+        "Mannheim",
+        "Stuttgart"
+      ],
+      "halte_quiz": [
+        "Mannheim"
+      ],
+      "km": 222,
+      "beschreibung": "Rheinstrecke mit Halt in Mannheim"
+    },
+    "Frankfurt–Köln": {
+      "linie": "ICE 10",
+      "halte": [
+        "Frankfurt am Main",
+        "Limburg Süd",
+        "Montabaur",
+        "Siegburg",
+        "Köln"
+      ],
+      "halte_quiz": [
+        "Limburg Süd",
+        "Montabaur"
+      ],
+      "km": 177,
+      "beschreibung": "Rückrichtung Köln–Frankfurt Neubaustrecke"
+    },
+    "München–Berlin": {
+      "linie": "ICE 29",
+      "halte": [
+        "München",
+        "Ingolstadt",
+        "Nürnberg",
+        "Erfurt",
+        "Halle (Saale)",
+        "Berlin"
+      ],
+      "halte_quiz": [
+        "Nürnberg",
+        "Erfurt",
+        "Halle (Saale)"
+      ],
+      "km": 623,
+      "beschreibung": "Rückrichtung Berlin–München"
+    },
+    "Hannover–Berlin": {
+      "linie": "ICE 14",
+      "halte": [
+        "Hannover",
+        "Wolfsburg",
+        "Berlin"
+      ],
+      "halte_quiz": [
+        "Wolfsburg"
+      ],
+      "km": 248,
+      "beschreibung": "Wolfsburg liegt direkt an der Strecke — VW-Stadt mit ICE-Anschluss"
+    },
+    "München–Hamburg (via Stuttgart)": {
+      "linie": "ICE 22",
+      "halte": [
+        "München",
+        "Augsburg",
+        "Ulm",
+        "Stuttgart",
+        "Mannheim",
+        "Frankfurt am Main",
+        "Köln",
+        "Dortmund",
+        "Hamburg"
+      ],
+      "halte_quiz": [
+        "Augsburg",
+        "Ulm",
+        "Stuttgart",
+        "Mannheim",
+        "Frankfurt am Main",
+        "Köln",
+        "Dortmund"
+      ],
+      "km": 900,
+      "beschreibung": "Süd-Nord-Achse via Südwestdeutschland"
+    },
+    "Hamburg–Karlsruhe": {
+      "halte": [
+        "Hamburg Hbf",
+        "Uelzen",
+        "Hannover Hbf",
+        "Göttingen",
+        "Kassel-Wilhelmshöhe",
+        "Frankfurt(Main)Hbf",
+        "Mannheim Hbf",
+        "Karlsruhe Hbf",
+        "Offenburg",
+        "Freiburg, Hauptbahnhof",
+        "Basel Bad Bf",
+        "Basel SBB"
+      ],
+      "halte_quiz": [
+        "Hamburg",
+        "Hannover",
+        "Mannheim",
+        "Karlsruhe"
+      ],
+      "halte_zeiten": [
+        "16:29:00",
+        "17:53:00",
+        "21:00:00",
+        "21:26:00"
+      ],
+      "zuggattung": "ECE",
+      "linie": "ECE 20",
+      "beschreibung": "ECE 20: Hamburg → Karlsruhe"
+    },
+    "Karlsruhe–Mannheim": {
+      "halte": [
+        "Basel Bad Bf",
+        "Freiburg, Hauptbahnhof",
+        "Ringsheim/Europa-Park",
+        "Karlsruhe Hbf",
+        "Mannheim Hbf",
+        "Frankfurt(Main)Hbf"
+      ],
+      "halte_quiz": [
+        "Karlsruhe",
+        "Mannheim"
+      ],
+      "halte_zeiten": [
+        "17:31:00",
+        "18:00:00"
+      ],
+      "zuggattung": "ECE",
+      "linie": "ECE 85",
+      "beschreibung": "ECE 85: Karlsruhe → Mannheim"
+    },
+    "Koblenz–Düsseldorf": {
+      "halte": [
+        "Koblenz Hbf",
+        "Andernach",
+        "Remagen",
+        "Bonn Hbf",
+        "Köln Hbf",
+        "Düsseldorf Hbf"
+      ],
+      "halte_quiz": [
+        "Koblenz",
+        "Bonn",
+        "Köln",
+        "Düsseldorf"
+      ],
+      "halte_zeiten": [
+        "08:42:00",
+        "09:23:00",
+        "09:49:00",
+        "10:15:00"
+      ],
+      "zuggattung": "IC",
+      "linie": "IC",
+      "beschreibung": "IC: Koblenz → Düsseldorf"
+    },
+    "Rostock–Dresden": {
+      "halte": [
+        "Rostock Hbf",
+        "Waren(Müritz)",
+        "Neustrelitz Hbf",
+        "Oranienburg",
+        "Berlin Gesundbrunnen",
+        "Berlin Hbf",
+        "Berlin Südkreuz",
+        "Flughafen BER",
+        "Elsterwerda",
+        "Dresden-Neustadt",
+        "Dresden Hbf"
+      ],
+      "halte_quiz": [
+        "Rostock",
+        "Berlin",
+        "Dresden"
+      ],
+      "halte_zeiten": [
+        "18:20:00",
+        "20:26:00",
+        "22:40:00"
+      ],
+      "zuggattung": "IC",
+      "linie": "IC 17",
+      "beschreibung": "IC 17: Rostock → Dresden"
+    },
+    "Berlin–Dresden": {
+      "halte": [
+        "Berlin Hbf",
+        "Berlin Südkreuz",
+        "Dresden-Neustadt",
+        "Dresden Hbf"
+      ],
+      "halte_quiz": [
+        "Berlin",
+        "Dresden"
+      ],
+      "halte_zeiten": [
+        "20:10:00",
+        "22:07:00"
+      ],
+      "zuggattung": "IC",
+      "linie": "IC 27",
+      "beschreibung": "IC 27: Berlin → Dresden"
+    },
+    "Rostock–Hamburg": {
+      "halte": [
+        "Rostock Hbf",
+        "Bützow",
+        "Bad Kleinen",
+        "Lübeck Hbf",
+        "Hamburg Hbf"
+      ],
+      "halte_quiz": [
+        "Rostock",
+        "Lübeck",
+        "Hamburg"
+      ],
+      "halte_zeiten": [
+        "08:54:00",
+        "10:53:00",
+        "11:32:00"
+      ],
+      "zuggattung": "IC",
+      "linie": "IC 33",
+      "beschreibung": "IC 33: Rostock → Hamburg"
+    },
+    "Duisburg–Köln": {
+      "halte": [
+        "Norddeich Mole",
+        "Norddeich",
+        "Norden",
+        "Emden Hbf",
+        "Leer(Ostfriesl)",
+        "Papenburg(Ems)",
+        "Meppen",
+        "Lingen(Ems)",
+        "Rheine",
+        "Münster(Westf)Hbf",
+        "Recklinghausen Hbf",
+        "Herne-Wanne-Eickel Hbf",
+        "Gelsenkirchen Hbf",
+        "Oberhausen Hbf",
+        "Duisburg Hbf",
+        "Düsseldorf Hbf",
+        "Köln Hbf"
+      ],
+      "halte_quiz": [
+        "Duisburg",
+        "Düsseldorf",
+        "Köln"
+      ],
+      "halte_zeiten": [
+        "15:32:00",
+        "15:47:00",
+        "16:14:00"
+      ],
+      "zuggattung": "IC",
+      "linie": "IC 35",
+      "beschreibung": "IC 35: Duisburg → Köln"
+    },
+    "Köln–Erfurt": {
+      "halte": [
+        "Köln Hbf",
+        "Düsseldorf Hbf",
+        "Düsseldorf Flughafen",
+        "Duisburg Hbf",
+        "Essen Hbf",
+        "Bochum Hbf",
+        "Dortmund Hbf",
+        "Hamm(Westf)Hbf",
+        "Soest",
+        "Lippstadt",
+        "Paderborn Hbf",
+        "Altenbeken",
+        "Warburg(Westf)",
+        "Kassel-Wilhelmshöhe",
+        "Eisenach Hbf",
+        "Gotha",
+        "Erfurt Hbf"
+      ],
+      "halte_quiz": [
+        "Köln",
+        "Düsseldorf",
+        "Duisburg",
+        "Essen",
+        "Bochum",
+        "Dortmund",
+        "Erfurt"
+      ],
+      "halte_zeiten": [
+        "15:17:00",
+        "15:42:00",
+        "16:02:00",
+        "16:15:00",
+        "16:27:00",
+        "16:42:00",
+        "20:39:00"
+      ],
+      "zuggattung": "IC",
+      "linie": "IC 51",
+      "beschreibung": "IC 51: Köln → Erfurt"
+    },
+    "Stuttgart–Köln": {
+      "halte": [
+        "Stuttgart Hbf",
+        "Wiesloch-Walldorf",
+        "Heidelberg Hbf",
+        "Mannheim Hbf",
+        "Mainz Hbf",
+        "Koblenz Hbf",
+        "Bonn-Beuel",
+        "Köln Hbf"
+      ],
+      "halte_quiz": [
+        "Stuttgart",
+        "Heidelberg",
+        "Mannheim",
+        "Mainz",
+        "Koblenz",
+        "Köln"
+      ],
+      "halte_zeiten": [
+        "19:36:00",
+        "20:25:00",
+        "20:39:00",
+        "21:20:00",
+        "22:13:00",
+        "23:16:00"
+      ],
+      "zuggattung": "IC",
+      "linie": "IC 55",
+      "beschreibung": "IC 55: Stuttgart → Köln"
+    },
+    "Bremen–Leipzig": {
+      "halte": [
+        "Norddeich Mole",
+        "Norddeich",
+        "Norden",
+        "Marienhafe",
+        "Emden Hbf",
+        "Leer(Ostfriesl)",
+        "Augustfehn",
+        "Westerstede-Ocholt",
+        "Bad Zwischenahn",
+        "Oldenburg(Oldb)Hbf",
+        "Hude",
+        "Delmenhorst",
+        "Bremen Hbf",
+        "Verden(Aller)",
+        "Nienburg(Weser)",
+        "Hannover-Linden/Fischerhof",
+        "Braunschweig Hbf",
+        "Helmstedt",
+        "Magdeburg Hbf",
+        "Köthen",
+        "Halle(Saale)Hbf",
+        "Leipzig Hbf"
+      ],
+      "halte_quiz": [
+        "Bremen",
+        "Braunschweig",
+        "Magdeburg",
+        "Leipzig"
+      ],
+      "halte_zeiten": [
+        "12:09:00",
+        "14:10:00",
+        "15:04:00",
+        "16:15:00"
+      ],
+      "zuggattung": "IC",
+      "linie": "IC 56",
+      "beschreibung": "IC 56: Bremen → Leipzig"
+    },
+    "Magdeburg–Leipzig": {
+      "halte": [
+        "Magdeburg Hbf",
+        "Köthen",
+        "Halle(Saale)Hbf",
+        "Leipzig Hbf"
+      ],
+      "halte_quiz": [
+        "Magdeburg",
+        "Leipzig"
+      ],
+      "halte_zeiten": [
+        "11:04:00",
+        "12:14:00"
+      ],
+      "zuggattung": "IC",
+      "linie": "IC 57",
+      "beschreibung": "IC 57: Magdeburg → Leipzig"
+    },
+    "Karlsruhe–Stuttgart": {
+      "halte": [
+        "Karlsruhe Hbf",
+        "Karlsruhe-Durlach",
+        "Bruchsal",
+        "Stuttgart Hbf"
+      ],
+      "halte_quiz": [
+        "Karlsruhe",
+        "Stuttgart"
+      ],
+      "halte_zeiten": [
+        "06:49:00",
+        "07:47:00"
+      ],
+      "zuggattung": "IC",
+      "linie": "IC 60",
+      "beschreibung": "IC 60: Karlsruhe → Stuttgart"
+    },
+    "Stuttgart–Karlsruhe": {
+      "halte": [
+        "Stuttgart Hbf",
+        "Vaihingen(Enz)",
+        "Karlsruhe Hbf"
+      ],
+      "halte_quiz": [
+        "Stuttgart",
+        "Karlsruhe"
+      ],
+      "halte_zeiten": [
+        "07:59:00",
+        "08:53:00"
+      ],
+      "zuggattung": "IC",
+      "linie": "IC 61",
+      "beschreibung": "IC 61: Stuttgart → Karlsruhe"
+    },
+    "Hamburg–Köln": {
+      "halte": [
+        "Hamburg-Altona(S)",
+        "Hamburg Dammtor",
+        "Hamburg Hbf",
+        "Hamburg-Harburg(S)",
+        "Bremen Hbf",
+        "Diepholz",
+        "Osnabrück Hbf",
+        "Münster(Westf)Hbf",
+        "Dortmund Hbf",
+        "Bochum Hbf",
+        "Essen Hbf",
+        "Duisburg Hbf",
+        "Düsseldorf Hbf",
+        "Köln Hbf"
+      ],
+      "halte_quiz": [
+        "Hamburg",
+        "Bremen",
+        "Dortmund",
+        "Bochum",
+        "Essen",
+        "Duisburg",
+        "Düsseldorf",
+        "Köln"
+      ],
+      "halte_zeiten": [
+        "20:45:00",
+        "21:44:00",
+        "23:35:00",
+        "23:47:00",
+        "23:59:00",
+        "24:12:00",
+        "24:27:00",
+        "25:07:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 43",
+      "beschreibung": "ICE 43: Hamburg → Köln"
+    },
+    "Berlin–Köln": {
+      "halte": [
+        "Berlin Ostbahnhof",
+        "Berlin Hbf",
+        "Berlin Zoologischer Garten",
+        "Berlin-Wannsee",
+        "Potsdam Hbf",
+        "Brandenburg Hbf",
+        "Magdeburg Hbf",
+        "Braunschweig Hbf",
+        "Hannover Hbf",
+        "Minden, Kaiserstraße",
+        "Bielefeld Hbf",
+        "Gütersloh Hbf",
+        "Hamm(Westf)Hbf",
+        "Dortmund Hbf",
+        "Gelsenkirchen Hbf",
+        "Duisburg Hbf",
+        "Düsseldorf Flughafen",
+        "Düsseldorf Hbf",
+        "Köln Hbf"
+      ],
+      "halte_quiz": [
+        "Berlin",
+        "Potsdam",
+        "Magdeburg",
+        "Braunschweig",
+        "Hannover",
+        "Bielefeld",
+        "Dortmund",
+        "Duisburg",
+        "Düsseldorf",
+        "Köln"
+      ],
+      "halte_zeiten": [
+        "23:52:00",
+        "24:19:00",
+        "25:23:00",
+        "26:10:00",
+        "26:46:00",
+        "28:02:00",
+        "28:54:00",
+        "29:30:00",
+        "29:48:00",
+        "30:12:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 10",
+      "beschreibung": "ICE 10: Berlin → Köln"
+    },
+    "München–Leipzig": {
+      "halte": [
+        "München Hbf",
+        "München-Pasing",
+        "Augsburg Hbf",
+        "Ulm Hbf",
+        "Stuttgart Hbf",
+        "Mannheim Hbf",
+        "Frankfurt(Main)Hbf",
+        "Fulda",
+        "Eisenach Hbf",
+        "Erfurt Hbf",
+        "Leipzig Hbf"
+      ],
+      "halte_quiz": [
+        "München",
+        "Augsburg",
+        "Ulm",
+        "Stuttgart",
+        "Mannheim",
+        "Erfurt",
+        "Leipzig"
+      ],
+      "halte_zeiten": [
+        "18:45:00",
+        "19:17:00",
+        "20:01:00",
+        "20:49:00",
+        "21:29:00",
+        "24:29:00",
+        "25:09:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 11",
+      "beschreibung": "ICE 11: München → Leipzig"
+    },
+    "Berlin–Karlsruhe": {
+      "halte": [
+        "Berlin Ostbahnhof",
+        "Berlin Hbf",
+        "Berlin Zoologischer Garten",
+        "Berlin-Spandau",
+        "Stendal Hbf",
+        "Wolfsburg Hbf",
+        "Hannover Hbf",
+        "Göttingen",
+        "Fulda",
+        "Frankfurt(Main)Hbf",
+        "Mannheim Hbf",
+        "Karlsruhe Hbf",
+        "Offenburg",
+        "Freiburg, Hauptbahnhof",
+        "Basel Bad Bf",
+        "Basel SBB"
+      ],
+      "halte_quiz": [
+        "Berlin",
+        "Wolfsburg",
+        "Hannover",
+        "Mannheim",
+        "Karlsruhe"
+      ],
+      "halte_zeiten": [
+        "23:07:00",
+        "24:39:00",
+        "25:49:00",
+        "30:37:00",
+        "31:01:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 12",
+      "beschreibung": "ICE 12: Berlin → Karlsruhe"
+    },
+    "Braunschweig–Berlin": {
+      "halte": [
+        "Göttingen",
+        "Hildesheim Hbf",
+        "Braunschweig Hbf",
+        "Wolfsburg Hbf",
+        "Stendal Hbf",
+        "Berlin Hbf",
+        "Berlin Ostbahnhof"
+      ],
+      "halte_quiz": [
+        "Braunschweig",
+        "Wolfsburg",
+        "Berlin"
+      ],
+      "halte_zeiten": [
+        "15:03:00",
+        "15:20:00",
+        "16:42:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 13",
+      "beschreibung": "ICE 13: Braunschweig → Berlin"
+    },
+    "Hannover–Bremen": {
+      "halte": [
+        "Hannover Hbf",
+        "Nienburg(Weser)",
+        "Bremen Hbf",
+        "Oldenburg(Oldb)Hbf"
+      ],
+      "halte_quiz": [
+        "Hannover",
+        "Bremen"
+      ],
+      "halte_zeiten": [
+        "19:45:00",
+        "20:52:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 16",
+      "beschreibung": "ICE 16: Hannover → Bremen"
+    },
+    "Leipzig–Berlin": {
+      "halte": [
+        "Leipzig Hbf",
+        "Bitterfeld",
+        "Lutherstadt Wittenberg Hbf",
+        "Berlin Hbf",
+        "Berlin Gesundbrunnen"
+      ],
+      "halte_quiz": [
+        "Leipzig",
+        "Berlin"
+      ],
+      "halte_zeiten": [
+        "08:49:00",
+        "10:20:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 17",
+      "beschreibung": "ICE 17: Leipzig → Berlin"
+    },
+    "Nürnberg–München": {
+      "halte": [
+        "Nürnberg Hbf",
+        "Donauwörth",
+        "Augsburg Hbf",
+        "München-Pasing",
+        "München Hbf"
+      ],
+      "halte_quiz": [
+        "Nürnberg",
+        "Augsburg",
+        "München"
+      ],
+      "halte_zeiten": [
+        "08:59:00",
+        "10:10:00",
+        "10:42:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 18",
+      "beschreibung": "ICE 18: Nürnberg → München"
+    },
+    "Mannheim–Karlsruhe": {
+      "halte": [
+        "Mannheim Hbf",
+        "Karlsruhe Hbf",
+        "Offenburg",
+        "Freiburg, Hauptbahnhof",
+        "Basel Bad Bf",
+        "Basel SBB"
+      ],
+      "halte_quiz": [
+        "Mannheim",
+        "Karlsruhe"
+      ],
+      "halte_zeiten": [
+        "23:00:00",
+        "23:26:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 20",
+      "beschreibung": "ICE 20: Mannheim → Karlsruhe"
+    },
+    "Stuttgart–Hannover": {
+      "halte": [
+        "Stuttgart Hbf",
+        "Mannheim Hbf",
+        "Frankfurt(Main)Hbf",
+        "Kassel-Wilhelmshöhe",
+        "Göttingen",
+        "Hannover Hbf"
+      ],
+      "halte_quiz": [
+        "Stuttgart",
+        "Mannheim",
+        "Hannover"
+      ],
+      "halte_zeiten": [
+        "19:23:00",
+        "20:03:00",
+        "24:04:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 22",
+      "beschreibung": "ICE 22: Stuttgart → Hannover"
+    },
+    "Hannover–Nürnberg": {
+      "halte": [
+        "Hannover Hbf",
+        "Göttingen",
+        "Kassel-Wilhelmshöhe",
+        "Fulda",
+        "Würzburg Hbf",
+        "Nürnberg Hbf"
+      ],
+      "halte_quiz": [
+        "Hannover",
+        "Würzburg",
+        "Nürnberg"
+      ],
+      "halte_zeiten": [
+        "20:27:00",
+        "22:29:00",
+        "23:25:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 25",
+      "beschreibung": "ICE 25: Hannover → Nürnberg"
+    },
+    "Hamburg–Erfurt": {
+      "halte": [
+        "Hamburg Hbf",
+        "Lüneburg",
+        "Uelzen",
+        "Salzwedel",
+        "Berlin-Spandau",
+        "Berlin Hbf",
+        "Berlin Südkreuz",
+        "Lutherstadt Wittenberg Hbf",
+        "Bitterfeld",
+        "Leipzig Hbf",
+        "Erfurt Hbf"
+      ],
+      "halte_quiz": [
+        "Hamburg",
+        "Berlin",
+        "Leipzig",
+        "Erfurt"
+      ],
+      "halte_zeiten": [
+        "19:49:00",
+        "22:28:00",
+        "23:55:00",
+        "25:45:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 28",
+      "beschreibung": "ICE 28: Hamburg → Erfurt"
+    },
+    "Hannover–Hamburg": {
+      "halte": [
+        "Frankfurt(M) Flughafen Regionalbf",
+        "Frankfurt(Main)Hbf",
+        "Hannover Hbf",
+        "Hamburg Hbf",
+        "Hamburg Dammtor",
+        "Hamburg-Altona(S)"
+      ],
+      "halte_quiz": [
+        "Hannover",
+        "Hamburg"
+      ],
+      "halte_zeiten": [
+        "12:19:00",
+        "13:41:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 4",
+      "beschreibung": "ICE 4: Hannover → Hamburg"
+    },
+    "München–Dortmund": {
+      "halte": [
+        "München Hbf",
+        "Nürnberg Hbf",
+        "Würzburg Hbf",
+        "Aschaffenburg Hbf",
+        "Frankfurt(Main)Hbf",
+        "Frankfurt(M) Flughafen Fernbf",
+        "Düsseldorf Hbf",
+        "Duisburg Hbf",
+        "Essen Hbf",
+        "Bochum Hbf",
+        "Dortmund Hbf"
+      ],
+      "halte_quiz": [
+        "München",
+        "Nürnberg",
+        "Würzburg",
+        "Düsseldorf",
+        "Duisburg",
+        "Essen",
+        "Bochum",
+        "Dortmund"
+      ],
+      "halte_zeiten": [
+        "17:46:00",
+        "19:01:00",
+        "19:55:00",
+        "24:37:00",
+        "24:50:00",
+        "25:06:00",
+        "25:16:00",
+        "25:27:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 41",
+      "beschreibung": "ICE 41: München → Dortmund"
+    },
+    "München–Köln": {
+      "halte": [
+        "München Hbf",
+        "München-Pasing",
+        "Augsburg Hbf",
+        "Ulm Hbf",
+        "Stuttgart Hbf",
+        "Mannheim Hbf",
+        "Frankfurt(M) Flughafen Fernbf",
+        "Köln Hbf"
+      ],
+      "halte_quiz": [
+        "München",
+        "Augsburg",
+        "Ulm",
+        "Stuttgart",
+        "Mannheim",
+        "Köln"
+      ],
+      "halte_zeiten": [
+        "19:28:00",
+        "20:01:00",
+        "20:47:00",
+        "21:49:00",
+        "22:34:00",
+        "25:24:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 42",
+      "beschreibung": "ICE 42: München → Köln"
+    },
+    "Karlsruhe–Köln": {
+      "halte": [
+        "Konstanz",
+        "Radolfzell",
+        "Singen(Hohentwiel)",
+        "Donaueschingen",
+        "Villingen(Schwarzw)",
+        "St Georgen(Schwarzw)",
+        "Offenburg",
+        "Baden-Baden",
+        "Karlsruhe Hbf",
+        "Mannheim Hbf",
+        "Frankfurt(M) Flughafen Fernbf",
+        "Siegburg/Bonn",
+        "Köln/Bonn Flughafen",
+        "Köln Hbf"
+      ],
+      "halte_quiz": [
+        "Karlsruhe",
+        "Mannheim",
+        "Köln"
+      ],
+      "halte_zeiten": [
+        "19:19:00",
+        "19:55:00",
+        "21:55:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 45",
+      "beschreibung": "ICE 45: Karlsruhe → Köln"
+    },
+    "Erfurt–Leipzig": {
+      "halte": [
+        "Frankfurt(Main)Hbf",
+        "Fulda",
+        "Bad Hersfeld",
+        "Eisenach Hbf",
+        "Gotha",
+        "Erfurt Hbf",
+        "Leipzig Hbf"
+      ],
+      "halte_quiz": [
+        "Erfurt",
+        "Leipzig"
+      ],
+      "halte_zeiten": [
+        "24:08:00",
+        "25:10:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 50",
+      "beschreibung": "ICE 50: Erfurt → Leipzig"
+    },
+    "Köln–Dresden": {
+      "halte": [
+        "Köln Hbf",
+        "Düsseldorf Hbf",
+        "Duisburg Hbf",
+        "Essen Hbf",
+        "Bochum Hbf",
+        "Dortmund Hbf",
+        "Kassel-Wilhelmshöhe",
+        "Erfurt Hbf",
+        "Leipzig Hbf",
+        "Dresden-Neustadt",
+        "Dresden Hbf"
+      ],
+      "halte_quiz": [
+        "Köln",
+        "Düsseldorf",
+        "Duisburg",
+        "Essen",
+        "Bochum",
+        "Dortmund",
+        "Erfurt",
+        "Leipzig",
+        "Dresden"
+      ],
+      "halte_zeiten": [
+        "12:01:00",
+        "12:45:00",
+        "13:02:00",
+        "13:15:00",
+        "13:27:00",
+        "13:42:00",
+        "17:52:00",
+        "18:41:00",
+        "19:55:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 51",
+      "beschreibung": "ICE 51: Köln → Dresden"
+    },
+    "Köln–Stuttgart": {
+      "halte": [
+        "Köln Hbf",
+        "Bonn Hbf",
+        "Koblenz Hbf",
+        "Mainz Hbf",
+        "Mannheim Hbf",
+        "Heidelberg Hbf",
+        "Vaihingen(Enz)",
+        "Stuttgart Hbf"
+      ],
+      "halte_quiz": [
+        "Köln",
+        "Bonn",
+        "Koblenz",
+        "Mainz",
+        "Mannheim",
+        "Heidelberg",
+        "Stuttgart"
+      ],
+      "halte_zeiten": [
+        "06:42:00",
+        "07:03:00",
+        "07:36:00",
+        "08:42:00",
+        "09:23:00",
+        "09:36:00",
+        "10:24:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 55",
+      "beschreibung": "ICE 55: Köln → Stuttgart"
+    },
+    "Berlin–Nürnberg": {
+      "halte": [
+        "Berlin Gesundbrunnen",
+        "Berlin Hbf",
+        "Berlin Südkreuz",
+        "Nürnberg Hbf"
+      ],
+      "halte_quiz": [
+        "Berlin",
+        "Nürnberg"
+      ],
+      "halte_zeiten": [
+        "16:12:00",
+        "18:55:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 6",
+      "beschreibung": "ICE 6: Berlin → Nürnberg"
+    },
+    "Karlsruhe–München": {
+      "halte": [
+        "Basel SBB",
+        "Basel Bad Bf",
+        "Weil am Rhein",
+        "Müllheim im Markgräflerland",
+        "Freiburg, Hauptbahnhof",
+        "Offenburg",
+        "Baden-Baden",
+        "Karlsruhe Hbf",
+        "Bruchsal",
+        "Stuttgart Hbf",
+        "Ulm Hbf",
+        "Augsburg Hbf",
+        "München-Pasing",
+        "München Hbf Gl.5-10"
+      ],
+      "halte_quiz": [
+        "Karlsruhe",
+        "Stuttgart",
+        "Ulm",
+        "Augsburg",
+        "München"
+      ],
+      "halte_zeiten": [
+        "08:05:00",
+        "08:51:00",
+        "09:36:00",
+        "10:19:00",
+        "10:49:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 60",
+      "beschreibung": "ICE 60: Karlsruhe → München"
+    },
+    "Stuttgart–Heidelberg": {
+      "halte": [
+        "Stuttgart Hbf",
+        "Heidelberg Hbf",
+        "Weinheim(Bergstr)Hbf",
+        "Darmstadt Hbf",
+        "Frankfurt(Main)Hbf"
+      ],
+      "halte_quiz": [
+        "Stuttgart",
+        "Heidelberg"
+      ],
+      "halte_zeiten": [
+        "06:05:00",
+        "06:46:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 62",
+      "beschreibung": "ICE 62: Stuttgart → Heidelberg"
+    },
+    "Köln–Duisburg": {
+      "halte": [
+        "Frankfurt(Main)Hbf",
+        "Frankfurt(M) Flughafen Fernbf",
+        "Siegburg/Bonn",
+        "Köln Hbf",
+        "Düsseldorf Hbf",
+        "Duisburg Hbf",
+        "Oberhausen Hbf",
+        "Emmerich(Gr)",
+        "Arnhem Centraal"
+      ],
+      "halte_quiz": [
+        "Köln",
+        "Düsseldorf",
+        "Duisburg"
+      ],
+      "halte_zeiten": [
+        "06:49:00",
+        "07:11:00",
+        "07:25:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 78",
+      "beschreibung": "ICE 78: Köln → Duisburg"
+    },
+    "Aachen–Köln": {
+      "halte": [
+        "Bruxelles Midi",
+        "Bruxelles-Nord",
+        "Liège-Guillemins",
+        "Aachen Süd(Gr)",
+        "Aachen Hbf",
+        "Köln Hbf",
+        "Frankfurt(M) Flughafen Fernbf",
+        "Frankfurt(Main)Hbf"
+      ],
+      "halte_quiz": [
+        "Aachen",
+        "Köln"
+      ],
+      "halte_zeiten": [
+        "11:38:00",
+        "12:18:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 79",
+      "beschreibung": "ICE 79: Aachen → Köln"
+    },
+    "Mannheim–Saarbrücken": {
+      "halte": [
+        "Frankfurt(Main)Hbf",
+        "Mannheim Hbf",
+        "Kaiserslautern Hbf",
+        "Saarbrücken Hbf"
+      ],
+      "halte_quiz": [
+        "Mannheim",
+        "Saarbrücken"
+      ],
+      "halte_zeiten": [
+        "06:40:00",
+        "07:59:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 82",
+      "beschreibung": "ICE 82: Mannheim → Saarbrücken"
+    },
+    "Würzburg–Nürnberg": {
+      "halte": [
+        "Frankfurt(Main)Hbf",
+        "Hanau Hbf",
+        "Aschaffenburg Hbf",
+        "Würzburg Hbf",
+        "Nürnberg Hbf"
+      ],
+      "halte_quiz": [
+        "Würzburg",
+        "Nürnberg"
+      ],
+      "halte_zeiten": [
+        "21:35:00",
+        "22:50:00"
+      ],
+      "zuggattung": "ICE",
+      "linie": "ICE 91",
+      "beschreibung": "ICE 91: Würzburg → Nürnberg"
+    }
+  },
+  "kontraintuitive_fakten": [
+    "Kassel-Wilhelmshöhe ist der ICE-Halt — nicht Kassel Hauptbahnhof!",
+    "Montabaur (12.000 Einwohner) hat einen ICE-Halt wegen der Neubaustrecke Köln–Frankfurt.",
+    "Wolfsburg liegt direkt an der Hochgeschwindigkeitsstrecke Hannover–Berlin.",
+    "Die Strecke Köln–Frankfurt hat nur 2 Zwischenhalte auf 177 km — dafür bis 300 km/h.",
+    "Hamburg Hauptbahnhof ist der meistfrequentierte Bahnhof Deutschlands (500.000 Reisende/Tag).",
+    "Limburg (Süd) hat trotz seiner Größe einen ICE-Halt — als Haltepunkt der Neubaustrecke.",
+    "Berlin Hauptbahnhof ist Europas größter Kreuzungsbahnhof (2006 eröffnet)."
+  ]
+}

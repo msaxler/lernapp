@@ -1,0 +1,1002 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AP7 — Nostr Relay PoC</title>
+<style>
+  :root {
+    --bg: #0e0f11;
+    --surface: #16181c;
+    --surface2: #1e2127;
+    --border: #2a2d35;
+    --accent: #8b5cf6;
+    --accent2: #10b981;
+    --text: #e8eaf0;
+    --muted: #6b7280;
+    --danger: #ef4444;
+    --warn: #f59e0b;
+    --radius: 10px;
+    --font: 'DM Mono', 'Courier New', monospace;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg); color: var(--text);
+    font-family: var(--font); min-height: 100vh;
+    display: flex; flex-direction: column;
+    align-items: center; padding: 24px 16px 48px;
+  }
+  header {
+    width: 100%; max-width: 680px;
+    margin-bottom: 28px;
+    border-bottom: 1px solid var(--border); padding-bottom: 14px;
+  }
+  header h1 { font-size: 12px; letter-spacing: .15em; color: var(--muted); text-transform: uppercase; margin-bottom: 4px; }
+  header p  { font-size: 20px; color: var(--text); letter-spacing: -.02em; }
+  main { width: 100%; max-width: 680px; display: flex; flex-direction: column; gap: 14px; }
+
+  .badge { display: inline-block; font-size: 11px; letter-spacing: .1em; text-transform: uppercase;
+    padding: 2px 8px; border-radius: 4px; margin-left: 6px; vertical-align: middle; }
+  .badge-purple { background: rgba(139,92,246,.15); color: #a78bfa; border: 1px solid rgba(139,92,246,.3); }
+  .badge-green  { background: rgba(16,185,129,.15);  color: #34d399; border: 1px solid rgba(16,185,129,.3); }
+  .badge-gray   { background: rgba(107,114,128,.12); color: var(--muted); border: 1px solid var(--border); }
+  .badge-red    { background: rgba(239,68,68,.15);   color: #f87171; border: 1px solid rgba(239,68,68,.3); }
+  .badge-warn   { background: rgba(245,158,11,.15);  color: #fbbf24; border: 1px solid rgba(245,158,11,.3); }
+
+  .panel { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; }
+  .panel-header { padding: 11px 16px; border-bottom: 1px solid var(--border);
+    font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--muted);
+    display: flex; align-items: center; justify-content: space-between; }
+  .panel-body { padding: 16px; }
+
+  .status-bar { display: flex; align-items: center; gap: 10px; font-size: 13px; }
+  .status-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--muted); flex-shrink: 0; transition: background .3s; }
+  .status-dot.ok   { background: var(--accent2); }
+  .status-dot.warn { background: var(--warn); animation: pulse 1s ease-in-out infinite; }
+  .status-dot.err  { background: var(--danger); }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.3} }
+
+  .id-display {
+    font-size: 36px; font-weight: 700; letter-spacing: .2em;
+    color: var(--accent); text-align: center; padding: 12px 0 4px;
+    font-family: var(--font);
+  }
+  .id-full { font-size: 11px; color: var(--muted); text-align: center;
+    word-break: break-all; padding: 0 0 8px; line-height: 1.6; }
+
+  .peer-list { display: flex; flex-direction: column; gap: 8px; }
+  .peer-item { background: var(--surface2); border: 1px solid var(--border);
+    border-radius: 8px; padding: 10px 14px;
+    display: flex; align-items: center; justify-content: space-between; }
+  .peer-name  { font-size: 14px; color: var(--text); }
+  .peer-id    { font-size: 11px; color: var(--muted); margin-top: 2px; }
+  .peer-status { font-size: 11px; }
+
+  input[type=text], textarea {
+    width: 100%; background: var(--surface2); border: 1px solid var(--border);
+    border-radius: 6px; color: var(--text); font-family: var(--font);
+    font-size: 13px; padding: 10px 12px; outline: none; transition: border-color .15s;
+  }
+  input[type=text]:focus, textarea:focus { border-color: var(--accent); }
+  textarea { resize: vertical; line-height: 1.6; }
+
+  .btn { display: inline-flex; align-items: center; gap: 6px; padding: 9px 16px;
+    border-radius: 6px; font-family: var(--font); font-size: 12px; letter-spacing: .05em;
+    cursor: pointer; border: none; transition: opacity .15s, background .15s; }
+  .btn:disabled { opacity: .35; cursor: not-allowed; }
+  .btn-primary { background: var(--accent); color: #fff; }
+  .btn-primary:hover:not(:disabled) { background: #7c3aed; }
+  .btn-success { background: var(--accent2); color: #fff; }
+  .btn-success:hover:not(:disabled) { background: #059669; }
+  .btn-ghost   { background: var(--surface2); color: var(--text); border: 1px solid var(--border); }
+  .btn-ghost:hover:not(:disabled) { border-color: var(--accent); }
+  .btn-row { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
+
+  .chat-log {
+    background: var(--surface2); border: 1px solid var(--border); border-radius: 6px;
+    height: 200px; overflow-y: auto; padding: 10px 12px;
+    font-size: 12px; line-height: 1.7; display: flex; flex-direction: column; gap: 3px;
+  }
+  .chat-log:empty::before { content: 'Noch keine Nachrichten...'; color: var(--muted); }
+  .msg { display: flex; gap: 8px; }
+  .msg.sent .msg-text { color: #a78bfa; }
+  .msg.recv .msg-text { color: #34d399; }
+  .msg.sys  .msg-text { color: var(--muted); font-style: italic; }
+  .msg-who  { color: var(--muted); flex-shrink: 0; min-width: 52px; }
+  .msg-text { word-break: break-word; }
+  .chat-input-row { display: flex; gap: 8px; margin-top: 10px; }
+  .chat-input-row input { flex: 1; }
+
+  .info-box { background: rgba(139,92,246,.07); border: 1px solid rgba(139,92,246,.2);
+    border-radius: 6px; padding: 10px 14px; font-size: 12px; color: #c4b5fd; line-height: 1.6; }
+
+  .relay-item { display: flex; align-items: center; gap: 8px; font-size: 12px; margin-bottom: 6px; }
+  .relay-dot  { width: 7px; height: 7px; border-radius: 50%; background: var(--muted); flex-shrink: 0; }
+  .relay-dot.ok  { background: var(--accent2); }
+  .relay-dot.err { background: var(--danger); }
+
+  .hidden { display: none !important; }
+  ::-webkit-scrollbar { width: 4px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+  .section-title { font-size: 11px; letter-spacing: .12em; text-transform: uppercase;
+    color: var(--muted); margin-bottom: 8px; }
+  .divider { border: none; border-top: 1px solid var(--border); margin: 4px 0 12px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>QuizAway · AP7</h1>
+  <p>Nostr Relay PoC <span id="conn-badge" class="badge badge-gray">offline</span></p>
+</header>
+
+<main>
+
+  <!-- Eigene Identität -->
+  <div class="panel">
+    <div class="panel-header">
+      Meine Nostr-Identität
+      <span id="id-badge" class="badge badge-gray">wird generiert...</span>
+    </div>
+    <div class="panel-body">
+      <div class="id-display" id="my-short-id">——</div>
+      <div class="id-full" id="my-pubkey-display">Public Key wird generiert...</div>
+      <textarea id="my-pubkey-text" rows="2" readonly
+        style="font-size:11px;margin-top:8px;display:none;word-break:break-all;"
+        onclick="this.select()"></textarea>
+      <div class="btn-row">
+        <button class="btn btn-ghost" onclick="copyMyKey()">Public Key anzeigen / kopieren</button>
+        <button class="btn btn-ghost" onclick="resetIdentity()">Neue Identität</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Relay-Status -->
+  <div class="panel">
+    <div class="panel-header">
+      Relay-Verbindungen
+      <button class="btn btn-ghost" style="padding:3px 8px;font-size:11px;" onclick="reconnectRelays()">neu verbinden</button>
+    </div>
+    <div class="panel-body" id="relay-status-body">
+      <div class="relay-item"><div class="relay-dot" id="dot-damus"></div><span>relay.damus.io</span></div>
+      <div class="relay-item"><div class="relay-dot" id="dot-nos"></div><span>nos.lol</span></div>
+      <div class="relay-item"><div class="relay-dot" id="dot-band"></div><span>relay.nostr.band</span></div>
+    </div>
+  </div>
+
+  <!-- Bekannte Peers -->
+  <div class="panel">
+    <div class="panel-header">
+      Bekannte Peers
+      <span id="peer-count" class="badge badge-gray">0</span>
+    </div>
+    <div class="panel-body">
+      <div class="peer-list" id="peer-list">
+        <p style="font-size:12px;color:var(--muted);">Noch keine Peers bekannt.</p>
+      </div>
+      <hr class="divider">
+      <p class="section-title">Neuen Peer hinzufügen</p>
+      <div class="info-box" style="margin-bottom:10px;">
+        Anderen Nutzer bitten seinen Public Key zu kopieren und hier einzufügen.
+        Danach erkennen sich beide Geräte automatisch.
+      </div>
+      <input type="text" id="peer-key-input" placeholder="Public Key des anderen Geräts (64 Zeichen Hex)...">
+      <div class="btn-row">
+        <input type="text" id="peer-name-input" placeholder="Name (z.B. 'Smartphone')" style="flex:1;">
+        <button class="btn btn-primary" onclick="addPeer()">Peer hinzufügen</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- WebRTC via Nostr -->
+  <div class="panel">
+    <div class="panel-header">
+      WebRTC-Verbindung via Nostr
+      <span id="rtc-badge" class="badge badge-gray">getrennt</span>
+    </div>
+    <div class="panel-body">
+      <div class="status-bar" style="margin-bottom:12px;">
+        <div class="status-dot" id="rtc-dot"></div>
+        <span id="rtc-status">Kein aktiver Peer</span>
+      </div>
+      <p class="section-title">Verbindung starten</p>
+      <div id="peer-connect-list" style="display:flex;flex-direction:column;gap:6px;">
+        <p style="font-size:12px;color:var(--muted);">Erst Peer hinzufügen.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Chat -->
+  <div class="panel hidden" id="chat-panel">
+    <div class="panel-header">
+      Nachrichtenkanal
+      <span class="badge badge-green">P2P via Nostr-Signaling</span>
+    </div>
+    <div class="panel-body">
+      <div class="chat-log" id="chat-log"></div>
+      <div class="chat-input-row">
+        <input type="text" id="chat-input" placeholder="Nachricht..." onkeydown="if(event.key==='Enter')sendMsg()">
+        <button class="btn btn-primary" onclick="sendMsg()">Senden</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Debug -->
+  <div class="panel">
+    <div class="panel-header">
+      Debug-Log
+      <button class="btn btn-ghost" style="padding:3px 8px;font-size:11px;" onclick="document.getElementById('debug-log').innerHTML=''">löschen</button>
+    </div>
+    <div class="panel-body">
+      <div class="chat-log" id="debug-log" style="height:160px;font-size:11px;"></div>
+    </div>
+  </div>
+
+</main>
+
+<script>
+// ═══════════════════════════════════════════════════════════════
+// Nostr-Kryptographie — kein CDN, nur WebCrypto + eingebettetes
+// secp256k1 via importKey ECDH (P-256 als Proxy für den PoC)
+// Für Signierung: ECDSA P-256 (WebCrypto-nativ)
+// Für ECDH+AES-GCM: WebCrypto ECDH P-256
+// Hinweis: echter Nostr nutzt secp256k1, dieser PoC nutzt P-256
+// über WebCrypto — kryptographisch gleichwertig sicher, aber
+// Keys sind nicht Nostr-kompatibel (für PoC ausreichend)
+// ═══════════════════════════════════════════════════════════════
+
+// ─── Hex-Hilfsfunktionen ──────────────────────────────────────
+function hexToBytes(hex) {
+  const arr = new Uint8Array(hex.length / 2);
+  for (let i = 0; i < hex.length; i += 2)
+    arr[i/2] = parseInt(hex.slice(i, i+2), 16);
+  return arr;
+}
+function bytesToHex(bytes) {
+  return Array.from(bytes).map(b => b.toString(16).padStart(2,'0')).join('');
+}
+function bytesToBase64(bytes) {
+  return btoa(String.fromCharCode(...bytes));
+}
+function base64ToBytes(b64) {
+  return new Uint8Array(atob(b64).split('').map(c => c.charCodeAt(0)));
+}
+
+// ═══════════════════════════════════════════════════════════════
+// secp256k1 — minimale Implementierung (kein CDN, kein extern)
+// Basiert auf BigInt-Arithmetik, läuft in jedem modernen Browser
+// ═══════════════════════════════════════════════════════════════
+const SECP = (() => {
+  const P  = 0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFC2Fn;
+  const N  = 0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEBAAEDCE6AF48A03BBFD25E8CD0364141n;
+  const Gx = 0x79BE667EF9DCBBAC55A06295CE870B07029BFCDB2DCE28D959F2815B16F81798n;
+  const Gy = 0x483ADA7726A3C4655DA4FBFC0E1108A8FD17B448A68554199C47D08FFB10D4B8n;
+  const mod = (a, m = P) => { const r = a % m; return r < 0n ? r + m : r; };
+  const inv = (a, m = P) => {
+    // Extended Euclidean Algorithm - korrekte Implementierung
+    a = mod(a, m);
+    let [r0, r1, s0, s1] = [m, a, 0n, 1n];
+    while (r1 !== 0n) {
+      const q = r0 / r1;
+      [r0, r1] = [r1, r0 - q * r1];
+      [s0, s1] = [s1, s0 - q * s1];
+    }
+    return mod(s0, m);
+  };
+  class Point {
+    constructor(x, y) { this.x = x; this.y = y; }
+    static ZERO = new Point(0n, 0n);
+    static G    = new Point(Gx, Gy);
+    add(b) {
+      if (this === Point.ZERO) return b;
+      if (b === Point.ZERO) return this;
+      if (this.x === b.x) {
+        if (this.y !== b.y) return Point.ZERO;
+        const m = mod(3n * this.x * this.x * inv(2n * this.y));
+        const x = mod(m*m - 2n*this.x);
+        return new Point(x, mod(m*(this.x - x) - this.y));
+      }
+      const m = mod((b.y - this.y) * inv(b.x - this.x));
+      const x = mod(m*m - this.x - b.x);
+      return new Point(x, mod(m*(this.x - x) - this.y));
+    }
+    mul(k) {
+      let R = Point.ZERO, P = this;
+      while (k > 0n) { if (k & 1n) R = R.add(P); P = P.add(P); k >>= 1n; }
+      return R;
+    }
+    toBytes(compressed = true) {
+      const x = hexPad(this.x);
+      if (!compressed) return new Uint8Array([4, ...x, ...hexPad(this.y)]);
+      return new Uint8Array([(this.y & 1n) ? 3 : 2, ...x]);
+    }
+  }
+  function hexPad(n) {
+    const h = n.toString(16).padStart(64,'0');
+    return new Uint8Array(h.match(/.{2}/g).map(b => parseInt(b,16)));
+  }
+  function privToBytes(h) { return hexPad(BigInt('0x'+h)); }
+
+  // BIP-340 Schnorr tagged hash — nutzt sha256() mit Pure-JS Fallback
+  async function taggedHash(tag, data) {
+    const tb = await sha256(new TextEncoder().encode(tag));
+    const cat = new Uint8Array(tb.length*2 + data.length);
+    cat.set(tb, 0); cat.set(tb, tb.length); cat.set(data, tb.length*2);
+    return await sha256(cat);
+  }
+
+  // BIP-340 Schnorr sign
+  async function sign(msgHex, privHex) {
+    const msg = hexToBytes(msgHex);
+    const aux = new Uint8Array(32); // deterministic: all zeros
+    const d0 = BigInt('0x' + privHex);
+    const Pt = Point.G.mul(d0);
+    const d = (Pt.y & 1n) ? mod(-d0, N) : d0;
+    const Px = hexPad(Pt.x);
+
+    const tAux = await taggedHash('BIP0340/aux', aux);
+    const tVal = new Uint8Array(32);
+    const dBytes = hexPad(d);
+    for (let i=0; i<32; i++) tVal[i] = dBytes[i] ^ tAux[i];
+
+    const nonceInput = new Uint8Array(32+32+32);
+    nonceInput.set(tVal,0); nonceInput.set(Px,32); nonceInput.set(msg,64);
+    const rand = await taggedHash('BIP0340/nonce', nonceInput);
+    const k0 = mod(BigInt('0x'+bytesToHex(rand)), N);
+    if (k0 === 0n) throw new Error('k=0');
+
+    const R = Point.G.mul(k0);
+    const k = (R.y & 1n) ? mod(-k0, N) : k0;
+    const Rx = hexPad(R.x);
+
+    const chalInput = new Uint8Array(32+32+32);
+    chalInput.set(Rx,0); chalInput.set(Px,32); chalInput.set(msg,64);
+    const eBytes = await taggedHash('BIP0340/challenge', chalInput);
+    const e = mod(BigInt('0x'+bytesToHex(eBytes)), N);
+
+    const s = mod(k + e * d, N);
+    return bytesToHex(new Uint8Array([...Rx, ...hexPad(s)]));
+  }
+
+  function getPublicKey(privHex, compressed = true) {
+    return Point.G.mul(BigInt('0x' + privHex)).toBytes(compressed);
+  }
+
+  function getSharedX(privHex, pubHex) {
+    // ECDH: shared = privKey * pubPoint, return x-coordinate
+    const pub = pointFromHex(pubHex);
+    const shared = pub.mul(BigInt('0x' + privHex));
+    return hexPad(shared.x);
+  }
+
+  function pointFromHex(h) {
+    const b = hexToBytes(h);
+    if (b[0] === 4) {
+      const x = BigInt('0x' + h.slice(2,66));
+      const y = BigInt('0x' + h.slice(66,130));
+      return new Point(x, y);
+    }
+    const x = BigInt('0x' + h.slice(2,66));
+    const y2 = mod(x*x*x + 7n);
+    let y = modSqrt(y2);
+    if (((y & 1n) ? 3 : 2) !== b[0]) y = mod(-y);
+    return new Point(x, y);
+  }
+
+  function modSqrt(n) {
+    // Tonelli-Shanks für P ≡ 3 mod 4
+    return modPow(n, (P + 1n) / 4n, P);
+  }
+  function modPow(b, e, m) {
+    let r = 1n; b = mod(b, m);
+    while (e > 0n) { if (e & 1n) r = r * b % m; b = b * b % m; e >>= 1n; }
+    return r;
+  }
+
+  async function hmacSha256(key, ...data) {
+    // Funktioniert auf https:// via WebCrypto, auf http:// via Pure-JS
+    const cat = new Uint8Array(data.reduce((a,b)=>a+b.length,0));
+    let off=0; data.forEach(d=>{cat.set(d,off);off+=d.length;});
+    if (crypto.subtle) {
+      const k = await crypto.subtle.importKey('raw', key, {name:'HMAC',hash:'SHA-256'}, false, ['sign']);
+      return new Uint8Array(await crypto.subtle.sign('HMAC', k, cat));
+    }
+    // Pure-JS HMAC-SHA256 Fallback
+    return hmacSha256PureJS(key, cat);
+  }
+
+  function hmacSha256PureJS(key, data) {
+    // SHA256 via Pure-JS (minimal, für http:// Fallback)
+    function sha256pure(msg) {
+      const K = [0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,
+                 0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,
+                 0xe49b69c1,0xefbe4786,0x0fc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,
+                 0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x06ca6351,0x14292967,
+                 0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,
+                 0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,
+                 0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,
+                 0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2];
+      let h = [0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a,0x510e527f,0x9b05688c,0x1f83d9ab,0x5be0cd19];
+      const r = (x,n) => (x>>>n)|(x<<(32-n));
+      msg = [...msg];
+      const l = msg.length;
+      msg.push(0x80);
+      while (msg.length % 64 !== 56) msg.push(0);
+      const bits = l * 8;
+      for (let i=7;i>=0;i--) { msg.push(bits / Math.pow(2,i*8) & 0xff); }
+      for (let i=0;i<msg.length;i+=64) {
+        const w = new Array(64);
+        for (let j=0;j<16;j++) w[j]=(msg[i+j*4]<<24)|(msg[i+j*4+1]<<16)|(msg[i+j*4+2]<<8)|msg[i+j*4+3];
+        for (let j=16;j<64;j++) { const s0=r(w[j-15],7)^r(w[j-15],18)^(w[j-15]>>>3); const s1=r(w[j-2],17)^r(w[j-2],19)^(w[j-2]>>>10); w[j]=(w[j-16]+s0+w[j-7]+s1)>>>0; }
+        let [a,b,c,d,e,f,g,hh]=h;
+        for (let j=0;j<64;j++) {
+          const S1=r(e,6)^r(e,11)^r(e,25); const ch=(e&f)^(~e&g); const t1=(hh+S1+ch+K[j]+w[j])>>>0;
+          const S0=r(a,2)^r(a,13)^r(a,22); const maj=(a&b)^(a&c)^(b&c); const t2=(S0+maj)>>>0;
+          [hh,g,f,e,d,c,b,a]=[g,f,e,(d+t1)>>>0,c,b,a,(t1+t2)>>>0];
+        }
+        h=h.map((v,i)=>(v+[a,b,c,d,e,f,g,hh][i])>>>0);
+      }
+      const out=new Uint8Array(32); h.forEach((v,i)=>{out[i*4]=v>>>24;out[i*4+1]=(v>>>16)&0xff;out[i*4+2]=(v>>>8)&0xff;out[i*4+3]=v&0xff;}); return out;
+    }
+    const bs = 64;
+    if (key.length > bs) key = sha256pure(key);
+    const kp = new Uint8Array(bs); kp.set(key);
+    const ok = kp.map(b=>b^0x36), ik = kp.map(b=>b^0x5c);
+    const inner = new Uint8Array(bs+data.length); inner.set(ok); inner.set(data,bs);
+    const outer = new Uint8Array(bs+32); outer.set(ik); outer.set(sha256pure(inner),bs);
+    return sha256pure(outer);
+  }
+
+  async function rfc6979k(msgHex, privHex) {
+    const zb = hexToBytes(msgHex);
+    const db = hexToBytes(privHex.padStart(64,'0'));
+    let V = new Uint8Array(32).fill(1);
+    let K = new Uint8Array(32).fill(0);
+    K = await hmacSha256(K, V, new Uint8Array([0]), db, zb);
+    V = await hmacSha256(K, V);
+    K = await hmacSha256(K, V, new Uint8Array([1]), db, zb);
+    V = await hmacSha256(K, V);
+    while (true) {
+      V = await hmacSha256(K, V);
+      const k = BigInt('0x' + bytesToHex(V));
+      if (k >= 1n && k < N) return k;
+      K = await hmacSha256(K, V, new Uint8Array([0]));
+      V = await hmacSha256(K, V);
+    }
+  }
+
+  return { sign, getPublicKey, getSharedX };
+})();
+
+// ─── Zufallsbytes ────────────────────────────────────────────
+function generateRandomBytes(n) {
+  const buf = new Uint8Array(n);
+  if (typeof crypto !== 'undefined' && crypto.getRandomValues) {
+    crypto.getRandomValues(buf);
+  } else {
+    for (let i = 0; i < n; i++) buf[i] = Math.floor(Math.random() * 256);
+  }
+  return buf;
+}
+
+// ─── Keypair: echtes secp256k1 ────────────────────────────────
+async function generateKeypair() {
+  const privBytes = generateRandomBytes(32);
+  const privKey = bytesToHex(privBytes);
+  const pubBytes = SECP.getPublicKey(privKey, true); // compressed 33 bytes
+  // Nostr nutzt x-only 32-byte pubkey (strip 02/03 prefix)
+  const pubKey = bytesToHex(pubBytes.slice(1));
+  return { privKey, pubKey };
+}
+
+// ─── Keypair laden/speichern ─────────────────────────────────
+async function getOrCreateKeypair() {
+  const stored = localStorage.getItem('nostr_keypair');
+  if (stored) {
+    try {
+      const kp = JSON.parse(stored);
+      if (kp.privKey && kp.pubKey && kp.pubKey.length === 64) {
+        // Validierung: pubKey muss zum privKey passen
+        const expectedPub = bytesToHex(SECP.getPublicKey(kp.privKey, true).slice(1));
+        if (expectedPub === kp.pubKey) {
+          dbg('Keypair aus localStorage geladen');
+          return kp;
+        } else {
+          dbg('Keypair ungültig (pubKey passt nicht) — neu generieren');
+          // pubKey korrigieren statt neu generieren
+          kp.pubKey = expectedPub;
+          localStorage.setItem('nostr_keypair', JSON.stringify(kp));
+          dbg('Keypair korrigiert: ' + kp.pubKey.slice(0,16) + '...');
+          return kp;
+        }
+      }
+    } catch(e) {}
+  }
+  const kp = await generateKeypair();
+  localStorage.setItem('nostr_keypair', JSON.stringify(kp));
+  dbg('Neues Keypair generiert (secp256k1)');
+  return kp;
+}
+
+// ─── Nostr Event signieren ────────────────────────────────────
+async function signEvent(privKeyHex, pubKeyHex, kind, content, tags = []) {
+  const evt = { pubkey: pubKeyHex, created_at: Math.floor(Date.now() / 1000), kind, tags, content };
+  const serialized = JSON.stringify([0, evt.pubkey, evt.created_at, evt.kind, evt.tags, evt.content]);
+  const msgBytes = new TextEncoder().encode(serialized);
+  evt.id = bytesToHex(await sha256(msgBytes));
+  evt.sig = await SECP.sign(evt.id, privKeyHex);
+  return evt;
+}
+
+// ─── ECDH shared secret ───────────────────────────────────────
+async function getSharedSecret(privHex, recipientPubHex) {
+  const fullPub = '02' + recipientPubHex;
+  return SECP.getSharedX(privHex, fullPub);
+}
+
+// ─── NIP-44-ähnliche Verschlüsselung (ECDH + AES-GCM) ────────
+function sha256pure(msg) {
+  const K=[0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,
+           0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,
+           0xe49b69c1,0xefbe4786,0x0fc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,
+           0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x06ca6351,0x14292967,
+           0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,
+           0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,
+           0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,
+           0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2];
+  let h=[0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a,0x510e527f,0x9b05688c,0x1f83d9ab,0x5be0cd19];
+  const r=(x,n)=>(x>>>n)|(x<<(32-n));
+  const m=[...msg]; const l=m.length;
+  m.push(0x80);
+  while(m.length%64!==56)m.push(0);
+  const bits=l*8;
+  for(let i=7;i>=0;i--)m.push(bits/Math.pow(2,i*8)&0xff);
+  for(let i=0;i<m.length;i+=64){
+    const w=new Array(64);
+    for(let j=0;j<16;j++)w[j]=(m[i+j*4]<<24)|(m[i+j*4+1]<<16)|(m[i+j*4+2]<<8)|m[i+j*4+3];
+    for(let j=16;j<64;j++){const s0=r(w[j-15],7)^r(w[j-15],18)^(w[j-15]>>>3);const s1=r(w[j-2],17)^r(w[j-2],19)^(w[j-2]>>>10);w[j]=(w[j-16]+s0+w[j-7]+s1)>>>0;}
+    let[a,b,c,d,e,f,g,hh]=h;
+    for(let j=0;j<64;j++){const S1=r(e,6)^r(e,11)^r(e,25);const ch=(e&f)^(~e&g);const t1=(hh+S1+ch+K[j]+w[j])>>>0;const S0=r(a,2)^r(a,13)^r(a,22);const maj=(a&b)^(a&c)^(b&c);const t2=(S0+maj)>>>0;[hh,g,f,e,d,c,b,a]=[g,f,e,(d+t1)>>>0,c,b,a,(t1+t2)>>>0];}
+    h=h.map((v,i)=>(v+[a,b,c,d,e,f,g,hh][i])>>>0);
+  }
+  const out=new Uint8Array(32);h.forEach((v,i)=>{out[i*4]=v>>>24;out[i*4+1]=(v>>>16)&0xff;out[i*4+2]=(v>>>8)&0xff;out[i*4+3]=v&0xff;});return out;
+}
+
+async function sha256(data) {
+  if (typeof crypto !== 'undefined' && crypto.subtle) {
+    const buf = await crypto.subtle.digest('SHA-256', data);
+    return new Uint8Array(buf);
+  }
+  return sha256pure(data);
+}
+
+async function encryptNIP44(senderPrivHex, recipientPubHex, plaintext) {
+  const sharedBytes = await getSharedSecret(myKeypair.privKey, recipientPubHex);
+  const iv = generateRandomBytes(12);
+  const pt = new TextEncoder().encode(plaintext);
+  const ct = new Uint8Array(pt.length);
+  // XOR-Stream mit SHA256-Key (PoC — für Produktion AES-GCM)
+  const keyStream = await sha256(new Uint8Array([...sharedBytes, ...iv]));
+  for (let i = 0; i < pt.length; i++) ct[i] = pt[i] ^ keyStream[i % 32];
+  return bytesToBase64(iv) + '?' + bytesToBase64(ct);
+}
+
+async function decryptNIP44(recipientPrivHex, senderPubHex, ciphertext) {
+  const sharedBytes = await getSharedSecret(myKeypair.privKey, senderPubHex);
+  const [ivB64, ctB64] = ciphertext.split('?');
+  const iv = base64ToBytes(ivB64);
+  const ct = base64ToBytes(ctB64);
+  const keyStream = await sha256(new Uint8Array([...sharedBytes, ...iv]));
+  const pt = new Uint8Array(ct.length);
+  for (let i = 0; i < pt.length; i++) pt[i] = ct[i] ^ keyStream[i % 32];
+  return new TextDecoder().decode(pt);
+}
+
+// ═══════════════════════════════════════════════════════════════
+// Nostr Relay-Verbindung
+// ═══════════════════════════════════════════════════════════════
+
+const RELAYS = [
+  { id: 'damus', url: 'wss://relay.damus.io' },
+  { id: 'nos',   url: 'wss://nos.lol' },
+  { id: 'band',  url: 'wss://relay.nostr.band' },
+];
+
+let relayWS = {}; // id -> WebSocket
+let myKeypair = null;
+let peers = {}; // pubkey -> { name, connected, rtcState }
+let pc = null, dc = null;
+let activePeerPubkey = null;
+
+// ─── Debug-Log ───────────────────────────────────────────────
+function dbg(msg) {
+  const log = document.getElementById('debug-log');
+  const el = document.createElement('div');
+  el.className = 'msg sys';
+  const ts = new Date().toLocaleTimeString('de', { hour12: false });
+  el.innerHTML = `<span class="msg-who">${ts}</span><span class="msg-text">${msg}</span>`;
+  log.appendChild(el);
+  log.scrollTop = log.scrollHeight;
+}
+
+function addMsg(who, text, cls) {
+  const log = document.getElementById('chat-log');
+  const el = document.createElement('div');
+  el.className = 'msg ' + cls;
+  el.innerHTML = `<span class="msg-who">${who}</span><span class="msg-text">${text}</span>`;
+  log.appendChild(el);
+  log.scrollTop = log.scrollHeight;
+}
+
+// ─── Relay verbinden ─────────────────────────────────────────
+function connectRelay(relay) {
+  const dot = document.getElementById('dot-' + relay.id);
+  try {
+    const ws = new WebSocket(relay.url);
+    ws.onopen = () => {
+      dbg('Relay verbunden: ' + relay.url);
+      dot.className = 'relay-dot ok';
+      relayWS[relay.id] = ws;
+      subscribeToMyEvents(ws);
+      updateConnBadge();
+    };
+    ws.onmessage = (e) => handleRelayMessage(JSON.parse(e.data), relay);
+    ws.onclose = () => {
+      dbg('Relay getrennt: ' + relay.url);
+      dot.className = 'relay-dot err';
+      delete relayWS[relay.id];
+      updateConnBadge();
+      // Reconnect nach 10s
+      setTimeout(() => connectRelay(relay), 10000);
+    };
+    ws.onerror = () => { dot.className = 'relay-dot err'; };
+  } catch(e) {
+    dbg('Relay-Fehler ' + relay.id + ': ' + e);
+    dot.className = 'relay-dot err';
+  }
+}
+
+function reconnectRelays() {
+  Object.values(relayWS).forEach(ws => { try { ws.close(); } catch(e) {} });
+  relayWS = {};
+  RELAYS.forEach(r => connectRelay(r));
+}
+
+function updateConnBadge() {
+  const n = Object.keys(relayWS).length;
+  const badge = document.getElementById('conn-badge');
+  if (n === 0) { badge.textContent = 'offline'; badge.className = 'badge badge-red'; }
+  else if (n < RELAYS.length) { badge.textContent = n + '/' + RELAYS.length + ' relays'; badge.className = 'badge badge-warn'; }
+  else { badge.textContent = n + ' relays'; badge.className = 'badge badge-green'; }
+}
+
+// ─── Subscription ────────────────────────────────────────────
+function subscribeToMyEvents(ws) {
+  if (!myKeypair) return;
+  // Kind 1 (text note) mit #t-Tag 'quizaway-signaling'
+  // Beide Geräte subscriben denselben Channel, filtern selbst nach recipient
+  const sub = JSON.stringify(['REQ', 'sub-' + myKeypair.pubKey.slice(0, 8), {
+    kinds: [1],
+    '#t': ['quizaway-signaling'],
+    since: Math.floor(Date.now() / 1000) - 60
+  }]);
+  ws.send(sub);
+  dbg('Subscribed auf quizaway-signaling Channel');
+}
+
+// ─── Eingehende Relay-Nachrichten ────────────────────────────
+const seenEvents = new Set();
+
+async function handleRelayMessage(msg, relay) {
+  if (msg[0] === 'NOTICE') { dbg('Relay notice (' + relay.id + '): ' + msg[1]); return; }
+  if (msg[0] !== 'EVENT') return;
+  const evt = msg[2];
+  if (!evt || seenEvents.has(evt.id)) return;
+  seenEvents.add(evt.id);
+
+  if (evt.kind === 1) {
+    const senderPub = evt.pubkey;
+    if (senderPub === myKeypair.pubKey) return; // eigene Nachricht ignorieren
+    try {
+      const plain = await decryptNIP44(myKeypair.privKey, senderPub, evt.content);
+      const envelope = JSON.parse(plain);
+      // Nur verarbeiten wenn wir der Empfänger sind
+      if (envelope.to !== myKeypair.pubKey) return;
+      dbg('Nachricht empfangen von ' + senderPub.slice(0, 8) + ' Typ: ' + envelope.data.type);
+      await handleSignalingMessage(envelope.data, senderPub);
+    } catch(e) {
+      dbg('Entschlüsselung fehlgeschlagen: ' + e);
+    }
+  }
+}
+
+// ─── Nostr-DM senden ─────────────────────────────────────────
+async function sendDM(recipientPubKey, payload) {
+  // Payload enthält recipient-Feld damit Empfänger selbst filtern kann
+  const envelope = { to: recipientPubKey, from: myKeypair.pubKey, data: payload };
+  const plain = JSON.stringify(envelope);
+  const cipher = await encryptNIP44(myKeypair.privKey, recipientPubKey, plain);
+  const evt = await signEvent(
+    myKeypair.privKey, myKeypair.pubKey,
+    1, cipher,
+    [['t', 'quizaway-signaling']]
+  );
+  const msg = JSON.stringify(['EVENT', evt]);
+  let sent = 0;
+  Object.values(relayWS).forEach(ws => {
+    if (ws.readyState === WebSocket.OPEN) { ws.send(msg); sent++; }
+  });
+  dbg('Nachricht gesendet an ' + recipientPubKey.slice(0,8) + '... (' + sent + ' relays)');
+}
+
+// ═══════════════════════════════════════════════════════════════
+// WebRTC Signaling via Nostr
+// ═══════════════════════════════════════════════════════════════
+
+const RTC_CONFIG = {
+  iceServers: [
+    { urls: 'stun:stun.l.google.com:19302' },
+    { urls: 'stun:stun1.l.google.com:19302' }
+  ]
+};
+
+function initPC(peerPubKey) {
+  if (pc) { try { pc.close(); } catch(e) {} }
+  activePeerPubkey = peerPubKey;
+  pc = new RTCPeerConnection(RTC_CONFIG);
+
+  pc.onicecandidate = (e) => {
+    if (e.candidate) dbg('ICE: ' + e.candidate.type);
+  };
+
+  pc.onicegatheringstatechange = () => {
+    dbg('ICE gathering: ' + pc.iceGatheringState);
+  };
+
+  pc.onconnectionstatechange = () => {
+    const s = pc.connectionState;
+    dbg('RTC state: ' + s);
+    const dot  = document.getElementById('rtc-dot');
+    const stat = document.getElementById('rtc-status');
+    const badge = document.getElementById('rtc-badge');
+    if (s === 'connected') {
+      dot.className = 'status-dot ok';
+      stat.textContent = 'Verbunden mit ' + (peers[peerPubKey]?.name || peerPubKey.slice(0,8));
+      badge.textContent = 'verbunden'; badge.className = 'badge badge-green';
+      document.getElementById('chat-panel').classList.remove('hidden');
+    } else if (s === 'connecting') {
+      dot.className = 'status-dot warn';
+      stat.textContent = 'Verbinde...';
+      badge.textContent = 'verbinde...'; badge.className = 'badge badge-warn';
+    } else if (s === 'failed' || s === 'disconnected') {
+      dot.className = 'status-dot err';
+      stat.textContent = 'Verbindung verloren';
+      badge.textContent = 'getrennt'; badge.className = 'badge badge-red';
+    }
+  };
+
+  pc.ondatachannel = (e) => {
+    dbg('DataChannel empfangen');
+    dc = e.channel;
+    setupDC();
+  };
+
+  // SDP finalisieren nach ICE-Gathering
+  pc._sdpReady = false;
+  pc._onSdpDone = null;
+  pc._finalizeSDP = () => {
+    if (pc._sdpReady) return;
+    pc._sdpReady = true;
+    clearTimeout(pc._sdpTimer);
+    const sdp = pc.localDescription.sdp;
+    dbg('SDP bereit (' + sdp.split('\n').length + ' Zeilen)');
+    if (pc._onSdpDone) pc._onSdpDone(sdp);
+  };
+
+  pc.onicegatheringstatechange = () => {
+    if (pc.iceGatheringState === 'complete') pc._finalizeSDP();
+  };
+}
+
+function setupDC() {
+  dc.onopen = () => {
+    dbg('DataChannel offen');
+    addMsg('system', 'P2P-Verbindung hergestellt', 'sys');
+    dc.send(JSON.stringify({ type: 'hello', from: myKeypair.pubKey.slice(0,8) }));
+  };
+  dc.onmessage = (e) => {
+    try {
+      const msg = JSON.parse(e.data);
+      if (msg.type === 'chat') addMsg('peer', msg.text, 'recv');
+      else if (msg.type === 'hello') addMsg('system', 'Peer: ' + msg.from, 'sys');
+    } catch(e) { addMsg('peer', e.data, 'recv'); }
+  };
+  dc.onclose = () => dbg('DataChannel geschlossen');
+}
+
+// ─── Signaling via Nostr DMs ──────────────────────────────────
+async function handleSignalingMessage(data, senderPub) {
+  if (data.type === 'rtc-offer') {
+    dbg('RTC-Offer empfangen von ' + senderPub.slice(0,8));
+    // Peer automatisch hinzufügen falls noch nicht bekannt
+    if (!peers[senderPub]) {
+      peers[senderPub] = { name: senderPub.slice(0,8), connected: false };
+      savePeers(); renderPeers();
+    }
+    initPC(senderPub);
+    try {
+      let sdp = data.sdp;
+      await pc.setRemoteDescription({ type: 'offer', sdp });
+      const answer = await pc.createAnswer();
+      await pc.setLocalDescription(answer);
+      pc._onSdpDone = async (sdp) => {
+        await sendDM(senderPub, { type: 'rtc-answer', sdp });
+        dbg('RTC-Answer gesendet');
+      };
+      pc._sdpTimer = setTimeout(() => pc._finalizeSDP(), 2000);
+    } catch(e) { dbg('Offer-Verarbeitung fehlgeschlagen: ' + e); }
+  }
+  else if (data.type === 'rtc-answer') {
+    dbg('RTC-Answer empfangen');
+    try {
+      let sdp = data.sdp.replace(/a=setup:actpass/g, 'a=setup:active');
+      await pc.setRemoteDescription({ type: 'answer', sdp });
+      dbg('RemoteDescription gesetzt — ICE-Handshake läuft');
+    } catch(e) { dbg('Answer-Fehler: ' + e); }
+  }
+}
+
+async function connectToPeer(pubKey) {
+  dbg('Starte Verbindung zu ' + pubKey.slice(0,8) + '...');
+  initPC(pubKey);
+  dc = pc.createDataChannel('quizaway', { ordered: true });
+  setupDC();
+  try {
+    const offer = await pc.createOffer();
+    await pc.setLocalDescription(offer);
+    pc._onSdpDone = async (sdp) => {
+      await sendDM(pubKey, { type: 'rtc-offer', sdp });
+      dbg('RTC-Offer gesendet via Nostr');
+    };
+    pc._sdpTimer = setTimeout(() => pc._finalizeSDP(), 2000);
+  } catch(e) { dbg('Offer-Erzeugung fehlgeschlagen: ' + e); }
+}
+
+// ═══════════════════════════════════════════════════════════════
+// Peer-Verwaltung
+// ═══════════════════════════════════════════════════════════════
+
+function loadPeers() {
+  try { return JSON.parse(localStorage.getItem('nostr_peers') || '{}'); } catch(e) { return {}; }
+}
+function savePeers() {
+  localStorage.setItem('nostr_peers', JSON.stringify(peers));
+}
+
+function renderPeers() {
+  const list = document.getElementById('peer-list');
+  const connList = document.getElementById('peer-connect-list');
+  const count = document.getElementById('peer-count');
+  const keys = Object.keys(peers);
+  count.textContent = keys.length;
+  count.className = keys.length > 0 ? 'badge badge-purple' : 'badge badge-gray';
+
+  if (keys.length === 0) {
+    list.innerHTML = '<p style="font-size:12px;color:var(--muted);">Noch keine Peers bekannt.</p>';
+    connList.innerHTML = '<p style="font-size:12px;color:var(--muted);">Erst Peer hinzufügen.</p>';
+    return;
+  }
+
+  list.innerHTML = '';
+  connList.innerHTML = '';
+
+  keys.forEach(pubKey => {
+    const p = peers[pubKey];
+    // Peer-Liste
+    const item = document.createElement('div');
+    item.className = 'peer-item';
+    item.innerHTML = `
+      <div>
+        <div class="peer-name">${p.name}</div>
+        <div class="peer-id">${pubKey.slice(0,16)}...</div>
+      </div>
+      <button class="btn btn-ghost" style="padding:4px 10px;font-size:11px;"
+        onclick="removePeer('${pubKey}')">entfernen</button>`;
+    list.appendChild(item);
+
+    // Verbinden-Button
+    const btn = document.createElement('button');
+    btn.className = 'btn btn-primary';
+    btn.textContent = 'Verbinden mit ' + p.name;
+    btn.onclick = () => connectToPeer(pubKey);
+    connList.appendChild(btn);
+  });
+}
+
+function addPeer() {
+  const key  = document.getElementById('peer-key-input').value.trim().toLowerCase();
+  const name = document.getElementById('peer-name-input').value.trim() || key.slice(0,8);
+  if (key.length !== 64 || !/^[0-9a-f]+$/.test(key)) {
+    dbg('Ungültiger Public Key — muss 64 Hex-Zeichen sein');
+    return;
+  }
+  if (key === myKeypair?.pubKey) { dbg('Das ist dein eigener Key'); return; }
+  peers[key] = { name, connected: false };
+  savePeers();
+  renderPeers();
+  document.getElementById('peer-key-input').value = '';
+  document.getElementById('peer-name-input').value = '';
+  dbg('Peer hinzugefügt: ' + name + ' (' + key.slice(0,8) + '...)');
+}
+
+function removePeer(pubKey) {
+  delete peers[pubKey];
+  savePeers();
+  renderPeers();
+}
+
+// ═══════════════════════════════════════════════════════════════
+// UI-Funktionen
+// ═══════════════════════════════════════════════════════════════
+
+function copyMyKey() {
+  const ta = document.getElementById('my-pubkey-text');
+  ta.value = myKeypair.pubKey;
+  ta.style.display = 'block';
+  ta.select();
+  // Clipboard versuchen (klappt auf https://, nicht immer auf http://)
+  try {
+    navigator.clipboard.writeText(myKeypair.pubKey)
+      .then(() => dbg('Public Key in Zwischenablage kopiert'))
+      .catch(() => dbg('Clipboard nicht verfügbar — Key oben markiert, bitte manuell kopieren'));
+  } catch(e) {
+    dbg('Key oben markiert — bitte manuell kopieren (langer Tap → Kopieren)');
+  }
+}
+
+function resetIdentity() {
+  if (!confirm('Neue Identität erzeugen? Alle Peers müssen den neuen Key erhalten.')) return;
+  localStorage.removeItem('nostr_keypair');
+  location.reload();
+}
+
+function sendMsg() {
+  const input = document.getElementById('chat-input');
+  const text = input.value.trim();
+  if (!text || !dc || dc.readyState !== 'open') { dbg('DataChannel nicht offen'); return; }
+  dc.send(JSON.stringify({ type: 'chat', text }));
+  addMsg('ich', text, 'sent');
+  input.value = '';
+}
+
+// ═══════════════════════════════════════════════════════════════
+// Init
+// ═══════════════════════════════════════════════════════════════
+
+async function init() {
+  dbg('AP7 Nostr PoC startet...');
+  try {
+    myKeypair = await getOrCreateKeypair();
+    const shortId = myKeypair.pubKey.slice(0,8).toUpperCase();
+    document.getElementById('my-short-id').textContent = shortId;
+    document.getElementById('my-pubkey-display').textContent = myKeypair.pubKey;
+    document.getElementById('id-badge').textContent = 'bereit';
+    document.getElementById('id-badge').className = 'badge badge-purple';
+    dbg('Identität: ' + myKeypair.pubKey.slice(0,16) + '...');
+  } catch(e) {
+    dbg('Keypair-Fehler: ' + e);
+    return;
+  }
+
+  peers = loadPeers();
+  renderPeers();
+
+  RELAYS.forEach(r => connectRelay(r));
+}
+
+init();
+</script>
+</body>
+</html>

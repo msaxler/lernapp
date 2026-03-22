@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: quizaway
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python scripts/sync/rendezvous.py --port $PORT
+    envVars:
+      - key: PORT
+        value: 10000
+    disk:
+      name: quizaway-data
+      mountPath: /data
+      sizeGB: 1
