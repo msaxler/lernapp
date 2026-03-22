@@ -187,6 +187,10 @@
   .mode-icon.sofa { background: rgba(47,129,247,0.15); }
   .mode-icon.route { background: rgba(46,168,74,0.15); }
   .mode-icon.live { background: rgba(240,165,0,0.15); }
+  .mode-icon.duell { background: rgba(239,68,68,0.15); }
+  .mode-card-duell { border-color: rgba(239,68,68,0.3); }
+  .mode-card-duell:hover { border-color: rgba(239,68,68,0.7); }
+  .mode-card-duell .mode-name { color: #ef4444; }
 
   .mode-info { flex: 1; }
   .mode-name { font-size: 15px; font-weight: 700; color: var(--text); }
@@ -1401,6 +1405,7 @@
         <div style="font-size:11px;color:#f87171;text-transform:uppercase;letter-spacing:.1em;margin-bottom:8px;">🛠 Debug-Modus</div>
         <div style="display:flex;gap:6px;flex-wrap:wrap;">
           <button onclick="debugTimerToggle()" id="debug-timer-btn" style="background:#ef4444;color:#fff;border:none;border-radius:5px;padding:6px 10px;font-size:12px;cursor:pointer;">⏱ Timer ×10 (an)</button>
+          <button onclick="debugSpeedToggle()" id="debug-speed-btn" style="background:#6366f1;color:#fff;border:none;border-radius:5px;padding:6px 10px;font-size:12px;cursor:pointer;">⚡ Speed ÷3 (an)</button>
           <button onclick="debugSkipFrage()" style="background:#8b5cf6;color:#fff;border:none;border-radius:5px;padding:6px 10px;font-size:12px;cursor:pointer;">⏭ Frage überspringen</button>
           <button onclick="debugSkipRunde()" style="background:#f59e0b;color:#fff;border:none;border-radius:5px;padding:6px 10px;font-size:12px;cursor:pointer;">⏩ Runde überspringen</button>
         </div>
@@ -1438,13 +1443,20 @@
           </div>
           <div class="mode-arrow">›</div>
         </div>
+
+        <div class="mode-card mode-card-duell" onclick="zeigeWarteraum()">
+          <div class="mode-icon duell">⚔️</div>
+          <div class="mode-info">
+            <div class="mode-name">Duell starten</div>
+            <div class="mode-desc">Gegen echte Spieler oder virtuellen Gegner</div>
+          </div>
+          <div class="mode-arrow">›</div>
+        </div>
       </div>
     </div>
 
     <div class="start-footer">
       <span onclick="showScreen('screen-rangliste')" style="cursor:pointer">🏆 Rangliste</span>
-      &nbsp;·&nbsp;
-      <span onclick="zeigeSchwierigkeit('duell')" style="cursor:pointer">⚔️ Duell starten</span>
       &nbsp;·&nbsp;
       <span onclick="showScreen('screen-profil')" style="cursor:pointer">👤 Profil</span>
     </div>
@@ -1810,6 +1822,59 @@
   <!-- ══════════════════════════════
        SCREEN 7: DUELL START
   ══════════════════════════════ -->
+  <!-- ══════════════════════════════
+       SCREEN: WARTERAUM (Duell-Einstieg)
+  ══════════════════════════════ -->
+  <div class="screen" id="screen-warteraum">
+    <div class="statusbar"><span>9:41</span><div class="statusbar-icons"><span>🔋</span></div></div>
+    <div class="nav-bar">
+      <button class="nav-back" onclick="warteraumVerlassen()">‹</button>
+      <div class="nav-title">⚔️ Duell starten</div>
+    </div>
+
+    <div style="padding:12px 16px;display:flex;flex-direction:column;gap:10px;flex:1;">
+
+      <!-- Virtueller Gegner -->
+      <div style="font-size:11px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:1px;">Virtueller Gegner</div>
+      <div class="gegner-card" id="wr-virtuell-card" onclick="warteraumWaehle('virtuell')">
+        <div class="gegner-avatar" id="wr-virtuell-avatar">🤖</div>
+        <div class="gegner-info">
+          <div class="gegner-name" id="wr-virtuell-name">Quiz-Bot</div>
+          <div class="gegner-meta" id="wr-virtuell-meta">Immer verfügbar · passt sich an</div>
+        </div>
+        <div class="gegner-liga-badge">▶</div>
+      </div>
+
+      <!-- Wunschgegner (gesperrt) -->
+      <div style="font-size:11px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:1px;margin-top:4px;">Wunschgegner</div>
+      <div class="gegner-card" style="opacity:0.4;cursor:default;">
+        <div class="gegner-avatar">👥</div>
+        <div class="gegner-info">
+          <div class="gegner-name">Freund einladen</div>
+          <div class="gegner-meta">🔒 Kommt bald — Freunde-Suche</div>
+        </div>
+        <div class="gegner-liga-badge" style="font-size:12px;color:var(--muted);">bald</div>
+      </div>
+
+      <!-- Echte Spieler -->
+      <div style="font-size:11px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:1px;margin-top:4px;">
+        Online-Spieler <span id="wr-spieler-count" style="font-weight:400;text-transform:none;letter-spacing:0;">(suche…)</span>
+      </div>
+      <div id="wr-spieler-liste" style="display:flex;flex-direction:column;gap:8px;">
+        <!-- wird per JS befüllt -->
+      </div>
+
+      <!-- Timer -->
+      <div class="zwischen-hinweis" id="warteraum-auto-hinweis" style="display:none;margin-top:auto;">
+        ⏱ Zufallsauswahl in <span id="warteraum-auto-sek">14</span>s
+      </div>
+
+    </div>
+    <div style="padding:12px 16px;border-top:1px solid var(--border);">
+      <button class="btn btn-secondary" onclick="warteraumVerlassen()">Abbrechen</button>
+    </div>
+  </div>
+
   <div class="screen" id="screen-duell-start">
     <div class="statusbar"><span>9:41</span><div class="statusbar-icons"><span>🔋</span></div></div>
     <div class="nav-bar">
@@ -1840,19 +1905,14 @@
         Virtueller Gegner
       </div>
 
-      <div class="gegner-preview" id="gegner-preview" onclick="duellStart()" style="cursor:pointer;"
-           title="Tippen zum Starten">
+      <div class="gegner-preview" id="gegner-preview" onclick="warteraumVorschauSofortstart()" style="cursor:pointer;" title="Tippen zum sofortigen Start">
         <!-- wird per JS befüllt -->
       </div>
     </div>
 
-    <!-- Lobby / Matchmaking -->
-    <div style="padding:12px 16px;border-top:1px solid var(--border);">
-      <button class="btn btn-primary" style="width:100%;margin-bottom:8px;" onclick="lobbyOeffnen()">
-        ⚔️ Echtes P2P-Duell starten
-      </button>
-      <div style="font-size:11px;color:var(--muted);text-align:center;">Angebotsbörse · kein PIN nötig</div>
-      <div id="p2p-log" style="font-size:12px;color:var(--muted);margin-top:8px;"></div>
+    <!-- P2P Status (für Verbindungsaufbau) -->
+    <div style="padding:8px 16px;">
+      <div id="p2p-log" style="font-size:12px;color:var(--muted);margin-top:4px;"></div>
       <div id="p2p-status" style="font-size:12px;color:var(--muted);text-align:center;"></div>
       <div id="p2p-host-section" style="display:none;">
         <div id="p2p-pin-anzeige"></div>
@@ -1860,7 +1920,7 @@
     </div>
 
     <div class="duell-footer">
-      <button class="btn btn-secondary" onclick="showScreen('screen-start')">Abbrechen</button>
+      <button class="btn btn-secondary" onclick="warteraumVerlassen()">Abbrechen</button>
     </div>
   </div>
 
@@ -2269,7 +2329,7 @@ const KATEGORIEN = [
 
 let FRAGEN = [];
 let _db = null;
-let DEBUG_TIMER_FAKTOR = 1; // 1 = normal, 10 = debug (10x länger)
+let DEBUG_TIMER_FAKTOR = 1; // 1 = normal, 10 = debug (10x länger), 0.33 = speed (3x kürzer)
 
 function getBLName(bl_id) {
   if (!_db) return bl_id;
@@ -2638,6 +2698,532 @@ function showScreen(id) {
 
 // ── SCHWIERIGKEIT ──────────────────────────────
 let _pendingModus = 'sofa';
+
+function zeigeWarteraum() {
+  showScreen('screen-warteraum');
+  warteraumInit();
+}
+
+// ─── Warteraum State ─────────────────────────────────────────
+const warteraum = {
+  meineId:         null,
+  pollingTimer:    null,
+  autoTimer:       null,
+  eingetreten:     null,
+  _hostWarteTimer: null,
+  _virtuellerGegner: null,
+  _vorschauTimer:  null,
+  _vorschauCallback: null,
+  _entscheide:     false,  // Guard: verhindert Poll-Interrupt während warteraumEntscheideP2P läuft
+};
+
+function warteraumInit() {
+  // Virtuellen Gegner befüllen
+  const g = generiereGegner();
+  document.getElementById('wr-virtuell-name').textContent  = g.name;
+  document.getElementById('wr-virtuell-meta').textContent  = `${g.liga.symbol} ${g.liga.name} · immer verfügbar`;
+  document.getElementById('wr-virtuell-avatar').textContent = g.avatar;
+  warteraum._virtuellerGegner = g;
+
+  // Spieler-Liste leeren
+  document.getElementById('wr-spieler-liste').innerHTML = '';
+  document.getElementById('wr-spieler-count').textContent = '(suche…)';
+
+  // Warteraum betreten + polling starten
+  warteraumBetreten();
+
+  // AutoWeiter: 14s → Zufallsauswahl
+  warteraum.eingetreten = Date.now();
+  const hinweis = document.getElementById('warteraum-auto-hinweis');
+  const sekEl   = document.getElementById('warteraum-auto-sek');
+  if (hinweis) { hinweis.style.display = 'block'; hinweis.classList.remove('warnung'); }
+  if (sekEl)   sekEl.textContent = 14;
+
+  warteraum.autoTimer = setInterval(() => {
+    const verbleibend = Math.max(0, 14 * (DEBUG_TIMER_FAKTOR||1) - Math.floor((Date.now() - warteraum.eingetreten) / 1000));
+    if (sekEl) sekEl.textContent = verbleibend;
+    if (verbleibend <= 3 && hinweis) hinweis.classList.add('warnung');
+    if (verbleibend <= 0) {
+      clearInterval(warteraum.autoTimer); warteraum.autoTimer = null;
+      if (hinweis) hinweis.style.display = 'none';
+      warteraumZufallsauswahl();
+    }
+  }, 300);
+}
+
+async function warteraumBetreten() {
+  try {
+    const res = await rendezvousFetch('/warteraum/betreten', {
+      method: 'POST',
+      headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({ name: SPIELER_NAME, liga: 'bronze' })
+    });
+    const data = await res.json();
+    if (data.id) {
+      warteraum.meineId = data.id;
+      warteraum.pollingTimer = setInterval(() => warteraumPoll(), 3000);
+      warteraumPoll();
+    }
+  } catch(e) {
+    // Kein Server erreichbar — nur virtueller Gegner verfügbar
+    document.getElementById('wr-spieler-count').textContent = '(offline)';
+  }
+}
+
+async function warteraumPoll() {
+  try {
+    const res = await rendezvousFetch('/warteraum/liste');
+    const data = await res.json();
+    const spieler = (data.spieler || []).filter(s => s.id !== warteraum.meineId).slice(0, 4);
+    warteraumRendere(spieler);
+  } catch(e) { /* ignorieren */ }
+
+  // Prüfen ob wir selbst herausgefordert wurden — separat damit Liste-Fehler nicht blockiert
+  if (!warteraum.meineId) return;
+  try {
+    const statusRes = await rendezvousFetch('/warteraum/status/' + warteraum.meineId);
+    const statusData = await statusRes.json();
+    if (statusData.herausforderung) {
+      // Ignorieren wenn wir gerade selbst eine Entscheidung treffen
+      if (warteraum._entscheide) return;
+      // Sofort als Guest annehmen — ALLE Timer abbrechen
+      if (warteraum.pollingTimer)   { clearInterval(warteraum.pollingTimer);   warteraum.pollingTimer   = null; }
+      if (warteraum.autoTimer)      { clearInterval(warteraum.autoTimer);       warteraum.autoTimer      = null; }
+      if (warteraum._vorschauTimer) { clearInterval(warteraum._vorschauTimer); warteraum._vorschauTimer = null; }
+      warteraum._vorschauCallback = null;
+      // Auf angebots_id warten falls noch null
+      let hf = statusData.herausforderung;
+      if (!hf.angebots_id) {
+        for (let i = 0; i < 12; i++) {
+          await new Promise(r => setTimeout(r, 800));
+          if (!warteraum.meineId) return; // ausgetragen
+          try {
+            const r2 = await rendezvousFetch('/warteraum/status/' + warteraum.meineId);
+            const d2 = await r2.json();
+            if (d2.herausforderung?.angebots_id) { hf = d2.herausforderung; break; }
+          } catch(e) { /* ignorieren */ }
+        }
+      }
+      if (hf.angebots_id) {
+        warteraumHerausforderungAnnehmen(hf);
+      }
+      // Kein Fallback — wenn angebots_id nach 10s noch null, einfach warten bis nächster Poll
+    }
+  } catch(e) { /* ignorieren */ }
+}
+
+function warteraumRendere(spieler) {
+  const liste = document.getElementById('wr-spieler-liste');
+  const count = document.getElementById('wr-spieler-count');
+  count.textContent = spieler.length > 0 ? `(${spieler.length} online)` : '(niemand online)';
+  liste.innerHTML = '';
+  spieler.forEach(s => {
+    const seit = Math.floor((Date.now() - s.eingetreten) / 1000);
+    const card = document.createElement('div');
+    card.className = 'gegner-card';
+    card.innerHTML = `
+      <div class="gegner-avatar">🧑</div>
+      <div class="gegner-info">
+        <div class="gegner-name">${s.name}</div>
+        <div class="gegner-meta">🥉 Bronze-Liga · wartet seit ${seit}s</div>
+      </div>
+      <div class="gegner-liga-badge">▶</div>`;
+    card.onclick = () => warteraumWaehle(s.id, s);
+    liste.appendChild(card);
+  });
+}
+
+async function warteraumZufallsauswahl() {
+  // Timer sofort stoppen
+  if (warteraum.pollingTimer) { clearInterval(warteraum.pollingTimer); warteraum.pollingTimer = null; }
+  if (warteraum.autoTimer)    { clearInterval(warteraum.autoTimer);    warteraum.autoTimer    = null; }
+
+  // Erst prüfen ob wir selbst herausgefordert wurden — vor allem nach Timer-Ablauf
+  if (warteraum.meineId) {
+    try {
+      const sr = await rendezvousFetch('/warteraum/status/' + warteraum.meineId);
+      const sd = await sr.json();
+      if (sd.herausforderung) {
+        // Herausforderung da — auf Angebots-ID warten falls noch null
+        let hf = sd.herausforderung;
+        if (!hf.angebots_id) {
+          for (let i = 0; i < 10; i++) {
+            await new Promise(r => setTimeout(r, 800));
+            const r2 = await rendezvousFetch('/warteraum/status/' + warteraum.meineId).catch(()=>null);
+            if (r2) { const d2 = await r2.json(); if (d2.herausforderung?.angebots_id) { hf = d2.herausforderung; break; } }
+          }
+        }
+        if (hf.angebots_id) {
+          warteraumHerausforderungAnnehmen(hf);
+          return;
+        }
+      }
+    } catch(e) { /* ignorieren */ }
+  }
+
+  // Frisch pollen
+  try {
+    const res = await rendezvousFetch('/warteraum/liste');
+    const data = await res.json();
+    const spieler = (data.spieler || []).filter(s => s.id !== warteraum.meineId).slice(0, 4);
+    warteraumRendere(spieler);
+    if (spieler.length > 0) {
+      const zuf = spieler[Math.floor(Math.random() * spieler.length)];
+      warteraumWaehle(zuf.id, zuf);
+      return;
+    }
+  } catch(e) { /* ignorieren */ }
+  // Kein echter Spieler da → VG
+  warteraumWaehle('virtuell');
+}
+
+function warteraumWaehle(id, spieler) {
+  // AutoTimer sofort stoppen — polling läuft weiter bis Herausforderung bestätigt
+  if (warteraum.autoTimer) { clearInterval(warteraum.autoTimer); warteraum.autoTimer = null; }
+
+  if (id === 'virtuell') {
+    // VG: erst jetzt auch Polling stoppen
+    if (warteraum.pollingTimer) { clearInterval(warteraum.pollingTimer); warteraum.pollingTimer = null; }
+    warteraum._vorschauCallback = () => {
+      warteraum._vorschauCallback = null;
+      warteraumAustragen();
+      const sw = ['L','M','S'][Math.floor(Math.random() * 3)];
+      state.schwierigkeit = sw;
+      state.modus = 'duell'; state.runde = 1; state.gesamtPunkte = 0; state.richtig = 0;
+      duellState.runde = 1; duellState.meScore = 0; duellState.oppScore = 0;
+      duellState.meRundenHistory = []; duellState.oppRundenHistory = [];
+      duellState.gegner = warteraum._virtuellerGegner || generiereGegner();
+      zeigeDuellKat();
+    };
+    const g = warteraum._virtuellerGegner;
+    warteraumZeigeVorschau(g, true);
+  } else {
+    // Echter Spieler: Polling sofort stoppen — wir entscheiden jetzt selbst
+    if (warteraum.pollingTimer) { clearInterval(warteraum.pollingTimer); warteraum.pollingTimer = null; }
+    warteraumEntscheideP2P(id, spieler);
+  }
+}
+
+async function warteraumEntscheideP2P(id, spieler) {
+  // Zuerst prüfen ob wir selbst bereits herausgefordert wurden
+  if (warteraum.meineId) {
+    try {
+      const sr = await rendezvousFetch('/warteraum/status/' + warteraum.meineId);
+      const sd = await sr.json();
+      if (sd.herausforderung) {
+        // Wir wurden bereits herausgefordert — als Guest annehmen
+        let hf = sd.herausforderung;
+        if (!hf.angebots_id) {
+          for (let i = 0; i < 12; i++) {
+            await new Promise(r => setTimeout(r, 800));
+            if (!warteraum.meineId) break;
+            try {
+              const r2 = await rendezvousFetch('/warteraum/status/' + warteraum.meineId);
+              const d2 = await r2.json();
+              if (d2.herausforderung?.angebots_id) { hf = d2.herausforderung; break; }
+            } catch(e) { /* ignorieren */ }
+          }
+        }
+        if (hf.angebots_id) { warteraumHerausforderungAnnehmen(hf); return; }
+      }
+    } catch(e) { /* ignorieren */ }
+  }
+
+  // Atomar auf dem Server entscheiden: Host oder Guest?
+  warteraum._entscheide = true;
+  try {
+    const res = await rendezvousFetch('/warteraum/reservieren', {
+      method: 'POST', headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({ meine_id: warteraum.meineId, gegner_id: id, host_name: SPIELER_NAME })
+    });
+    const data = await res.json();
+
+    if (res.status === 409) {
+      warteraum._entscheide = false;
+      // Gegner nicht verfügbar — kurz neu pollen ob wir selbst herausgefordert wurden
+      if (warteraum.meineId) {
+        try {
+          const sr = await rendezvousFetch('/warteraum/status/' + warteraum.meineId);
+          const sd = await sr.json();
+          if (sd.herausforderung && sd.herausforderung.angebots_id) {
+            warteraumHerausforderungAnnehmen(sd.herausforderung);
+            return;
+          }
+        } catch(e) { /* ignorieren */ }
+      }
+      if (warteraum.pollingTimer) { clearInterval(warteraum.pollingTimer); warteraum.pollingTimer = null; }
+      warteraumFallbackVirtuell();
+      return;
+    }
+
+    // Ab hier: Entscheidung gefallen — Polling stoppen
+    if (warteraum.pollingTimer) { clearInterval(warteraum.pollingTimer); warteraum.pollingTimer = null; }
+
+    if (data.rolle === 'guest') {
+      // Server sagt: ich bin Guest — auf angebots_id warten falls noch null
+      let hf = data.herausforderung;
+      if (!hf.angebots_id) {
+        for (let i = 0; i < 12; i++) {
+          await new Promise(r => setTimeout(r, 800));
+          if (!warteraum.meineId) break; // ausgetragen
+          try {
+            const r2 = await rendezvousFetch('/warteraum/status/' + warteraum.meineId);
+            const d2 = await r2.json();
+            if (d2.herausforderung?.angebots_id) { hf = d2.herausforderung; break; }
+          } catch(e) { /* ignorieren */ }
+        }
+      }
+      if (hf.angebots_id) {
+        warteraumHerausforderungAnnehmen(hf);
+      } else {
+        warteraum._entscheide = false;
+        warteraumFallbackVirtuell();
+      }
+      return;
+    }
+
+    // data.rolle === 'host' → Vorschau zeigen dann P2PStart
+    warteraum._vorschauCallback = () => {
+      warteraum._vorschauCallback = null;
+      warteraumP2PStart(id, spieler);
+    };
+    warteraumZeigeVorschau(spieler, false);
+
+  } catch(e) {
+    console.error("warteraumEntscheideP2P:", e.message);
+    warteraum._entscheide = false;
+    warteraumFallbackVirtuell();
+  }
+}
+
+function warteraumZeigeVorschau(g, virtuell) {
+  // Gegner-Details auf screen-duell-start befüllen
+  const name   = g ? (g.name  || 'Gegner') : 'Gegner';
+  const avatar = g ? (g.avatar || '🧑')    : '🧑';
+  const liga   = g ? (typeof g.liga === 'object' ? g.liga.symbol + ' ' + g.liga.name : (g.liga || '🥉 Bronze')) : '🥉 Bronze';
+
+  const nameEl   = document.getElementById('duell-opp-name-hero');
+  const ligaEl   = document.getElementById('duell-opp-liga-hero');
+  const avatarEl = document.getElementById('duell-opp-avatar-hero');
+  if (nameEl)   nameEl.textContent  = name;
+  if (ligaEl)   ligaEl.textContent  = liga;
+  if (avatarEl) { avatarEl.textContent = avatar; avatarEl.classList.remove('offen'); }
+
+  // gegner-preview befüllen
+  const preview = document.getElementById('gegner-preview');
+  if (preview && g && g.staerken) {
+    const staerkenHtml = g.staerken.map(s => `<span class="gp-staerke">💪 ${s}</span>`).join('');
+    preview.innerHTML = `
+      <div class="gp-avatar">${avatar}</div>
+      <div class="gp-info">
+        <div class="gp-name">${name}</div>
+        <div class="gp-liga">${liga}</div>
+        <div class="gp-staerken">${staerkenHtml || '<span class="gp-staerke">🎯 Allrounder</span>'}</div>
+        <div style="font-size:12px;color:var(--accent);margin-top:6px;" id="vorschau-countdown">Startet in 3s…</div>
+      </div>`;
+  } else if (preview) {
+    preview.innerHTML = `
+      <div class="gp-avatar">${avatar}</div>
+      <div class="gp-info">
+        <div class="gp-name">${name}</div>
+        <div class="gp-liga">${liga}</div>
+        <div style="font-size:12px;color:var(--accent);margin-top:6px;" id="vorschau-countdown">Startet in 3s…</div>
+      </div>`;
+  }
+
+  // Vorschau-Label aktualisieren
+  const label = document.querySelector('#screen-duell-start .duell-hero > div:first-of-type');
+  // Label-Text korrigieren
+  document.querySelectorAll('#screen-duell-start .duell-hero > div').forEach(d => {
+    if (d.textContent.trim() === 'Virtueller Gegner' || d.textContent.trim() === 'Dein Gegner') {
+      d.textContent = virtuell ? 'Virtueller Gegner' : 'Dein Gegner';
+    }
+  });
+
+  warteraum._gegnerGesetzt = true; // duellScreenInit überspringen
+  showScreen('screen-duell-start');
+  // _vorschauCallback nicht nullen — von warteraumWaehle bereits gesetzt
+  const t0 = Date.now();
+  warteraum._vorschauTimer = setInterval(() => {
+    const v = Math.max(0, 3 - Math.floor((Date.now() - t0) / 1000));
+    const el = document.getElementById('vorschau-countdown');
+    if (el) el.textContent = v > 0 ? `Tippen zum Sofortstart · ${v}s` : 'Startet…';
+    if (v <= 0) {
+      clearInterval(warteraum._vorschauTimer);
+      warteraum._vorschauTimer = null;
+      if (warteraum._vorschauCallback) warteraum._vorschauCallback();
+    }
+  }, 300);
+}
+
+function warteraumVorschauSofortstart() {
+  if (warteraum._vorschauTimer) {
+    clearInterval(warteraum._vorschauTimer);
+    warteraum._vorschauTimer = null;
+  }
+  if (warteraum._vorschauCallback) warteraum._vorschauCallback();
+}
+
+async function warteraumP2PStart(gegnerWarteraumId, gegner) {
+  const sw = ['L','M','S'][Math.floor(Math.random() * 3)];
+  state.schwierigkeit = sw;
+  const name = SPIELER_NAME;
+  lobbyState.meineSchwierigkeit = sw;
+  try {
+    // WebRTC-Offer vorbereiten
+    duel.pc = new RTCPeerConnection({iceServers:[
+      {urls:'stun:stun.l.google.com:19302'},
+      {urls:'turn:openrelay.metered.ca:443?transport=tcp', username:'openrelayproject', credential:'openrelayproject'}
+    ]});
+    const dc = duel.pc.createDataChannel('duell');
+    duelSetupDC(dc);
+    const offer = await duel.pc.createOffer();
+    await duel.pc.setLocalDescription(offer);
+    await duelIceGather(duel.pc);
+
+    // Lobby-Angebot erstellen
+    const res = await fetch(RENDEZVOUS + '/lobby/create', {
+      method: 'POST', headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({ schwierigkeit: sw, host_name: name })
+    });
+    const data = await res.json();
+    if (!data.id) throw new Error('Kein Angebot-ID');
+
+    await fetch(RENDEZVOUS + '/lobby/offer/' + data.id, {
+      method: 'POST', headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({ sdp: duel.pc.localDescription.sdp })
+    });
+
+    lobbyState.meineAngebotsId = data.id;
+    lobbyState.rolle = 'host';
+    duel.rolle = 'host';
+
+    // Angebots-ID an Server nachliefern (Reservierung bereits per /reservieren gemacht)
+    rendezvousFetch('/warteraum/herausforderung/update', {
+      method: 'POST', headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({ gegner_id: gegnerWarteraumId, angebots_id: data.id, schwierigkeit: sw })
+    }).catch(()=>{});
+
+    // Jetzt austragen
+    warteraumAustragen();
+
+    // Warte-Screen
+    lobbyStatus('Verbinde mit ' + (gegner ? gegner.name : 'Gegner') + '…');
+    showScreen('screen-duell-start');
+    if (typeof duellScreenInit === 'function') duellScreenInit();
+    lobbyState.pollingTimer = setInterval(() => lobbyPollStatus(), 1000);
+
+    // 20s Timeout → VG-Fallback wenn kein Guest
+    warteraum._hostWarteTimer = setTimeout(() => {
+      if (!duel.verbunden) {
+        console.log("Host-Timeout → VG-Fallback");
+        if (lobbyState.pollingTimer) { clearInterval(lobbyState.pollingTimer); lobbyState.pollingTimer = null; }
+        fetch(RENDEZVOUS + '/lobby/cancel/' + data.id, { method:'POST',
+          headers:{'Content-Type':'application/json'}, body: JSON.stringify({rolle:'host'}) }).catch(()=>{});
+        warteraumFallbackVirtuell(sw);
+      }
+    }, 20000);
+
+  } catch(e) {
+    console.error("warteraumP2PStart FEHLER:", e.message, e);
+    warteraumFallbackVirtuell(sw);
+  }
+}
+
+function warteraumVerlassen() {
+  if (warteraum.autoTimer)    { clearInterval(warteraum.autoTimer);    warteraum.autoTimer    = null; }
+  if (warteraum.pollingTimer) { clearInterval(warteraum.pollingTimer); warteraum.pollingTimer = null; }
+  warteraumAustragen();
+  stopAutoWeiter();
+  showScreen('screen-start');
+}
+
+function warteraumAustragen() {
+  if (warteraum.meineId) {
+    rendezvousFetch('/warteraum/verlassen', {
+      method: 'POST', headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({ id: warteraum.meineId })
+    }).catch(() => {});
+    warteraum.meineId = null;
+  }
+}
+
+function warteraumFallbackVirtuell(sw) {
+  warteraumAustragen();
+  const swGewaehlt = sw || ['L','M','S'][Math.floor(Math.random() * 3)];
+  state.schwierigkeit = swGewaehlt;
+  state.modus = 'duell';
+  state.runde = 1;
+  state.gesamtPunkte = 0;
+  state.richtig = 0;
+  duellState.runde = 1;
+  duellState.meScore = 0;
+  duellState.oppScore = 0;
+  duellState.meRundenHistory = [];
+  duellState.oppRundenHistory = [];
+  duellState.gegner = warteraum._virtuellerGegner || generiereGegner();
+  zeigeDuellKat();
+}
+
+async function warteraumHerausforderungAnnehmen(hf) {
+  // ALLE Timer sofort stoppen — auch Vorschau-Timer falls gerade läuft
+  if (warteraum.autoTimer)     { clearInterval(warteraum.autoTimer);     warteraum.autoTimer     = null; }
+  if (warteraum.pollingTimer)  { clearInterval(warteraum.pollingTimer);  warteraum.pollingTimer  = null; }
+  if (warteraum._vorschauTimer){ clearInterval(warteraum._vorschauTimer);warteraum._vorschauTimer= null; }
+  warteraum._vorschauCallback = null; // Vorschau-Callback verwerfen
+  warteraumAustragen();
+
+  // Schwierigkeit übernehmen
+  state.schwierigkeit = hf.schwierigkeit;
+
+  // Als Guest beitreten
+  try {
+    const joinRes = await fetch(RENDEZVOUS + '/lobby/join/' + hf.angebots_id, {
+      method: 'POST', headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({ guest_name: SPIELER_NAME })
+    });
+    const joinData = await joinRes.json();
+    if (!joinData.ok) throw new Error('Beitritt fehlgeschlagen');
+
+    lobbyState.rolle = 'guest';
+    duel.rolle = 'guest';
+    // Gegner-Vorschau anzeigen (3s) dann Verbindung aufbauen
+    warteraum._gegnerGesetzt = true;
+    const nameEl   = document.getElementById('duell-opp-name-hero');
+    const ligaEl   = document.getElementById('duell-opp-liga-hero');
+    const avatarEl = document.getElementById('duell-opp-avatar-hero');
+    if (nameEl)   nameEl.textContent  = hf.host_name;
+    if (ligaEl)   ligaEl.textContent  = '🥉 Bronze-Liga';
+    if (avatarEl) { avatarEl.textContent = '🧑'; avatarEl.classList.remove('offen'); }
+    const preview = document.getElementById('gegner-preview');
+    if (preview) preview.innerHTML = `
+      <div class="gp-avatar">🧑</div>
+      <div class="gp-info">
+        <div class="gp-name">${hf.host_name}</div>
+        <div class="gp-liga">🥉 Bronze-Liga</div>
+        <div style="font-size:12px;color:var(--accent);margin-top:6px;" id="vorschau-countdown">Verbinde in 3s…</div>
+      </div>`;
+    showScreen('screen-duell-start');
+    // Label "Virtueller Gegner" → "Dein Gegner"
+    document.querySelectorAll('#screen-duell-start .duell-hero > div').forEach(d => {
+      if (d.textContent.trim() === 'Virtueller Gegner') d.textContent = 'Dein Gegner';
+    });
+    // 3s Countdown dann verbinden
+    const t0 = Date.now();
+    const cd = setInterval(() => {
+      const v = Math.max(0, 3 - Math.floor((Date.now() - t0) / 1000));
+      const el = document.getElementById('vorschau-countdown');
+      if (el) el.textContent = v > 0 ? `Verbinde in ${v}s…` : 'Verbinde…';
+      if (v <= 0) { clearInterval(cd); lobbyGuestVerbinden(hf.angebots_id, SPIELER_NAME); }
+    }, 300);
+
+  } catch(e) {
+    console.error("warteraumHerausforderungAnnehmen FEHLER:", e.message, e);
+    // Fallback: virtuellen Gegner
+    duellState.gegner = warteraum._virtuellerGegner || generiereGegner();
+    zeigeDuellKat();
+  }
+}
 
 function zeigeSchwierigkeit(modus) {
   _pendingModus = modus;
@@ -3261,6 +3847,11 @@ let duellState = {
 
 // Beim Laden der Seite und beim Öffnen des Duell-Screens: Gegner generieren
 function duellScreenInit() {
+  // Aus Warteraum: Gegner bereits gesetzt — nicht überschreiben
+  if (warteraum._gegnerGesetzt) {
+    warteraum._gegnerGesetzt = false;
+    return;
+  }
   const g = generiereGegner();
   duellState.pendingGegner = g;
 
@@ -3312,6 +3903,11 @@ function duelP2PStart() {
   duellState.meRundenHistory  = [];
   duellState.oppRundenHistory = [];
   duellState.gegner = { name: duel.gegnerName, liga:{symbol:'⚔️',name:'P2P'}, avatar:'🧑' };
+  // P2P-Zähler zurücksetzen
+  duel.meGesamt     = 0;
+  duel.oppGesamt    = 0;
+  duel.meZeitGesamt = 0;
+  duel.oppZeitGesamt = 0;
   state.modus = 'duell';
 }
 
@@ -3466,20 +4062,14 @@ function p2pStarteFragenMitKat(katId, seed) {
 
 // Gegner simuliert eine Runde: gibt {richtig, punkte, ergebnisse[]} zurück
 function simuliereGegnerRunde(katId, anzahlFragen) {
-  const g = duellState.gegner;
-  const staerke = g.katStaerken[katId] || 0.6;
-  let richtig = 0;
-  const ergebnisse = [];
-  for (let i = 0; i < anzahlFragen; i++) {
-    const korrekt = Math.random() < staerke;
-    if (korrekt) richtig++;
-    // Antwortzeit: 3–18 Sekunden, besser = schneller
-    const sek = Math.max(3, Math.round((1 - staerke) * 15 + Math.random() * 6));
-    const p = korrekt ? Math.max(10, 120 - sek * 3) : 0;
-    ergebnisse.push({ korrekt, punkte: p });
-  }
-  const punkte = ergebnisse.reduce((s, e) => s + e.punkte, 0);
-  return { richtig, punkte, ergebnisse };
+  // VG bekommt pauschal 1/3 der Max-Punkte — einfach und fair
+  // VG: pauschal 1 von 3 richtig, 40 Punkte
+  const ergebnisse = Array.from({length: anzahlFragen}, (_, i) => ({
+    korrekt: i === 0,
+    punkte:  i === 0 ? 40 : 0,
+    zeitMs:  8000
+  }));
+  return { richtig: 1, punkte: 40, ergebnisse };
 }
 
 function zeigeRundenabschlussNachDuell() {
@@ -3592,7 +4182,13 @@ function duellAbbrechenGegner() {
 function zeigeDuellErgebnis(opts) {
   opts = opts || {};
   const aufgegeben   = opts.aufgegeben || false;
-  const sieg         = !aufgegeben && duellState.meScore >= duellState.oppScore;
+  // Sieg: mehr Punkte — bei Gleichstand: weniger Gesamtzeit gewinnt
+  const gleichstand    = !aufgegeben && duellState.meScore === duellState.oppScore;
+  const sieg           = !aufgegeben && (
+    duellState.meScore > duellState.oppScore ||
+    (gleichstand && duel.meZeitGesamt < duel.oppZeitGesamt) ||
+    (gleichstand && duel.meZeitGesamt === duel.oppZeitGesamt && duel.rolle === 'host')
+  );
   const rangDiff     = sieg   ? Math.floor(10 + Math.random() * 10)
                      : aufgegeben ? -Math.floor(8 + Math.random() * 7)
                      : -Math.floor(3 + Math.random() * 7);
@@ -4039,7 +4635,7 @@ async function lobbyAngebotErstellen() {
     lobbyStatus('Angebot aktiv — warte auf Gegner…');
 
     // Polling starten
-    lobbyState.pollingTimer = setInterval(() => lobbyPollStatus(), 2000);
+    lobbyState.pollingTimer = setInterval(() => lobbyPollStatus(), 1000);
 
   } catch(e) {
     lobbyStatus('Fehler: ' + e.message, '#ef4444');
@@ -4290,6 +4886,8 @@ function duelSetupDC(dc) {
   dc.onopen = () => {
     duel.verbunden = true;
     duelLog('✓ Verbunden!');
+    // Host-Warte-Timer clearen falls noch aktiv
+    if (warteraum._hostWarteTimer) { clearTimeout(warteraum._hostWarteTimer); warteraum._hostWarteTimer = null; }
     const statusEl = document.getElementById('p2p-status');
     if (statusEl) { statusEl.textContent = 'Verbunden ✓'; statusEl.style.color = '#10b981'; }
     lobbyStatus('Verbunden! ✓', '#10b981');
@@ -4297,7 +4895,7 @@ function duelSetupDC(dc) {
     lobbyState.meineAngebotsId = null;
 
     // hello senden
-    duelMsgSend({ type: 'hello', name: 'Spieler ' + (Math.floor(Math.random()*90)+10) });
+    duelMsgSend({ type: 'hello', name: SPIELER_NAME });
 
     // Ping starten
     duel.pingTimer = setInterval(() => {
@@ -4344,7 +4942,8 @@ function duelHandleMsg(msg) {
     case 'hello':
       duel.gegnerName = msg.name;
       duelLog('Gegner: ' + msg.name);
-      // Gegner-Name in UI aktualisieren
+      // Gegner-Name in UI und duellState aktualisieren
+      duellState.gegner = { name: msg.name, liga: {symbol:'⚔️', name:'P2P'}, avatar: '🧑' };
       ['dsb-opp-name','duell-opp-name-result','duell-opp-name-hero'].forEach(id => {
         const el = document.getElementById(id);
         if (el) el.textContent = msg.name;
@@ -4509,6 +5108,9 @@ function duelZeigeKatWahl(runde) {
   const guestWarte = document.getElementById('duell-guest-warte');
   if (guestWarte) guestWarte.style.display = 'none';
 
+  // Habe ich Wahlrecht in dieser Runde?
+  const ichDarfWaehlen = duelIchWaehle(duel.runde);
+
   // 3 zufällige Kategorien (oder alle in Runde 5)
   const auswahl = [...verfuegbar].sort(() => Math.random() - 0.5).slice(0, 3);
   duellState.gewaehlteKat = null;
@@ -4521,17 +5123,34 @@ function duelZeigeKatWahl(runde) {
         <div class="kat-name">${kat.name}</div>
         <div class="kat-beispiel">${kat.beispiel}</div>
       </div>`;
-    card.onclick = () => {
-      container.querySelectorAll('.kat-card').forEach(c => c.classList.remove('selected'));
-      card.classList.add('selected');
-      duellState.gewaehlteKat = kat;
-      btn.disabled = false;
-      btn.style.opacity = '1';
-    };
+    if (!ichDarfWaehlen) {
+      // Kein Wahlrecht — Karte optisch und funktional sperren
+      card.style.opacity = '0.4';
+      card.style.pointerEvents = 'none';
+      card.style.cursor = 'default';
+    } else {
+      card.onclick = () => {
+        container.querySelectorAll('.kat-card').forEach(c => c.classList.remove('selected'));
+        card.classList.add('selected');
+        duellState.gewaehlteKat = kat;
+        btn.disabled = false;
+        btn.style.opacity = '1';
+      };
+    }
     container.appendChild(card);
   });
 
   showScreen('screen-duell-kat');
+
+  if (!ichDarfWaehlen) {
+    // Warte-Modus: Button verstecken, Hinweis zeigen
+    btn.style.display = 'none';
+    if (guestWarte) {
+      guestWarte.textContent = `⏳ ${duel.gegnerName} wählt die Kategorie…`;
+      guestWarte.style.display = 'block';
+    }
+    return; // kein AutoWeiter für wartenden Spieler
+  }
 
   // Auto-Weiter nach 14s
   starteAutoWeiter(14 * DEBUG_TIMER_FAKTOR, () => {
@@ -4562,6 +5181,16 @@ function duelZeigeKatWarten(runde) {
 
   const btn = document.getElementById('duell-kat-weiter');
   btn.style.display = 'none';
+
+  // Kat-Karten deaktivieren — kein Klick möglich während Gegner wählt
+  const container = document.getElementById('duell-kat-cards');
+  if (container) {
+    container.querySelectorAll('.kat-card').forEach(c => {
+      c.style.opacity = '0.4';
+      c.style.pointerEvents = 'none';
+      c.onclick = null;
+    });
+  }
 
   const guestWarte = document.getElementById('duell-guest-warte');
   if (guestWarte) {
@@ -4608,7 +5237,8 @@ function duelStarteFragenMitKat(katId, seed) {
 // ─── Runden-Ergebnis nach Spielen senden ─────────────────────
 function duelRundeAbgeschlossen() {
   const meRunde = duellState.meRundenHistory[duellState.meRundenHistory.length - 1];
-  if (!meRunde) return;
+  if (!meRunde) { duelLog('WARN: meRunde fehlt in History'); return; }
+  duelLog(`Runde abgeschlossen: richtig=${meRunde.richtig}, punkte=${meRunde.punkte}, state.gesamtPunkte=${state.gesamtPunkte}`);
 
   // Gesamtzeit aus ergebnisse[] summieren (alle Fragen dieser Runde)
   const rundeZeitMs = (meRunde.ergebnisse || []).reduce((s, e) => s + (e.zeitMs || 0), 0);
@@ -4680,30 +5310,13 @@ function duelZeigeVergleich() {
         btn.disabled = false;
         btn.style.opacity = '1';
         btn.textContent = duel.runde < 5 ? `Runde ${duel.runde + 1} starten →` : 'Ergebnis anzeigen →';
-        // Eigener Duell-Timer — unabhängig vom globalen AUTO_WEITER
-        const sek = 14 * (DEBUG_TIMER_FAKTOR || 1);
+        // Kein AutoWeiter im P2P — Spieler klickt selbst weiter
         const hinweis = document.getElementById('runden-auto-hinweis');
-        const sekEl   = document.getElementById('runden-auto-sek');
-        if (hinweis) { hinweis.style.display = 'block'; hinweis.classList.remove('warnung'); }
-        if (sekEl) sekEl.textContent = sek;
-        const t0 = Date.now();
-        duel.rundeAutoTimer = setInterval(() => {
-          const verbleibend = Math.max(0, sek - Math.floor((Date.now() - t0) / 1000));
-          if (sekEl) sekEl.textContent = verbleibend;
-          if (verbleibend <= 3 && hinweis) hinweis.classList.add('warnung');
-          if (verbleibend <= 0) {
-            clearInterval(duel.rundeAutoTimer); duel.rundeAutoTimer = null;
-            if (hinweis) hinweis.style.display = 'none';
-            naechsteRunde();
-          }
-        }, 300);
+        if (hinweis) hinweis.style.display = 'none';
       } else {
         btn.textContent = `⏳ Warte — ${duel.gegnerName} wählt Runde ${duel.runde + 1}…`;
-        // Fallback: nach 30s automatisch weiter (Gegner hat nicht reagiert)
-        duel.rundeWartTimer = setTimeout(() => {
-          duelLog('Gegner hat nicht reagiert — automatisch weiter');
-          naechsteRunde();
-        }, 30000 * (DEBUG_TIMER_FAKTOR || 1));
+        // Kein Timer — wartender Spieler wartet auf 'kat'-Nachricht vom Gegner.
+        // Verbindungsabbruch wird durch den Ping-Mechanismus erkannt.
       }
     }, 3000);
   }
@@ -4747,7 +5360,17 @@ function duelNaechsteRunde() {
   if (duel.runde >= 5) {
     duelZeigeEndergebnis();
   } else {
-    duelStarteRunde(duel.runde + 1);
+    const naechsteRunde = duel.runde + 1;
+    if (duelIchWaehle(naechsteRunde)) {
+      // Ich habe Wahlrecht → Runde starten und Kategorie senden
+      duelStarteRunde(naechsteRunde);
+    } else {
+      // Gegner hat Wahlrecht → nur lokal Runde setzen und warten
+      duel.runde = naechsteRunde;
+      duel.meRundeErgebnis  = null;
+      duel.oppRundeErgebnis = null;
+      duelZeigeKatWarten(naechsteRunde);
+    }
   }
 }
 
@@ -4800,15 +5423,41 @@ function debugTap() {
 }
 
 function debugTimerToggle() {
+  // Speed-Modus zuerst deaktivieren
+  if (DEBUG_TIMER_FAKTOR < 1) {
+    DEBUG_TIMER_FAKTOR = 1;
+    const sb = document.getElementById('debug-speed-btn');
+    if (sb) { sb.style.background = '#6366f1'; sb.textContent = '⚡ Speed ÷3 (an)'; }
+  }
   DEBUG_TIMER_FAKTOR = DEBUG_TIMER_FAKTOR === 1 ? 10 : 1;
   const btn = document.getElementById('debug-timer-btn');
   if (DEBUG_TIMER_FAKTOR === 10) {
     btn.style.background = '#10b981';
     btn.textContent = '⏱ Timer ×10 (aktiv)';
-    document.getElementById('debug-status').textContent = 'Timer ×10 — nächste Frage: 140s';
+    document.getElementById('debug-status').textContent = 'Timer ×10 — Frage: 140s, Warteraum: 140s';
   } else {
     btn.style.background = '#ef4444';
     btn.textContent = '⏱ Timer ×10 (an)';
+    document.getElementById('debug-status').textContent = 'Timer normal (14s)';
+  }
+}
+
+function debugSpeedToggle() {
+  // ×10-Modus zuerst deaktivieren
+  if (DEBUG_TIMER_FAKTOR > 1) {
+    DEBUG_TIMER_FAKTOR = 1;
+    const tb = document.getElementById('debug-timer-btn');
+    if (tb) { tb.style.background = '#ef4444'; tb.textContent = '⏱ Timer ×10 (an)'; }
+  }
+  DEBUG_TIMER_FAKTOR = DEBUG_TIMER_FAKTOR < 1 ? 1 : 1/3;
+  const btn = document.getElementById('debug-speed-btn');
+  if (DEBUG_TIMER_FAKTOR < 1) {
+    btn.style.background = '#10b981';
+    btn.textContent = '⚡ Speed ÷3 (aktiv)';
+    document.getElementById('debug-status').textContent = 'Speed ÷3 — Frage: ~5s, Warteraum: ~5s';
+  } else {
+    btn.style.background = '#6366f1';
+    btn.textContent = '⚡ Speed ÷3 (an)';
     document.getElementById('debug-status').textContent = 'Timer normal (14s)';
   }
 }

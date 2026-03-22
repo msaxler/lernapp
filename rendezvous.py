@@ -17,7 +17,30 @@ def new_pin():
         if pin not in store and pin not in lobby:
             return pin
 
-# ─── Lobby Store ─────────────────────────────────────────────
+# ─── Warteraum Store — CAS-Modell ────────────────────────────
+# state[i] ∈ { FREE, CLAIMED, PAIRED, LEFT }
+# partner[i] ∈ { None, spieler_id, 'VIRTUAL' }
+# Eintrag: { id, name, liga, eingetreten, state, partner, herausforderung }
+warteraum = {}
+warteraum_lock = threading.Lock()
+WARTERAUM_TTL = 90   # 90s — Spieler werden automatisch entfernt
+
+def warteraum_cleanup():
+    now = time.time()
+    with warteraum_lock:
+        abgelaufen = [k for k,v in warteraum.items()
+                      if now - v['eingetreten'] > WARTERAUM_TTL]
+        for k in abgelaufen:
+            del warteraum[k]
+
+def cas(spieler_id, expected_state, new_state):
+    """Compare-and-Swap: nur wenn state == expected, setze auf new. Gibt True/False zurück."""
+    if spieler_id not in warteraum:
+        return False
+    if warteraum[spieler_id]['state'] == expected_state:
+        warteraum[spieler_id]['state'] = new_state
+        return True
+    return False
 # Duell-Angebot: {
 #   id: str,           PIN = Angebots-ID
 #   schwierigkeit: L|M|S,
@@ -168,11 +191,32 @@ class Handler(BaseHTTPRequestHandler):
             aid = p.split('/')[-1]
             offer = store.get(aid, {}).get('offer')
             if not offer:
-                # Noch nicht bereit — 200 mit offer:null damit Client weiterpollt
                 self.send_json(200, {'offer': None, 'ready': False}); return
             self.send_json(200, {'offer': offer, 'ready': True}); return
 
-        self.send_json(404, {'error': 'Nicht gefunden'})
+        # GET /warteraum/liste  →  Alle FREE-Spieler (max. 4 für Client)
+        if p == '/warteraum/liste':
+            warteraum_cleanup()
+            with warteraum_lock:
+                spieler = [
+                    {'id': v['id'], 'name': v['name'], 'liga': v['liga'],
+                     'eingetreten': int(v['eingetreten'] * 1000)}
+                    for v in warteraum.values()
+                    if v['state'] == 'FREE'
+                ]
+            self.send_json(200, {'spieler': spieler}); return
+
+        # GET /warteraum/status/ID  →  Eigener Zustand + Herausforderung
+        if p.startswith('/warteraum/status/'):
+            wid = p.split('/')[-1]
+            with warteraum_lock:
+                eintrag = warteraum.get(wid)
+            if not eintrag:
+                self.send_json(404, {'error': 'Nicht im Warteraum'}); return
+            self.send_json(200, {
+                'state':          eintrag['state'],
+                'herausforderung': eintrag.get('herausforderung')
+            }); return
 
     def do_POST(self):
         p = urlparse(self.path).path
@@ -256,6 +300,107 @@ class Handler(BaseHTTPRequestHandler):
                 self.send_json(404, {'error': 'Nicht gefunden'}); return
             store[aid]['offer'] = body.get('sdp', '')
             print(f"  Lobby {aid}: Offer hinterlegt")
+            self.send_json(200, {'ok': True}); return
+
+        # ── Warteraum CAS-Modell ──────────────────────────────
+        # POST /warteraum/betreten  { name, liga }  →  { id }
+        # state[i] = FREE, in Pool aufnehmen
+        if p == '/warteraum/betreten':
+            wid = ''.join(random.choices(string.digits, k=8))
+            with warteraum_lock:
+                warteraum[wid] = {
+                    'id':              wid,
+                    'name':            body.get('name', 'Spieler'),
+                    'liga':            body.get('liga', 'bronze'),
+                    'eingetreten':     time.time(),
+                    'state':           'FREE',
+                    'partner':         None,
+                    'herausforderung': None,
+                }
+            print(f"  Warteraum: {body.get('name','?')} betreten (id={wid}, state=FREE)")
+            self.send_json(200, {'id': wid}); return
+
+        # POST /warteraum/verlassen  { id }  →  { ok }
+        # state[i] = LEFT, aus Pool entfernen
+        if p == '/warteraum/verlassen':
+            wid = body.get('id')
+            with warteraum_lock:
+                if wid in warteraum:
+                    warteraum[wid]['state'] = 'LEFT'
+                    del warteraum[wid]
+                    print(f"  Warteraum: {wid} verlassen (state=LEFT)")
+            self.send_json(200, {'ok': True}); return
+
+        # POST /warteraum/reservieren  { meine_id, gegner_id, host_name }
+        # CAS-Kern: atomar entscheidet ob ich Host oder Guest bin
+        # Ablauf laut Konzept:
+        #   1. Wurde ich selbst bereits CLAIMED/PAIRED? → ich bin Guest
+        #   2. CAS(gegner, FREE, CLAIMED) + CAS(ich, FREE, CLAIMED) → ich bin Host
+        #   3. Sonst: 409 → Client fällt auf VG zurück
+        if p == '/warteraum/reservieren':
+            meine_id  = body.get('meine_id')
+            gegner_id = body.get('gegner_id')
+            host_name = body.get('host_name', 'Spieler')
+            with warteraum_lock:
+                # Schritt 1: Wurde ich bereits herausgefordert (CLAIMED)?
+                if meine_id and meine_id in warteraum:
+                    hf = warteraum[meine_id].get('herausforderung')
+                    if hf:
+                        cas(meine_id, 'CLAIMED', 'PAIRED')
+                        print(f"  Reservieren: {meine_id} ist GUEST (bereits CLAIMED)")
+                        self.send_json(200, {'rolle': 'guest', 'herausforderung': hf}); return
+
+                # Schritt 2: Gegner verfügbar?
+                if not gegner_id or gegner_id not in warteraum:
+                    print(f"  Reservieren: {gegner_id} nicht im Warteraum")
+                    self.send_json(409, {'error': 'Gegner nicht verfügbar'}); return
+
+                # CAS: Gegner FREE → CLAIMED
+                if not cas(gegner_id, 'FREE', 'CLAIMED'):
+                    print(f"  Reservieren: {gegner_id} nicht FREE (state={warteraum[gegner_id]['state']})")
+                    # Nochmal prüfen: wurde ich selbst inzwischen herausgefordert?
+                    if meine_id and meine_id in warteraum:
+                        hf = warteraum[meine_id].get('herausforderung')
+                        if hf:
+                            cas(meine_id, 'CLAIMED', 'PAIRED')
+                            self.send_json(200, {'rolle': 'guest', 'herausforderung': hf}); return
+                    self.send_json(409, {'error': 'Gegner nicht verfügbar'}); return
+
+                # CAS: Ich FREE → CLAIMED
+                if meine_id and meine_id in warteraum:
+                    if not cas(meine_id, 'FREE', 'CLAIMED'):
+                        # Rollback Gegner
+                        cas(gegner_id, 'CLAIMED', 'FREE')
+                        # Wurde ich selbst herausgefordert?
+                        hf = warteraum[meine_id].get('herausforderung')
+                        if hf:
+                            cas(meine_id, 'CLAIMED', 'PAIRED')
+                            self.send_json(200, {'rolle': 'guest', 'herausforderung': hf}); return
+                        self.send_json(409, {'error': 'Eigener Zustand geändert'}); return
+
+                # Beide CLAIMED → Herausforderung setzen, dann PAIRED
+                warteraum[gegner_id]['herausforderung'] = {
+                    'angebots_id':   None,  # wird per /update nachgeliefert
+                    'schwierigkeit': 'M',
+                    'host_name':     host_name
+                }
+                cas(gegner_id, 'CLAIMED', 'PAIRED')
+                if meine_id and meine_id in warteraum:
+                    cas(meine_id, 'CLAIMED', 'PAIRED')
+                print(f"  Reservieren: {meine_id}=HOST vs {gegner_id}=GUEST (beide PAIRED)")
+            self.send_json(200, {'rolle': 'host'}); return
+
+        # POST /warteraum/herausforderung/update  { gegner_id, angebots_id, schwierigkeit }
+        # Host liefert Angebots-ID nach /lobby/create nach
+        if p == '/warteraum/herausforderung/update':
+            gegner_id     = body.get('gegner_id')
+            angebots_id   = body.get('angebots_id')
+            schwierigkeit = body.get('schwierigkeit', 'M')
+            with warteraum_lock:
+                if gegner_id in warteraum and warteraum[gegner_id].get('herausforderung'):
+                    warteraum[gegner_id]['herausforderung']['angebots_id']   = angebots_id
+                    warteraum[gegner_id]['herausforderung']['schwierigkeit'] = schwierigkeit
+                    print(f"  HF-Update: {gegner_id} → Angebot {angebots_id} ({schwierigkeit})")
             self.send_json(200, {'ok': True}); return
 
         self.send_json(404, {'error': 'Nicht gefunden'})
