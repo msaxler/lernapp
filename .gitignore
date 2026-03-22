@@ -1,0 +1,17 @@
+# Zugangsdaten — niemals ins Repo
+CREDENTIALS.md
+*.credentials
+*.env
+.env*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Lokale Backups
+backup/
+
+# Windows
+Thumbs.db
+Desktop.ini
