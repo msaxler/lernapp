@@ -1474,7 +1474,7 @@
     <div style="display:flex;flex-direction:column;height:100%;padding:16px;gap:16px;">
 
       <div style="display:flex;align-items:center;gap:10px;">
-        <button onclick="stopAutoWeiter();showScreen('screen-start')"
+        <button onclick="resetSpiel();showScreen('screen-start')"
           style="background:none;border:none;font-size:1.4rem;cursor:pointer;color:var(--text-muted);">‹</button>
         <div style="font-size:1rem;font-weight:600;color:var(--text-muted)" id="schwier-modus-label">Sofa-Modus</div>
       </div>
@@ -1596,7 +1596,7 @@
     </div>
 
     <div class="nav-bar">
-      <button class="nav-back" onclick="stopAutoWeiter();showScreen('screen-start')">‹</button>
+      <button class="nav-back" onclick="resetSpiel();showScreen('screen-start')">‹</button>
       <div class="nav-title" id="kat-nav-title">Sofa-Modus</div>
     </div>
 
@@ -1814,7 +1814,7 @@
 
     <div class="ende-footer">
       <button class="btn btn-primary" onclick="zeigeSchwierigkeit('sofa')">Nochmal spielen</button>
-      <button class="btn btn-secondary" onclick="showScreen('screen-start')">Zum Startbildschirm</button>
+      <button class="btn btn-secondary" onclick="resetSpiel();showScreen('screen-start')">Zum Startbildschirm</button>
     </div>
   </div>
 
@@ -1878,7 +1878,7 @@
   <div class="screen" id="screen-duell-start">
     <div class="statusbar"><span>9:41</span><div class="statusbar-icons"><span>🔋</span></div></div>
     <div class="nav-bar">
-      <button class="nav-back" onclick="stopAutoWeiter();showScreen('screen-start')">‹</button>
+      <button class="nav-back" onclick="resetSpiel();showScreen('screen-start')">‹</button>
       <div class="nav-title">⚔️ Duell starten</div>
     </div>
 
@@ -2082,7 +2082,7 @@
 
     <div class="ende-footer">
       <button class="btn btn-primary" onclick="showScreen('screen-rangliste')">Zur Rangliste →</button>
-      <button class="btn btn-secondary" onclick="showScreen('screen-start')">Zum Startbildschirm</button>
+      <button class="btn btn-secondary" onclick="resetSpiel();showScreen('screen-start')">Zum Startbildschirm</button>
     </div>
   </div>
 
@@ -2093,7 +2093,7 @@
   <div class="screen" id="screen-rangliste">
     <div class="statusbar"><span>9:41</span><div class="statusbar-icons"><span>🔋</span></div></div>
     <div class="nav-bar">
-      <button class="nav-back" onclick="stopAutoWeiter();showScreen('screen-start')">‹</button>
+      <button class="nav-back" onclick="resetSpiel();showScreen('screen-start')">‹</button>
       <div class="nav-title">🏆 Rangliste</div>
       <button class="nav-back" onclick="showScreen('screen-liga')" style="font-size:13px;width:auto;padding:0 10px;">Liga</button>
     </div>
@@ -2248,7 +2248,7 @@
   <div class="screen" id="screen-profil">
     <div class="statusbar"><span>9:41</span><div class="statusbar-icons"><span>🔋</span></div></div>
     <div class="nav-bar">
-      <button class="nav-back" onclick="stopAutoWeiter();showScreen('screen-start')">‹</button>
+      <button class="nav-back" onclick="resetSpiel();showScreen('screen-start')">‹</button>
       <div class="nav-title">👤 Mein Profil</div>
     </div>
 
@@ -3844,6 +3844,63 @@ let duellState = {
   oppRundenHistory: [],
   gewaehlteKat: null,
 };
+
+function resetSpiel() {
+  // Solo-State
+  state.modus = 'solo';
+  state.runde = 1;
+  state.gesamtPunkte = 0;
+  state.richtig = 0;
+  state.falsch = 0;
+  state.frageInRunde = 0;
+  state.rundeRichtig = 0;
+  state.rundeErgebnisse = [];
+  state.gespielteKategorien = new Set();
+  state.gewaehlteKat = null;
+
+  // Duell-State
+  duellState.gegner = null;
+  duellState.runde = 1;
+  duellState.meScore = 0;
+  duellState.oppScore = 0;
+  duellState.meRichtig = 0;
+  duellState.oppRichtig = 0;
+  duellState.meRundenHistory = [];
+  duellState.oppRundenHistory = [];
+  duellState.gewaehlteKat = null;
+  duellState.pendingGegner = null;
+
+  // P2P duel-State
+  if (duel.pc) { try { duel.pc.close(); } catch(e) {} duel.pc = null; }
+  if (duel.dc) { try { duel.dc.close(); } catch(e) {} duel.dc = null; }
+  if (duel.pingTimer)      { clearInterval(duel.pingTimer);     duel.pingTimer     = null; }
+  if (duel.abbruchTimer)   { clearTimeout(duel.abbruchTimer);   duel.abbruchTimer  = null; }
+  if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer= null; }
+  if (duel.rundeAutoTimer) { clearInterval(duel.rundeAutoTimer);duel.rundeAutoTimer= null; }
+  duel.verbunden    = false;
+  duel.rolle        = null;
+  duel.gegnerName   = 'Gegner';
+  duel.runde        = 0;
+  duel.meGesamt     = 0;
+  duel.oppGesamt    = 0;
+  duel.meZeitGesamt = 0;
+  duel.oppZeitGesamt= 0;
+  duel.gespielteKats= [];
+  duel.meRundeErgebnis  = null;
+  duel.oppRundeErgebnis = null;
+  duel.missedPings  = 0;
+
+  // Lobby-State
+  if (lobbyState.pollingTimer) { clearInterval(lobbyState.pollingTimer); lobbyState.pollingTimer = null; }
+  lobbyState.meineAngebotsId = null;
+  lobbyState.rolle = null;
+
+  // Warteraum aufräumen falls nötig
+  if (warteraum._hostWarteTimer) { clearTimeout(warteraum._hostWarteTimer); warteraum._hostWarteTimer = null; }
+
+  // AutoWeiter stoppen
+  stopAutoWeiter();
+}
 
 // Beim Laden der Seite und beim Öffnen des Duell-Screens: Gegner generieren
 function duellScreenInit() {
