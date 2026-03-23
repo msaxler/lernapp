@@ -1,0 +1,862 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>StimmBild — Abgeordnetenhauswahl Berlin 2026</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,300&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1a1a2e;
+    --ink-soft: #2d2d4a;
+    --paper: #f7f4ef;
+    --paper-warm: #efe9df;
+    --accent: #c8372d;
+    --blue: #1e3a5f;
+    --blue-mid: #2e5f8a;
+    --blue-light: #e8f0f8;
+    --green: #1a5c2a;
+    --green-light: #e8f5ec;
+    --amber: #8b5e0a;
+    --amber-light: #fdf3e0;
+    --muted: #7a7a8c;
+    --border: #d8d0c4;
+    --card-shadow: 0 2px 20px rgba(26,26,46,0.08), 0 1px 4px rgba(26,26,46,0.05);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Source Serif 4', Georgia, serif;
+    background: var(--paper);
+    color: var(--ink);
+    min-height: 100vh;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  /* ─── HEADER ───────────────────────────────── */
+  .app-header {
+    background: var(--ink);
+    color: white;
+    padding: 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.3);
+  }
+  .header-inner {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 14px 20px;
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+  }
+  .logo {
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    font-weight: 900;
+    letter-spacing: -0.5px;
+    color: white;
+  }
+  .logo span { color: var(--accent); }
+  .header-sub {
+    font-size: 11px;
+    color: rgba(255,255,255,0.5);
+    font-family: 'DM Mono', monospace;
+    letter-spacing: 0.05em;
+  }
+
+  /* ─── PROGRESS ─────────────────────────────── */
+  .progress-bar-wrap {
+    background: rgba(255,255,255,0.1);
+    height: 3px;
+  }
+  .progress-bar {
+    height: 3px;
+    background: var(--accent);
+    transition: width 0.4s ease;
+  }
+
+  /* ─── SCREENS ──────────────────────────────── */
+  .screen { display: none; animation: fadeIn 0.3s ease; }
+  .screen.active { display: block; }
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 28px 20px 60px;
+  }
+
+  /* ─── START SCREEN ─────────────────────────── */
+  .start-hero {
+    text-align: center;
+    padding: 48px 20px 40px;
+  }
+  .start-badge {
+    display: inline-block;
+    background: var(--accent);
+    color: white;
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.15em;
+    padding: 4px 12px;
+    border-radius: 2px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+  }
+  .start-title {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(40px, 8vw, 64px);
+    font-weight: 900;
+    line-height: 1.0;
+    color: var(--ink);
+    margin-bottom: 6px;
+    letter-spacing: -2px;
+  }
+  .start-title span { color: var(--accent); }
+  .start-tagline {
+    font-size: 18px;
+    color: var(--muted);
+    font-style: italic;
+    margin-bottom: 32px;
+    font-weight: 300;
+  }
+  .start-info {
+    background: var(--blue);
+    color: white;
+    padding: 20px 24px;
+    border-radius: 4px;
+    margin: 0 auto 32px;
+    max-width: 480px;
+    text-align: left;
+    font-size: 14px;
+    line-height: 1.7;
+  }
+  .start-info strong { display: block; font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.1em; margin-bottom: 8px; color: rgba(255,255,255,0.6); text-transform: uppercase; }
+  .drei-ebenen {
+    display: flex;
+    gap: 8px;
+    margin: 0 auto 32px;
+    max-width: 500px;
+  }
+  .ebene-chip {
+    flex: 1;
+    padding: 12px 8px;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: 'DM Mono', monospace;
+  }
+  .ebene-chip .emoji { font-size: 20px; display: block; margin-bottom: 4px; }
+  .ebene-chip.fakt { background: var(--green-light); color: var(--green); border: 1px solid #b8ddc0; }
+  .ebene-chip.prog { background: var(--blue-light); color: var(--blue); border: 1px solid #bad0e8; }
+  .ebene-chip.stud { background: var(--amber-light); color: var(--amber); border: 1px solid #e8d0a0; }
+
+  .btn-start {
+    background: var(--accent);
+    color: white;
+    border: none;
+    padding: 16px 48px;
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 3px;
+    cursor: pointer;
+    letter-spacing: 0.5px;
+    transition: all 0.2s;
+    box-shadow: 0 4px 16px rgba(200,55,45,0.3);
+  }
+  .btn-start:hover { background: #a82c24; transform: translateY(-1px); box-shadow: 0 6px 20px rgba(200,55,45,0.4); }
+  .start-meta {
+    margin-top: 20px;
+    font-size: 12px;
+    color: var(--muted);
+    font-family: 'DM Mono', monospace;
+  }
+
+  /* ─── QUIZ SCREEN ──────────────────────────── */
+  .quiz-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--muted);
+  }
+  .quiz-counter { font-size: 13px; font-weight: 500; color: var(--ink); }
+
+  .these-card {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    box-shadow: var(--card-shadow);
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  .these-number {
+    background: var(--ink);
+    color: white;
+    padding: 8px 20px;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  .these-text {
+    padding: 28px 24px 20px;
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(18px, 3.5vw, 23px);
+    font-weight: 700;
+    line-height: 1.35;
+    color: var(--ink);
+  }
+
+  .choice-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  .choice-btn {
+    background: white;
+    border: 2px solid var(--border);
+    border-radius: 5px;
+    padding: 16px 12px;
+    cursor: pointer;
+    text-align: center;
+    font-family: 'Source Serif 4', serif;
+    font-size: 14px;
+    color: var(--ink);
+    transition: all 0.18s;
+    font-weight: 600;
+  }
+  .choice-btn .icon { font-size: 22px; display: block; margin-bottom: 6px; }
+  .choice-btn:hover { border-color: var(--blue-mid); background: var(--blue-light); }
+  .choice-btn.selected-ja { background: var(--green-light); border-color: var(--green); color: var(--green); }
+  .choice-btn.selected-neutral { background: var(--amber-light); border-color: var(--amber); color: var(--amber); }
+  .choice-btn.selected-nein { background: #fdecea; border-color: var(--accent); color: var(--accent); }
+
+  .weight-row {
+    background: var(--paper-warm);
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    padding: 14px 18px;
+    margin-bottom: 20px;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .weight-row strong { color: var(--ink); font-size: 12px; font-family: 'DM Mono', monospace; text-transform: uppercase; letter-spacing: 0.05em; display: block; margin-bottom: 8px; }
+  .weight-btns { display: flex; gap: 8px; }
+  .weight-btn {
+    border: 1px solid var(--border);
+    background: white;
+    padding: 6px 14px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 12px;
+    font-family: 'DM Mono', monospace;
+    transition: all 0.15s;
+    color: var(--ink);
+  }
+  .weight-btn:hover { border-color: var(--blue-mid); }
+  .weight-btn.selected { background: var(--blue); color: white; border-color: var(--blue); }
+
+  /* ─── KONTEXT (Drei Ebenen) ─────────────────── */
+  .kontext-toggle {
+    background: none;
+    border: 1px solid var(--border);
+    padding: 10px 18px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    color: var(--muted);
+    width: 100%;
+    text-align: left;
+    margin-bottom: 12px;
+    transition: all 0.15s;
+  }
+  .kontext-toggle:hover { border-color: var(--blue-mid); color: var(--blue); }
+  .kontext-toggle.open { border-color: var(--blue-mid); color: var(--blue); background: var(--blue-light); }
+
+  .kontext-panel {
+    display: none;
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  .kontext-panel.open { display: block; animation: fadeIn 0.25s ease; }
+
+  .kontext-block { padding: 16px 20px; border-bottom: 1px solid var(--border); }
+  .kontext-block:last-child { border-bottom: none; }
+  .kontext-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .kontext-label.fakt { color: var(--green); background: var(--green-light); display: inline-flex; padding: 3px 8px; border-radius: 2px; }
+  .kontext-label.prog { color: var(--blue); background: var(--blue-light); display: inline-flex; padding: 3px 8px; border-radius: 2px; }
+  .kontext-label.stud { color: var(--amber); background: var(--amber-light); display: inline-flex; padding: 3px 8px; border-radius: 2px; }
+  .kontext-text { font-size: 13.5px; color: var(--ink-soft); line-height: 1.65; }
+  .kontext-text .partei { font-weight: 600; }
+  .kontext-quelle { font-family: 'DM Mono', monospace; font-size: 10px; color: var(--muted); margin-top: 6px; }
+
+  .unsicherheit-badge {
+    display: inline-block;
+    background: var(--amber-light);
+    color: var(--amber);
+    border: 1px solid #e8c870;
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    padding: 2px 7px;
+    border-radius: 2px;
+    margin-bottom: 8px;
+    letter-spacing: 0.08em;
+  }
+
+  .btn-next {
+    background: var(--ink);
+    color: white;
+    border: none;
+    padding: 14px 32px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Source Serif 4', serif;
+    font-size: 15px;
+    font-weight: 600;
+    width: 100%;
+    transition: all 0.18s;
+    margin-top: 8px;
+  }
+  .btn-next:hover { background: var(--blue); }
+  .btn-next:disabled { background: var(--border); color: var(--muted); cursor: default; }
+
+  /* ─── ERGEBNIS SCREEN ──────────────────────── */
+  .ergebnis-header {
+    text-align: center;
+    padding: 36px 0 28px;
+  }
+  .ergebnis-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+  .ergebnis-sub {
+    font-size: 14px;
+    color: var(--muted);
+    font-style: italic;
+    margin-bottom: 8px;
+  }
+  .ergebnis-hinweis {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    color: var(--muted);
+    background: var(--paper-warm);
+    border: 1px solid var(--border);
+    padding: 8px 14px;
+    border-radius: 3px;
+    display: inline-block;
+    margin-bottom: 32px;
+    letter-spacing: 0.05em;
+  }
+
+  .partei-result {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    padding: 16px 20px;
+    margin-bottom: 10px;
+    box-shadow: var(--card-shadow);
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    transition: all 0.2s;
+  }
+  .partei-result.top { border-left: 4px solid var(--accent); background: #fffaf9; }
+  .partei-name { font-weight: 700; font-size: 16px; min-width: 100px; }
+  .partei-bar-wrap { flex: 1; background: var(--paper-warm); border-radius: 2px; height: 8px; overflow: hidden; }
+  .partei-bar { height: 100%; border-radius: 2px; transition: width 0.8s ease; background: var(--blue-mid); }
+  .partei-result.top .partei-bar { background: var(--accent); }
+  .partei-pct { font-family: 'DM Mono', monospace; font-size: 14px; font-weight: 500; min-width: 40px; text-align: right; }
+
+  .ergebnis-details {
+    margin-top: 32px;
+    border-top: 1px solid var(--border);
+    padding-top: 24px;
+  }
+  .ergebnis-details h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    margin-bottom: 16px;
+  }
+  .detail-item {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--border);
+    font-size: 13.5px;
+  }
+  .detail-these { flex: 1; color: var(--ink-soft); }
+  .detail-antwort {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 2px;
+    white-space: nowrap;
+  }
+  .detail-antwort.ja { background: var(--green-light); color: var(--green); }
+  .detail-antwort.nein { background: #fdecea; color: var(--accent); }
+  .detail-antwort.neutral { background: var(--amber-light); color: var(--amber); }
+
+  .btn-restart {
+    background: white;
+    color: var(--ink);
+    border: 2px solid var(--ink);
+    padding: 12px 32px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Source Serif 4', serif;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 28px;
+    transition: all 0.18s;
+  }
+  .btn-restart:hover { background: var(--ink); color: white; }
+
+  .disclaimer {
+    margin-top: 32px;
+    padding: 16px 18px;
+    background: var(--paper-warm);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    font-size: 12px;
+    color: var(--muted);
+    line-height: 1.6;
+    font-family: 'DM Mono', monospace;
+  }
+  .disclaimer strong { color: var(--ink); }
+</style>
+</head>
+<body>
+
+<div class="app-header">
+  <div class="header-inner">
+    <div class="logo">Stimm<span>Bild</span></div>
+    <div class="header-sub">PROTOTYP · Berlin 2026</div>
+  </div>
+  <div class="progress-bar-wrap">
+    <div class="progress-bar" id="progress-bar" style="width:0%"></div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════ START ══ -->
+<div class="screen active" id="screen-start">
+  <div class="container">
+    <div class="start-hero">
+      <div class="start-badge">Abgeordnetenhauswahl Berlin · 20. September 2026</div>
+      <h1 class="start-title">Stimm<span>Bild</span></h1>
+      <p class="start-tagline">Sich ein Bild machen. Selbst entscheiden.</p>
+
+      <div class="start-info">
+        <strong>Was ist StimmBild?</strong>
+        StimmBild zeigt dir zu jedem politischen Thema drei klar getrennte Ebenen — was nachweislich passiert ist, was die Parteien versprechen, und was die Forschung dazu sagt. Kein Algorithmus entscheidet. Du ziehst deine eigenen Schlüsse.
+      </div>
+
+      <div class="drei-ebenen">
+        <div class="ebene-chip fakt"><span class="emoji">📊</span>FAKT</div>
+        <div class="ebene-chip prog"><span class="emoji">📋</span>PROGRAMM</div>
+        <div class="ebene-chip stud"><span class="emoji">🔬</span>STUDIE</div>
+      </div>
+
+      <button class="btn-start" onclick="startQuiz()">Quiz starten →</button>
+      <p class="start-meta">5 Thesen · ca. 4 Minuten · kein Login · keine Daten</p>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════ QUIZ ══ -->
+<div class="screen" id="screen-quiz">
+  <div class="container">
+    <div class="quiz-meta">
+      <span class="quiz-counter" id="quiz-counter">These 1 von 5</span>
+      <span id="quiz-thema">Wohnen</span>
+    </div>
+
+    <div class="these-card">
+      <div class="these-number" id="these-number">These 01</div>
+      <div class="these-text" id="these-text">—</div>
+    </div>
+
+    <div class="choice-row">
+      <button class="choice-btn" id="btn-ja" onclick="waehle('ja')">
+        <span class="icon">✓</span>Stimme zu
+      </button>
+      <button class="choice-btn" id="btn-neutral" onclick="waehle('neutral')">
+        <span class="icon">○</span>Neutral
+      </button>
+      <button class="choice-btn" id="btn-nein" onclick="waehle('nein')">
+        <span class="icon">✗</span>Stimme nicht zu
+      </button>
+    </div>
+
+    <div class="weight-row">
+      <strong>Wie wichtig ist dir dieses Thema?</strong>
+      <div class="weight-btns">
+        <button class="weight-btn selected" id="w-wichtig" onclick="gewicht('wichtig')">Wichtig</button>
+        <button class="weight-btn" id="w-sehr" onclick="gewicht('sehr')">Sehr wichtig</button>
+        <button class="weight-btn" id="w-egal" onclick="gewicht('egal')">Egal</button>
+      </div>
+    </div>
+
+    <button class="kontext-toggle" id="kontext-btn" onclick="toggleKontext()">
+      ▸ Hintergrund zu dieser These anzeigen (Fakt · Programm · Studie)
+    </button>
+    <div class="kontext-panel" id="kontext-panel">
+      <!-- wird dynamisch befüllt -->
+    </div>
+
+    <button class="btn-next" id="btn-next" onclick="naechste()" disabled>
+      Weiter →
+    </button>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════ ERGEBNIS ══ -->
+<div class="screen" id="screen-ergebnis">
+  <div class="container">
+    <div class="ergebnis-header">
+      <p class="ergebnis-sub">Deine Antworten im Vergleich</p>
+      <h2 class="ergebnis-title">Dein StimmBild</h2>
+      <div class="ergebnis-hinweis">
+        KEINE WAHLEMPFEHLUNG · Übereinstimmungen basieren auf deinen Antworten
+      </div>
+    </div>
+
+    <div id="ergebnis-liste"></div>
+
+    <div class="ergebnis-details">
+      <h3>Deine Antworten</h3>
+      <div id="detail-liste"></div>
+    </div>
+
+    <div style="text-align:center">
+      <button class="btn-restart" onclick="neustart()">← Neu starten</button>
+    </div>
+
+    <div class="disclaimer">
+      <strong>Prototyp · März 2026</strong><br>
+      Die Parteipositionen und Daten in diesem Prototyp sind <strong>illustrativ und vereinfacht</strong>. Sie dienen ausschließlich der Demonstration des Konzepts. Die echten Wahlprogramme zur Berliner Abgeordnetenhauswahl 2026 werden voraussichtlich im Mai/Juni 2026 veröffentlicht. StimmBild gibt keine Wahlempfehlung.
+    </div>
+  </div>
+</div>
+
+<script>
+// ─── DATEN ────────────────────────────────────────────────────
+const THESEN = [
+  {
+    id: 1,
+    thema: "Wohnen & Mieten",
+    text: "Berlin soll eine gesetzliche Mietpreisbremse einführen, die Mieterhöhungen auf maximal 2% pro Jahr begrenzt.",
+    parteien: { SPD: 1, Grüne: 1, Linke: 1, CDU: -1, FDP: -1, AfD: -1 },
+    kontext: {
+      fakt: "Die Berliner Durchschnittsmiete stieg von 6,80 €/m² (2015) auf 11,20 €/m² (2024) — ein Anstieg von 65% in neun Jahren. Berlin hat die höchste Mietbelastungsquote aller deutschen Großstädte: 37% des Nettoeinkommens entfällt im Median auf Miete. Quelle: Senat Berlin, IBB Wohnungsmarktbericht 2024.",
+      programm: [
+        { partei: "SPD Berlin", pos: "ja", text: "Fordert bundesweiten Mietendeckel und Ausweitung des Sozialen Wohnungsbaus auf 20.000 neue Einheiten bis 2030. (Wahlprogramm 2026, Kapitel Wohnen)" },
+        { partei: "CDU Berlin", pos: "nein", text: "Lehnt Mietendeckel als marktfeindlich ab. Setzt auf Wohnungsbau durch Deregulierung und Beschleunigung von Genehmigungen. (Wahlprogramm 2026, Kapitel Stadtentwicklung)" },
+        { partei: "Grüne Berlin", pos: "ja", text: "Befürworten staatliche Mietregulierung und Ausweitung gemeinnütziger Wohnungsunternehmen. (Wahlprogramm 2026)" },
+      ],
+      studie: {
+        uneinheitlich: true,
+        text: "DIW 2024: Mietpreisbremse dämpft Mietanstieg in regulierten Segmenten messbar — Effekt ca. 5–8% Dämpfung gegenüber unreguliertem Markt. ifo Institut 2023: Gesamtmarktwirkung gering, mögliche Ausweicheffekte in nicht regulierte Segmente. SVR Sachverständigenrat: Strukturell wirkungsloser ohne gleichzeitige Ausweitung des Angebots.",
+        quelle: "DIW Wochenbericht 12/2024 · ifo Schnelldienst 8/2023 · SVR Jahresgutachten 2023"
+      }
+    }
+  },
+  {
+    id: 2,
+    thema: "Verkehr & ÖPNV",
+    text: "Der ÖPNV in Berlin soll dauerhaft kostenlos sein — finanziert durch eine Nahverkehrsabgabe für alle Berliner Haushalte.",
+    parteien: { SPD: 0, Grüne: 1, Linke: 1, CDU: -1, FDP: -1, AfD: 0 },
+    kontext: {
+      fakt: "Das Berliner U- und S-Bahn-Netz befördert täglich ca. 3,5 Millionen Fahrgäste. Ein Monatsticket kostet aktuell 86 € (AB). Das Deutschlandticket wurde 2024 auf 58 € erhöht. Berlin verzeichnet 2023 erstmals mehr ÖPNV- als Pkw-Fahrten im Stadtgebiet. Quelle: BVG Geschäftsbericht 2023, Senat für Mobilität.",
+      programm: [
+        { partei: "Grüne Berlin", pos: "ja", text: "Fordern kostenlosen ÖPNV als Einstieg mit Haushaltsbeitrag, um Finanzierung dauerhaft zu sichern. (Wahlprogramm 2026, Mobilität)" },
+        { partei: "Linke Berlin", pos: "ja", text: "Kostenloses Sozialticket sofort, schrittweise Ausweitung auf alle Nutzer. Finanzierung durch Umverteilung im Verkehrshaushalt. (Wahlprogramm 2026)" },
+        { partei: "CDU Berlin", pos: "nein", text: "Kostenloser ÖPNV nicht finanzierbar ohne massive Steuererhöhung. Setzt auf Angebotsverbesserung und Pünktlichkeit. (Wahlprogramm 2026)" },
+      ],
+      studie: {
+        uneinheitlich: true,
+        text: "Erfahrungen aus Tallinn (kostenloses ÖPNV seit 2013): Fahrgastzahlen stiegen um 14%, aber hauptsächlich Fußgänger wechselten — Pkw-Verlagerung gering. Umweltbundesamt 2022: Kostenloses ÖPNV allein reduziert Autoverkehr nicht signifikant — Angebotsqualität entscheidender. Finanzierungsvolumen für Berlin geschätzt: 800 Mio. € bis 1,2 Mrd. € jährlich.",
+        quelle: "Umweltbundesamt Analyse 2022 · Agora Verkehrswende 2023 · BVG Kostenstruktur 2023"
+      }
+    }
+  },
+  {
+    id: 3,
+    thema: "Bildung & Schulen",
+    text: "Berlin soll die Klassengrößen an Grundschulen auf maximal 20 Schülerinnen und Schüler begrenzen.",
+    parteien: { SPD: 1, Grüne: 1, Linke: 1, CDU: 1, FDP: 0, AfD: 0 },
+    kontext: {
+      fakt: "Durchschnittliche Klassengröße in Berliner Grundschulen: 23,4 Schüler/innen (2023). Lehrermangel: ca. 3.800 offene Stellen zum Schuljahresbeginn 2024/25. Berlin hat den höchsten Anteil an Quereinsteigern im Lehrerberuf aller Bundesländer: 42%. Quelle: Senatsverwaltung für Bildung, Statistikbericht 2024.",
+      programm: [
+        { partei: "CDU Berlin", pos: "ja", text: "Fordert Begrenzung auf 20 Schüler als Zielgröße bis 2030, jedoch abhängig von Lehrergewinnung. (Wahlprogramm 2026, Bildung)" },
+        { partei: "SPD Berlin", pos: "ja", text: "Klassengrößenreduzierung als langfristiges Ziel, prioritär für Schulen in sozialen Brennpunkten. (Wahlprogramm 2026)" },
+        { partei: "FDP Berlin", pos: "neutral", text: "Befürwortet Qualitätsverbesserung, hält starre Obergrenzen für weniger wirksam als Lehrerqualifizierung und digitale Unterstützung. (Wahlprogramm 2026)" },
+      ],
+      studie: {
+        uneinheitlich: false,
+        text: "PISA-Forschung zeigt: Kleinere Klassen verbessern Lernergebnisse besonders für Kinder aus einkommensschwachen Familien (Effektstärke d=0,2). Project STAR (USA, Langzeitstudie): Kleinere Klassen in Grundschule wirken langfristig auf Bildungsabschlüsse. Gegenargument: Kostenintensiv — Halbierung der Klassengröße verdoppelt nicht die Lernergebnisse. Expertenkonsens: Wirkung vorhanden, aber Effizienzverhältnis zu anderen Maßnahmen prüfen.",
+        quelle: "Hattie: Visible Learning (Meta-Analyse) · Project STAR Tennessee · KMK Bildungsbericht 2023"
+      }
+    }
+  },
+  {
+    id: 4,
+    thema: "Klimaschutz & Energie",
+    text: "Berlin soll bis 2035 vollständig klimaneutral sein — notfalls auch wenn dies höhere Energiekosten für Haushalte bedeutet.",
+    parteien: { SPD: 0, Grüne: 1, Linke: 1, CDU: -1, FDP: -1, AfD: -1 },
+    kontext: {
+      fakt: "Berlin emittierte 2022 ca. 14,5 Mio. Tonnen CO₂-Äquivalente — 37% weniger als 1990. Der Berliner Senat hat Klimaneutralität bis 2045 gesetzlich verankert (Berliner Klimaschutz- und Energiewendegesetz 2022). Heizung macht 42% der Berliner CO₂-Emissionen aus. Quelle: Senatsverwaltung für Umwelt, Berliner Energieatlas 2023.",
+      programm: [
+        { partei: "Grüne Berlin", pos: "ja", text: "Fordern Klimaneutralität bis 2035 — zehn Jahre früher als gesetzlich verankert. Solarpflicht für Neubauten, Wärmewende mit Fernwärmeausbau. (Wahlprogramm 2026)" },
+        { partei: "CDU Berlin", pos: "nein", text: "Klimaneutralität bis 2045 als realistisches Ziel. 2035 nicht machbar ohne Gefährdung der Wirtschaft und untragbare Kostenbelastung für Haushalte. (Wahlprogramm 2026)" },
+        { partei: "Linke Berlin", pos: "ja", text: "2035-Ziel befürwortet, jedoch nur sozial gerecht — staatliche Förderung für einkommensschwache Haushalte bei Heizungsumstieg. (Wahlprogramm 2026)" },
+      ],
+      studie: {
+        uneinheitlich: true,
+        text: "PIK Potsdam 2023: Klimaneutralität Berlins bis 2035 technisch möglich, erfordert jedoch Investitionen von ca. 8 Mrd. € in Wärmeversorgung und Gebäudesanierung. Mehrkostenbelastung für Durchschnittshaushalt: 200–600 €/Jahr in der Übergangsphase. DIW 2024: Langfristig sinkende Energiekosten durch Erneuerbare kompensieren Übergangskosten nach 2040.",
+        quelle: "PIK Klimaszenario Berlin 2023 · DIW Energiekostenanalyse 2024 · Agora Energiewende 2023"
+      }
+    }
+  },
+  {
+    id: 5,
+    thema: "Wirtschaft & Arbeit",
+    text: "Berlin soll aktiv internationale Unternehmen und Start-ups ansiedeln — auch wenn dies steigende Immobilienpreise und Verdrängung in Innenstadtlagen mit sich bringt.",
+    parteien: { SPD: 0, Grüne: -1, Linke: -1, CDU: 1, FDP: 1, AfD: 0 },
+    kontext: {
+      fakt: "Berlin ist Deutschlands führender Start-up-Standort: 2023 wurden ca. 4,2 Mrd. € Venture Capital investiert (Platz 1 Deutschland, Platz 4 Europa). Berlin hat die niedrigste Wirtschaftsleistung pro Kopf aller deutschen Bundesländer: BIP/Kopf 43.200 € (Bundesdurchschnitt: 48.900 €). Erwerbslosenquote Berlin 2024: 8,8% (Bundesdurchschnitt: 5,7%). Quelle: Amt für Statistik Berlin-Brandenburg 2024.",
+      programm: [
+        { partei: "CDU Berlin", pos: "ja", text: "Aktive Wirtschaftsförderung und Ansiedlung von Unternehmen als Kernziel. Berlin als europäische Tech-Hauptstadt. Bürokratieabbau bei Genehmigungen. (Wahlprogramm 2026)" },
+        { partei: "FDP Berlin", pos: "ja", text: "Maximale Wirtschaftsoffenheit, Steuererleichterungen für Unternehmen, Abbau von Regulierung. (Wahlprogramm 2026)" },
+        { partei: "Grüne Berlin", pos: "nein", text: "Wachstum ja, aber nur wenn soziale und ökologische Standards eingehalten werden. Keine Ansiedlung auf Kosten bestehender Gewerbemieter und Wohnbevölkerung. (Wahlprogramm 2026)" },
+      ],
+      studie: {
+        uneinheitlich: true,
+        text: "Gentrification-Forschung: Wirtschaftswachstum in Innenstädten korreliert mit Verdrängung einkommensschwacher Haushalte (Effekt nachgewiesen, Ausmaß stark kontextabhängig). DIW 2023: Pro-Kopf-BIP-Lücke Berlins strukturell — Ansiedlungspolitik allein nicht ausreichend ohne Infrastrukturinvestitionen. IHK Berlin: Jeder ansässige Tech-Arbeitsplatz schafft im Durchschnitt 1,8 weitere Stellen in Dienstleistungen.",
+        quelle: "IHK Berlin Wirtschaftsbericht 2024 · DIW Berlin Strukturanalyse 2023 · Gentrification Barometer Berlin 2023"
+      }
+    }
+  }
+];
+
+const PARTEIEN = ["SPD", "CDU", "Grüne", "FDP", "Linke", "AfD"];
+
+// ─── STATE ────────────────────────────────────────────────────
+let state = {
+  index: 0,
+  antworten: [],  // { these, wahl, gewicht }
+  gewicht: 'wichtig',
+  wahl: null,
+  kontextOffen: false,
+};
+
+// ─── INIT ─────────────────────────────────────────────────────
+function startQuiz() {
+  state = { index: 0, antworten: [], gewicht: 'wichtig', wahl: null, kontextOffen: false };
+  zeigeFrage();
+  showScreen('quiz');
+}
+
+function zeigeFrage() {
+  const t = THESEN[state.index];
+  document.getElementById('quiz-counter').textContent = `These ${state.index+1} von ${THESEN.length}`;
+  document.getElementById('quiz-thema').textContent = t.thema;
+  document.getElementById('these-number').textContent = `These 0${state.index+1}`;
+  document.getElementById('these-text').textContent = t.text;
+  updateProgress((state.index / THESEN.length) * 80);
+
+  // Reset UI
+  state.wahl = null;
+  state.gewicht = 'wichtig';
+  state.kontextOffen = false;
+  ['btn-ja','btn-neutral','btn-nein'].forEach(id => {
+    document.getElementById(id).className = 'choice-btn';
+  });
+  ['w-wichtig','w-sehr','w-egal'].forEach(id => {
+    document.getElementById(id).className = 'weight-btn';
+  });
+  document.getElementById('w-wichtig').classList.add('selected');
+  document.getElementById('btn-next').disabled = true;
+  document.getElementById('btn-next').textContent = state.index < THESEN.length-1 ? 'Weiter →' : 'Ergebnis anzeigen →';
+
+  // Kontext zurücksetzen
+  const panel = document.getElementById('kontext-panel');
+  panel.classList.remove('open');
+  const btn = document.getElementById('kontext-btn');
+  btn.classList.remove('open');
+  btn.textContent = '▸ Hintergrund zu dieser These anzeigen (Fakt · Programm · Studie)';
+
+  // Kontext befüllen
+  befuelleKontext(t);
+}
+
+function befuelleKontext(t) {
+  const k = t.kontext;
+  const panel = document.getElementById('kontext-panel');
+
+  const posText = (pos) => pos === 'ja' ? '✓ Dafür' : pos === 'nein' ? '✗ Dagegen' : '○ Neutral';
+
+  const parteienHtml = k.programm.map(p =>
+    `<div style="margin-bottom:10px">
+      <span class="partei">${p.partei}</span>
+      <span style="font-size:11px;color:${p.pos==='ja'?'#1a5c2a':p.pos==='nein'?'#c8372d':'#8b5e0a'};font-family:DM Mono,monospace;margin-left:6px">${posText(p.pos)}</span>
+      <div style="color:#2d2d4a;margin-top:3px">${p.text}</div>
+    </div>`
+  ).join('');
+
+  panel.innerHTML = `
+    <div class="kontext-block">
+      <div class="kontext-label fakt">📊 FAKT</div>
+      <div class="kontext-text">${k.fakt}</div>
+    </div>
+    <div class="kontext-block">
+      <div class="kontext-label prog">📋 PROGRAMM</div>
+      <div class="kontext-text">${parteienHtml}</div>
+      <div class="kontext-quelle">Quelle: Offizielle Wahlprogramme 2026 (Prototyp: vereinfacht/illustrativ)</div>
+    </div>
+    <div class="kontext-block">
+      <div class="kontext-label stud">🔬 STUDIE / FORSCHUNG</div>
+      ${k.studie.uneinheitlich ? '<div class="unsicherheit-badge">STUDIENLAGE UNEINHEITLICH</div>' : '<div class="unsicherheit-badge" style="background:#e8f5ec;color:#1a5c2a;border-color:#b8ddc0">WISSENSCHAFTLICHER KONSENS</div>'}
+      <div class="kontext-text">${k.studie.text}</div>
+      <div class="kontext-quelle">${k.studie.quelle}</div>
+    </div>
+  `;
+}
+
+function waehle(wahl) {
+  state.wahl = wahl;
+  ['ja','neutral','nein'].forEach(w => {
+    document.getElementById('btn-'+w).className = 'choice-btn' + (w===wahl ? ' selected-'+w : '');
+  });
+  document.getElementById('btn-next').disabled = false;
+}
+
+function gewicht(g) {
+  state.gewicht = g;
+  ['wichtig','sehr','egal'].forEach(w => {
+    document.getElementById('w-'+w).className = 'weight-btn' + (w===g ? ' selected' : '');
+  });
+}
+
+function toggleKontext() {
+  state.kontextOffen = !state.kontextOffen;
+  const panel = document.getElementById('kontext-panel');
+  const btn = document.getElementById('kontext-btn');
+  panel.classList.toggle('open', state.kontextOffen);
+  btn.classList.toggle('open', state.kontextOffen);
+  btn.textContent = state.kontextOffen
+    ? '▾ Hintergrund ausblenden'
+    : '▸ Hintergrund zu dieser These anzeigen (Fakt · Programm · Studie)';
+}
+
+function naechste() {
+  if (!state.wahl) return;
+  state.antworten.push({
+    these: THESEN[state.index],
+    wahl: state.wahl,
+    gewicht: state.gewicht,
+  });
+  state.index++;
+  if (state.index >= THESEN.length) {
+    zeigeErgebnis();
+  } else {
+    zeigeFrage();
+  }
+}
+
+// ─── ERGEBNIS ─────────────────────────────────────────────────
+function zeigeErgebnis() {
+  updateProgress(100);
+
+  // Punkte berechnen
+  const punkte = {};
+  PARTEIEN.forEach(p => punkte[p] = 0);
+
+  let maxPunkte = 0;
+  state.antworten.forEach(a => {
+    const faktor = a.gewicht === 'sehr' ? 2 : a.gewicht === 'egal' ? 0 : 1;
+    maxPunkte += faktor * 2;
+    PARTEIEN.forEach(p => {
+      const pp = a.these.parteien[p] || 0;
+      const nutzer = a.wahl === 'ja' ? 1 : a.wahl === 'nein' ? -1 : 0;
+      if (pp === nutzer && pp !== 0) {
+        punkte[p] += faktor * 2;
+      } else if (Math.abs(pp - nutzer) === 1) {
+        punkte[p] += faktor;
+      }
+    });
+  });
+
+  // In Prozent
+  const results = PARTEIEN.map(p => ({
+    name: p,
+    pct: maxPunkte > 0 ? Math.round((punkte[p] / maxPunkte) * 100) : 0
+  })).sort((a,b) => b.pct - a.pct);
+
+  // Ergebnisliste
+  const liste = document.getElementById('ergebnis-liste');
+  liste.innerHTML = results.map((r,i) => `
+    <div class="partei-result ${i===0?'top':''}">
+      <div class="partei-name">${r.name}</div>
+      <div class="partei-bar-wrap">
+        <div class="partei-bar" style="width:${r.pct}%"></div>
+      </div>
+      <div class="partei-pct">${r.pct}%</div>
+    </div>
+  `).join('');
+
+  // Detailliste
+  const detail = document.getElementById('detail-liste');
+  detail.innerHTML = state.antworten.map(a => `
+    <div class="detail-item">
+      <div class="detail-these">${a.these.text}</div>
+      <span class="detail-antwort ${a.wahl}">${a.wahl==='ja'?'Dafür':a.wahl==='nein'?'Dagegen':'Neutral'}</span>
+    </div>
+  `).join('');
+
+  showScreen('ergebnis');
+}
+
+function neustart() {
+  showScreen('start');
+  updateProgress(0);
+}
+
+// ─── UTILS ────────────────────────────────────────────────────
+function showScreen(name) {
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.getElementById('screen-'+name).classList.add('active');
+  window.scrollTo(0,0);
+}
+
+function updateProgress(pct) {
+  document.getElementById('progress-bar').style.width = pct + '%';
+}
+</script>
+</body>
+</html>
