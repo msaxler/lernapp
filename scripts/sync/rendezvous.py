@@ -4,7 +4,22 @@ Startet mit: python rendezvous.py
 Port 8080 — liefert HTML, SQLite, WebRTC-Signaling und Duell-Lobby
 """
 import json, random, string, os, time, threading
+import urllib.request
 from http.server import HTTPServer, BaseHTTPRequestHandler
+
+# ── Bootstrap: geo.sqlite herunterladen falls nicht vorhanden ────────────────
+GEO_URL  = 'https://github.com/msaxler/lernapp/releases/download/v1.0-data/geo.sqlite'
+GEO_PATH = '/data/geo.sqlite'
+
+if not os.path.exists(GEO_PATH):
+    print('[Bootstrap] geo.sqlite nicht gefunden, lade herunter...')
+    os.makedirs('/data', exist_ok=True)
+    urllib.request.urlretrieve(GEO_URL, GEO_PATH)
+    print(f'[Bootstrap] Fertig ({os.path.getsize(GEO_PATH)//1024//1024} MB)')
+else:
+    print(f'[Bootstrap] geo.sqlite vorhanden ({os.path.getsize(GEO_PATH)//1024//1024} MB)')
+# ────────────────────────────────────────────────────────────────────────────
+
 from urllib.parse import urlparse
 from socketserver import ThreadingMixIn
 
