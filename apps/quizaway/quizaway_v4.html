@@ -5192,6 +5192,8 @@ function duelHandleMsg(msg) {
       break;
 
     case 'kat':
+      // Wart-Timer sofort stoppen — Kat ist angekommen
+      if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
       // Guest empfängt Kategorie — runde synchronisieren
       duel.runde = msg.runde || duel.runde;
       duel.aktuellerSeed = msg.seed;
@@ -5201,6 +5203,8 @@ function duelHandleMsg(msg) {
       break;
 
     case 'runde':
+      // Wart-Timer sofort stoppen — Gegner-Ergebnis ist angekommen
+      if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
       // Gegner-Ergebnis empfangen
       duel.oppRundeErgebnis = msg.ergebnis;
       duel.oppGesamt += msg.ergebnis.punkte;
@@ -5300,6 +5304,7 @@ async function p2pJoin() {
 // ─── Runde starten ───────────────────────────────────────────
 function duelStarteRunde(runde) {
   duel.runde = runde;
+  if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
   duel.meRundeErgebnis = null;
   duel.oppRundeErgebnis = null;
 
