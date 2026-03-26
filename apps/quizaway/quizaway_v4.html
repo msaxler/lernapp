@@ -3700,12 +3700,15 @@ function spielerNameAnzeigen() {
 }
 
 function spielerNameAendern() {
-  const neu = prompt('Dein Spielername:', SPIELER_NAME);
-  if (neu && neu.trim()) {
-    SPIELER_NAME = neu.trim().slice(0, 20);
-    try { sessionStorage.setItem('quizaway_spielername', SPIELER_NAME); } catch(e) {}
-    spielerNameAnzeigen();
-  }
+  const neu = prompt('Dein Spielername (max. 8 Zeichen):', SPIELER_NAME);
+  if (!neu || !neu.trim()) return;
+  const bereinigt = neu.trim()
+    .slice(0, 8)
+    .replace(/[^A-Za-z0-9äöüÄÖÜß\-\.]/g, '');
+  if (!bereinigt) return;
+  SPIELER_NAME = bereinigt;
+  try { sessionStorage.setItem('quizaway_spielername', SPIELER_NAME); } catch(e) {}
+  spielerNameAnzeigen();
 }
 
 function starteAutoWeiter(sekunden, callback, hinweisId, sekElId) {
