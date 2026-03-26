@@ -3472,7 +3472,8 @@ function katGewaehlt() {
   let pool = quellePool.filter(swFilter);
   // Fallback: wenn zu wenig Fragen für diese Schwierigkeit, eine Stufe lockern
   if (pool.length < 3) {
-    const swFallback = { 'L': ['L','M'], 'M': ['M','L','S'], 'S': ['S','M'] }[sw] || [sw,'M','L'];
+    // Fallback geht nach OBEN (mehr Städte): L→M→S, M→S, S bleibt S
+    const swFallback = { 'L': ['L','M','S'], 'M': ['M','S'], 'S': ['S'] }[sw] || ['S'];
     pool = quellePool.filter(f => f.kat === state.gewaehlteKat.id && swFallback.includes(f.sw));
   }
   if (pool.length < 3) {

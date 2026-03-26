@@ -289,12 +289,12 @@
     <div class="tip"><strong>Auto-Weiter:</strong> Ohne Auswahl startet das Spiel nach 28 Sekunden mit „Mittel".</div>
 
     <h3>Automatischer Fallback bei wenigen Fragen</h3>
-    <p>Im Live-Modus und auf der Virtuellen Route kann es vorkommen, dass für die gewählte Kategorie <em>und</em> den gewählten Schwierigkeitsgrad nicht genügend Fragen im Pool vorhanden sind. Das Spiel löst das automatisch:</p>
+    <p>Im Live-Modus und auf der Virtuellen Route kann es vorkommen, dass für die gewählte Kategorie <em>und</em> den gewählten Schwierigkeitsgrad nicht genügend Fragen im Pool vorhanden sind. Das Spiel löst das automatisch — der Fallback geht immer <em>nach oben</em> (härterer Grad), weil höhere Schwierigkeitsgrade mehr Städte umfassen:</p>
     <table>
-      <tr><th>Gewählt</th><th>Fallback-Reihenfolge</th></tr>
-      <tr><td>🔴 Schwer</td><td>Schwer → Mittel → Leicht</td></tr>
-      <tr><td>🟡 Mittel</td><td>Mittel → Leicht → Schwer</td></tr>
-      <tr><td>🟢 Leicht</td><td>Leicht → Mittel → Schwer</td></tr>
+      <tr><th>Gewählt</th><th>Fallback-Reihenfolge</th><th>Logik</th></tr>
+      <tr><td>🔴 Schwer</td><td>Schwer (kein Fallback)</td><td>Größter Pool — immer ausreichend</td></tr>
+      <tr><td>🟡 Mittel</td><td>Mittel → Schwer</td><td>Schwer hat mehr Städte als Mittel</td></tr>
+      <tr><td>🟢 Leicht</td><td>Leicht → Mittel → Schwer</td><td>Schrittweise erweitern bis genug da sind</td></tr>
     </table>
     <p>Du merkst davon in der Regel nichts — das Spiel füllt die 3 Fragen einfach auf. Nur wenn du eine sehr kleine Region mit wenigen Städten gewählt hast, können vereinzelt Städte außerhalb des Radius erscheinen.</p>
   </section>
@@ -380,11 +380,13 @@
 
     <h3>Wechselspiel im echten Duell</h3>
     <p>Auch im echten Duell gilt das Wechselprinzip: Host wählt Runde 1 und 3, Gast wählt Runde 2 und 4. Der jeweils wartende Spieler sieht einen Hinweis und die Kategoriewahl ist gesperrt. Nach 5 Sekunden geht es automatisch weiter.</p>
+    <p><strong>Runde 5 — Führender wählt:</strong> In der letzten Runde erhält der Spieler das Wahlrecht, der nach 4 Runden die höhere Punktzahl hat. Bei Punktgleichstand entscheidet die geringere Gesamtspielzeit. Sind auch Punkte und Zeit identisch, entscheidet ein deterministischer Zufallsmechanismus — das Ergebnis ist für beide Geräte gleich, also kein echter Zufall, sondern eine faire automatische Zuweisung.</p>
 
     <h3>GPS-Duell <span class="badge badge-new">NEU</span></h3>
-    <p>Wenn beide Spieler ihren GPS-Standort aktiviert haben, werden die Fragen automatisch auf Städte in der Nähe beider Standorte eingeschränkt. Wer gerade in Neuwied ist, bekommt Fragen über die Neuwied-Region — der Gegner in Frankfurt bekommt Frankfurt-Fragen, und ihr teilt alle Fragen die für beide relevant sind.</p>
+    <p>Wenn beide Spieler ihren GPS-Standort aktiviert haben, werden die Fragen automatisch auf Städte in der Nähe <em>beider</em> Standorte eingeschränkt. Die App kombiniert beide Regionen zu einem gemeinsamen Fragenpool — so spielen beide mit Fragen die für ihre jeweilige Umgebung relevant sind.</p>
+    <p><strong>Beispiel:</strong> Du bist in Neuwied, dein Gegner in Frankfurt — ihr bekommt beide Fragen über Städte aus dem Neuwied-Raum <em>und</em> dem Frankfurt-Raum.</p>
     <p>GPS aktivieren: Im Warteraum auf <strong>📍 GPS aktivieren</strong> tippen und den Standort-Dialog des Browsers bestätigen.</p>
-    <div class="note"><strong>Hinweis:</strong> GPS funktioniert nur über HTTPS oder auf localhost. Im lokalen WLAN über eine IP-Adresse (z.&nbsp;B. 192.168.x.x) wird GPS vom Browser blockiert.</div>
+    <div class="note"><strong>Hinweis:</strong> GPS funktioniert nur über HTTPS oder auf localhost. Im lokalen WLAN über eine IP-Adresse (z.&nbsp;B. 192.168.x.x) wird GPS vom Browser blockiert. Hat nur einer der beiden Spieler GPS aktiviert, wird dessen Standort für den gesamten Fragenpool genutzt.</div>
   </section>
 
   <!-- 9. Live-Modus -->
