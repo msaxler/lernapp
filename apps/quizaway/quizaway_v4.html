@@ -2940,14 +2940,30 @@ async function warteraumEntscheideP2P(id, spieler) {
 
     if (res.status === 409) {
       warteraum._entscheide = false;
-      // Gegner nicht verfügbar — kurz neu pollen ob wir selbst herausgefordert wurden
+      // Gegner nicht verfügbar — prüfen ob wir selbst herausgefordert wurden (mit Wartezeit für angebots_id)
       if (warteraum.meineId) {
         try {
           const sr = await rendezvousFetch('/warteraum/status/' + warteraum.meineId);
           const sd = await sr.json();
-          if (sd.herausforderung && sd.herausforderung.angebots_id) {
-            warteraumHerausforderungAnnehmen(sd.herausforderung);
-            return;
+          if (sd.herausforderung) {
+            let hf = sd.herausforderung;
+            // Auf angebots_id warten falls HOST noch nicht fertig (Render-Latenz)
+            if (!hf.angebots_id) {
+              for (let i = 0; i < 12; i++) {
+                await new Promise(r => setTimeout(r, 800));
+                if (!warteraum.meineId) break;
+                try {
+                  const r2 = await rendezvousFetch('/warteraum/status/' + warteraum.meineId);
+                  const d2 = await r2.json();
+                  if (d2.herausforderung?.angebots_id) { hf = d2.herausforderung; break; }
+                } catch(e) { /* ignorieren */ }
+              }
+            }
+            if (hf.angebots_id) {
+              if (warteraum.pollingTimer) { clearInterval(warteraum.pollingTimer); warteraum.pollingTimer = null; }
+              warteraumHerausforderungAnnehmen(hf);
+              return;
+            }
           }
         } catch(e) { /* ignorieren */ }
       }
