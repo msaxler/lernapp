@@ -1856,8 +1856,20 @@
         <div class="gegner-liga-badge" style="font-size:12px;color:var(--muted);">bald</div>
       </div>
 
-      <!-- GPS-Duell Badge -->
-      <div id="wr-gps-badge" style="font-size:12px;color:var(--muted);text-align:center;padding:6px 0 2px;opacity:0.8;">📍 GPS wird geprüft…</div>
+      <!-- GPS-Duell Button -->
+      <div style="margin:4px 0 2px;">
+        <button id="wr-gps-btn" onclick="gpsStart()"
+          style="width:100%;background:rgba(139,92,246,.12);border:1px solid rgba(139,92,246,.3);
+                 border-radius:10px;padding:10px 14px;cursor:pointer;text-align:left;display:flex;
+                 align-items:center;gap:10px;color:inherit;">
+          <span style="font-size:18px;">📍</span>
+          <div style="flex:1;">
+            <div style="font-size:13px;font-weight:600;" id="wr-gps-title">Standort für Orts-Fragen aktivieren</div>
+            <div style="font-size:11px;color:var(--muted);" id="wr-gps-sub">Fragen aus deiner & der Region deines Gegners</div>
+          </div>
+          <span id="wr-gps-arrow" style="font-size:16px;color:var(--muted);">›</span>
+        </button>
+      </div>
 
       <!-- Echte Spieler -->
       <div style="font-size:11px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:1px;margin-top:4px;">
@@ -2704,7 +2716,6 @@ let _pendingModus = 'sofa';
 
 function zeigeWarteraum() {
   showScreen('screen-warteraum');
-  gpsStart();           // GPS-Duell: Standort vorab erfassen (AP15)
   warteraumInit();
 }
 
@@ -4876,36 +4887,44 @@ async function rendezvousFetch(path, opts) {
 let gpsState = { lat: null, lon: null, ok: false, watching: false };
 
 function gpsStart() {
-  if (gpsState.watching || !navigator.geolocation) {
-    if (!navigator.geolocation) gpsUpdateBadge('⚠️ Kein GPS verfügbar');
+  if (gpsState.watching) return;
+  if (!navigator.geolocation) {
+    gpsSetBtn('⚠️ GPS nicht verfügbar', 'Dieser Browser unterstützt kein GPS', '#ef4444', false);
     return;
   }
   gpsState.watching = true;
+  // Button: Ladezustand
+  gpsSetBtn('📍 Standort wird ermittelt…', 'Bitte Browser-Dialog bestätigen', 'var(--muted)', false);
+
   navigator.geolocation.getCurrentPosition(
     pos => {
       gpsState.lat = pos.coords.latitude;
       gpsState.lon = pos.coords.longitude;
       gpsState.ok  = true;
-      // Nächste Stadt bestimmen
       const naechste = ROUTE_STAEDTE
         .map(s => ({ s, d: routeHav(gpsState.lat, gpsState.lon, s.lat, s.lon) }))
         .sort((a, b) => a.d - b.d)[0];
-      const label = naechste ? ` · nächste: ${naechste.s.name}` : '';
-      gpsUpdateBadge(`📍 GPS aktiv${label}`, '#10b981');
+      const stadtLabel = naechste ? `Erkannt: ${naechste.s.name}` : 'Standort aktiv';
+      gpsSetBtn('📍 Orts-Fragen aktiv', stadtLabel, '#10b981', false);
     },
     () => {
       gpsState.ok = false;
-      gpsUpdateBadge('📍 GPS nicht verfügbar — kein Orts-Bonus', 'var(--muted)');
+      gpsState.watching = false;  // erneuter Versuch erlaubt
+      gpsSetBtn('📍 Standort nicht freigegeben', 'Tippen zum erneuten Versuch', '#f59e0b', true);
     },
-    { enableHighAccuracy: false, timeout: 8000, maximumAge: 60000 }
+    { enableHighAccuracy: false, timeout: 10000, maximumAge: 60000 }
   );
 }
 
-function gpsUpdateBadge(text, color) {
-  const el = document.getElementById('wr-gps-badge');
-  if (!el) return;
-  if (text  !== undefined) el.textContent = text;
-  if (color !== undefined) el.style.color = color;
+function gpsSetBtn(title, sub, color, enabled) {
+  const t = document.getElementById('wr-gps-title');
+  const s = document.getElementById('wr-gps-sub');
+  const a = document.getElementById('wr-gps-arrow');
+  const b = document.getElementById('wr-gps-btn');
+  if (t) { t.textContent = title; t.style.color = color; }
+  if (s) s.textContent = sub;
+  if (a) a.style.display = enabled ? 'block' : 'none';
+  if (b) b.style.cursor = enabled ? 'pointer' : 'default';
 }
 
 let duel = {
