@@ -3843,6 +3843,13 @@ function zeigeSpielende() {
     document.getElementById('ende-richtig').textContent = state.richtig;
     document.getElementById('ende-falsch').textContent = state.falsch;
     document.getElementById('ende-kategorien').textContent = state.gespielteKategorien.size;
+    // Live-Modus: "Nochmal spielen" kehrt zur Karte zurück
+    const nochmalBtn = document.querySelector('#screen-ende .btn-primary');
+    if (state.modus === 'live') {
+      nochmalBtn.onclick = () => { resetSpiel(); showScreen('screen-livemodus'); };
+    } else {
+      nochmalBtn.onclick = () => zeigeSchwierigkeit('sofa');
+    }
     showScreen('screen-ende');
   }
 }
@@ -5889,10 +5896,11 @@ function liveStartQuiz(stadtName, stadtLat, stadtLon) {
   pool = [...pool].sort(() => Math.random() - 0.5).slice(0, 3);
   // Solo-Modus ab Runde 5 → nach 3 Fragen direkt Spielende
   resetSpiel();
-  state.modus             = 'solo';
+  state.modus             = 'live';
   state.runde             = 5;
   state.schwierigkeit     = 'M';
   state.gewaehlteKat      = { id: 'live', emoji: '📍', name: stadtName, beispiel: '' };
+  state.gespielteKategorien.add('live');
   state.aktuelleKatFragen = pool;
   state.frageInRunde      = 0;
   state.rundeRichtig      = 0;
