@@ -1856,6 +1856,9 @@
         <div class="gegner-liga-badge" style="font-size:12px;color:var(--muted);">bald</div>
       </div>
 
+      <!-- GPS-Duell Badge -->
+      <div id="wr-gps-badge" style="font-size:12px;color:var(--muted);text-align:center;padding:6px 0 2px;opacity:0.8;">📍 GPS wird geprüft…</div>
+
       <!-- Echte Spieler -->
       <div style="font-size:11px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:1px;margin-top:4px;">
         Online-Spieler <span id="wr-spieler-count" style="font-weight:400;text-transform:none;letter-spacing:0;">(suche…)</span>
@@ -2701,6 +2704,7 @@ let _pendingModus = 'sofa';
 
 function zeigeWarteraum() {
   showScreen('screen-warteraum');
+  gpsStart();           // GPS-Duell: Standort vorab erfassen (AP15)
   warteraumInit();
 }
 
@@ -3905,6 +3909,7 @@ function resetSpiel() {
   duel.meRundeErgebnis  = null;
   duel.oppRundeErgebnis = null;
   duel.missedPings  = 0;
+  duel.gegnerGps    = null;  // GPS-Duell zurücksetzen (AP15)
 
   // Lobby-State
   if (lobbyState.pollingTimer) { clearInterval(lobbyState.pollingTimer); lobbyState.pollingTimer = null; }
@@ -4864,6 +4869,45 @@ async function rendezvousFetch(path, opts) {
 }
 
 // ─── Duel-State (vollständig neu, getrennt von duellState) ───
+// ══════════════════════════════════════════════════════════════════════════
+// GPS-DUELL — Standort erfassen und in hello-Nachricht einfügen (AP15)
+// ══════════════════════════════════════════════════════════════════════════
+
+let gpsState = { lat: null, lon: null, ok: false, watching: false };
+
+function gpsStart() {
+  if (gpsState.watching || !navigator.geolocation) {
+    if (!navigator.geolocation) gpsUpdateBadge('⚠️ Kein GPS verfügbar');
+    return;
+  }
+  gpsState.watching = true;
+  navigator.geolocation.getCurrentPosition(
+    pos => {
+      gpsState.lat = pos.coords.latitude;
+      gpsState.lon = pos.coords.longitude;
+      gpsState.ok  = true;
+      // Nächste Stadt bestimmen
+      const naechste = ROUTE_STAEDTE
+        .map(s => ({ s, d: routeHav(gpsState.lat, gpsState.lon, s.lat, s.lon) }))
+        .sort((a, b) => a.d - b.d)[0];
+      const label = naechste ? ` · nächste: ${naechste.s.name}` : '';
+      gpsUpdateBadge(`📍 GPS aktiv${label}`, '#10b981');
+    },
+    () => {
+      gpsState.ok = false;
+      gpsUpdateBadge('📍 GPS nicht verfügbar — kein Orts-Bonus', 'var(--muted)');
+    },
+    { enableHighAccuracy: false, timeout: 8000, maximumAge: 60000 }
+  );
+}
+
+function gpsUpdateBadge(text, color) {
+  const el = document.getElementById('wr-gps-badge');
+  if (!el) return;
+  if (text  !== undefined) el.textContent = text;
+  if (color !== undefined) el.style.color = color;
+}
+
 let duel = {
   // Verbindung
   pc: null, dc: null,
@@ -4871,6 +4915,7 @@ let duel = {
   rolle: null,           // 'host' | 'guest'
   verbunden: false,
   gegnerName: 'Gegner',
+  gegnerGps: null,       // { lat, lon, ok } — vom Gegner per hello-Msg
 
   // Spielzustand
   runde: 0,              // 1-5
@@ -4967,8 +5012,9 @@ function duelSetupDC(dc) {
     clearInterval(lobbyState.pollingTimer);
     lobbyState.meineAngebotsId = null;
 
-    // hello senden
-    duelMsgSend({ type: 'hello', name: SPIELER_NAME });
+    // hello senden (inkl. GPS für GPS-Duell, AP15)
+    duelMsgSend({ type: 'hello', name: SPIELER_NAME,
+      gpsLat: gpsState.lat, gpsLon: gpsState.lon, gpsOk: gpsState.ok });
 
     // Ping starten
     duel.pingTimer = setInterval(() => {
@@ -5014,7 +5060,17 @@ function duelHandleMsg(msg) {
   switch(msg.type) {
     case 'hello':
       duel.gegnerName = msg.name;
-      duelLog('Gegner: ' + msg.name);
+      // GPS-Duell (AP15): Gegner-Standort speichern
+      duel.gegnerGps = { lat: msg.gpsLat, lon: msg.gpsLon, ok: !!msg.gpsOk };
+      if (duel.gegnerGps.ok) {
+        const naechste = ROUTE_STAEDTE
+          .map(s => ({ s, d: routeHav(duel.gegnerGps.lat, duel.gegnerGps.lon, s.lat, s.lon) }))
+          .sort((a, b) => a.d - b.d)[0];
+        const region = naechste ? naechste.s.name : '?';
+        duelLog(`Gegner: ${msg.name} 📍 ${region}-Region`);
+      } else {
+        duelLog('Gegner: ' + msg.name);
+      }
       // Gegner-Name in UI und duellState aktualisieren
       duellState.gegner = { name: msg.name, liga: {symbol:'⚔️', name:'P2P'}, avatar: '🧑' };
       ['dsb-opp-name','duell-opp-name-result','duell-opp-name-hero'].forEach(id => {
@@ -5284,7 +5340,24 @@ function duelStarteFragenMitKat(katId, seed) {
   state.runde = duel.runde;
 
   // Deterministischer Pool: erst nach ID sortieren, dann Seed-PRNG
-  const pool = FRAGEN.filter(f => f.kat === katId).sort((a,b) => a.id < b.id ? -1 : 1);
+  let pool = FRAGEN.filter(f => f.kat === katId).sort((a,b) => a.id < b.id ? -1 : 1);
+
+  // GPS-Duell (AP15): Fragen auf Gegner-Region filtern
+  if (duel.gegnerGps && duel.gegnerGps.ok) {
+    const GPS_RADIUS_KM = 150;
+    const nahe = ROUTE_STAEDTE
+      .map(s => ({ s, d: routeHav(duel.gegnerGps.lat, duel.gegnerGps.lon, s.lat, s.lon) }))
+      .filter(x => x.d <= GPS_RADIUS_KM)
+      .sort((a, b) => a.d - b.d);
+    if (nahe.length > 0) {
+      const namenSet = new Set(nahe.map(x => x.s.name));
+      const regionPool = pool.filter(f => f.stadt && namenSet.has(f.stadt));
+      if (regionPool.length >= 3) {
+        pool = regionPool;
+        duelLog(`📍 Orts-Fragen: ${nahe[0].s.name}-Region (${nahe.length} Städte)`);
+      }
+    }
+  }
   function seededRandom(s) {
     let t = s + 0x6D2B79F5;
     t = Math.imul(t ^ t >>> 15, t | 1);
