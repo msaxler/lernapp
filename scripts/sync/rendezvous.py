@@ -237,6 +237,8 @@ class Handler(BaseHTTPRequestHandler):
                 'herausforderung': eintrag.get('herausforderung')
             }); return
 
+    do_HEAD = do_GET  # UptimeRobot sendet HEAD-Requests
+
     def do_POST(self):
         p = urlparse(self.path).path
         length = int(self.headers.get('Content-Length', 0))
