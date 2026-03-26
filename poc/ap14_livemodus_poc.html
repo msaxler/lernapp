@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AP14 · Live-Modus POC · GPS + SQLite-Radius</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: Arial, sans-serif; background: #0e0f11; color: #e0e0e0; height: 100dvh; display: flex; flex-direction: column; }
+
+  /* Header */
+  #header {
+    background: #1a1b1e;
+    border-bottom: 2px solid #8b5cf6;
+    padding: 10px 16px;
+    display: flex; align-items: center; gap: 12px;
+    flex-shrink: 0;
+  }
+  #header h1 { font-size: 1rem; color: #fff; }
+  #header span { font-size: 0.75rem; color: #888; }
+  #status-dot { width: 10px; height: 10px; border-radius: 50%; background: #555; flex-shrink: 0; }
+  #status-dot.active { background: #22c55e; box-shadow: 0 0 6px #22c55e; }
+  #status-dot.error  { background: #ef4444; }
+
+  /* Layout */
+  #main { display: flex; flex: 1; overflow: hidden; }
+  #map  { flex: 1; z-index: 1; }
+
+  /* Sidebar */
+  #sidebar {
+    width: 300px; background: #1a1b1e; border-left: 1px solid #2a2b2e;
+    display: flex; flex-direction: column; overflow: hidden; flex-shrink: 0;
+  }
+  #sidebar-header {
+    padding: 12px 16px; border-bottom: 1px solid #2a2b2e;
+    font-size: 0.8rem; color: #8b5cf6; font-weight: bold; letter-spacing: 0.05em;
+  }
+  #info-box {
+    padding: 12px 16px; border-bottom: 1px solid #2a2b2e;
+    font-size: 0.78rem; line-height: 1.7; color: #aaa;
+  }
+  #info-box .val { color: #fff; font-weight: bold; }
+  #cities-list { flex: 1; overflow-y: auto; padding: 8px 0; }
+  .city-item {
+    padding: 8px 16px; border-bottom: 1px solid #22232a;
+    cursor: pointer; transition: background 0.15s;
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  .city-item:hover { background: #22232a; }
+  .city-name { font-size: 0.85rem; color: #e0e0e0; }
+  .city-dist { font-size: 0.75rem; color: #8b5cf6; font-weight: bold; }
+  .city-info { font-size: 0.72rem; color: #666; }
+
+  /* Buttons */
+  #btn-gps {
+    margin: 12px 16px; padding: 10px; background: #8b5cf6;
+    border: none; border-radius: 6px; color: #fff; font-size: 0.85rem;
+    cursor: pointer; font-weight: bold; transition: background 0.2s;
+  }
+  #btn-gps:hover { background: #7c3aed; }
+  #btn-gps:disabled { background: #444; color: #888; cursor: default; }
+
+  /* Radius slider */
+  #radius-wrap { padding: 0 16px 12px; border-bottom: 1px solid #2a2b2e; }
+  #radius-wrap label { font-size: 0.75rem; color: #888; display: block; margin-bottom: 4px; }
+  #radius-wrap input { width: 100%; accent-color: #8b5cf6; }
+  #radius-val { font-size: 0.8rem; color: #8b5cf6; font-weight: bold; }
+
+  /* Status message */
+  #msg { padding: 10px 16px; font-size: 0.78rem; color: #666; font-style: italic; border-bottom: 1px solid #2a2b2e; min-height: 38px; }
+
+  /* Mobile */
+  @media (max-width: 600px) {
+    #main { flex-direction: column; }
+    #sidebar { width: 100%; height: 45vh; border-left: none; border-top: 1px solid #2a2b2e; }
+    #map { flex: 1; min-height: 55vw; }
+  }
+</style>
+</head>
+<body>
+
+<div id="header">
+  <div id="status-dot"></div>
+  <h1>AP14 · Live-Modus POC</h1>
+  <span>GPS + SQLite-Radius · Phase 1</span>
+</div>
+
+<div id="main">
+  <div id="map"></div>
+
+  <div id="sidebar">
+    <div id="sidebar-header">🗺 LIVE-MODUS · UMGEBUNG</div>
+    <div id="msg">GPS noch nicht aktiv.</div>
+
+    <button id="btn-gps" onclick="startGPS()">📍 GPS aktivieren</button>
+
+    <div id="radius-wrap">
+      <label>Radius: <span id="radius-val">20 km</span></label>
+      <input type="range" id="radius-slider" min="5" max="50" step="5" value="20" oninput="onRadiusChange(this.value)">
+    </div>
+
+    <div id="info-box">
+      <div>Position: <span class="val" id="pos-val">—</span></div>
+      <div>Genauigkeit: <span class="val" id="acc-val">—</span></div>
+      <div>Staedte im Radius: <span class="val" id="count-val">—</span></div>
+    </div>
+
+    <div id="sidebar-header" style="border-top:1px solid #2a2b2e">📋 NÄCHSTE STÄDTE</div>
+    <div id="cities-list"><div style="padding:16px;color:#555;font-size:0.8rem">Noch keine Daten.</div></div>
+  </div>
+</div>
+
+<script>
+// ── Karte initialisieren ─────────────────────────────────────────────────
+const map = L.map('map', { zoomControl: true }).setView([50.35, 7.20], 9);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '© <a href="https://openstreetmap.org">OpenStreetMap</a>',
+  maxZoom: 18
+}).addTo(map);
+
+// ── Zustand ──────────────────────────────────────────────────────────────
+let gpsMarker   = null;
+let radiusCircle = null;
+let cityMarkers = [];
+let watchId     = null;
+let radiusKm    = 20;
+let currentPos  = null;
+
+// ── Demo-Städte (Stellvertreter für SQLite-Datenbank) ────────────────────
+// In Phase 1 kommt dieser Pool aus geo.sqlite (bereits vorhanden in QuizAway)
+// Format: { name, lat, lon, bev, bl }
+const DEMO_CITIES = [
+  { name: 'Koblenz',       lat: 50.3569, lon: 7.5890,  bev: 114000, bl: 'Rheinland-Pfalz' },
+  { name: 'Mayen',         lat: 50.3275, lon: 7.2206,  bev: 19000,  bl: 'Rheinland-Pfalz' },
+  { name: 'Andernach',     lat: 50.4420, lon: 7.4020,  bev: 29000,  bl: 'Rheinland-Pfalz' },
+  { name: 'Lahnstein',     lat: 50.3028, lon: 7.6059,  bev: 18000,  bl: 'Rheinland-Pfalz' },
+  { name: 'Neuwied',       lat: 50.4289, lon: 7.4617,  bev: 65000,  bl: 'Rheinland-Pfalz' },
+  { name: 'Bad Ems',       lat: 50.3333, lon: 7.7167,  bev: 9000,   bl: 'Rheinland-Pfalz' },
+  { name: 'Adenau',        lat: 50.3836, lon: 6.9381,  bev: 2800,   bl: 'Rheinland-Pfalz' },
+  { name: 'Cochem',        lat: 50.1447, lon: 7.1669,  bev: 5000,   bl: 'Rheinland-Pfalz' },
+  { name: 'Boppard',       lat: 50.2306, lon: 7.5897,  bev: 15000,  bl: 'Rheinland-Pfalz' },
+  { name: 'Bad Neuenahr',  lat: 50.5472, lon: 7.1197,  bev: 27000,  bl: 'Rheinland-Pfalz' },
+  { name: 'Altenkirchen',  lat: 50.6839, lon: 7.6475,  bev: 6700,   bl: 'Rheinland-Pfalz' },
+  { name: 'Montabaur',     lat: 50.4358, lon: 7.8261,  bev: 13000,  bl: 'Rheinland-Pfalz' },
+  { name: 'Limburg',       lat: 50.3831, lon: 8.0503,  bev: 36000,  bl: 'Hessen'          },
+  { name: 'Wiesbaden',     lat: 50.0782, lon: 8.2398,  bev: 280000, bl: 'Hessen'          },
+  { name: 'Mainz',         lat: 49.9929, lon: 8.2473,  bev: 218000, bl: 'Rheinland-Pfalz' },
+  { name: 'Bad Kreuznach', lat: 49.8461, lon: 7.8608,  bev: 52000,  bl: 'Rheinland-Pfalz' },
+  { name: 'Idar-Oberstein',lat: 49.7136, lon: 7.3272,  bev: 28000,  bl: 'Rheinland-Pfalz' },
+  { name: 'Trier',         lat: 49.7596, lon: 6.6439,  bev: 111000, bl: 'Rheinland-Pfalz' },
+  { name: 'Saarbruecken',  lat: 49.2354, lon: 6.9967,  bev: 180000, bl: 'Saarland'        },
+  { name: 'Kaiserslautern',lat: 49.4401, lon: 7.7491,  bev: 100000, bl: 'Rheinland-Pfalz' },
+  { name: 'Bonn',          lat: 50.7357, lon: 7.1007,  bev: 330000, bl: 'NRW'             },
+  { name: 'Köln',          lat: 50.9333, lon: 6.9500,  bev: 1080000,bl: 'NRW'             },
+  { name: 'Aachen',        lat: 50.7761, lon: 6.0838,  bev: 246000, bl: 'NRW'             },
+  { name: 'Worms',         lat: 49.6317, lon: 8.3650,  bev: 82000,  bl: 'Rheinland-Pfalz' },
+  { name: 'Ludwigshafen',  lat: 49.4772, lon: 8.4350,  bev: 172000, bl: 'Rheinland-Pfalz' },
+];
+
+// ── Haversine-Distanz (km) ───────────────────────────────────────────────
+function haversine(lat1, lon1, lat2, lon2) {
+  const R = 6371;
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLon = (lon2 - lon1) * Math.PI / 180;
+  const a = Math.sin(dLat/2)**2 +
+            Math.cos(lat1 * Math.PI/180) * Math.cos(lat2 * Math.PI/180) * Math.sin(dLon/2)**2;
+  return R * 2 * Math.asin(Math.sqrt(a));
+}
+
+// ── GPS aktivieren ───────────────────────────────────────────────────────
+function startGPS() {
+  const btn = document.getElementById('btn-gps');
+  if (!navigator.geolocation) {
+    setMsg('⚠️ GPS nicht verfügbar in diesem Browser.');
+    return;
+  }
+  btn.disabled = true;
+  btn.textContent = '⏳ Warte auf GPS…';
+  setMsg('GPS wird angefordert…');
+  document.getElementById('status-dot').className = '';
+
+  if (watchId !== null) navigator.geolocation.clearWatch(watchId);
+
+  watchId = navigator.geolocation.watchPosition(
+    onGPS,
+    onGPSError,
+    { enableHighAccuracy: true, maximumAge: 5000, timeout: 15000 }
+  );
+}
+
+function onGPS(pos) {
+  const { latitude: lat, longitude: lon, accuracy } = pos.coords;
+  currentPos = { lat, lon };
+
+  document.getElementById('status-dot').className = 'active';
+  document.getElementById('btn-gps').textContent  = '🔄 GPS aktiv';
+  document.getElementById('btn-gps').disabled     = false;
+  document.getElementById('pos-val').textContent  = `${lat.toFixed(5)}, ${lon.toFixed(5)}`;
+  document.getElementById('acc-val').textContent  = `±${Math.round(accuracy)} m`;
+
+  updateMap(lat, lon, accuracy);
+  updateCities(lat, lon);
+}
+
+function onGPSError(err) {
+  document.getElementById('status-dot').className = 'error';
+  document.getElementById('btn-gps').disabled     = false;
+  document.getElementById('btn-gps').textContent  = '📍 GPS erneut versuchen';
+
+  const msgs = {
+    1: '🔒 GPS-Zugriff verweigert — bitte in Browser-Einstellungen erlauben.',
+    2: '📡 GPS-Position nicht ermittelbar.',
+    3: '⏱ GPS-Timeout — erneut versuchen.',
+  };
+  setMsg(msgs[err.code] || '❌ GPS-Fehler.');
+
+  // Fallback: Demo mit Koblenz-Koordinate
+  setMsg('⚠️ GPS nicht verfügbar — Demo-Modus: Koblenz als Startpunkt.');
+  useDemoPosition();
+}
+
+function useDemoPosition() {
+  currentPos = { lat: 50.3569, lon: 7.5890 };
+  document.getElementById('pos-val').textContent = '50.35690, 7.58900 (Demo)';
+  document.getElementById('acc-val').textContent = 'Demo-Modus';
+  document.getElementById('status-dot').className = '';
+  document.getElementById('btn-gps').disabled = false;
+  document.getElementById('btn-gps').textContent = '📍 GPS aktivieren';
+  updateMap(currentPos.lat, currentPos.lon, null);
+  updateCities(currentPos.lat, currentPos.lon);
+}
+
+// ── Karte aktualisieren ──────────────────────────────────────────────────
+function updateMap(lat, lon, accuracy) {
+  // GPS-Marker
+  if (gpsMarker) { gpsMarker.remove(); }
+  const icon = L.divIcon({
+    className: '',
+    html: `<div style="width:16px;height:16px;border-radius:50%;background:#8b5cf6;border:3px solid #fff;box-shadow:0 0 8px #8b5cf6aa;"></div>`,
+    iconAnchor: [8, 8]
+  });
+  gpsMarker = L.marker([lat, lon], { icon })
+    .addTo(map)
+    .bindPopup(`<b>Dein Standort</b><br>${lat.toFixed(5)}, ${lon.toFixed(5)}${accuracy ? '<br>±' + Math.round(accuracy) + ' m' : ''}`);
+
+  // Radius-Kreis
+  if (radiusCircle) { radiusCircle.remove(); }
+  radiusCircle = L.circle([lat, lon], {
+    radius: radiusKm * 1000,
+    color: '#8b5cf6', weight: 2, opacity: 0.7,
+    fillColor: '#8b5cf6', fillOpacity: 0.06
+  }).addTo(map);
+
+  map.setView([lat, lon], Math.max(map.getZoom(), 10));
+}
+
+// ── Städte im Radius filtern & anzeigen ──────────────────────────────────
+function updateCities(lat, lon) {
+  // City-Marker entfernen
+  cityMarkers.forEach(m => m.remove());
+  cityMarkers = [];
+
+  // Radius-Filter (Haversine) — dies ist der SQLite-Kern von Phase 1
+  const nearby = DEMO_CITIES
+    .map(c => ({ ...c, dist: haversine(lat, lon, c.lat, c.lon) }))
+    .filter(c => c.dist <= radiusKm)
+    .sort((a, b) => a.dist - b.dist);
+
+  document.getElementById('count-val').textContent = nearby.length;
+  setMsg(nearby.length > 0
+    ? `${nearby.length} Städte im ${radiusKm}-km-Radius gefunden.`
+    : `Keine Städte im ${radiusKm}-km-Radius.`);
+
+  // Sidebar befüllen
+  const list = document.getElementById('cities-list');
+  if (nearby.length === 0) {
+    list.innerHTML = `<div style="padding:16px;color:#555;font-size:0.8rem">Keine Städte im Radius.</div>`;
+    return;
+  }
+  list.innerHTML = nearby.map((c, i) => `
+    <div class="city-item" onclick="focusCity(${c.lat},${c.lon},'${c.name}')">
+      <div>
+        <div class="city-name">${i === 0 ? '🏆 ' : ''}${c.name}</div>
+        <div class="city-info">${c.bl} · ${c.bev.toLocaleString('de')} Einw.</div>
+      </div>
+      <div class="city-dist">${c.dist.toFixed(1)} km</div>
+    </div>`).join('');
+
+  // Stadtmarker auf Karte
+  nearby.forEach((c, i) => {
+    const size  = i === 0 ? 12 : 8;
+    const color = i === 0 ? '#f59e0b' : '#64748b';
+    const icon  = L.divIcon({
+      className: '',
+      html: `<div style="width:${size}px;height:${size}px;border-radius:50%;background:${color};border:2px solid #fff;opacity:0.9;"></div>`,
+      iconAnchor: [size/2, size/2]
+    });
+    const m = L.marker([c.lat, c.lon], { icon })
+      .addTo(map)
+      .bindPopup(`<b>${c.name}</b><br>${c.bl}<br>${c.bev.toLocaleString('de')} Einwohner<br><b>${c.dist.toFixed(1)} km entfernt</b>`);
+    cityMarkers.push(m);
+  });
+
+  // Mögliche Quizfrage anzeigen
+  if (nearby.length > 0) {
+    const naechste = nearby[0];
+    gpsMarker && gpsMarker.bindPopup(
+      `<b>Dein Standort</b><br>Nächste Stadt: <b>${naechste.name}</b> (${naechste.dist.toFixed(1)} km)`
+    );
+  }
+}
+
+// ── Radius-Änderung ───────────────────────────────────────────────────────
+function onRadiusChange(val) {
+  radiusKm = parseInt(val);
+  document.getElementById('radius-val').textContent = radiusKm + ' km';
+  if (currentPos) {
+    if (radiusCircle) {
+      radiusCircle.setRadius(radiusKm * 1000);
+    }
+    updateCities(currentPos.lat, currentPos.lon);
+  }
+}
+
+function focusCity(lat, lon, name) {
+  map.setView([lat, lon], 13);
+  cityMarkers.forEach(m => {
+    if (m.getLatLng().lat.toFixed(4) === lat.toFixed(4)) {
+      m.openPopup();
+    }
+  });
+}
+
+function setMsg(txt) {
+  document.getElementById('msg').textContent = txt;
+}
+
+// ── Start: Demo laden ─────────────────────────────────────────────────────
+// Zeige Karte zentriert auf Koblenz/Eifel-Region als Default
+map.setView([50.35, 7.40], 9);
+setMsg('GPS aktivieren oder Demo-Modus nutzen (lädt Koblenz-Region).');
+document.getElementById('btn-gps').addEventListener('click', startGPS);
+
+// Auf kleinen Screens: Demo auto-laden
+if (window.innerWidth <= 600) {
+  setTimeout(useDemoPosition, 500);
+}
+</script>
+</body>
+</html>
