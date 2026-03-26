@@ -362,6 +362,10 @@ class Handler(BaseHTTPRequestHandler):
             meine_id  = body.get('meine_id')
             gegner_id = body.get('gegner_id')
             host_name = body.get('host_name', 'Spieler')
+            # Eigene ID muss bekannt sein — sonst kann kein Lobby-Angebot erstellt werden
+            if not meine_id:
+                print(f"  Reservieren: meine_id fehlt (None) — 409")
+                self.send_json(409, {'error': 'Eigene ID fehlt'}); return
             with warteraum_lock:
                 # Schritt 1: Wurde ich bereits herausgefordert (CLAIMED)?
                 if meine_id and meine_id in warteraum:

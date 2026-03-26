@@ -2950,6 +2950,8 @@ function warteraumWaehle(id, spieler) {
 }
 
 async function warteraumEntscheideP2P(id, spieler) {
+  // Eigene ID muss bekannt sein — sonst Fallback auf VG
+  if (!warteraum.meineId) { warteraumFallbackVirtuell(); return; }
   // Zuerst prüfen ob wir selbst bereits herausgefordert wurden
   if (warteraum.meineId) {
     try {
