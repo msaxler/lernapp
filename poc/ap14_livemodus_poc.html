@@ -116,9 +116,8 @@
 // ── Karte initialisieren ─────────────────────────────────────────────────
 const map = L.map('map', { zoomControl: true }).setView([50.35, 7.20], 9);
 
-L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-  attribution: '© <a href="https://openstreetmap.org">OpenStreetMap</a> © <a href="https://carto.com">CARTO</a>',
-  subdomains: 'abcd',
+L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+  attribution: '© <a href="https://www.esri.com">Esri</a> · © OpenStreetMap contributors',
   maxZoom: 19
 }).addTo(map);
 
