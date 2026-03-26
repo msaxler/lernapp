@@ -3826,6 +3826,20 @@ function naechsteRunde() {
     } else {
       zeigeDuellKat();
     }
+  } else if (state.modus === 'live') {
+    state.runde++;
+    // Nächste 3 Fragen aus Pool; bei Erschöpfung neu mischen
+    if (livePoolIdx + 3 > livePool.length) {
+      livePool    = [...livePool].sort(() => Math.random() - 0.5);
+      livePoolIdx = 0;
+    }
+    state.aktuelleKatFragen = livePool.slice(livePoolIdx, livePoolIdx + 3);
+    livePoolIdx += 3;
+    state.frageInRunde      = 0;
+    state.rundeRichtig      = 0;
+    state.rundeErgebnisse   = [];
+    duel.frageStartZeit     = Date.now();
+    zeigeFrage();
   } else {
     state.runde++;
     zeigeKategoriewahl();
@@ -5744,6 +5758,8 @@ let liveRadiusCircle = null;
 let liveCityMarkers  = [];
 let liveRadiusKm   = 20;
 let livePos        = null;
+let livePool       = [];   // Fragen-Pool für aktuelles Live-Spiel
+let livePoolIdx    = 0;    // Nächste unbenutzte Position im Pool
 
 function zeigeLiveModus() {
   showScreen('screen-livemodus');
@@ -5891,17 +5907,17 @@ function liveStartQuiz(stadtName, stadtLat, stadtLon) {
   );
   naheStaedte.add(stadtName);
   let pool = FRAGEN.filter(f => f.stadt && naheStaedte.has(f.stadt));
-  if (pool.length < 3) pool = FRAGEN;  // Fallback: alle Fragen
-  // Shuffle + 3 Fragen
-  pool = [...pool].sort(() => Math.random() - 0.5).slice(0, 3);
-  // Solo-Modus ab Runde 5 → nach 3 Fragen direkt Spielende
+  if (pool.length < 3) pool = [...FRAGEN];  // Fallback: alle Fragen
+  // Shuffle Pool für bis zu 5 Runden (15 Fragen)
+  livePool    = [...pool].sort(() => Math.random() - 0.5);
+  livePoolIdx = 3;
   resetSpiel();
   state.modus             = 'live';
-  state.runde             = 5;
+  state.runde             = 1;
   state.schwierigkeit     = 'M';
   state.gewaehlteKat      = { id: 'live', emoji: '📍', name: stadtName, beispiel: '' };
   state.gespielteKategorien.add('live');
-  state.aktuelleKatFragen = pool;
+  state.aktuelleKatFragen = livePool.slice(0, 3);
   state.frageInRunde      = 0;
   state.rundeRichtig      = 0;
   state.rundeErgebnisse   = [];
