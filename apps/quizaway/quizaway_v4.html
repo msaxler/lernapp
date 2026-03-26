@@ -4963,6 +4963,7 @@ function gpsStart() {
     return;
   }
   gpsState.watching = true;
+  console.log('[GPS] starte getCurrentPosition (Warteraum)');
   // Button: Ladezustand
   gpsSetBtn('📍 Standort wird ermittelt…', 'Bitte Browser-Dialog bestätigen', 'var(--muted)', false);
 
@@ -4975,9 +4976,11 @@ function gpsStart() {
         .map(s => ({ s, d: routeHav(gpsState.lat, gpsState.lon, s.lat, s.lon) }))
         .sort((a, b) => a.d - b.d)[0];
       const stadtLabel = naechste ? `Erkannt: ${naechste.s.name}` : 'Standort aktiv';
+      console.log(`[GPS] Position OK: ${gpsState.lat.toFixed(4)},${gpsState.lon.toFixed(4)} → ${stadtLabel} | Duell: ${duel.verbunden}`);
       gpsSetBtn('📍 Orts-Fragen aktiv', stadtLabel, '#10b981', false);
     },
-    () => {
+    (err) => {
+      console.warn('[GPS] Fehler:', err.code, err.message);
       gpsState.ok = false;
       gpsState.watching = false;  // erneuter Versuch erlaubt
       gpsSetBtn('📍 Standort nicht freigegeben', 'Tippen zum erneuten Versuch', '#f59e0b', true);
@@ -5753,6 +5756,8 @@ let livePos          = null;
 let liveNaheStaedte  = new Set();  // Städte im aktuellen GPS-Radius
 
 function zeigeLiveModus() {
+  console.log(`[Live] zeigeLiveModus | duel.verbunden=${duel.verbunden} | gpsState.ok=${gpsState.ok} | liveWatchId=${liveWatchId}`);
+  if (duel.verbunden) console.warn('[Live] ⚠️ Live-Modus geöffnet während P2P-Duell aktiv!');
   showScreen('screen-livemodus');
   // Leaflet lazy init — nur beim ersten Aufruf
   if (!liveMap) {
@@ -5772,9 +5777,11 @@ function zeigeLiveModus() {
 }
 
 function liveModeVerlassen() {
+  console.log('[Live] Modus verlassen');
   if (liveWatchId !== null) {
     navigator.geolocation.clearWatch(liveWatchId);
     liveWatchId = null;
+    console.log('[Live] watchPosition gestoppt');
   }
   showScreen('screen-start');
 }
@@ -5785,9 +5792,11 @@ function liveGPSStart() {
   btn.textContent = '⏳ …';
   liveSetMsg('GPS wird ermittelt…');
   if (liveWatchId !== null) navigator.geolocation.clearWatch(liveWatchId);
+  console.log('[Live] starte watchPosition');
   liveWatchId = navigator.geolocation.watchPosition(
     pos => liveSetGPS(pos.coords.latitude, pos.coords.longitude, pos.coords.accuracy),
-    () => {
+    (err) => {
+      console.warn('[Live] GPS-Fehler:', err.code, err.message);
       liveSetMsg('GPS nicht verfügbar — Berechtigungen prüfen');
       document.getElementById('live-gps-btn').textContent = '📍 GPS erneut';
     },
@@ -5797,6 +5806,7 @@ function liveGPSStart() {
 
 function liveSetGPS(lat, lon, accuracy) {
   livePos = { lat, lon };
+  console.log(`[Live] GPS: ${lat.toFixed(4)},${lon.toFixed(4)}${accuracy ? ' ±'+Math.round(accuracy)+'m' : ''}`);
   const dot = document.getElementById('live-gps-dot');
   dot.style.background    = '#22c55e';
   dot.style.boxShadow     = '0 0 6px #22c55e';
@@ -5890,6 +5900,7 @@ function liveWaehlStadt(name, lat, lon) {
 }
 
 function liveStartQuiz(stadtName, stadtLat, stadtLon) {
+  console.log(`[Live] Stadt gewählt: ${stadtName} (${stadtLat.toFixed(4)},${stadtLon.toFixed(4)}) | Radius: ${liveRadiusKm}km`);
   // Städte im Radius um die gewählte Stadt sammeln
   liveNaheStaedte = new Set(
     ROUTE_STAEDTE
@@ -5897,6 +5908,8 @@ function liveStartQuiz(stadtName, stadtLat, stadtLon) {
       .map(s => s.name)
   );
   liveNaheStaedte.add(stadtName);
+  const fragenCount = FRAGEN.filter(f => f.stadt && liveNaheStaedte.has(f.stadt)).length;
+  console.log(`[Live] Städte im Radius: ${[...liveNaheStaedte].join(', ')} | Fragen im Pool: ${fragenCount}`);
   // Normales Spiel starten — identisch mit Sofa-Modus, nur Fragen lokal gefiltert
   zeigeSchwierigkeit('live');
 }
