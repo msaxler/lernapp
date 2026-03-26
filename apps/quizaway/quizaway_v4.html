@@ -4684,7 +4684,7 @@ async function lobbyListe() {
 }
 
 async function lobbyAngebotErstellen() {
-  const name = 'Spieler ' + Math.floor(Math.random()*90+10);
+  const name = SPIELER_NAME;
   lobbyStatus('Verbindung vorbereiten…');
   try {
     // Schritt 1: WebRTC-Offer erstellen (BEVOR Angebot sichtbar wird)
@@ -4767,7 +4767,7 @@ async function lobbyHostWarteAufAnswer(aid) {
 }
 
 async function lobbyBeitreten(aid, hostName) {
-  const name = 'Spieler ' + Math.floor(Math.random()*90+10);
+  const name = SPIELER_NAME;
   lobbyStatus('Trete Duell bei…');
   try {
     const res = await fetch(RENDEZVOUS + '/lobby/join/' + aid, {
