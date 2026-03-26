@@ -5342,20 +5342,30 @@ function duelStarteFragenMitKat(katId, seed) {
   // Deterministischer Pool: erst nach ID sortieren, dann Seed-PRNG
   let pool = FRAGEN.filter(f => f.kat === katId).sort((a,b) => a.id < b.id ? -1 : 1);
 
-  // GPS-Duell (AP15): Fragen auf Gegner-Region filtern
-  if (duel.gegnerGps && duel.gegnerGps.ok) {
+  // GPS-Duell (AP15): Fragen auf Region beider Spieler filtern (Union)
+  // Union aus eigenem + Gegner-Standort → beide sehen identische Fragen,
+  // auch wenn sie am gleichen Ort sind (kein Ausschluss).
+  const gpsQuellen = [];
+  if (gpsState.ok)                             gpsQuellen.push(gpsState);
+  if (duel.gegnerGps && duel.gegnerGps.ok)     gpsQuellen.push(duel.gegnerGps);
+  if (gpsQuellen.length > 0) {
     const GPS_RADIUS_KM = 150;
-    const nahe = ROUTE_STAEDTE
-      .map(s => ({ s, d: routeHav(duel.gegnerGps.lat, duel.gegnerGps.lon, s.lat, s.lon) }))
-      .filter(x => x.d <= GPS_RADIUS_KM)
-      .sort((a, b) => a.d - b.d);
-    if (nahe.length > 0) {
-      const namenSet = new Set(nahe.map(x => x.s.name));
-      const regionPool = pool.filter(f => f.stadt && namenSet.has(f.stadt));
-      if (regionPool.length >= 3) {
-        pool = regionPool;
-        duelLog(`📍 Orts-Fragen: ${nahe[0].s.name}-Region (${nahe.length} Städte)`);
-      }
+    const namenSet = new Set();
+    let naechste = null, naechsteDist = Infinity;
+    for (const gps of gpsQuellen) {
+      ROUTE_STAEDTE.forEach(s => {
+        const d = routeHav(gps.lat, gps.lon, s.lat, s.lon);
+        if (d <= GPS_RADIUS_KM) {
+          namenSet.add(s.name);
+          if (d < naechsteDist) { naechsteDist = d; naechste = s; }
+        }
+      });
+    }
+    const regionPool = pool.filter(f => f.stadt && namenSet.has(f.stadt));
+    if (regionPool.length >= 3) {
+      pool = regionPool;
+      const label = naechste ? `${naechste.name}-Region` : '?';
+      duelLog(`📍 Orts-Fragen: ${label} (${namenSet.size} Städte)`);
     }
   }
   function seededRandom(s) {
