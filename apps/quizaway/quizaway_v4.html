@@ -3613,7 +3613,7 @@ let SPIELER_NAME = 'Spieler';
 
 function spielerNameLaden() {
   try {
-    const gespeichert = localStorage.getItem('quizaway_spielername');
+    const gespeichert = sessionStorage.getItem('quizaway_spielername');
     if (gespeichert) {
       SPIELER_NAME = gespeichert;
       spielerNameAnzeigen();
@@ -3631,7 +3631,7 @@ function spielerNameAendern() {
   const neu = prompt('Dein Spielername:', SPIELER_NAME);
   if (neu && neu.trim()) {
     SPIELER_NAME = neu.trim().slice(0, 20);
-    try { localStorage.setItem('quizaway_spielername', SPIELER_NAME); } catch(e) {}
+    try { sessionStorage.setItem('quizaway_spielername', SPIELER_NAME); } catch(e) {}
     spielerNameAnzeigen();
   }
 }
