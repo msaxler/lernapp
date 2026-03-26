@@ -160,6 +160,10 @@ class Handler(BaseHTTPRequestHandler):
         if p.endswith('.png'):
             self.send_binary(p.lstrip('/'), 'image/png'); return
 
+        # Health-Check für UptimeRobot / Monitoring
+        if p == '/ping':
+            self.send_json(200, {'ok': True, 'status': 'alive'}); return
+
         # ── WebRTC-Signaling ──────────────────────────────────
         # GET /new  →  { pin }
         if p == '/new':
