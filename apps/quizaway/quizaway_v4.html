@@ -2759,6 +2759,7 @@ const warteraum = {
   _vorschauTimer:  null,
   _vorschauCallback: null,
   _entscheide:     false,  // Guard: verhindert Poll-Interrupt während warteraumEntscheideP2P läuft
+  _joining:        false,  // Guard: verhindert Mehrfachaufruf von warteraumHerausforderungAnnehmen
 };
 
 function warteraumInit() {
@@ -3226,6 +3227,9 @@ function warteraumFallbackVirtuell(sw) {
 }
 
 async function warteraumHerausforderungAnnehmen(hf) {
+  // Guard: Mehrfachaufruf verhindern (Race Condition Poll + Klick)
+  if (warteraum._joining) { console.warn('[Warteraum] _joining Guard — Aufruf ignoriert'); return; }
+  warteraum._joining = true;
   // ALLE Timer sofort stoppen — auch Vorschau-Timer falls gerade läuft
   if (warteraum.autoTimer)     { clearInterval(warteraum.autoTimer);     warteraum.autoTimer     = null; }
   if (warteraum.pollingTimer)  { clearInterval(warteraum.pollingTimer);  warteraum.pollingTimer  = null; }
@@ -3278,10 +3282,10 @@ async function warteraumHerausforderungAnnehmen(hf) {
     }, 300);
 
   } catch(e) {
+    warteraum._joining = false;
     console.error("warteraumHerausforderungAnnehmen FEHLER:", e.message, e);
-    // Fallback: virtuellen Gegner
-    duellState.gegner = warteraum._virtuellerGegner || generiereGegner();
-    zeigeDuellKat();
+    // Kein Fallback auf virtuellen Gegner — Fehler tritt meist beim Mehrfachaufruf auf
+    // (409 Conflict), während der erste Aufruf bereits die P2P-Verbindung aufbaut.
   }
 }
 
