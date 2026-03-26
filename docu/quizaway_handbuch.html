@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>QuizAway – Benutzerhandbuch</title>
+<style>
+  :root {
+    --bg: #0f1117;
+    --card: #1a1b1e;
+    --border: #2a2b2f;
+    --text: #e5e7eb;
+    --muted: #9ca3af;
+    --accent: #f59e0b;
+    --blue: #3b82f6;
+    --green: #22c55e;
+    --red: #ef4444;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    font-size: 16px;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  /* Layout */
+  .wrapper { max-width: 800px; margin: 0 auto; padding: 24px 16px 64px; }
+
+  /* Header */
+  .header {
+    text-align: center;
+    padding: 40px 16px 32px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 32px;
+  }
+  .header-icon { font-size: 3rem; margin-bottom: 8px; }
+  .header h1 { font-size: 2rem; color: var(--accent); margin-bottom: 4px; }
+  .header .sub { color: var(--muted); font-size: 0.95rem; }
+  .version-badge {
+    display: inline-block;
+    margin-top: 12px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 3px 14px;
+    font-size: 0.8rem;
+    color: var(--muted);
+  }
+
+  /* TOC */
+  .toc {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px 24px;
+    margin-bottom: 40px;
+  }
+  .toc h2 { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin-bottom: 12px; }
+  .toc ol { padding-left: 20px; }
+  .toc li { margin: 6px 0; font-size: 0.95rem; }
+  .toc a { color: var(--text); }
+  .toc a:hover { color: var(--accent); text-decoration: none; }
+
+  /* Sections */
+  section { margin-bottom: 48px; }
+  section h2 {
+    font-size: 1.4rem;
+    color: var(--accent);
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 8px;
+    margin-bottom: 20px;
+  }
+  section h3 {
+    font-size: 1.05rem;
+    color: var(--text);
+    margin: 24px 0 10px;
+  }
+  p { margin-bottom: 12px; color: var(--text); }
+  ul, ol { padding-left: 22px; margin-bottom: 12px; }
+  li { margin: 5px 0; }
+
+  /* Cards */
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px 20px;
+    margin-bottom: 12px;
+  }
+  .card-title { font-weight: 600; margin-bottom: 6px; display: flex; align-items: center; gap: 8px; }
+  .card p { margin-bottom: 0; font-size: 0.95rem; color: var(--muted); }
+
+  /* Grid */
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  @media (max-width: 560px) { .grid-2 { grid-template-columns: 1fr; } }
+
+  /* Table */
+  table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 0.9rem; }
+  th { background: var(--card); color: var(--muted); text-align: left; padding: 8px 12px; border-bottom: 2px solid var(--border); }
+  td { padding: 8px 12px; border-bottom: 1px solid var(--border); }
+  tr:last-child td { border-bottom: none; }
+
+  /* Tip box */
+  .tip {
+    background: #1c2a1c;
+    border-left: 3px solid var(--green);
+    border-radius: 0 8px 8px 0;
+    padding: 12px 16px;
+    margin: 16px 0;
+    font-size: 0.9rem;
+  }
+  .tip strong { color: var(--green); }
+  .note {
+    background: #1c1f2a;
+    border-left: 3px solid var(--blue);
+    border-radius: 0 8px 8px 0;
+    padding: 12px 16px;
+    margin: 16px 0;
+    font-size: 0.9rem;
+  }
+  .note strong { color: var(--blue); }
+
+  /* Quickstart steps */
+  .steps { counter-reset: step; }
+  .step {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+    margin-bottom: 16px;
+  }
+  .step-num {
+    background: var(--accent);
+    color: #000;
+    font-weight: 700;
+    font-size: 0.85rem;
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+  .step-text strong { display: block; margin-bottom: 2px; }
+  .step-text span { font-size: 0.9rem; color: var(--muted); }
+
+  /* Points table highlight */
+  .pts-max { color: var(--accent); font-weight: 600; }
+  .pts-zero { color: var(--red); }
+
+  /* Mode badge */
+  .badge {
+    display: inline-block;
+    font-size: 0.75rem;
+    padding: 2px 8px;
+    border-radius: 20px;
+    font-weight: 600;
+    margin-left: 6px;
+    vertical-align: middle;
+  }
+  .badge-new { background: #14532d; color: var(--green); }
+  .badge-beta { background: #312e81; color: #a5b4fc; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-icon">🗺️</div>
+  <h1>QuizAway</h1>
+  <div class="sub">Geografisches Wissen spielerisch erleben · Prototyp</div>
+  <div class="version-badge">Version 4 · März 2026</div>
+</div>
+
+<div class="wrapper">
+
+  <!-- Inhaltsverzeichnis -->
+  <div class="toc">
+    <h2>Inhalt</h2>
+    <ol>
+      <li><a href="#ueberblick">Überblick</a></li>
+      <li><a href="#schnellstart">Schnellstart</a></li>
+      <li><a href="#spielername">Spielername</a></li>
+      <li><a href="#spielmodi">Spielmodi</a></li>
+      <li><a href="#schwierigkeit">Schwierigkeitsgrad &amp; Fallback</a></li>
+      <li><a href="#spielablauf">Spielablauf &amp; Auto-Weiter</a></li>
+      <li><a href="#kategorien">Fragekategorien</a></li>
+      <li><a href="#duell">Duell im Detail</a></li>
+      <li><a href="#livemodus">Live-Modus im Detail</a></li>
+      <li><a href="#tipps">Tipps &amp; Tricks</a></li>
+    </ol>
+  </div>
+
+  <!-- 1. Überblick -->
+  <section id="ueberblick">
+    <h2>1. Überblick</h2>
+    <p>QuizAway ist ein deutsches Geo-Quiz, das direkt im Browser läuft — keine Installation, keine Anmeldung. Öffne die App auf PC oder Smartphone und fange sofort an.</p>
+    <p>Du beantwortest Fragen zu deutschen Städten: Kfz-Kennzeichen, Einwohnerzahlen, Höhenlagen, Entfernungen, Postleitzahlen und mehr. Über <strong>10.000 Fragen</strong> stehen bereit.</p>
+    <div class="tip"><strong>Tipp:</strong> Die App funktioniert auch offline, sobald sie einmal geladen wurde — ideal unterwegs.</div>
+  </section>
+
+  <!-- 2. Schnellstart -->
+  <section id="schnellstart">
+    <h2>2. Schnellstart</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-text">
+          <strong>App öffnen</strong>
+          <span>Browser → Adresse der App eingeben (lokal oder Render-Link)</span>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-text">
+          <strong>Spielmodus wählen</strong>
+          <span>Sofa-Modus, Route, Live-Modus oder Duell</span>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-text">
+          <strong>Schwierigkeit wählen</strong>
+          <span>Leicht · Mittel · Schwer — oder warten, dann startet Mittel automatisch</span>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">4</div>
+        <div class="step-text">
+          <strong>Kategorie wählen &amp; spielen</strong>
+          <span>3 Fragen pro Runde, 5 Runden pro Spiel = 15 Fragen gesamt</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 3. Spielername -->
+  <section id="spielername">
+    <h2>3. Spielername</h2>
+    <p>Oben auf dem Startbildschirm siehst du dein Spieler-Symbol <strong>👤 Spieler</strong>. Ein Tipp darauf öffnet einen Dialog zum Ändern des Namens.</p>
+    <ul>
+      <li>Maximal <strong>8 Zeichen</strong></li>
+      <li>Erlaubt: Buchstaben (A–Z, a–z, Umlaute), Ziffern (0–9), Bindestrich und Punkt</li>
+      <li>Der Name wird im Browser gespeichert und beim nächsten Besuch wiederhergestellt</li>
+      <li>Im Duell sieht dein Gegner deinen Namen</li>
+    </ul>
+    <div class="note"><strong>Hinweis:</strong> Wenn du die App in verschiedenen Tabs öffnest (z.&nbsp;B. zum Testen), gib in jedem Tab einen anderen Namen ein — sonst heißen alle Spieler gleich.</div>
+  </section>
+
+  <!-- 4. Spielmodi -->
+  <section id="spielmodi">
+    <h2>4. Spielmodi</h2>
+
+    <div class="card">
+      <div class="card-title">🛋️ Sofa-Modus</div>
+      <p>Zufällige Fragen aus ganz Deutschland — ohne Ortsbindung. Ideal zum Einstieg oder für entspanntes Spielen zu Hause.</p>
+    </div>
+
+    <div class="card">
+      <div class="card-title">🗺️ Virtuelle Route</div>
+      <p>Du gibst eine Start- und Zielstadt ein. Die App wählt nur Fragen zu Städten entlang der Strecke. Eine Karte zeigt welche Städte im Pool liegen. Längere Strecken = mehr Abwechslung.</p>
+    </div>
+
+    <div class="card">
+      <div class="card-title">📍 Live-Modus <span class="badge badge-new">NEU</span></div>
+      <p>GPS orten lassen, Städte in der Nähe auf der Karte sehen, eine Stadt antippen — und sofort ein 5-Runden-Quiz über diese Region starten. Alle Fragen kommen aus dem gewählten Umkreis.</p>
+    </div>
+
+    <div class="card">
+      <div class="card-title">⚔️ Duell</div>
+      <p>Gegen einen virtuellen Gegner oder gegen eine andere Person spielen. Beide antworten auf dieselben Fragen, dann wird verglichen wer die Runde gewonnen hat.</p>
+    </div>
+  </section>
+
+  <!-- 5. Schwierigkeit -->
+  <section id="schwierigkeit">
+    <h2>5. Schwierigkeitsgrad</h2>
+    <p>Vor jedem Spiel wählst du einen Schwierigkeitsgrad. Er bestimmt, welche Städte als Fragestadt und als Falschantworten auftauchen.</p>
+    <table>
+      <tr><th>Grad</th><th>Städtepool</th><th>Wirkung</th></tr>
+      <tr><td>🟢 Leicht</td><td>~335 Städte (≥ 35.000 Einw.)</td><td>Nur Großstädte — leicht erkennbar</td></tr>
+      <tr><td>🟡 Mittel</td><td>~521 Städte (≥ 25.000 Einw.)</td><td>Mittelstädte dabei — braucht Überlegung</td></tr>
+      <tr><td>🔴 Schwer</td><td>2.051 Städte (alle)</td><td>Auch kleine Orte — echte Herausforderung</td></tr>
+    </table>
+    <div class="tip"><strong>Auto-Weiter:</strong> Ohne Auswahl startet das Spiel nach 28 Sekunden mit „Mittel".</div>
+
+    <h3>Automatischer Fallback bei wenigen Fragen</h3>
+    <p>Im Live-Modus und auf der Virtuellen Route kann es vorkommen, dass für die gewählte Kategorie <em>und</em> den gewählten Schwierigkeitsgrad nicht genügend Fragen im Pool vorhanden sind. Das Spiel löst das automatisch:</p>
+    <table>
+      <tr><th>Gewählt</th><th>Fallback-Reihenfolge</th></tr>
+      <tr><td>🔴 Schwer</td><td>Schwer → Mittel → Leicht</td></tr>
+      <tr><td>🟡 Mittel</td><td>Mittel → Leicht → Schwer</td></tr>
+      <tr><td>🟢 Leicht</td><td>Leicht → Mittel → Schwer</td></tr>
+    </table>
+    <p>Du merkst davon in der Regel nichts — das Spiel füllt die 3 Fragen einfach auf. Nur wenn du eine sehr kleine Region mit wenigen Städten gewählt hast, können vereinzelt Städte außerhalb des Radius erscheinen.</p>
+  </section>
+
+  <!-- 6. Spielablauf -->
+  <section id="spielablauf">
+    <h2>6. Spielablauf</h2>
+
+    <h3>Rundenstruktur</h3>
+    <p>Ein Spiel besteht aus <strong>5 Runden</strong> mit je <strong>3 Fragen</strong> = 15 Fragen insgesamt.</p>
+
+    <h3>Kategoriewahl</h3>
+    <p>Vor jeder Runde werden 3 zufällige Kategorien angezeigt. Du wählst eine — und spielst dann 3 Fragen aus genau dieser Kategorie. Nicht gewählte Kategorien können in späteren Runden wieder erscheinen.</p>
+    <div class="tip"><strong>Auto-Weiter:</strong> Nach 28 Sekunden ohne Auswahl wählt das Spiel automatisch eine Kategorie.</div>
+
+    <h3>Die Frage</h3>
+    <p>Oben siehst du die Fragestadt mit Bundesland. Der Timer läuft <strong>14 Sekunden</strong>. Je schneller du antwortest, desto mehr Punkte bekommst du.</p>
+
+    <table>
+      <tr><th>Zeitpunkt</th><th>Punkte</th></tr>
+      <tr><td>0 – 3 s</td><td class="pts-max">120 Punkte (Maximum)</td></tr>
+      <tr><td>4 s</td><td>113 Punkte (−7 pro weitere Sekunde)</td></tr>
+      <tr><td>10 s</td><td>71 Punkte</td></tr>
+      <tr><td>13 s</td><td>50 Punkte</td></tr>
+      <tr><td>14 s / Timeout</td><td class="pts-zero">0 Punkte</td></tr>
+      <tr><td>Falsch</td><td class="pts-zero">0 Punkte</td></tr>
+    </table>
+
+    <h3>Feedback</h3>
+    <p>Nach jeder Antwort siehst du: richtig oder falsch, wie viele Punkte du bekommst, die richtige Antwort und eine kurze Erklärung. Weiter geht es automatisch nach 14 Sekunden — oder sofort per Tipp auf den Bildschirm.</p>
+
+    <h3>Rundenabschluss</h3>
+    <p>Nach 3 Fragen zeigt das Spiel die Trefferquote dieser Runde und den aktuellen Gesamtstand. Automatisch weiter nach 14 Sekunden.</p>
+
+    <h3>Auto-Weiter — Übersicht</h3>
+    <p>Das Spiel wartet nie ewig. Auf jeder Ebene gibt es einen automatischen Weiter-Timer:</p>
+    <table>
+      <tr><th>Situation</th><th>Wartezeit</th><th>Was passiert dann</th></tr>
+      <tr><td>Schwierigkeitsauswahl</td><td>28 s</td><td>„Mittel" wird automatisch gewählt</td></tr>
+      <tr><td>Kategorieauswahl</td><td>28 s</td><td>Eine zufällige Kategorie wird gewählt</td></tr>
+      <tr><td>Feedback nach Antwort</td><td>14 s</td><td>Nächste Frage erscheint</td></tr>
+      <tr><td>Rundenabschluss</td><td>14 s</td><td>Nächste Kategorieauswahl erscheint</td></tr>
+      <tr><td>Duell: Warteraum</td><td>14 s</td><td>Spiel startet gegen virtuellen Gegner</td></tr>
+      <tr><td>Duell: Rundenvergleich (Spieler mit Wahlrecht)</td><td>5 s</td><td>Kategorieauswahl für nächste Runde startet</td></tr>
+    </table>
+    <div class="note"><strong>Hinweis:</strong> Jeder Auto-Weiter-Timer kann durch manuellen Tipp auf den Button übersprungen werden — du musst nie warten.</div>
+  </section>
+
+  <!-- 7. Kategorien -->
+  <section id="kategorien">
+    <h2>7. Fragekategorien</h2>
+    <table>
+      <tr><th>Kategorie</th><th>Was wird gefragt</th></tr>
+      <tr><td>🗺️ Geografie</td><td>Bundesland, Fluss, geografische Lage</td></tr>
+      <tr><td>🚗 KFZ</td><td>Welches Kennzeichen gehört zu welcher Stadt — und umgekehrt</td></tr>
+      <tr><td>👥 Einwohner</td><td>Städtevergleich, Bevölkerungsdichte, Schwellenwerte</td></tr>
+      <tr><td>📮 PLZ</td><td>Welche Postleitzahl gehört zu welcher Stadt</td></tr>
+      <tr><td>⛰️ Höhenlage</td><td>Welche Stadt liegt höher? In welchem Höhenbereich?</td></tr>
+    </table>
+    <div class="tip"><strong>Gut zu wissen:</strong> Die besten Fragen sind die, wo die richtige Antwort überrascht — Bevölkerungsdichte, Höhenlagen, unbekannte Kennzeichen. Wer sicher war, liegt oft falsch.</div>
+  </section>
+
+  <!-- 8. Duell -->
+  <section id="duell">
+    <h2>8. Duell im Detail</h2>
+
+    <h3>Virtueller Gegner</h3>
+    <p>Du spielst alleine gegen einen simulierten Gegner. Wähle im Duell-Menü den virtuellen Gegner — das Spiel startet sofort. Der Gegner antwortet nach jeder Runde mit einem zufälligen Ergebnis.</p>
+    <p><strong>Wechselspiel:</strong> In Runde 1 und 3 wählst du die Kategorie, in Runde 2 und 4 wählt der virtuelle Gegner (erscheint nach 2–3 Sekunden automatisch).</p>
+
+    <h3>Echtes Duell (gegen eine andere Person)</h3>
+    <p>Tippe auf <strong>⚔️ Duell starten</strong>. Du kommst in den <strong>Warteraum</strong> — eine Liste aller Spieler, die gerade ebenfalls auf einen Gegner warten.</p>
+
+    <div class="card">
+      <div class="card-title">So läuft das Pairing ab:</div>
+      <p style="margin-bottom:8px;">1. Du siehst andere Spieler in der Liste. Tippe auf einen Namen, um ihn herauszufordern.</p>
+      <p style="margin-bottom:8px;">2. Der Server entscheidet wer Host und wer Gast ist — läuft automatisch.</p>
+      <p style="margin-bottom:8px;">3. Eine Direktverbindung (WebRTC) wird aufgebaut — kein Server dazwischen.</p>
+      <p>4. Das Spiel startet mit einer kurzen Vorschau des Gegners.</p>
+    </div>
+
+    <div class="note"><strong>Warteraum-Tipp:</strong> Wenn nach 14 Sekunden kein Gegner da ist, startet das Spiel automatisch gegen den virtuellen Gegner.</div>
+
+    <h3>Wechselspiel im echten Duell</h3>
+    <p>Auch im echten Duell gilt das Wechselprinzip: Host wählt Runde 1 und 3, Gast wählt Runde 2 und 4. Der jeweils wartende Spieler sieht einen Hinweis und die Kategoriewahl ist gesperrt. Nach 5 Sekunden geht es automatisch weiter.</p>
+
+    <h3>GPS-Duell <span class="badge badge-new">NEU</span></h3>
+    <p>Wenn beide Spieler ihren GPS-Standort aktiviert haben, werden die Fragen automatisch auf Städte in der Nähe beider Standorte eingeschränkt. Wer gerade in Neuwied ist, bekommt Fragen über die Neuwied-Region — der Gegner in Frankfurt bekommt Frankfurt-Fragen, und ihr teilt alle Fragen die für beide relevant sind.</p>
+    <p>GPS aktivieren: Im Warteraum auf <strong>📍 GPS aktivieren</strong> tippen und den Standort-Dialog des Browsers bestätigen.</p>
+    <div class="note"><strong>Hinweis:</strong> GPS funktioniert nur über HTTPS oder auf localhost. Im lokalen WLAN über eine IP-Adresse (z.&nbsp;B. 192.168.x.x) wird GPS vom Browser blockiert.</div>
+  </section>
+
+  <!-- 9. Live-Modus -->
+  <section id="livemodus">
+    <h2>9. Live-Modus im Detail</h2>
+
+    <p>Der Live-Modus verbindet deinen GPS-Standort mit dem Quiz. Ideal wenn du unterwegs bist und die Region um dich herum kennenlernen möchtest.</p>
+
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-text">
+          <strong>GPS aktivieren</strong>
+          <span>Tippe auf „📍 GPS aktivieren" — der Browser fragt nach deinem Standort</span>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-text">
+          <strong>Karte und Städteliste</strong>
+          <span>Die Karte zeigt deinen Standort und alle Quiz-Städte im eingestellten Radius</span>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-text">
+          <strong>Radius anpassen</strong>
+          <span>Schieberegler: 5 bis 50 km — mehr Radius = mehr Städte = mehr Fragen</span>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">4</div>
+        <div class="step-text">
+          <strong>Stadt wählen &amp; spielen</strong>
+          <span>Tippe eine Stadt in der Liste oder auf der Karte an — 5-Runden-Quiz startet sofort</span>
+        </div>
+      </div>
+    </div>
+
+    <h3>Was bedeutet „Städte in der Nähe"?</h3>
+    <p>Das Quiz nutzt einen Pool von rund 35 Städten mit gespeicherten Koordinaten. Alle Fragen im Live-Modus kommen aus Städten innerhalb des eingestellten Radius um die gewählte Stadt. Bei kleinem Radius können es wenige Fragen sein — dann greift ein automatischer Fallback auf den gesamten Fragenpool.</p>
+
+    <div class="tip"><strong>Tipp:</strong> Am besten bei Chrome und mit aktivem GPS (außerhalb von Gebäuden) nutzen. Firefox benötigt aktives WLAN oder GPS-Chip für die Standortbestimmung.</div>
+  </section>
+
+  <!-- 10. Tipps -->
+  <section id="tipps">
+    <h2>10. Tipps &amp; Tricks</h2>
+
+    <h3>Für Einsteiger</h3>
+    <ul>
+      <li>Starte mit <strong>🟢 Leicht</strong> im Sofa-Modus — die Städte sind bekannt, die Fragen fair</li>
+      <li>Lies die Erklärungen nach jeder Frage — sie sind kurz und lehrreich</li>
+      <li>Der Timer zeigt wie viele Punkte du noch holen kannst — lieber schnell raten als gar nicht tippen</li>
+    </ul>
+
+    <h3>Für Fortgeschrittene</h3>
+    <ul>
+      <li><strong>Virtuelle Route</strong> auf einer echten Reisestrecke: Quiz starten wenn du losfährst</li>
+      <li>Kategorie <strong>Höhenlage</strong> ist besonders tückisch — Deutschland ist topografisch vielfältiger als gedacht</li>
+      <li>Bei <strong>KFZ</strong>: das Kennzeichen verrät oft die Region — SU = Siegburg (nicht Stuttgart)</li>
+      <li>Im Duell: schnelle Antworten schlagen hohe Trefferquote — 120 Punkte in 3 Sekunden ist mehr wert als 71 Punkte in 10 Sekunden</li>
+    </ul>
+
+    <h3>Häufige Fragen</h3>
+    <div class="card">
+      <div class="card-title">Die App lädt langsam beim ersten Start</div>
+      <p>Beim ersten Aufruf wird die Geo-Datenbank (~17 MB) geladen. Danach geht alles sofort — auch offline.</p>
+    </div>
+    <div class="card">
+      <div class="card-title">GPS funktioniert nicht</div>
+      <p>Browser-Einstellung prüfen: Standort muss auf „Zulassen" stehen. Am besten mit Chrome testen. Auf iOS muss der Standort für den Browser in den Systemeinstellungen freigegeben sein.</p>
+    </div>
+    <div class="card">
+      <div class="card-title">Kein Gegner im Warteraum</div>
+      <p>Nach 14 Sekunden startet das Spiel automatisch gegen den virtuellen Gegner. Für echte Duelle am besten absprechen, wer wann online ist.</p>
+    </div>
+    <div class="card">
+      <div class="card-title">Verbindung zum Duell-Gegner bricht ab</div>
+      <p>Die App erkennt Verbindungsabbrüche automatisch. Nach einem kurzen Warten wird das Ergebnis dennoch angezeigt.</p>
+    </div>
+  </section>
+
+  <div style="text-align:center; color: var(--muted); font-size: 0.8rem; padding-top: 32px; border-top: 1px solid var(--border);">
+    QuizAway Prototyp · Version 4 · März 2026
+  </div>
+
+</div>
+</body>
+</html>
