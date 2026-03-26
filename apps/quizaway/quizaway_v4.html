@@ -5105,6 +5105,7 @@ function duelSetupDC(dc) {
   dc.onopen = () => {
     duel.verbunden = true;
     duelLog('✓ Verbunden!');
+    duelLog(`Rolle: ${duel.rolle?.toUpperCase()} — wählt Runden ${duel.rolle === 'host' ? '1,3' : '2,4'}`);
     // Host-Warte-Timer clearen falls noch aktiv
     if (warteraum._hostWarteTimer) { clearTimeout(warteraum._hostWarteTimer); warteraum._hostWarteTimer = null; }
     const statusEl = document.getElementById('p2p-status');
@@ -5515,7 +5516,20 @@ function duelRundeAbgeschlossen() {
   }
 
   // Falls Gegner schon da
-  if (duel.oppRundeErgebnis) duelZeigeVergleich();
+  if (duel.oppRundeErgebnis) {
+    duelZeigeVergleich();
+  } else {
+    // Fallback: nach 30s Gegner-Ergebnis annehmen (Deadlock-Schutz)
+    if (duel.rundeWartTimer) clearTimeout(duel.rundeWartTimer);
+    duel.rundeWartTimer = setTimeout(() => {
+      duel.rundeWartTimer = null;
+      if (!duel.oppRundeErgebnis) {
+        duelLog('⚠️ Timeout: kein Ergebnis von ' + duel.gegnerName + ' — nehme 0/3 an');
+        duel.oppRundeErgebnis = { richtig: 0, punkte: 0, zeitMs: 42000, ergebnisse: [] };
+        duelZeigeVergleich();
+      }
+    }, 30000);
+  }
 }
 
 // ─── Vergleich anzeigen ───────────────────────────────────────
@@ -5572,9 +5586,23 @@ function duelZeigeVergleich() {
         // Auto-weiter nach 5s — Spieler kann auch manuell früher klicken
         duel.rundeAutoTimer = setTimeout(() => { if (!btn.disabled) naechsteRunde(); }, 5000);
       } else {
-        btn.textContent = `⏳ Warte — ${duel.gegnerName} wählt Runde ${duel.runde + 1}…`;
-        // Kein Timer — wartender Spieler wartet auf 'kat'-Nachricht vom Gegner.
-        // Verbindungsabbruch wird durch den Ping-Mechanismus erkannt.
+        const warteRunde = duel.runde + 1;
+        btn.textContent = `⏳ Warte — ${duel.gegnerName} wählt Runde ${warteRunde}…`;
+        duelLog(`Warte auf Kat-Wahl von ${duel.gegnerName} (Runde ${warteRunde}, meine Rolle: ${duel.rolle})`);
+        // Fallback: nach 30s erzwinge eigene Kat-Auswahl (Deadlock-Schutz)
+        if (duel.rundeWartTimer) clearTimeout(duel.rundeWartTimer);
+        duel.rundeWartTimer = setTimeout(() => {
+          duel.rundeWartTimer = null;
+          duelLog(`⚠️ Kat-Timeout Runde ${warteRunde} — erzwinge eigene Auswahl`);
+          if (duel.runde < 5) {
+            duel.runde = warteRunde;
+            duel.meRundeErgebnis  = null;
+            duel.oppRundeErgebnis = null;
+            duelZeigeKatWahl(warteRunde);
+          } else {
+            duelZeigeEndergebnis();
+          }
+        }, 30000);
       }
     }, 3000);
   }
