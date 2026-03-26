@@ -4912,7 +4912,7 @@ function gpsStart() {
       gpsState.watching = false;  // erneuter Versuch erlaubt
       gpsSetBtn('📍 Standort nicht freigegeben', 'Tippen zum erneuten Versuch', '#f59e0b', true);
     },
-    { enableHighAccuracy: false, timeout: 10000, maximumAge: 60000 }
+    { enableHighAccuracy: true, timeout: 15000, maximumAge: 60000 }
   );
 }
 
