@@ -8,6 +8,8 @@
 <meta name="apple-mobile-web-app-title" content="QuizAway">
 <link rel="apple-touch-icon" href="icon-192.png">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.10.2/sql-wasm.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <title>Quiz Away – Prototyp</title>
@@ -1435,11 +1437,11 @@
           <div class="mode-arrow">›</div>
         </div>
 
-        <div class="mode-card" style="opacity:0.5; cursor:default;">
+        <div class="mode-card" onclick="zeigeLiveModus()">
           <div class="mode-icon live">📍</div>
           <div class="mode-info">
             <div class="mode-name">Live-Modus</div>
-            <div class="mode-desc">GPS · Kommt bald</div>
+            <div class="mode-desc">GPS · Städte in deiner Nähe</div>
           </div>
           <div class="mode-arrow">›</div>
         </div>
@@ -2318,6 +2320,33 @@
       </div>
 
       <div style="height:8px"></div>
+    </div>
+  </div>
+
+  <!-- ══ LIVE-MODUS SCREEN (AP14) ══ -->
+  <div class="screen" id="screen-livemodus">
+    <div class="nav-bar">
+      <button class="nav-back" onclick="liveModeVerlassen()">‹</button>
+      <div class="nav-title">📍 Live-Modus</div>
+      <div id="live-gps-dot" style="width:10px;height:10px;border-radius:50%;background:#555;flex-shrink:0;margin-right:4px;transition:background 0.3s;"></div>
+    </div>
+    <div id="live-map" style="flex:1;min-height:180px;z-index:1;background:#1a1b1e;"></div>
+    <div style="background:var(--surface);border-top:1px solid var(--border);padding:8px 14px;flex-shrink:0;">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;">
+        <button id="live-gps-btn" onclick="liveGPSStart()"
+          style="font-size:12px;padding:6px 12px;background:var(--accent);border:none;border-radius:8px;color:#fff;cursor:pointer;flex-shrink:0;font-weight:600;">📍 GPS aktivieren</button>
+        <span id="live-msg" style="font-size:11px;color:var(--muted);flex:1;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;">GPS aktivieren um Städte zu sehen</span>
+      </div>
+      <div style="display:flex;align-items:center;gap:8px;font-size:11px;color:var(--muted);">
+        <span>Radius:</span>
+        <input type="range" id="live-radius" min="5" max="50" step="5" value="20"
+          oninput="liveRadiusChange(this.value)"
+          style="flex:1;accent-color:var(--accent);">
+        <span id="live-radius-val" style="color:var(--accent);font-weight:bold;min-width:36px;text-align:right;">20 km</span>
+      </div>
+    </div>
+    <div id="live-staedte" style="overflow-y:auto;max-height:38vh;background:var(--surface2);border-top:1px solid var(--border);flex-shrink:0;">
+      <div style="padding:14px;font-size:12px;color:var(--muted);text-align:center;">GPS aktivieren um Städte zu sehen</div>
     </div>
   </div>
 
@@ -5697,6 +5726,185 @@ function debugSkipRunde() {
 }
 
 // Timer-Override entfernt — direkt in starteTimer() integriert
+
+// ══════════════════════════════════════════════════════════════════════════
+// LIVE-MODUS (AP14 Phase 1) — GPS-Karte + Städte-Quiz
+// ══════════════════════════════════════════════════════════════════════════
+let liveMap        = null;
+let liveWatchId    = null;
+let liveGPSMarker  = null;
+let liveRadiusCircle = null;
+let liveCityMarkers  = [];
+let liveRadiusKm   = 20;
+let livePos        = null;
+
+function zeigeLiveModus() {
+  showScreen('screen-livemodus');
+  // Leaflet lazy init — nur beim ersten Aufruf
+  if (!liveMap) {
+    liveMap = L.map('live-map', { zoomControl: true, attributionControl: false })
+      .setView([50.35, 7.20], 9);
+    L.tileLayer(
+      'https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}',
+      { maxZoom: 19 }
+    ).addTo(liveMap);
+  }
+  // Karte nach Screen-Transition neu berechnen
+  setTimeout(() => liveMap.invalidateSize(), 120);
+  // GPS aus Duell-Modus bereits vorhanden → sofort nutzen
+  if (gpsState.ok) {
+    liveSetGPS(gpsState.lat, gpsState.lon, null);
+  }
+}
+
+function liveModeVerlassen() {
+  if (liveWatchId !== null) {
+    navigator.geolocation.clearWatch(liveWatchId);
+    liveWatchId = null;
+  }
+  showScreen('screen-start');
+}
+
+function liveGPSStart() {
+  if (!navigator.geolocation) { liveSetMsg('⚠️ Kein GPS in diesem Browser'); return; }
+  const btn = document.getElementById('live-gps-btn');
+  btn.textContent = '⏳ …';
+  liveSetMsg('GPS wird ermittelt…');
+  if (liveWatchId !== null) navigator.geolocation.clearWatch(liveWatchId);
+  liveWatchId = navigator.geolocation.watchPosition(
+    pos => liveSetGPS(pos.coords.latitude, pos.coords.longitude, pos.coords.accuracy),
+    () => {
+      liveSetMsg('GPS nicht verfügbar — Berechtigungen prüfen');
+      document.getElementById('live-gps-btn').textContent = '📍 GPS erneut';
+    },
+    { enableHighAccuracy: true, maximumAge: 5000, timeout: 15000 }
+  );
+}
+
+function liveSetGPS(lat, lon, accuracy) {
+  livePos = { lat, lon };
+  const dot = document.getElementById('live-gps-dot');
+  dot.style.background    = '#22c55e';
+  dot.style.boxShadow     = '0 0 6px #22c55e';
+  document.getElementById('live-gps-btn').textContent = '🔄 GPS';
+  liveSetMsg(`${lat.toFixed(4)}, ${lon.toFixed(4)}${accuracy ? ' ±'+Math.round(accuracy)+'m' : ''}`);
+  liveUpdateKarte(lat, lon);
+  liveUpdateStaedte(lat, lon);
+}
+
+function liveUpdateKarte(lat, lon) {
+  if (!liveMap) return;
+  if (liveGPSMarker) liveGPSMarker.remove();
+  const icon = L.divIcon({
+    className: '',
+    html: '<div style="width:14px;height:14px;border-radius:50%;background:#8b5cf6;border:3px solid #fff;box-shadow:0 0 8px #8b5cf6aa;"></div>',
+    iconAnchor: [7, 7]
+  });
+  liveGPSMarker = L.marker([lat, lon], { icon }).addTo(liveMap);
+  if (liveRadiusCircle) liveRadiusCircle.remove();
+  liveRadiusCircle = L.circle([lat, lon], {
+    radius: liveRadiusKm * 1000,
+    color: '#8b5cf6', weight: 1.5, opacity: 0.6,
+    fillColor: '#8b5cf6', fillOpacity: 0.05
+  }).addTo(liveMap);
+  liveMap.setView([lat, lon], Math.max(liveMap.getZoom(), 10));
+}
+
+function liveUpdateStaedte(lat, lon) {
+  if (!liveMap) return;
+  liveCityMarkers.forEach(m => m.remove());
+  liveCityMarkers = [];
+
+  const nearby = ROUTE_STAEDTE
+    .map(s => ({ ...s, dist: routeHav(lat, lon, s.lat, s.lon) }))
+    .filter(s => s.dist <= liveRadiusKm)
+    .sort((a, b) => a.dist - b.dist);
+
+  const list = document.getElementById('live-staedte');
+  if (nearby.length === 0) {
+    list.innerHTML = '<div style="padding:14px;font-size:12px;color:var(--muted);text-align:center;">Keine Städte im Radius — Radius vergrößern?</div>';
+    return;
+  }
+
+  // Sidebar-Liste
+  list.innerHTML = nearby.map((s, i) => {
+    const anzahl = FRAGEN.filter(f => f.stadt === s.name).length;
+    return `<div onclick="liveWaehlStadt('${s.name.replace(/'/g,"\\'")}',${s.lat},${s.lon})"
+      style="display:flex;align-items:center;justify-content:space-between;
+             padding:10px 14px;border-bottom:1px solid var(--border);cursor:pointer;">
+      <div>
+        <div style="font-size:13px;font-weight:600;">${i===0?'🏆 ':''}${s.name}</div>
+        <div style="font-size:11px;color:var(--muted);">${s.bl} · ${anzahl} Fragen</div>
+      </div>
+      <div style="font-size:12px;color:var(--accent);font-weight:bold;">${s.dist.toFixed(1)} km</div>
+    </div>`;
+  }).join('');
+
+  // Kartenmarker
+  nearby.forEach((s, i) => {
+    const size  = i === 0 ? 13 : 9;
+    const color = i === 0 ? '#f59e0b' : '#64748b';
+    const icon  = L.divIcon({
+      className: '',
+      html: `<div style="width:${size}px;height:${size}px;border-radius:50%;background:${color};border:2px solid #fff;"></div>`,
+      iconAnchor: [size/2, size/2]
+    });
+    const anzahl = FRAGEN.filter(f => f.stadt === s.name).length;
+    const m = L.marker([s.lat, s.lon], { icon })
+      .bindPopup(`<b>${s.name}</b><br>${s.bl}<br>${s.dist.toFixed(1)} km · ${anzahl} Fragen<br>
+        <button onclick="liveWaehlStadt('${s.name.replace(/'/g,"\\'")}',${s.lat},${s.lon})"
+          style="margin-top:6px;padding:5px 12px;background:#8b5cf6;border:none;border-radius:5px;color:#fff;cursor:pointer;font-size:12px;font-weight:bold;">
+          📍 Quiz starten
+        </button>`)
+      .addTo(liveMap);
+    liveCityMarkers.push(m);
+  });
+}
+
+function liveRadiusChange(val) {
+  liveRadiusKm = parseInt(val);
+  document.getElementById('live-radius-val').textContent = liveRadiusKm + ' km';
+  if (livePos) {
+    if (liveRadiusCircle) liveRadiusCircle.setRadius(liveRadiusKm * 1000);
+    liveUpdateStaedte(livePos.lat, livePos.lon);
+  }
+}
+
+function liveWaehlStadt(name, lat, lon) {
+  if (liveMap) liveMap.setView([lat, lon], 13);
+  liveStartQuiz(name, lat, lon);
+}
+
+function liveStartQuiz(stadtName, stadtLat, stadtLon) {
+  // Fragen der Stadt + Städte im 20km-Umkreis der Stadt
+  const naheStaedte = new Set(
+    ROUTE_STAEDTE
+      .filter(s => routeHav(stadtLat, stadtLon, s.lat, s.lon) <= 20)
+      .map(s => s.name)
+  );
+  naheStaedte.add(stadtName);
+  let pool = FRAGEN.filter(f => f.stadt && naheStaedte.has(f.stadt));
+  if (pool.length < 3) pool = FRAGEN;  // Fallback: alle Fragen
+  // Shuffle + 3 Fragen
+  pool = [...pool].sort(() => Math.random() - 0.5).slice(0, 3);
+  // Solo-Modus ab Runde 5 → nach 3 Fragen direkt Spielende
+  resetSpiel();
+  state.modus             = 'solo';
+  state.runde             = 5;
+  state.schwierigkeit     = 'M';
+  state.gewaehlteKat      = { id: 'live', emoji: '📍', name: stadtName, beispiel: '' };
+  state.aktuelleKatFragen = pool;
+  state.frageInRunde      = 0;
+  state.rundeRichtig      = 0;
+  state.rundeErgebnisse   = [];
+  duel.frageStartZeit     = Date.now();
+  zeigeFrage();
+}
+
+function liveSetMsg(txt) {
+  const el = document.getElementById('live-msg');
+  if (el) el.textContent = txt;
+}
 
 </script>
 </body>
