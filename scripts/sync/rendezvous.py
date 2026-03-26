@@ -13,6 +13,7 @@ GEO_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 
 
 if not os.path.exists(GEO_PATH):
     print('[Bootstrap] geo.sqlite nicht gefunden, lade herunter...')
+    os.makedirs(os.path.dirname(GEO_PATH), exist_ok=True)
     urllib.request.urlretrieve(GEO_URL, GEO_PATH)
     print(f'[Bootstrap] Fertig ({os.path.getsize(GEO_PATH)//1024//1024} MB)')
 else:
