@@ -4075,25 +4075,53 @@ function zeigeDuellKat() {
 
   // P2P-Modus: duelStarteRunde übernimmt die Steuerung
   if (duel.verbunden) return; // wird von duelStarteRunde aufgerufen
-  // Simulations-Modus
+
+  // Simulations-Modus: Wechselspiel — Runden 2,4 wählt der VG
+  const vgWaehlt = [2, 4].includes(duellState.runde);
   const guestWarte = document.getElementById('duell-guest-warte');
   const katWeiter  = document.getElementById('duell-kat-weiter');
-  if (guestWarte) guestWarte.style.display = 'none';
-  if (katWeiter)  katWeiter.style.display = '';
-  document.querySelectorAll('#duell-kat-cards .kat-card').forEach(c => c.style.pointerEvents = '');
-  showScreen('screen-duell-kat');
 
-  // Runde 1: 28s, folgende Runden: 14s
-  const duellKatTimerSek = duellState.runde === 1 ? 28 : 14;
-  document.getElementById('duell-kat-auto-sek').textContent = duellKatTimerSek;
-  starteAutoWeiter(duellKatTimerSek, () => {
-    const karten = document.querySelectorAll('#duell-kat-cards .kat-card:not(.locked)');
-    if (karten.length > 0) {
-      const zuf = karten[Math.floor(Math.random() * karten.length)];
-      zuf.click();
+  if (vgWaehlt) {
+    // VG ist dran: Karten grau & gesperrt, Hinweis einblenden
+    document.querySelectorAll('#duell-kat-cards .kat-card').forEach(c => {
+      c.style.opacity = '0.4';
+      c.style.pointerEvents = 'none';
+      c.onclick = null;
+    });
+    if (katWeiter) katWeiter.style.display = 'none';
+    if (guestWarte) {
+      guestWarte.textContent = `⏳ ${duellState.gegner?.name || 'VG'} wählt die Kategorie…`;
+      guestWarte.style.display = 'block';
     }
-    duellKatGewaehlt();
-  }, 'duell-kat-auto-hinweis', 'duell-kat-auto-sek');
+    document.getElementById('duell-runden-label').textContent =
+      `Runde ${duellState.runde} von 5 · ${duellState.gegner?.name || 'VG'} wählt`;
+    showScreen('screen-duell-kat');
+    // VG wählt nach 2–3s automatisch
+    setTimeout(() => {
+      const karten = document.querySelectorAll('#duell-kat-cards .kat-card:not(.locked)');
+      const zuf = karten[Math.floor(Math.random() * karten.length)];
+      if (zuf) { zuf.style.opacity = '1'; zuf.classList.add('selected'); }
+      duellState.gewaehlteKat = shuffled[Math.floor(Math.random() * shuffled.length)];
+      duellKatGewaehlt();
+    }, 2000 + Math.random() * 1000);
+  } else {
+    // Spieler ist dran: normale Auswahl
+    if (guestWarte) guestWarte.style.display = 'none';
+    if (katWeiter)  katWeiter.style.display = '';
+    document.querySelectorAll('#duell-kat-cards .kat-card').forEach(c => c.style.pointerEvents = '');
+    showScreen('screen-duell-kat');
+    // Runde 1: 28s, folgende Runden: 14s
+    const duellKatTimerSek = duellState.runde === 1 ? 28 : 14;
+    document.getElementById('duell-kat-auto-sek').textContent = duellKatTimerSek;
+    starteAutoWeiter(duellKatTimerSek, () => {
+      const karten = document.querySelectorAll('#duell-kat-cards .kat-card:not(.locked)');
+      if (karten.length > 0) {
+        const zuf = karten[Math.floor(Math.random() * karten.length)];
+        zuf.click();
+      }
+      duellKatGewaehlt();
+    }, 'duell-kat-auto-hinweis', 'duell-kat-auto-sek');
+  }
 }
 
 function duellKatGewaehlt() {
