@@ -5526,9 +5526,15 @@ function duelRundeAbgeschlossen() {
     duelZeigeVergleich();
   } else {
     // Fallback: nach 30s Gegner-Ergebnis annehmen (Deadlock-Schutz)
+    const warteFuerRunde = duel.runde;
     if (duel.rundeWartTimer) clearTimeout(duel.rundeWartTimer);
     duel.rundeWartTimer = setTimeout(() => {
       duel.rundeWartTimer = null;
+      // Staleness-Check: Runde hat sich geändert → Timer ist veraltet
+      if (duel.runde !== warteFuerRunde) {
+        duelLog(`⚠️ Ergebnis-Timeout Runde ${warteFuerRunde} ignoriert — bereits Runde ${duel.runde}`);
+        return;
+      }
       if (!duel.oppRundeErgebnis) {
         duelLog('⚠️ Timeout: kein Ergebnis von ' + duel.gegnerName + ' — nehme 0/3 an');
         duel.oppRundeErgebnis = { richtig: 0, punkte: 0, zeitMs: 42000, ergebnisse: [] };
@@ -5581,8 +5587,34 @@ function duelZeigeVergleich() {
     btn.disabled = true;
     btn.style.opacity = '0.4';
     btn.textContent = '⏳ ' + (duel.runde < 5 ? `Runde ${duel.runde + 1} starten →` : 'Ergebnis anzeigen →');
+
+    // Wahlrecht SOFORT auswerten (vor dem 3s-Delay), damit der Timer
+    // sofort gesetzt wird und case 'kat' ihn zuverlässig canceln kann.
+    const ichDarfWeiter = duelIchWaehle(duel.runde + 1) || duel.runde >= 5;
+    const warteRunde    = duel.runde + 1;
+
+    if (!ichDarfWeiter) {
+      btn.textContent = `⏳ Warte — ${duel.gegnerName} wählt Runde ${warteRunde}…`;
+      duelLog(`Warte auf Kat-Wahl von ${duel.gegnerName} (Runde ${warteRunde}, meine Rolle: ${duel.rolle})`);
+      // Timer SOFORT setzen — nicht erst nach 3s, sonst kann 'kat' ihn nicht mehr canceln
+      if (duel.rundeWartTimer) clearTimeout(duel.rundeWartTimer);
+      duel.rundeWartTimer = setTimeout(() => {
+        duel.rundeWartTimer = null;
+        // Staleness-Check: falls duel.runde schon weitergelaufen ist, nichts tun
+        if (duel.runde >= warteRunde) {
+          duelLog(`⚠️ Kat-Timeout Runde ${warteRunde} ignoriert — Runde bereits ${duel.runde}`);
+          return;
+        }
+        duelLog(`⚠️ Kat-Timeout Runde ${warteRunde} — erzwinge eigene Auswahl`);
+        duel.runde = warteRunde;
+        duel.meRundeErgebnis  = null;
+        duel.oppRundeErgebnis = null;
+        duelZeigeKatWahl(warteRunde);
+      }, 30000);
+    }
+
+    // 3s Mindest-Delay nur für UI (Vergleich anzeigen)
     setTimeout(() => {
-      const ichDarfWeiter = duelIchWaehle(duel.runde + 1) || duel.runde >= 5;
       if (ichDarfWeiter) {
         btn.disabled = false;
         btn.style.opacity = '1';
@@ -5591,25 +5623,8 @@ function duelZeigeVergleich() {
         if (hinweis) hinweis.style.display = 'none';
         // Auto-weiter nach 5s — Spieler kann auch manuell früher klicken
         duel.rundeAutoTimer = setTimeout(() => { if (!btn.disabled) naechsteRunde(); }, 5000);
-      } else {
-        const warteRunde = duel.runde + 1;
-        btn.textContent = `⏳ Warte — ${duel.gegnerName} wählt Runde ${warteRunde}…`;
-        duelLog(`Warte auf Kat-Wahl von ${duel.gegnerName} (Runde ${warteRunde}, meine Rolle: ${duel.rolle})`);
-        // Fallback: nach 30s erzwinge eigene Kat-Auswahl (Deadlock-Schutz)
-        if (duel.rundeWartTimer) clearTimeout(duel.rundeWartTimer);
-        duel.rundeWartTimer = setTimeout(() => {
-          duel.rundeWartTimer = null;
-          duelLog(`⚠️ Kat-Timeout Runde ${warteRunde} — erzwinge eigene Auswahl`);
-          if (duel.runde < 5) {
-            duel.runde = warteRunde;
-            duel.meRundeErgebnis  = null;
-            duel.oppRundeErgebnis = null;
-            duelZeigeKatWahl(warteRunde);
-          } else {
-            duelZeigeEndergebnis();
-          }
-        }, 30000);
       }
+      // else: btn.textContent wurde bereits oben gesetzt
     }, 3000);
   }
 
