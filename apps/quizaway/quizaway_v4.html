@@ -5564,9 +5564,10 @@ function duelZeigeVergleich() {
         btn.disabled = false;
         btn.style.opacity = '1';
         btn.textContent = duel.runde < 5 ? `Runde ${duel.runde + 1} starten →` : 'Ergebnis anzeigen →';
-        // Kein AutoWeiter im P2P — Spieler klickt selbst weiter
         const hinweis = document.getElementById('runden-auto-hinweis');
         if (hinweis) hinweis.style.display = 'none';
+        // Auto-weiter nach 5s — Spieler kann auch manuell früher klicken
+        duel.rundeAutoTimer = setTimeout(() => { if (!btn.disabled) naechsteRunde(); }, 5000);
       } else {
         btn.textContent = `⏳ Warte — ${duel.gegnerName} wählt Runde ${duel.runde + 1}…`;
         // Kein Timer — wartender Spieler wartet auf 'kat'-Nachricht vom Gegner.
