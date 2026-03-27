@@ -7,3 +7,12 @@ services:
     envVars:
       - key: PORT
         value: 10000
+
+  - type: web
+    name: duellmaschine
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: bash -c "cd scripts/sync && python duellmaschine.py"
+    envVars:
+      - key: PORT
+        value: 10000
