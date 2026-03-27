@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Duel Debug Engine</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: monospace; background: #0d1117; color: #c9d1d9; font-size: 13px; padding: 8px; }
+
+    h1 { font-size: 15px; color: #58a6ff; margin-bottom: 8px; }
+
+    .grid { display: grid; grid-template-columns: 280px 1fr; gap: 8px; height: calc(100vh - 40px); }
+
+    /* ─── Linke Spalte ─── */
+    .left { display: flex; flex-direction: column; gap: 8px; overflow-y: auto; }
+
+    .card { background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 8px; }
+    .card h2 { font-size: 12px; color: #8b949e; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 6px; }
+
+    input[type=text], input[type=url] {
+      width: 100%; background: #0d1117; border: 1px solid #30363d; border-radius: 4px;
+      color: #c9d1d9; padding: 4px 6px; font-family: monospace; font-size: 12px; margin-bottom: 4px;
+    }
+    button {
+      width: 100%; background: #21262d; border: 1px solid #30363d; border-radius: 4px;
+      color: #c9d1d9; padding: 5px 8px; font-family: monospace; font-size: 12px;
+      cursor: pointer; margin-bottom: 4px;
+    }
+    button:hover { background: #30363d; }
+    button.primary { background: #1f6feb; border-color: #1f6feb; color: #fff; }
+    button.primary:hover { background: #388bfd; }
+    button.danger  { background: #b91c1c; border-color: #b91c1c; color: #fff; }
+    button.danger:hover  { background: #dc2626; }
+    button:disabled { opacity: 0.4; cursor: default; }
+
+    .kv { display: flex; flex-direction: column; gap: 3px; }
+    .kv-row { display: flex; justify-content: space-between; align-items: center; font-size: 12px; }
+    .kv-key { color: #8b949e; }
+    .kv-val { color: #e6edf3; font-weight: bold; max-width: 160px; text-align: right; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+    .badge { display: inline-block; padding: 1px 6px; border-radius: 10px; font-size: 11px; font-weight: bold; }
+    .badge-green  { background: #1a4a2e; color: #3fb950; }
+    .badge-yellow { background: #3d2e00; color: #d29922; }
+    .badge-red    { background: #4a1e1e; color: #f85149; }
+    .badge-blue   { background: #0d2c6e; color: #58a6ff; }
+    .badge-grey   { background: #21262d; color: #8b949e; }
+
+    .spieler-liste { display: flex; flex-direction: column; gap: 4px; }
+    .spieler-item { display: flex; justify-content: space-between; align-items: center;
+      background: #0d1117; border: 1px solid #30363d; border-radius: 4px; padding: 4px 6px; }
+    .spieler-item button { width: auto; margin: 0; padding: 2px 8px; font-size: 11px; }
+
+    /* ─── Rechte Spalte: Log ─── */
+    .log-wrap { display: flex; flex-direction: column; }
+    .log-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px; }
+    .log-header h2 { font-size: 12px; color: #8b949e; text-transform: uppercase; letter-spacing: 1px; }
+    #log {
+      flex: 1; background: #161b22; border: 1px solid #30363d; border-radius: 6px;
+      padding: 8px; overflow-y: auto; height: calc(100vh - 60px);
+    }
+    .log-line { padding: 1px 0; line-height: 1.5; white-space: pre-wrap; word-break: break-all; }
+    .log-time  { color: #484f58; margin-right: 6px; }
+    .log-sent  { color: #58a6ff; }   /* ausgehend */
+    .log-recv  { color: #3fb950; }   /* eingehend */
+    .log-err   { color: #f85149; }   /* Fehler */
+    .log-warn  { color: #d29922; }   /* Warnung */
+    .log-info  { color: #c9d1d9; }   /* neutral */
+    .log-state { color: #a371f7; }   /* Zustandsänderung */
+    .log-ping  { color: #484f58; }   /* Ping/Pong (dezent) */
+
+    @media (max-width: 600px) {
+      .grid { grid-template-columns: 1fr; height: auto; }
+      #log  { height: 50vh; }
+    }
+  </style>
+</head>
+<body>
+
+<h1>🔧 Duel Debug Engine</h1>
+
+<div class="grid">
+
+  <!-- ─── Linke Spalte ─── -->
+  <div class="left">
+
+    <!-- Konfiguration -->
+    <div class="card">
+      <h2>Konfiguration</h2>
+      <input type="text"  id="cfg-name"   placeholder="Spielername" value="Debug1">
+      <input type="url"   id="cfg-server" placeholder="Server-URL">
+      <button class="primary" id="btn-start" onclick="engineStart()">▶ Starten</button>
+      <button class="danger"  id="btn-stop"  onclick="engineStop()" disabled>■ Stoppen</button>
+    </div>
+
+    <!-- Mein Status -->
+    <div class="card">
+      <h2>Mein Status</h2>
+      <div class="kv">
+        <div class="kv-row"><span class="kv-key">Name</span>       <span class="kv-val" id="st-name">—</span></div>
+        <div class="kv-row"><span class="kv-key">ID</span>         <span class="kv-val" id="st-id">—</span></div>
+        <div class="kv-row"><span class="kv-key">Warteraum</span>  <span class="kv-val" id="st-wr">—</span></div>
+        <div class="kv-row"><span class="kv-key">Rolle</span>      <span class="kv-val" id="st-rolle">—</span></div>
+        <div class="kv-row"><span class="kv-key">navigator.onLine</span><span class="kv-val" id="st-online">—</span></div>
+      </div>
+    </div>
+
+    <!-- Gegner / Verbindung -->
+    <div class="card">
+      <h2>Verbindung</h2>
+      <div class="kv">
+        <div class="kv-row"><span class="kv-key">Gegner</span>        <span class="kv-val" id="cn-name">—</span></div>
+        <div class="kv-row"><span class="kv-key">RTCPeer</span>        <span class="kv-val" id="cn-pc">—</span></div>
+        <div class="kv-row"><span class="kv-key">DataChannel</span>    <span class="kv-val" id="cn-dc">—</span></div>
+        <div class="kv-row"><span class="kv-key">ICE</span>            <span class="kv-val" id="cn-ice">—</span></div>
+        <div class="kv-row"><span class="kv-key">Letzter Ping</span>   <span class="kv-val" id="cn-ping">—</span></div>
+        <div class="kv-row"><span class="kv-key">Letzter Pong</span>   <span class="kv-val" id="cn-pong">—</span></div>
+        <div class="kv-row"><span class="kv-key">RTT (ms)</span>       <span class="kv-val" id="cn-rtt">—</span></div>
+      </div>
+    </div>
+
+    <!-- Spieler im Warteraum -->
+    <div class="card">
+      <h2>Warteraum (<span id="wr-count">0</span>)</h2>
+      <div class="spieler-liste" id="wr-liste">
+        <span style="color:#484f58;font-size:11px">niemand online</span>
+      </div>
+    </div>
+
+    <!-- Manuelle Nachrichten -->
+    <div class="card">
+      <h2>Manuell senden</h2>
+      <button onclick="dcSend({type:'ping',ts:Date.now()})"    id="btn-ping">Ping senden</button>
+      <button onclick="dcSend({type:'hello',name:myName})"    id="btn-hello">Hello senden</button>
+      <button onclick="dcSend({type:'test',msg:'Testgruß ' + Date.now()})">Test-Nachricht</button>
+      <button onclick="verbindungTrennen()" class="danger"    id="btn-dc">Verbindung trennen</button>
+    </div>
+
+  </div>
+
+  <!-- ─── Rechte Spalte: Log ─── -->
+  <div class="log-wrap">
+    <div class="log-header">
+      <h2>Debug-Log</h2>
+      <button onclick="logClear()" style="width:auto;padding:2px 8px">Log leeren</button>
+    </div>
+    <div id="log"></div>
+  </div>
+
+</div>
+
+<script>
+// ════════════════════════════════════════════════════════════════════
+//  DUEL DEBUG ENGINE
+//  Isolierte P2P-Test-Seite — zeigt jeden Schritt im Klartext
+// ════════════════════════════════════════════════════════════════════
+
+// ─── Konfiguration ──────────────────────────────────────────────────
+const ICE_SERVERS = [
+  { urls: 'stun:stun.l.google.com:19302' },
+  { urls: 'turn:openrelay.metered.ca:443?transport=tcp',
+    username: 'openrelayproject', credential: 'openrelayproject' }
+];
+const POLL_INTERVALL  = 3000;   // ms zwischen Warteraum-Polls
+const PING_INTERVALL  = 4000;   // ms zwischen Pings (nach DC-Öffnung)
+const PING_TIMEOUT    = 12000;  // ms ohne Pong → Verbindung tot
+
+// ─── Zustand ────────────────────────────────────────────────────────
+let server     = '';
+let myName     = 'Debug1';
+let myId       = null;   // Warteraum-ID
+let gegnerName = null;
+let lobbyId    = null;   // Lobby-Angebots-ID
+let rolle      = null;   // 'host' | 'guest'
+
+let pc         = null;   // RTCPeerConnection
+let dc         = null;   // RTCDataChannel
+let pingTimer  = null;
+let pongTimer  = null;   // Watchdog: kein Pong → tot
+let pollTimer  = null;
+let statusTimer= null;
+
+let laufend    = false;
+
+// ─── Logging ────────────────────────────────────────────────────────
+function ts() {
+  const d = new Date();
+  return `${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}:${String(d.getSeconds()).padStart(2,'0')}.${String(d.getMilliseconds()).padStart(3,'0')}`;
+}
+
+function log(msg, cls = 'log-info') {
+  const el = document.getElementById('log');
+  const line = document.createElement('div');
+  line.className = 'log-line';
+  line.innerHTML = `<span class="log-time">${ts()}</span><span class="${cls}">${escHtml(msg)}</span>`;
+  el.appendChild(line);
+  el.scrollTop = el.scrollHeight;
+}
+
+function logClear() { document.getElementById('log').innerHTML = ''; }
+
+function escHtml(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+// Shorthand-Logger
+const L = {
+  info:  m => log(m, 'log-info'),
+  sent:  m => log('→ ' + m, 'log-sent'),
+  recv:  m => log('← ' + m, 'log-recv'),
+  err:   m => log('✗ ' + m, 'log-err'),
+  warn:  m => log('⚠ ' + m, 'log-warn'),
+  state: m => log('● ' + m, 'log-state'),
+  ping:  m => log(m, 'log-ping'),
+};
+
+// ─── Status-Panel aktualisieren ──────────────────────────────────────
+function stUpdate() {
+  set('st-name',  myName || '—');
+  set('st-id',    myId   || '—');
+  set('st-online', navigator.onLine ? badge('online','green') : badge('OFFLINE','red'));
+  set('st-wr', myId
+    ? badge('registriert','green')
+    : (laufend ? badge('warte…','yellow') : badge('—','grey')));
+  set('st-rolle', rolle ? badge(rolle, rolle === 'host' ? 'blue' : 'yellow') : '—');
+  set('cn-name', gegnerName || '—');
+  set('cn-pc',   pc  ? badge(pc.connectionState,  pcBadge(pc.connectionState))  : badge('—','grey'));
+  set('cn-dc',   dc  ? badge(dc.readyState,        dcBadge(dc.readyState))       : badge('—','grey'));
+  set('cn-ice',  pc  ? badge(pc.iceConnectionState, iceBadge(pc.iceConnectionState)) : badge('—','grey'));
+}
+
+function set(id, html) {
+  const el = document.getElementById(id);
+  if (el) el.innerHTML = html;
+}
+function badge(txt, color) { return `<span class="badge badge-${color}">${escHtml(txt)}</span>`; }
+function pcBadge(s)  { return {connected:'green',failed:'red',disconnected:'red',connecting:'yellow',new:'grey',closed:'grey'}[s]||'grey'; }
+function dcBadge(s)  { return {open:'green',closed:'red',closing:'yellow',connecting:'yellow'}[s]||'grey'; }
+function iceBadge(s) { return {connected:'green',completed:'green',failed:'red',disconnected:'red',checking:'yellow',new:'grey',closed:'grey'}[s]||'grey'; }
+
+// ─── HTTP-Hilfe ──────────────────────────────────────────────────────
+async function apiFetch(path, opts = {}) {
+  const url = server + path;
+  L.sent(`HTTP ${opts.method||'GET'} ${path}${opts.body ? '  body='+opts.body : ''}`);
+  const res = await fetch(url, {
+    headers: { 'Content-Type': 'application/json' },
+    ...opts
+  });
+  const text = await res.text();
+  let data;
+  try { data = JSON.parse(text); } catch { data = { _raw: text }; }
+  L.recv(`HTTP ${res.status}  ${JSON.stringify(data)}`);
+  return { status: res.status, data };
+}
+
+// ─── Start / Stop ────────────────────────────────────────────────────
+function engineStart() {
+  server  = document.getElementById('cfg-server').value.trim().replace(/\/$/, '')
+            || location.origin;
+  myName  = document.getElementById('cfg-name').value.trim() || 'Debug';
+
+  laufend = true;
+  document.getElementById('btn-start').disabled = true;
+  document.getElementById('btn-stop').disabled  = false;
+
+  L.state(`Engine gestartet — Server: ${server}  Name: ${myName}`);
+  stUpdate();
+  warteraumBetreten();
+
+  // Netzwerk-Events
+  window.addEventListener('online',  onlineHandler);
+  window.addEventListener('offline', onlineHandler);
+  document.addEventListener('visibilitychange', visibilityHandler);
+}
+
+function engineStop() {
+  laufend = false;
+  document.getElementById('btn-start').disabled = false;
+  document.getElementById('btn-stop').disabled  = true;
+  warteraumAustragen();
+  pcAufraeumen();
+  clearInterval(pollTimer);  pollTimer  = null;
+  clearInterval(pingTimer);  pingTimer  = null;
+  clearTimeout(pongTimer);   pongTimer  = null;
+  clearInterval(statusTimer); statusTimer = null;
+  window.removeEventListener('online',  onlineHandler);
+  window.removeEventListener('offline', onlineHandler);
+  document.removeEventListener('visibilitychange', visibilityHandler);
+  L.state('Engine gestoppt.');
+  stUpdate();
+}
+
+function onlineHandler() {
+  L.warn(`navigator.onLine = ${navigator.onLine}`);
+  stUpdate();
+}
+
+function visibilityHandler() {
+  L.info(`visibilityState = ${document.visibilityState}`);
+}
+
+// ─── Warteraum ───────────────────────────────────────────────────────
+async function warteraumBetreten() {
+  if (!laufend) return;
+  L.state('Warteraum betreten…');
+  try {
+    const { status, data } = await apiFetch('/warteraum/betreten', {
+      method: 'POST',
+      body: JSON.stringify({ name: myName, liga: 'bronze' })
+    });
+    if (status === 200 && data.id) {
+      myId = data.id;
+      L.state(`Im Warteraum registriert — ID: ${myId}`);
+      stUpdate();
+      pollStarten();
+      statusPollStarten();
+    } else {
+      L.err(`Betreten fehlgeschlagen: ${JSON.stringify(data)}`);
+      setTimeout(warteraumBetreten, 5000);
+    }
+  } catch (e) {
+    L.err(`Betreten Exception: ${e.message}`);
+    setTimeout(warteraumBetreten, 5000);
+  }
+}
+
+function warteraumAustragen() {
+  if (!myId) return;
+  const id = myId;
+  myId = null;
+  L.state(`Warteraum verlassen (ID: ${id})`);
+  const blob = new Blob([JSON.stringify({ id })], { type: 'application/json' });
+  navigator.sendBeacon(server + '/warteraum/verlassen', blob);
+  stUpdate();
+}
+
+// ─── Polling: Warteraum-Liste ────────────────────────────────────────
+function pollStarten() {
+  clearInterval(pollTimer);
+  pollTimer = setInterval(warteraumPoll, POLL_INTERVALL);
+  warteraumPoll(); // sofort
+}
+
+async function warteraumPoll() {
+  if (!laufend || dc?.readyState === 'open') return;
+  try {
+    const { status, data } = await apiFetch('/warteraum/liste');
+    if (status !== 200) { L.err(`Liste: HTTP ${status}`); return; }
+    const anderen = (data.spieler || []).filter(s => s.id !== myId);
+    updateWrListe(anderen);
+  } catch (e) {
+    L.err(`Liste Exception: ${e.message}`);
+  }
+}
+
+function updateWrListe(spieler) {
+  const el = document.getElementById('wr-liste');
+  document.getElementById('wr-count').textContent = spieler.length;
+  if (!spieler.length) {
+    el.innerHTML = '<span style="color:#484f58;font-size:11px">niemand online</span>';
+    return;
+  }
+  el.innerHTML = '';
+  spieler.forEach(s => {
+    const seit = Math.floor((Date.now() - s.eingetreten) / 1000);
+    const row = document.createElement('div');
+    row.className = 'spieler-item';
+    row.innerHTML = `
+      <span>${escHtml(s.name)} <span style="color:#484f58">${seit}s</span></span>
+      <button onclick="warteraumVerbinden('${s.id}','${escHtml(s.name)}')">▶ verbinden</button>`;
+    el.appendChild(row);
+  });
+}
+
+// ─── Polling: Eigener Status (Herausforderung?) ──────────────────────
+function statusPollStarten() {
+  clearInterval(statusTimer);
+  statusTimer = setInterval(statusPoll, POLL_INTERVALL + 500); // versetzt zu Liste
+}
+
+async function statusPoll() {
+  if (!laufend || !myId || dc?.readyState === 'open') return;
+  try {
+    const { status, data } = await apiFetch('/warteraum/status/' + myId);
+    if (status === 404) {
+      L.warn(`Status 404 — Server kennt ID ${myId} nicht mehr → neu anmelden`);
+      myId = null; stUpdate();
+      clearInterval(statusTimer);
+      clearInterval(pollTimer);
+      setTimeout(warteraumBetreten, 1000);
+      return;
+    }
+    if (data.state) {
+      L.info(`Mein Warteraum-State: ${data.state}${data.herausforderung ? '  HF:'+JSON.stringify(data.herausforderung) : ''}`);
+    }
+    if (data.herausforderung?.angebots_id) {
+      L.state(`Herausforderung empfangen! → als Guest beitreten`);
+      clearInterval(statusTimer);
+      clearInterval(pollTimer);
+      rolle = 'guest';
+      stUpdate();
+      guestVerbinden(data.herausforderung);
+    }
+  } catch (e) {
+    L.err(`Status-Poll Exception: ${e.message}`);
+  }
+}
+
+// ─── Verbindung als Host ─────────────────────────────────────────────
+async function warteraumVerbinden(gegnerIdParam, gegnerNameParam) {
+  if (!myId) { L.err('Nicht im Warteraum (keine myId)'); return; }
+  L.state(`Versuche mit ${gegnerNameParam} (${gegnerIdParam}) zu verbinden…`);
+  gegnerName = gegnerNameParam;
+  stUpdate();
+
+  try {
+    // 1. Reservieren
+    const res1 = await apiFetch('/warteraum/reservieren', {
+      method: 'POST',
+      body: JSON.stringify({ meine_id: myId, gegner_id: gegnerIdParam, host_name: myName })
+    });
+    if (res1.status !== 200) {
+      L.err(`Reservieren fehlgeschlagen: HTTP ${res1.status}`);
+      gegnerName = null; stUpdate(); return;
+    }
+    L.state(`Reserviert — Rolle: ${res1.data.rolle}`);
+
+    if (res1.data.rolle === 'guest') {
+      // Wurde selbst herausgefordert → als Guest behandeln
+      rolle = 'guest'; stUpdate();
+      if (res1.data.herausforderung?.angebots_id) {
+        guestVerbinden(res1.data.herausforderung);
+      } else {
+        L.err('Guest-Herausforderung ohne angebots_id');
+      }
+      return;
+    }
+
+    // Ich bin Host
+    rolle = 'host'; stUpdate();
+
+    // 2. Lobby-Angebot erstellen
+    const res2 = await apiFetch('/lobby/create', {
+      method: 'POST',
+      body: JSON.stringify({ schwierigkeit: 'M', host_name: myName })
+    });
+    if (res2.status !== 200) { L.err(`Lobby create fehlgeschlagen`); return; }
+    lobbyId = res2.data.id;
+    L.state(`Lobby erstellt — Angebots-ID: ${lobbyId}`);
+
+    // 3. Herausforderung beim Gegner hinterlegen
+    await apiFetch('/warteraum/herausforderung/update', {
+      method: 'POST',
+      body: JSON.stringify({ gegner_id: gegnerIdParam, angebots_id: lobbyId, schwierigkeit: 'M' })
+    });
+
+    // 4. WebRTC als Host aufbauen
+    await hostWebRTC(lobbyId);
+
+  } catch (e) {
+    L.err(`Verbinden Exception: ${e.message}`);
+    gegnerName = null; rolle = null; stUpdate();
+  }
+}
+
+// ─── WebRTC Host ─────────────────────────────────────────────────────
+async function hostWebRTC(aid) {
+  L.state('WebRTC: Host-Seite aufbauen…');
+  pcAufraeumen();
+  pc = new RTCPeerConnection({ iceServers: ICE_SERVERS });
+  pcEvents(pc, 'HOST');
+
+  // DataChannel anlegen
+  dc = pc.createDataChannel('duel', { ordered: true });
+  dcEvents(dc);
+
+  // Offer erstellen
+  const offer = await pc.createOffer();
+  await pc.setLocalDescription(offer);
+  L.state('Offer erstellt, warte auf ICE-Gathering…');
+
+  // ICE-Gathering abwarten (max 5s)
+  await new Promise(resolve => {
+    if (pc.iceGatheringState === 'complete') { resolve(); return; }
+    const check = setInterval(() => {
+      if (pc.iceGatheringState === 'complete') { clearInterval(check); resolve(); }
+    }, 200);
+    setTimeout(() => { clearInterval(check); resolve(); }, 5000);
+  });
+  L.state(`ICE-Gathering fertig (${pc.iceGatheringState})`);
+
+  // Offer hochladen
+  await apiFetch('/offer/' + aid, {
+    method: 'POST',
+    body: JSON.stringify({ sdp: pc.localDescription })
+  });
+  L.state('Offer hochgeladen — warte auf Answer…');
+
+  // Answer pollen (max 30s)
+  let answer = null;
+  for (let i = 0; i < 30; i++) {
+    await sleep(1000);
+    const res = await apiFetch('/answer/' + aid);
+    if (res.data?.answer) { answer = res.data.answer; break; }
+    L.info(`Warte auf Answer… (${i+1}/30)`);
+  }
+  if (!answer) { L.err('Kein Answer innerhalb 30s → Abbruch'); return; }
+
+  L.state('Answer empfangen — setRemoteDescription…');
+  await pc.setRemoteDescription(new RTCSessionDescription(answer));
+  L.state('RemoteDescription gesetzt — warte auf DataChannel-Öffnung');
+  stUpdate();
+}
+
+// ─── WebRTC Guest ─────────────────────────────────────────────────────
+async function guestVerbinden(hf) {
+  L.state(`Guest: Lobby-Angebot ${hf.angebots_id} annehmen…`);
+  clearInterval(pollTimer);
+  clearInterval(statusTimer);
+
+  // Lobby beitreten
+  const res = await apiFetch('/lobby/join/' + hf.angebots_id, {
+    method: 'POST',
+    body: JSON.stringify({ guest_name: myName })
+  });
+  if (res.status !== 200) { L.err(`Lobby join fehlgeschlagen: HTTP ${res.status}`); return; }
+  gegnerName = res.data.host_name || '?';
+  L.state(`Lobby beigetreten — Host: ${gegnerName}`);
+  stUpdate();
+
+  // Offer laden (max 20s)
+  let offer = null;
+  for (let i = 0; i < 20; i++) {
+    await sleep(1000);
+    const r = await apiFetch('/lobby/offer/' + hf.angebots_id);
+    if (r.data?.offer) { offer = r.data.offer; break; }
+    L.info(`Warte auf Offer… (${i+1}/20)`);
+  }
+  if (!offer) { L.err('Kein Offer innerhalb 20s → Abbruch'); return; }
+
+  L.state('Offer empfangen — WebRTC Guest-Seite aufbauen…');
+  pcAufraeumen();
+  pc = new RTCPeerConnection({ iceServers: ICE_SERVERS });
+  pcEvents(pc, 'GUEST');
+
+  // DataChannel empfangen
+  pc.ondatachannel = e => {
+    L.state('DataChannel empfangen (ondatachannel)');
+    dc = e.channel;
+    dcEvents(dc);
+    stUpdate();
+  };
+
+  await pc.setRemoteDescription(new RTCSessionDescription(offer));
+  const answer = await pc.createAnswer();
+  await pc.setLocalDescription(answer);
+  L.state('Answer erstellt, warte auf ICE-Gathering…');
+
+  await new Promise(resolve => {
+    if (pc.iceGatheringState === 'complete') { resolve(); return; }
+    const check = setInterval(() => {
+      if (pc.iceGatheringState === 'complete') { clearInterval(check); resolve(); }
+    }, 200);
+    setTimeout(() => { clearInterval(check); resolve(); }, 5000);
+  });
+  L.state(`ICE-Gathering fertig (${pc.iceGatheringState})`);
+
+  // Answer hochladen
+  await apiFetch('/answer/' + hf.angebots_id, {
+    method: 'POST',
+    body: JSON.stringify({ sdp: pc.localDescription })
+  });
+  L.state('Answer hochgeladen — warte auf DataChannel-Öffnung');
+  stUpdate();
+}
+
+// ─── RTCPeerConnection Events ─────────────────────────────────────────
+function pcEvents(p, label) {
+  p.onconnectionstatechange = () => {
+    L.state(`[${label}] connectionState → ${p.connectionState}`);
+    stUpdate();
+  };
+  p.oniceconnectionstatechange = () => {
+    L.state(`[${label}] iceConnectionState → ${p.iceConnectionState}`);
+    stUpdate();
+  };
+  p.onicegatheringstatechange = () => {
+    L.info(`[${label}] iceGatheringState → ${p.iceGatheringState}`);
+  };
+  p.onicecandidate = e => {
+    if (e.candidate) {
+      L.info(`[${label}] ICE-Kandidat: ${e.candidate.type} / ${e.candidate.protocol}`);
+    } else {
+      L.state(`[${label}] ICE-Gathering abgeschlossen (null-Kandidat)`);
+    }
+  };
+  p.onsignalingstatechange = () => {
+    L.info(`[${label}] signalingState → ${p.signalingState}`);
+  };
+}
+
+// ─── DataChannel Events ───────────────────────────────────────────────
+function dcEvents(chan) {
+  chan.onopen = () => {
+    L.state('DataChannel GEÖFFNET ✓');
+    stUpdate();
+    // Polling kann jetzt stoppen
+    clearInterval(pollTimer);  pollTimer  = null;
+    clearInterval(statusTimer); statusTimer = null;
+    // Hello senden
+    dcSend({ type: 'hello', name: myName });
+    // Ping-Loop starten
+    pingStarten();
+  };
+  chan.onclose = () => {
+    L.state('DataChannel GESCHLOSSEN');
+    stUpdate();
+    pingStoppen();
+  };
+  chan.onerror = e => {
+    L.err(`DataChannel Fehler: ${e.message || JSON.stringify(e)}`);
+  };
+  chan.onmessage = e => {
+    let msg;
+    try { msg = JSON.parse(e.data); } catch { L.err('Ungültige JSON-Nachricht: ' + e.data); return; }
+
+    if (msg.type === 'ping') {
+      L.ping(`← ping (ts=${msg.ts})  → sende pong`);
+      set('cn-ping', new Date().toLocaleTimeString());
+      dcSend({ type: 'pong', ts: msg.ts, ts2: Date.now() });
+      return;
+    }
+    if (msg.type === 'pong') {
+      const rtt = Date.now() - msg.ts;
+      L.ping(`← pong  RTT=${rtt}ms`);
+      set('cn-pong', new Date().toLocaleTimeString());
+      set('cn-rtt',  rtt + 'ms');
+      // Watchdog zurücksetzen
+      clearTimeout(pongTimer);
+      pongWatchdog();
+      return;
+    }
+    if (msg.type === 'hello') {
+      L.recv(`hello — Gegner: ${msg.name}`);
+      gegnerName = msg.name;
+      stUpdate();
+      return;
+    }
+    // Alle anderen Nachrichten
+    L.recv(`${msg.type}  ${JSON.stringify(msg)}`);
+  };
+}
+
+// ─── DataChannel: Senden ─────────────────────────────────────────────
+function dcSend(msg) {
+  if (!dc || dc.readyState !== 'open') {
+    L.err(`dcSend: DataChannel nicht offen (state=${dc?.readyState||'null'})`);
+    return;
+  }
+  L.sent(`${msg.type}  ${JSON.stringify(msg)}`);
+  dc.send(JSON.stringify(msg));
+}
+
+// ─── Ping/Pong Heartbeat ─────────────────────────────────────────────
+function pingStarten() {
+  clearInterval(pingTimer);
+  pingTimer = setInterval(() => {
+    if (!dc || dc.readyState !== 'open') return;
+    const ts = Date.now();
+    L.ping(`→ ping (ts=${ts})`);
+    set('cn-ping', new Date().toLocaleTimeString());
+    dcSend({ type: 'ping', ts });
+  }, PING_INTERVALL);
+  pongWatchdog();
+}
+
+function pongWatchdog() {
+  clearTimeout(pongTimer);
+  pongTimer = setTimeout(() => {
+    L.err(`Kein Pong seit ${PING_TIMEOUT}ms!`);
+    if (navigator.onLine) {
+      L.err('navigator.onLine=true → Gegner ist weg (Szenario 1)');
+    } else {
+      L.err('navigator.onLine=false → Ich selbst bin offline (Szenario 2)');
+    }
+    stUpdate();
+  }, PING_TIMEOUT);
+}
+
+function pongStoppen() {
+  clearInterval(pingTimer); pingTimer = null;
+  clearTimeout(pongTimer);  pongTimer = null;
+}
+
+function pingStoppen() { pongStoppen(); }
+
+// ─── Aufräumen ────────────────────────────────────────────────────────
+function verbindungTrennen() {
+  L.state('Verbindung manuell getrennt');
+  pcAufraeumen();
+  rolle      = null;
+  gegnerName = null;
+  stUpdate();
+  // Zurück in den Warteraum
+  if (laufend) {
+    pollStarten();
+    statusPollStarten();
+  }
+}
+
+function pcAufraeumen() {
+  pingStoppen();
+  if (dc) { try { dc.close(); } catch {} dc = null; }
+  if (pc) { try { pc.close(); } catch {} pc = null; }
+  stUpdate();
+}
+
+// ─── Hilfsfunktionen ─────────────────────────────────────────────────
+function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+
+// ─── Init ────────────────────────────────────────────────────────────
+// Server-URL vorbelegen
+document.getElementById('cfg-server').value =
+  (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1')
+    ? location.origin
+    : `http://${location.hostname}:${location.port || 8080}`;
+
+// Online-Status initiali
+set('st-online', navigator.onLine ? badge('online','green') : badge('OFFLINE','red'));
+
+// beforeunload: Warteraum verlassen
+window.addEventListener('beforeunload', () => {
+  if (myId) {
+    const blob = new Blob([JSON.stringify({ id: myId })], { type: 'application/json' });
+    navigator.sendBeacon(server + '/warteraum/verlassen', blob);
+  }
+});
+
+L.info('Duel Debug Engine geladen. Server-URL prüfen und ▶ Starten klicken.');
+</script>
+</body>
+</html>
