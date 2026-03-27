@@ -2762,6 +2762,7 @@ const warteraum = {
   _joining:          false,  // Guard: verhindert Mehrfachaufruf von warteraumHerausforderungAnnehmen
   _registrierung:    false,  // Guard: verhindert parallele warteraumBetreten()-Aufrufe
   _visibilityHandler: null,  // visibilitychange-Handler (für removeEventListener)
+  _backgroundedAt:   null,   // Zeitstempel wenn Tab in Hintergrund ging
 };
 
 function warteraumInit() {
@@ -2794,10 +2795,22 @@ function warteraumInit() {
     warteraumPoll();
   }, 3000);
 
-  // Wenn Tab aus Background zurückkommt → sofort nachregistrieren falls nötig
+  // Visibility-Handler: Hintergrundzeit aus dem Countdown herausrechnen
+  // + Nachregistrierung falls Tab eingefroren war
   warteraum._visibilityHandler = () => {
-    if (document.visibilityState === 'visible' && !warteraum.meineId) {
-      warteraumBetreten();
+    if (document.visibilityState === 'hidden') {
+      // Tab geht in Hintergrund → Zeitstempel merken
+      warteraum._backgroundedAt = Date.now();
+    } else if (document.visibilityState === 'visible') {
+      // Tab kommt zurück → Hintergrundzeit auf eingetreten aufschlagen
+      // damit der Countdown nicht weitergelaufen ist
+      if (warteraum._backgroundedAt) {
+        const bgMs = Date.now() - warteraum._backgroundedAt;
+        warteraum.eingetreten += bgMs;
+        warteraum._backgroundedAt = null;
+      }
+      // Nachregistrierung falls betreten() während Background fehlschlug
+      if (!warteraum.meineId) warteraumBetreten();
     }
   };
   document.removeEventListener('visibilitychange', warteraum._visibilityHandler);
