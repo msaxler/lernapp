@@ -1623,8 +1623,11 @@ function zeigeSpielende() {
   if (duel.pingTimer) { clearInterval(duel.pingTimer); duel.pingTimer = null; }
   showScreen('screen-ende');
 
+  // Sieger-Logik: Punkte → Zeit (weniger = schneller) → HOST-Vorteil (Gleichstand)
+  // Muss exakt dem Tiebreaker von ichWaehle(5) entsprechen
   const ichGewinne = duel.meGesamt > duel.oppGesamt ||
-    (duel.meGesamt === duel.oppGesamt && duel.meZeitGesamt <= duel.oppZeitGesamt);
+    (duel.meGesamt === duel.oppGesamt && duel.meZeitGesamt < duel.oppZeitGesamt) ||
+    (duel.meGesamt === duel.oppGesamt && duel.meZeitGesamt === duel.oppZeitGesamt && duel.rolle === 'host');
 
   el('ende-emoji').textContent  = ichGewinne ? '🏆' : '😔';
   el('ende-titel').textContent  = ichGewinne ? 'Du gewinnst!' : `${duel.gegnerName} gewinnt`;
