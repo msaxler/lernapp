@@ -884,12 +884,25 @@ async function warteraumEntscheideP2P(id, spieler) {
 
     if (r.status === 409) {
       warteraum._entscheide = false;
-      log('409 Konflikt — versuche anderen Spieler', 'warn');
-      // Einmal neu versuchen mit anderem Spieler
+      log('409 Konflikt — prüfe eigenen Status', 'warn');
+      // Zuerst eigenen Status prüfen: vielleicht hat uns der andere gerade herausgefordert
+      try {
+        if (warteraum.meineId) {
+          const rs   = await apiFetch('/warteraum/status/' + warteraum.meineId);
+          const ds   = await rs.json();
+          if (ds.herausforderung?.angebots_id) {
+            log('Herausforderung im eigenen Status gefunden → als Guest beitreten', 'ok');
+            warteraumStopTimers();
+            warteraumHerausforderungAnnehmen(ds.herausforderung);
+            return;
+          }
+        }
+      } catch(e) { /* ignorieren */ }
+      // Dann andere verfügbare Spieler versuchen (inkl. ursprünglichem Ziel — er könnte jetzt HOST sein)
       try {
         const r2   = await apiFetch('/warteraum/liste');
         const d2   = await r2.json();
-        const andere = (d2.spieler || []).filter(s => s.id !== warteraum.meineId && s.id !== id);
+        const andere = (d2.spieler || []).filter(s => s.id !== warteraum.meineId);
         if (andere.length > 0) {
           const zuf = andere[Math.floor(Math.random() * andere.length)];
           warteraumEntscheideP2P(zuf.id, zuf);
