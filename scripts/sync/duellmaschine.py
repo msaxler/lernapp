@@ -383,6 +383,70 @@ class Handler(BaseHTTPRequestHandler):
 
             self.send_json(200, {'rolle': 'host'}); return
 
+        # POST /warteraum/match  { meine_id }
+        # Serverseitige atomare Paarung — kein Client-seitiger Race bei vielen Spielern.
+        # Wählt den ältesten FREE-Spieler als Gegner (deterministisch).
+        if p == '/warteraum/match':
+            meine_id = body.get('meine_id')
+            if not meine_id:
+                self.send_json(400, {'error': 'ID fehlt'}); return
+
+            with warteraum_lock:
+                # Schritt 1: Bin ich selbst bereits herausgefordert?
+                if meine_id in warteraum:
+                    hf = warteraum[meine_id].get('herausforderung')
+                    if hf:
+                        cas(meine_id, 'CLAIMED', 'PAIRED')
+                        self.send_json(200, {'rolle': 'guest', 'herausforderung': hf}); return
+
+                if meine_id not in warteraum:
+                    self.send_json(204, {'error': 'Nicht im Warteraum'}); return
+
+                host_name = warteraum[meine_id]['name']
+
+                # Schritt 2: Ältesten FREE-Spieler suchen (deterministisch, kein Random)
+                freie = sorted(
+                    [v for k, v in warteraum.items()
+                     if k != meine_id and v['state'] == 'FREE'],
+                    key=lambda x: x['eingetreten']
+                )
+                if not freie:
+                    self.send_json(204, {'error': 'Niemand verfügbar'}); return
+
+                gegner    = freie[0]
+                gegner_id = gegner['id']
+
+                # CAS: Gegner FREE → CLAIMED
+                if not cas(gegner_id, 'FREE', 'CLAIMED'):
+                    self.send_json(204, {'error': 'Race — retry'}); return
+
+                # CAS: Ich FREE → CLAIMED
+                if not cas(meine_id, 'FREE', 'CLAIMED'):
+                    cas(gegner_id, 'CLAIMED', 'FREE')          # Rollback
+                    hf = warteraum[meine_id].get('herausforderung')
+                    if hf:
+                        cas(meine_id, 'CLAIMED', 'PAIRED')
+                        self.send_json(200, {'rolle': 'guest', 'herausforderung': hf}); return
+                    self.send_json(204, {'error': 'Eigener Status geändert'}); return
+
+                # Beide CLAIMED → Herausforderung → PAIRED
+                warteraum[gegner_id]['herausforderung'] = {
+                    'angebots_id':   None,
+                    'schwierigkeit': 'M',
+                    'host_name':     host_name
+                }
+                cas(gegner_id, 'CLAIMED', 'PAIRED')
+                cas(meine_id,  'CLAIMED', 'PAIRED')
+
+                print(f"  Match: {host_name}({meine_id})=HOST ↔ {gegner['name']}({gegner_id})=GUEST")
+                event_add('verbunden', f'{host_name} ↔ {gegner["name"]}', 'p2p')
+
+            self.send_json(200, {
+                'rolle':       'host',
+                'gegner_id':   gegner_id,
+                'gegner_name': gegner['name']
+            }); return
+
         # POST /warteraum/herausforderung/update  { gegner_id, angebots_id, schwierigkeit }
         if p == '/warteraum/herausforderung/update':
             gegner_id   = body.get('gegner_id')

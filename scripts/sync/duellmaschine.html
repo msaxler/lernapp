@@ -873,28 +873,64 @@ async function warteraumAutoAuswahl() {
     }
   } catch(e) { /* ignorieren */ }
 
-  // Andere Spieler suchen — bis zu 3 Versuche mit je 2s Pause
-  // (Puffer für Spieler die erst kurz nach dem Timer-Ablauf beitreten)
+  // Serverseitige atomare Paarung — kein Client-seitiger Race bei vielen gleichzeitigen Spielern.
+  // /warteraum/match wählt deterministisch den ältesten FREE-Spieler und paart atomar.
   for (let versuch = 0; versuch < 3; versuch++) {
-    // Prüfen ob Poll-Loop inzwischen reagiert hat
     if (!warteraum.meineId || warteraum._joining) return;
 
     try {
-      const r2   = await apiFetch('/warteraum/liste');
-      const data = await r2.json();
-      const andere = (data.spieler || []).filter(s => s.id !== warteraum.meineId);
-      if (andere.length > 0) {
-        const zuf = andere[Math.floor(Math.random() * andere.length)];
-        warteraumWaehle(zuf.id, zuf, 'timer');
+      const r2 = await apiFetch('/warteraum/match', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ meine_id: warteraum.meineId })
+      });
+
+      if (r2.status === 200) {
+        const data = await r2.json();
+        warteraumStopTimers();
+
+        if (data.rolle === 'host') {
+          log('Rolle: HOST', 'ok');
+          duel.rolle      = 'host';
+          duel.gegnerName = data.gegner_name;
+          showScreen('screen-verbinden');
+          el('verb-titel').textContent = 'Verbinde mit ' + duel.gegnerName + '…';
+          const meinId = warteraum.meineId;
+          warteraumAustragen();
+          await alsHostVerbinden(data.gegner_id);
+
+        } else {
+          // GUEST: Eintrag NICHT sofort löschen! HOST braucht ihn für /herausforderung/update.
+          log('Rolle: GUEST', 'ok');
+          duel.rolle      = 'guest';
+          duel.gegnerName = data.herausforderung?.host_name || 'Host';
+          showScreen('screen-verbinden');
+          el('verb-titel').textContent = 'Verbinde mit ' + duel.gegnerName + '…';
+          let hf          = data.herausforderung;
+          const meinId    = warteraum.meineId;   // sichern, aber NOCH NICHT löschen
+          for (let i = 0; i < 15 && !hf?.angebots_id; i++) {
+            await new Promise(r => setTimeout(r, 800));
+            const r3 = await apiFetch('/warteraum/status/' + meinId).catch(() => null);
+            if (r3) { const d3 = await r3.json(); if (d3.herausforderung?.angebots_id) hf = d3.herausforderung; }
+          }
+          warteraumAustragen();   // Jetzt löschen — HOST hat angebots_id gesetzt (oder Timeout)
+          if (hf?.angebots_id) {
+            await alsGuestVerbinden(hf.angebots_id);
+          } else {
+            eventReport('fallback', 'vg');
+            gegenVirtuell();
+          }
+        }
         return;
       }
+      // 204 = niemand verfügbar oder Race — kurz warten und nochmal versuchen
     } catch(e) { /* ignorieren */ }
 
     if (versuch < 2) {
       const restSek = (2 - versuch) * 2;
       log(`Niemand online — noch ${restSek}s warten…`, 'info');
       await new Promise(res => setTimeout(res, 2000));
-      // Nach Wartezeit eigenen Status nochmal prüfen — vielleicht Herausforderung eingegangen
+      // Status nach Wartezeit prüfen — vielleicht Herausforderung eingegangen
       if (warteraum.meineId && !warteraum._joining) {
         try {
           const rs = await apiFetch('/warteraum/status/' + warteraum.meineId);
@@ -909,7 +945,6 @@ async function warteraumAutoAuswahl() {
     }
   }
 
-  // Letzte Prüfung: Poll-Loop könnte während der Wartezeit gepaart haben
   if (!warteraum.meineId || warteraum._joining) return;
   eventFeedStop();
   eventReport('fallback', 'vg');
@@ -978,20 +1013,21 @@ async function warteraumEntscheideP2P(id, spieler) {
       return;
     }
 
-    const meinId = warteraum.meineId;  // vor austragen sichern!
-    warteraumAustragen();
-
     if (data.rolle === 'guest') {
+      // GUEST: Eintrag NICHT sofort löschen! HOST braucht ihn für /herausforderung/update.
       log('Rolle: GUEST', 'ok');
       duel.rolle      = 'guest';
       duel.gegnerName = spieler.name;
+      showScreen('screen-verbinden');
+      el('verb-titel').textContent = 'Verbinde mit ' + duel.gegnerName + '…';
+      const meinId = warteraum.meineId;   // sichern, aber NOCH NICHT löschen
       let hf = data.herausforderung;
-      // Auf angebots_id warten (gesicherte ID verwenden, da meineId jetzt null)
-      for (let i = 0; i < 12 && !hf?.angebots_id; i++) {
+      for (let i = 0; i < 15 && !hf?.angebots_id; i++) {
         await new Promise(r => setTimeout(r, 800));
         const r3 = await apiFetch('/warteraum/status/' + meinId).catch(()=>null);
         if (r3) { const d3 = await r3.json(); if (d3.herausforderung?.angebots_id) hf = d3.herausforderung; }
       }
+      warteraumAustragen();   // Jetzt löschen — HOST hat angebots_id gesetzt (oder Timeout)
       if (hf?.angebots_id) {
         await alsGuestVerbinden(hf.angebots_id);
       } else {
@@ -1000,6 +1036,7 @@ async function warteraumEntscheideP2P(id, spieler) {
         gegenVirtuell();
       }
     } else {
+      warteraumAustragen();
       // Host
       log('Rolle: HOST', 'ok');
       duel.rolle      = 'host';
