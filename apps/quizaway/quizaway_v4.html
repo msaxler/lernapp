@@ -3956,10 +3956,12 @@ function resetSpiel() {
   // P2P duel-State
   if (duel.pc) { try { duel.pc.close(); } catch(e) {} duel.pc = null; }
   if (duel.dc) { try { duel.dc.close(); } catch(e) {} duel.dc = null; }
-  if (duel.pingTimer)      { clearInterval(duel.pingTimer);     duel.pingTimer     = null; }
-  if (duel.abbruchTimer)   { clearTimeout(duel.abbruchTimer);   duel.abbruchTimer  = null; }
-  if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer= null; }
-  if (duel.rundeAutoTimer) { clearInterval(duel.rundeAutoTimer);duel.rundeAutoTimer= null; }
+  if (duel.pingTimer)       { clearInterval(duel.pingTimer);      duel.pingTimer      = null; }
+  if (duel.abbruchTimer)    { clearTimeout(duel.abbruchTimer);    duel.abbruchTimer   = null; }
+  if (duel.rundeWartTimer)  { clearTimeout(duel.rundeWartTimer);  duel.rundeWartTimer = null; }
+  if (duel.rundeAutoTimer)  { clearInterval(duel.rundeAutoTimer); duel.rundeAutoTimer = null; }
+  if (duel.katResendTimer)  { clearInterval(duel.katResendTimer); duel.katResendTimer = null; }
+  if (duel.rundeResendTimer){ clearInterval(duel.rundeResendTimer); duel.rundeResendTimer = null; }
   duel.verbunden    = false;
   duel.rolle        = null;
   duel.gegnerName   = 'Gegner';
@@ -5049,6 +5051,10 @@ let duel = {
   rundeWartTimer: null,
   rundeAutoTimer: null,
   missedPings: 0,
+
+  // Retransmission für kritische Nachrichten
+  katResendTimer: null,
+  rundeResendTimer: null,
 };
 
 // ─── Hilfsfunktionen ─────────────────────────────────────────
@@ -5201,8 +5207,9 @@ function duelHandleMsg(msg) {
       break;
 
     case 'kat':
-      // Wart-Timer sofort stoppen — Kat ist angekommen
-      if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
+      // Wart-Timer + Runde-Resend stoppen — Kat ist angekommen (Gegner hat unser Ergebnis erhalten)
+      if (duel.rundeWartTimer)  { clearTimeout(duel.rundeWartTimer);    duel.rundeWartTimer  = null; }
+      if (duel.rundeResendTimer){ clearInterval(duel.rundeResendTimer); duel.rundeResendTimer= null; }
       // Guest empfängt Kategorie — runde synchronisieren
       duel.runde = msg.runde || duel.runde;
       duel.aktuellerSeed = msg.seed;
@@ -5212,8 +5219,10 @@ function duelHandleMsg(msg) {
       break;
 
     case 'runde':
-      // Wart-Timer sofort stoppen — Gegner-Ergebnis ist angekommen
-      if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
+      // Alle Wart-Timer stoppen — Gegner-Ergebnis ist angekommen
+      if (duel.rundeWartTimer)  { clearTimeout(duel.rundeWartTimer);    duel.rundeWartTimer  = null; }
+      if (duel.katResendTimer)  { clearInterval(duel.katResendTimer);   duel.katResendTimer  = null; }
+      if (duel.rundeResendTimer){ clearInterval(duel.rundeResendTimer); duel.rundeResendTimer= null; }
       // Gegner-Ergebnis empfangen
       duel.oppRundeErgebnis = msg.ergebnis;
       duel.oppGesamt += msg.ergebnis.punkte;
@@ -5412,8 +5421,20 @@ function duelKatBestaetigen() {
   const seed = Math.floor(Math.random() * 16777216); // 24-bit Seed
   duel.aktuellerSeed = seed;
   duel.gespielteKats.push(kat.id);
-  duelMsgSend({ type: 'kat', katId: kat.id, seed, runde: duel.runde });
+  const katMsg = { type: 'kat', katId: kat.id, seed, runde: duel.runde };
+  duelMsgSend(katMsg);
   duelLog('Kategorie gesendet: ' + kat.name);
+  // Retransmission: alle 5s erneut senden, bis Gegner-Ergebnis eintrifft
+  if (duel.katResendTimer) { clearInterval(duel.katResendTimer); duel.katResendTimer = null; }
+  const katRunde = duel.runde;
+  duel.katResendTimer = setInterval(() => {
+    if (duel.oppRundeErgebnis || duel.runde !== katRunde) {
+      clearInterval(duel.katResendTimer); duel.katResendTimer = null;
+    } else {
+      duelLog(`[↺] Kat ${kat.id} Runde ${katRunde} erneut gesendet`);
+      duelMsgSend(katMsg);
+    }
+  }, 5000);
   duelStarteFragenMitKat(kat.id, seed);
 }
 
@@ -5518,8 +5539,20 @@ function duelRundeAbgeschlossen() {
   duel.meZeitGesamt += rundeZeitMs;
   duel.meRundeErgebnis = { ...meRunde, zeitMs: rundeZeitMs };
 
-  duelMsgSend({ type: 'runde', ergebnis: duel.meRundeErgebnis });
+  const rundeMsg = { type: 'runde', ergebnis: duel.meRundeErgebnis };
+  duelMsgSend(rundeMsg);
   duelLog('Ergebnis gesendet — warte auf ' + duel.gegnerName + '…');
+  // Retransmission: alle 5s erneut senden, bis Gegner-Ergebnis eintrifft
+  if (duel.rundeResendTimer) { clearInterval(duel.rundeResendTimer); duel.rundeResendTimer = null; }
+  const rundeNr = duel.runde;
+  duel.rundeResendTimer = setInterval(() => {
+    if (duel.oppRundeErgebnis || duel.runde !== rundeNr) {
+      clearInterval(duel.rundeResendTimer); duel.rundeResendTimer = null;
+    } else {
+      duelLog(`[↺] Runden-Ergebnis Runde ${rundeNr} erneut gesendet`);
+      duelMsgSend(rundeMsg);
+    }
+  }, 5000);
 
   // Button sperren
   const btn = document.getElementById('naechste-runde-btn');
