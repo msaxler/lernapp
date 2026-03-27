@@ -5939,10 +5939,19 @@ let livePos          = null;
 let liveNaheStaedte  = new Set();  // Städte im aktuellen GPS-Radius
 
 function zeigeLiveModus() {
-  console.log(`[Live] zeigeLiveModus | duel.verbunden=${duel.verbunden} | gpsState.ok=${gpsState.ok} | liveWatchId=${liveWatchId}`);
-  if (duel.verbunden) console.warn('[Live] ⚠️ Live-Modus geöffnet während P2P-Duell aktiv!');
+  // GPS bereits vorhanden (z.B. aus Warteraum) → direkt starten, Karte überspringen
+  if (gpsState.ok) {
+    const naechste = ROUTE_STAEDTE
+      .map(s => ({ s, d: routeHav(gpsState.lat, gpsState.lon, s.lat, s.lon) }))
+      .sort((a, b) => a.d - b.d)[0];
+    const stadtName = naechste ? naechste.s.name : 'Region';
+    console.log(`[Live] GPS bereits verfügbar → starte direkt bei ${stadtName}`);
+    liveStartQuiz(stadtName, gpsState.lat, gpsState.lon);
+    return;
+  }
+  // GPS noch nicht da → Karte anzeigen + GPS automatisch anfragen
   showScreen('screen-livemodus');
-  // Leaflet lazy init — nur beim ersten Aufruf
+  // Leaflet lazy init
   if (!liveMap) {
     liveMap = L.map('live-map', { zoomControl: true, attributionControl: false })
       .setView([50.35, 7.20], 9);
@@ -5951,12 +5960,9 @@ function zeigeLiveModus() {
       { maxZoom: 19 }
     ).addTo(liveMap);
   }
-  // Karte nach Screen-Transition neu berechnen
   setTimeout(() => liveMap.invalidateSize(), 120);
-  // GPS aus Duell-Modus bereits vorhanden → sofort nutzen
-  if (gpsState.ok) {
-    liveSetGPS(gpsState.lat, gpsState.lon, null);
-  }
+  // GPS automatisch starten (kein Klick nötig)
+  liveGPSStart();
 }
 
 function liveModeVerlassen() {
@@ -5989,8 +5995,18 @@ function liveGPSStart(retryVersuch) {
         liveSetMsg(`GPS Timeout — Versuch ${versuch + 2}/3 in 3s…`);
         setTimeout(() => liveGPSStart(versuch + 1), 3000);
       } else {
-        liveSetMsg('GPS nicht verfügbar — Berechtigungen prüfen');
+        liveSetMsg('GPS nicht verfügbar — oder ohne Standort spielen');
         document.getElementById('live-gps-btn').textContent = '📍 GPS erneut';
+        // Fallback-Button anzeigen: ohne GPS alle Fragen spielen
+        const staedte = document.getElementById('live-staedte');
+        if (staedte) staedte.innerHTML = `
+          <div style="padding:16px;text-align:center;">
+            <div style="font-size:12px;color:var(--muted);margin-bottom:10px;">GPS nicht verfügbar</div>
+            <button onclick="liveOhneGPS()" style="background:var(--accent);color:#fff;border:none;
+              border-radius:10px;padding:10px 22px;font-size:14px;font-weight:600;cursor:pointer;">
+              🗺️ Ohne Standort spielen
+            </button>
+          </div>`;
       }
     },
     { enableHighAccuracy: true, maximumAge: 5000, timeout: 10000 }
@@ -6000,13 +6016,13 @@ function liveGPSStart(retryVersuch) {
 function liveSetGPS(lat, lon, accuracy) {
   livePos = { lat, lon };
   console.log(`[Live] GPS: ${lat.toFixed(4)},${lon.toFixed(4)}${accuracy ? ' ±'+Math.round(accuracy)+'m' : ''}`);
-  const dot = document.getElementById('live-gps-dot');
-  dot.style.background    = '#22c55e';
-  dot.style.boxShadow     = '0 0 6px #22c55e';
-  document.getElementById('live-gps-btn').textContent = '🔄 GPS';
-  liveSetMsg(`${lat.toFixed(4)}, ${lon.toFixed(4)}${accuracy ? ' ±'+Math.round(accuracy)+'m' : ''}`);
-  liveUpdateKarte(lat, lon);
-  liveUpdateStaedte(lat, lon);
+  // GPS aus Karten-Screen → direkt starten
+  const naechste = ROUTE_STAEDTE
+    .map(s => ({ s, d: routeHav(lat, lon, s.lat, s.lon) }))
+    .sort((a, b) => a.d - b.d)[0];
+  const stadtName = naechste ? naechste.s.name : 'Region';
+  console.log(`[Live] GPS OK → starte bei ${stadtName}`);
+  liveStartQuiz(stadtName, lat, lon);
 }
 
 function liveUpdateKarte(lat, lon) {
@@ -6104,6 +6120,13 @@ function liveStartQuiz(stadtName, stadtLat, stadtLon) {
   const fragenCount = FRAGEN.filter(f => f.stadt && liveNaheStaedte.has(f.stadt)).length;
   console.log(`[Live] Städte im Radius: ${[...liveNaheStaedte].join(', ')} | Fragen im Pool: ${fragenCount}`);
   // Normales Spiel starten — identisch mit Sofa-Modus, nur Fragen lokal gefiltert
+  zeigeSchwierigkeit('live');
+}
+
+function liveOhneGPS() {
+  // Kein Standort → liveNaheStaedte leer → alle Fragen (= Sofa-Modus)
+  liveNaheStaedte = new Set();
+  console.log('[Live] Ohne GPS — alle Städte verfügbar');
   zeigeSchwierigkeit('live');
 }
 
