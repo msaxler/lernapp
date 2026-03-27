@@ -463,6 +463,7 @@ let duel = {
   missedPings:    0,
   abbruchTimer:   null,
   rundeWartTimer: null,
+  vergleichTimer: null,   // Auto-Advance nach Rundenvergleich
   meRundeErgebnis:  null,
   oppRundeErgebnis: null,
   meRundenHistory:  [],
@@ -1257,9 +1258,10 @@ function duelStart() {
 function duelReset() {
   if (duel.pingTimer)     { clearInterval(duel.pingTimer);     duel.pingTimer     = null; }
   if (duel.abbruchTimer)  { clearTimeout(duel.abbruchTimer);   duel.abbruchTimer  = null; }
-  if (duel.rundeWartTimer){ clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
-  if (frageTimer)         { clearInterval(frageTimer);         frageTimer          = null; }
-  if (katTimer)           { clearInterval(katTimer);           katTimer            = null; }
+  if (duel.rundeWartTimer){ clearTimeout(duel.rundeWartTimer);  duel.rundeWartTimer = null; }
+  if (duel.vergleichTimer){ clearInterval(duel.vergleichTimer); duel.vergleichTimer = null; }
+  if (frageTimer)         { clearInterval(frageTimer);          frageTimer          = null; }
+  if (katTimer)           { clearInterval(katTimer);            katTimer            = null; }
   Object.values(duel.pending).forEach(id => clearInterval(id));
   duel.pending  = {};
   duel.seenSeqs = new Set();
@@ -1498,14 +1500,32 @@ function zeigeVergleich() {
     </div>`;
 
   const btn = el('vgl-weiter-btn');
-  btn.disabled    = false;
-  btn.textContent = duel.runde < RUNDEN_TOTAL
-    ? `Runde ${duel.runde + 1} starten →`
-    : 'Ergebnis anzeigen →';
+  btn.disabled = false;
+
+  // Auto-Advance: nach 5s automatisch weiter (Button kann früher geklickt werden)
+  if (duel.vergleichTimer) { clearInterval(duel.vergleichTimer); duel.vergleichTimer = null; }
+  const istLetzte = duel.runde >= RUNDEN_TOTAL;
+  let autoSek = 5;
+  function btnText(s) {
+    btn.textContent = istLetzte
+      ? `Ergebnis anzeigen → (${s}s)`
+      : `Runde ${duel.runde + 1} starten → (${s}s)`;
+  }
+  btnText(autoSek);
+  duel.vergleichTimer = setInterval(() => {
+    autoSek--;
+    if (autoSek <= 0) {
+      clearInterval(duel.vergleichTimer); duel.vergleichTimer = null;
+      naechsteRunde();
+    } else {
+      btnText(autoSek);
+    }
+  }, 1000);
 }
 
 function naechsteRunde() {
-  if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
+  if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer);  duel.rundeWartTimer = null; }
+  if (duel.vergleichTimer) { clearInterval(duel.vergleichTimer); duel.vergleichTimer = null; }
   duel.meRundeErgebnis  = null;
   duel.oppRundeErgebnis = null;
 
