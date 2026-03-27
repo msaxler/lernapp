@@ -2758,14 +2758,21 @@ const warteraum = {
   _virtuellerGegner: null,
   _vorschauTimer:  null,
   _vorschauCallback: null,
-  _entscheide:     false,  // Guard: verhindert Poll-Interrupt während warteraumEntscheideP2P läuft
-  _joining:        false,  // Guard: verhindert Mehrfachaufruf von warteraumHerausforderungAnnehmen
+  _entscheide:       false,  // Guard: verhindert Poll-Interrupt während warteraumEntscheideP2P läuft
+  _joining:          false,  // Guard: verhindert Mehrfachaufruf von warteraumHerausforderungAnnehmen
+  _registrierung:    false,  // Guard: verhindert parallele warteraumBetreten()-Aufrufe
+  _visibilityHandler: null,  // visibilitychange-Handler (für removeEventListener)
 };
 
 function warteraumInit() {
   // Guards zurücksetzen — sonst blockieren sie den nächsten Warteraum-Besuch
-  warteraum._joining   = false;
-  warteraum._entscheide = false;
+  warteraum._joining      = false;
+  warteraum._entscheide   = false;
+  warteraum._registrierung = false;
+  if (warteraum._visibilityHandler) {
+    document.removeEventListener('visibilitychange', warteraum._visibilityHandler);
+    warteraum._visibilityHandler = null;
+  }
 
   // Virtuellen Gegner befüllen
   const g = generiereGegner();
@@ -2778,8 +2785,23 @@ function warteraumInit() {
   document.getElementById('wr-spieler-liste').innerHTML = '';
   document.getElementById('wr-spieler-count').textContent = '(suche…)';
 
-  // Warteraum betreten + polling starten
+  // Warteraum betreten + polling starten (Timer läuft immer, auch wenn betreten noch nicht fertig)
+  warteraum._registrierung = false;
   warteraumBetreten();
+  if (warteraum.pollingTimer) { clearInterval(warteraum.pollingTimer); warteraum.pollingTimer = null; }
+  warteraum.pollingTimer = setInterval(() => {
+    if (!warteraum.meineId) { warteraumBetreten(); return; } // Nachregistrierung falls Tab war backgrounded
+    warteraumPoll();
+  }, 3000);
+
+  // Wenn Tab aus Background zurückkommt → sofort nachregistrieren falls nötig
+  warteraum._visibilityHandler = () => {
+    if (document.visibilityState === 'visible' && !warteraum.meineId) {
+      warteraumBetreten();
+    }
+  };
+  document.removeEventListener('visibilitychange', warteraum._visibilityHandler);
+  document.addEventListener('visibilitychange', warteraum._visibilityHandler);
 
   // AutoWeiter: 14s → Zufallsauswahl
   warteraum.eingetreten = Date.now();
@@ -2801,6 +2823,8 @@ function warteraumInit() {
 }
 
 async function warteraumBetreten() {
+  if (warteraum._registrierung) return; // Guard: kein Parallel-Aufruf
+  warteraum._registrierung = true;
   try {
     const res = await rendezvousFetch('/warteraum/betreten', {
       method: 'POST',
@@ -2810,12 +2834,13 @@ async function warteraumBetreten() {
     const data = await res.json();
     if (data.id) {
       warteraum.meineId = data.id;
-      warteraum.pollingTimer = setInterval(() => warteraumPoll(), 3000);
-      warteraumPoll();
+      warteraumPoll(); // sofort pollen
     }
   } catch(e) {
     // Kein Server erreichbar — nur virtueller Gegner verfügbar
     document.getElementById('wr-spieler-count').textContent = '(offline)';
+  } finally {
+    warteraum._registrierung = false;
   }
 }
 
