@@ -327,6 +327,7 @@ class Handler(BaseHTTPRequestHandler):
         # POST /warteraum/betreten  { name, liga }  →  { id }
         # state[i] = FREE, in Pool aufnehmen
         if p == '/warteraum/betreten':
+            warteraum_cleanup()   # Abgelaufene Einträge entfernen bevor neuer Spieler eingetragen wird
             wid = ''.join(random.choices(string.digits, k=8))
             with warteraum_lock:
                 warteraum[wid] = {
@@ -441,12 +442,28 @@ class Handler(BaseHTTPRequestHandler):
             self.send_json(200, {'ok': True}); return
         self.send_json(404, {'error': 'Nicht gefunden'})
 
+def _hintergrund_cleanup():
+    """Räumt abgelaufene Warteraum- und Lobby-Einträge alle 30 Sekunden auf —
+    unabhängig davon, ob gerade jemand /warteraum/liste aufruft."""
+    while True:
+        time.sleep(30)
+        try:
+            warteraum_cleanup()
+            lobby_cleanup()
+        except Exception as e:
+            print(f'  [cleanup] Fehler: {e}')
+
 if __name__ == '__main__':
     import sys, os
     port = int(os.environ.get('PORT', 8080))
     if '--port' in sys.argv:
         try: port = int(sys.argv[sys.argv.index('--port') + 1])
         except: pass
+
+    # Hintergrund-Cleanup starten
+    threading.Thread(target=_hintergrund_cleanup, daemon=True, name='cleanup').start()
+    print('[cleanup] Hintergrund-Bereinigung gestartet (alle 30s)')
+
     server = ThreadedHTTPServer(('0.0.0.0', port), Handler)
     print(f"Rendezvous-Server mit Lobby läuft auf http://0.0.0.0:{port}")
     print(f"PC:         http://localhost:{port}")

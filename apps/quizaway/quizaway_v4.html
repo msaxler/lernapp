@@ -2869,6 +2869,11 @@ async function warteraumPoll() {
   if (!warteraum.meineId) return;
   try {
     const statusRes = await rendezvousFetch('/warteraum/status/' + warteraum.meineId);
+    if (statusRes.status === 404) {
+      // Server kennt unsere ID nicht mehr (Neustart oder TTL) → neu anmelden
+      warteraum.meineId = null;
+      return;
+    }
     const statusData = await statusRes.json();
     if (statusData.herausforderung) {
       // Ignorieren wenn wir gerade selbst eine Entscheidung treffen
@@ -3252,6 +3257,16 @@ function warteraumAustragen() {
     warteraum.meineId = null;
   }
 }
+
+// Tab geschlossen / Seite verlassen → Server sofort benachrichtigen
+// sendBeacon ist zuverlässiger als fetch() in beforeunload
+window.addEventListener('beforeunload', () => {
+  if (warteraum.meineId) {
+    const blob = new Blob([JSON.stringify({ id: warteraum.meineId })], { type: 'application/json' });
+    navigator.sendBeacon(RENDEZVOUS + '/warteraum/verlassen', blob);
+    warteraum.meineId = null;
+  }
+});
 
 function warteraumFallbackVirtuell(sw) {
   warteraumAustragen();
