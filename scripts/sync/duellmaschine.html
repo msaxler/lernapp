@@ -794,7 +794,8 @@ async function warteraumPoll() {
   try {
     const r2   = await apiFetch('/warteraum/status/' + warteraum.meineId);
     const data = await r2.json();
-    if (data.herausforderung && !warteraum._joining) {
+    // Nur annehmen wenn angebots_id bereits gesetzt — sonst beim nächsten Poll nochmal prüfen
+    if (data.herausforderung?.angebots_id && !warteraum._joining) {
       warteraumStopTimers();
       warteraumHerausforderungAnnehmen(data.herausforderung);
     }
@@ -915,6 +916,7 @@ async function warteraumEntscheideP2P(id, spieler) {
       return;
     }
 
+    const meinId = warteraum.meineId;  // vor austragen sichern!
     warteraumAustragen();
 
     if (data.rolle === 'guest') {
@@ -922,10 +924,10 @@ async function warteraumEntscheideP2P(id, spieler) {
       duel.rolle      = 'guest';
       duel.gegnerName = spieler.name;
       let hf = data.herausforderung;
-      // Auf angebots_id warten
+      // Auf angebots_id warten (gesicherte ID verwenden, da meineId jetzt null)
       for (let i = 0; i < 12 && !hf?.angebots_id; i++) {
         await new Promise(r => setTimeout(r, 800));
-        const r3 = await apiFetch('/warteraum/status/' + warteraum.meineId).catch(()=>null);
+        const r3 = await apiFetch('/warteraum/status/' + meinId).catch(()=>null);
         if (r3) { const d3 = await r3.json(); if (d3.herausforderung?.angebots_id) hf = d3.herausforderung; }
       }
       if (hf?.angebots_id) {
@@ -957,6 +959,8 @@ async function warteraumHerausforderungAnnehmen(hf) {
   warteraum._joining = true;
   warteraumStopTimers();
   eventFeedStop();
+
+  const meinId = warteraum.meineId;  // vor austragen sichern — danach ist meineId null!
   warteraumAustragen();
 
   duel.rolle      = 'guest';
@@ -964,12 +968,13 @@ async function warteraumHerausforderungAnnehmen(hf) {
   showScreen('screen-verbinden');
   el('verb-titel').textContent = 'Verbinde mit ' + duel.gegnerName + '…';
 
-  // Auf angebots_id warten
+  // Auf angebots_id warten (angebots_id ist durch warteraumPoll-Guard bereits gesetzt,
+  // dieser Loop ist Fallback für den direkten Aufruf-Pfad)
   let angebots_id = hf.angebots_id;
   for (let i = 0; i < 12 && !angebots_id; i++) {
     await new Promise(r => setTimeout(r, 800));
     try {
-      const r = await apiFetch('/warteraum/status/' + warteraum.meineId);
+      const r = await apiFetch('/warteraum/status/' + meinId);  // gesicherte ID verwenden!
       const d = await r.json();
       if (d.herausforderung?.angebots_id) angebots_id = d.herausforderung.angebots_id;
     } catch(e) { /* ignorieren */ }
