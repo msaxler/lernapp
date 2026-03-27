@@ -4966,16 +4966,17 @@ async function rendezvousFetch(path, opts) {
 
 let gpsState = { lat: null, lon: null, ok: false, watching: false };
 
-function gpsStart() {
-  if (gpsState.watching) return;
+function gpsStart(retryVersuch) {
+  const versuch = retryVersuch || 0;
+  if (versuch === 0 && gpsState.watching) return;
   if (!navigator.geolocation) {
     gpsSetBtn('⚠️ GPS nicht verfügbar', 'Dieser Browser unterstützt kein GPS', '#ef4444', false);
     return;
   }
   gpsState.watching = true;
-  console.log('[GPS] starte getCurrentPosition (Warteraum)');
-  // Button: Ladezustand
-  gpsSetBtn('📍 Standort wird ermittelt…', 'Bitte Browser-Dialog bestätigen', 'var(--muted)', false);
+  const subText = versuch > 0 ? `Versuch ${versuch + 1} von 3…` : 'Bitte Browser-Dialog bestätigen';
+  console.log(`[GPS] starte getCurrentPosition (Warteraum, Versuch ${versuch + 1}/3)`);
+  gpsSetBtn('📍 Standort wird ermittelt…', subText, 'var(--muted)', false);
 
   navigator.geolocation.getCurrentPosition(
     pos => {
@@ -4990,12 +4991,19 @@ function gpsStart() {
       gpsSetBtn('📍 Orts-Fragen aktiv', stadtLabel, '#10b981', false);
     },
     (err) => {
-      console.warn('[GPS] Fehler:', err.code, err.message);
+      console.warn(`[GPS] Fehler (Versuch ${versuch + 1}):`, err.code, err.message);
       gpsState.ok = false;
-      gpsState.watching = false;  // erneuter Versuch erlaubt
-      gpsSetBtn('📍 Standort nicht freigegeben', 'Tippen zum erneuten Versuch', '#f59e0b', true);
+      gpsState.watching = false;
+      if (err.code === 3 && versuch < 2) {
+        // Timeout → automatisch nochmal versuchen (max 3×, 3s Pause)
+        console.log(`[GPS] Timeout — Retry ${versuch + 2} in 3s`);
+        gpsSetBtn('📍 Standort wird ermittelt…', `Nochmal in 3s… (${versuch + 2}/3)`, 'var(--muted)', false);
+        setTimeout(() => gpsStart(versuch + 1), 3000);
+      } else {
+        gpsSetBtn('📍 Standort nicht freigegeben', 'Tippen zum erneuten Versuch', '#f59e0b', true);
+      }
     },
-    { enableHighAccuracy: true, timeout: 15000, maximumAge: 60000 }
+    { enableHighAccuracy: true, timeout: 10000, maximumAge: 60000 }
   );
 }
 
@@ -5845,21 +5853,31 @@ function liveModeVerlassen() {
   showScreen('screen-start');
 }
 
-function liveGPSStart() {
+function liveGPSStart(retryVersuch) {
+  const versuch = retryVersuch || 0;
   if (!navigator.geolocation) { liveSetMsg('⚠️ Kein GPS in diesem Browser'); return; }
   const btn = document.getElementById('live-gps-btn');
   btn.textContent = '⏳ …';
-  liveSetMsg('GPS wird ermittelt…');
+  liveSetMsg(versuch > 0 ? `GPS Versuch ${versuch + 1}/3…` : 'GPS wird ermittelt…');
   if (liveWatchId !== null) navigator.geolocation.clearWatch(liveWatchId);
-  console.log('[Live] starte watchPosition');
+  liveWatchId = null;
+  console.log(`[Live] starte watchPosition (Versuch ${versuch + 1}/3)`);
   liveWatchId = navigator.geolocation.watchPosition(
     pos => liveSetGPS(pos.coords.latitude, pos.coords.longitude, pos.coords.accuracy),
     (err) => {
       console.warn('[Live] GPS-Fehler:', err.code, err.message);
-      liveSetMsg('GPS nicht verfügbar — Berechtigungen prüfen');
-      document.getElementById('live-gps-btn').textContent = '📍 GPS erneut';
+      liveWatchId = null;
+      if (err.code === 3 && versuch < 2) {
+        // Timeout → automatisch nochmal versuchen (max 3×, 3s Pause)
+        console.log(`[Live] Timeout — Retry ${versuch + 2} in 3s`);
+        liveSetMsg(`GPS Timeout — Versuch ${versuch + 2}/3 in 3s…`);
+        setTimeout(() => liveGPSStart(versuch + 1), 3000);
+      } else {
+        liveSetMsg('GPS nicht verfügbar — Berechtigungen prüfen');
+        document.getElementById('live-gps-btn').textContent = '📍 GPS erneut';
+      }
     },
-    { enableHighAccuracy: true, maximumAge: 5000, timeout: 15000 }
+    { enableHighAccuracy: true, maximumAge: 5000, timeout: 10000 }
   );
 }
 
