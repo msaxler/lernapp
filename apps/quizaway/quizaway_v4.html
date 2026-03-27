@@ -2763,6 +2763,10 @@ const warteraum = {
 };
 
 function warteraumInit() {
+  // Guards zurücksetzen — sonst blockieren sie den nächsten Warteraum-Besuch
+  warteraum._joining   = false;
+  warteraum._entscheide = false;
+
   // Virtuellen Gegner befüllen
   const g = generiereGegner();
   document.getElementById('wr-virtuell-name').textContent  = g.name;
@@ -2782,10 +2786,10 @@ function warteraumInit() {
   const hinweis = document.getElementById('warteraum-auto-hinweis');
   const sekEl   = document.getElementById('warteraum-auto-sek');
   if (hinweis) { hinweis.style.display = 'block'; hinweis.classList.remove('warnung'); }
-  if (sekEl)   sekEl.textContent = 14;
+  if (sekEl)   sekEl.textContent = 28;
 
   warteraum.autoTimer = setInterval(() => {
-    const verbleibend = Math.max(0, 14 * (DEBUG_TIMER_FAKTOR||1) - Math.floor((Date.now() - warteraum.eingetreten) / 1000));
+    const verbleibend = Math.max(0, 28 * (DEBUG_TIMER_FAKTOR||1) - Math.floor((Date.now() - warteraum.eingetreten) / 1000));
     if (sekEl) sekEl.textContent = verbleibend;
     if (verbleibend <= 3 && hinweis) hinweis.classList.add('warnung');
     if (verbleibend <= 0) {
