@@ -584,7 +584,7 @@ function ichWaehle(runde) {
   if (runde === 5) {
     if (duel.meGesamt !== duel.oppGesamt) return duel.meGesamt > duel.oppGesamt;
     if (duel.meZeitGesamt !== duel.oppZeitGesamt) return duel.meZeitGesamt < duel.oppZeitGesamt;
-    return (duel.aktuellerSeed || 0) % 2 === 0;
+    return duel.rolle === 'host';  // Vollständiger Gleichstand → HOST wählt (eindeutig, kein Seed-Problem)
   }
   return hostWaehlt.includes(runde) === (duel.rolle === 'host');
 }
