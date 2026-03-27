@@ -5138,14 +5138,11 @@ function duelSetupDC(dc) {
       duelMsgSend({ type: 'ping' });
       duel.missedPings++;
       if (duel.missedPings === 3) {
-        duelLog('Verbindung verloren — warte 30s…');
-        // 30s warten, dann Runde mit 0 Punkten für Gegner werten
+        duelLog('⚠️ Verbindung verloren — warte 30s auf Lebenszeichen…');
         duel.abbruchTimer = setTimeout(() => {
-          duelLog('Gegner nicht erreichbar — Runde gewertet');
-          // Fake-Ergebnis für Gegner mit 0 Punkten
-          duel.oppRundeErgebnis = { richtig: 0, punkte: 0, zeitMs: 42000, ergebnisse: [] };
-          duel.oppGesamt += 0;
-          duelZeigeVergleich();
+          duelLog('📡 ' + duel.gegnerName + ' nicht erreichbar — Spiel beendet');
+          duelMsgSend({ type: 'abbruch' }); // best effort — Gegner informieren falls doch noch da
+          duelAbgebrochen(true, 'verbindung');
         }, 30000);
       }
     }, 5000);
@@ -5737,15 +5734,40 @@ function duelZeigeEndergebnis() {
 }
 
 // ─── Abbruch ─────────────────────────────────────────────────
-function duelAbgebrochen(ichGewinne) {
+function duelAbgebrochen(ichGewinne, grund) {
   clearInterval(duel.pingTimer);
-  if (duel.abbruchTimer) { clearTimeout(duel.abbruchTimer); duel.abbruchTimer = null; }
-  duelLog(ichGewinne ? 'Gegner hat aufgegeben — du gewinnst!' : 'Verbindung verloren');
-  if (!ichGewinne) duelMsgSend({ type: 'abbruch' });
+  if (duel.abbruchTimer)    { clearTimeout(duel.abbruchTimer);    duel.abbruchTimer    = null; }
+  if (duel.katResendTimer)  { clearInterval(duel.katResendTimer); duel.katResendTimer  = null; }
+  if (duel.rundeResendTimer){ clearInterval(duel.rundeResendTimer); duel.rundeResendTimer = null; }
+  if (duel.rundeWartTimer)  { clearTimeout(duel.rundeWartTimer);  duel.rundeWartTimer  = null; }
+
   if (ichGewinne) {
-    duel.oppGesamt = 0;
-    duelZeigeEndergebnis();
+    const istVerbindungsVerlust = (grund === 'verbindung');
+    const meldung = istVerbindungsVerlust
+      ? `📡 Verbindung zu ${duel.gegnerName} verloren`
+      : `${duel.gegnerName} hat aufgegeben`;
+    duelLog(meldung + ' — du gewinnst! 🏆');
+
+    // Kurze Meldung einblenden, dann Endergebnis
+    const overlay = document.createElement('div');
+    overlay.style.cssText = [
+      'position:fixed','top:0','left:0','width:100%','height:100%',
+      'background:rgba(0,0,0,0.75)','display:flex','align-items:center',
+      'justify-content:center','z-index:9999','flex-direction:column','gap:12px'
+    ].join(';');
+    overlay.innerHTML = `
+      <div style="font-size:2.5rem">🏆</div>
+      <div style="color:#fff;font-size:1.1rem;font-weight:600;text-align:center;padding:0 24px">${meldung}</div>
+      <div style="color:#aaa;font-size:0.9rem">Du gewinnst das Duell!</div>`;
+    document.body.appendChild(overlay);
+    setTimeout(() => {
+      if (overlay.parentNode) overlay.parentNode.removeChild(overlay);
+      duelZeigeEndergebnis();
+    }, 3000);
+
   } else {
+    duelLog('Verbindung verloren');
+    duelMsgSend({ type: 'abbruch' }); // Gegner informieren — ich gebe auf
     showScreen('screen-duell-start');
   }
 }
