@@ -5204,6 +5204,11 @@ function duelHandleMsg(msg) {
       break;
 
     case 'kat':
+      // Duplikat-Schutz: gleicher Seed → bereits in Bearbeitung, ignorieren
+      if (msg.seed === duel.aktuellerSeed) {
+        duelLog('[↩] Kat ' + msg.katId + ' Runde ' + msg.runde + ' ignoriert (Duplikat)');
+        break;
+      }
       // Wart-Timer + Runde-Resend stoppen — Kat ist angekommen (Gegner hat unser Ergebnis erhalten)
       if (duel.rundeWartTimer)  { clearTimeout(duel.rundeWartTimer);    duel.rundeWartTimer  = null; }
       if (duel.rundeResendTimer){ clearInterval(duel.rundeResendTimer); duel.rundeResendTimer= null; }
@@ -5216,6 +5221,11 @@ function duelHandleMsg(msg) {
       break;
 
     case 'runde':
+      // Duplikat-Schutz: Ergebnis bereits vorhanden → ignorieren
+      if (duel.oppRundeErgebnis) {
+        duelLog('[↩] Runden-Ergebnis ignoriert (Duplikat)');
+        break;
+      }
       // Alle Wart-Timer stoppen — Gegner-Ergebnis ist angekommen
       if (duel.rundeWartTimer)  { clearTimeout(duel.rundeWartTimer);    duel.rundeWartTimer  = null; }
       if (duel.katResendTimer)  { clearInterval(duel.katResendTimer);   duel.katResendTimer  = null; }
@@ -5526,6 +5536,8 @@ function duelStarteFragenMitKat(katId, seed) {
 
 // ─── Runden-Ergebnis nach Spielen senden ─────────────────────
 function duelRundeAbgeschlossen() {
+  // Kat-Resend sofort stoppen — ich habe meine Runde abgeschlossen
+  if (duel.katResendTimer) { clearInterval(duel.katResendTimer); duel.katResendTimer = null; }
   const meRunde = duellState.meRundenHistory[duellState.meRundenHistory.length - 1];
   if (!meRunde) { duelLog('WARN: meRunde fehlt in History'); return; }
   duelLog(`Runde abgeschlossen: richtig=${meRunde.richtig}, punkte=${meRunde.punkte}, state.gesamtPunkte=${state.gesamtPunkte}`);
