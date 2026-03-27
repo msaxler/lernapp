@@ -1,0 +1,1621 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Duellmaschine</title>
+<style>
+:root {
+  --bg:      #0f1117;
+  --surface: #1a1d27;
+  --border:  #2a2d3e;
+  --text:    #e8eaf0;
+  --muted:   #6b7280;
+  --accent:  #6366f1;
+  --green:   #10b981;
+  --red:     #ef4444;
+  --yellow:  #f59e0b;
+  --r: 12px;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  background: var(--bg); color: var(--text);
+  min-height: 100dvh; display: flex; flex-direction: column;
+}
+
+/* ── DEBUG-LEISTE ── */
+#debug-bar {
+  background: #0a0c12;
+  border-bottom: 1px solid var(--border);
+  padding: 6px 12px;
+  font-family: 'Courier New', monospace;
+  font-size: 11px;
+  color: var(--muted);
+  display: flex; flex-wrap: wrap; gap: 8px;
+  position: sticky; top: 0; z-index: 100;
+}
+.db-item { display: flex; gap: 4px; align-items: center; }
+.db-label { color: #4b5563; }
+.db-val   { color: var(--green); }
+.db-val.warn { color: var(--yellow); }
+.db-val.err  { color: var(--red); }
+
+/* ── LOG-PANEL ── */
+#log-panel {
+  background: #0a0c12;
+  border-top: 1px solid var(--border);
+  font-family: 'Courier New', monospace;
+  font-size: 11px;
+  max-height: 160px;
+  overflow-y: auto;
+  display: none;
+}
+#log-panel.open { display: block; }
+#log-entries { padding: 6px 12px; }
+.log-line { padding: 1px 0; line-height: 1.4; }
+.log-line.info  { color: #6b7280; }
+.log-line.ok    { color: var(--green); }
+.log-line.warn  { color: var(--yellow); }
+.log-line.err   { color: var(--red); }
+.log-line.send  { color: #818cf8; }
+.log-line.recv  { color: #34d399; }
+#log-toolbar {
+  display: flex; gap: 8px; padding: 4px 12px;
+  border-bottom: 1px solid var(--border);
+  background: #0d0f18;
+}
+#log-toolbar button {
+  font-size: 10px; padding: 2px 8px;
+  background: var(--border); border: none;
+  border-radius: 4px; color: var(--muted); cursor: pointer;
+}
+#log-toolbar button:hover { background: var(--surface); color: var(--text); }
+
+/* ── HAUPT-LAYOUT ── */
+#app {
+  flex: 1; display: flex; flex-direction: column;
+  max-width: 480px; width: 100%; margin: 0 auto;
+  padding: 16px;
+}
+
+/* ── SCREENS ── */
+.screen { display: none; flex-direction: column; gap: 14px; flex: 1; }
+.screen.active { display: flex; }
+
+/* ── KARTEN ── */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  padding: 16px;
+}
+.card-title {
+  font-size: 13px; font-weight: 600;
+  color: var(--muted); text-transform: uppercase;
+  letter-spacing: .06em; margin-bottom: 10px;
+}
+
+/* ── BUTTONS ── */
+.btn {
+  width: 100%; padding: 13px;
+  border: none; border-radius: var(--r);
+  font-size: 15px; font-weight: 600;
+  cursor: pointer; transition: opacity .15s;
+}
+.btn:active { opacity: .75; }
+.btn-primary  { background: var(--accent); color: white; }
+.btn-green    { background: var(--green);  color: white; }
+.btn-ghost    { background: var(--border); color: var(--text); }
+.btn-red      { background: var(--red);    color: white; }
+.btn:disabled { opacity: .4; cursor: default; }
+
+/* ── NAME-INPUT ── */
+.name-input {
+  width: 100%; padding: 12px 14px;
+  background: var(--bg); border: 1.5px solid var(--border);
+  border-radius: var(--r); color: var(--text);
+  font-size: 16px; font-family: inherit;
+}
+.name-input:focus { outline: none; border-color: var(--accent); }
+
+/* ── SPIELER-LISTE ── */
+.spieler-card {
+  display: flex; align-items: center; gap: 12px;
+  padding: 12px 14px;
+  background: var(--bg); border: 1px solid var(--border);
+  border-radius: var(--r); cursor: pointer;
+  transition: border-color .15s;
+}
+.spieler-card:hover { border-color: var(--accent); }
+.spieler-avatar { font-size: 24px; }
+.spieler-name   { font-weight: 600; font-size: 15px; }
+.spieler-meta   { font-size: 12px; color: var(--muted); margin-top: 2px; }
+.spieler-badge  { margin-left: auto; font-size: 12px; color: var(--accent); font-weight: 700; }
+
+/* ── SCOREBOARD ── */
+.scoreboard {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 14px 16px;
+  background: var(--bg); border-radius: var(--r);
+}
+.sb-player { text-align: center; }
+.sb-name   { font-size: 12px; color: var(--muted); margin-bottom: 4px; }
+.sb-score  { font-size: 28px; font-weight: 700; }
+.sb-score.me  { color: var(--accent); }
+.sb-score.opp { color: var(--yellow); }
+.sb-sep    { font-size: 20px; color: var(--border); }
+
+/* ── FRAGE-TIMER ── */
+.timer-ring {
+  width: 80px; height: 80px; margin: 0 auto;
+  position: relative; display: flex; align-items: center; justify-content: center;
+}
+.timer-ring svg { position: absolute; top:0; left:0; transform: rotate(-90deg); }
+.timer-ring circle {
+  fill: none; stroke-width: 5;
+  stroke-dasharray: 220;
+  transition: stroke-dashoffset .3s linear, stroke .3s;
+}
+.timer-bg  { stroke: var(--border); }
+.timer-fg  { stroke: var(--accent); }
+.timer-zahl { font-size: 22px; font-weight: 700; z-index: 1; }
+
+/* ── RUNDENABSCHLUSS ── */
+.runden-compare {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 10px;
+}
+.rc-box {
+  background: var(--bg); border-radius: var(--r);
+  padding: 14px; text-align: center;
+}
+.rc-box.winner { border: 2px solid var(--green); }
+.rc-name  { font-size: 12px; color: var(--muted); margin-bottom: 6px; }
+.rc-score { font-size: 28px; font-weight: 700; }
+.rc-detail { font-size: 12px; color: var(--muted); margin-top: 4px; }
+
+.event-feed {
+  display: flex; flex-direction: column; gap: 4px;
+  max-height: 160px; overflow-y: auto;
+  font-size: 12px; font-family: 'Courier New', monospace;
+}
+.ev-line {
+  display: flex; gap: 8px; align-items: baseline;
+  padding: 3px 0; border-bottom: 1px solid var(--border);
+}
+.ev-line:last-child { border-bottom: none; }
+.ev-ts   { color: #374151; flex-shrink: 0; font-size: 10px; }
+.ev-icon { flex-shrink: 0; }
+.ev-text { color: var(--muted); }
+.ev-grund { color: #4b5563; font-size: 10px; }
+.ev-betreten  .ev-icon { color: var(--green); }
+.ev-verlassen .ev-icon { color: var(--red); }
+.ev-verbunden .ev-icon { color: var(--accent); }
+.ev-fallback  .ev-icon { color: var(--yellow); }
+.badge {
+  display: inline-flex; align-items: center; gap: 5px;
+  padding: 4px 10px; border-radius: 20px;
+  font-size: 12px; font-weight: 600;
+}
+.badge-green  { background: rgba(16,185,129,.15); color: var(--green); }
+.badge-yellow { background: rgba(245,158,11,.15);  color: var(--yellow); }
+.badge-red    { background: rgba(239,68,68,.15);   color: var(--red); }
+.badge-blue   { background: rgba(99,102,241,.15);  color: var(--accent); }
+
+/* ── MISC ── */
+h2 { font-size: 20px; font-weight: 700; }
+h3 { font-size: 15px; font-weight: 600; color: var(--muted); }
+.center { text-align: center; }
+.gap { display: flex; flex-direction: column; gap: 10px; }
+.row { display: flex; gap: 10px; }
+.row .btn { flex: 1; }
+.sep { height: 1px; background: var(--border); margin: 4px 0; }
+.big-emoji { font-size: 48px; text-align: center; }
+</style>
+</head>
+<body>
+
+<!-- ═══════════════════════ DEBUG-LEISTE ═══════════════════════ -->
+<div id="debug-bar">
+  <span class="db-item"><span class="db-label">ich:</span><span class="db-val" id="db-name">–</span></span>
+  <span class="db-item"><span class="db-label">browser:</span><span class="db-val" id="db-browser">–</span></span>
+  <span class="db-item"><span class="db-label">netz:</span><span class="db-val" id="db-netz">–</span></span>
+  <span class="db-item"><span class="db-label">phase:</span><span class="db-val" id="db-phase">start</span></span>
+  <span class="db-item"><span class="db-label">gegner:</span><span class="db-val" id="db-gegner">–</span></span>
+  <span class="db-item"><span class="db-label">runde:</span><span class="db-val" id="db-runde">–</span></span>
+  <span class="db-item"><span class="db-label">punkte:</span><span class="db-val" id="db-punkte">–</span></span>
+  <span class="db-item"><span class="db-label">ping:</span><span class="db-val" id="db-ping">–</span></span>
+  <span class="db-item"><span class="db-label">wid:</span><span class="db-val" id="db-wid">–</span></span>
+  <span style="margin-left:auto">
+    <button onclick="toggleLog()" style="font-size:10px;padding:2px 8px;background:var(--border);border:none;border-radius:4px;color:var(--muted);cursor:pointer">LOG ▼</button>
+  </span>
+</div>
+
+<!-- ═══════════════════════ LOG-PANEL ═══════════════════════ -->
+<div id="log-panel">
+  <div id="log-toolbar">
+    <button onclick="logExport()">💾 Export</button>
+    <button onclick="logClear()">🗑 Löschen</button>
+    <button onclick="toggleLog()">✕ Schließen</button>
+  </div>
+  <div id="log-entries"></div>
+</div>
+
+<!-- ═══════════════════════ APP ═══════════════════════ -->
+<div id="app">
+
+  <!-- SCREEN: START -->
+  <div class="screen active" id="screen-start">
+    <div style="margin-top:20px">
+      <h2 class="center">⚔️ Duellmaschine</h2>
+      <p class="center" style="color:var(--muted);margin-top:6px;font-size:13px">Proof-of-Concept · Timergesteuerter Duell-Ablauf</p>
+    </div>
+    <div class="card">
+      <div class="card-title">Dein Name</div>
+      <input class="name-input" id="input-name" placeholder="z. B. Spieler1" maxlength="20">
+    </div>
+    <button class="btn btn-primary" onclick="startApp()">Warteraum betreten →</button>
+    <div class="card" style="font-size:12px;color:var(--muted)">
+      <div class="card-title">Debug-Info</div>
+      <div id="start-debug-info"></div>
+    </div>
+  </div>
+
+  <!-- SCREEN: WARTERAUM -->
+  <div class="screen" id="screen-warteraum">
+    <div>
+      <h2>Warteraum</h2>
+      <p style="color:var(--muted);font-size:13px;margin-top:4px">Wähle einen Gegner oder warte auf den Timer</p>
+    </div>
+
+    <div class="card">
+      <div class="card-title">Virtueller Gegner — immer verfügbar</div>
+      <div class="spieler-card" onclick="warteraumWaehle('virtuell', null, 'klick')" id="vg-card">
+        <div class="spieler-avatar">🤖</div>
+        <div>
+          <div class="spieler-name">Quiz-Bot</div>
+          <div class="spieler-meta">Simulierter Gegner · sofort bereit</div>
+        </div>
+        <div class="spieler-badge">▶</div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-title">Echte Spieler <span id="wr-count" style="color:var(--muted)">(suche…)</span></div>
+      <div id="wr-liste" class="gap"></div>
+    </div>
+
+    <div style="text-align:center;font-size:13px;color:var(--muted)">
+      Auto-Start in <span id="wr-countdown" style="color:var(--yellow);font-weight:700">28</span>s
+    </div>
+
+    <div class="card">
+      <div class="card-title">Warteraum-Ereignisse</div>
+      <div class="event-feed" id="event-feed">
+        <div class="ev-line" style="color:var(--muted);font-size:11px" data-placeholder="1">Warte auf Ereignisse…</div>
+      </div>
+    </div>
+
+    <button class="btn btn-ghost" onclick="warteraumVerlassen()">← Zurück</button>
+  </div>
+
+  <!-- SCREEN: VERBINDEN -->
+  <div class="screen" id="screen-verbinden">
+    <div class="big-emoji" id="verb-emoji">⚙️</div>
+    <h2 class="center" id="verb-titel">Verbinde…</h2>
+    <p class="center" style="color:var(--muted);font-size:13px" id="verb-sub">Bitte warten</p>
+    <div class="card" style="font-size:12px">
+      <div class="card-title">Verbindungs-Log</div>
+      <div id="verb-log" style="color:var(--muted);font-family:monospace"></div>
+    </div>
+    <button class="btn btn-ghost" onclick="abbrechen()">Abbrechen</button>
+  </div>
+
+  <!-- SCREEN: KATEGORIE WÄHLEN -->
+  <div class="screen" id="screen-kat">
+    <div class="scoreboard" id="kat-scoreboard"></div>
+    <div class="card center">
+      <div class="card-title" id="kat-titel">Runde 1 — Du wählst</div>
+      <div style="font-size:13px;color:var(--muted);margin-bottom:12px" id="kat-sub"></div>
+      <div class="gap" id="kat-buttons"></div>
+      <div style="margin-top:12px;font-size:13px;color:var(--muted)">
+        Auto-Wahl in <span id="kat-countdown" style="color:var(--yellow);font-weight:700">5</span>s
+      </div>
+    </div>
+  </div>
+
+  <!-- SCREEN: FRAGE (TIMER) -->
+  <div class="screen" id="screen-frage">
+    <div class="scoreboard" id="frage-scoreboard"></div>
+    <div class="card center">
+      <div class="card-title" id="frage-runde-label">Runde 1 · Frage 1/3</div>
+      <div class="timer-ring" style="margin:16px auto">
+        <svg width="80" height="80">
+          <circle class="timer-bg" cx="40" cy="40" r="35"/>
+          <circle class="timer-fg" id="timer-arc" cx="40" cy="40" r="35"
+                  stroke-dashoffset="0"/>
+        </svg>
+        <div class="timer-zahl" id="timer-zahl">5</div>
+      </div>
+      <div style="font-size:14px;color:var(--muted);margin-bottom:8px" id="frage-kat-label">Kategorie: –</div>
+      <div style="font-size:13px;color:var(--muted)" id="frage-sub">Frage läuft…</div>
+    </div>
+    <div class="card">
+      <div class="card-title">Deine Antwort (wird simuliert)</div>
+      <div class="row">
+        <button class="btn btn-green" onclick="antwortSimuliert(true)">✓ Richtig</button>
+        <button class="btn btn-red"   onclick="antwortSimuliert(false)">✗ Falsch</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- SCREEN: WARTEN AUF GEGNER-KATEGORIE -->
+  <div class="screen" id="screen-kat-warten">
+    <div class="scoreboard" id="kat-wart-scoreboard"></div>
+    <div class="card center">
+      <div style="font-size:32px;margin-bottom:10px">⏳</div>
+      <div class="card-title" id="kat-wart-titel">Runde 2 — Gegner wählt</div>
+      <p style="color:var(--muted);font-size:13px" id="kat-wart-sub">Warte auf Kategorie-Wahl…</p>
+      <div style="margin-top:12px;font-size:13px;color:var(--muted)">
+        Timeout in <span id="kat-wart-countdown" style="color:var(--yellow);font-weight:700">30</span>s
+      </div>
+    </div>
+  </div>
+
+  <!-- SCREEN: RUNDENVERGLEICH -->
+  <div class="screen" id="screen-vergleich">
+    <div class="scoreboard" id="vgl-scoreboard"></div>
+    <div class="card">
+      <div class="card-title" id="vgl-titel">Runde 1 — Ergebnis</div>
+      <div class="runden-compare" id="vgl-compare"></div>
+    </div>
+    <button class="btn btn-primary" id="vgl-weiter-btn" onclick="naechsteRunde()" disabled>
+      ⏳ Warte auf Gegner…
+    </button>
+  </div>
+
+  <!-- SCREEN: SPIELENDE -->
+  <div class="screen" id="screen-ende">
+    <div class="big-emoji" id="ende-emoji">🏆</div>
+    <h2 class="center" id="ende-titel">Ergebnis</h2>
+    <div class="card">
+      <div class="runden-compare" id="ende-compare"></div>
+    </div>
+    <div class="card">
+      <div class="card-title">Rundenübersicht</div>
+      <div id="ende-history" style="font-size:13px;color:var(--muted)"></div>
+    </div>
+    <button class="btn btn-primary" onclick="neustart()">Nochmal spielen</button>
+  </div>
+
+  <!-- SCREEN: ABBRUCH -->
+  <div class="screen" id="screen-abbruch">
+    <div class="big-emoji">📡</div>
+    <h2 class="center" id="abbruch-titel">Verbindung verloren</h2>
+    <p class="center" style="color:var(--muted);font-size:13px" id="abbruch-sub"></p>
+    <button class="btn btn-primary" onclick="neustart()">Zum Warteraum</button>
+  </div>
+
+</div><!-- /app -->
+
+<script>
+'use strict';
+
+// ═══════════════════════════════════════════════
+// KONFIGURATION
+// ═══════════════════════════════════════════════
+const RENDEZVOUS = (() => {
+  if (location.hostname === 'localhost' || location.hostname === '127.0.0.1') {
+    return `http://${location.hostname}:${location.port || 8081}`;
+  }
+  return location.origin;
+})();
+
+const TIMER = {
+  KAT_WAHL:       5,    // Sekunden für Kategorienwahl
+  FRAGE:          4,    // Sekunden pro Frage
+  KAT_TIMEOUT:   30,    // Sekunden bis Kat-Timeout
+  RUNDEN_TIMEOUT: 15,   // Sekunden bis Ergebnis-Timeout
+};
+
+const KATEGORIEN = ['🗺 Geo', '🏙 Städte', '🚂 Bahn', '🌍 Europa', '🎯 Mix'];
+const FRAGEN_PRO_RUNDE = 3;
+const RUNDEN_TOTAL     = 5;
+
+// ICE-Server
+const ICE = { iceServers: [
+  { urls: 'stun:stun.l.google.com:19302' },
+  { urls: 'turn:openrelay.metered.ca:443?transport=tcp',
+    username: 'openrelayproject', credential: 'openrelayproject' }
+]};
+
+// ═══════════════════════════════════════════════
+// ZUSTAND
+// ═══════════════════════════════════════════════
+let SPIELER_NAME = '';
+
+let warteraum = {
+  meineId:       null,
+  pollingTimer:  null,
+  autoTimer:     null,
+  heartbeatTimer: null,
+  autoSek:       28,
+  _joining:      false,
+  _entscheide:   false,
+};
+
+let duel = {
+  rolle:          null,   // 'host' | 'guest' | 'virtuell'
+  pc:             null,
+  dc:             null,
+  verbunden:      false,
+  gegnerName:     '',
+  runde:          0,
+  meGesamt:       0,
+  oppGesamt:      0,
+  meZeitGesamt:   0,
+  oppZeitGesamt:  0,
+  aktuellerSeed:  0,
+  outSeq:         0,
+  pending:        {},
+  seenSeqs:       new Set(),
+  pingTimer:      null,
+  missedPings:    0,
+  abbruchTimer:   null,
+  rundeWartTimer: null,
+  meRundeErgebnis:  null,
+  oppRundeErgebnis: null,
+  meRundenHistory:  [],
+  oppRundenHistory: [],
+};
+
+let frageTimer = null;
+let katTimer   = null;
+
+// ═══════════════════════════════════════════════
+// DEBUG & LOG
+// ═══════════════════════════════════════════════
+function dbUpdate() {
+  const online = navigator.onLine;
+  const conn   = navigator.connection;
+  let netz     = online ? '✓ online' : '✗ offline';
+  if (conn) {
+    netz += conn.type === 'wifi' ? ' (WLAN)' : conn.type === 'cellular' ? ' (Mobil)' : '';
+  }
+
+  el('db-name').textContent    = SPIELER_NAME || '–';
+  el('db-netz').textContent    = netz;
+  el('db-netz').className      = 'db-val' + (online ? '' : ' err');
+  el('db-gegner').textContent  = duel.gegnerName || '–';
+  el('db-runde').textContent   = duel.runde > 0 ? `${duel.runde}/${RUNDEN_TOTAL}` : '–';
+  el('db-punkte').textContent  = duel.runde > 0 ? `${duel.meGesamt}:${duel.oppGesamt}` : '–';
+  el('db-wid').textContent     = warteraum.meineId || '–';
+
+  // Browser
+  const ua = navigator.userAgent;
+  let browser = 'unbekannt';
+  if (ua.includes('Chrome') && !ua.includes('Edg'))  browser = 'Chrome';
+  else if (ua.includes('Firefox'))                    browser = 'Firefox';
+  else if (ua.includes('Safari') && !ua.includes('Chrome')) browser = 'Safari';
+  else if (ua.includes('Edg'))                        browser = 'Edge';
+  el('db-browser').textContent = browser;
+}
+
+function dbPhase(phase) {
+  el('db-phase').textContent = phase;
+  dbUpdate();
+}
+
+function dbPing(ms) {
+  const el2 = el('db-ping');
+  if (ms === null) { el2.textContent = '–'; el2.className = 'db-val'; return; }
+  el2.textContent = ms + 'ms';
+  el2.className   = 'db-val' + (ms > 300 ? ' warn' : '');
+}
+
+const logLines = [];
+function log(msg, type = 'info') {
+  const ts   = new Date().toISOString().substr(11, 12);
+  const line = `[${ts}] ${msg}`;
+  logLines.push({ ts, msg, type });
+
+  const div  = document.createElement('div');
+  div.className = `log-line ${type}`;
+  div.textContent = line;
+  const entries = el('log-entries');
+  entries.appendChild(div);
+  entries.scrollTop = entries.scrollHeight;
+  if (logLines.length > 500) {
+    entries.removeChild(entries.firstChild);
+    logLines.shift();
+  }
+  console.log(`[${type.toUpperCase()}] ${msg}`);
+}
+
+function toggleLog() {
+  el('log-panel').classList.toggle('open');
+}
+
+function logClear() {
+  logLines.length = 0;
+  el('log-entries').innerHTML = '';
+}
+
+function logExport() {
+  const text = logLines.map(l => `[${l.ts}] [${l.type}] ${l.msg}`).join('\n');
+  const blob = new Blob([text], { type: 'text/plain' });
+  const a    = document.createElement('a');
+  a.href     = URL.createObjectURL(blob);
+  a.download = `duell-log-${Date.now()}.txt`;
+  a.click();
+}
+
+function verbLog(msg) {
+  const div = el('verb-log');
+  if (div) div.innerHTML += `<div>${msg}</div>`;
+  log(msg, 'ok');
+}
+
+// ═══════════════════════════════════════════════
+// HILFSFUNKTIONEN
+// ═══════════════════════════════════════════════
+function el(id) { return document.getElementById(id); }
+
+function showScreen(id) {
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  const s = el(id);
+  if (s) s.classList.add('active');
+  dbPhase(id.replace('screen-', ''));
+}
+
+function seededRandom(s) {
+  let t = s + 0x6D2B79F5;
+  t = Math.imul(t ^ t >>> 15, t | 1);
+  t ^= t + Math.imul(t ^ t >>> 7, t | 61);
+  return ((t ^ t >>> 14) >>> 0) / 4294967296;
+}
+
+function ichWaehle(runde) {
+  if (duel.rolle === 'virtuell') return true;
+  const hostWaehlt = [1, 3];
+  if (runde === 5) {
+    if (duel.meGesamt !== duel.oppGesamt) return duel.meGesamt > duel.oppGesamt;
+    if (duel.meZeitGesamt !== duel.oppZeitGesamt) return duel.meZeitGesamt < duel.oppZeitGesamt;
+    return (duel.aktuellerSeed || 0) % 2 === 0;
+  }
+  return hostWaehlt.includes(runde) === (duel.rolle === 'host');
+}
+
+function scoreboardHTML(id) {
+  return `<div class="scoreboard">
+    <div class="sb-player">
+      <div class="sb-name">Du</div>
+      <div class="sb-score me">${duel.meGesamt}</div>
+    </div>
+    <div class="sb-sep">:</div>
+    <div class="sb-player">
+      <div class="sb-name">${duel.gegnerName || 'Gegner'}</div>
+      <div class="sb-score opp">${duel.oppGesamt}</div>
+    </div>
+  </div>`;
+}
+
+function updateScoreboards() {
+  ['kat-scoreboard','frage-scoreboard','kat-wart-scoreboard','vgl-scoreboard']
+    .forEach(id => { const e = el(id); if (e) e.innerHTML = scoreboardHTML(); });
+  dbUpdate();
+}
+
+// ═══════════════════════════════════════════════
+// EREIGNIS-FEED
+// ═══════════════════════════════════════════════
+let lastEventTs = 0;
+let eventPollTimer = null;
+
+function eventFeedStart() {
+  if (eventPollTimer) return;
+  eventFeedPoll();
+  eventPollTimer = setInterval(eventFeedPoll, 3000);
+}
+
+function eventFeedStop() {
+  if (eventPollTimer) { clearInterval(eventPollTimer); eventPollTimer = null; }
+}
+
+async function eventFeedPoll() {
+  try {
+    const r    = await apiFetch('/warteraum/events');
+    const data = await r.json();
+    const neu  = (data.events || []).filter(e => e.ts > lastEventTs);
+    if (neu.length > 0) {
+      lastEventTs = Math.max(...neu.map(e => e.ts));
+      neu.forEach(renderEvent);
+    }
+  } catch(e) { /* ignorieren */ }
+}
+
+function renderEvent(ev) {
+  const feed = el('event-feed');
+  if (!feed) return;
+
+  // Platzhalter entfernen
+  const placeholder = feed.querySelector('[data-placeholder]');
+  if (placeholder) placeholder.remove();
+
+  const icons = { betreten: '→', verlassen: '←', verbunden: '⚡', fallback: '🤖', info: '·' };
+  const icon  = icons[ev.typ] || '·';
+
+  const grundLabels = {
+    aktiv:   'aktiv verlassen',
+    timeout: 'Verbindungsabbruch / Timeout',
+    klick:   'per Klick',
+    timer:   'per Timer',
+    vg:      'kein Gegner → VG',
+    p2p:     'P2P',
+  };
+  const grundText = ev.grund ? ` · ${grundLabels[ev.grund] || ev.grund}` : '';
+
+  const ts = new Date(ev.ts).toISOString().substr(11, 8);
+
+  const div = document.createElement('div');
+  div.className = `ev-line ev-${ev.typ}`;
+  div.innerHTML = `
+    <span class="ev-ts">${ts}</span>
+    <span class="ev-icon">${icon}</span>
+    <span class="ev-text">${ev.name}</span>
+    <span class="ev-grund">${grundText}</span>`;
+  feed.appendChild(div);
+  feed.scrollTop = feed.scrollHeight;
+
+  // Maximal 30 Zeilen anzeigen
+  while (feed.children.length > 30) feed.removeChild(feed.firstChild);
+}
+
+async function eventReport(typ, grund) {
+  try {
+    await apiFetch('/warteraum/event', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ name: SPIELER_NAME, typ, grund })
+    });
+  } catch(e) { /* ignorieren */ }
+}
+
+
+async function apiFetch(path, opts) {
+  try {
+    const r = await fetch(RENDEZVOUS + path, opts);
+    return r;
+  } catch(e) {
+    log(`API-Fehler ${path}: ${e.message}`, 'err');
+    throw e;
+  }
+}
+
+// ═══════════════════════════════════════════════
+// START
+// ═══════════════════════════════════════════════
+function startApp() {
+  const name = el('input-name').value.trim();
+  if (!name) { el('input-name').focus(); return; }
+  SPIELER_NAME = name;
+  log(`Spieler "${SPIELER_NAME}" gestartet`, 'ok');
+  dbUpdate();
+  warteraumBetreten();
+}
+
+// Debug-Info auf Start-Screen
+function fillStartDebug() {
+  const info = el('start-debug-info');
+  if (!info) return;
+  const ua = navigator.userAgent;
+  info.innerHTML = [
+    `<div>Server: ${RENDEZVOUS}</div>`,
+    `<div>User-Agent: ${ua.substring(0,80)}…</div>`,
+    `<div>Online: ${navigator.onLine}</div>`,
+    `<div>Sprache: ${navigator.language}</div>`,
+  ].join('');
+}
+
+// ═══════════════════════════════════════════════
+// WARTERAUM
+// ═══════════════════════════════════════════════
+async function warteraumBetreten() {
+  // Guards zurücksetzen
+  warteraum._joining   = false;
+  warteraum._entscheide = false;
+  warteraum.meineId    = null;
+
+  showScreen('screen-warteraum');
+  dbPhase('warteraum');
+  log('Warteraum betreten', 'ok');
+  lastEventTs = Date.now();  // nur neue Events ab jetzt zeigen
+  eventFeedStart();
+
+  try {
+    const r    = await apiFetch('/warteraum/betreten', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ name: SPIELER_NAME, liga: 'bronze' })
+    });
+    const data = await r.json();
+    if (data.id) {
+      warteraum.meineId = data.id;
+      log(`Warteraum-ID: ${data.id}`, 'ok');
+      dbUpdate();
+      // Heartbeat starten
+      warteraum.heartbeatTimer = setInterval(warteraumHeartbeat, 10000);
+      // Polling starten
+      warteraum.pollingTimer = setInterval(warteraumPoll, 3000);
+      warteraumPoll();
+    }
+  } catch(e) {
+    el('wr-count').textContent = '(offline)';
+    log('Server nicht erreichbar — nur virtueller Gegner', 'warn');
+  }
+
+  // Auto-Countdown
+  let sek = TIMER_WR = 28;
+  el('wr-countdown').textContent = sek;
+  warteraum.autoTimer = setInterval(() => {
+    sek--;
+    el('wr-countdown').textContent = Math.max(0, sek);
+    if (sek <= 0) {
+      clearInterval(warteraum.autoTimer); warteraum.autoTimer = null;
+      log('Warteraum-Timer abgelaufen → Auto-Auswahl', 'warn');
+      warteraumAutoAuswahl();
+    }
+  }, 1000);
+}
+
+let TIMER_WR = 28;
+
+async function warteraumHeartbeat() {
+  if (!warteraum.meineId) return;
+  try {
+    await apiFetch('/warteraum/heartbeat', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ id: warteraum.meineId })
+    });
+  } catch(e) { /* ignorieren */ }
+}
+
+async function warteraumPoll() {
+  try {
+    const r    = await apiFetch('/warteraum/liste');
+    const data = await r.json();
+    const spieler = (data.spieler || []).filter(s => s.id !== warteraum.meineId);
+    warteraumRendere(spieler);
+  } catch(e) { /* ignorieren */ }
+
+  if (!warteraum.meineId) return;
+  try {
+    const r2   = await apiFetch('/warteraum/status/' + warteraum.meineId);
+    const data = await r2.json();
+    if (data.herausforderung && !warteraum._joining) {
+      warteraumStopTimers();
+      warteraumHerausforderungAnnehmen(data.herausforderung);
+    }
+  } catch(e) { /* ignorieren */ }
+}
+
+function warteraumRendere(spieler) {
+  const liste = el('wr-liste');
+  el('wr-count').textContent = spieler.length > 0 ? `(${spieler.length} online)` : '(niemand online)';
+  liste.innerHTML = '';
+  spieler.forEach(s => {
+    const seit = Math.floor((Date.now() - s.eingetreten) / 1000);
+    const card = document.createElement('div');
+    card.className = 'spieler-card';
+    card.innerHTML = `
+      <div class="spieler-avatar">🧑</div>
+      <div>
+        <div class="spieler-name">${s.name}</div>
+        <div class="spieler-meta">wartet seit ${seit}s</div>
+      </div>
+      <div class="spieler-badge">▶</div>`;
+    card.onclick = () => warteraumWaehle(s.id, s);
+    liste.appendChild(card);
+  });
+}
+
+function warteraumStopTimers() {
+  if (warteraum.autoTimer)      { clearInterval(warteraum.autoTimer);      warteraum.autoTimer      = null; }
+  if (warteraum.pollingTimer)   { clearInterval(warteraum.pollingTimer);   warteraum.pollingTimer   = null; }
+  if (warteraum.heartbeatTimer) { clearInterval(warteraum.heartbeatTimer); warteraum.heartbeatTimer = null; }
+}
+
+async function warteraumAutoAuswahl() {
+  if (!warteraum.meineId) { eventFeedStop(); eventReport('fallback', 'timer'); gegenVirtuell(); return; }
+  try {
+    const r    = await apiFetch('/warteraum/status/' + warteraum.meineId);
+    const data = await r.json();
+    if (data.herausforderung) {
+      warteraumStopTimers();
+      warteraumHerausforderungAnnehmen(data.herausforderung);
+      return;
+    }
+  } catch(e) { /* ignorieren */ }
+  try {
+    const r2   = await apiFetch('/warteraum/liste');
+    const data = await r2.json();
+    const andere = (data.spieler || []).filter(s => s.id !== warteraum.meineId);
+    if (andere.length > 0) {
+      const zuf = andere[Math.floor(Math.random() * andere.length)];
+      warteraumWaehle(zuf.id, zuf, 'timer');
+      return;
+    }
+  } catch(e) { /* ignorieren */ }
+  eventFeedStop();
+  eventReport('fallback', 'vg');
+  gegenVirtuell();
+}
+
+function warteraumWaehle(id, spieler, grund) {
+  // Klick ist Klick — egal ob Mensch oder Timer
+  // grund: 'klick' | 'timer'
+  warteraumStopTimers();
+  eventFeedStop();
+  if (id === 'virtuell') {
+    eventReport('fallback', grund || 'klick');
+    gegenVirtuell(); return;
+  }
+  eventReport('verbunden', grund || 'klick');
+  warteraumEntscheideP2P(id, spieler);
+}
+
+async function warteraumEntscheideP2P(id, spieler) {
+  if (!warteraum.meineId) { gegenVirtuell(); return; }
+  if (warteraum._entscheide) return;
+  warteraum._entscheide = true;
+
+  showScreen('screen-verbinden');
+  el('verb-titel').textContent = 'Verbinde mit ' + spieler.name + '…';
+
+  try {
+    const r    = await apiFetch('/warteraum/reservieren', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ meine_id: warteraum.meineId, gegner_id: id, host_name: SPIELER_NAME })
+    });
+    const data = await r.json();
+
+    if (r.status === 409) {
+      warteraum._entscheide = false;
+      log('409 Konflikt — versuche anderen Spieler', 'warn');
+      // Einmal neu versuchen mit anderem Spieler
+      try {
+        const r2   = await apiFetch('/warteraum/liste');
+        const d2   = await r2.json();
+        const andere = (d2.spieler || []).filter(s => s.id !== warteraum.meineId && s.id !== id);
+        if (andere.length > 0) {
+          const zuf = andere[Math.floor(Math.random() * andere.length)];
+          warteraumEntscheideP2P(zuf.id, zuf);
+          return;
+        }
+      } catch(e) { /* ignorieren */ }
+      eventFeedStop();
+      eventReport('fallback', 'vg');
+      gegenVirtuell();
+      return;
+    }
+
+    warteraumAustragen();
+
+    if (data.rolle === 'guest') {
+      log('Rolle: GUEST', 'ok');
+      duel.rolle      = 'guest';
+      duel.gegnerName = spieler.name;
+      let hf = data.herausforderung;
+      // Auf angebots_id warten
+      for (let i = 0; i < 12 && !hf?.angebots_id; i++) {
+        await new Promise(r => setTimeout(r, 800));
+        const r3 = await apiFetch('/warteraum/status/' + warteraum.meineId).catch(()=>null);
+        if (r3) { const d3 = await r3.json(); if (d3.herausforderung?.angebots_id) hf = d3.herausforderung; }
+      }
+      if (hf?.angebots_id) {
+        await alsGuestVerbinden(hf.angebots_id);
+      } else {
+        eventFeedStop();
+        eventReport('fallback', 'vg');
+        gegenVirtuell();
+      }
+    } else {
+      // Host
+      log('Rolle: HOST', 'ok');
+      duel.rolle      = 'host';
+      duel.gegnerName = spieler.name;
+      await alsHostVerbinden(id);
+    }
+
+  } catch(e) {
+    warteraum._entscheide = false;
+    log('Verbindungsfehler: ' + e.message, 'err');
+    eventFeedStop();
+    eventReport('fallback', 'vg');
+    gegenVirtuell();
+  }
+}
+
+async function warteraumHerausforderungAnnehmen(hf) {
+  if (warteraum._joining) return;
+  warteraum._joining = true;
+  warteraumStopTimers();
+  eventFeedStop();
+  warteraumAustragen();
+
+  duel.rolle      = 'guest';
+  duel.gegnerName = hf.host_name || 'Host';
+  showScreen('screen-verbinden');
+  el('verb-titel').textContent = 'Verbinde mit ' + duel.gegnerName + '…';
+
+  // Auf angebots_id warten
+  let angebots_id = hf.angebots_id;
+  for (let i = 0; i < 12 && !angebots_id; i++) {
+    await new Promise(r => setTimeout(r, 800));
+    try {
+      const r = await apiFetch('/warteraum/status/' + warteraum.meineId);
+      const d = await r.json();
+      if (d.herausforderung?.angebots_id) angebots_id = d.herausforderung.angebots_id;
+    } catch(e) { /* ignorieren */ }
+  }
+
+  if (angebots_id) {
+    await alsGuestVerbinden(angebots_id);
+  } else {
+    warteraum._joining = false;
+    eventReport('fallback', 'vg');
+    gegenVirtuell();
+  }
+}
+
+function warteraumAustragen() {
+  if (warteraum.meineId) {
+    apiFetch('/warteraum/verlassen', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ id: warteraum.meineId })
+    }).catch(() => {});
+    warteraum.meineId = null;
+    dbUpdate();
+  }
+}
+
+function warteraumVerlassen() {
+  warteraumStopTimers();
+  eventFeedStop();
+  eventReport('verlassen', 'aktiv');
+  warteraumAustragen();
+  duelReset();
+  showScreen('screen-start');
+}
+
+// ═══════════════════════════════════════════════
+// WEBRTC — HOST
+// ═══════════════════════════════════════════════
+async function alsHostVerbinden(gegnerWarteraumId) {
+  verbLog('WebRTC: Erstelle Offer…');
+  duel.pc = new RTCPeerConnection(ICE);
+  const dc = duel.pc.createDataChannel('duell');
+  setupDataChannel(dc);
+
+  const offer = await duel.pc.createOffer();
+  await duel.pc.setLocalDescription(offer);
+  await iceGather(duel.pc);
+  verbLog('ICE-Gathering abgeschlossen');
+
+  // Lobby-Angebot erstellen
+  const r1   = await apiFetch('/lobby/create', {
+    method: 'POST', headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ host_name: SPIELER_NAME })
+  });
+  const data = await r1.json();
+  const aid  = data.id;
+  log(`Lobby-ID: ${aid}`, 'ok');
+
+  // Offer hinterlegen
+  await apiFetch('/lobby/offer/' + aid, {
+    method: 'POST', headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ sdp: duel.pc.localDescription.sdp })
+  });
+
+  // Angebots-ID an Warteraum-Eintrag des Gegners nachliefern
+  apiFetch('/warteraum/herausforderung/update', {
+    method: 'POST', headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ gegner_id: gegnerWarteraumId, angebots_id: aid })
+  }).catch(() => {});
+
+  verbLog('Warte auf Guest…');
+  // Auf Guest-Answer pollen
+  let answer = null;
+  for (let i = 0; i < 20 && !answer; i++) {
+    await new Promise(r => setTimeout(r, 1500));
+    try {
+      const r2 = await apiFetch('/answer/' + aid);
+      const d2 = await r2.json();
+      if (d2.answer) answer = d2.answer;
+    } catch(e) { /* warten */ }
+  }
+
+  if (!answer) {
+    verbLog('Timeout — kein Guest gefunden');
+    log('Host-Timeout → VG-Fallback', 'warn');
+    gegenVirtuell(); return;
+  }
+
+  await duel.pc.setRemoteDescription({ type: 'answer', sdp: answer });
+  verbLog('Answer empfangen — P2P aufgebaut');
+}
+
+// ═══════════════════════════════════════════════
+// WEBRTC — GUEST
+// ═══════════════════════════════════════════════
+async function alsGuestVerbinden(aid) {
+  verbLog('WebRTC: Hole Offer…');
+  duel.pc = new RTCPeerConnection(ICE);
+  duel.pc.ondatachannel = (e) => setupDataChannel(e.channel);
+
+  let offer = null;
+  for (let i = 0; i < 15 && !offer; i++) {
+    try {
+      const r = await apiFetch('/lobby/offer/' + aid);
+      const d = await r.json();
+      if (d.offer) offer = d.offer;
+    } catch(e) { /* warten */ }
+    if (!offer) await new Promise(r => setTimeout(r, 2000));
+  }
+
+  if (!offer) { verbLog('Offer nicht erhalten'); gegenVirtuell(); return; }
+  verbLog('Offer empfangen');
+
+  await duel.pc.setRemoteDescription({ type: 'offer', sdp: offer });
+  const answer = await duel.pc.createAnswer();
+  await duel.pc.setLocalDescription(answer);
+  await iceGather(duel.pc);
+
+  await apiFetch('/answer/' + aid, {
+    method: 'POST', headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ sdp: duel.pc.localDescription.sdp })
+  });
+  verbLog('Answer gesendet — warte auf Verbindung…');
+}
+
+async function iceGather(pc) {
+  return new Promise(res => {
+    if (pc.iceGatheringState === 'complete') { res(); return; }
+    const t = setTimeout(res, 9000);  // 9s Timeout
+    pc.onicegatheringstatechange = () => {
+      if (pc.iceGatheringState === 'complete') { clearTimeout(t); res(); }
+    };
+  });
+}
+
+// ═══════════════════════════════════════════════
+// DATACHANNEL
+// ═══════════════════════════════════════════════
+function setupDataChannel(dc) {
+  duel.dc = dc;
+
+  dc.onopen = () => {
+    duel.verbunden = true;
+    log('DataChannel offen ✓', 'ok');
+    dbPhase('verbunden');
+    // hello senden
+    msgSend({ type: 'hello', name: SPIELER_NAME });
+    // Ping starten
+    duel.pingTimer = setInterval(() => {
+      const t0 = Date.now();
+      msgSend({ type: 'ping', t: t0 });
+      duel.missedPings++;
+      if (duel.missedPings >= 3) {
+        log('3 Pings ohne Antwort — Abbruch', 'err');
+        duelAbgebrochen(navigator.onLine, 'verbindung');
+      }
+    }, 3000);
+    // Spiel starten
+    duelStart();
+  };
+
+  dc.onmessage = (e) => {
+    try {
+      const msg = JSON.parse(e.data);
+      log(`← ${msg.type}${msg.seq !== undefined ? ' seq='+msg.seq : ''}`, 'recv');
+      handleMsg(msg);
+    } catch(err) { log('Nachricht fehlerhaft: ' + err.message, 'err'); }
+  };
+
+  dc.onclose = () => {
+    duel.verbunden = false;
+    clearInterval(duel.pingTimer);
+    log('DataChannel geschlossen', 'warn');
+  };
+}
+
+function msgSend(obj) {
+  if (duel.dc && duel.dc.readyState === 'open') {
+    log(`→ ${obj.type}${obj.seq !== undefined ? ' seq='+obj.seq : ''}`, 'send');
+    duel.dc.send(JSON.stringify(obj));
+  }
+}
+
+function msgSendReliable(msg) {
+  const seq = ++duel.outSeq;
+  msg.seq   = seq;
+  msgSend(msg);
+  duel.pending[seq] = setInterval(() => {
+    if (!duel.dc || duel.dc.readyState !== 'open') return;
+    log(`↺ ${msg.type} seq=${seq} erneut`, 'warn');
+    msgSend(msg);
+  }, 3000);
+}
+
+function handleMsg(msg) {
+  switch(msg.type) {
+
+    case 'hello':
+      duel.gegnerName = msg.name;
+      log(`Gegner: ${msg.name}`, 'ok');
+      dbUpdate();
+      break;
+
+    case 'ack':
+      if (duel.pending[msg.seq]) {
+        clearInterval(duel.pending[msg.seq]);
+        delete duel.pending[msg.seq];
+      }
+      break;
+
+    case 'ping':
+      msgSend({ type: 'pong', t: msg.t });
+      duel.missedPings = 0;
+      break;
+
+    case 'pong':
+      duel.missedPings = 0;
+      if (duel.abbruchTimer) { clearTimeout(duel.abbruchTimer); duel.abbruchTimer = null; }
+      if (msg.t) dbPing(Date.now() - msg.t);
+      break;
+
+    case 'kat':
+      msgSend({ type: 'ack', seq: msg.seq });
+      if (duel.seenSeqs.has(msg.seq)) break;
+      duel.seenSeqs.add(msg.seq);
+      if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
+      duel.runde          = msg.runde;
+      duel.aktuellerSeed  = msg.seed;
+      log(`Kategorie erhalten: ${msg.kat} (Runde ${msg.runde})`, 'ok');
+      starteFragenMitKat(msg.kat, msg.seed);
+      break;
+
+    case 'runde':
+      msgSend({ type: 'ack', seq: msg.seq });
+      if (duel.seenSeqs.has(msg.seq)) break;
+      duel.seenSeqs.add(msg.seq);
+      if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
+      duel.oppRundeErgebnis = msg.ergebnis;
+      duel.oppGesamt       += msg.ergebnis.punkte;
+      duel.oppZeitGesamt   += msg.ergebnis.zeitMs || 0;
+      duel.oppRundenHistory.push(msg.ergebnis);
+      log(`Gegner-Ergebnis: ${msg.ergebnis.richtig}/${FRAGEN_PRO_RUNDE}`, 'ok');
+      zeigeVergleich();
+      break;
+
+    case 'abbruch':
+      duelAbgebrochen(true);
+      break;
+  }
+}
+
+// ═══════════════════════════════════════════════
+// VIRTUELLER GEGNER
+// ═══════════════════════════════════════════════
+function gegenVirtuell() {
+  warteraumStopTimers();
+  warteraumAustragen();
+  duel.rolle      = 'virtuell';
+  duel.gegnerName = 'Quiz-Bot 🤖';
+  duel.verbunden  = true;
+  log('Spiel gegen virtuellen Gegner', 'ok');
+  dbUpdate();
+  duelStart();
+}
+
+function vgSimuliereRunde(kat, seed) {
+  // Virtueller Gegner: zufällige Ergebnisse via Seed
+  let rng = seed;
+  let richtig = 0;
+  const zeitMs = [];
+  for (let i = 0; i < FRAGEN_PRO_RUNDE; i++) {
+    rng = Math.floor(seededRandom(rng + i * 1000) * 16777216);
+    if (seededRandom(rng) > 0.4) richtig++;
+    zeitMs.push(Math.floor(seededRandom(rng + 1) * TIMER.FRAGE * 1000));
+  }
+  return {
+    richtig,
+    punkte: richtig * 100,
+    zeitMs: zeitMs.reduce((a, b) => a + b, 0),
+    ergebnisse: zeitMs.map((z, i) => ({ korrekt: i < richtig, zeitMs: z }))
+  };
+}
+
+// ═══════════════════════════════════════════════
+// DUELL — START
+// ═══════════════════════════════════════════════
+function duelStart() {
+  duel.runde         = 0;
+  duel.meGesamt      = 0;
+  duel.oppGesamt     = 0;
+  duel.meZeitGesamt  = 0;
+  duel.oppZeitGesamt = 0;
+  duel.meRundenHistory  = [];
+  duel.oppRundenHistory = [];
+  log('Duell gestartet', 'ok');
+  starteRunde(1);
+}
+
+function duelReset() {
+  if (duel.pingTimer)     { clearInterval(duel.pingTimer);     duel.pingTimer     = null; }
+  if (duel.abbruchTimer)  { clearTimeout(duel.abbruchTimer);   duel.abbruchTimer  = null; }
+  if (duel.rundeWartTimer){ clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
+  if (frageTimer)         { clearInterval(frageTimer);         frageTimer          = null; }
+  if (katTimer)           { clearInterval(katTimer);           katTimer            = null; }
+  Object.values(duel.pending).forEach(id => clearInterval(id));
+  duel.pending  = {};
+  duel.seenSeqs = new Set();
+  duel.verbunden = false;
+  if (duel.pc) { try { duel.pc.close(); } catch(e) {} duel.pc = null; }
+  duel.dc = null;
+  dbPing(null);
+  dbUpdate();
+}
+
+// ═══════════════════════════════════════════════
+// RUNDENSTEUERUNG
+// ═══════════════════════════════════════════════
+function starteRunde(runde) {
+  duel.runde            = runde;
+  duel.meRundeErgebnis  = null;
+  duel.oppRundeErgebnis = null;
+  updateScoreboards();
+  log(`--- Runde ${runde} ---`, 'info');
+
+  if (ichWaehle(runde)) {
+    zeigeKatWahl(runde);
+  } else {
+    zeigeKatWarten(runde);
+  }
+}
+
+// ── Kategoriewahl ──
+function zeigeKatWahl(runde) {
+  showScreen('screen-kat');
+  el('kat-titel').textContent = `Runde ${runde} — Du wählst`;
+  el('kat-sub').textContent   = duel.rolle === 'virtuell' ? '' : `${duel.gegnerName} übernimmt deine Wahl`;
+
+  const btns = el('kat-buttons');
+  btns.innerHTML = '';
+  KATEGORIEN.forEach(kat => {
+    const b = document.createElement('button');
+    b.className   = 'btn btn-ghost';
+    b.textContent = kat;
+    b.onclick     = () => katWaehlen(kat);
+    btns.appendChild(b);
+  });
+
+  // Countdown
+  let sek = TIMER.KAT_WAHL;
+  el('kat-countdown').textContent = sek;
+  if (katTimer) clearInterval(katTimer);
+  katTimer = setInterval(() => {
+    sek--;
+    el('kat-countdown').textContent = Math.max(0, sek);
+    if (sek <= 0) {
+      clearInterval(katTimer); katTimer = null;
+      const auto = KATEGORIEN[Math.floor(Math.random() * KATEGORIEN.length)];
+      log(`Kat-Timer → Auto: ${auto}`, 'warn');
+      katWaehlen(auto);
+    }
+  }, 1000);
+}
+
+function katWaehlen(kat) {
+  if (katTimer) { clearInterval(katTimer); katTimer = null; }
+  const seed = Math.floor(Math.random() * 16777216);
+  duel.aktuellerSeed = seed;
+  log(`Kategorie gewählt: ${kat} (seed=${seed})`, 'ok');
+
+  if (duel.rolle !== 'virtuell') {
+    msgSendReliable({ type: 'kat', kat, seed, runde: duel.runde });
+  }
+  starteFragenMitKat(kat, seed);
+}
+
+// ── Warten auf Gegner-Kat ──
+function zeigeKatWarten(runde) {
+  showScreen('screen-kat-warten');
+  el('kat-wart-titel').textContent = `Runde ${runde} — ${duel.gegnerName} wählt`;
+
+  let sek = TIMER.KAT_TIMEOUT;
+  el('kat-wart-countdown').textContent = sek;
+  if (duel.rundeWartTimer) clearTimeout(duel.rundeWartTimer);
+
+  const countdown = setInterval(() => {
+    sek--;
+    const e = el('kat-wart-countdown');
+    if (e) e.textContent = Math.max(0, sek);
+  }, 1000);
+
+  duel.rundeWartTimer = setTimeout(() => {
+    clearInterval(countdown);
+    if (duel.runde === runde) {
+      log(`Kat-Timeout Runde ${runde} — erzwinge eigene Wahl`, 'warn');
+      duel.rundeWartTimer = null;
+      zeigeKatWahl(runde);
+    }
+  }, TIMER.KAT_TIMEOUT * 1000);
+}
+
+// ═══════════════════════════════════════════════
+// FRAGEN (TIMERGESTEUERT)
+// ═══════════════════════════════════════════════
+let aktuelleFrageNr = 0;
+let rundeErgebnisse = [];
+let rundeStartZeit  = 0;
+
+function starteFragenMitKat(kat, seed) {
+  aktuelleFrageNr = 0;
+  rundeErgebnisse = [];
+  rundeStartZeit  = Date.now();
+
+  // Virtueller Gegner: sofort Ergebnis berechnen
+  if (duel.rolle === 'virtuell') {
+    duel.oppRundeErgebnis = vgSimuliereRunde(kat, seed);
+    duel.oppGesamt       += duel.oppRundeErgebnis.punkte;
+    duel.oppZeitGesamt   += duel.oppRundeErgebnis.zeitMs;
+    duel.oppRundenHistory.push(duel.oppRundeErgebnis);
+  }
+
+  naechsteFrage(kat, seed);
+}
+
+function naechsteFrage(kat, seed) {
+  if (aktuelleFrageNr >= FRAGEN_PRO_RUNDE) {
+    rundeAbgeschlossen();
+    return;
+  }
+
+  showScreen('screen-frage');
+  el('frage-runde-label').textContent = `Runde ${duel.runde} · Frage ${aktuelleFrageNr + 1}/${FRAGEN_PRO_RUNDE}`;
+  el('frage-kat-label').textContent   = `Kategorie: ${kat}`;
+  el('frage-sub').textContent         = 'Timer läuft…';
+  updateScoreboards();
+
+  let sek = TIMER.FRAGE;
+  const arc = el('timer-arc');
+  const circ = 2 * Math.PI * 35;
+
+  function updateArc() {
+    const frac = sek / TIMER.FRAGE;
+    arc.style.strokeDashoffset = circ * (1 - frac);
+    arc.style.stroke = frac > .5 ? 'var(--accent)' : frac > .25 ? 'var(--yellow)' : 'var(--red)';
+    el('timer-zahl').textContent = Math.max(0, sek);
+  }
+  updateArc();
+
+  if (frageTimer) clearInterval(frageTimer);
+  frageTimer = setInterval(() => {
+    sek--;
+    updateArc();
+    if (sek <= 0) {
+      clearInterval(frageTimer); frageTimer = null;
+      // Timer abgelaufen = falsch
+      antwortSimuliert(false, kat, seed);
+    }
+  }, 1000);
+}
+
+function antwortSimuliert(korrekt, kat, seed) {
+  if (frageTimer) { clearInterval(frageTimer); frageTimer = null; }
+  const zeitMs = (TIMER.FRAGE - parseInt(el('timer-zahl').textContent || '0')) * 1000;
+  rundeErgebnisse.push({ korrekt, zeitMs });
+  aktuelleFrageNr++;
+
+  // Nächste Frage oder Rundenende
+  if (aktuelleFrageNr < FRAGEN_PRO_RUNDE) {
+    naechsteFrage(kat || '', seed || 0);
+  } else {
+    rundeAbgeschlossen();
+  }
+}
+
+// ═══════════════════════════════════════════════
+// RUNDENABSCHLUSS
+// ═══════════════════════════════════════════════
+function rundeAbgeschlossen() {
+  const richtig = rundeErgebnisse.filter(e => e.korrekt).length;
+  const punkte  = richtig * 100;
+  const zeitMs  = rundeErgebnisse.reduce((s, e) => s + e.zeitMs, 0);
+
+  duel.meRundeErgebnis = { richtig, punkte, zeitMs, ergebnisse: rundeErgebnisse };
+  duel.meGesamt       += punkte;
+  duel.meZeitGesamt   += zeitMs;
+  duel.meRundenHistory.push(duel.meRundeErgebnis);
+
+  log(`Eigenes Ergebnis: ${richtig}/${FRAGEN_PRO_RUNDE} (${punkte}P)`, 'ok');
+
+  if (duel.rolle !== 'virtuell') {
+    msgSendReliable({ type: 'runde', ergebnis: duel.meRundeErgebnis });
+  }
+
+  // Vergleich zeigen wenn beide da
+  if (duel.oppRundeErgebnis) {
+    zeigeVergleich();
+  } else {
+    // Warte auf Gegner-Ergebnis
+    showScreen('screen-vergleich');
+    el('vgl-titel').textContent   = `Runde ${duel.runde} — Warte auf ${duel.gegnerName}…`;
+    el('vgl-weiter-btn').disabled = true;
+    el('vgl-weiter-btn').textContent = `⏳ Warte auf ${duel.gegnerName}…`;
+    updateScoreboards();
+
+    duel.rundeWartTimer = setTimeout(() => {
+      duel.rundeWartTimer = null;
+      if (!duel.oppRundeErgebnis) {
+        log('Ergebnis-Timeout — nehme 0 an', 'warn');
+        duel.oppRundeErgebnis = { richtig: 0, punkte: 0, zeitMs: FRAGEN_PRO_RUNDE * TIMER.FRAGE * 1000, ergebnisse: [] };
+        duel.oppRundenHistory.push(duel.oppRundeErgebnis);
+        zeigeVergleich();
+      }
+    }, TIMER.RUNDEN_TIMEOUT * 1000);
+  }
+}
+
+function zeigeVergleich() {
+  if (!duel.meRundeErgebnis || !duel.oppRundeErgebnis) return;
+  if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
+
+  showScreen('screen-vergleich');
+  updateScoreboards();
+  el('vgl-titel').textContent = `Runde ${duel.runde} — Ergebnis`;
+
+  const me  = duel.meRundeErgebnis;
+  const opp = duel.oppRundeErgebnis;
+  const meGewonnen = me.punkte > opp.punkte || (me.punkte === opp.punkte && me.zeitMs <= opp.zeitMs);
+
+  el('vgl-compare').innerHTML = `
+    <div class="rc-box ${meGewonnen ? 'winner' : ''}">
+      <div class="rc-name">Du</div>
+      <div class="rc-score" style="color:var(--accent)">${me.punkte}</div>
+      <div class="rc-detail">${me.richtig}/${FRAGEN_PRO_RUNDE} richtig</div>
+      <div class="rc-detail">${(me.zeitMs/1000).toFixed(1)}s</div>
+    </div>
+    <div class="rc-box ${!meGewonnen ? 'winner' : ''}">
+      <div class="rc-name">${duel.gegnerName}</div>
+      <div class="rc-score" style="color:var(--yellow)">${opp.punkte}</div>
+      <div class="rc-detail">${opp.richtig}/${FRAGEN_PRO_RUNDE} richtig</div>
+      <div class="rc-detail">${(opp.zeitMs/1000).toFixed(1)}s</div>
+    </div>`;
+
+  const btn = el('vgl-weiter-btn');
+  btn.disabled    = false;
+  btn.textContent = duel.runde < RUNDEN_TOTAL
+    ? `Runde ${duel.runde + 1} starten →`
+    : 'Ergebnis anzeigen →';
+}
+
+function naechsteRunde() {
+  if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
+  duel.meRundeErgebnis  = null;
+  duel.oppRundeErgebnis = null;
+
+  if (duel.runde >= RUNDEN_TOTAL) {
+    zeigeSpielende();
+  } else {
+    starteRunde(duel.runde + 1);
+  }
+}
+
+// ═══════════════════════════════════════════════
+// SPIELENDE
+// ═══════════════════════════════════════════════
+function zeigeSpielende() {
+  if (duel.pingTimer) { clearInterval(duel.pingTimer); duel.pingTimer = null; }
+  showScreen('screen-ende');
+
+  const ichGewinne = duel.meGesamt > duel.oppGesamt ||
+    (duel.meGesamt === duel.oppGesamt && duel.meZeitGesamt <= duel.oppZeitGesamt);
+
+  el('ende-emoji').textContent  = ichGewinne ? '🏆' : '😔';
+  el('ende-titel').textContent  = ichGewinne ? 'Du gewinnst!' : `${duel.gegnerName} gewinnt`;
+
+  el('ende-compare').innerHTML = `
+    <div class="rc-box ${ichGewinne ? 'winner' : ''}">
+      <div class="rc-name">Du</div>
+      <div class="rc-score" style="color:var(--accent)">${duel.meGesamt}</div>
+      <div class="rc-detail">${(duel.meZeitGesamt/1000).toFixed(1)}s gesamt</div>
+    </div>
+    <div class="rc-box ${!ichGewinne ? 'winner' : ''}">
+      <div class="rc-name">${duel.gegnerName}</div>
+      <div class="rc-score" style="color:var(--yellow)">${duel.oppGesamt}</div>
+      <div class="rc-detail">${(duel.oppZeitGesamt/1000).toFixed(1)}s gesamt</div>
+    </div>`;
+
+  // Rundenübersicht
+  let hist = '';
+  for (let i = 0; i < duel.meRundenHistory.length; i++) {
+    const me  = duel.meRundenHistory[i];
+    const opp = duel.oppRundenHistory[i] || { richtig: 0, punkte: 0 };
+    const gewonnen = me.punkte > opp.punkte || (me.punkte === opp.punkte && (me.zeitMs||0) <= (opp.zeitMs||0));
+    hist += `<div style="display:flex;justify-content:space-between;padding:4px 0;border-bottom:1px solid var(--border)">
+      <span>Runde ${i+1}</span>
+      <span>${gewonnen ? '✓' : '✗'} ${me.punkte}P vs ${opp.punkte}P</span>
+    </div>`;
+  }
+  el('ende-history').innerHTML = hist;
+  log(`Spielende — Du: ${duel.meGesamt} | ${duel.gegnerName}: ${duel.oppGesamt}`, 'ok');
+}
+
+// ═══════════════════════════════════════════════
+// ABBRUCH / DISCONNECT
+// ═══════════════════════════════════════════════
+function duelAbgebrochen(ichGewinne, grund) {
+  if (duel.pingTimer)     { clearInterval(duel.pingTimer);     duel.pingTimer     = null; }
+  if (duel.abbruchTimer)  { clearTimeout(duel.abbruchTimer);   duel.abbruchTimer  = null; }
+  if (duel.rundeWartTimer){ clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
+  if (frageTimer)         { clearInterval(frageTimer);         frageTimer          = null; }
+  Object.values(duel.pending).forEach(id => clearInterval(id));
+  duel.pending = {};
+
+  if (!ichGewinne) msgSend({ type: 'abbruch' });
+
+  showScreen('screen-abbruch');
+  el('abbruch-titel').textContent = ichGewinne
+    ? (grund === 'verbindung' ? 'Verbindung verloren' : `${duel.gegnerName} hat aufgegeben`)
+    : 'Verbindung verloren';
+  el('abbruch-sub').textContent = ichGewinne
+    ? 'Du gewinnst das Duell!'
+    : 'Duell ohne Sieger beendet.';
+
+  log(`Abbruch: ichGewinne=${ichGewinne} grund=${grund||'aufgabe'}`, 'warn');
+}
+
+function abbrechen() {
+  duelAbgebrochen(false, 'aufgabe');
+}
+
+// ═══════════════════════════════════════════════
+// NEUSTART
+// ═══════════════════════════════════════════════
+function neustart() {
+  duelReset();
+  duel.rolle = null;
+  duel.gegnerName = '';
+  warteraumBetreten();
+}
+
+// ═══════════════════════════════════════════════
+// NETZ-STATUS
+// ═══════════════════════════════════════════════
+window.addEventListener('online',  dbUpdate);
+window.addEventListener('offline', dbUpdate);
+
+// ═══════════════════════════════════════════════
+// INIT
+// ═══════════════════════════════════════════════
+fillStartDebug();
+dbUpdate();
+setInterval(dbUpdate, 5000);
+
+// Standard-Name vorbelegen
+const gespeicherterName = localStorage.getItem('duell-name');
+if (gespeicherterName) el('input-name').value = gespeicherterName;
+el('input-name').addEventListener('change', () => {
+  localStorage.setItem('duell-name', el('input-name').value);
+});
+
+log('Duellmaschine geladen', 'ok');
+log(`Rendezvous: ${RENDEZVOUS}`, 'info');
+</script>
+</body>
+</html>
