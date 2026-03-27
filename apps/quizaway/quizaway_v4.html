@@ -3956,12 +3956,13 @@ function resetSpiel() {
   // P2P duel-State
   if (duel.pc) { try { duel.pc.close(); } catch(e) {} duel.pc = null; }
   if (duel.dc) { try { duel.dc.close(); } catch(e) {} duel.dc = null; }
-  if (duel.pingTimer)       { clearInterval(duel.pingTimer);      duel.pingTimer      = null; }
-  if (duel.abbruchTimer)    { clearTimeout(duel.abbruchTimer);    duel.abbruchTimer   = null; }
-  if (duel.rundeWartTimer)  { clearTimeout(duel.rundeWartTimer);  duel.rundeWartTimer = null; }
-  if (duel.rundeAutoTimer)  { clearInterval(duel.rundeAutoTimer); duel.rundeAutoTimer = null; }
-  if (duel.katResendTimer)  { clearInterval(duel.katResendTimer); duel.katResendTimer = null; }
-  if (duel.rundeResendTimer){ clearInterval(duel.rundeResendTimer); duel.rundeResendTimer = null; }
+  if (duel.pingTimer)      { clearInterval(duel.pingTimer);     duel.pingTimer    = null; }
+  if (duel.abbruchTimer)   { clearTimeout(duel.abbruchTimer);   duel.abbruchTimer = null; }
+  if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
+  if (duel.rundeAutoTimer) { clearInterval(duel.rundeAutoTimer);duel.rundeAutoTimer = null; }
+  Object.values(duel.pending).forEach(id => clearInterval(id));
+  duel.pending  = {};
+  duel.seenSeqs = new Set();
   duel.verbunden    = false;
   duel.rolle        = null;
   duel.gegnerName   = 'Gegner';
@@ -5052,9 +5053,10 @@ let duel = {
   rundeAutoTimer: null,
   missedPings: 0,
 
-  // Retransmission für kritische Nachrichten
-  katResendTimer: null,
-  rundeResendTimer: null,
+  // ACK-basiertes zuverlässiges Senden (Schicht 2)
+  outSeq: 0,      // ausgehende Sequenznummer
+  pending: {},    // {seq: intervalId} — warten auf ACK
+  seenSeqs: new Set(), // empfangene Sequenznummern (Duplikat-Schutz)
 };
 
 // ─── Hilfsfunktionen ─────────────────────────────────────────
@@ -5068,6 +5070,18 @@ function duelMsgSend(obj) {
   if (duel.dc && duel.dc.readyState === 'open') {
     duel.dc.send(JSON.stringify(obj));
   }
+}
+
+// ─── Zuverlässiges Senden mit ACK (Schicht 2) ────────────────
+function duelSendReliable(msg) {
+  const seq = ++duel.outSeq;
+  msg.seq = seq;
+  duelMsgSend(msg);
+  duel.pending[seq] = setInterval(() => {
+    if (!duel.dc || duel.dc.readyState !== 'open') return;
+    duelLog('[↺] ' + msg.type + ' seq=' + seq + ' erneut gesendet');
+    duelMsgSend(msg);
+  }, 3000);
 }
 
 async function duelIceGather(pc) {
@@ -5140,9 +5154,14 @@ function duelSetupDC(dc) {
       if (duel.missedPings === 3) {
         duelLog('⚠️ Verbindung verloren — warte 30s auf Lebenszeichen…');
         duel.abbruchTimer = setTimeout(() => {
-          duelLog('📡 ' + duel.gegnerName + ' nicht erreichbar — Spiel beendet');
-          duelMsgSend({ type: 'abbruch' }); // best effort — Gegner informieren falls doch noch da
-          duelAbgebrochen(true, 'verbindung');
+          if (navigator.onLine) {
+            duelLog('📡 ' + duel.gegnerName + ' nicht erreichbar — Spiel beendet');
+            duelMsgSend({ type: 'abbruch' }); // best effort
+            duelAbgebrochen(true, 'verbindung');
+          } else {
+            duelLog('📡 Verbindung verloren — kein Sieger');
+            duelAbgebrochen(false, 'verbindung');
+          }
         }, 30000);
       }
     }, 5000);
@@ -5193,6 +5212,13 @@ function duelHandleMsg(msg) {
       });
       break;
 
+    case 'ack':
+      if (duel.pending[msg.seq]) {
+        clearInterval(duel.pending[msg.seq]);
+        delete duel.pending[msg.seq];
+      }
+      break;
+
     case 'ping':
       duel.missedPings = 0;
       duelMsgSend({ type: 'pong' });
@@ -5204,15 +5230,16 @@ function duelHandleMsg(msg) {
       break;
 
     case 'kat':
-      // Duplikat-Schutz: gleicher Seed → bereits in Bearbeitung, ignorieren
-      if (msg.seed === duel.aktuellerSeed) {
-        duelLog('[↩] Kat ' + msg.katId + ' Runde ' + msg.runde + ' ignoriert (Duplikat)');
+      // ACK sofort senden
+      duelMsgSend({ type: 'ack', seq: msg.seq });
+      // Duplikat-Schutz per Sequenznummer
+      if (duel.seenSeqs.has(msg.seq)) {
+        duelLog('[↩] kat seq=' + msg.seq + ' ignoriert (Duplikat)');
         break;
       }
-      // Wart-Timer + Runde-Resend stoppen — Kat ist angekommen (Gegner hat unser Ergebnis erhalten)
-      if (duel.rundeWartTimer)  { clearTimeout(duel.rundeWartTimer);    duel.rundeWartTimer  = null; }
-      if (duel.rundeResendTimer){ clearInterval(duel.rundeResendTimer); duel.rundeResendTimer= null; }
-      // Guest empfängt Kategorie — runde synchronisieren
+      duel.seenSeqs.add(msg.seq);
+      // Wart-Timer stoppen
+      if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
       duel.runde = msg.runde || duel.runde;
       duel.aktuellerSeed = msg.seed;
       duel.gespielteKats.push(msg.katId);
@@ -5221,23 +5248,21 @@ function duelHandleMsg(msg) {
       break;
 
     case 'runde':
-      // Duplikat-Schutz: Ergebnis bereits vorhanden → ignorieren
-      if (duel.oppRundeErgebnis) {
-        duelLog('[↩] Runden-Ergebnis ignoriert (Duplikat)');
+      // ACK sofort senden
+      duelMsgSend({ type: 'ack', seq: msg.seq });
+      // Duplikat-Schutz per Sequenznummer
+      if (duel.seenSeqs.has(msg.seq)) {
+        duelLog('[↩] runde seq=' + msg.seq + ' ignoriert (Duplikat)');
         break;
       }
-      // Alle Wart-Timer stoppen — Gegner-Ergebnis ist angekommen
-      if (duel.rundeWartTimer)  { clearTimeout(duel.rundeWartTimer);    duel.rundeWartTimer  = null; }
-      if (duel.katResendTimer)  { clearInterval(duel.katResendTimer);   duel.katResendTimer  = null; }
-      if (duel.rundeResendTimer){ clearInterval(duel.rundeResendTimer); duel.rundeResendTimer= null; }
-      // Gegner-Ergebnis empfangen
+      duel.seenSeqs.add(msg.seq);
+      // Wart-Timer stoppen
+      if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
       duel.oppRundeErgebnis = msg.ergebnis;
       duel.oppGesamt += msg.ergebnis.punkte;
       duel.oppZeitGesamt += msg.ergebnis.zeitMs || 0;
-      // History mitführen für Endergebnis
       duellState.oppRundenHistory.push(msg.ergebnis);
       duelLog('Gegner-Ergebnis da: ' + msg.ergebnis.richtig + '/3');
-      // abbruchTimer clearen — Gegner ist noch da
       if (duel.abbruchTimer) { clearTimeout(duel.abbruchTimer); duel.abbruchTimer = null; duel.missedPings = 0; }
       duelZeigeVergleich();
       break;
@@ -5428,20 +5453,8 @@ function duelKatBestaetigen() {
   const seed = Math.floor(Math.random() * 16777216); // 24-bit Seed
   duel.aktuellerSeed = seed;
   duel.gespielteKats.push(kat.id);
-  const katMsg = { type: 'kat', katId: kat.id, seed, runde: duel.runde };
-  duelMsgSend(katMsg);
   duelLog('Kategorie gesendet: ' + kat.name);
-  // Retransmission: alle 5s erneut senden, bis Gegner-Ergebnis eintrifft
-  if (duel.katResendTimer) { clearInterval(duel.katResendTimer); duel.katResendTimer = null; }
-  const katRunde = duel.runde;
-  duel.katResendTimer = setInterval(() => {
-    if (duel.oppRundeErgebnis || duel.runde !== katRunde) {
-      clearInterval(duel.katResendTimer); duel.katResendTimer = null;
-    } else {
-      duelLog(`[↺] Kat ${kat.id} Runde ${katRunde} erneut gesendet`);
-      duelMsgSend(katMsg);
-    }
-  }, 5000);
+  duelSendReliable({ type: 'kat', katId: kat.id, seed, runde: duel.runde });
   duelStarteFragenMitKat(kat.id, seed);
 }
 
@@ -5536,8 +5549,6 @@ function duelStarteFragenMitKat(katId, seed) {
 
 // ─── Runden-Ergebnis nach Spielen senden ─────────────────────
 function duelRundeAbgeschlossen() {
-  // Kat-Resend sofort stoppen — ich habe meine Runde abgeschlossen
-  if (duel.katResendTimer) { clearInterval(duel.katResendTimer); duel.katResendTimer = null; }
   const meRunde = duellState.meRundenHistory[duellState.meRundenHistory.length - 1];
   if (!meRunde) { duelLog('WARN: meRunde fehlt in History'); return; }
   duelLog(`Runde abgeschlossen: richtig=${meRunde.richtig}, punkte=${meRunde.punkte}, state.gesamtPunkte=${state.gesamtPunkte}`);
@@ -5547,21 +5558,8 @@ function duelRundeAbgeschlossen() {
   duel.meGesamt += meRunde.punkte;
   duel.meZeitGesamt += rundeZeitMs;
   duel.meRundeErgebnis = { ...meRunde, zeitMs: rundeZeitMs };
-
-  const rundeMsg = { type: 'runde', ergebnis: duel.meRundeErgebnis };
-  duelMsgSend(rundeMsg);
   duelLog('Ergebnis gesendet — warte auf ' + duel.gegnerName + '…');
-  // Retransmission: alle 5s erneut senden, bis Gegner-Ergebnis eintrifft
-  if (duel.rundeResendTimer) { clearInterval(duel.rundeResendTimer); duel.rundeResendTimer = null; }
-  const rundeNr = duel.runde;
-  duel.rundeResendTimer = setInterval(() => {
-    if (duel.oppRundeErgebnis || duel.runde !== rundeNr) {
-      clearInterval(duel.rundeResendTimer); duel.rundeResendTimer = null;
-    } else {
-      duelLog(`[↺] Runden-Ergebnis Runde ${rundeNr} erneut gesendet`);
-      duelMsgSend(rundeMsg);
-    }
-  }, 5000);
+  duelSendReliable({ type: 'runde', ergebnis: duel.meRundeErgebnis });
 
   // Button sperren
   const btn = document.getElementById('naechste-runde-btn');
@@ -5747,11 +5745,12 @@ function duelZeigeEndergebnis() {
 
 // ─── Abbruch ─────────────────────────────────────────────────
 function duelAbgebrochen(ichGewinne, grund) {
-  clearInterval(duel.pingTimer);
-  if (duel.abbruchTimer)    { clearTimeout(duel.abbruchTimer);    duel.abbruchTimer    = null; }
-  if (duel.katResendTimer)  { clearInterval(duel.katResendTimer); duel.katResendTimer  = null; }
-  if (duel.rundeResendTimer){ clearInterval(duel.rundeResendTimer); duel.rundeResendTimer = null; }
-  if (duel.rundeWartTimer)  { clearTimeout(duel.rundeWartTimer);  duel.rundeWartTimer  = null; }
+  clearInterval(duel.pingTimer); duel.pingTimer = null;
+  if (duel.abbruchTimer)   { clearTimeout(duel.abbruchTimer);   duel.abbruchTimer   = null; }
+  if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
+  if (duel.rundeAutoTimer) { clearInterval(duel.rundeAutoTimer);duel.rundeAutoTimer = null; }
+  Object.values(duel.pending).forEach(id => clearInterval(id));
+  duel.pending = {};
 
   if (ichGewinne) {
     const istVerbindungsVerlust = (grund === 'verbindung');
@@ -5759,8 +5758,6 @@ function duelAbgebrochen(ichGewinne, grund) {
       ? `📡 Verbindung zu ${duel.gegnerName} verloren`
       : `${duel.gegnerName} hat aufgegeben`;
     duelLog(meldung + ' — du gewinnst! 🏆');
-
-    // Kurze Meldung einblenden, dann Endergebnis
     const overlay = document.createElement('div');
     overlay.style.cssText = [
       'position:fixed','top:0','left:0','width:100%','height:100%',
@@ -5776,11 +5773,34 @@ function duelAbgebrochen(ichGewinne, grund) {
       if (overlay.parentNode) overlay.parentNode.removeChild(overlay);
       duelZeigeEndergebnis();
     }, 3000);
-
   } else {
-    duelLog('Verbindung verloren');
-    duelMsgSend({ type: 'abbruch' }); // Gegner informieren — ich gebe auf
-    showScreen('screen-duell-start');
+    const istVerbindungsVerlust = (grund === 'verbindung');
+    if (!istVerbindungsVerlust) duelMsgSend({ type: 'abbruch' }); // nur bei Aufgabe senden
+    duelLog(istVerbindungsVerlust ? '📡 Verbindung verloren — Duell abgebrochen' : 'Duell abgebrochen');
+    if (istVerbindungsVerlust) {
+      // Szenario 2: beide offline → Verlierer-Screen
+      duellState.meScore  = duel.meGesamt;
+      duellState.oppScore = duel.meGesamt + 1; // sicherstellen dass ich als Verlierer erscheine
+      duellState.gegner   = { name: duel.gegnerName, liga:{symbol:'⚔️',name:'P2P'}, avatar:'🧑' };
+      duellState.verbindungVerloren = true;
+      const overlay = document.createElement('div');
+      overlay.style.cssText = [
+        'position:fixed','top:0','left:0','width:100%','height:100%',
+        'background:rgba(0,0,0,0.75)','display:flex','align-items:center',
+        'justify-content:center','z-index:9999','flex-direction:column','gap:12px'
+      ].join(';');
+      overlay.innerHTML = `
+        <div style="font-size:2.5rem">📡</div>
+        <div style="color:#fff;font-size:1.1rem;font-weight:600;text-align:center;padding:0 24px">Verbindung verloren</div>
+        <div style="color:#aaa;font-size:0.9rem">Duell gewertet als Niederlage</div>`;
+      document.body.appendChild(overlay);
+      setTimeout(() => {
+        if (overlay.parentNode) overlay.parentNode.removeChild(overlay);
+        zeigeDuellErgebnis();
+      }, 3000);
+    } else {
+      showScreen('screen-duell-start');
+    }
   }
 }
 
