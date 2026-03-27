@@ -40,7 +40,7 @@ warteraum_lock = threading.Lock()
 lobby_lock     = threading.Lock()
 
 # TTL-Konstanten
-WARTERAUM_TTL = 30    # 30s — kurz, weil Heartbeat alle 10s kommt
+WARTERAUM_TTL = 120   # 120s — Puffer für mobile Background-Tabs (Heartbeat alle 10s)
 LOBBY_TTL     = 300   # 5 Minuten
 
 # ─── Hilfsfunktionen ─────────────────────────────────────────

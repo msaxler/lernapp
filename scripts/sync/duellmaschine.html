@@ -435,13 +435,15 @@ const ICE = { iceServers: [
 let SPIELER_NAME = '';
 
 let warteraum = {
-  meineId:       null,
-  pollingTimer:  null,
-  autoTimer:     null,
+  meineId:        null,
+  pollingTimer:   null,
+  autoTimer:      null,
   heartbeatTimer: null,
-  autoSek:       28,
-  _joining:      false,
-  _entscheide:   false,
+  _joining:       false,
+  _entscheide:    false,
+  _autoStart:     0,
+  _backgroundedAt: null,
+  _visHandler:    null,
 };
 
 let duel = {
@@ -755,18 +757,38 @@ async function warteraumBetreten() {
     log('Server nicht erreichbar — nur virtueller Gegner', 'warn');
   }
 
-  // Auto-Countdown
-  let sek = TIMER_WR = 28;
-  el('wr-countdown').textContent = sek;
+  // Auto-Countdown — Date.now()-basiert damit Background-Tabs nicht sofort feuern
+  const autoStart = Date.now();
+  const autoDauer = 28000; // ms
+  warteraum._autoStart = autoStart;
+  el('wr-countdown').textContent = '28';
   warteraum.autoTimer = setInterval(() => {
-    sek--;
-    el('wr-countdown').textContent = Math.max(0, sek);
-    if (sek <= 0) {
+    const vergangen = Date.now() - warteraum._autoStart;
+    const rest = Math.max(0, Math.round((autoDauer - vergangen) / 1000));
+    el('wr-countdown').textContent = rest;
+    if (vergangen >= autoDauer) {
       clearInterval(warteraum.autoTimer); warteraum.autoTimer = null;
       log('Warteraum-Timer abgelaufen → Auto-Auswahl', 'warn');
       warteraumAutoAuswahl();
     }
   }, 1000);
+
+  // visibilitychange: bei Rückkehr aus Hintergrund Timer-Start nachziehen + Heartbeat
+  warteraum._visHandler = () => {
+    if (document.visibilityState === 'hidden') {
+      warteraum._backgroundedAt = Date.now();
+    } else {
+      if (warteraum._backgroundedAt) {
+        const bgMs = Date.now() - warteraum._backgroundedAt;
+        warteraum._autoStart += bgMs;   // Timer-Startpunkt nach hinten schieben
+        warteraum._backgroundedAt = null;
+        log(`Tab war ${Math.round(bgMs/1000)}s im Hintergrund — Timer angepasst`, 'info');
+      }
+      // Sofort Heartbeat senden damit TTL nicht abläuft
+      warteraumHeartbeat();
+    }
+  };
+  document.addEventListener('visibilitychange', warteraum._visHandler);
 }
 
 let TIMER_WR = 28;
@@ -826,19 +848,32 @@ function warteraumStopTimers() {
   if (warteraum.autoTimer)      { clearInterval(warteraum.autoTimer);      warteraum.autoTimer      = null; }
   if (warteraum.pollingTimer)   { clearInterval(warteraum.pollingTimer);   warteraum.pollingTimer   = null; }
   if (warteraum.heartbeatTimer) { clearInterval(warteraum.heartbeatTimer); warteraum.heartbeatTimer = null; }
+  if (warteraum._visHandler)    { document.removeEventListener('visibilitychange', warteraum._visHandler); warteraum._visHandler = null; }
 }
 
 async function warteraumAutoAuswahl() {
   if (!warteraum.meineId) { eventFeedStop(); eventReport('fallback', 'timer'); gegenVirtuell(); return; }
+
+  // Eigenen Status prüfen — 404 = Server hat uns vergessen (Tab war zu lange im Hintergrund)
   try {
     const r    = await apiFetch('/warteraum/status/' + warteraum.meineId);
+    if (r.status === 404) {
+      log('Status 404 — Warteraum-Eintrag abgelaufen, neu registrieren…', 'warn');
+      warteraum.meineId = null;
+      // Einfach neu betreten (setzt neuen Timer + ID)
+      warteraumStopTimers();
+      warteraumBetreten();
+      return;
+    }
     const data = await r.json();
-    if (data.herausforderung) {
+    if (data.herausforderung?.angebots_id) {
       warteraumStopTimers();
       warteraumHerausforderungAnnehmen(data.herausforderung);
       return;
     }
   } catch(e) { /* ignorieren */ }
+
+  // Andere Spieler suchen
   try {
     const r2   = await apiFetch('/warteraum/liste');
     const data = await r2.json();
