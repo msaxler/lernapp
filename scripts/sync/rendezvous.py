@@ -232,15 +232,21 @@ class Handler(BaseHTTPRequestHandler):
                 self.send_json(200, {'offer': None, 'ready': False}); return
             self.send_json(200, {'offer': offer, 'ready': True}); return
 
-        # GET /warteraum/liste  →  Alle FREE-Spieler (max. 4 für Client)
+        # GET /warteraum/liste  →  FREE-Spieler mit aktuellem Heartbeat (< 30s)
+        # Stale-Filter verhindert, dass abgegangene Spieler bis zur TTL (120s) sichtbar bleiben.
+        # Aktive Spieler senden alle 10s einen Heartbeat → immer sichtbar.
+        # Abgegangene (kein Heartbeat mehr) verschwinden nach spätestens 30s aus der Liste.
         if p == '/warteraum/liste':
             warteraum_cleanup()
+            jetzt = time.time()
             with warteraum_lock:
                 spieler = [
                     {'id': v['id'], 'name': v['name'], 'liga': v['liga'],
-                     'eingetreten': int(v['eingetreten'] * 1000)}
+                     'eingetreten':     int(v['eingetreten'] * 1000),
+                     'zuletzt_gesehen': int(v.get('zuletzt_gesehen', v['eingetreten']) * 1000)}
                     for v in warteraum.values()
                     if v['state'] == 'FREE'
+                    and jetzt - v.get('zuletzt_gesehen', v['eingetreten']) < 30
                 ]
             self.send_json(200, {'spieler': spieler}); return
 

@@ -2788,6 +2788,19 @@ function warteraumInit() {
   document.getElementById('wr-spieler-liste').innerHTML = '';
   document.getElementById('wr-spieler-count').textContent = '(suche…)';
 
+  // Stale-Cleanup: falls vorheriges warteraumAustragen() auf Render verloren ging,
+  // nochmals versuchen — verhindert, dass alter Eintrag als eigener Name auftaucht.
+  try {
+    const letzteId = sessionStorage.getItem('wr_letzteId');
+    sessionStorage.removeItem('wr_letzteId');
+    if (letzteId) {
+      rendezvousFetch('/warteraum/verlassen', {
+        method: 'POST', headers: {'Content-Type':'application/json'},
+        body: JSON.stringify({ id: letzteId })
+      }).catch(() => {});
+    }
+  } catch(e) {}
+
   // Warteraum betreten + polling starten (Timer läuft immer, auch wenn betreten noch nicht fertig)
   warteraum._registrierung = false;
   warteraumBetreten();
@@ -3305,6 +3318,9 @@ function warteraumVerlassen() {
 
 function warteraumAustragen() {
   if (warteraum.meineId) {
+    // ID in sessionStorage sichern — falls der Request verloren geht,
+    // versucht warteraumInit() beim nächsten Besuch einen Retry.
+    try { sessionStorage.setItem('wr_letzteId', warteraum.meineId); } catch(e) {}
     rendezvousFetch('/warteraum/verlassen', {
       method: 'POST', headers: {'Content-Type':'application/json'},
       body: JSON.stringify({ id: warteraum.meineId })
@@ -3317,6 +3333,7 @@ function warteraumAustragen() {
 // sendBeacon ist zuverlässiger als fetch() in beforeunload
 window.addEventListener('beforeunload', () => {
   if (warteraum.meineId) {
+    try { sessionStorage.setItem('wr_letzteId', warteraum.meineId); } catch(e) {}
     const blob = new Blob([JSON.stringify({ id: warteraum.meineId })], { type: 'application/json' });
     navigator.sendBeacon(RENDEZVOUS + '/warteraum/verlassen', blob);
     warteraum.meineId = null;
@@ -5775,7 +5792,13 @@ function duelZeigeVergleich() {
     }
 
     // 3s Mindest-Delay nur für UI (Vergleich anzeigen)
+    // Staleness-Check: duel.runde merken — falls der Spieler manuell klickt
+    // bevor die 3s ablaufen, hat duelNaechsteRunde() den Timer noch nicht canceln
+    // können (er ist noch null). Der Check stellt sicher, dass der veraltete
+    // Timer nicht trotzdem feuert und mitten in den nächsten Fragen advance.
+    const vergleichFuerRunde = duel.runde;
     setTimeout(() => {
+      if (duel.runde !== vergleichFuerRunde) return; // Spieler hat manuell bereits weitergemacht
       if (ichDarfWeiter) {
         btn.disabled = false;
         btn.style.opacity = '1';
@@ -5783,7 +5806,14 @@ function duelZeigeVergleich() {
         const hinweis = document.getElementById('runden-auto-hinweis');
         if (hinweis) hinweis.style.display = 'none';
         // Auto-weiter nach 5s — Spieler kann auch manuell früher klicken
-        duel.rundeAutoTimer = setTimeout(() => { if (!btn.disabled) naechsteRunde(); }, 5000);
+        duel.rundeAutoTimer = setTimeout(() => {
+          if (!btn.disabled && duel.runde === vergleichFuerRunde) {
+            duelLog(`[⏱] Auto-Advance Runde ${vergleichFuerRunde} → naechsteRunde()`);
+            naechsteRunde();
+          } else {
+            duelLog(`[⏱] Auto-Advance Runde ${vergleichFuerRunde} IGNORIERT (btn.disabled=${btn.disabled}, duel.runde=${duel.runde})`);
+          }
+        }, 5000);
       }
       // else: btn.textContent wurde bereits oben gesetzt
     }, 3000);
@@ -5817,6 +5847,7 @@ function duelUpdateScoreboard() {
 
 // ─── Nächste Runde (aufgerufen von naechsteRunde()) ──────────
 function duelNaechsteRunde() {
+  duelLog(`[→] duelNaechsteRunde aufgerufen (Runde=${duel.runde}, rolle=${duel.rolle})`);
   stopAutoWeiter();
   if (duel.rundeWartTimer)  { clearTimeout(duel.rundeWartTimer);  duel.rundeWartTimer  = null; }
   if (duel.rundeAutoTimer)  { clearInterval(duel.rundeAutoTimer); duel.rundeAutoTimer  = null; }
@@ -5826,14 +5857,15 @@ function duelNaechsteRunde() {
   if (reveal) reveal.style.display = 'none';
 
   if (duel.runde >= 5) {
+    duelLog('[→] Runde 5 abgeschlossen → zeige Endergebnis');
     duelZeigeEndergebnis();
   } else {
     const naechsteRunde = duel.runde + 1;
     if (duelIchWaehle(naechsteRunde)) {
-      // Ich habe Wahlrecht → Runde starten und Kategorie senden
+      duelLog(`[→] Ich starte Runde ${naechsteRunde} (Wahlrecht)`);
       duelStarteRunde(naechsteRunde);
     } else {
-      // Gegner hat Wahlrecht → nur lokal Runde setzen und warten
+      duelLog(`[→] Warte auf Kat-Wahl Runde ${naechsteRunde} (Gegner hat Wahlrecht)`);
       duel.runde = naechsteRunde;
       duel.meRundeErgebnis  = null;
       duel.oppRundeErgebnis = null;
