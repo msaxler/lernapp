@@ -1883,7 +1883,7 @@
 
       <!-- Timer -->
       <div class="zwischen-hinweis" id="warteraum-auto-hinweis" style="display:none;margin-top:auto;">
-        ⏱ Zufallsauswahl in <span id="warteraum-auto-sek">14</span>s
+        ⏱ Startet automatisch in <span id="warteraum-auto-sek">120</span>s
       </div>
 
     </div>
@@ -2836,10 +2836,10 @@ function warteraumInit() {
   const hinweis = document.getElementById('warteraum-auto-hinweis');
   const sekEl   = document.getElementById('warteraum-auto-sek');
   if (hinweis) { hinweis.style.display = 'block'; hinweis.classList.remove('warnung'); }
-  if (sekEl)   sekEl.textContent = 28;
+  if (sekEl)   sekEl.textContent = 120;
 
   warteraum.autoTimer = setInterval(() => {
-    const verbleibend = Math.max(0, 28 * (DEBUG_TIMER_FAKTOR||1) - Math.floor((Date.now() - warteraum.eingetreten) / 1000));
+    const verbleibend = Math.max(0, 120 * (DEBUG_TIMER_FAKTOR||1) - Math.floor((Date.now() - warteraum.eingetreten) / 1000));
     if (sekEl) sekEl.textContent = verbleibend;
     if (verbleibend <= 3 && hinweis) hinweis.classList.add('warnung');
     if (verbleibend <= 0) {

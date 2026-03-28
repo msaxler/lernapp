@@ -57,7 +57,7 @@ def new_pin():
 # Eintrag: { id, name, liga, eingetreten, state, partner, herausforderung }
 warteraum = {}
 warteraum_lock = threading.Lock()
-WARTERAUM_TTL = 120  # 120s — Puffer für Background-Tabs (Heartbeat alle 10s)
+WARTERAUM_TTL = 150  # 150s — Puffer für Background-Tabs (Heartbeat alle 10s)
 
 def warteraum_cleanup():
     now = time.time()
