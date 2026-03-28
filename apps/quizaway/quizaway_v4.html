@@ -2763,6 +2763,7 @@ const warteraum = {
   _registrierung:    false,  // Guard: verhindert parallele warteraumBetreten()-Aufrufe
   _visibilityHandler: null,  // visibilitychange-Handler (für removeEventListener)
   _backgroundedAt:   null,   // Zeitstempel wenn Tab in Hintergrund ging
+  heartbeatTimer:    null,   // Heartbeat alle 10s — hält Server-TTL am Leben
 };
 
 function warteraumInit() {
@@ -2770,6 +2771,7 @@ function warteraumInit() {
   warteraum._joining      = false;
   warteraum._entscheide   = false;
   warteraum._registrierung = false;
+  if (warteraum.heartbeatTimer) { clearInterval(warteraum.heartbeatTimer); warteraum.heartbeatTimer = null; }
   if (warteraum._visibilityHandler) {
     document.removeEventListener('visibilitychange', warteraum._visibilityHandler);
     warteraum._visibilityHandler = null;
@@ -2847,6 +2849,7 @@ async function warteraumBetreten() {
     const data = await res.json();
     if (data.id) {
       warteraum.meineId = data.id;
+      if (!warteraum.heartbeatTimer) warteraum.heartbeatTimer = setInterval(warteraumHeartbeat, 10000);
       warteraumPoll(); // sofort pollen
     }
   } catch(e) {
@@ -2855,6 +2858,17 @@ async function warteraumBetreten() {
   } finally {
     warteraum._registrierung = false;
   }
+}
+
+async function warteraumHeartbeat() {
+  if (!warteraum.meineId) return;
+  try {
+    await rendezvousFetch('/warteraum/heartbeat', {
+      method: 'POST',
+      headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({ id: warteraum.meineId })
+    });
+  } catch(e) { /* ignorieren */ }
 }
 
 async function warteraumPoll() {
@@ -2881,6 +2895,7 @@ async function warteraumPoll() {
       // Sofort als Guest annehmen — ALLE Timer abbrechen
       if (warteraum.pollingTimer)   { clearInterval(warteraum.pollingTimer);   warteraum.pollingTimer   = null; }
       if (warteraum.autoTimer)      { clearInterval(warteraum.autoTimer);       warteraum.autoTimer      = null; }
+      if (warteraum.heartbeatTimer) { clearInterval(warteraum.heartbeatTimer); warteraum.heartbeatTimer = null; }
       if (warteraum._vorschauTimer) { clearInterval(warteraum._vorschauTimer); warteraum._vorschauTimer = null; }
       warteraum._vorschauCallback = null;
       // Auf angebots_id warten falls noch null
@@ -2926,46 +2941,85 @@ function warteraumRendere(spieler) {
 }
 
 async function warteraumZufallsauswahl() {
-  // Timer sofort stoppen
-  if (warteraum.pollingTimer) { clearInterval(warteraum.pollingTimer); warteraum.pollingTimer = null; }
-  if (warteraum.autoTimer)    { clearInterval(warteraum.autoTimer);    warteraum.autoTimer    = null; }
+  // Alle Timer sofort stoppen
+  if (warteraum.pollingTimer)   { clearInterval(warteraum.pollingTimer);   warteraum.pollingTimer   = null; }
+  if (warteraum.autoTimer)      { clearInterval(warteraum.autoTimer);      warteraum.autoTimer      = null; }
+  if (warteraum.heartbeatTimer) { clearInterval(warteraum.heartbeatTimer); warteraum.heartbeatTimer = null; }
 
-  // Erst prüfen ob wir selbst herausgefordert wurden — vor allem nach Timer-Ablauf
-  if (warteraum.meineId) {
-    try {
-      const sr = await rendezvousFetch('/warteraum/status/' + warteraum.meineId);
-      const sd = await sr.json();
-      if (sd.herausforderung) {
-        // Herausforderung da — auf Angebots-ID warten falls noch null
-        let hf = sd.herausforderung;
-        if (!hf.angebots_id) {
-          for (let i = 0; i < 10; i++) {
-            await new Promise(r => setTimeout(r, 800));
-            const r2 = await rendezvousFetch('/warteraum/status/' + warteraum.meineId).catch(()=>null);
-            if (r2) { const d2 = await r2.json(); if (d2.herausforderung?.angebots_id) { hf = d2.herausforderung; break; } }
-          }
-        }
-        if (hf.angebots_id) {
-          warteraumHerausforderungAnnehmen(hf);
-          return;
-        }
-      }
-    } catch(e) { /* ignorieren */ }
-  }
+  if (!warteraum.meineId) { warteraumWaehle('virtuell'); return; }
 
-  // Frisch pollen
+  // Eigenen Status prüfen — vielleicht schon herausgefordert worden
   try {
-    const res = await rendezvousFetch('/warteraum/liste');
-    const data = await res.json();
-    const spieler = (data.spieler || []).filter(s => s.id !== warteraum.meineId).slice(0, 4);
-    warteraumRendere(spieler);
-    if (spieler.length > 0) {
-      const zuf = spieler[Math.floor(Math.random() * spieler.length)];
-      warteraumWaehle(zuf.id, zuf);
+    const sr = await rendezvousFetch('/warteraum/status/' + warteraum.meineId);
+    if (sr.status === 404) { warteraumWaehle('virtuell'); return; }
+    const sd = await sr.json();
+    if (sd.herausforderung?.angebots_id) {
+      warteraumHerausforderungAnnehmen(sd.herausforderung);
       return;
     }
   } catch(e) { /* ignorieren */ }
-  // Kein echter Spieler da → VG
+
+  // Serverseitige atomare Paarung — bis zu 3 Versuche mit je 2s Pause
+  for (let versuch = 0; versuch < 3; versuch++) {
+    if (!warteraum.meineId || warteraum._joining) return;
+
+    try {
+      const r2 = await rendezvousFetch('/warteraum/match', {
+        method: 'POST',
+        headers: {'Content-Type':'application/json'},
+        body: JSON.stringify({ meine_id: warteraum.meineId })
+      });
+
+      if (r2.status === 200) {
+        const data = await r2.json();
+
+        if (data.rolle === 'host') {
+          // HOST: Vorschau zeigen, dann P2PStart
+          const gegner = { id: data.gegner_id, name: data.gegner_name };
+          warteraum._vorschauCallback = () => {
+            warteraum._vorschauCallback = null;
+            warteraumP2PStart(data.gegner_id, gegner);
+          };
+          warteraumZeigeVorschau(gegner, false);
+        } else {
+          // GUEST: Eintrag NICHT sofort löschen — HOST braucht ihn für /herausforderung/update
+          let hf = data.herausforderung;
+          const meinId = warteraum.meineId; // sichern, aber NOCH NICHT löschen
+          for (let i = 0; i < 15 && !hf?.angebots_id; i++) {
+            await new Promise(r => setTimeout(r, 800));
+            const r3 = await rendezvousFetch('/warteraum/status/' + meinId).catch(() => null);
+            if (r3) { const d3 = await r3.json(); if (d3.herausforderung?.angebots_id) hf = d3.herausforderung; }
+          }
+          // warteraumHerausforderungAnnehmen ruft intern warteraumAustragen() auf
+          if (hf?.angebots_id) {
+            warteraumHerausforderungAnnehmen(hf);
+          } else {
+            warteraumWaehle('virtuell');
+          }
+        }
+        return;
+      }
+      // 204 = niemand verfügbar — kurz warten und nochmal versuchen
+    } catch(e) { /* ignorieren */ }
+
+    if (versuch < 2) {
+      await new Promise(res => setTimeout(res, 2000));
+      // Während Wartezeit prüfen ob Herausforderung eingegangen
+      if (warteraum.meineId && !warteraum._joining) {
+        try {
+          const rs = await rendezvousFetch('/warteraum/status/' + warteraum.meineId);
+          const ds = await rs.json();
+          if (ds.herausforderung?.angebots_id) {
+            warteraumHerausforderungAnnehmen(ds.herausforderung);
+            return;
+          }
+        } catch(e) { /* ignorieren */ }
+      }
+    }
+  }
+
+  if (!warteraum.meineId || warteraum._joining) return;
+  // Niemand gefunden → VG
   warteraumWaehle('virtuell');
 }
 
@@ -3241,8 +3295,9 @@ async function warteraumP2PStart(gegnerWarteraumId, gegner) {
 }
 
 function warteraumVerlassen() {
-  if (warteraum.autoTimer)    { clearInterval(warteraum.autoTimer);    warteraum.autoTimer    = null; }
-  if (warteraum.pollingTimer) { clearInterval(warteraum.pollingTimer); warteraum.pollingTimer = null; }
+  if (warteraum.autoTimer)      { clearInterval(warteraum.autoTimer);      warteraum.autoTimer      = null; }
+  if (warteraum.pollingTimer)   { clearInterval(warteraum.pollingTimer);   warteraum.pollingTimer   = null; }
+  if (warteraum.heartbeatTimer) { clearInterval(warteraum.heartbeatTimer); warteraum.heartbeatTimer = null; }
   warteraumAustragen();
   stopAutoWeiter();
   showScreen('screen-start');
@@ -3290,9 +3345,10 @@ async function warteraumHerausforderungAnnehmen(hf) {
   if (warteraum._joining) { console.warn('[Warteraum] _joining Guard — Aufruf ignoriert'); return; }
   warteraum._joining = true;
   // ALLE Timer sofort stoppen — auch Vorschau-Timer falls gerade läuft
-  if (warteraum.autoTimer)     { clearInterval(warteraum.autoTimer);     warteraum.autoTimer     = null; }
-  if (warteraum.pollingTimer)  { clearInterval(warteraum.pollingTimer);  warteraum.pollingTimer  = null; }
-  if (warteraum._vorschauTimer){ clearInterval(warteraum._vorschauTimer);warteraum._vorschauTimer= null; }
+  if (warteraum.autoTimer)      { clearInterval(warteraum.autoTimer);      warteraum.autoTimer      = null; }
+  if (warteraum.pollingTimer)   { clearInterval(warteraum.pollingTimer);   warteraum.pollingTimer   = null; }
+  if (warteraum.heartbeatTimer) { clearInterval(warteraum.heartbeatTimer); warteraum.heartbeatTimer = null; }
+  if (warteraum._vorschauTimer) { clearInterval(warteraum._vorschauTimer); warteraum._vorschauTimer = null; }
   warteraum._vorschauCallback = null; // Vorschau-Callback verwerfen
   warteraumAustragen();
 
@@ -5159,8 +5215,8 @@ function duelWahlrecht(runde) {
     if (duel.oppGesamt > duel.meGesamt) return 'opp';
     if (duel.meZeitGesamt < duel.oppZeitGesamt) return 'me';
     if (duel.oppZeitGesamt < duel.meZeitGesamt) return 'opp';
-    // Zufall via Seed (deterministisch)
-    return (duel.aktuellerSeed || Math.floor(Date.now()/1000)) % 2 === 0 ? 'me' : 'opp';
+    // Tiebreaker: HOST-Rolle (deterministisch — beide haben dieselbe Rolle-Info)
+    return duel.rolle === 'host' ? 'me' : 'opp';
   }
   // Runden 1,3 = Host wählt; 2,4 = Guest wählt
   const hostWaehlt = [1, 3];

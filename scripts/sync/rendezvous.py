@@ -38,13 +38,13 @@ def new_pin():
 # Eintrag: { id, name, liga, eingetreten, state, partner, herausforderung }
 warteraum = {}
 warteraum_lock = threading.Lock()
-WARTERAUM_TTL = 90   # 90s — Spieler werden automatisch entfernt
+WARTERAUM_TTL = 120  # 120s — Puffer für Background-Tabs (Heartbeat alle 10s)
 
 def warteraum_cleanup():
     now = time.time()
     with warteraum_lock:
         abgelaufen = [k for k,v in warteraum.items()
-                      if now - v['eingetreten'] > WARTERAUM_TTL]
+                      if now - v.get('zuletzt_gesehen', v['eingetreten']) > WARTERAUM_TTL]
         for k in abgelaufen:
             del warteraum[k]
 
@@ -335,6 +335,7 @@ class Handler(BaseHTTPRequestHandler):
                     'name':            body.get('name', 'Spieler'),
                     'liga':            body.get('liga', 'bronze'),
                     'eingetreten':     time.time(),
+                    'zuletzt_gesehen': time.time(),
                     'state':           'FREE',
                     'partner':         None,
                     'herausforderung': None,
@@ -415,6 +416,78 @@ class Handler(BaseHTTPRequestHandler):
                     cas(meine_id, 'CLAIMED', 'PAIRED')
                 print(f"  Reservieren: {meine_id}=HOST vs {gegner_id}=GUEST (beide PAIRED)")
             self.send_json(200, {'rolle': 'host'}); return
+
+        # POST /warteraum/heartbeat  { id }  →  { ok }
+        # Spieler meldet sich — verlängert TTL, verhindert automatisches Austragen
+        if p == '/warteraum/heartbeat':
+            wid = body.get('id')
+            with warteraum_lock:
+                if wid in warteraum:
+                    warteraum[wid]['zuletzt_gesehen'] = time.time()
+                    self.send_json(200, {'ok': True}); return
+            self.send_json(404, {'error': 'Nicht im Warteraum'}); return
+
+        # POST /warteraum/match  { meine_id }
+        # Serverseitige atomare Paarung — kein Client-seitiger Race bei vielen Spielern.
+        # Wählt den ältesten FREE-Spieler als Gegner (deterministisch, kein Zufall).
+        if p == '/warteraum/match':
+            meine_id = body.get('meine_id')
+            if not meine_id:
+                self.send_json(400, {'error': 'ID fehlt'}); return
+
+            with warteraum_lock:
+                # Schritt 1: Bin ich selbst bereits herausgefordert?
+                if meine_id in warteraum:
+                    hf = warteraum[meine_id].get('herausforderung')
+                    if hf:
+                        cas(meine_id, 'CLAIMED', 'PAIRED')
+                        self.send_json(200, {'rolle': 'guest', 'herausforderung': hf}); return
+
+                if meine_id not in warteraum:
+                    self.send_json(204, {'error': 'Nicht im Warteraum'}); return
+
+                host_name = warteraum[meine_id]['name']
+
+                # Schritt 2: Ältesten FREE-Spieler suchen (deterministisch)
+                freie = sorted(
+                    [v for k, v in warteraum.items()
+                     if k != meine_id and v['state'] == 'FREE'],
+                    key=lambda x: x['eingetreten']
+                )
+                if not freie:
+                    self.send_json(204, {'error': 'Niemand verfügbar'}); return
+
+                gegner    = freie[0]
+                gegner_id = gegner['id']
+
+                # CAS: Gegner FREE → CLAIMED
+                if not cas(gegner_id, 'FREE', 'CLAIMED'):
+                    self.send_json(204, {'error': 'Race — retry'}); return
+
+                # CAS: Ich FREE → CLAIMED
+                if not cas(meine_id, 'FREE', 'CLAIMED'):
+                    cas(gegner_id, 'CLAIMED', 'FREE')  # Rollback
+                    hf = warteraum[meine_id].get('herausforderung')
+                    if hf:
+                        cas(meine_id, 'CLAIMED', 'PAIRED')
+                        self.send_json(200, {'rolle': 'guest', 'herausforderung': hf}); return
+                    self.send_json(204, {'error': 'Eigener Status geändert'}); return
+
+                # Beide CLAIMED → Herausforderung → PAIRED
+                warteraum[gegner_id]['herausforderung'] = {
+                    'angebots_id':   None,
+                    'schwierigkeit': 'M',
+                    'host_name':     host_name
+                }
+                cas(gegner_id, 'CLAIMED', 'PAIRED')
+                cas(meine_id,  'CLAIMED', 'PAIRED')
+                print(f"  Match: {host_name}({meine_id})=HOST ↔ {gegner['name']}({gegner_id})=GUEST")
+
+            self.send_json(200, {
+                'rolle':       'host',
+                'gegner_id':   gegner_id,
+                'gegner_name': gegner['name']
+            }); return
 
         # POST /warteraum/herausforderung/update  { gegner_id, angebots_id, schwierigkeit }
         # Host liefert Angebots-ID nach /lobby/create nach
