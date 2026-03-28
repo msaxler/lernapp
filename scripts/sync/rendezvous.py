@@ -18,7 +18,26 @@ if not os.path.exists(GEO_PATH):
     print(f'[Bootstrap] Fertig ({os.path.getsize(GEO_PATH)//1024//1024} MB)')
 else:
     print(f'[Bootstrap] geo.sqlite vorhanden ({os.path.getsize(GEO_PATH)//1024//1024} MB)')
-# ────────────────────────────────────────────────────────────────────────────
+
+# ── Daten-Patches: bekannte Fehler in geo.sqlite korrigieren ─────────────────
+def geo_patch():
+    import sqlite3
+    con = sqlite3.connect(GEO_PATH)
+    patches = [
+        # Simmern/Hunsrück (id=2832013) war fälschlich im Westerwaldkreis (07143→WW).
+        # Korrekt: Rhein-Hunsrück-Kreis (07140→SIM).
+        ("UPDATE stadt SET kreis_id='07140' WHERE id='2832013' AND kreis_id='07143'",
+         "Simmern/Hunsrück: kreis_id 07143→07140 (WW→SIM)"),
+    ]
+    for sql, beschreibung in patches:
+        cur = con.execute(sql)
+        if cur.rowcount:
+            print(f'[Patch] {beschreibung}')
+    con.commit()
+    con.close()
+
+geo_patch()
+# ─────────────────────────────────────────────────────────────────────────────
 
 from urllib.parse import urlparse
 from socketserver import ThreadingMixIn
