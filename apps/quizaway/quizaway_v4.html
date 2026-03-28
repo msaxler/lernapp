@@ -5793,11 +5793,20 @@ function duelZeigeVergleich() {
           duelLog(`⚠️ Kat-Timeout Runde ${warteRunde} ignoriert — Runde bereits ${duel.runde}`);
           return;
         }
-        duelLog(`⚠️ Kat-Timeout Runde ${warteRunde} — erzwinge eigene Auswahl`);
+        duelLog(`⚠️ Kat-Timeout Runde ${warteRunde} — wähle zufällig (${duel.gegnerName} antwortet nicht)`);
         duel.runde = warteRunde;
         duel.meRundeErgebnis  = null;
         duel.oppRundeErgebnis = null;
-        duelZeigeKatWahl(warteRunde);
+        let verfuegbar = KATEGORIEN.filter(k => !k.locked && !duel.gespielteKats.includes(k.id));
+        if (!verfuegbar.length) verfuegbar = KATEGORIEN.filter(k => !k.locked);
+        if (!verfuegbar.length) { duelLog('⚠️ Keine Kategorie verfügbar → Endergebnis'); duelZeigeEndergebnis(); return; }
+        const kat = verfuegbar[Math.floor(Math.random() * verfuegbar.length)];
+        const seed = Math.floor(Math.random() * 16777216);
+        duellState.gewaehlteKat = kat;
+        duel.aktuellerSeed = seed;
+        duel.gespielteKats.push(kat.id);
+        duelSendReliable({ type: 'kat', katId: kat.id, seed, runde: warteRunde });
+        duelStarteFragenMitKat(kat.id, seed);
       }, 30000);
     }
 
