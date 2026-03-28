@@ -5370,7 +5370,13 @@ function duelHandleMsg(msg) {
       duel.seenSeqs.add(msg.seq);
       // Wart-Timer stoppen
       if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
+      if (duel.rundeAutoTimer) { clearTimeout(duel.rundeAutoTimer); duel.rundeAutoTimer = null; }
       duel.runde = msg.runde || duel.runde;
+      // Ergebnisse der vorherigen Runde löschen — verhindert, dass ein veraltetes
+      // meRundeErgebnis + neues oppRundeErgebnis duelZeigeVergleich() vorzeitig auslöst
+      // (Gegner beendet Runde früher → runde-Paket kommt während lokaler Spieler noch Fragen beantwortet)
+      duel.meRundeErgebnis  = null;
+      duel.oppRundeErgebnis = null;
       duel.aktuellerSeed = msg.seed;
       duel.gespielteKats.push(msg.katId);
       duelLog('Kategorie erhalten: ' + msg.katId + ' (Runde ' + duel.runde + ')');
@@ -5725,6 +5731,10 @@ function duelRundeAbgeschlossen() {
 // ─── Vergleich anzeigen ───────────────────────────────────────
 function duelZeigeVergleich() {
   if (!duel.meRundeErgebnis || !duel.oppRundeErgebnis) return;
+
+  // rundeWartTimer von duelRundeAbgeschlossen() canceln — Gegner-Ergebnis ist jetzt da,
+  // der 30s-Timeout soll nicht mehr feuern und oppRundeErgebnis überschreiben.
+  if (duel.rundeWartTimer) { clearTimeout(duel.rundeWartTimer); duel.rundeWartTimer = null; }
 
   const me  = duel.meRundeErgebnis;
   const opp = duel.oppRundeErgebnis;
