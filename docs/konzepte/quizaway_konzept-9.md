@@ -1,7 +1,7 @@
 # Quiz Away
 
-**Status:** Prototyp aktiv / Iteration
-**Version:** 1.2
+**Status:** Prototyp v4 abgeschlossen / Iterationsphase
+**Version:** 1.3
 **Datum:** März 2026
 **Arbeitstitel:** Quiz Away / RoadQuiz
 
@@ -14,6 +14,7 @@
 | 1.0 | Feb 2026 | Erstfassung |
 | 1.1 | März 2026 | Synchronisationsarchitektur, Sicherheit, DHT |
 | 1.2 | März 2026 | Prototyp-Status aktualisiert, Schwierigkeitsgrad, Timer, Build-Pipeline, Screens |
+| 1.3 | März 2026 | Echtzeit-Duell, GPS-Warteraum und Live-Modus als implementiert markiert; Warteraum-Architektur ergänzt; offene Punkte aktualisiert |
 
 ---
 
@@ -33,7 +34,7 @@ Quiz Away basiert auf denselben drei Stützpfeilern wie die universelle Lernplat
 - **Didaktik** — Explorer, Spaced Repetition, Gamification
 - **Player** — Geo-Player (Quiz-Player mit ortsbezogenen Erweiterungen)
 
-Der wesentliche Unterschied zur Lernplattform: Fragen werden nicht manuell erstellt sondern am PC aus der Städtedatenbank vorgeneriert und als fertige Einträge in die Inhaltsdatenbank geladen. Kein Algorithmus zur Laufzeit.
+Der wesentliche Unterschied zur Lernplattform: Fragen werden nicht manuell erstellt sondern am PC aus der Städtedatenbank vorgeneriert und als fertige Einträge in die HTML-Datei eingebettet. Kein Algorithmus zur Laufzeit.
 
 **Abgrenzung zur Lernplattform:** Quiz Away ist eine eigenständige separate App. Sie teilt die Spielmechanik (Timer, Punktesystem, Zwangsweiterschaltung, Duell-Modus, Liga) mit dem Quiz-Player der Lernplattform, aber nicht die Codebasis. GPS-Logik, Städtedatenbank und geografische Falschantwort-Generierung sind zu spezifisch für eine Integration.
 
@@ -207,7 +208,7 @@ Beispiel: *„Welche Automarke hat ihren Stammsitz in Stuttgart?"*
 
 ---
 
-#### Gruppe D — Persönlicher Ortsbezug (Duell-Modus, Phase 2)
+#### Gruppe D — Persönlicher Ortsbezug (Duell-Modus) ✅ *(GPS-Duell implementiert)*
 
 Aus den Koordinaten beider Spieler werden Fragen generiert die eine persönliche Bindung schaffen:
 
@@ -215,23 +216,28 @@ Aus den Koordinaten beider Spieler werden Fragen generiert die eine persönliche
 - *„Zwischen euren Standorten — welche Stadt liegt genau in der Mitte?"*
 - *„Wessen Stadt liegt höher über dem Meeresspiegel?"*
 
-#### Gruppe E — GPS-basierte Echtzeitfragen (Live-Modus, Phase 2)
+Im Prototyp werden beide GPS-Koordinaten kombiniert und schränken den Fragenpool beider Spieler auf die jeweiligen Regionen ein. Vollständige personalisierte Fragen (obige Beispiele) sind noch nicht implementiert.
+
+#### Gruppe E — GPS-basierte Echtzeitfragen (Live-Modus) ✅ *(implementiert)*
 
 - *„Welche Stadt liegt am nächsten an deiner aktuellen Route?"*
 - *„Welche Stadt kommt als nächste auf deiner Route?"*
+
+Im Prototyp: GPS-Standort → nächste Quiz-Stadt ermitteln → Fragenpool auf Städte im einstellbaren Radius einschränken.
 
 ---
 
 ### Fragegenerierung (Build-Pipeline)
 
-Fragen werden einmalig am PC aus der Städtedatenbank generiert und als fertige JSON-Einträge in die HTML-Datei eingebettet. Die Build-Pipeline besteht aus vier Schritten:
+Fragen werden einmalig am PC aus der Städtedatenbank generiert und als fertige JSON-Einträge in die HTML-Datei eingebettet.
 
 ```
-fetch_staedte.py      →  staedte.json      (2.051 Städte mit allen Feldern)
-fetch_kfz.py          →  kfz in staedte.json (AGS5-basierte KFZ-Zuordnung)
-generate_questions.py →  fragen.json       (789 Fragen mit sw-Feld)
-inject_questions.py   →  quizaway_v3.html  (Fragen eingebettet)
-check_quiz.py         →  Konsistenzprüfung (30 Checks)
+scripts/data-fetch/fetch_staedte.py     →  staedte.json       (2.051 Städte)
+scripts/data-fetch/fetch_kfz.py         →  kfz in staedte.json
+scripts/data-build/ap1_build_pools.py   →  geo.sqlite Pools
+scripts/data-build/generate_questions.py→  fragen.json        (~10.800 Fragen)
+scripts/data-build/inject_questions.py  →  quizaway_v4.html   (Fragen eingebettet)
+scripts/check/check_quizaway.py         →  Validierung (137 Checks)
 ```
 
 **Schwierigkeitsfeld `sw`:** Jede Frage erhält ein Feld `sw: "L" | "M" | "S"` basierend auf der Einwohnerzahl der Fragestadt. Falschantworten werden ebenfalls aus dem jeweiligen Pool gezogen.
@@ -247,7 +253,7 @@ check_quiz.py         →  Konsistenzprüfung (30 Checks)
 - **Schätzbar** — begründete Vermutung möglich, kein blindes Raten
 - **Kontraintuitiv** — die richtige Antwort überrascht
 
-**Entwicklungsrichtung:** Im Prototyp werden Fragen vorab generiert und als JSON eingebettet. In der Produktivversion werden Fragen zur Laufzeit direkt aus den Städtedaten berechnet — kein festes Fragen-JSON mehr, sondern ein generativer Layer der immer aktuelle Daten nutzt und unbegrenzt viele Varianten erzeugen kann.
+**Entwicklungsrichtung:** Im Prototyp werden Fragen vorab generiert und als JSON eingebettet. In der Neubau-Version werden Fragen zur Laufzeit direkt aus den Städtedaten berechnet — kein festes Fragen-JSON mehr, sondern ein generativer Layer der immer aktuelle Daten nutzt und unbegrenzt viele Varianten erzeugen kann.
 
 ---
 
@@ -265,24 +271,23 @@ check_quiz.py         →  Konsistenzprüfung (30 Checks)
 - **Frage:** 14 Sekunden Timer
 - **Feedback:** 14 Sekunden (Auto-Weiter zur nächsten Frage)
 - **Rundenabschluss:** 14 Sekunden (Auto-Weiter zur nächsten Runde)
+- **Duell Rundenvergleich:** 3 s Mindest-Delay (Ergebnis anzeigen), dann 5 s Auto-Weiter für den Spieler mit Wahlrecht
 
 ### Punktesystem
 - Richtige Antwort: 0–3s → 120 Punkte, danach −7 Punkte pro Sekunde, bei 14s → 0 Punkte
   - Formel: `vergangen ≤ 3 ? 120 : max(0, 120 − (vergangen − 3) × 7)`
 - Falsche Antwort: 0 Punkte
 - Timeout (14s abgelaufen): 0 Punkte — daher lohnt Raten immer (25 % Chance)
-- Sieg im Duell: +1 bis +24 Ranglistenpunkte (abhängig vom Gegner-Rang)
-- Niederlage: 0 bis −9 Punkte
 
 ### Spielmodi
 
-**Sofa-Modus** — Zufällige Deutschland-Tour ohne Ortsbindung.
+**Sofa-Modus** ✅ — Zufällige Deutschland-Tour ohne Ortsbindung.
 
 **Virtuelle Route** ✅ — Start- und Zielstadt eingeben, Fragen zu Städten entlang der Strecke (Luftlinie + Haversine-Abstandsfilter). Pool-Info und Kartenansicht vor Spielbeginn.
 
-**Live-Modus** (Phase 2) — GPS erkennt aktuelle Stadt, Fragen beziehen sich auf die Umgebung.
+**Live-Modus** ✅ — GPS erkennt aktuellen Standort, Karte zeigt Städte im einstellbaren Radius (5–50 km), Stadt antippen → Quiz startet sofort.
 
-**Duell-Modus** ✅ (Simulation) — 1:1 gegen simulierten Gegner. Echter asynchroner Duell-Modus in Phase 2.
+**Duell-Modus** ✅ — Echter P2P-Duell via WebRTC DataChannel. Verbindungsaufbau über Warteraum und Signaling-Server. Spiellogik vollständig P2P.
 
 ### Schwierigkeitsgrad ✅
 
@@ -296,19 +301,19 @@ Auswahl vor jedem Spiel — gilt für alle Modi und alle Kategorien:
 
 ---
 
-## 5. Screens (Prototyp v3)
+## 5. Screens (Prototyp v4)
 
-### Screen 0 — Schwierigkeitsgrad *(neu in v3)*
+### Screen 0 — Schwierigkeitsgrad
 Zwischen Startscreen und Spiel. 3 Karten: 🟢 Leicht / 🟡 Mittel (Standard) / 🔴 Schwer. Auto-Weiter nach 28s auf Mittel.
 
 ### Screen 1 — Start
-Logo, Spielmodus-Auswahl (Sofa-Modus, Virtuelle Route, Duell). Fußzeile mit Links zu Rangliste, Duell und Profil.
+Logo, Spielmodus-Auswahl (Sofa-Modus, Virtuelle Route, Live-Modus, Duell).
 
 ### Screen 2 — Kategoriewahl
-Rundenzähler als Fortschritts-Dots (5 Runden). Aktueller Modus und Schwierigkeitsgrad als Header. 3 zufällig gewählte Kategorien als Karten. Weiter-Button aktiviert sich nach Auswahl. Auto-Weiter 28s.
+Rundenzähler als Fortschritts-Dots (5 Runden). Aktueller Modus und Schwierigkeitsgrad als Header. 3 zufällig gewählte Kategorien als Karten. Auto-Weiter 28s.
 
 ### Screen 3 — Frage
-Symbolische Karte oben mit pulsierendem Stadtpin, Stadtname und Bundesland. Timer (14s). Fortschrittsbalken Frage 1/3–3/3. Kategorie-Badge. Modus+Schwierigkeit-Badge. Fragetext. 4 Antwort-Buttons (A–D). Bei Timeout: richtige Antwort grün.
+Symbolische Karte oben mit pulsierendem Stadtpin, Stadtname und Bundesland. Timer (14s). Fortschrittsbalken Frage 1/3–3/3. Kategorie-Badge. Fragetext. 4 Antwort-Buttons (A–D). Bei Timeout: richtige Antwort grün.
 
 ### Screen 4 — Feedback
 Großes Icon (✓/✕). Punkteanzeige. Richtige Antwort. Erklärungstext. Auto-Weiter 14s.
@@ -317,46 +322,54 @@ Großes Icon (✓/✕). Punkteanzeige. Richtige Antwort. Erklärungstext. Auto-W
 Trefferquote (z.B. 2/3). Mini-Vorschau der 3 Fragen. Gesamtpunkte. Auto-Weiter 14s.
 
 ### Screen 6 — Spielende
-Gesamtpunktzahl. Statistik-Kacheln. Liga-Fortschritt. Buttons: Nochmal / Startbildschirm.
+Gesamtpunktzahl. Statistik-Kacheln. Buttons: Nochmal / Startbildschirm.
 
-### Screen 7 — Duell starten
-Gegner-Auswahl (Freundesliste + Zufallsgegner). Scoreboard.
+### Screen 7 — Duell: Warteraum
+Liste aktiver Spieler. GPS-Button (📍). Eigener Eintrag sichtbar. Gegner antippen → Duell starten. Auto-Weiter gegen virtuellen Gegner nach 14s.
 
-### Screen 8 — Duell-Kategoriewahl
-Scoreboard mit Rundenpunkten als Dots. Kategorieauswahl wie Screen 2.
+### Screen 8 — Duell: Verbindungsaufbau
+WebRTC-Verbindung wird hergestellt. Gegner-Info (Name, Liga). Countdown.
 
-### Screen 9 — Duell-Ergebnis
-Sieg/Niederlage-Banner. Direktvergleich. Liga-Fortschritt.
+### Screen 9 — Duell: Kategoriewahl
+Scoreboard mit Rundenpunkten als Dots. Kategorieauswahl für den Spieler mit Wahlrecht. Warteanzeige für den anderen Spieler.
 
-### Screen 10 — Rangliste
-Global / Freunde / Region. Top-3 farbig hervorgehoben.
+### Screen 10 — Duell: Rundenvergleich
+Direktvergleich beider Spieler für die abgeschlossene Runde. Rundensieger hervorgehoben. Auto-Weiter nach 5s (für Spieler mit Wahlrecht).
 
-### Screen 11 — Liga
-Aktuelle Liga mit Fortschrittsbalken. Alle 6 Ligen: Einsteiger → Bronze → Silber → Gold → Platin → Geo-Meister.
+### Screen 11 — Duell: Endergebnis
+Sieg/Niederlage/Unentschieden-Banner. Gesamtpunkte beider Spieler. Direktvergleich aller 5 Runden.
 
-### Screen 12 — Profil
-Avatar, Spielername, Liga, Rang, Statistiken, Abzeichen-Sammlung.
-
-### Screen 13 — Virtuelle Route ✅
-Start- und Zielstadteingabe mit Fuzzy-Suche. Kartenvorschau mit Routenlinie und Pool-Städten. Pool-Info (Anzahl verfügbarer Fragen). Auto-Zufallsroute nach 28s.
+### Screen 12 — Live-Modus: Kartenauswahl
+GPS-Standort auf Karte. Städte im Radius als Pins. Radius-Schieberegler (5–50 km). Stadt antippen → Spiel startet.
 
 ---
 
-## 6. Technischer Stack
+## 6. Technischer Stack (v4, aktuell)
 
-### Prototyp (aktuell)
-- **Format:** Single-file HTML (`quizaway_v3.html`), kein Install nötig
-- **Fragendatenbank:** `fragen.json` (789 Fragen, 7 Kategorien, sw-Feld)
-- **Build-Pipeline:** Python 3.11, fünf Scripts
-- **Deployment:** Live Server (VS Code) auf PC und Smartphone im Browser
+### Prototyp (live)
+- **Format:** Single-file HTML (`apps/quizaway/quizaway_v4.html`), kein Build-Schritt für den Client
+- **Fragendatenbank:** ~10.800 Fragen (5 Kategorien, 3 Schwierigkeitsgrade) direkt in der HTML eingebettet
+- **Geodatenbank:** `data/geo.sqlite` (17,7 MB), geladen via sql.js (WebAssembly) im Browser
+- **Build-Pipeline:** Python 3, sechs Scripts (siehe Abschnitt 3)
+- **Server:** `scripts/sync/rendezvous.py` — Python 3 stdlib, kein Framework
+- **P2P:** WebRTC DataChannel, STUN (Google) + TURN (OpenRelay)
+- **PWA:** Service Worker, Cache-First, Cache-Name `quizaway-v4`
+- **Deployment:** Render Free Tier, GitHub Releases (geo.sqlite)
 
-### Zielsystem (Phase 1)
-- **Frontend:** React + TypeScript, PWA
-- **Fragedatenbank:** SQLite via WebAssembly (sql.js oder OPFS) — ~2.051 Städte, ~50.000 vorgenerierte Fragen
-- **Lernfortschritt & Spielhistorie:** SQLite lokal
-- **Spiellogik:** vollständig im Browser, kein Server nötig
+### Warteraum-Architektur
+- Heartbeat-basierter Aktivitätsfilter: Server zeigt nur Spieler die in den letzten 30 s einen Heartbeat gesendet haben
+- Clients senden alle 10 s `POST /warteraum/heartbeat`
+- sessionStorage-Retry beim Wiedereintritt: vergessene Abmeldungen werden nachgeholt
 
-### Synchronisationsarchitektur
+### Neubau (geplant, noch nicht begonnen)
+- **Frontend:** React 18 + TypeScript 5 + Vite 5, PWA
+- **Fragedatenbank:** generativ zur Laufzeit — kein festes JSON
+- **Spielhistorie:** SQLite lokal (OPFS)
+- **Sync:** Event-Ledger + Bloom-Filter-Gossip + Merkle-Tree
+
+---
+
+### Synchronisationsarchitektur (Zielbild für Neubau)
 
 #### Grundprinzip: minimale Übertragung, lokale Rekonstruktion
 
@@ -388,27 +401,9 @@ Für neue Peers beim Erststart: kompakter Zustandsabgleich via Root-Hash-Verglei
 | Duell-Ergebnis | Event-Ledger-Eintrag | 8–10 Bytes |
 | Wöchentlicher Liga-Reset | Neuer Merkle-Tree Snapshot | ~5 KB einmalig |
 
-#### Synchronisationsebenen
-
-**Ebene 1 — Datenbankupdates** (asynchron, selten): Neue Fragen via WebDAV als SQLite-Patch.
-
-**Ebene 2 — Asynchrones Duell:** Event-Ledger-Einträge via WebDAV oder Messaging. Stunden Verzögerung möglich.
-
-**Ebene 3 — Fast-Echtzeit-Duell:** WebSocket-Relay-Server als reiner Postbote. Spiellogik bleibt lokal. Eine wesentliche Grundlage ist bereits im Prototyp aktiv: die automatische Zwangsweiterschaltung synchronisiert beide Spieler ohne explizites Warten aufeinander.
-
-**Ebene 4 — Rangliste:** Event-Ledger + Bitset + Bloom-Filter-Gossip. Jeder Peer trägt nur die eigene Liga-Gruppe (~30 Spieler).
-
-#### Phasenplan
-
-| Phase | Sync-Ebenen aktiv | Backend |
-|---|---|---|
-| Phase 1 | 1 (Datenupdates) | keiner |
-| Phase 2 | 1 + 2 (asynchrones Duell) | WebDAV |
-| Phase 3 | 1 + 2 + 3 + 4 (Fast-Echtzeit + Liga) | minimaler WebSocket-Relay |
-
 ---
 
-### Sicherheitsarchitektur
+### Sicherheitsarchitektur (Zielbild)
 
 **Signierte Events:** Jedes Event trägt eine digitale Signatur. Schlüsselpaar pro Spieler. Manipulation bricht die Hash-Kette.
 
@@ -418,18 +413,9 @@ Für neue Peers beim Erststart: kompakter Zustandsabgleich via Root-Hash-Verglei
 
 **Rate-Limiting, Reputation-System, Proof-of-Work (optional), Sybil-Schutz, Snapshot-Verifikation via Merkle-Tree.**
 
-### Peer-Discovery via DHT (Kademlia)
-
-```
-hash(feed_id)   →  peer_ids  (wer hat diesen Feed?)
-hash(keyword)   →  feed_ids  (welche Feeds enthalten dieses Keyword?)
-```
-
-Ablauf Peer-Join: Bootstrap → Routing Table → Liga-Keyword → Feed laden → Event-Ledger synchronisieren.
-
 ---
 
-## 7. Ligasystem
+## 7. Ligasystem (geplant, Neubau)
 
 ### Wöchentliches Liga-Modell (nach Duolingo-Prinzip)
 
@@ -446,39 +432,34 @@ Ablauf Peer-Join: Bootstrap → Routing Table → Liga-Keyword → Feed laden �
 
 ---
 
-## 8. Ausblick
+## 8. Ausblick (Neubau)
 
-Dieser Prototyp zeigt die Kernmechanik von QuizAway — bewusst schlank gehalten um das Spielgefühl früh testen zu können. Alle geplanten Features bauen direkt auf der bestehenden Architektur auf.
+Der Prototyp (v4) hat die Kernmechanik von QuizAway vollständig validiert. Alle vier Spielmodi laufen stabil. Der Neubau als Teil der universellen Lernplattform (Xalento) setzt auf dieser Erfahrung auf.
 
-**Neue Fragekategorien:** Die sieben bestehenden Kategorien werden deutlich erweitert — geplant sind Fragen zu Persönlichkeiten und Geburtsorten, kulinarischen Spezialitäten, Sportstätten, Wirtschaft und Partnerstädten (Wikidata-Import Phase 2).
+**Laufzeit-generierte Fragen:** Fragen werden nicht mehr vorab fest gespeichert sondern zur Laufzeit direkt aus den Städtedaten berechnet — kein festes Fragen-JSON, unbegrenzte Varianten, immer aktuelle Daten, dynamische Schwierigkeitsanpassung.
 
-**Laufzeit-generierte Fragen:** Fragen werden nicht mehr vorab fest gespeichert sondern zur Laufzeit direkt aus den Städtedaten berechnet. Das ermöglicht unbegrenzte Varianten, immer aktuelle Daten und dynamische Schwierigkeitsanpassung ohne neue Build-Pipeline.
+**Neue Fragekategorien:** Persönlichkeiten und Geburtsorte, kulinarische Spezialitäten, Sportstätten, Wirtschaft, Partnerstädte (Wikidata-Import Phase 2). Sonnenaufgang, Namenslogik, Stadtfläche, Brücken.
 
 **Neue Orte und Länder:** Erweiterung über Deutschland hinaus — zunächst DACH, perspektivisch Europa. Dazu kommt ein "Heimatort"-Feature das persönliche Fragen zur eigenen Region ermöglicht.
 
-**Live-Modus mit GPS:** Das Spiel liest den aktuellen GPS-Standort und stellt nur Fragen zu nahegelegenen Städten. Besonders wertvoll auf Reisen — das Quiz begleitet die echte Route.
-
-**Echtzeit-Duell:** Der simulierte Gegner wird durch ein echtes synchrones Duell ersetzt. Beide Spieler sehen den Spielstand des anderen nahezu in Echtzeit. Die technische Grundlage (Auto-Timer, Event-Ledger-Architektur) ist bereits im Prototyp aktiv.
+**Ligasystem:** P2P Event-Ledger + Bloom-Filter-Gossip. Wöchentlicher Liga-Reset. 6 Ligen: Einsteiger → Geo-Meister.
 
 ---
 
-## 9. Offene Punkte
+## 9. Offene Punkte (Prototyp v4)
 
-### Kurzfristig (Prototyp-Iteration)
-- check_quiz.py: Checks für quizaway_v3.html (sw-Feld, 5 Runden, 14s/28s-Timer, Punkteformel 120 Punkte)
+### Noch nicht implementiert (Prototyp-Abschluss)
+- Runde-5-Tiebreaker: bei Punktgleichstand nach 4 Runden entscheidet kürzere Gesamtspielzeit (deterministisch)
+- Sieger-Anzeige: Grenzwert `<=` statt `<` prüfen + HOST-Fallback
+- Ligasystem / Rangliste: Screens vorhanden, aber keine Datenbasis
+- PLZ-Kategorie: Fragen technisch vorhanden, Qualität noch nicht geprüft
+
+### Bekannte Datenfehler (behoben via geo_patch())
+- Simmern/Hunsrück: kreis_id war 07143 (Westerwaldkreis/WW) statt 07140 (Rhein-Hunsrück-Kreis/SIM) — behoben
+
+### Für Neubau
+- check_quizaway.py: Checks für v4 aktualisieren (sw-Feld, 5 Runden, 14s/28s-Timer, Punkteformel 120 Punkte)
 - Umkreis-Filter für Route/Duell nach Schwierigkeitsgrad (Leicht = 150 km, Mittel = 300 km)
 - Flüsse für ~1.200 Städte nachholen (fluesse: [] in staedte.json)
 - Bahn/Geschichte: M/S-Pool erweitern (aktuell nur L-Daten vorhanden)
-
-### Mittelfristig (Phase 1 PWA)
-- Live-Modus: GPS-Integration, Datenschutz
-- Brücken-Kategorie (OpenStreetMap Overpass API)
-- Sonnenaufgang, Namenslogik, Stadtfläche als Fragetypen
 - Wikidata-Import für Geschichte automatisieren (fetch_wikidata.py)
-
-### Längerfristig (Phase 2)
-- Echtes asynchrones Duell (WebDAV-Sync)
-- Wikidata Phase 2: Persönlichkeiten, Kulinarik, Sport, Wirtschaft
-- Persönlicher Ortsbezug im Duell (Gruppe D)
-- Monetarisierung: Freemium-Modell (Basis kostenlos, Premium für Europa-Modus, unbegrenzte Duelle)
-- Zielgruppe: Reisende, Quiz-Fans, Schüler (Erdkunde)

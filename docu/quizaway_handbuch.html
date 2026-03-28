@@ -271,8 +271,8 @@
     </div>
 
     <div class="card">
-      <div class="card-title">⚔️ Duell</div>
-      <p>Gegen einen virtuellen Gegner oder gegen eine andere Person spielen. Beide antworten auf dieselben Fragen, dann wird verglichen wer die Runde gewonnen hat.</p>
+      <div class="card-title">⚔️ Duell <span class="badge badge-new">LIVE</span></div>
+      <p>Gegen einen virtuellen Gegner oder gegen eine echte andere Person spielen. Im echten Duell baut die App eine direkte Peer-to-Peer-Verbindung auf — beide antworten auf dieselben Fragen, danach wird verglichen wer die Runde gewonnen hat.</p>
     </div>
   </section>
 
@@ -387,6 +387,7 @@
     <p><strong>Beispiel:</strong> Du bist in Neuwied, dein Gegner in Frankfurt — ihr bekommt beide Fragen über Städte aus dem Neuwied-Raum <em>und</em> dem Frankfurt-Raum.</p>
     <p>GPS aktivieren: Im Warteraum auf <strong>📍 GPS aktivieren</strong> tippen und den Standort-Dialog des Browsers bestätigen.</p>
     <div class="note"><strong>Hinweis:</strong> GPS funktioniert nur über HTTPS oder auf localhost. Im lokalen WLAN über eine IP-Adresse (z.&nbsp;B. 192.168.x.x) wird GPS vom Browser blockiert. Hat nur einer der beiden Spieler GPS aktiviert, wird dessen Standort für den gesamten Fragenpool genutzt.</div>
+    <div class="tip"><strong>GPS auf Desktop:</strong> Ohne GPS-Chip (PC, Laptop) probiert die App nach zwei GPS-Versuchen automatisch eine netzwerkbasierte Ortung (IP/WLAN). Diese liefert eine grobe Position auf Kreis-Ebene — für den regionalen Fragenpool völlig ausreichend.</div>
   </section>
 
   <!-- 9. Live-Modus -->
@@ -460,6 +461,7 @@
     <div class="card">
       <div class="card-title">GPS funktioniert nicht</div>
       <p>Browser-Einstellung prüfen: Standort muss auf „Zulassen" stehen. Am besten mit Chrome testen. Auf iOS muss der Standort für den Browser in den Systemeinstellungen freigegeben sein.</p>
+      <p style="margin-top:8px;">Auf Geräten ohne GPS-Chip (PC, Laptop): Die App versucht nach zwei Fehlversuchen automatisch die netzwerkbasierte Ortung (IP-Adresse/WLAN). Falls auch das nicht klappt, auf „Tippen zum erneuten Versuch" tippen.</p>
     </div>
     <div class="card">
       <div class="card-title">Kein Gegner im Warteraum</div>
@@ -467,12 +469,12 @@
     </div>
     <div class="card">
       <div class="card-title">Verbindung zum Duell-Gegner bricht ab</div>
-      <p>Die App erkennt Verbindungsabbrüche automatisch. Nach einem kurzen Warten wird das Ergebnis dennoch angezeigt.</p>
+      <p>Kritische Nachrichten (Kategoriewahl, Spielergebnis) werden mit Bestätigung übertragen und bei Ausbleiben automatisch wiederholt. Antwortet der Gegner längere Zeit nicht auf eine Kategoriewahl, wählt die App nach 30 Sekunden automatisch eine zufällige Kategorie und das Spiel läuft weiter.</p>
     </div>
   </section>
 
   <div style="text-align:center; color: var(--muted); font-size: 0.8rem; padding-top: 32px; border-top: 1px solid var(--border);">
-    QuizAway Prototyp · Version 4 · März 2026
+    QuizAway Prototyp v4 · Stand März 2026
   </div>
 
 </div>
