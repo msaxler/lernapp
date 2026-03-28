@@ -5107,8 +5107,12 @@ function gpsStart(retryVersuch) {
     return;
   }
   gpsState.watching = true;
-  const subText = versuch > 0 ? `Versuch ${versuch + 1} von 3…` : 'Bitte Browser-Dialog bestätigen';
-  console.log(`[GPS] starte getCurrentPosition (Warteraum, Versuch ${versuch + 1}/3)`);
+  // Versuch 0+1: GPS-Chip (hochgenau, langsamer) — Versuch 2: IP/WLAN-Fallback (schnell, grob)
+  const highAccuracy = versuch < 2;
+  const subText = versuch === 0 ? 'Bitte Browser-Dialog bestätigen'
+                : versuch === 1 ? `Nochmal mit GPS… (${versuch + 1}/3)`
+                :                 'Nochmal mit Netzwerk-Ortung… (3/3)';
+  console.log(`[GPS] starte getCurrentPosition (Warteraum, Versuch ${versuch + 1}/3, highAccuracy=${highAccuracy})`);
   gpsSetBtn('📍 Standort wird ermittelt…', subText, 'var(--muted)', false);
 
   navigator.geolocation.getCurrentPosition(
@@ -5128,7 +5132,7 @@ function gpsStart(retryVersuch) {
       gpsState.ok = false;
       gpsState.watching = false;
       if (err.code === 3 && versuch < 2) {
-        // Timeout → automatisch nochmal versuchen (max 3×, 3s Pause)
+        // Timeout → nochmal versuchen; letzter Versuch mit enableHighAccuracy=false (IP/WLAN)
         console.log(`[GPS] Timeout — Retry ${versuch + 2} in 3s`);
         gpsSetBtn('📍 Standort wird ermittelt…', `Nochmal in 3s… (${versuch + 2}/3)`, 'var(--muted)', false);
         setTimeout(() => gpsStart(versuch + 1), 3000);
@@ -5136,7 +5140,7 @@ function gpsStart(retryVersuch) {
         gpsSetBtn('📍 Standort nicht freigegeben', 'Tippen zum erneuten Versuch', '#f59e0b', true);
       }
     },
-    { enableHighAccuracy: true, timeout: 10000, maximumAge: 60000 }
+    { enableHighAccuracy: highAccuracy, timeout: 10000, maximumAge: 60000 }
   );
 }
 
