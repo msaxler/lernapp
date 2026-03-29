@@ -1,0 +1,740 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>QuizAway Duell-Simulator</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: monospace; background: #0d1117; color: #c9d1d9; font-size: 13px; }
+  h1 { text-align: center; padding: 12px; color: #f0a500; font-size: 16px; border-bottom: 1px solid #30363d; }
+  .layout { display: grid; grid-template-columns: 1fr 1fr; gap: 0; height: calc(100vh - 44px); }
+  .panel { display: flex; flex-direction: column; border-right: 1px solid #30363d; overflow: hidden; }
+  .panel:last-child { border-right: none; }
+  .panel-head { padding: 8px 12px; background: #161b22; border-bottom: 1px solid #30363d; font-weight: bold; }
+  .panel-head.host { color: #58a6ff; }
+  .panel-head.guest { color: #3fb950; }
+  .state-bar { padding: 6px 12px; background: #0d1117; border-bottom: 1px solid #21262d; font-size: 11px; color: #8b949e; display: flex; flex-wrap: wrap; gap: 8px; }
+  .state-bar span { padding: 1px 6px; border-radius: 3px; background: #21262d; }
+  .state-bar span.active { background: #1f6feb; color: #fff; }
+  .log { flex: 1; overflow-y: auto; padding: 8px; }
+  .log-entry { padding: 2px 4px; border-radius: 3px; margin-bottom: 1px; line-height: 1.5; }
+  .log-entry.info   { color: #8b949e; }
+  .log-entry.send   { color: #58a6ff; background: rgba(88,166,255,0.06); }
+  .log-entry.recv   { color: #3fb950; background: rgba(63,185,80,0.06); }
+  .log-entry.warn   { color: #f0a500; background: rgba(240,165,0,0.08); }
+  .log-entry.error  { color: #f85149; background: rgba(248,81,73,0.08); }
+  .log-entry.relay  { color: #bc8cff; background: rgba(188,140,255,0.06); }
+  .log-entry.state  { color: #ffa657; font-weight: bold; }
+  .controls { padding: 8px 12px; background: #161b22; border-top: 1px solid #30363d; display: flex; flex-wrap: wrap; gap: 6px; }
+  button { background: #21262d; border: 1px solid #30363d; color: #c9d1d9; padding: 4px 10px; border-radius: 5px; cursor: pointer; font-size: 12px; }
+  button:hover { background: #30363d; }
+  button.primary { background: #1f6feb; border-color: #1f6feb; color: #fff; }
+  button.danger  { background: #b62324; border-color: #b62324; color: #fff; }
+  .relay-box { padding: 8px 12px; background: #161b22; border-bottom: 1px solid #30363d; font-size: 11px; }
+  .relay-box .title { color: #bc8cff; font-weight: bold; margin-bottom: 4px; }
+  .relay-queue { display: flex; gap: 6px; flex-wrap: wrap; }
+  .relay-tag { background: #21262d; border-radius: 3px; padding: 1px 5px; color: #8b949e; }
+  .relay-tag.has-msgs { background: rgba(188,140,255,0.2); color: #bc8cff; }
+  .center-col { border-left: 1px solid #30363d; border-right: 1px solid #30363d;
+    padding: 8px; background: #0a0e14; display: flex; flex-direction: column; gap: 6px;
+    min-width: 200px; max-width: 200px; }
+  .three-col { display: grid; grid-template-columns: 1fr 200px 1fr; height: calc(100vh - 44px); }
+  .center-title { color: #bc8cff; font-size: 11px; font-weight: bold; text-align: center; border-bottom: 1px solid #21262d; padding-bottom: 4px; }
+  .relay-entry { font-size: 10px; padding: 3px 6px; background: #161b22; border-radius: 3px; border-left: 2px solid #bc8cff; }
+  .relay-entry .dir { color: #bc8cff; }
+  .relay-entry .msg { color: #8b949e; word-break: break-all; }
+  #relay-log { flex: 1; overflow-y: auto; display: flex; flex-direction: column; gap: 3px; }
+  .scenario-bar { padding: 6px 12px; background: #161b22; border-bottom: 1px solid #30363d; display: flex; gap: 6px; align-items: center; }
+  .scenario-bar label { color: #8b949e; font-size: 11px; }
+  select { background: #21262d; border: 1px solid #30363d; color: #c9d1d9; padding: 3px 6px; border-radius: 4px; font-size: 12px; }
+</style>
+</head>
+<body>
+<h1>⚔️ QuizAway Duell-Simulator — Relay & Round Sync Test</h1>
+
+<div id="app">
+  <div class="scenario-bar">
+    <label>Szenario:</label>
+    <select id="scenario-sel">
+      <option value="relay-only">ICE schlägt fehl → Relay von Anfang</option>
+      <option value="webrtc-then-relay">WebRTC kurz verbunden → DC schliesst → Relay</option>
+      <option value="perfect">Perfektes WebRTC (kein Relay)</option>
+    </select>
+    <button class="primary" onclick="simStart()">▶ Simulation starten</button>
+    <button onclick="simReset()">↺ Reset</button>
+    <label style="margin-left:12px">Relay-Latenz:</label>
+    <select id="relay-delay">
+      <option value="200">200ms (schnell)</option>
+      <option value="1500" selected>1500ms (typisch)</option>
+      <option value="3000">3000ms (langsam)</option>
+    </select>
+    <label style="margin-left:8px">Runden:</label>
+    <select id="max-runden">
+      <option value="2">2</option>
+      <option value="3" selected>3</option>
+      <option value="5">5 (voll)</option>
+    </select>
+  </div>
+
+  <div class="three-col">
+    <!-- HOST PANEL -->
+    <div class="panel">
+      <div class="panel-head host">🖥 Host (PC / WLAN)</div>
+      <div class="state-bar" id="host-state"></div>
+      <div class="log" id="host-log"></div>
+      <div class="controls">
+        <button onclick="simAction('host','iceFail')">💥 ICE fail</button>
+        <button onclick="simAction('host','dcClose')">🔌 DC close</button>
+        <button onclick="simAction('host','sendPing')">📡 Ping senden</button>
+        <button class="danger" onclick="simAction('host','abort')">✕ Abbrechen</button>
+      </div>
+    </div>
+
+    <!-- RELAY CENTER -->
+    <div class="center-col">
+      <div class="center-title">📡 Relay-Server</div>
+      <div id="relay-log"></div>
+      <div style="font-size:10px;color:#8b949e;border-top:1px solid #21262d;padding-top:4px">
+        <div>→ host: <span id="relay-for-host">0</span> Nachrichten</div>
+        <div>→ guest: <span id="relay-for-guest">0</span> Nachrichten</div>
+      </div>
+    </div>
+
+    <!-- GUEST PANEL -->
+    <div class="panel">
+      <div class="panel-head guest">📱 Guest (Smartphone / Internet)</div>
+      <div class="state-bar" id="guest-state"></div>
+      <div class="log" id="guest-log"></div>
+      <div class="controls">
+        <button onclick="simAction('guest','iceFail')">💥 ICE fail</button>
+        <button onclick="simAction('guest','dcClose')">🔌 DC close</button>
+        <button onclick="simAction('guest','sendPing')">📡 Ping senden</button>
+        <button class="danger" onclick="simAction('guest','abort')">✕ Abbrechen</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+// ═══════════════════════════════════════════════════════
+// RELAY SIMULATION
+// ═══════════════════════════════════════════════════════
+const relayStore = { host: [], guest: [] };
+let relayLatency = 1500;
+let relayLogEl, relayForHost, relayForGuest;
+let simGeneration = 0;  // Verhindert State-Leakage zwischen Sim-Läufen
+
+function relayLog(dir, msg) {
+  if (!relayLogEl) return;
+  const el = document.createElement('div');
+  el.className = 'relay-entry';
+  el.innerHTML = `<div class="dir">${dir}</div><div class="msg">${JSON.stringify(msg)}</div>`;
+  relayLogEl.appendChild(el);
+  relayLogEl.scrollTop = relayLogEl.scrollHeight;
+  updateRelayCount();
+}
+
+function updateRelayCount() {
+  if (relayForHost)  relayForHost.textContent  = relayStore.host.length;
+  if (relayForGuest) relayForGuest.textContent = relayStore.guest.length;
+}
+
+// Schreibt in relay-Queue (simuliert /relay/send)
+function relayDeliver(von, msgs) {
+  const fuer = von === 'host' ? 'guest' : 'host';
+  const delay = relayLatency + Math.random() * 200;
+  const gen = simGeneration;  // Generation einfrieren
+  setTimeout(() => {
+    if (gen !== simGeneration) return;  // Alter Lauf — ignorieren
+    for (const m of msgs) {
+      relayStore[fuer].push(m);
+      relayLog(`${von} → ${fuer}`, m);
+    }
+    updateRelayCount();
+  }, delay);
+}
+
+// Liest aus relay-Queue (simuliert /relay/poll)
+function relayPoll(fuer) {
+  const msgs = [...relayStore[fuer]];
+  relayStore[fuer] = [];
+  updateRelayCount();
+  return msgs;
+}
+
+// ═══════════════════════════════════════════════════════
+// PLAYER STATE
+// ═══════════════════════════════════════════════════════
+function makePlayer(rolle) {
+  return {
+    rolle,
+    name: rolle === 'host' ? 'PC-Spieler' : 'Handy-Spieler',
+    verbunden:       false,
+    relayMode:       false,
+    relayId:         'SIM-123',
+    relayPollAktiv:  false,
+    gameStarted:     false,
+    runde:           0,
+    meGesamt:        0,
+    oppGesamt:       0,
+    gegnerName:      rolle === 'host' ? 'Handy-Spieler' : 'PC-Spieler',
+    meRundeErgebnis: null,
+    oppRundeErgebnis:null,
+    gespielteKats:   [],
+    pending:         {},
+    seenSeqs:        new Set(),
+    nextSeq:         1,
+    missedPings:     0,
+    pingTimer:       null,
+    abbruchTimer:    null,
+    rundeWartTimer:  null,
+    rundeAutoTimer:  null,
+    // WebRTC DataChannel simuliert
+    dcOpen:          false,
+    // callback hooks
+    _log:            null,
+    _stateUpdate:    null,
+  };
+}
+
+let HOST, GUEST;
+let simRunning = false;
+let MAX_RUNDEN = 3;
+
+function getPlayer(rolle) { return rolle === 'host' ? HOST : GUEST; }
+function getOther(rolle)  { return rolle === 'host' ? GUEST : HOST; }
+
+// ═══════════════════════════════════════════════════════
+// LOGGING
+// ═══════════════════════════════════════════════════════
+function plog(player, cls, msg) {
+  if (!player._log) return;
+  const el = document.createElement('div');
+  el.className = 'log-entry ' + cls;
+  const ts = (Date.now() % 100000 / 1000).toFixed(2);
+  el.textContent = `[${ts}] ${msg}`;
+  player._log.appendChild(el);
+  player._log.scrollTop = player._log.scrollHeight;
+}
+
+function updateState(player) {
+  if (!player._stateUpdate) return;
+  const el = player._stateUpdate;
+  el.innerHTML = [
+    ['verbunden',  player.verbunden],
+    ['relayMode',  player.relayMode],
+    ['gameStart',  player.gameStarted],
+    ['dcOpen',     player.dcOpen],
+    ['runde',      player.runde],
+    ['me',         player.meGesamt],
+    ['opp',        player.oppGesamt],
+    ['missedPings',player.missedPings],
+    ['pendingACKs',Object.keys(player.pending).length],
+  ].map(([k,v]) =>
+    `<span class="${v || v > 0 ? 'active' : ''}">${k}: ${v}</span>`
+  ).join('');
+}
+
+// ═══════════════════════════════════════════════════════
+// MESSAGE SENDING
+// ═══════════════════════════════════════════════════════
+function duelMsgSend(player, obj) {
+  if (player.relayMode) {
+    plog(player, 'send', `📡 relay → ${JSON.stringify(obj)}`);
+    relayDeliver(player.rolle, [obj]);
+  } else if (player.dcOpen) {
+    // Direkt über "WebRTC" — sofort beim Gegner
+    plog(player, 'send', `⚡ DC → ${JSON.stringify(obj)}`);
+    const delay = 30 + Math.random() * 50;
+    const other = getOther(player.rolle);
+    setTimeout(() => duelHandleMsg(other, obj), delay);
+  } else {
+    plog(player, 'warn', `⚠ Nachricht verworfen (kein Kanal): ${JSON.stringify(obj)}`);
+  }
+}
+
+function duelSendReliable(player, msg) {
+  const seq = player.nextSeq++;
+  msg.seq = seq;
+  duelMsgSend(player, msg);
+  plog(player, 'send', `[seq=${seq}] zuverlässig gesendet: ${msg.type}`);
+  player.pending[seq] = setInterval(() => {
+    if (!simRunning) { clearInterval(player.pending[seq]); delete player.pending[seq]; return; }
+    plog(player, 'warn', `[seq=${seq}] Retry ${msg.type} (kein ACK)`);
+    duelMsgSend(player, msg);
+  }, 3000);
+  updateState(player);
+}
+
+// ═══════════════════════════════════════════════════════
+// MESSAGE HANDLER
+// ═══════════════════════════════════════════════════════
+function duelHandleMsg(player, msg) {
+  plog(player, 'recv', `← ${JSON.stringify(msg)}`);
+
+  switch(msg.type) {
+    case 'hello':
+      plog(player, 'state', `👋 Gegner: ${msg.name}`);
+      break;
+
+    case 'ack':
+      if (player.pending[msg.seq]) {
+        clearInterval(player.pending[msg.seq]);
+        delete player.pending[msg.seq];
+        plog(player, 'info', `✓ ACK seq=${msg.seq}`);
+      }
+      updateState(player);
+      break;
+
+    case 'ping':
+      player.missedPings = 0;
+      duelMsgSend(player, { type: 'pong' });
+      break;
+
+    case 'pong':
+      player.missedPings = 0;
+      if (player.abbruchTimer) { clearTimeout(player.abbruchTimer); player.abbruchTimer = null; }
+      plog(player, 'info', '💓 Pong empfangen — Verbindung OK');
+      updateState(player);
+      break;
+
+    case 'kat':
+      duelMsgSend(player, { type: 'ack', seq: msg.seq });
+      if (player.seenSeqs.has(msg.seq)) {
+        plog(player, 'warn', `[↩] kat seq=${msg.seq} DUPLIKAT ignoriert`);
+        break;
+      }
+      player.seenSeqs.add(msg.seq);
+      if (player.rundeWartTimer) { clearTimeout(player.rundeWartTimer); player.rundeWartTimer = null; }
+      if (player.rundeAutoTimer) { clearTimeout(player.rundeAutoTimer); player.rundeAutoTimer = null; }
+      player.runde = msg.runde || player.runde;
+      player.meRundeErgebnis  = null;
+      player.oppRundeErgebnis = null;
+      plog(player, 'state', `🎯 Kategorie erhalten: ${msg.katId} (Runde ${player.runde})`);
+      updateState(player);
+      // Guest spielt Runde und sendet Ergebnis nach Verzögerung
+      simuliereRundeGuest(player, msg.runde);
+      break;
+
+    case 'runde':
+      duelMsgSend(player, { type: 'ack', seq: msg.seq });
+      if (player.seenSeqs.has(msg.seq)) {
+        plog(player, 'warn', `[↩] runde seq=${msg.seq} DUPLIKAT ignoriert`);
+        break;
+      }
+      player.seenSeqs.add(msg.seq);
+      if (player.rundeWartTimer) { clearTimeout(player.rundeWartTimer); player.rundeWartTimer = null; }
+      player.oppRundeErgebnis = msg.ergebnis;
+      player.oppGesamt += msg.ergebnis.punkte;
+      plog(player, 'state', `📊 Gegner-Ergebnis Runde ${player.runde}: ${msg.ergebnis.richtig}/3 (${msg.ergebnis.punkte}P)`);
+      updateState(player);
+      duelZeigeVergleich(player);
+      break;
+
+    case 'abbruch':
+      plog(player, 'error', '❌ Gegner hat abgebrochen — ich gewinne');
+      duelAbgebrochen(player, true, 'aufgabe');
+      break;
+  }
+}
+
+// ═══════════════════════════════════════════════════════
+// RELAY POLL LOOP
+// ═══════════════════════════════════════════════════════
+async function relayPollLoop(player) {
+  player.relayPollAktiv = true;
+  plog(player, 'relay', '🔄 Relay-Poll gestartet');
+  while (player.relayMode && player.relayId && simRunning) {
+    await new Promise(r => setTimeout(r, relayLatency + 100));
+    if (!player.relayMode || !simRunning) break;
+    const msgs = relayPoll(player.rolle);
+    if (msgs.length > 0) {
+      plog(player, 'relay', `📥 ${msgs.length} Relay-Nachrichten`);
+      for (const m of msgs) duelHandleMsg(player, m);
+    }
+  }
+  player.relayPollAktiv = false;
+  plog(player, 'relay', '🛑 Relay-Poll gestoppt');
+}
+
+// ═══════════════════════════════════════════════════════
+// RELAY AKTIVIERUNG
+// ═══════════════════════════════════════════════════════
+async function activateRelayMode(player) {
+  if (player.relayMode || !player.relayId) return;
+  player.relayMode = true;
+  plog(player, 'relay', '📡 WebRTC fehlgeschlagen — Server-Relay aktiv');
+  updateState(player);
+
+  if (!player.verbunden) {
+    player.verbunden = true;
+    plog(player, 'state', '✓ Relay-Verbindung hergestellt');
+    duelMsgSend(player, { type: 'hello', name: player.name });
+
+    player.pingTimer = setInterval(() => {
+      duelMsgSend(player, { type: 'ping' });
+      player.missedPings++;
+      plog(player, 'info', `Ping #${player.missedPings}`);
+      if (player.missedPings >= 6) {
+        plog(player, 'error', `❌ ${player.gegnerName} nicht erreichbar (6 Pings ohne Antwort)`);
+        duelAbgebrochen(player, true, 'verbindung');
+      }
+      updateState(player);
+    }, 5000);
+
+    if (!player.gameStarted) {
+      player.gameStarted = true;
+      duelP2PStart(player);
+      if (player.rolle === 'host') {
+        plog(player, 'state', '⏳ Starte Runde 1 in 1.2s…');
+        setTimeout(() => duelStarteRunde(player, 1), 1200);
+      }
+    }
+  } else {
+    plog(player, 'relay', '↳ verbunden=true (Spiel läuft) — nur Poll-Loop starten');
+  }
+
+  if (!player.relayPollAktiv) relayPollLoop(player);
+}
+
+// ═══════════════════════════════════════════════════════
+// DATACANNEL SETUP (simuliert)
+// ═══════════════════════════════════════════════════════
+function simulateDCOpen(host, guest) {
+  host.dcOpen  = true;
+  guest.dcOpen = true;
+  plog(host,  'state', '✓ DataChannel offen (WebRTC verbunden)');
+  plog(guest, 'state', '✓ DataChannel offen (WebRTC verbunden)');
+
+  // dc.onopen logic:
+  [host, guest].forEach(p => {
+    p.verbunden = true;
+    // Ping starten (WebRTC-Variante mit abbruchTimer)
+    p.pingTimer = setInterval(() => {
+      duelMsgSend(p, { type: 'ping' });
+      p.missedPings++;
+      if (p.missedPings === 3) {
+        plog(p, 'warn', '⚠ 3 Pings ohne Antwort — warte 30s…');
+        p.abbruchTimer = setTimeout(() => {
+          plog(p, 'error', `❌ ${p.gegnerName} nicht erreichbar`);
+          duelAbgebrochen(p, true, 'verbindung');
+        }, 30000);
+      }
+      updateState(p);
+    }, 5000);
+
+    if (!p.gameStarted) {
+      p.gameStarted = true;
+      duelP2PStart(p);
+      if (p.rolle === 'host') {
+        setTimeout(() => duelStarteRunde(p, 1), 1200);
+      }
+    }
+    updateState(p);
+  });
+}
+
+function simulateDCClose(player, reason) {
+  player.dcOpen = false;
+  plog(player, 'warn', `🔌 DataChannel geschlossen (${reason || 'ICE disconnected'})`);
+
+  // dc.onclose mit Fix:
+  if (player.relayMode) {
+    plog(player, 'relay', '↳ relayMode aktiv — DC-Close ignoriert');
+    return;
+  }
+  if (player.verbunden) {
+    plog(player, 'relay', '↳ Spiel war aktiv — versuche Relay-Fallback');
+    activateRelayMode(player);
+    return;
+  }
+  player.verbunden = false;
+  clearInterval(player.pingTimer); player.pingTimer = null;
+  plog(player, 'warn', 'Verbindung getrennt (kein Relay-Fallback möglich)');
+  updateState(player);
+}
+
+// ═══════════════════════════════════════════════════════
+// GAME LOGIC
+// ═══════════════════════════════════════════════════════
+const KATS = ['Bundesländer','Postleitzahlen','Flüsse','Gebirge','Städte','Inseln'];
+
+function duelP2PStart(player) {
+  player.meGesamt    = 0;
+  player.oppGesamt   = 0;
+  player.gespielteKats = [];
+  plog(player, 'state', '🎮 Spiel initialisiert');
+  updateState(player);
+}
+
+function duelIchWaehle(player, runde) {
+  const hostRundes = [1, 3, 5]; // vereinfacht: Host wählt ungerade Runden
+  const meIsHost = player.rolle === 'host';
+  return hostRundes.includes(runde) === meIsHost;
+}
+
+function duelStarteRunde(player, runde) {
+  if (!simRunning) return;
+  player.runde = runde;
+  player.meRundeErgebnis  = null;
+  player.oppRundeErgebnis = null;
+  plog(player, 'state', `▶ Starte Runde ${runde} (Wahlrecht: ${player.rolle})`);
+  updateState(player);
+
+  // Kategorie wählen
+  const verfuegbar = KATS.filter(k => !player.gespielteKats.includes(k));
+  const kat = verfuegbar[Math.floor(Math.random() * verfuegbar.length)] || KATS[0];
+  const seed = Math.floor(Math.random() * 999999);
+  player.gespielteKats.push(kat);
+  plog(player, 'send', `📤 Sende kat: ${kat} (Runde ${runde})`);
+  duelSendReliable(player, { type: 'kat', katId: kat, seed, runde });
+
+  // Host spielt auch diese Runde
+  simuliereRundeHost(player, runde, kat);
+}
+
+function simuliereRundeHost(player, runde, kat) {
+  // Simuliert Antwortzeit: 5–15s
+  const dauer = 5000 + Math.random() * 10000;
+  plog(player, 'info', `⏱ Spiele Runde ${runde} (${(dauer/1000).toFixed(1)}s)…`);
+  setTimeout(() => {
+    if (!simRunning || player.runde !== runde) return;
+    const richtig = Math.floor(Math.random() * 4);
+    const punkte  = richtig * 100;
+    player.meRundeErgebnis = { richtig, punkte, zeitMs: dauer, ergebnisse: [] };
+    player.meGesamt += punkte;
+    plog(player, 'state', `✅ Runde ${runde} gespielt: ${richtig}/3 (${punkte}P)`);
+    duelRundeAbgeschlossen(player, runde);
+    updateState(player);
+  }, dauer);
+}
+
+function simuliereRundeGuest(player, runde) {
+  const dauer = 5000 + Math.random() * 12000;
+  plog(player, 'info', `⏱ Spiele Runde ${runde} (${(dauer/1000).toFixed(1)}s)…`);
+  setTimeout(() => {
+    if (!simRunning || player.runde !== runde) return;
+    const richtig = Math.floor(Math.random() * 4);
+    const punkte  = richtig * 100;
+    player.meRundeErgebnis = { richtig, punkte, zeitMs: dauer, ergebnisse: [] };
+    player.meGesamt += punkte;
+    plog(player, 'state', `✅ Runde ${runde} gespielt: ${richtig}/3 (${punkte}P)`);
+    duelRundeAbgeschlossen(player, runde);
+    updateState(player);
+  }, dauer);
+}
+
+function duelRundeAbgeschlossen(player, runde) {
+  const meRunde = player.meRundeErgebnis;
+  if (!meRunde) return;
+  plog(player, 'send', `📤 Sende runde-Ergebnis: ${meRunde.richtig}/3`);
+  duelSendReliable(player, { type: 'runde', ergebnis: meRunde });
+
+  if (player.oppRundeErgebnis) {
+    duelZeigeVergleich(player);
+  } else {
+    const warteFuerRunde = runde;
+    if (player.rundeWartTimer) clearTimeout(player.rundeWartTimer);
+    player.rundeWartTimer = setTimeout(() => {
+      player.rundeWartTimer = null;
+      if (player.runde !== warteFuerRunde) {
+        plog(player, 'warn', `⚠ Ergebnis-Timeout Runde ${warteFuerRunde} veraltet — ignoriert`);
+        return;
+      }
+      if (!player.oppRundeErgebnis) {
+        plog(player, 'warn', `⚠ Timeout: kein Ergebnis von ${player.gegnerName} — nehme 0/3 an`);
+        player.oppRundeErgebnis = { richtig: 0, punkte: 0, zeitMs: 42000, ergebnisse: [] };
+        duelZeigeVergleich(player);
+      }
+    }, 30000);
+  }
+}
+
+function duelZeigeVergleich(player) {
+  if (!player.meRundeErgebnis || !player.oppRundeErgebnis) return;
+  if (player.rundeWartTimer) { clearTimeout(player.rundeWartTimer); player.rundeWartTimer = null; }
+
+  const me  = player.meRundeErgebnis;
+  const opp = player.oppRundeErgebnis;
+  const sieg = me.punkte >= opp.punkte ? '🏆' : '📉';
+  plog(player, 'state', `${sieg} Vergleich Runde ${player.runde}: ich ${me.richtig}/3 (${me.punkte}P) vs. Gegner ${opp.richtig}/3 (${opp.punkte}P)`);
+  plog(player, 'state', `   Gesamt: ich ${player.meGesamt}P vs. ${player.gegnerName} ${player.oppGesamt}P`);
+  updateState(player);
+
+  // Auto-weiter nach 3s
+  const vergleichFuerRunde = player.runde;
+  if (player.rundeAutoTimer) clearTimeout(player.rundeAutoTimer);
+  player.rundeAutoTimer = setTimeout(() => {
+    player.rundeAutoTimer = null;
+    if (player.runde !== vergleichFuerRunde) return;
+    duelNaechsteRunde(player);
+  }, 3000);
+}
+
+function duelNaechsteRunde(player) {
+  if (!simRunning) return;
+  if (player.runde >= MAX_RUNDEN) {
+    plog(player, 'state', `🏁 Alle ${MAX_RUNDEN} Runden gespielt — Endergebnis`);
+    plog(player, 'state', `   Ich: ${player.meGesamt}P | ${player.gegnerName}: ${player.oppGesamt}P → ${player.meGesamt > player.oppGesamt ? '🏆 SIEG' : player.meGesamt < player.oppGesamt ? '💀 NIEDERLAGE' : '🤝 UNENTSCHIEDEN'}`);
+    return;
+  }
+
+  const naechsteRunde = player.runde + 1;
+  player.runde = naechsteRunde;
+  player.meRundeErgebnis  = null;
+  player.oppRundeErgebnis = null;
+
+  if (duelIchWaehle(player, naechsteRunde)) {
+    plog(player, 'state', `→ Ich starte Runde ${naechsteRunde} (Wahlrecht)`);
+    duelStarteRunde(player, naechsteRunde);
+  } else {
+    plog(player, 'info', `→ Warte auf Kat-Wahl Runde ${naechsteRunde} von ${player.gegnerName}`);
+    // Timeout falls Gegner nicht antwortet
+    if (player.rundeWartTimer) clearTimeout(player.rundeWartTimer);
+    player.rundeWartTimer = setTimeout(() => {
+      player.rundeWartTimer = null;
+      if (player.runde !== naechsteRunde) return;
+      plog(player, 'warn', `⚠ Kat-Timeout Runde ${naechsteRunde} — wähle zufällig`);
+      duelStarteRunde(player, naechsteRunde);
+    }, 30000);
+  }
+  updateState(player);
+}
+
+function duelAbgebrochen(player, ichGewinne, grund) {
+  clearInterval(player.pingTimer); player.pingTimer = null;
+  if (player.abbruchTimer)    { clearTimeout(player.abbruchTimer);    player.abbruchTimer    = null; }
+  if (player.rundeWartTimer)  { clearTimeout(player.rundeWartTimer);  player.rundeWartTimer  = null; }
+  if (player.rundeAutoTimer)  { clearTimeout(player.rundeAutoTimer);  player.rundeAutoTimer  = null; }
+  Object.values(player.pending).forEach(id => clearInterval(id));
+  player.pending = {};
+  // Relay stoppen (Fix: verhindert Nachrichten nach Spielende)
+  player.relayMode = false;
+  player.relayId   = null;
+
+  const msg = ichGewinne
+    ? `🏆 Verbindung zu ${player.gegnerName} verloren — DU GEWINNST`
+    : `📡 Verbindung verloren — Duell abgebrochen`;
+  plog(player, ichGewinne ? 'state' : 'error', msg);
+  updateState(player);
+}
+
+// ═══════════════════════════════════════════════════════
+// SIMULATION STEUERUNG
+// ═══════════════════════════════════════════════════════
+function simStart() {
+  simReset();
+  simRunning = true;
+  relayLatency = parseInt(document.getElementById('relay-delay').value);
+  MAX_RUNDEN   = parseInt(document.getElementById('max-runden').value);
+
+  HOST  = makePlayer('host');
+  GUEST = makePlayer('guest');
+  HOST._log  = document.getElementById('host-log');
+  GUEST._log = document.getElementById('guest-log');
+  HOST._stateUpdate  = document.getElementById('host-state');
+  GUEST._stateUpdate = document.getElementById('guest-state');
+
+  relayStore.host  = [];
+  relayStore.guest = [];
+  updateRelayCount();
+
+  const szenario = document.getElementById('scenario-sel').value;
+  plog(HOST,  'state', `=== Simulation gestartet: ${szenario} ===`);
+  plog(GUEST, 'state', `=== Simulation gestartet: ${szenario} ===`);
+
+  if (szenario === 'relay-only') {
+    // Beide Seiten: ICE schlägt nach 2s fehl → Relay
+    plog(HOST,  'info', '⏳ ICE-Aushandlung läuft (schlägt fehl)…');
+    plog(GUEST, 'info', '⏳ ICE-Aushandlung läuft (schlägt fehl)…');
+    setTimeout(() => {
+      plog(HOST,  'warn', '💥 ICE failed');
+      activateRelayMode(HOST);
+    }, 2000);
+    setTimeout(() => {
+      plog(GUEST, 'warn', '💥 ICE failed');
+      activateRelayMode(GUEST);
+    }, 2500); // leichte Verzögerung zwischen Host und Guest
+
+  } else if (szenario === 'webrtc-then-relay') {
+    // WebRTC verbindet kurz, dann DC Close während Runde 1
+    plog(HOST,  'info', '⏳ WebRTC verbindet…');
+    plog(GUEST, 'info', '⏳ WebRTC verbindet…');
+    setTimeout(() => {
+      simulateDCOpen(HOST, GUEST);
+    }, 1500);
+    // DC schliesst nach 8s (mitten in Runde 1)
+    setTimeout(() => {
+      plog(HOST,  'warn', '⚡ ICE-Verbindung unterbrochen…');
+      plog(GUEST, 'warn', '⚡ ICE-Verbindung unterbrochen…');
+      simulateDCClose(HOST,  'ICE disconnected');
+      simulateDCClose(GUEST, 'ICE disconnected');
+    }, 8000);
+    // ICE failed kurz danach → Relay (falls noch nicht aktiv)
+    setTimeout(() => {
+      if (!HOST.relayMode)  { plog(HOST,  'warn', '💥 ICE failed'); activateRelayMode(HOST);  }
+      if (!GUEST.relayMode) { plog(GUEST, 'warn', '💥 ICE failed'); activateRelayMode(GUEST); }
+    }, 10000);
+
+  } else if (szenario === 'perfect') {
+    plog(HOST,  'info', '⏳ WebRTC verbindet…');
+    plog(GUEST, 'info', '⏳ WebRTC verbindet…');
+    setTimeout(() => {
+      simulateDCOpen(HOST, GUEST);
+    }, 1500);
+  }
+}
+
+function simReset() {
+  simRunning = false;
+  simGeneration++;  // Invalidiert alle laufenden relayDeliver-Timeouts
+  if (HOST)  { clearInterval(HOST.pingTimer);  clearTimeout(HOST.abbruchTimer);  Object.values(HOST.pending).forEach(clearInterval);  }
+  if (GUEST) { clearInterval(GUEST.pingTimer); clearTimeout(GUEST.abbruchTimer); Object.values(GUEST.pending).forEach(clearInterval); }
+  HOST = null; GUEST = null;
+  document.getElementById('host-log').innerHTML  = '';
+  document.getElementById('guest-log').innerHTML = '';
+  document.getElementById('relay-log').innerHTML = '';
+  document.getElementById('host-state').innerHTML  = '';
+  document.getElementById('guest-state').innerHTML = '';
+  relayStore.host  = [];
+  relayStore.guest = [];
+  updateRelayCount();
+}
+
+function simAction(rolle, action) {
+  const player = getPlayer(rolle);
+  if (!player || !simRunning) return;
+  switch(action) {
+    case 'iceFail':
+      plog(player, 'warn', '💥 [MANUELL] ICE failed');
+      if (!player.relayMode) activateRelayMode(player);
+      break;
+    case 'dcClose':
+      simulateDCClose(player, 'manuell');
+      break;
+    case 'sendPing':
+      duelMsgSend(player, { type: 'ping' });
+      break;
+    case 'abort':
+      plog(player, 'error', '✕ [MANUELL] Abbrechen');
+      duelAbgebrochen(player, false, 'aufgabe');
+      // Gegner soll gewinnen
+      const other = getOther(rolle);
+      if (other && other.verbunden) {
+        duelMsgSend(player, { type: 'abbruch' });
+      }
+      break;
+  }
+}
+
+// ═══════════════════════════════════════════════════════
+// INIT
+// ═══════════════════════════════════════════════════════
+window.onload = () => {
+  relayLogEl     = document.getElementById('relay-log');
+  relayForHost   = document.getElementById('relay-for-host');
+  relayForGuest  = document.getElementById('relay-for-guest');
+};
+</script>
+</body>
+</html>

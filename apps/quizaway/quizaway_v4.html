@@ -5386,6 +5386,13 @@ function duelSetupDC(dc) {
   };
 
   dc.onclose = () => {
+    if (duel.relayMode) return;  // Relay läuft bereits — ignorieren
+    if (duel.verbunden) {
+      // Spiel war aktiv — sofort Relay-Fallback versuchen (kein State-Reset)
+      duelLog('📡 DataChannel getrennt — versuche Relay-Fallback…');
+      activateRelayMode();
+      return;
+    }
     duel.verbunden = false;
     clearInterval(duel.pingTimer);
     duelLog('Verbindung getrennt');
@@ -5983,6 +5990,9 @@ function duelAbgebrochen(ichGewinne, grund) {
   if (duel.rundeAutoTimer) { clearInterval(duel.rundeAutoTimer);duel.rundeAutoTimer = null; }
   Object.values(duel.pending).forEach(id => clearInterval(id));
   duel.pending = {};
+  // Relay-Poll-Loop stoppen (verhindert Nachrichten nach Spielende)
+  duel.relayMode = false;
+  duel.relayId   = null;
 
   if (ichGewinne) {
     const istVerbindungsVerlust = (grund === 'verbindung');
