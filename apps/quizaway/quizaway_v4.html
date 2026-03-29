@@ -5263,12 +5263,13 @@ async function activateRelayMode() {
     method: 'POST', headers: {'Content-Type':'application/json'},
     body: JSON.stringify({ von: duel.rolle })
   }).catch(() => {});
+  // Status-UI immer aktualisieren (egal ob verbunden war oder nicht)
+  const statusEl = document.getElementById('p2p-status');
+  if (statusEl) { statusEl.textContent = 'Relay ✓'; statusEl.style.color = '#f59e0b'; }
+  lobbyStatus('Relay-Verbindung ✓', '#f59e0b');
   if (!duel.verbunden) {
     duel.verbunden = true;
     if (warteraum._hostWarteTimer) { clearTimeout(warteraum._hostWarteTimer); warteraum._hostWarteTimer = null; }
-    const statusEl = document.getElementById('p2p-status');
-    if (statusEl) { statusEl.textContent = 'Relay ✓'; statusEl.style.color = '#f59e0b'; }
-    lobbyStatus('Relay-Verbindung ✓', '#f59e0b');
     clearInterval(lobbyState.pollingTimer);
     lobbyState.meineAngebotsId = null;
     duelMsgSend({ type:'hello', name:SPIELER_NAME,
@@ -5356,7 +5357,8 @@ function duelSetupDC(dc) {
       duelMsgSend({ type: 'ping' });
       duel.missedPings++;
       if (duel.missedPings === 3) {
-        duelLog('⚠️ Verbindung verloren — warte 30s auf Lebenszeichen…');
+        duelLog('⚠️ 3 Pings ohne Antwort — versuche Relay-Fallback…');
+        activateRelayMode(); // sofort Relay versuchen, bevor 30s-Timeout greift
         duel.abbruchTimer = setTimeout(() => {
           if (navigator.onLine) {
             duelLog('📡 ' + duel.gegnerName + ' nicht erreichbar — Spiel beendet');
