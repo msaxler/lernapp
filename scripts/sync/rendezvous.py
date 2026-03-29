@@ -277,11 +277,12 @@ class Handler(BaseHTTPRequestHandler):
                 'herausforderung': eintrag.get('herausforderung')
             }); return
 
-        # GET /relay/{sid}?fuer=host|guest  →  long-poll (max 25s)
+        # GET /relay/{sid}?fuer=host|guest  →  short-poll (max 3s)
+        # Kurzes Intervall damit Ping/Pong innerhalb des 5s-Ping-Timers ankommt
         if p.startswith('/relay/') and p.count('/') == 2:
             sid  = p[7:]
             fuer = _qp.get('fuer', ['host'])[0]
-            for _ in range(50):   # 50 × 500ms = 25s
+            for _ in range(6):   # 6 × 500ms = 3s
                 with relay_msgs_lock:
                     bucket = relay_msgs.get(sid, {}).get(fuer)
                     if bucket:
