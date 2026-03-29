@@ -3248,15 +3248,7 @@ async function warteraumP2PStart(gegnerWarteraumId, gegner) {
   lobbyState.meineSchwierigkeit = sw;
   try {
     // WebRTC-Offer vorbereiten
-    duel.pc = new RTCPeerConnection({iceServers:[
-      {urls:'stun:stun.l.google.com:19302'},
-      {urls:'stun:stun1.l.google.com:19302'},
-      {urls:'stun:stun.cloudflare.com:3478'},
-      {urls:'turn:openrelay.metered.ca:80',              username:'openrelayproject', credential:'openrelayproject'},
-      {urls:'turn:openrelay.metered.ca:80?transport=tcp', username:'openrelayproject', credential:'openrelayproject'},
-      {urls:'turn:openrelay.metered.ca:443',             username:'openrelayproject', credential:'openrelayproject'},
-      {urls:'turn:openrelay.metered.ca:443?transport=tcp',username:'openrelayproject', credential:'openrelayproject'}
-    ]});
+    duel.pc = duelNewPC();
     const dc = duel.pc.createDataChannel('duell');
     duelSetupDC(dc);
     const offer = await duel.pc.createOffer();
@@ -3270,6 +3262,7 @@ async function warteraumP2PStart(gegnerWarteraumId, gegner) {
     });
     const data = await res.json();
     if (!data.id) throw new Error('Kein Angebot-ID');
+    duel.relayId = 'L' + data.id;
 
     await fetch(RENDEZVOUS + '/lobby/offer/' + data.id, {
       method: 'POST', headers: {'Content-Type':'application/json'},
@@ -4906,15 +4899,8 @@ async function lobbyAngebotErstellen() {
   lobbyStatus('Verbindung vorbereiten…');
   try {
     // Schritt 1: WebRTC-Offer erstellen (BEVOR Angebot sichtbar wird)
-    duel.pc = new RTCPeerConnection({iceServers:[
-      {urls:'stun:stun.l.google.com:19302'},
-      {urls:'stun:stun1.l.google.com:19302'},
-      {urls:'stun:stun.cloudflare.com:3478'},
-      {urls:'turn:openrelay.metered.ca:80',              username:'openrelayproject', credential:'openrelayproject'},
-      {urls:'turn:openrelay.metered.ca:80?transport=tcp', username:'openrelayproject', credential:'openrelayproject'},
-      {urls:'turn:openrelay.metered.ca:443',             username:'openrelayproject', credential:'openrelayproject'},
-      {urls:'turn:openrelay.metered.ca:443?transport=tcp',username:'openrelayproject', credential:'openrelayproject'}
-    ]});
+    duel.rolle = 'host';
+    duel.pc = duelNewPC();
     const dc = duel.pc.createDataChannel('duell');
     duelSetupDC(dc);
     const offer = await duel.pc.createOffer();
@@ -4938,7 +4924,7 @@ async function lobbyAngebotErstellen() {
 
     lobbyState.meineAngebotsId = data.id;
     lobbyState.rolle = 'host';
-    duel.rolle = 'host';
+    duel.relayId = 'L' + data.id;
 
     // UI: Erstellen ausblenden, Warten einblenden
     document.getElementById('lobby-create-section').style.display = 'none';
@@ -5008,6 +4994,7 @@ async function lobbyBeitreten(aid, hostName) {
     lobbyState.meineAngebotsId = aid;
     lobbyState.rolle = 'guest';
     duel.rolle = 'guest';
+    duel.relayId = 'L' + aid;
     lobbyStatus('Verbinde mit ' + hostName + '…', '#10b981');
 
     // Offer holen und Answer schicken
@@ -5031,15 +5018,7 @@ async function lobbyGuestVerbinden(aid, guestName) {
   }
   if (!offer) { lobbyStatus('Offer nicht erhalten', '#ef4444'); return; }
 
-  duel.pc = new RTCPeerConnection({iceServers:[
-      {urls:'stun:stun.l.google.com:19302'},
-      {urls:'stun:stun1.l.google.com:19302'},
-      {urls:'stun:stun.cloudflare.com:3478'},
-      {urls:'turn:openrelay.metered.ca:80',              username:'openrelayproject', credential:'openrelayproject'},
-      {urls:'turn:openrelay.metered.ca:80?transport=tcp', username:'openrelayproject', credential:'openrelayproject'},
-      {urls:'turn:openrelay.metered.ca:443',             username:'openrelayproject', credential:'openrelayproject'},
-      {urls:'turn:openrelay.metered.ca:443?transport=tcp',username:'openrelayproject', credential:'openrelayproject'}
-    ]});
+  duel.pc = duelNewPC();
   duel.pc.ondatachannel = (e) => duelSetupDC(e.channel);
 
   await duel.pc.setRemoteDescription({type:'offer', sdp: offer});
@@ -5206,6 +5185,11 @@ let duel = {
   outSeq: 0,      // ausgehende Sequenznummer
   pending: {},    // {seq: intervalId} — warten auf ACK
   seenSeqs: new Set(), // empfangene Sequenznummern (Duplikat-Schutz)
+
+  // Server-Relay Fallback (wenn WebRTC/ICE fehlschlägt)
+  relayMode:      false,
+  relayId:        null,   // session-ID = Lobby-ID oder PIN
+  relayPollAktiv: false,
 };
 
 // ─── Hilfsfunktionen ─────────────────────────────────────────
@@ -5216,6 +5200,13 @@ function duelLog(msg) {
 }
 
 function duelMsgSend(obj) {
+  if (duel.relayMode && duel.relayId) {
+    rendezvousFetch('/relay/' + duel.relayId + '/send', {
+      method: 'POST', headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({ von: duel.rolle, msgs: [obj] })
+    }).catch(() => {});
+    return;
+  }
   if (duel.dc && duel.dc.readyState === 'open') {
     duel.dc.send(JSON.stringify(obj));
   }
@@ -5227,7 +5218,7 @@ function duelSendReliable(msg) {
   msg.seq = seq;
   duelMsgSend(msg);
   duel.pending[seq] = setInterval(() => {
-    if (!duel.dc || duel.dc.readyState !== 'open') return;
+    if (!duel.relayMode && (!duel.dc || duel.dc.readyState !== 'open')) return;
     duelLog('[↺] ' + msg.type + ' seq=' + seq + ' erneut gesendet');
     duelMsgSend(msg);
   }, 3000);
@@ -5241,6 +5232,69 @@ async function duelIceGather(pc) {
       if (pc.iceGatheringState === 'complete') { clearTimeout(t); res(); }
     };
   });
+}
+
+// ─── RTCPeerConnection mit ICE-Monitor + Relay-Reset ─────────
+const ICE_SERVERS = [
+  {urls:'stun:stun.l.google.com:19302'},
+  {urls:'stun:stun1.l.google.com:19302'},
+  {urls:'turn:openrelay.metered.ca:443?transport=tcp', username:'openrelayproject', credential:'openrelayproject'}
+];
+function duelNewPC() {
+  duel.relayMode = false; duel.relayId = null; duel.relayPollAktiv = false;
+  const pc = new RTCPeerConnection({iceServers: ICE_SERVERS});
+  pc.oniceconnectionstatechange = () => {
+    const s = pc.iceConnectionState;
+    duelLog('[ICE] ' + s);
+    if (s === 'failed' && !duel.verbunden && !duel.relayMode) activateRelayMode();
+  };
+  // Safety-Timeout: wenn DC nach 12s noch nicht offen → Relay
+  setTimeout(() => { if (!duel.verbunden && !duel.relayMode) activateRelayMode(); }, 12000);
+  return pc;
+}
+
+// ─── Server-Relay Fallback ────────────────────────────────────
+async function activateRelayMode() {
+  if (duel.relayMode || !duel.relayId) return;
+  duel.relayMode = true;
+  duelLog('📡 WebRTC fehlgeschlagen — Server-Relay aktiv');
+  await rendezvousFetch('/relay/' + duel.relayId + '/init', {
+    method: 'POST', headers: {'Content-Type':'application/json'},
+    body: JSON.stringify({ von: duel.rolle })
+  }).catch(() => {});
+  if (!duel.verbunden) {
+    duel.verbunden = true;
+    if (warteraum._hostWarteTimer) { clearTimeout(warteraum._hostWarteTimer); warteraum._hostWarteTimer = null; }
+    const statusEl = document.getElementById('p2p-status');
+    if (statusEl) { statusEl.textContent = 'Relay ✓'; statusEl.style.color = '#f59e0b'; }
+    lobbyStatus('Relay-Verbindung ✓', '#f59e0b');
+    clearInterval(lobbyState.pollingTimer);
+    lobbyState.meineAngebotsId = null;
+    duelMsgSend({ type:'hello', name:SPIELER_NAME,
+      gpsLat:gpsState.lat, gpsLon:gpsState.lon, gpsOk:gpsState.ok });
+    duel.pingTimer = setInterval(() => {
+      duelMsgSend({ type:'ping' });
+      duel.missedPings++;
+      if (duel.missedPings >= 6) { duelLog('📡 ' + duel.gegnerName + ' nicht erreichbar'); duelAbgebrochen(true,'verbindung'); }
+    }, 5000);
+    duelP2PStart();
+    if (duel.rolle === 'host') setTimeout(() => duelStarteRunde(1), 1200);
+  }
+  if (!duel.relayPollAktiv) relayPollLoop();
+}
+
+async function relayPollLoop() {
+  duel.relayPollAktiv = true;
+  while (duel.relayMode && duel.relayId) {
+    try {
+      const res = await rendezvousFetch('/relay/' + duel.relayId + '?fuer=' + duel.rolle);
+      if (res.ok) {
+        const data = await res.json();
+        for (const msg of (data.msgs || [])) duelHandleMsg(msg);
+      } else { await new Promise(r => setTimeout(r, 1000)); }
+    } catch(e) { await new Promise(r => setTimeout(r, 2000)); }
+  }
+  duel.relayPollAktiv = false;
 }
 
 // ─── Wahlrecht berechnen ────────────────────────────────────
@@ -5433,22 +5487,14 @@ async function p2pHost() {
   document.getElementById('p2p-section').style.display = 'none';
   document.getElementById('p2p-host-section').style.display = 'block';
   duel.rolle = 'host';
-
-  duel.pc = new RTCPeerConnection({iceServers:[
-      {urls:'stun:stun.l.google.com:19302'},
-      {urls:'stun:stun1.l.google.com:19302'},
-      {urls:'stun:stun.cloudflare.com:3478'},
-      {urls:'turn:openrelay.metered.ca:80',              username:'openrelayproject', credential:'openrelayproject'},
-      {urls:'turn:openrelay.metered.ca:80?transport=tcp', username:'openrelayproject', credential:'openrelayproject'},
-      {urls:'turn:openrelay.metered.ca:443',             username:'openrelayproject', credential:'openrelayproject'},
-      {urls:'turn:openrelay.metered.ca:443?transport=tcp',username:'openrelayproject', credential:'openrelayproject'}
-    ]});
+  duel.pc = duelNewPC();
   const dc = duel.pc.createDataChannel('duell');
   duelSetupDC(dc);
 
   const pin_r = await rendezvousFetch('/new');
   const {pin} = await pin_r.json();
   duel.meinPin = pin;
+  duel.relayId = pin;
   document.getElementById('p2p-pin-anzeige').textContent = pin;
   duelLog('PIN: ' + pin + ' — warte auf Gegner…');
 
@@ -5481,16 +5527,8 @@ async function p2pJoin() {
   const pin = document.getElementById('p2p-pin-eingabe').value.trim();
   if (pin.length < 6) { duelLog('Bitte 6-stellige PIN eingeben'); return; }
   duel.rolle = 'guest';
-
-  duel.pc = new RTCPeerConnection({iceServers:[
-      {urls:'stun:stun.l.google.com:19302'},
-      {urls:'stun:stun1.l.google.com:19302'},
-      {urls:'stun:stun.cloudflare.com:3478'},
-      {urls:'turn:openrelay.metered.ca:80',              username:'openrelayproject', credential:'openrelayproject'},
-      {urls:'turn:openrelay.metered.ca:80?transport=tcp', username:'openrelayproject', credential:'openrelayproject'},
-      {urls:'turn:openrelay.metered.ca:443',             username:'openrelayproject', credential:'openrelayproject'},
-      {urls:'turn:openrelay.metered.ca:443?transport=tcp',username:'openrelayproject', credential:'openrelayproject'}
-    ]});
+  duel.relayId = pin;
+  duel.pc = duelNewPC();
   duel.pc.ondatachannel = (e) => duelSetupDC(e.channel);
 
   // Offer holen mit Retry

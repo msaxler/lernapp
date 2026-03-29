@@ -39,7 +39,7 @@ def geo_patch():
 geo_patch()
 # ─────────────────────────────────────────────────────────────────────────────
 
-from urllib.parse import urlparse
+from urllib.parse import urlparse, parse_qs
 from socketserver import ThreadingMixIn
 
 # ─── WebRTC-Signaling Store ──────────────────────────────────
@@ -86,6 +86,19 @@ def cas(spieler_id, expected_state, new_state):
 lobby = {}           # id -> angebot
 lobby_lock = threading.Lock()
 LOBBY_TTL = 300      # 5 Minuten — Angebote laufen ab
+
+# ─── Server-Relay (Fallback wenn WebRTC/ICE fehlschlägt) ─────
+# sid → {'host': [], 'guest': [], 'erstellt': timestamp}
+relay_msgs = {}
+relay_msgs_lock = threading.Lock()
+RELAY_TTL = 600  # 10 Minuten pro Session
+
+def relay_cleanup():
+    now = time.time()
+    with relay_msgs_lock:
+        stale = [k for k, v in relay_msgs.items() if now - v['erstellt'] > RELAY_TTL]
+        for k in stale:
+            del relay_msgs[k]
 
 def lobby_cleanup():
     """Abgelaufene Angebote entfernen"""
@@ -162,7 +175,9 @@ class Handler(BaseHTTPRequestHandler):
         self.end_headers()
 
     def do_GET(self):
-        p = urlparse(self.path).path
+        _parsed = urlparse(self.path)
+        p = _parsed.path
+        _qp = parse_qs(_parsed.query)
 
         # Dateien ausliefern
         if p == '/' or p == '/index.html':
@@ -261,6 +276,20 @@ class Handler(BaseHTTPRequestHandler):
                 'state':          eintrag['state'],
                 'herausforderung': eintrag.get('herausforderung')
             }); return
+
+        # GET /relay/{sid}?fuer=host|guest  →  long-poll (max 25s)
+        if p.startswith('/relay/') and p.count('/') == 2:
+            sid  = p[7:]
+            fuer = _qp.get('fuer', ['host'])[0]
+            for _ in range(50):   # 50 × 500ms = 25s
+                with relay_msgs_lock:
+                    bucket = relay_msgs.get(sid, {}).get(fuer)
+                    if bucket:
+                        out = list(bucket)
+                        relay_msgs[sid][fuer] = []
+                        self.send_json(200, {'msgs': out}); return
+                time.sleep(0.5)
+            self.send_json(200, {'msgs': []}); return
 
     do_HEAD = do_GET  # UptimeRobot sendet HEAD-Requests
 
@@ -527,6 +556,27 @@ class Handler(BaseHTTPRequestHandler):
                     print(f"  HF-Update: {gegner_id} → Angebot {angebots_id} ({schwierigkeit})")
             self.send_json(200, {'ok': True}); return
 
+        # POST /relay/{sid}/init  →  Relay-Session anlegen (idempotent)
+        if p.startswith('/relay/') and p.endswith('/init'):
+            sid = p[7:-5]
+            with relay_msgs_lock:
+                if sid not in relay_msgs:
+                    relay_msgs[sid] = {'host': [], 'guest': [], 'erstellt': time.time()}
+                    print(f'  [Relay] Session {sid} angelegt')
+            self.send_json(200, {'ok': True}); return
+
+        # POST /relay/{sid}/send  →  Nachricht an Gegner weiterleiten
+        if p.startswith('/relay/') and p.endswith('/send'):
+            sid  = p[7:-5]
+            von  = body.get('von', 'host')          # 'host' oder 'guest'
+            fuer = 'guest' if von == 'host' else 'host'   # für wen sind die Msgs
+            msgs = body.get('msgs', [])
+            with relay_msgs_lock:
+                if sid not in relay_msgs:
+                    relay_msgs[sid] = {'host': [], 'guest': [], 'erstellt': time.time()}
+                relay_msgs[sid][fuer].extend(msgs)
+            self.send_json(200, {'ok': True}); return
+
         self.send_json(404, {'error': 'Nicht gefunden'})
 
     def do_DELETE(self):
@@ -548,6 +598,7 @@ def _hintergrund_cleanup():
         try:
             warteraum_cleanup()
             lobby_cleanup()
+            relay_cleanup()
         except Exception as e:
             print(f'  [cleanup] Fehler: {e}')
 
