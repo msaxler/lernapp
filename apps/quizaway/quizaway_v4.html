@@ -3250,7 +3250,12 @@ async function warteraumP2PStart(gegnerWarteraumId, gegner) {
     // WebRTC-Offer vorbereiten
     duel.pc = new RTCPeerConnection({iceServers:[
       {urls:'stun:stun.l.google.com:19302'},
-      {urls:'turn:openrelay.metered.ca:443?transport=tcp', username:'openrelayproject', credential:'openrelayproject'}
+      {urls:'stun:stun1.l.google.com:19302'},
+      {urls:'stun:stun.cloudflare.com:3478'},
+      {urls:'turn:openrelay.metered.ca:80',              username:'openrelayproject', credential:'openrelayproject'},
+      {urls:'turn:openrelay.metered.ca:80?transport=tcp', username:'openrelayproject', credential:'openrelayproject'},
+      {urls:'turn:openrelay.metered.ca:443',             username:'openrelayproject', credential:'openrelayproject'},
+      {urls:'turn:openrelay.metered.ca:443?transport=tcp',username:'openrelayproject', credential:'openrelayproject'}
     ]});
     const dc = duel.pc.createDataChannel('duell');
     duelSetupDC(dc);
@@ -4903,7 +4908,12 @@ async function lobbyAngebotErstellen() {
     // Schritt 1: WebRTC-Offer erstellen (BEVOR Angebot sichtbar wird)
     duel.pc = new RTCPeerConnection({iceServers:[
       {urls:'stun:stun.l.google.com:19302'},
-      {urls:'turn:openrelay.metered.ca:443?transport=tcp', username:'openrelayproject', credential:'openrelayproject'}
+      {urls:'stun:stun1.l.google.com:19302'},
+      {urls:'stun:stun.cloudflare.com:3478'},
+      {urls:'turn:openrelay.metered.ca:80',              username:'openrelayproject', credential:'openrelayproject'},
+      {urls:'turn:openrelay.metered.ca:80?transport=tcp', username:'openrelayproject', credential:'openrelayproject'},
+      {urls:'turn:openrelay.metered.ca:443',             username:'openrelayproject', credential:'openrelayproject'},
+      {urls:'turn:openrelay.metered.ca:443?transport=tcp',username:'openrelayproject', credential:'openrelayproject'}
     ]});
     const dc = duel.pc.createDataChannel('duell');
     duelSetupDC(dc);
@@ -5023,7 +5033,12 @@ async function lobbyGuestVerbinden(aid, guestName) {
 
   duel.pc = new RTCPeerConnection({iceServers:[
       {urls:'stun:stun.l.google.com:19302'},
-      {urls:'turn:openrelay.metered.ca:443?transport=tcp', username:'openrelayproject', credential:'openrelayproject'}
+      {urls:'stun:stun1.l.google.com:19302'},
+      {urls:'stun:stun.cloudflare.com:3478'},
+      {urls:'turn:openrelay.metered.ca:80',              username:'openrelayproject', credential:'openrelayproject'},
+      {urls:'turn:openrelay.metered.ca:80?transport=tcp', username:'openrelayproject', credential:'openrelayproject'},
+      {urls:'turn:openrelay.metered.ca:443',             username:'openrelayproject', credential:'openrelayproject'},
+      {urls:'turn:openrelay.metered.ca:443?transport=tcp',username:'openrelayproject', credential:'openrelayproject'}
     ]});
   duel.pc.ondatachannel = (e) => duelSetupDC(e.channel);
 
@@ -5421,7 +5436,12 @@ async function p2pHost() {
 
   duel.pc = new RTCPeerConnection({iceServers:[
       {urls:'stun:stun.l.google.com:19302'},
-      {urls:'turn:openrelay.metered.ca:443?transport=tcp', username:'openrelayproject', credential:'openrelayproject'}
+      {urls:'stun:stun1.l.google.com:19302'},
+      {urls:'stun:stun.cloudflare.com:3478'},
+      {urls:'turn:openrelay.metered.ca:80',              username:'openrelayproject', credential:'openrelayproject'},
+      {urls:'turn:openrelay.metered.ca:80?transport=tcp', username:'openrelayproject', credential:'openrelayproject'},
+      {urls:'turn:openrelay.metered.ca:443',             username:'openrelayproject', credential:'openrelayproject'},
+      {urls:'turn:openrelay.metered.ca:443?transport=tcp',username:'openrelayproject', credential:'openrelayproject'}
     ]});
   const dc = duel.pc.createDataChannel('duell');
   duelSetupDC(dc);
@@ -5464,7 +5484,12 @@ async function p2pJoin() {
 
   duel.pc = new RTCPeerConnection({iceServers:[
       {urls:'stun:stun.l.google.com:19302'},
-      {urls:'turn:openrelay.metered.ca:443?transport=tcp', username:'openrelayproject', credential:'openrelayproject'}
+      {urls:'stun:stun1.l.google.com:19302'},
+      {urls:'stun:stun.cloudflare.com:3478'},
+      {urls:'turn:openrelay.metered.ca:80',              username:'openrelayproject', credential:'openrelayproject'},
+      {urls:'turn:openrelay.metered.ca:80?transport=tcp', username:'openrelayproject', credential:'openrelayproject'},
+      {urls:'turn:openrelay.metered.ca:443',             username:'openrelayproject', credential:'openrelayproject'},
+      {urls:'turn:openrelay.metered.ca:443?transport=tcp',username:'openrelayproject', credential:'openrelayproject'}
     ]});
   duel.pc.ondatachannel = (e) => duelSetupDC(e.channel);
 
