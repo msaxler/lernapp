@@ -5075,15 +5075,14 @@ const RENDEZVOUS = (() => {
   const port = location.port || '80';
   return `http://${location.hostname}:${port}`;
 })();
-// Fallback: wenn /lobby nicht erreichbar, automatisch anderen Port versuchen
+// Fallback nur auf localhost — auf Render/HTTPS nie http:// bauen (Mixed Content)
 async function rendezvousFetch(path, opts) {
   try {
     return await fetch(RENDEZVOUS + path, opts);
   } catch(e) {
-    // Fallback auf anderen lokalen Port
-    const altPort = (location.port === '8080' || (!location.port && false)) ? '80' : '8080';
-    const alt = `http://${location.hostname}:${altPort}`;
-    return await fetch(alt + path, opts);
+    if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') throw e;
+    const altPort = location.port === '8080' ? '80' : '8080';
+    return await fetch(`http://${location.hostname}:${altPort}${path}`, opts);
   }
 }
 
