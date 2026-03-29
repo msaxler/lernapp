@@ -5019,6 +5019,7 @@ async function lobbyGuestVerbinden(aid, guestName) {
   if (!offer) { lobbyStatus('Offer nicht erhalten', '#ef4444'); return; }
 
   duel.pc = duelNewPC();
+  duel.relayId = 'L' + aid;   // NACH duelNewPC() setzen — sonst wird es zurückgesetzt
   duel.pc.ondatachannel = (e) => duelSetupDC(e.channel);
 
   await duel.pc.setRemoteDescription({type:'offer', sdp: offer});
@@ -5241,7 +5242,8 @@ const ICE_SERVERS = [
   {urls:'turn:openrelay.metered.ca:443?transport=tcp', username:'openrelayproject', credential:'openrelayproject'}
 ];
 function duelNewPC() {
-  duel.relayMode = false; duel.relayId = null; duel.relayPollAktiv = false;
+  duel.relayMode = false; duel.relayPollAktiv = false;
+  // relayId wird NACH duelNewPC() gesetzt — nicht hier zurücksetzen
   const pc = new RTCPeerConnection({iceServers: ICE_SERVERS});
   pc.oniceconnectionstatechange = () => {
     const s = pc.iceConnectionState;
@@ -5527,8 +5529,8 @@ async function p2pJoin() {
   const pin = document.getElementById('p2p-pin-eingabe').value.trim();
   if (pin.length < 6) { duelLog('Bitte 6-stellige PIN eingeben'); return; }
   duel.rolle = 'guest';
-  duel.relayId = pin;
   duel.pc = duelNewPC();
+  duel.relayId = pin;   // NACH duelNewPC() setzen
   duel.pc.ondatachannel = (e) => duelSetupDC(e.channel);
 
   // Offer holen mit Retry
