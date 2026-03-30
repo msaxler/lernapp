@@ -6161,17 +6161,7 @@ let livePos          = null;
 let liveNaheStaedte  = new Set();  // Städte im aktuellen GPS-Radius
 
 function zeigeLiveModus() {
-  // GPS bereits vorhanden (z.B. aus Warteraum) → direkt starten, Karte überspringen
-  if (gpsState.ok) {
-    const naechste = ROUTE_STAEDTE
-      .map(s => ({ s, d: routeHav(gpsState.lat, gpsState.lon, s.lat, s.lon) }))
-      .sort((a, b) => a.d - b.d)[0];
-    const stadtName = naechste ? naechste.s.name : 'Region';
-    console.log(`[Live] GPS bereits verfügbar → starte direkt bei ${stadtName}`);
-    liveStartQuiz(stadtName, gpsState.lat, gpsState.lon);
-    return;
-  }
-  // GPS noch nicht da → Karte anzeigen + GPS automatisch anfragen
+  // Immer Karte anzeigen — Nutzer soll Radius und Stadt selbst wählen
   showScreen('screen-livemodus');
   // Leaflet lazy init
   if (!liveMap) {
