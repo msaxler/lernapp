@@ -214,7 +214,17 @@ Biologie/Chemie/Geschichte)
 - Optional: Runde 5 als Joker-Runde mit Spezialregel
 **Gamification-Regel** Wettbewerb ist sinnvoll weil er direkt am Lerninhalt hängt —
 kein inhaltsleerer Wettbewerb
-**Technologie** WebRTC DataChannel, PIN-System aus QuizAway portiert
+**Technologie** WebRTC DataChannel + Relay-Fallback aus QuizAway portiert
+**Technische Auflagen aus `docs/konzepte/duell_verbindung_learnings.md`:**
+- Signaling: **WebSocket** statt HTTP-Polling (kein Sleep-Problem, weniger Roundtrips)
+- TURN: **eigener coturn-Server oder bezahlter Dienst** — OpenRelay ist unzuverlässig
+- Relay-Fallback: beibehalten — bewährt; als WebSocket effizienter als Short-Poll
+- ACK-Protokoll + Duplikat-Schutz (`seenSeqs`): beibehalten, in eigene Klasse auslagern
+- SW-Cache: alle dynamischen Endpunkte (`/warteraum/`, `/lobby/`, `/relay/`) **von Anfang an** ausschließen
+- Rendezvous: **Always-On** — kein Render Free Tier (30s Aufwachzeit ist inakzeptabel)
+- Rundenwechsel: Wahlrecht-Logik deterministisch · Auto-Advance-Timer (5s) beibehalten
+**Testkriterium** Verbindung Mobilnetz ↔ WLAN funktioniert · Relay-Fallback aktiviert sich
+automatisch · Duplikate werden erkannt · kein Spielabbruch beim Netzwechsel
 
 #### LA-15 — Klassen-Dashboard (Gamification Ebene 4)
 
