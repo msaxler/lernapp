@@ -1,8 +1,8 @@
 // QuizAway Service Worker — AP11 PWA Shell
 // Cache-Strategie: Cache-First für App-Shell, Network-First für geo.sqlite
 
-const CACHE_NAME = 'quizaway-v5.0';
-const CACHE_VERSION = '5.0.0';
+const CACHE_NAME = 'quizaway-v5.1';
+const CACHE_VERSION = '5.1.0';
 
 // App-Shell: wird beim Install gecacht
 const APP_SHELL = [
