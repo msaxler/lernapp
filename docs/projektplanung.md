@@ -134,6 +134,13 @@ Bewertung per Selbsteinschätzung: *Nochmal / Fast / Gut / Perfekt*
 **Technologie** Web Audio API, Tone.js, MediaRecorder API
 **Testkriterium** Aufnahme startet nach Anlauf · Selbsteinschätzung speichert FSRS-Wert ·
 funktioniert auf iOS Safari (getUserMedia)
+**Technische Schulden aus LA-6 (hier erledigen):**
+- `Tone.Part` statt `Transport.schedule()` — LA-6 nutzt einzelne `schedule()`-Calls
+  wegen TypeScript-Typ-Mismatch bei `Tone.Part<T>`. In LA-7 sauber mit
+  `Tone.Part` lösen (entweder Typ-Cast oder Tone.js-Typen genau prüfen)
+- Lazy Loading für OSMD + Tone.js via `React.lazy()` + `import()` —
+  LA-6 lädt beide Bibliotheken (OSMD 1,2 MB, Tone 231 kB) in jedem Bundle.
+  In LA-7: dynamischer Import nur wenn Route `/chor` aufgerufen wird
 
 #### LA-8 — Chorübung Deck (vollständig)
 
