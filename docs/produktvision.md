@@ -608,9 +608,13 @@ Die Forschung zeigt: Gamification wirkt, aber nur wenn die spielerischen Element
 
 Ebene 1 — Wissens-Visualisierung
 Die staerkste Gamification ist die Scheduling-Transparenz aus dem FSRS-System — konsequent als Fortschrittsanzeige pro Karte visualisiert. Der Lernende sieht nicht abstrakte Punkte sondern konkreten Inhalt:
-•  Zellkern: 8 von 10 Wiederholungen bestanden — wieder in 12 Tagen
-•  Mitochondrium: in 3 von 5 Wiederholungen behalten — wieder morgen
-•  Zellmembran: neu — heute noch einmal
+
+```
+Zellkern      ████████░░  "Sicher"   — wieder in 12 Tagen
+Mitochondrium ██████░░░░  "Lernend"  — wieder morgen
+Zellmembran   ██░░░░░░░░  "Neu"      — heute noch einmal
+```
+
 Das ist Motivation durch Bedeutung: der Lernende versteht zu jedem Zeitpunkt was er weiss und was noch aussteht.
 
 Ebene 2 — Lernkette statt Streak
@@ -629,20 +633,20 @@ Zwei Lernende treten gegeneinander an — technisch aus QuizAway uebernommen, th
 
 Ebene 4 — Klassen-Dashboard (Lehrer-Ansicht)
 Lehrer sieht nicht wer die hoechste Punktzahl hat sondern wer welche Karten sicher beherrscht. Das ist paedagogisch sauber:
-Anzeige
-Bedeutung
 
-8/10 Karten sicher
-Lernender beherrscht das Thema gut
+```
+Klasse 5b — Thema Zellaufbau
+Emma  ████████░░  8/10 Karten sicher
+Leon  ██████░░░░  6/10 Karten sicher
+Mia   ████░░░░░░  4/10 Karten sicher  ← braucht Unterstuetzung
+```
 
-4/10 Karten sicher
-Lernender braucht Unterstuetzung
-
-Heute faellig: 5
-Wie viele Wiederholungen stehen an
-
-Letzte Aktivitaet: gestern
-Wann zuletzt gelernt — ohne Druck
+| Anzeige | Bedeutung |
+|---|---|
+| 8/10 Karten sicher | Lernender beherrscht das Thema gut |
+| 4/10 Karten sicher | Lernender braucht Unterstuetzung |
+| Heute faellig: 5 | Wie viele Wiederholungen stehen an |
+| Letzte Aktivitaet: gestern | Wann zuletzt gelernt — ohne Druck |
 
 Bewusst NICHT in Xalento
 Element
