@@ -182,6 +182,7 @@
   <div class="toc">
     <h2>Inhalt</h2>
     <ol>
+      <li><a href="#hintergrund">Hintergrund &amp; Entstehung</a></li>
       <li><a href="#ueberblick">Überblick</a></li>
       <li><a href="#schnellstart">Schnellstart</a></li>
       <li><a href="#spielername">Spielername</a></li>
@@ -196,6 +197,34 @@
   </div>
 
   <!-- 1. Überblick -->
+  <!-- 0. Hintergrund -->
+  <section id="hintergrund">
+    <h2>Hintergrund &amp; Entstehung</h2>
+
+    <h3>Was ist QuizAway?</h3>
+    <p>QuizAway ist ein <strong>Proof of Concept</strong> — kein fertiges Produkt, sondern der Beweis dass ein Konzept funktioniert. Zwei Konzepte gleichzeitig.</p>
+
+    <div class="card">
+      <div class="card-title">Proof of Concept 1 — Technische Architektur</div>
+      <p>QuizAway beweist dass eine vollständig offline-fähige Geografie-Quiz-App mit echtem P2P-Multiplayer über WebRTC, einem CAS-Warteraum für das Matchmaking und einer 17 MB SQLite-Datenbank mit 77.000 deutschen Städten als einzelne HTML-Datei funktioniert — ohne App Store, ohne Installation, ohne Backend-Entwicklung.</p>
+      <p style="margin-top:8px;">Diese Architektur ist die Blaupause für Arkano — eine generalisierte Lernplattform die auf denselben Grundprinzipien aufbaut: offline-first, P2P-fähig, datensouverän.</p>
+    </div>
+
+    <div class="card">
+      <div class="card-title">Proof of Concept 2 — Ein neues Entwicklungsmodell</div>
+      <p>QuizAway entstand in einem Entwicklungsmodell das bisher kaum erprobt ist: ein einzelner Entwickler mit über 40 Jahren Programmiererfahrung nutzt Claude (Anthropic) als verlängerten Arm — nicht als Ersatz für Expertise, sondern als Multiplikator.</p>
+      <p style="margin-top:8px;">Die Erfahrung bleibt der entscheidende Faktor: sie bestimmt Architekturentscheidungen, erkennt Fehler, setzt Prioritäten und gibt die Richtung vor. Claude übernimmt die Umsetzungsarbeit unter dieser Anleitung — ähnlich wie ein erfahrener Architekt mit einem Team von zehn Entwicklern arbeitet, die solide Arbeit leisten wenn sie gut geführt werden.</p>
+      <p style="margin-top:8px;">Das Ergebnis: Entwicklungsgeschwindigkeit die einem kleinen Team entspricht — mit der konzeptionellen Kohärenz eines einzelnen erfahrenen Entwicklers.</p>
+    </div>
+
+    <h3>Ausblick: Arkano</h3>
+    <p>Mit Abschluss des QuizAway-Prototyps ist gleichzeitig der Startschuss gefallen für eine weitergehende Architektur.</p>
+    <p><strong>Arkano</strong> ist eine generalisierte Lernplattform die auf den Erkenntnissen aus QuizAway aufbaut — mit stabilerer technischer Basis (React / TypeScript / Vite), wissenschaftlich fundierter Spaced-Repetition-Engine (FSRS-5) und mehreren Lernfächern und Player-Typen.</p>
+    <p style="margin-top:8px;">QuizAway bleibt als Referenz-Implementierung bestehen — nicht als fertige App die uneingeschränkt funktioniert, sondern als methodischer und technischer Beweis. Die App ist nicht auf Performance optimiert, kann noch Fehler enthalten und ist nicht für den produktiven Einsatz ausgelegt. Was zählt ist der Nachweis: die Konzepte funktionieren, die Architektur trägt, die technischen Hürden sind überwunden. Die P2P-Duell-Architektur, der Warteraum-Mechanismus und die Geografie-Datenbank fließen als erprobte Basis in Arkano ein — dort sauber implementiert, getestet und auf echten Betrieb ausgelegt.</p>
+
+    <div class="note"><strong>Stand März 2026:</strong> QuizAway v5 ist der abgeschlossene Prototyp. Arkano befindet sich im Aufbau.</div>
+  </section>
+
   <section id="ueberblick">
     <h2>1. Überblick</h2>
     <p>QuizAway ist ein deutsches Geo-Quiz, das direkt im Browser läuft — keine Installation, keine Anmeldung. Öffne die App auf PC oder Smartphone und fange sofort an.</p>
