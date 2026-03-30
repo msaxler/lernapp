@@ -6228,13 +6228,12 @@ function liveGPSStart(retryVersuch) {
 function liveSetGPS(lat, lon, accuracy) {
   livePos = { lat, lon };
   console.log(`[Live] GPS: ${lat.toFixed(4)},${lon.toFixed(4)}${accuracy ? ' ±'+Math.round(accuracy)+'m' : ''}`);
-  // GPS aus Karten-Screen → direkt starten
-  const naechste = ROUTE_STAEDTE
-    .map(s => ({ s, d: routeHav(lat, lon, s.lat, s.lon) }))
-    .sort((a, b) => a.d - b.d)[0];
-  const stadtName = naechste ? naechste.s.name : 'Region';
-  console.log(`[Live] GPS OK → starte bei ${stadtName}`);
-  liveStartQuiz(stadtName, lat, lon);
+  // Karte und Städteliste aktualisieren — Nutzer wählt Stadt selbst
+  const btn = document.getElementById('live-gps-btn');
+  if (btn) btn.textContent = '📍 GPS aktiv';
+  liveSetMsg('Standort gefunden — Stadt wählen oder Radius anpassen');
+  liveUpdateKarte(lat, lon);
+  liveUpdateStaedte(lat, lon);
 }
 
 function liveUpdateKarte(lat, lon) {

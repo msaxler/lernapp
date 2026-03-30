@@ -1,54 +1,61 @@
 #!/usr/bin/env python3
 """
-check_quiz.py — Prüft quizaway_v3.html und generate_questions.py auf Konsistenz.
-Aufruf: py -3.11 check_quiz.py
+check_quiz.py — Prüft quizaway_v5.html auf Konsistenz.
+Aufruf: py check_quiz.py  (aus LernApp/ oder scripts/check/)
 """
 import re, sys, json
 from pathlib import Path
 
-HTML = Path("quizaway_v3.html")
-GQ   = Path("generate_questions.py")
+# Datei finden egal von wo aufgerufen
+ROOT = Path(__file__).resolve().parent.parent.parent
+HTML_PATH = ROOT / "apps" / "quizaway" / "quizaway_v5.html"
+SW_PATH   = ROOT / "apps" / "quizaway" / "sw.js"
+RV_PATH   = ROOT / "scripts" / "sync"  / "rendezvous.py"
 
 # ============================================================
-# Checks für quizaway_v3.html
+# Checks für quizaway_v5.html
 # ============================================================
 HTML_CHECKS = [
-    ("Frage-Timer 14s (JS)",
-        "timerSek = 14", True,
-        "Frage-Timer ist nicht 14s → state.timerSek = 14"),
 
-    ("KEIN Frage-Timer 20s",
-        "timerSek = 20", False,
-        "Frage-Timer steht noch auf 20s → auf 14 ändern"),
+    # ── Grundstruktur ──
+    ("Fragen aus SQL-Datenbank (sql.js)",
+        'sql-wasm.js', True,
+        "sql.js fehlt → Fragen können nicht aus Datenbank geladen werden"),
 
-    ("Feedback Auto-Weiter 14s",
-        "starteAutoWeiter(14, () => naechsteFrage", True,
-        "Feedback-Screen hat keinen 14s Auto-Weiter zu naechsteFrage()"),
-
-    ("Rundenabschluss Auto-Weiter 14s",
-        "starteAutoWeiter(14, () => naechsteRunde", True,
-        "Rundenabschluss hat keinen 14s Auto-Weiter zu naechsteRunde()"),
-
-    ("Kategoriewahl Auto-Weiter 14s",
-        "starteAutoWeiter(14", True,
-        "Kategoriewahl hat keinen 14s Auto-Weiter"),
-
-    ("KEIN Rundenabschluss 10s",
-        "starteAutoWeiter(10", False,
-        "Rundenabschluss hat noch 10s statt 7s"),
-
-    ("Kat-Timer Runde 1 = 14s, sonst 7s",
-        "runde === 1 ? 28 : 14", True,
-        "Kat-Timer ist nicht rundenabhängig → const katTimerSek = state.runde === 1 ? 28 : 14"),
-
-    ("5 Runden (nicht 7)",
+    ("5 Runden",
         "runde === 5", True,
-        "Runden-Check fehlt für runde===5 → sollte 5 Runden sein"),
+        "Runden-Check fehlt für runde===5"),
 
     ("KEINE 7-Runden-Logik",
         "runde === 7", False,
-        "Runden-Check steht noch auf runde===7 → auf 5 ändern"),
+        "Alter 7-Runden-Check noch vorhanden → auf 5 ändern"),
 
+    # ── Timer ──
+    ("Frage-Timer 14s",
+        "timerSek = 14", True,
+        "Frage-Timer ist nicht 14s"),
+
+    ("Punkteformel 120 Punkte max",
+        "vergangen - 3) * 7", True,
+        "Punkteformel stimmt nicht → 120 - (vergangen-3)*7"),
+
+    ("Feedback Auto-Weiter 14s",
+        "starteAutoWeiter(14 * DEBUG_TIMER_FAKTOR, () => naechsteFrage()", True,
+        "Feedback-Screen hat keinen 14s Auto-Weiter"),
+
+    ("Rundenabschluss Auto-Weiter 14s",
+        "starteAutoWeiter(14 * DEBUG_TIMER_FAKTOR, () => naechsteRunde()", True,
+        "Rundenabschluss hat keinen 14s Auto-Weiter"),
+
+    ("Warteraum-Timer 120s (JS)",
+        "120 * (DEBUG_TIMER_FAKTOR", True,
+        "Warteraum-Timer ist nicht 120s → sekEl = 120"),
+
+    ("Warteraum-Timer 120s (HTML-Span)",
+        ">120<", True,
+        "Warteraum-Anzeige zeigt nicht 120"),
+
+    # ── Auto-Weiter Infrastruktur ──
     ("stopAutoWeiter vorhanden",
         "function stopAutoWeiter()", True,
         "stopAutoWeiter() Funktion fehlt"),
@@ -57,135 +64,197 @@ HTML_CHECKS = [
         "function starteAutoWeiter(", True,
         "starteAutoWeiter() Funktion fehlt"),
 
-    ("stopAutoWeiter in naechsteFrage",
-        "naechsteFrage() {\n  stopAutoWeiter", True,
-        "naechsteFrage() ruft stopAutoWeiter() nicht auf"),
-
-    ("stopAutoWeiter in naechsteRunde",
-        "naechsteRunde() {\n  stopAutoWeiter", True,
-        "naechsteRunde() ruft stopAutoWeiter() nicht auf"),
-
-    ("Kategorien slice(0,3)",
+    # ── Kategorien ──
+    ("3 Kategorien zur Auswahl (slice)",
         "slice(0, 3)", True,
-        "Kategoriewahl zeigt nicht 3 Karten (slice fehlt)"),
+        "Kategoriewahl zeigt nicht 3 Karten"),
 
-    ("Punkteformel 120 Punkte max",
-        "vergangen - 3) * 7", True,
-        "Punkteformel nicht aktuell → vergangen <= 3 ? 120 : Math.max(0, 120 - (vergangen - 3) * 7)"),
+    ("Kategorie dist vorhanden",
+        "'dist'", True,
+        "Kategorie 'dist' (Distanz & Lage) fehlt"),
 
-    ("vergangen auf 7s-Basis",
-        "vergangen = 14 - state.timerSek", True,
-        "vergangen-Berechnung noch auf alter Basis → 14 - state.timerSek"),
-
-    # ── CSS / Layout ──
+    # ── Layout / CSS ──
     ("route-map-svg-wrap vorhanden",
         "route-map-svg-wrap", True,
-        "route-map-svg-wrap Wrapper fehlt → Karte läuft aus dem Bereich"),
+        "route-map-svg-wrap Wrapper fehlt"),
 
-    ("route-screen overflow:hidden",
-        "overflow:hidden; box-sizing:border-box", True,
-        "route-screen hat kein overflow:hidden → Inhalt läuft aus dem Screen"),
+    ("Screens overflow-y:scroll (iOS-Fix)",
+        "overflow-y: scroll", True,
+        ".screen hat kein overflow-y:scroll → iOS Safari kann nicht scrollen"),
 
-    ("route-map-wrap flex:1 min-height:0",
-        "flex:1; min-height:0", True,
-        "route-map-wrap hat kein flex:1 min-height:0 → Karte ignoriert Flex-Begrenzung"),
+    ("-webkit-overflow-scrolling touch",
+        "-webkit-overflow-scrolling: touch", True,
+        "Momentum-Scrolling für iOS fehlt"),
 
-    ("Duell Kat-Timer rundenabhängig",
-        "duellState.runde === 1 ? 28 : 14", True,
-        "Duell Kat-Timer ist nicht rundenabhängig → duellState.runde === 1 ? 28 : 14"),
+    ("#phone overflow:visible auf Mobile",
+        "overflow: visible", True,
+        "#phone hat kein overflow:visible in Mobile-Query → iOS Touch-Events blockiert"),
 
-    ("Routen-Fallback kategorietreu",
-        "f.kat === state.gewaehlteKat.id && !bereits.has", True,
-        "Routen-Fallback filtert nicht nach Kategorie → falsche Kategorien möglich"),
+    ("min-height:100dvh",
+        "min-height: 100dvh", True,
+        "body hat kein min-height:100dvh → Dynamic-Viewport fehlt"),
 
-    # ── Modus/Schwierigkeit-Anzeige ──
-    ("frage-modus-badge vorhanden",
-        "frage-modus-badge", True,
-        "frage-modus-badge fehlt → Modus/Schwierigkeit nicht im Spielscreen sichtbar"),
+    # ── Live-Modus ──
+    ("zeigeLiveModus vorhanden",
+        "function zeigeLiveModus()", True,
+        "zeigeLiveModus() fehlt"),
 
-    ("frage-modus-badge wird gesetzt",
-        "frage-modus-badge').textContent", True,
-        "frage-modus-badge wird in zeigeFrage() nicht gesetzt"),
+    ("Live-Modus: liveSetGPS aktualisiert Karte (kein Auto-Start)",
+        "liveUpdateKarte(lat, lon)", True,
+        "liveSetGPS() aktualisiert Karte nicht — ruft stattdessen direkt liveStartQuiz() auf → Karte wird übersprungen"),
 
-    ("Modus-Label sofa/route/duell",
-        "modus === 'sofa'  ? 'Sofa'", True,
-        "Modus-Label für sofa/route/duell fehlt in zeigeFrage()"),
+    ("Leaflet-Karte vorhanden",
+        "L.map('live-map'", True,
+        "Leaflet-Karte im Live-Modus fehlt"),
+
+    # ── Duell / Relay ──
+    ("duelNewPC vorhanden",
+        "function duelNewPC()", True,
+        "duelNewPC() Hilfsfunktion fehlt"),
+
+    ("ICE_SERVERS definiert",
+        "const ICE_SERVERS", True,
+        "ICE_SERVERS Konstante fehlt"),
+
+    ("Mindestens 2 STUN-Server",
+        "stun:stun1.l.google.com", True,
+        "Nur 1 STUN-Server konfiguriert"),
+
+    ("TURN-Server konfiguriert",
+        "turn:", True,
+        "Kein TURN-Server konfiguriert"),
+
+    ("activateRelayMode vorhanden",
+        "async function activateRelayMode()", True,
+        "activateRelayMode() Funktion fehlt"),
+
+    ("relayPollLoop vorhanden",
+        "async function relayPollLoop()", True,
+        "relayPollLoop() Funktion fehlt"),
+
+    ("Relay-Felder im duel-Objekt",
+        "relayMode:", True,
+        "relayMode fehlt im duel-Objekt"),
+
+    ("relayId im duel-Objekt",
+        "relayId:", True,
+        "relayId fehlt im duel-Objekt"),
+
+    ("duelAbgebrochen stoppt Relay",
+        "duel.relayMode = false", True,
+        "duelAbgebrochen() setzt relayMode nicht zurück → Poll-Loop läuft weiter"),
+
+    ("dc.onclose: Relay-Guard",
+        "if (duel.relayMode) return", True,
+        "dc.onclose hat keinen Relay-Guard"),
+
+    ("dc.onclose: Relay-Fallback bei aktivem Spiel",
+        "DataChannel getrennt — versuche Relay-Fallback", True,
+        "dc.onclose ruft activateRelayMode() nicht auf wenn Spiel aktiv"),
+
+    ("ACK-basiertes Reliable Messaging",
+        "function duelSendReliable(", True,
+        "duelSendReliable() fehlt"),
+
+    ("Duplikat-Schutz seenSeqs",
+        "seenSeqs", True,
+        "seenSeqs (Duplikat-Schutz) fehlt"),
+
+    ("Ping-Timeout löst Relay aus",
+        "activateRelayMode(); // sofort Relay", True,
+        "Ping-Timeout aktiviert Relay nicht → Verbindungsverlust nach 30s"),
+
+    ("Warteraum WARTERAUM_TTL",
+        "WARTERAUM_TTL", False,  # steht in rendezvous.py, nicht im HTML
+        ""),  # kein HTML-Check nötig
+
+    # ── Service Worker ──
+    ("SW registriert",
+        "serviceWorker.register", True,
+        "Service Worker wird nicht registriert"),
+
+    # ── favicon ──
+    ("Favicon-Link vorhanden",
+        'rel="icon"', True,
+        'favicon.ico 502 verhindern: <link rel="icon"> fehlt'),
 ]
 
 # ============================================================
-# Checks für generate_questions.py
+# Checks für sw.js
 # ============================================================
-GQ_CHECKS = [
-    ("KFZ_KREISSTADT Tabelle vorhanden",
-        "KFZ_KREISSTADT", True,
-        "KFZ_KREISSTADT fehlt → patch_generate_kfz.py ausführen"),
+SW_CHECKS = [
+    ("Cache-Name v5",
+        "quizaway-v5", True,
+        "sw.js Cache-Name ist nicht v5 → alter Cache bleibt aktiv"),
 
-    ("KFZ Erklärung nutzt _kfz_erkl()",
-        "_kfz_erkl(kfz, name", True,
-        "KFZ-Erklärung (Richtung 1) nutzt nicht _kfz_erkl() → patch_generate_kfz.py"),
+    ("App-Shell: quizaway_v5.html",
+        "quizaway_v5.html", True,
+        "sw.js cached noch quizaway_v4.html statt v5"),
 
-    ("KFZ Erklärung nutzt _kfz_erkl2()",
-        "_kfz_erkl2(kfz, name", True,
-        "KFZ-Erklärung (Richtung 2) nutzt nicht _kfz_erkl2() → patch_generate_kfz.py"),
+    ("API-Ausschluss /warteraum/",
+        "pathname.startsWith('/warteraum/')", True,
+        "/warteraum/ wird gecacht → Spielerliste veraltet"),
 
-    ("SU → Siegburg in Tabelle",
-        '"SU": "Siegburg"', True,
-        'SU→Siegburg fehlt in KFZ_KREISSTADT'),
+    ("API-Ausschluss /relay/",
+        "pathname.startsWith('/relay/')", True,
+        "/relay/ wird gecacht → Relay-Nachrichten gehen verloren"),
 
+    ("API-Ausschluss /lobby/",
+        "pathname.startsWith('/lobby/')", True,
+        "/lobby/ wird gecacht → Duell-Signaling bricht"),
 
+    ("API-Ausschluss /offer/ und /answer/",
+        "pathname.startsWith('/offer/')", True,
+        "/offer/ wird gecacht → WebRTC-Signaling bricht"),
 ]
 
 # ============================================================
-# Fragen-JSON Checks
+# Checks für rendezvous.py
 # ============================================================
-def check_fragen():
-    fragen_path = Path("fragen.json")
-    results = []
-    if not fragen_path.exists():
-        results.append((False, "fragen.json vorhanden", "fragen.json fehlt → generate_questions.py ausführen"))
-        return results
-    try:
-        fragen = json.loads(fragen_path.read_text(encoding='utf-8'))
-    except Exception as e:
-        results.append((False, "fragen.json lesbar", str(e)))
-        return results
+RV_CHECKS = [
+    ("WARTERAUM_TTL = 150",
+        "WARTERAUM_TTL = 150", True,
+        "WARTERAUM_TTL ist nicht 150 → Spieler verschwinden zu früh/spät"),
 
-    results.append((True, f"fragen.json vorhanden ({len(fragen)} Fragen)", ""))
+    ("Relay-Store vorhanden",
+        "relay_msgs", True,
+        "relay_msgs fehlt → Server-Relay nicht implementiert"),
 
-    kfz_fragen = [f for f in fragen if f['kat'] == 'kfz']
-    # Prüfe ob noch alte Erklärungen drin sind
-    alte_erkl = [f for f in kfz_fragen
-                 if 'Zulassungsbereich' not in f.get('erkl','')
-                 and f.get('erkl','').count(' ist das Kennzeichen für ') > 0]
-    # Nur als Problem wenn viele betroffen (>30% der KFZ-Fragen ohne Zulassungsbereich-Hinweis)
-    # — manche Städte sind selbst der Namenspatron, die haben keine Zulassungsbereich-Erwähnung
-    ok = len(alte_erkl) < len(kfz_fragen) * 0.7
-    results.append((ok,
-        f"KFZ-Erklärungen enthalten Zulassungsbereich ({len(kfz_fragen)-len(alte_erkl)}/{len(kfz_fragen)} Fragen)",
-        "Viele KFZ-Fragen ohne Zulassungsbereich-Hinweis → generate_questions.py neu ausführen"))
+    ("POST /relay/.../init Handler",
+        "relay/') and p.endswith('/init')", True,
+        "POST /relay/{id}/init Handler fehlt"),
 
-    # Kategorien-Verteilung
-    from collections import Counter
-    kat_count = Counter(f['kat'] for f in fragen)
-    for kat, count in sorted(kat_count.items()):
-        results.append((count >= 20,
-            f"Kategorie '{kat}': {count} Fragen",
-            f"Zu wenig Fragen für '{kat}' → generate_questions.py prüfen"))
+    ("POST /relay/.../send Handler",
+        "relay/') and p.endswith('/send')", True,
+        "POST /relay/{id}/send Handler fehlt"),
 
-    return results
+    ("GET /relay/ Short-Poll Handler",
+        "p.startswith('/relay/') and p.count('/') == 2", True,
+        "GET /relay/{id} Handler fehlt"),
+
+    ("CORS-Header vorhanden",
+        "Access-Control-Allow-Origin", True,
+        "CORS fehlt → Browser blockiert API-Anfragen"),
+]
 
 # ============================================================
 # Runner
 # ============================================================
 def run_checks(label, path, checks):
-    print(f"\n── {label} ({'vorhanden' if path.exists() else 'FEHLT'}) ──")
+    print(f"\n── {label} ({('vorhanden' if path.exists() else '❌ FEHLT')}) ──")
     if not path.exists():
         print(f"  ❌  {path} nicht gefunden!")
-        return 0, [f"{path} fehlt"]
+        return 0, len(checks), [f"{path} fehlt"]
     content = path.read_text(encoding='utf-8')
     ok = 0
     fehler = []
-    for beschreibung, suchstring, muss_vorhanden, meldung in checks:
+    for eintrag in checks:
+        if len(eintrag) == 4:
+            beschreibung, suchstring, muss_vorhanden, meldung = eintrag
+        else:
+            continue
+        if not beschreibung or not meldung and not muss_vorhanden:
+            continue  # Platzhalter überspringen
         gefunden = suchstring in content
         korrekt = (gefunden == muss_vorhanden)
         status = '✅' if korrekt else '❌'
@@ -193,52 +262,27 @@ def run_checks(label, path, checks):
         print(f"  {status}  {beschreibung}{note}")
         if korrekt:
             ok += 1
-        else:
+        elif meldung:
             fehler.append(meldung)
-    return ok, fehler
+    return ok, len([e for e in checks if e[3]]), fehler
 
 def main():
-    print("check_quiz.py — Konsistenzprüfung Quiz Away")
+    print("check_quiz.py — Konsistenzprüfung QuizAway v5")
     print("=" * 55)
 
     alle_fehler = []
     alle_ok = 0
     alle_total = 0
 
-    # HTML
-    ok, fehler = run_checks("quizaway_v3.html", HTML, HTML_CHECKS)
-    alle_ok += ok; alle_fehler += fehler; alle_total += len(HTML_CHECKS)
+    ok, total, fehler = run_checks("quizaway_v5.html", HTML_PATH, HTML_CHECKS)
+    alle_ok += ok; alle_fehler += fehler; alle_total += total
 
-    # generate_questions.py
-    ok, fehler = run_checks("generate_questions.py", GQ, GQ_CHECKS)
-    alle_ok += ok; alle_fehler += fehler; alle_total += len(GQ_CHECKS)
+    ok, total, fehler = run_checks("sw.js", SW_PATH, SW_CHECKS)
+    alle_ok += ok; alle_fehler += fehler; alle_total += total
 
-    # fetch_staedte.py
-    fs = Path("fetch_staedte.py")
-    print(f"\n── fetch_staedte.py ──")
-    if fs.exists():
-        fs_c = fs.read_text(encoding='utf-8')
-        ars_ok = "'ars':" in fs_c and "d['ars']" in fs_c
-        print(f"  {'✅' if ars_ok else '❌'}  ars-Feld wird in staedte.json gespeichert")
-        if not ars_ok:
-            alle_fehler.append("fetch_staedte.py speichert 'ars' nicht → patch_fetch_staedte.py ausführen")
-        else:
-            alle_ok += 1
-        alle_total += 1
-    else:
-        print(f"  ⚠️   fetch_staedte.py nicht gefunden (übersprungen)")
+    ok, total, fehler = run_checks("rendezvous.py", RV_PATH, RV_CHECKS)
+    alle_ok += ok; alle_fehler += fehler; alle_total += total
 
-    # fragen.json
-    print(f"\n── fragen.json ──")
-    for korrekt, beschreibung, meldung in check_fragen():
-        print(f"  {'✅' if korrekt else '❌'}  {beschreibung}")
-        if not korrekt:
-            alle_fehler.append(meldung)
-        else:
-            alle_ok += 1
-        alle_total += 1
-
-    # Zusammenfassung
     print(f"\n{'=' * 55}")
     print(f"  {alle_ok}/{alle_total} Checks bestanden")
 
