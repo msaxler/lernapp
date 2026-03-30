@@ -55,7 +55,8 @@
 
   @media (max-width: 420px) {
     body { background: var(--bg); align-items: flex-start; height: 100dvh; }
-    #phone { width: 100vw; height: 100dvh; border-radius: 0; box-shadow: none; }
+    /* overflow:hidden auf #phone blockiert iOS Touch-Events für Scroll-Kinder */
+    #phone { width: 100vw; height: 100dvh; border-radius: 0; box-shadow: none; overflow: visible; }
   }
 
   /* Screens */
@@ -64,7 +65,7 @@
     inset: 0;
     display: none;
     flex-direction: column;
-    overflow-y: auto;
+    overflow-y: scroll;          /* scroll statt auto: iOS Safari braucht scroll für Momentum */
     overflow-x: hidden;
     -webkit-overflow-scrolling: touch;
   }
