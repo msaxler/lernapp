@@ -173,7 +173,7 @@
   <div class="header-icon">🗺️</div>
   <h1>QuizAway</h1>
   <div class="sub">Geografisches Wissen spielerisch erleben · Prototyp</div>
-  <div class="version-badge">Version 4 · März 2026</div>
+  <div class="version-badge">Version 5 · März 2026</div>
 </div>
 
 <div class="wrapper">
@@ -337,7 +337,7 @@
       <tr><td>Kategorieauswahl</td><td>28 s</td><td>Eine zufällige Kategorie wird gewählt</td></tr>
       <tr><td>Feedback nach Antwort</td><td>14 s</td><td>Nächste Frage erscheint</td></tr>
       <tr><td>Rundenabschluss</td><td>14 s</td><td>Nächste Kategorieauswahl erscheint</td></tr>
-      <tr><td>Duell: Warteraum</td><td>14 s</td><td>Spiel startet gegen virtuellen Gegner</td></tr>
+      <tr><td>Duell: Warteraum</td><td>120 s</td><td>Spiel startet gegen virtuellen Gegner</td></tr>
       <tr><td>Duell: Rundenvergleich (Spieler mit Wahlrecht)</td><td>5 s</td><td>Kategorieauswahl für nächste Runde startet</td></tr>
     </table>
     <div class="note"><strong>Hinweis:</strong> Jeder Auto-Weiter-Timer kann durch manuellen Tipp auf den Button übersprungen werden — du musst nie warten.</div>
@@ -353,6 +353,7 @@
       <tr><td>👥 Einwohner</td><td>Städtevergleich, Bevölkerungsdichte, Schwellenwerte</td></tr>
       <tr><td>📮 PLZ</td><td>Welche Postleitzahl gehört zu welcher Stadt</td></tr>
       <tr><td>⛰️ Höhenlage</td><td>Welche Stadt liegt höher? In welchem Höhenbereich?</td></tr>
+      <tr><td>📏 Distanz &amp; Lage</td><td>Entfernungen zwischen Städten, Himmelsrichtungen, Lage im Bundesland</td></tr>
     </table>
     <div class="tip"><strong>Gut zu wissen:</strong> Die besten Fragen sind die, wo die richtige Antwort überrascht — Bevölkerungsdichte, Höhenlagen, unbekannte Kennzeichen. Wer sicher war, liegt oft falsch.</div>
   </section>
@@ -372,11 +373,11 @@
       <div class="card-title">So läuft das Pairing ab:</div>
       <p style="margin-bottom:8px;">1. Du siehst andere Spieler in der Liste. Tippe auf einen Namen, um ihn herauszufordern.</p>
       <p style="margin-bottom:8px;">2. Der Server entscheidet wer Host und wer Gast ist — läuft automatisch.</p>
-      <p style="margin-bottom:8px;">3. Eine Direktverbindung (WebRTC) wird aufgebaut — kein Server dazwischen.</p>
+      <p style="margin-bottom:8px;">3. Die App versucht eine direkte Peer-to-Peer-Verbindung (WebRTC). Klappt das nicht (z.&nbsp;B. Mobilnetz ↔ WLAN), wird automatisch ein Server-Relay als Fallback genutzt — du merkst davon nichts.</p>
       <p>4. Das Spiel startet mit einer kurzen Vorschau des Gegners.</p>
     </div>
 
-    <div class="note"><strong>Warteraum-Tipp:</strong> Wenn nach 14 Sekunden kein Gegner da ist, startet das Spiel automatisch gegen den virtuellen Gegner.</div>
+    <div class="note"><strong>Warteraum-Tipp:</strong> Wenn nach 120 Sekunden kein Gegner da ist, startet das Spiel automatisch gegen den virtuellen Gegner.</div>
 
     <h3>Wechselspiel im echten Duell</h3>
     <p>Auch im echten Duell gilt das Wechselprinzip: Host wählt Runde 1 und 3, Gast wählt Runde 2 und 4. Der jeweils wartende Spieler sieht einen Hinweis und die Kategoriewahl ist gesperrt. Nach 5 Sekunden geht es automatisch weiter.</p>
@@ -469,12 +470,13 @@
     </div>
     <div class="card">
       <div class="card-title">Verbindung zum Duell-Gegner bricht ab</div>
-      <p>Kritische Nachrichten (Kategoriewahl, Spielergebnis) werden mit Bestätigung übertragen und bei Ausbleiben automatisch wiederholt. Antwortet der Gegner längere Zeit nicht auf eine Kategoriewahl, wählt die App nach 30 Sekunden automatisch eine zufällige Kategorie und das Spiel läuft weiter.</p>
+      <p>Die App versucht zunächst eine direkte WebRTC-Verbindung. Schlägt diese fehl oder werden Pings nicht beantwortet, schaltet sie automatisch auf einen Server-Relay-Kanal um — ohne dass das Spiel unterbrochen wird.</p>
+      <p style="margin-top:8px;">Kritische Nachrichten (Kategoriewahl, Spielergebnis) werden mit Bestätigung übertragen und bei Ausbleiben automatisch wiederholt. Antwortet der Gegner längere Zeit nicht auf eine Kategoriewahl, wählt die App nach 30 Sekunden automatisch eine zufällige Kategorie und das Spiel läuft weiter.</p>
     </div>
   </section>
 
   <div style="text-align:center; color: var(--muted); font-size: 0.8rem; padding-top: 32px; border-top: 1px solid var(--border);">
-    QuizAway Prototyp v4 · Stand März 2026
+    QuizAway Prototyp v5 · Stand März 2026
   </div>
 
 </div>
