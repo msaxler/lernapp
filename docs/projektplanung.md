@@ -339,18 +339,18 @@ FSRS-Scheduling korrekt · Export/Import funktioniert
 
 ---
 
-### Phase 3 — Player-Ausbau (für Biologie Sek1)
+### Phase 3 — Player-Ausbau (für Informatik Sek I)
 
 *Die folgenden Player decken die Wissenstypen Strukturwissen und Prozesswissen ab —
-die Vorbereitung für das Biologie-Deck. Alle teilen dieselbe FSRS-Infrastruktur.*
+die Vorbereitung für das Informatik-Deck. Alle teilen dieselbe FSRS-Infrastruktur.*
 
 #### LA-9 — Beschriftungs-Player
 
 **Voraussetzungen** LA-3
 **Output** SVG-Bild mit nummerierten Pfeilen — Lernender tippt Bezeichnungen ein ·
-häufigster Aufgabentyp in Biologie-Schulbüchern
-**Technologie** React, SVG-Overlay, Wikimedia Commons Bilder
-**Testkriterium** Zellbild mit 5 Organellen korrekt beschriftet ·
+typischer Aufgabentyp für Hardware-Diagramme, Netzwerktopologien, UML
+**Technologie** React, SVG-Overlay
+**Testkriterium** Computerhardware-Diagramm mit 5 Komponenten korrekt beschriftet ·
 Tipp-Toleranz (Groß/Kleinschreibung, Leerzeichen) · FSRS-Integration
 
 #### LA-10 — Zuordnungs-Player
@@ -359,7 +359,7 @@ Tipp-Toleranz (Groß/Kleinschreibung, Leerzeichen) · FSRS-Integration
 **Output** Drag-and-Drop Zuordnung — zwei Spalten verbinden ·
 fühlt sich an wie Sammelkartenspiel
 **Technologie** React DnD, Touch-Events (Pointer Events API)
-**Testkriterium** 5 Tier-Lebensraum-Paare korrekt zuordnen auf Touch-Screen ·
+**Testkriterium** 5 Datentyp-Beispiel-Paare korrekt zuordnen auf Touch-Screen ·
 FSRS-Integration
 
 #### LA-11 — Lückentext- und Sortier-Player
@@ -367,28 +367,40 @@ FSRS-Integration
 **Voraussetzungen** LA-3
 **Output** Lückentext (Dropdown + Freitext) + Sortieraufgabe für Abläufe
 **Technologie** React, TypeScript
-**Testkriterium** Fotosynthese-Lückentext spielbar · Nahrungskette sortierbar ·
+**Testkriterium** Algorithmus-Lückentext (z.B. Bubblesort) spielbar · Sortierschritte sortierbar ·
 FSRS-Integration
 
 ---
 
-### Phase 4 — Biologie Sek1
+### Phase 4 — Informatik Sek I
 
-#### LA-12 — Wikidata-Pipeline
+#### LA-12 — Informatik-Inhaltspipeline
 
 **Voraussetzungen** LA-3
-**Output** Automatisierte Abfrage Wikidata → JSON-Decks (Arten, Anatomie, Ökosysteme),
-Bilder von Wikimedia Commons
-**Technologie** Python, Wikidata SPARQL API, Wikimedia Commons
-**Testkriterium** 500 Biologie-Karten automatisch generiert · Bilder verknüpft ·
-Lehrplan Klasse 5–6 als Kurationsraster angewendet
+**Output** Kuratierte JSON-Decks aus Lehrplan RLP + OER-Quellen,
+strukturiert nach den vier Themenbereichen des Lehrplans
+**Technologie** Python, ggf. APIs von Code.org / CS Unplugged
+**Quellen:**
+- Lehrplan RLP Gymnasium Informatik Sek I (Kompetenzen + Inhalte pro Jahrgang)
+- OER-Plattformen: CS Unplugged (Algorithmen/Codierung), Open Roberta (Programmierung), Code.org
+- Python/JavaScript-Ökosystem: Tutorials, Übungsaufgaben, Beispiele
+**Themenbereiche (Lehrplan RLP):**
+- Algorithmen & Programmierung
+- Daten & Codierung
+- Informatiksysteme (Hardware, Netzwerke)
+- Informatik, Mensch & Gesellschaft
+**Hinweis** Weniger fertige Aufgabendatenbanken als in Mathe/Bio — dafür mehr Freiheit
+bei didaktischer Aufbereitung. Engpass ist Kuration, nicht Material.
+**Testkriterium** 200 Informatik-Karten generiert · Lehrplan Klasse 7–8 als Raster angewendet ·
+alle vier Themenbereiche abgedeckt
 
-#### LA-13 — Biologie Sek1 Deck
+#### LA-13 — Informatik Sek I Deck
 
 **Voraussetzungen** LA-9 + LA-10 + LA-11 + LA-12
-**Output** Vollständig kuratiertes Deck Biologie Klasse 5–6 — alle Player-Typen genutzt ·
-Lehrplan-konform
-**Testkriterium** Kapitel Zellaufbau komplett durcharbeitbar ·
+**Output** Vollständig kuratiertes Deck Informatik Klasse 7–8 — alle Player-Typen genutzt ·
+Lehrplan-konform RLP
+**Startmodul (Pareto):** "Algorithmen verstehen" — Sortierverfahren, Pseudocode, Struktogramme
+**Testkriterium** Modul Algorithmen komplett durcharbeitbar ·
 FSRS plant Wiederholungen · Export/Import funktioniert
 
 ---
@@ -400,7 +412,7 @@ FSRS plant Wiederholungen · Export/Import funktioniert
 **Voraussetzungen** LA-3 + LA-4
 **Output** Zwei Lernende treten gegeneinander an — technisch aus QuizAway übernommen,
 thematisch an den Lerninhalt des aktuellen Decks gebunden (nicht Geo-Quiz sondern
-Biologie/Chemie/Geschichte)
+Informatik/Mathematik/Geschichte)
 **Enthält:**
 - Warteraum-Matchmaking (CAS-Modell aus QuizAway)
 - 5 Runden, Wahlrecht wechselt nach Rundenergebnis
@@ -601,7 +613,7 @@ Parallel startbar nach LA-3: LA-9, LA-10, LA-11, LA-12
 | LA-4 neu: Fortschritts-Screen | DOK-3 C.6 Ebene 1+2 — fehlte komplett |
 | LA-5 → LA-6+7+8: Chorübung aufgeteilt | DOK-3 C.8 — 3-Phasen-Zyklus, Performance-Player eigenständig |
 | LA-6+7+8 alt → LA-9+10+11: Player-Ausbau | Umbenannt, inhaltlich gleich |
-| LA-9+10 alt → LA-12+13: Bio Sek1 | Umbenannt, inhaltlich gleich |
+| LA-9+10 alt → LA-12+13: Informatik Sek I | Umbenannt + Fach gewechselt (Bio → Informatik) |
 | LA-11 alt → LA-16: Launch | Umbenannt |
 | LA-12 alt → LA-17: Zahlung | Umbenannt |
 | LA-14 neu: Duell-Modus Lern-App | DOK-3 C.6 Ebene 3 — fehlte komplett |
@@ -644,11 +656,31 @@ Der ursprünglich geplante 4-Schritt-Migrationspfad (DOK-3 B.6 alt) wird ersetzt
 
 **Wann:** Nach LA-8 (Choir Trainer vollständig stabil und abgenommen) — dann ist der Stack erprobt und QuizAway kann als LA-X (noch nicht nummeriert) eingeplant werden.
 
+### Fachentscheidung: Informatik statt Biologie
+
+*Entscheidung April 2026*
+
+Das erste Schulfach-Deck wird Informatik (nicht Biologie). Gründe:
+
+- **Kompetenz**: Inhaltskuration erfordert Urteilsvermögen — in Informatik vorhanden, in Biologie nicht
+- **Technischer Vorteil**: Informatik erlaubt später einzigartige Player-Typen: Code live ausführen,
+  Algorithmen animieren, Debugging als Lernform — das kann kein anderes Fach so
+- **Lehrplan**: RLP Informatik Sek I klar in 4 Bereiche gegliedert (Algorithmen & Programmierung,
+  Daten & Codierung, Informatiksysteme, Informatik Mensch & Gesellschaft) — ideal für Lernpfade
+- **Material**: Ausreichend vorhanden. Lehrplan + OER (CS Unplugged, Open Roberta, Code.org) +
+  Python/JS-Ökosystem. Engpass ist Kuration, nicht Materialmangel.
+
+**Startmodul (Pareto):** "Algorithmen verstehen" — Sortierschritte visualisieren + Sortier-Player
+(LA-11). Sofort demonstrierbar, visuell überzeugend, Lehrplan-konform.
+
+**Hinweis:** Weniger klassische Einzelaufgaben als in Mathe/Bio — mehr Projekte und Problemlösen.
+Didaktische Aufbereitung liegt stärker beim Entwickler. Das ist Chance und Aufwand zugleich.
+
 ### Neue Prioritätsreihenfolge
 
 1. Xalento Fundament (LA-1–LA-3) — läuft
-2. Chorübung (LA-6–LA-8) — erster echter Anwendungsfall
-3. BioLearn RLP (LA-9–LA-13 + LA-15) — erste öffentliche Priorität, erster Schulmarkt-Auftritt
+2. Chorübung (LA-6–LA-8 + LA-18–LA-21) — erster echter Anwendungsfall
+3. InforLearn RLP (LA-9–LA-13 + LA-15) — erste öffentliche Priorität, erster Schulmarkt-Auftritt
 4. Kooperation Universität Koblenz (Informatik-Didaktik + Institut für Pädagogik) — nach LA-15, mit laufender App und echten Nutzungsdaten
 5. StimmBild — Wiederaufnahme mit akademischer Rückendeckung, ohne Wahltermin-Druck
 
@@ -657,7 +689,7 @@ Der ursprünglich geplante 4-Schritt-Migrationspfad (DOK-3 B.6 alt) wird ersetzt
 Zieltermin: nach Fertigstellung LA-13 + LA-15, voraussichtlich 2027.
 
 Was bis dahin vorzubereiten ist:
-- Laufende BioLearn-App mit echten Schülerinhalten, lehrplankonform RLP Klasse 5–6
+- Laufende InforLearn-App mit echten Schülerinhalten, lehrplankonform RLP Informatik Klasse 7–8
 - Klassen-Dashboard (LA-15) mit Inhalts-Heatmap — das ist der Differenziator gegenüber Quizlet & Co.
 - FSRS-Nutzungsdaten aus SingOn-Chor als erster Beleg für Lernwirksamkeit
 
