@@ -29,7 +29,7 @@ Details zu AP1–AP13 siehe DOK-2 v17 (`docs/quellen/dok2_projektplanung_v17.doc
 
 ---
 
-## 2. Xalento-Arbeitspakete (LA-1–LA-21b)
+## 2. Xalento-Arbeitspakete (LA-1–LA-22)
 
 Xalento ist die generalisierte Lernplattform auf Basis der QuizAway-Erkenntnisse.
 Stack: React 18 · TypeScript 5 · Vite 5 · Dexie.js (IndexedDB) · FSRS-5
@@ -559,6 +559,46 @@ Override im Modal funktioniert · Gesamtfortschritt stimmt rechnerisch
 
 ---
 
+#### LA-22 — Professionelle Projektstruktur
+
+**Voraussetzungen** LA-21 (Choir Trainer vollständig abgeschlossen)
+**Aufwand** ~5–7 Tage · Risiko: NIEDRIG
+**Warum jetzt** Vor LA-16 (Launch) muss das Projekt professionell aufgestellt sein —
+Testabdeckung, CI/CD, Backup und Dokumentation sind Launch-Voraussetzungen.
+
+**Verzeichnisstruktur**
+- Monorepo-Konventionen konsolidieren (`apps/`, `packages/`, `tools/`, `docs/`)
+- Trennung von `src/`, `tests/`, `fixtures/`, `mocks/` in allen Paketen
+- Aufräumen: lose Dateien im Root entfernen (Setup-Skripte, alte .html-Dateien etc.)
+
+**Build & CI/CD**
+- `Makefile` ausbauen: `make ci` als vollständiger Pipeline-Lauf
+- GitHub Actions: automatisch test + build + Netlify-Deploy bei Push auf `main`
+- Versionierung: semver + `CHANGELOG.md`
+
+**Tests & Testsuite**
+- Teststruktur: Unit (FSRS-Engine, musicxml-Parser) · Integration (Dexie-Operationen) · E2E (Playwright)
+- Testfälle für alle kritischen Pfade dokumentieren
+- Coverage-Report (Ziel: >80% für Engine-Code)
+- `make test` läuft vollständige Suite inkl. Coverage
+
+**Backup**
+- Dexie-Export/Import vollständig (lokale Nutzerdaten sichern)
+- Git-Branching-Strategie: `main` (stabil) · `develop` (aktiv) · `feature/*`
+- Backup-Dokumentation für Nutzer (PWA-Daten sind lokal — was passiert bei Gerätewechsel?)
+
+**Dokumentation**
+- ADR-Verzeichnis ausbauen (bereits begonnen in `docs/konzepte/`)
+- JSDoc → TypeDoc für öffentliche APIs
+- `CONTRIBUTING.md` — Onboarding für neue Entwickler
+- `CLAUDE.md` aktuell halten (KI-Kontext)
+
+**Testkriterium** `make ci` läuft grün (lint + typecheck + tests + build) ·
+GitHub Actions deployt automatisch · Coverage-Report erzeugt ·
+Neuer Entwickler kann Projekt in <30 min aufsetzen
+
+---
+
 ## 3. Offen / Zurückgestellt
 
 Diese Features sind in DOK-3 beschrieben aber bewusst noch keinem LA zugeordnet
@@ -587,7 +627,7 @@ LA-1 → LA-2 → LA-3 → LA-4
                   ↓       ↓
                  LA-5    LA-14
                   ↓
-              LA-6 → LA-7 → LA-8 → LA-18 → LA-19 → LA-20 → LA-21 → LA-16 → LA-17
+              LA-6 → LA-7 → LA-8 → LA-18 → LA-19 → LA-20 → LA-21 → LA-22 → LA-16 → LA-17
                                       ↓               ↓
                                     LA-18b           LA-19b
                   ↓
@@ -620,6 +660,7 @@ Parallel startbar nach LA-3: LA-9, LA-10, LA-11, LA-12
 | LA-15 neu: Klassen-Dashboard | DOK-3 C.6 Ebene 4 — fehlte komplett |
 | LA-1 + LA-2: Status → abgeschlossen | Fertiggestellt März 2026 |
 | LA-18–LA-21 neu: Choir Trainer Übungsabschnitte | Konzept April 2026 — Pareto-V1 + V2-Pakete |
+| LA-22 neu: Professionelle Projektstruktur | April 2026 — vor Launch, nach Choir Trainer |
 | Offene-Punkte-Tabelle | DOK-3 Offene Punkte strukturiert |
 | LA-4: Willkommen-zurück-Nachricht | ADR April 2026 — Pausen kommunizieren statt bestrafen |
 | LA-15: Inhalts-Heatmap | ADR April 2026 — Inhalt statt Aktivität im Dashboard |
