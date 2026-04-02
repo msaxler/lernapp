@@ -681,7 +681,7 @@ Duolingo bestraft den Nutzer wenn er einen Tag aussetzt. Das erzeugt Stress und 
 •  Optionaler Hinweis: Du hast heute noch 8 Karten faellig — als Information, nicht als Pflicht
 
 Ebene 3 — Duell-Modus
-Zwei Lernende treten gegeneinander an — technisch aus QuizAway uebernommen, thematisch an den Lerninhalt gebunden. Nicht Geografie-Quiz sondern Biologie-Fragen, Chemie-Fragen, Geschichte. Der Wettbewerb ist sinnvoll weil er direkt am Lerninhalt haengt.
+Zwei Lernende treten gegeneinander an — technisch aus QuizAway uebernommen, thematisch an den Lerninhalt gebunden. Nicht Geografie-Quiz sondern Informatik-Fragen, Mathematik-Fragen, Geschichte. Der Wettbewerb ist sinnvoll weil er direkt am Lerninhalt haengt.
 •  Warteraum-Matchmaking: Spieler sehen sich und waehlen ihren Gegner
 •  5 Runden, Wahlrecht wechselt nach Rundenergebnis
 •  Ergebnis zeigt Punkte und welche Karten beide beherrschen
@@ -732,7 +732,7 @@ Metaanalyse Bai et al. (2020), 3.202 Schuelerinnen: signifikanter positiver Effe
 
 Redakteure und Lehrkräfte können PDFs, Lehrpläne oder Textdokumente hochladen. Die Anthropic-API extrahiert daraus Karteikarten, MC-Fragen und Lückentext-Aufgaben. Alle generierten Inhalte durchlaufen die kuratierte Redaktions-Pipeline (digitale Signatur) bevor sie in den P2P-Pool eingehen. Kein Nutzer erhält unkuratierte KI-Inhalte.
 
-**Warum Pareto-kompatibel:** Für BioLearn könnten Lehrkräfte Lehrplankapitel als PDF einreichen, für den Chor-Coach Probennotizen — sofort Karten, kein manueller Aufwand. Technisch kein neuer Stack: Anthropic-API wird bereits genutzt.
+**Warum Pareto-kompatibel:** Für InforLearn könnten Lehrkräfte Lehrplankapitel als PDF einreichen, für den Chor-Coach Probennotizen — sofort Karten, kein manueller Aufwand. Technisch kein neuer Stack: Anthropic-API wird bereits genutzt.
 
 **Voraussetzungen:** Redaktions-Pipeline aktiv (nach LA-13) · Anthropic-API-Anbindung · Kurationsprozess definiert
 
@@ -761,61 +761,68 @@ Nochmal / Fast / Gut / Perfekt wählen
 MusicXML-Rendering
 MusicXML wird direkt auf dem Smartphone gerendert via OSMD (OpenSheetMusicDisplay, Version 1.9.6, Stand März 2025). Kein Server-Rendering, keine Vorab-Konvertierung. Da MusicXML live gerendert wird, entstehen keine Klangverzerrungen beim Tempowechsel — kein Chipmunk-Effekt wie bei MP3-Streckung.
 
-### C.9  Strategisches Ziel-Fach: Biologie Sekundarstufe 1
-Die Chorübung (C.8) ist der erste Anwendungsfall wegen persönlicher Expertise und überschaubarem Umfang. Als strategisches Ziel-Fach für die Skalierungsphase ist jedoch Biologie Sekundarstufe 1 vorgesehen. Diese Entscheidung ist inhaltlicher Natur — die Plattform-Architektur bleibt identisch.
-Warum Biologie Sek1?
+### C.9  Strategisches Ziel-Fach: Informatik Sekundarstufe I
+Die Chorübung (C.8) ist der erste Anwendungsfall wegen persönlicher Expertise und überschaubarem Umfang. Als strategisches Ziel-Fach für die Skalierungsphase ist Informatik Sekundarstufe I vorgesehen. Diese Entscheidung ist inhaltlicher Natur — die Plattform-Architektur bleibt identisch.
+
+Warum Informatik Sek I?
 Kriterium
 Begründung
 
-Offene Datenbasis
-Wikidata (Arten, Ökosysteme, Anatomie), Serlo.org (CC-BY-SA), Wikimedia Commons (Bilder) — alles frei lizenziert und automatisiert abrufbar
+Persönliche Fachkompetenz
+Inhaltskuration erfordert Urteilsvermögen — ob eine Aufgabe gut ist, ob Schwierigkeit stimmt, ob Formulierung passt. Diese Kompetenz ist in Informatik vorhanden.
 
 Lehrplan als Kurationsraster
-Öffentliche Lehrpläne (gemeinfrei) definieren klar welche ~50–100 Fakten pro Klassenstufe prüfungsrelevant sind — kein Raten welche Inhalte wichtig sind
+RLP Informatik Gymnasium Sek I klar gegliedert in 4 Bereiche: Algorithmen & Programmierung, Daten & Codierung, Informatiksysteme, Informatik Mensch & Gesellschaft. Ideal für Lernpfad-Modellierung.
+
+Offene Materialbasis
+Lehrplan (gemeinfrei) + OER-Plattformen: CS Unplugged (Algorithmen/Codierung ohne Computer), Open Roberta (visuelle Programmierung), Code.org (interaktive Einheiten) + Python/JavaScript-Ökosystem mit unerschöpflichen Übungsaufgaben. Engpass ist Kuration, nicht Materialmangel.
+
+Technologischer Differenziator
+Informatik erlaubt Player-Typen die kein anderes Schulfach so kann: Code live im Browser ausführen, Algorithmen Schritt für Schritt animieren, Debugging als Lernform, Netzwerksimulationen. Das ist ein echter Wettbewerbsvorteil gegenüber Quizlet & Co.
 
 Zielgruppe mit Lernbedarf
-Klassen 5–10 haben messbaren Lernbedarf (Schulabschluss), Eltern zahlen für Lernhilfe, Markt ist groß und wenig durch offene Angebote abgedeckt
+Klassen 7–10 Gymnasium, wachsende Pflichtfachstellung von Informatik in allen Bundesländern, Eltern zahlen für MINT-Förderung, Markt wenig durch qualitativ hochwertige offene Angebote abgedeckt.
 
-Motivationsvorteil
-Biologie ist von Natur aus visuell, lebendig und emotional ansprechend — intrinsische Faszination ohne künstliche Gamification-Krücken
+Warum Informatik einen besonderen Lernreiz hat
+Informatik hat einen Vorteil den andere Fächer nicht haben: unmittelbares Feedback. Ein Algorithmus läuft oder er läuft nicht. Code funktioniert oder er gibt einen Fehler aus. Diese Direktheit erzeugt intrinsische Motivation — kein Warten auf die nächste Klassenarbeit. Debugging ist von sich aus fesselnd: "Was ist falsch? Warum?" Das ist Problemlösen in Reinform.
 
-Warum Biologie besonders viel Spaß macht
-Mathematik ist abstrakt — Spaß muss erst konstruiert werden. Geographie ist interessant aber statisch. Biologie dagegen hat intrinsische Faszination: es geht um Lebewesen, um den eigenen Körper, um Tiere die man kennt und liebt. Ein Kind das lernt wie das Herz funktioniert lernt gleichzeitig etwas über sich selbst. Das ist motivational ein qualitativer Unterschied zu fast allen anderen Schulfächern.
-Dazu hat Biologie auf jeder Klassenstufe emotionale Anker: Grundschule — Schmetterlingskreislauf, Jahreszeiten, Haustiere. Sek1 — eigener Körper, Ökosysteme, Evolution. Das sind Themen die Kinder von sich aus interessieren. Die App muss dieses Interesse nur aufgreifen, nicht erst erzeugen.
-Player-Typen für Biologie Sek1
-Biologie Sek1 hat drei Wissenstypen die unterschiedliche Player-Formate fordern. Der Quiz-Player der bereits existiert deckt Typ 1 ab. Für Typ 2 und 3 werden neue Player-Typen benötigt:
+Dazu ist Informatik heute allgegenwärtig. Schüler benutzen täglich Algorithmen, Datenstrukturen und Netzwerke — ohne es zu wissen. Wenn die App diesen Zusammenhang sichtbar macht ("Das Navi benutzt denselben Algorithmus den du gerade gelernt hast"), entsteht ein Aha-Moment der anderen Fächern fehlt.
+
+Player-Typen für Informatik Sek I
+Informatik Sek I hat drei Wissenstypen die unterschiedliche Player-Formate fordern. Der Quiz-Player der bereits existiert deckt Typ 1 ab. Für Typ 2 und 3 werden neue Player-Typen benötigt:
 Player
 Wissenstyp
 Beispiel
-Spaß-Faktor
+Besonderheit
 
 Quiz-Player ✓
 Faktenwissen
-Welches Organ produziert Insulin?
-Tierfotos, Makroaufnahmen — wirkt wie Sammelkarten
+Was ist der Unterschied zwischen RAM und ROM?
+Schnelles Abrufen von Begriffen und Konzepten
 
 Beschriftungs-Player
 Strukturwissen
-Bild einer Zelle — nummerierte Pfeile beschriften
-Frosch-Skelett, Haifisch-Gebiss — visuell fesselnd
+Netzwerktopologie beschriften — Router, Switch, Client
+Hardwarediagramme, OSI-Schichten, UML — Kernaufgabentyp
 
 Zuordnungs-Player
 Strukturwissen
-Tier → Lebensraum zuordnen (Drag & Drop)
-Fühlt sich an wie ein Sammelkartenspiel
+Datentyp → Beispielwert zuordnen (Drag & Drop)
+Fühlt sich an wie Sammelkartenspiel
 
 Lückentext-Player
 Prozesswissen
-Bei der Fotosynthese wird ___ in ___ umgewandelt
-Rätsel-Charakter, niedrige Einstiegshürde
+Beim Bubblesort wird in jedem Durchlauf ___ verglichen
+Rätsel-Charakter, Algorithmen als Lückentext
 
 Sortierspiel-Player
 Prozesswissen
-Nahrungskette in richtige Reihenfolge bringen
-Narrative Qualität — Gras → Hase → Fuchs
+Sortierschritte eines Algorithmus in richtige Reihenfolge
+Direkt visualisierbar — Kernstärke von Informatik
 
-Der Beschriftungs-Player ist dabei der wertvollste Neuzugang — er deckt den häufigsten Aufgabentyp in Biologie-Schulbüchern ab und existiert in dieser Form kaum als offene Lösung. SVG-Bilder aus Wikimedia Commons liefern die Datenbasis. Langfristig ist auch ein Kamera-Player denkbar: Pflanze fotografieren, bestimmen, einordnen — Biologie als Entdeckungsspiel in der realen Welt.
-Strategische Einordnung: Chorübung ist Phase-1-Pilot wegen persönlicher Expertise. Biologie Sek1 ist das strategische Ziel-Fach für die Skalierungsphase — wegen offener Datenbasis, lehrplankonformem Kurationsraster, größerer Zielgruppe, und einem einzigartigen Motivationsvorteil den kein anderes Schulfach in dieser Kombination bietet.
+Der Sortierspiel-Player ist dabei der wertvollste Neuzugang für Informatik — Algorithmen als sortierbare Schritte sind intuitiv, visuell überzeugend und direkt lehrplankonform. Startmodul: "Algorithmen verstehen" mit Bubblesort und Selectionsort. Langfristig sind interaktive Code-Player denkbar: Pseudocode vervollständigen, Laufzeitfehler finden, einfache Programme debuggen — Informatik als aktives Tun statt passives Lesen.
+
+Strategische Einordnung: Chorübung ist Phase-1-Pilot wegen persönlicher Expertise. Informatik Sek I ist das strategische Ziel-Fach für die Skalierungsphase — wegen Fachkompetenz des Entwicklers, technologischem Differenziator (interaktive Player), wachsender Pflichtfachstellung, und einem direkten Feedback-Vorteil den kein anderes Schulfach in dieser Form bietet.
 Die Plattform-Architektur bleibt identisch — der Fachwechsel ist eine inhaltliche Entscheidung, kein Umbau.
 
 ### C.10  Technologie-Entscheidungen
