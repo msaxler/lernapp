@@ -1,6 +1,36 @@
 # QuizAway v5 — Entwicklungsumgebung & Architektur
 
-*Stand: März 2026 · QuizAway v5 abgeschlossen · Xalento LA-1/LA-2 abgeschlossen*
+*Stand: April 2026 · QuizAway v5 abgeschlossen · Xalento LA-1/LA-8 in Entwicklung*
+
+---
+
+## ADR — QuizAway Neubau auf Xalento-Stack (April 2026)
+
+**Entscheidung:** QuizAway wird nicht schrittweise migriert, sondern als Neubau auf dem Xalento-Stack (React + TypeScript + Vite + Dexie.js + PWA) neu implementiert.
+
+**Auslöser:** Vergleich Choir Trainer (LA-6–LA-8) vs. QuizAway v5 im Betrieb.
+
+Der Choir Trainer ist vollständig stabil weil er nach dem ersten Laden keine Netzwerkabhängigkeiten mehr hat. QuizAway v5 ist instabil weil es in allen Modi einen Always-On-Server voraussetzt (Render Free Tier, OpenRelay, HTTP-Polling).
+
+**Analyse der Serverabhängigkeiten:**
+
+| Modus | Choir Trainer Analogie | Serverabhängigkeit |
+|---|---|---|
+| Sofa-Modus | MusicXML lokal → Fragenpools lokal | **keine** — 100 % offline |
+| Virtuelle Route | MusicXML lokal → Geo-Daten lokal | **keine** — 100 % offline |
+| Live-Modus | — | **keine** — gleiche Fragen, kein Sync nötig |
+| Duell-Modus | — | **zwei** — Signaling + TURN (unvermeidbar) |
+
+**Konsequenz:**
+- Fragenpools (geo.sqlite / JSON) → ins Bundle oder Service Worker Cache
+- Spielstand → Dexie.js (IndexedDB), lokal
+- Sofa, Route, Live: stabil wie Choir Trainer, kein Server
+- Duell: Always-On WebSocket (kein Render Free Tier) + eigener coturn oder bezahlter TURN-Dienst
+
+**Status der aktuellen Implementierung (v5):**
+QuizAway v5 (standalone HTML) bleibt produktiv und wird nicht abgeschaltet. Der Neubau erfolgt nach LA-8 als eigenständiges LA (noch nicht nummeriert). Bis dahin ist v5 der aktive Stand.
+
+---
 
 ---
 

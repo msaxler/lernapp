@@ -1,7 +1,7 @@
 # Projektplanung — QuizAway & Xalento
 
-*Version 3.0 · März 2026 · DOK-2 v18*
-*AP1–AP13 abgeschlossen · LA-1 + LA-2 abgeschlossen · vollständig mit DOK-3 v9 abgeglichen*
+*Version 3.3 · April 2026 · DOK-2 v21*
+*AP1–AP13 abgeschlossen · LA-1–LA-7 (Teil 1) abgeschlossen · vollständig mit DOK-3 v9 abgeglichen*
 
 ---
 
@@ -29,7 +29,7 @@ Details zu AP1–AP13 siehe DOK-2 v17 (`docs/quellen/dok2_projektplanung_v17.doc
 
 ---
 
-## 2. Xalento-Arbeitspakete (LA-1–LA-17)
+## 2. Xalento-Arbeitspakete (LA-1–LA-21b)
 
 Xalento ist die generalisierte Lernplattform auf Basis der QuizAway-Erkenntnisse.
 Stack: React 18 · TypeScript 5 · Vite 5 · Dexie.js (IndexedDB) · FSRS-5
@@ -92,6 +92,7 @@ Scheduling-Transparenz als primäre Motivation
 - Pro-Karte-Ansicht: *"Zellkern: seit 3 Wochen sicher — wieder in 12 Tagen"*
 - Lernkette (Ebene 2): *"Diese Karte kennst du seit 3 Wochen zuverlässig"* statt Streak-Zähler
 - Optionaler Hinweis: *"Du hast heute noch 5 Karten fällig"* — Information, kein Druck
+- **Willkommen-zurück-Nachricht:** Kehrt ein Nutzer nach > 7 Tagen zurück, zeigt Xalento aktiv: *„Du hast 2 Wochen pausiert — kein Problem. FSRS hat deine Karten nicht vergessen, nur neu geplant. Heute sind X Karten fällig."* Kein Schuldgefühl, keine verlorene Arbeit.
 **Gamification-Regel** Kein Pflicht-Streak · Kein Aussetzer-Bestrafung ·
 Fokus auf dauerhaftes Wissen, nicht tägliche Disziplin
 **Testkriterium** Deck-Dashboard zeigt korrekte Zahlen aus Dexie ·
@@ -110,45 +111,231 @@ Merge-Logik: neuerer FSRS-Stand gewinnt bei Konflikt
 ### Phase 2 — Chorübung (erster Anwendungsfall)
 
 *Chorübung gliedert sich nach DOK-3 C.8 in drei Phasen:
-A (Zuhören/Media-Player), B (Singen/Performance-Player), C (Bewertung).
-LA-6 und LA-7 bauen die beiden benötigten Player-Typen.*
+A (Zuhören/Media-Player), B (Singen/Performance-Player), C (Bewertung/Intonation).
+LA-6–LA-8 bauen alle drei Phasen auf gemeinsamer Architektur.*
 
-#### LA-6 — Chorübung Phase A: Media-Player
+#### Architektur-Leitprinzipien (gültig für LA-6–LA-8)
+
+Erkenntnisse aus Analyse bewährter Open-Source-Projekte (mei-friend) und
+konzeptioneller Auseinandersetzung mit dem Synchronisationsproblem:
+
+**1. Zeit als gemeinsame Referenz — nicht Pixel-Breite**
+Score-Scroll und Karaoke-Scroll teilen dieselbe Zeitbasis. Breiten-Matching
+zwischen SVG-Takten und Karaoke-Slots ist fragil. Stattdessen:
+```
+translateX = containerWidth/2 − currentTime × pxPerSec
+pxPerSec   = svgTotalWidth / totalDurationSec   (einmalig berechnet)
+```
+Score und Karaoke können unterschiedliche `pxPerSec`-Werte haben —
+wichtig für Mobile: Karaoke lesbar groß, Score kompakter.
+
+**2. Karaoke: aktive Silbe immer zentriert**
+Kein fester Slot-Breiten-Match. Stattdessen:
+```
+delta = containerCenter − (activeEl.getBoundingClientRect().center)
+lyricsWrapper.style.transform = translateX(delta + "px")
+```
+Aktives Wort bleibt stabil in der Mitte, Rest scrollt relativ. Optimal für
+Mobile (großer Font, kein Mitlesen im Vorbeifahren).
+
+**3. Note-Highlighting via Timemap (mei-friend Pattern)**
+`renderToTimemap()` → `{ tstamp, on[], off[] }` — alle Timestamps in ms
+bei Score-Tempo. Skalierung bei Tempo-Änderung: `delayMs = tstamp × (bpmRef/bpm)`.
+CSS: `.note-active use, .note-active path { fill: #D97706 !important }`.
+
+**4. SATB-Layout: volle Höhe, horizontaler Scroll**
+Verovio rendert alle Stimmen in ein einziges hohes SVG (Systeme untereinander).
+Score-Container: `overflow: hidden`, horizontaler Scroll. Kein vertikales Scrollen —
+alle Stimmen sind immer gleichzeitig sichtbar.
+
+**5. Stimm-Auswahl: Dimming der Nicht-Übungsstimme**
+```css
+g.staff { opacity: 0.25 }          /* alle dimmen */
+g.staff-N { opacity: 1.0 }         /* Übungsstimme N hervorheben */
+```
+Verovio-SVG enthält `g.staff-1`, `g.staff-2` etc. — direkt ansprechbar.
+
+**6. Phase-aware Intonation (für Performance-Player Phase C)**
+Tonphasen haben unterschiedliche Toleranzen — wie ein Chorleiter bewertet:
+```
+Attack  (erste 20% der Notendauer): ±40 Cent  — Einsatz darf unscharf sein
+Stable  (20–80 %):                  ±15 Cent  — Halteton wird gemessen
+Release (letzte 20 %):              ±50 Cent  — Ende egal
+```
+Score pro Syllable: `max(0, 1 − abs(cents) / tolerance)` (linear).
+
+**7. Vibrato-Analyse**
+Vibrato ist kein Fehler — muss herausgefiltert oder separat bewertet werden:
+- Stabilität: Pitch-Buffer über ~200 ms, stdDev < 5 Hz → stabil, sonst Vibrato
+- Rate: Zero-Crossing-Count / Dauer / 2 → Hz (Ziel: 4–7 Hz)
+- Breite: max − min in Cent (Ziel: 20–50 ¢)
+
+**8. Phrasen-Bewertung**
+Einzelsilben-Score ist musikalisch unvollständig. Phrasen-Score:
+```
+phraseScore = Σ(syllableScore × noteDuration) / Σ(noteDuration)
+```
+Phrasengrenzen: Pause > 500 ms oder MEI/MusicXML `<phrase>`-Markierung.
+
+**9. Pitch-Erkennung: Autocorrelation korrekt**
+Standard-Algorithmus sucht **minimale** Differenz (größte Ähnlichkeit):
+```typescript
+let best = Infinity
+for (let lag = 8; lag < 1000; lag++) {
+  const corr = sum |buffer[i] − buffer[i+lag]|
+  if (corr < best) { best = corr; bestLag = lag }
+}
+freq = sampleRate / bestLag
+```
+(Nicht Maximum — das wäre invertiert und liefert falsches Ergebnis.)
+
+#### LA-6 — Chorübung Phase A: Media-Player ✅ abgeschlossen
 
 **Voraussetzungen** LA-3
-**Output** Media-Player-Komponente (60/40-Layout) — MusicXML-Rendering via OSMD,
-MP3-Wiedergabe, Tempo-Kontrolle 50–150 %, Score und Text laufen mit
-**Technologie** OSMD 1.9.6, Tone.js, WaveSurfer.js
-**Deck** SingOn-Chor Bass 2 — erste 5 Sequenzen spielbar
+**Output** Media-Player-Komponente (60/40-Layout) — MusicXML-Rendering via Verovio SVG,
+Ton-Synthese via Tone.js PolySynth, Tempo-Kontrolle 50–150 %, Liedtext-Panel mit
+Takt-Synchronisation, FSRS-Bewertung nach dem Abspielen
+**Architektur (endgültig nach Umbau von OSMD + Web Audio API):**
+- `useVerovio(musicXml)` → SVG lazy (Verovio WASM ~7.5 MB, eigener Auto-Chunk)
+- `useMediaPlayer(notes, bpmRef)` → Tone.js `PolySynth` + `Transport.schedule()`
+- `parseMusicXml(xml)` liefert `ParsedNote[]` — MusicXML-Parser unverändert korrekt
+- OSMD vollständig entfernt
+- Code-Splitting: `vendor-tone` (235 kB) + auto-chunk `verovio-module` (7.5 MB lazy)
+**Deck** SingOn-Chor Bass 2 — alle 5 Sequenzen spielbar, FSRS-Integration
 **Testkriterium** 5 Chorübungen abspielen · Tempo-Slider funktioniert ·
-MusicXML korrekt gerendert auf iOS und Android
+Verovio SVG korrekt gerendert · 77 Tests grün
 
-#### LA-7 — Chorübung Phase B+C: Performance-Player
+#### LA-7 — Cursor-Sync + Layout-Refinements + Lyrics
 
 **Voraussetzungen** LA-6
-**Output** Performance-Player — Mikrofon-Aufnahme, Selbsteinschätzung (Phase B),
-Pitch-Analyse optional (Phase C)
-**Phase B (sofort)** App spielt letzten N Takte als Anlauf, dann Aufnahme starten ·
-Bewertung per Selbsteinschätzung: *Nochmal / Fast / Gut / Perfekt*
-**Phase C (später)** Mikrofon-Analyse: Pitch-Messung via Web Audio API
-**Technologie** Web Audio API, Tone.js, MediaRecorder API
-**Testkriterium** Aufnahme startet nach Anlauf · Selbsteinschätzung speichert FSRS-Wert ·
-funktioniert auf iOS Safari (getUserMedia)
-**Technische Schulden aus LA-6 (hier erledigen):**
-- `Tone.Part` statt `Transport.schedule()` — LA-6 nutzt einzelne `schedule()`-Calls
-  wegen TypeScript-Typ-Mismatch bei `Tone.Part<T>`. In LA-7 sauber mit
-  `Tone.Part` lösen (entweder Typ-Cast oder Tone.js-Typen genau prüfen)
-- Lazy Loading für OSMD + Tone.js via `React.lazy()` + `import()` —
-  LA-6 lädt beide Bibliotheken (OSMD 1,2 MB, Tone 231 kB) in jedem Bundle.
-  In LA-7: dynamischer Import nur wenn Route `/chor` aufgerufen wird
+**Status** Teil 1 abgeschlossen ✅
 
-#### LA-8 — Chorübung Deck (vollständig)
+**Teil 1 — Note-Cursor-Sync ✅ abgeschlossen**
+- `useVerovio` liefert `timemap: TimemapEvent[]` aus `renderToTimemap()`
+- `useMediaPlayer` scheduliert alle `on`/`off`-Timeouts vor Playback-Start
+- CSS `.note-active use, .note-active path { fill: #D97706 !important }`
+- Scaling korrekt: `delayMs = tstamp × (bpmRef / bpm)` bei Tempo-Änderung
+- Pattern übernommen von mei-friend (MIT): `classList.add/remove` + Child-Propagation
 
-**Voraussetzungen** LA-6 + LA-7
-**Output** Vollständiges Deck SingOn-Chor Bass 2 — alle Stücke in Phase A und B spielbar ·
-FSRS plant Wiederholungen pro Sequenz
-**Testkriterium** Komplettes Stück durchspielen · FSRS scheduliert korrekt ·
-Export/Import des Deck-Fortschritts funktioniert
+**Teil 2 — Score-Scroll: Zeit als gemeinsame Referenz**
+Aktuell: Takt-Mittelpunkte aus DOM, `translateX = containerWidth/2 − measureCenter[idx]`
+→ Ziel: zeit-basiert, robuster bei variablen Taktbreiten:
+```typescript
+const pxPerSec    = svgTotalWidth / totalDurationSec
+const currentTime = offsetSec  // aus Tone.Transport oder setTimeout-Tracking
+setTranslateX(containerWidth / 2 − currentTime * pxPerSec)
+```
+Vorteil: Tempo-Änderungen wirken automatisch korrekt (kein Neuberechnen der Positionen).
+
+**Teil 3 — Karaoke-Panel: aktive Silbe zentrieren**
+Aktuell: feste Slot-Breiten + gleicher translateX wie Score
+→ Ziel: Mobile-optimiertes Pattern:
+```typescript
+const rect  = activeEl.getBoundingClientRect()
+const delta = containerCenter − (rect.left + rect.width / 2)
+setKaraokeTranslate(delta)
+```
+Aktive Silbe bleibt stabil in der Mitte, Rest scrollt relativ. Score und Karaoke
+teilen Zeitbasis aber können unterschiedliche `pxPerSec`-Werte haben.
+
+**Teil 4 — Lyrics in MusicXML einbetten**
+`<lyric>` in `<note>`-Elemente von `singon-bass2.ts` eintragen:
+```xml
+<lyric number="1">
+  <syllabic>single</syllabic>   <!-- begin | middle | end | single -->
+  <text>Und</text>
+</lyric>
+```
+Verovio rendert Lyrics automatisch unter Noten im SVG.
+`MediaContent.lyrics[]` bleibt erhalten — dient weiterhin dem Karaoke-Panel.
+
+**Technologie** Verovio Timemap, Tone.js Transport, CSS transitions
+**Testkriterium** Aktive Note leuchtet orange · Karaoke-Silbe zentriert ·
+Score scrollt zeit-basiert · Lyrics im SVG sichtbar
+
+---
+
+#### LA-8 — Performance-Player Phase B + C + Chorübung Deck
+
+**Voraussetzungen** LA-7
+
+**Teil 1 — Performance-Player Phase B: Singen**
+
+*Ablauf:* App spielt N Takte als Anlauf → Aufnahme startet automatisch →
+Sänger singt → Selbsteinschätzung → FSRS-Bewertung
+
+- N-Takt-Anlauf konfigurierbar (Standard: 1 Takt)
+- `MediaRecorder API` für Aufnahme, `getUserMedia` mit Fallback-Hinweis für iOS
+- Looping schwieriger Stellen: Taktbereich wählbar, automatische Wiederholung
+- Stimm-Auswahl für SATB:
+  - Dropdown: Sopran / Alt / Tenor / Bass
+  - Verovio SVG: `g.staff` via CSS opacity gedimmt, Übungsstimme hervorgehoben
+  - Karaoke-Panel zeigt nur Text der gewählten Stimme
+- Selbsteinschätzung: *Nochmal / Unsicher / Gut / Sicher* → FSRS-Rating
+- `Tone.Part` als saubere Ablösung der `Transport.schedule()`-Einzelaufrufe
+
+**Technologie** MediaRecorder API, getUserMedia (iOS Safari: requiresUserGesture),
+Tone.Part, CSS opacity für Stimm-Dimming
+**Testkriterium** Anlauf spielt korrekte Takte · Aufnahme startet/stoppt ·
+Stimm-Dimming sichtbar · Selbsteinschätzung speichert FSRS · iOS Safari getestet
+
+---
+
+**Teil 2 — Performance-Player Phase C: Intonation**
+
+*Pitch-Analyse im Browser via Web Audio API — kein Server, kein Upload*
+
+**Pitch-Erkennung**
+- Autocorrelation auf Float32-Buffer (korrekt: minimale Differenz → bestLag)
+- `freq = sampleRate / bestLag`
+- Stabilitäts-Filter: Pitch-Buffer über ~200 ms, `stdDev < 5 Hz` → stabiler Ton,
+  sonst Vibrato → nicht in Score einberechnen
+
+**Phase-aware Intonation**
+```
+Attack  (erste 20 % der Notendauer): ±40 ¢ Toleranz
+Stable  (20–80 %):                   ±15 ¢ Toleranz  ← streng
+Release (letzte 20 %):               ±50 ¢ Toleranz
+```
+Score: `max(0, 1 − |cents| / tolerance)` → 0.0–1.0 pro Frame
+
+**Vibrato-Analyse** (separater Kanal, kein Fehler)
+- Rate: Zero-Crossing-Count / Dauer / 2 → Hz (Ziel: 4–7 Hz)
+- Breite: `max(cents) − min(cents)` (Ziel: 20–50 ¢)
+- Feedback: „Vibrato zu breit (80 ¢)" / „Vibrato zu langsam (3 Hz)"
+
+**Phrasen-Bewertung**
+```
+phraseScore = Σ(syllableScore × noteDuration) / Σ(noteDuration)
+```
+Phrasengrenzen: Pause > 500 ms. Gewichtung macht lange Noten wichtiger als kurze.
+
+**Zielton aus MusicXML**
+`parseMusicXml()` liefert bereits `ParsedNote.pitch` (z. B. `"G3"`).
+MIDI-Frequenz: `440 × 2^((midi − 69) / 12)`.
+
+**UI — Intonations-Feedback**
+- Cents-Anzeige: `|diff| < 10 ¢` → grün · `< 25 ¢` → gelb · `> 25 ¢` → rot
+- Phrase-Score nach jeder Phrase: „85 % — gut"
+- Vibrato-Feedback als einmalige Meldung nach Phrase
+- Kein Punkte-Druck — Information, nicht Bewertung (Gamification-Prinzip)
+
+**Technologie** Web Audio API (AnalyserNode, Float32Array), Autocorrelation,
+React state für Echtzeit-Feedback
+**Testkriterium** Kammerton A4 wird als 440 Hz erkannt (±5 Hz) ·
+Bewusst falscher Ton > 50 ¢ wird rot markiert · Vibrato A4±30 ¢@6 Hz erkannt ·
+Phrasen-Score nach Silben korrekt gewichtet · iOS Safari getestet
+
+---
+
+**Teil 3 — Chorübung Deck vollständig**
+- SingOn-Chor Bass 2: alle Stücke in Phase A, B, C spielbar
+- MusicXML aller Sequenzen mit `<lyric>`-Elementen
+- FSRS scheduliert pro Sequenz und Phase unabhängig
+- Export/Import des Deck-Fortschritts funktioniert
+
+**Testkriterium** Komplettes Stück durcharbeitbar in allen drei Phasen ·
+FSRS-Scheduling korrekt · Export/Import funktioniert
 
 ---
 
@@ -241,6 +428,7 @@ automatisch · Duplikate werden erkannt · kein Spielabbruch beim Netzwechsel
 - *Schüler A: 8/10 Karten sicher · Schüler B: 4/10 Karten sicher*
 - *Heute fällig (Klasse): Ø 6 Karten*
 - *Letzte Aktivität pro Schüler — ohne Druck*
+- **Inhalts-Heatmap:** Welche Karten sitzen in der Klasse am schlechtesten? Ranking der 5 schwächsten Karten mit Beherrschungsquote (z. B. *„Zellkern: nur 3 von 18 Schülern sicher"*). Kein Schüler-Ranking, keine öffentlichen Vergleiche. — *Aufwand gering: FSRS-Daten liegen bereits in Dexie, nur neue Aggregations-Abfrage.*
 **Gamification-Regel** Kein Punkteranking · Kein öffentlicher Vergleich ·
 Fokus auf Beherrschung, nicht Wettbewerb
 **Technologie** Read-only Dashboard, kein eigenes Backend (Shared IndexedDB Export)
@@ -267,6 +455,98 @@ kein App-Store-Zwang solange möglich (30 % Provision vermeiden)
 
 ---
 
+#### LA-18 — Choir Trainer: Übungsabschnitte — Bottom Sheet & Infrastruktur (V1)
+
+**Voraussetzungen** LA-8 abgeschlossen
+**Aufwand** ~2 Tage · Risiko: NIEDRIG
+**Output** Fundament für LA-19–LA-21
+
+- Dexie-Schema: neue Tabellen `practiceSections`, `pieceSectionMeta`
+- Toggle-Panel (kein Drag) — Button öffnet/schließt Panel vollständig
+- Ein Panel (keine Snap-Points): Controls oben, Abschnittsliste unten, scrollbar
+- Persistent Bar: Play/Pause · Abschnitts-Dot · Toggle-Button · Übestimme-Lautstärke
+- Bestehende Player-Controls (Tempo, Metronom, Lautstärke, Navigation) ins Panel migrieren
+
+**Testkriterium** Panel öffnet/schließt stabil auf iOS + Android · Dexie-Tabellen angelegt
+
+---
+
+#### LA-18b — Choir Trainer: Bottom Sheet Drag & Snap-Points (V2)
+
+**Voraussetzungen** LA-18 + LA-21 (Grundfunktion stabil im Einsatz)
+**Aufwand** ~2 Tage · Risiko: MITTEL
+**Output** Komfortverbesserung: echtes Drag-Gesture-System mit 2 Snap-Points
+
+- Snap 1 (~35%): Controls · Snap 2 (~70%): Controls + Abschnittsliste
+- Touch-Drag zum Öffnen/Schließen (Pointer Events API)
+
+**Testkriterium** Drag + Snap funktioniert auf iOS + Android ohne Ghost-Touches
+
+---
+
+#### LA-19 — Choir Trainer: Abschnittsdefinition & Score-Visualisierung (V1)
+
+**Voraussetzungen** LA-18
+**Aufwand** ~2–3 Tage · Risiko: NIEDRIG
+**Output** Nutzer können Abschnitte definieren und im Score sehen
+
+- Abschnittsdefinition per Taktnummer-Eingabe: "Von Takt [ ] bis Takt [ ]"
+- Score-Visualisierung: taktgenaue Farbblöcke (ganze Takte eingefärbt, kein note-präzises Overlay)
+- Abschnittsliste im Panel: Farb-Dot · Name (automatisch) · Taktbereich · Löschen
+- Max. 7 Abschnitte pro Stimme pro Stück
+- Farben: Xalento-Palette rotierend (7 Farben, s. Konzept)
+- "+ Neuer Abschnitt" Button · Löschen per Long-Press in der Liste
+
+**Testkriterium** Abschnitt anlegen, sehen, löschen funktioniert · Taktblöcke korrekt eingefärbt
+
+---
+
+#### LA-19b — Choir Trainer: Note-präzise Abschnittsdefinition (V2)
+
+**Voraussetzungen** LA-19 + LA-21 (Grundfunktion stabil im Einsatz)
+**Aufwand** ~3 Tage · Risiko: HOCH
+**Output** Komfortverbesserung: Abschnitt per Long-Press direkt im Score definieren
+
+- Edit-Modus: Long-Press Startnote (grün markiert) → scrollen → Endnote antippen → speichern
+- Note-präzise Farbstreifen (4px) statt taktgenaue Blöcke
+- Abbruch: erneuter Long-Press / Abbrechen-Button
+
+**Testkriterium** Note-präzise Grenzen werden korrekt auf scrollendem SVG dargestellt
+
+---
+
+#### LA-20 — Choir Trainer: Section-Loop & Playback
+
+**Voraussetzungen** LA-19
+**Aufwand** ~2–3 Tage · Risiko: NIEDRIG
+**Output** Loop und Playback kennen Sektionsgrenzen
+
+- `useMediaPlayer`: aktive Sektionsgrenzen (`startTstamp` / `endTstamp`) respektieren
+- Loop mit einstellbarer Pause zwischen Wiederholungen (Default 2 s, Range 0–5 s)
+- Freier Playback-Start: Tap auf beliebige Note → spielt ab dort bis Stückende (kein Loop)
+- Nach Pause: Score bleibt an Playback-Position, Play setzt dort fort
+
+**Testkriterium** Loop läuft stabil durch mehrere Wiederholungen · Pause korrekt · Stop hält Position
+
+---
+
+#### LA-21 — Choir Trainer: FSRS-Integration & Fortschrittsmodal
+
+**Voraussetzungen** LA-20
+**Aufwand** ~3–4 Tage · Risiko: NIEDRIG
+**Output** Messbarer Lernfortschritt pro Abschnitt und Stück
+
+- Automatisches FSRS-Rating nach Session (Loop-Zähler → Heuristik):
+  `< 2 → Again · 2–5 → Hard · 6–9 → Good · ≥ 10 → Easy`
+- FSRS-Modal (📊-Button im Panel): alle Abschnitte mit FSRS-Status + manueller Override
+- Gesamtfortschritt: `Coverage × FSRS-Ø` (Union-Coverage gewichtet nach Abschnittslänge)
+- FSRS-Engine aus LA-2 wird wiederverwendet
+
+**Testkriterium** Automatisches Rating wird nach Session korrekt gespeichert ·
+Override im Modal funktioniert · Gesamtfortschritt stimmt rechnerisch
+
+---
+
 ## 3. Offen / Zurückgestellt
 
 Diese Features sind in DOK-3 beschrieben aber bewusst noch keinem LA zugeordnet
@@ -278,10 +558,13 @@ Diese Features sind in DOK-3 beschrieben aber bewusst noch keinem LA zugeordnet
 | Nostr-Sync / Geräte-Sync | A.1, D.1 | Nach LA-16 |
 | Explorer-Komponente (Eigenbau, Einhandbedienung) | C.4, C.5 | Phase 3 |
 | Liga-System (öffentlich, entschieden) | B.3, Offene Punkte | Nach LA-14 |
+| QuizAway-Timer: nur Duell-Modus — Sofa/Route/Live ohne Zeitdruck | B.3 | Vor nächstem QA-Release |
+| QuizAway Kategorie: Historische Persönlichkeiten (Geburts-/Wirkungsorte) | B.4 | Datenpipeline klären |
+| QuizAway Kategorie: Fun Facts (skurriles Ortswissen) | B.4 | Datenpipeline klären |
 | Performance-Player Mikrofon-Analyse Phase C | C.8 | Nach LA-7 |
 | Analyse-Player (Essay, Argumentation) | C.11 | Phase 3+ |
 | Persistenz-Backend (Nextcloud vs. kDrive) | Offene Punkte | Vor LA-16 entscheiden |
-| QuizAway → Xalento Migration (4-Schritt-Pfad) | B.6, D.3 | Parallel zu LA-13 |
+| QuizAway → Xalento Neubau (Local-First, Xalento-Stack) | B.6 | Nach LA-8 (Choir Trainer stabil) |
 
 ---
 
@@ -292,7 +575,9 @@ LA-1 → LA-2 → LA-3 → LA-4
                   ↓       ↓
                  LA-5    LA-14
                   ↓
-              LA-6 → LA-7 → LA-8 → LA-16 → LA-17
+              LA-6 → LA-7 → LA-8 → LA-18 → LA-19 → LA-20 → LA-21 → LA-16 → LA-17
+                                      ↓               ↓
+                                    LA-18b           LA-19b
                   ↓
               LA-9 ↘
               LA-10 → LA-13 → LA-14
@@ -322,4 +607,58 @@ Parallel startbar nach LA-3: LA-9, LA-10, LA-11, LA-12
 | LA-14 neu: Duell-Modus Lern-App | DOK-3 C.6 Ebene 3 — fehlte komplett |
 | LA-15 neu: Klassen-Dashboard | DOK-3 C.6 Ebene 4 — fehlte komplett |
 | LA-1 + LA-2: Status → abgeschlossen | Fertiggestellt März 2026 |
+| LA-18–LA-21 neu: Choir Trainer Übungsabschnitte | Konzept April 2026 — Pareto-V1 + V2-Pakete |
 | Offene-Punkte-Tabelle | DOK-3 Offene Punkte strukturiert |
+| LA-4: Willkommen-zurück-Nachricht | ADR April 2026 — Pausen kommunizieren statt bestrafen |
+| LA-15: Inhalts-Heatmap | ADR April 2026 — Inhalt statt Aktivität im Dashboard |
+
+---
+
+## 6. Strategische Entscheidungen (April 2026)
+
+*Quelle: ADR_LernBattle_Analyse.md · April 2026*
+
+### StimmBild — Pause bis externe Unterstützung gesichert
+
+StimmBild bleibt auf dem aktuellen Stand. Gründe:
+
+- Zeitdruck Berlin-Wahl September 2026 zu hoch für Solo-Entwicklung
+- Auflagen für politische Apps (Neutralität, Quellentransparenz, rechtliche Absicherung) ohne externe Unterstützung nicht erfüllbar
+- Halbfertiger Launch wäre schlimmer als kein Launch
+
+StimmBild ist nicht aufgegeben — nur entkoppelt vom Berliner Wahltermin. Wiederaufnahme sinnvoll wenn: Uni-Kooperation steht, externe Redakteure verfügbar, mehr Entwicklungskapazität.
+
+### QuizAway — Neubau auf Xalento-Stack statt schrittweise Migration
+
+*Architekturentscheidung April 2026*
+
+Der ursprünglich geplante 4-Schritt-Migrationspfad (DOK-3 B.6 alt) wird ersetzt. Der Choir Trainer hat bewiesen, dass React + TypeScript + Vite + Dexie.js + PWA eine vollständig stabile, offline-fähige App ohne Serverabhängigkeiten im Betrieb ergibt. QuizAway wird auf demselben Stack neu gebaut — als weiterer Player-Typ auf der gemeinsamen Xalento-Architektur.
+
+**Konsequenz für die Stabilität:**
+
+| Modus | Heute | Nach Neubau |
+|---|---|---|
+| Sofa / Route / Live | Serverabhängig (Render) | 100 % lokal, offline-fähig |
+| Duell | Render + OpenRelay + HTTP-Polling | Always-On WebSocket + eigener coturn |
+| Stabilitätsprofil | Mehrere Single Points of Failure | Choir-Trainer-Niveau |
+
+**Wann:** Nach LA-8 (Choir Trainer vollständig stabil und abgenommen) — dann ist der Stack erprobt und QuizAway kann als LA-X (noch nicht nummeriert) eingeplant werden.
+
+### Neue Prioritätsreihenfolge
+
+1. Xalento Fundament (LA-1–LA-3) — läuft
+2. Chorübung (LA-6–LA-8) — erster echter Anwendungsfall
+3. BioLearn RLP (LA-9–LA-13 + LA-15) — erste öffentliche Priorität, erster Schulmarkt-Auftritt
+4. Kooperation Universität Koblenz (Informatik-Didaktik + Institut für Pädagogik) — nach LA-15, mit laufender App und echten Nutzungsdaten
+5. StimmBild — Wiederaufnahme mit akademischer Rückendeckung, ohne Wahltermin-Druck
+
+### Uni Koblenz — Kooperationsidee (mittelfristig)
+
+Zieltermin: nach Fertigstellung LA-13 + LA-15, voraussichtlich 2027.
+
+Was bis dahin vorzubereiten ist:
+- Laufende BioLearn-App mit echten Schülerinhalten, lehrplankonform RLP Klasse 5–6
+- Klassen-Dashboard (LA-15) mit Inhalts-Heatmap — das ist der Differenziator gegenüber Quizlet & Co.
+- FSRS-Nutzungsdaten aus SingOn-Chor als erster Beleg für Lernwirksamkeit
+
+Ansprechpartner: Fachbereich Informatik (Professur Informatik und ihre Didaktik) + Institut für Pädagogik (Prof. Dr. Pätzold, Prof. Dr. Hoffmann).

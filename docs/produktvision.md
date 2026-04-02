@@ -1,6 +1,6 @@
 # Produktvision — QuizAway & Xalento (Lern-App)
 
-*Version 1.0 · März 2026 · DOK-3 v9*
+*Version 1.1 · April 2026 · DOK-3 v10*
 
 Produktvision
 QuizAway & Medien-Lern-App
@@ -139,6 +139,16 @@ App-Store als Ergänzung · Freemium optional
 
 Payment wird nachgezogen, nicht eingeführt. Die Basisversion bleibt kostenlos. Nur wer mehr will, zahlt. Wer nicht zahlt, verliert nichts.
 
+### A.6  Onboarding-Prinzip — Erfolgserlebnis in unter 60 Sekunden
+
+*Erkenntnisse aus Duolingo-Analyse, April 2026*
+
+Nutzer kommen beim ersten Start so schnell wie möglich zur ersten Erfolgserfahrung — kein Setup, keine Registrierung, keine Erklärung, direkt spielen.
+
+**Erster Start:** Nutzer spielen sofort 3 Beispielkarten des gewählten Themas — ohne Setup, ohne Registrierung, ohne Erklärung. FSRS-Feedback erscheint nach der ersten Karte. Erst danach optional: Deck wählen, Einstellungen. Ziel: Erfolgserlebnis in unter 60 Sekunden.
+
+**Warum kritisch:** Xalento hat keinen Streak-Zwang als Rückkehrer-Mechanismus. Das macht das erste Erlebnis umso entscheidender — wer beim ersten Start keinen Wert sieht, kommt nicht wieder. Der externe Lerndruck (Auftritt, Klassenarbeit) existiert bereits — Xalento muss ihn nicht erzeugen, sondern das angenehmste Werkzeug dafür sein.
+
 ## Teil B — QuizAway
 
 QuizAway ist ein Anwendungsfall der Lern-App — spielerisches Geo-Lernen als erste Spezialisierung.
@@ -163,20 +173,28 @@ Beschreibung
 Status
 
 Sofa-Modus
-Alleine spielen, Kategorie wählen, 3 Fragen pro Runde, kein Zeitdruck
+Alleine spielen, Kategorie wählen, 3 Fragen pro Runde, kein Zeitdruck — kein Timer
 Vorhanden
 
 Virtuelle Route
-Eine Reise von A nach B — Fragen über Städte entlang der Strecke
+Eine Reise von A nach B — Fragen über Städte entlang der Strecke — kein Timer
 In Entwicklung
 
+Live-Modus
+Gemeinsam spielen ohne Gegeneinander, gleiche Fragen gleichzeitig — kein Timer
+Geplant
+
 Duel-Modus
-Zwei Spieler spielen gegeneinander, gleiche Fragen, Echtzeit-Vergleich
+Zwei Spieler spielen gegeneinander, gleiche Fragen, Echtzeit-Vergleich — **Timer aktiv** (14 s/Frage)
 Geplant (AP13)
 
 Liga
 Wöchentliche Rangliste über alle Spieler, Auf-/Abstieg
 Geplant
+
+**Timer-Designentscheidung:** Der Spieltimer (14 s/Frage) ist bewusst auf den Duell-Modus beschränkt. In allen anderen Modi (Sofa, Virtuelle Route, Live) gibt es keinen Zeitdruck — Lernentscheidungen brauchen Raum. Timer erzeugt nur dort sinnvollen Wettkampf-Reiz, wo er direkt an eine Spielsituation gebunden ist.
+
+**Naming offen:** Der Duell-Modus kann extern unter einem anderen Namen (z. B. „Lernbattle") vermarktet werden. Entscheidung bis LA-16 (Launch). Interner Code-Name bleibt „duell".
 
 ### B.4  Fragenkategorien
 Kategorie
@@ -223,6 +241,14 @@ Kulinarik
 Spezialitäten und Getränke
 Gesperrt (geplant)
 
+Historische Persönlichkeiten
+Wer hat hier gelebt, wurde hier geboren, gewirkt oder ist hier gestorben? (z. B. „In welcher Stadt wurde Albert Einstein geboren?")
+Gesperrt (geplant)
+
+Fun Facts
+Wissen das keiner braucht — aber alle wissen wollen (z. B. „Welche Stadt hat den längsten Straßennamen Deutschlands?")
+Gesperrt (geplant)
+
 ### B.5  Generatives Fragenmodell
 Heute sind QuizAway-Fragen statische Text-Strings: Frage, vier Antworten, fertig. Das System weiß nicht was die Frage bedeutet. Das Ziel ist ein generatives System: Fragen entstehen zur Laufzeit aus drei Zutaten — Daten, einem Fragetyp und einer Methode. Neue Daten bedeuten sofort neue Fragen ohne manuelles Erstellen.
 
@@ -242,13 +268,43 @@ Distraktoren manuell gewählt
 Distraktoren automatisch generiert nach Strategie
 
 ### B.6  Ausgangspunkt & Migrationspfad
-QuizAway existiert heute als standalone HTML-Datei — das ist der Ausgangspunkt, nicht das Ziel. Die HTML-Datei ist ein funktionierendes UX und eine funktionierende Spielmechanik. Sie läuft weiter parallel, während das gemeinsame Fundament (Datenpools, Event-Ledger, Sync) aufgebaut wird. Wenn das Fundament trägt, geht QuizAway schrittweise in die Lern-App auf — kein Big Bang, sondern kontrollierte Migration.
 
-Migrationsprinzip: schrittweise, nicht big bang.
-Schritt 1: Datenpools und Fragengerator ersetzen die statischen JSON-Arrays in der HTML-Datei.
-Schritt 2: Event-Ledger ersetzt lokale Variablen für Spielstände.
-Schritt 3: Nostr-Sync ersetzt den Rendezvous-Server.
-Schritt 4: Quiz-Player als Player-Typ in die Lern-App-Plattform einbringen — HTML-Datei wird Profil.
+*Architekturentscheidung April 2026 — aktualisiert gegenüber DOK-3 v9*
+
+QuizAway existiert heute als standalone HTML-Datei — das ist der Ausgangspunkt, nicht das Ziel. Die HTML-Datei ist ein funktionierendes UX und eine funktionierende Spielmechanik.
+
+**Revidiertes Migrationsprinzip: Neubau statt schrittweise Migration**
+
+Die ursprünglich geplante 4-Schritt-Migration (Datenpools → Event-Ledger → Nostr → Player-Typ) wird ersetzt durch einen **Neubau auf dem Xalento-Stack**. Grund: Der Choir Trainer (LA-6–LA-8) hat bewiesen, dass React + TypeScript + Vite + Dexie.js + PWA eine vollständig stabile, offline-fähige App ergibt — ohne Serverabhängigkeiten im Betrieb. QuizAway auf demselben Stack neu zu bauen ist sauberer als die HTML-Datei schrittweise umzubauen.
+
+**Local-First Architektur — Serverabhängigkeiten auf das Minimum reduziert**
+
+```
+QuizAway (neu, Xalento-Stack)
+│
+├── Sofa-Modus          → 100 % lokal · kein Server · offline-fähig
+├── Virtuelle Route     → 100 % lokal · kein Server · offline-fähig
+├── Live-Modus          → 100 % lokal · kein Server · offline-fähig
+│
+└── Duell-Modus         → minimaler Server (Signaling + TURN)
+                           Spiel selbst läuft P2P nach Handshake
+```
+
+Fragenpools (geo.sqlite / JSON) werden gebündelt oder per Service Worker gecacht — genau wie MusicXML-Dateien im Choir Trainer. Nach dem ersten Laden ist kein Netzwerk mehr nötig — außer für den Duell-Modus.
+
+**Die zwei strukturell unvermeidbaren Server-Ausnahmen (nur Duell-Modus):**
+
+| Ausnahme | Warum unvermeidbar | Lösung |
+|---|---|---|
+| WebRTC Signaling | Zwei Geräte brauchen einen Treffpunkt für den Handshake | Always-On WebSocket (kein Render Free Tier) |
+| TURN-Server | NAT-Traversal Mobilnetz ↔ WLAN scheitert ohne Relay | Eigener coturn oder bezahlter Dienst |
+
+Nach dem Verbindungsaufbau läuft das Duell-Spiel vollständig P2P — kein Server mehr involviert.
+
+**Was das konkret bedeutet:**
+- Sofa, Route, Live: stabil wie der Choir Trainer — keine Serverabhängigkeit, keine Cold-Start-Probleme
+- Duell: zwei klar definierte Serverdienste, beide wartbar und skalierbar
+- Alle Stabilitätsprobleme der aktuellen Implementierung (Render Cold Start, OpenRelay, HTTP-Polling) werden strukturell eliminiert
 
 Verteilungsweg heute
 Vorteil
@@ -264,7 +320,7 @@ Bleibt als Option
 
 Nostr / P2P (Ziel)
 Viral, kein zentraler Server, automatische Updates
-Ersetzt Rendezvous-Server vollständig
+Langfristiges Ziel — nach Neubau auf Xalento-Stack
 
 ### B.7  Duel-Modus — Spielablauf & Protokoll
 Der Duel-Modus ist ein Echtzeit-Zweispielermodus über WebRTC P2P (DataChannel). Beide Spieler spielen dieselben Fragen — deterministisch generiert aus einem gemeinsamen Seed. Der Rendezvous-Server hat zwei klar getrennte Aufgaben: einmalig den WebRTC-Handshake vermitteln (Signaling), und dauerhaft den Warteraum betreiben in dem sich Duell-Partner finden. Nach dem Verbindungsaufbau ist kein zentraler Server mehr nötig — das gesamte Spiel läuft direkt zwischen den Geräten.
@@ -669,6 +725,18 @@ Verleitet zu Schnelligkeit statt Verstaendnis
 
 Forschungsbasis
 Metaanalyse Bai et al. (2020), 3.202 Schuelerinnen: signifikanter positiver Effekt (g=0.50) auf Lernleistung durch Gamification. Entscheidend: Spielelemente muessen direkt zur Lernaufgabe passen und Belohnungen muessen unmittelbar nach der Aufgabe erfolgen. Globale Ranglisten und isolierte Punktesysteme koennen durch den Undermining Effect die intrinsische Motivation sogar verringern (Ninaus, 2025).
+
+### C.7  KI-gestützte Inhaltsgenerierung (Phase 2+)
+
+*Erkenntnisse aus Learn-Battle-Analyse, April 2026*
+
+Redakteure und Lehrkräfte können PDFs, Lehrpläne oder Textdokumente hochladen. Die Anthropic-API extrahiert daraus Karteikarten, MC-Fragen und Lückentext-Aufgaben. Alle generierten Inhalte durchlaufen die kuratierte Redaktions-Pipeline (digitale Signatur) bevor sie in den P2P-Pool eingehen. Kein Nutzer erhält unkuratierte KI-Inhalte.
+
+**Warum Pareto-kompatibel:** Für BioLearn könnten Lehrkräfte Lehrplankapitel als PDF einreichen, für den Chor-Coach Probennotizen — sofort Karten, kein manueller Aufwand. Technisch kein neuer Stack: Anthropic-API wird bereits genutzt.
+
+**Voraussetzungen:** Redaktions-Pipeline aktiv (nach LA-13) · Anthropic-API-Anbindung · Kurationsprozess definiert
+
+**Zurückgestellt bis:** Phase 2+ (nach LA-13 + LA-15)
 
 ### C.8  Chorübung — Erster Anwendungsfall
 Die Chorübung ist der erste konkrete Anwendungsfall (Phase 1) und prägt alle Architekturentscheidungen. Entwickelt für den Chor SingOn, Stimme Bass 2.
