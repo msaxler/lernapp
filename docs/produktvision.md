@@ -969,6 +969,70 @@ Was variiert ist ausschließlich der Player-Kern — der Screen zwischen Aufgabe
 QuizAway ist der Quiz-Player. Er wird als Player-Typ in die Lern-App eingebracht.
 Das 60/40-Layout gilt nur für Media-Player und Performance-Player — nicht für Quiz- und Eingabe-Player.
 
+### C.12  Inhaltsverteilung: Bibliothek, Container-Modell & nachfragebasiertes Caching
+
+Lern-Inhalte (Stücke, Aufgaben-Pakete) werden nicht von einem zentralen Server ausgeliefert — sie leben verteilt auf den Geräten der Nutzer. Jedes Gerät trägt durch zwei klar getrennte Speicherbereiche zum Netz bei.
+
+#### Bibliotheks-Container (persönlich)
+
+Der Bibliotheks-Container enthält die Stücke die ein Nutzer aktiv üben will — seine persönliche Auswahl. Er wird vom Nutzer verwaltet: Stücke hinzufügen, entfernen, Stimme wählen. Die Größe wächst mit der Auswahl. Alle Stücke im Bibliotheks-Container sind offline verfügbar und vollständig in den Choir Trainer integriert (Playback, FSRS, Abschnitte).
+
+#### Gossip-Container (Netzwerk-Beitrag)
+
+Der Gossip-Container ist ein vom Nutzer konfigurierter Speicherblock mit fester Mindestgröße (z.B. 20 MB / 50 MB / 100 MB). Er wird vollautomatisch vom System befüllt — der Nutzer entscheidet nur über die Größe, nicht über den Inhalt.
+
+Das System entscheidet was im Gossip-Container liegt — auf Basis von Nachfrage und regionaler Verteilung:
+
+```
+Nachfragesignal (anonym aggregiert, netzwerkweit)
+  ├── Welche Stücke werden am häufigsten angefragt?
+  ├── Welche Stücke sind unterversorgt (wenige Knoten halten sie vor)?
+  └── Regionales Signal: Wo kommen die Anfragen her?
+        → Stücke mit hoher regionaler Nachfrage werden bevorzugt
+          bei Knoten in dieser Region platziert
+
+Platzierungsentscheidung pro Knoten
+  ├── Fülle Container mit Stücken die im eigenen Netz-Bereich am meisten fehlen
+  ├── Eviction (wenn Container voll): seltenst-angefragte Stücke fliegen raus
+  └── Keine erzwungene Überlappung mit persönlicher Bibliothek —
+      das System platziert was netzwerkweit nützlicher ist
+```
+
+**Regionalisierung** erfolgt grob-granular (Land / Sprachraum) — keine Präzisionsortung. Ein Chorsänger in Bayern bekommt eher Stücke die Chöre in Bayern nachfragen, nicht Stücke die in Norddeutschland üblich sind. Das reduziert Latenzen und verteilt Last organisch.
+
+**Datenschutz**: Nachfragesignale werden anonym aggregiert — kein Personenbezug, keine Geräte-ID. Nur die Tatsache "dieses Stück wurde X-mal von Knoten in Region Y angefragt" fließt ins Netz.
+
+#### Zusammenspiel beider Container
+
+```
+Gerät des Nutzers
+├── Bibliotheks-Container (persönlich, nutzerverwaltet)
+│   ├── Stücke: aktiv gewählt, werden geübt
+│   ├── Größe: dynamisch nach Auswahl
+│   └── Zugriff: voll (Playback, FSRS, Abschnitte, offline)
+│
+└── Gossip-Container (Netzwerk-Beitrag, systemverwaltet)
+    ├── Mindestgröße: konfigurierbar (20 / 50 / 100 MB)
+    ├── Inhalt: vom System nach Nachfrage + Region gewählt
+    ├── Überlappung: möglich aber nicht erzwungen
+    ├── Eviction: LRU / seltenst-angefragt
+    └── Zugriff: nur Weiterleitung (kein Player-Zugriff ohne Bibliotheks-Aufnahme)
+```
+
+Ein Stück das im Gossip-Container liegt aber nicht in der persönlichen Bibliothek kann der Nutzer nicht direkt spielen — er kann es aber mit einem Klick in die Bibliothek übernehmen.
+
+#### Bibliotheks-Screen (UI)
+
+Vor dem Choir Trainer erscheint ein Bibliotheks-Screen mit drei Bereichen:
+
+| Bereich | Inhalt |
+|---|---|
+| Meine Bibliothek | Stücke die ich aktiv übe — sofort spielbar |
+| Verfügbar (lokal) | Im Gossip-Container vorhanden — ein Klick zum Übernehmen |
+| Verfügbar (Netz) | Im Netz bekannt aber nicht lokal — Download erforderlich |
+
+Jeder Eintrag zeigt: Titel · Komponist · Stimmen · Lizenz · Signatur-Status (gültig / unbekannter Redakteur / revoziert).
+
 ## Teil D — QuizAway als erste Spezialisierung der Lern-App
 
 QuizAway ist kein paralleles Projekt zur Lern-App — es ist ihr erster konkreter Anwendungsfall. Die Lern-App ist die allgemeine Plattform, QuizAway ist die erste Spezialisierung: spielerisches Geo-Lernen. QuizAway wird zuerst fertiggestellt und geht dann in die Lern-App auf.

@@ -705,12 +705,30 @@ Tool gibt Bereinigungsbericht aus: was wurde entfernt, was blieb, Vorher/Nachher
 **Aufwand** ~7–10 Tage · Risiko: HOCH (P2P-Protokoll, Nostr-Integration, Offline-Sync)
 **Warum** Sobald mehrere Nutzer oder Redakteure existieren, muss die Stück-Verteilung ohne zentralen Server funktionieren. Jedes Gerät ist Container und Verteiler zugleich.
 
-**Konzept**
+**Konzept** (Vollbeschreibung → Produktvision C.12)
+
+*Zwei Speicherbereiche pro Gerät:*
+
+**Bibliotheks-Container (persönlich, nutzerverwaltet)**
+Der Nutzer wählt aktiv welche Stücke er üben will. Diese liegen vollständig lokal in Dexie — offline spielbar, FSRS-integriert, Abschnitte definierbar. Größe wächst dynamisch mit der Auswahl.
+
+**Gossip-Container (Netzwerk-Beitrag, systemverwaltet)**
+Ein vom Nutzer konfigurierter Speicherblock mit fester Mindestgröße (Standard: 50 MB, wählbar: 20 / 50 / 100 / 200 MB). Der Inhalt wird vollautomatisch vom System bestimmt — der Nutzer entscheidet nur über die Größe.
+
+Das System befüllt den Gossip-Container nach zwei Signalen:
+- **Nachfrage**: Welche Stücke werden im Netz am häufigsten angefragt und sind am wenigsten verbreitet?
+- **Region**: Welche Stücke werden bevorzugt in der eigenen geografischen Umgebung nachgefragt? (grob-granular: Land / Sprachraum — kein Präzisionsstandort)
+
+Eviction: Wenn der Container voll ist, fliegen seltenst-angefragte Stücke raus. Keine erzwungene Überlappung mit der persönlichen Bibliothek — das System platziert was netzwerkweit gerade nützlicher ist.
+
+Ein Stück im Gossip-Container aber nicht in der persönlichen Bibliothek kann der Nutzer nicht direkt spielen — er kann es aber mit einem Klick in die Bibliothek übernehmen.
+
+*Weitere Konzepte:*
 - **Gossip-Verbreitung**: Stück-Pakete (aus LA-24a) verbreiten sich P2P über Nostr-Relay oder direkt. Ein Gerät das ein Paket hat, gibt es weiter — kein zentraler Inhaltsserver nötig.
 - **Signatur-Prüfung client-seitig**: Jedes empfangene Paket wird gegen die bekannte Redakteurs-Trust-Chain geprüft. Ungültige oder revozierte Signaturen werden stillschweigend ignoriert.
-- **Lokale Bibliothek**: Der Nutzer wählt Stücke aus dem verfügbaren Pool und hält sie lokal in Dexie — offline verfügbar nach einmaligem Empfang.
-- **Bibliotheks-Screen**: Neuer Screen vor dem Choir Trainer — Liste verfügbarer Stücke, Stimmenauswahl, Empfangs-Status (neu / lokal vorhanden / Update verfügbar).
+- **Bibliotheks-Screen**: Drei Bereiche — *Meine Bibliothek* (aktiv geübt) · *Verfügbar lokal* (im Gossip-Container, ein Klick zum Übernehmen) · *Verfügbar im Netz* (bekannt aber nicht lokal, Download nötig). Jeder Eintrag zeigt Titel, Stimmen, Lizenz, Signatur-Status.
 - **Redakteurs-Netz**: Zulassung und Entzug von Redakteuren propagieren über denselben Gossip-Kanal wie Stücke.
+- **Nachfragesignale**: Anonym aggregiert — kein Personenbezug, keine Geräte-ID. Nur Häufigkeit pro Stück pro Region fließt ins Netz.
 
 **Abgrenzung**
 Kein allgemeines CMS. Kein Upload durch Endnutzer — ausschließlich durch zugelassene Redakteure mit gültigem Keypair. Die initiale Zulassung neuer Redakteure ist ein Out-of-Band-Prozess (Key-Austausch persönlich oder via vertrauenswürdigem Kanal).
@@ -719,6 +737,8 @@ Kein allgemeines CMS. Kein Upload durch Endnutzer — ausschließlich durch zuge
 - Neues Stück von Redakteur signiert → erscheint auf zweitem Gerät ohne App-Update
 - Stück mit ungültiger oder revozierter Signatur wird abgelehnt
 - Offline-Nutzung nach einmaligem Empfang funktioniert vollständig
+- Gossip-Container wird automatisch befüllt und bei Kapazitätsüberschreitung korrekt evicted
+- Bibliotheks-Screen zeigt alle drei Bereiche korrekt an
 - Redakteurs-Entzug propagiert und revozierte Stücke werden nicht mehr angezeigt
 
 ---
