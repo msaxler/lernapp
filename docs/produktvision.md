@@ -825,6 +825,15 @@ Der Sortierspiel-Player ist dabei der wertvollste Neuzugang für Informatik — 
 Strategische Einordnung: Chorübung ist Phase-1-Pilot wegen persönlicher Expertise. Informatik Sek I ist das strategische Ziel-Fach für die Skalierungsphase — wegen Fachkompetenz des Entwicklers, technologischem Differenziator (interaktive Player), wachsender Pflichtfachstellung, und einem direkten Feedback-Vorteil den kein anderes Schulfach in dieser Form bietet.
 Die Plattform-Architektur bleibt identisch — der Fachwechsel ist eine inhaltliche Entscheidung, kein Umbau.
 
+UX-Designprinzip Informatik: 70 % Interaktion — 30 % Erklärung
+Passives Lesen wird in Xalento auf ein Minimum reduziert. Für Informatik gilt das besonders:
+Algorithmen versteht man durch Ausführen, nicht durch Lesen. Die Konsequenz für das Content-Design:
+70 % der Lernzeit entfallen auf aktive Interaktion (Sortieren, Lücken füllen, Fehler finden, Blockly-Puzzle),
+30 % auf Erklärung (Einleitungstext, Feedback nach Aufgabe, Tooltip). Ein Deck das zu viele Erklärkarten
+enthält widerspricht diesem Prinzip — Erklärtext gehört in die Feedback-Einblendung nach der Aufgabe,
+nicht in separate Leseeinheiten davor. Konkret: Kein Informatik-Deck enthält mehr als 1 Erklärkarte
+pro 3 Interaktionskarten.
+
 ### C.10  Technologie-Entscheidungen
 Bereich
 Entscheidung
@@ -1078,3 +1087,32 @@ Gemeinsam
 Payment-Strategie: Ab wann und wie? PayPal Webhook vs. Lightning / NIP-57 Zap
 App-Store: Wann und ob — Abwägung 30% Provision vs. Reichweite
 Schutzstrategie: Markenname, ggf. Gebrauchsmuster für die Spielmechanik
+
+---
+
+## Anhang: Markenname & Corporate Identity
+
+### Produktionsname: Salrexo
+
+**Arbeitsname:** Xalento (bleibt intern + im Code, GitHub-Repo: msaxler/xalento)
+**Echtbetrieb-Markenname:** **Salrexo**
+
+**Namensherkunft:**
+- Enthält alle Buchstaben des Nachnamens des Gründers (Saxler → S, a, x, l, e, r)
+- Plus „o" am Ende → bessere Aussprache, Einprägsamkeit
+- Besser schützbar als generischer Begriff
+
+**Schreibweise:** Salrexo (Großbuchstabe S, sonst kleingeschrieben)
+**Zusatz:** Salrexo Informatik (für Choir Trainer / Musik-Kontext offen)
+
+**Logo-Konzept** (April 2026, KI-generierter Entwurf):
+- Verschlungenes S-förmiges Symbol aus zwei ineinander greifenden Schleifen
+- Farbvariante: Neon-Gradienten (Grün, Pink, Gelb) auf dunklem/kosmischem Hintergrund
+- Schwarz-Weiß-Variante: Graustufen auf hellem Hintergrund (für Druck/Dokumente)
+- Anwendungen gezeigt: Web (Desktop-Browser), Mobile (Smartphone), Standalone-Logo
+
+**Nächste Schritte Marke:**
+- Markenrecherche (DPMA / EUIPO) vor Launch (LA-16)
+- Vektorgrafik des Logos erstellen lassen (SVG)
+- Domain salrexo.de / salrexo.com prüfen
+- Code-Migration Xalento → Salrexo: erst nach LA-22 (Professionelle Projektstruktur)
