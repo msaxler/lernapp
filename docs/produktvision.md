@@ -1069,6 +1069,53 @@ Derselbe n:m-Attributmechanismus — ein Lerninhalt kann beliebig vielen Kategor
 
 Das Attribut-System ist damit ein universeller Lern-Kompass: *"Was kann ich schon — und was fehlt mir noch bis zum Konzert / zum Abitur / zur Prüfung?"*
 
+### C.14  Das orthogonale Drei-Achsen-Modell
+
+Die Plattform-Architektur besteht aus drei vollständig unabhängigen Achsen — wie in der Datenbankormalisierung: keine Redundanz, keine versteckten Abhängigkeiten. Jede Achse kann verändert werden ohne die anderen zu berühren.
+
+```
+  Fachgebiet-Achse          Methodik-Achse           Player-Achse
+  ─────────────────         ──────────────────        ─────────────────
+  Chor / Musik              FSRS                      Media-Player
+  Schule (alle Fächer)      SM2                       Quiz-Player
+  Hochschule                Kompetenzraster           Performance-Player
+  Berufsausbildung          Prüfungssimulation        Eingabe-Player
+  Selbststudium             Peer-Review               Analyse-Player
+  ...                       ...                       Blockly-Player
+```
+
+Jede Kombination aus allen drei Achsen ergibt einen konkreten Lernkontext:
+
+```
+Fachgebiet "Jura"
+  × Methodik "Prüfungssimulation + Peer-Review"
+  × Player "Analyse-Player (Essay, Argumentation)"
+  → Jurastudent übt Klausuren mit Peer-Feedback
+
+Fachgebiet "Dachdecker-Ausbildung"
+  × Methodik "Kompetenzraster"
+  × Player "Quiz-Player + Media-Player (Lehrvideos)"
+  → Azubi bereitet Gesellenprüfung vor
+
+Fachgebiet "Chor"
+  × Methodik "FSRS"
+  × Player "Media-Player + Performance-Player"
+  → Chorsänger übt Stimme mit Spaced Repetition
+```
+
+Unterschiedliche Fachgebiete erfordern unterschiedliche Methodiken — das ist kein Defizit sondern eine Stärke: die Plattform zwingt niemanden in eine einzige Lernlogik.
+
+**Was außerhalb des Würfels liegt — die tragende Infrastruktur:**
+- Universelle Taxonomie + Bibliotheks-Browser (C.12, C.13)
+- Identität + Datensouveränität (C.10)
+- Gossip-Verteilung + Redakteurs-Netz (C.12)
+- FSRS-Gruppen-Status (Coverage + Mastery) — als gemeinsame Metrik aller Methodiken
+- Gamification + Event-Ledger
+
+Diese Infrastruktur trägt den Würfel — sie ist für alle Achsen-Kombinationen identisch.
+
+**Leitfrage für jede neue Erweiterung:** Auf welcher Achse liegt die Änderung — Fachgebiet, Methodik oder Player? Und berührt sie die anderen Achsen? Wenn nein: sauber orthogonal, implementierbar ohne Umbau.
+
 ## Teil D — QuizAway als erste Spezialisierung der Lern-App
 
 QuizAway ist kein paralleles Projekt zur Lern-App — es ist ihr erster konkreter Anwendungsfall. Die Lern-App ist die allgemeine Plattform, QuizAway ist die erste Spezialisierung: spielerisches Geo-Lernen. QuizAway wird zuerst fertiggestellt und geht dann in die Lern-App auf.
