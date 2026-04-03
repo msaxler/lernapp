@@ -805,16 +805,47 @@ Forschungsfragen (fokussiert — Grundprinzip n:m ist geklärt):
 4. **Nutzer-eigene Attribute**: Können Nutzer eigene Tags anlegen? Wie werden Redakteurs-Attribute von Nutzer-Tags unterschieden?
 5. **Ensemble-/Gruppenkontext**: Kann ein Chorleiter eine Stückliste für eine Gruppe definieren, die Mitglieder dann übernehmen?
 
+**FSRS-Status auf Gruppenebene (Kernanforderung)**
+
+Jedes Attribut / jede Gruppe erbt automatisch einen FSRS-Status aus den ihr zugeordneten Stücken. Keine zusätzlichen Daten nötig — die FSRS-Werte existieren bereits pro Stück und werden on-the-fly aggregiert.
+
+Zwei Kennzahlen pro Gruppe:
+- **Coverage**: Wieviele Stücke wurden überhaupt schon geübt? → `geübt / gesamt`
+- **Mastery**: Wie gut sind die geübten im Schnitt? → gewichteter FSRS-Stability-Durchschnitt
+
+```
+Konzert "Weihnachten 2026" — 15 Stücke
+  ├── Coverage:  6 / 15  (40 % begonnen)
+  ├── Mastery:   Ø Stability der 6 geübten → "Gut"
+  └── Anzeige:   "6 Stücke konzertreif · 9 noch nicht begonnen"
+
+Sammlung "Bach-Choräle" — 900 Stücke
+  ├── Coverage:  400 / 900  (44 % begonnen)
+  ├── Mastery:   Ø Stability der 400 geübten
+  └── Anzeige:   Fortschrittsbalken + Stability-Farbe
+
+Komponist "Byrd" — 12 Stücke
+  ├── Coverage:  12 / 12  (100 % begonnen)
+  └── Mastery:   Ø = 8.4 → "Sehr gut"
+```
+
+Dieselbe Formel wie `calcProgress()` im `SectionProgressModal` (LA-21) — dort für Abschnitte eines Stücks, hier skaliert auf Bibliotheks-Ebene. Kein neues Konzept, nur eine neue Aggregations-Ebene.
+
+Phasen (Hören / Singen) werden getrennt ausgewiesen — ein Stück kann für Phase A "Gut" und für Phase B "Neu" sein. Die Gruppe zeigt beide Werte.
+
 **Output des Arbeitspakets**
 - Kurze Analyse der 5–7 untersuchten Apps (je 1 Seite)
-- Vergleichstabelle: Hierarchie · Tags · Suche · MusicXML-Nutzung · Nutzer-Attribute
-- Empfehlung für das Choir-Trainer-Ordnungssystem
+- Vergleichstabelle: Attribut-Dimensionen · Suche · MusicXML-Nutzung · Nutzer-Attribute · FSRS-Äquivalent (falls vorhanden)
+- Empfehlung: Defaultsatz der Attribut-Dimensionen für den Choir Trainer
 - Entwurf des Metadaten-Schemas für LA-24a (welche Felder im signierten Paket)
+- Spezifikation der FSRS-Gruppen-Aggregation (Coverage + Mastery pro Attribut)
 
 **Testkriterium**
 - Jedes SingOn-Stück kann in das empfohlene Schema eingeordnet werden
+- Konzert "Weihnachten 2026" mit 15 Stücken zeigt korrekten Coverage- und Mastery-Wert
 - Schema ist erweiterbar ohne Breaking Change
 - Redakteur-Metadaten und Nutzer-eigene Tags sind klar getrennt
+- Phase A und Phase B werden getrennt ausgewiesen
 
 ---
 
