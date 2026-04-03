@@ -748,7 +748,29 @@ Kein allgemeines CMS. Kein Upload durch Endnutzer — ausschließlich durch zuge
 
 **Voraussetzungen** LA-24a (Paket-Format + Metadaten definiert)
 **Aufwand** Recherche ~2–3 Tage · Konzept ~1–2 Tage · Risiko: NIEDRIG
-**Warum** Bevor das Bibliotheks-UI implementiert wird, muss das Ordnungssystem konzeptionell geklärt sein. Es soll weder zu simpel (nur Ordner) noch zu komplex (beliebige Ontologie) werden — sondern genau das abbilden was Chorsänger und Chorleiter tatsächlich brauchen.
+**Warum** Bevor das Bibliotheks-UI implementiert wird, muss das Ordnungssystem konzeptionell geklärt sein — und zwar für die gesamte Plattform, nicht nur für den Choir Trainer.
+
+**Reichweite: Plattform-Infrastruktur, nicht Choir-spezifisch**
+
+LA-25 und LA-26 (Browser) sind keine Choir-Features. Das Attribut-System und der FSRS-Gruppen-Status gelten für alle Lernhalte und alle Bildungskontexte auf der Plattform. Die Attribut-Dimensionen sind universell:
+
+| Kontext | Typische Ordnungskategorien |
+|---|---|
+| Chor | Konzert · Komponist · Epoche · Stimme · Ensemble |
+| Schule | Klasse · Fach · Schulform · Abschluss (Abitur · Mittlere Reife · Hauptschulabschluss) |
+| Hochschule | Semester · Modul · Studiengang · Abschluss (Bachelor · Master · Diplom · Dissertation · Habilitation) |
+| Berufsausbildung | Lehrjahr · Beruf · Prüfungsblock (z.B. "Zweites Lehrjahr Dachdecker") |
+| Selbststudium | Eigene Tags · Projekte · Themengebiete |
+
+FSRS-Gruppen-Status funktioniert auf jeder dieser Ebenen identisch:
+```
+"7. Klasse Sachkunde"          → Coverage 34/120  · Mastery: In Arbeit
+"Zweites Lehrjahr Dachdecker"  → Coverage 67/200  · Mastery: Gut
+"Bachelor BWL — Semester 3"    → Coverage 12/45   · Mastery: Neu
+"Habilitation Rechtsphilosophie" → Coverage 3/580 · Mastery: –
+```
+
+Die Konsequenz für das Metadaten-Schema: Es muss von Anfang an inhaltsneutral sein — kein "Komponist"-Pflichtfeld, kein Musik-spezifisches Vokabular. Stattdessen ein generisches Attribut-System mit domänenspezifischen Defaultsätzen (Choir-Defaultsatz, Schule-Defaultsatz, ...) die der Redakteur beim Signieren wählt.
 
 **Ordnungskonzept (geklärt)**
 

@@ -1042,6 +1042,33 @@ Vor dem Choir Trainer erscheint ein Bibliotheks-Screen mit drei Bereichen:
 
 Jeder Eintrag zeigt: Titel · Komponist · Stimmen · Lizenz · Signatur-Status (gültig / unbekannter Redakteur / revoziert).
 
+### C.13  Universelle Lern-Taxonomie — Plattform-Infrastruktur
+
+Das Attribut-System (LA-25) und der Bibliotheks-Browser (LA-26) sind keine Choir-spezifischen Features. Sie sind Plattform-Infrastruktur für alle Lerninhalte und alle Bildungskontexte.
+
+Derselbe n:m-Attributmechanismus — ein Lerninhalt kann beliebig vielen Kategorien angehören — funktioniert für jeden Kontext:
+
+| Kontext | Ordnungskategorien |
+|---|---|
+| Chor | Konzert · Ensemble · Komponist · Epoche · Stimme |
+| Schule | Klasse ("3. Klasse") · Fach ("Sachkunde") · Abschluss ("Abitur" · "Mittlere Reife" · "Hauptschulabschluss") |
+| Hochschule | Semester · Modul · Studiengang · Abschluss ("Bachelor" · "Master" · "Diplom" · "Dissertation" · "Habilitation") |
+| Berufsausbildung | Lehrjahr ("Zweites Lehrjahr") · Beruf ("Dachdecker") · Prüfungsblock |
+| Selbststudium | Eigene Tags · Projekte · Themengebiete |
+
+**FSRS-Gruppen-Status** gilt universell: Jede Kategorie erbt Coverage + Mastery aus ihren Lerninhalten — egal ob Chorsatz, Matheaufgabe, Vokabel oder Rechtsfall.
+
+```
+"7. Klasse Sachkunde"            → 34/120 geübt · Mastery: In Arbeit
+"Zweites Lehrjahr Dachdecker"    → 67/200 geübt · Mastery: Gut
+"Bachelor BWL — Semester 3"      → 12/45 geübt  · Mastery: Neu
+"Habilitation Rechtsphilosophie" → 3/580 geübt  · Mastery: –
+```
+
+**Metadaten-Schema** ist inhaltsneutral: kein Musik-spezifisches Pflichtfeld. Stattdessen domänenspezifische Defaultsätze die der Redakteur beim Signieren wählt — Choir-Defaultsatz, Schule-Defaultsatz, Hochschule-Defaultsatz usw. Nutzer können jederzeit eigene Attribute ergänzen.
+
+Das Attribut-System ist damit ein universeller Lern-Kompass: *"Was kann ich schon — und was fehlt mir noch bis zum Konzert / zum Abitur / zur Prüfung?"*
+
 ## Teil D — QuizAway als erste Spezialisierung der Lern-App
 
 QuizAway ist kein paralleles Projekt zur Lern-App — es ist ihr erster konkreter Anwendungsfall. Die Lern-App ist die allgemeine Plattform, QuizAway ist die erste Spezialisierung: spielerisches Geo-Lernen. QuizAway wird zuerst fertiggestellt und geht dann in die Lern-App auf.
