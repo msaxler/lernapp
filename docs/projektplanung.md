@@ -29,7 +29,7 @@ Details zu AP1–AP13 siehe DOK-2 v17 (`docs/quellen/dok2_projektplanung_v17.doc
 
 ---
 
-## 2. Xalento-Arbeitspakete (LA-1–LA-22)
+## 2. Xalento-Arbeitspakete (LA-1–LA-23)
 
 Xalento ist die generalisierte Lernplattform auf Basis der QuizAway-Erkenntnisse.
 Stack: React 18 · TypeScript 5 · Vite 5 · Dexie.js (IndexedDB) · FSRS-5
@@ -362,13 +362,18 @@ fühlt sich an wie Sammelkartenspiel
 **Testkriterium** 5 Datentyp-Beispiel-Paare korrekt zuordnen auf Touch-Screen ·
 FSRS-Integration
 
-#### LA-11 — Lückentext- und Sortier-Player
+#### LA-11 — Lückentext-, Sortier- und Fehler-finden-Player
 
 **Voraussetzungen** LA-3
-**Output** Lückentext (Dropdown + Freitext) + Sortieraufgabe für Abläufe
+**Output** Drei interaktive Aufgabenformate für Informatik Sek I:
+- **Lückentext** (Dropdown + Freitext): Pseudocode oder Algorithmus-Beschreibung mit Lücken
+- **Sortieraufgabe**: Schritte eines Ablaufs in die richtige Reihenfolge bringen
+- **Fehler finden**: Fehlerhafter Pseudocode / fehlerhafter Algorithmus — Nutzer markiert die Zeile mit dem Fehler
+  und wählt die Korrektur aus. Entspricht dem informatikdidaktischen Konzept "Debugging als Lernform":
+  Fehler erkennen ist kognitiv anspruchsvoller als Lücken füllen (Bloom Stufe 4 Analysieren)
 **Technologie** React, TypeScript
 **Testkriterium** Algorithmus-Lückentext (z.B. Bubblesort) spielbar · Sortierschritte sortierbar ·
-FSRS-Integration
+Fehler-finden-Aufgabe: fehlerhafter Pseudocode korrekt identifiziert · FSRS-Integration
 
 ---
 
@@ -378,21 +383,22 @@ FSRS-Integration
 
 **Voraussetzungen** LA-3
 **Output** Kuratierte JSON-Decks aus Lehrplan RLP + OER-Quellen,
-strukturiert nach den vier Themenbereichen des Lehrplans
+strukturiert nach Modul-Raster Klasse 5–8 (5 Module, RLP-orientiert)
 **Technologie** Python, ggf. APIs von Code.org / CS Unplugged
 **Quellen:**
 - Lehrplan RLP Gymnasium Informatik Sek I (Kompetenzen + Inhalte pro Jahrgang)
 - OER-Plattformen: CS Unplugged (Algorithmen/Codierung), Open Roberta (Programmierung), Code.org
 - Python/JavaScript-Ökosystem: Tutorials, Übungsaufgaben, Beispiele
-**Themenbereiche (Lehrplan RLP):**
-- Algorithmen & Programmierung
-- Daten & Codierung
-- Informatiksysteme (Hardware, Netzwerke)
-- Informatik, Mensch & Gesellschaft
-**Hinweis** Weniger fertige Aufgabendatenbanken als in Mathe/Bio — dafür mehr Freiheit
+**Modul-Kurationsraster (Klasse 5–8, RLP-orientiert):**
+- **Modul 1** (Kl. 5/6): Algorithmen & Problemlösen — Ablaufdiagramme, Struktogramme, Sortierverfahren
+- **Modul 2** (Kl. 5/6): Daten & Codierung — Binärsystem, ASCII, Datenkompression, Verschlüsselung
+- **Modul 3** (Kl. 6/7): Erste Programmierung — Variablen, Schleifen, Bedingungen (Scratch/Blockly → Python)
+- **Modul 4** (Kl. 7/8): Informatiksysteme — Hardware, Betriebssystem, Netzwerke, Internet-Protokolle
+- **Modul 5** (Kl. 8): Informatik & Gesellschaft — KI-Grundlagen, Datenschutz, Algorithmen-Fairness
+Startmodul (Pareto): Modul 1 "Algorithmen verstehen" — sofort demonstrierbar im Sortier-Player (LA-11)
+**Hinweis** Weniger fertige Aufgabendatenbanken als in Mathe — dafür mehr Freiheit
 bei didaktischer Aufbereitung. Engpass ist Kuration, nicht Material.
-**Testkriterium** 200 Informatik-Karten generiert · Lehrplan Klasse 7–8 als Raster angewendet ·
-alle vier Themenbereiche abgedeckt
+**Testkriterium** ≥40 Karten pro Modul · Modul 1 vollständig kuratiert · alle Player-Typen abgedeckt
 
 #### LA-13 — Informatik Sek I Deck
 
@@ -467,8 +473,9 @@ kein App-Store-Zwang solange möglich (30 % Provision vermeiden)
 
 ---
 
-#### LA-18 — Choir Trainer: Übungsabschnitte — Bottom Sheet & Infrastruktur (V1)
+#### LA-18 — Choir Trainer: Übungsabschnitte — Bottom Sheet & Infrastruktur (V1) ✅
 
+**Status** Abgeschlossen
 **Voraussetzungen** LA-8 abgeschlossen
 **Aufwand** ~2 Tage · Risiko: NIEDRIG
 **Output** Fundament für LA-19–LA-21
@@ -496,8 +503,9 @@ kein App-Store-Zwang solange möglich (30 % Provision vermeiden)
 
 ---
 
-#### LA-19 — Choir Trainer: Abschnittsdefinition & Score-Visualisierung (V1)
+#### LA-19 — Choir Trainer: Abschnittsdefinition & Score-Visualisierung (V1) ✅
 
+**Status** Abgeschlossen
 **Voraussetzungen** LA-18
 **Aufwand** ~2–3 Tage · Risiko: NIEDRIG
 **Output** Nutzer können Abschnitte definieren und im Score sehen
@@ -599,6 +607,122 @@ Neuer Entwickler kann Projekt in <30 min aufsetzen
 
 ---
 
+#### LA-23 — Blockly-Programmierumgebung (Informatik Sek I)
+
+**Voraussetzungen** LA-22 (Projektstruktur stabil) + LA-11 (Sortier/Lückentext-Player)
+**Aufwand** ~7–10 Tage · Risiko: MITTEL (externe Bibliothek, Mobile-Kompatibilität prüfen)
+**Warum** Blockly ist der technologische Differenziator für Informatik Sek I: visuelles
+Programmieren direkt im Browser, kein Install, sofortiges Feedback. Kein Quizlet, kein
+Anki, kein anderes Lerntool bietet das. Zielgruppe Klasse 5–7 (Modul 3 der Pipeline).
+
+**Output** Neues Package `packages/blockly-player` — ein eigenständiger React-Player-Typ:
+- Blockly-Workspace embedded (Google Blockly via npm)
+- Aufgabentypen:
+  - **Puzzle-Modus**: Vorgefertigte Blöcke in richtige Reihenfolge legen (wie Sortier-Player)
+  - **Ergänzungs-Modus**: Lückenhaftes Programm vervollständigen (Parameter, Werte eintragen)
+  - **Freier Modus**: Kleines Programm selbst bauen, Output wird geprüft
+- Mobile-first: Touch-Drag für Blöcke, Pinch-Zoom für Workspace
+- FSRS-Integration: Bewertung nach Puzzle-/Ergänzungsaufgabe automatisch
+
+**Abgrenzung** Kein vollwertiger Code-Editor — Blockly bleibt visuell und spielerisch.
+Python/Text-Programmierung ist LA-∞ (nach Launch). Blockly ist der Einstieg.
+
+**Technologie** Google Blockly (Apache-2.0), React, TypeScript; ggf. Skulpt für Python-Preview
+**Testkriterium** Modul-3-Aufgabe "Schleife bauen" im Puzzle-Modus auf Smartphone lösbar ·
+FSRS-Bewertung korrekt gespeichert · Build-Größe <500 KB Zuwachs
+
+---
+
+#### LA-24a — Redakteur-Tool: MusicXML-Cleaner, Preview & Signing
+
+**Voraussetzungen** LA-22 (Projektstruktur stabil)
+**Aufwand** ~5–7 Tage · Risiko: NIEDRIG
+**Warum** Stücke sind aktuell hardcoded im Build. Vor jeder Erweiterung der Bibliothek braucht der Redakteur ein Werkzeug das MusicXML prüft, bereinigt, hörbar und sichtbar macht — und erst dann signiert. Dieser Schritt ist unabhängig von der Netzwerk-Infrastruktur und sofort nutzbar.
+
+**Vertrauensmodell (Trust Chain)**
+
+Der Root-Redakteur (zunächst: Entwickler) hält ein secp256k1-Keypair — kompatibel mit Nostr. Er kann weitere Peers als Redakteure zulassen, indem er deren Public Key signiert. Zulassung und Entzug werden als signierte Ereignisse publiziert. Clients prüfen bei jedem Stück: *Ist die Signatur von einem aktuell gültigen Redakteur?* — sonst wird das Stück ignoriert.
+
+```
+Root-Redakteur (secp256k1 Keypair)
+  ├── signiert Stücke              → gültig für alle Clients
+  ├── signiert Redakteur-B pubkey  → B wird zugelassen
+  └── signiert Revocation B        → B abgelehnt ab sofort
+```
+
+**Vier Stufen des Redakteur-Flows**
+
+*Stufe 1 — Einlesen & Validieren*
+- Pflichtfelder vorhanden? (Noten, Parts, Tempo, Taktart, Liedtext)
+- Verovio rendert fehlerfrei?
+- Mindest-Notenanzahl (kein leeres oder fragmentiertes Stück)
+- Ergebnis: `OK` / `Warnung (weiter möglich)` / `ABGELEHNT` mit Begründung
+
+*Stufe 2 — Bereinigen (nur wenn nicht abgelehnt)*
+
+| Element | Behandlung |
+|---|---|
+| Noten, Pausen, Takte, Taktart, Tonart | ✅ behalten |
+| Tempo-Markierungen, Probenzeichen | ✅ behalten |
+| Liedtext (Silben unter Noten) | ✅ behalten |
+| Dynamik (p, f, cresc.) | ⚙️ konfigurierbar |
+| Fingersätze, Bogentexte, Editorkommentare | ❌ entfernen |
+| Copyright-Texte im Score, Verlagshinweise | ❌ entfernen |
+| MIDI-Spielanweisungen | ❌ entfernen |
+| Seitenumbrüche, Layout-Hints | ❌ entfernen (Verovio regelt das) |
+
+Tool gibt Bereinigungsbericht aus: was wurde entfernt, was blieb, Vorher/Nachher-Größe.
+
+*Stufe 3 — Preview (visuell + auditiv)*
+- Bereinigtes Stück wird direkt im Choir Trainer geladen (Redakteur-Modus: lokale Datei statt Bibliothek)
+- Redakteur hört und sieht exakt was der Nutzer später bekommt
+- Alle Stimmen einzeln abspielbar, Score-Scroll prüfbar
+- Entscheidung: Freigeben oder Ablehnen (mit Begründung im Log)
+
+*Stufe 4 — Signieren & Paketieren*
+- Metadaten anlegen: Titel, Stimmen, Komponist, Lizenz, Sprache
+- Signatur mit privatem Redakteurs-Key (secp256k1)
+- Output: `{ musicxml, meta, redakteur_pubkey, timestamp, signature }`
+- Paket bereit für LA-24b (Gossip-Verteilung)
+
+**Implementierung**
+- Node.js CLI: `xalento-editor clean input.xml [--output paket.json]`
+- Choir Trainer: URL-Parameter `?local=paket.json` aktiviert Redakteur-Modus (lädt lokale Datei)
+- Keypair-Verwaltung: `xalento-editor keygen`, `xalento-editor trust peer.pubkey`, `xalento-editor revoke peer.pubkey`
+- Alle signierten Redakteur-Zulassungen und Revocations werden lokal als append-only Log gehalten
+
+**Testkriterium**
+- Valides SingOn-Stück durchläuft alle 4 Stufen fehlerfrei
+- Defektes MusicXML wird mit Begründung abgelehnt
+- Bereinigtes Stück klingt und sieht im Choir Trainer korrekt aus
+- Signiertes Paket wird von einem zweiten Gerät als gültig erkannt
+
+---
+
+#### LA-24b — Gossip-Verteilung: P2P-Bibliothek & Redakteurs-Netz
+
+**Voraussetzungen** LA-24a (Redakteur-Tool + Paket-Format stabil) · LA-16 (erste echte Nutzer vorhanden)
+**Aufwand** ~7–10 Tage · Risiko: HOCH (P2P-Protokoll, Nostr-Integration, Offline-Sync)
+**Warum** Sobald mehrere Nutzer oder Redakteure existieren, muss die Stück-Verteilung ohne zentralen Server funktionieren. Jedes Gerät ist Container und Verteiler zugleich.
+
+**Konzept**
+- **Gossip-Verbreitung**: Stück-Pakete (aus LA-24a) verbreiten sich P2P über Nostr-Relay oder direkt. Ein Gerät das ein Paket hat, gibt es weiter — kein zentraler Inhaltsserver nötig.
+- **Signatur-Prüfung client-seitig**: Jedes empfangene Paket wird gegen die bekannte Redakteurs-Trust-Chain geprüft. Ungültige oder revozierte Signaturen werden stillschweigend ignoriert.
+- **Lokale Bibliothek**: Der Nutzer wählt Stücke aus dem verfügbaren Pool und hält sie lokal in Dexie — offline verfügbar nach einmaligem Empfang.
+- **Bibliotheks-Screen**: Neuer Screen vor dem Choir Trainer — Liste verfügbarer Stücke, Stimmenauswahl, Empfangs-Status (neu / lokal vorhanden / Update verfügbar).
+- **Redakteurs-Netz**: Zulassung und Entzug von Redakteuren propagieren über denselben Gossip-Kanal wie Stücke.
+
+**Abgrenzung**
+Kein allgemeines CMS. Kein Upload durch Endnutzer — ausschließlich durch zugelassene Redakteure mit gültigem Keypair. Die initiale Zulassung neuer Redakteure ist ein Out-of-Band-Prozess (Key-Austausch persönlich oder via vertrauenswürdigem Kanal).
+
+**Testkriterium**
+- Neues Stück von Redakteur signiert → erscheint auf zweitem Gerät ohne App-Update
+- Stück mit ungültiger oder revozierter Signatur wird abgelehnt
+- Offline-Nutzung nach einmaligem Empfang funktioniert vollständig
+- Redakteurs-Entzug propagiert und revozierte Stücke werden nicht mehr angezeigt
+
+---
+
 ## 3. Offen / Zurückgestellt
 
 Diese Features sind in DOK-3 beschrieben aber bewusst noch keinem LA zugeordnet
@@ -627,7 +751,9 @@ LA-1 → LA-2 → LA-3 → LA-4
                   ↓       ↓
                  LA-5    LA-14
                   ↓
-              LA-6 → LA-7 → LA-8 → LA-18 → LA-19 → LA-20 → LA-21 → LA-22 → LA-16 → LA-17
+              LA-6 → LA-7 → LA-8 → LA-18 → LA-19 → LA-20 → LA-21 → LA-22 → LA-23 → LA-16 → LA-17
+                                                                                  ↓
+                                                                                LA-24
                                       ↓               ↓
                                     LA-18b           LA-19b
                   ↓
@@ -661,6 +787,11 @@ Parallel startbar nach LA-3: LA-9, LA-10, LA-11, LA-12
 | LA-1 + LA-2: Status → abgeschlossen | Fertiggestellt März 2026 |
 | LA-18–LA-21 neu: Choir Trainer Übungsabschnitte | Konzept April 2026 — Pareto-V1 + V2-Pakete |
 | LA-22 neu: Professionelle Projektstruktur | April 2026 — vor Launch, nach Choir Trainer |
+| LA-23 neu: Blockly-Programmierumgebung | April 2026 — Informatik-Differenziator, nach LA-22 |
+| LA-24a neu: Redakteur-Tool (Cleaner, Preview, Signing) | nach LA-22 — sofort nutzbar für SingOn-Stücke, kein Netzwerk nötig |
+| LA-24b neu: Gossip-Verteilung (P2P-Bibliothek) | nach LA-24a + LA-16 (erste Nutzer) — Nostr-Relay, Trust-Chain, Bibliotheks-Screen |
+| LA-11 erweitert: + Fehler-finden-Player | April 2026 — Debugging als Lernform (Bloom 4) |
+| LA-12 erweitert: Modul 1–5 Kurationsraster | April 2026 — RLP-orientiert, Klasse 5–8 |
 | Offene-Punkte-Tabelle | DOK-3 Offene Punkte strukturiert |
 | LA-4: Willkommen-zurück-Nachricht | ADR April 2026 — Pausen kommunizieren statt bestrafen |
 | LA-15: Inhalts-Heatmap | ADR April 2026 — Inhalt statt Aktivität im Dashboard |
