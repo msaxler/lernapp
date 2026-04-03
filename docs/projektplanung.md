@@ -744,6 +744,74 @@ Kein allgemeines CMS. Kein Upload durch Endnutzer — ausschließlich durch zuge
 
 ---
 
+#### LA-25 — Bibliotheks-Ordnungssystem: Recherche & Konzept
+
+**Voraussetzungen** LA-24a (Paket-Format + Metadaten definiert)
+**Aufwand** Recherche ~2–3 Tage · Konzept ~1–2 Tage · Risiko: NIEDRIG
+**Warum** Bevor das Bibliotheks-UI implementiert wird, muss das Ordnungssystem konzeptionell geklärt sein. Es soll weder zu simpel (nur Ordner) noch zu komplex (beliebige Ontologie) werden — sondern genau das abbilden was Chorsänger und Chorleiter tatsächlich brauchen.
+
+**Ordnungskonzept (Ausgangspunkt)**
+
+Zwei Ordnungsebenen koexistieren gleichzeitig:
+
+*Primäre Hierarchie (kontextabhängig)*
+```
+Repertoire
+  └── Konzert / Anlass ("Weihnachtskonzert 2025", "Jahreshauptversammlung")
+        └── Stück ("In manus tuas", "O magnum mysterium")
+```
+
+*Sekundäre Querschnittsordnung (facettiert)*
+```
+Sammlung / Tag:
+  Epoche:     "14. Jahrhundert" · "Barock" · "Romantik" · "Modern"
+  Komponist:  "Byrd" · "Bach" · "Pärt"
+  Schwierigkeit: "Einsteiger" · "Fortgeschritten" · "Konzertreif"
+  Sprache:    "Latein" · "Deutsch" · "Englisch"
+  Stimme:     "Bass" · "Tenor" · "Sopran" (aus MusicXML)
+  Eigene Tags: frei definierbar durch Nutzer
+```
+
+**Attribut-Quellen und Kontrolle**
+- Redakteur schlägt Metadaten vor (im signierten Paket aus LA-24a)
+- Nutzer kann jeden Vorschlag **übernehmen oder ablehnen** — für sich persönlich
+- Eigene Tags sind immer lokal und privat
+- Standardfelder aus MusicXML (Titel, Komponist, Opus) werden automatisch übernommen
+
+**Recherche-Auftrag: Wie lösen Top-Apps die Bibliotheksfrage?**
+
+Zu untersuchende Apps:
+| App | Plattform | Schwerpunkt |
+|---|---|---|
+| forScore | iOS | Professionelle Notenverwaltung, sehr verbreitet |
+| Mobile Sheets | Android | Breite Nutzerbasis, viele Metadaten-Felder |
+| Piascore | iOS | Einsteigerfreundlich, einfache Kategorisierung |
+| Newzik | iOS/Web | Kollaborativ, Ensemble-orientiert |
+| MusicReader | Multi | Langzeit-etabliert, komplexe Bibliothek |
+| Choral Public Domain Library (CPDL) | Web | Chorspezifisch, Metadaten-Standard |
+| IMSLP | Web | Klassik-Archiv, Kategorisierungstiefe |
+
+Forschungsfragen:
+1. **Hierarchie vs. Tags**: Wie lösen die Apps den Konflikt dass ein Stück in mehreren Konzerten/Sammlungen gleichzeitig sein kann? Strikte Hierarchie, Tags, oder beides?
+2. **Metadaten-Felder**: Welche Felder sind Standard? Was ist Pflicht, was optional?
+3. **Suche & Filter**: Volltext? Facettensuche? Kombinierte Filter?
+4. **MusicXML-Integration**: Werden eingebettete Metadaten (work-title, composer, rights) automatisch übernommen oder ignoriert?
+5. **Nutzer-eigene Attribute**: Können Nutzer eigene Kategorien/Tags anlegen? Wie werden sie von Verlagsmetadaten getrennt?
+6. **Ensemble-/Gruppenkontext**: Kann ein Chorleiter eine Stückliste für eine Gruppe definieren, die Mitglieder dann übernehmen?
+
+**Output des Arbeitspakets**
+- Kurze Analyse der 5–7 untersuchten Apps (je 1 Seite)
+- Vergleichstabelle: Hierarchie · Tags · Suche · MusicXML-Nutzung · Nutzer-Attribute
+- Empfehlung für das Choir-Trainer-Ordnungssystem
+- Entwurf des Metadaten-Schemas für LA-24a (welche Felder im signierten Paket)
+
+**Testkriterium**
+- Jedes SingOn-Stück kann in das empfohlene Schema eingeordnet werden
+- Schema ist erweiterbar ohne Breaking Change
+- Redakteur-Metadaten und Nutzer-eigene Tags sind klar getrennt
+
+---
+
 ## 3. Offen / Zurückgestellt
 
 Diese Features sind in DOK-3 beschrieben aber bewusst noch keinem LA zugeordnet
