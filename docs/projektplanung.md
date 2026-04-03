@@ -849,6 +849,97 @@ Phasen (Hören / Singen) werden getrennt ausgewiesen — ein Stück kann für Ph
 
 ---
 
+#### LA-26 — Bibliotheks-Browser: Filtern, Kombinieren, Session starten
+
+**Voraussetzungen** LA-25 (Attribut-Schema + Defaultsatz festgelegt) · LA-24a (Stücke als signierte Pakete vorhanden)
+**Aufwand** ~7–10 Tage · Risiko: NIEDRIG
+**Warum** Mit wachsender Bibliothek braucht der Nutzer ein Werkzeug um gezielt zu finden was er üben will — nach Konzert, Komponist, Epoche, FSRS-Status oder beliebiger Kombination. Das Muster ist erprobt (Bildviewer-Projekt): n:m-Attributfilter mit sofort sichtbarem Ergebnis.
+
+**Grundprinzip**
+
+Derselbe Ansatz wie der Bildviewer: Attribute anklicken → Ergebnisliste aktualisiert sich sofort. Innerhalb einer Dimension: ODER-Logik. Zwischen Dimensionen: UND-Logik.
+
+```
+[Konzert: Weihnachten 2026] + [Komponist: Byrd] + [Phase: Hören fällig]
+  → zeigt alle Byrd-Stücke im Weihnachtskonzert die in Phase A heute fällig sind
+```
+
+**Layout**
+
+```
+┌─────────────────────────────────────────────────┐
+│ Filter                                  [Reset]  │
+│                                                  │
+│ Konzert      [Weihnachten 2026 ×] [Frühjahr]     │
+│ Komponist    [Byrd ×] [Bach] [Pärt]              │
+│ Epoche       [Renaissance] [Barock] [Modern]     │
+│ Sprache      [Latein] [Deutsch] [Englisch]        │
+│ Phase        [🎧 Hören fällig] [🎤 Singen fällig]│
+│ Fortschritt  [Neu] [In Arbeit] [Gut] [Sehr gut]  │
+├─────────────────────────────────────────────────┤
+│ 4 Stücke  ·  Coverage 3/4  ·  Mastery: Gut  🎧  │
+├─────────────────────────────────────────────────┤
+│ ● In manus tuas · Byrd                          │
+│   🎧 Gut  🎤 Neu   T.1–59                       │
+│                                                  │
+│ ● O magnum mysterium · Byrd                     │
+│   🎧 Gut  🎤 –    T.1–24                        │
+│                                                  │
+│ ● Ave verum · Mozart                            │
+│   🎧 Neu  🎤 –    T.1–32   [neu]                │
+│                                                  │
+│ ● [weiteres Stück …]                            │
+├─────────────────────────────────────────────────┤
+│        ▶  4 Stücke üben — Phase 🎧 Hören        │
+└─────────────────────────────────────────────────┘
+```
+
+**Filter-Dimensionen**
+
+| Dimension | Quelle | Mehrfachauswahl |
+|---|---|---|
+| Konzert / Anlass | Nutzer-Attribut | ja |
+| Chor / Ensemble | Nutzer-Attribut | ja |
+| Komponist | Redakteur-Metadaten (aus MusicXML) | ja |
+| Epoche | Redakteur-Metadaten | ja |
+| Sprache | Redakteur-Metadaten / MusicXML | ja |
+| Schwierigkeit | Redakteur-Metadaten | ja |
+| Stimme | MusicXML automatisch | ja |
+| Phase | 🎧 Hören fällig · 🎤 Singen fällig | ja |
+| FSRS-Fortschritt | Neu · In Arbeit · Gut · Sehr gut | ja |
+| Eigene Tags | Nutzer, lokal privat | ja |
+
+**Gruppen-Header (Ergebnis-Kontext)**
+
+Sobald eine Filterkombination aktiv ist, zeigt der Header:
+- Anzahl Stücke im Ergebnis
+- Coverage: wieviele davon bereits geübt
+- Mastery: Ø FSRS-Status der geübten
+- Getrennt für Phase A (Hören) und Phase B (Singen)
+
+Das ist die FSRS-Gruppen-Aggregation aus LA-25 — direkt sichtbar für jede Filterkombination.
+
+**Session starten**
+
+Der "Üben"-Button startet eine Session mit genau den gefilterten Stücken in der gewählten Phase — in FSRS-Priorität (fälligste zuerst). Der Nutzer kommt direkt in den Choir Trainer, "← Zurück" bringt ihn zurück in den Browser mit denselben aktiven Filtern.
+
+**Attribut-Verwaltung**
+
+Nutzer kann Stücken eigene Attribute zuweisen (Konzert, Tags) — direkt aus dem Browser heraus, per Long-Press oder Bearbeiten-Icon auf dem Stück. Redakteur-Attribute können übernommen oder abgelehnt werden (Flag pro Stück + Attribut: `accepted / rejected / pending`).
+
+**Abgrenzung**
+Kein Metadaten-Editor für MusicXML-Inhalte. Keine Umbenennung von Redakteur-Attributen. Der Browser ist Lese- und Filterwerkzeug — Bearbeitung nur für nutzer-eigene Attribute.
+
+**Testkriterium**
+- Filterkombination [Konzert X] + [Hören fällig] liefert korrekte Ergebnisliste
+- Gruppen-Header zeigt korrekte Coverage + Mastery für aktive Filterkombination
+- Session startet mit gefilterten Stücken in FSRS-Priorität
+- "← Zurück" aus dem Player erhält aktive Filter
+- Eigenes Attribut (Konzert-Zuweisung) wird korrekt gespeichert und filtert korrekt
+- Redakteur-Attribut ablehnen → Stück erscheint nicht mehr unter diesem Attribut
+
+---
+
 ## 3. Offen / Zurückgestellt
 
 Diese Features sind in DOK-3 beschrieben aber bewusst noch keinem LA zugeordnet
@@ -916,6 +1007,8 @@ Parallel startbar nach LA-3: LA-9, LA-10, LA-11, LA-12
 | LA-23 neu: Blockly-Programmierumgebung | April 2026 — Informatik-Differenziator, nach LA-22 |
 | LA-24a neu: Redakteur-Tool (Cleaner, Preview, Signing) | nach LA-22 — sofort nutzbar für SingOn-Stücke, kein Netzwerk nötig |
 | LA-24b neu: Gossip-Verteilung (P2P-Bibliothek) | nach LA-24a + LA-16 (erste Nutzer) — Nostr-Relay, Trust-Chain, Bibliotheks-Screen |
+| LA-25 neu: Bibliotheks-Ordnung — Recherche & Konzept | nach LA-24a — Attribut-Dimensionen, Schema, FSRS-Gruppen-Aggregation |
+| LA-26 neu: Bibliotheks-Browser | nach LA-25 — n:m-Filter, Gruppen-FSRS, Session starten |
 | LA-11 erweitert: + Fehler-finden-Player | April 2026 — Debugging als Lernform (Bloom 4) |
 | LA-12 erweitert: Modul 1–5 Kurationsraster | April 2026 — RLP-orientiert, Klasse 5–8 |
 | Offene-Punkte-Tabelle | DOK-3 Offene Punkte strukturiert |
