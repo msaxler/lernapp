@@ -998,9 +998,18 @@ Platzierungsentscheidung pro Knoten
       das System platziert was netzwerkweit nützlicher ist
 ```
 
-**Regionalisierung** erfolgt grob-granular (Land / Sprachraum) — keine Präzisionsortung. Ein Chorsänger in Bayern bekommt eher Stücke die Chöre in Bayern nachfragen, nicht Stücke die in Norddeutschland üblich sind. Das reduziert Latenzen und verteilt Last organisch.
+**Regionalisierung** erfolgt grob-granular (Land / Bundesland) — keine Präzisionsortung. Ein Chorsänger in Bayern bekommt eher Stücke die Chöre in Bayern nachfragen, nicht Stücke die in Norddeutschland üblich sind. Das reduziert Latenzen und verteilt Last organisch.
 
-**Datenschutz**: Nachfragesignale werden anonym aggregiert — kein Personenbezug, keine Geräte-ID. Nur die Tatsache "dieses Stück wurde X-mal von Knoten in Region Y angefragt" fließt ins Netz.
+**Standort-Einwilligung (opt-in)**
+
+Regionale Verteilung setzt voraus dass der ungefähre Standort des Knotens bekannt ist. Das erfordert eine explizite Zustimmung des Nutzers:
+
+- Beim ersten Start des Gossip-Containers erscheint eine Standortabfrage mit klarer Erklärung: *"Für eine bessere Stückverteilung in deiner Region darf die App deinen ungefähren Standort verwenden. Es wird nur Land und Bundesland gespeichert — keine genaue Position, keine Weitergabe an Dritte."*
+- Der Nutzer kann zustimmen, ablehnen oder später in den Einstellungen ändern.
+- Der Standort wird einmalig abgefragt und lokal als grober Wert gespeichert (Land + Bundesland / Region). Er verlässt das Gerät ausschließlich als anonymes Aggregat-Signal.
+- **Ohne Standort-Einwilligung** funktioniert der Gossip-Container weiterhin — nur ohne regionale Optimierung. Das System fällt auf reine nachfragebasierte Platzierung zurück (globale Häufigkeit statt regionaler Relevanz). Die Funktion ist vollständig, nur weniger präzise.
+
+**Datenschutz**: Standort-Koordinaten werden niemals übertragen. Nur die Zuordnung "Anfrage aus Region Bayern" fließt anonym ins Netz — ohne Geräte-ID, ohne Zeitstempel, ohne Personenbezug.
 
 #### Zusammenspiel beider Container
 

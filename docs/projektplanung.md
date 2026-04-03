@@ -729,6 +729,7 @@ Ein Stück im Gossip-Container aber nicht in der persönlichen Bibliothek kann d
 - **Bibliotheks-Screen**: Drei Bereiche — *Meine Bibliothek* (aktiv geübt) · *Verfügbar lokal* (im Gossip-Container, ein Klick zum Übernehmen) · *Verfügbar im Netz* (bekannt aber nicht lokal, Download nötig). Jeder Eintrag zeigt Titel, Stimmen, Lizenz, Signatur-Status.
 - **Redakteurs-Netz**: Zulassung und Entzug von Redakteuren propagieren über denselben Gossip-Kanal wie Stücke.
 - **Nachfragesignale**: Anonym aggregiert — kein Personenbezug, keine Geräte-ID. Nur Häufigkeit pro Stück pro Region fließt ins Netz.
+- **Standort-Einwilligung (opt-in)**: Regionale Platzierung setzt einen bekannten Knoten-Standort voraus. Beim ersten Start des Gossip-Containers erscheint eine Standortabfrage (Browser Geolocation API). Gespeichert wird nur Land + Bundesland/Region — keine Koordinaten, keine Weitergabe. Ablehnung ist jederzeit möglich; der Container arbeitet dann ohne regionale Optimierung weiter (Fallback: globale Nachfrage).
 
 **Abgrenzung**
 Kein allgemeines CMS. Kein Upload durch Endnutzer — ausschließlich durch zugelassene Redakteure mit gültigem Keypair. Die initiale Zulassung neuer Redakteure ist ein Out-of-Band-Prozess (Key-Austausch persönlich oder via vertrauenswürdigem Kanal).
