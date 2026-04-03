@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>Drive Tool</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Syne:wght@400;700;800&display=swap');
+
+  :root {
+    --bg: #0f0f13;
+    --surface: #1a1a22;
+    --surface2: #22222e;
+    --border: #2e2e3e;
+    --accent: #6ee7b7;
+    --accent2: #818cf8;
+    --text: #e2e8f0;
+    --muted: #64748b;
+    --danger: #f87171;
+    --warning: #fbbf24;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Syne', sans-serif;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* ── HEADER ── */
+  .header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 14px 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .header-left { display: flex; align-items: center; gap: 10px; }
+  .logo {
+    width: 32px; height: 32px;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 16px;
+  }
+  .title { font-size: 18px; font-weight: 800; letter-spacing: -0.5px; }
+  .title span { color: var(--accent); }
+
+  .user-badge {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--muted);
+    background: var(--surface2);
+    padding: 4px 8px;
+    border-radius: 4px;
+    max-width: 140px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  /* ── SCREENS ── */
+  .screen { display: none; padding: 16px; }
+  .screen.active { display: block; }
+
+  /* ── LOGIN ── */
+  .login-wrap {
+    min-height: calc(100vh - 65px);
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    gap: 24px; padding: 32px 16px;
+  }
+  .login-icon {
+    width: 80px; height: 80px;
+    background: linear-gradient(135deg, var(--accent)22, var(--accent2)22);
+    border: 1px solid var(--accent)44;
+    border-radius: 20px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 36px;
+  }
+  .login-title { font-size: 28px; font-weight: 800; text-align: center; }
+  .login-sub { color: var(--muted); text-align: center; font-size: 14px; line-height: 1.6; max-width: 280px; }
+
+  .btn {
+    display: flex; align-items: center; justify-content: center; gap: 8px;
+    padding: 14px 24px; border-radius: 10px;
+    font-family: 'Syne', sans-serif; font-size: 15px; font-weight: 700;
+    cursor: pointer; border: none; transition: all 0.2s; width: 100%; max-width: 300px;
+  }
+  .btn-primary {
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    color: #0f0f13;
+  }
+  .btn-primary:hover { opacity: 0.9; transform: translateY(-1px); }
+  .btn-secondary {
+    background: var(--surface2); color: var(--text);
+    border: 1px solid var(--border);
+  }
+  .btn-danger { background: var(--danger)22; color: var(--danger); border: 1px solid var(--danger)44; }
+  .btn:disabled { opacity: 0.4; cursor: not-allowed; transform: none; }
+
+  /* ── BREADCRUMB ── */
+  .breadcrumb {
+    display: flex; align-items: center; gap: 4px;
+    font-family: 'JetBrains Mono', monospace; font-size: 12px;
+    color: var(--muted); margin-bottom: 16px;
+    overflow-x: auto; white-space: nowrap; padding-bottom: 4px;
+  }
+  .breadcrumb span { color: var(--accent); cursor: pointer; }
+  .breadcrumb span:hover { text-decoration: underline; }
+  .breadcrumb .sep { color: var(--border); }
+
+  /* ── FILE LIST ── */
+  .file-list { display: flex; flex-direction: column; gap: 6px; }
+
+  .file-item {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px 14px;
+    display: flex; align-items: center; gap: 12px;
+    cursor: pointer; transition: all 0.15s;
+  }
+  .file-item:hover, .file-item:active {
+    border-color: var(--accent)66;
+    background: var(--surface2);
+  }
+  .file-icon { font-size: 22px; flex-shrink: 0; }
+  .file-info { flex: 1; min-width: 0; }
+  .file-name {
+    font-size: 14px; font-weight: 700;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  .file-meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px; color: var(--muted); margin-top: 2px;
+  }
+  .file-arrow { color: var(--muted); font-size: 16px; }
+
+  /* ── EDITOR ── */
+  .editor-header {
+    display: flex; align-items: center; gap: 10px; margin-bottom: 16px;
+  }
+  .back-btn {
+    background: var(--surface2); border: 1px solid var(--border);
+    color: var(--text); padding: 8px 12px; border-radius: 8px;
+    font-family: 'Syne', sans-serif; font-size: 13px; font-weight: 700;
+    cursor: pointer;
+  }
+  .file-title-bar {
+    flex: 1; min-width: 0;
+    font-size: 14px; font-weight: 700;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    color: var(--accent);
+  }
+
+  .content-box {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px; line-height: 1.7;
+    color: var(--text);
+    white-space: pre-wrap;
+    word-break: break-word;
+    min-height: 200px;
+    max-height: 50vh;
+    overflow-y: auto;
+    margin-bottom: 12px;
+  }
+
+  .textarea-box {
+    background: var(--surface);
+    border: 1px solid var(--accent)44;
+    border-radius: 10px;
+    padding: 14px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px; line-height: 1.7;
+    color: var(--text);
+    width: 100%; resize: vertical;
+    min-height: 300px;
+    outline: none;
+    margin-bottom: 12px;
+  }
+  .textarea-box:focus { border-color: var(--accent); }
+
+  .action-bar {
+    display: flex; gap: 8px; flex-wrap: wrap;
+  }
+  .action-bar .btn { max-width: none; flex: 1; min-width: 120px; }
+
+  /* ── STATUS ── */
+  .status-bar {
+    position: fixed; bottom: 0; left: 0; right: 0;
+    padding: 10px 16px;
+    font-family: 'JetBrains Mono', monospace; font-size: 12px;
+    display: none; align-items: center; gap: 8px;
+    z-index: 200;
+  }
+  .status-bar.show { display: flex; }
+  .status-bar.info { background: var(--accent2)22; border-top: 1px solid var(--accent2)44; color: var(--accent2); }
+  .status-bar.ok { background: var(--accent)22; border-top: 1px solid var(--accent)44; color: var(--accent); }
+  .status-bar.err { background: var(--danger)22; border-top: 1px solid var(--danger)44; color: var(--danger); }
+
+  .spinner {
+    width: 14px; height: 14px; border: 2px solid currentColor;
+    border-top-color: transparent; border-radius: 50%;
+    animation: spin 0.7s linear infinite; flex-shrink: 0;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .section-label {
+    font-size: 11px; font-weight: 700; letter-spacing: 1px;
+    color: var(--muted); text-transform: uppercase;
+    margin-bottom: 8px; margin-top: 4px;
+  }
+
+  .new-file-row {
+    display: flex; gap: 8px; margin-bottom: 16px;
+  }
+  .input-field {
+    flex: 1; background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px; padding: 10px 12px;
+    color: var(--text); font-family: 'Syne', sans-serif; font-size: 14px;
+    outline: none;
+  }
+  .input-field:focus { border-color: var(--accent); }
+
+  .empty-state {
+    text-align: center; padding: 40px 20px; color: var(--muted);
+  }
+  .empty-state .ei { font-size: 40px; margin-bottom: 12px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-left">
+    <div class="logo">📂</div>
+    <div class="title">Drive<span>Tool</span></div>
+  </div>
+  <div class="user-badge" id="userBadge">nicht angemeldet</div>
+</div>
+
+<!-- LOGIN -->
+<div class="screen active" id="screenLogin">
+  <div class="login-wrap">
+    <div class="login-icon">📂</div>
+    <div class="login-title">Drive Tool</div>
+    <div class="login-sub">Lies und bearbeite Textdateien in deinem Google Drive — direkt vom Smartphone.</div>
+    <button class="btn btn-primary" onclick="signIn()">
+      <span>🔑</span> Mit Google anmelden
+    </button>
+  </div>
+</div>
+
+<!-- BROWSER -->
+<div class="screen" id="screenBrowser">
+  <div class="breadcrumb" id="breadcrumb"></div>
+  <div class="new-file-row">
+    <input class="input-field" id="newFileName" placeholder="neue-datei.md" />
+    <button class="btn btn-secondary" style="max-width:80px;padding:10px" onclick="createNewFile()">＋ Neu</button>
+  </div>
+  <div class="section-label">Inhalt</div>
+  <div class="file-list" id="fileList"></div>
+</div>
+
+<!-- EDITOR -->
+<div class="screen" id="screenEditor">
+  <div class="editor-header">
+    <button class="back-btn" onclick="goBack()">← zurück</button>
+    <div class="file-title-bar" id="editorTitle"></div>
+  </div>
+
+  <div id="viewMode">
+    <div class="section-label">Inhalt (schreibgeschützt)</div>
+    <div class="content-box" id="contentView"></div>
+    <div class="action-bar">
+      <button class="btn btn-primary" onclick="startEdit()">✏️ Bearbeiten</button>
+      <button class="btn btn-secondary" onclick="copyContent()">📋 Kopieren</button>
+    </div>
+  </div>
+
+  <div id="editMode" style="display:none">
+    <div class="section-label">Bearbeiten</div>
+    <textarea class="textarea-box" id="contentEdit"></textarea>
+    <div class="action-bar">
+      <button class="btn btn-primary" onclick="saveFile()">💾 Speichern</button>
+      <button class="btn btn-secondary" onclick="cancelEdit()">Abbrechen</button>
+    </div>
+  </div>
+</div>
+
+<div class="status-bar" id="statusBar">
+  <div class="spinner" id="statusSpinner"></div>
+  <span id="statusText"></span>
+</div>
+
+<script>
+const CLIENT_ID = '748758406598-613k3smgdji7cpp9akgvunfbp6v2q7o8.apps.googleusercontent.com';
+const SCOPES = 'https://www.googleapis.com/auth/drive';
+const TEXT_MIMES = ['text/plain','text/markdown','text/x-markdown','application/json',
+  'text/html','text/css','text/javascript','application/javascript',
+  'text/x-python','text/x-java','text/xml','application/xml'];
+
+let tokenClient, accessToken = null;
+let stack = [{ id: 'root', name: 'Mein Drive' }];
+let currentFile = null;
+
+// ── GOOGLE IDENTITY ──
+function loadGIS() {
+  return new Promise(res => {
+    const s = document.createElement('script');
+    s.src = 'https://accounts.google.com/gsi/client';
+    s.onload = res; document.head.appendChild(s);
+  });
+}
+
+async function signIn() {
+  status('info', 'Lade Google Auth…');
+  await loadGIS();
+  tokenClient = google.accounts.oauth2.initTokenClient({
+    client_id: CLIENT_ID,
+    scope: SCOPES,
+    callback: async (resp) => {
+      if (resp.error) { status('err', 'Anmeldung fehlgeschlagen'); return; }
+      accessToken = resp.access_token;
+      await fetchUserInfo();
+      showScreen('screenBrowser');
+      loadFolder('root');
+      hideStatus();
+    }
+  });
+  tokenClient.requestAccessToken({ prompt: 'consent' });
+}
+
+async function fetchUserInfo() {
+  const r = await fetch('https://www.googleapis.com/oauth2/v2/userinfo',
+    { headers: { Authorization: 'Bearer ' + accessToken } });
+  const d = await r.json();
+  document.getElementById('userBadge').textContent = d.email || 'angemeldet';
+}
+
+// ── DRIVE API ──
+async function driveGet(url) {
+  const r = await fetch(url, { headers: { Authorization: 'Bearer ' + accessToken } });
+  if (!r.ok) throw new Error(await r.text());
+  return r.json();
+}
+
+async function loadFolder(folderId) {
+  status('info', 'Lade Ordner…');
+  const q = encodeURIComponent(`'${folderId}' in parents and trashed=false`);
+  const fields = 'files(id,name,mimeType,modifiedTime,size)';
+  const url = `https://www.googleapis.com/drive/v3/files?q=${q}&fields=${fields}&orderBy=folder,name&pageSize=100`;
+  try {
+    const data = await driveGet(url);
+    renderFileList(data.files || []);
+    hideStatus();
+  } catch(e) {
+    status('err', 'Fehler: ' + e.message);
+  }
+}
+
+function renderFileList(files) {
+  const list = document.getElementById('fileList');
+  // breadcrumb
+  const bc = document.getElementById('breadcrumb');
+  bc.innerHTML = stack.map((s,i) =>
+    i < stack.length-1
+      ? `<span onclick="jumpTo(${i})">${s.name}</span><span class="sep"> / </span>`
+      : `<span style="color:var(--text)">${s.name}</span>`
+  ).join('');
+
+  if (!files.length) {
+    list.innerHTML = '<div class="empty-state"><div class="ei">📭</div>Ordner ist leer</div>';
+    return;
+  }
+  list.innerHTML = '';
+  files.forEach(f => {
+    const isFolder = f.mimeType === 'application/vnd.google-apps.folder';
+    const isText = TEXT_MIMES.includes(f.mimeType) ||
+      /\.(md|txt|json|js|ts|py|html|css|xml|csv|sh|yaml|yml|env|log)$/i.test(f.name);
+    const isGDoc = f.mimeType === 'application/vnd.google-apps.document';
+    const canOpen = isFolder || isText || isGDoc;
+
+    const icon = isFolder ? '📁' : getIcon(f.name, f.mimeType);
+    const modified = f.modifiedTime ? new Date(f.modifiedTime).toLocaleDateString('de-DE') : '';
+    const size = f.size ? formatSize(f.size) : '';
+
+    const div = document.createElement('div');
+    div.className = 'file-item' + (canOpen ? '' : ' opacity-50');
+    div.style.opacity = canOpen ? '1' : '0.5';
+    div.innerHTML = `
+      <div class="file-icon">${icon}</div>
+      <div class="file-info">
+        <div class="file-name">${esc(f.name)}</div>
+        <div class="file-meta">${modified}${size ? ' · ' + size : ''}</div>
+      </div>
+      <div class="file-arrow">${canOpen ? '›' : '—'}</div>`;
+    if (canOpen) div.onclick = () => openItem(f);
+    list.appendChild(div);
+  });
+}
+
+function openItem(f) {
+  if (f.mimeType === 'application/vnd.google-apps.folder') {
+    stack.push({ id: f.id, name: f.name });
+    loadFolder(f.id);
+  } else {
+    openFile(f);
+  }
+}
+
+function jumpTo(idx) {
+  stack = stack.slice(0, idx + 1);
+  loadFolder(stack[stack.length-1].id);
+}
+
+function goBack() {
+  showScreen('screenBrowser');
+  loadFolder(stack[stack.length-1].id);
+}
+
+async function openFile(f) {
+  currentFile = f;
+  showScreen('screenEditor');
+  document.getElementById('editorTitle').textContent = f.name;
+  document.getElementById('viewMode').style.display = 'block';
+  document.getElementById('editMode').style.display = 'none';
+  status('info', 'Lade Datei…');
+
+  try {
+    let text;
+    if (f.mimeType === 'application/vnd.google-apps.document') {
+      const r = await fetch(
+        `https://www.googleapis.com/drive/v3/files/${f.id}/export?mimeType=text/plain`,
+        { headers: { Authorization: 'Bearer ' + accessToken } });
+      text = await r.text();
+    } else {
+      const r = await fetch(
+        `https://www.googleapis.com/drive/v3/files/${f.id}?alt=media`,
+        { headers: { Authorization: 'Bearer ' + accessToken } });
+      text = await r.text();
+    }
+    document.getElementById('contentView').textContent = text;
+    document.getElementById('contentEdit').value = text;
+    hideStatus();
+  } catch(e) {
+    status('err', 'Ladefehler: ' + e.message);
+  }
+}
+
+function startEdit() {
+  document.getElementById('viewMode').style.display = 'none';
+  document.getElementById('editMode').style.display = 'block';
+}
+
+function cancelEdit() {
+  document.getElementById('viewMode').style.display = 'block';
+  document.getElementById('editMode').style.display = 'none';
+}
+
+async function saveFile() {
+  const content = document.getElementById('contentEdit').value;
+  status('info', 'Speichere…');
+  try {
+    const blob = new Blob([content], { type: 'text/plain' });
+    const r = await fetch(
+      `https://www.googleapis.com/upload/drive/v3/files/${currentFile.id}?uploadType=media`,
+      { method: 'PATCH', headers: {
+          Authorization: 'Bearer ' + accessToken,
+          'Content-Type': 'text/plain'
+        }, body: blob });
+    if (!r.ok) throw new Error(await r.text());
+    document.getElementById('contentView').textContent = content;
+    cancelEdit();
+    status('ok', '✓ Gespeichert');
+    setTimeout(hideStatus, 2500);
+  } catch(e) {
+    status('err', 'Speicherfehler: ' + e.message);
+  }
+}
+
+async function createNewFile() {
+  const name = document.getElementById('newFileName').value.trim();
+  if (!name) return;
+  const folderId = stack[stack.length-1].id;
+  status('info', 'Erstelle ' + name + '…');
+  try {
+    const meta = { name, parents: folderId === 'root' ? [] : [folderId] };
+    const r = await fetch('https://www.googleapis.com/drive/v3/files', {
+      method: 'POST',
+      headers: { Authorization: 'Bearer ' + accessToken, 'Content-Type': 'application/json' },
+      body: JSON.stringify(meta)
+    });
+    const f = await r.json();
+    document.getElementById('newFileName').value = '';
+    status('ok', '✓ Datei erstellt');
+    setTimeout(() => { hideStatus(); loadFolder(folderId); }, 1200);
+  } catch(e) {
+    status('err', e.message);
+  }
+}
+
+function copyContent() {
+  const text = document.getElementById('contentView').textContent;
+  navigator.clipboard.writeText(text).then(() => {
+    status('ok', '✓ Kopiert');
+    setTimeout(hideStatus, 1500);
+  });
+}
+
+// ── HELPERS ──
+function showScreen(id) {
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+}
+
+function status(type, msg) {
+  const bar = document.getElementById('statusBar');
+  const spinner = document.getElementById('statusSpinner');
+  bar.className = 'status-bar show ' + type;
+  document.getElementById('statusText').textContent = msg;
+  spinner.style.display = type === 'info' ? 'block' : 'none';
+}
+function hideStatus() {
+  document.getElementById('statusBar').className = 'status-bar';
+}
+
+function esc(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function formatSize(bytes) {
+  if (bytes < 1024) return bytes + ' B';
+  if (bytes < 1048576) return (bytes/1024).toFixed(1) + ' KB';
+  return (bytes/1048576).toFixed(1) + ' MB';
+}
+
+function getIcon(name, mime) {
+  if (/\.md$/i.test(name)) return '📝';
+  if (/\.txt$/i.test(name)) return '📄';
+  if (/\.(js|ts|jsx|tsx)$/i.test(name)) return '⚡';
+  if (/\.py$/i.test(name)) return '🐍';
+  if (/\.json$/i.test(name)) return '{}';
+  if (/\.html?$/i.test(name)) return '🌐';
+  if (/\.(jpg|jpeg|png|gif|svg|webp)$/i.test(name)) return '🖼️';
+  if (/\.pdf$/i.test(name)) return '📕';
+  if (mime && mime.includes('document')) return '📃';
+  return '📄';
+}
+</script>
+</body>
+</html>
