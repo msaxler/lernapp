@@ -750,26 +750,33 @@ Kein allgemeines CMS. Kein Upload durch Endnutzer — ausschließlich durch zuge
 **Aufwand** Recherche ~2–3 Tage · Konzept ~1–2 Tage · Risiko: NIEDRIG
 **Warum** Bevor das Bibliotheks-UI implementiert wird, muss das Ordnungssystem konzeptionell geklärt sein. Es soll weder zu simpel (nur Ordner) noch zu komplex (beliebige Ontologie) werden — sondern genau das abbilden was Chorsänger und Chorleiter tatsächlich brauchen.
 
-**Ordnungskonzept (Ausgangspunkt)**
+**Ordnungskonzept (geklärt)**
 
-Zwei Ordnungsebenen koexistieren gleichzeitig:
+Das Grundprinzip ist bekannt und erprobt — identisch mit dem Bildviewer-Projekt (erstes gemeinsames Projekt): **n:m-Attributsystem**. Kein Hierarchie-Problem, kein Widerspruch.
 
-*Primäre Hierarchie (kontextabhängig)*
 ```
-Repertoire
-  └── Konzert / Anlass ("Weihnachtskonzert 2025", "Jahreshauptversammlung")
-        └── Stück ("In manus tuas", "O magnum mysterium")
+Stück  ←——→  Attribut  (beliebig viele, beliebige Kombination)
+
+"In manus tuas"  →  [Byrd] [16. Jh.] [Weihnachtskonzert 2025] [Latein] [Bass]
+"O magnum"       →  [Pärt] [Modern]  [Weihnachtskonzert 2025] [Latein] [Sopran]
+
+Filter [Weihnachtskonzert 2025]      → beide Stücke
+Filter [Byrd] + [Bass]               → nur "In manus tuas"
+Filter [Latein] + [Modern]           → nur "O magnum"
 ```
 
-*Sekundäre Querschnittsordnung (facettiert)*
+Ein Stück kann in beliebig vielen Konzerten, Epochen, Sammlungen erscheinen — ohne Widerspruch, ohne Hierarchie-Problem. Die "Struktur" ergibt sich aus der Attribut-Kombination. Das Muster ist einfach, erweiterbar und bereits implementiert.
+
+*Attribut-Dimensionen (Defaultsatz — wird durch Recherche verfeinert)*
 ```
-Sammlung / Tag:
-  Epoche:     "14. Jahrhundert" · "Barock" · "Romantik" · "Modern"
-  Komponist:  "Byrd" · "Bach" · "Pärt"
-  Schwierigkeit: "Einsteiger" · "Fortgeschritten" · "Konzertreif"
-  Sprache:    "Latein" · "Deutsch" · "Englisch"
-  Stimme:     "Bass" · "Tenor" · "Sopran" (aus MusicXML)
-  Eigene Tags: frei definierbar durch Nutzer
+Konzert / Anlass:  "Weihnachtskonzert 2025" · "Jahreshauptversammlung"
+Chor / Ensemble:   "SingOn" · "Kammerchor XY"
+Komponist:         "Byrd" · "Bach" · "Pärt"
+Epoche:            "Renaissance" · "Barock" · "Romantik" · "Modern"
+Sprache:           "Latein" · "Deutsch" · "Englisch"
+Schwierigkeit:     "Einsteiger" · "Fortgeschritten" · "Konzertreif"
+Stimme:            aus MusicXML automatisch übernommen
+Eigene Tags:       frei definierbar, lokal privat
 ```
 
 **Attribut-Quellen und Kontrolle**
@@ -791,13 +798,12 @@ Zu untersuchende Apps:
 | Choral Public Domain Library (CPDL) | Web | Chorspezifisch, Metadaten-Standard |
 | IMSLP | Web | Klassik-Archiv, Kategorisierungstiefe |
 
-Forschungsfragen:
-1. **Hierarchie vs. Tags**: Wie lösen die Apps den Konflikt dass ein Stück in mehreren Konzerten/Sammlungen gleichzeitig sein kann? Strikte Hierarchie, Tags, oder beides?
-2. **Metadaten-Felder**: Welche Felder sind Standard? Was ist Pflicht, was optional?
-3. **Suche & Filter**: Volltext? Facettensuche? Kombinierte Filter?
-4. **MusicXML-Integration**: Werden eingebettete Metadaten (work-title, composer, rights) automatisch übernommen oder ignoriert?
-5. **Nutzer-eigene Attribute**: Können Nutzer eigene Kategorien/Tags anlegen? Wie werden sie von Verlagsmetadaten getrennt?
-6. **Ensemble-/Gruppenkontext**: Kann ein Chorleiter eine Stückliste für eine Gruppe definieren, die Mitglieder dann übernehmen?
+Forschungsfragen (fokussiert — Grundprinzip n:m ist geklärt):
+1. **Attribut-Dimensionen**: Welche Kategorien/Dimensionen sind in der Branche Standard? Was fehlt im eigenen Defaultsatz?
+2. **Metadaten-Felder**: Welche Felder sind Pflicht, welche optional? Gibt es Branchenstandards (z.B. Dublin Core, MusicXML-eigene Felder)?
+3. **MusicXML-Integration**: Werden eingebettete Metadaten (work-title, composer, rights, language) automatisch übernommen?
+4. **Nutzer-eigene Attribute**: Können Nutzer eigene Tags anlegen? Wie werden Redakteurs-Attribute von Nutzer-Tags unterschieden?
+5. **Ensemble-/Gruppenkontext**: Kann ein Chorleiter eine Stückliste für eine Gruppe definieren, die Mitglieder dann übernehmen?
 
 **Output des Arbeitspakets**
 - Kurze Analyse der 5–7 untersuchten Apps (je 1 Seite)
