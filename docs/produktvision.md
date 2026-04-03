@@ -16,6 +16,12 @@ Technische Details sind in DOK-1 (Fundament-Technik) dokumentiert.
 
 ---
 
+**Marketing-Aussage (Landing Page — Eröffnungszeile):**
+
+*Ein System das gleichzeitig Chorsänger, Dachdecker-Azubi und Jura-Doktorand mit derselben Infrastruktur bedient — ohne Server, ohne Account, mit Lernfortschritt der dem Nutzer gehört.*
+
+---
+
 ## Teil A — Gemeinsame Leitprinzipien
 
 Beide Apps teilen dieselben Leitprinzipien. Sie sind kein Dekor — sie sind Korrektiv. Wann immer eine Entscheidung schwierig wird, liefern sie die Richtung. Das erste Prinzip ist ein Werteprinzip, die übrigen sind Designprinzipien.
