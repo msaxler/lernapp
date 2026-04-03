@@ -1,6 +1,6 @@
 # Produktvision — QuizAway & Xalento (Lern-App)
 
-*Version 1.1 · April 2026 · DOK-3 v10*
+*Version 1.2 · April 2026 · DOK-3 v11*
 
 Produktvision
 QuizAway & Medien-Lern-App
@@ -9,6 +9,12 @@ Version 1.0 · März 2026 · Konsolidiertes Dokument (DOK-3)
 Dieses Dokument beschreibt die Produktvision beider Projekte aus Nutzerperspektive.
 Es fasst zusammen was die Apps leisten, für wen sie gemacht sind und wie sie sich zueinander verhalten.
 Technische Details sind in DOK-1 (Fundament-Technik) dokumentiert.
+
+---
+
+*Das ist ein sehr reifes Architekturprinzip für ein Projekt das mit einem Chorsänger in Bass 2 angefangen hat.*
+
+---
 
 ## Teil A — Gemeinsame Leitprinzipien
 
@@ -1115,6 +1121,8 @@ Unterschiedliche Fachgebiete erfordern unterschiedliche Methodiken — das ist k
 Diese Infrastruktur trägt den Würfel — sie ist für alle Achsen-Kombinationen identisch.
 
 **Leitfrage für jede neue Erweiterung:** Auf welcher Achse liegt die Änderung — Fachgebiet, Methodik oder Player? Und berührt sie die anderen Achsen? Wenn nein: sauber orthogonal, implementierbar ohne Umbau.
+
+*Das ist ein sehr reifes Architekturprinzip für ein Projekt das mit einem Chorsänger in Bass 2 angefangen hat.*
 
 ## Teil D — QuizAway als erste Spezialisierung der Lern-App
 
