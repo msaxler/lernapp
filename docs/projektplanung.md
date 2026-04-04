@@ -731,6 +731,31 @@ Ein Stück im Gossip-Container aber nicht in der persönlichen Bibliothek kann d
 - **Nachfragesignale**: Anonym aggregiert — kein Personenbezug, keine Geräte-ID. Nur Häufigkeit pro Stück pro Region fließt ins Netz.
 - **Standort-Einwilligung (opt-in)**: Regionale Platzierung setzt einen bekannten Knoten-Standort voraus. Beim ersten Start des Gossip-Containers erscheint eine Standortabfrage (Browser Geolocation API). Gespeichert wird nur Land + Bundesland/Region — keine Koordinaten, keine Weitergabe. Ablehnung ist jederzeit möglich; der Container arbeitet dann ohne regionale Optimierung weiter (Fallback: globale Nachfrage).
 
+**Chorleiter-Rolle (Trust-Chain Erweiterung)**
+
+Die Trust-Chain wird um eine dritte Ebene ergänzt — zwischen Redakteur (signiert Stücke) und Nutzer (übt Stücke):
+
+```
+Root-Redakteur (secp256k1 Keypair)
+  └── signiert Stücke  →  gültig für alle Clients
+
+Chorleiter (secp256k1 Keypair — eigener, unabhängiger Key)
+  └── signiert Setlists  →  gültig für alle Mitglieder die seinen Key abonniert haben
+
+Nutzer
+  └── abonniert Chorleiter-Key  →  empfängt dessen Setlists via Gossip
+```
+
+Wichtige Abgrenzung: Der Chorleiter signiert **Setlists**, nicht Stücke. Die Stücke bleiben unter Redakteurs-Signatur. Der Chorleiter kuratiert lediglich eine geordnete Auswahl aus dem bestehenden Stück-Pool.
+
+*Setlist* (Fahrplan, nicht Regalfach):
+- Geordnete Reihenfolge von Stücken (Runde 1: In manus tuas, Runde 2: O magnum …)
+- Jedes Stück in der Setlist kann Chorleiter-Annotationen tragen (→ LA-28)
+- Mitglieder können eine Setlist mit einem Klick in ihre Bibliothek übernehmen
+- Setlist-Propagation: läuft über denselben Gossip-Kanal wie Stücke
+
+Zulassung: Ein Nutzer abonniert einen Chorleiter-Key manuell (Out-of-Band — Key-Austausch per Messenger, QR-Code oder Direktlink). Kein zentrales Chorleiter-Verzeichnis.
+
 **Abgrenzung**
 Kein allgemeines CMS. Kein Upload durch Endnutzer — ausschließlich durch zugelassene Redakteure mit gültigem Keypair. Die initiale Zulassung neuer Redakteure ist ein Out-of-Band-Prozess (Key-Austausch persönlich oder via vertrauenswürdigem Kanal).
 
@@ -741,6 +766,8 @@ Kein allgemeines CMS. Kein Upload durch Endnutzer — ausschließlich durch zuge
 - Gossip-Container wird automatisch befüllt und bei Kapazitätsüberschreitung korrekt evicted
 - Bibliotheks-Screen zeigt alle drei Bereiche korrekt an
 - Redakteurs-Entzug propagiert und revozierte Stücke werden nicht mehr angezeigt
+- Chorleiter-Setlist erscheint auf Mitglieds-Gerät nach Key-Abonnement
+- Setlist behält Reihenfolge und Annotationen nach Gossip-Übertragung
 
 ---
 
@@ -801,11 +828,33 @@ Stimme:            aus MusicXML automatisch übernommen
 Eigene Tags:       frei definierbar, lokal privat
 ```
 
+**Drei-Ebenen-Attributmodell (Vollbeschreibung → Produktvision C.15)**
+
+Die Attribute eines Stücks kommen aus drei vollständig getrennten Quellen mit unterschiedlicher Reichweite und Autorität:
+
+| Ebene | Quelle | Reichweite | Signatur |
+|---|---|---|---|
+| **Ebene 1 — Redakteur** | Im signierten Paket (LA-24a): Titel, Komponist, Epoche, Sprache, **Tonart**, **Dauer**, Stimmen, Lizenz | Plattformweit · für alle Nutzer sichtbar | secp256k1 (Redakteur-Key) |
+| **Ebene 2 — Chorleiter** | Setlist (geordnet!) · Annotationen (Atemzeichen, Dynamik) | Gruppenlokal · nur für Key-Abonnenten | secp256k1 (Chorleiter-Key, unabhängig) |
+| **Ebene 3 — Nutzer** | Eigene Tags · Konzert-Zuweisung · persönliche Notizen | Gerätlokal · niemals geteilt | keine (nur lokal) |
+
+Neue Metadatenfelder in Ebene 1 (aus MusicXML automatisch ableitbar):
+- **Tonart**: aus `<key>` Element (z.B. "C-Dur", "g-Moll", "Es-Dur") — für Sänger wichtigstes Ordnungskriterium
+- **Dauer**: berechnet aus Tempo-Angabe × Taktzahl (z.B. "3:42 min bei 100 %") — für Session-Planung
+
+*Setlist* ist ein eigenständiges Konzept, kein einfacher Tag:
+- **Geordnet** (Reihenfolge: 1, 2, 3 …) — nicht nur eine Sammlung
+- Erstellt und signiert vom Chorleiter
+- Kann als "Fahrplan" für eine Probe oder ein Konzert dienen
+- Mitglied übernimmt die Setlist mit einem Klick → Stücke landen in Bibliothek in der definierten Reihenfolge
+- Unterschied zu Sammlung/Tag: Eine Sammlung ist ein Regalfach (ungeordnet). Eine Setlist ist ein Fahrplan (geordnet).
+
 **Attribut-Quellen und Kontrolle**
-- Redakteur schlägt Metadaten vor (im signierten Paket aus LA-24a)
-- Nutzer kann jeden Vorschlag **übernehmen oder ablehnen** — für sich persönlich
-- Eigene Tags sind immer lokal und privat
-- Standardfelder aus MusicXML (Titel, Komponist, Opus) werden automatisch übernommen
+- Redakteur schlägt Ebene-1-Metadaten vor (im signierten Paket aus LA-24a)
+- Chorleiter schlägt Ebene-2-Setlists und Annotationen vor — nur an Key-Abonnenten
+- Nutzer kann Ebene-1- und Ebene-2-Vorschläge **übernehmen oder ablehnen** — für sich persönlich
+- Eigene Tags (Ebene 3) sind immer lokal und privat
+- Standardfelder aus MusicXML (Titel, Komponist, Tonart, Dauer) werden automatisch übernommen
 
 **Recherche-Auftrag: Wie lösen Top-Apps die Bibliotheksfrage?**
 
@@ -918,18 +967,37 @@ Derselbe Ansatz wie der Bildviewer: Attribute anklicken → Ergebnisliste aktual
 
 **Filter-Dimensionen**
 
+Die Filterdimensionen folgen dem Drei-Ebenen-Attributmodell aus LA-25:
+
+*Ebene 1 — Redakteur (plattformweit, signiert)*
+| Dimension | Quelle | Mehrfachauswahl |
+|---|---|---|
+| Komponist | Redakteur-Metadaten (aus MusicXML) | ja |
+| Epoche | Redakteur-Metadaten | ja |
+| Sprache | Redakteur-Metadaten / MusicXML | ja |
+| Tonart | MusicXML `<key>` automatisch | ja |
+| Dauer | MusicXML berechnet (Tempo × Takte) | Bereich (0–3 min · 3–7 min · 7+ min) |
+| Schwierigkeit | Redakteur-Metadaten | ja |
+| Stimme | MusicXML automatisch | ja |
+
+*Ebene 2 — Chorleiter (gruppenlokal, signiert)*
+| Dimension | Quelle | Mehrfachauswahl |
+|---|---|---|
+| Setlist | Chorleiter-Setlist (geordnet) | ja — zeigt Reihenfolge in Ergebnisliste |
+| Annotiert | Chorleiter-Annotationen vorhanden (Atemzeichen, Dynamik) | ja |
+
+*Ebene 3 — Nutzer (gerätlokal, privat)*
 | Dimension | Quelle | Mehrfachauswahl |
 |---|---|---|
 | Konzert / Anlass | Nutzer-Attribut | ja |
 | Chor / Ensemble | Nutzer-Attribut | ja |
-| Komponist | Redakteur-Metadaten (aus MusicXML) | ja |
-| Epoche | Redakteur-Metadaten | ja |
-| Sprache | Redakteur-Metadaten / MusicXML | ja |
-| Schwierigkeit | Redakteur-Metadaten | ja |
-| Stimme | MusicXML automatisch | ja |
+| Eigene Tags | Nutzer, lokal privat | ja |
+
+*Lernfortschritt (FSRS — ebenenübergreifend)*
+| Dimension | Quelle | Mehrfachauswahl |
+|---|---|---|
 | Phase | 🎧 Hören fällig · 🎤 Singen fällig | ja |
 | FSRS-Fortschritt | Neu · In Arbeit · Gut · Sehr gut | ja |
-| Eigene Tags | Nutzer, lokal privat | ja |
 
 **Gruppen-Header (Ergebnis-Kontext)**
 
@@ -959,6 +1027,107 @@ Kein Metadaten-Editor für MusicXML-Inhalte. Keine Umbenennung von Redakteur-Att
 - "← Zurück" aus dem Player erhält aktive Filter
 - Eigenes Attribut (Konzert-Zuweisung) wird korrekt gespeichert und filtert korrekt
 - Redakteur-Attribut ablehnen → Stück erscheint nicht mehr unter diesem Attribut
+- Setlist-Anzeige zeigt Reihenfolge (1. In manus tuas · 2. O magnum …)
+- Dauer-Filter begrenzt Ergebnisliste korrekt
+
+---
+
+#### LA-27 — Choir Trainer: Transposition (Tonart per Knopfdruck)
+
+**Voraussetzungen** LA-21 (FSRS stabil) · LA-25 (Tonart als Metadatenfeld)
+**Aufwand** ~3–4 Tage · Risiko: MITTEL (Verovio re-render + Tone.js pitch shift müssen synchron bleiben)
+**Warum** Laut Recherche (Score-Programme-Analyse, April 2026) ist die Transposition das **wichtigste Feature für Sänger** — wichtiger als Tempo, wichtiger als MIDI-Export. Ein Sänger der einen Halbton höher oder tiefer üben will, muss das per Knopfdruck können. Keine andere App bietet das nativ mit Live-Score-Rendering.
+
+**Funktionsumfang**
+
+- **Knopfdruck-Transposition**: ↑ / ↓ Halbtonstufen · Range: −6 bis +6 Halbton
+- **Verovio re-render**: Score wird in der neuen Tonart gerendert (neue Vorzeichen, neues Schlüsselbild) — das ist der Kernvorteil gegenüber simplem Pitch-Shifting
+- **Tone.js pitch shift**: Audio (MIDI-Synthese aus Verovio) klingt in der transponierten Tonart
+- **Persistenz**: Transpositions-Offset wird pro Stück pro Stimme in Dexie gespeichert (`pieceSectionMeta` oder neue Tabelle `piecePlayerSettings`)
+- **Anzeige**: Aktuell eingestellte Tonart sichtbar ("Es-Dur → D-Dur (−1)")
+- **Reset**: Ein Klick zurück zur Originaltonart
+
+**Implementierung**
+
+```
+Verovio-Option: setOption('transpose', 'i-1') // Intervall in Semitonen
+Tone.js:        Synth.set({ detune: -100 })    // cents (100 cents = 1 Halbton)
+```
+
+Beide müssen synchron gesetzt werden wenn der Nutzer transponiert.
+
+**Dexie-Erweiterung**
+
+Neue Tabelle `piecePlayerSettings` (oder Feld in `pieceSectionMeta`):
+```typescript
+interface PiecePlayerSettings {
+  id:             string  // `${pieceId}:${voiceId}:${userId}`
+  transposeSteps: number  // Semitonstufen, Default: 0
+}
+```
+
+**Testkriterium**
+- Transposition um ±1 Halbton: Score zeigt neue Vorzeichen korrekt · Audio klingt transponiert
+- Transposition wird nach App-Neustart beibehalten
+- Reset auf Original funktioniert
+- Synchronität Score/Audio: kein Versatz beim Transponieren während Playback
+
+---
+
+#### LA-28 — Choir Trainer: Chorleiter-Annotationen (Gossip-propagiert)
+
+**Voraussetzungen** LA-24b (Chorleiter-Rolle + Gossip) · LA-27 (Score-Rendering erweitert)
+**Aufwand** ~5–7 Tage · Risiko: MITTEL (Score-Overlay + Gossip-Signing)
+**Warum** Der Chorleiter will nicht nur eine Setlist verteilen — er will seinen Sängern direkt im Score zeigen wo sie Atmen sollen, wo Dynamik gefordert ist und welche Probennotizen er hat. Diese Annotationen propagieren automatisch via Gossip an alle Mitglieder die seinen Key abonniert haben.
+
+**Annotationstypen**
+
+| Typ | Darstellung im Score | Erstellt von |
+|---|---|---|
+| Atemzeichen (`breath`) | `,` über der Notenzeile, taktgenau | Chorleiter |
+| Dynamik (`dynamic`) | `pp` · `p` · `mp` · `mf` · `f` · `ff` · `cresc.` | Chorleiter |
+| Tempoangabe (`tempo`) | Text über dem Takt ("Langsamer ab hier") | Chorleiter |
+| Probennotiz (`rehearsal`) | Gelbe Markierung + Text, aufrufbar per Tap | Chorleiter |
+| Einsatz-Markierung (`cue`) | Roter Punkt an Einsatztakt | Chorleiter |
+
+**Erstellungs-Flow (Chorleiter)**
+
+- Chorleiter aktiviert "Annotierungs-Modus" im Choir Trainer (eigener View-Modus)
+- Long-Press auf Takt im Score → Kontext-Menü: Atemzeichen / Dynamik / Notiz / ...
+- Alle Annotationen eines Stücks werden als signiertes JSON-Paket gebündelt
+- Signatur: Chorleiter-secp256k1-Key
+- Distribution: via Gossip (wie Stücke aus LA-24b) · Empfänger: alle Key-Abonnenten
+
+**Empfangs-Flow (Sänger)**
+
+- Annotation-Paket landet via Gossip auf dem Gerät
+- Signatur-Prüfung: Ist der Chorleiter-Key abonniert und gültig?
+- Bei gültig: Annotationen werden als Overlay in den Score eingeblendet
+- Nutzer kann Annotationen pro Stück ein-/ausblenden (Sichtbarkeits-Toggle)
+- Notizen sind tap-aufklappbar ("🔴 Takt 24 — Einsatz Bass 2 leise!")
+
+**Datenstruktur**
+
+```typescript
+interface ChorleiterAnnotation {
+  id:           string   // UUID
+  pieceId:      string
+  measure:      number   // Takt
+  beat:         number   // Zählzeit (1-basiert)
+  type:         'breath' | 'dynamic' | 'tempo' | 'rehearsal' | 'cue'
+  value:        string   // "mf", "Langsamer", "Einsatz leise!" etc.
+  chorleiterPubkey: string
+  timestamp:    number
+  signature:    string   // secp256k1
+}
+```
+
+**Testkriterium**
+- Chorleiter erstellt Atemzeichen in Takt 8 → erscheint auf Mitglieds-Gerät nach Gossip-Sync
+- Signatur ungültig → Annotation wird ignoriert (kein Fehler, kein Overlay)
+- Sänger blendet Annotationen aus → Score zeigt Original-MusicXML ohne Overlay
+- Mehrere Annotationen desselben Typs im selben Takt möglich
+- Probennotiz per Tap aufklappbar
 
 ---
 
@@ -1029,8 +1198,10 @@ Parallel startbar nach LA-3: LA-9, LA-10, LA-11, LA-12
 | LA-23 neu: Blockly-Programmierumgebung | April 2026 — Informatik-Differenziator, nach LA-22 |
 | LA-24a neu: Redakteur-Tool (Cleaner, Preview, Signing) | nach LA-22 — sofort nutzbar für SingOn-Stücke, kein Netzwerk nötig |
 | LA-24b neu: Gossip-Verteilung (P2P-Bibliothek) | nach LA-24a + LA-16 (erste Nutzer) — Nostr-Relay, Trust-Chain, Bibliotheks-Screen |
-| LA-25 neu: Bibliotheks-Ordnung — Recherche & Konzept | nach LA-24a — Attribut-Dimensionen, Schema, FSRS-Gruppen-Aggregation |
-| LA-26 neu: Bibliotheks-Browser | nach LA-25 — n:m-Filter, Gruppen-FSRS, Session starten |
+| LA-25 neu: Bibliotheks-Ordnung — Recherche & Konzept | nach LA-24a — Drei-Ebenen-Attributmodell, Tonart+Dauer, Setlist als Fahrplan, FSRS-Gruppen-Aggregation |
+| LA-26 neu: Bibliotheks-Browser | nach LA-25 — n:m-Filter alle drei Ebenen, Gruppen-FSRS, Session starten |
+| LA-27 neu: Transposition (Tonart per Knopfdruck) | nach LA-21 — Verovio re-render + Tone.js pitch shift, Hauptfeature-Wunsch Sänger |
+| LA-28 neu: Chorleiter-Annotationen | nach LA-24b + LA-27 — Atemzeichen/Dynamik im Score, Gossip-propagiert, secp256k1-signiert |
 | LA-11 erweitert: + Fehler-finden-Player | April 2026 — Debugging als Lernform (Bloom 4) |
 | LA-12 erweitert: Modul 1–5 Kurationsraster | April 2026 — RLP-orientiert, Klasse 5–8 |
 | Offene-Punkte-Tabelle | DOK-3 Offene Punkte strukturiert |

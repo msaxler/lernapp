@@ -1130,6 +1130,69 @@ Diese Infrastruktur trägt den Würfel — sie ist für alle Achsen-Kombinatione
 
 *Das ist ein sehr reifes Architekturprinzip für ein Projekt das mit einem Chorsänger in Bass 2 angefangen hat.*
 
+### C.15  Drei-Ebenen-Attributmodell — Ordnung ohne Konflikt
+
+Die Attribute eines Lerninhalts kommen aus drei vollständig getrennten Quellen. Jede Ebene hat ihre eigene Reichweite, ihren eigenen Autor und ihre eigene Autorität — keine Ebene überschreibt eine andere.
+
+```
+Ebene 1 — Redakteur
+  Reichweite: Plattformweit (alle Nutzer)
+  Signatur:   secp256k1 (Redakteur-Key, aus LA-24a)
+  Inhalt:     Titel · Komponist · Epoche · Sprache · Stimmen · Lizenz
+              Tonart (aus MusicXML <key>)
+              Dauer  (aus MusicXML Tempo × Takte)
+
+Ebene 2 — Chorleiter
+  Reichweite: Gruppenlokal (nur Key-Abonnenten)
+  Signatur:   secp256k1 (Chorleiter-Key, unabhängig vom Redakteur-Key)
+  Inhalt:     Setlist (geordnete Stückfolge — Fahrplan, kein Regalfach)
+              Annotationen (Atemzeichen, Dynamik, Tempoangaben, Probennotizen)
+
+Ebene 3 — Nutzer
+  Reichweite: Gerätlokal (niemals geteilt)
+  Signatur:   keine
+  Inhalt:     Eigene Tags · Konzert-Zuweisung · persönliche Notizen
+```
+
+**Setlist vs. Sammlung**
+
+Der Unterschied ist konzeptuell wichtig:
+
+| Begriff | Typ | Autor | Reihenfolge |
+|---|---|---|---|
+| Sammlung / Tag | Regalfach (ungeordnet) | Nutzer oder Redakteur | nein |
+| Setlist | Fahrplan (geordnet) | Chorleiter | ja — 1, 2, 3 … |
+
+Ein Chorleiter der seine Gruppe auf ein Konzert vorbereitet, will nicht nur *welche* Stücke geübt werden — er will auch *in welcher Reihenfolge*. Eine Setlist trägt diese Reihenfolge und propagiert sie über Gossip an alle Mitglieder.
+
+**Chorleiter-Rolle in der Trust-Chain**
+
+```
+Root-Redakteur  ──signiert──▶  Stücke      (plattformweit gültig)
+Chorleiter      ──signiert──▶  Setlists    (gruppenlokal gültig)
+Nutzer          ──abonniert──▶ Chorleiter-Key  →  empfängt Setlists via Gossip
+```
+
+Der Chorleiter ist kein Redakteur — er kann keine Stücke hinzufügen oder verändern. Er kuratiert nur eine geordnete Auswahl aus dem bestehenden, redaktionell signierten Stück-Pool.
+
+**Tonart als Metadatenfeld (Recherche-Ergebnis, April 2026)**
+
+Die Transposition — Stücke in eine andere Tonart versetzen — ist laut Recherche (Score-Programme-Analyse) das **meistgefragte Feature für Sänger**, noch vor Temposteuerung. Ein Sänger der eine Quinte tiefer singen will um die Stimme zu schonen, braucht Transposition per Knopfdruck.
+
+Xalento löst das nativ: Verovio re-rendert den Score in der neuen Tonart (neue Vorzeichen, neue Schlüsselbilder), Tone.js verschiebt die Synthese synchron. Das ist kein einfaches Pitch-Shifting — der Sänger sieht die korrekte Notation in seiner Zieltonart.
+
+**Architektur-Konsequenz**
+
+Das Drei-Ebenen-Modell ist für alle Fachgebiete und alle Bildungskontexte einsetzbar:
+
+| Ebene 1 | Ebene 2 | Ebene 3 |
+|---|---|---|
+| Redakteur signiert Lerninhalt | Lehrkraft erstellt Lernpfad für ihre Klasse | Schüler fügt eigene Lernnotizen hinzu |
+| Ausbilder signiert Prüfungsstoff | Meister erstellt Aufgabenfolge für seinen Betrieb | Azubi ordnet Inhalte nach eigenen Kriterien |
+| Komponist / Verlag signiert Noten | Chorleiter erstellt Konzert-Setlist | Sänger pflegt eigene Übe-Tags |
+
+Das Modell skaliert ohne Umbau vom Einzelnutzer bis zur Institution — und behält dabei die lokale Datensouveränität auf jeder Ebene.
+
 ## Teil D — QuizAway als erste Spezialisierung der Lern-App
 
 QuizAway ist kein paralleles Projekt zur Lern-App — es ist ihr erster konkreter Anwendungsfall. Die Lern-App ist die allgemeine Plattform, QuizAway ist die erste Spezialisierung: spielerisches Geo-Lernen. QuizAway wird zuerst fertiggestellt und geht dann in die Lern-App auf.
