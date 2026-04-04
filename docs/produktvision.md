@@ -1395,7 +1395,19 @@ Der Lernende sieht gleichzeitig:
 
 Das System erzwingt nichts — es informiert. Der Lernende entscheidet. Der FSRS-Fortschritt wird unabhängig davon korrekt geplant.
 
-**Designregel:** Modus A (Lernabsicht) ist der Standard-Einstieg — er muss mit einem Knopf startbar sein. Modus B (Suche) ist sekundär — erkennbar erreichbar, aber nicht im Weg.
+#### Bestätigte Navigations-Hierarchie (Designentscheidung)
+
+```
+App öffnen
+  └── Modus A: "Was heute?" — ein Knopf, keine Entscheidung
+        Falls mehrere Domänen vorhanden:
+          └── Domänen-Auswahl (Chor A / Chor B / Mathe / ...) — noch innerhalb Modus A
+  └── Modus B: "Stöbern / Suchen" — bewusste, sekundäre Entscheidung
+```
+
+Modus B ist nie der Einstieg — er ist immer ein Schritt abseits des Hauptwegs. Diese Hierarchie gilt unabhängig vom Kontext (Chor, Schule, Ausbildung) und unabhängig von der Anzahl der Domänen.
+
+**Konsequenz für die Implementierung:** Modus A ist nur dann wirklich ein einziger Knopf, wenn die Domäne eindeutig ist. Bei N Domänen öffnet der Knopf zunächst eine Domänen-Auswahl — aber diese Auswahl gehört noch zu Modus A, nicht zu Modus B. Der Unterschied: Domänen-Auswahl ist eine *Kontextentscheidung* ("welcher Chor / welches Fach"), keine *Inhalts-Entscheidung* ("welches Stück"). Modus B beginnt erst bei der Inhaltssuche.
 
 ## Teil D — QuizAway als erste Spezialisierung der Lern-App
 
