@@ -1306,6 +1306,80 @@ Die Lehrkraft erstellt einmalig ihr Kurator-Keypair (lokal, kein Account), erste
 
 *Das ist der strukturelle Grund warum "ohne Server, ohne Account" keine Marketingphrase ist — sondern eine architektonische Aussage.*
 
+### C.17  Zwei Browsermodi — Suche und Lernabsicht
+
+Der Bibliotheks-Browser hat zwei fundamental verschiedene kognitive Modi. Sie stellen unterschiedliche Fragen, brauchen unterschiedliche Informationen und führen zu unterschiedlichen Aktionen. Beide in einem UI zu mischen erzeugt Überforderung — sie müssen erkennbar getrennt sein.
+
+#### Modus A — "Was übe ich jetzt?" (Lernabsicht)
+
+Der Nutzer öffnet die App mit dem Willen zu üben. Er sucht nicht — er will starten.
+
+- Frage: *Was ist heute fällig? Was bringt mir jetzt am meisten?*
+- Steuert: FSRS (System), Kurator (Tagesauftrag) oder Nutzer (Fachauswahl)
+- Information: Fälligkeit, Priorität, geschätzte Dauer
+- Aktion: Einen Knopf — direkt rein
+
+Dieser Modus ist der **tägliche Einstieg**. Er muss so wenig Entscheidungsaufwand wie möglich erzeugen.
+
+#### Modus B — "Ich suche ein bestimmtes Stück/Thema" (Suche)
+
+Der Nutzer hat ein konkretes Ziel — er sucht etwas Bestimmtes.
+
+- Frage: *Wo ist X? Was gehört zu Konzert Y? Was haben wir in Klasse 7 Mathe gemacht?*
+- Steuert: Nutzer (Filter, Attribute, Sammlung)
+- Information: Metadaten, Zugehörigkeit, FSRS-Status als Zusatzinfo
+- Aktion: Filter → Finden → Starten
+
+Dieser Modus ist der **gezielte Einstieg** — vor einer Probe, vor einer Prüfung, zum Stöbern.
+
+#### Die Mehrdimensionalität des Schülers
+
+Beim Chorsänger gibt es ein Fach (Chormusik) und zwei Phasen (Hören / Singen). "Was üben?" ist einfach: FSRS entscheidet welches Stück dran ist.
+
+Beim Schüler gibt es N Fächer — und er steuert aktiv wann er wechselt. Er lernt nicht in einer globalen Queue sondern geblockt: 20 Minuten Mathe, dann Biologie, dann Englisch. Das erzeugt eine Spannung:
+
+| Was FSRS will | Was der Schüler will |
+|---|---|
+| Optimale Wiederholung unabhängig vom Fach | Kontrolle über den Wechsel |
+| Interleaving (nachweislich effektiver) | Blocked practice (fühlt sich strukturierter an) |
+| Eine globale Queue | *"Jetzt Mathe, dann entscheide ich"* |
+
+Beide Seiten haben recht — das System muss beides ermöglichen.
+
+#### Drei Antwortgeber für "Was üben?"
+
+Die Frage *"Was soll ich als nächstes üben?"* hat drei mögliche Antwortgeber — und alle drei können gleichzeitig existieren:
+
+```
+FSRS allein
+  → optimale Wiederholung, fächerübergreifend
+  → "16 Karten fällig: 5 Mathe · 3 Bio · 8 Englisch"
+  → Karte für Karte, algorithmisch priorisiert
+
+Nutzer allein
+  → Fachauswahl, Zeitgefühl, Eigenverantwortung
+  → "Jetzt 20 Minuten Mathe, dann Bio"
+  → bewusste Entscheidung über Reihenfolge
+
+Kurator (Lehrer / Chorleiter)
+  → Tagesauftrag, Prüfungsvorbereitung, vorgegebene Reihenfolge
+  → "Heute: Mathe Kap. 4 (12 Karten) · Englisch Unit 7 (8 Karten)"
+  → die Setlist als Lernsequenz — exakt dasselbe Muster wie die Chorleiter-Setlist
+```
+
+Der Tagesauftrag des Lehrers ist strukturell identisch mit der Chorleiter-Setlist: ein Kurator definiert eine geordnete Sequenz für eine Gruppe, signiert sie, und die Mitglieder erhalten sie via Gossip. Kein neues Konzept — nur ein neuer Kontext.
+
+#### Koexistenz aller drei Modi
+
+Ein Schüler sieht gleichzeitig:
+- Den Lehrer-Tagesauftrag (*"Frau Müller empfiehlt: Mathe Kap. 4 → Englisch Unit 7"*)
+- Seine fälligen Karten aus allen Fächern (*"16 fällig gesamt"*)
+- Die Möglichkeit abzuweichen (*"Ich will jetzt stattdessen Bio"*)
+
+Das System erzwingt nichts — es informiert. Der Schüler entscheidet. Der FSRS-Fortschritt wird unabhängig davon korrekt geplant.
+
+**Designregel:** Modus A (Lernabsicht) ist der Standard-Einstieg — er muss mit einem Knopf startbar sein. Modus B (Suche) ist sekundär — erkennbar erreichbar, aber nicht im Weg.
+
 ## Teil D — QuizAway als erste Spezialisierung der Lern-App
 
 QuizAway ist kein paralleles Projekt zur Lern-App — es ist ihr erster konkreter Anwendungsfall. Die Lern-App ist die allgemeine Plattform, QuizAway ist die erste Spezialisierung: spielerisches Geo-Lernen. QuizAway wird zuerst fertiggestellt und geht dann in die Lern-App auf.
