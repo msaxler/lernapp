@@ -1193,6 +1193,119 @@ Das Drei-Ebenen-Modell ist für alle Fachgebiete und alle Bildungskontexte einse
 
 Das Modell skaliert ohne Umbau vom Einzelnutzer bis zur Institution — und behält dabei die lokale Datensouveränität auf jeder Ebene.
 
+### C.16  Das generalisierte Drei-Rollen-Modell — die fehlende Schicht
+
+Das Chorleiter-Konzept (C.15) ist kein Musik-Feature. Es beschreibt eine **universelle Architektur-Schicht** die in praktisch allen strukturierten Lernkontexten fehlt — und deren Fehlen der Grund ist, warum bestehende Lernplattformen immer entweder zu unflexibel (zu viel Zentralisierung) oder zu unstrukturiert (zu viel Eigenverantwortung) sind.
+
+#### Die fehlende Schicht in bestehenden Systemen
+
+Alle bekannten Lernplattformen kennen nur zwei Rollen:
+
+```
+Duolingo / Anki:
+  Content-Plattform ──▶ Lernender
+  (kein Lehrer, kein Kurator — Algorithmus entscheidet alles)
+
+Google Classroom / Moodle:
+  Lehrkraft erstellt Inhalte ──▶ Schüler
+  (Lehrkraft ist gleichzeitig Redakteur und Kurator — keine Trennung)
+
+Xalento:
+  Redakteur ──signiert──▶ Inhalte (canon, plattformweit, wiederverwendbar)
+  Kurator   ──signiert──▶ Sequenz + Annotationen (gruppenspezifisch, kein neuer Inhalt)
+  Lernender              Persönliche Ebene (lokal, privat)
+```
+
+**Was fehlt in Google Classroom:** Die Lehrkraft muss Inhalte selbst erstellen oder kopieren — es gibt keinen plattformweit gültigen, vertrauenswürdigen Inhalts-Pool den sie nur noch *kuratiert*. Jede Schule, jede Klasse, jeder Kurs erfindet das Rad neu.
+
+**Was in Xalento anders ist:** Die Lehrkraft erstellt keine Inhalte — sie *kuratiert* aus einem signierten Pool. Ihre Curation (Lernsequenz + Annotationen) ist signiert, verteilt sich ohne Server, und ist für ihre Gruppe sofort offline verfügbar. Der Inhalt bleibt canonical — nur die Kontextualisierung ist gruppenspezifisch.
+
+#### Rollen-Mapping: Chorleiter → Kurator (universell)
+
+| Rolle in Xalento | Chor | Schule | Hochschule | Berufsausbildung | Peer-Lernen |
+|---|---|---|---|---|---|
+| **Redakteur** | Notenverlag · Arrangeur | Lehrmittelverlag · Schulbuch | Fachverlag · Institut | IHK · Kammer · Behörde | Community-Experte |
+| **Kurator** | Chorleiter | Lehrkraft | Dozent · Tutor | Ausbilder · Meister | Gruppen-Moderator |
+| **Lernender** | Sänger | Schüler | Student | Azubi | Mitglied |
+
+Kein Umbau der Architektur — nur andere Bezeichnungen für dieselbe Rolle mit demselben Keypair-Mechanismus.
+
+#### Konzept-Mapping: Setlist → Lernsequenz
+
+Die Setlist ist kein Musik-Konzept. Sie ist ein **geordnetes, kuratiertes Programm** — eine Eigenschaft die in jedem Lernkontext auftaucht:
+
+| Konzept | Chor | Schule | Hochschule | Ausbildung |
+|---|---|---|---|---|
+| **Lerninhalt** | Chorsatz | Aufgabe · Karte · Text | Vorlesungsinhalt | Prüfungsthema |
+| **Setlist** | Konzert-Repertoire | Unterrichtseinheit · Lernpfad | Semesterplan · Klausurthemen | Lernpfad · Prüfungsblock |
+| **Setlist-Eigenschaft** | Reihenfolge für Konzert | Reihenfolge für Stunde/Woche | Reihenfolge für Semester | Reihenfolge für Lehrjahr |
+| **Gruppen-Abonnement** | Chor-Mitglied | Schüler der Klasse | Student des Kurses | Azubi des Betriebs |
+
+Wichtig: Eine Setlist ist ein *Fahrplan* (geordnet, zeitgebunden), kein *Regalfach* (ungeordnet, statisch). Der Kurator entscheidet nicht nur *was* — sondern auch *wann* und *in welcher Reihenfolge*.
+
+#### Annotation-Mapping: Dynamik → Pädagogische Gewichtung
+
+Musikalische Annotationen (Atemzeichen, Dynamik) sind das Spezialvokabular eines allgemeineren Konzepts: der **pädagogischen Gewichtung** durch den Kurator.
+
+| Musikal. Annotation | Pädagogisches Äquivalent | Bedeutung |
+|---|---|---|
+| `,` Atemzeichen | "Hier innehalten — genau lesen" | Fokus erhöhen, nicht überfliegen |
+| `pp` pianissimo | "Optional · Vertiefung" | Nur für Interessierte, nicht prüfungsrelevant |
+| `mp` mezzopiano | "Empfehlenswert" | Nützlich, kein Pflicht |
+| `mf` mezzoforte | "Wichtig" | Standardlernstoff |
+| `f` forte | "Klausurrelevant" | Erhöhte Aufmerksamkeit |
+| `ff` fortissimo | "Prüfungsrelevant — muss sitzen!" | Höchste Priorität |
+| `cresc.` crescendo | "Wird im Verlauf wichtiger" | Steigende Bedeutung |
+| Probennotiz | Lehrerkommentar | Kontextspezifischer Hinweis zur Aufgabe |
+| Einsatz-Markierung | "Hier beginnt neuer Stoff" | Orientierungspunkt im Curriculum |
+
+**Konsequenz für LA-28:** Die Annotationstypen werden von Anfang an generisch implementiert — nicht als Musiksymbole, sondern als semantische Gewichtungen mit optionaler domänenspezifischer Darstellung. Im Choir Trainer erscheinen sie als Musiksymbole. Im Schule-Kontext als Hinweissymbole.
+
+#### Transposition → Schwierigkeitsadaption (allgemeines Prinzip)
+
+Transposition in der Musik: dieselbe Struktur, andere Tonlage — *kein neuer Inhalt, nur eine andere Repräsentation*.
+
+Das Analogon in anderen Fächern ist die **Schwierigkeitsadaption**: derselbe Inhalt in einer anderen Schwierigkeitsstufe oder Repräsentationsform.
+
+| Domäne | Transpositions-Analogon | Mechanismus |
+|---|---|---|
+| Musik | Tonart anpassen | Verovio re-render + Tone.js pitch shift |
+| Sprachenlernen | Niveau anpassen (A1 → B2) | Andere Kartenversion desselben Konzepts |
+| Mathematik | Schwierigkeitsstufe (Grundaufgabe → Transfer → Forschung) | Variante im signierten Paket |
+| Informatik | Abstraktionsebene (visuell → Pseudocode → Code) | Blockly → Text-Modus |
+
+**Architektur-Konsequenz:** Ein signiertes Inhaltspaket kann mehrere Transpositions-Varianten enthalten — der Redakteur liefert sie mit, der Kurator wählt die passende für seine Gruppe, der Nutzer kann in den Einstellungen abweichen. Keine neue Inhaltserstellung, nur vorbereitete Varianz.
+
+#### Das eigentliche Alleinstellungsmerkmal
+
+Die Kombination aus allen drei Schichten macht Xalento zu etwas das kein bestehendes System bietet:
+
+```
+1. Trusted Content Pool
+   Redakteur signiert Inhalte  →  plattformweit gültig, verifizierbar, offline verfügbar
+
+2. Kurator-Schicht (die fehlende Mitte)
+   Kurator signiert Sequenz + Annotationen
+     → gruppenspezifisch, ohne Inhalt zu duplizieren
+     → verteilt via Gossip, kein Server, kein LMS
+     → Schüler/Azubi/Sänger abonniert Kurator-Key → erhält alles automatisch
+
+3. Persönliche Ebene
+   Lernender annotiert lokal
+     → niemals geteilt, kein Datenschutzproblem
+     → FSRS-Fortschritt gehört dem Lernenden
+```
+
+Eine Schule die Xalento nutzt braucht:
+- Keinen Moodle-Server
+- Kein Google-Konto
+- Keine Schul-IT-Infrastruktur
+- Kein App-Store-Account
+
+Die Lehrkraft erstellt einmalig ihr Kurator-Keypair (lokal, kein Account), erstellt Lernsequenzen aus dem signierten Inhaltspool, und ihre Schüler abonnieren ihren Key — fertig. Alles läuft offline, alles ist vertrauenswürdig, alles gehört den Beteiligten.
+
+*Das ist der strukturelle Grund warum "ohne Server, ohne Account" keine Marketingphrase ist — sondern eine architektonische Aussage.*
+
 ## Teil D — QuizAway als erste Spezialisierung der Lern-App
 
 QuizAway ist kein paralleles Projekt zur Lern-App — es ist ihr erster konkreter Anwendungsfall. Die Lern-App ist die allgemeine Plattform, QuizAway ist die erste Spezialisierung: spielerisches Geo-Lernen. QuizAway wird zuerst fertiggestellt und geht dann in die Lern-App auf.

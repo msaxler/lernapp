@@ -799,6 +799,8 @@ FSRS-Gruppen-Status funktioniert auf jeder dieser Ebenen identisch:
 
 Die Konsequenz für das Metadaten-Schema: Es muss von Anfang an inhaltsneutral sein — kein "Komponist"-Pflichtfeld, kein Musik-spezifisches Vokabular. Stattdessen ein generisches Attribut-System mit domänenspezifischen Defaultsätzen (Choir-Defaultsatz, Schule-Defaultsatz, ...) die der Redakteur beim Signieren wählt.
 
+**Generalisierungshinweis (→ Produktvision C.16):** "Chorleiter" und "Setlist" sind choir-spezifische Bezeichnungen für universelle Konzepte: Chorleiter = Kurator, Setlist = Lernsequenz, Chorleiter-Annotation = pädagogische Gewichtung. Die Implementierung erfolgt choir-spezifisch (LA-26–LA-28), die Architektur ist generisch — keine Änderung beim Transfer auf Schule, Hochschule oder Ausbildung.
+
 **Ordnungskonzept (geklärt)**
 
 Das Grundprinzip ist bekannt und erprobt — identisch mit dem Bildviewer-Projekt (erstes gemeinsames Projekt): **n:m-Attributsystem**. Kein Hierarchie-Problem, kein Widerspruch.
@@ -1082,13 +1084,15 @@ interface PiecePlayerSettings {
 
 **Annotationstypen**
 
-| Typ | Darstellung im Score | Erstellt von |
-|---|---|---|
-| Atemzeichen (`breath`) | `,` über der Notenzeile, taktgenau | Chorleiter |
-| Dynamik (`dynamic`) | `pp` · `p` · `mp` · `mf` · `f` · `ff` · `cresc.` | Chorleiter |
-| Tempoangabe (`tempo`) | Text über dem Takt ("Langsamer ab hier") | Chorleiter |
-| Probennotiz (`rehearsal`) | Gelbe Markierung + Text, aufrufbar per Tap | Chorleiter |
-| Einsatz-Markierung (`cue`) | Roter Punkt an Einsatztakt | Chorleiter |
+Die Typen sind generisch (semantische Gewichtung) — die choir-spezifische Darstellung ist nur eine von mehreren möglichen Visualisierungen (→ Produktvision C.16, Annotation-Mapping):
+
+| Typ (generisch) | Darstellung im Choir Trainer | Pädagogisches Äquivalent | Erstellt von |
+|---|---|---|---|
+| `focus` / Atemzeichen | `,` über der Notenzeile, taktgenau | "Hier genau lesen / innehalten" | Kurator |
+| `weight` / Dynamik | `pp` · `mp` · `mf` · `f` · `ff` | Priorität: Optional → Pflicht → Prüfungsrelevant | Kurator |
+| `tempo` / Tempoangabe | Text über dem Takt | "Ab hier Tempo / Thema wechselt" | Kurator |
+| `note` / Probennotiz | Gelbe Markierung + Text | Lehrerkommentar zur Aufgabe | Kurator |
+| `cue` / Einsatz | Roter Punkt an Position | "Hier beginnt neuer Stoff" | Kurator |
 
 **Erstellungs-Flow (Chorleiter)**
 
