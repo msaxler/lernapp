@@ -1332,17 +1332,31 @@ Der Nutzer hat ein konkretes Ziel — er sucht etwas Bestimmtes.
 
 Dieser Modus ist der **gezielte Einstieg** — vor einer Probe, vor einer Prüfung, zum Stöbern.
 
-#### Die Mehrdimensionalität des Schülers
+#### Jeder Lernende hat N Domänen — immer
 
-Beim Chorsänger gibt es ein Fach (Chormusik) und zwei Phasen (Hören / Singen). "Was üben?" ist einfach: FSRS entscheidet welches Stück dran ist.
+Eine frühere Version dieses Abschnitts unterschied zwischen "dem Chorsänger (ein Fach)" und "dem Schüler (N Fächer)". Diese Unterscheidung ist falsch.
 
-Beim Schüler gibt es N Fächer — und er steuert aktiv wann er wechselt. Er lernt nicht in einer globalen Queue sondern geblockt: 20 Minuten Mathe, dann Biologie, dann Englisch. Das erzeugt eine Spannung:
+Ein Sänger der in vier Chören singt hat vier Domänen — jede mit eigenem Chorleiter, eigenem Konzertprogramm, eigener Stilrichtung, eigenem FSRS-Fortschritt. Das Switching-Problem ist identisch mit dem des Schülers:
 
-| Was FSRS will | Was der Schüler will |
+```
+Sänger in 4 Chören:               Schüler in 4 Fächern:
+  Chor A · Chorleiter 1              Fach A · Lehrer 1
+  Chor B · Chorleiter 2              Fach B · Lehrer 2
+  Chor C · Chorleiter 3              Fach C · Lehrer 3
+  Chor D · Chorleiter 4              Fach D · Lehrer 4
+```
+
+Strukturell identisch. Der Kurator ist immer domänenspezifisch. FSRS kennt den Fortschritt in jeder Domäne. Der Lernende steuert wann er wechselt.
+
+Das universelle Modell: **Jeder Lernende hat N Domänen.** Eine Domäne ist jede Einheit mit eigenem Kurator, eigenem Inhaltspool und eigenem FSRS-Fortschritt — ob das ein Chor, ein Schulfach, eine Sprache oder ein Ausbildungsmodul ist.
+
+Das Switching-Problem ist kein Schüler-Problem — es ist das allgemeine Lernenden-Problem. Und es erzeugt in jedem Kontext dieselbe Spannung:
+
+| Was FSRS will | Was der Lernende will |
 |---|---|
-| Optimale Wiederholung unabhängig vom Fach | Kontrolle über den Wechsel |
+| Optimale Wiederholung domänenübergreifend | Kontrolle über den Wechsel |
 | Interleaving (nachweislich effektiver) | Blocked practice (fühlt sich strukturierter an) |
-| Eine globale Queue | *"Jetzt Mathe, dann entscheide ich"* |
+| Eine globale Queue | *"Jetzt Chor B / Mathe, dann entscheide ich"* |
 
 Beide Seiten haben recht — das System muss beides ermöglichen.
 
@@ -1352,31 +1366,34 @@ Die Frage *"Was soll ich als nächstes üben?"* hat drei mögliche Antwortgeber 
 
 ```
 FSRS allein
-  → optimale Wiederholung, fächerübergreifend
-  → "16 Karten fällig: 5 Mathe · 3 Bio · 8 Englisch"
-  → Karte für Karte, algorithmisch priorisiert
+  → optimale Wiederholung, domänenübergreifend
+  → Sänger: "12 fällig: 5 Chor A · 4 Chor B · 3 Chor C"
+  → Schüler: "16 fällig: 5 Mathe · 3 Bio · 8 Englisch"
+  → Inhalt für Inhalt, algorithmisch priorisiert
 
 Nutzer allein
-  → Fachauswahl, Zeitgefühl, Eigenverantwortung
-  → "Jetzt 20 Minuten Mathe, dann Bio"
+  → Domänenwahl, Zeitgefühl, Eigenverantwortung
+  → Sänger: "Jetzt 20 Minuten Chor B, dann entscheide ich"
+  → Schüler: "Jetzt Mathe, dann Bio"
   → bewusste Entscheidung über Reihenfolge
 
-Kurator (Lehrer / Chorleiter)
-  → Tagesauftrag, Prüfungsvorbereitung, vorgegebene Reihenfolge
-  → "Heute: Mathe Kap. 4 (12 Karten) · Englisch Unit 7 (8 Karten)"
-  → die Setlist als Lernsequenz — exakt dasselbe Muster wie die Chorleiter-Setlist
+Kurator (Chorleiter / Lehrer / Ausbilder)
+  → Tagesauftrag, vorgegebene Reihenfolge, Priorität
+  → Chorleiter: "Heute: In manus tuas → O magnum → Ave verum"
+  → Lehrer: "Heute: Mathe Kap. 4 (12 Karten) → Englisch Unit 7 (8 Karten)"
+  → die Setlist als Lernsequenz — in allen Kontexten dasselbe Muster
 ```
 
-Der Tagesauftrag des Lehrers ist strukturell identisch mit der Chorleiter-Setlist: ein Kurator definiert eine geordnete Sequenz für eine Gruppe, signiert sie, und die Mitglieder erhalten sie via Gossip. Kein neues Konzept — nur ein neuer Kontext.
+Der Kurator-Tagesauftrag ist in jedem Kontext strukturell identisch: eine geordnete Sequenz, signiert, via Gossip verteilt, von Mitgliedern abonniert. Kein neues Konzept — nur verschiedene Domänen.
 
-#### Koexistenz aller drei Modi
+#### Koexistenz aller drei Antwortgeber
 
-Ein Schüler sieht gleichzeitig:
-- Den Lehrer-Tagesauftrag (*"Frau Müller empfiehlt: Mathe Kap. 4 → Englisch Unit 7"*)
-- Seine fälligen Karten aus allen Fächern (*"16 fällig gesamt"*)
-- Die Möglichkeit abzuweichen (*"Ich will jetzt stattdessen Bio"*)
+Der Lernende sieht gleichzeitig:
+- Den Kurator-Tagesauftrag (*"Chorleiter A empfiehlt: In manus tuas → O magnum"* / *"Frau Müller: Mathe Kap. 4 → Englisch Unit 7"*)
+- Seine fälligen Inhalte aus allen Domänen (*"12 fällig: Chor A · Chor B · Chor C"* / *"16 fällig: Mathe · Bio · Englisch"*)
+- Die Möglichkeit abzuweichen (*"Ich will jetzt stattdessen Chor C / Bio"*)
 
-Das System erzwingt nichts — es informiert. Der Schüler entscheidet. Der FSRS-Fortschritt wird unabhängig davon korrekt geplant.
+Das System erzwingt nichts — es informiert. Der Lernende entscheidet. Der FSRS-Fortschritt wird unabhängig davon korrekt geplant.
 
 **Designregel:** Modus A (Lernabsicht) ist der Standard-Einstieg — er muss mit einem Knopf startbar sein. Modus B (Suche) ist sekundär — erkennbar erreichbar, aber nicht im Weg.
 
