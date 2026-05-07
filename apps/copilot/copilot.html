@@ -47,7 +47,7 @@ input:focus { outline: none; border-color: #8b5cf6; }
 .err { color: #f87171; font-size: 0.8rem; text-align: center; min-height: 1rem; }
 
 /* ── Main ───────────────────────────────────────── */
-#main { display: none; flex-direction: column; min-height: 100dvh; }
+#main { display: flex; flex-direction: column; min-height: 100dvh; }
 
 header {
   padding: 0.875rem 1.25rem 0.75rem;
@@ -149,20 +149,6 @@ textarea:focus { outline: none; border-color: #8b5cf6; }
 </head>
 <body>
 
-<!-- ── Setup ── -->
-<div id="setup">
-  <div class="setup-logo">🧭</div>
-  <div class="setup-title">Copilot — Setup</div>
-  <div class="setup-hint">
-    Anthropic API Key eingeben.<br>
-    Wird nur im Browser gespeichert — nie übertragen.
-  </div>
-  <input type="password" id="key-in" placeholder="sk-ant-api03-…" autocomplete="off"
-         onkeydown="if(event.key==='Enter') saveKey()">
-  <button class="btn-primary" onclick="saveKey()">Speichern &amp; starten</button>
-  <div id="setup-err" class="err"></div>
-</div>
-
 <!-- ── Main ── -->
 <div id="main">
   <header>
@@ -204,32 +190,11 @@ const PROJ = {
   }
 };
 
-let cur     = 'lernapp';
+let cur      = 'lernapp';
 let statusMd = '';
-let apiKey  = '';
 
 // ── Init ──────────────────────────────────────────────────────────────────
-window.onload = () => {
-  apiKey = localStorage.getItem('copilot_key') || '';
-  if (apiKey) showMain();
-};
-
-function saveKey() {
-  const v = document.getElementById('key-in').value.trim();
-  if (!v.startsWith('sk-ant-')) {
-    document.getElementById('setup-err').textContent = 'Key muss mit sk-ant- beginnen.';
-    return;
-  }
-  localStorage.setItem('copilot_key', v);
-  apiKey = v;
-  showMain();
-}
-
-function showMain() {
-  document.getElementById('setup').style.display = 'none';
-  document.getElementById('main').style.display = 'flex';
-  loadStatus();
-}
+window.onload = () => loadStatus();
 
 // ── Tab-Wechsel ───────────────────────────────────────────────────────────
 function switchProj(id, el) {
@@ -329,12 +294,9 @@ ${statusMd}
 ---`;
 
   try {
-    const res = await fetch('https://api.anthropic.com/v1/messages', {
+    const res = await fetch('/api/copilot', {
       method: 'POST',
       headers: {
-        'x-api-key': apiKey,
-        'anthropic-version': '2023-06-01',
-        'anthropic-dangerous-allow-browser': 'true',
         'content-type': 'application/json'
       },
       body: JSON.stringify({

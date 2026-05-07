@@ -578,6 +578,43 @@ class Handler(BaseHTTPRequestHandler):
                 relay_msgs[sid][fuer].extend(msgs)
             self.send_json(200, {'ok': True}); return
 
+        # POST /api/copilot  { model, max_tokens, system, messages }
+        # Proxy zu Anthropic API — API-Key liegt als Env-Variable auf dem Server
+        if p == '/api/copilot':
+            api_key = os.environ.get('ANTHROPIC_API_KEY', '')
+            if not api_key:
+                self.send_json(500, {'error': 'ANTHROPIC_API_KEY nicht gesetzt'}); return
+            import urllib.error
+            req_body = json.dumps(body).encode()
+            req = urllib.request.Request(
+                'https://api.anthropic.com/v1/messages',
+                data=req_body,
+                headers={
+                    'x-api-key': api_key,
+                    'anthropic-version': '2023-06-01',
+                    'content-type': 'application/json',
+                },
+                method='POST'
+            )
+            try:
+                with urllib.request.urlopen(req, timeout=60) as resp:
+                    resp_body = resp.read()
+                self.send_response(200)
+                self.send_header('Content-Type', 'application/json')
+                self.send_header('Content-Length', len(resp_body))
+                self.send_header('Access-Control-Allow-Origin', '*')
+                self.end_headers()
+                self.wfile.write(resp_body)
+            except urllib.error.HTTPError as e:
+                err_body = e.read()
+                self.send_response(e.code)
+                self.send_header('Content-Type', 'application/json')
+                self.send_header('Content-Length', len(err_body))
+                self.send_header('Access-Control-Allow-Origin', '*')
+                self.end_headers()
+                self.wfile.write(err_body)
+            return
+
         self.send_json(404, {'error': 'Nicht gefunden'})
 
     def do_DELETE(self):
