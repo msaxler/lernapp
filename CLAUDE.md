@@ -34,7 +34,7 @@ Verbindliche Architektur-Referenzen:
 
 LernApp wird über Sync-Tool nach `xcop/lernapp/` gespiegelt. Pre-commit-Hook installiert via:
 ```
-node D:/claude-code/Xalento/tools/sync-to-drive/install-hook.js D:/claude-code/LernApp
+node D:/claude-code/tools/drive-sync/install-hook.js D:/claude-code/LernApp
 ```
 
 Whitelist in `.sync-drive.json`. Bei jedem Doku-Commit auf main: Hook ruft sync.js, geänderte `.md`-Files landen mit Timestamp in Drive (außer STATUS.md = Singleton).
