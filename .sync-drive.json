@@ -2,7 +2,8 @@
   "_doc": "LernApp — Whitelist für Drive-Sync zu xcop/lernapp/. Knotenmodell, Player-Architektur, Lernarchitektur.",
   "include": [
     "docs/**/*.md",
-    "STATUS.md"
+    "STATUS.md",
+    "MOBILE_TODOS.md"
   ],
   "exclude": [
     "**/node_modules/**",
