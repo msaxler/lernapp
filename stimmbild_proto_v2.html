@@ -170,6 +170,7 @@
     box-shadow: 0 4px 16px rgba(30,58,95,0.25);
   }
   .btn-start:hover { background: var(--blue-mid); transform: translateY(-1px); box-shadow: 0 6px 20px rgba(30,58,95,0.35); }
+  .btn-start:active { transform: scale(0.98); box-shadow: 0 2px 8px rgba(30,58,95,0.25); }
   .start-meta {
     margin-top: 20px;
     font-size: 12px;
@@ -236,6 +237,7 @@
   }
   .choice-btn .icon { font-size: 22px; display: block; margin-bottom: 6px; }
   .choice-btn:hover { border-color: var(--blue-mid); background: var(--blue-light); }
+  .choice-btn:active { transform: scale(0.97); }
   .choice-btn.selected-ja { background: var(--green-light); border-color: var(--green); color: var(--green); }
   .choice-btn.selected-neutral { background: var(--amber-light); border-color: var(--amber); color: var(--amber); }
   .choice-btn.selected-nein { background: #fdecea; border-color: var(--accent); color: var(--accent); }
@@ -267,21 +269,23 @@
 
   /* ─── KONTEXT (Drei Ebenen) ─────────────────── */
   .kontext-toggle {
-    background: none;
-    border: 1px solid var(--border);
-    padding: 10px 18px;
+    background: var(--blue-light);
+    border: 2px solid var(--blue-mid);
+    padding: 12px 18px;
     border-radius: 4px;
     cursor: pointer;
     font-family: 'DM Mono', monospace;
     font-size: 12px;
-    color: var(--muted);
+    color: var(--blue);
     width: 100%;
     text-align: left;
     margin-bottom: 12px;
     transition: all 0.15s;
+    font-weight: 500;
   }
-  .kontext-toggle:hover { border-color: var(--blue-mid); color: var(--blue); }
-  .kontext-toggle.open { border-color: var(--blue-mid); color: var(--blue); background: var(--blue-light); }
+  .kontext-toggle:hover { background: #d4e6f5; border-color: var(--blue); }
+  .kontext-toggle:active { background: #c0d8ee; transform: scale(0.99); }
+  .kontext-toggle.open { border-color: var(--blue); color: var(--blue); background: #d4e6f5; }
 
   .kontext-panel {
     display: none;
@@ -310,7 +314,77 @@
   .kontext-label.stud { color: var(--amber); background: var(--amber-light); display: inline-flex; padding: 3px 8px; border-radius: 2px; }
   .kontext-text { font-size: 13.5px; color: var(--ink-soft); line-height: 1.65; }
   .kontext-text .partei { font-weight: 600; }
-  .kontext-quelle { font-family: 'DM Mono', monospace; font-size: 10px; color: var(--muted); margin-top: 6px; }
+  .kontext-quelle {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    color: var(--blue-mid);
+    margin-top: 6px;
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    display: inline-block;
+  }
+  .kontext-quelle:hover { color: var(--blue); }
+  .kontext-quelle:active { opacity: 0.7; }
+
+  /* ─── QUELLEN-MODAL ─────────────────────────── */
+  .quelle-modal-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(28,43,58,0.5);
+    z-index: 200;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  .quelle-modal-overlay.open { display: flex; animation: fadeIn 0.2s ease; }
+  .quelle-modal {
+    background: white;
+    border-radius: 6px;
+    padding: 28px 24px;
+    max-width: 480px;
+    width: 100%;
+    box-shadow: 0 8px 40px rgba(28,43,58,0.25);
+  }
+  .quelle-modal-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 12px;
+  }
+  .quelle-modal-text {
+    font-size: 14px;
+    color: var(--ink);
+    line-height: 1.65;
+    margin-bottom: 20px;
+    white-space: pre-line;
+  }
+  .quelle-modal-sources {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--ink-soft);
+    background: var(--paper-warm);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 12px 14px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+  }
+  .quelle-modal-close {
+    background: var(--blue);
+    color: white;
+    border: none;
+    padding: 10px 24px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'DM Mono', monospace;
+    font-size: 12px;
+    float: right;
+  }
+  .quelle-modal-close:active { opacity: 0.8; }
 
   .unsicherheit-badge {
     display: inline-block;
@@ -325,6 +399,26 @@
     letter-spacing: 0.08em;
   }
 
+  .nav-row {
+    display: flex;
+    gap: 12px;
+    margin-top: 8px;
+  }
+  .btn-back {
+    background: white;
+    color: var(--muted);
+    border: 1px solid var(--border);
+    padding: 14px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Source Serif 4', serif;
+    font-size: 15px;
+    font-weight: 600;
+    transition: all 0.18s;
+    white-space: nowrap;
+  }
+  .btn-back:hover { border-color: var(--blue-mid); color: var(--blue); }
+  .btn-back:disabled { opacity: 0.25; cursor: default; pointer-events: none; }
   .btn-next {
     background: var(--blue);
     color: white;
@@ -335,11 +429,10 @@
     font-family: 'Source Serif 4', serif;
     font-size: 15px;
     font-weight: 600;
-    width: 100%;
+    flex: 1;
     transition: all 0.18s;
-    margin-top: 8px;
   }
-  .btn-next:hover { background: var(--blue); }
+  .btn-next:hover { background: var(--blue-mid); }
   .btn-next:disabled { background: var(--border); color: var(--muted); cursor: default; }
 
   /* ─── ERGEBNIS SCREEN ──────────────────────── */
@@ -476,9 +569,9 @@
       </div>
 
       <div class="drei-ebenen">
-        <div class="ebene-chip fakt"><span class="emoji">📊</span>FAKT</div>
-        <div class="ebene-chip prog"><span class="emoji">📋</span>PROGRAMM</div>
-        <div class="ebene-chip stud"><span class="emoji">🔬</span>STUDIE</div>
+        <div class="ebene-chip fakt"><span class="emoji">📊</span>FAKTEN</div>
+        <div class="ebene-chip prog"><span class="emoji">📋</span>PROGRAMME</div>
+        <div class="ebene-chip stud"><span class="emoji">🔬</span>STUDIEN</div>
       </div>
 
       <button class="btn-start" onclick="startQuiz()">Quiz starten →</button>
@@ -528,9 +621,14 @@
       <!-- wird dynamisch befüllt -->
     </div>
 
-    <button class="btn-next" id="btn-next" onclick="naechste()" disabled>
-      Weiter →
-    </button>
+    <div class="nav-row">
+      <button class="btn-back" id="btn-back" onclick="zurueck()" disabled>
+        ← Zurück
+      </button>
+      <button class="btn-next" id="btn-next" onclick="naechste()" disabled>
+        Weiter →
+      </button>
+    </div>
   </div>
 </div>
 
@@ -557,7 +655,7 @@
     </div>
 
     <div class="disclaimer">
-      <strong>Prototyp · März 2026</strong><br>
+      <strong>Prototyp · Intern · März 2026</strong><br>
       Die Parteipositionen und Daten in diesem Prototyp sind <strong>illustrativ und vereinfacht</strong>. Sie dienen ausschließlich der Demonstration des Konzepts. Die echten Wahlprogramme zur Berliner Abgeordnetenhauswahl 2026 werden voraussichtlich im Mai/Juni 2026 veröffentlicht. StimmBild gibt keine Wahlempfehlung.
     </div>
   </div>
@@ -685,7 +783,7 @@ function zeigeFrage() {
   const t = THESEN[state.index];
   document.getElementById('quiz-counter').textContent = `These ${state.index+1} von ${THESEN.length}`;
   document.getElementById('quiz-thema').textContent = t.thema;
-  document.getElementById('these-number').textContent = `These 0${state.index+1}`;
+  document.getElementById('these-number').textContent = `These ${String(state.index+1).padStart(2,'0')}`;
   document.getElementById('these-text').textContent = t.text;
   updateProgress((state.index / THESEN.length) * 80);
 
@@ -702,6 +800,7 @@ function zeigeFrage() {
   document.getElementById('w-wichtig').classList.add('selected');
   document.getElementById('btn-next').disabled = true;
   document.getElementById('btn-next').textContent = state.index < THESEN.length-1 ? 'Weiter →' : 'Ergebnis anzeigen →';
+  document.getElementById('btn-back').disabled = state.index === 0;
 
   // Kontext zurücksetzen
   const panel = document.getElementById('kontext-panel');
@@ -728,21 +827,27 @@ function befuelleKontext(t) {
     </div>`
   ).join('');
 
+  // Fakt-Quelle aus dem Text extrahieren (endet mit "Quelle: ...")
+  const faktQuelleMatch = k.fakt.match(/Quelle:\s*(.+)$/);
+  const faktQuelle = faktQuelleMatch ? faktQuelleMatch[1] : 'Senatsverwaltung Berlin · destatis';
+  const faktTextOhneQuelle = k.fakt.replace(/\s*Quelle:\s*.+$/, '');
+
   panel.innerHTML = `
     <div class="kontext-block">
       <div class="kontext-label fakt">📊 FAKT</div>
-      <div class="kontext-text">${k.fakt}</div>
+      <div class="kontext-text">${faktTextOhneQuelle}</div>
+      <div class="kontext-quelle" onclick="zeigeQuelle('fakt', '${faktQuelle.replace(/'/g,"\\'")}')">📎 Quelle: ${faktQuelle}</div>
     </div>
     <div class="kontext-block">
       <div class="kontext-label prog">📋 PROGRAMM</div>
       <div class="kontext-text">${parteienHtml}</div>
-      <div class="kontext-quelle">Quelle: Offizielle Wahlprogramme 2026 (Prototyp: vereinfacht/illustrativ)</div>
+      <div class="kontext-quelle" onclick="zeigeQuelle('prog', 'Offizielle Wahlprogramme 2026')">📎 Quelle: Offizielle Wahlprogramme 2026</div>
     </div>
     <div class="kontext-block">
       <div class="kontext-label stud">🔬 STUDIE / FORSCHUNG</div>
       ${k.studie.uneinheitlich ? '<div class="unsicherheit-badge">STUDIENLAGE UNEINHEITLICH</div>' : '<div class="unsicherheit-badge" style="background:#e8f5ec;color:#1a5c2a;border-color:#b8ddc0">WISSENSCHAFTLICHER KONSENS</div>'}
       <div class="kontext-text">${k.studie.text}</div>
-      <div class="kontext-quelle">${k.studie.quelle}</div>
+      <div class="kontext-quelle" onclick="zeigeQuelle('studie', '${k.studie.quelle.replace(/'/g,"\\'")}')">📎 ${k.studie.quelle}</div>
     </div>
   `;
 }
@@ -760,6 +865,23 @@ function gewicht(g) {
   ['wichtig','sehr','egal'].forEach(w => {
     document.getElementById('w-'+w).className = 'weight-btn' + (w===g ? ' selected' : '');
   });
+}
+
+function zeigeQuelle(typ, quelleText) {
+  const hinweise = {
+    fakt: 'Diese Faktenangaben basieren auf amtlichen Statistiken und öffentlichen Berichten.\nIm Prototyp sind sie illustrativ vereinfacht — in der fertigen App erscheint hier die exakte Textstelle mit Seitenzahl.',
+    prog: 'Die Parteipositionen sind direkt aus den offiziellen Wahlprogrammen entnommen. Im Prototyp sind sie illustrativ vereinfacht — in der fertigen App erscheint hier die exakte Textstelle mit Seitenzahl.',
+    studie: 'Die Studienangaben verweisen auf peer-reviewte Forschung und Gutachten unabhängiger Institute. Im weiteren Ausbau erscheint hier der direkte Link zum Originaldokument.'
+  };
+  document.getElementById('quelle-modal-text').textContent = hinweise[typ] || '';
+  document.getElementById('quelle-modal-sources').textContent = quelleText;
+  document.getElementById('quelle-modal-overlay').classList.add('open');
+}
+
+function schliesseQuellenModal(event) {
+  if (!event || event.target === document.getElementById('quelle-modal-overlay')) {
+    document.getElementById('quelle-modal-overlay').classList.remove('open');
+  }
 }
 
 function toggleKontext() {
@@ -841,6 +963,18 @@ function zeigeErgebnis() {
   showScreen('ergebnis');
 }
 
+function zurueck() {
+  if (state.index === 0) return;
+  state.index--;
+  const saved = state.antworten.pop();
+  zeigeFrage();
+  if (saved) {
+    waehle(saved.wahl);
+    gewicht(saved.gewicht);
+    document.getElementById('btn-next').disabled = false;
+  }
+}
+
 function neustart() {
   showScreen('start');
   updateProgress(0);
@@ -857,5 +991,17 @@ function updateProgress(pct) {
   document.getElementById('progress-bar').style.width = pct + '%';
 }
 </script>
+
+<!-- Quellen-Modal – direkt vor </body>, außerhalb aller Screens -->
+<div class="quelle-modal-overlay" id="quelle-modal-overlay" onclick="schliesseQuellenModal(event)">
+  <div class="quelle-modal">
+    <div class="quelle-modal-label">📚 Quellenangabe</div>
+    <div class="quelle-modal-text" id="quelle-modal-text"></div>
+    <div class="quelle-modal-sources" id="quelle-modal-sources"></div>
+    <button class="quelle-modal-close" onclick="schliesseQuellenModal()">Schließen</button>
+    <div style="clear:both"></div>
+  </div>
+</div>
+
 </body>
 </html>

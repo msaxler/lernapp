@@ -1,13 +1,13 @@
 # Choir Trainer — Übungsabschnitte (Konzept v1)
 
-*Stand: April 2026 · Status: Konzept, noch nicht implementiert*
+*Stand: April 2026 · Status: LA-18 abgeschlossen, LA-19 als nächstes*
 
 **Arbeitspakete:** LA-18 · LA-18b · LA-19 · LA-19b · LA-20 · LA-21
 → Details: `docs/projektplanung.md`
 
 | Paket | Inhalt | Aufwand |
 |---|---|---|
-| LA-18 | Toggle-Panel + Dexie-Schema (V1) | ~2 Tage |
+| LA-18 ✅ | Toggle-Panel + Dexie-Schema (V1) | ~2 Tage |
 | LA-18b | Drag + Snap-Points (V2) | ~2 Tage |
 | LA-19 | Taktnummer-Eingabe + taktgenaue Blöcke (V1) | ~2–3 Tage |
 | LA-19b | Long-Press + note-präzise Streifen (V2) | ~3 Tage |
