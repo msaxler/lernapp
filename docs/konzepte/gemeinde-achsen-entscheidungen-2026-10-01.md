@@ -1,4 +1,4 @@
-# Gemeinde-Achsen — Entscheidungen 2026-10-01 (E4–E8)
+# Gemeinde-Achsen — Entscheidungen 2026-10-01 (E4–E10)
 
 **Status:** Ergänzt das Basiskonzept v0.5 und die Iteration-1-Entscheidungen E1–E3 vom 2026-06-28. Bei Abweichung gilt diese Notiz (jünger). **Herkunft:** E4 ist Mikes Aussage im Spielkonzept Reise-Modus §8a; E5–E8 sind seine Entscheide zur PC-Prüfung des Spielkonzepts („alle gemäß den Vorschlägen", Prüfbericht B1, B2, B3, B6, B7).
 
@@ -36,6 +36,22 @@ Zähringen und Günterstal (Freiburg) werden als Entität `ortsteil` der Gemeind
 - Die Schwelle kommt aus dem Feldtest (Kürzel W je Karte über mehrere Personen), nicht aus einer Formel vorab.
 
 ---
+
+## E9 — Bekanntheitsfilter stark abschwächen (Mike, 2026-10-01, nach dem Stufe-2-Volllauf; ersetzt E8 in seiner Strenge)
+
+„Der Bekanntheitsfilter muss stark abgeschwächt werden: man freut sich, wenn man auch mal Glück mit einer Frage hat. Ggf. kann die Frage ja auch leicht modifiziert und ergänzt werden, so dass die Frage nicht mehr ganz so leicht ist (Anzahl der Einwohner, Name der Klinik, die es wirklich gibt – irgendwie so etwas)."
+
+- Bekannte Fakten dürfen die Frage tragen. Der Volllauf hatte Schwarzwaldklinik, Fausts Tod und die Hebungsrisse aus allen Fragen gehalten; die Staufen-Karten wurden dadurch blass.
+- Statt zu sperren: die Frage auf ein weniger bekanntes Detail desselben Fakts richten oder mit einer zweiten Angabe verbinden.
+- Folge: Spielkonzept §8 Nr. 6 und Karten-Prompt Regel 7 werden in der nächsten Fassung neu gefasst. Das Kürzel W im Feldtest bleibt als Messung, ist aber kein Ausschlussgrund.
+
+## E10 — Ziel sieben Fragen je Ort (Mike, 2026-10-01)
+
+„Wenn ein Ort mit einer Frage praktisch erschöpft ist, dann ist das zu wenig, dann müssen zumindest die Klassiker Größe, Kennzeichen e. a. hinzugenommen werden, stärkste Partei – auf jeden Fall gerne auch was Politisches. Ziel sind 7 Fragen je Ort, auch wenn er klein ist. Für größere Orte darf es auch mehr sein."
+
+- Je Ort ein Vorrat von mindestens sieben Karten, gemischt aus Geschichten-Fakten (Schicht 1) und Klassikern aus den Grunddaten (Schicht 0): Einwohner, Kfz-Kennzeichen, Landkreis, Höhe, Fläche, Ersterwähnung, dazu Politik (stärkste Partei, Wahl, Bürgermeister; v0.5 §12).
+- Quellen dafür: Wikidata und amtliche Wahlergebnisse. `data/staedte.json` taugt für Kennzeichen nicht.
+- **Noch zu klären:** ob „sieben Fragen" den Vorrat je Ort meint (so hier gelesen) oder mehrere Fragen hintereinander am selben Ort; das Spielkonzept v0.2.5 §5 sagt „eine Frage pro Ort".
 
 ## Begriffe zwischen den beiden Konzepten
 

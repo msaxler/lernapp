@@ -129,4 +129,11 @@ Geprüft ist die Form. Ob jede falsche Option wirklich falsch ist, steht je Vors
 4. **Zweite Quelle bei dünnen Artikeln:** Dürfen die im Ortsartikel verlinkten Artikel (Burg Zähringen) mitgelesen werden? Vorschlag: ja, wenn der Ortsartikel unter 1.000 Wörtern liegt.
 5. **Familie C:** Nur Zahlen aus den Grunddaten (Einwohner, Höhe, Fläche, Ersterwähnung) zulassen? Vorschlag: ja.
 
+**Mikes Antwort am selben Abend (zwei Vorgaben, als E9 und E10 in `gemeinde-achsen-entscheidungen-2026-10-01.md`):**
+- Zu Punkt 2: Der Bekanntheitsfilter wird stark abgeschwächt. Ein Glückstreffer ist erwünscht; lieber die Frage auf ein Detail legen, als den Fakt zu sperren.
+- Neu: Ziel sind sieben Fragen je Ort, auch für kleine Orte, mit Klassikern (Größe, Kennzeichen) und Politischem (stärkste Partei). Das deckt Punkt 5 mit ab: Zahlen aus den Grunddaten werden ausdrücklich gewollt.
+- Die Punkte 1, 3 und 4 sind noch offen.
+
+Nächster Schritt, in einer neuen Sitzung: Spielkonzept v0.2.6, Grunddaten erweitern (Kennzeichen, Fläche, Wahl), Karten-Prompt v0.5, zweiter Volllauf auf den zehn Zielorten.
+
 *Ende Bericht.*
