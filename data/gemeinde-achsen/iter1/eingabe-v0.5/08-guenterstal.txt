@@ -1,0 +1,2253 @@
+ZIELORT: Günterstal (Ortsteil von Freiburg im Breisgau)
+
+GRUNDDATEN:
+  landkreis: Stadtkreis Freiburg im Breisgau — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P131]
+  bundesland: Baden-Württemberg — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [über die Gemeinde]
+  einwohner: 2165  [Wikidata P1082, Stand 2024]
+  flaeche_km2: 15,1  [Wikidata P2046]
+  dichte_ew_km2: 143  [berechnet aus Einwohner und Fläche]
+  kfz: FR — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P395]
+  hoehe_m: 330 | 345  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2913585)]
+  naechste_grossstadt: Freiburg im Breisgau, 3 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 133 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  eingemeindung: 1890-02-25  [dewiki Infobox]
+  plz: 79100  [Wikidata P281]
+  vorwahl: 0761  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: GRÜNE 30,2 %, CDU 17,9 %, Die Linke 16,9 %, SPD 15,2 %; Wahlbeteiligung 85,7 % — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker Zahl (Größe, Höhe, Alter oder Entfernung), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik (Wahlergebnis; die Angabe gilt für die ganze Stadt), A oder C, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker Zugehörigkeit oder Lage (Kennzeichen, Landkreis, Bahnhof, Großstadt), A, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B nach deiner Wahl, wahre Option an Stelle 1 (bei B: Lüge an Stelle 3)
+
+LETZTER_PIN: Kirchzarten (Gemeinde)
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  einwohner: 10.364  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 21,13  [Wikidata P2046]
+  kfz: FR  [Wikidata P395]
+  hoehe_m: 380 | 376  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2890328)]
+  naechste_grossstadt: Freiburg im Breisgau, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Himmelreich, Bahnhof Kirchzarten  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 29,2 %, GRÜNE 25,7 %, SPD 17 %, AfD 9,2 %; Wahlbeteiligung 89,9 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Umkirch, Gundelfingen, Denzlingen, Zähringen, St. Peter, Glottertal, Kirchzarten, Günterstal, Horben, Staufen
+
+FAKTEN (Zielort Günterstal):
+ENTITÄT: ort
+BEZEICHNUNG: Günterstal
+EIGENSCHAFTEN:
+  ist_stadtteil: true
+  position: südlichster Stadtteil von Freiburg im Breisgau
+  lage: im Bohrer-Tal
+  namensherkunft: Bohrer-Tal nach dem dort ausgeübten Handwerk der Deichel-Bohrer
+  benachbart_zu: Horben (südlich)
+  einwohner: 2200
+  genauigkeit_einwohner: ca.
+  siedlungszaesur: Wonnhaldewiesen (etwa zwei Kilometer breit, trennt von Freiburg)
+  eingemeindung: 1890
+  relevanz_fuer_groesstagradus: Grund, dass sich Freiburg Deutschlands höchstgelegene Großstadt nennen kann (wegen Schauinsland)
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: berg
+BEZEICHNUNG: Schauinsland
+EIGENSCHAFTEN:
+  hoehe: 1284 Meter
+  lage: im Schwarzwald
+  gemarkung: Günterstal
+  bedeutung: ermöglicht Freiburgs Ruhm als Deutschlands höchstgelegene Großstadt
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ENTITÄT: kloster
+BEZEICHNUNG: Zisterzienserinnenabtei Günterstal
+EIGENSCHAFTEN:
+  orden: Zisterzienserinnen
+  erste_erwaehnungsjahr: 804
+  erste_erwaehnung_form: als "Gundherrerhusir" (Häuser des Günther) in der Mark von Merzhausen
+  erneute_erwaehnung_name: Guntheristal (um 1220er Jahre)
+  klosterbestaetigung_jahr: 1224
+  klosterbestaetigung_form: erstmals in Urkunde als "Gunterstal" erwähnt
+  gruenderin: Adelheid
+  gruender_kontext: um 1221 schenkt ein Adeliger (vermutlich Günther von Kibenfels) Gelände
+  besitzungen_1344: 90 Ortschaften (aus Besitzverzeichnis 1344)
+  besitzungen_mundenhof: heutiges städtisches Tiergehege Mundenhof
+  hausanzahl_um_1344: etwa 25 Häuser in der Gemeinde Günterstal
+  ueberflutung_1486: true
+  flucht_vor_schweden_1632: Klosterfrauen flohen zu Kloster Rheinau
+  leibeigenschaft_aufhebung: 1674 unter Äbtissin Agnes von Greuth
+  neubau_entscheidung_jahr: 1727
+  neubau_entscheidung_abtissin: Maria Rosa von Neveu
+  neubau_bauzeit: 1728-1738
+  neubau_abtissin: Maria Franziska Cajetana von Zurthannen
+  neubau_architekt: Peter Thumb
+  neubau_stil: barock
+  brand: 1829 (zerstört Kloster fast vollständig)
+  aufloesungsjahr: 1806
+  aufloesungsbefehl: durch Befehl Napoleons
+  klostergebaeude_erwerber_1812: Freiburger Firma Mez
+  nutzung_nach_1812: Fabrik
+  klostergebaeude_erwerber_1892: Waisenhausstiftung
+  komplexbedeutung: prägt noch heute die Ortsmitte
+GUELTIG_AB: 1221
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: person
+BEZEICHNUNG: Adelheid
+EIGENSCHAFTEN:
+  rolle: Gründerin des Zisterzienserinnenklosters Günterstal
+  herkunft: Tochter eines Adeligen (vermutlich Günther von Kibenfels)
+  handlung_um_1221: erhält Gelände geschenkt, baut klösterliche Anlage
+  gefaehrtinnen: mit ihren Gefährtinnen
+GUELTIG_AB: 1221
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Günther von Kibenfels
+EIGENSCHAFTEN:
+  beschreibung: Adeliger, der um 1221 seiner Tochter Adelheid Gelände in Günterstal schenkt
+  ueberlieferung: Überlieferung aus dem 18. Jahrhundert
+  genauigkeit_ueberlieferung: vermutlich
+  kann_namensgeber_sein: false
+  begruendung_nicht_namensgeber: Name "Günter" tauchte schon sehr viel früher im Ortsnamen auf
+GUELTIG_AB: 1221
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: person
+BEZEICHNUNG: Agnes von Greuth
+EIGENSCHAFTEN:
+  position: Äbtissin
+  handlung_1674: entließ Untertanen des Klosters aus der Leibeigenschaft
+GUELTIG_AB: 1674
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Maria Rosa von Neveu
+EIGENSCHAFTEN:
+  position: Äbtissin
+  handlung_1727: entschied über Neubau des Klostergebäudes
+GUELTIG_AB: 1727
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Maria Franziska Cajetana von Zurthannen
+EIGENSCHAFTEN:
+  position: Äbtissin
+  herkunft: aus dem Schwarzwald
+  charakterisierung: ebenso fromm wie tatkräftig
+  zeitraum_amtszeit: 1728-1738 (Zeit der barocken Klosteranlage)
+GUELTIG_AB: 1728
+GUELTIG_BIS: 1738
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Burg Kibenfels
+EIGENSCHAFTEN:
+  alternativname: Burg Kybfelsen
+  beschreibung: fällt nach Tod des Vaters von Adelheid an die Klostergemeinschaft
+GUELTIG_AB: 1221
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ENTITÄT: religioese_objekt
+BEZEICHNUNG: Heilig-Blut-Reliquie
+EIGENSCHAFTEN:
+  herkunft: Kloster Reichenau
+  verschenkung_jahr: 1737
+  empfaenger: Zisterzienserinnen
+  zustand_heute: noch vorhanden
+GUELTIG_AB: 1737
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: religioese_objekt
+BEZEICHNUNG: Monstranz
+EIGENSCHAFTEN:
+  jahr: 1738
+  herkunft: Klosterkirche
+  zustand_heute: noch vorhanden
+GUELTIG_AB: 1738
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Liebfrauenkirche
+EIGENSCHAFTEN:
+  konfession: katholisch
+  errichtungszeitraum: 1833-1834
+  bauherr: Badische Regierung
+  verwendete_materialien_barock: Teile der barocken Kirchenfassade
+  verwendete_grabsteine: von der letzten Äbtissin und eines Pfarrers
+  grabsteine_ort: an der Außenmauer
+  aeltester_bestandteil: Madonna mit Kind aus dem 14. Jahrhundert (im Eingangsbereich)
+GUELTIG_AB: 1833
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: religioese_objekt
+BEZEICHNUNG: Altarmensa und Tabernakelaufbau
+EIGENSCHAFTEN:
+  herkunft: Kloster Tennenbach
+  kuenstler: Johann Michael Winterhalder (1706-1759)
+  ursprung: aus der 1830 abgebrochenen Kirche des Klosters Tennenbach
+  standort: Liebfrauenkirche Günterstal
+GUELTIG_AB: 1833
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: religioese_objekt
+BEZEICHNUNG: Kreuz an rechter Seitenwand
+EIGENSCHAFTEN:
+  kuenstler: Johann Michael Winterhalder (1706-1759)
+  standort: Liebfrauenkirche Günterstal
+GUELTIG_AB: 1833
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: religioese_objekt
+BEZEICHNUNG: Kanzel
+EIGENSCHAFTEN:
+  kuenstler: Johann Michael Winterhalder (1706-1759)
+  standort: Liebfrauenkirche Günterstal
+GUELTIG_AB: 1833
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: religioese_objekt
+BEZEICHNUNG: Kreuzweg
+EIGENSCHAFTEN:
+  jahr: 1863
+  kuenstler: Wilhelm Dürr den Älteren
+  urspruenglicher_zweck: geschaffen für die Kirche des Collegium Borromäum in Freiburg
+  standort: Liebfrauenkirche Günterstal
+GUELTIG_AB: 1863
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: religioese_objekt
+BEZEICHNUNG: Fensterverglasung
+EIGENSCHAFTEN:
+  werkstatt: Helmle & Merzweiler (Freiburger Werkstatt)
+  farbe: farbig
+  zeitraum_einsatz: 1885-1902
+  standort: Liebfrauenkirche Günterstal
+GUELTIG_AB: 1885
+GUELTIG_BIS: 1902
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: religioese_objekt
+BEZEICHNUNG: Gitter im Altarraum
+EIGENSCHAFTEN:
+  jahr: 1888
+  standort: Liebfrauenkirche Günterstal
+GUELTIG_AB: 1888
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: religioese_objekt
+BEZEICHNUNG: Retabel, Nebenaltäre und Kanzeltreppe
+EIGENSCHAFTEN:
+  renovierung_zeit: 1998-2002
+  verantwortlicher_architekt: Peter Hillenbrand (Architekt des bischöflichen Bauamts)
+  material: Fundstücke verschiedener Herkunft
+  standort: Liebfrauenkirche Günterstal
+GUELTIG_AB: 1998
+GUELTIG_BIS: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Johann Michael Winterhalder
+EIGENSCHAFTEN:
+  geburt: 1706
+  tod: 1759
+  werke: Altarmensa, Tabernakelaufbau, Kreuz, Kanzel in Liebfrauenkirche
+  herkunft_werke: vom Kloster Tennenbach
+GUELTIG_AB: 1706
+GUELTIG_BIS: 1759
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Peter Thumb
+EIGENSCHAFTEN:
+  beruf: Architekt
+  werk: entwarf die barocke Klosteranlage Günterstal (1728-1738)
+GUELTIG_AB: 1728
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Dürr den Älteren
+EIGENSCHAFTEN:
+  beruf: Künstler
+  werk: Kreuzweg (1863) für Collegium Borromäum Freiburg
+  standort: heute in Liebfrauenkirche Günterstal
+GUELTIG_AB: 1863
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Peter Hillenbrand
+EIGENSCHAFTEN:
+  position: Architekt des bischöflichen Bauamts
+  werk: Erneuerung von Retabel, Nebenaltären und Kanzeltreppe (1998-2002)
+  standort: Liebfrauenkirche Günterstal
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Badische Revolution 1848/49 - Gefecht bei Günterstal
+EIGENSCHAFTEN:
+  zeit: 1848/49
+  type: Gefecht während Badischer Revolution
+  ort_haupteinsatz: Günterstal als Schauplatz eines tragischen Gefechts
+  operationsbasis_gegner: Horben (Operationsbasis Franz Sigels)
+  kommandeur_freischärler: Gustav von Struve
+  staerke_freischärler: 400 Mann
+  gegenseite: badische Truppen
+  treffer_freischärler: Hermann Mors (Student aus Freiburg) berichtet von Freiburgs Unterstützung (22. April 1848)
+  befehlswidrigkeit: Struve rückte entgegen ausdrücklichem Befehl Sigels vor
+  ort_gefecht: Talausgang beim heutigen Sternwaldeck
+  hoffnung_struve: Überlaufen der badischen Soldaten
+  ergebnis: Hoffnung trügt, Gefecht kurz, Freischärler werden in Flucht geschlagen und bis hinter Günterstal verfolgt
+  verluste_freischärler: etwa 20
+  verluste_badische_truppen: drei Soldaten
+GUELTIG_AB: 1848
+GUELTIG_BIS: 1849
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Denkmal am Jägerbrunnen
+EIGENSCHAFTEN:
+  anlass: Gefecht bei Günterstal 1848/49
+  gewidmet: zwei gefallenen badischen Soldaten
+  setzer: Kameraden der Soldaten
+  zustand_heute: noch vorhanden
+GUELTIG_AB: 1848
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: person
+BEZEICHNUNG: Gustav von Struve
+EIGENSCHAFTEN:
+  position: Freischärler
+  zeit_aktivitaet: Badische Revolution 1848/49
+  aktion: rückte mit 400 Mann über Günterstal vor
+  befehlshaber_auftrag: unter Befehl von Franz Sigel
+  befehlswidrigkeit: entgegen ausdrücklichem Befehl
+GUELTIG_AB: 1848
+GUELTIG_BIS: 1849
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: person
+BEZEICHNUNG: Hermann Mors
+EIGENSCHAFTEN:
+  beruf: Student
+  herkunft: Freiburg
+  aktion_1848: traf Gustav von Struve mit einer Abordnung aus Freiburg
+  nachricht: berichtete, dass sich Freiburg am 22. April 1848 auf die Seite der Aufständischen geschlagen hatte
+GUELTIG_AB: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Franz Sigel
+EIGENSCHAFTEN:
+  rolle: Befehlshaber von Freischären (Badische Revolution 1848/49)
+  operationsbasis: Nachbarort Horben
+  befehl_struve: ausdrücklicher Befehl an Struve (nicht vorzurücken)
+GUELTIG_AB: 1848
+GUELTIG_BIS: 1849
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Villa Wohlgemuth
+EIGENSCHAFTEN:
+  besitzer: August Wohlgemuth (Oberamtsrichter in Müllheim)
+  bauzeit: 1906-1913
+  stil: toskanisch
+  location: nordwestlicher Ortseingang
+  charakterisierung: exponierte Lage
+  aenderung_1927: 1927 von Benediktinerinnen von der heiligen Lioba übernommen
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: August Wohlgemuth
+EIGENSCHAFTEN:
+  position: Oberamtsrichter in Müllheim
+  werk: Villa Wohlgemuth (1906-1913)
+GUELTIG_AB: 1906
+GUELTIG_BIS: 1913
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster St. Lioba
+EIGENSCHAFTEN:
+  order: Benediktinerinnen
+  uebernahme_gebaeude: 1927
+  gebaeude_vorher: Villa Wohlgemuth
+  gruenderin: Maria Föhrenbach (1883-1961)
+  mitbegruenderin: Hildegardis Wulff (1896-1961)
+  abteilung_kategorie: Frauenorden der Benediktinerinnen OSB von der Heiligen Lioba
+GUELTIG_AB: 1927
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: person
+BEZEICHNUNG: Maria Föhrenbach
+EIGENSCHAFTEN:
+  geburt: 1883
+  tod: 1961
+  position: Gründerin des Frauenordens der Benediktinerinnen OSB von der Heiligen Lioba
+  beerdigung: auf dem Klosterfriedhof der Benediktinerinnen der Heiligen Lioba
+GUELTIG_AB: 1883
+GUELTIG_BIS: 1961
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Hildegardis Wulff
+EIGENSCHAFTEN:
+  geburt: 1896
+  tod: 1961
+  position: Mitbegründerin des Frauenordens der Benediktinerinnen OSB von der Heiligen Lioba
+  beerdigung: auf dem Klosterfriedhof der Benediktinerinnen der Heiligen Lioba
+GUELTIG_AB: 1896
+GUELTIG_BIS: 1961
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Waldhaus
+EIGENSCHAFTEN:
+  eroeffnung: Herbst 2008
+  lage: an der Wonnhalde
+  traegerschaft: gemeinnützige Stiftung
+  funktion_zielgruppe: Schulklassen und Allgemeinheit
+  ziel_sensibilisierung: Ökosystem Wald
+  ziel_werbung: nachhaltige Forstwirtschaft
+  angebote: Wechselausstellungen
+  cafe_vorhanden: true
+  cafe_oeffnungszeiten: Sonntag und Feiertage
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Forstamt Neubau
+EIGENSCHAFTEN:
+  spatenstich: Ende 2020
+  bauherr: Stiftung Waldhaus
+  baustoff: Holz
+  geschosse: viergeschossig
+  umzugsquelle: Günterstalstraße 71
+  umzugsziel: neue Lage an der Wonnhalde
+  umzugsdatum: September 2022
+  baukosten: 2,1 Millionen Euro
+  genauigkeit_kosten: ca.
+  erweiterung: Erweiterung des Waldhauses
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: organisation
+BEZEICHNUNG: Forstliche Versuchs- und Forschungsanstalt Baden-Württemberg
+EIGENSCHAFTEN:
+  standort: im angrenzenden Stadtteil Wiehre
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Straßenbahn Linie 2
+EIGENSCHAFTEN:
+  betreiber: Freiburger Verkehrs AG
+  betriebsbeginn: 1901
+  liniennummer: 2
+  verbindung: mit Innenstadt Freiburgs
+  schienenverlauf: neben der Schauinslandstraße
+  haltestellen: Wiesenweg, Klosterplatz, Dorfstraße (Endhaltestelle)
+  haltestelle_besonderheit: Dorfstraße war bis Ende 2014 die südlichste Deutschlands
+  haltestelle_besonderheit_aktuell: seit 2015 nur noch südlichste Straßenbahnhaltestelle eines deutschen Verkehrsunternehmens (Superlativ)
+  aenderung_dezember_2014: Verlängerung der grenzüberschreitenden Linie 8 der Basler Straßenbahn nach Weil am Rhein
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Buslinie 21
+EIGENSCHAFTEN:
+  startpunkt: Straßenbahn-Endhaltestelle Dorfstraße
+  ziel_tagsüber: via Talstation der Schauinslandbahn nach Horben
+  takt_talstation: alle 15-20 Minuten
+  takt_weiterfahrt_berg: stündlich
+  zusatzverbindungen_mehrmals_woche: bis Munzinger Straße im Industriegebiet Haid
+  zusatzverbindungen_wochentags: einmal täglich nach Herdern
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Frelo-Fahrradverleihstation
+EIGENSCHAFTEN:
+  typ: Fahrradverleihsystem
+  standort: in Günterstal
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Radweg (Schauinslandstraße)
+EIGENSCHAFTEN:
+  verbindung: zwischen Günterstal und Wiehre (Holbeinstraße)
+  lage_entlang: Schauinslandstraße
+  beidseitig: beidseitig
+  typ_teil: gemeinsamer Fuß- und Radweg (im überwiegenden Teil)
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Schauinslandradweg
+EIGENSCHAFTEN:
+  beschreibung: Radweg um den Schauinsland
+  route: über Schauinslandstraße, Kirchzarten und Oberried
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Mitfahrbänke
+EIGENSCHAFTEN:
+  anzahl: zwei
+  inbetriebnahme: seit 2019
+  standort_1: an der Endhaltestelle der Straßenbahnlinie
+  richtung_1: nach Horben
+  standort_2: am südlichen Ortseingang
+  richtung_2: Richtung Stadtmitte
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Günterstäler Tor
+EIGENSCHAFTEN:
+  beschreibung: ehemals Eingang in den Klosterbereich
+  standort: Unterdorf
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Matthias-Claudius-Kapelle
+EIGENSCHAFTEN:
+  konfession_ursprünglich: evangelisch
+  entwidmung_datum: 2026
+  standort: Unterdorf
+GUELTIG_AB: null
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Schulhaus
+EIGENSCHAFTEN:
+  ursprüngliche_funktion: Schulhaus
+  heutige_funktion: Sonderpädagogisches Bildungs- und Beratungszentrum mit Förderschwerpunkt geistige Entwicklung
+  zusatzanlage: Mehrzweckhalle
+  standort: Unterdorf
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kindertagesstätte
+EIGENSCHAFTEN:
+  standort: Günterstal
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gasthof Kybfelsen
+EIGENSCHAFTEN:
+  standort: Unterdorf
+  besonderheit: Gedenktafel an Edith Stein (die dort oft eingekehrt ist)
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Café am Klosterplatz
+EIGENSCHAFTEN:
+  eroeffnung: September 2026
+  standort: Klosterplatz
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Tankstelle
+EIGENSCHAFTEN:
+  standort: Günterstal
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kinderspielplatz mit Grillstelle
+EIGENSCHAFTEN:
+  standort: Günterstal
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ENTITÄT: organisation
+BEZEICHNUNG: Jugendgruppe Günterstal
+EIGENSCHAFTEN:
+  standort: Günterstal
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Günterstäler Weiher
+EIGENSCHAFTEN:
+  standort: Oberdorf
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gasthaus St. Valentin
+EIGENSCHAFTEN:
+  standort: Oberdorf
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: baum
+BEZEICHNUNG: Waldtraut vom Mühlwald
+EIGENSCHAFTEN:
+  species: Douglasie
+  standort: im Mühlwald (Teil des Arboretums Freiburg-Günterstal)
+  superlativ: höchster Baum Deutschlands
+  stammumfang_fuss: 300 cm
+  hoehe_august_2008: ca. 65 m
+  hoehe_maerz_2017: 66,581 m
+  hoehe_november_2019: 67,18 m
+  messungen: von geodätischem Institut der Universität Karlsruhe und städtischem Forstamt durchgeführt
+  vorherige_position: verwies Eberbacher Douglasie im August 2008 auf Platz zwei
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: baum
+BEZEICHNUNG: Eberbacher Douglasie
+EIGENSCHAFTEN:
+  fruehere_position: zweit-höchster Baum Deutschlands (August 2008)
+  positionsverlust: August 2008 durch Waldtraut vom Mühlwald
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Günterstal
+BEZEICHNUNG: Arboretum Freiburg-Günterstal
+EIGENSCHAFTEN:
+  beschreibung: enthält Mühlwald mit höchstem Baum Deutschlands
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bohrerdamm
+EIGENSCHAFTEN:
+  standort: Bohrertal auf Horbener Gemarkung
+  hoehe: 13,5 Meter
+  laenge: 275 Meter
+  breite_max: bis zu 80 Meter
+  zweck: Hochwasserschutz
+  finanzierung_zuschuss: 8,8 Millionen Euro (vom Land)
+  spatenstich: Februar 2020
+  fertigstellung: April 2023
+  schutz_ziele: bestehende Freiburger Stadtteile (Günterstal, Wiehre, Vauban, Haslach, Weingarten) und geplanter Stadtteil Dietenbach vor Jahrhunderthochwasser
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Hochwasserrückhaltebecken Breitmatte
+EIGENSCHAFTEN:
+  massnahme: Aufstockung um zwei Meter
+  standort: zwischen Günterstal und Wiehre
+  planung_zeit: jahrelange Planungen und Streit
+  abschluss_aufstockung: November 2022
+  bau_hochwasserschutz: Sommer (2020)
+  kosten_gesamt: 19,5 Millionen Euro (zusammen mit Bohrerdamm)
+  schutz_ziele: bestehende Freiburger Stadtteile (Günterstal, Wiehre, Vauban, Haslach, Weingarten) und geplanter Stadtteil Dietenbach vor Jahrhunderthochwasser
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: person
+BEZEICHNUNG: Maxim Gorki
+EIGENSCHAFTEN:
+  geburt: 1868
+  tod: 1936
+  nationalitaet: russisch
+  profession: Schriftsteller
+  aufenthalt_günterstal: Juni bis November 1923
+  begleitung: mit seiner Geliebten Moura Budberg
+  schrift_über_günterstal: "Wir leben in einem schönen, grünen Tal bei Freiburg und beabsichtigen den Winter über hier zu bleiben. Interessant ist hier die Vegetation, nicht nur wegen ihrer Farben, sondern auch wegen ihrer Formen: Thujen, Zypressen, verschiedene Nadelbäume. Es ist eine milde, bergige Landschaft…"
+GUELTIG_AB: 1923
+GUELTIG_BIS: 1923
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Sepp Allgeier
+EIGENSCHAFTEN:
+  geburt: 1895
+  tod: 1968
+  profession: Kameramann und Fotograf
+  beerdigung: Friedhof Günterstal
+GUELTIG_AB: 1895
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Jonas Cohn
+EIGENSCHAFTEN:
+  geburt: 1869
+  tod: 1947
+  profession: Philosoph und Pädagoge
+  lebensort: Günterstal
+GUELTIG_AB: 1869
+GUELTIG_BIS: 1947
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Richard Engelmann
+EIGENSCHAFTEN:
+  geburt: 1868
+  tod: 1966
+  profession: Bildhauer
+  beerdigung: Friedhof Günterstal
+GUELTIG_AB: 1868
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Hans Filbinger
+EIGENSCHAFTEN:
+  geburt: 1913
+  tod: 2007
+  position: Ministerpräsident
+  lebensort_und_beerdigung: Günterstal
+  lebenszeit_in_günterstal: viele Jahre bis zu seinem Tod
+GUELTIG_AB: 1913
+GUELTIG_BIS: 2007
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Hermann Flamm
+EIGENSCHAFTEN:
+  geburt: 1871
+  tod: 1915
+  profession: Historiker und Archivar
+  geburtsort: Günterstal
+GUELTIG_AB: 1871
+GUELTIG_BIS: 1915
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Swetlana Geier
+EIGENSCHAFTEN:
+  geburt: 1923
+  tod: 2010
+  profession: Literaturübersetzerin
+  lebensort: Günterstal
+  todesort: Günterstal
+GUELTIG_AB: 1923
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Hans von Geyer zu Lauf
+EIGENSCHAFTEN:
+  geburt: 1895
+  tod: 1959
+  beerdigung: Friedhof Günterstal
+GUELTIG_AB: 1895
+GUELTIG_BIS: 1959
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: person
+BEZEICHNUNG: Rudolf Haufe
+EIGENSCHAFTEN:
+  geburt: 1903
+  tod: 1971
+  profession: Gründer des Rudolf-Haufe-Verlags
+  beerdigung: Friedhof Günterstal
+GUELTIG_AB: 1903
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Edmund Husserl
+EIGENSCHAFTEN:
+  geburt: 1859
+  tod: 1938
+  profession: Philosoph
+  beerdigung_form: Asche auf dem Friedhof Günterstal
+GUELTIG_AB: 1859
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Wolfgang Kirchgässner
+EIGENSCHAFTEN:
+  geburt: 1928
+  tod: 2014
+  position: Freiburger Weihbischof
+  amtszeit: 1979-1998
+  lebensort: Mutterhaus St. Lioba in Günterstal
+GUELTIG_AB: 1928
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Rinne
+EIGENSCHAFTEN:
+  geburt: 1863
+  tod: 1933
+  profession: Mineraloge
+  beerdigung: Friedhof Günterstal
+GUELTIG_AB: 1863
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Lutz Röhrich
+EIGENSCHAFTEN:
+  geburt: 1922
+  tod: 2006
+  profession: Volkskundler und Erzählforscher
+  position: erster Inhaber des Lehrstuhls für Volkskunde an der Universität Freiburg
+  lebensort_und_beerdigung: Günterstal
+GUELTIG_AB: 1922
+GUELTIG_BIS: 2006
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Carl Schuster
+EIGENSCHAFTEN:
+  geburt: 1854
+  tod: 1925
+  profession: Architekt und Maler
+  todesort: Günterstal
+GUELTIG_AB: 1854
+GUELTIG_BIS: 1925
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Edith Stein
+EIGENSCHAFTEN:
+  geburt: 1891
+  tod: 1942
+  alternativname: Schwester Teresia Benedicta vom Kreuz
+  profession: Philosophin
+  heiligsprechung_durch: Papst Johannes Paul II.
+  aufnahme_in_patrone_europas: 11. Oktober 1998
+  lebenszeiten_in_günterstal: 1916, 1929, 1931/32
+  frequentierte_staette: Gasthof Kybfelsen (oft eingekehrt)
+GUELTIG_AB: 1891
+GUELTIG_BIS: 1942
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: person
+BEZEICHNUNG: Hans Thieme
+EIGENSCHAFTEN:
+  geburt: 1906
+  tod: 2000
+  profession: Rechtshistoriker
+  beerdigung: Friedhof Günterstal
+GUELTIG_AB: 1906
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Ernst Zermelo
+EIGENSCHAFTEN:
+  geburt: 1871
+  tod: 1953
+  profession: Mathematiker
+  beerdigung: Friedhof Günterstal
+GUELTIG_AB: 1871
+GUELTIG_BIS: 1953
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: event
+BEZEICHNUNG: Straßenbahn-Eröffnung Linie 2
+EIGENSCHAFTEN:
+  jahr: 1901
+  linie: Linie 2 der Freiburger Straßenbahn
+  betreiber: Freiburger Verkehrs AG
+  bedeutung: verbindet Günterstal mit Innenstadt
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: event
+BEZEICHNUNG: Eingemeindung nach Freiburg
+EIGENSCHAFTEN:
+  jahr: 1890
+  anlass: Gemeinde beschloss Anschluss an Freiburg (wirtschaftliche Notwendigkeit)
+  grund: Gemeinde war kaum lebensfähig, fehlte Vermögen, musste sich an kostspieliger Erhaltung des Wegenetzes beteiligen
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: event
+BEZEICHNUNG: Klosterbrand
+EIGENSCHAFTEN:
+  jahr: 1829
+  folgen: Kloster fast vollständig zerstört
+  wiederaufbau_1: Familie von Hermann baute Klostergebäude teilweise wieder auf, richtete Brauerei ein
+GUELTIG_AB: 1829
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: event
+BEZEICHNUNG: Kirchenneubau
+EIGENSCHAFTEN:
+  zeitraum: 1833-1834
+  bauherr: Badische Regierung
+  verwendete_teile: Teile der barocken Kirchenfassade des Klosters
+GUELTIG_AB: 1833
+GUELTIG_BIS: 1834
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+SPENDER: Tengen (nicht Teil der Fahrt)
+ENTITÄT: ort
+BEZEICHNUNG: Tengen
+EIGENSCHAFTEN:
+  typ: Landstadt
+  region: Hegau
+  landkreis: Konstanz
+  lage_grenznahe: an der Grenze zur Schweiz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Tengen — Erstnennung
+EIGENSCHAFTEN:
+  erstnennung_jahr: 877
+  erstnennung_name_form: Teingon
+  erstnennung_urkunden_typ: Brief
+  warum_eigentumsherr: gehörte dem Bischof Salomo II. von Konstanz
+GUELTIG_AB: 877
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Tengen — Hinterstadt / Hintertengen Entwicklung
+EIGENSCHAFTEN:
+  stadtraechte_stauferzeit: Herren von Tengen erhielten Stadtrechte und Hohe Gerichtsbarkeit
+  verkauf_jahr: 1275
+  herrschaft_nach_verkauf: habsburgisch
+  veraenderungen_nach_1275: weitere Wechsel, schließlich Besitz Deutschordenskommende Mainau
+  warum_schwaben_1446: Hintertengener waren gefürchtete Raubritter; Schwäbischer Städtebund kam mit Heer
+  hintertengen_strategie_1446: Schwaben durften Hintertengen von Vordertengen aus angreifen, wenn Vordertengen verschont würde
+  oesterreich_jahr: 1522
+  brand_burg_jahr: 1519
+  warum_brand: Burg wurde durch Brand endgültig zerstört (drei Jahre vor Österreich-Kommen)
+  marktrecht_jahr: 1291
+  marktrecht_gewaehrer: König Rudolf I.
+  marktrecht_nutzbarkeit: konnte nicht genutzt werden, weil für einen Markt kein Platz da war und keine eigene Zufahrt (nur Fuß- und Eselsweg)
+GUELTIG_AB: 1275
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geographie
+BEZEICHNUNG: Tengen — Stadtanlage Vorder- und Hinterstadt
+EIGENSCHAFTEN:
+  lage_form: Felssporn
+  felssporn_laenge: 300 Meter
+  felssporn_breite: 60–90 Meter
+  trennung_staedte: Stadtmauer und Graben mit Bogenbrücke
+  vorderstadt_laenge: 200 Meter
+  vorderstadt_bestandteile: im Wesentlichen ein Marktplatz
+  hinterburg_relative_groesse: halb so groß wie Vorderstadt
+  bergfried_hoehe: 32 Meter
+  bergfried_erhalt: noch heute zu sehen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Verenahof — deutsche Exklave
+EIGENSCHAFTEN:
+  groesse: 43 Hektar
+  beschreibung: Bauernbetrieb ganz umgeben von Schweizer Gebiet
+  ursprungs_gemeinde: Büttenhardt im Kanton Schaffhausen
+  warum_exklave: Tengener Grafschaft hatte dort ehemals Besitz
+  jahr_badisches_verfahren: 1806
+  status_1806: Großherzogtum Baden
+  ortsteil_zugehoerig: Wiechs
+  jahr_transition_schweiz: 1967
+  warum_transition_schweiz: Staatsvertrag durch Landtausch mit der Schweiz
+  vergleich_bueßingen: neben Büsingen eine lange deutsche Exklave
+  grenzsteine_erinnerung: alte Grenzsteine beim Rathaus Wiechs am Randen und Alten Schulhaus Büttenhardt
+GUELTIG_AB: 1806
+GUELTIG_BIS: 1967
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geologie_formation
+BEZEICHNUNG: Weißer Jura (Oberjura)
+EIGENSCHAFTEN:
+  alter: rund 140 Millionen Jahre
+  ablagerung: Kalke
+  vorkommen_lage: vorwiegend in Schluchten und Taleinschnitten
+  warum_sichtbar: durch Abtragung der jüngeren Molasseschichten angeschnitten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geologie_formation
+BEZEICHNUNG: Obere Meeresmolasse — Randengrobkalke
+EIGENSCHAFTEN:
+  alter: rund 20 Millionen Jahre
+  lokale_misnomenklatur: in Tengen und Umgebung fälschlicherweise Tengener Muschelkalk genannt
+  beschaffenheit: grobsandiger Schalentrümmerkalk
+  farbe: hellgelb
+  bestandteile_muschel_schnecken: Muschel- und Schneckenschalen
+  bestandteile_quarzsand_prozent: 20–40 Prozent
+  fossilien_haifischzaehne_groesse_max: bis zu 2 cm
+  fossilien_interpretation: Haifischzähne und Salzwassertiere belegen Obere Meeresmolasse-Ablagerung
+  schichtung_besonderheit: gegenläufige Schichten (Kreuz- oder Grenzschichtung) als ufernahes Gezeitenmuster
+  schichtung_haeufigkeit: nicht der Normalfall
+  warum_nutzung_roemerzeit: beliebter Baustein, Römerzeit belegt durch Münzfund in Steinbruch bei Wiechs am Randen
+  nutzung_roemerzeit_details: Läufer für Mühlsteine, Wärmespeicherung in Thermen und Hypokaustenheizungen, Häuserbau
+  nutzung_neu: Nitrat-Beständigkeit → Bodenplatten im Stallungsbau
+GUELTIG_AB: (prähistorisch)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch westlich Tengen-Stadt
+ORTSTEIL_BEZUG: Tengen-Stadt
+EIGENSCHAFTEN:
+  lage_detail: westlich Tengen-Stadt und westlich der Hinterburg, Gewann Flüh, Waldfestplatz
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch östlich der Hinterburg
+ORTSTEIL_BEZUG: Tengen-Stadt
+EIGENSCHAFTEN:
+  lage_detail: östlich der Hinterburg, Bereich des heutigen Bauhofs in Richtung Büßlingen
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch um Uttenhofen
+ORTSTEIL_BEZUG: Uttenhofen
+EIGENSCHAFTEN:
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch nördlich Wiechs am Randen
+ORTSTEIL_BEZUG: Wiechs am Randen
+EIGENSCHAFTEN:
+  lage_detail: nördlich von Wiechs am Randen (früher teilweise zu Uttenhofen gehörend)
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch nördlich der B314 zwischen Tengen und Blumenfeld
+EIGENSCHAFTEN:
+  lage_detail: nördlich der B314 zwischen Tengen und Blumenfeld
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch Kreisstraße 6135 unterhalb Talheim
+ORTSTEIL_BEZUG: Talheim
+EIGENSCHAFTEN:
+  lage_detail: an der Kreisstraße 6135 unterhalb von Talheim
+  material: vermutlich einer Verwerfung im Weißjura
+  genauigkeit: vermutlich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Talheim und Uttenhofen
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1971
+  status_vorher: selbstständige Gemeinden
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Blumenfeld
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1973
+  status_vorher: selbstständige Gemeinde
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Beuren am Ried
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1972
+  status_vorher: selbstständige Gemeinde
+  eingemeindung_zu: Büßlingen
+GUELTIG_AB: 1972
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Weil
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1972
+  status_vorher: selbstständige Gemeinde
+  eingemeindung_zu: Watterdingen
+GUELTIG_AB: 1972
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Neubildung Stadt Tengen
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1975
+  bestandteile: Tengen, Büßlingen, Watterdingen, Wiechs am Randen
+  grund: Zusammenfassung vorheriger Eingemeindungen
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: religion
+BEZEICHNUNG: Tengen — religiöse Prägung
+EIGENSCHAFTEN:
+  dominante_konfession: römisch-katholisch
+  seit_wann: seit jeher
+GUELTIG_AB: (nicht genau datiert)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirchenbau
+BEZEICHNUNG: St. Laurentius
+EIGENSCHAFTEN:
+  typ: römisch-katholische Pfarrkirche
+  typologische_funktion: Wehrkirche (erhöhte Lage)
+  baustilistik_kern: frühgotisch
+  datierung_kern: 13. Jahrhundert
+  nachweise_kern: kleine zugemauerte Spitzbogenfenster an der Südwand
+  neubau_turm_jahr: 1518
+  umbau_barockisierung_jahr: um 1730
+  restaurierung_jahre: 1880 und 1909
+  erweiterung_massive_jahr: 1929/1930
+  erweiterung_massive_teile: Neubau von Chor, Querhaus und Sakristei
+  erweiterung_turm_hoehe_jahr: 1934
+  innenausstattung_stil: einheitliche barocke Ausstrahlung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: kirchenbau
+BEZEICHNUNG: St. Georg
+EIGENSCHAFTEN:
+  typ: römisch-katholische Kapelle
+  ursprung: Burgkapelle der Hinterburg
+  datierung_erbauung: Anfang 14. Jahrhundert
+  umgestaltung: barockisiert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: religion
+BEZEICHNUNG: Evangelische Gemeinde Tengen
+EIGENSCHAFTEN:
+  beschreibung: kleine evangelische Gemeinde
+  status: klein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: politik_gremium
+BEZEICHNUNG: Gemeinderat Tengen
+EIGENSCHAFTEN:
+  groesse_ab_2024: 16 Mitglieder
+  groesse_davor: 22 Mitglieder
+  wahlbeteiligung_2024: 69,26 Prozent
+  wahlbeteiligung_2019: 66,15 Prozent
+  wahl_datum: 9. Juni 2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: politik_person
+BEZEICHNUNG: Helmut Groß
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  geburtsjahr: 1948
+  geburtsort: Crailsheim
+  amtszeit_von: 1973
+  amtszeit_bis: 2015
+  amtszeit_grund_abgang: Alter
+GUELTIG_AB: 1973
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: politik_person
+BEZEICHNUNG: Marian Schreier
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  geburtsdatum: 8. Februar 1990
+  geburtsort: Stuttgart
+  partei: SPD
+  amtszeit_von: 2015
+  amtszeit_bis: 2023
+  wahl_datum: 1. März 2015
+  superlativ: zum Zeitpunkt der Wahl mit 25 Jahren der jüngste Bürgermeister Deutschlands
+GUELTIG_AB: 2015
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: politik_person
+BEZEICHNUNG: Selcuk Gök
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  geburtsjahr: 1997
+  geburtsort: Mannheim
+  partei: SPD
+  wahl_datum: 19. März 2023
+  wahl_ergebnis: 50,3 Prozent
+  amtsantritt: 27. April 2023
+  amtszeit_von: 2023
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Busverbindung Tengen — Engen
+EIGENSCHAFTEN:
+  rhythmus: Stundentakt
+  start_punkt: Engen
+  ausnahmeregelung: außer Sonntag
+  anschluss_beschreibung: fährt nach Ankunft des Eilzugs von Konstanz ab
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur_strasse
+BEZEICHNUNG: Bundesstraße 314
+EIGENSCHAFTEN:
+  verbindung_von: Lauchringen
+  verbindung_zu: Singen (Hohentwiel)
+  funktion: überregionale Straßenanbindung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: infrastruktur_radweg
+BEZEICHNUNG: Heidelberg-Schwarzwald-Bodensee-Radweg
+EIGENSCHAFTEN:
+  typ: Landes-Radfernweg
+  start: Heidelberg
+  ende: Radolfzell
+  verlauf_detail: von Donaueschingen kommend über Tengen und Singen an sein Ziel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: bildung
+BEZEICHNUNG: Tengen — Schulen
+EIGENSCHAFTEN:
+  schultypen: Grund- und Werkrealschule
+  kindergaerten: 3 Kindertagesstätten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: denkmalschutz
+BEZEICHNUNG: Altstadt Tengen
+EIGENSCHAFTEN:
+  schutzstatus: Gesamtanlage denkmalgeschützt
+  bezeichnung_schutz: Stadtanlage Tengen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Burg Tengen (Hinterburg)
+EIGENSCHAFTEN:
+  alternative_Namen: Hinterburg, Burg Hintertengen
+  erhalt_heute: Bergfried erhalten
+  bergfried_hoehe: 32 Meter
+  bergfried_sichtbarkeit: noch heute zu sehen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: archaeologie
+BEZEICHNUNG: Römischer Gutshof bei Büßlingen
+ORTSTEIL_BEZUG: Büßlingen
+EIGENSCHAFTEN:
+  museum_typ: Freilichtmuseum
+  zeitstellung: römisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schloss Blumenfeld
+ORTSTEIL_BEZUG: Blumenfeld
+EIGENSCHAFTEN:
+  kategorie: Schloss
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: naturdenkmael
+BEZEICHNUNG: Mühlbachschlucht
+EIGENSCHAFTEN:
+  lage: östlich der Altstadt
+  beschaffenheit: Schlucht des Mühlbachs
+  wasserfaelle: mehrere sehenswerte Wasserfälle
+  besonderheit: Mühlenruine mit laufendem Mühlenrad
+  infrastruktur: Besucherweg mit Brücken und Stegen am Mühlbach entlang
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Blumenfelder Wasserfall
+ORTSTEIL_BEZUG: Blumenfeld
+EIGENSCHAFTEN:
+  fluss: Biber
+  lage_detail: unter der Brücke in die Altstadt von Blumenfeld
+  besonderheit_regenfaelle: infolge schwerer Regenfälle starke Anschwellungen des Flusses
+  warum_ueberschwemmungen: Anschwellungen führen zu massiven Überschwemmungen im Umland
+  historische_notiz_jahr: 1753
+  historische_notiz_text: „Die Landschaft Blumenfeld ist durch Schauer- und Hagelwetter auf den Bettelstab gebracht worden."
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Gerichtslinde Tengen
+EIGENSCHAFTEN:
+  lage: nördlich von Tengen am Tengener Eck neben Kreisstraße 6137 (Leipferdinger Straße)
+  lage_detail: kaum 200 m vor dem Berghof im freien Feld
+  baumtyp: Sommerlinde
+  alter_schaetzung: 300–400 Jahre
+  status: als Naturdenkmal ausgewiesen
+  warum_geschichtlich: im Mittelalter jährliche Tengener Gerichtstage
+  erinnerung_heute: alte Beschilderung dokumentiert historische Gerichtstage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: touristische_route
+BEZEICHNUNG: Römerstraße Neckar–Alb–Aare
+EIGENSCHAFTEN:
+  verlauf: führt durch Tengen an vielen Sehenswürdigkeiten vorbei
+  charakteristik: Römerstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: geographie
+BEZEICHNUNG: Europäische Wasserscheide
+EIGENSCHAFTEN:
+  lage: Höhenrücken im Norden der Gemarkung Tengen
+  warum_position: trennt Bodenseebecken vom Donautal
+  verlauf: auf mehreren Kilometern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historischer_weg
+BEZEICHNUNG: Alter Postweg
+EIGENSCHAFTEN:
+  verlauf: auf dem Höhenrücken (Europäische Wasserscheide), auf mehreren Kilometern
+  charakteristik: historischer Verkehrsweg von überregionaler Bedeutung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Franz Christoph von Scheyb
+EIGENSCHAFTEN:
+  geburtsjahr: 1704
+  todesjahr: 1777
+  berufe: Schriftsteller
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Matthäus Cornelius Münch
+EIGENSCHAFTEN:
+  geburtsjahr: 1771
+  todesjahr: 1853
+  berufe: Geistlicher und Pädagoge
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Josef Benignus Maus
+EIGENSCHAFTEN:
+  geburtsjahr: 1775
+  todesjahr: 1856
+  berufe: Historiker
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Otto Lueger
+EIGENSCHAFTEN:
+  geburtsjahr: 1843
+  todesjahr: 1911
+  berufe: Ingenieur
+  herausgeber: Lexikon der gesamten Technik
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Albert Maier
+EIGENSCHAFTEN:
+  geburtsjahr: 1873
+  todesjahr: 1961
+  berufe: Pädagoge und Politiker
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Fritz Peter
+EIGENSCHAFTEN:
+  geburtsjahr: 1899
+  todesjahr: 1949
+  berufe: Pädagoge, Physiker und Mathematiker
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Natascha Ungeheuer
+EIGENSCHAFTEN:
+  geburtsjahr: 1937
+  geburtsjahr_born_as: Ursula Rosa Ungeheuer
+  berufe: Malerin und Schauspielerin
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Christine Muscheler-Frohne
+EIGENSCHAFTEN:
+  geburtsjahr: 1950
+  berufe: Politikerin
+  partei: Grüne
+  position: ehemalige Landtagsabgeordnete
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Andreas Gruschke
+EIGENSCHAFTEN:
+  geburtsjahr: 1960
+  todesjahr: 2018
+  berufe: Autor, Fotograf und Tibetkundler
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Otto Sauter
+EIGENSCHAFTEN:
+  geburtsjahr: 1961
+  berufe: Piccolo-Trompeter
+  spezialisierung: Barockmusik
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Traugott Freiherr von Stackelberg
+EIGENSCHAFTEN:
+  geburtsjahr: 1891
+  todesjahr: 1970
+  berufe: Mediziner, Maler, Schriftsteller
+  herkunft: Tengen (sonstige)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Heidi Tübinger
+EIGENSCHAFTEN:
+  geburtsjahr: 1936
+  berufe: Malerin
+  herkunft: Tengen (sonstige)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Gottfried Hummel
+EIGENSCHAFTEN:
+  geburtsjahr: 1968
+  berufe: Komponist und Dirigent
+  position_dirigent: Dirigent der Stadtkapelle Tengen
+  position_dirigent_zeitraum: 2016–2022
+  werke_komponiert: Lied "Engen, Tengen, Blumenfeld, sind die schönsten Städt der Welt"
+  werke_text: Texter des Liedes
+  herkunft: Tengen (sonstige)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+SPENDER: Renchen (nicht Teil der Fahrt)
+ENTITÄT: ort
+BEZEICHNUNG: Renchen
+EIGENSCHAFTEN:
+  ist_stadt: true
+  land: Baden-Württemberg
+  landkreis: Ortenaukreis
+  lage: Vorbergen des nördlichen Schwarzwalds am Ausgang des Renchtals in die Oberrheinische Tiefebene
+  erste_urkundliche_erwähnung: 1115
+  erste_urkundliche_erwähnung_grund: Ersterwähnung im Urkundenwerk
+  stadtrechte_verliehen: 1326
+  stadtrechte_verloren_grund: Zerstörungen des Dreißigjährigen Kriegs führten zur Bedeutungslosigkeit
+  stadtrechte_verliehen_erneut: 1838
+  stadtrechte_verloren_erneut: 1935
+  stadtrechte_grund_1935: Neue deutsche Gemeindeordnung
+  stadtrechte_verliehen_drittes_mal: 1950
+  grund_dritte_verleihung: Historische Vergangenheit
+  sitz_kreisverwaltung_landkreis_kehl: 1945-1952
+  sitz_grund: Während französischer Besetzung Kehls nach dem Zweiten Weltkrieg
+  zeitlich_in_landkreis_kehl: bis Ende 1972
+  jetziger_landkreis_seit: 1973
+  grund_landkreiswechsel: Auflösung der Landkreise Kehl und Offenburg, Bildung Ortenaukreis
+  gemeindevereinigung_erlach_ulm: 1. Januar 1975
+  grund_gemeindevereinigung: Administrative Neugliederung
+  jubiläum_jahr: 2015
+  jubiläum_anlass: 900 Jahre seit Ersterwähnung
+  zusatzbezeichnung: Grimmelshausenstadt
+  zusatzbezeichnung_gültig_ab: 2022
+GUELTIG_AB: 1115
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Erlach
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  einwohner: 900
+  einwohner_genauigkeit: ca.
+  früher_selbständig: true
+  art_einrichtung: Ortschaft mit eigenem Ortschaftsrat und Ortsvorsteher
+  verwaltungsstelle: Ortsverwaltung Erlach
+  teil_der_stadtteil: Erlach
+  enthält_siedlungen: Dorf Erlach
+  wüstungen: Oberhof, Zöllerhöfe, Walhofen
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ulm
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  einwohner: 2030
+  einwohner_genauigkeit: ca.
+  früher_selbständig: true
+  art_einrichtung: Ortschaft mit eigenem Ortschaftsrat und Ortsvorsteher
+  verwaltungsstelle: Ortsverwaltung Ulm
+  teil_der_stadtteil: Ulm
+  enthält_siedlungen: Dorf Ulm, Zinken Kaier, Kolbenhalt, Reiersbach, Gehöft Rothof
+  lokalspezialität: Ulmer Bier, Spezialität Vollmondbier (nur Vollmondnächte)
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gemeindeteil
+BEZEICHNUNG: Maiwald
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  ist_exklave: true
+  entfernung: 7 km
+  entfernung_genauigkeit: ca.
+  richtung: nordwestlich vom Ortszentrum Renchen
+  enthält: Maiwaldsee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Heilig-Kreuz-Kirche
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  architekt: Friedrich Weinbrenner
+  baujahr: 1817
+  stil: Klassizismus
+  beschreibung: schmuckloses, geometrisch gegliedertes Gebäude
+  standort: Ortskern von Renchen
+GUELTIG_AB: 1817
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Simplicissimus-Haus
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  thema: Rezeption der Werke von Hans Jakob Christoffel von Grimmelshausen
+  superlativ: erstes und bislang einziges rezeptionsgeschichtlich angelegtes Literaturmuseum in Deutschland
+  künstler_ausstellungen: über 80 Künstler aus deutschsprachigem Raum
+  sammlung: weltweit größte Sammlung von Illustrationen zum literarischen Werk Grimmelshausens
+  gründung_jahr: 1998
+  gründung_initiator: Bürgermeister Klaus Brodbeck
+  konzeption: Martin Bircher und Christian Juranek
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: preis
+BEZEICHNUNG: Johann-Jacob-Christoph-von-Grimmelshausen-Preis
+EIGENSCHAFTEN:
+  verleihende_städte: Renchen, Gelnhausen
+  vergabe_kriterium: in deutscher Sprache erschienenes erzählerisches Werk mit bemerkenswerten Beitrag zur Auseinandersetzung mit Zeitgeschichte
+  altersbegrenzung_werk: maximal 6 Jahre alt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Grimmelshausenpark
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  lage: oberhalb des kleinen Stadtkerns Renchen
+  nutzung: Naherholung, Feste, kleinere Freilichtauftritte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: freizeitbad
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  saisonalität: Sommermonate über geöffnet
+  besucher_jährlich: über 80.000
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Erdrich Umformtechnik GmbH
+ORTSTEIL_BEZUG: Ulm
+EIGENSCHAFTEN:
+  branche: Automobilzulieferer
+  größe: größerer Betrieb
+  standort: Ortsteil Ulm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bahnhaltepunkt
+BEZEICHNUNG: Renchen
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  bahnstrecke: Mannheim–Basel
+  bedienung: stündlich Regional-Express-Züge DB Regio
+  linie: Karlsruhe–Konstanz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: tarifverbund
+BEZEICHNUNG: Tarifverbund Ortenau
+EIGENSCHAFTEN:
+  beschreibung: zuständig für Bahn- und Busverkehr in Renchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: radfernweg
+BEZEICHNUNG: Badischer Weinradweg
+EIGENSCHAFTEN:
+  start: Grenzach-Wyhlen am Hochrhein
+  ziel: Laudenbach im Norden Baden-Württembergs
+  funktion: verbindet sieben der neun badischen Weinanbaugebiete untereinander
+  durchgang_renchen: Erlach, Ulm, Mösbach, Oberachern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: radfernweg
+BEZEICHNUNG: Naturpark-Radweg Schwarzwald Mitte/Nord
+EIGENSCHAFTEN:
+  umfang: führt rund um Naturpark Schwarzwald Mitte/Nord
+  besonderheit: verläuft auf fast identischem Weg wie Badischer Weinradweg durch Erlach und Ulm, unterscheidet sich nur in Ulm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Albert Dietrich
+EIGENSCHAFTEN:
+  amtszeit: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Franz Brandstetter
+EIGENSCHAFTEN:
+  amtszeit_bis: 1969
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Erich Huber
+EIGENSCHAFTEN:
+  amtszeit: 1969-1985
+GUELTIG_AB: 1969
+GUELTIG_BIS: 1985
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Klaus Brodbeck
+EIGENSCHAFTEN:
+  amtszeit: 1985-2000
+  bedeutung: gründete das Simplicissimus-Haus
+GUELTIG_AB: 1985
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Bernd Siefermann
+EIGENSCHAFTEN:
+  amtszeit: 2001-2025
+  partei: CDU
+GUELTIG_AB: 2001
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Stephanie Bartsch
+EIGENSCHAFTEN:
+  amtszeit_ab: 2025
+  amtsantritt_monat: Februar 2025
+  partei: CDU
+  wahl_termin: 10. November 2024
+  wahl_stimmanteil: 76.8
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wappen
+EIGENSCHAFTEN:
+  blasonierung: In Silber ein rotes Kleeblattkreuz
+  stadtzugehörigkeit: Renchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ferdinand Battlehner
+EIGENSCHAFTEN:
+  beruf: Arzt, Geheimrat
+  lebensdaten: 1824-1906
+  typ: Ehrenbürger
+GUELTIG_AB: 1824
+GUELTIG_BIS: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ignaz Heim
+EIGENSCHAFTEN:
+  beruf: Musiker und Komponist
+  lebensdaten: 1818-1880
+  typ: Sohn der Stadt
+GUELTIG_AB: 1818
+GUELTIG_BIS: 1880
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Amand Goegg
+EIGENSCHAFTEN:
+  beruf: badischer Freiheitskämpfer
+  lebensdaten: 1820-1897
+  typ: Sohn der Stadt
+  ehrenburger: Ehrenbürger der Stadt Genf
+  verheiratet_mit: Marie Goegg-Pouchoulin (Frauenrechtlerin)
+GUELTIG_AB: 1820
+GUELTIG_BIS: 1897
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Camill Schaible
+EIGENSCHAFTEN:
+  beruf: Oberst und Militärschriftsteller
+  lebensdaten: 1837-1906
+  typ: Sohn der Stadt
+GUELTIG_AB: 1837
+GUELTIG_BIS: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Gottlob Barth
+EIGENSCHAFTEN:
+  beruf: Landrat und Bürgermeister
+  lebensdaten: 1884-1958
+  typ: Sohn der Stadt
+GUELTIG_AB: 1884
+GUELTIG_BIS: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Erich Konrad
+EIGENSCHAFTEN:
+  beruf: Chemiker
+  arbeitgeber: I.G. Farben Werke in Leverkusen
+  forschungsgebiet: Synthesekautschuk
+  lebensdaten: 1894-1975
+  typ: Sohn der Stadt
+GUELTIG_AB: 1894
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Albert Karl Krautheimer
+EIGENSCHAFTEN:
+  beruf: katholischer Priester, Schriftsteller, Redakteur des Konradsblattes
+  lebensdaten: 1905-1966
+  typ: Sohn der Stadt
+GUELTIG_AB: 1905
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Michael Speier
+EIGENSCHAFTEN:
+  beruf: Autor, Übersetzer, Literaturwissenschaftler und Herausgeber
+  lebensdaten_ab: 1950
+  typ: Sohn der Stadt
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Martin Knosp
+EIGENSCHAFTEN:
+  beruf: Ringer
+  lebensdaten_ab: 1959
+  typ: Sohn der Stadt
+  superlativ: Weltmeister 1981
+  olympisch_erfolg: Silbermedaillengewinner 1984 in Los Angeles
+GUELTIG_AB: 1959
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Erwin Knosp
+EIGENSCHAFTEN:
+  beruf: Ringer
+  lebensdaten_ab: 1961
+  typ: Sohn der Stadt
+  erfolg: mehrfacher deutscher Meister und Olympiateilnehmer
+GUELTIG_AB: 1961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Norbert Dobeleit
+EIGENSCHAFTEN:
+  beruf: Leichtathlet
+  lebensdaten_ab: 1964
+  typ: Sohn der Stadt
+  olympisch_erfolg: Medaillengewinner bei Olympischen Spielen 1988 in Seoul
+GUELTIG_AB: 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Holger Nell
+EIGENSCHAFTEN:
+  beruf: Jazzmusiker
+  lebensdaten_ab: 1966
+  typ: Sohn der Stadt
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hans Jakob Christoffel von Grimmelshausen
+EIGENSCHAFTEN:
+  lebensdaten: 1622-1676
+  bekanntheit: Autor des Werks "Abenteuerlichen Simplicissimus"
+  verbindung_renchen: bischöflich straßburgischer Schultheiß von Renchen
+  verbindung_grund: Amt des Schultheißen
+GUELTIG_AB: 1667
+GUELTIG_BIS: 1676
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: zeitung
+BEZEICHNUNG: Acher- und Bühler Bote
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  typ: Lokalausgabe
+  mutterblatt: Badische Neuesten Nachrichten (Karlsruhe)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: zeitung
+BEZEICHNUNG: Acher-Rench-Zeitung
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  typ: Lokalzeitung
+  verlag: Reiff-Gruppe (Offenburg)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: zeitschrift
+BEZEICHNUNG: Stattzeitung für Südbaden
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  zielgruppe: alternative Szene Süd- und Mittelbadens
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Grimmelshausenschule
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  typ: Grund-, Haupt- und Realschule mit angegliederten Werkrealschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: einrichtung
+BEZEICHNUNG: Baden-Württembergischer Landesverband für Prävention und Rehabilitation e.V.
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  sitz: Renchen
+  mission: Landeseinrichtung der Suchtkrankenhilfe
+  gegründet: 1919
+  gründung_ursprünglicher_name: Badischer Landesverband gegen den Alkoholismus e.V.
+  grund_gründung: Bekämpfung des Alkoholismus als gesellschaftliches Problem
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Meteoritenfall EN100718 Renchen
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  datum: 10. Juli 2018
+  uhrzeit: 23:30 Uhr MESZ
+  typ: Feuerkugel (sehr heller Meteor)
+  sichtungsgebiet: Mittelrhein, deutsch-französische Grenze, Baden-Württemberg, Rheinland-Pfalz, Elsass, Lothringen
+  fund_zeitraum: 24. Juli 2018 - 23. Februar 2019
+  fund_bilanz: fünf Rohstücke und etliche Fragmente
+  superlativ: erster gesicherter Meteoritenfall in Baden-Württemberg
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Meteorit von Ortenau 1671
+EIGENSCHAFTEN:
+  datum: 27. Februar 1671
+  ort: Ortenau
+  gewicht: 10 Pfund
+  gewicht_genauigkeit: ca.
+  status: nicht wissenschaftlich untersucht, kein Material erhalten
+  genauigkeit_quellenangabe: vermutlich, historischer Bericht
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Achern
+EIGENSCHAFTEN:
+  lage: grenzt im Norden an Renchen
+  typ: Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Kappelrodeck
+EIGENSCHAFTEN:
+  lage: grenzt im Osten an Renchen
+  typ: Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Oberkirch
+EIGENSCHAFTEN:
+  lage: grenzt im Süden an Renchen
+  typ: Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Appenweier
+EIGENSCHAFTEN:
+  lage: grenzt im Südwesten an Renchen
+  typ: Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Rheinau
+EIGENSCHAFTEN:
+  lage: grenzt im äußersten Nordwesten an Renchen
+  typ: Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bundesstraße 3
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  verlauf: Buxtehude–Weil am Rhein, verläuft durch Renchen
+  funktion: Anbindung an Bundesautobahn 5
+  anschlussstellen: Achern und Appenweier
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

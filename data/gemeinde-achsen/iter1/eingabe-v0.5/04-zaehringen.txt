@@ -1,0 +1,1413 @@
+ZIELORT: Zähringen (Ortsteil von Freiburg im Breisgau)
+
+GRUNDDATEN:
+  landkreis: Stadtkreis Freiburg im Breisgau — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P131]
+  bundesland: Baden-Württemberg — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [über die Gemeinde]
+  einwohner: 9429  [Wikidata P1082, Stand 2024]
+  flaeche_km2: 3,13  [dewiki Infobox]
+  dichte_ew_km2: 3012  [berechnet aus Einwohner und Fläche]
+  kfz: FR — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P395]
+  hoehe_m: 250 | 254  [dewiki Infobox; Altbestand geo.sqlite (GeoNames 2805299)]
+  naechste_grossstadt: Freiburg im Breisgau, 3 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 129 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  ersterwaehnung: 1008  [Wikidata P1249]
+  eingemeindung: 1906-01-01  [dewiki Infobox]
+  bahnhof: Haltepunkt Freiburg-Zähringen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 79104, 79106, 79108  [Wikidata P281]
+  vorwahl: 0761  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: GRÜNE 30,2 %, CDU 17,9 %, Die Linke 16,9 %, SPD 15,2 %; Wahlbeteiligung 85,7 % — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker Zahl (Größe, Höhe, Alter oder Entfernung), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik (Wahlergebnis; die Angabe gilt für die ganze Stadt), A oder C, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker Zugehörigkeit oder Lage (Kennzeichen, Landkreis, Bahnhof, Großstadt), A, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B nach deiner Wahl, wahre Option an Stelle 1 (bei B: Lüge an Stelle 2)
+
+LETZTER_PIN: Denzlingen (Gemeinde)
+  landkreis: Emmendingen  [dewiki Infobox]
+  einwohner: 13.734  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 16,94  [Wikidata P2046]
+  kfz: EM  [Wikidata P395]
+  hoehe_m: 234 | 232  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2938190)]
+  naechste_grossstadt: Freiburg im Breisgau, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  ersterwaehnung: 984  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  bahnhof: Bahnhof Denzlingen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 27,4 %, GRÜNE 19,8 %, SPD 19 %, AfD 13,5 %; Wahlbeteiligung 85,8 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Umkirch, Gundelfingen, Denzlingen, Zähringen, St. Peter, Glottertal, Kirchzarten, Günterstal, Horben, Staufen
+
+FAKTEN (Zielort Zähringen):
+ENTITÄT: ort
+BEZEICHNUNG: Zähringen
+EIGENSCHAFTEN:
+  regierungsbezirk: Freiburg im Breisgau
+  lage: Stadtteil, Norden der Stadt
+  nachbargemeinde_nord: Gundelfingen
+  nachbarstadtteil_sued: Herdern
+  nachbarstadtteil_west: Brühl
+  einwohner: 9400
+  einwohner_genauigkeit: ca.
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: stadt_verwaltung
+BEZEICHNUNG: Eingemeindung Zähringen
+EIGENSCHAFTEN:
+  ereignis: Vereinigung mit Freiburg
+  datum: 1. Januar 1906
+  quellname: Vereinigungsvertrag
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+ENTITÄT: siedlung
+BEZEICHNUNG: Dorf Zähringen
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1008
+  erste_erwaehnung_grund: Schenkungsurkunde König Heinrich II. an Bistum Basel (Wildbannurkunde)
+  erste_erwaehnung_dokument: Wildbannurkunde
+  erste_erwaehnung_bezeugt_mit: Herdern, Wiehre, Gundelfingen und weitere Orte im Breisgau
+  nachweise: mehrfach als Ortsteil Freiburgs
+GUELTIG_AB: 1008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.96
+
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Zähringen
+EIGENSCHAFTEN:
+  erste_erwaehnung_bericht: 1080
+  erste_erwaehnung_quelle: Bericht Otto von Freisings
+  erste_urkundliche_erwaehnung: 1128
+  erste_urkundliche_erwaehnung_dokument: Rotulus Sanpetrinus
+  entstehungsgeschichte: liegt im Dunkeln
+  beschreibung: Burg mit Ursprungsgeschichte unbekannt
+GUELTIG_AB: 1080
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+ENTITÄT: herrschaft
+BEZEICHNUNG: Herzöge von Zähringen
+EIGENSCHAFTEN:
+  grundbesitz: Burg und Dorf Zähringen
+  nachfolger: Grafen von Freiburg
+  nachfolgezeit: nach Herzogszeit
+GUELTIG_AB: 1080
+GUELTIG_BIS: vor 1327
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: herrschaft
+BEZEICHNUNG: Grafen von Freiburg
+EIGENSCHAFTEN:
+  grundbesitz: Dorf Zähringen
+  verkauf: 1327 an Schnewlin Bernlapp
+GUELTIG_AB: vor 1327
+GUELTIG_BIS: 1327
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: adel
+BEZEICHNUNG: Schnewlin Bernlapp
+EIGENSCHAFTEN:
+  besitzerwerb: 1327
+  besitzerwerb_grund: Verkauf durch Grafen von Freiburg
+  grundbesitz: Dorf Zähringen
+GUELTIG_AB: 1327
+GUELTIG_BIS: vor 1443
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+ENTITÄT: adel
+BEZEICHNUNG: Schnewlin zum Wiger
+EIGENSCHAFTEN:
+  besitzerwerb: 1443
+  grundbesitz: Dorf Zähringen
+GUELTIG_AB: 1443
+GUELTIG_BIS: vor 1536
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+ENTITÄT: adel
+BEZEICHNUNG: Schnewlin von Landeck
+EIGENSCHAFTEN:
+  besitzerwerb: 1536
+  grundbesitz: Dorf Zähringen
+GUELTIG_AB: 1536
+GUELTIG_BIS: Ende 16. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+ENTITÄT: adel
+BEZEICHNUNG: Herren von Sickingen
+EIGENSCHAFTEN:
+  besitzerwerb_zeit: Ende 16. Jahrhundert
+  besitzerwerb_grund: Erbschaft von Schnewlin von Landeck
+  grundbesitz: Dorf Zähringen
+GUELTIG_AB: Ende 16. Jahrhundert
+GUELTIG_BIS: bis Eingemeindung
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Blasius-Kirche
+EIGENSCHAFTEN:
+  konfession: katholisch
+  baustil: Weinbrenner-Stil
+  baustil_beschreibung: nach den Plänen von Christoph Arnold, Schüler Friedrich Weinbrenners
+  bauzeit: 1822-1823
+  architekt: Christoph Arnold
+  architekt_beschreibung: Schüler Friedrich Weinbrenners
+  quellenliteratur: Hans-Josef Wollasch, St. Blasius in Zähringen, Lavori Freiburg 2008
+GUELTIG_AB: 1822
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Thomaskirche
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  lage: Tullastraße
+  bauzeit: 1958-1959
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+ENTITÄT: zentrale_stelle
+BEZEICHNUNG: Bahnhaltepunkt Zähringen
+EIGENSCHAFTEN:
+  bahnstrecke: Rheintalbahn
+  bahnlinie: Breisgau-S-Bahn
+  verbindung: Freiburg Hauptbahnhof über Denzlingen nach Elzach
+  geplante_verbesserung: Umwandlung Güterumgehungsbahn in S-Bahn mit zusätzlichen Haltepunkten
+  geplante_verbesserung_orte: Tullastraße und Berggasse (Zähringen-Nord)
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Straßenbahn Zähringen
+EIGENSCHAFTEN:
+  erste_anbindung: 10. März 1910
+  erste_anbindung_strecke: Okenstraße bis Reutebachgasse
+  verlaengerung_2014: März 2014, drei Stationen bis Gundelfinger Straße
+  linie_aktuelle: Linie 3
+  linie_aktuelle_gueltig_ab: Dezember 2024
+  linie_aktuelle_verlauf: von Haid bis südlicher Ortsrand Gundelfingens
+  geplante_weitere_verlaengerung: vier Stationen bis Ortsmitte Gundelfingen zur Rheintalbahn
+  geplante_verlaengerung_status: im vordringlichen Bedarf festgeschrieben, Realisierung nach Bürgerentscheid 2023 praktisch ausgeschlossen
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Radschnellweg
+EIGENSCHAFTEN:
+  ziele: Emmendingen und Waldkirch
+  route: von Neuburg und Herdern über Burgdorfer Weg und Wildtalstraße entlang Rheintalbahn nach Gundelfingen
+  massnahme_hinterkirchstrasse: Unterführung ab Anfang 2026 für KfZ-Verkehr gesperrt
+GUELTIG_AB: geplant
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Radwegnetz Zähringen
+EIGENSCHAFTEN:
+  fr2: entlang Güterbahn, verbindung Nord-Süd-Richtung mit Universitätsklinikum, Stühlinger, Haslach
+  fr3: entlang Straßenbahnlinie durch Waldkircher Straße
+  frelo_stationen: 4 Stationen des Fahrradverleihsystems Frelo
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: verkehrsweg
+BEZEICHNUNG: Bundesstraße B 3
+EIGENSCHAFTEN:
+  beschreibung: verläuft mitten durch Zähringen
+  geplante_massnahme: Entlastung vom Verkehrslärm (langfristig)
+GUELTIG_AB: vor 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: freizeit_infrastruktur
+BEZEICHNUNG: Pumptrack
+EIGENSCHAFTEN:
+  lage: zwischen Denzlinger Straße und Isfahanallee
+  eroeffnung: Juni 2020
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: bestandsaufnahme
+BEZEICHNUNG: Bevölkerungszählung vor Eingemeindung
+EIGENSCHAFTEN:
+  zeitpunkt: 1904
+  einwohner: 2185
+  haushaltungen: 455
+  gebaeude: 237
+  katholiken: 1926
+  protestanten: 253
+  sonstige: 6
+GUELTIG_AB: 1904
+GUELTIG_BIS: 1904
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+
+SPENDER: Dornstetten (nicht Teil der Fahrt)
+ENTITÄT: ort
+BEZEICHNUNG: Dornstetten
+EIGENSCHAFTEN:
+  einwohner: 8192
+  einwohner_datum: 31. Dezember 2025
+  landkreis: Freudenstadt
+  bundesland: Baden-Württemberg
+  region: Nordschwarzwald
+  regierungsbezirk: Karlsruhe
+  entfernung_kreisstadt: 7 km östlich
+  höhe_min: 600 m ü. NN
+  höhe_max: 715 m ü. NN
+  waldanteil: 48 %
+  waldanteil_hektar: 1164 ha
+  lage: nördlicher Schwarzwald
+  erste_urkundliche_erwähnung: 767
+  quelle_erwähnung: Lorscher Codex
+  ist_stadt: true
+  stadt_erhoben: 1267-1276
+  ist_oberamtsstadt_gewesen: true
+  oberamtsstadt_zeitraum: 1755-1807
+  deutsche_fachwerkstraße: Südroute (Mosbach–Haslach im Kinzigtal)
+  deutsche_alleenstraße: liegt an
+  verkehrsgemeinde: Landkreis Freudenstadt
+  naturpark: Schwarzwald Mitte/Nord
+  is_kreisstadt: false
+  ist_vermutlich_aktuell: true
+GUELTIG_AB: 1267
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Aach
+ORTSTEIL_BEZUG: Aach
+EIGENSCHAFTEN:
+  teil_seit: 1. Januar 1975
+  komponenten: Dorf Aach, Gehöft Benzinger Hof, Häuser Glattal
+  glatt_quelle: Zusammenfluss Ettenbach, Stockerbach, Kübelbach
+  bahnhaltepunkt_seit: 2018
+  bahnhaltepunkt_takt: Zweistundentakt
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1975
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hallwangen
+ORTSTEIL_BEZUG: Hallwangen
+EIGENSCHAFTEN:
+  teil_seit: 1. Januar 1975
+  komponenten: Dorf Hallwangen
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1975
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Bernhard Haas
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  partei: parteilos
+  wahl: März 2012
+  wahlgang: zweiter Wahlgang
+  stimmenanteil: 51,1 %
+  vorgänger: Dieter Flik
+  vorgänger_stimmenanteil: 3,2 %
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2012
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Jacob Beurlin
+EIGENSCHAFTEN:
+  lebensdaten: um 1520–1561
+  beruf: evangelischer Theologe und Reformator
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1520
+GUELTIG_BIS: 1561
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Johann Jakob Schertlin
+EIGENSCHAFTEN:
+  lebensdaten: 1784–1855
+  beruf: württembergischer Oberamtmann
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1784
+GUELTIG_BIS: 1855
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Heinrich Schäff
+EIGENSCHAFTEN:
+  alias: Hermann Zerweck
+  lebensdaten: 1862–1937
+  beruf: Schriftsteller, Maler
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1862
+GUELTIG_BIS: 1937
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Fritz Kläger
+EIGENSCHAFTEN:
+  lebensdaten: 1914–2007
+  beruf: Motorradrennfahrer und -konstrukteur
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1914
+GUELTIG_BIS: 2007
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Erich Bochinger
+EIGENSCHAFTEN:
+  lebensdaten: 1928–2016
+  beruf: evangelischer Theologe
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1928
+GUELTIG_BIS: 2016
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Cornelia Horz
+EIGENSCHAFTEN:
+  geburt: 1957
+  beruf: Juristin, Präsidentin des Oberlandesgerichts Stuttgart
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1957
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Wolfram Graf
+EIGENSCHAFTEN:
+  geburt: 1965
+  beruf: Komponist, Pianist und Organist
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1965
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Eleonore Kötter
+EIGENSCHAFTEN:
+  lebensdaten: bis 2017
+  beruf: Dornstetter Künstlerin
+  stiftung: Kunstsammlung (Heimatmuseum)
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 2017
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirche
+BEZEICHNUNG: evangelische Kirche
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  seit_reformation: Dornstetten evangelisch geprägt
+  gueltig_ab: Reformation
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kirche
+BEZEICHNUNG: römisch-katholische Kirche
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  betreuung: Kirchengemeinde Freudenstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirche
+BEZEICHNUNG: neuapostolische Kirche
+EIGENSCHAFTEN:
+  konfession: neuapostolisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kirche
+BEZEICHNUNG: evangelisch-methodistische Kirche
+EIGENSCHAFTEN:
+  konfession: evangelisch-methodistisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Scey-sur-Saône-et-Saint-Albin
+EIGENSCHAFTEN:
+  region: Bourgogne-Franche-Comté
+  land: Frankreich
+  relation: partnerschaftliche Beziehung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Naturschutzgebiet Benzinger Berg
+EIGENSCHAFTEN:
+  typ: Naturschutzgebiet
+  lage: Süden des Stadtgebiets
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Silberberg
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Springbrunnen-Ettenbachtal
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+  anteil: Teile der Fläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Stockenbachtal
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+  anteil: Teile der Fläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Oberes Glattal
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+  anteil: Teile der Fläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: FFH-Gebiet Freudenstädter Heckengäu
+EIGENSCHAFTEN:
+  typ: FFH-Gebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: schule
+BEZEICHNUNG: Gymnasium
+EIGENSCHAFTEN:
+  erste_erwähnung: 1461
+  umwandlung_vollgymnasium: Schuljahr 2006/07
+  status: Vollgymnasium seit 2006/07
+GUELTIG_AB: 1461
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schule
+BEZEICHNUNG: Realschule
+EIGENSCHAFTEN:
+  gebäude_mit: Werkrealschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Werkrealschule
+EIGENSCHAFTEN:
+  gebäude_mit: Realschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule
+EIGENSCHAFTEN:
+  anzahl: 3
+  verteilung: eine pro Ortsteil
+IST_VERMUTISCH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schule
+BEZEICHNUNG: Dreifürstensteinschule
+EIGENSCHAFTEN:
+  typ: Körperbehindertenschule
+  träger: Stiftung KBF
+  form: Außenstelle Dornstetten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Eichenäcker-Schule
+EIGENSCHAFTEN:
+  typ: Förderschule
+  spezialisierung: Schüler mit geistiger Behinderung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: einrichtung
+BEZEICHNUNG: Kindergarten
+EIGENSCHAFTEN:
+  anzahl: 7
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: museum
+BEZEICHNUNG: Puppen- und Spielzeugmuseum
+EIGENSCHAFTEN:
+  standort: Kaufhaus Hegel
+  typ: Spezialisiertes Museum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum
+EIGENSCHAFTEN:
+  inhalt: Stadtgeschichte, Leben der Bürger, Kunstsammlung
+  etagen: 3
+  kunstsammlung_stiftung: Eleonore Kötter (2017)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bergwerk
+BEZEICHNUNG: Himmlisch Heer
+ORTSTEIL_BEZUG: Hallwangen
+EIGENSCHAFTEN:
+  typ: Silber-, Kupfer- und Schwerspatbergwerk
+  status: historisch
+  besuchbar: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: Altstadt
+EIGENSCHAFTEN:
+  charakteristika: Fachwerkhäuser und Gassen
+  sehenswert: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: Aussichtsturm Königskanzel
+EIGENSCHAFTEN:
+  typ: Aussichtsturm
+  name: Königskanzel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: freizeit_einrichtung
+BEZEICHNUNG: Barfußpark
+ORTSTEIL_BEZUG: Hallwangen
+EIGENSCHAFTEN:
+  länge: 2,4 km
+  form: Rundweg
+  stationen: Erlebnis-, Kneipp- und Spielstationen
+  zweck: Naturerlebnisse, Naturheilmittel gegen Venenleiden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Bahnstrecke Eutingen im Gäu–Schiltach
+EIGENSCHAFTEN:
+  stationen: Dornstetten, Aach (seit 2018)
+  züge_re14b: Freudenstadt–Stuttgart
+  züge_s8_s81: Bondorf (bei Herrenberg)–Karlsruhe Tullastraße (Stadtbahn Karlsruhe)
+  takt_haltepunkte: Zweistundentakt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnhaltepunkt
+BEZEICHNUNG: Bahnhaltepunkt Aach
+ORTSTEIL_BEZUG: Aach
+EIGENSCHAFTEN:
+  in_betrieb_seit: 2018
+  takt: Zweistundentakt
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2018
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bundesstraße
+BEZEICHNUNG: Bundesstraße 28
+EIGENSCHAFTEN:
+  ausführung: Umgehungsstraße außerhalb der Bebauung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: wirtschaft
+EIGENSCHAFTEN:
+  gewerbesteuereinnahmen_2022: 8,68 Millionen Euro
+  gewerbesteuerhebesatz: 355 %
+  gewerbesteuerhebesatz_deutschland_2023: 407 %
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2022
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Waldgeding Dornstetten
+EIGENSCHAFTEN:
+  ereignis: erste urkundliche Erwähnung
+  jahr: 767
+  quelle: Lorscher Codex
+  beschreibung: Dornstetter Waldgeding existierte auf dem heutigen Gemeindegebiet
+GUELTIG_AB: 767
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Stadterhebung Dornstetten
+EIGENSCHAFTEN:
+  ereignis: Ort zur Stadt erhoben
+  zeitraum: 1267-1276
+  grund: Erhebung durch Grafen von Urach-Fürstenberg
+GUELTIG_AB: 1267
+GUELTIG_BIS: 1276
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Territorialwechsel zu Württemberg
+EIGENSCHAFTEN:
+  ereignis: Stadt kam an Württemberg
+  jahr: 1320
+  grund: über Grafen von Hohenberg
+GUELTIG_AB: 1320
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Oberamtsstadt Dornstetten
+EIGENSCHAFTEN:
+  ereignis: Dornstetten Sitz des gleichnamigen Oberamts
+  gueltig_ab: 1755
+  gueltig_bis: 1807
+  grund_auflösung: Umsetzung neue Verwaltungsgliederung Königreich Württemberg
+  folge: Eingliederung in Oberamt Freudenstadt
+GUELTIG_AB: 1755
+GUELTIG_BIS: 1807
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Kreisreform Nationalsozialismus
+EIGENSCHAFTEN:
+  ereignis: Stadt gelangte zum Landkreis Freudenstadt
+  jahr: 1938
+  kontext: Kreisreform während Zeit des Nationalsozialismus in Württemberg
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Nachkriegsgeschichte Dornstetten
+EIGENSCHAFTEN:
+  ereignis_phase1: Nach Zweitem Weltkrieg in Französische Besatzungszone
+  ereignis_phase2: 1947 zum neu gegründeten Land Württemberg-Hohenzollern
+  ereignis_phase3: 1952 im Land Baden-Württemberg aufgegangen
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1952
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Gemeindefusion Dornstetten
+EIGENSCHAFTEN:
+  ereignis: Dornstetten vereinigte sich mit Aach und Hallwangen
+  datum: 1. Januar 1975
+  resultierend: neue Stadt Dornstetten
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+SPENDER: Tengen (nicht Teil der Fahrt)
+ENTITÄT: ort
+BEZEICHNUNG: Tengen
+EIGENSCHAFTEN:
+  typ: Landstadt
+  region: Hegau
+  landkreis: Konstanz
+  lage_grenznahe: an der Grenze zur Schweiz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Tengen — Erstnennung
+EIGENSCHAFTEN:
+  erstnennung_jahr: 877
+  erstnennung_name_form: Teingon
+  erstnennung_urkunden_typ: Brief
+  warum_eigentumsherr: gehörte dem Bischof Salomo II. von Konstanz
+GUELTIG_AB: 877
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Tengen — Hinterstadt / Hintertengen Entwicklung
+EIGENSCHAFTEN:
+  stadtraechte_stauferzeit: Herren von Tengen erhielten Stadtrechte und Hohe Gerichtsbarkeit
+  verkauf_jahr: 1275
+  herrschaft_nach_verkauf: habsburgisch
+  veraenderungen_nach_1275: weitere Wechsel, schließlich Besitz Deutschordenskommende Mainau
+  warum_schwaben_1446: Hintertengener waren gefürchtete Raubritter; Schwäbischer Städtebund kam mit Heer
+  hintertengen_strategie_1446: Schwaben durften Hintertengen von Vordertengen aus angreifen, wenn Vordertengen verschont würde
+  oesterreich_jahr: 1522
+  brand_burg_jahr: 1519
+  warum_brand: Burg wurde durch Brand endgültig zerstört (drei Jahre vor Österreich-Kommen)
+  marktrecht_jahr: 1291
+  marktrecht_gewaehrer: König Rudolf I.
+  marktrecht_nutzbarkeit: konnte nicht genutzt werden, weil für einen Markt kein Platz da war und keine eigene Zufahrt (nur Fuß- und Eselsweg)
+GUELTIG_AB: 1275
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geographie
+BEZEICHNUNG: Tengen — Stadtanlage Vorder- und Hinterstadt
+EIGENSCHAFTEN:
+  lage_form: Felssporn
+  felssporn_laenge: 300 Meter
+  felssporn_breite: 60–90 Meter
+  trennung_staedte: Stadtmauer und Graben mit Bogenbrücke
+  vorderstadt_laenge: 200 Meter
+  vorderstadt_bestandteile: im Wesentlichen ein Marktplatz
+  hinterburg_relative_groesse: halb so groß wie Vorderstadt
+  bergfried_hoehe: 32 Meter
+  bergfried_erhalt: noch heute zu sehen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Verenahof — deutsche Exklave
+EIGENSCHAFTEN:
+  groesse: 43 Hektar
+  beschreibung: Bauernbetrieb ganz umgeben von Schweizer Gebiet
+  ursprungs_gemeinde: Büttenhardt im Kanton Schaffhausen
+  warum_exklave: Tengener Grafschaft hatte dort ehemals Besitz
+  jahr_badisches_verfahren: 1806
+  status_1806: Großherzogtum Baden
+  ortsteil_zugehoerig: Wiechs
+  jahr_transition_schweiz: 1967
+  warum_transition_schweiz: Staatsvertrag durch Landtausch mit der Schweiz
+  vergleich_bueßingen: neben Büsingen eine lange deutsche Exklave
+  grenzsteine_erinnerung: alte Grenzsteine beim Rathaus Wiechs am Randen und Alten Schulhaus Büttenhardt
+GUELTIG_AB: 1806
+GUELTIG_BIS: 1967
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geologie_formation
+BEZEICHNUNG: Weißer Jura (Oberjura)
+EIGENSCHAFTEN:
+  alter: rund 140 Millionen Jahre
+  ablagerung: Kalke
+  vorkommen_lage: vorwiegend in Schluchten und Taleinschnitten
+  warum_sichtbar: durch Abtragung der jüngeren Molasseschichten angeschnitten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geologie_formation
+BEZEICHNUNG: Obere Meeresmolasse — Randengrobkalke
+EIGENSCHAFTEN:
+  alter: rund 20 Millionen Jahre
+  lokale_misnomenklatur: in Tengen und Umgebung fälschlicherweise Tengener Muschelkalk genannt
+  beschaffenheit: grobsandiger Schalentrümmerkalk
+  farbe: hellgelb
+  bestandteile_muschel_schnecken: Muschel- und Schneckenschalen
+  bestandteile_quarzsand_prozent: 20–40 Prozent
+  fossilien_haifischzaehne_groesse_max: bis zu 2 cm
+  fossilien_interpretation: Haifischzähne und Salzwassertiere belegen Obere Meeresmolasse-Ablagerung
+  schichtung_besonderheit: gegenläufige Schichten (Kreuz- oder Grenzschichtung) als ufernahes Gezeitenmuster
+  schichtung_haeufigkeit: nicht der Normalfall
+  warum_nutzung_roemerzeit: beliebter Baustein, Römerzeit belegt durch Münzfund in Steinbruch bei Wiechs am Randen
+  nutzung_roemerzeit_details: Läufer für Mühlsteine, Wärmespeicherung in Thermen und Hypokaustenheizungen, Häuserbau
+  nutzung_neu: Nitrat-Beständigkeit → Bodenplatten im Stallungsbau
+GUELTIG_AB: (prähistorisch)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch westlich Tengen-Stadt
+ORTSTEIL_BEZUG: Tengen-Stadt
+EIGENSCHAFTEN:
+  lage_detail: westlich Tengen-Stadt und westlich der Hinterburg, Gewann Flüh, Waldfestplatz
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch östlich der Hinterburg
+ORTSTEIL_BEZUG: Tengen-Stadt
+EIGENSCHAFTEN:
+  lage_detail: östlich der Hinterburg, Bereich des heutigen Bauhofs in Richtung Büßlingen
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch um Uttenhofen
+ORTSTEIL_BEZUG: Uttenhofen
+EIGENSCHAFTEN:
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch nördlich Wiechs am Randen
+ORTSTEIL_BEZUG: Wiechs am Randen
+EIGENSCHAFTEN:
+  lage_detail: nördlich von Wiechs am Randen (früher teilweise zu Uttenhofen gehörend)
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch nördlich der B314 zwischen Tengen und Blumenfeld
+EIGENSCHAFTEN:
+  lage_detail: nördlich der B314 zwischen Tengen und Blumenfeld
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch Kreisstraße 6135 unterhalb Talheim
+ORTSTEIL_BEZUG: Talheim
+EIGENSCHAFTEN:
+  lage_detail: an der Kreisstraße 6135 unterhalb von Talheim
+  material: vermutlich einer Verwerfung im Weißjura
+  genauigkeit: vermutlich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Talheim und Uttenhofen
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1971
+  status_vorher: selbstständige Gemeinden
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Blumenfeld
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1973
+  status_vorher: selbstständige Gemeinde
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Beuren am Ried
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1972
+  status_vorher: selbstständige Gemeinde
+  eingemeindung_zu: Büßlingen
+GUELTIG_AB: 1972
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Weil
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1972
+  status_vorher: selbstständige Gemeinde
+  eingemeindung_zu: Watterdingen
+GUELTIG_AB: 1972
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Neubildung Stadt Tengen
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1975
+  bestandteile: Tengen, Büßlingen, Watterdingen, Wiechs am Randen
+  grund: Zusammenfassung vorheriger Eingemeindungen
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: religion
+BEZEICHNUNG: Tengen — religiöse Prägung
+EIGENSCHAFTEN:
+  dominante_konfession: römisch-katholisch
+  seit_wann: seit jeher
+GUELTIG_AB: (nicht genau datiert)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirchenbau
+BEZEICHNUNG: St. Laurentius
+EIGENSCHAFTEN:
+  typ: römisch-katholische Pfarrkirche
+  typologische_funktion: Wehrkirche (erhöhte Lage)
+  baustilistik_kern: frühgotisch
+  datierung_kern: 13. Jahrhundert
+  nachweise_kern: kleine zugemauerte Spitzbogenfenster an der Südwand
+  neubau_turm_jahr: 1518
+  umbau_barockisierung_jahr: um 1730
+  restaurierung_jahre: 1880 und 1909
+  erweiterung_massive_jahr: 1929/1930
+  erweiterung_massive_teile: Neubau von Chor, Querhaus und Sakristei
+  erweiterung_turm_hoehe_jahr: 1934
+  innenausstattung_stil: einheitliche barocke Ausstrahlung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: kirchenbau
+BEZEICHNUNG: St. Georg
+EIGENSCHAFTEN:
+  typ: römisch-katholische Kapelle
+  ursprung: Burgkapelle der Hinterburg
+  datierung_erbauung: Anfang 14. Jahrhundert
+  umgestaltung: barockisiert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: religion
+BEZEICHNUNG: Evangelische Gemeinde Tengen
+EIGENSCHAFTEN:
+  beschreibung: kleine evangelische Gemeinde
+  status: klein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: politik_gremium
+BEZEICHNUNG: Gemeinderat Tengen
+EIGENSCHAFTEN:
+  groesse_ab_2024: 16 Mitglieder
+  groesse_davor: 22 Mitglieder
+  wahlbeteiligung_2024: 69,26 Prozent
+  wahlbeteiligung_2019: 66,15 Prozent
+  wahl_datum: 9. Juni 2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: politik_person
+BEZEICHNUNG: Helmut Groß
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  geburtsjahr: 1948
+  geburtsort: Crailsheim
+  amtszeit_von: 1973
+  amtszeit_bis: 2015
+  amtszeit_grund_abgang: Alter
+GUELTIG_AB: 1973
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: politik_person
+BEZEICHNUNG: Marian Schreier
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  geburtsdatum: 8. Februar 1990
+  geburtsort: Stuttgart
+  partei: SPD
+  amtszeit_von: 2015
+  amtszeit_bis: 2023
+  wahl_datum: 1. März 2015
+  superlativ: zum Zeitpunkt der Wahl mit 25 Jahren der jüngste Bürgermeister Deutschlands
+GUELTIG_AB: 2015
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: politik_person
+BEZEICHNUNG: Selcuk Gök
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  geburtsjahr: 1997
+  geburtsort: Mannheim
+  partei: SPD
+  wahl_datum: 19. März 2023
+  wahl_ergebnis: 50,3 Prozent
+  amtsantritt: 27. April 2023
+  amtszeit_von: 2023
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Busverbindung Tengen — Engen
+EIGENSCHAFTEN:
+  rhythmus: Stundentakt
+  start_punkt: Engen
+  ausnahmeregelung: außer Sonntag
+  anschluss_beschreibung: fährt nach Ankunft des Eilzugs von Konstanz ab
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur_strasse
+BEZEICHNUNG: Bundesstraße 314
+EIGENSCHAFTEN:
+  verbindung_von: Lauchringen
+  verbindung_zu: Singen (Hohentwiel)
+  funktion: überregionale Straßenanbindung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: infrastruktur_radweg
+BEZEICHNUNG: Heidelberg-Schwarzwald-Bodensee-Radweg
+EIGENSCHAFTEN:
+  typ: Landes-Radfernweg
+  start: Heidelberg
+  ende: Radolfzell
+  verlauf_detail: von Donaueschingen kommend über Tengen und Singen an sein Ziel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: bildung
+BEZEICHNUNG: Tengen — Schulen
+EIGENSCHAFTEN:
+  schultypen: Grund- und Werkrealschule
+  kindergaerten: 3 Kindertagesstätten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: denkmalschutz
+BEZEICHNUNG: Altstadt Tengen
+EIGENSCHAFTEN:
+  schutzstatus: Gesamtanlage denkmalgeschützt
+  bezeichnung_schutz: Stadtanlage Tengen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Burg Tengen (Hinterburg)
+EIGENSCHAFTEN:
+  alternative_Namen: Hinterburg, Burg Hintertengen
+  erhalt_heute: Bergfried erhalten
+  bergfried_hoehe: 32 Meter
+  bergfried_sichtbarkeit: noch heute zu sehen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: archaeologie
+BEZEICHNUNG: Römischer Gutshof bei Büßlingen
+ORTSTEIL_BEZUG: Büßlingen
+EIGENSCHAFTEN:
+  museum_typ: Freilichtmuseum
+  zeitstellung: römisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schloss Blumenfeld
+ORTSTEIL_BEZUG: Blumenfeld
+EIGENSCHAFTEN:
+  kategorie: Schloss
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: naturdenkmael
+BEZEICHNUNG: Mühlbachschlucht
+EIGENSCHAFTEN:
+  lage: östlich der Altstadt
+  beschaffenheit: Schlucht des Mühlbachs
+  wasserfaelle: mehrere sehenswerte Wasserfälle
+  besonderheit: Mühlenruine mit laufendem Mühlenrad
+  infrastruktur: Besucherweg mit Brücken und Stegen am Mühlbach entlang
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Blumenfelder Wasserfall
+ORTSTEIL_BEZUG: Blumenfeld
+EIGENSCHAFTEN:
+  fluss: Biber
+  lage_detail: unter der Brücke in die Altstadt von Blumenfeld
+  besonderheit_regenfaelle: infolge schwerer Regenfälle starke Anschwellungen des Flusses
+  warum_ueberschwemmungen: Anschwellungen führen zu massiven Überschwemmungen im Umland
+  historische_notiz_jahr: 1753
+  historische_notiz_text: „Die Landschaft Blumenfeld ist durch Schauer- und Hagelwetter auf den Bettelstab gebracht worden."
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Gerichtslinde Tengen
+EIGENSCHAFTEN:
+  lage: nördlich von Tengen am Tengener Eck neben Kreisstraße 6137 (Leipferdinger Straße)
+  lage_detail: kaum 200 m vor dem Berghof im freien Feld
+  baumtyp: Sommerlinde
+  alter_schaetzung: 300–400 Jahre
+  status: als Naturdenkmal ausgewiesen
+  warum_geschichtlich: im Mittelalter jährliche Tengener Gerichtstage
+  erinnerung_heute: alte Beschilderung dokumentiert historische Gerichtstage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: touristische_route
+BEZEICHNUNG: Römerstraße Neckar–Alb–Aare
+EIGENSCHAFTEN:
+  verlauf: führt durch Tengen an vielen Sehenswürdigkeiten vorbei
+  charakteristik: Römerstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: geographie
+BEZEICHNUNG: Europäische Wasserscheide
+EIGENSCHAFTEN:
+  lage: Höhenrücken im Norden der Gemarkung Tengen
+  warum_position: trennt Bodenseebecken vom Donautal
+  verlauf: auf mehreren Kilometern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historischer_weg
+BEZEICHNUNG: Alter Postweg
+EIGENSCHAFTEN:
+  verlauf: auf dem Höhenrücken (Europäische Wasserscheide), auf mehreren Kilometern
+  charakteristik: historischer Verkehrsweg von überregionaler Bedeutung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Franz Christoph von Scheyb
+EIGENSCHAFTEN:
+  geburtsjahr: 1704
+  todesjahr: 1777
+  berufe: Schriftsteller
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Matthäus Cornelius Münch
+EIGENSCHAFTEN:
+  geburtsjahr: 1771
+  todesjahr: 1853
+  berufe: Geistlicher und Pädagoge
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Josef Benignus Maus
+EIGENSCHAFTEN:
+  geburtsjahr: 1775
+  todesjahr: 1856
+  berufe: Historiker
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Otto Lueger
+EIGENSCHAFTEN:
+  geburtsjahr: 1843
+  todesjahr: 1911
+  berufe: Ingenieur
+  herausgeber: Lexikon der gesamten Technik
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Albert Maier
+EIGENSCHAFTEN:
+  geburtsjahr: 1873
+  todesjahr: 1961
+  berufe: Pädagoge und Politiker
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Fritz Peter
+EIGENSCHAFTEN:
+  geburtsjahr: 1899
+  todesjahr: 1949
+  berufe: Pädagoge, Physiker und Mathematiker
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Natascha Ungeheuer
+EIGENSCHAFTEN:
+  geburtsjahr: 1937
+  geburtsjahr_born_as: Ursula Rosa Ungeheuer
+  berufe: Malerin und Schauspielerin
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Christine Muscheler-Frohne
+EIGENSCHAFTEN:
+  geburtsjahr: 1950
+  berufe: Politikerin
+  partei: Grüne
+  position: ehemalige Landtagsabgeordnete
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Andreas Gruschke
+EIGENSCHAFTEN:
+  geburtsjahr: 1960
+  todesjahr: 2018
+  berufe: Autor, Fotograf und Tibetkundler
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Otto Sauter
+EIGENSCHAFTEN:
+  geburtsjahr: 1961
+  berufe: Piccolo-Trompeter
+  spezialisierung: Barockmusik
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Traugott Freiherr von Stackelberg
+EIGENSCHAFTEN:
+  geburtsjahr: 1891
+  todesjahr: 1970
+  berufe: Mediziner, Maler, Schriftsteller
+  herkunft: Tengen (sonstige)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Heidi Tübinger
+EIGENSCHAFTEN:
+  geburtsjahr: 1936
+  berufe: Malerin
+  herkunft: Tengen (sonstige)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Gottfried Hummel
+EIGENSCHAFTEN:
+  geburtsjahr: 1968
+  berufe: Komponist und Dirigent
+  position_dirigent: Dirigent der Stadtkapelle Tengen
+  position_dirigent_zeitraum: 2016–2022
+  werke_komponiert: Lied "Engen, Tengen, Blumenfeld, sind die schönsten Städt der Welt"
+  werke_text: Texter des Liedes
+  herkunft: Tengen (sonstige)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+

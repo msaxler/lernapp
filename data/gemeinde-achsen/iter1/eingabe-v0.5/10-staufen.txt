@@ -1,0 +1,2373 @@
+ZIELORT: Staufen (Stadt)
+
+GRUNDDATEN:
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 8392  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 23,32  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 360  [berechnet aus Einwohner und Fläche]
+  kfz: FR  [Wikidata P395]
+  hoehe_m: 284  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2829318)]
+  naechste_grossstadt: Freiburg im Breisgau, 16 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 146 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Staufen, Haltepunkt Etzenbach, Haltepunkt Staufen Süd  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 79219  [Wikidata P281]
+  vorwahl: 07633  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 29,2 %, GRÜNE 24,9 %, SPD 17 %, AfD 10,8 %; Wahlbeteiligung 87,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Benjamin Bröcker (Bündnis 90/Die Grünen) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-01]
+  partnerstaedte: Bonneville, Kazimierz Dolny  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker Zahl (Größe, Höhe, Alter oder Entfernung), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik (Wahlergebnis), A oder C, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker Zugehörigkeit oder Lage (Kennzeichen, Landkreis, Bahnhof, Großstadt), A, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B nach deiner Wahl, wahre Option an Stelle 3 (bei B: Lüge an Stelle 2)
+
+LETZTER_PIN: Horben (Gemeinde)
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  einwohner: 1202  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 8,75  [Wikidata P2046]
+  kfz: FR  [Wikidata P395]
+  hoehe_m: 607 | 495 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2899093)]
+  naechste_grossstadt: Freiburg im Breisgau, 7 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 34,3 %, GRÜNE 22 %, SPD 15,7 %, AfD 8,6 %; Wahlbeteiligung 91,4 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Umkirch, Gundelfingen, Denzlingen, Zähringen, St. Peter, Glottertal, Kirchzarten, Günterstal, Horben, Staufen
+
+FAKTEN (Zielort Staufen):
+ENTITÄT: ort
+EIGENSCHAFTEN:
+  name: Staufen im Breisgau
+  einwohner: 8500
+  einwohner_stand: 31. Dezember 2022
+  landkreis: Breisgau-Hochschwarzwald
+  bundesland: Baden-Württemberg
+  namenszusatz_gültig_ab: 4. März 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: naturraum
+BEZEICHNUNG: Schlossberg
+EIGENSCHAFTEN:
+  typ: Berg
+  besonderheit: erhebt sich steil nördlich des Talausgangs
+  beschreibung: manchmal fälschlich als Vulkankegel bezeichnet
+  geologie: hauptsächlich Braunjuraschollen und tertiäres Konglomerat
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Grunern
+EIGENSCHAFTEN:
+  status: ehemals selbständige Gemeinde
+  eingemeindung_datum: 1. Januar 1974
+  unterteile: Dorf Grunern, Weiler Etzenbach, Weiler Kropbach, Höfe Hohacker, Sahlenbach, Schleifsteinhof, Schöneck
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wettelbrunn
+EIGENSCHAFTEN:
+  status: ehemals selbständige Gemeinde
+  eingemeindung_datum: 1. Juli 1971
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Staufen
+EIGENSCHAFTEN:
+  gründung_zeit: im Laufe des 12. Jahrhunderts angenommen
+  erste_erwähnung: 1248
+  besitz_stadt_freiburg_erwerb: ca. 1327
+  beschreibung: Ruine, sichtbar von weitem über der Rheinebene
+  besitz_heute: Stadt Staufen
+  beleuchtung: nachts hell angestrahlt
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: adelsfamilie
+BEZEICHNUNG: Herren von Staufen
+EIGENSCHAFTEN:
+  erste_erwähnung: 1111
+  herkunft: Nebenlinie derer von Blankenberg
+  verwandtschaft_hohenstaufen: nicht verwandt
+  herrschaftsdauer: fast 500 Jahre kontinuierlich
+  superlativ: kontinuierliche Herrschaft über ein halbes Jahrtausend bemerkenswert
+  erloschenes_geschlecht: 1602
+GUELTIG_AB: 1111
+GUELTIG_BIS: 1602
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Martin
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  adresse: Kirchstraße 17
+  architektur: Spätgotische, dreischiffige Basilika
+  weihe: 1518
+  kunstwerke: Skulpturen von Hans Multscher, teilweise Werke von Hans Sixt von Staufen
+  barockisierung: nach Dreißigjährigen Krieg
+  neugotische_ausgestaltung: 1870-1879
+  restauration: 1993 teilweise wiederhergestellt
+GUELTIG_AB: 1518
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Martin-Luther-Kirche
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  adresse: Münstertäler Straße 1
+  einweihung: 1899
+  gründungsgrund: für Diasporagemeinde mit knapp 200 Mitgliedern
+  architektur: gotische Stilelementen
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Friedhofskapelle St. Sebastian
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  adresse: Wettelbrunner Str. 17
+  gründungsgrund: Ersatz für aufgelassenen Friedhof bei St. Martin (Ende 16. Jahrhundert)
+  ältester_grabstein: 1597
+  architektur: spätgotisch
+  einweihung: 1600
+  restauration: 1652 nach Dreißigjährigen Krieg, 1826, 1983-2014
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Magdalenenkapelle
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  adresse: Krozinger Straße 1 a
+  erbauung: 1586
+  gründungsgrund: Leprosenhauskapelle
+  wiederaufbau: 1738 nach Brand
+  umwandlung: 1827 zu Waschhaus und Brennerei
+  besitzer_seit_1996: Arbeitskreis Staufener Stadtbild e.V.
+GUELTIG_AB: 1586
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Gotthardkapelle
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  adresse: Bötzenstraße 67
+  erste_erwähnung: 1352
+  ursprungsname: Krozinger Filialkirche ad sanctum Gothardum
+  nutzungen: Leprosenkapelle, später Einsiedelei
+  barockaltar: seit 1896 aus der Magdalenenkapelle
+GUELTIG_AB: 1352
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Johanneskapelle
+ORTSTEIL_BEZUG: Staufen im Breisgau (Dürenbuck)
+EIGENSCHAFTEN:
+  erbauung: 1685
+  erbauer: Eremit Johannes Willi
+  gründungsgrund: nachdem dieser die St. Gotthardkapelle verlassen musste
+  besitzer_seit_2003: Arbeitskreis Staufener Stadtbild e.V.
+  restauration_abschluss: 2005
+  auszeichnung: Denkmal des Monats November 2004 (Denkmalstiftung Baden-Württemberg)
+GUELTIG_AB: 1685
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Gefallenenkapelle St. Josef
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  adresse: Bötzenstraße 39
+  erbauer: Hofbauer Schlegel
+  erbauung: ca. 1760
+  gründungsgrund: Andachtskapelle des Barock
+  schaden_kriegsende: Dachziegel für Wiederaufbau verwendet
+  neuweihung: 22. Juni 1952
+  neuweihung_grund: christliche Gedächtnisstätte für Opfer beider Weltkriege
+GUELTIG_AB: 1760
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapellenbildstock Krozinger Straße
+ORTSTEIL_BEZUG: Staufen im Breisgau (Fuß des Schlossbergs)
+EIGENSCHAFTEN:
+  erbauung: Ende 19. Jahrhundert
+  erbauer_grund: Familie Wehrle zur Aufnahme Lourdes-Madonna
+  stifterin: Familie Midelet aus Paris
+  restauration: 1999, 2017
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Agatha
+ORTSTEIL_BEZUG: Grunern
+EIGENSCHAFTEN:
+  adresse: Dorfstraße 1
+  erste_erwähnung: 1144
+  turm: Teile aus Mittelalter
+  kirchenbau: 1726
+  ausstattung: neugotisch
+  kanzel_herkunft: aus aufgelassenem Kapuzinerkloster Staufen
+GUELTIG_AB: 1144
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Friedhofskapelle Grunern
+ORTSTEIL_BEZUG: Grunern
+EIGENSCHAFTEN:
+  adresse: Altenbergstraße
+  erbauung: 1869
+  gründungsgrund: anlässlich Verlagerung des Friedhofs von Pfarrkirche
+GUELTIG_AB: 1869
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Hofkapelle Schneider
+ORTSTEIL_BEZUG: Grunern-Kropbach
+EIGENSCHAFTEN:
+  adresse: Kropbach 4
+  erbauung: 1881
+  gründungsgrund: Dank für Genesung des damaligen Hofbesitzers
+GUELTIG_AB: 1881
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Vitus
+ORTSTEIL_BEZUG: Wettelbrunn
+EIGENSCHAFTEN:
+  adresse: St. Vitus-Straße 1
+  langhaus_neubau: 1733 nach Brand
+  chor: spätmittelalterlich
+  turm: romanisch mit barocker Aufstockung
+GUELTIG_AB: 1733
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: theater
+BEZEICHNUNG: Auerbachs Kellertheater
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  adresse: Auf dem Rempart 7
+  gründung: 1987
+  gründer: Eberhard Busch
+  gründer_philosophie: intelligentes und kein intellektuelles Theater
+  umzug: 1989
+  ort_beschreibung: alter Gewölbekeller, ehemaliges Schnapslager Schladerer
+  plätze: 99 Besucher
+  bekanntheit: überregional
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  ort: historisches Rathaus
+  schwerpunkte: mittelalterliche Stadt, Silberbergbau, Hans Sixt von Staufen, Johann Georg Faust, Badische Revolution 1848
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: ausstellung
+BEZEICHNUNG: Peter Huchel – Erhart Kästner Dauerausstellung
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  ort: Stubenhaus
+  träger: Deutsches Literaturarchiv Marbach
+  typ: literarisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: museum
+BEZEICHNUNG: Keramikmuseum Staufen
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  träger: Außenstelle Badisches Landesmuseum Karlsruhe
+  besonderheit: Töpferwerkstatt im Original mit Tongrube, Scheibe, Glasurmühle, Holzbrennöfen
+  wechselausstellungen: zeitgenössische Keramik
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: museum
+BEZEICHNUNG: Tango- und Bandoneonmuseum
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  eröffnung: Juli 2014
+  ort: Kapuzinerhof
+  sammlung: 450 Bandoneons und Exponate (Konrad und Axel Steinhart)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: werkstatt
+BEZEICHNUNG: Fark'sche Werkstatt
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  adresse: Bahnhofstraße
+  typ: technisches Denkmal, Maschinenbau- und Schlosserwerkstatt
+  zeit: Frühzeit des Maschinenbaus
+  zugang: nur auf Anfrage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+ENTITÄT: brücke
+BEZEICHNUNG: Deckerbrücke
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  offizialname: Gusseisenbrücke über den Neumagen
+  volkstümlicher_name: Deckerbrücke
+  grund_name: Café Decker stellt Tische und Stühle auf dieser Brücke
+  denkmalschutz: ja
+  superlativ: letzte erhaltene gusseiserne Straßenbrücke in Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: gaststaette
+BEZEICHNUNG: Gasthaus zum Löwen
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  erste_erwähnung_urkundlich: 1407
+  superlativ: drittes ältestes Gasthaus Deutschlands
+  genauigkeit_superlativ: vermutlich
+  besitzer_15jh: Kloster St. Trudpert
+  name_bestätigung: 1620
+  denkmalschutz: ja
+  faust_zimmer: Zimmer 5 (um 1900 gestaltet)
+  faust_legend: Faust in Zimmer 5 gestorben 1539
+  faust_todesursache: Explosion, vermutlich alchemistisches Experiment
+  badische_revolution: Löwenwirt 1848 von Querschläger tödlich getroffen
+  bombenangriff_1945: Haus blieb unversehrt
+GUELTIG_AB: 1407
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: OWIS GmbH
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  produkt: Hersteller optische Strahlführungs-, Positionier- und Nano-Positioniersysteme
+  mitarbeiter_2007: ca. 50
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: IKA, Jahnke & Kunkel GmbH & Co. KG
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  besonderheit: führender Hersteller Laborgeräte, Analysegeräte, Maschinen und Anlagen
+  niederlassungen: weltweit
+  mitarbeiter_staufen: durchschnittlich über 300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Alfred Schladerer, Alte Schwarzwälder Hausbrennerei GmbH
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  besonderheit: einer der führenden Anbieter Marken-Obstbrände
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Stadtwerke MüllheimStaufen GmbH
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  geschäft: Energieversorgung Müllheim und Staufen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Bilcare Research GmbH
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  produkt: Hart-PVC-Folien
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Obstparadies Staufen
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  typ: Biolandbetrieb
+  produkt: Obst, obsthaltige Getränke
+  auszeichnung: Sieger Bundeswettbewerb Ökologischer Landbau 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: gericht
+BEZEICHNUNG: Amtsgericht Staufen im Breisgau
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  typ: Amtsgericht
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: gymnasium
+BEZEICHNUNG: Faust-Gymnasium
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  rolle: Oberschulzentrum für gesamtes Einzugsgebiet der Stadt
+  schüler: ca. 900
+  lehrkräfte: 90
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: grundschule
+BEZEICHNUNG: Thaddäus-Rinderle-Grundschule
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  außenstellen: Grunern, Wettelbrunn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: freibad
+BEZEICHNUNG: Alemannenbad
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  typ: solarbeheiztes Freibad
+  besonderheit: große Liegewiese
+  superlativ: ältestes Freibad in Baden-Württemberg (nach Lorettobad Freiburg)
+  denkmalschutz: Eingangsbereich, Umkleidekabinen
+  verein_gründung: 2003 Förderverein Alemannenbad Staufen e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: radfernweg
+BEZEICHNUNG: Badischer Weinradweg
+ORTSTEIL_BEZUG: Staufen im Breisgau, Wettelbrunn, Grunern
+EIGENSCHAFTEN:
+  typ: Landes-Radfernweg
+  startpunkt: Grenzach-Wyhlen
+  verlauf_staufen: über Wettelbrunn und Grunern in Kernstadt
+  ziel: Laudenbach (Norden Baden-Württembergs)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: bike_system
+BEZEICHNUNG: Frelo Fahrradverleih
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  start: März 2026
+  stationen_staufen: 4 (davon je eine Wettelbrunn, Grunern)
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Münstertalbahn
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  verlauf: Bad Krozingen nach Münstertal/Schwarzwald
+  betreiber: SWEG
+  elektrifizierung: seit 2013
+  verbindung: Rheintalbahn (Karlsruhe-Basel)
+  klassifizierung: Nebenbahn
+  historischer_zweig: bis 1969 Staufen nach Sulzburg
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Edelkastanie Staufen
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  alter_ca: 300 Jahre
+  stammumfang: 8,57 m
+  stammumfang_stand: 2011
+  superlativ: Esskastanien mit größtem Umfang in Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Annafest
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  zeitpunkt: letzter Sonntag im Juli
+  namensherkunft: Stadtpatroziniumsfest
+  programm: Eucharistiefeier Marktplatz, Prozession, Volksfest bis Montagabend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Staufener Musikwoche
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  zeitpunkt: Ende Juli bis Anfang August
+  gründung: 1949
+  gründer: Ernst Duis, Bürgermeister Eckart Ulmann
+  besucherkunft: weite Teile Deutschlands
+  musikgenre: klassische Musik Mittelalter bis Wiener Klassik
+  besonderheit: mehrstufige Kurswoche mit Abschlusskonzert
+GUELTIG_AB: 1949
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Markgräfler Weinfest
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  zeitpunkt: erstes Augustwochenende
+  besonderheit: Markgräfler Weinprinzessin wird gekürt
+  aussteller: Winzergenossenschaften und Weingüter Markgräflerland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Staufener Zeitreise
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  zeitpunkt: drittes Septemberwochenende
+  start: seit 2003
+  ort: ganze Stadt als Freilichtbühne
+  mitwirkende: über 800
+  inhalt: Szenen aus Stadtgeschichte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Kulturwoche Staufen
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  zeitpunkt: Oktober
+  besonderheit: jährlich wechselndes Grundthema
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Altstaufener Weihnachtsmarkt
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  zeitpunkt: erster Samstag im Dezember
+  ort: Altstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Bonneville
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  partnerstadt: Bonneville
+  département: Haute-Savoie
+  land: Frankreich
+  gründung_partnerschaft: 1963
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Kazimierz Dolny
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  partnerstadt: Kazimierz Dolny
+  woiwodschaft: Lublin
+  land: Polen
+  gründung_partnerschaft: 1994
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: freundschaftsabsicht
+BEZEICHNUNG: Dolores
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  partnerstadt: Dolores
+  región: Buenos Aires
+  land: Argentinien
+  absichtserklärung: Herbst 2018
+  verbindendes_element: argentinischer Tango
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+ENTITÄT: historische_figur
+BEZEICHNUNG: Johann Georg Faust
+EIGENSCHAFTEN:
+  lebensdaten: ca. 1480 bis ca. 1541
+  beruf: Wunderheiler, Alchemist, Magier, Astrologe, Wahrsager
+  anstellung_staufen: verschuldeter Burgherr Anton von Staufen stellte ihn als Goldmacher an
+  todesort: Zimmer 5, Gasthaus zum Löwen, Staufen
+  todesjahr: 1539
+  todesursache: Explosion, vermutlich alchemistisches Experiment
+  literarische_inspiration: Goethe, Tragödie Faust (1790)
+  sage: Mephistopheles brach ihm Genick nach 24-jährigem Pakt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+ENTITÄT: dichter
+BEZEICHNUNG: Johann Peter Hebel
+EIGENSCHAFTEN:
+  lebensdaten: 1760-1826
+  beruf: Dichter alemannischer Gedichte, evangelischer Theologe
+  staufen_verbindung: widmete Staufen Strophe in Gedicht Der Schwarzwälder im Breisgau
+  gedicht_original: Z'Staufen uf em Märt / henn si, was me gehrt: / Tanz und Wii un Lustberkait, / was aim numme 's Herz erfreut, / z'Staufen uf em Märt!
+  gedicht_bedeutung: In Staufen auf dem Markt gibt es, was man nur möchte: Tanz, Wein und Lustbarkeiten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: theaterleiter
+BEZEICHNUNG: Eberhard Busch
+EIGENSCHAFTEN:
+  gründung: Auerbachs Kellertheater
+  gründungsjahr: 1987
+  philosophie: intelligentes und kein intellektuelles Theater
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Walter Barth
+EIGENSCHAFTEN:
+  lebensdaten: 1911-1945
+  tätigkeit: Widerstandskämpfer gegen NS-Regime
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Franz Xaver Bernauer
+EIGENSCHAFTEN:
+  lebensdaten: 1768-1831
+  tätigkeit: Orgelbauer
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Hans Joachim Faller
+EIGENSCHAFTEN:
+  lebensdaten: 1915-2006
+  tätigkeit: Richter Bundesverfassungsgericht
+  amtszeit: 1971-1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Joseph Frick
+EIGENSCHAFTEN:
+  lebensdaten: 1806-1875
+  tätigkeit: Mediziner, Pädagoge, Mitglied Zweite Kammer Badische Ständeversammlung
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Ignaz von Gleichenstein
+EIGENSCHAFTEN:
+  lebensdaten: 1778-1828
+  tätigkeit: Jurist, enger Freund Ludwig van Beethovens
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Elmar Gutmann
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1952
+  tätigkeit: Musiker, Schauspieler, Synchronsprecher
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Johann Baptist Haas
+EIGENSCHAFTEN:
+  lebensdaten: 1732-1791
+  tätigkeit: Kupferstecher
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Hans Hildebrandt
+EIGENSCHAFTEN:
+  lebensdaten: 1878-1957
+  tätigkeit: Kunsthistoriker
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Hermann Huber
+EIGENSCHAFTEN:
+  lebensdaten: 1906-1985
+  tätigkeit: Richter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Johann Baptist Metzger
+EIGENSCHAFTEN:
+  lebensdaten: 1771-1844
+  tätigkeit: Kupferstecher, Kunsthändler in Florenz
+  besonderheit: vermittelte bedeutende Werke italienischer Maler in Münchener Pinakothek
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Thaddäus Rinderle
+EIGENSCHAFTEN:
+  lebensdaten: 1748-1824
+  tätigkeit: Mathematikprofessor, Uhrenbauer
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Michael Sattler
+EIGENSCHAFTEN:
+  lebensdaten: ca. 1490-1527
+  tätigkeit: Benediktinerprior, Täuferführer, Märtyrer
+  besonderheit: Michael-Sattler-Friedenspreis nach ihm benannt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Wolfgang Schäfer
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1945
+  tätigkeit: Chorleiter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Hans Sixt von Staufen
+EIGENSCHAFTEN:
+  lebensdaten: tätig ca. 1515-1532
+  tätigkeit: Bildschnitzer, Steinmetz
+  tätigkeitsort: Staufen, Freiburg
+  werke: Locherer-Altar Freiburger Münster, Herrscherfiguren Freiburger Kaufhaus
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Kurt Thoma
+EIGENSCHAFTEN:
+  lebensdaten: 1901-1971
+  tätigkeit: Kapitän zur See Kriegs- und Bundesmarine
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Kurt Wehrle
+EIGENSCHAFTEN:
+  lebensdaten: 1905-1976
+  tätigkeit: Verwaltungsjurist, NS-Polizeipräsident, SS-Standartenführer, Landrat Emmendingen 1953-1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Heidi Wiesler
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1960
+  tätigkeit: Skirennläuferin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Thommie Bayer
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1953
+  tätigkeit: Schriftsteller, Musiker, Maler
+  verbindung: lebt in Staufen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Blasius Bernauer
+EIGENSCHAFTEN:
+  lebensdaten: 1740-1818
+  tätigkeit: Orgelbauer
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Hoimar von Ditfurth
+EIGENSCHAFTEN:
+  lebensdaten: 1921-1989
+  tätigkeit: Professor Psychiatrie und Neurologie, Wissenschaftsjournalist
+  verbindung: letzte Jahre in Staufen, dort begraben
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Yannic Han Biao Federer
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1986
+  tätigkeit: Schriftsteller
+  verbindung: in Staufen aufgewachsen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Adrian Geiges
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1960
+  tätigkeit: Schriftsteller, Journalist
+  verbindung: wuchs in Staufen auf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Leif Geiges
+EIGENSCHAFTEN:
+  lebensdaten: 1915-1990
+  tätigkeit: Fotograf, Reporter
+  verbindung: lebte in Staufen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Ingeborg Hecht
+EIGENSCHAFTEN:
+  lebensdaten: 1921-2011
+  tätigkeit: Schriftstellerin, Zeitzeugin
+  verbindung: lebte 1943-1948 in Staufen, dort begraben
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Hellmut Holthaus
+EIGENSCHAFTEN:
+  lebensdaten: 1909-1966
+  tätigkeit: Zeitschriftenredakteur, Schriftsteller
+  verbindung: in Staufen gestorben
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Peter Huchel
+EIGENSCHAFTEN:
+  lebensdaten: 1903-1981
+  tätigkeit: Dichter
+  verbindung: wohnte letzte zehn Jahre in Staufen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Erhart Kästner
+EIGENSCHAFTEN:
+  lebensdaten: 1904-1974
+  tätigkeit: Schriftsteller, Bibliothekar
+  verbindung: lebte 1968 bis Tod in Staufen, dort begraben
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Dominik Kalata SJ
+ORTSTEIL_BEZUG: Grunern
+EIGENSCHAFTEN:
+  lebensdaten: 1925-2018
+  tätigkeit: slowakischer Geistlicher, Bischof
+  verbindung: lebte seit 1976 im Ortsteil Grunern
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Kurt Lehmann
+EIGENSCHAFTEN:
+  lebensdaten: 1905-2000
+  tätigkeit: Bildhauer
+  verbindung: lebte 1970-1998 in Staufen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Ralf Obergfell
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1971
+  tätigkeit: Fotograf
+  verbindung: wuchs 1971-1988 in Staufen auf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Alois Schnorr
+EIGENSCHAFTEN:
+  lebensdaten: 1896-1962
+  tätigkeit: Bankier, Politiker
+  bürgermeister_amtszeit: 1945-1946
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Klaus Tiedemann
+EIGENSCHAFTEN:
+  lebensdaten: 1938-2018
+  tätigkeit: Rechtswissenschaftler, Professor Strafrecht
+  verbindung: lebte in Staufen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Matthias Warnig
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1955
+  tätigkeit: Ex-Stasi-Hauptmann, Lobbyist, Manager, Vertrauter Putins
+  verbindung: lebt in Staufen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Jörg Weigand
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1940
+  tätigkeit: Schriftsteller
+  verbindung: lebt in Staufen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Herbert Rinderle
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1940
+  gemeinderat: 46 Jahre
+  weitere_ämter: Kreistagsmitglied, zahlreiche Ehrenämter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Karl-Eugen Graf von Hohenthal
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1939
+  bürgermeister_amtszeit: 1969-2001
+  bürgermeister_dauer: 32 Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: träger_ehrenmedaille
+BEZEICHNUNG: Lotte Stolz
+EIGENSCHAFTEN:
+  lebensdaten: 1931-2019
+  besonderheit: 64 Jahre Bahnhöfle-Wirtin
+  ehrung_bundespräsident: von Weizsäcker geehrt
+  auszeichnung_regional: Südbadnerin des Jahres 2005
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Max-Carl Müller
+EIGENSCHAFTEN:
+  lebensdaten: 1927-2023
+  gemeinderat: 35 Jahre
+  stellvertreter_bürgermeister: 18 Jahre
+  weitere_positionen: Ehrenpräsident Steuerberaterkammer, ehrenamtlicher Geschäftsführer Sozialstation
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Helmut Zimmermann
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1950
+  gemeinderat: 40 Jahre
+  weitere_positionen: Bürgermeister-Stellvertreter, Gewerbeverein-Vorsitz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: träger_ehrenmedaille
+BEZEICHNUNG: Ute Riesterer
+EIGENSCHAFTEN:
+  besonderheit: Engagement Grunermer Netzwerk Senioren, Flüchtlinge, Lebensretterin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+ENTITÄT: träger_ehrenmedaille
+BEZEICHNUNG: Winfried Sturm
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1945
+  auszeichnung: Lehrer des Jahres 2004
+  weitere_positionen: Vizepräsident Welterfinderverband, MINT-Botschafter, Leiter Hardware-AG
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+ENTITÄT: bürgermeister_historisch
+BEZEICHNUNG: Albert Hugard
+EIGENSCHAFTEN:
+  amtszeit: 1889-1923
+GUELTIG_AB: 1889
+GUELTIG_BIS: 1923
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: bürgermeister_historisch
+BEZEICHNUNG: Max Lederle
+EIGENSCHAFTEN:
+  amtszeit: 1923-1933
+GUELTIG_AB: 1923
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: bürgermeister_historisch
+BEZEICHNUNG: Karl Gümbel
+EIGENSCHAFTEN:
+  amtszeit: 1933-1945
+  partei: NSDAP
+GUELTIG_AB: 1933
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: bürgermeister_historisch
+BEZEICHNUNG: Alois Schorr
+EIGENSCHAFTEN:
+  amtszeit: 1945-1946
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1946
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: bürgermeister_historisch
+BEZEICHNUNG: Eckart Ulmann
+EIGENSCHAFTEN:
+  amtszeit: 1946-1969
+  besonderheit: Gründer Staufener Musikwoche 1949 mit Ernst Duis
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: bürgermeister_historisch
+BEZEICHNUNG: Karl-Eugen Graf von Hohenthal
+EIGENSCHAFTEN:
+  amtszeit: 1969-2001
+  partei: CDU
+GUELTIG_AB: 1969
+GUELTIG_BIS: 2001
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: bürgermeister_historisch
+BEZEICHNUNG: Michael Benitz
+EIGENSCHAFTEN:
+  amtszeit: 2001-2026
+  partei: parteilos
+  amtsverweser: 2025-2026
+GUELTIG_AB: 2001
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Benjamin Bröcker
+EIGENSCHAFTEN:
+  amtsantritt: 2026
+  partei: Bündnis 90/Die Grünen
+  tätigkeit_vorher: Staatsanwalt
+  wahl_datum: 2. November 2025
+  wahl_ergebnis: 50,2 Prozent
+  amtsantritt_als_amtsverweser: 21. Mai 2026
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: chronist
+BEZEICHNUNG: Rudolf Hugard
+EIGENSCHAFTEN:
+  lebensdaten: 1863-1922
+  beruf: Stadtchronist, Fotograf
+  tagebuch: 1914-1919
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Schlacht bei Sempach
+EIGENSCHAFTEN:
+  jahr: 1386
+  beteiligung_staufen: Gottfried, Hans-Ullrich von Staufen unter Gefallenen
+GUELTIG_AB: 1386
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Gefecht um Staufen - Badische Revolution
+EIGENSCHAFTEN:
+  datum: 24. September 1848
+  akteure: reguläre Truppen gegen Freischärler Gustav Struve
+  folge: Ende Struve-Putsch
+  rechtsbruch: 25. September Tod Weiler Musikanten
+GUELTIG_AB: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Luftangriff auf Staufen
+EIGENSCHAFTEN:
+  datum: 8. Februar 1945
+  seite: alliiert
+  folgen: schwere Zerstörungen, ca. 50 Häuser zerstört, ca. 250 beschädigt
+  grund_vermutung: französische Piloten wollten Eisenbahnbrücke zerstören
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Hebungsrisse Staufen
+EIGENSCHAFTEN:
+  grund: Geothermie-Bohrungen Rathausheizung
+  zeitraum_beginn: 2007
+  folgen: Hebung Altstadt, Risse in 268 Häusern bis Oktober 2010
+  prognose_2020: dauerhaft Grundwasserabpumpen nötig
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtwappen Staufen
+EIGENSCHAFTEN:
+  blasonierung: Rot drei goldene Kelche mit Patenen (2:1), fünf goldene Sterne
+  herkunft: Wappen Freiherren von Staufen
+  bedeutung: Schlossberg-Beherrschung, Doppelbedeutung germanisch stauf (Becher, kegeliger Berg)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+SPENDER: Dornstetten (nicht Teil der Fahrt)
+ENTITÄT: ort
+BEZEICHNUNG: Dornstetten
+EIGENSCHAFTEN:
+  einwohner: 8192
+  einwohner_datum: 31. Dezember 2025
+  landkreis: Freudenstadt
+  bundesland: Baden-Württemberg
+  region: Nordschwarzwald
+  regierungsbezirk: Karlsruhe
+  entfernung_kreisstadt: 7 km östlich
+  höhe_min: 600 m ü. NN
+  höhe_max: 715 m ü. NN
+  waldanteil: 48 %
+  waldanteil_hektar: 1164 ha
+  lage: nördlicher Schwarzwald
+  erste_urkundliche_erwähnung: 767
+  quelle_erwähnung: Lorscher Codex
+  ist_stadt: true
+  stadt_erhoben: 1267-1276
+  ist_oberamtsstadt_gewesen: true
+  oberamtsstadt_zeitraum: 1755-1807
+  deutsche_fachwerkstraße: Südroute (Mosbach–Haslach im Kinzigtal)
+  deutsche_alleenstraße: liegt an
+  verkehrsgemeinde: Landkreis Freudenstadt
+  naturpark: Schwarzwald Mitte/Nord
+  is_kreisstadt: false
+  ist_vermutlich_aktuell: true
+GUELTIG_AB: 1267
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Aach
+ORTSTEIL_BEZUG: Aach
+EIGENSCHAFTEN:
+  teil_seit: 1. Januar 1975
+  komponenten: Dorf Aach, Gehöft Benzinger Hof, Häuser Glattal
+  glatt_quelle: Zusammenfluss Ettenbach, Stockerbach, Kübelbach
+  bahnhaltepunkt_seit: 2018
+  bahnhaltepunkt_takt: Zweistundentakt
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1975
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hallwangen
+ORTSTEIL_BEZUG: Hallwangen
+EIGENSCHAFTEN:
+  teil_seit: 1. Januar 1975
+  komponenten: Dorf Hallwangen
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1975
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Bernhard Haas
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  partei: parteilos
+  wahl: März 2012
+  wahlgang: zweiter Wahlgang
+  stimmenanteil: 51,1 %
+  vorgänger: Dieter Flik
+  vorgänger_stimmenanteil: 3,2 %
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2012
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Jacob Beurlin
+EIGENSCHAFTEN:
+  lebensdaten: um 1520–1561
+  beruf: evangelischer Theologe und Reformator
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1520
+GUELTIG_BIS: 1561
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Johann Jakob Schertlin
+EIGENSCHAFTEN:
+  lebensdaten: 1784–1855
+  beruf: württembergischer Oberamtmann
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1784
+GUELTIG_BIS: 1855
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Heinrich Schäff
+EIGENSCHAFTEN:
+  alias: Hermann Zerweck
+  lebensdaten: 1862–1937
+  beruf: Schriftsteller, Maler
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1862
+GUELTIG_BIS: 1937
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Fritz Kläger
+EIGENSCHAFTEN:
+  lebensdaten: 1914–2007
+  beruf: Motorradrennfahrer und -konstrukteur
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1914
+GUELTIG_BIS: 2007
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Erich Bochinger
+EIGENSCHAFTEN:
+  lebensdaten: 1928–2016
+  beruf: evangelischer Theologe
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1928
+GUELTIG_BIS: 2016
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Cornelia Horz
+EIGENSCHAFTEN:
+  geburt: 1957
+  beruf: Juristin, Präsidentin des Oberlandesgerichts Stuttgart
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1957
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Wolfram Graf
+EIGENSCHAFTEN:
+  geburt: 1965
+  beruf: Komponist, Pianist und Organist
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1965
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Eleonore Kötter
+EIGENSCHAFTEN:
+  lebensdaten: bis 2017
+  beruf: Dornstetter Künstlerin
+  stiftung: Kunstsammlung (Heimatmuseum)
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 2017
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirche
+BEZEICHNUNG: evangelische Kirche
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  seit_reformation: Dornstetten evangelisch geprägt
+  gueltig_ab: Reformation
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kirche
+BEZEICHNUNG: römisch-katholische Kirche
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  betreuung: Kirchengemeinde Freudenstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirche
+BEZEICHNUNG: neuapostolische Kirche
+EIGENSCHAFTEN:
+  konfession: neuapostolisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kirche
+BEZEICHNUNG: evangelisch-methodistische Kirche
+EIGENSCHAFTEN:
+  konfession: evangelisch-methodistisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Scey-sur-Saône-et-Saint-Albin
+EIGENSCHAFTEN:
+  region: Bourgogne-Franche-Comté
+  land: Frankreich
+  relation: partnerschaftliche Beziehung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Naturschutzgebiet Benzinger Berg
+EIGENSCHAFTEN:
+  typ: Naturschutzgebiet
+  lage: Süden des Stadtgebiets
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Silberberg
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Springbrunnen-Ettenbachtal
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+  anteil: Teile der Fläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Stockenbachtal
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+  anteil: Teile der Fläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Oberes Glattal
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+  anteil: Teile der Fläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: FFH-Gebiet Freudenstädter Heckengäu
+EIGENSCHAFTEN:
+  typ: FFH-Gebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: schule
+BEZEICHNUNG: Gymnasium
+EIGENSCHAFTEN:
+  erste_erwähnung: 1461
+  umwandlung_vollgymnasium: Schuljahr 2006/07
+  status: Vollgymnasium seit 2006/07
+GUELTIG_AB: 1461
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schule
+BEZEICHNUNG: Realschule
+EIGENSCHAFTEN:
+  gebäude_mit: Werkrealschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Werkrealschule
+EIGENSCHAFTEN:
+  gebäude_mit: Realschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule
+EIGENSCHAFTEN:
+  anzahl: 3
+  verteilung: eine pro Ortsteil
+IST_VERMUTISCH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schule
+BEZEICHNUNG: Dreifürstensteinschule
+EIGENSCHAFTEN:
+  typ: Körperbehindertenschule
+  träger: Stiftung KBF
+  form: Außenstelle Dornstetten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Eichenäcker-Schule
+EIGENSCHAFTEN:
+  typ: Förderschule
+  spezialisierung: Schüler mit geistiger Behinderung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: einrichtung
+BEZEICHNUNG: Kindergarten
+EIGENSCHAFTEN:
+  anzahl: 7
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: museum
+BEZEICHNUNG: Puppen- und Spielzeugmuseum
+EIGENSCHAFTEN:
+  standort: Kaufhaus Hegel
+  typ: Spezialisiertes Museum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum
+EIGENSCHAFTEN:
+  inhalt: Stadtgeschichte, Leben der Bürger, Kunstsammlung
+  etagen: 3
+  kunstsammlung_stiftung: Eleonore Kötter (2017)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bergwerk
+BEZEICHNUNG: Himmlisch Heer
+ORTSTEIL_BEZUG: Hallwangen
+EIGENSCHAFTEN:
+  typ: Silber-, Kupfer- und Schwerspatbergwerk
+  status: historisch
+  besuchbar: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: Altstadt
+EIGENSCHAFTEN:
+  charakteristika: Fachwerkhäuser und Gassen
+  sehenswert: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: Aussichtsturm Königskanzel
+EIGENSCHAFTEN:
+  typ: Aussichtsturm
+  name: Königskanzel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: freizeit_einrichtung
+BEZEICHNUNG: Barfußpark
+ORTSTEIL_BEZUG: Hallwangen
+EIGENSCHAFTEN:
+  länge: 2,4 km
+  form: Rundweg
+  stationen: Erlebnis-, Kneipp- und Spielstationen
+  zweck: Naturerlebnisse, Naturheilmittel gegen Venenleiden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Bahnstrecke Eutingen im Gäu–Schiltach
+EIGENSCHAFTEN:
+  stationen: Dornstetten, Aach (seit 2018)
+  züge_re14b: Freudenstadt–Stuttgart
+  züge_s8_s81: Bondorf (bei Herrenberg)–Karlsruhe Tullastraße (Stadtbahn Karlsruhe)
+  takt_haltepunkte: Zweistundentakt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnhaltepunkt
+BEZEICHNUNG: Bahnhaltepunkt Aach
+ORTSTEIL_BEZUG: Aach
+EIGENSCHAFTEN:
+  in_betrieb_seit: 2018
+  takt: Zweistundentakt
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2018
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bundesstraße
+BEZEICHNUNG: Bundesstraße 28
+EIGENSCHAFTEN:
+  ausführung: Umgehungsstraße außerhalb der Bebauung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: wirtschaft
+EIGENSCHAFTEN:
+  gewerbesteuereinnahmen_2022: 8,68 Millionen Euro
+  gewerbesteuerhebesatz: 355 %
+  gewerbesteuerhebesatz_deutschland_2023: 407 %
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2022
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Waldgeding Dornstetten
+EIGENSCHAFTEN:
+  ereignis: erste urkundliche Erwähnung
+  jahr: 767
+  quelle: Lorscher Codex
+  beschreibung: Dornstetter Waldgeding existierte auf dem heutigen Gemeindegebiet
+GUELTIG_AB: 767
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Stadterhebung Dornstetten
+EIGENSCHAFTEN:
+  ereignis: Ort zur Stadt erhoben
+  zeitraum: 1267-1276
+  grund: Erhebung durch Grafen von Urach-Fürstenberg
+GUELTIG_AB: 1267
+GUELTIG_BIS: 1276
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Territorialwechsel zu Württemberg
+EIGENSCHAFTEN:
+  ereignis: Stadt kam an Württemberg
+  jahr: 1320
+  grund: über Grafen von Hohenberg
+GUELTIG_AB: 1320
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Oberamtsstadt Dornstetten
+EIGENSCHAFTEN:
+  ereignis: Dornstetten Sitz des gleichnamigen Oberamts
+  gueltig_ab: 1755
+  gueltig_bis: 1807
+  grund_auflösung: Umsetzung neue Verwaltungsgliederung Königreich Württemberg
+  folge: Eingliederung in Oberamt Freudenstadt
+GUELTIG_AB: 1755
+GUELTIG_BIS: 1807
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Kreisreform Nationalsozialismus
+EIGENSCHAFTEN:
+  ereignis: Stadt gelangte zum Landkreis Freudenstadt
+  jahr: 1938
+  kontext: Kreisreform während Zeit des Nationalsozialismus in Württemberg
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Nachkriegsgeschichte Dornstetten
+EIGENSCHAFTEN:
+  ereignis_phase1: Nach Zweitem Weltkrieg in Französische Besatzungszone
+  ereignis_phase2: 1947 zum neu gegründeten Land Württemberg-Hohenzollern
+  ereignis_phase3: 1952 im Land Baden-Württemberg aufgegangen
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1952
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Gemeindefusion Dornstetten
+EIGENSCHAFTEN:
+  ereignis: Dornstetten vereinigte sich mit Aach und Hallwangen
+  datum: 1. Januar 1975
+  resultierend: neue Stadt Dornstetten
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+SPENDER: Tengen (nicht Teil der Fahrt)
+ENTITÄT: ort
+BEZEICHNUNG: Tengen
+EIGENSCHAFTEN:
+  typ: Landstadt
+  region: Hegau
+  landkreis: Konstanz
+  lage_grenznahe: an der Grenze zur Schweiz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Tengen — Erstnennung
+EIGENSCHAFTEN:
+  erstnennung_jahr: 877
+  erstnennung_name_form: Teingon
+  erstnennung_urkunden_typ: Brief
+  warum_eigentumsherr: gehörte dem Bischof Salomo II. von Konstanz
+GUELTIG_AB: 877
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Tengen — Hinterstadt / Hintertengen Entwicklung
+EIGENSCHAFTEN:
+  stadtraechte_stauferzeit: Herren von Tengen erhielten Stadtrechte und Hohe Gerichtsbarkeit
+  verkauf_jahr: 1275
+  herrschaft_nach_verkauf: habsburgisch
+  veraenderungen_nach_1275: weitere Wechsel, schließlich Besitz Deutschordenskommende Mainau
+  warum_schwaben_1446: Hintertengener waren gefürchtete Raubritter; Schwäbischer Städtebund kam mit Heer
+  hintertengen_strategie_1446: Schwaben durften Hintertengen von Vordertengen aus angreifen, wenn Vordertengen verschont würde
+  oesterreich_jahr: 1522
+  brand_burg_jahr: 1519
+  warum_brand: Burg wurde durch Brand endgültig zerstört (drei Jahre vor Österreich-Kommen)
+  marktrecht_jahr: 1291
+  marktrecht_gewaehrer: König Rudolf I.
+  marktrecht_nutzbarkeit: konnte nicht genutzt werden, weil für einen Markt kein Platz da war und keine eigene Zufahrt (nur Fuß- und Eselsweg)
+GUELTIG_AB: 1275
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geographie
+BEZEICHNUNG: Tengen — Stadtanlage Vorder- und Hinterstadt
+EIGENSCHAFTEN:
+  lage_form: Felssporn
+  felssporn_laenge: 300 Meter
+  felssporn_breite: 60–90 Meter
+  trennung_staedte: Stadtmauer und Graben mit Bogenbrücke
+  vorderstadt_laenge: 200 Meter
+  vorderstadt_bestandteile: im Wesentlichen ein Marktplatz
+  hinterburg_relative_groesse: halb so groß wie Vorderstadt
+  bergfried_hoehe: 32 Meter
+  bergfried_erhalt: noch heute zu sehen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Verenahof — deutsche Exklave
+EIGENSCHAFTEN:
+  groesse: 43 Hektar
+  beschreibung: Bauernbetrieb ganz umgeben von Schweizer Gebiet
+  ursprungs_gemeinde: Büttenhardt im Kanton Schaffhausen
+  warum_exklave: Tengener Grafschaft hatte dort ehemals Besitz
+  jahr_badisches_verfahren: 1806
+  status_1806: Großherzogtum Baden
+  ortsteil_zugehoerig: Wiechs
+  jahr_transition_schweiz: 1967
+  warum_transition_schweiz: Staatsvertrag durch Landtausch mit der Schweiz
+  vergleich_bueßingen: neben Büsingen eine lange deutsche Exklave
+  grenzsteine_erinnerung: alte Grenzsteine beim Rathaus Wiechs am Randen und Alten Schulhaus Büttenhardt
+GUELTIG_AB: 1806
+GUELTIG_BIS: 1967
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geologie_formation
+BEZEICHNUNG: Weißer Jura (Oberjura)
+EIGENSCHAFTEN:
+  alter: rund 140 Millionen Jahre
+  ablagerung: Kalke
+  vorkommen_lage: vorwiegend in Schluchten und Taleinschnitten
+  warum_sichtbar: durch Abtragung der jüngeren Molasseschichten angeschnitten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geologie_formation
+BEZEICHNUNG: Obere Meeresmolasse — Randengrobkalke
+EIGENSCHAFTEN:
+  alter: rund 20 Millionen Jahre
+  lokale_misnomenklatur: in Tengen und Umgebung fälschlicherweise Tengener Muschelkalk genannt
+  beschaffenheit: grobsandiger Schalentrümmerkalk
+  farbe: hellgelb
+  bestandteile_muschel_schnecken: Muschel- und Schneckenschalen
+  bestandteile_quarzsand_prozent: 20–40 Prozent
+  fossilien_haifischzaehne_groesse_max: bis zu 2 cm
+  fossilien_interpretation: Haifischzähne und Salzwassertiere belegen Obere Meeresmolasse-Ablagerung
+  schichtung_besonderheit: gegenläufige Schichten (Kreuz- oder Grenzschichtung) als ufernahes Gezeitenmuster
+  schichtung_haeufigkeit: nicht der Normalfall
+  warum_nutzung_roemerzeit: beliebter Baustein, Römerzeit belegt durch Münzfund in Steinbruch bei Wiechs am Randen
+  nutzung_roemerzeit_details: Läufer für Mühlsteine, Wärmespeicherung in Thermen und Hypokaustenheizungen, Häuserbau
+  nutzung_neu: Nitrat-Beständigkeit → Bodenplatten im Stallungsbau
+GUELTIG_AB: (prähistorisch)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch westlich Tengen-Stadt
+ORTSTEIL_BEZUG: Tengen-Stadt
+EIGENSCHAFTEN:
+  lage_detail: westlich Tengen-Stadt und westlich der Hinterburg, Gewann Flüh, Waldfestplatz
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch östlich der Hinterburg
+ORTSTEIL_BEZUG: Tengen-Stadt
+EIGENSCHAFTEN:
+  lage_detail: östlich der Hinterburg, Bereich des heutigen Bauhofs in Richtung Büßlingen
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch um Uttenhofen
+ORTSTEIL_BEZUG: Uttenhofen
+EIGENSCHAFTEN:
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch nördlich Wiechs am Randen
+ORTSTEIL_BEZUG: Wiechs am Randen
+EIGENSCHAFTEN:
+  lage_detail: nördlich von Wiechs am Randen (früher teilweise zu Uttenhofen gehörend)
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch nördlich der B314 zwischen Tengen und Blumenfeld
+EIGENSCHAFTEN:
+  lage_detail: nördlich der B314 zwischen Tengen und Blumenfeld
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch Kreisstraße 6135 unterhalb Talheim
+ORTSTEIL_BEZUG: Talheim
+EIGENSCHAFTEN:
+  lage_detail: an der Kreisstraße 6135 unterhalb von Talheim
+  material: vermutlich einer Verwerfung im Weißjura
+  genauigkeit: vermutlich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Talheim und Uttenhofen
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1971
+  status_vorher: selbstständige Gemeinden
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Blumenfeld
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1973
+  status_vorher: selbstständige Gemeinde
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Beuren am Ried
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1972
+  status_vorher: selbstständige Gemeinde
+  eingemeindung_zu: Büßlingen
+GUELTIG_AB: 1972
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Weil
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1972
+  status_vorher: selbstständige Gemeinde
+  eingemeindung_zu: Watterdingen
+GUELTIG_AB: 1972
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Neubildung Stadt Tengen
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1975
+  bestandteile: Tengen, Büßlingen, Watterdingen, Wiechs am Randen
+  grund: Zusammenfassung vorheriger Eingemeindungen
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: religion
+BEZEICHNUNG: Tengen — religiöse Prägung
+EIGENSCHAFTEN:
+  dominante_konfession: römisch-katholisch
+  seit_wann: seit jeher
+GUELTIG_AB: (nicht genau datiert)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirchenbau
+BEZEICHNUNG: St. Laurentius
+EIGENSCHAFTEN:
+  typ: römisch-katholische Pfarrkirche
+  typologische_funktion: Wehrkirche (erhöhte Lage)
+  baustilistik_kern: frühgotisch
+  datierung_kern: 13. Jahrhundert
+  nachweise_kern: kleine zugemauerte Spitzbogenfenster an der Südwand
+  neubau_turm_jahr: 1518
+  umbau_barockisierung_jahr: um 1730
+  restaurierung_jahre: 1880 und 1909
+  erweiterung_massive_jahr: 1929/1930
+  erweiterung_massive_teile: Neubau von Chor, Querhaus und Sakristei
+  erweiterung_turm_hoehe_jahr: 1934
+  innenausstattung_stil: einheitliche barocke Ausstrahlung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: kirchenbau
+BEZEICHNUNG: St. Georg
+EIGENSCHAFTEN:
+  typ: römisch-katholische Kapelle
+  ursprung: Burgkapelle der Hinterburg
+  datierung_erbauung: Anfang 14. Jahrhundert
+  umgestaltung: barockisiert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: religion
+BEZEICHNUNG: Evangelische Gemeinde Tengen
+EIGENSCHAFTEN:
+  beschreibung: kleine evangelische Gemeinde
+  status: klein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: politik_gremium
+BEZEICHNUNG: Gemeinderat Tengen
+EIGENSCHAFTEN:
+  groesse_ab_2024: 16 Mitglieder
+  groesse_davor: 22 Mitglieder
+  wahlbeteiligung_2024: 69,26 Prozent
+  wahlbeteiligung_2019: 66,15 Prozent
+  wahl_datum: 9. Juni 2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: politik_person
+BEZEICHNUNG: Helmut Groß
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  geburtsjahr: 1948
+  geburtsort: Crailsheim
+  amtszeit_von: 1973
+  amtszeit_bis: 2015
+  amtszeit_grund_abgang: Alter
+GUELTIG_AB: 1973
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: politik_person
+BEZEICHNUNG: Marian Schreier
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  geburtsdatum: 8. Februar 1990
+  geburtsort: Stuttgart
+  partei: SPD
+  amtszeit_von: 2015
+  amtszeit_bis: 2023
+  wahl_datum: 1. März 2015
+  superlativ: zum Zeitpunkt der Wahl mit 25 Jahren der jüngste Bürgermeister Deutschlands
+GUELTIG_AB: 2015
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: politik_person
+BEZEICHNUNG: Selcuk Gök
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  geburtsjahr: 1997
+  geburtsort: Mannheim
+  partei: SPD
+  wahl_datum: 19. März 2023
+  wahl_ergebnis: 50,3 Prozent
+  amtsantritt: 27. April 2023
+  amtszeit_von: 2023
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Busverbindung Tengen — Engen
+EIGENSCHAFTEN:
+  rhythmus: Stundentakt
+  start_punkt: Engen
+  ausnahmeregelung: außer Sonntag
+  anschluss_beschreibung: fährt nach Ankunft des Eilzugs von Konstanz ab
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur_strasse
+BEZEICHNUNG: Bundesstraße 314
+EIGENSCHAFTEN:
+  verbindung_von: Lauchringen
+  verbindung_zu: Singen (Hohentwiel)
+  funktion: überregionale Straßenanbindung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: infrastruktur_radweg
+BEZEICHNUNG: Heidelberg-Schwarzwald-Bodensee-Radweg
+EIGENSCHAFTEN:
+  typ: Landes-Radfernweg
+  start: Heidelberg
+  ende: Radolfzell
+  verlauf_detail: von Donaueschingen kommend über Tengen und Singen an sein Ziel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: bildung
+BEZEICHNUNG: Tengen — Schulen
+EIGENSCHAFTEN:
+  schultypen: Grund- und Werkrealschule
+  kindergaerten: 3 Kindertagesstätten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: denkmalschutz
+BEZEICHNUNG: Altstadt Tengen
+EIGENSCHAFTEN:
+  schutzstatus: Gesamtanlage denkmalgeschützt
+  bezeichnung_schutz: Stadtanlage Tengen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Burg Tengen (Hinterburg)
+EIGENSCHAFTEN:
+  alternative_Namen: Hinterburg, Burg Hintertengen
+  erhalt_heute: Bergfried erhalten
+  bergfried_hoehe: 32 Meter
+  bergfried_sichtbarkeit: noch heute zu sehen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: archaeologie
+BEZEICHNUNG: Römischer Gutshof bei Büßlingen
+ORTSTEIL_BEZUG: Büßlingen
+EIGENSCHAFTEN:
+  museum_typ: Freilichtmuseum
+  zeitstellung: römisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schloss Blumenfeld
+ORTSTEIL_BEZUG: Blumenfeld
+EIGENSCHAFTEN:
+  kategorie: Schloss
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: naturdenkmael
+BEZEICHNUNG: Mühlbachschlucht
+EIGENSCHAFTEN:
+  lage: östlich der Altstadt
+  beschaffenheit: Schlucht des Mühlbachs
+  wasserfaelle: mehrere sehenswerte Wasserfälle
+  besonderheit: Mühlenruine mit laufendem Mühlenrad
+  infrastruktur: Besucherweg mit Brücken und Stegen am Mühlbach entlang
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Blumenfelder Wasserfall
+ORTSTEIL_BEZUG: Blumenfeld
+EIGENSCHAFTEN:
+  fluss: Biber
+  lage_detail: unter der Brücke in die Altstadt von Blumenfeld
+  besonderheit_regenfaelle: infolge schwerer Regenfälle starke Anschwellungen des Flusses
+  warum_ueberschwemmungen: Anschwellungen führen zu massiven Überschwemmungen im Umland
+  historische_notiz_jahr: 1753
+  historische_notiz_text: „Die Landschaft Blumenfeld ist durch Schauer- und Hagelwetter auf den Bettelstab gebracht worden."
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Gerichtslinde Tengen
+EIGENSCHAFTEN:
+  lage: nördlich von Tengen am Tengener Eck neben Kreisstraße 6137 (Leipferdinger Straße)
+  lage_detail: kaum 200 m vor dem Berghof im freien Feld
+  baumtyp: Sommerlinde
+  alter_schaetzung: 300–400 Jahre
+  status: als Naturdenkmal ausgewiesen
+  warum_geschichtlich: im Mittelalter jährliche Tengener Gerichtstage
+  erinnerung_heute: alte Beschilderung dokumentiert historische Gerichtstage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: touristische_route
+BEZEICHNUNG: Römerstraße Neckar–Alb–Aare
+EIGENSCHAFTEN:
+  verlauf: führt durch Tengen an vielen Sehenswürdigkeiten vorbei
+  charakteristik: Römerstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: geographie
+BEZEICHNUNG: Europäische Wasserscheide
+EIGENSCHAFTEN:
+  lage: Höhenrücken im Norden der Gemarkung Tengen
+  warum_position: trennt Bodenseebecken vom Donautal
+  verlauf: auf mehreren Kilometern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historischer_weg
+BEZEICHNUNG: Alter Postweg
+EIGENSCHAFTEN:
+  verlauf: auf dem Höhenrücken (Europäische Wasserscheide), auf mehreren Kilometern
+  charakteristik: historischer Verkehrsweg von überregionaler Bedeutung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Franz Christoph von Scheyb
+EIGENSCHAFTEN:
+  geburtsjahr: 1704
+  todesjahr: 1777
+  berufe: Schriftsteller
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Matthäus Cornelius Münch
+EIGENSCHAFTEN:
+  geburtsjahr: 1771
+  todesjahr: 1853
+  berufe: Geistlicher und Pädagoge
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Josef Benignus Maus
+EIGENSCHAFTEN:
+  geburtsjahr: 1775
+  todesjahr: 1856
+  berufe: Historiker
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Otto Lueger
+EIGENSCHAFTEN:
+  geburtsjahr: 1843
+  todesjahr: 1911
+  berufe: Ingenieur
+  herausgeber: Lexikon der gesamten Technik
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Albert Maier
+EIGENSCHAFTEN:
+  geburtsjahr: 1873
+  todesjahr: 1961
+  berufe: Pädagoge und Politiker
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Fritz Peter
+EIGENSCHAFTEN:
+  geburtsjahr: 1899
+  todesjahr: 1949
+  berufe: Pädagoge, Physiker und Mathematiker
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Natascha Ungeheuer
+EIGENSCHAFTEN:
+  geburtsjahr: 1937
+  geburtsjahr_born_as: Ursula Rosa Ungeheuer
+  berufe: Malerin und Schauspielerin
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Christine Muscheler-Frohne
+EIGENSCHAFTEN:
+  geburtsjahr: 1950
+  berufe: Politikerin
+  partei: Grüne
+  position: ehemalige Landtagsabgeordnete
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Andreas Gruschke
+EIGENSCHAFTEN:
+  geburtsjahr: 1960
+  todesjahr: 2018
+  berufe: Autor, Fotograf und Tibetkundler
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Otto Sauter
+EIGENSCHAFTEN:
+  geburtsjahr: 1961
+  berufe: Piccolo-Trompeter
+  spezialisierung: Barockmusik
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Traugott Freiherr von Stackelberg
+EIGENSCHAFTEN:
+  geburtsjahr: 1891
+  todesjahr: 1970
+  berufe: Mediziner, Maler, Schriftsteller
+  herkunft: Tengen (sonstige)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Heidi Tübinger
+EIGENSCHAFTEN:
+  geburtsjahr: 1936
+  berufe: Malerin
+  herkunft: Tengen (sonstige)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Gottfried Hummel
+EIGENSCHAFTEN:
+  geburtsjahr: 1968
+  berufe: Komponist und Dirigent
+  position_dirigent: Dirigent der Stadtkapelle Tengen
+  position_dirigent_zeitraum: 2016–2022
+  werke_komponiert: Lied "Engen, Tengen, Blumenfeld, sind die schönsten Städt der Welt"
+  werke_text: Texter des Liedes
+  herkunft: Tengen (sonstige)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
