@@ -1,0 +1,817 @@
+ENTITÄT: ort
+BEZEICHNUNG: Oberndorf am Neckar
+EIGENSCHAFTEN:
+  lage: Oberes Neckartal, am Fuße des Kleinen Heubergs, zwischen Schwarzwald und Schwäbischer Alb
+  höhe_ü_nnm: 450-700 m
+  ist_stadt: true
+  landkreis: Rottweil
+  bundesland: Baden-Württemberg
+  erste_urkundliche_erwähnung_jahr: 782
+  erste_urkundliche_erwähnung_text: "actum Obarindorf villa publice" aus einer Schenkungsurkunde des Klosters St. Gallen
+  namensherkunft: Das Wort "villa publice" deutet auf einen Königshof hin
+  stadtgründung_jahr: um 1250
+  stadtgründer: Herzog Ludwig von Teck
+  stadtgründung_ort: Kalktuffplatte links des Neckars
+  stadtgründung_frühe_belege: 1246 wird ein Zöllner genannt, 1251 ein ehemaliger Schultheiß, 1254 Bürger
+  superlativ_statuswechsel: erste württembergische Oberamtsstadt ab 1810
+  is_oberamtsstadt: true
+  oberamtsstadt_gültig_ab: 1810
+  oberamtsbezirk_umfang: 27 weitere Orte neben der Stadt
+  gemeindereform_datum: 1. Januar 1975
+  gemeindereform_vereinigung: Vereinigung der Stadt Oberndorf am Neckar mit Gemeinden Altoberndorf, Beffendorf, Bochingen, Boll und Hochmössingen, Eingemeindung von Aistaig
+  stadtmauer_länge: 984 Meter
+  stadtmauer_entstehung: spätes 13. Jahrhundert nach Stadterhebung
+  stadtmauer_tore: Obertor, Kirchtor, Mühltörle
+  stadtflagge_farben: Gelb-Schwarz
+  stadtflagge_gültig_ab: 1724 schon genannt
+GUELTIG_AB: 782
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: schutzgebiet_ffh
+BEZEICHNUNG: FFH-Gebiet 7620-343 Neckartal zwischen Rottweil und Sulz
+ORTSTEIL_BEZUG: Oberndorf am Neckar
+EIGENSCHAFTEN:
+  größe: 2203 Hektar
+  größe_genauigkeit: ca.
+  bedeutung: europäisch bedeutsames Schutzgebiet
+  lage: entlang des Neckars im Oberndorfer Stadtgebiet
+  enthält_naturschutzgebiet_brandhalde: true
+  naturschutzgebiet_brandhalde_größe: 9,9 Hektar
+  enthält_naturschutzgebiet_bollerhalde: true
+  naturschutzgebiet_bollerhalde_größe: 3,1 Hektar
+  enthält_naturschutzgebiet_kälberhalde: true
+  naturschutzgebiet_kälberhalde_größe: 4,1 Hektar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Aistaig
+EIGENSCHAFTEN:
+  gehört_zu: Oberndorf am Neckar
+  enthält_dorf: Aistaig
+  enthält_gehöft: Herrenwald
+  enthält_wohnplatz: Rötelhof
+  abgegangene_ortschaften: Burg, Denkenhausen
+  hat_ortschaftsrat: true
+  hat_ortsvorsteher: true
+  einwohnerzahl_1938: 1156
+  eingemeindung_jahr: 1939
+  eingemeindung_rückgängig_jahr: 1950
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Altoberndorf
+EIGENSCHAFTEN:
+  gehört_zu: Oberndorf am Neckar
+  enthält_dorf: Altoberndorf
+  enthält_gehöft: Boller Berg
+  enthält_wohnplätze: Dollau, Grüner Berg, Hegelberg, Höhingen, Irslenbach
+  hat_ortschaftsrat: true
+  hat_ortsvorsteher: true
+  einwohnerzahl_1938: 639
+  eingemeindung_jahr: 1939
+  eingemeindung_rückgängig_jahr: 1950
+  hallstattzeit_siedlung: Scheibenbühl
+  hallstattzeit_datum: um 800-400 v. Chr.
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Beffendorf
+EIGENSCHAFTEN:
+  gehört_zu: Oberndorf am Neckar
+  enthält_dorf: Beffendorf
+  enthält_gehöft: Oberaichhof
+  hat_ortschaftsrat: true
+  hat_ortsvorsteher: true
+  jungsteinzeit_siedlung: Jungsteinzeit-Spuren
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Bochingen
+EIGENSCHAFTEN:
+  gehört_zu: Oberndorf am Neckar
+  enthält_dorf: Bochingen
+  enthält_höfe: Einfeld, Unterer Schlatthof
+  hat_ortschaftsrat: true
+  hat_ortsvorsteher: true
+  römische_villa_rustica: true
+  römische_villa_rustica_datum: um 100-200 n. Chr.
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Boll
+EIGENSCHAFTEN:
+  gehört_zu: Oberndorf am Neckar
+  enthält_dorf: Boll
+  enthält_gehöft: Oberer Schlatthof
+  hat_ortschaftsrat: true
+  hat_ortsvorsteher: true
+  keltische_kultstätten: Viereckschanzen in der Flur Burgstall
+  keltische_kultstätten_datum: 100 v. Chr.–1 v. Chr.
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Hochmössingen
+EIGENSCHAFTEN:
+  gehört_zu: Oberndorf am Neckar
+  enthält_dorf: Hochmössingen
+  hat_ortschaftsrat: true
+  hat_ortsvorsteher: true
+  enthält_nationalerbe_baum: Käppeles-Linde
+  kinderheim: Kinderheim Frey 700 m Höhe, Kurerfolge bei Asthma und Bronchitis
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: baum
+BEZEICHNUNG: Käppeles-Linde
+ORTSTEIL_BEZUG: Hochmössingen
+EIGENSCHAFTEN:
+  standort: Hochmössingen
+  art: Linde
+  status: Deutschlands Nationalerbe-Baum
+  superlativ_stärke: eine der stärksten Linden Deutschlands
+  alter: 600-800 Jahre
+  superlativ_alter: einer der ältesten Bäume in Baden-Württemberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kloster
+BEZEICHNUNG: Augustinerkloster
+ORTSTEIL_BEZUG: Oberndorf am Neckar
+EIGENSCHAFTEN:
+  gründung_frauenkloster: um 1260
+  gründer: Herzöge von Teck
+  funktion_ursprung: Erbbegräbnis für die Familie Teck
+  orden_ab_1264: Augustinerorden (Frauengemeinschaft)
+  orden_ab_1559: Augustinereremiten (Mönche)
+  letzte_priorin: Barbara von Wehingen, gestorben 1551
+  übergang_zu_mönchen: 1559
+  übergabe_veranlasser: Froben Christoph von Zimmern als Kastenvogt und Schirmherr
+  letzte_konventsfrau: Anna von Vöhringen, eingewiesen in Kloster Kirchberg, Verzicht 1557
+  vorgängerbauten: 1281, 1323, 1619/60
+  neubau_stil: spätbarock
+  neubau_vierflügelanlage: 1772-1779
+  architekt_kirche: Christian Großbayer
+  steinmetz: Johann Georg Weckenmann
+  maler_deckenfreskeen: Johann Baptist Enderle
+  stuckatör: Andreas Henkel
+  säkularisierung_jahr: 1810
+  nutzung_ab_1810: Waffenfabrik
+  waffenfabrik_ab_1874: aufgegangen in Mauser-Werken
+  chorflankenturm_abbau: 1814 bis auf den Stumpf abgerissen
+  klosterkirche_nutzung_aktuell: Raum für kulturelle Veranstaltungen
+  klosterkirche_renovierung: 1978
+  konventsgebäude_nutzung_ab_1972: Rathaus und Polizeirevier
+GUELTIG_AB: um 1260
+GUELTIG_BIS: 1810
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kloster
+BEZEICHNUNG: Dominikanerinnnenkloster
+ORTSTEIL_BEZUG: Oberndorf am Neckar
+EIGENSCHAFTEN:
+  standort: bei der Michaelskapelle
+  gründung: 1264 (neu gegründetes Frauenkloster im Tal)
+  aufnahme_in_orden: 1264 in den Orden der Augustiner-Eremitinnen
+  privilegien_jahr: 1272
+  privilegien_gewährt_von: Herzog Ludwig von Teck
+  zerstörung_im_stadtbrand_1780: völlig zerstört
+GUELTIG_AB: 1264
+GUELTIG_BIS: 1780
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Remigius (Remigiuskirche)
+ORTSTEIL_BEZUG: Oberndorf am Neckar
+EIGENSCHAFTEN:
+  typ: Taufkirche
+  gültig_ab: um 900
+  gültig_bis: 1810
+  besitz_ab_um_900: Bischof Salomon von Konstanz, dann Kloster St. Gallen
+  abbruch_jahr: 1810
+  standort_ursprung: Oberndorfer Königshof im Tal
+GUELTIG_AB: um 900
+GUELTIG_BIS: 1810
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Michaelskirche (Katholische Stadtkirche St. Michael)
+ORTSTEIL_BEZUG: Oberndorf am Neckar
+EIGENSCHAFTEN:
+  erste_erwähnung: spätestens 1272
+  baureste_älter_als: 1272
+  kapelle_widmung: Erzengel Michael
+  brände: verschiedene Stadtbrände zerstörten Vorgängerbauten
+  umbau_und_erweiterung: 1925-1926
+  architektur_umbau: Otto Linder
+  grundriss_form: drei gleich große Schiffe bilden im Grundriss ein Kreuz
+  fassade_material: Bruchstein-Mauerwerk
+  architekturstil: Expressionismus
+  merkmale_expressionismus: Parabel-Formen von Tor- und Fensterbögen, gezackter Fries, dreifach gegliederte Kuppel, Tonnengewölbe
+  altarbereich_neugestaltung: 1969
+  neugestaltung_grund: Liturgiereform des Zweiten Vatikanischen Konzils
+  farbverglasungen: gestaltet von Maria Hiller-Foell, Legenden der Erzengel als Gegenstand
+GUELTIG_AB: spätestens 1272
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Stadtkirche
+ORTSTEIL_BEZUG: Oberndorf am Neckar
+EIGENSCHAFTEN:
+  erbauung_jahr: 1915-1916
+  grund_neubau: Evangelische Gemeinde benötigte eigene Kirche (vorher Augustinerklosterkirche als Betsaal)
+  architektur_architekt: Martin Elsaesser
+  architekturstil_merkmale: mittelalterlich anmutende Muster, Jugendstil-Elemente, Reformarchitektur
+  hanglage: exponierte Hanglage dominiert Stadtbild mehr als Michaelskirche
+  grundriss_form: dreischiffige Wandpfeilerkirche
+  gewölbe_seitenschiffe: Quertonnengewölbe
+  kirchenraum_merkmale: Seitenemporen strecken die Längsachse
+  wandgemälde: Rudolf Yelin d. Ä., halbhohe Wand hinter dem Altar
+  kanzelschnitzwerk: Schöpfungsgeschichte
+  glasmalereien: Käte Schaller-Härlin (vielgestaltig, kaum zugänglich)
+GUELTIG_AB: 1915
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Otmar (Pfarrkirche Hochmössingen)
+ORTSTEIL_BEZUG: Hochmössingen
+EIGENSCHAFTEN:
+  ursprüngliche_nutzung: Herrenhaus der Herren von Hochmössingen (12. Jahrhundert)
+  umwandlung_zur_kirche: 15. Jahrhundert
+  kirchturm_teil_1: unterster Teil aus erster Hälfte 15. Jahrhundert
+  alter_kirchengebäude_abbau: 1840
+  neubau_jahr: nach 1840
+  neubau_stil: Finanzkammerstil, hallenartige Kirche mit neoromanischen Formen
+  neubau_architekt: Baumeister Klein aus Rottweil
+GUELTIG_AB: 12. Jahrhundert (Herrenhaus), 15. Jahrhundert (Kirche)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Bergkapelle
+ORTSTEIL_BEZUG: Lindenhof
+EIGENSCHAFTEN:
+  gründer: Paul Mauser
+  gründung: 1910
+  grund: Ersatz für die Bitzekapelle
+  stil: Klassizismus
+  form: Rundkapelle
+  architekt: Baumeister Wilhelm Rohr
+  entwurf: W.P. Laur
+  kunstwerk: ungefasste Kreuzigungsgruppe von strenger Bildlichkeit
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Agathakapelle
+ORTSTEIL_BEZUG: Hochmössingen
+EIGENSCHAFTEN:
+  gründer: Bauern
+  stand_im_stadtteil: Hochmössingen
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Antoniuskapelle
+ORTSTEIL_BEZUG: Hochmössingen
+EIGENSCHAFTEN:
+  stiftung: 1517
+  stand_im_stadtteil: Hochmössingen
+GUELTIG_AB: 1517
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: Altes Rathaus Oberndorf
+ORTSTEIL_BEZUG: Oberndorf am Neckar
+EIGENSCHAFTEN:
+  heutige_form_jahr: 1783
+  erbauer_form_1783: Christian Großbayer (Baumeister der Augustinerklosterkirche)
+  stil: spätbarock
+  vorgängerbauten: mehrere, zerstört durch verschiedene Stadtbrände
+  ältester_steinerner_rathausbau_beleg: seit 1497
+  ursprüngliche_funktion: Handel mit Getreide, Brot und Salz
+  infrastruktur_tore: führten zur Brotlaube und zur Getreideschranne
+  infrastruktur_hinterer_teil: Feuerlöschgerät, Arrestzellen
+  aktuell_erdgeschoss: Speiserestaurant
+  aktuell_treppenhaus: Gemälde der Wappen früherer Stadtherren
+  narrenzunft_sitz: oberster Stock ("Narrenstube")
+  narrenzunft: Narrenzunft Oberndorf e. V. mit langer Tradition
+  aktueller_betrieb: Restaurant, Bar, Bistro
+GUELTIG_AB: 1783
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: brunnen
+BEZEICHNUNG: Rathausbrunnen
+ORTSTEIL_BEZUG: Oberndorf am Neckar
+EIGENSCHAFTEN:
+  standort: vor dem Alten Rathaus
+  original_baustil: Spätrenaissance
+  original_jahr: um 1617
+  beschädigung_1970er: zerstört durch Unfall
+  aktuell: Nachbau des Originalbrunnens aus Spätrenaissance um 1617
+GUELTIG_AB: um 1617
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: Pfalz
+ORTSTEIL_BEZUG: Oberndorf am Neckar
+EIGENSCHAFTEN:
+  erbauung_als_amtshaus: 1766
+  erbauer: Freiherr von Pflummern
+  stil: Spätbarock
+  historische_bedeutung: möglicherweise Standort des in Urkunde 912 erwähnten Königshofs
+  hypothese_besitzer: wahrscheinlich Wohnung der Herzöge von Teck
+  beweis_frühe_besiedlung: Einzelfunde und massive Steinbauten aus früheren Jahrhunderten
+  frühe_siedlung_ab: karolingische Zeit
+  friedensbereich: Hofstatt der Pfalz als eigener Friedensbereich mit Burgfrieden und Burgrecht
+  stadtmauer_funktion: später übernommen von Stadtmauer und Stadtgraben
+  nähe_stadtmauer: unmittelbar neben Pfalz besterhaltene Reste der Stadtmauer
+GUELTIG_AB: 912 (möglich), bestätigt 1766 als Amtshaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Waseneck
+ORTSTEIL_BEZUG: Altoberndorf
+EIGENSCHAFTEN:
+  typ: Ruine einer Höhenburg
+  lage: westlich des Stadtteils Altoberndorf
+  bewohner_1295: Maier von Waseneck (erstmals genannt)
+  maier_aufgabe: Bau und Verwaltung der Burg, Wohnsitz der Oberndorfer Teck-Linie
+  besitz_1363: nach Tod Herzog Hermanns von Teck an seine Tochter Beatrix und Sohn Konrad von Urslingen
+  besitz_1371: Friedrich von Teck erwarb von Konrad von Urslingen
+  besitz_1374: verkauft an Graf Rudolf III. von Hohenberg
+  besitz_ab_1462: Freiherren von Zimmern
+  besitz_1594: nach Zimmernsche Pfandschaft endet, fällt an Haus Österreich
+  burgstall_waseneck: abgegangener Burgstall im Stadtteil Oberndorf
+GUELTIG_AB: um 1250
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: museum
+BEZEICHNUNG: Museum im Schwedenbau
+ORTSTEIL_BEZUG: Oberndorf am Neckar
+EIGENSCHAFTEN:
+  status: städtische Einrichtung
+  erwerb_gebäude: 1973 von der Stadt
+  bereich_heimatmuseum: zeigt Archäologie und Stadtentwicklung bis 1900
+  bereich_waffenmuseum: zeigt Waffen lokaler Hersteller
+  waffenhersteller: Königlich Württembergische Gewehrfabrik, Mauser, Heckler & Koch, Rheinmetall, Feinwerkbau
+  ausstellung_fahrzeuge: zwei Fahrzeuge von Mauser
+  gebäude_nutzung_ab_1973: kulturelle Einrichtungen und Werkhof
+GUELTIG_AB: 1973 (als Museumsgebäude)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: fabrik
+BEZEICHNUNG: Königlich Württembergische Gewehrfabrik
+ORTSTEIL_BEZUG: Oberndorf am Neckar
+EIGENSCHAFTEN:
+  gründung: 1811
+  gründer: König Friedrich von Württemberg
+  standort: ehemaliges Augustinerkloster
+  grund_standortwahl: Empfehlung von Karl Friedrich von Kerner
+  kerner_position: Staatsrat und Oberst des Württemberg-Heeres, Bruder von Justinus Kerner
+  kerner_strategie: Bündelung der Waffenproduktion
+  betriebsmittel: Neckar trieb Wasserräder, diese Blasbälge und Schmiedehämmer an
+  wirtschaftliche_wirkung: ganzes handwerkliches Niveau der Region gehoben
+  produktion_1815: 3.600 Gewehre, 106 Karabiner, 3.500 Infanterie- und Kavalleriesäbel
+  technologie_1828_1866: Perkussionswaffen (Knallquecksilber, Zündhütchen)
+  export: auch an das Ausland verkauft
+  schließung_übernahme: 1874 aufgegangen in Mauser-Werken
+GUELTIG_AB: 1811
+GUELTIG_BIS: 1874
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: fabrik
+BEZEICHNUNG: Mauser-Werke (Mauser)
+ORTSTEIL_BEZUG: Oberndorf am Neckar
+EIGENSCHAFTEN:
+  gründung: 1872
+  gründer: Gebrüder Wilhelm und Paul Mauser
+  standort_gründung: Bitze
+  erwerb_königlicher_fabrik: 1874 Übernahme der Königlich Württembergischen Gewehrfabrik
+  grund_fusion: Konkurrenzsituation und Friedensmangel
+  entwicklung_gewehr_m71: erstes deutsches Reichsgewehr
+  entwicklung_gewehr_m71_merkmale: Selbstspannung und Flügelsicherung
+  entwicklung_gewehr_m71_einführung: 23. Februar 1872
+  entwicklung_vorgänger_mauser_norris: 1865-1869, Verbesserung des Dreyse-Verschlusses
+  verlegung_neckar: während Erster Weltkrieg notwendig
+  beschäftigung_erster_weltkrieg: über 6000 Personen, überwiegend Kriegsgefangene
+  arbeitersiedlung_erster_weltkrieg: neue Siedlung rechts des Neckars
+  umstellung_nach_wk1: Feinmesswerkzeuge, Nähmaschinen, etc.
+  beschäftigung_zweiter_weltkrieg: rund 10.000 Personen ständig
+  beschäftigung_zweiter_weltkrieg_zwangsarbeiter: über 50 Prozent gegen Ende
+  produktion_zweiter_weltkrieg: MG 34, MG 151, Flakgeschütze
+  wiederbewaffnung_1935: Aufnahme der Waffenproduktion
+  stilllegung: 1946
+  demontage: eingeleitet 1946
+  gegenwärtige_zugehörigkeit: Rheinmetall-Konzern
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: fabrik
+BEZEICHNUNG: Heckler & Koch
+ORTSTEIL_BEZUG: Oberndorf am Neckar
+EIGENSCHAFTEN:
+  gründung: 1949
+  standort: Oberndorf am Neckar
+  grund_gründung: Aufnahme der Waffenbautradition am Ort von Mauser
+  typ: Rüstungshersteller
+GUELTIG_AB: 1949
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: zeitung
+BEZEICHNUNG: Schwarzwälder Bote
+EIGENSCHAFTEN:
+  gründung_ursprung: 1835 gegründet in Sulz
+  verlegung_oberndorf: 1837 verlegt nach Oberndorf
+  verleger_oberndorf: Wilhelm Brandecker, Heimatstadt Oberndorf
+  heutige_funktion: Tageszeitung mit Redaktions- und Verlagssitz in Oberndorf
+  berichterstattung: lokales Geschehen in Oberndorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Erste urkundliche Erwähnung Oberndorf
+EIGENSCHAFTEN:
+  jahr: 782
+  urkunde: Schenkungsurkunde des Klosters St. Gallen
+  inhalt_original: "actum Obarindorf villa publice"
+  inhalt_sachlich: Schenkung der Orte Brittheim und Bickelsberg
+  ort_schenkung: vermutlich Oberndorfer Königshof im Tal
+  gebäude_königshof: dazu gehörte die 1810 abgebrochene Remigiuskirche
+GUELTIG_AB: 782
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Stadtgründung Oberndorf
+EIGENSCHAFTEN:
+  datum: um 1250
+  akteur: Herzog Ludwig von Teck
+  ort_gründung: Kalktuffplatte links des Neckars
+  frühe_siedler_beleg: 1246 Zöllner, 1251 Schultheiß, 1254 Bürger
+  statuswechsel_1300: Herzog Hermann von Teck bestätigt Stadt ihre alten Rechte und Freiheiten
+GUELTIG_AB: um 1250
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Reichsacht 1346
+EIGENSCHAFTEN:
+  kontext: Thronstreitigkeiten zwischen Kaiser Ludwig der Bayer und König Karl IV.
+  aktion: 18 Adelige verschworen sich 1346 in Oberndorf gegen den Kaiser
+  strafe: Stadt kam in Reichsacht
+  befreiung: König Karl IV. löste Stadt 1348 wieder aus Reichsacht
+GUELTIG_AB: 1346
+GUELTIG_BIS: 1348
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Stadtbrand 1445
+EIGENSCHAFTEN:
+  jahr: 1445
+  auswirkung: Michaelskirche brannte ab, die ganze Stadt außer 9 Häuser
+  superlativ: großer Stadtbrand
+GUELTIG_AB: 1445
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Stadtbrand 1612
+EIGENSCHAFTEN:
+  jahr: 1612
+  grund: während Brand unter Markgraf Karl von Burgau
+  auswirkung: 30 Häuser, darunter Rathaus, völlig zerstört
+  superlativ: weitgehende Zerstörung
+GUELTIG_AB: 1612
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Pestwelle 1635
+EIGENSCHAFTEN:
+  jahr: 1635
+  ort: oberer Neckar
+  auswirkung_1636: nur noch 96 Bürger und 11 Witwen
+  beschreibung: Oberndorf verlor großen Teil der Bevölkerung
+GUELTIG_AB: 1635
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Stadtbrand 1780 (Großer Stadtbrand)
+EIGENSCHAFTEN:
+  jahr: 1780
+  auswirkung: 87 Häuser brannten ab
+  gebäude_zerstört: Rathaus, Schulhaus, Pfarrhaus, Kirchturm, Dominikanerinnenkloster
+  superlativ: Großer Stadtbrand
+GUELTIG_AB: 1780
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Stadtbrand 1842
+EIGENSCHAFTEN:
+  jahr: 1842
+  auswirkung: 35 Häuser in der Altstadt zerstört
+  neuerlicher_brand: neuerlicher Stadtbrand
+GUELTIG_AB: 1842
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Eisenbahnanbindung Oberndorf
+EIGENSCHAFTEN:
+  jahr: 1867
+  bahnstrecke: Obere Neckarbahn
+  betreiber: Württembergische Eisenbahn
+  wirkung: Industrialisierung Oberndorfs erhielt neuen Schwung
+  folge_mauser: Gründung der Mauser-Gewehrfabrik 1872
+GUELTIG_AB: 1867
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Mahnmal Zwangsarbeiter
+EIGENSCHAFTEN:
+  einweihung: 27. Januar 2007
+  grund_datum: Holocaust-Gedenktag
+  künstler: Jürgen Knubben (Rottweiler Bildhauer)
+  kunstwerk_typ: Buch der Erinnerungen mit Stahlseiten
+  gedenken_zahl: 308 Zwangsarbeiter namentlich genannt
+  kontext: Zwangsarbeiter in der NS-Zeit, die in Oberndorf starben
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Herzog Ludwig von Teck
+EIGENSCHAFTEN:
+  rolle: Gründer der Stadt Oberndorf
+  aktion: Gründung der Stadt Oberndorf um 1250
+  aktion_weitere: Verleihung von Privilegien an Dominikanerinnnenkloster 1272
+GUELTIG_AB: um 1250
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Froben Christoph von Zimmern
+EIGENSCHAFTEN:
+  rolle: Verfasser der Zimmerischen Chronik, Stadtherr von Oberndorf
+  amtszeit: 1548-1563
+  werk: Zimmerische Chronik (berühmt)
+  aktion_1559: Übergabe Augustinerkloster an männlichen Zweig des Ordens (Augustinereremiten)
+  position: Kastenvogt und Schirmherr
+GUELTIG_AB: 1548
+GUELTIG_BIS: 1563
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Graf Albert von Hohenberg
+EIGENSCHAFTEN:
+  rolle: Minnesänger
+  ereignis: Kämpfe 1298 mit Herzog Otto von Baiern bei Oberndorf und Leinstetten
+  tod: fiel in diesen Kämpfen
+  jahr_ereignis: 1298
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Mauser
+EIGENSCHAFTEN:
+  lebensjahr: 1834-1882
+  rolle: Waffenkonstrukteur und Fabrikant der Mauser-Werke
+  herkunft: Sohn Oberndorfs
+  eintritt_fabrik: schon vom 14. Lebensjahr an in der Königlichen Gewehrfabrik
+  erfindung_zusammen_mit_paul: Mauser-Norris-Gewehr (1865-1869), Verbesserung des Dreyse-Verschlusses
+  erfindung_m71: erste deutsches Reichsgewehr mit Selbstspannung und Flügelsicherung, eingeführt 23. Februar 1872
+  aktion_1872: Errichtung eigener Gewehrfabrik
+GUELTIG_AB: 1834
+GUELTIG_BIS: 1882
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Paul Mauser
+EIGENSCHAFTEN:
+  lebensjahr: 1838-1914
+  rolle: Waffenkonstrukteur und Fabrikant der Mauser-Werke
+  herkunft: Sohn Oberndorfs
+  eintritt_fabrik: schon vom 14. Lebensjahr an in der Königlichen Gewehrfabrik
+  erfindung_zusammen_mit_wilhelm: Mauser-Norris-Gewehr (1865-1869), Verbesserung des Dreyse-Verschlusses
+  erfindung_m71: erstes deutsches Reichsgewehr mit Selbstspannung und Flügelsicherung, eingeführt 23. Februar 1872
+  aktion_1872: Errichtung eigener Gewehrfabrik Mauser
+  aktion_1874: Kauf der Königlich Württembergischen Gewehrfabrik
+  stiftung_1910: Bergkapelle als Ersatz für Bitzekapelle
+  ehrenbürger: am 14. Juni 1902
+GUELTIG_AB: 1838
+GUELTIG_BIS: 1914
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Matthias Winter
+EIGENSCHAFTEN:
+  rolle: Bürgermeister
+  wahl: 25. Juni 2023
+  wahl_prozentsatz: 81,8 Prozent der Stimmen
+  amtsantritt: 6. September 2023
+  amtsbestellung: zunächst zum bestellten Bürgermeister ernannt
+  amtsdauer_künftig: 8 Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Hermann Acker
+EIGENSCHAFTEN:
+  rolle: Bürgermeister
+  amtszeit: 1999-2023
+GUELTIG_AB: 1999
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Egon Halter
+EIGENSCHAFTEN:
+  lebensjahr: 1939-2023
+  rolle: Bürgermeister
+  amtszeit: 1975-1983
+GUELTIG_AB: 1975
+GUELTIG_BIS: 1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: institution
+BEZEICHNUNG: Amtsgericht Oberndorf am Neckar
+ORTSTEIL_BEZUG: Oberndorf am Neckar
+EIGENSCHAFTEN:
+  zuweisung_landgerichtsbezirk: Landgerichtsbezirk Rottweil
+  zuweisung_oberlandesgerichtsbezirk: Oberlandesgerichtsbezirk Stuttgart
+  sitz: Stadt Oberndorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: institution
+BEZEICHNUNG: Polizeirevier
+ORTSTEIL_BEZUG: Oberndorf am Neckar
+EIGENSCHAFTEN:
+  gehört_zu: Polizeipräsidium Konstanz
+  nutzung_gebäude_ab_1972: Konventsgebäude des Augustinerklosters (mit Rathaus)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: institution
+BEZEICHNUNG: Katholisches Dekanat Oberndorf
+ORTSTEIL_BEZUG: Oberndorf am Neckar
+EIGENSCHAFTEN:
+  bistum: Bistum Rottenburg-Stuttgart
+  dekanatsverband: Rottweil-Oberndorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: institution
+BEZEICHNUNG: Krankenhaus Oberndorf
+ORTSTEIL_BEZUG: Oberndorf am Neckar
+EIGENSCHAFTEN:
+  typ: Akutklinik
+  bettenanzahl: 120 Betten
+  fachabteilungen: Innere Medizin, Chirurgie/Unfall-, Gefäß- und Visceralchirurgie, Anästhesie, Gynäkologie
+  schule: Schule für Gesundheits- und Krankenpflege
+  verbund: SRH Kliniken
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: Schwäbisch-alemannische Fasnet (Fastnacht)
+EIGENSCHAFTEN:
+  ort: Oberndorf am Neckar
+  veranstalter: Narrenzunft Oberndorf e. V.
+  charakter: Hochburg der schwäbisch-alemannischen Fastnacht
+  fokus_tag: Fastnachtsdienstag
+  superlativ_gruppe: Teil des Viererbundes (zusammen mit Rottweil, Elzach, Überlingen)
+  tradition: lange Tradition
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: strukturelle_verkehrsverbindung
+BEZEICHNUNG: Bahnstrecke Plochingen–Immendingen
+EIGENSCHAFTEN:
+  station: Oberndorf
+  linie: Intercity-Linie 87
+  takt: zweistündlich
+  route: Stuttgart in Richtung Singen
+  zusätzlich: Regionalzüge
+  stillgelegte_stationen: Altoberndorf, Oberndorf-Aistaig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: strukturelle_verkehrsverbindung
+BEZEICHNUNG: Bundesautobahn 81
+EIGENSCHAFTEN:
+  verbindung_nord: Stuttgart (Landeshauptstadt)
+  verbindung_süd: Bodenseegebiet und Schweiz
+  ausfahrt: Oberndorf a. N.
+  lage_ausfahrt: halbe Strecke zwischen Stuttgart und Bodensee
+  erreichbarkeit_beide_ziele: innerhalb 45 Minuten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: radweg
+BEZEICHNUNG: Neckartal-Radweg
+EIGENSCHAFTEN:
+  bezeichnung: Landes-Radfernweg
+  route: von Villingen-Schwenningen über Rottweil, Horb, Tübingen, Stuttgart, Heilbronn und Heidelberg nach Mannheim
+  standort_oberndorf: verläuft als Landes-Radfernweg in Oberndorf
+  führung: am Neckar entlang
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: radweg
+BEZEICHNUNG: Heidelberg-Schwarzwald-Bodensee-Radweg
+EIGENSCHAFTEN:
+  route: von Heidelberg nach Radolfzell
+  durchfahrt_oberndorf: von Horb kommend östlich des Neckartals über Stadtteil Bochingen nach Rottweil und weiter nach Villingen-Schwenningen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: radtour
+BEZEICHNUNG: Radtour "Auf den Spuren der Römer" (Nr. 6)
+ORTSTEIL_BEZUG: Hochmössingen
+EIGENSCHAFTEN:
+  projekt: Tourismusprojekt Rad- und Wanderparadies Schwarzwald und Alb
+  auszeichnung: zwei Radtouren
+  einbeziehung_stadtteil: Hochmössingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: radtour
+BEZEICHNUNG: Radtour "Vom Neckar ins Albvorland" (Nr. 10)
+ORTSTEIL_BEZUG: Altoberndorf
+EIGENSCHAFTEN:
+  projekt: Tourismusprojekt Rad- und Wanderparadies Schwarzwald und Alb
+  auszeichnung: zwei Radtouren
+  einbeziehung_stadtteil: Altoberndorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Oberndorf bei Salzburg (Österreich)
+EIGENSCHAFTEN:
+  land: Österreich
+  bundesland: Salzburg
+  partnersince: seit 1982
+  einwohnerzahl: ca. 6.000
+  geographische_lage: direkt gegenüber der Stadt Laufen in Bayern
+  historischer_status: Teil Bayerns bis 1816
+  berühmtheit: Entstehungsort des Weihnachtsliedes "Stille Nacht, heilige Nacht"
+  erste_aufführung: 1818
+  kooperation: Delegationsbesuche, Vereine, Schüleraustausch mit Lycée
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Thierville-sur-Meuse (Frankreich)
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Grand Est
+  lage: an der Maas
+  partnerseit: seit 1982
+  einwohnerzahl: 3.100
+  geografische_nachbarschaft: grenzt unmittelbar an Stadt Verdun
+  kriegsgeschichte: Schauplatz 1916 einer der grausamsten Schlachten des Ersten Weltkriegs
+  kooperation: Delegationsbesuche, Vereinskooperationen
+  schüleraustausch: regelmäßiger Schüleraustausch zwischen Gymnasium und Lycée
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

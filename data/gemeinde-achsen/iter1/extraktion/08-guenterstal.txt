@@ -1,0 +1,930 @@
+ENTITÄT: ort
+BEZEICHNUNG: Günterstal
+EIGENSCHAFTEN:
+  ist_stadtteil: true
+  position: südlichster Stadtteil von Freiburg im Breisgau
+  lage: im Bohrer-Tal
+  namensherkunft: Bohrer-Tal nach dem dort ausgeübten Handwerk der Deichel-Bohrer
+  benachbart_zu: Horben (südlich)
+  einwohner: 2200
+  genauigkeit_einwohner: ca.
+  siedlungszaesur: Wonnhaldewiesen (etwa zwei Kilometer breit, trennt von Freiburg)
+  eingemeindung: 1890
+  relevanz_fuer_groesstagradus: Grund, dass sich Freiburg Deutschlands höchstgelegene Großstadt nennen kann (wegen Schauinsland)
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: berg
+BEZEICHNUNG: Schauinsland
+EIGENSCHAFTEN:
+  hoehe: 1284 Meter
+  lage: im Schwarzwald
+  gemarkung: Günterstal
+  bedeutung: ermöglicht Freiburgs Ruhm als Deutschlands höchstgelegene Großstadt
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ENTITÄT: kloster
+BEZEICHNUNG: Zisterzienserinnenabtei Günterstal
+EIGENSCHAFTEN:
+  orden: Zisterzienserinnen
+  erste_erwaehnungsjahr: 804
+  erste_erwaehnung_form: als "Gundherrerhusir" (Häuser des Günther) in der Mark von Merzhausen
+  erneute_erwaehnung_name: Guntheristal (um 1220er Jahre)
+  klosterbestaetigung_jahr: 1224
+  klosterbestaetigung_form: erstmals in Urkunde als "Gunterstal" erwähnt
+  gruenderin: Adelheid
+  gruender_kontext: um 1221 schenkt ein Adeliger (vermutlich Günther von Kibenfels) Gelände
+  besitzungen_1344: 90 Ortschaften (aus Besitzverzeichnis 1344)
+  besitzungen_mundenhof: heutiges städtisches Tiergehege Mundenhof
+  hausanzahl_um_1344: etwa 25 Häuser in der Gemeinde Günterstal
+  ueberflutung_1486: true
+  flucht_vor_schweden_1632: Klosterfrauen flohen zu Kloster Rheinau
+  leibeigenschaft_aufhebung: 1674 unter Äbtissin Agnes von Greuth
+  neubau_entscheidung_jahr: 1727
+  neubau_entscheidung_abtissin: Maria Rosa von Neveu
+  neubau_bauzeit: 1728-1738
+  neubau_abtissin: Maria Franziska Cajetana von Zurthannen
+  neubau_architekt: Peter Thumb
+  neubau_stil: barock
+  brand: 1829 (zerstört Kloster fast vollständig)
+  aufloesungsjahr: 1806
+  aufloesungsbefehl: durch Befehl Napoleons
+  klostergebaeude_erwerber_1812: Freiburger Firma Mez
+  nutzung_nach_1812: Fabrik
+  klostergebaeude_erwerber_1892: Waisenhausstiftung
+  komplexbedeutung: prägt noch heute die Ortsmitte
+GUELTIG_AB: 1221
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: person
+BEZEICHNUNG: Adelheid
+EIGENSCHAFTEN:
+  rolle: Gründerin des Zisterzienserinnenklosters Günterstal
+  herkunft: Tochter eines Adeligen (vermutlich Günther von Kibenfels)
+  handlung_um_1221: erhält Gelände geschenkt, baut klösterliche Anlage
+  gefaehrtinnen: mit ihren Gefährtinnen
+GUELTIG_AB: 1221
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Günther von Kibenfels
+EIGENSCHAFTEN:
+  beschreibung: Adeliger, der um 1221 seiner Tochter Adelheid Gelände in Günterstal schenkt
+  ueberlieferung: Überlieferung aus dem 18. Jahrhundert
+  genauigkeit_ueberlieferung: vermutlich
+  kann_namensgeber_sein: false
+  begruendung_nicht_namensgeber: Name "Günter" tauchte schon sehr viel früher im Ortsnamen auf
+GUELTIG_AB: 1221
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: person
+BEZEICHNUNG: Agnes von Greuth
+EIGENSCHAFTEN:
+  position: Äbtissin
+  handlung_1674: entließ Untertanen des Klosters aus der Leibeigenschaft
+GUELTIG_AB: 1674
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Maria Rosa von Neveu
+EIGENSCHAFTEN:
+  position: Äbtissin
+  handlung_1727: entschied über Neubau des Klostergebäudes
+GUELTIG_AB: 1727
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Maria Franziska Cajetana von Zurthannen
+EIGENSCHAFTEN:
+  position: Äbtissin
+  herkunft: aus dem Schwarzwald
+  charakterisierung: ebenso fromm wie tatkräftig
+  zeitraum_amtszeit: 1728-1738 (Zeit der barocken Klosteranlage)
+GUELTIG_AB: 1728
+GUELTIG_BIS: 1738
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Burg Kibenfels
+EIGENSCHAFTEN:
+  alternativname: Burg Kybfelsen
+  beschreibung: fällt nach Tod des Vaters von Adelheid an die Klostergemeinschaft
+GUELTIG_AB: 1221
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ENTITÄT: religioese_objekt
+BEZEICHNUNG: Heilig-Blut-Reliquie
+EIGENSCHAFTEN:
+  herkunft: Kloster Reichenau
+  verschenkung_jahr: 1737
+  empfaenger: Zisterzienserinnen
+  zustand_heute: noch vorhanden
+GUELTIG_AB: 1737
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: religioese_objekt
+BEZEICHNUNG: Monstranz
+EIGENSCHAFTEN:
+  jahr: 1738
+  herkunft: Klosterkirche
+  zustand_heute: noch vorhanden
+GUELTIG_AB: 1738
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Liebfrauenkirche
+EIGENSCHAFTEN:
+  konfession: katholisch
+  errichtungszeitraum: 1833-1834
+  bauherr: Badische Regierung
+  verwendete_materialien_barock: Teile der barocken Kirchenfassade
+  verwendete_grabsteine: von der letzten Äbtissin und eines Pfarrers
+  grabsteine_ort: an der Außenmauer
+  aeltester_bestandteil: Madonna mit Kind aus dem 14. Jahrhundert (im Eingangsbereich)
+GUELTIG_AB: 1833
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: religioese_objekt
+BEZEICHNUNG: Altarmensa und Tabernakelaufbau
+EIGENSCHAFTEN:
+  herkunft: Kloster Tennenbach
+  kuenstler: Johann Michael Winterhalder (1706-1759)
+  ursprung: aus der 1830 abgebrochenen Kirche des Klosters Tennenbach
+  standort: Liebfrauenkirche Günterstal
+GUELTIG_AB: 1833
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: religioese_objekt
+BEZEICHNUNG: Kreuz an rechter Seitenwand
+EIGENSCHAFTEN:
+  kuenstler: Johann Michael Winterhalder (1706-1759)
+  standort: Liebfrauenkirche Günterstal
+GUELTIG_AB: 1833
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: religioese_objekt
+BEZEICHNUNG: Kanzel
+EIGENSCHAFTEN:
+  kuenstler: Johann Michael Winterhalder (1706-1759)
+  standort: Liebfrauenkirche Günterstal
+GUELTIG_AB: 1833
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: religioese_objekt
+BEZEICHNUNG: Kreuzweg
+EIGENSCHAFTEN:
+  jahr: 1863
+  kuenstler: Wilhelm Dürr den Älteren
+  urspruenglicher_zweck: geschaffen für die Kirche des Collegium Borromäum in Freiburg
+  standort: Liebfrauenkirche Günterstal
+GUELTIG_AB: 1863
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: religioese_objekt
+BEZEICHNUNG: Fensterverglasung
+EIGENSCHAFTEN:
+  werkstatt: Helmle & Merzweiler (Freiburger Werkstatt)
+  farbe: farbig
+  zeitraum_einsatz: 1885-1902
+  standort: Liebfrauenkirche Günterstal
+GUELTIG_AB: 1885
+GUELTIG_BIS: 1902
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: religioese_objekt
+BEZEICHNUNG: Gitter im Altarraum
+EIGENSCHAFTEN:
+  jahr: 1888
+  standort: Liebfrauenkirche Günterstal
+GUELTIG_AB: 1888
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: religioese_objekt
+BEZEICHNUNG: Retabel, Nebenaltäre und Kanzeltreppe
+EIGENSCHAFTEN:
+  renovierung_zeit: 1998-2002
+  verantwortlicher_architekt: Peter Hillenbrand (Architekt des bischöflichen Bauamts)
+  material: Fundstücke verschiedener Herkunft
+  standort: Liebfrauenkirche Günterstal
+GUELTIG_AB: 1998
+GUELTIG_BIS: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Johann Michael Winterhalder
+EIGENSCHAFTEN:
+  geburt: 1706
+  tod: 1759
+  werke: Altarmensa, Tabernakelaufbau, Kreuz, Kanzel in Liebfrauenkirche
+  herkunft_werke: vom Kloster Tennenbach
+GUELTIG_AB: 1706
+GUELTIG_BIS: 1759
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Peter Thumb
+EIGENSCHAFTEN:
+  beruf: Architekt
+  werk: entwarf die barocke Klosteranlage Günterstal (1728-1738)
+GUELTIG_AB: 1728
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Dürr den Älteren
+EIGENSCHAFTEN:
+  beruf: Künstler
+  werk: Kreuzweg (1863) für Collegium Borromäum Freiburg
+  standort: heute in Liebfrauenkirche Günterstal
+GUELTIG_AB: 1863
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Peter Hillenbrand
+EIGENSCHAFTEN:
+  position: Architekt des bischöflichen Bauamts
+  werk: Erneuerung von Retabel, Nebenaltären und Kanzeltreppe (1998-2002)
+  standort: Liebfrauenkirche Günterstal
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Badische Revolution 1848/49 - Gefecht bei Günterstal
+EIGENSCHAFTEN:
+  zeit: 1848/49
+  type: Gefecht während Badischer Revolution
+  ort_haupteinsatz: Günterstal als Schauplatz eines tragischen Gefechts
+  operationsbasis_gegner: Horben (Operationsbasis Franz Sigels)
+  kommandeur_freischärler: Gustav von Struve
+  staerke_freischärler: 400 Mann
+  gegenseite: badische Truppen
+  treffer_freischärler: Hermann Mors (Student aus Freiburg) berichtet von Freiburgs Unterstützung (22. April 1848)
+  befehlswidrigkeit: Struve rückte entgegen ausdrücklichem Befehl Sigels vor
+  ort_gefecht: Talausgang beim heutigen Sternwaldeck
+  hoffnung_struve: Überlaufen der badischen Soldaten
+  ergebnis: Hoffnung trügt, Gefecht kurz, Freischärler werden in Flucht geschlagen und bis hinter Günterstal verfolgt
+  verluste_freischärler: etwa 20
+  verluste_badische_truppen: drei Soldaten
+GUELTIG_AB: 1848
+GUELTIG_BIS: 1849
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Denkmal am Jägerbrunnen
+EIGENSCHAFTEN:
+  anlass: Gefecht bei Günterstal 1848/49
+  gewidmet: zwei gefallenen badischen Soldaten
+  setzer: Kameraden der Soldaten
+  zustand_heute: noch vorhanden
+GUELTIG_AB: 1848
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: person
+BEZEICHNUNG: Gustav von Struve
+EIGENSCHAFTEN:
+  position: Freischärler
+  zeit_aktivitaet: Badische Revolution 1848/49
+  aktion: rückte mit 400 Mann über Günterstal vor
+  befehlshaber_auftrag: unter Befehl von Franz Sigel
+  befehlswidrigkeit: entgegen ausdrücklichem Befehl
+GUELTIG_AB: 1848
+GUELTIG_BIS: 1849
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: person
+BEZEICHNUNG: Hermann Mors
+EIGENSCHAFTEN:
+  beruf: Student
+  herkunft: Freiburg
+  aktion_1848: traf Gustav von Struve mit einer Abordnung aus Freiburg
+  nachricht: berichtete, dass sich Freiburg am 22. April 1848 auf die Seite der Aufständischen geschlagen hatte
+GUELTIG_AB: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Franz Sigel
+EIGENSCHAFTEN:
+  rolle: Befehlshaber von Freischären (Badische Revolution 1848/49)
+  operationsbasis: Nachbarort Horben
+  befehl_struve: ausdrücklicher Befehl an Struve (nicht vorzurücken)
+GUELTIG_AB: 1848
+GUELTIG_BIS: 1849
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Villa Wohlgemuth
+EIGENSCHAFTEN:
+  besitzer: August Wohlgemuth (Oberamtsrichter in Müllheim)
+  bauzeit: 1906-1913
+  stil: toskanisch
+  location: nordwestlicher Ortseingang
+  charakterisierung: exponierte Lage
+  aenderung_1927: 1927 von Benediktinerinnen von der heiligen Lioba übernommen
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: August Wohlgemuth
+EIGENSCHAFTEN:
+  position: Oberamtsrichter in Müllheim
+  werk: Villa Wohlgemuth (1906-1913)
+GUELTIG_AB: 1906
+GUELTIG_BIS: 1913
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster St. Lioba
+EIGENSCHAFTEN:
+  order: Benediktinerinnen
+  uebernahme_gebaeude: 1927
+  gebaeude_vorher: Villa Wohlgemuth
+  gruenderin: Maria Föhrenbach (1883-1961)
+  mitbegruenderin: Hildegardis Wulff (1896-1961)
+  abteilung_kategorie: Frauenorden der Benediktinerinnen OSB von der Heiligen Lioba
+GUELTIG_AB: 1927
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: person
+BEZEICHNUNG: Maria Föhrenbach
+EIGENSCHAFTEN:
+  geburt: 1883
+  tod: 1961
+  position: Gründerin des Frauenordens der Benediktinerinnen OSB von der Heiligen Lioba
+  beerdigung: auf dem Klosterfriedhof der Benediktinerinnen der Heiligen Lioba
+GUELTIG_AB: 1883
+GUELTIG_BIS: 1961
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Hildegardis Wulff
+EIGENSCHAFTEN:
+  geburt: 1896
+  tod: 1961
+  position: Mitbegründerin des Frauenordens der Benediktinerinnen OSB von der Heiligen Lioba
+  beerdigung: auf dem Klosterfriedhof der Benediktinerinnen der Heiligen Lioba
+GUELTIG_AB: 1896
+GUELTIG_BIS: 1961
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Waldhaus
+EIGENSCHAFTEN:
+  eroeffnung: Herbst 2008
+  lage: an der Wonnhalde
+  traegerschaft: gemeinnützige Stiftung
+  funktion_zielgruppe: Schulklassen und Allgemeinheit
+  ziel_sensibilisierung: Ökosystem Wald
+  ziel_werbung: nachhaltige Forstwirtschaft
+  angebote: Wechselausstellungen
+  cafe_vorhanden: true
+  cafe_oeffnungszeiten: Sonntag und Feiertage
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Forstamt Neubau
+EIGENSCHAFTEN:
+  spatenstich: Ende 2020
+  bauherr: Stiftung Waldhaus
+  baustoff: Holz
+  geschosse: viergeschossig
+  umzugsquelle: Günterstalstraße 71
+  umzugsziel: neue Lage an der Wonnhalde
+  umzugsdatum: September 2022
+  baukosten: 2,1 Millionen Euro
+  genauigkeit_kosten: ca.
+  erweiterung: Erweiterung des Waldhauses
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: organisation
+BEZEICHNUNG: Forstliche Versuchs- und Forschungsanstalt Baden-Württemberg
+EIGENSCHAFTEN:
+  standort: im angrenzenden Stadtteil Wiehre
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Straßenbahn Linie 2
+EIGENSCHAFTEN:
+  betreiber: Freiburger Verkehrs AG
+  betriebsbeginn: 1901
+  liniennummer: 2
+  verbindung: mit Innenstadt Freiburgs
+  schienenverlauf: neben der Schauinslandstraße
+  haltestellen: Wiesenweg, Klosterplatz, Dorfstraße (Endhaltestelle)
+  haltestelle_besonderheit: Dorfstraße war bis Ende 2014 die südlichste Deutschlands
+  haltestelle_besonderheit_aktuell: seit 2015 nur noch südlichste Straßenbahnhaltestelle eines deutschen Verkehrsunternehmens (Superlativ)
+  aenderung_dezember_2014: Verlängerung der grenzüberschreitenden Linie 8 der Basler Straßenbahn nach Weil am Rhein
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Buslinie 21
+EIGENSCHAFTEN:
+  startpunkt: Straßenbahn-Endhaltestelle Dorfstraße
+  ziel_tagsüber: via Talstation der Schauinslandbahn nach Horben
+  takt_talstation: alle 15-20 Minuten
+  takt_weiterfahrt_berg: stündlich
+  zusatzverbindungen_mehrmals_woche: bis Munzinger Straße im Industriegebiet Haid
+  zusatzverbindungen_wochentags: einmal täglich nach Herdern
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Frelo-Fahrradverleihstation
+EIGENSCHAFTEN:
+  typ: Fahrradverleihsystem
+  standort: in Günterstal
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Radweg (Schauinslandstraße)
+EIGENSCHAFTEN:
+  verbindung: zwischen Günterstal und Wiehre (Holbeinstraße)
+  lage_entlang: Schauinslandstraße
+  beidseitig: beidseitig
+  typ_teil: gemeinsamer Fuß- und Radweg (im überwiegenden Teil)
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Schauinslandradweg
+EIGENSCHAFTEN:
+  beschreibung: Radweg um den Schauinsland
+  route: über Schauinslandstraße, Kirchzarten und Oberried
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Mitfahrbänke
+EIGENSCHAFTEN:
+  anzahl: zwei
+  inbetriebnahme: seit 2019
+  standort_1: an der Endhaltestelle der Straßenbahnlinie
+  richtung_1: nach Horben
+  standort_2: am südlichen Ortseingang
+  richtung_2: Richtung Stadtmitte
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Günterstäler Tor
+EIGENSCHAFTEN:
+  beschreibung: ehemals Eingang in den Klosterbereich
+  standort: Unterdorf
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Matthias-Claudius-Kapelle
+EIGENSCHAFTEN:
+  konfession_ursprünglich: evangelisch
+  entwidmung_datum: 2026
+  standort: Unterdorf
+GUELTIG_AB: null
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Schulhaus
+EIGENSCHAFTEN:
+  ursprüngliche_funktion: Schulhaus
+  heutige_funktion: Sonderpädagogisches Bildungs- und Beratungszentrum mit Förderschwerpunkt geistige Entwicklung
+  zusatzanlage: Mehrzweckhalle
+  standort: Unterdorf
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kindertagesstätte
+EIGENSCHAFTEN:
+  standort: Günterstal
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gasthof Kybfelsen
+EIGENSCHAFTEN:
+  standort: Unterdorf
+  besonderheit: Gedenktafel an Edith Stein (die dort oft eingekehrt ist)
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Café am Klosterplatz
+EIGENSCHAFTEN:
+  eroeffnung: September 2026
+  standort: Klosterplatz
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Tankstelle
+EIGENSCHAFTEN:
+  standort: Günterstal
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kinderspielplatz mit Grillstelle
+EIGENSCHAFTEN:
+  standort: Günterstal
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ENTITÄT: organisation
+BEZEICHNUNG: Jugendgruppe Günterstal
+EIGENSCHAFTEN:
+  standort: Günterstal
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Günterstäler Weiher
+EIGENSCHAFTEN:
+  standort: Oberdorf
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gasthaus St. Valentin
+EIGENSCHAFTEN:
+  standort: Oberdorf
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: baum
+BEZEICHNUNG: Waldtraut vom Mühlwald
+EIGENSCHAFTEN:
+  species: Douglasie
+  standort: im Mühlwald (Teil des Arboretums Freiburg-Günterstal)
+  superlativ: höchster Baum Deutschlands
+  stammumfang_fuss: 300 cm
+  hoehe_august_2008: ca. 65 m
+  hoehe_maerz_2017: 66,581 m
+  hoehe_november_2019: 67,18 m
+  messungen: von geodätischem Institut der Universität Karlsruhe und städtischem Forstamt durchgeführt
+  vorherige_position: verwies Eberbacher Douglasie im August 2008 auf Platz zwei
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: baum
+BEZEICHNUNG: Eberbacher Douglasie
+EIGENSCHAFTEN:
+  fruehere_position: zweit-höchster Baum Deutschlands (August 2008)
+  positionsverlust: August 2008 durch Waldtraut vom Mühlwald
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Günterstal
+BEZEICHNUNG: Arboretum Freiburg-Günterstal
+EIGENSCHAFTEN:
+  beschreibung: enthält Mühlwald mit höchstem Baum Deutschlands
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bohrerdamm
+EIGENSCHAFTEN:
+  standort: Bohrertal auf Horbener Gemarkung
+  hoehe: 13,5 Meter
+  laenge: 275 Meter
+  breite_max: bis zu 80 Meter
+  zweck: Hochwasserschutz
+  finanzierung_zuschuss: 8,8 Millionen Euro (vom Land)
+  spatenstich: Februar 2020
+  fertigstellung: April 2023
+  schutz_ziele: bestehende Freiburger Stadtteile (Günterstal, Wiehre, Vauban, Haslach, Weingarten) und geplanter Stadtteil Dietenbach vor Jahrhunderthochwasser
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: gebaeude
+BEZEICHNUNG: Hochwasserrückhaltebecken Breitmatte
+EIGENSCHAFTEN:
+  massnahme: Aufstockung um zwei Meter
+  standort: zwischen Günterstal und Wiehre
+  planung_zeit: jahrelange Planungen und Streit
+  abschluss_aufstockung: November 2022
+  bau_hochwasserschutz: Sommer (2020)
+  kosten_gesamt: 19,5 Millionen Euro (zusammen mit Bohrerdamm)
+  schutz_ziele: bestehende Freiburger Stadtteile (Günterstal, Wiehre, Vauban, Haslach, Weingarten) und geplanter Stadtteil Dietenbach vor Jahrhunderthochwasser
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: person
+BEZEICHNUNG: Maxim Gorki
+EIGENSCHAFTEN:
+  geburt: 1868
+  tod: 1936
+  nationalitaet: russisch
+  profession: Schriftsteller
+  aufenthalt_günterstal: Juni bis November 1923
+  begleitung: mit seiner Geliebten Moura Budberg
+  schrift_über_günterstal: "Wir leben in einem schönen, grünen Tal bei Freiburg und beabsichtigen den Winter über hier zu bleiben. Interessant ist hier die Vegetation, nicht nur wegen ihrer Farben, sondern auch wegen ihrer Formen: Thujen, Zypressen, verschiedene Nadelbäume. Es ist eine milde, bergige Landschaft…"
+GUELTIG_AB: 1923
+GUELTIG_BIS: 1923
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Sepp Allgeier
+EIGENSCHAFTEN:
+  geburt: 1895
+  tod: 1968
+  profession: Kameramann und Fotograf
+  beerdigung: Friedhof Günterstal
+GUELTIG_AB: 1895
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Jonas Cohn
+EIGENSCHAFTEN:
+  geburt: 1869
+  tod: 1947
+  profession: Philosoph und Pädagoge
+  lebensort: Günterstal
+GUELTIG_AB: 1869
+GUELTIG_BIS: 1947
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Richard Engelmann
+EIGENSCHAFTEN:
+  geburt: 1868
+  tod: 1966
+  profession: Bildhauer
+  beerdigung: Friedhof Günterstal
+GUELTIG_AB: 1868
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Hans Filbinger
+EIGENSCHAFTEN:
+  geburt: 1913
+  tod: 2007
+  position: Ministerpräsident
+  lebensort_und_beerdigung: Günterstal
+  lebenszeit_in_günterstal: viele Jahre bis zu seinem Tod
+GUELTIG_AB: 1913
+GUELTIG_BIS: 2007
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Hermann Flamm
+EIGENSCHAFTEN:
+  geburt: 1871
+  tod: 1915
+  profession: Historiker und Archivar
+  geburtsort: Günterstal
+GUELTIG_AB: 1871
+GUELTIG_BIS: 1915
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Swetlana Geier
+EIGENSCHAFTEN:
+  geburt: 1923
+  tod: 2010
+  profession: Literaturübersetzerin
+  lebensort: Günterstal
+  todesort: Günterstal
+GUELTIG_AB: 1923
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Hans von Geyer zu Lauf
+EIGENSCHAFTEN:
+  geburt: 1895
+  tod: 1959
+  beerdigung: Friedhof Günterstal
+GUELTIG_AB: 1895
+GUELTIG_BIS: 1959
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: person
+BEZEICHNUNG: Rudolf Haufe
+EIGENSCHAFTEN:
+  geburt: 1903
+  tod: 1971
+  profession: Gründer des Rudolf-Haufe-Verlags
+  beerdigung: Friedhof Günterstal
+GUELTIG_AB: 1903
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Edmund Husserl
+EIGENSCHAFTEN:
+  geburt: 1859
+  tod: 1938
+  profession: Philosoph
+  beerdigung_form: Asche auf dem Friedhof Günterstal
+GUELTIG_AB: 1859
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Wolfgang Kirchgässner
+EIGENSCHAFTEN:
+  geburt: 1928
+  tod: 2014
+  position: Freiburger Weihbischof
+  amtszeit: 1979-1998
+  lebensort: Mutterhaus St. Lioba in Günterstal
+GUELTIG_AB: 1928
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Rinne
+EIGENSCHAFTEN:
+  geburt: 1863
+  tod: 1933
+  profession: Mineraloge
+  beerdigung: Friedhof Günterstal
+GUELTIG_AB: 1863
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Lutz Röhrich
+EIGENSCHAFTEN:
+  geburt: 1922
+  tod: 2006
+  profession: Volkskundler und Erzählforscher
+  position: erster Inhaber des Lehrstuhls für Volkskunde an der Universität Freiburg
+  lebensort_und_beerdigung: Günterstal
+GUELTIG_AB: 1922
+GUELTIG_BIS: 2006
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Carl Schuster
+EIGENSCHAFTEN:
+  geburt: 1854
+  tod: 1925
+  profession: Architekt und Maler
+  todesort: Günterstal
+GUELTIG_AB: 1854
+GUELTIG_BIS: 1925
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Edith Stein
+EIGENSCHAFTEN:
+  geburt: 1891
+  tod: 1942
+  alternativname: Schwester Teresia Benedicta vom Kreuz
+  profession: Philosophin
+  heiligsprechung_durch: Papst Johannes Paul II.
+  aufnahme_in_patrone_europas: 11. Oktober 1998
+  lebenszeiten_in_günterstal: 1916, 1929, 1931/32
+  frequentierte_staette: Gasthof Kybfelsen (oft eingekehrt)
+GUELTIG_AB: 1891
+GUELTIG_BIS: 1942
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: person
+BEZEICHNUNG: Hans Thieme
+EIGENSCHAFTEN:
+  geburt: 1906
+  tod: 2000
+  profession: Rechtshistoriker
+  beerdigung: Friedhof Günterstal
+GUELTIG_AB: 1906
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Ernst Zermelo
+EIGENSCHAFTEN:
+  geburt: 1871
+  tod: 1953
+  profession: Mathematiker
+  beerdigung: Friedhof Günterstal
+GUELTIG_AB: 1871
+GUELTIG_BIS: 1953
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: event
+BEZEICHNUNG: Straßenbahn-Eröffnung Linie 2
+EIGENSCHAFTEN:
+  jahr: 1901
+  linie: Linie 2 der Freiburger Straßenbahn
+  betreiber: Freiburger Verkehrs AG
+  bedeutung: verbindet Günterstal mit Innenstadt
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: event
+BEZEICHNUNG: Eingemeindung nach Freiburg
+EIGENSCHAFTEN:
+  jahr: 1890
+  anlass: Gemeinde beschloss Anschluss an Freiburg (wirtschaftliche Notwendigkeit)
+  grund: Gemeinde war kaum lebensfähig, fehlte Vermögen, musste sich an kostspieliger Erhaltung des Wegenetzes beteiligen
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: event
+BEZEICHNUNG: Klosterbrand
+EIGENSCHAFTEN:
+  jahr: 1829
+  folgen: Kloster fast vollständig zerstört
+  wiederaufbau_1: Familie von Hermann baute Klostergebäude teilweise wieder auf, richtete Brauerei ein
+GUELTIG_AB: 1829
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: event
+BEZEICHNUNG: Kirchenneubau
+EIGENSCHAFTEN:
+  zeitraum: 1833-1834
+  bauherr: Badische Regierung
+  verwendete_teile: Teile der barocken Kirchenfassade des Klosters
+GUELTIG_AB: 1833
+GUELTIG_BIS: 1834
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

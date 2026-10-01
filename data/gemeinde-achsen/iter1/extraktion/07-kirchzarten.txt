@@ -1,0 +1,1000 @@
+ENTITÄT: ort
+BEZEICHNUNG: Kirchzarten
+EIGENSCHAFTEN:
+  status: Gemeinde und Dorf
+  lage: Südschwarzwald, Verdichtungsraum Freiburg, Talebene des Dreisamtals
+  landkreis: Breisgau-Hochschwarzwald
+  bundesland: Baden-Württemberg
+  land: Deutschland
+  einwohner: >10000
+  einwohner_2021_22: 10000
+  naturpark: Südschwarzwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteile
+BEZEICHNUNG: Zarten
+EIGENSCHAFTEN:
+  status: Bis 1970er Jahre selbstständige Gemeinde
+  eingemeindung: 1. April 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteile
+BEZEICHNUNG: Burg
+EIGENSCHAFTEN:
+  status: Bis 1970er Jahre selbstständige Gemeinde
+  eingemeindung: 1. Juli 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: keltisches_oppidum
+EIGENSCHAFTEN:
+  groesse: 200 ha
+  lage: Dreieck zwischen Wagensteigbach und Rotbach
+  alter_name: Tarodunum
+  beschreibung: Von antiken Geographen Ptolemaios im 2. Jahrhundert erwähnt
+  namensherkunft: Keltischer Name Tarodunon, nach althochdeutscher Lautverschiebung von t zu z als Zarduna bekannt
+  erste_urkunde: 765
+  kontinuitaet: Indiz für kontinuierliche Siedlungsgeschichte über Römerzeit und alemannische Landnahme nach 260
+GUELTIG_AB: -300
+GUELTIG_BIS: 800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: roemische_infrastruktur
+EIGENSCHAFTEN:
+  beschreibung: Keller und hypokaustierten Raum aus Römerzeit, vermutlich Reste einer römischen Straßenstation
+  nachweise: Archäologische Grabungen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: ortsgeschichte
+EIGENSCHAFTEN:
+  ersterwähnung_name: Zarduna 765 in Urkunde des Klosters St. Gallen
+  ersterwähnung_kirchzarten: 816
+  herrschaft: Herren zu Falkenstein (Hochmittelalter)
+  grund_falkenstein: Ursprung bei Kloster St. Gallen (benannt nach Doppelkreuz im Wappen)
+  herrschaft_ab_1500: Vorderösterreichische Stadt Freiburg
+  grund_oesterreich: Um 1500 erworben
+  herrschaft_1679: Frankreich nach Frieden von Nimwegen
+  grund_frankreich: Österreich trat Herrschaft nach Krieg ab
+  herrschaft_1697: Österreich nach Frieden von Rijswyk
+  grund_oesterreich_1697: Frankreich gab Herrschaft zurück
+  herrschaft_1805: Großherzogtum Baden nach Frieden von Pressburg
+  grund_baden: Österreich verlor gegen Napoleon
+GUELTIG_AB: 765
+GUELTIG_BIS: 1805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: einwohner_entwicklung
+EIGENSCHAFTEN:
+  einwohner_1870: 1024
+  einwohner_1970: 6063
+  wachstum_1870_1970: versechsfacht
+  einwohner_2000: 9094
+  wachstum_1970_2000: 50%
+  einwohner_2021_22: 10000
+GUELTIG_AB: 1870
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Birkenreute
+EIGENSCHAFTEN:
+  jahr: 1924
+GUELTIG_AB: 1924
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Dietenbach und Neuhäuser
+EIGENSCHAFTEN:
+  jahr: 1936
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Zarten
+EIGENSCHAFTEN:
+  jahr: 1974-04-01
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Burg
+EIGENSCHAFTEN:
+  jahr: 1974-07-01
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ausgliederung
+BEZEICHNUNG: Burg
+EIGENSCHAFTEN:
+  jahr: 1829
+GUELTIG_AB: 1829
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ausgliederung
+BEZEICHNUNG: Himmelreich östlich der Höllentalbahn
+EIGENSCHAFTEN:
+  jahr: 1977-01-01
+  zielgemeinde: Buchenbach
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Darius Reutter
+EIGENSCHAFTEN:
+  partei: SPD
+  wahlbeteiligung: 52.8%
+  wahlrunde: 2024
+  amtsantritt: 2025-02-01
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verwaltungsverband
+BEZEICHNUNG: Gemeindeverwaltungsverband Dreisamtal
+EIGENSCHAFTEN:
+  sitz: Kirchzarten
+  mitglieder: Buchenbach, Oberried, Stegen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bürgerentscheid
+EIGENSCHAFTEN:
+  datum: 2013-03-03
+  thema: Errichtung eines Mountainbike-Trainings- und Wettkampfgeländes
+  ergebnis: Abgelehnt
+  nein_prozent: 58%
+  grund_bindung: Quorum 35% überschritten (gesetzliche Anforderung 25%)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wappen
+EIGENSCHAFTEN:
+  beschreibung: Vorn auf gelbem Grund stehender schwarzer Bär mit silbernem Doppelkreuz, hinten halbes Stadtwappen Freiburgs (Georgskreuz)
+  symbolik_baer: Hinweis auf Ursprünge als Besitz des Klosters St. Gallen
+  symbolik_georgskreuz: Lange Zugehörigkeit zur Stadt Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Gallus-Kirche
+EIGENSCHAFTEN:
+  konfession: Katholisch
+  funktion: Pfarrkirche, Mittelpunkt des Ortes, Wahrzeichen
+  bauzeitraum: 12. Jahrhundert
+  grund_neubau: Kirchliches Leben verlagerte sich von Zarten nach Kirchzarten
+  baustile: Romanisch, Gotisch, Barock (Innenausstattung)
+  orgel_jahr: 1991
+  orgel_werkstatt: Metzler Orgelbau (Schweiz)
+  kirchturm_hoehe: 32 m
+  stoerche: Mehrere Jahre wieder nistend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Johannes-Kapelle (Zarten)
+EIGENSCHAFTEN:
+  ortsteil: Zarten
+  konfession: Katholisch
+  gehoert_zu: Herz-Jesu-Gemeinde Stegen
+  erwaehnung_frueh: Von Cozpert im Jahr 816 in „partem ecclesie" erwähnt
+  älteste_kirche_zartener_becken: true
+  bauzeit_ursprung: 11. Jahrhundert
+  erscheinung: Heute gotisch
+  dachreiter_sakristei_jahr: 1878
+  innenausstattung: Barock
+  umgebung: Von Garten umgeben in Tradition von Bauern- und Klostergärten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Giersbergkapelle
+EIGENSCHAFTEN:
+  baujahr: 1737
+  zusatz: Pilgergaststätte
+  kunstwerke: Drei Standbilder von Matthias Faller (St. Märgen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Jakobuskapelle (Hofgut Himmelreich)
+EIGENSCHAFTEN:
+  lage: Hofgut Himmelreich
+  zubehoer: Am Jakobsweg
+  bauzeit: Vermutlich vor 1500
+  umsiedelungen: Zweimal wegen Straßenneubauten transloziert
+  aktueller_standort_jahr: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: altarretabel
+BEZEICHNUNG: Altarretabel (Friedhof Giersbergkapelle)
+EIGENSCHAFTEN:
+  lage: Einsegnungshalle des neuen Friedhofs unterhalb des Giersbergs
+  künstler: Hortense von Gelmini
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster St. Therese der Unbeschuhten Karmelitinnen
+EIGENSCHAFTEN:
+  ortsteil: Dietenbach
+  gruendung: 1928
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: religiöse_gemeinde
+BEZEICHNUNG: Heilig-Geist-Gemeinde
+EIGENSCHAFTEN:
+  konfession: Evangelisch
+  gebiet: Kirchzarten und Oberried
+  gruendung: 1895
+  anfaengliche_versammlung: Kleine Kirche in der Burger Straße
+  gemeindezentrum_seit: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Campingplatz
+EIGENSCHAFTEN:
+  bedeutung: Tourismus wegen Nähe zu Freiburg und Schwarzwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kurhaus
+EIGENSCHAFTEN:
+  funktion: Tagungsmöglichkeiten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Testo Industrial Services GmbH
+EIGENSCHAFTEN:
+  typ: Mittelständischer Betrieb
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: halstrup-walcher GmbH
+EIGENSCHAFTEN:
+  typ: Mittelständischer Betrieb
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: KVT GmbH
+EIGENSCHAFTEN:
+  typ: Mittelständischer Betrieb
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: FSM-elektronik GmbH
+EIGENSCHAFTEN:
+  typ: Mittelständischer Betrieb
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: ECOMAL Europe GmbH
+EIGENSCHAFTEN:
+  typ: Mittelständischer Betrieb
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Kirchzarten
+EIGENSCHAFTEN:
+  lage: Kernort
+  strecke: Höllentalbahn
+  richtung_schwarzwald: In Hochschwarzwald nach Titisee und Neustadt
+  richtung_freiburg: Nach Freiburg mit Anschluss Fernverkehr Deutsche Bahn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Himmelreich
+EIGENSCHAFTEN:
+  ortsteil: Burg
+  strecke: Höllentalbahn
+  besonderheit: Auf eingleisiger Strecke treffen sich tagsüber halbstündlich fahrende Züge
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Fahrradverleihsystem Frelo
+EIGENSCHAFTEN:
+  stationen: 4 (seit März 2026)
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Marie-Curie-Gymnasium
+EIGENSCHAFTEN:
+  funktion: Abiturprüfungen möglich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Realschule Kirchzarten
+EIGENSCHAFTEN:
+  lage: Schulzentrum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Werkrealschule
+EIGENSCHAFTEN:
+  lage: Schulzentrum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Kirchzarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Burg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Freie Schule Dreisamtal
+EIGENSCHAFTEN:
+  typ: Privat
+  gruendung: September 2004
+  angebot: Grund- und Werkrealschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Zarduna-Schule
+EIGENSCHAFTEN:
+  ortsteil: Zarten
+  typ: Förderschule für lernbehinderte Kinder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kindergarten
+EIGENSCHAFTEN:
+  beschreibung: Mehrere gemeindliche, kirchliche und private Kindergärten
+  besonderheit: Waldkindergarten vorhanden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: hofgut
+BEZEICHNUNG: Hofgut Himmelreich
+EIGENSCHAFTEN:
+  ortsteil: Himmelreich
+  typ: Inklusionsunternehmen
+  gruendung: 2004
+  angebot: Hotel, Restaurant, Bahnhof mit DB-Agentur
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: akademie
+BEZEICHNUNG: Akademie Himmelreich
+EIGENSCHAFTEN:
+  ortsteil: Himmelreich
+  gruendung: 2007
+  profil: Kompetenzzentrum für Inklusion
+  angebot: Berufsvorbereitung, Teilausbildung, Fortbildung für Menschen mit kognitiver Beeinträchtigung, Seminare für Verantwortliche, Fachveranstaltungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kulturelle_einrichtung
+BEZEICHNUNG: Volkshochschule Dreisamtal e. V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kulturelle_einrichtung
+BEZEICHNUNG: Jugendmusikschule Dreisamtal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Talvogtei
+EIGENSCHAFTEN:
+  funktion_alt: Wasserschloss der Freiburger Vögte
+  bauzeitraum: 17. Jahrhundert
+  funktion_neu: Rathaus nach Restaurierung
+  zusatz: Benachbarte historische Scheunen mit Verwaltungsteilen, Bürgersaal, moderne Mediathek
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schwarzwaldhaus
+BEZEICHNUNG: Zartener Hof
+EIGENSCHAFTEN:
+  beschreibung: Eine der sieben klassischen Formen des Schwarzwaldhauses
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Historische Hochgangsäge
+EIGENSCHAFTEN:
+  ortsteil: Zarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: hof
+BEZEICHNUNG: Markenhof
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1397
+  nutzung_1920er: Lehrgut für junge Einwanderer nach Palästina
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ausstellung
+EIGENSCHAFTEN:
+  beschreibung: Ausstellung über Leben und Wirken des deutsch-jüdischen Bildhauers Richard Engelmann
+  ort_original: Kirchzartener Kurhaus
+  verwaltung: Bauhaus-Universität Weimar seit 1997 mit Nachlass
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Richard Engelmann
+EIGENSCHAFTEN:
+  geburt: 1868
+  tod: 1966
+  profession: Deutsch-jüdischer Bildhauer
+  lage_kirchzarten: Lebensabend
+  verdrängung: Von Nationalsozialisten aus Weimarer Kunsthochschule vertrieben
+  grund_rettung: Status „in privilegierter Mischehe lebend"
+  bedrohung: Nur aufgrund Mixehe der Deportation nach Lager Gurs (Wagner-Bürckel-Aktion) entgangen
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1936
+GUELTIG_BIS: 1966
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: SV Kirchzarten
+EIGENSCHAFTEN:
+  superlativ: Größter Sportverein im Dreisamtal
+  infrastruktur: Zwei Fußball-Rasenplätze, Kunstrasenspielfeld mit Flutlicht, Tennenplatz mit Flutlicht, Leichtathletikstadion Typ C, Multifunktions-Hartgummifeld mit Basketball- und Handballtoren, Beachvolleyball-Anlage mit drei Feldern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: tennisverein
+BEZEICHNUNG: TC Grün-Weiß Kirchzarten e. V.
+EIGENSCHAFTEN:
+  infrastruktur: Tennisanlage mit sieben Sandplätzen und Kindertennisplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: Tauziehfreunde Bleifuss Dietenbach e. V.
+EIGENSCHAFTEN:
+  lage: Dietenbach
+  liga: Landesliga Südbaden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Mountainbike-Weltmeisterschaften
+EIGENSCHAFTEN:
+  jahr: 1995
+  ort: Kirchzarten
+  superlativ: Bislang einzige Mountainbike-WM auf deutschem Boden
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Black Forest Ultra Bike Marathon
+EIGENSCHAFTEN:
+  erste_austragung: 1997 (jährlich)
+  denkmal: Steinmonument errichtet 2007 zum zehnjährigen Jubiläum mit Namens der bisherigen Sieger
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Segelflugplatz
+EIGENSCHAFTEN:
+  lage_gemeinde: Süden der Gemeinde an der Grenze zu Oberried
+  betreiber: Breisgauverein für Segelflug e. V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Golfplatz
+EIGENSCHAFTEN:
+  lage_gemeinde: Westen der Gemeinde an der Stadtgrenze zu Freiburg
+  loecher: 18-Loch
+  betreiber: Freiburger Golfclub e. V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: brauch
+EIGENSCHAFTEN:
+  zeitraum: 19. Jahrhundert
+  beschreibung: An Hochzeitsfesten wurde den Ortsarmen ein notdürftiges Mittagessen bereitet
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1800
+GUELTIG_BIS: 1900
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Scheunenbrand
+EIGENSCHAFTEN:
+  datum: 22. Februar 1835
+  grund: Rache einer fremden Bettlerin, die sich unartig benommen und zur Ordnung gewiesen wurde
+  folge: Zwei Scheunen brannten ab
+  taeter_folge: Täter wurde ins Zuchthaus geliefert
+GUELTIG_AB: 1835
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Kuno von Falkenstein
+EIGENSCHAFTEN:
+  tod: 1343-05-12
+  grabmal: Pfarrkirche Kirchzarten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Johann Conrad Winterhalder
+EIGENSCHAFTEN:
+  geburt: 1640
+  tod: 1676
+  profession: Bildhauer
+  ort: Kirchzarten
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1640
+GUELTIG_BIS: 1676
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Philipp Winterhalder
+EIGENSCHAFTEN:
+  geburt: 1667
+  tod: 1727
+  geburtsort: Kirchzarten
+  profession: Bildhauer
+  taetigkeitsort: Elsass
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1667
+GUELTIG_BIS: 1727
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Clemens Winterhalder
+EIGENSCHAFTEN:
+  geburt: 1668
+  tod: 1696
+  geburtsort: Kirchzarten
+  profession: Bildhauer
+  taetigkeitsort: Elsass
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1668
+GUELTIG_BIS: 1696
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bildhauersippe
+BEZEICHNUNG: Hauser
+EIGENSCHAFTEN:
+  zeitraum: 17. bis 19. Jahrhundert
+  herkunft: Kirchzarten
+  taetigkeitsort: Kirchzarten
+  werk: Skulpturen für die Pfarrkirche
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1600
+GUELTIG_BIS: 1900
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Adolf Wehrle
+EIGENSCHAFTEN:
+  geburt: 1846
+  tod: 1915
+  geburtsort: Dietenbach
+  professionen: Römisch-katholischer Pfarrer, Politiker, Publizist
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1846
+GUELTIG_BIS: 1915
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Fritz Reiss
+EIGENSCHAFTEN:
+  geburt: 1857
+  tod: 1915
+  profession: Lithograf, Illustrator, Grafiker, Maler
+  lage_kirchzarten: 1908–1915
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1857
+GUELTIG_BIS: 1915
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Josef Saier
+EIGENSCHAFTEN:
+  geburt: 1874
+  tod: 1955
+  geburtsort: Kirchzarten
+  grund: Begründer der Volksschauspiele Ötigheim
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1874
+GUELTIG_BIS: 1955
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Johannes Thiel
+EIGENSCHAFTEN:
+  geburt: 1889
+  tod: 1962
+  profession: Grafiker, Maler
+  lage_kirchzarten: Mehrere Jahre
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1889
+GUELTIG_BIS: 1962
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hans Rosenberg
+EIGENSCHAFTEN:
+  geburt: 1904
+  tod: 1988
+  profession: Historiker
+  lage_kirchzarten: Letzte Lebensjahre
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1904
+GUELTIG_BIS: 1988
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Remigius Bäumer
+EIGENSCHAFTEN:
+  geburt: 1918
+  tod: 1998
+  profession: Katholischer Theologe
+  lage_kirchzarten: Gelebt und gestorben
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1918
+GUELTIG_BIS: 1998
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Fritz Kläger
+EIGENSCHAFTEN:
+  geburt: 1914
+  tod: 2007
+  geburtsort: Nicht genannt
+  profession: Deutscher Motorradrennfahrer und -konstrukteur
+  sterbeort: Kirchzarten
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1914
+GUELTIG_BIS: 2007
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Franz Kern
+EIGENSCHAFTEN:
+  geburt: 1925
+  tod: 2012
+  profession: Katholischer Priester, Heimatschriftsteller
+  funktion: 1983–2000 Pfarrer von St. Gallus
+  taetigkeitsort: Kirchzarten
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1925
+GUELTIG_BIS: 2012
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Dietrich von Bausznern
+EIGENSCHAFTEN:
+  geburt: 1928
+  tod: 1980
+  profession: Komponist, Dirigent, Organist
+  funktion: Leiter der Kirchzartener Konzerte
+  lage_kirchzarten: 1952–1980
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1928
+GUELTIG_BIS: 1980
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Karl-Heinz Knauber
+EIGENSCHAFTEN:
+  geburt: 1934
+  profession: Richter
+  lage_kirchzarten: Wohnhaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Jürgen Meyer
+EIGENSCHAFTEN:
+  geburt: 1936
+  profession: Rechtsanwalt, Hochschullehrer, Politiker
+  partei: SPD
+  funktion: Mitglied des Deutschen Bundestages
+  lage_kirchzarten: Wohnhaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hortense von Gelmini
+EIGENSCHAFTEN:
+  geburt: 1947
+  profession: Orchesterdirigentin, Malerin, Schriftstellerin
+  lage_kirchzarten: 1951–2005
+  kunstwerk: Altarretabel im Friedhof
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1951
+GUELTIG_BIS: 2005
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Wilderich von Droste zu Hülshoff
+EIGENSCHAFTEN:
+  geburt: 1948
+  profession: Jurist, Autor, Stiftungsvorstand
+  lage_kirchzarten: 1974–2005
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1974
+GUELTIG_BIS: 2005
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ralph Fleck
+EIGENSCHAFTEN:
+  geburt: 1951
+  tod: 2026
+  profession: Maler, Kunstprofessor
+  taetigkeitsort: Kirchzarten
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1951
+GUELTIG_BIS: 2026
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Georg Zipfel
+EIGENSCHAFTEN:
+  geburt: 1953
+  profession: Ehemaliger Skilangläufer
+  funktion: Olympiateilnehmer, Ex-Bundestrainer
+  verein: SV Kirchzarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Irene Fischer
+EIGENSCHAFTEN:
+  geburt: 1959
+  profession: Schauspielerin, Drehbuchautorin
+  rolle: Anna Ziegler in der Lindenstraße
+  drehbuch_seit: 1995
+  lage_kirchzarten: Seit 1980er Jahren wohnhaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Benjamin Stauder
+EIGENSCHAFTEN:
+  geburt: 1987
+  profession: Radrennfahrer
+  geburtsort: Kirchzarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Steffen Kühn
+EIGENSCHAFTEN:
+  herkunft: Kirchzarten
+  profession: Trompeter
+  wohnort: USA nahe San Francisco
+  grund: Pacific Mambo Orchestra
+  preis: Grammy 2014 in der Kategorie Bestes Tropical Latin Album
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Johannes Edler von Gelmini zu Kreutzhof
+EIGENSCHAFTEN:
+  geburt: 1909
+  tod: 1980
+  profession: Wein- und Getränkegroßhändler
+  grund_migration: Auswanderung in deutsche Heimat seiner Frau
+  besitz: Hofgut Brandenburg
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1909
+GUELTIG_BIS: 1980
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Tour de France 1971
+EIGENSCHAFTEN:
+  datum: 1971-06-27
+  etappe: Basel–Freiburg
+  strecke_durch_kirchzarten: Ja
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9

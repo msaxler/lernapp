@@ -1,0 +1,1068 @@
+ENTITÄT: ort
+BEZEICHNUNG: Rheinau
+EIGENSCHAFTEN:
+  bundesland: Baden-Württemberg
+  lage: Ortenaukreis
+  superlativ: nördlichste Stadt des Ortenaukreises
+  geografische_region: Oberrheinische Tiefebene
+  flussbezug: am Rhein gelegen
+  grenze: deutsch-französische Grenze verläuft in Flussmitte
+  hauptort: Freistett
+  zugehoerigkeit: Eurodistrikt Strasbourg-Ortenau
+  ortschaften_anzahl: 9 (Freistett, Diersheim, Hausgereut, Helmlingen, Holzhausen, Honau, Linx, Memprechtshofen, Rheinbischofsheim)
+  gruendung_als_stadt: 1. Januar 1975 durch Vereinigung Freistett und Rheinbischofsheim
+  namensgebung: nach Bürgerabstimmung am 1. Januar 1975
+  entfernung_ortsteile_zu_kehl_km: ca. 9 km (Honau/Linx)
+  entfernung_zu_strassburg_km: ca. 11 km (Honau/Linx)
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: archaeologische_staette
+BEZEICHNUNG: Brandgräberfeld der Oberrheinsueben
+ORTSTEIL_BEZUG: Diersheim
+EIGENSCHAFTEN:
+  kultur: Oberrheinsueben
+  kulturgruppe_abgrenzung: elbgermanisch
+  urnen_gesichert: 48
+  brandgrubengraeaeber: 5
+  belegungsstart_jahr: ca. 50 n. Chr.
+  belegungsphase1_ende_jahr: 70 n. Chr.
+  belegungsphase1_charakteristika: reiche Grabbeigaben elbgermanischer Herkunft
+  beigaben_herkunft: Gürtelschnallen, Schildrandbeschläge, Tongefäße aus Böhmen, Sachsen und Thüringen
+  belegungsphase2_start_jahr: 70 n. Chr.
+  belegungsphase2_ende_jahr: 140 n. Chr.
+  belegungsphase2_charakteristika: ärmlich und provinzial-römisch geprägt
+  superlativ: südlichstes bislang bekanntes Gräberfeld der Oberrheinsueben
+GUELTIG_AB: 50
+GUELTIG_BIS: 140
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Helmlingen
+EIGENSCHAFTEN:
+  geschichtliche_period: Römische Zeit
+  roemische_infrastruktur_grund: Straße verbindet Argentorae (Straßburg) mit Aquaeum (Baden-Baden)
+  roemische_infrastruktur_verlauf_wie: B36
+  roemische_siedlung: landwirtschaftlicher Betrieb gegründet
+  entwicklung_zu: Siedlung
+  zerstoerung_grund: wahrscheinlich durch Germanen abgebrannt
+  beleg_aenderung_nach_100_ad: suebische Belegung riss ab
+  belegung_wieder_start: 140 n. Chr.
+  belegung_wieder_kultur: Elbgermanen aus altmärkisch-osthannoverscher Schalenurnengruppe
+  belegung_ende_grund: Fall des Limes
+  belegung_ende_jahr: 260 n. Chr.
+GUELTIG_AB: 140
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rheinbischofsheim
+EIGENSCHAFTEN:
+  erste_erwaehnung_jahr: 1274
+  erste_erwaehnung_name: Bischofsheim
+  erste_erwaehnung_dokumenttyp: Urkunde
+  namenserweiterung_jahr: 1574
+  namenserweiterung_grund: Ergänzung zum hohen Steg
+  status_1803_bis_1815: Amt in der Landvogtei Yberg des Großherzogtums Baden
+  statusverlust_jahr: 1815
+  statusverlust_grund: Status an Kehl verloren
+  vorherige_zugehoerigkeit: Landkreis Kehl (vor 1973)
+GUELTIG_AB: 1274
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: schule
+BEZEICHNUNG: Lateinschule Rheinbischofsheim
+ORTSTEIL_BEZUG: Rheinbischofsheim
+EIGENSCHAFTEN:
+  gruendung_jahr: 1809
+  vorgaenger_fuer: heutiges Gymnasium
+GUELTIG_AB: 1809
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verwaltungsereignis
+BEZEICHNUNG: Gemeindefusion Freistett-Memprechtshofen
+EIGENSCHAFTEN:
+  datum: 1. Juli 1971
+  aktion: Eingemeindetung Memprechtshofen in Gemeinde Freistett
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: verwaltungsereignis
+BEZEICHNUNG: Gemeindefusion Freistett-Helmlingen
+EIGENSCHAFTEN:
+  datum: 1. Oktober 1974
+  aktion: Eingemeindetung Helmlingen in Gemeinde Freistett
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: verwaltungsereignis
+BEZEICHNUNG: Gemeindefusion Rheinbischofsheim-Hausgereut
+EIGENSCHAFTEN:
+  datum: 1. Januar 1973
+  aktion: Eingemeindetung Hausgereut in Gemeinde Rheinbischofsheim
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: verwaltungsereignis
+BEZEICHNUNG: Gemeindefusion Rheinbischofsheim-Diersheim
+EIGENSCHAFTEN:
+  datum: 1. Januar 1974
+  aktion: Eingemeindetung Diersheim in Gemeinde Rheinbischofsheim
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: verwaltungsereignis
+BEZEICHNUNG: Gemeindefusion Rheinbischofsheim-Holzhausen-Linx
+EIGENSCHAFTEN:
+  datum: 1. April 1974
+  aktion: Eingemeindetung Holzhausen und Linx in Gemeinde Rheinbischofsheim
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: verwaltungsereignis
+BEZEICHNUNG: Stadtbildung Freistett-Rheinbischofsheim
+EIGENSCHAFTEN:
+  datum: 1. Januar 1975
+  aktion: Vereinigung Gemeinden Freistett und Rheinbischofsheim zur Stadt Freistett-Rheinbischofsheim
+  zuzug: Honau kommt hinzu
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: verwaltungsereignis
+BEZEICHNUNG: Namensgebung Rheinau
+EIGENSCHAFTEN:
+  datum: 1. Januar 1975
+  grund: Bürgerabstimmung unter vormaliger Bezeichnung Freistett-Rheinbischofsheim
+  neuer_name: Rheinau
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Stephan
+EIGENSCHAFTEN:
+  titel: Bürgermeister
+  amtszeit: 1975–1983
+  geburtstag: 1915
+  sterbetag: 1997
+  beruf: Politiker
+  partei: SPD
+  geburtsort: Freistett
+GUELTIG_AB: 1975
+GUELTIG_BIS: 1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Meinhard Oberle
+EIGENSCHAFTEN:
+  titel: Bürgermeister
+  amtszeit: 1983–2007
+  partei: SPD
+GUELTIG_AB: 1983
+GUELTIG_BIS: 2007
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Michael Welsche
+EIGENSCHAFTEN:
+  titel: Bürgermeister
+  amtszeit: 2007–2023
+GUELTIG_AB: 2007
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Oliver Rastetter
+EIGENSCHAFTEN:
+  titel: Bürgermeister
+  amtszeit: 2023–2026
+  partei: CDU
+GUELTIG_AB: 2023
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Christian Francken
+EIGENSCHAFTEN:
+  titel: Bürgermeister
+  amtszeit: ab 2026
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: symbol
+BEZEICHNUNG: Wappen Rheinau
+EIGENSCHAFTEN:
+  blasonierung: In Gold mit rotem Schildbord ein schwarzer Löwe
+  farben: Gold, Rot, Schwarz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: gemeindepartnerschaft
+BEZEICHNUNG: Partnergemeinde Gambsheim
+EIGENSCHAFTEN:
+  gemeinde: Gambsheim
+  land: Frankreich
+  region: Elsass
+  datum_unterzeichnung: 22. Juni 2019
+  grund: Gemeinderatsbeschlüsse
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2019
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Rheinbischofsheim
+ORTSTEIL_BEZUG: Rheinbischofsheim
+EIGENSCHAFTEN:
+  hoehe_m: 56
+  superlativ: größte Kirche im Hanauerland
+  baujahr: 1876
+  sanierung_innensanierung_jahr: 1998
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1876
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapelle St. Nikolaus
+ORTSTEIL_BEZUG: Freistett
+EIGENSCHAFTEN:
+  alternativname: Heidenkirchl
+  superlativ: ältestes Gotteshaus im Hanauerland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Nikolauskirche
+ORTSTEIL_BEZUG: Hausgereut
+EIGENSCHAFTEN:
+  anmerkung: häufig falsch als Kapelle bezeichnet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Diersheimer Rathaus
+ORTSTEIL_BEZUG: Diersheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Fischtreppe
+EIGENSCHAFTEN:
+  lage: am Rheinübergang
+  superlativ: eine der größten Fischtreppen Europas
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Meteorologischer Messmast
+ORTSTEIL_BEZUG: Freistett
+EIGENSCHAFTEN:
+  hoehe_m: 160
+  grund_errichtung: Planung eines Kernkraftwerks in Freistett
+  existenz_status: nicht mehr vorhanden
+  anmerkung: existierte bis vor einigen Jahren
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum Rheinau e. V.
+ORTSTEIL_BEZUG: Freistett
+IST_VERMUTISCH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Gedenkstätte Panzergraben
+ORTSTEIL_BEZUG: Freistett
+EIGENSCHAFTEN:
+  typ: Friedhof und Gedenkstätte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: friedhof
+BEZEICHNUNG: Jüdischer Friedhof
+ORTSTEIL_BEZUG: Freistett
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: denkmal
+BEZEICHNUNG: Judenstein
+ORTSTEIL_BEZUG: Rheinbischofsheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: friedwald
+BEZEICHNUNG: Friedwald
+ORTSTEIL_BEZUG: Memprechtshofen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Historische Kegelbahn
+ORTSTEIL_BEZUG: Holzhausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Nachbau einer Entenfanganlage
+ORTSTEIL_BEZUG: Memprechtshofen
+EIGENSCHAFTEN:
+  massstab: 1:10
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: schule
+BEZEICHNUNG: Anne-Frank-Gymnasium
+ORTSTEIL_BEZUG: Rheinbischofsheim
+EIGENSCHAFTEN:
+  schulform: Gymnasium mit Ganztagsschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: schule
+BEZEICHNUNG: Realschule Rheinau
+ORTSTEIL_BEZUG: Freistett
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: schule
+BEZEICHNUNG: Grund- und Werkrealschule Rheinau
+EIGENSCHAFTEN:
+  standorte: Freistett und Rheinbischofsheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Rheinbischofsheim
+ORTSTEIL_BEZUG: Rheinbischofsheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Diersheim
+ORTSTEIL_BEZUG: Diersheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Helmlingen
+ORTSTEIL_BEZUG: Helmlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Brunner GmbH
+EIGENSCHAFTEN:
+  typ: Arbeitgeber
+  status: bedeutender Arbeitgeber
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Kieswerk HPF Hermann Peter KG Freistett
+ORTSTEIL_BEZUG: Freistett
+EIGENSCHAFTEN:
+  typ: Kieswerk und Arbeitgeber
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Klotter Elektrotechnik GmbH
+EIGENSCHAFTEN:
+  typ: Arbeitgeber
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: RMA Pipeline Equipment
+EIGENSCHAFTEN:
+  typ: Arbeitgeber
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Stage Concept GmbH
+EIGENSCHAFTEN:
+  typ: Arbeitgeber
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Weber Fertighaus
+ORTSTEIL_BEZUG: Linx
+EIGENSCHAFTEN:
+  typ: Fertigbauunternehmen und Arbeitgeber
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Zimmer Fruchtsäfte
+ORTSTEIL_BEZUG: Freistett
+EIGENSCHAFTEN:
+  typ: Getränkehersteller und Arbeitgeber
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Zimmer Group
+ORTSTEIL_BEZUG: Freistett
+EIGENSCHAFTEN:
+  typ: Unternehmensgruppe und Arbeitgeber
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Centrale Electrique Rhénane de Gambsheim (CERGA)
+EIGENSCHAFTEN:
+  betreiber_von: Staustufe Rheinau-Gambsheim
+  eigentumsstruktur_eigentuemer1: Électricité de France (EDF)
+  eigentumsstruktur_eigentuemer2: Energie Baden-Württemberg AG (EnBW)
+  eigentumsstruktur_typ: gemeinsame Tochter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Karl Ludwig Schulmeister
+EIGENSCHAFTEN:
+  geburtstag: 1770
+  sterbetag: 1853
+  geburtsort: Freistett
+  beruf: Spion
+  arbeitsherr: Napoleon Bonaparte
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1770
+GUELTIG_BIS: 1853
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Ludwig Ulrich
+EIGENSCHAFTEN:
+  geburtstag: 1896
+  sterbetag: 1980
+  geburtsort: Freistett
+  berufe: Landwirt, Politiker
+  partei: BCSV/CDU
+  politisches_amt: Landtagsabgeordneter
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1896
+GUELTIG_BIS: 1980
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Georg König
+EIGENSCHAFTEN:
+  geburtstag: 1897
+  sterbetag: 1976
+  geburtsort: Diersheim
+  berufe: Landwirt, Politiker
+  partei: FDP/DVP
+  politisches_amt: Landtagsabgeordneter
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1897
+GUELTIG_BIS: 1976
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Christian Dusch
+EIGENSCHAFTEN:
+  geburtsjahr: 1978
+  beruf: Verwaltungsjurist
+  beruf2: Politiker
+  partei: CDU
+  politisches_amt_gemeinderatsmitglied: 2004-2018
+  politisches_amt_landrat: seit 2021
+  landrat_fuer: Landkreis Rastatt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Gottlob Schlörer
+EIGENSCHAFTEN:
+  geburtstag: 1891
+  sterbetag: 1976
+  berufe: Heimatforscher, Naturwissenschaftler
+  wohnort: Diersheim
+  wohnort_bemerkung: zeitweise
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1891
+GUELTIG_BIS: 1976
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Fred K. Prieberg
+EIGENSCHAFTEN:
+  geburtstag: 3. Juni 1928
+  geburtsstag_ort: Berlin
+  sterbetag: 28. März 2010
+  sterbetag_ort: Neuried-Ichenheim
+  beruf: Musikwissenschaftler
+  wohnort: Diersheim
+  wohnort_bemerkung: jahrelang Wohnsitz
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1928
+GUELTIG_BIS: 2010
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Hans Weber
+EIGENSCHAFTEN:
+  geburtsjahr: 1936
+  beruf: Industrieller
+  besonderheit: Pionier der Fertigbauweise im Hausbau
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1936
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: person
+BEZEICHNUNG: Gerhard Ruddies
+EIGENSCHAFTEN:
+  geburtsjahr: 1947
+  berufe: Autor, Moderator, Produzent, Regisseur
+  moderationen: Halbneun, Nimms Dritte, Ganz schoen schräg für SWF
+  produktion: Sitcom Fascht e Familie für SF DRS
+  regie: Vis-à-Vis, Report, Wortwechsel für SWR
+  wohnort: Diersheim
+  wohnort_jahre: 1979-1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Gerd Birsner
+EIGENSCHAFTEN:
+  geburtsjahr: 1953
+  berufe: Liedermacher, Journalist, Radiomoderator
+  sendung: SWR 4
+  charakterrolle: Ortsrumsteher
+  charakterrolle_charakteristika: überzeichnete das dörfliche Leben in Diersheim
+  wohnort_bezug: Diersheim
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1953
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Matto Barfuss
+EIGENSCHAFTEN:
+  geburtsjahr: 1970
+  berufe: Gepardenmann, Künstler
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1970
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Roland Wagner
+EIGENSCHAFTEN:
+  geburtsjahr: 1955
+  nationalitaet: französisch
+  beruf: Fußballspieler
+  club: SV Linx
+  spieljahre: 1990-1993
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1955
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: raeumlich_geografischer_bezug
+BEZEICHNUNG: Dialekt und Trachten Rheinau
+EIGENSCHAFTEN:
+  grund: historische Zugehörigkeit zur Herrschaft Lichtenberg im Elsass
+  charakteristika: stark elsässisch geprägt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: infrastruktur_strasse
+BEZEICHNUNG: Roemische Straße Argentorae-Aquaeum
+EIGENSCHAFTEN:
+  verlauf_modern: B36
+  zweck: verbindet Argentorae (Straßburg) mit Aquaeum (Baden-Baden)
+  historische_wirkung: Grund fuer Siedlung in Helmlingen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gewaesser
+BEZEICHNUNG: Altrheinarm Steinwert-Hot 2
+EIGENSCHAFTEN:
+  lage_neben: Honau
+  lage_westnordwestlich_von: Diersheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: infrastruktur_strasse
+BEZEICHNUNG: Narzissenstraße
+EIGENSCHAFTEN:
+  offiziell: Kreisstraße 5373
+  strecke: von Diersheim nach Auenheim
+  besonderheit: jedes Frühjahr zur Narzissenstraße
+  bluemenwachstum: hunderte Osterglocken, insbesondere Tête-à-Tête-Narzissen
+  herkunft_bluemen: von Privatpersonen gesetzt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur_radweg
+BEZEICHNUNG: Rheinradweg
+EIGENSCHAFTEN:
+  quelle: Oberalppass im Schweizer Kanton Graubünden
+  muendung: Rotterdam
+  rheinau_variant: rechtsrheinische Variante Teil des Rheinradwegs
+  verlauf_bei_rheinau: von Quelle bis Mündung des Rheins
+  verlauf_detail_kehl_freistett: meist dicht am Rhein entlang
+  verlauf_detail_freistett: durch Gewerbegebiet
+  querlage_rench: vor Stadtteil Helmlingen
+  verlauf_helmlingen_iffezheim: wieder am Rhein entlang zur Brücke bei Iffezheim
+  eurovelo_route: Eurovelo-Route 15 (Rheinradweg)
+  d_route: D-Route 8 (Rhein-Route)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: infrastruktur_hafen_schifffahrt
+BEZEICHNUNG: Schiffswerft Karcher
+EIGENSCHAFTEN:
+  lage: nahe der Staustufe in Freistett
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: infrastruktur_hafen_schifffahrt
+BEZEICHNUNG: Yachthafen
+EIGENSCHAFTEN:
+  lage: nahe der Staustufe in Freistett
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: infrastruktur_hafen_schifffahrt
+BEZEICHNUNG: Schiffsanlegestellen bei Kieswerken
+EIGENSCHAFTEN:
+  standorte: Helmlingen, Honau, Diersheim, Freistett
+  zweck: Umschlag abgebauter Baustoffe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: infrastruktur_flughafen
+BEZEICHNUNG: Baden-Airpark (Flughafen Karlsruhe/Baden-Baden/FKB)
+EIGENSCHAFTEN:
+  lage: nördlich von Rheinau, nahe französischer Grenze
+  lage_neben_gemeinde: Rheinmünster-Söllingen
+  alternativname: Baden-Airport
+  ziele: Berlin, Hamburg, Hurghada, London, Rom, Barcelona, Dublin, Marseille, Moskau, Pisa
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur_verkehr_bus
+BEZEICHNUNG: Busverkehr Rheinau
+EIGENSCHAFTEN:
+  verbindungen: Achern, Lichtenau (Baden), Bühl, Kehl
+  tarifverbund: Tarifverbund Ortenau
+  zusatzanbindung: räumliche Nähe zu Landkreis Rastatt
+  zusatzanbindung2: Nähe zur Agglomeration Straßburg
+  status_als: Übergangsbereich
+  profitiert_von: Sondertarifen bei Busfahrten ins Unterelsass
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur_strasse_landstrasse
+BEZEICHNUNG: Landstraße 75
+EIGENSCHAFTEN:
+  verlauf: durch Stadtgebiet Rheinau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur_autobahn_anschlussstelle
+BEZEICHNUNG: Autobahnanschluss Achern
+EIGENSCHAFTEN:
+  autobahn: Bundesautobahn 5
+  entfernung_von_freistett_km: 9
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur_autobahn_anschlussstelle
+BEZEICHNUNG: Autobahnanschluss Offendorf
+EIGENSCHAFTEN:
+  autobahn: A35 (Elsassautobahn)
+  entfernung_von_freistett_km: 7
+  verbindung: führt über Staustufe nach Frankreich zu Gambsheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur_staustufe
+BEZEICHNUNG: Rheinstaustufe Rheinau-Gambsheim
+EIGENSCHAFTEN:
+  betreiber: CERGA
+  lage: nordwestlich von Freistett
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur_gewerbegebiet
+BEZEICHNUNG: Gewerbegebiet Glockenloch
+EIGENSCHAFTEN:
+  lage: zwischen Freistett und Rheinstaustufe Rheinau-Gambsheim
+  entlang_von: Landesstraße 87
+  landesstrasse_verbindung: geht in französische D2 über
+  weitere_firmen_ansaessig: mehrere (Rheinradweg führt hier durch)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verein_sport
+BEZEICHNUNG: SV Diersheim 1921 e. V.
+ORTSTEIL_BEZUG: Diersheim
+EIGENSCHAFTEN:
+  gruendungsjahr: 1921
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1921
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_sport
+BEZEICHNUNG: SV Freistett 1921 e. V.
+ORTSTEIL_BEZUG: Freistett
+EIGENSCHAFTEN:
+  gruendungsjahr: 1921
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1921
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_sport
+BEZEICHNUNG: Turnerbund Freistett 1894
+ORTSTEIL_BEZUG: Freistett
+EIGENSCHAFTEN:
+  gruendungsjahr: 1894
+  mitglieder_ueber: 1000
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1894
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verein_sport
+BEZEICHNUNG: TuS Helmlingen 1920 e. V.
+ORTSTEIL_BEZUG: Helmlingen
+EIGENSCHAFTEN:
+  gruendungsjahr: 1920
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1920
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_sport
+BEZEICHNUNG: SV Honau 1948 e. V.
+ORTSTEIL_BEZUG: Honau
+EIGENSCHAFTEN:
+  gruendungsjahr: 1948
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1948
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_kampfsport
+BEZEICHNUNG: Karate-Dojo Rheinau e. V.
+ORTSTEIL_BEZUG: Honau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_sport
+BEZEICHNUNG: SV Linx 1949
+ORTSTEIL_BEZUG: Linx
+EIGENSCHAFTEN:
+  gruendungsjahr: 1949
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1949
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_kultur
+BEZEICHNUNG: Flotte Truppe Linx
+ORTSTEIL_BEZUG: Linx
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: verein_sport
+BEZEICHNUNG: TuS Memprechtshofen 1921 e. V.
+ORTSTEIL_BEZUG: Memprechtshofen
+EIGENSCHAFTEN:
+  gruendungsjahr: 1921
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1921
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_sport
+BEZEICHNUNG: VfR Rheinbischofsheim
+ORTSTEIL_BEZUG: Rheinbischofsheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_sport
+BEZEICHNUNG: TV Rheinbischofsheim 1896 e. V.
+ORTSTEIL_BEZUG: Rheinbischofsheim
+EIGENSCHAFTEN:
+  gruendungsjahr: 1896
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1896
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_musik
+BEZEICHNUNG: Musikverein Diersheim e. V.
+ORTSTEIL_BEZUG: Diersheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_musik
+BEZEICHNUNG: Bläserjugend des Musikvereins Diersheim e. V.
+ORTSTEIL_BEZUG: Diersheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_musik
+BEZEICHNUNG: Parforcehorngruppe Hanauerland – Abteilung Diersheim
+ORTSTEIL_BEZUG: Diersheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: verein_chor
+BEZEICHNUNG: Gemischter Chor Diersheim
+ORTSTEIL_BEZUG: Diersheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_chor
+BEZEICHNUNG: Männergesangsverein Sängerbund Diersheim 1863 e. V.
+ORTSTEIL_BEZUG: Diersheim
+EIGENSCHAFTEN:
+  gruendungsjahr: 1863
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1863
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_chor
+BEZEICHNUNG: Evangelischer Frauenchor Diersheim
+ORTSTEIL_BEZUG: Diersheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_tanz
+BEZEICHNUNG: Tanzgruppe Ma Navu Diersheim
+ORTSTEIL_BEZUG: Diersheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: verein_fasching
+BEZEICHNUNG: Die Prinzengarden Diersheim
+ORTSTEIL_BEZUG: Diersheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: verein_musik
+BEZEICHNUNG: Musikverein Stadtkapelle Freistett e. V.
+ORTSTEIL_BEZUG: Freistett
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_musik
+BEZEICHNUNG: Bläserjugend Musikverein Stadtkapelle Freistett e. V.
+ORTSTEIL_BEZUG: Freistett
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_musik
+BEZEICHNUNG: Fanfarenzug der Freiwilligen Feuerwehr Rheinau-Abteilung Freistett
+ORTSTEIL_BEZUG: Freistett
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_chor
+BEZEICHNUNG: Arbeitergesangverein Frohsinn Freistett e. V.
+ORTSTEIL_BEZUG: Freistett
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_chor
+BEZEICHNUNG: Gemischter Chor 1899 Freistett e. V.
+ORTSTEIL_BEZUG: Freistett
+EIGENSCHAFTEN:
+  gruendungsjahr: 1899
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1899
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_chor
+BEZEICHNUNG: DO-RE-MI Kinder- und Jugend-Chor
+ORTSTEIL_BEZUG: Freistett
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_tanz
+BEZEICHNUNG: Tanzgruppe Hanauerland e. V.
+ORTSTEIL_BEZUG: Freistett
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: verein_chor
+BEZEICHNUNG: Sängerbund Helmlingen e. V.
+ORTSTEIL_BEZUG: Helmlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_chor
+BEZEICHNUNG: Männergesangverein Frohsinn Honau e. V.
+ORTSTEIL_BEZUG: Honau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_musik
+BEZEICHNUNG: Musikverein Harmonie Linx e. V.
+ORTSTEIL_BEZUG: Linx
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_chor
+BEZEICHNUNG: Gemischter Chor Concordia Linx e. V.
+ORTSTEIL_BEZUG: Linx
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_chor
+BEZEICHNUNG: Gemischter Chor Liederkranz Holzhausen e. V.
+ORTSTEIL_BEZUG: Linx
+EIGENSCHAFTEN:
+  anmerkung: In der Liste unter Linx mit Hobühn aufgeführt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: verein_musik
+BEZEICHNUNG: Posaunenchor Memprechtshofen
+ORTSTEIL_BEZUG: Memprechtshofen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_chor
+BEZEICHNUNG: Sängerbund Memprechtshofen 1887 e. V.
+ORTSTEIL_BEZUG: Memprechtshofen
+EIGENSCHAFTEN:
+  gruendungsjahr: 1887
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1887
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_tanz
+BEZEICHNUNG: Tanzsportclub Memprechtshofen e. V.
+ORTSTEIL_BEZUG: Memprechtshofen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: verein_blasmusik
+BEZEICHNUNG: Rotkäppchen-Blech-Bänd e. V.
+ORTSTEIL_BEZUG: Rheinbischofsheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: verein_musik
+BEZEICHNUNG: Fanfarenzug Rheinbischofsheim
+ORTSTEIL_BEZUG: Rheinbischofsheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_musik
+BEZEICHNUNG: Musikverein Frohsinn Rheinbischofsheim e. V.
+ORTSTEIL_BEZUG: Rheinbischofsheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_musik
+BEZEICHNUNG: Bläserjugend Musikverein Frohsinn Rheinbischofsheim e. V.
+ORTSTEIL_BEZUG: Rheinbischofsheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_chor
+BEZEICHNUNG: Männergesangverein Liederkranz Rheinbischofsheim e. V.
+ORTSTEIL_BEZUG: Rheinbischofsheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_chor
+BEZEICHNUNG: Evangelischer Kirchenchor Rheinbischofsheim e. V.
+ORTSTEIL_BEZUG: Rheinbischofsheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_fasching
+BEZEICHNUNG: Freistetter Hexen 2026 e. V.
+ORTSTEIL_BEZUG: Freistett
+EIGENSCHAFTEN:
+  gruendungsjahr: 2026
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2026
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_sonstiges
+BEZEICHNUNG: Nachbarschaftshilfe Tandem Rheinau e. V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: verein_sonstiges
+BEZEICHNUNG: Schlauchclub Diersheim e. V.
+ORTSTEIL_BEZUG: Diersheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: kulturveranstaltung
+BEZEICHNUNG: Stadtkultur Rheinau
+EIGENSCHAFTEN:
+  ort: Stadthalle
+  genre: Kabarett und Ähnliches
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: kulturveranstaltung
+BEZEICHNUNG: Wochenmarkt Freistett
+EIGENSCHAFTEN:
+  tag: jeden Freitagvormittag
+  ort: Marktplatz Freistett
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kulturveranstaltung
+BEZEICHNUNG: Mundart, Kultur und Literatur
+EIGENSCHAFTEN:
+  orte: Kulturcafé und Nachtcafé
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: kulturveranstaltung
+BEZEICHNUNG: Diersheimer Winter
+EIGENSCHAFTEN:
+  charakteristika: Veranstaltungen von Künstlern und Vortragenden aus der Region
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: kulturveranstaltung
+BEZEICHNUNG: Kultur im Stall
+ORTSTEIL_BEZUG: Freistett
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: kulturveranstaltung
+BEZEICHNUNG: Fastnacht Rheinau
+EIGENSCHAFTEN:
+  zeitraum: täglich zwischen Schmutzigen Donnerstag und Aschermittwoch
+  hochburgen: Rheinbischofsheim und Diersheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kindergarten
+BEZEICHNUNG: Evangelische Kindergärten Rheinau
+EIGENSCHAFTEN:
+  anzahl: 2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kommunale Kindergärten Rheinau
+EIGENSCHAFTEN:
+  anzahl: 7
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

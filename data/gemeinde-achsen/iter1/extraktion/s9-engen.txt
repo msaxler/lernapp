@@ -1,0 +1,1122 @@
+ENTITÄT: ort
+BEZEICHNUNG: Engen
+EIGENSCHAFTEN:
+  ist_stadt: true
+  liegt_im_landkreis: Konstanz
+  liegt_in_bundesland: Baden-Württemberg
+  liegt_im_hegau: true
+  zahl_stadtteile: 9
+  stadtteil_namen: Engen, Anselfingen, Zimmerholz, Bargen, Welschingen, Biesendorf, Stetten, Bittelbrunn, Neuhausen
+  urkundliche_ersterwähnung_jahr: 1086
+  urkundliche_ersterwähnung_eigentümer: Freiherren von Höwen
+  gehörte_zu_1398_1404: Leopold von Habsburg, dann Grafen Hans von Lupfen
+  gehörte_zu_1414: Reichslehen der Grafen Hans von Lupfen unter König Sigismund
+  gehörte_zu_1472: Grafen von Lupfen nach Eheschließung Peter von Hewen mit Agnes von Lupfen
+  gehörte_zu_ab_1639: Grafen von Fürstenberg, Fürstentum Fürstenberg
+  gehörte_zu_1806: Großherzogtum Baden
+  gehörte_zu_1807_1849: Sitz eines standesherrlichen Amtes
+  gehörte_zu_1849_1936: Bezirksamt Engen
+  gehörte_zu_ab_1936: Landkreis Konstanz
+  ist_sitz_dekanat: true
+  dekanat_name: Hegau
+  dekanat_erzbistum: Freiburg
+  einwohner_1858: 1614
+  schuldenfrei_stand: 31.12.2024
+  verheert_jahr: 1640
+  verheert_durch: Schweden und Franzosen
+  goethe_besuch_datum: 17.09.1797
+  goethe_beschreibung: Von Morgen her gesehen giebt Engen ein artig topographisches Bild, wie es unter dem bedeutenden Berge auf einem Hügel sich ins Thal verliert.
+  heimattage_bw_jahr: 1988
+  notgeld_jahr: 1923
+GUELTIG_AB: 1086
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Frank Harsch
+EIGENSCHAFTEN:
+  partei: CDU
+  wahl_datum: 08.10.2023
+  wahl_stimmenanteil_prozent: 56,7
+  wahlamt_angetreten_datum: 01.12.2023
+  vorheriger_bürgermeister: Johannes Moser
+  vorherige_amtszeit: 1996-2023
+  vorherige_amtsniederlegung_monat: Oktober 2023
+  früherer_wohnort: Braunsbach
+  früherer_posten: Bürgermeister von Braunsbach
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ENTITÄT: gemeinderat
+BEZEICHNUNG: Stadtrat Engen
+EIGENSCHAFTEN:
+  wählverfahren: unechte Teilortswahl
+  anzahl_gemeinderäte: 19 ehrenamtliche
+  enthält_bürgermeister: true
+  bürgermeister_stimmrecht: true
+  letzte_wahl_datum: 09.06.2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Stadtkirche Mariä Himmelfahrt
+EIGENSCHAFTEN:
+  baustil_ursprünglich: spätromanisch
+  baustil_umbauten: gotisiert, barockisiert
+  entstehungszeit_century: 13. Jahrhundert
+  enthält: Grabdenkmäler der Grafen von Lupfen und Pappenheim
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster St. Wolfgang
+PROPERTIES:
+  ordensgemeinschaft: Dominikanerinnen
+  lage: Engen
+  bauliche_ausprägung_zeit: 18. Jahrhundert
+  aufgegeben_jahr: 1802
+  nutzung_nach_aufgabe: Städtisches Museum mit Galerie
+  sammlung_zeitraum: Alt- und Mittelsteinzeit
+  sammlung_herkunft: Brudertal
+  sammlung_besonderheit: Venus von Engen
+  kunstausstellungen: regelmäßig, überregionale Wirkung
+GUELTIG_AB: 1333
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: kloster
+BEZEICHNUNG: Kapuzinerkloster Engen
+EIGENSCHAFTEN:
+  ordensgemeinschaft: Kapuzinerorden
+  lage: südwestlich der Altstadt
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1820
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Wendelinkapelle
+EIGENSCHAFTEN:
+  baustil_ursprünglich: spätgotisch
+  entstehungszeit_century: 15. Jahrhundert
+  restaurierung_jahr: 1725
+  restaurierung_stil: Barock
+  altar_darstellung: Fatima-Madonna
+  ausstattung: Votivtafeln
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Autobahnkapelle im Hegau
+EIGENSCHAFTEN:
+  konfession: ökumenisch
+  lage: Raststätte Im Hegau West der Bundesautobahn 81
+  zweck: für Reisende auf der Autobahn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: berg
+BEZEICHNUNG: Hohenhewen (oder Hohenhöwen)
+EIGENSCHAFTEN:
+  höhe_meter: 846
+  topologische_form: Basaltkegel
+  lage: südwestlich am Rande des Jura
+  enthält: Ruine Hohenhewen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Neuhausen
+EIGENSCHAFTEN:
+  ursprüngliche_herkunft: mittelalterlich
+  lage_genau: unbekannt
+  gehörte_zu: Freiherren von Höwen
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: schloss
+BEZEICHNUNG: Krenkinger Schlössle
+EIGENSCHAFTEN:
+  baustil_ursprung: vermutlich stauferzeitlich, genauigkeit: vermutlich
+  errichtungszeit: um 1200
+  ereignis_brand: 1640
+  umbau_jahre: 1892-1893
+  umbau_zweck: zum badischen Bezirksamt
+  bauform: zweiflüglige Anlage mit rundem Treppenturm
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: Schloss an der Straße
+EIGENSCHAFTEN:
+  erbauer: Bischof Johann von Lupfen
+  erbauer_herkunft: Konstanz
+  errichtungszeit: 1533
+  funktion_ab: 1811 als Pfarrhaus
+  funktion_vor: Sitz des Stadtherren nach Brand des Schlosses
+GUELTIG_AB: 1533
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: Stadtapotheke
+EIGENSCHAFTEN:
+  lage: Engener Vorstadt
+  ursprüngliche_funktion: herrschaftliches Beamtenwohnhaus
+  stockwerke: 3
+  achsen: 4
+  apotheken_betrieb_ab: 1827
+  besonderheit: Gewölbekeller
+GUELTIG_AB: 1827
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus von Engen
+EIGENSCHAFTEN:
+  enthält_bürgersaal: true
+  bürgersaal_tagungsort_seit: Jahrhunderten
+  bürgersaal_holzdecke_jahr: 1500-1520
+  bürgersaal_ofen: graphitierter Ton und Gusseisenplatten von Lorenz Stapf aus Steckborn
+  bürgersaal_gemälde_künstler: Joseph Ignaz Wegschneider aus Riedlingen, Conrad Zoll aus Möhringen
+  trauzimmer_künstler: Hans Sauerbruch aus Konstanz
+  trauzimmer_motive: Szenen aus dem Engener Stadtleben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: museum
+BEZEICHNUNG: Städtisches Museum Engen + Galerie
+EIGENSCHAFTEN:
+  lage: ehemaliges Kloster St. Wolfgang
+  sammlungen: archäologische Sammlung, sakrale Kunst, moderne Kunst, kulturhistorische Ausstellungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: museum
+BEZEICHNUNG: Eiszeitpark Engen
+EIGENSCHAFTEN:
+  fertigstellung_jahreszeit_jahr: Frühjahr 2003
+  inhalt: Rekonstruktion eines Steinzeitlagers
+  lage_konkret: Petersfels im Brudertal
+  rundweg_dauer_stunden: 1,5
+  gelände_fläche_hektar: ca. 3, genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: museum
+BEZEICHNUNG: Oldtimer- und Fahrzeugmuseum Engen
+EIGENSCHAFTEN:
+  sammlung: alte Autos und Motorräder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: villa_romana
+BEZEICHNUNG: Villa Bargen
+ORTSTEIL_BEZUG: Bargen
+EIGENSCHAFTEN:
+  superlativ: zu den zehn besterhaltenen römischen Gutshöfen in Baden-Württemberg
+  zusammensetzung: Haupthaus, Wirtschaftsgebäude, Badehaus, Tempel
+  pflege: örtlicher Schwarzwaldverein
+  erste_grabung: vor über 80 Jahren
+  erste_grabung_archäolog: Paul Revellio
+  gründung_jahre: 75-80 n.Chr.
+  ausbau_jahr_periode: 2. nachchristliches Jahrhundert
+  ausbau_fläche_hektar: 2,5
+  bauweise_ausbau: Steingebäude
+GUELTIG_AB: 75
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Schlacht bei Engen
+EIGENSCHAFTEN:
+  datum: 03.05.1800
+  krieg: Zweiter Koalitionskrieg
+  kommando_österreich: Baron von Kray
+  kommando_frankreich: General Moreau
+  ausgang: Rückzug der Österreicher
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Bargen
+EIGENSCHAFTEN:
+  eingemeindungsdatum: 01.07.1971
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Biesendorf und Bittelbrunn
+EIGENSCHAFTEN:
+  eingemeindungsdatum: 01.12.1971
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Anselfingen, Neuhausen, Stetten, Welschingen, Zimmerholz
+EIGENSCHAFTEN:
+  eingemeindungsdatum: 01.01.1975
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: keltensiedlung
+BEZEICHNUNG: Keltensiedlung Guuhaseln
+ORTSTEIL_BEZUG: Welschingen
+EIGENSCHAFTEN:
+  untersuchungszeit: 2008
+  fläche_hektar: ca. 16, genauigkeit: ca.
+  befestigung: Graben und Holzmauer
+  siedlungszeit: drittes und zweites vorchristliches Jahrhundert
+  zeitlich_mehrphasig: vermutlich, genauigkeit: vermutlich
+  bronzezeit_hinweis: bis etwa 1500 vor Christus
+  eisenzeit_befunde: ergraben
+GUELTIG_AB: -300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof
+EIGENSCHAFTEN:
+  enthält_kunstwerk: Friedenszeichen von Madeleine Diez
+  friedenszeichen_form: modernes Kriegerdenkmal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: stadtgarten
+BEZEICHNUNG: Alter Stadtgarten
+EIGENSCHAFTEN:
+  enthält: Kriegerdenkmal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: stadtgarten
+BEZEICHNUNG: Neuer Stadtgarten
+EIGENSCHAFTEN:
+  enthält: kleiner See
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: Schwarzwald-Querweg Freiburg-Bodensee
+EIGENSCHAFTEN:
+  verläuft_durch: Engen
+  kategorie: Fernwanderstrecke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: römerstraße
+BEZEICHNUNG: Römerstraße Neckar–Alb–Aare
+EIGENSCHAFTEN:
+  verläuft_durch: Engen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: narrenzunft
+BEZEICHNUNG: Narrenzunft Engen
+EIGENSCHAFTEN:
+  tradition: Schwäbisch-alemannische Fastnacht
+  narrenfigur: Hansele
+  narrenfigur_herkunft: alte Zeit
+  ältestes_kostüm_jahr: 1850
+  superlativ: älteste erhaltene Kostüm aus dem Jahre 1850
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Engen
+EIGENSCHAFTEN:
+  liegt_an: Schwarzwaldbahn von Offenburg nach Singen
+  verbindung_regional_express: stündlich nach Karlsruhe und Konstanz (RE2)
+  verbindung_intercity: zweistündlich nach Singen und Stuttgart (IC87)
+  verbindung_seehas: 30-Minuten-Takt mit Konstanz (S6)
+  verbindung_betreiber_seehas: SBB GmbH
+  gehört_zu_verkehrsverbund: Hegau-Bodensee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Aufzug in der Altstadt
+EIGENSCHAFTEN:
+  besonderheit: Teil des öffentlichen Personennahverkehrs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: gymnasium
+BEZEICHNUNG: Gymnasium Engen
+EIGENSCHAFTEN:
+  gründung_schuljahr: 2006-2007
+  erste_klassen_anzahl: 3
+  erste_klassen_klassenstufe: 5
+  standort: Bildungszentrum der Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schule
+BEZEICHNUNG: Anne-Frank-Realschule
+ORTSTEIL_BEZUG: Engen (Kernstadt)
+EIGENSCHAFTEN:
+  standort: Bildungszentrum der Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Werkrealschule
+ORTSTEIL_BEZUG: Engen (Kernstadt)
+EIGENSCHAFTEN:
+  standort: Bildungszentrum der Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Förderschule Hewenschule
+ORTSTEIL_BEZUG: Engen (Kernstadt)
+EIGENSCHAFTEN:
+  standort: Bildungszentrum der Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule
+ORTSTEIL_BEZUG: Engen (Kernstadt)
+EIGENSCHAFTEN:
+  beschreibung: eine von zwei Grundschulen (weitere in Welschingen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule
+ORTSTEIL_BEZUG: Welschingen
+EIGENSCHAFTEN:
+  beschreibung: eine von zwei Grundschulen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Kindergärten
+EIGENSCHAFTEN:
+  anzahl: 7
+  verteilt_auf_stadtteile: Kernstadt und weitere
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Jugendseminar
+ORTSTEIL_BEZUG: Anselfingen
+EIGENSCHAFTEN:
+  beschreibung: ein Jugendseminar im Stadtteil Anselfingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Pannonhalma
+EIGENSCHAFTEN:
+  land: Ungarn
+  partnerschaft_seit: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Trilport
+EIGENSCHAFTEN:
+  land: Frankreich
+  département: Seine-et-Marne
+  partnerschaft_seit: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Moneglia
+EIGENSCHAFTEN:
+  region: Ligurien
+  nähe: in der Nähe von Genua
+  partnerschaft_seit: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Josef Weber
+EIGENSCHAFTEN:
+  geburt_datum: 07.09.1862
+  geburt_ort: Oensbach
+  tod_datum: 13.01.1937
+  beruf: Stadtpfarrer und Dekan
+  ehrenbürger_jahr: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Viktor Kolb
+EIGENSCHAFTEN:
+  geburt_datum: 13.03.1882
+  geburt_ort: Pforzheim
+  tod_jahr: 1963
+  beruf: Schneider
+  beruf_zusatz: Mitbegründer der Sanitätskolonne (Rotes Kreuz) in Engen
+  ehrenbürger_jahr: 1953
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Alfred Wikenhauser
+EIGENSCHAFTEN:
+  geburt_jahr: 1883
+  geburt_ort: Welschingen
+  tod_jahr: 1960
+  rang: Prälat
+  ehrenbürger_ort: Welschingen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Emil Dreher
+EIGENSCHAFTEN:
+  geburt_jahr: 1884
+  geburt_ort: Stockach
+  tod_jahr: 1974
+  beruf: Stadtpfarrer und Dekan
+  ehrenbürger_jahr: 1948
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Mathilde Nied (Schwester Lukana)
+EIGENSCHAFTEN:
+  geburt_datum: 05.01.1890
+  geburt_ort: Oberndorf
+  tod_jahr: 1962
+  tätigkeit_ort: Krankenhaus Engen
+  ehrenbürgerin_jahr: 1962
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hans Ludwig Steffen
+EIGENSCHAFTEN:
+  geburt_datum: 05.05.1911
+  geburt_ort: Freiburg
+  tod_datum: 01.06.1994
+  tod_ort: Engen
+  beruf: Chefarzt des Krankenhauses Engen
+  ehrenbürger_jahr: 1976
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hermann Graf
+EIGENSCHAFTEN:
+  geburt_datum: 24.10.1912
+  tod_datum: 04.11.1988
+  tod_ort: Rastatt
+  beruf: Jagdflieger und Ritterkreuzträger
+  ehrenbürger_jahr: 1942
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Johannes Moser
+EIGENSCHAFTEN:
+  geburt_jahr: 1959
+  beruf: ehem. Bürgermeister
+  ehrenbürger_jahr: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Conrad Vetter
+EIGENSCHAFTEN:
+  geburt_jahr: 1548
+  tod_datum: 11.10.1622
+  tod_ort: München
+  beruf: Jesuitenpater, Schriftsteller der Gegenreformation
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Romanus Vogler
+EIGENSCHAFTEN:
+  geburt_datum: 17.11.1636
+  tod_datum: 17.11.1695
+  tod_ort: St. Blasien
+  beruf: Abt des Klosters St. Blasien im Schwarzwald
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Jakobus Vogler
+EIGENSCHAFTEN:
+  geburt_datum: 25.07.1655
+  tod_datum: 06.10.1708
+  tod_ort: Schuttern
+  beruf: Abt des Klosters Schuttern
+  verwandtschaft: Bruder von Romanus Vogler
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Joseph Eiselein
+EIGENSCHAFTEN:
+  name_variante: Josua Eiselein
+  geburt_datum: 18.03.1781
+  tod_datum: 30.05.1856
+  tod_ort: Geisingen
+  beruf: Gelehrter, Gymnasiallehrer und Bibliothekar
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ferdinand Welte
+EIGENSCHAFTEN:
+  geburt_datum: 11.10.1806
+  tod_datum: 05.09.1878
+  beruf: Jurist und Politiker
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Carl Eckhard
+EIGENSCHAFTEN:
+  geburt_datum: 13.03.1822
+  tod_datum: 30.08.1910
+  tod_ort: Mannheim
+  beruf: Jurist, Unternehmer und Politiker
+  beruf_zusatz: Reichstagsabgeordneter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hubert Dilger
+EIGENSCHAFTEN:
+  geburt_datum: 05.03.1836
+  tod_datum: 04.05.1911
+  tod_ort: Front Royal, Virginia, USA
+  beruf: US-Army-Offizier und Pferdezüchter
+  kriegseinsatz: Amerikanischer Bürgerkrieg
+  kriegseinsatz_kommando: Artillerieabteilung mit deutschen und mitteleuropäischen Einwanderern
+  auszeichnung: Medal of Honor
+  auszeichnung_grund: vorbildliche Verdienste in der Schlacht von Chancellorsville 1863
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Fridolin Honold
+EIGENSCHAFTEN:
+  geburt_datum: 29.11.1837
+  geburt_ort: Thalmühle
+  tod_datum: 03.11.1900
+  tod_ort: Bonndorf im Schwarzwald
+  beruf: katholischer Priester
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Wilhelm Engelbert Oeftering
+EIGENSCHAFTEN:
+  name_variante: Engelbert Hegaur
+  geburt_datum: 08.02.1879
+  tod_datum: 03.03.1940
+  tod_ort: Rüppurr
+  beruf: Bibliothekar, Historiker und Literaturwissenschaftler
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Frieda Hodapp
+EIGENSCHAFTEN:
+  geburt_datum: 13.08.1880
+  geburt_ort: Bargen
+  tod_datum: 14.09.1949
+  tod_ort: Bad Wiessee
+  beruf: Pianistin
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Paul Wescher
+EIGENSCHAFTEN:
+  geburt_jahr: 1896
+  geburt_ort: Welschingen
+  tod_datum: 03.09.1974
+  tod_ort: Pacific Palisades
+  beruf: Kunsthistoriker, Kunsthändler und Museumsdirektor
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Otto Schiel
+EIGENSCHAFTEN:
+  geburt_datum: 19.11.1895
+  tod_jahr: 1990
+  beruf: Generalmajor der Wehrmacht
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hubert Schiel
+EIGENSCHAFTEN:
+  geburt_datum: 24.02.1898
+  tod_jahr: 1983
+  tod_ort: Trier
+  beruf: Theologe, Schriftsteller und Bibliothekar
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ermin Hohlwegler
+EIGENSCHAFTEN:
+  geburt_datum: 04.08.1900
+  geburt_ort: Welschingen
+  tod_datum: 31.07.1970
+  tod_ort: Neuhausen
+  partei: SPD
+  beruf: Gewerkschafter und Politiker
+  beruf_zusatz: Arbeitsminister in Baden-Württemberg, MdL (Baden-Württemberg)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Karl Miltner
+EIGENSCHAFTEN:
+  geburt_datum: 16.07.1929
+  tod_datum: 10.03.2020
+  tod_ort: Dossenheim
+  partei: CDU
+  beruf: Politiker
+  beruf_zusatz: MdB und Regierungspräsident
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Klaus Saur
+EIGENSCHAFTEN:
+  geburt_datum: 03.06.1940
+  tod_datum: 29.07.2014
+  beruf: neuapostolischer Geistlicher
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Wilhelm Vossenkuhl
+EIGENSCHAFTEN:
+  geburt_datum: 11.12.1945
+  beruf: Philosoph
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Pascal Niggenkemper
+EIGENSCHAFTEN:
+  geburt_datum: 12.06.1978
+  beruf: Jazzmusiker
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Clemens Höpfner
+EIGENSCHAFTEN:
+  geburt_datum: 02.04.1979
+  beruf: Jurist, Professor an der Universität zu Köln
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Oliver Sorg
+EIGENSCHAFTEN:
+  geburt_datum: 29.05.1990
+  beruf: Fußballspieler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Timo Benitz
+EIGENSCHAFTEN:
+  geburt_datum: 24.12.1991
+  beruf: Leichtathlet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hermann Ambrosius
+EIGENSCHAFTEN:
+  geburt_datum: 25.07.1897
+  geburt_ort: Hamburg
+  tod_datum: 25.10.1983
+  tod_ort: Engen
+  beruf: Komponist
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Rosa Ancilla Hug (Mutter Ancilla)
+EIGENSCHAFTEN:
+  geburt_datum: 15.01.1899
+  geburt_ort: Mannheim
+  tod_datum: 31.12.1982
+  beruf: Erzieherin, Sozialarbeiterin, Seelsorgerin
+  beruf_gründung: Gründerin der Kinderheimat Sonnenuhr
+  auszeichnung: 1981 Bundesverdienstkreuz am Bande
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Martin Förster
+EIGENSCHAFTEN:
+  geburt_jahr: 1936
+  beruf: Fütterungsautomaten-Pionier
+  beruf_gründung: Gründer des Unternehmens Förster-Technik
+  auszeichnung: Wirtschaftsmedaillenträger des Landes Baden-Württemberg
+  auszeichnung_2: Max-Eyth-Gedenkmünze des Vereins Deutscher Ingenieure (VDI)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Emil Dannecker
+EIGENSCHAFTEN:
+  geburt_jahr: 1883
+  tod_jahr: 1964
+  tätigkeitsort: Engen
+  tätigkeitszeitraum: 1920-1964
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: ortschaft_historisch
+BEZEICHNUNG: Altdorf
+EIGENSCHAFTEN:
+  ersterwähnung: 1286
+  aufgegangen_in_stadt: 1848
+  aufgegangen_in: Engen
+GUELTIG_AB: 1286
+GUELTIG_BIS: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Radnetz Baden-Württemberg Alltagsroute
+EIGENSCHAFTEN:
+  verläuft_durch: Welschingen
+  verbindung_von: Engen
+  verbindung_zu_1: Singen
+  verbindung_zu_2: Geisingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: radweg
+BEZEICHNUNG: Schwäbischer-Alb-Radweg
+EIGENSCHAFTEN:
+  art: Landes-Radfernweg
+  verläuft_durch: Engen
+  streckenverlauf: über die ganze Schwäbische Alb vom Bodensee nach Donauwörth
+  abschnitt_von: Ludwigshafen über Aach
+  abschnitt_zu: Donauversickerung bei Immendingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: Hegau-Panorama-Weg
+EIGENSCHAFTEN:
+  beginnungsort: Engen
+  länge_kilometer: ca. 175, genauigkeit: ca.
+  verläuft_durch: Hegau
+  endpunkt: Stockach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bundesautobahn 81
+EIGENSCHAFTEN:
+  strecke: Würzburg–Stuttgart–Singen
+  verläuft_durch: Engen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bundesstraße 31
+EIGENSCHAFTEN:
+  strecke: Breisach–Lindau
+  verläuft_durch: Engen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bundesstraße 491
+EIGENSCHAFTEN:
+  strecke: nach Tuttlingen
+  verläuft_durch: Engen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: industriegebiet
+BEZEICHNUNG: Industriegebiet Grub
+EIGENSCHAFTEN:
+  entwicklung_zeit: seit 1970er Jahren
+  besiedelung: mittelständische Betriebe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: wirtschaftssektor_historisch
+BEZEICHNUNG: Textilindustrie
+EIGENSCHAFTEN:
+  vergangenheit_beschreibung: in früheren Jahrhunderten
+  lage: Engen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: wirtschaftssektor_historisch
+BEZEICHNUNG: Zementproduktion
+EIGENSCHAFTEN:
+  vergangenheit_beschreibung: in früheren Jahrhunderten
+  lage: Engen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: wirtschaftssektor_historisch
+BEZEICHNUNG: Tabakindustrie
+EIGENSCHAFTEN:
+  vergangenheit_beschreibung: in früheren Jahrhunderten
+  lage: Engen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: kunsthandwerk_historisch
+BEZEICHNUNG: Elfenbeinschnitzereien
+EIGENSCHAFTEN:
+  vergangenheit_beschreibung: es gab in der Stadt
+  lage: Engen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: bauwerk_historisch
+BEZEICHNUNG: Altstadt
+EIGENSCHAFTEN:
+  beschreibung: renovierte Altstadt
+  enthält: Fassaden im Trompe-l'œil-Stil
+  enthält_brunnen: künstlerische Brunnen in verschiedenen Stilrichtungen
+  rundweg: ausgeschilderter Rundweg für Brunnenstationen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: wüstung
+BEZEICHNUNG: Spitzach
+ORTSTEIL_BEZUG: Bargen
+EIGENSCHAFTEN:
+  beschreibung: abgegangene Ortschaft
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: wüstung
+BEZEICHNUNG: Griengen
+ORTSTEIL_BEZUG: Biesendorf
+EIGENSCHAFTEN:
+  beschreibung: abgegangene Ortschaft und Burg
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: wüstung
+BEZEICHNUNG: Maggental
+ORTSTEIL_BEZUG: Biesendorf
+EIGENSCHAFTEN:
+  beschreibung: abgegangene Ortschaft und Burg
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: wüstung
+BEZEICHNUNG: Burgstall
+ORTSTEIL_BEZUG: Biesendorf
+EIGENSCHAFTEN:
+  beschreibung: abgegangene Ortschaft und Burg
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: wüstung
+BEZEICHNUNG: Wasserburg
+ORTSTEIL_BEZUG: Bittelbrunn
+EIGENSCHAFTEN:
+  beschreibung: abgegangene Ortschaft
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: wüstung
+BEZEICHNUNG: Weildorf
+ORTSTEIL_BEZUG: Bittelbrunn
+EIGENSCHAFTEN:
+  beschreibung: abgegangene Ortschaft
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: wüstung
+BEZEICHNUNG: Ernsthofen
+ORTSTEIL_BEZUG: Engen
+EIGENSCHAFTEN:
+  beschreibung: abgegangene Ortschaft
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: wüstung
+BEZEICHNUNG: Gottschalkshof
+ORTSTEIL_BEZUG: Engen
+EIGENSCHAFTEN:
+  beschreibung: abgegangene Ortschaft
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: wüstung
+BEZEICHNUNG: Krattenhofen
+ORTSTEIL_BEZUG: Engen
+EIGENSCHAFTEN:
+  beschreibung: abgegangene Ortschaft
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: wüstung
+BEZEICHNUNG: Hof zu Bybrugge
+ORTSTEIL_BEZUG: Neuhausen
+EIGENSCHAFTEN:
+  beschreibung: abgegangene Ortschaft
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: wüstung
+BEZEICHNUNG: Glenderhof
+ORTSTEIL_BEZUG: Neuhausen
+EIGENSCHAFTEN:
+  beschreibung: abgegangene Ortschaft
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: wüstung
+BEZEICHNUNG: Burgstall
+ORTSTEIL_BEZUG: Welschingen
+EIGENSCHAFTEN:
+  beschreibung: abgegangene Ortschaft
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: wüstung
+BEZEICHNUNG: Crasingen
+ORTSTEIL_BEZUG: Welschingen
+EIGENSCHAFTEN:
+  beschreibung: abgegangene Ortschaft
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: wüstung
+BEZEICHNUNG: Im Thurn
+ORTSTEIL_BEZUG: Welschingen
+EIGENSCHAFTEN:
+  beschreibung: abgegangene Ortschaft
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: wüstung
+BEZEICHNUNG: Haginshof
+ORTSTEIL_BEZUG: Zimmerholz
+EIGENSCHAFTEN:
+  beschreibung: abgegangene Ortschaft
+  nachweis: durch Flurname
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ENTITÄT: wüstung
+BEZEICHNUNG: Hausen am Ballenberg
+ORTSTEIL_BEZUG: Anselfingen
+EIGENSCHAFTEN:
+  beschreibung: aufgegangene Ortschaft
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: burgruine
+BEZEICHNUNG: Hohenhewen
+ORTSTEIL_BEZUG: Anselfingen
+EIGENSCHAFTEN:
+  beschreibung: Burgruine
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bauwerk_historisch
+BEZEICHNUNG: Steinzeithöhlen Petersfels
+ORTSTEIL_BEZUG: Bittelbrunn
+EIGENSCHAFTEN:
+  beschreibung: Steinzeithöhlen
+  zeitalter: Steinzeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bauwerk_historisch
+BEZEICHNUNG: Steinzeithöhlen Gnirshöhle
+ORTSTEIL_BEZUG: Bittelbrunn
+EIGENSCHAFTEN:
+  beschreibung: Steinzeithöhle
+  zeitalter: Steinzeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Bittelbrunner Schlössle
+ORTSTEIL_BEZUG: Bittelbrunn
+EIGENSCHAFTEN:
+  beschreibung: altes Schlössle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: siedlung_archäologisch
+BEZEICHNUNG: Steinzeitlager Petersfels
+ORTSTEIL_BEZUG: Brudertal
+EIGENSCHAFTEN:
+  funde: Venus von Engen
+  sammlung_ort: Städtisches Museum Engen
+  zeitalter: Alt- und Mittelsteinzeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: denkmal_stolperstein
+BEZEICHNUNG: Stolpersteine in Engen, Anselfingen und Neuhausen
+EIGENSCHAFTEN:
+  anzahl: 7
+  verlegungsjahr: 2023
+  anlass: Gedenken und Erinnerung an Verfolgte während der Zeit des Nationalsozialismus
+  orte: Engen, Anselfingen, Neuhausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

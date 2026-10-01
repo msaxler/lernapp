@@ -1,0 +1,1611 @@
+ENTITÄT: ort
+BEZEICHNUNG: Spaichingen
+EIGENSCHAFTEN:
+  ist_kleinstadt: true
+  ist_drittgroesste_stadt_im_landkreis: Landkreis Tuttlingen
+  liegt_an_fluss: Prim
+  liegt_am_fuss: Dreifaltigkeitsberg
+  liegt_zwischen_kreisstaedte: "rund 15 km zu Rottweil (nordwestlich) und Tuttlingen"
+GUELTIG_AB: 791
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: berg
+BEZEICHNUNG: Dreifaltigkeitsberg
+EIGENSCHAFTEN:
+  hoehe: "988 m"
+  ist_wahrzeichen: true
+  ist_geologie_dreifaltigkeitsberg: true
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Wallfahrtskirche auf dem Dreifaltigkeitsberg
+ORTSTEIL_BEZUG: Dreifaltigkeitsberg
+EIGENSCHAFTEN:
+  stil: Frühbarock
+  bauzeit: 1673
+  hochaltar_von: Joseph Anton Feuchtmayer
+  betreut_von: Claretinerorden (Missionshaus)
+  liegt_auf_gemarkung: Spaichingen
+GUELTIG_AB: 1673
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Hofen
+EIGENSCHAFTEN:
+  ist_stadtteil: true
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: ort
+BEZEICHNUNG: Bleiche
+ORTSTEIL_BEZUG: Spaichingen (Häuser)
+EIGENSCHAFTEN:
+  beschreibung: Häuser-Lage im Stadtgebiet
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ENTITÄT: ort
+BEZEICHNUNG: Heusteig
+ORTSTEIL_BEZUG: Spaichingen (Häuser)
+EIGENSCHAFTEN:
+  beschreibung: Häuser-Lage im Stadtgebiet
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ENTITÄT: ort
+BEZEICHNUNG: Verenamühle
+ORTSTEIL_BEZUG: Spaichingen (Häuser)
+EIGENSCHAFTEN:
+  beschreibung: Häuser-Lage im Stadtgebiet
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ENTITÄT: muehle
+BEZEICHNUNG: Kassiersmühle
+EIGENSCHAFTEN:
+  bauzeit: 1732
+  ist_in_spaichingen_aufgegangen: true
+GUELTIG_AB: 1732
+GUELTIG_BIS: (aufgegangen)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Baldenberg
+EIGENSCHAFTEN:
+  lage: oberhalb von Spaichingen auf Dreifaltigkeitsberg
+  ist_abgegangen: true
+  ist_archivalisch_nachgewiesen: false
+  beschreibung: "Nur aus Geländebefunden vermutet"
+GUELTIG_AB: (Mittelalter)
+GUELTIG_BIS: (abgegangen)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ENTITÄT: wuestung
+BEZEICHNUNG: Steinweiler
+EIGENSCHAFTEN:
+  ist_abgegangen: true
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.55
+---
+ENTITÄT: wuestung
+BEZEICHNUNG: Stockingen
+EIGENSCHAFTEN:
+  ist_abgegangen: true
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.55
+---
+ENTITÄT: wuestung
+BEZEICHNUNG: Niederhofen
+EIGENSCHAFTEN:
+  ist_abgegangen: true
+  ist_moeglichweise_in_spaichingen_aufgegangen: true
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.5
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Albtrauf zwischen Balgheim und Gosheim
+EIGENSCHAFTEN:
+  enthaelt: "Dreifaltigkeitsberg, Klippeneck, Lemberg"
+  lage_relativ_zu_spaichingen: "nordöstlich"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: FFH-Gebiet Großer Heuberg und Donautal
+EIGENSCHAFTEN:
+  albtrauf_bei_spaichingen_gehoert_dazu: true
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Vogelschutzgebiet Südwestalb und Oberes Donautal
+EIGENSCHAFTEN:
+  albtrauf_bei_spaichingen_gehoert_dazu: true
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: naturpark
+BEZEICHNUNG: Naturpark Obere Donau
+EIGENSCHAFTEN:
+  albtrauf_bei_spaichingen_gehoert_dazu: true
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: museum
+BEZEICHNUNG: Gewerbemuseum (Städtisches Museum)
+EIGENSCHAFTEN:
+  bauzeit: 1876
+  stil: Neorenaissance
+  erbaut_durch: Gewerbeverein und Handwerkerbank
+  enthaelt_seit: 1991 das städtische Museum
+  ist_denkmalgeschuetzt: true
+  besonderheit: prachtvoller Festsaal
+GUELTIG_AB: 1876
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Peter und Paul (Stadtpfarrkirche)
+EIGENSCHAFTEN:
+  bauzeit: 1898
+  stil: neugotisch
+  renoviert: "1960/61"
+  benannt_nach_grund: "Apostel Petrus und Paulus"
+GUELTIG_AB: 1898
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Josef
+ORTSTEIL_BEZUG: Hofen
+EIGENSCHAFTEN:
+  bauzeit: 1896-97
+  erbaut_nach_plaenen_von: Ulrich Pohlhammer
+  stil: neugotisch
+  renoviert: "1974-76 (innen und außen)"
+GUELTIG_AB: 1896
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: musikensemble
+BEZEICHNUNG: Stadtkapelle Spaichingen
+EIGENSCHAFTEN:
+  leitung: Musikdirektor Thomas Uttenweiler
+  typ: sinfonisches Höchststufen-Blasorchester
+  auftritte: "Berlin, Duisburg, Frankreich, Budapest, Deutschland gegen Brasilien, Hörfunk, Fernsehen"
+  superlativ: "überregional bekannt"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: lied
+BEZEICHNUNG: Spaichinger Narrenmarsch
+EIGENSCHAFTEN:
+  komponiert: 1928
+  komponist: Ernst Behrens (Musiklehrer und damaliger Dirigent der Stadtkapelle)
+  text: Fritz Güntner (damaliger Präsident der Narrenzunft)
+  beschreibung: inoffizielle Stadthymne
+  beliebtheit: große Beliebtheit bei Fasnetsveranstaltungen
+GUELTIG_AB: 1928
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: 50er Fest
+EIGENSCHAFTEN:
+  beschreibung: Heimatfest für 50-Jährige (Geburtsjahrgang)
+  erstmals: 1873
+  urspruenglich_nur_von: Männern
+  dauert_mehrere: Tage
+  beteiligung: Jahrgangsvereine der 60er-, 70er-, 80er-, 90er-Jubilare
+GUELTIG_AB: 1873
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: zunft
+BEZEICHNUNG: Narrenzunft Deichelmaus
+EIGENSCHAFTEN:
+  aktivitaet: Umzug am Fasnetsonntag mit Wagen und Fußgruppen
+  region: bekannt im schwäbisch-alemannischen Raum
+  praesentiert: Narrenhäs zu lokalen Themen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: gruppe
+BEZEICHNUNG: Spaichinger Funkenhexen
+EIGENSCHAFTEN:
+  gueltig_seit: 1992
+  aktivitaet: beteiligt sich am Funkensonntag-Fackellauf
+GUELTIG_AB: 1992
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: brauch
+BEZEICHNUNG: Fackellauf am Funkensonntag
+EIGENSCHAFTEN:
+  fackeln: selbstgebaut (vor allem von Schülern)
+  herkunft_fackel_material: Harzen
+  route: Dreifaltigkeitsberg (Spitze) hinunter via Serpentinen zur "Bleiche"
+  hoehendifferenz: "über 200 m"
+  ziel: Funkenfeuer und symbolische Verbrennung der Stroh-Hexe
+  begleitpersonen: Freiwillige Feuerwehr, Stadtkapelle
+  sichtbar_von_spaichingen: "4 bis 6 weitere Feuer"
+  verpflegung: Wurst, Wecken, Getränke im Pilgersaal des Claretiner-Klosters (kostenlos)
+GUELTIG_AB: (Tradition)
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: marktplatz
+BEZEICHNUNG: Marktplatz Spaichingen
+EIGENSCHAFTEN:
+  veranstaltungen: "Flohmarkt (Anfang Mai), Martinimarkt (Anfang November), Weihnachtsmarkt (Anfang Dezember)"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: sportverein
+BEZEICHNUNG: Sportverein Spaichingen 08 e.V.
+EIGENSCHAFTEN:
+  veranstaltung: internationales Jugend-Fußballturnier
+  turnier_monat: Juli
+  turnier_ort: Stadion Unterbach
+  reputation: ueberregional bekannt
+GUELTIG_AB: (vor 2023)
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: stadion
+BEZEICHNUNG: Stadion Unterbach
+EIGENSCHAFTEN:
+  zweck: Jugend-Fußballturnier des Sportvereins Spaichingen 08
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Spaichingen
+EIGENSCHAFTEN:
+  bahnstrecke: Plochingen–Immendingen (Gäubahn)
+  eroffnet: 15. Juli 1869
+  oeffnung_zusammenhang: "Abschnitt Rottweil–Tuttlingen der Oberen Neckarbahn"
+  bedienung: zweistündlich Regional-Express
+  rinzug_system: werktags im Stunden-Takt mit Tuttlingen, Immendingen, Leipferdingen, Rottweil
+GUELTIG_AB: 1869
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnhof
+BEZEICHNUNG: Spaichingen Mitte
+EIGENSCHAFTEN:
+  typ: Haltepunkt
+  lage: Norden der Stadt
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: eisenbahn_strecke
+BEZEICHNUNG: Heubergbahn
+EIGENSCHAFTEN:
+  route: "Spaichingen zu Reichenbach am Heuberg"
+  betrieb_bis: 1966
+  status: stillgelegt und abgebaut
+  umnutzung: zu Rad- und Wanderweg
+GUELTIG_AB: (historisch)
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: verkehrsverbund
+BEZEICHNUNG: Verkehrsverbund Schwarzwald-Baar-Heuberg
+EIGENSCHAFTEN:
+  gebiet_spaichingen: Spaichingen liegt im Gebiet
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: strasse
+BEZEICHNUNG: Bundesstraße 14
+EIGENSCHAFTEN:
+  durchquerung: Hauptstraße durch Spaichingen
+  erreichbarkeit: "über Bundesautobahn 81 von Singen (Abfahrt Tuningen) oder Stuttgart (Abfahrt Rottweil)"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: radnetz
+BEZEICHNUNG: Alltagsroute Radnetz Baden-Württemberg
+EIGENSCHAFTEN:
+  richtung_tuttlingen: "über Balgheim und Rietheim-Weilheim zu Tuttlingen"
+  richtung_rottweil: "über Aldingen zu Rottweil"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: Pfarrkirche Spaichingen (mittelalterlich, urkundlich ab 1222)
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1222 (Priester)
+  kirchengemeinde_fassbar_seit: 13. Jahrhundert
+  verlust_selbstaendigkeit: 1455 (unterstellt dem Chorherrenstift St. Moritz in Ehingen)
+  abbruch_alter_kirche: 1898
+  ersetzer_neubau: neugotische Kirche St. Peter und Paul 1900
+  grund_alte_zerstoerung: 1633 Schweden-Brand (Kirchenbücher und Urkunden verloren)
+  renovierung_innenraum: "1960/61 und 1991/92"
+  beschreibung: "Christliches Leben vermutlich seit Merowinger-Zeit"
+GUELTIG_AB: 1222
+GUELTIG_BIS: (unterstellt 1455)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Chorherrenstift St. Moritz
+EIGENSCHAFTEN:
+  standort: Ehingen bei Rottenburg am Neckar
+  unterstellung_jahr: 1455
+  unterstellte: Pfarrkirche Spaichingen
+  dauer_zustændigkeit: bis zur Säkularisation 1806
+GUELTIG_AB: 1455
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: seelsorgeeinheit
+BEZEICHNUNG: Seelsorgeeinheit "Am Dreifaltigkeitsberg"
+EIGENSCHAFTEN:
+  bildung: 1. September 1995
+  besteht_aus: "St. Peter und Paul (Spaichingen), Mariä Himmelfahrt (Balgheim), St. Petrus und Paulus (Dürbheim)"
+  dekanat_seit: 2006 Dekanat Tuttlingen-Spaichingen
+  grund_dekanat_vereinigung: Vereinigung der zuvor separaten Dekanate Spaichingen und Tuttlingen
+  dioezese: Rottenburg-Stuttgart
+GUELTIG_AB: 1995
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Spaichingen
+EIGENSCHAFTEN:
+  baujahr: 1905
+  grund_errichtung: Zuzug evangelischer Beamter nach Gründung Königreich Württemberg
+  urspruenglich_stadt: rein römisch-katholisch
+  zuwachs_nach_1945: evangelische Heimatvertriebene aus Ostgebieten
+  kirchenbezirk: Rottweil
+  landeskirche: Evangelische Landeskirche in Württemberg
+GUELTIG_AB: 1905
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: freikirche
+BEZEICHNUNG: Evangelische Täufergemeinde (ETG)
+EIGENSCHAFTEN:
+  stadt: Spaichingen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ENTITÄT: freikirche
+BEZEICHNUNG: Gemeinschaft der Siebenten-Tags-Adventisten
+EIGENSCHAFTEN:
+  stadt: Spaichingen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ENTITÄT: freikirche
+BEZEICHNUNG: Freie Evangelismus-Versammlung
+EIGENSCHAFTEN:
+  stadt: Spaichingen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ENTITÄT: freikirche
+BEZEICHNUNG: Neuapostolische Kirche
+EIGENSCHAFTEN:
+  stadt: Spaichingen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ENTITÄT: moschee
+BEZEICHNUNG: Fatih-Moschee
+EIGENSCHAFTEN:
+  traeger: türkisch-islamische DITIB
+  stadt: Spaichingen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: gemeinderat
+BEZEICHNUNG: Gemeinderat Spaichingen
+EIGENSCHAFTEN:
+  zusammensetzung: 18 gewählte ehrenamtliche Gemeinderäte + Bürgermeister (Vorsitzender, stimmberechtigt)
+  kommunalwahl: 9. Juni 2024
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: amt
+BEZEICHNUNG: Bürgermeisteramt Spaichingen
+EIGENSCHAFTEN:
+  wahlzyklus: 8 Jahre
+  wahlmodus: direkt gewählt
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: Oscar Hagen
+EIGENSCHAFTEN:
+  lebensjahre: 1895-1996
+  amtszeit_buergermeister: 1945 (kommissarisch)
+  amtszeit_buergermeister2: 1946-1948
+  partei: CDU
+  ist_ehrenbuerger: true
+  berufe: Politiker, Unternehmer
+  amt: Landtagsabgeordneter (CDU)
+GUELTIG_AB: 1895
+GUELTIG_BIS: 1996
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Karl Hagen
+EIGENSCHAFTEN:
+  amtszeit_buergermeister: 1946-1948
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1948
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: person
+BEZEICHNUNG: Ludwig Wahr
+EIGENSCHAFTEN:
+  amtszeit_buergermeister: 1948-1964
+GUELTIG_AB: 1948
+GUELTIG_BIS: 1964
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: person
+BEZEICHNUNG: Erwin Teufel
+EIGENSCHAFTEN:
+  geburtsjahr: 1939
+  amtszeit_buergermeister: 1964-1972
+  amtszeit_ministerpräsident: 1991-2005
+  ministerpräsident_amt: Baden-Württemberg
+  partei: CDU
+  ist_ehrenbuerger: true
+  bruder_von: Albert Teufel
+GUELTIG_AB: 1939
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Albert Teufel
+EIGENSCHAFTEN:
+  lebensjahre: 1941-2025
+  amtszeit_buergermeister: 1972-2004
+  dauer_buergermeister_jahre: 32
+  partei: CDU
+  ist_ehrenbuerger: true
+  bruder_von: Erwin Teufel
+GUELTIG_AB: 1941
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Hans Georg Schuhmacher
+EIGENSCHAFTEN:
+  geburtsjahr: 1962
+  amtszeit_buergermeister: 2004-2020
+  partei: parteilos (vorher CDU bis 2014)
+GUELTIG_AB: 1962
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: Markus Hugger
+EIGENSCHAFTEN:
+  geburtsjahr: 1971
+  amtszeit_buergermeister: seit 2020
+  partei: CDU
+  wahlort_vorgaenger: Gemeinde Immendingen
+  wahl_result_2020: "66,3% gegen Schuhmacher (32,9%)"
+GUELTIG_AB: 1971
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: verwaltungsgemeinschaft
+BEZEICHNUNG: Vereinbarte Verwaltungsgemeinschaft Spaichingen
+EIGENSCHAFTEN:
+  besteht_aus: "Spaichingen, Aldingen mit Aixheim, Balgheim, Böttingen, Denkingen, Dürbheim, Frittlingen, Hausen o.V., Mahlstetten"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen und Banner Spaichingen
+EIGENSCHAFTEN:
+  banner_beschreibung: "weiß-rot längsgestreift mit Wappen oberhalb der Mitte"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Partnerschaft Spaichingen–Sallanches
+EIGENSCHAFTEN:
+  partnerstadt: Sallanches
+  land: Frankreich
+  departement: Haute-Savoie (Hochsavoyen)
+  geographie: "in der Nähe des Mont Blanc"
+  gueltig_seit: 1970
+  schueleraustausch: Gymnasien und Realschule Spaichingen mit Schulen in Sallanches
+  feuerwehr_kontakte: Freiwillige Feuerwehr Spaichingen mit Partnerfeuerwehr
+GUELTIG_AB: 1970
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Partnerschaft Spaichingen–Mezöbereny
+EIGENSCHAFTEN:
+  partnerstadt: Mezöbereny
+  land: Ungarn
+  gueltig_seit: 1991
+  schueleraustausch_jahresrhythmus: jaehrlich
+  schulen: Gymnasien
+GUELTIG_AB: 1991
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Partnerschaft Spaichingen–Regis-Breitingen
+EIGENSCHAFTEN:
+  partnerstadt: Regis-Breitingen
+  land: Deutschland (Sachsen)
+  lage_gegenüber_leipzig: "ca. 40 km südlich"
+  kontakte_beginn: seit Grenzöffnung DDR
+  gemeinsame_postleitzahl: 7208 (historisch)
+  formalisierung: 2023
+  grund_verbindung: historische Postleitzahl-Verbindung
+GUELTIG_AB: (nach 1989)
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Partnerschaft Spaichingen–Darova
+EIGENSCHAFTEN:
+  partnerstadt: Darova
+  land: Rumänien
+  gueltig_seit: 2026
+  grund_verbindung: Banater Schwaben mit Wurzeln dort (leben jetzt in Spaichingen)
+GUELTIG_AB: 2026
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Carl Sauter Pianofortemanufaktur
+EIGENSCHAFTEN:
+  ansaessig_seit: 1819
+  branche: Klavier- und Flügel-Hersteller
+  reputation: international renommiert
+GUELTIG_AB: 1819
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: MS Ultrasonic Technology Group
+EIGENSCHAFTEN:
+  ehemals: Maschinenfabrik Spaichingen GmbH
+  branche: Ultraschall-Sondermaschinen, Ultraschall-Serienmaschinen, modulare Systeme
+  anwendungen: Verpackungslösungen, Nonwovens
+GUELTIG_AB: (historisch)
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: zeitung
+BEZEICHNUNG: Heuberger Bote
+EIGENSCHAFTEN:
+  typ: Kopfblatt
+  der_zeitung: Schwäbische Zeitung
+  verbreitung: Spaichingen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: zeitung
+BEZEICHNUNG: Schwarzwälder Bote
+EIGENSCHAFTEN:
+  hatte_lokalredaktion: Spaichingen
+  status_redaktion: aufgegeben
+GUELTIG_AB: (historisch)
+GUELTIG_BIS: (aufgegeben)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: magazin
+BEZEICHNUNG: Cocktails
+EIGENSCHAFTEN:
+  beschreibung: unabhängiges lokales Magazin
+  betrieb_bis: 2008
+GUELTIG_AB:
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ENTITÄT: magazin
+BEZEICHNUNG: Blickpunkt
+EIGENSCHAFTEN:
+  beschreibung: unabhängiges Magazin
+  erscheinung: alle drei Monate
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: amtsblatt
+BEZEICHNUNG: Stadtspiegel
+EIGENSCHAFTEN:
+  stadt: Spaichingen
+  erscheinung: wöchentlich
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: gericht
+BEZEICHNUNG: Amtsgericht Spaichingen
+EIGENSCHAFTEN:
+  landgerichtsbezirk: Rottweil
+  oberlandesgericht: Stuttgart
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: notariat
+BEZEICHNUNG: Notariate in Spaichingen
+EIGENSCHAFTEN:
+  anzahl: zwei
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Dekanat Spaichingen (Diözese Rottenburg-Stuttgart)
+EIGENSCHAFTEN:
+  sitz_bis: 2006
+  aufgegangen_in: neues Dekanat Tuttlingen-Spaichingen
+GUELTIG_AB:
+GUELTIG_BIS: 2006
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kindergärten Spaichingen
+EIGENSCHAFTEN:
+  anzahl: 6
+  zusammensetzung: "1 städtisch, 3 katholisch (St. Franziskus, St. Michael, St. Raphael), 1 evangelisch, 1 Waldkindergarten"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: schule
+BEZEICHNUNG: Grund- und Hauptschulen Spaichingen
+EIGENSCHAFTEN:
+  anzahl: 2
+  schulen: "Schillerschule, Rupert-Mayer-Schule (katholisch: Grund-, Haupt-, Werkreal- und Realschule)"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: schule
+BEZEICHNUNG: Realschule Spaichingen
+EIGENSCHAFTEN:
+  anzahl: 1
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: schule
+BEZEICHNUNG: Gymnasium Spaichingen
+EIGENSCHAFTEN:
+  anzahl: 1
+  staedtepartnerschaften_schueleraustausch: Sallanches (Frankreich), Mezöbereny (Ungarn)
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: berufsschule
+BEZEICHNUNG: Erwin-Teufel-Schule
+EIGENSCHAFTEN:
+  offizielle_namensgebung: 16. Juli 2008
+  standort: Alleenstraße (seit 2005)
+  fachrichtungen: "gewerbliche, kaufmännische, hauswirtschaftliche Berufsschule mit Fachschulen"
+  benannt_nach: Erwin Teufel (ehemaliger Bürgermeister und Ministerpräsident)
+GUELTIG_AB: 2005
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: volkshochschule
+BEZEICHNUNG: Volkshochschule für Stadt und Kreis Tuttlingen
+EIGENSCHAFTEN:
+  hat_außenstelle: Spaichingen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: musikschule
+BEZEICHNUNG: Primtalmusikschule
+EIGENSCHAFTEN:
+  stadt: Spaichingen
+  beschreibung: eigenständige Musikschule der Stadt
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: musikschule
+BEZEICHNUNG: Musikschule Trossingen
+EIGENSCHAFTEN:
+  hat_außenstelle: Spaichingen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Bezirkskrankenhaus Spaichingen (historisch)
+EIGENSCHAFTEN:
+  bauzeit_initial: 1876-1878
+  betten_initial: "18 (in 12 Zimmern)"
+  erweiterung_1908: "30 Betten"
+  geplante_erweiterung_1925: verdoppelt (abgelehnt durch württembergisches Innenministerium)
+  erweiterung_umausbau: "60 Betten"
+  neubau: 1967
+  neubau_erweiterung: 1974
+  zusammenlegung_zeitpunkt: 1. Januar 2005
+  zusammenlegung_partner: Kreisklinik Tuttlingen
+  zusammenlegung_neuer_name: Klinikum Landkreis Tuttlingen
+  stilllegung_standort_zeitpunkt: 2019
+GUELTIG_AB: 1876
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: klinikum
+BEZEICHNUNG: Klinikum Landkreis Tuttlingen
+EIGENSCHAFTEN:
+  bildung: 1. Januar 2005
+  standorte: "Spaichingen (bis 2019), Tuttlingen"
+  fusion_von: "Kreisklinik Spaichingen und Kreisklinik Tuttlingen"
+  nachnutzung_gelande_spaichingen: "Intersektorales Gesundheitszentrum mit Arztpraxen, pflegerischen Angeboten, Pflegehotel (geplant)"
+GUELTIG_AB: 2005
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: berg
+BEZEICHNUNG: Klippeneck
+EIGENSCHAFTEN:
+  typ: Hochfläche
+  lage_relativ: "nahe gelegene Hochfläche nahe Dreifaltigkeitsberg"
+  superlativ: "Zentrum der Segelfliegerei in Deutschland"
+  geschichte_segelflug: "1920er Jahre: Pioniere wie Prinz von Schaumburg-Lippe, Wolf Hirth flogen vom Dreifaltigkeitsberg; später Verlegung auf Klippeneck"
+GUELTIG_AB: (1920er Jahre für Segelflug)
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: Franz Schuhmacher
+EIGENSCHAFTEN:
+  geburtsjahr: 1939
+  ist_ehrenbuerger: true
+  berufe: Unternehmer, Politiker
+  partei: CDU
+  amt: Landtagsabgeordneter
+GUELTIG_AB: 1939
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Michael Munz
+EIGENSCHAFTEN:
+  amt: Stadtpfarrer
+  ist_ehrenbuerger: true
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ENTITÄT: adelsfamilie
+BEZEICHNUNG: Adelsgeschlecht von Spaichingen
+EIGENSCHAFTEN:
+  erste_erwaehnung: 11. Jahrhundert
+  erste_erwaehnung_kontext: "bei Gründung von Klöstern im Schwarzwald"
+  titel: "freyer herr" (in Chronik des Gallus Öhem)
+  benno_erwaehnung_1: "13. Januar 1086 bei Gründung Kloster St. Georgen"
+  benno_erwaehnung_2: "28. August 1099 bei Gründung Kloster Alpirsbach als testamenti doctor (Vermittler rechtlicher Bestimmungen)"
+  adelbert_erwaehnung: "6. April 1092 als Zeuge bei Gütertausch"
+  markward_erwaehnung: "Mitte 12. Jahrhundert: verschenkt sieben Hörige und eine Mühle an Kloster Allerheiligen"
+  letzter_traeger: "Rudolf von Spaichingen (stirbt 1476 in Bern)"
+  herrenhof: "besaßen im Ort einen Herrenhof (später Hänlihof)"
+  sagenhafter_burgstal: "in Chronik des Gallus Öhem um 1500: burgstal speichingen genant (nicht nachgewiesen)"
+GUELTIG_AB: 11. Jahrhundert
+GUELTIG_BIS: 1476
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: Benno von Spaichingen
+EIGENSCHAFTEN:
+  erste_erwaehnung: "13. Januar 1086"
+  erste_erwaehnung_kontext: "Zeuge bei Gründung Kloster St. Georgen im Schwarzwald"
+  zweite_erwaehnung: "28. August 1099"
+  zweite_erwaehnung_kontext: "testamenti doctor bei Gründung Kloster Alpirsbach"
+  dritte_erwaehnung_kontext: "vor Herzog Berthold II. und Fürsten in Rottweil"
+  beschreibung_rolle: "Vermittler der rechtlichen Bestimmungen für Klostergründung"
+  ist_vermutlich_identitaet: "möglicherweise identisch"
+GUELTIG_AB: 1086
+GUELTIG_BIS: (nach 1099)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Hans Kraut
+EIGENSCHAFTEN:
+  lebensjahre: 1532-1592
+  beruf: Renaissance-Hafner (Töpfer)
+GUELTIG_AB: 1532
+GUELTIG_BIS: 1592
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: person
+BEZEICHNUNG: Anton Braun
+EIGENSCHAFTEN:
+  lebensjahre: 1776-1840
+  berufe: Klavier- und Orgelbauer
+GUELTIG_AB: 1776
+GUELTIG_BIS: 1840
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Martin Braun
+EIGENSCHAFTEN:
+  lebensjahre: 1808-1892
+  beruf: Orgelbauer
+GUELTIG_AB: 1808
+GUELTIG_BIS: 1892
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Blasius Braun
+EIGENSCHAFTEN:
+  lebensjahre: 1823-1883
+  beruf: Orgelbauer
+GUELTIG_AB: 1823
+GUELTIG_BIS: 1883
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Anton Kupferschmid
+EIGENSCHAFTEN:
+  lebensjahre: 1835-1903
+  berufe: Verleger
+  amt: Mitglied Landtag Württemberg (MdL)
+GUELTIG_AB: 1835
+GUELTIG_BIS: 1903
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Hasel
+EIGENSCHAFTEN:
+  lebensjahre: 1865-1947
+  beruf: württembergischer Verwaltungsjurist
+  amt: Landtagsabgeordneter
+GUELTIG_AB: 1865
+GUELTIG_BIS: 1947
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: Anton Hagen
+EIGENSCHAFTEN:
+  lebensjahre: 1868-1952
+  beruf: Politiker
+GUELTIG_AB: 1868
+GUELTIG_BIS: 1952
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: person
+BEZEICHNUNG: Karl Kuolt
+EIGENSCHAFTEN:
+  lebensjahre: 1879-1937
+  beruf: Bildhauer
+GUELTIG_AB: 1879
+GUELTIG_BIS: 1937
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Schumacher
+EIGENSCHAFTEN:
+  lebensjahre: 1884-1975
+  berufe: Bergbauingenieur, Professor
+  mineral: Mineral Schumacherit nach ihm benannt
+GUELTIG_AB: 1884
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: August Hagen
+EIGENSCHAFTEN:
+  lebensjahre: 1889-1963
+  amt: Generalvikar der Diözese Rottenburg 1947-1960
+GUELTIG_AB: 1889
+GUELTIG_BIS: 1963
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: Gregor Sorger
+EIGENSCHAFTEN:
+  lebensjahre: 1906-1950
+  orden: Missionsbenediktiner
+  beschreibung: Märtyrer von Tokwon
+GUELTIG_AB: 1906
+GUELTIG_BIS: 1950
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Otto Henze
+EIGENSCHAFTEN:
+  lebensjahre: 1908-1991
+  berufe: Forstwissenschaftler, Ornithologe
+GUELTIG_AB: 1908
+GUELTIG_BIS: 1991
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Hans Dieter Ochs
+EIGENSCHAFTEN:
+  geburtsjahr: 1936
+  berufe: Immunologe, Kinderarzt, Hochschullehrer
+GUELTIG_AB: 1936
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: person
+BEZEICHNUNG: Hermes Andreas Kick
+EIGENSCHAFTEN:
+  geburtsjahr: 1944
+  amt: Professor für Psychiatrie in Heidelberg
+GUELTIG_AB: 1944
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: person
+BEZEICHNUNG: Hermann H. Dieter
+EIGENSCHAFTEN:
+  geburtsjahr: 1945
+  berufe: Biochemiker, Trinkwassertoxikologe
+GUELTIG_AB: 1945
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: person
+BEZEICHNUNG: Ulrich T. Hopt
+EIGENSCHAFTEN:
+  geburtsjahr: 1948
+  amt: Professor, Ärztlicher Direktor der Abteilung Allgemein- und Viszeralchirurgie am Universitätsklinikum Freiburg
+GUELTIG_AB: 1948
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Winfried Kretschmann
+EIGENSCHAFTEN:
+  geburtsjahr: 1948
+  partei: Bündnis 90/Die Grünen
+  amt: Ministerpräsident von Baden-Württemberg
+  amtszeit: 2011-2026
+GUELTIG_AB: 1948
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Axel Plankenhorn
+EIGENSCHAFTEN:
+  geburtsjahr: 1951
+  berufe: Automobilrennfahrer, Rennteamgeschäftsführer
+GUELTIG_AB: 1951
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: person
+BEZEICHNUNG: Bruno Gmünder
+EIGENSCHAFTEN:
+  geburtsjahr: 1956
+  beschreibung: Mitbegründer der deutschen Schwulenbewegung
+  beruf: Verleger
+GUELTIG_AB: 1956
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Andreas Gut
+EIGENSCHAFTEN:
+  geburtsjahr: 1961
+  berufe: Archäologe, Museumsdirektor
+GUELTIG_AB: 1961
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: person
+BEZEICHNUNG: Leopold Grimm
+EIGENSCHAFTEN:
+  geburtsjahr: 1962
+  partei: FDP
+  amt: Landtagsabgeordneter
+GUELTIG_AB: 1962
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: person
+BEZEICHNUNG: Hartmuth Jung
+EIGENSCHAFTEN:
+  geburtsjahr: 1962
+  beruf: Manager
+GUELTIG_AB: 1962
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ENTITÄT: person
+BEZEICHNUNG: Raphael Haeger
+EIGENSCHAFTEN:
+  geburtsjahr: 1971
+  berufe: Dirigent
+  organisation: Mitglied der Berliner Philharmoniker
+GUELTIG_AB: 1971
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Philipp Sichler
+EIGENSCHAFTEN:
+  geburtsjahr: 1974
+  beruf: Kameramann
+GUELTIG_AB: 1974
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: person
+BEZEICHNUNG: Kristijan Đorđević
+EIGENSCHAFTEN:
+  geburtsjahr: 1976
+  nationalitaet: Serbien
+  berufe: Fußballspieler, Trainer
+  beschreibung: "SV Spaichingen war erste Station des Ex-Bundesligaprofis"
+  bundesliga: Ex-Bundesliga-Profi
+GUELTIG_AB: 1976
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Sandra Boser
+EIGENSCHAFTEN:
+  geburtsjahr: 1976
+  partei: Bündnis 90/Die Grünen
+  amt: Landtagsabgeordnete
+GUELTIG_AB: 1976
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Alexander Schaum
+EIGENSCHAFTEN:
+  geburtsjahr: 1979
+  berufe: Diplomingenieur
+  amt: Prorektor der Universität Hohenheim
+GUELTIG_AB: 1979
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: person
+BEZEICHNUNG: Jana Braun
+EIGENSCHAFTEN:
+  geburtsjahr: 1998
+  beruf: Fußballspielerin
+GUELTIG_AB: 1998
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: person
+BEZEICHNUNG: Marco Ehmann
+EIGENSCHAFTEN:
+  geburtsjahr: 2000
+  beruf: Fußballspieler
+GUELTIG_AB: 2000
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: ereignis_brand
+BEZEICHNUNG: Großbrand von Spaichingen (1582)
+EIGENSCHAFTEN:
+  datum: 30. März 1582
+  dauer: "etwa eine Stunde"
+  zerstoerungen: "15 schöne Häuser, 21 Scheuern, viele Schweineställe"
+  verluste_vieh: "ca. 70 Stücke Rindvieh, 8 Pferde, viele Ziegen und Schafe"
+  grund_feuersbrunst: nicht genannt
+GUELTIG_AB: 1582
+GUELTIG_BIS: 1582
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ereignis_pest
+BEZEICHNUNG: Pest-Epidemie (1530)
+EIGENSCHAFTEN:
+  jahr: 1530
+  auswirkungen: "traf den Ort und die Umgebung hart"
+GUELTIG_AB: 1530
+GUELTIG_BIS: 1530
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: ereignis_dreissigjaehriger_krieg
+BEZEICHNUNG: Kriegsfolgen im Dreißigjährigen Krieg
+EIGENSCHAFTEN:
+  auswirkungen_demografisch: "Zahl der Einwohner schrumpfte auf unter die Hälfte des Vorkriegsstands"
+  brand_kirche: "1633 Schweden brannten die Pfarrkirche und Pfarrhaus ab"
+  verlust_archiv: "sämtliche Kirchenbücher und Urkunden aus Zeit davor verloren"
+GUELTIG_AB: (1633 Brand)
+GUELTIG_BIS: (1648 Kriegsende)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ereignis_hambacher_fest
+BEZEICHNUNG: "Kleines Hambacher Fest" (7. Juli 1832)
+EIGENSCHAFTEN:
+  datum: 7. Juli 1832
+  ort: Dreifaltigkeitsberg
+  beschreibung: "Zusammenkunft, an der viele Leute aus der ganzen Umgebung teilnahmen"
+  grund: "Reaktion der 30er Jahre, wo alles nach Freiheit schrie"
+  polizei_reaktion: "Die Polizei bekam Wind von der Sache"
+  kontext: "Reaktion der 30er Jahre" (Restauration nach Napoleonischen Kriegen)
+GUELTIG_AB: 1832
+GUELTIG_BIS: 1832
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: ereignis_volksversammlung
+BEZEICHNUNG: Volksversammlung im Mai 1848
+EIGENSCHAFTEN:
+  datum: Mai 1848
+  ort: vor dem Rathaus Spaichingen
+  beschreibung: "Rathaussaal-Fenster als Rednerpult"
+  beschluesse: "Freiheit nicht durch gewaltsame Republik, sondern konstitutionelle Monarchie auf Boden des Gesetzes und der Ordnung"
+  unterordnung: "Beschlüsse der konstituierenden Nationalversammlung unterworfen"
+GUELTIG_AB: 1848
+GUELTIG_BIS: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: ereignis_kz_lager
+BEZEICHNUNG: Außenlager KZ Natzweiler-Struthof Spaichingen
+EIGENSCHAFTEN:
+  betrieb: "26. September 1944 bis 18. April 1945"
+  uebergeordnet: "Lager in Schömberg"
+  verpflegung_quelle: "vom übergeordneten Lager Schömberg"
+  lager_klassifikation: nicht zu sogenannten "Wüste-Lagern"
+  betreiber_fabrik: "Waffenfabrik Mauser (Oberndorf) unter Tarnnamen Metallwerke Spaichingen"
+  insassen: "Hunderte Frauen und Männer nach Deutschland verschleppt"
+  todesopfer: "mindestens 96 kamen dabei ums Leben"
+  lagerkommandanten: "Werner Halter (nicht angeklagt), Helmut Schnabel (6 Jahre Zuchthaus wegen versuchten Mordes)"
+  mahnmal_errichtung: "24. November 1963"
+  mahnmal_kuenstler: "Bildhauer Roland Martin"
+  mahnmal_ort: "an der Bahnstrecke Plochingen–Immendingen"
+  aufloesung: 18. April 1945
+  evakuierung: "rund 400 Häftlinge auf etwa 10-tägigen Marsch Richtung Allgäu"
+  marsch_verluste: "nur etwa die Hälfte erreichte Ende des Marsches in Füssen"
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: fabrik
+BEZEICHNUNG: Metallwerke Spaichingen (Tarname)
+EIGENSCHAFTEN:
+  mutterunternehmen: Waffenfabrik Mauser (Oberndorf)
+  tarnnamen: Metallwerke Spaichingen
+  zeitraum: NS-Zeit (1944-1945)
+  folgeobjekt: Außenlager KZ Natzweiler-Struthof
+  arbeiter: Zwangsarbeiter (Frauen und Männer)
+  produktion: (nicht genauer genannt, aber Mauser-Produktion)
+GUELTIG_AB: (NS-Zeit, 1944-1945)
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: SORA (Textilunternehmen)
+EIGENSCHAFTEN:
+  betriebszeit: 1947-1986
+  branche: Textilunternehmen
+  spezialisierung: Damenoberbekleidung
+  gebaeude_besonderheit: "futuristischer Bau auf neun Stelzen zur Präsentation neuer Kollektionen"
+  gebaeude_bauzeit: "frühe 1980er Jahre"
+GUELTIG_AB: 1947
+GUELTIG_BIS: 1986
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Altes Industriegebiet Spaichingen
+EIGENSCHAFTEN:
+  lage: "südlicher Rand"
+  entwicklung_danach: neues großes Gewerbegebiet entstanden
+  zeitraum_expansion: "seit Ende der 1970er Jahre"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Neues Gewerbegebiet Spaichingen
+EIGENSCHAFTEN:
+  lage: "südlicher Rand des alten Industriegebiets"
+  groesse: großfläching
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: stadtgebiet_expansion
+BEZEICHNUNG: Stadtgebiet-Expansion Spaichingen (seit Ende 1970er)
+EIGENSCHAFTEN:
+  altes_stadtzentrum: "hinteren Primtal bis in die Stufenrandbucht"
+  expansionsrichtung: "Norden und Nordwesten"
+  bestandteile_expansion: "großflächige Neubauviertel"
+  zeitraum: "seit Ende der 1970er Jahre"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: geschaeftsfeld
+BEZEICHNUNG: Florettspinnerei Spaichingen
+EIGENSCHAFTEN:
+  existenz_ab: 1768
+  lage: "am Ort"
+GUELTIG_AB: 1768
+GUELTIG_BIS: (später Seidenspinnerei ergänzt)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: geschaeftsfeld
+BEZEICHNUNG: Seidenspinnerei Spaichingen
+EIGENSCHAFTEN:
+  kommt_hinzu_zeit: "später nach Florettspinnerei"
+  lage: "am Ort"
+GUELTIG_AB: (später 18./19. Jahrhundert)
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ENTITÄT: amt
+BEZEICHNUNG: Oberamt Spaichingen
+EIGENSCHAFTEN:
+  einrichtung_jahr: 1806
+  grund: "Nach Friedens von Pressburg 1805 kam Spaichingen zum Kurfürstentum Württemberg, 1806 Königreich erhoben"
+  sitz_oberamtsstadt: Spaichingen wurde Sitz des gleichnamigen Oberamtes
+GUELTIG_AB: 1806
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: titel_stadt
+BEZEICHNUNG: Stadtrecht Spaichingen
+EIGENSCHAFTEN:
+  erhaeltnis_zum_oberamt: "Oberamtsstadt" (seit 1806)
+  offizielle_stadterhoebung: 1828
+GUELTIG_AB: 1828
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ereignis_ns_zeit
+BEZEICHNUNG: Gebietsreform NS-Zeit (1934-1938)
+EIGENSCHAFTEN:
+  kreis_alt: "Kreis Spaichingen" (ab 1934 so genannt)
+  aufloesung_kreis: 1938
+  folge: "kam zum neuen Landkreis Tuttlingen"
+GUELTIG_AB: 1934
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ereignis_nachkriegs
+BEZEICHNUNG: Französische Besatzungszone (1945)
+EIGENSCHAFTEN:
+  jahr: 1945
+  status: "Stadt Teil der Französischen Besatzungszone"
+GUELTIG_AB: 1945
+GUELTIG_BIS: (1947)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: ereignis_nachkriegs
+BEZEICHNUNG: Zuordnung Württemberg-Hohenzollern (1947)
+EIGENSCHAFTEN:
+  jahr: 1947
+  folge: "neu gegründetes Land Württemberg-Hohenzollern"
+  aufgang: "1952 im Land Baden-Württemberg aufgegangen"
+GUELTIG_AB: 1947
+GUELTIG_BIS: 1952
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ereignis_nachkriegs
+BEZEICHNUNG: Kreisreform 1973
+EIGENSCHAFTEN:
+  aenderung: "Spaichingen wechselte als Teil Landkreis Tuttlingen vom Regierungsbezirk Südwürttemberg-Hohenzollern zum Regierungsbezirk Freiburg"
+GUELTIG_AB: 1973
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ereignis_urkundlich
+BEZEICHNUNG: Erste urkundliche Erwähnung Spaichingen (791)
+EIGENSCHAFTEN:
+  datum: 15. November 791
+  dokumenttyp: Schenkungsurkunde
+  adressat: Kloster St. Gallen
+  schenker: (nicht namentlich genannt)
+  inhalt: "Wiese, Ackerland, drei Hörige als Schenkung"
+  urkundentext: "Speichingas" erwähnt
+  bedeutung: "Spaichingen" erstmals urkundlich erwähnt
+GUELTIG_AB: 791
+GUELTIG_BIS: 791
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_amt
+BEZEICHNUNG: Villa publica (öffentlicher Verwaltungsort) Spaichingen (802/803)
+EIGENSCHAFTEN:
+  urkunde_datum: "16. Juni 802/803"
+  aussteller: Mönch Heio
+  beschreibung_villa_publica: "Amtshof oder Verwaltungsmittelpunkt"
+  bedeutung: "Spaichingen war zentraler öffentlicher Verwaltungsort im Frühmittelalter"
+  strasse_koenig: "an königsschutz stehende öffentliche Straße (via publica) von Rottweil über Rietheim nach Tuttlingen"
+  urkunde_beleg: "Urkunde I 351 Stiftsarchiv Kloster St. Gallen vom 1. Oktober 834"
+GUELTIG_AB: 802
+GUELTIG_BIS: (historisch)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ereignis_kaiserlich
+BEZEICHNUNG: Kaisererlass Ludwig der Fromme (4. Juni 817)
+EIGENSCHAFTEN:
+  datum: 4. Juni 817
+  kaiser: Ludwig der Fromme
+  beschluess: "schenkte Kloster St. Gallen die bisher Grafen zustehenden Einkünfte aus 47 Mansen auf Baar und Bodenseeraum"
+  betroffen_spaichingen: "drei Mansen aus Spaichingen gehörten zu Grafen Otto, Waramann und Adalmar"
+  bedeutung: "explizite Erwähnung Spaichingens"
+GUELTIG_AB: 817
+GUELTIG_BIS: 817
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: herrschaft
+BEZEICHNUNG: Hoheitsrechte Spaichingen (Hohenberg-Grafschaft)
+EIGENSCHAFTEN:
+  besitzer: Grafen von Hohenberg
+  zeitraum: Mittelalter
+  verkauf_jahr: 1381
+  verkaeufer: "Graf Rudolf III. (gestorben 1389)"
+  kaeufer: "Herzog Leopold III. von Habsburg"
+  folge_verkauf: "Spaichingen wurde für über 400 Jahre österreichisch"
+  administrative_zuordnung: "vorderösterreichisches Oberamt Rottenburg"
+  obervogtei: "Obervogtei Oberhohenberg mit Sitz in Fridingen"
+GUELTIG_AB: (Mittelalter)
+GUELTIG_BIS: 1381
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: zeitraum_oesterreich
+BEZEICHNUNG: Österreichische Herrschaft Spaichingen (1381-1805)
+EIGENSCHAFTEN:
+  laengen_zeitraum: "über 400 Jahre"
+  beginn: 1381
+  ende: 1805
+  grund_ende: "Friedens von Pressburg"
+  folge: "Kurfürstentum Württemberg (1805), dann Königreich (1806)"
+GUELTIG_AB: 1381
+GUELTIG_BIS: 1805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ereignis_wirtschaft
+BEZEICHNUNG: Wirtschaftliche Entwicklung Spaichingen (ca. 1800)
+EIGENSCHAFTEN:
+  zeitpunkt: "um 1800"
+  status: "Spaichingen war sowohl politisch als auch wirtschaftlich eindeutiges Zentrum von Oberhohenberg"
+  infrastruktur: "Florettspinnerei (ab 1768), Seidenspinnerei"
+GUELTIG_AB: (17./18. Jahrhundert)
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: ereignis_gesundheit
+BEZEICHNUNG: Plünderungen und Brandschatzungen (mittelalterlich)
+EIGENSCHAFTEN:
+  grund: "strategisch günstige Lage Spaichingens"
+  ereignis: "viele Truppendurchzüge"
+  folge: "Plünderungen und Brandschatzungen"
+GUELTIG_AB: (Mittelalter, bis Frühe Neuzeit)
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: gewerbe
+BEZEICHNUNG: Wochenmarkt und Jahrmarkt (1623)
+EIGENSCHAFTEN:
+  recht_verleihung: 1623
+  beschreibung: "Spaichingen erhielt das Recht, Wochenmarkt und Jahrmarkt abzuhalten"
+  beschreibung_stadt: "Hauptflecken im Oberhohenbergischen"
+  funktionen_stadt: "Justicia gehalten, Maleficanten hingerichtet, Kontributionskasse, Fahne, Privilegien, Siegel der oberen Herrschaft Hohenberg aufbewahrt"
+GUELTIG_AB: 1623
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ereignis_verwaltung
+BEZEICHNUNG: Sitz des Obervogts Oberhohenberg (1688)
+EIGENSCHAFTEN:
+  jahr: 1688
+  funktion: "Spaichingen wurde Sitz des Obervogts für Oberhohenberg"
+  kontext: "Nach Rückgang der Bevölkerung im Dreißigjährigen Krieg"
+GUELTIG_AB: 1688
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: ereignis_verwaltung
+BEZEICHNUNG: Landschaftsversammlung Oberhohenberg in Spaichingen
+EIGENSCHAFTEN:
+  zeitraum: "seit Spätmittelalter"
+  beschreibung: "Sitz der Landschaftsversammlung der Landschaft Oberhohenberg"
+  organsiation: "genossenschaftlicher Verband aller Gemeinden der österreichischen Grafschaft Hohenberg"
+  verhandlung_1517: "Wehingen wollte jährliche Rotationen mit Spaichingen; Rottenburger Hofgericht entschied für permanente Lage in Spaichingen"
+  grund_entscheidung: "Spaichingen größer, namhaffter, volksmächtiger als andere Dörfer"
+GUELTIG_AB: (Spätmittelalter)
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: zentrum
+BEZEICHNUNG: Tourismusverband Donaubergland
+EIGENSCHAFTEN:
+  mitglied: Spaichingen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ENTITÄT: berechnung_wirtschaft
+BEZEICHNUNG: Gewerbesteuer Spaichingen (2022)
+EIGENSCHAFTEN:
+  einnahmen_jahr: 2022
+  betrag: "11,68 Millionen Euro"
+  hebesatz_gemeinde: "340%"
+  vergleich_deutschlandsdurchschnitt: "407% (Stand: 2023)"
+  position_gemeinde: "unter deutschem Durchschnitt"
+GUELTIG_AB: 2022
+GUELTIG_BIS: (Bezugsjahr 2022)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8

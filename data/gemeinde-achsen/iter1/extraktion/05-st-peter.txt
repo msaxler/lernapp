@@ -1,0 +1,844 @@
+ENTITÄT: ort
+BEZEICHNUNG: St. Peter
+EIGENSCHAFTEN:
+  bundesland: Baden-Württemberg
+  landkreis: Breisgau-Hochschwarzwald
+  naturpark: Südschwarzwald
+  ist_luftkurort: true
+  entfernung_freiburg_km: 14
+  lage_gelaendehöhe_min_m: 519
+  lage_gelaendehöhe_max_m: 1228
+  lage_zentrum_m: 720
+  ist_zähringergemeinde: true
+  zusatzbezeichnung_zähringergemeinde: seit 1. Januar 2022
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster St. Peter auf dem Schwarzwald
+EIGENSCHAFTEN:
+  gründer: Zähringerherzog Berthold II.
+  grund: als Hauskloster und Begräbnisstätte gegründet
+  funktion_früher: Begräbnisstätte
+  nutzung_ab_1941: Umsiedlerlager der Volksdeutschen Mittelstelle
+GUELTIG_AB: 1093
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Peter und Paul
+EIGENSCHAFTEN:
+  architekturstil: Barock
+  ist_ehemalige_klosterkirche: true
+  erbauer: Peter Thumb
+  erbauer_herkunft: Vorarlberg
+  bauzeit: 1724-1727
+  ausstatter_gemälde: Franz Joseph Spiegler
+  ausstatter_figuren: Joseph Anton Feuchtmayer
+  besonderheit: barocke Orgeluhr
+  superlativ: herausragendes Gebäude des Dorfes
+GUELTIG_AB: 1724
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ENTITÄT: klosterbibliothek
+BEZEICHNUNG: Klosterbibliothek des Klosters St. Peter
+EIGENSCHAFTEN:
+  stil: Rokoko
+  ausstattung_deckengemälde: Benedikt Gambs
+  deckengemälde_jahr: 1751
+  ausstattung_figuren_künstler: Matthias Faller
+  figuren_modelle_von: Johann Christian Wentzinger
+  figuren_modelle_jahr: 1752
+  superlativ: besonders sehenswert im Stil des Rokoko
+GUELTIG_AB: 1752
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapelle St. Ursula
+EIGENSCHAFTEN:
+  beschreibung: kleine Kirche
+  architekturstil: Barock
+  weihe_jahr: 1725
+  ursprung: auf Gelübde zurückgehend mit Bezug zur Erhaltung des Klosters
+  heutige_nutzung: Evangelische Kirchengemeinde Kirchzarten-Stegen
+GUELTIG_AB: 1725
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ENTITÄT: wallfahrtskirche
+BEZEICHNUNG: Wallfahrtskirche Maria Lindenberg
+EIGENSCHAFTEN:
+  höhe_m: 813.7
+  nebengebäude: Begegnungs-, Tagungs- und Erholungsstätte des Erzbistums Freiburg
+  nebengebäude_typ: Pilgergaststätte
+  wallfahrt_besteht_seit: über 500 Jahren
+GUELTIG_AB: 500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: kapelle
+DESIGNNUNG: Vogesen-Kapelle
+EIGENSCHAFTEN:
+  typ_spezifisch: Votivkapelle
+  lage: Panorama-Wanderweg zwischen St. Peter und St. Märgen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapfen-Kapelle
+EIGENSCHAFTEN:
+  typ_spezifisch: Votivkapelle
+  lage: Panorama-Wanderweg zwischen St. Peter und St. Märgen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: technisches_denkmal
+BEZEICHNUNG: Urgraben / Wuhr-Urgraben(-weg)
+EIGENSCHAFTEN:
+  gemarkungen: St. Peter, Glottertal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Gottfried Rohrer
+EIGENSCHAFTEN:
+  partei: CDU
+  amtszeit: 1984-2008
+  geb_jahr: 1947
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Rudolf Schuler
+EIGENSCHAFTEN:
+  amtszeit: 2008-2024
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Charly Gnant
+EIGENSCHAFTEN:
+  amtszeit_beginn_jahr: 2024
+  wahl_stimmenzahl_prozent: 88.5
+  amtsantritt_datum: 2024-12-17
+  wahlbeteiligung_prozent: 44.8
+  wahltyp: einziger Kandidat
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.97
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Brand in der Ortsmitte von St. Peter
+EIGENSCHAFTEN:
+  jahr: 1899
+  zerstörte_wohnhäuser: 23
+  obdachlos: 150
+  beschreibung: Brand, der 23 Wohnhäuser zerstörte und 150 Menschen obdachlos machte
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.97
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Schlacht bei St. Peter
+EIGENSCHAFTEN:
+  datum: 1644-08-10
+  krieg: Dreißigjähriger Krieg
+  beteiligte: kaiserliche Truppen, bayerische Truppen, französische Truppen
+GUELTIG_AB: 1644
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Ebersmunster
+EIGENSCHAFTEN:
+  region: Elsass, Frankreich
+  partnerschaft_seit: 1963
+  typ: französische Partnergemeinde
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.97
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Schmölln-Putzkau
+EIGENSCHAFTEN:
+  region: Sachsen, Deutschland
+  partnerschaft_seit: 1990
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.97
+---
+ENTITÄT: gemeinderat
+EIGENSCHAFTEN:
+  anzahl_mitglieder: 12
+  vorsitzender_titel: Bürgermeister
+  wahlbeteiligung_2014_prozent: 61.6
+  wahlbeteiligung_2019_prozent: 68.0
+  wahlbeteiligung_2019_frauen_gewählt: 2
+  wahlbeteiligung_2024_prozent: 73.6
+  wahlbeteiligung_2024_männer_gewählt: 9
+  wahlbeteiligung_2024_frauen_gewählt: 3
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.97
+---
+ENTITÄT: schule
+BEZEICHNUNG: Abt-Steyrer-Schule
+EIGENSCHAFTEN:
+  schultyp: Grund- und Hauptschule mit Werkrealschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: musikschule
+BEZEICHNUNG: Musicosophia-Musikschule
+EIGENSCHAFTEN:
+  gründer: George Bălan
+  fokus: Förderung des bewussten Musikhörens
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: volkshochschule
+EIGENSCHAFTEN:
+  außenstelle_standort: St. Peter
+  träger: Volkshochschule Dreisamtal
+  träger_sitz: Kirchzarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: bioenergiedorf
+EIGENSCHAFTEN:
+  rangplatz: 16
+  rangplatz_raum: Baden-Württemberg
+  energieproduktion_solar: ja
+  energieproduktion_wind: ja
+  energiequelle_heizwerk: Holzpellets und Holzhackschnitzel
+  eigenversorgung: mehr Strom als lokal verbraucht
+  fernwärmebetrieb: ja
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: stausee
+BEZEICHNUNG: Plattensee
+EIGENSCHAFTEN:
+  betreiber: Zweribachwerk
+  gemarkungsgrenze: Simonswald
+  lage: Rande der Platte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: landschaftsschutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet St. Peter, St. Märgen
+EIGENSCHAFTEN:
+  abdeckung_gemeinde: nahezu vollständig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: vogelschutzgebiet
+BEZEICHNUNG: Mittlerer Schwarzwald
+EIGENSCHAFTEN:
+  europäisch_ausgewiesen: true
+  gemarkung_abdeckung: kleine Teil
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Häuslematt
+EIGENSCHAFTEN:
+  gemarkung_abdeckung: kleine Teil
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Zweribach
+EIGENSCHAFTEN:
+  gemarkung_abdeckung: kleine Teil
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: ffh_gebiet
+BEZEICHNUNG: FFH-Gebiet Kandelwald, Roßkopf und Zartener Becken
+EIGENSCHAFTEN:
+  entlang_gewässer: Glotter, Ibenbach und Zuflüsse
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: naturdenkmäler
+EIGENSCHAFTEN:
+  anzahl: 56
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: geotope
+EIGENSCHAFTEN:
+  anzahl: 3
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: fördergebiet
+BEZEICHNUNG: Fördergebiet Wolfsprävention Schwarzwald
+EIGENSCHAFTEN:
+  umfang: gesamter Naturraum Schwarzwald
+  funktion_herdenschutz: finanzielle Förderung von Herdenschutzmaßnahmen
+  funktion_ausgleich: Ausgleichszahlungen bei Schäden durch Wolfsübergriffe
+  finanzierung: Ministerium für Umwelt, Klima und Energiewirtschaft Baden-Württemberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: initiative
+BEZEICHNUNG: Initiative Motorradlärm
+EIGENSCHAFTEN:
+  mitglieder_typ: Städte, Gemeinden, Landkreise, Verkehrsministerium Baden-Württemberg
+  ziel: wirkungsvolle Reduzierung von Motorradlärm
+  mitglied_st_peter: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Timotheus Knittel
+EIGENSCHAFTEN:
+  geb_jahr: 1812
+  st_jahr: 1887
+  funktion: Regens
+  ehrenbürger_datum: 1879-01-24
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Nikolaus Gihr
+EIGENSCHAFTEN:
+  geb_jahr: 1839
+  st_jahr: 1924
+  funktion: Subregens
+  ehrenbürger_jahr: 1916
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Benedikt Kreutz
+EIGENSCHAFTEN:
+  geb_jahr: 1879
+  st_jahr: 1949
+  funktion: Präsident des Deutschen Caritasverbandes
+  funktion_detail: zweiter Präsident
+  ehrenbürger_datum: 1949-01-15
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Ansgar Baumeister
+EIGENSCHAFTEN:
+  geb_jahr: 1873
+  st_jahr: 1950
+  funktion: Regens
+  ehrenbürger_monat_jahr: 1949-10
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Albert Füssinger
+EIGENSCHAFTEN:
+  geb_jahr: 1913
+  st_jahr: 1996
+  funktion: Regens
+  ehrenbürger_monat_jahr: 1969-07
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Oskar Saier
+EIGENSCHAFTEN:
+  geb_jahr: 1932
+  st_jahr: 2008
+  funktionen: Weihbischof, Regens, Erzbischof von Freiburg
+  amtszeit_erzbischof: 1978-2002
+  ehrenbürger_monat_jahr: 1977-09
+  kontroverse_2023: Distanzierung und Verurteilung durch Gemeinderat nach Missbrauchsbericht
+  kontroverse_beschluss_datum: 2023-07-03
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Klaus Stadel
+EIGENSCHAFTEN:
+  geb_jahr: 1939
+  funktionen: Domkapitular, ehemaliger Regens
+  ehrenbürger_datum: 1992-02-16
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Klaus Weber
+EIGENSCHAFTEN:
+  geb_jahr: 1928
+  st_jahr: 2007
+  funktionen: Ortschronist, Ratschreiber i.R.
+  ehrenbürger_datum: 1998-12-06
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Gottfried Rohrer
+EIGENSCHAFTEN:
+  geb_jahr: 1947
+  funktion: Bürgermeister von St. Peter
+  amtszeit_bürgermeister: 1984-2008
+  ehrenbürger_datum: 2008-12-14
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Hans-Otto Mühleisen
+EIGENSCHAFTEN:
+  geb_jahr: 1941
+  funktion: Politikwissenschaftler
+  ehrenbürger_datum: 2019-11-07
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Georg Saum
+EIGENSCHAFTEN:
+  geb_jahr: 1736
+  st_jahr: 1790
+  tätigkeit: Maler
+  kunstrichtung: später Barock
+  herkunft: Sohn der Gemeinde
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Raphael von Weinzierl
+EIGENSCHAFTEN:
+  geb_jahr: 1782
+  st_jahr: 1864
+  tätigkeit: württembergischer Oberamtmann
+  herkunft: Sohn der Gemeinde
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Dominik Weber
+EIGENSCHAFTEN:
+  geb_jahr: 1819
+  st_jahr: 1887
+  tätigkeit: Maler
+  herkunft: Sohn der Gemeinde
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Wilhelm Schmidle
+EIGENSCHAFTEN:
+  geb_jahr: 1860
+  st_jahr: 1951
+  tätigkeit: Lehrer, Algen-Experte, Geologe
+  funktion: Direktor im Internat Salem
+  herkunft: Sohn der Gemeinde
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ignaz Tenckhoff
+EIGENSCHAFTEN:
+  geb_jahr: 1898
+  st_jahr: 1987
+  tätigkeit: Mediziner, Kommunalpolitiker
+  herkunft: Sohn der Gemeinde
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Josef "Sepp" Maier
+EIGENSCHAFTEN:
+  geb_jahr: 1935
+  st_jahr: 2012
+  tätigkeit: Skilangläufer
+  herkunft: Sohn der Gemeinde
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Leonie Walter
+EIGENSCHAFTEN:
+  geb_jahr: 2004
+  tätigkeit: Athletin
+  erfolge: mehrfache Goldmedaillengewinnerin im Biathlon
+  herkunft: Tochter der Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ludwig Armbruster
+EIGENSCHAFTEN:
+  geb_jahr: 1886
+  st_jahr: 1973
+  tätigkeit: Priester, Bienenkundler
+  position: Direktor des Instituts für Bienenkunde in Berlin
+  arbeit_mit: hiesiger Imkerverein im Edelzuchtgebiet Platte
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Georg von Sachsen
+EIGENSCHAFTEN:
+  geb_jahr: 1893
+  st_jahr: 1943
+  titel: letzter Kronprinz des Königreichs Sachsen
+  superlativ: letzter Kronprinz des Königreichs Sachsen
+  bezug_st_peter: 1923/1924 Seminarist in St. Peter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Valentin Schweiger
+EIGENSCHAFTEN:
+  geb_jahr: 1900
+  st_jahr: 1990
+  funktion: Alleinlehrer der Einklassenschule im Ortsteil Sägendobel
+  amtszeit: 1937-1950
+  spätere_laufbahn: SPD-Landtagsabgeordneter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Manfred Herrmann
+EIGENSCHAFTEN:
+  geb_jahr: 1932
+  st_jahr: 2012
+  tätigkeit: Pharmakologe
+  erfindungen: Medikament Valoron und andere zugelassene Medikamente
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Edmund Kösel
+EIGENSCHAFTEN:
+  geb_jahr: 1935
+  st_jahr: 2023
+  tätigkeit: Pädagoge
+  position: Professor für Schulpädagogik und Gruppenpädagogik
+  affiliation: Pädagogische Hochschule Freiburg im Breisgau
+  wohnort: St. Peter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ENTITÄT: filmproduktion
+BEZEICHNUNG: Schwarzwaldmädel
+EIGENSCHAFTEN:
+  genre: Spielfilm
+  superlativ: erster deutscher Nachkriegs-Farbfilm
+  drehorte_typ: Außenaufnahmen
+  drehort: St. Peter
+  drehdatum: 1950-05
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ENTITÄT: filmproduktion
+BEZEICHNUNG: Schwarzwaldmädel (Fernsehfassung)
+EIGENSCHAFTEN:
+  medium: Fernsehen
+  drehort: St. Peter (mehrere Szenen)
+  drehjahr: 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: filmproduktion
+BEZEICHNUNG: Schwarzwaldfahrt aus Liebeskummer
+EIGENSCHAFTEN:
+  drehort: St. Peter
+  drehjahr: 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: wanderweg
+BEZEICHNUNG: Kandelhöhenweg
+EIGENSCHAFTEN:
+  startpunkt: Oberkirch (Baden)
+  endpunkt: Freiburg im Breisgau
+  durchführung: St. Peter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: mountainbikestrecke
+BEZEICHNUNG: Bike-Crossing Schwarzwald
+EIGENSCHAFTEN:
+  beschreibung: Nord-Süd-Durchquerung des Schwarzwaldes
+  gesamtlänge_km: 440
+  startpunkt: Pforzheim
+  endpunkt: Bad Säckingen
+  route: über Buchenbach und Ibental durch St. Peter weiter über Kandel nach Simonswald
+  bedeutung: ausgeschildert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Deutsche Uhrenstraße
+EIGENSCHAFTEN:
+  ortsbezug: St. Peter liegt an der Deutschen Uhrenstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: historische_wirtschaft
+BEZEICHNUNG: Schwarzwalduhren-Herstellung
+EIGENSCHAFTEN:
+  periode: vor 18. Jahrhundert
+  zeit_detail: 18. Jahrhundert ist Herstellung belegt
+  funktion: wichtiger Erwerbszweig in St. Peter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: historische_wirtschaft
+BEZEICHNUNG: Färber-Ginster-Handel
+EIGENSCHAFTEN:
+  tätigkeiten: Sammeln, Trocknen, Verkaufen
+  absatzmarkt: Seidenfärber in Basel
+  periode: 18. Jahrhundert
+  funktion: zusätzliche Einnahmequelle der Bevölkerung
+GUELTIG_AB: 1700
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: verkehrslinie
+BEZEICHNUNG: Busverkehr Südbadenbus
+EIGENSCHAFTEN:
+  anzahl_linien: 3
+  anbieter: Südbadenbus
+  haltestellen_innerhalb_gemeinde: 20
+  streckenlänge_km: 21
+  verkehrsverbund: Regio-Verkehrsverbund Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: verkehrssystem
+BEZEICHNUNG: KONUS
+EIGENSCHAFTEN:
+  zielgruppe: Übernachtungsgäste
+  leistung: kostenlose Nutzung des öffentlichen Nahverkehrs
+  geltungsbereich: Verkehrsverbünde im Schwarzwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: e-Car-Sharing-Station
+EIGENSCHAFTEN:
+  anbieter: naturenergie sharing
+  anbieter_struktur: Gemeinschaftsunternehmen von Naturenergie und Stadtmobil
+  funktion: Leih- und Ladestation
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: flughafen_nähe
+EIGENSCHAFTEN:
+  basel_km: 96
+  straßburg_km: 100
+  zürich_km: 102
+  karlsruhe_baden_baden_km: 117
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: übernachtungen
+EIGENSCHAFTEN:
+  jahr: 2022
+  gesamt: 84489
+  campingplatz: 18854
+  inland_anteil_prozent: 90
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: übernachtungen
+EIGENSCHAFTEN:
+  jahr: 2023
+  gesamt: 85375
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: kulturdenkmäler
+EIGENSCHAFTEN:
+  anzahl: über 70
+  katalog: Bau- und Kunstdenkmalpflege Baden-Württemberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: infrastruktur_siedlung
+BEZEICHNUNG: Schwarzwaldhöfe und -mühlen
+EIGENSCHAFTEN:
+  beschreibung: zahlreiche weit über die Gemarkung verstreute Schwarzwaldhöfe und -mühlen geben dem Dorf das typische Gepräge einer Hochschwarzwaldgemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: verwaltungsstruktur
+BEZEICHNUNG: Gemeindeverwaltungsverband St. Peter
+EIGENSCHAFTEN:
+  mitglieder: St. Peter, Glottertal, St. Märgen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: säkularisation
+EIGENSCHAFTEN:
+  jahr: 1806
+  beschreibung: weltliche Rechte des Klosters aufgehoben
+  folge: Dorf kam zum Großherzogtum Baden
+  benannt_nach: Grund für administrativen Wechsel war Säkularisation
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: event
+BEZEICHNUNG: Umsiedlerlager der Volksdeutschen Mittelstelle
+EIGENSCHAFTEN:
+  standort: Klostergebäude
+  zeitraum: ab Frühjahr 1941
+  kapazität: zeitweise mehrere Hundert Menschen
+  kontext: Zweiter Weltkrieg
+GUELTIG_AB: 1941
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ENTITÄT: event
+BEZEICHNUNG: Wehrertüchtigungslager der Hitlerjugend
+EIGENSCHAFTEN:
+  zeitraum: Ende Zweiter Weltkrieg
+  standort: St. Peter
+  kontext: militärische Ausbildung
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: besatzung
+EIGENSCHAFTEN:
+  zeitraum: ab 1945
+  besatzungsmacht: Französische Besatzungszone
+  verwaltungszugehörigkeit_1945: Land Südbaden bzw. Baden
+  verwaltungszugehörigkeit_ab_1952: Land Baden-Württemberg
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bürgerschaft
+EIGENSCHAFTEN:
+  typ: Dorf
+ORTSTEIL_BEZUG: Bürgerschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Sägendobel
+EIGENSCHAFTEN:
+  typ: Weiler
+ORTSTEIL_BEZUG: Sägendobel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kandelberg
+EIGENSCHAFTEN:
+  typ: Zinke
+ORTSTEIL_BEZUG: Kandelberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neuwelt
+EIGENSCHAFTEN:
+  typ: Zinke
+ORTSTEIL_BEZUG: Neuwelt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberibental
+EIGENSCHAFTEN:
+  typ: Zinke
+ORTSTEIL_BEZUG: Oberibental
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ränke
+EIGENSCHAFTEN:
+  typ: Zinke
+ORTSTEIL_BEZUG: Ränke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rohr
+EIGENSCHAFTEN:
+  typ: Zinke
+ORTSTEIL_BEZUG: Rohr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schmittenbach
+EIGENSCHAFTEN:
+  typ: Zinke
+ORTSTEIL_BEZUG: Schmittenbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schönhöfe
+EIGENSCHAFTEN:
+  typ: Zinke
+ORTSTEIL_BEZUG: Schönhöfe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Seelgut
+EIGENSCHAFTEN:
+  typ: Zinke
+ORTSTEIL_BEZUG: Seelgut
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Willmendobel
+EIGENSCHAFTEN:
+  typ: Zinke
+ORTSTEIL_BEZUG: Willmendobel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Eckpeterhof
+EIGENSCHAFTEN:
+  typ: Hof
+ORTSTEIL_BEZUG: Eckpeterhof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Langeck
+EIGENSCHAFTEN:
+  typ: Hof
+ORTSTEIL_BEZUG: Langeck
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Lindlehof
+EIGENSCHAFTEN:
+  typ: Hof
+ORTSTEIL_BEZUG: Lindlehof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: exklave
+EIGENSCHAFTEN:
+  beschreibung: Exklave im oberen Glottertal, ein bewaldetes Gebiet etwas unterhalb des Rastplatzes Ränke der Landesstraße 112 und dort direkt südlich der Glotter
+ORTSTEIL_BEZUG: Glottertal-Exklave
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80

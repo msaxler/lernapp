@@ -1,0 +1,599 @@
+ENTITÄT: ort
+BEZEICHNUNG: Renchen
+EIGENSCHAFTEN:
+  ist_stadt: true
+  land: Baden-Württemberg
+  landkreis: Ortenaukreis
+  lage: Vorbergen des nördlichen Schwarzwalds am Ausgang des Renchtals in die Oberrheinische Tiefebene
+  erste_urkundliche_erwähnung: 1115
+  erste_urkundliche_erwähnung_grund: Ersterwähnung im Urkundenwerk
+  stadtrechte_verliehen: 1326
+  stadtrechte_verloren_grund: Zerstörungen des Dreißigjährigen Kriegs führten zur Bedeutungslosigkeit
+  stadtrechte_verliehen_erneut: 1838
+  stadtrechte_verloren_erneut: 1935
+  stadtrechte_grund_1935: Neue deutsche Gemeindeordnung
+  stadtrechte_verliehen_drittes_mal: 1950
+  grund_dritte_verleihung: Historische Vergangenheit
+  sitz_kreisverwaltung_landkreis_kehl: 1945-1952
+  sitz_grund: Während französischer Besetzung Kehls nach dem Zweiten Weltkrieg
+  zeitlich_in_landkreis_kehl: bis Ende 1972
+  jetziger_landkreis_seit: 1973
+  grund_landkreiswechsel: Auflösung der Landkreise Kehl und Offenburg, Bildung Ortenaukreis
+  gemeindevereinigung_erlach_ulm: 1. Januar 1975
+  grund_gemeindevereinigung: Administrative Neugliederung
+  jubiläum_jahr: 2015
+  jubiläum_anlass: 900 Jahre seit Ersterwähnung
+  zusatzbezeichnung: Grimmelshausenstadt
+  zusatzbezeichnung_gültig_ab: 2022
+GUELTIG_AB: 1115
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Erlach
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  einwohner: 900
+  einwohner_genauigkeit: ca.
+  früher_selbständig: true
+  art_einrichtung: Ortschaft mit eigenem Ortschaftsrat und Ortsvorsteher
+  verwaltungsstelle: Ortsverwaltung Erlach
+  teil_der_stadtteil: Erlach
+  enthält_siedlungen: Dorf Erlach
+  wüstungen: Oberhof, Zöllerhöfe, Walhofen
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ulm
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  einwohner: 2030
+  einwohner_genauigkeit: ca.
+  früher_selbständig: true
+  art_einrichtung: Ortschaft mit eigenem Ortschaftsrat und Ortsvorsteher
+  verwaltungsstelle: Ortsverwaltung Ulm
+  teil_der_stadtteil: Ulm
+  enthält_siedlungen: Dorf Ulm, Zinken Kaier, Kolbenhalt, Reiersbach, Gehöft Rothof
+  lokalspezialität: Ulmer Bier, Spezialität Vollmondbier (nur Vollmondnächte)
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gemeindeteil
+BEZEICHNUNG: Maiwald
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  ist_exklave: true
+  entfernung: 7 km
+  entfernung_genauigkeit: ca.
+  richtung: nordwestlich vom Ortszentrum Renchen
+  enthält: Maiwaldsee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Heilig-Kreuz-Kirche
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  architekt: Friedrich Weinbrenner
+  baujahr: 1817
+  stil: Klassizismus
+  beschreibung: schmuckloses, geometrisch gegliedertes Gebäude
+  standort: Ortskern von Renchen
+GUELTIG_AB: 1817
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Simplicissimus-Haus
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  thema: Rezeption der Werke von Hans Jakob Christoffel von Grimmelshausen
+  superlativ: erstes und bislang einziges rezeptionsgeschichtlich angelegtes Literaturmuseum in Deutschland
+  künstler_ausstellungen: über 80 Künstler aus deutschsprachigem Raum
+  sammlung: weltweit größte Sammlung von Illustrationen zum literarischen Werk Grimmelshausens
+  gründung_jahr: 1998
+  gründung_initiator: Bürgermeister Klaus Brodbeck
+  konzeption: Martin Bircher und Christian Juranek
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: preis
+BEZEICHNUNG: Johann-Jacob-Christoph-von-Grimmelshausen-Preis
+EIGENSCHAFTEN:
+  verleihende_städte: Renchen, Gelnhausen
+  vergabe_kriterium: in deutscher Sprache erschienenes erzählerisches Werk mit bemerkenswerten Beitrag zur Auseinandersetzung mit Zeitgeschichte
+  altersbegrenzung_werk: maximal 6 Jahre alt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Grimmelshausenpark
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  lage: oberhalb des kleinen Stadtkerns Renchen
+  nutzung: Naherholung, Feste, kleinere Freilichtauftritte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: freizeitbad
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  saisonalität: Sommermonate über geöffnet
+  besucher_jährlich: über 80.000
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Erdrich Umformtechnik GmbH
+ORTSTEIL_BEZUG: Ulm
+EIGENSCHAFTEN:
+  branche: Automobilzulieferer
+  größe: größerer Betrieb
+  standort: Ortsteil Ulm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bahnhaltepunkt
+BEZEICHNUNG: Renchen
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  bahnstrecke: Mannheim–Basel
+  bedienung: stündlich Regional-Express-Züge DB Regio
+  linie: Karlsruhe–Konstanz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: tarifverbund
+BEZEICHNUNG: Tarifverbund Ortenau
+EIGENSCHAFTEN:
+  beschreibung: zuständig für Bahn- und Busverkehr in Renchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: radfernweg
+BEZEICHNUNG: Badischer Weinradweg
+EIGENSCHAFTEN:
+  start: Grenzach-Wyhlen am Hochrhein
+  ziel: Laudenbach im Norden Baden-Württembergs
+  funktion: verbindet sieben der neun badischen Weinanbaugebiete untereinander
+  durchgang_renchen: Erlach, Ulm, Mösbach, Oberachern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: radfernweg
+BEZEICHNUNG: Naturpark-Radweg Schwarzwald Mitte/Nord
+EIGENSCHAFTEN:
+  umfang: führt rund um Naturpark Schwarzwald Mitte/Nord
+  besonderheit: verläuft auf fast identischem Weg wie Badischer Weinradweg durch Erlach und Ulm, unterscheidet sich nur in Ulm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Albert Dietrich
+EIGENSCHAFTEN:
+  amtszeit: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Franz Brandstetter
+EIGENSCHAFTEN:
+  amtszeit_bis: 1969
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Erich Huber
+EIGENSCHAFTEN:
+  amtszeit: 1969-1985
+GUELTIG_AB: 1969
+GUELTIG_BIS: 1985
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Klaus Brodbeck
+EIGENSCHAFTEN:
+  amtszeit: 1985-2000
+  bedeutung: gründete das Simplicissimus-Haus
+GUELTIG_AB: 1985
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Bernd Siefermann
+EIGENSCHAFTEN:
+  amtszeit: 2001-2025
+  partei: CDU
+GUELTIG_AB: 2001
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Stephanie Bartsch
+EIGENSCHAFTEN:
+  amtszeit_ab: 2025
+  amtsantritt_monat: Februar 2025
+  partei: CDU
+  wahl_termin: 10. November 2024
+  wahl_stimmanteil: 76.8
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wappen
+EIGENSCHAFTEN:
+  blasonierung: In Silber ein rotes Kleeblattkreuz
+  stadtzugehörigkeit: Renchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ferdinand Battlehner
+EIGENSCHAFTEN:
+  beruf: Arzt, Geheimrat
+  lebensdaten: 1824-1906
+  typ: Ehrenbürger
+GUELTIG_AB: 1824
+GUELTIG_BIS: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ignaz Heim
+EIGENSCHAFTEN:
+  beruf: Musiker und Komponist
+  lebensdaten: 1818-1880
+  typ: Sohn der Stadt
+GUELTIG_AB: 1818
+GUELTIG_BIS: 1880
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Amand Goegg
+EIGENSCHAFTEN:
+  beruf: badischer Freiheitskämpfer
+  lebensdaten: 1820-1897
+  typ: Sohn der Stadt
+  ehrenburger: Ehrenbürger der Stadt Genf
+  verheiratet_mit: Marie Goegg-Pouchoulin (Frauenrechtlerin)
+GUELTIG_AB: 1820
+GUELTIG_BIS: 1897
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Camill Schaible
+EIGENSCHAFTEN:
+  beruf: Oberst und Militärschriftsteller
+  lebensdaten: 1837-1906
+  typ: Sohn der Stadt
+GUELTIG_AB: 1837
+GUELTIG_BIS: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Gottlob Barth
+EIGENSCHAFTEN:
+  beruf: Landrat und Bürgermeister
+  lebensdaten: 1884-1958
+  typ: Sohn der Stadt
+GUELTIG_AB: 1884
+GUELTIG_BIS: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Erich Konrad
+EIGENSCHAFTEN:
+  beruf: Chemiker
+  arbeitgeber: I.G. Farben Werke in Leverkusen
+  forschungsgebiet: Synthesekautschuk
+  lebensdaten: 1894-1975
+  typ: Sohn der Stadt
+GUELTIG_AB: 1894
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Albert Karl Krautheimer
+EIGENSCHAFTEN:
+  beruf: katholischer Priester, Schriftsteller, Redakteur des Konradsblattes
+  lebensdaten: 1905-1966
+  typ: Sohn der Stadt
+GUELTIG_AB: 1905
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Michael Speier
+EIGENSCHAFTEN:
+  beruf: Autor, Übersetzer, Literaturwissenschaftler und Herausgeber
+  lebensdaten_ab: 1950
+  typ: Sohn der Stadt
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Martin Knosp
+EIGENSCHAFTEN:
+  beruf: Ringer
+  lebensdaten_ab: 1959
+  typ: Sohn der Stadt
+  superlativ: Weltmeister 1981
+  olympisch_erfolg: Silbermedaillengewinner 1984 in Los Angeles
+GUELTIG_AB: 1959
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Erwin Knosp
+EIGENSCHAFTEN:
+  beruf: Ringer
+  lebensdaten_ab: 1961
+  typ: Sohn der Stadt
+  erfolg: mehrfacher deutscher Meister und Olympiateilnehmer
+GUELTIG_AB: 1961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Norbert Dobeleit
+EIGENSCHAFTEN:
+  beruf: Leichtathlet
+  lebensdaten_ab: 1964
+  typ: Sohn der Stadt
+  olympisch_erfolg: Medaillengewinner bei Olympischen Spielen 1988 in Seoul
+GUELTIG_AB: 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Holger Nell
+EIGENSCHAFTEN:
+  beruf: Jazzmusiker
+  lebensdaten_ab: 1966
+  typ: Sohn der Stadt
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hans Jakob Christoffel von Grimmelshausen
+EIGENSCHAFTEN:
+  lebensdaten: 1622-1676
+  bekanntheit: Autor des Werks "Abenteuerlichen Simplicissimus"
+  verbindung_renchen: bischöflich straßburgischer Schultheiß von Renchen
+  verbindung_grund: Amt des Schultheißen
+GUELTIG_AB: 1667
+GUELTIG_BIS: 1676
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: zeitung
+BEZEICHNUNG: Acher- und Bühler Bote
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  typ: Lokalausgabe
+  mutterblatt: Badische Neuesten Nachrichten (Karlsruhe)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: zeitung
+BEZEICHNUNG: Acher-Rench-Zeitung
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  typ: Lokalzeitung
+  verlag: Reiff-Gruppe (Offenburg)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: zeitschrift
+BEZEICHNUNG: Stattzeitung für Südbaden
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  zielgruppe: alternative Szene Süd- und Mittelbadens
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Grimmelshausenschule
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  typ: Grund-, Haupt- und Realschule mit angegliederten Werkrealschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: einrichtung
+BEZEICHNUNG: Baden-Württembergischer Landesverband für Prävention und Rehabilitation e.V.
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  sitz: Renchen
+  mission: Landeseinrichtung der Suchtkrankenhilfe
+  gegründet: 1919
+  gründung_ursprünglicher_name: Badischer Landesverband gegen den Alkoholismus e.V.
+  grund_gründung: Bekämpfung des Alkoholismus als gesellschaftliches Problem
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Meteoritenfall EN100718 Renchen
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  datum: 10. Juli 2018
+  uhrzeit: 23:30 Uhr MESZ
+  typ: Feuerkugel (sehr heller Meteor)
+  sichtungsgebiet: Mittelrhein, deutsch-französische Grenze, Baden-Württemberg, Rheinland-Pfalz, Elsass, Lothringen
+  fund_zeitraum: 24. Juli 2018 - 23. Februar 2019
+  fund_bilanz: fünf Rohstücke und etliche Fragmente
+  superlativ: erster gesicherter Meteoritenfall in Baden-Württemberg
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Meteorit von Ortenau 1671
+EIGENSCHAFTEN:
+  datum: 27. Februar 1671
+  ort: Ortenau
+  gewicht: 10 Pfund
+  gewicht_genauigkeit: ca.
+  status: nicht wissenschaftlich untersucht, kein Material erhalten
+  genauigkeit_quellenangabe: vermutlich, historischer Bericht
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Achern
+EIGENSCHAFTEN:
+  lage: grenzt im Norden an Renchen
+  typ: Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Kappelrodeck
+EIGENSCHAFTEN:
+  lage: grenzt im Osten an Renchen
+  typ: Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Oberkirch
+EIGENSCHAFTEN:
+  lage: grenzt im Süden an Renchen
+  typ: Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Appenweier
+EIGENSCHAFTEN:
+  lage: grenzt im Südwesten an Renchen
+  typ: Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Rheinau
+EIGENSCHAFTEN:
+  lage: grenzt im äußersten Nordwesten an Renchen
+  typ: Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bundesstraße 3
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  verlauf: Buxtehude–Weil am Rhein, verläuft durch Renchen
+  funktion: Anbindung an Bundesautobahn 5
+  anschlussstellen: Achern und Appenweier
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

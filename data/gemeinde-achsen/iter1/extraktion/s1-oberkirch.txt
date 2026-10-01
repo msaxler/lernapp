@@ -1,0 +1,2050 @@
+ENTITÄT: ort
+BEZEICHNUNG: Oberkirch
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  bundesland: Baden-Württemberg
+  region: Westen Baden-Württembergs
+  entfernung_offenburg: 12 Kilometer nordöstlich
+  landkreis: Ortenaukreis
+  rang_im_landkreis: fünftgrößte Stadt
+  mittelbereich: Offenburg
+  oberzentrum: Offenburg
+  lage_geografisch: am Rande der Oberrheinischen Tiefebene am Eingang des Renchtals in den Schwarzwald
+  ist_kreisstadt: false
+  ist_große_kreisstadt: true
+  verwaltungsgemeinschaft_partner: Renchen, Lautenbach
+  gemarkung_exklaven: zwei Exklaven in der nördlichen Ortenau im Maiwald
+GUELTIG_AB: 2004
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: fluss
+BEZEICHNUNG: Rench
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  herkunft: Schwarzwald
+  verlauf_richtung: von Südosten nordwestlich durch Kernstadt
+  lage_altstadt: am rechten Ufer der Altstadt
+  durchfließt_stadtteil: Stadelhofen
+  zielrichtung: Rhein
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Bottenau
+ORTSTEIL_BEZUG: Bottenau
+EIGENSCHAFTEN:
+  gemeinde_status_ab_1935: selbständige Gemeinde
+  ersterwähnung: 1296
+  ersterwähnung_name: Botnowe
+  herkunft_bis_1935: gehörte zur Gemeinde Durbach
+  eingemeindung: 1975
+  eingemeindung_datum: 1. Januar 1975
+GUELTIG_AB: 1296
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: weiler
+BEZEICHNUNG: Diebersbach
+ORTSTEIL_BEZUG: Bottenau
+EIGENSCHAFTEN:
+  ersterwähnung: 1381
+  ersterwähnung_name: Diepolczbach
+  herkunft_bis_1935: gehörte zur Gemeinde Butschbach
+GUELTIG_AB: 1381
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: weiler
+BEZEICHNUNG: Schlatten
+ORTSTEIL_BEZUG: Bottenau
+EIGENSCHAFTEN:
+  ersterwähnung: 1381
+  ersterwähnung_name: in dem Slatten
+  herkunft_bis_1935: gehörte zur Gemeinde Butschbach
+GUELTIG_AB: 1381
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: weiler
+BEZEICHNUNG: Meisenbühl
+ORTSTEIL_BEZUG: Bottenau
+EIGENSCHAFTEN:
+  ersterwähnung: 1432
+  ersterwähnung_name: uff der Egesen
+  herkunft: aufgelöste Gemeinde Herztal
+GUELTIG_AB: 1432
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Butschbach
+ORTSTEIL_BEZUG: Butschbach
+EIGENSCHAFTEN:
+  ersterwähnung: 1360
+  ersterwähnung_name: Buspbach by Fursteneck
+  zugehörig_hochstift: Hochstift Straßburg, Gericht Oberkirch
+  eingemeindung: 1971
+  eingemeindung_datum: 1. Januar 1971
+GUELTIG_AB: 1360
+GUELTIG_BIS:
+IST_VERMUTHEIM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Haslach
+ORTSTEIL_BEZUG: Haslach
+EIGENSCHAFTEN:
+  ersterwähnung: 1247
+  ersterwähnung_name: Hasilach
+  zugehörig_hochstift: Hochstift Straßburg, Gericht Oberkirch bzw. Oppenau
+  eingemeindung: 1971
+  eingemeindung_datum: 1. Juli 1971
+GUELTIG_AB: 1247
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Nußbach
+ORTSTEIL_BEZUG: Nußbach
+EIGENSCHAFTEN:
+  ersterwähnung: 994
+  ersterwähnung_name: Nuzbach
+  zugehörig: Landvogtei Ortenau (vorderösterreichisch)
+  eingemeindung: 1974
+  eingemeindung_datum: 1. Juli 1974
+GUELTIG_AB: 994
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Ödsbach
+ORTSTEIL_BEZUG: Ödsbach
+EIGENSCHAFTEN:
+  ersterwähnung: 11. Jahrhundert
+  ersterwähnung_name: Ongisbach
+  zugehörig_hochstift: Hochstift Straßburg, Gericht Oberkirch
+  eingemeindung: 1975
+  eingemeindung_datum: 1. Januar 1975
+GUELTIG_AB: 1050
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Ringelbach
+ORTSTEIL_BEZUG: Ringelbach
+EIGENSCHAFTEN:
+  ersterwähnung: 1225
+  ersterwähnung_name: in dem Ringelbach
+  zugehörig_hochstift: Hochstift Straßburg, Gericht Oberkirch
+  eingemeindung: 1972
+  eingemeindung_datum: 1. Juli 1972
+GUELTIG_AB: 1225
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Stadelhofen
+ORTSTEIL_BEZUG: Stadelhofen
+EIGENSCHAFTEN:
+  ersterwähnung: 1347
+  ersterwähnung_name: Stadelhoven
+  zugehörig_hochstift: Hochstift Straßburg, Gericht Oberkirch bzw. Oppenau
+  eingemeindung: 1974
+  eingemeindung_datum: 1. Januar 1974
+GUELTIG_AB: 1347
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Tiergarten
+ORTSTEIL_BEZUG: Tiergarten
+EIGENSCHAFTEN:
+  ersterwähnung: 1319
+  ersterwähnung_name: in dem Thiergarten
+  zugehörig_hochstift: Hochstift Straßburg, Gericht Oberkirch bzw. Oppenau
+  eingemeindung: 1974
+  eingemeindung_datum: 1. Januar 1974
+GUELTIG_AB: 1319
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Zusenhofen
+ORTSTEIL_BEZUG: Zusenhofen
+EIGENSCHAFTEN:
+  ersterwähnung: 12. Jahrhundert
+  ersterwähnung_name: Uzzenhöfen
+  zugehörig: Landvogtei Ortenau (vorderösterreichisch)
+  eingemeindung: 1974
+  eingemeindung_datum: 1. Januar 1974
+GUELTIG_AB: 1150
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Gaisbach
+ORTSTEIL_BEZUG: Gaisbach
+EIGENSCHAFTEN:
+  ersterwähnung: 1225
+  ersterwähnung_name: in dem Geißbach
+  lage_geographie: am Fuße der Schauenburg
+  entwicklung: Schauenburg war eigenständiges Territorium der Ritterschaft Ortenau
+  eingemeindung: 1936
+  verwaltung_bis_1805: ritterschaftlicher Ort
+GUELTIG_AB: 1225
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: burg_ruine
+BEZEICHNUNG: Schauenburg
+ORTSTEIL_BEZUG: Gaisbach
+EIGENSCHAFTEN:
+  entstehung: 11. Jahrhundert
+  superlativ: Wahrzeichen Oberkirchs
+  lage_hoehe: 200 Meter über dem Ort
+  status: Ruine
+  burgverwalter_beruehmtheit: Hans Jakob Christoffel von Grimmelshausen (nach Dreißigjähriger Krieg)
+  abtrag_suedturm: 1650-1660
+  grund_abtrag: Steine zum Aufbau des Gaisbacher Schlosses
+GUELTIG_AB: 1100
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: burg_ruine
+BEZEICHNUNG: Fürsteneck
+ORTSTEIL_BEZUG: Butschbach
+EIGENSCHAFTEN:
+  lage: oberhalb des südlichen Renchufers auf der Gemarkungsgrenze zwischen Bottenau und Butschbach
+  status: Ruine
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: burg_ruine
+BEZEICHNUNG: Ullenburg
+ORTSTEIL_BEZUG: Tiergarten
+EIGENSCHAFTEN:
+  status: abgegangen
+  beschreibung: weithin sichtbarer Kegelstumpf der abgegangenen Burg
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: burg_ruine
+BEZEICHNUNG: Stollenburg
+ORTSTEIL_BEZUG: Bottenau
+EIGENSCHAFTEN:
+  status: ehemalige Ruine
+  lage: an der Gemeindegrenze nach Durbach
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: schloss
+BEZEICHNUNG: Gaisbacher Schloss
+ORTSTEIL_BEZUG: Gaisbach
+EIGENSCHAFTEN:
+  bauzeit: 1650-1660
+  grund_bau: Steine des Südturms der Schauenburg
+GUELTIG_AB: 1650
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Cyriak
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  typ_religionszugehoerigkeit: katholische Pfarrkirche
+  bauzeit: 1863
+  stil: neuromanischer Stil
+  grund_neubau: anstelle eines abgebrochenen Vorgängerbaus
+  gemeinden_zugehoerigkeit: mit Butschbach und seit 1937 auch mit Ringelbach
+GUELTIG_AB: 1863
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Martin-Luther-Kirche
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  typ_religionszugehoerigkeit: evangelische Kirche (Stadtkirche)
+  bauzeit: 1866
+  grund_neubau: an der Stelle des 1847 abgebrochenen ehemaligen Kapuzinerklosters
+  umbenennung_ab: 1. Advent 2016
+GUELTIG_AB: 1866
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Sebastian
+ORTSTEIL_BEZUG: Nußbach
+EIGENSCHAFTEN:
+  typ_religionszugehoerigkeit: katholische Kirche
+  gemeinden_zugehoerigkeit: mit Bottenau
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Jakob der Ältere
+ORTSTEIL_BEZUG: Ödsbach
+EIGENSCHAFTEN:
+  typ_religionszugehoerigkeit: katholische Kirche
+  pfarrei_status_ab: 1932
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Wendelin
+ORTSTEIL_BEZUG: Stadelhofen
+EIGENSCHAFTEN:
+  typ_religionszugehoerigkeit: katholische Pfarrkirche
+  bauzeit: 1882
+  erbauer: Friedrich Kempf
+  stil: neoromanischer Stil
+  grund_neubau: anstelle eines Vorgängerbaus von 1780
+  pfarrei_status_ab: 1887
+GUELTIG_AB: 1882
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Urban
+ORTSTEIL_BEZUG: Tiergarten
+EIGENSCHAFTEN:
+  typ_religionszugehoerigkeit: katholische Pfarrkirche
+  bauzeit: 1870
+  pfarrei_status_ab: 1875
+  kapelle_ersterwahnung: 1332
+GUELTIG_AB: 1870
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Joseph
+ORTSTEIL_BEZUG: Zusenhofen
+EIGENSCHAFTEN:
+  typ_religionszugehoerigkeit: katholische Kirche
+  bauzeit: 1933-1934
+  pfarrei_status_ab: 1961
+GUELTIG_AB: 1933
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Aloysius
+ORTSTEIL_BEZUG: Haslach
+EIGENSCHAFTEN:
+  typ_religionszugehoerigkeit: katholische Kirche
+  bauzeit: 1866
+  filialgemeinde: war eine Filialgemeinde von Renchen-Ulm
+GUELTIG_AB: 1866
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Wendelinuskapelle
+ORTSTEIL_BEZUG: Bottenau
+EIGENSCHAFTEN:
+  bauzeit: 1756
+GUELTIG_AB: 1756
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Jakobus-Kapelle
+ORTSTEIL_BEZUG: Ödsbach
+EIGENSCHAFTEN:
+  stil: gotisch
+  bauzeit: 1499
+GUELTIG_AB: 1499
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Wendelinuskapelle
+ORTSTEIL_BEZUG: Ringelbach
+EIGENSCHAFTEN:
+  bauzeit: 1863
+  stil: neoromanischer Stil
+GUELTIG_AB: 1863
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Josefskapelle
+ORTSTEIL_BEZUG: Hesselbach
+EIGENSCHAFTEN:
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+ORTSTEIL_BEZUG: Butschbach
+EIGENSCHAFTEN:
+  bauzeit: 1827
+  beschreibung: Chorturm der Vorgängerkirche dient heute als Chor
+GUELTIG_AB: 1827
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Jakobus der Ältere
+ORTSTEIL_BEZUG: Ödsbach
+EIGENSCHAFTEN:
+  typ_religionszugehoerigkeit: katholische Kirche
+  bauzeit: 1911-1912
+GUELTIG_AB: 1911
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapelle St. Urban
+ORTSTEIL_BEZUG: Tiergarten
+EIGENSCHAFTEN:
+  ersterwahnung: 1332
+  bemerkung: schon seit 1332 bezeugt, Vorgänger der Pfarrkirche
+GUELTIG_AB: 1332
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: museum
+BEZEICHNUNG: Heimat- und Grimmelshausenmuseum
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  standort: altes Rathaus
+  inhalte: Stadtgeschichte und Leben des Dichters Hans Jakob Christoffel von Grimmelshausen
+  besonderheit: Simplicissimus wurde hier geschrieben
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: galerie
+BEZEICHNUNG: städtische Galerie
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  standort: altes Rathaus (neben Heimat- und Grimmelshausenmuseum)
+  ausstellungen: regelmäßig namhafte Künstler aus dem In- und Ausland
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: gebaeude_kultureinrichtung
+BEZEICHNUNG: Mediathek
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  einweihung: 2010
+  typ: Freizeit-, Bildungs- und Kultureinrichtung
+  architektur: moderne Formensprache
+  anerkennung: in den entsprechenden Fachkreisen gewürdigt
+GUELTIG_AB: 2010
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: altstadt
+BEZEICHNUNG: Altstadt Oberkirch
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  architektur: historische Fachwerkhäuser und Barockbauten
+  befestigung: Fragmente der alten Stadtmauer
+  lage_fluss: am rechten Ufer der Rench
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sportverein
+BEZEICHNUNG: SV Oberkirch
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  sport: Fußball
+  erfolge_periode: 1960er Jahren
+  erfolgsbereich: ganz Südbaden
+  aktuelle_mannschaft_liga: Landesliga (Saison 2024/25)
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: sportverein
+BEZEICHNUNG: Schützenverein Oberkirch
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  erfolge_ab: seit 1980er Jahren
+  erfolgsbereich: national, international und südbadische Ebene
+  erfolgsdomaenen: verschiedene Disziplinen und Altersklassen
+  vertreter_nationalmannschaft: zahlreiche Mitglieder in der Nationalmannschaft
+GUELTIG_AB: 1980
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: pfadfindergruppe
+BEZEICHNUNG: Renchtäler Pfadfinder e. V. Stamm Jörg von Schauenburg
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  gruendung: 1951
+  mitgliederzahl: 250
+  rang: eine der größten Pfadfindergruppen Baden-Württembergs
+  erfolge_singen: mehrfache Sieger beim deutschlandweiten Hamburger Singewettstreit
+  fahrten_auswahl: Griechenland (1982), Schottland (1994), Kanada (2000), Slowenien (2012)
+GUELTIG_AB: 1951
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: industrie_betrieb
+BEZEICHNUNG: Papierfabrik August Koehler
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  status: Stammsitz in Oberkirch
+  branche: Papierindustrie
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: industrie_betrieb
+BEZEICHNUNG: Progress-Werk Oberkirch
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  status: Stammsitz
+  branche: Autozulieferer
+  boersenstatus: börsennotiert
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: genossenschaft
+BEZEICHNUNG: Oberkircher Winzergenossenschaft
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  bedeutung: prägend im Weinbau Oberkirchs
+  weinsorten: Spätburgunder und Rieslingweine
+  weinsorten_regionalname: Klingelberger (für Rieslingweine)
+  flaeche: die meisten Weinanbauflächen bewirtschaftet
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: genossenschaft
+BEZEICHNUNG: OGM Obstgroßmarkt Mittelbaden e.G.
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  sitz: Oberkirch
+  entstehung: 1996
+  grund_entstehung: Verschmelzung der Obstabsatzgenossenschaften Renchtal sowie von Bühl, Achern und Ortenberg
+  produkte: Kernobstsorten (Äpfel und Birnen), Beerenobstsorten (Erdbeeren, Himbeeren, Stachelbeeren), Steinobstsorten (Zwetschgen, Pflaumen, Aprikosen, Pfirsiche)
+GUELTIG_AB: 1996
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schnapsbrennerei_cluster
+BEZEICHNUNG: Hausbrennereien Oberkirch und Umgebung
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  anzahl_brennereien: knapp 900
+  produktion: Schnäpse und Edelbrände
+  spezialisierung: Fertigung von Brennereianlagen
+  export: in die ganze Welt
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: grube_bergbau
+BEZEICHNUNG: Grube Hesselbach
+ORTSTEIL_BEZUG: Hesselbach
+EIGENSCHAFTEN:
+  rohstoffe: Fluss- und Schwerspat
+  besitzer: Hans Grimmig
+  betriebsname: Spatwerk Hesselbach
+  schacht_laenge: 45 m
+  schacht_anzahl_blind: drei Blindschächte und zwei Stollen
+  rohfoerderung_1949_flussspat: 4030,5 Tonnen
+  rohfoerderung_1949_schwerspat: 252 Tonnen
+GUELTIG_AB: 1948
+GUELTIG_BIS: 1949
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: grube_bergbau
+BEZEICHNUNG: Grube Ödsbach
+ORTSTEIL_BEZUG: Ödsbach
+EIGENSCHAFTEN:
+  rohstoffe: Fluss- und Schwerspat
+  ersterwahnung: 1911
+  foerderstollen_1914: 175 m Länge
+  foerderstollen_1920: 240 m Länge
+  hauptstollen_1920: 240 m lang
+  belegschaft_1921: 45 Mann
+  soehle_1931: 64-m-Sohle über einen Schacht
+  ausruestung_schacht: elektrische Fördermaschine
+  mundloch_erhalten: in Lendersbachtal neben Wäldenstraße
+GUELTIG_AB: 1911
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Bahnlinie Offenburg-Oberkirch
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  verlauf: von Offenburg über Appenweier
+  betreiber: SWEG (Renchtalbahn)
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: busservice
+BEZEICHNUNG: Ringbus Oberkirch
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  inbetriebnahme: seit 2005
+  linien_anzahl: drei Linien
+  gebiet: Stadt und ihre Ortsteile
+GUELTIG_AB: 2005
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bundesstrasse
+BEZEICHNUNG: Bundesstraße 28 Ortsumfahrung Oberkirch
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  inbetriebnahme: August 2014
+  laenge: 6 Kilometer
+  funktion: entlastet Oberkirch und Lautenbach vom Durchgangsverkehr
+  beschreibung: West-Ost-Verbindung zwischen Straßburg und Tübingen ohne Querung
+  bauzeit: sieben Jahre
+  kosten: 69 Millionen Euro
+  herzstaeck: zwei Tunnelbauwerke
+GUELTIG_AB: 2014
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: radweg
+BEZEICHNUNG: Badischer Weinradweg
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  startpunkt: Grenzach-Wyhlen am Hochrhein
+  endpunkt: Laudenbach im Norden Baden-Württembergs
+  weinregionen: sieben der neun badischen Weinanbaugebiete untereinander verbunden
+  verlauf_oberkirch: aus Gengenbach über Durbach und Nesselried in die Stadtteile Nußbach und Zusenhofen und weiter über Erlach und Ulm nach Oberachern
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: radweg
+BEZEICHNUNG: Naturpark-Radweg Schwarzwald Mitte/Nord
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  verlauf: rund um den Naturpark Schwarzwald Mitte/Nord
+  verlauf_oberkirch: von Offenburg kommend an Appenweier vorbei nach Zusenhofen und weiter wie der Badische Weinradweg nach Oberachern
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: mitgliedschaft_netzwerk
+BEZEICHNUNG: AGFK (Arbeitsgemeinschaft Fahrrad- und Fußverkehrsfreundlicher Kommunen)
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  region: Baden-Württemberg
+  member: Oberkirch
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: zeitung
+BEZEICHNUNG: Acher-Rench-Zeitung
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  typ: Tageszeitung
+  verlag: Mittelbadische Presse
+  berichterstattung: lokales Geschehen in Oberkirch
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: tv_produktionsfirma
+BEZEICHNUNG: Kimmig Entertainment
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  stammsitz: Oberkirch
+  grunden: seit 1981
+  produktion_shows: Verstehen Sie Spaß?, Die Helene Fischer Show
+  produktion_preisverleihungen: Deutscher Fernsehpreis, Krone der Volksmusik
+GUELTIG_AB: 1981
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: gericht
+BEZEICHNUNG: Amtsgericht Oberkirch
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  landgericht: Landgerichtsbezirk Offenburg
+  oberlandesgericht: Oberlandesgerichtsbezirk Karlsruhe
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: notariat
+BEZEICHNUNG: Notariat Oberkirch
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: behoerde
+BEZEICHNUNG: Amt für Waldwirtschaft (Ortenaukreis)
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  traeger: Ortenaukreis
+  funktion: Außenstelle
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: gymnasium
+BEZEICHNUNG: Hans-Furler-Gymnasium
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: realschule
+BEZEICHNUNG: Realschule Oberkirch
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: schule_foerder
+BEZEICHNUNG: Altstadtschule
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  typ: Förderschule
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: hauptschule
+BEZEICHNUNG: August-Ganther-Hauptschule
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: schule_grundschule
+BEZEICHNUNG: Johann-Wölfflin-Grundschule
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: schule_cluster
+BEZEICHNUNG: Grund- und Hauptschule mit Werkrealschule Nußbach
+ORTSTEIL_BEZUG: Nußbach
+EIGENSCHAFTEN:
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: schule_cluster
+BEZEICHNUNG: Grund- und Hauptschule mit Werkrealschule Ödsbach
+ORTSTEIL_BEZUG: Ödsbach
+EIGENSCHAFTEN:
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: schule_grundschule
+BEZEICHNUNG: Grundschule Bottenau
+ORTSTEIL_BEZUG: Bottenau
+EIGENSCHAFTEN:
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: schule_grundschule
+BEZEICHNUNG: Grundschule Tiergarten/Haslach
+ORTSTEIL_BEZUG: Tiergarten
+EIGENSCHAFTEN:
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: schule_grundschule
+BEZEICHNUNG: Grundschule Stadelhofen
+ORTSTEIL_BEZUG: Stadelhofen
+EIGENSCHAFTEN:
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: schule_grundschule
+BEZEICHNUNG: Grundschule Zusenhofen
+ORTSTEIL_BEZUG: Zusenhofen
+EIGENSCHAFTEN:
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: schule_spezial
+BEZEICHNUNG: Renchtalschule für Sprachbehinderte
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  traeger: Ortenaukreis
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: skandal_ereignis
+BEZEICHNUNG: Fall Schlageter
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  ereignis: Zusammenbruch der Volksbank Oberkirch
+  jahr: 1971
+  bedeutung: erster öffentlich bekannt gewordener Bankenskandal der Bundesrepublik Deutschland
+  grund_kritik: mangelnde Bankenaufsicht
+  betroffene_familie: Pforzheimer Unternehmerfamilie Schlageter
+  folge_regierungsschritte: Eingaben an Landtag und Wirtschaftsministerium
+GUELTIG_AB: 1971
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Wilhelm Fischer
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1741
+  tod: 1824
+  geburt_ort: Oberkirch (angenommen)
+  position: letzter Abt im Kloster Allerheiligen
+GUELTIG_AB: 1741
+GUELTIG_BIS: 1824
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Placidus III. Bacheberle
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1745
+  tod: 1824
+  geburt_ort: Oberkirch (angenommen)
+  position: letzter Abt im Kloster Schuttern
+GUELTIG_AB: 1745
+GUELTIG_BIS: 1824
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Anton Christ
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1800
+  tod: 1880
+  geburt_ort: Oberkirch (angenommen)
+  berufe: badischer Jurist und Politiker
+GUELTIG_AB: 1800
+GUELTIG_BIS: 1880
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bernhard Jülg
+ORTSTEIL_BEZUG: Ringelbach
+EIGENSCHAFTEN:
+  geburt: 1825
+  tod: 1886
+  geburt_ort: Ringelbach
+  berufe: Sprachforscher
+GUELTIG_AB: 1825
+GUELTIG_BIS: 1886
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Eduard Schuster
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1841
+  tod: 1908
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Wasser- und Straßenbauinspektor, Burgenforscher und Schriftsteller
+GUELTIG_AB: 1841
+GUELTIG_BIS: 1908
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl Schrempp
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1846
+  tod: 1919
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Brauereidirektor
+  besonderheit: Wohltäter und Stifter
+  ehrung: Ehrenbürger von Karlsruhe
+GUELTIG_AB: 1846
+GUELTIG_BIS: 1919
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: August Ganther
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1862
+  tod: 1938
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Dialektdichter
+  werke: Volksstück Der Klosterschütz
+  ehrung_ehrenbuerger: 1937
+GUELTIG_AB: 1862
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Maria Föhrenbach
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1883
+  tod: 1961
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Gründerin
+  gruendung_1927: Schwesternschaft der Benediktinerinnen OSB der heiligen Lioba
+GUELTIG_AB: 1883
+GUELTIG_BIS: 1961
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl Zipf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1895
+  tod: 1990
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Arzt und Pharmakologe
+GUELTIG_AB: 1895
+GUELTIG_BIS: 1990
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hermenegild Wäldele
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1896
+  tod: 1927
+  geburt_ort: Oberkirch (angenommen)
+  berufe: franziskanischer Missionar
+  status: Märtyrer
+GUELTIG_AB: 1896
+GUELTIG_BIS: 1927
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Valentin Schweiger
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1900
+  tod: 1990
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Pädagoge und Politiker
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1990
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Herbert Wolff
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1904
+  tod: 1958
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Redakteur und Politiker
+  partei: CDU
+GUELTIG_AB: 1904
+GUELTIG_BIS: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Adolf Baier
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1907
+  tod: 1982
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Gewerkschaftsfunktionär und kommunistischer Funktionär
+GUELTIG_AB: 1907
+GUELTIG_BIS: 1982
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ernst M. Backes
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1908
+  tod: 1971
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Bankdirektor und akademischer Kunstmaler
+GUELTIG_AB: 1908
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Albert Dietrich
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1908
+  tod: 1979
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Violinist, Bratschist und Musikpädagoge
+GUELTIG_AB: 1908
+GUELTIG_BIS: 1979
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hans Friedrich Zipf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1911
+  tod: 1969
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Arzt und Pharmakologe
+GUELTIG_AB: 1911
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Erwin Braun
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1921
+  tod: 1981
+  geburt_ort: Oberkirch (angenommen)
+  position_buergermeister: Bürgermeister von Oberkirch
+  position_landtag: Landtagsabgeordneter
+  ehrung_ehrenbuerger: 1981
+GUELTIG_AB: 1921
+GUELTIG_BIS: 1981
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gerhard Gamber
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1927
+  tod: 2008
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Kommunalpolitiker
+  partei: CDU
+GUELTIG_AB: 1927
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Albrecht Braun
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1932
+  tod: 2011
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Bankdirektor
+GUELTIG_AB: 1932
+GUELTIG_BIS: 2011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Josef Huber
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1935
+  tod: 2018
+  geburt_ort: Oberkirch (angenommen)
+  berufe: römisch-katholischer Geistlicher, Kirchenrechtler
+  position_gericht: Richter an der Rota Romana
+  position_gericht_zeitraum: 1992-2010
+GUELTIG_AB: 1935
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hansjörg Streif
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1939
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Geologe
+GUELTIG_AB: 1939
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Rosemarie Tietze
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1944
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Literaturübersetzerin
+  sprachenarbeit: Russische Sprache
+GUELTIG_AB: 1944
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bruno Hildenbrand
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1948
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Soziologe und ehemaliger Hochschullehrer
+GUELTIG_AB: 1948
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Jürgen-Peter Graf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1952
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Jurist
+  position_gericht: Richter am Bundesgerichtshof
+  position_hochschule: Honorarprofessor der HS Offenburg
+GUELTIG_AB: 1952
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Stefan Schaub
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1952
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Musikpädagoge
+GUELTIG_AB: 1952
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ingolf Ellßel
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1954
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Geistlicher der deutschen Pfingstbewegung
+  position_verband: ehemaliger Präses des Bundes Freikirchlicher Pfingstgemeinden
+GUELTIG_AB: 1954
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ellen Mundinger
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1955
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Leichtathletin
+GUELTIG_AB: 1955
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz-David Baumann
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1958
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Jazzmusiker und Dozent
+GUELTIG_AB: 1958
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Martin Brandt
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1958
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Jurist
+  position_gericht: Richter am Bundesverwaltungsgericht
+  position_ab: seit 2010
+GUELTIG_AB: 1958
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Maja Storch
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1958
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Trainerin und Psychodramatherapeutin
+GUELTIG_AB: 1958
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Marion Kiechle
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1960
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Medizinerin
+  position_universitaet: Ordinaria für Gynäkologie an der TU München
+  position_regierung: bayerische Staatsministerin für Wissenschaft und Kunst
+  position_regierung_ab: 2018
+GUELTIG_AB: 1960
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Sabine Mainberger
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1960
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Komparatistin
+  position_universitaet: an der Rheinischen Friedrich-Wilhelms-Universität Bonn
+GUELTIG_AB: 1960
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Klaus Baumann
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1963
+  geburt_ort: Oberkirch (angenommen)
+  berufe: römisch-katholischer Priester
+  position_universitaet: Professor an der Albert-Ludwigs-Universität Freiburg
+GUELTIG_AB: 1963
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bernhard Maier
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1963
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Religionswissenschaftler
+GUELTIG_AB: 1963
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Peter E. Fäßler
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1964
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Historiker und Professor
+  position_universitaet: an der Universität Paderborn
+GUELTIG_AB: 1964
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Michael Gerber
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1970
+  geburt_ort: Oberkirch (angenommen)
+  berufe: römisch-katholischer Theologe
+  position_kirche: Bischof von Fulda
+GUELTIG_AB: 1970
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Volker Schebesta
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1971
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Politiker
+  partei: CDU
+  position_parliament: Mitglied des Landtages von Baden-Württemberg
+GUELTIG_AB: 1971
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Jürgen Lehmann
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1975
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Schauspieler und Theaterregisseur
+GUELTIG_AB: 1975
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Sandra Klösel
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1979
+  geburt_ort: Oberkirch (angenommen)
+  berufe: ehemalige Tennisspielerin
+GUELTIG_AB: 1979
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johannes Rothenberger
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1980
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Jurist und Politiker
+  partei: CDU
+  position_parliament: Mitglied des Bundestages
+GUELTIG_AB: 1980
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Stefan Räpple
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1981
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Politiker
+  partei: ehem. AfD
+  position_parliament: ehemaliges MdL
+GUELTIG_AB: 1981
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Kerstin Boschert
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1983
+  geburt_ort: Oberkirch (angenommen)
+  berufe: ehemalige Fußballspielerin
+  auswaehlung: Nationalspielerin der U-19 und U-21
+GUELTIG_AB: 1983
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Zoe Ludwig
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1999
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Handballspielerin
+GUELTIG_AB: 1999
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bastian Allgeier
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 2002
+  geburt_ort: Oberkirch (angenommen)
+  berufe: Fußballspieler
+GUELTIG_AB: 2002
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hans Jakob Christoffel von Grimmelshausen
+ORTSTEIL_BEZUG: Gaisbach
+EIGENSCHAFTEN:
+  lebenszeit: ca. 1622-1676
+  berufe: Schriftsteller
+  hauptwerk: Simplicissimus
+  beschreibung_werk: in Oberkirch geschrieben
+  position_schauenburg: Burgverwalter der Schauenburg (nach Dreißigjähriger Krieg)
+  position_schloss: Wirt im Gasthaus zum Silbernen Stern in Gaisbach
+  status_verbindung: mit der Stadt verbunden
+GUELTIG_AB: 1622
+GUELTIG_BIS: 1676
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Anton Friedrich von Lützelburg
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  tod: 1662
+  berufe: württembergischer Verwaltungsbeamter
+  status_verbindung: mit der Stadt verbunden
+GUELTIG_AB:
+GUELTIG_BIS: 1662
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz Xaver Weingärtner
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  lebenszeit: 1805-1867
+  berufe: katholischer Geistlicher
+  position_gemeinde: Stadtpfarrer in Oberkirch
+  gruendung: Gründer der örtlichen Sparkasse
+GUELTIG_AB: 1805
+GUELTIG_BIS: 1867
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Max Übelhör
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  lebenszeit: 1881-1963
+  berufe: Schriftsteller
+  lebensereignis: lebte von 1943 bis 1963 in Oberkirch
+  status_verbindung: verstorben dort
+GUELTIG_AB: 1943
+GUELTIG_BIS: 1963
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Walter Tuschla
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  lebenszeit: 1938-2011
+  berufe: Dirigent und Komponist
+  status_verbindung: mit der Stadt verbunden
+GUELTIG_AB: 1938
+GUELTIG_BIS: 2011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Werner Kimmig
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1948
+  berufe: Fernsehproduzent und ehemaliger Musikmanager
+  status_verbindung: mit der Stadt verbunden
+GUELTIG_AB: 1948
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Rainer Braxmaier
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1949
+  berufe: Maler, Zeichner, Kunsterzieher und Autor
+  lebensereignis: lebt und arbeitet in Oberkirch
+  status_verbindung: mit der Stadt verbunden
+GUELTIG_AB: 1949
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Willi Stächele
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1951
+  berufe: Jurist
+  position_oberkirch: Bürgermeister in Oberkirch
+  position_oberkirch_zeitraum: 1981-1998
+  position_regierung: Minister in der Landesregierung von Baden-Württemberg
+  position_regierung_zeitraum: 1998-2011
+GUELTIG_AB: 1951
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Yannick Steffen (Fayan)
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  geburt: 1991
+  kuenstlername: Fayan
+  berufe: Rapper und Songwriter
+  lebensereignis: wuchs in Oberkirch auf
+GUELTIG_AB: 1991
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Johann Nepomuk Fauler
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  position: Oberamtmann
+  ehrenbuerger_ab: 1841
+GUELTIG_AB: 1841
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Conrad Huber
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  position: Lehrer
+  ehrenbuerger_ab: 1878
+GUELTIG_AB: 1878
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Josef Geldreich
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  position: Bürgermeister von Oberkirch
+  ehrenbuerger_ab: 1908
+GUELTIG_AB: 1908
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: August Ganther
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  berufe: Dichter
+  ehrenbuerger_ab: 1937
+GUELTIG_AB: 1937
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Hans Furler
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  berufe: Politiker
+  partei: CDU
+  position: Präsident des Europaparlaments
+  ehrenbuerger_ab: 1962
+GUELTIG_AB: 1962
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Maximilian Ruh
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  berufe: Pfarrer
+  ehrenbuerger_ab: 1968
+GUELTIG_AB: 1968
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Erwin Braun
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  position: Bürgermeister von Oberkirch
+  ehrenbuerger_ab: 1981
+GUELTIG_AB: 1981
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: stadtverwaltung
+BEZEICHNUNG: Gemeinderat Oberkirch
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  groesse: 26 Mitglieder
+  amtsbezeichnung: Stadträtin/Stadtrat
+  amtszeit_jahre: 5
+  wahlform: direkt gewählt
+  letzte_wahl: Kommunalwahl 9. Juni 2024
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stdteverwaltung
+BEZEICHNUNG: Oberbürgermeister Oberkirch
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  amtsantritt: seit Erhebung zur Großen Kreisstadt 2004
+  amtszeit_jahre: 8
+  wahlform: direkt gewählt
+  funktion: Vorsitzender des Gemeinderats
+  stellvertreter_titel: Bürgermeister (Erster Beigeordneter)
+GUELTIG_AB: 2004
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadtverwaltung_historisch
+BEZEICHNUNG: Schultheiß Oberkirch
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  zeitraum: bis zur Badischen Zeit
+  besonderheit: vom Bischof eingesetzt
+  rat_ab: seit 1327 nachweisbar
+GUELTIG_AB: 1327
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: stadtverwaltung_historisch
+BEZEICHNUNG: Schultheiß und Gemeinderat Oberkirch (Badische Zeit)
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  zeitraum: Badische Zeit
+  leitungspersonen: Bürgermeister und Gemeinderat
+GUELTIG_AB: 1803
+GUELTIG_BIS: 2003
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: flagge
+BEZEICHNUNG: Stadtflagge Oberkirch
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  farben: rot-weiß-rot
+  gebrauch_ab: 1926
+GUELTIG_AB: 1926
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Draveil
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Île-de-France
+  seit: 1971
+GUELTIG_AB: 1971
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Haverfordwest
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  land: Vereinigtes Königreich
+  region: Wales
+  seit: 1989
+GUELTIG_AB: 1989
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Oosterzele
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  land: Belgien
+  region: Flandern
+  seit: 1991
+GUELTIG_AB: 1991
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kontakt_freundschaftlich
+BEZEICHNUNG: Oberkirch LU
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  land: Schweiz
+  region: Luzern
+  typ: freundschaftliche Kontakte
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kontakt_freundschaftlich
+BEZEICHNUNG: Lingolsheim
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Grand Est
+  typ: freundschaftliche Kontakte
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kontakt_freundschaftlich
+BEZEICHNUNG: Radeberg
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  land: Deutschland
+  region: Sachsen
+  typ: freundschaftliche Kontakte
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: patenschaft_militaer
+BEZEICHNUNG: U-Boot U 4
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  typ: Patenschaft
+  zeitraum: 1962-1974
+  standort: Marinehafen Eckernförde
+GUELTIG_AB: 1962
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: patenschaft_militaer
+BEZEICHNUNG: U-Boot U 24
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  typ: Patenschaft
+  zeitraum: 1974-2011
+  standort: Marinehafen Eckernförde
+GUELTIG_AB: 1974
+GUELTIG_BIS: 2011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: patenschaft_jugenddorf
+BEZEICHNUNG: Wohnhaus Oberkirch im Jugenddorf Offenburg
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  typ: Patenschaft
+  standort: Jugenddorf Offenburg
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: verkehrsmittel_bahn_fahrzeug
+BEZEICHNUNG: Ortenau-S-Bahn Fahrzeug Oberkirch
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  typ: Fahrzeug der Ortenau-S-Bahn
+  trägername: trägt den Namen Oberkirch
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kirche_kaepelle_kapelle_moschee
+BEZEICHNUNG: Moschee (Türkischer Verein Oberkirch)
+ORTSTEIL_BEZUG: Oberkirch
+EIGENSCHAFTEN:
+  religionszugehoerigkeit: Islam
+  traeger: Türkischer Verein Oberkirch e. V.
+  nutzergemeinde: Muslime Oberkirchs überwiegend türkischer Herkunft
+  adresse: Oberdorfstraße
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirchliche_organisation
+BEZEICHNUNG: Dekanat Oberkirch
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  zeitraum: historisch
+  zugehoerigkeit: Gemeinden gehörten zum Dekanat Oberkirch
+  successor: heute Dekanat Acher-Renchtal
+GUELTIG_AB: 1803
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirchliche_organisation
+BEZEICHNUNG: Dekanat Acher-Renchtal
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  zugehoerigkeit: alle Gemeinden im Oberkircher Stadtgebiet
+  zeitraum: heute
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirchliche_organisation
+BEZEICHNUNG: Evang. Kirchenbezirk Ortenau, Region Kehl
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  zugehoerigkeit: Evang. Kirchengemeinde Oberkirch gehört hierzu
+  parent_kirche: Evangelische Landeskirche in Baden
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verwaltungsebene_historisch
+BEZEICHNUNG: Bezirksamt Oberkirch
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  zeitraum: 1803-1936
+  gruen: 1803
+  aufh: 1936
+  grund_aufhebung: aufgehoben
+  gebiet_nachfolger: überwiegend dem Bezirksamt Offenburg zugeordnet
+GUELTIG_AB: 1803
+GUELTIG_BIS: 1936
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verwaltungsebene_historisch
+BEZEICHNUNG: Landkreis Offenburg
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  zeitraum: 1939-1973
+  gruen: 1939
+  gründung_grund: aus dem Bezirksamt Offenburg hervorgegangen
+  aufh: 1973
+  aufh_grund: Kreisreform zum 1. Januar 1973, aufgelöst
+  gebiet_nachfolger: dem neu gebildeten Ortenaukreis zugeordnet
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: verwaltungsebene_historisch
+BEZEICHNUNG: Regierungsbezirk Südbaden
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  zeitraum: 1952-1973
+  zugehoerigkeit: Landkreis Offenburg gehörte ab 1952 dazu
+  aufh: 1973
+GUELTIG_AB: 1952
+GUELTIG_BIS: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verwaltungsebene
+BEZEICHNUNG: Ortenaukreis
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  neu_gruen: 1973
+  grund_gruendung: Kreisreform zum 1. Januar 1973, Landkreis Offenburg aufgelöst und neu gebildet
+  zugehoerigkeit_oberkirch: Oberkirch gehört dazu
+GUELTIG_AB: 1973
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: verwaltungsgemeinschaft
+BEZEICHNUNG: Verwaltungsgemeinschaft Oberkirch-Renchen-Lautenbach
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  vertragspartner: Stadt Oberkirch, Stadt Renchen, Gemeinde Lautenbach
+  typ: Vereinbarte Verwaltungsgemeinschaft
+  gr_ab: seit unbekannt (vor 2004)
+GUELTIG_AB: 2004
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: eigemeindung_historisch
+BEZEICHNUNG: Eigemeindung Oberdorf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  ort: Oberdorf
+  eingemeindung: 1827
+GUELTIG_AB: 1827
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: eingemeindung_historisch
+BEZEICHNUNG: Eigemeindung Wolfhag
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  ort: Wolfhag
+  eingemeindung: 1837
+GUELTIG_AB: 1837
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: eingemeindung_historisch
+BEZEICHNUNG: Eigemeindung Fernach
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  ort: Fernach
+  eingemeindung: 1872
+GUELTIG_AB: 1872
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: eingemeindung_historisch
+BEZEICHNUNG: Eigemeindung Gaisbach
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  ort: Gaisbach
+  eingemeindung: 1936
+GUELTIG_AB: 1936
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: eingemeindung_historisch
+BEZEICHNUNG: Eigemeindung Winterbach
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  ort: Winterbach
+  eingemeindung: 1939
+  eingemeindung_teil: nur teilweise, der Rest verblieb bei der Gemeinde Lautenbach
+GUELTIG_AB: 1939
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kapelle_kirche
+BEZEICHNUNG: Oberkirchener Kapelle
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  namensherkunft: Der Name Oberkirch bezieht sich auf eine Kapelle
+  zeitraum: vor dem 13. Jahrhundert
+  zugehoerigkeit: der Kirche in Nußbach zugeordnet
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1225
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kirchliche_aktion
+BEZEICHNUNG: Erhebung der Oberkirchener Kapelle zur ständigen Kirche
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  ereignis: 1225 wurde eine bereits bestehende Kapelle durch den Straßburger Bischof Bertold von Teck zur ständig mit einem Geistlichen zu besetzenden Kirche erhoben
+  geistliche_besetzung: vom Kloster Allerheiligen mit Seelsorgern besetzt
+  grund: Erhebung zur Pfarrkirche
+GUELTIG_AB: 1225
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gemeinde_eingliederung_gruppe
+BEZEICHNUNG: Gemeindereform der 1970er-Jahre Oberkirch
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  zeitraum: Anfang der 1970er-Jahre
+  eingliederungen: neun umliegende Gemeinden
+  folge_einwohnerzahl: ermöglichte Überschreitung der 20.000-Grenzmarke 2002
+  folge_grosse_kreisstadt: 2004 Erhebung zur Großen Kreisstadt
+GUELTIG_AB: 1971
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---

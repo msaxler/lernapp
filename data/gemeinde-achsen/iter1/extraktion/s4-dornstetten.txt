@@ -1,0 +1,453 @@
+ENTITÄT: ort
+BEZEICHNUNG: Dornstetten
+EIGENSCHAFTEN:
+  einwohner: 8192
+  einwohner_datum: 31. Dezember 2025
+  landkreis: Freudenstadt
+  bundesland: Baden-Württemberg
+  region: Nordschwarzwald
+  regierungsbezirk: Karlsruhe
+  entfernung_kreisstadt: 7 km östlich
+  höhe_min: 600 m ü. NN
+  höhe_max: 715 m ü. NN
+  waldanteil: 48 %
+  waldanteil_hektar: 1164 ha
+  lage: nördlicher Schwarzwald
+  erste_urkundliche_erwähnung: 767
+  quelle_erwähnung: Lorscher Codex
+  ist_stadt: true
+  stadt_erhoben: 1267-1276
+  ist_oberamtsstadt_gewesen: true
+  oberamtsstadt_zeitraum: 1755-1807
+  deutsche_fachwerkstraße: Südroute (Mosbach–Haslach im Kinzigtal)
+  deutsche_alleenstraße: liegt an
+  verkehrsgemeinde: Landkreis Freudenstadt
+  naturpark: Schwarzwald Mitte/Nord
+  is_kreisstadt: false
+  ist_vermutlich_aktuell: true
+GUELTIG_AB: 1267
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Aach
+ORTSTEIL_BEZUG: Aach
+EIGENSCHAFTEN:
+  teil_seit: 1. Januar 1975
+  komponenten: Dorf Aach, Gehöft Benzinger Hof, Häuser Glattal
+  glatt_quelle: Zusammenfluss Ettenbach, Stockerbach, Kübelbach
+  bahnhaltepunkt_seit: 2018
+  bahnhaltepunkt_takt: Zweistundentakt
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1975
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hallwangen
+ORTSTEIL_BEZUG: Hallwangen
+EIGENSCHAFTEN:
+  teil_seit: 1. Januar 1975
+  komponenten: Dorf Hallwangen
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1975
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Bernhard Haas
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  partei: parteilos
+  wahl: März 2012
+  wahlgang: zweiter Wahlgang
+  stimmenanteil: 51,1 %
+  vorgänger: Dieter Flik
+  vorgänger_stimmenanteil: 3,2 %
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2012
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Jacob Beurlin
+EIGENSCHAFTEN:
+  lebensdaten: um 1520–1561
+  beruf: evangelischer Theologe und Reformator
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1520
+GUELTIG_BIS: 1561
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Johann Jakob Schertlin
+EIGENSCHAFTEN:
+  lebensdaten: 1784–1855
+  beruf: württembergischer Oberamtmann
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1784
+GUELTIG_BIS: 1855
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Heinrich Schäff
+EIGENSCHAFTEN:
+  alias: Hermann Zerweck
+  lebensdaten: 1862–1937
+  beruf: Schriftsteller, Maler
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1862
+GUELTIG_BIS: 1937
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Fritz Kläger
+EIGENSCHAFTEN:
+  lebensdaten: 1914–2007
+  beruf: Motorradrennfahrer und -konstrukteur
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1914
+GUELTIG_BIS: 2007
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Erich Bochinger
+EIGENSCHAFTEN:
+  lebensdaten: 1928–2016
+  beruf: evangelischer Theologe
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1928
+GUELTIG_BIS: 2016
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Cornelia Horz
+EIGENSCHAFTEN:
+  geburt: 1957
+  beruf: Juristin, Präsidentin des Oberlandesgerichts Stuttgart
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1957
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Wolfram Graf
+EIGENSCHAFTEN:
+  geburt: 1965
+  beruf: Komponist, Pianist und Organist
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1965
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Eleonore Kötter
+EIGENSCHAFTEN:
+  lebensdaten: bis 2017
+  beruf: Dornstetter Künstlerin
+  stiftung: Kunstsammlung (Heimatmuseum)
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 2017
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirche
+BEZEICHNUNG: evangelische Kirche
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  seit_reformation: Dornstetten evangelisch geprägt
+  gueltig_ab: Reformation
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kirche
+BEZEICHNUNG: römisch-katholische Kirche
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  betreuung: Kirchengemeinde Freudenstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirche
+BEZEICHNUNG: neuapostolische Kirche
+EIGENSCHAFTEN:
+  konfession: neuapostolisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kirche
+BEZEICHNUNG: evangelisch-methodistische Kirche
+EIGENSCHAFTEN:
+  konfession: evangelisch-methodistisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Scey-sur-Saône-et-Saint-Albin
+EIGENSCHAFTEN:
+  region: Bourgogne-Franche-Comté
+  land: Frankreich
+  relation: partnerschaftliche Beziehung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Naturschutzgebiet Benzinger Berg
+EIGENSCHAFTEN:
+  typ: Naturschutzgebiet
+  lage: Süden des Stadtgebiets
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Silberberg
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Springbrunnen-Ettenbachtal
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+  anteil: Teile der Fläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Stockenbachtal
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+  anteil: Teile der Fläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Oberes Glattal
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+  anteil: Teile der Fläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: FFH-Gebiet Freudenstädter Heckengäu
+EIGENSCHAFTEN:
+  typ: FFH-Gebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: schule
+BEZEICHNUNG: Gymnasium
+EIGENSCHAFTEN:
+  erste_erwähnung: 1461
+  umwandlung_vollgymnasium: Schuljahr 2006/07
+  status: Vollgymnasium seit 2006/07
+GUELTIG_AB: 1461
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schule
+BEZEICHNUNG: Realschule
+EIGENSCHAFTEN:
+  gebäude_mit: Werkrealschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Werkrealschule
+EIGENSCHAFTEN:
+  gebäude_mit: Realschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule
+EIGENSCHAFTEN:
+  anzahl: 3
+  verteilung: eine pro Ortsteil
+IST_VERMUTISCH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schule
+BEZEICHNUNG: Dreifürstensteinschule
+EIGENSCHAFTEN:
+  typ: Körperbehindertenschule
+  träger: Stiftung KBF
+  form: Außenstelle Dornstetten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Eichenäcker-Schule
+EIGENSCHAFTEN:
+  typ: Förderschule
+  spezialisierung: Schüler mit geistiger Behinderung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: einrichtung
+BEZEICHNUNG: Kindergarten
+EIGENSCHAFTEN:
+  anzahl: 7
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: museum
+BEZEICHNUNG: Puppen- und Spielzeugmuseum
+EIGENSCHAFTEN:
+  standort: Kaufhaus Hegel
+  typ: Spezialisiertes Museum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum
+EIGENSCHAFTEN:
+  inhalt: Stadtgeschichte, Leben der Bürger, Kunstsammlung
+  etagen: 3
+  kunstsammlung_stiftung: Eleonore Kötter (2017)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bergwerk
+BEZEICHNUNG: Himmlisch Heer
+ORTSTEIL_BEZUG: Hallwangen
+EIGENSCHAFTEN:
+  typ: Silber-, Kupfer- und Schwerspatbergwerk
+  status: historisch
+  besuchbar: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: Altstadt
+EIGENSCHAFTEN:
+  charakteristika: Fachwerkhäuser und Gassen
+  sehenswert: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: Aussichtsturm Königskanzel
+EIGENSCHAFTEN:
+  typ: Aussichtsturm
+  name: Königskanzel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: freizeit_einrichtung
+BEZEICHNUNG: Barfußpark
+ORTSTEIL_BEZUG: Hallwangen
+EIGENSCHAFTEN:
+  länge: 2,4 km
+  form: Rundweg
+  stationen: Erlebnis-, Kneipp- und Spielstationen
+  zweck: Naturerlebnisse, Naturheilmittel gegen Venenleiden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Bahnstrecke Eutingen im Gäu–Schiltach
+EIGENSCHAFTEN:
+  stationen: Dornstetten, Aach (seit 2018)
+  züge_re14b: Freudenstadt–Stuttgart
+  züge_s8_s81: Bondorf (bei Herrenberg)–Karlsruhe Tullastraße (Stadtbahn Karlsruhe)
+  takt_haltepunkte: Zweistundentakt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnhaltepunkt
+BEZEICHNUNG: Bahnhaltepunkt Aach
+ORTSTEIL_BEZUG: Aach
+EIGENSCHAFTEN:
+  in_betrieb_seit: 2018
+  takt: Zweistundentakt
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2018
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bundesstraße
+BEZEICHNUNG: Bundesstraße 28
+EIGENSCHAFTEN:
+  ausführung: Umgehungsstraße außerhalb der Bebauung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: wirtschaft
+EIGENSCHAFTEN:
+  gewerbesteuereinnahmen_2022: 8,68 Millionen Euro
+  gewerbesteuerhebesatz: 355 %
+  gewerbesteuerhebesatz_deutschland_2023: 407 %
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2022
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Waldgeding Dornstetten
+EIGENSCHAFTEN:
+  ereignis: erste urkundliche Erwähnung
+  jahr: 767
+  quelle: Lorscher Codex
+  beschreibung: Dornstetter Waldgeding existierte auf dem heutigen Gemeindegebiet
+GUELTIG_AB: 767
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Stadterhebung Dornstetten
+EIGENSCHAFTEN:
+  ereignis: Ort zur Stadt erhoben
+  zeitraum: 1267-1276
+  grund: Erhebung durch Grafen von Urach-Fürstenberg
+GUELTIG_AB: 1267
+GUELTIG_BIS: 1276
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Territorialwechsel zu Württemberg
+EIGENSCHAFTEN:
+  ereignis: Stadt kam an Württemberg
+  jahr: 1320
+  grund: über Grafen von Hohenberg
+GUELTIG_AB: 1320
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Oberamtsstadt Dornstetten
+EIGENSCHAFTEN:
+  ereignis: Dornstetten Sitz des gleichnamigen Oberamts
+  gueltig_ab: 1755
+  gueltig_bis: 1807
+  grund_auflösung: Umsetzung neue Verwaltungsgliederung Königreich Württemberg
+  folge: Eingliederung in Oberamt Freudenstadt
+GUELTIG_AB: 1755
+GUELTIG_BIS: 1807
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Kreisreform Nationalsozialismus
+EIGENSCHAFTEN:
+  ereignis: Stadt gelangte zum Landkreis Freudenstadt
+  jahr: 1938
+  kontext: Kreisreform während Zeit des Nationalsozialismus in Württemberg
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Nachkriegsgeschichte Dornstetten
+EIGENSCHAFTEN:
+  ereignis_phase1: Nach Zweitem Weltkrieg in Französische Besatzungszone
+  ereignis_phase2: 1947 zum neu gegründeten Land Württemberg-Hohenzollern
+  ereignis_phase3: 1952 im Land Baden-Württemberg aufgegangen
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1952
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Gemeindefusion Dornstetten
+EIGENSCHAFTEN:
+  ereignis: Dornstetten vereinigte sich mit Aach und Hallwangen
+  datum: 1. Januar 1975
+  resultierend: neue Stadt Dornstetten
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95

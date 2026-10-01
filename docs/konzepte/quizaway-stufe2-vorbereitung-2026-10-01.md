@@ -1,6 +1,6 @@
 # QuizAway — Vorbereitung Feldtest Stufe 2 (generierte Karten, Raum Freiburg)
 
-**Datum:** 2026-10-01 · **Status:** Vorbereitung, Probe an einem Ort gelaufen (§6). Kein Volllauf. · **Grundlage:** Spielkonzept v0.2.4 §10/§11 Nr. 4, Gemeinde-Achsen v0.5 §9.1 und §21, Entscheide Mike 2026-10-01 (`gemeinde-achsen-entscheidungen-2026-10-01.md`).
+**Datum:** 2026-10-01 · **Status:** Vorbereitung und Probe an einem Ort (§6). **Der Volllauf ist am selben Tag gelaufen; Ergebnis in `quizaway-stufe2-volllauf-2026-10-01.md`, Auswahl im Kuratierblatt `quizaway-stufe2-kuratierblatt-2026-10-01.md`.** Die Prompts des Volllaufs liegen als Dateien unter `data/gemeinde-achsen/iter1/` (Stufe 1 v0.5.1 mit den Zusatzregeln aus §4, Karten v0.4 mit bis zu drei Vorschlägen je Ort); §5 zeigt noch v0.3. · **Grundlage:** Spielkonzept v0.2.4 §10/§11 Nr. 4, Gemeinde-Achsen v0.5 §9.1 und §21, Entscheide Mike 2026-10-01 (`gemeinde-achsen-entscheidungen-2026-10-01.md`).
 
 **Zweck von Stufe 2:** Dieselben zehn Orte wie im handgeschriebenen Kartensatz laufen durch die Pipeline; die generierten Karten werden neben die handgeschriebenen gelegt. Der Unterschied ist die Messung der Pipeline.
 

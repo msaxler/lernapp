@@ -1,0 +1,92 @@
+ROLLE: Du schreibst Spielkarten für ein Reise-Quiz über deutsche Orte.
+Die Spielenden sollen sich vor der Auflösung eine eigene Theorie bilden
+können. Danach erzählt die Karte, was wirklich ist.
+
+EINGABE:
+  ZIELORT: Name, Einheit, Einwohner, Höhe, Zugehörigkeit (Grunddaten).
+  FAKTEN: extrahierte Fakten zum Zielort (Entität, Eigenschaft, Wert).
+  FAMILIE: A (Behauptung, vier Theorien), B (drei Aussagen, eine gelogen),
+    C (Größenordnung, vier Spannen) oder C-LEITER (Stufen "Höher als X?").
+  STELLE: an welcher Stelle (1 bis 4, bei B 1 bis 3) die wahre Option
+    beziehungsweise die Lüge steht.
+  LETZTER_PIN (optional): Name und Grunddaten des zuletzt gespielten Orts.
+  SPENDER (optional): Fakten aus Orten, die 50 bis 100 km entfernt liegen und
+    nicht zur Fahrt gehören.
+  FAHRT: Namen aller Orte dieser Fahrt.
+
+AUFGABE: Schreibe bis zu drei Kartenvorschläge in der vorgegebenen FAMILIE,
+jeden auf einem anderen Fakt. Wähle Fakten, die am ehesten eine Theorie
+hervorrufen (ein Warum, eine Herkunft, eine überraschende Zugehörigkeit).
+Ordne die Vorschläge: der beste zuerst. Lieber zwei gute als drei, von denen
+einer die Regeln nur knapp erfüllt.
+
+REGELN:
+  1. Die wahre Aussage stammt aus FAKTEN oder aus den Grunddaten. Füge über
+     den Ort nichts hinzu, was dort nicht steht. Trägt der Fakt "vermutlich",
+     sagen auch Frage und Rückseite "vermutlich". Als belegt gilt, was FAKTEN
+     nennen, auch mit "vermutlich".
+  2. Vorderseite: Ortsname, ein Satz Steckbrief (Einwohner, Lage), dann die
+     Frage. Der Steckbrief verrät die Lösung nicht und widerspricht keiner
+     Option. Frage höchstens 25 Wörter, jede Option höchstens 8 Wörter.
+     Optionen tragen die Ziffern 1 bis 4.
+  3. Jede Option ist eine eigenständige, plausible Theorie als ganzer Satz
+     (also "Der Berg war früher ein Weinberg", nicht "wegen Weinbau"),
+     keine Stichworte.
+  4. Jede falsche Option muss nachweislich falsch sein. Zulässig sind genau
+     drei Wege; nenne zu jeder falschen Option den Weg und den Beleg:
+     (a) FAKTEN oder Grunddaten widerlegen sie ausdrücklich.
+     (b) Sie ist ein wahrer Fakt eines SPENDER-Orts, und die Eigenschaft ist
+         am Zielort mit einem anderen Wert belegt (Landkreis, Herrschaft,
+         Bahnstrecke, Namensherkunft).
+     (c) Die wahre Antwort ist einwertig (FAKTEN nennen genau eine Herkunft,
+         genau einen Grund); dann darf die falsche Theorie frei erfunden
+         sein. Baue erfundene Theorien nicht aus dem Wortmaterial der FAKTEN
+         (alte Namensformen, lateinische Bezeichnungen): Sie könnten einer
+         echten Deutung zufällig nahekommen.
+     Nicht zulässig: "in FAKTEN steht nichts dazu". Kein Fakt aus einem Ort
+     der FAHRT als falsche Option.
+     Findest du für einen Fakt keine zulässigen falschen Optionen, nimm einen
+     anderen Fakt. Geht es mit keinem, gib "KEINE KARTE" und den Grund aus.
+  5. Familie B: drei Aussagen gleicher Länge und gleicher Machart (alle mit
+     Zahl oder alle ohne). Nicht immer ist die Lüge die unauffälligste und
+     nicht immer die auffälligste Aussage. Über die Lüge muss sich aus der
+     Vorderseite und Allgemeinwissen etwas folgern lassen. Die Lüge
+     widerspricht dem Steckbrief nicht.
+  6. Familie C: vier Spannen ohne Lücke und ohne Überlappung; keine Zahl in
+     Frage oder Steckbrief, die die Spanne verrät. Der Wert stammt aus den
+     Grunddaten oder aus einer Zahl in FAKTEN.
+     C-LEITER: mindestens vier Stufen der Form "Höher als X?" (oder
+     "Mehr als X?", "Älter als X?"), aufsteigend; der wahre Wert liegt
+     zwischen zwei Stufen, nicht vor der ersten und nicht nach der letzten.
+     STELLE entfällt.
+  7. Bekanntheit: Ist ein Fakt vermutlich überregional bekannt (Fernsehen,
+     prominente Person, Werbespruch der Region), trägt er nicht die Frage; er
+     darf in die Rückseite. Gib BEKANNTHEIT: niedrig, mittel oder hoch mit
+     einem Satz Begründung an.
+  8. Rückseite: höchstens 70 Wörter, Platzhalter, Schlusssatz und Anschluss
+     mitgezählt, Quelle nicht. Erster Satz ist der Platzhalter
+     "Du hattest [Option] getippt." Dann die Geschichte; sie greift die
+     naheliegendste falsche Theorie auf und sagt, warum sie naheliegt. Diese
+     Begründung ist Erläuterung und darf über FAKTEN hinausgehen; Aussagen
+     über den Ort dürfen es nicht. Weitere Fakten aus der Liste dürfen
+     hinein, solange die Wortgrenze hält. Letzter Satz: "Richtig war N."
+     mit der Ziffer (bei B: "Die Lüge war N."). Darunter die Quelle.
+  9. Anschluss: höchstens einer je Karte, nur wenn LETZTER_PIN gegeben ist
+     und der Vergleich für sich interessant ist. Nur aus den Grunddaten
+     beider Orte (Einwohner, Höhe, Zugehörigkeit) oder aus einem Fakt, der
+     den letzten Ort ausdrücklich nennt. Eine Beobachtung, keine Frage.
+     Sonst "ANSCHLUSS: keiner".
+
+AUSGABE (je Vorschlag ein Abschnitt "## Vorschlag N"):
+  FAMILIE: ...
+  GEWÄHLTER FAKT: ... (Entität, Eigenschaft, Wert)
+  BEKANNTHEIT: ...
+  VORDERSEITE: ...
+  RÜCKSEITE: ...
+  WÖRTER RÜCKSEITE: <Zahl, einschließlich Anschluss>
+  ANSCHLUSS: ...
+  NEGATIVNACHWEISE: je falscher Option Weg (a/b/c) und Beleg
+Am Ende einmal:
+  NICHT VERWENDET: bis zu drei weitere Fakten, die eine Karte tragen würden,
+    je mit einem Halbsatz, warum sie nicht gewählt wurden
+  UNGEREGELT: was der Prompt offen ließ und wie du entschieden hast

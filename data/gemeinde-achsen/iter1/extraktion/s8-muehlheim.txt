@@ -1,0 +1,1005 @@
+ENTITÄT: ort
+BEZEICHNUNG: Mühlheim an der Donau
+EIGENSCHAFTEN:
+  status: Stadt
+  groessenklasse: kleine Stadt
+  landkreis: Tuttlingen
+  bundesland: Baden-Württemberg
+  land: Deutschland
+  lage_rel_tuttlingen: "rund zehn Kilometer nordöstlich"
+  naturpark: "Obere Donau"
+  namensgeber: "Zentrale Bedeutung der Mühlen mit Mühlrädern an Karstquellen des Wulfbaches"
+  erste_urkundliche_erwaehnung: 843
+  partnerschaftsverband: Gemeindeverwaltungsverband Donau-Heuberg
+GUELTIG_AB: 843
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mühlheim
+EIGENSCHAFTEN:
+  lage: "Hauptort rechts der Donau (Mittelalter), heute links der Donau (nach Baumaßnahmen ab 1950er)"
+  bestandteile: "Stadt Mühlheim an der Donau, Weiler Altstadt, Höfe Kraftstein und Mittlere und Obere Mühle"
+  historische_besonderheit: "Zentrum im Mittelalter rechts der Donau"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mühlheim an der Donau-Stetten
+BEZEICHNUNG_ALT: Stetten
+EIGENSCHAFTEN:
+  lage: "westlich von Mühlheim"
+  bestandteile: "Dorf Stetten an der Donau"
+  eingemeindung: 1971
+  eingemeindung_bezeichnung: "bis dahin selbstständige Gemeinde"
+  vorherige_benennung_zeitpunkt: "seit 27. Januar 1962"
+  vorherige_benennung: Stetten
+  ortschaft_eigenstaendig: "Ortschaft im Sinne der Gemeindeordnung mit eigenem Ortschaftsrat und Ortsvorsteher"
+  ortsvorsteher_aktuell: Emil Buschle
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: fluss
+BEZEICHNUNG: Wulfbach
+EIGENSCHAFTEN:
+  muendung_ort: "Donau (östlicher Gemarkungsrand Mühlheim)"
+  karstquellen: "zwei Karstquellen lieferten ganzjährig genügend Wasser"
+  karstquellen_lage: "Bereich der heutigen Altstadt"
+  bedeutung_geschichte: "Ermöglichten Mühlräder und Siedlung in der Römerzeit, Namensgeber"
+  altarm_besiedlung: "Biber haben sich angesiedelt in Altarm östlich von Mühlheim"
+GUELTIG_AB: -2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: fluss
+BEZEICHNUNG: Kesselbach
+EIGENSCHAFTEN:
+  muendung_ort: Donau
+  muendung_ortsteil: Stetten
+  muendung_lage: "westlich von Mühlheim"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: fluss
+BEZEICHNUNG: Lippach
+EIGENSCHAFTEN:
+  muendung_ort: Donau
+  muendung_lage: "Bereich der Altstadt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: handelsweg_historisch
+BEZEICHNUNG: Bodensee-Mühlheim-Rottweil Weg
+EIGENSCHAFTEN:
+  route: "vom Bodensee kommend bei Mühlheim die Donau in einer Furt überquerend, dann über Schwäbische Alb nach Rottweil"
+  status_frueherzeit: "alter Handelsweg"
+  status_mittelalter: "Reichstraße"
+  besonderheit: "beförderte Wochen- und Jahrmärkte und Wirtschaftsentwicklung"
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Gallus
+EIGENSCHAFTEN:
+  lage_rel: "oberhalb der Furt des Handelsweges"
+  baujahr_vermutung: "vermutlich 8. Jahrhundert"
+  heiliger_geweiht: Gallus
+  bedeutung_regional: "nicht nur für Mühlheim, sondern auch für einige Nachbardörfer"
+  funktion_historisch: "Zentrale kirchliche Bedeutung für die Region"
+GUELTIG_AB: 800
+GUELTIG_BIS:
+VERTRAUEN: vermutlich
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Mühlheim
+EIGENSCHAFTEN:
+  erbauer: Friedrich IV. von Zollern
+  baujahr: "kurz nach 1200"
+  standort: "Bergsporn südlich der Donau, Nußbühl genannt"
+  befestigung: "befestigte Stadt mit vier Toren"
+  entwicklung: "Mühlheim entwickelte sich zum regionalen Wirtschaftszentrum"
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: derer von Zollern
+EIGENSCHAFTEN:
+  status: hochadelig
+  besitzergreifung_zeit: "12. Jahrhundert"
+  grundung_verwaltung: "Verwaltungszentrum der Herrschaft Mühlheim durch Erwerb mehrerer Dörfer und Vogtei über Kloster Beuron"
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Kraftstein
+EIGENSCHAFTEN:
+  erwerber: "Schultheiß Peter der Spreter"
+  kaufjahr: 1386
+  anlass: "Versuch, nach Vorbild der Reichsstädte ein eigenes Territorium zu schaffen"
+  erfolg: "weiterer Erwerb gelang der Stadt nicht mehr"
+GUELTIG_AB: 1386
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Herren von Weitingen
+EIGENSCHAFTEN:
+  erwerbung_mueller: 1392
+  dauer_besitz: "17 Jahre"
+GUELTIG_AB: 1392
+GUELTIG_BIS: 1409
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Herren von Enzberg
+EIGENSCHAFTEN:
+  erwerbung_mueller: 1409
+  residenz_seit: 1409
+  residenz_dauer: "bis 1987"
+  verkauf_grund: "Nutzung für repräsentative Räumlichkeiten für kulturelle Veranstaltungen"
+GUELTIG_AB: 1409
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Verlagerung des Verkehrs in der Frühen Neuzeit
+EIGENSCHAFTEN:
+  neue_route: "Straße vom Bodensee über Tuttlingen nach Rottweil"
+  auswirkung_auf_mueller: "Mühlheim verlor an Bedeutung, wurde beschauliches Landstädtchen"
+  wirtschaft_folge: "Bürger lebten fortan hauptsächlich von Landwirtschaft und wenigen Handwerksbetrieben"
+  zeitraum_effekt: "Niedergang des Ortes eingeleitet"
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: krieg
+BEZEICHNUNG: Dreißigjähriger Krieg
+EIGENSCHAFTEN:
+  auswirkungen_mueller: "wiederholt von kaiserlichen und schwedischen Truppen besetzt"
+  schweden_getötet_1632: 300
+  anlass_getötete: "Überfall"
+  buergermeister_chronist: "Bartholomäus Kindler (beschrieb Schicksal der Stadt)"
+  bevölkerung_1600_start: 96
+  bevölkerung_1635_ende: 28
+  verlustrate_grund: "geflohen, verhungert oder Seuche erlegen"
+  verlustrate_prozent: "71 Prozent"
+  erholung_folge: "Stadt erholte sich kaum, versank im 18. Jahrhundert in Bedeutungslosigkeit"
+GUELTIG_AB: 1632
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Schwedengrab
+EIGENSCHAFTEN:
+  lage: "an der Donau"
+  anlass_ereignis: "Überfall mit 300 getöteten Schweden 1632"
+  zweck: "erinnert noch heute an dieses Blutbad"
+GUELTIG_AB: 1632
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Rheinbundakte
+EIGENSCHAFTEN:
+  jahr: 1806
+  auswirkung_kurz: "Mühlheim unter badische Herrschaft"
+  auswirkung_lang: "noch im selben Jahr mit Tausch- und Epurationsvertrag an Königreich Württemberg"
+  administrative_folge: "Oberamt Tuttlingen"
+GUELTIG_AB: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: industrielle_entwicklung
+BEZEICHNUNG: Uhrenfabriken Mühlheim
+EIGENSCHAFTEN:
+  zeitraum: "Ende 19. Jahrhundert"
+  gruender_ruprecht_amman: ja
+  gruender_karl_aigeltinger: ja
+  ergebnis: "bescheidener Wohlstand in das Städtchen gebracht"
+GUELTIG_AB: 1880
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Tuttlingen–Inzigkofen
+EIGENSCHAFTEN:
+  betreiber: Württembergische Staatseisenbahnen
+  baujahr: 1890
+  auswirkung: "Weiteren Auftrieb gebracht"
+  bedeutung: "Infrastruktur für wirtschaftliche Entwicklung"
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Stadtbrand Mühlheim
+EIGENSCHAFTEN:
+  jahr: 1890
+  schaeden: erheblich
+  zeitliche_koinzidenz: "im selben Jahr wie Bahnstrecken-Fertigstellung"
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: firma
+BEZEICHNUNG: Karl Leibinger Medizintechnik
+EIGENSCHAFTEN:
+  gruendung: 1896
+  gruender: "Ludwig Leibinger (Uhrmacher)"
+  bereich: "chirurgische Instrumente"
+  familienunternehmen: true
+  beschaeftigte: 335
+  status_arbeitgeber: "größter Arbeitgeber am Ort"
+  spezialisierung: "führender Hersteller von chirurgischen Instrumenten"
+  unternehmensgruppe: KLS Martin
+  besonderheit_gueltig_ab: 1896
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Verwaltungsreform NS-Zeit
+EIGENSCHAFTEN:
+  jahr: 1938
+  auswirkung: "Mühlheim zum Landkreis Tuttlingen"
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Zweiter Weltkrieg Besatzung
+EIGENSCHAFTEN:
+  besatzungszone: "Französische Besatzungszone"
+  zeitraum_folge: 1945
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bundesland
+BEZEICHNUNG: Württemberg-Hohenzollern
+EIGENSCHAFTEN:
+  bildung: 1947
+  gruendungsgrund: "neu gegründetes Land nach Kriegsende"
+  aufloesung_jahr: 1952
+  nachfolger: Baden-Württemberg
+  muelhheim_status: "wurde Teil desselben"
+GUELTIG_AB: 1947
+GUELTIG_BIS: 1952
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Bauliche Erweiterung Mühlheim
+EIGENSCHAFTEN:
+  zeitraum: "seit 1950er Jahren"
+  lage_schwerpunkt: "hauptsächlich in der Vorstadt"
+  auswirkung_topographie: "größte Teil der Stadt links der Donau (wie zur Römerzeit), nachdem Mittelalter Zentrum rechts war"
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Verwaltungsreform Kreisreform Baden-Württemberg
+EIGENSCHAFTEN:
+  jahr: 1973
+  auswirkung_vorher: "Regierungsbezirk Südwürttemberg-Hohenzollern"
+  auswirkung_nachher: "Regierungsbezirk Freiburg"
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: schule
+BEZEICHNUNG: Realschule Mühlheim
+EIGENSCHAFTEN:
+  errichtung: 1979
+  bedeutung: "repräsentative Erweiterung der Schulinfrastruktur"
+GUELTIG_AB: 1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schloss
+BEZEICHNUNG: Vorderes Schloss
+EIGENSCHAFTEN:
+  erbauer: "Freiherrn von Enzberg"
+  erbauer_ansaessig: "seit 1409"
+  erwerb_stadt: 1987
+  erwerb_zweck: "repräsentative Räumlichkeiten für kulturelle Veranstaltungen"
+  restaurierung: vollständig
+  nutzung: Museum
+  lage: "Oberstadt Mühlheim"
+  inhalt_museum: "Geschichte Stadt und Herrschaft Mühlheim, Kirche und Welschenberg"
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Mühlheim (Hinteres Schloss)
+EIGENSCHAFTEN:
+  erbauer: "Herren von Enzberg"
+  baujahr: "um 1200"
+  umgestaltung_jahr: "Mitte 18. Jahrhundert"
+  umgestaltung_ergebnis: "heutiges Aussehen"
+  denkmalstatus: "Denkmal des Monats Juli 2019 (Denkmalstiftung Baden-Württemberg)"
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: denkmalschutz_gesamtanlage
+BEZEICHNUNG: Altstadt Mühlheim/Donau
+EIGENSCHAFTEN:
+  form: "Gesamtanlage"
+  status: "komplett unter Denkmalschutz"
+GUELTIG_AB: 1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: kirche_ruine
+BEZEICHNUNG: Kirchenruine Maria Hilf
+EIGENSCHAFTEN:
+  baujahr: 1661
+  abbruch: 1813
+  standort: Welschenberg
+  status: "bekannter Wallfahrtsort"
+  wallfahrt_begruendung: "Pfarrer von Mühlheim brachte 1649 Bild der Jungfrau Maria an große Eiche an"
+  wallfahrt_infrastruktur: "Herbergen für Wallfahrer und Stallungen wurden gebaut"
+  wallfahrt_blueete: 1756
+  kirche_neue_baujahr: 1756
+  kirche_dimensionen: "47 m lang und 18 m breit"
+  wallfahrt_aufhebung: 1811
+  wallfahrt_aufhebung_grund: "offiziell aufgehoben"
+  resten_heute: "große Kirchenruine, Kirchturm restauriert, Teil der Kirche mit Dach versehen"
+  superlativ: "bekannter Wallfahrtsort"
+GUELTIG_AB: 1661
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Galluskirche
+EIGENSCHAFTEN:
+  funktion: "Friedhofskirche"
+  baustil: romanisch
+  bauteile_aelteste: "10. und 11. Jahrhundert"
+  fresken_zeit: "14. bis 15. Jahrhundert"
+  orgel_jahr: 1759
+  orgelbauer: "Hieronymus Spiegel"
+  orgelbauer_herkunft: "Fridingen an der Donau"
+  orgel_status: "eines der letzten erhaltenen Werke des Orgelbaumeisters"
+  superlativ: "eines der letzten erhaltenen Werke"
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Sebastianskapelle
+EIGENSCHAFTEN:
+  gruendung: 1610
+  anlass_ereignis: "verheerende Pestepidemie"
+  anlass_detail: "letzte Bürger starb und Gelübde der Überlebenden zum Kirchenbau führte"
+  heilige_geweiht: "Sebastian und Rochus"
+  label: Pestkapelle
+  dekorationselement: "Relief des Heiligen Sebastian"
+  stiftungsjahr_relief: 1610
+  tor_typ: "Rundbogentor"
+GUELTIG_AB: 1610
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Maria Magdalena
+EIGENSCHAFTEN:
+  baujahr: 1794
+  baujahr_ende: 1796
+  form_bau: "anstelle eines Vorgängerbaus errichtet"
+  denkmalschutz_status: "Kulturdenkmal besonderer Bedeutung"
+GUELTIG_AB: 1794
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Mühlheim
+EIGENSCHAFTEN:
+  baustil: "gotischer Fachwerkbau"
+  denkmal_aufnahme: 1928
+  erwaehnung_erste: 1512
+  baugrundsatz_zeitanzeiger: "Säule mit romanischem Kapitell weist auf Gründungszeit um 1200 hin"
+  vermutet_bauzeit: "um 1200"
+  vermutet_rathaus_zeit: "wahrscheinlich 14. Jahrhundert"
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: fachwerkgebaeude
+BEZEICHNUNG: Fachwerkgebäude Grabenstraße 11
+EIGENSCHAFTEN:
+  denkmalschutz: true
+  lage: Oberstadt
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Kraftstein
+ORTSTEIL_BEZUG: Mühlheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Stettener Halde
+ORTSTEIL_BEZUG: Stetten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Triebhalde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Galgenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Buchhalde-Oberes Donautal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: landschaftsschutzgebiet
+BEZEICHNUNG: Sommerschafweide auf dem Bäunisberg und Kraftstein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: landschaftsschutzgebiet
+BEZEICHNUNG: Donautal mit Bära- und Lippachtal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: landschaftsschutzgebiet
+BEZEICHNUNG: Stettener Tal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: landschaftsschutzgebiet
+BEZEICHNUNG: Tiefental
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ffh_gebiet
+BEZEICHNUNG: Großer Heuberg und Donautal
+EIGENSCHAFTEN:
+  anteil_mueller: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: vogelschutzgebiet
+BEZEICHNUNG: Südwestalb und Oberes Donautal
+EIGENSCHAFTEN:
+  anteil_mueller: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: naturpark
+BEZEICHNUNG: Obere Donau
+EIGENSCHAFTEN:
+  mueller_gehoert_zu: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Mahlstetten
+EIGENSCHAFTEN:
+  lage_bezugsrichtung: "im Uhrzeigersinn"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Kolbingen
+EIGENSCHAFTEN:
+  lage_bezugsrichtung: "im Uhrzeigersinn"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Fridingen an der Donau
+EIGENSCHAFTEN:
+  lage_bezugsrichtung: "im Uhrzeigersinn"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: nachbargemeinde_ortsteil
+BEZEICHNUNG: Nendingen
+EIGENSCHAFTEN:
+  lage_bezugsrichtung: "im Uhrzeigersinn (Tuttlinger Ortsteil)"
+  beruhrt_punkt_ursental: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: nachbargemeinde_punkt
+BEZEICHNUNG: Wurmlingen
+EIGENSCHAFTEN:
+  lage: "berührt Mühlheim an genau einem Punkt im Ursental"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: nachbargemeinde_punkt
+BEZEICHNUNG: Dürbheim
+EIGENSCHAFTEN:
+  lage: "berührt Mühlheim an genau einem Punkt im Ursental"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: nachbargemeinde_punkt
+BEZEICHNUNG: Rietheim-Weilheim
+EIGENSCHAFTEN:
+  lage: "berührt Mühlheim an genau einem Punkt im Ursental"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: naturdenk_hoehle
+BEZEICHNUNG: Mühlheimer Felsenhöhle
+EIGENSCHAFTEN:
+  erschliessung: 1912
+  zugangsstatus: "im Regelfall verschlossen und kann nicht besichtigt werden"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: naturdenk_aussichtspunkt
+BEZEICHNUNG: Gelber Fels
+EIGENSCHAFTEN:
+  lage: "Aussichtspunkt über dem Donautal"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: naturdenk_fauna
+BEZEICHNUNG: Biber-Altarm Wulfbach
+EIGENSCHAFTEN:
+  lage: "Altarm der Donau östlich von Mühlheim"
+  fauna_art: Biber
+  ansiedlung: ja
+  umgebung: "direkt an Bahndamm, durch Bach mit Donau verbunden"
+  infrastruktur_info: "Informationstafel am Donauradweg"
+  naturschutzgebiet_bezug: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: narrenzunft
+BEZEICHNUNG: Narrenzunft Mühlheim/Donau
+EIGENSCHAFTEN:
+  figuren: "Schellennarr und Kea-Weib"
+  verband_mitglied: "Vereinigung Schwäbisch-Alemannischer Narrenzünfte (VSAN)"
+  besonderheit: "Hochburg der schwäbisch-alemannischen Fasnet"
+GUELTIG_AB: 1892
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: fasnet_brauch
+BEZEICHNUNG: Sagt er
+EIGENSCHAFTEN:
+  einfuehrung: 1892
+  inspirationsquelle: "Singspiel 'Ein Wiener in Berlin' von Balthasar Leibinger 1890 von Berlin-Besuch mitgebracht"
+  ablauf: "Vorsänger singt Kuriositäten des vergangenen Jahres, ca. 200 'Sagt-er-Männer' in weißen Hemden und schwarzen Zipfelmützen bestätigen mit Kopfnicken und Singen 'Sagt er'"
+  zeitpunkt_festakt: "Fasnetsmontag-Nachmittag und morgens Umzug"
+  einzigartigkeit: "in dieser Form einzigartig"
+  superlativ: "einzigartig in dieser Form"
+GUELTIG_AB: 1892
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Stadtfest
+EIGENSCHAFTEN:
+  haeufigkeit: "alle zwei Jahre"
+  zeit: "erstes Septemberwochenende"
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Großer Markttag
+EIGENSCHAFTEN:
+  unterveranstaltung: "Ulrichsmarkt und Flohmarkt"
+  zeit: "zweiter Sonntag im Juni"
+  haeufigkeit: "jährlich"
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Thomasmarkt
+EIGENSCHAFTEN:
+  zeit: "30. Oktober (sofern kein Sonntag)"
+  status: "traditionell"
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: museum
+BEZEICHNUNG: Museum Vorderes Schloss
+EIGENSCHAFTEN:
+  lage: "Vorderes Schloss, beide oberen Stockwerke"
+  erwerb: 1987
+  erwerber: "Stadt Mühlheim"
+  erwerb_verkauf_von: "Freiherrn von Enzberg"
+  restaurierung: "vollständig"
+  bauform: "Mitte 18. Jahrhundert"
+  schwerpunkt: "Geschichte der Stadt und ehemalige Herrschaft Mühlheim, Kirche und Welschenberg"
+  dauerausstellung: "Themen aus Kunst- und Kulturgeschichte sowie Kirchen- und Sozialgeschichte"
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ENTITÄT: infrastruktur_kultur
+BEZEICHNUNG: Festhalle
+EIGENSCHAFTEN:
+  zweck: "Theater und Konzertveranstaltungen"
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur_kultur
+BEZEICHNUNG: Gemeindezentrum Stetten
+EIGENSCHAFTEN:
+  zweck: "Theater und Konzertveranstaltungen"
+  ortsteil: Stetten
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur_kultur
+BEZEICHNUNG: Bürgerhaus Stetten
+EIGENSCHAFTEN:
+  zweck: "regelmäßige Vorträge des Fördervereins"
+  ortsteil: Stetten
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Tuttlingen–Inzigkofen
+EIGENSCHAFTEN:
+  betreiber: Württembergische Staatseisenbahnen
+  baujahr: 1890
+  mueller_anbindung: "Ringzug-System verbindet Mühlheim mit Fridingen an der Donau und Tuttlingen"
+  RE55_haeufigkeit: "zweistündlich"
+  RE55_richtungen: "Ulm über Sigmaringen oder Villingen über Tuttlingen"
+  verkehrsverbund: "Verkehrsverbunds Schwarzwald-Baar-Heuberg"
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: fahrradweg
+BEZEICHNUNG: Donauradweg
+EIGENSCHAFTEN:
+  route_lang: "Donaueschingen über Passau, Wien, Budapest bis Schwarzes Meer"
+  europäisch_ab_tuttlingen: "EuroVelo-Route EV6"
+  deutschland_bezeichnung: "zwischen Tuttlingen und Passau als D-Route 6"
+  mueller_verbindung: "verbindet Mühlheimer Unterstadt und Ortsteil Stetten mit Tuttlingen und Fridingen an der Donau"
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: fahrradweg
+BEZEICHNUNG: Schwäbische-Alb-Radweg
+EIGENSCHAFTEN:
+  route: "ganze Schwäbische Alb vom Bodensee nach Donauwörth"
+  mueller_verlauf: "Tuttlingen nach Stetten weiter über Mahlstetten, Böttingen, Gosheim, Wehingen nach Balingen"
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: infrastruktur_versorgung
+BEZEICHNUNG: Wasserwirtschaft
+EIGENSCHAFTEN:
+  eigenversorgung: true
+  abwasser_operator: "Abwasserzweckverband Donautal – Heuberg"
+  abwasser_sitz: Mühlheim
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: infrastruktur_versorgung
+BEZEICHNUNG: Stromnetz
+EIGENSCHAFTEN:
+  betreiber: EnBW
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: infrastruktur_versorgung
+BEZEICHNUNG: Erdgasversorgung
+EIGENSCHAFTEN:
+  betreiber: "badenova AG & Co. KG (Freiburg)"
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: energiegesellschaft
+BEZEICHNUNG: Energiegesellschaft Mühlheim mbh & Co. KG
+EIGENSCHAFTEN:
+  partner: "badenova AG & Co. KG"
+  infrastruktur: "Nahwärmeversorgungsnetz"
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: person
+BEZEICHNUNG: Caspar II. Thoma
+EIGENSCHAFTEN:
+  ort_bezug: Mühlheim (angenommen)
+  todesjahr: 1596
+  position: "Abt des Klosters St. Blasien"
+  position_zeit: 1571
+  position_zeit_ende: 1596
+GUELTIG_AB: 1571
+GUELTIG_BIS: 1596
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: Ferdinand Weitzenegger
+EIGENSCHAFTEN:
+  ort_bezug: Mühlheim (angenommen)
+  leben: 1704
+  leben_ende: 1775
+  berufe: "Palier, Baumeister und Architekt"
+GUELTIG_AB: 1704
+GUELTIG_BIS: 1775
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: Ignaz Ambros von Amman
+EIGENSCHAFTEN:
+  ort_bezug: Mühlheim (angenommen)
+  leben: 1753
+  leben_unsicher: "1830 oder 1840"
+  berufe: "Kartograf und Landesgeometer"
+GUELTIG_AB: 1753
+GUELTIG_BIS: 1840
+VERTRAUEN: vermutlich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Karl Anton Gutknecht
+EIGENSCHAFTEN:
+  ort_bezug: Mühlheim (angenommen)
+  leben: 1859
+  leben_ende: 1928
+  beruf: Politiker
+  partei: DNVP
+  position: Reichstagsabgeordneter
+GUELTIG_AB: 1859
+GUELTIG_BIS: 1928
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Josef Alfons Wirth
+EIGENSCHAFTEN:
+  ort_bezug: Mühlheim (angenommen)
+  leben: 1887
+  leben_ende: 1916
+  beruf: "Maler und Zeichner"
+GUELTIG_AB: 1887
+GUELTIG_BIS: 1916
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Nikolaus Freiherr von Enzberg
+EIGENSCHAFTEN:
+  ort_bezug: Mühlheim (angenommen)
+  leben: 1911
+  leben_ende: 1976
+  beruf: Jurist
+  position: "Landrat von Rottweil"
+GUELTIG_AB: 1911
+GUELTIG_BIS: 1976
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Fritz Buschle
+EIGENSCHAFTEN:
+  ort_bezug: Mühlheim (angenommen)
+  geburt: 1951
+  partei: SPD
+  position: Politiker
+  landtag_position: "Mitglied des Landtags Baden-Württemberg"
+  landtag_zeit: 2006
+  landtag_zeit_ende: 2011
+  gemeinderat: Mühlheim
+  gemeinderat_zeit: 1980
+  gemeinderat_zeit_ende: 2018
+GUELTIG_AB: 1951
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Oliver Ehret
+EIGENSCHAFTEN:
+  ort_bezug: Mühlheim
+  geburt: 1964
+  partei: CDU
+  position: "Bürgermeister von Mühlheim"
+  buergermeister_zeit: 1994
+  buergermeister_zeit_ende: 2005
+  oberbuergermeister: "Singen (Hohentwiel)"
+  oberbuergermeister_zeit: 2005
+  oberbuergermeister_zeit_ende: 2013
+GUELTIG_AB: 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: person
+BEZEICHNUNG: Franz Leibinger
+EIGENSCHAFTEN:
+  ort_bezug: Mühlheim (angenommen)
+  geburt: 1976
+  berufe: "ehemaliger Tennisspieler und -trainer, Videoproduzent"
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Maria-Lena Weiss
+EIGENSCHAFTEN:
+  ort_bezug: Mühlheim (angenommen)
+  geburt: 1981
+  partei: CDU
+  position: "Mitglied des Deutschen Bundestages"
+  bundestag_zeit: 2021
+  wahlkreis_typ: Direktmandat
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Emil Buschle
+EIGENSCHAFTEN:
+  position: "Ortsvorsteher Stadtteil Stetten"
+  zeitpunkt: aktuell
+  vorherige_position: "1. Beigeordneter der Stadt Tuttlingen"
+  vorherige_position_zeit: 2006
+  vorherige_position_zeit_ende: 2022
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: person
+BEZEICHNUNG: Jörg Kaltenbach
+EIGENSCHAFTEN:
+  position: "Bürgermeister von Mühlheim an der Donau"
+  amtsantritt: 2006
+  partei: CDU
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Kurt Weiss
+EIGENSCHAFTEN:
+  position: "Bürgermeister von Mühlheim"
+  amtszeit: 1966
+  amtszeit_ende: 1994
+  partei: CDU
+GUELTIG_AB: 1966
+GUELTIG_BIS: 1994
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: person
+BEZEICHNUNG: Bartholomäus Kindler
+EIGENSCHAFTEN:
+  position: "Bürgermeister"
+  zeit: "Dreißigjähriger Krieg"
+  werk: Chronik
+  beschreibung: "schildert das Schicksal der Stadt widerfahren ist"
+GUELTIG_AB: 1630
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Peter der Spreter
+EIGENSCHAFTEN:
+  position: Schultheiß
+  tat: "Kauf der Burg Kraftstein"
+  tat_jahr: 1386
+GUELTIG_AB: 1386
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Friedrich IV. von Zollern
+EIGENSCHAFTEN:
+  tat: "Gründung Burg Mühlheim"
+  tat_jahr: "kurz nach 1200"
+  standort_burg: "Bergsporn südlich Donau, Nußbühl genannt"
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: person
+BEZEICHNUNG: Ludwig Leibinger
+EIGENSCHAFTEN:
+  beruf: Uhrmacher
+  tat: "Gründung Werkstatt für chirurgische Instrumente"
+  tat_jahr: 1896
+  nachfolger_firma: "Karl Leibinger Medizintechnik"
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: person
+BEZEICHNUNG: Ruprecht Amman
+EIGENSCHAFTEN:
+  tat: "Gründung Uhrenfabrik"
+  tat_zeit: "Ende 19. Jahrhundert"
+GUELTIG_AB: 1880
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: Karl Aigeltinger
+EIGENSCHAFTEN:
+  tat: "Gründung Uhrenfabrik"
+  tat_zeit: "Ende 19. Jahrhundert"
+GUELTIG_AB: 1880
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: Balthasar Leibinger
+EIGENSCHAFTEN:
+  tat: "Mitbringsel Idee Sagt-er-Fastnachtsspiel von Berlin-Besuch 1890"
+  inspirationsquelle: "Singspiel 'Ein Wiener in Berlin'"
+  jahr_besuch: 1890
+  jahr_einfuehrung_sagt_er: 1892
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Hieronymus Spiegel
+EIGENSCHAFTEN:
+  beruf: "Orgelbauer"
+  herkunft: "Fridingen an der Donau"
+  werk: "Orgel Galluskirche 1759"
+  status: "letzter erhaltener Werke"
+GUELTIG_AB: 1750
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kunstfamilie
+BEZEICHNUNG: Korb
+EIGENSCHAFTEN:
+  herkunft: Mühlheim
+  zeitraum: "17. und 18. Jahrhundert"
+  werk: "gestaltete zahlreiche sakrale Gebäude im gesamten Umkreis"
+GUELTIG_AB: 1600
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verband
+BEZEICHNUNG: Gemeindeverwaltungsverband Donau-Heuberg
+EIGENSCHAFTEN:
+  sitz: "Fridingen an der Donau"
+  mitglied: Mühlheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: verband
+BEZEICHNUNG: Tourismusverband Donaubergland
+EIGENSCHAFTEN:
+  mitglied: Mühlheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92

@@ -1,0 +1,1000 @@
+ENTITÄT: ort
+BEZEICHNUNG: Sulz am Neckar
+EIGENSCHAFTEN:
+  bundesland: Baden-Württemberg
+  landkreis: Rottweil
+  lage_fluss: Oberlauf des Neckars
+  hoehe_minimum: 410 m ü. NHN
+  hoehe_maximum: 675 m ü. NHN
+  entfernung_stuttgart: ca. 60 km südwestlich
+  entfernung_bodensee: 100 km
+  groesse_gemeindegebiet: 87,60 km²
+  superlativ: größtes Gemeindegebiet im Landkreis Rottweil
+  erholungsort_status: staatlich anerkannt
+  geografische_region: zwischen Schwarzwald und Schwäbischer Alb
+  region_schwarzwald: Mittlerer Schwarzwald
+  täler: Neckar, Glatt, Mühlbach
+  teilorte_anzahl: 10
+  namensherkunft: Salzquellen, die über Jahrhunderte die Stadtgeschichte prägten
+  erste_urkundliche_erwähnung: villa publica Sulza
+  erste_urkundliche_erwahnung_jahr: 790
+  stadtrecht_verleihung_jahr: 1284
+  stadtrecht_verliehen_von: König Rudolf von Habsburg
+  brände_komplett_niedergebrannt: 1581, 1794
+  solefreibad_status: das einzige Solefreibad im Umkreis
+GUELTIG_AB: 790
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: salzgewinnung
+BEZEICHNUNG: Saline Sulz
+EIGENSCHAFTEN:
+  bedeutung_wirtschaftlich: wirtschaftlicher Rang als Salzstadt
+  ausnahmestellung: einzige Saline Württembergs lange Zeit
+  grund_verlust_rang: 1803 ergiebigere Salzwerke am Kocher württembergisch
+  verlust_rang_jahr: 1803
+GUELTIG_AB: 11
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: ortschaft
+BEZEICHNUNG: Sulz-Kastell
+ORTSTEIL_BEZUG: Sulz-Kastell
+EIGENSCHAFTEN:
+  typ: Stadtbezirk
+  lage: südlich des heutigen Stadtkerns
+  besonderheit: Standort des früheren römischen Kastells
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ortschaft
+BEZEICHNUNG: Sulz-Schillerhöhe
+ORTSTEIL_BEZUG: Sulz-Schillerhöhe
+EIGENSCHAFTEN:
+  typ: Stadtbezirk
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ortschaft
+BEZEICHNUNG: Bergfelden
+ORTSTEIL_BEZUG: Bergfelden
+EIGENSCHAFTEN:
+  typ: Ortsteil
+  eingemeindung_datum: 1. Januar 1972
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: ortschaft
+BEZEICHNUNG: Dürrenmettstetten
+ORTSTEIL_BEZUG: Dürrenmettstetten
+EIGENSCHAFTEN:
+  typ: Ortsteil
+  eingemeindung_datum: 1. Januar 1975
+  naturpark: Naturpark Schwarzwald Mitte/Nord
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: ortschaft
+BEZEICHNUNG: Fischingen
+ORTSTEIL_BEZUG: Fischingen
+EIGENSCHAFTEN:
+  typ: Ortsteil
+  eingemeindung_datum: 1. März 1972
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: ortschaft
+BEZEICHNUNG: Glatt
+ORTSTEIL_BEZUG: Glatt
+EIGENSCHAFTEN:
+  typ: Ortsteil
+  eingemeindung_datum: 1. Januar 1975
+  naturpark: Naturpark Schwarzwald Mitte/Nord
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: ortschaft
+BEZEICHNUNG: Holzhausen
+ORTSTEIL_BEZUG: Holzhausen
+EIGENSCHAFTEN:
+  typ: Ortsteil
+  eingemeindung_datum: 1. Januar 1974
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: ortschaft
+BEZEICHNUNG: Hopfau
+ORTSTEIL_BEZUG: Hopfau
+EIGENSCHAFTEN:
+  typ: Ortsteil
+  eingemeindung_datum: 1. Januar 1972
+  naturpark: Naturpark Schwarzwald Mitte/Nord
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: ortschaft
+BEZEICHNUNG: Mühlheim
+ORTSTEIL_BEZUG: Mühlheim
+EIGENSCHAFTEN:
+  typ: Ortsteil
+  eingemeindung_datum: 1. Januar 1972
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: ortschaft
+BEZEICHNUNG: Renfrizhausen
+ORTSTEIL_BEZUG: Renfrizhausen
+EIGENSCHAFTEN:
+  typ: Ortsteil
+  eingemeindung_datum: 1. Januar 1974
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: ortschaft
+BEZEICHNUNG: Sigmarswangen
+ORTSTEIL_BEZUG: Sigmarswangen
+EIGENSCHAFTEN:
+  typ: Ortsteil
+  eingemeindung_datum: 1. Januar 1974
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: kastell
+BEZEICHNUNG: Römisches Kastell Sulz
+EIGENSCHAFTEN:
+  periode: Römisch
+  erbaut_circa: Jahr 74 n.Chr.
+  lage: südlich des heutigen Stadtkerns auf einer Anhöhe
+  nachnutzung: Standort des Stadtbezirks Sulz-Kastell mit Industriegebiet
+  museum: Römerkeller-Museum im Bereich des ehemaligen Kastells
+GUELTIG_AB: 74
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Albeck
+EIGENSCHAFTEN:
+  status_heute: Ruine Albeck
+  erbauer: Freiherrn von Geroldseck
+  bauzeit_periode: Ende des 13. Jahrhunderts
+  zerstoerung_datum: 30. Dezember 1688
+  zerstoerung_ursache: französisches Streifkorps
+  zerstoerung_aktion: zerstört und angezündet
+GUELTIG_AB: 1290
+GUELTIG_BIS: 1688
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Kirchberg
+EIGENSCHAFTEN:
+  typ_urspruenglich: Dominikanerinnenkloster
+  nutzung_heute: evangelisches Tagungs- und Einkehrhaus
+  besonderheit: Zentrum der Berneuchener Bewegung innerhalb der evangelischen Kirche
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kloster
+BEZEICHNUNG: Franziskaner-Kloster Bernstein
+EIGENSCHAFTEN:
+  typ: Franziskaner-Kloster
+  nutzung_historisch: 1946-1955 Kunstakademie Bernsteinschule
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1955
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Stadtkirche
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  bauzeit: 1513-1517
+  bedeutung: nach Reformation Kirche der Stadt Sulz
+GUELTIG_AB: 1513
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johannes Evangelist
+EIGENSCHAFTEN:
+  konfession: katholisch
+  erbaut: 1950
+  architekt: Hans Lütkemeier
+  grund_neubau: erneuter Zuzug von Katholiken nach dem Zweiten Weltkrieg
+  dekanat: Dekanat Rottweil
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Naturschutzgebiet Albeck
+EIGENSCHAFTEN:
+  lage: um die gleichnamige Ruine südlich der Stadt
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Naturschutzgebiet Hungerbühl-Weiherwiesen
+ORTSTEIL_BEZUG: Mühlheim, Renfrizhausen
+EIGENSCHAFTEN:
+  lage: östlich von Mühlheim und Renfrizhausen
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schonwald
+BEZEICHNUNG: Legenhalde
+EIGENSCHAFTEN:
+  lage: oberhalb der Innenstadt
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: museum
+BEZEICHNUNG: Gustav Bauernfeind-Museum
+EIGENSCHAFTEN:
+  standort: Untere Hauptstraße 5
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: museum
+BEZEICHNUNG: Kultur- und Museumszentrum
+ORTSTEIL_BEZUG: Glatt
+EIGENSCHAFTEN:
+  standort: Wasserschloss Glatt
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: museum
+BEZEICHNUNG: Römerkeller-Museum
+EIGENSCHAFTEN:
+  lage: Bereich des ehemaligen römischen Kastells Sulz
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: museum
+BEZEICHNUNG: Atelier der Kunststiftung Paul Kälberer
+ORTSTEIL_BEZUG: Glatt
+EIGENSCHAFTEN:
+  ausstellung: Gemälde und Grafiken Kälberers
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Bahnstrecke Plochingen–Immendingen
+EIGENSCHAFTEN:
+  anschluss_jahr: 1867
+  anschluss_abschnitt: Horb bis Talhausen
+  betreiber: Königlich Württembergische Staats-Eisenbahnen
+  verkehr_heute: Regional-Express und Intercity Linie 87
+  verkehr_haeufigkeit: stündlich nach Stuttgart und Rottweil, zweistündlich nach Singen
+GUELTIG_AB: 1867
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: aussichtsturm
+BEZEICHNUNG: Aussichtsturm Mettstetten
+ORTSTEIL_BEZUG: Dürrenmettstetten
+EIGENSCHAFTEN:
+  hoehe: 24 Meter
+  erbaut: 1998
+  aussichtsplattform_hoehe: 700 m ü. NHN
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: sport_infrastruktur
+BEZEICHNUNG: Freibad susolei
+EIGENSCHAFTEN:
+  besonderheit: einziges Solefreibad im Umkreis
+  grund_neubau: Erinnerung an frühere Bedeutung der Salzgewinnung
+  schwimmbecken_befuellung: Sole (Salzwasser)
+  beginn_solefuellung: seit Neubau des Freibads
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sport_infrastruktur
+BEZEICHNUNG: Albeck-Stadion Sulz
+EIGENSCHAFTEN:
+  ausstattung: Rasenplatz, Tartanbahn, diverse Leichtathletik-Anlagen
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: schulgebaeude
+BEZEICHNUNG: Albeck-Gymnasium
+EIGENSCHAFTEN:
+  typ: Gymnasium
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: schulgebaeude
+BEZEICHNUNG: Lina-Hähnle-Realschule
+EIGENSCHAFTEN:
+  typ: Realschule
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: schulgebaeude
+BEZEICHNUNG: Grund- und Hauptschule mit Werkrealschule
+EIGENSCHAFTEN:
+  typ: Grund-, Haupt- und Werkrealschule
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: schulgebaeude
+BEZEICHNUNG: Elly-Heuss-Knapp Schule
+EIGENSCHAFTEN:
+  typ: Kaufmännische Schulen mit Wirtschaftsgymnasium
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: schulgebaeude
+BEZEICHNUNG: Volkshochschule
+EIGENSCHAFTEN:
+  typ: Volkshochschule
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: fluganlage
+BEZEICHNUNG: Ultraleichtfluggelände Sulz
+EIGENSCHAFTEN:
+  typ: Ultraleichtfluggelände
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: funkanlage
+BEZEICHNUNG: Doppler-Drehfunkfeuer (DVOR) Sulz
+EIGENSCHAFTEN:
+  frequenz: 116,10 MHz
+  lage: 2 Kilometer nordöstlich des Ortes
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: buergermeister
+BEZEICHNUNG: Walter Wetzel
+EIGENSCHAFTEN:
+  beschreibung: Bürgermeister von Sulz am Neckar
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: buergermeister
+BEZEICHNUNG: Peter Vosseler
+EIGENSCHAFTEN:
+  beschreibung: Bürgermeister von Sulz am Neckar
+  geburtsjahr: 1941
+  geburtsort: Tuttlingen
+GUELTIG_AB: 1975
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: buergermeister
+BEZEICHNUNG: Gerd Hieber
+EIGENSCHAFTEN:
+  beschreibung: Bürgermeister von Sulz am Neckar
+GUELTIG_AB: 1999
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: buergermeister
+BEZEICHNUNG: Jens Keucher
+EIGENSCHAFTEN:
+  beschreibung: Bürgermeister von Sulz am Neckar
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Montendre
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Département Charente-Maritime
+  partnerschaft_mit: Sulz am Neckar
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Altenberg
+EIGENSCHAFTEN:
+  land: Deutschland
+  bundesland: Sachsen
+  partnerschaft_mit: Sulz am Neckar
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: brunnen
+BEZEICHNUNG: Marktplatzbrunnen
+EIGENSCHAFTEN:
+  beschreibung: Steinerner Brunnenstock mit verzierten Metallgussplatten
+  jahr_anlage: 1807
+GUELTIG_AB: 1807
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: friedhof
+BEZEICHNUNG: Alter Friedhof
+EIGENSCHAFTEN:
+  beschreibung: Epitaphe des 1542 angelegten alten Friedhofs
+  anlage_jahr: 1542
+GUELTIG_AB: 1542
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: grabmal
+BEZEICHNUNG: Bronzegrabmal Anna von Hohengeroldseck
+EIGENSCHAFTEN:
+  beschreibung: Bronzegrabmal der Anna von Hohengeroldseck geb. Gräfin von Lindow und Ruppin und ihres Sohnes Walter
+  standort: Sulzer Stadtkirche
+  jahr: 1533
+GUELTIG_AB: 1533
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Stadtränd zweimal komplett niedergebrannt
+EIGENSCHAFTEN:
+  erstes_ereignis_jahr: 1581
+  zweites_ereignis_jahr: 1794
+  wiederaufbau_dauer: zwei Jahre
+  zwischenfall_besatzung: immer wieder Plünderungen durch französische Soldaten
+GUELTIG_AB: 1581
+GUELTIG_BIS: 1794
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Außenlager des KZ Natzweiler-Struthof
+EIGENSCHAFTEN:
+  zeitraum: Gegen Ende des Zweiten Weltkrieges
+  ort: Sulz am Neckar
+  verbrechen: Vernehmung und Folterung polnischer Zwangsarbeiter im ehemaligen Amtsgerichtsgefängnis
+  todesfaelle: mindestens sieben Inhaftierte
+  jahr: 1944
+  hintergrund: Zwangsarbeiter verdächtigt Verbindung zu Widerstandsorganisation
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Bundeswehrdepot Sulz
+EIGENSCHAFTEN:
+  existenz_von: 1963
+  existenz_bis: 1993
+GUELTIG_AB: 1963
+GUELTIG_BIS: 1993
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: radweg
+BEZEICHNUNG: Neckartal-Radweg
+EIGENSCHAFTEN:
+  typ: Landes-Radfernweg
+  startpunkt: Villingen-Schwenningen
+  endpunkt: Mannheim
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: radweg
+BEZEICHNUNG: Heidelberg-Schwarzwald-Bodensee-Radweg
+EIGENSCHAFTEN:
+  startpunkt: Heidelberg
+  endpunkt: Radolfzell
+  verlauf: von Horb kommend östlich des Neckartals über Mühlheim und Sigmarswangen nach Rottweil
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: touristische_route
+BEZEICHNUNG: Hohenzollernstraße
+EIGENSCHAFTEN:
+  beschreibung: verläuft an vielen Sehenswürdigkeiten vorbei
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ENTITÄT: touristische_route
+BEZEICHNUNG: Römerstraße Neckar–Alb–Aare
+EIGENSCHAFTEN:
+  beschreibung: verläuft an vielen Sehenswürdigkeiten vorbei
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Richard Böklen
+EIGENSCHAFTEN:
+  lebensdaten: 1861-1934
+  beruf: Architekt, Baubeamter, Professor der Baugewerkschule Stuttgart
+GUELTIG_AB: 1861
+GUELTIG_BIS: 1934
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Guth von Sulz
+EIGENSCHAFTEN:
+  bedeutung: bedeutendste Salzgesödsverwandte der Stadt Sulz
+  zeitraum: 16. Jahrhundert
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Jacob Georg Schäffer
+EIGENSCHAFTEN:
+  lebensdaten: 1745-1814
+  beruf: Oberamtmann von Sulz
+  besonderheit: erster moderner Kriminalist
+  fing: Konstanzer Hans und Hannikel
+GUELTIG_AB: 1745
+GUELTIG_BIS: 1814
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Friedrich von Alberti
+EIGENSCHAFTEN:
+  lebensdaten: 1795-1878
+  beruf: Geologe
+  verbindung_sulz: lebte und wirkte lange Zeit in Sulz
+GUELTIG_AB: 1795
+GUELTIG_BIS: 1878
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Paul Kälberer
+EIGENSCHAFTEN:
+  lebensdaten: 1896-1974
+  beruf: Kunstmaler und Grafiker
+  besonderheit: Gründer der Bernsteinschule
+  wirkung_ort: Sulz-Glatt
+  wirkung_zeit: 1926-1974
+  weg_benannt: Weg in Glatt nach ihm benannt
+GUELTIG_AB: 1896
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Evelyne Marie France Neff
+EIGENSCHAFTEN:
+  lebensdaten_geburt: 1941
+  beruf: Politikerin im Ruhestand
+  partei: SPD
+  wohnort: lebt in Sulz
+GUELTIG_AB: 1941
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Dieter Kleinmann
+EIGENSCHAFTEN:
+  lebensdaten_geburt: 1953
+  beruf: FDP-Politiker
+  wohnort: lebte in Sulz
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Paul Schmid
+EIGENSCHAFTEN:
+  lebensdaten: 1895-1977
+  beruf: Literat, Schriftsteller, Mundartdichter, Kunstmüller
+GUELTIG_AB: 1895
+GUELTIG_BIS: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Peter Vosseler
+EIGENSCHAFTEN:
+  lebensdaten_geburt: 1941
+  herkunftsort: Tuttlingen
+  amt: Bürgermeister der Stadt Sulz am Neckar
+  amtszeit: 1975-1999
+GUELTIG_AB: 1941
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Sixtus Riessinger
+EIGENSCHAFTEN:
+  lebensdaten_geboren: um 1447
+  lebensdaten_gestorben: 1506 oder später
+  geburtsort_alternativ: Sulz
+  sterbeort: Straßburg
+  beruf: Geistlicher und Inkunabeldrucker
+  wirkungsstaetten: Rom, Neapel, Straßburg
+GUELTIG_AB: 1447
+GUELTIG_BIS: 1506
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Heinrich Schweickher
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1526
+  lebensdaten_gestorben: 28. Juni 1579
+  sterbeort: Sulz
+  beruf: Notar, Waisenvogt, Kartograph
+GUELTIG_AB: 1526
+GUELTIG_BIS: 1579
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Salomon Schweigger
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1551, 30. März
+  lebensdaten_gestorben: 21. Juni 1622
+  beruf: Gesandtschaftsreisender in den Orient
+  besonderheit: Erste deutsche Koranübersetzung
+GUELTIG_AB: 1551
+GUELTIG_BIS: 1622
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Christoph Fahrner
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1616
+  lebensdaten_gestorben: um 1688
+  beruf: Schultheiß von Löchgau, Speyerischer Domstiftschaffner, Heilmittelhersteller, Chemiker
+GUELTIG_AB: 1616
+GUELTIG_BIS: 1688
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Immanuel Gottlob Brastberger
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1716, 10. April
+  lebensdaten_gestorben: 13. Juli 1764
+  sterbeort: Nürtingen
+  beruf: evangelischer Geistlicher
+GUELTIG_AB: 1716
+GUELTIG_BIS: 1764
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Magnus Friedrich Roos
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1727, 6. September
+  lebensdaten_gestorben: 19. März 1803
+  beruf: Prälat und Schriftsteller
+GUELTIG_AB: 1727
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Joseph Gottlieb Kölreuter
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1733, 27. April
+  lebensdaten_gestorben: 11. November 1806
+  sterbeort: Karlsruhe
+  beruf: Botaniker, Professor der Naturgeschichte
+GUELTIG_AB: 1733
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Johann Michael Armbruster
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1761, Nov. 1
+  lebensdaten_gestorben: 14. Januar 1814
+  sterbeort: Wien
+  beruf: Dichter und Volksschriftsteller
+GUELTIG_AB: 1761
+GUELTIG_BIS: 1814
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Carl Ferdinand Heinrich von Ludwig
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1784, 6. Oktober
+  lebensdaten_gestorben: 27. Dezember 1847
+  sterbeort: Kapstadt
+  beruf: Apotheker, Unternehmer, Botaniker in Kapstadt
+GUELTIG_AB: 1784
+GUELTIG_BIS: 1847
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Johann Gottlieb Meebold
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1796, 28. August
+  lebensdaten_gestorben: 21. September 1871
+  sterbeort: Heidenheim an der Brenz
+  beruf: Mitbegründer der Württembergischen Cattunmanufactur
+GUELTIG_AB: 1796
+GUELTIG_BIS: 1871
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Emilie Scotzniovsky
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1815, 22. Januar
+  geburtsort: Glatt
+  lebensdaten_gestorben: 17. Januar 1856
+  sterbeort: Baden-Baden
+  beruf: Dichterin und Verlegerin
+GUELTIG_AB: 1815
+GUELTIG_BIS: 1856
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Carl Reinhold August Wunderlich
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1815, 4. August
+  lebensdaten_gestorben: 25. September 1877
+  sterbeort: Leipzig
+  beruf: Internist
+GUELTIG_AB: 1815
+GUELTIG_BIS: 1877
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Johannes von Dettinger
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1842, 10. Dezember
+  lebensdaten_gestorben: 13. April 1906
+  sterbeort: Cannstatt
+  beruf: württembergischer General der Infanterie
+GUELTIG_AB: 1842
+GUELTIG_BIS: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Theodor Hofmann
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1843, 16. Oktober
+  lebensdaten_gestorben: 22. April 1914
+  sterbeort: Urlau
+  beruf: Pfarrer und Reichstagsabgeordneter
+  partei: Zentrum
+GUELTIG_AB: 1843
+GUELTIG_BIS: 1914
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Gustav Bauernfeind
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1848, 4. September
+  lebensdaten_gestorben: 24. Dezember 1904
+  sterbeort: Jerusalem
+  beruf: Orientmaler
+  museum: Gustav Bauernfeind-Museum
+GUELTIG_AB: 1848
+GUELTIG_BIS: 1904
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Lina Hähnle
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1851, 3. Februar
+  lebensdaten_gestorben: 1. Februar 1941
+  sterbeort: Giengen an der Brenz
+  beruf: Gründerin des Bund für Vogelschutz
+  besonderheit: Bund für Vogelschutz heute Naturschutzbund Deutschland (NABU)
+  schule_benannt: Lina-Hähnle-Realschule
+GUELTIG_AB: 1851
+GUELTIG_BIS: 1941
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Otto Vogt
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1856, 6. April
+  lebensdaten_gestorben: 10. Mai 1929
+  sterbeort: Schwäbisch Hall
+  beruf: württembergischer Oberamtmann
+GUELTIG_AB: 1856
+GUELTIG_BIS: 1929
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Reinhold Schaad
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1884, 12. Juni
+  lebensdaten_gestorben: Januar 1946
+  sterbeort: Schwäbisch Hall
+  beruf: Musiker, Komponist und Dichter
+GUELTIG_AB: 1884
+GUELTIG_BIS: 1946
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Karl Müller
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1897, 11. Januar
+  geburtsort: Glatt
+  lebensdaten_gestorben: 21. Juli 1982
+  sterbeort: Ravensburg
+  beruf: Politiker (SPD)
+  aemter: MdB, MdL (Württemberg-Baden und Baden-Württemberg)
+GUELTIG_AB: 1897
+GUELTIG_BIS: 1982
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Richard Schmid
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1899, 31. März
+  lebensdaten_gestorben: 1. Januar 1986
+  sterbeort: Stuttgart
+  beruf: Jurist, Richter, Politiker (SPD)
+  besonderheit: Staatssekretär im Justizministerium, Widerstandskämpfer gegen den Nationalsozialismus
+GUELTIG_AB: 1899
+GUELTIG_BIS: 1986
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Helene Müller
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1900, 16. November
+  geburtsort: Hopfau
+  lebensdaten_gestorben: nicht ermittelt
+  beruf: Schriftstellerin
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Friedrich Stegmüller
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1902, 8. Dezember
+  geburtsort: Glatt
+  lebensdaten_gestorben: 4. August 1981
+  sterbeort: Pertisau
+  beruf: katholischer Theologe, Professor für Dogmatik
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1981
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Brigitte Peterhans
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1928, 27. August
+  lebensdaten_gestorben: 15. Januar 2021
+  sterbeort: Stuttgart
+  beruf: deutsch-amerikanische Architektin
+GUELTIG_AB: 1928
+GUELTIG_BIS: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Ulrich Lang
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1933, 24. Juli
+  lebensdaten_gestorben: 16. Februar 2018
+  sterbeort: Michelbach an der Bilz
+  beruf: Pädagoge und Politiker (SPD)
+  aemter: MdL Baden-Württemberg
+GUELTIG_AB: 1933
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Bernd Neuner-Duttenhofer
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1943, 29. November
+  geburtsort: Hopfau
+  beruf: Autor, Journalist und Fernsehmoderator
+GUELTIG_AB: 1943
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Gerda Brodbeck
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1944
+  lebensdaten_gestorben: 2008
+  beruf: Malerin
+GUELTIG_AB: 1944
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Hans-Joachim Fuchtel
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1952, 13. Februar
+  beruf: Politiker (CDU)
+  aemter: bis 2021 MdB und Parlamentarischer Staatssekretär
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Otto Höschle
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1952, 21. Januar
+  beruf: Autor und Übersetzer
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Heike Kloss
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1968, 12. Juli
+  beruf: Theater-, Musical- und Fernsehschauspielerin
+  wohnort: lebt heute in Berlin
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Nazli Ekici
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1976, 28. März
+  beruf: Biathletin
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: sohn_tochter_stadt
+BEZEICHNUNG: Kay Rittweg
+EIGENSCHAFTEN:
+  lebensdaten_geboren: 1979
+  beruf: Politiker (AfD)
+GUELTIG_AB: 1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
