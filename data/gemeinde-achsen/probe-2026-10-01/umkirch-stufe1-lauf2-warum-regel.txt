@@ -1,0 +1,86 @@
+# Probe Stufe 1, Lauf 2 — Umkirch
+# Quelle: https://de.wikipedia.org/wiki/Umkirch, Abruf 2026-10-01
+# Prompt: Gemeinde-Achsen v0.5 §9.1 plus zwei Zusatzregeln (WARUM-FAKTEN, SUPERLATIVE UND EINZIGKEIT),
+#         Wortlaut in docs/konzepte/quizaway-stufe2-vorbereitung-2026-10-01.md §4.
+#         Für die Probe auf Blöcke mit Warum-Eigenschaft oder Superlativ beschränkt.
+# Extraktion: WebFetch (kleines schnelles Modell), Ausgabe unverändert
+# Befund: Namensdeutung jetzt erfasst, mit „vermutlich". Dazu drei weitere Warum-Fakten
+#         (Wohlstand des Vicus, Eigenständigkeit 1974, Limesfall).
+
+ENTITÄT: ort
+BEZEICHNUNG: Umkirch
+EIGENSCHAFTEN:
+  namensherkunft: "Kirche in den Wellen" (lateinisch Ecclesia in Undis)
+  namensherkunft_deutung: "Name spielt vermutlich auf Lage der Kirche auf einer Insel zwischen zwei Bächen an"
+  genauigkeit_namensherkunft: "vermutlich"
+  erste_urkundliche_erwaehnung: 1087
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: Mariä Himmelfahrt
+EIGENSCHAFTEN:
+  bauzeit_original: "zweite Hälfte des 11. Jahrhunderts"
+  superlativ: "älteste Pfarrkirche des Breisgaus"
+  baustil_urspruenglich: "romanisch"
+  umbauten_14_jahrhundert: "gotischer Stil"
+  umbau_barock: 1760-1765
+  seitenaltaere_kuenstler: "Johann Caspar Brenzinger"
+  patrozinium: "Mariä Himmelfahrt"
+  patronatsrecht_bis_badenuebergang: "Bischöfe von Basel"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: roemer_vicus
+BEZEICHNUNG: Vicus von Umkirch
+EIGENSCHAFTEN:
+  entdeckung_jahr: 1979
+  entdeckungsort: "Neubaugebiet Mühlematten südlich Umkirch"
+  grund_wohlstand: "Durchgangsverkehr der Römerstraße"
+  beschreibung_bebauung: "Steinbauten im Zentrum mit mehreren Bauperioden, lockere Holzbebauungen im Außenbereich"
+  nachgewiesene_aktivitaeten: "Mühlenbetriebe und Eisenverarbeitung"
+  untergang: "Limesfall 259/260 n.Chr."
+GUELTIG_AB: 0
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kriegsgefangenenlager
+BEZEICHNUNG: Kriegsgefangenenlager Umkirch
+EIGENSCHAFTEN:
+  errichtung: 1916
+  insassen: "alliierte Kriegsgefangene"
+  verwendung: "Arbeitsleistung in der Landwirtschaft"
+  kontext: "Erster Weltkrieg"
+GUELTIG_AB: 1916
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: gemeindereform_ereignis
+BEZEICHNUNG: Gebietsreform Baden-Württemberg - Umkirch
+EIGENSCHAFTEN:
+  anlass: "Freiburg wünschte Eingemeindung Umkirchs"
+  ergebnis: "Umkirch behielt Eigenständigkeit"
+  entscheidungsjahr: 1974
+  grund_erhalt: "starker Widerstand der Umkircher Bevölkerung"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: infrastruktur_projekt
+BEZEICHNUNG: Ortsumfahrung Bundesstraße 31
+EIGENSCHAFTEN:
+  freigabe_verkehr: "20. Dezember 2007"
+  freigegeben_durch: "Sven von Ungern-Sternberg (ehemaliger Regierungspräsident)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90

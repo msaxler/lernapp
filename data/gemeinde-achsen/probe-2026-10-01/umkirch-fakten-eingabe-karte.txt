@@ -1,0 +1,447 @@
+
+ENTITÄT: ort
+BEZEICHNUNG: Umkirch
+EIGENSCHAFTEN:
+  bundesland: Baden-Württemberg
+  regierungsbezirk: Freiburg
+  landkreis: Breisgau-Hochschwarzwald
+  höhe_ünn_m: 219
+  fläche_km2: 8.72
+  einwohner: 5683
+  einwohner_stand: 31. Dezember 2025
+  bevölkerungsdichte_pro_km2: 652
+  postleitzahl: 79224
+  vorwahl: 07665
+  kfz_kennzeichen: FR, MÜL, NEU
+  gemeindeschlüssel: 08 3 15 115
+  koordinaten: "48° 2′ N, 7° 46′ O"
+  lage_zu_freiburg_km: 8
+  lage_beschreibung: "Oberrheinische Tiefebene"
+  ersterwähnung_jahr: 1087
+  ersterwähnung_name_alt: Untkilicha
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Pascal Saffran
+EIGENSCHAFTEN:
+  partei: parteilos
+  amtsantritt_jahr: 2026
+  amtsantritt_tag: 9. Juni 2026
+  wahl_stimmen_prozent: 51.5
+  wahlbeteiligung_prozent: 44.8
+  wahl_tag: 19. April 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Walter Laub
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt_jahr: 2002
+  amtsende_jahr: 2026
+GUELTIG_AB: 2002
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Mariä Himmelfahrt
+EIGENSCHAFTEN:
+  baustil_ursprung: romanisch
+  entstehungszeit: "zweite Hälfte 11. Jahrhundert"
+  umbauten: "14. Jahrhundert (gotisch), 1760–1765 (barock)"
+  bedeutung: älteste Pfarrkirche des Breisgaus
+  seitenaltäre_künstler: Johann Caspar Brenzinger
+  patrozinium: Maria
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Hohenzollernschloss
+EIGENSCHAFTEN:
+  zustand: privat
+  zugänglichkeit: nicht öffentlich
+  parkanlage: Schlosspark
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Büningen
+EIGENSCHAFTEN:
+  ursprung: Mittelalter
+  typ: Wasserschloss
+  zerstörung_ereignis: Brand im Dreißigjährigen Krieg
+  wiederaufbau_zeitraum: 1663–1669
+  nutzung_ab: 2005
+  nutzung_aktuelle: Rathaus
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: mühle
+BEZEICHNUNG: Dachswanger Mühle
+EIGENSCHAFTEN:
+  ortsteil: Dachswangen
+  vorgänger: Burg Dachswangen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: mühle
+BEZEICHNUNG: Schlossmühle
+EIGENSCHAFTEN:
+  restaurierung_jahr: 2005
+  aktuelle_nutzung: Heimatmuseum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: römische_siedlung
+BEZEICHNUNG: Vicus von Umkirch
+EIGENSCHAFTEN:
+  entdeckung_jahr: 1979
+  lage: Neubaugebiet Mühlematten
+  bauarten: Steinbauten im Zentrum, Holzbebauung außen
+  wirtschaftszweige: "Mühlenbetriebe, Eisenverarbeitung"
+  verkehrsanbindung: Römerstraße von Riegel am Kaiserstuhl
+  ende_zeitraum: "ca. 259–260 n. Chr."
+  ende_ereignis: Limesfall
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Welte Fahrzeugbau
+EIGENSCHAFTEN:
+  branche: Fahrzeugbau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Gerriets GmbH
+EIGENSCHAFTEN:
+  branche: Bühnenausstattung
+  bedeutung: weltweit führend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: TRUMPF Medizin Systeme GmbH + Co. KG
+EIGENSCHAFTEN:
+  branche: Medizintechnik
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: hms-sonosystems GmbH
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: naturpark
+BEZEICHNUNG: Queen-Auguste-Victoria-Park
+EIGENSCHAFTEN:
+  fläche_hektar: 11
+  name_alt: Fulwell Park
+  auszeichnung: Europäischer Gartenkultur-Schöpfungspreis
+  zugänglichkeit: nicht öffentlich
+  lage: beim Hohenzollernschloss
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Bruges
+EIGENSCHAFTEN:
+  land: Frankreich
+  departement: Gironde
+  partnerschaft_seit: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kriegsgefangenenlager
+EIGENSCHAFTEN:
+  bestehung_ab: 1916
+  gefangenentyp: alliierte Kriegsgefangene
+  arbeitsbereich: Landwirtschaft
+  kontext: Erster Weltkrieg
+GUELTIG_AB: 1916
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verkehrsinfrastruktur
+BEZEICHNUNG: Bundesstraße 31a
+EIGENSCHAFTEN:
+  verbindung: "Bundesautobahn 5, Freiburg"
+  ortsumfahrung_freigabe: "20. Dezember 2007"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: verkehrsinfrastruktur
+BEZEICHNUNG: Bundesstraße 31-West
+EIGENSCHAFTEN:
+  strecke: "Umkirch bis Gottenheim"
+  eröffnung: "7. September 2012"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: wappen
+EIGENSCHAFTEN:
+  beschreibung: "Madonna auf Mondsichel in blauem Feld"
+  farbgebung: "silberne Madonna, goldene Mondsichel und Krone"
+  attribute: "Zepter und Jesuskind"
+  siegel_ursprung: "ab beginnend 16. Jahrhundert"
+  wappenbegründung: "Marienpatrozinium der Pfarrkirche"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Friedrich Wilhelm Prinz von Hohenzollern
+EIGENSCHAFTEN:
+  geburt_jahr: 1924
+  tod_jahr: 2010
+  funktion: "Oberhaupt des Hauses Hohenzollern-Sigmaringen"
+  beziehung_umkirch: "Sohn/Tochter der Gemeinde"
+GUELTIG_AB: 1924
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ferfried Prinz von Hohenzollern
+EIGENSCHAFTEN:
+  geburt_jahr: 1943
+  tod_jahr: 2022
+  profession: Tourenwagen-Rennfahrer
+  beziehung_umkirch: "Sohn/Tochter der Gemeinde"
+GUELTIG_AB: 1943
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Leopold Prinz von Bayern
+EIGENSCHAFTEN:
+  geburt_jahr: 1943
+  profession: Automobilrennfahrer
+  beziehung_umkirch: "Sohn/Tochter der Gemeinde"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Werner Käß
+EIGENSCHAFTEN:
+  geburt_jahr: 1924
+  tod_jahr: 2022
+  profession: Geologe
+  auszeichnung: Staufermedaille
+  beziehung_umkirch: "wohnte in Umkirch"
+GUELTIG_AB: 1924
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Cécile Verny
+EIGENSCHAFTEN:
+  geburt_jahr: 1969
+  profession: Jazz-Sängerin
+  band: Cécile Verny Quartet
+  beziehung_umkirch: "lebt in Umkirch"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Rüdiger Tonojan
+EIGENSCHAFTEN:
+  geburt_jahr: 1972
+  profession: Politiker
+  partei: "Bündnis 90/Die Grünen"
+  beziehung_umkirch: "aufgewachsen in Umkirch"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Luftkampf über Freiburg
+EIGENSCHAFTEN:
+  datum: "12. Oktober 1916"
+  kontext: Erster Weltkrieg
+  beschreibung: "abgeschossenes französisches Flugzeug stürzte über Umkirch ab"
+GUELTIG_AB: 1916
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Hochinflation
+EIGENSCHAFTEN:
+  zeitraum: 1923
+  monat_peak: November 1923
+  beschreibung: "galoppierende Hochinflation, zweihundertmillionenfach höhere Umlage"
+GUELTIG_AB: 1923
+GUELTIG_BIS: 1923
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Gebietsreform Baden-Württemberg
+EIGENSCHAFTEN:
+  jahr: 1974
+  entscheidung: "Umkirch behielt Selbstständigkeit trotz Freiburg-Eingemeindungswunsch"
+  widerstand: stark
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Dachswangen
+EIGENSCHAFTEN:
+  typ: "Hof und Mühle"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: abgegangene_ortschaft
+BEZEICHNUNG: Rendelshusen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: abgegangene_ortschaft
+BEZEICHNUNG: Betlinshusen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Umkirch
+EIGENSCHAFTEN:
+  namensherkunft: "Kirche in den Wellen" (lateinisch Ecclesia in Undis)
+  namensherkunft_deutung: "Name spielt vermutlich auf Lage der Kirche auf einer Insel zwischen zwei Bächen an"
+  genauigkeit_namensherkunft: "vermutlich"
+  erste_urkundliche_erwaehnung: 1087
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: Mariä Himmelfahrt
+EIGENSCHAFTEN:
+  bauzeit_original: "zweite Hälfte des 11. Jahrhunderts"
+  superlativ: "älteste Pfarrkirche des Breisgaus"
+  baustil_urspruenglich: "romanisch"
+  umbauten_14_jahrhundert: "gotischer Stil"
+  umbau_barock: 1760-1765
+  seitenaltaere_kuenstler: "Johann Caspar Brenzinger"
+  patrozinium: "Mariä Himmelfahrt"
+  patronatsrecht_bis_badenuebergang: "Bischöfe von Basel"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: roemer_vicus
+BEZEICHNUNG: Vicus von Umkirch
+EIGENSCHAFTEN:
+  entdeckung_jahr: 1979
+  entdeckungsort: "Neubaugebiet Mühlematten südlich Umkirch"
+  grund_wohlstand: "Durchgangsverkehr der Römerstraße"
+  beschreibung_bebauung: "Steinbauten im Zentrum mit mehreren Bauperioden, lockere Holzbebauungen im Außenbereich"
+  nachgewiesene_aktivitaeten: "Mühlenbetriebe und Eisenverarbeitung"
+  untergang: "Limesfall 259/260 n.Chr."
+GUELTIG_AB: 0
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kriegsgefangenenlager
+BEZEICHNUNG: Kriegsgefangenenlager Umkirch
+EIGENSCHAFTEN:
+  errichtung: 1916
+  insassen: "alliierte Kriegsgefangene"
+  verwendung: "Arbeitsleistung in der Landwirtschaft"
+  kontext: "Erster Weltkrieg"
+GUELTIG_AB: 1916
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: gemeindereform_ereignis
+BEZEICHNUNG: Gebietsreform Baden-Württemberg - Umkirch
+EIGENSCHAFTEN:
+  anlass: "Freiburg wünschte Eingemeindung Umkirchs"
+  ergebnis: "Umkirch behielt Eigenständigkeit"
+  entscheidungsjahr: 1974
+  grund_erhalt: "starker Widerstand der Umkircher Bevölkerung"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: infrastruktur_projekt
+BEZEICHNUNG: Ortsumfahrung Bundesstraße 31
+EIGENSCHAFTEN:
+  freigabe_verkehr: "20. Dezember 2007"
+  freigegeben_durch: "Sven von Ungern-Sternberg (ehemaliger Regierungspräsident)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90

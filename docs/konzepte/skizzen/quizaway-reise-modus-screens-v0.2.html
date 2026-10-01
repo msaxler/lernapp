@@ -1,0 +1,384 @@
+<title>Reise-Modus Screens v0.2</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Nunito+Sans:wght@400;600;700&display=swap">
+<style>
+/* Layout: ein Telefon-Bildschirm in Originalgröße füllt die Ansicht; darüber eine schmale Werkzeugleiste (Screen wählen, Hell/Dunkel). Auto-Screens haben feste px-Maße aus UI-Konzept v0.2 R-UI-18, Bahn-Screens wachsen mit der Systemschrift. */
+:root{
+  --bg:#fbfbf9; --fg:#171a1f; --muted:#5c6878; --line:#cfd6df; --surface:#ffffff;
+  --accent:#f6c700; --accent-fg:#1b1b1b; --plate-edge:#1b1b1b;
+  --spine:#2b4b6f; --spine-soft:#dbe6f2; --strong:#171a1f;
+  --idle-bg:#fbfbf9; --idle-fg:#171a1f; --idle-muted:#5c6878;
+  --tool-bg:#eceff3; --tool-fg:#3d4856;
+  --display:"Fraunces",Georgia,"Times New Roman",serif;
+  --body:"Nunito Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#1b1f24; --fg:#eef1f5; --muted:#9aa7b8; --line:#39424e; --surface:#242a31;
+  --accent:#f6c700; --accent-fg:#1b1b1b; --plate-edge:#0b0d10;
+  --spine:#8fb4dc; --spine-soft:#243448; --strong:#eef1f5;
+  --idle-bg:#0c0e11; --idle-fg:#aab4c0; --idle-muted:#6c7785;
+  --tool-bg:#12151a; --tool-fg:#9aa7b8; color-scheme:dark } }
+:root[data-theme="dark"]{
+  --bg:#1b1f24; --fg:#eef1f5; --muted:#9aa7b8; --line:#39424e; --surface:#242a31;
+  --accent:#f6c700; --accent-fg:#1b1b1b; --plate-edge:#0b0d10;
+  --spine:#8fb4dc; --spine-soft:#243448; --strong:#eef1f5;
+  --idle-bg:#0c0e11; --idle-fg:#aab4c0; --idle-muted:#6c7785;
+  --tool-bg:#12151a; --tool-fg:#9aa7b8; color-scheme:dark }
+
+html,body{height:100%}
+body{background:var(--tool-bg);color:var(--fg);font-family:var(--body);display:flex;flex-direction:column;align-items:center}
+*{box-sizing:border-box}
+button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:pointer;-webkit-tap-highlight-color:transparent}
+button:focus-visible{outline:3px solid var(--spine);outline-offset:2px}
+
+/* Werkzeugleiste: gehört zur Skizze, nicht zur App */
+.tool{width:100%;max-width:430px;flex:0 0 auto;display:flex;align-items:center;gap:6px;padding:4px 8px;color:var(--tool-fg);font-size:12px;line-height:1.2}
+.tool button{min-width:36px;height:30px;border:1px solid var(--line);border-radius:8px;padding:0 8px;font-weight:700}
+.tool .name{flex:1;min-width:0;text-align:center;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+
+/* Der Bildschirm */
+.stage{width:100%;max-width:430px;flex:1 1 auto;min-height:0;position:relative}
+.scr{position:absolute;inset:0;background:var(--bg);color:var(--fg);display:flex;flex-direction:column;padding:16px;gap:8px;overflow:auto}
+.grow{flex:1 1 auto;min-height:0}
+
+/* Gemeinsame Bausteine */
+.plate{align-self:flex-start;background:var(--accent);color:var(--accent-fg);border:3px solid var(--plate-edge);border-radius:6px;padding:4px 10px;font-family:var(--display);font-weight:700;line-height:1.2}
+.meta{color:var(--muted);line-height:1.4}
+.q{font-family:var(--display);font-weight:500;line-height:1.4;margin:0;text-wrap:balance}
+.hint{color:var(--muted);line-height:1.3}
+.opts{display:flex;flex-direction:column;gap:8px}
+.opt{display:flex;align-items:center;gap:10px;text-align:left;width:100%;border:2px solid var(--line);border-radius:12px;background:var(--surface);padding:8px 12px;line-height:1.3}
+.opt .k{position:relative;flex:0 0 auto;width:30px;height:30px;border-radius:50%;display:grid;place-items:center;font-weight:700;background:var(--spine-soft);color:var(--spine)}
+.opt[aria-pressed="true"]{border-color:var(--strong)}
+.opt[aria-pressed="true"] .k{background:var(--accent);color:var(--accent-fg)}
+.opt[aria-pressed="true"] .k::after{content:"✓";position:absolute;top:-7px;right:-7px;font-size:12px;line-height:1;background:var(--strong);color:var(--bg);width:18px;height:18px;border-radius:50%;display:grid;place-items:center}
+.bar{display:flex;gap:8px;flex:0 0 auto}
+.btn{flex:1;min-height:56px;border:2px solid var(--line);border-radius:14px;font-weight:700;display:grid;place-items:center;text-align:center;padding:6px 10px;line-height:1.2}
+.btn.primary{background:var(--accent);color:var(--accent-fg);border-color:var(--plate-edge)}
+.btn.quiet{color:var(--muted)}
+.btn.small{flex:0 0 auto;min-height:48px;font-weight:600}
+.btn[disabled]{opacity:.45;cursor:default}
+
+/* Auto: feste Maße (R-UI-18) */
+.auto .plate{font-size:20px}
+.auto .meta{font-size:15px}
+.auto .q{font-size:24px}
+.auto .hint{font-size:15px}
+.auto .opt{min-height:72px;font-size:20px}
+.auto .btn{font-size:20px}
+.auto .quote,.auto .story,.auto .conn{font-size:20px}
+
+/* Auflösung */
+.quote{font-weight:700;line-height:1.4;border-left:4px solid var(--spine);padding-left:10px}
+.story{line-height:1.4;margin:0}
+.chip{align-self:flex-start;border:2px solid var(--strong);border-radius:999px;padding:3px 12px;font-weight:700;font-size:16px;line-height:1.3}
+.src{color:var(--muted);font-size:13px;line-height:1.4}
+.conn{border-top:1px solid var(--line);padding-top:8px;line-height:1.4}
+.conn b{display:block;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+
+/* Fahrtkarte */
+.route{position:relative;display:flex;flex-direction:column;gap:14px;padding-left:34px}
+.route::before{content:"";position:absolute;left:10px;top:8px;bottom:8px;width:3px;border-radius:2px;background:var(--line)}
+.stop{position:relative;line-height:1.3}
+.stop b{font-family:var(--display);font-weight:500}
+.stop small{display:block;color:var(--muted)}
+.pin{position:absolute;left:-33px;top:1px;width:22px;height:22px;border-radius:50%;border:3px solid var(--spine);background:var(--bg)}
+.pin.hit{background:var(--spine)}
+.pin.split{background:linear-gradient(90deg,var(--spine) 0 50%,var(--bg) 50% 100%)}
+.pin.torn{border-radius:3px;transform:rotate(45deg) scale(.82)}
+.pin.next{background:var(--accent);border-color:var(--plate-edge)}
+.pin.todo{border-color:var(--line)}
+.legend{display:flex;flex-wrap:wrap;gap:4px 14px;color:var(--muted);font-size:12px;line-height:1.4}
+.legend span{position:relative;padding-left:20px}
+.legend .pin{left:0;top:2px;width:13px;height:13px;border-width:2px}
+
+/* Leerlauf im Auto: in der dunklen Fassung sehr dunkel */
+.idle{background:var(--idle-bg);color:var(--idle-fg)}
+.idle .meta,.idle .stop small,.idle .legend{color:var(--idle-muted)}
+.idle .pin{background:var(--idle-bg)}
+.idle .pin.hit{background:var(--spine)}
+.idle .pin.split{background:linear-gradient(90deg,var(--spine) 0 50%,var(--idle-bg) 50% 100%)}
+.idle .pin.next{background:var(--accent)}
+.idle .stop{font-size:18px}
+.idle .stop small{font-size:14px}
+.idle .next-line{font-size:22px;font-family:var(--display);line-height:1.3}
+
+/* Leiter */
+.rungs{display:flex;flex-direction:column;gap:8px}
+.rung{display:flex;justify-content:space-between;align-items:center;border:2px solid var(--line);border-radius:12px;padding:10px 14px;font-size:20px;line-height:1.3;color:var(--muted)}
+.rung.yes{color:var(--fg);border-color:var(--spine)}
+.rung.now{color:var(--fg);border-color:var(--strong);background:var(--surface);font-weight:700}
+.rung span{font-size:15px;font-weight:600}
+
+/* Bahn und Solo: wächst mit der Systemschrift */
+.rail{font-size:1rem}
+.rail .plate{font-size:1.25rem}
+.rail .meta{font-size:.9rem}
+.rail .q{font-size:1.375rem}
+.rail .opt{min-height:56px;font-size:1.0625rem}
+.rail .btn{font-size:1.0625rem}
+.rail .quote,.rail .story,.rail .conn{font-size:1rem;line-height:1.5}
+.rail .stop{font-size:1rem}
+.rail .stop small{font-size:.8125rem}
+.radar{position:relative;flex:0 0 auto;height:170px;border:2px solid var(--line);border-radius:14px;background:var(--surface)}
+.radar .you{position:absolute;left:47%;top:74%;width:14px;height:14px;border-radius:50%;background:var(--accent);border:2px solid var(--plate-edge)}
+.radar .pt{position:absolute;width:26px;height:26px;border-radius:50%;background:var(--spine);color:var(--bg);font-weight:700;font-size:14px;display:grid;place-items:center}
+.radar .lbl{position:absolute;font-size:12px;color:var(--muted);white-space:nowrap}
+.nums{display:flex;gap:8px}
+.nums .opt{flex:1;justify-content:center;padding:8px 4px}
+.tally{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;text-align:center}
+.tally div{border:2px solid var(--line);border-radius:12px;padding:8px 4px}
+.tally b{display:block;font-family:var(--display);font-size:1.6rem;font-variant-numeric:tabular-nums;line-height:1.2}
+.tally span{font-size:.75rem;color:var(--muted)}
+.three{border:2px dashed var(--line);border-radius:12px;padding:10px 12px;color:var(--muted);line-height:1.9}
+@media (prefers-reduced-motion:no-preference){ .scr.in{animation:up .18s ease-out} }
+@keyframes up{from{transform:translateY(14px);opacity:.6}to{transform:none;opacity:1}}
+</style>
+
+<div class="tool">
+  <button id="prev" aria-label="Vorheriger Screen">‹</button>
+  <span class="name" id="name">Auto · Leerlauf</span>
+  <button id="next" aria-label="Nächster Screen">›</button>
+  <button id="theme" aria-label="Hell oder Dunkel umschalten">System</button>
+</div>
+
+<div class="stage">
+
+  <!-- S4 Auto: Leerlauf = Fahrtkarte -->
+  <section class="scr auto idle" id="s-idle" data-name="Auto · Leerlauf">
+    <div class="meta">Ort 4 von 10 · Freiburg und Umland</div>
+    <div class="route grow">
+      <div class="stop"><i class="pin hit"></i><b>Umkirch</b><small>Kirche in den Wellen</small></div>
+      <div class="stop"><i class="pin"></i><b>Gundelfingen</b><small>12.168 Einwohner, kein Stadtrecht</small></div>
+      <div class="stop"><i class="pin split"></i><b>Denzlingen</b><small>nie württembergisch</small></div>
+      <div class="stop"><i class="pin next"></i><span class="next-line">Nächster Ort: <b>Zähringen</b> · 3,2 km</span></div>
+      <div class="stop"><i class="pin todo"></i><small>danach St. Peter</small></div>
+    </div>
+    <div class="legend">
+      <span><i class="pin hit"></i>Treffer</span><span><i class="pin"></i>daneben</span><span><i class="pin split"></i>gespalten</span><span><i class="pin torn"></i>uneinig</span>
+    </div>
+    <div class="bar">
+      <button class="btn" id="jetzt">Jetzt</button>
+      <button class="btn small quiet" id="ende-auto">Fahrt abschließen</button>
+    </div>
+  </section>
+
+  <!-- S5 Auto: Frage -->
+  <section class="scr auto" id="s-frage" data-name="Auto · Frage" hidden>
+    <div class="plate">Zähringen</div>
+    <div class="meta">Stadtteil im Norden Freiburgs, 9.400 Einwohner. Über dem Ort eine Burgruine.</div>
+    <h1 class="q">Warum heißt ein Stadtteil wie ein Herzogsgeschlecht?</h1>
+    <div class="hint">3 – 2 – 1, alle rufen: eins, zwo, drei oder vier.</div>
+    <div class="opts" id="opts">
+      <button class="opt" aria-pressed="false" data-n="1"><span class="k">1</span><span>Die Herzöge benannten sich nach dieser Burg.</span></button>
+      <button class="opt" aria-pressed="false" data-n="2"><span class="k">2</span><span>Der Stadtgründer schenkte dem Dorf seinen Namen.</span></button>
+      <button class="opt" aria-pressed="false" data-n="3"><span class="k">3</span><span>Der Stadtrat benannte ihn 1906 bei der Eingemeindung.</span></button>
+      <button class="opt" aria-pressed="false" data-n="4"><span class="k">4</span><span>Der Name kommt vom alemannischen Wort für Zaun.</span></button>
+    </div>
+    <div class="grow"></div>
+    <div class="bar" id="bar-leer">
+      <button class="btn quiet" id="gleich">Gleich</button>
+      <button class="btn" id="uneinig">uneinig</button>
+    </div>
+    <div class="bar" id="bar-wahl" hidden>
+      <button class="btn primary" id="aufloesen">Auflösen</button>
+    </div>
+  </section>
+
+  <!-- SL Leiter -->
+  <section class="scr auto" id="s-leiter" data-name="Auto · Leiter" hidden>
+    <div class="plate">St. Peter</div>
+    <div class="meta">Im Schwarzwald östlich von Freiburg, 2.700 Einwohner, Klosterkirche mit zwei Zwiebeltürmen.</div>
+    <h1 class="q">Wie hoch liegt der Ort?</h1>
+    <div class="rungs" id="rungs">
+      <div class="rung" data-v="400">Höher als 400 m?<span></span></div>
+      <div class="rung" data-v="600">Höher als 600 m?<span></span></div>
+      <div class="rung" data-v="800">Höher als 800 m?<span></span></div>
+      <div class="rung" data-v="1000">Höher als 1.000 m?<span></span></div>
+    </div>
+    <div class="grow"></div>
+    <div class="bar">
+      <button class="btn" id="hoeher">höher</button>
+      <button class="btn primary" id="raus">hier steige ich aus</button>
+    </div>
+  </section>
+
+  <!-- S6 Auflösung (Auto und Bahn, Klasse wird gesetzt) -->
+  <section class="scr auto" id="s-aufl" data-name="Auflösung" hidden>
+    <div class="plate" id="a-ort">Zähringen</div>
+    <div class="quote" id="a-zitat">Eure Theorie: 3 — Der Stadtrat benannte ihn 1906 bei der Eingemeindung.</div>
+    <p class="story" id="a-text"></p>
+    <div class="chip" id="a-urteil">Richtig war 1.</div>
+    <div class="src" id="a-quelle">Quelle: dewiki Zähringen (Freiburg im Breisgau)</div>
+    <div class="conn" id="a-anschluss" hidden><b>Anschluss</b><span id="a-anschluss-text"></span></div>
+    <div class="grow"></div>
+    <div class="bar"><button class="btn" id="a-zu">Zur Fahrtkarte</button></div>
+  </section>
+
+  <!-- S7 Bahn/Solo: Fahrtkarte -->
+  <section class="scr rail" id="s-karte" data-name="Solo · Fahrtkarte" hidden>
+    <div class="meta">Ort 8 von 10 · gewürfelte Strecke</div>
+    <div class="route grow">
+      <div class="stop"><i class="pin hit"></i><b>St. Peter</b><small>716 m, Hauskloster der Zähringer</small></div>
+      <div class="stop"><i class="pin"></i><b>Glottertal</b><small>Kulisse der Schwarzwaldklinik</small></div>
+      <div class="stop"><i class="pin hit"></i><b>Kirchzarten</b><small>Tarodunum, Höllentalbahn</small></div>
+      <div class="stop"><i class="pin next"></i><b>Günterstal</b><small>nächster Ort</small></div>
+      <div class="stop"><i class="pin todo"></i><b>Horben</b></div>
+      <div class="stop"><i class="pin todo"></i><b>Staufen</b></div>
+    </div>
+    <div class="legend">
+      <span><i class="pin hit"></i>Treffer</span><span><i class="pin"></i>daneben</span>
+    </div>
+    <div class="bar"><button class="btn primary" id="starten">Nächster Ort: Günterstal — Frage starten</button></div>
+    <div class="bar"><button class="btn small quiet" id="ende-bahn" style="flex:1">Fahrt abschließen</button></div>
+  </section>
+
+  <!-- S8R Solo: Radar -->
+  <section class="scr rail" id="s-radar" data-name="Solo · Radar" hidden>
+    <div class="plate">Auf deiner Strecke</div>
+    <div class="radar">
+      <div class="you"></div>
+      <div class="pt" style="left:28%;top:48%">1</div><div class="lbl" style="left:12%;top:66%">Kappel · 4 km</div>
+      <div class="pt" style="left:52%;top:20%">2</div><div class="lbl" style="left:42%;top:6%">Günterstal · 7 km</div>
+      <div class="pt" style="left:74%;top:42%">3</div><div class="lbl" style="left:64%;top:60%">Horben · 9 km</div>
+      <div class="pt" style="left:14%;top:16%">4</div><div class="lbl" style="left:4%;top:3%">Wittnau · 10 km</div>
+    </div>
+    <h1 class="q">Einer dieser Orte ist um ein Zisterzienserinnenkloster entstanden. Welcher?</h1>
+    <div class="nums" id="nums">
+      <button class="opt" aria-pressed="false" data-n="1"><span class="k">1</span></button>
+      <button class="opt" aria-pressed="false" data-n="2"><span class="k">2</span></button>
+      <button class="opt" aria-pressed="false" data-n="3"><span class="k">3</span></button>
+      <button class="opt" aria-pressed="false" data-n="4"><span class="k">4</span></button>
+    </div>
+    <div class="grow"></div>
+    <div class="bar"><button class="btn primary" id="festlegen" disabled>Festlegen</button></div>
+  </section>
+
+  <!-- S10 Fahrtende -->
+  <section class="scr rail" id="s-ende" data-name="Solo · Fahrtende" hidden>
+    <div class="plate">Umkirch – Staufen</div>
+    <div class="meta">10 Orte · gewürfelte Strecke</div>
+    <div class="tally">
+      <div><b>10</b><span>Orte</span></div>
+      <div><b>6</b><span>Treffer</span></div>
+      <div><b>4</b><span>daneben</span></div>
+    </div>
+    <div class="three">Drei Dinge, die ich heute nicht wusste<br>1. ____________________<br>2. ____________________<br>3. ____________________</div>
+    <div class="grow"></div>
+    <div class="bar">
+      <button class="btn" id="schliessen">Schließen</button>
+      <button class="btn primary" id="teilen">Teilen</button>
+    </div>
+  </section>
+
+</div>
+
+<script>
+(function(){
+  var ids=['s-idle','s-frage','s-leiter','s-aufl','s-karte','s-radar','s-ende'];
+  var cur=0, back='s-idle';
+  function $(id){return document.getElementById(id)}
+  function show(id){
+    ids.forEach(function(x){$(x).hidden=(x!==id); $(x).classList.remove('in')});
+    cur=ids.indexOf(id); var s=$(id); s.classList.add('in'); s.scrollTop=0;
+    $('name').textContent=s.dataset.name;
+  }
+  $('prev').onclick=function(){show(ids[(cur+ids.length-1)%ids.length])};
+  $('next').onclick=function(){show(ids[(cur+1)%ids.length])};
+
+  // Hell / Dunkel / System
+  var modes=['System','Hell','Dunkel'], m=0;
+  $('theme').onclick=function(){
+    m=(m+1)%3; var r=document.documentElement;
+    if(m===0) r.removeAttribute('data-theme'); else r.setAttribute('data-theme', m===1?'light':'dark');
+    this.textContent=modes[m];
+  };
+
+  // Auflösung füllen
+  var TEXT={
+    zaehringen:{ort:'Zähringen',urteil:'Richtig war 1.',quelle:'Quelle: dewiki Zähringen (Freiburg im Breisgau)',
+      text:'Es war andersherum, als man denkt: Nicht der Ort hat den Namen von den Herzögen, sondern die Herzöge vom Ort. Die Burg Zähringen wird 1080 zuerst erwähnt, und das Geschlecht, das von hier aus Freiburg gründete, nannte sich nach ihr. Das Dorf unter der Burg blieb bis 1906 selbstständig, 2.185 Einwohner damals; dann holte Freiburg sich den Ort, dessen Namen die eigenen Gründer trugen.'},
+    stpeter:{ort:'St. Peter',urteil:'Richtig: zwischen 600 und 800 m.',quelle:'Quelle: dewiki St. Peter (Hochschwarzwald)',
+      text:'716 Meter. Die ersten beiden Stufen stimmen, die dritte nicht. St. Peter liegt auf einer Hochfläche am Südhang des Kandels, hoch genug für Luftkurort, zu niedrig für die Tausend.',
+      anschluss:'Das Kloster gründete 1093 Herzog Berthold II. von Zähringen als Hauskloster und Grablege. Die Herzöge, nach deren Burg der letzte Ort heißt, liegen hier oben begraben.'},
+    guenterstal:{ort:'Günterstal',urteil:'Richtig war 2.',quelle:'Quelle: dewiki Günterstal',
+      text:'Um 1221 gründet eine Adelheid hier eine klösterliche Anlage, 1224 steht sie zum ersten Mal in einer Urkunde; 1806 löst Napoleon das Kloster auf. Seit 1901 fährt die Straßenbahn bis hierher, bis Ende 2014 war die Endhaltestelle Dorfstraße die südlichste Straßenbahnhaltestelle Deutschlands. Der höchste Baum Deutschlands steht auf Günterstaler Boden, eine Douglasie namens Waldtraut, 67 Meter.'}
+  };
+  function aufloesung(key, zitat, bahn){
+    var t=TEXT[key], s=$('s-aufl');
+    s.classList.toggle('auto',!bahn); s.classList.toggle('rail',!!bahn);
+    $('a-ort').textContent=t.ort; $('a-zitat').textContent=zitat; $('a-text').textContent=t.text;
+    $('a-urteil').textContent=t.urteil; $('a-quelle').textContent=t.quelle;
+    $('a-anschluss').hidden=!t.anschluss; $('a-anschluss-text').textContent=t.anschluss||'';
+    back=bahn?'s-karte':'s-idle';
+    show('s-aufl');
+  }
+  $('a-zu').onclick=function(){show(back)};
+
+  // Auto: Frage
+  var wahl=[];
+  function zeichne(){
+    document.querySelectorAll('#opts .opt').forEach(function(b){b.setAttribute('aria-pressed', wahl.indexOf(b.dataset.n)>=0?'true':'false')});
+    $('bar-leer').hidden=wahl.length>0; $('bar-wahl').hidden=wahl.length===0;
+  }
+  document.querySelectorAll('#opts .opt').forEach(function(b){
+    b.onclick=function(){
+      var n=b.dataset.n, i=wahl.indexOf(n);
+      if(i>=0) wahl.splice(i,1); else { if(wahl.length===2) wahl.shift(); wahl.push(n); }
+      zeichne();
+    };
+  });
+  function optText(n){return document.querySelector('#opts .opt[data-n="'+n+'"] span:last-child').textContent}
+  $('aufloesen').onclick=function(){
+    var z = wahl.length===1 ? 'Eure Theorie: '+wahl[0]+' — '+optText(wahl[0])
+                            : 'Ihr wart gespalten: '+wahl.slice().sort().join(' gegen ')+'.';
+    wahl=[]; zeichne(); aufloesung('zaehringen', z, false);
+  };
+  $('uneinig').onclick=function(){ aufloesung('zaehringen','Ihr wart euch komplett uneinig.',false) };
+  $('gleich').onclick=function(){ show('s-idle') };
+  $('jetzt').onclick=function(){ show('s-frage') };
+  $('ende-auto').onclick=$('ende-bahn').onclick=function(){ show('s-ende') };
+
+  // Leiter
+  var stufe=0, rungs=[].slice.call(document.querySelectorAll('#rungs .rung'));
+  function leiter(){
+    rungs.forEach(function(r,i){
+      r.classList.toggle('yes', i<stufe); r.classList.toggle('now', i===stufe);
+      r.querySelector('span').textContent = i<stufe ? 'höher' : '';
+    });
+  }
+  function leiterEnde(){
+    var z = stufe===0 ? 'Ihr seid bei 400 m ausgestiegen.' :
+            stufe>=rungs.length ? 'Ihr seid bis über 1.000 m gegangen.' :
+            'Ihr seid zwischen '+rungs[stufe-1].dataset.v+' und '+rungs[stufe].dataset.v+' m ausgestiegen.';
+    stufe=0; leiter(); aufloesung('stpeter', z, false);
+  }
+  $('hoeher').onclick=function(){ stufe++; if(stufe>=rungs.length) leiterEnde(); else leiter(); };
+  $('raus').onclick=leiterEnde;
+  leiter();
+
+  // Solo: Radar mit Festlegen
+  var solo=null;
+  document.querySelectorAll('#nums .opt').forEach(function(b){
+    b.onclick=function(){
+      solo = (solo===b.dataset.n) ? null : b.dataset.n;
+      document.querySelectorAll('#nums .opt').forEach(function(x){x.setAttribute('aria-pressed', x.dataset.n===solo?'true':'false')});
+      $('festlegen').disabled = !solo;
+    };
+  });
+  var NAMEN={1:'Kappel',2:'Günterstal',3:'Horben',4:'Wittnau'};
+  $('festlegen').onclick=function(){
+    var z='Deine Theorie: '+solo+' — '+NAMEN[solo]+'.';
+    solo=null; document.querySelectorAll('#nums .opt').forEach(function(x){x.setAttribute('aria-pressed','false')}); this.disabled=true;
+    aufloesung('guenterstal', z, true);
+  };
+  $('starten').onclick=function(){ show('s-radar') };
+  $('schliessen').onclick=function(){ show('s-idle') };
+  $('teilen').onclick=function(){ this.textContent='Bild folgt später'; };
+
+  // Bildschirm anlassen, solange die Seite sichtbar ist (im Auto ansehen)
+  try{ if(navigator.wakeLock) navigator.wakeLock.request('screen').catch(function(){}); }catch(e){}
+
+  // Einsprung über #anker
+  var h=(location.hash||'').slice(1); if(ids.indexOf(h)>=0) show(h);
+})();
+</script>

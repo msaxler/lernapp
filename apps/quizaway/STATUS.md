@@ -27,6 +27,7 @@ Seit 2026-05-06: Lernarchitektur-ADR (Drei-Schichten / Player-agnostisch) ist de
 - LA-3 Quiz-Player Neubau: blockiert bis Lernarchitektur-ADR steht
 - AP13 Duell-Modus Neuimplementierung (v5 noch mit Relay-Fallback, Ziel: Always-On WS + eigener TURN)
 - Drei IR-Refactoring-Phasen: Phase 3 (Audio-Engine-Reconciliation) noch offen — kein Blocker für QuizAway
+- **Neue „Ortsschild-Edition" (Gemeinde-Achsen-DB):** Basiskonzept v0.5 final, implementierungs-freigegeben (Mike 2026-06-28). DB-Aufbau (Iter 1–3, ~10.000 Gemeinden) kann **parallel** zum QuizAway-Neubau starten, ist davon unabhängig. MixMi! iter7a (klassik-quiz-fokus) als Architektur-Basis für die Edition-Einhängung. Doc: `docs/konzepte/gemeinde-achsen-basiskonzept-2026-06-28-v0.5.md`.
 
 ## 4. Nächste Schritte
 - Lernarchitektur-ADR finalisieren (Drei-Schichten: Lernraumtopologie / Player-Typ / Implementierung)
@@ -38,6 +39,8 @@ Seit 2026-05-06: Lernarchitektur-ADR (Drei-Schichten / Player-agnostisch) ist de
 - Produktvision DOK-3 v11 → docs/produktvision.md
 - Architektur → docs/ARCHITECTURE.md
 - QuizAway v5 (deployed) → apps/quizaway/quizaway_v5.html
+- Gemeinde-Achsen / „Ortsschild-Edition" Basiskonzept v0.5 → docs/konzepte/gemeinde-achsen-basiskonzept-2026-06-28-v0.5.md
+- Gemeinde-Achsen Iteration-1-Entscheidungen (Mike, überschreibt v0.5 wo abweichend) → docs/konzepte/gemeinde-achsen-iter1-entscheidungen-2026-06-28.md
 
 ---
 
