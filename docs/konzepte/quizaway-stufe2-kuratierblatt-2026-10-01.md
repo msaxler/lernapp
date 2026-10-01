@@ -17,6 +17,7 @@
 > Umkirch
 > Gemeinde mit 5.683 Einwohnern, etwa 8 km westlich von Freiburg in der Oberrheinischen Tiefebene.
 > Der Ort wird 1087 erstmals erwähnt. Worauf spielt der Name Umkirch vermutlich an?
+> 
 > 1. Die Häuser standen im Kreis um die Kirche.
 > 2. Die Kirche wurde einmal abgetragen und umgesetzt.
 > 3. Die Kirche stand auf einer Insel zwischen Bächen.
@@ -31,6 +32,7 @@
 > Umkirch
 > Gemeinde mit 5.683 Einwohnern, etwa 8 km westlich von Freiburg.
 > Bei der Gemeindereform 1974 wollte Freiburg Umkirch eingemeinden. Warum blieb der Ort trotzdem selbstständig?
+> 
 > 1. Ein Gericht erklärte die Eingemeindung für unzulässig.
 > 2. Freiburg zog seinen Wunsch selbst wieder zurück.
 > 3. Die Umkircher leisteten starken Widerstand dagegen.
@@ -45,6 +47,7 @@
 > Umkirch
 > Gemeinde mit 5.683 Einwohnern im Landkreis Breisgau-Hochschwarzwald, etwa 8 km westlich von Freiburg.
 > Wer besaß das Patronatsrecht der Umkircher Pfarrkirche, bis der Breisgau an das Großherzogtum Baden überging?
+> 
 > 1. Die Bischöfe von Konstanz besaßen das Patronatsrecht.
 > 2. Das Haus Habsburg besaß das Patronatsrecht.
 > 3. Die Bischöfe von Basel besaßen das Patronatsrecht.
@@ -54,7 +57,7 @@
 
 63 Wörter · Bekanntheit niedrig · Negativnachweis Weg c · Anschluss: nein
 
-**Wahl:** [ ] 1 [ ] 2 [ ] 3 [ ] keiner
+**Wahl:** [x] 1 [ ] 2 [ ] 3 [ ] keiner
 
 ---
 
@@ -69,6 +72,7 @@
 > Gundelfingen (Breisgau)
 > Gemeinde mit gut 12.000 Einwohnern direkt an Freiburgs Nordgrenze, Landkreis Breisgau-Hochschwarzwald.
 > In der Ortsmitte steht die Johann-Peter-Hebel-Grundschule. Wann wurde sie gegründet?
+> 
 > 1. Sie wurde vor 1600 gegründet.
 > 2. Sie wurde zwischen 1600 und 1699 gegründet.
 > 3. Sie wurde zwischen 1700 und 1799 gegründet.
@@ -83,6 +87,7 @@
 > Gundelfingen (Breisgau)
 > Gemeinde mit gut 12.000 Einwohnern direkt an Freiburgs Nordgrenze, Landkreis Breisgau-Hochschwarzwald.
 > Seit 2014 hält die Straßenbahn am südlichen Ortsrand. 2023 stimmten die Bürger über eine Verlängerung ab. Wie groß war der Anteil der Nein-Stimmen?
+> 
 > 1. Weniger als 50 Prozent stimmten mit Nein.
 > 2. 50 bis unter 60 Prozent stimmten mit Nein.
 > 3. 60 bis unter 75 Prozent stimmten mit Nein.
@@ -97,6 +102,7 @@
 > Gundelfingen (Breisgau)
 > Gemeinde auf 235 m Höhe direkt an Freiburgs Nordgrenze, Landkreis Breisgau-Hochschwarzwald.
 > Gundelfingen ist die größte Gemeinde im Landkreis ohne Stadtrecht. Wie viele Menschen leben dort?
+> 
 > 1. Dort leben weniger als 8.000 Menschen.
 > 2. Dort leben 8.000 bis 14.999 Menschen.
 > 3. Dort leben 15.000 bis 24.999 Menschen.
@@ -106,7 +112,7 @@
 
 49 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: ja
 
-**Wahl:** [ ] 1 [ ] 2 [ ] 3 [ ] keiner
+**Wahl:** [ ] 1 [x] 2 [ ] 3 [ ] keiner
 
 ---
 
@@ -121,6 +127,7 @@
 > Denzlingen
 > Gemeinde mit 13.734 Einwohnern, 10 km nördlich von Freiburg im Landkreis Emmendingen.
 > Drei Aussagen über Denzlingens Geschichte, eine davon ist gelogen. Welche?
+> 
 > 1. Denzlingen war über 400 Jahre lang österreichisch.
 > 2. 1843 waren 99 Prozent der Denzlinger evangelisch.
 > 3. Ab 1867 entstanden hier bis zu sieben Zigarrenfabriken.
@@ -134,6 +141,7 @@
 > Denzlingen
 > Gemeinde mit 13.734 Einwohnern an der Glotter, 10 km nördlich von Freiburg.
 > Drei Aussagen über Kirchen und Türme in Denzlingen, eine davon ist gelogen. Welche?
+> 
 > 1. Die Josefskirche reiste per Eisenbahn aus Emmendingen an.
 > 2. Der Turm der Georgskirche trägt die weltälteste Kirchturm-Spiraltreppe.
 > 3. Der Storchenturm ist der Rest einer zerstörten Kirche.
@@ -147,6 +155,7 @@
 > Denzlingen
 > Gemeinde mit 13.734 Einwohnern im Breisgau, 232 m hoch, Landkreis Emmendingen.
 > Drei Aussagen über Namen, Wappen und Vorzeit von Denzlingen, eine davon ist gelogen. Welche?
+> 
 > 1. Der Ortsname geht auf einen alten Tanzplatz zurück.
 > 2. Zur Römerzeit wurde am Mauracher Berg Eisen verhüttet.
 > 3. Das Gemeindewappen zeigt eine silberne Pflugschar auf Blau.
@@ -155,7 +164,7 @@
 
 62 Wörter · Bekanntheit niedrig · Negativnachweis Weg c · Anschluss: nein
 
-**Wahl:** [ ] 1 [ ] 2 [ ] 3 [ ] keiner
+**Wahl:** [x] 1 [ ] 2 [x] 3 [ ] keiner
 
 ---
 
@@ -170,6 +179,7 @@
 > Zähringen
 > Stadtteil im Norden Freiburgs mit 9.429 Einwohnern (Stand 2024), südlich der Gemeinde Gundelfingen.
 > Das Dorf Zähringen wird 1008 zum ersten Mal erwähnt. Was hält die Urkunde fest, in der sein Name steht?
+> 
 > 1. Ein Papst bestätigt einem Kloster seinen Besitz.
 > 2. Ein König beschenkt ein Bistum.
 > 3. Ein Kaiser verleiht dem Dorf das Marktrecht.
@@ -184,6 +194,7 @@
 > Zähringen
 > Stadtteil im Norden Freiburgs mit 9.429 Einwohnern (Stand 2024), Nachbar der Gemeinde Gundelfingen.
 > Die Straßenbahnlinie 3 endet am südlichen Ortsrand Gundelfingens; vier weitere Stationen bis zur Ortsmitte waren geplant. Was wurde aus diesem Plan?
+> 
 > 1. Ein Gericht stoppte ihn nach Klagen von Anwohnern.
 > 2. Seit einem Bürgerentscheid 2023 ist er praktisch ausgeschlossen.
 > 3. Die Strecke ist seit 2024 im Bau.
@@ -198,6 +209,7 @@
 > Zähringen
 > Stadtteil im Norden Freiburgs mit 9.429 Einwohnern (Stand 2024), seit 1906 mit Freiburg vereinigt.
 > Wie kam das Dorf Zähringen Ende des 16. Jahrhunderts an die Herren von Sickingen?
+> 
 > 1. Sie kauften es den Grafen von Freiburg ab.
 > 2. Sie erbten es von den Schnewlin von Landeck.
 > 3. Sie eroberten es in einer Fehde.
@@ -207,7 +219,7 @@
 
 66 Wörter · Bekanntheit niedrig · Negativnachweis Weg ac · Anschluss: nein
 
-**Wahl:** [ ] 1 [ ] 2 [ ] 3 [ ] keiner
+**Wahl:** [x] 1 [x] 2 [x] 3 [ ] keiner
 
 ---
 
@@ -222,6 +234,7 @@
 > St. Peter (Hochschwarzwald)
 > Gemeinde mit 2.718 Einwohnern im Schwarzwald östlich von Freiburg, Landkreis Breisgau-Hochschwarzwald.
 > Wie alt ist das Kloster St. Peter auf dem Schwarzwald, gerechnet ab seiner Gründung? Bei welcher Stufe lautet die Antwort zum letzten Mal Ja?
+> 
 > 1. Älter als 200 Jahre?
 > 2. Älter als 400 Jahre?
 > 3. Älter als 800 Jahre?
@@ -236,6 +249,7 @@
 > St. Peter (Hochschwarzwald)
 > Gemeinde mit 2.718 Einwohnern im Schwarzwald östlich von Freiburg; der Ort liegt auf 715 m.
 > Wie hoch liegt der höchste Punkt des Gemeindegebiets? Bei welcher Stufe lautet die Antwort zum letzten Mal Ja?
+> 
 > 1. Höher als 900 m?
 > 2. Höher als 1.100 m?
 > 3. Höher als 1.300 m?
@@ -250,6 +264,7 @@
 > St. Peter (Hochschwarzwald)
 > Gemeinde und Luftkurort mit 2.718 Einwohnern im Schwarzwald, 14 km von Freiburg.
 > Wie viele Übernachtungen zählte St. Peter im Jahr 2023? Bei welcher Stufe lautet die Antwort zum letzten Mal Ja?
+> 
 > 1. Mehr als 25.000?
 > 2. Mehr als 50.000?
 > 3. Mehr als 100.000?
@@ -259,7 +274,7 @@
 
 51 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: ja
 
-**Wahl:** [ ] 1 [ ] 2 [ ] 3 [ ] keiner
+**Wahl:** [ ] 1 [ ] 2 [x] 3 [ ] keiner
 
 ---
 
@@ -274,6 +289,7 @@
 > Glottertal
 > Gemeinde mit 3.215 Einwohnern in einem Schwarzwaldtal nordöstlich von Freiburg.
 > Im Mittelalter galt das Glottertal als wohlhabende Gegend des Schwarzwaldes. Was machte es reich?
+> 
 > 1. Die Winzer verkauften ihren Wein nach Freiburg.
 > 2. Ein Handelsweg durchs Tal brachte reichlich Zoll.
 > 3. Die Bauern züchteten begehrte Zugpferde.
@@ -288,6 +304,7 @@
 > Glottertal
 > Gemeinde mit 3.215 Einwohnern in einem Schwarzwaldtal nordöstlich von Freiburg.
 > Am Weinbau im Glottertal gilt etwas als deutschlandweit einmalig. Was ist es?
+> 
 > 1. Die Winzer arbeiten ganz ohne Maschinen.
 > 2. Im Tal wächst ausschließlich Spätburgunder.
 > 3. Die Reben stehen dort seit der Römerzeit.
@@ -302,6 +319,7 @@
 > Glottertal
 > Gemeinde mit 3.215 Einwohnern in einem Schwarzwaldtal nordöstlich von Freiburg.
 > Aus Resten alter Rebanlagen kommt im Glottertal der „Scheffelwein“. Woher hat er seinen Namen?
+> 
 > 1. Die Winzer zahlten ihren Zehnt in Scheffeln.
 > 2. Ein Weinhändler namens Scheffel machte ihn bekannt.
 > 3. Die ersten Reben wuchsen am Scheffelhof.
@@ -311,7 +329,7 @@
 
 67 Wörter · Bekanntheit mittel · Negativnachweis Weg c · Anschluss: nein
 
-**Wahl:** [ ] 1 [ ] 2 [ ] 3 [ ] keiner
+**Wahl:** [ ] 1 [ ] 2 [x] 3 [ ] keiner
 
 ---
 
@@ -326,6 +344,7 @@
 > Kirchzarten
 > Gemeinde mit 10.364 Einwohnern im Dreisamtal östlich von Freiburg, 380 m hoch.
 > Drei Aussagen über Kirchzartens frühere Herren, eine davon ist gelogen. Welche?
+> 
 > 1. Um 1500 kam Kirchzarten an die Stadt Freiburg.
 > 2. 1679 kam Kirchzarten durch einen Friedensschluss an Frankreich.
 > 3. 1805 kam Kirchzarten durch Napoleons Sieg an Württemberg.
@@ -339,6 +358,7 @@
 > Kirchzarten
 > Gemeinde mit 10.364 Einwohnern im Dreisamtal östlich von Freiburg, 380 m hoch.
 > Im Gemeindegebiet liegt das Himmelreich mit Hofgut und Bahnhof. Welche der drei Aussagen darüber ist gelogen?
+> 
 > 1. Die Jakobuskapelle dort wurde wegen Straßenbaus versetzt.
 > 2. Ein Inklusionsbetrieb führt dort Hotel, Restaurant und Bahnagentur.
 > 3. Der Bahnhof dort liegt an der Schwarzwaldbahn.
@@ -352,6 +372,7 @@
 > Kirchzarten
 > Gemeinde mit 10.364 Einwohnern im Dreisamtal östlich von Freiburg, 380 m hoch.
 > Kirchzarten und das Fahrrad: Welche der drei Aussagen ist gelogen?
+> 
 > 1. 1995 lief hier Deutschlands bislang einzige Mountainbike-WM.
 > 2. 1971 fuhr die Tour de France durch Kirchzarten.
 > 3. 2013 billigte ein Bürgerentscheid ein neues Mountainbike-Trainingsgelände.
@@ -360,7 +381,7 @@
 
 67 Wörter · Bekanntheit mittel · Negativnachweis Weg a · Anschluss: nein
 
-**Wahl:** [ ] 1 [ ] 2 [ ] 3 [ ] keiner
+**Wahl:** [x] 1 [ ] 2 [ ] 3 [ ] keiner
 
 ---
 
@@ -375,6 +396,7 @@
 > Günterstal
 > Stadtteil ganz im Süden von Freiburg im Breisgau, 2.165 Einwohner.
 > Freiburg nennt sich Deutschlands höchstgelegene Großstadt. Was hat ausgerechnet Günterstal damit zu tun?
+> 
 > 1. Der Schauinsland gehört zur Gemarkung Günterstal.
 > 2. Günterstal selbst liegt über 1.000 Meter hoch.
 > 3. In Günterstal steht Freiburgs amtlicher Höhenmesspunkt.
@@ -389,6 +411,7 @@
 > Günterstal
 > Südlichster Stadtteil von Freiburg im Breisgau, 2.165 Einwohner, seit 1901 per Straßenbahn mit der Innenstadt verbunden.
 > Die Endhaltestelle Dorfstraße war bis Ende 2014 Deutschlands südlichste Straßenbahnhaltestelle. Wodurch verlor sie diesen Titel?
+> 
 > 1. Basels Straßenbahn wurde bis Weil am Rhein verlängert.
 > 2. Konstanz eröffnete eine eigene Straßenbahnlinie.
 > 3. Die Linie gilt seither amtlich als Stadtbahn.
@@ -403,6 +426,7 @@
 > Günterstal
 > Stadtteil im Süden von Freiburg im Breisgau, 2.165 Einwohner; ein ehemaliges Kloster prägt die Ortsmitte.
 > Woher hat Günterstal das „Günter“ im Namen?
+> 
 > 1. Schon 804 hieß der Ort „Häuser des Günther“.
 > 2. Der Adelige Günther von Kibenfels gab den Namen.
 > 3. Ein Einsiedler namens Günther lebte im Tal.
@@ -412,7 +436,7 @@
 
 59 Wörter · Bekanntheit niedrig · Negativnachweis Weg ac · Anschluss: nein
 
-**Wahl:** [ ] 1 [ ] 2 [ ] 3 [ ] keiner
+**Wahl:** [x] 1 [x] 2 [x] 3 [ ] keiner
 
 ---
 
@@ -427,6 +451,7 @@
 > Horben
 > Gemeinde mit 1.202 Einwohnern am Hang über Günterstal, im Landkreis Breisgau-Hochschwarzwald.
 > Die Herren von Horwen gründeten im Mittelalter das Kloster Günterstal. Wann bekam Horben selbst seine Pfarrkirche St. Agatha?
+> 
 > 1. Sie entstand vor dem Jahr 1600.
 > 2. Sie entstand zwischen 1600 und 1699.
 > 3. Sie entstand zwischen 1700 und 1799.
@@ -441,6 +466,7 @@
 > Horben
 > Gemeinde mit 1.202 Einwohnern am Fuße des Schauinslands, in direkter Nachbarschaft zu Freiburg.
 > Im Bohrertal wurde 2023 ein Hochwasserrückhaltebecken fertig. Wie hoch ist sein Damm?
+> 
 > 1. Der Damm ist niedriger als 5 Meter.
 > 2. Er misst 5 bis unter 10 Meter.
 > 3. Er misst 10 bis unter 20 Meter.
@@ -455,6 +481,7 @@
 > Horben
 > Gemeinde mit 1.202 Einwohnern am Hang über Günterstal, im Landkreis Breisgau-Hochschwarzwald.
 > In der Badischen Revolution war Horben Operationsbasis Franz Sigels. Wie hoch waren die Verluste der Freischärler im Gefecht am Ostersonntag bei Günterstal?
+> 
 > 1. Die Freischärler verloren weniger als 5 Mann.
 > 2. Sie verloren 5 bis 9 Mann.
 > 3. Sie verloren 10 bis 49 Mann.
@@ -464,7 +491,7 @@
 
 58 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: nein
 
-**Wahl:** [ ] 1 [ ] 2 [ ] 3 [ ] keiner
+**Wahl:** [ ] 1 [ ] 2 [x] 3 [ ] keiner
 
 ---
 
@@ -479,6 +506,7 @@
 > Staufen im Breisgau
 > Stadt mit 8.392 Einwohnern am Rand des Schwarzwalds, südwestlich von Freiburg.
 > Zwei dieser Aussagen über Staufen stimmen, eine ist gelogen – welche?
+> 
 > 1. Das germanische Wort „stauf“ bedeutet auch Becher.
 > 2. Die Herren von Staufen waren Verwandte der Hohenstaufen.
 > 3. Die Burgruine gehört heute der Stadt Staufen.
@@ -492,6 +520,7 @@
 > Staufen im Breisgau
 > Stadt mit 8.392 Einwohnern am Rand des Schwarzwalds, südwestlich von Freiburg.
 > Zwei dieser Aussagen über Staufens Stadtbild stimmen, eine ist gelogen – welche?
+> 
 > 1. Eine Brücke heißt im Volksmund nach einem Café.
 > 2. Der steile Schlossberg ist ein erloschener Vulkankegel.
 > 3. Eine Kapelle wurde zu Waschhaus und Brennerei umgewandelt.
@@ -505,6 +534,7 @@
 > Staufen im Breisgau
 > Stadt mit 8.392 Einwohnern am Rand des Schwarzwalds, südwestlich von Freiburg.
 > Zwei dieser Aussagen über Staufens Verbindungen in die Welt stimmen, eine ist gelogen – welche?
+> 
 > 1. Die französische Partnerschaft ist älter als die polnische.
 > 2. Die französische Partnerstadt liegt im Elsass.
 > 3. Mit Dolores in Argentinien verbindet Staufen der Tango.
@@ -513,7 +543,7 @@
 
 59 Wörter · Bekanntheit niedrig · Negativnachweis Weg b · Anschluss: ja
 
-**Wahl:** [ ] 1 [ ] 2 [ ] 3 [ ] keiner
+**Wahl:** [x] 1 [x] 2 [x] 3 [ ] keiner
 
 ---
 
