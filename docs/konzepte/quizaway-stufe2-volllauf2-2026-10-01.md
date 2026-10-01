@@ -68,7 +68,7 @@ Katalog nach E11, jede Eigenschaft optional. Abdeckung an den zehn Zielorten:
 - Bekanntheit nach Einschätzung des Modells: 46 niedrig, 17 mittel, 7 hoch.
 - Orts-Anschlüsse: 18 für neun Ortspaare, alle höchstens 10 Wörter.
 
-Geprüft ist die Form.
+Geprüft ist die Form. **Nachtrag 2026-10-02:** Der Inhalt ist inzwischen geprüft, siehe `quizaway-stufe2-faktencheck-2026-10-02.md`: von den 70 Karten 43 bestätigt, 18 korrigiert, 4 unsicher, 5 gesperrt.
 
 ---
 

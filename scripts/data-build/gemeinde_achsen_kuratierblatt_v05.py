@@ -17,9 +17,11 @@ import sys
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1')
-KARTEN = os.path.join(ITER, 'karten-v0.5')
+# Nach dem Faktencheck: geprüfte Fassung (Korrekturen eingearbeitet, Status je Karte)
+KARTEN = os.path.join(ITER, 'karten-geprueft', 'v0.5')
+PRUEFUNG = os.path.join(ITER, 'karten-v0.5-geprueft-pruefung.json')
 ZIEL = os.path.join(WURZEL, 'docs', 'konzepte', 'quizaway-stufe2-kuratierblatt-v2-2026-10-01.md')
-FELDER = 'SORTE|FAMILIE|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|NEGATIVNACHWEISE|## '
+FELDER = 'FAKTENCHECK|SORTE|FAMILIE|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|NEGATIVNACHWEISE|## '
 
 
 def feld(v, name):
@@ -35,7 +37,7 @@ def zitat(text):
 def main():
     with io.open(os.path.join(ITER, 'grunddaten.json'), encoding='utf-8') as f:
         name = {o['slug']: o['name'] for o in json.load(f)['orte']}
-    with io.open(os.path.join(ITER, 'karten-v0.5-pruefung.json'), encoding='utf-8') as f:
+    with io.open(PRUEFUNG, encoding='utf-8') as f:
         pruefung = json.load(f)
     geprueft = {(k['ort'], k['karte']): k for k in pruefung['karten']}
     orte = {o['ort']: o for o in pruefung['orte']}
@@ -45,6 +47,12 @@ def main():
            '`scripts/data-build/gemeinde_achsen_kuratierblatt_v05.py`. Karten-Prompt v0.5, Spielkonzept v0.2.6: '
            'je Ort ein Vorrat von sieben Karten (Geschichten und Klassiker), Bekanntheit sperrt nicht. '
            'Bericht dazu: `quizaway-stufe2-volllauf2-2026-10-01.md`.',
+           '',
+           '**Faktencheck (2026-10-02):** Jede Karte ist gegen den Wikipedia-Artikel, gegen eine zweite Quelle im Netz und auf '
+           'zufällig wahre falsche Optionen geprüft (`data/gemeinde-achsen/iter1/faktencheck/`). **bestätigt:** nichts zu ändern. '
+           '**korrigiert:** Die Karte steht hier schon in der berichtigten Fassung, der Grund steht dabei. '
+           '**unsicher:** Die Auflösung steht nur in Wikipedia; spielbar, aber ohne zweiten Beleg. '
+           '**gesperrt:** so nicht spielbar; bleibt bis zu einer Neufassung aus dem Vorrat.',
            '',
            '**So geht es:** Was im Vorrat bleiben soll, bleibt unangekreuzt. Nur ankreuzen, was gestrichen werden soll; '
            'wer eine Karte umformulieren will, schreibt es dazu. Je Ort eine Zahl: welche Karte im Feldtest zuerst gespielt wird. '
@@ -63,11 +71,15 @@ def main():
             nr = int(teile[i])
             p = geprueft[(slug, nr)]
             rueck = re.split(r'^\s*Quelle:', feld(v, 'RÜCKSEITE'), flags=re.M)[0].strip()
-            aus += ['### Karte %d · %s · Familie %s    [ ] streichen' % (nr, p['sorte'], p['familie']), '',
+            gesperrt = p['faktencheck'] == 'gesperrt'
+            aus += ['### Karte %d · %s · Familie %s    %s' % (
+                        nr, p['sorte'], p['familie'], '**gesperrt nach Faktencheck**' if gesperrt else '[ ] streichen'), '',
                     zitat(feld(v, 'VORDERSEITE')), '', zitat(rueck), '',
                     '%d Wörter · Bekanntheit %s · Negativnachweis Weg %s%s' % (
                         p['woerter_rueckseite'], p['bekanntheit'], p['wege'] or '?',
                         ' · **Prüfung: %s**' % '; '.join(p['fehler']) if p['fehler'] else ''),
+                    '',
+                    'Faktencheck: **%s**%s' % (p['faktencheck'], '' if p['faktencheck'] == 'bestätigt' else ' – ' + p['faktencheck_grund']),
                     '']
         if o['anschluesse']:
             aus += ['**Orts-Anschluss** (an den Ort davor, passt hinter jede Karte):', ''] + ['- ' + a for a in o['anschluesse']] + ['']

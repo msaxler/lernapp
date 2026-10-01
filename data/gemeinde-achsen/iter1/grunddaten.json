@@ -45,9 +45,10 @@
    "schluessel": "kfz",
    "bezeichnung": "Kfz-Kennzeichen",
    "herkunft": "kfz",
-   "einwertig": true,
-   "quelle_vollstaendig": true,
-   "zeitabhaengig": false
+   "einwertig": false,
+   "quelle_vollstaendig": false,
+   "zeitabhaengig": false,
+   "hinweis": "Kreise geben Altkennzeichen aus (Breisgau-Hochschwarzwald seit 2023 auch MÜL und NEU); Wikidata P395 nennt nur das Hauptkennzeichen."
   },
   {
    "schluessel": "hoehe_m",

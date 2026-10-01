@@ -23,9 +23,9 @@
 > 3. Die Kirche stand auf einer Insel zwischen Bächen.
 > 4. Ein Gründer namens Ummo stiftete die Kirche.
 
-> Du hattest [Option] getippt. Wer Umkirch hört, denkt an ein Dorf rings um seine Kirche; so klingt der Name heute. 1087 hieß der Ort aber Untkilicha, lateinisch Ecclesia in Undis, also Kirche in den Wellen. Das spielt vermutlich auf die Lage der Kirche an: auf einer Insel zwischen zwei Bächen. Mariä Himmelfahrt ist zudem die älteste Pfarrkirche des Breisgaus. Richtig war 3.
+> Du hattest [Option] getippt. Wer Umkirch hört, denkt an ein Dorf rings um seine Kirche; so klingt der Name heute. 1087 hieß der Ort aber Untkilicha, lateinisch Ecclesia in Undis, also Kirche in den Wellen. Das spielt vermutlich auf die Lage der Kirche an: auf einer Insel zwischen zwei Bächen. Mariä Himmelfahrt gilt zudem als älteste Pfarrkirche des Breisgaus. Richtig war 3.
 
-62 Wörter · Bekanntheit niedrig · Negativnachweis Weg c · Anschluss: nein
+62 Wörter · Bekanntheit niedrig · Negativnachweis Weg c · Anschluss: nein · Faktencheck: **korrigiert** (Superlativ ohne Vorbehalt; Artikel: gilt als, Gemeinde: wohl älteste.)
 
 ### Vorschlag 2
 
@@ -38,9 +38,9 @@
 > 3. Die Umkircher leisteten starken Widerstand dagegen.
 > 4. Der Landkreis wollte Umkirchs Gewerbesteuer nicht verlieren.
 
-> Du hattest [Option] getippt. Ein Gericht liegt nahe, denn um Eingemeindungen wurde damals vielerorts geklagt. Bei Umkirch entschied aber die Landesregierung Baden-Württembergs: Die Gemeinde behält ihre Selbstständigkeit, obwohl Freiburg sie eingemeinden wollte. Grund war der starke Widerstand der Umkircher Bevölkerung. Heute bildet Umkirch mit der Nachbargemeinde March einen Gemeindeverwaltungsverband, dessen Sitz in March liegt. Richtig war 3.
+> Du hattest [Option] getippt. Ein Gericht liegt nahe, denn um Eingemeindungen wurde damals vielerorts geklagt. Bei Umkirch entschied aber das Land Baden-Württemberg: Die Gemeinde behält ihre Selbstständigkeit, obwohl Freiburg sie eingemeinden wollte. Grund war der starke Widerstand der Umkircher Bevölkerung. Heute bildet Umkirch mit der Nachbargemeinde March einen Gemeindeverwaltungsverband, dessen Sitz in March liegt. Richtig war 3.
 
-57 Wörter · Bekanntheit niedrig · Negativnachweis Weg ac · Anschluss: nein
+57 Wörter · Bekanntheit niedrig · Negativnachweis Weg ac · Anschluss: nein · Faktencheck: **korrigiert** (Wie v0.5 Karte 5: nicht die Landesregierung, sondern das Land (Gesetz von 1974).)
 
 ### Vorschlag 3
 
@@ -53,9 +53,9 @@
 > 3. Die Bischöfe von Basel besaßen das Patronatsrecht.
 > 4. Die Bischöfe von Straßburg besaßen das Patronatsrecht.
 
-> Du hattest [Option] getippt. Konstanz liegt nahe, denn der Breisgau gehörte kirchlich lange zum Bistum Konstanz. Das Patronatsrecht, vereinfacht das Recht, den Pfarrer vorzuschlagen, hatten in Umkirch aber die Bischöfe von Basel, bis der Breisgau an das Großherzogtum Baden überging. Die Kirche Mariä Himmelfahrt stammt ursprünglich aus der zweiten Hälfte des 11. Jahrhunderts und ist die älteste Pfarrkirche des Breisgaus. Richtig war 3.
+> Du hattest [Option] getippt. Konstanz liegt nahe, denn der Breisgau gehörte kirchlich lange zum Bistum Konstanz. Das Patronatsrecht, vereinfacht das Recht, den Pfarrer vorzuschlagen, hatten in Umkirch aber die Bischöfe von Basel, bis der Breisgau an das Großherzogtum Baden überging. Die Kirche Mariä Himmelfahrt stammt ursprünglich aus der zweiten Hälfte des 11. Jahrhunderts und gilt als älteste Pfarrkirche des Breisgaus. Richtig war 3.
 
-63 Wörter · Bekanntheit niedrig · Negativnachweis Weg c · Anschluss: nein
+63 Wörter · Bekanntheit niedrig · Negativnachweis Weg c · Anschluss: nein · Faktencheck: **korrigiert** (Superlativ ohne Vorbehalt.)
 
 **Wahl:** [x] 1 [ ] 2 [ ] 3 [ ] keiner
 
@@ -71,16 +71,16 @@
 
 > Gundelfingen (Breisgau)
 > Gemeinde mit gut 12.000 Einwohnern direkt an Freiburgs Nordgrenze, Landkreis Breisgau-Hochschwarzwald.
-> In der Ortsmitte steht die Johann-Peter-Hebel-Grundschule. Wann wurde sie gegründet?
+> In der Ortsmitte steht die Johann-Peter-Hebel-Grundschule. Wann bekam der Ort seinen ersten Schulmeister?
 > 
-> 1. Sie wurde vor 1600 gegründet.
-> 2. Sie wurde zwischen 1600 und 1699 gegründet.
-> 3. Sie wurde zwischen 1700 und 1799 gegründet.
-> 4. Sie wurde 1800 oder später gegründet.
+> 1. Das war vor 1600.
+> 2. Das war zwischen 1600 und 1699.
+> 3. Das war zwischen 1700 und 1799.
+> 4. Das war 1800 oder später.
 
-> Du hattest [Option] getippt. Der Name lockt auf eine falsche Fährte: Johann Peter Hebel kam erst 1760 zur Welt, da liegt eine Gründung nach 1800 nahe. Die Schule ist aber viel älter, ihr Gründungsjahr ist 1661. Heute lernen dort in der Ortsmitte knapp 500 Kinder bei rund 40 Lehrkräften. Noch weiter zurück reicht die erste urkundliche Erwähnung des Orts: 1008. Richtig war 2.
+> Du hattest [Option] getippt. Der Name lockt auf eine falsche Fährte: Johann Peter Hebel kam erst 1760 zur Welt, da liegt die Zeit nach 1800 nahe. Schule am Ort gibt es aber viel länger: seit 1661. Heute lernen dort in der Ortsmitte knapp 500 Kinder bei rund 40 Lehrkräften. Noch weiter zurück reicht die erste urkundliche Erwähnung des Orts: 1008. Richtig war 2.
 
-63 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: nein
+63 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: nein · Faktencheck: **korrigiert** (1661 ist das Jahr des ersten Schulmeisters, nicht die Gründung der heutigen Schule (Name seit 1957, Gebäude von 1848).)
 
 ### Vorschlag 2
 
@@ -95,7 +95,7 @@
 
 > Du hattest [Option] getippt. Ein Ja läge nahe: Wer so dicht an der Großstadt wohnt, will bequem hineinfahren, denkt man. Doch am 12. November 2023 lehnten 58 Prozent die Verlängerung ab, bei 61 Prozent Wahlbeteiligung. Geplant waren vier Haltestellen entlang Alter Bundesstraße und Waldstraße. So bleibt es bei der Haltestelle Gundelfinger Straße am südlichen Ortsrand; am Bahnhof an der Rheintalbahn fährt die S2. Richtig war 2.
 
-66 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: nein
+66 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: nein · Faktencheck: **bestätigt**
 
 ### Vorschlag 3
 
@@ -108,9 +108,9 @@
 > 3. Dort leben 15.000 bis 24.999 Menschen.
 > 4. Dort leben 25.000 Menschen oder mehr.
 
-> Du hattest [Option] getippt. „Ohne Stadtrecht“ klingt nach Dorf, deshalb liegt eine kleine Zahl nahe. Tatsächlich leben in Gundelfingen 12.146 Menschen (Stand 2025). Dazu gehört der Ortsteil Wildtal: Er stimmte 1971 mit Dreiviertelmehrheit für die Eingemeindung und brachte am 1. Januar 1972 seine 1.129 Einwohner mit. Richtig war 2.
+> Du hattest [Option] getippt. „Ohne Stadtrecht“ klingt nach Dorf, deshalb liegt eine kleine Zahl nahe. Tatsächlich leben in Gundelfingen 12.146 Menschen (Stand 2025). Dazu gehört der Ortsteil Wildtal: Er stimmte 1971 mit 72 Prozent für die Eingemeindung und brachte am 1. Januar 1972 seine 1.129 Einwohner mit. Richtig war 2.
 
-49 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: ja
+50 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: ja · Faktencheck: **korrigiert** (Laut Gemeinde 72 Prozent, keine Dreiviertelmehrheit.)
 
 **Wahl:** [ ] 1 [x] 2 [ ] 3 [ ] keiner
 
@@ -134,7 +134,7 @@
 
 > Du hattest [Option] getippt. Österreich wäre naheliegend: Freiburg, nur 10 km südlich, war jahrhundertelang habsburgisch und katholisch. Denzlingen aber gehörte ab 1305 zur Markgrafschaft Baden-Hachberg, später zu Baden-Durlach, und war lange überwiegend evangelisch, 1843 noch zu 99 Prozent. Die erste Zigarrenfabrik entstand 1867 mit der Industrialisierung. Die Lüge war 1.
 
-50 Wörter · Bekanntheit niedrig · Negativnachweis Weg b · Anschluss: ja
+50 Wörter · Bekanntheit niedrig · Negativnachweis Weg b · Anschluss: ja · Faktencheck: **bestätigt**
 
 ### Vorschlag 2
 
@@ -143,12 +143,12 @@
 > Drei Aussagen über Kirchen und Türme in Denzlingen, eine davon ist gelogen. Welche?
 > 
 > 1. Die Josefskirche reiste per Eisenbahn aus Emmendingen an.
-> 2. Der Turm der Georgskirche trägt die weltälteste Kirchturm-Spiraltreppe.
+> 2. Die Georgskirche trägt eine Spiraltreppe von 1547.
 > 3. Der Storchenturm ist der Rest einer zerstörten Kirche.
 
-> Du hattest [Option] getippt. Die Eisenbahn läge nahe, denn Denzlingen hat seit 1845 Anschluss an die Rheintalbahn. Umgezogen ist die Kirche trotzdem anders: Die Emmendinger Bonifatiuskirche von 1863 wurde ab 1912 Stein für Stein abgetragen und mit Ochsenkarren hergebracht. Die Spiraltreppe stammt von 1547; der Storchenturm blieb von der im Dreißigjährigen Krieg zerstörten Michaelskirche. Die Lüge war 1.
+> Du hattest [Option] getippt. Die Eisenbahn läge nahe, denn Denzlingen hat seit 1845 Anschluss an die Rheintalbahn. Umgezogen ist die Kirche trotzdem anders: Die Emmendinger Bonifatiuskirche von 1863 wurde ab 1912 Stein für Stein abgetragen und mit Ochsenkarren hergebracht. Die Spiraltreppe stammt von 1547; der Storchenturm blieb von der verfallenen Michaelskirche. Die Lüge war 1.
 
-58 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: nein
+55 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: nein · Faktencheck: **korrigiert** (Zerstörung der Michaelskirche im Dreißigjährigen Krieg ist nicht gesichert (1713 noch Magazin, 1756 Ruine); der Superlativ der Spiraltreppe gilt nur als.)
 
 ### Vorschlag 3
 
@@ -162,7 +162,7 @@
 
 > Du hattest [Option] getippt. Der Tanzplatz liegt nahe, weil Denz nach Tanz klingt. Orte auf -ingen heißen aber meist nach einer Person: Namensgeber ist der alemannische Stammesfürst Denzilo, der sich im 5. Jahrhundert hier niederließ. Römer siedelten schon früher am Mauracher Berg; Reste einer Villa rustica sind erhalten. Die Pflugschar ist im 18. Jahrhundert als Denzlinger Dorfzeichen belegt. Die Lüge war 1.
 
-62 Wörter · Bekanntheit niedrig · Negativnachweis Weg c · Anschluss: nein
+62 Wörter · Bekanntheit niedrig · Negativnachweis Weg c · Anschluss: nein · Faktencheck: **bestätigt**
 
 **Wahl:** [x] 1 [ ] 2 [x] 3 [ ] keiner
 
@@ -187,7 +187,7 @@
 
 > Du hattest [Option] getippt. Ein Kloster liegt nahe: Viele Dörfer tauchen zuerst in den Besitzlisten von Klöstern auf. Zähringen aber steht 1008 in der Wildbannurkunde, einer Schenkung König Heinrichs II. an das Bistum Basel. Dieselbe Urkunde bezeugt auch Herdern, Wiehre und Gundelfingen. Denzlingen, dein letzter Ort, ist als eigene Gemeinde mit 13.734 Einwohnern größer als dieser Stadtteil. Richtig war 2.
 
-60 Wörter · Bekanntheit niedrig · Negativnachweis Weg c · Anschluss: ja
+60 Wörter · Bekanntheit niedrig · Negativnachweis Weg c · Anschluss: ja · Faktencheck: **bestätigt**
 
 ### Vorschlag 2
 
@@ -202,7 +202,7 @@
 
 > Du hattest [Option] getippt. Ein Baubeginn liegt nahe: Erst im März 2014 wuchs die Strecke um drei Stationen bis zur Gundelfinger Straße, und die vier weiteren bis zur Ortsmitte Gundelfingens sind im vordringlichen Bedarf festgeschrieben. Doch seit einem Bürgerentscheid 2023 gilt der Bau als praktisch ausgeschlossen. Nach Denzlingen, deinem letzten Ort, fährt vom Haltepunkt Zähringen die Breisgau-S-Bahn. Richtig war 2.
 
-60 Wörter · Bekanntheit niedrig · Negativnachweis Weg ac · Anschluss: ja
+60 Wörter · Bekanntheit niedrig · Negativnachweis Weg ac · Anschluss: ja · Faktencheck: **bestätigt**
 
 ### Vorschlag 3
 
@@ -217,7 +217,7 @@
 
 > Du hattest [Option] getippt. Ein Kauf liegt nahe, denn so hatte das Dorf schon einmal den Herrn gewechselt: 1327 verkauften es die Grafen von Freiburg an Schnewlin Bernlapp. 1443 folgten die Schnewlin zum Wiger, 1536 die Schnewlin von Landeck. Von ihnen erbten es Ende des 16. Jahrhunderts die Herren von Sickingen. Vor den Grafen hatten die Herzöge von Zähringen Burg und Dorf besessen. Richtig war 2.
 
-66 Wörter · Bekanntheit niedrig · Negativnachweis Weg ac · Anschluss: nein
+66 Wörter · Bekanntheit niedrig · Negativnachweis Weg ac · Anschluss: nein · Faktencheck: **bestätigt**
 
 **Wahl:** [x] 1 [x] 2 [x] 3 [ ] keiner
 
@@ -233,16 +233,16 @@
 
 > St. Peter (Hochschwarzwald)
 > Gemeinde mit 2.718 Einwohnern im Schwarzwald östlich von Freiburg, Landkreis Breisgau-Hochschwarzwald.
-> Wie alt ist das Kloster St. Peter auf dem Schwarzwald, gerechnet ab seiner Gründung? Bei welcher Stufe lautet die Antwort zum letzten Mal Ja?
+> Vor wie vielen Jahren wurde das Kloster St. Peter auf dem Schwarzwald gegründet? Bei welcher Stufe lautet die Antwort zum letzten Mal Ja?
 > 
-> 1. Älter als 200 Jahre?
-> 2. Älter als 400 Jahre?
-> 3. Älter als 800 Jahre?
-> 4. Älter als 1.600 Jahre?
+> 1. Vor mehr als 200 Jahren?
+> 2. Vor mehr als 400 Jahren?
+> 3. Vor mehr als 800 Jahren?
+> 4. Vor mehr als 1.600 Jahren?
 
-> Du hattest [Option] getippt. Das herausragende Gebäude des Dorfes ist barock: Die ehemalige Klosterkirche baute Peter Thumb aus Vorarlberg 1724 bis 1727. Wer davon aufs Kloster schließt, landet bei rund 300 Jahren. Gegründet hat es aber Zähringerherzog Berthold II. schon 1093, als Hauskloster und Begräbnisstätte. Es ist also gut 930 Jahre alt; seine weltlichen Rechte verlor es 1806. Richtig war 3.
+> Du hattest [Option] getippt. Das herausragende Gebäude des Dorfes ist barock: Die ehemalige Klosterkirche baute Peter Thumb aus Vorarlberg 1724 bis 1727. Wer davon aufs Kloster schließt, landet bei rund 300 Jahren. Gegründet hat es aber Zähringerherzog Berthold II. schon 1093, als Hauskloster und Begräbnisstätte. Das ist gut 930 Jahre her; 1806 wurde es aufgehoben. Richtig war 3.
 
-61 Wörter · Bekanntheit mittel · Negativnachweis Weg a · Anschluss: nein
+58 Wörter · Bekanntheit mittel · Negativnachweis Weg a · Anschluss: nein · Faktencheck: **korrigiert** (Das Kloster wurde 1806 aufgehoben; „wie alt ist“ war doppeldeutig (713 Jahre Bestand gegen 933 Jahre seit der Gründung).)
 
 ### Vorschlag 2
 
@@ -257,7 +257,7 @@
 
 > Du hattest [Option] getippt. Der Ort selbst liegt auf gut 700 m; da liegt es nahe, auch das Umland nur wenig höher zu vermuten. Das Gemeindegebiet reicht aber von 519 bis 1.228 m, der höchste Punkt liegt also über 500 m über dem Ortskern. Zahlreiche Schwarzwaldhöfe und -mühlen liegen weit über die Gemarkung verstreut; Ortsteile heißen Kandelberg oder Neuwelt. Richtig war 2.
 
-62 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: nein
+62 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: nein · Faktencheck: **bestätigt**
 
 ### Vorschlag 3
 
@@ -272,7 +272,7 @@
 
 > Du hattest [Option] getippt. Ein Dorf mit 2.718 Einwohnern lässt an wenige Gästebetten denken, denn meist wächst das Angebot mit dem Ort. Der Luftkurort zählte 2023 aber 85.375 Übernachtungen, gut 31 je Einwohner. 2022 waren es 84.489, davon 18.854 auf dem Campingplatz; der Inlandsanteil lag bei 90 Prozent. Richtig war 2.
 
-51 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: ja
+51 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: ja · Faktencheck: **bestätigt**
 
 **Wahl:** [ ] 1 [ ] 2 [x] 3 [ ] keiner
 
@@ -297,22 +297,22 @@
 
 > Du hattest [Option] getippt. Wein liegt nahe, denn heute führt die Badische Weinstraße durchs Tal; belegt sind Reben hier aber erst um 1580. Reich machte das Tal der Bergbau auf Blei-Silbererze und Eisenerze, mit Blütezeit in der zweiten Hälfte des 13. Jahrhunderts. Neue Versuche im frühen 16. Jahrhundert blieben ohne großen Erfolg. Erstmals erwähnt wird Glottertal 1112 in einer Güterbeschreibung des Klosters St. Peter. Richtig war 4.
 
-67 Wörter · Bekanntheit niedrig · Negativnachweis Weg ac · Anschluss: ja
+67 Wörter · Bekanntheit niedrig · Negativnachweis Weg ac · Anschluss: ja · Faktencheck: **bestätigt**
 
 ### Vorschlag 2
 
 > Glottertal
 > Gemeinde mit 3.215 Einwohnern in einem Schwarzwaldtal nordöstlich von Freiburg.
-> Am Weinbau im Glottertal gilt etwas als deutschlandweit einmalig. Was ist es?
+> Am Weinbau im Glottertal galt etwas als deutschlandweit einmalig. Was war es?
 > 
 > 1. Die Winzer arbeiten ganz ohne Maschinen.
 > 2. Im Tal wächst ausschließlich Spätburgunder.
 > 3. Die Reben stehen dort seit der Römerzeit.
-> 4. Ein Weinberg liegt auf 720 Metern Höhe.
+> 4. Ein Weinberg lag auf 720 Metern Höhe.
 
-> Du hattest [Option] getippt. Reine Handarbeit liegt nahe, denn steile Hänge lassen kaum Maschinen zu: Im Glottertal sind es 90 Prozent, aber eben nicht alles. Einmalig ist die Höhe: Der höchste Weinberg am Wuspenhof liegt auf 720 Metern. Belegt ist der Weinbau seit etwa 1580, heute stehen Reben auf rund 58 Hektar. Glottertal (350 m) liegt 365 Meter tiefer als dein letzter Ort St. Peter. Richtig war 4.
+> Du hattest [Option] getippt. Reine Handarbeit liegt nahe, denn steile Hänge lassen kaum Maschinen zu: Im Glottertal sind es 90 Prozent, aber eben nicht alles. Einmalig war die Höhe: Der höchste Weinberg am Wuspenhof lag auf 720 Metern. Belegt ist der Weinbau seit etwa 1580, heute stehen Reben auf rund 58 Hektar. Glottertal liegt über 300 Meter tiefer als dein letzter Ort St. Peter. Richtig war 4.
 
-68 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: ja
+67 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: ja · Faktencheck: **korrigiert** (Der Weinberg auf 720 m ist Geschichte; der Höhenvergleich mit St. Peter war scheingenau (die Quellen nennen für Glottertal 306 bis 403 m).)
 
 ### Vorschlag 3
 
@@ -327,7 +327,7 @@
 
 > Du hattest [Option] getippt. Der Scheffel als altes Hohlmaß liegt nahe, weil Abgaben früher oft in solchen Maßen bemessen wurden. Gemeint ist aber der Dichter Viktor von Scheffel: 1881 war er zur Kur in Bad Dürrheim und genoss beim Löwenwirt zu Rietheim bei Villingen einen Roten Bur, Wein aus einer Glottertäler Lage. Zuvor hieß der Wein „alter Glottertäler“; heute wird er im Holzfass ausgebaut. Richtig war 4.
 
-67 Wörter · Bekanntheit mittel · Negativnachweis Weg c · Anschluss: nein
+67 Wörter · Bekanntheit mittel · Negativnachweis Weg c · Anschluss: nein · Faktencheck: **bestätigt**
 
 **Wahl:** [ ] 1 [ ] 2 [x] 3 [ ] keiner
 
@@ -349,9 +349,9 @@
 > 2. 1679 kam Kirchzarten durch einen Friedensschluss an Frankreich.
 > 3. 1805 kam Kirchzarten durch Napoleons Sieg an Württemberg.
 
-> Du hattest [Option] getippt. Frankreich klingt nach der Lüge, weil Kirchzarten im Schwarzwald liegt. Doch nach dem Frieden von Nimwegen trat Österreich die Herrschaft 1679 an Frankreich ab und bekam sie 1697 zurück. Die Stadt Freiburg hatte den Ort um 1500 erworben; ihr Georgskreuz steht bis heute im Gemeindewappen. Als Österreich 1805 gegen Napoleon verlor, kam Kirchzarten an das Großherzogtum Baden, nicht an Württemberg. Die Lüge war 3.
+> Du hattest [Option] getippt. Frankreich klingt nach der Lüge, weil Kirchzarten im Schwarzwald liegt. Doch nach dem Frieden von Nimwegen trat Österreich die Herrschaft 1679 an Frankreich ab und bekam sie 1697 zurück. Die Stadt Freiburg hatte den Ort um 1500 erworben; ihr Georgskreuz steht bis heute im Gemeindewappen. Als Österreich 1805 gegen Napoleon verlor, kam Kirchzarten an Baden, nicht an Württemberg. Die Lüge war 3.
 
-68 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: nein
+66 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: nein · Faktencheck: **korrigiert** (1805 war Baden Kurfürstentum, Großherzogtum erst 1806.)
 
 ### Vorschlag 2
 
@@ -360,12 +360,12 @@
 > Im Gemeindegebiet liegt das Himmelreich mit Hofgut und Bahnhof. Welche der drei Aussagen darüber ist gelogen?
 > 
 > 1. Die Jakobuskapelle dort wurde wegen Straßenbaus versetzt.
-> 2. Ein Inklusionsbetrieb führt dort Hotel, Restaurant und Bahnagentur.
+> 2. Ein Inklusionsbetrieb führt dort Hotel und Restaurant.
 > 3. Der Bahnhof dort liegt an der Schwarzwaldbahn.
 
-> Du hattest [Option] getippt. Schwarzwaldbahn klingt richtig, weil der Bahnhof im Schwarzwald liegt. Doch am Himmelreich hält die Höllentalbahn; sie führt von Freiburg in den Hochschwarzwald nach Titisee und Neustadt. Die Jakobuskapelle am Jakobsweg, vermutlich vor 1500 gebaut, wurde zweimal wegen neuer Straßen versetzt und steht seit 1986 am heutigen Platz. Das Hofgut Himmelreich ist seit 2004 ein Inklusionsunternehmen mit Hotel, Restaurant und Bahnagentur. Die Lüge war 3.
+> Du hattest [Option] getippt. Schwarzwaldbahn klingt richtig, weil der Bahnhof im Schwarzwald liegt. Doch am Himmelreich hält die Höllentalbahn; sie führt von Freiburg in den Hochschwarzwald nach Titisee und Neustadt. Die Jakobuskapelle am Jakobsweg, vermutlich vor 1500 gebaut, wurde zweimal wegen neuer Straßen versetzt und steht seit 1986 am heutigen Platz. Das Hofgut Himmelreich ist seit 2004 ein Inklusionsunternehmen mit Hotel und Restaurant. Die Lüge war 3.
 
-68 Wörter · Bekanntheit mittel · Negativnachweis Weg b · Anschluss: nein
+67 Wörter · Bekanntheit mittel · Negativnachweis Weg b · Anschluss: nein · Faktencheck: **korrigiert** (Die Bahnagentur des Hofguts ist geschlossen (und bestand erst seit 2006).)
 
 ### Vorschlag 3
 
@@ -373,13 +373,13 @@
 > Gemeinde mit 10.364 Einwohnern im Dreisamtal östlich von Freiburg, 380 m hoch.
 > Kirchzarten und das Fahrrad: Welche der drei Aussagen ist gelogen?
 > 
-> 1. 1995 lief hier Deutschlands bislang einzige Mountainbike-WM.
+> 1. 1995 liefen hier die Mountainbike-Weltmeisterschaften.
 > 2. 1971 fuhr die Tour de France durch Kirchzarten.
 > 3. 2013 billigte ein Bürgerentscheid ein neues Mountainbike-Trainingsgelände.
 
-> Du hattest [Option] getippt. Nach einer Weltmeisterschaft erwartet man einen Ort, der dem Radsport alles erlaubt. Doch am 3. März 2013 lehnten 58 Prozent ein Mountainbike-Trainings- und Wettkampfgelände ab; das nötige Quorum war überschritten. Die Mountainbike-WM von 1995 ist bislang die einzige auf deutschem Boden. Die Tour de France kam am 27. Juni 1971 auf der Etappe von Basel nach Freiburg durch Kirchzarten. Die Lüge war 3.
+> Du hattest [Option] getippt. Nach einer Weltmeisterschaft erwartet man einen Ort, der dem Radsport alles erlaubt. Doch am 3. März 2013 lehnten 58 Prozent ein Mountainbike-Trainings- und Wettkampfgelände ab; das nötige Quorum war überschritten. Die Mountainbike-Weltmeisterschaften von 1995 fanden wirklich hier statt. Die Tour de France kam am 27. Juni 1971 auf der Etappe von Basel nach Freiburg durch Kirchzarten. Die Lüge war 3.
 
-67 Wörter · Bekanntheit mittel · Negativnachweis Weg a · Anschluss: nein
+64 Wörter · Bekanntheit mittel · Negativnachweis Weg a · Anschluss: nein · Faktencheck: **korrigiert** (Wie v0.5 Karte 7; bei einer Lügen-Karte wäre Aussage 1 sonst selbst angreifbar.)
 
 **Wahl:** [x] 1 [ ] 2 [ ] 3 [ ] keiner
 
@@ -404,7 +404,7 @@
 
 > Du hattest [Option] getippt. Wer Rekordhöhe hört, denkt an ein Bergdorf, deshalb liegt die Theorie vom hoch gelegenen Günterstal nahe. Doch der Ort liegt nur auf 330 Metern. Entscheidend ist die Gemarkung: Zu ihr gehört der 1284 Meter hohe Schauinsland. Günterstal wurde 1890 nach Freiburg eingemeindet, und wegen des Schauinslands kann sich Freiburg Deutschlands höchstgelegene Großstadt nennen. Übrigens: Kirchzarten liegt mit 380 Metern höher als Günterstal. Richtig war 1.
 
-69 Wörter · Bekanntheit mittel · Negativnachweis Weg ac · Anschluss: ja
+69 Wörter · Bekanntheit mittel · Negativnachweis Weg ac · Anschluss: ja · Faktencheck: **bestätigt**
 
 ### Vorschlag 2
 
@@ -417,9 +417,9 @@
 > 3. Die Linie gilt seither amtlich als Stadtbahn.
 > 4. Die Endhaltestelle wurde einige hundert Meter zurückverlegt.
 
-> Du hattest [Option] getippt. Nahe liegt Konstanz: Die Stadt am Bodensee liegt südlicher als Freiburg. Doch die Konkurrenz kam aus der Schweiz: Im Dezember 2014 wurde die grenzüberschreitende Linie 8 der Basler Straßenbahn nach Weil am Rhein verlängert. Seit 2015 ist die Dorfstraße nur noch die südlichste Straßenbahnhaltestelle eines deutschen Verkehrsunternehmens. Die Linie 2 fährt seit 1901 nach Günterstal. Richtig war 1.
+> Du hattest [Option] getippt. Nahe liegt Konstanz: Die Stadt am Bodensee liegt südlicher als Freiburg. Doch die Konkurrenz kam aus der Schweiz: Im Dezember 2014 wurde die grenzüberschreitende Linie 8 der Basler Straßenbahn nach Weil am Rhein verlängert. Seit 2015 ist die Dorfstraße nur noch die südlichste Straßenbahnhaltestelle eines deutschen Verkehrsunternehmens. Die Straßenbahn fährt seit 1901 nach Günterstal. Richtig war 1.
 
-62 Wörter · Bekanntheit niedrig · Negativnachweis Weg c · Anschluss: nein
+61 Wörter · Bekanntheit niedrig · Negativnachweis Weg c · Anschluss: nein · Faktencheck: **korrigiert** (Die Straßenbahn fährt seit 1901, Linie 2 heißt sie erst seit 1909.)
 
 ### Vorschlag 3
 
@@ -434,7 +434,7 @@
 
 > Du hattest [Option] getippt. Nahe liegt Günther von Kibenfels: Der Adelige schenkte vermutlich um 1221 seiner Tochter Adelheid das Gelände, auf dem sie das Zisterzienserinnenkloster baute. Ein Stifter als Namensgeber, das klingt schlüssig. Doch der Name ist viel älter: Schon 804 wird der Ort als „Gundherrerhusir“ erwähnt, Häuser des Günther. Kibenfels kam also Jahrhunderte zu spät. Richtig war 1.
 
-59 Wörter · Bekanntheit niedrig · Negativnachweis Weg ac · Anschluss: nein
+59 Wörter · Bekanntheit niedrig · Negativnachweis Weg ac · Anschluss: nein · Faktencheck: **bestätigt**
 
 **Wahl:** [x] 1 [x] 2 [x] 3 [ ] keiner
 
@@ -450,16 +450,16 @@
 
 > Horben
 > Gemeinde mit 1.202 Einwohnern am Hang über Günterstal, im Landkreis Breisgau-Hochschwarzwald.
-> Die Herren von Horwen gründeten im Mittelalter das Kloster Günterstal. Wann bekam Horben selbst seine Pfarrkirche St. Agatha?
+> Die Herren von Horwen sollen im Mittelalter das Kloster Günterstal gegründet haben. Wann bekam Horben selbst seine Pfarrkirche St. Agatha?
 > 
 > 1. Sie entstand vor dem Jahr 1600.
 > 2. Sie entstand zwischen 1600 und 1699.
 > 3. Sie entstand zwischen 1700 und 1799.
 > 4. Sie entstand im Jahr 1800 oder später.
 
-> Du hattest [Option] getippt. Ein früher Bau liegt nahe: Wo Ortsherren im Mittelalter ein Kloster gründen, erwartet man auch eine alte Dorfkirche. St. Agatha entstand aber erst 1792, als das Dorf im Rahmen des Josephinismus erstmals eigenständige Pfarrei wurde; sie ersetzte eine frühere Kapelle. Das barocke Portal ist älter als die Kirche: Es stammt von 1703 aus der Freiburger Heiliggeistspitalkirche und kam 1805/06 nach Horben. Richtig war 3.
+> Du hattest [Option] getippt. Ein früher Bau liegt nahe: Wo Ortsherren im Mittelalter ein Kloster gründen, erwartet man auch eine alte Dorfkirche. St. Agatha entstand aber erst 1792, als das Dorf im Rahmen des Josephinismus erstmals eigenständige Pfarrei wurde; sie ersetzte eine frühere Kapelle. Das barocke Portal ist älter als die Kirche: Es stammt von 1703 aus der Freiburger Heiliggeistspitalkirche, die 1805/06 aufgehoben wurde. Richtig war 3.
 
-68 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: nein
+67 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: nein · Faktencheck: **korrigiert** (Wie v0.5 Karte 3 (Portal); die Klostergründung durch die Herren von Horwen steht nur in Wikipedia, die Klosterdatenbank nennt eine andere Stifterin.)
 
 ### Vorschlag 2
 
@@ -474,7 +474,7 @@
 
 > Du hattest [Option] getippt. Ein paar Meter liegen nahe, denn für einen Schwarzwaldbach erwartet man keinen großen Damm. Tatsächlich ist er 13,5 Meter hoch, 275 Meter lang und bis zu 80 Meter breit. Gebaut wurde von Februar 2020 bis April 2023. Unumstritten war das Projekt nicht: Es liegt in einem Landschaftsschutzgebiet mit wertvollen Biotopen. Der Bohrer-Bach heißt übrigens ab Günterstal, deinem letzten Ort, Hölderlebach. Richtig war 3.
 
-67 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: ja
+67 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: ja · Faktencheck: **bestätigt**
 
 ### Vorschlag 3
 
@@ -489,7 +489,7 @@
 
 > Du hattest [Option] getippt. Eine Handvoll liegt nahe, denn ein Gefecht bei einem kleinen Ort klingt nach kurzem Scharmützel. Die Freischärler verloren aber etwa 20 Mann, die Soldaten drei. An zwei gefallene Soldaten erinnert noch der Jägerbrunnen, den ihre Kameraden errichteten. Seit 2020 führt der „Weg der Revolutionäre“, vom Schwarzwaldverein beschildert, von Horben nach Freiburg. Richtig war 3.
 
-58 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: nein
+58 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: nein · Faktencheck: **bestätigt**
 
 **Wahl:** [ ] 1 [ ] 2 [x] 3 [ ] keiner
 
@@ -513,7 +513,7 @@
 
 > Du hattest [Option] getippt. Der gleiche Name legt die Kaiserfamilie nahe, doch die Herren von Staufen waren mit den Hohenstaufen nicht verwandt: Sie waren eine Nebenlinie derer von Blankenberg, 1111 erstmals erwähnt, und herrschten fast 500 Jahre, bis das Geschlecht 1602 erlosch. Germanisch „stauf“ meint Becher und kegeligen Berg; daher die drei Kelche im Wappen. Die Lüge war 2.
 
-59 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: ja
+59 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: ja · Faktencheck: **bestätigt**
 
 ### Vorschlag 2
 
@@ -527,7 +527,7 @@
 
 > Du hattest [Option] getippt. Der Vulkan liegt nahe: Der Schlossberg erhebt sich steil nördlich des Talausgangs, und mit dem Kaiserstuhl gibt es am Oberrhein echten Vulkanismus. Trotzdem wird der Schlossberg nur fälschlich als Vulkankegel bezeichnet; er besteht hauptsächlich aus Braunjuraschollen und tertiärem Konglomerat. Wahr dagegen: Die Gusseisenbrücke heißt Deckerbrücke, weil das Café Decker dort Tische aufstellt, und die Magdalenenkapelle wurde 1827 Waschhaus und Brennerei. Die Lüge war 2.
 
-68 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: nein
+68 Wörter · Bekanntheit niedrig · Negativnachweis Weg a · Anschluss: nein · Faktencheck: **bestätigt**
 
 ### Vorschlag 3
 
@@ -541,7 +541,7 @@
 
 > Du hattest [Option] getippt. Das Elsass liegt nahe, denn es beginnt gleich jenseits des Rheins. Staufens französische Partnerstadt ist seit 1963 Bonneville in Haute-Savoie; mit Kazimierz Dolny kam 1994 die polnische hinzu. Mit Dolores in Argentinien gibt es seit 2018 eine Absichtserklärung; verbindendes Element ist der Tango, und in Staufen steht ein Tango- und Bandoneonmuseum. Die Lüge war 2.
 
-59 Wörter · Bekanntheit niedrig · Negativnachweis Weg b · Anschluss: ja
+59 Wörter · Bekanntheit niedrig · Negativnachweis Weg b · Anschluss: ja · Faktencheck: **bestätigt**
 
 **Wahl:** [x] 1 [x] 2 [x] 3 [ ] keiner
 

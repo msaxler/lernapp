@@ -53,6 +53,8 @@ Zähringen und Günterstal (Freiburg) werden als Entität `ortsteil` der Gemeind
 - Quellen dafür: Wikidata und amtliche Wahlergebnisse. `data/staedte.json` taugt für Kennzeichen nicht.
 - **Geklärt (Mike, 2026-10-01 abends):** „Sieben Fragen" meint den Vorrat je Ort, nicht mehrere Fragen hintereinander. „Eine Frage pro Ort" (Spielkonzept §5) bleibt. Aufgenommen in Spielkonzept v0.2.6 §8 Nr. 7.
 
+- **Nachtrag 2026-10-02 (Mike):** Zahlen-Karten nehmen ihre Zahl in der Regel aus den Grunddaten. Eine Zahl aus dem Artikel ist erlaubt, wenn der Steckbrief einen Anhalt zum Schätzen gibt (Übernachtungen in St. Peter neben der Einwohnerzahl: „für so ein kleines Dorf eine schöne überraschende Zahl"). Im Karten-Prompt v0.5 steht noch die strenge Fassung; v0.6 zieht nach.
+
 ## E11 — Grunddaten: als Option alles, was die Originalvariante schon als Vorrat führt (Mike, 2026-10-01)
 
 Auf den Vorschlag „Grunddaten erweitern: Kennzeichen, Fläche, Ersterwähnung, Wahl und stärkste Partei": „und eben alles das, als Option, was wir in der Originalvariante als Vorrat in Datenbanken schon angelegt haben."

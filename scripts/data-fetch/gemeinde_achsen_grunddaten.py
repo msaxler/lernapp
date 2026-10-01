@@ -49,7 +49,9 @@ KATALOG = [
     ('einwohner', 'Einwohner', 'ew', True, True, True),
     ('flaeche_km2', 'Fläche in km²', 'ew', True, True, False),
     ('dichte_ew_km2', 'Einwohner je km²', 'ew', True, True, True),
-    ('kfz', 'Kfz-Kennzeichen', 'kfz', True, True, False),
+    # nicht einwertig: Kreise geben Altkennzeichen aus (Breisgau-Hochschwarzwald seit 2023 auch MÜL, NEU);
+    # Wikidata P395 nennt nur das Hauptkennzeichen (Faktencheck 2026-10-02, F4)
+    ('kfz', 'Kfz-Kennzeichen', 'kfz', False, False, False),
     ('hoehe_m', 'Höhe in m', 'hoehe', True, False, False),
     ('naechste_grossstadt', 'Nächste Großstadt, Luftlinie', 'dist', True, True, False),
     ('km_landeshauptstadt', 'Luftlinie zur Landeshauptstadt in km', 'dist', True, True, False),

@@ -2,6 +2,8 @@
 
 **Erzeugt am 2026-10-01** aus `data/gemeinde-achsen/iter1/karten-v0.5/` mit `scripts/data-build/gemeinde_achsen_kuratierblatt_v05.py`. Karten-Prompt v0.5, Spielkonzept v0.2.6: je Ort ein Vorrat von sieben Karten (Geschichten und Klassiker), Bekanntheit sperrt nicht. Bericht dazu: `quizaway-stufe2-volllauf2-2026-10-01.md`.
 
+**Faktencheck (2026-10-02):** Jede Karte ist gegen den Wikipedia-Artikel, gegen eine zweite Quelle im Netz und auf zufällig wahre falsche Optionen geprüft (`data/gemeinde-achsen/iter1/faktencheck/`). **bestätigt:** nichts zu ändern. **korrigiert:** Die Karte steht hier schon in der berichtigten Fassung, der Grund steht dabei. **unsicher:** Die Auflösung steht nur in Wikipedia; spielbar, aber ohne zweiten Beleg. **gesperrt:** so nicht spielbar; bleibt bis zu einer Neufassung aus dem Vorrat.
+
 **So geht es:** Was im Vorrat bleiben soll, bleibt unangekreuzt. Nur ankreuzen, was gestrichen werden soll; wer eine Karte umformulieren will, schreibt es dazu. Je Ort eine Zahl: welche Karte im Feldtest zuerst gespielt wird. Die vollständigen Ausgaben mit allen Negativnachweisen stehen in den Kartendateien.
 
 ---
@@ -22,6 +24,8 @@
 
 57 Wörter · Bekanntheit niedrig · Negativnachweis Weg c
 
+Faktencheck: **bestätigt**
+
 ### Karte 2 · Klassiker · Familie C    [ ] streichen
 
 > Umkirch
@@ -36,6 +40,8 @@
 
 54 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 3 · Geschichte · Familie B    [ ] streichen
 
 > Umkirch
@@ -48,6 +54,8 @@
 > Du hattest [Option] getippt. Bei einem Nachbarn der Großstadt liegt die Straßenbahn nahe. Eine Verlängerung vom Rieselfeld nach Umkirch war angedacht, wird aber nicht mehr verfolgt; die nächsten Haltestellen liegen etwa fünf Kilometer entfernt. Wahr: Gerriets ist weltweit führend für Bühnenausstattung, und das Rathaus sitzt seit 2005 im Wasserschloss Büningen, nach einem Brand 1663–1669 wiederaufgebaut. Die Lüge war 1.
 
 59 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
+
+Faktencheck: **bestätigt**
 
 ### Karte 4 · Klassiker · Familie A    [ ] streichen
 
@@ -63,19 +71,23 @@
 
 57 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 5 · Geschichte · Familie A    [ ] streichen
 
 > Umkirch
 > Rund 5.700 Einwohner, eigenständige Gemeinde direkt an der Stadtgrenze von Freiburg.
-> 1974 wollte Freiburg Umkirch eingemeinden, doch die Landesregierung ließ der Gemeinde ihre Selbstständigkeit. Was gab den Ausschlag?
+> Bei der Gemeindereform wollte Freiburg Umkirch eingemeinden, doch das Land ließ der Gemeinde ihre Selbstständigkeit. Was gab den Ausschlag?
 > 1. Der Landkreis wollte seine Steuerzahler nicht verlieren.
 > 2. Die Umkircher Bevölkerung leistete starken Widerstand.
 > 3. Ein Gericht erklärte die Eingemeindung für unzulässig.
 > 4. Freiburg galt dem Land als schon zu groß.
 
-> Du hattest [Option] getippt. Ein Gerichtsurteil liegt nahe, denn gegen Eingemeindungen wurde bei Gebietsreformen oft geklagt. Die Quelle nennt aber einen anderen Grund: Bei der Gemeindereform in Baden-Württemberg wünschte Freiburg 1974, Umkirch einzugemeinden. Die Landesregierung entschied, dass Umkirch selbstständig bleibt, wegen des starken Widerstands der Umkircher Bevölkerung. Richtig war 2.
+> Du hattest [Option] getippt. Ein Gerichtsurteil liegt nahe, denn gegen Eingemeindungen wurde bei Gebietsreformen oft geklagt. Die Quelle nennt aber einen anderen Grund: Bei der Gemeindereform in Baden-Württemberg wünschte Freiburg, Umkirch einzugemeinden. 1974 entschied das Land, dass Umkirch selbstständig bleibt, wegen des starken Widerstands der Umkircher Bevölkerung. Richtig war 2.
 
 50 Wörter · Bekanntheit niedrig · Negativnachweis Weg c
+
+Faktencheck: **korrigiert** – Der Regierungsentwurf sah die Eingemeindung vor; selbstständig blieb Umkirch durch das Gesetz von 1974. Neutral: das Land.
 
 ### Karte 6 · Klassiker · Familie A    [ ] streichen
 
@@ -91,6 +103,8 @@
 
 57 Wörter · Bekanntheit mittel · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 7 · Geschichte · Familie A    [ ] streichen
 
 > Umkirch
@@ -104,6 +118,8 @@
 > Du hattest [Option] getippt. Offizier oder Abgeordneter läge bei Prinzen nahe, denn Adelsfamilien stellten lange Militärs und Politiker. Doch Ferfried Prinz von Hohenzollern (1943–2022) fuhr Tourenwagenrennen, und Leopold Prinz von Bayern, ebenfalls 1943 geboren, war Automobilrennfahrer. Auch Friedrich Wilhelm Prinz von Hohenzollern (1924–2010), einst Oberhaupt des Hauses Hohenzollern-Sigmaringen, ist ein Sohn der Gemeinde. Richtig war 4.
 
 56 Wörter · Bekanntheit hoch · Negativnachweis Weg a
+
+Faktencheck: **bestätigt**
 
 **Zuerst spielen:** Karte ___
 
@@ -125,6 +141,8 @@
 
 49 Wörter · Bekanntheit niedrig · Negativnachweis Weg c
 
+Faktencheck: **unsicher** – Versorgung Freiburgs im Ersten Weltkrieg steht für Gundelfingen nur in Wikipedia; die erfundenen Optionen 2 und 4 sind unbelegt, aber nicht widerlegt.
+
 ### Karte 2 · Klassiker · Familie C    [ ] streichen
 
 > Gundelfingen
@@ -139,6 +157,8 @@
 
 54 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 3 · Geschichte · Familie B    [ ] streichen
 
 > Gundelfingen
@@ -148,9 +168,11 @@
 > 2. Die alte Ortskirche blieb nach der Reformation katholisch.
 > 3. Wildtal stimmte mit großer Mehrheit für seine Eingemeindung.
 
-> Du hattest [Option] getippt. Die Lüge liegt nahe, weil Freiburg katholisch blieb. Gundelfingens alte Kirche aber ist evangelisch: Seit 1556 hat sie einen Pfarrer, Grund war die Einführung der Reformation in der Markgrafschaft Baden. Wahr ist der Rest: Wildtal stimmte 1971 mit Dreiviertelmehrheit für die Eingemeindung, und im Landkreis ist keine Gemeinde ohne Stadtrecht größer. Die Lüge war 2.
+> Du hattest [Option] getippt. Die Lüge liegt nahe, weil Freiburg katholisch blieb. Gundelfingens alte Kirche aber ist evangelisch: Seit 1556 hat sie einen eigenen evangelischen Pfarrer, Grund war die Einführung der Reformation in der Markgrafschaft Baden. Wahr: Wildtal stimmte 1971 mit 72 Prozent für die Eingemeindung, und im Landkreis ist keine Gemeinde ohne Stadtrecht größer. Die Lüge war 2.
 
 59 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
+
+Faktencheck: **korrigiert** – Laut Gemeinde 72 Prozent, keine Dreiviertelmehrheit; seit 1556 ein eigener evangelischer Pfarrer.
 
 ### Karte 4 · Klassiker · Familie A    [ ] streichen
 
@@ -166,6 +188,8 @@
 
 55 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 5 · Geschichte · Familie A    [ ] streichen
 
 > Gundelfingen
@@ -179,6 +203,8 @@
 > Du hattest [Option] getippt. Nahe liegt ein Ja: Eine Straßenbahn bis in den Ort klingt nach einem Gewinn. Doch beim Bürgerentscheid am 12. November 2023 lehnten 58 Prozent die Verlängerung ab, bei 61 Prozent Wahlbeteiligung. Geplant waren vier Haltestellen entlang Alter Bundesstraße und Waldstraße. Die Haltestelle Gundelfinger Straße am südlichen Ortsrand bedient die Linie 3. Richtig war 1.
 
 58 Wörter · Bekanntheit mittel · Negativnachweis Weg ac
+
+Faktencheck: **bestätigt**
 
 ### Karte 6 · Klassiker · Familie A    [ ] streichen
 
@@ -194,6 +220,8 @@
 
 45 Wörter · Bekanntheit niedrig · Negativnachweis Weg ab
 
+Faktencheck: **bestätigt**
+
 ### Karte 7 · Geschichte · Familie A    [ ] streichen
 
 > Gundelfingen
@@ -207,6 +235,8 @@
 > Du hattest [Option] getippt. Nahe liegt die Zeit gleich nach dem Krieg: Damals, denkt man, räumten die Gemeinden mit solchen Ehrungen auf. In Gundelfingen war Hindenburgs Ehrenbürgerschaft seit 1934 erloschen. Formal aberkannt wurde sie ihm aber erst 2021, und zwar einstimmig. Richtig war 3.
 
 44 Wörter · Bekanntheit mittel · Negativnachweis Weg a
+
+Faktencheck: **bestätigt**
 
 **Orts-Anschluss** (an den Ort davor, passt hinter jede Karte):
 
@@ -233,6 +263,8 @@
 
 56 Wörter · Bekanntheit niedrig · Negativnachweis Weg ac
 
+Faktencheck: **bestätigt**
+
 ### Karte 2 · Klassiker · Familie C    [ ] streichen
 
 > Denzlingen
@@ -247,6 +279,8 @@
 
 57 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 3 · Geschichte · Familie B    [ ] streichen
 
 > Denzlingen
@@ -256,9 +290,11 @@
 > 2. Das Gasthaus Rebstock-Stube hatte einst einen Michelin-Stern.
 > 3. Der Storchenturm war einst Wachturm einer Stadtmauer.
 
-> Du hattest [Option] getippt. Der Storchenturm ist der Turm der einstigen Michaelskirche; ihr Langhaus wurde abgerissen. 1813 erwarb die Gemeinde den Turm als Abstellraum für die Feuerwehr, seit 1983 siedeln Störche darauf. Ein Wachturm klingt plausibel, weil alte Türme oft zu Befestigungen gehörten. Der Europabrunnen stand 2005 tatsächlich zuerst als Maischerz vor einer Grundschule. Die Lüge war 3.
+> Du hattest [Option] getippt. Der Storchenturm ist der Turm der einstigen Michaelskirche; ihr Langhaus wurde abgerissen. 1813 erwarb die Gemeinde den Turm als Abstellraum für die Feuerwehr, seit 1993 siedeln Störche darauf. Ein Wachturm klingt plausibel, weil alte Türme oft zu Befestigungen gehörten. Der Europabrunnen stand 2005 tatsächlich zuerst als Maischerz vor einer Grundschule. Die Lüge war 3.
 
 58 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
+
+Faktencheck: **korrigiert** – Gemeinde und zwei weitere Seiten nennen 1993, nicht 1983. Der Michelin-Stern (Aussage 2) steht nur in einem unbelegten Artikelsatz.
 
 ### Karte 4 · Klassiker · Familie A    [ ] streichen
 
@@ -274,7 +310,9 @@
 
 58 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
 
-### Karte 5 · Geschichte · Familie A    [ ] streichen
+Faktencheck: **bestätigt**
+
+### Karte 5 · Geschichte · Familie A    **gesperrt nach Faktencheck**
 
 > Denzlingen
 > Gemeinde mit rund 13.700 Einwohnern im Breisgau, nördlich von Freiburg.
@@ -287,6 +325,8 @@
 > Du hattest [Option] getippt. Leonardo liegt nahe: Er und Francesco di Giorgio Martini machten diese Treppenform in Europa erst kurz zuvor bekannt. Ihre Handschriften waren beim Bau aber noch nicht veröffentlicht. Albrecht Dürer hatte 1525 in der „Underweysung der Messung“ Spiralkonstruktionen behandelt; dieses Werk kannte der Baumeister vermutlich. Auftraggeber war Markgraf Ernst I. von Baden. Richtig war 4.
 
 58 Wörter · Bekanntheit niedrig · Negativnachweis Weg ac
+
+Faktencheck: **gesperrt** – Die Auflösung (Baumeister kannte Dürers Werk) ist eine unbelegte Wikipedia-Vermutung mit widersprüchlicher Datierung; Option 3 (Frankreich) ist nicht widerlegbar.
 
 ### Karte 6 · Klassiker · Familie A    [ ] streichen
 
@@ -302,7 +342,9 @@
 
 51 Wörter · Bekanntheit mittel · Negativnachweis Weg a
 
-### Karte 7 · Geschichte · Familie A    [ ] streichen
+Faktencheck: **bestätigt**
+
+### Karte 7 · Geschichte · Familie A    **gesperrt nach Faktencheck**
 
 > Denzlingen
 > Gemeinde mit rund 13.700 Einwohnern im Breisgau, nördlich von Freiburg.
@@ -315,6 +357,8 @@
 > Du hattest [Option] getippt. Grimmelshausen beschreibt eine Schlacht zwischen kaiserlichen und schwedischen Truppen bei Denzlingen im Dreißigjährigen Krieg. Dieser Krieg zerstörte das Dorf fast vollständig; das Stapfelehus gilt als einziges Haus, das ihn überstand. Ein Schultheiß, also Ortsvorsteher, liegt als Theorie nahe, weil man bei einem Autor zuerst an Wohnort oder Dienstort denkt. Richtig war 2.
 
 56 Wörter · Bekanntheit mittel · Negativnachweis Weg b
+
+Faktencheck: **gesperrt** – Grimmelshausens Schlacht bei Denzlingen steht nur in einem unbelegten Wikipedia-Satz; weder der Faktencheck noch eine eigene Suche fanden eine Bestätigung.
 
 **Orts-Anschluss** (an den Ort davor, passt hinter jede Karte):
 
@@ -341,6 +385,8 @@
 
 54 Wörter · Bekanntheit niedrig · Negativnachweis Weg c
 
+Faktencheck: **bestätigt**
+
 ### Karte 2 · Klassiker · Familie C    [ ] streichen
 
 > Zähringen
@@ -355,6 +401,8 @@
 
 40 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 3 · Geschichte · Familie B    [ ] streichen
 
 > Zähringen
@@ -364,9 +412,11 @@
 > 2 1910 fuhr die erste Straßenbahn bis nach Zähringen.
 > 3 1327 verkauften die Grafen von Freiburg das Dorf.
 
-> Du hattest [Option] getippt. Bei der Zählung 1904 hatte das Dorf 2185 Einwohner, davon 1926 Katholiken und nur 253 Protestanten. Die Straßenbahn kam wirklich am 10. März 1910, und 1327 verkauften die Grafen von Freiburg das Dorf an Schnewlin Bernlapp. Verdächtig wirkt eher das frühe Verkaufsjahr, doch Dörfer wechselten damals oft den Herrn. Die Lüge war 1.
+> Du hattest [Option] getippt. Bei der Zählung 1904 hatte das Dorf 2185 Einwohner, davon 1926 Katholiken und nur 253 Protestanten. Die Straßenbahn kam wirklich 1910, und 1327 verkauften die Grafen von Freiburg das Dorf an Schnewlin Bernlapp. Verdächtig wirkt eher das frühe Verkaufsjahr, doch Dörfer wechselten damals oft den Herrn. Die Lüge war 1.
 
-57 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
+54 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
+
+Faktencheck: **korrigiert** – Tag strittig (Wikipedia 10. März, Bürgerverein 10. Mai 1910); das Jahr ist gesichert.
 
 ### Karte 4 · Klassiker · Familie A    [ ] streichen
 
@@ -382,7 +432,9 @@
 
 53 Wörter · Bekanntheit mittel · Negativnachweis Weg a
 
-### Karte 5 · Geschichte · Familie A    [ ] streichen
+Faktencheck: **bestätigt**
+
+### Karte 5 · Geschichte · Familie A    **gesperrt nach Faktencheck**
 
 > Zähringen
 > Stadtteil im Norden von Freiburg im Breisgau mit rund 9.400 Einwohnern.
@@ -395,6 +447,8 @@
 > Du hattest [Option] getippt. Nahe liegt, dass die Herzöge ihre Burg selbst bauten, denn ihnen gehörten Burg und Dorf. Belegt ist das nicht: Die Entstehung der Burg Zähringen liegt im Dunkeln. Die erste Erwähnung, 1080, steht in einem Bericht Ottos von Freising; die erste urkundliche Erwähnung, im Rotulus Sanpetrinus, folgt 1128. Richtig war 3.
 
 54 Wörter · Bekanntheit hoch · Negativnachweis Weg a
+
+Faktencheck: **gesperrt** – Burgen-Quellen nennen Berthold II. als Bauherrn vor 1100, das kommt Option 1 nahe; Otto von Freising schrieb erst in den 1150er Jahren über 1080; die Ruine liegt auf Gundelfinger Gemarkung.
 
 ### Karte 6 · Klassiker · Familie A    [ ] streichen
 
@@ -410,7 +464,9 @@
 
 44 Wörter · Bekanntheit niedrig · Negativnachweis Weg ab
 
-### Karte 7 · Geschichte · Familie A    [ ] streichen
+Faktencheck: **bestätigt**
+
+### Karte 7 · Geschichte · Familie A    **gesperrt nach Faktencheck**
 
 > Zähringen
 > Stadtteil im Norden von Freiburg im Breisgau mit rund 9.400 Einwohnern.
@@ -423,6 +479,8 @@
 > Du hattest [Option] getippt. Bei gesperrten Unterführungen denkt man zuerst an Schäden oder Hochwasser. Hier steckt ein Plan dahinter: ein Radschnellweg mit den Zielen Emmendingen und Waldkirch. Er soll von Neuburg und Herdern über Burgdorfer Weg und Wildtalstraße entlang der Rheintalbahn nach Gundelfingen führen. Die Sperrung für Autos gehört zu diesem Vorhaben. Richtig war 1.
 
 55 Wörter · Bekanntheit niedrig · Negativnachweis Weg c
+
+Faktencheck: **gesperrt** – Die erfundenen Optionen 2 (zu eng) und 4 (Anwohner) treffen die wirkliche Vorgeschichte; die Sperrung ist ein Plan, ihr Vollzug nicht belegt.
 
 **Orts-Anschluss** (an den Ort davor, passt hinter jede Karte):
 
@@ -453,6 +511,8 @@
 
 55 Wörter · Bekanntheit niedrig · Negativnachweis Weg c
 
+Faktencheck: **unsicher** – Der Ginster-Handel mit den Basler Seidenfärbern steht nur in Wikipedia; keine zweite Quelle gefunden, kein Widerspruch.
+
 ### Karte 2 · Klassiker · Familie C-LEITER    [ ] streichen
 
 > St. Peter
@@ -467,18 +527,22 @@
 
 55 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 3 · Geschichte · Familie B    [ ] streichen
 
 > St. Peter
 > Gemeinde mit rund 2.700 Einwohnern im Schwarzwald, 14 km Luftlinie von Freiburg im Breisgau.
 > Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 > 1. 1899 zerstörte ein Brand 23 Wohnhäuser der Ortsmitte.
-> 2. 1806 kam das Dorf zum Königreich Württemberg.
+> 2. 1806 kam das Dorf zum Königreich Bayern.
 > 3. 1644 tobte hier eine Schlacht des Dreißigjährigen Krieges.
 
-> Du hattest [Option] getippt. 1806 hob die Säkularisation die weltlichen Rechte des Klosters auf, und das Dorf kam zum Großherzogtum Baden, nicht zu Württemberg. Württemberg liegt nahe, weil das heutige Bundesland beide Namen trägt. Der Brand von 1899 machte 150 Menschen obdachlos; die Schlacht war am 10. August 1644. Die Lüge war 2.
+> Du hattest [Option] getippt. 1806 wurde das Kloster aufgehoben, und das Dorf kam zu Baden, nicht zu Bayern. Bayern liegt nahe, weil es damals an Napoleons Seite viel Land gewann. Württembergisch besetzt war St. Peter Anfang 1806 einige Wochen, bayerisch nie. Der Brand von 1899 machte 150 Menschen obdachlos; die Schlacht war am 10. August 1644. Die Lüge war 2.
 
-53 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
+60 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
+
+Faktencheck: **korrigiert** – Die Lüge war nicht sicher falsch: St. Peter war vom 12. Januar bis 18. Februar 1806 württembergisch besetzt (Badische Landesbibliothek, Speckle-Tagebuch). Lüge ersetzt; das Kloster wurde 1806 aufgehoben.
 
 ### Karte 4 · Klassiker · Familie A    [ ] streichen
 
@@ -494,6 +558,8 @@
 
 51 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 5 · Geschichte · Familie A    [ ] streichen
 
 > St. Peter
@@ -507,6 +573,8 @@
 > Du hattest [Option] getippt. Georg von Sachsen (1893–1943), der letzte Kronprinz des Königreichs Sachsen, war 1923/1924 Seminarist in St. Peter. Ein Seminarist bereitet sich auf das Priesteramt vor. Der Kurgast liegt nahe, weil St. Peter Luftkurort ist und man einen Prinzen eher in der Sommerfrische vermutet. Richtig war 2.
 
 49 Wörter · Bekanntheit niedrig · Negativnachweis Weg c
+
+Faktencheck: **unsicher** – Georg von Sachsen als Seminarist in St. Peter steht nur in Wikipedia; unabhängig belegt sind Priesterweihe 1924 und das Priesterseminar am Ort.
 
 ### Karte 6 · Klassiker · Familie A    [ ] streichen
 
@@ -522,6 +590,8 @@
 
 41 Wörter · Bekanntheit mittel · Negativnachweis Weg ab
 
+Faktencheck: **bestätigt**
+
 ### Karte 7 · Geschichte · Familie A    [ ] streichen
 
 > St. Peter
@@ -532,9 +602,11 @@
 > 3. Er war der erste deutsche Nachkriegs-Spielfilm überhaupt.
 > 4. Er war der erste deutsche Nachkriegs-Farbfilm.
 
-> Du hattest [Option] getippt. „Schwarzwaldmädel“ war der erste deutsche Nachkriegs-Farbfilm; die Außenaufnahmen entstanden im Mai 1950 in St. Peter. Der erste Nachkriegs-Spielfilm überhaupt liegt nahe, weil man einen Neuanfang gern an einem berühmten Titel festmacht. 1973 wurden hier auch mehrere Szenen der Fernsehfassung gedreht. Richtig war 4.
+> Du hattest [Option] getippt. „Schwarzwaldmädel“ war der erste deutsche Nachkriegs-Farbfilm; viele Außenaufnahmen entstanden im Mai 1950 in St. Peter. Der erste Nachkriegs-Spielfilm überhaupt liegt nahe, weil man einen Neuanfang gern an einem berühmten Titel festmacht. 1973 wurden hier auch mehrere Szenen der Fernsehfassung gedreht. Richtig war 4.
 
 47 Wörter · Bekanntheit hoch · Negativnachweis Weg c
+
+Faktencheck: **korrigiert** – Gedreht wurde auch in Baden-Baden und Garmisch-Partenkirchen (filmportal.de).
 
 **Orts-Anschluss** (an den Ort davor, passt hinter jede Karte):
 
@@ -555,15 +627,17 @@
 
 > Glottertal
 > Rund 3.200 Einwohner, Tal im Schwarzwald, 10 km Luftlinie von Freiburg.
-> Der Carlsbau wurde als Außenkulisse der Fernsehserie Die Schwarzwaldklinik berühmt. Was war das Gebäude im wirklichen Leben?
+> Der Carlsbau wurde als Außenkulisse der Fernsehserie Die Schwarzwaldklinik berühmt. Was war das Gebäude zur Zeit der Dreharbeiten wirklich?
 > 1. Es war eine Kurklinik einer Versicherungsanstalt.
 > 2. Es war ein Grandhotel für wohlhabende Sommergäste.
 > 3. Es war ein Erholungsheim eines katholischen Ordens.
 > 4. Es war ein Jagdschloss einer Adelsfamilie.
 
-> Du hattest [Option] getippt. Der Carlsbau war wirklich eine Klinik: eine Kurklinik der Landesversicherungsanstalt Württemberg. Ein Hotel liegt als Tipp nahe, weil der Fremdenverkehr im Tal ein wichtiger Wirtschaftszweig ist. Mitte der 1980er Jahre wurde das Haus Außenkulisse der Schwarzwaldklinik und Ziel des Fantourismus. 2004 stand es leer; seit 2014 arbeitet dort eine psychosomatische Akutklinik. Richtig war 1.
+> Du hattest [Option] getippt. Der Carlsbau war wirklich eine Klinik: eine Kurklinik der Landesversicherungsanstalt Württemberg. Ein Hotel liegt als Tipp nahe, weil der Fremdenverkehr im Tal ein wichtiger Wirtschaftszweig ist. Mitte der 1980er Jahre wurde das Haus Außenkulisse der Schwarzwaldklinik und Ziel des Fantourismus. Ab 2004 stand es leer; seit 2014 arbeitet dort eine psychosomatische Akutklinik. Richtig war 1.
 
-58 Wörter · Bekanntheit hoch · Negativnachweis Weg c
+59 Wörter · Bekanntheit hoch · Negativnachweis Weg c
+
+Faktencheck: **korrigiert** – Bis 1960 war der Carlsbau ein Sanatorium für wohlhabende Kurgäste, erst danach Kurklinik der Landesversicherungsanstalt; ohne Zeitbezug war Option 2 nicht sicher falsch.
 
 ### Karte 2 · Klassiker · Familie C    [ ] streichen
 
@@ -579,18 +653,22 @@
 
 57 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 3 · Geschichte · Familie B    [ ] streichen
 
 > Glottertal
 > Rund 3.200 Einwohner, Tal im Schwarzwald, 10 km Luftlinie von Freiburg.
 > Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 > 1. Die älteste Mühle im Landkreis entstand hier 1621.
-> 2. Der höchste Weinberg liegt hier auf 720 Metern.
+> 2. Einst lag hier ein Weinberg auf 720 Metern.
 > 3. Das Tal kam im Jahr 1805 an Württemberg.
 
-> Du hattest [Option] getippt. Das Tal kam 1805 nicht an Württemberg, sondern an das Großherzogtum Baden; davor war es seit 1567 vorderösterreichisch. Die Verwechslung liegt nahe, weil das Bundesland heute beide Namen trägt. Wahr ist: Johann Hilzinger baute 1621 die Getreidemühle, und der Weinberg Wuspenhof gilt mit 720 Metern als deutschlandweit einmalig hoch. Die Lüge war 3.
+> Du hattest [Option] getippt. Das Tal kam 1805 nicht an Württemberg, sondern an Baden; davor war es seit 1567 vorderösterreichisch. Die Verwechslung liegt nahe, weil das Bundesland heute beide Namen trägt. Wahr ist: Johann Hilzinger baute 1621 die Getreidemühle, und der Weinberg am Wuspenhof galt mit 720 Metern als deutschlandweit einmalig hoch. Die Lüge war 3.
 
-57 Wörter · Bekanntheit niedrig · Negativnachweis Weg ab
+56 Wörter · Bekanntheit niedrig · Negativnachweis Weg ab
+
+Faktencheck: **korrigiert** – Den Weinberg auf 720 m gab es im 19. Jahrhundert, heute reichen die Lagen bis 500 m; 1805 war Baden noch Kurfürstentum. Die 720 m stehen nur in Wikipedia.
 
 ### Karte 4 · Klassiker · Familie A    [ ] streichen
 
@@ -606,6 +684,8 @@
 
 54 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 5 · Geschichte · Familie A    [ ] streichen
 
 > Glottertal
@@ -619,6 +699,8 @@
 > Du hattest [Option] getippt. Der Wein heißt nach dem Dichter Viktor von Scheffel. Er war 1881 zur Kur in Bad Dürrheim, genoss beim Löwenwirt zu Rietheim einen Roten Bur aus dem Glottertal und schrieb darauf ein Gedicht. Das Maß liegt als Tipp nahe, weil der Scheffel ein altes Hohlmaß ist. Früher hieß der Wein alter Glottertäler. Richtig war 1.
 
 59 Wörter · Bekanntheit niedrig · Negativnachweis Weg c
+
+Faktencheck: **bestätigt**
 
 ### Karte 6 · Klassiker · Familie A    [ ] streichen
 
@@ -634,6 +716,8 @@
 
 55 Wörter · Bekanntheit mittel · Negativnachweis Weg ab
 
+Faktencheck: **bestätigt**
+
 ### Karte 7 · Geschichte · Familie A    [ ] streichen
 
 > Glottertal
@@ -647,6 +731,8 @@
 > Du hattest [Option] getippt. Wohlhabend machte das Tal der Bergbau: Im Mittelalter wurden hier Blei-Silbererze und Eisenerze abgebaut, die Blütezeit lag in der zweiten Hälfte des 13. Jahrhunderts. Wein liegt als Tipp nahe, weil im Tal heute Reben wachsen; der älteste Nachweis des Weinbaus stammt aber erst von etwa 1580. Richtig war 3.
 
 53 Wörter · Bekanntheit niedrig · Negativnachweis Weg c
+
+Faktencheck: **bestätigt**
 
 **Orts-Anschluss** (an den Ort davor, passt hinter jede Karte):
 
@@ -677,6 +763,8 @@
 
 55 Wörter · Bekanntheit niedrig · Negativnachweis Weg c
 
+Faktencheck: **bestätigt**
+
 ### Karte 2 · Klassiker · Familie C-LEITER    [ ] streichen
 
 > Kirchzarten
@@ -691,6 +779,8 @@
 
 50 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 3 · Geschichte · Familie B    [ ] streichen
 
 > Kirchzarten
@@ -700,9 +790,11 @@
 > 2. 2014 gewann ein Trompeter aus Kirchzarten einen Grammy.
 > 3. 1971 fuhr die Tour de France durch Kirchzarten.
 
-> Du hattest [Option] getippt. Grammy und Tour de France klingen für ein Dorf erfunden, stimmen aber: Trompeter Steffen Kühn gewann 2014 mit dem Pacific Mambo Orchestra, und 1971 führte die Etappe Basel–Freiburg durch den Ort. 1805 dagegen kam Kirchzarten nach dem Frieden von Pressburg an das Großherzogtum Baden, weil Österreich gegen Napoleon verloren hatte. Die Lüge war 1.
+> Du hattest [Option] getippt. Grammy und Tour de France klingen für ein Dorf erfunden, stimmen aber: Trompeter Steffen Kühn gewann 2014 mit dem Pacific Mambo Orchestra, und 1971 führte die Etappe Basel–Freiburg durch den Ort. 1805 dagegen kam Kirchzarten nach dem Frieden von Pressburg an Baden, weil Österreich gegen Napoleon verloren hatte. Die Lüge war 1.
 
-58 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
+56 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
+
+Faktencheck: **korrigiert** – 1805 war Baden Kurfürstentum, Großherzogtum erst 1806.
 
 ### Karte 4 · Klassiker · Familie A    [ ] streichen
 
@@ -718,6 +810,8 @@
 
 58 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 5 · Geschichte · Familie A    [ ] streichen
 
 > Kirchzarten
@@ -731,6 +825,8 @@
 > Du hattest [Option] getippt. Erholungsheim oder Gestüt liegen nahe, denn bei einem Hof im Schwarzwald denkt man an Feriengäste und Vieh. Der Markenhof aber war in den 1920er Jahren ein Lehrgut: Junge Menschen bereiteten sich hier auf die Einwanderung nach Palästina vor. Ein Lehrgut ist ein Hof, auf dem Landwirtschaft gelernt wird. Richtig war 4.
 
 55 Wörter · Bekanntheit niedrig · Negativnachweis Weg c
+
+Faktencheck: **bestätigt**
 
 ### Karte 6 · Klassiker · Familie A    [ ] streichen
 
@@ -746,11 +842,13 @@
 
 51 Wörter · Bekanntheit mittel · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 7 · Geschichte · Familie A    [ ] streichen
 
 > Kirchzarten
 > Gemeinde mit rund 10.400 Einwohnern im Südschwarzwald, 8 km Luftlinie von Freiburg.
-> 1995 fand hier die bislang einzige Mountainbike-WM auf deutschem Boden statt. Wie endete 2013 der Bürgerentscheid über ein Mountainbike-Trainingsgelände?
+> 1995 fanden hier die Mountainbike-Weltmeisterschaften statt. Wie endete 2013 der Bürgerentscheid über ein Mountainbike-Trainingsgelände?
 > 1. 58 Prozent stimmten für das Gelände.
 > 2. 58 Prozent stimmten gegen das Gelände.
 > 3. 71 Prozent stimmten für das Gelände.
@@ -759,6 +857,8 @@
 > Du hattest [Option] getippt. Wer die Weltmeisterschaft ausrichtete, baut auch ein Trainingsgelände, sollte man meinen. Die Kirchzartener sahen es anders: Am 3. März 2013 lehnten 58 Prozent das Trainings- und Wettkampfgelände ab. Der Entscheid war bindend, denn das Quorum, der nötige Mindestanteil, wurde mit 35 Prozent übertroffen; verlangt waren 25. Richtig war 2.
 
 53 Wörter · Bekanntheit mittel · Negativnachweis Weg a
+
+Faktencheck: **korrigiert** – Die Marathon-Weltmeisterschaft im Mountainbike fand 2010 in St. Wendel statt; „bislang einzige auf deutschem Boden“ stimmt nicht.
 
 **Orts-Anschluss** (an den Ort davor, passt hinter jede Karte):
 
@@ -777,13 +877,15 @@
 > Rund 2.200 Einwohner, südlichster Stadtteil von Freiburg im Breisgau, im Bohrer-Tal gelegen.
 > Die Endhaltestelle Dorfstraße war bis Ende 2014 Deutschlands südlichste Straßenbahnhaltestelle. Warum verlor sie den Titel?
 > 1 Die Haltestelle wurde stillgelegt und durch Busse ersetzt.
-> 2 Eine deutsche Stadt weiter südlich baute eine Straßenbahn.
+> 2 Konstanz eröffnete eine eigene Straßenbahn.
 > 3 Eine ausländische Straßenbahnlinie wurde über die Grenze verlängert.
 > 4 Eine Neuvermessung ergab eine südlichere Haltestelle anderswo.
 
-> Du hattest [Option] getippt. Nahe liegt, dass irgendwo im Süden ein neues deutsches Netz entstand, denn Titel verliert man meist an Neubauten. Tatsächlich wurde im Dezember 2014 die Basler Linie 8 über die Grenze nach Weil am Rhein verlängert. Seit 2015 ist die Dorfstraße nur noch südlichste Haltestelle eines deutschen Verkehrsunternehmens. Richtig war 3.
+> Du hattest [Option] getippt. Nahe liegt Konstanz, das südlicher liegt als Freiburg; eine Straßenbahn hat es aber nicht. Tatsächlich wurde im Dezember 2014 die Basler Linie 8 über die Grenze nach Weil am Rhein verlängert. Seither ist die Dorfstraße nur noch südlichste Haltestelle eines deutschen Verkehrsunternehmens. Richtig war 3.
 
-54 Wörter · Bekanntheit niedrig · Negativnachweis Weg ac
+49 Wörter · Bekanntheit niedrig · Negativnachweis Weg ac
+
+Faktencheck: **korrigiert** – Option 2 war nicht sicher falsch: Weil am Rhein ist eine deutsche Stadt weiter südlich und ließ den deutschen Abschnitt der Linie 8 bauen. Ersetzt durch Konstanz, das keine Straßenbahn hat.
 
 ### Karte 2 · Klassiker · Familie C    [ ] streichen
 
@@ -799,6 +901,8 @@
 
 49 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 3 · Geschichte · Familie B    [ ] streichen
 
 > Günterstal
@@ -808,9 +912,11 @@
 > 2 1806 ließ Napoleon das Kloster zur Residenz ausbauen.
 > 3 1923 wohnte der Schriftsteller Maxim Gorki monatelang hier.
 
-> Du hattest [Option] getippt. Napoleon als Bauherr klingt glaubhaft, weil er Süddeutschland neu ordnete. Für das Kloster der Zisterzienserinnen bedeutete sein Befehl 1806 aber das Ende: Es wurde aufgelöst, später diente der Bau als Fabrik. Das Gefecht der Badischen Revolution und Gorkis Aufenthalt von Juni bis November 1923 stimmen. Die Lüge war 2.
+> Du hattest [Option] getippt. Napoleon als Bauherr klingt glaubhaft, weil er Süddeutschland neu ordnete. Für das Kloster der Zisterzienserinnen bedeutete die Neuordnung 1806 aber das Ende: Baden löste es auf, später diente der Bau als Fabrik. Das Gefecht der Badischen Revolution und Gorkis Aufenthalt von Juni bis November 1923 stimmen. Die Lüge war 2.
 
-53 Wörter · Bekanntheit mittel · Negativnachweis Weg a
+54 Wörter · Bekanntheit mittel · Negativnachweis Weg a
+
+Faktencheck: **korrigiert** – Ein Befehl Napoleons ist nicht belegt; laut Landesarchiv hob Baden das Kloster 1806 auf.
 
 ### Karte 4 · Klassiker · Familie A    [ ] streichen
 
@@ -826,6 +932,8 @@
 
 52 Wörter · Bekanntheit mittel · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 5 · Geschichte · Familie A    [ ] streichen
 
 > Günterstal
@@ -839,6 +947,8 @@
 > Du hattest [Option] getippt. Nahe liegt, dass der Ort selbst besonders hoch liegt, denn „höchstgelegen“ klingt nach Häusern auf der Höhe. Es zählt aber der Schauinsland: Der Schwarzwaldberg ist 1284 Meter hoch und liegt auf Günterstäler Gemarkung, also auf Freiburger Stadtgebiet. Deshalb kann sich Freiburg so nennen. Richtig war 3.
 
 50 Wörter · Bekanntheit mittel · Negativnachweis Weg ac
+
+Faktencheck: **bestätigt**
 
 ### Karte 6 · Klassiker · Familie A    [ ] streichen
 
@@ -854,6 +964,8 @@
 
 51 Wörter · Bekanntheit niedrig · Negativnachweis Weg ab
 
+Faktencheck: **bestätigt**
+
 ### Karte 7 · Geschichte · Familie A    [ ] streichen
 
 > Günterstal
@@ -864,9 +976,11 @@
 > 3 Sie ist eine Fichte.
 > 4 Sie ist ein Mammutbaum.
 
-> Du hattest [Option] getippt. Die Weißtanne liegt nahe, sie gilt als der große Baum des Schwarzwalds. Waldtraut vom Mühlwald ist aber eine Douglasie. Im August 2008 verwies sie mit etwa 65 Metern die Eberbacher Douglasie auf Platz zwei; im November 2019 maß sie 67,18 Meter. Der Mühlwald gehört zum Arboretum Freiburg-Günterstal, einer Baumsammlung. Richtig war 1.
+> Du hattest [Option] getippt. Die Weißtanne liegt nahe, sie gilt als der große Baum des Schwarzwalds. Waldtraut vom Mühlwald ist aber eine Douglasie. Im August 2008 verwies sie die Eberbacher Douglasie auf Platz zwei; im November 2019 maß sie 67,18 Meter. Sie steht im Stadtwald bei Günterstal. Richtig war 1.
 
-56 Wörter · Bekanntheit hoch · Negativnachweis Weg a
+50 Wörter · Bekanntheit hoch · Negativnachweis Weg a
+
+Faktencheck: **korrigiert** – Im August 2008 maß der Baum 63,33 m, nicht etwa 65; er steht südlich des Arboretums, nicht darin.
 
 **Orts-Anschluss** (an den Ort davor, passt hinter jede Karte):
 
@@ -879,7 +993,7 @@
 
 ## 09 · Horben · 7 Karten (4 Geschichten, 3 Klassiker)
 
-### Karte 1 · Geschichte · Familie A    [ ] streichen
+### Karte 1 · Geschichte · Familie A    **gesperrt nach Faktencheck**
 
 > Horben
 > Gemeinde mit rund 1.200 Einwohnern im Landkreis Breisgau-Hochschwarzwald, direkter Nachbar der Stadt Freiburg.
@@ -892,6 +1006,8 @@
 > Du hattest [Option] getippt. Bauland zu vermuten liegt nahe, denn wachsende Städte greifen gern nach ihren Nachbarn. Hier ging es aber um die Schauinslandbahn: Sie wurde 1930 gebaut, und ihre Talstation liegt im Weiler Bohrer auf Horbener Gemarkung. Das führte zu einem Eingemeindungsversuch der Stadt Freiburg, der vergeblich blieb. Horben blieb eigenständig. Richtig war 2.
 
 55 Wörter · Bekanntheit mittel · Negativnachweis Weg c
+
+Faktencheck: **gesperrt** – Es gab mehrere Eingemeindungsversuche; für den Antrag von 1935 ist eine Begründung belegt, die Option 3 (Bauland) nahekommt, und um den Wald (Option 4) stritten Stadt und Dorf lange. Der Satz zur Talstation steht nur in Wikipedia.
 
 ### Karte 2 · Klassiker · Familie C    [ ] streichen
 
@@ -907,6 +1023,8 @@
 
 48 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 3 · Geschichte · Familie B    [ ] streichen
 
 > Horben
@@ -916,9 +1034,11 @@
 > 2 1772 mussten sich Wirtshausgäste ein Bett teilen.
 > 3 Das Rathaus von 1912/13 war zuerst ein Bahnhof.
 
-> Du hattest [Option] getippt. Ein Portal, älter als seine Kirche, klingt nach Schwindel, stimmt aber: Es stammt von 1703, aus der Freiburger Heiliggeistspitalkirche, und kam 1805/06 nach Horben. Auch der Gasthof Zum Raben war 1772 so dürftig, dass sogar Brot fehlte. Das Rathaus dagegen wurde als Schulhaus gebaut, nicht als Bahnhof. Die Lüge war 3.
+> Du hattest [Option] getippt. Ein Portal, älter als seine Kirche, klingt nach Schwindel, stimmt aber: Es stammt von 1703, aus der Freiburger Heiliggeistspitalkirche, die 1805/06 aufgehoben wurde. Auch der Gasthof Zum Raben war 1772 so dürftig, dass sogar Brot fehlte. Das Rathaus dagegen wurde als Schulhaus gebaut, nicht als Bahnhof. Die Lüge war 3.
 
-55 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
+54 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
+
+Faktencheck: **korrigiert** – Fehler beim Extrahieren: 1805/06 wurde die Spitalkirche aufgehoben; wann das Portal nach Horben kam, ist nicht belegt.
 
 ### Karte 4 · Klassiker · Familie A    [ ] streichen
 
@@ -934,6 +1054,8 @@
 
 57 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 5 · Geschichte · Familie A    [ ] streichen
 
 > Horben
@@ -948,19 +1070,23 @@
 
 50 Wörter · Bekanntheit niedrig · Negativnachweis Weg c
 
+Faktencheck: **bestätigt**
+
 ### Karte 6 · Klassiker · Familie A    [ ] streichen
 
 > Horben
 > Rund 1.200 Einwohner, am Fuße des Schauinslands, 7 km Luftlinie von Freiburg.
-> Horben gehört zum Landkreis Breisgau-Hochschwarzwald, nicht zur Stadt Freiburg. Welches Kennzeichen tragen die Autos hier?
+> Horben gehört zum Landkreis Breisgau-Hochschwarzwald, nicht zur Stadt Freiburg. Welches Kennzeichen tragen die meisten Autos hier?
 > 1 LÖ
 > 2 OG
 > 3 FR
 > 4 WT
 
-> Du hattest [Option] getippt. Ein eigener Landkreis, also ein eigenes Kürzel: Das liegt nahe, und die anderen drei Kennzeichen gibt es in der weiteren Umgebung wirklich. Horben gehört zum Landkreis Breisgau-Hochschwarzwald, nicht zur Stadt Freiburg, fährt aber dasselbe Kennzeichen wie die Großstadt, die nur 7 km Luftlinie entfernt liegt: FR. Richtig war 3.
+> Du hattest [Option] getippt. Ein eigener Landkreis, also ein eigenes Kürzel: Das liegt nahe, und seit 2023 sind tatsächlich auch MÜL und NEU wählbar. Horben gehört zum Landkreis Breisgau-Hochschwarzwald, nicht zur Stadt Freiburg, fährt aber meist dasselbe Kennzeichen wie die Großstadt, die nur 7 km Luftlinie entfernt liegt: FR. Richtig war 3.
 
-53 Wörter · Bekanntheit mittel · Negativnachweis Weg a
+52 Wörter · Bekanntheit mittel · Negativnachweis Weg a
+
+Faktencheck: **korrigiert** – Seit dem 2. Oktober 2023 gibt der Landkreis neben FR auch MÜL und NEU an alle Einwohner aus (Landratsamt); das Kennzeichen ist nicht mehr einwertig.
 
 ### Karte 7 · Geschichte · Familie A    [ ] streichen
 
@@ -975,6 +1101,8 @@
 > Du hattest [Option] getippt. Ein Prinz auf Truppensuche oder zur Kur im Schwarzwald, das klingt plausibel für einen Reiter mit Adjutanten. Kaiser der Franzosen wurde Napoleon III. erst später; 1838 war er vermutlich auf der Flucht nach London, weil Frankreich seine Auslieferung betrieb. Sein Weg führte ihn mit zwei Adjutanten durch Horben. Richtig war 4.
 
 55 Wörter · Bekanntheit mittel · Negativnachweis Weg c
+
+Faktencheck: **unsicher** – Der Ritt Napoleons III. durch Horben steht nur in Wikipedia; ob Frankreich Auslieferung oder Ausweisung aus der Schweiz verlangte, sagen die Quellen nicht einheitlich.
 
 **Orts-Anschluss** (an den Ort davor, passt hinter jede Karte):
 
@@ -995,15 +1123,17 @@
 
 > Staufen
 > Stadt mit rund 8.400 Einwohnern im Landkreis Breisgau-Hochschwarzwald, 16 km Luftlinie von Freiburg.
-> Johann Georg Faust, Vorbild für Goethes Faust, soll in Staufen gestorben sein. Was führte ihn in die Stadt?
+> Johann Georg Faust, Vorbild für Goethes Faust, soll in Staufen gestorben sein. Was soll ihn in die Stadt geführt haben?
 > 1. Der verschuldete Burgherr stellte ihn als Goldmacher an.
 > 2. Die Stadt rief ihn als Wunderheiler zu Kranken.
 > 3. Er versteckte sich hier vor seinen Gläubigern.
 > 4. Er reiste als Wahrsager zum Jahrmarkt an.
 
-> Du hattest [Option] getippt. Faust war Wunderheiler, Alchemist und Wahrsager, da liegt ein Auftritt als Heiler oder auf dem Markt nahe. Doch Anton von Staufen, der verschuldete Burgherr, stellte ihn als Goldmacher an. Der Legende nach starb Faust 1539 in Zimmer 5 des Gasthauses zum Löwen bei einer Explosion, vermutlich einem alchemistischen Experiment. Richtig war 1.
+> Du hattest [Option] getippt. Faust war Wunderheiler, Alchemist und Wahrsager, da liegt ein Auftritt als Heiler oder auf dem Markt nahe. Doch der Überlieferung nach stellte ihn Anton von Staufen, der verschuldete Burgherr, als Goldmacher an. Der Legende nach starb Faust 1539 in Zimmer 5 des Gasthauses zum Löwen bei einer Explosion, vermutlich einem alchemistischen Experiment. Richtig war 1.
 
-56 Wörter · Bekanntheit hoch · Negativnachweis Weg c
+59 Wörter · Bekanntheit hoch · Negativnachweis Weg c
+
+Faktencheck: **korrigiert** – Die Anstellung als Goldmacher ist Überlieferung („soll“), keine gesicherte Tatsache.
 
 ### Karte 2 · Klassiker · Familie C    [ ] streichen
 
@@ -1019,6 +1149,8 @@
 
 41 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 3 · Geschichte · Familie B    [ ] streichen
 
 > Staufen
@@ -1026,11 +1158,13 @@
 > Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 > 1. Der Schlossberg am Talausgang ist ein Vulkankegel.
 > 2. Ein Theater spielt in einem früheren Schnapslager.
-> 3. Hier steht Deutschlands letzte erhaltene gusseiserne Straßenbrücke.
+> 3. Eine gusseiserne Brücke diente zuerst der Eisenbahn.
 
-> Du hattest [Option] getippt. Der Schlossberg erhebt sich steil nördlich des Talausgangs und wird manchmal fälschlich Vulkankegel genannt; ein steiler Berg wirkt schnell vulkanisch. Tatsächlich besteht er hauptsächlich aus Braunjuraschollen und tertiärem Konglomerat, also aus Ablagerungsgestein. Auerbachs Kellertheater spielt im einstigen Schladerer-Schnapslager, und die Brücke über den Neumagen ist Deutschlands letzte erhaltene gusseiserne Straßenbrücke. Die Lüge war 1.
+> Du hattest [Option] getippt. Der Schlossberg erhebt sich steil nördlich des Talausgangs und wird manchmal fälschlich Vulkankegel genannt; ein steiler Berg wirkt schnell vulkanisch. Tatsächlich besteht er hauptsächlich aus Braunjuraschollen und tertiärem Konglomerat, also aus Ablagerungsgestein. Auerbachs Kellertheater spielt im einstigen Schladerer-Schnapslager, und die gusseiserne Brücke über den Neumagen wurde 1845 für die Eisenbahn gebaut. Die Lüge war 1.
 
-58 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
+59 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
+
+Faktencheck: **korrigiert** – „Deutschlands letzte erhaltene gusseiserne Straßenbrücke“ steht nur in Wikipedia; die Stadt sagt „eine der wenigen“. Gesichert: 1845 für die Badische Hauptbahn gefertigt, 1871 nach Staufen versetzt.
 
 ### Karte 4 · Klassiker · Familie A    [ ] streichen
 
@@ -1046,6 +1180,8 @@
 
 52 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 5 · Geschichte · Familie A    [ ] streichen
 
 > Staufen
@@ -1060,10 +1196,12 @@
 
 51 Wörter · Bekanntheit hoch · Negativnachweis Weg a
 
+Faktencheck: **bestätigt**
+
 ### Karte 6 · Klassiker · Familie A    [ ] streichen
 
 > Staufen
-> Stadt mit rund 8.400 Einwohnern, 16 km Luftlinie von Freiburg; im August wird hier die Markgräfler Weinprinzessin gekürt.
+> Stadt mit rund 8.400 Einwohnern, 16 km Luftlinie von Freiburg; zum Markgräfler Weinfest wird hier die Weinprinzessin gekürt.
 > Zu welchem Landkreis gehört Staufen?
 > 1. Lörrach
 > 2. Breisgau-Hochschwarzwald
@@ -1073,6 +1211,8 @@
 > Du hattest [Option] getippt. Wer beim Markgräfler Weinfest an das Markgräflerland denkt, landet schnell bei Lörrach. Staufen gehört aber zum Landkreis Breisgau-Hochschwarzwald; Freiburg liegt nur 16 km Luftlinie entfernt. Das Kennzeichen ist FR. Richtig war 2.
 
 36 Wörter · Bekanntheit mittel · Negativnachweis Weg a
+
+Faktencheck: **korrigiert** – Die Krönung fällt auf den Beginn des Weinfests, 2026 auf Ende Juli.
 
 ### Karte 7 · Geschichte · Familie A    [ ] streichen
 
@@ -1087,6 +1227,8 @@
 > Du hattest [Option] getippt. Der Name lässt an die Kaiser aus dem Haus Hohenstaufen denken, doch mit ihnen waren die Herren von Staufen nicht verwandt. Sie waren eine Nebenlinie derer von Blankenberg, erstmals erwähnt 1111. Fast 500 Jahre herrschten sie ununterbrochen, bis das Geschlecht 1602 erlosch. Zwei von ihnen fielen 1386 in der Schlacht bei Sempach. Richtig war 3.
 
 59 Wörter · Bekanntheit niedrig · Negativnachweis Weg ac
+
+Faktencheck: **bestätigt**
 
 **Orts-Anschluss** (an den Ort davor, passt hinter jede Karte):
 

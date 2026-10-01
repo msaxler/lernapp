@@ -16,8 +16,9 @@ import sys
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1')
-KARTEN = os.path.join(ITER, 'karten-v0.5')
-FELDER = 'SORTE|FAMILIE|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|NEGATIVNACHWEISE|## '
+GEPRUEFT = '--geprueft' in sys.argv  # Fassung nach dem Faktencheck (karten-geprueft/v0.5)
+KARTEN = os.path.join(ITER, 'karten-geprueft', 'v0.5') if GEPRUEFT else os.path.join(ITER, 'karten-v0.5')
+FELDER = 'FAKTENCHECK|SORTE|FAMILIE|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|NEGATIVNACHWEISE|## '
 
 
 def feld(text, name):
@@ -57,6 +58,8 @@ def pruefe(karte, nr, plan):
     soll_optionen = {'A': 4, 'C': 4, 'B': 3}.get(fam)
     p = {
         'karte': nr,
+        'faktencheck': (feld(karte, 'FAKTENCHECK').split() or ['ungeprüft'])[0],
+        'faktencheck_grund': feld(karte, 'FAKTENCHECK').partition(' – ')[2],
         'sorte': (feld(karte, 'SORTE').split() or ['?'])[0],
         'sorte_plan': plan.get(nr, ('?', []))[0],
         'familie': fam,
@@ -120,7 +123,7 @@ def main():
                      'anschluesse': anschluesse, 'anschluss_woerter': [len(a.split()) for a in anschluesse],
                      'anschluss_kandidaten': kandidaten, 'keine_karte': text.count('KEINE KARTE')})
         alle += karten
-    with io.open(os.path.join(ITER, 'karten-v0.5-pruefung.json'), 'w', encoding='utf-8', newline='\n') as f:
+    with io.open(os.path.join(ITER, 'karten-v0.5-geprueft-pruefung.json' if GEPRUEFT else 'karten-v0.5-pruefung.json'), 'w', encoding='utf-8', newline='\n') as f:
         json.dump({'karten': alle, 'orte': orte}, f, ensure_ascii=False, indent=1)
     print()
     for o in orte:
