@@ -8,9 +8,9 @@ Die Karten sind von Hand geschrieben, im Format der Kartenläufe (Vorderseite h�
 
 **Fragen an Mike** (Kreuz setzen):
 
-- [ ] Machen diese Karten Spielfreude? (Wenn nein, fliegt die Familie wie die Wappen.)
-- [ ] Welche Form gefällt am besten? Karte Nr. ___
-- [ ] Soll ein Ort mit Ausreißer die Karte immer im Vorrat haben (als einer der Politik-Klassiker), oder nur als Zusatzkarte?
+- [x] Machen diese Karten Spielfreude? (Wenn nein, fliegt die Familie wie die Wappen.) – **Mike, 2026-10-03:** „machen mittelmäßig Freude und sollen wegen ihrer Relevanz dennoch drin bleiben“
+- [x] Welche Form gefällt am besten? – **Mike:** „Karte 1, Karte 3, dann die anderen“ (A vor B vor C und Leiter)
+- [x] Soll ein Ort mit Ausreißer die Karte immer im Vorrat haben (als einer der Politik-Klassiker), oder nur als Zusatzkarte? – **Mike:** „Wenn es den Ausreißer gibt, dann im Vorrat“
 
 ---
 
