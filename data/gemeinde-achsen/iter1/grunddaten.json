@@ -1,5 +1,5 @@
 {
- "erzeugt": "2026-10-01",
+ "erzeugt": "2026-10-02",
  "katalog": [
   {
    "schluessel": "bundesland",
@@ -47,8 +47,7 @@
    "herkunft": "kfz",
    "einwertig": false,
    "quelle_vollstaendig": false,
-   "zeitabhaengig": false,
-   "hinweis": "Kreise geben Altkennzeichen aus (Breisgau-Hochschwarzwald seit 2023 auch MÜL und NEU); Wikidata P395 nennt nur das Hauptkennzeichen."
+   "zeitabhaengig": false
   },
   {
    "schluessel": "hoehe_m",
@@ -69,6 +68,14 @@
   {
    "schluessel": "km_landeshauptstadt",
    "bezeichnung": "Luftlinie zur Landeshauptstadt in km",
+   "herkunft": "dist",
+   "einwertig": true,
+   "quelle_vollstaendig": true,
+   "zeitabhaengig": false
+  },
+  {
+   "schluessel": "lage",
+   "bezeichnung": "Lage zur nächsten Großstadt (für den Steckbrief)",
    "herkunft": "dist",
    "einwertig": true,
    "quelle_vollstaendig": true,
@@ -271,6 +278,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
      }
     ],
+    "lage": [
+     {
+      "wert": "8 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
     "km_landeshauptstadt": [
      {
       "wert": {
@@ -316,7 +329,9 @@
         "CDU": 27.5,
         "AfD": 21.2,
         "SPD": 15.5,
-        "GRÜNE": 15.1
+        "GRÜNE": 15.1,
+        "Die Linke": 7.1,
+        "FDP": 5.2
        },
        "wahlbeteiligung_prozent": 79.7,
        "gueltige_zweitstimmen": 3175
@@ -428,6 +443,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
      }
     ],
+    "lage": [
+     {
+      "wert": "5 km nördlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
     "km_landeshauptstadt": [
      {
       "wert": {
@@ -482,7 +503,8 @@
         "CDU": 26.3,
         "GRÜNE": 25.2,
         "SPD": 18.2,
-        "AfD": 10.1
+        "AfD": 10.1,
+        "Die Linke": 8.2
        },
        "wahlbeteiligung_prozent": 87.7,
        "gueltige_zweitstimmen": 7787
@@ -606,6 +628,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
      }
     ],
+    "lage": [
+     {
+      "wert": "8 km nördlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
     "km_landeshauptstadt": [
      {
       "wert": {
@@ -660,7 +688,8 @@
         "CDU": 27.4,
         "GRÜNE": 19.8,
         "SPD": 19.0,
-        "AfD": 13.5
+        "AfD": 13.5,
+        "Die Linke": 7.3
        },
        "wahlbeteiligung_prozent": 85.8,
        "gueltige_zweitstimmen": 8587
@@ -769,6 +798,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
      }
     ],
+    "lage": [
+     {
+      "wert": "3 km nördlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
     "km_landeshauptstadt": [
      {
       "wert": {
@@ -823,16 +858,17 @@
        "staerkste_partei": "GRÜNE",
        "anteile_prozent": {
         "GRÜNE": 30.2,
-        "CDU": 17.9,
-        "Die Linke": 16.9,
-        "SPD": 15.2
+        "CDU": 20.3,
+        "SPD": 15.1,
+        "Die Linke": 14.1,
+        "AfD": 8.7
        },
-       "wahlbeteiligung_prozent": 85.7,
-       "gueltige_zweitstimmen": 137574
+       "wahlbeteiligung_prozent": 87.0,
+       "gueltige_zweitstimmen": 5707
       },
-      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)",
       "stand": "2025-02-23",
-      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+      "hinweis": "Ergebnis des Stadtbezirks, Briefwahl eingerechnet"
      }
     ],
     "kueste": [
@@ -929,6 +965,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
      }
     ],
+    "lage": [
+     {
+      "wert": "14 km östlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
     "km_landeshauptstadt": [
      {
       "wert": {
@@ -968,7 +1010,9 @@
         "CDU": 34.3,
         "GRÜNE": 20.3,
         "SPD": 11.7,
-        "AfD": 11.4
+        "AfD": 11.4,
+        "Die Linke": 6.3,
+        "FREIE WÄHLER": 5.2
        },
        "wahlbeteiligung_prozent": 86.8,
        "gueltige_zweitstimmen": 1764
@@ -1072,6 +1116,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
      }
     ],
+    "lage": [
+     {
+      "wert": "10 km nordöstlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
     "km_landeshauptstadt": [
      {
       "wert": {
@@ -1117,7 +1167,8 @@
         "CDU": 40.9,
         "AfD": 15.6,
         "GRÜNE": 15.0,
-        "SPD": 10.7
+        "SPD": 10.7,
+        "Die Linke": 5.8
        },
        "wahlbeteiligung_prozent": 89.1,
        "gueltige_zweitstimmen": 2123
@@ -1224,6 +1275,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
      }
     ],
+    "lage": [
+     {
+      "wert": "8 km südöstlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
     "km_landeshauptstadt": [
      {
       "wert": {
@@ -1273,7 +1330,8 @@
         "CDU": 29.2,
         "GRÜNE": 25.7,
         "SPD": 17.0,
-        "AfD": 9.2
+        "AfD": 9.2,
+        "Die Linke": 7.6
        },
        "wahlbeteiligung_prozent": 89.9,
        "gueltige_zweitstimmen": 7187
@@ -1375,6 +1433,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
      }
     ],
+    "lage": [
+     {
+      "wert": "3 km südlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
     "km_landeshauptstadt": [
      {
       "wert": {
@@ -1411,17 +1475,19 @@
       "wert": {
        "staerkste_partei": "GRÜNE",
        "anteile_prozent": {
-        "GRÜNE": 30.2,
-        "CDU": 17.9,
-        "Die Linke": 16.9,
-        "SPD": 15.2
+        "GRÜNE": 30.4,
+        "CDU": 24.6,
+        "SPD": 16.4,
+        "Die Linke": 10.3,
+        "FDP": 6.8,
+        "AfD": 6.2
        },
-       "wahlbeteiligung_prozent": 85.7,
-       "gueltige_zweitstimmen": 137574
+       "wahlbeteiligung_prozent": 89.3,
+       "gueltige_zweitstimmen": 1306
       },
-      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "quelle": "Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)",
       "stand": "2025-02-23",
-      "hinweis": "gilt für die Gemeinde Freiburg im Breisgau, nicht für den Stadtteil allein"
+      "hinweis": "Ergebnis des Stadtbezirks, Briefwahl eingerechnet"
      }
     ],
     "kueste": [
@@ -1516,6 +1582,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
      }
     ],
+    "lage": [
+     {
+      "wert": "7 km südlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
     "km_landeshauptstadt": [
      {
       "wert": {
@@ -1555,7 +1627,8 @@
         "CDU": 34.3,
         "GRÜNE": 22.0,
         "SPD": 15.7,
-        "AfD": 8.6
+        "AfD": 8.6,
+        "Die Linke": 7.0
        },
        "wahlbeteiligung_prozent": 91.4,
        "gueltige_zweitstimmen": 805
@@ -1675,6 +1748,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
      }
     ],
+    "lage": [
+     {
+      "wert": "16 km südwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
     "km_landeshauptstadt": [
      {
       "wert": {
@@ -1725,7 +1804,8 @@
         "CDU": 29.2,
         "GRÜNE": 24.9,
         "SPD": 17.0,
-        "AfD": 10.8
+        "AfD": 10.8,
+        "Die Linke": 6.7
        },
        "wahlbeteiligung_prozent": 87.2,
        "gueltige_zweitstimmen": 5501
@@ -1858,6 +1938,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
      }
     ],
+    "lage": [
+     {
+      "wert": "58 km südwestlich von Karlsruhe (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
     "km_landeshauptstadt": [
      {
       "wert": {
@@ -1909,7 +1995,8 @@
         "CDU": 39.1,
         "AfD": 19.1,
         "SPD": 12.1,
-        "GRÜNE": 10.7
+        "GRÜNE": 10.7,
+        "FDP": 5.4
        },
        "wahlbeteiligung_prozent": 83.8,
        "gueltige_zweitstimmen": 12339
@@ -2033,6 +2120,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
      }
     ],
+    "lage": [
+     {
+      "wert": "55 km südwestlich von Karlsruhe (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
     "km_landeshauptstadt": [
      {
       "wert": {
@@ -2087,7 +2180,8 @@
         "CDU": 34.3,
         "AfD": 22.7,
         "SPD": 12.6,
-        "GRÜNE": 9.6
+        "GRÜNE": 9.6,
+        "FDP": 5.8
        },
        "wahlbeteiligung_prozent": 82.9,
        "gueltige_zweitstimmen": 4516
@@ -2211,6 +2305,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
      }
     ],
+    "lage": [
+     {
+      "wert": "51 km südwestlich von Karlsruhe (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
     "km_landeshauptstadt": [
      {
       "wert": {
@@ -2252,7 +2352,8 @@
         "CDU": 30.0,
         "AfD": 23.4,
         "SPD": 16.2,
-        "GRÜNE": 10.2
+        "GRÜNE": 10.2,
+        "FDP": 5.5
        },
        "wahlbeteiligung_prozent": 81.4,
        "gueltige_zweitstimmen": 6933
@@ -2378,6 +2479,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
      }
     ],
+    "lage": [
+     {
+      "wert": "48 km südlich von Pforzheim (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
     "km_landeshauptstadt": [
      {
       "wert": {
@@ -2433,7 +2540,8 @@
         "CDU": 30.9,
         "AfD": 28.5,
         "SPD": 11.9,
-        "GRÜNE": 9.1
+        "GRÜNE": 9.1,
+        "FDP": 5.9
        },
        "wahlbeteiligung_prozent": 81.0,
        "gueltige_zweitstimmen": 4785
@@ -2570,6 +2678,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
      }
     ],
+    "lage": [
+     {
+      "wert": "45 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
     "km_landeshauptstadt": [
      {
       "wert": {
@@ -2624,7 +2738,8 @@
         "CDU": 30.7,
         "AfD": 30.1,
         "SPD": 12.4,
-        "FDP": 6.6
+        "FDP": 6.6,
+        "GRÜNE": 6.4
        },
        "wahlbeteiligung_prozent": 81.7,
        "gueltige_zweitstimmen": 7197
@@ -2749,6 +2864,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
      }
     ],
+    "lage": [
+     {
+      "wert": "52 km südwestlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
     "km_landeshauptstadt": [
      {
       "wert": {
@@ -2797,7 +2918,9 @@
         "CDU": 31.5,
         "AfD": 28.5,
         "SPD": 11.8,
-        "FDP": 6.7
+        "FDP": 6.7,
+        "GRÜNE": 6.4,
+        "BSW": 5.1
        },
        "wahlbeteiligung_prozent": 79.2,
        "gueltige_zweitstimmen": 7661
@@ -2926,6 +3049,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
      }
     ],
+    "lage": [
+     {
+      "wert": "58 km südwestlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
     "km_landeshauptstadt": [
      {
       "wert": {
@@ -2974,7 +3103,9 @@
         "CDU": 35.2,
         "AfD": 27.3,
         "SPD": 9.5,
-        "GRÜNE": 7.8
+        "GRÜNE": 7.8,
+        "FDP": 6.1,
+        "Die Linke": 5.5
        },
        "wahlbeteiligung_prozent": 81.1,
        "gueltige_zweitstimmen": 7138
@@ -3112,6 +3243,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
      }
     ],
+    "lage": [
+     {
+      "wert": "56 km südwestlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
     "km_landeshauptstadt": [
      {
       "wert": {
@@ -3166,7 +3303,8 @@
         "CDU": 39.8,
         "AfD": 22.6,
         "SPD": 11.7,
-        "GRÜNE": 7.6
+        "GRÜNE": 7.6,
+        "FDP": 6.1
        },
        "wahlbeteiligung_prozent": 87.0,
        "gueltige_zweitstimmen": 2324
@@ -3290,6 +3428,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
      }
     ],
+    "lage": [
+     {
+      "wert": "70 km östlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
     "km_landeshauptstadt": [
      {
       "wert": {
@@ -3339,7 +3483,9 @@
         "CDU": 34.7,
         "AfD": 22.7,
         "SPD": 12.8,
-        "GRÜNE": 10.4
+        "GRÜNE": 10.4,
+        "FDP": 6.1,
+        "Die Linke": 5.2
        },
        "wahlbeteiligung_prozent": 82.2,
        "gueltige_zweitstimmen": 6580
@@ -3471,6 +3617,12 @@
        "km": 63
       },
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "63 km östlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
      }
     ],
     "km_landeshauptstadt": [

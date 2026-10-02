@@ -1,0 +1,165 @@
+ENTITÄT: burg
+BEZEICHNUNG: Burg Zähringen (Gundelfingen)
+EIGENSCHAFTEN:
+  typ: Höhenburg
+  höhe: 478.3 m ü. NN
+  lage_bergname: Roßkopf
+  lage_gemarkung: Gundelfingen, Ortsteil Wildtal
+  lage_unterhalb_von: Freiburg-Zähringen
+  namensgeberin: Adelsgeschlecht der Zähringer
+  bauherr: Graf Berthold II.
+  bauzeit: vor 1100
+  erste_urkundliche_erwaehnung: 1128
+  erste_urkundliche_erwaehnung_dokument: Rotulus Sanpetrinus apud castrum Zaringen
+  heute_zustand: Ruine
+  heute_besitzer: Stadt Freiburg
+  erhaltenes_bauwerk: 18 Meter hoher zinnengekrönter Rundturm (13. Jahrhundert) mit Aussichtsplattform
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: herrschergeschlecht
+BEZEICHNUNG: Zähringer
+EIGENSCHAFTEN:
+  begründer_burg: Berthold II.
+  namensherkunft: benannt nach Burg Zähringen
+  grund_namensgebung: Berthold II. nannte sich nach seiner neuen Burg nunmehr Graf und später Herzog von Zähringen
+  aussterben_datum: 1218
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1218
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Freiburg (Schlossberg)
+EIGENSCHAFTEN:
+  bauherr: Berthold II.
+  bauzeit: ab 1091
+  grund_errichtung: Lage aus militärischer und handelsstrategischer Sicht vorteilhafter als Burg Zähringen
+  wurde_hauptsitz: ja
+GUELTIG_AB: 1091
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: siedlung
+BEZEICHNUNG: Michelsberger Kultur (Burgberg Zähringen)
+EIGENSCHAFTEN:
+  kultur: Michelsberger Kultur
+  periode: neolithisch
+GUELTIG_AB: neolithisch
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: siedlung
+BEZEICHNUNG: Keltische Besiedlung Hallstattzeit (Burgberg Zähringen)
+EIGENSCHAFTEN:
+  kultur: Kelten
+  periode: Hallstattzeit
+  befestigung: Holz-Erde-Konstruktion durch Kelten auf Gipfel
+GUELTIG_AB: Hallstattzeit
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: siedlung
+BEZEICHNUNG: Keltische Besiedlung Latènezeit (Burgberg Zähringen)
+EIGENSCHAFTEN:
+  kultur: Kelten
+  periode: Latènezeit
+  zeitraum_ab: ab 7. Jahrhundert v. Chr.
+GUELTIG_AB: Latènezeit
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: siedlung
+BEZEICHNUNG: Alamannische Höhensiedlung (Burgberg Zähringen)
+EIGENSCHAFTEN:
+  kultur: Alamannen
+  zeitraum: 4./5. Jahrhundert n. Chr.
+  besonderheit: Burgberg großflächig planiert
+  moeglicher_zusammenhang: möglicherweise verbunden mit alamannischem Kleinkönig
+  genauigkeit: vermutlich
+GUELTIG_AB: 400
+GUELTIG_BIS: 500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Berthold II.
+EIGENSCHAFTEN:
+  titel_vor_1100: Graf von Zähringen
+  titel_ab_1097: Herzog von Zähringen
+  grund_herzogstitel: Ersatz für bei Staufern verbleibenden schwäbischen Herzogstitel
+  tätigkeiten: erbaute Burg Zähringen (vor 1100), begann Burg Freiburg (1091)
+  vater: Berthold I. (mit dem Bart, Markgraf von Lintburg)
+GUELTIG_AB: 1050
+GUELTIG_BIS: 1111
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Kaiser Friedrich Barbarossa
+EIGENSCHAFTEN:
+  aktion_gegen_burg_zaehringen: Einnahme 1146
+GUELTIG_AB: 1146
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Kaiser Friedrich II.
+EIGENSCHAFTEN:
+  aktion_nach_aussterben_zaehringer: zog Zähringer Burg als Reichslehen ein
+  datum: nach 1218
+GUELTIG_AB: 1218
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Graf Konrad I. von Freiburg
+EIGENSCHAFTEN:
+  aktion: Einnahme und Zerstörung der Burg Zähringen
+  zeitraum: 1246-1250
+GUELTIG_AB: 1246
+GUELTIG_BIS: 1250
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Rudolf I. von Habsburg
+EIGENSCHAFTEN:
+  aktion: Wiederaufbau Burg Zähringen im Auftrag
+  zeitraum: nach 1281
+GUELTIG_AB: 1281
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Bernhard I. (Badischer Markgraf)
+EIGENSCHAFTEN:
+  aktion: Erwerb eines Viertels der Burg Zähringen
+  datum: 1422
+  preis: 303 Mark Silber
+GUELTIG_AB: 1422
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: burschenschaft
+BEZEICHNUNG: Teutonia (Freiburg)
+EIGENSCHAFTEN:
+  tradition: Stiftungsfest auf der Zähringer Burg
+  gueltig_ab_tradition: ab 1851
+GUELTIG_AB: 1851
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

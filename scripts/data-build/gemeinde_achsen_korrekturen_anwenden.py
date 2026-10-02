@@ -20,8 +20,8 @@ import sys
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1')
 BLATT_V1 = os.path.join(WURZEL, 'docs', 'konzepte', 'quizaway-stufe2-kuratierblatt-2026-10-01.md')
-LAEUFE = {'v0.5': ('karten-v0.5', 'Karte', 60), 'v0.4': ('karten', 'Vorschlag', 70)}
-FELDER = 'FAKTENCHECK|SORTE|FAMILIE|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|ANSCHLUSS|NEGATIVNACHWEISE|## '
+LAEUFE = {'v0.6': ('karten-v0.6', 'Karte', 60), 'v0.5': ('karten-v0.5', 'Karte', 60), 'v0.4': ('karten', 'Vorschlag', 70)}
+FELDER = 'FAKTENCHECK|SORTE|FAMILIE|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|ANSCHLUSS|NEGATIVNACHWEISE|PRÜFHINWEIS|## '
 
 
 def feld(text, name):
@@ -75,7 +75,7 @@ def main():
             fehler.append('Korrektur ohne Urteil: %s %s %d' % s)
 
     for lauf, (ordner, kopf, max_rueck) in LAEUFE.items():
-        for ort in sorted(set(u['ort'] for u in urteile)):
+        for ort in sorted(set(u['ort'] for u in urteile if u['lauf'] == lauf)):
             text = lies(os.path.join(ITER, ordner, ort + '.md'))
             teile = re.split(r'^(##\s*%s\s*\d\s*)$' % kopf, text, flags=re.M)
             aus = [teile[0]]

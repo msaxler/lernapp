@@ -25,11 +25,13 @@ def feld(text, name):
 
 def main():
     alle = []
-    for pfad in sorted(glob.glob(os.path.join(FC, '[0-9]*.md'))):
+    # faktencheck/ enthält die Läufe v0.4 und v0.5, faktencheck-v0.6/ den Lauf v0.6
+    pfade = sorted(glob.glob(os.path.join(FC, '[0-9]*.md'))) + sorted(glob.glob(os.path.join(FC + '-v0.6', '[0-9]*.md')))
+    for pfad in pfade:
         slug = os.path.splitext(os.path.basename(pfad))[0]
         with io.open(pfad, encoding='utf-8') as f:
             text = f.read()
-        teile = re.split(r'^##\s*(v0\.[45])\s+(Karte|Vorschlag)\s+(\d)\s*$', text, flags=re.M)
+        teile = re.split(r'^##\s*(v0\.\d)\s+(Karte|Vorschlag)\s+(\d)\s*$', text, flags=re.M)
         zahl = {'OK': 0, 'KORRIGIEREN': 0, 'UNSICHER': 0}
         for i in range(1, len(teile), 4):
             rest = re.split(r'^##\s*(?:ANSCHLÜSSE|ZUSAMMENFASSUNG)', teile[i + 3], flags=re.M)[0]
@@ -39,7 +41,7 @@ def main():
                          'kernaussage': feld(rest, 'KERNAUSSAGE'), 'artikel': feld(rest, 'ARTIKEL'),
                          'zweite_quelle': feld(rest, 'ZWEITE QUELLE'), 'falsche_optionen': feld(rest, 'FALSCHE OPTIONEN'),
                          'befund': feld(rest, 'BEFUND')})
-        print('%-16s %s' % (slug, ' · '.join('%s %d' % kv for kv in zahl.items())))
+        print('%-16s %-5s %s' % (slug, 'v0.6' if 'faktencheck-v0.6' in pfad else '', ' · '.join('%s %d' % kv for kv in zahl.items())))
     with io.open(os.path.join(FC, 'urteile.json'), 'w', encoding='utf-8', newline='\n') as f:
         json.dump(alle, f, ensure_ascii=False, indent=1)
     gesamt = {}
@@ -48,8 +50,9 @@ def main():
     print('gesamt: %d Karten · %s' % (len(alle), ' · '.join('%s %d' % kv for kv in sorted(gesamt.items()))))
     print('ohne zweite Quelle:', sum(1 for a in alle if a['zweite_quelle'].lower().startswith('keine')))
     if '--befunde' in sys.argv:
+        nur = sys.argv[sys.argv.index('--lauf') + 1] if '--lauf' in sys.argv else None
         for a in alle:
-            if a['urteil'] != 'OK':
+            if a['urteil'] != 'OK' and (not nur or a['lauf'] == nur):
                 print('\n%s %s %d [%s]\n  %s\n  Falsche Optionen: %s' % (a['ort'], a['lauf'], a['karte'], a['urteil'], a['befund'], a['falsche_optionen'][:300]))
 
 

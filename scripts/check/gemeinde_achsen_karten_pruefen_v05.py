@@ -16,9 +16,11 @@ import sys
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1')
-GEPRUEFT = '--geprueft' in sys.argv  # Fassung nach dem Faktencheck (karten-geprueft/v0.5)
-KARTEN = os.path.join(ITER, 'karten-geprueft', 'v0.5') if GEPRUEFT else os.path.join(ITER, 'karten-v0.5')
-FELDER = 'FAKTENCHECK|SORTE|FAMILIE|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|NEGATIVNACHWEISE|## '
+GEPRUEFT = '--geprueft' in sys.argv  # Fassung nach dem Faktencheck (karten-geprueft/<lauf>)
+# --lauf v0.6 prüft die Karten des Prompts v0.6 (gleiches Format, dazu das Feld PRÜFHINWEIS)
+LAUF = sys.argv[sys.argv.index('--lauf') + 1] if '--lauf' in sys.argv else 'v0.5'
+KARTEN = os.path.join(ITER, 'karten-geprueft', LAUF) if GEPRUEFT else os.path.join(ITER, 'karten-' + LAUF)
+FELDER = 'FAKTENCHECK|SORTE|FAMILIE|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|NEGATIVNACHWEISE|PRÜFHINWEIS|## '
 
 
 def feld(text, name):
@@ -28,7 +30,7 @@ def feld(text, name):
 
 def plan_lesen(slug):
     """Je Karte: (Sorte laut Plan, erlaubte Stellen)."""
-    with io.open(os.path.join(ITER, 'eingabe-v0.5', slug + '.txt'), encoding='utf-8') as f:
+    with io.open(os.path.join(ITER, 'eingabe-' + LAUF, slug + '.txt'), encoding='utf-8') as f:
         text = f.read()
     plan = {}
     for nr, rest in re.findall(r'^\s*Karte (\d): (.*)$', text, flags=re.M):
@@ -123,7 +125,7 @@ def main():
                      'anschluesse': anschluesse, 'anschluss_woerter': [len(a.split()) for a in anschluesse],
                      'anschluss_kandidaten': kandidaten, 'keine_karte': text.count('KEINE KARTE')})
         alle += karten
-    with io.open(os.path.join(ITER, 'karten-v0.5-geprueft-pruefung.json' if GEPRUEFT else 'karten-v0.5-pruefung.json'), 'w', encoding='utf-8', newline='\n') as f:
+    with io.open(os.path.join(ITER, 'karten-%s-%spruefung.json' % (LAUF, 'geprueft-' if GEPRUEFT else '')), 'w', encoding='utf-8', newline='\n') as f:
         json.dump({'karten': alle, 'orte': orte}, f, ensure_ascii=False, indent=1)
     print()
     for o in orte:

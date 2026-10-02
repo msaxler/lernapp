@@ -176,5 +176,42 @@
    ["und die Brücke über den Neumagen ist Deutschlands letzte erhaltene gusseiserne Straßenbrücke", "und die gusseiserne Brücke über den Neumagen wurde 1845 für die Eisenbahn gebaut"]]},
  {"ort": "10-staufen", "lauf": "v0.5", "karte": 6, "status": "korrigiert",
   "grund": "Die Krönung fällt auf den Beginn des Weinfests, 2026 auf Ende Juli.",
-  "ersetzungen": [["im August wird hier die Markgräfler Weinprinzessin gekürt", "zum Markgräfler Weinfest wird hier die Weinprinzessin gekürt"]]}
+  "ersetzungen": [["im August wird hier die Markgräfler Weinprinzessin gekürt", "zum Markgräfler Weinfest wird hier die Weinprinzessin gekürt"]]},
+
+ {"ort": "04-zaehringen", "lauf": "v0.6", "karte": 1, "status": "korrigiert",
+  "grund": "Das Jahr 1097 steht nur in Wikipedia; das Historische Lexikon der Schweiz datiert den Ausgleich mit den Staufern auf 1098. Jahr gestrichen. Steckbrief: ein Stadtteil liegt nicht nördlich von seiner Stadt.",
+  "ersetzungen": [
+   ["Wie kam Berthold II. 1097 zum Titel", "Wie kam Berthold II. zum Titel"],
+   ["3 km nördlich von Freiburg im Breisgau.", "im Norden von Freiburg im Breisgau."]]},
+ {"ort": "04-zaehringen", "lauf": "v0.6", "karte": 2, "status": "bestätigt", "grund": "Steckbrief berichtigt.",
+  "ersetzungen": [["3 km nördlich von Freiburg im Breisgau.", "im Norden von Freiburg im Breisgau."]]},
+ {"ort": "04-zaehringen", "lauf": "v0.6", "karte": 3, "status": "korrigiert",
+  "grund": "303 Mark Silber ist der Preis des Verkaufs von 1327, nicht des Viertelkaufs (Fehler der Extraktion); das Jahr des Viertelkaufs ist strittig (1420 oder 1422).",
+  "ersetzungen": [["Den Viertelanteil erwarb Markgraf Bernhard I. 1422 für 303 Mark Silber.", "Ein Viertel der Burg erwarb im 15. Jahrhundert Markgraf Bernhard I."]]},
+ {"ort": "04-zaehringen", "lauf": "v0.6", "karte": 4, "status": "bestätigt", "grund": "Steckbrief berichtigt.",
+  "ersetzungen": [["3 km nördlich von Freiburg im Breisgau.", "im Norden von Freiburg im Breisgau."]]},
+ {"ort": "04-zaehringen", "lauf": "v0.6", "karte": 5, "status": "bestätigt", "grund": "Steckbrief berichtigt.",
+  "ersetzungen": [["3 km nördlich von Freiburg im Breisgau.", "im Norden von Freiburg im Breisgau."]]},
+ {"ort": "04-zaehringen", "lauf": "v0.6", "karte": 6, "status": "bestätigt", "grund": "Steckbrief berichtigt.",
+  "ersetzungen": [["3 km nördlich von Freiburg im Breisgau.", "im Norden von Freiburg im Breisgau."]]},
+ {"ort": "05-st-peter", "lauf": "v0.6", "karte": 1, "status": "unsicher",
+  "grund": "Der Ginster-Handel mit den Basler Seidenfärbern steht nur in Wikipedia; keine zweite Quelle gefunden, kein Widerspruch.",
+  "ersetzungen": []},
+ {"ort": "05-st-peter", "lauf": "v0.6", "karte": 5, "status": "unsicher",
+  "grund": "Georg von Sachsen als Seminarist in St. Peter steht nur in Wikipedia; unabhängig belegt sind Studium in Freiburg und Weihe 1924.",
+  "ersetzungen": []},
+ {"ort": "09-horben", "lauf": "v0.6", "karte": 3, "status": "korrigiert",
+  "grund": "Das Hotel Luisenhöhe stand seit 2011 leer und wurde 2019 abgerissen, nicht 2011. Aussage 1 auf acht Wörter gekürzt.",
+  "ersetzungen": [
+   ["Das 2011 abgerissene Hotel Luisenhöhe trug", "Das alte Hotel Luisenhöhe trug"],
+   ["1. Die Eduardshöhe heißt nach Freiburgs früherem Bürgermeister Eduard Fauler.", "1. Die Eduardshöhe heißt nach Freiburgs Bürgermeister Eduard Fauler."]]},
+ {"ort": "09-horben", "lauf": "v0.6", "karte": 5, "status": "korrigiert",
+  "grund": "Fehler der Extraktion: 1805/06 wurde die Spitalkirche aufgehoben, das Portal kam nicht belegt in diesem Jahr. Glocke laut Erzbistum von 1731, nicht 1751. Baujahr der Kirche strittig (1791, 1792, um 1800). Option 1 lag wegen „aufgehoben“ zu nah an der Wahrheit.",
+  "ersetzungen": [
+   ["wurde 1792 gebaut,", "wurde Ende des 18. Jahrhunderts gebaut,"],
+   ["1. Es stammt aus einer aufgehobenen Klosterkirche.", "1. Es stammt aus einem Kloster im Schwarzwald."],
+   ["es stammt aus der Freiburger Heiliggeistspitalkirche und kam 1805/06 nach Horben. Auch eine Glocke von 1751 und", "es stammt aus der Freiburger Heiliggeistspitalkirche, die 1805/06 aufgehoben wurde. Auch eine Glocke und"]]},
+ {"ort": "09-horben", "lauf": "v0.6", "karte": 7, "status": "unsicher",
+  "grund": "Der vergebliche Eingemeindungsversuch nach dem Bau der Talstation steht nur in Wikipedia; die Karte sagt selbst „nennt die Ortsgeschichte“.",
+  "ersetzungen": []}
 ]

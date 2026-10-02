@@ -1,0 +1,396 @@
+ENTITÄT: herrschergeschlecht
+BEZEICHNUNG: Zähringer
+EIGENSCHAFTEN:
+  charakterisierung: mit Staufern verwandtes schwäbisches Fürstengeschlecht
+  namensherkunft: benannt nach ihrer Burg Zähringen bei Freiburg
+  namensgebung_grund: Berthold II. nannte sich nach seiner neuen Burg
+  zeitraum: ab Ende 11. Jahrhundert bis 1218
+  stammverwandtschaft: Haus Baden stammverwandt
+  wappentier_zugeordnet: roter Adler
+  wappentier_zeitgenoessische_siegel: Löwe
+  aufstieg: Aufstieg in Kreis mächtigsten Fürsten während Investiturstreits
+  parteistellung_investiturstreit: meiste Zeit auf Seiten der päpstlichen Partei
+  machtgrundlagen: Silberbergbau Schwarzwald, Eigengüter und Reichslehen
+  territorial_herzogtum: neues Territorialherzogtum, von Zeitgenossen nicht als gleichwertig mit althergebrachten Stammesherzogtümern betrachtet
+  expansion_grenze: Machtkämpfe Staufer-Welfen setzten Expansion Grenze
+  rektorat: 1127 erhalten das Rektorat über Burgund
+GUELTIG_AB: 1050
+GUELTIG_BIS: 1218
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Berthold I. (Zähringer)
+EIGENSCHAFTEN:
+  lebensdaten: um 1000 bis 1078
+  titel_herzogal: Herzog von Kärnten, Markgraf von Verona
+  herkunft_vermutung: möglicherweise aus Alaholfingern hervorgegangen
+  herkunft_grund_vermutung: gestützt auf Namenshäufungen
+  genauigkeit: vermutlich
+  macht_grundlage: Geblütsrecht stützten wahrscheinlich die Macht
+  herrschaften: verschiedene Herrschaften im Breisgau, Thurgau, Ortenau, Baar
+  schenkung_kaiser: 1057 von Kaiser Heinrich III. Herzogtum Kärnten und Markgrafschaft Verona
+  schenkung_grund: als Ersatz für versprochenes Herzogtum Schwaben
+  schenkung_problem: konnte Rechte nicht tatsächlich ausüben
+  stammburg_erbauung: um 1050
+  stammburg: Burg Limburg
+  stammburg_lage: Vorland der Schwäbischen Alb, bei Weilheim Teck
+  titel_stammburg: Markgraf von Lintburg
+  grablege: Weilheim an der Teck (bis 1093)
+  sohn: Berthold II.
+GUELTIG_AB: 1050
+GUELTIG_BIS: 1078
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Berthold II. (Zähringer)
+EIGENSCHAFTEN:
+  lebensdaten: 1078-1111
+  titel_graf: Graf von Zähringen
+  titel_herzog_ab: ab 1097 Herzog von Zähringen
+  grund_herzogstitel: Ersatz für bei Staufern verbleibenden schwäbischen Herzogstitel zuerkannt
+  burg_zaehringen_erbauer: ja
+  burg_zaehringen_bauzeit: vor 1100
+  burg_freiburg_erbauer: ja
+  burg_freiburg_baujahr: ab 1091
+  grund_burg_freiburg: Lage aus militärer und handelsstrategischer Sicht vorteilhafter als Burg Zähringen
+  burg_freiburg_rolle: sollte Hauptsitz werden
+  burg_limburg_vater: Vater Berthold I. hatte Burg Limburg
+  burg_limburg_titel_vater: nannte sich Markgraf von Lintburg
+  vater: Berthold I.
+  sohn: Berthold III.
+GUELTIG_AB: 1078
+GUELTIG_BIS: 1111
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Berthold III. (Zähringer)
+EIGENSCHAFTEN:
+  lebensdaten: 1111-1122
+  titel: Herzog von Zähringen
+  stadt_gruendung_anspruch: soll 1120 Stadt Freiburg gegründet haben
+  stadt_freiburg_erwaehnung: soll 1120 durch Berthold III. gegründet worden sein
+  genauigkeit: soll
+GUELTIG_AB: 1111
+GUELTIG_BIS: 1122
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Konrad I. (Zähringer)
+EIGENSCHAFTEN:
+  lebensdaten: 1122-1152
+  titel: Herzog von Zähringen, Rektor von Burgund
+  rektorat: 1127 erhalten Zähringer das Rektorat über Burgund
+GUELTIG_AB: 1122
+GUELTIG_BIS: 1152
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Clementia von Zähringen
+EIGENSCHAFTEN:
+  lebensdaten: 1167
+  genealogie: Tochter Konrads I.
+  ehe: heiratete 1147 Heinrich den Löwen
+  ehemann: Heinrich der Löwe
+  eheschliessung: 1147
+GUELTIG_AB: 1147
+GUELTIG_BIS: 1167
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Rudolf von Zähringen
+EIGENSCHAFTEN:
+  lebensdaten: 1191
+  genealogie: Sohn Konrads I.
+  bruder: Berthold IV.
+  kandidatur: erwählter Erzbischof von Mainz (Kandidatur)
+  titel_erhalten: Bischof von Lüttich
+GUELTIG_AB: 1150
+GUELTIG_BIS: 1191
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Berthold IV. (Zähringer)
+EIGENSCHAFTEN:
+  lebensdaten: 1152-1186
+  titel: Herzog von Zähringen, Rektor von Burgund
+  rolle: gehörte zu wichtigsten Fürsten des Reiches unter Kaiser Friedrich Barbarossa
+  aktivitaeten: gründete zahlreiche Städte (u.a. Freiburg im Üechtland)
+  bruder: Rudolf von Zähringen
+  schwester: Clementia von Zähringen
+GUELTIG_AB: 1152
+GUELTIG_BIS: 1186
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Berthold V. (Zähringer)
+EIGENSCHAFTEN:
+  lebensdaten: 1186-1218
+  titel: Herzog von Zähringen, Rektor von Burgund
+  stadt_gruendung: 1191 gegründet Stadt Bern
+  stadt_bern_ausgestaltung: zum Mittelpunkt seiner Herrschaft ausgebaut
+  kandidatur_koenig: Nach Tod Kaiser Heinrichs VI. (1197) Thronkandidat ins Gespräch gebracht
+  kandidatur_versuch: Kandidatur nur kurze Zeit betrieben
+  kandidatur_bedeutung: Episode zeigt, dass Familie als wählbar für Amt römisch-deutschen König galt
+  muenster_freiburg_baubeginn: 1200
+  muenster_freiburg_grund: Erweiterungsbau mit Ziel neue repräsentative Grablege zu schaffen
+  muenster_freiburg_schicksal: Hauptlinie starb vor Fertigstellung der Kirche aus
+  grablege: St. Peter auf dem Schwarzwald (ab 1093 nach Limburg)
+  grablege_wechsel: von Limburg zu St. Peter, danach Versuch Münster Freiburg
+  aussterben: 1218 Hauptlinie der Zähringer starb aus mit Tod Bertholds V.
+  gesamtlebenswerk: König Rudolf I. von Habsburg vererbte die Schweizer Besitztümer, Reich zog Reichslehen ein
+GUELTIG_AB: 1186
+GUELTIG_BIS: 1218
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Hermann I. (Zähringer, Stammvater Baden)
+EIGENSCHAFTEN:
+  lebensdaten: 1074
+  titel: Markgraf von Verona und Graf im Breisgau
+  genealogie: ältester Sohn Bertholds I.
+  stammvatereigenschaft: Stammvater der Linie der Markgrafen von Baden
+GUELTIG_AB: 1050
+GUELTIG_BIS: 1074
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Hermann II. (Markgraf von Baden)
+EIGENSCHAFTEN:
+  lebensdaten: 1060-1130
+  titel_neuheit: erster Markgraf von Baden (1112 nannte sich erstmals so)
+  titel_wechsel: ab 1112 Markgraf von Baden
+  ansitz: Burg Hohenbaden
+  genealogie: Sohn Hermann I.
+GUELTIG_AB: 1112
+GUELTIG_BIS: 1130
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Gebhard III. (Bischof von Konstanz)
+EIGENSCHAFTEN:
+  lebensdaten: 1110
+  titel: Bischof von Konstanz
+  genealogie: jüngster Sohn Bertholds I.
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1110
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Adalbert (Herzog von Teck)
+EIGENSCHAFTEN:
+  genealogie: Bruder Bertholds IV.
+  erbe: Familienbesitzungen um Burg Teck
+  titel_ab: ab 1187 Herzog von Teck
+  gruendung_linie: Gründer der Nebenlinie Teck
+GUELTIG_AB: 1187
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Berthold von Teck
+EIGENSCHAFTEN:
+  titel_ab: ab 1223 Bischof von Straßburg
+  zugehoerigkeit: Herzöge von Teck (Nebenlinie)
+GUELTIG_AB: 1223
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Ludwig von Teck (Patriarch)
+EIGENSCHAFTEN:
+  titel: Patriarch von Aquileja
+  lebensdaten: 1439
+  ereignis: Herzöge von Teck starben mit seinem Tod aus
+  aussterben_linie: 1439
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1439
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: herrschergeschlecht
+BEZEICHNUNG: Markgrafen von Baden
+EIGENSCHAFTEN:
+  herkunft: Linie des ältesten Sohnes Bertholds I., Hermann I.
+  stammvater: Hermann I.
+  titel: Markgraf (ab 1112 erstmals Markgraf von Baden)
+  erbschaft: erbten Teile des Besitzes und Markgrafentitel in Totteilung
+  herrschaften_charakteristik: zeitweise in mehrfach geteilten Territorien
+  herrschaft_bis: bis Reichsdeputationshauptschluss 1803
+  aenderung_1803: Badisches Territorium stark vergrößert
+  erhebung_1806: Kurfürstentum Baden zum Großherzogtum erhoben
+  regenten_bis: Erben Karl Friedrichs bis Tode Ludwigs I. 1830
+  regenten_morganatische_linie: als morganatische Seitenlinie bis Abdankung Friedrichs II. 1918 (Novemberrevolution)
+  propagandistische_reklamation_ab_1805: bezeichneten sich als Herzöge von Zähringen
+  grund_reklamation: basierend auf genealogischen Studien Historikers Johann Daniel Schöpflin
+  verwendung_name: für Zähringer Löwenorden und noch im 20. Jahrhundert für Zähringer Stiftung
+GUELTIG_AB: 1112
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: herrschergeschlecht
+BEZEICHNUNG: Grafen von Freiburg (Uracher Linie)
+EIGENSCHAFTEN:
+  herkunft: Uracher Linie der Zähringer-Erben
+  lage: in und um Freiburg im Breisgau sowie im Schwarzwald
+  namensgebung: ab 1230 nannten sich Grafen von Freiburg
+  grund_namensgebung: Erbschaft von Agnes (Tochter Bertholds V.) nach Eheschließung mit Grafen von Urach
+  erbinnen: Agnes und Anna (Schwestern), Töchter Bertholds V.
+  nachfolger: von ihnen stammt wiederum das Haus Fürstenberg ab
+GUELTIG_AB: 1230
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: herrschergeschlecht
+BEZEICHNUNG: Kyburger
+EIGENSCHAFTEN:
+  erbschaft: erbten Schweizer Besitzungen der Zähringer
+  aussterben: 1263
+  nachfolger: nach Aussterben 1263 fielen Besitzungen an Habsburger Nebenlinie der Grafen von Neu-Kyburg
+GUELTIG_AB: 1218
+GUELTIG_BIS: 1263
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Limburg
+EIGENSCHAFTEN:
+  erbauer: Berthold I.
+  erbauungszeit: um 1050
+  lage: Vorland der Schwäbischen Alb, bei Weilheim Teck
+  rolle: Stammburg, Hauptsitz
+  titel_nach_burg: Markgraf von Lintburg
+  grablege: bis 1093 Grablege der Familie
+  grablege_neubestimmung: nach 1093 Verschiebung zu St. Peter auf dem Schwarzwald
+GUELTIG_AB: 1050
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Teck
+EIGENSCHAFTEN:
+  rolle: Sitz der Nebenlinie Teck
+  zugehoerigkeit: Adalbert (Bruder Bertholds IV.) erbte Familienbesitzungen um Burg Teck
+GUELTIG_AB: 1187
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Hohenbaden
+EIGENSCHAFTEN:
+  rolle: Ausgangspunkt der Markgrafen aus dem Haus Baden
+  ansitz: Hermann II.
+  bedeutung: erste Residenz der Baden-Linie
+GUELTIG_AB: 1112
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: kloster
+BEZEICHNUNG: St. Peter (Schwarzwald)
+EIGENSCHAFTEN:
+  begruender: Berthold II.
+  rollen: Hauskloster und Grablege
+  grablege_ab: ab 1093 letzte Ruhestätte der Zähringer nach Verschiebung des Zentrums nach Südwesten
+  vorherige_grablege: Weilheim an der Teck (bis 1093)
+GUELTIG_AB: 1093
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Freiburger Münster
+EIGENSCHAFTEN:
+  baubeginn: 1200
+  bauinitiator: Berthold V.
+  bauzweck: Erweiterungsbau mit dem Ziel eine neue repräsentative Grablege zu schaffen
+  monumente: enthält einige Monumente mit Idealabbildungen der Zähringer
+  grablege_schicksal: Hauptlinie der Zähringer starb vor Fertigstellung der Kirche aus
+  geplante_grablege: sollte neue Grablege werden
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: siedlung_gruendung
+BEZEICHNUNG: Zähringer Siedlungspolitik und Stadtgründungen
+EIGENSCHAFTEN:
+  aktivitaet: Zähringer betrieben aktive Siedlungspolitik und gründeten zahlreiche Städte, Dörfer und Klöster
+  auswahl_kriterium: Standorte wurden nach politischen und wirtschaftlichen Gesichtspunkten gewählt
+  charakteristika_herrschaftsbereich: Einheitliches Recht, zentrale Verwaltung, maximale Freiheit für Bürger
+  stadtgrundriss: typisch das Zähringer-Straßenkreuz
+  grund_schwarzwald_siedlung: Wegebau für Durchgänge nötig, ermöglichte Ministerialen im Schwarzwald zu leben
+  gesamtbeitraeg: haben Anteil an Besiedlung des Schwarzwalds
+  beispielstaedte: Bern, Burgdorf, Bräunlingen, Freiburg im Breisgau, Freiburg im Üechtland, Haslach im Kinzigtal, Murten, Neuenburg am Rhein, Offenburg, Rheinfelden (Schweiz), Thun, Villingen
+  charakteristik_stadtgrundriss: zwei Straßenzüge rechtwinklig kreuzend, teilen Stadtgebiet in vier Quartiere
+  charakteristik_kirche: Hauptkirche nicht zentral, sondern auf Platz in einem der Viertel
+GUELTIG_AB: 1050
+GUELTIG_BIS: 1218
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Kaiser Friedrich I. Barbarossa
+EIGENSCHAFTEN:
+  interaktion: nahm Burg Zähringen 1146 ein
+  perspektive: war Gegner und später Verbündeter der Zähringer
+  koexistenz_berthold_iv: Berthold IV. gehörte zu wichtigsten Fürsten unter Friedrich Barbarossa
+GUELTIG_AB: 1152
+GUELTIG_BIS: 1190
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Kaiser Friedrich II.
+EIGENSCHAFTEN:
+  aktion_gegen_zaehringer: zog nach Aussterben 1218 einige Reichslehen der Zähringer ein
+  aktion_gegen_erbe: Erbe des Allodialguts von Berthold V. traten seine Schwestern an
+GUELTIG_AB: 1218
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: wappen
+BEZEICHNUNG: Zähringer Adler
+EIGENSCHAFTEN:
+  wappentier_zugeordnet: roter Adler
+  interpretation: aufgrund roten Adlers aus Wappen späteren Freiburger Grafen wird dieser als ursprüngliches Wappen der Zähringer interpretiert
+  gegenargument: Löwensiegel Bertholds V. dem entgegensteht
+  zeitliches_problem: letzter Zähringer lebte zur Zeit der Entstehung der ersten Wappen
+  genauigkeit: Interpretation mit Unsicherheit
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75

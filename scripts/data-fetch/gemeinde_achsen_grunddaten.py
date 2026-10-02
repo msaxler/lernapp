@@ -55,6 +55,7 @@ KATALOG = [
     ('hoehe_m', 'Höhe in m', 'hoehe', True, False, False),
     ('naechste_grossstadt', 'Nächste Großstadt, Luftlinie', 'dist', True, True, False),
     ('km_landeshauptstadt', 'Luftlinie zur Landeshauptstadt in km', 'dist', True, True, False),
+    ('lage', 'Lage zur nächsten Großstadt (für den Steckbrief)', 'dist', True, True, False),
     ('ersterwaehnung', 'Jahr der ersten Erwähnung', 'gesch', True, False, False),
     ('eingemeindung', 'Eingemeindung (Stadtteile)', 'gesch', True, False, False),
     ('bahnhof', 'Bahnhöfe und Haltepunkte', 'bahn', False, False, False),
@@ -209,13 +210,56 @@ def wahl_laden():
     return summe
 
 
-def wahl_eintrag(s, bezug=None):
-    rang = sorted(s['p'].items(), key=lambda kv: -kv[1])[:4]
+# Stadtteil-Ergebnisse veröffentlichen die Städte selbst (Entscheid Mike 2026-10-02). Freiburg: Open Data des
+# Wahlportals (komm.ONE votemanager), Ebene Stadtbezirke, Briefwahl eingerechnet.
+STADTBEZIRKE = {'08311000': 'https://wahlergebnisse.komm.one/lb/produktion/wahltermin-20250223/08311000/daten/opendata/'}
+KURZNAME = {'Christlich Demokratische Union Deutschlands': 'CDU', 'Sozialdemokratische Partei Deutschlands': 'SPD',
+            'BÜNDNIS 90/DIE GRÜNEN': 'GRÜNE', 'Freie Demokratische Partei': 'FDP', 'Alternative für Deutschland': 'AfD',
+            'Die Linke': 'Die Linke', 'FREIE WÄHLER': 'FREIE WÄHLER', 'Volt Deutschland': 'Volt',
+            'Bündnis Sahra Wagenknecht - Vernunft und Gerechtigkeit': 'BSW'}
+
+
+def wahl_stadtbezirk(ags, name):
+    """Zweitstimmen eines Stadtbezirks aus dem Open-Data-Angebot der Stadt; None, wenn es keins gibt."""
+    if ags not in STADTBEZIRKE:
+        return None
+    roh = os.path.join(DATA, 'raw')
+    dateien = {'open_data.json': os.path.join(roh, 'btw25_%s_open_data.json' % ags)}
+    if not os.path.exists(dateien['open_data.json']):
+        os.makedirs(roh, exist_ok=True)
+        with urllib.request.urlopen(urllib.request.Request(STADTBEZIRKE[ags] + 'open_data.json', headers=UA), timeout=60) as r, \
+                open(dateien['open_data.json'], 'wb') as f:
+            f.write(r.read())
+    with io.open(dateien['open_data.json'], encoding='utf-8') as f:
+        od = json.load(f)
+    csv_name = next(c['url'] for c in od['csvs'] if c['ebene'] == 'Stadtbezirke')
+    pfad = os.path.join(roh, 'btw25_%s_stadtbezirke.csv' % ags)
+    if not os.path.exists(pfad):
+        with urllib.request.urlopen(urllib.request.Request(STADTBEZIRKE[ags] + csv_name, headers=UA), timeout=60) as r, open(pfad, 'wb') as f:
+            f.write(r.read())
+    partei = {}
+    for p in od['dateifelder'][0]['parteien']:
+        m = re.search(r'F(\d+)', p['feld'])
+        if m:
+            partei['F' + m.group(1)] = KURZNAME.get(p['wert'], p['wert'])
+    with io.open(pfad, encoding='utf-8-sig') as f:
+        for z in csv.DictReader(f, delimiter=';'):
+            if z['gebiet-name'] == name:
+                zahl = lambda x: int(x) if (x or '').strip().isdigit() else 0
+                return {'name': name, 'berechtigt': zahl(z['A']), 'waehlende': zahl(z['B']), 'gueltig': zahl(z['F']),
+                        'p': {partei[k]: zahl(v) for k, v in z.items() if k in partei}}
+    return None
+
+
+def wahl_eintrag(s, bezug=None, quelle=None):
+    alle = sorted(s['p'].items(), key=lambda kv: -kv[1])
+    # alle Parteien ab fünf Prozent, mindestens die vier stärksten
+    rang = [kv for i, kv in enumerate(alle) if i < 4 or 100.0 * kv[1] / s['gueltig'] >= 5.0]
     w = {'staerkste_partei': rang[0][0],
          'anteile_prozent': {p: round(100.0 * n / s['gueltig'], 1) for p, n in rang},
          'wahlbeteiligung_prozent': round(100.0 * s['waehlende'] / s['berechtigt'], 1) if s['berechtigt'] else None,
          'gueltige_zweitstimmen': s['gueltig']}
-    return wert(w, 'Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)', '2025-02-23',
+    return wert(w, quelle or 'Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)', '2025-02-23',
                 bezug or 'Summe aller Urnen- und Briefwahlbezirke der Gemeinde')
 
 
@@ -337,6 +381,11 @@ def main():
         naechste = min(grossstaedte, key=lambda s: km(lat, lon, s['lat'], s['lon']))
         e['naechste_grossstadt'] = [wert({'name': naechste['name'], 'km': int(round(km(lat, lon, naechste['lat'], naechste['lon'])))},
                                          'berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern')]
+        # Lage für den Steckbrief: Entfernung und Himmelsrichtung von der nächsten Großstadt aus
+        winkel = math.degrees(math.atan2((lon - naechste['lon']) * math.cos(math.radians(lat)), lat - naechste['lat'])) % 360
+        richtung = ['nördlich', 'nordöstlich', 'östlich', 'südöstlich', 'südlich', 'südwestlich', 'westlich', 'nordwestlich'][int((winkel + 22.5) // 45) % 8]
+        e['lage'] = [wert('%d km %s von %s (Luftlinie, Ortsmitte zu Stadtmitte)' % (
+            e['naechste_grossstadt'][0]['wert']['km'], richtung, naechste['name']), 'berechnet aus Koordinaten')]
         haupt = alt.stadt_json([LANDESHAUPTSTADT.get(land, '')])
         if haupt:
             e['km_landeshauptstadt'] = [wert({'name': haupt['name'], 'km': int(round(km(lat, lon, haupt['lat'], haupt['lon'])))},
@@ -367,7 +416,11 @@ def main():
         # Politik
         ags_w, _ = neuester(traeger_c, 'P439')
         ags = ags_w if isinstance(ags_w, str) else None
-        if ags and ags in wahl:
+        bezirk = wahl_stadtbezirk(ags, o['name']) if ist_ortsteil and ags else None
+        if bezirk:
+            e['wahl_btw25'] = [wahl_eintrag(bezirk, 'Ergebnis des Stadtbezirks, Briefwahl eingerechnet',
+                                            'Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)')]
+        elif ags and ags in wahl:
             e['wahl_btw25'] = [wahl_eintrag(wahl[ags], bezug)]
         elif not ist_ortsteil:
             maengel.append('%s: kein Wahlergebnis zum Gemeindeschlüssel %s' % (o['name'], ags))

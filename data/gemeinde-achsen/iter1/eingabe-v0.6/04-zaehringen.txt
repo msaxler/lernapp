@@ -1,0 +1,1412 @@
+ZIELORT: Zähringen (Ortsteil von Freiburg im Breisgau)
+LAGE: 3 km nördlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Zähringen (Freiburg im Breisgau)
+
+GRUNDDATEN:
+  landkreis: Stadtkreis Freiburg im Breisgau — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P131]
+  bundesland: Baden-Württemberg — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [über die Gemeinde]
+  einwohner: 9429  [Wikidata P1082, Stand 2024]
+  flaeche_km2: 3,13  [dewiki Infobox]
+  dichte_ew_km2: 3012  [berechnet aus Einwohner und Fläche]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P395]
+  hoehe_m: 250 | 254  [dewiki Infobox; Altbestand geo.sqlite (GeoNames 2805299)]
+  naechste_grossstadt: Freiburg im Breisgau, 3 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 129 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  ersterwaehnung: 1008  [Wikidata P1249]
+  eingemeindung: 1906-01-01  [dewiki Infobox]
+  bahnhof: Haltepunkt Freiburg-Zähringen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 79104, 79106, 79108  [Wikidata P281]
+  vorwahl: 0761  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: GRÜNE 30,2 %, CDU 20,3 %, SPD 15,1 %, Die Linke 14,1 %, AfD 8,7 %; Wahlbeteiligung 87 %  [Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT hoehe_m: Höhe des Orts (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT eingemeindung: Jahr der Eingemeindung (Ersatz: Luftlinie zur Landeshauptstadt), C, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 2)
+
+LETZTER_PIN: Denzlingen (Gemeinde)
+  landkreis: Emmendingen  [dewiki Infobox]
+  einwohner: 13.734  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 16,94  [Wikidata P2046]
+  kfz: EM (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 234 | 232  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2938190)]
+  naechste_grossstadt: Freiburg im Breisgau, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  ersterwaehnung: 984  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  bahnhof: Bahnhof Denzlingen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 27,4 %, GRÜNE 19,8 %, SPD 19 %, AfD 13,5 %, Die Linke 7,3 %; Wahlbeteiligung 85,8 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Umkirch, Gundelfingen, Denzlingen, Zähringen, St. Peter, Glottertal, Kirchzarten, Günterstal, Horben, Staufen
+
+FAKTEN (Zielort Zähringen):
+ENTITÄT: ort
+BEZEICHNUNG: Zähringen
+EIGENSCHAFTEN:
+  regierungsbezirk: Freiburg im Breisgau
+  lage: Stadtteil, Norden der Stadt
+  nachbargemeinde_nord: Gundelfingen
+  nachbarstadtteil_sued: Herdern
+  nachbarstadtteil_west: Brühl
+  einwohner: 9400
+  einwohner_genauigkeit: ca.
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: stadt_verwaltung
+BEZEICHNUNG: Eingemeindung Zähringen
+EIGENSCHAFTEN:
+  ereignis: Vereinigung mit Freiburg
+  datum: 1. Januar 1906
+  quellname: Vereinigungsvertrag
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+ENTITÄT: siedlung
+BEZEICHNUNG: Dorf Zähringen
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1008
+  erste_erwaehnung_grund: Schenkungsurkunde König Heinrich II. an Bistum Basel (Wildbannurkunde)
+  erste_erwaehnung_dokument: Wildbannurkunde
+  erste_erwaehnung_bezeugt_mit: Herdern, Wiehre, Gundelfingen und weitere Orte im Breisgau
+  nachweise: mehrfach als Ortsteil Freiburgs
+GUELTIG_AB: 1008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.96
+
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Zähringen
+EIGENSCHAFTEN:
+  erste_erwaehnung_bericht: 1080
+  erste_erwaehnung_quelle: Bericht Otto von Freisings
+  erste_urkundliche_erwaehnung: 1128
+  erste_urkundliche_erwaehnung_dokument: Rotulus Sanpetrinus
+  entstehungsgeschichte: liegt im Dunkeln
+  beschreibung: Burg mit Ursprungsgeschichte unbekannt
+GUELTIG_AB: 1080
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+ENTITÄT: herrschaft
+BEZEICHNUNG: Herzöge von Zähringen
+EIGENSCHAFTEN:
+  grundbesitz: Burg und Dorf Zähringen
+  nachfolger: Grafen von Freiburg
+  nachfolgezeit: nach Herzogszeit
+GUELTIG_AB: 1080
+GUELTIG_BIS: vor 1327
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: herrschaft
+BEZEICHNUNG: Grafen von Freiburg
+EIGENSCHAFTEN:
+  grundbesitz: Dorf Zähringen
+  verkauf: 1327 an Schnewlin Bernlapp
+GUELTIG_AB: vor 1327
+GUELTIG_BIS: 1327
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: adel
+BEZEICHNUNG: Schnewlin Bernlapp
+EIGENSCHAFTEN:
+  besitzerwerb: 1327
+  besitzerwerb_grund: Verkauf durch Grafen von Freiburg
+  grundbesitz: Dorf Zähringen
+GUELTIG_AB: 1327
+GUELTIG_BIS: vor 1443
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+ENTITÄT: adel
+BEZEICHNUNG: Schnewlin zum Wiger
+EIGENSCHAFTEN:
+  besitzerwerb: 1443
+  grundbesitz: Dorf Zähringen
+GUELTIG_AB: 1443
+GUELTIG_BIS: vor 1536
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+ENTITÄT: adel
+BEZEICHNUNG: Schnewlin von Landeck
+EIGENSCHAFTEN:
+  besitzerwerb: 1536
+  grundbesitz: Dorf Zähringen
+GUELTIG_AB: 1536
+GUELTIG_BIS: Ende 16. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+ENTITÄT: adel
+BEZEICHNUNG: Herren von Sickingen
+EIGENSCHAFTEN:
+  besitzerwerb_zeit: Ende 16. Jahrhundert
+  besitzerwerb_grund: Erbschaft von Schnewlin von Landeck
+  grundbesitz: Dorf Zähringen
+GUELTIG_AB: Ende 16. Jahrhundert
+GUELTIG_BIS: bis Eingemeindung
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Blasius-Kirche
+EIGENSCHAFTEN:
+  konfession: katholisch
+  baustil: Weinbrenner-Stil
+  baustil_beschreibung: nach den Plänen von Christoph Arnold, Schüler Friedrich Weinbrenners
+  bauzeit: 1822-1823
+  architekt: Christoph Arnold
+  architekt_beschreibung: Schüler Friedrich Weinbrenners
+  quellenliteratur: Hans-Josef Wollasch, St. Blasius in Zähringen, Lavori Freiburg 2008
+GUELTIG_AB: 1822
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Thomaskirche
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  lage: Tullastraße
+  bauzeit: 1958-1959
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+ENTITÄT: zentrale_stelle
+BEZEICHNUNG: Bahnhaltepunkt Zähringen
+EIGENSCHAFTEN:
+  bahnstrecke: Rheintalbahn
+  bahnlinie: Breisgau-S-Bahn
+  verbindung: Freiburg Hauptbahnhof über Denzlingen nach Elzach
+  geplante_verbesserung: Umwandlung Güterumgehungsbahn in S-Bahn mit zusätzlichen Haltepunkten
+  geplante_verbesserung_orte: Tullastraße und Berggasse (Zähringen-Nord)
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Straßenbahn Zähringen
+EIGENSCHAFTEN:
+  erste_anbindung: 10. März 1910
+  erste_anbindung_strecke: Okenstraße bis Reutebachgasse
+  verlaengerung_2014: März 2014, drei Stationen bis Gundelfinger Straße
+  linie_aktuelle: Linie 3
+  linie_aktuelle_gueltig_ab: Dezember 2024
+  linie_aktuelle_verlauf: von Haid bis südlicher Ortsrand Gundelfingens
+  geplante_weitere_verlaengerung: vier Stationen bis Ortsmitte Gundelfingen zur Rheintalbahn
+  geplante_verlaengerung_status: im vordringlichen Bedarf festgeschrieben, Realisierung nach Bürgerentscheid 2023 praktisch ausgeschlossen
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Radschnellweg
+EIGENSCHAFTEN:
+  ziele: Emmendingen und Waldkirch
+  route: von Neuburg und Herdern über Burgdorfer Weg und Wildtalstraße entlang Rheintalbahn nach Gundelfingen
+  massnahme_hinterkirchstrasse: Unterführung ab Anfang 2026 für KfZ-Verkehr gesperrt
+GUELTIG_AB: geplant
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Radwegnetz Zähringen
+EIGENSCHAFTEN:
+  fr2: entlang Güterbahn, verbindung Nord-Süd-Richtung mit Universitätsklinikum, Stühlinger, Haslach
+  fr3: entlang Straßenbahnlinie durch Waldkircher Straße
+  frelo_stationen: 4 Stationen des Fahrradverleihsystems Frelo
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: verkehrsweg
+BEZEICHNUNG: Bundesstraße B 3
+EIGENSCHAFTEN:
+  beschreibung: verläuft mitten durch Zähringen
+  geplante_massnahme: Entlastung vom Verkehrslärm (langfristig)
+GUELTIG_AB: vor 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: freizeit_infrastruktur
+BEZEICHNUNG: Pumptrack
+EIGENSCHAFTEN:
+  lage: zwischen Denzlinger Straße und Isfahanallee
+  eroeffnung: Juni 2020
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: bestandsaufnahme
+BEZEICHNUNG: Bevölkerungszählung vor Eingemeindung
+EIGENSCHAFTEN:
+  zeitpunkt: 1904
+  einwohner: 2185
+  haushaltungen: 455
+  gebaeude: 237
+  katholiken: 1926
+  protestanten: 253
+  sonstige: 6
+GUELTIG_AB: 1904
+GUELTIG_BIS: 1904
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+
+FAKTEN AUS ZWEITER QUELLE (Wikipedia, Artikel „Burg Zähringen (Gundelfingen)“):
+ENTITÄT: burg
+BEZEICHNUNG: Burg Zähringen (Gundelfingen)
+EIGENSCHAFTEN:
+  typ: Höhenburg
+  höhe: 478.3 m ü. NN
+  lage_bergname: Roßkopf
+  lage_gemarkung: Gundelfingen, Ortsteil Wildtal
+  lage_unterhalb_von: Freiburg-Zähringen
+  namensgeberin: Adelsgeschlecht der Zähringer
+  bauherr: Graf Berthold II.
+  bauzeit: vor 1100
+  erste_urkundliche_erwaehnung: 1128
+  erste_urkundliche_erwaehnung_dokument: Rotulus Sanpetrinus apud castrum Zaringen
+  heute_zustand: Ruine
+  heute_besitzer: Stadt Freiburg
+  erhaltenes_bauwerk: 18 Meter hoher zinnengekrönter Rundturm (13. Jahrhundert) mit Aussichtsplattform
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: herrschergeschlecht
+BEZEICHNUNG: Zähringer
+EIGENSCHAFTEN:
+  begründer_burg: Berthold II.
+  namensherkunft: benannt nach Burg Zähringen
+  grund_namensgebung: Berthold II. nannte sich nach seiner neuen Burg nunmehr Graf und später Herzog von Zähringen
+  aussterben_datum: 1218
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1218
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Freiburg (Schlossberg)
+EIGENSCHAFTEN:
+  bauherr: Berthold II.
+  bauzeit: ab 1091
+  grund_errichtung: Lage aus militärischer und handelsstrategischer Sicht vorteilhafter als Burg Zähringen
+  wurde_hauptsitz: ja
+GUELTIG_AB: 1091
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: siedlung
+BEZEICHNUNG: Michelsberger Kultur (Burgberg Zähringen)
+EIGENSCHAFTEN:
+  kultur: Michelsberger Kultur
+  periode: neolithisch
+GUELTIG_AB: neolithisch
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: siedlung
+BEZEICHNUNG: Keltische Besiedlung Hallstattzeit (Burgberg Zähringen)
+EIGENSCHAFTEN:
+  kultur: Kelten
+  periode: Hallstattzeit
+  befestigung: Holz-Erde-Konstruktion durch Kelten auf Gipfel
+GUELTIG_AB: Hallstattzeit
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: siedlung
+BEZEICHNUNG: Keltische Besiedlung Latènezeit (Burgberg Zähringen)
+EIGENSCHAFTEN:
+  kultur: Kelten
+  periode: Latènezeit
+  zeitraum_ab: ab 7. Jahrhundert v. Chr.
+GUELTIG_AB: Latènezeit
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: siedlung
+BEZEICHNUNG: Alamannische Höhensiedlung (Burgberg Zähringen)
+EIGENSCHAFTEN:
+  kultur: Alamannen
+  zeitraum: 4./5. Jahrhundert n. Chr.
+  besonderheit: Burgberg großflächig planiert
+  moeglicher_zusammenhang: möglicherweise verbunden mit alamannischem Kleinkönig
+  genauigkeit: vermutlich
+GUELTIG_AB: 400
+GUELTIG_BIS: 500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Berthold II.
+EIGENSCHAFTEN:
+  titel_vor_1100: Graf von Zähringen
+  titel_ab_1097: Herzog von Zähringen
+  grund_herzogstitel: Ersatz für bei Staufern verbleibenden schwäbischen Herzogstitel
+  tätigkeiten: erbaute Burg Zähringen (vor 1100), begann Burg Freiburg (1091)
+  vater: Berthold I. (mit dem Bart, Markgraf von Lintburg)
+GUELTIG_AB: 1050
+GUELTIG_BIS: 1111
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Kaiser Friedrich Barbarossa
+EIGENSCHAFTEN:
+  aktion_gegen_burg_zaehringen: Einnahme 1146
+GUELTIG_AB: 1146
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Kaiser Friedrich II.
+EIGENSCHAFTEN:
+  aktion_nach_aussterben_zaehringer: zog Zähringer Burg als Reichslehen ein
+  datum: nach 1218
+GUELTIG_AB: 1218
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Graf Konrad I. von Freiburg
+EIGENSCHAFTEN:
+  aktion: Einnahme und Zerstörung der Burg Zähringen
+  zeitraum: 1246-1250
+GUELTIG_AB: 1246
+GUELTIG_BIS: 1250
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Rudolf I. von Habsburg
+EIGENSCHAFTEN:
+  aktion: Wiederaufbau Burg Zähringen im Auftrag
+  zeitraum: nach 1281
+GUELTIG_AB: 1281
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Bernhard I. (Badischer Markgraf)
+EIGENSCHAFTEN:
+  aktion: Erwerb eines Viertels der Burg Zähringen
+  datum: 1422
+  preis: 303 Mark Silber
+GUELTIG_AB: 1422
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: burschenschaft
+BEZEICHNUNG: Teutonia (Freiburg)
+EIGENSCHAFTEN:
+  tradition: Stiftungsfest auf der Zähringer Burg
+  gueltig_ab_tradition: ab 1851
+GUELTIG_AB: 1851
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+FAKTEN AUS ZWEITER QUELLE (Wikipedia, Artikel „Thomaskirche (Freiburg-Zähringen)“):
+ENTITÄT: kirche
+BEZEICHNUNG: Thomaskirche
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  stadtteil: Zähringen
+  stadt: Freiburg im Breisgau
+  pfarrgemeinde: Pfarrgemeinde Nord der evangelischen Kirche Freiburg
+  nebenkirche: Ludwigskirche
+  grund_neugründung: Zuzug von Flüchtlingen und Vertriebenen nach Zweitem Weltkrieg machte Pfarrvikariat der Ludwigsgemeinde zu groß
+  bauzeit: ab 1958 bis 1959
+  architekt: Walter Körte (Freiburg)
+  weihedatum: 28. November 1959
+  laenge: 22.4 m
+  breite: 14 m
+  hoehe: 12.5 m
+  kapazitaet_gesamt: gut 300 Personen im Kirchenraum
+  kapazitaet_empore: 80 Personen
+  kapazitaet_saal: 100 Personen (Saal zur Kirche hin öffnungsfähig)
+  altarwand_material: Schwarzwaldgranit-Bruchsteine
+  altarwand_fenster: künstlerisch gestaltetes Buntglasfenster
+  fenster_seitlich: raumhohe aus Betonformsteinen gebildete Klarglasfenster
+  bodenmaterial: schwarzer Schiefer
+  wandmaterial: sichtbares hell verfugtes Backsteinmauerwerk
+  kuenstlerische_fenster_schoepfer: Hugo Körte
+  altarfenster_motiv: Lamm Gottes
+  emporenfenster_motive: Hahn, Ähren, Die klugen und die törichten Jungfrauen
+  geplante_entwuerfe_nicht_realisiert: Öllampen/Jungfrauen, Taube, Fisch, Dornenkrone, Korn und Wein, Heiliggeisttaube
+  umbau_geplant: ab 2014
+  umbau_beginn: 2020
+  umbau_abschluss_geplant: 2022
+  umbau_grund: Modernisierung zu multifunktionalem Gemeindezentrum mit Pflegeheim
+GUELTIG_AB: 1959
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: glockenturm
+BEZEICHNUNG: Glockenturm Thomaskirche
+EIGENSCHAFTEN:
+  standort: Südwestecke des Grundstücks
+  baujahr: 1961
+  glockenanzahl: 3
+  glockengewicht_gesamt: 2925 kg
+  glocke_1: Betglocke (groß)
+  glocke_2: Thomasglocke
+  glocke_3: Taufglocke (kleinste)
+GUELTIG_AB: 1961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Walter Körte
+EIGENSCHAFTEN:
+  profession: Freiburger Architekt
+  lebensdaten: 1893-1972
+  werke: Pläne und Entwurf Thomaskirche
+GUELTIG_AB: 1893
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Hugo Körte
+EIGENSCHAFTEN:
+  profession: Künstler
+  verwandtschaft: jüngerer Bruder des Architekten Walter Körte
+  lebensdaten: 1897-1974
+  werke: künstlerisch gestaltete Betonglasfenster der Thomaskirche
+  kunstform: Betonglasfenster
+GUELTIG_AB: 1897
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: pfarrgemeinde
+BEZEICHNUNG: Ludwigsgemeinde (später Pfarrgemeinde Nord Zähringen)
+EIGENSCHAFTEN:
+  vorgaenger: Pfarrvikariat in Freiburg-Herdern
+  grund_neugründung: Pfarrvikariat der Ludwigsgemeinde in Herdern zu groß nach Zuzug von Flüchtlingen und Vertriebenen
+  gründung_ort: Zähringen
+  eigenstaendigkeit: eigene Gemeinde
+  zugehoerigkeit: Pfarrgemeinde Nord der evangelischen Kirche Freiburg
+  kirchengebaeude: Thomaskirche
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: architekturbüro
+BEZEICHNUNG: Sacker (Freiburg)
+EIGENSCHAFTEN:
+  auftraggeber_aktion: Pläne für Umbau Gemeindezentrum ab 2020
+  projekt: Umgestaltung Thomaskirche zu multifunktionalem Gemeindezentrum
+  gebaeudezubesatz: Kita-Flachbau wird durch viergeschossiges Pflegeheim ersetzt
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: organisation
+BEZEICHNUNG: Evangelische Stadtmission
+EIGENSCHAFTEN:
+  aktion_rolle_neu: wird neue Grundstückseigentümerin Gemeindezentrum
+  grund_eigentumsuebernahme: Pflegeheim in Innenstadt entspricht nicht heutigen Standards
+  grund_kein_umbau: notwendiger Umbau des bisherigen Heims wirtschaftlich nicht vertretbar
+  zukuenftiges_projekt: viergeschossiges Pflegeheim am Thomaskirche-Grundstück
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+FAKTEN AUS ZWEITER QUELLE (Wikipedia, Artikel „Zähringer“):
+ENTITÄT: herrschergeschlecht
+BEZEICHNUNG: Zähringer
+EIGENSCHAFTEN:
+  charakterisierung: mit Staufern verwandtes schwäbisches Fürstengeschlecht
+  namensherkunft: benannt nach ihrer Burg Zähringen bei Freiburg
+  namensgebung_grund: Berthold II. nannte sich nach seiner neuen Burg
+  zeitraum: ab Ende 11. Jahrhundert bis 1218
+  stammverwandtschaft: Haus Baden stammverwandt
+  wappentier_zugeordnet: roter Adler
+  wappentier_zeitgenoessische_siegel: Löwe
+  aufstieg: Aufstieg in Kreis mächtigsten Fürsten während Investiturstreits
+  parteistellung_investiturstreit: meiste Zeit auf Seiten der päpstlichen Partei
+  machtgrundlagen: Silberbergbau Schwarzwald, Eigengüter und Reichslehen
+  territorial_herzogtum: neues Territorialherzogtum, von Zeitgenossen nicht als gleichwertig mit althergebrachten Stammesherzogtümern betrachtet
+  expansion_grenze: Machtkämpfe Staufer-Welfen setzten Expansion Grenze
+  rektorat: 1127 erhalten das Rektorat über Burgund
+GUELTIG_AB: 1050
+GUELTIG_BIS: 1218
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Berthold I. (Zähringer)
+EIGENSCHAFTEN:
+  lebensdaten: um 1000 bis 1078
+  titel_herzogal: Herzog von Kärnten, Markgraf von Verona
+  herkunft_vermutung: möglicherweise aus Alaholfingern hervorgegangen
+  herkunft_grund_vermutung: gestützt auf Namenshäufungen
+  genauigkeit: vermutlich
+  macht_grundlage: Geblütsrecht stützten wahrscheinlich die Macht
+  herrschaften: verschiedene Herrschaften im Breisgau, Thurgau, Ortenau, Baar
+  schenkung_kaiser: 1057 von Kaiser Heinrich III. Herzogtum Kärnten und Markgrafschaft Verona
+  schenkung_grund: als Ersatz für versprochenes Herzogtum Schwaben
+  schenkung_problem: konnte Rechte nicht tatsächlich ausüben
+  stammburg_erbauung: um 1050
+  stammburg: Burg Limburg
+  stammburg_lage: Vorland der Schwäbischen Alb, bei Weilheim Teck
+  titel_stammburg: Markgraf von Lintburg
+  grablege: Weilheim an der Teck (bis 1093)
+  sohn: Berthold II.
+GUELTIG_AB: 1050
+GUELTIG_BIS: 1078
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Berthold II. (Zähringer)
+EIGENSCHAFTEN:
+  lebensdaten: 1078-1111
+  titel_graf: Graf von Zähringen
+  titel_herzog_ab: ab 1097 Herzog von Zähringen
+  grund_herzogstitel: Ersatz für bei Staufern verbleibenden schwäbischen Herzogstitel zuerkannt
+  burg_zaehringen_erbauer: ja
+  burg_zaehringen_bauzeit: vor 1100
+  burg_freiburg_erbauer: ja
+  burg_freiburg_baujahr: ab 1091
+  grund_burg_freiburg: Lage aus militärer und handelsstrategischer Sicht vorteilhafter als Burg Zähringen
+  burg_freiburg_rolle: sollte Hauptsitz werden
+  burg_limburg_vater: Vater Berthold I. hatte Burg Limburg
+  burg_limburg_titel_vater: nannte sich Markgraf von Lintburg
+  vater: Berthold I.
+  sohn: Berthold III.
+GUELTIG_AB: 1078
+GUELTIG_BIS: 1111
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Berthold III. (Zähringer)
+EIGENSCHAFTEN:
+  lebensdaten: 1111-1122
+  titel: Herzog von Zähringen
+  stadt_gruendung_anspruch: soll 1120 Stadt Freiburg gegründet haben
+  stadt_freiburg_erwaehnung: soll 1120 durch Berthold III. gegründet worden sein
+  genauigkeit: soll
+GUELTIG_AB: 1111
+GUELTIG_BIS: 1122
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Konrad I. (Zähringer)
+EIGENSCHAFTEN:
+  lebensdaten: 1122-1152
+  titel: Herzog von Zähringen, Rektor von Burgund
+  rektorat: 1127 erhalten Zähringer das Rektorat über Burgund
+GUELTIG_AB: 1122
+GUELTIG_BIS: 1152
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Clementia von Zähringen
+EIGENSCHAFTEN:
+  lebensdaten: 1167
+  genealogie: Tochter Konrads I.
+  ehe: heiratete 1147 Heinrich den Löwen
+  ehemann: Heinrich der Löwe
+  eheschliessung: 1147
+GUELTIG_AB: 1147
+GUELTIG_BIS: 1167
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Rudolf von Zähringen
+EIGENSCHAFTEN:
+  lebensdaten: 1191
+  genealogie: Sohn Konrads I.
+  bruder: Berthold IV.
+  kandidatur: erwählter Erzbischof von Mainz (Kandidatur)
+  titel_erhalten: Bischof von Lüttich
+GUELTIG_AB: 1150
+GUELTIG_BIS: 1191
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Berthold IV. (Zähringer)
+EIGENSCHAFTEN:
+  lebensdaten: 1152-1186
+  titel: Herzog von Zähringen, Rektor von Burgund
+  rolle: gehörte zu wichtigsten Fürsten des Reiches unter Kaiser Friedrich Barbarossa
+  aktivitaeten: gründete zahlreiche Städte (u.a. Freiburg im Üechtland)
+  bruder: Rudolf von Zähringen
+  schwester: Clementia von Zähringen
+GUELTIG_AB: 1152
+GUELTIG_BIS: 1186
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Berthold V. (Zähringer)
+EIGENSCHAFTEN:
+  lebensdaten: 1186-1218
+  titel: Herzog von Zähringen, Rektor von Burgund
+  stadt_gruendung: 1191 gegründet Stadt Bern
+  stadt_bern_ausgestaltung: zum Mittelpunkt seiner Herrschaft ausgebaut
+  kandidatur_koenig: Nach Tod Kaiser Heinrichs VI. (1197) Thronkandidat ins Gespräch gebracht
+  kandidatur_versuch: Kandidatur nur kurze Zeit betrieben
+  kandidatur_bedeutung: Episode zeigt, dass Familie als wählbar für Amt römisch-deutschen König galt
+  muenster_freiburg_baubeginn: 1200
+  muenster_freiburg_grund: Erweiterungsbau mit Ziel neue repräsentative Grablege zu schaffen
+  muenster_freiburg_schicksal: Hauptlinie starb vor Fertigstellung der Kirche aus
+  grablege: St. Peter auf dem Schwarzwald (ab 1093 nach Limburg)
+  grablege_wechsel: von Limburg zu St. Peter, danach Versuch Münster Freiburg
+  aussterben: 1218 Hauptlinie der Zähringer starb aus mit Tod Bertholds V.
+  gesamtlebenswerk: König Rudolf I. von Habsburg vererbte die Schweizer Besitztümer, Reich zog Reichslehen ein
+GUELTIG_AB: 1186
+GUELTIG_BIS: 1218
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Hermann I. (Zähringer, Stammvater Baden)
+EIGENSCHAFTEN:
+  lebensdaten: 1074
+  titel: Markgraf von Verona und Graf im Breisgau
+  genealogie: ältester Sohn Bertholds I.
+  stammvatereigenschaft: Stammvater der Linie der Markgrafen von Baden
+GUELTIG_AB: 1050
+GUELTIG_BIS: 1074
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Hermann II. (Markgraf von Baden)
+EIGENSCHAFTEN:
+  lebensdaten: 1060-1130
+  titel_neuheit: erster Markgraf von Baden (1112 nannte sich erstmals so)
+  titel_wechsel: ab 1112 Markgraf von Baden
+  ansitz: Burg Hohenbaden
+  genealogie: Sohn Hermann I.
+GUELTIG_AB: 1112
+GUELTIG_BIS: 1130
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Gebhard III. (Bischof von Konstanz)
+EIGENSCHAFTEN:
+  lebensdaten: 1110
+  titel: Bischof von Konstanz
+  genealogie: jüngster Sohn Bertholds I.
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1110
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Adalbert (Herzog von Teck)
+EIGENSCHAFTEN:
+  genealogie: Bruder Bertholds IV.
+  erbe: Familienbesitzungen um Burg Teck
+  titel_ab: ab 1187 Herzog von Teck
+  gruendung_linie: Gründer der Nebenlinie Teck
+GUELTIG_AB: 1187
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Berthold von Teck
+EIGENSCHAFTEN:
+  titel_ab: ab 1223 Bischof von Straßburg
+  zugehoerigkeit: Herzöge von Teck (Nebenlinie)
+GUELTIG_AB: 1223
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Ludwig von Teck (Patriarch)
+EIGENSCHAFTEN:
+  titel: Patriarch von Aquileja
+  lebensdaten: 1439
+  ereignis: Herzöge von Teck starben mit seinem Tod aus
+  aussterben_linie: 1439
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1439
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: herrschergeschlecht
+BEZEICHNUNG: Markgrafen von Baden
+EIGENSCHAFTEN:
+  herkunft: Linie des ältesten Sohnes Bertholds I., Hermann I.
+  stammvater: Hermann I.
+  titel: Markgraf (ab 1112 erstmals Markgraf von Baden)
+  erbschaft: erbten Teile des Besitzes und Markgrafentitel in Totteilung
+  herrschaften_charakteristik: zeitweise in mehrfach geteilten Territorien
+  herrschaft_bis: bis Reichsdeputationshauptschluss 1803
+  aenderung_1803: Badisches Territorium stark vergrößert
+  erhebung_1806: Kurfürstentum Baden zum Großherzogtum erhoben
+  regenten_bis: Erben Karl Friedrichs bis Tode Ludwigs I. 1830
+  regenten_morganatische_linie: als morganatische Seitenlinie bis Abdankung Friedrichs II. 1918 (Novemberrevolution)
+  propagandistische_reklamation_ab_1805: bezeichneten sich als Herzöge von Zähringen
+  grund_reklamation: basierend auf genealogischen Studien Historikers Johann Daniel Schöpflin
+  verwendung_name: für Zähringer Löwenorden und noch im 20. Jahrhundert für Zähringer Stiftung
+GUELTIG_AB: 1112
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: herrschergeschlecht
+BEZEICHNUNG: Grafen von Freiburg (Uracher Linie)
+EIGENSCHAFTEN:
+  herkunft: Uracher Linie der Zähringer-Erben
+  lage: in und um Freiburg im Breisgau sowie im Schwarzwald
+  namensgebung: ab 1230 nannten sich Grafen von Freiburg
+  grund_namensgebung: Erbschaft von Agnes (Tochter Bertholds V.) nach Eheschließung mit Grafen von Urach
+  erbinnen: Agnes und Anna (Schwestern), Töchter Bertholds V.
+  nachfolger: von ihnen stammt wiederum das Haus Fürstenberg ab
+GUELTIG_AB: 1230
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: herrschergeschlecht
+BEZEICHNUNG: Kyburger
+EIGENSCHAFTEN:
+  erbschaft: erbten Schweizer Besitzungen der Zähringer
+  aussterben: 1263
+  nachfolger: nach Aussterben 1263 fielen Besitzungen an Habsburger Nebenlinie der Grafen von Neu-Kyburg
+GUELTIG_AB: 1218
+GUELTIG_BIS: 1263
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Limburg
+EIGENSCHAFTEN:
+  erbauer: Berthold I.
+  erbauungszeit: um 1050
+  lage: Vorland der Schwäbischen Alb, bei Weilheim Teck
+  rolle: Stammburg, Hauptsitz
+  titel_nach_burg: Markgraf von Lintburg
+  grablege: bis 1093 Grablege der Familie
+  grablege_neubestimmung: nach 1093 Verschiebung zu St. Peter auf dem Schwarzwald
+GUELTIG_AB: 1050
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Teck
+EIGENSCHAFTEN:
+  rolle: Sitz der Nebenlinie Teck
+  zugehoerigkeit: Adalbert (Bruder Bertholds IV.) erbte Familienbesitzungen um Burg Teck
+GUELTIG_AB: 1187
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Hohenbaden
+EIGENSCHAFTEN:
+  rolle: Ausgangspunkt der Markgrafen aus dem Haus Baden
+  ansitz: Hermann II.
+  bedeutung: erste Residenz der Baden-Linie
+GUELTIG_AB: 1112
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: kloster
+BEZEICHNUNG: St. Peter (Schwarzwald)
+EIGENSCHAFTEN:
+  begruender: Berthold II.
+  rollen: Hauskloster und Grablege
+  grablege_ab: ab 1093 letzte Ruhestätte der Zähringer nach Verschiebung des Zentrums nach Südwesten
+  vorherige_grablege: Weilheim an der Teck (bis 1093)
+GUELTIG_AB: 1093
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Freiburger Münster
+EIGENSCHAFTEN:
+  baubeginn: 1200
+  bauinitiator: Berthold V.
+  bauzweck: Erweiterungsbau mit dem Ziel eine neue repräsentative Grablege zu schaffen
+  monumente: enthält einige Monumente mit Idealabbildungen der Zähringer
+  grablege_schicksal: Hauptlinie der Zähringer starb vor Fertigstellung der Kirche aus
+  geplante_grablege: sollte neue Grablege werden
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+ENTITÄT: siedlung_gruendung
+BEZEICHNUNG: Zähringer Siedlungspolitik und Stadtgründungen
+EIGENSCHAFTEN:
+  aktivitaet: Zähringer betrieben aktive Siedlungspolitik und gründeten zahlreiche Städte, Dörfer und Klöster
+  auswahl_kriterium: Standorte wurden nach politischen und wirtschaftlichen Gesichtspunkten gewählt
+  charakteristika_herrschaftsbereich: Einheitliches Recht, zentrale Verwaltung, maximale Freiheit für Bürger
+  stadtgrundriss: typisch das Zähringer-Straßenkreuz
+  grund_schwarzwald_siedlung: Wegebau für Durchgänge nötig, ermöglichte Ministerialen im Schwarzwald zu leben
+  gesamtbeitraeg: haben Anteil an Besiedlung des Schwarzwalds
+  beispielstaedte: Bern, Burgdorf, Bräunlingen, Freiburg im Breisgau, Freiburg im Üechtland, Haslach im Kinzigtal, Murten, Neuenburg am Rhein, Offenburg, Rheinfelden (Schweiz), Thun, Villingen
+  charakteristik_stadtgrundriss: zwei Straßenzüge rechtwinklig kreuzend, teilen Stadtgebiet in vier Quartiere
+  charakteristik_kirche: Hauptkirche nicht zentral, sondern auf Platz in einem der Viertel
+GUELTIG_AB: 1050
+GUELTIG_BIS: 1218
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Kaiser Friedrich I. Barbarossa
+EIGENSCHAFTEN:
+  interaktion: nahm Burg Zähringen 1146 ein
+  perspektive: war Gegner und später Verbündeter der Zähringer
+  koexistenz_berthold_iv: Berthold IV. gehörte zu wichtigsten Fürsten unter Friedrich Barbarossa
+GUELTIG_AB: 1152
+GUELTIG_BIS: 1190
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: person
+BEZEICHNUNG: Kaiser Friedrich II.
+EIGENSCHAFTEN:
+  aktion_gegen_zaehringer: zog nach Aussterben 1218 einige Reichslehen der Zähringer ein
+  aktion_gegen_erbe: Erbe des Allodialguts von Berthold V. traten seine Schwestern an
+GUELTIG_AB: 1218
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+ENTITÄT: wappen
+BEZEICHNUNG: Zähringer Adler
+EIGENSCHAFTEN:
+  wappentier_zugeordnet: roter Adler
+  interpretation: aufgrund roten Adlers aus Wappen späteren Freiburger Grafen wird dieser als ursprüngliches Wappen der Zähringer interpretiert
+  gegenargument: Löwensiegel Bertholds V. dem entgegensteht
+  zeitliches_problem: letzter Zähringer lebte zur Zeit der Entstehung der ersten Wappen
+  genauigkeit: Interpretation mit Unsicherheit
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+SPENDER: Dornstetten (nicht Teil der Fahrt)
+ENTITÄT: ort
+BEZEICHNUNG: Dornstetten
+EIGENSCHAFTEN:
+  einwohner: 8192
+  einwohner_datum: 31. Dezember 2025
+  landkreis: Freudenstadt
+  bundesland: Baden-Württemberg
+  region: Nordschwarzwald
+  regierungsbezirk: Karlsruhe
+  entfernung_kreisstadt: 7 km östlich
+  höhe_min: 600 m ü. NN
+  höhe_max: 715 m ü. NN
+  waldanteil: 48 %
+  waldanteil_hektar: 1164 ha
+  lage: nördlicher Schwarzwald
+  erste_urkundliche_erwähnung: 767
+  quelle_erwähnung: Lorscher Codex
+  ist_stadt: true
+  stadt_erhoben: 1267-1276
+  ist_oberamtsstadt_gewesen: true
+  oberamtsstadt_zeitraum: 1755-1807
+  deutsche_fachwerkstraße: Südroute (Mosbach–Haslach im Kinzigtal)
+  deutsche_alleenstraße: liegt an
+  verkehrsgemeinde: Landkreis Freudenstadt
+  naturpark: Schwarzwald Mitte/Nord
+  is_kreisstadt: false
+  ist_vermutlich_aktuell: true
+GUELTIG_AB: 1267
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Aach
+ORTSTEIL_BEZUG: Aach
+EIGENSCHAFTEN:
+  teil_seit: 1. Januar 1975
+  komponenten: Dorf Aach, Gehöft Benzinger Hof, Häuser Glattal
+  glatt_quelle: Zusammenfluss Ettenbach, Stockerbach, Kübelbach
+  bahnhaltepunkt_seit: 2018
+  bahnhaltepunkt_takt: Zweistundentakt
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1975
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hallwangen
+ORTSTEIL_BEZUG: Hallwangen
+EIGENSCHAFTEN:
+  teil_seit: 1. Januar 1975
+  komponenten: Dorf Hallwangen
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1975
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Bernhard Haas
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  partei: parteilos
+  wahl: März 2012
+  wahlgang: zweiter Wahlgang
+  stimmenanteil: 51,1 %
+  vorgänger: Dieter Flik
+  vorgänger_stimmenanteil: 3,2 %
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2012
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Jacob Beurlin
+EIGENSCHAFTEN:
+  lebensdaten: um 1520–1561
+  beruf: evangelischer Theologe und Reformator
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1520
+GUELTIG_BIS: 1561
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Johann Jakob Schertlin
+EIGENSCHAFTEN:
+  lebensdaten: 1784–1855
+  beruf: württembergischer Oberamtmann
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1784
+GUELTIG_BIS: 1855
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Heinrich Schäff
+EIGENSCHAFTEN:
+  alias: Hermann Zerweck
+  lebensdaten: 1862–1937
+  beruf: Schriftsteller, Maler
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1862
+GUELTIG_BIS: 1937
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Fritz Kläger
+EIGENSCHAFTEN:
+  lebensdaten: 1914–2007
+  beruf: Motorradrennfahrer und -konstrukteur
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1914
+GUELTIG_BIS: 2007
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Erich Bochinger
+EIGENSCHAFTEN:
+  lebensdaten: 1928–2016
+  beruf: evangelischer Theologe
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1928
+GUELTIG_BIS: 2016
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Cornelia Horz
+EIGENSCHAFTEN:
+  geburt: 1957
+  beruf: Juristin, Präsidentin des Oberlandesgerichts Stuttgart
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1957
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Wolfram Graf
+EIGENSCHAFTEN:
+  geburt: 1965
+  beruf: Komponist, Pianist und Organist
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1965
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Eleonore Kötter
+EIGENSCHAFTEN:
+  lebensdaten: bis 2017
+  beruf: Dornstetter Künstlerin
+  stiftung: Kunstsammlung (Heimatmuseum)
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 2017
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirche
+BEZEICHNUNG: evangelische Kirche
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  seit_reformation: Dornstetten evangelisch geprägt
+  gueltig_ab: Reformation
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kirche
+BEZEICHNUNG: römisch-katholische Kirche
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  betreuung: Kirchengemeinde Freudenstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirche
+BEZEICHNUNG: neuapostolische Kirche
+EIGENSCHAFTEN:
+  konfession: neuapostolisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kirche
+BEZEICHNUNG: evangelisch-methodistische Kirche
+EIGENSCHAFTEN:
+  konfession: evangelisch-methodistisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Scey-sur-Saône-et-Saint-Albin
+EIGENSCHAFTEN:
+  region: Bourgogne-Franche-Comté
+  land: Frankreich
+  relation: partnerschaftliche Beziehung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Naturschutzgebiet Benzinger Berg
+EIGENSCHAFTEN:
+  typ: Naturschutzgebiet
+  lage: Süden des Stadtgebiets
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Silberberg
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Springbrunnen-Ettenbachtal
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+  anteil: Teile der Fläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Stockenbachtal
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+  anteil: Teile der Fläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Oberes Glattal
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+  anteil: Teile der Fläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: FFH-Gebiet Freudenstädter Heckengäu
+EIGENSCHAFTEN:
+  typ: FFH-Gebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: schule
+BEZEICHNUNG: Gymnasium
+EIGENSCHAFTEN:
+  erste_erwähnung: 1461
+  umwandlung_vollgymnasium: Schuljahr 2006/07
+  status: Vollgymnasium seit 2006/07
+GUELTIG_AB: 1461
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schule
+BEZEICHNUNG: Realschule
+EIGENSCHAFTEN:
+  gebäude_mit: Werkrealschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Werkrealschule
+EIGENSCHAFTEN:
+  gebäude_mit: Realschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule
+EIGENSCHAFTEN:
+  anzahl: 3
+  verteilung: eine pro Ortsteil
+IST_VERMUTISCH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schule
+BEZEICHNUNG: Dreifürstensteinschule
+EIGENSCHAFTEN:
+  typ: Körperbehindertenschule
+  träger: Stiftung KBF
+  form: Außenstelle Dornstetten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Eichenäcker-Schule
+EIGENSCHAFTEN:
+  typ: Förderschule
+  spezialisierung: Schüler mit geistiger Behinderung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: einrichtung
+BEZEICHNUNG: Kindergarten
+EIGENSCHAFTEN:
+  anzahl: 7
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: museum
+BEZEICHNUNG: Puppen- und Spielzeugmuseum
+EIGENSCHAFTEN:
+  standort: Kaufhaus Hegel
+  typ: Spezialisiertes Museum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum
+EIGENSCHAFTEN:
+  inhalt: Stadtgeschichte, Leben der Bürger, Kunstsammlung
+  etagen: 3
+  kunstsammlung_stiftung: Eleonore Kötter (2017)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bergwerk
+BEZEICHNUNG: Himmlisch Heer
+ORTSTEIL_BEZUG: Hallwangen
+EIGENSCHAFTEN:
+  typ: Silber-, Kupfer- und Schwerspatbergwerk
+  status: historisch
+  besuchbar: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: Altstadt
+EIGENSCHAFTEN:
+  charakteristika: Fachwerkhäuser und Gassen
+  sehenswert: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: Aussichtsturm Königskanzel
+EIGENSCHAFTEN:
+  typ: Aussichtsturm
+  name: Königskanzel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: freizeit_einrichtung
+BEZEICHNUNG: Barfußpark
+ORTSTEIL_BEZUG: Hallwangen
+EIGENSCHAFTEN:
+  länge: 2,4 km
+  form: Rundweg
+  stationen: Erlebnis-, Kneipp- und Spielstationen
+  zweck: Naturerlebnisse, Naturheilmittel gegen Venenleiden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Bahnstrecke Eutingen im Gäu–Schiltach
+EIGENSCHAFTEN:
+  stationen: Dornstetten, Aach (seit 2018)
+  züge_re14b: Freudenstadt–Stuttgart
+  züge_s8_s81: Bondorf (bei Herrenberg)–Karlsruhe Tullastraße (Stadtbahn Karlsruhe)
+  takt_haltepunkte: Zweistundentakt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnhaltepunkt
+BEZEICHNUNG: Bahnhaltepunkt Aach
+ORTSTEIL_BEZUG: Aach
+EIGENSCHAFTEN:
+  in_betrieb_seit: 2018
+  takt: Zweistundentakt
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2018
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bundesstraße
+BEZEICHNUNG: Bundesstraße 28
+EIGENSCHAFTEN:
+  ausführung: Umgehungsstraße außerhalb der Bebauung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: wirtschaft
+EIGENSCHAFTEN:
+  gewerbesteuereinnahmen_2022: 8,68 Millionen Euro
+  gewerbesteuerhebesatz: 355 %
+  gewerbesteuerhebesatz_deutschland_2023: 407 %
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2022
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Waldgeding Dornstetten
+EIGENSCHAFTEN:
+  ereignis: erste urkundliche Erwähnung
+  jahr: 767
+  quelle: Lorscher Codex
+  beschreibung: Dornstetter Waldgeding existierte auf dem heutigen Gemeindegebiet
+GUELTIG_AB: 767
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Stadterhebung Dornstetten
+EIGENSCHAFTEN:
+  ereignis: Ort zur Stadt erhoben
+  zeitraum: 1267-1276
+  grund: Erhebung durch Grafen von Urach-Fürstenberg
+GUELTIG_AB: 1267
+GUELTIG_BIS: 1276
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Territorialwechsel zu Württemberg
+EIGENSCHAFTEN:
+  ereignis: Stadt kam an Württemberg
+  jahr: 1320
+  grund: über Grafen von Hohenberg
+GUELTIG_AB: 1320
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Oberamtsstadt Dornstetten
+EIGENSCHAFTEN:
+  ereignis: Dornstetten Sitz des gleichnamigen Oberamts
+  gueltig_ab: 1755
+  gueltig_bis: 1807
+  grund_auflösung: Umsetzung neue Verwaltungsgliederung Königreich Württemberg
+  folge: Eingliederung in Oberamt Freudenstadt
+GUELTIG_AB: 1755
+GUELTIG_BIS: 1807
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Kreisreform Nationalsozialismus
+EIGENSCHAFTEN:
+  ereignis: Stadt gelangte zum Landkreis Freudenstadt
+  jahr: 1938
+  kontext: Kreisreform während Zeit des Nationalsozialismus in Württemberg
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Nachkriegsgeschichte Dornstetten
+EIGENSCHAFTEN:
+  ereignis_phase1: Nach Zweitem Weltkrieg in Französische Besatzungszone
+  ereignis_phase2: 1947 zum neu gegründeten Land Württemberg-Hohenzollern
+  ereignis_phase3: 1952 im Land Baden-Württemberg aufgegangen
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1952
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Gemeindefusion Dornstetten
+EIGENSCHAFTEN:
+  ereignis: Dornstetten vereinigte sich mit Aach und Hallwangen
+  datum: 1. Januar 1975
+  resultierend: neue Stadt Dornstetten
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
