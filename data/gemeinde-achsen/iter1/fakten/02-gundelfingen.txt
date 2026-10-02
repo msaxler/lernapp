@@ -1,0 +1,520 @@
+ID: 02-gundelfingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Gundelfingen
+EIGENSCHAFTEN:
+  lage_bundesland: Baden-Württemberg
+  lage_land: Deutschland
+  lage_region: Breisgau
+  entfernung_freiburg_km: 6
+  entfernung_freiburg_stadtgrenze_m: 850
+  einwohner: 12000
+  genauigkeit_einwohner: über
+  superlativ: größte Gemeinde im Landkreis Breisgau-Hochschwarzwald ohne Stadtrecht
+  benannt_nach: Gundolf
+  namensherkunft_deutung: alemannischer Anführer siedelte hier mit seinen Leuten
+  genauigkeit_namensherkunft: vermutlich
+  erste_urkundliche_erwaehnung: 1008
+  verwaltungsgemeinschaft_partner: Heuweiler
+  ortsteile: Wildtal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 02-gundelfingen/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wildtal
+ORTSTEIL_BEZUG: Wildtal
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1273
+  eingemeindung_jahr: 1972
+  eingemeindung_datum: 1. Januar 1972
+  einwohner_bei_eingemeindung: 1129
+  flaeche_km2: 7.07
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/003
+ENTITÄT: burg
+BEZEICHNUNG: Burg Zähringen
+ORTSTEIL_BEZUG: Wildtal
+EIGENSCHAFTEN:
+  status: Ruine
+  lage: in der Gemarkung Wildtal
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/004
+ENTITÄT: schule
+BEZEICHNUNG: Johann-Peter-Hebel Grundschule
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+  schueler_zahl: 500
+  genauigkeit_schueler: knapp
+  lehrkraefte_zahl: 40
+  genauigkeit_lehrkraefte: rund
+  gruendungsjahr: 1661 erster Schulmeister im Ort; die heutige Schule heißt seit 1957 so, ihr Gebäude ist von 1848
+  lage: Ortsmitte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+BERICHTIGT: 1661 ist das Jahr des ersten Schulmeisters, nicht die Gründung der heutigen Schule.
+---
+ID: 02-gundelfingen/005
+ENTITÄT: schule
+BEZEICHNUNG: Albert-Schweitzer Gymnasium
+EIGENSCHAFTEN:
+  schultyp: Gymnasium
+  abkuerzung: ASG
+  schueler_zahl: 709
+  schuljahr: 2024/2025
+  einzugsgebiet: Gundelfingen, Norden Freiburgs, March
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/006
+ENTITÄT: schule
+BEZEICHNUNG: Albert-Schweitzer Gemeinschaftsschule
+EIGENSCHAFTEN:
+  schultyp: Gemeinschaftsschule
+  beschreibung: direkt an ASG angeschlossen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/007
+ENTITÄT: schule
+BEZEICHNUNG: Friedrich-Fröbel Schule
+ORTSTEIL_BEZUG: Wildtal
+EIGENSCHAFTEN:
+  schultyp: Sonderpädagogisches Bildungs- und Beratungszentrum
+  foerderschwerpunkt: Lernen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/008
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Gundelfingen (evangelisch)
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  erste_erwaehnung: 1275
+  pfarrer_seit: 1556
+  grund_pfarrer: Einführung der Reformation in der Markgrafschaft Baden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/009
+ENTITÄT: kirchliche_gemeinschaft
+BEZEICHNUNG: Baptistengemeinschaft Gundelfingen
+EIGENSCHAFTEN:
+  konfession: Baptisten
+  gruendungsjahr: 1877
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/010
+ENTITÄT: kirche
+BEZEICHNUNG: Bruder-Klaus-Kirche
+EIGENSCHAFTEN:
+  konfession: katholisch
+  pfarrgemeinde: Bruder Klaus
+  nutzung_seit: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/011
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Gundelfingen (Breisgau)
+EIGENSCHAFTEN:
+  lage_bahnstrecke: Rheintalbahn Karlsruhe–Basel
+  verkehrsbetreiber: DB Regio, Breisgau-S-Bahn
+  linien: S2 (Elzach – Freiburg Hbf)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 02-gundelfingen/012
+ENTITÄT: strassenbahnhaltestelle
+BEZEICHNUNG: Gundelfinger Straße
+EIGENSCHAFTEN:
+  lage: südlicher Ortsrand
+  betrieb_seit: 2014
+  bedient_von_linie: Linie 3, Linie 2 (einzelne Fahrten)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/013
+ENTITÄT: unternehmen
+BEZEICHNUNG: Raiffeisenbank im Breisgau
+EIGENSCHAFTEN:
+  sitz: Gundelfingen
+  rolle: Hauptsitz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/014
+ENTITÄT: unternehmen
+BEZEICHNUNG: Gemeindewerke Gundelfingen GmbH
+EIGENSCHAFTEN:
+  eigentuemer: Gemeinde Gundelfingen (Hauptgesellschafter)
+  gruendungsdatum: 30. November 2001
+  sitz: Ortsmitte Gundelfingen
+  gesellschaftszweck: nachhaltige Versorgung mit Energie und Wasser
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/015
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Gundelfingen
+EIGENSCHAFTEN:
+  gruendung: 21. Januar 1994 Zusammenlegung der Wehren Gundelfingen (1942) und Wildtal (1946) zur Gesamtwehr
+  abteilungen: 2
+  abteilung_gundelfingen_gruendung: 10. Dezember 1942
+  abteilung_wildtal_gruendung: 4. April 1946
+  mitglieder: 73
+  mitglieder_stand: Ende 2021
+  frauen_mitglieder: 5
+  kommandant: Jens Lapp
+  jugendfeuerwehr_gruendung: 3. April 1992
+  jugendfeuerwehr_mitglieder: 35
+  jugendfeuerwehr_stand: 2021
+  altersmannschaft_gruendung: 1995
+  altersmannschaft_mitglieder: 17
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+BERICHTIGT: Am 21. Januar 1994 wurde die Feuerwehr nicht gegründet, sondern zur Gesamtwehr zusammengelegt.
+---
+ID: 02-gundelfingen/016
+ENTITÄT: sportverein
+BEZEICHNUNG: Turnverein Gundelfingen
+EIGENSCHAFTEN:
+  abkuerzung: TVG
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/017
+ENTITÄT: sportverein
+BEZEICHNUNG: Gundelfingen Turnerschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-gundelfingen/018
+ENTITÄT: sportverein
+BEZEICHNUNG: Spielvereinigung Gundelfingen Wildtal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-gundelfingen/019
+ENTITÄT: narrengruppe
+BEZEICHNUNG: Zunft der Gundelfinger Dorfhexen
+EIGENSCHAFTEN:
+  form: e. V.
+  festtyp: Badische Fasnet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/020
+ENTITÄT: narrengruppe
+BEZEICHNUNG: Fässlistemmer
+EIGENSCHAFTEN:
+  form: e. V.
+  festtyp: Badische Fasnet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/021
+ENTITÄT: person
+BEZEICHNUNG: Raphael Walz
+EIGENSCHAFTEN:
+  rolle: Bürgermeister
+  wahl_datum: 9. November 2014
+  wahl_ergebnis_prozent: 60
+  wahlgang: zweiter Wahlgang
+  wiederwahl_datum: 16. Oktober 2022
+  wiederwahl_ergebnis_prozent: 82.2
+  weitere_aemter: Bürgermeister von Heuweiler
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 02-gundelfingen/022
+ENTITÄT: person
+BEZEICHNUNG: Reinhardt Bentler
+EIGENSCHAFTEN:
+  rolle: Bürgermeister (früherer)
+  amtszeit: 1983-2015
+  weitere_aemter: Bürgermeister von Heuweiler
+GUELTIG_AB: 1983
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/023
+ENTITÄT: person
+BEZEICHNUNG: Paul von Hindenburg
+EIGENSCHAFTEN:
+  rolle: Ehrenbürger
+  ehrenbuergerschaft_erloschen: 1934
+  formale_aberkennung: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/024
+ENTITÄT: person
+BEZEICHNUNG: Oskar Schellenberg
+EIGENSCHAFTEN:
+  geburtsjahr: 1824
+  todesjahr: 1895
+  rolle: evangelischer Pfarrer und Dekan
+GUELTIG_AB: 1824
+GUELTIG_BIS: 1895
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/025
+ENTITÄT: person
+BEZEICHNUNG: Gustav Klaiber
+EIGENSCHAFTEN:
+  geburtsjahr: 1864
+  todesjahr: 1940
+  rolle: Kaufmann, Landwirt und Mitglied des Badischen Landtages
+GUELTIG_AB: 1864
+GUELTIG_BIS: 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/026
+ENTITÄT: person
+BEZEICHNUNG: Nikolai Kornhaß
+EIGENSCHAFTEN:
+  geburtsjahr: 1993
+  rolle: Para-Judoka
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/027
+ENTITÄT: person
+BEZEICHNUNG: Oliver Hein
+EIGENSCHAFTEN:
+  geburtsjahr: 1997
+  rolle: Volleyballspieler
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/028
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Meung-sur-Loire
+EIGENSCHAFTEN:
+  land: Frankreich
+  partnerschaften_seit: 1987
+  einwohner: 6800
+  lage: direkt an der Loire, etwa 30 km von Orléans entfernt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/029
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Bieruń
+EIGENSCHAFTEN:
+  land: Polen
+  deutsch_name: Berun
+  partnerschaften_seit: 1997
+  einwohner: 20000
+  lage: 20 km südlich von Kattowitz in Oberschlesien
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/030
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Scheibenberg
+EIGENSCHAFTEN:
+  land: Sachsen (Deutschland)
+  partnerschaften_seit: 1997
+  einwohner: 2400
+  genauigkeit_einwohner: knapp
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/031
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Ostroh
+EIGENSCHAFTEN:
+  land: Ukraine
+  ukrainischer_name: Острог
+  freundschaft_seit: Dezember 2025
+  partnerschaftstyp: Freundschaft (offiziell)
+  gemeinsame_partnergemeinde: Bieruń
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/032
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Gundelfingen
+EIGENSCHAFTEN:
+  vorderseite_element: roter Schrägbalken auf goldenem Hintergrund
+  vorderseite_bedeutung: einstige Zugehörigkeit zu Baden
+  rueckseite_element: silberne Tanne in silberner Einfriedung auf grünem Hintergrund
+  rueckseite_bedeutung: Besitz andeutet
+  historischer_bezug: alemannischer Fürst Gundolf besaß hier ein Stück Land
+  flagge_farben: grün und weiß
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/033
+ENTITÄT: ereignis
+BEZEICHNUNG: Herrschaftswechsel Gundelfingen 1218
+EIGENSCHAFTEN:
+  jahr: 1218
+  alter_herrscher: Zähringer
+  neuer_herrscher: Grafen von Freiburg
+GUELTIG_AB: 1218
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/034
+ENTITÄT: ereignis
+BEZEICHNUNG: Verkauf Gundelfingen 1327
+EIGENSCHAFTEN:
+  jahr: 1327
+  verkaeufer: Grafen von Freiburg
+  kaeufer: Schnewelin Bernlapp
+GUELTIG_AB: 1327
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/035
+ENTITÄT: ereignis
+BEZEICHNUNG: Verkauf Gundelfingen 1507
+EIGENSCHAFTEN:
+  jahr: 1507
+  verkaeufer: Herren von Blumegg
+  kaeufer: badischer Markgraf Christoph
+GUELTIG_AB: 1507
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/036
+ENTITÄT: ereignis
+BEZEICHNUNG: Zugehörigkeit Gundelfingen zur Markgrafschaft Baden-Hachberg
+EIGENSCHAFTEN:
+  zeitraum: 1584-1590
+GUELTIG_AB: 1584
+GUELTIG_BIS: 1590
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/037
+ENTITÄT: ereignis
+BEZEICHNUNG: Herrschaftswechsel Wildtal 1652
+EIGENSCHAFTEN:
+  jahr: 1652
+  neuer_herrscher: Freiherren von Beroldingen
+GUELTIG_AB: 1652
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-gundelfingen/038
+ENTITÄT: ereignis
+BEZEICHNUNG: Verkauf Wildtal 1788
+EIGENSCHAFTEN:
+  jahr: 1788
+  kaeufer: Graf Friedrich von Kageneck
+GUELTIG_AB: 1788
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-gundelfingen/039
+ENTITÄT: ereignis
+BEZEICHNUNG: Zuordnung Wildtal zum Großherzogtum Baden
+EIGENSCHAFTEN:
+  jahr: 1805
+  grund: Reichsdeputationshauptschluss
+GUELTIG_AB: 1805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-gundelfingen/040
+ENTITÄT: ereignis
+BEZEICHNUNG: Gebietsreform 1809
+EIGENSCHAFTEN:
+  jahr: 1809
+  folge: Gundelfingen kam zum Landamt Freiburg II
+GUELTIG_AB: 1809
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-gundelfingen/041
+ENTITÄT: ereignis
+BEZEICHNUNG: Landamtsreform 1819
+EIGENSCHAFTEN:
+  jahr: 1819
+  folge: Landamt Freiburg II mit Landamt Freiburg I vereinigt
+GUELTIG_AB: 1819
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-gundelfingen/042
+ENTITÄT: ereignis
+BEZEICHNUNG: Erster Weltkrieg in Gundelfingen
+EIGENSCHAFTEN:
+  zeitraum: Erster Weltkrieg
+  folgen: Mangel und Hunger trotz Selbstversorgermöglichkeiten
+  grund: landwirtschaftliche Erzeugnisse zur Versorgung Freiburgs herangezogen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+BERICHTIGT: Die Versorgung Freiburgs im Ersten Weltkrieg steht für Gundelfingen nur in Wikipedia; nur mit Vorbehalt verwenden.
+---
+ID: 02-gundelfingen/043
+ENTITÄT: ereignis
+BEZEICHNUNG: Abstimmung Wildtal zur Eingemeindung 1971
+EIGENSCHAFTEN:
+  jahr: 1971
+  ergebnis_prozent: 72
+  folge: Eingemeindung zum 1. Januar 1972
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+BERICHTIGT: Laut Gemeinde 72 Prozent, keine Dreiviertelmehrheit.
+BERICHTIGT: Die Angabe Dreiviertelmehrheit entfällt (72 Prozent).
+---
+ID: 02-gundelfingen/044
+ENTITÄT: ereignis
+BEZEICHNUNG: 1000-jähriges Jubiläum Gundelfingen
+EIGENSCHAFTEN:
+  jahr: 2008
+  grund: erste urkundliche Erwähnung 1008
+  feier: dreitägiges Fest mit großem Umzug
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/045
+ENTITÄT: ereignis
+BEZEICHNUNG: Aberkennung Paul von Hindenburg als Ehrenbürger
+EIGENSCHAFTEN:
+  jahr: 2021
+  beschluss: einstimmig formal aberkannt
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/046
+ENTITÄT: ereignis
+BEZEICHNUNG: Bürgerentscheid Straßenbahnverlängerung
+EIGENSCHAFTEN:
+  datum: 12. November 2023
+  ergebnis_prozent: 58
+  ergebnis_beschreibung: Ablehnung der Verlängerung
+  wahlbeteiligung_prozent: 61
+  geplante_strecke: vier Haltestellen entlang Alter Bundesstraße und Waldstraße
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/047
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Fahrradverleihsystem Frelo
+EIGENSCHAFTEN:
+  betrieb_seit: 2021
+  stationen_insgesamt: 4
+  stationen_gundelfingen: 3
+  stationen_wildtal: 1
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

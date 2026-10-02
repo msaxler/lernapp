@@ -1,0 +1,593 @@
+ID: 06-glottertal/001
+ENTITÄT: ort
+BEZEICHNUNG: Glottertal
+EIGENSCHAFTEN:
+  ist_gemeinde: true
+  landkreis: Breisgau-Hochschwarzwald
+  bundesland: Baden-Württemberg
+  lage_region: Mittlerer Schwarzwald, Übergang zum Südschwarzwald, nahe Freiburg im Breisgau
+  hoehe_min: 280 m ü. NN
+  hoehe_max: 1241 m ü. NN
+  erste_erwaehnung: 1112
+  erste_erwaehnung_quelle: Güterbeschreibung des Klosters St. Peter (Rotulus Sanpetrinus)
+  gemeindegliederung: 67 Dörfer, Weiler, Zinken, Höfe und Häuser
+  gebuender_gemeinden_1970: Föhrental, Oberglottertal, Ohrensbach, Unterglottertal
+  histor_vogtrechte_ausueber: Grafen von Freiburg, dann Schwarzenberger
+  histor_herrschaft: 1567-1805 Kameralherrschaft Kastelberg-Schwarzenberg (vorderösterreich)
+  histor_zuordnung_1805: Kurfürstentum Baden (Großherzogtum erst 1806)
+  histor_bezirksamt_1: Waldkirch
+  histor_bezirksamt_2: ab 1936 Freiburg
+GUELTIG_AB: 1112
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+BERICHTIGT: 1805 war Baden Kurfürstentum, Großherzogtum erst 1806.
+---
+ID: 06-glottertal/002
+ENTITÄT: berg
+BEZEICHNUNG: Kandel
+EIGENSCHAFTEN:
+  hoehe: 1241 m ü. NN
+  lage_relative: Grenze Glottertal-Simonswald-Waldkirch
+  liegt_im_glottertal: ja
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 06-glottertal/003
+ENTITÄT: berg
+BEZEICHNUNG: Roßkopf
+EIGENSCHAFTEN:
+  lage_relative: östliche Begrenzung des Glottertals
+  grenzungsgebilde: begrenzt Glottertal zusammen mit Ausläufern des Kandelmassivs
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-glottertal/004
+ENTITÄT: fluss
+BEZEICHNUNG: Glotter
+EIGENSCHAFTEN:
+  fliesst_durch: Glottertal
+  lage_relative: südlich des Elztals
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 06-glottertal/005
+ENTITÄT: nachbar_gemeinde
+BEZEICHNUNG: Heuweiler
+EIGENSCHAFTEN:
+  richtung: Westen
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 06-glottertal/006
+ENTITÄT: nachbar_gemeinde
+BEZEICHNUNG: Denzlingen
+EIGENSCHAFTEN:
+  richtung: Westen
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 06-glottertal/007
+ENTITÄT: nachbar_gemeinde
+BEZEICHNUNG: St. Peter
+EIGENSCHAFTEN:
+  richtung: Osten
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 06-glottertal/008
+ENTITÄT: nachbar_gemeinde
+BEZEICHNUNG: Simonswald
+EIGENSCHAFTEN:
+  richtung: auf dem Kandelgipfel
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 06-glottertal/009
+ENTITÄT: nachbar_gemeinde
+BEZEICHNUNG: Waldkirch
+EIGENSCHAFTEN:
+  richtung: auf dem Kandelgipfel
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 06-glottertal/010
+ENTITÄT: nachbar_gemeinde
+BEZEICHNUNG: Freiburg im Breisgau
+EIGENSCHAFTEN:
+  richtung: südlich und westlich des Roßkopfs
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 06-glottertal/011
+ENTITÄT: nachbar_gemeinde
+BEZEICHNUNG: Gundelfingen
+EIGENSCHAFTEN:
+  richtung: südlich und westlich des Roßkopfs
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 06-glottertal/012
+ENTITÄT: nachbar_gemeinde
+BEZEICHNUNG: Stegen
+EIGENSCHAFTEN:
+  richtung: südlich und westlich des Roßkopfs
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 06-glottertal/013
+ENTITÄT: ortsteil
+BEZEICHNUNG: Föhrental
+EIGENSCHAFTEN:
+  ehemals_eigenstaendige_gemeinde: true
+  vereinigt_mit: Glottertal am 1. Januar 1970
+GUELTIG_AB:
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 06-glottertal/014
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberglottertal
+EIGENSCHAFTEN:
+  ehemals_eigenstaendige_gemeinde: true
+  vereinigt_mit: Glottertal am 1. Januar 1970
+GUELTIG_AB:
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 06-glottertal/015
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ohrensbach
+EIGENSCHAFTEN:
+  ehemals_eigenstaendige_gemeinde: true
+  vereinigt_mit: Glottertal am 1. Januar 1970
+GUELTIG_AB:
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 06-glottertal/016
+ENTITÄT: ortsteil
+BEZEICHNUNG: Unterglottertal
+EIGENSCHAFTEN:
+  ehemals_eigenstaendige_gemeinde: true
+  vereinigt_mit: Glottertal am 1. Januar 1970
+  hoehe: 280 m ü. NN
+GUELTIG_AB:
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 06-glottertal/017
+ENTITÄT: buergermeister
+BEZEICHNUNG: Karl Josef Herbstritt
+EIGENSCHAFTEN:
+  partei: CDU
+  wahl_2014_stimmen_prozent: 54.6
+  vorgaenger: Eugen Jehle
+  vorgaenger_grund: Erkrankung nach drei Amtszeiten
+  wahl_2022_stimmen_prozent: 87.1
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 06-glottertal/018
+ENTITÄT: buergermeister
+BEZEICHNUNG: Eugen Jehle
+EIGENSCHAFTEN:
+  partei: CDU
+  amtszeiten: 3
+  grund_amtsende: Erkrankung
+GUELTIG_AB:
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-glottertal/019
+ENTITÄT: abstimmung
+BEZEICHNUNG: Bürgerbefragung Windkraft
+EIGENSCHAFTEN:
+  datum: 10. Juli 2011
+  fuer_prozent: 55
+  dagegen_prozent: 45
+  thema: Akzeptanz von Windkraft
+  initiator: Glottertäler Gemeinderat
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 06-glottertal/020
+ENTITÄT: schule
+BEZEICHNUNG: Schurhammerschule
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+  liegt_in: Glottertal
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 06-glottertal/021
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Weinbau Glottertal
+EIGENSCHAFTEN:
+  aeltester_nachweis: um 1580
+  erster_nachweis_kontext: Reben im Zusammenhang mit Schloss Winterbach
+  bluetenzeit: zweite Haelfte 19. Jahrhundert
+  hoechster_weinberg: Wuspenhof
+  hoechste_hoehe_weinberg: 720 m ü. NN im 19. Jahrhundert (steht nur in Wikipedia); heute reichen die Lagen bis 500 m
+  superlativ_hoehe: einmalig deutschlandweit
+  ende_ausbreitung: Ende 19. Jahrhundert
+  grund_ende: Rebkrankheiten (Peronospora, Oidium) und Reblaus
+  heutige_flaeche: ca. 58 ha
+  stabilisierung_flaeche: Ende 1950er Jahre
+  hangneigung_max: 70 Grad
+  handarbeit_anteil: 90 Prozent
+GUELTIG_AB: 1580
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+BERICHTIGT: Der Weinberg auf 720 m ist Geschichte, kein heutiger Stand; kein Höhenvergleich mit anderen Orten (für Glottertal nennen die Quellen 306 bis 403 m).
+---
+ID: 06-glottertal/022
+ENTITÄT: winzergenossenschaft
+BEZEICHNUNG: Winzergenossenschaft Glottertal
+EIGENSCHAFTEN:
+  gegruendet: 1951
+  folge_massnahme: Rebenaufbauplan 1958
+  aenderung: Umstellung auf sortenreine Bepflanzung
+GUELTIG_AB: 1951
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-glottertal/023
+ENTITÄT: weinlage
+BEZEICHNUNG: Roter Bur
+EIGENSCHAFTEN:
+  liegt_auf: Eichberg
+  gesetzlich_geschuetzt: true
+  qualitaet: besonders qualitätsvoll
+  namensursprung: Rotburenhof
+  namensursprung_grund: gehörten die besten Parzellen dem Rotburenhof
+  heute_eigentuemer: Winzergenossenschaft
+  merkmale: geringe Erträge, gutes Kleinlima, optimale Sonneneinstrahlung, Wärmespeicherung
+  verkaufsgebiet: bundesweit, Endverbraucher, Gastronomie, Fach- und Einzelhandel
+GUELTIG_AB: 1835
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 06-glottertal/024
+ENTITÄT: weinlage
+BEZEICHNUNG: Eichberg
+EIGENSCHAFTEN:
+  liegt_im: Glottertal
+  umfasst: alle übrigen Weinberge des Tales außer Roter Bur
+  roedung_beginn: um 1835
+  roedung_initiator: Ohrensbacher Bauern
+GUELTIG_AB: 1835
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-glottertal/025
+ENTITÄT: wein_tradition
+BEZEICHNUNG: Scheffelwein
+EIGENSCHAFTEN:
+  benannt_nach: Viktor von Scheffel (Dichter)
+  anlass_ehrung: Scheffel war 1881 zur Kur in Bad Dürrheim und genoss einen Roten Bur beim Löwenwirt zu Rietheim bei Villingen
+  frueherer_name: alter Glottertäler
+  zeit_produktion_original: vor 1971
+  zusammensetzung_alt: 60% Spätburgunder, 30% Ruländer, 10% Gewürztraminer
+  grund_mischung: Ertragssicherung, altes Rebmaterial nicht so ertragssicher
+  verarbeitung: zusammen gelesen und gekeltert
+  charakteristikum: besonderer geschmacklicher Reiz
+  heutige_quelle: Reste alter Rebanlagen
+  ausbau_heutig: Holzfass
+GUELTIG_AB: 1881
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 06-glottertal/026
+ENTITÄT: rebsorten_struktur
+BEZEICHNUNG: Rebsortenmischung Glottertal Gegenwart
+EIGENSCHAFTEN:
+  spaetburgunder: 80 Prozent
+  grauburgunder: 12 Prozent
+  mueller_thurgau: 5 Prozent
+  gewuerztraminer: 2 Prozent
+  riesling: 1 Prozent
+  muskateller: Kleinstmengen
+  weisser_burgunder: Kleinstmengen, steigende Tendenz
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 06-glottertal/027
+ENTITÄT: klinik
+BEZEICHNUNG: Thure-von-Uexküll-Klinik
+EIGENSCHAFTEN:
+  spezialisierung: Psychosomatik und Psychotherapie
+  untergebracht_in_gebaeude: Carlsbau
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-glottertal/028
+ENTITÄT: klinik
+BEZEICHNUNG: Rehaklinik Glotterbad
+EIGENSCHAFTEN:
+  spezialisierung: Psychosomatik, Psychotherapeutische Medizin und Innere Medizin
+  ist_fachklinik: true
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-glottertal/029
+ENTITÄT: gebaeude
+BEZEICHNUNG: Carlsbau
+EIGENSCHAFTEN:
+  historische_funktion: bis 1960 Sanatorium für wohlhabende Kurgäste, danach Kurklinik der Landesversicherungsanstalt Württemberg
+  beruehmtheit_grund: Außenkulisse für Fernsehserie Die Schwarzwaldklinik
+  fernsehserie: Die Schwarzwaldklinik
+  drehzeit_schwarzwaldklinik: Mitte 1980er Jahre
+  effekt_drehort: wurde zu beliebtem Ziel des Fantourismus
+  status_2004: Leerstand von rund zehn Jahren vor 2014 gesichert; das Jahr 2004 nennt nur Wikipedia (Klinikbetreiber: Rehabetrieb bis 2005)
+  verkauf: 2013 an Kur und Reha GmbH des Paritätischen Wohlfahrtsverbandes
+  eroefffnung_akutklinik: 2014
+  akutklinik_typ: psychosomatische Akutklinik
+  weitere_drehs: Familienserie Tiere bis unters Dach seit 2009
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+BERICHTIGT: Ohne Zeitbezug ist ein Haus für wohlhabende Gäste nicht sicher falsch; die Funktion nur mit Zeitbezug nennen.
+BERICHTIGT: Den Leerstand nicht an das Jahr 2004 binden.
+---
+ID: 06-glottertal/030
+ENTITÄT: muehle
+BEZEICHNUNG: Hilzingermühle
+EIGENSCHAFTEN:
+  superlativ: älteste Mühle im Landkreis Breisgau-Hochschwarzwald
+  erbaet: 1621
+  erbauer: Johann Hilzinger (damaliger Hilzingerhofbauer)
+  funktion: Getreidemühle
+  verwendungsdauer: über die Jahrhunderte hinweg
+GUELTIG_AB: 1621
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 06-glottertal/031
+ENTITÄT: wirtschaftszweig_historisch
+BEZEICHNUNG: Bergbau Glottertal
+EIGENSCHAFTEN:
+  zeit_bedeutung: Mittelalter
+  abgebaute_materialien: Blei-Silbererze, Eisenerze
+  bergwerk_bezeichnung: Herzogenberg
+  bergwerk_bezug_berg: Eichberg
+  bergwerk_verbindung: Herzöge von Zähringen hatten wahrscheinlich Bergrechte, genauigkeit: vermutlich
+  herzog_aussterben: 1218
+  bluetenzeit: zweite Haelfte 13. Jahrhundert
+  historische_bedeutung: wohlhabende Gegend des Schwarzwaldes
+  abtauperiode: 14. Jahrhundert
+  erneuerte_versuche: frueher 16. Jahrhundert, ohne großen Erfolg
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-glottertal/032
+ENTITÄT: technik_denkmal
+BEZEICHNUNG: Urgraben
+EIGENSCHAFTEN:
+  zeit_errichtung: 13. Jahrhundert
+  superlativ: eines der bedeutendsten Denkmäler der Technikgeschichte
+  technik: erste mechanische Wasserhebewerke in Mitteleuropa
+  liegt_im_glottertal: ja
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 06-glottertal/033
+ENTITÄT: gebaeude_schloss
+BEZEICHNUNG: Schloss Winterbach
+EIGENSCHAFTEN:
+  historische_erwaehnung: um 1580 im Kontext mit Weinbau
+  funktion_historisch: ehemaliges Schloss
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 06-glottertal/034
+ENTITÄT: orchester
+BEZEICHNUNG: Trachtenkapelle Glottertal
+EIGENSCHAFTEN:
+  typ: sinfonisches Blasorchester
+  auftritte: zahlreiche Auftritte im In- und Ausland
+  weihnachtskonzert_termin: 25. Dezember
+  lichterkonzert: weiterer Termin vor Silvester
+  musik_hock: erstes Sommerferienwochenende im zweijährigen Rhythmus
+  musik_hock_zusatz: mit Schleppertreffen
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 06-glottertal/035
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Fremdenverkehr Glottertal
+EIGENSCHAFTEN:
+  bedeutung: wichtiger Wirtschaftszweig
+  bettenanzahl: 835 (Gemeinde, 2024)
+  uebernachtungen_jaehrlich: 165.896 (Gemeinde, 2024)
+  gastronomie_ruf: guter Ruf in der Region
+  zielgruppe: Städter aus Freiburg und Emmendingen
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+BERICHTIGT: „Knapp 1000 Betten“ ist veraltet.
+BERICHTIGT: Stand der Gemeinde für 2024.
+---
+ID: 06-glottertal/036
+ENTITÄT: strasse_tourist
+BEZEICHNUNG: Schwarzwald-Panoramastraße
+EIGENSCHAFTEN:
+  verlaeuft_durch: Glottertal
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 06-glottertal/037
+ENTITÄT: strasse_tourist
+BEZEICHNUNG: Badische Weinstraße
+EIGENSCHAFTEN:
+  verlaeuft_durch: Glottertal
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 06-glottertal/038
+ENTITÄT: strasse_landes
+BEZEICHNUNG: Landesstraße 112
+EIGENSCHAFTEN:
+  verlauf_von: Denzlingen
+  verlauf_nach: St. Peter
+  verlaeuft_durch: Glottertal
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 06-glottertal/039
+ENTITÄT: strasse_kreis
+BEZEICHNUNG: Kreisstraße nach Föhrental
+EIGENSCHAFTEN:
+  abzweigung_von: Landesstraße 112
+  abzweigung_ort: Unterglottertal
+  ziel: Föhrental
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-glottertal/040
+ENTITÄT: busverbindung
+BEZEICHNUNG: Buslinie 7205
+EIGENSCHAFTEN:
+  betreiber: Südbadenbus GmbH
+  start: Glottertal
+  ziel: Bahnhof Denzlingen
+  haeufigkeit: halbstündlich
+  anschluss: S-Bahn nach Freiburg
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 06-glottertal/041
+ENTITÄT: busverbindung
+BEZEICHNUNG: Buslinie nach St. Peter
+EIGENSCHAFTEN:
+  start: Glottertal
+  ziel: St. Peter
+  haeufigkeit: stündlich
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-glottertal/042
+ENTITÄT: busverbindung
+BEZEICHNUNG: Buslinie auf den Kandel
+EIGENSCHAFTEN:
+  start: Glottertal
+  ziel: Kandel
+  haeufigkeit: stündlich
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-glottertal/043
+ENTITÄT: person
+BEZEICHNUNG: Maria Theresia Weber
+EIGENSCHAFTEN:
+  geburt: 1822
+  tod: 1848
+  titel: Geistliche Mutter
+  funktion: Gründerin der Kostbar-Blut-Gemeinschaften
+  gemeinschaften_orte: Steinerberg und Seelisberg
+  herkunft: Söhne und Töchter der Gemeinde Glottertal
+GUELTIG_AB: 1822
+GUELTIG_BIS: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-glottertal/044
+ENTITÄT: person
+BEZEICHNUNG: Timo Wehrle
+EIGENSCHAFTEN:
+  geburt: 1996
+  beruf: Fußballspieler
+  herkunft: Söhne und Töchter der Gemeinde Glottertal
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-glottertal/045
+ENTITÄT: person
+BEZEICHNUNG: Viktor von Scheffel
+EIGENSCHAFTEN:
+  beruf: Dichter
+  ereignis: 1881 zur Kur in Bad Dürrheim
+  verbindung_glottertal: schrieb Gedicht auf Roten Bur vom Löwenwirt Rietheim
+  gedicht_anfang: Gott geb allen Menschen ein Streben nach Wahrheit...
+  folge: Wine Scheffelwein benannt nach ihm
+GUELTIG_AB: 1881
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-glottertal/046
+ENTITÄT: person
+BEZEICHNUNG: Johann Hilzinger
+EIGENSCHAFTEN:
+  beruf: Hilzingerhofbauer
+  aktion: errichtete 1621 die Hilzingermühle
+  zeit_tätigkeit: 17. Jahrhundert
+GUELTIG_AB: 1621
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 06-glottertal/047
+ENTITÄT: fund_kulturdenkmal
+BEZEICHNUNG: Münzschatz von Glottertal
+EIGENSCHAFTEN:
+  beschreibung: siehe Artikel Münzschatz von Glottertal
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 06-glottertal/048
+ENTITÄT: fernsehserie
+BEZEICHNUNG: Die Schwarzwaldklinik
+EIGENSCHAFTEN:
+  charakter: erfolgreiche Fernsehserie
+  drehzeit: Mitte 1980er Jahre
+  drehort_glottertal: Carlsbau
+  drehort_region: Schwarzwald, allvoran Glottertal
+  effekt: wurde zu beliebtem Ziel des Fantourismus
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 06-glottertal/049
+ENTITÄT: fernsehserie
+BEZEICHNUNG: Tiere bis unters Dach
+EIGENSCHAFTEN:
+  charakter: Familienserie
+  drehstart: 2009
+  drehschauplatz: Glottertal, Carlsbau und Umgebung
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

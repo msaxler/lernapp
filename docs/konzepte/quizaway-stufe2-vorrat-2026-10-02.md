@@ -1,6 +1,6 @@
 # QuizAway — Stufe 2, Vorrat Raum Freiburg nach drei Läufen
 
-**Erzeugt am 2026-10-02** mit `scripts/data-build/gemeinde_achsen_vorrat.py` aus den geprüften Fassungen der drei Kartenläufe (`data/gemeinde-achsen/iter1/karten-geprueft/`). Regel (Mike, 2026-10-02): Tragen zwei Läufe denselben Fakt, bleibt die Karte aus dem dritten Lauf; gesperrte Karten sind nicht im Vorrat. Welche Karte welche ersetzt, steht in `data/gemeinde-achsen/iter1/vorrat.json` und hier am Ende jedes Orts.
+**Erzeugt am 2026-10-02** mit `scripts/data-build/gemeinde_achsen_vorrat.py` aus den geprüften Fassungen der drei Kartenläufe (`data/gemeinde-achsen/iter1/karten-geprueft/`). Regel (Mike, 2026-10-02): Tragen zwei Läufe denselben Fakt, bleibt die Karte aus dem dritten Lauf; gesperrte Karten sind nicht im Vorrat. Welche Karte welche ersetzt, ergibt die Abfrage über `data/gemeinde-achsen/iter1/karten-fakt.json` (jede Karte ist an ihren Fakt gebunden) und steht hier am Ende jedes Orts.
 
 **So geht es:** wie beim Blatt davor. Was im Vorrat bleiben soll, bleibt unangekreuzt; nur ankreuzen, was gestrichen werden soll. Neu sind die Karten mit dem Vermerk „dritter Lauf"; die übrigen kennst du aus den beiden ersten Blättern. Der Kartensatz für den Tisch bleibt, wie er ist.
 
@@ -17,10 +17,10 @@
 | St. Peter | 14 | 6 | 7 | 3 | 0 | 0 |
 | Glottertal | 15 | 5 | 9 | 4 | 0 | 0 |
 | Kirchzarten | 13 | 5 | 10 | 7 | 0 | 0 |
-| Günterstal | 12 | 4 | 9 | 7 | 0 | 1 |
+| Günterstal | 12 | 4 | 9 | 6 | 1 | 1 |
 | Horben | 12 | 4 | 7 | 2 | 2 | 1 |
 | Staufen | 12 | 5 | 10 | 8 | 0 | 0 |
-| **zusammen** | **129** | **48** | **85** | **49** | **2** | **6** |
+| **zusammen** | **129** | **48** | **85** | **48** | **3** | **6** |
 
 ---
 
@@ -180,14 +180,14 @@
 
 **Ersetzt** (derselbe Fakt steht in einer neueren Karte):
 
-- erster Lauf 1 → dritter Lauf 1: Namensherkunft
-- zweiter Lauf 1 → dritter Lauf 1: Namensherkunft
-- erster Lauf 2 → dritter Lauf 5: Gemeindereform 1974
-- zweiter Lauf 5 → dritter Lauf 5: Gemeindereform 1974
-- erster Lauf 3 → dritter Lauf 9: Patronatsrecht
-- zweiter Lauf 4 → dritter Lauf 4: zweitstärkste Partei
-- zweiter Lauf 6 → dritter Lauf 6: Landkreis
-- zweiter Lauf 7 → dritter Lauf 7: Rennfahrer-Prinzen
+- erster Lauf 1 → dritter Lauf 1: Umkirch: namensherkunft (`01-umkirch/001.namensherkunft`)
+- zweiter Lauf 1 → dritter Lauf 1: Umkirch: namensherkunft (`01-umkirch/001.namensherkunft`)
+- zweiter Lauf 4 → dritter Lauf 4: Bundestagswahl 2025, zweitstärkste Partei (`01-umkirch/G.wahl_btw25.zweite`)
+- erster Lauf 2 → dritter Lauf 5: Gemeindereform Baden-Württemberg (`01-umkirch/016`)
+- zweiter Lauf 5 → dritter Lauf 5: Gemeindereform Baden-Württemberg (`01-umkirch/016`)
+- zweiter Lauf 6 → dritter Lauf 6: Landkreis (`01-umkirch/G.landkreis`)
+- zweiter Lauf 7 → dritter Lauf 7: Ferfried Prinz von Hohenzollern (`01-umkirch/056`)
+- erster Lauf 3 → dritter Lauf 9: Mariä Himmelfahrt (`01-umkirch/008`)
 
 ---
 
@@ -376,11 +376,11 @@
 
 **Ersetzt** (derselbe Fakt steht in einer neueren Karte):
 
-- erster Lauf 2 → dritter Lauf 7: Bürgerentscheid Straßenbahn
-- zweiter Lauf 5 → dritter Lauf 7: Bürgerentscheid Straßenbahn
-- zweiter Lauf 2 → dritter Lauf 2: Ersterwähnung
-- zweiter Lauf 3 → dritter Lauf 1: evangelische Kirche seit der Reformation
-- zweiter Lauf 7 → dritter Lauf 5: Hindenburgs Ehrenbürgerschaft
+- zweiter Lauf 3 → dritter Lauf 1: Kirche Gundelfingen (evangelisch) (`02-gundelfingen/008`)
+- zweiter Lauf 2 → dritter Lauf 2: Jahr der ersten Erwähnung (`02-gundelfingen/G.ersterwaehnung`)
+- zweiter Lauf 7 → dritter Lauf 5: Paul von Hindenburg (`02-gundelfingen/023`)
+- erster Lauf 2 → dritter Lauf 7: Bürgerentscheid Straßenbahnverlängerung (`02-gundelfingen/046`)
+- zweiter Lauf 5 → dritter Lauf 7: Bürgerentscheid Straßenbahnverlängerung (`02-gundelfingen/046`)
 
 ---
 
@@ -594,8 +594,8 @@
 
 **Ersetzt** (derselbe Fakt steht in einer neueren Karte):
 
-- erster Lauf 2 → dritter Lauf 1: St.-Josefs-Kirche aus Emmendingen
-- zweiter Lauf 1 → dritter Lauf 1: St.-Josefs-Kirche aus Emmendingen
+- erster Lauf 2 → dritter Lauf 1: St.-Josefs-Kirche (`03-denzlingen/039`)
+- zweiter Lauf 1 → dritter Lauf 1: St.-Josefs-Kirche (`03-denzlingen/039`)
 
 **Gesperrt nach Faktencheck:**
 
@@ -774,9 +774,9 @@
 
 **Ersetzt** (derselbe Fakt steht in einer neueren Karte):
 
-- erster Lauf 1 → zweiter Lauf 1: Anlass der Ersterwähnung 1008
-- zweiter Lauf 4 → dritter Lauf 4: Wahlergebnis (v0.5 nur für ganz Freiburg, v0.6 für den Stadtbezirk)
-- zweiter Lauf 6 → dritter Lauf 6: Eingemeindung
+- erster Lauf 1 → zweiter Lauf 1: Dorf Zähringen (`04-zaehringen/003`)
+- zweiter Lauf 4 → dritter Lauf 4: Bundestagswahl 2025, zweitstärkste Partei (`04-zaehringen/G.wahl_btw25.zweite`)
+- zweiter Lauf 6 → dritter Lauf 6: Jahr der Eingemeindung (`04-zaehringen/G.eingemeindung`)
 
 **Gesperrt nach Faktencheck:**
 
@@ -983,9 +983,9 @@
 
 **Ersetzt** (derselbe Fakt steht in einer neueren Karte):
 
-- zweiter Lauf 1 → dritter Lauf 1: Färber-Ginster
-- zweiter Lauf 5 → dritter Lauf 5: Georg von Sachsen
-- zweiter Lauf 7 → dritter Lauf 7: Schwarzwaldmädel
+- zweiter Lauf 1 → dritter Lauf 1: Färber-Ginster-Handel (`05-st-peter/061`)
+- zweiter Lauf 5 → dritter Lauf 5: Georg von Sachsen (`05-st-peter/050`)
+- zweiter Lauf 7 → dritter Lauf 7: Schwarzwaldmädel (`05-st-peter/054`)
 
 ---
 
@@ -1201,10 +1201,10 @@
 
 **Ersetzt** (derselbe Fakt steht in einer neueren Karte):
 
-- erster Lauf 1 → zweiter Lauf 7: Bergbau
-- erster Lauf 3 → dritter Lauf 5: Scheffelwein
-- zweiter Lauf 5 → dritter Lauf 5: Scheffelwein
-- zweiter Lauf 2 → dritter Lauf 2: Einwohner
+- zweiter Lauf 2 → dritter Lauf 2: Einwohnerzahl (`06-glottertal/G.einwohner`)
+- erster Lauf 3 → dritter Lauf 5: Scheffelwein (`06-glottertal/025`)
+- zweiter Lauf 5 → dritter Lauf 5: Scheffelwein (`06-glottertal/025`)
+- erster Lauf 1 → zweiter Lauf 7: Bergbau Glottertal (`06-glottertal/031`)
 
 ---
 
@@ -1392,13 +1392,13 @@
 
 **Ersetzt** (derselbe Fakt steht in einer neueren Karte):
 
-- erster Lauf 1 → dritter Lauf 3: Herrschaftswechsel 1805
-- zweiter Lauf 3 → dritter Lauf 3: Herrschaftswechsel 1805
-- erster Lauf 3 → dritter Lauf 7: Bürgerentscheid Mountainbike-Gelände
-- zweiter Lauf 7 → dritter Lauf 7: Bürgerentscheid Mountainbike-Gelände
-- zweiter Lauf 1 → dritter Lauf 8: Tarodunon
-- zweiter Lauf 4 → dritter Lauf 4: zweitstärkste Partei
-- zweiter Lauf 5 → dritter Lauf 1: Markenhof
+- zweiter Lauf 5 → dritter Lauf 1: Markenhof (`07-kirchzarten/050`)
+- erster Lauf 1 → dritter Lauf 3: ortsgeschichte (`07-kirchzarten/006`)
+- zweiter Lauf 3 → dritter Lauf 3: ortsgeschichte (`07-kirchzarten/006`)
+- zweiter Lauf 4 → dritter Lauf 4: Bundestagswahl 2025, zweitstärkste Partei (`07-kirchzarten/G.wahl_btw25.zweite`)
+- erster Lauf 3 → dritter Lauf 7: bürgerentscheid (`07-kirchzarten/016`)
+- zweiter Lauf 7 → dritter Lauf 7: bürgerentscheid (`07-kirchzarten/016`)
+- zweiter Lauf 1 → dritter Lauf 8: keltisches oppidum (`07-kirchzarten/004`)
 
 ---
 
@@ -1572,13 +1572,16 @@
 
 **Ersetzt** (derselbe Fakt steht in einer neueren Karte):
 
-- erster Lauf 1 → dritter Lauf 1: Schauinsland auf Günterstäler Gemarkung
-- zweiter Lauf 5 → dritter Lauf 1: Schauinsland auf Günterstäler Gemarkung
-- erster Lauf 2 → dritter Lauf 5: südlichste Straßenbahnhaltestelle
-- zweiter Lauf 1 → dritter Lauf 5: südlichste Straßenbahnhaltestelle
-- zweiter Lauf 4 → dritter Lauf 4: Wahlergebnis (v0.5 nur für ganz Freiburg, v0.6 für den Stadtbezirk)
-- zweiter Lauf 6 → dritter Lauf 6: Eingemeindung
-- zweiter Lauf 7 → dritter Lauf 8: Waldtraut
+- erster Lauf 1 → dritter Lauf 1: Schauinsland (`08-guenterstal/002`)
+- zweiter Lauf 5 → dritter Lauf 1: Schauinsland (`08-guenterstal/002`)
+- erster Lauf 2 → dritter Lauf 5: Straßenbahn Linie 2 (`08-guenterstal/037`)
+- zweiter Lauf 1 → dritter Lauf 5: Straßenbahn Linie 2 (`08-guenterstal/037`)
+- zweiter Lauf 6 → dritter Lauf 6: Jahr der Eingemeindung (`08-guenterstal/G.eingemeindung`)
+- zweiter Lauf 7 → dritter Lauf 8: Waldtraut vom Mühlwald (`08-guenterstal/054`)
+
+**Aus dem Vorrat genommen:**
+
+- zweiter Lauf 4: Wahlergebnis für ganz Freiburg, nicht für den Stadtbezirk; den Stadtbezirk trägt dritter Lauf Karte 4 (Wahlbeteiligung)
 
 **Gesperrt nach Faktencheck:**
 
@@ -1756,8 +1759,8 @@
 
 **Ersetzt** (derselbe Fakt steht in einer neueren Karte):
 
-- zweiter Lauf 5 → dritter Lauf 1: Bohrer-Bach
-- zweiter Lauf 6 → dritter Lauf 6: Kennzeichen
+- zweiter Lauf 5 → dritter Lauf 1: Bohrer-Bach (`09-horben/005`)
+- zweiter Lauf 6 → dritter Lauf 6: Kennzeichen (`09-horben/G.kfz`)
 
 **Aus dem Vorrat genommen:**
 
@@ -1941,14 +1944,14 @@
 
 **Ersetzt** (derselbe Fakt steht in einer neueren Karte):
 
-- erster Lauf 1 → dritter Lauf 3: Herren von Staufen und die Hohenstaufen
-- zweiter Lauf 7 → dritter Lauf 3: Herren von Staufen und die Hohenstaufen
-- erster Lauf 2 → dritter Lauf 5: Schlossberg ist kein Vulkan
-- zweiter Lauf 3 → dritter Lauf 5: Schlossberg ist kein Vulkan
-- erster Lauf 3 → dritter Lauf 6: Partnerstadt Bonneville
-- zweiter Lauf 1 → dritter Lauf 7: Faust als Goldmacher
-- zweiter Lauf 4 → dritter Lauf 4: zweitstärkste Partei
-- zweiter Lauf 5 → dritter Lauf 1: Hebungsrisse
+- zweiter Lauf 5 → dritter Lauf 1: Hebungsrisse Staufen (`10-staufen/106`)
+- erster Lauf 1 → dritter Lauf 3: Herren von Staufen (`10-staufen/006`)
+- zweiter Lauf 7 → dritter Lauf 3: Herren von Staufen (`10-staufen/006`)
+- zweiter Lauf 4 → dritter Lauf 4: Bundestagswahl 2025, zweitstärkste Partei (`10-staufen/G.wahl_btw25.zweite`)
+- erster Lauf 2 → dritter Lauf 5: Schlossberg (`10-staufen/002`)
+- zweiter Lauf 3 → dritter Lauf 5: Schlossberg (`10-staufen/002`)
+- erster Lauf 3 → dritter Lauf 6: Partnerstadt (`10-staufen/G.partnerstaedte`)
+- zweiter Lauf 1 → dritter Lauf 7: Johann Georg Faust (`10-staufen/050`)
 
 ---
 

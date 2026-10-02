@@ -1,0 +1,733 @@
+ID: 09-horben/001
+ENTITÄT: ort
+BEZEICHNUNG: Horben
+EIGENSCHAFTEN:
+  ist_gemeinde: true
+  ist_dorf: true
+  landkreis: Breisgau-Hochschwarzwald
+  bundesland: Baden-Württemberg
+  lage: "direkte Nachbarschaft zur Stadt Freiburg, am Fuße des Schauinslands"
+  liegt_in_naturpark: Südschwarzwald
+  liegt_in_biosphaerengebiet: Südschwarzwald
+  liegt_in_landschaftsschutzgebiet: Horben
+  entfernung_freiburg_km: 8
+  verwaltungsgemeinschaft: Hexental
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-horben/002
+ENTITÄT: berg
+BEZEICHNUNG: Schauinsland
+EIGENSCHAFTEN:
+  beschreibung: "Berg östlich von Horben"
+  besonderheit: "Schauinsland-Rennen ab 1925, Schauinslandbahn seit 1930"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/003
+ENTITÄT: berg
+BEZEICHNUNG: Illenberg
+EIGENSCHAFTEN:
+  hoehe_m: 642
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/004
+ENTITÄT: berg
+BEZEICHNUNG: Eduardshöhe
+EIGENSCHAFTEN:
+  hoehe_m: 859
+  benannt_nach: "Eduard Fauler, früherer Bürgermeister von Freiburg"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/005
+ENTITÄT: bach
+BEZEICHNUNG: Bohrer-Bach
+EIGENSCHAFTEN:
+  namensherkunft: "benannt nach früherem Handwerk der Deichelbohrer, das dort ausgeübt wurde"
+  verlauf_ab_günterstal: "Hölderlebach"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/006
+ENTITÄT: bach
+BEZEICHNUNG: Selzenbach
+EIGENSCHAFTEN:
+  beschreibung: "entspringt in Horben"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/007
+ENTITÄT: weiler
+BEZEICHNUNG: Bohrer
+EIGENSCHAFTEN:
+  gehoert_zu_gemeinde: Horben
+  besonderheit: "Talstation der Schauinslandbahn liegt hier"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/008
+ENTITÄT: weiler
+BEZEICHNUNG: Katzental
+EIGENSCHAFTEN:
+  gehoert_zu_gemeinde: Horben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/009
+ENTITÄT: weiler
+BEZEICHNUNG: Langackern
+EIGENSCHAFTEN:
+  gehoert_zu_gemeinde: Horben
+  besonderheit: "Hotel Luisenhöhe und Gesundheitsresort, Althäusle um 1600"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/010
+ENTITÄT: weiler
+BEZEICHNUNG: Münzenried
+EIGENSCHAFTEN:
+  gehoert_zu_gemeinde: Horben
+  umfasst_auch: Gerstenhalm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/011
+ENTITÄT: kirche
+BEZEICHNUNG: St. Agatha
+ORTSTEIL_BEZUG: Dorf
+EIGENSCHAFTEN:
+  konfession: katholisch
+  typ: Pfarrkirche
+  erbauungsjahr: strittig: 1791, 1792 oder um 1800
+  grund_erbauung: "das Dorf wurde im Rahmen des Josephinismus erstmals eigenständige Pfarrei"
+  ersetzt: "frühere Kapelle"
+  portal_jahr: 1703
+  portal_schoepfer: Johann Adam Wissen
+  portal_ursprung: "Freiburger Heiliggeistspitalkirche"
+  portal_versetzung: nicht belegt, wann das Portal nach Horben kam; 1805/06 wurde die Spitalkirche aufgehoben
+  stil: barock
+  hochaltar_altarbild_maler: Johannes Winterer
+  hochaltar_altarbild_motiv: Pfingstwunder
+  seitenaltar_rechts: "Patronin St. Agatha"
+  seitenaltar_links: "Mutter Gottes"
+  glocke_jahr: 1731 (Erzbistum)
+  glocke_herkunft: "Heilig-Geist-Spital Freiburg"
+  glocke_stifter: Johann Friedrich Fridolin von Kageneck
+  orgel_jahr: 1812
+  orgel_erbauer: Nikolaus Schuble
+  orgel_superlativ: "einzige erhaltenen Register von Nikolaus Schuble"
+  innenausstattung_versetzung: "1823 aus Heilig-Geist-Spital Freiburg"
+  zustand: "Originalzustand erhalten, frisch renoviert"
+  zusatznutzung: Hochzeitskirche
+GUELTIG_AB: 1792
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+BERICHTIGT: Fehler der Extraktion: 1805/06 ist das Jahr der Aufhebung der Spitalkirche, nicht der Versetzung des Portals. „Aufgehoben“ liegt als falsche Option zu nah an der Wahrheit.
+BERICHTIGT: Die Glocke ist laut Erzbistum von 1731, nicht 1751.
+BERICHTIGT: Das Baujahr der Kirche ist strittig.
+---
+ID: 09-horben/012
+ENTITÄT: gasthof
+BEZEICHNUNG: Zum Raben
+ORTSTEIL_BEZUG: Dorf
+EIGENSCHAFTEN:
+  erstmals_erwaehnt: 1604
+  jetziger_bau: 1805
+  funktion_historisch: "wegen steilen Weges zum Schauinsland und nach Todtnau wichtige Rolle"
+  beschreibung_1772: "Wirtschaft nicht ausgestattet, Brot fehlte, Gäste mussten sich ein Bett teilen"
+  zustand_heute: "Komfort für Familienfeiern, gepflegtes Essen"
+GUELTIG_AB: 1604
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/013
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Horben
+ORTSTEIL_BEZUG: Dorf
+EIGENSCHAFTEN:
+  erbauungsjahr: 1912/13
+  original_funktion: Schulhaus
+  stil: Schwarzwaldstil
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/014
+ENTITÄT: haus
+BEZEICHNUNG: Althäusle
+ORTSTEIL_BEZUG: Langackern
+EIGENSCHAFTEN:
+  erbauungsjahr: "um 1600"
+  typ: Leibgedinghaus
+  stil: Schwarzwaldstil
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/015
+ENTITÄT: wegkreuz
+BEZEICHNUNG: Wegkreuz
+ORTSTEIL_BEZUG: Langackern
+EIGENSCHAFTEN:
+  material: Stein
+  lage: "Abzweigung Straße Selzental beim Althäusle"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/016
+ENTITÄT: hotel
+BEZEICHNUNG: Luisenhöhe
+ORTSTEIL_BEZUG: Langackern
+EIGENSCHAFTEN:
+  benannt_nach: "badische Großherzogin, geb. Prinzessin Luise von Preußen"
+  erbauungsjahr: 1896
+  schaedigung: Brand
+  wiederaufbau_jahr: 1906
+  besonderheit: "weithin sichtbare Aussichtslage, prägte das Ortsbild"
+  abriss_jahr: 2019 (seit 2011 stand das Hotel leer)
+  abriss_grund: "veraltete Bausubstanz"
+GUELTIG_AB: 1896
+GUELTIG_BIS: 2011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+BERICHTIGT: Das Hotel Luisenhöhe stand seit 2011 leer und wurde 2019 abgerissen.
+---
+ID: 09-horben/017
+ENTITÄT: gesuendheitsresort
+BEZEICHNUNG: Gesundheitsresort
+ORTSTEIL_BEZUG: Langackern
+EIGENSCHAFTEN:
+  nachfolger: "Hotel Luisenhöhe"
+  baustart: 2019
+  richtfest: September 2021
+  soft_opening: "3. August 2023"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/018
+ENTITÄT: hotel
+BEZEICHNUNG: Friedrichshof
+ORTSTEIL_BEZUG: Bohrer
+EIGENSCHAFTEN:
+  benannt_nach: Friedrich I.
+  erbauungsjahr: 1896
+  heute: Privatbesitz
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/019
+ENTITÄT: villa
+BEZEICHNUNG: Villa Küchlin
+ORTSTEIL_BEZUG: Bohrer
+EIGENSCHAFTEN:
+  erbauungsjahr: 1923
+  erbauer: Karl Küchlin
+  architekt: "Max Laeuger, Kunstprofessor und Architekt"
+GUELTIG_AB: 1923
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/020
+ENTITÄT: bergbahn
+BEZEICHNUNG: Schauinslandbahn
+EIGENSCHAFTEN:
+  taetigkeit: Talstation
+  lage: Horbener Gemarkung
+  erbauungsjahr: 1930
+  anlass_erwaehnung: "führte zu vergeblichem Eingemeindungsversuch der Stadt Freiburg"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+BERICHTIGT: Der vergebliche Eingemeindungsversuch nach dem Bau der Talstation steht nur in Wikipedia. Es gab mehrere Versuche; für den Antrag von 1935 ist Bauland als Begründung belegt, um den Wald stritten Stadt und Dorf lange: beides taugt nicht als falsche Option.
+---
+ID: 09-horben/021
+ENTITÄT: strasse
+BEZEICHNUNG: Landesstraße L 124
+EIGENSCHAFTEN:
+  alternativname: Schauinslandstraße
+  verlauf: "Freiburg-Günterstal nach Horben"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/022
+ENTITÄT: strasse
+BEZEICHNUNG: Kreisstraße K 4955
+EIGENSCHAFTEN:
+  verbindung: "Horben mit Au"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/023
+ENTITÄT: buslinie
+BEZEICHNUNG: VAG-Buslinie 21
+EIGENSCHAFTEN:
+  verlauf: "Freiburg-Günterstal über Talstation Schauinslandbahn nach Horben"
+  endstation: "Dorfplatz Horben"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/024
+ENTITÄT: infrastructure
+BEZEICHNUNG: Mitfahrbänke
+EIGENSCHAFTEN:
+  anzahl: 4
+  seit_jahr: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/025
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Horben
+EIGENSCHAFTEN:
+  typ: Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 09-horben/026
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kindergarten Horben
+EIGENSCHAFTEN:
+  konfession: katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 09-horben/027
+ENTITÄT: gemeindehalle
+BEZEICHNUNG: Gemeindehalle Horben
+EIGENSCHAFTEN:
+  beschreibung: "Versammlungsort"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 09-horben/028
+ENTITÄT: staudamm
+BEZEICHNUNG: Hochwasserrückhaltebecken Bohrertal
+ORTSTEIL_BEZUG: Bohrertal
+EIGENSCHAFTEN:
+  hoehe_m: 13.5
+  laenge_m: 275
+  breite_max_m: 80
+  baustart: "Februar 2020"
+  fertigstellung: "April 2023"
+  zweck: "Hochwasserschutz im Bohrertal"
+  konflikt: "Projekt war nicht unumstritten in Landschaftsschutzgebiet mit wertvollen Biotopen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/029
+ENTITÄT: rennen
+BEZEICHNUNG: Schauinsland-Rennen
+EIGENSCHAFTEN:
+  start_jahr: 1925
+  start_ort_initially: "Großmatte im Bohrertal"
+  start_ort_spaeter: Friedrichshof
+  typ: Bergrennen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/030
+ENTITÄT: buergermeister
+BEZEICHNUNG: Benjamin Bröcker
+EIGENSCHAFTEN:
+  amtsbeginn_datum: "1. März 2019"
+  partei: "Bündnis 90/Die Grünen"
+  amtstyp: ehrenamtlich
+  amtsdauer_jahre: 8
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-horben/031
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Valentin Schweiger
+EIGENSCHAFTEN:
+  geburtsjaahr: 1900
+  todesjahr: 1990
+  partei: SPD
+  amt: Landtagsabgeordneter
+  buergermeister_horben_zeitraum: 1969-1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/032
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl Küchlin
+EIGENSCHAFTEN:
+  geburtsjaahr: 1864
+  todesjahr: 1935
+  nationalitaet: "deutsch-schweizerisch"
+  profession: "Unternehmer, Theaterdirektor, Mäzen, Grundbesitzer in Horben"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/033
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Marina Zwetajewa
+EIGENSCHAFTEN:
+  geburtsjaahr: 1892
+  todesjahr: 1941
+  nationalitaet: russisch
+  superlativ: "bedeutende russische Dichterin"
+  aufenthalt_horben: "Sommer 1904 mit Familie im Gasthof Engel"
+  vater: Iwan Wladimirowitsch Zwetajew
+  mutter: Marija Aleksandrowna Meyn
+GUELTIG_AB: 1904
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/034
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bernd Martin
+EIGENSCHAFTEN:
+  geburtsjaahr: 1940
+  profession: Historiker
+  ortsverbindung: "ehemaliger Gemeinderat in Horben"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/035
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gundolf Fleischer
+EIGENSCHAFTEN:
+  geburtsjaahr: 1943
+  profession: "Jurist, Politiker"
+  partei: CDU
+  amt: "Staatssekretär a.D. der Landesregierung Baden-Württemberg"
+  zusatzamt: "Präsident des Badischen Sportbundes"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/036
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hortense von Gelmini
+EIGENSCHAFTEN:
+  geburtsjaahr: 1947
+  profession: "Orchesterdirigentin, Malerin, Schriftstellerin"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/037
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Wilderich von Droste zu Hülshoff
+EIGENSCHAFTEN:
+  geburtsjaahr: 1948
+  profession: "Jurist, Autor, Stiftungsvorstand"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/038
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Eduard Fauler
+EIGENSCHAFTEN:
+  amt: "Bürgermeister von Freiburg (früherer)"
+  gedenkort: Eduardshöhe
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/039
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz Sigel
+EIGENSCHAFTEN:
+  rolle: "Operationsbasis Horben während Badische Revolution 1848/49"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/040
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gustav Struve
+EIGENSCHAFTEN:
+  rolle: "führte Vorhut unter Gustav Struve mit 400 Mann"
+  ereignis: "Badische Revolution 1848/49"
+  befehl_missachtung: "Entgegen Befehl Sigels rückte vor"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/041
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Napoleon III
+EIGENSCHAFTEN:
+  ereignis: "1838 ritt durch Horben mit zwei Adjutanten"
+  grund_vermutung: "Flucht nach London, weil Frankreich Auslieferung betrieb"
+GUELTIG_AB: 1838
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+BERICHTIGT: Der Ritt Napoleons III. durch Horben steht nur in Wikipedia; ob Frankreich Auslieferung oder Ausweisung aus der Schweiz verlangte, sagen die Quellen nicht einheitlich.
+---
+ID: 09-horben/042
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Adam Wissen
+EIGENSCHAFTEN:
+  profession: Kunsthandwerker
+  werk: "barockes Portal für St. Agatha"
+  schaffensjahr: 1703
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/043
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johannes Winterer
+EIGENSCHAFTEN:
+  profession: Maler
+  herkunftsort: Waldkirch
+  werk: "Altarbild Pfingstwunder für St. Agatha Hochaltar"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/044
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Nikolaus Schuble
+EIGENSCHAFTEN:
+  geburtsjaahr: 1770
+  todesjahr: 1816
+  herkunftsort: Pfaffenweiler
+  profession: Orgelbauer
+  werk: "Orgel für St. Agatha"
+  schaffensjahr: 1812
+  superlativ: "einzige erhaltenen Register von diesem Meister"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/045
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Friedrich Fridolin von Kageneck
+EIGENSCHAFTEN:
+  rolle: Stifter der Glocke von 1731 in St. Agatha
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+BERICHTIGT: Die Glocke ist laut Erzbistum von 1731, nicht 1751.
+---
+ID: 09-horben/046
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Max Laeuger
+EIGENSCHAFTEN:
+  profession: "Kunstprofessor, Architekt"
+  werk: "Entwurf Villa Küchlin"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/047
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Iwan Wladimirowitsch Zwetajew
+EIGENSCHAFTEN:
+  profession: "Gründer des Puschkin-Museums Moskau"
+  familienverbindung: "Vater der Dichterin Marina Zwetajewa"
+  aufenthalt_horben: "Sommer 1904"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/048
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Marija Aleksandrowna Meyn
+EIGENSCHAFTEN:
+  familienverbindung: "Mutter der Dichterin Marina Zwetajewa"
+  aufenthalt_horben: "Sommer 1904"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/049
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Anastasija Zwetajewa
+EIGENSCHAFTEN:
+  familienverbindung: "Schwester der Dichterin Marina Zwetajewa"
+  aufenthalt_horben: "Sommer 1904"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/050
+ENTITÄT: verein
+BEZEICHNUNG: Musikverein Harmonie
+EIGENSCHAFTEN:
+  ort: Horben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/051
+ENTITÄT: verein
+BEZEICHNUNG: Schachclub
+EIGENSCHAFTEN:
+  ort: Horben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/052
+ENTITÄT: verein
+BEZEICHNUNG: Tauziehclub
+EIGENSCHAFTEN:
+  ort: Horben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/053
+ENTITÄT: verein
+BEZEICHNUNG: Skiclub
+EIGENSCHAFTEN:
+  ort: Horben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/054
+ENTITÄT: verein
+BEZEICHNUNG: Turnverein
+EIGENSCHAFTEN:
+  ort: Horben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/055
+ENTITÄT: verein
+BEZEICHNUNG: Narrenzunft Haibraingeister
+EIGENSCHAFTEN:
+  ort: Horben
+  besonderheit: "pflegt örtliches Brauchtum"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/056
+ENTITÄT: verein
+BEZEICHNUNG: Freiwillige Feuerwehr
+EIGENSCHAFTEN:
+  ort: Horben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/057
+ENTITÄT: verein
+BEZEICHNUNG: Verein Tourismus Horben
+EIGENSCHAFTEN:
+  aufgabe: "betreut den Fremdenverkehr"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/058
+ENTITÄT: stiftung
+BEZEICHNUNG: Libertas per Veritatem
+EIGENSCHAFTEN:
+  sitz: Horben
+  taetigkeit_superlativ: "überregional tätige gemeinnützige Stiftung"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/059
+ENTITÄT: weg
+BEZEICHNUNG: Weg der Revolutionäre
+EIGENSCHAFTEN:
+  route: "von Horben nach Freiburg"
+  seit_jahr: 2020
+  markierung: "vom Schwarzwaldverein beschildert"
+  teil_von: "Wanderrouten Deutsche Revolution in Baden 1848/49"
+  uebergeordnete_markierung_seit: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/060
+ENTITÄT: denkmal
+BEZEICHNUNG: Jägerbrunnen
+EIGENSCHAFTEN:
+  anlass: "Denkmal für zwei gefallene Soldaten im Gefecht am Ostersonntag 1848"
+  erbauer: "Kameraden der Soldaten"
+  status: "noch vorhanden"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/061
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Günterstal
+EIGENSCHAFTEN:
+  gruender: "Herren von Horwen"
+  zeitlich: mittelalterlich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+BERICHTIGT: Die Klostergründung durch die Herren von Horwen steht nur in Wikipedia; die Klosterdatenbank nennt eine andere Stifterin.
+---
+ID: 09-horben/062
+ENTITÄT: burg
+BEZEICHNUNG: Burg Kybfelsen
+EIGENSCHAFTEN:
+  gruender: "Herren von Horwen"
+  lage: Bohrertal
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/063
+ENTITÄT: burg
+BEZEICHNUNG: Burg Horber Berg
+EIGENSCHAFTEN:
+  besitz: "Herren von Horwen"
+  bezeichnung_ab_14_jhd: "Horber Berg"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 09-horben/064
+ENTITÄT: bergwerk
+BEZEICHNUNG: Bergwerke Schauinsland
+EIGENSCHAFTEN:
+  alternativname: Erzkasten
+  tätigkeit: "Bergbau und Erzabbau"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 09-horben/065
+ENTITÄT: handwerk
+BEZEICHNUNG: Deichelbohrer
+EIGENSCHAFTEN:
+  tätigkeit: "handwerk früher im Bohrertal ausgeübt"
+  namensverbindung: "Bohrer-Bach benannt nach diesem Handwerk"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/066
+ENTITÄT: handwerk
+BEZEICHNUNG: Flößerei
+EIGENSCHAFTEN:
+  tätigkeit: "betrieben im Bohrertal"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/067
+ENTITÄT: ereignis
+BEZEICHNUNG: Schlacht bei Freiburg im Breisgau
+EIGENSCHAFTEN:
+  zeitraum: "Dreißigjähriger Krieg"
+  auswirkung_horben: "Horber Berg durch Soldaten völlig ausgeraubt"
+GUELTIG_AB: 1643
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 09-horben/068
+ENTITÄT: ereignis
+BEZEICHNUNG: Badische Revolution 1848/49
+EIGENSCHAFTEN:
+  ereignis_horben: "Horben war Operationsbasis Franz Sigels"
+  gefecht: "Gefecht am Ostersonntag bei Günterstal"
+  verluste_freischaerler: "etwa 20"
+  verluste_soldaten: "drei"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/069
+ENTITÄT: ereignis
+BEZEICHNUNG: Zweiter Weltkrieg
+EIGENSCHAFTEN:
+  auswirkungen: "Unterricht alle Schüler in einem Klassenzimmer, Pferde eingezogen, Kartoffelanbau verstärkt, Kriegsgefangene halfen"
+  bombenanschlag: "ein Bombenabwurf von Au ohne größeren Schaden"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/070
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Mors
+EIGENSCHAFTEN:
+  rolle: "Student, führte Abordnung aus Freiburg in Badischer Revolution"
+GUELTIG_AB: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 09-horben/071
+ENTITÄT: gaststaette
+BEZEICHNUNG: Gasthof Engel
+EIGENSCHAFTEN:
+  besucher_beruehmt: "Marina Zwetajewa Sommer 1904 mit Familie"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75

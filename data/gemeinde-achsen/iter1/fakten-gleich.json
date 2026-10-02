@@ -1,0 +1,7 @@
+{
+ "_doc": "Kennungen, die dieselbe Sache meinen (ein Ding, in zwei Quellen oder zweimal extrahiert). Die erste Kennung der Gruppe ist der gemeinsame Schlüssel für die Abfrage 'derselbe Fakt' (scripts/data-build/gemeinde_achsen_karten_fakt.py).",
+ "gruppen": [
+  {"kennungen": ["10-staufen/G.partnerstaedte", "10-staufen/047"],
+   "grund": "Die Partnerstadt Bonneville steht in den Grunddaten (Wikidata) und in der Extraktion des Ortsartikels."}
+ ]
+}

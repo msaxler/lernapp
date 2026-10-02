@@ -20,12 +20,22 @@ GEPRUEFT = '--geprueft' in sys.argv  # Fassung nach dem Faktencheck (karten-gepr
 # --lauf v0.6 prüft die Karten des Prompts v0.6 (gleiches Format, dazu das Feld PRÜFHINWEIS)
 LAUF = sys.argv[sys.argv.index('--lauf') + 1] if '--lauf' in sys.argv else 'v0.5'
 KARTEN = os.path.join(ITER, 'karten-geprueft', LAUF) if GEPRUEFT else os.path.join(ITER, 'karten-' + LAUF)
-FELDER = 'FAKTENCHECK|SORTE|FAMILIE|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|NEGATIVNACHWEISE|PRÜFHINWEIS|## '
+FELDER = 'FAKTENCHECK|SORTE|FAMILIE|FAKT-ID|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|NEGATIVNACHWEISE|PRÜFHINWEIS|## '
 
 
 def feld(text, name):
     m = re.search(r'^%s:?[ \t]*(.*?)(?=^(?:%s))' % (name, FELDER), text + '\n## ENDE', flags=re.S | re.M)
     return m.group(1).strip() if m else ''
+
+
+_INDEX = {}
+
+
+def fakten_index():
+    if not _INDEX:
+        with io.open(os.path.join(ITER, 'fakten', 'index.json'), encoding='utf-8') as f:
+            _INDEX.update(json.load(f))
+    return _INDEX
 
 
 def plan_lesen(slug):
@@ -93,6 +103,16 @@ def pruefe(karte, nr, plan):
         fehler.append('Stelle %d, Plan %s' % (stelle, p['stelle_plan']))
     if not p['wege']:
         fehler.append('kein Weg genannt')
+    if LAUF not in ('v0.5', 'v0.6'):
+        # ab Prompt v0.7 nennt jede Karte die Kennung ihres Fakts (fakten/index.json) oder GRUNDDATEN.<eigenschaft>
+        kennung = (feld(karte, 'FAKT-ID').split() or [''])[0]
+        p['fakt_id'] = kennung
+        if not kennung:
+            fehler.append('FAKT-ID fehlt')
+        elif not kennung.startswith('GRUNDDATEN.') and kennung.partition('.')[0] not in fakten_index():
+            fehler.append('FAKT-ID unbekannt: ' + kennung)
+        elif (p['sorte'].lower().startswith('klass')) != kennung.startswith('GRUNDDATEN.'):
+            fehler.append('FAKT-ID passt nicht zur Sorte: ' + kennung)
     p['fehler'] = fehler
     return p
 

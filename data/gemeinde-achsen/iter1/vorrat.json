@@ -1,87 +1,19 @@
 {
- "_doc": "Vorrat je Ort aus den drei Läufen (v0.4 = erster Volllauf, v0.5 = zweiter, v0.6 = dritter). Im Vorrat ist jede Karte, die der Faktencheck nicht gesperrt hat und die hier nicht als ersetzt oder raus steht. Regel (Mike 2026-10-02): Tragen zwei Läufe denselben Fakt, bleibt die Karte aus v0.6; ohne v0.6-Karte bleibt die jüngere. Die Zuordnung „derselbe Fakt“ ist von Hand getroffen (gleiche Sache wird aufgelöst).",
+ "_doc": "Vorrat je Ort aus den drei Läufen (v0.4 = erster Volllauf, v0.5 = zweiter, v0.6 = dritter). Im Vorrat ist jede Karte, die der Faktencheck nicht gesperrt hat, die nicht durch eine jüngere Karte zum selben Fakt ersetzt ist und die hier nicht als raus steht. Regel (Mike 2026-10-02): Tragen zwei Läufe denselben Fakt, bleibt die Karte aus v0.6; ohne v0.6-Karte bleibt die jüngere. „Derselbe Fakt“ ist seit 2026-10-02 eine Abfrage: gleicher Schlüssel in karten-fakt.json (scripts/data-build/gemeinde_achsen_karten_fakt.py). Die 49 Zuordnungen von Hand, an denen die Abfrage geprüft ist, liegen in vorrat-von-hand-2026-10-02.json (scripts/check/gemeinde_achsen_fakt_gegenprobe.py). Hier steht nur noch, was aus anderem Grund aus dem Vorrat genommen ist.",
  "grenze_je_ort": 20,
  "orte": {
-  "01-umkirch": {
-   "ersetzt": [
-    {"lauf": "v0.4", "karte": 1, "durch": ["v0.6", 1], "fakt": "Namensherkunft"},
-    {"lauf": "v0.5", "karte": 1, "durch": ["v0.6", 1], "fakt": "Namensherkunft"},
-    {"lauf": "v0.4", "karte": 2, "durch": ["v0.6", 5], "fakt": "Gemeindereform 1974"},
-    {"lauf": "v0.5", "karte": 5, "durch": ["v0.6", 5], "fakt": "Gemeindereform 1974"},
-    {"lauf": "v0.4", "karte": 3, "durch": ["v0.6", 9], "fakt": "Patronatsrecht"},
-    {"lauf": "v0.5", "karte": 4, "durch": ["v0.6", 4], "fakt": "zweitstärkste Partei"},
-    {"lauf": "v0.5", "karte": 6, "durch": ["v0.6", 6], "fakt": "Landkreis"},
-    {"lauf": "v0.5", "karte": 7, "durch": ["v0.6", 7], "fakt": "Rennfahrer-Prinzen"}],
-   "raus": []},
-  "02-gundelfingen": {
-   "ersetzt": [
-    {"lauf": "v0.4", "karte": 2, "durch": ["v0.6", 7], "fakt": "Bürgerentscheid Straßenbahn"},
-    {"lauf": "v0.5", "karte": 5, "durch": ["v0.6", 7], "fakt": "Bürgerentscheid Straßenbahn"},
-    {"lauf": "v0.5", "karte": 2, "durch": ["v0.6", 2], "fakt": "Ersterwähnung"},
-    {"lauf": "v0.5", "karte": 3, "durch": ["v0.6", 1], "fakt": "evangelische Kirche seit der Reformation"},
-    {"lauf": "v0.5", "karte": 7, "durch": ["v0.6", 5], "fakt": "Hindenburgs Ehrenbürgerschaft"}],
-   "raus": []},
-  "03-denzlingen": {
-   "ersetzt": [
-    {"lauf": "v0.4", "karte": 2, "durch": ["v0.6", 1], "fakt": "St.-Josefs-Kirche aus Emmendingen"},
-    {"lauf": "v0.5", "karte": 1, "durch": ["v0.6", 1], "fakt": "St.-Josefs-Kirche aus Emmendingen"}],
-   "raus": []},
-  "04-zaehringen": {
-   "ersetzt": [
-    {"lauf": "v0.4", "karte": 1, "durch": ["v0.5", 1], "fakt": "Anlass der Ersterwähnung 1008"},
-    {"lauf": "v0.5", "karte": 4, "durch": ["v0.6", 4], "fakt": "Wahlergebnis (v0.5 nur für ganz Freiburg, v0.6 für den Stadtbezirk)"},
-    {"lauf": "v0.5", "karte": 6, "durch": ["v0.6", 6], "fakt": "Eingemeindung"}],
-   "raus": []},
-  "05-st-peter": {
-   "ersetzt": [
-    {"lauf": "v0.5", "karte": 1, "durch": ["v0.6", 1], "fakt": "Färber-Ginster"},
-    {"lauf": "v0.5", "karte": 5, "durch": ["v0.6", 5], "fakt": "Georg von Sachsen"},
-    {"lauf": "v0.5", "karte": 7, "durch": ["v0.6", 7], "fakt": "Schwarzwaldmädel"}],
-   "raus": []},
-  "06-glottertal": {
-   "ersetzt": [
-    {"lauf": "v0.4", "karte": 1, "durch": ["v0.5", 7], "fakt": "Bergbau"},
-    {"lauf": "v0.4", "karte": 3, "durch": ["v0.6", 5], "fakt": "Scheffelwein"},
-    {"lauf": "v0.5", "karte": 5, "durch": ["v0.6", 5], "fakt": "Scheffelwein"},
-    {"lauf": "v0.5", "karte": 2, "durch": ["v0.6", 2], "fakt": "Einwohner"}],
-   "raus": []},
-  "07-kirchzarten": {
-   "ersetzt": [
-    {"lauf": "v0.4", "karte": 1, "durch": ["v0.6", 3], "fakt": "Herrschaftswechsel 1805"},
-    {"lauf": "v0.5", "karte": 3, "durch": ["v0.6", 3], "fakt": "Herrschaftswechsel 1805"},
-    {"lauf": "v0.4", "karte": 3, "durch": ["v0.6", 7], "fakt": "Bürgerentscheid Mountainbike-Gelände"},
-    {"lauf": "v0.5", "karte": 7, "durch": ["v0.6", 7], "fakt": "Bürgerentscheid Mountainbike-Gelände"},
-    {"lauf": "v0.5", "karte": 1, "durch": ["v0.6", 8], "fakt": "Tarodunon"},
-    {"lauf": "v0.5", "karte": 4, "durch": ["v0.6", 4], "fakt": "zweitstärkste Partei"},
-    {"lauf": "v0.5", "karte": 5, "durch": ["v0.6", 1], "fakt": "Markenhof"}],
-   "raus": []},
-  "08-guenterstal": {
-   "ersetzt": [
-    {"lauf": "v0.4", "karte": 1, "durch": ["v0.6", 1], "fakt": "Schauinsland auf Günterstäler Gemarkung"},
-    {"lauf": "v0.5", "karte": 5, "durch": ["v0.6", 1], "fakt": "Schauinsland auf Günterstäler Gemarkung"},
-    {"lauf": "v0.4", "karte": 2, "durch": ["v0.6", 5], "fakt": "südlichste Straßenbahnhaltestelle"},
-    {"lauf": "v0.5", "karte": 1, "durch": ["v0.6", 5], "fakt": "südlichste Straßenbahnhaltestelle"},
-    {"lauf": "v0.5", "karte": 4, "durch": ["v0.6", 4], "fakt": "Wahlergebnis (v0.5 nur für ganz Freiburg, v0.6 für den Stadtbezirk)"},
-    {"lauf": "v0.5", "karte": 6, "durch": ["v0.6", 6], "fakt": "Eingemeindung"},
-    {"lauf": "v0.5", "karte": 7, "durch": ["v0.6", 8], "fakt": "Waldtraut"}],
-   "raus": []},
-  "09-horben": {
-   "ersetzt": [
-    {"lauf": "v0.5", "karte": 5, "durch": ["v0.6", 1], "fakt": "Bohrer-Bach"},
-    {"lauf": "v0.5", "karte": 6, "durch": ["v0.6", 6], "fakt": "Kennzeichen"}],
-   "raus": [
-    {"lauf": "v0.4", "karte": 2, "grund": "Dammhöhe: Zahl aus dem Artikel ohne Anhalt im Steckbrief (Spielkonzept v0.2.6 §8 Nr. 7)"},
-    {"lauf": "v0.5", "karte": 2, "grund": "Ortshöhe: Die Quellen nennen 607 und 495 m; Höhe trägt nur bei einigen Quellen eine Karte (Mike 2026-10-02)"}]},
-  "10-staufen": {
-   "ersetzt": [
-    {"lauf": "v0.4", "karte": 1, "durch": ["v0.6", 3], "fakt": "Herren von Staufen und die Hohenstaufen"},
-    {"lauf": "v0.5", "karte": 7, "durch": ["v0.6", 3], "fakt": "Herren von Staufen und die Hohenstaufen"},
-    {"lauf": "v0.4", "karte": 2, "durch": ["v0.6", 5], "fakt": "Schlossberg ist kein Vulkan"},
-    {"lauf": "v0.5", "karte": 3, "durch": ["v0.6", 5], "fakt": "Schlossberg ist kein Vulkan"},
-    {"lauf": "v0.4", "karte": 3, "durch": ["v0.6", 6], "fakt": "Partnerstadt Bonneville"},
-    {"lauf": "v0.5", "karte": 1, "durch": ["v0.6", 7], "fakt": "Faust als Goldmacher"},
-    {"lauf": "v0.5", "karte": 4, "durch": ["v0.6", 4], "fakt": "zweitstärkste Partei"},
-    {"lauf": "v0.5", "karte": 5, "durch": ["v0.6", 1], "fakt": "Hebungsrisse"}],
-   "raus": []}
+  "01-umkirch": {"raus": []},
+  "02-gundelfingen": {"raus": []},
+  "03-denzlingen": {"raus": []},
+  "04-zaehringen": {"raus": []},
+  "05-st-peter": {"raus": []},
+  "06-glottertal": {"raus": []},
+  "07-kirchzarten": {"raus": []},
+  "08-guenterstal": {"raus": [
+   {"lauf": "v0.5", "karte": 4, "grund": "Wahlergebnis für ganz Freiburg, nicht für den Stadtbezirk; den Stadtbezirk trägt dritter Lauf Karte 4 (Wahlbeteiligung)"}]},
+  "09-horben": {"raus": [
+   {"lauf": "v0.4", "karte": 2, "grund": "Dammhöhe: Zahl aus dem Artikel ohne Anhalt im Steckbrief (Spielkonzept v0.2.6 §8 Nr. 7)"},
+   {"lauf": "v0.5", "karte": 2, "grund": "Ortshöhe: Die Quellen nennen 607 und 495 m; Höhe trägt nur bei einigen Quellen eine Karte (Mike 2026-10-02)"}]},
+  "10-staufen": {"raus": []}
  }
 }

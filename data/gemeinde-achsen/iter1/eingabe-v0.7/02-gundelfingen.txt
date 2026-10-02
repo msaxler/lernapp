@@ -1,0 +1,1248 @@
+ZIELORT: Gundelfingen (Gemeinde)
+LAGE: 5 km nördlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Gundelfingen (Breisgau)
+
+GRUNDDATEN:
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 12.146  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 14,29  [Wikidata P2046]
+  dichte_ew_km2: 850  [berechnet aus Einwohner und Fläche]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395] — BERICHTIGT: Wie 09-horben/G.kfz: Der Landkreis Breisgau-Hochschwarzwald gibt seit dem 2. Oktober 2023 neben FR auch MÜL und NEU aus; das Kennzeichen ist nicht einwertig.
+  hoehe_m: 266 | 235 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2913713)]
+  naechste_grossstadt: Freiburg im Breisgau, 5 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 127 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  ersterwaehnung: 1008  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  bahnhof: Haltepunkt Gundelfingen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 79194  [Wikidata P281]
+  vorwahl: 0761  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,3 %, GRÜNE 25,2 %, SPD 18,2 %, AfD 10,1 %, Die Linke 8,2 %; Wahlbeteiligung 87,7 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Raphael Walz — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-01]
+  partnerstaedte: Meung-sur-Loire, Bieruń, Scheibenberg  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT ersterwaehnung: Jahr der ersten Erwähnung (Ersatz: Fläche der Gemarkung), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT kfz: Kennzeichen (Ersatz: Partnerstadt), A, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Umkirch (Gemeinde)
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  einwohner: 5683  [Wikidata P1082, Stand 2025-12-31] — BERICHTIGT: Stichtag der Zahl nicht gesichert (die Quellen nennen für Ende 2024 auch 5.755); nur gerundet oder als Spanne nennen, ohne Stichtag.
+  flaeche_km2: 8,72  [Wikidata P2046]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395] — BERICHTIGT: Wie 09-horben/G.kfz: Der Landkreis Breisgau-Hochschwarzwald gibt seit dem 2. Oktober 2023 neben FR auch MÜL und NEU aus; das Kennzeichen ist nicht einwertig.
+  hoehe_m: 219 | 206 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2820190)]
+  naechste_grossstadt: Freiburg im Breisgau, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  ersterwaehnung: 1087  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 27,5 %, AfD 21,2 %, SPD 15,5 %, GRÜNE 15,1 %, Die Linke 7,1 %, FDP 5,2 %; Wahlbeteiligung 79,7 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Umkirch, Gundelfingen, Denzlingen, Zähringen, St. Peter, Glottertal, Kirchzarten, Günterstal, Horben, Staufen
+
+FAKTEN (Zielort Gundelfingen):
+ID: 02-gundelfingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Gundelfingen
+EIGENSCHAFTEN:
+  lage_bundesland: Baden-Württemberg
+  lage_land: Deutschland
+  lage_region: Breisgau
+  entfernung_freiburg_km: 6
+  entfernung_freiburg_stadtgrenze_m: 850
+  einwohner: 12000
+  genauigkeit_einwohner: über
+  superlativ: größte Gemeinde im Landkreis Breisgau-Hochschwarzwald ohne Stadtrecht
+  benannt_nach: Gundolf
+  namensherkunft_deutung: alemannischer Anführer siedelte hier mit seinen Leuten
+  genauigkeit_namensherkunft: vermutlich
+  erste_urkundliche_erwaehnung: 1008
+  verwaltungsgemeinschaft_partner: Heuweiler
+  ortsteile: Wildtal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 02-gundelfingen/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wildtal
+ORTSTEIL_BEZUG: Wildtal
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1273
+  eingemeindung_jahr: 1972
+  eingemeindung_datum: 1. Januar 1972
+  einwohner_bei_eingemeindung: 1129
+  flaeche_km2: 7.07
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/003
+ENTITÄT: burg
+BEZEICHNUNG: Burg Zähringen
+ORTSTEIL_BEZUG: Wildtal
+EIGENSCHAFTEN:
+  status: Ruine
+  lage: in der Gemarkung Wildtal
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/004
+ENTITÄT: schule
+BEZEICHNUNG: Johann-Peter-Hebel Grundschule
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+  schueler_zahl: 500
+  genauigkeit_schueler: knapp
+  lehrkraefte_zahl: 40
+  genauigkeit_lehrkraefte: rund
+  gruendungsjahr: 1661 erster Schulmeister im Ort; die heutige Schule heißt seit 1957 so, ihr Gebäude ist von 1848
+  lage: Ortsmitte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+BERICHTIGT: 1661 ist das Jahr des ersten Schulmeisters, nicht die Gründung der heutigen Schule.
+---
+ID: 02-gundelfingen/005
+ENTITÄT: schule
+BEZEICHNUNG: Albert-Schweitzer Gymnasium
+EIGENSCHAFTEN:
+  schultyp: Gymnasium
+  abkuerzung: ASG
+  schueler_zahl: 709
+  schuljahr: 2024/2025
+  einzugsgebiet: Gundelfingen, Norden Freiburgs, March
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/006
+ENTITÄT: schule
+BEZEICHNUNG: Albert-Schweitzer Gemeinschaftsschule
+EIGENSCHAFTEN:
+  schultyp: Gemeinschaftsschule
+  beschreibung: direkt an ASG angeschlossen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/007
+ENTITÄT: schule
+BEZEICHNUNG: Friedrich-Fröbel Schule
+ORTSTEIL_BEZUG: Wildtal
+EIGENSCHAFTEN:
+  schultyp: Sonderpädagogisches Bildungs- und Beratungszentrum
+  foerderschwerpunkt: Lernen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/008
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Gundelfingen (evangelisch)
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  erste_erwaehnung: 1275
+  pfarrer_seit: 1556
+  grund_pfarrer: Einführung der Reformation in der Markgrafschaft Baden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/009
+ENTITÄT: kirchliche_gemeinschaft
+BEZEICHNUNG: Baptistengemeinschaft Gundelfingen
+EIGENSCHAFTEN:
+  konfession: Baptisten
+  gruendungsjahr: 1877
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/010
+ENTITÄT: kirche
+BEZEICHNUNG: Bruder-Klaus-Kirche
+EIGENSCHAFTEN:
+  konfession: katholisch
+  pfarrgemeinde: Bruder Klaus
+  nutzung_seit: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/011
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Gundelfingen (Breisgau)
+EIGENSCHAFTEN:
+  lage_bahnstrecke: Rheintalbahn Karlsruhe–Basel
+  verkehrsbetreiber: DB Regio, Breisgau-S-Bahn
+  linien: S2 (Elzach – Freiburg Hbf)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 02-gundelfingen/012
+ENTITÄT: strassenbahnhaltestelle
+BEZEICHNUNG: Gundelfinger Straße
+EIGENSCHAFTEN:
+  lage: südlicher Ortsrand
+  betrieb_seit: 2014
+  bedient_von_linie: Linie 3, Linie 2 (einzelne Fahrten)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/013
+ENTITÄT: unternehmen
+BEZEICHNUNG: Raiffeisenbank im Breisgau
+EIGENSCHAFTEN:
+  sitz: Gundelfingen
+  rolle: Hauptsitz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/014
+ENTITÄT: unternehmen
+BEZEICHNUNG: Gemeindewerke Gundelfingen GmbH
+EIGENSCHAFTEN:
+  eigentuemer: Gemeinde Gundelfingen (Hauptgesellschafter)
+  gruendungsdatum: 30. November 2001
+  sitz: Ortsmitte Gundelfingen
+  gesellschaftszweck: nachhaltige Versorgung mit Energie und Wasser
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/015
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Gundelfingen
+EIGENSCHAFTEN:
+  gruendung: 21. Januar 1994 Zusammenlegung der Wehren Gundelfingen (1942) und Wildtal (1946) zur Gesamtwehr
+  abteilungen: 2
+  abteilung_gundelfingen_gruendung: 10. Dezember 1942
+  abteilung_wildtal_gruendung: 4. April 1946
+  mitglieder: 73
+  mitglieder_stand: Ende 2021
+  frauen_mitglieder: 5
+  kommandant: Jens Lapp
+  jugendfeuerwehr_gruendung: 3. April 1992
+  jugendfeuerwehr_mitglieder: 35
+  jugendfeuerwehr_stand: 2021
+  altersmannschaft_gruendung: 1995
+  altersmannschaft_mitglieder: 17
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+BERICHTIGT: Am 21. Januar 1994 wurde die Feuerwehr nicht gegründet, sondern zur Gesamtwehr zusammengelegt.
+---
+ID: 02-gundelfingen/016
+ENTITÄT: sportverein
+BEZEICHNUNG: Turnverein Gundelfingen
+EIGENSCHAFTEN:
+  abkuerzung: TVG
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/017
+ENTITÄT: sportverein
+BEZEICHNUNG: Gundelfingen Turnerschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-gundelfingen/018
+ENTITÄT: sportverein
+BEZEICHNUNG: Spielvereinigung Gundelfingen Wildtal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-gundelfingen/019
+ENTITÄT: narrengruppe
+BEZEICHNUNG: Zunft der Gundelfinger Dorfhexen
+EIGENSCHAFTEN:
+  form: e. V.
+  festtyp: Badische Fasnet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/020
+ENTITÄT: narrengruppe
+BEZEICHNUNG: Fässlistemmer
+EIGENSCHAFTEN:
+  form: e. V.
+  festtyp: Badische Fasnet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/021
+ENTITÄT: person
+BEZEICHNUNG: Raphael Walz
+EIGENSCHAFTEN:
+  rolle: Bürgermeister
+  wahl_datum: 9. November 2014
+  wahl_ergebnis_prozent: 60
+  wahlgang: zweiter Wahlgang
+  wiederwahl_datum: 16. Oktober 2022
+  wiederwahl_ergebnis_prozent: 82.2
+  weitere_aemter: Bürgermeister von Heuweiler
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 02-gundelfingen/022
+ENTITÄT: person
+BEZEICHNUNG: Reinhardt Bentler
+EIGENSCHAFTEN:
+  rolle: Bürgermeister (früherer)
+  amtszeit: 1983-2015
+  weitere_aemter: Bürgermeister von Heuweiler
+GUELTIG_AB: 1983
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/023
+ENTITÄT: person
+BEZEICHNUNG: Paul von Hindenburg
+EIGENSCHAFTEN:
+  rolle: Ehrenbürger
+  ehrenbuergerschaft_erloschen: 1934
+  formale_aberkennung: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/024
+ENTITÄT: person
+BEZEICHNUNG: Oskar Schellenberg
+EIGENSCHAFTEN:
+  geburtsjahr: 1824
+  todesjahr: 1895
+  rolle: evangelischer Pfarrer und Dekan
+GUELTIG_AB: 1824
+GUELTIG_BIS: 1895
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/025
+ENTITÄT: person
+BEZEICHNUNG: Gustav Klaiber
+EIGENSCHAFTEN:
+  geburtsjahr: 1864
+  todesjahr: 1940
+  rolle: Kaufmann, Landwirt und Mitglied des Badischen Landtages
+GUELTIG_AB: 1864
+GUELTIG_BIS: 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/026
+ENTITÄT: person
+BEZEICHNUNG: Nikolai Kornhaß
+EIGENSCHAFTEN:
+  geburtsjahr: 1993
+  rolle: Para-Judoka
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/027
+ENTITÄT: person
+BEZEICHNUNG: Oliver Hein
+EIGENSCHAFTEN:
+  geburtsjahr: 1997
+  rolle: Volleyballspieler
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/028
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Meung-sur-Loire
+EIGENSCHAFTEN:
+  land: Frankreich
+  partnerschaften_seit: 1987
+  einwohner: 6800
+  lage: direkt an der Loire, etwa 30 km von Orléans entfernt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/029
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Bieruń
+EIGENSCHAFTEN:
+  land: Polen
+  deutsch_name: Berun
+  partnerschaften_seit: 1997
+  einwohner: 20000
+  lage: 20 km südlich von Kattowitz in Oberschlesien
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/030
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Scheibenberg
+EIGENSCHAFTEN:
+  land: Sachsen (Deutschland)
+  partnerschaften_seit: 1997
+  einwohner: 2400
+  genauigkeit_einwohner: knapp
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/031
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Ostroh
+EIGENSCHAFTEN:
+  land: Ukraine
+  ukrainischer_name: Острог
+  freundschaft_seit: Dezember 2025
+  partnerschaftstyp: Freundschaft (offiziell)
+  gemeinsame_partnergemeinde: Bieruń
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/032
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Gundelfingen
+EIGENSCHAFTEN:
+  vorderseite_element: roter Schrägbalken auf goldenem Hintergrund
+  vorderseite_bedeutung: einstige Zugehörigkeit zu Baden
+  rueckseite_element: silberne Tanne in silberner Einfriedung auf grünem Hintergrund
+  rueckseite_bedeutung: Besitz andeutet
+  historischer_bezug: alemannischer Fürst Gundolf besaß hier ein Stück Land
+  flagge_farben: grün und weiß
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/033
+ENTITÄT: ereignis
+BEZEICHNUNG: Herrschaftswechsel Gundelfingen 1218
+EIGENSCHAFTEN:
+  jahr: 1218
+  alter_herrscher: Zähringer
+  neuer_herrscher: Grafen von Freiburg
+GUELTIG_AB: 1218
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/034
+ENTITÄT: ereignis
+BEZEICHNUNG: Verkauf Gundelfingen 1327
+EIGENSCHAFTEN:
+  jahr: 1327
+  verkaeufer: Grafen von Freiburg
+  kaeufer: Schnewelin Bernlapp
+GUELTIG_AB: 1327
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/035
+ENTITÄT: ereignis
+BEZEICHNUNG: Verkauf Gundelfingen 1507
+EIGENSCHAFTEN:
+  jahr: 1507
+  verkaeufer: Herren von Blumegg
+  kaeufer: badischer Markgraf Christoph
+GUELTIG_AB: 1507
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/036
+ENTITÄT: ereignis
+BEZEICHNUNG: Zugehörigkeit Gundelfingen zur Markgrafschaft Baden-Hachberg
+EIGENSCHAFTEN:
+  zeitraum: 1584-1590
+GUELTIG_AB: 1584
+GUELTIG_BIS: 1590
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/037
+ENTITÄT: ereignis
+BEZEICHNUNG: Herrschaftswechsel Wildtal 1652
+EIGENSCHAFTEN:
+  jahr: 1652
+  neuer_herrscher: Freiherren von Beroldingen
+GUELTIG_AB: 1652
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-gundelfingen/038
+ENTITÄT: ereignis
+BEZEICHNUNG: Verkauf Wildtal 1788
+EIGENSCHAFTEN:
+  jahr: 1788
+  kaeufer: Graf Friedrich von Kageneck
+GUELTIG_AB: 1788
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-gundelfingen/039
+ENTITÄT: ereignis
+BEZEICHNUNG: Zuordnung Wildtal zum Großherzogtum Baden
+EIGENSCHAFTEN:
+  jahr: 1805
+  grund: Reichsdeputationshauptschluss
+GUELTIG_AB: 1805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-gundelfingen/040
+ENTITÄT: ereignis
+BEZEICHNUNG: Gebietsreform 1809
+EIGENSCHAFTEN:
+  jahr: 1809
+  folge: Gundelfingen kam zum Landamt Freiburg II
+GUELTIG_AB: 1809
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-gundelfingen/041
+ENTITÄT: ereignis
+BEZEICHNUNG: Landamtsreform 1819
+EIGENSCHAFTEN:
+  jahr: 1819
+  folge: Landamt Freiburg II mit Landamt Freiburg I vereinigt
+GUELTIG_AB: 1819
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-gundelfingen/042
+ENTITÄT: ereignis
+BEZEICHNUNG: Erster Weltkrieg in Gundelfingen
+EIGENSCHAFTEN:
+  zeitraum: Erster Weltkrieg
+  folgen: Mangel und Hunger trotz Selbstversorgermöglichkeiten
+  grund: landwirtschaftliche Erzeugnisse zur Versorgung Freiburgs herangezogen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+BERICHTIGT: Die Versorgung Freiburgs im Ersten Weltkrieg steht für Gundelfingen nur in Wikipedia; nur mit Vorbehalt verwenden.
+---
+ID: 02-gundelfingen/043
+ENTITÄT: ereignis
+BEZEICHNUNG: Abstimmung Wildtal zur Eingemeindung 1971
+EIGENSCHAFTEN:
+  jahr: 1971
+  ergebnis_prozent: 72
+  folge: Eingemeindung zum 1. Januar 1972
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+BERICHTIGT: Laut Gemeinde 72 Prozent, keine Dreiviertelmehrheit.
+BERICHTIGT: Die Angabe Dreiviertelmehrheit entfällt (72 Prozent).
+---
+ID: 02-gundelfingen/044
+ENTITÄT: ereignis
+BEZEICHNUNG: 1000-jähriges Jubiläum Gundelfingen
+EIGENSCHAFTEN:
+  jahr: 2008
+  grund: erste urkundliche Erwähnung 1008
+  feier: dreitägiges Fest mit großem Umzug
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/045
+ENTITÄT: ereignis
+BEZEICHNUNG: Aberkennung Paul von Hindenburg als Ehrenbürger
+EIGENSCHAFTEN:
+  jahr: 2021
+  beschluss: einstimmig formal aberkannt
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen/046
+ENTITÄT: ereignis
+BEZEICHNUNG: Bürgerentscheid Straßenbahnverlängerung
+EIGENSCHAFTEN:
+  datum: 12. November 2023
+  ergebnis_prozent: 58
+  ergebnis_beschreibung: Ablehnung der Verlängerung
+  wahlbeteiligung_prozent: 61
+  geplante_strecke: vier Haltestellen entlang Alter Bundesstraße und Waldstraße
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-gundelfingen/047
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Fahrradverleihsystem Frelo
+EIGENSCHAFTEN:
+  betrieb_seit: 2021
+  stationen_insgesamt: 4
+  stationen_gundelfingen: 3
+  stationen_wildtal: 1
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+SPENDER: Tengen (nicht Teil der Fahrt)
+ENTITÄT: ort
+BEZEICHNUNG: Tengen
+EIGENSCHAFTEN:
+  typ: Landstadt
+  region: Hegau
+  landkreis: Konstanz
+  lage_grenznahe: an der Grenze zur Schweiz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Tengen — Erstnennung
+EIGENSCHAFTEN:
+  erstnennung_jahr: 877
+  erstnennung_name_form: Teingon
+  erstnennung_urkunden_typ: Brief
+  warum_eigentumsherr: gehörte dem Bischof Salomo II. von Konstanz
+GUELTIG_AB: 877
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Tengen — Hinterstadt / Hintertengen Entwicklung
+EIGENSCHAFTEN:
+  stadtraechte_stauferzeit: Herren von Tengen erhielten Stadtrechte und Hohe Gerichtsbarkeit
+  verkauf_jahr: 1275
+  herrschaft_nach_verkauf: habsburgisch
+  veraenderungen_nach_1275: weitere Wechsel, schließlich Besitz Deutschordenskommende Mainau
+  warum_schwaben_1446: Hintertengener waren gefürchtete Raubritter; Schwäbischer Städtebund kam mit Heer
+  hintertengen_strategie_1446: Schwaben durften Hintertengen von Vordertengen aus angreifen, wenn Vordertengen verschont würde
+  oesterreich_jahr: 1522
+  brand_burg_jahr: 1519
+  warum_brand: Burg wurde durch Brand endgültig zerstört (drei Jahre vor Österreich-Kommen)
+  marktrecht_jahr: 1291
+  marktrecht_gewaehrer: König Rudolf I.
+  marktrecht_nutzbarkeit: konnte nicht genutzt werden, weil für einen Markt kein Platz da war und keine eigene Zufahrt (nur Fuß- und Eselsweg)
+GUELTIG_AB: 1275
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geographie
+BEZEICHNUNG: Tengen — Stadtanlage Vorder- und Hinterstadt
+EIGENSCHAFTEN:
+  lage_form: Felssporn
+  felssporn_laenge: 300 Meter
+  felssporn_breite: 60–90 Meter
+  trennung_staedte: Stadtmauer und Graben mit Bogenbrücke
+  vorderstadt_laenge: 200 Meter
+  vorderstadt_bestandteile: im Wesentlichen ein Marktplatz
+  hinterburg_relative_groesse: halb so groß wie Vorderstadt
+  bergfried_hoehe: 32 Meter
+  bergfried_erhalt: noch heute zu sehen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Verenahof — deutsche Exklave
+EIGENSCHAFTEN:
+  groesse: 43 Hektar
+  beschreibung: Bauernbetrieb ganz umgeben von Schweizer Gebiet
+  ursprungs_gemeinde: Büttenhardt im Kanton Schaffhausen
+  warum_exklave: Tengener Grafschaft hatte dort ehemals Besitz
+  jahr_badisches_verfahren: 1806
+  status_1806: Großherzogtum Baden
+  ortsteil_zugehoerig: Wiechs
+  jahr_transition_schweiz: 1967
+  warum_transition_schweiz: Staatsvertrag durch Landtausch mit der Schweiz
+  vergleich_bueßingen: neben Büsingen eine lange deutsche Exklave
+  grenzsteine_erinnerung: alte Grenzsteine beim Rathaus Wiechs am Randen und Alten Schulhaus Büttenhardt
+GUELTIG_AB: 1806
+GUELTIG_BIS: 1967
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geologie_formation
+BEZEICHNUNG: Weißer Jura (Oberjura)
+EIGENSCHAFTEN:
+  alter: rund 140 Millionen Jahre
+  ablagerung: Kalke
+  vorkommen_lage: vorwiegend in Schluchten und Taleinschnitten
+  warum_sichtbar: durch Abtragung der jüngeren Molasseschichten angeschnitten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geologie_formation
+BEZEICHNUNG: Obere Meeresmolasse — Randengrobkalke
+EIGENSCHAFTEN:
+  alter: rund 20 Millionen Jahre
+  lokale_misnomenklatur: in Tengen und Umgebung fälschlicherweise Tengener Muschelkalk genannt
+  beschaffenheit: grobsandiger Schalentrümmerkalk
+  farbe: hellgelb
+  bestandteile_muschel_schnecken: Muschel- und Schneckenschalen
+  bestandteile_quarzsand_prozent: 20–40 Prozent
+  fossilien_haifischzaehne_groesse_max: bis zu 2 cm
+  fossilien_interpretation: Haifischzähne und Salzwassertiere belegen Obere Meeresmolasse-Ablagerung
+  schichtung_besonderheit: gegenläufige Schichten (Kreuz- oder Grenzschichtung) als ufernahes Gezeitenmuster
+  schichtung_haeufigkeit: nicht der Normalfall
+  warum_nutzung_roemerzeit: beliebter Baustein, Römerzeit belegt durch Münzfund in Steinbruch bei Wiechs am Randen
+  nutzung_roemerzeit_details: Läufer für Mühlsteine, Wärmespeicherung in Thermen und Hypokaustenheizungen, Häuserbau
+  nutzung_neu: Nitrat-Beständigkeit → Bodenplatten im Stallungsbau
+GUELTIG_AB: (prähistorisch)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch westlich Tengen-Stadt
+ORTSTEIL_BEZUG: Tengen-Stadt
+EIGENSCHAFTEN:
+  lage_detail: westlich Tengen-Stadt und westlich der Hinterburg, Gewann Flüh, Waldfestplatz
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch östlich der Hinterburg
+ORTSTEIL_BEZUG: Tengen-Stadt
+EIGENSCHAFTEN:
+  lage_detail: östlich der Hinterburg, Bereich des heutigen Bauhofs in Richtung Büßlingen
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch um Uttenhofen
+ORTSTEIL_BEZUG: Uttenhofen
+EIGENSCHAFTEN:
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch nördlich Wiechs am Randen
+ORTSTEIL_BEZUG: Wiechs am Randen
+EIGENSCHAFTEN:
+  lage_detail: nördlich von Wiechs am Randen (früher teilweise zu Uttenhofen gehörend)
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch nördlich der B314 zwischen Tengen und Blumenfeld
+EIGENSCHAFTEN:
+  lage_detail: nördlich der B314 zwischen Tengen und Blumenfeld
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch Kreisstraße 6135 unterhalb Talheim
+ORTSTEIL_BEZUG: Talheim
+EIGENSCHAFTEN:
+  lage_detail: an der Kreisstraße 6135 unterhalb von Talheim
+  material: vermutlich einer Verwerfung im Weißjura
+  genauigkeit: vermutlich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Talheim und Uttenhofen
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1971
+  status_vorher: selbstständige Gemeinden
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Blumenfeld
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1973
+  status_vorher: selbstständige Gemeinde
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Beuren am Ried
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1972
+  status_vorher: selbstständige Gemeinde
+  eingemeindung_zu: Büßlingen
+GUELTIG_AB: 1972
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Weil
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1972
+  status_vorher: selbstständige Gemeinde
+  eingemeindung_zu: Watterdingen
+GUELTIG_AB: 1972
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Neubildung Stadt Tengen
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1975
+  bestandteile: Tengen, Büßlingen, Watterdingen, Wiechs am Randen
+  grund: Zusammenfassung vorheriger Eingemeindungen
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: religion
+BEZEICHNUNG: Tengen — religiöse Prägung
+EIGENSCHAFTEN:
+  dominante_konfession: römisch-katholisch
+  seit_wann: seit jeher
+GUELTIG_AB: (nicht genau datiert)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirchenbau
+BEZEICHNUNG: St. Laurentius
+EIGENSCHAFTEN:
+  typ: römisch-katholische Pfarrkirche
+  typologische_funktion: Wehrkirche (erhöhte Lage)
+  baustilistik_kern: frühgotisch
+  datierung_kern: 13. Jahrhundert
+  nachweise_kern: kleine zugemauerte Spitzbogenfenster an der Südwand
+  neubau_turm_jahr: 1518
+  umbau_barockisierung_jahr: um 1730
+  restaurierung_jahre: 1880 und 1909
+  erweiterung_massive_jahr: 1929/1930
+  erweiterung_massive_teile: Neubau von Chor, Querhaus und Sakristei
+  erweiterung_turm_hoehe_jahr: 1934
+  innenausstattung_stil: einheitliche barocke Ausstrahlung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: kirchenbau
+BEZEICHNUNG: St. Georg
+EIGENSCHAFTEN:
+  typ: römisch-katholische Kapelle
+  ursprung: Burgkapelle der Hinterburg
+  datierung_erbauung: Anfang 14. Jahrhundert
+  umgestaltung: barockisiert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: religion
+BEZEICHNUNG: Evangelische Gemeinde Tengen
+EIGENSCHAFTEN:
+  beschreibung: kleine evangelische Gemeinde
+  status: klein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: politik_gremium
+BEZEICHNUNG: Gemeinderat Tengen
+EIGENSCHAFTEN:
+  groesse_ab_2024: 16 Mitglieder
+  groesse_davor: 22 Mitglieder
+  wahlbeteiligung_2024: 69,26 Prozent
+  wahlbeteiligung_2019: 66,15 Prozent
+  wahl_datum: 9. Juni 2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: politik_person
+BEZEICHNUNG: Helmut Groß
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  geburtsjahr: 1948
+  geburtsort: Crailsheim
+  amtszeit_von: 1973
+  amtszeit_bis: 2015
+  amtszeit_grund_abgang: Alter
+GUELTIG_AB: 1973
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: politik_person
+BEZEICHNUNG: Marian Schreier
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  geburtsdatum: 8. Februar 1990
+  geburtsort: Stuttgart
+  partei: SPD
+  amtszeit_von: 2015
+  amtszeit_bis: 2023
+  wahl_datum: 1. März 2015
+  superlativ: zum Zeitpunkt der Wahl mit 25 Jahren der jüngste Bürgermeister Deutschlands
+GUELTIG_AB: 2015
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: politik_person
+BEZEICHNUNG: Selcuk Gök
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  geburtsjahr: 1997
+  geburtsort: Mannheim
+  partei: SPD
+  wahl_datum: 19. März 2023
+  wahl_ergebnis: 50,3 Prozent
+  amtsantritt: 27. April 2023
+  amtszeit_von: 2023
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Busverbindung Tengen — Engen
+EIGENSCHAFTEN:
+  rhythmus: Stundentakt
+  start_punkt: Engen
+  ausnahmeregelung: außer Sonntag
+  anschluss_beschreibung: fährt nach Ankunft des Eilzugs von Konstanz ab
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur_strasse
+BEZEICHNUNG: Bundesstraße 314
+EIGENSCHAFTEN:
+  verbindung_von: Lauchringen
+  verbindung_zu: Singen (Hohentwiel)
+  funktion: überregionale Straßenanbindung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: infrastruktur_radweg
+BEZEICHNUNG: Heidelberg-Schwarzwald-Bodensee-Radweg
+EIGENSCHAFTEN:
+  typ: Landes-Radfernweg
+  start: Heidelberg
+  ende: Radolfzell
+  verlauf_detail: von Donaueschingen kommend über Tengen und Singen an sein Ziel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: bildung
+BEZEICHNUNG: Tengen — Schulen
+EIGENSCHAFTEN:
+  schultypen: Grund- und Werkrealschule
+  kindergaerten: 3 Kindertagesstätten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: denkmalschutz
+BEZEICHNUNG: Altstadt Tengen
+EIGENSCHAFTEN:
+  schutzstatus: Gesamtanlage denkmalgeschützt
+  bezeichnung_schutz: Stadtanlage Tengen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Burg Tengen (Hinterburg)
+EIGENSCHAFTEN:
+  alternative_Namen: Hinterburg, Burg Hintertengen
+  erhalt_heute: Bergfried erhalten
+  bergfried_hoehe: 32 Meter
+  bergfried_sichtbarkeit: noch heute zu sehen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: archaeologie
+BEZEICHNUNG: Römischer Gutshof bei Büßlingen
+ORTSTEIL_BEZUG: Büßlingen
+EIGENSCHAFTEN:
+  museum_typ: Freilichtmuseum
+  zeitstellung: römisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schloss Blumenfeld
+ORTSTEIL_BEZUG: Blumenfeld
+EIGENSCHAFTEN:
+  kategorie: Schloss
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: naturdenkmael
+BEZEICHNUNG: Mühlbachschlucht
+EIGENSCHAFTEN:
+  lage: östlich der Altstadt
+  beschaffenheit: Schlucht des Mühlbachs
+  wasserfaelle: mehrere sehenswerte Wasserfälle
+  besonderheit: Mühlenruine mit laufendem Mühlenrad
+  infrastruktur: Besucherweg mit Brücken und Stegen am Mühlbach entlang
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Blumenfelder Wasserfall
+ORTSTEIL_BEZUG: Blumenfeld
+EIGENSCHAFTEN:
+  fluss: Biber
+  lage_detail: unter der Brücke in die Altstadt von Blumenfeld
+  besonderheit_regenfaelle: infolge schwerer Regenfälle starke Anschwellungen des Flusses
+  warum_ueberschwemmungen: Anschwellungen führen zu massiven Überschwemmungen im Umland
+  historische_notiz_jahr: 1753
+  historische_notiz_text: „Die Landschaft Blumenfeld ist durch Schauer- und Hagelwetter auf den Bettelstab gebracht worden."
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Gerichtslinde Tengen
+EIGENSCHAFTEN:
+  lage: nördlich von Tengen am Tengener Eck neben Kreisstraße 6137 (Leipferdinger Straße)
+  lage_detail: kaum 200 m vor dem Berghof im freien Feld
+  baumtyp: Sommerlinde
+  alter_schaetzung: 300–400 Jahre
+  status: als Naturdenkmal ausgewiesen
+  warum_geschichtlich: im Mittelalter jährliche Tengener Gerichtstage
+  erinnerung_heute: alte Beschilderung dokumentiert historische Gerichtstage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: touristische_route
+BEZEICHNUNG: Römerstraße Neckar–Alb–Aare
+EIGENSCHAFTEN:
+  verlauf: führt durch Tengen an vielen Sehenswürdigkeiten vorbei
+  charakteristik: Römerstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: geographie
+BEZEICHNUNG: Europäische Wasserscheide
+EIGENSCHAFTEN:
+  lage: Höhenrücken im Norden der Gemarkung Tengen
+  warum_position: trennt Bodenseebecken vom Donautal
+  verlauf: auf mehreren Kilometern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historischer_weg
+BEZEICHNUNG: Alter Postweg
+EIGENSCHAFTEN:
+  verlauf: auf dem Höhenrücken (Europäische Wasserscheide), auf mehreren Kilometern
+  charakteristik: historischer Verkehrsweg von überregionaler Bedeutung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Franz Christoph von Scheyb
+EIGENSCHAFTEN:
+  geburtsjahr: 1704
+  todesjahr: 1777
+  berufe: Schriftsteller
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Matthäus Cornelius Münch
+EIGENSCHAFTEN:
+  geburtsjahr: 1771
+  todesjahr: 1853
+  berufe: Geistlicher und Pädagoge
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Josef Benignus Maus
+EIGENSCHAFTEN:
+  geburtsjahr: 1775
+  todesjahr: 1856
+  berufe: Historiker
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Otto Lueger
+EIGENSCHAFTEN:
+  geburtsjahr: 1843
+  todesjahr: 1911
+  berufe: Ingenieur
+  herausgeber: Lexikon der gesamten Technik
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Albert Maier
+EIGENSCHAFTEN:
+  geburtsjahr: 1873
+  todesjahr: 1961
+  berufe: Pädagoge und Politiker
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Fritz Peter
+EIGENSCHAFTEN:
+  geburtsjahr: 1899
+  todesjahr: 1949
+  berufe: Pädagoge, Physiker und Mathematiker
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Natascha Ungeheuer
+EIGENSCHAFTEN:
+  geburtsjahr: 1937
+  geburtsjahr_born_as: Ursula Rosa Ungeheuer
+  berufe: Malerin und Schauspielerin
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Christine Muscheler-Frohne
+EIGENSCHAFTEN:
+  geburtsjahr: 1950
+  berufe: Politikerin
+  partei: Grüne
+  position: ehemalige Landtagsabgeordnete
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Andreas Gruschke
+EIGENSCHAFTEN:
+  geburtsjahr: 1960
+  todesjahr: 2018
+  berufe: Autor, Fotograf und Tibetkundler
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Otto Sauter
+EIGENSCHAFTEN:
+  geburtsjahr: 1961
+  berufe: Piccolo-Trompeter
+  spezialisierung: Barockmusik
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Traugott Freiherr von Stackelberg
+EIGENSCHAFTEN:
+  geburtsjahr: 1891
+  todesjahr: 1970
+  berufe: Mediziner, Maler, Schriftsteller
+  herkunft: Tengen (sonstige)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Heidi Tübinger
+EIGENSCHAFTEN:
+  geburtsjahr: 1936
+  berufe: Malerin
+  herkunft: Tengen (sonstige)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Gottfried Hummel
+EIGENSCHAFTEN:
+  geburtsjahr: 1968
+  berufe: Komponist und Dirigent
+  position_dirigent: Dirigent der Stadtkapelle Tengen
+  position_dirigent_zeitraum: 2016–2022
+  werke_komponiert: Lied "Engen, Tengen, Blumenfeld, sind die schönsten Städt der Welt"
+  werke_text: Texter des Liedes
+  herkunft: Tengen (sonstige)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+

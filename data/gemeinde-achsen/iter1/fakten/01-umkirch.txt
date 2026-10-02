@@ -1,0 +1,584 @@
+ID: 01-umkirch/001
+ENTITÄT: ort
+BEZEICHNUNG: Umkirch
+EIGENSCHAFTEN:
+  ist_gemeinde: true
+  landkreis: Breisgau-Hochschwarzwald
+  bundesland: Baden-Württemberg
+  lage_geographie: rund acht Kilometer westlich von Freiburg im Breisgau in der Oberrheinischen Tiefebene
+  nachbargemeinden_nord: March
+  nachbargemeinden_west: Gottenheim
+  nachbargemeinden_ost_sued: Freiburg im Breisgau
+  ersterwähnung_jahr: 1087
+  ersterwähnung_name: Untkilicha
+  ersterwähnung_lateinisch: Ecclesia in Undis
+  namensherkunft: spielt vermutlich auf die Lage der Kirche auf einer Insel zwischen zwei Bächen an
+  genauigkeit_namensherkunft: vermutlich
+GUELTIG_AB: 1087
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/002
+ENTITÄT: dorf
+BEZEICHNUNG: Umkirch
+ORTSTEIL_BEZUG: Umkirch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/003
+ENTITÄT: hoflage
+BEZEICHNUNG: Dachswangen
+ORTSTEIL_BEZUG: Dachswangen
+EIGENSCHAFTEN:
+  typ: Hof und Mühle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-umkirch/004
+ENTITÄT: abgegangene_ortschaft
+BEZEICHNUNG: Rendelshusen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/005
+ENTITÄT: abgegangene_ortschaft
+BEZEICHNUNG: Betlinshusen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/006
+ENTITÄT: roemische_siedlung
+BEZEICHNUNG: Vicus Mühlematten
+EIGENSCHAFTEN:
+  entdeckungsjahr: 1979
+  lage_neubaugebiet: Mühlematten
+  lage_bezug_ort: südlich von Umkirch
+  bauten_stein: vorhanden mit mehreren Bauperioden im Siedlungszentrum
+  bauten_holz: lockere Holzbebauungen im äußeren Bereich vorherrschend
+  wirtschaft_aktivitäten: Mühlenbetriebe, Eisenverarbeitung
+  grund_wirtschaft: vermutlich auf den Durchgangsverkehr der Römerstraße
+  römerstraße_herkunft: von Riegel am Kaiserstuhl kommend
+  römerstraße_funktion: bildete Hauptstraße des römischen Ortes
+  ende_ereignis: Limesfall
+  ende_jahr: 259 oder 260
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-umkirch/007
+ENTITÄT: burg
+BEZEICHNUNG: Dachswangen
+EIGENSCHAFTEN:
+  lage_ursprung: am Ort der Dachswanger Mühle
+  beschreibung: früher Burg, heute Mühle (Dachswanger Mühle)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-umkirch/008
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: Mariä Himmelfahrt
+EIGENSCHAFTEN:
+  stil_ursprünglich: romanisch
+  bauzeitraum_ursprünglich: zweite Hälfte 11. Jahrhundert
+  superlativ: gilt als älteste Pfarrkirche des Breisgaus
+  umbau_gotik_jahrhundert: 14. Jahrhundert
+  umbau_gotik_stil: gotischer Stil
+  umbau_barock_zeitraum: 1760-1765
+  seitenaltäre_künstler: Johann Caspar Brenzinger
+  patronatsrecht_inhaber: Bischöfe von Basel
+  patronatsrecht_bis_ereignis: Übergang des Breisgaus an das Großherzogtum Baden
+GUELTIG_AB: 11. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+BERICHTIGT: Superlativ nur mit Vorbehalt (Artikel: gilt als; Gemeinde: wohl älteste).
+---
+ID: 01-umkirch/009
+ENTITÄT: adelssitz
+BEZEICHNUNG: Adelssitz der Herren Geben
+EIGENSCHAFTEN:
+  ort: Umkirch
+  zeitraum: 14. Jahrhundert
+GUELTIG_AB: 14. Jahrhundert
+GUELTIG_BIS: 14. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-umkirch/010
+ENTITÄT: schloss
+BEZEICHNUNG: Hohenzollernschloss
+EIGENSCHAFTEN:
+  schlosspark: vorhanden
+  besitzsituation: Privatbesitz
+  öffentlich_zugänglich: false
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/011
+ENTITÄT: schloss
+BEZEICHNUNG: Büningen
+EIGENSCHAFTEN:
+  typ: Wasserschloss
+  ursprung_zeit: Mittelalter
+  zerstörung_ereignis: Brand während des Dreißigjährigen Kriegs
+  zerstörung_grund: Dreißigjähriger Krieg
+  wiederaufbau_zeitraum: 1663-1669
+  aktuelle_nutzung: Rathaus
+  nutzung_umwandlung_zeitpunkt: 2005 nach Umbau und Sanierung
+GUELTIG_AB: Mittelalter
+GUELTIG_BIS: Dreißigjähriger Krieg (Zerstörung)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/012
+ENTITÄT: muehle
+BEZEICHNUNG: Schlossmühle
+EIGENSCHAFTEN:
+  restaurierung: 2005
+  aktuelle_nutzung: Heimatmuseum
+GUELTIG_AB: 2005 (als Museum)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/013
+ENTITÄT: kriegsgefangenenlager
+BEZEICHNUNG: Kriegsgefangenenlager Umkirch
+EIGENSCHAFTEN:
+  insassen_nationalität: alliierte
+  insassen_status: Kriegsgefangene in deutschem Gewahrsam
+  funktion: Arbeitsleistung in der Landwirtschaft
+GUELTIG_AB: 1916
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-umkirch/014
+ENTITÄT: flugzeugabsturz
+BEZEICHNUNG: Abgeschossenes französisches Flugzeug
+EIGENSCHAFTEN:
+  datum: 12. Oktober 1916
+  nationalität: französisch
+  status: abgeschossenes Flugzeug
+  ort: über Umkirch abgestürzt; abgeschossen wurde es bei Luftkämpfen über Freiburg
+  kontext: nach Luftkämpfen über Freiburg
+GUELTIG_AB: 1916
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+BERICHTIGT: Das Flugzeug wurde über Freiburg abgeschossen und stürzte über Umkirch ab; es wurde nicht über Umkirch abgeschossen.
+---
+ID: 01-umkirch/015
+ENTITÄT: wirtschaftliches_ereignis
+BEZEICHNUNG: Hochinflation in der Weimarer Republik
+EIGENSCHAFTEN:
+  zeitraum: 1923
+  ort: Umkirch
+  beschreibung: galoppierende Hochinflation 1923
+  umlage_november_1923: zweihundertmillionenfach höher als 1922
+  grunderwerbssteuer_februar_1924: 4 Billionen und 872 Milliarden Mark
+GUELTIG_AB: 1923
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-umkirch/016
+ENTITÄT: gebietsreform
+BEZEICHNUNG: Gemeindereform Baden-Württemberg
+EIGENSCHAFTEN:
+  jahr: 1974
+  kontext: Wunsch Freiburgs, Umkirch einzugemeinden
+  entscheidung: Das Land entschied mit dem Gesetz von 1974, dass Umkirch selbstständig bleibt; der Regierungsentwurf hatte die Eingemeindung vorgesehen
+  grund_entscheidung: starker Widerstand der Umkircher Bevölkerung
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+BERICHTIGT: Nicht die Landesregierung ließ Umkirch selbstständig, ihr Entwurf sah die Eingemeindung vor. Neutral: das Land.
+---
+ID: 01-umkirch/017
+ENTITÄT: bundesstraße
+BEZEICHNUNG: Ortsumfahrung Umkirch der Bundesstraße 31
+EIGENSCHAFTEN:
+  freigabe_datum: 20. Dezember 2007
+  freigabe_durch: Sven von Ungern-Sternberg (ehemaliger Regierungspräsident)
+  wartezeit: lang
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/018
+ENTITÄT: bundesstraße
+BEZEICHNUNG: B 31-West
+EIGENSCHAFTEN:
+  streckenverlauf: bis Gottenheim
+  öffnung_datum: 7. September 2012
+  beschreibung: Weiterbau
+GUELTIG_AB: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/019
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Pascal Saffran
+EIGENSCHAFTEN:
+  partei: parteilos
+  amtsantritt: 9. Juni 2026
+  wahl_datum: 19. April 2026
+  wahl_stimmenanteil: 51,5 %
+  wahlbeteiligung: 44,8 %
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/020
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Walter Laub
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt_jahr: 2002
+  amtsende_anlass: trat bei der Bürgermeisterwahl 2026 nicht erneut an
+GUELTIG_AB: 2002
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/021
+ENTITÄT: gemeindeverwaltungsverband
+BEZEICHNUNG: March-Umkirch
+EIGENSCHAFTEN:
+  sitz: March
+  partner: Gemeinde March
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/022
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Bruges
+EIGENSCHAFTEN:
+  land: Frankreich
+  département: Gironde
+  gültig_seit: 1989
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/023
+ENTITÄT: sbahn_halt
+BEZEICHNUNG: Hugstetten
+ORTSTEIL_BEZUG: March
+EIGENSCHAFTEN:
+  entfernung_umkirch: 3 km
+  genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-umkirch/024
+ENTITÄT: straßenbahn_haltestelle
+BEZEICHNUNG: Paduaallee
+ORTSTEIL_BEZUG: Lehen
+EIGENSCHAFTEN:
+  entfernung_umkirch: 5 km
+  genauigkeit: ca.
+  betreiber: Straßenbahn Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-umkirch/025
+ENTITÄT: straßenbahn_haltestelle
+BEZEICHNUNG: Bollerstaudenstraße
+ORTSTEIL_BEZUG: Rieselfeld
+EIGENSCHAFTEN:
+  entfernung_umkirch: 5 km
+  genauigkeit: ca.
+  betreiber: Straßenbahn Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-umkirch/026
+ENTITÄT: straßenbahnlinie_projekt
+BEZEICHNUNG: Verlängerung Straßenbahnlinie Rieselfeld über Mundenhof nach Umkirch
+EIGENSCHAFTEN:
+  status: ursprünglich angedacht, wird aktuell nicht mehr verfolgt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/027
+ENTITÄT: fahrradverleihsystem
+BEZEICHNUNG: Frelo
+EIGENSCHAFTEN:
+  stationen_umkirch: zwei
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/028
+ENTITÄT: radroute
+BEZEICHNUNG: Alltagsroute aus dem Radnetz Baden-Württemberg
+EIGENSCHAFTEN:
+  verbindung_1: Umkirch über Gottenheim und Ihringen mit Breisach
+  verbindung_2: Umkirch mit Freiburg über Autobahnkreuz Freiburg Mitte auf FR 1
+  verbindung_3_alternativ: FR 5 über Sportanlagen und Mundenhof durch Brücke über A 5 oder über Ortsausgangsstraße nach Waltershofen und Opfinger See
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-umkirch/029
+ENTITÄT: radschnellweg
+BEZEICHNUNG: Radschnellweg nach Breisach
+EIGENSCHAFTEN:
+  geplante_führung: künftig nördlich an Umkirch vorbei
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-umkirch/030
+ENTITÄT: bundesstraße
+BEZEICHNUNG: Bundesstraße 31a
+EIGENSCHAFTEN:
+  verbindung_autobahn: Bundesautobahn 5
+  verbindung_stadt: Freiburg
+  fahrtzeit_freiburg_innenstadt: weniger als 15 Minuten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/031
+ENTITÄT: unternehmen
+BEZEICHNUNG: Welte Fahrzeugbau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/032
+ENTITÄT: unternehmen
+BEZEICHNUNG: hms-sonosystems GmbH
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/033
+ENTITÄT: unternehmen
+BEZEICHNUNG: TRUMPF Medizin Systeme GmbH + Co. KG
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/034
+ENTITÄT: unternehmen
+BEZEICHNUNG: Gerriets GmbH
+EIGENSCHAFTEN:
+  branche: Bühnenausstattung
+  superlativ: weltweit führendes Unternehmen für Bühnenausstattung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/035
+ENTITÄT: kinderbuildungszentrum
+BEZEICHNUNG: KinderBildungsZentrum Umkirch
+EIGENSCHAFTEN:
+  kürzel: KiZ
+  enthaltene_einrichtungen: Kindertagesstätte, Grundschule, Hort, Kernzeitbetreuung, Mittagstisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/036
+ENTITÄT: volkshochschule
+BEZEICHNUNG: Volkshochschule Umkirch
+EIGENSCHAFTEN:
+  angebot: Weiterbildungsmöglichkeiten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/037
+ENTITÄT: gemeindearchiv
+BEZEICHNUNG: Gemeindearchiv Umkirch
+EIGENSCHAFTEN:
+  eigenständigkeit: eigenständiges Gemeindearchiv
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/038
+ENTITÄT: hallenbad
+BEZEICHNUNG: Hallenbad Umkirch
+EIGENSCHAFTEN:
+  schließung_jahr: 2020
+  schließung_typ: dauerhaft geschlossen
+  abriss: inzwischen abgerissen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/039
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Katholische Kirchengemeinde Umkirch
+EIGENSCHAFTEN:
+  konfession: katholisch
+  seelsorgeeinheit: March-Gottenheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/040
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Umkirch
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  kirchenbezirk: Breisgau-Hochschwarzwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/041
+ENTITÄT: park
+BEZEICHNUNG: Queen-Auguste-Victoria-Park
+EIGENSCHAFTEN:
+  ehemaliger_name: Fulwell Park
+  lage_bezug: beim Hohenzollernschloss
+  fläche: 11 Hektar
+  auszeichnung: Europäischer Gartenkultur-Schöpfungspreis
+  öffentlich_zugänglich: false
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/042
+ENTITÄT: sportveranstaltung
+BEZEICHNUNG: Neujahrsschachturnier um den Breisgaupokal
+EIGENSCHAFTEN:
+  ausgabe_42: 10. Januar 2016
+  ausgabe_43: 8. Januar 2017
+  ort: Turn- und Festhalle Umkirch
+  veranstalter: Schachclub Umkirch 1969
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/043
+ENTITÄT: verein
+BEZEICHNUNG: Akkordeonspielring Umkirch/Gottenheim e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/044
+ENTITÄT: verein
+BEZEICHNUNG: DRK Kreisverband Freiburg e.V. Sozialpädagogische Schülerhilfe Umkirch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/045
+ENTITÄT: verein
+BEZEICHNUNG: Freiwillige Feuerwehr Umkirch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/046
+ENTITÄT: verein
+BEZEICHNUNG: Förderverein Umkircher Mühle e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/047
+ENTITÄT: verein
+BEZEICHNUNG: Freizeit – Sportverein Umkirch e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/048
+ENTITÄT: verein
+BEZEICHNUNG: Gewerbeverein Umkirch e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/049
+ENTITÄT: verein
+BEZEICHNUNG: Krabbelgruppe Wichtelbande e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/050
+ENTITÄT: verein
+BEZEICHNUNG: Schachclub Umkirch 1969 e.V.
+EIGENSCHAFTEN:
+  gründungsjahr: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/051
+ENTITÄT: verein
+BEZEICHNUNG: Skiclub Umkirch e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/052
+ENTITÄT: verein
+BEZEICHNUNG: Umkirch erleben e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/053
+ENTITÄT: verein
+BEZEICHNUNG: Umkircher Narrenclub e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/054
+ENTITÄT: verein
+BEZEICHNUNG: Umkircher Vereinsgemeinschaft e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/055
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Friedrich Wilhelm Prinz von Hohenzollern
+EIGENSCHAFTEN:
+  lebensjahre: 1924–2010
+  tätigkeit: ehemaliges Oberhaupt des Hauses Hohenzollern-Sigmaringen
+  bezug_zu_umkirch: Sohn/Tochter der Gemeinde
+GUELTIG_AB: 1924
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/056
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ferfried Prinz von Hohenzollern
+EIGENSCHAFTEN:
+  lebensjahre: 1943–2022
+  tätigkeit: Tourenwagen-Rennfahrer
+  bezug_zu_umkirch: Sohn/Tochter der Gemeinde
+GUELTIG_AB: 1943
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/057
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Leopold Prinz von Bayern
+EIGENSCHAFTEN:
+  geburtsjahr: 1943
+  tätigkeit: ehemaliger Automobilrennfahrer
+  bezug_zu_umkirch: Sohn/Tochter der Gemeinde
+GUELTIG_AB: 1943
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/058
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Werner Käß
+EIGENSCHAFTEN:
+  lebensjahre: 1924–2022
+  tätigkeit: Geologe
+  auszeichnung: Träger der Staufermedaille
+  bezug_zu_umkirch: wohnte in Umkirch
+GUELTIG_AB: 1924
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/059
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Cécile Verny
+EIGENSCHAFTEN:
+  geburtsjahr: 1969
+  tätigkeit: Jazz-Sängerin, Frontfrau des Cécile Verny Quartets
+  bezug_zu_umkirch: lebt in Umkirch
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/060
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Rüdiger Tonojan
+EIGENSCHAFTEN:
+  geburtsjahr: 1972
+  tätigkeit: Politiker (Bündnis 90/Die Grünen)
+  bezug_zu_umkirch: aufgewachsen in Umkirch
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

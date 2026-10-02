@@ -1,0 +1,113 @@
+ID: 04-zaehringen+2/001
+ENTITÄT: kirche
+BEZEICHNUNG: Thomaskirche
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  stadtteil: Zähringen
+  stadt: Freiburg im Breisgau
+  pfarrgemeinde: Pfarrgemeinde Nord der evangelischen Kirche Freiburg
+  nebenkirche: Ludwigskirche
+  grund_neugründung: Zuzug von Flüchtlingen und Vertriebenen nach Zweitem Weltkrieg machte Pfarrvikariat der Ludwigsgemeinde zu groß
+  bauzeit: ab 1958 bis 1959
+  architekt: Walter Körte (Freiburg)
+  weihedatum: 28. November 1959
+  laenge: 22.4 m
+  breite: 14 m
+  hoehe: 12.5 m
+  kapazitaet_gesamt: gut 300 Personen im Kirchenraum
+  kapazitaet_empore: 80 Personen
+  kapazitaet_saal: 100 Personen (Saal zur Kirche hin öffnungsfähig)
+  altarwand_material: Schwarzwaldgranit-Bruchsteine
+  altarwand_fenster: künstlerisch gestaltetes Buntglasfenster
+  fenster_seitlich: raumhohe aus Betonformsteinen gebildete Klarglasfenster
+  bodenmaterial: schwarzer Schiefer
+  wandmaterial: sichtbares hell verfugtes Backsteinmauerwerk
+  kuenstlerische_fenster_schoepfer: Hugo Körte
+  altarfenster_motiv: Lamm Gottes
+  emporenfenster_motive: Hahn, Ähren, Die klugen und die törichten Jungfrauen
+  geplante_entwuerfe_nicht_realisiert: Öllampen/Jungfrauen, Taube, Fisch, Dornenkrone, Korn und Wein, Heiliggeisttaube
+  umbau_geplant: ab 2014
+  umbau_beginn: 2020
+  umbau_abschluss_geplant: 2022
+  umbau_grund: Modernisierung zu multifunktionalem Gemeindezentrum mit Pflegeheim
+GUELTIG_AB: 1959
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-zaehringen+2/002
+ENTITÄT: glockenturm
+BEZEICHNUNG: Glockenturm Thomaskirche
+EIGENSCHAFTEN:
+  standort: Südwestecke des Grundstücks
+  baujahr: 1961
+  glockenanzahl: 3
+  glockengewicht_gesamt: 2925 kg
+  glocke_1: Betglocke (groß)
+  glocke_2: Thomasglocke
+  glocke_3: Taufglocke (kleinste)
+GUELTIG_AB: 1961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-zaehringen+2/003
+ENTITÄT: person
+BEZEICHNUNG: Walter Körte
+EIGENSCHAFTEN:
+  profession: Freiburger Architekt
+  lebensdaten: 1893-1972
+  werke: Pläne und Entwurf Thomaskirche
+GUELTIG_AB: 1893
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-zaehringen+2/004
+ENTITÄT: person
+BEZEICHNUNG: Hugo Körte
+EIGENSCHAFTEN:
+  profession: Künstler
+  verwandtschaft: jüngerer Bruder des Architekten Walter Körte
+  lebensdaten: 1897-1974
+  werke: künstlerisch gestaltete Betonglasfenster der Thomaskirche
+  kunstform: Betonglasfenster
+GUELTIG_AB: 1897
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-zaehringen+2/005
+ENTITÄT: pfarrgemeinde
+BEZEICHNUNG: Ludwigsgemeinde (später Pfarrgemeinde Nord Zähringen)
+EIGENSCHAFTEN:
+  vorgaenger: Pfarrvikariat in Freiburg-Herdern
+  grund_neugründung: Pfarrvikariat der Ludwigsgemeinde in Herdern zu groß nach Zuzug von Flüchtlingen und Vertriebenen
+  gründung_ort: Zähringen
+  eigenstaendigkeit: eigene Gemeinde
+  zugehoerigkeit: Pfarrgemeinde Nord der evangelischen Kirche Freiburg
+  kirchengebaeude: Thomaskirche
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 04-zaehringen+2/006
+ENTITÄT: architekturbüro
+BEZEICHNUNG: Sacker (Freiburg)
+EIGENSCHAFTEN:
+  auftraggeber_aktion: Pläne für Umbau Gemeindezentrum ab 2020
+  projekt: Umgestaltung Thomaskirche zu multifunktionalem Gemeindezentrum
+  gebaeudezubesatz: Kita-Flachbau wird durch viergeschossiges Pflegeheim ersetzt
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-zaehringen+2/007
+ENTITÄT: organisation
+BEZEICHNUNG: Evangelische Stadtmission
+EIGENSCHAFTEN:
+  aktion_rolle_neu: wird neue Grundstückseigentümerin Gemeindezentrum
+  grund_eigentumsuebernahme: Pflegeheim in Innenstadt entspricht nicht heutigen Standards
+  grund_kein_umbau: notwendiger Umbau des bisherigen Heims wirtschaftlich nicht vertretbar
+  zukuenftiges_projekt: viergeschossiges Pflegeheim am Thomaskirche-Grundstück
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

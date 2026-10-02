@@ -1,0 +1,237 @@
+ID: 04-zaehringen/001
+ENTITÄT: ort
+BEZEICHNUNG: Zähringen
+EIGENSCHAFTEN:
+  regierungsbezirk: Freiburg im Breisgau
+  lage: Stadtteil, Norden der Stadt
+  nachbargemeinde_nord: Gundelfingen
+  nachbarstadtteil_sued: Herdern
+  nachbarstadtteil_west: Brühl
+  einwohner: 9400
+  einwohner_genauigkeit: ca.
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-zaehringen/002
+ENTITÄT: stadt_verwaltung
+BEZEICHNUNG: Eingemeindung Zähringen
+EIGENSCHAFTEN:
+  ereignis: Vereinigung mit Freiburg
+  datum: 1. Januar 1906
+  quellname: Vereinigungsvertrag
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 04-zaehringen/003
+ENTITÄT: siedlung
+BEZEICHNUNG: Dorf Zähringen
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1008
+  erste_erwaehnung_grund: Schenkungsurkunde König Heinrich II. an Bistum Basel (Wildbannurkunde)
+  erste_erwaehnung_dokument: Wildbannurkunde
+  erste_erwaehnung_bezeugt_mit: Herdern, Wiehre, Gundelfingen und weitere Orte im Breisgau
+  nachweise: mehrfach als Ortsteil Freiburgs
+GUELTIG_AB: 1008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 04-zaehringen/004
+ENTITÄT: burg
+BEZEICHNUNG: Burg Zähringen
+EIGENSCHAFTEN:
+  erste_erwaehnung_bericht: 1080
+  erste_erwaehnung_quelle: Bericht Otto von Freisings
+  erste_urkundliche_erwaehnung: 1128
+  erste_urkundliche_erwaehnung_dokument: Rotulus Sanpetrinus
+  entstehungsgeschichte: liegt im Dunkeln
+  beschreibung: Burg mit Ursprungsgeschichte unbekannt
+GUELTIG_AB: 1080
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+BERICHTIGT: Burgen-Quellen nennen Berthold II. als Bauherrn vor 1100; Otto von Freising schrieb erst in den 1150er Jahren über 1080; die Ruine liegt auf Gundelfinger Gemarkung. Die Entstehung der Burg trägt keine Frage nach dem Bauherrn.
+---
+ID: 04-zaehringen/005
+ENTITÄT: herrschaft
+BEZEICHNUNG: Herzöge von Zähringen
+EIGENSCHAFTEN:
+  grundbesitz: Burg und Dorf Zähringen
+  nachfolger: Grafen von Freiburg
+  nachfolgezeit: nach Herzogszeit
+GUELTIG_AB: 1080
+GUELTIG_BIS: vor 1327
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-zaehringen/006
+ENTITÄT: herrschaft
+BEZEICHNUNG: Grafen von Freiburg
+EIGENSCHAFTEN:
+  grundbesitz: Dorf Zähringen
+  verkauf: 1327 an Schnewlin Bernlapp
+GUELTIG_AB: vor 1327
+GUELTIG_BIS: 1327
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 04-zaehringen/007
+ENTITÄT: adel
+BEZEICHNUNG: Schnewlin Bernlapp
+EIGENSCHAFTEN:
+  besitzerwerb: 1327
+  besitzerwerb_grund: Verkauf durch Grafen von Freiburg
+  grundbesitz: Dorf Zähringen
+GUELTIG_AB: 1327
+GUELTIG_BIS: vor 1443
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 04-zaehringen/008
+ENTITÄT: adel
+BEZEICHNUNG: Schnewlin zum Wiger
+EIGENSCHAFTEN:
+  besitzerwerb: 1443
+  grundbesitz: Dorf Zähringen
+GUELTIG_AB: 1443
+GUELTIG_BIS: vor 1536
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 04-zaehringen/009
+ENTITÄT: adel
+BEZEICHNUNG: Schnewlin von Landeck
+EIGENSCHAFTEN:
+  besitzerwerb: 1536
+  grundbesitz: Dorf Zähringen
+GUELTIG_AB: 1536
+GUELTIG_BIS: Ende 16. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 04-zaehringen/010
+ENTITÄT: adel
+BEZEICHNUNG: Herren von Sickingen
+EIGENSCHAFTEN:
+  besitzerwerb_zeit: Ende 16. Jahrhundert
+  besitzerwerb_grund: Erbschaft von Schnewlin von Landeck
+  grundbesitz: Dorf Zähringen
+GUELTIG_AB: Ende 16. Jahrhundert
+GUELTIG_BIS: bis Eingemeindung
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-zaehringen/011
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Blasius-Kirche
+EIGENSCHAFTEN:
+  konfession: katholisch
+  baustil: Weinbrenner-Stil
+  baustil_beschreibung: nach den Plänen von Christoph Arnold, Schüler Friedrich Weinbrenners
+  bauzeit: 1822-1823
+  architekt: Christoph Arnold
+  architekt_beschreibung: Schüler Friedrich Weinbrenners
+  quellenliteratur: Hans-Josef Wollasch, St. Blasius in Zähringen, Lavori Freiburg 2008
+GUELTIG_AB: 1822
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 04-zaehringen/012
+ENTITÄT: kirche
+BEZEICHNUNG: Thomaskirche
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  lage: Tullastraße
+  bauzeit: 1958-1959
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 04-zaehringen/013
+ENTITÄT: zentrale_stelle
+BEZEICHNUNG: Bahnhaltepunkt Zähringen
+EIGENSCHAFTEN:
+  bahnstrecke: Rheintalbahn
+  bahnlinie: Breisgau-S-Bahn
+  verbindung: Freiburg Hauptbahnhof über Denzlingen nach Elzach
+  geplante_verbesserung: Umwandlung Güterumgehungsbahn in S-Bahn mit zusätzlichen Haltepunkten
+  geplante_verbesserung_orte: Tullastraße und Berggasse (Zähringen-Nord)
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 04-zaehringen/014
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Straßenbahn Zähringen
+EIGENSCHAFTEN:
+  erste_anbindung: 1910 (Tag strittig: Wikipedia 10. März, Bürgerverein 10. Mai)
+  erste_anbindung_strecke: Okenstraße bis Reutebachgasse
+  verlaengerung_2014: März 2014, drei Stationen bis Gundelfinger Straße
+  linie_aktuelle: Linie 3
+  linie_aktuelle_gueltig_ab: Dezember 2024
+  linie_aktuelle_verlauf: von Haid bis südlicher Ortsrand Gundelfingens
+  geplante_weitere_verlaengerung: vier Stationen bis Ortsmitte Gundelfingen zur Rheintalbahn
+  geplante_verlaengerung_status: im vordringlichen Bedarf festgeschrieben, Realisierung nach Bürgerentscheid 2023 praktisch ausgeschlossen
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+BERICHTIGT: Der Tag der ersten Straßenbahn ist strittig, das Jahr 1910 gesichert.
+---
+ID: 04-zaehringen/015
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Radschnellweg
+EIGENSCHAFTEN:
+  ziele: Emmendingen und Waldkirch
+  route: von Neuburg und Herdern über Burgdorfer Weg und Wildtalstraße entlang Rheintalbahn nach Gundelfingen
+  massnahme_hinterkirchstrasse: Unterführung soll ab Anfang 2026 für den Kfz-Verkehr gesperrt werden (Plan, Vollzug nicht belegt)
+GUELTIG_AB: geplant
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+BERICHTIGT: Die Sperrung ist ein Plan; enge Unterführung und Anwohner gehören zur wirklichen Vorgeschichte und taugen nicht als falsche Optionen.
+---
+ID: 04-zaehringen/016
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Radwegnetz Zähringen
+EIGENSCHAFTEN:
+  fr2: entlang Güterbahn, verbindung Nord-Süd-Richtung mit Universitätsklinikum, Stühlinger, Haslach
+  fr3: entlang Straßenbahnlinie durch Waldkircher Straße
+  frelo_stationen: 4 Stationen des Fahrradverleihsystems Frelo
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 04-zaehringen/017
+ENTITÄT: verkehrsweg
+BEZEICHNUNG: Bundesstraße B 3
+EIGENSCHAFTEN:
+  beschreibung: verläuft mitten durch Zähringen
+  geplante_massnahme: Entlastung vom Verkehrslärm (langfristig)
+GUELTIG_AB: vor 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 04-zaehringen/018
+ENTITÄT: freizeit_infrastruktur
+BEZEICHNUNG: Pumptrack
+EIGENSCHAFTEN:
+  lage: zwischen Denzlinger Straße und Isfahanallee
+  eroeffnung: Juni 2020
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-zaehringen/019
+ENTITÄT: bestandsaufnahme
+BEZEICHNUNG: Bevölkerungszählung vor Eingemeindung
+EIGENSCHAFTEN:
+  zeitpunkt: 1904
+  einwohner: 2185
+  haushaltungen: 455
+  gebaeude: 237
+  katholiken: 1926
+  protestanten: 253
+  sonstige: 6
+GUELTIG_AB: 1904
+GUELTIG_BIS: 1904
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98

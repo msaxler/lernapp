@@ -1,0 +1,1200 @@
+ID: 10-staufen/001
+ENTITÄT: ort
+EIGENSCHAFTEN:
+  name: Staufen im Breisgau
+  einwohner: 8500
+  einwohner_stand: 31. Dezember 2022
+  landkreis: Breisgau-Hochschwarzwald
+  bundesland: Baden-Württemberg
+  namenszusatz_gültig_ab: 4. März 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-staufen/002
+ENTITÄT: naturraum
+BEZEICHNUNG: Schlossberg
+EIGENSCHAFTEN:
+  typ: Berg
+  besonderheit: erhebt sich steil nördlich des Talausgangs
+  beschreibung: manchmal fälschlich als Vulkankegel bezeichnet
+  geologie: hauptsächlich Braunjuraschollen und tertiäres Konglomerat
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Grunern
+EIGENSCHAFTEN:
+  status: ehemals selbständige Gemeinde
+  eingemeindung_datum: 1. Januar 1974
+  unterteile: Dorf Grunern, Weiler Etzenbach, Weiler Kropbach, Höfe Hohacker, Sahlenbach, Schleifsteinhof, Schöneck
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-staufen/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wettelbrunn
+EIGENSCHAFTEN:
+  status: ehemals selbständige Gemeinde
+  eingemeindung_datum: 1. Juli 1971
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-staufen/005
+ENTITÄT: burg
+BEZEICHNUNG: Burg Staufen
+EIGENSCHAFTEN:
+  gründung_zeit: im Laufe des 12. Jahrhunderts angenommen
+  erste_erwähnung: 1248
+  besitz_stadt_freiburg_erwerb: ca. 1327
+  beschreibung: Ruine, sichtbar von weitem über der Rheinebene
+  besitz_heute: Stadt Staufen
+  beleuchtung: nachts hell angestrahlt
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/006
+ENTITÄT: adelsfamilie
+BEZEICHNUNG: Herren von Staufen
+EIGENSCHAFTEN:
+  erste_erwähnung: 1111
+  herkunft: Nebenlinie derer von Blankenberg
+  verwandtschaft_hohenstaufen: nicht verwandt
+  herrschaftsdauer: fast 500 Jahre kontinuierlich
+  superlativ: kontinuierliche Herrschaft über ein halbes Jahrtausend bemerkenswert
+  erloschenes_geschlecht: 1602
+GUELTIG_AB: 1111
+GUELTIG_BIS: 1602
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/007
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Martin
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  adresse: Kirchstraße 17
+  architektur: Spätgotische, dreischiffige Basilika
+  weihe: 1518
+  kunstwerke: Skulpturen von Hans Multscher, teilweise Werke von Hans Sixt von Staufen
+  barockisierung: nach Dreißigjährigen Krieg
+  neugotische_ausgestaltung: 1870-1879
+  restauration: 1993 teilweise wiederhergestellt
+GUELTIG_AB: 1518
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/008
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Martin-Luther-Kirche
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  adresse: Münstertäler Straße 1
+  einweihung: 1899
+  gründungsgrund: für Diasporagemeinde mit knapp 200 Mitgliedern
+  architektur: gotische Stilelementen
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/009
+ENTITÄT: kapelle
+BEZEICHNUNG: Friedhofskapelle St. Sebastian
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  adresse: Wettelbrunner Str. 17
+  gründungsgrund: Ersatz für aufgelassenen Friedhof bei St. Martin (Ende 16. Jahrhundert)
+  ältester_grabstein: 1597
+  architektur: spätgotisch
+  einweihung: 1600
+  restauration: 1652 nach Dreißigjährigen Krieg, 1826, 1983-2014
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/010
+ENTITÄT: kapelle
+BEZEICHNUNG: Magdalenenkapelle
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  adresse: Krozinger Straße 1 a
+  erbauung: 1586
+  gründungsgrund: Leprosenhauskapelle
+  wiederaufbau: 1738 nach Brand
+  umwandlung: 1827 zu Waschhaus und Brennerei
+  besitzer_seit_1996: Arbeitskreis Staufener Stadtbild e.V.
+GUELTIG_AB: 1586
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/011
+ENTITÄT: kapelle
+BEZEICHNUNG: Gotthardkapelle
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  adresse: Bötzenstraße 67
+  erste_erwähnung: 1352
+  ursprungsname: Krozinger Filialkirche ad sanctum Gothardum
+  nutzungen: Leprosenkapelle, später Einsiedelei
+  barockaltar: seit 1896 aus der Magdalenenkapelle
+GUELTIG_AB: 1352
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/012
+ENTITÄT: kapelle
+BEZEICHNUNG: Johanneskapelle
+ORTSTEIL_BEZUG: Staufen im Breisgau (Dürenbuck)
+EIGENSCHAFTEN:
+  erbauung: 1685
+  erbauer: Eremit Johannes Willi
+  gründungsgrund: nachdem dieser die St. Gotthardkapelle verlassen musste
+  besitzer_seit_2003: Arbeitskreis Staufener Stadtbild e.V.
+  restauration_abschluss: 2005
+  auszeichnung: Denkmal des Monats November 2004 (Denkmalstiftung Baden-Württemberg)
+GUELTIG_AB: 1685
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/013
+ENTITÄT: kapelle
+BEZEICHNUNG: Gefallenenkapelle St. Josef
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  adresse: Bötzenstraße 39
+  erbauer: Hofbauer Schlegel
+  erbauung: ca. 1760
+  gründungsgrund: Andachtskapelle des Barock
+  schaden_kriegsende: Dachziegel für Wiederaufbau verwendet
+  neuweihung: 22. Juni 1952
+  neuweihung_grund: christliche Gedächtnisstätte für Opfer beider Weltkriege
+GUELTIG_AB: 1760
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/014
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapellenbildstock Krozinger Straße
+ORTSTEIL_BEZUG: Staufen im Breisgau (Fuß des Schlossbergs)
+EIGENSCHAFTEN:
+  erbauung: Ende 19. Jahrhundert
+  erbauer_grund: Familie Wehrle zur Aufnahme Lourdes-Madonna
+  stifterin: Familie Midelet aus Paris
+  restauration: 1999, 2017
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 10-staufen/015
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Agatha
+ORTSTEIL_BEZUG: Grunern
+EIGENSCHAFTEN:
+  adresse: Dorfstraße 1
+  erste_erwähnung: 1144
+  turm: Teile aus Mittelalter
+  kirchenbau: 1726
+  ausstattung: neugotisch
+  kanzel_herkunft: aus aufgelassenem Kapuzinerkloster Staufen
+GUELTIG_AB: 1144
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/016
+ENTITÄT: kapelle
+BEZEICHNUNG: Friedhofskapelle Grunern
+ORTSTEIL_BEZUG: Grunern
+EIGENSCHAFTEN:
+  adresse: Altenbergstraße
+  erbauung: 1869
+  gründungsgrund: anlässlich Verlagerung des Friedhofs von Pfarrkirche
+GUELTIG_AB: 1869
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/017
+ENTITÄT: kapelle
+BEZEICHNUNG: Hofkapelle Schneider
+ORTSTEIL_BEZUG: Grunern-Kropbach
+EIGENSCHAFTEN:
+  adresse: Kropbach 4
+  erbauung: 1881
+  gründungsgrund: Dank für Genesung des damaligen Hofbesitzers
+GUELTIG_AB: 1881
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 10-staufen/018
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Vitus
+ORTSTEIL_BEZUG: Wettelbrunn
+EIGENSCHAFTEN:
+  adresse: St. Vitus-Straße 1
+  langhaus_neubau: 1733 nach Brand
+  chor: spätmittelalterlich
+  turm: romanisch mit barocker Aufstockung
+GUELTIG_AB: 1733
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/019
+ENTITÄT: theater
+BEZEICHNUNG: Auerbachs Kellertheater
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  adresse: Auf dem Rempart 7
+  gründung: 1987
+  gründer: Eberhard Busch
+  gründer_philosophie: intelligentes und kein intellektuelles Theater
+  umzug: 1989
+  ort_beschreibung: alter Gewölbekeller, ehemaliges Schnapslager Schladerer
+  plätze: 99 Besucher
+  bekanntheit: überregional
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/020
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  ort: historisches Rathaus
+  schwerpunkte: mittelalterliche Stadt, Silberbergbau, Hans Sixt von Staufen, Johann Georg Faust, Badische Revolution 1848
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/021
+ENTITÄT: ausstellung
+BEZEICHNUNG: Peter Huchel – Erhart Kästner Dauerausstellung
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  ort: Stubenhaus
+  träger: Deutsches Literaturarchiv Marbach
+  typ: literarisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/022
+ENTITÄT: museum
+BEZEICHNUNG: Keramikmuseum Staufen
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  träger: Außenstelle Badisches Landesmuseum Karlsruhe
+  besonderheit: Töpferwerkstatt im Original mit Tongrube, Scheibe, Glasurmühle, Holzbrennöfen
+  wechselausstellungen: zeitgenössische Keramik
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/023
+ENTITÄT: museum
+BEZEICHNUNG: Tango- und Bandoneonmuseum
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  eröffnung: Juli 2014
+  ort: Kapuzinerhof
+  sammlung: 450 Bandoneons und Exponate (Konrad und Axel Steinhart)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/024
+ENTITÄT: werkstatt
+BEZEICHNUNG: Fark'sche Werkstatt
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  adresse: Bahnhofstraße
+  typ: technisches Denkmal, Maschinenbau- und Schlosserwerkstatt
+  zeit: Frühzeit des Maschinenbaus
+  zugang: nur auf Anfrage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 10-staufen/025
+ENTITÄT: brücke
+BEZEICHNUNG: Deckerbrücke
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  offizialname: Gusseisenbrücke über den Neumagen
+  volkstümlicher_name: Deckerbrücke
+  grund_name: Café Decker stellt Tische und Stühle auf dieser Brücke
+  denkmalschutz: ja
+  superlativ: eine der wenigen erhaltenen gusseisernen Straßenbrücken (Stadt Staufen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+BERICHTIGT: „Deutschlands letzte erhaltene“ steht nur in Wikipedia. Gesichert laut Stadt Staufen: 1845 für die Badische Hauptbahn gefertigt, 1871 nach Staufen versetzt; diese Angaben stehen nicht im Ortsartikel (Quellenzeile: Stadt Staufen).
+---
+ID: 10-staufen/026
+ENTITÄT: gaststaette
+BEZEICHNUNG: Gasthaus zum Löwen
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  erste_erwähnung_urkundlich: 1407
+  superlativ: drittes ältestes Gasthaus Deutschlands
+  genauigkeit_superlativ: vermutlich
+  besitzer_15jh: Kloster St. Trudpert
+  name_bestätigung: 1620
+  denkmalschutz: ja
+  faust_zimmer: Zimmer 5 (um 1900 gestaltet)
+  faust_legend: Faust in Zimmer 5 gestorben 1539
+  faust_todesursache: Explosion, vermutlich alchemistisches Experiment
+  badische_revolution: Löwenwirt 1848 von Querschläger tödlich getroffen
+  bombenangriff_1945: Haus blieb unversehrt
+GUELTIG_AB: 1407
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/027
+ENTITÄT: unternehmen
+BEZEICHNUNG: OWIS GmbH
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  produkt: Hersteller optische Strahlführungs-, Positionier- und Nano-Positioniersysteme
+  mitarbeiter_2007: ca. 50
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 10-staufen/028
+ENTITÄT: unternehmen
+BEZEICHNUNG: IKA, Jahnke & Kunkel GmbH & Co. KG
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  besonderheit: führender Hersteller Laborgeräte, Analysegeräte, Maschinen und Anlagen
+  niederlassungen: weltweit
+  mitarbeiter_staufen: durchschnittlich über 300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 10-staufen/029
+ENTITÄT: unternehmen
+BEZEICHNUNG: Alfred Schladerer, Alte Schwarzwälder Hausbrennerei GmbH
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  besonderheit: einer der führenden Anbieter Marken-Obstbrände
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 10-staufen/030
+ENTITÄT: unternehmen
+BEZEICHNUNG: Stadtwerke MüllheimStaufen GmbH
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  geschäft: Energieversorgung Müllheim und Staufen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 10-staufen/031
+ENTITÄT: unternehmen
+BEZEICHNUNG: Bilcare Research GmbH
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  produkt: Hart-PVC-Folien
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 10-staufen/032
+ENTITÄT: unternehmen
+BEZEICHNUNG: Obstparadies Staufen
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  typ: Biolandbetrieb
+  produkt: Obst, obsthaltige Getränke
+  auszeichnung: Sieger Bundeswettbewerb Ökologischer Landbau 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/033
+ENTITÄT: gericht
+BEZEICHNUNG: Amtsgericht Staufen im Breisgau
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  typ: Amtsgericht
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/034
+ENTITÄT: gymnasium
+BEZEICHNUNG: Faust-Gymnasium
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  rolle: Oberschulzentrum für gesamtes Einzugsgebiet der Stadt
+  schüler: ca. 900
+  lehrkräfte: 90
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/035
+ENTITÄT: grundschule
+BEZEICHNUNG: Thaddäus-Rinderle-Grundschule
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  außenstellen: Grunern, Wettelbrunn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/036
+ENTITÄT: freibad
+BEZEICHNUNG: Alemannenbad
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  typ: solarbeheiztes Freibad
+  besonderheit: große Liegewiese
+  superlativ: ältestes Freibad in Baden-Württemberg (nach Lorettobad Freiburg)
+  denkmalschutz: Eingangsbereich, Umkleidekabinen
+  verein_gründung: 2003 Förderverein Alemannenbad Staufen e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/037
+ENTITÄT: radfernweg
+BEZEICHNUNG: Badischer Weinradweg
+ORTSTEIL_BEZUG: Staufen im Breisgau, Wettelbrunn, Grunern
+EIGENSCHAFTEN:
+  typ: Landes-Radfernweg
+  startpunkt: Grenzach-Wyhlen
+  verlauf_staufen: über Wettelbrunn und Grunern in Kernstadt
+  ziel: Laudenbach (Norden Baden-Württembergs)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/038
+ENTITÄT: bike_system
+BEZEICHNUNG: Frelo Fahrradverleih
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  start: März 2026
+  stationen_staufen: 4 (davon je eine Wettelbrunn, Grunern)
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/039
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Münstertalbahn
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  verlauf: Bad Krozingen nach Münstertal/Schwarzwald
+  betreiber: SWEG
+  elektrifizierung: seit 2013
+  verbindung: Rheintalbahn (Karlsruhe-Basel)
+  klassifizierung: Nebenbahn
+  historischer_zweig: bis 1969 Staufen nach Sulzburg
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/040
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Edelkastanie Staufen
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  alter_ca: 300 Jahre
+  stammumfang: 8,57 m
+  stammumfang_stand: 2011
+  superlativ: Esskastanien mit größtem Umfang in Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/041
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Annafest
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  zeitpunkt: letzter Sonntag im Juli
+  namensherkunft: Stadtpatroziniumsfest
+  programm: Eucharistiefeier Marktplatz, Prozession, Volksfest bis Montagabend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/042
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Staufener Musikwoche
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  zeitpunkt: Ende Juli bis Anfang August
+  gründung: 1949
+  gründer: Ernst Duis, Bürgermeister Eckart Ulmann
+  besucherkunft: weite Teile Deutschlands
+  musikgenre: klassische Musik Mittelalter bis Wiener Klassik
+  besonderheit: mehrstufige Kurswoche mit Abschlusskonzert
+GUELTIG_AB: 1949
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/043
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Markgräfler Weinfest
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  zeitpunkt: Beginn wechselt (2026 Ende Juli)
+  besonderheit: Markgräfler Weinprinzessin wird gekürt
+  aussteller: Winzergenossenschaften und Weingüter Markgräflerland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+BERICHTIGT: Die Krönung fällt auf den Beginn des Weinfests, 2026 auf Ende Juli.
+---
+ID: 10-staufen/044
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Staufener Zeitreise
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  zeitpunkt: drittes Septemberwochenende
+  start: seit 2003
+  ort: ganze Stadt als Freilichtbühne
+  mitwirkende: über 800
+  inhalt: Szenen aus Stadtgeschichte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/045
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Kulturwoche Staufen
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  zeitpunkt: Oktober
+  besonderheit: jährlich wechselndes Grundthema
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/046
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Altstaufener Weihnachtsmarkt
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  zeitpunkt: erster Samstag im Dezember
+  ort: Altstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/047
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Bonneville
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  partnerstadt: Bonneville
+  département: Haute-Savoie
+  land: Frankreich
+  gründung_partnerschaft: 1963
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/048
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Kazimierz Dolny
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  partnerstadt: Kazimierz Dolny
+  woiwodschaft: Lublin
+  land: Polen
+  gründung_partnerschaft: 1994
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/049
+ENTITÄT: freundschaftsabsicht
+BEZEICHNUNG: Dolores
+ORTSTEIL_BEZUG: Staufen im Breisgau
+EIGENSCHAFTEN:
+  partnerstadt: Dolores
+  región: Buenos Aires
+  land: Argentinien
+  absichtserklärung: Herbst 2018
+  verbindendes_element: argentinischer Tango
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 10-staufen/050
+ENTITÄT: historische_figur
+BEZEICHNUNG: Johann Georg Faust
+EIGENSCHAFTEN:
+  lebensdaten: ca. 1480 bis ca. 1541
+  beruf: Wunderheiler, Alchemist, Magier, Astrologe, Wahrsager
+  anstellung_staufen: der verschuldete Burgherr Anton von Staufen soll ihn als Goldmacher angestellt haben (Überlieferung)
+  todesort: Zimmer 5, Gasthaus zum Löwen, Staufen
+  todesjahr: 1539
+  todesursache: Explosion, vermutlich alchemistisches Experiment
+  literarische_inspiration: Goethe, Tragödie Faust (1790)
+  sage: Mephistopheles brach ihm Genick nach 24-jährigem Pakt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+BERICHTIGT: Die Anstellung als Goldmacher ist Überlieferung, keine gesicherte Tatsache.
+---
+ID: 10-staufen/051
+ENTITÄT: dichter
+BEZEICHNUNG: Johann Peter Hebel
+EIGENSCHAFTEN:
+  lebensdaten: 1760-1826
+  beruf: Dichter alemannischer Gedichte, evangelischer Theologe
+  staufen_verbindung: widmete Staufen Strophe in Gedicht Der Schwarzwälder im Breisgau
+  gedicht_original: Z'Staufen uffem Märt hen sie, was me gehrt, Tanz und Wi und Lustberkeit
+  gedicht_bedeutung: In Staufen auf dem Markt gibt es, was man nur möchte: Tanz, Wein und Lustbarkeiten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+BERICHTIGT: Wortlaut der Strophe nach Wikisource.
+---
+ID: 10-staufen/052
+ENTITÄT: theaterleiter
+BEZEICHNUNG: Eberhard Busch
+EIGENSCHAFTEN:
+  gründung: Auerbachs Kellertheater
+  gründungsjahr: 1987
+  philosophie: intelligentes und kein intellektuelles Theater
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/053
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Walter Barth
+EIGENSCHAFTEN:
+  lebensdaten: 1911-1945
+  tätigkeit: Widerstandskämpfer gegen NS-Regime
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/054
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Franz Xaver Bernauer
+EIGENSCHAFTEN:
+  lebensdaten: 1768-1831
+  tätigkeit: Orgelbauer
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/055
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Hans Joachim Faller
+EIGENSCHAFTEN:
+  lebensdaten: 1915-2006
+  tätigkeit: Richter Bundesverfassungsgericht
+  amtszeit: 1971-1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/056
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Joseph Frick
+EIGENSCHAFTEN:
+  lebensdaten: 1806-1875
+  tätigkeit: Mediziner, Pädagoge, Mitglied Zweite Kammer Badische Ständeversammlung
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/057
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Ignaz von Gleichenstein
+EIGENSCHAFTEN:
+  lebensdaten: 1778-1828
+  tätigkeit: Jurist, enger Freund Ludwig van Beethovens
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/058
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Elmar Gutmann
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1952
+  tätigkeit: Musiker, Schauspieler, Synchronsprecher
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/059
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Johann Baptist Haas
+EIGENSCHAFTEN:
+  lebensdaten: 1732-1791
+  tätigkeit: Kupferstecher
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/060
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Hans Hildebrandt
+EIGENSCHAFTEN:
+  lebensdaten: 1878-1957
+  tätigkeit: Kunsthistoriker
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/061
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Hermann Huber
+EIGENSCHAFTEN:
+  lebensdaten: 1906-1985
+  tätigkeit: Richter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/062
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Johann Baptist Metzger
+EIGENSCHAFTEN:
+  lebensdaten: 1771-1844
+  tätigkeit: Kupferstecher, Kunsthändler in Florenz
+  besonderheit: vermittelte bedeutende Werke italienischer Maler in Münchener Pinakothek
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/063
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Thaddäus Rinderle
+EIGENSCHAFTEN:
+  lebensdaten: 1748-1824
+  tätigkeit: Mathematikprofessor, Uhrenbauer
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/064
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Michael Sattler
+EIGENSCHAFTEN:
+  lebensdaten: ca. 1490-1527
+  tätigkeit: Benediktinerprior, Täuferführer, Märtyrer
+  besonderheit: Michael-Sattler-Friedenspreis nach ihm benannt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/065
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Wolfgang Schäfer
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1945
+  tätigkeit: Chorleiter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/066
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Hans Sixt von Staufen
+EIGENSCHAFTEN:
+  lebensdaten: tätig ca. 1515-1532
+  tätigkeit: Bildschnitzer, Steinmetz
+  tätigkeitsort: Staufen, Freiburg
+  werke: Locherer-Altar Freiburger Münster, Herrscherfiguren Freiburger Kaufhaus
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/067
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Kurt Thoma
+EIGENSCHAFTEN:
+  lebensdaten: 1901-1971
+  tätigkeit: Kapitän zur See Kriegs- und Bundesmarine
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/068
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Kurt Wehrle
+EIGENSCHAFTEN:
+  lebensdaten: 1905-1976
+  tätigkeit: Verwaltungsjurist, NS-Polizeipräsident, SS-Standartenführer, Landrat Emmendingen 1953-1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/069
+ENTITÄT: sohn_der_stadt
+BEZEICHNUNG: Heidi Wiesler
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1960
+  tätigkeit: Skirennläuferin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/070
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Thommie Bayer
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1953
+  tätigkeit: Schriftsteller, Musiker, Maler
+  verbindung: lebt in Staufen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/071
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Blasius Bernauer
+EIGENSCHAFTEN:
+  lebensdaten: 1740-1818
+  tätigkeit: Orgelbauer
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/072
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Hoimar von Ditfurth
+EIGENSCHAFTEN:
+  lebensdaten: 1921-1989
+  tätigkeit: Professor Psychiatrie und Neurologie, Wissenschaftsjournalist
+  verbindung: letzte Jahre in Staufen, dort begraben
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/073
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Yannic Han Biao Federer
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1986
+  tätigkeit: Schriftsteller
+  verbindung: in Staufen aufgewachsen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/074
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Adrian Geiges
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1960
+  tätigkeit: Schriftsteller, Journalist
+  verbindung: wuchs in Staufen auf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/075
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Leif Geiges
+EIGENSCHAFTEN:
+  lebensdaten: 1915-1990
+  tätigkeit: Fotograf, Reporter
+  verbindung: lebte in Staufen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/076
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Ingeborg Hecht
+EIGENSCHAFTEN:
+  lebensdaten: 1921-2011
+  tätigkeit: Schriftstellerin, Zeitzeugin
+  verbindung: lebte 1943-1948 in Staufen, dort begraben
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/077
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Hellmut Holthaus
+EIGENSCHAFTEN:
+  lebensdaten: 1909-1966
+  tätigkeit: Zeitschriftenredakteur, Schriftsteller
+  verbindung: in Staufen gestorben
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/078
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Peter Huchel
+EIGENSCHAFTEN:
+  lebensdaten: 1903-1981
+  tätigkeit: Dichter
+  verbindung: wohnte letzte zehn Jahre in Staufen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/079
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Erhart Kästner
+EIGENSCHAFTEN:
+  lebensdaten: 1904-1974
+  tätigkeit: Schriftsteller, Bibliothekar
+  verbindung: lebte 1968 bis Tod in Staufen, dort begraben
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/080
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Dominik Kalata SJ
+ORTSTEIL_BEZUG: Grunern
+EIGENSCHAFTEN:
+  lebensdaten: 1925-2018
+  tätigkeit: slowakischer Geistlicher, Bischof
+  verbindung: lebte seit 1976 im Ortsteil Grunern
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/081
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Kurt Lehmann
+EIGENSCHAFTEN:
+  lebensdaten: 1905-2000
+  tätigkeit: Bildhauer
+  verbindung: lebte 1970-1998 in Staufen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/082
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Ralf Obergfell
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1971
+  tätigkeit: Fotograf
+  verbindung: wuchs 1971-1988 in Staufen auf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/083
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Alois Schnorr
+EIGENSCHAFTEN:
+  lebensdaten: 1896-1962
+  tätigkeit: Bankier, Politiker
+  bürgermeister_amtszeit: 1945-1946
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/084
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Klaus Tiedemann
+EIGENSCHAFTEN:
+  lebensdaten: 1938-2018
+  tätigkeit: Rechtswissenschaftler, Professor Strafrecht
+  verbindung: lebte in Staufen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/085
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Matthias Warnig
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1955
+  tätigkeit: Ex-Stasi-Hauptmann, Lobbyist, Manager, Vertrauter Putins
+  verbindung: lebt in Staufen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 10-staufen/086
+ENTITÄT: mit_staufen_verbunden
+BEZEICHNUNG: Jörg Weigand
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1940
+  tätigkeit: Schriftsteller
+  verbindung: lebt in Staufen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/087
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Herbert Rinderle
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1940
+  gemeinderat: 46 Jahre
+  weitere_ämter: Kreistagsmitglied, zahlreiche Ehrenämter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/088
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Karl-Eugen Graf von Hohenthal
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1939
+  bürgermeister_amtszeit: 1969-2001
+  bürgermeister_dauer: 32 Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/089
+ENTITÄT: träger_ehrenmedaille
+BEZEICHNUNG: Lotte Stolz
+EIGENSCHAFTEN:
+  lebensdaten: 1931-2019
+  besonderheit: 64 Jahre Bahnhöfle-Wirtin
+  ehrung_bundespräsident: von Weizsäcker geehrt
+  auszeichnung_regional: Südbadnerin des Jahres 2005
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/090
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Max-Carl Müller
+EIGENSCHAFTEN:
+  lebensdaten: 1927-2023
+  gemeinderat: 35 Jahre
+  stellvertreter_bürgermeister: 18 Jahre
+  weitere_positionen: Ehrenpräsident Steuerberaterkammer, ehrenamtlicher Geschäftsführer Sozialstation
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/091
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Helmut Zimmermann
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1950
+  gemeinderat: 40 Jahre
+  weitere_positionen: Bürgermeister-Stellvertreter, Gewerbeverein-Vorsitz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/092
+ENTITÄT: träger_ehrenmedaille
+BEZEICHNUNG: Ute Riesterer
+EIGENSCHAFTEN:
+  besonderheit: Engagement Grunermer Netzwerk Senioren, Flüchtlinge, Lebensretterin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 10-staufen/093
+ENTITÄT: träger_ehrenmedaille
+BEZEICHNUNG: Winfried Sturm
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1945
+  auszeichnung: Lehrer des Jahres 2004
+  weitere_positionen: Vizepräsident Welterfinderverband, MINT-Botschafter, Leiter Hardware-AG
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 10-staufen/094
+ENTITÄT: bürgermeister_historisch
+BEZEICHNUNG: Albert Hugard
+EIGENSCHAFTEN:
+  amtszeit: 1889-1923
+GUELTIG_AB: 1889
+GUELTIG_BIS: 1923
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/095
+ENTITÄT: bürgermeister_historisch
+BEZEICHNUNG: Max Lederle
+EIGENSCHAFTEN:
+  amtszeit: 1923-1933
+GUELTIG_AB: 1923
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/096
+ENTITÄT: bürgermeister_historisch
+BEZEICHNUNG: Karl Gümbel
+EIGENSCHAFTEN:
+  amtszeit: 1933-1945
+  partei: NSDAP
+GUELTIG_AB: 1933
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/097
+ENTITÄT: bürgermeister_historisch
+BEZEICHNUNG: Alois Schorr
+EIGENSCHAFTEN:
+  amtszeit: 1945-1946
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1946
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/098
+ENTITÄT: bürgermeister_historisch
+BEZEICHNUNG: Eckart Ulmann
+EIGENSCHAFTEN:
+  amtszeit: 1946-1969
+  besonderheit: Gründer Staufener Musikwoche 1949 mit Ernst Duis
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/099
+ENTITÄT: bürgermeister_historisch
+BEZEICHNUNG: Karl-Eugen Graf von Hohenthal
+EIGENSCHAFTEN:
+  amtszeit: 1969-2001
+  partei: CDU
+GUELTIG_AB: 1969
+GUELTIG_BIS: 2001
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/100
+ENTITÄT: bürgermeister_historisch
+BEZEICHNUNG: Michael Benitz
+EIGENSCHAFTEN:
+  amtszeit: 2001-2026
+  partei: parteilos
+  amtsverweser: 2025-2026
+GUELTIG_AB: 2001
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/101
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Benjamin Bröcker
+EIGENSCHAFTEN:
+  amtsantritt: 2026
+  partei: Bündnis 90/Die Grünen
+  tätigkeit_vorher: Staatsanwalt
+  wahl_datum: 2. November 2025
+  wahl_ergebnis: 50,2 Prozent
+  amtsantritt_als_amtsverweser: 21. Mai 2026
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/102
+ENTITÄT: chronist
+BEZEICHNUNG: Rudolf Hugard
+EIGENSCHAFTEN:
+  lebensdaten: 1863-1922
+  beruf: Stadtchronist, Fotograf
+  tagebuch: 1914-1919
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/103
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Schlacht bei Sempach
+EIGENSCHAFTEN:
+  jahr: 1386
+  beteiligung_staufen: Gottfried, Hans-Ullrich von Staufen unter Gefallenen
+GUELTIG_AB: 1386
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/104
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Gefecht um Staufen - Badische Revolution
+EIGENSCHAFTEN:
+  datum: 24. September 1848
+  akteure: reguläre Truppen gegen Freischärler Gustav Struve
+  folge: Ende Struve-Putsch
+  rechtsbruch: 25. September Tod Weiler Musikanten
+GUELTIG_AB: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-staufen/105
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Luftangriff auf Staufen
+EIGENSCHAFTEN:
+  datum: 8. Februar 1945
+  seite: alliiert
+  folgen: schwere Zerstörungen, ca. 50 Häuser zerstört, ca. 250 beschädigt
+  grund_vermutung: französische Piloten wollten Eisenbahnbrücke zerstören
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/106
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Hebungsrisse Staufen
+EIGENSCHAFTEN:
+  grund: Geothermie-Bohrungen Rathausheizung
+  zeitraum_beginn: 2007
+  folgen: Hebung Altstadt, Risse in 268 Häusern bis Oktober 2010
+  prognose_2020: dauerhaft Grundwasserabpumpen nötig
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-staufen/107
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtwappen Staufen
+EIGENSCHAFTEN:
+  blasonierung: Rot drei goldene Kelche mit Patenen (2:1), fünf goldene Sterne
+  herkunft: Wappen Freiherren von Staufen
+  bedeutung: Schlossberg-Beherrschung, Doppelbedeutung germanisch stauf (Becher, kegeliger Berg)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

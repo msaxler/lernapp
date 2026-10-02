@@ -1,19 +1,24 @@
-"""Gemeinde-Achsen Iteration 1: Eingabedateien für den Karten-Prompt v0.6 bauen.
+"""Gemeinde-Achsen Iteration 1: Eingabedateien für den Karten-Prompt v0.7 bauen.
 
-Je Zielort eine Datei data/gemeinde-achsen/iter1/eingabe-v0.6/<slug>.txt mit den Blöcken, die der
+Je Zielort eine Datei data/gemeinde-achsen/iter1/eingabe-v0.7/<slug>.txt mit den Blöcken, die der
 Prompt nennt: ZIELORT (mit LAGE und ARTIKEL), GRUNDDATEN, PLAN, LETZTER_PIN, FAHRT, FAKTEN,
 FAKTEN AUS ZWEITER QUELLE (bei dünnem Ortsartikel), SPENDER.
-Ein Kartenlauf liest nur prompt-karten-v0.6.txt und diese eine Datei.
+Ein Kartenlauf liest nur prompt-karten-v0.7.txt und diese eine Datei.
 
-Neu gegenüber v0.5 (Bericht zum zweiten Volllauf W3, W8; Faktencheck F4; Entscheide Mike 2026-10-02):
+Seit v0.6 (Bericht zum zweiten Volllauf W3, W8; Faktencheck F4; Entscheide Mike 2026-10-02):
   - Der PLAN gibt die Eigenschaft jedes Klassikers vor und wechselt sie von Ort zu Ort.
   - Die Höhe trägt nur eine Karte, wenn die Quellen höchstens fünf Prozent auseinanderliegen.
   - Zweite Quelle bei dünnem Artikel; ein Spender statt zwei.
-  - BERICHTIGUNGEN: die Gründe aus faktencheck/korrekturen.json je Ort (erst nach der Probe an drei Orten
-    eingeführt; die Probe-Eingaben von Zähringen, St. Peter und Horben liefen ohne diesen Block).
-Die Eingaben des zweiten Volllaufs liegen unverändert in eingabe-v0.5/ (Stand des Skripts: Commit 09b317f).
+Neu in v0.7 (2026-10-02):
+  - FAKTEN kommen aus fakten/ (gemeinde_achsen_fakten.py): jeder Fakt mit Kennung "ID:", die Befunde des
+    Faktenchecks sind am Fakt selbst berichtigt (Zeilen BERICHTIGT und NICHT VERWENDEN).
+  - Berichtigungen an Grunddaten hängen an der Zeile der Eigenschaft.
+  - Der Block BERICHTIGUNGEN am Ende der Fakten entfällt damit.
+Die Eingaben der früheren Läufe liegen unverändert in eingabe-v0.5/ (Skript: Commit 09b317f) und
+eingabe-v0.6/ (Skript: Commit df3a75b).
 
-Aufruf:  python -X utf8 scripts/data-build/gemeinde_achsen_karten_eingabe.py
+Aufruf:  python -X utf8 scripts/data-build/gemeinde_achsen_fakten.py
+         python -X utf8 scripts/data-build/gemeinde_achsen_karten_eingabe.py [slugs]
 """
 import io
 import json
@@ -22,7 +27,9 @@ import sys
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1')
-AUS = os.path.join(ITER, 'eingabe-v0.6')
+AUS = os.path.join(ITER, 'eingabe-v0.7')
+# Berichtigungen an Grunddaten: (slug, eigenschaft) → Hinweise; main() füllt sie aus faktencheck/berichtigungen.json
+GRUND_BERICHTIGT = {}
 
 # Zahlen, bei denen verschiedene Werte der Quellen nebeneinander gezeigt werden
 MEHRWERTIG = ('hoehe_m', 'flaeche_km2', 'ersterwaehnung')
@@ -99,7 +106,7 @@ def grunddaten_text(ort, nur=None):
     for key, liste in ort['eigenschaften'].items():
         if (nur and key not in nur) or key == 'lage' or (key == 'kueste' and liste[0]['wert'] != 'ja'):
             continue
-        aus.append(zeile(key, liste))
+        aus.append(zeile(key, liste) + ''.join(' — BERICHTIGT: ' + h for h in GRUND_BERICHTIGT.get((ort['slug'], key), [])))
     return '\n'.join(aus)
 
 
@@ -156,16 +163,13 @@ def main():
     if os.path.exists(os.path.join(ITER, 'zweitquellen.json')):
         with io.open(os.path.join(ITER, 'zweitquellen.json'), encoding='utf-8') as f:
             zweit = json.load(f)
-    # Befunde des Faktenchecks fließen als Berichtigungen zurück, damit ein neuer Lauf bekannte Fehler nicht wiederholt
-    berichtigt = {}
-    pfad = os.path.join(ITER, 'faktencheck', 'korrekturen.json')
+    # Die Befunde des Faktenchecks hängen an den Fakten selbst (fakten/); hier nur die an Grunddaten
+    pfad = os.path.join(ITER, 'faktencheck', 'berichtigungen.json')
     if os.path.exists(pfad):
         with io.open(pfad, encoding='utf-8') as f:
-            for k in json.load(f):
-                # Gründe, die nur auf eine andere Karte verweisen ("Wie v0.5 Karte 7 …"), sagen dem Kartenlauf nichts
-                if k['grund'] != 'Steckbrief berichtigt.' and not k['grund'].startswith('Wie v0.') \
-                        and k['grund'] not in berichtigt.setdefault(k['ort'], []):
-                    berichtigt[k['ort']].append(k['grund'])
+            for b in json.load(f)['berichtigungen']:
+                if '/G.' in b['fakt']:
+                    GRUND_BERICHTIGT.setdefault(tuple(b['fakt'].split('/G.')), []).append(b['grund'])
     ziel = [o for o in orte if o['rolle'] == 'ziel']
     name = {o['slug']: o['name'] for o in orte}
     os.makedirs(AUS, exist_ok=True)
@@ -190,14 +194,11 @@ def main():
         else:
             teile += ['LETZTER_PIN: keiner (erster Ort der Fahrt)', '']
         teile += ['FAHRT: ' + ', '.join(z['name'] for z in ziel), '',
-                  'FAKTEN (Zielort %s):' % o['name'], lies(os.path.join(ITER, 'extraktion', o['slug'] + '.txt')), '']
+                  'FAKTEN (Zielort %s):' % o['name'], lies(os.path.join(ITER, 'fakten', o['slug'] + '.txt')), '']
         for z in zweit:
-            pfad = os.path.join(ITER, 'extraktion', z['datei'])
+            pfad = os.path.join(ITER, 'fakten', z['datei'])
             if z['slug'] == o['slug'] and os.path.exists(pfad):
                 teile += ['FAKTEN AUS ZWEITER QUELLE (Wikipedia, Artikel „%s“):' % z['titel'], lies(pfad), '']
-        if berichtigt.get(o['slug']):
-            teile += ['BERICHTIGUNGEN (aus dem Faktencheck früherer Läufe; gehen FAKTEN vor):'] + [
-                '  - ' + b for b in berichtigt[o['slug']]] + ['']
         s = SPENDER[i % 3]
         teile += ['SPENDER: %s (nicht Teil der Fahrt)' % name[s], lies(os.path.join(ITER, 'extraktion', s + '.txt')), '']
         text = '\n'.join(teile)

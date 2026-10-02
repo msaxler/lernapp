@@ -21,7 +21,7 @@ ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1')
 KARTEN = os.path.join(ITER, 'karten-geprueft', 'v0.5')
 PRUEFUNG = os.path.join(ITER, 'karten-v0.5-geprueft-pruefung.json')
 ZIEL = os.path.join(WURZEL, 'docs', 'konzepte', 'quizaway-stufe2-kuratierblatt-v2-2026-10-01.md')
-FELDER = 'FAKTENCHECK|SORTE|FAMILIE|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|NEGATIVNACHWEISE|## '
+FELDER = 'FAKTENCHECK|SORTE|FAMILIE|FAKT-ID|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|NEGATIVNACHWEISE|## '
 
 
 def feld(v, name):

@@ -1,0 +1,1376 @@
+ZIELORT: Horben (Gemeinde)
+LAGE: 7 km südlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Horben
+
+GRUNDDATEN:
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 1202  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 8,75  [Wikidata P2046]
+  dichte_ew_km2: 137  [berechnet aus Einwohner und Fläche]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395] — BERICHTIGT: Seit dem 2. Oktober 2023 gibt der Landkreis Breisgau-Hochschwarzwald neben FR auch MÜL und NEU an alle Einwohner aus (Landratsamt); das Kennzeichen ist nicht einwertig.
+  hoehe_m: 607 | 495 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2899093)]
+  naechste_grossstadt: Freiburg im Breisgau, 7 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 136 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  plz: 79289  [Wikidata P281]
+  vorwahl: 0761  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 34,3 %, GRÜNE 22 %, SPD 15,7 %, AfD 8,6 %, Die Linke 7 %; Wahlbeteiligung 91,4 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Benjamin Bröcker (Grüne) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-01]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT kfz: Kennzeichen (Ersatz: Luftlinie zur Landeshauptstadt), A, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Günterstal (Ortsteil von Freiburg im Breisgau)
+  landkreis: Stadtkreis Freiburg im Breisgau — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P131]
+  einwohner: 2165  [Wikidata P1082, Stand 2024]
+  flaeche_km2: 15,1  [Wikidata P2046]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P395]
+  hoehe_m: 330 | 345  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2913585)]
+  naechste_grossstadt: Freiburg im Breisgau, 3 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: GRÜNE 30,4 %, CDU 24,6 %, SPD 16,4 %, Die Linke 10,3 %, FDP 6,8 %, AfD 6,2 %; Wahlbeteiligung 89,3 %  [Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23]
+
+FAHRT: Umkirch, Gundelfingen, Denzlingen, Zähringen, St. Peter, Glottertal, Kirchzarten, Günterstal, Horben, Staufen
+
+FAKTEN (Zielort Horben):
+ID: 09-horben/001
+ENTITÄT: ort
+BEZEICHNUNG: Horben
+EIGENSCHAFTEN:
+  ist_gemeinde: true
+  ist_dorf: true
+  landkreis: Breisgau-Hochschwarzwald
+  bundesland: Baden-Württemberg
+  lage: "direkte Nachbarschaft zur Stadt Freiburg, am Fuße des Schauinslands"
+  liegt_in_naturpark: Südschwarzwald
+  liegt_in_biosphaerengebiet: Südschwarzwald
+  liegt_in_landschaftsschutzgebiet: Horben
+  entfernung_freiburg_km: 8
+  verwaltungsgemeinschaft: Hexental
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-horben/002
+ENTITÄT: berg
+BEZEICHNUNG: Schauinsland
+EIGENSCHAFTEN:
+  beschreibung: "Berg östlich von Horben"
+  besonderheit: "Schauinsland-Rennen ab 1925, Schauinslandbahn seit 1930"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/003
+ENTITÄT: berg
+BEZEICHNUNG: Illenberg
+EIGENSCHAFTEN:
+  hoehe_m: 642
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/004
+ENTITÄT: berg
+BEZEICHNUNG: Eduardshöhe
+EIGENSCHAFTEN:
+  hoehe_m: 859
+  benannt_nach: "Eduard Fauler, früherer Bürgermeister von Freiburg"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/005
+ENTITÄT: bach
+BEZEICHNUNG: Bohrer-Bach
+EIGENSCHAFTEN:
+  namensherkunft: "benannt nach früherem Handwerk der Deichelbohrer, das dort ausgeübt wurde"
+  verlauf_ab_günterstal: "Hölderlebach"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/006
+ENTITÄT: bach
+BEZEICHNUNG: Selzenbach
+EIGENSCHAFTEN:
+  beschreibung: "entspringt in Horben"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/007
+ENTITÄT: weiler
+BEZEICHNUNG: Bohrer
+EIGENSCHAFTEN:
+  gehoert_zu_gemeinde: Horben
+  besonderheit: "Talstation der Schauinslandbahn liegt hier"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/008
+ENTITÄT: weiler
+BEZEICHNUNG: Katzental
+EIGENSCHAFTEN:
+  gehoert_zu_gemeinde: Horben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/009
+ENTITÄT: weiler
+BEZEICHNUNG: Langackern
+EIGENSCHAFTEN:
+  gehoert_zu_gemeinde: Horben
+  besonderheit: "Hotel Luisenhöhe und Gesundheitsresort, Althäusle um 1600"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/010
+ENTITÄT: weiler
+BEZEICHNUNG: Münzenried
+EIGENSCHAFTEN:
+  gehoert_zu_gemeinde: Horben
+  umfasst_auch: Gerstenhalm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/011
+ENTITÄT: kirche
+BEZEICHNUNG: St. Agatha
+ORTSTEIL_BEZUG: Dorf
+EIGENSCHAFTEN:
+  konfession: katholisch
+  typ: Pfarrkirche
+  erbauungsjahr: strittig: 1791, 1792 oder um 1800
+  grund_erbauung: "das Dorf wurde im Rahmen des Josephinismus erstmals eigenständige Pfarrei"
+  ersetzt: "frühere Kapelle"
+  portal_jahr: 1703
+  portal_schoepfer: Johann Adam Wissen
+  portal_ursprung: "Freiburger Heiliggeistspitalkirche"
+  portal_versetzung: nicht belegt, wann das Portal nach Horben kam; 1805/06 wurde die Spitalkirche aufgehoben
+  stil: barock
+  hochaltar_altarbild_maler: Johannes Winterer
+  hochaltar_altarbild_motiv: Pfingstwunder
+  seitenaltar_rechts: "Patronin St. Agatha"
+  seitenaltar_links: "Mutter Gottes"
+  glocke_jahr: 1731 (Erzbistum)
+  glocke_herkunft: "Heilig-Geist-Spital Freiburg"
+  glocke_stifter: Johann Friedrich Fridolin von Kageneck
+  orgel_jahr: 1812
+  orgel_erbauer: Nikolaus Schuble
+  orgel_superlativ: "einzige erhaltenen Register von Nikolaus Schuble"
+  innenausstattung_versetzung: "1823 aus Heilig-Geist-Spital Freiburg"
+  zustand: "Originalzustand erhalten, frisch renoviert"
+  zusatznutzung: Hochzeitskirche
+GUELTIG_AB: 1792
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+BERICHTIGT: Fehler der Extraktion: 1805/06 ist das Jahr der Aufhebung der Spitalkirche, nicht der Versetzung des Portals. „Aufgehoben“ liegt als falsche Option zu nah an der Wahrheit.
+BERICHTIGT: Die Glocke ist laut Erzbistum von 1731, nicht 1751.
+BERICHTIGT: Das Baujahr der Kirche ist strittig.
+---
+ID: 09-horben/012
+ENTITÄT: gasthof
+BEZEICHNUNG: Zum Raben
+ORTSTEIL_BEZUG: Dorf
+EIGENSCHAFTEN:
+  erstmals_erwaehnt: 1604
+  jetziger_bau: 1805
+  funktion_historisch: "wegen steilen Weges zum Schauinsland und nach Todtnau wichtige Rolle"
+  beschreibung_1772: "Wirtschaft nicht ausgestattet, Brot fehlte, Gäste mussten sich ein Bett teilen"
+  zustand_heute: "Komfort für Familienfeiern, gepflegtes Essen"
+GUELTIG_AB: 1604
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/013
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Horben
+ORTSTEIL_BEZUG: Dorf
+EIGENSCHAFTEN:
+  erbauungsjahr: 1912/13
+  original_funktion: Schulhaus
+  stil: Schwarzwaldstil
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/014
+ENTITÄT: haus
+BEZEICHNUNG: Althäusle
+ORTSTEIL_BEZUG: Langackern
+EIGENSCHAFTEN:
+  erbauungsjahr: "um 1600"
+  typ: Leibgedinghaus
+  stil: Schwarzwaldstil
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/015
+ENTITÄT: wegkreuz
+BEZEICHNUNG: Wegkreuz
+ORTSTEIL_BEZUG: Langackern
+EIGENSCHAFTEN:
+  material: Stein
+  lage: "Abzweigung Straße Selzental beim Althäusle"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/016
+ENTITÄT: hotel
+BEZEICHNUNG: Luisenhöhe
+ORTSTEIL_BEZUG: Langackern
+EIGENSCHAFTEN:
+  benannt_nach: "badische Großherzogin, geb. Prinzessin Luise von Preußen"
+  erbauungsjahr: 1896
+  schaedigung: Brand
+  wiederaufbau_jahr: 1906
+  besonderheit: "weithin sichtbare Aussichtslage, prägte das Ortsbild"
+  abriss_jahr: 2019 (seit 2011 stand das Hotel leer)
+  abriss_grund: "veraltete Bausubstanz"
+GUELTIG_AB: 1896
+GUELTIG_BIS: 2011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+BERICHTIGT: Das Hotel Luisenhöhe stand seit 2011 leer und wurde 2019 abgerissen.
+---
+ID: 09-horben/017
+ENTITÄT: gesuendheitsresort
+BEZEICHNUNG: Gesundheitsresort
+ORTSTEIL_BEZUG: Langackern
+EIGENSCHAFTEN:
+  nachfolger: "Hotel Luisenhöhe"
+  baustart: 2019
+  richtfest: September 2021
+  soft_opening: "3. August 2023"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/018
+ENTITÄT: hotel
+BEZEICHNUNG: Friedrichshof
+ORTSTEIL_BEZUG: Bohrer
+EIGENSCHAFTEN:
+  benannt_nach: Friedrich I.
+  erbauungsjahr: 1896
+  heute: Privatbesitz
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/019
+ENTITÄT: villa
+BEZEICHNUNG: Villa Küchlin
+ORTSTEIL_BEZUG: Bohrer
+EIGENSCHAFTEN:
+  erbauungsjahr: 1923
+  erbauer: Karl Küchlin
+  architekt: "Max Laeuger, Kunstprofessor und Architekt"
+GUELTIG_AB: 1923
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/020
+ENTITÄT: bergbahn
+BEZEICHNUNG: Schauinslandbahn
+EIGENSCHAFTEN:
+  taetigkeit: Talstation
+  lage: Horbener Gemarkung
+  erbauungsjahr: 1930
+  anlass_erwaehnung: "führte zu vergeblichem Eingemeindungsversuch der Stadt Freiburg"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+BERICHTIGT: Der vergebliche Eingemeindungsversuch nach dem Bau der Talstation steht nur in Wikipedia. Es gab mehrere Versuche; für den Antrag von 1935 ist Bauland als Begründung belegt, um den Wald stritten Stadt und Dorf lange: beides taugt nicht als falsche Option.
+---
+ID: 09-horben/021
+ENTITÄT: strasse
+BEZEICHNUNG: Landesstraße L 124
+EIGENSCHAFTEN:
+  alternativname: Schauinslandstraße
+  verlauf: "Freiburg-Günterstal nach Horben"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/022
+ENTITÄT: strasse
+BEZEICHNUNG: Kreisstraße K 4955
+EIGENSCHAFTEN:
+  verbindung: "Horben mit Au"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/023
+ENTITÄT: buslinie
+BEZEICHNUNG: VAG-Buslinie 21
+EIGENSCHAFTEN:
+  verlauf: "Freiburg-Günterstal über Talstation Schauinslandbahn nach Horben"
+  endstation: "Dorfplatz Horben"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/024
+ENTITÄT: infrastructure
+BEZEICHNUNG: Mitfahrbänke
+EIGENSCHAFTEN:
+  anzahl: 4
+  seit_jahr: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/025
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Horben
+EIGENSCHAFTEN:
+  typ: Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 09-horben/026
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kindergarten Horben
+EIGENSCHAFTEN:
+  konfession: katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 09-horben/027
+ENTITÄT: gemeindehalle
+BEZEICHNUNG: Gemeindehalle Horben
+EIGENSCHAFTEN:
+  beschreibung: "Versammlungsort"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 09-horben/028
+ENTITÄT: staudamm
+BEZEICHNUNG: Hochwasserrückhaltebecken Bohrertal
+ORTSTEIL_BEZUG: Bohrertal
+EIGENSCHAFTEN:
+  hoehe_m: 13.5
+  laenge_m: 275
+  breite_max_m: 80
+  baustart: "Februar 2020"
+  fertigstellung: "April 2023"
+  zweck: "Hochwasserschutz im Bohrertal"
+  konflikt: "Projekt war nicht unumstritten in Landschaftsschutzgebiet mit wertvollen Biotopen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/029
+ENTITÄT: rennen
+BEZEICHNUNG: Schauinsland-Rennen
+EIGENSCHAFTEN:
+  start_jahr: 1925
+  start_ort_initially: "Großmatte im Bohrertal"
+  start_ort_spaeter: Friedrichshof
+  typ: Bergrennen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/030
+ENTITÄT: buergermeister
+BEZEICHNUNG: Benjamin Bröcker
+EIGENSCHAFTEN:
+  amtsbeginn_datum: "1. März 2019"
+  partei: "Bündnis 90/Die Grünen"
+  amtstyp: ehrenamtlich
+  amtsdauer_jahre: 8
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-horben/031
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Valentin Schweiger
+EIGENSCHAFTEN:
+  geburtsjaahr: 1900
+  todesjahr: 1990
+  partei: SPD
+  amt: Landtagsabgeordneter
+  buergermeister_horben_zeitraum: 1969-1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben/032
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl Küchlin
+EIGENSCHAFTEN:
+  geburtsjaahr: 1864
+  todesjahr: 1935
+  nationalitaet: "deutsch-schweizerisch"
+  profession: "Unternehmer, Theaterdirektor, Mäzen, Grundbesitzer in Horben"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/033
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Marina Zwetajewa
+EIGENSCHAFTEN:
+  geburtsjaahr: 1892
+  todesjahr: 1941
+  nationalitaet: russisch
+  superlativ: "bedeutende russische Dichterin"
+  aufenthalt_horben: "Sommer 1904 mit Familie im Gasthof Engel"
+  vater: Iwan Wladimirowitsch Zwetajew
+  mutter: Marija Aleksandrowna Meyn
+GUELTIG_AB: 1904
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/034
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bernd Martin
+EIGENSCHAFTEN:
+  geburtsjaahr: 1940
+  profession: Historiker
+  ortsverbindung: "ehemaliger Gemeinderat in Horben"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/035
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gundolf Fleischer
+EIGENSCHAFTEN:
+  geburtsjaahr: 1943
+  profession: "Jurist, Politiker"
+  partei: CDU
+  amt: "Staatssekretär a.D. der Landesregierung Baden-Württemberg"
+  zusatzamt: "Präsident des Badischen Sportbundes"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/036
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hortense von Gelmini
+EIGENSCHAFTEN:
+  geburtsjaahr: 1947
+  profession: "Orchesterdirigentin, Malerin, Schriftstellerin"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/037
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Wilderich von Droste zu Hülshoff
+EIGENSCHAFTEN:
+  geburtsjaahr: 1948
+  profession: "Jurist, Autor, Stiftungsvorstand"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/038
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Eduard Fauler
+EIGENSCHAFTEN:
+  amt: "Bürgermeister von Freiburg (früherer)"
+  gedenkort: Eduardshöhe
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/039
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz Sigel
+EIGENSCHAFTEN:
+  rolle: "Operationsbasis Horben während Badische Revolution 1848/49"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/040
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gustav Struve
+EIGENSCHAFTEN:
+  rolle: "führte Vorhut unter Gustav Struve mit 400 Mann"
+  ereignis: "Badische Revolution 1848/49"
+  befehl_missachtung: "Entgegen Befehl Sigels rückte vor"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/041
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Napoleon III
+EIGENSCHAFTEN:
+  ereignis: "1838 ritt durch Horben mit zwei Adjutanten"
+  grund_vermutung: "Flucht nach London, weil Frankreich Auslieferung betrieb"
+GUELTIG_AB: 1838
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+BERICHTIGT: Der Ritt Napoleons III. durch Horben steht nur in Wikipedia; ob Frankreich Auslieferung oder Ausweisung aus der Schweiz verlangte, sagen die Quellen nicht einheitlich.
+---
+ID: 09-horben/042
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Adam Wissen
+EIGENSCHAFTEN:
+  profession: Kunsthandwerker
+  werk: "barockes Portal für St. Agatha"
+  schaffensjahr: 1703
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/043
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johannes Winterer
+EIGENSCHAFTEN:
+  profession: Maler
+  herkunftsort: Waldkirch
+  werk: "Altarbild Pfingstwunder für St. Agatha Hochaltar"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/044
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Nikolaus Schuble
+EIGENSCHAFTEN:
+  geburtsjaahr: 1770
+  todesjahr: 1816
+  herkunftsort: Pfaffenweiler
+  profession: Orgelbauer
+  werk: "Orgel für St. Agatha"
+  schaffensjahr: 1812
+  superlativ: "einzige erhaltenen Register von diesem Meister"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/045
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Friedrich Fridolin von Kageneck
+EIGENSCHAFTEN:
+  rolle: Stifter der Glocke von 1731 in St. Agatha
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+BERICHTIGT: Die Glocke ist laut Erzbistum von 1731, nicht 1751.
+---
+ID: 09-horben/046
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Max Laeuger
+EIGENSCHAFTEN:
+  profession: "Kunstprofessor, Architekt"
+  werk: "Entwurf Villa Küchlin"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/047
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Iwan Wladimirowitsch Zwetajew
+EIGENSCHAFTEN:
+  profession: "Gründer des Puschkin-Museums Moskau"
+  familienverbindung: "Vater der Dichterin Marina Zwetajewa"
+  aufenthalt_horben: "Sommer 1904"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/048
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Marija Aleksandrowna Meyn
+EIGENSCHAFTEN:
+  familienverbindung: "Mutter der Dichterin Marina Zwetajewa"
+  aufenthalt_horben: "Sommer 1904"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/049
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Anastasija Zwetajewa
+EIGENSCHAFTEN:
+  familienverbindung: "Schwester der Dichterin Marina Zwetajewa"
+  aufenthalt_horben: "Sommer 1904"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/050
+ENTITÄT: verein
+BEZEICHNUNG: Musikverein Harmonie
+EIGENSCHAFTEN:
+  ort: Horben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/051
+ENTITÄT: verein
+BEZEICHNUNG: Schachclub
+EIGENSCHAFTEN:
+  ort: Horben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/052
+ENTITÄT: verein
+BEZEICHNUNG: Tauziehclub
+EIGENSCHAFTEN:
+  ort: Horben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/053
+ENTITÄT: verein
+BEZEICHNUNG: Skiclub
+EIGENSCHAFTEN:
+  ort: Horben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/054
+ENTITÄT: verein
+BEZEICHNUNG: Turnverein
+EIGENSCHAFTEN:
+  ort: Horben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/055
+ENTITÄT: verein
+BEZEICHNUNG: Narrenzunft Haibraingeister
+EIGENSCHAFTEN:
+  ort: Horben
+  besonderheit: "pflegt örtliches Brauchtum"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/056
+ENTITÄT: verein
+BEZEICHNUNG: Freiwillige Feuerwehr
+EIGENSCHAFTEN:
+  ort: Horben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/057
+ENTITÄT: verein
+BEZEICHNUNG: Verein Tourismus Horben
+EIGENSCHAFTEN:
+  aufgabe: "betreut den Fremdenverkehr"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/058
+ENTITÄT: stiftung
+BEZEICHNUNG: Libertas per Veritatem
+EIGENSCHAFTEN:
+  sitz: Horben
+  taetigkeit_superlativ: "überregional tätige gemeinnützige Stiftung"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/059
+ENTITÄT: weg
+BEZEICHNUNG: Weg der Revolutionäre
+EIGENSCHAFTEN:
+  route: "von Horben nach Freiburg"
+  seit_jahr: 2020
+  markierung: "vom Schwarzwaldverein beschildert"
+  teil_von: "Wanderrouten Deutsche Revolution in Baden 1848/49"
+  uebergeordnete_markierung_seit: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/060
+ENTITÄT: denkmal
+BEZEICHNUNG: Jägerbrunnen
+EIGENSCHAFTEN:
+  anlass: "Denkmal für zwei gefallene Soldaten im Gefecht am Ostersonntag 1848"
+  erbauer: "Kameraden der Soldaten"
+  status: "noch vorhanden"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/061
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Günterstal
+EIGENSCHAFTEN:
+  gruender: "Herren von Horwen"
+  zeitlich: mittelalterlich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+BERICHTIGT: Die Klostergründung durch die Herren von Horwen steht nur in Wikipedia; die Klosterdatenbank nennt eine andere Stifterin.
+---
+ID: 09-horben/062
+ENTITÄT: burg
+BEZEICHNUNG: Burg Kybfelsen
+EIGENSCHAFTEN:
+  gruender: "Herren von Horwen"
+  lage: Bohrertal
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/063
+ENTITÄT: burg
+BEZEICHNUNG: Burg Horber Berg
+EIGENSCHAFTEN:
+  besitz: "Herren von Horwen"
+  bezeichnung_ab_14_jhd: "Horber Berg"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 09-horben/064
+ENTITÄT: bergwerk
+BEZEICHNUNG: Bergwerke Schauinsland
+EIGENSCHAFTEN:
+  alternativname: Erzkasten
+  tätigkeit: "Bergbau und Erzabbau"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 09-horben/065
+ENTITÄT: handwerk
+BEZEICHNUNG: Deichelbohrer
+EIGENSCHAFTEN:
+  tätigkeit: "handwerk früher im Bohrertal ausgeübt"
+  namensverbindung: "Bohrer-Bach benannt nach diesem Handwerk"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/066
+ENTITÄT: handwerk
+BEZEICHNUNG: Flößerei
+EIGENSCHAFTEN:
+  tätigkeit: "betrieben im Bohrertal"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/067
+ENTITÄT: ereignis
+BEZEICHNUNG: Schlacht bei Freiburg im Breisgau
+EIGENSCHAFTEN:
+  zeitraum: "Dreißigjähriger Krieg"
+  auswirkung_horben: "Horber Berg durch Soldaten völlig ausgeraubt"
+GUELTIG_AB: 1643
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 09-horben/068
+ENTITÄT: ereignis
+BEZEICHNUNG: Badische Revolution 1848/49
+EIGENSCHAFTEN:
+  ereignis_horben: "Horben war Operationsbasis Franz Sigels"
+  gefecht: "Gefecht am Ostersonntag bei Günterstal"
+  verluste_freischaerler: "etwa 20"
+  verluste_soldaten: "drei"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-horben/069
+ENTITÄT: ereignis
+BEZEICHNUNG: Zweiter Weltkrieg
+EIGENSCHAFTEN:
+  auswirkungen: "Unterricht alle Schüler in einem Klassenzimmer, Pferde eingezogen, Kartoffelanbau verstärkt, Kriegsgefangene halfen"
+  bombenanschlag: "ein Bombenabwurf von Au ohne größeren Schaden"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-horben/070
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Mors
+EIGENSCHAFTEN:
+  rolle: "Student, führte Abordnung aus Freiburg in Badischer Revolution"
+GUELTIG_AB: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 09-horben/071
+ENTITÄT: gaststaette
+BEZEICHNUNG: Gasthof Engel
+EIGENSCHAFTEN:
+  besucher_beruehmt: "Marina Zwetajewa Sommer 1904 mit Familie"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+SPENDER: Renchen (nicht Teil der Fahrt)
+ENTITÄT: ort
+BEZEICHNUNG: Renchen
+EIGENSCHAFTEN:
+  ist_stadt: true
+  land: Baden-Württemberg
+  landkreis: Ortenaukreis
+  lage: Vorbergen des nördlichen Schwarzwalds am Ausgang des Renchtals in die Oberrheinische Tiefebene
+  erste_urkundliche_erwähnung: 1115
+  erste_urkundliche_erwähnung_grund: Ersterwähnung im Urkundenwerk
+  stadtrechte_verliehen: 1326
+  stadtrechte_verloren_grund: Zerstörungen des Dreißigjährigen Kriegs führten zur Bedeutungslosigkeit
+  stadtrechte_verliehen_erneut: 1838
+  stadtrechte_verloren_erneut: 1935
+  stadtrechte_grund_1935: Neue deutsche Gemeindeordnung
+  stadtrechte_verliehen_drittes_mal: 1950
+  grund_dritte_verleihung: Historische Vergangenheit
+  sitz_kreisverwaltung_landkreis_kehl: 1945-1952
+  sitz_grund: Während französischer Besetzung Kehls nach dem Zweiten Weltkrieg
+  zeitlich_in_landkreis_kehl: bis Ende 1972
+  jetziger_landkreis_seit: 1973
+  grund_landkreiswechsel: Auflösung der Landkreise Kehl und Offenburg, Bildung Ortenaukreis
+  gemeindevereinigung_erlach_ulm: 1. Januar 1975
+  grund_gemeindevereinigung: Administrative Neugliederung
+  jubiläum_jahr: 2015
+  jubiläum_anlass: 900 Jahre seit Ersterwähnung
+  zusatzbezeichnung: Grimmelshausenstadt
+  zusatzbezeichnung_gültig_ab: 2022
+GUELTIG_AB: 1115
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Erlach
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  einwohner: 900
+  einwohner_genauigkeit: ca.
+  früher_selbständig: true
+  art_einrichtung: Ortschaft mit eigenem Ortschaftsrat und Ortsvorsteher
+  verwaltungsstelle: Ortsverwaltung Erlach
+  teil_der_stadtteil: Erlach
+  enthält_siedlungen: Dorf Erlach
+  wüstungen: Oberhof, Zöllerhöfe, Walhofen
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ulm
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  einwohner: 2030
+  einwohner_genauigkeit: ca.
+  früher_selbständig: true
+  art_einrichtung: Ortschaft mit eigenem Ortschaftsrat und Ortsvorsteher
+  verwaltungsstelle: Ortsverwaltung Ulm
+  teil_der_stadtteil: Ulm
+  enthält_siedlungen: Dorf Ulm, Zinken Kaier, Kolbenhalt, Reiersbach, Gehöft Rothof
+  lokalspezialität: Ulmer Bier, Spezialität Vollmondbier (nur Vollmondnächte)
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gemeindeteil
+BEZEICHNUNG: Maiwald
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  ist_exklave: true
+  entfernung: 7 km
+  entfernung_genauigkeit: ca.
+  richtung: nordwestlich vom Ortszentrum Renchen
+  enthält: Maiwaldsee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Heilig-Kreuz-Kirche
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  architekt: Friedrich Weinbrenner
+  baujahr: 1817
+  stil: Klassizismus
+  beschreibung: schmuckloses, geometrisch gegliedertes Gebäude
+  standort: Ortskern von Renchen
+GUELTIG_AB: 1817
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Simplicissimus-Haus
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  thema: Rezeption der Werke von Hans Jakob Christoffel von Grimmelshausen
+  superlativ: erstes und bislang einziges rezeptionsgeschichtlich angelegtes Literaturmuseum in Deutschland
+  künstler_ausstellungen: über 80 Künstler aus deutschsprachigem Raum
+  sammlung: weltweit größte Sammlung von Illustrationen zum literarischen Werk Grimmelshausens
+  gründung_jahr: 1998
+  gründung_initiator: Bürgermeister Klaus Brodbeck
+  konzeption: Martin Bircher und Christian Juranek
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: preis
+BEZEICHNUNG: Johann-Jacob-Christoph-von-Grimmelshausen-Preis
+EIGENSCHAFTEN:
+  verleihende_städte: Renchen, Gelnhausen
+  vergabe_kriterium: in deutscher Sprache erschienenes erzählerisches Werk mit bemerkenswerten Beitrag zur Auseinandersetzung mit Zeitgeschichte
+  altersbegrenzung_werk: maximal 6 Jahre alt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Grimmelshausenpark
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  lage: oberhalb des kleinen Stadtkerns Renchen
+  nutzung: Naherholung, Feste, kleinere Freilichtauftritte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: freizeitbad
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  saisonalität: Sommermonate über geöffnet
+  besucher_jährlich: über 80.000
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Erdrich Umformtechnik GmbH
+ORTSTEIL_BEZUG: Ulm
+EIGENSCHAFTEN:
+  branche: Automobilzulieferer
+  größe: größerer Betrieb
+  standort: Ortsteil Ulm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bahnhaltepunkt
+BEZEICHNUNG: Renchen
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  bahnstrecke: Mannheim–Basel
+  bedienung: stündlich Regional-Express-Züge DB Regio
+  linie: Karlsruhe–Konstanz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: tarifverbund
+BEZEICHNUNG: Tarifverbund Ortenau
+EIGENSCHAFTEN:
+  beschreibung: zuständig für Bahn- und Busverkehr in Renchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: radfernweg
+BEZEICHNUNG: Badischer Weinradweg
+EIGENSCHAFTEN:
+  start: Grenzach-Wyhlen am Hochrhein
+  ziel: Laudenbach im Norden Baden-Württembergs
+  funktion: verbindet sieben der neun badischen Weinanbaugebiete untereinander
+  durchgang_renchen: Erlach, Ulm, Mösbach, Oberachern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: radfernweg
+BEZEICHNUNG: Naturpark-Radweg Schwarzwald Mitte/Nord
+EIGENSCHAFTEN:
+  umfang: führt rund um Naturpark Schwarzwald Mitte/Nord
+  besonderheit: verläuft auf fast identischem Weg wie Badischer Weinradweg durch Erlach und Ulm, unterscheidet sich nur in Ulm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Albert Dietrich
+EIGENSCHAFTEN:
+  amtszeit: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Franz Brandstetter
+EIGENSCHAFTEN:
+  amtszeit_bis: 1969
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Erich Huber
+EIGENSCHAFTEN:
+  amtszeit: 1969-1985
+GUELTIG_AB: 1969
+GUELTIG_BIS: 1985
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Klaus Brodbeck
+EIGENSCHAFTEN:
+  amtszeit: 1985-2000
+  bedeutung: gründete das Simplicissimus-Haus
+GUELTIG_AB: 1985
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Bernd Siefermann
+EIGENSCHAFTEN:
+  amtszeit: 2001-2025
+  partei: CDU
+GUELTIG_AB: 2001
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Stephanie Bartsch
+EIGENSCHAFTEN:
+  amtszeit_ab: 2025
+  amtsantritt_monat: Februar 2025
+  partei: CDU
+  wahl_termin: 10. November 2024
+  wahl_stimmanteil: 76.8
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wappen
+EIGENSCHAFTEN:
+  blasonierung: In Silber ein rotes Kleeblattkreuz
+  stadtzugehörigkeit: Renchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ferdinand Battlehner
+EIGENSCHAFTEN:
+  beruf: Arzt, Geheimrat
+  lebensdaten: 1824-1906
+  typ: Ehrenbürger
+GUELTIG_AB: 1824
+GUELTIG_BIS: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ignaz Heim
+EIGENSCHAFTEN:
+  beruf: Musiker und Komponist
+  lebensdaten: 1818-1880
+  typ: Sohn der Stadt
+GUELTIG_AB: 1818
+GUELTIG_BIS: 1880
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Amand Goegg
+EIGENSCHAFTEN:
+  beruf: badischer Freiheitskämpfer
+  lebensdaten: 1820-1897
+  typ: Sohn der Stadt
+  ehrenburger: Ehrenbürger der Stadt Genf
+  verheiratet_mit: Marie Goegg-Pouchoulin (Frauenrechtlerin)
+GUELTIG_AB: 1820
+GUELTIG_BIS: 1897
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Camill Schaible
+EIGENSCHAFTEN:
+  beruf: Oberst und Militärschriftsteller
+  lebensdaten: 1837-1906
+  typ: Sohn der Stadt
+GUELTIG_AB: 1837
+GUELTIG_BIS: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Gottlob Barth
+EIGENSCHAFTEN:
+  beruf: Landrat und Bürgermeister
+  lebensdaten: 1884-1958
+  typ: Sohn der Stadt
+GUELTIG_AB: 1884
+GUELTIG_BIS: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Erich Konrad
+EIGENSCHAFTEN:
+  beruf: Chemiker
+  arbeitgeber: I.G. Farben Werke in Leverkusen
+  forschungsgebiet: Synthesekautschuk
+  lebensdaten: 1894-1975
+  typ: Sohn der Stadt
+GUELTIG_AB: 1894
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Albert Karl Krautheimer
+EIGENSCHAFTEN:
+  beruf: katholischer Priester, Schriftsteller, Redakteur des Konradsblattes
+  lebensdaten: 1905-1966
+  typ: Sohn der Stadt
+GUELTIG_AB: 1905
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Michael Speier
+EIGENSCHAFTEN:
+  beruf: Autor, Übersetzer, Literaturwissenschaftler und Herausgeber
+  lebensdaten_ab: 1950
+  typ: Sohn der Stadt
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Martin Knosp
+EIGENSCHAFTEN:
+  beruf: Ringer
+  lebensdaten_ab: 1959
+  typ: Sohn der Stadt
+  superlativ: Weltmeister 1981
+  olympisch_erfolg: Silbermedaillengewinner 1984 in Los Angeles
+GUELTIG_AB: 1959
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Erwin Knosp
+EIGENSCHAFTEN:
+  beruf: Ringer
+  lebensdaten_ab: 1961
+  typ: Sohn der Stadt
+  erfolg: mehrfacher deutscher Meister und Olympiateilnehmer
+GUELTIG_AB: 1961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Norbert Dobeleit
+EIGENSCHAFTEN:
+  beruf: Leichtathlet
+  lebensdaten_ab: 1964
+  typ: Sohn der Stadt
+  olympisch_erfolg: Medaillengewinner bei Olympischen Spielen 1988 in Seoul
+GUELTIG_AB: 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Holger Nell
+EIGENSCHAFTEN:
+  beruf: Jazzmusiker
+  lebensdaten_ab: 1966
+  typ: Sohn der Stadt
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hans Jakob Christoffel von Grimmelshausen
+EIGENSCHAFTEN:
+  lebensdaten: 1622-1676
+  bekanntheit: Autor des Werks "Abenteuerlichen Simplicissimus"
+  verbindung_renchen: bischöflich straßburgischer Schultheiß von Renchen
+  verbindung_grund: Amt des Schultheißen
+GUELTIG_AB: 1667
+GUELTIG_BIS: 1676
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: zeitung
+BEZEICHNUNG: Acher- und Bühler Bote
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  typ: Lokalausgabe
+  mutterblatt: Badische Neuesten Nachrichten (Karlsruhe)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: zeitung
+BEZEICHNUNG: Acher-Rench-Zeitung
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  typ: Lokalzeitung
+  verlag: Reiff-Gruppe (Offenburg)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: zeitschrift
+BEZEICHNUNG: Stattzeitung für Südbaden
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  zielgruppe: alternative Szene Süd- und Mittelbadens
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Grimmelshausenschule
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  typ: Grund-, Haupt- und Realschule mit angegliederten Werkrealschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: einrichtung
+BEZEICHNUNG: Baden-Württembergischer Landesverband für Prävention und Rehabilitation e.V.
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  sitz: Renchen
+  mission: Landeseinrichtung der Suchtkrankenhilfe
+  gegründet: 1919
+  gründung_ursprünglicher_name: Badischer Landesverband gegen den Alkoholismus e.V.
+  grund_gründung: Bekämpfung des Alkoholismus als gesellschaftliches Problem
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Meteoritenfall EN100718 Renchen
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  datum: 10. Juli 2018
+  uhrzeit: 23:30 Uhr MESZ
+  typ: Feuerkugel (sehr heller Meteor)
+  sichtungsgebiet: Mittelrhein, deutsch-französische Grenze, Baden-Württemberg, Rheinland-Pfalz, Elsass, Lothringen
+  fund_zeitraum: 24. Juli 2018 - 23. Februar 2019
+  fund_bilanz: fünf Rohstücke und etliche Fragmente
+  superlativ: erster gesicherter Meteoritenfall in Baden-Württemberg
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Meteorit von Ortenau 1671
+EIGENSCHAFTEN:
+  datum: 27. Februar 1671
+  ort: Ortenau
+  gewicht: 10 Pfund
+  gewicht_genauigkeit: ca.
+  status: nicht wissenschaftlich untersucht, kein Material erhalten
+  genauigkeit_quellenangabe: vermutlich, historischer Bericht
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Achern
+EIGENSCHAFTEN:
+  lage: grenzt im Norden an Renchen
+  typ: Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Kappelrodeck
+EIGENSCHAFTEN:
+  lage: grenzt im Osten an Renchen
+  typ: Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Oberkirch
+EIGENSCHAFTEN:
+  lage: grenzt im Süden an Renchen
+  typ: Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Appenweier
+EIGENSCHAFTEN:
+  lage: grenzt im Südwesten an Renchen
+  typ: Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Rheinau
+EIGENSCHAFTEN:
+  lage: grenzt im äußersten Nordwesten an Renchen
+  typ: Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bundesstraße 3
+ORTSTEIL_BEZUG: Renchen
+EIGENSCHAFTEN:
+  verlauf: Buxtehude–Weil am Rhein, verläuft durch Renchen
+  funktion: Anbindung an Bundesautobahn 5
+  anschlussstellen: Achern und Appenweier
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

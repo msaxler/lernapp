@@ -1,0 +1,31 @@
+{
+ "_doc": "Bindung Karte → Fakt von Hand; geht der Suche in scripts/data-build/gemeinde_achsen_karten_fakt.py vor. Schlüssel: <ort>|<lauf>|<karte>. Mit 'schluessel' bekommt eine Karte einen eigenen Schlüssel, wenn ein Fakt mehr als eine Sache trägt (gleicher Aufhänger, andere Sache aufgelöst). Jeder Eintrag nennt seinen Grund.",
+
+ "03-denzlingen|v0.4|1": {"fakt": "03-denzlingen/001", "eigenschaft": "gehoerte_ab_1305_zu",
+  "grund": "Die Lüge hängt an der Herrschaft (400 Jahre österreichisch); die Suche griff die Konfession der wahren Aussage 2."},
+
+ "06-glottertal|v0.5|1": {"fakt": "06-glottertal/029", "eigenschaft": "historische_funktion", "schluessel": "06-glottertal/029.historische_funktion",
+  "grund": "Der Carlsbau trägt zwei Sachen: hier, was das Haus zur Drehzeit war."},
+ "06-glottertal|v0.6|1": {"fakt": "06-glottertal/029", "eigenschaft": "status_2004", "schluessel": "06-glottertal/029.status_2004",
+  "grund": "Der Carlsbau trägt zwei Sachen: hier der Leerstand vor 2014."},
+
+ "08-guenterstal|v0.4|3": {"fakt": "08-guenterstal/003", "eigenschaft": "erste_erwaehnungsjahr", "schluessel": "08-guenterstal/003.erste_erwaehnungsjahr",
+  "grund": "Das Kloster trägt drei Sachen: hier die erste Erwähnung 804."},
+ "08-guenterstal|v0.5|3": {"fakt": "08-guenterstal/003", "eigenschaft": "aufloesungsjahr", "schluessel": "08-guenterstal/003.aufloesungsjahr",
+  "grund": "Das Kloster trägt drei Sachen: hier die Aufhebung 1806."},
+ "08-guenterstal|v0.6|3": {"fakt": "08-guenterstal/003", "eigenschaft": "flucht_vor_schweden_1632", "schluessel": "08-guenterstal/003.flucht_vor_schweden_1632",
+  "grund": "Das Kloster trägt drei Sachen: hier die Flucht vor den Schweden 1632."},
+
+ "09-horben|v0.4|1": {"fakt": "09-horben/011", "eigenschaft": "erbauungsjahr", "schluessel": "09-horben/011.erbauungsjahr",
+  "grund": "St. Agatha trägt zwei Sachen: hier der Bau der Kirche (Josephinismus)."},
+ "09-horben|v0.6|5": {"fakt": "09-horben/011", "eigenschaft": "portal_ursprung", "schluessel": "09-horben/011.portal_ursprung",
+  "grund": "St. Agatha trägt zwei Sachen: hier die Herkunft des Portals."},
+
+ "04-zaehringen|v0.6|1": {"fakt": "04-zaehringen+3/003", "eigenschaft": "grund_herzogstitel", "grund": "Treffer der Suche geprüft (knapper Abstand zum Zweiten)."},
+ "05-st-peter|v0.4|3": {"fakt": "05-st-peter/066", "eigenschaft": "gesamt", "grund": "Treffer der Suche geprüft (Fakt ohne Bezeichnung)."},
+ "05-st-peter|v0.5|3": {"fakt": "05-st-peter/071", "eigenschaft": "folge", "grund": "Treffer der Suche geprüft (Fakt ohne Bezeichnung)."},
+ "06-glottertal|v0.5|5": {"fakt": "06-glottertal/025", "eigenschaft": "benannt_nach", "grund": "Treffer der Suche geprüft (knapper Abstand zum Zweiten)."},
+ "07-kirchzarten|v0.4|1": {"fakt": "07-kirchzarten/006", "eigenschaft": "herrschaft_1805", "grund": "Treffer der Suche geprüft (Fakt ohne Bezeichnung)."},
+ "07-kirchzarten|v0.4|3": {"fakt": "07-kirchzarten/016", "eigenschaft": "ergebnis", "grund": "Treffer der Suche geprüft (Fakt ohne Bezeichnung)."},
+ "07-kirchzarten|v0.6|8": {"fakt": "07-kirchzarten/004", "eigenschaft": "namensherkunft", "grund": "Treffer der Suche geprüft (Fakt ohne Bezeichnung)."}
+}

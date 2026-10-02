@@ -21,7 +21,7 @@ WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file_
 ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1')
 BLATT_V1 = os.path.join(WURZEL, 'docs', 'konzepte', 'quizaway-stufe2-kuratierblatt-2026-10-01.md')
 LAEUFE = {'v0.6': ('karten-v0.6', 'Karte', 60), 'v0.5': ('karten-v0.5', 'Karte', 60), 'v0.4': ('karten', 'Vorschlag', 70)}
-FELDER = 'FAKTENCHECK|SORTE|FAMILIE|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|ANSCHLUSS|NEGATIVNACHWEISE|PRÜFHINWEIS|## '
+FELDER = 'FAKTENCHECK|SORTE|FAMILIE|FAKT-ID|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|ANSCHLUSS|NEGATIVNACHWEISE|PRÜFHINWEIS|## '
 
 
 def feld(text, name):

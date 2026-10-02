@@ -18,7 +18,7 @@ WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file_
 ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1')
 KARTEN = os.path.join(ITER, 'karten-geprueft', 'v0.5')
 ZIEL = os.path.join(WURZEL, 'docs', 'konzepte', 'quizaway-feldtest-stufe2-kartensatz-freiburg-2026-10-02.md')
-FELDER = 'FAKTENCHECK|SORTE|FAMILIE|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|NEGATIVNACHWEISE|## '
+FELDER = 'FAKTENCHECK|SORTE|FAMILIE|FAKT-ID|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|NEGATIVNACHWEISE|## '
 
 
 def feld(v, name):

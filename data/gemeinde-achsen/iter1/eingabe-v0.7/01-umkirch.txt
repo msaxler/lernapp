@@ -1,0 +1,1075 @@
+ZIELORT: Umkirch (Gemeinde)
+LAGE: 8 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Umkirch
+
+GRUNDDATEN:
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 5683  [Wikidata P1082, Stand 2025-12-31] — BERICHTIGT: Stichtag der Zahl nicht gesichert (die Quellen nennen für Ende 2024 auch 5.755); nur gerundet oder als Spanne nennen, ohne Stichtag.
+  flaeche_km2: 8,72  [Wikidata P2046]
+  dichte_ew_km2: 652  [berechnet aus Einwohner und Fläche]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395] — BERICHTIGT: Wie 09-horben/G.kfz: Der Landkreis Breisgau-Hochschwarzwald gibt seit dem 2. Oktober 2023 neben FR auch MÜL und NEU aus; das Kennzeichen ist nicht einwertig.
+  hoehe_m: 219 | 206 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2820190)]
+  naechste_grossstadt: Freiburg im Breisgau, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 134 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  ersterwaehnung: 1087  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  plz: 79224  [Wikidata P281]
+  vorwahl: 07665  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 27,5 %, AfD 21,2 %, SPD 15,5 %, GRÜNE 15,1 %, Die Linke 7,1 %, FDP 5,2 %; Wahlbeteiligung 79,7 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Pascal Saffran — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-01]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT einwohner: Einwohnerzahl (Ersatz: Jahr der ersten Erwähnung), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT landkreis: Landkreis (Ersatz: Kennzeichen), A, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: keiner (erster Ort der Fahrt)
+
+FAHRT: Umkirch, Gundelfingen, Denzlingen, Zähringen, St. Peter, Glottertal, Kirchzarten, Günterstal, Horben, Staufen
+
+FAKTEN (Zielort Umkirch):
+ID: 01-umkirch/001
+ENTITÄT: ort
+BEZEICHNUNG: Umkirch
+EIGENSCHAFTEN:
+  ist_gemeinde: true
+  landkreis: Breisgau-Hochschwarzwald
+  bundesland: Baden-Württemberg
+  lage_geographie: rund acht Kilometer westlich von Freiburg im Breisgau in der Oberrheinischen Tiefebene
+  nachbargemeinden_nord: March
+  nachbargemeinden_west: Gottenheim
+  nachbargemeinden_ost_sued: Freiburg im Breisgau
+  ersterwähnung_jahr: 1087
+  ersterwähnung_name: Untkilicha
+  ersterwähnung_lateinisch: Ecclesia in Undis
+  namensherkunft: spielt vermutlich auf die Lage der Kirche auf einer Insel zwischen zwei Bächen an
+  genauigkeit_namensherkunft: vermutlich
+GUELTIG_AB: 1087
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/002
+ENTITÄT: dorf
+BEZEICHNUNG: Umkirch
+ORTSTEIL_BEZUG: Umkirch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/003
+ENTITÄT: hoflage
+BEZEICHNUNG: Dachswangen
+ORTSTEIL_BEZUG: Dachswangen
+EIGENSCHAFTEN:
+  typ: Hof und Mühle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-umkirch/004
+ENTITÄT: abgegangene_ortschaft
+BEZEICHNUNG: Rendelshusen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/005
+ENTITÄT: abgegangene_ortschaft
+BEZEICHNUNG: Betlinshusen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/006
+ENTITÄT: roemische_siedlung
+BEZEICHNUNG: Vicus Mühlematten
+EIGENSCHAFTEN:
+  entdeckungsjahr: 1979
+  lage_neubaugebiet: Mühlematten
+  lage_bezug_ort: südlich von Umkirch
+  bauten_stein: vorhanden mit mehreren Bauperioden im Siedlungszentrum
+  bauten_holz: lockere Holzbebauungen im äußeren Bereich vorherrschend
+  wirtschaft_aktivitäten: Mühlenbetriebe, Eisenverarbeitung
+  grund_wirtschaft: vermutlich auf den Durchgangsverkehr der Römerstraße
+  römerstraße_herkunft: von Riegel am Kaiserstuhl kommend
+  römerstraße_funktion: bildete Hauptstraße des römischen Ortes
+  ende_ereignis: Limesfall
+  ende_jahr: 259 oder 260
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-umkirch/007
+ENTITÄT: burg
+BEZEICHNUNG: Dachswangen
+EIGENSCHAFTEN:
+  lage_ursprung: am Ort der Dachswanger Mühle
+  beschreibung: früher Burg, heute Mühle (Dachswanger Mühle)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-umkirch/008
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: Mariä Himmelfahrt
+EIGENSCHAFTEN:
+  stil_ursprünglich: romanisch
+  bauzeitraum_ursprünglich: zweite Hälfte 11. Jahrhundert
+  superlativ: gilt als älteste Pfarrkirche des Breisgaus
+  umbau_gotik_jahrhundert: 14. Jahrhundert
+  umbau_gotik_stil: gotischer Stil
+  umbau_barock_zeitraum: 1760-1765
+  seitenaltäre_künstler: Johann Caspar Brenzinger
+  patronatsrecht_inhaber: Bischöfe von Basel
+  patronatsrecht_bis_ereignis: Übergang des Breisgaus an das Großherzogtum Baden
+GUELTIG_AB: 11. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+BERICHTIGT: Superlativ nur mit Vorbehalt (Artikel: gilt als; Gemeinde: wohl älteste).
+---
+ID: 01-umkirch/009
+ENTITÄT: adelssitz
+BEZEICHNUNG: Adelssitz der Herren Geben
+EIGENSCHAFTEN:
+  ort: Umkirch
+  zeitraum: 14. Jahrhundert
+GUELTIG_AB: 14. Jahrhundert
+GUELTIG_BIS: 14. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-umkirch/010
+ENTITÄT: schloss
+BEZEICHNUNG: Hohenzollernschloss
+EIGENSCHAFTEN:
+  schlosspark: vorhanden
+  besitzsituation: Privatbesitz
+  öffentlich_zugänglich: false
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/011
+ENTITÄT: schloss
+BEZEICHNUNG: Büningen
+EIGENSCHAFTEN:
+  typ: Wasserschloss
+  ursprung_zeit: Mittelalter
+  zerstörung_ereignis: Brand während des Dreißigjährigen Kriegs
+  zerstörung_grund: Dreißigjähriger Krieg
+  wiederaufbau_zeitraum: 1663-1669
+  aktuelle_nutzung: Rathaus
+  nutzung_umwandlung_zeitpunkt: 2005 nach Umbau und Sanierung
+GUELTIG_AB: Mittelalter
+GUELTIG_BIS: Dreißigjähriger Krieg (Zerstörung)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/012
+ENTITÄT: muehle
+BEZEICHNUNG: Schlossmühle
+EIGENSCHAFTEN:
+  restaurierung: 2005
+  aktuelle_nutzung: Heimatmuseum
+GUELTIG_AB: 2005 (als Museum)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/013
+ENTITÄT: kriegsgefangenenlager
+BEZEICHNUNG: Kriegsgefangenenlager Umkirch
+EIGENSCHAFTEN:
+  insassen_nationalität: alliierte
+  insassen_status: Kriegsgefangene in deutschem Gewahrsam
+  funktion: Arbeitsleistung in der Landwirtschaft
+GUELTIG_AB: 1916
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-umkirch/014
+ENTITÄT: flugzeugabsturz
+BEZEICHNUNG: Abgeschossenes französisches Flugzeug
+EIGENSCHAFTEN:
+  datum: 12. Oktober 1916
+  nationalität: französisch
+  status: abgeschossenes Flugzeug
+  ort: über Umkirch abgestürzt; abgeschossen wurde es bei Luftkämpfen über Freiburg
+  kontext: nach Luftkämpfen über Freiburg
+GUELTIG_AB: 1916
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+BERICHTIGT: Das Flugzeug wurde über Freiburg abgeschossen und stürzte über Umkirch ab; es wurde nicht über Umkirch abgeschossen.
+---
+ID: 01-umkirch/015
+ENTITÄT: wirtschaftliches_ereignis
+BEZEICHNUNG: Hochinflation in der Weimarer Republik
+EIGENSCHAFTEN:
+  zeitraum: 1923
+  ort: Umkirch
+  beschreibung: galoppierende Hochinflation 1923
+  umlage_november_1923: zweihundertmillionenfach höher als 1922
+  grunderwerbssteuer_februar_1924: 4 Billionen und 872 Milliarden Mark
+GUELTIG_AB: 1923
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-umkirch/016
+ENTITÄT: gebietsreform
+BEZEICHNUNG: Gemeindereform Baden-Württemberg
+EIGENSCHAFTEN:
+  jahr: 1974
+  kontext: Wunsch Freiburgs, Umkirch einzugemeinden
+  entscheidung: Das Land entschied mit dem Gesetz von 1974, dass Umkirch selbstständig bleibt; der Regierungsentwurf hatte die Eingemeindung vorgesehen
+  grund_entscheidung: starker Widerstand der Umkircher Bevölkerung
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+BERICHTIGT: Nicht die Landesregierung ließ Umkirch selbstständig, ihr Entwurf sah die Eingemeindung vor. Neutral: das Land.
+---
+ID: 01-umkirch/017
+ENTITÄT: bundesstraße
+BEZEICHNUNG: Ortsumfahrung Umkirch der Bundesstraße 31
+EIGENSCHAFTEN:
+  freigabe_datum: 20. Dezember 2007
+  freigabe_durch: Sven von Ungern-Sternberg (ehemaliger Regierungspräsident)
+  wartezeit: lang
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/018
+ENTITÄT: bundesstraße
+BEZEICHNUNG: B 31-West
+EIGENSCHAFTEN:
+  streckenverlauf: bis Gottenheim
+  öffnung_datum: 7. September 2012
+  beschreibung: Weiterbau
+GUELTIG_AB: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/019
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Pascal Saffran
+EIGENSCHAFTEN:
+  partei: parteilos
+  amtsantritt: 9. Juni 2026
+  wahl_datum: 19. April 2026
+  wahl_stimmenanteil: 51,5 %
+  wahlbeteiligung: 44,8 %
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/020
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Walter Laub
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt_jahr: 2002
+  amtsende_anlass: trat bei der Bürgermeisterwahl 2026 nicht erneut an
+GUELTIG_AB: 2002
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/021
+ENTITÄT: gemeindeverwaltungsverband
+BEZEICHNUNG: March-Umkirch
+EIGENSCHAFTEN:
+  sitz: March
+  partner: Gemeinde March
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/022
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Bruges
+EIGENSCHAFTEN:
+  land: Frankreich
+  département: Gironde
+  gültig_seit: 1989
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/023
+ENTITÄT: sbahn_halt
+BEZEICHNUNG: Hugstetten
+ORTSTEIL_BEZUG: March
+EIGENSCHAFTEN:
+  entfernung_umkirch: 3 km
+  genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-umkirch/024
+ENTITÄT: straßenbahn_haltestelle
+BEZEICHNUNG: Paduaallee
+ORTSTEIL_BEZUG: Lehen
+EIGENSCHAFTEN:
+  entfernung_umkirch: 5 km
+  genauigkeit: ca.
+  betreiber: Straßenbahn Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-umkirch/025
+ENTITÄT: straßenbahn_haltestelle
+BEZEICHNUNG: Bollerstaudenstraße
+ORTSTEIL_BEZUG: Rieselfeld
+EIGENSCHAFTEN:
+  entfernung_umkirch: 5 km
+  genauigkeit: ca.
+  betreiber: Straßenbahn Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-umkirch/026
+ENTITÄT: straßenbahnlinie_projekt
+BEZEICHNUNG: Verlängerung Straßenbahnlinie Rieselfeld über Mundenhof nach Umkirch
+EIGENSCHAFTEN:
+  status: ursprünglich angedacht, wird aktuell nicht mehr verfolgt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/027
+ENTITÄT: fahrradverleihsystem
+BEZEICHNUNG: Frelo
+EIGENSCHAFTEN:
+  stationen_umkirch: zwei
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/028
+ENTITÄT: radroute
+BEZEICHNUNG: Alltagsroute aus dem Radnetz Baden-Württemberg
+EIGENSCHAFTEN:
+  verbindung_1: Umkirch über Gottenheim und Ihringen mit Breisach
+  verbindung_2: Umkirch mit Freiburg über Autobahnkreuz Freiburg Mitte auf FR 1
+  verbindung_3_alternativ: FR 5 über Sportanlagen und Mundenhof durch Brücke über A 5 oder über Ortsausgangsstraße nach Waltershofen und Opfinger See
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-umkirch/029
+ENTITÄT: radschnellweg
+BEZEICHNUNG: Radschnellweg nach Breisach
+EIGENSCHAFTEN:
+  geplante_führung: künftig nördlich an Umkirch vorbei
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-umkirch/030
+ENTITÄT: bundesstraße
+BEZEICHNUNG: Bundesstraße 31a
+EIGENSCHAFTEN:
+  verbindung_autobahn: Bundesautobahn 5
+  verbindung_stadt: Freiburg
+  fahrtzeit_freiburg_innenstadt: weniger als 15 Minuten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/031
+ENTITÄT: unternehmen
+BEZEICHNUNG: Welte Fahrzeugbau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/032
+ENTITÄT: unternehmen
+BEZEICHNUNG: hms-sonosystems GmbH
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/033
+ENTITÄT: unternehmen
+BEZEICHNUNG: TRUMPF Medizin Systeme GmbH + Co. KG
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/034
+ENTITÄT: unternehmen
+BEZEICHNUNG: Gerriets GmbH
+EIGENSCHAFTEN:
+  branche: Bühnenausstattung
+  superlativ: weltweit führendes Unternehmen für Bühnenausstattung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/035
+ENTITÄT: kinderbuildungszentrum
+BEZEICHNUNG: KinderBildungsZentrum Umkirch
+EIGENSCHAFTEN:
+  kürzel: KiZ
+  enthaltene_einrichtungen: Kindertagesstätte, Grundschule, Hort, Kernzeitbetreuung, Mittagstisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/036
+ENTITÄT: volkshochschule
+BEZEICHNUNG: Volkshochschule Umkirch
+EIGENSCHAFTEN:
+  angebot: Weiterbildungsmöglichkeiten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/037
+ENTITÄT: gemeindearchiv
+BEZEICHNUNG: Gemeindearchiv Umkirch
+EIGENSCHAFTEN:
+  eigenständigkeit: eigenständiges Gemeindearchiv
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/038
+ENTITÄT: hallenbad
+BEZEICHNUNG: Hallenbad Umkirch
+EIGENSCHAFTEN:
+  schließung_jahr: 2020
+  schließung_typ: dauerhaft geschlossen
+  abriss: inzwischen abgerissen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/039
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Katholische Kirchengemeinde Umkirch
+EIGENSCHAFTEN:
+  konfession: katholisch
+  seelsorgeeinheit: March-Gottenheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/040
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Umkirch
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  kirchenbezirk: Breisgau-Hochschwarzwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/041
+ENTITÄT: park
+BEZEICHNUNG: Queen-Auguste-Victoria-Park
+EIGENSCHAFTEN:
+  ehemaliger_name: Fulwell Park
+  lage_bezug: beim Hohenzollernschloss
+  fläche: 11 Hektar
+  auszeichnung: Europäischer Gartenkultur-Schöpfungspreis
+  öffentlich_zugänglich: false
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/042
+ENTITÄT: sportveranstaltung
+BEZEICHNUNG: Neujahrsschachturnier um den Breisgaupokal
+EIGENSCHAFTEN:
+  ausgabe_42: 10. Januar 2016
+  ausgabe_43: 8. Januar 2017
+  ort: Turn- und Festhalle Umkirch
+  veranstalter: Schachclub Umkirch 1969
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/043
+ENTITÄT: verein
+BEZEICHNUNG: Akkordeonspielring Umkirch/Gottenheim e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/044
+ENTITÄT: verein
+BEZEICHNUNG: DRK Kreisverband Freiburg e.V. Sozialpädagogische Schülerhilfe Umkirch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/045
+ENTITÄT: verein
+BEZEICHNUNG: Freiwillige Feuerwehr Umkirch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/046
+ENTITÄT: verein
+BEZEICHNUNG: Förderverein Umkircher Mühle e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/047
+ENTITÄT: verein
+BEZEICHNUNG: Freizeit – Sportverein Umkirch e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/048
+ENTITÄT: verein
+BEZEICHNUNG: Gewerbeverein Umkirch e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/049
+ENTITÄT: verein
+BEZEICHNUNG: Krabbelgruppe Wichtelbande e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/050
+ENTITÄT: verein
+BEZEICHNUNG: Schachclub Umkirch 1969 e.V.
+EIGENSCHAFTEN:
+  gründungsjahr: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/051
+ENTITÄT: verein
+BEZEICHNUNG: Skiclub Umkirch e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/052
+ENTITÄT: verein
+BEZEICHNUNG: Umkirch erleben e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/053
+ENTITÄT: verein
+BEZEICHNUNG: Umkircher Narrenclub e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/054
+ENTITÄT: verein
+BEZEICHNUNG: Umkircher Vereinsgemeinschaft e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch/055
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Friedrich Wilhelm Prinz von Hohenzollern
+EIGENSCHAFTEN:
+  lebensjahre: 1924–2010
+  tätigkeit: ehemaliges Oberhaupt des Hauses Hohenzollern-Sigmaringen
+  bezug_zu_umkirch: Sohn/Tochter der Gemeinde
+GUELTIG_AB: 1924
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/056
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ferfried Prinz von Hohenzollern
+EIGENSCHAFTEN:
+  lebensjahre: 1943–2022
+  tätigkeit: Tourenwagen-Rennfahrer
+  bezug_zu_umkirch: Sohn/Tochter der Gemeinde
+GUELTIG_AB: 1943
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/057
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Leopold Prinz von Bayern
+EIGENSCHAFTEN:
+  geburtsjahr: 1943
+  tätigkeit: ehemaliger Automobilrennfahrer
+  bezug_zu_umkirch: Sohn/Tochter der Gemeinde
+GUELTIG_AB: 1943
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/058
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Werner Käß
+EIGENSCHAFTEN:
+  lebensjahre: 1924–2022
+  tätigkeit: Geologe
+  auszeichnung: Träger der Staufermedaille
+  bezug_zu_umkirch: wohnte in Umkirch
+GUELTIG_AB: 1924
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/059
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Cécile Verny
+EIGENSCHAFTEN:
+  geburtsjahr: 1969
+  tätigkeit: Jazz-Sängerin, Frontfrau des Cécile Verny Quartets
+  bezug_zu_umkirch: lebt in Umkirch
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch/060
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Rüdiger Tonojan
+EIGENSCHAFTEN:
+  geburtsjahr: 1972
+  tätigkeit: Politiker (Bündnis 90/Die Grünen)
+  bezug_zu_umkirch: aufgewachsen in Umkirch
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+SPENDER: Dornstetten (nicht Teil der Fahrt)
+ENTITÄT: ort
+BEZEICHNUNG: Dornstetten
+EIGENSCHAFTEN:
+  einwohner: 8192
+  einwohner_datum: 31. Dezember 2025
+  landkreis: Freudenstadt
+  bundesland: Baden-Württemberg
+  region: Nordschwarzwald
+  regierungsbezirk: Karlsruhe
+  entfernung_kreisstadt: 7 km östlich
+  höhe_min: 600 m ü. NN
+  höhe_max: 715 m ü. NN
+  waldanteil: 48 %
+  waldanteil_hektar: 1164 ha
+  lage: nördlicher Schwarzwald
+  erste_urkundliche_erwähnung: 767
+  quelle_erwähnung: Lorscher Codex
+  ist_stadt: true
+  stadt_erhoben: 1267-1276
+  ist_oberamtsstadt_gewesen: true
+  oberamtsstadt_zeitraum: 1755-1807
+  deutsche_fachwerkstraße: Südroute (Mosbach–Haslach im Kinzigtal)
+  deutsche_alleenstraße: liegt an
+  verkehrsgemeinde: Landkreis Freudenstadt
+  naturpark: Schwarzwald Mitte/Nord
+  is_kreisstadt: false
+  ist_vermutlich_aktuell: true
+GUELTIG_AB: 1267
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Aach
+ORTSTEIL_BEZUG: Aach
+EIGENSCHAFTEN:
+  teil_seit: 1. Januar 1975
+  komponenten: Dorf Aach, Gehöft Benzinger Hof, Häuser Glattal
+  glatt_quelle: Zusammenfluss Ettenbach, Stockerbach, Kübelbach
+  bahnhaltepunkt_seit: 2018
+  bahnhaltepunkt_takt: Zweistundentakt
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1975
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hallwangen
+ORTSTEIL_BEZUG: Hallwangen
+EIGENSCHAFTEN:
+  teil_seit: 1. Januar 1975
+  komponenten: Dorf Hallwangen
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1975
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Bernhard Haas
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  partei: parteilos
+  wahl: März 2012
+  wahlgang: zweiter Wahlgang
+  stimmenanteil: 51,1 %
+  vorgänger: Dieter Flik
+  vorgänger_stimmenanteil: 3,2 %
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2012
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Jacob Beurlin
+EIGENSCHAFTEN:
+  lebensdaten: um 1520–1561
+  beruf: evangelischer Theologe und Reformator
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1520
+GUELTIG_BIS: 1561
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Johann Jakob Schertlin
+EIGENSCHAFTEN:
+  lebensdaten: 1784–1855
+  beruf: württembergischer Oberamtmann
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1784
+GUELTIG_BIS: 1855
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Heinrich Schäff
+EIGENSCHAFTEN:
+  alias: Hermann Zerweck
+  lebensdaten: 1862–1937
+  beruf: Schriftsteller, Maler
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1862
+GUELTIG_BIS: 1937
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Fritz Kläger
+EIGENSCHAFTEN:
+  lebensdaten: 1914–2007
+  beruf: Motorradrennfahrer und -konstrukteur
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1914
+GUELTIG_BIS: 2007
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Erich Bochinger
+EIGENSCHAFTEN:
+  lebensdaten: 1928–2016
+  beruf: evangelischer Theologe
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1928
+GUELTIG_BIS: 2016
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Cornelia Horz
+EIGENSCHAFTEN:
+  geburt: 1957
+  beruf: Juristin, Präsidentin des Oberlandesgerichts Stuttgart
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1957
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Wolfram Graf
+EIGENSCHAFTEN:
+  geburt: 1965
+  beruf: Komponist, Pianist und Organist
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1965
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Eleonore Kötter
+EIGENSCHAFTEN:
+  lebensdaten: bis 2017
+  beruf: Dornstetter Künstlerin
+  stiftung: Kunstsammlung (Heimatmuseum)
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 2017
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirche
+BEZEICHNUNG: evangelische Kirche
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  seit_reformation: Dornstetten evangelisch geprägt
+  gueltig_ab: Reformation
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kirche
+BEZEICHNUNG: römisch-katholische Kirche
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  betreuung: Kirchengemeinde Freudenstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kirche
+BEZEICHNUNG: neuapostolische Kirche
+EIGENSCHAFTEN:
+  konfession: neuapostolisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kirche
+BEZEICHNUNG: evangelisch-methodistische Kirche
+EIGENSCHAFTEN:
+  konfession: evangelisch-methodistisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Scey-sur-Saône-et-Saint-Albin
+EIGENSCHAFTEN:
+  region: Bourgogne-Franche-Comté
+  land: Frankreich
+  relation: partnerschaftliche Beziehung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Naturschutzgebiet Benzinger Berg
+EIGENSCHAFTEN:
+  typ: Naturschutzgebiet
+  lage: Süden des Stadtgebiets
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Silberberg
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Springbrunnen-Ettenbachtal
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+  anteil: Teile der Fläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Stockenbachtal
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+  anteil: Teile der Fläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet Oberes Glattal
+EIGENSCHAFTEN:
+  typ: Landschaftsschutzgebiet
+  anteil: Teile der Fläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: FFH-Gebiet Freudenstädter Heckengäu
+EIGENSCHAFTEN:
+  typ: FFH-Gebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: schule
+BEZEICHNUNG: Gymnasium
+EIGENSCHAFTEN:
+  erste_erwähnung: 1461
+  umwandlung_vollgymnasium: Schuljahr 2006/07
+  status: Vollgymnasium seit 2006/07
+GUELTIG_AB: 1461
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schule
+BEZEICHNUNG: Realschule
+EIGENSCHAFTEN:
+  gebäude_mit: Werkrealschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Werkrealschule
+EIGENSCHAFTEN:
+  gebäude_mit: Realschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule
+EIGENSCHAFTEN:
+  anzahl: 3
+  verteilung: eine pro Ortsteil
+IST_VERMUTISCH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schule
+BEZEICHNUNG: Dreifürstensteinschule
+EIGENSCHAFTEN:
+  typ: Körperbehindertenschule
+  träger: Stiftung KBF
+  form: Außenstelle Dornstetten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Eichenäcker-Schule
+EIGENSCHAFTEN:
+  typ: Förderschule
+  spezialisierung: Schüler mit geistiger Behinderung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: einrichtung
+BEZEICHNUNG: Kindergarten
+EIGENSCHAFTEN:
+  anzahl: 7
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: museum
+BEZEICHNUNG: Puppen- und Spielzeugmuseum
+EIGENSCHAFTEN:
+  standort: Kaufhaus Hegel
+  typ: Spezialisiertes Museum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum
+EIGENSCHAFTEN:
+  inhalt: Stadtgeschichte, Leben der Bürger, Kunstsammlung
+  etagen: 3
+  kunstsammlung_stiftung: Eleonore Kötter (2017)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bergwerk
+BEZEICHNUNG: Himmlisch Heer
+ORTSTEIL_BEZUG: Hallwangen
+EIGENSCHAFTEN:
+  typ: Silber-, Kupfer- und Schwerspatbergwerk
+  status: historisch
+  besuchbar: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: Altstadt
+EIGENSCHAFTEN:
+  charakteristika: Fachwerkhäuser und Gassen
+  sehenswert: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: gebäude
+BEZEICHNUNG: Aussichtsturm Königskanzel
+EIGENSCHAFTEN:
+  typ: Aussichtsturm
+  name: Königskanzel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: freizeit_einrichtung
+BEZEICHNUNG: Barfußpark
+ORTSTEIL_BEZUG: Hallwangen
+EIGENSCHAFTEN:
+  länge: 2,4 km
+  form: Rundweg
+  stationen: Erlebnis-, Kneipp- und Spielstationen
+  zweck: Naturerlebnisse, Naturheilmittel gegen Venenleiden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Bahnstrecke Eutingen im Gäu–Schiltach
+EIGENSCHAFTEN:
+  stationen: Dornstetten, Aach (seit 2018)
+  züge_re14b: Freudenstadt–Stuttgart
+  züge_s8_s81: Bondorf (bei Herrenberg)–Karlsruhe Tullastraße (Stadtbahn Karlsruhe)
+  takt_haltepunkte: Zweistundentakt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnhaltepunkt
+BEZEICHNUNG: Bahnhaltepunkt Aach
+ORTSTEIL_BEZUG: Aach
+EIGENSCHAFTEN:
+  in_betrieb_seit: 2018
+  takt: Zweistundentakt
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2018
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bundesstraße
+BEZEICHNUNG: Bundesstraße 28
+EIGENSCHAFTEN:
+  ausführung: Umgehungsstraße außerhalb der Bebauung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: wirtschaft
+EIGENSCHAFTEN:
+  gewerbesteuereinnahmen_2022: 8,68 Millionen Euro
+  gewerbesteuerhebesatz: 355 %
+  gewerbesteuerhebesatz_deutschland_2023: 407 %
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2022
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Waldgeding Dornstetten
+EIGENSCHAFTEN:
+  ereignis: erste urkundliche Erwähnung
+  jahr: 767
+  quelle: Lorscher Codex
+  beschreibung: Dornstetter Waldgeding existierte auf dem heutigen Gemeindegebiet
+GUELTIG_AB: 767
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Stadterhebung Dornstetten
+EIGENSCHAFTEN:
+  ereignis: Ort zur Stadt erhoben
+  zeitraum: 1267-1276
+  grund: Erhebung durch Grafen von Urach-Fürstenberg
+GUELTIG_AB: 1267
+GUELTIG_BIS: 1276
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Territorialwechsel zu Württemberg
+EIGENSCHAFTEN:
+  ereignis: Stadt kam an Württemberg
+  jahr: 1320
+  grund: über Grafen von Hohenberg
+GUELTIG_AB: 1320
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Oberamtsstadt Dornstetten
+EIGENSCHAFTEN:
+  ereignis: Dornstetten Sitz des gleichnamigen Oberamts
+  gueltig_ab: 1755
+  gueltig_bis: 1807
+  grund_auflösung: Umsetzung neue Verwaltungsgliederung Königreich Württemberg
+  folge: Eingliederung in Oberamt Freudenstadt
+GUELTIG_AB: 1755
+GUELTIG_BIS: 1807
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Kreisreform Nationalsozialismus
+EIGENSCHAFTEN:
+  ereignis: Stadt gelangte zum Landkreis Freudenstadt
+  jahr: 1938
+  kontext: Kreisreform während Zeit des Nationalsozialismus in Württemberg
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Nachkriegsgeschichte Dornstetten
+EIGENSCHAFTEN:
+  ereignis_phase1: Nach Zweitem Weltkrieg in Französische Besatzungszone
+  ereignis_phase2: 1947 zum neu gegründeten Land Württemberg-Hohenzollern
+  ereignis_phase3: 1952 im Land Baden-Württemberg aufgegangen
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1952
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Gemeindefusion Dornstetten
+EIGENSCHAFTEN:
+  ereignis: Dornstetten vereinigte sich mit Aach und Hallwangen
+  datum: 1. Januar 1975
+  resultierend: neue Stadt Dornstetten
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+

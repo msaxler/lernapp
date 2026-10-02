@@ -1,0 +1,1664 @@
+ZIELORT: St. Peter (Gemeinde)
+LAGE: 14 km östlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: St. Peter (Hochschwarzwald)
+
+GRUNDDATEN:
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 2718  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 35,93  [Wikidata P2046]
+  dichte_ew_km2: 76  [berechnet aus Einwohner und Fläche]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395] — BERICHTIGT: Wie 09-horben/G.kfz: Der Landkreis Breisgau-Hochschwarzwald gibt seit dem 2. Oktober 2023 neben FR auch MÜL und NEU aus; das Kennzeichen ist nicht einwertig.
+  hoehe_m: 716 | 715 | 725  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 11951569); Altbestand geo.sqlite (GeoNames 2841488)]
+  naechste_grossstadt: Freiburg im Breisgau, 14 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 120 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  plz: 79271  [Wikidata P281]
+  vorwahl: 07660  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 34,3 %, GRÜNE 20,3 %, SPD 11,7 %, AfD 11,4 %, Die Linke 6,3 %, FREIE WÄHLER 5,2 %; Wahlbeteiligung 86,8 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Charly Gnant — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-01]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C-LEITER, letzte Stufe mit "höher": 1
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Fläche der Gemarkung), C, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Zähringen (Ortsteil von Freiburg im Breisgau)
+  landkreis: Stadtkreis Freiburg im Breisgau — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P131]
+  einwohner: 9429  [Wikidata P1082, Stand 2024]
+  flaeche_km2: 3,13  [dewiki Infobox]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE FREIBURG IM BREISGAU  [Wikidata P395]
+  hoehe_m: 250 | 254  [dewiki Infobox; Altbestand geo.sqlite (GeoNames 2805299)]
+  naechste_grossstadt: Freiburg im Breisgau, 3 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  ersterwaehnung: 1008  [Wikidata P1249]
+  bahnhof: Haltepunkt Freiburg-Zähringen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: GRÜNE 30,2 %, CDU 20,3 %, SPD 15,1 %, Die Linke 14,1 %, AfD 8,7 %; Wahlbeteiligung 87 %  [Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich), Stand 2025-02-23]
+
+FAHRT: Umkirch, Gundelfingen, Denzlingen, Zähringen, St. Peter, Glottertal, Kirchzarten, Günterstal, Horben, Staufen
+
+FAKTEN (Zielort St. Peter):
+ID: 05-st-peter/001
+ENTITÄT: ort
+BEZEICHNUNG: St. Peter
+EIGENSCHAFTEN:
+  bundesland: Baden-Württemberg
+  landkreis: Breisgau-Hochschwarzwald
+  naturpark: Südschwarzwald
+  ist_luftkurort: true
+  entfernung_freiburg_km: 14
+  lage_gelaendehöhe_min_m: 519
+  lage_gelaendehöhe_max_m: 1228
+  lage_zentrum_m: 720
+  ist_zähringergemeinde: true
+  zusatzbezeichnung_zähringergemeinde: seit 1. Januar 2022
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-st-peter/002
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster St. Peter auf dem Schwarzwald
+EIGENSCHAFTEN:
+  gründer: Zähringerherzog Berthold II.
+  grund: als Hauskloster und Begräbnisstätte gegründet
+  funktion_früher: Begräbnisstätte
+  nutzung_ab_1941: Umsiedlerlager der Volksdeutschen Mittelstelle
+GUELTIG_AB: 1093
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+BERICHTIGT: Das Kloster wurde 1806 aufgehoben; die Frage nach seinem Alter ist doppeldeutig (713 Jahre Bestand, Gründung 1093).
+---
+ID: 05-st-peter/003
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Peter und Paul
+EIGENSCHAFTEN:
+  architekturstil: Barock
+  ist_ehemalige_klosterkirche: true
+  erbauer: Peter Thumb
+  erbauer_herkunft: Vorarlberg
+  bauzeit: 1724-1727
+  ausstatter_gemälde: Franz Joseph Spiegler
+  ausstatter_figuren: Joseph Anton Feuchtmayer
+  besonderheit: barocke Orgeluhr
+  superlativ: herausragendes Gebäude des Dorfes
+GUELTIG_AB: 1724
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 05-st-peter/004
+ENTITÄT: klosterbibliothek
+BEZEICHNUNG: Klosterbibliothek des Klosters St. Peter
+EIGENSCHAFTEN:
+  stil: Rokoko
+  ausstattung_deckengemälde: Benedikt Gambs
+  deckengemälde_jahr: 1751
+  ausstattung_figuren_künstler: Matthias Faller
+  figuren_modelle_von: Johann Christian Wentzinger
+  figuren_modelle_jahr: 1752
+  superlativ: besonders sehenswert im Stil des Rokoko
+GUELTIG_AB: 1752
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 05-st-peter/005
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapelle St. Ursula
+EIGENSCHAFTEN:
+  beschreibung: kleine Kirche
+  architekturstil: Barock
+  weihe_jahr: 1725
+  ursprung: auf Gelübde zurückgehend mit Bezug zur Erhaltung des Klosters
+  heutige_nutzung: Evangelische Kirchengemeinde Kirchzarten-Stegen
+GUELTIG_AB: 1725
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 05-st-peter/006
+ENTITÄT: wallfahrtskirche
+BEZEICHNUNG: Wallfahrtskirche Maria Lindenberg
+EIGENSCHAFTEN:
+  höhe_m: 813.7
+  nebengebäude: Begegnungs-, Tagungs- und Erholungsstätte des Erzbistums Freiburg
+  nebengebäude_typ: Pilgergaststätte
+  wallfahrt_besteht_seit: über 500 Jahren
+GUELTIG_AB: 500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 05-st-peter/007
+ENTITÄT: kapelle
+DESIGNNUNG: Vogesen-Kapelle
+EIGENSCHAFTEN:
+  typ_spezifisch: Votivkapelle
+  lage: Panorama-Wanderweg zwischen St. Peter und St. Märgen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-st-peter/008
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapfen-Kapelle
+EIGENSCHAFTEN:
+  typ_spezifisch: Votivkapelle
+  lage: Panorama-Wanderweg zwischen St. Peter und St. Märgen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-st-peter/009
+ENTITÄT: technisches_denkmal
+BEZEICHNUNG: Urgraben / Wuhr-Urgraben(-weg)
+EIGENSCHAFTEN:
+  gemarkungen: St. Peter, Glottertal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/010
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Gottfried Rohrer
+EIGENSCHAFTEN:
+  partei: CDU
+  amtszeit: 1984-2008
+  geb_jahr: 1947
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 05-st-peter/011
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Rudolf Schuler
+EIGENSCHAFTEN:
+  amtszeit: 2008-2024
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-st-peter/012
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Charly Gnant
+EIGENSCHAFTEN:
+  amtszeit_beginn_jahr: 2024
+  wahl_stimmenzahl_prozent: 88.5
+  amtsantritt_datum: 2024-12-17
+  wahlbeteiligung_prozent: 44.8
+  wahltyp: einziger Kandidat
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.97
+---
+ID: 05-st-peter/013
+ENTITÄT: ereignis
+BEZEICHNUNG: Brand in der Ortsmitte von St. Peter
+EIGENSCHAFTEN:
+  jahr: 1899
+  zerstörte_wohnhäuser: 23
+  obdachlos: 150
+  beschreibung: Brand, der 23 Wohnhäuser zerstörte und 150 Menschen obdachlos machte
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.97
+---
+ID: 05-st-peter/014
+ENTITÄT: ereignis
+BEZEICHNUNG: Schlacht bei St. Peter
+EIGENSCHAFTEN:
+  datum: 1644-08-10
+  krieg: Dreißigjähriger Krieg
+  beteiligte: kaiserliche Truppen, bayerische Truppen, französische Truppen
+GUELTIG_AB: 1644
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 05-st-peter/015
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Ebersmunster
+EIGENSCHAFTEN:
+  region: Elsass, Frankreich
+  partnerschaft_seit: 1963
+  typ: französische Partnergemeinde
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.97
+---
+ID: 05-st-peter/016
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Schmölln-Putzkau
+EIGENSCHAFTEN:
+  region: Sachsen, Deutschland
+  partnerschaft_seit: 1990
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.97
+---
+ID: 05-st-peter/017
+ENTITÄT: gemeinderat
+EIGENSCHAFTEN:
+  anzahl_mitglieder: 12
+  vorsitzender_titel: Bürgermeister
+  wahlbeteiligung_2014_prozent: 61.6
+  wahlbeteiligung_2019_prozent: 68.0
+  wahlbeteiligung_2019_frauen_gewählt: 2
+  wahlbeteiligung_2024_prozent: 73.6
+  wahlbeteiligung_2024_männer_gewählt: 9
+  wahlbeteiligung_2024_frauen_gewählt: 3
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.97
+---
+ID: 05-st-peter/018
+ENTITÄT: schule
+BEZEICHNUNG: Abt-Steyrer-Schule
+EIGENSCHAFTEN:
+  schultyp: Grund- und Hauptschule mit Werkrealschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 05-st-peter/019
+ENTITÄT: musikschule
+BEZEICHNUNG: Musicosophia-Musikschule
+EIGENSCHAFTEN:
+  gründer: George Bălan
+  fokus: Förderung des bewussten Musikhörens
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/020
+ENTITÄT: volkshochschule
+EIGENSCHAFTEN:
+  außenstelle_standort: St. Peter
+  träger: Volkshochschule Dreisamtal
+  träger_sitz: Kirchzarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 05-st-peter/021
+ENTITÄT: bioenergiedorf
+EIGENSCHAFTEN:
+  rangplatz: 16
+  rangplatz_raum: Baden-Württemberg
+  energieproduktion_solar: ja
+  energieproduktion_wind: ja
+  energiequelle_heizwerk: Holzpellets und Holzhackschnitzel
+  eigenversorgung: mehr Strom als lokal verbraucht
+  fernwärmebetrieb: ja
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 05-st-peter/022
+ENTITÄT: stausee
+BEZEICHNUNG: Plattensee
+EIGENSCHAFTEN:
+  betreiber: Zweribachwerk
+  gemarkungsgrenze: Simonswald
+  lage: Rande der Platte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/023
+ENTITÄT: landschaftsschutzgebiet
+BEZEICHNUNG: Landschaftsschutzgebiet St. Peter, St. Märgen
+EIGENSCHAFTEN:
+  abdeckung_gemeinde: nahezu vollständig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 05-st-peter/024
+ENTITÄT: vogelschutzgebiet
+BEZEICHNUNG: Mittlerer Schwarzwald
+EIGENSCHAFTEN:
+  europäisch_ausgewiesen: true
+  gemarkung_abdeckung: kleine Teil
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/025
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Häuslematt
+EIGENSCHAFTEN:
+  gemarkung_abdeckung: kleine Teil
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/026
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Zweribach
+EIGENSCHAFTEN:
+  gemarkung_abdeckung: kleine Teil
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/027
+ENTITÄT: ffh_gebiet
+BEZEICHNUNG: FFH-Gebiet Kandelwald, Roßkopf und Zartener Becken
+EIGENSCHAFTEN:
+  entlang_gewässer: Glotter, Ibenbach und Zuflüsse
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/028
+ENTITÄT: naturdenkmäler
+EIGENSCHAFTEN:
+  anzahl: 56
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 05-st-peter/029
+ENTITÄT: geotope
+EIGENSCHAFTEN:
+  anzahl: 3
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 05-st-peter/030
+ENTITÄT: fördergebiet
+BEZEICHNUNG: Fördergebiet Wolfsprävention Schwarzwald
+EIGENSCHAFTEN:
+  umfang: gesamter Naturraum Schwarzwald
+  funktion_herdenschutz: finanzielle Förderung von Herdenschutzmaßnahmen
+  funktion_ausgleich: Ausgleichszahlungen bei Schäden durch Wolfsübergriffe
+  finanzierung: Ministerium für Umwelt, Klima und Energiewirtschaft Baden-Württemberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/031
+ENTITÄT: initiative
+BEZEICHNUNG: Initiative Motorradlärm
+EIGENSCHAFTEN:
+  mitglieder_typ: Städte, Gemeinden, Landkreise, Verkehrsministerium Baden-Württemberg
+  ziel: wirkungsvolle Reduzierung von Motorradlärm
+  mitglied_st_peter: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-st-peter/032
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Timotheus Knittel
+EIGENSCHAFTEN:
+  geb_jahr: 1812
+  st_jahr: 1887
+  funktion: Regens
+  ehrenbürger_datum: 1879-01-24
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-st-peter/033
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Nikolaus Gihr
+EIGENSCHAFTEN:
+  geb_jahr: 1839
+  st_jahr: 1924
+  funktion: Subregens
+  ehrenbürger_jahr: 1916
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-st-peter/034
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Benedikt Kreutz
+EIGENSCHAFTEN:
+  geb_jahr: 1879
+  st_jahr: 1949
+  funktion: Präsident des Deutschen Caritasverbandes
+  funktion_detail: zweiter Präsident
+  ehrenbürger_datum: 1949-01-15
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 05-st-peter/035
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Ansgar Baumeister
+EIGENSCHAFTEN:
+  geb_jahr: 1873
+  st_jahr: 1950
+  funktion: Regens
+  ehrenbürger_monat_jahr: 1949-10
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 05-st-peter/036
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Albert Füssinger
+EIGENSCHAFTEN:
+  geb_jahr: 1913
+  st_jahr: 1996
+  funktion: Regens
+  ehrenbürger_monat_jahr: 1969-07
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 05-st-peter/037
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Oskar Saier
+EIGENSCHAFTEN:
+  geb_jahr: 1932
+  st_jahr: 2008
+  funktionen: Weihbischof, Regens, Erzbischof von Freiburg
+  amtszeit_erzbischof: 1978-2002
+  ehrenbürger_monat_jahr: 1977-09
+  kontroverse_2023: Distanzierung und Verurteilung durch Gemeinderat nach Missbrauchsbericht
+  kontroverse_beschluss_datum: 2023-07-03
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-st-peter/038
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Klaus Stadel
+EIGENSCHAFTEN:
+  geb_jahr: 1939
+  funktionen: Domkapitular, ehemaliger Regens
+  ehrenbürger_datum: 1992-02-16
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 05-st-peter/039
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Klaus Weber
+EIGENSCHAFTEN:
+  geb_jahr: 1928
+  st_jahr: 2007
+  funktionen: Ortschronist, Ratschreiber i.R.
+  ehrenbürger_datum: 1998-12-06
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 05-st-peter/040
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Gottfried Rohrer
+EIGENSCHAFTEN:
+  geb_jahr: 1947
+  funktion: Bürgermeister von St. Peter
+  amtszeit_bürgermeister: 1984-2008
+  ehrenbürger_datum: 2008-12-14
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 05-st-peter/041
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Hans-Otto Mühleisen
+EIGENSCHAFTEN:
+  geb_jahr: 1941
+  funktion: Politikwissenschaftler
+  ehrenbürger_datum: 2019-11-07
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 05-st-peter/042
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Georg Saum
+EIGENSCHAFTEN:
+  geb_jahr: 1736
+  st_jahr: 1790
+  tätigkeit: Maler
+  kunstrichtung: später Barock
+  herkunft: Sohn der Gemeinde
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-st-peter/043
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Raphael von Weinzierl
+EIGENSCHAFTEN:
+  geb_jahr: 1782
+  st_jahr: 1864
+  tätigkeit: württembergischer Oberamtmann
+  herkunft: Sohn der Gemeinde
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 05-st-peter/044
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Dominik Weber
+EIGENSCHAFTEN:
+  geb_jahr: 1819
+  st_jahr: 1887
+  tätigkeit: Maler
+  herkunft: Sohn der Gemeinde
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 05-st-peter/045
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Wilhelm Schmidle
+EIGENSCHAFTEN:
+  geb_jahr: 1860
+  st_jahr: 1951
+  tätigkeit: Lehrer, Algen-Experte, Geologe
+  funktion: Direktor im Internat Salem
+  herkunft: Sohn der Gemeinde
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-st-peter/046
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ignaz Tenckhoff
+EIGENSCHAFTEN:
+  geb_jahr: 1898
+  st_jahr: 1987
+  tätigkeit: Mediziner, Kommunalpolitiker
+  herkunft: Sohn der Gemeinde
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 05-st-peter/047
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Josef "Sepp" Maier
+EIGENSCHAFTEN:
+  geb_jahr: 1935
+  st_jahr: 2012
+  tätigkeit: Skilangläufer
+  herkunft: Sohn der Gemeinde
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 05-st-peter/048
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Leonie Walter
+EIGENSCHAFTEN:
+  geb_jahr: 2004
+  tätigkeit: Athletin
+  erfolge: mehrfache Goldmedaillengewinnerin im Biathlon
+  herkunft: Tochter der Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 05-st-peter/049
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ludwig Armbruster
+EIGENSCHAFTEN:
+  geb_jahr: 1886
+  st_jahr: 1973
+  tätigkeit: Priester, Bienenkundler
+  position: Direktor des Instituts für Bienenkunde in Berlin
+  arbeit_mit: hiesiger Imkerverein im Edelzuchtgebiet Platte
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 05-st-peter/050
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Georg von Sachsen
+EIGENSCHAFTEN:
+  geb_jahr: 1893
+  st_jahr: 1943
+  titel: letzter Kronprinz des Königreichs Sachsen
+  superlativ: letzter Kronprinz des Königreichs Sachsen
+  bezug_st_peter: 1923/1924 Seminarist in St. Peter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+BERICHTIGT: Seminarist in St. Peter steht nur in Wikipedia; unabhängig belegt sind Studium in Freiburg, Priesterweihe 1924 und das Priesterseminar am Ort.
+---
+ID: 05-st-peter/051
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Valentin Schweiger
+EIGENSCHAFTEN:
+  geb_jahr: 1900
+  st_jahr: 1990
+  funktion: Alleinlehrer der Einklassenschule im Ortsteil Sägendobel
+  amtszeit: 1937-1950
+  spätere_laufbahn: SPD-Landtagsabgeordneter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 05-st-peter/052
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Manfred Herrmann
+EIGENSCHAFTEN:
+  geb_jahr: 1932
+  st_jahr: 2012
+  tätigkeit: Pharmakologe
+  erfindungen: Medikament Valoron und andere zugelassene Medikamente
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 05-st-peter/053
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Edmund Kösel
+EIGENSCHAFTEN:
+  geb_jahr: 1935
+  st_jahr: 2023
+  tätigkeit: Pädagoge
+  position: Professor für Schulpädagogik und Gruppenpädagogik
+  affiliation: Pädagogische Hochschule Freiburg im Breisgau
+  wohnort: St. Peter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 05-st-peter/054
+ENTITÄT: filmproduktion
+BEZEICHNUNG: Schwarzwaldmädel
+EIGENSCHAFTEN:
+  genre: Spielfilm
+  superlativ: erster deutscher Nachkriegs-Farbfilm
+  drehorte_typ: Außenaufnahmen
+  drehort: St. Peter, außerdem Baden-Baden und Garmisch-Partenkirchen (filmportal.de)
+  drehdatum: 1950-05
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+BERICHTIGT: Gedreht wurde nicht nur in St. Peter.
+---
+ID: 05-st-peter/055
+ENTITÄT: filmproduktion
+BEZEICHNUNG: Schwarzwaldmädel (Fernsehfassung)
+EIGENSCHAFTEN:
+  medium: Fernsehen
+  drehort: St. Peter (mehrere Szenen)
+  drehjahr: 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 05-st-peter/056
+ENTITÄT: filmproduktion
+BEZEICHNUNG: Schwarzwaldfahrt aus Liebeskummer
+EIGENSCHAFTEN:
+  drehort: St. Peter
+  drehjahr: 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/057
+ENTITÄT: wanderweg
+BEZEICHNUNG: Kandelhöhenweg
+EIGENSCHAFTEN:
+  startpunkt: Oberkirch (Baden)
+  endpunkt: Freiburg im Breisgau
+  durchführung: St. Peter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/058
+ENTITÄT: mountainbikestrecke
+BEZEICHNUNG: Bike-Crossing Schwarzwald
+EIGENSCHAFTEN:
+  beschreibung: Nord-Süd-Durchquerung des Schwarzwaldes
+  gesamtlänge_km: 440
+  startpunkt: Pforzheim
+  endpunkt: Bad Säckingen
+  route: über Buchenbach und Ibental durch St. Peter weiter über Kandel nach Simonswald
+  bedeutung: ausgeschildert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 05-st-peter/059
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Deutsche Uhrenstraße
+EIGENSCHAFTEN:
+  ortsbezug: St. Peter liegt an der Deutschen Uhrenstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-st-peter/060
+ENTITÄT: historische_wirtschaft
+BEZEICHNUNG: Schwarzwalduhren-Herstellung
+EIGENSCHAFTEN:
+  periode: vor 18. Jahrhundert
+  zeit_detail: 18. Jahrhundert ist Herstellung belegt
+  funktion: wichtiger Erwerbszweig in St. Peter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/061
+ENTITÄT: historische_wirtschaft
+BEZEICHNUNG: Färber-Ginster-Handel
+EIGENSCHAFTEN:
+  tätigkeiten: Sammeln, Trocknen, Verkaufen
+  absatzmarkt: Seidenfärber in Basel
+  periode: 18. Jahrhundert
+  funktion: zusätzliche Einnahmequelle der Bevölkerung
+GUELTIG_AB: 1700
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+BERICHTIGT: Der Ginster-Handel mit den Basler Seidenfärbern steht nur in Wikipedia; keine zweite Quelle gefunden, kein Widerspruch.
+---
+ID: 05-st-peter/062
+ENTITÄT: verkehrslinie
+BEZEICHNUNG: Busverkehr Südbadenbus
+EIGENSCHAFTEN:
+  anzahl_linien: 3
+  anbieter: Südbadenbus
+  haltestellen_innerhalb_gemeinde: 20
+  streckenlänge_km: 21
+  verkehrsverbund: Regio-Verkehrsverbund Freiburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 05-st-peter/063
+ENTITÄT: verkehrssystem
+BEZEICHNUNG: KONUS
+EIGENSCHAFTEN:
+  zielgruppe: Übernachtungsgäste
+  leistung: kostenlose Nutzung des öffentlichen Nahverkehrs
+  geltungsbereich: Verkehrsverbünde im Schwarzwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/064
+ENTITÄT: infrastruktur
+BEZEICHNUNG: e-Car-Sharing-Station
+EIGENSCHAFTEN:
+  anbieter: naturenergie sharing
+  anbieter_struktur: Gemeinschaftsunternehmen von Naturenergie und Stadtmobil
+  funktion: Leih- und Ladestation
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-st-peter/065
+ENTITÄT: flughafen_nähe
+EIGENSCHAFTEN:
+  basel_km: 96
+  straßburg_km: 100
+  zürich_km: 102
+  karlsruhe_baden_baden_km: 117
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 05-st-peter/066
+ENTITÄT: übernachtungen
+EIGENSCHAFTEN:
+  jahr: 2022
+  gesamt: 84489
+  campingplatz: 18854
+  inland_anteil_prozent: 90
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 05-st-peter/067
+ENTITÄT: übernachtungen
+EIGENSCHAFTEN:
+  jahr: 2023
+  gesamt: 85375
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 05-st-peter/068
+ENTITÄT: kulturdenkmäler
+EIGENSCHAFTEN:
+  anzahl: über 70
+  katalog: Bau- und Kunstdenkmalpflege Baden-Württemberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 05-st-peter/069
+ENTITÄT: infrastruktur_siedlung
+BEZEICHNUNG: Schwarzwaldhöfe und -mühlen
+EIGENSCHAFTEN:
+  beschreibung: zahlreiche weit über die Gemarkung verstreute Schwarzwaldhöfe und -mühlen geben dem Dorf das typische Gepräge einer Hochschwarzwaldgemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/070
+ENTITÄT: verwaltungsstruktur
+BEZEICHNUNG: Gemeindeverwaltungsverband St. Peter
+EIGENSCHAFTEN:
+  mitglieder: St. Peter, Glottertal, St. Märgen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 05-st-peter/071
+ENTITÄT: säkularisation
+EIGENSCHAFTEN:
+  jahr: 1806
+  beschreibung: weltliche Rechte des Klosters aufgehoben
+  folge: Dorf kam zum Großherzogtum Baden
+  benannt_nach: Grund für administrativen Wechsel war Säkularisation
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+BERICHTIGT: St. Peter war vom 12. Januar bis 18. Februar 1806 württembergisch besetzt (Badische Landesbibliothek, Speckle-Tagebuch); Württemberg taugt hier nicht als Lüge. Das Kloster wurde 1806 aufgehoben.
+---
+ID: 05-st-peter/072
+ENTITÄT: event
+BEZEICHNUNG: Umsiedlerlager der Volksdeutschen Mittelstelle
+EIGENSCHAFTEN:
+  standort: Klostergebäude
+  zeitraum: ab Frühjahr 1941
+  kapazität: zeitweise mehrere Hundert Menschen
+  kontext: Zweiter Weltkrieg
+GUELTIG_AB: 1941
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 05-st-peter/073
+ENTITÄT: event
+BEZEICHNUNG: Wehrertüchtigungslager der Hitlerjugend
+EIGENSCHAFTEN:
+  zeitraum: Ende Zweiter Weltkrieg
+  standort: St. Peter
+  kontext: militärische Ausbildung
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 05-st-peter/074
+ENTITÄT: besatzung
+EIGENSCHAFTEN:
+  zeitraum: ab 1945
+  besatzungsmacht: Französische Besatzungszone
+  verwaltungszugehörigkeit_1945: Land Südbaden bzw. Baden
+  verwaltungszugehörigkeit_ab_1952: Land Baden-Württemberg
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 05-st-peter/075
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bürgerschaft
+EIGENSCHAFTEN:
+  typ: Dorf
+ORTSTEIL_BEZUG: Bürgerschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/076
+ENTITÄT: ortsteil
+BEZEICHNUNG: Sägendobel
+EIGENSCHAFTEN:
+  typ: Weiler
+ORTSTEIL_BEZUG: Sägendobel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/077
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kandelberg
+EIGENSCHAFTEN:
+  typ: Zinke
+ORTSTEIL_BEZUG: Kandelberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/078
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neuwelt
+EIGENSCHAFTEN:
+  typ: Zinke
+ORTSTEIL_BEZUG: Neuwelt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/079
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberibental
+EIGENSCHAFTEN:
+  typ: Zinke
+ORTSTEIL_BEZUG: Oberibental
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/080
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ränke
+EIGENSCHAFTEN:
+  typ: Zinke
+ORTSTEIL_BEZUG: Ränke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/081
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rohr
+EIGENSCHAFTEN:
+  typ: Zinke
+ORTSTEIL_BEZUG: Rohr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/082
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schmittenbach
+EIGENSCHAFTEN:
+  typ: Zinke
+ORTSTEIL_BEZUG: Schmittenbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/083
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schönhöfe
+EIGENSCHAFTEN:
+  typ: Zinke
+ORTSTEIL_BEZUG: Schönhöfe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/084
+ENTITÄT: ortsteil
+BEZEICHNUNG: Seelgut
+EIGENSCHAFTEN:
+  typ: Zinke
+ORTSTEIL_BEZUG: Seelgut
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/085
+ENTITÄT: ortsteil
+BEZEICHNUNG: Willmendobel
+EIGENSCHAFTEN:
+  typ: Zinke
+ORTSTEIL_BEZUG: Willmendobel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/086
+ENTITÄT: ortsteil
+BEZEICHNUNG: Eckpeterhof
+EIGENSCHAFTEN:
+  typ: Hof
+ORTSTEIL_BEZUG: Eckpeterhof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/087
+ENTITÄT: ortsteil
+BEZEICHNUNG: Langeck
+EIGENSCHAFTEN:
+  typ: Hof
+ORTSTEIL_BEZUG: Langeck
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/088
+ENTITÄT: ortsteil
+BEZEICHNUNG: Lindlehof
+EIGENSCHAFTEN:
+  typ: Hof
+ORTSTEIL_BEZUG: Lindlehof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 05-st-peter/089
+ENTITÄT: exklave
+EIGENSCHAFTEN:
+  beschreibung: Exklave im oberen Glottertal, ein bewaldetes Gebiet etwas unterhalb des Rastplatzes Ränke der Landesstraße 112 und dort direkt südlich der Glotter
+ORTSTEIL_BEZUG: Glottertal-Exklave
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+SPENDER: Tengen (nicht Teil der Fahrt)
+ENTITÄT: ort
+BEZEICHNUNG: Tengen
+EIGENSCHAFTEN:
+  typ: Landstadt
+  region: Hegau
+  landkreis: Konstanz
+  lage_grenznahe: an der Grenze zur Schweiz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Tengen — Erstnennung
+EIGENSCHAFTEN:
+  erstnennung_jahr: 877
+  erstnennung_name_form: Teingon
+  erstnennung_urkunden_typ: Brief
+  warum_eigentumsherr: gehörte dem Bischof Salomo II. von Konstanz
+GUELTIG_AB: 877
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Tengen — Hinterstadt / Hintertengen Entwicklung
+EIGENSCHAFTEN:
+  stadtraechte_stauferzeit: Herren von Tengen erhielten Stadtrechte und Hohe Gerichtsbarkeit
+  verkauf_jahr: 1275
+  herrschaft_nach_verkauf: habsburgisch
+  veraenderungen_nach_1275: weitere Wechsel, schließlich Besitz Deutschordenskommende Mainau
+  warum_schwaben_1446: Hintertengener waren gefürchtete Raubritter; Schwäbischer Städtebund kam mit Heer
+  hintertengen_strategie_1446: Schwaben durften Hintertengen von Vordertengen aus angreifen, wenn Vordertengen verschont würde
+  oesterreich_jahr: 1522
+  brand_burg_jahr: 1519
+  warum_brand: Burg wurde durch Brand endgültig zerstört (drei Jahre vor Österreich-Kommen)
+  marktrecht_jahr: 1291
+  marktrecht_gewaehrer: König Rudolf I.
+  marktrecht_nutzbarkeit: konnte nicht genutzt werden, weil für einen Markt kein Platz da war und keine eigene Zufahrt (nur Fuß- und Eselsweg)
+GUELTIG_AB: 1275
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geographie
+BEZEICHNUNG: Tengen — Stadtanlage Vorder- und Hinterstadt
+EIGENSCHAFTEN:
+  lage_form: Felssporn
+  felssporn_laenge: 300 Meter
+  felssporn_breite: 60–90 Meter
+  trennung_staedte: Stadtmauer und Graben mit Bogenbrücke
+  vorderstadt_laenge: 200 Meter
+  vorderstadt_bestandteile: im Wesentlichen ein Marktplatz
+  hinterburg_relative_groesse: halb so groß wie Vorderstadt
+  bergfried_hoehe: 32 Meter
+  bergfried_erhalt: noch heute zu sehen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Verenahof — deutsche Exklave
+EIGENSCHAFTEN:
+  groesse: 43 Hektar
+  beschreibung: Bauernbetrieb ganz umgeben von Schweizer Gebiet
+  ursprungs_gemeinde: Büttenhardt im Kanton Schaffhausen
+  warum_exklave: Tengener Grafschaft hatte dort ehemals Besitz
+  jahr_badisches_verfahren: 1806
+  status_1806: Großherzogtum Baden
+  ortsteil_zugehoerig: Wiechs
+  jahr_transition_schweiz: 1967
+  warum_transition_schweiz: Staatsvertrag durch Landtausch mit der Schweiz
+  vergleich_bueßingen: neben Büsingen eine lange deutsche Exklave
+  grenzsteine_erinnerung: alte Grenzsteine beim Rathaus Wiechs am Randen und Alten Schulhaus Büttenhardt
+GUELTIG_AB: 1806
+GUELTIG_BIS: 1967
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geologie_formation
+BEZEICHNUNG: Weißer Jura (Oberjura)
+EIGENSCHAFTEN:
+  alter: rund 140 Millionen Jahre
+  ablagerung: Kalke
+  vorkommen_lage: vorwiegend in Schluchten und Taleinschnitten
+  warum_sichtbar: durch Abtragung der jüngeren Molasseschichten angeschnitten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geologie_formation
+BEZEICHNUNG: Obere Meeresmolasse — Randengrobkalke
+EIGENSCHAFTEN:
+  alter: rund 20 Millionen Jahre
+  lokale_misnomenklatur: in Tengen und Umgebung fälschlicherweise Tengener Muschelkalk genannt
+  beschaffenheit: grobsandiger Schalentrümmerkalk
+  farbe: hellgelb
+  bestandteile_muschel_schnecken: Muschel- und Schneckenschalen
+  bestandteile_quarzsand_prozent: 20–40 Prozent
+  fossilien_haifischzaehne_groesse_max: bis zu 2 cm
+  fossilien_interpretation: Haifischzähne und Salzwassertiere belegen Obere Meeresmolasse-Ablagerung
+  schichtung_besonderheit: gegenläufige Schichten (Kreuz- oder Grenzschichtung) als ufernahes Gezeitenmuster
+  schichtung_haeufigkeit: nicht der Normalfall
+  warum_nutzung_roemerzeit: beliebter Baustein, Römerzeit belegt durch Münzfund in Steinbruch bei Wiechs am Randen
+  nutzung_roemerzeit_details: Läufer für Mühlsteine, Wärmespeicherung in Thermen und Hypokaustenheizungen, Häuserbau
+  nutzung_neu: Nitrat-Beständigkeit → Bodenplatten im Stallungsbau
+GUELTIG_AB: (prähistorisch)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch westlich Tengen-Stadt
+ORTSTEIL_BEZUG: Tengen-Stadt
+EIGENSCHAFTEN:
+  lage_detail: westlich Tengen-Stadt und westlich der Hinterburg, Gewann Flüh, Waldfestplatz
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch östlich der Hinterburg
+ORTSTEIL_BEZUG: Tengen-Stadt
+EIGENSCHAFTEN:
+  lage_detail: östlich der Hinterburg, Bereich des heutigen Bauhofs in Richtung Büßlingen
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch um Uttenhofen
+ORTSTEIL_BEZUG: Uttenhofen
+EIGENSCHAFTEN:
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch nördlich Wiechs am Randen
+ORTSTEIL_BEZUG: Wiechs am Randen
+EIGENSCHAFTEN:
+  lage_detail: nördlich von Wiechs am Randen (früher teilweise zu Uttenhofen gehörend)
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch nördlich der B314 zwischen Tengen und Blumenfeld
+EIGENSCHAFTEN:
+  lage_detail: nördlich der B314 zwischen Tengen und Blumenfeld
+  material: Randengrobkalk
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur_steinbruch
+BEZEICHNUNG: Steinbruch Kreisstraße 6135 unterhalb Talheim
+ORTSTEIL_BEZUG: Talheim
+EIGENSCHAFTEN:
+  lage_detail: an der Kreisstraße 6135 unterhalb von Talheim
+  material: vermutlich einer Verwerfung im Weißjura
+  genauigkeit: vermutlich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Talheim und Uttenhofen
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1971
+  status_vorher: selbstständige Gemeinden
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Blumenfeld
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1973
+  status_vorher: selbstständige Gemeinde
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Beuren am Ried
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1972
+  status_vorher: selbstständige Gemeinde
+  eingemeindung_zu: Büßlingen
+GUELTIG_AB: 1972
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Weil
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1972
+  status_vorher: selbstständige Gemeinde
+  eingemeindung_zu: Watterdingen
+GUELTIG_AB: 1972
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Neubildung Stadt Tengen
+EIGENSCHAFTEN:
+  effektivdatum: 1. Januar 1975
+  bestandteile: Tengen, Büßlingen, Watterdingen, Wiechs am Randen
+  grund: Zusammenfassung vorheriger Eingemeindungen
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: religion
+BEZEICHNUNG: Tengen — religiöse Prägung
+EIGENSCHAFTEN:
+  dominante_konfession: römisch-katholisch
+  seit_wann: seit jeher
+GUELTIG_AB: (nicht genau datiert)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirchenbau
+BEZEICHNUNG: St. Laurentius
+EIGENSCHAFTEN:
+  typ: römisch-katholische Pfarrkirche
+  typologische_funktion: Wehrkirche (erhöhte Lage)
+  baustilistik_kern: frühgotisch
+  datierung_kern: 13. Jahrhundert
+  nachweise_kern: kleine zugemauerte Spitzbogenfenster an der Südwand
+  neubau_turm_jahr: 1518
+  umbau_barockisierung_jahr: um 1730
+  restaurierung_jahre: 1880 und 1909
+  erweiterung_massive_jahr: 1929/1930
+  erweiterung_massive_teile: Neubau von Chor, Querhaus und Sakristei
+  erweiterung_turm_hoehe_jahr: 1934
+  innenausstattung_stil: einheitliche barocke Ausstrahlung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: kirchenbau
+BEZEICHNUNG: St. Georg
+EIGENSCHAFTEN:
+  typ: römisch-katholische Kapelle
+  ursprung: Burgkapelle der Hinterburg
+  datierung_erbauung: Anfang 14. Jahrhundert
+  umgestaltung: barockisiert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: religion
+BEZEICHNUNG: Evangelische Gemeinde Tengen
+EIGENSCHAFTEN:
+  beschreibung: kleine evangelische Gemeinde
+  status: klein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: politik_gremium
+BEZEICHNUNG: Gemeinderat Tengen
+EIGENSCHAFTEN:
+  groesse_ab_2024: 16 Mitglieder
+  groesse_davor: 22 Mitglieder
+  wahlbeteiligung_2024: 69,26 Prozent
+  wahlbeteiligung_2019: 66,15 Prozent
+  wahl_datum: 9. Juni 2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: politik_person
+BEZEICHNUNG: Helmut Groß
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  geburtsjahr: 1948
+  geburtsort: Crailsheim
+  amtszeit_von: 1973
+  amtszeit_bis: 2015
+  amtszeit_grund_abgang: Alter
+GUELTIG_AB: 1973
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: politik_person
+BEZEICHNUNG: Marian Schreier
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  geburtsdatum: 8. Februar 1990
+  geburtsort: Stuttgart
+  partei: SPD
+  amtszeit_von: 2015
+  amtszeit_bis: 2023
+  wahl_datum: 1. März 2015
+  superlativ: zum Zeitpunkt der Wahl mit 25 Jahren der jüngste Bürgermeister Deutschlands
+GUELTIG_AB: 2015
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: politik_person
+BEZEICHNUNG: Selcuk Gök
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  geburtsjahr: 1997
+  geburtsort: Mannheim
+  partei: SPD
+  wahl_datum: 19. März 2023
+  wahl_ergebnis: 50,3 Prozent
+  amtsantritt: 27. April 2023
+  amtszeit_von: 2023
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Busverbindung Tengen — Engen
+EIGENSCHAFTEN:
+  rhythmus: Stundentakt
+  start_punkt: Engen
+  ausnahmeregelung: außer Sonntag
+  anschluss_beschreibung: fährt nach Ankunft des Eilzugs von Konstanz ab
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur_strasse
+BEZEICHNUNG: Bundesstraße 314
+EIGENSCHAFTEN:
+  verbindung_von: Lauchringen
+  verbindung_zu: Singen (Hohentwiel)
+  funktion: überregionale Straßenanbindung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: infrastruktur_radweg
+BEZEICHNUNG: Heidelberg-Schwarzwald-Bodensee-Radweg
+EIGENSCHAFTEN:
+  typ: Landes-Radfernweg
+  start: Heidelberg
+  ende: Radolfzell
+  verlauf_detail: von Donaueschingen kommend über Tengen und Singen an sein Ziel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: bildung
+BEZEICHNUNG: Tengen — Schulen
+EIGENSCHAFTEN:
+  schultypen: Grund- und Werkrealschule
+  kindergaerten: 3 Kindertagesstätten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: denkmalschutz
+BEZEICHNUNG: Altstadt Tengen
+EIGENSCHAFTEN:
+  schutzstatus: Gesamtanlage denkmalgeschützt
+  bezeichnung_schutz: Stadtanlage Tengen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Burg Tengen (Hinterburg)
+EIGENSCHAFTEN:
+  alternative_Namen: Hinterburg, Burg Hintertengen
+  erhalt_heute: Bergfried erhalten
+  bergfried_hoehe: 32 Meter
+  bergfried_sichtbarkeit: noch heute zu sehen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: archaeologie
+BEZEICHNUNG: Römischer Gutshof bei Büßlingen
+ORTSTEIL_BEZUG: Büßlingen
+EIGENSCHAFTEN:
+  museum_typ: Freilichtmuseum
+  zeitstellung: römisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schloss Blumenfeld
+ORTSTEIL_BEZUG: Blumenfeld
+EIGENSCHAFTEN:
+  kategorie: Schloss
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: naturdenkmael
+BEZEICHNUNG: Mühlbachschlucht
+EIGENSCHAFTEN:
+  lage: östlich der Altstadt
+  beschaffenheit: Schlucht des Mühlbachs
+  wasserfaelle: mehrere sehenswerte Wasserfälle
+  besonderheit: Mühlenruine mit laufendem Mühlenrad
+  infrastruktur: Besucherweg mit Brücken und Stegen am Mühlbach entlang
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Blumenfelder Wasserfall
+ORTSTEIL_BEZUG: Blumenfeld
+EIGENSCHAFTEN:
+  fluss: Biber
+  lage_detail: unter der Brücke in die Altstadt von Blumenfeld
+  besonderheit_regenfaelle: infolge schwerer Regenfälle starke Anschwellungen des Flusses
+  warum_ueberschwemmungen: Anschwellungen führen zu massiven Überschwemmungen im Umland
+  historische_notiz_jahr: 1753
+  historische_notiz_text: „Die Landschaft Blumenfeld ist durch Schauer- und Hagelwetter auf den Bettelstab gebracht worden."
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Gerichtslinde Tengen
+EIGENSCHAFTEN:
+  lage: nördlich von Tengen am Tengener Eck neben Kreisstraße 6137 (Leipferdinger Straße)
+  lage_detail: kaum 200 m vor dem Berghof im freien Feld
+  baumtyp: Sommerlinde
+  alter_schaetzung: 300–400 Jahre
+  status: als Naturdenkmal ausgewiesen
+  warum_geschichtlich: im Mittelalter jährliche Tengener Gerichtstage
+  erinnerung_heute: alte Beschilderung dokumentiert historische Gerichtstage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: touristische_route
+BEZEICHNUNG: Römerstraße Neckar–Alb–Aare
+EIGENSCHAFTEN:
+  verlauf: führt durch Tengen an vielen Sehenswürdigkeiten vorbei
+  charakteristik: Römerstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: geographie
+BEZEICHNUNG: Europäische Wasserscheide
+EIGENSCHAFTEN:
+  lage: Höhenrücken im Norden der Gemarkung Tengen
+  warum_position: trennt Bodenseebecken vom Donautal
+  verlauf: auf mehreren Kilometern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historischer_weg
+BEZEICHNUNG: Alter Postweg
+EIGENSCHAFTEN:
+  verlauf: auf dem Höhenrücken (Europäische Wasserscheide), auf mehreren Kilometern
+  charakteristik: historischer Verkehrsweg von überregionaler Bedeutung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Franz Christoph von Scheyb
+EIGENSCHAFTEN:
+  geburtsjahr: 1704
+  todesjahr: 1777
+  berufe: Schriftsteller
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Matthäus Cornelius Münch
+EIGENSCHAFTEN:
+  geburtsjahr: 1771
+  todesjahr: 1853
+  berufe: Geistlicher und Pädagoge
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Josef Benignus Maus
+EIGENSCHAFTEN:
+  geburtsjahr: 1775
+  todesjahr: 1856
+  berufe: Historiker
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Otto Lueger
+EIGENSCHAFTEN:
+  geburtsjahr: 1843
+  todesjahr: 1911
+  berufe: Ingenieur
+  herausgeber: Lexikon der gesamten Technik
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Albert Maier
+EIGENSCHAFTEN:
+  geburtsjahr: 1873
+  todesjahr: 1961
+  berufe: Pädagoge und Politiker
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Fritz Peter
+EIGENSCHAFTEN:
+  geburtsjahr: 1899
+  todesjahr: 1949
+  berufe: Pädagoge, Physiker und Mathematiker
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Natascha Ungeheuer
+EIGENSCHAFTEN:
+  geburtsjahr: 1937
+  geburtsjahr_born_as: Ursula Rosa Ungeheuer
+  berufe: Malerin und Schauspielerin
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Christine Muscheler-Frohne
+EIGENSCHAFTEN:
+  geburtsjahr: 1950
+  berufe: Politikerin
+  partei: Grüne
+  position: ehemalige Landtagsabgeordnete
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Andreas Gruschke
+EIGENSCHAFTEN:
+  geburtsjahr: 1960
+  todesjahr: 2018
+  berufe: Autor, Fotograf und Tibetkundler
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Otto Sauter
+EIGENSCHAFTEN:
+  geburtsjahr: 1961
+  berufe: Piccolo-Trompeter
+  spezialisierung: Barockmusik
+  herkunft: Tengen (Sohn/Tochter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Traugott Freiherr von Stackelberg
+EIGENSCHAFTEN:
+  geburtsjahr: 1891
+  todesjahr: 1970
+  berufe: Mediziner, Maler, Schriftsteller
+  herkunft: Tengen (sonstige)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Heidi Tübinger
+EIGENSCHAFTEN:
+  geburtsjahr: 1936
+  berufe: Malerin
+  herkunft: Tengen (sonstige)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person_publik
+BEZEICHNUNG: Gottfried Hummel
+EIGENSCHAFTEN:
+  geburtsjahr: 1968
+  berufe: Komponist und Dirigent
+  position_dirigent: Dirigent der Stadtkapelle Tengen
+  position_dirigent_zeitraum: 2016–2022
+  werke_komponiert: Lied "Engen, Tengen, Blumenfeld, sind die schönsten Städt der Welt"
+  werke_text: Texter des Liedes
+  herkunft: Tengen (sonstige)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
