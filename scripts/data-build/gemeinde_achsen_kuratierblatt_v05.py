@@ -41,6 +41,12 @@ def main():
         pruefung = json.load(f)
     geprueft = {(k['ort'], k['karte']): k for k in pruefung['karten']}
     orte = {o['ort']: o for o in pruefung['orte']}
+    # Mikes Einträge (zuerst spielen, streichen, Anmerkung) kommen aus kuratierung.json zurück ins Blatt
+    kur_pfad = os.path.join(ITER, 'kuratierung.json')
+    kur = {}
+    if os.path.exists(kur_pfad):
+        with io.open(kur_pfad, encoding='utf-8') as f:
+            kur = json.load(f).get('blatt2', {}).get('orte', {})
     aus = ['# QuizAway — Stufe 2, Kuratierblatt zum zweiten Volllauf (Raum Freiburg)',
            '',
            '**Erzeugt am 2026-10-01** aus `data/gemeinde-achsen/iter1/karten-v0.5/` mit '
@@ -72,8 +78,9 @@ def main():
             p = geprueft[(slug, nr)]
             rueck = re.split(r'^\s*Quelle:', feld(v, 'RÜCKSEITE'), flags=re.M)[0].strip()
             gesperrt = p['faktencheck'] == 'gesperrt'
+            kreuz = '[x] streichen' if nr in kur.get(slug, {}).get('streichen', []) else '[ ] streichen'
             aus += ['### Karte %d · %s · Familie %s    %s' % (
-                        nr, p['sorte'], p['familie'], '**gesperrt nach Faktencheck**' if gesperrt else '[ ] streichen'), '',
+                        nr, p['sorte'], p['familie'], '**gesperrt nach Faktencheck**' if gesperrt else kreuz), '',
                     zitat(feld(v, 'VORDERSEITE')), '', zitat(rueck), '',
                     '%d Wörter · Bekanntheit %s · Negativnachweis Weg %s%s' % (
                         p['woerter_rueckseite'], p['bekanntheit'], p['wege'] or '?',
@@ -86,7 +93,10 @@ def main():
         if o['anschluss_kandidaten']:
             aus += ['**Anschluss-Kandidat über einen Namensteil** (nicht verwendet, wartet auf Entscheid):', ''] + [
                 '- ' + a for a in o['anschluss_kandidaten']] + ['']
-        aus += ['**Zuerst spielen:** Karte ___', '']
+        k = kur.get(slug, {})
+        aus += ['**Zuerst spielen:** Karte %s' % (k['zuerst'] if k.get('zuerst') else '___'), '']
+        if k.get('anmerkung'):
+            aus += ['**Anmerkung:** ' + k['anmerkung'], '']
     aus += ['---', '', '*Ende Kuratierblatt.*', '']
     with io.open(ZIEL, 'w', encoding='utf-8', newline='\n') as f:
         f.write('\n'.join(aus))

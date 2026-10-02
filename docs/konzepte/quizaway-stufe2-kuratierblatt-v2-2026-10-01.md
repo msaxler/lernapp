@@ -121,7 +121,7 @@ Faktencheck: **bestätigt**
 
 Faktencheck: **bestätigt**
 
-**Zuerst spielen:** Karte ___
+**Zuerst spielen:** Karte 1
 
 ---
 
@@ -243,7 +243,7 @@ Faktencheck: **bestätigt**
 - In Umkirch wurde die AfD Zweite, hier die Grünen.
 - Gundelfingen hat gut doppelt so viele Einwohner wie Umkirch.
 
-**Zuerst spielen:** Karte ___
+**Zuerst spielen:** Karte 1
 
 ---
 
@@ -286,7 +286,7 @@ Faktencheck: **bestätigt**
 > Denzlingen
 > Gemeinde mit rund 13.700 Einwohnern an der Glotter, nördlich von Freiburg.
 > Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
-> 1. Der Europabrunnen begann als Maischerz in einer Walpurgisnacht.
+> 1. Der Europabrunnen war zuerst ein Maischerz zur Walpurgisnacht.
 > 2. Das Gasthaus Rebstock-Stube hatte einst einen Michelin-Stern.
 > 3. Der Storchenturm war einst Wachturm einer Stadtmauer.
 
@@ -294,7 +294,7 @@ Faktencheck: **bestätigt**
 
 58 Wörter · Bekanntheit niedrig · Negativnachweis Weg a
 
-Faktencheck: **korrigiert** – Gemeinde und zwei weitere Seiten nennen 1993, nicht 1983. Der Michelin-Stern (Aussage 2) steht nur in einem unbelegten Artikelsatz.
+Faktencheck: **korrigiert** – Gemeinde und zwei weitere Seiten nennen 1993, nicht 1983. Der Michelin-Stern (Aussage 2) steht nur in einem unbelegten Artikelsatz. Aussage 1 auf Mikes Hinweis umformuliert (ein Brunnen „beginnt“ nicht).
 
 ### Karte 4 · Klassiker · Familie A    [ ] streichen
 
@@ -365,7 +365,9 @@ Faktencheck: **gesperrt** – Grimmelshausens Schlacht bei Denzlingen steht nur 
 - Gundelfingen fährt FR, Denzlingen EM: zwei verschiedene Landkreise.
 - Gundelfingen wählte 2025 grüner: 25,2 gegen 19,8 Prozent in Denzlingen.
 
-**Zuerst spielen:** Karte ___
+**Zuerst spielen:** Karte 1
+
+**Anmerkung:** Mike zu Karte 3: „Der Europabrunnen begann als Maischerz in einer Walpurgisnacht.“ – ist da ein Schreibfehler dabei? Ein Brunnen beginnt nicht. Antwort: kein Schreibfehler, aber schief formuliert; der Brunnen wurde 2005 in der Walpurgisnacht als Maischerz aufgestellt. Aussage umformuliert.
 
 ---
 
@@ -491,7 +493,7 @@ Faktencheck: **gesperrt** – Die erfundenen Optionen 2 (zu eng) und 4 (Anwohner
 
 - Der Pumptrack in Zähringen liegt zwischen Denzlinger Straße und Isfahanallee (Denzlingen nur als Teil eines Straßennamens).
 
-**Zuerst spielen:** Karte ___
+**Zuerst spielen:** Karte 1
 
 ---
 
@@ -617,7 +619,7 @@ Faktencheck: **korrigiert** – Gedreht wurde auch in Baden-Baden und Garmisch-P
 
 - Kloster St. Peter auf dem Schwarzwald, gründer: Zähringerherzog Berthold II. (als Hauskloster und Begräbnisstätte); dazu ort: ist_zähringergemeinde, Zusatzbezeichnung seit 1. Januar 2022. Beide nennen Zähringen nur als Teil des Geschlechtsnamens.
 
-**Zuerst spielen:** Karte ___
+**Zuerst spielen:** Karte 1
 
 ---
 
@@ -743,7 +745,7 @@ Faktencheck: **bestätigt**
 
 - ort Glottertal; erste_erwaehnung_quelle: Güterbeschreibung des Klosters St. Peter (Rotulus Sanpetrinus), 1112 – nennt St. Peter nur als Teil des Klosternamens.
 
-**Zuerst spielen:** Karte ___
+**Zuerst spielen:** Karte 1
 
 ---
 
@@ -865,7 +867,7 @@ Faktencheck: **korrigiert** – Die Marathon-Weltmeisterschaft im Mountainbike f
 - Glottertal hat mehr Fläche, aber knapp ein Drittel der Einwohner.
 - Bundestagswahl 2025: CDU in Glottertal 40,9 Prozent, hier 29,2.
 
-**Zuerst spielen:** Karte ___
+**Zuerst spielen:** Karte 1
 
 ---
 
@@ -987,7 +989,7 @@ Faktencheck: **korrigiert** – Im August 2008 maß der Baum 63,33 m, nicht etwa
 - Der Schauinslandradweg umrundet den Berg über Schauinslandstraße und Kirchzarten.
 - Bundestagswahl 2025: CDU vorn in Kirchzarten, GRÜNE in ganz Freiburg.
 
-**Zuerst spielen:** Karte ___
+**Zuerst spielen:** Karte 3
 
 ---
 
@@ -1113,7 +1115,7 @@ Faktencheck: **unsicher** – Der Ritt Napoleons III. durch Horben steht nur in 
 
 - Kloster Günterstal, gruender: „Herren von Horwen“ (Günterstal nur als Teil des Klosternamens, daher nicht verwendet).
 
-**Zuerst spielen:** Karte ___
+**Zuerst spielen:** Karte 5
 
 ---
 
@@ -1235,7 +1237,7 @@ Faktencheck: **bestätigt**
 - Staufen hat rund siebenmal so viele Einwohner wie Horben.
 - Staufen liegt über 200 Meter tiefer als Horben.
 
-**Zuerst spielen:** Karte ___
+**Zuerst spielen:** Karte 1
 
 ---
 

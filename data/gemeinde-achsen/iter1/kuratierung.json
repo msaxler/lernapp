@@ -1,0 +1,25 @@
+{
+ "_doc": "Mikes Kuratierung der beiden Kuratierblätter, als Daten. Die Blattskripte lesen sie, damit ein Neuaufbau seine Einträge nicht verliert.",
+ "blatt1": {
+  "stand": "2026-10-01 23:56",
+  "urteil": "Die Fragen und Antworten sind wirklich super gut!!!",
+  "wahl": {"01-umkirch": [1], "02-gundelfingen": [2], "03-denzlingen": [1, 3], "04-zaehringen": [1, 2, 3], "05-st-peter": [3],
+           "06-glottertal": [3], "07-kirchzarten": [1], "08-guenterstal": [1, 2, 3], "09-horben": [3], "10-staufen": [1, 2, 3]}
+ },
+ "blatt2": {
+  "stand": "2026-10-02",
+  "orte": {
+   "01-umkirch": {"zuerst": 1, "streichen": []},
+   "02-gundelfingen": {"zuerst": 1, "streichen": []},
+   "03-denzlingen": {"zuerst": 1, "streichen": [],
+    "anmerkung": "Mike zu Karte 3: „Der Europabrunnen begann als Maischerz in einer Walpurgisnacht.“ – ist da ein Schreibfehler dabei? Ein Brunnen beginnt nicht. Antwort: kein Schreibfehler, aber schief formuliert; der Brunnen wurde 2005 in der Walpurgisnacht als Maischerz aufgestellt. Aussage umformuliert."},
+   "04-zaehringen": {"zuerst": 1, "streichen": []},
+   "05-st-peter": {"zuerst": 1, "streichen": []},
+   "06-glottertal": {"zuerst": 1, "streichen": []},
+   "07-kirchzarten": {"zuerst": 1, "streichen": []},
+   "08-guenterstal": {"zuerst": 3, "streichen": []},
+   "09-horben": {"zuerst": 5, "streichen": []},
+   "10-staufen": {"zuerst": 1, "streichen": []}
+  }
+ }
+}

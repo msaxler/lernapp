@@ -45,7 +45,7 @@ NEGATIVNACHWEISE:
 4: (a) GRUNDDATEN hoehe_m 234 | 232; beide Werte liegen unter 250 m.
 
 ## Karte 3
-FAKTENCHECK: korrigiert – Gemeinde und zwei weitere Seiten nennen 1993, nicht 1983. Der Michelin-Stern (Aussage 2) steht nur in einem unbelegten Artikelsatz.
+FAKTENCHECK: korrigiert – Gemeinde und zwei weitere Seiten nennen 1993, nicht 1983. Der Michelin-Stern (Aussage 2) steht nur in einem unbelegten Artikelsatz. Aussage 1 auf Mikes Hinweis umformuliert (ein Brunnen „beginnt“ nicht).
 SORTE: Geschichte
 FAMILIE: B
 GEWÄHLTER FAKT: Michaelskirche (ehemalige romanische Kirche), turm_gemaeur_erhalten / gemeinde_turm_1813 / storchenturm_bezeichnung: Der Storchenturm ist der erhaltene Turm der Michaelskirche; die Gemeinde erwarb ihn 1813 als Abstellraum für die Feuerwehr. Belege der wahren Aussagen: Aussage 1 – Europabrunnen, ursprung_provisorisch: 2005 in der Walpurgisnacht provisorisch als Maischerz aufgestellt; Aussage 2 – Gasthaus Rebstock-Stube, auszeichnung: erhielt einst einen Michelin-Stern.
@@ -54,7 +54,7 @@ VORDERSEITE:
 Denzlingen
 Gemeinde mit rund 13.700 Einwohnern an der Glotter, nördlich von Freiburg.
 Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
-1. Der Europabrunnen begann als Maischerz in einer Walpurgisnacht.
+1. Der Europabrunnen war zuerst ein Maischerz zur Walpurgisnacht.
 2. Das Gasthaus Rebstock-Stube hatte einst einen Michelin-Stern.
 3. Der Storchenturm war einst Wachturm einer Stadtmauer.
 RÜCKSEITE:
