@@ -46,8 +46,11 @@ def main():
     aus = ['# QuizAway — Feldtest Stufe 2, Solo am Tisch: Kartensatz Raum Freiburg (generierte Karten)',
            '',
            '**Erzeugt am 2026-10-02** mit `scripts/data-build/gemeinde_achsen_kartensatz_stufe2.py` aus dem Vorrat des zweiten '
-           'Volllaufs (Karten-Prompt v0.5), in der Fassung nach dem Faktencheck. Je Ort die Karte, die Mike im Kuratierblatt '
-           '`quizaway-stufe2-kuratierblatt-v2-2026-10-01.md` als erste gewählt hat.',
+           'Volllaufs (Karten-Prompt v0.5), in der Fassung nach dem Faktencheck. '
+           + ('Reihe nach Entscheid Mike (2026-10-02): gemischt, damit die Varianzregel hält; seine ersten Karten aus dem Kuratierblatt '
+              '`quizaway-stufe2-kuratierblatt-v2-2026-10-01.md` stehen in der Reihe oder unter Nachschlag.'
+              if kur.get('kartensatz', {}).get('reihe') else
+              'Je Ort die Karte, die Mike im Kuratierblatt `quizaway-stufe2-kuratierblatt-v2-2026-10-01.md` als erste gewählt hat.'),
            '',
            '**Zweck:** Stufe 2 nach Spielkonzept v0.2.6 §10: dieselben zehn Orte wie der handgeschriebene Kartensatz, aber Karten '
            'aus der Pipeline (Extraktion, Kartenlauf, Faktencheck, Kuratieren). Gemessen wird, ob generierte Karten am Tisch eine '
@@ -68,8 +71,8 @@ def main():
            '',
            '**Anschluss:** Er hängt am Ortspaar und steht unter der Rückseite. Er gilt nur, wenn der Ort davor wirklich gespielt wurde.',
            '', '---', '', '## Die Karten', '']
-    for n, ort in enumerate(orte, 1):
-        nr = reihe[ort]
+    def block(ort, nr, titel, vorgaenger, vermerk):
+        """Eine Karte im Aufbau des handgeschriebenen Satzes; vorgaenger = Name des Orts davor oder None."""
         p = geprueft[(ort, nr)]
         with io.open(os.path.join(KARTEN, ort + '.md'), encoding='utf-8') as f:
             teile = re.split(r'^##\s*Karte\s*(\d)\s*$', f.read(), flags=re.M)
@@ -83,20 +86,33 @@ def main():
         rueck = rueck.replace('Du hattest [Option] getippt.', '*Du hattest [Option] getippt.*', 1)
         rueck = re.sub(r'((?:Richtig war|Die Lüge war) \d\.|Höher bis Stufe \d, dann raus\.)', r'**\1**', rueck)
         quelle = re.search(r'^\s*Quelle:\s*(.+)$', rueck_feld, flags=re.M)
-        anders = '' if gewaehlt.get(ort) == nr else ' · Mikes Wahl war Karte %d' % gewaehlt[ort]
-        aus += ['### Karte %d — %s · Familie %s · %s' % (n, name[ort], p['familie'], p['sorte']), '',
-                '**Vorderseite**', '',
-                '> **%s.** %s' % (text[0], text[1] if len(text) > 1 else ''), '>',
-                '> ' + ' '.join(text[2:]), '>'] + ['> ' + o for o in optionen] + ['',
-                '**Rückseite**', '',
-                '> ' + rueck]
-        if n > 1 and anschluss.get(ort):
-            aus += ['>', '> *Anschluss an %s:* %s' % (name[orte[n - 2]], anschluss[ort][0])]
-        aus += ['>', '> *Quelle: %s*' % (quelle.group(1).strip() if quelle else '?'), '',
-                'Vorrat %s, Karte %d%s · %d Wörter · Bekanntheit %s · Faktencheck: %s%s' % (
-                    name[ort], nr, anders, p['woerter_rueckseite'], p['bekanntheit'], p['faktencheck'],
-                    '' if p['faktencheck'] == 'bestätigt' else ' (%s)' % p['faktencheck_grund']),
-                '', '---', '']
+        z = ['### %s — %s · Familie %s · %s' % (titel, name[ort], p['familie'], p['sorte']), '',
+             '**Vorderseite**', '',
+             '> **%s.** %s' % (text[0], text[1] if len(text) > 1 else ''), '>',
+             '> ' + ' '.join(text[2:]), '>'] + ['> ' + o for o in optionen] + ['',
+             '**Rückseite**', '',
+             '> ' + rueck]
+        if vorgaenger and anschluss.get(ort):
+            z += ['>', '> *Anschluss an %s:* %s' % (vorgaenger, anschluss[ort][0])]
+        z += ['>', '> *Quelle: %s*' % (quelle.group(1).strip() if quelle else '?'), '',
+              'Vorrat %s, Karte %d%s · %d Wörter · Bekanntheit %s · Faktencheck: %s%s' % (
+                  name[ort], nr, vermerk, p['woerter_rueckseite'], p['bekanntheit'], p['faktencheck'],
+                  '' if p['faktencheck'] == 'bestätigt' else ' (%s)' % p['faktencheck_grund']),
+              '', '---', '']
+        return z
+
+    for n, ort in enumerate(orte, 1):
+        anders = '' if gewaehlt.get(ort) == reihe[ort] else ' · Mikes erste Wahl, Karte %d, steht unter Nachschlag' % gewaehlt[ort]
+        aus += block(ort, reihe[ort], 'Karte %d' % n, name[orte[n - 2]] if n > 1 else None, anders)
+    nachschlag = [o for o in orte if gewaehlt.get(o) and gewaehlt[o] != reihe[o]]
+    if nachschlag:
+        aus += ['## Nachschlag', '',
+                'Die Karten, die Mike je Ort als erste gewählt hat und die wegen der Varianzregel nicht in der Reihe stehen. '
+                'Sie bleiben im Vorrat des Orts und sind die nächste Karte, wenn jemand zu einem Ort mehr wissen will. '
+                'Nach Spielkonzept §1 Schritt 5 wird Nachschlag nie angeboten: Der Beobachter legt die Karte nur hin, '
+                'wenn die Person von selbst danach fragt, und vermerkt es im Bogen.', '']
+        for ort in nachschlag:
+            aus += block(ort, gewaehlt[ort], 'Nachschlag %s' % ort[:2], None, ' · Mikes erste Wahl')
     aus += ['## Protokollbogen', '',
             'Vor Beginn: Kennt die Person den Raum Freiburg? ______ · Hat sie den handgeschriebenen Kartensatz gespielt? ______',
             '',
