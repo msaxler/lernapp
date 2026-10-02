@@ -1,0 +1,54 @@
+ZIELORT: Bendorf (Stadt)
+LAGE: 8 km nördlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: WAPPEN-QUELLE, Fundstellen: https://de.wikipedia.org/wiki/Bendorf
+
+GRUNDDATEN:
+  landkreis: Mayen-Koblenz  [dewiki Infobox]
+  einwohner: 17.661  [Wikidata P1082, Stand 2025-12-31]
+  hoehe_m: 115 | 96 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2951111)]
+  naechste_grossstadt: Koblenz, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+
+PLAN:
+  Karte 1: Geschichte (Wappen), A, wahre Option an Stelle 3
+  Zusatzkarte 2 (nur wenn FAKTEN zu einer anderen Figur eine eigene belegte Herkunft nennen): Geschichte (Wappen), A oder B, Lösung an anderer Stelle als bei Karte 1
+
+FAHRT: Bendorf, Engers, Heimbach-Weis, Altwied, Rengsdorf, Dierdorf, Waldbreitbach, Linz am Rhein, Bad Hönningen, Leutesdorf, Feldkirchen
+
+FAKTEN DER WAPPEN-QUELLE (Bendorf):
+ID: 01-bendorf+w/001
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen von Bendorf
+EIGENSCHAFTEN:
+  blasonierung: In Blau über rotem Schild, darin ein herschauender, doppelschwänziger, blau bewehrter goldener (gelber) Löwe, wachsend der silbern (weiß) gekleidete Bischof St. Medardus mit golden (gelb) bordierter silberner (weißer) Mitra, in der Rechten ein rotes Buch im Goldschnitt, in der Linken ein abgewendeter goldener (gelber) Bischofsstab.
+  figuren: [Löwe, Bischof St. Medardus]
+  genehmigt: 1946 vom rheinland-pfälzischen Innenminister
+  vorgaenger_wappen: Löwe über einer Stadtmauer (1939-1946)
+  basis_siegel: Schöffensiegel aus der zweiten Hälfte des 14. Jahrhunderts
+GUELTIG_AB: 1946
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-bendorf+w/002
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Löwe
+EIGENSCHAFTEN:
+  darstellung: Herschauend, doppelschwänzig, blau bewehrt, golden, wachsend
+  herkunft: Wappen der Grafen von Sayn
+  bedeutung: Die Grafen von Sayn waren im Mittelalter Grund- und Gerichtsherren und seit Mitte des 14. Jahrhunderts auch Vögte des Bendorfer Hofes der Abtei Maria Laach
+  quelle_der_figur: Schöffensiegel aus der zweiten Hälfte des 14. Jahrhunderts
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-bendorf+w/003
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Bischof St. Medardus
+EIGENSCHAFTEN:
+  darstellung: Silbern (weiß) gekleideter Bischof mit golden bordierter silberner (weißer) Mitra; in der Rechten rotes Buch im Goldschnitt, in der Linken abgewendeter goldener (gelber) Bischofsstab; wachsend
+  bedeutung: Schutzpatron St. Medard; die Figur soll zugleich auf die Abtei Maria Laach hindeuten, zu der der Bendorfer Hof gehörte (Bezug von „diese“ in der Quelle mehrdeutig: Abtei oder ihre Vögte, die Grafen von Sayn)
+  genauigkeit: vermutlich
+  quelle_der_figur: Schöffensiegel aus der zweiten Hälfte des 14. Jahrhunderts
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+

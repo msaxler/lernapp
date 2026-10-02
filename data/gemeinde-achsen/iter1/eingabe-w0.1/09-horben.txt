@@ -1,0 +1,50 @@
+ZIELORT: Horben (Gemeinde)
+LAGE: 7 km südlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: WAPPEN-QUELLE, Fundstellen: https://de.wikipedia.org/wiki/Liste_der_Wappen_im_Landkreis_Breisgau-Hochschwarzwald · https://www.ortswappen.de/index.php?site=11&land=Baden-Wuerttemberg&bezreg=Freiburg&auswahl=7545
+
+GRUNDDATEN:
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  einwohner: 1202  [Wikidata P1082, Stand 2025-12-31]
+  hoehe_m: 607 | 495 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2899093)]
+  naechste_grossstadt: Freiburg im Breisgau, 7 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+
+PLAN:
+  Karte 1: Geschichte (Wappen), A, wahre Option an Stelle 3
+  Zusatzkarte 2 (nur wenn FAKTEN zu einer anderen Figur eine eigene belegte Herkunft nennen): Geschichte (Wappen), A oder B, Lösung an anderer Stelle als bei Karte 1
+
+FAHRT: Umkirch, Gundelfingen, Denzlingen, Zähringen, St. Peter, Glottertal, Kirchzarten, Günterstal, Horben, Staufen
+
+FAKTEN DER WAPPEN-QUELLE (Horben):
+ID: 09-horben+w/001
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen von Horben
+EIGENSCHAFTEN:
+  blasonierung: "In Rot ein schrägliegender silberner Pflug."
+  figuren: [Pflug]
+  festgelegt: 1899
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-horben+w/002
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Pflug
+EIGENSCHAFTEN:
+  darstellung: "schrägliegend, silbern, auf rotem Grund"
+  herkunft: "Vermutlich von älteren Siegeln der Horbener Vögte, die alle Pflugscharen zeigen, zum Teil mit Anfangsbuchstaben des Vogts"
+  genauigkeit: "vermutlich"
+  quelle_der_figur: "Gemeindesiegel ab 1818"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-horben+w/003
+ENTITÄT: siegel
+BEZEICHNUNG: Gemeindesiegel Horben
+EIGENSCHAFTEN:
+  jahr: 1818
+  bild: "Pflug"
+  hinweis: "Gemeinde führte bis Anfang 19. Jahrhundert kein Siegel; ab 1818 sind Gemeindesiegel mit Pflug nachweisbar"
+GUELTIG_AB: 1818
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+

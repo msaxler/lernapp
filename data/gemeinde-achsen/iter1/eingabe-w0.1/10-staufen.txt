@@ -1,0 +1,56 @@
+ZIELORT: Staufen (Stadt)
+LAGE: 16 km südwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: WAPPEN-QUELLE, Fundstellen: https://de.wikipedia.org/wiki/Staufen_im_Breisgau · https://de.wikipedia.org/wiki/Liste_der_Wappen_im_Landkreis_Breisgau-Hochschwarzwald
+
+GRUNDDATEN:
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  einwohner: 8392  [Wikidata P1082, Stand 2025-12-31]
+  hoehe_m: 284  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2829318)]
+  naechste_grossstadt: Freiburg im Breisgau, 16 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+
+PLAN:
+  Karte 1: Geschichte (Wappen), A, wahre Option an Stelle 2
+  Zusatzkarte 2 (nur wenn FAKTEN zu einer anderen Figur eine eigene belegte Herkunft nennen): Geschichte (Wappen), A oder B, Lösung an anderer Stelle als bei Karte 1
+
+FAHRT: Umkirch, Gundelfingen, Denzlingen, Zähringen, St. Peter, Glottertal, Kirchzarten, Günterstal, Horben, Staufen
+
+FAKTEN DER WAPPEN-QUELLE (Staufen):
+ID: 10-staufen+w/001
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen von Staufen
+EIGENSCHAFTEN:
+  blasonierung: "In Rot drei goldene, mit ebensolchen Patenen gedeckte Kelche (2:1), begleitet von fünf goldenen sechszackigen Sternen."
+  figuren: [Kelch, Patene, Stern]
+  bedeutung_allgemein: "Beruht auf dem Wappen der Freiherren von Staufen; beziehen sich auf beherrschende Stellung des Schlossbergs und Doppelbedeutung des germanischen Substantivs 'stauf'"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-staufen+w/002
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Kelch
+EIGENSCHAFTEN:
+  darstellung: "golden, mit goldener Patene gedeckt, drei im Verhältnis 2:1 angeordnet auf rotem Grund"
+  herkunft: "Doppelbedeutung des germanischen Substantivs 'stauf': bedeutet sowohl Becher als auch kegelförmiger Berg, namensgebend in alemannischer Zeit"
+  quelle_der_figur: "Wappen der Freiherren von Staufen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-staufen+w/003
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Patene
+EIGENSCHAFTEN:
+  darstellung: "golden, die Kelche deckend"
+  herkunft: "Teil des Kelch-Motivs aus dem Wappen der Freiherren von Staufen"
+  quelle_der_figur: "Wappen der Freiherren von Staufen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-staufen+w/004
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Stern
+EIGENSCHAFTEN:
+  darstellung: "sechszackig, golden, fünf, die Kelche begleitend (Anordnung nennt die Quelle nicht)"
+  herkunft: "unbekannt (keine Deutung in Quelle)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

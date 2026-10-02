@@ -1,0 +1,66 @@
+ID: 03-heimbach-weis+w/001
+ENTITÄT: wappen
+BEZEICHNUNG: Heimbacher Gemeindewappen
+ORTSTEIL_BEZUG: Heimbach-Weis (früherer Ort Heimbach)
+EIGENSCHAFTEN:
+  figuren: [Heilige Margaretha]
+  gueltig_ab_jahr: 1950
+  gueltig_bis_jahr: 1960
+  beschreibung: Freie Nachbildung des alten Heimbacher Siegelbildes
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 03-heimbach-weis+w/002
+ENTITÄT: wappen
+BEZEICHNUNG: Weiser Gemeindewappen
+ORTSTEIL_BEZUG: Heimbach-Weis (früherer Ort Weis)
+EIGENSCHAFTEN:
+  figuren: [Kurtrierisches Kreuz, Stufensparren, Apfel]
+  gueltig_ab_jahr: 1950
+  gueltig_bis_jahr: 1960
+  beschreibung: Freie Nachbildung des alten Weiser Wappens
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 03-heimbach-weis+w/003
+ENTITÄT: wappen
+BEZEICHNUNG: Gemeindewappen von Heimbach-Weis
+ORTSTEIL_BEZUG: Heimbach-Weis
+EIGENSCHAFTEN:
+  figuren: [Heilige Margaretha]
+  gueltig_ab_jahr: 1960
+  gueltig_bis_jahr: 1970
+  beschreibung: Laut Quelle dasselbe Bild wie das Heimbacher Gemeindewappen 1950 bis 1960 (die Heilige Margaretha)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 03-heimbach-weis+w/004
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Heilige Margaretha
+EIGENSCHAFTEN:
+  bedeutung: Nachbildung des alten Heimbacher Siegelbildes; die Pfarrkirche von Heimbach-Weis heißt St. Margaretha (dass die Heilige deshalb im Wappen steht, sagt die Quelle nicht ausdrücklich)
+  quelle_der_figur: Altes Heimbacher Siegelbild
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 03-heimbach-weis+w/005
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Kurtrierisches Kreuz
+EIGENSCHAFTEN:
+  bedeutung: Zeichen der Zugehörigkeit zu Kurtrier von 1606 bis 1803
+  gueltig_ab_jahr: 1606
+  gueltig_bis_jahr: 1803
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 03-heimbach-weis+w/006
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Stufensparren
+EIGENSCHAFTEN:
+  bedeutung: Erinnert an die Bimsbaustein-Industrie des Ortes
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 03-heimbach-weis+w/007
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Apfel
+EIGENSCHAFTEN:
+  bedeutung: Erinnert an den Obstanbau des Ortes
+VERTRAUEN_EXTRAKTION: 0.90

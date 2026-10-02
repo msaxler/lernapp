@@ -1,0 +1,11 @@
+## w0.1 Karte 1
+URTEIL: UNSICHER
+KERNAUSSAGE: Der Pflug im Horbener Wappen hängt vermutlich mit den älteren Siegeln der Horbener Vögte zusammen, die alle Pflugscharen zeigen (Gemeindesiegel mit Pflug ab 1818).
+ARTIKEL: steht so da. Vorbehalt "vermutlich" bleibt in Frage, Optionen und Rückseite erhalten; "alle Pflugscharen", "zum Teil mit Anfangsbuchstaben des Vogts", "ab 1818" und Blasonierung (silberner Pflug in Rot) decken sich mit der WAPPEN-QUELLE. Das Wappen (Generallandesarchiv 1899) gilt heute noch; kein früheres Wappen.
+ZWEITE QUELLE: keine unabhängige gefunden. Der LEO-BW-Ortslexikon-Eintrag https://www.leo-bw.de/en/detail-gis/-/Detail/details/ORT/labw_ortslexikon/8502/Horben und die Suchtreffer (ortswappen.de, dewiki.de) wiederholen dieselbe Landesarchiv-Aussage (kein Siegel vor 1818, Pflug seit 1818, Vogtssiegel mit Pflugscharen, 1899 festgelegt); die Wappen-Detailseite https://www.leo-bw.de/detail/-/Detail/details/DOKUMENT/labw_wappen/8502/Wappen+von+Horben gab im Abruf nur die Blasonierung. Gemeinde- oder Heraldikseite mit eigener Deutung nicht gefunden.
+FALSCHE OPTIONEN: alle sicher falsch im Sinn der Karte, aber ohne Positivbeleg. Option 1 (Bauernsage), 2 (Dorfschmiede), 4 (Streit um Ackerland) stehen nicht in der Quelle und ich fand keinen Hinweis, dass eine zutrifft. Schwäche: Die Quelle schließt andere Deutungen nicht aus (nur "vermutlich"), und alle Optionen sind ebenfalls mit "Vermutlich" gerahmt; dass 1, 2, 4 falsch sind, folgt nur aus Abwesenheit in der Quelle, nicht aus einem Gegenbeleg. Gewisse Nähe von Option 1 zur Aussage "stark landwirtschaftlich geprägt" (Landwirtschaft als Anlass), aber keine Sage belegt.
+BEFUND: Kernaussage nur durch die WAPPEN-QUELLE (LEO-BW/Landesarchiv) belegt, unabhängig nicht prüfbar; die Karte gibt sie sauber mit Vorbehalt wieder. Kein Fehler gefunden. Empfehlung: so lassen, "niedrig bekannt" ist plausibel; Weg-(c)-Optionen als schwach belegt kennzeichnen.
+
+## ZUSAMMENFASSUNG
+0 OK / 0 KORRIGIEREN / 1 UNSICHER
+- Karte 1: Inhalt stimmt mit der Quelle überein, aber keine unabhängige zweite Quelle (alles geht auf LEO-BW/Landesarchiv zurück); falsche Optionen nur durch Abwesenheit in der Quelle als falsch begründet.

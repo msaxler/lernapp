@@ -1,0 +1,34 @@
+ENTITÄT: wappen
+BEZEICHNUNG: Ehemaliges Wappen von Feldkirchen
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  figuren: [Fünf Schildchen, Schrägwellenbalken, Kirche]
+  gueltig_ab_jahr: 1967
+  gueltig_bis_jahr: 1970
+  status: Gemeindewappen (danach Stadtteil von Neuwied)
+  beschreibung: Das Wappen zeigt die Zusammensetzung der Gemeinde aus fünf Ortsteilen und ihre Lage am Rhein
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Fünf Schildchen im Schildhaupt
+EIGENSCHAFTEN:
+  lage: Schildhaupt
+  bedeutung: Die Gemeinde Feldkirchen setzte sich aus fünf Ortsteilen zusammen: Fahr, Gönnersdorf, Hüllenberg, Rockenfeld, Wollendorf
+  ortsteil_wert: [Fahr, Gönnersdorf, Hüllenberg, Rockenfeld, Wollendorf]
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Schrägwellenbalken
+EIGENSCHAFTEN:
+  lage: Schildmitte oder Schildfuß
+  bedeutung: Zeigt die Lage der Gemeinde am Rhein
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Kirche
+EIGENSCHAFTEN:
+  darstellung: Entfernt ähnliche Darstellung der Feldkirche aus der Karolingerzeit
+  bedeutung: Die Feldkirche war Mittelpunkt des früheren, größeren wiedischen Kirchspiels Feldkirchen
+  herkunft_gebaeude: Karolingerzeit
+VERTRAUEN_EXTRAKTION: 0.85

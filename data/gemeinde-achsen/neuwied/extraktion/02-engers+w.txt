@@ -1,0 +1,30 @@
+ENTITÄT: wappen
+BEZEICHNUNG: Ehemaliges Wappen von Engers
+ORTSTEIL_BEZUG: Engers
+EIGENSCHAFTEN:
+  blasonierung: In Silber ein (wachsender) linksgewendeter goldnimbierter und goldhaariger silberner römischer Soldat in goldener Tunika und blauem Waffenrock, ebensolchem Kreuzbrustgurt und Helm mit rotem Helmbusch, in einen langen, weiten, roten Umhang gehüllt, mit der Linken dessen Saum hebend, mit der Rechten mit silbernem, fast verdecktem Schwert den Umhang teilend, links ein kleiner, kniender, den Mantel greifend, unbekleideter, goldhaariger, silberner Mann, in der Schildfußmitte belegt mit einem silbernen Schildchen, darin ein durchgehendes rotes Balkenkreuz.
+  figuren: [St. Martin als römischer Soldat, unbekleideter Mann, Kurtrierisches Wappen im Schildfuß]
+  status: Stadtwappen der ehemaligen Stadt Engers (seit Eingemeindung zu Neuwied nicht mehr geführt)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: wappenfigur
+BEZEICHNUNG: St. Martin als römischer Soldat
+EIGENSCHAFTEN:
+  darstellung: Linksgewendeter, goldnimbierter, goldhaariger römischer Offizier in goldener Tunika, blauem Waffenrock, blauem Kreuzbrustgurt und rotem Helmbusch; in roten Umhang gehüllt; trägt silbernes Schwert; wachsend
+  bedeutung: Schutzpatron der Kirche zu Engers; dargestellt bei einer mildtätigen Handlung (gibt einen Teil seines Mantels an einen Bedürftigen)
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Unbekleideter Mann
+EIGENSCHAFTEN:
+  darstellung: Klein, kniend, goldhaarig, silbern; greift nach dem Mantel von St. Martin
+  bedeutung: Bedürftiger, dem St. Martin seinen Mantel gibt
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Kurtrierisches Wappen im Schildfuß
+EIGENSCHAFTEN:
+  darstellung: Silbernes Schildchen mit durchgehendem rotem Balkenkreuz
+  bedeutung: Zeichen der Zugehörigkeit zum kurtrierischen Gebiet
+VERTRAUEN_EXTRAKTION: 0.95

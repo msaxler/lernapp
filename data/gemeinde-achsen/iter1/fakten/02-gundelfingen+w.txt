@@ -1,0 +1,37 @@
+ID: 02-gundelfingen+w/001
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen von Gundelfingen
+EIGENSCHAFTEN:
+  blasonierung: "In gespaltenem Schild vorne in Gold ein roter Schrägbalken, hinten in Grün in einer silbernen Einfriedung eine silberne Tanne."
+  figuren: [Schrägbalken, Tanne, Einfriedung]
+  bedeutung_allgemein: "Darstellung führt auf Überlieferung von alemannischen Fürsten und Basler Bischöfen zurück"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 02-gundelfingen+w/002
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Schrägbalken
+EIGENSCHAFTEN:
+  darstellung: "rot auf goldenem Grund, in der vorderen Schildhälfte"
+  herkunft: "Zeichen der einstigen Zugehörigkeit zu Baden"
+  quelle_der_figur: "Badisches Herrschaftswappen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 02-gundelfingen+w/003
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Tanne
+EIGENSCHAFTEN:
+  darstellung: "silbern, in silberner Einfriedung auf grünem Grund, in der hinteren Schildhälfte"
+  herkunft: "Besitz: Überlieferung, dass der alemannische Fürst Gundolf hier ein Stück Land besaß; später der Basler Bischof Adalbero das Wildbannrecht"
+  quelle_der_figur: "Historische Überlieferung zu Gundolf und Adalbero"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-gundelfingen+w/004
+ENTITÄT: flagge
+BEZEICHNUNG: Flagge von Gundelfingen
+EIGENSCHAFTEN:
+  darstellung: "Hochkantflagge oder Hängebanner mit grünem und weißem Streifen, aus den Farben des hinteren Wappenteils"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

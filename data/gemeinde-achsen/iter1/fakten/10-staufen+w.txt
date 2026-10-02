@@ -1,0 +1,38 @@
+ID: 10-staufen+w/001
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen von Staufen
+EIGENSCHAFTEN:
+  blasonierung: "In Rot drei goldene, mit ebensolchen Patenen gedeckte Kelche (2:1), begleitet von fünf goldenen sechszackigen Sternen."
+  figuren: [Kelch, Patene, Stern]
+  bedeutung_allgemein: "Beruht auf dem Wappen der Freiherren von Staufen; beziehen sich auf beherrschende Stellung des Schlossbergs und Doppelbedeutung des germanischen Substantivs 'stauf'"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-staufen+w/002
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Kelch
+EIGENSCHAFTEN:
+  darstellung: "golden, mit goldener Patene gedeckt, drei im Verhältnis 2:1 angeordnet auf rotem Grund"
+  herkunft: "Doppelbedeutung des germanischen Substantivs 'stauf': bedeutet sowohl Becher als auch kegelförmiger Berg, namensgebend in alemannischer Zeit"
+  quelle_der_figur: "Wappen der Freiherren von Staufen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-staufen+w/003
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Patene
+EIGENSCHAFTEN:
+  darstellung: "golden, die Kelche deckend"
+  herkunft: "Teil des Kelch-Motivs aus dem Wappen der Freiherren von Staufen"
+  quelle_der_figur: "Wappen der Freiherren von Staufen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-staufen+w/004
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Stern
+EIGENSCHAFTEN:
+  darstellung: "sechszackig, golden, fünf, die Kelche begleitend (Anordnung nennt die Quelle nicht)"
+  herkunft: "in der Quelle nicht gedeutet (nicht: unbekannt)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

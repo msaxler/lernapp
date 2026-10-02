@@ -1,0 +1,40 @@
+ID: 08-linz+w/001
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen von Linz am Rhein
+EIGENSCHAFTEN:
+  blasonierung: Unter silbernem Schildhaupt, darin ein durchgehendes schwarzes Balkenkreuz, in Rot ein goldener Schlüssel mit rechtsgewendetem Bart in Form eines Rechtecks aus mehrfach abgewinkelten Stegen und Vierpaßreite.
+  figuren: [Schwarzes Balkenkreuz, Goldener Schlüssel]
+  rechtsgueltig_seit: 1857 mit königlich-preußischer Genehmigung
+  besonderheit: Stadt Linz führt als Besonderheit einen Renaissanceschild
+  älteste_belege: Kreuz und Schlüssel erscheinen schon im ältesten Stadtsiegel von 1340
+GUELTIG_AB: 1857
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-linz+w/002
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Schwarzes Balkenkreuz
+EIGENSCHAFTEN:
+  lage: Schildhaupt, silberner Grund
+  darstellung: Schwarzes durchgehendes Balkenkreuz
+  bedeutung: Deutet auf die Zugehörigkeit von Linz zum Erzstift Köln hin
+  quelle_der_figur: Ältestes Stadtsiegel von 1340
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-linz+w/003
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Goldener Schlüssel
+EIGENSCHAFTEN:
+  darstellung: Aufrecht, goldener Schlüssel mit rechtsgewendetem Bart in Form eines Rechtecks aus mehrfach abgewinkelten Stegen und Vierpaßreite, roter Grund
+  bedeutung: Attribut des Hl. Petrus, des Schutzpatrons der Kölner Kirche
+  quelle_der_figur: Ältestes Stadtsiegel von 1340
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-linz+w/004
+ENTITÄT: siegel
+BEZEICHNUNG: Ältestes Stadtsiegel von Linz am Rhein
+EIGENSCHAFTEN:
+  jahr: 1340
+  bild: Zeigt schwarzes Balkenkreuz und goldenen Schlüssel
+  beschreibung: Dieses Siegel belegt die lange Tradition der beiden Wappenfiguren
+VERTRAUEN_EXTRAKTION: 0.95

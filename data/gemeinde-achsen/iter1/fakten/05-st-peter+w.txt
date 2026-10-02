@@ -1,0 +1,65 @@
+ID: 05-st-peter+w/001
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen von St. Peter
+EIGENSCHAFTEN:
+  blasonierung: "In Blau auf grünem Dreiberg eine silberne Tanne, der Stamm beheftet mit zwei schräggekreuzten goldenen Schlüsseln."
+  figuren: [Tanne, Schlüssel, Dreiberg]
+  bedeutung_allgemein: "Zusammensetzung aus Kloster- und Orts-Symbolen"
+  festgelegt: 1898
+  angenommen_von_gemeinde: 1960
+  genehmigt_von_innenministerium: 1961
+GUELTIG_AB: 1961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-st-peter+w/002
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Tanne
+EIGENSCHAFTEN:
+  darstellung: "silbern auf grünem Dreiberg"
+  herkunft: "seit dem 19. Jahrhundert in den Farbstempeln der Gemeinde"
+  bedeutung: "in der Quelle nicht gedeutet (nicht: unbekannt)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-st-peter+w/003
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Schlüssel
+EIGENSCHAFTEN:
+  darstellung: "zwei schräggekreuzte, golden, am Baumstamm beheftet"
+  herkunft: "Petersschlüssel, aus dem Klosterwappen St. Peter"
+  quelle_der_figur: "Wappen des Klosters St. Peter"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-st-peter+w/004
+ENTITÄT: siegel
+BEZEICHNUNG: Siegel der Vogteien des Klosters St. Peter
+EIGENSCHAFTEN:
+  jahr: 1800
+  genauigkeit: "Ende des 18. Jahrhunderts, ca."
+  bild: "Anfangsbuchstaben des Klosternamens, Schlüssel, je ein eigenes Zeichen pro Vogtei"
+GUELTIG_AB: 1750
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-st-peter+w/005
+ENTITÄT: siegel
+BEZEICHNUNG: Gemeindestempel von St. Peter (19. Jahrhundert)
+EIGENSCHAFTEN:
+  jahr: 1850
+  genauigkeit: "ca."
+  bild: "Tanne auf einem Boden, links Buchstaben SP, rechts gekreuzte Petersschlüssel"
+GUELTIG_AB: 1820
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-st-peter+w/006
+ENTITÄT: flagge
+BEZEICHNUNG: Flagge von St. Peter
+EIGENSCHAFTEN:
+  verliehen: 1970
+  verliehen_am: "29. September 1970"
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

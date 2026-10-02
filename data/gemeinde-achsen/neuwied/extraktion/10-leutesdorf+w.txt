@@ -1,0 +1,25 @@
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen von Leutesdorf
+EIGENSCHAFTEN:
+  blasonierung: In Gold auf gewölbtem grünem Boden der silbern nimbierte hl. Laurentius mit blauem Ober- und Untergewand, mit der Rechten einen aufrecht stehenden schwarzen Rost, in der Linken ein rotes Buch haltend.
+  figuren: [Heiliger Laurentius]
+  beschreibung: Die Darstellung zeigt schon das Leutesdorfer Schöffensiegel von 1476
+  gueltig_ab: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Heiliger Laurentius
+EIGENSCHAFTEN:
+  darstellung: Silbern nimbiert, mit blauem Ober- und Untergewand, auf gewölbtem grünem Boden; trägt schwarzen Rost in der Rechten und rotes Buch in der Linken
+  bedeutung: Schutzpatron der Pfarrkirche von Leutesdorf
+  quelle_der_figur: Leutesdorfer Schöffensiegel von 1476
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: siegel
+BEZEICHNUNG: Leutesdorfer Schöffensiegel von 1476
+EIGENSCHAFTEN:
+  jahr: 1476
+  bild: Zeigt die Darstellung des heiligen Laurentius
+  beschreibung: Die Tradition dieser Wappenfigur reicht bis mindestens ins 15. Jahrhundert zurück
+VERTRAUEN_EXTRAKTION: 0.90

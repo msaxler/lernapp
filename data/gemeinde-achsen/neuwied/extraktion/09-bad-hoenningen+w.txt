@@ -1,0 +1,31 @@
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen von Bad Hönningen
+EIGENSCHAFTEN:
+  blasonierung: In Silber zwei rote Balken, bedeckt von einer geschwungenen und berankten grünen Weinrebe mit zwei grünen Blättern und zwei blauen Trauben.
+  figuren: [Zwei rote Balken, Burgunderrebe]
+  beschreibung: Das Wappen in dieser Form zeigt schon das Hönninger Schöffensiegel von 1346 (damals noch mit spitzförmigem Schild)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Zwei rote Balken
+EIGENSCHAFTEN:
+  darstellung: Zwei rote horizontale Balken in silbernem Grund
+  herkunft: Stammwappen der Edelherren von der niederen Grafschaft Isenburg
+  bedeutung: Verweist darauf, dass Hönningen seit dem 11. Jahrhundert isenburgische Vogtei war und bis 1664 Hauptort der Herrschaft Isenburg-Arenfels
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Burgunderrebe
+EIGENSCHAFTEN:
+  darstellung: Geschwungene und berrankte grüne Weinrebe mit zwei grünen Blättern und zwei blauen Trauben
+  bedeutung: Bezieht sich auf den althergebrachten Hönninger Rotweinanbau
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: siegel
+BEZEICHNUNG: Hönninger Schöffensiegel von 1346
+EIGENSCHAFTEN:
+  jahr: 1346
+  bild: Zeigt bereits ähnliche Merkmale wie das heutige Wappen (zwei rote Balken und Weinrebe); der Schild ist damals spitzförmig
+  beschreibung: Belegt die lange Tradition der Wappenfiguren
+VERTRAUEN_EXTRAKTION: 0.95

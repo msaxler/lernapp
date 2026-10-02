@@ -1,0 +1,41 @@
+ID: 01-umkirch+w/001
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen von Umkirch
+EIGENSCHAFTEN:
+  blasonierung: "In Blau auf einer liegenden goldenen (gelben) Mondsichel stehend die silbern (weiß) gekleidete Madonna mit goldener (gelber) Krone, in der Rechten ein goldenes (gelbes) Zepter, in der Linken das Jesuskind haltend."
+  figuren: [Madonna, Jesuskind, Mondsichel]
+  verliehen: 1831
+  bedeutung_allgemein: "Bezug auf das Marienpatrozinium der Pfarrkirche Umkirch"
+GUELTIG_AB: 1831
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch+w/002
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Madonna
+EIGENSCHAFTEN:
+  darstellung: "silbern (weiß) gekleidet, mit goldener (gelber) Krone, Zepter in rechter Hand, Jesuskind in linker Hand"
+  herkunft: "Marienpatrozinium der Pfarrkirche Umkirch"
+  quelle_der_figur: "Gemeindesiegel ab 1831"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-umkirch+w/003
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Mondsichel
+EIGENSCHAFTEN:
+  darstellung: "liegend, golden (gelb); die Madonna steht auf ihr"
+  herkunft: "in der Quelle nicht gedeutet (nicht: unbekannt)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-umkirch+w/004
+ENTITÄT: siegel
+BEZEICHNUNG: Gemeindesiegel Umkirch
+EIGENSCHAFTEN:
+  jahr: 1831
+  bild: "Madonna mit Jesuskind und Zepter"
+  hinweis: "Erstes Gemeindesiegel für Umkirch nach 1831; davor führte die Gemeinde bis ins 19. Jahrhundert kein Siegel"
+GUELTIG_AB: 1831
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

@@ -1,0 +1,38 @@
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen von Kirchzarten
+EIGENSCHAFTEN:
+  blasonierung: "Rechts in Gold der schwarze St. Gallische Bär, links in Silber das halbe rote Freiburger Kreuz."
+  figuren: [Bär, Doppelkreuz, Georgskreuz]
+  bedeutung_allgemein: "Darstellung der Ursprünge als Klosterbesitz und der langen Zugehörigkeit zu Freiburg"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Bär
+EIGENSCHAFTEN:
+  darstellung: "schwarz, stehend, ein silbernes Doppelkreuz tragend, auf gelbem Grund in der vorderen Schildhälfte"
+  herkunft: "Ursprünge des Ortes als Besitz des Klosters St. Gallen"
+  quelle_der_figur: "St. Gallisches Klosterwappen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Doppelkreuz
+EIGENSCHAFTEN:
+  darstellung: "silbern, vom Bären getragen"
+  herkunft: "St. Gallisches Klosterwappen; Symbol des Klosters St. Gallen"
+  quelle_der_figur: "Wappen des Klosters St. Gallen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+ENTITÄT: wappenfigur
+BEZEICHNUNG: Georgskreuz
+EIGENSCHAFTEN:
+  darstellung: "rot, halbes Stadtwappen Freiburg, auf silbernem Grund in der linken Schildhälfte"
+  herkunft: "Lange Zugehörigkeit des Ortes zur Stadt Freiburg"
+  quelle_der_figur: "Stadtwappen Freiburg"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
