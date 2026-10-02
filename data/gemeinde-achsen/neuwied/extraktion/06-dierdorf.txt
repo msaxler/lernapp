@@ -1,0 +1,1093 @@
+ENTITÄT: ort
+BEZEICHNUNG: Dierdorf
+EIGENSCHAFTEN:
+  ist_stadt: true
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  verwaltungssitz_von: Verbandsgemeinde Dierdorf
+  lage_region: Vorderer Westerwald
+  lage_spezial: Dierdorfer Senke
+  geprägt_von: Forst- und Landwirtschaft
+  flüsse: Holzbach (Zufluss der Wied), Iserbach (Zufluss des Saynbachs)
+  erste_urkundliche_erwaehnung: 1204
+  erste_schreibweise: Dyrdorph, Dyrdorp
+  besiedlung_seit: ca. 1100
+  stadtrechte_verliehen: 1357
+  stadtrechte_bestaetigung: 1957
+  nachbargemeinden: Raubach (Nordwesten), Marienhausen (Osten), Dernbach (Westen)
+  bombardierung_datum: 25. März 1945
+  bombardierung_todesopfer: 71
+  bombardierung_zerstoerte_haeuser: mehr als 50
+GUELTIG_AB: 1204
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Brückrachdorf
+EIGENSCHAFTEN:
+  eingemeindung_datum: 7. Juni 1969
+  eingemeindung_grund: Verwaltungs- und Gebietsreform
+  einwohner_vor_eingemeindung: 438
+GUELTIG_AB: 1969
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Giershofen
+EIGENSCHAFTEN:
+  eingemeindung_datum: 7. Juni 1969
+  eingemeindung_grund: Verwaltungs- und Gebietsreform
+  einwohner_vor_eingemeindung: 470
+GUELTIG_AB: 1969
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Wienau
+EIGENSCHAFTEN:
+  eingemeindung_datum: 7. Juni 1969
+  eingemeindung_grund: Verwaltungs- und Gebietsreform
+  einwohner_vor_eingemeindung: 458
+  hat_flugplatz: true
+  flugplatz_name: Flugplatz Dierdorf-Wienau
+  flugplatz_nutzung: Flugsportbetrieb (Sommer)
+GUELTIG_AB: 1969
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Elgert
+EIGENSCHAFTEN:
+  eingemeindung_datum: 17. März 1974
+  eingemeindung_grund: Verwaltungs- und Gebietsreform
+  einwohner_vor_eingemeindung: 264
+GUELTIG_AB: 1974
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fluss
+BEZEICHNUNG: Holzbach
+EIGENSCHAFTEN:
+  zufluss_von: Wied
+  durchfliesst: Dierdorf
+  funktionen: Wallgraben wurde vom Holzbach unter Wasser gesetzt
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fluss
+BEZEICHNUNG: Iserbach
+EIGENSCHAFTEN:
+  ursprung: westliches Stadtgebiet Dierdorf
+  zufluss_von: Saynbach
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historische_herrschaft
+BEZEICHNUNG: Herren von Braunsberg
+EIGENSCHAFTEN:
+  zweig_von: Herren von Isenburg
+  dierdorf_1204: Pfarrei Dyrdorph als Besitz genannt
+GUELTIG_AB: 1204
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Abtei Rommersdorf
+EIGENSCHAFTEN:
+  kirchspiel_dierdorf: Rechte urkundlich erwähnt
+  kirchspiel_dierdorf_zeitraum: erste Hälfte 13. Jahrhundert
+  artefakt_in_dierdorf: Grabstein des Erzbischofs Salentin von Isenburg
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burg Dierdorf
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1324
+  verpfaendung_1324: an Walpoden Ludwig von Reichenstein
+  standort_vermutung: Insel des späteren Schlossweihers
+  entwicklung: später zum Schloss der Grafen von Wied-Runkel
+  beschreibung: Wasserburg
+GUELTIG_AB: 1324
+GUELTIG_BIS: 1700
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: stadtbefestigung
+BEZEICHNUNG: Stadtmauer mit Türmen
+EIGENSCHAFTEN:
+  erbauung: nach 1357
+  kennzeichen: Stadtmauer mit mehreren Türmen
+  wallgraben: vom Holzbach unter Wasser gesetzt
+  bestand_heute: zwei Türme und Teil der Mauer entlang Damm am Holzbach
+  beschreibung: ab 1357 errichtet
+GUELTIG_AB: 1357
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: jahrmarkt
+BEZEICHNUNG: Jahrmarkt Dierdorf
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1344
+  superlativ: erster Jahrmarkt auf dem Westerwald überhaupt
+  tag: Jakobstag
+  herkunft: Teil des Kirchweihfests
+GUELTIG_AB: 1344
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wappen_siegel
+BEZEICHNUNG: Stadtwappen Dierdorf
+EIGENSCHAFTEN:
+  beschreibung: Dreieck mit zwei Querbalken
+  ältester_siegelabdruck: 1651
+  spitzrichtung_1651: nach unten
+  verwendung_um_1600: ja
+  deutung_1: dreieckiges Gemerk könnte auf drei Teile hindeuten
+  deutung_2: möglicherweise von "Driedorf" = "Dreidorf"
+  deutung_3: möglicherweise von "dürr" (trocken, leer)
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: religionsgemeinschaft
+BEZEICHNUNG: Jüdische Gemeinde Dierdorf
+EIGENSCHAFTEN:
+  gruendung: 1742
+  synagoge_1_eroeffnung: 1829
+  synagoge_2_bau: 1929
+  synagoge_2_zerstoerung: 1938
+GUELTIG_AB: 1742
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Residenzschloss der Fürsten zu Wied-Runkel
+ORTSTEIL_BEZUG: Schlosspark
+EIGENSCHAFTEN:
+  standort: Insel im Schlossweiher
+  baustart: 1701
+  fertigstellung: 1725
+  vorgaenger: Wasserburg 1324 erwähnt
+  zerstoerung: 1902 wegen Baufälligkeit gesprengt
+  steine_verwendung: für Evangelische Kirche genutzt
+  wiederbesitz_2020: Schlosspark, Weiher und Insel von Stadt erworben
+  aktuelle_nutzung: Freizeit- und Sportzwecke
+GUELTIG_AB: 1701
+GUELTIG_BIS: 1902
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Schlosspark mit Schlossweiher
+ORTSTEIL_BEZUG: Dierdorf
+EIGENSCHAFTEN:
+  erwerb_durch_stadt: 2020
+  komponenten: Park, Weiher, Insel
+  nutzung: Freizeit- und Sportzwecke
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: mausoleum
+BEZEICHNUNG: Mausoleum der Fürsten von Wied-Runkel
+ORTSTEIL_BEZUG: Dierdorf
+EIGENSCHAFTEN:
+  architektur: neugotische Grabkapelle
+  bauzeit: 1816-1821
+  funktion: Grabstätte des Fürstenhauses
+  artefakte: Grabstein des Erzbischofs Salentin von Isenburg (Ritterrüstung)
+GUELTIG_AB: 1816
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: turm
+BEZEICHNUNG: Eulenturm
+ORTSTEIL_BEZUG: Dierdorf
+EIGENSCHAFTEN:
+  hoehe: ca. 27 Meter
+  form: Rundturm
+  periode: Mittelalter
+  funktion: Wehrturm
+  zusatznutzung: Verlies
+  teil_von: Stadtbefestigung nach 1357
+  namenherkunft: nicht überliefert
+GUELTIG_AB: 1357
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: turm
+BEZEICHNUNG: Uhrturm
+ORTSTEIL_BEZUG: Dierdorf
+EIGENSCHAFTEN:
+  hoehe: ca. 24 Meter
+  frueherer_name_1: Obertorturm
+  frueherer_name_2: Mittelturm
+  teil_von_stadtbefestigung: 14. Jahrhundert
+  verwendung_17_jh: Hexenprozesse
+  hinrichtungen: mindestens 23 Personen
+  nutzung_spaeter: Wohnung des Stadtwächters
+  name_seit: Anfang 17. Jahrhundert
+  stadtuhr_seit: 1601
+  aktuelle_uhr: 1772 von Christian Kinzing geschaffen
+  zustand_uhr: im Original erhalten
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche (St. Jakobus)
+ORTSTEIL_BEZUG: Dierdorf
+EIGENSCHAFTEN:
+  bauzeit: 1903-1904
+  material: Bruchsteinkirche aus Schlossteinen
+  glasfenster: Werkstatt Rudolf und Otto Linnemann (Frankfurt)
+  turm_ursprung: von Vorgängerkirche
+  vorgaenger_bauzeit: ca. 1200
+  vorgaenger_patrozinium: St. Jakobus
+  reformation: Mitte 16. Jahrhundert (Graf Johann IV. von Wied)
+  funktion_nach_reformation: evangelische Pfarrkirche Dierdorf
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche St. Clemens
+ORTSTEIL_BEZUG: Dierdorf
+EIGENSCHAFTEN:
+  vorgaenger_bauzeit: 1803-1805
+  vorgaenger_zerstoerung: 25. März 1945 (Bombardierung)
+  neue_kirche_bauzeit: 1948-1950
+  erhaltene_artefakte: Taufstein von 1848
+GUELTIG_AB: 1803
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Kupferhaus
+ORTSTEIL_BEZUG: nahe Schlosspark, Dierdorf
+EIGENSCHAFTEN:
+  baujahr: 1933
+  erbaut_von: Erbprinzenpaar Hermann (1899-1941) und Marie Antonia (1909-2003)
+  besonderheit_original: Außenwände mit Kupfer verkleidet, Dach mit Kupferblechen
+  anpassung_1943: Kupferteile für Kriegsbedarf entfernt
+  reparatur: Heraklith-Verkleidung (Gutachten von Curt Karl Rüschhoff)
+  nachkriegsnutzung: Flüchtlingsunterkunft, Oberförsterei
+  bewohner_nachkrieg: Friedrich Wilhelm Prinz zu Wied, Marie Antonia von Gordon bis 2003
+  abbruch: 2019
+GUELTIG_AB: 1933
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gymnasium
+BEZEICHNUNG: Martin-Butzer-Gymnasium
+ORTSTEIL_BEZUG: Dierdorf
+EIGENSCHAFTEN:
+  errichtung: 1950er Jahre
+  bedeutung: bedeutender Schulstandort
+  erste_abitur: 1956
+  schueleraustausch_partner: Fountain Hills-High-School (Arizona, USA)
+  schueleraustausch_seit: 1998
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: realschule
+BEZEICHNUNG: Nelson-Mandela Realschule
+ORTSTEIL_BEZUG: Dierdorf
+EIGENSCHAFTEN:
+  ursprung: Realschulzweig ausgegliedert 1955
+  entstehung: aus Realschulzweig
+GUELTIG_AB: 1955
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: grundschule
+BEZEICHNUNG: Gutenbergschule
+ORTSTEIL_BEZUG: Dierdorf
+EIGENSCHAFTEN:
+  ursprung: Grund- und Hauptschule
+  namensgebung: seit 2004
+  umwandlung: Ab 2010/2011 Realschule Plus
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verkehrsanlage
+BEZEICHNUNG: Flugplatz Dierdorf-Wienau
+ORTSTEIL_BEZUG: Wienau
+EIGENSCHAFTEN:
+  nutzung: Flugsportbetrieb im Sommer
+  klassifizierung: Sonderlandeplatz
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Holzbachtalbahn
+ORTSTEIL_BEZUG: Dierdorf
+EIGENSCHAFTEN:
+  durchquerung: durchquert die Stadt
+  nutzung: Güterverkehr
+  wiederinbetriebnahme_gueterverkehr: 3. März 2006
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Dierdorf
+ORTSTEIL_BEZUG: Dierdorf
+EIGENSCHAFTEN:
+  schliessung: 1984
+  gebiet: Koblenz
+  eigentuemer: Firma TWE
+  verfuegbarkeit_zukunft: zukünftig nicht zur Verfügung
+GUELTIG_BIS: 1984
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verkehrsweg
+BEZEICHNUNG: Bundesstraße 413
+EIGENSCHAFTEN:
+  verbindungen: Dierdorf - Neuwied - Hachenburg
+  durchquerung: führt durch die Stadt
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: autobahn
+BEZEICHNUNG: Autobahn A 3
+EIGENSCHAFTEN:
+  ausfahrt: 37
+  position: etwa in der Mitte zwischen Köln/Bonn und Frankfurt
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Schnellfahrstrecke Köln-Rhein/Main
+EIGENSCHAFTEN:
+  verlauf: an der Autobahn Rande des Stadtgebietes Dierdorf
+  naechster_bahnhof: Montabaur
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: ereignis_feuer
+BEZEICHNUNG: Großfeuer Dierdorf
+ORTSTEIL_BEZUG: Dierdorf
+EIGENSCHAFTEN:
+  jahr: 1872
+  zerstoerung_ausmass: großer Teil der Stadt zerstört
+  zerstoerte_objekte: sämtliche Häuser am Marktplatz, Rathaus
+GUELTIG_AB: 1872
+GUELTIG_BIS: 1872
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis_bombardierung
+BEZEICHNUNG: Bombardierung Dierdorf 1945
+ORTSTEIL_BEZUG: Dierdorf
+EIGENSCHAFTEN:
+  datum: 25. März 1945 (Palmsonntag)
+  kontext: im Zuge des Vormarsches der Alliierten
+  zerstoerung_ausmass: zur Hälfte zerstört
+  haeuser_vollzerstoert: mehr als 50
+  todesopfer: 71
+  bomber_typ: Martin B-26 Marauder
+  bomber_anzahl: 67
+  angriffswellen: 8
+  bomben_anzahl: 272
+  bomben_gewicht: 450 kg pro Bombe
+  besatzung_datum: 26. März 1945
+  besatzung_durch: US Army
+  besatzung_kontext: nach kurzen Gefechten mit Wehrmacht-Resten
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ereignis_verfolgung
+BEZEICHNUNG: Hexenverfolgung in Dierdorf und Amtsbereich
+ORTSTEIL_BEZUG: Dierdorf (23 Opfer)
+EIGENSCHAFTEN:
+  zeitraum: bis 17. Jahrhundert
+  orte_prozesse: Uhrturm
+  letzter_prozess: 1651
+  zeit_nach_reformation: ca. 100 Jahre nach Einführung 1556
+  protokollierung: detaillierte Protokolle vorhanden
+  gerichtsordnung: ja
+  verfahren: Verhöre, Folter, Hinrichtung
+  honorar: Entgelt für Schöffen und Henker
+  opfer_dierdorf: 23 Personen verbrannt
+  opfer_gesamt_amtsbereiche: 91 Personen
+  opfer_giershofen: 3
+  opfer_brueckrachdorf: 3
+  opfer_offhausen: 1
+  opfer_wienau: 7
+  opfer_freirachdorf: 2
+  opfer_raubach: 9
+  opfer_elgert: 5
+  opfer_urbach: 5
+  opfer_harschbach: 1
+  opfer_dernbach: 2
+  opfer_puderbach: 5
+  opfer_muscheid: 4
+  opfer_breitscheid: 1
+  opfer_hanroth: 4
+  opfer_niederhofen: 1
+  opfer_daufenbach: 2
+  opfer_werlenbach: 1
+  opfer_linkenbach: 2
+  opfer_lautzert: 1
+  opfer_wiedischhausen: 1
+GUELTIG_AB: unbekannt
+GUELTIG_BIS: 1651
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gremium
+BEZEICHNUNG: Stadtrat Dierdorf
+ORTSTEIL_BEZUG: Dierdorf
+EIGENSCHAFTEN:
+  zusammensetzung: 22 Ratsmitglieder + Stadtbürgermeister
+  wahl_typ: personalisierte Verhältniswahl
+  wahl_datum: 9. Juni 2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buegermeister
+BEZEICHNUNG: Ulrich Schreiber
+ORTSTEIL_BEZUG: Dierdorf
+EIGENSCHAFTEN:
+  amtsbeginn: 10. Juli 2024
+  partei: WGS
+  wahl_stimmenanteil: 54,4 %
+  wahl_wahlbeteiligung: 29,3 %
+  wahl_gegenkandidatin: Heike Resch (CDU, 45,6 %)
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buegermeister_historisch
+BEZEICHNUNG: Wilhelm Abresch
+EIGENSCHAFTEN:
+  partei: CDU
+  amtszeit: 1945-1946
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1946
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buegermeister_historisch
+BEZEICHNUNG: Otto Willach
+EIGENSCHAFTEN:
+  partei: SPD
+  amtszeit: 1946-1960
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1960
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buegermeister_historisch
+BEZEICHNUNG: Wilhelm Aller
+EIGENSCHAFTEN:
+  partei: SPD
+  amtszeit: 1960-1969
+GUELTIG_AB: 1960
+GUELTIG_BIS: 1969
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buegermeister_historisch
+BEZEICHNUNG: Ernst Jung
+EIGENSCHAFTEN:
+  partei: SPD
+  amtszeit: 1969-1982
+GUELTIG_AB: 1969
+GUELTIG_BIS: 1982
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buegermeister_historisch
+BEZEICHNUNG: Hans-Peter Görg
+EIGENSCHAFTEN:
+  partei: CDU
+  amtszeit: 1982-1984
+GUELTIG_AB: 1982
+GUELTIG_BIS: 1984
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buegermeister_historisch
+BEZEICHNUNG: Ulrich Flohr
+EIGENSCHAFTEN:
+  partei: SPD
+  amtszeit: 1984-1989
+GUELTIG_AB: 1984
+GUELTIG_BIS: 1989
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buegermeister_historisch
+BEZEICHNUNG: Günther Lotz
+EIGENSCHAFTEN:
+  partei: SPD
+  amtszeit: 1989-1994
+GUELTIG_AB: 1989
+GUELTIG_BIS: 1994
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buegermeister_historisch
+BEZEICHNUNG: Rosemarie Schneider
+EIGENSCHAFTEN:
+  partei: SPD
+  amtszeit: 1994-2009
+GUELTIG_AB: 1994
+GUELTIG_BIS: 2009
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buegermeister_historisch
+BEZEICHNUNG: Thomas Vis
+EIGENSCHAFTEN:
+  partei: CDU
+  amtszeit: 2009-2024
+GUELTIG_AB: 2009
+GUELTIG_BIS: 2024
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: TWE Dierdorf GmbH & Co. KG
+ORTSTEIL_BEZUG: Dierdorf
+EIGENSCHAFTEN:
+  vorgaenger_name: Lohmann & Rauscher Vliesstoffe
+  vorgaenger_bis: 2001
+  eigentuemer_bahnhof: ja
+  bahnhof_zukunft: nicht zur Verfügung
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Dierdorf - Courtisols
+EIGENSCHAFTEN:
+  partner_stadt: Courtisols
+  partner_region: Nordosten Frankreichs, historische Landschaft Champagne
+  land_partner: Frankreich
+  vertrag_seit: 1995
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Verbandsgemeinde Dierdorf - Krotoszyn
+EIGENSCHAFTEN:
+  tragende_körperschaft: Verbandsgemeinde Dierdorf
+  partner_stadt: Krotoszyn
+  land_partner: Polen
+  vertrag_seit: 1997
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Dierdorf - Fountain Hills
+EIGENSCHAFTEN:
+  partner_stadt: Fountain Hills
+  partner_bundesstaat: Arizona
+  land_partner: USA
+  vertrag_seit: 2005
+  hintergrund: aus Schüleraustausch seit 1998 (Martin-Butzer-Gymnasium)
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verkehrsverbund
+BEZEICHNUNG: Verkehrsverbund Rhein-Mosel (VRM)
+EIGENSCHAFTEN:
+  dierdorf_verkehrsmittel: Regionalbuslinien
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: graf_historisch
+BEZEICHNUNG: Graf Johann I. von Braunsberg
+EIGENSCHAFTEN:
+  titel: Herr zu Isenburg und Braunsberg
+  aktion_1324: verpfändete Burg Dierdorf an Walpoden Ludwig von Reichenstein
+  todesjahr: nach 1327
+GUELTIG_BIS: 1327
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: graf_historisch
+BEZEICHNUNG: Graf Wilhelm I. von Wied und Isenburg
+EIGENSCHAFTEN:
+  lebensjahre: 1324-1383
+  aktion_1344: verkaufte Besitzungen in Dierdorf an Erzbischof Balduin von Luxemburg
+  jahrmarkt_1344: erste Erwähnung des ersten Jahrmarkts auf dem Westerwald
+  aktion_1355: erhielt Dierdorfer Besitzungen des Bistums Trier zum Lehen
+  aktion_1357: erhielt Stadtrechte von Kaiser Karl IV. am 17. Juni 1357
+GUELTIG_AB: 1324
+GUELTIG_BIS: 1383
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: erzbischof_historisch
+BEZEICHNUNG: Balduin von Luxemburg
+EIGENSCHAFTEN:
+  titel: Trierer Erzbischof und Kurfürst
+  aktion_1344: kaufte Besitzungen in Dierdorf von Graf Wilhelm I.
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kaiser
+BEZEICHNUNG: Kaiser Karl IV.
+EIGENSCHAFTEN:
+  aktion_1357: verlieh am 17. Juni 1357 Graf Wilhelm I. Stadtrechte für Dierdorf
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: graf_historisch
+BEZEICHNUNG: Graf Wilhelm IV. von Wied-Runkel
+EIGENSCHAFTEN:
+  lebensjahre: 1560-1612
+  aktion_1598: erließ Wirtschaftsordnung für Dierdorf (begrenzte Gewinne der Wirte, verbot Abweisung von Fremden, Hygienevorschriften, Preisaushang)
+  aktion_1600: erließ erste Kirchenordnung
+  aktion_1600_schulordnung: erließ erste Schulordnung
+  aktion_1610: erließ Obrigkeitsverordnung (Tore, Schlüsselverwaltung)
+GUELTIG_AB: 1560
+GUELTIG_BIS: 1612
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: graf_historisch
+BEZEICHNUNG: Graf Johann IV. von Wied
+EIGENSCHAFTEN:
+  todesjahr: 1581
+  aktion_1556: führte evangelische Kirchenverfassung in Dierdorf ein
+  kirchenreform: Heidelberger Katechismus eingeführt, katholische Bräuche abgeschafft
+  onkel: Hermann V. von Wied
+GUELTIG_AB: 1556
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: erzbischof_historisch
+BEZEICHNUNG: Hermann V. von Wied
+EIGENSCHAFTEN:
+  lebensjahre: 1477-1552
+  amtszeit_erzbischof: 1515-1547
+  position: Erzbischof von Köln
+  glaubenswechsel: nach Rücktritt zum evangelischen Glauben
+  bezug_dierdorf: Onkel von Graf Johann IV.
+GUELTIG_AB: 1477
+GUELTIG_BIS: 1552
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: graf_historisch
+BEZEICHNUNG: Graf Hermann II. von Wied und Isenburg
+EIGENSCHAFTEN:
+  lebensjahre: 1580-1631
+  position: Nachfolger von Wilhelm IV., dessen Neffe
+  aktion_1616: neue Kirchenordnung (Schulpflicht, Verhaltensvorgaben, Strafen)
+  regelwerk_detail: Strafen für Einschlafen bei Predigt, unziemliches Essen und Trinken; Todesstrafe bei Rebellion oder Zauberei; Ausweisung von Zigeunern
+  aktion_1624: Tilly Taufpate von Hermanns neuntem Kind Luise Juliane
+GUELTIG_AB: 1580
+GUELTIG_BIS: 1631
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: feldherr_historisch
+BEZEICHNUNG: Graf Anholt
+EIGENSCHAFTEN:
+  aktion_1620: besetzte Dierdorf mit Truppen, bezog Winterquartier
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: feldherr_historisch
+BEZEICHNUNG: Feldherr Spinola
+EIGENSCHAFTEN:
+  aktion: führte spanische Truppen durch Dierdorf (Dreißigjähriger Krieg)
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: feldherr_historisch
+BEZEICHNUNG: Feldherr Tilly
+EIGENSCHAFTEN:
+  position: kaiserlicher General
+  aktion_1624: Besetzung Dierdorfs mit seinen Scharen
+  persoenliche_bindung: 1624 Taufpate von Luise Juliane, Kind von Graf Hermann II.
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: feldherr_historisch
+BEZEICHNUNG: Kratz von Scharfenstein
+EIGENSCHAFTEN:
+  aktion_1625: Soldaten zogen 1625 durch Dierdorf
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: feldherr_historisch
+BEZEICHNUNG: Feldherr Wallenstein
+EIGENSCHAFTEN:
+  aktion_1627: Soldaten zogen 1627 durch Dierdorf
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: fuerst_historisch
+BEZEICHNUNG: Fürst Hermann zu Wied-Neuwied
+EIGENSCHAFTEN:
+  aktion_1848: verzichtete auf Herrschaftsrechte
+  folge: Verwaltung ging vollständig auf preußische Regierung über
+  erbschaft: erhielt Dierdorf nach letztem Fürsten zu Wied-Runkel
+GUELTIG_AB: 1848
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fuerst_historisch
+BEZEICHNUNG: Fürst Karl Ludwig Friedrich Alexander zu Wied-Runkel
+EIGENSCHAFTEN:
+  aktion_mausoleum: Mausoleum 1816-1821 erbaut
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: erbprinz
+BEZEICHNUNG: Hermann zu Wied
+EIGENSCHAFTEN:
+  lebensjahre: 1899-1941
+  ehefrau: Marie Antonia (1909-2003)
+  aktion_1933: Erbprinzenpaar erbaut Kupferhaus
+GUELTIG_AB: 1933
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Friedrich Wilhelm Prinz zu Wied
+EIGENSCHAFTEN:
+  lebensjahre: 1931-2000
+  status: Ehrenbürger
+  beruf: Unternehmer, Mäzen
+  position: Präsident des International Council for Game and Wildlife Conservation
+  politik: Mitglied Neuwieder Stadtrat und Kreistag
+  engagement: Förderer Johanniter-Krankenhaus Dierdorf
+  familienverhaeltnisse: ältester Sohn von Hermann und Marie Antonia zu Wied
+  nachkrieg: lebte im Kupferhaus, besuchte Rektoratsschule
+GUELTIG_AB: 1931
+GUELTIG_BIS: 2000
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: handwerker
+BEZEICHNUNG: Christian Kinzing
+EIGENSCHAFTEN:
+  stadt: Neuwied
+  handwerk: Uhrmacher
+  werk_1772: schuf Uhr für Uhrturm Dierdorf (im Original erhalten)
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_beruef
+BEZEICHNUNG: Christian Ludwig zu Wied-Runkel
+EIGENSCHAFTEN:
+  lebensjahre: 1732-1791
+  position: Landesherr im Fürstentum Wied
+  geburtsort: Dierdorf
+GUELTIG_AB: 1732
+GUELTIG_BIS: 1791
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_beruef
+BEZEICHNUNG: Karl Ludwig zu Wied-Runkel
+EIGENSCHAFTEN:
+  lebensjahre: 1763-1824
+  position: Landesherr im Fürstentum Wied
+  geburtsort: Dierdorf
+GUELTIG_AB: 1763
+GUELTIG_BIS: 1824
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_beruef
+BEZEICHNUNG: Friedrich Ludwig zu Wied-Runkel
+EIGENSCHAFTEN:
+  lebensjahre: 1770-1824
+  position: kaiserlich-österreichischer Feldmarschallleutnant
+  geburtsort: Dierdorf
+GUELTIG_AB: 1770
+GUELTIG_BIS: 1824
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_beruef
+BEZEICHNUNG: Eduard Karl Braun
+EIGENSCHAFTEN:
+  lebensjahre: 1813-1862
+  position: Arzt in Wiesbaden
+  geburtsort: Dierdorf
+GUELTIG_AB: 1813
+GUELTIG_BIS: 1862
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_beruef
+BEZEICHNUNG: Wilhelm Marmé
+EIGENSCHAFTEN:
+  lebensjahre: 1832-1897
+  position: Pharmakologe und Hochschullehrer
+  geburtsort: Dierdorf
+GUELTIG_AB: 1832
+GUELTIG_BIS: 1897
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_beruef
+BEZEICHNUNG: Wilhelm Eich
+EIGENSCHAFTEN:
+  lebensjahre: 1850-1935
+  position: evangelischer Missionar
+  position_zusatz: Präses der Rheinischen Missionsgesellschaft in Deutsch-Südwestafrika
+  geburtsort: Dierdorf
+GUELTIG_AB: 1850
+GUELTIG_BIS: 1935
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_beruef
+BEZEICHNUNG: Willy Abel
+EIGENSCHAFTEN:
+  lebensjahre: 1875-1951
+  position: Konstrukteur und Erfinder
+  geburtsort: Dierdorf
+GUELTIG_AB: 1875
+GUELTIG_BIS: 1951
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_beruef
+BEZEICHNUNG: Ernst Heydorn
+EIGENSCHAFTEN:
+  lebensjahre: 1904-1979
+  position: Politiker (FDP)
+  position_zusatz: Landtagsabgeordneter
+  geburtsort: Dierdorf
+GUELTIG_AB: 1904
+GUELTIG_BIS: 1979
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_beruef
+BEZEICHNUNG: Karl Schneider
+EIGENSCHAFTEN:
+  lebensjahre: 1912-1998
+  position: anglistischer und germanistischer Mediävist und Runologe
+  geburtsort: Dierdorf
+GUELTIG_AB: 1912
+GUELTIG_BIS: 1998
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_beruef
+BEZEICHNUNG: Hermann Pleiß
+EIGENSCHAFTEN:
+  lebensjahre: 1921-2017
+  position: Meteorologe und Hochschullehrer
+  geburtsort: Dierdorf
+GUELTIG_AB: 1921
+GUELTIG_BIS: 2017
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_beruef
+BEZEICHNUNG: Achim Arbeiter
+EIGENSCHAFTEN:
+  geburtsjahr: 1958
+  position: Archäologe
+  geburtsort: Dierdorf
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_beruef
+BEZEICHNUNG: Eva Grebel
+EIGENSCHAFTEN:
+  geburtsjahr: 1966
+  position: Astronomin
+  position_zusatz: Professorin am Zentrum für Astronomie der Universität Heidelberg
+  geburtsort: Dierdorf
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_beruef
+BEZEICHNUNG: Guido Hammesfahr
+EIGENSCHAFTEN:
+  geburtsjahr: 1968
+  position: Schauspieler
+  geburtsort: Dierdorf
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_beruef
+BEZEICHNUNG: Juan Holgado
+EIGENSCHAFTEN:
+  geburtsjahr: 1968
+  nationalität: Spanien
+  position: Bogenschütze
+  auszeichnung: Olympiasieger 1992
+  geburtsort: Dierdorf
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_beruef
+BEZEICHNUNG: Janus Hochgesand
+EIGENSCHAFTEN:
+  geburtsjahr: 1981
+  position: Maler
+  geburtsort: Dierdorf
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: architekt
+BEZEICHNUNG: Curt Karl Rüschhoff
+EIGENSCHAFTEN:
+  stadt: Neuwied
+  werk: Gutachten Kupferhaus-Verkleidung (Heraklith-Platten nach 1943)
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kunsthandwerk
+BEZEICHNUNG: Werkstatt Rudolf und Otto Linnemann
+EIGENSCHAFTEN:
+  stadt: Frankfurt
+  werk: Glasfenster Evangelische Kirche Dierdorf
+VERTRAUEN_EXTRAKTION: 0.85

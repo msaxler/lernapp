@@ -1,0 +1,218 @@
+ENTITÄT: ort
+BEZEICHNUNG: Heimbach-Weis
+EIGENSCHAFTEN:
+  ist_stadtteil: true
+  ist_ortsbezirk: true
+  bundesland: Rheinland-Pfalz
+  uebergeordneter_ort: Neuwied
+  lage: nordöstlicher Rand Neuwieder Becken
+  ursprung_zwei_gemeinden: Heimbach, Weis
+  fusion_datum: 1960-09-01
+  eingemeindung_in_neuwied: 1970-11-07
+  ortsbeirat_seit: 1971-01-22
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Heimbach
+EIGENSCHAFTEN:
+  ersterwahnung: Hembach
+  ersterwahnung_jahr: 1093
+  baulich_zusammengewachsen_mit: Weis
+  groesse_relativ: größerer Ort
+GUELTIG_AB: 1093
+GUELTIG_BIS: 1960
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Weis
+EIGENSCHAFTEN:
+  ersterwahnung_name: Wissa
+  ersterwahnung_jahr: 1059
+  namensschreibweise_1204: Wise
+  baulich_zusammengewachsen_mit: Heimbach
+  groesse_relativ: kleinerer Ort
+GUELTIG_AB: 1059
+GUELTIG_BIS: 1960
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirchspiel
+BEZEICHNUNG: Kirchspiel Heimbach
+EIGENSCHAFTEN:
+  umfasste_orte: Heimbach, Weis, Gladbach
+  hoheit_streitigkeiten: Rechtsstreitigkeiten vom Mittelalter bis Neuzeit
+  anlass_streitigkeiten: Hoheit über Kirchspiel
+  folge: Ortsrechte ähnlich freien Reichsstädten
+  beschreibung: Bauernfreistaat, Freie Reichsstadt im Landformat
+GUELTIG_AB: mittelalter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: ortsbeirat
+BEZEICHNUNG: Ortsbeirat Heimbach-Weis
+EIGENSCHAFTEN:
+  ratsmitglieder_anzahl: 10
+  wahl_datum: 2024-06-09
+  wahlsystem: personalisierte Verhältniswahl
+  hat_ortsvorsteher: true
+  ortsvorsteher_titel: ehrenamtlich
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsvorsteher
+BEZEICHNUNG: Markus Blank
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 2019
+  wahl_datum_2024: 2024-06-09
+  stimmenanteil: 69.4%
+  besonderheit: einziger Bewerber
+  amtsdauer_neu: 5 Jahre
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: St. Margaretha
+EIGENSCHAFTEN:
+  turm_stil: romanisch
+  turm_merkmal: gedrehte Haube
+  ortsbild_praegend: true
+  hochaltar_kuenstler: Johannes Seiz
+  hochaltar_kuenstler_funktion: Hofbaumeister Kurfürstentum Trier
+  orgel_stil: Barock
+  orgel_kuenstler: Johann Michael Stumm
+  orgel_herkunft: ehemalige Abteikirche Rommersdorf
+GUELTIG_AB: mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: abtei
+BEZEICHNUNG: Prämonstratenserabtei Rommersdorf
+EIGENSCHAFTEN:
+  orden: Prämonstratenser
+  lage: Heimbach-Weiser Areal
+  zustand_nach_restaurierung: wichtiges Kulturgut der Stadt Neuwied
+  veranstaltung: Kreuzgang-Konzerte
+  veranstaltung_bedeutung: kulturelle Höhepunkte der Stadt Neuwied
+GUELTIG_AB: mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Fachwerkhaus Hauptstraße 111
+EIGENSCHAFTEN:
+  adresse: Hauptstraße 111
+  baustil: Fachwerkhaus
+  bauzeit: 17. Jahrhundert
+  merkmal: schmuckvoll verziert
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: zoo
+BEZEICHNUNG: Zoo Neuwied
+EIGENSCHAFTEN:
+  lage: Stadtteil Heimbach-Weis
+  tierbestand: ca. 1200
+  artenzahl: 155
+  flaeche: 13.5
+  flaeche_einheit: Hektar
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: karnevaltradition
+BEZEICHNUNG: Heimbach-Weiser Karneval
+EIGENSCHAFTEN:
+  tradition_seit: 1827
+  anlass_gruendung: Gründung der ersten Karnevalsgesellschaften in Vereinen
+  rang_rheinland: viertältester Karneval
+  aeltere_karnevale: Köln (1823), Koblenz (1824), Bonn (1826)
+  juengere_karnevale: Aachen (1829), Mainz (1837)
+  superlativ: viertältester im gesamten Rheinland
+  aktive_vereine: 5
+  davon_karnevalsgesellschaften: 3
+  davon_moehnenvereine: 2
+  tradition_form: Karnevalsumzug
+  charakterisierung_volk: raschem, leicht reizbarem, lebhaftem Charakter
+GUELTIG_AB: 1827
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: karnevalsevent
+BEZEICHNUNG: Größte Clownsparade der Welt
+EIGENSCHAFTEN:
+  datum: 2001-11-11
+  anlass: 175-jähriges Bestehen der beiden Karnevalsgesellschaften Heimbach und Weis
+  ort: Karnevalshochburg Heimbach-Weis
+  eintrag: Guinness-Buch der Rekorde
+  superlativ: größte Clownsparade der Welt
+GUELTIG_AB: 2001
+GUELTIG_BIS: 2001
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz Xaver Wagner
+EIGENSCHAFTEN:
+  herkunft: Sohn von Heimbach-Weis
+  erfindung: Wagner-Getriebe
+  erfindungsjahr: 1880
+  erfindung_bedeutung: revolutionierte Schreibmaschinen-Technologie
+  rang: berühmtester Sohn von Heimbach-Weis
+GUELTIG_AB: 1880
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Helmut Dieser
+EIGENSCHAFTEN:
+  aufwachsort: Heimbach
+  position: Bischof
+  bistum: Aachen
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: wald
+BEZEICHNUNG: Heimbacher Wald
+EIGENSCHAFTEN:
+  lage: Gemeindegebiet Heimbach-Weis
+  topographie: erreicht erste Höhen des Westerwalds
+  charakterisierung: Westerwald
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

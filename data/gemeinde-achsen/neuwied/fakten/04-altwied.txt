@@ -1,0 +1,286 @@
+ID: 04-altwied/001
+ENTITÄT: ort
+BEZEICHNUNG: Altwied
+EIGENSCHAFTEN:
+  status: kleinster Stadtteil von Neuwied
+  stadt: Neuwied
+  bundesland: Rheinland-Pfalz
+  lage_geografisch: Wiedtal, Norden der Stadt Neuwied
+  naturpark: Rhein-Westerwald
+  eingemeindung_datum: 7. November 1970
+  vorher_eigenstaendig: true
+  zugehoerige_siedlungen: Kümmelberg, Laubachsmühle, Meinhof
+  nachbarort_nordoestlich: Melsbach
+  nachbarort_sued: Niederbieber
+  nachbarort_nordwestlich: Datzeroth
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/002
+ENTITÄT: burg
+BEZEICHNUNG: Burg Altwied
+EIGENSCHAFTEN:
+  stammsitz: Grafen zu Wied
+  errichtung_ungefaehr: vor 1129
+  erbauer: Metfried von Wied
+  zustand: Ruine
+  befestigungssystem: ja
+  mauer_gesamtlaenge: 500 m
+  mauer_hoehe_durchschnitt: 4 bis 5 m
+  mauer_hoehe_osten: 8 m
+  mauer_ausstattung: Wehrgang, Zinnen, Bogenfries
+  tuermassive: vier quadratische Türme, drei Rundtürme, drei Tortürme
+  tor_muehlentor_lage: Nord
+  tor_judentor_lage: Süd
+  tor_haupttor_lage: Ost
+  tor_haupttor_name: Ahl Porz (Alte Pforte)
+  tor_haupttor_funktion: Zugang zu Ort und Burg
+GUELTIG_AB: 1129
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-altwied/003
+ENTITÄT: person
+BEZEICHNUNG: Metfried von Wied
+EIGENSCHAFTEN:
+  titel: Graf
+  rolle: Erbauer der Burg Wied
+  zeitpunkt: vor 1129
+  beschreibung: Errichtete die Burg Wied, um deren Fuß sich danach eine Talsiedlung bildete
+GUELTIG_AB: 1129
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-altwied/004
+ENTITÄT: siedlung
+BEZEICHNUNG: Talsiedlung Altwied
+EIGENSCHAFTEN:
+  entwicklung_ab: 12. Jahrhundert
+  benannt_nach: Burg Wied und Talaue unterhalb der Burg
+  charakterisierung: bäuerlich-bürgerliche Talsiedlung mit Handwerkern und Bediensteten der Burg
+  erste_erwaehnung_urkundlich: 1275
+  marktflecken_status: ja
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-altwied/005
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Antonius-Kapelle
+ORTSTEIL_BEZUG: Ortskern
+EIGENSCHAFTEN:
+  erste_erwaehnung_urkundlich: 1357
+  erste_erwaehnung_kapelle_marktflecken: 1470
+  architekturtyp: spätgotischer Bruchsteinbau
+  funktion_aktuell: evangelische Pfarrkirche
+  funktion_historisch: Grablege der Grafen zu Wied
+  ausstattung_chor: spätgotische Fresken
+  ausstattung_langhaus: Holzdecke mit Rankenmustern
+  grabplatten: eiserne und steinerne Grabplatten (aufgefunden 1920er Jahre)
+  superlativ: älteste urkundlich erwähnte Kapelle des Marktfleckens
+GUELTIG_AB: 1357
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/006
+ENTITÄT: rechtsinstitution
+BEZEICHNUNG: Burgfrieden
+EIGENSCHAFTEN:
+  beschreibung: Besondere Schutzzone für Einwohner des Marktfleckens unter dem besonderen Schutz des Grafen
+  ab_erwaehnung: 14. Jahrhundert
+  schutzrechte: Befreiung von Frondiensten, bestimmten Steuern und Einquartierungen
+  buergerrechte: Recht auf Bürgerwache, eigene Flurschützer
+  regelung: vertragliche Vereinbarung zwischen Bürgern und Graf
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-altwied/007
+ENTITÄT: stadt
+BEZEICHNUNG: Neuwied
+EIGENSCHAFTEN:
+  gruendung: 1653
+  gruender: Grafen zu Wied (impliziert)
+  lage_relativ_zu_altwied: südlich, direkt am Rhein
+  konsequenz_fuer_altwied: Altwied verlor Funktion als Hauptresidenz des Grafenhauses
+  grund_errichtung_fuer_altwied: Errichtung von Neuwied führte zum Bedeutungsverlust Altwieds
+GUELTIG_AB: 1653
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/008
+ENTITÄT: ereignis
+BEZEICHNUNG: Kriegsende Altwied (Zweiter Weltkrieg)
+EIGENSCHAFTEN:
+  besatzungsraum: Altwied im Rheinland-Pfalz
+  artilleriebeschuss_ab: 13. März 1945
+  artilleriebeschuss_bis: 23. März 1945
+  beschuss_durch: USA (Artilleriefeuer)
+  eroberung_durch: US-Armee
+  eroberung_datum: 23. März 1945
+  widerstand_durch: Wehrmacht (ca. 15 Soldaten auf Burg Altwied)
+  widerstand_dauer: kurz
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-altwied/009
+ENTITÄT: ereignis
+BEZEICHNUNG: Bundeswettbewerb "Unser Dorf soll schöner werden"
+EIGENSCHAFTEN:
+  jahrgang: 1975
+  nummer: 8. (achter)
+  auszeichnung: Silberplakette
+  platzierung: einer von 31 Siegern
+  konkurrenz_gesamt: fast 5000 Konkurrenten
+  konsequenz: Altwied darf sich seitdem offiziell zu den schönsten Orten Deutschlands zählen
+  grund_auszeichnung: Ort als schöner und verbesserter wahrgenommen
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/010
+ENTITÄT: verwaltung
+BEZEICHNUNG: Ortsbeirat Altwied
+EIGENSCHAFTEN:
+  groesse: 4 Ratsmitglieder
+  leitung: Ortsvorsteherin (ehrenamtlich)
+  wahl_2024_form: Mehrheitswahl
+  wahl_2024_besonderheit: nur ein Wahlvorschlag eingereicht
+  wahl_bis_2019_form: personalisierte Verhältniswahl
+  wahl_bis_2019_besonderheit: zwei Wahlvorschläge eingereicht
+  wahlstand_juni_2024: ja (Wahl vom 9. Juni 2024)
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/011
+ENTITÄT: person
+BEZEICHNUNG: Christine Seelbach-Neuer
+EIGENSCHAFTEN:
+  rolle: Ortsvorsteherin von Altwied
+  partei: CDU
+  amtsantritt: 26. August 2024
+  wahlquote_prozent: 78,0
+  amtszeit_dauer_jahre: 5
+  status_wahl: einzige Bewerberin
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/012
+ENTITÄT: person
+BEZEICHNUNG: Liane Herbst
+EIGENSCHAFTEN:
+  rolle: Ortsvorsteherin von Altwied (Vorgängerin)
+  partei: FWG (Freie Wählergruppe Altwied e. V.)
+  amtszeit_von: 2014
+  amtszeit_bis: 2024
+GUELTIG_AB: 2014
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/013
+ENTITÄT: person
+BEZEICHNUNG: Dietrich Rühle
+EIGENSCHAFTEN:
+  rolle: Ortsvorsteher von Altwied (Vorgänger)
+  partei: FDP
+  amtszeit_von: 2001
+  amtszeit_bis: 2014
+GUELTIG_AB: 2001
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/014
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Gemeinde Altwied
+EIGENSCHAFTEN:
+  schildhaupt: Burgturm mit ruinösem Zinnenkranz (stellt Burg Altwied dar, Stammburg der wiedischen Grafen)
+  schildfuss: Wellenbalken (symbolisiert die Wied)
+  geltung_fuer: ehemalige Gemeinde Altwied
+  beschreibung: Heraldische Symbole vereinen Burg und Fluss, die prägenden Elemente Altwieds
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-altwied/015
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Burgruine Altwied
+EIGENSCHAFTEN:
+  kategorie: Ruine
+  bedeutung: Stammsitz der Grafen zu Wied
+  status_heute: Sehenswürdigkeit
+  besichtigung_moeglichkeit: ja
+GUELTIG_AB: 1129
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/016
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Haupttor der Wehrmauer
+ORTSTEIL_BEZUG: Ortskern
+EIGENSCHAFTEN:
+  teil_des_befestigungssystems: ja
+  name_lokal: Ahl Porz (Alte Pforte)
+  funktion: Zugang zu Ort und Burg
+  status_heute: Sehenswürdigkeit
+  erhaeltnis: erhalten
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-altwied/017
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Ostmauer mit zwei Türmen
+ORTSTEIL_BEZUG: Ortskern
+EIGENSCHAFTEN:
+  teil_des_befestigungssystems: ja
+  erhaltung: teilweise erhalten
+  status_heute: Sehenswürdigkeit
+  teil_der: Werkmauer des Burgfleckens
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-altwied/018
+ENTITÄT: architektur
+BEZEICHNUNG: Fachwerkhäuser
+ORTSTEIL_BEZUG: Ortskern
+EIGENSCHAFTEN:
+  zeitraum: 17. bis 18. Jahrhundert
+  material: Fachwerkbau
+  status_heute: Sehenswürdigkeiten
+  erhaltung: mehrere noch vorhanden
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/019
+ENTITÄT: energieanlage
+BEZEICHNUNG: Wasserkraftwerk
+ORTSTEIL_BEZUG: oberhalb des Ortskerns
+EIGENSCHAFTEN:
+  typ: Wasserkraftwerk
+  superlativ: eines der ältesten Wasserkraftwerke Deutschlands
+  status_heute: Sehenswürdigkeit
+  beschreibung: Historisches Bauwerk der Wasserkraftnutzung
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-altwied/020
+ENTITÄT: verwaltung
+BEZEICHNUNG: Verbandsgemeinde Niederbieber-Segendorf
+EIGENSCHAFTEN:
+  status_altwied: enthaelt Altwied (bis 1970)
+  aufloesungsdatum: 7. November 1970
+  rechtsgrundlage: Achtes Landesgesetz über die Verwaltungsvereinfachung im Lande Rheinland-Pfalz
+  rechtsgrundlage_beschluss: 28. Juli 1970
+  folge: Altwied wird eingemeindert in Stadt Neuwied, Altwied wird Stadtteil mit Ortsbeirat und Ortsvorsteher (Beschluss 22. Januar 1971)
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95

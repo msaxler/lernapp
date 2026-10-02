@@ -14,7 +14,7 @@ import re
 import sys
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-FC = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1', 'faktencheck')
+FC = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'), 'faktencheck')
 FELDER = 'URTEIL|KERNAUSSAGE|ARTIKEL|ZWEITE QUELLE|FALSCHE OPTIONEN|BEFUND|## '
 
 
@@ -26,7 +26,8 @@ def feld(text, name):
 def main():
     alle = []
     # faktencheck/ enthält die Läufe v0.4 und v0.5, faktencheck-v0.6/ den Lauf v0.6
-    pfade = sorted(glob.glob(os.path.join(FC, '[0-9]*.md'))) + sorted(glob.glob(os.path.join(FC + '-v0.6', '[0-9]*.md')))
+    # weitere Läufe und Räume: jeder Ordner faktencheck-v0.N/
+    pfade = sorted(glob.glob(os.path.join(FC, '[0-9]*.md'))) + sorted(glob.glob(os.path.join(FC + '-v0.[0-9]*', '[0-9]*.md')))
     for pfad in pfade:
         slug = os.path.splitext(os.path.basename(pfad))[0]
         with io.open(pfad, encoding='utf-8') as f:
@@ -41,7 +42,7 @@ def main():
                          'kernaussage': feld(rest, 'KERNAUSSAGE'), 'artikel': feld(rest, 'ARTIKEL'),
                          'zweite_quelle': feld(rest, 'ZWEITE QUELLE'), 'falsche_optionen': feld(rest, 'FALSCHE OPTIONEN'),
                          'befund': feld(rest, 'BEFUND')})
-        print('%-16s %-5s %s' % (slug, 'v0.6' if 'faktencheck-v0.6' in pfad else '', ' · '.join('%s %d' % kv for kv in zahl.items())))
+        print('%-16s %-5s %s' % (slug, os.path.basename(os.path.dirname(pfad)).replace('faktencheck', '').lstrip('-'), ' · '.join('%s %d' % kv for kv in zahl.items())))
     with io.open(os.path.join(FC, 'urteile.json'), 'w', encoding='utf-8', newline='\n') as f:
         json.dump(alle, f, ensure_ascii=False, indent=1)
     gesamt = {}

@@ -34,11 +34,16 @@ import zipfile
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 DATA = os.path.join(WURZEL, 'data')
-AUS = os.path.join(DATA, 'gemeinde-achsen', 'iter1')
+AUS = os.path.join(DATA, 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'))
 UA = {'User-Agent': 'LernApp-GemeindeAchsen/0.1 (https://github.com/msaxler/lernapp)'}
 WBZ_URL = 'https://www.bundeswahlleiterin.de/dam/jcr/e79a7bd3-0607-4e87-9752-8e601e299e00/btw25_wbz.zip'
 WBZ_ZIP = os.path.join(DATA, 'raw', 'btw25_wbz.zip')
 HEUTE = datetime.date.today().isoformat()
+# Einstellungen des Raums (Ortsliste, Stadtbezirke); der Raum Freiburg (iter1) hat keine Datei
+RAUM = {}
+if os.path.exists(os.path.join(AUS, 'orte.json')):
+    with io.open(os.path.join(AUS, 'orte.json'), encoding='utf-8') as _f:
+        RAUM = json.load(_f)
 
 # Katalog der Grunddaten. Herkunft: Fragekategorie der Originalvariante (data/fragen.json) oder 'neu'.
 # einwertig / vollstaendig: Angaben, die der Negativnachweis braucht (Entscheid E5).
@@ -67,6 +72,10 @@ KATALOG = [
     ('buergermeister', 'Bürgermeister', 'neu (Politik)', True, False, True),
     ('partnerstaedte', 'Partnerstädte', 'neu', False, False, False),
 ]
+ISO_LAND = {'DE-BW': 'Baden-Württemberg', 'DE-BY': 'Bayern', 'DE-HE': 'Hessen', 'DE-RP': 'Rheinland-Pfalz', 'DE-SL': 'Saarland',
+            'DE-NW': 'Nordrhein-Westfalen', 'DE-NI': 'Niedersachsen', 'DE-SH': 'Schleswig-Holstein',
+            'DE-MV': 'Mecklenburg-Vorpommern', 'DE-BB': 'Brandenburg', 'DE-SN': 'Sachsen', 'DE-ST': 'Sachsen-Anhalt',
+            'DE-TH': 'Thüringen'}
 LANDESHAUPTSTADT = {'Baden-Württemberg': 'Stuttgart', 'Bayern': 'München', 'Hessen': 'Wiesbaden',
                     'Rheinland-Pfalz': 'Mainz', 'Saarland': 'Saarbrücken', 'Nordrhein-Westfalen': 'Düsseldorf',
                     'Niedersachsen': 'Hannover', 'Schleswig-Holstein': 'Kiel', 'Mecklenburg-Vorpommern': 'Schwerin',
@@ -195,19 +204,57 @@ def wahl_laden():
     ix = {k: i for i, k in enumerate(kopf)}
     parteien = [(k[:-len(' - Zweitstimmen')], i) for i, k in enumerate(kopf)
                 if k.endswith(' - Zweitstimmen') and not k.startswith(('Ungültige', 'Gültige'))]
+    # Namen der Verbandsgemeinden (Leitband, Satzart 50)
+    with zipfile.ZipFile(WBZ_ZIP) as z:
+        leit = z.read('btw25_wbz_leitband.csv').decode('utf-8-sig')
+    vg_name = {}
+    for l in leit.split('\n'):
+        p = l.split(';')
+        if len(p) > 8 and p[0] == '50':
+            vg_name[p[2] + p[3] + p[4] + p[5]] = p[8]
     summe = {}
+    zahl = lambda x: int(x) if x.strip().isdigit() else 0
     for r in zeilen[5:]:
         if len(r) < len(kopf) or not r[ix['Land']].isdigit():
             continue
-        ags = r[ix['Land']] + r[ix['Regierungsbezirk']] + r[ix['Kreis']] + r[ix['Gemeinde']]
-        s = summe.setdefault(ags, {'name': r[ix['Gemeindename']], 'berechtigt': 0, 'waehlende': 0, 'gueltig': 0, 'p': {}})
-        zahl = lambda x: int(x) if x.strip().isdigit() else 0
-        s['berechtigt'] += zahl(r[ix['Wahlberechtigte (A)']])
-        s['waehlende'] += zahl(r[ix['Wählende (B)']])
-        s['gueltig'] += zahl(r[ix['Gültige - Zweitstimmen']])
-        for p, i in parteien:
-            s['p'][p] = s['p'].get(p, 0) + zahl(r[i])
+        kreis = r[ix['Land']] + r[ix['Regierungsbezirk']] + r[ix['Kreis']]
+        ags = kreis + r[ix['Gemeinde']]
+        vg = 'VG' + kreis + r[ix['Verbandsgemeinde']]
+        # je Zeile drei Summen: die Gemeinde, ihre Verbandsgemeinde, der einzelne Wahlbezirk (ags#nummer)
+        for schluessel, name in ((ags, r[ix['Gemeindename']]), (vg, vg_name.get(vg[2:], '')),
+                                 ('%s#%s' % (ags, r[ix['Wahlbezirk']].strip()), r[ix['Gemeindename']])):
+            s = summe.setdefault(schluessel, {'name': name, 'berechtigt': 0, 'waehlende': 0, 'gueltig': 0, 'p': {},
+                                              'scheine': 0, 'brief': 0})
+            s['berechtigt'] += zahl(r[ix['Wahlberechtigte (A)']])
+            s['scheine'] += zahl(r[ix['Wahlberechtigte mit Sperrvermerk (A2)']])
+            if r[ix['Bezirksart']].strip() == '5':
+                s['brief'] += zahl(r[ix['Wählende (B)']])
+            s['waehlende'] += zahl(r[ix['Wählende (B)']])
+            s['gueltig'] += zahl(r[ix['Gültige - Zweitstimmen']])
+            for p, i in parteien:
+                s['p'][p] = s['p'].get(p, 0) + zahl(r[i])
+        # Rheinland-Pfalz: Kleine Gemeinden zählen ihre Briefwahl nicht selbst aus, sondern die Verbandsgemeinde
+        # für alle zusammen. Dann fehlt der Gemeinde-Summe die Briefwahl (Befund Raum Neuwied, 2026-10-02).
+        if r[ix['Kennziffer Briefwahlzugehörigkeit']].strip() not in ('', '00'):
+            summe[ags]['briefwahl_bei'] = vg
     return summe
+
+
+def wahl_bezirke(summe, ags, praefix):
+    """Summe der Wahlbezirke einer Gemeinde, deren Nummer zu einem Stadtteil gehört.
+
+    Urnenbezirke sind vierstellig (1201), Briefwahlbezirke dreistellig (121); beide beginnen mit der
+    Kennzahl des Stadtteils (Stimmbezirkseinteilung der Stadt)."""
+    aus = {'name': '', 'berechtigt': 0, 'waehlende': 0, 'gueltig': 0, 'p': {}, 'scheine': 0, 'brief': 0}
+    n = 0
+    for k, s in summe.items():
+        if k.startswith(ags + '#') and len(k.split('#')[1]) in (3, 4) and k.split('#')[1].startswith(praefix):
+            n += 1
+            for f in ('berechtigt', 'waehlende', 'gueltig', 'scheine', 'brief'):
+                aus[f] += s[f]
+            for p, v in s['p'].items():
+                aus['p'][p] = aus['p'].get(p, 0) + v
+    return aus if n else None
 
 
 # Stadtteil-Ergebnisse veröffentlichen die Städte selbst (Entscheid Mike 2026-10-02). Freiburg: Open Data des
@@ -323,19 +370,25 @@ def main():
         time.sleep(1)
         # Bei Stadtteilen kommen Zugehörigkeit, Kennzeichen und Wahl von der Gemeinde (Entscheid E7).
         traeger_qid, traeger_c, bezug = o['wikidata'], c, None
+        stadt, stadt_box = None, {}
         if ist_ortsteil:
-            traeger_qid = next(v['id'] for v, _, _ in gueltige(c, 'P131') if v['id'] in ('Q2833',))
-            traeger = wd_claims([traeger_qid])[traeger_qid]
+            # die Stadt steht in der Einheit ("Ortsteil von Neuwied") und unter P131 des Stadtteils
+            stadt = o['einheit'].split(' von ', 1)[1]
+            kand = wd_claims([v['id'] for v, _, _ in gueltige(c, 'P131')])
+            traeger_qid = next(q for q, t in kand.items() if t['labels'].get('de', {}).get('value') == stadt)
+            traeger = kand[traeger_qid]
             traeger_c = traeger['claims']
             bezug = 'gilt für die Gemeinde %s, nicht für den Stadtteil allein' % traeger['labels']['de']['value']
+            stadt_box = infobox(stadt)
+            time.sleep(1)
 
         # Zugehörigkeit
         einheiten = [v['id'] for v, _, _ in gueltige(traeger_c, 'P131')]
         labels = wd_claims(einheiten) if einheiten else {}
         kreis = [labels[q]['labels']['de']['value'] for q in einheiten
                  if re.match(r'(Land|Stadt)kreis', labels[q]['labels'].get('de', {}).get('value', ''))]
-        if ist_ortsteil:
-            kreis = ['Stadtkreis Freiburg im Breisgau']
+        if ist_ortsteil and not kreis:
+            kreis = ['Stadtkreis ' + stadt]  # kreisfreie Stadt: P131 nennt keinen Kreis
         # Die Infobox führt: Wikidata nennt unter P131 auch aufgelöste Kreise ohne Enddatum.
         if box.get('LANDKREIS'):
             e['landkreis'] = [wert(box['LANDKREIS'], 'dewiki Infobox')]
@@ -347,13 +400,19 @@ def main():
                     maengel.append('%s: Wikidata P131 nennt „%s“ ohne Enddatum, Infobox „%s“' % (o['name'], k, box['LANDKREIS']))
         elif kreis:
             e['landkreis'] = [wert(kreis[0], 'Wikidata P131', hinweis=bezug)]
-        land = box.get('BUNDESLAND') or 'Baden-Württemberg'
+        land = box.get('BUNDESLAND') or stadt_box.get('BUNDESLAND')
+        land = ISO_LAND.get(land, land)  # die Infobox der Ortsteile nennt das Land als Kürzel (DE-RP)
+        if not land:
+            sys.exit('%s: kein Bundesland in der Infobox' % o['name'])
         e['bundesland'] = [wert(land, 'dewiki Infobox' if box.get('BUNDESLAND') else 'über die Gemeinde', hinweis=None if box.get('BUNDESLAND') else bezug)]
 
         # Einwohner, Fläche, Dichte
         w, z = neuester(c, 'P1082')
         if w:
             e['einwohner'] = [wert(int(float(w['amount'])), 'Wikidata P1082', z)]
+        elif re.match(r'\d[\d.]*$', box.get('EINWOHNER', '')):
+            # Stadtteile ohne Einwohnerzahl in Wikidata (Raum Neuwied): Infobox des Stadtteil-Artikels
+            e['einwohner'] = [wert(int(box['EINWOHNER'].replace('.', '')), 'dewiki Infobox', box.get('EINWOHNER-STAND-DATUM') or box.get('EINWOHNER-STAND'))]
         w, _ = neuester(c, 'P2046')
         if w:
             e['flaeche_km2'] = [wert(float(w['amount']), 'Wikidata P2046')]
@@ -398,8 +457,8 @@ def main():
             erw.append(wert(j, 'dewiki, Extraktion Schicht 1 (Ortsblock)'))
         if erw:
             e['ersterwaehnung'] = erw
-        if box.get('EINGEMEINDUNG'):
-            e['eingemeindung'] = [wert(box['EINGEMEINDUNG'], 'dewiki Infobox')]
+        if box.get('EINGEMEINDUNG') or box.get('EINGEMEINDUNGSDATUM'):
+            e['eingemeindung'] = [wert(box.get('EINGEMEINDUNG') or box['EINGEMEINDUNGSDATUM'], 'dewiki Infobox')]
 
         # Bahn
         if bahn.get(o['wikidata']):
@@ -417,9 +476,28 @@ def main():
         ags_w, _ = neuester(traeger_c, 'P439')
         ags = ags_w if isinstance(ags_w, str) else None
         bezirk = wahl_stadtbezirk(ags, o['name']) if ist_ortsteil and ags else None
+        praefix = RAUM.get('stadtbezirke', {}).get(ags, {}) if ist_ortsteil and ags else {}
         if bezirk:
             e['wahl_btw25'] = [wahl_eintrag(bezirk, 'Ergebnis des Stadtbezirks, Briefwahl eingerechnet',
                                             'Stadt Freiburg im Breisgau, Wahlergebnis nach Stadtbezirken (Open Data des Wahlportals, amtlich)')]
+        elif o['name'] in praefix.get('bezirke', {}) and wahl_bezirke(wahl, ags, praefix['bezirke'][o['name']]):
+            # Stadt ohne eigenes Open-Data-Angebot: Stimmbezirke des Stadtteils aus der Bundesstatistik summieren
+            teil = wahl_bezirke(wahl, ags, praefix['bezirke'][o['name']])
+            bezug_teil = 'Summe der Urnen- und Briefwahlbezirke des Stadtteils'
+            if teil['brief'] > teil['scheine']:
+                # mehr Briefwähler als im Stadtteil Wahlscheine ausgegeben: der Briefwahlbezirk zählt Fremde mit
+                bezug_teil += ('; nur ungefähr: der Briefwahlbezirk zählt %d Stimmen bei %d im Stadtteil ausgegebenen '
+                               'Wahlscheinen' % (teil['brief'], teil['scheine']))
+                maengel.append('%s: Briefwahlbezirk mit %d Stimmen bei %d Wahlscheinen; Stadtteilergebnis nur ungefähr'
+                               % (o['name'], teil['brief'], teil['scheine']))
+            e['wahl_btw25'] = [wahl_eintrag(teil, bezug_teil, praefix['quelle'])]
+        elif ags and ags in wahl and wahl[ags].get('briefwahl_bei'):
+            # Die Briefwahl wird für die Verbandsgemeinde gemeinsam ausgezählt: Ein vollständiges Ergebnis gibt es
+            # nur für die Verbandsgemeinde; die Gemeinde-Summe wären allein die Urnenstimmen.
+            vg = wahl[wahl[ags]['briefwahl_bei']]
+            e['wahl_btw25'] = [wahl_eintrag(vg, 'gilt für die Verbandsgemeinde %s, nicht für die %s allein; die Briefwahl wird '
+                                            'dort für alle Gemeinden gemeinsam ausgezählt' % (vg['name'], o['einheit']))]
+            maengel.append('%s: Briefwahl nur auf Ebene der Verbandsgemeinde %s; Wahlergebnis gilt für die Verbandsgemeinde' % (o['name'], vg['name']))
         elif ags and ags in wahl:
             e['wahl_btw25'] = [wahl_eintrag(wahl[ags], bezug)]
         elif not ist_ortsteil:

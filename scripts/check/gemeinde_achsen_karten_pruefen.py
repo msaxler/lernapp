@@ -14,7 +14,7 @@ import os
 import re
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-KARTEN = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1', 'karten')
+KARTEN = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'), 'karten')
 
 
 def feld(text, name, bis):

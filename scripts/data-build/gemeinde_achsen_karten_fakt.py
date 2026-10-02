@@ -23,8 +23,12 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from gemeinde_achsen_fakten import ROH, fakten  # noqa: E402
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1')
+ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'))
 LAEUFE = [('v0.4', 'Vorschlag'), ('v0.5', 'Karte'), ('v0.6', 'Karte')]
+# ein weiterer Raum (GA_RAUM=neuwied) nennt seine Läufe in <raum>/orte.json (dort jüngster zuerst)
+if os.path.exists(os.path.join(ITER, 'orte.json')):
+    with io.open(os.path.join(ITER, 'orte.json'), encoding='utf-8') as _f:
+        LAEUFE = [(l[0], l[1]) for l in reversed(json.load(_f)['laeufe'])]
 FELDER = 'FAKTENCHECK|SORTE|FAMILIE|FAKT-ID|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|ANSCHLUSS|NEGATIVNACHWEISE|PRÜFHINWEIS|## '
 # Fakten, die viele verschiedene Sachen tragen: hier entscheidet erst die Eigenschaft über "derselbe Fakt"
 BREIT = ('ort', 'stadtteil', 'gemeinde', 'dorf', 'stadt')

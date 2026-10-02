@@ -16,7 +16,7 @@ import re
 import sys
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1')
+ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'))
 # Nach dem Faktencheck: geprüfte Fassung (Korrekturen eingearbeitet, Status je Karte)
 KARTEN = os.path.join(ITER, 'karten-geprueft', 'v0.5')
 PRUEFUNG = os.path.join(ITER, 'karten-v0.5-geprueft-pruefung.json')

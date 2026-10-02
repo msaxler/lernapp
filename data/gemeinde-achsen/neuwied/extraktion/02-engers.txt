@@ -1,0 +1,694 @@
+ENTITÄT: ort
+BEZEICHNUNG: Engers
+EIGENSCHAFTEN:
+  war_eigenstaendige_stadt_bis: 1970
+  ist_heute_stadtteil_von: Neuwied
+  aelteste_siedlung_superlativ: älteste römische Siedlung am rechten Rheinufer
+  lage_rheinkilometer: 601
+  lage_beschreibung: am rechten Ufer des Mittelrheins, am Fuß des Westerwalds
+  entfernung_koblenz: ca. 12 km nördlich
+  lage_landstrich: Neuwieder Becken
+  nachbargemeinden: zwischen Neuwied und Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: gau
+BEZEICHNUNG: Engersgau
+EIGENSCHAFTEN:
+  namensgebung: nach seinem Hauptort benannt
+  ersterwaehnungsquelle: Lorscher Codex
+  ersterwaehnungsdatum: 24. Juni 773
+  funktion: karolingischer Verwaltungsbezirk
+  grenzbeschreibung_nord: ripuarische Landschaften Ahrgau und Auelgau an der Sieg
+  grenzbeschreibung_sued: Lahn und Rhein
+  grenzbeschreibung_west: Rhein
+  grenzbeschreibung_ost: Wasserscheide zwischen Sieg und Wied bis Wiedquelle, Gelbachquelle bis Lahn-Mündung
+GUELTIG_AB: 773
+GUELTIG_BIS: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ortsname
+BEZEICHNUNG: Engers (Etymologie)
+EIGENSCHAFTEN:
+  namensherkunft: althochdeutsch Angar bedeutet freie Ebene
+  etymologische_entwicklung: ahd. angar → ahd. anger → mhd. enger
+  sprachliche_gruende: Primärumlaut und Endsilbenabschwächung
+  mittelhochdeutsche_bedeutung: Anger bezeichnet Dorfwiese in Gemeindebesitz, lässt auf bäuerliche Grundlage schließen
+  kulturelle_referenz: zweiter Teil der Carmina Burana Uf dem Anger von Carl Orff
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ortsname
+BEZEICHNUNG: Engersbach
+EIGENSCHAFTEN:
+  namensherkunft: zusammensetzt aus althochdeutschen Wörtern Angar (Engers) und Isa (Bach)
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: ortsname
+BEZEICHNUNG: Cunen-Engers
+EIGENSCHAFTEN:
+  beiname_grund: Maßnahmen des Trierer Kurfürsten Kuno von Falkenstein im 14. Jahrhundert für Schlossbau, Zoll und Stadtmauer
+GUELTIG_AB: 1371
+GUELTIG_BIS: 1450
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: archaeologische_stelle
+BEZEICHNUNG: aeltestes_graberfeld_engers
+EIGENSCHAFTEN:
+  anzahl_graeber: 40
+  zeitraum: 800-600 v. Chr.
+  beschreibung: Gräberfeld aus Eisenzeit, älteste bekannte Gräberstätte in Engers
+GUELTIG_AB: -800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: siedlungsspur
+BESCHREIBUNG: älteste Siedlungsspuren stammen aus der Jungsteinzeit
+EIGENSCHAFTEN:
+  zeitraum_neolithikum: Jungsteinzeit
+  zeitraum_eisenzeit: 800-600 v. Chr., bronzezeitliche Gegenstände
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Caesar_Brueckenschlag_55_v_Chr
+EIGENSCHAFTEN:
+  ereignis: Brückenschlag von Urmitz über den Rhein unter Julius Caesar
+  historische_bedeutung: Bestrafung der germanischen Sugambrer
+  exakter_ort: umstritten
+  archäologische_evidenz: 1885 mit Dampfbagger Reste von Eichenpfählen aus Rhein ausgegraben
+  datierung_moderner_methoden: Mitte des 1. Jahrhunderts v. Chr.
+GUELTIG_AB: -55
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: roemischer_hafen_engers
+EIGENSCHAFTEN:
+  existenzdauer: zur Zeit der römischen Besatzung
+  evidenz: um 1800 bei Niedrigwasser Pfahlreste sichtbar
+GUELTIG_AB: -100
+GUELTIG_BIS: 400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: militaerbauwerk
+BEZEICHNUNG: burgus_neuwied_engers
+EIGENSCHAFTEN:
+  typ: römisches Kastell
+  entstehungszeit: viertes Jahrhundert
+  ausgrabung_jahr: 1951
+  ausgegraben_durch: Josef Röder vom Rheinischen Landesmuseum Trier
+  location_heute: Rheinanlagen, Überreste noch sichtbar
+GUELTIG_AB: 300
+GUELTIG_BIS: 400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: befestigungsanlage
+BEZEICHNUNG: roemischer_limes
+EIGENSCHAFTEN:
+  lage_relativ_zu_engers: nur wenige Kilometer entfernt
+  rekonstruiertes_element: römischer Wachturm im Wald bei Sayn
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm_I_von_Wied
+EIGENSCHAFTEN:
+  titel: Graf
+  lebensdaten: 1324–1383
+  ereignis_1357: erhielt am 7. Februar 1357 in Maastricht von Kaiser Karl IV. Stadt- und Marktrechte für Engers
+  ereignis_bauwerk: errichtete 1357–1371 Grauen Turm
+  konflikt: Fehde mit Erzbischof Kuno II. von Falkenstein
+  konflikt_beschreibung: Überfall auf niederländische Kaufleute, Raub von Tuch, Gegenoffensive durch Kuno II., Verlust von Engers
+  konflikt_datum: um 16. März 1371
+  suehne_datum: 25. April 1371
+  suehne_verluste: Abgabe von Dorf und Gericht Engers an Kuno II., Übergabe der Burgen Dierdorf, Rückeroth und Rohrburg
+GUELTIG_AB: 1357
+GUELTIG_BIS: 1383
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Kaiser_Karl_IV
+EIGENSCHAFTEN:
+  handlung: verlieh am 7. Februar 1357 Stadt- und Marktrechte für Engers an Graf Wilhelm I. von Wied
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Grauer_Turm
+EIGENSCHAFTEN:
+  bauzeit: 1357–1371
+  erbauer: Graf Wilhelm I. zu Wied
+  ursprungliche_bezeichnung: Graven-Turm (Grafen-Turm)
+  heutige_bezeichnung: Grauer_Turm
+  entstehung_namenswechsel: Schreibfehler wandelte Graven in Grauer um
+  urspruengliche_ausstattung: Spitzhaube, überdachter Gang zum Rhein
+  urspruenglicher_zweck: Rheinzolleintreibung
+  zweck_heute: Büro und Aussichtspunkt
+  location: Rheinuferpromenade
+GUELTIG_AB: 1357
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Erzbischof_Kuno_II_von_Falkenstein
+EIGENSCHAFTEN:
+  titel: Erzbischof von Trier
+  lebensdaten: 1362–1388
+  ereignis: um 16. März 1371 Konflikt mit Graf Wilhelm I. von Wied
+  aktion_verfolgung: Verfolgung der Räuber nach Isenburg mit Unterstützung von Bürgern aus Köln und Aachen
+  aktion_verwuestung: Verwüstung von wiedischem und isenburgischem Gebiet
+  aktion_eroberung: Eroberung von Engers
+  bauwerk: Bau der Burg Cunostein in Engers ab 1371
+  stadtbefestigung: Errichtung einer Stadtbefestigung im Halbkreis
+GUELTIG_AB: 1371
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: militaerbauwerk
+BEZEICHNUNG: burg_cunostein
+EIGENSCHAFTEN:
+  baubeginn: 1371
+  erbauer: Erzbischof Kuno II. von Falkenstein
+  bauzeit_turm_grauer_turm: ungefähr 1378 bis Grauen Turm
+  beschreibung_lage: am Rhein
+  schaden_30jaehriger_krieg: 1632 oder 1633 schwedische Besatzung, nach drei Jahren durch Kaiserliche Truppen beschossen, danach baufällig
+GUELTIG_AB: 1371
+GUELTIG_BIS: 1650
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verwaltungselement
+BEZEICHNUNG: rheinzoll
+EIGENSCHAFTEN:
+  verlegung_von: Burg Stolzenfels bei Koblenz
+  verlegung_nach: Engers
+  verlegung_datum: 1412
+  verlegung_unter: Werner von Falkenstein
+  aufgabe_grund: ungünstige Wasserverhältnisse
+  aufgabe_ziel: Rückverlagerung zu Koblenz
+GUELTIG_AB: 1412
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: dreißigjähriger_krieg_engers
+EIGENSCHAFTEN:
+  besatzungsmaechte: schwedische Truppen
+  besatzungszeitraum: 1632 oder 1633, drei Jahre
+  folgen: Nach Abzug durch Kaiserliche Truppen Beschießung der Burg Kunostein, danach baufällig
+GUELTIG_AB: 1632
+GUELTIG_BIS: 1635
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: pest_1662
+EIGENSCHAFTEN:
+  jahr: 1662
+  auswirkung: nur fünf Familien überleben
+  migration: Menschen aus dem unbefestigten, oft geplünderten Reil ziehen in Engers ein
+  bevölkerungsbestand_1684: 59 Familien
+GUELTIG_AB: 1662
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: franzoesische_revolution_1794
+EIGENSCHAFTEN:
+  ereignis: Einzug französischer Revolutionstruppen
+  folgen: Clemens Wenzeslaus von Sachsen flieht aus Koblenz, Engers wird besetzt
+GUELTIG_AB: 1794
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: napoleonische_besatzung_engers
+EIGENSCHAFTEN:
+  status_nach_1815: preußisch
+  status_dauer: bis 1945
+  erste_besatzung_nach_wk1: US-amerikanisch bis 1922
+  zweite_besatzung_nach_wk1: französisch 1922-1926
+GUELTIG_AB: 1815
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: institution
+BEZEICHNUNG: kriegsschule_engers
+EIGENSCHAFTEN:
+  location: Schloss Engers
+  gueltig_ab: 1863
+  gueltig_bis: 1918 (bis zum Ersten Weltkrieg)
+  status: preußische Kriegsschule
+GUELTIG_AB: 1863
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Bürgermeister_Darius
+EIGENSCHAFTEN:
+  amtszeit_anfang: seit dem Ersten Weltkrieg
+  absetzung_datum: 17. März 1933
+  absetzung_grund: NS-Regime
+GUELTIG_AB: 1918
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: reichspogromnacht_engers
+EIGENSCHAFTEN:
+  datum: 9. November 1938
+  auswirkung: Übergriffe auf jüdische Familien in Engers
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: zweiter_weltkrieg_engers
+EIGENSCHAFTEN:
+  ereignis_luftangriffe: zahlreiche Luftangriffe der Alliierten
+  ereignis_brueckensprengung: Eisenbahnbrücke zwischen Engers und Urmitz am 9. März um 7:30 Uhr gesprengt
+  ereignis_brueckensprengung_kontext: deutsche Pioniere sprengten die Brücke, ca. 100 Menschen auf Brücke, davon meiste deutsche Soldaten auf Rückzug
+  ereignis_brueckensprengung_folgenwirkung: sämtliche Verbindungen zum linken Rheinufer unterbrochen
+  ereignis_alliierte_ankunft: Palmsonntag, 25. März 1945
+  ereignis_kampfende: direkte Kampfhandlungen in diesem Frontabschnitt beendet
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: verwaltungselement
+BEZEICHNUNG: stadt_engers_historischer_status
+EIGENSCHAFTEN:
+  gueltig_bis_1803: Amt Bergpflege im Kurfürstentum Trier
+  1803_1806: rechtsrheinische Gebiete zu Nassau-Weilburg
+  1806_1815: Herzogtum Nassau
+  1815_1822: Königreich Preußen, Sitz der Bürgermeisterei Engers, Kreis Koblenz, Regierungsbezirk Koblenz
+  ab_1822: Kreis Neuwied
+  1957_06_02: Wiedererlangung der Stadtrechte durch Landesregierung (formell verloren seit rheinischer Städteordnung 1856)
+  1970_11_07: durch Gesetz vom 28. Juli 1970 Zuordnung zu Stadt Neuwied
+  1971_01_22: Stadtteil Neuwied durch Beschluss Stadtrat
+  seit_2001: Ortsbeirat und Ortsvorsteher vertreten Engers
+GUELTIG_AB: 1803
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: schloss_engers
+EIGENSCHAFTEN:
+  bauzeit: 1759-1764
+  erbauer: Johann Philipp von Walderdorff
+  titel_erbauer: Erzbischof und Kurfürst von Trier, Fürstbischof von Worms
+  zweck: Jagd-, Lust- und Sommerschloss
+  lage: direkt am Rheinufer
+  architekt: Johannes Seiz (Pläne)
+  spaetere_nutzung_1995: Akademiebetrieb Villa Musica
+GUELTIG_AB: 1759
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: altes_rathaus_engers
+EIGENSCHAFTEN:
+  erbaut_jahr: 1642
+  location: Ortsmitte gegenüber dem Schlosshof
+GUELTIG_AB: 1642
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: schlossschenke_engers
+EIGENSCHAFTEN:
+  erbaut_jahr: 1621
+  location: Ortsmitte gegenüber dem Schlosshof
+GUELTIG_AB: 1621
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: befestigungsanlage
+BEZEICHNUNG: alte_stadtbefestigung
+EIGENSCHAFTEN:
+  baubeginn: 1371
+  erhaltene_teile: Teile der Stadtmauer
+  turm_grauer: Graue Turm an Rheinuferpromenade
+  turm_duckesje: Duckesje bei der Katholischen Kirche
+  turm_wehrturm: weiterer Wehrturm bei der Katholischen Kirche
+GUELTIG_AB: 1371
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: wohnbau
+BEZEICHNUNG: fachwerkhaus_am_rhein_heinrich
+EIGENSCHAFTEN:
+  beschreibung_volksmunde: im Volksmunde ältestes Haus von Engers
+  erbaut_jahr: um 1617
+  structure: aus zwei Baukörpern bestehend
+  location: Am Heinrichhaus 9 und Helle 2
+  besonderheit_keller_erdgeschoss: Reste der Stadtmauer und eines Stadtmauerturms (Zollpfortenturm) ab 1371
+GUELTIG_AB: 1617
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kirche
+BEZEICHNUNG: katholische_pfarrkirche_st_martin
+EIGENSCHAFTEN:
+  erbaut_jahr: 1896
+  stil: neospätromanisch
+  bauweise: Architekturgliederungen rheinischer Prägung aus Backstein und Tuff
+  denkmalschutz_seit: 2003
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kirche
+BEZEICHNUNG: evangelische_pfarrkirche_engers
+EIGENSCHAFTEN:
+  erbaut_jahr: 1900
+  stil: neospätgotisch
+  merkmale_turm: Turm mit spitzem Pyramidendach
+  denkmalschutz_seit: 2003
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: bahnhof_engers
+EIGENSCHAFTEN:
+  erbaut_jahr: 1869
+  architektur: ehemaliges Empfangsgebäude
+  funktion_originalzeit: Knotenpunkt im Personen- und Gütereisenbahnverkehr
+  funktion_bis: Ende des 20. Jahrhunderts
+  lage: rechte Rheinstrecke
+GUELTIG_AB: 1869
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: wasserturm_engers
+EIGENSCHAFTEN:
+  erbaut_jahr: 1900
+  funktion: Versorgung mit gespeichertem Wasser für ganz Engers
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: institution
+BEZEICHNUNG: villa_musica
+EIGENSCHAFTEN:
+  gueltig_ab: 1995
+  gueltig_ab_monat: im Jahre
+  location: Schloss Engers
+  traeger: rheinland-pfälzische Landesstiftung
+  funktion: Akademiebetrieb
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: institution
+BEZEICHNUNG: landesmusikakademie_rheinland_pfalz
+EIGENSCHAFTEN:
+  gueltig_ab: 2003
+  location: Engerser Meisterhaus nahe dem Heinrich-Haus
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: politisches_gremium
+BEZEICHNUNG: ortsbeirat_engers
+EIGENSCHAFTEN:
+  groesse: 8 Ratsmitglieder
+  wahlverfahren: personalisierte Verhältniswahl
+  letzte_wahl_datum: 9. Juni 2024
+  vorsitz: ehrenamtlicher Ortsvorsteher
+  vertreter_seit: 2001
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: dieter_neckenig
+EIGENSCHAFTEN:
+  position: Ortsvorsteher (ehrenamtlich)
+  partei: CDU
+  amtsantritt: 2014
+  bestaetigung_datum_1: 26. Mai 2019 für weitere fünf Jahre
+  bestaetigung_datum_2: 9. Juni 2024 mit 52,4% Stimmenanteil
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: rheinstrecke_rb_27
+EIGENSCHAFTEN:
+  linie: RB 27 (Rheinbahn)
+  verlauf: Koblenz–Neuwied–Bonn–Beuel–Köln/Bonn Flughafen–Köln–Grevenbroich–Mönchengladbach
+  betrieb: Rheinland-Pfalz-Takt, täglich im Stundentakt
+  tarifgebiet: Verkehrsverbund Rhein-Mosel VRM
+  haltestelle: Bahnhof Engers
+GUELTIG_AB: 1869
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur
+BESCHREIBUNG: Schiffsanleger in Engers am Rhein
+EIGENSCHAFTEN:
+  location: Rhein bei Engers
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: infrastruktur_bahn
+BEZEICHNUNG: brexbachtalbahn_holzbachtalbahn
+EIGENSCHAFTEN:
+  haltestelle: Engers
+  strecke: Au (Sieg)–Altenkirchen–Flammersfeld–Puderbach–Selters–Siershahn–Ransbach/Baumbach–Grenzau–Engers
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: verein
+BEZEICHNUNG: fv_engers_07
+EIGENSCHAFTEN:
+  sport: Fußball
+  liga_aktuell: Oberliga Rheinland-Pfalz/Saar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: vereinsstruktur
+BEZEICHNUNG: bürgerverein_engers
+EIGENSCHAFTEN:
+  funktion: Dachverband für Vereine in Engers
+  vereinstypen: Sport, Chöre, soziale Vereine, Kleinvereine, Traditionsvereine
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kulturelle_tradition
+BEZEICHNUNG: kirmesjahrgaenge
+EIGENSCHAFTEN:
+  beschreibung: Jahrgänge treten abwechselnd in grün-weiß und rot-weiß auf
+  charakter: stehen in Konkurrenz zueinander
+  bezug: Engerser Kirmes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: engerser_karneval
+EIGENSCHAFTEN:
+  zeitraum: Schwerdonnerstag bis Aschermittwoch
+  touristischer_wert: touristisch interessant
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: engerser_tribut_pfingstreiter
+EIGENSCHAFTEN:
+  zeitraum: Pfingstdienstag
+  beschreibung: Tribute an die Heddesdorfer Pfingstreiter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: engerser_kirmes
+EIGENSCHAFTEN:
+  zeitraum: 10 Tage nach Fronleichnam
+  touristischer_wert: touristisch interessant
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: nussknackermarkt
+EIGENSCHAFTEN:
+  zeitraum: erstes Adventswochenende
+  touristischer_wert: touristisch interessant
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: openair_konzerte_engers
+EIGENSCHAFTEN:
+  beschreibung: zahlreiche Openair-Konzerte und Musikveranstaltungen
+  anbieter: Chöre und Villa Musica
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: nachtwächterführung_engers
+EIGENSCHAFTEN:
+  beschreibung: Führung durch Engers mit Nachtwächter
+  erfolg: überraschend erfolgreich
+  haeufigkeit: mindestens zweimal im Monat aufgrund großer Nachfrage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: georg_von_viebahn
+EIGENSCHAFTEN:
+  lebensdaten: 1840–1915
+  position: Kommandeur der Kriegsschule Engers
+  position_zeitraum: 1883–1888
+  beisetzung: 1915 in Engers begraben
+  grabstaette: Familienfriedhof von Viebahn (Grabsteine seit 1952 an Nordseite der Evangelischen Kirche)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: carl_wilhelm_weniger
+EIGENSCHAFTEN:
+  lebensdaten: 1874–1945
+  position: Konteradmiral der Kriegsmarine
+GUELTIG_AB: 1874
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: alfred_bernau
+EIGENSCHAFTEN:
+  geburtsname: Adolf Breidbach
+  lebensdaten: 1879–1950
+  beruf: Schauspieler
+  beruf_2: Regisseur
+  beruf_3: Theaterdirektor
+GUELTIG_AB: 1879
+GUELTIG_BIS: 1950
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: heinrich_zimmermann
+EIGENSCHAFTEN:
+  lebensdaten: 1915–1980
+  position: römisch-katholischer Theologe
+  position_2: Neutestamentler
+GUELTIG_AB: 1915
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: otto_bach
+EIGENSCHAFTEN:
+  lebensdaten: 1924–2010
+  position: Pädagoge
+  position_2: Heimatforscher
+GUELTIG_AB: 1924
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: hans_trees
+EIGENSCHAFTEN:
+  lebensdaten: 1925–2005
+  position: Politiker
+  partei: SPD
+  position_2: Landtagsabgeordneter
+  bürgermeister_engers: 1964–1966
+  burgermeister_amt_engers: 1966–1970
+  bürgermeister_neuwied: 1971–1990
+GUELTIG_AB: 1925
+GUELTIG_BIS: 2005
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: laurentius_klein
+EIGENSCHAFTEN:
+  lebensdaten: 1928–2002
+  position: Abt der Benediktiner
+GUELTIG_AB: 1928
+GUELTIG_BIS: 2002
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: karl_heinz_böckstiegel
+EIGENSCHAFTEN:
+  lebensdaten: 1936–2025
+  position: Rechtswissenschaftler
+GUELTIG_AB: 1936
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: edgar_streck
+EIGENSCHAFTEN:
+  geburt_ca: * 1942
+  position: Jurist
+  position_2: Richter am Bundesgerichtshof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: wolfram_maas
+EIGENSCHAFTEN:
+  geburt_ca: * 1950
+  position: Diplomat
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: wolfgang_christ
+EIGENSCHAFTEN:
+  geburt_ca: * 1951
+  position: Architekt
+  position_2: Stadtplaner
+  position_3: Hochschullehrer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: achim_fink
+EIGENSCHAFTEN:
+  geburt_ca: * 1954
+  position: Jazz-Musiker
+  position_2: Rock-Musiker
+  position_3: Pop-Musiker
+  position_4: Theatermusiker
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: herbert_zimmermann
+EIGENSCHAFTEN:
+  geburt_ca: * 1954
+  position: Fußballspieler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: wolfgang_m_schmitt
+EIGENSCHAFTEN:
+  geburt_ca: * 1987 oder 1988
+  position: Literaturwissenschaftler
+  position_2: Filmkritiker
+  position_3: Webvideo-Produzent
+  position_4: Podcast-Moderator
+  position_5: Autor
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---

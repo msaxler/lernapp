@@ -1,0 +1,16 @@
+{
+ "_doc": "Vorrat je Ort im Raum Neuwied. Im Vorrat ist jede Karte, die der Faktencheck nicht gesperrt hat, die nicht durch eine jüngere Karte zum selben Fakt ersetzt ist (Abfrage über karten-fakt.json) und die hier nicht als raus steht.",
+ "grenze_je_ort": 20,
+ "orte": {
+  "01-bendorf": {"raus": []},
+  "02-engers": {"raus": []},
+  "03-heimbach-weis": {"raus": []},
+  "04-altwied": {"raus": []},
+  "05-rengsdorf": {"raus": []},
+  "06-dierdorf": {"raus": []},
+  "07-waldbreitbach": {"raus": []},
+  "08-linz": {"raus": []},
+  "09-bad-hoenningen": {"raus": []},
+  "10-leutesdorf": {"raus": []}
+ }
+}

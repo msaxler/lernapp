@@ -15,7 +15,7 @@ import re
 import sys
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1')
+ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'))
 GEPRUEFT = '--geprueft' in sys.argv  # Fassung nach dem Faktencheck (karten-geprueft/<lauf>)
 # --lauf v0.6 prüft die Karten des Prompts v0.6 (gleiches Format, dazu das Feld PRÜFHINWEIS)
 LAUF = sys.argv[sys.argv.index('--lauf') + 1] if '--lauf' in sys.argv else 'v0.5'

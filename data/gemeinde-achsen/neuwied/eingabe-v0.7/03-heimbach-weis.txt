@@ -1,0 +1,1279 @@
+ZIELORT: Heimbach-Weis (Ortsteil von Neuwied)
+LAGE: Stadtteil von Neuwied; 11 km nördlich von Koblenz (Luftlinie)
+ARTIKEL: Heimbach-Weis
+
+GRUNDDATEN:
+  landkreis: Landkreis Neuwied — GILT FÜR DIE GEMEINDE NEUWIED  [Wikidata P131]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 7337  [dewiki Infobox, Stand 2026-07-06]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE NEUWIED  [Wikidata P395]
+  hoehe_m: 95 | 103 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2907461)]
+  naechste_grossstadt: Koblenz, 11 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 74 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  eingemeindung: 1970-11-07  [dewiki Infobox]
+  plz: 56566  [Wikidata P281]
+  vorwahl: 02622  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 35,2 %, SPD 19,3 %, AfD 18,8 %, GRÜNE 9,2 %, Die Linke 5,8 %; Wahlbeteiligung 82,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich); Zuordnung der Stimmbezirke zum Stadtteil nach der Stimmbezirkseinteilung der Stadt Neuwied, Stand 2025-02-23]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT einwohner: Einwohnerzahl, C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT eingemeindung: Jahr der Eingemeindung (Ersatz: Luftlinie zur Landeshauptstadt), C, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Engers (Ortsteil von Neuwied)
+  landkreis: Landkreis Neuwied — GILT FÜR DIE GEMEINDE NEUWIED  [Wikidata P131]
+  einwohner: 5202  [dewiki Infobox, Stand 2026-07-06]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE NEUWIED  [Wikidata P395]
+  hoehe_m: 70 | 73  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2930166)]
+  naechste_grossstadt: Koblenz, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 30 %, SPD 21,3 %, AfD 20,7 %, GRÜNE 8,1 %, Die Linke 7,4 %, BSW 5 %; Wahlbeteiligung 74,9 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich); Zuordnung der Stimmbezirke zum Stadtteil nach der Stimmbezirkseinteilung der Stadt Neuwied, Stand 2025-02-23]
+
+FAHRT: Bendorf, Engers, Heimbach-Weis, Altwied, Rengsdorf, Dierdorf, Waldbreitbach, Linz am Rhein, Bad Hönningen, Leutesdorf
+
+FAKTEN (Zielort Heimbach-Weis):
+ID: 03-heimbach-weis/001
+ENTITÄT: ort
+BEZEICHNUNG: Heimbach-Weis
+EIGENSCHAFTEN:
+  ist_stadtteil: true
+  ist_ortsbezirk: true
+  bundesland: Rheinland-Pfalz
+  uebergeordneter_ort: Neuwied
+  lage: nordöstlicher Rand Neuwieder Becken
+  ursprung_zwei_gemeinden: Heimbach, Weis
+  fusion_datum: 1960-09-01
+  eingemeindung_in_neuwied: 1970-11-07
+  ortsbeirat_seit: 1971-01-22
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 03-heimbach-weis/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Heimbach
+EIGENSCHAFTEN:
+  ersterwahnung: Hembach
+  ersterwahnung_jahr: 1093
+  baulich_zusammengewachsen_mit: Weis
+  groesse_relativ: größerer Ort
+GUELTIG_AB: 1093
+GUELTIG_BIS: 1960
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 03-heimbach-weis/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Weis
+EIGENSCHAFTEN:
+  ersterwahnung_name: Wissa
+  ersterwahnung_jahr: 1059
+  namensschreibweise_1204: Wise
+  baulich_zusammengewachsen_mit: Heimbach
+  groesse_relativ: kleinerer Ort
+GUELTIG_AB: 1059
+GUELTIG_BIS: 1960
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 03-heimbach-weis/004
+ENTITÄT: kirchspiel
+BEZEICHNUNG: Kirchspiel Heimbach
+EIGENSCHAFTEN:
+  umfasste_orte: Heimbach, Weis, Gladbach
+  hoheit_streitigkeiten: Rechtsstreitigkeiten vom Mittelalter bis Neuzeit
+  anlass_streitigkeiten: Hoheit über Kirchspiel
+  folge: Ortsrechte ähnlich freien Reichsstädten
+  beschreibung: Bauernfreistaat, Freie Reichsstadt im Landformat
+GUELTIG_AB: mittelalter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 03-heimbach-weis/005
+ENTITÄT: ortsbeirat
+BEZEICHNUNG: Ortsbeirat Heimbach-Weis
+EIGENSCHAFTEN:
+  ratsmitglieder_anzahl: 10
+  wahl_datum: 2024-06-09
+  wahlsystem: personalisierte Verhältniswahl
+  hat_ortsvorsteher: true
+  ortsvorsteher_titel: ehrenamtlich
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 03-heimbach-weis/006
+ENTITÄT: ortsvorsteher
+BEZEICHNUNG: Markus Blank
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 2019
+  wahl_datum_2024: 2024-06-09
+  stimmenanteil: 69.4%
+  besonderheit: einziger Bewerber
+  amtsdauer_neu: 5 Jahre
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 03-heimbach-weis/007
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: St. Margaretha
+EIGENSCHAFTEN:
+  turm_stil: romanisch
+  turm_merkmal: gedrehte Haube
+  ortsbild_praegend: true
+  hochaltar_kuenstler: Johannes Seiz
+  hochaltar_kuenstler_funktion: Hofbaumeister Kurfürstentum Trier
+  orgel_stil: Barock
+  orgel_kuenstler: Johann Michael Stumm
+  orgel_herkunft: ehemalige Abteikirche Rommersdorf
+GUELTIG_AB: mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 03-heimbach-weis/008
+ENTITÄT: abtei
+BEZEICHNUNG: Prämonstratenserabtei Rommersdorf
+EIGENSCHAFTEN:
+  orden: Prämonstratenser
+  lage: Heimbach-Weiser Areal
+  zustand_nach_restaurierung: wichtiges Kulturgut der Stadt Neuwied
+  veranstaltung: Kreuzgang-Konzerte
+  veranstaltung_bedeutung: kulturelle Höhepunkte der Stadt Neuwied
+GUELTIG_AB: mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 03-heimbach-weis/009
+ENTITÄT: bauwerk
+BEZEICHNUNG: Fachwerkhaus Hauptstraße 111
+EIGENSCHAFTEN:
+  adresse: Hauptstraße 111
+  baustil: Fachwerkhaus
+  bauzeit: 17. Jahrhundert
+  merkmal: schmuckvoll verziert
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 03-heimbach-weis/010
+ENTITÄT: zoo
+BEZEICHNUNG: Zoo Neuwied
+EIGENSCHAFTEN:
+  lage: Stadtteil Heimbach-Weis
+  tierbestand: ca. 1200
+  artenzahl: 155
+  flaeche: 13.5
+  flaeche_einheit: Hektar
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 03-heimbach-weis/011
+ENTITÄT: karnevaltradition
+BEZEICHNUNG: Heimbach-Weiser Karneval
+EIGENSCHAFTEN:
+  tradition_seit: 1827
+  anlass_gruendung: Gründung der ersten Karnevalsgesellschaften in Vereinen
+  rang_rheinland: viertältester Karneval
+  aeltere_karnevale: Köln (1823), Koblenz (1824), Bonn (1826)
+  juengere_karnevale: Aachen (1829), Mainz (1837)
+  superlativ: viertältester im gesamten Rheinland
+  aktive_vereine: 5
+  davon_karnevalsgesellschaften: 3
+  davon_moehnenvereine: 2
+  tradition_form: Karnevalsumzug
+  charakterisierung_volk: raschem, leicht reizbarem, lebhaftem Charakter
+GUELTIG_AB: 1827
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 03-heimbach-weis/012
+ENTITÄT: karnevalsevent
+BEZEICHNUNG: Größte Clownsparade der Welt
+EIGENSCHAFTEN:
+  datum: 2001-11-11
+  anlass: 175-jähriges Bestehen der beiden Karnevalsgesellschaften Heimbach und Weis
+  ort: Karnevalshochburg Heimbach-Weis
+  eintrag: Guinness-Buch der Rekorde
+  superlativ: größte Clownsparade der Welt
+GUELTIG_AB: 2001
+GUELTIG_BIS: 2001
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 03-heimbach-weis/013
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz Xaver Wagner
+EIGENSCHAFTEN:
+  herkunft: Sohn von Heimbach-Weis
+  erfindung: Wagner-Getriebe
+  erfindungsjahr: 1880
+  erfindung_bedeutung: revolutionierte Schreibmaschinen-Technologie
+  rang: berühmtester Sohn von Heimbach-Weis
+GUELTIG_AB: 1880
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 03-heimbach-weis/014
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Helmut Dieser
+EIGENSCHAFTEN:
+  aufwachsort: Heimbach
+  position: Bischof
+  bistum: Aachen
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 03-heimbach-weis/015
+ENTITÄT: wald
+BEZEICHNUNG: Heimbacher Wald
+EIGENSCHAFTEN:
+  lage: Gemeindegebiet Heimbach-Weis
+  topographie: erreicht erste Höhen des Westerwalds
+  charakterisierung: Westerwald
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+FAKTEN AUS ZWEITER QUELLE (Wikipedia, Artikel „St. Margaretha (Heimbach-Weis)“):
+ID: 03-heimbach-weis+1/001
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: St. Margaretha
+ORTSTEIL_BEZUG: Heimbach-Weis
+EIGENSCHAFTEN:
+  konfession: katholisch
+  architekturstil: gotisch
+  bauzeit: 1771-1772
+  dekanat: Rhein-Wied
+  bistum: Trier
+  turm_architektur: romanisch mit drei ungegliederten Geschossen, achtseitiger Helm
+  turm_mauerstärke: bis zu zwei Meter
+  vorgängerbau_baujahr: ca. 1569
+  erweiterung_seitenschiffe: 1891-1896
+  renovierung_nach_wwii: 1963
+  seitenschiffe_ursprungsanzahl: 2
+  einweihung_datum: 5. Januar 1772
+  eingeweiht_durch: Abt Werner Diepram von Rommersdorf
+GUELTIG_AB: 1772
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 03-heimbach-weis+1/002
+ENTITÄT: ort
+BEZEICHNUNG: Heimbach-Weis
+EIGENSCHAFTEN:
+  ist_stadtteil_von: Neuwied
+  bundesland: Rheinland-Pfalz
+  kirchspiel_erwähnung: ca. 1200
+  kirchspiel_zusammensetzung: Heimbach, Weis, Gladbach
+  bewohnerzahl_1564: 1564
+  bewohnerzahl_1820: 2000
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 03-heimbach-weis+1/003
+ENTITÄT: abtei
+BEZEICHNUNG: Rommersdorf
+EIGENSCHAFTEN:
+  gründungsjahr: 1117
+  rolle: Stifterin der Heimbacher Kirche
+  patronat_ab: 1351
+  patronatsrecht_verlust: 1570
+GUELTIG_AB: 1117
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 03-heimbach-weis+1/004
+ENTITÄT: event
+BEZEICHNUNG: Brand Heimbach 1569
+EIGENSCHAFTEN:
+  beschreibung: fast ganz Heimbach brannte ab
+  folgen: alle Glocken schmolzen
+  anlass_für_neubau: ja
+GUELTIG_AB: 1569
+GUELTIG_BIS: 1569
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 03-heimbach-weis+1/005
+ENTITÄT: orgel
+BEZEICHNUNG: Orgel St. Margareatha
+EIGENSCHAFTEN:
+  baujahr_original: 1738-1740
+  orgelbauer_original: Johann Michael Stumm
+  ursprungsort: Abtei Rommersdorf
+  einbau_kirche: 1809
+  schaeden_1803: schwer beschädigt bei Kriegshandlungen, acht Register zerstört
+  reparatur_1856: auf zwei Manuale verkleinert durch Orgelbauer Weil
+  restaurierung_1964: Klais, neuer elektrischer Spieltisch
+  instandsetzung_2021: Klais
+  register_heute: 37
+GUELTIG_AB: 1738
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 03-heimbach-weis+1/006
+ENTITÄT: glocke
+BEZEICHNUNG: Glocken St. Margareatha
+EIGENSCHAFTEN:
+  anzahl: 3
+  guss_jahr_original: 1575
+  glockengiesser: Dietrich (Kölner Glockengießer)
+  groesste_glocke_widmung: St. Margareatha
+  groesste_glocke_neuguss: 1581
+  inschrift: Geschichte des Neubaus der Kirche
+GUELTIG_AB: 1575
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 03-heimbach-weis+1/007
+ENTITÄT: heiligenfigur
+BEZEICHNUNG: Hl. Margareatha (Büste)
+EIGENSCHAFTEN:
+  materialform: Büste
+  zeitperiode: 18. Jahrhundert
+GUELTIG_AB: 1700
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 03-heimbach-weis+1/008
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Spätgotisches Steinkreuz
+EIGENSCHAFTEN:
+  stilepoche: spätgotisch
+  baujahr: ca. 1480
+  künstlerischer_kontext: Umfeld Niclas Gerhaerts van Leyden
+  herkunftsort: Mönchsfriedhof der Abtei Rommersdorf
+GUELTIG_AB: 1480
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+SPENDER: Bad Camberg (nicht Teil der Fahrt)
+ENTITÄT: ort
+BEZEICHNUNG: Bad Camberg
+EIGENSCHAFTEN:
+  einwohner: 14000, genauigkeit: "über"
+  rang_groesse: zweitgrößte Stadt
+  landkreis: Limburg-Weilburg
+  bundesland: Hessen
+  region: Hintertaunus
+  lage_kulturraum: Goldener Grund
+  entfernung_wiesbaden: 30 km nördlich
+  entfernung_limburg: 20 km südlich
+  entfernung_frankfurt: 48 km nordwestlich
+  funktion_zentral: Zentralort
+  funktion_admin: Unterzentrum mit Teilfunktion Mittelzentrum
+  ist_kreisstadt: false
+  ist_südlichste_gemeinde_landkreis: true
+  wahrzeichen: Kreuzkapelle
+  urspruenglicher_name: Camberg
+  namensaenderung_jahr: 1981
+  namensaenderung_grund: anlässlich der 700-Jahr-Feier der Stadtrechte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ort
+BEZEICHNUNG: Camberg
+EIGENSCHAFTEN:
+  beschreibung: früherer Name von Bad Camberg bis 1981
+  funktion: Minderstadt
+GUELTIG_AB: 1281
+GUELTIG_BIS: 1981
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kurort
+BEZEICHNUNG: Bad Camberg
+EIGENSCHAFTEN:
+  kneippkurort: true
+  ist_aeltester_typ_hessen: true
+  rang_bundesweit: drittältester in Deutschland
+  titel_heilbad: Anerkanntes Heilbad
+  gueltig_ab_heilbad: 1937
+  titel_kneippheilbad: Staatlich Anerkanntes Kneippheilbad
+  gueltig_ab_kneippheilbad: 1977
+  uebernachtungen_2005: 176663
+  durchschnittliche_aufenthaltsdauer_tage: 8.6
+GUELTIG_AB: 1927
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Kreuzkapelle
+EIGENSCHAFTEN:
+  typ: Kapelle
+  baujahr: 1725
+  lage: Berg östlich der Stadt
+  sichtbarkeit: von Weitem sichtbar
+  status: Wahrzeichen der Stadt
+  schutzstatus: Haager Konvention
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Peter und Paul
+EIGENSCHAFTEN:
+  konfession: katholisch
+  patrozinium: Petrus und Paulus
+  lage: Nordwesten der Altstadt
+  ersterwahnung: 1156
+  turm_baujahr: 1580
+  stil_neubau: Zopfstil
+  weihbischof: Johannes Maria von Herbain
+  weihdatum: 15. Juli 1781
+  funktion: Hauptkirche Cambergs, Pfarrkirche
+  schutzstatus: Haager Konvention
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Martinskirche
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  baujahr: 1896-1897
+  architekt: Ludwig Hofmann
+  einweihung: 8. September 1897
+  geschenk_kaiserin: Altarbibel von Kaiserin Auguste Viktoria
+  einzugsgebiet: Kernstadt, Erbach, Würges, Dombach, Schwickershausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Amthof
+EIGENSCHAFTEN:
+  typ: Fachwerkbau
+  frontlaenge: 155 Meter
+  superlativ: einer der größten Fachwerkbauten in Hessens
+  errichtung: 1605
+  ausbauzeitraum: 1605-1669
+  urspruengliche_funktion: Sitz und Wohngebäude der Oberamtmänner
+  weitere_nutzung: Amthaus, später Stadtverwaltung
+  sanierung: 1989
+  nutzung_heute: Sitz der Stadtverwaltung
+  schutzstatus: Haager Konvention
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Obertorturm
+EIGENSCHAFTEN:
+  hoehe: 32 Meter
+  baujahr: um 1380
+  zweck: Befestigung
+  status: Wahrzeichen der Stadt
+  erscheint_im_stadtwappen: true
+  funktion_heute: Stadt- und Turmmuseum
+  schutzstatus: Haager Konvention
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Untertorturm
+BEZEICHNUNG: Schiefe Turm von Bad Camberg
+EIGENSCHAFTEN:
+  hoehe: 21 Meter
+  baujahr: 1365-1380
+  neigung: 1.44 Meter
+  funktion_urspruenglich: Befestigung
+  tore_anzahl: drei hintereinander an der Basis
+  schaeden_zweiter_weltkrieg: Turmhaube zerstört
+  schutzstatus: Haager Konvention
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Hohenfeldkapelle
+EIGENSCHAFTEN:
+  lage: neben Obertorturm
+  funktion: Kapelle
+  ausstattung: Grabplatten mit Inschriften bedeutender Familien
+  familien_erwahnt: Metternich, Hohenfeld, von Schütz zu Holzhausen, von Bechtolsheim, Spies von Büllesheim
+  funktion_heute: Teil des Stadt- und Turmmuseums
+  schutzstatus: Haager Konvention
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Alte Amtsapotheke
+EIGENSCHAFTEN:
+  grundmauern: 1330
+  neubau: 1492
+  baumeister_neubau: Burgmannenhaus derer von Hattstein
+  funktion_seit: 1663
+  nutzung_seit: Apotheke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Guttenberger Hof
+EIGENSCHAFTEN:
+  ersterwahnung: 1336
+  beschreibung: Sitz der Familie von Hattstein
+  neubau: 1526
+  wechsel_besitz_1767: Familie von Guttenberg
+  wechsel_besitz_1820: bürgerlicher Besitz
+  status_oktober_2007: Sanierung in Bearbeitung
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: stadtmauer
+BEZEICHNUNG: Stadtmauer Bad Camberg
+EIGENSCHAFTEN:
+  typ: Befestigung
+  ausstattung: mächtige Mauer und mehrere Türme
+  bauzeit: vermutlich um 1380 abgeschlossen, genauigkeit: "vermutlich"
+  pflege_bis: frühes 18. Jahrhundert
+  status_1750: weitgehend verfallen
+  turmanzahl_gesamt: 13
+  erhaltene_tuermen: 2
+  schutzstatus: Haager Konvention
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Würges
+EIGENSCHAFTEN:
+  lage: südlicher Stadtteil im Goldenen Grund
+  funktion: Teil der erweiterten Stadt Bad Camberg
+  gueltig_ab_fusion: 1. Juli 1974
+  ortsbeirat: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Bad Camberg (Kernstadt)
+EIGENSCHAFTEN:
+  lage: zentral im Goldenen Grund
+  zusammensetzung: ursprüngliche Stadt Camberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Erbach
+EIGENSCHAFTEN:
+  lage: zentraler Stadtteil im Goldenen Grund
+  ortsbeirat: ja
+  gueltig_ab_fusion: 1. Juli 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Oberselters
+EIGENSCHAFTEN:
+  lage: nördlicher Stadtteil im Goldenen Grund
+  unternehmen: OberSelters (Brunnenbetrieb)
+  gueltig_ab_fusion: 1. Juli 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Schwickershausen
+EIGENSCHAFTEN:
+  lage: östlicher Stadtteil
+  besiedlung: dünner besiedelt
+  hoehenlage: höher gelegen
+  gueltig_ab_fusion: 1. Juli 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Dombach
+EIGENSCHAFTEN:
+  lage: östlicher Stadtteil
+  besiedlung: dünner besiedelt
+  hoehenlage: höher gelegen
+  gueltig_ab_fusion: 1. Juli 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: wasserlauf
+BEZEICHNUNG: Emsbach
+EIGENSCHAFTEN:
+  verlauf: durchfließt den Goldenen Grund
+  verlauf_richtung: von Süden nach Norden
+  lage: westliches Stadtgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: berg
+BEZEICHNUNG: Kuhbett
+EIGENSCHAFTEN:
+  hoehe: 526 Meter
+  beschreibung: eine der höchsten Erhebungen des Landkreises Limburg-Weilburg
+  lage: Gemarkung Kernstadt Bad Camberg
+  grenze: Grenze zur Gemeinde Weilrod im Hochtaunuskreis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: berg
+BEZEICHNUNG: Steinkopf
+EIGENSCHAFTEN:
+  hoehe: 317 Meter
+  lage: Westrand der Kernstadt-Gemarkung
+  beschaffenheit: Quarzitvorkommen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: schule
+BEZEICHNUNG: Taunusschule Bad Camberg
+EIGENSCHAFTEN:
+  typ: Gesamtschule mit gymnasialer Oberstufe
+  neubau_beginn: 1957
+  abschluesse: Haupt-, Realschulabschluss, Abitur
+  realschule_betrieb_ab: 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: schule
+BEZEICHNUNG: Freiherr-von-Schütz-Schule
+EIGENSCHAFTEN:
+  typ: Gehörlosenschule
+  funktion_besonder: mit angeschlossenem Internat
+  region_dienstleistung: sieben hessische Stadt- und Landkreise
+  geschichte_gruendung: 1810
+  urspruengliche_funktion: Herzoglich Nassauische Taubstummen-Institut
+  unterrichtsbeginn: 1810 durch Hugo Freiherr von Schütz zu Holzhausen
+  umzug_1875: Nebengebäude des Guttenberger Hofes
+  neubau: ab 1894 an der Frankfurter Straße
+  umbau: nach 1970 Übernahme ehemaliges Amtsgericht
+  erweiterung: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: schule
+BEZEICHNUNG: Regenbogenschule
+EIGENSCHAFTEN:
+  typ: Grundschule
+  lage: Stadtteil Erbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Atzelschule
+EIGENSCHAFTEN:
+  typ: Grundschule
+  lage: Bad Camberg (Kernstadt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Würges
+EIGENSCHAFTEN:
+  typ: Grundschule
+  lage: Stadtteil Würges
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: klinik
+BEZEICHNUNG: MEDIAN Hohenfeld-Kliniken
+EIGENSCHAFTEN:
+  spezialisierung_psychosomatik: Psychosomatische Medizin und Psychotherapie
+  betten_psychosomatik: 253
+  spezialisierung_ortho: Orthopädie und Osteologie
+  betten_ortho: 120
+  funktion: Rehabilitationskliniken
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: klinik
+BEZEICHNUNG: Neurologische Rehabilitationsklinik Bad Camberg
+EIGENSCHAFTEN:
+  spezialisierung: Neurologie
+  funktion: Rehabilitationsklinik
+  betten: 150
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: OberSelters
+ORTSTEIL_BEZUG: Oberselters
+EIGENSCHAFTEN:
+  typ: Brunnenbetrieb
+  produktion: Mineralwasser
+  marken: OberSelters Original, OberSelters Catharinen-Quelle, Nassauer Land, Bad Camberger Taunusquelle
+  nebenprodukte: Limonade, Apfelschorle
+  nebenmarken: Mabella
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: HACA Leitern
+EIGENSCHAFTEN:
+  typ: Industrieunternehmen
+  sitz: Bad Camberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Weber Bürstensysteme
+EIGENSCHAFTEN:
+  typ: Industrieunternehmen
+  sitz: Bad Camberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Bad Camberg
+EIGENSCHAFTEN:
+  strecke: Main-Lahn-Bahn
+  verbindung_frankfurt: ja
+  verbindung_limburg: ja
+  streckenkilometer: 49.3 (von Frankfurt Hauptbahnhof gezählt)
+  erreichung_von_niederselters: 1876
+  linien_frankfurt: RE 20, RB 22
+  linien_wiesbaden: RB 21 (über Ländchesbahn in Niedernhausen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Stadtbus Bad Camberg
+EIGENSCHAFTEN:
+  start: Dezember 2004
+  linien: LM-31, LM-32
+  verlauf: Bahnhof - Innenstadt - Erbach/Würges
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: autobahn
+BEZEICHNUNG: A 3
+ORTSTEIL_BEZUG: neben Bad Camberg
+EIGENSCHAFTEN:
+  alternative_bezeichnung: E 35
+  zeitliche_namensgebung: Reichsautobahn
+  bauzeit: 1937-1939
+  verlauf_grund: folgt ungefähr der alten Hohen Straße
+  anschlussstelle_bad_camberg: vorhanden
+  bedeutung: war zunächst nicht in der Planung vorgesehen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: raststaette
+BEZEICHNUNG: Tank- und Raststätte Bad Camberg-Ost
+EIGENSCHAFTEN:
+  lage: Richtung Köln
+  eroeffnung: 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: raststaette
+BEZEICHNUNG: Tank- und Raststätte Bad Camberg-West
+EIGENSCHAFTEN:
+  lage: Richtung Frankfurt
+  eroeffnung: 1955
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Camberger Kerb
+EIGENSCHAFTEN:
+  alternative_bezeichnung: Herbstmarkt
+  traditionsstart: 1781
+  rhythmus: jährlich
+  zeitpunkt: zweites Wochenende im Oktober
+  ursprung: Kirchweihfest am 29. Juni
+  ort: Festzelt in den Pfortenwiesen (Alter Sportplatz)
+  organisatoren: Verein Camberger Kerb e. V., Kerbejahrgang
+  wiederbelebung_tradition: seit 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: VW-Veteranen-Treffen
+EIGENSCHAFTEN:
+  familie_organisator: Lottermann
+  start: 1979
+  rhythmus: alle vier Jahre
+  charakteristik: älteste und seltenste Volkswagen-Fahrzeuge
+  letzte_durchfuehrung: 2019
+  bekanntheit: weltbekannt in der VW-Szene
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sportverein
+BEZEICHNUNG: RSV Würges
+ORTSTEIL_BEZUG: Würges
+EIGENSCHAFTEN:
+  sportart: Fußball
+  rang: erfolgreichster Fußballverein in der Region
+  liga_history: Hessenliga (zeitweise drittklassig)
+  dfb_pokal: zwei Mal Teilnahme
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sportverein
+BEZEICHNUNG: SV Bad Camberg 1921
+ORTSTEIL_BEZUG: Bad Camberg
+EIGENSCHAFTEN:
+  gruendungsjahr: 1921
+  sportarten: Fußball, Handball
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: freizeitanlage
+BEZEICHNUNG: Baumwipfelweg Bad Camberg
+EIGENSCHAFTEN:
+  laenge: 800 Meter
+  typ: Rundweg durch Baumschichten
+  lage: östlich von Bad Camberg, Landesstraße L 3031
+  parkplatz: Vorderwald
+  erstellung_dauer: fünf Jahre
+  eroeffnung: Mai 2023
+  baustoff: Holz
+  turmanzahl: mehrere Türme mit Treppenaufgängen
+  aussichtsturm_hoehe: 28 Meter
+  aussichtsturm_sicht: Rundumblick über Taunus bis Großen Feldberg
+  endturm_hoehe: 31 Meter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: park
+BEZEICHNUNG: Kurpark
+EIGENSCHAFTEN:
+  anlage_geschichte: 18. Jahrhundert durch Familie Schütz von Holzhausen
+  lage: am Obertor, Rand der Altstadt
+  ausstattung: zwei Wassertretbecken, alte Bäume, Wasserspiele
+  einrichtungen: Minigolfanlage, mehrere Tennisplätze
+  schaugaertchen_jahr: 2002
+  schaugaertchen_groesse: ca. 800 m²
+  schaugaertchen_name: Schaukräutergarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Keltisches Fürstengrab
+EIGENSCHAFTEN:
+  zeit: Frühjahr 2026
+  lage: bei Bauarbeiten in der Nähe von Bad Camberg
+  zeitliche_einordnung: frühe Eisenzeit
+  besonderheit: bislang sogenanntes „Fürstengrab"
+  beigaben: Hinweise auf Streitwagen
+  ranking: erstes keltisches Fürstengrab im Taunus
+  vergleich: ähnlich dem Fürstengrab vom Glauberg
+  forschungsbeteiligung: Landesamt für Denkmalpflege Hessen, Keltenwelt am Glauberg, Leibniz-Zentrum für Archäologie Mainz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Hexenprozesse in Camberg
+EIGENSCHAFTEN:
+  zeitraeume: 1629-1631, 1643-1644, 1659-1660
+  beschuldigte_frauen: 14
+  beschuldigte_maenner: 1
+  hintergrichtete_frauen: 8
+  todesfaelle_in_haft: 1
+  letzte_hinrichtung_opfer: Barbara Ordeneck
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Reichspogromnacht in Camberg
+EIGENSCHAFTEN:
+  lage_synagoge: Schmiedgasse
+  schicksaal_synagoge: niedergerissen
+  folgen: jüdische Privat- und Geschäftshäuser geplündert
+  grabstein_schaendung: Judenfriedhöfe
+  schaendung_zeitpunkt: Wochen nach Pogromnacht
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Befreiung Cambergs
+EIGENSCHAFTEN:
+  datum: 29. März 1945
+  erste_truppen: 3. Bataillon des 385. Infanterieregiments (USA)
+  gegner: stationierte SS-Einheiten
+  kampfdauer: ganze Nacht
+  befreier: US-amerikanische Soldaten
+  befreiungszeit: 30. März 1945, 8 Uhr
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Hugo Freiherr von Schütz zu Holzhausen
+EIGENSCHAFTEN:
+  geburt: 31. Juli 1780 in Camberg
+  tod: 22. Juni 1847 in Wiesbaden
+  behinderung: selbst taub geboren
+  besonderheit: einer der Pioniere in Deutschland im Unterricht für Taubstumme
+  gründung: Herzoglich Nassauische Taubstummen-Institut (1820)
+  unterrichtsbeginn: 1810 in Räumen des Amthofs
+  schule_heute_benannt_nach: Freiherr-von-Schütz-Schule
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: person
+BEZEICHNUNG: Moritz Lieber
+EIGENSCHAFTEN:
+  geburt: 1. Oktober 1790 auf Burg Blankenheim
+  tod: 29. Dezember 1860 in Camberg
+  beruf: Jurist, Politiker, Publizist, Autor, Übersetzer, Teehändler
+  stiftung: Lieber'sches Hospital
+  politische_rolle: Vater der Deutschen Zentrumspartei
+  vater: Gisbert Lieber
+  sohn: Ernst Lieber
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Ernst Lawaczeck
+EIGENSCHAFTEN:
+  geburt: 18. Februar 1890 in Camberg
+  tod: 12. Oktober 1950 in Camberg
+  funktion_lokal: Bürgermeister von Camberg (NS-Zeit)
+  funktion_nsdap: Ortsgruppenleiter der NSDAP
+  funktion_aerzte: Vorsitzender des Nationalsozialistischen Ärztebundes im Kreis Limburg
+  funktion_weitere: Kreisobmanns des NSDÄB (1939-1941), Abteilungsleiter Volksgesundheit Kreisstab
+  tätigkeit: Verfolgung politischer Gegner, Ausplünderung der Juden
+  brueder: Paul Lawaczeck, Franz Lawaczeck
+GUELTIG_AB: 1933
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Barbara Ordeneck
+EIGENSCHAFTEN:
+  geburt: um 1600 in Würges
+  tod: 1659 in Camberg
+  beschreibung: Opfer der Camberger Hexenverfolgung
+  hinrichtung: letzte bekannte Hinrichtung bei Hexenprozessen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Franz Lawaczeck
+EIGENSCHAFTEN:
+  geburt: 3. Juli 1880 in Camberg
+  tod: 20. Januar 1969 in Pöcking am Starnberger See
+  beruf: Ingenieur
+  funktion_prof: Professor für Hydraulik an der Hochschule Danzig (seit 1934)
+  partei: NSDAP-Mitglied (seit Mitte 1920er Jahre)
+  projekt_hauptwerk: Stufenkraftwerk Camberg
+  projekt_beschreibung: Wasserkraftwerk für Stromversorgung Landbevölkerung
+  publikation: 1932 in NS-Schriftenreihe „Nationalsozialistische Bibliothek"
+  projekt_ideologie: Ausschaltung des jüdischen Großkapitals aus Energiewirtschaft
+  projekt_schicksal: scheiterte, nicht wirtschaftlich
+  projekt_heute: Ruine vorhanden
+  rufen_von_seiten: "Erfinder-Ingenieur" (unter Auslassung NS-Beteiligung)
+  brueder: Ernst Lawaczeck, Paul Lawaczeck
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Heinz Schaus
+EIGENSCHAFTEN:
+  geburt: 15. Mai 1945
+  tod: 15. Juli 2026
+  funktion: Kommunalpolitiker
+  status: Ehrenbürger
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Caspar Hofmann
+EIGENSCHAFTEN:
+  geburt: 29. Oktober 1899 in Camberg
+  tod: 2. November 1987
+  beruf: katholischer Priester
+  funktion: Oberstudiendirektor
+  status: Ehrenbürger
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Daniel Rühl
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 25. April 2023
+  amtsdauer: 6 Jahre (2023-2029)
+  wahl: Direktwahl
+  wahltermin: 6. November 2022
+  wahlzahl: 71.2 Prozent der Stimmen
+  wahlbeteiligung: 55.9 Prozent
+  gegner: Jens-Peter Vogel (SPD)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Jens-Peter Vogel
+EIGENSCHAFTEN:
+  partei: SPD
+  amtsantritt: 25. April 2017
+  amtsende: 24. April 2023
+  amtsdauer: 6 Jahre (2017-2023)
+  waehler_abgeloest_von: Daniel Rühl
+GUELTIG_AB: 2017
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: stadtviertel_urspruenglich
+BEZEICHNUNG: Alsdorf
+EIGENSCHAFTEN:
+  beschreibung: inzwischen wüst gefallenes Dorf
+  lage: bei Würges
+  kirchspiel_zugehoerigkeit: gehörte zu Camberger Kirchspiel im Hochmittelalter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Selters
+EIGENSCHAFTEN:
+  lage_relativ: Norden
+  landkreis: Limburg-Weilburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Weilrod
+EIGENSCHAFTEN:
+  lage_relativ: Osten
+  landkreis: Hochtaunuskreis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Waldems
+EIGENSCHAFTEN:
+  lage_relativ: Südosten
+  landkreis: Rheingau-Taunus-Kreis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Idstein
+EIGENSCHAFTEN:
+  lage_relativ: Süden
+  landkreis: Rheingau-Taunus-Kreis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Hünstetten
+EIGENSCHAFTEN:
+  lage_relativ: Südwesten
+  landkreis: Rheingau-Taunus-Kreis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: nachbargemeinde
+BESCHREIBUNG: Hünfelden
+EIGENSCHAFTEN:
+  lage_relativ: Westen
+  landkreis: Limburg-Weilburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Chambray-lès-Tours
+EIGENSCHAFTEN:
+  land: Frankreich
+  schwesterstadt_seit: 3. Oktober 1987
+  kontakt_rhythmus: Partnerschaftstreffen spätestens alle fünf Jahre
+  teilnehmerzahl: bis zu 200 Bürger pro Seite
+  jubilaeum_feier: 25-jähriges Bestehen im Mai 2012 in Chambray
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Bad Sulza
+EIGENSCHAFTEN:
+  land: Deutschland (Thüringen)
+  freundschaftsvertrag_datum: 9. Januar 1991
+  vertrag_name: Vereinbarung über die Städtefreundschaft
+  kontakt: Bürgermeister und Spitzen der Verwaltung pflegen regelmäßigen Austausch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Camberg
+EIGENSCHAFTEN:
+  lage: Schmiedgasse
+  zeitliche_existenz: 17. Jahrhundert bis 1942
+  verstaerkung_1662: fünf jüdische Familien mit 32 Personen gezählt
+  bestaetigung_existenz_spaetestens: 1756
+  schaedigung: Novemberpogromen 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: friedhof
+BEZEICHNUNG: Judenfriedhof
+ORTSTEIL_BEZUG: Bad Camberg
+EIGENSCHAFTEN:
+  schaendung: 1938 nach Pogromnacht
+  beschreibung: alle Grabsteine umgeworfen
+GUELTIG_AB: 17. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Straßen Bad Cambergs (NS-Umbenennungen)
+EIGENSCHAFTEN:
+  strackgasse_neuer_name: Adolf-Hitler-Straße
+  evangelische_kirche_weg_neuer_name: Hermann-Göring-Straße
+  allee_zur_tenne_neuer_name: Hindenburg-Allee
+  stadtpark_neuer_name: Hindenburg-Anlage
+  neugasse_neuer_name: Peter-Gemeinder-Straße
+  gruener_platz_neuer_name: Horst-Wessel-Platz
+  umbenennungszeit: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: handelsstraße
+BEZEICHNUNG: Hohe Straße
+EIGENSCHAFTEN:
+  periode_praehistorie: Bronzezeit (ca. 1750 v. Chr. und davor)
+  verlauf: von Konstantinopel nach Brüssel
+  hoehenlage: auf der Wasserscheide der Bäche Ems und Wörs
+  bedeutung_spatmittelalter: 18. Jahrhundert nicht mehr benutzt
+  moderne_nachfolge: Verlauf folgt ungefähr der Autobahn A 3
+  wahrscheinliche_herkunft: Bronzezeit oder davor
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: handelsstraße
+BEZEICHNUNG: Limburger Weg
+EIGENSCHAFTEN:
+  ersterwahnung: 1355
+  funktion: Zubringer von der Stadt zur Hohen Straße
+  umbenennungen: 1959 in Taunusstraße, 1979 in Lahnstraße
+  grund_umbennung: Verwechslungsgefahr mit Limburger Straße
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: strasse
+BEZEICHNUNG: Bundesstraße 8
+EIGENSCHAFTEN:
+  frueheres_name: Fernverkehrsstraße 8 (FVS 8)
+  frueheres_name_2: Reichsstraße 8 (R 8)
+  development_zeit: Anfang 20. Jahrhundert
+  verlauf_stadt: durch Erbach, Bad Camberg, Würges, an Oberselters vorbei
+  planung_umgehungsstrasse: seit über 30 Jahren geplant
+  baustart_umgehungsstrasse: September 2023
+  verkehrsfreigabe_umgehungsstrasse_geplant: 2027
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Gebietsreform in Hessen 1970er Jahre
+EIGENSCHAFTEN:
+  reformtyp: Kommunale Arbeitsgemeinschaft Goldener Grund
+  inkoeffektivdatum: 13. August 1970
+  ziel: freiwilliger Zusammenschluss der Goldenen Grund Gemeinden
+  gemeinden_unterzeichner: 10 Gemeinden
+  beschreibung: Eingemeindung Würges, Erbach, Schwickershausen, Dombach zur Stadt Camberg
+  finales_datum_fusion: 1. Juli 1974
+  fusionstyp: Landesgesetz (Zwangsvereinigung)
+  oberselters_sonderstatus: schloss sich dem Verband an
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kindergarten
+BESCHREIBUNG: Kindergärten Bad Camberg
+EIGENSCHAFTEN:
+  anzahl_gesamt: 7
+  stadt_kindergaerten_kernstadt: 2
+  stadt_kindergarten_wuerges: 1
+  katholische_kindergaerten: 3 (Kernstadt, Erbach, Oberselters)
+  waldkindergarten: 1 (seit 2007 in der Nähe der Kreuzkapelle)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Bad Camberg
+EIGENSCHAFTEN:
+  gruendung: 1898
+  jugendfeuerwehr_seit: 14. September 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Dombach
+EIGENSCHAFTEN:
+  gruendung: 1975
+  jugendfeuerwehr_seit: 22. Dezember 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Erbach
+EIGENSCHAFTEN:
+  gruendung: 1934
+  jugendfeuerwehr_seit: 4. März 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Oberselters
+EIGENSCHAFTEN:
+  gruendung: 1934
+  jugendfeuerwehr_seit: 4. Juni 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Schwickershausen
+EIGENSCHAFTEN:
+  gruendung: 1957
+  jugendfeuerwehr_seit: 10. November 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Würges
+EIGENSCHAFTEN:
+  gruendung: 1905
+  jugendfeuerwehr_seit: 2. Januar 1970
+  kinderfeuerwehr_seit: 28. Mai 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: organisation
+BEZEICHNUNG: DRK-Ortsverein Bad Camberg
+EIGENSCHAFTEN:
+  erste_gruendung: 1932
+  erste_fase_endet: 1945
+  zweite_gruendung: 1958
+  mitgliederzahl_aktuell: 518
+  taetigkeitsfelder: sozialer Bereich, Sanitätsdienst, humanitäre Hilfe, Katastrophenschutz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: zeitung
+BEZEICHNUNG: Nassauische Neue Presse
+EIGENSCHAFTEN:
+  start_publikation: 1948
+  typ: regionale Tageszeitung
+  dominanz: dominierende regionale Tageszeitung in Bad Camberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: publication
+BEZEICHNUNG: Lokalanzeiger
+EIGENSCHAFTEN:
+  typ: Anzeigenblatt
+  erscheintag: Samstag
+  verbreitung: kostenlos an alle Haushalte
+  inhalte: hauptsächlich Stadt und nähere Umgebung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: publication
+BEZEICHNUNG: Camberger Anzeiger
+EIGENSCHAFTEN:
+  typ: Anzeigenblatt
+  erscheintag: Donnerstag
+  verbreitung: kostenlos an alle Haushalte
+  inhalte: hauptsächlich Stadt und nähere Umgebung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

@@ -1,0 +1,1828 @@
+ZIELORT: Engers (Ortsteil von Neuwied)
+LAGE: Stadtteil von Neuwied; 8 km nördlich von Koblenz (Luftlinie)
+ARTIKEL: Engers
+
+GRUNDDATEN:
+  landkreis: Landkreis Neuwied — GILT FÜR DIE GEMEINDE NEUWIED  [Wikidata P131]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 5202  [dewiki Infobox, Stand 2026-07-06]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE NEUWIED  [Wikidata P395]
+  hoehe_m: 70 | 73  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2930166)]
+  naechste_grossstadt: Koblenz, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 72 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  eingemeindung: 1970-11-07  [dewiki Infobox]
+  plz: 56566  [Wikidata P281]
+  vorwahl: 02622  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 30 %, SPD 21,3 %, AfD 20,7 %, GRÜNE 8,1 %, Die Linke 7,4 %, BSW 5 %; Wahlbeteiligung 74,9 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich); Zuordnung der Stimmbezirke zum Stadtteil nach der Stimmbezirkseinteilung der Stadt Neuwied, Stand 2025-02-23]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT hoehe_m: Höhe des Orts (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT eingemeindung: Jahr der Eingemeindung (Ersatz: Luftlinie zur Landeshauptstadt), C, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Bendorf (Stadt)
+  landkreis: Mayen-Koblenz  [dewiki Infobox]
+  einwohner: 17.661  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 24,12  [Wikidata P2046; Altbestand staedte.json]
+  kfz: MYK (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 115 | 96 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2951111)]
+  naechste_grossstadt: Koblenz, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 29,2 %, AfD 21,3 %, SPD 19,5 %, GRÜNE 9 %, Die Linke 7,2 %; Wahlbeteiligung 79,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Bendorf, Engers, Heimbach-Weis, Altwied, Rengsdorf, Dierdorf, Waldbreitbach, Linz am Rhein, Bad Hönningen, Leutesdorf
+
+FAKTEN (Zielort Engers):
+ID: 02-engers/001
+ENTITÄT: ort
+BEZEICHNUNG: Engers
+EIGENSCHAFTEN:
+  war_eigenstaendige_stadt_bis: 1970
+  ist_heute_stadtteil_von: Neuwied
+  aelteste_siedlung_superlativ: älteste römische Siedlung am rechten Rheinufer
+  lage_rheinkilometer: 601
+  lage_beschreibung: am rechten Ufer des Mittelrheins, am Fuß des Westerwalds
+  entfernung_koblenz: ca. 12 km nördlich
+  lage_landstrich: Neuwieder Becken
+  nachbargemeinden: zwischen Neuwied und Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 02-engers/002
+ENTITÄT: gau
+BEZEICHNUNG: Engersgau
+EIGENSCHAFTEN:
+  namensgebung: nach seinem Hauptort benannt
+  ersterwaehnungsquelle: Lorscher Codex
+  ersterwaehnungsdatum: 24. Juni 773
+  funktion: karolingischer Verwaltungsbezirk
+  grenzbeschreibung_nord: ripuarische Landschaften Ahrgau und Auelgau an der Sieg
+  grenzbeschreibung_sued: Lahn und Rhein
+  grenzbeschreibung_west: Rhein
+  grenzbeschreibung_ost: Wasserscheide zwischen Sieg und Wied bis Wiedquelle, Gelbachquelle bis Lahn-Mündung
+GUELTIG_AB: 773
+GUELTIG_BIS: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-engers/003
+ENTITÄT: ortsname
+BEZEICHNUNG: Engers (Etymologie)
+EIGENSCHAFTEN:
+  namensherkunft: althochdeutsch Angar bedeutet freie Ebene
+  etymologische_entwicklung: ahd. angar → ahd. anger → mhd. enger
+  sprachliche_gruende: Primärumlaut und Endsilbenabschwächung
+  mittelhochdeutsche_bedeutung: Anger bezeichnet Dorfwiese in Gemeindebesitz, lässt auf bäuerliche Grundlage schließen
+  kulturelle_referenz: zweiter Teil der Carmina Burana Uf dem Anger von Carl Orff
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-engers/004
+ENTITÄT: ortsname
+BEZEICHNUNG: Engersbach
+EIGENSCHAFTEN:
+  namensherkunft: zusammensetzt aus althochdeutschen Wörtern Angar (Engers) und Isa (Bach)
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 02-engers/005
+ENTITÄT: ortsname
+BEZEICHNUNG: Cunen-Engers
+EIGENSCHAFTEN:
+  beiname_grund: Maßnahmen des Trierer Kurfürsten Kuno von Falkenstein im 14. Jahrhundert für Schlossbau, Zoll und Stadtmauer
+GUELTIG_AB: 1371
+GUELTIG_BIS: 1450
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 02-engers/006
+ENTITÄT: archaeologische_stelle
+BEZEICHNUNG: aeltestes_graberfeld_engers
+EIGENSCHAFTEN:
+  anzahl_graeber: 40
+  zeitraum: 800-600 v. Chr.
+  beschreibung: Gräberfeld aus Eisenzeit, älteste bekannte Gräberstätte in Engers
+GUELTIG_AB: -800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/007
+ENTITÄT: siedlungsspur
+BESCHREIBUNG: älteste Siedlungsspuren stammen aus der Jungsteinzeit
+EIGENSCHAFTEN:
+  zeitraum_neolithikum: Jungsteinzeit
+  zeitraum_eisenzeit: 800-600 v. Chr., bronzezeitliche Gegenstände
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 02-engers/008
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Caesar_Brueckenschlag_55_v_Chr
+EIGENSCHAFTEN:
+  ereignis: Brückenschlag von Urmitz über den Rhein unter Julius Caesar
+  historische_bedeutung: Bestrafung der germanischen Sugambrer
+  exakter_ort: umstritten
+  archäologische_evidenz: 1885 mit Dampfbagger Reste von Eichenpfählen aus Rhein ausgegraben
+  datierung_moderner_methoden: Mitte des 1. Jahrhunderts v. Chr.
+GUELTIG_AB: -55
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/009
+ENTITÄT: infrastruktur
+BEZEICHNUNG: roemischer_hafen_engers
+EIGENSCHAFTEN:
+  existenzdauer: zur Zeit der römischen Besatzung
+  evidenz: um 1800 bei Niedrigwasser Pfahlreste sichtbar
+GUELTIG_AB: -100
+GUELTIG_BIS: 400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 02-engers/010
+ENTITÄT: militaerbauwerk
+BEZEICHNUNG: burgus_neuwied_engers
+EIGENSCHAFTEN:
+  typ: römisches Kastell
+  entstehungszeit: viertes Jahrhundert
+  ausgrabung_jahr: 1951
+  ausgegraben_durch: Josef Röder vom Rheinischen Landesmuseum Trier
+  location_heute: Rheinanlagen, Überreste noch sichtbar
+GUELTIG_AB: 300
+GUELTIG_BIS: 400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-engers/011
+ENTITÄT: befestigungsanlage
+BEZEICHNUNG: roemischer_limes
+EIGENSCHAFTEN:
+  lage_relativ_zu_engers: nur wenige Kilometer entfernt
+  rekonstruiertes_element: römischer Wachturm im Wald bei Sayn
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/012
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm_I_von_Wied
+EIGENSCHAFTEN:
+  titel: Graf
+  lebensdaten: 1324–1383
+  ereignis_1357: erhielt am 7. Februar 1357 in Maastricht von Kaiser Karl IV. Stadt- und Marktrechte für Engers
+  ereignis_bauwerk: errichtete 1357–1371 Grauen Turm
+  konflikt: Fehde mit Erzbischof Kuno II. von Falkenstein
+  konflikt_beschreibung: Überfall auf niederländische Kaufleute, Raub von Tuch, Gegenoffensive durch Kuno II., Verlust von Engers
+  konflikt_datum: um 16. März 1371
+  suehne_datum: 25. April 1371
+  suehne_verluste: Abgabe von Dorf und Gericht Engers an Kuno II., Übergabe der Burgen Dierdorf, Rückeroth und Rohrburg
+GUELTIG_AB: 1357
+GUELTIG_BIS: 1383
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-engers/013
+ENTITÄT: person
+BEZEICHNUNG: Kaiser_Karl_IV
+EIGENSCHAFTEN:
+  handlung: verlieh am 7. Februar 1357 Stadt- und Marktrechte für Engers an Graf Wilhelm I. von Wied
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/014
+ENTITÄT: bauwerk
+BEZEICHNUNG: Grauer_Turm
+EIGENSCHAFTEN:
+  bauzeit: 1357–1371
+  erbauer: Graf Wilhelm I. zu Wied
+  ursprungliche_bezeichnung: Graven-Turm (Grafen-Turm)
+  heutige_bezeichnung: Grauer_Turm
+  entstehung_namenswechsel: Schreibfehler wandelte Graven in Grauer um
+  urspruengliche_ausstattung: Spitzhaube, überdachter Gang zum Rhein
+  urspruenglicher_zweck: Rheinzolleintreibung
+  zweck_heute: Büro und Aussichtspunkt
+  location: Rheinuferpromenade
+GUELTIG_AB: 1357
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 02-engers/015
+ENTITÄT: person
+BEZEICHNUNG: Erzbischof_Kuno_II_von_Falkenstein
+EIGENSCHAFTEN:
+  titel: Erzbischof von Trier
+  lebensdaten: 1362–1388
+  ereignis: um 16. März 1371 Konflikt mit Graf Wilhelm I. von Wied
+  aktion_verfolgung: Verfolgung der Räuber nach Isenburg mit Unterstützung von Bürgern aus Köln und Aachen
+  aktion_verwuestung: Verwüstung von wiedischem und isenburgischem Gebiet
+  aktion_eroberung: Eroberung von Engers
+  bauwerk: Bau der Burg Cunostein in Engers ab 1371
+  stadtbefestigung: Errichtung einer Stadtbefestigung im Halbkreis
+GUELTIG_AB: 1371
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-engers/016
+ENTITÄT: militaerbauwerk
+BEZEICHNUNG: burg_cunostein
+EIGENSCHAFTEN:
+  baubeginn: 1371
+  erbauer: Erzbischof Kuno II. von Falkenstein
+  bauzeit_turm_grauer_turm: ungefähr 1378 bis Grauen Turm
+  beschreibung_lage: am Rhein
+  schaden_30jaehriger_krieg: 1632 oder 1633 schwedische Besatzung, nach drei Jahren durch Kaiserliche Truppen beschossen, danach baufällig
+GUELTIG_AB: 1371
+GUELTIG_BIS: 1650
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-engers/017
+ENTITÄT: verwaltungselement
+BEZEICHNUNG: rheinzoll
+EIGENSCHAFTEN:
+  verlegung_von: Burg Stolzenfels bei Koblenz
+  verlegung_nach: Engers
+  verlegung_datum: 1412
+  verlegung_unter: Werner von Falkenstein
+  aufgabe_grund: ungünstige Wasserverhältnisse
+  aufgabe_ziel: Rückverlagerung zu Koblenz
+GUELTIG_AB: 1412
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 02-engers/018
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: dreißigjähriger_krieg_engers
+EIGENSCHAFTEN:
+  besatzungsmaechte: schwedische Truppen
+  besatzungszeitraum: 1632 oder 1633, drei Jahre
+  folgen: Nach Abzug durch Kaiserliche Truppen Beschießung der Burg Kunostein, danach baufällig
+GUELTIG_AB: 1632
+GUELTIG_BIS: 1635
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 02-engers/019
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: pest_1662
+EIGENSCHAFTEN:
+  jahr: 1662
+  auswirkung: nur fünf Familien überleben
+  migration: Menschen aus dem unbefestigten, oft geplünderten Reil ziehen in Engers ein
+  bevölkerungsbestand_1684: 59 Familien
+GUELTIG_AB: 1662
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/020
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: franzoesische_revolution_1794
+EIGENSCHAFTEN:
+  ereignis: Einzug französischer Revolutionstruppen
+  folgen: Clemens Wenzeslaus von Sachsen flieht aus Koblenz, Engers wird besetzt
+GUELTIG_AB: 1794
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/021
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: napoleonische_besatzung_engers
+EIGENSCHAFTEN:
+  status_nach_1815: preußisch
+  status_dauer: bis 1945
+  erste_besatzung_nach_wk1: US-amerikanisch bis 1922
+  zweite_besatzung_nach_wk1: französisch 1922-1926
+GUELTIG_AB: 1815
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-engers/022
+ENTITÄT: institution
+BEZEICHNUNG: kriegsschule_engers
+EIGENSCHAFTEN:
+  location: Schloss Engers
+  gueltig_ab: 1863
+  gueltig_bis: 1918 (bis zum Ersten Weltkrieg)
+  status: preußische Kriegsschule
+GUELTIG_AB: 1863
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-engers/023
+ENTITÄT: person
+BEZEICHNUNG: Bürgermeister_Darius
+EIGENSCHAFTEN:
+  amtszeit_anfang: seit dem Ersten Weltkrieg
+  absetzung_datum: 17. März 1933
+  absetzung_grund: NS-Regime
+GUELTIG_AB: 1918
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 02-engers/024
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: reichspogromnacht_engers
+EIGENSCHAFTEN:
+  datum: 9. November 1938
+  auswirkung: Übergriffe auf jüdische Familien in Engers
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/025
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: zweiter_weltkrieg_engers
+EIGENSCHAFTEN:
+  ereignis_luftangriffe: zahlreiche Luftangriffe der Alliierten
+  ereignis_brueckensprengung: Eisenbahnbrücke zwischen Engers und Urmitz am 9. März um 7:30 Uhr gesprengt
+  ereignis_brueckensprengung_kontext: deutsche Pioniere sprengten die Brücke, ca. 100 Menschen auf Brücke, davon meiste deutsche Soldaten auf Rückzug
+  ereignis_brueckensprengung_folgenwirkung: sämtliche Verbindungen zum linken Rheinufer unterbrochen
+  ereignis_alliierte_ankunft: Palmsonntag, 25. März 1945
+  ereignis_kampfende: direkte Kampfhandlungen in diesem Frontabschnitt beendet
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-engers/026
+ENTITÄT: verwaltungselement
+BEZEICHNUNG: stadt_engers_historischer_status
+EIGENSCHAFTEN:
+  gueltig_bis_1803: Amt Bergpflege im Kurfürstentum Trier
+  1803_1806: rechtsrheinische Gebiete zu Nassau-Weilburg
+  1806_1815: Herzogtum Nassau
+  1815_1822: Königreich Preußen, Sitz der Bürgermeisterei Engers, Kreis Koblenz, Regierungsbezirk Koblenz
+  ab_1822: Kreis Neuwied
+  1957_06_02: Wiedererlangung der Stadtrechte durch Landesregierung (formell verloren seit rheinischer Städteordnung 1856)
+  1970_11_07: durch Gesetz vom 28. Juli 1970 Zuordnung zu Stadt Neuwied
+  1971_01_22: Stadtteil Neuwied durch Beschluss Stadtrat
+  seit_2001: Ortsbeirat und Ortsvorsteher vertreten Engers
+GUELTIG_AB: 1803
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-engers/027
+ENTITÄT: bauwerk
+BEZEICHNUNG: schloss_engers
+EIGENSCHAFTEN:
+  bauzeit: 1759-1764
+  erbauer: Johann Philipp von Walderdorff
+  titel_erbauer: Erzbischof und Kurfürst von Trier, Fürstbischof von Worms
+  zweck: Jagd-, Lust- und Sommerschloss
+  lage: direkt am Rheinufer
+  architekt: Johannes Seiz (Pläne)
+  spaetere_nutzung_1995: Akademiebetrieb Villa Musica
+GUELTIG_AB: 1759
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 02-engers/028
+ENTITÄT: bauwerk
+BEZEICHNUNG: altes_rathaus_engers
+EIGENSCHAFTEN:
+  erbaut_jahr: 1642
+  location: Ortsmitte gegenüber dem Schlosshof
+GUELTIG_AB: 1642
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/029
+ENTITÄT: bauwerk
+BEZEICHNUNG: schlossschenke_engers
+EIGENSCHAFTEN:
+  erbaut_jahr: 1621
+  location: Ortsmitte gegenüber dem Schlosshof
+GUELTIG_AB: 1621
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/030
+ENTITÄT: befestigungsanlage
+BEZEICHNUNG: alte_stadtbefestigung
+EIGENSCHAFTEN:
+  baubeginn: 1371
+  erhaltene_teile: Teile der Stadtmauer
+  turm_grauer: Graue Turm an Rheinuferpromenade
+  turm_duckesje: Duckesje bei der Katholischen Kirche
+  turm_wehrturm: weiterer Wehrturm bei der Katholischen Kirche
+GUELTIG_AB: 1371
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-engers/031
+ENTITÄT: wohnbau
+BEZEICHNUNG: fachwerkhaus_am_rhein_heinrich
+EIGENSCHAFTEN:
+  beschreibung_volksmunde: im Volksmunde ältestes Haus von Engers
+  erbaut_jahr: um 1617
+  structure: aus zwei Baukörpern bestehend
+  location: Am Heinrichhaus 9 und Helle 2
+  besonderheit_keller_erdgeschoss: Reste der Stadtmauer und eines Stadtmauerturms (Zollpfortenturm) ab 1371
+GUELTIG_AB: 1617
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/032
+ENTITÄT: kirche
+BEZEICHNUNG: katholische_pfarrkirche_st_martin
+EIGENSCHAFTEN:
+  erbaut_jahr: 1896
+  stil: neospätromanisch
+  bauweise: Architekturgliederungen rheinischer Prägung aus Backstein und Tuff
+  denkmalschutz_seit: 2003
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-engers/033
+ENTITÄT: kirche
+BEZEICHNUNG: evangelische_pfarrkirche_engers
+EIGENSCHAFTEN:
+  erbaut_jahr: 1900
+  stil: neospätgotisch
+  merkmale_turm: Turm mit spitzem Pyramidendach
+  denkmalschutz_seit: 2003
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-engers/034
+ENTITÄT: infrastruktur
+BEZEICHNUNG: bahnhof_engers
+EIGENSCHAFTEN:
+  erbaut_jahr: 1869
+  architektur: ehemaliges Empfangsgebäude
+  funktion_originalzeit: Knotenpunkt im Personen- und Gütereisenbahnverkehr
+  funktion_bis: Ende des 20. Jahrhunderts
+  lage: rechte Rheinstrecke
+GUELTIG_AB: 1869
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-engers/035
+ENTITÄT: infrastruktur
+BEZEICHNUNG: wasserturm_engers
+EIGENSCHAFTEN:
+  erbaut_jahr: 1900
+  funktion: Versorgung mit gespeichertem Wasser für ganz Engers
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/036
+ENTITÄT: institution
+BEZEICHNUNG: villa_musica
+EIGENSCHAFTEN:
+  gueltig_ab: 1995
+  gueltig_ab_monat: im Jahre
+  location: Schloss Engers
+  traeger: rheinland-pfälzische Landesstiftung
+  funktion: Akademiebetrieb
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-engers/037
+ENTITÄT: institution
+BEZEICHNUNG: landesmusikakademie_rheinland_pfalz
+EIGENSCHAFTEN:
+  gueltig_ab: 2003
+  location: Engerser Meisterhaus nahe dem Heinrich-Haus
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-engers/038
+ENTITÄT: politisches_gremium
+BEZEICHNUNG: ortsbeirat_engers
+EIGENSCHAFTEN:
+  groesse: 8 Ratsmitglieder
+  wahlverfahren: personalisierte Verhältniswahl
+  letzte_wahl_datum: 9. Juni 2024
+  vorsitz: ehrenamtlicher Ortsvorsteher
+  vertreter_seit: 2001
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-engers/039
+ENTITÄT: person
+BEZEICHNUNG: dieter_neckenig
+EIGENSCHAFTEN:
+  position: Ortsvorsteher (ehrenamtlich)
+  partei: CDU
+  amtsantritt: 2014
+  bestaetigung_datum_1: 26. Mai 2019 für weitere fünf Jahre
+  bestaetigung_datum_2: 9. Juni 2024 mit 52,4% Stimmenanteil
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 02-engers/040
+ENTITÄT: infrastruktur
+BEZEICHNUNG: rheinstrecke_rb_27
+EIGENSCHAFTEN:
+  linie: RB 27 (Rheinbahn)
+  verlauf: Koblenz–Neuwied–Bonn–Beuel–Köln/Bonn Flughafen–Köln–Grevenbroich–Mönchengladbach
+  betrieb: Rheinland-Pfalz-Takt, täglich im Stundentakt
+  tarifgebiet: Verkehrsverbund Rhein-Mosel VRM
+  haltestelle: Bahnhof Engers
+GUELTIG_AB: 1869
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-engers/041
+ENTITÄT: infrastruktur
+BESCHREIBUNG: Schiffsanleger in Engers am Rhein
+EIGENSCHAFTEN:
+  location: Rhein bei Engers
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 02-engers/042
+ENTITÄT: infrastruktur_bahn
+BEZEICHNUNG: brexbachtalbahn_holzbachtalbahn
+EIGENSCHAFTEN:
+  haltestelle: Engers
+  strecke: Au (Sieg)–Altenkirchen–Flammersfeld–Puderbach–Selters–Siershahn–Ransbach/Baumbach–Grenzau–Engers
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/043
+ENTITÄT: verein
+BEZEICHNUNG: fv_engers_07
+EIGENSCHAFTEN:
+  sport: Fußball
+  liga_aktuell: Oberliga Rheinland-Pfalz/Saar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-engers/044
+ENTITÄT: vereinsstruktur
+BEZEICHNUNG: bürgerverein_engers
+EIGENSCHAFTEN:
+  funktion: Dachverband für Vereine in Engers
+  vereinstypen: Sport, Chöre, soziale Vereine, Kleinvereine, Traditionsvereine
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/045
+ENTITÄT: kulturelle_tradition
+BEZEICHNUNG: kirmesjahrgaenge
+EIGENSCHAFTEN:
+  beschreibung: Jahrgänge treten abwechselnd in grün-weiß und rot-weiß auf
+  charakter: stehen in Konkurrenz zueinander
+  bezug: Engerser Kirmes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 02-engers/046
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: engerser_karneval
+EIGENSCHAFTEN:
+  zeitraum: Schwerdonnerstag bis Aschermittwoch
+  touristischer_wert: touristisch interessant
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/047
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: engerser_tribut_pfingstreiter
+EIGENSCHAFTEN:
+  zeitraum: Pfingstdienstag
+  beschreibung: Tribute an die Heddesdorfer Pfingstreiter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 02-engers/048
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: engerser_kirmes
+EIGENSCHAFTEN:
+  zeitraum: 10 Tage nach Fronleichnam
+  touristischer_wert: touristisch interessant
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/049
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: nussknackermarkt
+EIGENSCHAFTEN:
+  zeitraum: erstes Adventswochenende
+  touristischer_wert: touristisch interessant
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/050
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: openair_konzerte_engers
+EIGENSCHAFTEN:
+  beschreibung: zahlreiche Openair-Konzerte und Musikveranstaltungen
+  anbieter: Chöre und Villa Musica
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 02-engers/051
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: nachtwächterführung_engers
+EIGENSCHAFTEN:
+  beschreibung: Führung durch Engers mit Nachtwächter
+  erfolg: überraschend erfolgreich
+  haeufigkeit: mindestens zweimal im Monat aufgrund großer Nachfrage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/052
+ENTITÄT: person
+BEZEICHNUNG: georg_von_viebahn
+EIGENSCHAFTEN:
+  lebensdaten: 1840–1915
+  position: Kommandeur der Kriegsschule Engers
+  position_zeitraum: 1883–1888
+  beisetzung: 1915 in Engers begraben
+  grabstaette: Familienfriedhof von Viebahn (Grabsteine seit 1952 an Nordseite der Evangelischen Kirche)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-engers/053
+ENTITÄT: person
+BEZEICHNUNG: carl_wilhelm_weniger
+EIGENSCHAFTEN:
+  lebensdaten: 1874–1945
+  position: Konteradmiral der Kriegsmarine
+GUELTIG_AB: 1874
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/054
+ENTITÄT: person
+BEZEICHNUNG: alfred_bernau
+EIGENSCHAFTEN:
+  geburtsname: Adolf Breidbach
+  lebensdaten: 1879–1950
+  beruf: Schauspieler
+  beruf_2: Regisseur
+  beruf_3: Theaterdirektor
+GUELTIG_AB: 1879
+GUELTIG_BIS: 1950
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/055
+ENTITÄT: person
+BEZEICHNUNG: heinrich_zimmermann
+EIGENSCHAFTEN:
+  lebensdaten: 1915–1980
+  position: römisch-katholischer Theologe
+  position_2: Neutestamentler
+GUELTIG_AB: 1915
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/056
+ENTITÄT: person
+BEZEICHNUNG: otto_bach
+EIGENSCHAFTEN:
+  lebensdaten: 1924–2010
+  position: Pädagoge
+  position_2: Heimatforscher
+GUELTIG_AB: 1924
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/057
+ENTITÄT: person
+BEZEICHNUNG: hans_trees
+EIGENSCHAFTEN:
+  lebensdaten: 1925–2005
+  position: Politiker
+  partei: SPD
+  position_2: Landtagsabgeordneter
+  bürgermeister_engers: 1964–1966
+  burgermeister_amt_engers: 1966–1970
+  bürgermeister_neuwied: 1971–1990
+GUELTIG_AB: 1925
+GUELTIG_BIS: 2005
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 02-engers/058
+ENTITÄT: person
+BEZEICHNUNG: laurentius_klein
+EIGENSCHAFTEN:
+  lebensdaten: 1928–2002
+  position: Abt der Benediktiner
+GUELTIG_AB: 1928
+GUELTIG_BIS: 2002
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/059
+ENTITÄT: person
+BEZEICHNUNG: karl_heinz_böckstiegel
+EIGENSCHAFTEN:
+  lebensdaten: 1936–2025
+  position: Rechtswissenschaftler
+GUELTIG_AB: 1936
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/060
+ENTITÄT: person
+BEZEICHNUNG: edgar_streck
+EIGENSCHAFTEN:
+  geburt_ca: * 1942
+  position: Jurist
+  position_2: Richter am Bundesgerichtshof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/061
+ENTITÄT: person
+BEZEICHNUNG: wolfram_maas
+EIGENSCHAFTEN:
+  geburt_ca: * 1950
+  position: Diplomat
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/062
+ENTITÄT: person
+BEZEICHNUNG: wolfgang_christ
+EIGENSCHAFTEN:
+  geburt_ca: * 1951
+  position: Architekt
+  position_2: Stadtplaner
+  position_3: Hochschullehrer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/063
+ENTITÄT: person
+BEZEICHNUNG: achim_fink
+EIGENSCHAFTEN:
+  geburt_ca: * 1954
+  position: Jazz-Musiker
+  position_2: Rock-Musiker
+  position_3: Pop-Musiker
+  position_4: Theatermusiker
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/064
+ENTITÄT: person
+BEZEICHNUNG: herbert_zimmermann
+EIGENSCHAFTEN:
+  geburt_ca: * 1954
+  position: Fußballspieler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 02-engers/065
+ENTITÄT: person
+BEZEICHNUNG: wolfgang_m_schmitt
+EIGENSCHAFTEN:
+  geburt_ca: * 1987 oder 1988
+  position: Literaturwissenschaftler
+  position_2: Filmkritiker
+  position_3: Webvideo-Produzent
+  position_4: Podcast-Moderator
+  position_5: Autor
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+SPENDER: Gerolstein (nicht Teil der Fahrt)
+ENTITÄT: ort
+BEZEICHNUNG: Gerolstein
+EIGENSCHAFTEN:
+  lage: Eifel
+  bundesland: Rheinland-Pfalz
+  landkreis: Vulkaneifel
+  verwaltungssitz_verbandsgemeinde: Gerolstein
+  ist_stadt: true
+  rang_einwohner: zweitgrößte des Landkreises (nach Daun)
+  rang_fläche: flächenmäßig größte des Landkreises
+  ist_luftkurort: staatlich anerkannt
+  ist_mittelzentrum: true
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: burg
+BEZEICHNUNG: Löwenburg
+EIGENSCHAFTEN:
+  urkundliche_ersterwähnung_jahr: 1115
+  ursprüngliche_namensform: Burg Gerhardstein
+GUELTIG_AB: 1115
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadtrecht
+EIGENSCHAFTEN:
+  verliehen_jahr: 1336
+GUELTIG_AB: 1336
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: residenzstadt
+EIGENSCHAFTEN:
+  herrscherfamilie: Grafen von Blankenheim-Gerolstein
+  zeitraum: 1406-1524
+GUELTIG_AB: 1406
+GUELTIG_BIS: 1524
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: residenzstadt
+BEZEICHNUNG: Manderscheid-Residenz
+EIGENSCHAFTEN:
+  herrscherfamilie: Grafen von Manderscheid-Gerolstein
+  zeitraum: 1524-1697
+GUELTIG_AB: 1524
+GUELTIG_BIS: 1697
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Befreiung 1691
+EIGENSCHAFTEN:
+  typ: Zerstörung
+  ursache: Befreiung von französischer Besetzung
+  akteur: jülichsche Truppen
+  grad: fast vollständig zerstört
+  jahr: 1691
+GUELTIG_BIS: 1691
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: brand
+EIGENSCHAFTEN:
+  jahr: 1708
+  folge: Stadt wiederum fast vollständig vernichtet
+GUELTIG_BIS: 1708
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: brand
+EIGENSCHAFTEN:
+  jahr: 1784
+  folge: Stadt wiederum fast vollständig vernichtet
+GUELTIG_BIS: 1784
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Frieden von Lunéville
+EIGENSCHAFTEN:
+  ereignis: fiel das linksrheinische Gerolstein an Frankreich
+  jahr: 1801
+GUELTIG_BIS: 1801
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Reichsdeputationshauptschluss
+EIGENSCHAFTEN:
+  jahr: 1803
+  akteur: Graf Sternberg-Manderscheid
+  verlust: Blankenheim, Jünkerath, Gerolstein, Dollendorf
+  entschädigung: Güter der vormaligen Klöster Weissenau und Schussenried in Oberschwaben
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Wiener Kongress
+EIGENSCHAFTEN:
+  ergebnis: Gerolstein kam zum Königreich Preußen
+  jahr: 1815
+GUELTIG_BIS: 1815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: quelle
+BEZEICHNUNG: Gerolsteiner Mineralquelle
+EIGENSCHAFTEN:
+  historische_nutzung: Kelten und Römer
+  abfüllung_nachgewiesen_ab: 1724
+  abfüllung_verkauf: Wasser
+  basis_für: Gerolsteiner Mineralwasserindustrie
+  aktuelle_bedeutung: bis heute Grundlage der Mineralwasserindustrie
+GUELTIG_AB: 1724
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Bombardierung 1944/45
+EIGENSCHAFTEN:
+  grund: Eisenbahnknoten
+  zerstörungsgrad: 80 Prozent
+  auswirkung: Gerolstein stark zerstört
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadtrecht
+BEZEICHNUNG: Wiederverleihung
+EIGENSCHAFTEN:
+  jahr: 1953
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bewingen
+EIGENSCHAFTEN:
+  eingemeindung_datum: 7. Juni 1969
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hinterhausen
+EIGENSCHAFTEN:
+  eingemeindung_datum: 7. Juni 1969
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Lissingen
+EIGENSCHAFTEN:
+  eingemeindung_datum: 7. Juni 1969
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Büscheich
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gees
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Michelbach
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Müllenborn
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oos
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Roth
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: fundstätte
+BEZEICHNUNG: Buchenloch
+EIGENSCHAFTEN:
+  zeitliche_besiedlung: Altsteinzeit
+  bewohner: Neanderthaler, erste moderne Menschen
+  typ: Karsthöhle
+  länge: 36 [Meter]
+GUELTIG_AB: 50000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: fundstätte
+BEZEICHNUNG: Magdalenahöhle
+EIGENSCHAFTEN:
+  zeitliche_besiedlung: Altsteinzeit
+  bewohner: Neanderthaler, erste moderne Menschen
+GUELTIG_AB: 50000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: befestigung
+BEZEICHNUNG: Dietzenley
+EIGENSCHAFTEN:
+  zeitliche_nutzung: Bronzezeit
+  nutzer: Kelten
+  funktion: Fliehburg
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: archäologische_stätte
+BEZEICHNUNG: römische Tempel und Behausungen
+EIGENSCHAFTEN:
+  zeitliche_periode: römische Zeiten
+  status: Reste erhalten
+GUELTIG_AB: 100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Lissingen
+ORTSTEIL_BEZUG: Lissingen
+EIGENSCHAFTEN:
+  typ: ehemalige Wasserburg
+  lage_nähe: Kyll
+  älteste_gebäudeteile_jahr: 1280
+  urkundliche_erwähnung_jahr: 1212
+  besonderheit: nicht zerstört (anders als die meisten Eifler Burgen)
+  teilung_jahr: 1559
+  teilung_in: Nieder- und Oberburg
+  unterburg_nutzung: Veranstaltungs- und Kultureinrichtung
+GUELTIG_AB: 1212
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Erlöserkirche
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  bauzeit: 1907-1913
+  architekt: Franz Schwechten
+  einweihung_datum: 15. Oktober 1913
+  architektur_merkmale: großflächige Goldmosaiken, Rundbögen, dominierender Kuppel
+  beschreibung: für eine Kirche in der Diaspora geradezu verschwenderisch ausgestattet
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: römischer_herrensitz
+BEZEICHNUNG: Villa Sarabodis
+EIGENSCHAFTEN:
+  typ: Villa rustica
+  entdeckung_jahr: 1907
+  entdeckungsanlass: Vorarbeiten zum Bau der Erlöserkirche
+  datierung: 1. Jahrhundert nach Christus
+  artefakte: Fundamente, Hypokaustum (antike Fußbodenheizung)
+  exposition: in Schutzbau erhalten
+GUELTIG_AB: 100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kultstätte
+BEZEICHNUNG: Juddekirchhof
+PROPERTIES:
+  lage: oberhalb von Gerolstein auf der Hustley
+  typ: keltisch-römische Kultstätte
+  errichtung_jahr: 124 nach Christus
+  errichtet_durch: Römer Marcus Victorius Pellentius
+  mauerreste_größe: ca. 63 mal 46 [Meter]
+  gebäude_innerhalb: Fundamente mehrerer Gebäude, zwei Tempel
+  tempel_herkules: Herkules-Tempel
+  tempel_caiva: Tempel der keltischen Göttin Caiva
+  ausgrabungen_jahr: 1927/28
+GUELTIG_AB: 124
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnbetriebswerk Gerolstein
+EIGENSCHAFTEN:
+  status: ehemals bedeutsam
+  erhaltene_teile: Ringlokschuppen, Drehscheibe (betriebsfertig erhalten)
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: schule
+BEZEICHNUNG: St. Matthias-Gymnasium
+EIGENSCHAFTEN:
+  gründung_jahr: 26. April 1911
+  gründer_leiter: Studienrat Lipowicz
+  ursprünglicher_name: Höhere Knabenschule Gerolstein
+  ursprünglicher_standort: Hauptstraße 89
+  trägerschaft_erstmittel: privat
+  trägerschaft_wechsel_1: kommunal (nach Erstem Weltkrieg)
+  schließung_1: während Inflation (Schulgeld zu hoch)
+  wiedereröffnung_1: 1924
+  erste_schülerin: 1927
+  schulleiter_rahm: Hubert Rahm (1920-1954, 34 Jahre)
+  schließung_2: 1944 (Zweiter Weltkrieg)
+  gebäudenutzung_1944_45: Lazarett und Soldatenunterkunft
+  zerstörung: Bombenangriff
+  wiedereröffnung_2: 1946
+  neuerung_1946: mittlere Reife möglich
+  umbenennung_1: Progymnasium Gerolstein
+  neuer_standort_einweihung: 1953 (Digoinstraße)
+  erster_abiturjahrgang: 1958
+  schülerzahl_1974: 1200
+  wechsel_trägerschaft_2: Landkreis Daun (1975)
+  umbenennung_2: St. Matthias-Gymnasium Gerolstein (1975)
+  schulleiter_molitor: Hermann-Josef Molitor (25 Jahre, bis 1992)
+  schulleiter_steinmetz: Heribert Steinmetz (bis Sommer 2014)
+  schulleiter_schmitz: Jutta Schmitz (ab Sommer 2014)
+  sanierung: 1996-2006
+  jubiläum_100_jahr: 2011
+  superlativ: 100-jähriges Jubiläum mit Festakt, Projektwoche und Jubiläumschronik
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schulpartnerschaft
+BEZEICHNUNG: Lycée/Collège Digoin
+EIGENSCHAFTEN:
+  beginn: 1985
+  land: Frankreich
+  resultante_städtepartnerschaft: Gerolstein-Digoin (1987)
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schulpartnerschaft
+BEZEICHNUNG: Ramat Gan
+EIGENSCHAFTEN:
+  beginn: 1987
+  land: Israel
+  typ: Austauschbegegnungen
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schulpartnerschaft
+BEZEICHNUNG: Groupe Scolaire de Kansi
+EIGENSCHAFTEN:
+  beginn: 2007
+  land: Ruanda
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: internat
+BEZEICHNUNG: Bischöfliches Internat Albertinum
+ORTSTEIL_BEZUG: Albertinumweg
+EIGENSCHAFTEN:
+  standort: ehemaliges Hotel
+  betrieb_jahre: 1946-1982
+  aufarbeitungsprojekt_start: Herbst 2019
+  abschlussbericht: Februar 2022
+  beschuldigte_zahl: 12
+  beschuldigte_typ: Direktoren (Priester)
+  vorwürfe: körperliche, psychische und sexualisierte Gewalt
+  träger: Bistum
+  träger_kritik: Vernachlässigung und unzureichende Kontrolle
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1982
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Gerolsteiner Brunnen
+EIGENSCHAFTEN:
+  typ: Mineralwasserproduzent
+  sitz: Gerolstein
+  reputation: bundesweit bekannt
+  tätigkeitsradius: bundesweit
+GUELTIG_AB: 1724
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Vulkan-Eifel-Bahn Betriebsgesellschaft
+EIGENSCHAFTEN:
+  sitz: Gerolstein
+  tätigkeitsradius: bundesweit
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: AKE-Eisenbahntouristik
+EIGENSCHAFTEN:
+  sitz: Gerolstein
+  relation_zu_vulkan_eifel_bahn: Schwesterunternehmen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: öffentliches WLAN
+EIGENSCHAFTEN:
+  kostenlose_standorte: 30
+  verfügbarkeit_seit: Sommer 2016
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: militärbasis
+BEZEICHNUNG: Eifelkaserne
+EIGENSCHAFTEN:
+  einheit: Informationstechnikbataillon 281
+  spezialanlage_bsg_g: eine von drei festen Bodenstationen des bundeswehreigenen Satellitenkommunikationssystems SATCOMBw
+  antennen_beschreibung: zwei C-Band-, eine X-Band-, zwei Ku-Band-Antennen
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sportanlage
+BEZEICHNUNG: Zentrale Sportanlage Gerolstein
+EIGENSCHAFTEN:
+  anlagen: Leichtathletikanlagen, Rasenplatz, Basketball- und Volleyballfelder
+  ansässiger_verein: SV Gerolstein
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: geologische_formation
+BEZEICHNUNG: Gerolsteiner Dolomiten
+EIGENSCHAFTEN:
+  höhe_über_kyll: 100 [Meter]
+  typ: devonisches Kalkriff
+  bildner: ausgestorbene Rugosen, Tabulaten, Stromatoporen
+  bestandteile_gebirgsmassiv: Hustley, Munterley, Auberg
+  visuelle_dominanz: 100 [Meter] über dem Talniveau
+  domination_ortsbild: ja
+GUELTIG_AB: 400000000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: naturdenkmale
+BEZEICHNUNG: Papenkaule
+EIGENSCHAFTEN:
+  typ: Trockenmaar
+GUELTIG_AB: 50000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: höhlen
+BEZEICHNUNG: Mühlsteinhöhlen/Eishöhlen
+ORTSTEIL_BEZUG: Roth
+EIGENSCHAFTEN:
+  typ: Höhlensystem
+GUELTIG_AB: 100000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: museum
+BEZEICHNUNG: Naturkundemuseum
+EIGENSCHAFTEN:
+  standort: in und um Gerolstein
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: museum
+BEZEICHNUNG: Kreisheimatmuseum
+EIGENSCHAFTEN:
+  standort: in und um Gerolstein
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: fundgebiet
+BEZEICHNUNG: Trilobitenfelder von Gees
+ORTSTEIL_BEZUG: Gees (südöstlich)
+EIGENSCHAFTEN:
+  lage_richtung: Richtung Salm
+  typ: bekanntes Fundgebiet
+  status: unter Naturschutz
+  fossilien: devonische Trilobiten (außergewöhnlich gut erhalten)
+GUELTIG_AB: 400000000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Digoin
+EIGENSCHAFTEN:
+  land: Frankreich
+  seit: 1987
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Gilze-Rijen
+EIGENSCHAFTEN:
+  land: Niederlande
+  seit: 1981
+  besonderheit: Kündigung durch Partnergemeinde, jedoch nicht akzeptiert von Gerolstein
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: stadtrat
+EIGENSCHAFTEN:
+  mitglieder: 24 Ratsmitglieder
+  wahl_datum: 9. Juni 2024
+  wahlmodus: personalisierte Verhältniswahl
+  vorsitzender_titel: ehrenamtlicher Stadtbürgermeister
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Winfried Wülferath
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 22. April 2026
+  wahlmodus: Direktwahl
+  wahl_datum: 22. März 2026 (parallel zur Landtagswahl)
+  wahl_stimmen_prozent: 75,8
+  gegner: parteilos
+  wahlperiode_bis: 2029
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Stefanie Lorisch
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 17. Juli 2024
+  amtsende_geplant: August 2025 (Rücktritt)
+  wahl_datum: 9. Juni 2024
+  wahl_stimmen_prozent: 51,0
+  gegner: Amtsinhaber
+  grund_amtsende: Rücktritt angekündigt
+GUELTIG_AB: 2024
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Uwe Schneider
+EIGENSCHAFTEN:
+  partei: SPD
+  amtsantritt: Juni 2019
+  wahlmodus: Stichwahl
+  gegner: Friedhelm Bongartz (CDU, Amtsinhaber)
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Hubert Rahm
+EIGENSCHAFTEN:
+  beruf: Schulleiter
+  verleihung_jahr: 1959
+GUELTIG_AB: 1959
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Herbert Neusen
+EIGENSCHAFTEN:
+  beruf: Geschäftsführer Gerolsteiner Brunnen
+  verleihung_jahr: 1985
+GUELTIG_AB: 1985
+IST_VERMUTISCH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Pierre Sefer
+EIGENSCHAFTEN:
+  verdienst: Städtepartnerschaft mit Digoin/Burgund
+  verleihung_jahr: 2007
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Maria Reese
+EIGENSCHAFTEN:
+  geboren: 1889
+  gestorben: 1958
+  berufe: Schriftstellerin, Journalistin, Politikerin
+  parteien: SPD, KPD
+GUELTIG_AB: 1889
+GUELTIG_BIS: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Rolf Huisgen
+EIGENSCHAFTEN:
+  geboren: 1920
+  gestorben: 2020
+  beruf: Chemiker
+GUELTIG_AB: 1920
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Alois Mertes
+EIGENSCHAFTEN:
+  geboren: 1921
+  gestorben: 1985
+  berufe: Politiker, Diplomat, Staatsminister
+  partei: CDU
+  amt: Auswärtiges Amt
+GUELTIG_AB: 1921
+GUELTIG_BIS: 1985
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ernst Pieper
+EIGENSCHAFTEN:
+  geboren: 1928
+  gestorben: 1995
+  beruf: Industriemanager
+GUELTIG_AB: 1928
+GUELTIG_BIS: 1995
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Heinrich Schmitz
+EIGENSCHAFTEN:
+  geboren: 1929
+  gestorben: 2000
+  beruf: Politiker
+  partei: CDU
+GUELTIG_AB: 1929
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Matthias Krings
+EIGENSCHAFTEN:
+  geboren: 1943
+  beruf: Moderator
+GUELTIG_AB: 1943
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Eva Hahn
+EIGENSCHAFTEN:
+  geboren: 1946
+  beruf: Historikerin
+GUELTIG_AB: 1946
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hans Henning Hahn
+EIGENSCHAFTEN:
+  geboren: 1947
+  beruf: Historiker
+GUELTIG_AB: 1947
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Herbert Klaeren
+EIGENSCHAFTEN:
+  geboren: 1950
+  beruf: Informatiker
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Marita Kraemer
+EIGENSCHAFTEN:
+  geboren: 1953
+  beruf: Managerin
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Rudi Gores
+EIGENSCHAFTEN:
+  geboren: 1957
+  berufe: Fußballspieler, Fußballtrainer
+GUELTIG_AB: 1957
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Alice Creischer
+EIGENSCHAFTEN:
+  geboren: 1960
+  beruf: Künstlerin
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Michael Baales
+EIGENSCHAFTEN:
+  geboren: 1963
+  beruf: Archäologe
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Michael Fisch
+EIGENSCHAFTEN:
+  geboren: 1964
+  beruf: Schriftsteller
+GUELTIG_AB: 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hans Peter Böffgen
+EIGENSCHAFTEN:
+  geboren: 1965
+  genauigkeit: ca.
+  berufe: Verwaltungsbeamter, Politiker
+  partei: parteilos
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hans-Josef Endres
+EIGENSCHAFTEN:
+  geboren: 1966
+  berufe: Maschinenbauingenieur, Hochschullehrer
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Elizabeth Blonzen
+EIGENSCHAFTEN:
+  geboren: 1968
+  berufe: Schauspielerin, Autorin
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Frank Rock
+EIGENSCHAFTEN:
+  geboren: 1970
+  beruf: Politiker
+  partei: CDU
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Andreas Önnerfors
+EIGENSCHAFTEN:
+  geboren: 1971
+  beruf: Historiker
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Christian Humberg
+EIGENSCHAFTEN:
+  geboren: 1976
+  berufe: Schriftsteller, Literaturübersetzer
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Johannes Fröhlinger
+EIGENSCHAFTEN:
+  geboren: 1985
+  beruf: Radrennfahrer
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Christian Vietoris
+EIGENSCHAFTEN:
+  geboren: 1989
+  beruf: Autorennfahrer
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ruth Greb
+EIGENSCHAFTEN:
+  geboren: 1993
+  beruf: Politikerin
+  partei: SPD
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verkehrsnetz
+BEZEICHNUNG: Bundesstraße 410
+EIGENSCHAFTEN:
+  streckenverlauf: von der luxemburgischen Grenze (Dasburg) bis nach Hirten bei Mayen
+  anbindung_autobahn: Bundesautobahn 1, Anschlussstelle 118
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Eifelstrecke
+EIGENSCHAFTEN:
+  streckenverlauf: Köln–Euskirchen–Gerolstein–Trier
+  schienenpersonennahverkehr: ja
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Gerolstein
+EIGENSCHAFTEN:
+  bahnstrecke: Eifelstrecke
+  bahnverkehr: Schienenpersonennahverkehr
+  infrastruktur: Regionalzuganbindung (Trier, Köln, Koblenz)
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Eifel-Mosel-Express (RE 12)
+EIGENSCHAFTEN:
+  streckenverlauf: Köln–Euskirchen–Gerolstein–Trier
+  fahrzeugsystem: VAREO-Diesel-Triebwagen
+  fahrzeugreihe: DB-Baureihe 620, 622
+  traktion: Ein- bis Dreifachtraktion
+  geschwindigkeit_max: 120 [km/h]
+  betreiber: DB Regio NRW
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Eifel-Express (RE 22)
+EIGENSCHAFTEN:
+  streckenverlauf: Köln–Euskirchen–Gerolstein
+  durchbindung: nach Trier (RB 22)
+  betreiber: DB Regio NRW
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Eifel-Bahn (RB 24)
+EIGENSCHAFTEN:
+  streckenverlauf: Köln–Euskirchen–Kall
+  besonderheit: in der HVZ bis Gerolstein
+  betreiber: DB Regio NRW
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Eifelquerbahn
+EIGENSCHAFTEN:
+  status: bis Kaisersesch stillgelegt
+  streckenverlauf: Daun-Kaisersesch nach Andernach (KBS 478)
+  aktuelles_vorhaben: Reaktivierung angestrebt
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Westeifelbahn
+EIGENSCHAFTEN:
+  status: stillgelegt
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Hochwasser 2021
+EIGENSCHAFTEN:
+  ereignis: Dauerregen 14./15. Juli 2021 und Jahrhunderthochwasser
+  auswirkung: Bahnverkehr vollständig eingestellt
+  wiederherstellung_teilweise: April 2023
+  geschätzter_abschluss: 2024
+GUELTIG_BIS: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: buslinie
+BEZEICHNUNG: 460 / 465
+EIGENSCHAFTEN:
+  streckenverlauf: Gerolstein über Prüm nach Clervaux (LU) bzw. St. Vith (BE)
+  takt_prüm_richtung: Montag bis Samstag Stundentakt, sonntags alle 2 Stunden
+  takt_clervaux_richtung: Montag bis Samstag alle 2 Stunden, sonntags alle 4 Stunden
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: buslinie
+BEZEICHNUNG: 530
+EIGENSCHAFTEN:
+  typ: Ringverbindung
+  streckenverlauf: Oberbettingen, Hillesheim, Walsdorf, Rockeskyll, Pelm und Gerolstein
+  takt: Montag bis Sonntag alle 2 Stunden
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: buslinie
+BEZEICHNUNG: 700
+EIGENSCHAFTEN:
+  typ: RegioBus-Linie
+  streckenverlauf: Gerolstein über Daun, Ulmen nach Cochem
+  takt: Montag bis Sonntag stündlich
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: buslinie
+BEZEICHNUNG: 777
+EIGENSCHAFTEN:
+  typ: RadBus-Linie
+  betrieb: an Wochenenden
+  streckenverlauf: Gerolstein nach Cochem über Daun
+  takt: Samstag und Sonntag alle 2 Stunden
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 531
+EIGENSCHAFTEN:
+  streckenverlauf: Pelm – Bahnhof/ZOB – Krankenhaus – Vulkanring – Bewingen – Dohm – Hillesheim
+  anmeldung_voraus: mind. 60 Minuten vor Abfahrt
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 532
+EIGENSCHAFTEN:
+  typ: Ringverkehr
+  streckenverlauf: Gerolstein – Lissingen – Kopp – Birresborn – Michelbach – Büscheich – Gerolstein
+  takt: Montag bis Samstag alle 60 Minuten
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 533
+EIGENSCHAFTEN:
+  streckenverlauf: Gerolstein – Michelbach – Salm – Deudesfeld – Manderscheid
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 534
+EIGENSCHAFTEN:
+  streckenverlauf: Gerolstein – Pelm – Kirchweiler – Neroth – Daun
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 535
+EIGENSCHAFTEN:
+  streckenverlauf: Gerolstein Waldstraße – Rasbach/Feuerwehr – Bahnhof/ZOB – Gees
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 546
+EIGENSCHAFTEN:
+  typ: Ringverkehr
+  streckenverlauf: BBS/Einkaufszentrum – Bahnhof – Rasbach/Feuerwehr – Müllenborn – Oos – Duppach – Kalenborn-Scheuern – Lindenstraße – Krankenhaus – Bahnhof/ZOB
+  takt: Montag bis Samstag alle 60 Minuten
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kulturelle_referenz
+BEZEICHNUNG: Operette La Grande-Duchesse de Gérolstein
+EIGENSCHAFTEN:
+  komponist: Jacques Offenbach
+  kompositionsjahr: 1867
+  szenarium: fiktives deutsches Herzogtum Gerolstein
+  zeitliche_ansiedlung: um 1840
+  bezug_realort: kein Bezug zum realen Ort Gerolstein
+GUELTIG_AB: 1867
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

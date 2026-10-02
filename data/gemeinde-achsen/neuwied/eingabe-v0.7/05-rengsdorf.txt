@@ -1,0 +1,2084 @@
+ZIELORT: Rengsdorf (Gemeinde)
+LAGE: 18 km nördlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Rengsdorf
+
+GRUNDDATEN:
+  landkreis: Neuwied  [dewiki Infobox]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 2996  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 6,91  [Wikidata P2046]
+  dichte_ew_km2: 434  [berechnet aus Einwohner und Fläche]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 240 | 275 | 269 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2848215)]
+  naechste_grossstadt: Koblenz, 18 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 80 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  plz: 56579  [Wikidata P281]
+  vorwahl: 02634  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,7 %, AfD 18,6 %, SPD 17,6 %, GRÜNE 10,4 %, FDP 7 %, Die Linke 5,5 %; Wahlbeteiligung 82,6 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Marc Dillenberger — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-02]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C-LEITER, letzte Stufe mit "höher": 1
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Fläche der Gemarkung), C, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Altwied (Ortsteil von Neuwied)
+  landkreis: Landkreis Neuwied — GILT FÜR DIE GEMEINDE NEUWIED  [Wikidata P131]
+  einwohner: 674  [dewiki Infobox, Stand 2026-07-06]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE NEUWIED  [Wikidata P395]
+  hoehe_m: 82 | 87 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2956764)]
+  naechste_grossstadt: Koblenz, 16 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 33,6 %, SPD 19,5 %, AfD 19,1 %, GRÜNE 9,5 %, Die Linke 5,2 %; Wahlbeteiligung 92,8 % — NUR UNGEFÄHR, AUF GANZE PROZENT RUNDEN (der Briefwahlbezirk zählt 244 Stimmen bei 236 im Stadtteil ausgegebenen Wahlscheinen)  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich); Zuordnung der Stimmbezirke zum Stadtteil nach der Stimmbezirkseinteilung der Stadt Neuwied, Stand 2025-02-23]
+
+FAHRT: Bendorf, Engers, Heimbach-Weis, Altwied, Rengsdorf, Dierdorf, Waldbreitbach, Linz am Rhein, Bad Hönningen, Leutesdorf
+
+FAKTEN (Zielort Rengsdorf):
+ID: 05-rengsdorf/001
+ENTITÄT: ort
+BEZEICHNUNG: Rengsdorf
+EIGENSCHAFTEN:
+  gemeinde_typ: Ortsgemeinde
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  verwaltungssitz_von: Verbandsgemeinde Rengsdorf-Waldbreitbach
+  jahresniederschlagsmenge: 834 mm
+  älteste_urkunde_dokumentiert: Grenzen des Rengsdorfer Pfarrzehntbezirks zum Koblenzer Kastorstift
+  älteste_urkunde_jahr: 857
+  älteste_urkunde_jahr_genauigkeit: ca.
+  heilklimatischer_kurort_seit: 1963
+  gesundheitstouristische_tradition_seit: 19. Jahrhundert
+GUELTIG_AB: 857
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/002
+ENTITÄT: gemeinde
+DESIGNIERUNG: Verbandsort
+BEZEICHNUNG: Verbandsgemeinde Rengsdorf-Waldbreitbach
+EIGENSCHAFTEN:
+  verwaltungssitz: Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/003
+ENTITÄT: gemeinde
+DESIGNIERUNG: Partnergemeinde
+BEZEICHNUNG: Saint-Pierre-le-Moûtier
+EIGENSCHAFTEN:
+  region: Burgund
+  land: Frankreich
+  partnerschaft_seit: 2005
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/004
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Marc Dillenberger
+EIGENSCHAFTEN:
+  amtsantritt: 9. Dezember 2024
+  position_vorher: Erster Beigeordneter
+  wahlmodus: Wahl durch Gemeinderat auf konstituierender Sitzung
+  einstimmig_gewählt_sitzung: Gemeinderatssitzung Dezember 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 05-rengsdorf/005
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Christian Robenek
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: Juli 2014
+  wiedergewählt_datum: 26. Mai 2019
+  wiedergewählt_stimmen: 75,70 %
+  wahlmodus: Direktwahl
+  amtsende: 30. Juli 2024
+  verzicht_auf_kandidatur_2024: true
+GUELTIG_AB: 2014
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 05-rengsdorf/006
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Karlheinz Kleinmann
+EIGENSCHAFTEN:
+  amtszeit_dauer_jahre: 15
+  nachfolger: Christian Robenek
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 05-rengsdorf/007
+ENTITÄT: gemeinderat
+EIGENSCHAFTEN:
+  anzahl_ratsmitglieder: 20
+  wahl_datum: 9. Juni 2024
+  wahlmodus: Mehrheitswahl
+  vorsitzender: Ortsbürgermeister (ehrenamtlich)
+  wahlmodus_vorher_bis_2019: personalisierte Verhältniswahl
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 05-rengsdorf/008
+ENTITÄT: bauwerk
+DESIGNIERUNG: Denkmal
+BEZEICHNUNG: Bismarcksäule
+EIGENSCHAFTEN:
+  hoehe: 13 m
+  standort: Kaisereichenplatz
+  errichtet_für: Otto von Bismarck (Erster Deutscher Reichskanzler, 1815–1898)
+  einweihung: 1903
+GUELTIG_AB: 1903
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 05-rengsdorf/009
+ENTITÄT: graben
+DESIGNIERUNG: Bodendenkmäler/Wehranlage
+BEZEICHNUNG: Römergraben
+EIGENSCHAFTEN:
+  tatsächliche_herkunft: Frankenzeit (Frühes Mittelalter)
+  ursprüngliche_interpretation: Überbleibsel des römischen Limes (widerlegt)
+  funktion: Wehr- und Grenzschutz zwischen Siedlungsbereichen
+  gestaltung: Wall mit seitlichem Gebück bewachsen
+  länge_erkennbar: ca. 750 m
+  wanderweg_verlauf: Fernwanderweg Rheinsteig führt stellenweise über Anlage
+  eignung: hervorragend für Spaziergänge und Wanderungen mit Aussicht über Neuwieder Becken
+  limes_entfernung: ca. 3 km entfernt (bei Kreuzkirche Melsbach)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf/010
+ENTITÄT: wanderweg
+DESIGNIERUNG: Fernwanderweg
+BEZEICHNUNG: Rheinsteig
+EIGENSCHAFTEN:
+  verlauf_rengsdorf: stellenweise über Römergraben
+  aussicht: exzellente Aussicht über Neuwieder Becken
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/011
+ENTITÄT: veranstaltung
+DESIGNIERUNG: Musikfestival
+BEZEICHNUNG: Rock the Forest
+EIGENSCHAFTEN:
+  zeitpunkt: jährlich im Sommer
+  organisator: Rockfreunde Rengsdorf
+  künstler_beispiele: Kadavar, Rage, Uriah Heep
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/012
+ENTITÄT: verein
+DESIGNIERUNG: Kulturverein
+BEZEICHNUNG: Rockfreunde Rengsdorf
+EIGENSCHAFTEN:
+  status_form: e. V.
+  veranstaltung_hauptsächlich: Rock the Forest (jährlich im Sommer)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/013
+ENTITÄT: organisation
+DESIGNIERUNG: Rettungsdienst
+BEZEICHNUNG: Freiwillige Feuerwehr Rengsdorf
+EIGENSCHAFTEN:
+  bereich: Rettungsdienste und Katastrophenschutz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/014
+ENTITÄT: organisation
+DESIGNIERUNG: Rettungsdienst
+BEZEICHNUNG: Deutsches Rotes Kreuz Rengsdorf
+EIGENSCHAFTEN:
+  bereich: Rettungsdienste und Katastrophenschutz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/015
+ENTITÄT: organisation
+DESIGNIERUNG: Rettungsdienst
+BEZEICHNUNG: DLRG Rengsdorf
+EIGENSCHAFTEN:
+  bereich: Rettungsdienste und Katastrophenschutz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/016
+ENTITÄT: verein
+DESIGNIERUNG: Sportverein
+BEZEICHNUNG: Alternative Sport- und Spielgemeinschaft (A.S.S.)
+EIGENSCHAFTEN:
+  bereich: Sport und Freizeit
+  status_form: e. V. (implizit)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/017
+ENTITÄT: verein
+DESIGNIERUNG: Sportverein
+BEZEICHNUNG: Turnverein Rengsdorf
+EIGENSCHAFTEN:
+  bereich: Sport und Freizeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 05-rengsdorf/018
+ENTITÄT: verein
+DESIGNIERUNG: Sportverein
+BEZEICHNUNG: Sportverein Rengsdorf
+EIGENSCHAFTEN:
+  bereich: Sport und Freizeit
+  sportart: Fußball
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/019
+ENTITÄT: verein
+DESIGNIERUNG: Sportverein
+BEZEICHNUNG: TC-Rengsdorf
+EIGENSCHAFTEN:
+  bereich: Sport und Freizeit
+  sportart: Tennis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf/020
+ENTITÄT: verein
+DESIGNIERUNG: Kulturverein
+BEZEICHNUNG: Burschenverein Rengsdorf
+EIGENSCHAFTEN:
+  bereich: Sport und Freizeit
+  funktionen: organisiert Feste wie Kirmes und Karneval
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/021
+ENTITÄT: organisation
+DESIGNIERUNG: Jugendverband
+BEZEICHNUNG: Christlicher Verein Junger Menschen (CVJM) Rengsdorf e. V.
+EIGENSCHAFTEN:
+  gründung_jahr: 2005
+  anregung_durch: Pfarrer Friedemann Stinder
+  aktivitäten: monatliche Kinderbibeltage, Jugendtreffs, Indiaca-Sportgruppe
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/022
+ENTITÄT: infrastruktur
+DESIGNIERUNG: Straße
+BEZEICHNUNG: Bundesstraße 256
+EIGENSCHAFTEN:
+  verbindet: Neuwied und Altenkirchen
+  verlauf: durch Gemeinde Rengsdorf
+  verkehrsanbindung: regionale Busverbindung vorhanden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/023
+ENTITÄT: infrastruktur
+DESIGNIERUNG: Straße/Umgehung
+BEZEICHNUNG: Ortsumgehung B 256
+EIGENSCHAFTEN:
+  länge: ca. 4 km
+  baubeginn: 3. Juli 2006
+  kosten_geplant: ca. 35 Millionen Euro
+  verkehrsfreigabe: 23. September 2014
+GUELTIG_AB: 2006
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/024
+ENTITÄT: infrastruktur
+DESIGNIERUNG: Autobahnanschluss
+BEZEICHNUNG: Autobahnanschlussstelle Neuwied/Altenkirchen
+EIGENSCHAFTEN:
+  autobahn: A 3
+  besonderheit: nächstgelegene Anschlussstelle zu Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/025
+ENTITÄT: infrastruktur
+DESIGNIERUNG: Bahnhof
+BEZEICHNUNG: Bahnhof Neuwied
+EIGENSCHAFTEN:
+  besonderheit: nächstgelegener Bahnhof zu Rengsdorf
+  rheinstrecke_seite: rechts
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/026
+ENTITÄT: infrastruktur
+DESIGNIERUNG: Bahnhof
+BEZEICHNUNG: Bahnhof Andernach
+EIGENSCHAFTEN:
+  rheinstrecke_seite: links
+  verkehrstyp: Fernverkehr
+  besonderheit: nächstgelegener Fernverkehrs-Bahnhof auf linker Rheinstrecke zu Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/027
+ENTITÄT: infrastruktur
+DESIGNIERUNG: Bahnhof
+BEZEICHNUNG: Bahnhof Koblenz
+EIGENSCHAFTEN:
+  rheinstrecke_seite: links
+  verkehrstyp: Fernverkehr
+  besonderheit: nächstgelegener Fernverkehrs-Bahnhof auf linker Rheinstrecke zu Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/028
+ENTITÄT: infrastruktur
+DESIGNIERUNG: Schnellfahrstrecke
+BEZEICHNUNG: Schnellfahrstrecke Köln–Rhein/Main
+EIGENSCHAFTEN:
+  verlauf: in unmittelbarer Nähe von Rengsdorf
+  nächster_halt: Montabaur
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/029
+ENTITÄT: infrastruktur
+DESIGNIERUNG: Bahnhalt
+BEZEICHNUNG: Montabaur
+EIGENSCHAFTEN:
+  strecke: Schnellfahrstrecke Köln–Rhein/Main
+  besonderheit: nächstgelegener Halt dieser Strecke zu Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/030
+ENTITÄT: unternehmen
+DESIGNIERUNG: Hersteller
+BEZEICHNUNG: Lohmann & Rauscher
+EIGENSCHAFTEN:
+  bereich: Verband- und Medikalstoffe
+  bekanntheitsgrad: bundesweit bekannt
+  sitz_hauptverwaltung: Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/031
+ENTITÄT: unternehmen
+DESIGNIERUNG: Reiseunternehmen
+BEZEICHNUNG: Berge & Meer
+EIGENSCHAFTEN:
+  muttergesellschaft: TUI Deutschland (Beteiligungsunternehmen)
+  bekanntheitsgrad: bundesweit bekannt
+  sitz_hauptverwaltung: Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/032
+ENTITÄT: unternehmen
+DESIGNIERUNG: Bäderbetreiber
+BEZEICHNUNG: monte mare
+EIGENSCHAFTEN:
+  funktion: betreibt Bäder
+  bekanntheitsgrad: bundesweit bekannt
+  sitz_hauptverwaltung: Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/033
+ENTITÄT: unternehmen
+DESIGNIERUNG: Möbel- und Trennwandhersteller
+BEZEICHNUNG: meta GmbH & Co KG
+EIGENSCHAFTEN:
+  bereich: Trennwandanlagen
+  absatzmarkt: international
+  bekanntheitsgrad: bundesweit bekannt
+  sitz_hauptverwaltung: Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/034
+ENTITÄT: unternehmen
+DESIGNIERUNG: Fertigungsbetrieb
+BEZEICHNUNG: Maschinenbau Runkel GmbH
+EIGENSCHAFTEN:
+  bereich: Maschinenbau
+  sitz: Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 05-rengsdorf/035
+ENTITÄT: unternehmen
+DESIGNIERUNG: Fertigungsbetrieb
+BEZEICHNUNG: Winkler und Dünnebier Süßwarenmaschinen GmbH
+EIGENSCHAFTEN:
+  bereich: Süßwarenmaschinen
+  sitz: Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 05-rengsdorf/036
+ENTITÄT: persönlichkeit
+DESIGNIERUNG: Sohn oder Tochter des Ortes
+BEZEICHNUNG: Johannes Kintzing
+EIGENSCHAFTEN:
+  geburt: 1681
+  beruf: Müller
+  besonderheit: Großvater von Peter IV. Kinzing (Uhrmacher und Mechaniker)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf/037
+ENTITÄT: persönlichkeit
+DESIGNIERUNG: Sohn oder Tochter des Ortes
+BEZEICHNUNG: Gerhard Curdes
+EIGENSCHAFTEN:
+  geburt: 1933
+  tod: 2025
+  beruf: Universitätsprofessor für Städtebau und Landesplanung
+GUELTIG_AB: 1933
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/038
+ENTITÄT: persönlichkeit
+DESIGNIERUNG: Sohn oder Tochter des Ortes
+BEZEICHNUNG: Norbert van Heyst
+EIGENSCHAFTEN:
+  geburt: 1944
+  position: General der Bundeswehr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf/039
+ENTITÄT: persönlichkeit
+DESIGNIERUNG: im Ort gewirkt
+BEZEICHNUNG: Friedrich Karl Henkel
+EIGENSCHAFTEN:
+  geburt: 1848
+  tod: 1930
+  beruf: Unternehmer und Konzernründer
+  unternehmungsgründung: Henkel-Konzern
+  alterswohnsitz: Rengsdorf
+  todesort: Rengsdorf
+GUELTIG_AB: 1848
+GUELTIG_BIS: 1930
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/040
+ENTITÄT: persönlichkeit
+DESIGNIERUNG: im Ort gewirkt
+BEZEICHNUNG: Curt Karl Rüschhoff
+EIGENSCHAFTEN:
+  geburt: 1887
+  tod: 1969
+  beruf: Architekt
+  werke_bekannt: u.a. Schlosshotel Bühlerhöhe
+GUELTIG_AB: 1887
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 05-rengsdorf/041
+ENTITÄT: persönlichkeit
+DESIGNIERUNG: im Ort gewirkt
+BEZEICHNUNG: Richard Winkler
+EIGENSCHAFTEN:
+  geburt: 1898
+  tod: 1972
+  position: Seniorchef und persönlich haftender Gesellschafter Winkler+Dünnebier
+  ehre: Ehrenbürger der Stadt Neuwied
+GUELTIG_AB: 1898
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/042
+ENTITÄT: persönlichkeit
+DESIGNIERUNG: im Ort gewirkt
+BEZEICHNUNG: Friedemann Stinder
+EIGENSCHAFTEN:
+  beruf: Pfarrer
+  anregung_zu: Gründung CVJM Rengsdorf 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 05-rengsdorf/043
+ENTITÄT: infrastruktur
+DESIGNIERUNG: Militärische Anlage/Schule
+BEZEICHNUNG: Schule für Nachrichtenwesen der Bundeswehr
+EIGENSCHAFTEN:
+  standort_original: ehemaliges Hotel Rheinhöhe in Rengsdorf
+  aufstellung: März 1956
+  verlegung_datiert: Mitte Oktober 1958
+  verlegung_nach: Bad Ems
+  nachfolger_einrichtung: Radio-Kompanie
+  nachfolger_ab: Dezember 1959
+  nachfolger_später_stationiert: PSV-Bataillon 1 in Andernach
+GUELTIG_AB: 1956
+GUELTIG_BIS: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf/044
+ENTITÄT: beigeordneter
+DESIGNIERUNG: Geschäftsbereich
+BEZEICHNUNG: Thomas Schreck
+EIGENSCHAFTEN:
+  position: Beigeordneter
+  wahl_als_beigeordneter: 3. Juli 2024
+  geschäftsbereich_zuordnung: personenbezogen ab Oktober 2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf/045
+ENTITÄT: beigeordneter
+DESIGNIERUNG: Geschäftsbereich
+BEZEICHNUNG: Denis Müller
+EIGENSCHAFTEN:
+  position: Beigeordneter
+  wahl_als_beigeordneter: 3. Juli 2024
+  geschäftsbereich_zuordnung: personenbezogen ab Oktober 2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+FAKTEN AUS ZWEITER QUELLE (Wikipedia, Artikel „Bismarcksäule (Rengsdorf)“):
+ID: 05-rengsdorf+1/001
+ENTITÄT: denkmal
+BEZEICHNUNG: Bismarcksäule Rengsdorf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  höhe: 13 [m]
+  einweihung: 1903-06-21
+  architekt: Hans Bloemers
+  material: Trachyt
+  standort: Kaisereichenplatz
+  zweck: Denkmal für Fürst Otto von Bismarck
+  unter_denkmalschutz: true
+  nicht_aussichtsturm: true
+  grundriss: quadratisch
+  kostenvoranschlag: 14.000 [Mark]
+  tatsächliche_kosten: 15.500 [Mark]
+GUELTIG_AB: 1903
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+1/002
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Grundsteinlegung Bismarcksäule Rengsdorf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  datum: 1902-07-30
+  anlass: Beginn Bau Bismarcksäule, vierter Todestag Bismarcks
+  ortsbezug: Kaisereichenplatz, Rengsdorf
+GUELTIG_AB: 1902
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf+1/003
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Einweihung Bismarcksäule Rengsdorf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  datum: 1903-06-21
+  besonderheit: Sommersonnenwende, erste Entzündung der Feuerschale
+GUELTIG_AB: 1903
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf+1/004
+ENTITÄT: person
+BEZEICHNUNG: Otto von Bismarck
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  titel: Fürst
+  funktion: erster deutscher Reichskanzler
+  lebenszeit: 1815-1898
+  geburtstag: 1. April
+  grund_denkmal: Breite Bewegung nach seinem Tod 1898 zur Errichtung von Denkmälern
+GUELTIG_AB: 1815
+GUELTIG_BIS: 1898
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf+1/005
+ENTITÄT: person
+BEZEICHNUNG: Hans Bloemers
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  beruf: Architekt
+  wohnort: Bonn
+  rolle_in_rengsdorf: Architekt und Bauleiter Bismarcksäule Rengsdorf
+  bauleitung: unentgeltlich übernommen
+  weitere_werke: Bismarckturm Bonn-Gronau
+  entwurf_fries: Fries mit Eichenlaubmotiven
+  entwurf_relief: Bismarck-Relief aus Bronze
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL:
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf+1/006
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Kreis
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  beruf: Architekt
+  typenentwurf: Götterdämmerung
+  wettbewerb: Wettbewerb der Deutschen Studentenschaft, 1899
+  preis: gewonnen
+  einfluß: Bismarcksäule Rengsdorf lehnt sich in Grundzügen an diesen Typenentwurf an
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL:
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf+1/007
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Kestner
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  beruf: Maurermeister
+  wohnort: Rengsdorf
+  rolle: Bauausführung unter Leitung von Hans Bloemers
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL:
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+1/008
+ENTITÄT: person
+BEZEICHNUNG: Peter Jung
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  beruf: Maurermeister
+  wohnort: Rengsdorf
+  rolle: Bauausführung unter Leitung von Hans Bloemers
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL:
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+1/009
+ENTITÄT: person
+BEZEICHNUNG: Hermann Gladenbeck
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  beruf: Bildgießer
+  unternehmen: Bildgießerei Hermann Gladenbeck
+  wohnort_unternehmen: Berlin-Friedrichshagen
+  rolle: Anfertigung Bismarck-Relief aus Bronze für Bismarcksäule Rengsdorf
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL:
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+1/010
+ENTITÄT: organisation
+BEZEICHNUNG: Verschönerungsverein für den unteren Westerwald
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  art: Verein
+  rolle_rengsdorf: regte im Sommer 1901 Bau einer Bismarcksäule in Rengsdorf an
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL:
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 05-rengsdorf+1/011
+ENTITÄT: organisation
+BEZEICHNUNG: Ausschuss zur Errichtung der Rengsdorfer Bismarcksäule
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  gegründet: 1902-03
+  aufgabe: Koordination und Durchführung Bau Bismarcksäule Rengsdorf
+  beauftragte: Hans Bloemers als Architekt und Bauleiter
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1903
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf+1/012
+ENTITÄT: organisation
+BEZEICHNUNG: Firma Bochem & Co.
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  art: Firma
+  beruf: Steinmetzarbeiten
+  wohnort: Königswinter
+  rolle_rengsdorf: übernahm Steinmetzarbeiten für Bismarcksäule Rengsdorf
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL:
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf+1/013
+ENTITÄT: ort
+DESIGNAT: Rengsdorf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  land: Deutschland
+  besonderheit: Standort Bismarcksäule, Aussicht auf Rheintal vom Kaisereichenplatz
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf+1/014
+ENTITÄT: ort_platz
+BEZEICHNUNG: Kaisereichenplatz
+ORTSTEIL_BEZUG: Rengsdorf
+EIGENSCHAFTEN:
+  beschreibung: Platz in Rengsdorf
+  standort_denkmal: Bismarcksäule Rengsdorf
+  aussicht: Gute Aussicht auf Rheintal
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+1/015
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Bismarck-Relief (1903)
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  material: Bronze
+  höhe: 1,5 [m]
+  künstler_entwurf: Hans Bloemers
+  gießerei: Bildgießerei Hermann Gladenbeck
+  ort: Vorderseite Bismarcksäule Rengsdorf
+  schicksal: entfernt (Zweiter Weltkrieg oder französische Besatzung, unklar)
+  genauigkeit: vermutlich
+GUELTIG_AB: 1903
+GUELTIG_BIS: 1939-1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 05-rengsdorf+1/016
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Bismarck-Relief (1963)
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  material: Bronze
+  inschrift: OTTO V. BISMARCK / 1815-1898
+  installation: 1963-09
+  grund: Ersatz für entferntes Original-Relief
+GUELTIG_AB: 1963
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf+1/017
+ENTITÄT: tradition
+BEZEICHNUNG: Gedenkfeuer Bismarcksäule Rengsdorf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  feuerschale: ja
+  entzündungstage: 27. Januar (Geburtstag Kaiser Wilhelm II), 1. April (Bismarcks Geburtstag), 2. September (Sedantag)
+  entzündung_bei_einweihung: 1903-06-21
+  betriebsdauer: Nach wenigen Jahren eingestellt
+  wiederaufnahme: vermutlich nicht nach Ende Erster Weltkrieg und Besetzung Rheinlands
+GUELTIG_AB: 1903
+GUELTIG_BIS: 1908-1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 05-rengsdorf+1/018
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Grundlegende Sanierung Bismarcksäule Rengsdorf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  zeitraum: 1990er Jahre
+  maßnahmen: Grundsanierung des Bauwerks
+  ausstattung: Beleuchtungsanlage zur Anstrahlung
+GUELTIG_AB: 1990
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf+1/019
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Hundertjahrfeier Bismarcksäule Rengsdorf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  datum: 2003-06
+  anlass: 100. Jahrestag der Einweihung
+  veranstaltungen: Jubiläumsfeier, Festschrift, Ausstellung zur Entstehungsgeschichte
+GUELTIG_AB: 2003
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+FAKTEN AUS ZWEITER QUELLE (Wikipedia, Artikel „Verbandsgemeinde Rengsdorf-Waldbreitbach“):
+ID: 05-rengsdorf+2/001
+ENTITÄT: gebietskörperschaft
+BEZEICHNUNG: Verbandsgemeinde Rengsdorf-Waldbreitbach
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  art: Verbandsgemeinde
+  bundesland: Rheinland-Pfalz
+  landkreis: Neuwied
+  gegründet_durch: freiwilliger Zusammenschluss
+  gegründung: 2018-01-01
+  einwohner: 26.664 [Stand 31.12.2025]
+  fläche: 124,2 [km²]
+  ortsgemeinden: 20 eigenständige Ortsgemeinden
+  verwaltungssitz: Rengsdorf
+  verwaltungsstelle: Waldbreitbach
+  nebenstelle: Anhausen
+GUELTIG_AB: 2018
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf+2/002
+ENTITÄT: gebietskörperschaft
+BEZEICHNUNG: Verbandsgemeinde Rengsdorf (historisch)
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  art: Verbandsgemeinde
+  entstehung: 1968 (Funktional- und Gebietsreform Rheinland-Pfalz)
+  herkunft: Amt Rengsdorf (preußische Zeit)
+  einwohner_2009: 16.434 [Stichtag 30.06.2009]
+  fusioniert_mit: Verbandsgemeinde Waldbreitbach
+  fusionsdatum: 2018-01-01
+GUELTIG_AB: 1968
+GUELTIG_BIS: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+2/003
+ENTITÄT: gebietskörperschaft
+BEZEICHNUNG: Verbandsgemeinde Waldbreitbach (historisch)
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  art: Verbandsgemeinde
+  entstehung: 1968 (Funktional- und Gebietsreform Rheinland-Pfalz)
+  herkunft: Amt Neuerburg (preußische Zeit)
+  einwohner_2009: 9.397 [Stichtag 30.06.2009]
+  unterschreitung_mindesteinwohnerzahl: true
+  fusioniert_mit: Verbandsgemeinde Rengsdorf
+  fusionsdatum: 2018-01-01
+GUELTIG_AB: 1968
+GUELTIG_BIS: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+2/004
+ENTITÄT: person
+BEZEICHNUNG: Hans-Werner Breithausen
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  funktion: Bürgermeister Verbandsgemeinde Rengsdorf-Waldbreitbach
+  partei: SPD
+  amtsantritt: 2018-01-01
+  amtsende: 2026-01-01
+  auszeichnung: erster Bürgermeister der neuen Verbandsgemeinde
+  stichwahl_2017: 2017-10-15
+  stimmenanteil_stichwahl: 56,63 %
+  nachfolger: Pierre Fischer (CDU, amtiert seit 2026-01-01)
+  pensionierung: 2026-01-01
+GUELTIG_AB: 2018
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf+2/005
+ENTITÄT: person
+BEZEICHNUNG: Pierre Fischer
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  funktion: Bürgermeister Verbandsgemeinde Rengsdorf-Waldbreitbach
+  partei: CDU
+  amtsantritt: 2026-01-01
+  wahl_2025: direktwahl
+  erster_wahlgang: 2025-04-06
+  stimmenanteil_erster_wahlgang: 43,4 %
+  stichwahl: 2025-04-27
+  stimmenanteil_stichwahl: 54,4 %
+  gegenkandidat_stichwahl: Achim Braasch (parteilos)
+GUELTIG_AB: 2026
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf+2/006
+ENTITÄT: person
+BEZEICHNUNG: Achim Braasch
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  kandidatur: Bürgermeisterwahl Verbandsgemeinde Rengsdorf-Waldbreitbach 2025
+  partei: parteilos
+  erster_wahlgang: 2025-04-06
+  stichwahl: 2025-04-27
+  stimmenanteil_stichwahl: 31,9 %
+  ergebnis: unterlag Pierre Fischer
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL:
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+2/007
+ENTITÄT: gremium
+BEZEICHNUNG: Verbandsgemeinderat Rengsdorf-Waldbreitbach
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  mitglieder_ehrenamtlich: 36
+  mitglieder_hauptamtlich: 1 (Bürgermeister als Vorsitzender)
+  wahl: 2024-06-09 (Kommunalwahl)
+  wahlsystem: personalisierte Verhältniswahl
+  erste_amtszeit_von: 2018-01-01
+  erste_amtszeit_bis: 2024 (Kommunalwahl)
+  wahl_vorgänger: 2017-09-24
+  enddatum_alte_räte: 2017-12-31
+GUELTIG_AB: 2018
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+2/008
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Funktional- und Gebietsreform Rheinland-Pfalz 1968
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  jahr: 1968
+  wirkung_rengsdorf: Verbandsgemeinde Rengsdorf entstand aus Amt Rengsdorf
+  wirkung_waldbreitbach: Verbandsgemeinde Waldbreitbach entstand aus Amt Neuerburg
+GUELTIG_AB: 1968
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+2/009
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Erste Landesgesetz zur Kommunal- und Verwaltungsreform
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  jahr: 2010
+  beschluss: Landtag Rheinland-Pfalz
+  ziel: Verbesserung Leistungsfähigkeit, Wettbewerbsfähigkeit und Verwaltungskraft kommunaler Strukturen
+  regelung_verbandsgemeinden: Mindesteinwohnerzahl 12.000
+  zeitstichtag: 2009-06-30
+  folge_waldbreitbach: Unterschreitung mit 9.397 Einwohnern
+  folge_rengsdorf: Erfüllung mit 16.434 Einwohnern
+GUELTIG_AB: 2010
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf+2/010
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Fusionsvereinbarung Rengsdorf-Waldbreitbach
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  datum: 2016-10-07
+  unterzeichner: Bürgermeister der Verbandsgemeinden Rengsdorf und Waldbreitbach
+  inhalt: Vereinbarung zur freiwilligen Fusion
+  wirkung: 2018-01-01
+GUELTIG_AB: 2016
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+2/011
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Landesgesetz Zusammenschluss Rengsdorf-Waldbreitbach
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  verabschiedung: 2017-04-13
+  ort_verabschiedung: Landtag Rheinland-Pfalz
+  inhalt: Gesetz über den Zusammenschluss der Verbandsgemeinden Rengsdorf und Waldbreitbach
+  wirkung: Rechtliche Grundlage der Fusion zum 2018-01-01
+  staatliche_zuweisung: 2.000.000 [Euro]
+GUELTIG_AB: 2017
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+2/012
+ENTITÄT: organisation
+BEZEICHNUNG: Freie Wählergruppe Wiedtal-Rengsdorfer Land e. V. (FWG WIR)
+ORTSTEIL_BEZUG: Rengsdorf
+EIGENSCHAFTEN:
+  art: Wählergruppe / Verein
+  region: Wiedtal-Rengsdorfer Land
+  funktion: Vertreter im Verbandsgemeinderat Rengsdorf-Waldbreitbach
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 05-rengsdorf+2/013
+ENTITÄT: gebietskörperschaft
+BEZEICHNUNG: Amt Rengsdorf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  herkunft: Preußische Zeit
+  auflösung: 1968
+  nachfolger: Verbandsgemeinde Rengsdorf
+GUELTIG_AB:
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf+2/014
+ENTITÄT: gebietskörperschaft
+BEZEICHNUNG: Amt Neuerburg
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  herkunft: Preußische Zeit
+  auflösung: 1968
+  nachfolger: Verbandsgemeinde Waldbreitbach
+GUELTIG_AB:
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+SPENDER: Gerolstein (nicht Teil der Fahrt)
+ENTITÄT: ort
+BEZEICHNUNG: Gerolstein
+EIGENSCHAFTEN:
+  lage: Eifel
+  bundesland: Rheinland-Pfalz
+  landkreis: Vulkaneifel
+  verwaltungssitz_verbandsgemeinde: Gerolstein
+  ist_stadt: true
+  rang_einwohner: zweitgrößte des Landkreises (nach Daun)
+  rang_fläche: flächenmäßig größte des Landkreises
+  ist_luftkurort: staatlich anerkannt
+  ist_mittelzentrum: true
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: burg
+BEZEICHNUNG: Löwenburg
+EIGENSCHAFTEN:
+  urkundliche_ersterwähnung_jahr: 1115
+  ursprüngliche_namensform: Burg Gerhardstein
+GUELTIG_AB: 1115
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadtrecht
+EIGENSCHAFTEN:
+  verliehen_jahr: 1336
+GUELTIG_AB: 1336
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: residenzstadt
+EIGENSCHAFTEN:
+  herrscherfamilie: Grafen von Blankenheim-Gerolstein
+  zeitraum: 1406-1524
+GUELTIG_AB: 1406
+GUELTIG_BIS: 1524
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: residenzstadt
+BEZEICHNUNG: Manderscheid-Residenz
+EIGENSCHAFTEN:
+  herrscherfamilie: Grafen von Manderscheid-Gerolstein
+  zeitraum: 1524-1697
+GUELTIG_AB: 1524
+GUELTIG_BIS: 1697
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Befreiung 1691
+EIGENSCHAFTEN:
+  typ: Zerstörung
+  ursache: Befreiung von französischer Besetzung
+  akteur: jülichsche Truppen
+  grad: fast vollständig zerstört
+  jahr: 1691
+GUELTIG_BIS: 1691
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: brand
+EIGENSCHAFTEN:
+  jahr: 1708
+  folge: Stadt wiederum fast vollständig vernichtet
+GUELTIG_BIS: 1708
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: brand
+EIGENSCHAFTEN:
+  jahr: 1784
+  folge: Stadt wiederum fast vollständig vernichtet
+GUELTIG_BIS: 1784
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Frieden von Lunéville
+EIGENSCHAFTEN:
+  ereignis: fiel das linksrheinische Gerolstein an Frankreich
+  jahr: 1801
+GUELTIG_BIS: 1801
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Reichsdeputationshauptschluss
+EIGENSCHAFTEN:
+  jahr: 1803
+  akteur: Graf Sternberg-Manderscheid
+  verlust: Blankenheim, Jünkerath, Gerolstein, Dollendorf
+  entschädigung: Güter der vormaligen Klöster Weissenau und Schussenried in Oberschwaben
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Wiener Kongress
+EIGENSCHAFTEN:
+  ergebnis: Gerolstein kam zum Königreich Preußen
+  jahr: 1815
+GUELTIG_BIS: 1815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: quelle
+BEZEICHNUNG: Gerolsteiner Mineralquelle
+EIGENSCHAFTEN:
+  historische_nutzung: Kelten und Römer
+  abfüllung_nachgewiesen_ab: 1724
+  abfüllung_verkauf: Wasser
+  basis_für: Gerolsteiner Mineralwasserindustrie
+  aktuelle_bedeutung: bis heute Grundlage der Mineralwasserindustrie
+GUELTIG_AB: 1724
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Bombardierung 1944/45
+EIGENSCHAFTEN:
+  grund: Eisenbahnknoten
+  zerstörungsgrad: 80 Prozent
+  auswirkung: Gerolstein stark zerstört
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadtrecht
+BEZEICHNUNG: Wiederverleihung
+EIGENSCHAFTEN:
+  jahr: 1953
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bewingen
+EIGENSCHAFTEN:
+  eingemeindung_datum: 7. Juni 1969
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hinterhausen
+EIGENSCHAFTEN:
+  eingemeindung_datum: 7. Juni 1969
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Lissingen
+EIGENSCHAFTEN:
+  eingemeindung_datum: 7. Juni 1969
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Büscheich
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gees
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Michelbach
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Müllenborn
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oos
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Roth
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: fundstätte
+BEZEICHNUNG: Buchenloch
+EIGENSCHAFTEN:
+  zeitliche_besiedlung: Altsteinzeit
+  bewohner: Neanderthaler, erste moderne Menschen
+  typ: Karsthöhle
+  länge: 36 [Meter]
+GUELTIG_AB: 50000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: fundstätte
+BEZEICHNUNG: Magdalenahöhle
+EIGENSCHAFTEN:
+  zeitliche_besiedlung: Altsteinzeit
+  bewohner: Neanderthaler, erste moderne Menschen
+GUELTIG_AB: 50000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: befestigung
+BEZEICHNUNG: Dietzenley
+EIGENSCHAFTEN:
+  zeitliche_nutzung: Bronzezeit
+  nutzer: Kelten
+  funktion: Fliehburg
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: archäologische_stätte
+BEZEICHNUNG: römische Tempel und Behausungen
+EIGENSCHAFTEN:
+  zeitliche_periode: römische Zeiten
+  status: Reste erhalten
+GUELTIG_AB: 100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Lissingen
+ORTSTEIL_BEZUG: Lissingen
+EIGENSCHAFTEN:
+  typ: ehemalige Wasserburg
+  lage_nähe: Kyll
+  älteste_gebäudeteile_jahr: 1280
+  urkundliche_erwähnung_jahr: 1212
+  besonderheit: nicht zerstört (anders als die meisten Eifler Burgen)
+  teilung_jahr: 1559
+  teilung_in: Nieder- und Oberburg
+  unterburg_nutzung: Veranstaltungs- und Kultureinrichtung
+GUELTIG_AB: 1212
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Erlöserkirche
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  bauzeit: 1907-1913
+  architekt: Franz Schwechten
+  einweihung_datum: 15. Oktober 1913
+  architektur_merkmale: großflächige Goldmosaiken, Rundbögen, dominierender Kuppel
+  beschreibung: für eine Kirche in der Diaspora geradezu verschwenderisch ausgestattet
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: römischer_herrensitz
+BEZEICHNUNG: Villa Sarabodis
+EIGENSCHAFTEN:
+  typ: Villa rustica
+  entdeckung_jahr: 1907
+  entdeckungsanlass: Vorarbeiten zum Bau der Erlöserkirche
+  datierung: 1. Jahrhundert nach Christus
+  artefakte: Fundamente, Hypokaustum (antike Fußbodenheizung)
+  exposition: in Schutzbau erhalten
+GUELTIG_AB: 100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kultstätte
+BEZEICHNUNG: Juddekirchhof
+PROPERTIES:
+  lage: oberhalb von Gerolstein auf der Hustley
+  typ: keltisch-römische Kultstätte
+  errichtung_jahr: 124 nach Christus
+  errichtet_durch: Römer Marcus Victorius Pellentius
+  mauerreste_größe: ca. 63 mal 46 [Meter]
+  gebäude_innerhalb: Fundamente mehrerer Gebäude, zwei Tempel
+  tempel_herkules: Herkules-Tempel
+  tempel_caiva: Tempel der keltischen Göttin Caiva
+  ausgrabungen_jahr: 1927/28
+GUELTIG_AB: 124
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnbetriebswerk Gerolstein
+EIGENSCHAFTEN:
+  status: ehemals bedeutsam
+  erhaltene_teile: Ringlokschuppen, Drehscheibe (betriebsfertig erhalten)
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: schule
+BEZEICHNUNG: St. Matthias-Gymnasium
+EIGENSCHAFTEN:
+  gründung_jahr: 26. April 1911
+  gründer_leiter: Studienrat Lipowicz
+  ursprünglicher_name: Höhere Knabenschule Gerolstein
+  ursprünglicher_standort: Hauptstraße 89
+  trägerschaft_erstmittel: privat
+  trägerschaft_wechsel_1: kommunal (nach Erstem Weltkrieg)
+  schließung_1: während Inflation (Schulgeld zu hoch)
+  wiedereröffnung_1: 1924
+  erste_schülerin: 1927
+  schulleiter_rahm: Hubert Rahm (1920-1954, 34 Jahre)
+  schließung_2: 1944 (Zweiter Weltkrieg)
+  gebäudenutzung_1944_45: Lazarett und Soldatenunterkunft
+  zerstörung: Bombenangriff
+  wiedereröffnung_2: 1946
+  neuerung_1946: mittlere Reife möglich
+  umbenennung_1: Progymnasium Gerolstein
+  neuer_standort_einweihung: 1953 (Digoinstraße)
+  erster_abiturjahrgang: 1958
+  schülerzahl_1974: 1200
+  wechsel_trägerschaft_2: Landkreis Daun (1975)
+  umbenennung_2: St. Matthias-Gymnasium Gerolstein (1975)
+  schulleiter_molitor: Hermann-Josef Molitor (25 Jahre, bis 1992)
+  schulleiter_steinmetz: Heribert Steinmetz (bis Sommer 2014)
+  schulleiter_schmitz: Jutta Schmitz (ab Sommer 2014)
+  sanierung: 1996-2006
+  jubiläum_100_jahr: 2011
+  superlativ: 100-jähriges Jubiläum mit Festakt, Projektwoche und Jubiläumschronik
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schulpartnerschaft
+BEZEICHNUNG: Lycée/Collège Digoin
+EIGENSCHAFTEN:
+  beginn: 1985
+  land: Frankreich
+  resultante_städtepartnerschaft: Gerolstein-Digoin (1987)
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schulpartnerschaft
+BEZEICHNUNG: Ramat Gan
+EIGENSCHAFTEN:
+  beginn: 1987
+  land: Israel
+  typ: Austauschbegegnungen
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schulpartnerschaft
+BEZEICHNUNG: Groupe Scolaire de Kansi
+EIGENSCHAFTEN:
+  beginn: 2007
+  land: Ruanda
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: internat
+BEZEICHNUNG: Bischöfliches Internat Albertinum
+ORTSTEIL_BEZUG: Albertinumweg
+EIGENSCHAFTEN:
+  standort: ehemaliges Hotel
+  betrieb_jahre: 1946-1982
+  aufarbeitungsprojekt_start: Herbst 2019
+  abschlussbericht: Februar 2022
+  beschuldigte_zahl: 12
+  beschuldigte_typ: Direktoren (Priester)
+  vorwürfe: körperliche, psychische und sexualisierte Gewalt
+  träger: Bistum
+  träger_kritik: Vernachlässigung und unzureichende Kontrolle
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1982
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Gerolsteiner Brunnen
+EIGENSCHAFTEN:
+  typ: Mineralwasserproduzent
+  sitz: Gerolstein
+  reputation: bundesweit bekannt
+  tätigkeitsradius: bundesweit
+GUELTIG_AB: 1724
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Vulkan-Eifel-Bahn Betriebsgesellschaft
+EIGENSCHAFTEN:
+  sitz: Gerolstein
+  tätigkeitsradius: bundesweit
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: AKE-Eisenbahntouristik
+EIGENSCHAFTEN:
+  sitz: Gerolstein
+  relation_zu_vulkan_eifel_bahn: Schwesterunternehmen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: öffentliches WLAN
+EIGENSCHAFTEN:
+  kostenlose_standorte: 30
+  verfügbarkeit_seit: Sommer 2016
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: militärbasis
+BEZEICHNUNG: Eifelkaserne
+EIGENSCHAFTEN:
+  einheit: Informationstechnikbataillon 281
+  spezialanlage_bsg_g: eine von drei festen Bodenstationen des bundeswehreigenen Satellitenkommunikationssystems SATCOMBw
+  antennen_beschreibung: zwei C-Band-, eine X-Band-, zwei Ku-Band-Antennen
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sportanlage
+BEZEICHNUNG: Zentrale Sportanlage Gerolstein
+EIGENSCHAFTEN:
+  anlagen: Leichtathletikanlagen, Rasenplatz, Basketball- und Volleyballfelder
+  ansässiger_verein: SV Gerolstein
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: geologische_formation
+BEZEICHNUNG: Gerolsteiner Dolomiten
+EIGENSCHAFTEN:
+  höhe_über_kyll: 100 [Meter]
+  typ: devonisches Kalkriff
+  bildner: ausgestorbene Rugosen, Tabulaten, Stromatoporen
+  bestandteile_gebirgsmassiv: Hustley, Munterley, Auberg
+  visuelle_dominanz: 100 [Meter] über dem Talniveau
+  domination_ortsbild: ja
+GUELTIG_AB: 400000000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: naturdenkmale
+BEZEICHNUNG: Papenkaule
+EIGENSCHAFTEN:
+  typ: Trockenmaar
+GUELTIG_AB: 50000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: höhlen
+BEZEICHNUNG: Mühlsteinhöhlen/Eishöhlen
+ORTSTEIL_BEZUG: Roth
+EIGENSCHAFTEN:
+  typ: Höhlensystem
+GUELTIG_AB: 100000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: museum
+BEZEICHNUNG: Naturkundemuseum
+EIGENSCHAFTEN:
+  standort: in und um Gerolstein
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: museum
+BEZEICHNUNG: Kreisheimatmuseum
+EIGENSCHAFTEN:
+  standort: in und um Gerolstein
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: fundgebiet
+BEZEICHNUNG: Trilobitenfelder von Gees
+ORTSTEIL_BEZUG: Gees (südöstlich)
+EIGENSCHAFTEN:
+  lage_richtung: Richtung Salm
+  typ: bekanntes Fundgebiet
+  status: unter Naturschutz
+  fossilien: devonische Trilobiten (außergewöhnlich gut erhalten)
+GUELTIG_AB: 400000000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Digoin
+EIGENSCHAFTEN:
+  land: Frankreich
+  seit: 1987
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Gilze-Rijen
+EIGENSCHAFTEN:
+  land: Niederlande
+  seit: 1981
+  besonderheit: Kündigung durch Partnergemeinde, jedoch nicht akzeptiert von Gerolstein
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: stadtrat
+EIGENSCHAFTEN:
+  mitglieder: 24 Ratsmitglieder
+  wahl_datum: 9. Juni 2024
+  wahlmodus: personalisierte Verhältniswahl
+  vorsitzender_titel: ehrenamtlicher Stadtbürgermeister
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Winfried Wülferath
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 22. April 2026
+  wahlmodus: Direktwahl
+  wahl_datum: 22. März 2026 (parallel zur Landtagswahl)
+  wahl_stimmen_prozent: 75,8
+  gegner: parteilos
+  wahlperiode_bis: 2029
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Stefanie Lorisch
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 17. Juli 2024
+  amtsende_geplant: August 2025 (Rücktritt)
+  wahl_datum: 9. Juni 2024
+  wahl_stimmen_prozent: 51,0
+  gegner: Amtsinhaber
+  grund_amtsende: Rücktritt angekündigt
+GUELTIG_AB: 2024
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Uwe Schneider
+EIGENSCHAFTEN:
+  partei: SPD
+  amtsantritt: Juni 2019
+  wahlmodus: Stichwahl
+  gegner: Friedhelm Bongartz (CDU, Amtsinhaber)
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Hubert Rahm
+EIGENSCHAFTEN:
+  beruf: Schulleiter
+  verleihung_jahr: 1959
+GUELTIG_AB: 1959
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Herbert Neusen
+EIGENSCHAFTEN:
+  beruf: Geschäftsführer Gerolsteiner Brunnen
+  verleihung_jahr: 1985
+GUELTIG_AB: 1985
+IST_VERMUTISCH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Pierre Sefer
+EIGENSCHAFTEN:
+  verdienst: Städtepartnerschaft mit Digoin/Burgund
+  verleihung_jahr: 2007
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Maria Reese
+EIGENSCHAFTEN:
+  geboren: 1889
+  gestorben: 1958
+  berufe: Schriftstellerin, Journalistin, Politikerin
+  parteien: SPD, KPD
+GUELTIG_AB: 1889
+GUELTIG_BIS: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Rolf Huisgen
+EIGENSCHAFTEN:
+  geboren: 1920
+  gestorben: 2020
+  beruf: Chemiker
+GUELTIG_AB: 1920
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Alois Mertes
+EIGENSCHAFTEN:
+  geboren: 1921
+  gestorben: 1985
+  berufe: Politiker, Diplomat, Staatsminister
+  partei: CDU
+  amt: Auswärtiges Amt
+GUELTIG_AB: 1921
+GUELTIG_BIS: 1985
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ernst Pieper
+EIGENSCHAFTEN:
+  geboren: 1928
+  gestorben: 1995
+  beruf: Industriemanager
+GUELTIG_AB: 1928
+GUELTIG_BIS: 1995
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Heinrich Schmitz
+EIGENSCHAFTEN:
+  geboren: 1929
+  gestorben: 2000
+  beruf: Politiker
+  partei: CDU
+GUELTIG_AB: 1929
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Matthias Krings
+EIGENSCHAFTEN:
+  geboren: 1943
+  beruf: Moderator
+GUELTIG_AB: 1943
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Eva Hahn
+EIGENSCHAFTEN:
+  geboren: 1946
+  beruf: Historikerin
+GUELTIG_AB: 1946
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hans Henning Hahn
+EIGENSCHAFTEN:
+  geboren: 1947
+  beruf: Historiker
+GUELTIG_AB: 1947
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Herbert Klaeren
+EIGENSCHAFTEN:
+  geboren: 1950
+  beruf: Informatiker
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Marita Kraemer
+EIGENSCHAFTEN:
+  geboren: 1953
+  beruf: Managerin
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Rudi Gores
+EIGENSCHAFTEN:
+  geboren: 1957
+  berufe: Fußballspieler, Fußballtrainer
+GUELTIG_AB: 1957
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Alice Creischer
+EIGENSCHAFTEN:
+  geboren: 1960
+  beruf: Künstlerin
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Michael Baales
+EIGENSCHAFTEN:
+  geboren: 1963
+  beruf: Archäologe
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Michael Fisch
+EIGENSCHAFTEN:
+  geboren: 1964
+  beruf: Schriftsteller
+GUELTIG_AB: 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hans Peter Böffgen
+EIGENSCHAFTEN:
+  geboren: 1965
+  genauigkeit: ca.
+  berufe: Verwaltungsbeamter, Politiker
+  partei: parteilos
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hans-Josef Endres
+EIGENSCHAFTEN:
+  geboren: 1966
+  berufe: Maschinenbauingenieur, Hochschullehrer
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Elizabeth Blonzen
+EIGENSCHAFTEN:
+  geboren: 1968
+  berufe: Schauspielerin, Autorin
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Frank Rock
+EIGENSCHAFTEN:
+  geboren: 1970
+  beruf: Politiker
+  partei: CDU
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Andreas Önnerfors
+EIGENSCHAFTEN:
+  geboren: 1971
+  beruf: Historiker
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Christian Humberg
+EIGENSCHAFTEN:
+  geboren: 1976
+  berufe: Schriftsteller, Literaturübersetzer
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Johannes Fröhlinger
+EIGENSCHAFTEN:
+  geboren: 1985
+  beruf: Radrennfahrer
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Christian Vietoris
+EIGENSCHAFTEN:
+  geboren: 1989
+  beruf: Autorennfahrer
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ruth Greb
+EIGENSCHAFTEN:
+  geboren: 1993
+  beruf: Politikerin
+  partei: SPD
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verkehrsnetz
+BEZEICHNUNG: Bundesstraße 410
+EIGENSCHAFTEN:
+  streckenverlauf: von der luxemburgischen Grenze (Dasburg) bis nach Hirten bei Mayen
+  anbindung_autobahn: Bundesautobahn 1, Anschlussstelle 118
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Eifelstrecke
+EIGENSCHAFTEN:
+  streckenverlauf: Köln–Euskirchen–Gerolstein–Trier
+  schienenpersonennahverkehr: ja
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Gerolstein
+EIGENSCHAFTEN:
+  bahnstrecke: Eifelstrecke
+  bahnverkehr: Schienenpersonennahverkehr
+  infrastruktur: Regionalzuganbindung (Trier, Köln, Koblenz)
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Eifel-Mosel-Express (RE 12)
+EIGENSCHAFTEN:
+  streckenverlauf: Köln–Euskirchen–Gerolstein–Trier
+  fahrzeugsystem: VAREO-Diesel-Triebwagen
+  fahrzeugreihe: DB-Baureihe 620, 622
+  traktion: Ein- bis Dreifachtraktion
+  geschwindigkeit_max: 120 [km/h]
+  betreiber: DB Regio NRW
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Eifel-Express (RE 22)
+EIGENSCHAFTEN:
+  streckenverlauf: Köln–Euskirchen–Gerolstein
+  durchbindung: nach Trier (RB 22)
+  betreiber: DB Regio NRW
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Eifel-Bahn (RB 24)
+EIGENSCHAFTEN:
+  streckenverlauf: Köln–Euskirchen–Kall
+  besonderheit: in der HVZ bis Gerolstein
+  betreiber: DB Regio NRW
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Eifelquerbahn
+EIGENSCHAFTEN:
+  status: bis Kaisersesch stillgelegt
+  streckenverlauf: Daun-Kaisersesch nach Andernach (KBS 478)
+  aktuelles_vorhaben: Reaktivierung angestrebt
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Westeifelbahn
+EIGENSCHAFTEN:
+  status: stillgelegt
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Hochwasser 2021
+EIGENSCHAFTEN:
+  ereignis: Dauerregen 14./15. Juli 2021 und Jahrhunderthochwasser
+  auswirkung: Bahnverkehr vollständig eingestellt
+  wiederherstellung_teilweise: April 2023
+  geschätzter_abschluss: 2024
+GUELTIG_BIS: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: buslinie
+BEZEICHNUNG: 460 / 465
+EIGENSCHAFTEN:
+  streckenverlauf: Gerolstein über Prüm nach Clervaux (LU) bzw. St. Vith (BE)
+  takt_prüm_richtung: Montag bis Samstag Stundentakt, sonntags alle 2 Stunden
+  takt_clervaux_richtung: Montag bis Samstag alle 2 Stunden, sonntags alle 4 Stunden
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: buslinie
+BEZEICHNUNG: 530
+EIGENSCHAFTEN:
+  typ: Ringverbindung
+  streckenverlauf: Oberbettingen, Hillesheim, Walsdorf, Rockeskyll, Pelm und Gerolstein
+  takt: Montag bis Sonntag alle 2 Stunden
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: buslinie
+BEZEICHNUNG: 700
+EIGENSCHAFTEN:
+  typ: RegioBus-Linie
+  streckenverlauf: Gerolstein über Daun, Ulmen nach Cochem
+  takt: Montag bis Sonntag stündlich
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: buslinie
+BEZEICHNUNG: 777
+EIGENSCHAFTEN:
+  typ: RadBus-Linie
+  betrieb: an Wochenenden
+  streckenverlauf: Gerolstein nach Cochem über Daun
+  takt: Samstag und Sonntag alle 2 Stunden
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 531
+EIGENSCHAFTEN:
+  streckenverlauf: Pelm – Bahnhof/ZOB – Krankenhaus – Vulkanring – Bewingen – Dohm – Hillesheim
+  anmeldung_voraus: mind. 60 Minuten vor Abfahrt
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 532
+EIGENSCHAFTEN:
+  typ: Ringverkehr
+  streckenverlauf: Gerolstein – Lissingen – Kopp – Birresborn – Michelbach – Büscheich – Gerolstein
+  takt: Montag bis Samstag alle 60 Minuten
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 533
+EIGENSCHAFTEN:
+  streckenverlauf: Gerolstein – Michelbach – Salm – Deudesfeld – Manderscheid
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 534
+EIGENSCHAFTEN:
+  streckenverlauf: Gerolstein – Pelm – Kirchweiler – Neroth – Daun
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 535
+EIGENSCHAFTEN:
+  streckenverlauf: Gerolstein Waldstraße – Rasbach/Feuerwehr – Bahnhof/ZOB – Gees
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 546
+EIGENSCHAFTEN:
+  typ: Ringverkehr
+  streckenverlauf: BBS/Einkaufszentrum – Bahnhof – Rasbach/Feuerwehr – Müllenborn – Oos – Duppach – Kalenborn-Scheuern – Lindenstraße – Krankenhaus – Bahnhof/ZOB
+  takt: Montag bis Samstag alle 60 Minuten
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kulturelle_referenz
+BEZEICHNUNG: Operette La Grande-Duchesse de Gérolstein
+EIGENSCHAFTEN:
+  komponist: Jacques Offenbach
+  kompositionsjahr: 1867
+  szenarium: fiktives deutsches Herzogtum Gerolstein
+  zeitliche_ansiedlung: um 1840
+  bezug_realort: kein Bezug zum realen Ort Gerolstein
+GUELTIG_AB: 1867
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

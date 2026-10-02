@@ -1,0 +1,2696 @@
+ZIELORT: Linz am Rhein (Stadt)
+LAGE: 23 km südöstlich von Bonn (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Linz am Rhein
+
+GRUNDDATEN:
+  landkreis: Neuwied  [dewiki Infobox]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 6276  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 17,98  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 349  [berechnet aus Einwohner und Fläche]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 90 | 70 | 75 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2876952)]
+  naechste_grossstadt: Bonn, 23 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 96 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Linz (Rhein)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 53545  [Wikidata P281]
+  vorwahl: 02644  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 37,3 %, SPD 17,5 %, AfD 16,9 %, GRÜNE 10,1 %, Die Linke 5,6 %; Wahlbeteiligung 85,4 % — GILT FÜR DIE VERBANDSGEMEINDE LINZ AM RHEIN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Helmut Muthers (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-02]
+  partnerstaedte: Linz, Marietta, Pornic  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT landkreis: Landkreis (Ersatz: Kennzeichen), A, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Waldbreitbach (Gemeinde)
+  landkreis: Neuwied  [dewiki Infobox]
+  einwohner: 1924  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 6,39  [Wikidata P2046]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 140 | 114 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2815138)]
+  naechste_grossstadt: Koblenz, 25 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  ersterwaehnung: 857  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 43,8 %, AfD 16,4 %, SPD 15 %, GRÜNE 9 %, Die Linke 5,6 %; Wahlbeteiligung 79,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Bendorf, Engers, Heimbach-Weis, Altwied, Rengsdorf, Dierdorf, Waldbreitbach, Linz am Rhein, Bad Hönningen, Leutesdorf
+
+FAKTEN (Zielort Linz am Rhein):
+ID: 08-linz/001
+ENTITÄT: ort
+BEZEICHNUNG: Linz am Rhein
+EIGENSCHAFTEN:
+  ist_stadt: true
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  position: nördlich von Rheinland-Pfalz, nahe der Grenze zu Nordrhein-Westfalen, rechtsrheinisch am nördlichen Mittelrhein
+  entfernung_von_bonn: 22 km
+  entfernung_von_koblenz: 33 km
+  ist_verwaltungssitz_verbandsgemeinde: true
+  ist_mittelzentrum_nach_landesplanung: true
+  spitzname: Die Bunte Stadt am Rhein
+  grund_spitzname: Viele farblich und künstlerisch ausgestaltete Altstadthäuser
+  rhein_kilometer: 629
+  naturpark: Rhein-Westerwald
+  gegenüber_von: Ahrmündung
+  höhenlage_min: 55 m ü. NHN
+  höhenlage_max: 160 m ü. NHN
+  jahresniederschlag: 701 mm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-linz/002
+ENTITÄT: berg
+BEZEICHNUNG: Kaiserberg
+EIGENSCHAFTEN:
+  höhe: 174 m ü. NHN
+  lage: Südöstlich des Ortskerns
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/003
+ENTITÄT: berg
+BEZEICHNUNG: Meerberg
+EIGENSCHAFTEN:
+  auch_genannt: Düstemich
+  höhe_aktuell: 429 m ü. NHN
+  höhe_früher: 448 m ü. NN
+  grund_höhenveränderung: Abgetragen durch Basaltsteinbruch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/004
+ENTITÄT: berg
+BEZEICHNUNG: Minderberg
+EIGENSCHAFTEN:
+  höhe: 405 m ü. NHN, genauigkeit: ca.
+  stillgelegte_basaltsteinbrüche: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/005
+ENTITÄT: berg
+BEZEICHNUNG: Hummelsberg
+EIGENSCHAFTEN:
+  höhe_aktuell: 407 m ü. NHN
+  höhe_früher: mindestens 441 m ü. NN
+  entfernung_vom_stadtzentrum: 3 km nordöstlich
+  besonderheit: War markant im Stadtbild sichtbar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/006
+ENTITÄT: ringwallanlage
+BEZEICHNUNG: Ringwall Hummelsberg
+EIGENSCHAFTEN:
+  untersucht_jahr: 1936
+  ursprung: Auseinandersetzungen zwischen Kelten und Germanen, genauigkeit: vermutlich
+  funktion: Fluchtburg und Wohnplatz
+  zeitraum: 600-400 v. Chr.
+  bezeichnung_archäologisch: befestigte Höhensiedlung
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 600
+GUELTIG_BIS: 400
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 08-linz/007
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+EIGENSCHAFTEN:
+  typ: Pfarrkirche
+  baubeginn: 1206
+  einweihung: 1214
+  baustil: romanische und gotische Bauformen, unregelmäßig aber harmonisch vereint
+  wandmalereien: vorhanden aus dem 13. und 16. Jahrhundert
+  besonderheit_kunst: Jakobs-Pilgerkrönung aus ca. 1230, zu den ältesten und bedeutendsten im deutschsprachigen Raum
+  vorgängerkirche_zerstört: 1198
+  grund_zerstörung_vorgänger: Kämpfe zwischen Otto IV. und Philipp von Schwaben
+  grabstätten_entdeckt: 1981
+  kontext_grabstätten: Beim Bau einer Fußbodenheizung während Restaurierungsarbeiten
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1214
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-linz/008
+ENTITÄT: stadterhebung
+BEZEICHNUNG: Linz
+EIGENSCHAFTEN:
+  zeitraum: 1304-1332
+  grund: Entscheidung des Kölner Erzbischofs Heinrich II. von Virneburg
+  stadtmauer_errichtung: Während dieser Zeit errichtet
+  kirchspiel_umfang: Linz, Linzerhausen, Ockenfels, Kasbach (links des Bachs), Ohlenberg, Leubsdorf, Ariendorf (rechts des Bachs), später unter dem Namen Linzer Höhe zusammengefasste Dörfer Notscheid und Hargarten
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1304
+GUELTIG_BIS: 1332
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/009
+ENTITÄT: burg
+BEZEICHNUNG: Burg Linz
+EIGENSCHAFTEN:
+  erbaut: 1365
+  besitzer: Kurfürst von Köln
+  besonderheit: Mit Folterkammer aus der Ritterzeit
+  zugang_public: nicht öffentlich zugänglich (zurzeit)
+GUELTIG_AB: 1365
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/010
+ENTITÄT: brand
+BEZEICHNUNG: Stadtbrand von Linz
+EIGENSCHAFTEN:
+  jahr: 1391
+  beschreibung: Linz brannte bis auf ein Drittel ab
+GUELTIG_AB: 1391
+GUELTIG_BIS: 1391
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/011
+ENTITÄT: belagerung
+EIGENSCHAFTEN:
+  jahr: 1475
+  durch: Kaiserliche Truppen
+  grund: Neusser Krieg
+GUELTIG_AB: 1475
+GUELTIG_BIS: 1475
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/012
+ENTITÄT: fähre
+BEZEICHNUNG: Rheinfähre Linz-Kripp
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 2. Mai 1443
+  grund_erwähnung: Verpachtung der Fährrechte
+  dokumentation: Urkunde im Linzer Stadtarchiv
+  pächter_1443: Jakob Schade und Katharina
+  erbzins: 20 Mark
+  besicherung: Drittel des Besitzes der Pächter
+  besitzer_heute: Stadt Linz (Geschäftsführerin)
+  rechte: Fährgerechtsame war von Alters her im Linzer Besitz
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1443
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/013
+ENTITÄT: kirche
+BEZEICHNUNG: St. Marien
+EIGENSCHAFTEN:
+  typ: Katholische Kirche
+  einweihung: 1967
+  besonderheit: Bedeutender Kölner Flügelaltar
+  flügelaltar_jahr: 1463
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/014
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche
+EIGENSCHAFTEN:
+  baubeginn: 1863
+  bauende: 1865
+  grund_neubau: Zuzug protestantischer Familien
+  baumaterial: Zum Teil aus Baumaterialien des abgetragenen Grabentors
+  lage: Auf dem Gelände des ehemaligen Grabentores
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1863
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/015
+ENTITÄT: klosterkirche
+BEZEICHNUNG: Kapuzinerklosterkirche (ehemals)
+EIGENSCHAFTEN:
+  erbaut: 1636-1645
+  heute: Stadthalle
+  umnutzung_jahr: 1971
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1971
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/016
+ENTITÄT: kapelle
+BEZEICHNUNG: Ratskapelle
+EIGENSCHAFTEN:
+  einweihung: 1462
+  abriss: 1818
+  grund_abriss: Finanzielle Engpässe der Stadt
+  lage: Auf dem Marktplatz
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1818
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/017
+ENTITÄT: tor
+BEZEICHNUNG: Rheintor
+EIGENSCHAFTEN:
+  erbaut: 1329
+  status: Noch erhalten
+  teil_von: Teil der inzwischen fast vollständig abgetragenen Befestigungsmauern
+  besonderheit: Markierungen der Hochwasserüberflutungen verzeichnet
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1329
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/018
+ENTITÄT: tor
+BEZEICHNUNG: Neutor
+EIGENSCHAFTEN:
+  erbaut: 1329
+  status: Noch erhalten
+  teil_von: Teil der inzwischen fast vollständig abgetragenen Befestigungsmauern
+  skulptur_linzer_klapperjunge: Vor dem Neutor 1987 aufgestellt
+  tradition_ratschen: Etwa 200 Kinder und Jugendliche nehmen vorösterliche Ratschen-Tradition wahr
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1329
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/019
+ENTITÄT: turm
+BEZEICHNUNG: Linzer Pulverturm
+EIGENSCHAFTEN:
+  status: Noch erhalten
+  historische_nutzung: Gefängnis (1792 Der Schwarze Peter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/020
+ENTITÄT: sendeanlage
+BEZEICHNUNG: SWR-Sendeanlage
+EIGENSCHAFTEN:
+  funktion: Sender für UKW und Fernsehen
+  antenne_typ: abgespannter Stahlfachwerkmast
+  mast_höhe: 156 m
+  zusätzlich: kleiner freistehender Stahlturm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/021
+ENTITÄT: burg
+BEZEICHNUNG: Burg Ockenfels
+EIGENSCHAFTEN:
+  zerstört: Ende 15. Jahrhundert
+  wiederaufgebaut: 1920er-Jahre
+  lage: Oberhalb von Linz
+  superlativ: erwähnt im Wanderweg Rheinsteig
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1920
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/022
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Rennenberg
+EIGENSCHAFTEN:
+  erbaut: 1846
+  lage: Im Wald bei der Sterner Hütte, in schöner Parkanlage
+  restauriert: Nach 1992
+  status: Privatbesitz
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1846
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/023
+ENTITÄT: burg
+BEZEICHNUNG: Burg Rennenberg
+EIGENSCHAFTEN:
+  status: Ruine
+  erbaut: Anfang 13. Jahrhundert
+  lage: Oberhalb von Schloss Rennenberg
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/024
+ENTITÄT: friedhof
+BEZEICHNUNG: Jüdischer Friedhof
+EIGENSCHAFTEN:
+  status: Denkmalzone
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/025
+ENTITÄT: brunnen
+BEZEICHNUNG: Strünzerbrunnen
+EIGENSCHAFTEN:
+  lage: In der Altstadt
+  widmung: Dem Menschentyp des Linzer Strünzers
+  namensherkunft: Ursprünglich der Spitzname eines ortsansässigen Wirtes
+  bedeutung_regional: Rheinländisches Synonym eines herzlichen Menschen, der aber beim Schwatzen und beim Trinken etwas übertreibt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 08-linz/026
+ENTITÄT: archiv
+BEZEICHNUNG: Stadtarchiv
+EIGENSCHAFTEN:
+  lage: In der ehemaligen Kapelle des Krankenhauses der Franziskanerinnen (19. Jahrhundert)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/027
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus
+EIGENSCHAFTEN:
+  bauzeit: 1517-1527
+  besonderheit: Bau an Stelle eines Vorgängerbaues
+  glockenspiel: Arrangements von Wilhelm Heinrichs am historischen Rathaus
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1517
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/028
+ENTITÄT: altstadt
+BEZEICHNUNG: Historische Altstadt
+EIGENSCHAFTEN:
+  charakteristik: Viel Fachwerk
+  freigelegung: Seit 1912 wieder freigelegt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/029
+ENTITÄT: stadtmauer
+BEZEICHNUNG: Rheinseitige Stadtmauer
+EIGENSCHAFTEN:
+  abgetragen: 1861-1862
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1862
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/030
+ENTITÄT: tor
+BEZEICHNUNG: Grabentor
+EIGENSCHAFTEN:
+  abgetragen: 1863
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1863
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/031
+ENTITÄT: tor
+BEZEICHNUNG: Leetor
+EIGENSCHAFTEN:
+  abgetragen: 1879
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1879
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/032
+ENTITÄT: oberamt
+BEZEICHNUNG: Oberamt Linz
+EIGENSCHAFTEN:
+  gründung: um 1700
+  geschichte_1803: Fiel an den Fürsten von Nassau-Usingen (Reichsdeputationshauptschluss)
+  geschichte_1806: Im Herzogtum Nassau aufgegangen
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/033
+ENTITÄT: bürgermeisterei
+BEZEICHNUNG: Bürgermeisterei Linz
+EIGENSCHAFTEN:
+  gründung: 1816 (neugebildet)
+  status: Hauptsitz der nassauischen Bürgermeisterei
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1816
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/034
+ENTITÄT: kreis
+BEZEICHNUNG: Kreis Linz
+EIGENSCHAFTEN:
+  gründung: 1816
+  verwaltungssitz: Erpel (nicht Linz selbst)
+  aufgelöst: 1822
+  nachfolger: Kreis Neuwied (preußische Rheinprovinz)
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1816
+GUELTIG_BIS: 1822
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/035
+ENTITÄT: stadterhebung_nach_städteordnung
+EIGENSCHAFTEN:
+  jahr: 1857
+  grundlage: Rheinische Städteordnung
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1857
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/036
+ENTITÄT: eisenbahnstrecke
+EIGENSCHAFTEN:
+  anschluss_jahr: 1870
+  strecke: Köln-Troisdorf-Neuwied-Niederlahnstein
+  bahnhof_gebaut: 1870
+  ursprüngliches_profil: Eingleisig
+  ausbau_1883: Wegen Hochwasser auf Viadukte höher gelegt und zusätzlich zweigleisig ausgebaut
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1870
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/037
+ENTITÄT: eisenbahnstrecke
+BEZEICHNUNG: Strecke Linz-Neustadt-Flammersfeld-Altenkirchen
+EIGENSCHAFTEN:
+  inbetriebnahme: 1. Oktober 1912
+  schädigungen_krieg: Brückensprengungen im Wiedtal durch deutsche Wehrmacht seit März 1945
+  einstellung_personenverkehr: 1960
+  restbetrieb: Etwa 8 km von Linz nach Kalenborn
+  restbetrieb_betreiber: Kasbachtalbahn
+  restbetrieb_betrieb: Mai bis Oktober an Wochenenden und Feiertagen
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1912
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/038
+ENTITÄT: gemeinde
+BEZEICHNUNG: Linzhausen
+EIGENSCHAFTEN:
+  eingemeindet: 1. April 1912
+  frühere_namen: Linzerhausen oder Hausen
+  fläche: 0,33 km²
+  besonderheit: Kleinste Gemeinde des Kreises
+  lage: Am nördlichen Ortseingang
+  status_heute: Wird heute nicht mehr als Stadtteil empfunden
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1912
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/039
+ENTITÄT: stadtteil
+BEZEICHNUNG: Kretzhaus
+EIGENSCHAFTEN:
+  teil_zu_gemeinde: Kleiner Teil zur Gemeinde Vettelschoß
+  besonderheit: Erreicht siedlungsmäßig den Westerwald
+ORTSTEIL_BEZUG: Kretzhaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 08-linz/040
+ENTITÄT: stadtteil
+BEZEICHNUNG: Roniger Hof
+EIGENSCHAFTEN:
+  gründung: 1970er Jahre
+  entfernung_von_stadt: Drei Kilometer oberhalb der Stadt
+  erste_häuser: 1976
+  krankenhaus_erbaut: 1979 im neuen Stadtteil
+ORTSTEIL_BEZUG: Roniger Hof
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1976
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/041
+ENTITÄT: stadtteil
+BEZEICHNUNG: Stuxhof
+EIGENSCHAFTEN:
+  grenzt_an: Erl (Gemeinde Kasbach-Ohlenberg)
+ORTSTEIL_BEZUG: Stuxhof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/042
+ENTITÄT: brunnen
+BEZEICHNUNG: Strünzerbrunnen
+EIGENSCHAFTEN:
+  lage: In der Altstadt
+  widmung: Menschentyp des Linzer Strünzers
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/043
+ENTITÄT: urkunde
+BEZEICHNUNG: Gründungsurkunde
+EIGENSCHAFTEN:
+  jahr: 874
+  ortsnamen_erwähnung: Lincesce oder Lincheste
+  aussteller: Äbtissin des Stifts Gerresheim Reginbierg (Tochter des fränkischen Edelmanns Gerricus)
+  bedeutung: Erste urkundlich nachgewiesene Erwähnung von Linz
+  implikation: Reginbierg besaß Zehntrechte
+  kontext_zehntrechte: Nach Karolingischem Recht nur dann ein Gutsbesitzer das Zehntrecht erhielt, wenn er in seinem Sprengel eine Kirche erbaut hatte
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 874
+GUELTIG_BIS: 874
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/044
+ENTITÄT: besatzung
+EIGENSCHAFTEN:
+  zeitraum: Februar 1923 - 17. November 1924
+  durch_truppen: Französische Truppen
+  grund: Ruhrkampf
+  gebiet: Einbruchsgebiet im südlichen Siegkreis und nördlichen Kreis Neuwied
+  beendigung: Nach der Londoner Konferenz am 17. November 1924
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1923
+GUELTIG_BIS: 1924
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/045
+ENTITÄT: flugzeugabsturz
+EIGENSCHAFTEN:
+  datum: 28. Mai 1984
+  flugzeug: Kampfflugzeug der niederländischen Luftwaffe
+  pilot: Pieter Enzerink (bekannt als Gipsy)
+  opfer: Pilot und eine Anwohnerin
+  verletzte: Zahlreiche Menschen
+  ort: Unweit des Krankenhauses Linz, in ein Mehrfamilienhaus
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1984
+GUELTIG_BIS: 1984
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/046
+ENTITÄT: konfessionsstatistik
+EIGENSCHAFTEN:
+  referenzdatum_alt: 30. Juni 2005
+  katholiken_2005: 59,3 %
+  evangelisch_2005: 17,4 %
+  konfessionslos_etc_2005: 23,3 %
+  trend_katholiken: Jährlich um 1 Prozentpunkt gesunken
+  referenzdatum_aktuell: Ende März 2025
+  katholiken_2025: 39,8 %
+  evangelisch_2025: 13,2 %
+  andere_2025: 47,0 %
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-linz/047
+ENTITÄT: stadtrat
+EIGENSCHAFTEN:
+  wahl_datum: 9. Juni 2024
+  wahl_system: Personalisierte Verhältniswahl
+  mitgliederzahl: 22 Ratsmitglieder
+  vorsitz: Ehrenamtlicher Stadtbürgermeister
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2024
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-linz/048
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Helmut Muthers
+EIGENSCHAFTEN:
+  amtsantritt: 3. Juli 2024
+  wahl_datum: 9. Juni 2024
+  wahl_system: Direktwahl
+  kandidaten: Einziger Kandidat
+  wahlbeteiligung: 63,6 %
+  stimmenanteil: 76,6 %
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-linz/049
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Linz an der Donau
+EIGENSCHAFTEN:
+  land: Österreich
+  region: Oberösterreich
+  status_regional: Landeshauptstadt
+  partnerschaft_inoffiziell: 1920
+  partnerschaft_offiziell: 1987
+GUELTIG_AB: 1920
+IST_VERMUTISCH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/050
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Marietta
+EIGENSCHAFTEN:
+  land: USA
+  bundesstaat: Georgia
+  partnerschaft: 1965
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/051
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Pornic
+EIGENSCHAFTEN:
+  land: Frankreich
+  partnerschaft: 1987
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/052
+ENTITÄT: freundschaftsvertrag
+EIGENSCHAFTEN:
+  partnerortsteil: Linz (Ortsteil der Gemeinde Schönfeld)
+  land: Deutschland
+  bundesland: Sachsen
+  typ: Freundschaftsvertrag
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/053
+ENTITÄT: weinanbau
+BEZEICHNUNG: Weinlage Rheinhölle
+EIGENSCHAFTEN:
+  status_aktuell: Noch etwas Weinanbau (2022)
+  lage: Entlang der Straße Rheinhöller, vom Ortskern nach Ockenfels
+  radfernweg: EV15 (europäischer Radfernweg)
+  ursprung_name: Rhinhelderberg
+  etymologie_name: Mittelhochdeutsch Helde/Hell (Berghang)
+  bedeutung_etymologie: Verweist auf einen zum Rhein hin abfallenden Berghang
+  ausrichtung: Südwesten zum Rhein
+  höhe: 60-100 m über NN
+  neigung: Recht steil
+  oberflächenabbruchkante: Lehmig, darüber Baumbewuchs
+  bodentyp: Tonschieferverwitterungsboden
+  bodenursprung: Untere und mittlere Siegen-Schichten
+  gesteinsart: Vulkanite aus dem Tertiär
+  qualitätspotential: Hoch
+  weinsorte_weiß: Weißburgunder
+  weinsorte_rot_riesling: Rieslinge
+  charakteristik: Rassige, säurebetonte Weine
+  herkunft_name_alternative: Rhinhelderberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/054
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Tourismus
+EIGENSCHAFTEN:
+  bedeutung: Wichtigster Wirtschaftszweig in Linz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/055
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Basaltabbau
+EIGENSCHAFTEN:
+  bedeutung_früher: Spielte früher eine große Rolle
+  status_heute: Stillgelegt (historische Steinbrüche erwähnt: Meerberg, Minderberg, Hummelsberg)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/056
+ENTITÄT: unternehmen
+BEZEICHNUNG: BAG - Basalt-Actien-Gesellschaft
+EIGENSCHAFTEN:
+  branche: Basaltabbau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/057
+ENTITÄT: unternehmen
+BEZEICHNUNG: Birkenstock
+EIGENSCHAFTEN:
+  branche: Schuhe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/058
+ENTITÄT: unternehmen
+BEZEICHNUNG: Niedax GmbH & Co. KG
+EIGENSCHAFTEN:
+  produkt: Kabelverlegesysteme
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/059
+ENTITÄT: schule
+BEZEICHNUNG: Bürgermeister-Castenholtz-Schule
+EIGENSCHAFTEN:
+  typ: Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/060
+ENTITÄT: schule
+BEZEICHNUNG: Robert-Koch-Schule
+EIGENSCHAFTEN:
+  typ: Integrative Realschule plus und Fachoberschule
+  frühere_namen: Duale Oberschule, ehemalige Realschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/061
+ENTITÄT: schule
+BEZEICHNUNG: Alice-Salomon-Schule
+EIGENSCHAFTEN:
+  typ: Berufsbildende Schule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/062
+ENTITÄT: gymnasium
+BEZEICHNUNG: Martinus-Gymnasium Linz
+EIGENSCHAFTEN:
+  typ: Gymnasium
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/063
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Franziskus-Krankenhaus Linz
+EIGENSCHAFTEN:
+  status: Krankenhaus
+  neubau: 1979 im Stadtteil Roniger Hof erbaut
+ORTSTEIL_BEZUG: Roniger Hof
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1979
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/064
+ENTITÄT: gefängnis
+BEZEICHNUNG: Gefängnis Linz
+EIGENSCHAFTEN:
+  status_historisch: Existierte bis 1970
+  lage: Am Totenborn 14 (zusammen mit altem Amtsgericht)
+  inhaftierte_bekannt: Else Peerenboom-Missong (August 1944, Aktion Gewitter), Conrad Ahlers (Spiegelredakteur, 1962)
+  status_heute: Wohnhaus unter Denkmalschutz
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1970
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/065
+ENTITÄT: gericht
+BEZEICHNUNG: Amtsgericht Linz am Rhein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/066
+ENTITÄT: polizei
+BEZEICHNUNG: Polizeiinspektion Linz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/067
+ENTITÄT: notar
+BEZEICHNUNG: Notariat Linz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/068
+ENTITÄT: bundesstraße
+BEZEICHNUNG: Bundesstraße 42
+EIGENSCHAFTEN:
+  position: Linz liegt direkt an der Bundesstraße 42
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/069
+ENTITÄT: bundesautobahn
+BEZEICHNUNG: Bundesautobahn 3
+EIGENSCHAFTEN:
+  anschlussstelle: Bad Honnef/Linz
+  position: Wenige Kilometer westlich von Linz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/070
+ENTITÄT: autofähre
+BEZEICHNUNG: Autofähre Linz-Kripp
+EIGENSCHAFTEN:
+  verbindung: Linz mit Remagen-Kripp
+  erreichbar_von_linz: Linksrheinische Bundesstraßen B 9 und B 266, Bundesautobahn 61
+  zugang_regionen: Ahrtal und Eifel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/071
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Linz (Rhein)
+EIGENSCHAFTEN:
+  lage: Liegt an der rechtsrheinischen Strecke Köln-Koblenz
+  linien: RE 8 und RB 27
+  takt: Halbstundentakt
+  flughafen_verbindung: RB 27 im Stundentakt zum Flughafen Köln/Bonn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-linz/072
+ENTITÄT: verkehrsverbund
+BEZEICHNUNG: Verkehrsverbund Rhein-Mosel
+EIGENSCHAFTEN:
+  position: Linz liegt im Verkehrsverbund Rhein-Mosel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/073
+ENTITÄT: radweg
+BEZEICHNUNG: EuroVelo-Route EV15 (Rheinradweg)
+EIGENSCHAFTEN:
+  charakteristik: Rechtsrheinischer Radweg
+  durchquert_linz: Führt durch Linz
+  trennung_von_kfz: Nicht vom Kraftfahrzeugverkehr getrennt (Stand Januar 2022)
+  verbindung: Verbindung zum linksrheinischen Rheinradweg und zu Ahrtal-Radwegen über Fähre Linz-Kripp/Remagen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/074
+ENTITÄT: wanderweg
+BEZEICHNUNG: Rheinsteig
+EIGENSCHAFTEN:
+  charakteristik: Rechtsrheinischer Fernwanderweg von Bonn nach Wiesbaden
+  etappe_linz: Von Unkel nach Leubsdorf
+  etappe_länge: 16,7 km
+  etappe_höhenmeter: 500 Höhenmeter
+  route_durch_linz: Vorbei an Burg Ockenfels und über historischen Marktplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/075
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Karnevalsumzug
+EIGENSCHAFTEN:
+  zeitpunkt: Am Rosenmontag
+  regelmäßigkeit: Jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/076
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Rhein in Flammen
+EIGENSCHAFTEN:
+  zeitpunkt: Am ersten Samstag im Mai
+  programm: Großfeuerwerke und Schiffsrundfahrt
+  route: Von Linz am Rhein entlang Erpel, Unkel, Remagen, Rheinbreitbach, Rheininsel Nonnenwerth bei Bad Honnef, Bad Godesberg, Königswinter zur Rheinaue bei Bonn
+  regelmäßigkeit: Jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/077
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Bunte Woche mit Drehorgelfest
+EIGENSCHAFTEN:
+  zeitpunkt: Von Christi Himmelfahrt bis zum darauffolgenden Sonntag
+  regelmäßigkeit: Jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/078
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Antik- und Trödelmarkt
+EIGENSCHAFTEN:
+  zeitpunkt_1: Am dritten Wochenende im Mai
+  zeitpunkt_2: Am zweiten Wochenende im August
+  regelmäßigkeit: Jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/079
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Kirmes
+EIGENSCHAFTEN:
+  zeitpunkt: Am letzten Wochenende im August
+  regelmäßigkeit: Jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/080
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Winzerfest
+EIGENSCHAFTEN:
+  zeitpunkt: Am zweiten Wochenende im September
+  regelmäßigkeit: Jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/081
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Kunsthandwerkermarkt
+EIGENSCHAFTEN:
+  zeitpunkt: Am zweiten Wochenende im Oktober
+  regelmäßigkeit: Jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/082
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Weihnachtsmärkte
+EIGENSCHAFTEN:
+  zeitpunkt: An allen Adventswochenenden
+  regelmäßigkeit: Jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/083
+ENTITÄT: person
+BEZEICHNUNG: Tilman Joel
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Theologe, Jurist und Diplomat
+  geburt: 1395, genauigkeit: ca.
+  tod: 1461
+GUELTIG_AB: 1395
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/084
+ENTITÄT: person
+BEZEICHNUNG: Augustinus Castenholz
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Bürgermeister und Zollschreiber
+  geburt: 1592, genauigkeit: ca.
+  tod: 1633
+GUELTIG_AB: 1592
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/085
+ENTITÄT: person
+BEZEICHNUNG: Carl Paul von Zimmermann
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Kaiserlicher Hofrat, Kanzler in Hildesheim
+  geburt: 1652
+  tod: 1712
+  besonderheit: Kanzlerstraße in Linz ist nach ihm benannt
+GUELTIG_AB: 1652
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/086
+ENTITÄT: person
+BEZEICHNUNG: Damian Adolph Dercum
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Arzt, Professor für Arzneiwissenschaften und Chirurgie
+  geburt: 1655
+  tod: 1722, genauigkeit: ca.
+GUELTIG_AB: 1655
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/087
+ENTITÄT: person
+BEZEICHNUNG: Augustin Mengelberg
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Abt von Heisterbach
+  geburt: 1710
+  tod: 1763
+GUELTIG_AB: 1710
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/088
+ENTITÄT: person
+BEZEICHNUNG: Alexander Bertram Joseph Minola
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Geistlicher, Gymnasiallehrer und Historiker
+  geburt: 1759
+  tod: 1829
+GUELTIG_AB: 1759
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/089
+ENTITÄT: person
+BEZEICHNUNG: Maximilian Joseph Funcke
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Chemiker und Apotheker
+  geburt: 1780
+  tod: unbekannt
+GUELTIG_AB: 1780
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/090
+ENTITÄT: person
+BEZEICHNUNG: Stephan Lück
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Theologe, Dommusikdirektor in Trier, Herausgeber
+  geburt: 1806
+  tod: 1883
+GUELTIG_AB: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/091
+ENTITÄT: person
+BEZEICHNUNG: Ferdinand von Malaisé
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Bayerischer General, Erzieher von König Ludwig III.
+  geburt: 1806
+  tod: 1892
+GUELTIG_AB: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/092
+ENTITÄT: person
+BEZEICHNUNG: Anton Joseph Weidenbach
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Historiker und Archivar
+  geburt: 1809
+  tod: 1871
+GUELTIG_AB: 1809
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/093
+ENTITÄT: person
+BEZEICHNUNG: Joseph von Keller
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Kupferstecher
+  geburt: 1811
+  tod: 1873
+GUELTIG_AB: 1811
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/094
+ENTITÄT: person
+BEZEICHNUNG: Franz Keller
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Kupferstecher
+  geburt: 1821
+  tod: 1896
+  besonderheit: Bruder und Schüler von Joseph von Keller
+GUELTIG_AB: 1821
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/095
+ENTITÄT: person
+BEZEICHNUNG: Hubert Meyer
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Porträtmaler
+  geburt: 1826
+  tod: 1895
+GUELTIG_AB: 1826
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/096
+ENTITÄT: person
+BEZEICHNUNG: Johann Martin Niederée
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Maler
+  geburt: 1830
+  tod: 1853
+GUELTIG_AB: 1830
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/097
+ENTITÄT: person
+BEZEICHNUNG: Heinrich Gogarten
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Landschaftsmaler in Dachau
+  geburt: 1850
+  tod: 1911
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/098
+ENTITÄT: person
+BEZEICHNUNG: Pedro Sinzig
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Franziskaner, Schriftsteller
+  geburt: 1876
+  tod: 1952
+GUELTIG_AB: 1876
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/099
+ENTITÄT: person
+BEZEICHNUNG: Heinrich Pohl
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Jurist, Völkerrechtler und Hochschullehrer
+  geburt: 1883
+  tod: 1931
+GUELTIG_AB: 1883
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/100
+ENTITÄT: person
+BEZEICHNUNG: Theodor Nußbaum
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Garten- und Landschaftsarchitekt, Stadtbaurat in Köln
+  geburt: 1885
+  tod: 1956
+GUELTIG_AB: 1885
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/101
+ENTITÄT: person
+BEZEICHNUNG: Konrad Nussbaum
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Polizeibeamter, Kriminaldirektor
+  geburt: 1893
+  tod: 1945
+GUELTIG_AB: 1893
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/102
+ENTITÄT: person
+BEZEICHNUNG: Erich Mehliß
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Verwaltungsjurist und Landrat
+  geburt: 1899
+  tod: 1972
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/103
+ENTITÄT: person
+BEZEICHNUNG: Werner Hirsch
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: US-amerikanischer Wirtschafts- und Finanzwissenschaftler deutscher Herkunft, Hochschullehrer
+  geburt: 1920
+  tod: 2009
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/104
+ENTITÄT: person
+BEZEICHNUNG: Elisabeth Alexander
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Schriftstellerin
+  geburt: 1922
+  tod: 2009
+GUELTIG_AB: 1922
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/105
+ENTITÄT: person
+BEZEICHNUNG: Günther Scholl
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Maler und Kunsterzieher
+  geburt: 1923
+  tod: 2011
+GUELTIG_AB: 1923
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/106
+ENTITÄT: person
+BEZEICHNUNG: Peter Schmitz
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Schauspieler
+  geburt: 1923
+  tod: 2006
+GUELTIG_AB: 1923
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/107
+ENTITÄT: person
+BEZEICHNUNG: Günther Oellers
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Bildhauer
+  geburt: 1925
+  tod: 2011
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/108
+ENTITÄT: person
+BEZEICHNUNG: Manfred Bruns
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Bundesanwalt am Bundesgerichtshof, schwulenpolitischer Aktivist
+  geburt: 1934
+  tod: 2019
+GUELTIG_AB: 1934
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/109
+ENTITÄT: person
+BEZEICHNUNG: Georg Kröll
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Komponist, Pianist
+  geburt: 1934
+GUELTIG_AB: 1934
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/110
+ENTITÄT: person
+BEZEICHNUNG: Alex Kempkens
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Fotograf
+  geburt: 1942
+GUELTIG_AB: 1942
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/111
+ENTITÄT: person
+BEZEICHNUNG: Peter Meilchen
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Maler, Grafiker, Fotograf und Autor
+  geburt: 1948
+  tod: 2008
+GUELTIG_AB: 1948
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/112
+ENTITÄT: person
+BEZEICHNUNG: Adam C. Oellers
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Kunsthistoriker
+  geburt: 1949
+GUELTIG_AB: 1949
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/113
+ENTITÄT: person
+BEZEICHNUNG: Renate Pepper
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Politikerin (SPD), MdL Rheinland-Pfalz
+  geburt: 1951
+  tod: 2024
+  amtszeit_landtag: 1991-2011
+GUELTIG_AB: 1951
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/114
+ENTITÄT: person
+BEZEICHNUNG: Richard Wester
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Saxophonist und Komponist
+  geburt: 1956
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/115
+ENTITÄT: person
+BEZEICHNUNG: Hubert Schmidt
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Jurist, Rechtsanwalt und Hochschullehrer
+  geburt: 1958
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/116
+ENTITÄT: person
+BEZEICHNUNG: Harald J. Wester
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Manager und Ingenieur
+  geburt: 1958
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/117
+ENTITÄT: person
+BEZEICHNUNG: Ellen Demuth
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Politikerin (CDU), MdL Rheinland-Pfalz
+  geburt: 1982
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/118
+ENTITÄT: person
+BEZEICHNUNG: Stefan Thoma
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Politiker (FDP), MdL Rheinland-Pfalz
+  geburt: 1988
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/119
+ENTITÄT: person
+BEZEICHNUNG: Jannik Stoffels
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Fußballspieler
+  geburt: 1997
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/120
+ENTITÄT: person
+BEZEICHNUNG: Sascha Weingarten
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Schauspieler
+  geburt: 1991
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/121
+ENTITÄT: person
+BEZEICHNUNG: Sugar MMFK (João Michel Diau)
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Rapper
+  geburt: 1993
+  künstlername: Sugar MMFK
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/122
+ENTITÄT: person
+BEZEICHNUNG: Albert Ritzaeus Hardenberg
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Prediger
+  geburt: 1510
+  tod: 1774, genauigkeit: Fehler im Text (sollte 1574 sein nach Geburt und Lebensdauer)
+  beruf: Theologe
+GUELTIG_AB: 1545
+GUELTIG_BIS: 1545
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/123
+ENTITÄT: person
+BEZEICHNUNG: Ludwig van Beethoven
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Hausmusik bei Hofkammerrat Gottfried Wolters, Besuch seines in Linz arbeitenden Bruders
+  geburt: 1770
+  tod: 1827
+GUELTIG_AB: 1770
+GUELTIG_BIS: 1792
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/124
+ENTITÄT: person
+BEZEICHNUNG: Der Schwarze Peter
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Vorabergehende Inhaftierung im Pulverturm
+  geburt: 1752
+  tod: 1812
+  beruf: Räuber
+  besonderheit: Lehrmeister und Komplize des Schinderhannes
+GUELTIG_AB: 1792
+GUELTIG_BIS: 1792
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/125
+ENTITÄT: person
+BEZEICHNUNG: Georg Wilhelm Friedrich Hegel
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Besuch der Stadt und der Kirche St. Martin
+  geburt: 1770
+  tod: 1831
+  beruf: Philosoph
+GUELTIG_AB: 1822
+GUELTIG_BIS: 1822
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/126
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Wilhelm IV.
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Besuch der Stadt
+  geburt: 1795
+  tod: 1861
+  titel: Kronprinz (später Preußischer König)
+GUELTIG_AB: 1833
+GUELTIG_BIS: 1833
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/127
+ENTITÄT: person
+BEZEICHNUNG: Richard Brend'amour
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Sommerurlaub bei Johann Martin Niederée
+  beruf: Holzschneider
+GUELTIG_AB: 1852
+GUELTIG_BIS: 1852
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 08-linz/128
+ENTITÄT: person
+BEZEICHNUNG: Rudolf Schwertführer
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Sommerurlaub bei Johann Martin Niederee
+  beruf: Lithograph und Holzschneider in Dresden
+  geboren_in: Linz, genauigkeit: evtl.
+GUELTIG_AB: 1852
+GUELTIG_BIS: 1852
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 08-linz/129
+ENTITÄT: person
+BEZEICHNUNG: W. Krüger
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Evangelischer Pfarrer
+  werk: Erzählung Aus dem Gefängnis ins Gefängnis
+GUELTIG_AB: 1868
+GUELTIG_BIS: 1868
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 08-linz/130
+ENTITÄT: person
+BEZEICHNUNG: Theodor Lerner
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Kindheit und Jugendzeit
+  geburt: 1866
+  tod: 1931
+  berufe: Journalist und Polarforscher
+GUELTIG_AB: 1870
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 08-linz/131
+ENTITÄT: person
+BEZEICHNUNG: Friedrich von Gerolt
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Besitzer von Rittergut zur Leyen Burg Ockenfels
+  geburt: 1797
+  tod: 1879
+  beruf: Diplomat, dienstältester Botschafter Deutschlands in Washington, D.C., USA
+GUELTIG_AB: 1871
+GUELTIG_BIS: 1879
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/132
+ENTITÄT: person
+BEZEICHNUNG: Johann Stockhausen
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Betrieb Werkstatt und starb dort
+  geburt: 1843
+  tod: 1917
+  beruf: Orgelbauer
+GUELTIG_AB: 1873
+GUELTIG_BIS: 1917
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/133
+ENTITÄT: person
+BEZEICHNUNG: Carl Clewing
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Schüler des Progymnasiums zu Linz
+  geburt: 1884
+  tod: 1954
+  berufe: Schauspieler, Heldentenor, Musikpädagoge und Volksliedforscher
+GUELTIG_AB: 1894
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/134
+ENTITÄT: person
+BEZEICHNUNG: Else Peerenboom-Missong
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Schutzhaft August 1944 im Rahmen der Aktion Gewitter
+  geburt: 1893
+  tod: 1958
+  berufe: Volkswirtin und Politikerin (Zentrum, später CDU)
+  lebte_in_linz: 1897-1958
+GUELTIG_AB: 1897
+GUELTIG_BIS: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/135
+ENTITÄT: person
+BEZEICHNUNG: Walter Fuchs
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Initiator des Heimatmuseums, Betreuung des städtischen Archivs
+  besonderheit: Schöpfer des Begriffs Linz – Die Bunte Stadt am Rhein
+GUELTIG_AB: 1899
+GUELTIG_BIS: 1963
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/136
+ENTITÄT: person
+BEZEICHNUNG: Eduard Profittlich
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Gymnasialbesuch und Abitur
+  geburt: 1890
+  tod: 1942
+  beruf: Erzbischof von Estland
+GUELTIG_AB: 1909
+GUELTIG_BIS: 1912
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-linz/137
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Heinrichs
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Gymnasiallehrer, Arrangement des Glockenspiels am historischen Linzer Rathaus
+  berufe: Gymnasiallehrer, Komponist, Kapellmeister
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1995
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/138
+ENTITÄT: person
+BEZEICHNUNG: Egon Hoegen
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Wuchs in Linz am Rhein auf
+  berufe: Deutscher Schauspieler und Sprecher
+GUELTIG_AB: 1928
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/139
+ENTITÄT: person
+BEZEICHNUNG: Joseph Jaekel
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Wohnsitz durch Kriegsfolgen in Köln
+  beruf: Bildhauer
+GUELTIG_AB: 1940
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 08-linz/140
+ENTITÄT: person
+BEZEICHNUNG: Otto Cornelius
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Kunsterzieher am Gymnasium Linz
+  berufe: Graphiker, Maler, Kunsterzieher
+GUELTIG_AB: 1943
+GUELTIG_BIS: 1959
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/141
+ENTITÄT: person
+BEZEICHNUNG: Waltraud Markmann Kawinski
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Wohnsitz und Atelier
+  berufe: Malerin, Grafikerin und Schriftstellerin
+GUELTIG_AB: 1946
+GUELTIG_BIS: 2012
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-linz/142
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Erxleben
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Lebensabend
+  beruf: Pfarrer
+GUELTIG_AB: 1951
+GUELTIG_BIS: 1955
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 08-linz/143
+ENTITÄT: anekdote
+BEZEICHNUNG: Erfindung des Bienenstitchs
+EIGENSCHAFTEN:
+  jahr: 1474
+  beschreibung: Wie der Bienenstich erfunden wurde
+  verweis_sage: Bäckerjungensage
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1474
+GUELTIG_BIS: 1474
+VERTRAUEN_EXTRAKTION: 0.7
+
+SPENDER: Gerolstein (nicht Teil der Fahrt)
+ENTITÄT: ort
+BEZEICHNUNG: Gerolstein
+EIGENSCHAFTEN:
+  lage: Eifel
+  bundesland: Rheinland-Pfalz
+  landkreis: Vulkaneifel
+  verwaltungssitz_verbandsgemeinde: Gerolstein
+  ist_stadt: true
+  rang_einwohner: zweitgrößte des Landkreises (nach Daun)
+  rang_fläche: flächenmäßig größte des Landkreises
+  ist_luftkurort: staatlich anerkannt
+  ist_mittelzentrum: true
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: burg
+BEZEICHNUNG: Löwenburg
+EIGENSCHAFTEN:
+  urkundliche_ersterwähnung_jahr: 1115
+  ursprüngliche_namensform: Burg Gerhardstein
+GUELTIG_AB: 1115
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadtrecht
+EIGENSCHAFTEN:
+  verliehen_jahr: 1336
+GUELTIG_AB: 1336
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: residenzstadt
+EIGENSCHAFTEN:
+  herrscherfamilie: Grafen von Blankenheim-Gerolstein
+  zeitraum: 1406-1524
+GUELTIG_AB: 1406
+GUELTIG_BIS: 1524
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: residenzstadt
+BEZEICHNUNG: Manderscheid-Residenz
+EIGENSCHAFTEN:
+  herrscherfamilie: Grafen von Manderscheid-Gerolstein
+  zeitraum: 1524-1697
+GUELTIG_AB: 1524
+GUELTIG_BIS: 1697
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Befreiung 1691
+EIGENSCHAFTEN:
+  typ: Zerstörung
+  ursache: Befreiung von französischer Besetzung
+  akteur: jülichsche Truppen
+  grad: fast vollständig zerstört
+  jahr: 1691
+GUELTIG_BIS: 1691
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: brand
+EIGENSCHAFTEN:
+  jahr: 1708
+  folge: Stadt wiederum fast vollständig vernichtet
+GUELTIG_BIS: 1708
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: brand
+EIGENSCHAFTEN:
+  jahr: 1784
+  folge: Stadt wiederum fast vollständig vernichtet
+GUELTIG_BIS: 1784
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Frieden von Lunéville
+EIGENSCHAFTEN:
+  ereignis: fiel das linksrheinische Gerolstein an Frankreich
+  jahr: 1801
+GUELTIG_BIS: 1801
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Reichsdeputationshauptschluss
+EIGENSCHAFTEN:
+  jahr: 1803
+  akteur: Graf Sternberg-Manderscheid
+  verlust: Blankenheim, Jünkerath, Gerolstein, Dollendorf
+  entschädigung: Güter der vormaligen Klöster Weissenau und Schussenried in Oberschwaben
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Wiener Kongress
+EIGENSCHAFTEN:
+  ergebnis: Gerolstein kam zum Königreich Preußen
+  jahr: 1815
+GUELTIG_BIS: 1815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: quelle
+BEZEICHNUNG: Gerolsteiner Mineralquelle
+EIGENSCHAFTEN:
+  historische_nutzung: Kelten und Römer
+  abfüllung_nachgewiesen_ab: 1724
+  abfüllung_verkauf: Wasser
+  basis_für: Gerolsteiner Mineralwasserindustrie
+  aktuelle_bedeutung: bis heute Grundlage der Mineralwasserindustrie
+GUELTIG_AB: 1724
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Bombardierung 1944/45
+EIGENSCHAFTEN:
+  grund: Eisenbahnknoten
+  zerstörungsgrad: 80 Prozent
+  auswirkung: Gerolstein stark zerstört
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadtrecht
+BEZEICHNUNG: Wiederverleihung
+EIGENSCHAFTEN:
+  jahr: 1953
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bewingen
+EIGENSCHAFTEN:
+  eingemeindung_datum: 7. Juni 1969
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hinterhausen
+EIGENSCHAFTEN:
+  eingemeindung_datum: 7. Juni 1969
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Lissingen
+EIGENSCHAFTEN:
+  eingemeindung_datum: 7. Juni 1969
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Büscheich
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gees
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Michelbach
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Müllenborn
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oos
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Roth
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: fundstätte
+BEZEICHNUNG: Buchenloch
+EIGENSCHAFTEN:
+  zeitliche_besiedlung: Altsteinzeit
+  bewohner: Neanderthaler, erste moderne Menschen
+  typ: Karsthöhle
+  länge: 36 [Meter]
+GUELTIG_AB: 50000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: fundstätte
+BEZEICHNUNG: Magdalenahöhle
+EIGENSCHAFTEN:
+  zeitliche_besiedlung: Altsteinzeit
+  bewohner: Neanderthaler, erste moderne Menschen
+GUELTIG_AB: 50000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: befestigung
+BEZEICHNUNG: Dietzenley
+EIGENSCHAFTEN:
+  zeitliche_nutzung: Bronzezeit
+  nutzer: Kelten
+  funktion: Fliehburg
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: archäologische_stätte
+BEZEICHNUNG: römische Tempel und Behausungen
+EIGENSCHAFTEN:
+  zeitliche_periode: römische Zeiten
+  status: Reste erhalten
+GUELTIG_AB: 100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Lissingen
+ORTSTEIL_BEZUG: Lissingen
+EIGENSCHAFTEN:
+  typ: ehemalige Wasserburg
+  lage_nähe: Kyll
+  älteste_gebäudeteile_jahr: 1280
+  urkundliche_erwähnung_jahr: 1212
+  besonderheit: nicht zerstört (anders als die meisten Eifler Burgen)
+  teilung_jahr: 1559
+  teilung_in: Nieder- und Oberburg
+  unterburg_nutzung: Veranstaltungs- und Kultureinrichtung
+GUELTIG_AB: 1212
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Erlöserkirche
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  bauzeit: 1907-1913
+  architekt: Franz Schwechten
+  einweihung_datum: 15. Oktober 1913
+  architektur_merkmale: großflächige Goldmosaiken, Rundbögen, dominierender Kuppel
+  beschreibung: für eine Kirche in der Diaspora geradezu verschwenderisch ausgestattet
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: römischer_herrensitz
+BEZEICHNUNG: Villa Sarabodis
+EIGENSCHAFTEN:
+  typ: Villa rustica
+  entdeckung_jahr: 1907
+  entdeckungsanlass: Vorarbeiten zum Bau der Erlöserkirche
+  datierung: 1. Jahrhundert nach Christus
+  artefakte: Fundamente, Hypokaustum (antike Fußbodenheizung)
+  exposition: in Schutzbau erhalten
+GUELTIG_AB: 100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kultstätte
+BEZEICHNUNG: Juddekirchhof
+PROPERTIES:
+  lage: oberhalb von Gerolstein auf der Hustley
+  typ: keltisch-römische Kultstätte
+  errichtung_jahr: 124 nach Christus
+  errichtet_durch: Römer Marcus Victorius Pellentius
+  mauerreste_größe: ca. 63 mal 46 [Meter]
+  gebäude_innerhalb: Fundamente mehrerer Gebäude, zwei Tempel
+  tempel_herkules: Herkules-Tempel
+  tempel_caiva: Tempel der keltischen Göttin Caiva
+  ausgrabungen_jahr: 1927/28
+GUELTIG_AB: 124
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnbetriebswerk Gerolstein
+EIGENSCHAFTEN:
+  status: ehemals bedeutsam
+  erhaltene_teile: Ringlokschuppen, Drehscheibe (betriebsfertig erhalten)
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: schule
+BEZEICHNUNG: St. Matthias-Gymnasium
+EIGENSCHAFTEN:
+  gründung_jahr: 26. April 1911
+  gründer_leiter: Studienrat Lipowicz
+  ursprünglicher_name: Höhere Knabenschule Gerolstein
+  ursprünglicher_standort: Hauptstraße 89
+  trägerschaft_erstmittel: privat
+  trägerschaft_wechsel_1: kommunal (nach Erstem Weltkrieg)
+  schließung_1: während Inflation (Schulgeld zu hoch)
+  wiedereröffnung_1: 1924
+  erste_schülerin: 1927
+  schulleiter_rahm: Hubert Rahm (1920-1954, 34 Jahre)
+  schließung_2: 1944 (Zweiter Weltkrieg)
+  gebäudenutzung_1944_45: Lazarett und Soldatenunterkunft
+  zerstörung: Bombenangriff
+  wiedereröffnung_2: 1946
+  neuerung_1946: mittlere Reife möglich
+  umbenennung_1: Progymnasium Gerolstein
+  neuer_standort_einweihung: 1953 (Digoinstraße)
+  erster_abiturjahrgang: 1958
+  schülerzahl_1974: 1200
+  wechsel_trägerschaft_2: Landkreis Daun (1975)
+  umbenennung_2: St. Matthias-Gymnasium Gerolstein (1975)
+  schulleiter_molitor: Hermann-Josef Molitor (25 Jahre, bis 1992)
+  schulleiter_steinmetz: Heribert Steinmetz (bis Sommer 2014)
+  schulleiter_schmitz: Jutta Schmitz (ab Sommer 2014)
+  sanierung: 1996-2006
+  jubiläum_100_jahr: 2011
+  superlativ: 100-jähriges Jubiläum mit Festakt, Projektwoche und Jubiläumschronik
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schulpartnerschaft
+BEZEICHNUNG: Lycée/Collège Digoin
+EIGENSCHAFTEN:
+  beginn: 1985
+  land: Frankreich
+  resultante_städtepartnerschaft: Gerolstein-Digoin (1987)
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schulpartnerschaft
+BEZEICHNUNG: Ramat Gan
+EIGENSCHAFTEN:
+  beginn: 1987
+  land: Israel
+  typ: Austauschbegegnungen
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schulpartnerschaft
+BEZEICHNUNG: Groupe Scolaire de Kansi
+EIGENSCHAFTEN:
+  beginn: 2007
+  land: Ruanda
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: internat
+BEZEICHNUNG: Bischöfliches Internat Albertinum
+ORTSTEIL_BEZUG: Albertinumweg
+EIGENSCHAFTEN:
+  standort: ehemaliges Hotel
+  betrieb_jahre: 1946-1982
+  aufarbeitungsprojekt_start: Herbst 2019
+  abschlussbericht: Februar 2022
+  beschuldigte_zahl: 12
+  beschuldigte_typ: Direktoren (Priester)
+  vorwürfe: körperliche, psychische und sexualisierte Gewalt
+  träger: Bistum
+  träger_kritik: Vernachlässigung und unzureichende Kontrolle
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1982
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Gerolsteiner Brunnen
+EIGENSCHAFTEN:
+  typ: Mineralwasserproduzent
+  sitz: Gerolstein
+  reputation: bundesweit bekannt
+  tätigkeitsradius: bundesweit
+GUELTIG_AB: 1724
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Vulkan-Eifel-Bahn Betriebsgesellschaft
+EIGENSCHAFTEN:
+  sitz: Gerolstein
+  tätigkeitsradius: bundesweit
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: AKE-Eisenbahntouristik
+EIGENSCHAFTEN:
+  sitz: Gerolstein
+  relation_zu_vulkan_eifel_bahn: Schwesterunternehmen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: öffentliches WLAN
+EIGENSCHAFTEN:
+  kostenlose_standorte: 30
+  verfügbarkeit_seit: Sommer 2016
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: militärbasis
+BEZEICHNUNG: Eifelkaserne
+EIGENSCHAFTEN:
+  einheit: Informationstechnikbataillon 281
+  spezialanlage_bsg_g: eine von drei festen Bodenstationen des bundeswehreigenen Satellitenkommunikationssystems SATCOMBw
+  antennen_beschreibung: zwei C-Band-, eine X-Band-, zwei Ku-Band-Antennen
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sportanlage
+BEZEICHNUNG: Zentrale Sportanlage Gerolstein
+EIGENSCHAFTEN:
+  anlagen: Leichtathletikanlagen, Rasenplatz, Basketball- und Volleyballfelder
+  ansässiger_verein: SV Gerolstein
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: geologische_formation
+BEZEICHNUNG: Gerolsteiner Dolomiten
+EIGENSCHAFTEN:
+  höhe_über_kyll: 100 [Meter]
+  typ: devonisches Kalkriff
+  bildner: ausgestorbene Rugosen, Tabulaten, Stromatoporen
+  bestandteile_gebirgsmassiv: Hustley, Munterley, Auberg
+  visuelle_dominanz: 100 [Meter] über dem Talniveau
+  domination_ortsbild: ja
+GUELTIG_AB: 400000000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: naturdenkmale
+BEZEICHNUNG: Papenkaule
+EIGENSCHAFTEN:
+  typ: Trockenmaar
+GUELTIG_AB: 50000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: höhlen
+BEZEICHNUNG: Mühlsteinhöhlen/Eishöhlen
+ORTSTEIL_BEZUG: Roth
+EIGENSCHAFTEN:
+  typ: Höhlensystem
+GUELTIG_AB: 100000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: museum
+BEZEICHNUNG: Naturkundemuseum
+EIGENSCHAFTEN:
+  standort: in und um Gerolstein
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: museum
+BEZEICHNUNG: Kreisheimatmuseum
+EIGENSCHAFTEN:
+  standort: in und um Gerolstein
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: fundgebiet
+BEZEICHNUNG: Trilobitenfelder von Gees
+ORTSTEIL_BEZUG: Gees (südöstlich)
+EIGENSCHAFTEN:
+  lage_richtung: Richtung Salm
+  typ: bekanntes Fundgebiet
+  status: unter Naturschutz
+  fossilien: devonische Trilobiten (außergewöhnlich gut erhalten)
+GUELTIG_AB: 400000000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Digoin
+EIGENSCHAFTEN:
+  land: Frankreich
+  seit: 1987
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Gilze-Rijen
+EIGENSCHAFTEN:
+  land: Niederlande
+  seit: 1981
+  besonderheit: Kündigung durch Partnergemeinde, jedoch nicht akzeptiert von Gerolstein
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: stadtrat
+EIGENSCHAFTEN:
+  mitglieder: 24 Ratsmitglieder
+  wahl_datum: 9. Juni 2024
+  wahlmodus: personalisierte Verhältniswahl
+  vorsitzender_titel: ehrenamtlicher Stadtbürgermeister
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Winfried Wülferath
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 22. April 2026
+  wahlmodus: Direktwahl
+  wahl_datum: 22. März 2026 (parallel zur Landtagswahl)
+  wahl_stimmen_prozent: 75,8
+  gegner: parteilos
+  wahlperiode_bis: 2029
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Stefanie Lorisch
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 17. Juli 2024
+  amtsende_geplant: August 2025 (Rücktritt)
+  wahl_datum: 9. Juni 2024
+  wahl_stimmen_prozent: 51,0
+  gegner: Amtsinhaber
+  grund_amtsende: Rücktritt angekündigt
+GUELTIG_AB: 2024
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Uwe Schneider
+EIGENSCHAFTEN:
+  partei: SPD
+  amtsantritt: Juni 2019
+  wahlmodus: Stichwahl
+  gegner: Friedhelm Bongartz (CDU, Amtsinhaber)
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Hubert Rahm
+EIGENSCHAFTEN:
+  beruf: Schulleiter
+  verleihung_jahr: 1959
+GUELTIG_AB: 1959
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Herbert Neusen
+EIGENSCHAFTEN:
+  beruf: Geschäftsführer Gerolsteiner Brunnen
+  verleihung_jahr: 1985
+GUELTIG_AB: 1985
+IST_VERMUTISCH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Pierre Sefer
+EIGENSCHAFTEN:
+  verdienst: Städtepartnerschaft mit Digoin/Burgund
+  verleihung_jahr: 2007
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Maria Reese
+EIGENSCHAFTEN:
+  geboren: 1889
+  gestorben: 1958
+  berufe: Schriftstellerin, Journalistin, Politikerin
+  parteien: SPD, KPD
+GUELTIG_AB: 1889
+GUELTIG_BIS: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Rolf Huisgen
+EIGENSCHAFTEN:
+  geboren: 1920
+  gestorben: 2020
+  beruf: Chemiker
+GUELTIG_AB: 1920
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Alois Mertes
+EIGENSCHAFTEN:
+  geboren: 1921
+  gestorben: 1985
+  berufe: Politiker, Diplomat, Staatsminister
+  partei: CDU
+  amt: Auswärtiges Amt
+GUELTIG_AB: 1921
+GUELTIG_BIS: 1985
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ernst Pieper
+EIGENSCHAFTEN:
+  geboren: 1928
+  gestorben: 1995
+  beruf: Industriemanager
+GUELTIG_AB: 1928
+GUELTIG_BIS: 1995
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Heinrich Schmitz
+EIGENSCHAFTEN:
+  geboren: 1929
+  gestorben: 2000
+  beruf: Politiker
+  partei: CDU
+GUELTIG_AB: 1929
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Matthias Krings
+EIGENSCHAFTEN:
+  geboren: 1943
+  beruf: Moderator
+GUELTIG_AB: 1943
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Eva Hahn
+EIGENSCHAFTEN:
+  geboren: 1946
+  beruf: Historikerin
+GUELTIG_AB: 1946
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hans Henning Hahn
+EIGENSCHAFTEN:
+  geboren: 1947
+  beruf: Historiker
+GUELTIG_AB: 1947
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Herbert Klaeren
+EIGENSCHAFTEN:
+  geboren: 1950
+  beruf: Informatiker
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Marita Kraemer
+EIGENSCHAFTEN:
+  geboren: 1953
+  beruf: Managerin
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Rudi Gores
+EIGENSCHAFTEN:
+  geboren: 1957
+  berufe: Fußballspieler, Fußballtrainer
+GUELTIG_AB: 1957
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Alice Creischer
+EIGENSCHAFTEN:
+  geboren: 1960
+  beruf: Künstlerin
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Michael Baales
+EIGENSCHAFTEN:
+  geboren: 1963
+  beruf: Archäologe
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Michael Fisch
+EIGENSCHAFTEN:
+  geboren: 1964
+  beruf: Schriftsteller
+GUELTIG_AB: 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hans Peter Böffgen
+EIGENSCHAFTEN:
+  geboren: 1965
+  genauigkeit: ca.
+  berufe: Verwaltungsbeamter, Politiker
+  partei: parteilos
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hans-Josef Endres
+EIGENSCHAFTEN:
+  geboren: 1966
+  berufe: Maschinenbauingenieur, Hochschullehrer
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Elizabeth Blonzen
+EIGENSCHAFTEN:
+  geboren: 1968
+  berufe: Schauspielerin, Autorin
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Frank Rock
+EIGENSCHAFTEN:
+  geboren: 1970
+  beruf: Politiker
+  partei: CDU
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Andreas Önnerfors
+EIGENSCHAFTEN:
+  geboren: 1971
+  beruf: Historiker
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Christian Humberg
+EIGENSCHAFTEN:
+  geboren: 1976
+  berufe: Schriftsteller, Literaturübersetzer
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Johannes Fröhlinger
+EIGENSCHAFTEN:
+  geboren: 1985
+  beruf: Radrennfahrer
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Christian Vietoris
+EIGENSCHAFTEN:
+  geboren: 1989
+  beruf: Autorennfahrer
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ruth Greb
+EIGENSCHAFTEN:
+  geboren: 1993
+  beruf: Politikerin
+  partei: SPD
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verkehrsnetz
+BEZEICHNUNG: Bundesstraße 410
+EIGENSCHAFTEN:
+  streckenverlauf: von der luxemburgischen Grenze (Dasburg) bis nach Hirten bei Mayen
+  anbindung_autobahn: Bundesautobahn 1, Anschlussstelle 118
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Eifelstrecke
+EIGENSCHAFTEN:
+  streckenverlauf: Köln–Euskirchen–Gerolstein–Trier
+  schienenpersonennahverkehr: ja
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Gerolstein
+EIGENSCHAFTEN:
+  bahnstrecke: Eifelstrecke
+  bahnverkehr: Schienenpersonennahverkehr
+  infrastruktur: Regionalzuganbindung (Trier, Köln, Koblenz)
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Eifel-Mosel-Express (RE 12)
+EIGENSCHAFTEN:
+  streckenverlauf: Köln–Euskirchen–Gerolstein–Trier
+  fahrzeugsystem: VAREO-Diesel-Triebwagen
+  fahrzeugreihe: DB-Baureihe 620, 622
+  traktion: Ein- bis Dreifachtraktion
+  geschwindigkeit_max: 120 [km/h]
+  betreiber: DB Regio NRW
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Eifel-Express (RE 22)
+EIGENSCHAFTEN:
+  streckenverlauf: Köln–Euskirchen–Gerolstein
+  durchbindung: nach Trier (RB 22)
+  betreiber: DB Regio NRW
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Eifel-Bahn (RB 24)
+EIGENSCHAFTEN:
+  streckenverlauf: Köln–Euskirchen–Kall
+  besonderheit: in der HVZ bis Gerolstein
+  betreiber: DB Regio NRW
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Eifelquerbahn
+EIGENSCHAFTEN:
+  status: bis Kaisersesch stillgelegt
+  streckenverlauf: Daun-Kaisersesch nach Andernach (KBS 478)
+  aktuelles_vorhaben: Reaktivierung angestrebt
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Westeifelbahn
+EIGENSCHAFTEN:
+  status: stillgelegt
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Hochwasser 2021
+EIGENSCHAFTEN:
+  ereignis: Dauerregen 14./15. Juli 2021 und Jahrhunderthochwasser
+  auswirkung: Bahnverkehr vollständig eingestellt
+  wiederherstellung_teilweise: April 2023
+  geschätzter_abschluss: 2024
+GUELTIG_BIS: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: buslinie
+BEZEICHNUNG: 460 / 465
+EIGENSCHAFTEN:
+  streckenverlauf: Gerolstein über Prüm nach Clervaux (LU) bzw. St. Vith (BE)
+  takt_prüm_richtung: Montag bis Samstag Stundentakt, sonntags alle 2 Stunden
+  takt_clervaux_richtung: Montag bis Samstag alle 2 Stunden, sonntags alle 4 Stunden
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: buslinie
+BEZEICHNUNG: 530
+EIGENSCHAFTEN:
+  typ: Ringverbindung
+  streckenverlauf: Oberbettingen, Hillesheim, Walsdorf, Rockeskyll, Pelm und Gerolstein
+  takt: Montag bis Sonntag alle 2 Stunden
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: buslinie
+BEZEICHNUNG: 700
+EIGENSCHAFTEN:
+  typ: RegioBus-Linie
+  streckenverlauf: Gerolstein über Daun, Ulmen nach Cochem
+  takt: Montag bis Sonntag stündlich
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: buslinie
+BEZEICHNUNG: 777
+EIGENSCHAFTEN:
+  typ: RadBus-Linie
+  betrieb: an Wochenenden
+  streckenverlauf: Gerolstein nach Cochem über Daun
+  takt: Samstag und Sonntag alle 2 Stunden
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 531
+EIGENSCHAFTEN:
+  streckenverlauf: Pelm – Bahnhof/ZOB – Krankenhaus – Vulkanring – Bewingen – Dohm – Hillesheim
+  anmeldung_voraus: mind. 60 Minuten vor Abfahrt
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 532
+EIGENSCHAFTEN:
+  typ: Ringverkehr
+  streckenverlauf: Gerolstein – Lissingen – Kopp – Birresborn – Michelbach – Büscheich – Gerolstein
+  takt: Montag bis Samstag alle 60 Minuten
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 533
+EIGENSCHAFTEN:
+  streckenverlauf: Gerolstein – Michelbach – Salm – Deudesfeld – Manderscheid
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 534
+EIGENSCHAFTEN:
+  streckenverlauf: Gerolstein – Pelm – Kirchweiler – Neroth – Daun
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 535
+EIGENSCHAFTEN:
+  streckenverlauf: Gerolstein Waldstraße – Rasbach/Feuerwehr – Bahnhof/ZOB – Gees
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 546
+EIGENSCHAFTEN:
+  typ: Ringverkehr
+  streckenverlauf: BBS/Einkaufszentrum – Bahnhof – Rasbach/Feuerwehr – Müllenborn – Oos – Duppach – Kalenborn-Scheuern – Lindenstraße – Krankenhaus – Bahnhof/ZOB
+  takt: Montag bis Samstag alle 60 Minuten
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kulturelle_referenz
+BEZEICHNUNG: Operette La Grande-Duchesse de Gérolstein
+EIGENSCHAFTEN:
+  komponist: Jacques Offenbach
+  kompositionsjahr: 1867
+  szenarium: fiktives deutsches Herzogtum Gerolstein
+  zeitliche_ansiedlung: um 1840
+  bezug_realort: kein Bezug zum realen Ort Gerolstein
+GUELTIG_AB: 1867
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

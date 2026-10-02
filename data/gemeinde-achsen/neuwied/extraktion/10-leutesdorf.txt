@@ -1,0 +1,1149 @@
+ENTITÄT: ort
+BEZEICHNUNG: Leutesdorf
+EIGENSCHAFTEN:
+  is_ortsgemeinde: true
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  verbandsgemeinde: Bad Hönningen
+  liegt_am_fluss: Mittelrhein
+  fluss_ufer: rechtes Ufer
+  liegt_gegenüber: Stadt Andernach
+  liegt_in_naturpark: Rhein-Westerwald
+  höchster_punkt_mnh: 373 m
+  höchster_punkt_lage: nahe der nördlichen Grenze
+  charakterisierung: ältestes und größtes Weindorf am unteren Mittelrhein
+  weinbau_seit: 6. Jahrhundert
+  bekannt_für: Brombeerwein
+  hochwasser: regelmäßig, Unterdorf besonders betroffen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Leutesdorf
+EIGENSCHAFTEN:
+  namensherkunft: "Der Ortsname wandelte sich von „Liuduuinesthorp" und „Liudwinesthorp" im Laufe der Jahrhunderte zu „Ludesdorp" (1333) zu „Leudesdorf" (1665). Seit Ende des 19. Jahrhunderts heißt der Ort Leutesdorf."
+  bevölkerung_religion: 1993 zu 80 % katholisch
+GUELTIG_AB: 868
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Haus Haselberg
+ORTSTEIL_BEZUG: Leutesdorf
+EIGENSCHAFTEN:
+  ist_wohnplatz: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Hubertusburg
+ORTSTEIL_BEZUG: Leutesdorf
+EIGENSCHAFTEN:
+  ist_wohnplatz: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Jakobshof
+ORTSTEIL_BEZUG: Leutesdorf
+EIGENSCHAFTEN:
+  ist_wohnplatz: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Kloster Johannesburg
+ORTSTEIL_BEZUG: Leutesdorf
+EIGENSCHAFTEN:
+  ist_wohnplatz: true
+  liegt_innerhalb_des_ortes: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Marienburg
+ORTSTEIL_BEZUG: Leutesdorf
+EIGENSCHAFTEN:
+  ist_wohnplatz: true
+  liegt_innerhalb_des_ortes: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Windhausen
+ORTSTEIL_BEZUG: Leutesdorf
+EIGENSCHAFTEN:
+  ist_wohnplatz: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: rheininsel
+BEZEICHNUNG: Hammersteiner Werth
+EIGENSCHAFTEN:
+  teil_gehört_zu_leutesdorf: Südlicher Teil
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: weinbau
+BEZEICHNUNG: Weinanbau in Leutesdorf
+EIGENSCHAFTEN:
+  erstnachweis: 588
+  erstnachweis_quelle: Venantius Fortunatus, Reisegedicht De navigio suo
+  erstnachweis_kontext: Rebhänge erwähnt in Moselfahrt von Metz nach Andernach mit König Childebert II.
+  besonderheit_brombeerwein: true
+GUELTIG_AB: 588
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: urkundliche_ersterwähnung
+BEZEICHNUNG: Ersterwähnung Leutesdorf
+EIGENSCHAFTEN:
+  datum: 1. Juli 868
+  ortsname: Liuduuinesthorp
+  kontext: König Ludwig der Deutsche schenkt Fronhof an Fürstabtei Herford in Westfalen
+GUELTIG_AB: 868
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: herrschaft
+BEZEICHNUNG: Vögte von Leutesdorf
+EIGENSCHAFTEN:
+  einfluss_zeitraum: 13. Jahrhundert bis Ende der männlichen Erbfolge um 1460
+  einfluss_art: stark
+GUELTIG_AB: 1300
+GUELTIG_BIS: 1460
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: politische_eingliederung
+BEZEICHNUNG: Leutesdorf
+EIGENSCHAFTEN:
+  ereignis: nach Aussterben der Hammersteiner Burggrafen an kurtrierisches Amt Hammerstein gekommen
+  jahr: 1419
+GUELTIG_AB: 1419
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: klosterhof
+BEZEICHNUNG: Fronhof
+EIGENSCHAFTEN:
+  ist_ältester_klosterhof: true
+  ursprünge: bis 9. Jahrhundert nachgewiesen
+  war_verwaltungszentrum_für: 30 Hofstellen am Rhein und im Westerwald
+  verwaltungszentrum_zeitraum: bis 16. Jahrhundert
+  besitzer_bis_16_jh: Stift Herford (für Weinherstellung)
+  architektur: im Kern romanisch mit Barockfassade zum Rhein
+  dendrochronologische_datierung: bis ins 15. Jahrhundert
+  besonderheit_biforienfenster: drei Biforienfenster unter dem Mauerputz an der Rheinseite
+  hochwasserschäden: mehrere im 18. Jahrhundert, Erdgeschoss wurde Kellergeschoss
+  restaurierung: 1980
+  nutzung_seit_1980: Kunstveranstaltungen mit internationalen Ausstellungen, Konzerten, Vorträgen, Tanztheater und Performances
+  frühmittelalterliche_eigenkirche: vermutlich, Weihwasserbecken in Würfelkapitellform gefunden bei Kanalarbeiten
+  frühmittelalterliche_eigenkirche_quelle: Schenkungsurkunde Ludwigs des Deutschen an Fürstabtei Herford
+  frühmittelalterliche_eigenkirche_zitat: duas casas dominicatas cum ecclesias
+  schatzsage: ja
+GUELTIG_AB: 868
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: klosterhof
+BEZEICHNUNG: Zinn (Zenn, Zehnthof)
+EIGENSCHAFTEN:
+  bauzeit: 1618
+  erbauer: kurtrierischer Schultheiß Kuno Schmitz
+  ursprüngliche_funktion: Wohnsitz der Trierer Kurfürsten bei Jagdaufenthalten
+  geschichte: wechselvoll
+  umbau_zu_jugendherberge_zeitraum: 2013 bis 2015
+  umbau_zu_jugendherberge_name: Kloster Leutesdorf
+  jugendherberge_betten: 160
+GUELTIG_AB: 1618
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: zolltor
+BEZEICHNUNG: Zolltor
+EIGENSCHAFTEN:
+  baujahr: 1547
+  umbau_jahr: 1690
+  umbau_von: kurtrierischer Hofbaumeister Johann Christoph Sebastiani
+  umbau_stil: Barockstil
+  dient_heute_als: Wohnhaus
+  hochwassermarken: an der Süd- und anderen Seiten vorhanden
+  statue: Dorfheiliger Sankt Laurentius
+  fund_restaurierung: gusseiserne Ofenplatte mit Wappen des Kurfürsten Johann Hugo von Orsbeck
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: zollstätte
+BEZEICHNUNG: Leutesdorfer Zoll
+EIGENSCHAFTEN:
+  ersterwähnung: 24. Januar 1309
+  kontext_ersterwähnung: Kaiser Heinrich VII. überließ dem Geldverleiher Bartholomäus den Zoll zur Schuldentilgung
+  rückkauf_1309: April 1309 zurückgekauft
+  nach_heinrich_vii_tod_1313: Kölner Erzbischof erhält Entschädigung 300 Jahre Lücke in Überlieferung bis 1616
+  neuer_zoll_1616: in Hammerstein errichtet
+  verlagerung: wegen Dreißigjähriger Krieg nach Leutesdorf verlegt
+  erstmalige_nennung_leutesdorf_zöllner: 1638 in Taufbüchern
+  instandsetzung_1690: Kurfürst lässt instand setzen
+  wohlstand_zöllner: vier herrschaftliche Häuser mit Mauerankern 1687, 1770, 1780
+  aufhebung: 1805
+  wohlstand_grund: Zöllner, Beseher und Nachgänger bauten Häuser auf eigene Rechnung, gingen bei Tod auf Nachfolger über
+GUELTIG_AB: 1309
+GUELTIG_BIS: 1805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Wallfahrtskirche zum Heiligen Kreuz
+EIGENSCHAFTEN:
+  bauzeit: 1646 bis 1647
+  bauinitiator: Johannes Rieden
+  besonderheit: Nachbildung des Heiligen Grabes in der Krypta
+  ölbergkapelle_in_nähe: ja, mit Grab von Johannes Haw
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Laurentius
+EIGENSCHAFTEN:
+  typ: Pfarrkirche
+  lage: Ortsmitte
+  ursprünge: romanisch
+  turm_alter: romanisch
+  umgestaltung_zeitpunkt: um 1730
+  umgestaltung_von: kurtrierischer Hofbaumeister Paul Kurz
+  orgel: Stumm-Orgel von 1735
+  dabei: Friedhof
+  dorfheiliger: Sankt Laurentius
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: klösterliche_einrichtung
+BEZEICHNUNG: Christkönigshaus
+EIGENSCHAFTEN:
+  funktion: Mutterhaus der Johannesmissionare
+  lage: neben der Heilig-Kreuz-Kirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: klösterliche_einrichtung
+BEZEICHNUNG: Johannesburg
+EIGENSCHAFTEN:
+  funktion: Mutterhaus der Johannesschwestern von Maria Königin
+  lage: in der Bungert-Allee
+  architektur: mit ionischen Stilelementen verziert (Bungert-Haus daneben)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: klosterhof
+BEZEICHNUNG: Nonnenhof
+EIGENSCHAFTEN:
+  ersterwähnung: 1138
+  gehörte_zu: Abtei Sankt Thomas in Andernach
+  zustand_heute: renoviert, Privatbesitz
+GUELTIG_AB: 1138
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Marienburg
+EIGENSCHAFTEN:
+  baujahr: 1750
+  lage: am Rheinufer
+  erbauer: kurtrierischer Hofrat Ernst Anton Sohler
+  ist_sehenswürdigkeit: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: heiligenhäuschen
+BEZEICHNUNG: Siechenkreuz
+EIGENSCHAFTEN:
+  lage: am Rhein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kreuz
+BEZEICHNUNG: Hochkreuz
+EIGENSCHAFTEN:
+  lage: am Ortsende am Fuß der Weinberge
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kreuz
+BEZEICHNUNG: Lingässer Kreuz
+EIGENSCHAFTEN:
+  lage: in der Bungert-Allee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kreuz
+BEZEICHNUNG: Mordkreuz am Olterbach
+EIGENSCHAFTEN:
+  errichtungsjahr: 1715
+  errichter: Daniel Mohr aus Leutesdorf
+  anlass: zum Gedenken an ermordete Ehefrau Gertrud
+  lage: unmittelbar am rechten Fahrbahnrand der B 42 Richtung Hammerstein
+  unweit_gemarkungsgrenze: Hammerstein
+GUELTIG_AB: 1715
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Weinkul-Tour
+EIGENSCHAFTEN:
+  einrichtungsjahr: 2003
+  länge: 3,2 km
+  thementafeln: 33
+  thema: Wein
+  vorgänger: Weinlehrpfad aus 1989
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Rheinsteig
+EIGENSCHAFTEN:
+  führt_durch_gemarkung: Leutesdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Limeswanderweg
+EIGENSCHAFTEN:
+  führt_durch_gemarkung: Leutesdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Rhein-Radweg
+EIGENSCHAFTEN:
+  führt_durch_gemarkung: Leutesdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Langenbergskopf
+EIGENSCHAFTEN:
+  ausweisung_jahr: 1935
+  besonderheit: seltene mediterrane Pflanzen
+  lage: oberhalb der Weinberge
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: hütte
+BEZEICHNUNG: Edmundshütte
+EIGENSCHAFTEN:
+  lage: vom Naturschutzgebiet Langenbergskopf erreichbar
+  bewirtschaftung: Sommer, Sonn- und Feiertage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: apfel_lehrpfad
+BEZEICHNUNG: Apfel-Lehrpfad
+EIGENSCHAFTEN:
+  lage: auf der Höhe oberhalb der Edmundshütte
+  beim: Streuobstwiesen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: brombeerplantage
+BEZEICHNUNG: Brombeerplantage
+EIGENSCHAFTEN:
+  gehört_zu: Gastwirtschaft Brombeerschenke
+  auf_höhe: oberhalb Weinberge
+  angebot: Waffeln mit heißen Brombeeren, Brombeerwein, Likör
+  besonderheit: Ausblick über gesamtes Neuwieder Becken
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gastwirtschaft
+BEZEICHNUNG: Brombeerschenke
+EIGENSCHAFTEN:
+  besitzt: Brombeerplantage
+  lage: auf der Höhe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Dorfmuseum
+EIGENSCHAFTEN:
+  eröffnung: 15. Mai 2011
+  befindet_sich_in: ehemaliger Schnapsbrennerei (zum Gemeindezentrum umgebaut)
+  lage: in Nähe des Rheins
+  zeigt: Geschichte des Weinanbaus, Geräte, Dokumente, Einblicke in 14 Nachbarschaften
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: nachbarschaften
+BEZEICHNUNG: Leutesdorfer Nachbarschaften
+EIGENSCHAFTEN:
+  anzahl: 14
+  ursprünge: Mittelalter
+  nachbarschaftsbücher_ab: nach dem Dreißigjährigen Krieg
+  benennungsmuster: nach Straßen, Kirchen, Heiligenhäuschen, in neuerer Zeit nach Gemarkungen
+  dokumentation_in_büchern: Geburten, Todesfälle, Katastrophen, andere Vorkommnisse im Dorf
+  neugründungen_nach_eisenbahnbau: um 1870 oberhalb der Bahnlinie
+  letzte_neugründung: Nachbarschaft Hochkreuz 1991
+  frühere_aufgaben: Hilfe bei Katastrophen, Geburt, Sterbefällen, Waschen der Toten, Anfertigen des Totenhemdes, Gestellung von Sargträgern
+  einige_hatten: eigene Kleidervorschriften
+  vorstand_titel: Amtmann
+  vorstand_team: Beisitzer, Schriftführer, Kassenwart
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: hotel
+BEZEICHNUNG: Hotel Leyscher Hof
+EIGENSCHAFTEN:
+  besonderheit: wunderschöne Rheinterrasse
+  veranstaltungen: Konzerte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: august_bungert_allee
+BEZEICHNUNG: August-Bungert-Allee
+EIGENSCHAFTEN:
+  charakteristik: von alten Platanen gesäumt
+  besitzt_bungert_haus: mit ionischen Stilelementen verziert
+  besitzt_johannesburg: daneben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: rheinfront
+BEZEICHNUNG: Rheinfront von Leutesdorf
+EIGENSCHAFTEN:
+  ist_sehenswürdigkeit: Gesamtfront ist Sehenswürdigkeit
+  bekannt_aus: Fernsehserie MS Franziska
+  charakterisierung: alte Fachwerkhäuser und ehemalige Klosterhöfe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buergmeister
+BEZEICHNUNG: Markus Konitzer
+EIGENSCHAFTEN:
+  amtsantritt: 8. Juli 2024
+  partei: CDU
+  stimmenanteil_wahl: 68,8 %
+  wahl_datum: 9. Juni 2024
+  gegner_bei_wahl: Vorgänger
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buergmeister
+BEZEICHNUNG: Heinz-Willi Heisterkamp
+EIGENSCHAFTEN:
+  amtszeit_von: 19. August 2019
+  amtszeit_bis: 8. Juli 2024
+  partei: SPD
+  vorgänger: Volker Berg (CDU)
+GUELTIG_AB: 2019
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buergmeister
+BEZEICHNUNG: Volker Berg
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsdauer: 10 Jahre
+  amtsende: vor 19. August 2019
+  kandidierte_nicht_erneut: true
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gemeinderat
+BEZEICHNUNG: Gemeinderat Leutesdorf
+EIGENSCHAFTEN:
+  ratsmitglieder: 16
+  wahl_datum: 9. Juni 2024
+  wahlmodus: personalisierte Verhältniswahl
+  vorsitzender: ehrenamtlicher Ortsbürgermeister
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: weinbau
+BEZEICHNUNG: Weinbau in Leutesdorf (aktuelle Struktur)
+EIGENSCHAFTEN:
+  anzahl_winzerbetriebe: 17
+  weinanbaugebiet: Mittelrhein
+  hauptlagen: Rosenberg, Gartenlay, Forstberg
+  rebstöcke_anzahl: ca. eine Million
+  hauptsorte: Riesling
+  weitere_sorten: Kerner, Spätburgunder, Dornfelder, Müller-Thurgau, Rivaner, Grauburgunder, Blauer Portugieser, Gewürztraminer, Chardonnay
+  ruf: ausgezeichnet und von Weinführern empfohlen
+  steillage_prozent: 30 bis 70 %
+  bodentyp: Tonschieferverwitterungsboden
+  ausrichtung: Süd bis Südwest
+  faktoren_qualität: Sonneneinstrahlung, Nähe des Rheins (Luftfeuchtigkeit)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: weinbau_geschichte
+BEZEICHNUNG: Weinbau Leutesdorf (historische Daten)
+EIGENSCHAFTEN:
+  jahr_1927: 75 Weinberglagen auf 130 ha, 1,3 Millionen Weinstöcke
+  unwetter_1944: Juni, verwüstete Teile der Weinberge
+  bergrutsch_1972: verwüstete Teile der Weinberge, reichte über Hauptstraße bis auf Bahngleise
+  flurbereinigung_1970er: 2.378 Einzelparzellen zusammengelegt, neue Wirtschaftswege, 10,5 km neue Stützmauern gebaut
+  kloster_maria_laach: besaß mehrere Weinberge (von Andernacher Winzern bestellt), heute ein symbolischer Weinberg mit Rebstock
+  einzelne_winzerbetriebe_familienbesitz: nachweisbar bis 1640
+GUELTIG_AB: 1927
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: weinkönigin
+BEZEICHNUNG: Weinkönigin von Leutesdorf
+EIGENSCHAFTEN:
+  ist_gleichzeitig: Weinkönigin von Andernach
+  baum_pflanzung: pro Jahr Baum gepflanzt für amtierende Weinkönigin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bergbau
+BEZEICHNUNG: Schieferbergwerk Leutesdorf
+EIGENSCHAFTEN:
+  zeitpunkt: 19. Jahrhundert
+  material: Schiefer für Hausbedachungen
+  lage: Bachmühltal (nördliche Ortsgrenze)
+  bereich: von Fahr (Neuwied) bis Leutesdorf, landeinwärts bis Altwied
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bergbau
+BEZEICHNUNG: Bergwerksfeld Leo (Stollen im Bachmühltal)
+EIGENSCHAFTEN:
+  fund: Kupferader
+  tatsächlicher_abbau: keine Belege
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bergbau
+BEZEICHNUNG: Kupfererz-Tagebau
+EIGENSCHAFTEN:
+  lage: oberhalb der Leutesdorfer Kirche
+  zeitpunkt: 19. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bergbau
+BEZEICHNUNG: Grube Lena
+EIGENSCHAFTEN:
+  erste_erwähnung: 1857 in Zeitung
+  material: Brauneisenstein (geringe Mengen)
+  lage: in der Nähe von Leutesdorf
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: steinbruch
+BEZEICHNUNG: Steinbruch Leutesdorf
+EIGENSCHAFTEN:
+  lage: südliches Ortsende
+  material: Schiefer
+  betrieb_seit: 1530
+  betrieb_bis: 1886
+  anleger_vermutung: Ludwig Hillesheim (Andernacher Patrizier)
+  transport: Schiffe nach Andernach
+GUELTIG_AB: 1530
+GUELTIG_BIS: 1886
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verkehr_haltepunkt
+BEZEICHNUNG: Haltepunkt Leutesdorf (Rhein)
+EIGENSCHAFTEN:
+  betreiber: Deutsche Bahn
+  linie: Rhein-Erft-Bahn (RB 27)
+  takt: Stundentakt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verkehr_buslinie
+BEZEICHNUNG: Buslinie Koblenz – Neuwied – Linz
+EIGENSCHAFTEN:
+  haltestellen_in_leutesdorf: 3
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fährverbindung
+BEZEICHNUNG: Fähre Leutesdorf – Andernach
+EIGENSCHAFTEN:
+  erstes_fährrecht_datum: 5. Mai 1682
+  erstes_fährrecht_empfänger: Fährmann Mattheiß Nalbach
+  gierfähre_zeitraum: 1865 bis 1915
+  motorfähre_zeitraum: anschließend bis 1985
+  betrieb_eingestellt: 1985
+  reaktivierung_datum: Mai 2009
+  reaktivierung_als: Personenfähre zum Erlebniszentrum Geysir in Andernach
+  reaktivierung_schiff: reguläres Schiff vom Besucherzentrum zum Geysir auf Namedyer Werth
+  verkehrshäufigkeit: nicht täglich
+GUELTIG_AB: 1682
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Jugendherberge Kloster Leutesdorf
+EIGENSCHAFTEN:
+  gebaut_aus: Umgestaltung der Zinn (Zenn, Zehnthof)
+  bauzeit: 2013 bis 2015
+  betten: 160
+  eröffnung: Juni 2015
+  lage: Gelände neben dem Zehnthof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: grundschule
+BEZEICHNUNG: Grundschule Leutesdorf
+EIGENSCHAFTEN:
+  ist_öffentliche_einrichtung: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kindergarten Leutesdorf
+EIGENSCHAFTEN:
+  ist_öffentliche_einrichtung: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: heiltherapeutisches_zentrum
+BEZEICHNUNG: Heiltherapeutisches Zentrum für Mehrfachbehinderte
+EIGENSCHAFTEN:
+  lage: Leutesdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bürgerinitiative
+BEZEICHNUNG: ARGE Kulturlandschaft
+EIGENSCHAFTEN:
+  beschreibung: Einrichtung Leutesdorfer Bürger
+  aufgabe: Kulturlandschaft in und um Leutesdorf pflegen
+  mitglieder: fast alle Rentner und Pensionäre
+  aktivitäten: alte verwilderte Wiesen freigeschnitten, Apfellehrpfad angelegt
+  finanzierung: Zuschüsse aus Landesmitteln, Verkauf von Brennholz aus Pflegearbeiten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Winzerfest
+EIGENSCHAFTEN:
+  häufigkeit: jährlich
+  dauer: 3 Tage
+  besonderheit: Winzerzug, füllt Gassen, Straußwirtschaften und Rummel an Rhein-Promenade
+  zielgruppe: Weinliebhaber und andere
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Karnevalsumzug
+EIGENSCHAFTEN:
+  ort: Leutesdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Konzerte im Hotel Leyscher Hof
+EIGENSCHAFTEN:
+  ort: Hotel Leyscher Hof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: St. Laurentius Kirmes
+EIGENSCHAFTEN:
+  organisator: Kath. Junggesellen Verein 1857 e. V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Theateraufführungen Leutesdorf
+EIGENSCHAFTEN:
+  von: Theatergruppe Leutesdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Schützenfest
+EIGENSCHAFTEN:
+  ort: Leutesdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Emmausgang
+EIGENSCHAFTEN:
+  zeitpunkt: alljährlich am Ostermontag
+  ort: Leutesdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Kulinarisches Weinerlebnis
+EIGENSCHAFTEN:
+  zeitpunkt: am Muttertag
+  ort: in den Weinbergen von Leutesdorf
+  angebot: Speis und Trank von heimischen Winzern und Gastronomen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: straußwirtschaft
+BEZEICHNUNG: Straußwirtschaften
+EIGENSCHAFTEN:
+  lage: Leutesdorf
+  öffnung_frühe_sommermonate: teilweise
+  veranstaltung_winzerfest: während Winzerfest geöffnet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: August Bungert
+EIGENSCHAFTEN:
+  geburt_datum: 14. März 1845
+  geburt_ort: Mülheim an der Ruhr
+  tod_datum: 26. Oktober 1915
+  tod_ort: Leutesdorf
+  beruf: Dichter und Komponist
+  verbindung_zu_leutesdorf: wirkte im Ort
+  allee_benannt_nach_ihm: August-Bungert-Allee
+GUELTIG_AB: 1845
+GUELTIG_BIS: 1915
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Johannes Haw
+EIGENSCHAFTEN:
+  geburt_datum: 26. Mai 1871
+  geburt_ort: Schweich
+  tod_datum: 28. Oktober 1949
+  tod_ort: Leutesdorf
+  bedeutung: Begründer des Johannesbundes
+  grab_lage: Ölbergkapelle bei Leutesdorf
+  verbindung_zu_leutesdorf: wirkte im Ort
+GUELTIG_AB: 1871
+GUELTIG_BIS: 1949
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Guta von Freydorf-Stephanow
+EIGENSCHAFTEN:
+  geburt_datum: 23. Januar 1911
+  geburt_ort: Waldshut
+  tod_datum: 31. Dezember 1998
+  tod_ort: Karlsruhe
+  beruf: Bildhauerin und Malerin
+  verbindung_zu_leutesdorf: wirkte im Ort
+  schülerin_von_ihr: Ursula Goldau
+GUELTIG_AB: 1911
+GUELTIG_BIS: 1998
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Josef Stingl
+EIGENSCHAFTEN:
+  tod_datum: 19. März 2004
+  tod_ort: Leutesdorf
+  position: ehemaliger Präsident der Bundesanstalt für Arbeit
+  verbindung_zu_leutesdorf: wirkte im Ort
+GUELTIG_BIS: 2004
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Martha von Laffert
+EIGENSCHAFTEN:
+  geburt_datum: 4. Juli 1883
+  geburt_ort: Lennep
+  tod_datum: 11. Juni 1966
+  tod_ort: Leutesdorf
+  beruf: Kunstmalerin
+  wohnzeit_leutesdorf: 1918 bis 1966
+  verbindung_zu_leutesdorf: wirkte im Ort, lebte dort
+  schülerin_ursula_goldau: ja
+GUELTIG_AB: 1883
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ursula Goldau
+EIGENSCHAFTEN:
+  geburt_jahr: 1950
+  geburt_ort: Leutesdorf
+  beruf: Künstlerin
+  lehrer_1: Martha von Laffert
+  lehrer_2: Guta von Freydorf-Stephanow
+  wohnort_heute: Offenbach am Main
+  lebt_und_arbeitet: ja
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Paul B. Steffen
+EIGENSCHAFTEN:
+  geburt_jahr: 1954
+  geburt_ort: Leutesdorf
+  religion: römisch-katholisch
+  beruf: Theologe, Missionswissenschaftler, Professor für Pastoraltheologie
+  verbindung_zu_leutesdorf: wirkte im Ort
+GUELTIG_AB: 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Kath. Junggesellen Verein 1857 e. V.
+EIGENSCHAFTEN:
+  aktivität: organisiert St. Laurentius Kirmes
+GUELTIG_AB: 1857
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: theatergruppe
+BEZEICHNUNG: Theatergruppe Leutesdorf
+EIGENSCHAFTEN:
+  aktivität: Theateraufführungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Fürstabtei Herford
+EIGENSCHAFTEN:
+  lage: Westfalen
+  erhielt_von_ludwig_dem_deutschen: Fronhof in Leutesdorf (1. Juli 868)
+  hauptziel_besitz: Weinherstellung für Stift (auch liturgische Gründe)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Marienstatt
+EIGENSCHAFTEN:
+  erhielt_von: Fronhof in Leutesdorf (1543)
+  zeitraum_besitz: ab 1543
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Maria Laach
+EIGENSCHAFTEN:
+  besaß_früher: mehrere Weinberge in Leutesdorf (von Andernacher Winzern bestellt)
+  besitzt_heute: ein symbolischer Weinberg mit Rebstock
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Abtei Sankt Thomas
+EIGENSCHAFTEN:
+  lage: Andernach
+  besaß: Nonnenhof (erstmals erwähnt 1138)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: dreißigjähriger_krieg
+BEZEICHNUNG: Dreißigjähriger Krieg und Leutesdorf
+EIGENSCHAFTEN:
+  auswirkung_zollstätte: Leutesdorf erhielt Zollstätte
+  zolltor_baujahr: 1638
+  zehnthof_bauzeitpunkt: Anfang des Krieges
+  zehnthof_erbauer: Kuno Schmitz
+  nachbarschaftsbücher_ab: nach dem Krieg dokumentiert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: straße
+BEZEICHNUNG: Rheinstraße
+EIGENSCHAFTEN:
+  charakteristik: alte Fachwerkhäuser und ehemalige Klosterhöfe
+  läuft_nach: Zolltor von 1638
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bundesstraße
+BEZEICHNUNG: Bundesstraße 42
+EIGENSCHAFTEN:
+  verlauf: führt durch den gesamten Ort
+  verkehrsbelastung: vielbefahren
+  problem_leutesdorf: zusammen mit Eisenbahn und Schifffahrt hohe Lärmbelastung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: eisenbahnstrecke
+BEZEICHNUNG: Eisenbahntrasse (rechtsrheinisch)
+EIGENSCHAFTEN:
+  verlauf: führt durch den Ort
+  verkehrsmittel: überwiegend Güter- und Nahverkehrszüge
+  probleme: zusammen mit Bundesstraße und Schifffahrt hohe Lärmbelastung
+  baujahr: um 1870 (Neugründungen von Nachbarschaften danach)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: naturpark
+BEZEICHNUNG: Naturpark Rhein-Westerwald
+EIGENSCHAFTEN:
+  gehört_zu_gemeindegebiet: Leutesdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: landschaftsform
+BEZEICHNUNG: Andernacher Pforte
+EIGENSCHAFTEN:
+  ort_lage: im Rheintal, Westen von Leutesdorf
+  charakterisierung: naturräumlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: landschaftsform
+BEZEICHNUNG: Rhein-Wied-Rücken
+EIGENSCHAFTEN:
+  ort_lage: nördlich von Leutesdorf
+  charakterisierung: naturräumlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebirgsgruppe
+BEZEICHNUNG: Rheinisches Schiefergebirge
+EIGENSCHAFTEN:
+  hang_location: an den Hängen liegt Leutesdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gemeinde_verband
+BEZEICHNUNG: Verbandsgemeinde Bad Hönningen
+EIGENSCHAFTEN:
+  gehört_zu: Leutesdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: landkreis
+BEZEICHNUNG: Landkreis Neuwied
+EIGENSCHAFTEN:
+  liegt_in: Leutesdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: linzer_union
+BEZEICHNUNG: Linzer Union
+EIGENSCHAFTEN:
+  beitritt: Leutesdorf 1597
+  bedeutung: religionspolitischer Bund
+GUELTIG_AB: 1597
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: familienbesitz
+BEZEICHNUNG: Familienbesitz Weinbau
+EIGENSCHAFTEN:
+  beschreibung: einzelne Winzerbetriebe mit durchgehendem Familienbesitz nachweisbar bis 1640
+GUELTIG_AB: 1640
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fernsehserie
+BEZEICHNUNG: MS Franziska
+EIGENSCHAFTEN:
+  lage_drehort: Rheinfront von Leutesdorf
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: reliefs
+BEZEICHNUNG: Reliefs Sieben Kniefall Weg
+EIGENSCHAFTEN:
+  beschreibung: kleine Reliefs in Hauswände eingelassen, waren Stationen des Sieben Kniefall Weges
+  anzahl: mehrere
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

@@ -26,7 +26,7 @@ import os
 import sys
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1')
+ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'))
 AUS = os.path.join(ITER, 'eingabe-v0.7')
 # Berichtigungen an Grunddaten: (slug, eigenschaft) → Hinweise; main() füllt sie aus faktencheck/berichtigungen.json
 GRUND_BERICHTIGT = {}
@@ -37,6 +37,11 @@ MEHRWERTIG = ('hoehe_m', 'flaeche_km2', 'ersterwaehnung')
 SPENDER = ['s4-dornstetten', 's10-tengen', 's2-renchen']
 # Karte 2 als Leiter statt Spannen
 LEITER = ('05-st-peter', '07-kirchzarten')
+# ein weiterer Raum (GA_RAUM=neuwied) bringt Spender und Leiter-Orte in <raum>/orte.json mit
+if os.path.exists(os.path.join(ITER, 'orte.json')):
+    with io.open(os.path.join(ITER, 'orte.json'), encoding='utf-8') as _f:
+        _raum = json.load(_f)
+    SPENDER, LEITER = _raum['spender'], tuple(_raum['leiter'])
 # Rotation der Klassiker: (Eigenschaft, Familie, Beschreibung für den PLAN)
 ZAHL = [('einwohner', 'Einwohnerzahl'), ('ersterwaehnung', 'Jahr der ersten Erwähnung'), ('flaeche_km2', 'Fläche der Gemarkung'),
         ('hoehe_m', 'Höhe des Orts'), ('dichte_ew_km2', 'Einwohner je Quadratkilometer')]
@@ -74,6 +79,11 @@ def zeile(key, liste):
     vermerke = []
     if erster.get('hinweis', '').startswith('gilt für die Gemeinde'):
         vermerke.append('GILT FÜR DIE GEMEINDE ' + erster['hinweis'].split('Gemeinde ')[1].split(',')[0].upper())
+    if erster.get('hinweis', '').startswith('gilt für die Verbandsgemeinde'):
+        # Rheinland-Pfalz: Briefwahl wird für die Verbandsgemeinde gemeinsam ausgezählt (Raum Neuwied)
+        vermerke.append('GILT FÜR DIE VERBANDSGEMEINDE ' + erster['hinweis'].split('Verbandsgemeinde ')[1].split(',')[0].upper())
+    if 'nur ungefähr' in erster.get('hinweis', ''):
+        vermerke.append('NUR UNGEFÄHR, AUF GANZE PROZENT RUNDEN (' + erster['hinweis'].split('nur ungefähr: ')[1] + ')')
     if 'Aktualität nicht geprüft' in erster.get('hinweis', ''):
         vermerke.append('AKTUALITÄT NICHT GEPRÜFT')
     if key == 'wahl_btw25':
@@ -128,6 +138,9 @@ def plan(i, ort):
     b = lambda k: ((i + k) % 3) + 1
     zahl, zahl_ersatz = waehle(ort, ZAHL, i)
     pol_fam, pol = POLITIK[i % len(POLITIK)]
+    if 'nur ungefähr' in ort['eigenschaften'].get('wahl_btw25', [{}])[0].get('hinweis', ''):
+        # ein ungefähres Stadtteilergebnis trägt keinen knappen Rang und keine Wahlbeteiligung, nur eine Spanne
+        pol_fam, pol = POLITIK[2]
     # Landkreis und Kennzeichen eines Stadtteils sind die der Stadt und schon durch den Steckbrief verraten
     stadt = ('landkreis', 'kfz') if ort['einheit'].startswith('Ortsteil') else ()
     lage, lage_ersatz = waehle(ort, LAGE, i, gesperrt=(zahl[0], zahl_ersatz[0] if zahl_ersatz else '') + stadt)
@@ -180,7 +193,12 @@ def main():
         if o['einheit'].startswith('Ortsteil'):
             # ein Stadtteil liegt nicht "nördlich von" seiner Stadt, sondern in ihr (Faktencheck v0.6, Zähringen)
             km_text, _, rest = lage.partition(' von ')
-            lage = 'Stadtteil von %s, %s der Stadtmitte (Luftlinie)' % (rest.split(' (')[0], km_text)
+            stadt = o['einheit'].split(' von ', 1)[1]
+            if rest.split(' (')[0] == stadt:
+                lage = 'Stadtteil von %s, %s der Stadtmitte (Luftlinie)' % (stadt, km_text)
+            else:
+                # die Stadt des Stadtteils ist nicht die nächste Großstadt (Neuwied: Koblenz)
+                lage = 'Stadtteil von %s; %s von %s (Luftlinie)' % (stadt, km_text, rest.split(' (')[0])
         teile = ['ZIELORT: %s (%s)' % (o['name'], o['einheit']),
                  'LAGE: ' + lage,
                  'ARTIKEL: ' + artikel[o['slug']], '',

@@ -18,7 +18,7 @@ import urllib.parse
 import urllib.request
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1')
+ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'))
 UA = {'User-Agent': 'LernApp-GemeindeAchsen/0.1 (https://github.com/msaxler/lernapp)'}
 GRENZE_WOERTER = 1000
 HOECHSTENS = 3  # verlinkte Artikel je Ort

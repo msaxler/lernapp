@@ -15,7 +15,7 @@ import re
 import sys
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1')
+ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'))
 KARTEN = os.path.join(ITER, 'karten-geprueft', 'v0.5')
 ZIEL = os.path.join(WURZEL, 'docs', 'konzepte', 'quizaway-feldtest-stufe2-kartensatz-freiburg-2026-10-02.md')
 FELDER = 'FAKTENCHECK|SORTE|FAMILIE|FAKT-ID|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|NEGATIVNACHWEISE|## '

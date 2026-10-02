@@ -1,0 +1,75 @@
+ID: 04-altwied+2/001
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: Evangelische Pfarrkirche Altwied
+ORTSTEIL_BEZUG: Altwied
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  denkmalschutz: ja
+  ursprünglicher_name: Sankt-Antonius-Kapelle
+  erste_erwähnung: 1470
+  baustil: Bruchsteinbau, Spätgotik
+  langhaus_schiffe: 1
+  langhaus_decke: flach
+  baumaßnahme_1658: Eingang an Nordseite verlegt
+  baumaßnahme_1920er: Vordach am Eingang, Westempore eingebaut
+  kirchengemeinde: Feldkirchen-Altwied
+GUELTIG_AB: 1470
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied+2/002
+ENTITÄT: orgel
+BEZEICHNUNG: Orgel Schöler
+EIGENSCHAFTEN:
+  baujahr: 1756
+  orgelbauer: Johann Wilhelm Schöler
+  register: 11
+  manual: 1
+  pedal: ja
+  status_1924: ersetzt durch Paul Faust
+GUELTIG_AB: 1756
+GUELTIG_BIS: 1924
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-altwied+2/003
+ENTITÄT: orgel
+BEZEICHNUNG: Orgel Faust
+EIGENSCHAFTEN:
+  baujahr: 1924
+  orgelbauer: Paul Faust
+  manual: 2
+  gehäusewiederverwendung: Teile des alten Schöler-Gehäuses
+  status_1970: abtragen, Schöler-Prospekt bei Oberlinger gelagert
+GUELTIG_AB: 1924
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-altwied+2/004
+ENTITÄT: orgel
+BEZEICHNUNG: Orgel Marktkirche Neuwied
+EIGENSCHAFTEN:
+  herkunft: gebrauchte Orgel aus Marktkirche Neuwied
+  erwerb_gemeinde: 1970
+  status_1970: Faust-Orgel abtragen
+  status_1992: ersetzt durch Oberlinger
+GUELTIG_AB: 1970
+GUELTIG_BIS: 1992
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-altwied+2/005
+ENTITÄT: orgel
+BEZEICHNUNG: Orgel Oberlinger
+EIGENSCHAFTEN:
+  rekonstruktion_baujahr: 1992
+  orgelbauer: Oberlinger
+  wiederverwendung_prospekt: Schöler-Prospekt und erhaltene Reste
+  erweiterung: Echowerk auf zweitem Manual
+  register_heute: 19 klingende Register
+  koppeln: II/I, I/P, II/P
+  spielhilfe: Echo Forte
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

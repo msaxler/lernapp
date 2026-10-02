@@ -1,0 +1,471 @@
+ENTITÄT: ort
+BEZEICHNUNG: Rengsdorf
+EIGENSCHAFTEN:
+  gemeinde_typ: Ortsgemeinde
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  verwaltungssitz_von: Verbandsgemeinde Rengsdorf-Waldbreitbach
+  jahresniederschlagsmenge: 834 mm
+  älteste_urkunde_dokumentiert: Grenzen des Rengsdorfer Pfarrzehntbezirks zum Koblenzer Kastorstift
+  älteste_urkunde_jahr: 857
+  älteste_urkunde_jahr_genauigkeit: ca.
+  heilklimatischer_kurort_seit: 1963
+  gesundheitstouristische_tradition_seit: 19. Jahrhundert
+GUELTIG_AB: 857
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: gemeinde
+DESIGNIERUNG: Verbandsort
+BEZEICHNUNG: Verbandsgemeinde Rengsdorf-Waldbreitbach
+EIGENSCHAFTEN:
+  verwaltungssitz: Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: gemeinde
+DESIGNIERUNG: Partnergemeinde
+BEZEICHNUNG: Saint-Pierre-le-Moûtier
+EIGENSCHAFTEN:
+  region: Burgund
+  land: Frankreich
+  partnerschaft_seit: 2005
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Marc Dillenberger
+EIGENSCHAFTEN:
+  amtsantritt: 9. Dezember 2024
+  position_vorher: Erster Beigeordneter
+  wahlmodus: Wahl durch Gemeinderat auf konstituierender Sitzung
+  einstimmig_gewählt_sitzung: Gemeinderatssitzung Dezember 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Christian Robenek
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: Juli 2014
+  wiedergewählt_datum: 26. Mai 2019
+  wiedergewählt_stimmen: 75,70 %
+  wahlmodus: Direktwahl
+  amtsende: 30. Juli 2024
+  verzicht_auf_kandidatur_2024: true
+GUELTIG_AB: 2014
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Karlheinz Kleinmann
+EIGENSCHAFTEN:
+  amtszeit_dauer_jahre: 15
+  nachfolger: Christian Robenek
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: gemeinderat
+EIGENSCHAFTEN:
+  anzahl_ratsmitglieder: 20
+  wahl_datum: 9. Juni 2024
+  wahlmodus: Mehrheitswahl
+  vorsitzender: Ortsbürgermeister (ehrenamtlich)
+  wahlmodus_vorher_bis_2019: personalisierte Verhältniswahl
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ENTITÄT: bauwerk
+DESIGNIERUNG: Denkmal
+BEZEICHNUNG: Bismarcksäule
+EIGENSCHAFTEN:
+  hoehe: 13 m
+  standort: Kaisereichenplatz
+  errichtet_für: Otto von Bismarck (Erster Deutscher Reichskanzler, 1815–1898)
+  einweihung: 1903
+GUELTIG_AB: 1903
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ENTITÄT: graben
+DESIGNIERUNG: Bodendenkmäler/Wehranlage
+BEZEICHNUNG: Römergraben
+EIGENSCHAFTEN:
+  tatsächliche_herkunft: Frankenzeit (Frühes Mittelalter)
+  ursprüngliche_interpretation: Überbleibsel des römischen Limes (widerlegt)
+  funktion: Wehr- und Grenzschutz zwischen Siedlungsbereichen
+  gestaltung: Wall mit seitlichem Gebück bewachsen
+  länge_erkennbar: ca. 750 m
+  wanderweg_verlauf: Fernwanderweg Rheinsteig führt stellenweise über Anlage
+  eignung: hervorragend für Spaziergänge und Wanderungen mit Aussicht über Neuwieder Becken
+  limes_entfernung: ca. 3 km entfernt (bei Kreuzkirche Melsbach)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: wanderweg
+DESIGNIERUNG: Fernwanderweg
+BEZEICHNUNG: Rheinsteig
+EIGENSCHAFTEN:
+  verlauf_rengsdorf: stellenweise über Römergraben
+  aussicht: exzellente Aussicht über Neuwieder Becken
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: veranstaltung
+DESIGNIERUNG: Musikfestival
+BEZEICHNUNG: Rock the Forest
+EIGENSCHAFTEN:
+  zeitpunkt: jährlich im Sommer
+  organisator: Rockfreunde Rengsdorf
+  künstler_beispiele: Kadavar, Rage, Uriah Heep
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: verein
+DESIGNIERUNG: Kulturverein
+BEZEICHNUNG: Rockfreunde Rengsdorf
+EIGENSCHAFTEN:
+  status_form: e. V.
+  veranstaltung_hauptsächlich: Rock the Forest (jährlich im Sommer)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: organisation
+DESIGNIERUNG: Rettungsdienst
+BEZEICHNUNG: Freiwillige Feuerwehr Rengsdorf
+EIGENSCHAFTEN:
+  bereich: Rettungsdienste und Katastrophenschutz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: organisation
+DESIGNIERUNG: Rettungsdienst
+BEZEICHNUNG: Deutsches Rotes Kreuz Rengsdorf
+EIGENSCHAFTEN:
+  bereich: Rettungsdienste und Katastrophenschutz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: organisation
+DESIGNIERUNG: Rettungsdienst
+BEZEICHNUNG: DLRG Rengsdorf
+EIGENSCHAFTEN:
+  bereich: Rettungsdienste und Katastrophenschutz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: verein
+DESIGNIERUNG: Sportverein
+BEZEICHNUNG: Alternative Sport- und Spielgemeinschaft (A.S.S.)
+EIGENSCHAFTEN:
+  bereich: Sport und Freizeit
+  status_form: e. V. (implizit)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: verein
+DESIGNIERUNG: Sportverein
+BEZEICHNUNG: Turnverein Rengsdorf
+EIGENSCHAFTEN:
+  bereich: Sport und Freizeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: verein
+DESIGNIERUNG: Sportverein
+BEZEICHNUNG: Sportverein Rengsdorf
+EIGENSCHAFTEN:
+  bereich: Sport und Freizeit
+  sportart: Fußball
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: verein
+DESIGNIERUNG: Sportverein
+BEZEICHNUNG: TC-Rengsdorf
+EIGENSCHAFTEN:
+  bereich: Sport und Freizeit
+  sportart: Tennis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verein
+DESIGNIERUNG: Kulturverein
+BEZEICHNUNG: Burschenverein Rengsdorf
+EIGENSCHAFTEN:
+  bereich: Sport und Freizeit
+  funktionen: organisiert Feste wie Kirmes und Karneval
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: organisation
+DESIGNIERUNG: Jugendverband
+BEZEICHNUNG: Christlicher Verein Junger Menschen (CVJM) Rengsdorf e. V.
+EIGENSCHAFTEN:
+  gründung_jahr: 2005
+  anregung_durch: Pfarrer Friedemann Stinder
+  aktivitäten: monatliche Kinderbibeltage, Jugendtreffs, Indiaca-Sportgruppe
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: infrastruktur
+DESIGNIERUNG: Straße
+BEZEICHNUNG: Bundesstraße 256
+EIGENSCHAFTEN:
+  verbindet: Neuwied und Altenkirchen
+  verlauf: durch Gemeinde Rengsdorf
+  verkehrsanbindung: regionale Busverbindung vorhanden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: infrastruktur
+DESIGNIERUNG: Straße/Umgehung
+BEZEICHNUNG: Ortsumgehung B 256
+EIGENSCHAFTEN:
+  länge: ca. 4 km
+  baubeginn: 3. Juli 2006
+  kosten_geplant: ca. 35 Millionen Euro
+  verkehrsfreigabe: 23. September 2014
+GUELTIG_AB: 2006
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: infrastruktur
+DESIGNIERUNG: Autobahnanschluss
+BEZEICHNUNG: Autobahnanschlussstelle Neuwied/Altenkirchen
+EIGENSCHAFTEN:
+  autobahn: A 3
+  besonderheit: nächstgelegene Anschlussstelle zu Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: infrastruktur
+DESIGNIERUNG: Bahnhof
+BEZEICHNUNG: Bahnhof Neuwied
+EIGENSCHAFTEN:
+  besonderheit: nächstgelegener Bahnhof zu Rengsdorf
+  rheinstrecke_seite: rechts
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: infrastruktur
+DESIGNIERUNG: Bahnhof
+BEZEICHNUNG: Bahnhof Andernach
+EIGENSCHAFTEN:
+  rheinstrecke_seite: links
+  verkehrstyp: Fernverkehr
+  besonderheit: nächstgelegener Fernverkehrs-Bahnhof auf linker Rheinstrecke zu Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: infrastruktur
+DESIGNIERUNG: Bahnhof
+BEZEICHNUNG: Bahnhof Koblenz
+EIGENSCHAFTEN:
+  rheinstrecke_seite: links
+  verkehrstyp: Fernverkehr
+  besonderheit: nächstgelegener Fernverkehrs-Bahnhof auf linker Rheinstrecke zu Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: infrastruktur
+DESIGNIERUNG: Schnellfahrstrecke
+BEZEICHNUNG: Schnellfahrstrecke Köln–Rhein/Main
+EIGENSCHAFTEN:
+  verlauf: in unmittelbarer Nähe von Rengsdorf
+  nächster_halt: Montabaur
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: infrastruktur
+DESIGNIERUNG: Bahnhalt
+BEZEICHNUNG: Montabaur
+EIGENSCHAFTEN:
+  strecke: Schnellfahrstrecke Köln–Rhein/Main
+  besonderheit: nächstgelegener Halt dieser Strecke zu Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: unternehmen
+DESIGNIERUNG: Hersteller
+BEZEICHNUNG: Lohmann & Rauscher
+EIGENSCHAFTEN:
+  bereich: Verband- und Medikalstoffe
+  bekanntheitsgrad: bundesweit bekannt
+  sitz_hauptverwaltung: Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: unternehmen
+DESIGNIERUNG: Reiseunternehmen
+BEZEICHNUNG: Berge & Meer
+EIGENSCHAFTEN:
+  muttergesellschaft: TUI Deutschland (Beteiligungsunternehmen)
+  bekanntheitsgrad: bundesweit bekannt
+  sitz_hauptverwaltung: Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: unternehmen
+DESIGNIERUNG: Bäderbetreiber
+BEZEICHNUNG: monte mare
+EIGENSCHAFTEN:
+  funktion: betreibt Bäder
+  bekanntheitsgrad: bundesweit bekannt
+  sitz_hauptverwaltung: Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: unternehmen
+DESIGNIERUNG: Möbel- und Trennwandhersteller
+BEZEICHNUNG: meta GmbH & Co KG
+EIGENSCHAFTEN:
+  bereich: Trennwandanlagen
+  absatzmarkt: international
+  bekanntheitsgrad: bundesweit bekannt
+  sitz_hauptverwaltung: Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: unternehmen
+DESIGNIERUNG: Fertigungsbetrieb
+BEZEICHNUNG: Maschinenbau Runkel GmbH
+EIGENSCHAFTEN:
+  bereich: Maschinenbau
+  sitz: Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: unternehmen
+DESIGNIERUNG: Fertigungsbetrieb
+BEZEICHNUNG: Winkler und Dünnebier Süßwarenmaschinen GmbH
+EIGENSCHAFTEN:
+  bereich: Süßwarenmaschinen
+  sitz: Rengsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: persönlichkeit
+DESIGNIERUNG: Sohn oder Tochter des Ortes
+BEZEICHNUNG: Johannes Kintzing
+EIGENSCHAFTEN:
+  geburt: 1681
+  beruf: Müller
+  besonderheit: Großvater von Peter IV. Kinzing (Uhrmacher und Mechaniker)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+DESIGNIERUNG: Sohn oder Tochter des Ortes
+BEZEICHNUNG: Gerhard Curdes
+EIGENSCHAFTEN:
+  geburt: 1933
+  tod: 2025
+  beruf: Universitätsprofessor für Städtebau und Landesplanung
+GUELTIG_AB: 1933
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: persönlichkeit
+DESIGNIERUNG: Sohn oder Tochter des Ortes
+BEZEICHNUNG: Norbert van Heyst
+EIGENSCHAFTEN:
+  geburt: 1944
+  position: General der Bundeswehr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+DESIGNIERUNG: im Ort gewirkt
+BEZEICHNUNG: Friedrich Karl Henkel
+EIGENSCHAFTEN:
+  geburt: 1848
+  tod: 1930
+  beruf: Unternehmer und Konzernründer
+  unternehmungsgründung: Henkel-Konzern
+  alterswohnsitz: Rengsdorf
+  todesort: Rengsdorf
+GUELTIG_AB: 1848
+GUELTIG_BIS: 1930
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: persönlichkeit
+DESIGNIERUNG: im Ort gewirkt
+BEZEICHNUNG: Curt Karl Rüschhoff
+EIGENSCHAFTEN:
+  geburt: 1887
+  tod: 1969
+  beruf: Architekt
+  werke_bekannt: u.a. Schlosshotel Bühlerhöhe
+GUELTIG_AB: 1887
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: persönlichkeit
+DESIGNIERUNG: im Ort gewirkt
+BEZEICHNUNG: Richard Winkler
+EIGENSCHAFTEN:
+  geburt: 1898
+  tod: 1972
+  position: Seniorchef und persönlich haftender Gesellschafter Winkler+Dünnebier
+  ehre: Ehrenbürger der Stadt Neuwied
+GUELTIG_AB: 1898
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: persönlichkeit
+DESIGNIERUNG: im Ort gewirkt
+BEZEICHNUNG: Friedemann Stinder
+EIGENSCHAFTEN:
+  beruf: Pfarrer
+  anregung_zu: Gründung CVJM Rengsdorf 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: infrastruktur
+DESIGNIERUNG: Militärische Anlage/Schule
+BEZEICHNUNG: Schule für Nachrichtenwesen der Bundeswehr
+EIGENSCHAFTEN:
+  standort_original: ehemaliges Hotel Rheinhöhe in Rengsdorf
+  aufstellung: März 1956
+  verlegung_datiert: Mitte Oktober 1958
+  verlegung_nach: Bad Ems
+  nachfolger_einrichtung: Radio-Kompanie
+  nachfolger_ab: Dezember 1959
+  nachfolger_später_stationiert: PSV-Bataillon 1 in Andernach
+GUELTIG_AB: 1956
+GUELTIG_BIS: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: beigeordneter
+DESIGNIERUNG: Geschäftsbereich
+BEZEICHNUNG: Thomas Schreck
+EIGENSCHAFTEN:
+  position: Beigeordneter
+  wahl_als_beigeordneter: 3. Juli 2024
+  geschäftsbereich_zuordnung: personenbezogen ab Oktober 2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: beigeordneter
+DESIGNIERUNG: Geschäftsbereich
+BEZEICHNUNG: Denis Müller
+EIGENSCHAFTEN:
+  position: Beigeordneter
+  wahl_als_beigeordneter: 3. Juli 2024
+  geschäftsbereich_zuordnung: personenbezogen ab Oktober 2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

@@ -1,0 +1,2300 @@
+ZIELORT: Bad Hönningen (Stadt)
+LAGE: 26 km nordwestlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Bad Hönningen
+
+GRUNDDATEN:
+  landkreis: Neuwied  [dewiki Infobox]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 6376  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 20,09  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 317  [berechnet aus Einwohner und Fläche]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 65 | 69 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2953434)]
+  naechste_grossstadt: Koblenz, 26 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 91 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Bad Hönningen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 53557  [Wikidata P281]
+  vorwahl: 02635  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 34,1 %, SPD 21 %, AfD 18 %, GRÜNE 8 %, Die Linke 5,9 %; Wahlbeteiligung 80,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Mark Geimer (parteilos) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-02]
+  partnerstaedte: Saint-Pierre-lès-Nemours  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT kfz: Kennzeichen (Ersatz: Partnerstadt), A, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Linz am Rhein (Stadt)
+  landkreis: Neuwied  [dewiki Infobox]
+  einwohner: 6276  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 17,98  [Wikidata P2046; Altbestand staedte.json]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 90 | 70 | 75 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2876952)]
+  naechste_grossstadt: Bonn, 23 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Linz (Rhein)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 37,3 %, SPD 17,5 %, AfD 16,9 %, GRÜNE 10,1 %, Die Linke 5,6 %; Wahlbeteiligung 85,4 % — GILT FÜR DIE VERBANDSGEMEINDE LINZ AM RHEIN  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Bendorf, Engers, Heimbach-Weis, Altwied, Rengsdorf, Dierdorf, Waldbreitbach, Linz am Rhein, Bad Hönningen, Leutesdorf
+
+FAKTEN (Zielort Bad Hönningen):
+ID: 09-bad-hoenningen/001
+ENTITÄT: ort
+BEZEICHNUNG: Bad Hönningen
+EIGENSCHAFTEN:
+  ist_stadt: true
+  ist_heilbad: true
+  ist_badeort: true
+  ist_weinort: true
+  ist_verwaltungssitz: true
+  verwaltungssitz_von: Verbandsgemeinde Bad Hönningen
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  lage_fluss: rechtes Ufer des Mittelrheins
+  naturpark: Rhein-Westerwald
+  ist_grundzentrum: true
+  entfernung_zu_koblenz_km: 10
+  entfernung_richtung_koblenz: südöstlich
+  position_rheinstrom: zwischen Koblenz im Süden und Bonn im Norden
+  uferpromenade_laenge_km: 1,5
+  stadtwald_wanderwege_km: 60
+  stadtteil_ariendorf: true
+  stadtteil_girgenrath: true
+  stadtteil_reidenbruch: true
+GUELTIG_AB: 1019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-bad-hoenningen/002
+ENTITÄT: ortsname
+BEZEICHNUNG: Hönningen
+EIGENSCHAFTEN:
+  etymologie_althochdeutsch: Hoho mit -ing-Suffix bedeutet Siedlung des Hoho
+  erste_urkundliche_nennung: 1019
+  erste_nennung_als_hohingen_im_ingerisgowe: 1019
+  nennung_als_pfarrei: 1204
+GUELTIG_AB: 1019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/003
+ENTITÄT: gewässer
+BEZEICHNUNG: Mittelrhein
+EIGENSCHAFTEN:
+  flusstyp: Rheinabschnitt
+  ortslage: Bad Hönningen liegt am rechten Ufer
+  relevanz_fuer_stadt: Lage, Verkehr, Tourismus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 09-bad-hoenningen/004
+ENTITÄT: landschaftselement
+BEZEICHNUNG: Hönninger Schlossberg
+EIGENSCHAFTEN:
+  typ: Weinberg
+  größe_hektar: 9
+  superlativ: größter zusammenhängender Weinberg am Mittelrhein
+  lage: rechtsrheinisch am Mittelrhein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-bad-hoenningen/005
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schloss Arenfels
+EIGENSCHAFTEN:
+  ursprung_burg: Burg Arenfels
+  erbauer_ursprung: Gerlach von Isenburg
+  bau_ursprung_jahresbereich: 1258-1259
+  teil_westflügel_jahr: 1258
+  teil_bergfried_jahr: 1259
+  lehnsuebergang_haus: Haus von der Leyen
+  lehnsuebergang_jahr: 1670
+  erwerber: Reichsgraf Ludolf Friedrich von Westerholt
+  erwerb_jahr: 1848
+  umbauer: Ernst Friedrich Zwirner (Kölner Dombaumeister)
+  umbau_style: neugotisch
+  umbau_jahresbereich: 1849-1855
+  heutiger_besitzer: Antonius Freiherr Geyr von Schweppenburg
+  heutige_nutzung: Hotel und Eventlocation
+  veranstaltung_schlosleuchten: true
+GUELTIG_AB: 1258
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 09-bad-hoenningen/006
+ENTITÄT: bauwerk
+BEZEICHNUNG: Hohe Haus
+PROPERTIES:
+  baustil: spätgotischer Wohnturm
+  material: einheimischer Bruchstein
+  erbauer: Trierer Erzbischof Raban von Helmstatt
+  bau_jahr: 1438
+  umbau_jahr: 1617
+  umbauer: Graf Ernst von Isenburg
+  umbau_massnahme: Einbau Spindeltreppe und Kölner Decke
+  erwerb_heimatverein_jahr: 1996
+  sanierung_heimatverein_ab: 2000
+  sanierung_leitung: Thomas Kesseler (Maler, Bildhauer, Architekt)
+  sanierung_massnahmen_ab_herbst_2025: Außenputz und Fenster
+  museum_eroeffnung_jahr: 2000
+  legendenbezug: soll geheimen Tunnel zu Schloss Arenfels haben
+GUELTIG_AB: 1438
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 09-bad-hoenningen/007
+ENTITÄT: bauwerk
+DESIGNATION: Burg Ariendorf
+ORTSTEIL_BEZUG: Ariendorf
+EIGENSCHAFTEN:
+  erbauer: Ludwig von Loch
+  baustil: neugotisch
+  bau_jahr: 1840
+  erbauer_schloss: Ernst Friedrich Zwirner (Kölner Dombaumeister)
+  vorgaenger_struktur: abgerissenes mittelalterliches Hofhaus
+  vorgaenger_erwerb_jahr: 1706
+  vorgaenger_erwerb_von: Kloster Nivellen
+  vorgaenger_erwerber: Kurfürst Johann Hugo von Orsbeck (Trier)
+GUELTIG_AB: 1840
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/008
+ENTITÄT: bauwerk
+BEZEICHNUNG: Tempelhof
+EIGENSCHAFTEN:
+  erste_nennung_besitzer_templerorden: 1225
+  besitzerobernahme_johanniterorden: 1317
+  besitz_nach_saekularisation_ab: 1817
+  besitzer_freiherr_von_salis: true
+  besitzer_marquis_von_villers: true
+  besitzer_freiherren_geyr_von_schweppenburg: true
+GUELTIG_AB: 1225
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/009
+ENTITÄT: bauwerk
+BEZEICHNUNG: Burghaus am Rhein
+EIGENSCHAFTEN:
+  baustil: Renaissancestil
+  erbauer: Christoph von Wintzler (kurkölnischer Vizekanzler)
+  bau_zeit: Anfang 17. Jahrhundert
+  nutzung_jahr_1844: erste Hönninger Poststation
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/010
+ENTITÄT: bauwerk
+BEZEICHNUNG: St. Georgenhof
+EIGENSCHAFTEN:
+  alternative_bezeichnung: sand (Sankt) Jürgenhoff
+  nacheigentum: Hohe Haus (Standort)
+  nennung_bis: Anfang 15. Jahrhundert
+  verkauf_jahr: 1422
+  verkauf_alternative_jahr: 1424
+  verkaeufer: Bamberger Domkapitel
+  kaeufer: Erzbischof Otto von Trier
+  kaufpreis_gulden: 1500
+GUELTIG_AB: 1019
+GUELTIG_BIS: 1422
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 09-bad-hoenningen/011
+ENTITÄT: bauwerk
+BEZEICHNUNG: Hofgut Hoinga
+EIGENSCHAFTEN:
+  alternativname: zweites Hofgut zu Hoinga
+  gaeberin: Witwe Gerbrich (Schwester des Gaugrafen Otto von Hammerstein)
+  schenkung_jahr: 1041
+  beschenker: Trierer Erzbischof Poppo
+  weitergabe: Trierer Erzbischof Poppo schenkte es dem St. Simeonsstift
+  beschenkte_institution: St. Simeonsstift in Trier
+GUELTIG_AB: 1041
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-bad-hoenningen/012
+ENTITÄT: religiöse_institution
+BEZEICHNUNG: Pfarrei Hönningen
+EIGENSCHAFTEN:
+  erste_nennung_jahr: 1204
+  gruender_institution_1: Hochstift Bamberg
+  gruender_institution_2: Trierer Simeonsstift
+  gemeinsame_gruendung: true
+  ausdehnung_rheinfluss: von Bach in Ariendorf im Norden bis zum früheren Verlauf des Limes an der Grenze nach Rheinbrohl
+  ausdehnung_westerwald: Hof Reidenbruch
+  ausdehnung_wed: Hof Girgenrath (jenseits der Wasserscheide)
+  grenzkorrektur_20_jahrhundert: geringfügig
+GUELTIG_AB: 1204
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 09-bad-hoenningen/013
+ENTITÄT: religiöse_institution
+BEZEICHNUNG: St. Peter und Paul
+EIGENSCHAFTEN:
+  typ: Katholische Pfarrkirche
+  baustil: 18. Jahrhundert
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/014
+ENTITÄT: bauwerk
+BEZEICHNUNG: Mönchshof
+EIGENSCHAFTEN:
+  bau_jahr: 1209
+  erhaltungsstatus: heute noch zum Teil existierend
+GUELTIG_AB: 1209
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/015
+ENTITÄT: bauwerk
+BEZEICHNUNG: Altes Stadtweingut
+EIGENSCHAFTEN:
+  alternative_bezeichnung: Wirtschaftsgebäude des Winzervereins
+  winzerverein_grundung: 1888
+GUELTIG_AB: 1888
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-bad-hoenningen/016
+ENTITÄT: weltkulturerbe
+BEZEICHNUNG: Obergermanisch-Raetischer Limes
+EIGENSCHAFTEN:
+  beginn_standort: Nachbargemeinde Rheinbrohl
+  endstandort: Regensburg
+  zeitperiode_erbauung: 1. bis 3. Jahrhundert n. Chr.
+  erbauungszweck: Schutz des Römischen Reiches gegen germanische Übergriffe
+  bodendenkmal_lage: unweit Bad Hönningens am Rhein, in unmittelbarer Nähe der Stadtgrenze
+  unesco_anerkennung_datum: 15. Juli 2005
+  unesco_status: Weltkulturerbe
+  länge_teil_deutscher_limes_wanderweg_km: 734,7
+  endpunkt_deutscher_limes_wanderweg: Bad Gögging
+GUELTIG_AB: 100
+GUELTIG_BIS: 300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-bad-hoenningen/017
+ENTITÄT: unternehmen
+BEZEICHNUNG: Artus Mineralbrunnen GmbH
+EIGENSCHAFTEN:
+  ursprung_firmen: Hubertus Sprudel und Arienheller Kohlensäurewerk
+  gruendung_jahr: 1896-1897
+  quellenentdeckung_jahr: 1894
+  quellenentdecker: Peter Lang (Breisiger Bürger)
+  hubertusquelle_tiefe_meter: 294
+  arienheller_quelle_tiefe_meter: 380
+  expansion_1970er_jahre: Übernahme Brunnen Bornheim-Roisdorf
+  roisdorf_tradition: seit Römerzeit Mineralwasser-Förderung (soll)
+  insolvenzverfahren_ab: 2002
+  schließung_datum: 31. Mai 2008
+GUELTIG_AB: 1896
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 09-bad-hoenningen/018
+ENTITÄT: unternehmen
+BEZEICHNUNG: Hubertus Sprudel
+EIGENSCHAFTEN:
+  gruendung_jahr: 1896-1897
+  integration_in: Artus Mineralbrunnen GmbH
+GUELTIG_AB: 1896
+GUELTIG_BIS: 1897
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/019
+ENTITÄT: unternehmen
+BEZEICHNUNG: Arienheller Kohlensäurewerk
+EIGENSCHAFTEN:
+  gruendung_jahr: 1896-1897
+  integration_in: Artus Mineralbrunnen GmbH
+GUELTIG_AB: 1896
+GUELTIG_BIS: 1897
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/020
+ENTITÄT: unternehmen
+BEZEICHNUNG: CARBO Kohlensäurewerke
+EIGENSCHAFTEN:
+  gruendung_jahr: 1912
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/021
+ENTITÄT: unternehmen
+BEZEICHNUNG: Bad Hönninger Fruchtsäfte GmbH
+EIGENSCHAFTEN:
+  ab_jahr: 1918
+  eigentumsform: Familienbesitz
+GUELTIG_AB: 1918
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/022
+ENTITÄT: unternehmen
+BEZEICHNUNG: Kandelium
+EIGENSCHAFTEN:
+  vorgängername_1: Solvay GmbH
+  vorgängername_2: Kali Chemie
+  status_bis_2020_2021: Solvay GmbH
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 09-bad-hoenningen/023
+ENTITÄT: person
+BEZEICHNUNG: Mark Geimer
+EIGENSCHAFTEN:
+  amt: Stadtbürgermeister
+  amtsantritt: 26. April 2026
+  partei: parteilos
+  wahl_stichwahl_datum: 26. April 2026
+  wahl_stimmanteil_prozent: 62,5
+  wahl_gegner: Volker Risse (CDU)
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 09-bad-hoenningen/024
+ENTITÄT: person
+BEZEICHNUNG: René Achten
+EIGENSCHAFTEN:
+  amt: Stadtbürgermeister
+  amtsantritt: 3. Juli 2024
+  amtsende: Ende 2025
+  grund_amtsende: Rücktritt
+  wahl_direktwahl_datum: 9. Juni 2024
+  wahl_stimmanteil_prozent: 66,7
+  partei: CDU
+GUELTIG_AB: 2024
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 09-bad-hoenningen/025
+ENTITÄT: person
+BEZEICHNUNG: Reiner W. Schmitz
+EIGENSCHAFTEN:
+  amt: Stadtbürgermeister
+  amtsantritt: 31. Oktober 2020
+  partei: SPD
+  wahl_direktwahl_datum: 25. Oktober 2020
+  wahl_stimmanteil_prozent: 62,7
+  wahlbeteiligung_prozent: 61,2
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 09-bad-hoenningen/026
+ENTITÄT: person
+BEZEICHNUNG: Guido Job
+EIGENSCHAFTEN:
+  amt: Stadtbürgermeister
+  amtsantritt_jahr: 1997
+  amtsbestaetigung_mai: 2014
+  amtsende_jahr: 2019
+GUELTIG_AB: 1997
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/027
+ENTITÄT: person
+BEZEICHNUNG: Ulrich Elberskirch
+EIGENSCHAFTEN:
+  amt: Stadtbürgermeister
+  wahl_datum: 26. Mai 2019
+  wahl_stimmanteil_prozent: 52,06
+  partei: parteilos
+  amtsrücktritt_sommer: 2020
+  grund_rücktritt: gesundheitliche Gründe
+GUELTIG_AB: 2019
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 09-bad-hoenningen/028
+ENTITÄT: person
+BEZEICHNUNG: Diana Göttes
+EIGENSCHAFTEN:
+  titel: 1. Beigeordnete
+  amtsgeschafte_kommissarisch: ab Sommer 2020 (nach Elberskirch Rücktritt)
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/029
+ENTITÄT: person
+BEZEICHNUNG: August Schoop
+EIGENSCHAFTEN:
+  geburtsjahr: 1858
+  todesjahr: 1932
+  beruf: Historiker
+  geburtsort: Bad Hönningen
+GUELTIG_AB: 1858
+GUELTIG_BIS: 1932
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-bad-hoenningen/030
+ENTITÄT: person
+BEZEICHNUNG: Johann Anton Stradmann
+EIGENSCHAFTEN:
+  geburtsjahr: 1689
+  todesjahr: 1753
+  beruf: Missionsbischof
+  missiostätte: Indien
+  geburtsort: Bad Hönningen
+GUELTIG_AB: 1689
+GUELTIG_BIS: 1753
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-bad-hoenningen/031
+ENTITÄT: person
+BEZEICHNUNG: Karl-Heinz Thielen
+EIGENSCHAFTEN:
+  geburtsjahr: 1940
+  geburtsort: Ariendorf
+  beruf: Fußball-Nationalspieler
+GUELTIG_AB: 1940
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/032
+ENTITÄT: person
+BEZEICHNUNG: Carl Wülfing
+EIGENSCHAFTEN:
+  geburtsjahr: 1812
+  todesjahr: 1871
+  geburtsortalternativ: Monzingen an der Nahe
+  beruf: Landschaftsmaler der Romantik
+  militärischer_rang: Leutnant in Köln-Deutz
+  wohnort_ab: Bad Hönningen (vermutlich ab 1839)
+  kunstwerk: Gemälde im Sitzungssaal des Rathauses
+GUELTIG_AB: 1839
+GUELTIG_BIS: 1871
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 09-bad-hoenningen/033
+ENTITÄT: person
+BEZEICHNUNG: Willi Fischer
+EIGENSCHAFTEN:
+  geburtsjahr: 1920
+  todesjahr: 1991
+  beruf: Politiker
+  amt: Amtsbürgermeister Bad Hönningen
+  amtsdauer: 1958-1963
+GUELTIG_AB: 1958
+GUELTIG_BIS: 1963
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-bad-hoenningen/034
+ENTITÄT: person
+BEZEICHNUNG: Hermann Ilaender
+EIGENSCHAFTEN:
+  geburtsjahr: 1933
+  todesjahr: 2021
+  beruf: Politiker, Verwaltungsbeamter, Forst-Verbandsfunktionär
+  amt: Bürgermeister der Verbandsgemeinde
+  amtsdauer: 1983-1999
+GUELTIG_AB: 1983
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-bad-hoenningen/035
+ENTITÄT: person
+BEZEICHNUNG: Heinz Schwarz
+EIGENSCHAFTEN:
+  geburtsjahr: 1928
+  todesjahr: 2023
+  beruf: Politiker
+  amt_ehem_innenminister: Rheinland-Pfalz
+  amt_ehrenamtlicher_buergermeister: Stadt Bad Hönningen
+GUELTIG_AB: 1928
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-bad-hoenningen/036
+ENTITÄT: person
+BEZEICHNUNG: Werner Becker
+EIGENSCHAFTEN:
+  herkunftsort: Bad Hönningen
+  beruf: Astrophysiker
+  entdeckung_teleskop: Röntgenteleskop eROSITA
+  entdeckung_objekt: Supernovaüberrest G249.5+24.5
+  entdeckung_datum: März 2021
+  namenswahl_objekt: althochdeutscher Name der Stadt Hoinga
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-bad-hoenningen/037
+ENTITÄT: person
+BEZEICHNUNG: Thomas Kesseler
+EIGENSCHAFTEN:
+  beruf: Maler, Bildhauer, Architekt
+  amt: Vorstandsmitglied Heimatverein Hönningen
+  projekt: Sanierung Hohe Haus (Außenputz und Fenster)
+  projekt_start: Herbst 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/038
+ENTITÄT: person
+BEZEICHNUNG: Peter Lang
+EIGENSCHAFTEN:
+  herkunftsort: Breisig
+  titel: Breisiger Bürger
+  leistung: erbohrt erste Kohlensäurequellen Bad Hönningens
+  bohrung_jahr: 1894
+GUELTIG_AB: 1894
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/039
+ENTITÄT: person
+BEZEICHNUNG: Kaiser Heinrich II.
+EIGENSCHAFTEN:
+  urkunde_schenkung: an Bamberger Domkapitel
+  schenkung_land: Besitztum Hönningen
+  schenkung_wording: Hohingen im Ingerisgowe
+  urkunde_jahr: 1019
+  urkunde_mitzeichner: Gemahlin Kunigunde
+GUELTIG_AB: 1019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/040
+ENTITÄT: person
+BEZEICHNUNG: Kunigunde
+EIGENSCHAFTEN:
+  titel: Gemahlin Kaiser Heinrich II.
+  urkunde_schenkung: an Bamberger Domkapitel
+  schenkung_land: Besitztum Hönningen
+  urkunde_jahr: 1019
+GUELTIG_AB: 1019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/041
+ENTITÄT: person
+BEZEICHNUNG: Gerlach von Isenburg
+EIGENSCHAFTEN:
+  leistung: Erbauer der Burg Arenfels
+  bau_jahresbereich: 1258-1259
+  bau_teile: Westflügel und Bergfried
+GUELTIG_AB: 1258
+GUELTIG_BIS: 1259
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 09-bad-hoenningen/042
+ENTITÄT: person
+BEZEICHNUNG: Ernst Friedrich Zwirner
+EIGENSCHAFTEN:
+  titel: Kölner Dombaumeister
+  projekte: Schloss Arenfels (Umbau 1849-1855), Burg Ariendorf (1840)
+  architekturstil: neugotisch
+GUELTIG_AB: 1840
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 09-bad-hoenningen/043
+ENTITÄT: person
+BEZEICHNUNG: Raban von Helmstatt
+EIGENSCHAFTEN:
+  titel: Trierer Kurfürst und Erzbischof
+  leistung: Erbauer des Hohen Hauses
+  bau_jahr: circa 1438
+GUELTIG_AB: 1438
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 09-bad-hoenningen/044
+ENTITÄT: person
+BEZEICHNUNG: Otto von Trier
+EIGENSCHAFTEN:
+  titel: Erzbischof
+  kauf_jahr: 1422 (oder 1424)
+  kauf_objekt: Besitz des Bamberger Domkapitels (St. Georgenhof)
+  kaufpreis_gulden: 1500
+GUELTIG_AB: 1422
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 09-bad-hoenningen/045
+ENTITÄT: person
+BEZEICHNUNG: Erzbischof Poppo
+EIGENSCHAFTEN:
+  titel: Trierer Erzbischof
+  empfaenger_schenkung: Hofgut Hoinga von Witwe Gerbrich
+  beschenkung_jahr: 1041
+  weitergabe_empfaenger: St. Simeonsstift in Trier
+GUELTIG_AB: 1041
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/046
+ENTITÄT: person
+BEZEICHNUNG: Ludolf Friedrich von Westerholt
+EIGENSCHAFTEN:
+  titel: Reichsgraf
+  erwerb_jahr: 1848
+  erwerb_objekt: Schloss Arenfels
+  beauftragter_umbau: Ernst Friedrich Zwirner
+GUELTIG_AB: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 09-bad-hoenningen/047
+ENTITÄT: person
+BEZEICHNUNG: Antonius Freiherr Geyr von Schweppenburg
+EIGENSCHAFTEN:
+  heutiger_besitzer: Schloss Arenfels
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/048
+ENTITÄT: person
+BEZEICHNUNG: Ernst von Isenburg
+EIGENSCHAFTEN:
+  titel: Graf
+  massnahme: Umbau Hohe Haus, Einbau Spindeltreppe und Kölner Decke
+  jahr: 1617
+GUELTIG_AB: 1617
+GUELTIG_BIS: 1617
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/049
+ENTITÄT: person
+BEZEICHNUNG: Christoph von Wintzler
+EIGENSCHAFTEN:
+  titel: kurkölnischer Vizekanzler
+  leistung: Erbauer des Burghauses am Rhein
+  bau_zeit: Anfang 17. Jahrhundert
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/050
+ENTITÄT: person
+BEZEICHNUNG: Johann Hugo von Orsbeck
+EIGENSCHAFTEN:
+  titel: Kurfürst von Trier
+  erwerb_jahr: 1706
+  erwerb_objekt: mittelalterliches Hofhaus (später Burg Ariendorf Vorgänger)
+  erwerber_von: Kloster Nivellen
+GUELTIG_AB: 1706
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/051
+ENTITÄT: person
+BEZEICHNUNG: Ludwig von Loch
+EIGENSCHAFTEN:
+  leistung: Erbauer Burg Ariendorf
+  bau_jahr: 1840
+  beauftragter_architekt: Ernst Friedrich Zwirner
+GUELTIG_AB: 1840
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/052
+ENTITÄT: person
+BEZEICHNUNG: Volker Risse
+EIGENSCHAFTEN:
+  partei: CDU
+  wahl_stichwahl_datum: 26. April 2026
+  wahl_gegner: Mark Geimer (parteilos)
+  wahl_stimmanteil_prozent: 37,5
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/053
+ENTITÄT: person
+BEZEICHNUNG: Bill Evans
+EIGENSCHAFTEN:
+  beruf: Jazzmusiker
+  besonderheit: letztes Konzert in Europa vor seinem Tod
+  konzert_ort: Bad Hönninger Jazzclub
+  konzert_jahr: 1980
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/054
+ENTITÄT: person
+BEZEICHNUNG: Otto von Hammerstein
+EIGENSCHAFTEN:
+  titel: Gaulgraf
+  relation_gerbrich: Schwester ist Witwe Gerbrich
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 09-bad-hoenningen/055
+ENTITÄT: stadtteil
+BEZEICHNUNG: Ariendorf
+EIGENSCHAFTEN:
+  hauptort: Bad Hönningen
+  pfarrei_grenzmarker: Bach in Ariendorf (nördliche Grenze Pfarrei)
+GUELTIG_AB: 1204
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/056
+ENTITÄT: stadtteil
+BEZEICHNUNG: Girgenrath
+EIGENSCHAFTEN:
+  hauptort: Bad Hönningen
+  lage_geographisch: jenseits der Wasserscheide zur Wied hin
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/057
+ENTITÄT: stadtteil
+BEZEICHNUNG: Reidenbruch
+EIGENSCHAFTEN:
+  hauptort: Bad Hönningen
+  lage_geographisch: auf den ersten Höhen des Westerwaldes
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/058
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Urkundliche Erstnennung Bad Hönningen
+EIGENSCHAFTEN:
+  ereignis_jahr: 1019
+  ereignis_typ: Schenkung durch Kaiser und Kaiserin
+  schenker: Kaiser Heinrich II. und Kunigunde
+  beschenkte_institution: Bamberger Domkapitel
+  geschenk: Besitztum Hohingen im Ingerisgowe
+  ortsteil_engersgau: Engersgau
+GUELTIG_AB: 1019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-bad-hoenningen/059
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Große Stadtbrände
+EIGENSCHAFTEN:
+  ereignis_datum: 1632
+  ereignis_kontext: Dreißigjähriger Krieg
+  ereignis_beschreibung: Ortschaft bis auf 12 Häuser abgebrannt
+  besetzung: schwedische Truppen
+  folgen: Einquartierungen, Seuchen
+GUELTIG_AB: 1632
+GUELTIG_BIS: 1632
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/060
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Reformationsereignis
+EIGENSCHAFTEN:
+  ereignis_beschreibung: Hönningen blieb katholisch, während Nachbargemeinden evangelisch wurden
+  zeitraum: Reformation
+  besonderheit_konfessionell: katholisch geblieben
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/061
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Säkularisation
+EIGENSCHAFTEN:
+  ereignis_jahr: 1803
+  ereignis_folge: Ende der Grundherrschaft des Kurbistums Trier
+  ereignis_folge_2: Übergang zu Nassau
+  ereignis_folge_3: 1815 Übergang zu Preußen
+GUELTIG_AB: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/062
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Post- und Eisenbahn-Anschluss
+EIGENSCHAFTEN:
+  postanschluss_jahr: 1844
+  eisenbahnanschluss_jahr: 1870
+GUELTIG_AB: 1844
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-bad-hoenningen/063
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Erste Weltkrieg
+EIGENSCHAFTEN:
+  todesfall_stadt: 97
+  besatzung_truppen: US-amerikanische Truppen
+  besatzungsdauer_bis: 1920
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 09-bad-hoenningen/064
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Rheinhochwasser
+EIGENSCHAFTEN:
+  ereignis_zeitraum_1920er: 1920er-Jahren (wiederholt und zerstörerisch)
+  ereignis_jahre: 1920, 1924, 1926
+GUELTIG_AB: 1920
+GUELTIG_BIS: 1926
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 09-bad-hoenningen/065
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Verfolgung jüdischer Bürger
+EIGENSCHAFTEN:
+  ratsbeschluss_jahr: 1935
+  ratsbeschluss_ziel: Ausschluss jüdischer Bevölkerung vom sozialen und ökonomischen Leben
+  deportation_jahr: 1941
+GUELTIG_AB: 1935
+GUELTIG_BIS: 1941
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-bad-hoenningen/066
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Zweiter Weltkrieg
+EIGENSCHAFTEN:
+  todesfall_stadt: 110 Hönninger an verschiedenen Fronten
+  luftbombenangriffte: wiederholt in der Endphase
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 09-bad-hoenningen/067
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Entwicklung zur Kur- und Badestadt
+EIGENSCHAFTEN:
+  erste_kohlensaeurequelle_jahr: 1894
+  erstes_badehaus_jahr: 1895
+  bad_titel_jahr: 1950
+  bad_titel_source: Landesregierung Rheinland-Pfalz
+  stadtrechte_datum: 12. Juli 1969
+GUELTIG_AB: 1894
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-bad-hoenningen/068
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Bad Hönningen
+EIGENSCHAFTEN:
+  lage: rechtsrheinische Strecke Köln–Koblenz
+  stellwerk: Drucktastenstellwerk
+  stellwerk_jahr: 1960
+  zugverbindung_1: RE 8
+  zugverbindung_2: RB 27
+  zugverbindung_rhythmus: Halbstunden-Takt (abwechselnd)
+  direktverbindung_flughafen: RB 27 zum Flughafen Köln/Bonn (Stundenrhythmus)
+GUELTIG_AB: 1870
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-bad-hoenningen/069
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bundesstraße B 42
+EIGENSCHAFTEN:
+  lage_zur_stadt: direkt an der Bundesstraße
+  anbindung_a48: Abfahrt Bendorf (Nr. 11)
+  anbindung_a59: Autobahnkreuz Bonn-Ost (Nr. 42)
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/070
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Landesstraße L 257
+EIGENSCHAFTEN:
+  verbindung_zu_wiedtal: true
+  verbindung_zu_westerwald: true
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/071
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autofähre Bad Hönningen – Bad Breisig
+EIGENSCHAFTEN:
+  grenze: an der Grenze zu Rheinbrohl
+  verbindung_zu: Bad Breisig (B 9)
+  verkehrsrhythmus: Viertelstundentakt zwischen frühem Morgen und spätem Abend
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/072
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Deutsche Limes-Straße
+EIGENSCHAFTEN:
+  laenge_km: 700
+  anfangsort: Bad Hönningen
+  endort: Regensburg
+  zielpunkt_endort: Donau
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 09-bad-hoenningen/073
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Rheinischer Sagenweg
+EIGENSCHAFTEN:
+  lage_durchfahrt: führt durch Bad Hönningen
+  startort: Düsseldorf
+  endort: Mainz
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/074
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Rheinfähre Bad Hönningen – Bad Breisig
+EIGENSCHAFTEN:
+  lage: am linken Rheinufer Bad Breisig
+  verkehrsart: Personen- und Autofähre
+  verkehrsrhythmus: Viertelstundentakt zwischen frühem Morgen und spätem Abend
+  saisonale_schiffe_sommer: Schiffe der Weißen Flotte und Köln-Düsseldorfer
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/075
+ENTITÄT: wanderweg
+BEZEICHNUNG: Rheinsteig
+EIGENSCHAFTEN:
+  start_endort: Bonn – Wiesbaden
+  durchfahrt: über Bad Hönningen, Koblenz (Festung Ehrenbreitstein)
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/076
+ENTITÄT: wanderweg
+BEZEICHNUNG: Rheinhöhenweg
+EIGENSCHAFTEN:
+  start_endort: Bonn-Beuel – Wiesbaden
+  streckengleich_teilweise: Rheinsteig
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/077
+ENTITÄT: wanderweg
+BEZEICHNUNG: Westerwaldsteig
+EIGENSCHAFTEN:
+  anfangspunkt: Herborn (Lahn-Dill-Kreis)
+  endpunkt: Bad Hönningen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/078
+ENTITÄT: wanderweg
+BEZEICHNUNG: Limeswanderweg Westerwald Taunus
+EIGENSCHAFTEN:
+  anfangspunkt: Rheinbrohl
+  endpunkt: Lindschied
+  bezeichnung_abschnitt: nördlichster Abschnitt des Deutschen Limes-Wanderwegs
+  deutscher_limes_wanderweg_laenge_km: 734,7
+  deutscher_limes_wanderweg_endort: Bad Gögging
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 09-bad-hoenningen/079
+ENTITÄT: radweg
+BEZEICHNUNG: Rheinradweg
+EIGENSCHAFTEN:
+  anfangspunkt: Quellgebiet des Rheins in der Schweiz
+  endpunkt: Rotterdam
+  variant_rechtsrheinisch: passiert in rechtsrheinischen Variante Bad Hönningen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/080
+ENTITÄT: radweg
+BEZEICHNUNG: Deutscher Limes-Radweg
+EIGENSCHAFTEN:
+  lage_entlang: Deutsche Limes-Straße
+  anfangspunkt: Bad Hönningen
+  endpunkt: Regensburg
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 09-bad-hoenningen/081
+ENTITÄT: sprachliches_phänomen
+BEZEICHNUNG: Bad Hönninger Linie des Rheinischen Fächers
+EIGENSCHAFTEN:
+  typ: Sprachgrenze
+  sprachraum: teilt moselfränkischen Sprachraum in einen nordwestlichen und einen südöstlichen Bereich
+  wirkort: überquert den Rhein bei Bad Hönningen
+  sprachliche_differenz: nördlich niederdeutsch, südlich oberdeutsch (Wort auf)
+  grund_sprachdifferenz: unterschiedliches Vollziehen der zweiten deutschen Lautverschiebung und Besiedlungsstruktur des Rheinlandes
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/082
+ENTITÄT: sportverein
+BEZEICHNUNG: HSG Römerwall
+EIGENSCHAFTEN:
+  sportart: Handball
+  rang_regional: überregional bekannt
+  meisterschaft_leistung: 1. Seniorenmannschaft westdeutsche Meisterschaft 2001
+  folge_meisterschaft: Durchbruch in den Profibereich
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 09-bad-hoenningen/083
+ENTITÄT: karnevalsverein
+BEZEICHNUNG: Hönninger Karnevalsgesellschaft 1891 e. V.
+EIGENSCHAFTEN:
+  gruendung_jahr: 1891
+  veranstaltungen: Biwak der Garden mit Prinzenproklamation, Große Prunksitzung, Kinder- und Jugendkarneval, Veilchendienstagszug
+GUELTIG_AB: 1891
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 09-bad-hoenningen/084
+ENTITÄT: heimatverein
+BEZEICHNUNG: Heimatverein Hönningen
+EIGENSCHAFTEN:
+  erwerb_hohe_haus_jahr: 1996
+  erhalt_sanierung_hohe_haus: ab 1996
+  museum_eroeffnung: Mai 2000
+  sanierung_nach_denkmalschutz: ja
+  sanierung_massnahmen: Erweitern des Kellers um Sanitärräume
+  sanierung_massnahmen_2025: Außenputz und Fenster (ab Herbst 2025, Leitung Thomas Kesseler)
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 09-bad-hoenningen/085
+ENTITÄT: astronomisches_objekt
+BEZEICHNUNG: Supernovaüberrest G249.5+24.5 (Hoinga)
+EIGENSCHAFTEN:
+  entdecker: Werner Becker (Astrophysiker)
+  teleskop_entdeckung: Röntgenteleskop eROSITA
+  entdeckung_datum: März 2021
+  sternbild: Wasserschlange
+  galaktische_koordinaten_l: 249,5
+  galaktische_koordinaten_b: 24,5
+  hoehe_uber_galaktische_ebene: hoch über der galaktischen Ebene
+  supernovaexplosion_zeitraum: vor ca. 10.000 bis 20.000 Jahren
+  weltweites_vorkommen_vergleich: nur etwa 300 dieser Objekte am gesamten Himmel bekannt
+  temperatur: Millionen Grad
+  himmelsausdehnung: etwa 90-Vollmondscheiben
+  superlativ: größter Supernovaüberrest bisher im Röntgenlicht entdeckt
+  weltweite_beachtung: ja
+GUELTIG_AB: 10000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 09-bad-hoenningen/086
+ENTITÄT: tierischer_fund
+BEZEICHNUNG: Wölfin mit Jungtieren
+EIGENSCHAFTEN:
+  aufnahme_wildkamera: August 2019 (Ende August)
+  aufnahme_anzahl_jungtiere: 5
+  beschreibung_find: erste bestätigte Wolfsnachwuchs in Rheinland-Pfalz nach Wiederbesiedlung Deutschlands mit Wölfen
+  bestaetigung_landesregierung: Februar 2020
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-bad-hoenningen/087
+ENTITÄT: stadt_partnerschaft
+BEZEICHNUNG: Städtepartnerschaft Bad Hönningen – Saint-Pierre-lès-Nemours
+EIGENSCHAFTEN:
+  partnerstadt: Saint-Pierre-lès-Nemours
+  partnerstadt_land: Frankreich
+  gruendung_jahr: 1980
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 09-bad-hoenningen/088
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: SchlossLeuchten
+EIGENSCHAFTEN:
+  ort: Schloss Arenfels
+  zeitpunkt: Januar bis Februar (jährlich)
+  beschreibung: Schlossgelände erstrahlt in bunten Lichtern, Lichtkunst wird ausgestellt
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/089
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: Matjes im Mai
+EIGENSCHAFTEN:
+  typ: Traditionelles Matjesfest
+  ort: Neustrasse von Bad Hönningen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-bad-hoenningen/090
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: Mittelalterliches Pfingstspectaculum
+EIGENSCHAFTEN:
+  ort: Rheinanlagen
+  beschreibung: mittelalterliches Markt und Ritterspielen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-bad-hoenningen/091
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: Weinblütenfest
+EIGENSCHAFTEN:
+  zeitpunkt: Anfang Juni
+  ort: Marktplatz
+  besonderheit: jährlich erstes Weinfest am Mittelrhein
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/092
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: St.-Peter-und-Paul-Kirmes
+EIGENSCHAFTEN:
+  zeitpunkt: Ende Juni
+  beschreibung: festliche Umzüge des Junggesellen-Vereins durch die Stadt
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-bad-hoenningen/093
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: Tag des offenen Denkmals
+EIGENSCHAFTEN:
+  ort_1: Hohe Haus
+  ort_2: Schloss Arenfels
+  zeitpunkt: 2. Sonntag im September
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/094
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: Federweißefest
+EIGENSCHAFTEN:
+  zeitpunkt: Anfang November
+  ort: Alter Schulplatz
+  speiesen: frischer Federweißer und Zwiebelkuchen
+  unterhaltung: Live-Unterhaltung
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-bad-hoenningen/095
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: Nostalgischer Weihnachtsmarkt
+EIGENSCHAFTEN:
+  zeitpunkt: Anfang Dezember
+  ort: Innenstadt
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-bad-hoenningen/096
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: Romantischer Weihnachtsmarkt
+EIGENSCHAFTEN:
+  zeitpunkt: Mitte November bis Ende Dezember
+  ort: Schloss Arenfels
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-bad-hoenningen/097
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: Antik Trödelmarkt
+EIGENSCHAFTEN:
+  zeitpunkt: Anfang Juli
+  ort: Rheinanlagen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-bad-hoenningen/098
+ENTITÄT: jazzclub
+BEZEICHNUNG: Bad Hönninger Jazzclub
+EIGENSCHAFTEN:
+  bedeutung_ereignis: Bill Evans spielte hier 1980 sein letztes Konzert vor seinem Tod
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-bad-hoenningen/099
+ENTITÄT: kirche
+BEZEICHNUNG: St. Simeonsstift Trier
+EIGENSCHAFTEN:
+  beschenk_empfaenger: Hofgut Hoinga (1041)
+  beschenkung_von: Erzbischof Poppo
+GUELTIG_AB: 1041
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-bad-hoenningen/100
+ENTITÄT: institution
+BEZEICHNUNG: Bamberger Domkapitel
+EIGENSCHAFTEN:
+  besitz_erwerbung: Besitztum Hohingen im Ingerisgowe (1019)
+  beschenker: Kaiser Heinrich II. und Kunigunde
+  besitz_verkauf: an Erzbischof Otto von Trier (1422, Preis 1500 Gulden)
+GUELTIG_AB: 1019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/101
+ENTITÄT: römerzeit_fund
+BEZEICHNUNG: Antike Relikte
+EIGENSCHAFTEN:
+  zeitraum_fund: 19. und 20. Jahrhundert
+  zeitraum_herkunft: Römerzeit und Frankenzeit
+  siedlung_zeitraum: vor rund 1.800 Jahren
+  lage_limes: nördlich des heutigen Bad Hönningen in unmittelbarer Nähe des Limes
+GUELTIG_AB: -200
+GUELTIG_BIS: 300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/102
+ENTITÄT: information_weg
+BEZEICHNUNG: Geologischer Informationsweg des Rheinlaufes
+EIGENSCHAFTEN:
+  beschreibung: 17 große Steine von Gebirgen entlang des Rheinlaufes
+  lage: Rheinanlagen der Stadt
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 09-bad-hoenningen/103
+ENTITÄT: verkehrsverbund
+BEZEICHNUNG: Verkehrsverbund Rhein-Mosel (VRM)
+EIGENSCHAFTEN:
+  geltungsbereich: Bad Hönningen (Landkreis Neuwied)
+  tarifbereich: Tarifgebiet des VRM
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/104
+ENTITÄT: verkehrsverbund
+BEZEICHNUNG: Verkehrsverbund Rhein-Sieg (VRS)
+EIGENSCHAFTEN:
+  tariftyp_bad_hoenningen: Übergangstarif
+  bedingung: wenn Start/Zielbahnhof im VRS-Gebiet liegt
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 09-bad-hoenningen/105
+ENTITÄT: rat_stadtrat
+BEZEICHNUNG: Stadtrat Bad Hönningen
+EIGENSCHAFTEN:
+  anzahl_ratsmitglieder: 22
+  wahldatum: 9. Juni 2024
+  wahlsystem: personalisierte Verhältniswahl
+  vorsitzender: Stadtbürgermeister (ehrenamtlich)
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 09-bad-hoenningen/106
+ENTITÄT: herkunfts_urkunde
+BEZEICHNUNG: Schenkungsurkunde Kaiser Heinrich II. 1019
+EIGENSCHAFTEN:
+  beschenker: Kaiser Heinrich II. und seine Gemahlin Kunigunde
+  beschenkte: Bamberger Domkapitel
+  beschenk_objekt: Besitztum Hönningen (Hohingen im Ingerisgowe)
+  datum: 1019
+GUELTIG_AB: 1019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 09-bad-hoenningen/107
+ENTITÄT: papst_bestaetigung
+BEZEICHNUNG: Papst Hadrian IV. Bestätigung 1155
+EIGENSCHAFTEN:
+  besitaetigung_empfaenger: Simeonsstift Trier
+  bestaetigung_objekt: Zehnten zu Hoinga
+  datum: 1155
+GUELTIG_AB: 1155
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 09-bad-hoenningen/108
+ENTITÄT: konfessionsstatistik
+BEZEICHNUNG: Konfessionale Zusammensetzung Bad Hönningen
+EIGENSCHAFTEN:
+  stat_stand: März 2026
+  christliche_kirchenmitglieder_trend: sinkend seit vielen Jahren
+  sonstige_keine_religionsgemeinschaft_prozent: 53
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 09-bad-hoenningen/109
+ENTITÄT: kloster_institution
+BEZEICHNUNG: Kloster Nivellen
+EIGENSCHAFTEN:
+  besitz_erwerb_erfolg: Verkauf mittelalterliches Hofhaus an Kurfürst Johann Hugo von Orsbeck (1706)
+GUELTIG_AB: 1706
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+SPENDER: Bad Camberg (nicht Teil der Fahrt)
+ENTITÄT: ort
+BEZEICHNUNG: Bad Camberg
+EIGENSCHAFTEN:
+  einwohner: 14000, genauigkeit: "über"
+  rang_groesse: zweitgrößte Stadt
+  landkreis: Limburg-Weilburg
+  bundesland: Hessen
+  region: Hintertaunus
+  lage_kulturraum: Goldener Grund
+  entfernung_wiesbaden: 30 km nördlich
+  entfernung_limburg: 20 km südlich
+  entfernung_frankfurt: 48 km nordwestlich
+  funktion_zentral: Zentralort
+  funktion_admin: Unterzentrum mit Teilfunktion Mittelzentrum
+  ist_kreisstadt: false
+  ist_südlichste_gemeinde_landkreis: true
+  wahrzeichen: Kreuzkapelle
+  urspruenglicher_name: Camberg
+  namensaenderung_jahr: 1981
+  namensaenderung_grund: anlässlich der 700-Jahr-Feier der Stadtrechte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ort
+BEZEICHNUNG: Camberg
+EIGENSCHAFTEN:
+  beschreibung: früherer Name von Bad Camberg bis 1981
+  funktion: Minderstadt
+GUELTIG_AB: 1281
+GUELTIG_BIS: 1981
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kurort
+BEZEICHNUNG: Bad Camberg
+EIGENSCHAFTEN:
+  kneippkurort: true
+  ist_aeltester_typ_hessen: true
+  rang_bundesweit: drittältester in Deutschland
+  titel_heilbad: Anerkanntes Heilbad
+  gueltig_ab_heilbad: 1937
+  titel_kneippheilbad: Staatlich Anerkanntes Kneippheilbad
+  gueltig_ab_kneippheilbad: 1977
+  uebernachtungen_2005: 176663
+  durchschnittliche_aufenthaltsdauer_tage: 8.6
+GUELTIG_AB: 1927
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Kreuzkapelle
+EIGENSCHAFTEN:
+  typ: Kapelle
+  baujahr: 1725
+  lage: Berg östlich der Stadt
+  sichtbarkeit: von Weitem sichtbar
+  status: Wahrzeichen der Stadt
+  schutzstatus: Haager Konvention
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Peter und Paul
+EIGENSCHAFTEN:
+  konfession: katholisch
+  patrozinium: Petrus und Paulus
+  lage: Nordwesten der Altstadt
+  ersterwahnung: 1156
+  turm_baujahr: 1580
+  stil_neubau: Zopfstil
+  weihbischof: Johannes Maria von Herbain
+  weihdatum: 15. Juli 1781
+  funktion: Hauptkirche Cambergs, Pfarrkirche
+  schutzstatus: Haager Konvention
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Martinskirche
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  baujahr: 1896-1897
+  architekt: Ludwig Hofmann
+  einweihung: 8. September 1897
+  geschenk_kaiserin: Altarbibel von Kaiserin Auguste Viktoria
+  einzugsgebiet: Kernstadt, Erbach, Würges, Dombach, Schwickershausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Amthof
+EIGENSCHAFTEN:
+  typ: Fachwerkbau
+  frontlaenge: 155 Meter
+  superlativ: einer der größten Fachwerkbauten in Hessens
+  errichtung: 1605
+  ausbauzeitraum: 1605-1669
+  urspruengliche_funktion: Sitz und Wohngebäude der Oberamtmänner
+  weitere_nutzung: Amthaus, später Stadtverwaltung
+  sanierung: 1989
+  nutzung_heute: Sitz der Stadtverwaltung
+  schutzstatus: Haager Konvention
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Obertorturm
+EIGENSCHAFTEN:
+  hoehe: 32 Meter
+  baujahr: um 1380
+  zweck: Befestigung
+  status: Wahrzeichen der Stadt
+  erscheint_im_stadtwappen: true
+  funktion_heute: Stadt- und Turmmuseum
+  schutzstatus: Haager Konvention
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Untertorturm
+BEZEICHNUNG: Schiefe Turm von Bad Camberg
+EIGENSCHAFTEN:
+  hoehe: 21 Meter
+  baujahr: 1365-1380
+  neigung: 1.44 Meter
+  funktion_urspruenglich: Befestigung
+  tore_anzahl: drei hintereinander an der Basis
+  schaeden_zweiter_weltkrieg: Turmhaube zerstört
+  schutzstatus: Haager Konvention
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Hohenfeldkapelle
+EIGENSCHAFTEN:
+  lage: neben Obertorturm
+  funktion: Kapelle
+  ausstattung: Grabplatten mit Inschriften bedeutender Familien
+  familien_erwahnt: Metternich, Hohenfeld, von Schütz zu Holzhausen, von Bechtolsheim, Spies von Büllesheim
+  funktion_heute: Teil des Stadt- und Turmmuseums
+  schutzstatus: Haager Konvention
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Alte Amtsapotheke
+EIGENSCHAFTEN:
+  grundmauern: 1330
+  neubau: 1492
+  baumeister_neubau: Burgmannenhaus derer von Hattstein
+  funktion_seit: 1663
+  nutzung_seit: Apotheke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Guttenberger Hof
+EIGENSCHAFTEN:
+  ersterwahnung: 1336
+  beschreibung: Sitz der Familie von Hattstein
+  neubau: 1526
+  wechsel_besitz_1767: Familie von Guttenberg
+  wechsel_besitz_1820: bürgerlicher Besitz
+  status_oktober_2007: Sanierung in Bearbeitung
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: stadtmauer
+BEZEICHNUNG: Stadtmauer Bad Camberg
+EIGENSCHAFTEN:
+  typ: Befestigung
+  ausstattung: mächtige Mauer und mehrere Türme
+  bauzeit: vermutlich um 1380 abgeschlossen, genauigkeit: "vermutlich"
+  pflege_bis: frühes 18. Jahrhundert
+  status_1750: weitgehend verfallen
+  turmanzahl_gesamt: 13
+  erhaltene_tuermen: 2
+  schutzstatus: Haager Konvention
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Würges
+EIGENSCHAFTEN:
+  lage: südlicher Stadtteil im Goldenen Grund
+  funktion: Teil der erweiterten Stadt Bad Camberg
+  gueltig_ab_fusion: 1. Juli 1974
+  ortsbeirat: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Bad Camberg (Kernstadt)
+EIGENSCHAFTEN:
+  lage: zentral im Goldenen Grund
+  zusammensetzung: ursprüngliche Stadt Camberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Erbach
+EIGENSCHAFTEN:
+  lage: zentraler Stadtteil im Goldenen Grund
+  ortsbeirat: ja
+  gueltig_ab_fusion: 1. Juli 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Oberselters
+EIGENSCHAFTEN:
+  lage: nördlicher Stadtteil im Goldenen Grund
+  unternehmen: OberSelters (Brunnenbetrieb)
+  gueltig_ab_fusion: 1. Juli 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Schwickershausen
+EIGENSCHAFTEN:
+  lage: östlicher Stadtteil
+  besiedlung: dünner besiedelt
+  hoehenlage: höher gelegen
+  gueltig_ab_fusion: 1. Juli 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Dombach
+EIGENSCHAFTEN:
+  lage: östlicher Stadtteil
+  besiedlung: dünner besiedelt
+  hoehenlage: höher gelegen
+  gueltig_ab_fusion: 1. Juli 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: wasserlauf
+BEZEICHNUNG: Emsbach
+EIGENSCHAFTEN:
+  verlauf: durchfließt den Goldenen Grund
+  verlauf_richtung: von Süden nach Norden
+  lage: westliches Stadtgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: berg
+BEZEICHNUNG: Kuhbett
+EIGENSCHAFTEN:
+  hoehe: 526 Meter
+  beschreibung: eine der höchsten Erhebungen des Landkreises Limburg-Weilburg
+  lage: Gemarkung Kernstadt Bad Camberg
+  grenze: Grenze zur Gemeinde Weilrod im Hochtaunuskreis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: berg
+BEZEICHNUNG: Steinkopf
+EIGENSCHAFTEN:
+  hoehe: 317 Meter
+  lage: Westrand der Kernstadt-Gemarkung
+  beschaffenheit: Quarzitvorkommen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: schule
+BEZEICHNUNG: Taunusschule Bad Camberg
+EIGENSCHAFTEN:
+  typ: Gesamtschule mit gymnasialer Oberstufe
+  neubau_beginn: 1957
+  abschluesse: Haupt-, Realschulabschluss, Abitur
+  realschule_betrieb_ab: 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: schule
+BEZEICHNUNG: Freiherr-von-Schütz-Schule
+EIGENSCHAFTEN:
+  typ: Gehörlosenschule
+  funktion_besonder: mit angeschlossenem Internat
+  region_dienstleistung: sieben hessische Stadt- und Landkreise
+  geschichte_gruendung: 1810
+  urspruengliche_funktion: Herzoglich Nassauische Taubstummen-Institut
+  unterrichtsbeginn: 1810 durch Hugo Freiherr von Schütz zu Holzhausen
+  umzug_1875: Nebengebäude des Guttenberger Hofes
+  neubau: ab 1894 an der Frankfurter Straße
+  umbau: nach 1970 Übernahme ehemaliges Amtsgericht
+  erweiterung: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: schule
+BEZEICHNUNG: Regenbogenschule
+EIGENSCHAFTEN:
+  typ: Grundschule
+  lage: Stadtteil Erbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Atzelschule
+EIGENSCHAFTEN:
+  typ: Grundschule
+  lage: Bad Camberg (Kernstadt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Würges
+EIGENSCHAFTEN:
+  typ: Grundschule
+  lage: Stadtteil Würges
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: klinik
+BEZEICHNUNG: MEDIAN Hohenfeld-Kliniken
+EIGENSCHAFTEN:
+  spezialisierung_psychosomatik: Psychosomatische Medizin und Psychotherapie
+  betten_psychosomatik: 253
+  spezialisierung_ortho: Orthopädie und Osteologie
+  betten_ortho: 120
+  funktion: Rehabilitationskliniken
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: klinik
+BEZEICHNUNG: Neurologische Rehabilitationsklinik Bad Camberg
+EIGENSCHAFTEN:
+  spezialisierung: Neurologie
+  funktion: Rehabilitationsklinik
+  betten: 150
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: OberSelters
+ORTSTEIL_BEZUG: Oberselters
+EIGENSCHAFTEN:
+  typ: Brunnenbetrieb
+  produktion: Mineralwasser
+  marken: OberSelters Original, OberSelters Catharinen-Quelle, Nassauer Land, Bad Camberger Taunusquelle
+  nebenprodukte: Limonade, Apfelschorle
+  nebenmarken: Mabella
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: HACA Leitern
+EIGENSCHAFTEN:
+  typ: Industrieunternehmen
+  sitz: Bad Camberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Weber Bürstensysteme
+EIGENSCHAFTEN:
+  typ: Industrieunternehmen
+  sitz: Bad Camberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Bad Camberg
+EIGENSCHAFTEN:
+  strecke: Main-Lahn-Bahn
+  verbindung_frankfurt: ja
+  verbindung_limburg: ja
+  streckenkilometer: 49.3 (von Frankfurt Hauptbahnhof gezählt)
+  erreichung_von_niederselters: 1876
+  linien_frankfurt: RE 20, RB 22
+  linien_wiesbaden: RB 21 (über Ländchesbahn in Niedernhausen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Stadtbus Bad Camberg
+EIGENSCHAFTEN:
+  start: Dezember 2004
+  linien: LM-31, LM-32
+  verlauf: Bahnhof - Innenstadt - Erbach/Würges
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: autobahn
+BEZEICHNUNG: A 3
+ORTSTEIL_BEZUG: neben Bad Camberg
+EIGENSCHAFTEN:
+  alternative_bezeichnung: E 35
+  zeitliche_namensgebung: Reichsautobahn
+  bauzeit: 1937-1939
+  verlauf_grund: folgt ungefähr der alten Hohen Straße
+  anschlussstelle_bad_camberg: vorhanden
+  bedeutung: war zunächst nicht in der Planung vorgesehen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: raststaette
+BEZEICHNUNG: Tank- und Raststätte Bad Camberg-Ost
+EIGENSCHAFTEN:
+  lage: Richtung Köln
+  eroeffnung: 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: raststaette
+BEZEICHNUNG: Tank- und Raststätte Bad Camberg-West
+EIGENSCHAFTEN:
+  lage: Richtung Frankfurt
+  eroeffnung: 1955
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Camberger Kerb
+EIGENSCHAFTEN:
+  alternative_bezeichnung: Herbstmarkt
+  traditionsstart: 1781
+  rhythmus: jährlich
+  zeitpunkt: zweites Wochenende im Oktober
+  ursprung: Kirchweihfest am 29. Juni
+  ort: Festzelt in den Pfortenwiesen (Alter Sportplatz)
+  organisatoren: Verein Camberger Kerb e. V., Kerbejahrgang
+  wiederbelebung_tradition: seit 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: VW-Veteranen-Treffen
+EIGENSCHAFTEN:
+  familie_organisator: Lottermann
+  start: 1979
+  rhythmus: alle vier Jahre
+  charakteristik: älteste und seltenste Volkswagen-Fahrzeuge
+  letzte_durchfuehrung: 2019
+  bekanntheit: weltbekannt in der VW-Szene
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sportverein
+BEZEICHNUNG: RSV Würges
+ORTSTEIL_BEZUG: Würges
+EIGENSCHAFTEN:
+  sportart: Fußball
+  rang: erfolgreichster Fußballverein in der Region
+  liga_history: Hessenliga (zeitweise drittklassig)
+  dfb_pokal: zwei Mal Teilnahme
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sportverein
+BEZEICHNUNG: SV Bad Camberg 1921
+ORTSTEIL_BEZUG: Bad Camberg
+EIGENSCHAFTEN:
+  gruendungsjahr: 1921
+  sportarten: Fußball, Handball
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: freizeitanlage
+BEZEICHNUNG: Baumwipfelweg Bad Camberg
+EIGENSCHAFTEN:
+  laenge: 800 Meter
+  typ: Rundweg durch Baumschichten
+  lage: östlich von Bad Camberg, Landesstraße L 3031
+  parkplatz: Vorderwald
+  erstellung_dauer: fünf Jahre
+  eroeffnung: Mai 2023
+  baustoff: Holz
+  turmanzahl: mehrere Türme mit Treppenaufgängen
+  aussichtsturm_hoehe: 28 Meter
+  aussichtsturm_sicht: Rundumblick über Taunus bis Großen Feldberg
+  endturm_hoehe: 31 Meter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: park
+BEZEICHNUNG: Kurpark
+EIGENSCHAFTEN:
+  anlage_geschichte: 18. Jahrhundert durch Familie Schütz von Holzhausen
+  lage: am Obertor, Rand der Altstadt
+  ausstattung: zwei Wassertretbecken, alte Bäume, Wasserspiele
+  einrichtungen: Minigolfanlage, mehrere Tennisplätze
+  schaugaertchen_jahr: 2002
+  schaugaertchen_groesse: ca. 800 m²
+  schaugaertchen_name: Schaukräutergarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Keltisches Fürstengrab
+EIGENSCHAFTEN:
+  zeit: Frühjahr 2026
+  lage: bei Bauarbeiten in der Nähe von Bad Camberg
+  zeitliche_einordnung: frühe Eisenzeit
+  besonderheit: bislang sogenanntes „Fürstengrab"
+  beigaben: Hinweise auf Streitwagen
+  ranking: erstes keltisches Fürstengrab im Taunus
+  vergleich: ähnlich dem Fürstengrab vom Glauberg
+  forschungsbeteiligung: Landesamt für Denkmalpflege Hessen, Keltenwelt am Glauberg, Leibniz-Zentrum für Archäologie Mainz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Hexenprozesse in Camberg
+EIGENSCHAFTEN:
+  zeitraeume: 1629-1631, 1643-1644, 1659-1660
+  beschuldigte_frauen: 14
+  beschuldigte_maenner: 1
+  hintergrichtete_frauen: 8
+  todesfaelle_in_haft: 1
+  letzte_hinrichtung_opfer: Barbara Ordeneck
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Reichspogromnacht in Camberg
+EIGENSCHAFTEN:
+  lage_synagoge: Schmiedgasse
+  schicksaal_synagoge: niedergerissen
+  folgen: jüdische Privat- und Geschäftshäuser geplündert
+  grabstein_schaendung: Judenfriedhöfe
+  schaendung_zeitpunkt: Wochen nach Pogromnacht
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ereignis
+BEZEICHNUNG: Befreiung Cambergs
+EIGENSCHAFTEN:
+  datum: 29. März 1945
+  erste_truppen: 3. Bataillon des 385. Infanterieregiments (USA)
+  gegner: stationierte SS-Einheiten
+  kampfdauer: ganze Nacht
+  befreier: US-amerikanische Soldaten
+  befreiungszeit: 30. März 1945, 8 Uhr
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Hugo Freiherr von Schütz zu Holzhausen
+EIGENSCHAFTEN:
+  geburt: 31. Juli 1780 in Camberg
+  tod: 22. Juni 1847 in Wiesbaden
+  behinderung: selbst taub geboren
+  besonderheit: einer der Pioniere in Deutschland im Unterricht für Taubstumme
+  gründung: Herzoglich Nassauische Taubstummen-Institut (1820)
+  unterrichtsbeginn: 1810 in Räumen des Amthofs
+  schule_heute_benannt_nach: Freiherr-von-Schütz-Schule
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: person
+BEZEICHNUNG: Moritz Lieber
+EIGENSCHAFTEN:
+  geburt: 1. Oktober 1790 auf Burg Blankenheim
+  tod: 29. Dezember 1860 in Camberg
+  beruf: Jurist, Politiker, Publizist, Autor, Übersetzer, Teehändler
+  stiftung: Lieber'sches Hospital
+  politische_rolle: Vater der Deutschen Zentrumspartei
+  vater: Gisbert Lieber
+  sohn: Ernst Lieber
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Ernst Lawaczeck
+EIGENSCHAFTEN:
+  geburt: 18. Februar 1890 in Camberg
+  tod: 12. Oktober 1950 in Camberg
+  funktion_lokal: Bürgermeister von Camberg (NS-Zeit)
+  funktion_nsdap: Ortsgruppenleiter der NSDAP
+  funktion_aerzte: Vorsitzender des Nationalsozialistischen Ärztebundes im Kreis Limburg
+  funktion_weitere: Kreisobmanns des NSDÄB (1939-1941), Abteilungsleiter Volksgesundheit Kreisstab
+  tätigkeit: Verfolgung politischer Gegner, Ausplünderung der Juden
+  brueder: Paul Lawaczeck, Franz Lawaczeck
+GUELTIG_AB: 1933
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: person
+BEZEICHNUNG: Barbara Ordeneck
+EIGENSCHAFTEN:
+  geburt: um 1600 in Würges
+  tod: 1659 in Camberg
+  beschreibung: Opfer der Camberger Hexenverfolgung
+  hinrichtung: letzte bekannte Hinrichtung bei Hexenprozessen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Franz Lawaczeck
+EIGENSCHAFTEN:
+  geburt: 3. Juli 1880 in Camberg
+  tod: 20. Januar 1969 in Pöcking am Starnberger See
+  beruf: Ingenieur
+  funktion_prof: Professor für Hydraulik an der Hochschule Danzig (seit 1934)
+  partei: NSDAP-Mitglied (seit Mitte 1920er Jahre)
+  projekt_hauptwerk: Stufenkraftwerk Camberg
+  projekt_beschreibung: Wasserkraftwerk für Stromversorgung Landbevölkerung
+  publikation: 1932 in NS-Schriftenreihe „Nationalsozialistische Bibliothek"
+  projekt_ideologie: Ausschaltung des jüdischen Großkapitals aus Energiewirtschaft
+  projekt_schicksal: scheiterte, nicht wirtschaftlich
+  projekt_heute: Ruine vorhanden
+  rufen_von_seiten: "Erfinder-Ingenieur" (unter Auslassung NS-Beteiligung)
+  brueder: Ernst Lawaczeck, Paul Lawaczeck
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Heinz Schaus
+EIGENSCHAFTEN:
+  geburt: 15. Mai 1945
+  tod: 15. Juli 2026
+  funktion: Kommunalpolitiker
+  status: Ehrenbürger
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Caspar Hofmann
+EIGENSCHAFTEN:
+  geburt: 29. Oktober 1899 in Camberg
+  tod: 2. November 1987
+  beruf: katholischer Priester
+  funktion: Oberstudiendirektor
+  status: Ehrenbürger
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Daniel Rühl
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 25. April 2023
+  amtsdauer: 6 Jahre (2023-2029)
+  wahl: Direktwahl
+  wahltermin: 6. November 2022
+  wahlzahl: 71.2 Prozent der Stimmen
+  wahlbeteiligung: 55.9 Prozent
+  gegner: Jens-Peter Vogel (SPD)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Jens-Peter Vogel
+EIGENSCHAFTEN:
+  partei: SPD
+  amtsantritt: 25. April 2017
+  amtsende: 24. April 2023
+  amtsdauer: 6 Jahre (2017-2023)
+  waehler_abgeloest_von: Daniel Rühl
+GUELTIG_AB: 2017
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: stadtviertel_urspruenglich
+BEZEICHNUNG: Alsdorf
+EIGENSCHAFTEN:
+  beschreibung: inzwischen wüst gefallenes Dorf
+  lage: bei Würges
+  kirchspiel_zugehoerigkeit: gehörte zu Camberger Kirchspiel im Hochmittelalter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Selters
+EIGENSCHAFTEN:
+  lage_relativ: Norden
+  landkreis: Limburg-Weilburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Weilrod
+EIGENSCHAFTEN:
+  lage_relativ: Osten
+  landkreis: Hochtaunuskreis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Waldems
+EIGENSCHAFTEN:
+  lage_relativ: Südosten
+  landkreis: Rheingau-Taunus-Kreis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Idstein
+EIGENSCHAFTEN:
+  lage_relativ: Süden
+  landkreis: Rheingau-Taunus-Kreis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Hünstetten
+EIGENSCHAFTEN:
+  lage_relativ: Südwesten
+  landkreis: Rheingau-Taunus-Kreis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: nachbargemeinde
+BESCHREIBUNG: Hünfelden
+EIGENSCHAFTEN:
+  lage_relativ: Westen
+  landkreis: Limburg-Weilburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Chambray-lès-Tours
+EIGENSCHAFTEN:
+  land: Frankreich
+  schwesterstadt_seit: 3. Oktober 1987
+  kontakt_rhythmus: Partnerschaftstreffen spätestens alle fünf Jahre
+  teilnehmerzahl: bis zu 200 Bürger pro Seite
+  jubilaeum_feier: 25-jähriges Bestehen im Mai 2012 in Chambray
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Bad Sulza
+EIGENSCHAFTEN:
+  land: Deutschland (Thüringen)
+  freundschaftsvertrag_datum: 9. Januar 1991
+  vertrag_name: Vereinbarung über die Städtefreundschaft
+  kontakt: Bürgermeister und Spitzen der Verwaltung pflegen regelmäßigen Austausch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Camberg
+EIGENSCHAFTEN:
+  lage: Schmiedgasse
+  zeitliche_existenz: 17. Jahrhundert bis 1942
+  verstaerkung_1662: fünf jüdische Familien mit 32 Personen gezählt
+  bestaetigung_existenz_spaetestens: 1756
+  schaedigung: Novemberpogromen 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: friedhof
+BEZEICHNUNG: Judenfriedhof
+ORTSTEIL_BEZUG: Bad Camberg
+EIGENSCHAFTEN:
+  schaendung: 1938 nach Pogromnacht
+  beschreibung: alle Grabsteine umgeworfen
+GUELTIG_AB: 17. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Straßen Bad Cambergs (NS-Umbenennungen)
+EIGENSCHAFTEN:
+  strackgasse_neuer_name: Adolf-Hitler-Straße
+  evangelische_kirche_weg_neuer_name: Hermann-Göring-Straße
+  allee_zur_tenne_neuer_name: Hindenburg-Allee
+  stadtpark_neuer_name: Hindenburg-Anlage
+  neugasse_neuer_name: Peter-Gemeinder-Straße
+  gruener_platz_neuer_name: Horst-Wessel-Platz
+  umbenennungszeit: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: handelsstraße
+BEZEICHNUNG: Hohe Straße
+EIGENSCHAFTEN:
+  periode_praehistorie: Bronzezeit (ca. 1750 v. Chr. und davor)
+  verlauf: von Konstantinopel nach Brüssel
+  hoehenlage: auf der Wasserscheide der Bäche Ems und Wörs
+  bedeutung_spatmittelalter: 18. Jahrhundert nicht mehr benutzt
+  moderne_nachfolge: Verlauf folgt ungefähr der Autobahn A 3
+  wahrscheinliche_herkunft: Bronzezeit oder davor
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: handelsstraße
+BEZEICHNUNG: Limburger Weg
+EIGENSCHAFTEN:
+  ersterwahnung: 1355
+  funktion: Zubringer von der Stadt zur Hohen Straße
+  umbenennungen: 1959 in Taunusstraße, 1979 in Lahnstraße
+  grund_umbennung: Verwechslungsgefahr mit Limburger Straße
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ENTITÄT: strasse
+BEZEICHNUNG: Bundesstraße 8
+EIGENSCHAFTEN:
+  frueheres_name: Fernverkehrsstraße 8 (FVS 8)
+  frueheres_name_2: Reichsstraße 8 (R 8)
+  development_zeit: Anfang 20. Jahrhundert
+  verlauf_stadt: durch Erbach, Bad Camberg, Würges, an Oberselters vorbei
+  planung_umgehungsstrasse: seit über 30 Jahren geplant
+  baustart_umgehungsstrasse: September 2023
+  verkehrsfreigabe_umgehungsstrasse_geplant: 2027
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Gebietsreform in Hessen 1970er Jahre
+EIGENSCHAFTEN:
+  reformtyp: Kommunale Arbeitsgemeinschaft Goldener Grund
+  inkoeffektivdatum: 13. August 1970
+  ziel: freiwilliger Zusammenschluss der Goldenen Grund Gemeinden
+  gemeinden_unterzeichner: 10 Gemeinden
+  beschreibung: Eingemeindung Würges, Erbach, Schwickershausen, Dombach zur Stadt Camberg
+  finales_datum_fusion: 1. Juli 1974
+  fusionstyp: Landesgesetz (Zwangsvereinigung)
+  oberselters_sonderstatus: schloss sich dem Verband an
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kindergarten
+BESCHREIBUNG: Kindergärten Bad Camberg
+EIGENSCHAFTEN:
+  anzahl_gesamt: 7
+  stadt_kindergaerten_kernstadt: 2
+  stadt_kindergarten_wuerges: 1
+  katholische_kindergaerten: 3 (Kernstadt, Erbach, Oberselters)
+  waldkindergarten: 1 (seit 2007 in der Nähe der Kreuzkapelle)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Bad Camberg
+EIGENSCHAFTEN:
+  gruendung: 1898
+  jugendfeuerwehr_seit: 14. September 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Dombach
+EIGENSCHAFTEN:
+  gruendung: 1975
+  jugendfeuerwehr_seit: 22. Dezember 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Erbach
+EIGENSCHAFTEN:
+  gruendung: 1934
+  jugendfeuerwehr_seit: 4. März 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Oberselters
+EIGENSCHAFTEN:
+  gruendung: 1934
+  jugendfeuerwehr_seit: 4. Juni 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Schwickershausen
+EIGENSCHAFTEN:
+  gruendung: 1957
+  jugendfeuerwehr_seit: 10. November 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Würges
+EIGENSCHAFTEN:
+  gruendung: 1905
+  jugendfeuerwehr_seit: 2. Januar 1970
+  kinderfeuerwehr_seit: 28. Mai 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: organisation
+BEZEICHNUNG: DRK-Ortsverein Bad Camberg
+EIGENSCHAFTEN:
+  erste_gruendung: 1932
+  erste_fase_endet: 1945
+  zweite_gruendung: 1958
+  mitgliederzahl_aktuell: 518
+  taetigkeitsfelder: sozialer Bereich, Sanitätsdienst, humanitäre Hilfe, Katastrophenschutz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: zeitung
+BEZEICHNUNG: Nassauische Neue Presse
+EIGENSCHAFTEN:
+  start_publikation: 1948
+  typ: regionale Tageszeitung
+  dominanz: dominierende regionale Tageszeitung in Bad Camberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: publication
+BEZEICHNUNG: Lokalanzeiger
+EIGENSCHAFTEN:
+  typ: Anzeigenblatt
+  erscheintag: Samstag
+  verbreitung: kostenlos an alle Haushalte
+  inhalte: hauptsächlich Stadt und nähere Umgebung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: publication
+BEZEICHNUNG: Camberger Anzeiger
+EIGENSCHAFTEN:
+  typ: Anzeigenblatt
+  erscheintag: Donnerstag
+  verbreitung: kostenlos an alle Haushalte
+  inhalte: hauptsächlich Stadt und nähere Umgebung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

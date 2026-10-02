@@ -21,9 +21,16 @@ import re
 import sys
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1')
+ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'))
 ZIEL = os.path.join(WURZEL, 'docs', 'konzepte', 'quizaway-stufe2-vorrat-2026-10-02.md')
 LAEUFE = [('v0.6', 'Karte', 'dritter Lauf'), ('v0.5', 'Karte', 'zweiter Lauf'), ('v0.4', 'Vorschlag', 'erster Lauf')]
+# ein weiterer Raum (GA_RAUM=neuwied) bringt Läufe (jüngster zuerst) und Blattnamen in <raum>/orte.json mit
+RAUM = {}
+if os.path.exists(os.path.join(ITER, 'orte.json')):
+    with io.open(os.path.join(ITER, 'orte.json'), encoding='utf-8') as _f:
+        RAUM = json.load(_f)
+    ZIEL = os.path.join(WURZEL, 'docs', 'konzepte', RAUM['vorratsblatt'])
+    LAEUFE = [(l[0], l[1], l[2]) for l in RAUM['laeufe']]
 HEUTE = '2026-10-02'
 GRUNDDATEN_NAME = {'einwohner': 'Einwohnerzahl', 'landkreis': 'Landkreis', 'kfz': 'Kennzeichen', 'ersterwaehnung': 'Jahr der ersten Erwähnung',
                    'eingemeindung': 'Jahr der Eingemeindung', 'partnerstaedte': 'Partnerstadt', 'hoehe_m': 'Höhe des Orts',
@@ -73,7 +80,7 @@ def familie(v):
 def kreuze_lesen(kur):
     """Kreuze aus dem Blatt nach kuratierung.json übernehmen; gibt die Zahl der neuen Kreuze zurück."""
     lauf_von = dict((t, l) for l, _, t in LAEUFE)
-    slug = sorted(kur['blatt2']['orte'])
+    slug = sorted(lies_json('vorrat.json')['orte'])
     streichen = kur.setdefault('vorrat', {'_doc': DOC_VORRAT, 'stand': None, 'streichen': {}})['streichen']
     ort, neu = None, 0
     with io.open(ZIEL, encoding='utf-8') as f:
@@ -121,7 +128,8 @@ def ersetzt_je_ort(bindung, status, raus_alle):
 def main():
     plan = lies_json('vorrat.json')
     status = {(s['ort'], s['lauf'], s['karte']): s for s in lies_json(os.path.join('faktencheck', 'status.json'))}
-    kur = lies_json('kuratierung.json')
+    kur = lies_json('kuratierung.json') if os.path.exists(os.path.join(ITER, 'kuratierung.json')) else {
+        '_doc': 'Mikes Kuratierung als Daten (Raum %s).' % RAUM.get('raum', ''), 'blatt1': {'wahl': {}}, 'blatt2': {'orte': {}}}
     if '--kreuze' in sys.argv:
         print('Kreuze aus dem Blatt übernommen: %d' % kreuze_lesen(kur))
     gestrichen_alle = kur.get('vorrat', {}).get('streichen', {})
@@ -145,6 +153,20 @@ def main():
             '**Faktencheck:** bestätigt = nichts zu ändern · korrigiert = steht hier in der berichtigten Fassung · '
             'unsicher = Auflösung nur durch Wikipedia belegt.',
             '']
+    if RAUM:
+        aus = ['# QuizAway — Stufe 2, Vorrat Raum %s' % RAUM['raum'],
+               '',
+               '**Erzeugt am %s** mit `scripts/data-build/gemeinde_achsen_vorrat.py` (GA_RAUM=%s) aus den geprüften Fassungen '
+               'der Kartenläufe (`data/gemeinde-achsen/%s/karten-geprueft/`). Gesperrte Karten sind nicht im Vorrat. Tragen zwei '
+               'Läufe denselben Fakt, bleibt die Karte des jüngeren Laufs (Mike, 2026-10-02); die Abfrage läuft über '
+               '`karten-fakt.json`.' % (HEUTE, os.path.basename(ITER), os.path.basename(ITER)),
+               '',
+               '**So geht es:** Was im Vorrat bleiben soll, bleibt unangekreuzt; nur ankreuzen, was gestrichen werden soll '
+               '(`[x] streichen`).',
+               '',
+               '**Faktencheck:** bestätigt = nichts zu ändern · korrigiert = steht hier in der berichtigten Fassung · '
+               'unsicher = Auflösung nur durch Wikipedia belegt.',
+               '']
     uebersicht = []
     for ort in sorted(plan['orte']):
         p = plan['orte'][ort]
@@ -173,7 +195,7 @@ def main():
         assert len(drin) <= plan['grenze_je_ort'], (ort, len(drin))
         sorten = [feld(v, 'SORTE').split()[0] if feld(v, 'SORTE') else 'Geschichte' for _, _, _, _, v, _ in drin]
         uebersicht.append((name[ort], len(drin), sum(1 for s in sorten if s.lower().startswith('klass')),
-                           sum(1 for d in drin if d[0] == 'v0.6'), len(ersetzt), len(raus), len(gesperrt)))
+                           sum(1 for d in drin if d[0] == LAEUFE[0][0]), len(ersetzt), len(raus), len(gesperrt)))
         aus += ['---', '', '## %s · %s · %d Karten im Vorrat' % (ort[:2], name[ort], len(drin)), '']
         for lauf, kopf, lauf_text, nr, v, s in drin:
             vermerke = []
@@ -205,7 +227,7 @@ def main():
                 '- %s %d: %s' % (dict((l, t) for l, _, t in LAEUFE)[e['lauf']], e['karte'], e['grund']) for e in p['raus']] + ['']
         if gesperrt:
             aus += ['**Gesperrt nach Faktencheck:**', ''] + ['- %s %d: %s' % g for g in gesperrt] + ['']
-    kopf_tab = ['## Übersicht', '', '| Ort | im Vorrat | davon Klassiker | davon dritter Lauf | ersetzt | herausgenommen | gesperrt |', '|---|---|---|---|---|---|---|']
+    kopf_tab = ['## Übersicht', '', '| Ort | im Vorrat | davon Klassiker | davon %s | ersetzt | herausgenommen | gesperrt |' % LAEUFE[0][2], '|---|---|---|---|---|---|---|']
     kopf_tab += ['| %s | %d | %d | %d | %d | %d | %d |' % u for u in uebersicht]
     kopf_tab += ['| **zusammen** | **%d** | **%d** | **%d** | **%d** | **%d** | **%d** |' % tuple(sum(u[i] for u in uebersicht) for i in range(1, 7)), '']
     einschub = aus.index('---')
@@ -215,7 +237,7 @@ def main():
     with io.open(os.path.join(ITER, 'vorrat-liste.json'), 'w', encoding='utf-8', newline='\n') as f:
         json.dump(liste, f, ensure_ascii=False, indent=1)
     for u in uebersicht:
-        print('%-14s Vorrat %2d · Klassiker %d · dritter Lauf %2d · ersetzt %d · raus %d · gesperrt %d' % u)
+        print('%-14s Vorrat %2d · Klassiker %d · jüngster Lauf %2d · ersetzt %d · raus %d · gesperrt %d' % u)
     print('zusammen: %d Karten im Vorrat' % len(liste))
     print('geschrieben:', ZIEL)
 

@@ -1,0 +1,1478 @@
+ENTITÄT: ort
+BEZEICHNUNG: Linz am Rhein
+EIGENSCHAFTEN:
+  ist_stadt: true
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  position: nördlich von Rheinland-Pfalz, nahe der Grenze zu Nordrhein-Westfalen, rechtsrheinisch am nördlichen Mittelrhein
+  entfernung_von_bonn: 22 km
+  entfernung_von_koblenz: 33 km
+  ist_verwaltungssitz_verbandsgemeinde: true
+  ist_mittelzentrum_nach_landesplanung: true
+  spitzname: Die Bunte Stadt am Rhein
+  grund_spitzname: Viele farblich und künstlerisch ausgestaltete Altstadthäuser
+  rhein_kilometer: 629
+  naturpark: Rhein-Westerwald
+  gegenüber_von: Ahrmündung
+  höhenlage_min: 55 m ü. NHN
+  höhenlage_max: 160 m ü. NHN
+  jahresniederschlag: 701 mm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: berg
+BEZEICHNUNG: Kaiserberg
+EIGENSCHAFTEN:
+  höhe: 174 m ü. NHN
+  lage: Südöstlich des Ortskerns
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: berg
+BEZEICHNUNG: Meerberg
+EIGENSCHAFTEN:
+  auch_genannt: Düstemich
+  höhe_aktuell: 429 m ü. NHN
+  höhe_früher: 448 m ü. NN
+  grund_höhenveränderung: Abgetragen durch Basaltsteinbruch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: berg
+BEZEICHNUNG: Minderberg
+EIGENSCHAFTEN:
+  höhe: 405 m ü. NHN, genauigkeit: ca.
+  stillgelegte_basaltsteinbrüche: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: berg
+BEZEICHNUNG: Hummelsberg
+EIGENSCHAFTEN:
+  höhe_aktuell: 407 m ü. NHN
+  höhe_früher: mindestens 441 m ü. NN
+  entfernung_vom_stadtzentrum: 3 km nordöstlich
+  besonderheit: War markant im Stadtbild sichtbar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ringwallanlage
+BEZEICHNUNG: Ringwall Hummelsberg
+EIGENSCHAFTEN:
+  untersucht_jahr: 1936
+  ursprung: Auseinandersetzungen zwischen Kelten und Germanen, genauigkeit: vermutlich
+  funktion: Fluchtburg und Wohnplatz
+  zeitraum: 600-400 v. Chr.
+  bezeichnung_archäologisch: befestigte Höhensiedlung
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 600
+GUELTIG_BIS: 400
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+EIGENSCHAFTEN:
+  typ: Pfarrkirche
+  baubeginn: 1206
+  einweihung: 1214
+  baustil: romanische und gotische Bauformen, unregelmäßig aber harmonisch vereint
+  wandmalereien: vorhanden aus dem 13. und 16. Jahrhundert
+  besonderheit_kunst: Jakobs-Pilgerkrönung aus ca. 1230, zu den ältesten und bedeutendsten im deutschsprachigen Raum
+  vorgängerkirche_zerstört: 1198
+  grund_zerstörung_vorgänger: Kämpfe zwischen Otto IV. und Philipp von Schwaben
+  grabstätten_entdeckt: 1981
+  kontext_grabstätten: Beim Bau einer Fußbodenheizung während Restaurierungsarbeiten
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1214
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: stadterhebung
+BEZEICHNUNG: Linz
+EIGENSCHAFTEN:
+  zeitraum: 1304-1332
+  grund: Entscheidung des Kölner Erzbischofs Heinrich II. von Virneburg
+  stadtmauer_errichtung: Während dieser Zeit errichtet
+  kirchspiel_umfang: Linz, Linzerhausen, Ockenfels, Kasbach (links des Bachs), Ohlenberg, Leubsdorf, Ariendorf (rechts des Bachs), später unter dem Namen Linzer Höhe zusammengefasste Dörfer Notscheid und Hargarten
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1304
+GUELTIG_BIS: 1332
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Linz
+EIGENSCHAFTEN:
+  erbaut: 1365
+  besitzer: Kurfürst von Köln
+  besonderheit: Mit Folterkammer aus der Ritterzeit
+  zugang_public: nicht öffentlich zugänglich (zurzeit)
+GUELTIG_AB: 1365
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: brand
+BEZEICHNUNG: Stadtbrand von Linz
+EIGENSCHAFTEN:
+  jahr: 1391
+  beschreibung: Linz brannte bis auf ein Drittel ab
+GUELTIG_AB: 1391
+GUELTIG_BIS: 1391
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: belagerung
+EIGENSCHAFTEN:
+  jahr: 1475
+  durch: Kaiserliche Truppen
+  grund: Neusser Krieg
+GUELTIG_AB: 1475
+GUELTIG_BIS: 1475
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: fähre
+BEZEICHNUNG: Rheinfähre Linz-Kripp
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 2. Mai 1443
+  grund_erwähnung: Verpachtung der Fährrechte
+  dokumentation: Urkunde im Linzer Stadtarchiv
+  pächter_1443: Jakob Schade und Katharina
+  erbzins: 20 Mark
+  besicherung: Drittel des Besitzes der Pächter
+  besitzer_heute: Stadt Linz (Geschäftsführerin)
+  rechte: Fährgerechtsame war von Alters her im Linzer Besitz
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1443
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Marien
+EIGENSCHAFTEN:
+  typ: Katholische Kirche
+  einweihung: 1967
+  besonderheit: Bedeutender Kölner Flügelaltar
+  flügelaltar_jahr: 1463
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche
+EIGENSCHAFTEN:
+  baubeginn: 1863
+  bauende: 1865
+  grund_neubau: Zuzug protestantischer Familien
+  baumaterial: Zum Teil aus Baumaterialien des abgetragenen Grabentors
+  lage: Auf dem Gelände des ehemaligen Grabentores
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1863
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: klosterkirche
+BEZEICHNUNG: Kapuzinerklosterkirche (ehemals)
+EIGENSCHAFTEN:
+  erbaut: 1636-1645
+  heute: Stadthalle
+  umnutzung_jahr: 1971
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1971
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Ratskapelle
+EIGENSCHAFTEN:
+  einweihung: 1462
+  abriss: 1818
+  grund_abriss: Finanzielle Engpässe der Stadt
+  lage: Auf dem Marktplatz
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1818
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: tor
+BEZEICHNUNG: Rheintor
+EIGENSCHAFTEN:
+  erbaut: 1329
+  status: Noch erhalten
+  teil_von: Teil der inzwischen fast vollständig abgetragenen Befestigungsmauern
+  besonderheit: Markierungen der Hochwasserüberflutungen verzeichnet
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1329
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: tor
+BEZEICHNUNG: Neutor
+EIGENSCHAFTEN:
+  erbaut: 1329
+  status: Noch erhalten
+  teil_von: Teil der inzwischen fast vollständig abgetragenen Befestigungsmauern
+  skulptur_linzer_klapperjunge: Vor dem Neutor 1987 aufgestellt
+  tradition_ratschen: Etwa 200 Kinder und Jugendliche nehmen vorösterliche Ratschen-Tradition wahr
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1329
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: turm
+BEZEICHNUNG: Linzer Pulverturm
+EIGENSCHAFTEN:
+  status: Noch erhalten
+  historische_nutzung: Gefängnis (1792 Der Schwarze Peter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sendeanlage
+BEZEICHNUNG: SWR-Sendeanlage
+EIGENSCHAFTEN:
+  funktion: Sender für UKW und Fernsehen
+  antenne_typ: abgespannter Stahlfachwerkmast
+  mast_höhe: 156 m
+  zusätzlich: kleiner freistehender Stahlturm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Ockenfels
+EIGENSCHAFTEN:
+  zerstört: Ende 15. Jahrhundert
+  wiederaufgebaut: 1920er-Jahre
+  lage: Oberhalb von Linz
+  superlativ: erwähnt im Wanderweg Rheinsteig
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1920
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Rennenberg
+EIGENSCHAFTEN:
+  erbaut: 1846
+  lage: Im Wald bei der Sterner Hütte, in schöner Parkanlage
+  restauriert: Nach 1992
+  status: Privatbesitz
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1846
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Rennenberg
+EIGENSCHAFTEN:
+  status: Ruine
+  erbaut: Anfang 13. Jahrhundert
+  lage: Oberhalb von Schloss Rennenberg
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: friedhof
+BEZEICHNUNG: Jüdischer Friedhof
+EIGENSCHAFTEN:
+  status: Denkmalzone
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: brunnen
+BEZEICHNUNG: Strünzerbrunnen
+EIGENSCHAFTEN:
+  lage: In der Altstadt
+  widmung: Dem Menschentyp des Linzer Strünzers
+  namensherkunft: Ursprünglich der Spitzname eines ortsansässigen Wirtes
+  bedeutung_regional: Rheinländisches Synonym eines herzlichen Menschen, der aber beim Schwatzen und beim Trinken etwas übertreibt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: archiv
+BEZEICHNUNG: Stadtarchiv
+EIGENSCHAFTEN:
+  lage: In der ehemaligen Kapelle des Krankenhauses der Franziskanerinnen (19. Jahrhundert)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus
+EIGENSCHAFTEN:
+  bauzeit: 1517-1527
+  besonderheit: Bau an Stelle eines Vorgängerbaues
+  glockenspiel: Arrangements von Wilhelm Heinrichs am historischen Rathaus
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1517
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: altstadt
+BEZEICHNUNG: Historische Altstadt
+EIGENSCHAFTEN:
+  charakteristik: Viel Fachwerk
+  freigelegung: Seit 1912 wieder freigelegt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadtmauer
+BEZEICHNUNG: Rheinseitige Stadtmauer
+EIGENSCHAFTEN:
+  abgetragen: 1861-1862
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1862
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: tor
+BEZEICHNUNG: Grabentor
+EIGENSCHAFTEN:
+  abgetragen: 1863
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1863
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: tor
+BEZEICHNUNG: Leetor
+EIGENSCHAFTEN:
+  abgetragen: 1879
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1879
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: oberamt
+BEZEICHNUNG: Oberamt Linz
+EIGENSCHAFTEN:
+  gründung: um 1700
+  geschichte_1803: Fiel an den Fürsten von Nassau-Usingen (Reichsdeputationshauptschluss)
+  geschichte_1806: Im Herzogtum Nassau aufgegangen
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bürgermeisterei
+BEZEICHNUNG: Bürgermeisterei Linz
+EIGENSCHAFTEN:
+  gründung: 1816 (neugebildet)
+  status: Hauptsitz der nassauischen Bürgermeisterei
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1816
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kreis
+BEZEICHNUNG: Kreis Linz
+EIGENSCHAFTEN:
+  gründung: 1816
+  verwaltungssitz: Erpel (nicht Linz selbst)
+  aufgelöst: 1822
+  nachfolger: Kreis Neuwied (preußische Rheinprovinz)
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1816
+GUELTIG_BIS: 1822
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadterhebung_nach_städteordnung
+EIGENSCHAFTEN:
+  jahr: 1857
+  grundlage: Rheinische Städteordnung
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1857
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: eisenbahnstrecke
+EIGENSCHAFTEN:
+  anschluss_jahr: 1870
+  strecke: Köln-Troisdorf-Neuwied-Niederlahnstein
+  bahnhof_gebaut: 1870
+  ursprüngliches_profil: Eingleisig
+  ausbau_1883: Wegen Hochwasser auf Viadukte höher gelegt und zusätzlich zweigleisig ausgebaut
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1870
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: eisenbahnstrecke
+BEZEICHNUNG: Strecke Linz-Neustadt-Flammersfeld-Altenkirchen
+EIGENSCHAFTEN:
+  inbetriebnahme: 1. Oktober 1912
+  schädigungen_krieg: Brückensprengungen im Wiedtal durch deutsche Wehrmacht seit März 1945
+  einstellung_personenverkehr: 1960
+  restbetrieb: Etwa 8 km von Linz nach Kalenborn
+  restbetrieb_betreiber: Kasbachtalbahn
+  restbetrieb_betrieb: Mai bis Oktober an Wochenenden und Feiertagen
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1912
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: gemeinde
+BEZEICHNUNG: Linzhausen
+EIGENSCHAFTEN:
+  eingemeindet: 1. April 1912
+  frühere_namen: Linzerhausen oder Hausen
+  fläche: 0,33 km²
+  besonderheit: Kleinste Gemeinde des Kreises
+  lage: Am nördlichen Ortseingang
+  status_heute: Wird heute nicht mehr als Stadtteil empfunden
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1912
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Kretzhaus
+EIGENSCHAFTEN:
+  teil_zu_gemeinde: Kleiner Teil zur Gemeinde Vettelschoß
+  besonderheit: Erreicht siedlungsmäßig den Westerwald
+ORTSTEIL_BEZUG: Kretzhaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Roniger Hof
+EIGENSCHAFTEN:
+  gründung: 1970er Jahre
+  entfernung_von_stadt: Drei Kilometer oberhalb der Stadt
+  erste_häuser: 1976
+  krankenhaus_erbaut: 1979 im neuen Stadtteil
+ORTSTEIL_BEZUG: Roniger Hof
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1976
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Stuxhof
+EIGENSCHAFTEN:
+  grenzt_an: Erl (Gemeinde Kasbach-Ohlenberg)
+ORTSTEIL_BEZUG: Stuxhof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: brunnen
+BEZEICHNUNG: Strünzerbrunnen
+EIGENSCHAFTEN:
+  lage: In der Altstadt
+  widmung: Menschentyp des Linzer Strünzers
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: urkunde
+BEZEICHNUNG: Gründungsurkunde
+EIGENSCHAFTEN:
+  jahr: 874
+  ortsnamen_erwähnung: Lincesce oder Lincheste
+  aussteller: Äbtissin des Stifts Gerresheim Reginbierg (Tochter des fränkischen Edelmanns Gerricus)
+  bedeutung: Erste urkundlich nachgewiesene Erwähnung von Linz
+  implikation: Reginbierg besaß Zehntrechte
+  kontext_zehntrechte: Nach Karolingischem Recht nur dann ein Gutsbesitzer das Zehntrecht erhielt, wenn er in seinem Sprengel eine Kirche erbaut hatte
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 874
+GUELTIG_BIS: 874
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: besatzung
+EIGENSCHAFTEN:
+  zeitraum: Februar 1923 - 17. November 1924
+  durch_truppen: Französische Truppen
+  grund: Ruhrkampf
+  gebiet: Einbruchsgebiet im südlichen Siegkreis und nördlichen Kreis Neuwied
+  beendigung: Nach der Londoner Konferenz am 17. November 1924
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1923
+GUELTIG_BIS: 1924
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: flugzeugabsturz
+EIGENSCHAFTEN:
+  datum: 28. Mai 1984
+  flugzeug: Kampfflugzeug der niederländischen Luftwaffe
+  pilot: Pieter Enzerink (bekannt als Gipsy)
+  opfer: Pilot und eine Anwohnerin
+  verletzte: Zahlreiche Menschen
+  ort: Unweit des Krankenhauses Linz, in ein Mehrfamilienhaus
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1984
+GUELTIG_BIS: 1984
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: konfessionsstatistik
+EIGENSCHAFTEN:
+  referenzdatum_alt: 30. Juni 2005
+  katholiken_2005: 59,3 %
+  evangelisch_2005: 17,4 %
+  konfessionslos_etc_2005: 23,3 %
+  trend_katholiken: Jährlich um 1 Prozentpunkt gesunken
+  referenzdatum_aktuell: Ende März 2025
+  katholiken_2025: 39,8 %
+  evangelisch_2025: 13,2 %
+  andere_2025: 47,0 %
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: stadtrat
+EIGENSCHAFTEN:
+  wahl_datum: 9. Juni 2024
+  wahl_system: Personalisierte Verhältniswahl
+  mitgliederzahl: 22 Ratsmitglieder
+  vorsitz: Ehrenamtlicher Stadtbürgermeister
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2024
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Helmut Muthers
+EIGENSCHAFTEN:
+  amtsantritt: 3. Juli 2024
+  wahl_datum: 9. Juni 2024
+  wahl_system: Direktwahl
+  kandidaten: Einziger Kandidat
+  wahlbeteiligung: 63,6 %
+  stimmenanteil: 76,6 %
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Linz an der Donau
+EIGENSCHAFTEN:
+  land: Österreich
+  region: Oberösterreich
+  status_regional: Landeshauptstadt
+  partnerschaft_inoffiziell: 1920
+  partnerschaft_offiziell: 1987
+GUELTIG_AB: 1920
+IST_VERMUTISCH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Marietta
+EIGENSCHAFTEN:
+  land: USA
+  bundesstaat: Georgia
+  partnerschaft: 1965
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Pornic
+EIGENSCHAFTEN:
+  land: Frankreich
+  partnerschaft: 1987
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: freundschaftsvertrag
+EIGENSCHAFTEN:
+  partnerortsteil: Linz (Ortsteil der Gemeinde Schönfeld)
+  land: Deutschland
+  bundesland: Sachsen
+  typ: Freundschaftsvertrag
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: weinanbau
+BEZEICHNUNG: Weinlage Rheinhölle
+EIGENSCHAFTEN:
+  status_aktuell: Noch etwas Weinanbau (2022)
+  lage: Entlang der Straße Rheinhöller, vom Ortskern nach Ockenfels
+  radfernweg: EV15 (europäischer Radfernweg)
+  ursprung_name: Rhinhelderberg
+  etymologie_name: Mittelhochdeutsch Helde/Hell (Berghang)
+  bedeutung_etymologie: Verweist auf einen zum Rhein hin abfallenden Berghang
+  ausrichtung: Südwesten zum Rhein
+  höhe: 60-100 m über NN
+  neigung: Recht steil
+  oberflächenabbruchkante: Lehmig, darüber Baumbewuchs
+  bodentyp: Tonschieferverwitterungsboden
+  bodenursprung: Untere und mittlere Siegen-Schichten
+  gesteinsart: Vulkanite aus dem Tertiär
+  qualitätspotential: Hoch
+  weinsorte_weiß: Weißburgunder
+  weinsorte_rot_riesling: Rieslinge
+  charakteristik: Rassige, säurebetonte Weine
+  herkunft_name_alternative: Rhinhelderberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Tourismus
+EIGENSCHAFTEN:
+  bedeutung: Wichtigster Wirtschaftszweig in Linz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Basaltabbau
+EIGENSCHAFTEN:
+  bedeutung_früher: Spielte früher eine große Rolle
+  status_heute: Stillgelegt (historische Steinbrüche erwähnt: Meerberg, Minderberg, Hummelsberg)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: BAG - Basalt-Actien-Gesellschaft
+EIGENSCHAFTEN:
+  branche: Basaltabbau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Birkenstock
+EIGENSCHAFTEN:
+  branche: Schuhe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Niedax GmbH & Co. KG
+EIGENSCHAFTEN:
+  produkt: Kabelverlegesysteme
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Bürgermeister-Castenholtz-Schule
+EIGENSCHAFTEN:
+  typ: Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schule
+BEZEICHNUNG: Robert-Koch-Schule
+EIGENSCHAFTEN:
+  typ: Integrative Realschule plus und Fachoberschule
+  frühere_namen: Duale Oberschule, ehemalige Realschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schule
+BEZEICHNUNG: Alice-Salomon-Schule
+EIGENSCHAFTEN:
+  typ: Berufsbildende Schule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: gymnasium
+BEZEICHNUNG: Martinus-Gymnasium Linz
+EIGENSCHAFTEN:
+  typ: Gymnasium
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Franziskus-Krankenhaus Linz
+EIGENSCHAFTEN:
+  status: Krankenhaus
+  neubau: 1979 im Stadtteil Roniger Hof erbaut
+ORTSTEIL_BEZUG: Roniger Hof
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1979
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: gefängnis
+BEZEICHNUNG: Gefängnis Linz
+EIGENSCHAFTEN:
+  status_historisch: Existierte bis 1970
+  lage: Am Totenborn 14 (zusammen mit altem Amtsgericht)
+  inhaftierte_bekannt: Else Peerenboom-Missong (August 1944, Aktion Gewitter), Conrad Ahlers (Spiegelredakteur, 1962)
+  status_heute: Wohnhaus unter Denkmalschutz
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1970
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: gericht
+BEZEICHNUNG: Amtsgericht Linz am Rhein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: polizei
+BEZEICHNUNG: Polizeiinspektion Linz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: notar
+BEZEICHNUNG: Notariat Linz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bundesstraße
+BEZEICHNUNG: Bundesstraße 42
+EIGENSCHAFTEN:
+  position: Linz liegt direkt an der Bundesstraße 42
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bundesautobahn
+BEZEICHNUNG: Bundesautobahn 3
+EIGENSCHAFTEN:
+  anschlussstelle: Bad Honnef/Linz
+  position: Wenige Kilometer westlich von Linz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: autofähre
+BEZEICHNUNG: Autofähre Linz-Kripp
+EIGENSCHAFTEN:
+  verbindung: Linz mit Remagen-Kripp
+  erreichbar_von_linz: Linksrheinische Bundesstraßen B 9 und B 266, Bundesautobahn 61
+  zugang_regionen: Ahrtal und Eifel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Linz (Rhein)
+EIGENSCHAFTEN:
+  lage: Liegt an der rechtsrheinischen Strecke Köln-Koblenz
+  linien: RE 8 und RB 27
+  takt: Halbstundentakt
+  flughafen_verbindung: RB 27 im Stundentakt zum Flughafen Köln/Bonn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: verkehrsverbund
+BEZEICHNUNG: Verkehrsverbund Rhein-Mosel
+EIGENSCHAFTEN:
+  position: Linz liegt im Verkehrsverbund Rhein-Mosel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: radweg
+BEZEICHNUNG: EuroVelo-Route EV15 (Rheinradweg)
+EIGENSCHAFTEN:
+  charakteristik: Rechtsrheinischer Radweg
+  durchquert_linz: Führt durch Linz
+  trennung_von_kfz: Nicht vom Kraftfahrzeugverkehr getrennt (Stand Januar 2022)
+  verbindung: Verbindung zum linksrheinischen Rheinradweg und zu Ahrtal-Radwegen über Fähre Linz-Kripp/Remagen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: wanderweg
+BEZEICHNUNG: Rheinsteig
+EIGENSCHAFTEN:
+  charakteristik: Rechtsrheinischer Fernwanderweg von Bonn nach Wiesbaden
+  etappe_linz: Von Unkel nach Leubsdorf
+  etappe_länge: 16,7 km
+  etappe_höhenmeter: 500 Höhenmeter
+  route_durch_linz: Vorbei an Burg Ockenfels und über historischen Marktplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Karnevalsumzug
+EIGENSCHAFTEN:
+  zeitpunkt: Am Rosenmontag
+  regelmäßigkeit: Jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Rhein in Flammen
+EIGENSCHAFTEN:
+  zeitpunkt: Am ersten Samstag im Mai
+  programm: Großfeuerwerke und Schiffsrundfahrt
+  route: Von Linz am Rhein entlang Erpel, Unkel, Remagen, Rheinbreitbach, Rheininsel Nonnenwerth bei Bad Honnef, Bad Godesberg, Königswinter zur Rheinaue bei Bonn
+  regelmäßigkeit: Jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Bunte Woche mit Drehorgelfest
+EIGENSCHAFTEN:
+  zeitpunkt: Von Christi Himmelfahrt bis zum darauffolgenden Sonntag
+  regelmäßigkeit: Jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Antik- und Trödelmarkt
+EIGENSCHAFTEN:
+  zeitpunkt_1: Am dritten Wochenende im Mai
+  zeitpunkt_2: Am zweiten Wochenende im August
+  regelmäßigkeit: Jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Kirmes
+EIGENSCHAFTEN:
+  zeitpunkt: Am letzten Wochenende im August
+  regelmäßigkeit: Jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Winzerfest
+EIGENSCHAFTEN:
+  zeitpunkt: Am zweiten Wochenende im September
+  regelmäßigkeit: Jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Kunsthandwerkermarkt
+EIGENSCHAFTEN:
+  zeitpunkt: Am zweiten Wochenende im Oktober
+  regelmäßigkeit: Jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Weihnachtsmärkte
+EIGENSCHAFTEN:
+  zeitpunkt: An allen Adventswochenenden
+  regelmäßigkeit: Jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Tilman Joel
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Theologe, Jurist und Diplomat
+  geburt: 1395, genauigkeit: ca.
+  tod: 1461
+GUELTIG_AB: 1395
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Augustinus Castenholz
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Bürgermeister und Zollschreiber
+  geburt: 1592, genauigkeit: ca.
+  tod: 1633
+GUELTIG_AB: 1592
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Carl Paul von Zimmermann
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Kaiserlicher Hofrat, Kanzler in Hildesheim
+  geburt: 1652
+  tod: 1712
+  besonderheit: Kanzlerstraße in Linz ist nach ihm benannt
+GUELTIG_AB: 1652
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Damian Adolph Dercum
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Arzt, Professor für Arzneiwissenschaften und Chirurgie
+  geburt: 1655
+  tod: 1722, genauigkeit: ca.
+GUELTIG_AB: 1655
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Augustin Mengelberg
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Abt von Heisterbach
+  geburt: 1710
+  tod: 1763
+GUELTIG_AB: 1710
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Alexander Bertram Joseph Minola
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Geistlicher, Gymnasiallehrer und Historiker
+  geburt: 1759
+  tod: 1829
+GUELTIG_AB: 1759
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Maximilian Joseph Funcke
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Chemiker und Apotheker
+  geburt: 1780
+  tod: unbekannt
+GUELTIG_AB: 1780
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Stephan Lück
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Theologe, Dommusikdirektor in Trier, Herausgeber
+  geburt: 1806
+  tod: 1883
+GUELTIG_AB: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Ferdinand von Malaisé
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Bayerischer General, Erzieher von König Ludwig III.
+  geburt: 1806
+  tod: 1892
+GUELTIG_AB: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Anton Joseph Weidenbach
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Historiker und Archivar
+  geburt: 1809
+  tod: 1871
+GUELTIG_AB: 1809
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Joseph von Keller
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Kupferstecher
+  geburt: 1811
+  tod: 1873
+GUELTIG_AB: 1811
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Franz Keller
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Kupferstecher
+  geburt: 1821
+  tod: 1896
+  besonderheit: Bruder und Schüler von Joseph von Keller
+GUELTIG_AB: 1821
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Hubert Meyer
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Porträtmaler
+  geburt: 1826
+  tod: 1895
+GUELTIG_AB: 1826
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Johann Martin Niederée
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Maler
+  geburt: 1830
+  tod: 1853
+GUELTIG_AB: 1830
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Heinrich Gogarten
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Landschaftsmaler in Dachau
+  geburt: 1850
+  tod: 1911
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Pedro Sinzig
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Franziskaner, Schriftsteller
+  geburt: 1876
+  tod: 1952
+GUELTIG_AB: 1876
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Heinrich Pohl
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Jurist, Völkerrechtler und Hochschullehrer
+  geburt: 1883
+  tod: 1931
+GUELTIG_AB: 1883
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Theodor Nußbaum
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Garten- und Landschaftsarchitekt, Stadtbaurat in Köln
+  geburt: 1885
+  tod: 1956
+GUELTIG_AB: 1885
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Konrad Nussbaum
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Polizeibeamter, Kriminaldirektor
+  geburt: 1893
+  tod: 1945
+GUELTIG_AB: 1893
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Erich Mehliß
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Verwaltungsjurist und Landrat
+  geburt: 1899
+  tod: 1972
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Werner Hirsch
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: US-amerikanischer Wirtschafts- und Finanzwissenschaftler deutscher Herkunft, Hochschullehrer
+  geburt: 1920
+  tod: 2009
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Elisabeth Alexander
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Schriftstellerin
+  geburt: 1922
+  tod: 2009
+GUELTIG_AB: 1922
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Günther Scholl
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Maler und Kunsterzieher
+  geburt: 1923
+  tod: 2011
+GUELTIG_AB: 1923
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Peter Schmitz
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Schauspieler
+  geburt: 1923
+  tod: 2006
+GUELTIG_AB: 1923
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Günther Oellers
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Bildhauer
+  geburt: 1925
+  tod: 2011
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Manfred Bruns
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Bundesanwalt am Bundesgerichtshof, schwulenpolitischer Aktivist
+  geburt: 1934
+  tod: 2019
+GUELTIG_AB: 1934
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Georg Kröll
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Komponist, Pianist
+  geburt: 1934
+GUELTIG_AB: 1934
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Alex Kempkens
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Fotograf
+  geburt: 1942
+GUELTIG_AB: 1942
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Peter Meilchen
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Maler, Grafiker, Fotograf und Autor
+  geburt: 1948
+  tod: 2008
+GUELTIG_AB: 1948
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Adam C. Oellers
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Kunsthistoriker
+  geburt: 1949
+GUELTIG_AB: 1949
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Renate Pepper
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Politikerin (SPD), MdL Rheinland-Pfalz
+  geburt: 1951
+  tod: 2024
+  amtszeit_landtag: 1991-2011
+GUELTIG_AB: 1951
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Richard Wester
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Saxophonist und Komponist
+  geburt: 1956
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Hubert Schmidt
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Jurist, Rechtsanwalt und Hochschullehrer
+  geburt: 1958
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Harald J. Wester
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Manager und Ingenieur
+  geburt: 1958
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Ellen Demuth
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Politikerin (CDU), MdL Rheinland-Pfalz
+  geburt: 1982
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Stefan Thoma
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  berufe: Politiker (FDP), MdL Rheinland-Pfalz
+  geburt: 1988
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Jannik Stoffels
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Fußballspieler
+  geburt: 1997
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Sascha Weingarten
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Schauspieler
+  geburt: 1991
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Sugar MMFK (João Michel Diau)
+EIGENSCHAFTEN:
+  herkunft: Sohn/Tochter der Stadt Linz
+  beruf: Rapper
+  geburt: 1993
+  künstlername: Sugar MMFK
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Albert Ritzaeus Hardenberg
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Prediger
+  geburt: 1510
+  tod: 1774, genauigkeit: Fehler im Text (sollte 1574 sein nach Geburt und Lebensdauer)
+  beruf: Theologe
+GUELTIG_AB: 1545
+GUELTIG_BIS: 1545
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Ludwig van Beethoven
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Hausmusik bei Hofkammerrat Gottfried Wolters, Besuch seines in Linz arbeitenden Bruders
+  geburt: 1770
+  tod: 1827
+GUELTIG_AB: 1770
+GUELTIG_BIS: 1792
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Der Schwarze Peter
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Vorabergehende Inhaftierung im Pulverturm
+  geburt: 1752
+  tod: 1812
+  beruf: Räuber
+  besonderheit: Lehrmeister und Komplize des Schinderhannes
+GUELTIG_AB: 1792
+GUELTIG_BIS: 1792
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Georg Wilhelm Friedrich Hegel
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Besuch der Stadt und der Kirche St. Martin
+  geburt: 1770
+  tod: 1831
+  beruf: Philosoph
+GUELTIG_AB: 1822
+GUELTIG_BIS: 1822
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Wilhelm IV.
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Besuch der Stadt
+  geburt: 1795
+  tod: 1861
+  titel: Kronprinz (später Preußischer König)
+GUELTIG_AB: 1833
+GUELTIG_BIS: 1833
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Richard Brend'amour
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Sommerurlaub bei Johann Martin Niederée
+  beruf: Holzschneider
+GUELTIG_AB: 1852
+GUELTIG_BIS: 1852
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: Rudolf Schwertführer
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Sommerurlaub bei Johann Martin Niederee
+  beruf: Lithograph und Holzschneider in Dresden
+  geboren_in: Linz, genauigkeit: evtl.
+GUELTIG_AB: 1852
+GUELTIG_BIS: 1852
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: W. Krüger
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Evangelischer Pfarrer
+  werk: Erzählung Aus dem Gefängnis ins Gefängnis
+GUELTIG_AB: 1868
+GUELTIG_BIS: 1868
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: Theodor Lerner
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Kindheit und Jugendzeit
+  geburt: 1866
+  tod: 1931
+  berufe: Journalist und Polarforscher
+GUELTIG_AB: 1870
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: Friedrich von Gerolt
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Besitzer von Rittergut zur Leyen Burg Ockenfels
+  geburt: 1797
+  tod: 1879
+  beruf: Diplomat, dienstältester Botschafter Deutschlands in Washington, D.C., USA
+GUELTIG_AB: 1871
+GUELTIG_BIS: 1879
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Johann Stockhausen
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Betrieb Werkstatt und starb dort
+  geburt: 1843
+  tod: 1917
+  beruf: Orgelbauer
+GUELTIG_AB: 1873
+GUELTIG_BIS: 1917
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Carl Clewing
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Schüler des Progymnasiums zu Linz
+  geburt: 1884
+  tod: 1954
+  berufe: Schauspieler, Heldentenor, Musikpädagoge und Volksliedforscher
+GUELTIG_AB: 1894
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Else Peerenboom-Missong
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Schutzhaft August 1944 im Rahmen der Aktion Gewitter
+  geburt: 1893
+  tod: 1958
+  berufe: Volkswirtin und Politikerin (Zentrum, später CDU)
+  lebte_in_linz: 1897-1958
+GUELTIG_AB: 1897
+GUELTIG_BIS: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Walter Fuchs
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Initiator des Heimatmuseums, Betreuung des städtischen Archivs
+  besonderheit: Schöpfer des Begriffs Linz – Die Bunte Stadt am Rhein
+GUELTIG_AB: 1899
+GUELTIG_BIS: 1963
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Eduard Profittlich
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Gymnasialbesuch und Abitur
+  geburt: 1890
+  tod: 1942
+  beruf: Erzbischof von Estland
+GUELTIG_AB: 1909
+GUELTIG_BIS: 1912
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Heinrichs
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Gymnasiallehrer, Arrangement des Glockenspiels am historischen Linzer Rathaus
+  berufe: Gymnasiallehrer, Komponist, Kapellmeister
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1995
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Egon Hoegen
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Wuchs in Linz am Rhein auf
+  berufe: Deutscher Schauspieler und Sprecher
+GUELTIG_AB: 1928
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Joseph Jaekel
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Wohnsitz durch Kriegsfolgen in Köln
+  beruf: Bildhauer
+GUELTIG_AB: 1940
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person
+BEZEICHNUNG: Otto Cornelius
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Kunsterzieher am Gymnasium Linz
+  berufe: Graphiker, Maler, Kunsterzieher
+GUELTIG_AB: 1943
+GUELTIG_BIS: 1959
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Waltraud Markmann Kawinski
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Wohnsitz und Atelier
+  berufe: Malerin, Grafikerin und Schriftstellerin
+GUELTIG_AB: 1946
+GUELTIG_BIS: 2012
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Erxleben
+EIGENSCHAFTEN:
+  tätigkeit_in_linz: Lebensabend
+  beruf: Pfarrer
+GUELTIG_AB: 1951
+GUELTIG_BIS: 1955
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: anekdote
+BEZEICHNUNG: Erfindung des Bienenstitchs
+EIGENSCHAFTEN:
+  jahr: 1474
+  beschreibung: Wie der Bienenstich erfunden wurde
+  verweis_sage: Bäckerjungensage
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1474
+GUELTIG_BIS: 1474
+VERTRAUEN_EXTRAKTION: 0.7

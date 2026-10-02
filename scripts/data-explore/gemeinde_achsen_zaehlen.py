@@ -13,7 +13,7 @@ import os
 import re
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1')
+ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'))
 
 # Eigenschaftsnamen, die eine Herkunft, Deutung, Ursache oder einen Anlass tragen
 # "grund" nur als eigenes Wortglied (grund, grund_erhalt, zerstoerung_grund), nicht in grundbesitz

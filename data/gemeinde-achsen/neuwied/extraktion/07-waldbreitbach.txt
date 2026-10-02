@@ -1,0 +1,737 @@
+ENTITÄT: ort
+BEZEICHNUNG: Waldbreitbach
+EIGENSCHAFTEN:
+  ist_ortsgemeinde: true
+  ist_luftkurort: true
+  lage_gewässer: an der Wied
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  verbandsgemeinde: Rengsdorf-Waldbreitbach
+  naturpark: Rhein-Westerwald
+  entfernung_neuwied_km: 16
+  entfernung_richtung_neuwied: nördlich
+  lage_autobahn: westlich Anschlussstelle 36 A3
+  erste_urkundliche_erwaehnung_jahr: 857
+  historische_schreibweise: Bretpah
+  namensursprung: Tal Breitbach, in dem sich die beiden Breitbach ausgebildet hatten
+  geschichtliche_herkunftsregion: Thüringisches Streubesitz am Rhein
+  politische_abfolge_ab1250: kurkölnische Oberhoheit als Amt Neuerburg
+  pfandschaften_charakterisierung: Mittelalter gekennzeichnet durch ständig wiederholende kölnische Pfandschaften
+  pfandschaften_ende: Mitte 17. Jahrhundert unter Erzbischof Clemens August
+  oberhoheit_ende: 1803 runkel-wiedisch
+  nassauische_periode: 1806-1815
+  preussische_periode_ab: 1815
+  fremdenverkehr_oeffnung_wende: zu 20. Jahrhundert
+  landwirtschaftliche_betriebe_2010: 6
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Heilstätte Antoniushaus
+ORTSTEIL_BEZUG: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gasbitze
+ORTSTEIL_BEZUG: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Glockscheid
+ORTSTEIL_BEZUG: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gutshof
+ORTSTEIL_BEZUG: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kloster Marienhaus
+ORTSTEIL_BEZUG: Glockscheid
+EIGENSCHAFTEN:
+  nutzung: Kloster
+  orden_gründerin: Rosa Flesch
+  ordensgemeinde: Waldbreitbacher Franziskanerinnen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Over
+ORTSTEIL_BEZUG: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rabental
+ORTSTEIL_BEZUG: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schloß Walburg
+ORTSTEIL_BEZUG: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wüscheid
+ORTSTEIL_BEZUG: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Maria Himmelfahrt
+EIGENSCHAFTEN:
+  historische_namen: Johannes Baptista, Beata Maria Virgo
+  gegründet_von: Deutscher Orden
+  gegründet_zeitraum: 13. Jahrhundert
+  turm_ursprung: 13. Jahrhundert
+  turm_beschreibung: mit ionischen Säulen unterteilten Doppelarkaden im Obergeschoss
+  glocke_gegossen: 1694
+  glocke_gegossen_von: Johannes Berdaller
+  glocke_gegossen_ort: Koblenz-Ehrenbreitstein
+  langhaus_neubau_nach_abriss: 1876-1878
+  langhaus_architekt: Reinhold Wirtz
+  zerstörungen: Zweiter Weltkrieg
+  sanierungen_jahre: 1950, 1976, 2012
+  sanierungen_beschreibung: Ausmaltung nach historischen Vorbildern
+  erheblichkeit: "über Treppenaufgang von Hauptstraße erreichbar"
+GUELTIG_AB: 857
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ordenhaus
+BEZEICHNUNG: Deutscherdenhaus (ehemaliges)
+ORTSTEIL_BEZUG: Waldbreitbach
+EIGENSCHAFTEN:
+  orden: Deutscher Orden
+  lage_rel: oberhalb der katholischen Pfarrkirche
+  erste_urkundliche_erwaehnung: 1239
+  urkundlicher_name: Deutsches Huis zu Brettbach
+  ballei: Deutschordensballei Koblenz
+  landbesitz_18jh_ca_morgen: 400
+  besitze_ab: 1809 Hermann Fürst zu Wied
+  nutzungen_chronologisch: Tochterschule, Kindergarten, Krankenambulanz, Altenheim
+  altenheim_träger: Orden der Franziskanerinnen von der allerseligsten Jungfrau Maria von den Engeln (Rosa Flesch)
+  altenheim_name: Commende Rosa-Stift
+  letzte_nutzung_bis: 1988
+  investor_erwerber: 2008 privater Investor
+  sanierungszustand_vor_2008: sanierungsbedürftig
+  umbau_jahre: 2009-2010
+  umbau_stil: Stil des 1703 errichteten frühbarocken Kernbaus
+  umbau_beachtung: denkmalpflegerische Belange
+  nutzung_nach_umbau: Wohn- und Geschäftshaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: fachwerkhaus
+BEZEICHNUNG: Alte Schmiede
+EIGENSCHAFTEN:
+  baujahr: 1794
+  hinweis_handwerkstradition: lokale Handwerkstradition
+  zustand: einige restauriert in Privatbesitz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: fachwerkhaus
+BEZEICHNUNG: Schreinerei
+EIGENSCHAFTEN:
+  tätig_seit: 1875
+  hinweis_handwerkstradition: lokale Handwerkstradition
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: mühle
+BEZEICHNUNG: Ölmühle
+EIGENSCHAFTEN:
+  lage: an der Wied
+  erste_konzession: 1676
+  konzession_ausgestellt_von: Kurköln
+  zerstörung_ereignis: Hochwasser
+  zerstörung_jahr: 1680
+  wiederaufbau_jahr: 1700
+  triebwerk_material: Eichenholz
+  triebwerk_typ: Kollergans
+  superlativ: älteste im Rheinland erhaltene Ölmühle dieses Bautyps
+  betrieb_bis_jahr: 1948
+  produkte: Öle aus Leinsamen, Raps, Bucheckern und Mohn
+GUELTIG_AB: 1676
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: museum
+BEZEICHNUNG: Handwerks- und Gewerbemuseum
+EIGENSCHAFTEN:
+  lage: neben der Ölmühle
+  gebäudetyp: Fachwerkhaus
+  gebäudealter_ca: über 300 Jahre
+  ursprungslage_abbau: Bremscheid
+  abbau_zeitraum: Mitte der 1990er Jahre
+  wiederaufbau_ort: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: mühle
+BEZEICHNUNG: Mühle mit Wasserrad
+EIGENSCHAFTEN:
+  erbaujahr: 1911
+  lage_rel: ca. 100 m wiedaufwärts von Ölmühle
+  lage: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Hohle Linde vor der Kirche
+EIGENSCHAFTEN:
+  art: Baum
+  baumtyp: Linde
+  lage: vor der Kirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Linde vor der Dorfschmiede
+EIGENSCHAFTEN:
+  art: Baum
+  baumtyp: Linde
+  lage: vor Dorfschmiede Ortsmitte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Kastanie an der Ölmühle
+EIGENSCHAFTEN:
+  art: Baum
+  baumtyp: Kastanie
+  lage: an der Ölmühle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Kreuzkapelle
+EIGENSCHAFTEN:
+  erbaut_jahr: 1694
+  lage: Gemeindegrenze zu Hausen, Wiedufer
+  wallfahrtsort: ja
+  wallfahrtsort_periode: 18. Jahrhundert
+  bedeutung_keimzelle: Gründung zweier franziskanischer Ordensgemeinschaften
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ordensgemeinschaft
+BEZEICHNUNG: Franziskanerbrüder vom Heiligen Kreuz
+EIGENSCHAFTEN:
+  gründer: Peter Wirth
+  gründungsjahr: 1862
+  gründungsort: Waldbreitbach (Eremitenklausen Kreuzkapelle)
+  mutterhaus: Hausen
+  nutzung: verschiedene soziale Einrichtungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ordensgemeinschaft
+BEZEICHNUNG: Waldbreitbacher Franziskanerinnen
+EIGENSCHAFTEN:
+  gründerin: Rosa Flesch
+  leben_in_eremitenklausen: 1851-1860
+  eremitenklausen_ort: Kreuzkapelle
+  mutterhaus: Kloster Marienhaus
+  mutterhaus_ortsteil: Glockscheid
+  ordensgründerin_seligsprechung: 2008
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1851
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Monika Kukla
+EIGENSCHAFTEN:
+  partei: Wir für Waldbreitbach
+  amtsantritt_datum: 11. Juli 2024
+  amtsantritt_prozess: Direktwahl 9. Juni 2024
+  stimmenanteil_prozent: 56,5
+  gegner: Amtsvorgänger
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Martin Lerbs
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 2014
+  amtsende: 2024
+  direktwahl_2019_stimmenanteil_prozent: 70,85
+  amtsperiode_länge_jahre: 10
+GUELTIG_AB: 2014
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Karl Willi Engels
+EIGENSCHAFTEN:
+  amtszeit_länge_jahre: 15
+  vorgänger: Martin Lerbs
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: gemeinderat
+BEZEICHNUNG: Gemeinderat Waldbreitbach
+EIGENSCHAFTEN:
+  ratsmitglieder_anzahl: 16
+  vorsitzende: Ortsbürgermeisterin
+  vorsitzende_status: ehrenamtlich
+  wahlart: personalisierte Verhältniswahl
+  wahl_datum: 9. Juni 2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: infrastruktur_übernachtung
+BEZEICHNUNG: Hotels und Ferienwohnungen
+EIGENSCHAFTEN:
+  anzahl_campingplätze: 2
+  zielgruppe: Feriengäste
+  angebotene_aktivitäten: Wandern, Fahrrad, Kanu auf der Wied
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: hotel
+BEZEICHNUNG: Ältestes Hotelrestaurant Waldbreitbachs
+EIGENSCHAFTEN:
+  architektur: Fachwerkerker
+  gegründet_original: 1777
+  original_name: Schankwirtschaft
+  weitere_gaststätten: ja
+  weitere_typen: Eiscafés
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1777
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: wanderweg_infrastruktur
+BEZEICHNUNG: Wiedpromenade
+EIGENSCHAFTEN:
+  länge_km: 4
+  zugänglichkeit: für Gehbehinderte erschlossen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: radweg
+BEZEICHNUNG: Wied-Radweg
+EIGENSCHAFTEN:
+  verlauf_start: Quelle ab Rotenhain (Westerwälder Seenplatte)
+  verlauf_ende: Mündung bei Neuwied
+  beschilderung: beschildert
+  belag: größtenteils asphaltiert bzw. gepflastert
+  trennung_motorverkehr_status: großenteils (aber nicht durchgehend, Stand 2022)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: rundwanderweg
+BEZEICHNUNG: Haupt-Rundwanderwege Waldbreitbach
+EIGENSCHAFTEN:
+  länge_max_km: 15
+  zielgebiete: Kloster Marienhaus (Glockscheid), Fockenbachtal, Verscheid, Schloss Walburg, Aussichtspunkte Westerwaldklinik
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: wanderweg
+BEZEICHNUNG: Wäller Tour Bärenkopp
+EIGENSCHAFTEN:
+  typ: Premiumwanderweg
+  typ_form: Rundweg
+  länge_km: 11,6
+  auszeichnung_datum: Mai 2015
+  charakteristik: Ausblicke ins Wiedtal
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2015
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: wanderweg
+BEZEICHNUNG: Westerwaldsteig
+EIGENSCHAFTEN:
+  typ: Fernwanderweg
+  eröffnung_datum: 24. Mai 2008
+  berührung_waldbreitbach: ja
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2008
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: wanderweg
+BEZEICHNUNG: Klosterweg
+EIGENSCHAFTEN:
+  länge_km: 17
+  typ: Premiumwanderweg
+  verbindung_start: Rheinsteig in Rengsdorf
+  verbindung_ende: Westerwaldsteig in Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur_wassersport
+BEZEICHNUNG: Ruder- und Tretbootverleih
+EIGENSCHAFTEN:
+  lage: gegenüber historischen Mühlen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: infrastruktur_freizeit
+BEZEICHNUNG: Hallen- und Freibad
+EIGENSCHAFTEN:
+  lage: Nachbargemeinde Hausen
+  erweiterung_sauna: November 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: sammlung
+BEZEICHNUNG: Krippen-Sammlung
+EIGENSCHAFTEN:
+  sammler: Gustel Hertling
+  sammler_profession: ehemaliger Hotelier, Krippenbaummeister
+  exponateanzahl_ca: 2200
+  exponateanzahl_stand: 2014
+  eigene_krippen_gestaltung: ja
+  weihnachtstourismus_auslöser: ja
+  weihnachtstourismus_beginn: späte 1990er Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verein
+BEZEICHNUNG: FC Waldbreitbach
+EIGENSCHAFTEN:
+  sportart: Fußball
+  gegründet_jahr: 1982
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1982
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verein
+BEZEICHNUNG: Junggesellenclub "Gemütlichkeit" Waldbreitbach e.V.
+EIGENSCHAFTEN:
+  funktion: Veranstalter der Kirmes
+  kirmes_monat: August
+  kirmes_attraktion: Großfeuerwerk "Wied in Flammen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verein
+BEZEICHNUNG: Kirchenchor "Cäcilia"
+EIGENSCHAFTEN:
+  gegründet_jahr: 1777
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1777
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verein
+BEZEICHNUNG: Musikverein Wiedklang
+EIGENSCHAFTEN:
+  gegründet_jahr: 1958
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1958
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verein
+BEZEICHNUNG: VfL Waldbreitbach
+EIGENSCHAFTEN:
+  gegründet_jahr: 1969
+  größe: mitgliederstärkster Waldbreitbacher Verein
+  sportarten: Turnen, Leichtathletik, Badminton, Kickboxen, Tischtennis
+  beschreibung: vielfältige Angebote im leistungs- und breitensportlichen Bereich
+  veranstaltungen: Weihnachtsbaumwerfen, WiedtalUltraTrail (WUT), Bärenkopplauf
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1969
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sportveranstaltung
+BEZEICHNUNG: Weihnachtsbaumwerfen
+EIGENSCHAFTEN:
+  veranstalter: VfL Waldbreitbach
+  charakter: spaßbetonter Werferdreikampf
+  zeitpunkt: Ende der Saison
+  zeitpunkt_context: im Weihnachtsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: sportveranstaltung
+BEZEICHNUNG: WiedtalUltraTrail (WUT)
+EIGENSCHAFTEN:
+  veranstalter: VfL Waldbreitbach
+  typ: geführter Berg- und Traillauf (Gruppenlauf)
+  distanz_km: 65
+  höhenmeter_ca: 2100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: sportveranstaltung
+BEZEICHNUNG: Bärenkopplauf
+EIGENSCHAFTEN:
+  veranstalter: VfL Waldbreitbach
+  typ: Berg- und Traillauf
+  distanz_km: 11
+  höhenmeter_anstieg: 360
+  höhenmeter_abstieg: 260
+  zusatz: Bärchenlauf für Kinder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: verein
+BEZEICHNUNG: Männergesangverein "Wiedperle"
+EIGENSCHAFTEN:
+  gegründet_jahr: 1924
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1924
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verein
+BEZEICHNUNG: "Bräpe Jonge"
+EIGENSCHAFTEN:
+  funktion: Pflege und Unterhaltung alten Brauchtums
+  aktivitäten: restauriert historische Stätten, unterstützt Junggesellenverein zur Kirmes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: verein
+BEZEICHNUNG: St. Sebastianus Schützenbruderschaft
+EIGENSCHAFTEN:
+  gegründet_jahr: 1864
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1864
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verein
+BEZEICHNUNG: Karnevalsgesellschaft "Brave Jonge"
+EIGENSCHAFTEN:
+  funktion: Erhaltung des Brauchtums und Sitzungskarneval
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: verein
+BEZEICHNUNG: Gewerbeverband Waldbreitbach
+EIGENSCHAFTEN:
+  zusammensetzung: Betriebe, Gewerbetreibende, freiberuflich Tätige
+  ziel: wirtschaftliche Aktivitäten in Waldbreitbach und mittlerem Wiedtal stärken und fördern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: verkehrsweg
+BEZEICHNUNG: Landesstraße 255
+EIGENSCHAFTEN:
+  verbindung_zu: Neuwied, Neustadt (Wied), Asbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Autobahnanschlüsse
+EIGENSCHAFTEN:
+  anschlüsse: Neuwied, Neustadt/Wied
+  autobahn: Bundesautobahn 3 (A3)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bahnhaltepunkt
+BEZEICHNUNG: Bad Hönningen
+EIGENSCHAFTEN:
+  distanz_nächst: ja
+  strecke: rechte Rheinstrecke
+  zufahrt_richtung: von Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: schnellfahrstrecke
+BEZEICHNUNG: Schnellfahrstrecke Köln–Rhein/Main
+EIGENSCHAFTEN:
+  lage: nordöstlich des Ortes
+  nächste_bahnhöfe: Montabaur, Siegburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person_historisch
+BEZEICHNUNG: Rosa Flesch
+EIGENSCHAFTEN:
+  geburtsjahr: 1826
+  todesjahr: 1906
+  eigentlicher_name: Margaretha Flesch
+  rolle: Gründerin
+  gegründet_was: Orden der Waldbreitbacher Franziskanerinnen
+  gegründet_wo: Marienhaus
+  seligsprechung: 2008
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1826
+GUELTIG_BIS: 1906
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person_historisch
+BEZEICHNUNG: Reinhold Wirtz
+EIGENSCHAFTEN:
+  geburtsjahr: 1842
+  todesjahr: 1898
+  beruf: Architekt
+  tätigkeit: Baumeister des Bistums Trier
+  werke: Neubau Langhaus Pfarrkirche Maria Himmelfahrt (1876-1878)
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1842
+GUELTIG_BIS: 1898
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person_historisch
+BEZEICHNUNG: Paul-Georg Schmidt
+EIGENSCHAFTEN:
+  geburtsjahr: 1902
+  todesjahr: 1987
+  beruf: Chefarzt
+  ort_der_tätigkeit: Lungenheilstätte
+  amtszeit: 1937-1961
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1987
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Pierre Fischer
+EIGENSCHAFTEN:
+  geburtsjahr: 1995
+  beruf: Politiker
+  partei: CDU
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1995
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person_handwerker
+BEZEICHNUNG: Johannes Berdaller
+EIGENSCHAFTEN:
+  beruf: Glockengießer
+  tätigkeitsjahr: 1694
+  herkunftsort: Koblenz-Ehrenbreitstein
+  werk: Glocke der Pfarrkirche Maria Himmelfahrt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person_herrschaft
+BEZEICHNUNG: Hermann Fürst zu Wied
+EIGENSCHAFTEN:
+  erwerber_deutschordenshaus: 1809
+  anwesen_kaufzweck: Privatbesitz
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person_historisch
+BEZEICHNUNG: Peter Wirth
+EIGENSCHAFTEN:
+  gründer_ordre: Franziskanerbrüder vom Heiligen Kreuz
+  gründungsjahr_ordre: 1862
+  gründungsort_ordre: Waldbreitbach (Eremitenklausen Kreuzkapelle)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person_historisch
+BEZEICHNUNG: Gustel Hertling
+EIGENSCHAFTEN:
+  beruf: ehemaliger Hotelier, Krippenbaummeister
+  sammlung: Krippen
+  exponateanzahl_ca: 2200
+  sammlung_exponatestand: 2014
+  eigene_werke: Krippen-Gestaltungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person_regelungsbehörde
+BEZEICHNUNG: Philipp I. von Heinsberg
+EIGENSCHAFTEN:
+  titel: Kölner Kurfürst und Erzbischof
+  amtszeit: 1167-1191
+  hist_aktion: Heiratsgabe Breitbacher Land an Sayn
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1167
+GUELTIG_BIS: 1191
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person_regelungsbehörde
+BEZEICHNUNG: Heinrich III. von Sayn
+EIGENSCHAFTEN:
+  titel: Gemahl der Mechthild
+  amtszeit: 1202-1246
+  erbschaftskrieg: Breitbacher Land fiel 1250 wieder an Kurköln
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1202
+GUELTIG_BIS: 1246
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: person_regelungsbehörde
+BEZEICHNUNG: Mechthild von Sayn
+EIGENSCHAFTEN:
+  rolle: Gemahl von Heinrich III. von Sayn
+  beschreibung: Breitbach-Tal-Beschreibung in ihren Worten überliefert
+  willen_genannt: Deutscher Orden Waldbreitbach
+  epoche_genannt: Vor-Mechthild-Zeit
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person_regelungsbehörde
+BEZEICHNUNG: Clemens August
+EIGENSCHAFTEN:
+  titel: Kölner Erzbischof
+  hist_aktion: Ende der Pfandschaften-Zeit
+  zeitraum_änderung: Mitte 17. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: deutscher_orden
+BEZEICHNUNG: Komturei Waldbreitbach
+EIGENSCHAFTEN:
+  gegründet: mit Willen der Mechthild von Sayn
+  zuordnung_ab: 1313 dem Deutschmeister zu Mergentheim
+  verlagerung: 1602 auf Ballei Koblenz
+  patronat: Pfarrkirche (Johannes Baptista, später Beata Maria Virgo)
+GUELTIG_AB: 1313
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: gericht
+BEZEICHNUNG: Weltliches Gericht Waldbreitbach
+EIGENSCHAFTEN:
+  zeitpunkt_etablierung: Spätmittelalter
+  ablösung: ursprünglich kirchliches Gericht
+  aufhebung_und_verlagerung: Mitte 19. Jahrhundert nach Neuwied
+  grund_aufhebung: großer Widerstand der Bevölkerung
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Erzbergbau
+EIGENSCHAFTEN:
+  aktivität_zeitraum: Spätmittelalter
+  ausmaß: beachtlich
+  aktive_träger: Deutscher Orden
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Landwirtschaft
+EIGENSCHAFTEN:
+  charakterisierung: durchgängig vorhandene Landwirtschaft
+  rückgang_zeitraum: 1960er Jahre
+  betriebe_2010: 6
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Fremdenverkehr
+EIGENSCHAFTEN:
+  entwicklung_zeitpunkt: Wende zum 20. Jahrhundert
+  grund: zunehmende wirtschaftliche Not
+  charakterisierung: bleibend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: infrastruktur_gebilde
+BEZEICHNUNG: Westerwaldklinik
+EIGENSCHAFTEN:
+  lage: im Bereich Aussichtspunkte Waldbreitbach
+  nutzung_tourismus: Rundwanderwege erschließen Aussichtspunkte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

@@ -1,0 +1,1191 @@
+ENTITÄT: ort
+BEZEICHNUNG: Bendorf
+EIGENSCHAFTEN:
+  ist_verbandsfreie_stadt: true
+  landkreis: Mayen-Koblenz
+  bundesland: Rheinland-Pfalz
+  lage: rechtsrheinisch zwischen Koblenz und Neuwied
+  landesplanung_auszeichnung: Mittelzentrum
+  liegt_an: Deutsche Limes-Straße
+  jahresniederschlag_mm: 658
+  ortsname_ersterwähnung: 1064
+  ortsname_form_ersterwähnung: Bethindorf
+  namensherkunft: germanischer Personenname (Bado oder Batto)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Sayn
+EIGENSCHAFTEN:
+  stadtteile_bendorf: ja
+  eingemeindet: 1928-10-01
+  mit_ortsteil: Mülhofen
+GUELTIG_AB: 1928
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Mülhofen
+EIGENSCHAFTEN:
+  stadtteil_bendorf: ja
+  ursprünglich_gemeinde: Sayn (mit Mülhofen)
+  eingemeindet: 1928-10-01
+  grund_eingemeinderung: wirtschaftliche Probleme
+  industrie: Bendorfer Eisenhütten
+  wirtschaftsstruktur: industrielle Monokultur
+GUELTIG_AB: 1928
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Stromberg
+EIGENSCHAFTEN:
+  stadtteil_bendorf: ja
+  eingemeindet: 1974-03-16
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Albrechtshof
+ORTSTEIL_BEZUG: Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Meisenhof
+ORTSTEIL_BEZUG: Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Ziegelei
+ORTSTEIL_BEZUG: Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Sonnenhof
+ORTSTEIL_BEZUG: Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Hof Zwei Tannen
+ORTSTEIL_BEZUG: Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kastell
+BEZEICHNUNG: Kastell Bendorf
+EIGENSCHAFTEN:
+  lage: Obergermanischer Limes
+  erhaltung: nichts mehr zu sehen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Großbrand von Bendorf
+EIGENSCHAFTEN:
+  datum: 1743-07-31
+  uhrzeit: gegen fünf Uhr nachmittags
+  ort: östlicher Teil der Gemeinde
+  grund_vermutlich: Branntweinbrennerei oder Forsthaus in Steinstraße
+  zerstörte_häuser: 77
+  zerstörte_scheunen: 44
+  zerstörte_ställe: 61
+  zerstörte_kelterhäuser: 24
+  gebäude_gesamt: 206
+  bewohnte_ortshälfte_zerstört: nördliche Hälfte
+  familien_obdachlos: 70
+  personen_obdachlos: ca. 200-300
+  genauigkeit_personen: "ca."
+  zerstörte_waren: Heu, Getreide, 1700 Fässer Wein
+  rettungen: Vieh und Menschen
+  beschreibung: Katastrophe aufgrund von Stadtmauer, enger Bebauung, Strohdächer
+GUELTIG_AB: 1743
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche (ehemals St. Medardus)
+EIGENSCHAFTEN:
+  historische_form: dreischiffige gewölbte Pfeilerbasilika
+  zerstörung: 1944
+  kriegsschäden: größtenteils zerstört
+  neubau_zeitraum: 1954-1956
+  architekt: Wolfgang Mentzel
+  baustil: Architektur der 1950er Jahre
+  ursprüngliche_altarorientierung: Westen
+  aktuelle_altarorientierung: Osten (seit Mitte 1990er)
+  fresko_zeitpunkt: 13. Jahrhundert
+  fresko_motiv: Christus als Weltenrichter mit Evangelistensymbolen
+  fresko_zustand: stark restauriert
+  raumverhältnis: steht rechtwinklig zur kath. Pfarrkirche St. Medardus
+GUELTIG_AB: 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche St. Medardus
+EIGENSCHAFTEN:
+  bauzeitraum: 1864-1867
+  architekt: Hermann Nebel (Koblenz)
+  baustil: neoromanisch
+  bauform: dreischiffige Basilika mit Querhaus
+  vorgängerbau_zeitpunkt: 1790
+  bemalung_zeitpunkt: um 1870
+  bemalung_ort: Apsis
+  bemalung_freilegung: 2008
+  trägt: Reichardsmünster
+GUELTIG_AB: 1864
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Reichardsmünster
+ORTSTEIL_BEZUG: Bendorf
+EIGENSCHAFTEN:
+  bauform: Doppelkapelle
+  türme: zwei kleine Südtürme
+  bauplastik: bemerkenswert
+  anbringung: um 1230 angebaut an südliche Seitenschiffe und Südturm der evangelischen Kirche
+  südwand_öffnung: 1864/67 zur katholischen Pfarrkirche geöffnet
+  orgelempore: in das Innere eingebaut 1864/67
+GUELTIG_AB: 1230
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gemeindesaal
+BEZEICHNUNG: Evangelischer Gemeindesaal
+EIGENSCHAFTEN:
+  vorgängerbau: reformierte Kirche
+  vorgängerbau_zeitpunkt: 1775
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Haus Remy
+EIGENSCHAFTEN:
+  adresse: Untere Vallendarer Straße 19
+  erbaut: 1747
+  besucher_berühmt: Johann Wolfgang von Goethe
+  goethe_besuch_datum: 1774-07-18
+  goethe_reiseroute: Bad Ems nach Neuwied
+GUELTIG_AB: 1747
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Rheinisches Eisenkunstguss-Museum
+EIGENSCHAFTEN:
+  themen: Geschichte des Bergbaus und Eisenhüttenwesens in Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Sayn
+ORTSTEIL_BEZUG: Sayn
+EIGENSCHAFTEN:
+  baustil: neugotisch
+  umbau_zeitpunkt: um 1850
+  ursprung: mittelalterlich-barocker Adelssitz
+  charakter: repräsentativ
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: burgruine
+BEZEICHNUNG: Burg Sayn
+ORTSTEIL_BEZUG: Sayn
+EIGENSCHAFTEN:
+  zeitpunkt_errichtung: 12. Jahrhundert
+  zustand: zum Teil renoviert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: abtei
+BEZEICHNUNG: Ehemalige Prämonstratenserabtei Sayn
+ORTSTEIL_BEZUG: Sayn
+EIGENSCHAFTEN:
+  kirche_baustil: romanisch
+  chor_baustil: gotisch
+  kreuzgang_baustil: romanisch
+  kreuzgang_besonderheit: mit Brunnenhaus
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Kemperhof
+ORTSTEIL_BEZUG: Sayn
+EIGENSCHAFTEN:
+  adresse: Koblenz-Olper-Straße 39
+  historische_nutzung: Jacoby'sche Heil- und Pflegeanstalt für Nerven- und Gemütskranke
+  nutzungszeitraum: 1870-1940
+  zweite_nutzung: Gedenkstätte als Ort des Holocausts
+  holocaust_zeitpunkt: 1940-1942
+  zusätzlich: Gräber auf dem Sayner Judenfriedhof
+GUELTIG_AB: 1870
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: hütte
+BEZEICHNUNG: Sayner Hütte
+ORTSTEIL_BEZUG: Sayn
+EIGENSCHAFTEN:
+  zeit_industrie: 18. Jahrhundert
+  gebäude: Gießhaus und Nebengebäude
+  ursprung: preußische Eisenhütte
+  auszeichnung: 2007 nominiert für Historisches Wahrzeichen der Ingenieurbaukunst in Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: arbeiterhaus
+ORTSTEIL_BEZUG: Bendorf
+EIGENSCHAFTEN:
+  periode: 19. Jahrhundert
+  stil: Friedensreich Hundertwasser
+  zustand: umgebaut
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Größte Eierkrone der Welt
+EIGENSCHAFTEN:
+  aufstellung_zeitpunkt: jährlich
+  event: Kirmes (Patronatsfest des hl. Medardus)
+  event_zeitpunkt: zweiter Sonntag nach Pfingsten
+  ort_aufstellung: Kirchplatz
+  superlativ: größte Eierkrone der Welt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: markt
+BEZEICHNUNG: Großer Weihnachtsmarkt
+EIGENSCHAFTEN:
+  zeitpunkt: Weihnachtszeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: hafen
+BEZEICHNUNG: Rheinhafen Bendorf
+EIGENSCHAFTEN:
+  errichtung: 1900
+  umschlag: Ton und Basalt
+  besonderheit: größtes Mineralöllager zwischen Mainz und Köln
+  betreiber_mineralöl: Oiltanking
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Oiltanking
+EIGENSCHAFTEN:
+  standort: Bendorf
+  tätigkeit: Mineralöllagerbetrieb
+  tanks: 22
+  gesamtvolumen_kubikmeter: über 150000
+  lage_bedeutung: größtes Mineralöllager zwischen Mainz und Köln
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sender
+BEZEICHNUNG: Sender Bendorf-Vierwindenhöhe
+EIGENSCHAFTEN:
+  ort: Vierwindenhöhe
+  programm: UKW-Radio
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verlag
+BEZEICHNUNG: Verlag an der Isenburg
+EIGENSCHAFTEN:
+  standort: Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: werbegemeinschaft
+BEZEICHNUNG: Blickpunkt Bendorf
+EIGENSCHAFTEN:
+  mitglieder: Gewerbetreibende der Stadt Bendorf
+  ziel: Standortförderung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: grube
+BEZEICHNUNG: Brauneisensteingrube Trierische Loh
+EIGENSCHAFTEN:
+  rohstoff: Brauneisenstein
+  verwendung: Erz für Bendorfer Hütten
+  zeit_nutzung: 18. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Bendorf (Rhein)
+EIGENSCHAFTEN:
+  bahnstrecke: Engers–Au (Brexbachtalbahn)
+  inbetriebnahme: 1884
+  personenverkehr_eingestellt: 1989
+  güterverkehr_eingestellt: 1994
+  touristischer_sonderverkehr: Eifelbahn
+  stationen_touristik: Bendorf-Sayn, Kletterwald, Pfadfinderlager
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bahnhaltepunkt_geplant
+BEZEICHNUNG: Bahnhaltepunkt Bendorf (geplant)
+EIGENSCHAFTEN:
+  lage: rechte Rheinstrecke am Bahnübergang Rheinstraße
+  baukosten_euro: 1500000
+  kosten_genauigkeit: "geschätzt"
+  status: Stationsoffensive Rheinland-Pfalz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Deutscher Limes-Radweg
+EIGENSCHAFTEN:
+  länge_km: 818
+  start: Bad Hönningen am Rhein
+  ziel: Regensburg an der Donau
+  verlauf: folgt dem Obergermanisch-Raetischen Limes
+  durchquerung: Bendorf und Stadtteil Sayn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: radweg
+BEZEICHNUNG: Rhein-Radweg
+EIGENSCHAFTEN:
+  start: Oberalppass in Schweizer Alpen
+  ziel: Rotterdam
+  länder_durchquerung: fünf Staaten
+  verlauf: am Rheinufer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Wilhelm-Remy-Gymnasium
+EIGENSCHAFTEN:
+  schulart: Staatliches Gymnasium
+  besonderheit: Integration körperbehinderter Schüler
+  träger: Landkreis Mayen-Koblenz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Karl-Fries-Schule
+EIGENSCHAFTEN:
+  schulart: Realschule plus
+  träger: Landkreis Mayen-Koblenz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Medardus-Schule
+EIGENSCHAFTEN:
+  schulart: Grundschule
+  zuständigkeit: Stadtteil Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Bodelschwingh-Schule
+EIGENSCHAFTEN:
+  schulart: Grundschule
+  zuständigkeit: Stadtteile Sayn und Mülhofen
+  besonderheit: Schwerpunktschule mit erweitertem pädagogischen Auftrag zur Inklusion beeinträchtigter Kinder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Stromberg
+EIGENSCHAFTEN:
+  schulart: Grundschule
+  zuständigkeit: Stadtteil Stromberg
+  träger: Stadt Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Theodor-Heuss-Schule
+EIGENSCHAFTEN:
+  schulart: Förderschule
+  schwerpunkt: Lernen
+  träger: Landkreis Mayen-Koblenz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: volkshochschule
+BEZEICHNUNG: Volkshochschule Bendorf
+EIGENSCHAFTEN:
+  träger: Stadt Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Kirmes- und Karnevalsgesellschaft (KuK)
+EIGENSCHAFTEN:
+  aktivitäten: Organisation Karneval, alljährliche Kirmes
+  partnerschaft: Bendorfer Narrenzunft
+  event_patron: Patronatsfest des hl. Medardus
+  event_zeitpunkt: zweiter Sonntag nach Pfingsten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Bendorfer Narrenzunft
+EIGENSCHAFTEN:
+  aktivitäten: Karneval
+  partnerschaft: Kirmes- und Karnevalsgesellschaft (KuK)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: TS Bendorf
+EIGENSCHAFTEN:
+  sportarten: Turnen, Kampfsport, Leichtathletik, Handball
+  herrenmannschaft: Rheinlandliga Handballverband Rheinland
+  aufstieg_saison: 2011/12
+  spielbetrieb_ab_saison: 2012/13
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Bendorf
+EIGENSCHAFTEN:
+  gründung: 1934 als Amtswehr aus Bendorf, Mülhofen, Sayn
+  zusammensetzung: Löschzüge Bendorf, Mülhofen, Sayn, Stromberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Ortsverband Technisches Hilfswerk
+EIGENSCHAFTEN:
+  organisation: Bundesanstalt Technisches Hilfswerk
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gemeinde
+BEZEICHNUNG: Yzeure
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Auvergne-Rhône-Alpes
+  partnerschaft_bendorf_seit: 1986
+  partnerschaftsplatz_yzeure: Place de Bendorf
+  partnerschaftsplatz_bendorf: Yzeurer Platz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bürgermeister
+DESIGNIERTER_NAME: Christoph Mohr
+EIGENSCHAFTEN:
+  partei: SPD
+  amtsantritt: 2021-01-01
+  wahl_datum: 2020-09-27
+  wahl_typ: Direktwahl
+  stimmenanteil_prozent: 56.9
+  gegner: Sascha Schoblocher (CDU)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bürgermeister
+DESIGNIERTER_NAME: Michael Kessler
+EIGENSCHAFTEN:
+  partei: CDU
+  beruf: Jurist
+  amtsantritt: 2015
+  amtsende: 2020-12-31
+  grund_amtsende: Gesundheit
+  wahl_datum: 2014-06-15
+  stimmenanteil_prozent: 54.6
+GUELTIG_AB: 2015
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bürgermeister
+DESIGNIERTER_NAME: Michael Syré
+EIGENSCHAFTEN:
+  partei: CDU
+  wahl_datum: 2006-09-10
+  stimmenanteil_prozent: 53.4
+  abwahlverfahren_datum: 2011-07-27
+  abwahlverfahren_beschluss: Stadtrat mit ¾-Mehrheit
+  bürgerentscheid_datum: 2011-09-25
+  bürgerentscheid_teilnahmequote_prozent: 34
+  bürgerentscheid_abwahl_stimmen_prozent: 65.4
+  bürgerentscheid_abwahl_stimmen_absolut: 2820
+  erforderlich_abwahl_prozent_wahlberechtigter: über 30
+  erforderlich_abwahl_absolut: mindestens 3794
+  abwahlverfahren_ergebnis: gescheitert
+GUELTIG_AB: 2006
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtrat
+EIGENSCHAFTEN:
+  mitglieder_ehrenamtlich: 32
+  mitglieder_hauptamtlich: 1 (Bürgermeister)
+  wahl_datum: 2024-06-09
+  wahlsystem: personalisierte Verhältniswahl
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: konfessionsverteilung
+EIGENSCHAFTEN:
+  erhebung_datum_1: 2005-06-30
+  katholisch_prozent_2005: 54.0
+  evangelisch_prozent_2005: 19.2
+  konfessionslos_andere_prozent_2005: 26.8
+  erhebung_datum_2: 2026-03
+  katholisch_prozent_2026: 35.0
+  evangelisch_prozent_2026: 13.6
+  konfessionslos_andere_prozent_2026: 51.4
+  trend: rückgang kirchenmitglieder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Wilhelm Remy
+EIGENSCHAFTEN:
+  geburtsjahr: 1702
+  todesjahr: 1761
+  beruf: Kaufmann und Montanunternehmer
+GUELTIG_AB: 1702
+GUELTIG_BIS: 1761
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Ferdinand Remy
+EIGENSCHAFTEN:
+  geburtsjahr: 1788
+  todesjahr: 1848
+  beruf: Kommerzienrat und Eisenwerkbesitzer
+GUELTIG_AB: 1788
+GUELTIG_BIS: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Ernst Friedrich Althans
+EIGENSCHAFTEN:
+  geburtsjahr: 1828
+  todesjahr: 1899
+  geburtsort: Ortsteil Sayn
+  beruf: preußischer geheimer Bergrat
+GUELTIG_AB: 1828
+GUELTIG_BIS: 1899
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Albrecht Erlenmeyer
+EIGENSCHAFTEN:
+  geburtsjahr: 1849
+  todesjahr: 1926
+  beruf: Psychiater
+GUELTIG_AB: 1849
+GUELTIG_BIS: 1926
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Gustav Braubach
+EIGENSCHAFTEN:
+  geburtsjahr: 1854
+  todesjahr: 1946
+  beruf: Hochofenchef der Concordiahütte
+  besitz_zeit: vor dem Ersten Weltkrieg
+  besitz: Rothen Mühle (Sayn)
+GUELTIG_AB: 1854
+GUELTIG_BIS: 1946
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Johannes Franck
+EIGENSCHAFTEN:
+  geburtsjahr: 1854
+  todesjahr: 1914
+  beruf: Germanist und Hochschullehrer
+GUELTIG_AB: 1854
+GUELTIG_BIS: 1914
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Karl Brosius
+EIGENSCHAFTEN:
+  geburtsjahr: 1855
+  todesjahr: 1920
+  beruf: preußischer Generalleutnant
+GUELTIG_AB: 1855
+GUELTIG_BIS: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Carl Ferdinand Mischke
+EIGENSCHAFTEN:
+  geburtsjahr: 1856
+  todesjahr: 1926
+  beruf: Ingenieur und Mitglied des Preußischen Abgeordnetenhauses
+GUELTIG_AB: 1856
+GUELTIG_BIS: 1926
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Richard Remy
+EIGENSCHAFTEN:
+  geburtsjahr: 1859
+  todesjahr: 1919
+  beruf: Bergwerksdirektor in Schlesien, MdHH
+GUELTIG_AB: 1859
+GUELTIG_BIS: 1919
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Theodor Wiegand
+EIGENSCHAFTEN:
+  geburtsjahr: 1864
+  todesjahr: 1936
+  beruf: Archäologe
+GUELTIG_AB: 1864
+GUELTIG_BIS: 1936
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Hermann Junker
+EIGENSCHAFTEN:
+  geburtsjahr: 1877
+  todesjahr: 1962
+  beruf: Ägyptologe und katholischer Priester
+GUELTIG_AB: 1877
+GUELTIG_BIS: 1962
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Erik Reger
+EIGENSCHAFTEN:
+  geburtsjahr: 1893
+  todesjahr: 1954
+  geburtsname: Hermann Dannenberger
+  beruf: Schriftsteller
+  auszeichnung: Kleist-Preis
+GUELTIG_AB: 1893
+GUELTIG_BIS: 1954
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Georg Bauer
+EIGENSCHAFTEN:
+  geburtsjahr: 1900
+  todesjahr: 1983
+  partei: SPD
+  funktion: MdL Rheinland-Pfalz
+  ehrenbürger: Bendorf
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Elfriede Balzar-Kopp
+EIGENSCHAFTEN:
+  geburtsjahr: 1904
+  todesjahr: 1983
+  beruf: Keramikerin und Kunsthandwerkerin
+GUELTIG_AB: 1904
+GUELTIG_BIS: 1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Josef Casper
+EIGENSCHAFTEN:
+  geburtsjahr: 1906
+  todesjahr: 1951
+  beruf: Gelehrter und Autor
+GUELTIG_AB: 1906
+GUELTIG_BIS: 1951
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Carl-Gideon von Claer
+EIGENSCHAFTEN:
+  geburtsjahr: 1912
+  todesjahr: 1996
+  beruf: Offizier und Redakteur des Spiegel
+GUELTIG_AB: 1912
+GUELTIG_BIS: 1996
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Alfred Schöneberg
+EIGENSCHAFTEN:
+  geburtsjahr: 1921
+  todesjahr: 2006
+  beruf: SS-Unterscharführer
+GUELTIG_AB: 1921
+GUELTIG_BIS: 2006
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Hildegard Ramdohr
+EIGENSCHAFTEN:
+  geburtsjahr: 1925
+  todesjahr: 2023
+  ehrenbürger_von: Aschersleben
+  grund_ehrenbürgerschaft: Engagement für historische Bausubstanz von Aschersleben
+GUELTIG_AB: 1925
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Karl Haehser
+EIGENSCHAFTEN:
+  geburtsjahr: 1928
+  todesjahr: 2012
+  partei: SPD
+  funktion: Politiker
+GUELTIG_AB: 1928
+GUELTIG_BIS: 2012
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Hans Werner Kettenbach
+EIGENSCHAFTEN:
+  geburtsjahr: 1928
+  todesjahr: 2018
+  pseudonym: Christian Ohlig
+  beruf: Journalist, Schriftsteller und Drehbuchautor
+GUELTIG_AB: 1928
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Manfred Backerra
+EIGENSCHAFTEN:
+  geburtsjahr: 1936
+  beruf: Oberst
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Hans Müller
+EIGENSCHAFTEN:
+  geburtsjahr: 1949
+  partei: SPD
+  funktion: Mitglied schleswig-holsteinisches Landtag
+  amtszeit: 2005-2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Birgit Wöllert
+EIGENSCHAFTEN:
+  geburtsjahr: 1950
+  partei: Die Linke
+  funktion: Politikerin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Franz Schultheis
+EIGENSCHAFTEN:
+  geburtsjahr: 1953
+  beruf: Soziologe und Professor
+  lehrstelle: St. Gallen (Schweiz)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Werner Jakob Stüber
+EIGENSCHAFTEN:
+  geburtsjahr: 1952
+  beruf: Kulturwissenschaftler, Professor und Hochschulrektor
+  tätigkeitsbereich: internationale Hochschulentwicklung
+  gearbeitet_in: Asien, Afrika, Naher Osten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Manfred Pohlmann
+EIGENSCHAFTEN:
+  geburtsjahr: 1955
+  beruf: Liedermacher
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Andreas Meitzner
+EIGENSCHAFTEN:
+  geburtsjahr: 1956
+  beruf: Diplomat und Botschafter
+  botschafter_land: Königreich Dänemark
+  botschafter_zeitpunkt: aktuell
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Rainer Neutzling
+EIGENSCHAFTEN:
+  geburtsjahr: 1959
+  beruf: Journalist, Autor und Soziologe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Roger Schmidt
+EIGENSCHAFTEN:
+  geburtsjahr: 1959
+  beruf: Karikaturist und Cartoonist
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Sebastian Linnerz
+EIGENSCHAFTEN:
+  geburtsjahr: 1959
+  beruf: Grafikdesigner
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Dirk Henn
+EIGENSCHAFTEN:
+  geburtsjahr: 1960
+  beruf: Spieleautor und -verleger
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Jörg Michael Peters
+EIGENSCHAFTEN:
+  geburtsjahr: 1960
+  beruf: Weihbischof von Trier
+  tätigkeit_bendorf: Kaplan in Bendorf (St. Medard)
+  tätigkeit_weitersburg: Kaplan in Weitersburg (St. Marien)
+  tätigkeit_zeitraum: 1987-1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Roland Bernecker
+EIGENSCHAFTEN:
+  geburtsjahr: 1961
+  beruf: Generalsekretär der Deutschen UNESCO-Kommission
+  amtsantritt: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Dirk Höfer
+EIGENSCHAFTEN:
+  geburtsjahr: 1961
+  beruf: Humanbiologe und Hochschullehrer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Georg Klein
+EIGENSCHAFTEN:
+  geburtsjahr: 1961
+  beruf: Brigadegeneral des Heeres der Bundeswehr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Helmut Dieser
+EIGENSCHAFTEN:
+  geburtsjahr: 1962
+  beruf: Bischof von Aachen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Miriam Kilali
+EIGENSCHAFTEN:
+  geburtsjahr: 1965
+  beruf: bildende Künstlerin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Eduard Werner
+EIGENSCHAFTEN:
+  geburtsjahr: 1966
+  beruf: Slawist
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Jutta Nardenbach
+EIGENSCHAFTEN:
+  geburtsjahr: 1968
+  todesjahr: 2018
+  beruf: Fußballspielerin
+GUELTIG_AB: 1968
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Alexander Müller
+EIGENSCHAFTEN:
+  geburtsjahr: 1969
+  partei: FDP
+  funktion: Mitglied des Bundestages
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Joachim Paul
+EIGENSCHAFTEN:
+  geburtsjahr: 1970
+  partei: AfD
+  funktion: Mitglied des Landtags von Rheinland-Pfalz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Martin Ramm FSSP
+EIGENSCHAFTEN:
+  geburtsjahr: 1971
+  beruf: römisch-katholischer Priester
+  orden: Priesterbruderschaft St. Petrus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Jan Oster
+EIGENSCHAFTEN:
+  geburtsjahr: 1978
+  beruf: Jurist
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Jennifer Groß
+EIGENSCHAFTEN:
+  geburtsjahr: 1986
+  partei: CDU
+  funktion: Politikerin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Stefan Haben
+EIGENSCHAFTEN:
+  geburtsjahr: 1987
+  beruf: Fußballspieler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

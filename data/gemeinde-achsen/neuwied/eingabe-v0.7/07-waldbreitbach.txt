@@ -1,0 +1,2063 @@
+ZIELORT: Waldbreitbach (Gemeinde)
+LAGE: 25 km nordwestlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Waldbreitbach
+
+GRUNDDATEN:
+  landkreis: Neuwied  [dewiki Infobox]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 1924  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 6,39  [Wikidata P2046]
+  dichte_ew_km2: 301  [berechnet aus Einwohner und Fläche]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 140 | 114 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2815138)]
+  naechste_grossstadt: Koblenz, 25 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 88 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  ersterwaehnung: 857  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  plz: 56588  [Wikidata P281]
+  vorwahl: 02638  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 43,8 %, AfD 16,4 %, SPD 15 %, GRÜNE 9 %, Die Linke 5,6 %; Wahlbeteiligung 79,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Monika Kukla (WfW) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-02]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT ersterwaehnung: Jahr der ersten Erwähnung (Ersatz: Fläche der Gemarkung), C-LEITER, letzte Stufe mit "höher": 2
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Landkreis), C, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Dierdorf (Stadt)
+  landkreis: Neuwied  [dewiki Infobox]
+  einwohner: 6162  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 31,98  [Wikidata P2046; Altbestand staedte.json]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 240 | 244  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2937280)]
+  naechste_grossstadt: Koblenz, 22 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  ersterwaehnung: 1204  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 30,4 %, AfD 27,1 %, SPD 16 %, GRÜNE 6 %, Die Linke 5,5 %, FDP 5,1 %, BSW 5,1 %; Wahlbeteiligung 82,4 % — GILT FÜR DIE VERBANDSGEMEINDE DIERDORF  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Bendorf, Engers, Heimbach-Weis, Altwied, Rengsdorf, Dierdorf, Waldbreitbach, Linz am Rhein, Bad Hönningen, Leutesdorf
+
+FAKTEN (Zielort Waldbreitbach):
+ID: 07-waldbreitbach/001
+ENTITÄT: ort
+BEZEICHNUNG: Waldbreitbach
+EIGENSCHAFTEN:
+  ist_ortsgemeinde: true
+  ist_luftkurort: true
+  lage_gewässer: an der Wied
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  verbandsgemeinde: Rengsdorf-Waldbreitbach
+  naturpark: Rhein-Westerwald
+  entfernung_neuwied_km: 16
+  entfernung_richtung_neuwied: nördlich
+  lage_autobahn: westlich Anschlussstelle 36 A3
+  erste_urkundliche_erwaehnung_jahr: 857
+  historische_schreibweise: Bretpah
+  namensursprung: Tal Breitbach, in dem sich die beiden Breitbach ausgebildet hatten
+  geschichtliche_herkunftsregion: Thüringisches Streubesitz am Rhein
+  politische_abfolge_ab1250: kurkölnische Oberhoheit als Amt Neuerburg
+  pfandschaften_charakterisierung: Mittelalter gekennzeichnet durch ständig wiederholende kölnische Pfandschaften
+  pfandschaften_ende: Mitte 17. Jahrhundert unter Erzbischof Clemens August
+  oberhoheit_ende: 1803 runkel-wiedisch
+  nassauische_periode: 1806-1815
+  preussische_periode_ab: 1815
+  fremdenverkehr_oeffnung_wende: zu 20. Jahrhundert
+  landwirtschaftliche_betriebe_2010: 6
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 07-waldbreitbach/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Heilstätte Antoniushaus
+ORTSTEIL_BEZUG: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gasbitze
+ORTSTEIL_BEZUG: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Glockscheid
+ORTSTEIL_BEZUG: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gutshof
+ORTSTEIL_BEZUG: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kloster Marienhaus
+ORTSTEIL_BEZUG: Glockscheid
+EIGENSCHAFTEN:
+  nutzung: Kloster
+  orden_gründerin: Rosa Flesch
+  ordensgemeinde: Waldbreitbacher Franziskanerinnen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Over
+ORTSTEIL_BEZUG: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/008
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rabental
+ORTSTEIL_BEZUG: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/009
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schloß Walburg
+ORTSTEIL_BEZUG: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/010
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wüscheid
+ORTSTEIL_BEZUG: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/011
+ENTITÄT: kirche
+BEZEICHNUNG: Maria Himmelfahrt
+EIGENSCHAFTEN:
+  historische_namen: Johannes Baptista, Beata Maria Virgo
+  gegründet_von: Deutscher Orden
+  gegründet_zeitraum: 13. Jahrhundert
+  turm_ursprung: 13. Jahrhundert
+  turm_beschreibung: mit ionischen Säulen unterteilten Doppelarkaden im Obergeschoss
+  glocke_gegossen: 1694
+  glocke_gegossen_von: Johannes Berdaller
+  glocke_gegossen_ort: Koblenz-Ehrenbreitstein
+  langhaus_neubau_nach_abriss: 1876-1878
+  langhaus_architekt: Reinhold Wirtz
+  zerstörungen: Zweiter Weltkrieg
+  sanierungen_jahre: 1950, 1976, 2012
+  sanierungen_beschreibung: Ausmaltung nach historischen Vorbildern
+  erheblichkeit: "über Treppenaufgang von Hauptstraße erreichbar"
+GUELTIG_AB: 857
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 07-waldbreitbach/012
+ENTITÄT: ordenhaus
+BEZEICHNUNG: Deutscherdenhaus (ehemaliges)
+ORTSTEIL_BEZUG: Waldbreitbach
+EIGENSCHAFTEN:
+  orden: Deutscher Orden
+  lage_rel: oberhalb der katholischen Pfarrkirche
+  erste_urkundliche_erwaehnung: 1239
+  urkundlicher_name: Deutsches Huis zu Brettbach
+  ballei: Deutschordensballei Koblenz
+  landbesitz_18jh_ca_morgen: 400
+  besitze_ab: 1809 Hermann Fürst zu Wied
+  nutzungen_chronologisch: Tochterschule, Kindergarten, Krankenambulanz, Altenheim
+  altenheim_träger: Orden der Franziskanerinnen von der allerseligsten Jungfrau Maria von den Engeln (Rosa Flesch)
+  altenheim_name: Commende Rosa-Stift
+  letzte_nutzung_bis: 1988
+  investor_erwerber: 2008 privater Investor
+  sanierungszustand_vor_2008: sanierungsbedürftig
+  umbau_jahre: 2009-2010
+  umbau_stil: Stil des 1703 errichteten frühbarocken Kernbaus
+  umbau_beachtung: denkmalpflegerische Belange
+  nutzung_nach_umbau: Wohn- und Geschäftshaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 07-waldbreitbach/013
+ENTITÄT: fachwerkhaus
+BEZEICHNUNG: Alte Schmiede
+EIGENSCHAFTEN:
+  baujahr: 1794
+  hinweis_handwerkstradition: lokale Handwerkstradition
+  zustand: einige restauriert in Privatbesitz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/014
+ENTITÄT: fachwerkhaus
+BEZEICHNUNG: Schreinerei
+EIGENSCHAFTEN:
+  tätig_seit: 1875
+  hinweis_handwerkstradition: lokale Handwerkstradition
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/015
+ENTITÄT: mühle
+BEZEICHNUNG: Ölmühle
+EIGENSCHAFTEN:
+  lage: an der Wied
+  erste_konzession: 1676
+  konzession_ausgestellt_von: Kurköln
+  zerstörung_ereignis: Hochwasser
+  zerstörung_jahr: 1680
+  wiederaufbau_jahr: 1700
+  triebwerk_material: Eichenholz
+  triebwerk_typ: Kollergans
+  superlativ: älteste im Rheinland erhaltene Ölmühle dieses Bautyps
+  betrieb_bis_jahr: 1948
+  produkte: Öle aus Leinsamen, Raps, Bucheckern und Mohn
+GUELTIG_AB: 1676
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 07-waldbreitbach/016
+ENTITÄT: museum
+BEZEICHNUNG: Handwerks- und Gewerbemuseum
+EIGENSCHAFTEN:
+  lage: neben der Ölmühle
+  gebäudetyp: Fachwerkhaus
+  gebäudealter_ca: über 300 Jahre
+  ursprungslage_abbau: Bremscheid
+  abbau_zeitraum: Mitte der 1990er Jahre
+  wiederaufbau_ort: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/017
+ENTITÄT: mühle
+BEZEICHNUNG: Mühle mit Wasserrad
+EIGENSCHAFTEN:
+  erbaujahr: 1911
+  lage_rel: ca. 100 m wiedaufwärts von Ölmühle
+  lage: Waldbreitbach
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/018
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Hohle Linde vor der Kirche
+EIGENSCHAFTEN:
+  art: Baum
+  baumtyp: Linde
+  lage: vor der Kirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/019
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Linde vor der Dorfschmiede
+EIGENSCHAFTEN:
+  art: Baum
+  baumtyp: Linde
+  lage: vor Dorfschmiede Ortsmitte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/020
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Kastanie an der Ölmühle
+EIGENSCHAFTEN:
+  art: Baum
+  baumtyp: Kastanie
+  lage: an der Ölmühle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/021
+ENTITÄT: kapelle
+BEZEICHNUNG: Kreuzkapelle
+EIGENSCHAFTEN:
+  erbaut_jahr: 1694
+  lage: Gemeindegrenze zu Hausen, Wiedufer
+  wallfahrtsort: ja
+  wallfahrtsort_periode: 18. Jahrhundert
+  bedeutung_keimzelle: Gründung zweier franziskanischer Ordensgemeinschaften
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/022
+ENTITÄT: ordensgemeinschaft
+BEZEICHNUNG: Franziskanerbrüder vom Heiligen Kreuz
+EIGENSCHAFTEN:
+  gründer: Peter Wirth
+  gründungsjahr: 1862
+  gründungsort: Waldbreitbach (Eremitenklausen Kreuzkapelle)
+  mutterhaus: Hausen
+  nutzung: verschiedene soziale Einrichtungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/023
+ENTITÄT: ordensgemeinschaft
+BEZEICHNUNG: Waldbreitbacher Franziskanerinnen
+EIGENSCHAFTEN:
+  gründerin: Rosa Flesch
+  leben_in_eremitenklausen: 1851-1860
+  eremitenklausen_ort: Kreuzkapelle
+  mutterhaus: Kloster Marienhaus
+  mutterhaus_ortsteil: Glockscheid
+  ordensgründerin_seligsprechung: 2008
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1851
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/024
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Monika Kukla
+EIGENSCHAFTEN:
+  partei: Wir für Waldbreitbach
+  amtsantritt_datum: 11. Juli 2024
+  amtsantritt_prozess: Direktwahl 9. Juni 2024
+  stimmenanteil_prozent: 56,5
+  gegner: Amtsvorgänger
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 07-waldbreitbach/025
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Martin Lerbs
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 2014
+  amtsende: 2024
+  direktwahl_2019_stimmenanteil_prozent: 70,85
+  amtsperiode_länge_jahre: 10
+GUELTIG_AB: 2014
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 07-waldbreitbach/026
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Karl Willi Engels
+EIGENSCHAFTEN:
+  amtszeit_länge_jahre: 15
+  vorgänger: Martin Lerbs
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 07-waldbreitbach/027
+ENTITÄT: gemeinderat
+BEZEICHNUNG: Gemeinderat Waldbreitbach
+EIGENSCHAFTEN:
+  ratsmitglieder_anzahl: 16
+  vorsitzende: Ortsbürgermeisterin
+  vorsitzende_status: ehrenamtlich
+  wahlart: personalisierte Verhältniswahl
+  wahl_datum: 9. Juni 2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 07-waldbreitbach/028
+ENTITÄT: infrastruktur_übernachtung
+BEZEICHNUNG: Hotels und Ferienwohnungen
+EIGENSCHAFTEN:
+  anzahl_campingplätze: 2
+  zielgruppe: Feriengäste
+  angebotene_aktivitäten: Wandern, Fahrrad, Kanu auf der Wied
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/029
+ENTITÄT: hotel
+BEZEICHNUNG: Ältestes Hotelrestaurant Waldbreitbachs
+EIGENSCHAFTEN:
+  architektur: Fachwerkerker
+  gegründet_original: 1777
+  original_name: Schankwirtschaft
+  weitere_gaststätten: ja
+  weitere_typen: Eiscafés
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1777
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/030
+ENTITÄT: wanderweg_infrastruktur
+BEZEICHNUNG: Wiedpromenade
+EIGENSCHAFTEN:
+  länge_km: 4
+  zugänglichkeit: für Gehbehinderte erschlossen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/031
+ENTITÄT: radweg
+BEZEICHNUNG: Wied-Radweg
+EIGENSCHAFTEN:
+  verlauf_start: Quelle ab Rotenhain (Westerwälder Seenplatte)
+  verlauf_ende: Mündung bei Neuwied
+  beschilderung: beschildert
+  belag: größtenteils asphaltiert bzw. gepflastert
+  trennung_motorverkehr_status: großenteils (aber nicht durchgehend, Stand 2022)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/032
+ENTITÄT: rundwanderweg
+BEZEICHNUNG: Haupt-Rundwanderwege Waldbreitbach
+EIGENSCHAFTEN:
+  länge_max_km: 15
+  zielgebiete: Kloster Marienhaus (Glockscheid), Fockenbachtal, Verscheid, Schloss Walburg, Aussichtspunkte Westerwaldklinik
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/033
+ENTITÄT: wanderweg
+BEZEICHNUNG: Wäller Tour Bärenkopp
+EIGENSCHAFTEN:
+  typ: Premiumwanderweg
+  typ_form: Rundweg
+  länge_km: 11,6
+  auszeichnung_datum: Mai 2015
+  charakteristik: Ausblicke ins Wiedtal
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2015
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/034
+ENTITÄT: wanderweg
+BEZEICHNUNG: Westerwaldsteig
+EIGENSCHAFTEN:
+  typ: Fernwanderweg
+  eröffnung_datum: 24. Mai 2008
+  berührung_waldbreitbach: ja
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2008
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/035
+ENTITÄT: wanderweg
+BEZEICHNUNG: Klosterweg
+EIGENSCHAFTEN:
+  länge_km: 17
+  typ: Premiumwanderweg
+  verbindung_start: Rheinsteig in Rengsdorf
+  verbindung_ende: Westerwaldsteig in Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/036
+ENTITÄT: infrastruktur_wassersport
+BEZEICHNUNG: Ruder- und Tretbootverleih
+EIGENSCHAFTEN:
+  lage: gegenüber historischen Mühlen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/037
+ENTITÄT: infrastruktur_freizeit
+BEZEICHNUNG: Hallen- und Freibad
+EIGENSCHAFTEN:
+  lage: Nachbargemeinde Hausen
+  erweiterung_sauna: November 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/038
+ENTITÄT: sammlung
+BEZEICHNUNG: Krippen-Sammlung
+EIGENSCHAFTEN:
+  sammler: Gustel Hertling
+  sammler_profession: ehemaliger Hotelier, Krippenbaummeister
+  exponateanzahl_ca: 2200
+  exponateanzahl_stand: 2014
+  eigene_krippen_gestaltung: ja
+  weihnachtstourismus_auslöser: ja
+  weihnachtstourismus_beginn: späte 1990er Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/039
+ENTITÄT: verein
+BEZEICHNUNG: FC Waldbreitbach
+EIGENSCHAFTEN:
+  sportart: Fußball
+  gegründet_jahr: 1982
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1982
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/040
+ENTITÄT: verein
+BEZEICHNUNG: Junggesellenclub "Gemütlichkeit" Waldbreitbach e.V.
+EIGENSCHAFTEN:
+  funktion: Veranstalter der Kirmes
+  kirmes_monat: August
+  kirmes_attraktion: Großfeuerwerk "Wied in Flammen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/041
+ENTITÄT: verein
+BEZEICHNUNG: Kirchenchor "Cäcilia"
+EIGENSCHAFTEN:
+  gegründet_jahr: 1777
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1777
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/042
+ENTITÄT: verein
+BEZEICHNUNG: Musikverein Wiedklang
+EIGENSCHAFTEN:
+  gegründet_jahr: 1958
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1958
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/043
+ENTITÄT: verein
+BEZEICHNUNG: VfL Waldbreitbach
+EIGENSCHAFTEN:
+  gegründet_jahr: 1969
+  größe: mitgliederstärkster Waldbreitbacher Verein
+  sportarten: Turnen, Leichtathletik, Badminton, Kickboxen, Tischtennis
+  beschreibung: vielfältige Angebote im leistungs- und breitensportlichen Bereich
+  veranstaltungen: Weihnachtsbaumwerfen, WiedtalUltraTrail (WUT), Bärenkopplauf
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1969
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/044
+ENTITÄT: sportveranstaltung
+BEZEICHNUNG: Weihnachtsbaumwerfen
+EIGENSCHAFTEN:
+  veranstalter: VfL Waldbreitbach
+  charakter: spaßbetonter Werferdreikampf
+  zeitpunkt: Ende der Saison
+  zeitpunkt_context: im Weihnachtsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/045
+ENTITÄT: sportveranstaltung
+BEZEICHNUNG: WiedtalUltraTrail (WUT)
+EIGENSCHAFTEN:
+  veranstalter: VfL Waldbreitbach
+  typ: geführter Berg- und Traillauf (Gruppenlauf)
+  distanz_km: 65
+  höhenmeter_ca: 2100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/046
+ENTITÄT: sportveranstaltung
+BEZEICHNUNG: Bärenkopplauf
+EIGENSCHAFTEN:
+  veranstalter: VfL Waldbreitbach
+  typ: Berg- und Traillauf
+  distanz_km: 11
+  höhenmeter_anstieg: 360
+  höhenmeter_abstieg: 260
+  zusatz: Bärchenlauf für Kinder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/047
+ENTITÄT: verein
+BEZEICHNUNG: Männergesangverein "Wiedperle"
+EIGENSCHAFTEN:
+  gegründet_jahr: 1924
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1924
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/048
+ENTITÄT: verein
+BEZEICHNUNG: "Bräpe Jonge"
+EIGENSCHAFTEN:
+  funktion: Pflege und Unterhaltung alten Brauchtums
+  aktivitäten: restauriert historische Stätten, unterstützt Junggesellenverein zur Kirmes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/049
+ENTITÄT: verein
+BEZEICHNUNG: St. Sebastianus Schützenbruderschaft
+EIGENSCHAFTEN:
+  gegründet_jahr: 1864
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1864
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/050
+ENTITÄT: verein
+BEZEICHNUNG: Karnevalsgesellschaft "Brave Jonge"
+EIGENSCHAFTEN:
+  funktion: Erhaltung des Brauchtums und Sitzungskarneval
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/051
+ENTITÄT: verein
+BEZEICHNUNG: Gewerbeverband Waldbreitbach
+EIGENSCHAFTEN:
+  zusammensetzung: Betriebe, Gewerbetreibende, freiberuflich Tätige
+  ziel: wirtschaftliche Aktivitäten in Waldbreitbach und mittlerem Wiedtal stärken und fördern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/052
+ENTITÄT: verkehrsweg
+BEZEICHNUNG: Landesstraße 255
+EIGENSCHAFTEN:
+  verbindung_zu: Neuwied, Neustadt (Wied), Asbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/053
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Autobahnanschlüsse
+EIGENSCHAFTEN:
+  anschlüsse: Neuwied, Neustadt/Wied
+  autobahn: Bundesautobahn 3 (A3)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/054
+ENTITÄT: bahnhaltepunkt
+BEZEICHNUNG: Bad Hönningen
+EIGENSCHAFTEN:
+  distanz_nächst: ja
+  strecke: rechte Rheinstrecke
+  zufahrt_richtung: von Waldbreitbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/055
+ENTITÄT: schnellfahrstrecke
+BEZEICHNUNG: Schnellfahrstrecke Köln–Rhein/Main
+EIGENSCHAFTEN:
+  lage: nordöstlich des Ortes
+  nächste_bahnhöfe: Montabaur, Siegburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/056
+ENTITÄT: person_historisch
+BEZEICHNUNG: Rosa Flesch
+EIGENSCHAFTEN:
+  geburtsjahr: 1826
+  todesjahr: 1906
+  eigentlicher_name: Margaretha Flesch
+  rolle: Gründerin
+  gegründet_was: Orden der Waldbreitbacher Franziskanerinnen
+  gegründet_wo: Marienhaus
+  seligsprechung: 2008
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1826
+GUELTIG_BIS: 1906
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 07-waldbreitbach/057
+ENTITÄT: person_historisch
+BEZEICHNUNG: Reinhold Wirtz
+EIGENSCHAFTEN:
+  geburtsjahr: 1842
+  todesjahr: 1898
+  beruf: Architekt
+  tätigkeit: Baumeister des Bistums Trier
+  werke: Neubau Langhaus Pfarrkirche Maria Himmelfahrt (1876-1878)
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1842
+GUELTIG_BIS: 1898
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 07-waldbreitbach/058
+ENTITÄT: person_historisch
+BEZEICHNUNG: Paul-Georg Schmidt
+EIGENSCHAFTEN:
+  geburtsjahr: 1902
+  todesjahr: 1987
+  beruf: Chefarzt
+  ort_der_tätigkeit: Lungenheilstätte
+  amtszeit: 1937-1961
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1987
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 07-waldbreitbach/059
+ENTITÄT: person
+BEZEICHNUNG: Pierre Fischer
+EIGENSCHAFTEN:
+  geburtsjahr: 1995
+  beruf: Politiker
+  partei: CDU
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1995
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 07-waldbreitbach/060
+ENTITÄT: person_handwerker
+BEZEICHNUNG: Johannes Berdaller
+EIGENSCHAFTEN:
+  beruf: Glockengießer
+  tätigkeitsjahr: 1694
+  herkunftsort: Koblenz-Ehrenbreitstein
+  werk: Glocke der Pfarrkirche Maria Himmelfahrt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/061
+ENTITÄT: person_herrschaft
+BEZEICHNUNG: Hermann Fürst zu Wied
+EIGENSCHAFTEN:
+  erwerber_deutschordenshaus: 1809
+  anwesen_kaufzweck: Privatbesitz
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 07-waldbreitbach/062
+ENTITÄT: person_historisch
+BEZEICHNUNG: Peter Wirth
+EIGENSCHAFTEN:
+  gründer_ordre: Franziskanerbrüder vom Heiligen Kreuz
+  gründungsjahr_ordre: 1862
+  gründungsort_ordre: Waldbreitbach (Eremitenklausen Kreuzkapelle)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/063
+ENTITÄT: person_historisch
+BEZEICHNUNG: Gustel Hertling
+EIGENSCHAFTEN:
+  beruf: ehemaliger Hotelier, Krippenbaummeister
+  sammlung: Krippen
+  exponateanzahl_ca: 2200
+  sammlung_exponatestand: 2014
+  eigene_werke: Krippen-Gestaltungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/064
+ENTITÄT: person_regelungsbehörde
+BEZEICHNUNG: Philipp I. von Heinsberg
+EIGENSCHAFTEN:
+  titel: Kölner Kurfürst und Erzbischof
+  amtszeit: 1167-1191
+  hist_aktion: Heiratsgabe Breitbacher Land an Sayn
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1167
+GUELTIG_BIS: 1191
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/065
+ENTITÄT: person_regelungsbehörde
+BEZEICHNUNG: Heinrich III. von Sayn
+EIGENSCHAFTEN:
+  titel: Gemahl der Mechthild
+  amtszeit: 1202-1246
+  erbschaftskrieg: Breitbacher Land fiel 1250 wieder an Kurköln
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1202
+GUELTIG_BIS: 1246
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/066
+ENTITÄT: person_regelungsbehörde
+BEZEICHNUNG: Mechthild von Sayn
+EIGENSCHAFTEN:
+  rolle: Gemahl von Heinrich III. von Sayn
+  beschreibung: Breitbach-Tal-Beschreibung in ihren Worten überliefert
+  willen_genannt: Deutscher Orden Waldbreitbach
+  epoche_genannt: Vor-Mechthild-Zeit
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 07-waldbreitbach/067
+ENTITÄT: person_regelungsbehörde
+BEZEICHNUNG: Clemens August
+EIGENSCHAFTEN:
+  titel: Kölner Erzbischof
+  hist_aktion: Ende der Pfandschaften-Zeit
+  zeitraum_änderung: Mitte 17. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 07-waldbreitbach/068
+ENTITÄT: deutscher_orden
+BEZEICHNUNG: Komturei Waldbreitbach
+EIGENSCHAFTEN:
+  gegründet: mit Willen der Mechthild von Sayn
+  zuordnung_ab: 1313 dem Deutschmeister zu Mergentheim
+  verlagerung: 1602 auf Ballei Koblenz
+  patronat: Pfarrkirche (Johannes Baptista, später Beata Maria Virgo)
+GUELTIG_AB: 1313
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-waldbreitbach/069
+ENTITÄT: gericht
+BEZEICHNUNG: Weltliches Gericht Waldbreitbach
+EIGENSCHAFTEN:
+  zeitpunkt_etablierung: Spätmittelalter
+  ablösung: ursprünglich kirchliches Gericht
+  aufhebung_und_verlagerung: Mitte 19. Jahrhundert nach Neuwied
+  grund_aufhebung: großer Widerstand der Bevölkerung
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/070
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Erzbergbau
+EIGENSCHAFTEN:
+  aktivität_zeitraum: Spätmittelalter
+  ausmaß: beachtlich
+  aktive_träger: Deutscher Orden
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 07-waldbreitbach/071
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Landwirtschaft
+EIGENSCHAFTEN:
+  charakterisierung: durchgängig vorhandene Landwirtschaft
+  rückgang_zeitraum: 1960er Jahre
+  betriebe_2010: 6
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/072
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Fremdenverkehr
+EIGENSCHAFTEN:
+  entwicklung_zeitpunkt: Wende zum 20. Jahrhundert
+  grund: zunehmende wirtschaftliche Not
+  charakterisierung: bleibend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-waldbreitbach/073
+ENTITÄT: infrastruktur_gebilde
+BEZEICHNUNG: Westerwaldklinik
+EIGENSCHAFTEN:
+  lage: im Bereich Aussichtspunkte Waldbreitbach
+  nutzung_tourismus: Rundwanderwege erschließen Aussichtspunkte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+SPENDER: Kirchberg (nicht Teil der Fahrt)
+ENTITÄT: ort
+BEZEICHNUNG: Kirchberg (Hunsrück)
+EIGENSCHAFTEN:
+  bundesland: Rheinland-Pfalz
+  landkreis: Rhein-Hunsrück-Kreis
+  sitz_verbandsgemeinde: true
+  funktionale_einstufung: Grundzentrum
+  stadtrechte_ab: 1259
+  superlativ: älteste Stadt auf dem Hunsrück
+  stadtteil_ab: Denzen (seit 1928-02-10)
+  stadtfläche_km2: 18
+  landwirtschaftliche_nutzfläche_prozent: 50
+  waldflaeche_prozent: 30
+  bebaute_flaeche_prozent: 18
+  sonstige_flaeche_prozent: 2
+  mundart_name: Kerbrich
+  lage_beschreibung: Stadt auf dem Berg
+  verkehrslage: Schnittpunkt Trier–Kirchberg–Bingen–Mainz mit Keltenweg Nahe–Mosel
+  entfernung_simmern_km: 10
+  entfernung_richtung_simmern: östlich
+  entfernung_frankfurt_hahn_km: 12
+  entfernung_richtung_frankfurt_hahn: westlich
+  erste_urkunde_rechte: 1249
+  gueltig_ab: 1259
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Denzen
+EIGENSCHAFTEN:
+  ursprung_beschreibung: vorrömische Siedlung an der alten Wegekreuzung
+  ursprungsname_keltisch: Dumno (hergeleitet)
+  römischer_name: Dumnissus
+  roemische_bedeutung: römische Ortsbezeichnung
+  erstwähnung: 368 (Ausonius Gedicht Mosella)
+  lage: Mulde nordöstlich von Kirchberg
+  eingemeindet_ab: 1928-02-10
+  eingemeindet_gegen_widerstand: true
+  gueltig_ab: 400
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Michaelskirche (St. Michael)
+EIGENSCHAFTEN:
+  bauart: spätgotische Hallenkirche
+  bauzeit: 1460-1485
+  vorgängerbauten_anzahl: 3
+  aeltester_vorgängerbau_zeit_nach: 700
+  vorgängerbau_ii_zeit: um 850
+  vorgängerbau_iii_zeit_vor: 1050
+  turm_errichtet_um: 1200
+  turm_mehrfach_erhoben: true
+  simultankirche_ab: 1688
+  simultankirche_bis: 1965-06-15
+  frühchristliche_siedlung_nach: 650
+  archäologische_besonderheit: ununterbrochene Kontinuität seit vorkarolingischer Zeit
+  bedeutung_superlativ: historisch bedeutendste und wohl älteste zwischen Trier, Koblenz und Boppard
+  friedhof_bis: 1792
+  hauptportal: Südseite
+  kunstwerke_beschreibung: Steinmetzzeichen, Sandsteinkanzel um 1490, Grabdenkmäler 15.–18. Jh., Grabmal Catharina von Hoising nach 1577, Taufstein, Hochaltar, Seitenaltäre, Orgelprospekt 2. Hälfte 18. Jh., barocke Malerei Chorgewölbe
+  gueltig_ab: 1460
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+ENTITÄT: kirchengebaeude_vorlauf
+BEZEICHNUNG: Michaelskirche Bau I
+EIGENSCHAFTEN:
+  zeitstellung: frühkarolingisch nach 700
+  bauart: kleiner Saalbau mit eingezogenem Rechteckchor
+  bedeutung: ältester archäologisch nachgewiesener Kirchenbau
+  fund_besonderheit: Fragment frühchristlichen Grabsteins mit Inschrift (ältestes Zeugnis für Christen auf dem Hunsrück)
+  gueltig_ab: 700
+  gueltig_bis: 850
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: kirchengebaeude_vorlauf
+BEZEICHNUNG: Michaelskirche Bau II
+EIGENSCHAFTEN:
+  zeitstellung: um 850
+  bauart: Saalbau mit Taufanlage und Empore
+  größenverhaeltnis: etwa doppelt so groß wie Bau I
+  gueltig_ab: 850
+  gueltig_bis: 1050
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: kirchengebaeude_vorlauf
+BEZEICHNUNG: Michaelskirche Bau III
+EIGENSCHAFTEN:
+  zeitstellung: vor 1050
+  bauart: dreischiffige flachgedeckte Pfeilerbasilika mit halbkreisförmiger Apsis
+  größenverhaeltnis: wiederum etwa doppelt so groß wie Bau II
+  ausstattung: Taufanlage und Westempore
+  vergleichbau: St. Cyriak in Sulzburg/Markgräflerland (993 geweiht)
+  turm: Untergeschoss um 1200 errichtet
+  gueltig_ab: 1000
+  gueltig_bis: 1460
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Friedenskirche
+ORTSTEIL_BEZUG: Simmerner Straße
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  bauzeit: 1965-1967
+  architekt: Heinrich Otto Vogel (Trier)
+  grundstein_herkunft: Portalgewände der Michaelskirche
+  taufstein_herkunft: römisch behauener Stein aus Michaelskirche-Grabungen
+  orgel_hersteller: Gebr. Oberlinger (Windesheim)
+  orgel_register: 23
+  gemeindezentrum: true
+  gueltig_ab: 1965
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Nikolaus-Kapelle
+ORTSTEIL_BEZUG: Kirchberg-Denzen
+EIGENSCHAFTEN:
+  chorturm_baujahr: 1236
+  baustil: romanisch
+  ursprung_zeitraum: 650-700
+  ursprungspatron: Johannes der Täufer
+  kirche_als_taufkirche: true
+  lage_ursprung: Bereich Königshof Denzen
+  umwidmung_ab: um 955
+  neuer_patron_nach_umwidmung: Nikolaus von Myra
+  grund_umwidmung: im Rheinland aufkommende Verehrung
+  saalraum_angebaut: 1966
+  gueltig_ab: 650
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Kirchberg
+EIGENSCHAFTEN:
+  standort: Glöcknergasse
+  zeitraum_ansaessig: 18.–20. Jahrhundert
+  kultusgemeinde: true
+  nebeneinrichtung_schule: Religionsschule
+  nebeneinrichtung_friedhof: eigener Friedhof an der Metzenhausener Straße
+  friedhof_zustand: noch erhalten
+  gueltig_ab: 1700
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: friedhof
+BEZEICHNUNG: jüdischer Friedhof
+EIGENSCHAFTEN:
+  lage: Metzenhausener Straße
+  zugehoerig_zu: Kirchberg Synagoge
+  erhaltungszustand: noch erhalten
+  zeitraum_nutzung: 18.–20. Jahrhundert
+  gueltig_ab: 1700
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Rathaus
+EIGENSCHAFTEN:
+  lage: Marktplatz
+  bauzeit: 17. Jahrhundert und 1746
+  gueltig_ab: 1600
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Fachwerkhaus Marktplatz 6
+EIGENSCHAFTEN:
+  baujahr: 1698
+  besonderheit: fünfseitiger Erker
+  gueltig_ab: 1698
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schwanen-Apotheke
+ORTSTEIL_BEZUG: Marktplatz 4
+EIGENSCHAFTEN:
+  baustil: Fachwerkhaus
+  bauzeit_geschaetzt: 17. Jahrhundert
+  apothekenprivileg_ab: 1752
+  verleihende_instanz: Markgraf von Baden
+  superlativ: älteste Apotheke auf dem Hunsrück
+  gueltig_ab: 1600
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Eckhaus Marktplatz 11
+ORTSTEIL_BEZUG: Marktplatz
+EIGENSCHAFTEN:
+  baustil: Fachwerk
+  bauzeit: 2. Hälfte 17. Jahrhundert
+  lage_beschreibung: neben Zugang zum Kirchplatz
+  gueltig_ab: 1650
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Badische Försterei
+ORTSTEIL_BEZUG: Hauptstraße 17
+EIGENSCHAFTEN:
+  bauzeit: Mitte 18. Jahrhundert
+  funktion: Badisches Oberamt Kirchberg Verwaltung
+  errichtet_als_foersterei: true
+  heutige_nutzung: teilweise durch Umbauten ersetzt
+  gueltig_ab: 1750
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Badische Gendarmerie
+ORTSTEIL_BEZUG: Hauptstraße 19
+EIGENSCHAFTEN:
+  bauzeit: Mitte 18. Jahrhundert
+  funktion: Badisches Oberamt Kirchberg Verwaltung
+  errichtet_als_gendarmerie: true
+  heutige_nutzung: teilweise durch Umbauten ersetzt
+  gueltig_ab: 1750
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: museum
+BEZEICHNUNG: Kirchberger Heimatmuseum
+ORTSTEIL_BEZUG: Eifelgasse
+EIGENSCHAFTEN:
+  bauwerk_baujahr: 1732
+  bauwerk_baustil: Fachwerkhaus
+  funktion: Eindruck vom Leben in vergangenen Jahrhunderten
+  gueltig_ab: 1732
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Adelshof der Familie von Eich
+ORTSTEIL_BEZUG: Hauptstraße 75
+EIGENSCHAFTEN:
+  baujahr: 1578
+  besonderheit: Treppenturm und Wendeltreppe
+  gueltig_ab: 1578
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Wasserturm
+EIGENSCHAFTEN:
+  baujahr: 1899
+  hoehe_meter: 36
+  charakteristikum: charakteristisch für die auf einer Anhöhe gelegene Stadt
+  urspruengliche_funktion: kommunale Wasserversorgung
+  funktion_heute: nicht mehr integriert in Wasserversorgung (seit wenigen Jahren)
+  gueltig_ab: 1899
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: brunnen
+BEZEICHNUNG: Römerbrunnen
+ORTSTEIL_BEZUG: Denzen
+EIGENSCHAFTEN:
+  herkunftsbezeichnung: römisch/historisch
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.7
+
+---
+ENTITÄT: einrichtung
+BEZEICHNUNG: Jugendzentrum Am Zug
+EIGENSCHAFTEN:
+  eroeffnung: 2003-02-18
+  funktion_grundkonzept: überkonfessioneller Treffpunkt für Jugendliche ab 12 Jahren
+  betreuung_ganztaegig: true
+  traeger: we-SHARE (Paritätischer Wohlfahrtsverband Rheinland-Pfalz/Saarland)
+  projekte_ab_6_jahren: KinderKino Kirchberg, Sommerferienprogramm KINDER AM ZUG, künstlerisches Gestalten
+  gueltig_ab: 2003
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Piaristenkloster
+ORTSTEIL_BEZUG: Kirchplatz
+EIGENSCHAFTEN:
+  baujahr: 1765
+  baustil: Barockgebäude
+  heutige_nutzung: Pfarrhaus und Gemeindezentrum
+  wappenschild: Wappenschild des Markgrafen August Georg von Baden mit Einzelwappen
+  gueltig_ab: 1765
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Friedhofskreuz
+ORTSTEIL_BEZUG: Kirchplatz vor Michaelskirche
+EIGENSCHAFTEN:
+  baujahr_original: 1744
+  baujahr_kopie: 1744
+  inschrift_sinn: Das ist Gott wie das Bildnis lehrt, aber Gott ist nicht das Bildnis selbst
+  gueltig_ab: 1744
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: gartenpavillon_und_brunnen
+BEZEICHNUNG: Gartenpavillon und Ziehbrunnen
+ORTSTEIL_BEZUG: vor der Friedenskirche
+EIGENSCHAFTEN:
+  bauzeit_um: 1780
+  zentrum_eines: ummauerten Gartens
+  erbauer_beschreibung: vom damaligen Badischen Oberamtmann (Angabe unsicher)
+  gueltig_ab: 1780
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.7
+
+---
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+  gueltig_ab: 1800
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.7
+
+---
+ENTITÄT: schule
+BEZEICHNUNG: Kooperative Gesamtschule
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  schultyp: Kooperative Gesamtschule
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.7
+
+---
+ENTITÄT: sportanlage
+BEZEICHNUNG: Hallenbad
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  typ: Hallenbad
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: sportanlage
+BEZEICHNUNG: Freibad
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  typ: Freibad
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: sportanlage
+BEZEICHNUNG: Tennisplätze
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  typ: mehrere Tennisplätze
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: sportanlage
+BEZEICHNUNG: Tennishalle
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  typ: Tennishalle
+  gueltig_ab: 1950
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: sportanlage
+BEZEICHNUNG: Indoorkletterhalle
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  typ: Indoorkletterhalle
+  gueltig_ab: 2000
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: verein_sport
+BEZEICHNUNG: TuS Kirchberg 1909
+EIGENSCHAFTEN:
+  gruendung: 1909
+  sportart: Fußball
+  herren_mannschaft_liga: Fußball-Oberliga Rheinland-Pfalz/Saar
+  gueltig_ab: 1909
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: verein_sport
+BEZEICHNUNG: HSV Kirchberg 1974
+EIGENSCHAFTEN:
+  gruendung: 1974
+  sportart: Handball
+  gueltig_ab: 1974
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: radweg
+BEZEICHNUNG: Freiherr-von-Drais-Radweg
+EIGENSCHAFTEN:
+  laenge_km: 14
+  route_beschreibung: rund um die Stadt
+  gueltig_ab: 1950
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: radweg
+BEZEICHNUNG: Lützelsoon-Radweg
+EIGENSCHAFTEN:
+  startort: Kirchberg
+  endort: Kirn
+  gueltig_ab: 1950
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: Keltenweg Nahe–Mosel
+EIGENSCHAFTEN:
+  routenverlauf: durch Kirchberg
+  historische_bedeutung: alte Wegekreuzung
+  moderne_bezeichnung: B 421 und L 184
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: Ausoniusweg
+EIGENSCHAFTEN:
+  routenverlauf: Wanderweg ins Umland
+  benannt_nach: Ausonius (römischer Dichter und Staatsbeamter)
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: strasse_historisch
+BEZEICHNUNG: Römerstraße / Ausoniusstraße
+EIGENSCHAFTEN:
+  moderne_bezeichnung: B 50
+  verlauf: Trier über Hunsrück nach Bingen und Mainz
+  zeitstellung: römisch
+  beschreibung_verlauf: möglichst schnurgerade Ausrichtung typisch
+  durch_stadt: Altstadt wird noch heute durchschnitten von der Trasse
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: strasse_historisch
+BEZEICHNUNG: Hunsrückhöhenstraße
+EIGENSCHAFTEN:
+  moderne_bezeichnung: B 327
+  lage_zu_kirchberg: nördlich
+  verlauf: von Saarburg nach Koblenz
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: eisenbahn
+BEZEICHNUNG: Hunsrückquerbahn
+EIGENSCHAFTEN:
+  linie: Langenlonsheim–Stromberg–Rheinböllen–Simmern–Kirchberg–Hermeskeil
+  betriebszustand: stillgelegt
+  reaktivierungsabsicht: ja, zumindest teilweise in absehbarer Zeit
+  bahnhof_kirchberg: existiert/existierte
+  gueltig_ab: 1900
+  gueltig_bis: 1990
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: umgehungsstrasse
+EIGENSCHAFTEN:
+  bauwerk: Umgehungsstraße B 50
+  lage: um Innenstadt
+  ab_jahr: 1990
+  funktion: Entlastung der Innenstadt
+  gueltig_ab: 1990
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johannes Rulitius
+EIGENSCHAFTEN:
+  geburts_oder_wirkungsjahr: 1602
+  sterbe_oder_endjahr: 1666
+  berufsgruppe: Pfarrer
+  wirkungsorte: Dorchester, Heidelberg, Amsterdam
+  gueltig_ab: 1602
+  gueltig_bis: 1666
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Sophie Reinhard
+EIGENSCHAFTEN:
+  geburtsyear: 1775
+  sterbejahr: 1844
+  beruf: Malerin
+  gueltig_ab: 1775
+  gueltig_bis: 1844
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Wilhelm Ludwig Frommel
+EIGENSCHAFTEN:
+  geburtsyear: 1795
+  sterbejahr: 1869
+  beruf: evangelischer Geistlicher und Pädagoge
+  ehrenbuergerschaften: Pforzheim
+  gueltig_ab: 1795
+  gueltig_bis: 1869
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hubert Josef Cadenbach
+EIGENSCHAFTEN:
+  geburtsyear: 1800
+  sterbejahr: 1867
+  beruf: Jurist, Oberbürgermeister
+  oberbuergermeister_stadt: Koblenz
+  amtszeit_oberbuergermeister: 1857-1867
+  gueltig_ab: 1800
+  gueltig_bis: 1867
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Nanny Lambrecht
+EIGENSCHAFTEN:
+  geburtsyear: 1868
+  sterbejahr: 1942
+  beruf: Romanautorin
+  charakterisierung: dem Hunsrück verbunden
+  gueltig_ab: 1868
+  gueltig_bis: 1942
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Otto Back
+EIGENSCHAFTEN:
+  geburtsyear: 1834
+  sterbejahr: 1917
+  berufe: Landrat, Bürgermeister, Landtagspräsident
+  landrat_stadt: Simmern
+  buergermeister_stadt: Straßburg
+  gueltig_ab: 1834
+  gueltig_bis: 1917
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Harry Raymon
+EIGENSCHAFTEN:
+  geburtsyear: 1926
+  geburtsname: Harry Heymann
+  berufe: Autor, Schauspieler, Filmemacher
+  filmwerk: Regentropfen (1981, autobiografisch)
+  gueltig_ab: 1926
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Barthold C. Witte
+EIGENSCHAFTEN:
+  geburtsyear: 1928
+  sterbejahr: 2018
+  beruf: Ministerialbeamter
+  gueltig_ab: 1928
+  gueltig_bis: 2018
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Klaus Schmittinger
+EIGENSCHAFTEN:
+  geburtsyear: 1950
+  sportart: Tischtennisspieler
+  gueltig_ab: 1950
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl Wilhelm Ludwig Friedrich Drais
+EIGENSCHAFTEN:
+  geburtsyear: 1755
+  sterbejahr: 1830
+  titel: Freiherr von Sauerbronn
+  berufe: Obervogt, Literat, Oberhofgerichtspräsident, Baden-Historiker
+  wirkungsort: Kirchberg
+  gueltig_ab: 1755
+  gueltig_bis: 1830
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl von Drais
+EIGENSCHAFTEN:
+  geburtsyear: 1785
+  sterbejahr: 1851
+  erfindungen: Zweiradprinzip, Schnellschreibmaschine mit 16 Tasten
+  familienrelation: Sohn von Karl Wilhelm Ludwig Friedrich Drais
+  aufenthalt_kirchberg: Kind von 1790-1794
+  superlativ: Erfinder der ersten zweirädrigen Laufmaschine (Draisine)
+  gueltig_ab: 1785
+  gueltig_bis: 1851
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Paulgerhard Gladen
+EIGENSCHAFTEN:
+  geburtsyear: 1926
+  sterbejahr: 2023
+  berufe: Rechtsanwalt, Studentenhistoriker
+  wirkungsort: Kirchberg
+  gueltig_ab: 1926
+  gueltig_bis: 2023
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: buergermeister
+BEZEICHNUNG: Werner Wöllstein
+EIGENSCHAFTEN:
+  partei: FDP
+  wahl_stichwahl_datum: 2019-06-16
+  wahl_stichwahl_stimmenanteil_prozent: 66.61
+  amtsantritt: 2019
+  wiederwahl_datum: 2024-06-09
+  wiederwahl_stimmenanteil_prozent: 77.2
+  wiederwahl_wahlbeteiligung_prozent: 52.6
+  wiederwahl_gegenkandidat: nein
+  amtszeit_laenge_jahre: 5
+  gueltig_ab: 2019
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+ENTITÄT: buergermeister
+BEZEICHNUNG: Hans Dunger
+EIGENSCHAFTEN:
+  partei: Grüne
+  amtszeit: 1994-2004
+  gueltig_ab: 1994
+  gueltig_bis: 2004
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: buergermeister
+BEZEICHNUNG: Werner Elsen
+EIGENSCHAFTEN:
+  partei_liste: WG Elsen
+  amtszeit: 2004-2009
+  gueltig_ab: 2004
+  gueltig_bis: 2009
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: buergermeister
+BEZEICHNUNG: Udo Kunz
+EIGENSCHAFTEN:
+  partei: CDU
+  amtszeit: 2009-2019
+  gueltig_ab: 2009
+  gueltig_bis: 2019
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: film
+BEZEICHNUNG: Regentropfen
+EIGENSCHAFTEN:
+  produktionsjahr: 1981
+  drehort: Kirchberg (Hunsrück)
+  filmtyp: deutscher Spielfilm
+  autobiografisch: true
+  autor_und_schauspieler: Harry Raymon (in Kirchberg geboren)
+  thema: Geschichte jüdischer Kinder während der Zeit des Nationalsozialismus
+  darsteller: Elfriede Irrall, Walter Renneisen, Giovanni Früh, Pit Krüger
+  auszeichnung: Film des Monats Juni 1982 der Jury der Evangelischen Filmarbeit
+  gueltig_ab: 1981
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: historische_siedlung
+BEZEICHNUNG: Dumno / Vicus Dumnissus
+EIGENSCHAFTEN:
+  geographische_lage: Ostteil der heutigen Stadt Kirchberg
+  zeitstellung: römisch (1. Jahrhundert v. Chr. - 4. Jahrhundert n. Chr.)
+  dokumentation_zeit: 4. Jahrhundert Straßenkarte
+  dokumentation_artefakt: Tabula Peutingeriana (Kopie 12. Jahrhundert)
+  erwaehnung_ausonius: 368 (Gedicht Mosella)
+  geschichtliche_bedeutung: älteste bekannte Siedlung des Höhengebietes zwischen Mosel, Rhein, Nahe und Saar
+  siedlungstyp: Militärstation an der Römerstraße
+  gueltig_ab: 0
+  gueltig_bis: 500
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: historische_periode
+BEZEICHNUNG: Fränkische Periode Kirchberg
+EIGENSCHAFTEN:
+  beginn: 5. Jahrhundert
+  ereignis: römisches Fiskalland wurde Krongut der fränkischen Könige
+  entwicklung: aus römischem Vicus entstand neue Siedlung
+  kirche_erstellung: spätestens 7. Jahrhundert (Holzbau)
+  kirche_wahrscheinlicher_standort: Ort der heutigen Michaelskirche
+  namenherkunft: vermutlich nach dem Kyrbach (Chiriperg -> Kirchberg)
+  gueltig_ab: 400
+  gueltig_bis: 1000
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: historische_periode
+EIGENSCHAFTEN:
+  ereignis: König Otto III. schenkt Königsgut Denzen an Trechirgaugrafen Bezelin
+  datum: 995
+  gueltig_ab: 995
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Bertholde
+EIGENSCHAFTEN:
+  anfangsgeneration: Trechirgaun Bezelin (Vorfahre)
+  jahr_gründung_stift: 1074
+  stiftsname: Augustiner-Chorherrenstift Ravengiersburg
+  gebiet: östliche Hälfte Kirchberg mit Denzen
+  gueltig_ab: 995
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Grafen von Sponheim
+EIGENSCHAFTEN:
+  erwerbung_kirchberg: 1248
+  gebiet: westliche Hälfte Kirchberg
+  stadtrecht_verleihung: 1259
+  urkunde_vorstufe: 1249
+  aussterbung: 1437
+  geschichtliche_bedeutung: enge Verbindung mit Kirchberg nach 1248
+  wappenvariante_verwendung: Geschachter Sparren im Kirchberger Wappen
+  gueltig_ab: 1248
+  gueltig_bis: 1437
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: historische_periode
+BEZEICHNUNG: Gemeinherrschaft Kirchberg 1437
+EIGENSCHAFTEN:
+  beginn: 1437
+  ereignis: Aussterben der Sponheimer
+  nachfolger: Gemeinherrschaft von Kurfürst von der Pfalz, Markgraf von Baden, Graf von Veldenz
+  verwaltunsgsitz: Kirchberg
+  aufloesung: Realteilung 1708
+  gueltig_ab: 1437
+  gueltig_bis: 1708
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: historische_periode
+BEZEICHNUNG: Badische Herrschaft Kirchberg
+EIGENSCHAFTEN:
+  beginn: 1708
+  ereignis: Realteilung - Amt Kirchberg mit Unteramt Koppenstein an Baden
+  funktion: Sitz des Badischen Oberamts Kirchberg
+  ende: 1794
+  grund_ende: Französische Truppen im Pfälzischen Erbfolgekrieg
+  gueltig_ab: 1708
+  gueltig_bis: 1794
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: historische_periode
+BEZEICHNUNG: Französische Besatzung Kirchberg
+EIGENSCHAFTEN:
+  zeitraum: 1689 (Pfälzischer Erbfolgekrieg)
+  ereignis: Französische Truppen zerstörten die Stadt und die Befestigungsanlagen
+  kanton_verwaltung_von: 1798-1814
+  verwaltungszone: französischer Kanton im Arrondissement Simmern des Département de Rhin-et-Moselle
+  gueltig_ab: 1689
+  gueltig_bis: 1814
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: historische_periode
+BEZEICHNUNG: Preußische Herrschaft Kirchberg
+EIGENSCHAFTEN:
+  beginn: 1815
+  ereignis: Wiener Kongress - Region kommt zum Königreich Preußen
+  buergermeisterei_ab: 1816
+  buergermeisterei_gemeinden_umland: 18
+  gueltig_ab: 1815
+  gueltig_bis: 1946
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: historische_periode
+BEZEICHNUNG: Rheinland-Pfalz Zugehörigkeit
+EIGENSCHAFTEN:
+  beginn: 1946
+  ereignis: Kirchberg mit Denzen gehört zu dem damals neu gebildeten Land Rheinland-Pfalz
+  gueltig_ab: 1946
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+ENTITÄT: konfessionsstatistik
+EIGENSCHAFTEN:
+  datum_1: 2005-06-30
+  evangelisch_prozent_1: 50.2
+  katholisch_prozent_1: 35.2
+  konfessionslos_oder_andere_prozent_1: 14.6
+  datum_2: 2025-11
+  evangelisch_prozent_2: 37.4
+  katholisch_prozent_2: 25.2
+  konfessionslos_oder_andere_prozent_2: 37.4
+  tendenz: Anteil evangelischer und katholischer Kirchenmitglieder beträchtlich gesunken
+  gueltig_ab: 2005
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Reformationsphase Kirchberg
+EIGENSCHAFTEN:
+  lutherisch_ab: 1556
+  grund_lutherisch: Kurfürst Ottheinrich ließ das Amt Kirchberg visitieren
+  reformiert_ab: 1599-05
+  grund_reformiert: Kurfürst Friedrich IV. (Pfalz)
+  gueltig_ab: 1556
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Konfessionswechsel Dreißigjähriger Krieg
+EIGENSCHAFTEN:
+  католisch_ab: 1620
+  grund_katholisch: spanische Besatzung nach Eroberung
+  lutherisch_ab: 1631
+  lutherisch_bis: 1635
+  grund_lutherisch: schwedischer Einfluss
+  katholisch_ab_1635: 1635
+  katholisch_bis: 1648
+  reformiert_ab: 1648
+  grund_reformiert: Westfälischer Frieden
+  katholiken_recht_ab: 1652
+  katholiken_recht_beschreibung: Recht Gottesdienst zu feiern im Haus des badischen Truchsess
+  gueltig_ab: 1620
+  gueltig_bis: 1652
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Grabmal Catharina von Hoising
+ORTSTEIL_BEZUG: Michaelskirche Chor
+EIGENSCHAFTEN:
+  meister: Johann von Trarbach
+  datierung: nach 1577
+  material: Stein
+  lage_innerkirche: im Chor
+  gueltig_ab: 1577
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Sandsteinkanzel Michaelskirche
+EIGENSCHAFTEN:
+  material: Sandstein
+  zeitstellung: um 1490
+  lage: Michaelskirche Langhaus
+  gueltig_ab: 1490
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: kunstwerk
+BESCHREIBUNG: Malerei Chorgewölbe Michaelskirche
+EIGENSCHAFTEN:
+  baustil: Barock
+  zeitstellung: um 1700
+  restaurierung: 1969
+  teilweise_wiederherstellung: true
+  darstellungen_zentrum: Madonna mit weiblichen Heiligen, Taufe Jesu, Apokalypse, Gnadenstuhl
+  darstellungen_seiten: zwölf Apostel und vier lateinische Kirchenlehrer
+  darstellungen_westkappen: Sebastian und Rochus, Barbara und Margaretha, Florian und Martin
+  weitere_darstellungen: Gegenüberstellungen von neutestamentlichen Szenen mit Karmeliten-Lebensszenen
+  gueltig_ab: 1700
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: kupferstich
+BEZEICHNUNG: Kupferstich Kirchberg/Hunnor
+EIGENSCHAFTEN:
+  kuenstler: Sebastian Furck
+  datum: 1629
+  sammelwerk: Thesaurus philopoliticus oder Politisches Schatzkästlein
+  autoren_sammelwerk: Daniel Meisner und Eberhard Kieser
+  gueltig_ab: 1629
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: kupferstich
+BEZEICHNUNG: Kupferstich Kirchberg
+EIGENSCHAFTEN:
+  kuenstler: Matthäus Merian
+  datum: 1645
+  sammelwerk: Topographia Germaniae
+  beschreibung_text_zitat: Ist nicht groß, aber vor diesem Krieg fein erbaut gewesen
+  gueltig_ab: 1645
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Ölgemälde Kirchberg
+EIGENSCHAFTEN:
+  datierung_vor: 1610
+  erhaltungszustand: nur in alten Fotografien erhalten
+  gueltig_ab: 1600
+  gueltig_bis: 1610
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.7
+
+---
+ENTITÄT: wappen
+EIGENSCHAFTEN:
+  herkunft: nachgebildet nach Stadtsiegel aus 14. Jahrhundert
+  blasonierung: In Rot ein von Gold und Blau zweireihig geschachter Sparren, darunter eine goldene Helmkrone
+  element_sparren_herkunft: Wappenvariante der Grafen von Sponheim Vordere Grafschaft
+  element_sparren_bedeutung: Grafen verliehen 1259 Stadtrechte
+  element_krone_deutung_1: möglicherweise Reichstreue der Sponheimer
+  element_krone_deutung_2: möglicherweise Hinweis auf Krongut zu Zeiten fränkischer Könige (kam 1248 an Sponheimer)
+  element_krone_parallele: auch in Wappen von Kastellaun und Sohren
+  gueltig_ab: 1300
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Städtepartnerschaft Villeneuve-l'Archevêque
+EIGENSCHAFTEN:
+  partner_stadt: Villeneuve-l'Archevêque
+  partner_land: Frankreich
+  partner_region: Burgund
+  gueltig_ab: 1950
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: arbeitende_orden
+BEZEICHNUNG: Karmeliten Kirchberg
+EIGENSCHAFTEN:
+  orden: Carmeliten
+  betaetigung_ende: 1757
+  lage: Kirchberg
+  gueltig_ab: 1600
+  gueltig_bis: 1757
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: berufsperson
+BEZEICHNUNG: Heinrich Otto Vogel
+EIGENSCHAFTEN:
+  beruf: Architekt
+  stadt: Trier
+  werke: Friedenskirche Kirchberg
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: berufsperson
+BEZEICHNUNG: Sebastian Furck
+EIGENSCHAFTEN:
+  beruf: Kupferstecher und Zeichner
+  geburtsyear: 1598
+  geburtsort: Alterkülz bei Kastellaun
+  werke: Kupferstiche Kirchberg und Kastellaun
+  selbstdarstellung_in_werk: im Kupferstich Kastellaun selbst dargestellt
+  gueltig_ab: 1598
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: berufsperson
+BEZEICHNUNG: Eberhard Kieser
+EIGENSCHAFTEN:
+  beruf: Kupferstecher und Verleger
+  geburtsyear: 1583
+  geburtsort: Kastellaun
+  sammelwerk_verleger: Thesaurus philopoliticus und Topographia Germaniae
+  gueltig_ab: 1583
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: berufsperson
+BEZEICHNUNG: Matthäus Merian
+EIGENSCHAFTEN:
+  beruf: Kartograph und Künstler
+  werke: Topographia Germaniae mit Kupferstich Kirchberg (1645)
+  gueltig_ab: 1600
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: literarische_quelle
+BEZEICHNUNG: Tabula Peutingeriana
+EIGENSCHAFTEN:
+  zeit_entstehung: spätantik 4. Jahrhundert
+  kopie_zeitpunkt: 12. Jahrhundert
+  kopie_treue: getreue Kopie
+  dokumentation_inhalt: römische Ortsbezeichnungen
+  erwaehnung_kirchberg: ja (Dumnissus)
+  gueltig_ab: 300
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: literarisches_werk
+BEZEICHNUNG: Mosella
+EIGENSCHAFTEN:
+  autor: Decimus Magnus Ausonius
+  autor_beschreibung: römischer Staatsbeamter und Dichter
+  autor_lebenszeit: ca. 310-394
+  inhalt: Gedicht, dichterische Beschreibung der Reise von Bingen über Hunsrück nach Neumagen und Trier
+  erwaehnung_kirchberg: ja, erwähnt Ort Dumnissus im Jahr 368
+  geschichtliche_bedeutung: erste Erwähnung Kirchbergs in literarischer Quelle
+  gueltig_ab: 368
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: naturgeographie
+BEZEICHNUNG: Soonwald
+ORTSTEIL_BEZUG: südöstlich von Kirchberg
+EIGENSCHAFTEN:
+  eigenschaft_sicht: sichtbar vom Turm der Michaelskirche
+  besonderheit: Burgruine Koppenstein
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: naturgeographie
+BEZEICHNUNG: Lützelsoon
+ORTSTEIL_BEZUG: südlich von Kirchberg
+EIGENSCHAFTEN:
+  eigenschaft_sicht: sichtbar vom Turm der Michaelskirche
+  radweg: Lützelsoon-Radweg (nach Kirn)
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: naturgeographie
+BEZEICHNUNG: Erbeskopf
+ORTSTEIL_BEZUG: südwestlich von Kirchberg
+EIGENSCHAFTEN:
+  hoehe_meter: 816
+  eigenschaft_sicht: sichtbar vom Turm der Michaelskirche
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: naturgeographie
+BEZEICHNUNG: Idarkopf
+ORTSTEIL_BEZUG: südwestlich von Kirchberg
+EIGENSCHAFTEN:
+  eigenschaft_sicht: sichtbar vom Turm der Michaelskirche
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: naturgeographie
+BEZEICHNUNG: Kyrbachtal
+ORTSTEIL_BEZUG: westlich von Kirchberg
+EIGENSCHAFTEN:
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: naturgeographie
+BEZEICHNUNG: Kauerbachtal
+ORTSTEIL_BEZUG: östlich von Kirchberg
+EIGENSCHAFTEN:
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: koelner_gebiet
+BEZEICHNUNG: Gebiet um Kastellaun
+ORTSTEIL_BEZUG: nordöstlich von Kirchberg
+EIGENSCHAFTEN:
+  eigenschaft_sicht: sichtbar vom Turm der Michaelskirche
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: staedtischer_rat
+EIGENSCHAFTEN:
+  rats_ratsmitglieder_anzahl: 20
+  wahl_wahldatum: 2024-06-09
+  wahl_verfahren: personalisierte Verhältniswahl
+  ehrenamtlicher_vorsitzender: Stadtbürgermeister
+  gueltig_ab: 2024
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: burgruine
+BEZEICHNUNG: Burgruine Koppenstein
+ORTSTEIL_BEZUG: Soonwald südöstlich
+EIGENSCHAFTEN:
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.7
+
+---
+ENTITÄT: historische_period
+BEZEICHNUNG: Karolingische Zeit
+EIGENSCHAFTEN:
+  ereignis: Großpfarrei Kirchberg mit zentraler Taufkirche entstanden
+  zentrale_kirche: Kirchberg
+  kapellen: Gemünden, Dickenschied, Womrath, Denzen, Kappel, Metzenhausen, Ober Kostenz, Würrich, Altlay
+  pastorei_ortschaften: 51
+  bedeutung: eines der bedeutenden Zentren auf dem Hunsrück bis 16. Jahrhundert
+  gueltig_ab: 700
+  gueltig_bis: 1600
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+

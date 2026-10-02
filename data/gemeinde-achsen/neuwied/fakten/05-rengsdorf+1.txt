@@ -1,0 +1,270 @@
+ID: 05-rengsdorf+1/001
+ENTITÄT: denkmal
+BEZEICHNUNG: Bismarcksäule Rengsdorf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  höhe: 13 [m]
+  einweihung: 1903-06-21
+  architekt: Hans Bloemers
+  material: Trachyt
+  standort: Kaisereichenplatz
+  zweck: Denkmal für Fürst Otto von Bismarck
+  unter_denkmalschutz: true
+  nicht_aussichtsturm: true
+  grundriss: quadratisch
+  kostenvoranschlag: 14.000 [Mark]
+  tatsächliche_kosten: 15.500 [Mark]
+GUELTIG_AB: 1903
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+1/002
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Grundsteinlegung Bismarcksäule Rengsdorf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  datum: 1902-07-30
+  anlass: Beginn Bau Bismarcksäule, vierter Todestag Bismarcks
+  ortsbezug: Kaisereichenplatz, Rengsdorf
+GUELTIG_AB: 1902
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf+1/003
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Einweihung Bismarcksäule Rengsdorf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  datum: 1903-06-21
+  besonderheit: Sommersonnenwende, erste Entzündung der Feuerschale
+GUELTIG_AB: 1903
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf+1/004
+ENTITÄT: person
+BEZEICHNUNG: Otto von Bismarck
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  titel: Fürst
+  funktion: erster deutscher Reichskanzler
+  lebenszeit: 1815-1898
+  geburtstag: 1. April
+  grund_denkmal: Breite Bewegung nach seinem Tod 1898 zur Errichtung von Denkmälern
+GUELTIG_AB: 1815
+GUELTIG_BIS: 1898
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf+1/005
+ENTITÄT: person
+BEZEICHNUNG: Hans Bloemers
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  beruf: Architekt
+  wohnort: Bonn
+  rolle_in_rengsdorf: Architekt und Bauleiter Bismarcksäule Rengsdorf
+  bauleitung: unentgeltlich übernommen
+  weitere_werke: Bismarckturm Bonn-Gronau
+  entwurf_fries: Fries mit Eichenlaubmotiven
+  entwurf_relief: Bismarck-Relief aus Bronze
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL:
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf+1/006
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Kreis
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  beruf: Architekt
+  typenentwurf: Götterdämmerung
+  wettbewerb: Wettbewerb der Deutschen Studentenschaft, 1899
+  preis: gewonnen
+  einfluß: Bismarcksäule Rengsdorf lehnt sich in Grundzügen an diesen Typenentwurf an
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL:
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf+1/007
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Kestner
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  beruf: Maurermeister
+  wohnort: Rengsdorf
+  rolle: Bauausführung unter Leitung von Hans Bloemers
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL:
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+1/008
+ENTITÄT: person
+BEZEICHNUNG: Peter Jung
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  beruf: Maurermeister
+  wohnort: Rengsdorf
+  rolle: Bauausführung unter Leitung von Hans Bloemers
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL:
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+1/009
+ENTITÄT: person
+BEZEICHNUNG: Hermann Gladenbeck
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  beruf: Bildgießer
+  unternehmen: Bildgießerei Hermann Gladenbeck
+  wohnort_unternehmen: Berlin-Friedrichshagen
+  rolle: Anfertigung Bismarck-Relief aus Bronze für Bismarcksäule Rengsdorf
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL:
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+1/010
+ENTITÄT: organisation
+BEZEICHNUNG: Verschönerungsverein für den unteren Westerwald
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  art: Verein
+  rolle_rengsdorf: regte im Sommer 1901 Bau einer Bismarcksäule in Rengsdorf an
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL:
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 05-rengsdorf+1/011
+ENTITÄT: organisation
+BEZEICHNUNG: Ausschuss zur Errichtung der Rengsdorfer Bismarcksäule
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  gegründet: 1902-03
+  aufgabe: Koordination und Durchführung Bau Bismarcksäule Rengsdorf
+  beauftragte: Hans Bloemers als Architekt und Bauleiter
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1903
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf+1/012
+ENTITÄT: organisation
+BEZEICHNUNG: Firma Bochem & Co.
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  art: Firma
+  beruf: Steinmetzarbeiten
+  wohnort: Königswinter
+  rolle_rengsdorf: übernahm Steinmetzarbeiten für Bismarcksäule Rengsdorf
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL:
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf+1/013
+ENTITÄT: ort
+DESIGNAT: Rengsdorf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  land: Deutschland
+  besonderheit: Standort Bismarcksäule, Aussicht auf Rheintal vom Kaisereichenplatz
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf+1/014
+ENTITÄT: ort_platz
+BEZEICHNUNG: Kaisereichenplatz
+ORTSTEIL_BEZUG: Rengsdorf
+EIGENSCHAFTEN:
+  beschreibung: Platz in Rengsdorf
+  standort_denkmal: Bismarcksäule Rengsdorf
+  aussicht: Gute Aussicht auf Rheintal
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+1/015
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Bismarck-Relief (1903)
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  material: Bronze
+  höhe: 1,5 [m]
+  künstler_entwurf: Hans Bloemers
+  gießerei: Bildgießerei Hermann Gladenbeck
+  ort: Vorderseite Bismarcksäule Rengsdorf
+  schicksal: entfernt (Zweiter Weltkrieg oder französische Besatzung, unklar)
+  genauigkeit: vermutlich
+GUELTIG_AB: 1903
+GUELTIG_BIS: 1939-1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 05-rengsdorf+1/016
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Bismarck-Relief (1963)
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  material: Bronze
+  inschrift: OTTO V. BISMARCK / 1815-1898
+  installation: 1963-09
+  grund: Ersatz für entferntes Original-Relief
+GUELTIG_AB: 1963
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf+1/017
+ENTITÄT: tradition
+BEZEICHNUNG: Gedenkfeuer Bismarcksäule Rengsdorf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  feuerschale: ja
+  entzündungstage: 27. Januar (Geburtstag Kaiser Wilhelm II), 1. April (Bismarcks Geburtstag), 2. September (Sedantag)
+  entzündung_bei_einweihung: 1903-06-21
+  betriebsdauer: Nach wenigen Jahren eingestellt
+  wiederaufnahme: vermutlich nicht nach Ende Erster Weltkrieg und Besetzung Rheinlands
+GUELTIG_AB: 1903
+GUELTIG_BIS: 1908-1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 05-rengsdorf+1/018
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Grundlegende Sanierung Bismarcksäule Rengsdorf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  zeitraum: 1990er Jahre
+  maßnahmen: Grundsanierung des Bauwerks
+  ausstattung: Beleuchtungsanlage zur Anstrahlung
+GUELTIG_AB: 1990
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf+1/019
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Hundertjahrfeier Bismarcksäule Rengsdorf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  datum: 2003-06
+  anlass: 100. Jahrestag der Einweihung
+  veranstaltungen: Jubiläumsfeier, Festschrift, Ausstellung zur Entstehungsgeschichte
+GUELTIG_AB: 2003
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9

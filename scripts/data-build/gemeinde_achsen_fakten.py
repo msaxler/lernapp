@@ -24,7 +24,7 @@ import re
 import sys
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1')
+ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'))
 ROH = os.path.join(ITER, 'extraktion')
 AUS = os.path.join(ITER, 'fakten')
 BERICHTIGUNGEN = os.path.join(ITER, 'faktencheck', 'berichtigungen.json')
@@ -88,7 +88,8 @@ def main():
     eintraege = datei['berichtigungen']
     # Jeder Befund des Faktenchecks muss an einem Fakt hängen oder als reiner Kartenfehler geführt sein
     erfasst = set(tuple(h) for e in eintraege for h in e['herkunft']) | set((n['ort'], n['lauf'], n['karte']) for n in datei['nur_karte'])
-    offen = [k for k in json.loads(lies(os.path.join(ITER, 'faktencheck', 'korrekturen.json')))
+    korrekturen = os.path.join(ITER, 'faktencheck', 'korrekturen.json')  # fehlt, solange ein Raum keinen Faktencheck hat
+    offen = [k for k in (json.loads(lies(korrekturen)) if os.path.exists(korrekturen) else [])
              if (k['ort'], k['lauf'], k['karte']) not in erfasst]
     je_fakt = {}
     for e in eintraege:

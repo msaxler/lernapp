@@ -1,0 +1,1028 @@
+ENTITÄT: ort
+BEZEICHNUNG: Gerolstein
+EIGENSCHAFTEN:
+  lage: Eifel
+  bundesland: Rheinland-Pfalz
+  landkreis: Vulkaneifel
+  verwaltungssitz_verbandsgemeinde: Gerolstein
+  ist_stadt: true
+  rang_einwohner: zweitgrößte des Landkreises (nach Daun)
+  rang_fläche: flächenmäßig größte des Landkreises
+  ist_luftkurort: staatlich anerkannt
+  ist_mittelzentrum: true
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: burg
+BEZEICHNUNG: Löwenburg
+EIGENSCHAFTEN:
+  urkundliche_ersterwähnung_jahr: 1115
+  ursprüngliche_namensform: Burg Gerhardstein
+GUELTIG_AB: 1115
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadtrecht
+EIGENSCHAFTEN:
+  verliehen_jahr: 1336
+GUELTIG_AB: 1336
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: residenzstadt
+EIGENSCHAFTEN:
+  herrscherfamilie: Grafen von Blankenheim-Gerolstein
+  zeitraum: 1406-1524
+GUELTIG_AB: 1406
+GUELTIG_BIS: 1524
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: residenzstadt
+BEZEICHNUNG: Manderscheid-Residenz
+EIGENSCHAFTEN:
+  herrscherfamilie: Grafen von Manderscheid-Gerolstein
+  zeitraum: 1524-1697
+GUELTIG_AB: 1524
+GUELTIG_BIS: 1697
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Befreiung 1691
+EIGENSCHAFTEN:
+  typ: Zerstörung
+  ursache: Befreiung von französischer Besetzung
+  akteur: jülichsche Truppen
+  grad: fast vollständig zerstört
+  jahr: 1691
+GUELTIG_BIS: 1691
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: brand
+EIGENSCHAFTEN:
+  jahr: 1708
+  folge: Stadt wiederum fast vollständig vernichtet
+GUELTIG_BIS: 1708
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: brand
+EIGENSCHAFTEN:
+  jahr: 1784
+  folge: Stadt wiederum fast vollständig vernichtet
+GUELTIG_BIS: 1784
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Frieden von Lunéville
+EIGENSCHAFTEN:
+  ereignis: fiel das linksrheinische Gerolstein an Frankreich
+  jahr: 1801
+GUELTIG_BIS: 1801
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Reichsdeputationshauptschluss
+EIGENSCHAFTEN:
+  jahr: 1803
+  akteur: Graf Sternberg-Manderscheid
+  verlust: Blankenheim, Jünkerath, Gerolstein, Dollendorf
+  entschädigung: Güter der vormaligen Klöster Weissenau und Schussenried in Oberschwaben
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Wiener Kongress
+EIGENSCHAFTEN:
+  ergebnis: Gerolstein kam zum Königreich Preußen
+  jahr: 1815
+GUELTIG_BIS: 1815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: quelle
+BEZEICHNUNG: Gerolsteiner Mineralquelle
+EIGENSCHAFTEN:
+  historische_nutzung: Kelten und Römer
+  abfüllung_nachgewiesen_ab: 1724
+  abfüllung_verkauf: Wasser
+  basis_für: Gerolsteiner Mineralwasserindustrie
+  aktuelle_bedeutung: bis heute Grundlage der Mineralwasserindustrie
+GUELTIG_AB: 1724
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Bombardierung 1944/45
+EIGENSCHAFTEN:
+  grund: Eisenbahnknoten
+  zerstörungsgrad: 80 Prozent
+  auswirkung: Gerolstein stark zerstört
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadtrecht
+BEZEICHNUNG: Wiederverleihung
+EIGENSCHAFTEN:
+  jahr: 1953
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bewingen
+EIGENSCHAFTEN:
+  eingemeindung_datum: 7. Juni 1969
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hinterhausen
+EIGENSCHAFTEN:
+  eingemeindung_datum: 7. Juni 1969
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Lissingen
+EIGENSCHAFTEN:
+  eingemeindung_datum: 7. Juni 1969
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Büscheich
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gees
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Michelbach
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Müllenborn
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oos
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Roth
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Dezember 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: fundstätte
+BEZEICHNUNG: Buchenloch
+EIGENSCHAFTEN:
+  zeitliche_besiedlung: Altsteinzeit
+  bewohner: Neanderthaler, erste moderne Menschen
+  typ: Karsthöhle
+  länge: 36 [Meter]
+GUELTIG_AB: 50000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: fundstätte
+BEZEICHNUNG: Magdalenahöhle
+EIGENSCHAFTEN:
+  zeitliche_besiedlung: Altsteinzeit
+  bewohner: Neanderthaler, erste moderne Menschen
+GUELTIG_AB: 50000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: befestigung
+BEZEICHNUNG: Dietzenley
+EIGENSCHAFTEN:
+  zeitliche_nutzung: Bronzezeit
+  nutzer: Kelten
+  funktion: Fliehburg
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: archäologische_stätte
+BEZEICHNUNG: römische Tempel und Behausungen
+EIGENSCHAFTEN:
+  zeitliche_periode: römische Zeiten
+  status: Reste erhalten
+GUELTIG_AB: 100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: burg
+BEZEICHNUNG: Burg Lissingen
+ORTSTEIL_BEZUG: Lissingen
+EIGENSCHAFTEN:
+  typ: ehemalige Wasserburg
+  lage_nähe: Kyll
+  älteste_gebäudeteile_jahr: 1280
+  urkundliche_erwähnung_jahr: 1212
+  besonderheit: nicht zerstört (anders als die meisten Eifler Burgen)
+  teilung_jahr: 1559
+  teilung_in: Nieder- und Oberburg
+  unterburg_nutzung: Veranstaltungs- und Kultureinrichtung
+GUELTIG_AB: 1212
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Erlöserkirche
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  bauzeit: 1907-1913
+  architekt: Franz Schwechten
+  einweihung_datum: 15. Oktober 1913
+  architektur_merkmale: großflächige Goldmosaiken, Rundbögen, dominierender Kuppel
+  beschreibung: für eine Kirche in der Diaspora geradezu verschwenderisch ausgestattet
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: römischer_herrensitz
+BEZEICHNUNG: Villa Sarabodis
+EIGENSCHAFTEN:
+  typ: Villa rustica
+  entdeckung_jahr: 1907
+  entdeckungsanlass: Vorarbeiten zum Bau der Erlöserkirche
+  datierung: 1. Jahrhundert nach Christus
+  artefakte: Fundamente, Hypokaustum (antike Fußbodenheizung)
+  exposition: in Schutzbau erhalten
+GUELTIG_AB: 100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: kultstätte
+BEZEICHNUNG: Juddekirchhof
+PROPERTIES:
+  lage: oberhalb von Gerolstein auf der Hustley
+  typ: keltisch-römische Kultstätte
+  errichtung_jahr: 124 nach Christus
+  errichtet_durch: Römer Marcus Victorius Pellentius
+  mauerreste_größe: ca. 63 mal 46 [Meter]
+  gebäude_innerhalb: Fundamente mehrerer Gebäude, zwei Tempel
+  tempel_herkules: Herkules-Tempel
+  tempel_caiva: Tempel der keltischen Göttin Caiva
+  ausgrabungen_jahr: 1927/28
+GUELTIG_AB: 124
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnbetriebswerk Gerolstein
+EIGENSCHAFTEN:
+  status: ehemals bedeutsam
+  erhaltene_teile: Ringlokschuppen, Drehscheibe (betriebsfertig erhalten)
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: schule
+BEZEICHNUNG: St. Matthias-Gymnasium
+EIGENSCHAFTEN:
+  gründung_jahr: 26. April 1911
+  gründer_leiter: Studienrat Lipowicz
+  ursprünglicher_name: Höhere Knabenschule Gerolstein
+  ursprünglicher_standort: Hauptstraße 89
+  trägerschaft_erstmittel: privat
+  trägerschaft_wechsel_1: kommunal (nach Erstem Weltkrieg)
+  schließung_1: während Inflation (Schulgeld zu hoch)
+  wiedereröffnung_1: 1924
+  erste_schülerin: 1927
+  schulleiter_rahm: Hubert Rahm (1920-1954, 34 Jahre)
+  schließung_2: 1944 (Zweiter Weltkrieg)
+  gebäudenutzung_1944_45: Lazarett und Soldatenunterkunft
+  zerstörung: Bombenangriff
+  wiedereröffnung_2: 1946
+  neuerung_1946: mittlere Reife möglich
+  umbenennung_1: Progymnasium Gerolstein
+  neuer_standort_einweihung: 1953 (Digoinstraße)
+  erster_abiturjahrgang: 1958
+  schülerzahl_1974: 1200
+  wechsel_trägerschaft_2: Landkreis Daun (1975)
+  umbenennung_2: St. Matthias-Gymnasium Gerolstein (1975)
+  schulleiter_molitor: Hermann-Josef Molitor (25 Jahre, bis 1992)
+  schulleiter_steinmetz: Heribert Steinmetz (bis Sommer 2014)
+  schulleiter_schmitz: Jutta Schmitz (ab Sommer 2014)
+  sanierung: 1996-2006
+  jubiläum_100_jahr: 2011
+  superlativ: 100-jähriges Jubiläum mit Festakt, Projektwoche und Jubiläumschronik
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schulpartnerschaft
+BEZEICHNUNG: Lycée/Collège Digoin
+EIGENSCHAFTEN:
+  beginn: 1985
+  land: Frankreich
+  resultante_städtepartnerschaft: Gerolstein-Digoin (1987)
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schulpartnerschaft
+BEZEICHNUNG: Ramat Gan
+EIGENSCHAFTEN:
+  beginn: 1987
+  land: Israel
+  typ: Austauschbegegnungen
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schulpartnerschaft
+BEZEICHNUNG: Groupe Scolaire de Kansi
+EIGENSCHAFTEN:
+  beginn: 2007
+  land: Ruanda
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: internat
+BEZEICHNUNG: Bischöfliches Internat Albertinum
+ORTSTEIL_BEZUG: Albertinumweg
+EIGENSCHAFTEN:
+  standort: ehemaliges Hotel
+  betrieb_jahre: 1946-1982
+  aufarbeitungsprojekt_start: Herbst 2019
+  abschlussbericht: Februar 2022
+  beschuldigte_zahl: 12
+  beschuldigte_typ: Direktoren (Priester)
+  vorwürfe: körperliche, psychische und sexualisierte Gewalt
+  träger: Bistum
+  träger_kritik: Vernachlässigung und unzureichende Kontrolle
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1982
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Gerolsteiner Brunnen
+EIGENSCHAFTEN:
+  typ: Mineralwasserproduzent
+  sitz: Gerolstein
+  reputation: bundesweit bekannt
+  tätigkeitsradius: bundesweit
+GUELTIG_AB: 1724
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Vulkan-Eifel-Bahn Betriebsgesellschaft
+EIGENSCHAFTEN:
+  sitz: Gerolstein
+  tätigkeitsradius: bundesweit
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: AKE-Eisenbahntouristik
+EIGENSCHAFTEN:
+  sitz: Gerolstein
+  relation_zu_vulkan_eifel_bahn: Schwesterunternehmen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: öffentliches WLAN
+EIGENSCHAFTEN:
+  kostenlose_standorte: 30
+  verfügbarkeit_seit: Sommer 2016
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: militärbasis
+BEZEICHNUNG: Eifelkaserne
+EIGENSCHAFTEN:
+  einheit: Informationstechnikbataillon 281
+  spezialanlage_bsg_g: eine von drei festen Bodenstationen des bundeswehreigenen Satellitenkommunikationssystems SATCOMBw
+  antennen_beschreibung: zwei C-Band-, eine X-Band-, zwei Ku-Band-Antennen
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sportanlage
+BEZEICHNUNG: Zentrale Sportanlage Gerolstein
+EIGENSCHAFTEN:
+  anlagen: Leichtathletikanlagen, Rasenplatz, Basketball- und Volleyballfelder
+  ansässiger_verein: SV Gerolstein
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: geologische_formation
+BEZEICHNUNG: Gerolsteiner Dolomiten
+EIGENSCHAFTEN:
+  höhe_über_kyll: 100 [Meter]
+  typ: devonisches Kalkriff
+  bildner: ausgestorbene Rugosen, Tabulaten, Stromatoporen
+  bestandteile_gebirgsmassiv: Hustley, Munterley, Auberg
+  visuelle_dominanz: 100 [Meter] über dem Talniveau
+  domination_ortsbild: ja
+GUELTIG_AB: 400000000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: naturdenkmale
+BEZEICHNUNG: Papenkaule
+EIGENSCHAFTEN:
+  typ: Trockenmaar
+GUELTIG_AB: 50000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: höhlen
+BEZEICHNUNG: Mühlsteinhöhlen/Eishöhlen
+ORTSTEIL_BEZUG: Roth
+EIGENSCHAFTEN:
+  typ: Höhlensystem
+GUELTIG_AB: 100000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: museum
+BEZEICHNUNG: Naturkundemuseum
+EIGENSCHAFTEN:
+  standort: in und um Gerolstein
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: museum
+BEZEICHNUNG: Kreisheimatmuseum
+EIGENSCHAFTEN:
+  standort: in und um Gerolstein
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: fundgebiet
+BEZEICHNUNG: Trilobitenfelder von Gees
+ORTSTEIL_BEZUG: Gees (südöstlich)
+EIGENSCHAFTEN:
+  lage_richtung: Richtung Salm
+  typ: bekanntes Fundgebiet
+  status: unter Naturschutz
+  fossilien: devonische Trilobiten (außergewöhnlich gut erhalten)
+GUELTIG_AB: 400000000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Digoin
+EIGENSCHAFTEN:
+  land: Frankreich
+  seit: 1987
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Gilze-Rijen
+EIGENSCHAFTEN:
+  land: Niederlande
+  seit: 1981
+  besonderheit: Kündigung durch Partnergemeinde, jedoch nicht akzeptiert von Gerolstein
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: stadtrat
+EIGENSCHAFTEN:
+  mitglieder: 24 Ratsmitglieder
+  wahl_datum: 9. Juni 2024
+  wahlmodus: personalisierte Verhältniswahl
+  vorsitzender_titel: ehrenamtlicher Stadtbürgermeister
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Winfried Wülferath
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 22. April 2026
+  wahlmodus: Direktwahl
+  wahl_datum: 22. März 2026 (parallel zur Landtagswahl)
+  wahl_stimmen_prozent: 75,8
+  gegner: parteilos
+  wahlperiode_bis: 2029
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Stefanie Lorisch
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 17. Juli 2024
+  amtsende_geplant: August 2025 (Rücktritt)
+  wahl_datum: 9. Juni 2024
+  wahl_stimmen_prozent: 51,0
+  gegner: Amtsinhaber
+  grund_amtsende: Rücktritt angekündigt
+GUELTIG_AB: 2024
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Uwe Schneider
+EIGENSCHAFTEN:
+  partei: SPD
+  amtsantritt: Juni 2019
+  wahlmodus: Stichwahl
+  gegner: Friedhelm Bongartz (CDU, Amtsinhaber)
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Hubert Rahm
+EIGENSCHAFTEN:
+  beruf: Schulleiter
+  verleihung_jahr: 1959
+GUELTIG_AB: 1959
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Herbert Neusen
+EIGENSCHAFTEN:
+  beruf: Geschäftsführer Gerolsteiner Brunnen
+  verleihung_jahr: 1985
+GUELTIG_AB: 1985
+IST_VERMUTISCH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Pierre Sefer
+EIGENSCHAFTEN:
+  verdienst: Städtepartnerschaft mit Digoin/Burgund
+  verleihung_jahr: 2007
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Maria Reese
+EIGENSCHAFTEN:
+  geboren: 1889
+  gestorben: 1958
+  berufe: Schriftstellerin, Journalistin, Politikerin
+  parteien: SPD, KPD
+GUELTIG_AB: 1889
+GUELTIG_BIS: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Rolf Huisgen
+EIGENSCHAFTEN:
+  geboren: 1920
+  gestorben: 2020
+  beruf: Chemiker
+GUELTIG_AB: 1920
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Alois Mertes
+EIGENSCHAFTEN:
+  geboren: 1921
+  gestorben: 1985
+  berufe: Politiker, Diplomat, Staatsminister
+  partei: CDU
+  amt: Auswärtiges Amt
+GUELTIG_AB: 1921
+GUELTIG_BIS: 1985
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ernst Pieper
+EIGENSCHAFTEN:
+  geboren: 1928
+  gestorben: 1995
+  beruf: Industriemanager
+GUELTIG_AB: 1928
+GUELTIG_BIS: 1995
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Heinrich Schmitz
+EIGENSCHAFTEN:
+  geboren: 1929
+  gestorben: 2000
+  beruf: Politiker
+  partei: CDU
+GUELTIG_AB: 1929
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Matthias Krings
+EIGENSCHAFTEN:
+  geboren: 1943
+  beruf: Moderator
+GUELTIG_AB: 1943
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Eva Hahn
+EIGENSCHAFTEN:
+  geboren: 1946
+  beruf: Historikerin
+GUELTIG_AB: 1946
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hans Henning Hahn
+EIGENSCHAFTEN:
+  geboren: 1947
+  beruf: Historiker
+GUELTIG_AB: 1947
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Herbert Klaeren
+EIGENSCHAFTEN:
+  geboren: 1950
+  beruf: Informatiker
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Marita Kraemer
+EIGENSCHAFTEN:
+  geboren: 1953
+  beruf: Managerin
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Rudi Gores
+EIGENSCHAFTEN:
+  geboren: 1957
+  berufe: Fußballspieler, Fußballtrainer
+GUELTIG_AB: 1957
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Alice Creischer
+EIGENSCHAFTEN:
+  geboren: 1960
+  beruf: Künstlerin
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Michael Baales
+EIGENSCHAFTEN:
+  geboren: 1963
+  beruf: Archäologe
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Michael Fisch
+EIGENSCHAFTEN:
+  geboren: 1964
+  beruf: Schriftsteller
+GUELTIG_AB: 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hans Peter Böffgen
+EIGENSCHAFTEN:
+  geboren: 1965
+  genauigkeit: ca.
+  berufe: Verwaltungsbeamter, Politiker
+  partei: parteilos
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Hans-Josef Endres
+EIGENSCHAFTEN:
+  geboren: 1966
+  berufe: Maschinenbauingenieur, Hochschullehrer
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Elizabeth Blonzen
+EIGENSCHAFTEN:
+  geboren: 1968
+  berufe: Schauspielerin, Autorin
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Frank Rock
+EIGENSCHAFTEN:
+  geboren: 1970
+  beruf: Politiker
+  partei: CDU
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Andreas Önnerfors
+EIGENSCHAFTEN:
+  geboren: 1971
+  beruf: Historiker
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Christian Humberg
+EIGENSCHAFTEN:
+  geboren: 1976
+  berufe: Schriftsteller, Literaturübersetzer
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Johannes Fröhlinger
+EIGENSCHAFTEN:
+  geboren: 1985
+  beruf: Radrennfahrer
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Christian Vietoris
+EIGENSCHAFTEN:
+  geboren: 1989
+  beruf: Autorennfahrer
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ruth Greb
+EIGENSCHAFTEN:
+  geboren: 1993
+  beruf: Politikerin
+  partei: SPD
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verkehrsnetz
+BEZEICHNUNG: Bundesstraße 410
+EIGENSCHAFTEN:
+  streckenverlauf: von der luxemburgischen Grenze (Dasburg) bis nach Hirten bei Mayen
+  anbindung_autobahn: Bundesautobahn 1, Anschlussstelle 118
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Eifelstrecke
+EIGENSCHAFTEN:
+  streckenverlauf: Köln–Euskirchen–Gerolstein–Trier
+  schienenpersonennahverkehr: ja
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Gerolstein
+EIGENSCHAFTEN:
+  bahnstrecke: Eifelstrecke
+  bahnverkehr: Schienenpersonennahverkehr
+  infrastruktur: Regionalzuganbindung (Trier, Köln, Koblenz)
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Eifel-Mosel-Express (RE 12)
+EIGENSCHAFTEN:
+  streckenverlauf: Köln–Euskirchen–Gerolstein–Trier
+  fahrzeugsystem: VAREO-Diesel-Triebwagen
+  fahrzeugreihe: DB-Baureihe 620, 622
+  traktion: Ein- bis Dreifachtraktion
+  geschwindigkeit_max: 120 [km/h]
+  betreiber: DB Regio NRW
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Eifel-Express (RE 22)
+EIGENSCHAFTEN:
+  streckenverlauf: Köln–Euskirchen–Gerolstein
+  durchbindung: nach Trier (RB 22)
+  betreiber: DB Regio NRW
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Eifel-Bahn (RB 24)
+EIGENSCHAFTEN:
+  streckenverlauf: Köln–Euskirchen–Kall
+  besonderheit: in der HVZ bis Gerolstein
+  betreiber: DB Regio NRW
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Eifelquerbahn
+EIGENSCHAFTEN:
+  status: bis Kaisersesch stillgelegt
+  streckenverlauf: Daun-Kaisersesch nach Andernach (KBS 478)
+  aktuelles_vorhaben: Reaktivierung angestrebt
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Westeifelbahn
+EIGENSCHAFTEN:
+  status: stillgelegt
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Hochwasser 2021
+EIGENSCHAFTEN:
+  ereignis: Dauerregen 14./15. Juli 2021 und Jahrhunderthochwasser
+  auswirkung: Bahnverkehr vollständig eingestellt
+  wiederherstellung_teilweise: April 2023
+  geschätzter_abschluss: 2024
+GUELTIG_BIS: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: buslinie
+BEZEICHNUNG: 460 / 465
+EIGENSCHAFTEN:
+  streckenverlauf: Gerolstein über Prüm nach Clervaux (LU) bzw. St. Vith (BE)
+  takt_prüm_richtung: Montag bis Samstag Stundentakt, sonntags alle 2 Stunden
+  takt_clervaux_richtung: Montag bis Samstag alle 2 Stunden, sonntags alle 4 Stunden
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: buslinie
+BEZEICHNUNG: 530
+EIGENSCHAFTEN:
+  typ: Ringverbindung
+  streckenverlauf: Oberbettingen, Hillesheim, Walsdorf, Rockeskyll, Pelm und Gerolstein
+  takt: Montag bis Sonntag alle 2 Stunden
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: buslinie
+BEZEICHNUNG: 700
+EIGENSCHAFTEN:
+  typ: RegioBus-Linie
+  streckenverlauf: Gerolstein über Daun, Ulmen nach Cochem
+  takt: Montag bis Sonntag stündlich
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: buslinie
+BEZEICHNUNG: 777
+EIGENSCHAFTEN:
+  typ: RadBus-Linie
+  betrieb: an Wochenenden
+  streckenverlauf: Gerolstein nach Cochem über Daun
+  takt: Samstag und Sonntag alle 2 Stunden
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 531
+EIGENSCHAFTEN:
+  streckenverlauf: Pelm – Bahnhof/ZOB – Krankenhaus – Vulkanring – Bewingen – Dohm – Hillesheim
+  anmeldung_voraus: mind. 60 Minuten vor Abfahrt
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 532
+EIGENSCHAFTEN:
+  typ: Ringverkehr
+  streckenverlauf: Gerolstein – Lissingen – Kopp – Birresborn – Michelbach – Büscheich – Gerolstein
+  takt: Montag bis Samstag alle 60 Minuten
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 533
+EIGENSCHAFTEN:
+  streckenverlauf: Gerolstein – Michelbach – Salm – Deudesfeld – Manderscheid
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 534
+EIGENSCHAFTEN:
+  streckenverlauf: Gerolstein – Pelm – Kirchweiler – Neroth – Daun
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 535
+EIGENSCHAFTEN:
+  streckenverlauf: Gerolstein Waldstraße – Rasbach/Feuerwehr – Bahnhof/ZOB – Gees
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ruflinie
+BEZEICHNUNG: 546
+EIGENSCHAFTEN:
+  typ: Ringverkehr
+  streckenverlauf: BBS/Einkaufszentrum – Bahnhof – Rasbach/Feuerwehr – Müllenborn – Oos – Duppach – Kalenborn-Scheuern – Lindenstraße – Krankenhaus – Bahnhof/ZOB
+  takt: Montag bis Samstag alle 60 Minuten
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kulturelle_referenz
+BEZEICHNUNG: Operette La Grande-Duchesse de Gérolstein
+EIGENSCHAFTEN:
+  komponist: Jacques Offenbach
+  kompositionsjahr: 1867
+  szenarium: fiktives deutsches Herzogtum Gerolstein
+  zeitliche_ansiedlung: um 1840
+  bezug_realort: kein Bezug zum realen Ort Gerolstein
+GUELTIG_AB: 1867
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

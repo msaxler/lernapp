@@ -1,0 +1,223 @@
+ID: 05-rengsdorf+2/001
+ENTITÄT: gebietskörperschaft
+BEZEICHNUNG: Verbandsgemeinde Rengsdorf-Waldbreitbach
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  art: Verbandsgemeinde
+  bundesland: Rheinland-Pfalz
+  landkreis: Neuwied
+  gegründet_durch: freiwilliger Zusammenschluss
+  gegründung: 2018-01-01
+  einwohner: 26.664 [Stand 31.12.2025]
+  fläche: 124,2 [km²]
+  ortsgemeinden: 20 eigenständige Ortsgemeinden
+  verwaltungssitz: Rengsdorf
+  verwaltungsstelle: Waldbreitbach
+  nebenstelle: Anhausen
+GUELTIG_AB: 2018
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf+2/002
+ENTITÄT: gebietskörperschaft
+BEZEICHNUNG: Verbandsgemeinde Rengsdorf (historisch)
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  art: Verbandsgemeinde
+  entstehung: 1968 (Funktional- und Gebietsreform Rheinland-Pfalz)
+  herkunft: Amt Rengsdorf (preußische Zeit)
+  einwohner_2009: 16.434 [Stichtag 30.06.2009]
+  fusioniert_mit: Verbandsgemeinde Waldbreitbach
+  fusionsdatum: 2018-01-01
+GUELTIG_AB: 1968
+GUELTIG_BIS: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+2/003
+ENTITÄT: gebietskörperschaft
+BEZEICHNUNG: Verbandsgemeinde Waldbreitbach (historisch)
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  art: Verbandsgemeinde
+  entstehung: 1968 (Funktional- und Gebietsreform Rheinland-Pfalz)
+  herkunft: Amt Neuerburg (preußische Zeit)
+  einwohner_2009: 9.397 [Stichtag 30.06.2009]
+  unterschreitung_mindesteinwohnerzahl: true
+  fusioniert_mit: Verbandsgemeinde Rengsdorf
+  fusionsdatum: 2018-01-01
+GUELTIG_AB: 1968
+GUELTIG_BIS: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+2/004
+ENTITÄT: person
+BEZEICHNUNG: Hans-Werner Breithausen
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  funktion: Bürgermeister Verbandsgemeinde Rengsdorf-Waldbreitbach
+  partei: SPD
+  amtsantritt: 2018-01-01
+  amtsende: 2026-01-01
+  auszeichnung: erster Bürgermeister der neuen Verbandsgemeinde
+  stichwahl_2017: 2017-10-15
+  stimmenanteil_stichwahl: 56,63 %
+  nachfolger: Pierre Fischer (CDU, amtiert seit 2026-01-01)
+  pensionierung: 2026-01-01
+GUELTIG_AB: 2018
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf+2/005
+ENTITÄT: person
+BEZEICHNUNG: Pierre Fischer
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  funktion: Bürgermeister Verbandsgemeinde Rengsdorf-Waldbreitbach
+  partei: CDU
+  amtsantritt: 2026-01-01
+  wahl_2025: direktwahl
+  erster_wahlgang: 2025-04-06
+  stimmenanteil_erster_wahlgang: 43,4 %
+  stichwahl: 2025-04-27
+  stimmenanteil_stichwahl: 54,4 %
+  gegenkandidat_stichwahl: Achim Braasch (parteilos)
+GUELTIG_AB: 2026
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 05-rengsdorf+2/006
+ENTITÄT: person
+BEZEICHNUNG: Achim Braasch
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  kandidatur: Bürgermeisterwahl Verbandsgemeinde Rengsdorf-Waldbreitbach 2025
+  partei: parteilos
+  erster_wahlgang: 2025-04-06
+  stichwahl: 2025-04-27
+  stimmenanteil_stichwahl: 31,9 %
+  ergebnis: unterlag Pierre Fischer
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL:
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+2/007
+ENTITÄT: gremium
+BEZEICHNUNG: Verbandsgemeinderat Rengsdorf-Waldbreitbach
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  mitglieder_ehrenamtlich: 36
+  mitglieder_hauptamtlich: 1 (Bürgermeister als Vorsitzender)
+  wahl: 2024-06-09 (Kommunalwahl)
+  wahlsystem: personalisierte Verhältniswahl
+  erste_amtszeit_von: 2018-01-01
+  erste_amtszeit_bis: 2024 (Kommunalwahl)
+  wahl_vorgänger: 2017-09-24
+  enddatum_alte_räte: 2017-12-31
+GUELTIG_AB: 2018
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+2/008
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Funktional- und Gebietsreform Rheinland-Pfalz 1968
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  jahr: 1968
+  wirkung_rengsdorf: Verbandsgemeinde Rengsdorf entstand aus Amt Rengsdorf
+  wirkung_waldbreitbach: Verbandsgemeinde Waldbreitbach entstand aus Amt Neuerburg
+GUELTIG_AB: 1968
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+2/009
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Erste Landesgesetz zur Kommunal- und Verwaltungsreform
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  jahr: 2010
+  beschluss: Landtag Rheinland-Pfalz
+  ziel: Verbesserung Leistungsfähigkeit, Wettbewerbsfähigkeit und Verwaltungskraft kommunaler Strukturen
+  regelung_verbandsgemeinden: Mindesteinwohnerzahl 12.000
+  zeitstichtag: 2009-06-30
+  folge_waldbreitbach: Unterschreitung mit 9.397 Einwohnern
+  folge_rengsdorf: Erfüllung mit 16.434 Einwohnern
+GUELTIG_AB: 2010
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf+2/010
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Fusionsvereinbarung Rengsdorf-Waldbreitbach
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  datum: 2016-10-07
+  unterzeichner: Bürgermeister der Verbandsgemeinden Rengsdorf und Waldbreitbach
+  inhalt: Vereinbarung zur freiwilligen Fusion
+  wirkung: 2018-01-01
+GUELTIG_AB: 2016
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+2/011
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Landesgesetz Zusammenschluss Rengsdorf-Waldbreitbach
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  verabschiedung: 2017-04-13
+  ort_verabschiedung: Landtag Rheinland-Pfalz
+  inhalt: Gesetz über den Zusammenschluss der Verbandsgemeinden Rengsdorf und Waldbreitbach
+  wirkung: Rechtliche Grundlage der Fusion zum 2018-01-01
+  staatliche_zuweisung: 2.000.000 [Euro]
+GUELTIG_AB: 2017
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 05-rengsdorf+2/012
+ENTITÄT: organisation
+BEZEICHNUNG: Freie Wählergruppe Wiedtal-Rengsdorfer Land e. V. (FWG WIR)
+ORTSTEIL_BEZUG: Rengsdorf
+EIGENSCHAFTEN:
+  art: Wählergruppe / Verein
+  region: Wiedtal-Rengsdorfer Land
+  funktion: Vertreter im Verbandsgemeinderat Rengsdorf-Waldbreitbach
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 05-rengsdorf+2/013
+ENTITÄT: gebietskörperschaft
+BEZEICHNUNG: Amt Rengsdorf
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  herkunft: Preußische Zeit
+  auflösung: 1968
+  nachfolger: Verbandsgemeinde Rengsdorf
+GUELTIG_AB:
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 05-rengsdorf+2/014
+ENTITÄT: gebietskörperschaft
+BEZEICHNUNG: Amt Neuerburg
+ORTSTEIL_BEZUG:
+EIGENSCHAFTEN:
+  herkunft: Preußische Zeit
+  auflösung: 1968
+  nachfolger: Verbandsgemeinde Waldbreitbach
+GUELTIG_AB:
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

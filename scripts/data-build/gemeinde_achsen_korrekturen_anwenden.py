@@ -18,9 +18,14 @@ import re
 import sys
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1')
+ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'))
 BLATT_V1 = os.path.join(WURZEL, 'docs', 'konzepte', 'quizaway-stufe2-kuratierblatt-2026-10-01.md')
 LAEUFE = {'v0.6': ('karten-v0.6', 'Karte', 60), 'v0.5': ('karten-v0.5', 'Karte', 60), 'v0.4': ('karten', 'Vorschlag', 70)}
+# ein weiterer Raum (GA_RAUM=neuwied) nennt seine Läufe in <raum>/orte.json; ein Kuratierblatt des ersten Laufs hat er nicht
+if os.path.exists(os.path.join(ITER, 'orte.json')):
+    with io.open(os.path.join(ITER, 'orte.json'), encoding='utf-8') as _f:
+        LAEUFE = dict((l[0], (l[3], l[1], l[4])) for l in json.load(_f)['laeufe'])
+    BLATT_V1 = None
 FELDER = 'FAKTENCHECK|SORTE|FAMILIE|FAKT-ID|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|ANSCHLUSS|NEGATIVNACHWEISE|PRÜFHINWEIS|## '
 
 
@@ -103,7 +108,7 @@ def main():
             schreibe(os.path.join(ITER, 'karten-geprueft', lauf, ort + '.md'), ''.join(aus))
 
     # Kuratierblatt des ersten Laufs: Ersetzungen nachziehen, Faktencheck an die Kennzeile hängen
-    blatt = lies(BLATT_V1)
+    blatt = lies(BLATT_V1) if BLATT_V1 else ''
     for (ort, lauf, nr), k in korr.items():
         if lauf != 'v0.4':
             continue
@@ -127,7 +132,8 @@ def main():
             z = re.sub(r' · Faktencheck: .*$', '', z)
             z = re.sub(r'^\d+ Wörter', '%d Wörter' % woerter[s], z)
             zeilen[i] = '%s · Faktencheck: **%s**%s' % (z, status[s][0], '' if status[s][0] == 'bestätigt' else ' (%s)' % status[s][1])
-    schreibe(BLATT_V1, '\n'.join(zeilen))
+    if BLATT_V1:
+        schreibe(BLATT_V1, '\n'.join(zeilen))
 
     zahl = {}
     for st, _ in status.values():

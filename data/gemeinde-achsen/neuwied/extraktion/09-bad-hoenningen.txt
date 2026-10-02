@@ -1,0 +1,1226 @@
+ENTITÄT: ort
+BEZEICHNUNG: Bad Hönningen
+EIGENSCHAFTEN:
+  ist_stadt: true
+  ist_heilbad: true
+  ist_badeort: true
+  ist_weinort: true
+  ist_verwaltungssitz: true
+  verwaltungssitz_von: Verbandsgemeinde Bad Hönningen
+  landkreis: Neuwied
+  bundesland: Rheinland-Pfalz
+  lage_fluss: rechtes Ufer des Mittelrheins
+  naturpark: Rhein-Westerwald
+  ist_grundzentrum: true
+  entfernung_zu_koblenz_km: 10
+  entfernung_richtung_koblenz: südöstlich
+  position_rheinstrom: zwischen Koblenz im Süden und Bonn im Norden
+  uferpromenade_laenge_km: 1,5
+  stadtwald_wanderwege_km: 60
+  stadtteil_ariendorf: true
+  stadtteil_girgenrath: true
+  stadtteil_reidenbruch: true
+GUELTIG_AB: 1019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: ortsname
+BEZEICHNUNG: Hönningen
+EIGENSCHAFTEN:
+  etymologie_althochdeutsch: Hoho mit -ing-Suffix bedeutet Siedlung des Hoho
+  erste_urkundliche_nennung: 1019
+  erste_nennung_als_hohingen_im_ingerisgowe: 1019
+  nennung_als_pfarrei: 1204
+GUELTIG_AB: 1019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: gewässer
+BEZEICHNUNG: Mittelrhein
+EIGENSCHAFTEN:
+  flusstyp: Rheinabschnitt
+  ortslage: Bad Hönningen liegt am rechten Ufer
+  relevanz_fuer_stadt: Lage, Verkehr, Tourismus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ENTITÄT: landschaftselement
+BEZEICHNUNG: Hönninger Schlossberg
+EIGENSCHAFTEN:
+  typ: Weinberg
+  größe_hektar: 9
+  superlativ: größter zusammenhängender Weinberg am Mittelrhein
+  lage: rechtsrheinisch am Mittelrhein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schloss Arenfels
+EIGENSCHAFTEN:
+  ursprung_burg: Burg Arenfels
+  erbauer_ursprung: Gerlach von Isenburg
+  bau_ursprung_jahresbereich: 1258-1259
+  teil_westflügel_jahr: 1258
+  teil_bergfried_jahr: 1259
+  lehnsuebergang_haus: Haus von der Leyen
+  lehnsuebergang_jahr: 1670
+  erwerber: Reichsgraf Ludolf Friedrich von Westerholt
+  erwerb_jahr: 1848
+  umbauer: Ernst Friedrich Zwirner (Kölner Dombaumeister)
+  umbau_style: neugotisch
+  umbau_jahresbereich: 1849-1855
+  heutiger_besitzer: Antonius Freiherr Geyr von Schweppenburg
+  heutige_nutzung: Hotel und Eventlocation
+  veranstaltung_schlosleuchten: true
+GUELTIG_AB: 1258
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Hohe Haus
+PROPERTIES:
+  baustil: spätgotischer Wohnturm
+  material: einheimischer Bruchstein
+  erbauer: Trierer Erzbischof Raban von Helmstatt
+  bau_jahr: 1438
+  umbau_jahr: 1617
+  umbauer: Graf Ernst von Isenburg
+  umbau_massnahme: Einbau Spindeltreppe und Kölner Decke
+  erwerb_heimatverein_jahr: 1996
+  sanierung_heimatverein_ab: 2000
+  sanierung_leitung: Thomas Kesseler (Maler, Bildhauer, Architekt)
+  sanierung_massnahmen_ab_herbst_2025: Außenputz und Fenster
+  museum_eroeffnung_jahr: 2000
+  legendenbezug: soll geheimen Tunnel zu Schloss Arenfels haben
+GUELTIG_AB: 1438
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: bauwerk
+DESIGNATION: Burg Ariendorf
+ORTSTEIL_BEZUG: Ariendorf
+EIGENSCHAFTEN:
+  erbauer: Ludwig von Loch
+  baustil: neugotisch
+  bau_jahr: 1840
+  erbauer_schloss: Ernst Friedrich Zwirner (Kölner Dombaumeister)
+  vorgaenger_struktur: abgerissenes mittelalterliches Hofhaus
+  vorgaenger_erwerb_jahr: 1706
+  vorgaenger_erwerb_von: Kloster Nivellen
+  vorgaenger_erwerber: Kurfürst Johann Hugo von Orsbeck (Trier)
+GUELTIG_AB: 1840
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Tempelhof
+EIGENSCHAFTEN:
+  erste_nennung_besitzer_templerorden: 1225
+  besitzerobernahme_johanniterorden: 1317
+  besitz_nach_saekularisation_ab: 1817
+  besitzer_freiherr_von_salis: true
+  besitzer_marquis_von_villers: true
+  besitzer_freiherren_geyr_von_schweppenburg: true
+GUELTIG_AB: 1225
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Burghaus am Rhein
+EIGENSCHAFTEN:
+  baustil: Renaissancestil
+  erbauer: Christoph von Wintzler (kurkölnischer Vizekanzler)
+  bau_zeit: Anfang 17. Jahrhundert
+  nutzung_jahr_1844: erste Hönninger Poststation
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: St. Georgenhof
+EIGENSCHAFTEN:
+  alternative_bezeichnung: sand (Sankt) Jürgenhoff
+  nacheigentum: Hohe Haus (Standort)
+  nennung_bis: Anfang 15. Jahrhundert
+  verkauf_jahr: 1422
+  verkauf_alternative_jahr: 1424
+  verkaeufer: Bamberger Domkapitel
+  kaeufer: Erzbischof Otto von Trier
+  kaufpreis_gulden: 1500
+GUELTIG_AB: 1019
+GUELTIG_BIS: 1422
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Hofgut Hoinga
+EIGENSCHAFTEN:
+  alternativname: zweites Hofgut zu Hoinga
+  gaeberin: Witwe Gerbrich (Schwester des Gaugrafen Otto von Hammerstein)
+  schenkung_jahr: 1041
+  beschenker: Trierer Erzbischof Poppo
+  weitergabe: Trierer Erzbischof Poppo schenkte es dem St. Simeonsstift
+  beschenkte_institution: St. Simeonsstift in Trier
+GUELTIG_AB: 1041
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: religiöse_institution
+BEZEICHNUNG: Pfarrei Hönningen
+EIGENSCHAFTEN:
+  erste_nennung_jahr: 1204
+  gruender_institution_1: Hochstift Bamberg
+  gruender_institution_2: Trierer Simeonsstift
+  gemeinsame_gruendung: true
+  ausdehnung_rheinfluss: von Bach in Ariendorf im Norden bis zum früheren Verlauf des Limes an der Grenze nach Rheinbrohl
+  ausdehnung_westerwald: Hof Reidenbruch
+  ausdehnung_wed: Hof Girgenrath (jenseits der Wasserscheide)
+  grenzkorrektur_20_jahrhundert: geringfügig
+GUELTIG_AB: 1204
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: religiöse_institution
+BEZEICHNUNG: St. Peter und Paul
+EIGENSCHAFTEN:
+  typ: Katholische Pfarrkirche
+  baustil: 18. Jahrhundert
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Mönchshof
+EIGENSCHAFTEN:
+  bau_jahr: 1209
+  erhaltungsstatus: heute noch zum Teil existierend
+GUELTIG_AB: 1209
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Altes Stadtweingut
+EIGENSCHAFTEN:
+  alternative_bezeichnung: Wirtschaftsgebäude des Winzervereins
+  winzerverein_grundung: 1888
+GUELTIG_AB: 1888
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: weltkulturerbe
+BEZEICHNUNG: Obergermanisch-Raetischer Limes
+EIGENSCHAFTEN:
+  beginn_standort: Nachbargemeinde Rheinbrohl
+  endstandort: Regensburg
+  zeitperiode_erbauung: 1. bis 3. Jahrhundert n. Chr.
+  erbauungszweck: Schutz des Römischen Reiches gegen germanische Übergriffe
+  bodendenkmal_lage: unweit Bad Hönningens am Rhein, in unmittelbarer Nähe der Stadtgrenze
+  unesco_anerkennung_datum: 15. Juli 2005
+  unesco_status: Weltkulturerbe
+  länge_teil_deutscher_limes_wanderweg_km: 734,7
+  endpunkt_deutscher_limes_wanderweg: Bad Gögging
+GUELTIG_AB: 100
+GUELTIG_BIS: 300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Artus Mineralbrunnen GmbH
+EIGENSCHAFTEN:
+  ursprung_firmen: Hubertus Sprudel und Arienheller Kohlensäurewerk
+  gruendung_jahr: 1896-1897
+  quellenentdeckung_jahr: 1894
+  quellenentdecker: Peter Lang (Breisiger Bürger)
+  hubertusquelle_tiefe_meter: 294
+  arienheller_quelle_tiefe_meter: 380
+  expansion_1970er_jahre: Übernahme Brunnen Bornheim-Roisdorf
+  roisdorf_tradition: seit Römerzeit Mineralwasser-Förderung (soll)
+  insolvenzverfahren_ab: 2002
+  schließung_datum: 31. Mai 2008
+GUELTIG_AB: 1896
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Hubertus Sprudel
+EIGENSCHAFTEN:
+  gruendung_jahr: 1896-1897
+  integration_in: Artus Mineralbrunnen GmbH
+GUELTIG_AB: 1896
+GUELTIG_BIS: 1897
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Arienheller Kohlensäurewerk
+EIGENSCHAFTEN:
+  gruendung_jahr: 1896-1897
+  integration_in: Artus Mineralbrunnen GmbH
+GUELTIG_AB: 1896
+GUELTIG_BIS: 1897
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: CARBO Kohlensäurewerke
+EIGENSCHAFTEN:
+  gruendung_jahr: 1912
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Bad Hönninger Fruchtsäfte GmbH
+EIGENSCHAFTEN:
+  ab_jahr: 1918
+  eigentumsform: Familienbesitz
+GUELTIG_AB: 1918
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Kandelium
+EIGENSCHAFTEN:
+  vorgängername_1: Solvay GmbH
+  vorgängername_2: Kali Chemie
+  status_bis_2020_2021: Solvay GmbH
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: person
+BEZEICHNUNG: Mark Geimer
+EIGENSCHAFTEN:
+  amt: Stadtbürgermeister
+  amtsantritt: 26. April 2026
+  partei: parteilos
+  wahl_stichwahl_datum: 26. April 2026
+  wahl_stimmanteil_prozent: 62,5
+  wahl_gegner: Volker Risse (CDU)
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ENTITÄT: person
+BEZEICHNUNG: René Achten
+EIGENSCHAFTEN:
+  amt: Stadtbürgermeister
+  amtsantritt: 3. Juli 2024
+  amtsende: Ende 2025
+  grund_amtsende: Rücktritt
+  wahl_direktwahl_datum: 9. Juni 2024
+  wahl_stimmanteil_prozent: 66,7
+  partei: CDU
+GUELTIG_AB: 2024
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ENTITÄT: person
+BEZEICHNUNG: Reiner W. Schmitz
+EIGENSCHAFTEN:
+  amt: Stadtbürgermeister
+  amtsantritt: 31. Oktober 2020
+  partei: SPD
+  wahl_direktwahl_datum: 25. Oktober 2020
+  wahl_stimmanteil_prozent: 62,7
+  wahlbeteiligung_prozent: 61,2
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ENTITÄT: person
+BEZEICHNUNG: Guido Job
+EIGENSCHAFTEN:
+  amt: Stadtbürgermeister
+  amtsantritt_jahr: 1997
+  amtsbestaetigung_mai: 2014
+  amtsende_jahr: 2019
+GUELTIG_AB: 1997
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Ulrich Elberskirch
+EIGENSCHAFTEN:
+  amt: Stadtbürgermeister
+  wahl_datum: 26. Mai 2019
+  wahl_stimmanteil_prozent: 52,06
+  partei: parteilos
+  amtsrücktritt_sommer: 2020
+  grund_rücktritt: gesundheitliche Gründe
+GUELTIG_AB: 2019
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: person
+BEZEICHNUNG: Diana Göttes
+EIGENSCHAFTEN:
+  titel: 1. Beigeordnete
+  amtsgeschafte_kommissarisch: ab Sommer 2020 (nach Elberskirch Rücktritt)
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: August Schoop
+EIGENSCHAFTEN:
+  geburtsjahr: 1858
+  todesjahr: 1932
+  beruf: Historiker
+  geburtsort: Bad Hönningen
+GUELTIG_AB: 1858
+GUELTIG_BIS: 1932
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Johann Anton Stradmann
+EIGENSCHAFTEN:
+  geburtsjahr: 1689
+  todesjahr: 1753
+  beruf: Missionsbischof
+  missiostätte: Indien
+  geburtsort: Bad Hönningen
+GUELTIG_AB: 1689
+GUELTIG_BIS: 1753
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Karl-Heinz Thielen
+EIGENSCHAFTEN:
+  geburtsjahr: 1940
+  geburtsort: Ariendorf
+  beruf: Fußball-Nationalspieler
+GUELTIG_AB: 1940
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Carl Wülfing
+EIGENSCHAFTEN:
+  geburtsjahr: 1812
+  todesjahr: 1871
+  geburtsortalternativ: Monzingen an der Nahe
+  beruf: Landschaftsmaler der Romantik
+  militärischer_rang: Leutnant in Köln-Deutz
+  wohnort_ab: Bad Hönningen (vermutlich ab 1839)
+  kunstwerk: Gemälde im Sitzungssaal des Rathauses
+GUELTIG_AB: 1839
+GUELTIG_BIS: 1871
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: person
+BEZEICHNUNG: Willi Fischer
+EIGENSCHAFTEN:
+  geburtsjahr: 1920
+  todesjahr: 1991
+  beruf: Politiker
+  amt: Amtsbürgermeister Bad Hönningen
+  amtsdauer: 1958-1963
+GUELTIG_AB: 1958
+GUELTIG_BIS: 1963
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Hermann Ilaender
+EIGENSCHAFTEN:
+  geburtsjahr: 1933
+  todesjahr: 2021
+  beruf: Politiker, Verwaltungsbeamter, Forst-Verbandsfunktionär
+  amt: Bürgermeister der Verbandsgemeinde
+  amtsdauer: 1983-1999
+GUELTIG_AB: 1983
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Heinz Schwarz
+EIGENSCHAFTEN:
+  geburtsjahr: 1928
+  todesjahr: 2023
+  beruf: Politiker
+  amt_ehem_innenminister: Rheinland-Pfalz
+  amt_ehrenamtlicher_buergermeister: Stadt Bad Hönningen
+GUELTIG_AB: 1928
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Werner Becker
+EIGENSCHAFTEN:
+  herkunftsort: Bad Hönningen
+  beruf: Astrophysiker
+  entdeckung_teleskop: Röntgenteleskop eROSITA
+  entdeckung_objekt: Supernovaüberrest G249.5+24.5
+  entdeckung_datum: März 2021
+  namenswahl_objekt: althochdeutscher Name der Stadt Hoinga
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: person
+BEZEICHNUNG: Thomas Kesseler
+EIGENSCHAFTEN:
+  beruf: Maler, Bildhauer, Architekt
+  amt: Vorstandsmitglied Heimatverein Hönningen
+  projekt: Sanierung Hohe Haus (Außenputz und Fenster)
+  projekt_start: Herbst 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Peter Lang
+EIGENSCHAFTEN:
+  herkunftsort: Breisig
+  titel: Breisiger Bürger
+  leistung: erbohrt erste Kohlensäurequellen Bad Hönningens
+  bohrung_jahr: 1894
+GUELTIG_AB: 1894
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Kaiser Heinrich II.
+EIGENSCHAFTEN:
+  urkunde_schenkung: an Bamberger Domkapitel
+  schenkung_land: Besitztum Hönningen
+  schenkung_wording: Hohingen im Ingerisgowe
+  urkunde_jahr: 1019
+  urkunde_mitzeichner: Gemahlin Kunigunde
+GUELTIG_AB: 1019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Kunigunde
+EIGENSCHAFTEN:
+  titel: Gemahlin Kaiser Heinrich II.
+  urkunde_schenkung: an Bamberger Domkapitel
+  schenkung_land: Besitztum Hönningen
+  urkunde_jahr: 1019
+GUELTIG_AB: 1019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Gerlach von Isenburg
+EIGENSCHAFTEN:
+  leistung: Erbauer der Burg Arenfels
+  bau_jahresbereich: 1258-1259
+  bau_teile: Westflügel und Bergfried
+GUELTIG_AB: 1258
+GUELTIG_BIS: 1259
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: person
+BEZEICHNUNG: Ernst Friedrich Zwirner
+EIGENSCHAFTEN:
+  titel: Kölner Dombaumeister
+  projekte: Schloss Arenfels (Umbau 1849-1855), Burg Ariendorf (1840)
+  architekturstil: neugotisch
+GUELTIG_AB: 1840
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: person
+BEZEICHNUNG: Raban von Helmstatt
+EIGENSCHAFTEN:
+  titel: Trierer Kurfürst und Erzbischof
+  leistung: Erbauer des Hohen Hauses
+  bau_jahr: circa 1438
+GUELTIG_AB: 1438
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: person
+BEZEICHNUNG: Otto von Trier
+EIGENSCHAFTEN:
+  titel: Erzbischof
+  kauf_jahr: 1422 (oder 1424)
+  kauf_objekt: Besitz des Bamberger Domkapitels (St. Georgenhof)
+  kaufpreis_gulden: 1500
+GUELTIG_AB: 1422
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: person
+BEZEICHNUNG: Erzbischof Poppo
+EIGENSCHAFTEN:
+  titel: Trierer Erzbischof
+  empfaenger_schenkung: Hofgut Hoinga von Witwe Gerbrich
+  beschenkung_jahr: 1041
+  weitergabe_empfaenger: St. Simeonsstift in Trier
+GUELTIG_AB: 1041
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Ludolf Friedrich von Westerholt
+EIGENSCHAFTEN:
+  titel: Reichsgraf
+  erwerb_jahr: 1848
+  erwerb_objekt: Schloss Arenfels
+  beauftragter_umbau: Ernst Friedrich Zwirner
+GUELTIG_AB: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: person
+BEZEICHNUNG: Antonius Freiherr Geyr von Schweppenburg
+EIGENSCHAFTEN:
+  heutiger_besitzer: Schloss Arenfels
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Ernst von Isenburg
+EIGENSCHAFTEN:
+  titel: Graf
+  massnahme: Umbau Hohe Haus, Einbau Spindeltreppe und Kölner Decke
+  jahr: 1617
+GUELTIG_AB: 1617
+GUELTIG_BIS: 1617
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Christoph von Wintzler
+EIGENSCHAFTEN:
+  titel: kurkölnischer Vizekanzler
+  leistung: Erbauer des Burghauses am Rhein
+  bau_zeit: Anfang 17. Jahrhundert
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Johann Hugo von Orsbeck
+EIGENSCHAFTEN:
+  titel: Kurfürst von Trier
+  erwerb_jahr: 1706
+  erwerb_objekt: mittelalterliches Hofhaus (später Burg Ariendorf Vorgänger)
+  erwerber_von: Kloster Nivellen
+GUELTIG_AB: 1706
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Ludwig von Loch
+EIGENSCHAFTEN:
+  leistung: Erbauer Burg Ariendorf
+  bau_jahr: 1840
+  beauftragter_architekt: Ernst Friedrich Zwirner
+GUELTIG_AB: 1840
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Volker Risse
+EIGENSCHAFTEN:
+  partei: CDU
+  wahl_stichwahl_datum: 26. April 2026
+  wahl_gegner: Mark Geimer (parteilos)
+  wahl_stimmanteil_prozent: 37,5
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: person
+BEZEICHNUNG: Bill Evans
+EIGENSCHAFTEN:
+  beruf: Jazzmusiker
+  besonderheit: letztes Konzert in Europa vor seinem Tod
+  konzert_ort: Bad Hönninger Jazzclub
+  konzert_jahr: 1980
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: person
+BEZEICHNUNG: Otto von Hammerstein
+EIGENSCHAFTEN:
+  titel: Gaulgraf
+  relation_gerbrich: Schwester ist Witwe Gerbrich
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Ariendorf
+EIGENSCHAFTEN:
+  hauptort: Bad Hönningen
+  pfarrei_grenzmarker: Bach in Ariendorf (nördliche Grenze Pfarrei)
+GUELTIG_AB: 1204
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Girgenrath
+EIGENSCHAFTEN:
+  hauptort: Bad Hönningen
+  lage_geographisch: jenseits der Wasserscheide zur Wied hin
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: stadtteil
+BEZEICHNUNG: Reidenbruch
+EIGENSCHAFTEN:
+  hauptort: Bad Hönningen
+  lage_geographisch: auf den ersten Höhen des Westerwaldes
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Urkundliche Erstnennung Bad Hönningen
+EIGENSCHAFTEN:
+  ereignis_jahr: 1019
+  ereignis_typ: Schenkung durch Kaiser und Kaiserin
+  schenker: Kaiser Heinrich II. und Kunigunde
+  beschenkte_institution: Bamberger Domkapitel
+  geschenk: Besitztum Hohingen im Ingerisgowe
+  ortsteil_engersgau: Engersgau
+GUELTIG_AB: 1019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Große Stadtbrände
+EIGENSCHAFTEN:
+  ereignis_datum: 1632
+  ereignis_kontext: Dreißigjähriger Krieg
+  ereignis_beschreibung: Ortschaft bis auf 12 Häuser abgebrannt
+  besetzung: schwedische Truppen
+  folgen: Einquartierungen, Seuchen
+GUELTIG_AB: 1632
+GUELTIG_BIS: 1632
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Reformationsereignis
+EIGENSCHAFTEN:
+  ereignis_beschreibung: Hönningen blieb katholisch, während Nachbargemeinden evangelisch wurden
+  zeitraum: Reformation
+  besonderheit_konfessionell: katholisch geblieben
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Säkularisation
+EIGENSCHAFTEN:
+  ereignis_jahr: 1803
+  ereignis_folge: Ende der Grundherrschaft des Kurbistums Trier
+  ereignis_folge_2: Übergang zu Nassau
+  ereignis_folge_3: 1815 Übergang zu Preußen
+GUELTIG_AB: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Post- und Eisenbahn-Anschluss
+EIGENSCHAFTEN:
+  postanschluss_jahr: 1844
+  eisenbahnanschluss_jahr: 1870
+GUELTIG_AB: 1844
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Erste Weltkrieg
+EIGENSCHAFTEN:
+  todesfall_stadt: 97
+  besatzung_truppen: US-amerikanische Truppen
+  besatzungsdauer_bis: 1920
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Rheinhochwasser
+EIGENSCHAFTEN:
+  ereignis_zeitraum_1920er: 1920er-Jahren (wiederholt und zerstörerisch)
+  ereignis_jahre: 1920, 1924, 1926
+GUELTIG_AB: 1920
+GUELTIG_BIS: 1926
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Verfolgung jüdischer Bürger
+EIGENSCHAFTEN:
+  ratsbeschluss_jahr: 1935
+  ratsbeschluss_ziel: Ausschluss jüdischer Bevölkerung vom sozialen und ökonomischen Leben
+  deportation_jahr: 1941
+GUELTIG_AB: 1935
+GUELTIG_BIS: 1941
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Zweiter Weltkrieg
+EIGENSCHAFTEN:
+  todesfall_stadt: 110 Hönninger an verschiedenen Fronten
+  luftbombenangriffte: wiederholt in der Endphase
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Entwicklung zur Kur- und Badestadt
+EIGENSCHAFTEN:
+  erste_kohlensaeurequelle_jahr: 1894
+  erstes_badehaus_jahr: 1895
+  bad_titel_jahr: 1950
+  bad_titel_source: Landesregierung Rheinland-Pfalz
+  stadtrechte_datum: 12. Juli 1969
+GUELTIG_AB: 1894
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Bad Hönningen
+EIGENSCHAFTEN:
+  lage: rechtsrheinische Strecke Köln–Koblenz
+  stellwerk: Drucktastenstellwerk
+  stellwerk_jahr: 1960
+  zugverbindung_1: RE 8
+  zugverbindung_2: RB 27
+  zugverbindung_rhythmus: Halbstunden-Takt (abwechselnd)
+  direktverbindung_flughafen: RB 27 zum Flughafen Köln/Bonn (Stundenrhythmus)
+GUELTIG_AB: 1870
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bundesstraße B 42
+EIGENSCHAFTEN:
+  lage_zur_stadt: direkt an der Bundesstraße
+  anbindung_a48: Abfahrt Bendorf (Nr. 11)
+  anbindung_a59: Autobahnkreuz Bonn-Ost (Nr. 42)
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Landesstraße L 257
+EIGENSCHAFTEN:
+  verbindung_zu_wiedtal: true
+  verbindung_zu_westerwald: true
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autofähre Bad Hönningen – Bad Breisig
+EIGENSCHAFTEN:
+  grenze: an der Grenze zu Rheinbrohl
+  verbindung_zu: Bad Breisig (B 9)
+  verkehrsrhythmus: Viertelstundentakt zwischen frühem Morgen und spätem Abend
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Deutsche Limes-Straße
+EIGENSCHAFTEN:
+  laenge_km: 700
+  anfangsort: Bad Hönningen
+  endort: Regensburg
+  zielpunkt_endort: Donau
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Rheinischer Sagenweg
+EIGENSCHAFTEN:
+  lage_durchfahrt: führt durch Bad Hönningen
+  startort: Düsseldorf
+  endort: Mainz
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Rheinfähre Bad Hönningen – Bad Breisig
+EIGENSCHAFTEN:
+  lage: am linken Rheinufer Bad Breisig
+  verkehrsart: Personen- und Autofähre
+  verkehrsrhythmus: Viertelstundentakt zwischen frühem Morgen und spätem Abend
+  saisonale_schiffe_sommer: Schiffe der Weißen Flotte und Köln-Düsseldorfer
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: wanderweg
+BEZEICHNUNG: Rheinsteig
+EIGENSCHAFTEN:
+  start_endort: Bonn – Wiesbaden
+  durchfahrt: über Bad Hönningen, Koblenz (Festung Ehrenbreitstein)
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: wanderweg
+BEZEICHNUNG: Rheinhöhenweg
+EIGENSCHAFTEN:
+  start_endort: Bonn-Beuel – Wiesbaden
+  streckengleich_teilweise: Rheinsteig
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: wanderweg
+BEZEICHNUNG: Westerwaldsteig
+EIGENSCHAFTEN:
+  anfangspunkt: Herborn (Lahn-Dill-Kreis)
+  endpunkt: Bad Hönningen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: wanderweg
+BEZEICHNUNG: Limeswanderweg Westerwald Taunus
+EIGENSCHAFTEN:
+  anfangspunkt: Rheinbrohl
+  endpunkt: Lindschied
+  bezeichnung_abschnitt: nördlichster Abschnitt des Deutschen Limes-Wanderwegs
+  deutscher_limes_wanderweg_laenge_km: 734,7
+  deutscher_limes_wanderweg_endort: Bad Gögging
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: radweg
+BEZEICHNUNG: Rheinradweg
+EIGENSCHAFTEN:
+  anfangspunkt: Quellgebiet des Rheins in der Schweiz
+  endpunkt: Rotterdam
+  variant_rechtsrheinisch: passiert in rechtsrheinischen Variante Bad Hönningen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: radweg
+BEZEICHNUNG: Deutscher Limes-Radweg
+EIGENSCHAFTEN:
+  lage_entlang: Deutsche Limes-Straße
+  anfangspunkt: Bad Hönningen
+  endpunkt: Regensburg
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: sprachliches_phänomen
+BEZEICHNUNG: Bad Hönninger Linie des Rheinischen Fächers
+EIGENSCHAFTEN:
+  typ: Sprachgrenze
+  sprachraum: teilt moselfränkischen Sprachraum in einen nordwestlichen und einen südöstlichen Bereich
+  wirkort: überquert den Rhein bei Bad Hönningen
+  sprachliche_differenz: nördlich niederdeutsch, südlich oberdeutsch (Wort auf)
+  grund_sprachdifferenz: unterschiedliches Vollziehen der zweiten deutschen Lautverschiebung und Besiedlungsstruktur des Rheinlandes
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: sportverein
+BEZEICHNUNG: HSG Römerwall
+EIGENSCHAFTEN:
+  sportart: Handball
+  rang_regional: überregional bekannt
+  meisterschaft_leistung: 1. Seniorenmannschaft westdeutsche Meisterschaft 2001
+  folge_meisterschaft: Durchbruch in den Profibereich
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: karnevalsverein
+BEZEICHNUNG: Hönninger Karnevalsgesellschaft 1891 e. V.
+EIGENSCHAFTEN:
+  gruendung_jahr: 1891
+  veranstaltungen: Biwak der Garden mit Prinzenproklamation, Große Prunksitzung, Kinder- und Jugendkarneval, Veilchendienstagszug
+GUELTIG_AB: 1891
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: heimatverein
+BEZEICHNUNG: Heimatverein Hönningen
+EIGENSCHAFTEN:
+  erwerb_hohe_haus_jahr: 1996
+  erhalt_sanierung_hohe_haus: ab 1996
+  museum_eroeffnung: Mai 2000
+  sanierung_nach_denkmalschutz: ja
+  sanierung_massnahmen: Erweitern des Kellers um Sanitärräume
+  sanierung_massnahmen_2025: Außenputz und Fenster (ab Herbst 2025, Leitung Thomas Kesseler)
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: astronomisches_objekt
+BEZEICHNUNG: Supernovaüberrest G249.5+24.5 (Hoinga)
+EIGENSCHAFTEN:
+  entdecker: Werner Becker (Astrophysiker)
+  teleskop_entdeckung: Röntgenteleskop eROSITA
+  entdeckung_datum: März 2021
+  sternbild: Wasserschlange
+  galaktische_koordinaten_l: 249,5
+  galaktische_koordinaten_b: 24,5
+  hoehe_uber_galaktische_ebene: hoch über der galaktischen Ebene
+  supernovaexplosion_zeitraum: vor ca. 10.000 bis 20.000 Jahren
+  weltweites_vorkommen_vergleich: nur etwa 300 dieser Objekte am gesamten Himmel bekannt
+  temperatur: Millionen Grad
+  himmelsausdehnung: etwa 90-Vollmondscheiben
+  superlativ: größter Supernovaüberrest bisher im Röntgenlicht entdeckt
+  weltweite_beachtung: ja
+GUELTIG_AB: 10000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: tierischer_fund
+BEZEICHNUNG: Wölfin mit Jungtieren
+EIGENSCHAFTEN:
+  aufnahme_wildkamera: August 2019 (Ende August)
+  aufnahme_anzahl_jungtiere: 5
+  beschreibung_find: erste bestätigte Wolfsnachwuchs in Rheinland-Pfalz nach Wiederbesiedlung Deutschlands mit Wölfen
+  bestaetigung_landesregierung: Februar 2020
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: stadt_partnerschaft
+BEZEICHNUNG: Städtepartnerschaft Bad Hönningen – Saint-Pierre-lès-Nemours
+EIGENSCHAFTEN:
+  partnerstadt: Saint-Pierre-lès-Nemours
+  partnerstadt_land: Frankreich
+  gruendung_jahr: 1980
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: SchlossLeuchten
+EIGENSCHAFTEN:
+  ort: Schloss Arenfels
+  zeitpunkt: Januar bis Februar (jährlich)
+  beschreibung: Schlossgelände erstrahlt in bunten Lichtern, Lichtkunst wird ausgestellt
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: Matjes im Mai
+EIGENSCHAFTEN:
+  typ: Traditionelles Matjesfest
+  ort: Neustrasse von Bad Hönningen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: Mittelalterliches Pfingstspectaculum
+EIGENSCHAFTEN:
+  ort: Rheinanlagen
+  beschreibung: mittelalterliches Markt und Ritterspielen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: Weinblütenfest
+EIGENSCHAFTEN:
+  zeitpunkt: Anfang Juni
+  ort: Marktplatz
+  besonderheit: jährlich erstes Weinfest am Mittelrhein
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: St.-Peter-und-Paul-Kirmes
+EIGENSCHAFTEN:
+  zeitpunkt: Ende Juni
+  beschreibung: festliche Umzüge des Junggesellen-Vereins durch die Stadt
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: Tag des offenen Denkmals
+EIGENSCHAFTEN:
+  ort_1: Hohe Haus
+  ort_2: Schloss Arenfels
+  zeitpunkt: 2. Sonntag im September
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: Federweißefest
+EIGENSCHAFTEN:
+  zeitpunkt: Anfang November
+  ort: Alter Schulplatz
+  speiesen: frischer Federweißer und Zwiebelkuchen
+  unterhaltung: Live-Unterhaltung
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: Nostalgischer Weihnachtsmarkt
+EIGENSCHAFTEN:
+  zeitpunkt: Anfang Dezember
+  ort: Innenstadt
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: Romantischer Weihnachtsmarkt
+EIGENSCHAFTEN:
+  zeitpunkt: Mitte November bis Ende Dezember
+  ort: Schloss Arenfels
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: Antik Trödelmarkt
+EIGENSCHAFTEN:
+  zeitpunkt: Anfang Juli
+  ort: Rheinanlagen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: jazzclub
+BEZEICHNUNG: Bad Hönninger Jazzclub
+EIGENSCHAFTEN:
+  bedeutung_ereignis: Bill Evans spielte hier 1980 sein letztes Konzert vor seinem Tod
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: kirche
+BEZEICHNUNG: St. Simeonsstift Trier
+EIGENSCHAFTEN:
+  beschenk_empfaenger: Hofgut Hoinga (1041)
+  beschenkung_von: Erzbischof Poppo
+GUELTIG_AB: 1041
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: institution
+BEZEICHNUNG: Bamberger Domkapitel
+EIGENSCHAFTEN:
+  besitz_erwerbung: Besitztum Hohingen im Ingerisgowe (1019)
+  beschenker: Kaiser Heinrich II. und Kunigunde
+  besitz_verkauf: an Erzbischof Otto von Trier (1422, Preis 1500 Gulden)
+GUELTIG_AB: 1019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: römerzeit_fund
+BEZEICHNUNG: Antike Relikte
+EIGENSCHAFTEN:
+  zeitraum_fund: 19. und 20. Jahrhundert
+  zeitraum_herkunft: Römerzeit und Frankenzeit
+  siedlung_zeitraum: vor rund 1.800 Jahren
+  lage_limes: nördlich des heutigen Bad Hönningen in unmittelbarer Nähe des Limes
+GUELTIG_AB: -200
+GUELTIG_BIS: 300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: information_weg
+BEZEICHNUNG: Geologischer Informationsweg des Rheinlaufes
+EIGENSCHAFTEN:
+  beschreibung: 17 große Steine von Gebirgen entlang des Rheinlaufes
+  lage: Rheinanlagen der Stadt
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: verkehrsverbund
+BEZEICHNUNG: Verkehrsverbund Rhein-Mosel (VRM)
+EIGENSCHAFTEN:
+  geltungsbereich: Bad Hönningen (Landkreis Neuwied)
+  tarifbereich: Tarifgebiet des VRM
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: verkehrsverbund
+BEZEICHNUNG: Verkehrsverbund Rhein-Sieg (VRS)
+EIGENSCHAFTEN:
+  tariftyp_bad_hoenningen: Übergangstarif
+  bedingung: wenn Start/Zielbahnhof im VRS-Gebiet liegt
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: rat_stadtrat
+BEZEICHNUNG: Stadtrat Bad Hönningen
+EIGENSCHAFTEN:
+  anzahl_ratsmitglieder: 22
+  wahldatum: 9. Juni 2024
+  wahlsystem: personalisierte Verhältniswahl
+  vorsitzender: Stadtbürgermeister (ehrenamtlich)
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: herkunfts_urkunde
+BEZEICHNUNG: Schenkungsurkunde Kaiser Heinrich II. 1019
+EIGENSCHAFTEN:
+  beschenker: Kaiser Heinrich II. und seine Gemahlin Kunigunde
+  beschenkte: Bamberger Domkapitel
+  beschenk_objekt: Besitztum Hönningen (Hohingen im Ingerisgowe)
+  datum: 1019
+GUELTIG_AB: 1019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: papst_bestaetigung
+BEZEICHNUNG: Papst Hadrian IV. Bestätigung 1155
+EIGENSCHAFTEN:
+  besitaetigung_empfaenger: Simeonsstift Trier
+  bestaetigung_objekt: Zehnten zu Hoinga
+  datum: 1155
+GUELTIG_AB: 1155
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: konfessionsstatistik
+BEZEICHNUNG: Konfessionale Zusammensetzung Bad Hönningen
+EIGENSCHAFTEN:
+  stat_stand: März 2026
+  christliche_kirchenmitglieder_trend: sinkend seit vielen Jahren
+  sonstige_keine_religionsgemeinschaft_prozent: 53
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ENTITÄT: kloster_institution
+BEZEICHNUNG: Kloster Nivellen
+EIGENSCHAFTEN:
+  besitz_erwerb_erfolg: Verkauf mittelalterliches Hofhaus an Kurfürst Johann Hugo von Orsbeck (1706)
+GUELTIG_AB: 1706
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8

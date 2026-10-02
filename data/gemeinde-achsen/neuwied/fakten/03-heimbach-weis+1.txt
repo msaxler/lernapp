@@ -1,0 +1,114 @@
+ID: 03-heimbach-weis+1/001
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: St. Margaretha
+ORTSTEIL_BEZUG: Heimbach-Weis
+EIGENSCHAFTEN:
+  konfession: katholisch
+  architekturstil: gotisch
+  bauzeit: 1771-1772
+  dekanat: Rhein-Wied
+  bistum: Trier
+  turm_architektur: romanisch mit drei ungegliederten Geschossen, achtseitiger Helm
+  turm_mauerstärke: bis zu zwei Meter
+  vorgängerbau_baujahr: ca. 1569
+  erweiterung_seitenschiffe: 1891-1896
+  renovierung_nach_wwii: 1963
+  seitenschiffe_ursprungsanzahl: 2
+  einweihung_datum: 5. Januar 1772
+  eingeweiht_durch: Abt Werner Diepram von Rommersdorf
+GUELTIG_AB: 1772
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 03-heimbach-weis+1/002
+ENTITÄT: ort
+BEZEICHNUNG: Heimbach-Weis
+EIGENSCHAFTEN:
+  ist_stadtteil_von: Neuwied
+  bundesland: Rheinland-Pfalz
+  kirchspiel_erwähnung: ca. 1200
+  kirchspiel_zusammensetzung: Heimbach, Weis, Gladbach
+  bewohnerzahl_1564: 1564
+  bewohnerzahl_1820: 2000
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 03-heimbach-weis+1/003
+ENTITÄT: abtei
+BEZEICHNUNG: Rommersdorf
+EIGENSCHAFTEN:
+  gründungsjahr: 1117
+  rolle: Stifterin der Heimbacher Kirche
+  patronat_ab: 1351
+  patronatsrecht_verlust: 1570
+GUELTIG_AB: 1117
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 03-heimbach-weis+1/004
+ENTITÄT: event
+BEZEICHNUNG: Brand Heimbach 1569
+EIGENSCHAFTEN:
+  beschreibung: fast ganz Heimbach brannte ab
+  folgen: alle Glocken schmolzen
+  anlass_für_neubau: ja
+GUELTIG_AB: 1569
+GUELTIG_BIS: 1569
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 03-heimbach-weis+1/005
+ENTITÄT: orgel
+BEZEICHNUNG: Orgel St. Margareatha
+EIGENSCHAFTEN:
+  baujahr_original: ab 1738; das Ende der Bauzeit ist strittig (Wikipedia 1740, Förderkreis der Abtei und Stadt 1744)
+  orgelbauer_original: Johann Michael Stumm
+  ursprungsort: Abtei Rommersdorf
+  einbau_kirche: 1809
+  schaeden_1803: schwer beschädigt bei Kriegshandlungen, acht Register zerstört
+  reparatur_1856: auf zwei Manuale verkleinert durch Orgelbauer Weil
+  restaurierung_1964: Klais, neuer elektrischer Spieltisch
+  instandsetzung_2021: Klais
+  register_heute: 37
+GUELTIG_AB: 1738
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+BERICHTIGT: Die Bauzeit der Orgel ist zwischen den Quellen strittig; nur den Beginn nennen.
+---
+ID: 03-heimbach-weis+1/006
+ENTITÄT: glocke
+BEZEICHNUNG: Glocken St. Margareatha
+EIGENSCHAFTEN:
+  anzahl: 3
+  guss_jahr_original: 1575
+  glockengiesser: Dietrich (Kölner Glockengießer)
+  groesste_glocke_widmung: St. Margareatha
+  groesste_glocke_neuguss: 1581
+  inschrift: Geschichte des Neubaus der Kirche
+GUELTIG_AB: 1575
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 03-heimbach-weis+1/007
+ENTITÄT: heiligenfigur
+BEZEICHNUNG: Hl. Margareatha (Büste)
+EIGENSCHAFTEN:
+  materialform: Büste
+  zeitperiode: 18. Jahrhundert
+GUELTIG_AB: 1700
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 03-heimbach-weis+1/008
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Spätgotisches Steinkreuz
+EIGENSCHAFTEN:
+  stilepoche: spätgotisch
+  baujahr: ca. 1480
+  künstlerischer_kontext: Umfeld Niclas Gerhaerts van Leyden
+  herkunftsort: Mönchsfriedhof der Abtei Rommersdorf
+GUELTIG_AB: 1480
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

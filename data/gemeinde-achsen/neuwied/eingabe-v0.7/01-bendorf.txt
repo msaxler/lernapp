@@ -1,0 +1,2339 @@
+ZIELORT: Bendorf (Stadt)
+LAGE: 8 km nördlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Bendorf
+
+GRUNDDATEN:
+  landkreis: Mayen-Koblenz  [dewiki Infobox]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 17.661  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 24,12  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 732  [berechnet aus Einwohner und Fläche]
+  kfz: MYK (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 115 | 96 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2951111)]
+  naechste_grossstadt: Koblenz, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 71 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  plz: 56170  [Wikidata P281]
+  vorwahl: 02601, 02622  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 29,2 %, AfD 21,3 %, SPD 19,5 %, GRÜNE 9 %, Die Linke 7,2 %; Wahlbeteiligung 79,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Christoph Mohr (SPD) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-02]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT einwohner: Einwohnerzahl (Ersatz: Fläche der Gemarkung), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT landkreis: Landkreis (Ersatz: Kennzeichen), A, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: keiner (erster Ort der Fahrt)
+
+FAHRT: Bendorf, Engers, Heimbach-Weis, Altwied, Rengsdorf, Dierdorf, Waldbreitbach, Linz am Rhein, Bad Hönningen, Leutesdorf
+
+FAKTEN (Zielort Bendorf):
+ID: 01-bendorf/001
+ENTITÄT: ort
+BEZEICHNUNG: Bendorf
+EIGENSCHAFTEN:
+  ist_verbandsfreie_stadt: true
+  landkreis: Mayen-Koblenz
+  bundesland: Rheinland-Pfalz
+  lage: rechtsrheinisch zwischen Koblenz und Neuwied
+  landesplanung_auszeichnung: Mittelzentrum
+  liegt_an: Deutsche Limes-Straße
+  jahresniederschlag_mm: 658
+  ortsname_ersterwähnung: 1064
+  ortsname_form_ersterwähnung: Bethindorf
+  namensherkunft: germanischer Personenname (Bado oder Batto)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-bendorf/002
+ENTITÄT: stadtteil
+BEZEICHNUNG: Sayn
+EIGENSCHAFTEN:
+  stadtteile_bendorf: ja
+  eingemeindet: 1928-10-01
+  mit_ortsteil: Mülhofen
+GUELTIG_AB: 1928
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-bendorf/003
+ENTITÄT: stadtteil
+BEZEICHNUNG: Mülhofen
+EIGENSCHAFTEN:
+  stadtteil_bendorf: ja
+  ursprünglich_gemeinde: Sayn (mit Mülhofen)
+  eingemeindet: 1928-10-01
+  grund_eingemeinderung: wirtschaftliche Probleme
+  industrie: Bendorfer Eisenhütten
+  wirtschaftsstruktur: industrielle Monokultur
+GUELTIG_AB: 1928
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/004
+ENTITÄT: stadtteil
+BEZEICHNUNG: Stromberg
+EIGENSCHAFTEN:
+  stadtteil_bendorf: ja
+  eingemeindet: 1974-03-16
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-bendorf/005
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Albrechtshof
+ORTSTEIL_BEZUG: Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/006
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Meisenhof
+ORTSTEIL_BEZUG: Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/007
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Ziegelei
+ORTSTEIL_BEZUG: Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/008
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Sonnenhof
+ORTSTEIL_BEZUG: Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/009
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Hof Zwei Tannen
+ORTSTEIL_BEZUG: Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/010
+ENTITÄT: kastell
+BEZEICHNUNG: Kastell Bendorf
+EIGENSCHAFTEN:
+  lage: Obergermanischer Limes
+  erhaltung: nichts mehr zu sehen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/011
+ENTITÄT: ereignis
+BEZEICHNUNG: Großbrand von Bendorf
+EIGENSCHAFTEN:
+  datum: 1743-07-31
+  uhrzeit: gegen fünf Uhr nachmittags
+  ort: östlicher Teil der Gemeinde
+  grund_vermutlich: Branntweinbrennerei oder Forsthaus in Steinstraße
+  zerstörte_häuser: 77
+  zerstörte_scheunen: 44
+  zerstörte_ställe: 61
+  zerstörte_kelterhäuser: 24
+  gebäude_gesamt: 206
+  bewohnte_ortshälfte_zerstört: nördliche Hälfte
+  familien_obdachlos: 70
+  personen_obdachlos: ca. 200-300
+  genauigkeit_personen: "ca."
+  zerstörte_waren: Heu, Getreide, 1700 Fässer Wein
+  rettungen: Vieh und Menschen
+  beschreibung: Katastrophe aufgrund von Stadtmauer, enger Bebauung, Strohdächer
+GUELTIG_AB: 1743
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-bendorf/012
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche (ehemals St. Medardus)
+EIGENSCHAFTEN:
+  historische_form: dreischiffige gewölbte Pfeilerbasilika
+  zerstörung: 1944
+  kriegsschäden: größtenteils zerstört
+  neubau_zeitraum: 1954-1956
+  architekt: Wolfgang Mentzel
+  baustil: Architektur der 1950er Jahre
+  ursprüngliche_altarorientierung: Westen
+  aktuelle_altarorientierung: Osten (seit Mitte 1990er)
+  fresko_zeitpunkt: 13. Jahrhundert
+  fresko_motiv: Christus als Weltenrichter mit Evangelistensymbolen
+  fresko_zustand: stark restauriert
+  raumverhältnis: steht rechtwinklig zur kath. Pfarrkirche St. Medardus
+GUELTIG_AB: 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/013
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche St. Medardus
+EIGENSCHAFTEN:
+  bauzeitraum: 1864-1867
+  architekt: Hermann Nebel (Koblenz)
+  baustil: neoromanisch
+  bauform: dreischiffige Basilika mit Querhaus
+  vorgängerbau_zeitpunkt: 1790
+  bemalung_zeitpunkt: um 1870
+  bemalung_ort: Apsis
+  bemalung_freilegung: 2008
+  trägt: Reichardsmünster
+GUELTIG_AB: 1864
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/014
+ENTITÄT: kapelle
+BEZEICHNUNG: Reichardsmünster
+ORTSTEIL_BEZUG: Bendorf
+EIGENSCHAFTEN:
+  bauform: Doppelkapelle
+  türme: zwei kleine Südtürme
+  bauplastik: bemerkenswert
+  anbringung: um 1230 angebaut an südliche Seitenschiffe und Südturm der evangelischen Kirche
+  südwand_öffnung: 1864/67 zur katholischen Pfarrkirche geöffnet
+  orgelempore: in das Innere eingebaut 1864/67
+GUELTIG_AB: 1230
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/015
+ENTITÄT: gemeindesaal
+BEZEICHNUNG: Evangelischer Gemeindesaal
+EIGENSCHAFTEN:
+  vorgängerbau: reformierte Kirche
+  vorgängerbau_zeitpunkt: 1775
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/016
+ENTITÄT: gebäude
+BEZEICHNUNG: Haus Remy
+EIGENSCHAFTEN:
+  adresse: Untere Vallendarer Straße 19
+  erbaut: 1747
+  besucher_berühmt: Johann Wolfgang von Goethe
+  goethe_besuch_datum: 1774-07-18
+  goethe_reiseroute: Bad Ems nach Neuwied
+GUELTIG_AB: 1747
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/017
+ENTITÄT: museum
+BEZEICHNUNG: Rheinisches Eisenkunstguss-Museum
+EIGENSCHAFTEN:
+  themen: Geschichte des Bergbaus und Eisenhüttenwesens in Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/018
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Sayn
+ORTSTEIL_BEZUG: Sayn
+EIGENSCHAFTEN:
+  baustil: neugotisch
+  umbau_zeitpunkt: um 1850
+  ursprung: mittelalterlich-barocker Adelssitz
+  charakter: repräsentativ
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/019
+ENTITÄT: burgruine
+BEZEICHNUNG: Burg Sayn
+ORTSTEIL_BEZUG: Sayn
+EIGENSCHAFTEN:
+  zeitpunkt_errichtung: 12. Jahrhundert
+  zustand: zum Teil renoviert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/020
+ENTITÄT: abtei
+BEZEICHNUNG: Ehemalige Prämonstratenserabtei Sayn
+ORTSTEIL_BEZUG: Sayn
+EIGENSCHAFTEN:
+  kirche_baustil: romanisch
+  chor_baustil: gotisch
+  kreuzgang_baustil: romanisch
+  kreuzgang_besonderheit: mit Brunnenhaus
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/021
+ENTITÄT: gebäude
+BEZEICHNUNG: Kemperhof
+ORTSTEIL_BEZUG: Sayn
+EIGENSCHAFTEN:
+  adresse: Koblenz-Olper-Straße 39
+  historische_nutzung: Jacoby'sche Heil- und Pflegeanstalt für Nerven- und Gemütskranke
+  nutzungszeitraum: 1870-1940
+  zweite_nutzung: Gedenkstätte als Ort des Holocausts
+  holocaust_zeitpunkt: 1940-1942
+  zusätzlich: Gräber auf dem Sayner Judenfriedhof
+GUELTIG_AB: 1870
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/022
+ENTITÄT: hütte
+BEZEICHNUNG: Sayner Hütte
+ORTSTEIL_BEZUG: Sayn
+EIGENSCHAFTEN:
+  zeit_industrie: 18. Jahrhundert
+  gebäude: Gießhaus und Nebengebäude
+  ursprung: preußische Eisenhütte
+  auszeichnung: 2007 nominiert für Historisches Wahrzeichen der Ingenieurbaukunst in Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/023
+ENTITÄT: arbeiterhaus
+ORTSTEIL_BEZUG: Bendorf
+EIGENSCHAFTEN:
+  periode: 19. Jahrhundert
+  stil: Friedensreich Hundertwasser
+  zustand: umgebaut
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 01-bendorf/024
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Größte Eierkrone der Welt
+EIGENSCHAFTEN:
+  aufstellung_zeitpunkt: jährlich
+  event: Kirmes (Patronatsfest des hl. Medardus)
+  event_zeitpunkt: zweiter Sonntag nach Pfingsten
+  ort_aufstellung: Kirchplatz
+  superlativ: größte Eierkrone der Welt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/025
+ENTITÄT: markt
+BEZEICHNUNG: Großer Weihnachtsmarkt
+EIGENSCHAFTEN:
+  zeitpunkt: Weihnachtszeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 01-bendorf/026
+ENTITÄT: hafen
+BEZEICHNUNG: Rheinhafen Bendorf
+EIGENSCHAFTEN:
+  errichtung: 1900
+  umschlag: Ton und Basalt
+  besonderheit: größtes Mineralöllager zwischen Mainz und Köln
+  betreiber_mineralöl: Oiltanking
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/027
+ENTITÄT: unternehmen
+BEZEICHNUNG: Oiltanking
+EIGENSCHAFTEN:
+  standort: Bendorf
+  tätigkeit: Mineralöllagerbetrieb
+  tanks: 22
+  gesamtvolumen_kubikmeter: über 150000
+  lage_bedeutung: größtes Mineralöllager zwischen Mainz und Köln
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/028
+ENTITÄT: sender
+BEZEICHNUNG: Sender Bendorf-Vierwindenhöhe
+EIGENSCHAFTEN:
+  ort: Vierwindenhöhe
+  programm: UKW-Radio
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/029
+ENTITÄT: verlag
+BEZEICHNUNG: Verlag an der Isenburg
+EIGENSCHAFTEN:
+  standort: Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 01-bendorf/030
+ENTITÄT: werbegemeinschaft
+BEZEICHNUNG: Blickpunkt Bendorf
+EIGENSCHAFTEN:
+  mitglieder: Gewerbetreibende der Stadt Bendorf
+  ziel: Standortförderung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 01-bendorf/031
+ENTITÄT: grube
+BEZEICHNUNG: Brauneisensteingrube Trierische Loh
+EIGENSCHAFTEN:
+  rohstoff: Brauneisenstein
+  verwendung: Erz für Bendorfer Hütten
+  zeit_nutzung: 18. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 01-bendorf/032
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Bendorf (Rhein)
+EIGENSCHAFTEN:
+  bahnstrecke: Engers–Au (Brexbachtalbahn)
+  inbetriebnahme: 1884
+  personenverkehr_eingestellt: 1989
+  güterverkehr_eingestellt: 1994
+  touristischer_sonderverkehr: Eifelbahn
+  stationen_touristik: Bendorf-Sayn, Kletterwald, Pfadfinderlager
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/033
+ENTITÄT: bahnhaltepunkt_geplant
+BEZEICHNUNG: Bahnhaltepunkt Bendorf (geplant)
+EIGENSCHAFTEN:
+  lage: rechte Rheinstrecke am Bahnübergang Rheinstraße
+  baukosten_euro: 1500000
+  kosten_genauigkeit: "geschätzt"
+  status: Stationsoffensive Rheinland-Pfalz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 01-bendorf/034
+ENTITÄT: radweg
+BEZEICHNUNG: Deutscher Limes-Radweg
+EIGENSCHAFTEN:
+  länge_km: 818
+  start: Bad Hönningen am Rhein
+  ziel: Regensburg an der Donau
+  verlauf: folgt dem Obergermanisch-Raetischen Limes
+  durchquerung: Bendorf und Stadtteil Sayn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/035
+ENTITÄT: radweg
+BEZEICHNUNG: Rhein-Radweg
+EIGENSCHAFTEN:
+  start: Oberalppass in Schweizer Alpen
+  ziel: Rotterdam
+  länder_durchquerung: fünf Staaten
+  verlauf: am Rheinufer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/036
+ENTITÄT: schule
+BEZEICHNUNG: Wilhelm-Remy-Gymnasium
+EIGENSCHAFTEN:
+  schulart: Staatliches Gymnasium
+  besonderheit: Integration körperbehinderter Schüler
+  träger: Landkreis Mayen-Koblenz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/037
+ENTITÄT: schule
+BEZEICHNUNG: Karl-Fries-Schule
+EIGENSCHAFTEN:
+  schulart: Realschule plus
+  träger: Landkreis Mayen-Koblenz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/038
+ENTITÄT: schule
+BEZEICHNUNG: Medardus-Schule
+EIGENSCHAFTEN:
+  schulart: Grundschule
+  zuständigkeit: Stadtteil Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/039
+ENTITÄT: schule
+BEZEICHNUNG: Bodelschwingh-Schule
+EIGENSCHAFTEN:
+  schulart: Grundschule
+  zuständigkeit: Stadtteile Sayn und Mülhofen
+  besonderheit: Schwerpunktschule mit erweitertem pädagogischen Auftrag zur Inklusion beeinträchtigter Kinder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/040
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Stromberg
+EIGENSCHAFTEN:
+  schulart: Grundschule
+  zuständigkeit: Stadtteil Stromberg
+  träger: Stadt Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/041
+ENTITÄT: schule
+BEZEICHNUNG: Theodor-Heuss-Schule
+EIGENSCHAFTEN:
+  schulart: Förderschule
+  schwerpunkt: Lernen
+  träger: Landkreis Mayen-Koblenz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/042
+ENTITÄT: volkshochschule
+BEZEICHNUNG: Volkshochschule Bendorf
+EIGENSCHAFTEN:
+  träger: Stadt Bendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/043
+ENTITÄT: verein
+BEZEICHNUNG: Kirmes- und Karnevalsgesellschaft (KuK)
+EIGENSCHAFTEN:
+  aktivitäten: Organisation Karneval, alljährliche Kirmes
+  partnerschaft: Bendorfer Narrenzunft
+  event_patron: Patronatsfest des hl. Medardus
+  event_zeitpunkt: zweiter Sonntag nach Pfingsten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/044
+ENTITÄT: verein
+BEZEICHNUNG: Bendorfer Narrenzunft
+EIGENSCHAFTEN:
+  aktivitäten: Karneval
+  partnerschaft: Kirmes- und Karnevalsgesellschaft (KuK)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/045
+ENTITÄT: verein
+BEZEICHNUNG: TS Bendorf
+EIGENSCHAFTEN:
+  sportarten: Turnen, Kampfsport, Leichtathletik, Handball
+  herrenmannschaft: Rheinlandliga Handballverband Rheinland
+  aufstieg_saison: 2011/12
+  spielbetrieb_ab_saison: 2012/13
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/046
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Bendorf
+EIGENSCHAFTEN:
+  gründung: 1934 als Amtswehr aus Bendorf, Mülhofen, Sayn
+  zusammensetzung: Löschzüge Bendorf, Mülhofen, Sayn, Stromberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/047
+ENTITÄT: verein
+BEZEICHNUNG: Ortsverband Technisches Hilfswerk
+EIGENSCHAFTEN:
+  organisation: Bundesanstalt Technisches Hilfswerk
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/048
+ENTITÄT: gemeinde
+BEZEICHNUNG: Yzeure
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Auvergne-Rhône-Alpes
+  partnerschaft_bendorf_seit: 1986
+  partnerschaftsplatz_yzeure: Place de Bendorf
+  partnerschaftsplatz_bendorf: Yzeurer Platz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/049
+ENTITÄT: bürgermeister
+DESIGNIERTER_NAME: Christoph Mohr
+EIGENSCHAFTEN:
+  partei: SPD
+  amtsantritt: 2021-01-01
+  wahl_datum: 2020-09-27
+  wahl_typ: Direktwahl
+  stimmenanteil_prozent: 56.9
+  gegner: Sascha Schoblocher (CDU)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-bendorf/050
+ENTITÄT: bürgermeister
+DESIGNIERTER_NAME: Michael Kessler
+EIGENSCHAFTEN:
+  partei: CDU
+  beruf: Jurist
+  amtsantritt: 2015
+  amtsende: 2020-12-31
+  grund_amtsende: Gesundheit
+  wahl_datum: 2014-06-15
+  stimmenanteil_prozent: 54.6
+GUELTIG_AB: 2015
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-bendorf/051
+ENTITÄT: bürgermeister
+DESIGNIERTER_NAME: Michael Syré
+EIGENSCHAFTEN:
+  partei: CDU
+  wahl_datum: 2006-09-10
+  stimmenanteil_prozent: 53.4
+  abwahlverfahren_datum: 2011-07-27
+  abwahlverfahren_beschluss: Stadtrat mit ¾-Mehrheit
+  bürgerentscheid_datum: 2011-09-25
+  bürgerentscheid_teilnahmequote_prozent: 34
+  bürgerentscheid_abwahl_stimmen_prozent: 65.4
+  bürgerentscheid_abwahl_stimmen_absolut: 2820
+  erforderlich_abwahl_prozent_wahlberechtigter: über 30
+  erforderlich_abwahl_absolut: mindestens 3794
+  abwahlverfahren_ergebnis: gescheitert
+GUELTIG_AB: 2006
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-bendorf/052
+ENTITÄT: stadtrat
+EIGENSCHAFTEN:
+  mitglieder_ehrenamtlich: 32
+  mitglieder_hauptamtlich: 1 (Bürgermeister)
+  wahl_datum: 2024-06-09
+  wahlsystem: personalisierte Verhältniswahl
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/053
+ENTITÄT: konfessionsverteilung
+EIGENSCHAFTEN:
+  erhebung_datum_1: 2005-06-30
+  katholisch_prozent_2005: 54.0
+  evangelisch_prozent_2005: 19.2
+  konfessionslos_andere_prozent_2005: 26.8
+  erhebung_datum_2: 2026-03
+  katholisch_prozent_2026: 35.0
+  evangelisch_prozent_2026: 13.6
+  konfessionslos_andere_prozent_2026: 51.4
+  trend: rückgang kirchenmitglieder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 01-bendorf/054
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Wilhelm Remy
+EIGENSCHAFTEN:
+  geburtsjahr: 1702
+  todesjahr: 1761
+  beruf: Kaufmann und Montanunternehmer
+GUELTIG_AB: 1702
+GUELTIG_BIS: 1761
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/055
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Ferdinand Remy
+EIGENSCHAFTEN:
+  geburtsjahr: 1788
+  todesjahr: 1848
+  beruf: Kommerzienrat und Eisenwerkbesitzer
+GUELTIG_AB: 1788
+GUELTIG_BIS: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/056
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Ernst Friedrich Althans
+EIGENSCHAFTEN:
+  geburtsjahr: 1828
+  todesjahr: 1899
+  geburtsort: Ortsteil Sayn
+  beruf: preußischer geheimer Bergrat
+GUELTIG_AB: 1828
+GUELTIG_BIS: 1899
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/057
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Albrecht Erlenmeyer
+EIGENSCHAFTEN:
+  geburtsjahr: 1849
+  todesjahr: 1926
+  beruf: Psychiater
+GUELTIG_AB: 1849
+GUELTIG_BIS: 1926
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/058
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Gustav Braubach
+EIGENSCHAFTEN:
+  geburtsjahr: 1854
+  todesjahr: 1946
+  beruf: Hochofenchef der Concordiahütte
+  besitz_zeit: vor dem Ersten Weltkrieg
+  besitz: Rothen Mühle (Sayn)
+GUELTIG_AB: 1854
+GUELTIG_BIS: 1946
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/059
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Johannes Franck
+EIGENSCHAFTEN:
+  geburtsjahr: 1854
+  todesjahr: 1914
+  beruf: Germanist und Hochschullehrer
+GUELTIG_AB: 1854
+GUELTIG_BIS: 1914
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/060
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Karl Brosius
+EIGENSCHAFTEN:
+  geburtsjahr: 1855
+  todesjahr: 1920
+  beruf: preußischer Generalleutnant
+GUELTIG_AB: 1855
+GUELTIG_BIS: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/061
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Carl Ferdinand Mischke
+EIGENSCHAFTEN:
+  geburtsjahr: 1856
+  todesjahr: 1926
+  beruf: Ingenieur und Mitglied des Preußischen Abgeordnetenhauses
+GUELTIG_AB: 1856
+GUELTIG_BIS: 1926
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/062
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Richard Remy
+EIGENSCHAFTEN:
+  geburtsjahr: 1859
+  todesjahr: 1919
+  beruf: Bergwerksdirektor in Schlesien, MdHH
+GUELTIG_AB: 1859
+GUELTIG_BIS: 1919
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/063
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Theodor Wiegand
+EIGENSCHAFTEN:
+  geburtsjahr: 1864
+  todesjahr: 1936
+  beruf: Archäologe
+GUELTIG_AB: 1864
+GUELTIG_BIS: 1936
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/064
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Hermann Junker
+EIGENSCHAFTEN:
+  geburtsjahr: 1877
+  todesjahr: 1962
+  beruf: Ägyptologe und katholischer Priester
+GUELTIG_AB: 1877
+GUELTIG_BIS: 1962
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/065
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Erik Reger
+EIGENSCHAFTEN:
+  geburtsjahr: 1893
+  todesjahr: 1954
+  geburtsname: Hermann Dannenberger
+  beruf: Schriftsteller
+  auszeichnung: Kleist-Preis
+GUELTIG_AB: 1893
+GUELTIG_BIS: 1954
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/066
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Georg Bauer
+EIGENSCHAFTEN:
+  geburtsjahr: 1900
+  todesjahr: 1983
+  partei: SPD
+  funktion: MdL Rheinland-Pfalz
+  ehrenbürger: Bendorf
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/067
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Elfriede Balzar-Kopp
+EIGENSCHAFTEN:
+  geburtsjahr: 1904
+  todesjahr: 1983
+  beruf: Keramikerin und Kunsthandwerkerin
+GUELTIG_AB: 1904
+GUELTIG_BIS: 1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/068
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Josef Casper
+EIGENSCHAFTEN:
+  geburtsjahr: 1906
+  todesjahr: 1951
+  beruf: Gelehrter und Autor
+GUELTIG_AB: 1906
+GUELTIG_BIS: 1951
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/069
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Carl-Gideon von Claer
+EIGENSCHAFTEN:
+  geburtsjahr: 1912
+  todesjahr: 1996
+  beruf: Offizier und Redakteur des Spiegel
+GUELTIG_AB: 1912
+GUELTIG_BIS: 1996
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/070
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Alfred Schöneberg
+EIGENSCHAFTEN:
+  geburtsjahr: 1921
+  todesjahr: 2006
+  beruf: SS-Unterscharführer
+GUELTIG_AB: 1921
+GUELTIG_BIS: 2006
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/071
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Hildegard Ramdohr
+EIGENSCHAFTEN:
+  geburtsjahr: 1925
+  todesjahr: 2023
+  ehrenbürger_von: Aschersleben
+  grund_ehrenbürgerschaft: Engagement für historische Bausubstanz von Aschersleben
+GUELTIG_AB: 1925
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/072
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Karl Haehser
+EIGENSCHAFTEN:
+  geburtsjahr: 1928
+  todesjahr: 2012
+  partei: SPD
+  funktion: Politiker
+GUELTIG_AB: 1928
+GUELTIG_BIS: 2012
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/073
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Hans Werner Kettenbach
+EIGENSCHAFTEN:
+  geburtsjahr: 1928
+  todesjahr: 2018
+  pseudonym: Christian Ohlig
+  beruf: Journalist, Schriftsteller und Drehbuchautor
+GUELTIG_AB: 1928
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/074
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Manfred Backerra
+EIGENSCHAFTEN:
+  geburtsjahr: 1936
+  beruf: Oberst
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 01-bendorf/075
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Hans Müller
+EIGENSCHAFTEN:
+  geburtsjahr: 1949
+  partei: SPD
+  funktion: Mitglied schleswig-holsteinisches Landtag
+  amtszeit: 2005-2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/076
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Birgit Wöllert
+EIGENSCHAFTEN:
+  geburtsjahr: 1950
+  partei: Die Linke
+  funktion: Politikerin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/077
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Franz Schultheis
+EIGENSCHAFTEN:
+  geburtsjahr: 1953
+  beruf: Soziologe und Professor
+  lehrstelle: St. Gallen (Schweiz)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/078
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Werner Jakob Stüber
+EIGENSCHAFTEN:
+  geburtsjahr: 1952
+  beruf: Kulturwissenschaftler, Professor und Hochschulrektor
+  tätigkeitsbereich: internationale Hochschulentwicklung
+  gearbeitet_in: Asien, Afrika, Naher Osten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/079
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Manfred Pohlmann
+EIGENSCHAFTEN:
+  geburtsjahr: 1955
+  beruf: Liedermacher
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 01-bendorf/080
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Andreas Meitzner
+EIGENSCHAFTEN:
+  geburtsjahr: 1956
+  beruf: Diplomat und Botschafter
+  botschafter_land: Königreich Dänemark
+  botschafter_zeitpunkt: aktuell
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/081
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Rainer Neutzling
+EIGENSCHAFTEN:
+  geburtsjahr: 1959
+  beruf: Journalist, Autor und Soziologe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 01-bendorf/082
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Roger Schmidt
+EIGENSCHAFTEN:
+  geburtsjahr: 1959
+  beruf: Karikaturist und Cartoonist
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 01-bendorf/083
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Sebastian Linnerz
+EIGENSCHAFTEN:
+  geburtsjahr: 1959
+  beruf: Grafikdesigner
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 01-bendorf/084
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Dirk Henn
+EIGENSCHAFTEN:
+  geburtsjahr: 1960
+  beruf: Spieleautor und -verleger
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 01-bendorf/085
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Jörg Michael Peters
+EIGENSCHAFTEN:
+  geburtsjahr: 1960
+  beruf: Weihbischof von Trier
+  tätigkeit_bendorf: Kaplan in Bendorf (St. Medard)
+  tätigkeit_weitersburg: Kaplan in Weitersburg (St. Marien)
+  tätigkeit_zeitraum: 1987-1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/086
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Roland Bernecker
+EIGENSCHAFTEN:
+  geburtsjahr: 1961
+  beruf: Generalsekretär der Deutschen UNESCO-Kommission
+  amtsantritt: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/087
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Dirk Höfer
+EIGENSCHAFTEN:
+  geburtsjahr: 1961
+  beruf: Humanbiologe und Hochschullehrer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 01-bendorf/088
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Georg Klein
+EIGENSCHAFTEN:
+  geburtsjahr: 1961
+  beruf: Brigadegeneral des Heeres der Bundeswehr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 01-bendorf/089
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Helmut Dieser
+EIGENSCHAFTEN:
+  geburtsjahr: 1962
+  beruf: Bischof von Aachen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/090
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Miriam Kilali
+EIGENSCHAFTEN:
+  geburtsjahr: 1965
+  beruf: bildende Künstlerin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 01-bendorf/091
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Eduard Werner
+EIGENSCHAFTEN:
+  geburtsjahr: 1966
+  beruf: Slawist
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 01-bendorf/092
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Jutta Nardenbach
+EIGENSCHAFTEN:
+  geburtsjahr: 1968
+  todesjahr: 2018
+  beruf: Fußballspielerin
+GUELTIG_AB: 1968
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 01-bendorf/093
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Alexander Müller
+EIGENSCHAFTEN:
+  geburtsjahr: 1969
+  partei: FDP
+  funktion: Mitglied des Bundestages
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/094
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Joachim Paul
+EIGENSCHAFTEN:
+  geburtsjahr: 1970
+  partei: AfD
+  funktion: Mitglied des Landtags von Rheinland-Pfalz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 01-bendorf/095
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Martin Ramm FSSP
+EIGENSCHAFTEN:
+  geburtsjahr: 1971
+  beruf: römisch-katholischer Priester
+  orden: Priesterbruderschaft St. Petrus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/096
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Jan Oster
+EIGENSCHAFTEN:
+  geburtsjahr: 1978
+  beruf: Jurist
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 01-bendorf/097
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Jennifer Groß
+EIGENSCHAFTEN:
+  geburtsjahr: 1986
+  partei: CDU
+  funktion: Politikerin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 01-bendorf/098
+ENTITÄT: person_historisch
+DESIGNIERTER_NAME: Stefan Haben
+EIGENSCHAFTEN:
+  geburtsjahr: 1987
+  beruf: Fußballspieler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+SPENDER: Kirchberg (nicht Teil der Fahrt)
+ENTITÄT: ort
+BEZEICHNUNG: Kirchberg (Hunsrück)
+EIGENSCHAFTEN:
+  bundesland: Rheinland-Pfalz
+  landkreis: Rhein-Hunsrück-Kreis
+  sitz_verbandsgemeinde: true
+  funktionale_einstufung: Grundzentrum
+  stadtrechte_ab: 1259
+  superlativ: älteste Stadt auf dem Hunsrück
+  stadtteil_ab: Denzen (seit 1928-02-10)
+  stadtfläche_km2: 18
+  landwirtschaftliche_nutzfläche_prozent: 50
+  waldflaeche_prozent: 30
+  bebaute_flaeche_prozent: 18
+  sonstige_flaeche_prozent: 2
+  mundart_name: Kerbrich
+  lage_beschreibung: Stadt auf dem Berg
+  verkehrslage: Schnittpunkt Trier–Kirchberg–Bingen–Mainz mit Keltenweg Nahe–Mosel
+  entfernung_simmern_km: 10
+  entfernung_richtung_simmern: östlich
+  entfernung_frankfurt_hahn_km: 12
+  entfernung_richtung_frankfurt_hahn: westlich
+  erste_urkunde_rechte: 1249
+  gueltig_ab: 1259
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Denzen
+EIGENSCHAFTEN:
+  ursprung_beschreibung: vorrömische Siedlung an der alten Wegekreuzung
+  ursprungsname_keltisch: Dumno (hergeleitet)
+  römischer_name: Dumnissus
+  roemische_bedeutung: römische Ortsbezeichnung
+  erstwähnung: 368 (Ausonius Gedicht Mosella)
+  lage: Mulde nordöstlich von Kirchberg
+  eingemeindet_ab: 1928-02-10
+  eingemeindet_gegen_widerstand: true
+  gueltig_ab: 400
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Michaelskirche (St. Michael)
+EIGENSCHAFTEN:
+  bauart: spätgotische Hallenkirche
+  bauzeit: 1460-1485
+  vorgängerbauten_anzahl: 3
+  aeltester_vorgängerbau_zeit_nach: 700
+  vorgängerbau_ii_zeit: um 850
+  vorgängerbau_iii_zeit_vor: 1050
+  turm_errichtet_um: 1200
+  turm_mehrfach_erhoben: true
+  simultankirche_ab: 1688
+  simultankirche_bis: 1965-06-15
+  frühchristliche_siedlung_nach: 650
+  archäologische_besonderheit: ununterbrochene Kontinuität seit vorkarolingischer Zeit
+  bedeutung_superlativ: historisch bedeutendste und wohl älteste zwischen Trier, Koblenz und Boppard
+  friedhof_bis: 1792
+  hauptportal: Südseite
+  kunstwerke_beschreibung: Steinmetzzeichen, Sandsteinkanzel um 1490, Grabdenkmäler 15.–18. Jh., Grabmal Catharina von Hoising nach 1577, Taufstein, Hochaltar, Seitenaltäre, Orgelprospekt 2. Hälfte 18. Jh., barocke Malerei Chorgewölbe
+  gueltig_ab: 1460
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+ENTITÄT: kirchengebaeude_vorlauf
+BEZEICHNUNG: Michaelskirche Bau I
+EIGENSCHAFTEN:
+  zeitstellung: frühkarolingisch nach 700
+  bauart: kleiner Saalbau mit eingezogenem Rechteckchor
+  bedeutung: ältester archäologisch nachgewiesener Kirchenbau
+  fund_besonderheit: Fragment frühchristlichen Grabsteins mit Inschrift (ältestes Zeugnis für Christen auf dem Hunsrück)
+  gueltig_ab: 700
+  gueltig_bis: 850
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: kirchengebaeude_vorlauf
+BEZEICHNUNG: Michaelskirche Bau II
+EIGENSCHAFTEN:
+  zeitstellung: um 850
+  bauart: Saalbau mit Taufanlage und Empore
+  größenverhaeltnis: etwa doppelt so groß wie Bau I
+  gueltig_ab: 850
+  gueltig_bis: 1050
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: kirchengebaeude_vorlauf
+BEZEICHNUNG: Michaelskirche Bau III
+EIGENSCHAFTEN:
+  zeitstellung: vor 1050
+  bauart: dreischiffige flachgedeckte Pfeilerbasilika mit halbkreisförmiger Apsis
+  größenverhaeltnis: wiederum etwa doppelt so groß wie Bau II
+  ausstattung: Taufanlage und Westempore
+  vergleichbau: St. Cyriak in Sulzburg/Markgräflerland (993 geweiht)
+  turm: Untergeschoss um 1200 errichtet
+  gueltig_ab: 1000
+  gueltig_bis: 1460
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Friedenskirche
+ORTSTEIL_BEZUG: Simmerner Straße
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  bauzeit: 1965-1967
+  architekt: Heinrich Otto Vogel (Trier)
+  grundstein_herkunft: Portalgewände der Michaelskirche
+  taufstein_herkunft: römisch behauener Stein aus Michaelskirche-Grabungen
+  orgel_hersteller: Gebr. Oberlinger (Windesheim)
+  orgel_register: 23
+  gemeindezentrum: true
+  gueltig_ab: 1965
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Nikolaus-Kapelle
+ORTSTEIL_BEZUG: Kirchberg-Denzen
+EIGENSCHAFTEN:
+  chorturm_baujahr: 1236
+  baustil: romanisch
+  ursprung_zeitraum: 650-700
+  ursprungspatron: Johannes der Täufer
+  kirche_als_taufkirche: true
+  lage_ursprung: Bereich Königshof Denzen
+  umwidmung_ab: um 955
+  neuer_patron_nach_umwidmung: Nikolaus von Myra
+  grund_umwidmung: im Rheinland aufkommende Verehrung
+  saalraum_angebaut: 1966
+  gueltig_ab: 650
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Kirchberg
+EIGENSCHAFTEN:
+  standort: Glöcknergasse
+  zeitraum_ansaessig: 18.–20. Jahrhundert
+  kultusgemeinde: true
+  nebeneinrichtung_schule: Religionsschule
+  nebeneinrichtung_friedhof: eigener Friedhof an der Metzenhausener Straße
+  friedhof_zustand: noch erhalten
+  gueltig_ab: 1700
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: friedhof
+BEZEICHNUNG: jüdischer Friedhof
+EIGENSCHAFTEN:
+  lage: Metzenhausener Straße
+  zugehoerig_zu: Kirchberg Synagoge
+  erhaltungszustand: noch erhalten
+  zeitraum_nutzung: 18.–20. Jahrhundert
+  gueltig_ab: 1700
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Rathaus
+EIGENSCHAFTEN:
+  lage: Marktplatz
+  bauzeit: 17. Jahrhundert und 1746
+  gueltig_ab: 1600
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Fachwerkhaus Marktplatz 6
+EIGENSCHAFTEN:
+  baujahr: 1698
+  besonderheit: fünfseitiger Erker
+  gueltig_ab: 1698
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schwanen-Apotheke
+ORTSTEIL_BEZUG: Marktplatz 4
+EIGENSCHAFTEN:
+  baustil: Fachwerkhaus
+  bauzeit_geschaetzt: 17. Jahrhundert
+  apothekenprivileg_ab: 1752
+  verleihende_instanz: Markgraf von Baden
+  superlativ: älteste Apotheke auf dem Hunsrück
+  gueltig_ab: 1600
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Eckhaus Marktplatz 11
+ORTSTEIL_BEZUG: Marktplatz
+EIGENSCHAFTEN:
+  baustil: Fachwerk
+  bauzeit: 2. Hälfte 17. Jahrhundert
+  lage_beschreibung: neben Zugang zum Kirchplatz
+  gueltig_ab: 1650
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Badische Försterei
+ORTSTEIL_BEZUG: Hauptstraße 17
+EIGENSCHAFTEN:
+  bauzeit: Mitte 18. Jahrhundert
+  funktion: Badisches Oberamt Kirchberg Verwaltung
+  errichtet_als_foersterei: true
+  heutige_nutzung: teilweise durch Umbauten ersetzt
+  gueltig_ab: 1750
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Badische Gendarmerie
+ORTSTEIL_BEZUG: Hauptstraße 19
+EIGENSCHAFTEN:
+  bauzeit: Mitte 18. Jahrhundert
+  funktion: Badisches Oberamt Kirchberg Verwaltung
+  errichtet_als_gendarmerie: true
+  heutige_nutzung: teilweise durch Umbauten ersetzt
+  gueltig_ab: 1750
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: museum
+BEZEICHNUNG: Kirchberger Heimatmuseum
+ORTSTEIL_BEZUG: Eifelgasse
+EIGENSCHAFTEN:
+  bauwerk_baujahr: 1732
+  bauwerk_baustil: Fachwerkhaus
+  funktion: Eindruck vom Leben in vergangenen Jahrhunderten
+  gueltig_ab: 1732
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Adelshof der Familie von Eich
+ORTSTEIL_BEZUG: Hauptstraße 75
+EIGENSCHAFTEN:
+  baujahr: 1578
+  besonderheit: Treppenturm und Wendeltreppe
+  gueltig_ab: 1578
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Wasserturm
+EIGENSCHAFTEN:
+  baujahr: 1899
+  hoehe_meter: 36
+  charakteristikum: charakteristisch für die auf einer Anhöhe gelegene Stadt
+  urspruengliche_funktion: kommunale Wasserversorgung
+  funktion_heute: nicht mehr integriert in Wasserversorgung (seit wenigen Jahren)
+  gueltig_ab: 1899
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: brunnen
+BEZEICHNUNG: Römerbrunnen
+ORTSTEIL_BEZUG: Denzen
+EIGENSCHAFTEN:
+  herkunftsbezeichnung: römisch/historisch
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.7
+
+---
+ENTITÄT: einrichtung
+BEZEICHNUNG: Jugendzentrum Am Zug
+EIGENSCHAFTEN:
+  eroeffnung: 2003-02-18
+  funktion_grundkonzept: überkonfessioneller Treffpunkt für Jugendliche ab 12 Jahren
+  betreuung_ganztaegig: true
+  traeger: we-SHARE (Paritätischer Wohlfahrtsverband Rheinland-Pfalz/Saarland)
+  projekte_ab_6_jahren: KinderKino Kirchberg, Sommerferienprogramm KINDER AM ZUG, künstlerisches Gestalten
+  gueltig_ab: 2003
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Piaristenkloster
+ORTSTEIL_BEZUG: Kirchplatz
+EIGENSCHAFTEN:
+  baujahr: 1765
+  baustil: Barockgebäude
+  heutige_nutzung: Pfarrhaus und Gemeindezentrum
+  wappenschild: Wappenschild des Markgrafen August Georg von Baden mit Einzelwappen
+  gueltig_ab: 1765
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Friedhofskreuz
+ORTSTEIL_BEZUG: Kirchplatz vor Michaelskirche
+EIGENSCHAFTEN:
+  baujahr_original: 1744
+  baujahr_kopie: 1744
+  inschrift_sinn: Das ist Gott wie das Bildnis lehrt, aber Gott ist nicht das Bildnis selbst
+  gueltig_ab: 1744
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: gartenpavillon_und_brunnen
+BEZEICHNUNG: Gartenpavillon und Ziehbrunnen
+ORTSTEIL_BEZUG: vor der Friedenskirche
+EIGENSCHAFTEN:
+  bauzeit_um: 1780
+  zentrum_eines: ummauerten Gartens
+  erbauer_beschreibung: vom damaligen Badischen Oberamtmann (Angabe unsicher)
+  gueltig_ab: 1780
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.7
+
+---
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+  gueltig_ab: 1800
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.7
+
+---
+ENTITÄT: schule
+BEZEICHNUNG: Kooperative Gesamtschule
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  schultyp: Kooperative Gesamtschule
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.7
+
+---
+ENTITÄT: sportanlage
+BEZEICHNUNG: Hallenbad
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  typ: Hallenbad
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: sportanlage
+BEZEICHNUNG: Freibad
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  typ: Freibad
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: sportanlage
+BEZEICHNUNG: Tennisplätze
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  typ: mehrere Tennisplätze
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: sportanlage
+BEZEICHNUNG: Tennishalle
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  typ: Tennishalle
+  gueltig_ab: 1950
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: sportanlage
+BEZEICHNUNG: Indoorkletterhalle
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  typ: Indoorkletterhalle
+  gueltig_ab: 2000
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: verein_sport
+BEZEICHNUNG: TuS Kirchberg 1909
+EIGENSCHAFTEN:
+  gruendung: 1909
+  sportart: Fußball
+  herren_mannschaft_liga: Fußball-Oberliga Rheinland-Pfalz/Saar
+  gueltig_ab: 1909
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: verein_sport
+BEZEICHNUNG: HSV Kirchberg 1974
+EIGENSCHAFTEN:
+  gruendung: 1974
+  sportart: Handball
+  gueltig_ab: 1974
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: radweg
+BEZEICHNUNG: Freiherr-von-Drais-Radweg
+EIGENSCHAFTEN:
+  laenge_km: 14
+  route_beschreibung: rund um die Stadt
+  gueltig_ab: 1950
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: radweg
+BEZEICHNUNG: Lützelsoon-Radweg
+EIGENSCHAFTEN:
+  startort: Kirchberg
+  endort: Kirn
+  gueltig_ab: 1950
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: Keltenweg Nahe–Mosel
+EIGENSCHAFTEN:
+  routenverlauf: durch Kirchberg
+  historische_bedeutung: alte Wegekreuzung
+  moderne_bezeichnung: B 421 und L 184
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: Ausoniusweg
+EIGENSCHAFTEN:
+  routenverlauf: Wanderweg ins Umland
+  benannt_nach: Ausonius (römischer Dichter und Staatsbeamter)
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: strasse_historisch
+BEZEICHNUNG: Römerstraße / Ausoniusstraße
+EIGENSCHAFTEN:
+  moderne_bezeichnung: B 50
+  verlauf: Trier über Hunsrück nach Bingen und Mainz
+  zeitstellung: römisch
+  beschreibung_verlauf: möglichst schnurgerade Ausrichtung typisch
+  durch_stadt: Altstadt wird noch heute durchschnitten von der Trasse
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: strasse_historisch
+BEZEICHNUNG: Hunsrückhöhenstraße
+EIGENSCHAFTEN:
+  moderne_bezeichnung: B 327
+  lage_zu_kirchberg: nördlich
+  verlauf: von Saarburg nach Koblenz
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: eisenbahn
+BEZEICHNUNG: Hunsrückquerbahn
+EIGENSCHAFTEN:
+  linie: Langenlonsheim–Stromberg–Rheinböllen–Simmern–Kirchberg–Hermeskeil
+  betriebszustand: stillgelegt
+  reaktivierungsabsicht: ja, zumindest teilweise in absehbarer Zeit
+  bahnhof_kirchberg: existiert/existierte
+  gueltig_ab: 1900
+  gueltig_bis: 1990
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: umgehungsstrasse
+EIGENSCHAFTEN:
+  bauwerk: Umgehungsstraße B 50
+  lage: um Innenstadt
+  ab_jahr: 1990
+  funktion: Entlastung der Innenstadt
+  gueltig_ab: 1990
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johannes Rulitius
+EIGENSCHAFTEN:
+  geburts_oder_wirkungsjahr: 1602
+  sterbe_oder_endjahr: 1666
+  berufsgruppe: Pfarrer
+  wirkungsorte: Dorchester, Heidelberg, Amsterdam
+  gueltig_ab: 1602
+  gueltig_bis: 1666
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Sophie Reinhard
+EIGENSCHAFTEN:
+  geburtsyear: 1775
+  sterbejahr: 1844
+  beruf: Malerin
+  gueltig_ab: 1775
+  gueltig_bis: 1844
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Wilhelm Ludwig Frommel
+EIGENSCHAFTEN:
+  geburtsyear: 1795
+  sterbejahr: 1869
+  beruf: evangelischer Geistlicher und Pädagoge
+  ehrenbuergerschaften: Pforzheim
+  gueltig_ab: 1795
+  gueltig_bis: 1869
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hubert Josef Cadenbach
+EIGENSCHAFTEN:
+  geburtsyear: 1800
+  sterbejahr: 1867
+  beruf: Jurist, Oberbürgermeister
+  oberbuergermeister_stadt: Koblenz
+  amtszeit_oberbuergermeister: 1857-1867
+  gueltig_ab: 1800
+  gueltig_bis: 1867
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Nanny Lambrecht
+EIGENSCHAFTEN:
+  geburtsyear: 1868
+  sterbejahr: 1942
+  beruf: Romanautorin
+  charakterisierung: dem Hunsrück verbunden
+  gueltig_ab: 1868
+  gueltig_bis: 1942
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Otto Back
+EIGENSCHAFTEN:
+  geburtsyear: 1834
+  sterbejahr: 1917
+  berufe: Landrat, Bürgermeister, Landtagspräsident
+  landrat_stadt: Simmern
+  buergermeister_stadt: Straßburg
+  gueltig_ab: 1834
+  gueltig_bis: 1917
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Harry Raymon
+EIGENSCHAFTEN:
+  geburtsyear: 1926
+  geburtsname: Harry Heymann
+  berufe: Autor, Schauspieler, Filmemacher
+  filmwerk: Regentropfen (1981, autobiografisch)
+  gueltig_ab: 1926
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Barthold C. Witte
+EIGENSCHAFTEN:
+  geburtsyear: 1928
+  sterbejahr: 2018
+  beruf: Ministerialbeamter
+  gueltig_ab: 1928
+  gueltig_bis: 2018
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Klaus Schmittinger
+EIGENSCHAFTEN:
+  geburtsyear: 1950
+  sportart: Tischtennisspieler
+  gueltig_ab: 1950
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl Wilhelm Ludwig Friedrich Drais
+EIGENSCHAFTEN:
+  geburtsyear: 1755
+  sterbejahr: 1830
+  titel: Freiherr von Sauerbronn
+  berufe: Obervogt, Literat, Oberhofgerichtspräsident, Baden-Historiker
+  wirkungsort: Kirchberg
+  gueltig_ab: 1755
+  gueltig_bis: 1830
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl von Drais
+EIGENSCHAFTEN:
+  geburtsyear: 1785
+  sterbejahr: 1851
+  erfindungen: Zweiradprinzip, Schnellschreibmaschine mit 16 Tasten
+  familienrelation: Sohn von Karl Wilhelm Ludwig Friedrich Drais
+  aufenthalt_kirchberg: Kind von 1790-1794
+  superlativ: Erfinder der ersten zweirädrigen Laufmaschine (Draisine)
+  gueltig_ab: 1785
+  gueltig_bis: 1851
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Paulgerhard Gladen
+EIGENSCHAFTEN:
+  geburtsyear: 1926
+  sterbejahr: 2023
+  berufe: Rechtsanwalt, Studentenhistoriker
+  wirkungsort: Kirchberg
+  gueltig_ab: 1926
+  gueltig_bis: 2023
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: buergermeister
+BEZEICHNUNG: Werner Wöllstein
+EIGENSCHAFTEN:
+  partei: FDP
+  wahl_stichwahl_datum: 2019-06-16
+  wahl_stichwahl_stimmenanteil_prozent: 66.61
+  amtsantritt: 2019
+  wiederwahl_datum: 2024-06-09
+  wiederwahl_stimmenanteil_prozent: 77.2
+  wiederwahl_wahlbeteiligung_prozent: 52.6
+  wiederwahl_gegenkandidat: nein
+  amtszeit_laenge_jahre: 5
+  gueltig_ab: 2019
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+ENTITÄT: buergermeister
+BEZEICHNUNG: Hans Dunger
+EIGENSCHAFTEN:
+  partei: Grüne
+  amtszeit: 1994-2004
+  gueltig_ab: 1994
+  gueltig_bis: 2004
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: buergermeister
+BEZEICHNUNG: Werner Elsen
+EIGENSCHAFTEN:
+  partei_liste: WG Elsen
+  amtszeit: 2004-2009
+  gueltig_ab: 2004
+  gueltig_bis: 2009
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: buergermeister
+BEZEICHNUNG: Udo Kunz
+EIGENSCHAFTEN:
+  partei: CDU
+  amtszeit: 2009-2019
+  gueltig_ab: 2009
+  gueltig_bis: 2019
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: film
+BEZEICHNUNG: Regentropfen
+EIGENSCHAFTEN:
+  produktionsjahr: 1981
+  drehort: Kirchberg (Hunsrück)
+  filmtyp: deutscher Spielfilm
+  autobiografisch: true
+  autor_und_schauspieler: Harry Raymon (in Kirchberg geboren)
+  thema: Geschichte jüdischer Kinder während der Zeit des Nationalsozialismus
+  darsteller: Elfriede Irrall, Walter Renneisen, Giovanni Früh, Pit Krüger
+  auszeichnung: Film des Monats Juni 1982 der Jury der Evangelischen Filmarbeit
+  gueltig_ab: 1981
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: historische_siedlung
+BEZEICHNUNG: Dumno / Vicus Dumnissus
+EIGENSCHAFTEN:
+  geographische_lage: Ostteil der heutigen Stadt Kirchberg
+  zeitstellung: römisch (1. Jahrhundert v. Chr. - 4. Jahrhundert n. Chr.)
+  dokumentation_zeit: 4. Jahrhundert Straßenkarte
+  dokumentation_artefakt: Tabula Peutingeriana (Kopie 12. Jahrhundert)
+  erwaehnung_ausonius: 368 (Gedicht Mosella)
+  geschichtliche_bedeutung: älteste bekannte Siedlung des Höhengebietes zwischen Mosel, Rhein, Nahe und Saar
+  siedlungstyp: Militärstation an der Römerstraße
+  gueltig_ab: 0
+  gueltig_bis: 500
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: historische_periode
+BEZEICHNUNG: Fränkische Periode Kirchberg
+EIGENSCHAFTEN:
+  beginn: 5. Jahrhundert
+  ereignis: römisches Fiskalland wurde Krongut der fränkischen Könige
+  entwicklung: aus römischem Vicus entstand neue Siedlung
+  kirche_erstellung: spätestens 7. Jahrhundert (Holzbau)
+  kirche_wahrscheinlicher_standort: Ort der heutigen Michaelskirche
+  namenherkunft: vermutlich nach dem Kyrbach (Chiriperg -> Kirchberg)
+  gueltig_ab: 400
+  gueltig_bis: 1000
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: historische_periode
+EIGENSCHAFTEN:
+  ereignis: König Otto III. schenkt Königsgut Denzen an Trechirgaugrafen Bezelin
+  datum: 995
+  gueltig_ab: 995
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Bertholde
+EIGENSCHAFTEN:
+  anfangsgeneration: Trechirgaun Bezelin (Vorfahre)
+  jahr_gründung_stift: 1074
+  stiftsname: Augustiner-Chorherrenstift Ravengiersburg
+  gebiet: östliche Hälfte Kirchberg mit Denzen
+  gueltig_ab: 995
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Grafen von Sponheim
+EIGENSCHAFTEN:
+  erwerbung_kirchberg: 1248
+  gebiet: westliche Hälfte Kirchberg
+  stadtrecht_verleihung: 1259
+  urkunde_vorstufe: 1249
+  aussterbung: 1437
+  geschichtliche_bedeutung: enge Verbindung mit Kirchberg nach 1248
+  wappenvariante_verwendung: Geschachter Sparren im Kirchberger Wappen
+  gueltig_ab: 1248
+  gueltig_bis: 1437
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: historische_periode
+BEZEICHNUNG: Gemeinherrschaft Kirchberg 1437
+EIGENSCHAFTEN:
+  beginn: 1437
+  ereignis: Aussterben der Sponheimer
+  nachfolger: Gemeinherrschaft von Kurfürst von der Pfalz, Markgraf von Baden, Graf von Veldenz
+  verwaltunsgsitz: Kirchberg
+  aufloesung: Realteilung 1708
+  gueltig_ab: 1437
+  gueltig_bis: 1708
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: historische_periode
+BEZEICHNUNG: Badische Herrschaft Kirchberg
+EIGENSCHAFTEN:
+  beginn: 1708
+  ereignis: Realteilung - Amt Kirchberg mit Unteramt Koppenstein an Baden
+  funktion: Sitz des Badischen Oberamts Kirchberg
+  ende: 1794
+  grund_ende: Französische Truppen im Pfälzischen Erbfolgekrieg
+  gueltig_ab: 1708
+  gueltig_bis: 1794
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: historische_periode
+BEZEICHNUNG: Französische Besatzung Kirchberg
+EIGENSCHAFTEN:
+  zeitraum: 1689 (Pfälzischer Erbfolgekrieg)
+  ereignis: Französische Truppen zerstörten die Stadt und die Befestigungsanlagen
+  kanton_verwaltung_von: 1798-1814
+  verwaltungszone: französischer Kanton im Arrondissement Simmern des Département de Rhin-et-Moselle
+  gueltig_ab: 1689
+  gueltig_bis: 1814
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: historische_periode
+BEZEICHNUNG: Preußische Herrschaft Kirchberg
+EIGENSCHAFTEN:
+  beginn: 1815
+  ereignis: Wiener Kongress - Region kommt zum Königreich Preußen
+  buergermeisterei_ab: 1816
+  buergermeisterei_gemeinden_umland: 18
+  gueltig_ab: 1815
+  gueltig_bis: 1946
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: historische_periode
+BEZEICHNUNG: Rheinland-Pfalz Zugehörigkeit
+EIGENSCHAFTEN:
+  beginn: 1946
+  ereignis: Kirchberg mit Denzen gehört zu dem damals neu gebildeten Land Rheinland-Pfalz
+  gueltig_ab: 1946
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+ENTITÄT: konfessionsstatistik
+EIGENSCHAFTEN:
+  datum_1: 2005-06-30
+  evangelisch_prozent_1: 50.2
+  katholisch_prozent_1: 35.2
+  konfessionslos_oder_andere_prozent_1: 14.6
+  datum_2: 2025-11
+  evangelisch_prozent_2: 37.4
+  katholisch_prozent_2: 25.2
+  konfessionslos_oder_andere_prozent_2: 37.4
+  tendenz: Anteil evangelischer und katholischer Kirchenmitglieder beträchtlich gesunken
+  gueltig_ab: 2005
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Reformationsphase Kirchberg
+EIGENSCHAFTEN:
+  lutherisch_ab: 1556
+  grund_lutherisch: Kurfürst Ottheinrich ließ das Amt Kirchberg visitieren
+  reformiert_ab: 1599-05
+  grund_reformiert: Kurfürst Friedrich IV. (Pfalz)
+  gueltig_ab: 1556
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Konfessionswechsel Dreißigjähriger Krieg
+EIGENSCHAFTEN:
+  католisch_ab: 1620
+  grund_katholisch: spanische Besatzung nach Eroberung
+  lutherisch_ab: 1631
+  lutherisch_bis: 1635
+  grund_lutherisch: schwedischer Einfluss
+  katholisch_ab_1635: 1635
+  katholisch_bis: 1648
+  reformiert_ab: 1648
+  grund_reformiert: Westfälischer Frieden
+  katholiken_recht_ab: 1652
+  katholiken_recht_beschreibung: Recht Gottesdienst zu feiern im Haus des badischen Truchsess
+  gueltig_ab: 1620
+  gueltig_bis: 1652
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Grabmal Catharina von Hoising
+ORTSTEIL_BEZUG: Michaelskirche Chor
+EIGENSCHAFTEN:
+  meister: Johann von Trarbach
+  datierung: nach 1577
+  material: Stein
+  lage_innerkirche: im Chor
+  gueltig_ab: 1577
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Sandsteinkanzel Michaelskirche
+EIGENSCHAFTEN:
+  material: Sandstein
+  zeitstellung: um 1490
+  lage: Michaelskirche Langhaus
+  gueltig_ab: 1490
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: kunstwerk
+BESCHREIBUNG: Malerei Chorgewölbe Michaelskirche
+EIGENSCHAFTEN:
+  baustil: Barock
+  zeitstellung: um 1700
+  restaurierung: 1969
+  teilweise_wiederherstellung: true
+  darstellungen_zentrum: Madonna mit weiblichen Heiligen, Taufe Jesu, Apokalypse, Gnadenstuhl
+  darstellungen_seiten: zwölf Apostel und vier lateinische Kirchenlehrer
+  darstellungen_westkappen: Sebastian und Rochus, Barbara und Margaretha, Florian und Martin
+  weitere_darstellungen: Gegenüberstellungen von neutestamentlichen Szenen mit Karmeliten-Lebensszenen
+  gueltig_ab: 1700
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: kupferstich
+BEZEICHNUNG: Kupferstich Kirchberg/Hunnor
+EIGENSCHAFTEN:
+  kuenstler: Sebastian Furck
+  datum: 1629
+  sammelwerk: Thesaurus philopoliticus oder Politisches Schatzkästlein
+  autoren_sammelwerk: Daniel Meisner und Eberhard Kieser
+  gueltig_ab: 1629
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: kupferstich
+BEZEICHNUNG: Kupferstich Kirchberg
+EIGENSCHAFTEN:
+  kuenstler: Matthäus Merian
+  datum: 1645
+  sammelwerk: Topographia Germaniae
+  beschreibung_text_zitat: Ist nicht groß, aber vor diesem Krieg fein erbaut gewesen
+  gueltig_ab: 1645
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Ölgemälde Kirchberg
+EIGENSCHAFTEN:
+  datierung_vor: 1610
+  erhaltungszustand: nur in alten Fotografien erhalten
+  gueltig_ab: 1600
+  gueltig_bis: 1610
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.7
+
+---
+ENTITÄT: wappen
+EIGENSCHAFTEN:
+  herkunft: nachgebildet nach Stadtsiegel aus 14. Jahrhundert
+  blasonierung: In Rot ein von Gold und Blau zweireihig geschachter Sparren, darunter eine goldene Helmkrone
+  element_sparren_herkunft: Wappenvariante der Grafen von Sponheim Vordere Grafschaft
+  element_sparren_bedeutung: Grafen verliehen 1259 Stadtrechte
+  element_krone_deutung_1: möglicherweise Reichstreue der Sponheimer
+  element_krone_deutung_2: möglicherweise Hinweis auf Krongut zu Zeiten fränkischer Könige (kam 1248 an Sponheimer)
+  element_krone_parallele: auch in Wappen von Kastellaun und Sohren
+  gueltig_ab: 1300
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Städtepartnerschaft Villeneuve-l'Archevêque
+EIGENSCHAFTEN:
+  partner_stadt: Villeneuve-l'Archevêque
+  partner_land: Frankreich
+  partner_region: Burgund
+  gueltig_ab: 1950
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: arbeitende_orden
+BEZEICHNUNG: Karmeliten Kirchberg
+EIGENSCHAFTEN:
+  orden: Carmeliten
+  betaetigung_ende: 1757
+  lage: Kirchberg
+  gueltig_ab: 1600
+  gueltig_bis: 1757
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: berufsperson
+BEZEICHNUNG: Heinrich Otto Vogel
+EIGENSCHAFTEN:
+  beruf: Architekt
+  stadt: Trier
+  werke: Friedenskirche Kirchberg
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: berufsperson
+BEZEICHNUNG: Sebastian Furck
+EIGENSCHAFTEN:
+  beruf: Kupferstecher und Zeichner
+  geburtsyear: 1598
+  geburtsort: Alterkülz bei Kastellaun
+  werke: Kupferstiche Kirchberg und Kastellaun
+  selbstdarstellung_in_werk: im Kupferstich Kastellaun selbst dargestellt
+  gueltig_ab: 1598
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: berufsperson
+BEZEICHNUNG: Eberhard Kieser
+EIGENSCHAFTEN:
+  beruf: Kupferstecher und Verleger
+  geburtsyear: 1583
+  geburtsort: Kastellaun
+  sammelwerk_verleger: Thesaurus philopoliticus und Topographia Germaniae
+  gueltig_ab: 1583
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: berufsperson
+BEZEICHNUNG: Matthäus Merian
+EIGENSCHAFTEN:
+  beruf: Kartograph und Künstler
+  werke: Topographia Germaniae mit Kupferstich Kirchberg (1645)
+  gueltig_ab: 1600
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: literarische_quelle
+BEZEICHNUNG: Tabula Peutingeriana
+EIGENSCHAFTEN:
+  zeit_entstehung: spätantik 4. Jahrhundert
+  kopie_zeitpunkt: 12. Jahrhundert
+  kopie_treue: getreue Kopie
+  dokumentation_inhalt: römische Ortsbezeichnungen
+  erwaehnung_kirchberg: ja (Dumnissus)
+  gueltig_ab: 300
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: literarisches_werk
+BEZEICHNUNG: Mosella
+EIGENSCHAFTEN:
+  autor: Decimus Magnus Ausonius
+  autor_beschreibung: römischer Staatsbeamter und Dichter
+  autor_lebenszeit: ca. 310-394
+  inhalt: Gedicht, dichterische Beschreibung der Reise von Bingen über Hunsrück nach Neumagen und Trier
+  erwaehnung_kirchberg: ja, erwähnt Ort Dumnissus im Jahr 368
+  geschichtliche_bedeutung: erste Erwähnung Kirchbergs in literarischer Quelle
+  gueltig_ab: 368
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: naturgeographie
+BEZEICHNUNG: Soonwald
+ORTSTEIL_BEZUG: südöstlich von Kirchberg
+EIGENSCHAFTEN:
+  eigenschaft_sicht: sichtbar vom Turm der Michaelskirche
+  besonderheit: Burgruine Koppenstein
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: naturgeographie
+BEZEICHNUNG: Lützelsoon
+ORTSTEIL_BEZUG: südlich von Kirchberg
+EIGENSCHAFTEN:
+  eigenschaft_sicht: sichtbar vom Turm der Michaelskirche
+  radweg: Lützelsoon-Radweg (nach Kirn)
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: naturgeographie
+BEZEICHNUNG: Erbeskopf
+ORTSTEIL_BEZUG: südwestlich von Kirchberg
+EIGENSCHAFTEN:
+  hoehe_meter: 816
+  eigenschaft_sicht: sichtbar vom Turm der Michaelskirche
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: naturgeographie
+BEZEICHNUNG: Idarkopf
+ORTSTEIL_BEZUG: südwestlich von Kirchberg
+EIGENSCHAFTEN:
+  eigenschaft_sicht: sichtbar vom Turm der Michaelskirche
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: naturgeographie
+BEZEICHNUNG: Kyrbachtal
+ORTSTEIL_BEZUG: westlich von Kirchberg
+EIGENSCHAFTEN:
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: naturgeographie
+BEZEICHNUNG: Kauerbachtal
+ORTSTEIL_BEZUG: östlich von Kirchberg
+EIGENSCHAFTEN:
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: koelner_gebiet
+BEZEICHNUNG: Gebiet um Kastellaun
+ORTSTEIL_BEZUG: nordöstlich von Kirchberg
+EIGENSCHAFTEN:
+  eigenschaft_sicht: sichtbar vom Turm der Michaelskirche
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: staedtischer_rat
+EIGENSCHAFTEN:
+  rats_ratsmitglieder_anzahl: 20
+  wahl_wahldatum: 2024-06-09
+  wahl_verfahren: personalisierte Verhältniswahl
+  ehrenamtlicher_vorsitzender: Stadtbürgermeister
+  gueltig_ab: 2024
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: burgruine
+BEZEICHNUNG: Burgruine Koppenstein
+ORTSTEIL_BEZUG: Soonwald südöstlich
+EIGENSCHAFTEN:
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.7
+
+---
+ENTITÄT: historische_period
+BEZEICHNUNG: Karolingische Zeit
+EIGENSCHAFTEN:
+  ereignis: Großpfarrei Kirchberg mit zentraler Taufkirche entstanden
+  zentrale_kirche: Kirchberg
+  kapellen: Gemünden, Dickenschied, Womrath, Denzen, Kappel, Metzenhausen, Ober Kostenz, Würrich, Altlay
+  pastorei_ortschaften: 51
+  bedeutung: eines der bedeutenden Zentren auf dem Hunsrück bis 16. Jahrhundert
+  gueltig_ab: 700
+  gueltig_bis: 1600
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+

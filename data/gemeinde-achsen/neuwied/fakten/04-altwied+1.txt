@@ -1,0 +1,223 @@
+ID: 04-altwied+1/001
+ENTITÄT: burg
+BEZEICHNUNG: Burg Altwied
+ORTSTEIL_BEZUG: Altwied
+EIGENSCHAFTEN:
+  ist_stammburg_von: Grafen zu Wied
+  burgtyp: Schildmauerburg, Abschnittsburg
+  hoehe_über_talsohle: 25 m
+  hoehe_über_nn: ca. 100 m
+  lage_zu_neuwied: ca. 5 km nördlich
+  lage_zur_wied: auf vorspringendem Felsriegel, von drei Seiten von der Wied umflossen
+  gründung_wohnturm: vor 1129
+  gründer: Metfried, Graf im Engersgau
+  bauabschnitt_1: bis 1179 unter Theoderich abgeschlossen
+  befestigung_13_14_jh: mehrere Befestigungsringe um die Hauptburg
+  frauenhaus_baujahr: 1622
+  frauenhaus_erbauer: Hermann zu Wied
+  frauenhaus_gemahlin: Magdalene
+  frauenhaus_witwensitz: 1633-1657
+  frauenhaus_verfall: ca. 1800
+  bergfried_grundriss: ca. 16 m × 7 m
+  bergfried_hoehe_erhalten: ca. 16 m
+  bergfried_mauerstärke_angriffsseite: 2 m
+  bergfried_mauerstärke_burgseite: 1 m
+  bergfried_geschosse: 4, unterste mit zwei tonnengewölbten Räumen
+  bergfried_charakteristik: ausgesprochen wohnturmartiger Charakter
+  burgkomplex_ausdehnung: ca. 200 m Länge westlich vom Bergfried
+  letzter_bewohner_aus_grafenhaus: Graf Georg Herman Reinhard (bis 1690)
+  ruine_status_heute: Besitz der Familie zu Wied, für Öffentlichkeit gesperrt
+  verfall_ab: 17. Jahrhundert
+  steinbruch_ab: soll um 1760 als Steinbruch gedient haben (überliefert; verbürgt ist erst die Lieferung von 1792)
+  verwendung_1792: Steinlieferung zur Verstärkung Ehrenbreitstein
+  restauration_1880: um 1880 einige Räume und einer der kleineren Türme wiederhergestellt
+GUELTIG_AB: vor 1129
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+BERICHTIGT: Der Steinbruch um 1760 steht im Artikel nur mit Vorbehalt („soll“).
+BERICHTIGT: Um 1880 wurde ein Turm wiederhergestellt, nicht mehrere.
+---
+ID: 04-altwied+1/002
+ENTITÄT: ort
+BEZEICHNUNG: Altwied
+EIGENSCHAFTEN:
+  ist_stadtteil_von: Neuwied
+  bundesland: Rheinland-Pfalz
+  landkreis: Neuwied
+  namensvariante_1301: Niderwide
+  namensvariante_mittelalter: Niederwied
+  namensvariante_später: gelegentlich auch Grafenwied
+  namensvariante_19_jh: Niederaltwied, Oberaltwied
+  namensvariante_ab: 1653 Altwied (nach Gründung Neuwied)
+  namensvariante_bis: 1930
+  burgflecken_erste_erwähnung: 1275
+  burgflecken_beschreibung: Wehreinheit aus Burg und unterhalb gelegenem Dorf
+GUELTIG_AB: 1275
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+BERICHTIGT: Niderwide (1301) und Niederwied sind derselbe Name in zwei Schreibweisen, keine zwei Stufen; Grafenwied kam nur gelegentlich vor.
+---
+ID: 04-altwied+1/003
+ENTITÄT: graf
+BEZEICHNUNG: Metfried
+EIGENSCHAFTEN:
+  titel: Graf im Engersgau
+  titel_ersterwähnung: 1084, 1101, 1105
+  titel_als_wied: 1129 erstmals Meffridus de Widhe
+  rolle: Gründer der Burg, Mittelpunkt seiner Grundherrschaft
+  herkunft: vermutlich linksrheinisch, Südeifel
+  herkunft_alternative: möglicherweise Nachkomme des Grafen im Engersgau
+  nachkomme: Theoderich (Enkel), 1179
+GUELTIG_AB: 1084
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-altwied+1/004
+ENTITÄT: kapelle
+BEZEICHNUNG: Burgkapelle
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1259
+  widmung: Hl. Georg
+  lage: auf der Burg
+GUELTIG_AB: 1259
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-altwied+1/005
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapelle im Burgflecken
+EIGENSCHAFTEN:
+  bauzeit: 13., 14. Jahrhundert
+  funktion: Pfarrkirche und zeitweise Grablegung des Grafenhauses
+  lage: im Dorf unterhalb der Burg
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 04-altwied+1/006
+ENTITÄT: gericht
+BEZEICHNUNG: Hohe Veste uf den stoelen
+EIGENSCHAFTEN:
+  beschreibung: Hochgericht auf den Stühlen
+  erste_erwähnung: 1404
+GUELTIG_AB: 1404
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-altwied+1/007
+ENTITÄT: gericht
+BEZEICHNUNG: Burgfrieden- und Kirchspielgericht
+EIGENSCHAFTEN:
+  beschreibung: besonderes Gericht für Burgfrieden und Kirchspiel Altwied
+GUELTIG_AB: 1404
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 04-altwied+1/008
+ENTITÄT: amtssitz
+EIGENSCHAFTEN:
+  erste_erwähnung: seit 1480
+  verlagerung: 1653 nach Heddesdorf
+GUELTIG_AB: 1480
+GUELTIG_BIS: 1653
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-altwied+1/009
+ENTITÄT: befestigung
+BEZEICHNUNG: Freiheitsbefestigung Burgflecken
+EIGENSCHAFTEN:
+  gesamtlaenge: 500 m
+  mauerhöhe: 4-5 m
+  mauerhöhe_osten: 8 m
+  ausstattung: Wehrgang, Zinnen, Bogenfries
+  turm_quadratisch: 4
+  turm_rund: 3
+  tortürme: 3
+  tore: Porz (Pforte), Judentor, Mühlentor
+  tor_haupttor_alternativname: Neuwieder Tor (seit ca. 1700)
+  vermutung_trockengraben: vor dem Haupttor
+  bauzeit: 13., 14. Jahrhundert
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-altwied+1/010
+ENTITÄT: brunnen
+BEZEICHNUNG: Burghof-Brunnen
+EIGENSCHAFTEN:
+  lage: Mitte des gepflasterten Burghofs
+  status_heute: wieder freigelegt
+GUELTIG_AB: (mittelalter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 04-altwied+1/011
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Friedrichstein
+EIGENSCHAFTEN:
+  lage: Neuwieder Stadtteil Fahr
+  baustart: 1648
+  bauherr: Graf Friedrich
+  bautyp: offenes Schloss
+  funktion: neue Residenzplatz
+  anlass: Burg Altwied war zu abgelegen und verfiel
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-altwied+1/012
+ENTITÄT: festung
+BEZEICHNUNG: Langendorf
+EIGENSCHAFTEN:
+  baustart: 1648
+  bauherr: Graf Friedrich
+  bautyp: kleine Festung
+  ursprünglicher_name: Neuenwied
+  kaiserliches_privileg: 1653 (Stadtsiedlung)
+  anlass: Erfordernisse der beginnenden Neuzeit
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-altwied+1/013
+ENTITÄT: person
+BEZEICHNUNG: Elisabeth
+EIGENSCHAFTEN:
+  titel: Prinzessin, wiedisch
+  titel_durch_heirat: Königin von Rumänien
+  todesjahr: 1916
+  beziehung_zu_burg: besuchte die Altwied oft und gerne
+GUELTIG_AB: (offen)
+GUELTIG_BIS: 1916
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-altwied+1/014
+ENTITÄT: plan
+BEZEICHNUNG: Ausbaupläne zur Jugendherberge
+EIGENSCHAFTEN:
+  planung: 1926-1929
+  anzahl_plaene: 6
+  datierung: März/April 1929
+  architekt: Ernst Stahl (Düsseldorf)
+  entwurf_beschreibung: Ausbau des stauferzeitlichen Gebäudes an der Ostseite unter Bewahrung der ruinösen Silhouette
+  umsetzung: nicht erfolgt, wohl aus finanziellen Gründen
+  archivierung: Deutsches Burgenvereinigung, Schloss Philippsburg
+  vergleichsprojekte_stahl: Burg Stahleck, Burg Monschau, Burg Blankenheim, Schloss Burg an der Wupper
+GUELTIG_AB: 1926
+GUELTIG_BIS: 1929
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+BERICHTIGT: Die Pläne für eine Jugendherberge stehen nur in Wikipedia; keine zweite Quelle. Den Architekten Ernst Stahl nur als Zuschreibung nennen.
+---
+ID: 04-altwied+1/015
+ENTITÄT: verein
+BEZEICHNUNG: Heimatbund Altwied
+EIGENSCHAFTEN:
+  erste_bemühungen: seit 1927
+  funktion: Instandhaltung der Ruine
+  nachfolger: Heimatverein Altwied (gegründet 1980)
+GUELTIG_AB: 1927
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

@@ -1,0 +1,1832 @@
+ZIELORT: Altwied (Ortsteil von Neuwied)
+LAGE: Stadtteil von Neuwied; 16 km nordwestlich von Koblenz (Luftlinie)
+ARTIKEL: Altwied
+
+GRUNDDATEN:
+  landkreis: Landkreis Neuwied — GILT FÜR DIE GEMEINDE NEUWIED  [Wikidata P131]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 674  [dewiki Infobox, Stand 2026-07-06]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE NEUWIED  [Wikidata P395]
+  hoehe_m: 82 | 87 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2956764)]
+  naechste_grossstadt: Koblenz, 16 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 80 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  eingemeindung: 1970-11-07  [dewiki Infobox]
+  plz: 56567  [Wikidata P281]
+  vorwahl: 02631  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 33,6 %, SPD 19,5 %, AfD 19,1 %, GRÜNE 9,5 %, Die Linke 5,2 %; Wahlbeteiligung 92,8 % — NUR UNGEFÄHR, AUF GANZE PROZENT RUNDEN (der Briefwahlbezirk zählt 244 Stimmen bei 236 im Stadtteil ausgegebenen Wahlscheinen)  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich); Zuordnung der Stimmbezirke zum Stadtteil nach der Stimmbezirkseinteilung der Stadt Neuwied, Stand 2025-02-23]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT einwohner: Einwohnerzahl, C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT eingemeindung: Jahr der Eingemeindung (Ersatz: Luftlinie zur Landeshauptstadt), C, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Heimbach-Weis (Ortsteil von Neuwied)
+  landkreis: Landkreis Neuwied — GILT FÜR DIE GEMEINDE NEUWIED  [Wikidata P131]
+  einwohner: 7337  [dewiki Infobox, Stand 2026-07-06]
+  kfz: NR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus) — GILT FÜR DIE GEMEINDE NEUWIED  [Wikidata P395]
+  hoehe_m: 95 | 103 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2907461)]
+  naechste_grossstadt: Koblenz, 11 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 35,2 %, SPD 19,3 %, AfD 18,8 %, GRÜNE 9,2 %, Die Linke 5,8 %; Wahlbeteiligung 82,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich); Zuordnung der Stimmbezirke zum Stadtteil nach der Stimmbezirkseinteilung der Stadt Neuwied, Stand 2025-02-23]
+
+FAHRT: Bendorf, Engers, Heimbach-Weis, Altwied, Rengsdorf, Dierdorf, Waldbreitbach, Linz am Rhein, Bad Hönningen, Leutesdorf
+
+FAKTEN (Zielort Altwied):
+ID: 04-altwied/001
+ENTITÄT: ort
+BEZEICHNUNG: Altwied
+EIGENSCHAFTEN:
+  status: kleinster Stadtteil von Neuwied
+  stadt: Neuwied
+  bundesland: Rheinland-Pfalz
+  lage_geografisch: Wiedtal, Norden der Stadt Neuwied
+  naturpark: Rhein-Westerwald
+  eingemeindung_datum: 7. November 1970
+  vorher_eigenstaendig: true
+  zugehoerige_siedlungen: Kümmelberg, Laubachsmühle, Meinhof
+  nachbarort_nordoestlich: Melsbach
+  nachbarort_sued: Niederbieber
+  nachbarort_nordwestlich: Datzeroth
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/002
+ENTITÄT: burg
+BEZEICHNUNG: Burg Altwied
+EIGENSCHAFTEN:
+  stammsitz: Grafen zu Wied
+  errichtung_ungefaehr: vor 1129
+  erbauer: Metfried von Wied
+  zustand: Ruine
+  befestigungssystem: ja
+  mauer_gesamtlaenge: 500 m
+  mauer_hoehe_durchschnitt: 4 bis 5 m
+  mauer_hoehe_osten: 8 m
+  mauer_ausstattung: Wehrgang, Zinnen, Bogenfries
+  tuermassive: vier quadratische Türme, drei Rundtürme, drei Tortürme
+  tor_muehlentor_lage: Nord
+  tor_judentor_lage: Süd
+  tor_haupttor_lage: Ost
+  tor_haupttor_name: Ahl Porz (Alte Pforte)
+  tor_haupttor_funktion: Zugang zu Ort und Burg
+GUELTIG_AB: 1129
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-altwied/003
+ENTITÄT: person
+BEZEICHNUNG: Metfried von Wied
+EIGENSCHAFTEN:
+  titel: Graf
+  rolle: Erbauer der Burg Wied
+  zeitpunkt: vor 1129
+  beschreibung: Errichtete die Burg Wied, um deren Fuß sich danach eine Talsiedlung bildete
+GUELTIG_AB: 1129
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-altwied/004
+ENTITÄT: siedlung
+BEZEICHNUNG: Talsiedlung Altwied
+EIGENSCHAFTEN:
+  entwicklung_ab: 12. Jahrhundert
+  benannt_nach: Burg Wied und Talaue unterhalb der Burg
+  charakterisierung: bäuerlich-bürgerliche Talsiedlung mit Handwerkern und Bediensteten der Burg
+  erste_erwaehnung_urkundlich: 1275
+  marktflecken_status: ja
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-altwied/005
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Antonius-Kapelle
+ORTSTEIL_BEZUG: Ortskern
+EIGENSCHAFTEN:
+  erste_erwaehnung_urkundlich: 1357
+  erste_erwaehnung_kapelle_marktflecken: 1470
+  architekturtyp: spätgotischer Bruchsteinbau
+  funktion_aktuell: evangelische Pfarrkirche
+  funktion_historisch: Grablege der Grafen zu Wied
+  ausstattung_chor: spätgotische Fresken
+  ausstattung_langhaus: Holzdecke mit Rankenmustern
+  grabplatten: eiserne und steinerne Grabplatten (aufgefunden 1920er Jahre)
+  superlativ: älteste urkundlich erwähnte Kapelle des Marktfleckens
+GUELTIG_AB: 1357
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/006
+ENTITÄT: rechtsinstitution
+BEZEICHNUNG: Burgfrieden
+EIGENSCHAFTEN:
+  beschreibung: Besondere Schutzzone für Einwohner des Marktfleckens unter dem besonderen Schutz des Grafen
+  ab_erwaehnung: 14. Jahrhundert
+  schutzrechte: Befreiung von Frondiensten, bestimmten Steuern und Einquartierungen
+  buergerrechte: Recht auf Bürgerwache, eigene Flurschützer
+  regelung: vertragliche Vereinbarung zwischen Bürgern und Graf
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-altwied/007
+ENTITÄT: stadt
+BEZEICHNUNG: Neuwied
+EIGENSCHAFTEN:
+  gruendung: 1653
+  gruender: Grafen zu Wied (impliziert)
+  lage_relativ_zu_altwied: südlich, direkt am Rhein
+  konsequenz_fuer_altwied: Altwied verlor Funktion als Hauptresidenz des Grafenhauses
+  grund_errichtung_fuer_altwied: Errichtung von Neuwied führte zum Bedeutungsverlust Altwieds
+GUELTIG_AB: 1653
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/008
+ENTITÄT: ereignis
+BEZEICHNUNG: Kriegsende Altwied (Zweiter Weltkrieg)
+EIGENSCHAFTEN:
+  besatzungsraum: Altwied im Rheinland-Pfalz
+  artilleriebeschuss_ab: 13. März 1945
+  artilleriebeschuss_bis: 23. März 1945
+  beschuss_durch: USA (Artilleriefeuer)
+  eroberung_durch: US-Armee
+  eroberung_datum: 23. März 1945
+  widerstand_durch: Wehrmacht (ca. 15 Soldaten auf Burg Altwied)
+  widerstand_dauer: kurz
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-altwied/009
+ENTITÄT: ereignis
+BEZEICHNUNG: Bundeswettbewerb "Unser Dorf soll schöner werden"
+EIGENSCHAFTEN:
+  jahrgang: 1975
+  nummer: 8. (achter)
+  auszeichnung: Silberplakette
+  platzierung: einer von 31 Siegern
+  konkurrenz_gesamt: fast 5000 Konkurrenten
+  konsequenz: Altwied darf sich seitdem offiziell zu den schönsten Orten Deutschlands zählen
+  grund_auszeichnung: Ort als schöner und verbesserter wahrgenommen
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/010
+ENTITÄT: verwaltung
+BEZEICHNUNG: Ortsbeirat Altwied
+EIGENSCHAFTEN:
+  groesse: 4 Ratsmitglieder
+  leitung: Ortsvorsteherin (ehrenamtlich)
+  wahl_2024_form: Mehrheitswahl
+  wahl_2024_besonderheit: nur ein Wahlvorschlag eingereicht
+  wahl_bis_2019_form: personalisierte Verhältniswahl
+  wahl_bis_2019_besonderheit: zwei Wahlvorschläge eingereicht
+  wahlstand_juni_2024: ja (Wahl vom 9. Juni 2024)
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/011
+ENTITÄT: person
+BEZEICHNUNG: Christine Seelbach-Neuer
+EIGENSCHAFTEN:
+  rolle: Ortsvorsteherin von Altwied
+  partei: CDU
+  amtsantritt: 26. August 2024
+  wahlquote_prozent: 78,0
+  amtszeit_dauer_jahre: 5
+  status_wahl: einzige Bewerberin
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/012
+ENTITÄT: person
+BEZEICHNUNG: Liane Herbst
+EIGENSCHAFTEN:
+  rolle: Ortsvorsteherin von Altwied (Vorgängerin)
+  partei: FWG (Freie Wählergruppe Altwied e. V.)
+  amtszeit_von: 2014
+  amtszeit_bis: 2024
+GUELTIG_AB: 2014
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/013
+ENTITÄT: person
+BEZEICHNUNG: Dietrich Rühle
+EIGENSCHAFTEN:
+  rolle: Ortsvorsteher von Altwied (Vorgänger)
+  partei: FDP
+  amtszeit_von: 2001
+  amtszeit_bis: 2014
+GUELTIG_AB: 2001
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/014
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Gemeinde Altwied
+EIGENSCHAFTEN:
+  schildhaupt: Burgturm mit ruinösem Zinnenkranz (stellt Burg Altwied dar, Stammburg der wiedischen Grafen)
+  schildfuss: Wellenbalken (symbolisiert die Wied)
+  geltung_fuer: ehemalige Gemeinde Altwied
+  beschreibung: Heraldische Symbole vereinen Burg und Fluss, die prägenden Elemente Altwieds
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-altwied/015
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Burgruine Altwied
+EIGENSCHAFTEN:
+  kategorie: Ruine
+  bedeutung: Stammsitz der Grafen zu Wied
+  status_heute: Sehenswürdigkeit
+  besichtigung_moeglichkeit: ja
+GUELTIG_AB: 1129
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/016
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Haupttor der Wehrmauer
+ORTSTEIL_BEZUG: Ortskern
+EIGENSCHAFTEN:
+  teil_des_befestigungssystems: ja
+  name_lokal: Ahl Porz (Alte Pforte)
+  funktion: Zugang zu Ort und Burg
+  status_heute: Sehenswürdigkeit
+  erhaeltnis: erhalten
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-altwied/017
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Ostmauer mit zwei Türmen
+ORTSTEIL_BEZUG: Ortskern
+EIGENSCHAFTEN:
+  teil_des_befestigungssystems: ja
+  erhaltung: teilweise erhalten
+  status_heute: Sehenswürdigkeit
+  teil_der: Werkmauer des Burgfleckens
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-altwied/018
+ENTITÄT: architektur
+BEZEICHNUNG: Fachwerkhäuser
+ORTSTEIL_BEZUG: Ortskern
+EIGENSCHAFTEN:
+  zeitraum: 17. bis 18. Jahrhundert
+  material: Fachwerkbau
+  status_heute: Sehenswürdigkeiten
+  erhaltung: mehrere noch vorhanden
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied/019
+ENTITÄT: energieanlage
+BEZEICHNUNG: Wasserkraftwerk
+ORTSTEIL_BEZUG: oberhalb des Ortskerns
+EIGENSCHAFTEN:
+  typ: Wasserkraftwerk
+  superlativ: eines der ältesten Wasserkraftwerke Deutschlands
+  status_heute: Sehenswürdigkeit
+  beschreibung: Historisches Bauwerk der Wasserkraftnutzung
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-altwied/020
+ENTITÄT: verwaltung
+BEZEICHNUNG: Verbandsgemeinde Niederbieber-Segendorf
+EIGENSCHAFTEN:
+  status_altwied: enthaelt Altwied (bis 1970)
+  aufloesungsdatum: 7. November 1970
+  rechtsgrundlage: Achtes Landesgesetz über die Verwaltungsvereinfachung im Lande Rheinland-Pfalz
+  rechtsgrundlage_beschluss: 28. Juli 1970
+  folge: Altwied wird eingemeindert in Stadt Neuwied, Altwied wird Stadtteil mit Ortsbeirat und Ortsvorsteher (Beschluss 22. Januar 1971)
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+FAKTEN AUS ZWEITER QUELLE (Wikipedia, Artikel „Burg Altwied“):
+ID: 04-altwied+1/001
+ENTITÄT: burg
+BEZEICHNUNG: Burg Altwied
+ORTSTEIL_BEZUG: Altwied
+EIGENSCHAFTEN:
+  ist_stammburg_von: Grafen zu Wied
+  burgtyp: Schildmauerburg, Abschnittsburg
+  hoehe_über_talsohle: 25 m
+  hoehe_über_nn: ca. 100 m
+  lage_zu_neuwied: ca. 5 km nördlich
+  lage_zur_wied: auf vorspringendem Felsriegel, von drei Seiten von der Wied umflossen
+  gründung_wohnturm: vor 1129
+  gründer: Metfried, Graf im Engersgau
+  bauabschnitt_1: bis 1179 unter Theoderich abgeschlossen
+  befestigung_13_14_jh: mehrere Befestigungsringe um die Hauptburg
+  frauenhaus_baujahr: 1622
+  frauenhaus_erbauer: Hermann zu Wied
+  frauenhaus_gemahlin: Magdalene
+  frauenhaus_witwensitz: 1633-1657
+  frauenhaus_verfall: ca. 1800
+  bergfried_grundriss: ca. 16 m × 7 m
+  bergfried_hoehe_erhalten: ca. 16 m
+  bergfried_mauerstärke_angriffsseite: 2 m
+  bergfried_mauerstärke_burgseite: 1 m
+  bergfried_geschosse: 4, unterste mit zwei tonnengewölbten Räumen
+  bergfried_charakteristik: ausgesprochen wohnturmartiger Charakter
+  burgkomplex_ausdehnung: ca. 200 m Länge westlich vom Bergfried
+  letzter_bewohner_aus_grafenhaus: Graf Georg Herman Reinhard (bis 1690)
+  ruine_status_heute: Besitz der Familie zu Wied, für Öffentlichkeit gesperrt
+  verfall_ab: 17. Jahrhundert
+  steinbruch_ab: ca. 1760
+  verwendung_1792: Steinlieferung zur Verstärkung Ehrenbreitstein
+  restauration_1880: einige Räume und kleinere Türme wiederhergestellt
+GUELTIG_AB: vor 1129
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied+1/002
+ENTITÄT: ort
+BEZEICHNUNG: Altwied
+EIGENSCHAFTEN:
+  ist_stadtteil_von: Neuwied
+  bundesland: Rheinland-Pfalz
+  landkreis: Neuwied
+  namensvariante_1301: Niderwide
+  namensvariante_mittelalter: Niederwied
+  namensvariante_später: Grafenwied
+  namensvariante_19_jh: Niederaltwied, Oberaltwied
+  namensvariante_ab: 1653 Altwied (nach Gründung Neuwied)
+  namensvariante_bis: 1930
+  burgflecken_erste_erwähnung: 1275
+  burgflecken_beschreibung: Wehreinheit aus Burg und unterhalb gelegenem Dorf
+GUELTIG_AB: 1275
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-altwied+1/003
+ENTITÄT: graf
+BEZEICHNUNG: Metfried
+EIGENSCHAFTEN:
+  titel: Graf im Engersgau
+  titel_ersterwähnung: 1084, 1101, 1105
+  titel_als_wied: 1129 erstmals Meffridus de Widhe
+  rolle: Gründer der Burg, Mittelpunkt seiner Grundherrschaft
+  herkunft: vermutlich linksrheinisch, Südeifel
+  herkunft_alternative: möglicherweise Nachkomme des Grafen im Engersgau
+  nachkomme: Theoderich (Enkel), 1179
+GUELTIG_AB: 1084
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-altwied+1/004
+ENTITÄT: kapelle
+BEZEICHNUNG: Burgkapelle
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1259
+  widmung: Hl. Georg
+  lage: auf der Burg
+GUELTIG_AB: 1259
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-altwied+1/005
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapelle im Burgflecken
+EIGENSCHAFTEN:
+  bauzeit: 13., 14. Jahrhundert
+  funktion: Pfarrkirche und zeitweise Grablegung des Grafenhauses
+  lage: im Dorf unterhalb der Burg
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 04-altwied+1/006
+ENTITÄT: gericht
+BEZEICHNUNG: Hohe Veste uf den stoelen
+EIGENSCHAFTEN:
+  beschreibung: Hochgericht auf den Stühlen
+  erste_erwähnung: 1404
+GUELTIG_AB: 1404
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-altwied+1/007
+ENTITÄT: gericht
+BEZEICHNUNG: Burgfrieden- und Kirchspielgericht
+EIGENSCHAFTEN:
+  beschreibung: besonderes Gericht für Burgfrieden und Kirchspiel Altwied
+GUELTIG_AB: 1404
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 04-altwied+1/008
+ENTITÄT: amtssitz
+EIGENSCHAFTEN:
+  erste_erwähnung: seit 1480
+  verlagerung: 1653 nach Heddesdorf
+GUELTIG_AB: 1480
+GUELTIG_BIS: 1653
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-altwied+1/009
+ENTITÄT: befestigung
+BEZEICHNUNG: Freiheitsbefestigung Burgflecken
+EIGENSCHAFTEN:
+  gesamtlaenge: 500 m
+  mauerhöhe: 4-5 m
+  mauerhöhe_osten: 8 m
+  ausstattung: Wehrgang, Zinnen, Bogenfries
+  turm_quadratisch: 4
+  turm_rund: 3
+  tortürme: 3
+  tore: Porz (Pforte), Judentor, Mühlentor
+  tor_haupttor_alternativname: Neuwieder Tor (seit ca. 1700)
+  vermutung_trockengraben: vor dem Haupttor
+  bauzeit: 13., 14. Jahrhundert
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-altwied+1/010
+ENTITÄT: brunnen
+BEZEICHNUNG: Burghof-Brunnen
+EIGENSCHAFTEN:
+  lage: Mitte des gepflasterten Burghofs
+  status_heute: wieder freigelegt
+GUELTIG_AB: (mittelalter)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 04-altwied+1/011
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Friedrichstein
+EIGENSCHAFTEN:
+  lage: Neuwieder Stadtteil Fahr
+  baustart: 1648
+  bauherr: Graf Friedrich
+  bautyp: offenes Schloss
+  funktion: neue Residenzplatz
+  anlass: Burg Altwied war zu abgelegen und verfiel
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-altwied+1/012
+ENTITÄT: festung
+BEZEICHNUNG: Langendorf
+EIGENSCHAFTEN:
+  baustart: 1648
+  bauherr: Graf Friedrich
+  bautyp: kleine Festung
+  ursprünglicher_name: Neuenwied
+  kaiserliches_privileg: 1653 (Stadtsiedlung)
+  anlass: Erfordernisse der beginnenden Neuzeit
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-altwied+1/013
+ENTITÄT: person
+BEZEICHNUNG: Elisabeth
+EIGENSCHAFTEN:
+  titel: Prinzessin, wiedisch
+  titel_durch_heirat: Königin von Rumänien
+  todesjahr: 1916
+  beziehung_zu_burg: besuchte die Altwied oft und gerne
+GUELTIG_AB: (offen)
+GUELTIG_BIS: 1916
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-altwied+1/014
+ENTITÄT: plan
+BEZEICHNUNG: Ausbaupläne zur Jugendherberge
+EIGENSCHAFTEN:
+  planung: 1926-1929
+  anzahl_plaene: 6
+  datierung: März/April 1929
+  architekt: Ernst Stahl (Düsseldorf)
+  entwurf_beschreibung: Ausbau des stauferzeitlichen Gebäudes an der Ostseite unter Bewahrung der ruinösen Silhouette
+  umsetzung: nicht erfolgt, wohl aus finanziellen Gründen
+  archivierung: Deutsches Burgenvereinigung, Schloss Philippsburg
+  vergleichsprojekte_stahl: Burg Stahleck, Burg Monschau, Burg Blankenheim, Schloss Burg an der Wupper
+GUELTIG_AB: 1926
+GUELTIG_BIS: 1929
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-altwied+1/015
+ENTITÄT: verein
+BEZEICHNUNG: Heimatbund Altwied
+EIGENSCHAFTEN:
+  erste_bemühungen: seit 1927
+  funktion: Instandhaltung der Ruine
+  nachfolger: Heimatverein Altwied (gegründet 1980)
+GUELTIG_AB: 1927
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+FAKTEN AUS ZWEITER QUELLE (Wikipedia, Artikel „Evangelische Pfarrkirche Altwied“):
+ID: 04-altwied+2/001
+ENTITÄT: pfarrkirche
+BEZEICHNUNG: Evangelische Pfarrkirche Altwied
+ORTSTEIL_BEZUG: Altwied
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  denkmalschutz: ja
+  ursprünglicher_name: Sankt-Antonius-Kapelle
+  erste_erwähnung: 1470
+  baustil: Bruchsteinbau, Spätgotik
+  langhaus_schiffe: 1
+  langhaus_decke: flach
+  baumaßnahme_1658: Eingang an Nordseite verlegt
+  baumaßnahme_1920er: Vordach am Eingang, Westempore eingebaut
+  kirchengemeinde: Feldkirchen-Altwied
+GUELTIG_AB: 1470
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-altwied+2/002
+ENTITÄT: orgel
+BEZEICHNUNG: Orgel Schöler
+EIGENSCHAFTEN:
+  baujahr: 1756
+  orgelbauer: Johann Wilhelm Schöler
+  register: 11
+  manual: 1
+  pedal: ja
+  status_1924: ersetzt durch Paul Faust
+GUELTIG_AB: 1756
+GUELTIG_BIS: 1924
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-altwied+2/003
+ENTITÄT: orgel
+BEZEICHNUNG: Orgel Faust
+EIGENSCHAFTEN:
+  baujahr: 1924
+  orgelbauer: Paul Faust
+  manual: 2
+  gehäusewiederverwendung: Teile des alten Schöler-Gehäuses
+  status_1970: abtragen, Schöler-Prospekt bei Oberlinger gelagert
+GUELTIG_AB: 1924
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-altwied+2/004
+ENTITÄT: orgel
+BEZEICHNUNG: Orgel Marktkirche Neuwied
+EIGENSCHAFTEN:
+  herkunft: gebrauchte Orgel aus Marktkirche Neuwied
+  erwerb_gemeinde: 1970
+  status_1970: Faust-Orgel abtragen
+  status_1992: ersetzt durch Oberlinger
+GUELTIG_AB: 1970
+GUELTIG_BIS: 1992
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-altwied+2/005
+ENTITÄT: orgel
+BEZEICHNUNG: Orgel Oberlinger
+EIGENSCHAFTEN:
+  rekonstruktion_baujahr: 1992
+  orgelbauer: Oberlinger
+  wiederverwendung_prospekt: Schöler-Prospekt und erhaltene Reste
+  erweiterung: Echowerk auf zweitem Manual
+  register_heute: 19 klingende Register
+  koppeln: II/I, I/P, II/P
+  spielhilfe: Echo Forte
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+SPENDER: Kirchberg (nicht Teil der Fahrt)
+ENTITÄT: ort
+BEZEICHNUNG: Kirchberg (Hunsrück)
+EIGENSCHAFTEN:
+  bundesland: Rheinland-Pfalz
+  landkreis: Rhein-Hunsrück-Kreis
+  sitz_verbandsgemeinde: true
+  funktionale_einstufung: Grundzentrum
+  stadtrechte_ab: 1259
+  superlativ: älteste Stadt auf dem Hunsrück
+  stadtteil_ab: Denzen (seit 1928-02-10)
+  stadtfläche_km2: 18
+  landwirtschaftliche_nutzfläche_prozent: 50
+  waldflaeche_prozent: 30
+  bebaute_flaeche_prozent: 18
+  sonstige_flaeche_prozent: 2
+  mundart_name: Kerbrich
+  lage_beschreibung: Stadt auf dem Berg
+  verkehrslage: Schnittpunkt Trier–Kirchberg–Bingen–Mainz mit Keltenweg Nahe–Mosel
+  entfernung_simmern_km: 10
+  entfernung_richtung_simmern: östlich
+  entfernung_frankfurt_hahn_km: 12
+  entfernung_richtung_frankfurt_hahn: westlich
+  erste_urkunde_rechte: 1249
+  gueltig_ab: 1259
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Denzen
+EIGENSCHAFTEN:
+  ursprung_beschreibung: vorrömische Siedlung an der alten Wegekreuzung
+  ursprungsname_keltisch: Dumno (hergeleitet)
+  römischer_name: Dumnissus
+  roemische_bedeutung: römische Ortsbezeichnung
+  erstwähnung: 368 (Ausonius Gedicht Mosella)
+  lage: Mulde nordöstlich von Kirchberg
+  eingemeindet_ab: 1928-02-10
+  eingemeindet_gegen_widerstand: true
+  gueltig_ab: 400
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Michaelskirche (St. Michael)
+EIGENSCHAFTEN:
+  bauart: spätgotische Hallenkirche
+  bauzeit: 1460-1485
+  vorgängerbauten_anzahl: 3
+  aeltester_vorgängerbau_zeit_nach: 700
+  vorgängerbau_ii_zeit: um 850
+  vorgängerbau_iii_zeit_vor: 1050
+  turm_errichtet_um: 1200
+  turm_mehrfach_erhoben: true
+  simultankirche_ab: 1688
+  simultankirche_bis: 1965-06-15
+  frühchristliche_siedlung_nach: 650
+  archäologische_besonderheit: ununterbrochene Kontinuität seit vorkarolingischer Zeit
+  bedeutung_superlativ: historisch bedeutendste und wohl älteste zwischen Trier, Koblenz und Boppard
+  friedhof_bis: 1792
+  hauptportal: Südseite
+  kunstwerke_beschreibung: Steinmetzzeichen, Sandsteinkanzel um 1490, Grabdenkmäler 15.–18. Jh., Grabmal Catharina von Hoising nach 1577, Taufstein, Hochaltar, Seitenaltäre, Orgelprospekt 2. Hälfte 18. Jh., barocke Malerei Chorgewölbe
+  gueltig_ab: 1460
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+ENTITÄT: kirchengebaeude_vorlauf
+BEZEICHNUNG: Michaelskirche Bau I
+EIGENSCHAFTEN:
+  zeitstellung: frühkarolingisch nach 700
+  bauart: kleiner Saalbau mit eingezogenem Rechteckchor
+  bedeutung: ältester archäologisch nachgewiesener Kirchenbau
+  fund_besonderheit: Fragment frühchristlichen Grabsteins mit Inschrift (ältestes Zeugnis für Christen auf dem Hunsrück)
+  gueltig_ab: 700
+  gueltig_bis: 850
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: kirchengebaeude_vorlauf
+BEZEICHNUNG: Michaelskirche Bau II
+EIGENSCHAFTEN:
+  zeitstellung: um 850
+  bauart: Saalbau mit Taufanlage und Empore
+  größenverhaeltnis: etwa doppelt so groß wie Bau I
+  gueltig_ab: 850
+  gueltig_bis: 1050
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: kirchengebaeude_vorlauf
+BEZEICHNUNG: Michaelskirche Bau III
+EIGENSCHAFTEN:
+  zeitstellung: vor 1050
+  bauart: dreischiffige flachgedeckte Pfeilerbasilika mit halbkreisförmiger Apsis
+  größenverhaeltnis: wiederum etwa doppelt so groß wie Bau II
+  ausstattung: Taufanlage und Westempore
+  vergleichbau: St. Cyriak in Sulzburg/Markgräflerland (993 geweiht)
+  turm: Untergeschoss um 1200 errichtet
+  gueltig_ab: 1000
+  gueltig_bis: 1460
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Friedenskirche
+ORTSTEIL_BEZUG: Simmerner Straße
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  bauzeit: 1965-1967
+  architekt: Heinrich Otto Vogel (Trier)
+  grundstein_herkunft: Portalgewände der Michaelskirche
+  taufstein_herkunft: römisch behauener Stein aus Michaelskirche-Grabungen
+  orgel_hersteller: Gebr. Oberlinger (Windesheim)
+  orgel_register: 23
+  gemeindezentrum: true
+  gueltig_ab: 1965
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: kapelle
+BEZEICHNUNG: Nikolaus-Kapelle
+ORTSTEIL_BEZUG: Kirchberg-Denzen
+EIGENSCHAFTEN:
+  chorturm_baujahr: 1236
+  baustil: romanisch
+  ursprung_zeitraum: 650-700
+  ursprungspatron: Johannes der Täufer
+  kirche_als_taufkirche: true
+  lage_ursprung: Bereich Königshof Denzen
+  umwidmung_ab: um 955
+  neuer_patron_nach_umwidmung: Nikolaus von Myra
+  grund_umwidmung: im Rheinland aufkommende Verehrung
+  saalraum_angebaut: 1966
+  gueltig_ab: 650
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Kirchberg
+EIGENSCHAFTEN:
+  standort: Glöcknergasse
+  zeitraum_ansaessig: 18.–20. Jahrhundert
+  kultusgemeinde: true
+  nebeneinrichtung_schule: Religionsschule
+  nebeneinrichtung_friedhof: eigener Friedhof an der Metzenhausener Straße
+  friedhof_zustand: noch erhalten
+  gueltig_ab: 1700
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: friedhof
+BEZEICHNUNG: jüdischer Friedhof
+EIGENSCHAFTEN:
+  lage: Metzenhausener Straße
+  zugehoerig_zu: Kirchberg Synagoge
+  erhaltungszustand: noch erhalten
+  zeitraum_nutzung: 18.–20. Jahrhundert
+  gueltig_ab: 1700
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Rathaus
+EIGENSCHAFTEN:
+  lage: Marktplatz
+  bauzeit: 17. Jahrhundert und 1746
+  gueltig_ab: 1600
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Fachwerkhaus Marktplatz 6
+EIGENSCHAFTEN:
+  baujahr: 1698
+  besonderheit: fünfseitiger Erker
+  gueltig_ab: 1698
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schwanen-Apotheke
+ORTSTEIL_BEZUG: Marktplatz 4
+EIGENSCHAFTEN:
+  baustil: Fachwerkhaus
+  bauzeit_geschaetzt: 17. Jahrhundert
+  apothekenprivileg_ab: 1752
+  verleihende_instanz: Markgraf von Baden
+  superlativ: älteste Apotheke auf dem Hunsrück
+  gueltig_ab: 1600
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Eckhaus Marktplatz 11
+ORTSTEIL_BEZUG: Marktplatz
+EIGENSCHAFTEN:
+  baustil: Fachwerk
+  bauzeit: 2. Hälfte 17. Jahrhundert
+  lage_beschreibung: neben Zugang zum Kirchplatz
+  gueltig_ab: 1650
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Badische Försterei
+ORTSTEIL_BEZUG: Hauptstraße 17
+EIGENSCHAFTEN:
+  bauzeit: Mitte 18. Jahrhundert
+  funktion: Badisches Oberamt Kirchberg Verwaltung
+  errichtet_als_foersterei: true
+  heutige_nutzung: teilweise durch Umbauten ersetzt
+  gueltig_ab: 1750
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Badische Gendarmerie
+ORTSTEIL_BEZUG: Hauptstraße 19
+EIGENSCHAFTEN:
+  bauzeit: Mitte 18. Jahrhundert
+  funktion: Badisches Oberamt Kirchberg Verwaltung
+  errichtet_als_gendarmerie: true
+  heutige_nutzung: teilweise durch Umbauten ersetzt
+  gueltig_ab: 1750
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: museum
+BEZEICHNUNG: Kirchberger Heimatmuseum
+ORTSTEIL_BEZUG: Eifelgasse
+EIGENSCHAFTEN:
+  bauwerk_baujahr: 1732
+  bauwerk_baustil: Fachwerkhaus
+  funktion: Eindruck vom Leben in vergangenen Jahrhunderten
+  gueltig_ab: 1732
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Adelshof der Familie von Eich
+ORTSTEIL_BEZUG: Hauptstraße 75
+EIGENSCHAFTEN:
+  baujahr: 1578
+  besonderheit: Treppenturm und Wendeltreppe
+  gueltig_ab: 1578
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Wasserturm
+EIGENSCHAFTEN:
+  baujahr: 1899
+  hoehe_meter: 36
+  charakteristikum: charakteristisch für die auf einer Anhöhe gelegene Stadt
+  urspruengliche_funktion: kommunale Wasserversorgung
+  funktion_heute: nicht mehr integriert in Wasserversorgung (seit wenigen Jahren)
+  gueltig_ab: 1899
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: brunnen
+BEZEICHNUNG: Römerbrunnen
+ORTSTEIL_BEZUG: Denzen
+EIGENSCHAFTEN:
+  herkunftsbezeichnung: römisch/historisch
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.7
+
+---
+ENTITÄT: einrichtung
+BEZEICHNUNG: Jugendzentrum Am Zug
+EIGENSCHAFTEN:
+  eroeffnung: 2003-02-18
+  funktion_grundkonzept: überkonfessioneller Treffpunkt für Jugendliche ab 12 Jahren
+  betreuung_ganztaegig: true
+  traeger: we-SHARE (Paritätischer Wohlfahrtsverband Rheinland-Pfalz/Saarland)
+  projekte_ab_6_jahren: KinderKino Kirchberg, Sommerferienprogramm KINDER AM ZUG, künstlerisches Gestalten
+  gueltig_ab: 2003
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Piaristenkloster
+ORTSTEIL_BEZUG: Kirchplatz
+EIGENSCHAFTEN:
+  baujahr: 1765
+  baustil: Barockgebäude
+  heutige_nutzung: Pfarrhaus und Gemeindezentrum
+  wappenschild: Wappenschild des Markgrafen August Georg von Baden mit Einzelwappen
+  gueltig_ab: 1765
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Friedhofskreuz
+ORTSTEIL_BEZUG: Kirchplatz vor Michaelskirche
+EIGENSCHAFTEN:
+  baujahr_original: 1744
+  baujahr_kopie: 1744
+  inschrift_sinn: Das ist Gott wie das Bildnis lehrt, aber Gott ist nicht das Bildnis selbst
+  gueltig_ab: 1744
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: gartenpavillon_und_brunnen
+BEZEICHNUNG: Gartenpavillon und Ziehbrunnen
+ORTSTEIL_BEZUG: vor der Friedenskirche
+EIGENSCHAFTEN:
+  bauzeit_um: 1780
+  zentrum_eines: ummauerten Gartens
+  erbauer_beschreibung: vom damaligen Badischen Oberamtmann (Angabe unsicher)
+  gueltig_ab: 1780
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.7
+
+---
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+  gueltig_ab: 1800
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.7
+
+---
+ENTITÄT: schule
+BEZEICHNUNG: Kooperative Gesamtschule
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  schultyp: Kooperative Gesamtschule
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.7
+
+---
+ENTITÄT: sportanlage
+BEZEICHNUNG: Hallenbad
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  typ: Hallenbad
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: sportanlage
+BEZEICHNUNG: Freibad
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  typ: Freibad
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: sportanlage
+BEZEICHNUNG: Tennisplätze
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  typ: mehrere Tennisplätze
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: sportanlage
+BEZEICHNUNG: Tennishalle
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  typ: Tennishalle
+  gueltig_ab: 1950
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: sportanlage
+BEZEICHNUNG: Indoorkletterhalle
+ORTSTEIL_BEZUG: Kirchberg
+EIGENSCHAFTEN:
+  typ: Indoorkletterhalle
+  gueltig_ab: 2000
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: verein_sport
+BEZEICHNUNG: TuS Kirchberg 1909
+EIGENSCHAFTEN:
+  gruendung: 1909
+  sportart: Fußball
+  herren_mannschaft_liga: Fußball-Oberliga Rheinland-Pfalz/Saar
+  gueltig_ab: 1909
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: verein_sport
+BEZEICHNUNG: HSV Kirchberg 1974
+EIGENSCHAFTEN:
+  gruendung: 1974
+  sportart: Handball
+  gueltig_ab: 1974
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: radweg
+BEZEICHNUNG: Freiherr-von-Drais-Radweg
+EIGENSCHAFTEN:
+  laenge_km: 14
+  route_beschreibung: rund um die Stadt
+  gueltig_ab: 1950
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: radweg
+BEZEICHNUNG: Lützelsoon-Radweg
+EIGENSCHAFTEN:
+  startort: Kirchberg
+  endort: Kirn
+  gueltig_ab: 1950
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: Keltenweg Nahe–Mosel
+EIGENSCHAFTEN:
+  routenverlauf: durch Kirchberg
+  historische_bedeutung: alte Wegekreuzung
+  moderne_bezeichnung: B 421 und L 184
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: fernwanderweg
+BEZEICHNUNG: Ausoniusweg
+EIGENSCHAFTEN:
+  routenverlauf: Wanderweg ins Umland
+  benannt_nach: Ausonius (römischer Dichter und Staatsbeamter)
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: strasse_historisch
+BEZEICHNUNG: Römerstraße / Ausoniusstraße
+EIGENSCHAFTEN:
+  moderne_bezeichnung: B 50
+  verlauf: Trier über Hunsrück nach Bingen und Mainz
+  zeitstellung: römisch
+  beschreibung_verlauf: möglichst schnurgerade Ausrichtung typisch
+  durch_stadt: Altstadt wird noch heute durchschnitten von der Trasse
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: strasse_historisch
+BEZEICHNUNG: Hunsrückhöhenstraße
+EIGENSCHAFTEN:
+  moderne_bezeichnung: B 327
+  lage_zu_kirchberg: nördlich
+  verlauf: von Saarburg nach Koblenz
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: eisenbahn
+BEZEICHNUNG: Hunsrückquerbahn
+EIGENSCHAFTEN:
+  linie: Langenlonsheim–Stromberg–Rheinböllen–Simmern–Kirchberg–Hermeskeil
+  betriebszustand: stillgelegt
+  reaktivierungsabsicht: ja, zumindest teilweise in absehbarer Zeit
+  bahnhof_kirchberg: existiert/existierte
+  gueltig_ab: 1900
+  gueltig_bis: 1990
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: umgehungsstrasse
+EIGENSCHAFTEN:
+  bauwerk: Umgehungsstraße B 50
+  lage: um Innenstadt
+  ab_jahr: 1990
+  funktion: Entlastung der Innenstadt
+  gueltig_ab: 1990
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johannes Rulitius
+EIGENSCHAFTEN:
+  geburts_oder_wirkungsjahr: 1602
+  sterbe_oder_endjahr: 1666
+  berufsgruppe: Pfarrer
+  wirkungsorte: Dorchester, Heidelberg, Amsterdam
+  gueltig_ab: 1602
+  gueltig_bis: 1666
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Sophie Reinhard
+EIGENSCHAFTEN:
+  geburtsyear: 1775
+  sterbejahr: 1844
+  beruf: Malerin
+  gueltig_ab: 1775
+  gueltig_bis: 1844
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Wilhelm Ludwig Frommel
+EIGENSCHAFTEN:
+  geburtsyear: 1795
+  sterbejahr: 1869
+  beruf: evangelischer Geistlicher und Pädagoge
+  ehrenbuergerschaften: Pforzheim
+  gueltig_ab: 1795
+  gueltig_bis: 1869
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hubert Josef Cadenbach
+EIGENSCHAFTEN:
+  geburtsyear: 1800
+  sterbejahr: 1867
+  beruf: Jurist, Oberbürgermeister
+  oberbuergermeister_stadt: Koblenz
+  amtszeit_oberbuergermeister: 1857-1867
+  gueltig_ab: 1800
+  gueltig_bis: 1867
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Nanny Lambrecht
+EIGENSCHAFTEN:
+  geburtsyear: 1868
+  sterbejahr: 1942
+  beruf: Romanautorin
+  charakterisierung: dem Hunsrück verbunden
+  gueltig_ab: 1868
+  gueltig_bis: 1942
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Otto Back
+EIGENSCHAFTEN:
+  geburtsyear: 1834
+  sterbejahr: 1917
+  berufe: Landrat, Bürgermeister, Landtagspräsident
+  landrat_stadt: Simmern
+  buergermeister_stadt: Straßburg
+  gueltig_ab: 1834
+  gueltig_bis: 1917
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Harry Raymon
+EIGENSCHAFTEN:
+  geburtsyear: 1926
+  geburtsname: Harry Heymann
+  berufe: Autor, Schauspieler, Filmemacher
+  filmwerk: Regentropfen (1981, autobiografisch)
+  gueltig_ab: 1926
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Barthold C. Witte
+EIGENSCHAFTEN:
+  geburtsyear: 1928
+  sterbejahr: 2018
+  beruf: Ministerialbeamter
+  gueltig_ab: 1928
+  gueltig_bis: 2018
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Klaus Schmittinger
+EIGENSCHAFTEN:
+  geburtsyear: 1950
+  sportart: Tischtennisspieler
+  gueltig_ab: 1950
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl Wilhelm Ludwig Friedrich Drais
+EIGENSCHAFTEN:
+  geburtsyear: 1755
+  sterbejahr: 1830
+  titel: Freiherr von Sauerbronn
+  berufe: Obervogt, Literat, Oberhofgerichtspräsident, Baden-Historiker
+  wirkungsort: Kirchberg
+  gueltig_ab: 1755
+  gueltig_bis: 1830
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl von Drais
+EIGENSCHAFTEN:
+  geburtsyear: 1785
+  sterbejahr: 1851
+  erfindungen: Zweiradprinzip, Schnellschreibmaschine mit 16 Tasten
+  familienrelation: Sohn von Karl Wilhelm Ludwig Friedrich Drais
+  aufenthalt_kirchberg: Kind von 1790-1794
+  superlativ: Erfinder der ersten zweirädrigen Laufmaschine (Draisine)
+  gueltig_ab: 1785
+  gueltig_bis: 1851
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Paulgerhard Gladen
+EIGENSCHAFTEN:
+  geburtsyear: 1926
+  sterbejahr: 2023
+  berufe: Rechtsanwalt, Studentenhistoriker
+  wirkungsort: Kirchberg
+  gueltig_ab: 1926
+  gueltig_bis: 2023
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: buergermeister
+BEZEICHNUNG: Werner Wöllstein
+EIGENSCHAFTEN:
+  partei: FDP
+  wahl_stichwahl_datum: 2019-06-16
+  wahl_stichwahl_stimmenanteil_prozent: 66.61
+  amtsantritt: 2019
+  wiederwahl_datum: 2024-06-09
+  wiederwahl_stimmenanteil_prozent: 77.2
+  wiederwahl_wahlbeteiligung_prozent: 52.6
+  wiederwahl_gegenkandidat: nein
+  amtszeit_laenge_jahre: 5
+  gueltig_ab: 2019
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+ENTITÄT: buergermeister
+BEZEICHNUNG: Hans Dunger
+EIGENSCHAFTEN:
+  partei: Grüne
+  amtszeit: 1994-2004
+  gueltig_ab: 1994
+  gueltig_bis: 2004
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: buergermeister
+BEZEICHNUNG: Werner Elsen
+EIGENSCHAFTEN:
+  partei_liste: WG Elsen
+  amtszeit: 2004-2009
+  gueltig_ab: 2004
+  gueltig_bis: 2009
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: buergermeister
+BEZEICHNUNG: Udo Kunz
+EIGENSCHAFTEN:
+  partei: CDU
+  amtszeit: 2009-2019
+  gueltig_ab: 2009
+  gueltig_bis: 2019
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: film
+BEZEICHNUNG: Regentropfen
+EIGENSCHAFTEN:
+  produktionsjahr: 1981
+  drehort: Kirchberg (Hunsrück)
+  filmtyp: deutscher Spielfilm
+  autobiografisch: true
+  autor_und_schauspieler: Harry Raymon (in Kirchberg geboren)
+  thema: Geschichte jüdischer Kinder während der Zeit des Nationalsozialismus
+  darsteller: Elfriede Irrall, Walter Renneisen, Giovanni Früh, Pit Krüger
+  auszeichnung: Film des Monats Juni 1982 der Jury der Evangelischen Filmarbeit
+  gueltig_ab: 1981
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: historische_siedlung
+BEZEICHNUNG: Dumno / Vicus Dumnissus
+EIGENSCHAFTEN:
+  geographische_lage: Ostteil der heutigen Stadt Kirchberg
+  zeitstellung: römisch (1. Jahrhundert v. Chr. - 4. Jahrhundert n. Chr.)
+  dokumentation_zeit: 4. Jahrhundert Straßenkarte
+  dokumentation_artefakt: Tabula Peutingeriana (Kopie 12. Jahrhundert)
+  erwaehnung_ausonius: 368 (Gedicht Mosella)
+  geschichtliche_bedeutung: älteste bekannte Siedlung des Höhengebietes zwischen Mosel, Rhein, Nahe und Saar
+  siedlungstyp: Militärstation an der Römerstraße
+  gueltig_ab: 0
+  gueltig_bis: 500
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: historische_periode
+BEZEICHNUNG: Fränkische Periode Kirchberg
+EIGENSCHAFTEN:
+  beginn: 5. Jahrhundert
+  ereignis: römisches Fiskalland wurde Krongut der fränkischen Könige
+  entwicklung: aus römischem Vicus entstand neue Siedlung
+  kirche_erstellung: spätestens 7. Jahrhundert (Holzbau)
+  kirche_wahrscheinlicher_standort: Ort der heutigen Michaelskirche
+  namenherkunft: vermutlich nach dem Kyrbach (Chiriperg -> Kirchberg)
+  gueltig_ab: 400
+  gueltig_bis: 1000
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: historische_periode
+EIGENSCHAFTEN:
+  ereignis: König Otto III. schenkt Königsgut Denzen an Trechirgaugrafen Bezelin
+  datum: 995
+  gueltig_ab: 995
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Bertholde
+EIGENSCHAFTEN:
+  anfangsgeneration: Trechirgaun Bezelin (Vorfahre)
+  jahr_gründung_stift: 1074
+  stiftsname: Augustiner-Chorherrenstift Ravengiersburg
+  gebiet: östliche Hälfte Kirchberg mit Denzen
+  gueltig_ab: 995
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Grafen von Sponheim
+EIGENSCHAFTEN:
+  erwerbung_kirchberg: 1248
+  gebiet: westliche Hälfte Kirchberg
+  stadtrecht_verleihung: 1259
+  urkunde_vorstufe: 1249
+  aussterbung: 1437
+  geschichtliche_bedeutung: enge Verbindung mit Kirchberg nach 1248
+  wappenvariante_verwendung: Geschachter Sparren im Kirchberger Wappen
+  gueltig_ab: 1248
+  gueltig_bis: 1437
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: historische_periode
+BEZEICHNUNG: Gemeinherrschaft Kirchberg 1437
+EIGENSCHAFTEN:
+  beginn: 1437
+  ereignis: Aussterben der Sponheimer
+  nachfolger: Gemeinherrschaft von Kurfürst von der Pfalz, Markgraf von Baden, Graf von Veldenz
+  verwaltunsgsitz: Kirchberg
+  aufloesung: Realteilung 1708
+  gueltig_ab: 1437
+  gueltig_bis: 1708
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: historische_periode
+BEZEICHNUNG: Badische Herrschaft Kirchberg
+EIGENSCHAFTEN:
+  beginn: 1708
+  ereignis: Realteilung - Amt Kirchberg mit Unteramt Koppenstein an Baden
+  funktion: Sitz des Badischen Oberamts Kirchberg
+  ende: 1794
+  grund_ende: Französische Truppen im Pfälzischen Erbfolgekrieg
+  gueltig_ab: 1708
+  gueltig_bis: 1794
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: historische_periode
+BEZEICHNUNG: Französische Besatzung Kirchberg
+EIGENSCHAFTEN:
+  zeitraum: 1689 (Pfälzischer Erbfolgekrieg)
+  ereignis: Französische Truppen zerstörten die Stadt und die Befestigungsanlagen
+  kanton_verwaltung_von: 1798-1814
+  verwaltungszone: französischer Kanton im Arrondissement Simmern des Département de Rhin-et-Moselle
+  gueltig_ab: 1689
+  gueltig_bis: 1814
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: historische_periode
+BEZEICHNUNG: Preußische Herrschaft Kirchberg
+EIGENSCHAFTEN:
+  beginn: 1815
+  ereignis: Wiener Kongress - Region kommt zum Königreich Preußen
+  buergermeisterei_ab: 1816
+  buergermeisterei_gemeinden_umland: 18
+  gueltig_ab: 1815
+  gueltig_bis: 1946
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: historische_periode
+BEZEICHNUNG: Rheinland-Pfalz Zugehörigkeit
+EIGENSCHAFTEN:
+  beginn: 1946
+  ereignis: Kirchberg mit Denzen gehört zu dem damals neu gebildeten Land Rheinland-Pfalz
+  gueltig_ab: 1946
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+ENTITÄT: konfessionsstatistik
+EIGENSCHAFTEN:
+  datum_1: 2005-06-30
+  evangelisch_prozent_1: 50.2
+  katholisch_prozent_1: 35.2
+  konfessionslos_oder_andere_prozent_1: 14.6
+  datum_2: 2025-11
+  evangelisch_prozent_2: 37.4
+  katholisch_prozent_2: 25.2
+  konfessionslos_oder_andere_prozent_2: 37.4
+  tendenz: Anteil evangelischer und katholischer Kirchenmitglieder beträchtlich gesunken
+  gueltig_ab: 2005
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Reformationsphase Kirchberg
+EIGENSCHAFTEN:
+  lutherisch_ab: 1556
+  grund_lutherisch: Kurfürst Ottheinrich ließ das Amt Kirchberg visitieren
+  reformiert_ab: 1599-05
+  grund_reformiert: Kurfürst Friedrich IV. (Pfalz)
+  gueltig_ab: 1556
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Konfessionswechsel Dreißigjähriger Krieg
+EIGENSCHAFTEN:
+  католisch_ab: 1620
+  grund_katholisch: spanische Besatzung nach Eroberung
+  lutherisch_ab: 1631
+  lutherisch_bis: 1635
+  grund_lutherisch: schwedischer Einfluss
+  katholisch_ab_1635: 1635
+  katholisch_bis: 1648
+  reformiert_ab: 1648
+  grund_reformiert: Westfälischer Frieden
+  katholiken_recht_ab: 1652
+  katholiken_recht_beschreibung: Recht Gottesdienst zu feiern im Haus des badischen Truchsess
+  gueltig_ab: 1620
+  gueltig_bis: 1652
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Grabmal Catharina von Hoising
+ORTSTEIL_BEZUG: Michaelskirche Chor
+EIGENSCHAFTEN:
+  meister: Johann von Trarbach
+  datierung: nach 1577
+  material: Stein
+  lage_innerkirche: im Chor
+  gueltig_ab: 1577
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Sandsteinkanzel Michaelskirche
+EIGENSCHAFTEN:
+  material: Sandstein
+  zeitstellung: um 1490
+  lage: Michaelskirche Langhaus
+  gueltig_ab: 1490
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: kunstwerk
+BESCHREIBUNG: Malerei Chorgewölbe Michaelskirche
+EIGENSCHAFTEN:
+  baustil: Barock
+  zeitstellung: um 1700
+  restaurierung: 1969
+  teilweise_wiederherstellung: true
+  darstellungen_zentrum: Madonna mit weiblichen Heiligen, Taufe Jesu, Apokalypse, Gnadenstuhl
+  darstellungen_seiten: zwölf Apostel und vier lateinische Kirchenlehrer
+  darstellungen_westkappen: Sebastian und Rochus, Barbara und Margaretha, Florian und Martin
+  weitere_darstellungen: Gegenüberstellungen von neutestamentlichen Szenen mit Karmeliten-Lebensszenen
+  gueltig_ab: 1700
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: kupferstich
+BEZEICHNUNG: Kupferstich Kirchberg/Hunnor
+EIGENSCHAFTEN:
+  kuenstler: Sebastian Furck
+  datum: 1629
+  sammelwerk: Thesaurus philopoliticus oder Politisches Schatzkästlein
+  autoren_sammelwerk: Daniel Meisner und Eberhard Kieser
+  gueltig_ab: 1629
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: kupferstich
+BEZEICHNUNG: Kupferstich Kirchberg
+EIGENSCHAFTEN:
+  kuenstler: Matthäus Merian
+  datum: 1645
+  sammelwerk: Topographia Germaniae
+  beschreibung_text_zitat: Ist nicht groß, aber vor diesem Krieg fein erbaut gewesen
+  gueltig_ab: 1645
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Ölgemälde Kirchberg
+EIGENSCHAFTEN:
+  datierung_vor: 1610
+  erhaltungszustand: nur in alten Fotografien erhalten
+  gueltig_ab: 1600
+  gueltig_bis: 1610
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.7
+
+---
+ENTITÄT: wappen
+EIGENSCHAFTEN:
+  herkunft: nachgebildet nach Stadtsiegel aus 14. Jahrhundert
+  blasonierung: In Rot ein von Gold und Blau zweireihig geschachter Sparren, darunter eine goldene Helmkrone
+  element_sparren_herkunft: Wappenvariante der Grafen von Sponheim Vordere Grafschaft
+  element_sparren_bedeutung: Grafen verliehen 1259 Stadtrechte
+  element_krone_deutung_1: möglicherweise Reichstreue der Sponheimer
+  element_krone_deutung_2: möglicherweise Hinweis auf Krongut zu Zeiten fränkischer Könige (kam 1248 an Sponheimer)
+  element_krone_parallele: auch in Wappen von Kastellaun und Sohren
+  gueltig_ab: 1300
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Städtepartnerschaft Villeneuve-l'Archevêque
+EIGENSCHAFTEN:
+  partner_stadt: Villeneuve-l'Archevêque
+  partner_land: Frankreich
+  partner_region: Burgund
+  gueltig_ab: 1950
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: arbeitende_orden
+BEZEICHNUNG: Karmeliten Kirchberg
+EIGENSCHAFTEN:
+  orden: Carmeliten
+  betaetigung_ende: 1757
+  lage: Kirchberg
+  gueltig_ab: 1600
+  gueltig_bis: 1757
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: berufsperson
+BEZEICHNUNG: Heinrich Otto Vogel
+EIGENSCHAFTEN:
+  beruf: Architekt
+  stadt: Trier
+  werke: Friedenskirche Kirchberg
+  gueltig_ab: 1900
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: berufsperson
+BEZEICHNUNG: Sebastian Furck
+EIGENSCHAFTEN:
+  beruf: Kupferstecher und Zeichner
+  geburtsyear: 1598
+  geburtsort: Alterkülz bei Kastellaun
+  werke: Kupferstiche Kirchberg und Kastellaun
+  selbstdarstellung_in_werk: im Kupferstich Kastellaun selbst dargestellt
+  gueltig_ab: 1598
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: berufsperson
+BEZEICHNUNG: Eberhard Kieser
+EIGENSCHAFTEN:
+  beruf: Kupferstecher und Verleger
+  geburtsyear: 1583
+  geburtsort: Kastellaun
+  sammelwerk_verleger: Thesaurus philopoliticus und Topographia Germaniae
+  gueltig_ab: 1583
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: berufsperson
+BEZEICHNUNG: Matthäus Merian
+EIGENSCHAFTEN:
+  beruf: Kartograph und Künstler
+  werke: Topographia Germaniae mit Kupferstich Kirchberg (1645)
+  gueltig_ab: 1600
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: literarische_quelle
+BEZEICHNUNG: Tabula Peutingeriana
+EIGENSCHAFTEN:
+  zeit_entstehung: spätantik 4. Jahrhundert
+  kopie_zeitpunkt: 12. Jahrhundert
+  kopie_treue: getreue Kopie
+  dokumentation_inhalt: römische Ortsbezeichnungen
+  erwaehnung_kirchberg: ja (Dumnissus)
+  gueltig_ab: 300
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: literarisches_werk
+BEZEICHNUNG: Mosella
+EIGENSCHAFTEN:
+  autor: Decimus Magnus Ausonius
+  autor_beschreibung: römischer Staatsbeamter und Dichter
+  autor_lebenszeit: ca. 310-394
+  inhalt: Gedicht, dichterische Beschreibung der Reise von Bingen über Hunsrück nach Neumagen und Trier
+  erwaehnung_kirchberg: ja, erwähnt Ort Dumnissus im Jahr 368
+  geschichtliche_bedeutung: erste Erwähnung Kirchbergs in literarischer Quelle
+  gueltig_ab: 368
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: naturgeographie
+BEZEICHNUNG: Soonwald
+ORTSTEIL_BEZUG: südöstlich von Kirchberg
+EIGENSCHAFTEN:
+  eigenschaft_sicht: sichtbar vom Turm der Michaelskirche
+  besonderheit: Burgruine Koppenstein
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: naturgeographie
+BEZEICHNUNG: Lützelsoon
+ORTSTEIL_BEZUG: südlich von Kirchberg
+EIGENSCHAFTEN:
+  eigenschaft_sicht: sichtbar vom Turm der Michaelskirche
+  radweg: Lützelsoon-Radweg (nach Kirn)
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: naturgeographie
+BEZEICHNUNG: Erbeskopf
+ORTSTEIL_BEZUG: südwestlich von Kirchberg
+EIGENSCHAFTEN:
+  hoehe_meter: 816
+  eigenschaft_sicht: sichtbar vom Turm der Michaelskirche
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: naturgeographie
+BEZEICHNUNG: Idarkopf
+ORTSTEIL_BEZUG: südwestlich von Kirchberg
+EIGENSCHAFTEN:
+  eigenschaft_sicht: sichtbar vom Turm der Michaelskirche
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: naturgeographie
+BEZEICHNUNG: Kyrbachtal
+ORTSTEIL_BEZUG: westlich von Kirchberg
+EIGENSCHAFTEN:
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: naturgeographie
+BEZEICHNUNG: Kauerbachtal
+ORTSTEIL_BEZUG: östlich von Kirchberg
+EIGENSCHAFTEN:
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.85
+
+---
+ENTITÄT: koelner_gebiet
+BEZEICHNUNG: Gebiet um Kastellaun
+ORTSTEIL_BEZUG: nordöstlich von Kirchberg
+EIGENSCHAFTEN:
+  eigenschaft_sicht: sichtbar vom Turm der Michaelskirche
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.8
+
+---
+ENTITÄT: staedtischer_rat
+EIGENSCHAFTEN:
+  rats_ratsmitglieder_anzahl: 20
+  wahl_wahldatum: 2024-06-09
+  wahl_verfahren: personalisierte Verhältniswahl
+  ehrenamtlicher_vorsitzender: Stadtbürgermeister
+  gueltig_ab: 2024
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+
+---
+ENTITÄT: burgruine
+BEZEICHNUNG: Burgruine Koppenstein
+ORTSTEIL_BEZUG: Soonwald südöstlich
+EIGENSCHAFTEN:
+  gueltig_ab: 0
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.7
+
+---
+ENTITÄT: historische_period
+BEZEICHNUNG: Karolingische Zeit
+EIGENSCHAFTEN:
+  ereignis: Großpfarrei Kirchberg mit zentraler Taufkirche entstanden
+  zentrale_kirche: Kirchberg
+  kapellen: Gemünden, Dickenschied, Womrath, Denzen, Kappel, Metzenhausen, Ober Kostenz, Würrich, Altlay
+  pastorei_ortschaften: 51
+  bedeutung: eines der bedeutenden Zentren auf dem Hunsrück bis 16. Jahrhundert
+  gueltig_ab: 700
+  gueltig_bis: 1600
+  ist_vermutlich_aktuell: false
+  vertrauen_extraktion: 0.8
+

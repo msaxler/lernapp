@@ -20,7 +20,7 @@ import urllib.parse
 import urllib.request
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-AUS = os.path.join(WURZEL, 'data', 'gemeinde-achsen', 'iter1')
+AUS = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'))
 UA = {'User-Agent': 'LernApp-GemeindeAchsen/0.1 (https://github.com/msaxler/lernapp)'}
 
 # (slug, Rolle, Anzeigename, dewiki-Titel, Einheit)
@@ -46,6 +46,12 @@ ORTE = [
     ('s9-engen', 'spender', 'Engen', 'Engen', 'Stadt'),
     ('s10-tengen', 'spender', 'Tengen', 'Tengen', 'Stadt'),
 ]
+
+
+# Ein weiterer Raum (GA_RAUM=neuwied) bringt seine Ortsliste in <raum>/orte.json mit
+if os.path.exists(os.path.join(AUS, 'orte.json')):
+    with io.open(os.path.join(AUS, 'orte.json'), encoding='utf-8') as _f:
+        ORTE = [tuple(o) for o in json.load(_f)['orte']]
 
 
 def hole(url):
