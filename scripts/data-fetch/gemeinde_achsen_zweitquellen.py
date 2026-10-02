@@ -17,6 +17,9 @@ import time
 import urllib.parse
 import urllib.request
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from gemeinde_achsen_quellen import tabellentext  # noqa: E402
+
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'))
 UA = {'User-Agent': 'LernApp-GemeindeAchsen/0.1 (https://github.com/msaxler/lernapp)'}
@@ -74,10 +77,12 @@ def main():
                 continue
             n += 1
             datei = '%s+%d.txt' % (o['slug'], n)
-            kopf = ('# Quelle: %s\n# Titel: %s\n# Abruf: %s\n# Lizenz: Wikipedia, CC BY-SA 4.0\n# Zweite Quelle zu: %s\n\n'
-                    % (s.get('fullurl', ''), s.get('title', titel), heute, o['dewiki']))
+            tab = tabellentext(s.get('title', titel))  # der Auszug lässt Tabellen weg (Bericht Neuwied N14)
+            kopf = ('# Quelle: %s\n# Titel: %s\n# Abruf: %s\n# Lizenz: Wikipedia, CC BY-SA 4.0\n# Zweite Quelle zu: %s\n'
+                    '# Tabellen: %d Wörter, am Ende angehängt\n\n'
+                    % (s.get('fullurl', ''), s.get('title', titel), heute, o['dewiki'], len(tab.split())))
             with io.open(os.path.join(ITER, 'quellen', datei), 'w', encoding='utf-8', newline='\n') as f:
-                f.write(kopf + text + '\n')
+                f.write(kopf + text + ('\n\n\n== Aus Tabellen des Artikels ==\n\n' + tab if tab else '') + '\n')
             uebersicht.append({'slug': o['slug'], 'ort': o['name'], 'datei': datei, 'titel': s.get('title', titel),
                                'url': s.get('fullurl', ''), 'woerter': len(text.split()), 'abruf': heute})
             print('   %s: %s, %d Wörter' % (datei, s.get('title', titel), len(text.split())))
