@@ -96,7 +96,7 @@ NEGATIVNACHWEISE:
 PRÜFHINWEIS: Der Wert ist eine Summe von Stimmbezirken, die dem Stadtteil zugeordnet sind; prüfen, ob die Briefwahl dabei berücksichtigt ist. Die wahre Spanne ist breit genug, dass Rundungen keine Nachbarspanne berühren.
 
 ## Karte 5
-FAKTENCHECK: unsicher – Feldkirchen: Dass der Fundplatz Gönnersdorf beim Aushub für ein Einfamilienhaus entdeckt wurde, steht nur in Wikipedia (Orts- und Fundplatzartikel). Die Grabungsfläche nennt der Fundplatzartikel mit 687 m², der Ortsartikel mit 650 m²; gerundet.
+FAKTENCHECK: korrigiert – Feldkirchen: Die Entdeckung beim Aushub für ein Einfamilienhaus 1968 bestätigt Mike als Augenzeuge; Baugrube 1968 auch im Artikel zum Fundplatz. Ergänzt nach Mike: Die Funde gaben mit anderen Fundplätzen im Neuwieder Becken den Anstoß zum Forschungszentrum (1984) und Museum (1988) Monrepos. Grabungsfläche gerundet (650 m² laut Ortsartikel, 687 m² laut Fundplatzartikel).
 SORTE: Geschichte
 FAMILIE: A
 FAKT-ID: 11-feldkirchen/008.entdeckung_anlass
@@ -111,9 +111,9 @@ Im Ortsteil Gönnersdorf lag eine Siedlung aus der späten Eiszeit. Wie wurde si
 3. Forscher suchten den Limes und stießen darauf.
 4. Beim Aushub für ein Einfamilienhaus stieß man darauf.
 RÜCKSEITE:
-Du hattest [Option] getippt. Ein Zufallsfund beim Pflügen liegt nahe, so werden viele Fundstellen bekannt. Hier aber begann alles mit dem Aushub für ein Einfamilienhaus. Gerhard Bosinski grub rund 700 Quadratmeter aus: Reste von Behausungen, Knochen von Mammut, Wildpferd und Ren, dazu Schieferplättchen mit eingeritzten Zeichnungen. Richtig war 4.
+Du hattest [Option] getippt. Ein Zufallsfund beim Pflügen liegt nahe. Hier aber begann alles mit dem Aushub für ein Einfamilienhaus. Gerhard Bosinski grub rund 700 Quadratmeter aus: Reste von Behausungen, Knochen von Mammut, Wildpferd und Ren, dazu Schieferplättchen mit eingeritzten Zeichnungen. Die Funde gaben den Anstoß zum Eiszeit-Museum Monrepos in Neuwied. Richtig war 4.
 Quelle: Wikipedia, Artikel „Feldkirchen (Neuwied)“
-WÖRTER RÜCKSEITE: 49
+WÖRTER RÜCKSEITE: 54
 NEGATIVNACHWEISE:
 1: Weg (c). FAKTEN nennen genau einen Entdeckungsanlass (Aushubarbeiten für ein Einfamilienhaus); ein Hochwasser widerspricht diesem Hergang.
 2: Weg (c). Wie 1; ein Fund beim Pflügen widerspricht dem belegten Hergang.
