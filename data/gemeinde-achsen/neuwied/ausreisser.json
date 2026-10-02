@@ -1,0 +1,89 @@
+{
+ "_doc": "Ausreißer je Zielort, Bundestagswahl 2025 (gemeinde_achsen_ausreisser.py, Lauf a0.1)",
+ "orte": [
+  {
+   "slug": "01-bendorf",
+   "ort": "Bendorf",
+   "wahlkreis": "198",
+   "karten": []
+  },
+  {
+   "slug": "02-engers",
+   "ort": "Engers",
+   "wahlkreis": "196",
+   "karten": []
+  },
+  {
+   "slug": "03-heimbach-weis",
+   "ort": "Heimbach-Weis",
+   "wahlkreis": "196",
+   "karten": []
+  },
+  {
+   "slug": "04-altwied",
+   "ort": "Altwied",
+   "wahlkreis": "196",
+   "karten": []
+  },
+  {
+   "slug": "05-rengsdorf",
+   "ort": "Rengsdorf",
+   "wahlkreis": "196",
+   "karten": []
+  },
+  {
+   "slug": "06-dierdorf",
+   "ort": "Dierdorf",
+   "wahlkreis": "196",
+   "karten": [],
+   "ohne_b": "Briefwahl bei der Verbandsgemeinde, kein Gesamtergebnis der Gemeinde"
+  },
+  {
+   "slug": "07-waldbreitbach",
+   "ort": "Waldbreitbach",
+   "wahlkreis": "196",
+   "karten": [
+    {
+     "art": "b",
+     "partei": "CDU",
+     "ort": 43.8,
+     "kreis": 31.9,
+     "abweichung": 11.9
+    }
+   ]
+  },
+  {
+   "slug": "08-linz",
+   "ort": "Linz am Rhein",
+   "wahlkreis": "196",
+   "karten": [],
+   "ohne_b": "Briefwahl bei der Verbandsgemeinde, kein Gesamtergebnis der Gemeinde"
+  },
+  {
+   "slug": "09-bad-hoenningen",
+   "ort": "Bad Hönningen",
+   "wahlkreis": "196",
+   "karten": []
+  },
+  {
+   "slug": "10-leutesdorf",
+   "ort": "Leutesdorf",
+   "wahlkreis": "196",
+   "karten": [
+    {
+     "art": "b",
+     "partei": "AfD",
+     "ort": 13.2,
+     "kreis": 21.2,
+     "abweichung": -8.1
+    }
+   ]
+  },
+  {
+   "slug": "11-feldkirchen",
+   "ort": "Feldkirchen",
+   "wahlkreis": "196",
+   "karten": []
+  }
+ ]
+}

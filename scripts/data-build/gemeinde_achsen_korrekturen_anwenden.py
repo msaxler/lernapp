@@ -20,7 +20,8 @@ import sys
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'))
 BLATT_V1 = os.path.join(WURZEL, 'docs', 'konzepte', 'quizaway-stufe2-kuratierblatt-2026-10-01.md')
-LAEUFE = {'v0.6': ('karten-v0.6', 'Karte', 60), 'v0.5': ('karten-v0.5', 'Karte', 60), 'v0.4': ('karten', 'Vorschlag', 70)}
+LAEUFE = {'v0.6': ('karten-v0.6', 'Karte', 60), 'v0.5': ('karten-v0.5', 'Karte', 60), 'v0.4': ('karten', 'Vorschlag', 70),
+          'a0.1': ('karten-a0.1', 'Karte', 60)}  # a0.1: Ausreißer-Karten aus dem Skript (2026-10-03)
 # ein weiterer Raum (GA_RAUM=neuwied) nennt seine Läufe in <raum>/orte.json; ein Kuratierblatt des ersten Laufs hat er nicht
 if os.path.exists(os.path.join(ITER, 'orte.json')):
     with io.open(os.path.join(ITER, 'orte.json'), encoding='utf-8') as _f:

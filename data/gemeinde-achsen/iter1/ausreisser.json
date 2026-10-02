@@ -1,0 +1,125 @@
+{
+ "_doc": "Ausreißer je Zielort, Bundestagswahl 2025 (gemeinde_achsen_ausreisser.py, Lauf a0.1)",
+ "orte": [
+  {
+   "slug": "01-umkirch",
+   "ort": "Umkirch",
+   "wahlkreis": "281",
+   "karten": [
+    {
+     "art": "a",
+     "wahlkreis": "Freiburg",
+     "partei": "GRÜNE",
+     "prozent": 26.6,
+     "gleich_im_land": [
+      "271",
+      "281"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "02-gundelfingen",
+   "ort": "Gundelfingen",
+   "wahlkreis": "288",
+   "karten": []
+  },
+  {
+   "slug": "03-denzlingen",
+   "ort": "Denzlingen",
+   "wahlkreis": "283",
+   "karten": []
+  },
+  {
+   "slug": "04-zaehringen",
+   "ort": "Zähringen",
+   "wahlkreis": "281",
+   "karten": [
+    {
+     "art": "a",
+     "wahlkreis": "Freiburg",
+     "partei": "GRÜNE",
+     "prozent": 26.6,
+     "gleich_im_land": [
+      "271",
+      "281"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "05-st-peter",
+   "ort": "St. Peter",
+   "wahlkreis": "288",
+   "karten": []
+  },
+  {
+   "slug": "06-glottertal",
+   "ort": "Glottertal",
+   "wahlkreis": "288",
+   "karten": [
+    {
+     "art": "b",
+     "partei": "CDU",
+     "ort": 40.9,
+     "kreis": 32.0,
+     "abweichung": 8.8
+    }
+   ]
+  },
+  {
+   "slug": "07-kirchzarten",
+   "ort": "Kirchzarten",
+   "wahlkreis": "288",
+   "karten": [
+    {
+     "art": "b",
+     "partei": "GRÜNE",
+     "ort": 25.7,
+     "kreis": 17.3,
+     "abweichung": 8.4
+    }
+   ]
+  },
+  {
+   "slug": "08-guenterstal",
+   "ort": "Günterstal",
+   "wahlkreis": "281",
+   "karten": [
+    {
+     "art": "a",
+     "wahlkreis": "Freiburg",
+     "partei": "GRÜNE",
+     "prozent": 26.6,
+     "gleich_im_land": [
+      "271",
+      "281"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "09-horben",
+   "ort": "Horben",
+   "wahlkreis": "281",
+   "karten": [
+    {
+     "art": "a",
+     "wahlkreis": "Freiburg",
+     "partei": "GRÜNE",
+     "prozent": 26.6,
+     "gleich_im_land": [
+      "271",
+      "281"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "10-staufen",
+   "ort": "Staufen",
+   "wahlkreis": "282",
+   "karten": []
+  }
+ ]
+}

@@ -24,7 +24,7 @@ from gemeinde_achsen_fakten import ROH, fakten  # noqa: E402
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'))
-LAEUFE = [('v0.4', 'Vorschlag'), ('v0.5', 'Karte'), ('v0.6', 'Karte')]
+LAEUFE = [('v0.4', 'Vorschlag'), ('v0.5', 'Karte'), ('v0.6', 'Karte'), ('a0.1', 'Karte')]  # a0.1: Ausreißer (2026-10-03)
 # ein weiterer Raum (GA_RAUM=neuwied) nennt seine Läufe in <raum>/orte.json (dort jüngster zuerst)
 if os.path.exists(os.path.join(ITER, 'orte.json')):
     with io.open(os.path.join(ITER, 'orte.json'), encoding='utf-8') as _f:
@@ -52,6 +52,9 @@ def feld(v, name):
 
 
 def karten(lauf, kopf, ort):
+    # ein Lauf muss nicht jeden Ort haben (Ausreißer-Karten nur, wo es einen Ausreißer gibt)
+    if not os.path.exists(os.path.join(ITER, 'karten-geprueft', lauf, ort + '.md')):
+        return {}
     teile = re.split(r'^##\s*%s\s*(\d+)\s*$' % kopf, lies(os.path.join('karten-geprueft', lauf, ort + '.md')), flags=re.M)
     return dict((int(teile[i]), re.split(r'^##\s*(?:ORTS-ANSCHLUSS|NICHT VERWENDET|UNGEREGELT)', teile[i + 1], flags=re.M)[0])
                 for i in range(1, len(teile), 2))

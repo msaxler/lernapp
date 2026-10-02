@@ -10,21 +10,21 @@
 
 | Ort | im Vorrat | davon Klassiker | davon dritter Lauf | ersetzt | herausgenommen | gesperrt |
 |---|---|---|---|---|---|---|
-| Umkirch | 11 | 4 | 9 | 8 | 0 | 0 |
+| Umkirch | 12 | 5 | 9 | 8 | 0 | 0 |
 | Gundelfingen | 13 | 5 | 8 | 5 | 0 | 0 |
 | Denzlingen | 15 | 6 | 9 | 2 | 0 | 2 |
-| Zähringen | 12 | 4 | 7 | 3 | 0 | 2 |
+| Zähringen | 13 | 5 | 7 | 3 | 0 | 2 |
 | St. Peter | 14 | 6 | 7 | 3 | 0 | 0 |
-| Glottertal | 15 | 5 | 9 | 4 | 0 | 0 |
-| Kirchzarten | 13 | 5 | 10 | 7 | 0 | 0 |
-| Günterstal | 12 | 4 | 9 | 6 | 1 | 1 |
-| Horben | 12 | 4 | 7 | 2 | 2 | 1 |
+| Glottertal | 16 | 6 | 9 | 4 | 0 | 0 |
+| Kirchzarten | 14 | 6 | 10 | 7 | 0 | 0 |
+| Günterstal | 13 | 5 | 9 | 6 | 1 | 1 |
+| Horben | 13 | 5 | 7 | 2 | 2 | 1 |
 | Staufen | 12 | 5 | 10 | 8 | 0 | 0 |
-| **zusammen** | **129** | **48** | **85** | **48** | **3** | **6** |
+| **zusammen** | **135** | **54** | **85** | **48** | **3** | **6** |
 
 ---
 
-## 01 · Umkirch · 11 Karten im Vorrat
+## 01 · Umkirch · 12 Karten im Vorrat
 
 ### dritter Lauf, Karte 1 · Geschichte · Familie A    [ ] streichen
 
@@ -177,6 +177,20 @@
 > Du hattest [Option] getippt. Bei einem Nachbarn der Großstadt liegt die Straßenbahn nahe. Eine Verlängerung vom Rieselfeld nach Umkirch war angedacht, wird aber nicht mehr verfolgt; die nächsten Haltestellen liegen etwa fünf Kilometer entfernt. Wahr: Gerriets ist weltweit führend für Bühnenausstattung, und das Rathaus sitzt seit 2005 im Wasserschloss Büningen, nach einem Brand 1663–1669 wiederaufgebaut. Die Lüge war 1.
 
 59 Wörter · Faktencheck: **bestätigt**
+
+### Ausreißer, Karte 1 · Klassiker · Familie A    [ ] streichen
+
+> Umkirch
+> Gemeinde mit rund 5.700 Einwohnern, 8 km nordwestlich von Freiburg im Breisgau; gehört zum Wahlkreis Freiburg.
+> Bundestagswahl 2025: Im Wahlkreis Freiburg lag bei den Zweitstimmen eine Partei vorn, die das in Baden-Württemberg nur in einem weiteren Wahlkreis schaffte. Welche?
+> 1. Die AfD
+> 2. Die Grünen
+> 3. Die SPD
+> 4. Die Linke
+
+> Du hattest [Option] getippt. Im Land lag in 36 von 38 Wahlkreisen die CDU vorn. Hier lagen die Grünen vorn, mit 26,6 Prozent vor der CDU mit 22,2. Sonst lagen sie im Land nur in Karlsruhe-Stadt vorn, bundesweit in 9 von 299 Wahlkreisen. Bei den Erststimmen lagen dort die Grünen vorn. Richtig war 2.
+
+54 Wörter · Faktencheck: **bestätigt**
 
 **Ersetzt** (derselbe Fakt steht in einer neueren Karte):
 
@@ -604,7 +618,7 @@
 
 ---
 
-## 04 · Zähringen · 12 Karten im Vorrat
+## 04 · Zähringen · 13 Karten im Vorrat
 
 ### dritter Lauf, Karte 1 · Geschichte · Familie A    [ ] streichen
 
@@ -771,6 +785,20 @@
 > Du hattest [Option] getippt. Ein Kauf liegt nahe, denn so hatte das Dorf schon einmal den Herrn gewechselt: 1327 verkauften es die Grafen von Freiburg an Schnewlin Bernlapp. 1443 folgten die Schnewlin zum Wiger, 1536 die Schnewlin von Landeck. Von ihnen erbten es Ende des 16. Jahrhunderts die Herren von Sickingen. Vor den Grafen hatten die Herzöge von Zähringen Burg und Dorf besessen. Richtig war 2.
 
 66 Wörter · Faktencheck: **bestätigt** · von dir im ersten Blatt angekreuzt
+
+### Ausreißer, Karte 1 · Klassiker · Familie A    [ ] streichen
+
+> Zähringen
+> Stadtteil von Freiburg im Breisgau mit rund 9.400 Einwohnern, 3 km nördlich der Stadtmitte; gehört zum Wahlkreis Freiburg.
+> Bundestagswahl 2025: Im Wahlkreis Freiburg lag bei den Zweitstimmen eine Partei vorn, die das in Baden-Württemberg nur in einem weiteren Wahlkreis schaffte. Welche?
+> 1. Die AfD
+> 2. Die SPD
+> 3. Die Grünen
+> 4. Die Linke
+
+> Du hattest [Option] getippt. Im Land lag in 36 von 38 Wahlkreisen die CDU vorn. Hier lagen die Grünen vorn, mit 26,6 Prozent vor der CDU mit 22,2. Sonst lagen sie im Land nur in Karlsruhe-Stadt vorn, bundesweit in 9 von 299 Wahlkreisen. Bei den Erststimmen lagen dort die Grünen vorn. Richtig war 3.
+
+54 Wörter · Faktencheck: **bestätigt**
 
 **Ersetzt** (derselbe Fakt steht in einer neueren Karte):
 
@@ -989,7 +1017,7 @@
 
 ---
 
-## 06 · Glottertal · 15 Karten im Vorrat
+## 06 · Glottertal · 16 Karten im Vorrat
 
 ### dritter Lauf, Karte 1 · Geschichte · Familie A    [ ] streichen
 
@@ -1199,6 +1227,20 @@
 
 67 Wörter · Faktencheck: **korrigiert** – Der Weinberg auf 720 m ist Geschichte; der Höhenvergleich mit St. Peter war scheingenau (die Quellen nennen für Glottertal 306 bis 403 m).
 
+### Ausreißer, Karte 1 · Klassiker · Familie A    [ ] streichen
+
+> Glottertal
+> Gemeinde mit rund 3.200 Einwohnern, 10 km nordöstlich von Freiburg im Breisgau.
+> Bundestagswahl 2025: Bei welcher Partei wich Glottertal am stärksten vom Ergebnis im Landkreis Breisgau-Hochschwarzwald ab?
+> 1. Die SPD
+> 2. Die CDU
+> 3. Die Grünen
+> 4. Die Linke
+
+> Du hattest [Option] getippt. Glottertal gab der CDU 40,9 Prozent der Zweitstimmen, im Landkreis Breisgau-Hochschwarzwald waren es 32,0: 8,8 Punkte mehr. Die nächstgrößte Abweichung hatte die SPD mit 4,6 Punkten. Richtig war 2.
+
+33 Wörter · Faktencheck: **bestätigt**
+
 **Ersetzt** (derselbe Fakt steht in einer neueren Karte):
 
 - zweiter Lauf 2 → dritter Lauf 2: Einwohnerzahl (`06-glottertal/G.einwohner`)
@@ -1208,7 +1250,7 @@
 
 ---
 
-## 07 · Kirchzarten · 13 Karten im Vorrat
+## 07 · Kirchzarten · 14 Karten im Vorrat
 
 ### dritter Lauf, Karte 1 · Geschichte · Familie A    [ ] streichen
 
@@ -1390,6 +1432,20 @@
 
 67 Wörter · Faktencheck: **korrigiert** – Die Bahnagentur des Hofguts ist geschlossen (und bestand erst seit 2006).
 
+### Ausreißer, Karte 1 · Klassiker · Familie A    [ ] streichen
+
+> Kirchzarten
+> Gemeinde mit rund 10.400 Einwohnern, 8 km südöstlich von Freiburg im Breisgau.
+> Bundestagswahl 2025: Bei welcher Partei wich Kirchzarten am stärksten vom Ergebnis im Landkreis Breisgau-Hochschwarzwald ab?
+> 1. Die Grünen
+> 2. Die AfD
+> 3. Die CDU
+> 4. Die SPD
+
+> Du hattest [Option] getippt. Kirchzarten gab den Grünen 25,7 Prozent der Zweitstimmen, im Landkreis Breisgau-Hochschwarzwald waren es 17,3: 8,4 Punkte mehr. Die nächstgrößte Abweichung hatte die AfD mit 6,0 Punkten. Richtig war 1.
+
+33 Wörter · Faktencheck: **bestätigt**
+
 **Ersetzt** (derselbe Fakt steht in einer neueren Karte):
 
 - zweiter Lauf 5 → dritter Lauf 1: Markenhof (`07-kirchzarten/050`)
@@ -1402,7 +1458,7 @@
 
 ---
 
-## 08 · Günterstal · 12 Karten im Vorrat
+## 08 · Günterstal · 13 Karten im Vorrat
 
 ### dritter Lauf, Karte 1 · Geschichte · Familie A    [ ] streichen
 
@@ -1570,6 +1626,20 @@
 
 59 Wörter · Faktencheck: **bestätigt** · von dir im ersten Blatt angekreuzt
 
+### Ausreißer, Karte 1 · Klassiker · Familie A    [ ] streichen
+
+> Günterstal
+> Stadtteil von Freiburg im Breisgau mit rund 2.200 Einwohnern, 3 km südlich der Stadtmitte; gehört zum Wahlkreis Freiburg.
+> Bundestagswahl 2025: Im Wahlkreis Freiburg lag bei den Zweitstimmen eine Partei vorn, die das in Baden-Württemberg nur in einem weiteren Wahlkreis schaffte. Welche?
+> 1. Die AfD
+> 2. Die SPD
+> 3. Die Grünen
+> 4. Die Linke
+
+> Du hattest [Option] getippt. Im Land lag in 36 von 38 Wahlkreisen die CDU vorn. Hier lagen die Grünen vorn, mit 26,6 Prozent vor der CDU mit 22,2. Sonst lagen sie im Land nur in Karlsruhe-Stadt vorn, bundesweit in 9 von 299 Wahlkreisen. Bei den Erststimmen lagen dort die Grünen vorn. Richtig war 3.
+
+54 Wörter · Faktencheck: **bestätigt**
+
 **Ersetzt** (derselbe Fakt steht in einer neueren Karte):
 
 - erster Lauf 1 → dritter Lauf 1: Schauinsland (`08-guenterstal/002`)
@@ -1589,7 +1659,7 @@
 
 ---
 
-## 09 · Horben · 12 Karten im Vorrat
+## 09 · Horben · 13 Karten im Vorrat
 
 ### dritter Lauf, Karte 1 · Geschichte · Familie A    [ ] streichen
 
@@ -1756,6 +1826,20 @@
 > Du hattest [Option] getippt. Eine Handvoll liegt nahe, denn ein Gefecht bei einem kleinen Ort klingt nach kurzem Scharmützel. Die Freischärler verloren aber etwa 20 Mann, die Soldaten drei. An zwei gefallene Soldaten erinnert noch der Jägerbrunnen, den ihre Kameraden errichteten. Seit 2020 führt der „Weg der Revolutionäre“, vom Schwarzwaldverein beschildert, von Horben nach Freiburg. Richtig war 3.
 
 58 Wörter · Faktencheck: **bestätigt** · von dir im ersten Blatt angekreuzt
+
+### Ausreißer, Karte 1 · Klassiker · Familie A    [ ] streichen
+
+> Horben
+> Gemeinde mit rund 1.200 Einwohnern, 7 km südlich von Freiburg im Breisgau; gehört zum Wahlkreis Freiburg.
+> Bundestagswahl 2025: Im Wahlkreis Freiburg lag bei den Zweitstimmen eine Partei vorn, die das in Baden-Württemberg nur in einem weiteren Wahlkreis schaffte. Welche?
+> 1. Die AfD
+> 2. Die Grünen
+> 3. Die SPD
+> 4. Die Linke
+
+> Du hattest [Option] getippt. Im Land lag in 36 von 38 Wahlkreisen die CDU vorn. Hier lagen die Grünen vorn, mit 26,6 Prozent vor der CDU mit 22,2. Sonst lagen sie im Land nur in Karlsruhe-Stadt vorn, bundesweit in 9 von 299 Wahlkreisen. Bei den Erststimmen lagen dort die Grünen vorn. Richtig war 2.
+
+54 Wörter · Faktencheck: **bestätigt**
 
 **Ersetzt** (derselbe Fakt steht in einer neueren Karte):
 
