@@ -1,104 +1,424 @@
 [
- {"ort": "01-bendorf", "lauf": "v0.7", "karte": 9, "status": "korrigiert",
+ {
+  "ort": "01-bendorf",
+  "lauf": "v0.7",
+  "karte": 9,
+  "status": "korrigiert",
   "grund": "Bendorf: Die Namensform der Ersterwähnung („Bethindorf“) steht so nur in Wikipedia, ein anderer Nachweis nennt „Bettendorf“; Form gestrichen. Das Jahr 1064 und die Deutung als Personenname sind gestützt.",
-  "ersetzungen": [["In der ersten Erwähnung von 1064 heißt der Ort Bethindorf.", "Erstmals erwähnt ist der Ort 1064."]]},
- {"ort": "01-bendorf", "lauf": "v0.7", "karte": 10, "status": "unsicher",
+  "ersetzungen": [
+   [
+    "In der ersten Erwähnung von 1064 heißt der Ort Bethindorf.",
+    "Erstmals erwähnt ist der Ort 1064."
+   ]
+  ]
+ },
+ {
+  "ort": "01-bendorf",
+  "lauf": "v0.7",
+  "karte": 10,
+  "status": "unsicher",
   "grund": "Bendorf: Der Umbau eines Arbeiterhauses im Stil Hundertwassers steht nur in einer unbelegten Listenzeile des Wikipedia-Artikels; keine zweite Quelle gefunden, auch nicht dazu, ob das Haus heute noch so besteht.",
-  "ersetzungen": []},
-
- {"ort": "02-engers", "lauf": "v0.7", "karte": 3, "status": "korrigiert",
+  "ersetzungen": []
+ },
+ {
+  "ort": "02-engers",
+  "lauf": "v0.7",
+  "karte": 3,
+  "status": "korrigiert",
   "grund": "Engers: Der Artikel spricht von „hunderten“ Menschen auf der Brücke; die Zahl „etwa 100“ kam aus der Extraktion, und die Berichte der Augenzeugen widersprechen sich. Das Ende der amerikanischen Besatzung 1922 steht nur in Wikipedia; Aussage 3 nennt kein Jahr mehr.",
-  "ersetzungen": [["als etwa 100 Menschen darauf waren, meist deutsche Soldaten auf dem Rückzug", "als nach den meisten Berichten noch viele Menschen darauf waren, meist deutsche Soldaten auf dem Rückzug"],
-                  ["3. Bis 1922 hielten amerikanische Truppen Engers besetzt.", "3. Nach 1918 war Engers zunächst amerikanisch besetzt."]]},
- {"ort": "02-engers", "lauf": "v0.7", "karte": 5, "status": "korrigiert",
+  "ersetzungen": [
+   [
+    "als etwa 100 Menschen darauf waren, meist deutsche Soldaten auf dem Rückzug",
+    "als nach den meisten Berichten noch viele Menschen darauf waren, meist deutsche Soldaten auf dem Rückzug"
+   ],
+   [
+    "3. Bis 1922 hielten amerikanische Truppen Engers besetzt.",
+    "3. Nach 1918 war Engers zunächst amerikanisch besetzt."
+   ]
+  ]
+ },
+ {
+  "ort": "02-engers",
+  "lauf": "v0.7",
+  "karte": 5,
+  "status": "korrigiert",
   "grund": "Engers: Fehler der Extraktion. In der Sühne vom 25. April 1371 verpfändete Wilhelm Dierdorf, Rückeroth und Rohrburg; Dorf und Gericht Engers hatte ihm Erzbischof Kuno zuvor abgenommen (regionalgeschichte.net).",
-  "ersetzungen": [["verwüstete wiedisches Gebiet und eroberte Engers.", "verwüstete wiedisches Gebiet und nahm dem Grafen Dorf und Gericht Engers ab."],
-                  ["In der Sühne vom 25. April 1371 musste Wilhelm Dorf und Gericht Engers abgeben.", "Am 25. April 1371 musste Wilhelm weitere Orte verpfänden."],
-                  ["In der Sühne gab Wilhelm Engers ab und musste zusätzlich Burgen übergeben", "Kuno nahm Wilhelm Engers ab; in der Sühne musste Wilhelm weitere Orte verpfänden"]]},
- {"ort": "02-engers", "lauf": "v0.7", "karte": 8, "status": "korrigiert",
+  "ersetzungen": [
+   [
+    "verwüstete wiedisches Gebiet und eroberte Engers.",
+    "verwüstete wiedisches Gebiet und nahm dem Grafen Dorf und Gericht Engers ab."
+   ],
+   [
+    "In der Sühne vom 25. April 1371 musste Wilhelm Dorf und Gericht Engers abgeben.",
+    "Am 25. April 1371 musste Wilhelm weitere Orte verpfänden."
+   ],
+   [
+    "In der Sühne gab Wilhelm Engers ab und musste zusätzlich Burgen übergeben",
+    "Kuno nahm Wilhelm Engers ab; in der Sühne musste Wilhelm weitere Orte verpfänden"
+   ]
+  ]
+ },
+ {
+  "ort": "02-engers",
+  "lauf": "v0.7",
+  "karte": 8,
+  "status": "korrigiert",
   "grund": "Engers: Der Artikel leitet den Namen nur mit Vorbehalt von „Angar“ ab („scheint“). „Uf dem Anger“ ist ein Abschnitt der Carmina Burana, nicht ihr zweiter Teil.",
-  "ersetzungen": [["Im Namen steckt das althochdeutsche", "Im Namen steckt wohl das althochdeutsche"],
-                  ["heißt der zweite Teil von Carl Orffs Carmina Burana", "heißt ein Abschnitt in Carl Orffs Carmina Burana"]]},
-
- {"ort": "03-heimbach-weis", "lauf": "v0.7", "karte": 1, "status": "korrigiert",
+  "ersetzungen": [
+   [
+    "Im Namen steckt das althochdeutsche",
+    "Im Namen steckt wohl das althochdeutsche"
+   ],
+   [
+    "heißt der zweite Teil von Carl Orffs Carmina Burana",
+    "heißt ein Abschnitt in Carl Orffs Carmina Burana"
+   ]
+  ]
+ },
+ {
+  "ort": "03-heimbach-weis",
+  "lauf": "v0.7",
+  "karte": 1,
+  "status": "korrigiert",
   "grund": "Heimbach-Weis: Am 11. November 2001 zog die Parade; der Eintrag ins Guinness-Buch folgte erst später.",
-  "ersetzungen": [["Am 11. November 2001 kam die Karnevalshochburg Heimbach-Weis ins Guinness-Buch der Rekorde. Womit?", "Für ein Ereignis vom 11. November 2001 kam die Karnevalshochburg Heimbach-Weis ins Guinness-Buch der Rekorde. Wofür?"]]},
- {"ort": "03-heimbach-weis", "lauf": "v0.7", "karte": 5, "status": "korrigiert",
+  "ersetzungen": [
+   [
+    "Am 11. November 2001 kam die Karnevalshochburg Heimbach-Weis ins Guinness-Buch der Rekorde. Womit?",
+    "Für ein Ereignis vom 11. November 2001 kam die Karnevalshochburg Heimbach-Weis ins Guinness-Buch der Rekorde. Wofür?"
+   ]
+  ]
+ },
+ {
+  "ort": "03-heimbach-weis",
+  "lauf": "v0.7",
+  "karte": 5,
+  "status": "korrigiert",
   "grund": "Heimbach-Weis: Der Artikel zählt Wagner „zu den berühmtesten Söhnen“; einen alleinigen Superlativ gibt er nicht her.",
-  "ersetzungen": [["wird als berühmtester Sohn von Heimbach-Weis bezeichnet", "wird zu den berühmtesten Söhnen von Heimbach-Weis gezählt"]]},
- {"ort": "03-heimbach-weis", "lauf": "v0.7", "karte": 8, "status": "korrigiert",
+  "ersetzungen": [
+   [
+    "wird als berühmtester Sohn von Heimbach-Weis bezeichnet",
+    "wird zu den berühmtesten Söhnen von Heimbach-Weis gezählt"
+   ]
+  ]
+ },
+ {
+  "ort": "03-heimbach-weis",
+  "lauf": "v0.7",
+  "karte": 8,
+  "status": "korrigiert",
   "grund": "Heimbach-Weis: Die Bauzeit der Orgel ist strittig (Wikipedia 1738 bis 1740, Förderkreis der Abtei 1738 bis 1744, Stadt 1744); Endjahr gestrichen.",
-  "ersetzungen": [["Die Orgel baute Johann Michael Stumm 1738 bis 1740 für die Abtei Rommersdorf", "Die Orgel schuf die Werkstatt Stumm ab 1738 für die Abtei Rommersdorf"]]},
-
- {"ort": "04-altwied", "lauf": "v0.7", "karte": 1, "status": "korrigiert",
+  "ersetzungen": [
+   [
+    "Die Orgel baute Johann Michael Stumm 1738 bis 1740 für die Abtei Rommersdorf",
+    "Die Orgel schuf die Werkstatt Stumm ab 1738 für die Abtei Rommersdorf"
+   ]
+  ]
+ },
+ {
+  "ort": "04-altwied",
+  "lauf": "v0.7",
+  "karte": 1,
+  "status": "korrigiert",
   "grund": "Altwied: Niderwide und Niederwied sind derselbe Name in zwei Schreibweisen; Grafenwied kam nur gelegentlich vor.",
-  "ersetzungen": [["Doch 1301 hieß er Niderwide, im Mittelalter Niederwied, später Grafenwied.", "Doch zunächst hieß er Niederwied (1301: Niderwide), später gelegentlich auch Grafenwied."]]},
- {"ort": "04-altwied", "lauf": "v0.7", "karte": 5, "status": "korrigiert",
+  "ersetzungen": [
+   [
+    "Doch 1301 hieß er Niderwide, im Mittelalter Niederwied, später Grafenwied.",
+    "Doch zunächst hieß er Niederwied (1301: Niderwide), später gelegentlich auch Grafenwied."
+   ]
+  ]
+ },
+ {
+  "ort": "04-altwied",
+  "lauf": "v0.7",
+  "karte": 5,
+  "status": "korrigiert",
   "grund": "Altwied: Der Steinbruch um 1760 ist nur überliefert („soll“), verbürgt ist erst die Lieferung von 1792. Um 1880 wurde ein kleinerer Turm wiederhergestellt, nicht mehrere.",
-  "ersetzungen": [["Ab etwa 1760 diente die verfallene Burg als Steinbruch.", "Um 1760 soll die verfallene Burg als Steinbruch gedient haben."],
-                  ["und war ab etwa 1760 Steinbruch.", "und soll um 1760 als Steinbruch gedient haben."],
-                  ["Erst 1880 wurden einige Räume und kleinere Türme wiederhergestellt.", "Um 1880 wurden einige Räume und ein Turm wiederhergestellt."]]},
- {"ort": "04-altwied", "lauf": "v0.7", "karte": 8, "status": "unsicher",
+  "ersetzungen": [
+   [
+    "Ab etwa 1760 diente die verfallene Burg als Steinbruch.",
+    "Um 1760 soll die verfallene Burg als Steinbruch gedient haben."
+   ],
+   [
+    "und war ab etwa 1760 Steinbruch.",
+    "und soll um 1760 als Steinbruch gedient haben."
+   ],
+   [
+    "Erst 1880 wurden einige Räume und kleinere Türme wiederhergestellt.",
+    "Um 1880 wurden einige Räume und ein Turm wiederhergestellt."
+   ]
+  ]
+ },
+ {
+  "ort": "04-altwied",
+  "lauf": "v0.7",
+  "karte": 8,
+  "status": "unsicher",
   "grund": "Altwied: Die Pläne für eine Jugendherberge stehen nur in Wikipedia; keine zweite Quelle gefunden. Der Architekt ist als Zuschreibung gefasst.",
-  "ersetzungen": [["Sechs Pläne des Düsseldorfer Architekten Ernst Stahl vom Frühjahr 1929 sollten", "Sechs Pläne vom Frühjahr 1929, dem Düsseldorfer Architekten Ernst Stahl zugeschrieben, sollten"]]},
-
- {"ort": "06-dierdorf", "lauf": "v0.7", "karte": 5, "status": "unsicher",
+  "ersetzungen": [
+   [
+    "Sechs Pläne des Düsseldorfer Architekten Ernst Stahl vom Frühjahr 1929 sollten",
+    "Sechs Pläne vom Frühjahr 1929, dem Düsseldorfer Architekten Ernst Stahl zugeschrieben, sollten"
+   ]
+  ]
+ },
+ {
+  "ort": "06-dierdorf",
+  "lauf": "v0.7",
+  "karte": 5,
+  "status": "unsicher",
   "grund": "Dierdorf: Dass 1943 die Kupferteile für den Kriegsbedarf abgenommen wurden, steht nur in Wikipedia; Baujahr, Bewohnung bis 2003 und Abriss 2019 sind durch die Zeitung gedeckt.",
-  "ersetzungen": []},
- {"ort": "06-dierdorf", "lauf": "v0.7", "karte": 7, "status": "unsicher",
+  "ersetzungen": []
+ },
+ {
+  "ort": "06-dierdorf",
+  "lauf": "v0.7",
+  "karte": 7,
+  "status": "unsicher",
   "grund": "Dierdorf: Tillys Patenschaft steht nur in Wikipedia; „belegt“ war zu stark, und „besetzte“ ging über den Artikel hinaus (dort folgten Tillys Scharen 1624). Tilly war Feldherr der Katholischen Liga, nicht kaiserlicher General.",
-  "ersetzungen": [["Der kaiserliche General Tilly besetzte 1624 Dierdorf mit seinen Truppen. Was verband ihn im selben Jahr mit dem Grafen der Stadt?", "Die Scharen des Feldherrn Tilly kamen 1624 nach Dierdorf. Was soll ihn im selben Jahr mit dem Grafen der Stadt verbunden haben?"],
-                  ["Belegt ist eine andere Bindung: 1624 besetzte Tilly Dierdorf mit seinen Scharen", "Überliefert ist eine andere Bindung: 1624 kamen Tillys Scharen nach Dierdorf"],
-                  ["wurde er Taufpate von Luise Juliane,", "soll er Taufpate von Luise Juliane geworden sein,"]]},
- {"ort": "06-dierdorf", "lauf": "v0.7", "karte": 8, "status": "unsicher",
+  "ersetzungen": [
+   [
+    "Der kaiserliche General Tilly besetzte 1624 Dierdorf mit seinen Truppen. Was verband ihn im selben Jahr mit dem Grafen der Stadt?",
+    "Die Scharen des Feldherrn Tilly kamen 1624 nach Dierdorf. Was soll ihn im selben Jahr mit dem Grafen der Stadt verbunden haben?"
+   ],
+   [
+    "Belegt ist eine andere Bindung: 1624 besetzte Tilly Dierdorf mit seinen Scharen",
+    "Überliefert ist eine andere Bindung: 1624 kamen Tillys Scharen nach Dierdorf"
+   ],
+   [
+    "wurde er Taufpate von Luise Juliane,",
+    "soll er Taufpate von Luise Juliane geworden sein,"
+   ]
+  ]
+ },
+ {
+  "ort": "06-dierdorf",
+  "lauf": "v0.7",
+  "karte": 8,
+  "status": "unsicher",
   "grund": "Dierdorf: Dass die Partnerschaft aus einem Schüleraustausch seit 1998 hervorging, steht nur in Wikipedia; Stadt und Partnerschaftsverein bestätigen das Jahr 2005 und den Austausch als solchen.",
-  "ersetzungen": []},
- {"ort": "06-dierdorf", "lauf": "v0.7", "karte": 10, "status": "unsicher",
+  "ersetzungen": []
+ },
+ {
+  "ort": "06-dierdorf",
+  "lauf": "v0.7",
+  "karte": 10,
+  "status": "unsicher",
   "grund": "Dierdorf: Die Wirtschaftsordnung von 1598 ist nur durch Wikipedia belegt. Die Begrenzung des Gewinns nennt der Artikel nur für den Wein.",
-  "ersetzungen": [["3. Der Gewinn der Wirte war begrenzt.", "3. Der Gewinn der Wirte am Wein war begrenzt."],
-                  ["begrenzte die Gewinne der Wirte und", "begrenzte den Gewinn der Wirte am Wein und"]]},
-
- {"ort": "07-waldbreitbach", "lauf": "v0.7", "karte": 3, "status": "korrigiert",
+  "ersetzungen": [
+   [
+    "3. Der Gewinn der Wirte war begrenzt.",
+    "3. Der Gewinn der Wirte am Wein war begrenzt."
+   ],
+   [
+    "begrenzte die Gewinne der Wirte und",
+    "begrenzte den Gewinn der Wirte am Wein und"
+   ]
+  ]
+ },
+ {
+  "ort": "07-waldbreitbach",
+  "lauf": "v0.7",
+  "karte": 3,
+  "status": "korrigiert",
   "grund": "Waldbreitbach: Belegt ist, dass der Glockengießer aus Koblenz-Ehrenbreitstein stammte, nicht, wo er die Glocke goss.",
-  "ersetzungen": [["Die Glocke goss Johannes Berdaller 1694 in Koblenz-Ehrenbreitstein", "Die Glocke goss 1694 Johannes Berdaller aus Koblenz-Ehrenbreitstein"]]},
- {"ort": "07-waldbreitbach", "lauf": "v0.7", "karte": 5, "status": "korrigiert",
+  "ersetzungen": [
+   [
+    "Die Glocke goss Johannes Berdaller 1694 in Koblenz-Ehrenbreitstein",
+    "Die Glocke goss 1694 Johannes Berdaller aus Koblenz-Ehrenbreitstein"
+   ]
+  ]
+ },
+ {
+  "ort": "07-waldbreitbach",
+  "lauf": "v0.7",
+  "karte": 5,
+  "status": "korrigiert",
   "grund": "Waldbreitbach: Fehler der Extraktion. 1809 zog das Herzogtum Nassau den Ordensbesitz ein; Fürst Hermann zu Wied (geboren 1814) kaufte ihn erst später, das Jahr ist nicht belegt.",
-  "ersetzungen": [["1809 erwarb es Hermann Fürst zu Wied.", "1809 zog Nassau es ein, später kaufte es Fürst Hermann zu Wied."],
-                  ["Bis 1988 war es zuletzt ein Altenheim, nach dem Umbau 2009 bis 2010 wurde es Wohn- und Geschäftshaus.", "Zuletzt war es bis 1988 Altenheim, nach dem Umbau 2009/2010 Wohn- und Geschäftshaus."]]},
-
- {"ort": "08-linz", "lauf": "v0.7", "karte": 1, "status": "unsicher",
+  "ersetzungen": [
+   [
+    "1809 erwarb es Hermann Fürst zu Wied.",
+    "1809 zog Nassau es ein, später kaufte es Fürst Hermann zu Wied."
+   ],
+   [
+    "Bis 1988 war es zuletzt ein Altenheim, nach dem Umbau 2009 bis 2010 wurde es Wohn- und Geschäftshaus.",
+    "Zuletzt war es bis 1988 Altenheim, nach dem Umbau 2009/2010 Wohn- und Geschäftshaus."
+   ]
+  ]
+ },
+ {
+  "ort": "08-linz",
+  "lauf": "v0.7",
+  "karte": 1,
+  "status": "unsicher",
   "grund": "Linz am Rhein: Das Jahr 1981, die Renovierung und der Fund von Resten der Vorgängerkirche sind belegt; der Anlass (Einbau einer Fußbodenheizung) und die Grabstätten stehen nur in Wikipedia.",
-  "ersetzungen": []},
- {"ort": "08-linz", "lauf": "v0.7", "karte": 5, "status": "unsicher",
+  "ersetzungen": []
+ },
+ {
+  "ort": "08-linz",
+  "lauf": "v0.7",
+  "karte": 5,
+  "status": "unsicher",
   "grund": "Linz am Rhein: Dass Conrad Ahlers 1962 in Linz einsaß, steht nur in Wikipedia. Die Hausnummer des Gefängnisses ist zwischen den Quellen strittig (14 oder 5) und gestrichen.",
-  "ersetzungen": [["Das Gefängnis lag Am Totenborn 14 beim alten Amtsgericht", "Das Gefängnis lag Am Totenborn beim alten Amtsgericht"]]},
- {"ort": "08-linz", "lauf": "v0.7", "karte": 9, "status": "korrigiert",
+  "ersetzungen": [
+   [
+    "Das Gefängnis lag Am Totenborn 14 beim alten Amtsgericht",
+    "Das Gefängnis lag Am Totenborn beim alten Amtsgericht"
+   ]
+  ]
+ },
+ {
+  "ort": "08-linz",
+  "lauf": "v0.7",
+  "karte": 9,
+  "status": "korrigiert",
   "grund": "Linz am Rhein: Rheintor und Neutor sind erhalten, stammen aber nicht von 1329 (das Neutor laut Stadt wohl aus der Zeit nach dem Brand von 1391, das heutige Rheintor ist jünger); 1329 war die Stadtbefestigung fertig.",
-  "ersetzungen": [["Rheintor und Neutor, beide von 1329, sind erhalten.", "Rheintor und Neutor sind als Stadttore erhalten."]]},
- {"ort": "08-linz", "lauf": "v0.7", "karte": 10, "status": "korrigiert",
+  "ersetzungen": [
+   [
+    "Rheintor und Neutor, beide von 1329, sind erhalten.",
+    "Rheintor und Neutor sind als Stadttore erhalten."
+   ]
+  ]
+ },
+ {
+  "ort": "08-linz",
+  "lauf": "v0.7",
+  "karte": 10,
+  "status": "korrigiert",
   "grund": "Linz am Rhein: Die Haft des Schwarzen Peter im Pulverturm ist nur als Legende überliefert, seine Biografien kennen sie nicht; der Wikipedia-Artikel hatte den Vorbehalt verloren. Sein Sterbejahr ist nicht gesichert.",
-  "ersetzungen": [["1792 saß im Linzer Pulverturm ein Räuber ein, den man den Schwarzen Peter nannte.", "Im Linzer Pulverturm soll der Legende nach ein Räuber gesessen haben, den man den Schwarzen Peter nannte."],
-                  ["Der Schwarze Peter, ein Räuber, der von 1752 bis 1812 lebte, war", "Der Schwarze Peter, ein 1752 geborener Räuber, war"],
-                  ["1792 saß der Schwarze Peter vorübergehend im Linzer Pulverturm,", "Der Legende nach saß er vorübergehend im Linzer Pulverturm,"]]},
-
- {"ort": "09-bad-hoenningen", "lauf": "v0.7", "karte": 1, "status": "korrigiert",
+  "ersetzungen": [
+   [
+    "1792 saß im Linzer Pulverturm ein Räuber ein, den man den Schwarzen Peter nannte.",
+    "Im Linzer Pulverturm soll der Legende nach ein Räuber gesessen haben, den man den Schwarzen Peter nannte."
+   ],
+   [
+    "Der Schwarze Peter, ein Räuber, der von 1752 bis 1812 lebte, war",
+    "Der Schwarze Peter, ein 1752 geborener Räuber, war"
+   ],
+   [
+    "1792 saß der Schwarze Peter vorübergehend im Linzer Pulverturm,",
+    "Der Legende nach saß er vorübergehend im Linzer Pulverturm,"
+   ]
+  ]
+ },
+ {
+  "ort": "09-bad-hoenningen",
+  "lauf": "v0.7",
+  "karte": 1,
+  "status": "korrigiert",
   "grund": "Bad Hönningen: Gefunden wurde der Supernovaüberrest in den Daten der ersten eROSITA-Durchmusterung (bis Juni 2020); im März 2021 wurde der Fund veröffentlicht und benannt.",
-  "ersetzungen": [["machte 2021 eine Entdeckung und nannte sie", "stellte 2021 eine Entdeckung vor und nannte sie"],
-                  ["fand im März 2021 mit dem Röntgenteleskop eROSITA", "fand in Daten des Röntgenteleskops eROSITA"],
-                  ["Am Himmel misst Hoinga", "Im März 2021 gab er dem Fund den Namen. Am Himmel misst Hoinga"]]},
- {"ort": "09-bad-hoenningen", "lauf": "v0.7", "karte": 8, "status": "korrigiert",
+  "ersetzungen": [
+   [
+    "machte 2021 eine Entdeckung und nannte sie",
+    "stellte 2021 eine Entdeckung vor und nannte sie"
+   ],
+   [
+    "fand im März 2021 mit dem Röntgenteleskop eROSITA",
+    "fand in Daten des Röntgenteleskops eROSITA"
+   ],
+   [
+    "Am Himmel misst Hoinga",
+    "Im März 2021 gab er dem Fund den Namen. Am Himmel misst Hoinga"
+   ]
+  ]
+ },
+ {
+  "ort": "09-bad-hoenningen",
+  "lauf": "v0.7",
+  "karte": 8,
+  "status": "korrigiert",
   "grund": "Bad Hönningen: Die Jahre des Erwerbs (1847, 1848 oder 1850) und des Baus von Burg Ariendorf (1840 nur in Wikipedia, sonst 1845/46) sind strittig und gestrichen; Zwirner als Architekt und die Reihenfolge der beiden Bauten sind doppelt belegt.",
-  "ersetzungen": [["erwarb das Schloss 1848 und holte", "erwarb das Schloss und holte"],
-                  ["Der hatte 1840 schon die neugotische Burg Ariendorf gebaut.", "Der hatte zuvor schon die neugotische Burg Ariendorf gebaut."]]},
-
- {"ort": "10-leutesdorf", "lauf": "v0.7", "karte": 3, "status": "korrigiert",
+  "ersetzungen": [
+   [
+    "erwarb das Schloss 1848 und holte",
+    "erwarb das Schloss und holte"
+   ],
+   [
+    "Der hatte 1840 schon die neugotische Burg Ariendorf gebaut.",
+    "Der hatte zuvor schon die neugotische Burg Ariendorf gebaut."
+   ]
+  ]
+ },
+ {
+  "ort": "10-leutesdorf",
+  "lauf": "v0.7",
+  "karte": 3,
+  "status": "korrigiert",
   "grund": "Leutesdorf: Die drei Einzellagen Rosenberg, Gartenlay und Forstberg wurden 2006 zur Lage Gartenlay zusammengefasst; der Wikipedia-Artikel führt den alten Stand.",
-  "ersetzungen": [["seine Lagen Rosenberg, Gartenlay und Forstberg gehören zum Anbaugebiet Mittelrhein", "seine Weinberge gehören zum Anbaugebiet Mittelrhein"]]},
- {"ort": "10-leutesdorf", "lauf": "v0.7", "karte": 7, "status": "unsicher",
+  "ersetzungen": [
+   [
+    "seine Lagen Rosenberg, Gartenlay und Forstberg gehören zum Anbaugebiet Mittelrhein",
+    "seine Weinberge gehören zum Anbaugebiet Mittelrhein"
+   ]
+  ]
+ },
+ {
+  "ort": "10-leutesdorf",
+  "lauf": "v0.7",
+  "karte": 7,
+  "status": "unsicher",
   "grund": "Leutesdorf: Die 1,3 Millionen Weinstöcke von 1927 stehen nur in Wikipedia. Die Angabe „heute etwa eine Million Rebstöcke“ passt nicht zur heutigen Rebfläche und ist gestrichen.",
-  "ersetzungen": [[" Heute stehen dort etwa eine Million Rebstöcke.", ""]]},
- {"ort": "10-leutesdorf", "lauf": "v0.7", "karte": 9, "status": "korrigiert",
+  "ersetzungen": [
+   [
+    " Heute stehen dort etwa eine Million Rebstöcke.",
+    ""
+   ]
+  ]
+ },
+ {
+  "ort": "10-leutesdorf",
+  "lauf": "v0.7",
+  "karte": 9,
+  "status": "korrigiert",
   "grund": "Leutesdorf: Das Gedicht nennt Weinberge bei Andernach, nicht Leutesdorf; die Zuordnung zu den Leutesdorfer Hängen ist gängig, aber eine Deutung. Die Jahreszahl ist eine Datierung (um 588; die Gemeinde nennt 565).",
-  "ersetzungen": [["Der älteste Nachweis für Weinbau in Leutesdorf stammt von 588.", "Als ältester Nachweis für Weinbau in Leutesdorf gilt ein Text von etwa 588."],
-                  ["Der Leutesdorfer Wein ist aber durch Verse belegt: Venantius Fortunatus erwähnte 588 die Rebhänge in seinem Reisegedicht", "Hier sind es Verse: Venantius Fortunatus erwähnte um 588 Rebhänge bei Andernach, die man auf Leutesdorf bezieht, in seinem Reisegedicht"]]}
+  "ersetzungen": [
+   [
+    "Der älteste Nachweis für Weinbau in Leutesdorf stammt von 588.",
+    "Als ältester Nachweis für Weinbau in Leutesdorf gilt ein Text von etwa 588."
+   ],
+   [
+    "Der Leutesdorfer Wein ist aber durch Verse belegt: Venantius Fortunatus erwähnte 588 die Rebhänge in seinem Reisegedicht",
+    "Hier sind es Verse: Venantius Fortunatus erwähnte um 588 Rebhänge bei Andernach, die man auf Leutesdorf bezieht, in seinem Reisegedicht"
+   ]
+  ]
+ },
+ {
+  "ort": "11-feldkirchen",
+  "lauf": "v0.7",
+  "karte": 3,
+  "status": "korrigiert",
+  "grund": "Feldkirchen: Das Lied heißt „Mosellied“ (so im Artikel zur Feldkirche und im Volksliederarchiv), nicht „Moselied“.",
+  "ersetzungen": [
+   [
+    "Moselied",
+    "Mosellied",
+    "alle"
+   ]
+  ]
+ },
+ {
+  "ort": "11-feldkirchen",
+  "lauf": "v0.7",
+  "karte": 5,
+  "status": "unsicher",
+  "grund": "Feldkirchen: Dass der Fundplatz Gönnersdorf beim Aushub für ein Einfamilienhaus entdeckt wurde, steht nur in Wikipedia (Orts- und Fundplatzartikel). Die Grabungsfläche nennt der Fundplatzartikel mit 687 m², der Ortsartikel mit 650 m²; gerundet.",
+  "ersetzungen": [
+   [
+    "Gerhard Bosinski grub 650 Quadratmeter aus",
+    "Gerhard Bosinski grub rund 700 Quadratmeter aus"
+   ]
+  ]
+ },
+ {
+  "ort": "11-feldkirchen",
+  "lauf": "v0.7",
+  "karte": "anschluss",
+  "status": "korrigiert",
+  "grund": "Feldkirchen, Orts-Anschluss an Leutesdorf: Die evangelischen Leutesdorfer gehören bis heute zur Kirchengemeinde Feldkirchen-Altwied (ACK Neuwied), nicht nur „einst“.",
+  "ersetzungen": [
+   [
+    "Evangelische Leutesdorfer gehörten einst zur Pfarrgemeinde Feldkirchen.",
+    "Evangelische Leutesdorfer gehören zur Kirchengemeinde der Feldkirche."
+   ]
+  ]
+ }
 ]

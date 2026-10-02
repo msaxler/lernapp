@@ -131,7 +131,17 @@ def main():
     os.makedirs(os.path.join(AUS, 'quellen'), exist_ok=True)
     heute = datetime.date.today().isoformat()
     schicht0 = []
+    # Mit Slugs als Argument werden nur diese Orte geholt (Ort nachziehen); die übrigen Einträge und
+    # Quelltexte bleiben, wie sie die bisherigen Läufe gelesen haben.
+    nur = sys.argv[1:]
+    alt = {}
+    if nur:
+        with io.open(os.path.join(AUS, 'schicht0.json'), encoding='utf-8') as f:
+            alt = {e['slug']: e for e in json.load(f)}
     for slug, rolle, name, titel, einheit in ORTE:
+        if nur and slug not in nur:
+            schicht0.append(alt[slug])
+            continue
         s = artikel(titel)
         text = s.get('extract', '')
         if not text:

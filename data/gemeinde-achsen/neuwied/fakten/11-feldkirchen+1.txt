@@ -1,0 +1,783 @@
+ID: 11-feldkirchen+1/001
+ENTITÄT: kirche
+BEZEICHNUNG: Feldkirche
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  architekturstil: spätromanisch
+  konfession: evangelisch
+  länge_innen: 31 Meter
+  breite_innen: 15 Meter
+  höhe_über_rheinebene: circa 50 Meter
+  höhe_NN: 104 m
+  ursprüngliche_bauform: flach gedeckte Pfeilerbasilika ohne Querschiff
+  urweihe: St. Martin
+  bauzeit: 1150-1200
+  chor_überwölbung: Anfang 13. Jahrhundert
+  turm_anbauzeitpunkt: um 1200
+  turm_außenmaße: 7,50 × 6,50 Meter
+  turm_höhe: 34 Meter
+  dachdeckung: Naturschiefer aus Mayen
+  ursprünglich_verputzt_und_weiß_gekalkt: bis Mitte 19. Jahrhundert
+  mauerwerk: Bruchsteinmauerwerk mit hellem Mendiger Tuffstein
+  fenster_anzahl: 32
+  fenster_künstler: Georg Meistermann (Kunsthochschule Düsseldorf)
+  fenster_glasmalerwerkstatt: Hans Bernhard Gossel (Schalkenmehlen)
+  fenster_zeitraum: 1952-1979
+  fenster_typ: abstrakte Bleiglasfenster nach Bibelversen
+  bombenschaden_dezember: 1944
+  fußboden: Schieferplatten (Chor), quadratische Basaltfliesen (Hauptraum)
+  orgel_erbauer: Johannes Klais Orgelbau
+  orgel_baujahr: 1980
+GUELTIG_AB: 1150
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-feldkirchen+1/002
+ENTITÄT: ort
+BEZEICHNUNG: Feldkirchen
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  ist_stadtteil_von: Neuwied
+  bundesland: Rheinland-Pfalz
+  gründung_als_gemeinde: 1966 (aus Fahr, Hüllenberg, Gönnersdorf, Rockenfeld, Wollendorf)
+  gründung_gültig_ab: 1. August 1966
+  eingemeindung: 1970 (Gemeindereform)
+  benannt_nach: Feldkirche
+  namensherkunft: "Die Feldkirche ist Namenspatin des Stadtteils"
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 11-feldkirchen+1/003
+ENTITÄT: gebäude
+BEZEICHNUNG: Pfarrhaus
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  beschreibung: Teil der historisch bedeutenden Anlage der Feldkirche
+  ältester_nachweis: Mitte 16. Jahrhundert
+  brand_1583: zerstört (Truchsessischer Krieg)
+  jahreszahl_einmeißelung: 1605 (Nachfolgebau)
+  bauweise_1605: Bruchsteine mit Lehm
+  neubau_brandkatastrophe: 1853
+  neubau_zeitraum: 1854-1856
+  heutige_zusammensetzung: zweistöckiges Pfarrhaus + Gemeindesaal + Zwischenbau
+  fenster: rote Klappläden
+  dachdeckung: Schiefer
+  mauerwerk: Natursteinmauerwerk
+  gemeindesaal_erweiterung_baujahr: 2007
+  gemeindesaal_eröffnung: Sommer 2010
+GUELTIG_AB: 1605
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 11-feldkirchen+1/004
+ENTITÄT: gebäude
+BEZEICHNUNG: Turm (Feldkirche)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  außenmaße: 7,50 × 6,50 Meter
+  höhe: 34 Meter
+  anbauzeitpunkt: um 1200
+  dachdeckung: Rhombendach aus Schiefer
+  stockwerke: vier
+  mauerwerk: Bruchsteine mit Tuffsteinelementen
+  fenster_untere_stockwerke: Schlitzfenster
+  fenster_viertes_stockwerk: Triforienfenster (zwei Mittelsäulen aus Basalt)
+  ostwand_durchbruch: 1934
+  turmuhr: 1894
+  elektrische_uhr: 1959
+  glocke_größer: 1589 (dem heiligen Martin gewidmet)
+  glocke_größer_material: Bronze
+  glocke_größer_stifter: Grafen zu Wied
+  glocke_kleinere: 1717 (der heiligen Maria gewidmet)
+  glocke_kleinere_herkunft: angekauft von katholischer Kirche
+  haube_barock_17_jh: zeitweise vorhanden (Ende 17. Jahrhundert)
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 11-feldkirchen+1/005
+ENTITÄT: gebäude
+BEZEICHNUNG: Klause
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  architekturstil: frühgotisch
+  lage: Südseite des Chores
+  bauzeit: 13. Jahrhundert
+  stockwerke: zwei
+  funktion: Behausung für Klausner/Klausnerin
+  besonderheit: Öffnung zum Chorfenster für Teilnahme am Gottesdienst
+  ausgrabung: 1941
+GUELTIG_AB: 1300
+GUELTIG_BIS: 1941
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 11-feldkirchen+1/006
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Meistermann-Fenster
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  typ: Bleiglasfenster
+  anzahl: 32
+  künstler: Georg Meistermann
+  kunsthochschule: Düsseldorf
+  glasmalerwerkstatt: Hans Bernhard Gossel
+  werkstatt_ort: Schalkenmehlen
+  thema: Bibelversen
+  besonderheit: abstrakt, nicht oder kaum gegenständlich
+  zeitraum_anfertigung: 1952-1979
+  grund: Restaurierung nach Bombardement Dezember 1944
+  charakteristikum: Zusammenspiel moderner abstrakter Fensterflächen mit romanischem Baukörper
+GUELTIG_AB: 1952
+GUELTIG_BIS: 1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 11-feldkirchen+1/007
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Abendmahltisch (Feldkirche)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  material: Basalt
+  ursprüngliche_funktion: Grabplatte
+  ursprünglicher_eigentümer: Schultheiß Mathias Kreckel
+  todesjahr: 1664
+  todesjahr_genau: 22. April 1664
+  beschreibung: große, reich verzierte, barocke Basalt-Grabplatte
+GUELTIG_AB: 1664
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 11-feldkirchen+1/008
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Taufstein (Feldkirche)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  material: schwarzer Basalt
+  stil: romanisch
+  lage: Apsis
+GUELTIG_AB: 1150
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 11-feldkirchen+1/009
+ENTITÄT: bauwerk
+BEZEICHNUNG: Gerichtsstätte Feldkirchen
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  beschreibung: alte Gerichtsstätte vor dem heutigen Eingang zur Kirche
+  anlage_form: Dreiviertelkreis
+  mauerwerk: Bruchsteinmauer
+  stelen_anzahl: zwei
+  stelen_material: schwarzer Basalt
+  stelen_höhe: 1,5 m
+  stelen_wappen: Wappen der Grafen zu Wied (Pfau)
+  tisch: achteckig aus Basalt
+  tischbänke: drei aus schwarzem Basalt
+  ursprung_mindestens: 16. Jahrhundert
+  schriftliche_erwähnung: 1316
+  funktion: Hals- oder Hochgericht
+  gerichtsherren: Grafen zu Wied
+GUELTIG_AB: 1316
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 11-feldkirchen+1/010
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Gerichtslinde (Feldkirchen)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  alter: über 400 Jahre
+  funktion: Gerichtsstätte
+  schattenspender: ja
+  ausweisungsstatus: Naturdenkmal
+  märkergericht_veranstaltung: seit 1840 alljährlich am ersten Samstag im September
+  märkergericht_funktion: Hauptversammlung der Märkerschaft Feldkirchen
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 11-feldkirchen+1/011
+ENTITÄT: organisation
+BEZEICHNUNG: Märkerschaft Feldkirchen
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  beschreibung: Waldbau treibende Bürgergemeinschaft
+  dokumentation_erste_erwähnung: 1494 (Märkerweistum)
+  vermutlicher_ursprung: 13./14. Jahrhundert oder früher
+  vermutliche_herkunft: möglicherweise fränkische Landnahme (Frühmittelalter)
+  märkergericht_tagesstätte: Gerichtslinde
+  märkergericht_termin: alljährlich am ersten Samstag im September
+  märkergericht_seit: 1840
+GUELTIG_AB: 1494
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 11-feldkirchen+1/012
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof Feldkirchen
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  ursprung: 7. Jahrhundert (fränkische Reihengräber)
+  kontinuierliche_nutzung: seit Frühmittelalter nachgewiesen
+  umfriedung: Bruchsteinmauer (ursprüngliche Umgebung der Kirche)
+  erweiterung_1815: nach Süden ins Renzental
+  weitere_erweiterungen: 19. und 20. Jahrhundert
+  eigentumsübergang: Stadt Neuwied
+  besonderheit: Lindenalleen unter Naturschutz
+  sarkophag_ausstellung: Garten des Kreismuseums Neuwied
+GUELTIG_AB: 700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 11-feldkirchen+1/013
+ENTITÄT: künstler
+BEZEICHNUNG: Georg Meistermann
+EIGENSCHAFTEN:
+  funktion: Professor
+  institution: Kunsthochschule Düsseldorf
+  werk_feldkirche: Fensterentwürfe (32 Bleiglasfenster)
+  fenster_zeitraum: 1952-1979
+  kunsthistorischer_überblick: umfassende Fortentwicklung seines künstlerischen Schaffens
+GUELTIG_AB: 1952
+GUELTIG_BIS: 1979
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 11-feldkirchen+1/014
+ENTITÄT: künstler
+BEZEICHNUNG: Hans Bernhard Gossel
+EIGENSCHAFTEN:
+  funktion: Glasmalerwerkstatt
+  lage: Schalkenmehlen
+  werk_feldkirche: Ausführung der Meistermann-Fenster
+  zeitraum: 1952-1979
+GUELTIG_AB: 1952
+GUELTIG_BIS: 1979
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 11-feldkirchen+1/015
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gönnersdorf
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  beschreibung: heute Ortsteil des Stadtteils Feldkirchen (nach der Feldkirche benannt)
+  besiedlung_altsteinzeit: eiszeitlicher Siedlungsplatz um 14.000 v. Chr.
+  luftlinie_entfernung: 1,25 km von Feldkirche
+  gründung_gemeinde: 1966 (Zusammenschluss mit anderen Gemeinden zu Feldkirchen)
+GUELTIG_AB: -12000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 11-feldkirchen+1/016
+ENTITÄT: ortsteil
+BEZEICHNUNG: Irlich
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  besiedlung_ab: circa 2000 v. Chr.
+  trennung: um 1630 aus Kirchengemeinde Feldkirchen herausgelöst
+  konfessionsänderung: wieder katholisch und dem Erzbistum Trier einverleibt (um 1630)
+  gründung_gemeinde: 1966 (Zusammenschluss zu Feldkirchen)
+  hinrichtungsstätte: im Flurstück "Auf dem Ebenfeld" wenige hundert Meter entfernt
+  galgenpfad: historischer Weg von der Römerstraße zur Hinrichtungsstätte (in Flurkarten eingezeichnet)
+GUELTIG_AB: -2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 11-feldkirchen+1/017
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wollendorf
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  besiedlung_ab: circa 2000 v. Chr.
+  gründung_gemeinde: 1966 (Zusammenschluss zu Feldkirchen)
+GUELTIG_AB: -2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 11-feldkirchen+1/018
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rodenbach
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  besiedlung_ab: circa 2000 v. Chr.
+  frankenzeit_belegt: ja (durch Bauernfriedhöfe ab 5. Jahrhundert n. Chr.)
+  gründung_gemeinde: 1966 (Zusammenschluss zu Feldkirchen)
+GUELTIG_AB: -2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 11-feldkirchen+1/019
+ENTITÄT: ortsteil
+BEZEICHNUNG: Fahr
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  besiedlung_ab: circa 2000 v. Chr.
+  frankenzeit_belegt: ja (durch Bauernfriedhöfe ab 5. Jahrhundert n. Chr.)
+  rheinseite_lage: rechts des Rheins (zur Gegenüber des Augustinerinnenklosters St. Thomas)
+  ausstattung_kloster: Klosterländereien
+  gründung_gemeinde: 1966 (Zusammenschluss zu Feldkirchen)
+GUELTIG_AB: -2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 11-feldkirchen+1/020
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hüllenberg
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  frankenzeit_belegt: ja (durch Bauernfriedhöfe ab 5. Jahrhundert n. Chr.)
+  gründung_gemeinde: 1966 (Zusammenschluss zu Feldkirchen)
+GUELTIG_AB: 500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 11-feldkirchen+1/021
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rockenfeld
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  gründung_gemeinde: 1966 (Zusammenschluss zu Feldkirchen)
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 11-feldkirchen+1/022
+ENTITÄT: kloster
+BEZEICHNUNG: Augustinerinnenklosters St. Thomas
+EIGENSCHAFTEN:
+  lage: Andernach
+  rheinseite: Andernach-Seite (gegenüber von Fahr und Gönnersdorf)
+  besitztümer: umfangreiche Ländereien in Fahr und Gönnersdorf
+  stiftung: Feldkirche (zwischen 1150 und 1200)
+  stellung_feldkirche: Bauherrin der heutigen Feldkirche
+GUELTIG_AB: 1150
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 11-feldkirchen+1/023
+ENTITÄT: ortschaft
+BEZEICHNUNG: Andernach
+EIGENSCHAFTEN:
+  römischer_name: Antunnacum
+  bedeutung_römerzeit: Rheinübergang
+  römische_verbindung: Heerstraße vom Römerkastell Niederbieber nach Andernach
+  funktion_mittelalter: Klosterlage (Augustinerinnenklosters St. Thomas)
+GUELTIG_AB: 100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 11-feldkirchen+1/024
+ENTITÄT: ort
+BEZEICHNUNG: Leutesdorf
+EIGENSCHAFTEN:
+  pfarrgemeinde_zugehörigkeit: die evangelischen Einwohner gehören bis heute zur Kirchengemeinde Feldkirchen-Altwied (ACK Neuwied)
+  gültig_ab: mittelalter bis modern
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+BERICHTIGT: Die Zugehörigkeit besteht bis heute; nicht in der Vergangenheit nennen.
+---
+ID: 11-feldkirchen+1/025
+ENTITÄT: bauwerk
+BEZEICHNUNG: Römerkastell Niederbieber
+EIGENSCHAFTEN:
+  bedeutung: römischer Ausgangspunkt der Heerstraße (2. Jahrhundert n. Chr.)
+  ziel: Fahrer Lände und weiter über Rheinübergang nach Andernach
+GUELTIG_AB: 100
+GUELTIG_BIS: 300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 11-feldkirchen+1/026
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Fundplatz Gönnersdorf
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  zeitraum: um 14.000 v. Chr. (eiszeitlich)
+  bedeutung: bedeutender eiszeitlicher Siedlungsplatz
+  entfernung_feldkirche: 1,25 km Luftlinie
+GUELTIG_AB: -12000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 11-feldkirchen+1/027
+ENTITÄT: artefakt
+BEZEICHNUNG: Sarkophag (fränkisch, Feldkirche)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  material: Tuffstein
+  zeitraum: um 750 n. Chr. (fränkisch)
+  fundort: Heizungseinbau 1931
+  beschaffenheit: vermauert im Fundament der romanischen Kirche
+  lage_später: drei weitere frühchristliche Gräber im heutigen Chor
+GUELTIG_AB: 750
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 11-feldkirchen+1/028
+ENTITÄT: artefakt
+BEZEICHNUNG: Grabplatte (Sandstein, 10. Jahrhundert)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  material: roter Sandstein
+  zeitraum: 10. Jahrhundert n. Chr.
+  dekoration: mit Bandornamenten verziert
+  erhaltungsstatus: Bruchstück erhalten
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 11-feldkirchen+1/029
+ENTITÄT: artefakt
+BEZEICHNUNG: Grabsteine (Friedhof Feldkirchen)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  material: Basalt und Lahnmarmor
+  zeitraum: ab 16. Jahrhundert
+  lage: Außenmauern der Feldkirche
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 11-feldkirchen+1/030
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Grabgewölbe (Feldkirche)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  material: gemauert
+  größenordnung: unter dem Kirchenboden
+  entdeckung: 1898
+  vermutliches_alter: 17. Jahrhundert
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 11-feldkirchen+1/031
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Limes (obergermanisch-raetisch)
+EIGENSCHAFTEN:
+  lage: auf Höhenrückel oberhalb der Feldkirche
+  zeitraum: spätrömisch
+  besonderheit: noch heute auszumachen
+GUELTIG_AB: 200
+GUELTIG_BIS: 400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 11-feldkirchen+1/032
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Heerstraße (römisch)
+EIGENSCHAFTEN:
+  zeitraum: 2. Jahrhundert n. Chr.
+  verlauf: Römerkastell Niederbieber zur Fahrer Lände und weiter über Rheinübergang nach Andernach
+  teilweise_identisch_mit: heutige Kreisstraße 111
+  lage_feldkirche: wenige Meter von der heutigen Kirche entfernt
+GUELTIG_AB: 100
+GUELTIG_BIS: 300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 11-feldkirchen+1/033
+ENTITÄT: unternehmen
+BEZEICHNUNG: Lohmann
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  lage: unterhalb der Feldkirche
+  geplante_erweiterung: 1980er Jahre
+  bauziel: Fabrikgebäude auf landwirtschaftlichen Flächen neben der Kirche
+  ausgang: Pläne nicht weiter verfolgt nach Protesten
+  umsiedelung: Andernach
+GUELTIG_AB: 1980
+GUELTIG_BIS: 1989
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 11-feldkirchen+1/034
+ENTITÄT: person
+BEZEICHNUNG: August Bungert
+EIGENSCHAFTEN:
+  profession: Komponist
+  geburt: 14. März 1845 in Mülheim an der Ruhr
+  tod: 26. Oktober 1915 in Leutesdorf
+  bestattung: Friedhof Feldkirchen
+GUELTIG_AB: 1845
+GUELTIG_BIS: 1915
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 11-feldkirchen+1/035
+ENTITÄT: person
+BEZEICHNUNG: Hugo Weischet
+EIGENSCHAFTEN:
+  profession: Kunstmaler
+  geburt: 24. September 1897
+  tod: 24. April 1976
+  bestattung: Friedhof Feldkirchen
+GUELTIG_AB: 1897
+GUELTIG_BIS: 1976
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 11-feldkirchen+1/036
+ENTITÄT: person
+BEZEICHNUNG: Otto Buhr
+EIGENSCHAFTEN:
+  profession: Maler und Architekt
+  geburt: 1928
+  tod: 9. November 2003
+  bestattung: Friedhof Feldkirchen
+GUELTIG_AB: 1928
+GUELTIG_BIS: 2003
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 11-feldkirchen+1/037
+ENTITÄT: person
+BEZEICHNUNG: Martha von Laffert
+EIGENSCHAFTEN:
+  profession: Kunstmalerin
+  geburt: 4. Juli 1883 in Lennep
+  tod: 11. Juni 1966 in Leutesdorf
+  bestattung: Friedhof Feldkirchen
+GUELTIG_AB: 1883
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 11-feldkirchen+1/038
+ENTITÄT: person
+BEZEICHNUNG: Karl Theodor Reck
+EIGENSCHAFTEN:
+  profession: Pfarrer in Feldkirchen und Dichter
+  geburt: 19. März 1815 in Neuwied
+  tod: 31. Juli 1873 in Feldkirchen
+  werk: Dichter des "Moselliedes" (in Musik gesetzt von Georg Schmitt)
+  bestattung: Friedhof Feldkirchen
+GUELTIG_AB: 1815
+GUELTIG_BIS: 1873
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 11-feldkirchen+1/039
+ENTITÄT: person
+BEZEICHNUNG: Georg Schmitt
+EIGENSCHAFTEN:
+  profession: Komponist
+  werk: Vertonung des "Moselliedes" (Gedicht von Karl Theodor Reck)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 11-feldkirchen+1/040
+ENTITÄT: person
+BEZEICHNUNG: Hermann von Wied
+EIGENSCHAFTEN:
+  titel: Graf, Kurfürst und Erzbischof von Köln
+  funktion: Reformator
+  besonderheit: Übertritt zur Reformation unter Einfluss des Straßburger Reformators Martin Butzer
+  wohnort: Burg Altwied
+  tod_folge: nach seinem Tod trat sein Neffe Johann IV. die Nachfolge an
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1546
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 11-feldkirchen+1/041
+ENTITÄT: person
+BEZEICHNUNG: Johann IV. von Wied
+EIGENSCHAFTEN:
+  titel: Graf, Neffe von Hermann von Wied
+  funktion: Reformator der Grafschaft Wied
+  bekenntnis: öffentliches Bekenntnis zur Confessio Augustana
+  reformationszeit: 1542-1546
+  konflikte: mit Erzbistümern Trier und Köln
+GUELTIG_AB: 1542
+GUELTIG_BIS: 1546
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 11-feldkirchen+1/042
+ENTITÄT: person
+BEZEICHNUNG: Ludwig Luitzgin (genannt von Northofen)
+EIGENSCHAFTEN:
+  titel: Kirchherr zu Veltkirgen
+  funktion: erster evangelischer Pfarrer in der Feldkirche (vermutlich)
+  erwähnung: Gerichtsurkunde von 1552
+GUELTIG_AB: 1552
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 11-feldkirchen+1/043
+ENTITÄT: person
+BEZEICHNUNG: Friedrich zu Wied
+EIGENSCHAFTEN:
+  titel: regiender Graf
+  anordnung: Führung neuer Kirchenregister (1655)
+  grund: Verlust der Kirchenbücher in den Wirren des Dreißigjährigen Krieges
+GUELTIG_AB: 1655
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 11-feldkirchen+1/044
+ENTITÄT: person
+BEZEICHNUNG: Mathias Kreckel
+EIGENSCHAFTEN:
+  titel: Schultheiß
+  tod: 22. April 1664
+  nachwirkung: Basalt-Grabplatte als Abendmahltisch in der Feldkirche verwendet
+GUELTIG_AB: 1600
+GUELTIG_BIS: 1664
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 11-feldkirchen+1/045
+ENTITÄT: person
+BEZEICHNUNG: Sabine Paganetti
+EIGENSCHAFTEN:
+  funktion: Leitung der Kirchenmusik an der Feldkirche
+  organisation: zahlreiche Chöre und Musikgruppen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 11-feldkirchen+1/046
+ENTITÄT: person
+BEZEICHNUNG: Martin Butzer
+EIGENSCHAFTEN:
+  titel: Straßburger Reformator
+  einfluss: auf Hermann von Wied
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 11-feldkirchen+1/047
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Kantorei (Feldkirche)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  leitung: Sabine Paganetti
+  besonderheit: Teil der reichhaltigen Kirchenmusik an der Feldkirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 11-feldkirchen+1/048
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Kinder- und Jugendkantorei (Feldkirche)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  leitung: Sabine Paganetti
+  besonderheit: Teil der reichhaltigen Kirchenmusik an der Feldkirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 11-feldkirchen+1/049
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Seniorenkantorei (Feldkirche)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  leitung: Sabine Paganetti
+  besonderheit: Teil der reichhaltigen Kirchenmusik an der Feldkirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 11-feldkirchen+1/050
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Blechbläserkreis (Feldkirche)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  leitung: Sabine Paganetti
+  besonderheit: Teil der reichhaltigen Kirchenmusik an der Feldkirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 11-feldkirchen+1/051
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Blockflötenensemble (Feldkirche)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  leitung: Sabine Paganetti
+  besonderheit: Teil der reichhaltigen Kirchenmusik an der Feldkirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 11-feldkirchen+1/052
+ENTITÄT: sage
+BEZEICHNUNG: Gründungssage der Feldkirche
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  beschreibung: "Ursprünglich sei der Bau einer steinernen Kirche in Irlich beabsichtigt gewesen. Die Ochsen der ersten, mit Bruchsteinen beladenen Wagen hätten jedoch an der Stelle der heutigen Feldkirche den Dienst verweigert. Man habe dies als ein göttliches Zeichen angesehen, den Bau an dieser Stelle zu beginnen."
+  herkunft: tradierte Sage
+  genauigkeit: vermutlich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 11-feldkirchen+1/053
+ENTITÄT: ereignis
+BEZEICHNUNG: Bombardement Feldkirche
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  zeitpunkt: Dezember 1944
+  schäden: Chorraum zerstört, Schäden am Dach und Innenraum
+  folge: Bausicherung ab 1948, Außenrestaurierung 1948-1952
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 11-feldkirchen+1/054
+ENTITÄT: ereignis
+BEZEICHNUNG: Innenrestaurierung Feldkirche
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  zeitraum: 1975-1978
+  maßnahme: Innenrestaurierung und Ausmalung des Kirchenraums nach Resten der Originalbemalung aus dem 13. Jahrhundert
+GUELTIG_AB: 1975
+GUELTIG_BIS: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 11-feldkirchen+1/055
+ENTITÄT: ereignis
+BEZEICHNUNG: Kirchenordnung Neuwied
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  jahr: 1707
+  lage: Residenzstadt Neuwied
+  inhalt: regelt die Pflichten der Seelsorger, des Presbyteriums und der Gemeindemitglieder detailliert
+GUELTIG_AB: 1707
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 11-feldkirchen+1/056
+ENTITÄT: ereignis
+BEZEICHNUNG: Gemeindereform
+EIGENSCHAFTEN:
+  ort: Feldkirchen
+  jahr: 1970
+  folge: Feldkirchen verliert eigenständige politische Gemeinde-Stellung
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 11-feldkirchen+1/057
+ENTITÄT: ereignis
+BEZEICHNUNG: Truchsessischer Krieg
+EIGENSCHAFTEN:
+  folge: Pfarrhaus 1583 "in Grund und Boden" abgebrannt
+  zeitraum: 16. Jahrhundert
+GUELTIG_AB: 1580
+GUELTIG_BIS: 1585
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 11-feldkirchen+1/058
+ENTITÄT: ereignis
+BEZEICHNUNG: Dreißigjähriger Krieg
+EIGENSCHAFTEN:
+  auswirkung_feldkirchen: keine detaillierten Aufzeichnungen, aber Schreckenszeit vermutet
+  spezialfolge_um1630: Dorf Irlich aus der Kirchengemeinde Feldkirchen herausgelöst und wieder katholisch
+  konkretfolge: Kirchenbücher verloren
+GUELTIG_AB: 1630
+GUELTIG_BIS: 1655
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75

@@ -1,0 +1,81 @@
+ENTITÄT: ortsteil
+BEZEICHNUNG: Fahr
+EIGENSCHAFTEN:
+  ersterwahnung_jahr: 1152
+  ersterwahnung_form: Flussübergangsstelle
+  kloster_erwerb_jahr: 1192
+  genauigkeit_kloster_erwerb_jahr: ca.
+  kloster: Kloster St. Thomas in Andernach
+  kloster_besitz: Weingärten und Äcker
+  kloster_ortsname: Vare
+GUELTIG_AB: 1152
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gönnersdorf
+EIGENSCHAFTEN:
+  vorzeitliche_besiedlung: ja
+  archaeologische_funde_jahr: 1906
+  archaeologische_funde: fränkisches Gräberfeld
+  mittelalter_quellenlage: spärlich
+  dorfname_herkunft: von fränkischem Urfreien mit Namen althochdeutsch (ahd.) Gunther oder modern Günther
+  genauigkeit_dorfname_herkunft: vermutlich
+  hofrest: Beunehof
+  hofrest_beschreibung: letztes Gebäude vom Hof
+  eigentuemerschaft_status: zu Rittern geadelt
+  verwandtschaftliche_beziehung: eng verwandt und verschwägert mit den Burggrafen von Hammerstein
+  burg_erbe: Burg Hammerstein geerbt nach Aussterben der Familie
+  adelsgeschlecht_herkunft: Freiherren von Hammerstein stammen mutmaßlich aus Gönnersdorf
+  genauigkeit_adelsgeschlecht_herkunft: mutmaßlich
+GUELTIG_AB: (vorzeitlich, unbekannt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hüllenberg
+EIGENSCHAFTEN:
+  ersterwahnung_jahr: 1280
+  ersterwahnung_quelle: Protokoll über Gründung und Patronat der Feldkirche
+  fruehere_zugehoerigkeit: Teil von Gönnersdorf
+  fruehere_zugehoerigkeit_dauer: jahrhundertelang
+  genauigkeit_fruhere_zugehoerigkeit: wohl
+  selbststaendigkeit_ab_jahr: 1480
+  genauigkeit_selbststaendigkeit_ab_jahr: Ende der
+GUELTIG_AB: 1280
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rockenfeld
+EIGENSCHAFTEN:
+  ersterwahnung_jahr: 1280
+  ersterwahnung_name: Rukenvelt
+  namensherkunft: Lage auf dem ersten Höhenrücken zwischen Rhein und Westerwald
+  trennung_gönnersdorf_jahr: 1693
+  aufloesungsjahe: 1965
+  grund_aufloesungen: stetiger Abwanderung der Einwohner
+  status_heute: Wüstung
+  familiennamen: Rockenfeller und Rockefeller
+GUELTIG_AB: 1280
+GUELTIG_BIS: 1965
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wollendorf
+EIGENSCHAFTEN:
+  fruehe_besiedlung: ja
+  archaeologische_funde: Bronze-, Römer- und Frankenzeit
+  ersterwahnung_jahr: 1263
+  namensherkunft: von Urfreien namens Wulf oder modern Wolf
+  genauigkeit_namensherkunft: mit an Sicherheit grenzender Wahrscheinlichkeit
+  adel_nachkommen: Nachkommen zu Rittern geadelt
+  genauigkeit_adel_nachkommen: mutmaßlich
+  burg_ursprung: Entwicklung aus dem Hof des Urfreien
+  burg_erhalt_status_heute: heute noch in Teilen erhalten
+  burg_name: Burg von Wollendorf
+  namensschreibweisen_historisch: Wolfendorf, Wolpendorf, Wollendorf (heutig)
+GUELTIG_AB: 1263
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

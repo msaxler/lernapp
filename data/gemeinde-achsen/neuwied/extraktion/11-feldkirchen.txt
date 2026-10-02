@@ -1,0 +1,408 @@
+ENTITÄT: ort
+BEZEICHNUNG: Feldkirchen
+EIGENSCHAFTEN:
+  ist_stadtteil: true
+  ort_übergeordnet: Neuwied
+  bundesland: Rheinland-Pfalz
+  lage: Westen der Stadt Neuwied direkt am Rhein
+  gegenüber_von: Andernach
+  nachbar_nordwestlich: Leutesdorf
+  nachbar_östlich: Irlich
+  naturpark_randlage: Naturpark Rhein-Westerwald
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Fahr
+ORTSTEIL_BEZUG: Feldkirchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gönnersdorf
+ORTSTEIL_BEZUG: Feldkirchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hüllenberg
+ORTSTEIL_BEZUG: Feldkirchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wollendorf
+ORTSTEIL_BEZUG: Feldkirchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wüst_gefallene_gemarkung
+BEZEICHNUNG: Rockenfeld
+ORTSTEIL_BEZUG: Feldkirchen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wohnplatz
+BEZEICHNUNG: Gebranntehof
+ORTSTEIL_BEZUG: Feldkirchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: siedlung
+BEZEICHNUNG: Eiszeitliche Siedlung Gönnersdorf
+ORTSTEIL_BEZUG: Gönnersdorf
+EIGENSCHAFTEN:
+  zeitstellung: Späteiszeit
+  datierung: ca. 13.500 v.Chr.
+  datierungsgenauigkeit: ca.
+  entdeckung_jahr: 1968
+  entdeckung_anlass: Aushubarbeiten für Einfamilienhaus
+  ausgrabungsleiter: Gerhard Bosinski
+  ausgrabungsfläche: 650 m²
+  behausungen: zwei kleinere Rundzelte und drei größere fellbedeckte Behausungen
+  tierknochen_arten: Mammut, Wildpferd, Wisent, Ur, Ren, Hirsch, Polarfuchs
+  artefakte: Werkzeuge aus verschiedenem Gestein, Schmuck, Schieferplättchen mit eingeritzten Zeichnungen
+  superlativ: archäologische Sensation
+GUELTIG_AB: -13500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Monrepos Archäologisches Forschungszentrum und Museum für menschliche Verhaltensevolution
+ORTSTEIL_BEZUG: Segendorf
+EIGENSCHAFTEN:
+  vorgängername: Museum für die Archäologie des Eiszeitalters
+  träger: Außenstelle des Römisch-Germanischen Zentralmuseums (Leibniz-Forschungsinstitut für Archäologie)
+  gebäude: Villa Waldheim
+  früherer_standort: Schwedenhaus Monrepos
+  fokus_sammlung: Funde der eiszeitlichen Siedlung Gönnersdorf
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: grenzwall
+BEZEICHNUNG: Obergermanischer Limes
+EIGENSCHAFTEN:
+  zeitstellung: Römische Zeit
+  zeitraum_von: Ende 1. Jahrhundert
+  zeitraum_bis: Mitte 3. Jahrhundert
+  funktion: Grenze zwischen Imperium Romanum und Germania magna
+  verlauf_ortsteile: Wollendorf, Hüllenberg, Gönnersdorf
+  komponenten: Wall, Graben, Wachtürme
+  erschliessung: Limeswanderweg
+GUELTIG_AB: 1
+GUELTIG_BIS: 250
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kastell
+BEZEICHNUNG: Kleinkastell Am Forsthofweg
+EIGENSCHAFTEN:
+  zugehörigkeit_limes: Obergermanischer Limes
+  lage_relativ: etwa 500 m südlich von Rockenfeld
+  lage_detail: auf Hammersteiner Gemarkung
+GUELTIG_AB: 1
+GUELTIG_BIS: 250
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wachtturm
+BEZEICHNUNG: Wp 1/17
+EIGENSCHAFTEN:
+  limes: Obergermanischer Limes
+  erhaltung: deutlich im Gelände erkennbar
+GUELTIG_AB: 1
+GUELTIG_BIS: 250
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: wachtturm
+BEZEICHNUNG: Wp 1/18
+EIGENSCHAFTEN:
+  limes: Obergermanischer Limes
+  erhaltung: deutlich im Gelände erkennbar
+GUELTIG_AB: 1
+GUELTIG_BIS: 250
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: wachtturm
+BEZEICHNUNG: Wp 1/19
+EIGENSCHAFTEN:
+  limes: Obergermanischer Limes
+  erhaltung: deutlich im Gelände erkennbar
+GUELTIG_AB: 1
+GUELTIG_BIS: 250
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: wachtturm
+BEZEICHNUNG: Wp 1/20
+EIGENSCHAFTEN:
+  limes: Obergermanischer Limes
+  erhaltung: deutlich im Gelände erkennbar
+GUELTIG_AB: 1
+GUELTIG_BIS: 250
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: wachtturm
+BEZEICHNUNG: Wp 1/21
+EIGENSCHAFTEN:
+  limes: Obergermanischer Limes
+  lage_detail: westlich des Gebranntehofs
+  erhaltung: im Gelände erkennbar auf wenigen hundert Metern
+GUELTIG_AB: 1
+GUELTIG_BIS: 250
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: wachtturm
+BEZEICHNUNG: Wp 1/22
+EIGENSCHAFTEN:
+  limes: Obergermanischer Limes
+  lage_detail: westlich des Gebranntehofs
+  erhaltung: im Gelände erkennbar auf wenigen hundert Metern
+GUELTIG_AB: 1
+GUELTIG_BIS: 250
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: gemeindereform
+BEZEICHNUNG: Eingemeindung Feldkirchen 1966
+EIGENSCHAFTEN:
+  gemeinden_fusioniert: Fahr, Gönnersdorf, Hüllenberg, Rockenfeld, Wollendorf
+  beschluss_gemeinderat: Mai 1966
+  verfahren: Mehrheitsbeschluss einzelner Gemeinderäte
+  verfügung_behörde: Bezirksregierung Koblenz
+  wirksam_ab: 1. August 1966
+  neue_gemeindebezeichnung: Feldkirchen
+  namenswahl: historischer Name
+  begründung: Großgemeinde
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: administrativer_verband
+BEZEICHNUNG: Amt Niederbieber-Segendorf
+EIGENSCHAFTEN:
+  zugehörige_gemeinde: Feldkirchen
+  nachfolger: Verbandsgemeinde Niederbieber-Segendorf
+GUELTIG_AB: 1966
+GUELTIG_BIS: 1967
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: verbandsgemeinde
+BEZEICHNUNG: Verbandsgemeinde Niederbieber-Segendorf
+EIGENSCHAFTEN:
+  zugehörige_gemeinde: Feldkirchen
+  vorgänger: Amt Niederbieber-Segendorf
+GUELTIG_AB: 1968
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: verwaltungsreform
+BEZEICHNUNG: Verwaltungsreform Rheinland-Pfalz 1970
+EIGENSCHAFTEN:
+  gesetzgebung: Beschluss Landtag Rheinland-Pfalz
+  beschlussdatum: 13. Juli 1970
+  wirksam_ab: 7. November 1970
+  folge_feldkirchen: Feldkirchen wird aufgelöst und in neugebildete Stadt Neuwied integriert
+  betroffene_gemeinde: Feldkirchen und umliegende Gemeinden
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtrat_beschluss
+BEZEICHNUNG: Umwandlung Feldkirchen zu Stadtteil 1971
+EIGENSCHAFTEN:
+  datum: 22. Januar 1971
+  beschluss_quelle: Stadtrat Neuwied
+  neuer_status: Feldkirchen wird Stadtteil von Neuwied
+  vertretungsorgane: Ortsbeirat und Ortsvorsteher
+  ortsbezeichnungen_erhalten: Fahr, Gönnersdorf, Hüllenberg, Wollendorf, Rockenfeld
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsbeirat
+BEZEICHNUNG: Ortsbeirat Feldkirchen
+EIGENSCHAFTEN:
+  anzahl_mitglieder: 8
+  wahlform: Mehrheitswahl
+  wahltermin: 9. Juni 2024
+  vorsitz: Ortsvorsteherin (ehrenamtlich)
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ortsvorsteher
+BEZEICHNUNG: Simone Schuh
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  partei: WGS (Wählergruppe Schuh e.V.)
+  amtsantritt_jahr: 2014
+  status: Ortsvorsteherin
+  amtscharakter: ehrenamtlich
+  wahltermin: 9. Juni 2024
+  wiederwahlzustimmung_prozent: 82,4
+  mitbewerberzahl: 0 (einzige Bewerberin)
+  amtsperiode: fünf Jahre
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: villa
+BEZEICHNUNG: Haus Friedrichstein
+ORTSTEIL_BEZUG: Fahr
+EIGENSCHAFTEN:
+  typus: Landvilla
+  baujahr: 1847
+  bauherr: Geheimrat Dr. jur. August von Röntgen
+  bauherr_verwandtschaft: zweiter Sohn des Kunstschreiners David Roentgen
+  zugang_öffentlichkeit: für die Öffentlichkeit nicht zugänglich
+  künstler_epoche: Roentgen-Möbelkunst des 18./19. Jh.
+GUELTIG_AB: 1847
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: wohnhaus
+BEZEICHNUNG: Rheinische Haus
+ORTSTEIL_BEZUG: Fahr
+EIGENSCHAFTEN:
+  baustil: Fachwerkbau
+  baujahr: 1584
+  besonderheit_konstruktion: komplizierte Konstruktion über steinernem Untergeschoss
+  detail: breites Tor neben dem Hauseingang
+  superlativ: ältestes bestehende Haus im Ortsteil Fahr
+GUELTIG_AB: 1584
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Feldkirche
+ORTSTEIL_BEZUG: Wollendorf
+EIGENSCHAFTEN:
+  baustil: spätromanisch
+  bedeutung_regional: historisch bedeutsame Kirche am Mittelrhein
+  superlativ: eine der ältesten Kirchen im heutigen Stadtgebiet von Neuwied
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burg Wollendorf
+ORTSTEIL_BEZUG: Wollendorf
+EIGENSCHAFTEN:
+  beschreibung: burgartig befestigter Herrensitz
+  erhaltung: Reste aus dem Mittelalter erhalten
+  grundlagen_alter: Grundmauern und Kellergewölbe
+  grundlagen_datierung: aus dem 11. oder 12. Jahrhundert
+  grundlagen_datierung_genauigkeit: sollen aus
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Heimat- und Verschönerungsverein Feldkirchen
+ORTSTEIL_BEZUG: Feldkirchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Gerhard Bosinski
+EIGENSCHAFTEN:
+  beruf: Archäologe
+  tätigkeit: Ausgrabungsleiter
+  ausgrabung: eiszeitliche Siedlung Gönnersdorf
+  ausgrabungsjahr: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: David Roentgen
+EIGENSCHAFTEN:
+  profession: Kunstschreiner
+  beschreibung: berühmter Kunstschreiner
+  lebensdaten: 1743–1807
+  nachkomme: Sohn August von Röntgen
+  kulturelle_bedeutung: Begründer der Roentgen-Möbelkunst
+GUELTIG_AB: 1743
+GUELTIG_BIS: 1807
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Limeswanderweg
+EIGENSCHAFTEN:
+  bezug: Obergermanischer Limes
+  erschliessung: Archäologische Spuren des Limes
+  ortsteile: Wollendorf, Hüllenberg, Gönnersdorf
+  sehenswerte_objekte: Wall und Graben des Limes, Wachtürme
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

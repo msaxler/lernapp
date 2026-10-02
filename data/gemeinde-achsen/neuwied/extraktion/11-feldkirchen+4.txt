@@ -1,0 +1,70 @@
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rockenfeld
+EIGENSCHAFTEN:
+  gemarkung: ja
+  wuestung: ja
+  hoehe_m_ueber_nn: 330
+  topographie: Höhenzug zwischen Rockenfelder Bach (Westen) und Zufluss des Nonnenbachs (Osten)
+  grenzen_oestlich: Forst Wied
+  strasse_verbindung: Kreisstraße 1 nach Rheinbrohl
+  entfernung_rheintal_km: 8
+  limes_naehe: ja
+  archaeologische_befunde: Römisches Kleinkastell Am Forsthofweg, wenige hundert Meter entfernt, deuten auf frühe Besiedlung
+  fruehe_besiedlung_hinweis: Nähe zum Limes (Römische Reich) und Reste des römischen Kleinkastells
+  historische_besitzer: Burggrafen von Hammerstein, Kurfürstentum Trier, Grafenhaus Wied, Kloster St. Thomas
+  genauigkeit_historische_besitzer: wird berichtet
+  ersterwahnung_jahr: 1280
+  ersterwahnung_name: Rukenvelt
+  namensherkunft: Lage auf dem ersten Höhenrücken zwischen Rhein und Westerwald
+  gehoert_zu_gönnersdorf_bis_jahr: 1693
+  bevoelkerung_1846: 11 Familien
+  schule_eroeffnungsjahr: 1885
+  schule_schliessungsjahr: 1935
+  bevoelkerung_1945_post: ca. 50 Menschen
+  genauigkeit_bevoelkerung_1945_post: unmittelbar nach dem Zweiten Weltkrieg
+  gemeinderat_aufloesungsjahr: 1965
+  grund_aufloesungen: stetiger Abwanderung
+  haeuser_abbrand_jahr: 1969
+  haeuser_abbrand_handlung: verlassene Häuser und Höfe von der Feuerwehr abgebrannt
+  letztes_haus_abgerissen_jahr: 1995
+  naturpark: Naturpark Rhein-Westerwald
+  ueberreste_2023: Ehrenmal (1962–63) und Gedenkstein
+  status_2023: verlassener Ort
+  familiennamen_herkunft: Rockenfeller und Rockefeller
+GUELTIG_AB: 1280
+GUELTIG_BIS: 1995
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Rockenfelder Kirmes
+ORTSTEIL_BEZUG: Rockenfeld
+EIGENSCHAFTEN:
+  tradition_seit_jahe: 1990er Jahre
+  termin: 1. Mai
+  organisator: Junggesellenverein Rheinbrohl
+  programm: Getränke, Würstchen, Steaks, Erbsensuppe
+  publikum: Wanderer und Radfahrer
+  publikum_bewertung: besonders beliebt bei ihnen
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: denkmal
+BEZEICHNUNG: Ehrenmal Rockenfeld
+ORTSTEIL_BEZUG: Rockenfeld
+EIGENSCHAFTEN:
+  erbauungsjahre: 1962-1963
+  status_2023: vorhanden, einer der Überreste des Ortes
+GUELTIG_AB: 1962
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: denkmal
+BEZEICHNUNG: Gedenkstein Rockenfeld
+ORTSTEIL_BEZUG: Rockenfeld
+EIGENSCHAFTEN:
+  status_2023: vorhanden, einer der einzigen Überreste des Ortes
+GUELTIG_AB: (unbekannt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

@@ -1,0 +1,433 @@
+ENTITÄT: organisation
+BEZEICHNUNG: Heimat- und Verschönerungsverein Feldkirchen e. V. (HVVF)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  registereintrag: Amtsgericht Montabaur Register-Nr. 6 VR 10092
+  aufgaben_satzung: Kultur, Sport und Heimatforschung in Feldkirchen
+  betreuung: große Teile des Rheinsteigs
+  gründung_datum: 10. Februar 1895
+  gründer: Carl Moskopf (Fahr) und Lehrer Vollmar (Hüllenberg)
+  ursprüngliche_aufgaben: "Pflege und Förderung des Fremdenverkehrs und Verschönerung im Kirchspiel Feldkirchen"
+  umbenennungen: 1929 in "Verkehrs- und Verschönerungsverein", 1957 wieder "Verkehrs- und Verschönerungsverein Feldkirchen", 1998 "Heimat- und Verschönerungsverein Feldkirchen e. V."
+  finanzierung: jährlicher Betrag von der Stadt (verteilt an Einzelvereine)
+  mitarbeiter: ehrenamtlich
+  arbeitsschwerpunkte: Wegebetreuung, Schutzhütten, Bänke, Wege, Initiative für altersgerechtes Wohnen
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Rheinsteig
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  betreuung_durch: Heimat- und Verschönerungsverein Feldkirchen
+  große_teile_betroffen: ja
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Deichstadtweg
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  beschreibung: Zugangsweg zum Rheinsteig
+  vorprojektierung_durch: Heimat- und Verschönerungsverein Feldkirchen
+  verlauf: zwischen Schloss Engers und dem Rheinsteig auf dem Thüringen-Rhein-Wanderweg
+  entfernung: Schloss Engers bis Rheinsteig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Thüringen-Rhein-Wanderweg
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  verlauf: zwischen Schloss Engers und Rheinsteig verläuft der Deichstadtweg darauf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Aussichtspunkt Hüllenberg
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  lage: Anfang Hüllenbergs
+  ausstattung: Springbrunnen und Ruhebänke
+  anlage: Bald nach Gründung des Vereins 1895
+  anlage_zeitpunkt: von 1895 bis 1903
+  erhalt: ja
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schutzhütte am Kappel
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  erbauung: 1903
+  bauherr: Heimat- und Verschönerungsverein Feldkirchen
+  warten_durch: Einzelvereine (ehrenamtlich)
+GUELTIG_AB: 1903
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Grotte (Springbrunnen Hüllenberg)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  lage: am Springbrunnen in Hüllenberg
+  erbauung: 1904
+  bauherr: Heimat- und Verschönerungsverein Feldkirchen
+  größe: klein
+GUELTIG_AB: 1904
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Kehlbachtal-Weg
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  wegebau_start: 1911
+  finanzierung_start: aus eigener Kasse des Vereins
+  schutzhütte_am_lindenbäumchen: 1911 errichtet
+  fortführung_bis_langenspitz: 1913
+GUELTIG_AB: 1911
+GUELTIG_BIS: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Tempelchen (Kehlbachtal)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  lage: Kehlbachtal
+  erbauung: 1929
+  einweihung: 1929
+  bauherr: Heimat- und Verschönerungsverein Feldkirchen
+GUELTIG_AB: 1929
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Waldschwimmbad Kehl
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  lage: Kehl
+  anlage: 1954
+  bauherr: Heimat- und Verschönerungsverein Feldkirchen
+GUELTIG_AB: 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Freigehege im Höstert (Tierpark)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  lage: Höstert
+  anlage: 1955
+  bauherr: Heimat- und Verschönerungsverein Feldkirchen
+  funktion: Tierpark
+GUELTIG_AB: 1955
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Schoppenweg
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  beschreibung: Verbindungsweg zwischen Leutesdorf und Feldkirchen
+  übergabe_durch: VV Leutesdorf
+  übergabejahr: 1994
+  übernahme_durch: Heimat- und Verschönerungsverein Feldkirchen
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: organisation
+BEZEICHNUNG: Ortsbeirat Feldkirchen
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  mitwirkung: Initiative "In der Heimat (Feldkirchen) alt werden dürfen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: organisation
+BEZEICHNUNG: Seniorenbeirat der Stadt Neuwied
+EIGENSCHAFTEN:
+  mitwirkung: Initiative "In der Heimat (Feldkirchen) alt werden dürfen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: organisation
+BEZEICHNUNG: Arbeiterwohlfahrt Feldkirchen
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  mitwirkung: Initiative "In der Heimat (Feldkirchen) alt werden dürfen"
+  seniorenbegegnungsstätte: ja
+  veranstaltungen_vorher: Sitzungen oder monatliche Sprechstunden des Ortsbeirats
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Amtsgericht Montabaur
+EIGENSCHAFTEN:
+  aufgabe: Zuständig für Vereinsregistrierung in Neuwied
+  registerung_hvvf: Register-Nr. 6 VR 10092
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Carl Moskopf
+ORTSTEIL_BEZUG: Fahr
+EIGENSCHAFTEN:
+  herkunftsort: Fahr
+  funktion: Mitgründer des Heimat- und Verschönerungsvereins Feldkirchen
+  gründungsjahr: 10. Februar 1895
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Vollmar
+ORTSTEIL_BEZUG: Hüllenberg
+EIGENSCHAFTEN:
+  herkunftsort: Hüllenberg
+  beruf: Lehrer
+  funktion: Mitgründer des Heimat- und Verschönerungsvereins Feldkirchen
+  gründungsjahr: 10. Februar 1895
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Friedel-Wulf Kupfer
+EIGENSCHAFTEN:
+  rolle: Autor von Vereinsbroschüren
+  werke: "105 Jahre Heimat- und Verschönerungsverein Feldkirchen am Rhein: anno 1895–2000"
+  veröffentlichung: 10. Februar 2005 in Rhein-Zeitung Neuwied
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Bruno Zeitz
+EIGENSCHAFTEN:
+  rolle: Autor von Vereinsbroschüren
+  werk: "Karl-Marx-Strasse No 33 oder Ein Haus hat Geburtstag: anno 1701–2001"
+  veröffentlichung: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Hugo Weischet
+EIGENSCHAFTEN:
+  beruf: Maler
+  grabstätte_ankauf: 1997
+  grabstätte_neugestaltung: 1997
+  werksausstellung: 1997 anlässlich seines 100-jährigen Geburtstages
+  geburtsjahr: 1897 (100 Jahre Jubiläum 1997)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Gründung Heimat- und Verschönerungsverein Feldkirchen
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  datum: 10. Februar 1895
+  initiatoren: Carl Moskopf (Fahr) und Lehrer Vollmar (Hüllenberg)
+  ursprüngliche_aufgaben: "Pflege und Förderung des Fremdenverkehrs und Verschönerung im Kirchspiel Feldkirchen"
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Umbenennungsveranstaltung des Vereins (1929)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  vorheriger_name: Heimat- und Verschönerungsverein Feldkirchen e. V.
+  neuer_name: Verkehrs- und Verschönerungsverein
+  anlass: Einweihung Tempelchen
+  jahr: 1929
+GUELTIG_AB: 1929
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Wiederumbenennung des Vereins (1957)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  name: Verkehrs- und Verschönerungsverein Feldkirchen
+  seit: 1957
+  grund: Rückkehr zum alten Namen nach Variationen
+GUELTIG_AB: 1957
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Namenswechsel Verein (1998)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  neuer_name: Heimat- und Verschönerungsverein Feldkirchen e. V.
+  jahr: 1998
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Vergütung Wegebau (erste Vergütung)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  jahr: 1968
+  beschreibung: Wegebau wird erstmals vergütet (vorher ehrenamtlich)
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: 100-jähriges Jubiläum des HVVF
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  jahr: 1995 (100 Jahre nach 1895)
+  baumpflanzung: vier Bäume auf dem alten Sportplatz
+  gedenkschrift: "100 Jahre 1895–1995 HEIMAT-,VERKEHRS- UND VERSCHÖNERUNGSVEREIN FELDKIRCHEN AM RHEIN" (Autor: Friedel-Wulf Kupfer)
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: 100. Geburtstag Hugo Weischet (Ausstellung)
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  jahr: 1997
+  maßnahmen: Ankauf und Neugestaltung der Grabstätte des Malers Hugo Weischet
+  ausstellung: Werke von Hugo Weischet
+  anlass: 100 Jahre Geburtstag (1897 + 100 = 1997)
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Initiative "In der Heimat (Feldkirchen) alt werden dürfen"
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  initiator: Heimat- und Verschönerungsverein Feldkirchen
+  ziel: Unterstützung für Bürger, um in ihren Häusern bis zum Ende wohnen zu bleiben
+  kooperation: Verein zur Gründung und Betreibung von Gemeinschaftlichem Wohnen
+  mitwirkende: Ortsbeirat Feldkirchen, Seniorenbeirat der Stadt Neuwied, Arbeiterwohlfahrt Feldkirchen
+  veranstaltungsorte: Seniorenbegegnungsstätte der Arbeiterwohlfahrt (vor Sitzungen oder monatliche Sprechstunden des Ortsbeirats)
+  unterstützung_land: Ministerium für Soziales, Arbeit, Gesundheit und Demografie (in Rheinland-Pfalz)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: broschüre
+BEZEICHNUNG: "105 Jahre Heimat- und Verschönerungsverein Feldkirchen am Rhein: anno 1895–2000"
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  autor: Friedel-Wulf Kupfer
+  zeitraum_inhalt: 1895-2000
+  veröffentlichung: 2001 (ca.)
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: broschüre
+BEZEICHNUNG: "Karl-Marx-Strasse No 33 oder Ein Haus hat Geburtstag: anno 1701–2001"
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  autor: Bruno Zeitz
+  zeitraum_inhalt: 1701-2001
+  veröffentlichung: 2001
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Haus Karl-Marx-Strasse No 33
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  erbauungsjahr: 1701
+  besonderheit: Gegenstand einer Dokumentation von Bruno Zeitz
+  dokumentation_zeitraum: 1701-2001
+GUELTIG_AB: 1701
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Schloss Engers
+EIGENSCHAFTEN:
+  bedeutung: Referenzpunkt für Deichstadtweg-Verlauf
+  geografische_bezug: nahe Feldkirchen am Rhein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Sportplatz (alt) Feldkirchen
+ORTSTEIL_BEZUG: Feldkirchen
+EIGENSCHAFTEN:
+  nutzung_100jähriges_jubiläum: Baumpflanzung durch HVVF (vier Bäume)
+  ereignis_jahr: 1995
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75

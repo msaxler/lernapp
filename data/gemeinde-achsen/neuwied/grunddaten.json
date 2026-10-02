@@ -188,6 +188,7 @@
   "Bad Hönningen: hoehe_m 65 (Wikidata P2044) gegen 69 (Altbestand staedte.json)",
   "Bad Hönningen: hoehe_m 65 (Wikidata P2044) gegen 69 (Altbestand geo.sqlite (GeoNames 2953434))",
   "Leutesdorf: hoehe_m 75 (Wikidata P2044) gegen 58 (Altbestand geo.sqlite (GeoNames 2878284))",
+  "Feldkirchen: hoehe_m 115 (Wikidata P2044) gegen 109 (Altbestand geo.sqlite (GeoNames 3207705))",
   "Kirchberg: Briefwahl nur auf Ebene der Verbandsgemeinde Kirchberg (Hunsrück); Wahlergebnis gilt für die Verbandsgemeinde",
   "Kirchberg: staedte.json führt den Namen mit Koordinaten 371 km entfernt",
   "Gerolstein: Briefwahl nur auf Ebene der Verbandsgemeinde Gerolstein; Wahlergebnis gilt für die Verbandsgemeinde",
@@ -1794,6 +1795,139 @@
       "quelle": "dewiki Infobox",
       "stand": "2026-10-02",
       "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "11-feldkirchen",
+   "rolle": "ziel",
+   "name": "Feldkirchen",
+   "einheit": "Ortsteil von Neuwied",
+   "wikidata": "Q1402701",
+   "lat": 50.4514,
+   "lon": 7.42238,
+   "gemeindeschluessel": "07138045",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Landkreis Neuwied",
+      "quelle": "Wikidata P131",
+      "hinweis": "gilt für die Gemeinde Neuwied, nicht für den Stadtteil allein"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 5184,
+      "quelle": "dewiki Infobox",
+      "stand": "2026-07-06"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "NR",
+      "quelle": "Wikidata P395",
+      "hinweis": "gilt für die Gemeinde Neuwied, nicht für den Stadtteil allein"
+     },
+     {
+      "wert": [
+       "MÜ",
+       "M"
+      ],
+      "quelle": "Altbestand geo.sqlite (Kreis 09184)"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 115,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 115,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 109,
+      "quelle": "Altbestand geo.sqlite (GeoNames 3207705)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Koblenz",
+       "km": 16
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "16 km nordwestlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 80
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "eingemeindung": [
+     {
+      "wert": "1970-11-07",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "56567"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "02631"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 29.9,
+        "SPD": 21.2,
+        "AfD": 19.8,
+        "GRÜNE": 8.3,
+        "Die Linke": 6.8,
+        "BSW": 5.7
+       },
+       "wahlbeteiligung_prozent": 83.0,
+       "gueltige_zweitstimmen": 3236
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich); Zuordnung der Stimmbezirke zum Stadtteil nach der Stimmbezirkseinteilung der Stadt Neuwied",
+      "stand": "2025-02-23",
+      "hinweis": "Summe der Urnen- und Briefwahlbezirke des Stadtteils"
      }
     ],
     "kueste": [

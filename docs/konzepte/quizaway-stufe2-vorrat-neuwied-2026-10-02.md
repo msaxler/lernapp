@@ -15,12 +15,13 @@
 | Heimbach-Weis | 10 | 3 | 10 | 0 | 0 | 0 |
 | Altwied | 9 | 3 | 9 | 0 | 0 | 0 |
 | Rengsdorf | 8 | 3 | 8 | 0 | 0 | 0 |
-| Dierdorf | 10 | 3 | 10 | 0 | 0 | 0 |
+| Dierdorf | 6 | 3 | 6 | 0 | 0 | 0 |
 | Waldbreitbach | 9 | 3 | 9 | 0 | 0 | 0 |
 | Linz am Rhein | 10 | 3 | 10 | 0 | 0 | 0 |
 | Bad Hönningen | 10 | 3 | 10 | 0 | 0 | 0 |
 | Leutesdorf | 10 | 3 | 10 | 0 | 0 | 0 |
-| **zusammen** | **96** | **30** | **96** | **0** | **0** | **0** |
+| Feldkirchen | 10 | 3 | 10 | 0 | 0 | 0 |
+| **zusammen** | **102** | **33** | **102** | **0** | **0** | **0** |
 
 ---
 
@@ -696,7 +697,7 @@
 
 ---
 
-## 06 · Dierdorf · 10 Karten im Vorrat
+## 06 · Dierdorf · 6 Karten im Vorrat
 
 ### erster Lauf, Karte 1 · Geschichte · Familie A    [ ] streichen
 
@@ -753,20 +754,6 @@
 
 57 Wörter · Faktencheck: **bestätigt**
 
-### erster Lauf, Karte 5 · Geschichte · Familie A    [ ] streichen
-
-> Dierdorf
-> Stadt mit rund 6.200 Einwohnern im Vorderen Westerwald, 22 km nördlich von Koblenz.
-> Das Erbprinzenpaar zu Wied baute 1933 nahe dem Schlosspark ein Haus mit Kupfer an Wänden und Dach. Was geschah 1943 mit dem Kupfer?
-> 1. Es wurde für den Kriegsbedarf abgenommen.
-> 2. Bomben zerstörten es beim Angriff auf Dierdorf.
-> 3. Ein Sturm riss es vom Haus.
-> 4. US-Truppen bauten es als Beute ab.
-
-> Du hattest [Option] getippt. Bomben liegen nahe, denn Dierdorf wurde im Krieg schwer getroffen, allerdings erst 1945. Schon 1943 wurden die Kupferteile des Kupferhauses für den Kriegsbedarf entfernt. Nach dem Krieg war das Haus Flüchtlingsunterkunft und Oberförsterei; Marie Antonia, die es mit Erbprinz Hermann gebaut hatte, wohnte dort bis 2003. 2019 wurde es abgebrochen. Richtig war 1.
-
-57 Wörter · Faktencheck: **unsicher** – Dierdorf: Dass 1943 die Kupferteile für den Kriegsbedarf abgenommen wurden, steht nur in Wikipedia; Baujahr, Bewohnung bis 2003 und Abriss 2019 sind durch die Zeitung gedeckt.
-
 ### erster Lauf, Karte 6 · Klassiker · Familie C    [ ] streichen
 
 > Dierdorf
@@ -780,34 +767,6 @@
 > Du hattest [Option] getippt. Dierdorf misst 31,98 Quadratkilometer, das sind etwa 193 Einwohner je Quadratkilometer. Wer kleiner tippte, hatte wohl ein Städtchen mit Mauer und Türmen vor Augen. Zur Stadt gehören aber auch Brückrachdorf, Giershofen und Wienau, eingemeindet 1969, und Elgert, eingemeindet 1974, dazu viel Wald und Feld. Richtig war 2.
 
 51 Wörter · Faktencheck: **bestätigt**
-
-### erster Lauf, Karte 7 · Geschichte · Familie A    [ ] streichen
-
-> Dierdorf
-> Stadt mit rund 6.200 Einwohnern im Vorderen Westerwald, 22 km nördlich von Koblenz.
-> Die Scharen des Feldherrn Tilly kamen 1624 nach Dierdorf. Was soll ihn im selben Jahr mit dem Grafen der Stadt verbunden haben?
-> 1. Er heiratete eine Schwester des Grafen.
-> 2. Er wurde Trauzeuge bei der Grafenhochzeit.
-> 3. Er wurde Taufpate eines Kindes des Grafen.
-> 4. Er nahm einen Grafensohn als Pagen auf.
-
-> Du hattest [Option] getippt. Eine Heirat läge nahe, denn so banden sich Adel und Heerführer oft aneinander. Überliefert ist eine andere Bindung: 1624 kamen Tillys Scharen nach Dierdorf, und im selben Jahr soll er Taufpate von Luise Juliane geworden sein, dem neunten Kind des Grafen Hermann II. von Wied und Isenburg. Richtig war 3.
-
-54 Wörter · Faktencheck: **unsicher** – Dierdorf: Tillys Patenschaft steht nur in Wikipedia; „belegt“ war zu stark, und „besetzte“ ging über den Artikel hinaus (dort folgten Tillys Scharen 1624). Tilly war Feldherr der Katholischen Liga, nicht kaiserlicher General.
-
-### erster Lauf, Karte 8 · Geschichte · Familie A    [ ] streichen
-
-> Dierdorf
-> Stadt mit rund 6.200 Einwohnern im Vorderen Westerwald, 22 km nördlich von Koblenz.
-> Dierdorf schloss 2005 eine Städtepartnerschaft mit Fountain Hills in Arizona. Woraus war sie hervorgegangen?
-> 1. Auswanderer aus Dierdorf gründeten Fountain Hills.
-> 2. Sie erwuchs aus einem Schüleraustausch des Gymnasiums.
-> 3. Die Fürsten zu Wied besaßen dort Land.
-> 4. Ein Dierdorfer Betrieb eröffnete dort ein Werk.
-
-> Du hattest [Option] getippt. Auswanderer liegen nahe, denn so beginnen viele Geschichten zwischen deutschen und amerikanischen Orten. Hier waren es Schüler: Das Martin-Butzer-Gymnasium begann 1998 einen Austausch mit der High School von Fountain Hills. Daraus wurde 2005 der Partnerschaftsvertrag. Schon seit 1995 ist Dierdorf mit Courtisols in der Champagne verbunden. Richtig war 2.
-
-53 Wörter · Faktencheck: **unsicher** – Dierdorf: Dass die Partnerschaft aus einem Schüleraustausch seit 1998 hervorging, steht nur in Wikipedia; Stadt und Partnerschaftsverein bestätigen das Jahr 2005 und den Austausch als solchen.
 
 ### erster Lauf, Karte 9 · Geschichte · Familie A    [ ] streichen
 
@@ -823,18 +782,12 @@
 
 50 Wörter · Faktencheck: **bestätigt**
 
-### erster Lauf, Karte 10 · Geschichte · Familie B    [ ] streichen
+**Von dir gestrichen:**
 
-> Dierdorf
-> Stadt mit rund 6.200 Einwohnern im Vorderen Westerwald, 22 km nördlich von Koblenz.
-> Graf Wilhelm IV. von Wied-Runkel erließ 1598 eine Ordnung für Dierdorfs Wirte. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
-> 1. Die Wirte mussten ihre Preise aushängen.
-> 2. Die Wirte durften Fremde jederzeit abweisen.
-> 3. Der Gewinn der Wirte am Wein war begrenzt.
-
-> Du hattest [Option] getippt. Der Preisaushang klingt am ehesten erfunden, weil er so modern wirkt. Doch die Wirtschaftsordnung von 1598 verlangte ihn wirklich, begrenzte den Gewinn der Wirte am Wein und enthielt sogar Hygienevorschriften. Fremde abzuweisen war dagegen verboten. Derselbe Graf erließ 1600 auch die erste Kirchenordnung und die erste Schulordnung. Die Lüge war 2.
-
-55 Wörter · Faktencheck: **unsicher** – Dierdorf: Die Wirtschaftsordnung von 1598 ist nur durch Wikipedia belegt. Die Begrenzung des Gewinns nennt der Artikel nur für den Wein.
+- erster Lauf 5: Das Erbprinzenpaar zu Wied baute 1933 nahe dem Schlosspark ein Haus mit Kupfer an Wänden und Dach. Was geschah 1943 mit dem Kupfer?
+- erster Lauf 7: Die Scharen des Feldherrn Tilly kamen 1624 nach Dierdorf. Was soll ihn im selben Jahr mit dem Grafen der Stadt verbunden haben?
+- erster Lauf 8: Dierdorf schloss 2005 eine Städtepartnerschaft mit Fountain Hills in Arizona. Woraus war sie hervorgegangen?
+- erster Lauf 10: Graf Wilhelm IV. von Wied-Runkel erließ 1598 eine Ordnung für Dierdorfs Wirte. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 
 ---
 
@@ -1393,6 +1346,149 @@
 > Du hattest [Option] getippt. Neuwied liegt nahe, denn Leutesdorf gehört zum Landkreis Neuwied. Die zweite Krone kommt aber vom anderen Rheinufer: Die Leutesdorfer Weinkönigin ist zugleich Weinkönigin von Andernach, der Stadt gegenüber. Schon früher bestellten Andernacher Winzer die Leutesdorfer Weinberge des Klosters Maria Laach. Richtig war 1.
 
 47 Wörter · Faktencheck: **bestätigt**
+
+---
+
+## 11 · Feldkirchen · 10 Karten im Vorrat
+
+### erster Lauf, Karte 1 · Geschichte · Familie A    [ ] streichen
+
+> Feldkirchen
+> Stadtteil von Neuwied mit rund 5.200 Einwohnern, direkt am Rhein, 16 km nordwestlich von Koblenz.
+> Die Gemeinde Feldkirchen entstand 1966 aus fünf bis dahin selbständigen Dörfern. Welches Dorf gehört heute dazu?
+> 1. Segendorf ist eines der fünf Dörfer.
+> 2. Niederbieber ist eines der fünf Dörfer.
+> 3. Hammerstein ist eines der fünf Dörfer.
+> 4. Hüllenberg ist eines der fünf Dörfer.
+
+> Du hattest [Option] getippt. Segendorf und Niederbieber klingen nah, denn sie gaben dem Amt den Namen, zu dem Feldkirchen 1966 gehörte. Die fünf Dörfer waren aber Fahr, Gönnersdorf, Hüllenberg, Rockenfeld und Wollendorf. Die Bezirksregierung Koblenz verfügte den Zusammenschluss zum 1. August 1966. Alle fünf Namen blieben als Ortsbezeichnungen erhalten. Richtig war 4.
+
+52 Wörter · Faktencheck: **bestätigt**
+
+### erster Lauf, Karte 2 · Klassiker · Familie C    [ ] streichen
+
+> Feldkirchen
+> Stadtteil von Neuwied direkt am Rhein, 16 km nordwestlich von Koblenz.
+> Wie viele Einwohner hat der Neuwieder Stadtteil Feldkirchen?
+> 1. unter 6.000
+> 2. 6.000 bis unter 9.000
+> 3. 9.000 bis unter 13.000
+> 4. 13.000 und mehr
+
+> Du hattest [Option] getippt. Stadtteile schätzt man leicht größer, weil man an Viertel einer Stadt denkt. Feldkirchen liegt aber am Westrand Neuwieds, am Rand des Naturparks Rhein-Westerwald, gegenüber von Andernach. Hier leben 5.184 Menschen (Stand: 6. Juli 2026). Richtig war 1.
+
+41 Wörter · Faktencheck: **bestätigt**
+
+### erster Lauf, Karte 3 · Geschichte · Familie B    [ ] streichen
+
+> Feldkirchen
+> Stadtteil von Neuwied mit rund 5.200 Einwohnern, 16 km nordwestlich von Koblenz.
+> Drei Aussagen zur alten Feldkirche und ihrer Gemeinde. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
+> 1. Der Abendmahltisch war früher eine Grabplatte.
+> 2. Die Kirchenfenster stammen noch aus dem Mittelalter.
+> 3. Ein Pfarrer von Feldkirchen dichtete das Mosellied.
+
+> Du hattest [Option] getippt. Bei einer Kirche, erbaut zwischen 1150 und 1200, liegen alte Fenster nahe. Doch im Dezember 1944 zerstörten Bomben den Chorraum. Die 32 abstrakten Bleiglasfenster nach Bibelversen entwarf Georg Meistermann zwischen 1952 und 1979. Der Abendmahltisch war die Grabplatte des Schultheißen Mathias Kreckel; Pfarrer Karl Theodor Reck dichtete das Mosellied. Die Lüge war 2.
+
+57 Wörter · Faktencheck: **korrigiert** – Feldkirchen: Das Lied heißt „Mosellied“ (so im Artikel zur Feldkirche und im Volksliederarchiv), nicht „Moselied“.
+
+### erster Lauf, Karte 4 · Klassiker · Familie C    [ ] streichen
+
+> Feldkirchen
+> Stadtteil von Neuwied mit rund 5.200 Einwohnern, 16 km nordwestlich von Koblenz.
+> Wie hoch war die Wahlbeteiligung in Feldkirchen bei der Bundestagswahl 2025?
+> 1. unter 72 %
+> 2. 72 bis unter 78 %
+> 3. 78 bis unter 86 %
+> 4. 86 % und mehr
+
+> Du hattest [Option] getippt. Für einen Stadtteil schätzt man die Beteiligung oft niedriger, weil man an anonyme Wohnviertel denkt. In Feldkirchen gingen 83 Prozent zur Wahl. Stärkste Kraft wurde die CDU mit 29,9 Prozent vor SPD mit 21,2 und AfD mit 19,8 Prozent. Richtig war 3.
+
+46 Wörter · Faktencheck: **bestätigt**
+
+### erster Lauf, Karte 5 · Geschichte · Familie A    [ ] streichen
+
+> Feldkirchen
+> Stadtteil von Neuwied mit rund 5.200 Einwohnern, 16 km nordwestlich von Koblenz.
+> Im Ortsteil Gönnersdorf lag eine Siedlung aus der späten Eiszeit. Wie wurde sie 1968 entdeckt?
+> 1. Ein Rheinhochwasser spülte Knochen aus dem Ufer.
+> 2. Ein Bauer pflügte Mammutknochen aus seinem Acker.
+> 3. Forscher suchten den Limes und stießen darauf.
+> 4. Beim Aushub für ein Einfamilienhaus stieß man darauf.
+
+> Du hattest [Option] getippt. Ein Zufallsfund beim Pflügen liegt nahe, so werden viele Fundstellen bekannt. Hier aber begann alles mit dem Aushub für ein Einfamilienhaus. Gerhard Bosinski grub rund 700 Quadratmeter aus: Reste von Behausungen, Knochen von Mammut, Wildpferd und Ren, dazu Schieferplättchen mit eingeritzten Zeichnungen. Richtig war 4.
+
+49 Wörter · Faktencheck: **unsicher** – Feldkirchen: Dass der Fundplatz Gönnersdorf beim Aushub für ein Einfamilienhaus entdeckt wurde, steht nur in Wikipedia (Orts- und Fundplatzartikel). Die Grabungsfläche nennt der Fundplatzartikel mit 687 m², der Ortsartikel mit 650 m²; gerundet.
+
+### erster Lauf, Karte 6 · Klassiker · Familie C    [ ] streichen
+
+> Feldkirchen
+> Stadtteil von Neuwied mit rund 5.200 Einwohnern, 16 km nordwestlich von Koblenz.
+> Seit welchem Jahr gehört Feldkirchen zur Stadt Neuwied?
+> 1. vor 1972
+> 2. 1972 bis 1979
+> 3. 1980 bis 1999
+> 4. 2000 oder später
+
+> Du hattest [Option] getippt. Eine spätere Spanne liegt nahe, denn viele Gebietsreformen zogen sich lange hin. Hier ging es schneller: Der Landtag beschloss die Reform am 13. Juli 1970, wirksam am 7. November 1970. Feldkirchen wurde aufgelöst und Teil der neugebildeten Stadt Neuwied, im Januar 1971 dann Stadtteil. Richtig war 1.
+
+51 Wörter · Faktencheck: **bestätigt**
+
+### erster Lauf, Karte 7 · Geschichte · Familie A    [ ] streichen
+
+> Feldkirchen
+> Stadtteil von Neuwied mit rund 5.200 Einwohnern, 16 km nordwestlich von Koblenz.
+> Vom verlassenen Ortsteil Rockenfeld leiten sich die Familiennamen Rockenfeller und Rockefeller ab. Was geschah 1969 mit seinen leeren Häusern?
+> 1. Ein Stausee überflutete die Häuser.
+> 2. Die Feuerwehr brannte die Häuser ab.
+> 3. Ein Rockefeller ließ sie nach Amerika bringen.
+> 4. Ein Erdrutsch riss die Häuser ins Tal.
+
+> Du hattest [Option] getippt. Der Name lockt zur Amerika-Theorie, doch die Häuser blieben, bis die Feuerwehr sie abbrannte. Rockenfeld, 1280 erstmals als Rukenvelt erwähnt, verdankt den Namen seiner Lage auf dem ersten Höhenrücken zwischen Rhein und Westerwald. 1846 lebten dort elf Familien; stetige Abwanderung leerte den Ort. Das letzte Haus wurde 1995 abgerissen. Richtig war 2.
+
+56 Wörter · Faktencheck: **bestätigt**
+
+### erster Lauf, Karte 8 · Geschichte · Familie A    [ ] streichen
+
+> Feldkirchen
+> Stadtteil von Neuwied mit rund 5.200 Einwohnern, 16 km nordwestlich von Koblenz.
+> Der Sage nach war die Feldkirche zuerst in Irlich geplant. Warum baute man sie dann an ihrem heutigen Platz?
+> 1. Ein Hirte fand dort ein Marienbild im Dornbusch.
+> 2. Ein heimkehrender Ritter stiftete sie an seinem Lagerplatz.
+> 3. Die Ochsen der Steinwagen blieben dort einfach stehen.
+> 4. Mönche sahen dort nachts ein helles Licht.
+
+> Du hattest [Option] getippt. Lichtzeichen und Bildfunde sind beliebte Motive solcher Sagen, deshalb liegen sie nahe. Hier aber sollen die Ochsen der ersten, mit Bruchsteinen beladenen Wagen an dieser Stelle den Dienst verweigert haben; man sah darin der Sage nach ein göttliches Zeichen. Richtig war 3.
+
+46 Wörter · Faktencheck: **bestätigt**
+
+### erster Lauf, Karte 9 · Geschichte · Familie A    [ ] streichen
+
+> Feldkirchen
+> Stadtteil von Neuwied mit rund 5.200 Einwohnern, 16 km nordwestlich von Koblenz.
+> Die Landvilla Haus Friedrichstein in Fahr ließ 1847 August von Röntgen bauen. Wessen Sohn war er?
+> 1. Er war Sohn des Kunstschreiners David Roentgen.
+> 2. Er war Sohn des Physikers Wilhelm Conrad Röntgen.
+> 3. Er war Sohn des Malers Hugo Weischet.
+> 4. Er war Sohn des Architekten Otto Buhr.
+
+> Du hattest [Option] getippt. Beim Namen Röntgen denkt fast jeder an den Physiker, deshalb liegt er nahe. Bauherr war aber der zweite Sohn des berühmten Kunstschreiners David Roentgen (1743–1807), Begründer der Roentgen-Möbelkunst. Der Sohn war Geheimrat und Doktor der Rechte. Richtig war 1.
+
+43 Wörter · Faktencheck: **bestätigt**
+
+### erster Lauf, Karte 10 · Geschichte · Familie A    [ ] streichen
+
+> Feldkirchen
+> Stadtteil von Neuwied mit rund 5.200 Einwohnern, 16 km nordwestlich von Koblenz.
+> Unter der über 400 Jahre alten Gerichtslinde tagt seit 1840 jedes Jahr im September das Märkergericht. Was ist das?
+> 1. Ein Schauprozess, bei dem Laien alte Urteile nachspielen.
+> 2. Ein Narrengericht, das Dorfbewohner spaßeshalber verurteilt.
+> 3. Die Versammlung der Winzer, die den Weinpreis festlegt.
+> 4. Die Hauptversammlung einer Bürgergemeinschaft, die Wald bewirtschaftet.
+
+> Du hattest [Option] getippt. „Gericht“ klingt nach Prozess oder Fastnachtsspaß, deshalb liegen diese Deutungen nahe. Gemeint ist die Hauptversammlung der Märkerschaft Feldkirchen, einer Waldbau treibenden Bürgergemeinschaft. Erstmals belegt ist sie 1494; ihr Ursprung wird im 13. oder 14. Jahrhundert oder früher vermutet. Richtig war 4.
+
+45 Wörter · Faktencheck: **bestätigt**
 
 ---
 

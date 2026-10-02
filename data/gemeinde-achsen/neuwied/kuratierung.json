@@ -1,0 +1,18 @@
+{
+ "_doc": "Mikes Kuratierung im Raum Neuwied, als Daten. Die Blattskripte lesen sie, damit ein Neuaufbau seine Einträge nicht verliert.",
+ "blatt1": {"wahl": {}},
+ "blatt2": {"orte": {}},
+ "kartensatz": {
+  "_doc": "Reihe für den Feldtest Stufe 2 im Raum Neuwied (Mike, 2026-10-02: „Kartensatz auch für Neuwied“). Gemischt nach dem Muster des Freiburger Satzes (A C A B Leiter A B A B C A), damit die Varianzregel hält; nur Karten, die der Faktencheck bestätigt oder korrigiert hat, keine unsichere. Je Ort eine Geschichte, die eine Theorie hervorruft; Feldkirchen mit Rockenfeld (Mikes Wunsch).",
+  "reihe": {"01-bendorf": 1, "02-engers": 2, "03-heimbach-weis": 9, "04-altwied": 3, "05-rengsdorf": 2, "06-dierdorf": 1,
+            "07-waldbreitbach": 3, "08-linz": 8, "09-bad-hoenningen": 3, "10-leutesdorf": 2, "11-feldkirchen": 7}
+ },
+ "vorrat": {
+  "_doc": "Mikes Streichungen im Vorrats-Blatt, je Ort eine Liste [Lauf, Karte]. Gestrichen heißt: die Karte ist raus; eine ältere Karte zum selben Fakt kommt dadurch nicht zurück.",
+  "stand": "2026-10-02",
+  "anmerkung": "Mike, 2026-10-02 abends: „die unsicheren Karten Dierdorf weglassen“. Das sind die vier Karten, deren Auflösung nur in Wikipedia steht (Kupferhaus, Tilly als Taufpate, Schüleraustausch mit Fountain Hills, Wirtschaftsordnung von 1598).",
+  "streichen": {
+   "06-dierdorf": [["v0.7", 5], ["v0.7", 7], ["v0.7", 8], ["v0.7", 10]]
+  }
+ }
+}

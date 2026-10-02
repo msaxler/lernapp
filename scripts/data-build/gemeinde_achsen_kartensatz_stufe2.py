@@ -19,6 +19,16 @@ ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM',
 KARTEN = os.path.join(ITER, 'karten-geprueft', 'v0.5')
 ZIEL = os.path.join(WURZEL, 'docs', 'konzepte', 'quizaway-feldtest-stufe2-kartensatz-freiburg-2026-10-02.md')
 FELDER = 'FAKTENCHECK|SORTE|FAMILIE|FAKT-ID|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|NEGATIVNACHWEISE|## '
+LAUF = 'v0.5'
+# ein weiterer Raum (GA_RAUM=neuwied): jüngster Lauf und Name des Kartensatzes aus <raum>/orte.json; die Reihe steht
+# in <raum>/kuratierung.json unter kartensatz.reihe
+RAUM = {}
+if os.path.exists(os.path.join(ITER, 'orte.json')):
+    with io.open(os.path.join(ITER, 'orte.json'), encoding='utf-8') as _f:
+        RAUM = json.load(_f)
+    LAUF = RAUM['laeufe'][0][0]
+    KARTEN = os.path.join(ITER, 'karten-geprueft', LAUF)
+    ZIEL = os.path.join(WURZEL, 'docs', 'konzepte', RAUM['kartensatz'])
 
 
 def feld(v, name):
@@ -35,7 +45,7 @@ def main():
     kur = lies_json('kuratierung.json')
     reihe = kur.get('kartensatz', {}).get('reihe') or {o: v['zuerst'] for o, v in kur['blatt2']['orte'].items()}
     gewaehlt = {o: v['zuerst'] for o, v in kur['blatt2']['orte'].items()}
-    pruefung = lies_json('karten-v0.5-geprueft-pruefung.json')
+    pruefung = lies_json('karten-%s-geprueft-pruefung.json' % LAUF)
     geprueft = {(k['ort'], k['karte']): k for k in pruefung['karten']}
     anschluss = {o['ort']: o['anschluesse'] for o in pruefung['orte']}
     name = {o['slug']: o['name'] for o in lies_json('grunddaten.json')['orte']}
@@ -71,6 +81,31 @@ def main():
            '',
            '**Anschluss:** Er hängt am Ortspaar und steht unter der Rückseite. Er gilt nur, wenn der Ort davor wirklich gespielt wurde.',
            '', '---', '', '## Die Karten', '']
+    if RAUM:
+        aus = ['# QuizAway — Feldtest Stufe 2, Solo am Tisch: Kartensatz Raum %s (generierte Karten)' % RAUM['raum'],
+               '',
+               '**Erzeugt am 2026-10-02** mit `scripts/data-build/gemeinde_achsen_kartensatz_stufe2.py` (GA_RAUM=%s) aus dem '
+               'Vorrat des Raums (Karten-Prompt %s), in der Fassung nach dem Faktencheck. %s' % (
+                   os.path.basename(ITER), LAUF, kur.get('kartensatz', {}).get('_doc', '')),
+               '',
+               '**Zweck:** Stufe 2 nach Spielkonzept v0.2.7 §10 in einem zweiten Raum: Karten aus der Pipeline (Extraktion, '
+               'Kartenlauf, Faktencheck, Kuratieren). Gemessen wird, ob generierte Karten am Tisch eine Theorie hervorrufen, '
+               'mit denselben Größen wie in Stufe 1 (T0/T1/T2/W, K1 dreiteilig).',
+               '',
+               '**Zusammensetzung:** %d Orte · Familien %s · %s' % (
+                   len(orte), ' '.join(familien),
+                   'Varianzregel eingehalten.' if not doppelt else
+                   '**Varianzregel nicht eingehalten:** %d-mal folgt dieselbe Familie auf sich selbst.' % doppelt),
+               '',
+               '**Testperson:** kennt den Raum %s nicht gut.' % RAUM['raum'],
+               '',
+               '**Ablauf, Instruktion und Unterbrechungen** wie im handgeschriebenen Kartensatz '
+               '(`quizaway-feldtest-solo-kartensatz-freiburg-v2-2026-10-01.md`, Abschnitt Vorbereitung): Karten auf A6, '
+               'Think-Aloud, der Beobachter fragt nicht nach.',
+               '',
+               '**Anschluss:** Er hängt am Ortspaar und steht unter der Rückseite. Er gilt nur, wenn der Ort davor wirklich '
+               'gespielt wurde.',
+               '', '---', '', '## Die Karten', '']
     def block(ort, nr, titel, vorgaenger, vermerk):
         """Eine Karte im Aufbau des handgeschriebenen Satzes; vorgaenger = Name des Orts davor oder None."""
         p = geprueft[(ort, nr)]
@@ -102,7 +137,7 @@ def main():
         return z
 
     for n, ort in enumerate(orte, 1):
-        anders = '' if gewaehlt.get(ort) == reihe[ort] else ' · Mikes erste Wahl, Karte %d, steht unter Nachschlag' % gewaehlt[ort]
+        anders = '' if gewaehlt.get(ort) in (None, reihe[ort]) else ' · Mikes erste Wahl, Karte %d, steht unter Nachschlag' % gewaehlt[ort]
         aus += block(ort, reihe[ort], 'Karte %d' % n, name[orte[n - 2]] if n > 1 else None, anders)
     nachschlag = [o for o in orte if gewaehlt.get(o) and gewaehlt[o] != reihe[o]]
     if nachschlag:
@@ -114,7 +149,8 @@ def main():
         for ort in nachschlag:
             aus += block(ort, gewaehlt[ort], 'Nachschlag %s' % ort[:2], None, ' · Mikes erste Wahl')
     aus += ['## Protokollbogen', '',
-            'Vor Beginn: Kennt die Person den Raum Freiburg? ______ · Hat sie den handgeschriebenen Kartensatz gespielt? ______',
+            'Vor Beginn: Kennt die Person den Raum %s? ______%s' % (
+                RAUM.get('raum', 'Freiburg'), '' if RAUM else ' · Hat sie den handgeschriebenen Kartensatz gespielt? ______'),
             '',
             '| Karte | Ort | vor dem Umdrehen: T0 / T1 / T2 / W | Theorie in Stichworten | nach dem Umdrehen: nennt eigene Theorie / nennt den Grund / sagt, warum die Theorie plausibel oder falsch war | getippt | Anmerkung |',
             '|---|---|---|---|---|---|---|']

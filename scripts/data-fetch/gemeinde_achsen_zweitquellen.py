@@ -52,8 +52,13 @@ def main():
         orte = json.load(f)
     heute = datetime.date.today().isoformat()
     uebersicht = []
+    # Mit Slugs als Argument nur diese Orte (Ort nachziehen); die übrigen Einträge bleiben
+    nur = sys.argv[1:]
+    if nur and os.path.exists(os.path.join(ITER, 'zweitquellen.json')):
+        with io.open(os.path.join(ITER, 'zweitquellen.json'), encoding='utf-8') as f:
+            uebersicht = [z for z in json.load(f) if z['slug'] not in nur]
     for o in orte:
-        if o['rolle'] != 'ziel' or o['woerter'] >= GRENZE_WOERTER:
+        if o['rolle'] != 'ziel' or o['woerter'] >= GRENZE_WOERTER or (nur and o['slug'] not in nur):
             continue
         stamm = o['name'][:max(5, len(o['name']) - 2)]  # „Zähring“ trifft Zähringer und Burg Zähringen
         kandidaten = [t for t in links(o['dewiki']) if stamm.lower() in t.lower() and t != o['dewiki']]

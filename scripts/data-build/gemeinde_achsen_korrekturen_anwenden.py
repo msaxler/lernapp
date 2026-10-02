@@ -76,8 +76,8 @@ def main():
         else:
             fehler.append('ohne Korrektur-Eintrag: %s %s %d (%s)' % (u['ort'], u['lauf'], u['karte'], u['urteil']))
     for s in korr:
-        if s not in status:
-            fehler.append('Korrektur ohne Urteil: %s %s %d' % s)
+        if s not in status and s[2] != 'anschluss':
+            fehler.append('Korrektur ohne Urteil: %s %s %s' % s)
 
     for lauf, (ordner, kopf, max_rueck) in LAEUFE.items():
         for ort in sorted(set(u['ort'] for u in urteile if u['lauf'] == lauf)):
@@ -104,6 +104,13 @@ def main():
                 if st != 'gesperrt':
                     fehler += ['%s %s %d: %s' % (ort, lauf, nr, v) for v in verstoesse]
                 karte = re.sub(r'^(WÖRTER RÜCKSEITE:).*$', lambda m: '%s %d' % (m.group(1), n), karte, count=1, flags=re.M) if korr.get(s, {}).get('ersetzungen') else karte
+                # Ersetzungen im Orts-Anschluss: Eintrag mit "karte": "anschluss" (der Anschluss hängt am Ortspaar, nicht an einer Karte)
+                if schluss:
+                    for e in korr.get((ort, lauf, 'anschluss'), {}).get('ersetzungen', []):
+                        if schluss.count(e[0]) != 1:
+                            fehler.append('%s %s Anschluss: Stelle %d-mal gefunden: %s' % (ort, lauf, schluss.count(e[0]), e[0][:60]))
+                            continue
+                        schluss = schluss.replace(e[0], e[1])
                 aus += [teile[i], '\nFAKTENCHECK: %s – %s' % (st, grund), karte, schluss]
             schreibe(os.path.join(ITER, 'karten-geprueft', lauf, ort + '.md'), ''.join(aus))
 

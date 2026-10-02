@@ -37,11 +37,14 @@ MEHRWERTIG = ('hoehe_m', 'flaeche_km2', 'ersterwaehnung')
 SPENDER = ['s4-dornstetten', 's10-tengen', 's2-renchen']
 # Karte 2 als Leiter statt Spannen
 LEITER = ('05-st-peter', '07-kirchzarten')
+WUNSCH = {}
 # ein weiterer Raum (GA_RAUM=neuwied) bringt Spender und Leiter-Orte in <raum>/orte.json mit
 if os.path.exists(os.path.join(ITER, 'orte.json')):
     with io.open(os.path.join(ITER, 'orte.json'), encoding='utf-8') as _f:
         _raum = json.load(_f)
     SPENDER, LEITER = _raum['spender'], tuple(_raum['leiter'])
+    # ein Wunsch je Ort (eine Zeile am Ende des PLANS), etwa eine Frage, die Mike für den Ort vorgeschlagen hat
+    WUNSCH = _raum.get('wunsch', {})
 # Rotation der Klassiker: (Eigenschaft, Familie, Beschreibung für den PLAN)
 ZAHL = [('einwohner', 'Einwohnerzahl'), ('ersterwaehnung', 'Jahr der ersten Erwähnung'), ('flaeche_km2', 'Fläche der Gemarkung'),
         ('hoehe_m', 'Höhe des Orts'), ('dichte_ew_km2', 'Einwohner je Quadratkilometer')]
@@ -158,7 +161,7 @@ def plan(i, ort):
         # Mike 2026-10-02: mehr als sieben, wenn die Fakten es hergeben (Prompt v0.6.1)
         '  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem '
         'bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor',
-    ])
+    ] + (['  ' + WUNSCH[slug]] if slug in WUNSCH else []))
 
 
 def lies(pfad):

@@ -83,14 +83,15 @@ LANDESHAUPTSTADT = {'Baden-Württemberg': 'Stuttgart', 'Bayern': 'München', 'He
 
 
 def hole(url):
-    """GET mit Wartezeit bei HTTP 429 (Wikimedia drosselt dichte Anfragen)."""
+    """GET mit Wartezeit bei HTTP 429 (Wikimedia drosselt dichte Anfragen) und bei Serverfehlern
+    (der Abfragedienst von Wikidata antwortet zeitweise mit 502 bis 504; Befund Raum Neuwied, 2026-10-02)."""
     for versuch in range(6):
         req = urllib.request.Request(url, headers=UA)
         try:
             with urllib.request.urlopen(req, timeout=90) as r:
                 return json.loads(r.read().decode('utf-8'))
         except urllib.error.HTTPError as e:
-            if e.code != 429 or versuch == 5:
+            if e.code not in (429, 502, 503, 504) or versuch == 5:
                 raise
             warte = int(e.headers.get('Retry-After') or 0) or 10 * (versuch + 1)
             print('  429, warte %d s' % warte)

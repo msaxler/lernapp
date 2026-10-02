@@ -66,19 +66,52 @@ Extraktion 18 Texte, rund 1,1 Millionen Tokens mit dem kleinen Modell. Kartenlä
 
 ---
 
-## 4. Was Mike entscheidet
+## 4. Was Mike entschieden hat (2026-10-02 abends)
 
-1. **Vorrats-Blatt Neuwied** (`quizaway-stufe2-vorrat-neuwied-2026-10-02.md`): streichen, was nicht gefällt.
-2. **Wahlergebnis der Verbandsgemeinde** statt der Stadt (Dierdorf, Linz): so lassen, oder die Politik-Karte dort weglassen? Vorschlag: so lassen; die Karte sagt, wofür sie gilt.
-3. **Feldkirchen als elfter Ort?** Deine Idee: die früheren Orte, die heute Feldkirchen bilden, als Frage. Feldkirchen ist nicht in der Fahrt; der Artikel hat 911 Wörter. Vorschlag: Feldkirchen als elften Ort nachziehen (ein Lauf je Glied). Die Frage „welcher dieser Orte gehört zu …" passt als Familie A auch zu Heimbach-Weis (aus Heimbach und Weis 1960 zusammengelegt).
-4. **Kartensatz für den Tisch aus Neuwied?** Für eine Testperson, die den Raum Freiburg kennt, wäre Neuwied der unbekannte Raum, und umgekehrt.
-
-Ohne Entscheid, als nächste Schritte am PC: Ersterwähnung als Grunddatum breiter holen (N6); dem Eingabe-Skript einen Ordner je Lauf geben (N12); die Nachträge des 2. Oktober als E12 ff. ins Achsen-Entscheidungsdokument; die Befunde N3 und N4 ins Spielkonzept (§8 Nr. 7, Politik-Karte), wenn Mike Nr. 2 entschieden hat.
+| Frage | Entscheid | Umsetzung |
+|---|---|---|
+| Vorrats-Blatt Neuwied | „die unsicheren Karten Dierdorf weglassen" | die vier Dierdorfer Karten, deren Auflösung nur in Wikipedia steht (Kupferhaus, Tilly als Taufpate, Fountain Hills, Wirtschaftsordnung von 1598), als Streichung in `neuwied/kuratierung.json`; Dierdorf hat sechs Karten im Vorrat |
+| Wahlergebnis der Verbandsgemeinde statt der Stadt | „so lassen" | Dierdorf und Linz fragen nach der Verbandsgemeinde und sagen das; als Regel für Rheinland-Pfalz vorgemerkt für Spielkonzept v0.2.8 |
+| Feldkirchen | „als Ort nachziehen", dazu Mike: Feldkirchen besteht aus Wollendorf, Fahr, Hüllenberg, Gönnersdorf und Rockenfeld; Rockenfeld ist „in jedem Fall eine Besonderheit" | elfter Ort der Fahrt (§5) |
+| Kartensatz für den Tisch aus Neuwied | „Kartensatz auch für Neuwied" | `quizaway-feldtest-stufe2-kartensatz-neuwied-2026-10-02.md` (§6) |
 
 ---
 
-## 5. Was ab jetzt da ist
+## 5. Nachtrag: Feldkirchen als elfter Ort
 
-Zwei Räume, 20 Orte, 225 geprüfte Karten (Freiburg 129, Neuwied 96). Die Kette läuft für einen neuen Raum mit einer Ortsliste in `orte.json` und dem Aufruf `GA_RAUM=<raum>`; was dabei an Wahlstatistik und Stadtteilen anders ist als in Baden-Württemberg, meldet das Grunddaten-Skript selbst.
+**N14. Der Auszug der Wikipedia-Schnittstelle lässt Tabellen weg.** Alle Quelltexte beider Räume kommen über die Schnittstelle TextExtracts; sie liefert Fließtext, aber keine Tabellen. Im Artikel Feldkirchen stehen die Abschnitte zu den fünf Ortsteilen in Tabellen (Wappen links, Text rechts); im Quelltext standen nur die Überschriften. Gemessen an allen 21 Zielorten: Meist fehlen Wahltabellen, Buslinien und Navigationsleisten. Inhaltlich verloren sind die Wappenbeschreibungen von sieben Orten (Umkirch, Bendorf, Engers, Dierdorf, Linz, Bad Hönningen, Leutesdorf) und in Feldkirchen die ganze Ortsteilgeschichte. Für Feldkirchen ist der Text der Tabellen als eigene Quelle nachgeholt (`quellen/11-feldkirchen+3.txt`). Die Wappen wären eine eigene Fragenfamilie („Was zeigt das Wappen, und warum?"); das Quellen-Skript holt sie noch nicht.
+
+**N15. Rockenfeld hat einen eigenen Artikel.** Er kam als vierte Quelle dazu (`quellen/11-feldkirchen+4.txt`). Belegt sind dort und in einer zweiten Quelle: erstmals 1280 als „Rukenvelt" erwähnt, 1846 elf Familien, nach dem Krieg noch rund 50 Menschen, 1965 Auflösung wegen Abwanderung, 1969 brannte die Feuerwehr die verlassenen Häuser ab, 1995 wurde das letzte Haus abgerissen, seit den 1990er Jahren die Kirmes am 1. Mai (Junggesellenverein Rheinbrohl; Rhein-Zeitung, NR-Kurier, Blick aktuell). Von Rockenfeld soll sich der Name Rockefeller ableiten (Wikipedia; Rhein-Zeitung 2013).
+
+**Zu Mikes Hinweisen:** Nur in Suchauszügen, nicht gesichert: 1966 noch 25 Einwohner; der letzte Bewohner, ein Gastwirt mit lebenslangem Wohnrecht, starb 1993 (NR-Kurier 2014 nennt das Todesjahr); eine Gaststätte „Zur Waldesruh". Das trifft Mikes Erinnerung, dass jahrelang nur ein Haus bewohnt war. **Nicht gefunden:** „20 Einwohner und drei Gaststätten" (Mike: „sagt die Legende") und das Seifenkistenrennen; die Berichte über die Kirmes (Rhein-Zeitung vom 2. Mai 2026, Blick aktuell) nennen kein Rennen. Beides trägt deshalb keine Karte, solange keine Quelle es belegt.
+
+**N16. Der Abfragedienst von Wikidata antwortete dreimal mit 504.** Das Grunddaten-Skript wiederholt jetzt auch bei Serverfehlern (502 bis 504); beim vierten Lauf ging es durch. An den zehn übrigen Orten hat sich in den Grunddaten nichts geändert. Für Feldkirchen führt der Altbestand (`geo.sqlite`) die Kennzeichen MÜ und M, ein Zuordnungsfehler dort; das Kennzeichen eines Stadtteils trägt ohnehin keine Karte.
+
+**N17. Feldkirchen trägt zehn Karten, beide Wünsche Mikes sind darunter.** Quellen: Ortsartikel (911 Wörter), Artikel zur Feldkirche, zum Heimatverein, die Ortsteiltexte und der Artikel Rockenfeld; zusammen 133 Fakten. Karte 1 fragt, welches der fünf Dörfer heute zu Feldkirchen gehört (Hüllenberg; die falschen Optionen sind Nachbarorte). Karte 7 gilt Rockenfeld: Was geschah 1969 mit den leeren Häusern? (Die Feuerwehr brannte sie ab; die Rückseite nennt die Herkunft des Namens Rockefeller, Rukenvelt 1280, elf Familien 1846 und den Abriss des letzten Hauses 1995.) Der Plan bekam dafür eine Zeile „Wunsch"; der Kartenlauf hat sie wie den übrigen Plan befolgt. Der Lauf lief mit Claude Opus statt Fable (Modellwechsel in der Sitzung); Format und Regeln hielten, die Regelprüfung meldet keinen Fehler.
+
+**N18. Faktencheck Feldkirchen:** 8 bestätigt, 1 korrigiert (Liedtitel „Mosellied"), 1 unsicher (Entdeckung des eiszeitlichen Fundplatzes Gönnersdorf beim Hausbau nur in Wikipedia; die Grabungsfläche ist gerundet). Die Rockenfeld-Karte ist durch zwei Quellen bestätigt (NR-Kurier, Treffpunkt Feldkirchen); der NR-Kurier bestätigt auch die Herkunft des Namens Rockefeller. Ein Orts-Anschluss war schief: Die evangelischen Leutesdorfer gehören nicht nur „einst", sondern bis heute zur Kirchengemeinde der Feldkirche. Das Korrektur-Skript kann jetzt auch den Anschluss berichtigen (Eintrag mit `"karte": "anschluss"`).
+
+**Raum Neuwied jetzt:** elf Orte, 106 Karten, Faktencheck 78 bestätigt, 18 korrigiert, 10 unsicher, keine gesperrt; nach Mikes Streichung 102 Karten im Vorrat.
+
+---
+
+## 6. Kartensatz für den Tisch
+
+`quizaway-feldtest-stufe2-kartensatz-neuwied-2026-10-02.md`, gebaut mit demselben Skript wie der Freiburger Satz (`gemeinde_achsen_kartensatz_stufe2.py`, jetzt raumfähig; der Freiburger Satz kommt unverändert heraus). Elf Orte in der Reihenfolge der Fahrt, Familien A C A B Leiter A B A B C A, gemischt wie in Freiburg. Nur Karten, die der Faktencheck bestätigt oder korrigiert hat, keine unsichere: Großbrand von Bendorf, Höhe von Engers, „Bauernfreistaat" Heimbach, Lügen-Karte zur Burg Altwied, Leiter zur Einwohnerdichte von Rengsdorf, Steine des Dierdorfer Schlosses, Lügen-Karte Waldbreitbach, Meerberg bei Linz, Lügen-Karte Bad Hönningen, Einwohnerdichte von Leutesdorf, Rockenfeld. Die Reihe steht als Daten in `neuwied/kuratierung.json`. Testperson: jemand, der den Raum Neuwied nicht gut kennt; wer den Freiburger Satz gespielt hat, darf hier spielen, die Orte sind andere.
+
+---
+
+## 7. Was Mike entscheidet
+
+1. **Vorrats-Blatt Neuwied:** weiter streichen, was nicht gefällt; neu sind die Karten von Feldkirchen.
+2. **Rockenfeld:** Wenn du für das Seifenkistenrennen oder die drei Gaststätten eine Quelle weißt (Vereinsseite, Zeitungsbericht, Ortschronik), wird daraus eine Karte.
+
+Ohne Entscheid, als nächste Schritte am PC: Tabellentext in das Quellen-Skript (N14), danach Wappen als Fragenfamilie prüfen; Ersterwähnung als Grunddatum breiter holen (N6); dem Eingabe-Skript einen Ordner je Lauf geben (N12); die Nachträge des 2. Oktober als E12 ff. ins Achsen-Entscheidungsdokument; die Befunde N3 und N4 samt Mikes Entscheid ins Spielkonzept v0.2.8 (§8 Nr. 7, Politik-Karte).
+
+---
+
+## 8. Was ab jetzt da ist
+
+Zwei Räume, 21 Orte, 231 Karten im Vorrat (Freiburg 129, Neuwied 102), zwei Kartensätze für den Tisch. Die Kette läuft für einen neuen Raum mit einer Ortsliste in `orte.json` und dem Aufruf `GA_RAUM=<raum>`; was dabei an Wahlstatistik und Stadtteilen anders ist als in Baden-Württemberg, meldet das Grunddaten-Skript selbst.
 
 *Ende Bericht.*
