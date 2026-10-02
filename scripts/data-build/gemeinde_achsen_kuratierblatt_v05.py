@@ -71,7 +71,7 @@ def main():
         o = orte[slug]
         aus += ['---', '', '## %s · %s · %d Karten (%d Geschichten, %d Klassiker)' % (
             slug[:2], name[slug], o['karten'], o['geschichten'], o['klassiker']), '']
-        teile = re.split(r'^##\s*Karte\s*(\d)\s*$', text, flags=re.M)
+        teile = re.split(r'^##\s*Karte\s*(\d+)\s*$', text, flags=re.M)
         for i in range(1, len(teile), 2):
             v = re.split(r'^##\s*(?:ORTS-ANSCHLUSS|NICHT VERWENDET|UNGEREGELT)', teile[i + 1], flags=re.M)[0]
             nr = int(teile[i])

@@ -77,10 +77,10 @@ def main():
     for lauf, (ordner, kopf, max_rueck) in LAEUFE.items():
         for ort in sorted(set(u['ort'] for u in urteile if u['lauf'] == lauf)):
             text = lies(os.path.join(ITER, ordner, ort + '.md'))
-            teile = re.split(r'^(##\s*%s\s*\d\s*)$' % kopf, text, flags=re.M)
+            teile = re.split(r'^(##\s*%s\s*\d+\s*)$' % kopf, text, flags=re.M)
             aus = [teile[0]]
             for i in range(1, len(teile), 2):
-                nr = int(re.search(r'\d', teile[i]).group(0))
+                nr = int(re.search(r'\d+', teile[i]).group(0))
                 rest = teile[i + 1]
                 # Der Schluss (Anschluss, nicht verwendet, ungeregelt) hängt an der letzten Karte; dort nicht ersetzen
                 schnitt = re.search(r'^##\s*(?:ORTS-ANSCHLUSS|NICHT VERWENDET|UNGEREGELT)', rest, flags=re.M)

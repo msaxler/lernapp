@@ -75,7 +75,7 @@ def main():
         """Eine Karte im Aufbau des handgeschriebenen Satzes; vorgaenger = Name des Orts davor oder None."""
         p = geprueft[(ort, nr)]
         with io.open(os.path.join(KARTEN, ort + '.md'), encoding='utf-8') as f:
-            teile = re.split(r'^##\s*Karte\s*(\d)\s*$', f.read(), flags=re.M)
+            teile = re.split(r'^##\s*Karte\s*(\d+)\s*$', f.read(), flags=re.M)
         v = next(teile[i + 1] for i in range(1, len(teile), 2) if int(teile[i]) == nr)
         v = re.split(r'^##\s*(?:ORTS-ANSCHLUSS|NICHT VERWENDET|UNGEREGELT)', v, flags=re.M)[0]
         vorn = [z.strip() for z in feld(v, 'VORDERSEITE').split('\n') if z.strip() and not z.strip().startswith('STELLE:')]

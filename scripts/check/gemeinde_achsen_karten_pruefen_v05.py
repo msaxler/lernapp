@@ -33,7 +33,7 @@ def plan_lesen(slug):
     with io.open(os.path.join(ITER, 'eingabe-' + LAUF, slug + '.txt'), encoding='utf-8') as f:
         text = f.read()
     plan = {}
-    for nr, rest in re.findall(r'^\s*Karte (\d): (.*)$', text, flags=re.M):
+    for nr, rest in re.findall(r'^\s*Karte (\d+): (.*)$', text, flags=re.M):
         plan[int(nr)] = (rest.split(',')[0].split()[0], [int(x) for x in re.findall(r'(?:Stelle|"höher":) (\d)', rest)])
     return plan
 
@@ -105,7 +105,7 @@ def main():
         with io.open(pfad, encoding='utf-8') as f:
             text = f.read()
         plan = plan_lesen(slug)
-        teile = re.split(r'^##\s*Karte\s*(\d)\s*$', text, flags=re.M)
+        teile = re.split(r'^##\s*Karte\s*(\d+)\s*$', text, flags=re.M)
         karten = []
         for i in range(1, len(teile), 2):
             rest = re.split(r'^##\s*(?:ORTS-ANSCHLUSS|NICHT VERWENDET|UNGEREGELT)', teile[i + 1], flags=re.M)[0]

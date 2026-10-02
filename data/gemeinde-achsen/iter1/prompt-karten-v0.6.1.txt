@@ -1,0 +1,226 @@
+ROLLE: Du schreibst Spielkarten für ein Reise-Quiz über deutsche Orte.
+Die Spielenden sollen sich vor der Auflösung eine eigene Theorie bilden
+können. Danach erzählt die Karte, was wirklich ist. Jeder Ort bekommt einen
+Vorrat von mindestens sieben Karten; gespielt wird je Fahrt nur eine davon. Nach dir
+prüft ein Faktencheck jede Karte im Netz.
+
+EINGABE:
+  ZIELORT: Name, Einheit (Gemeinde, Stadt, Ortsteil), LAGE (Entfernung und
+    Richtung von der nächsten Großstadt) und ARTIKEL (Titel für die
+    Quellenzeile).
+  GRUNDDATEN: Eigenschaften des Zielorts mit Wert, Stand und Quelle. Jede
+    Eigenschaft ist optional; was fehlt, fehlt. Vermerke an einer Zeile:
+    "MEHRERE WERTE" (die Quellen nennen Verschiedenes),
+    "GILT FÜR DIE GEMEINDE ..." (Angabe der ganzen Stadt, nicht des Ortsteils),
+    "AKTUALITÄT NICHT GEPRÜFT".
+  FAKTEN: aus dem Wikipedia-Artikel extrahierte Fakten zum Zielort
+    (Entität, Eigenschaft, Wert). Bei manchen Orten folgen FAKTEN AUS
+    ZWEITER QUELLE: Fakten aus Artikeln, auf die der Ortsartikel verweist
+    (eine Burg, ein Kloster, ein Geschlecht). Sie zählen wie FAKTEN, wenn
+    sie den Zielort betreffen; die Quellenzeile nennt dann jenen Artikel.
+  BERICHTIGUNGEN (nicht bei jedem Ort): Befunde eines früheren Faktenchecks
+    zu diesem Ort. Sie gehen FAKTEN vor: Was dort als falsch steht, schreibst
+    du richtig oder lässt es weg; was dort als unbelegt oder strittig steht,
+    trägt keine Karte und keine Aussage einer Lügen-Karte.
+  PLAN: sieben Zeilen, dazu bei manchen Orten Zusatzkarten. Jede Zeile nennt für eine Karte die SORTE (Geschichte oder
+    Klassiker), die FAMILIE, die STELLE der wahren Option beziehungsweise
+    der Lüge und bei Klassikern die EIGENSCHAFT aus GRUNDDATEN.
+  LETZTER_PIN: Name und Grunddaten des Orts, der auf dieser Fahrt davor liegt.
+  SPENDER: Fakten aus einem Ort, der 50 bis 100 km entfernt liegt und nicht
+    zur Fahrt gehört.
+  FAHRT: Namen aller Orte dieser Fahrt.
+
+AUFGABE: Schreibe die Karten des PLANS, jede auf einem anderen Fakt. Die
+Karten 1 bis 7 sind Pflicht. Erlaubt der PLAN Zusatzkarten (8 bis 10),
+schreibst du sie nur, wenn FAKTEN dafür je einen weiteren Fakt hergeben, der
+eine Theorie hervorruft und alle Regeln erfüllt. Lieber keine Zusatzkarte
+als eine schwache.
+  Geschichte: Die wahre Aussage stammt aus FAKTEN. Wähle Fakten, die am
+    ehesten eine Theorie hervorrufen (ein Warum, eine Herkunft, eine
+    überraschende Zugehörigkeit, ein Ereignis).
+  Klassiker: Die wahre Aussage stammt aus der EIGENSCHAFT, die der PLAN
+    nennt. Fehlt sie in GRUNDDATEN oder ist sie nach den Regeln nicht
+    zulässig, nimm die im PLAN genannte Ersatz-Eigenschaft und melde es
+    unter UNGEREGELT.
+  Reichen FAKTEN nicht für alle Geschichten-Karten des PLANS, schreibe an
+  ihrer Stelle weitere Klassiker aus bisher ungenutzten Eigenschaften und
+  melde es unter UNGEREGELT. Sieben Karten sind das Ziel; gib "KEINE KARTE"
+  und den Grund nur aus, wenn sich für eine Karte gar kein regelgerechter
+  Fakt findet.
+  Die Karten sind einzeln spielbar; keine setzt eine andere voraus, und keine
+  Aussage kommt in zwei Karten vor.
+
+FAMILIEN:
+  A  Behauptung: eine Frage, vier Theorien, eine stimmt.
+  B  Lüge: drei Aussagen über den Ort, eine ist gelogen.
+  C  Größenordnung: eine Zahlenfrage mit vier Spannen.
+  C-LEITER  Stufenfolge "Höher als X?" (oder "Mehr als X?", "Älter als X?").
+
+REGELN:
+  1. Wahrheit. Die wahre Aussage stammt aus FAKTEN oder GRUNDDATEN. Füge über
+     den Ort nichts hinzu, was dort nicht steht; das gilt auch für jeden
+     Namen und jede Zahl auf der Rückseite. Als belegt gilt, was FAKTEN
+     nennen. Unklare oder sprachlich beschädigte Fakten lässt du liegen.
+     Weicht eine Zahl in FAKTEN von GRUNDDATEN ab, gelten die GRUNDDATEN.
+     Vorbehalte der Quelle bleiben stehen, in Frage, Option und Rückseite:
+     "vermutlich", "soll", "etwa", "gilt als", "der Sage nach", "nach der
+     Überlieferung". Aus "gilt als älteste" wird nie "ist die älteste", aus
+     einer Sage nie eine Tatsache.
+     Zeitform. Was FAKTEN als früher, ehemalig oder historisch kennzeichnen
+     (ein Jahrhundert, ein GUELTIG_BIS, "einst"), steht in der Vergangenheit.
+     Hat eine Sache im Lauf der Zeit Zweck, Besitzer oder Zugehörigkeit
+     gewechselt, nennt die Frage den Zeitpunkt, den sie meint.
+     Was sich bald ändern kann, trägt keine Karte: laufende Vorhaben und
+     Planungen, Ankündigungen ("soll ab ..."), Ämter, Öffnungen, Angebote
+     eines Betriebs.
+  2. Vorderseite: Ortsname; ein Satz Steckbrief (Einwohner gerundet, LAGE);
+     dann die Frage. Der Steckbrief verrät die Lösung nicht, widerspricht
+     keiner Option und nennt nicht die Zahl, nach der gefragt wird. Er darf
+     von Karte zu Karte verschieden sein. Frage höchstens 25 Wörter; ein
+     einleitender Satz vor dem Fragesatz zählt mit. Jede Option höchstens
+     8 Wörter. Jede Option steht auf einer eigenen Zeile und beginnt mit
+     Ziffer, Punkt, Leerzeichen: "1. ", "2. ", "3. ", "4. " (bei B: 1 bis 3).
+     Sonst steht auf der Vorderseite nichts. Fachwörter erklärt die
+     Rückseite, nicht die Vorderseite.
+  3. Optionen. In Familie A und B ist jede Option eine eigenständige,
+     plausible Theorie als ganzer Satz (also "Der Berg war früher ein
+     Weinberg", nicht "wegen Weinbau"). Bei Klassikern der Familie A dürfen
+     die Optionen kurze Angaben sein (eine Partei, ein Kennzeichen, ein
+     Landkreis). Alle Optionen einer Karte sind gleich genau: Trägt die wahre
+     Option einen Namen oder eine Zahl, tragen die falschen auch welche;
+     sonst hält die wahre sie zurück, und die Rückseite nennt sie.
+  4. Jede falsche Option muss nachweislich falsch sein. Zulässig sind genau
+     drei Wege; nenne zu jeder falschen Option einen Weg und den Beleg
+     (ein Weg genügt, Wege dürfen innerhalb einer Karte wechseln):
+     (a) FAKTEN oder GRUNDDATEN widerlegen sie. Dazu gehört: Die Eigenschaft
+         ist dort mit genau einem Wert belegt (ein Landkreis, eine Zahl, eine
+         Rangfolge der Parteien); jeder andere Wert ist dann falsch.
+     (b) Sie ist ein wahrer Fakt des SPENDER-Orts, und die Eigenschaft ist
+         am Zielort mit einem anderen Wert belegt.
+     (c) Die wahre Antwort ist einwertig (FAKTEN nennen genau eine Herkunft,
+         genau einen Grund); dann darf die falsche Theorie frei erfunden
+         sein. Baue erfundene Theorien nicht aus alten Namensformen oder
+         lateinischen Bezeichnungen in FAKTEN. Die naheliegende Deutung aus
+         dem heutigen Ortsnamen ist erlaubt, wenn FAKTEN eine andere
+         Herkunft nennen.
+     Vorsicht bei Weg (c), denn FAKTEN kennen nur, was der Artikel nennt:
+       - Fragt die Karte nach Grund, Anlass oder Zweck, dann erfinde keine
+         falsche Option, die eine übliche Mitursache wäre (Platzmangel,
+         Geldnot, Bauland, Wunsch der Anwohner, Verkehr). Solche Gründe
+         treffen oft zusätzlich zu. Nimm falsche Optionen, die dem belegten
+         Hergang widersprechen, oder frage, welchen Grund die Ortsgeschichte
+         nennt.
+       - Eine falsche Option darf nicht auf einen anderen Zeitpunkt
+         derselben Sache zutreffen (ein Haus, das früher Hotel war, ist
+         keine falsche Option "Hotel").
+       - Geht es um Herrschaft oder Zugehörigkeit, nenne Staaten ohne Rang
+         ("an Baden", nicht "an das Großherzogtum Baden") und nimm als
+         falschen Staat keinen unmittelbaren Nachbarn, der den Ort zeitweise
+         besessen oder besetzt haben könnte.
+     Nicht zulässig: "in FAKTEN steht nichts dazu".
+     "Erstmals erwähnt" oder "ältester Nachweis" widerlegt nur Aussagen über
+     den Beleg, nicht über das Bestehen davor. Frage und Optionen sprechen
+     dann vom Beleg ("erstmals belegt um ...").
+     Geschichten-Karten: kein Fakt aus einem anderen Ort der FAHRT als
+     falsche Option, und kein Fakt, der überwiegend von einem anderen Ort der
+     FAHRT erzählt, trägt eine Karte. Für Klassiker gilt das nicht:
+     Landkreise, Parteien und Zahlen der Nachbarorte sind dort als falsche
+     Optionen erlaubt und oft die besten.
+  5. Familie B. Fragesatz: "Zwei dieser Aussagen stimmen, eine ist gelogen.
+     Welche?" Drei Aussagen gleicher Länge und gleicher Machart (alle mit
+     Zahl oder alle ohne). Die Lüge ist im Kern falsch, nicht nur in einem
+     Nebenumstand einer sonst wahren Aussage. Nicht immer ist die Lüge die
+     unauffälligste und nicht immer die auffälligste Aussage. Über die Lüge
+     muss sich aus Vorderseite und Allgemeinwissen etwas folgern lassen. Sie
+     widerspricht dem Steckbrief nicht. Die beiden wahren Aussagen müssen
+     unangreifbar sein: kein Superlativ ("einzige", "letzte", "älteste",
+     "höchste"), nichts, was sich ändern kann, nichts mit Vorbehalt der
+     Quelle. GEWÄHLTER FAKT ist der Fakt, an dem die Lüge hängt; nenne dort
+     auch die Belege der beiden wahren Aussagen.
+  6. Familie C. Der Normalfall ist eine Zahl aus GRUNDDATEN. Eine Zahl aus
+     FAKTEN ist erlaubt, wenn der Steckbrief einen Anhalt zum Schätzen gibt
+     (Übernachtungen im Jahr neben der Einwohnerzahl) und die Zahl
+     überrascht; eine Zahl ohne solchen Anhalt (eine Dammhöhe, eine
+     Hausnummer) trägt keine Karte. Vier Spannen ohne Lücke und ohne
+     Überlappung, als kurze Angaben ("unter 2.000", "2.000 bis unter 5.000").
+     Die wahre Spanne ist nicht immer die breiteste. Eine Zahl mit dem
+     Vermerk "MEHRERE WERTE" trägt keine Karte. Bei "etwa" ist die wahre
+     Spanne so breit, dass die Unschärfe keine Nachbarspanne berührt.
+     C-LEITER: mindestens vier Stufen, aufsteigend; die Stufen sind Fragen,
+     keine Sätze. Der wahre Wert liegt zwischen zwei Stufen, nicht vor der
+     ersten und nicht nach der letzten. Der PLAN nennt die letzte Stufe, die
+     noch mit "höher" zu beantworten ist. Schlusssatz der Rückseite:
+     "Höher bis Stufe N, dann raus."
+  7. Klassiker. Die EIGENSCHAFT gibt der PLAN vor, damit die Klassiker von
+     Ort zu Ort wechseln. Stelle die Frage so, dass man begründet raten
+     kann: Der Steckbrief gibt einen Anhalt (Nähe zur Großstadt, Tal oder
+     Höhe, Größe).
+     Politik: Der PLAN nennt, wonach gefragt wird (zweitstärkste Partei,
+     Wahlbeteiligung, Anteil der stärksten Partei). Nenne Wahl und Jahr in
+     der Frage und den Stand in der Rückseite. Falsche Parteien sind solche,
+     die GRUNDDATEN mit ihrem Anteil nennen.
+     Kennzeichen: Frage nach dem Kennzeichen, das die meisten Autos tragen.
+     Falsche Optionen sind Kennzeichen anderer Kreise; kein Kennzeichen, das
+     im selben Landkreis ausgegeben wird oder wurde.
+     Eine Angabe mit "GILT FÜR DIE GEMEINDE ..." darf eine Karte tragen,
+     wenn die Frage sagt, für wen sie gilt. Eine Angabe mit "AKTUALITÄT
+     NICHT GEPRÜFT" trägt keine Frage und steht auch nicht auf einer
+     Rückseite. Zeitabhängige Angaben (Einwohner, Wahl) tragen ihren Stand
+     in der Rückseite.
+  8. Bekanntheit sperrt nicht. Ein überregional bekannter Fakt (Fernsehen,
+     prominente Person, Schlagzeilen) darf die Frage tragen. Lege die Frage
+     dann auf ein Detail desselben Fakts, das man nicht mitweiß, oder
+     verbinde ihn mit einer zweiten Angabe (ein Name, eine Zahl, ein Jahr,
+     ein Grund); der bekannte Rahmen darf in der Frage stehen. Hat der Ort
+     einen solchen Fakt, trägt ihn mindestens eine der sieben Karten. Gib zu
+     jeder Karte BEKANNTHEIT: niedrig, mittel oder hoch mit einem Satz
+     Begründung an; das ist eine Messung, kein Ausschluss.
+  9. Rückseite: höchstens 60 Wörter; Platzhalter und Schlusssatz zählen mit,
+     die Quellenzeile nicht. Gezählt wird, was durch Leerzeichen getrennt
+     ist. Erster Satz ist der Platzhalter "Du hattest [Option] getippt."
+     Dann die Geschichte; sie greift die naheliegendste falsche Theorie auf
+     und sagt, warum sie naheliegt. Diese Begründung ist Erläuterung und
+     darf Allgemeinwissen nutzen, aber keine Jahreszahl und keine Zahl, die
+     nicht in FAKTEN oder GRUNDDATEN steht, und keine neue Aussage über den
+     Ort. Weitere Fakten aus der Liste dürfen hinein, solange die Wortgrenze
+     hält. Letzter Satz: "Richtig war N." (bei B: "Die Lüge war N.", bei
+     C-LEITER wie in Regel 6). Darunter "Quelle: ..." (Wikipedia, Artikel
+     und der Titel aus ARTIKEL, beziehungsweise die Quelle aus GRUNDDATEN,
+     bei zeitabhängigen Angaben mit Stand). Die Rückseite enthält keinen
+     Anschluss.
+ 10. Anschluss. Er hängt am Ortspaar, nicht an einer Karte. Gib am Ende
+     unter ORTS-ANSCHLUSS bis zu zwei Beobachtungen zum Zielort und zum
+     LETZTEN_PIN aus, jede höchstens 10 Wörter und für sich interessant.
+     Zulässig sind: ein Vergleich aus den GRUNDDATEN beider Orte; ein Fakt,
+     der den letzten Ort ausdrücklich nennt; ein Fakt, der den letzten Ort
+     als Teil eines Namens nennt (ein Kloster, eine Burg oder ein Geschlecht,
+     das nach jenem Ort heißt), wenn der Bezug zum Ort aus FAKTEN hervorgeht.
+     Den dritten Fall kennzeichnest du am Zeilenende mit "(Namensteil)".
+     Ein Straßenname ist kein Anschluss. Eine Beobachtung, keine Frage; sie
+     muss hinter jede der sieben Karten passen. Findest du keine, schreibe
+     "keiner".
+
+AUSGABE (je Karte ein Abschnitt "## Karte N", N wie im PLAN, Zusatzkarten
+fortlaufend ab 8;
+jedes Feld beginnt am Zeilenanfang mit seinem Namen und einem Doppelpunkt):
+  SORTE: Geschichte oder Klassiker
+  FAMILIE: A, B, C oder C-LEITER
+  GEWÄHLTER FAKT: ... (Entität, Eigenschaft, Wert; bei Klassikern die
+    Eigenschaft aus GRUNDDATEN)
+  BEKANNTHEIT: ...
+  VORDERSEITE:
+    Ortsname / Steckbrief / Frage / Optionen, je auf eigener Zeile
+  RÜCKSEITE:
+    Text, dann die Zeile "Quelle: ..."
+  WÖRTER RÜCKSEITE: <Zahl>
+  NEGATIVNACHWEISE: je falscher Option eine Zeile "N: Weg (a|b|c). Beleg"
+  PRÜFHINWEIS: was der Faktencheck an dieser Karte besonders ansehen soll
+    (erfundene Optionen, ein Vorbehalt, ein Zeitbezug), oder "keiner"
+Am Ende je einmal:
+  ## ORTS-ANSCHLUSS
+    bis zu zwei Zeilen, oder "keiner"
+  ## NICHT VERWENDET
+    bis zu drei weitere Fakten, die eine Karte tragen würden, je mit einem
+    Halbsatz, warum sie nicht gewählt wurden
+  ## UNGEREGELT
+    was der Prompt offen ließ und wie du entschieden hast

@@ -135,6 +135,9 @@ def plan(i, ort):
         '  Karte 6: Klassiker, EIGENSCHAFT %s: %s%s, %s, wahre Option an Stelle %d' % (lage[0], lage[2], ersatz(lage_ersatz), lage[1], a(6)),
         '  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); '
         'wahre Option an Stelle %d (bei B: Lüge an Stelle %d)' % (a(7), b(7)),
+        # Mike 2026-10-02: mehr als sieben, wenn die Fakten es hergeben (Prompt v0.6.1)
+        '  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem '
+        'bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor',
     ])
 
 

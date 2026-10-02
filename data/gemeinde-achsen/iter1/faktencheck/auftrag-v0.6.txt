@@ -9,7 +9,8 @@ Karten zu bestätigen. Geh davon aus, dass einige Karten falsch sind.
 
 EINGABEN (ORT ist der Dateiname ohne Endung, den dein Aufrufer nennt):
   D:\claude-code\LernApp\data\gemeinde-achsen\iter1\karten-v0.6\ORT.md
-      sieben Karten ("## Karte 1" bis "## Karte 7"), dahinter ORTS-ANSCHLUSS.
+      sieben bis zehn Karten ("## Karte 1" bis höchstens "## Karte 10"),
+      dahinter ORTS-ANSCHLUSS.
       Jede Karte trägt ein Feld PRÜFHINWEIS: Das hat der Kartenlauf selbst als
       prüfenswert markiert; sieh es dir an, aber verlass dich nicht darauf.
   D:\claude-code\LernApp\data\gemeinde-achsen\iter1\quellen\ORT.txt
@@ -23,7 +24,7 @@ EINGABEN (ORT ist der Dateiname ohne Endung, den dein Aufrufer nennt):
       PLAN, LETZTER_PIN
 Lies sonst keine Dateien des Repositorys und keine Memory-Dateien.
 
-PRÜFUNG JE KARTE (sieben Karten):
+PRÜFUNG JE KARTE (alle Karten der Datei, sieben bis zehn):
   1. Gegen den Artikel. Jede Tatsachenbehauptung auf Vorderseite und
      Rückseite (Steckbrief, wahre Option, bei Lügen-Karten die beiden wahren
      Aussagen, alle Namen, Jahreszahlen und Zahlen der Rückseite): Steht sie
@@ -66,9 +67,9 @@ URTEIL JE KARTE, genau eines:
 
 AUSGABE: Schreibe mit dem Write-Werkzeug nach
   D:\claude-code\LernApp\data\gemeinde-achsen\iter1\faktencheck-v0.6\ORT.md
-in genau diesem Format (sieben Abschnitte, dann zwei Schlussabschnitte):
+in genau diesem Format (je Karte ein Abschnitt, dann zwei Schlussabschnitte):
 
-  ## v0.6 Karte 1            (ebenso Karte 2 bis 7)
+  ## v0.6 Karte 1            (ebenso jede weitere Karte)
   URTEIL: OK | KORRIGIEREN | UNSICHER
   KERNAUSSAGE: <ein Satz, was die Karte als wahr auflöst>
   ARTIKEL: <steht so da | weicht ab: ... | steht nicht im Artikel>

@@ -31,7 +31,7 @@ def main():
         slug = os.path.splitext(os.path.basename(pfad))[0]
         with io.open(pfad, encoding='utf-8') as f:
             text = f.read()
-        teile = re.split(r'^##\s*(v0\.\d)\s+(Karte|Vorschlag)\s+(\d)\s*$', text, flags=re.M)
+        teile = re.split(r'^##\s*(v0\.\d)\s+(Karte|Vorschlag)\s+(\d+)\s*$', text, flags=re.M)
         zahl = {'OK': 0, 'KORRIGIEREN': 0, 'UNSICHER': 0}
         for i in range(1, len(teile), 4):
             rest = re.split(r'^##\s*(?:ANSCHLÜSSE|ZUSAMMENFASSUNG)', teile[i + 3], flags=re.M)[0]
