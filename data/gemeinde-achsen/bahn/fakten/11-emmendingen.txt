@@ -1,0 +1,909 @@
+ID: 11-emmendingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Emmendingen
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/stadtinformationen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 29554
+  einwohner_maennlich: 14457
+  einwohner_weiblich: 15097
+  einwohner_evangelisch: 7140
+  einwohner_katholisch: 6130
+  einwohner_sonstige_oder_ohne_religion: 16284
+  einwohner_auslaender: 5313
+  status: Große Kreisstadt
+GUELTIG_AB: 1973
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/002
+ENTITÄT: ort
+DESIGNIERUNG: Emmendingen
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1091
+  erste_erwaehnung_name: Odalrich de Anemotingen
+  erste_erwaehnung_erwaehnungsart: Zeuge in Urkunde des Grafen Burkhart von Nellenburg
+GUELTIG_AB: 1091
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/003
+ENTITÄT: ort
+BEZEICHNUNG: Emmendingen
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung_schenkungsurkunde: 1094
+  erwaehnung_schenkungsurkunde_ziel: Kloster Allerheiligen in Schaffhausen
+GUELTIG_AB: 1094
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/004
+ENTITÄT: stadtrecht
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihungsdatum: 1590-01-01
+  verliehen_durch: Markgraf Jakob III. von Baden-Hachberg
+  marktrecht_verleihungsdatum: 1418-08-10
+  marktrecht_verliehen_durch: König Sigismund
+GUELTIG_AB: 1590
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 11-emmendingen/005
+ENTITÄT: stadtsiegel
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  durchmesser_mm: 35
+  jahr_siegel: 1590
+  umschrift: S . NOVUM . CIVIUM . IN . EMENTINGEN . Ao . 1590
+  zeigt_wappenteile: badischer Doppelbalken, geharnischter Mann (Markgraf Jacob III)
+  superlativ: ältestes Originalsiegel eines Ortes, den ein badischer Markgraf zur Stadt erhob
+GUELTIG_AB: 1590
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/006
+ENTITÄT: kloster
+BEZEICHNUNG: Tennenbach
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsjahr: 1158-1161
+  gruender: Zisterzienser aus Kloster Frienisberg (Kanton Bern, Schweiz)
+  lage: Seitental des Brettentals, 7,5 km von Emmendingen entfernt
+  aufgeloest: 1806
+  grund_aufloesung: Säkularisation
+GUELTIG_AB: 1158
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/007
+ENTITÄT: burg
+BEZEICHNUNG: Hochburg (auch: Hachberg)
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1127
+  erste_erwaehnung_quelle: Urkunde des Bischofs von Konstanz
+  verkauf_datum: 1415-07-25
+  verkauf_von: Markgraf Otto II. von Hachberg
+  verkauf_an: Markgraf Bernhard I. von Baden
+  befestigungsanlagen_zerstoert: 1689
+  zerstoerung_grund: Pfälzer Erbfolgekrieg
+GUELTIG_AB: 1127
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/008
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Mühlburger Krieg
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1424-06-12
+  beschreibung: Emmendingen von Truppen einer Allianz mehrerer oberrheinischer Städte (Basel, Straßburg) eingenommen und vollständig zerstört
+GUELTIG_AB: 1424
+GUELTIG_BIS: 1424
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/009
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Emmendinger Religionsgespräch
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1590-06-13 bis 1590-06-17
+  beschreibung: Treffen von Vertretern der evangelischen und katholischen Kirche
+  veranstalter: Markgraf Jakob III.
+  folge: Markgraf tritt wenige Wochen später zum katholischen Glauben über
+GUELTIG_AB: 1590
+GUELTIG_BIS: 1590
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/010
+ENTITÄT: person
+BEZEICHNUNG: Markgraf Jakob III. von Baden-Hachberg
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Stadtgründer, Markgraf
+  stadtrechtsverleihung_datum: 1590-01-01
+  todesjahr: 1590
+  todesjahr_alter: 28
+  todesursache: vermutlich Arsenvergiftung
+  geburtsjahr: 1562
+GUELTIG_AB: 1590
+GUELTIG_BIS: 1590
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 11-emmendingen/011
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Dreißigjähriger Krieg
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1618-1648
+  auswirkung_auf_emmendingen: katastrophal
+  gebaeude_zerstoert_prozent: 66
+  einwohnerzahl_vorher: ca. 500
+  einwohnerzahl_nachher: ca. 100
+  ursachen_verluste: Hunger, Krankheiten, direkte Kriegshandlungen
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 11-emmendingen/012
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Reformation in Emmendingen
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1556
+  durchgefuehrt_durch: Markgraf Karl II.
+  gebiet: Hochberger Land
+GUELTIG_AB: 1556
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/013
+ENTITÄT: person
+BEZEICHNUNG: Johann Georg Schlosser
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Oberamtmann der Markgrafschaft
+  amtszeit: 1774-1787
+  amtssitz: Emmendingen
+  verheiratetung: mit Cornelia (Schwester von Johann Wolfgang von Goethe)
+  verdienste: zahlreiche Reformen in Landwirtschaft, Handel und Gewerbe
+  salon_gaeste: Johann Wolfgang von Goethe, Jakob Michael Reinhold Lenz
+GUELTIG_AB: 1774
+GUELTIG_BIS: 1787
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/014
+ENTITÄT: person
+BEZEICHNUNG: Cornelia Schlosser (geb. Goethe)
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schwester: Johann Wolfgang von Goethe
+  sterbejahr: 1777
+  sterbeort: Emmendingen
+  bestattungsort: Alter Friedhof Emmendingen
+GUELTIG_AB: 1777
+GUELTIG_BIS: 1777
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/015
+ENTITÄT: person
+BEZEICHNUNG: Johann Wolfgang von Goethe
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besuche_emmendingen: 1775, 1779
+  bezug_zu_stadt: Besuch bei Schwester und Ehemann Schlosser
+GUELTIG_AB: 1775
+GUELTIG_BIS: 1779
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/016
+ENTITÄT: person
+BEZEICHNUNG: Carl Friedrich Meerwein
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Landbaumeister
+  publikation: Der Mensch! sollte der nicht auch mit Fähigkeiten zum Fliegen geboren sein?
+  publikationsjahr: 1782
+  beschreibung: Entwurf eines Flugmodells mit Berechnungen
+GUELTIG_AB: 1782
+GUELTIG_BIS: 1782
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 11-emmendingen/017
+ENTITÄT: unternehmen
+BEZEICHNUNG: Papierfabrik Sonntag
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsjahr: 1802
+  art: Industrieunternehmen
+  beschreibung: erstes Industrieunternehmen der Stadt
+  existenzzeitraum: 1802-1980
+GUELTIG_AB: 1802
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/018
+ENTITÄT: unternehmen
+BEZEICHNUNG: Erste Mechanische Hanfspinnerei Badens
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsjahr: 1835
+  entwicklung: Mitte des 19. Jahrhunderts größter Industriebetrieb der Stadt
+  mitarbeiter_maximal: über 100
+GUELTIG_AB: 1835
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/019
+ENTITÄT: unternehmen
+BEZEICHNUNG: Erste Deutsche Ramie-Gesellschaft
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Hervorgang aus Mechanischer Hanfspinnerei
+  gruendungsjahr: 1889
+  entwicklung: Nach 1. Weltkrieg wichtigster industrieller Großbetrieb
+  mitarbeiter_maximal: 3000
+  schliessung: 2006
+GUELTIG_AB: 1889
+GUELTIG_BIS: 2006
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/020
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Emmendinger Bahnhof
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnungsdatum: 1845-08-01
+  strecke: Mannheim-Basel bis Freiburg
+GUELTIG_AB: 1845
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/021
+ENTITÄT: klinik
+BEZEICHNUNG: Heil- und Pflegeanstalt Emmendingen (heute: Zentrum für Psychiatrie Emmendingen)
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1884
+  heute_name: Zentrum für Psychiatrie Emmendingen
+GUELTIG_AB: 1884
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/022
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: "Euthanasie-Aktion"
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1940-03 bis 1941-06
+  betroffen_institution: Heil- und Pflegeanstalt Emmendingen
+  patienten_betroffen: ca. 800
+  beschreibung: Patienten in andere Anstalten gebracht und dort ermordet
+GUELTIG_AB: 1940
+GUELTIG_BIS: 1941
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/023
+ENTITÄT: bauwerk
+BEZEICHNUNG: Emmendinger Synagoge
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Schlossplatz
+  zerstoerungsdatum: 1938-11-10
+  zerstoerungsgrund: NS-Gewalt (SA und SA-Reserve)
+GUELTIG_AB: 
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/024
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Deportation Emmendinger Juden
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1940-10-22
+  anzahl_deportierte: 71
+  zielort: Lager Gurs in Südfrankreich
+  todesfaelle_gurs: 20
+  deportation_zu_auschwitz: 32
+  ueberlebende_aus_auschwitz: 1
+GUELTIG_AB: 1940
+GUELTIG_BIS: 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/025
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Fliegerangriff auf Ramie AG
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1945-02-28
+  ziel: Firmengebäude der Ramie AG
+  todesfaelle: 234
+  davon_zwangsarbeiter: viele
+  betrieb_fuer_ruestungsindustrie: ja
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/026
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Wiederaufbau Emmendingen nach Zweitem Weltkrieg
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1945 ff.
+  besetzung_durch: französische Truppen
+  besetzungsdatum: 1945-04-21
+GUELTIG_AB: 1945
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/027
+ENTITÄT: gemeindereform
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_1971-08-01: Kollmarsreute, Windenreute, Maleck
+  eingemeindung_1974-01-01: Mundingen
+  eingemeindung_1975-01-01: Wasser
+GUELTIG_AB: 1971
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/028
+ENTITÄT: verwaltungsgemeinschaft
+BEZEICHNUNG: Vereinbarte Verwaltungsgemeinschaft Emmendingen
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inkrafttreten: 1975-01-01
+  mitglieder: Stadt Emmendingen, Gemeinden Teningen, Malterdingen, Freiamt, Sexau
+  emmendingen_funktion: Sitz der Kreisverwaltung
+GUELTIG_AB: 1975
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/029
+ENTITÄT: archiv
+BEZEICHNUNG: Stadtarchiv Emmendingen
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestande_zeitraum: 5 Jahrhunderte
+  tageszeitung_ab: 1867
+GUELTIG_AB: 
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 11-emmendingen/030
+ENTITÄT: zeitung
+BEZEICHNUNG: Hochberger Bote
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erscheinungszeitraum: 1866-1901
+  verfuegbarkeit: online auf stadtarchiv.emmendingen.de
+GUELTIG_AB: 1866
+GUELTIG_BIS: 1901
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 11-emmendingen/031
+ENTITÄT: zeitung
+BEZEICHNUNG: Breisgauer Nachrichten
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erscheinungszeitraum: 1902-1945
+  verfuegbarkeit: online auf stadtarchiv.emmendingen.de
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 11-emmendingen/032
+ENTITÄT: publikation
+BEZEICHNUNG: Emmendinger Heimatkalender
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erscheinungszeitraum: 1950-1992
+  nachfolger: Emmendinger Chronik
+  ausgaben_online: 1950-1992
+GUELTIG_AB: 1950
+GUELTIG_BIS: 1992
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 11-emmendingen/033
+ENTITÄT: publikation
+BEZEICHNUNG: Emmendinger Chronik
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erscheinungsweise: jaehrlich
+  veroeffentlichung_ab: 1950 (als Heimatkalender)
+  ausgabe_2025: 33
+  geschichte_jaehrig: 75 Jahre (Vorläufer Heimatkalender)
+  beschreibung: Fortführung Emmendinger Heimatkalenders
+GUELTIG_AB: 1950
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/034
+ENTITÄT: auszeichnung
+BEZEICHNUNG: Kulturpreis der Stadt Emmendingen
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/kulturpreis | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsjahr: 1983
+  dotierung_euro: 3000
+  zweck: Würdigung herausragender Leistungen in Musik, Literatur, Malerei und anderen musischen Bereichen
+  voraussetzung: Wohnsitz in Emmendingen oder Werk mit Bezug zur Stadt
+GUELTIG_AB: 1983
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/035
+ENTITÄT: kulturpreis_traeger
+BEZEICHNUNG: Friederike Kendel
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/kulturpreis | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  preisjahr: 1983
+GUELTIG_AB: 1983
+GUELTIG_BIS: 1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/036
+ENTITÄT: kulturpreis_traeger
+BEZEICHNUNG: Deutsches Tagebucharchiv e.V.
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/kulturpreis | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  preisjahr: 1999
+GUELTIG_AB: 1999
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/037
+ENTITÄT: archiv
+BEZEICHNUNG: Deutsches Tagebucharchiv (DTA)
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsjahr: 1998
+  sitz: Altes Rathaus Emmendingen
+  sammlung: Tagebücher, Lebenserinnerungen und Briefwechsel
+  beschreibung: einzigartig in Deutschland
+GUELTIG_AB: 1998
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/038
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Friedrich Anton Rief
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/ehrenbuerger-ehrennadel | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1788
+  sterbejahr: 1862
+  sterbeort: Emmendingen
+  funktion: Bezirksbaumeister
+  verleihungsdatum: 1859-09-10
+  verleihungsgrund: Verdienste um Kirchturmänderung und Planung neuen Turms
+GUELTIG_AB: 1859
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/039
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Dr. Schürmayer
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/ehrenbuerger-ehrennadel | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Geheimer Hofrat
+  funktion: Amts-Wundarzt (ab April 1829), später Bezirksarzt
+  leistung: Veranlasste Gründung Leopold- und Sophien-Hospitals
+  zusatzauszeichnung: Kommandeurkreuz des St. Anna-Ordens vom Kaiser von Russland (zu 40-jährigem Jubiläum als Staatsarzt)
+GUELTIG_AB: 1829
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 11-emmendingen/040
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Georg Sehringer
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/ehrenbuerger-ehrennadel | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1802
+  geburtsort: Niederweiler
+  sterbejahr: 1894
+  sterbeort: Emmendingen
+  titel: Dr. theol. h.c., Kirchenrat
+  funktion: evangelischer Stadtpfarrer und Dekan
+  verleihungsdatum: 1873-06-25
+  dienstdauer: über 40 Jahre
+  verleihungsgrund: unermüdlicher Eifer für Jugendbildung und Seelsorge
+GUELTIG_AB: 1873
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/041
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Andreas Roll
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/ehrenbuerger-ehrennadel | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1818
+  geburtsort: Wittenweier
+  sterbejahr: 1908
+  funktion: Lehrer, Bürgermeister, Ratschreiber, Standesbeamter
+  dienstzeit: 1852-1893
+  verleihungsdatum: 1897-11-29
+  verleihungsgrund: langjährige treue Dienste
+GUELTIG_AB: 1897
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/042
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: August Ludwig
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/ehrenbuerger-ehrennadel | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1836
+  geburtsort: Pforzheim
+  sterbejahr: 1920
+  sterbeort: Emmendingen
+  funktion: Apotheker
+  verleihungsdatum: 1909-06-18
+  verleihungsgrund: segensreiche Wirksamkeit als Gemeinderat und in öffentlichen Ehrenämtern
+GUELTIG_AB: 1909
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/043
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Franz Josef Baumgartner
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/ehrenbuerger-ehrennadel | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1852
+  geburtsort: St. Blasien
+  sterbejahr: 1916
+  sterbeort: Wiesbaden
+  titel: Dr. ing. h.c., Kommerzienrat
+  funktion: Fabrikdirektor
+  betrieb: Erste Deutsche Ramiegesellschaft Emmendingen
+  dienstdauer: 25 Jahre
+  verleihungsdatum: 1916-04-04
+  verleihungsgrund: hervorragende Verdienste und Obmann des Bürgerausschusses
+GUELTIG_AB: 1916
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/044
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Hermann Sachs
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/ehrenbuerger-ehrennadel | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1854
+  geburtsort: Waibstadt
+  sterbejahr: 1919
+  titel: Geistlicher Rat
+  funktion: katholischer Stadtpfarrer
+  verleihungsdatum: 1918-12-04
+  verleihungsgrund: 30-jähriges Dienstjubiläum
+GUELTIG_AB: 1918
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/045
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Karl Ludwig Vollrath
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/ehrenbuerger-ehrennadel | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1853
+  sterbejahr: 1922
+  sterbeort: Emmendingen
+  funktion: Mühlenbesitzer
+  verleihungsdatum: 1919-11-10
+  verleihungsgrund: Verdienste während 27-jähriger Dienstzeit als Gemeinderat
+  muehle_lage: Ecke Markgrafen-/Romaneistraße
+  muehle_heute: Kleinwasserkraftwerk
+GUELTIG_AB: 1919
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/046
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Albert Friedrich Rehm
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/ehrenbuerger-ehrennadel | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1857
+  geburtsort: Emmendingen
+  sterbejahr: 1923
+  sterbeort: Emmendingen
+  funktion: Kaufmann, Bürgermeister
+  dienstdauer: 24 Jahre
+  verleihungsdatum: 1921-05-09
+  verleihungsgrund: große Verdienste um Entwicklung der Stadt
+GUELTIG_AB: 1921
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/047
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Adolf Sexauer
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/ehrenbuerger-ehrennadel | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1859
+  sterbejahr: 1939
+  sterbeort: Emmendingen
+  funktion: Lederfabrikant
+  verleihungsdatum: 1929-03-25
+  verleihungsgrund: segensreiche Verdienste als Industrieller und Bürgerausschussmitglied
+GUELTIG_AB: 1929
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/048
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Wilhelm Otto Wehrle
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/ehrenbuerger-ehrennadel | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1861
+  sterbejahr: 1946
+  sterbeort: Emmendingen
+  funktion: Fabrikant
+  verleihungsdatum: 1930-11-12
+  verleihungsgrund: Anteilnahme am Blühen der Stadt und Verdienste um Industrie
+GUELTIG_AB: 1930
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/049
+ENTITÄT: ehrenbuerger
+BEZEICHNUNG: Karl Faller
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/geschichte/ehrenbuerger-ehrennadel | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1913
+  sterbejahr: 1982
+  sterbeort: Emmendingen
+  funktion: Bürgermeister (1945-1973), Oberbürgermeister (1973-1981)
+  verleihungsdatum: 1981-01-20
+  verleihungsgrund: hervorragende Verdienste um Wiederaufbau und Fortentwicklung
+  besonderheit: dienstältester Bürgermeister Baden-Württembergs bei Pensionierung
+GUELTIG_AB: 1981
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 11-emmendingen/050
+ENTITÄT: ortschaft
+BEZEICHNUNG: Kollmarsreute
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/ortschaften-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1385
+  erwaehnung_art: schriftlich
+  geschichte: Ausbausiedlung, um 1400 Teil Emmendinger Bann
+  reformationszeit_konversion: evangelisch
+  eingemeindung: 1971-08-01
+  einwohner_heute: ca. 1800
+  siedlungsentwicklung_damals: wegen Elzhochwasser nach Osten verlegt
+  neubaugebiete: Herrschaftsacker, Vier-Jauchert, Leimenacker
+GUELTIG_AB: 1385
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/051
+ENTITÄT: ortschaft
+BEZEICHNUNG: Maleck
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/ortschaften-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1341
+  geschichte_kloster: Kloster Tennenbach hatte großen Hof
+  eingemeindung: 1971-08-01
+  einwohner_heute: 422
+  gemeindeeinrichtung: Dorfgemeinschaftshaus
+GUELTIG_AB: 1341
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/052
+ENTITÄT: ortschaft
+BEZEICHNUNG: Mundingen
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/ortschaften-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1139
+  erste_erwaehnung_person: Rodolf de Mundingen (vermutlich Vogt)
+  jubeljaehriger: 1989 (850-jähriges Bestehen)
+  jugendzeitfunde_jungsteinzeit: vor 4000 Jahren, Pfeilspitzen und Tonscherben
+  jugendzeitfunde_alemannen: ca. 600 n.Chr., 150 Grablegungen mit Waffen und Alltagsgegenständen
+  eingemeindung: 1974-01-01
+  einwohner_heute: ca. 1985
+  hoechster_ort: 400 m (Huttenhof)
+  niedrigster_ort: 190 m (Elz)
+  kleindenkmale: 40 (davon 8 Laufbrunnen)
+  muehle: Mundinger Mühle mit Wasserrad und Picknickstation
+  strasse_mit_gedichten: Otto-Raupp-Straße (8 alemannische Gedichte von Heimatdichter)
+  wappen_erstnachweis: 1660 (Gerichtssiegel)
+  wappen_beschreibung: Vorderseite (silber) grüne Eichenstaude mit 7 Eicheln auf grünem Dreiberg, Rückseite (gold) roter Schrägbalken
+  wappen_besonderheit: markgräfliches Wappen nur auf Rückseite (anders als andere Wappen der Gegend)
+  fahnenfarben: Grün und Weiß
+GUELTIG_AB: 1139
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/053
+ENTITÄT: ortschaft
+BEZEICHNUNG: Wasser
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/ortschaften-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1419
+  erste_erwaehnung_name: "Uff dem Wasser"
+  geschichte: Teil Markgrafschaft Hachberg, in Reformationszeit evangelisch
+  eigenstaendigkeit_erlangung: 1817
+  eigenstaendigkeit_vorher_teil_von: Kollmarsreute
+  einwohner_1817: 182
+  einwohner_heute: ca. 1750
+  wiesenbruecke: 1898 erbaut
+  wasserer_wehr: 1921 gebaut
+  holzbruecke: überdacht über B3-Umfahrung
+  storchennest: vorhanden (mit Webcam)
+GUELTIG_AB: 1419
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/054
+ENTITÄT: ortschaft
+BEZEICHNUNG: Windenreute
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/ortschaften-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1094
+  erste_erwaehnung_quelle: Urkunde Kloster Allerheiligen
+  eingemeindung: 1971-08-01
+  wappen_beschreibung: gespaltener Schild mit rotem Schrägstreifen auf gelbem Grund (Baden-Wappen) und facettierter Raute in Silber auf blauem Grund
+  storchennest: vorhanden (mit Webcam)
+GUELTIG_AB: 1094
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 11-emmendingen/055
+ENTITÄT: stadtteil
+BEZEICHNUNG: Bürkle-Bleiche
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/ortschaften-stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: größter Stadtteil der Stadt Emmendingen
+  einwohner: ca. 9000
+  baubeginn: 1936
+  einwohner_baubeginn: ca. 8400
+GUELTIG_AB: 1936
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/056
+ENTITÄT: stadtteil
+BEZEICHNUNG: Kernstadt
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/stadtinformationen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 21461
+GUELTIG_AB: 2026-06-30
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/057
+ENTITÄT: stadtteil
+BEZEICHNUNG: Unterstadt
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/stadtinformationen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 4307
+GUELTIG_AB: 2026-06-30
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/058
+ENTITÄT: stadtteil
+BEZEICHNUNG: Über der Elz
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/stadtinformationen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 342
+GUELTIG_AB: 2026-06-30
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/059
+ENTITÄT: stadtteil
+BEZEICHNUNG: Mittelstadt
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/stadtinformationen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 4770
+GUELTIG_AB: 2026-06-30
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/060
+ENTITÄT: stadtteil
+BEZEICHNUNG: Oberstadt
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/stadtinformationen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 2750
+GUELTIG_AB: 2026-06-30
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/061
+ENTITÄT: stadtteil
+BEZEICHNUNG: Bürkle
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/stadtinformationen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 4868
+GUELTIG_AB: 2026-06-30
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/062
+ENTITÄT: stadtteil
+BEZEICHNUNG: Bleiche
+QUELLE: https://www.emmendingen.de/stadt-emmendingen/stadtinformationen/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 4424
+GUELTIG_AB: 2026-06-30
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 11-emmendingen/063
+ENTITÄT: zentrum
+BEZEICHNUNG: Stadtteil- und Familienzentrum Bürkle-Bleiche
+QUELLE: https://www.emmendingen.de/leben-umwelt/familien/stadtteil-und-familienzentrum-buerkle-bleiche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Fritz-Boehle-Campus im Stadtteil Bürkle-Bleiche
+  funktionen: Betreuungseinrichtung, Bildungs- und Begegnungsstätte, Beratungsstelle
+  zielgruppe: alle Altersgruppen
+  staedtische_einrichtungen: Kindergarten Silberbaum, Kinderkrippe Mosaik, Betreuung Schulkinder (FamZ KIDZ), Bürgerservice
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93

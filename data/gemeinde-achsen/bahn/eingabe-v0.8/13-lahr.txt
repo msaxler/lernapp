@@ -1,0 +1,509 @@
+ZIELORT: Lahr (Stadt)
+LAGE: 38 km nördlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Lahr/Schwarzwald
+
+GRUNDDATEN:
+  landkreis: Ortenaukreis  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 51.208  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 69,86 | 69,84  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 733  [berechnet aus Einwohner und Fläche]
+  hoehe_m: 170 | 176  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2881885)]
+  naechste_grossstadt: Freiburg im Breisgau, 38 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 108 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Lahr (Schwarzw)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 77933  [Wikidata P281]
+  vorwahl: 07821  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: AfD 31,4 %, CDU 24,7 %, SPD 13,6 %, GRÜNE 9,4 %, Die Linke 6,6 %, BSW 5,1 %; Wahlbeteiligung 75,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Markus Ibert (parteilos) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-03]
+  partnerstaedte: Dole, Belleville, Alajuela, Erstein  [Wikidata P190]
+  kfz: LR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand staedte.json]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT hoehe_m: Höhe des Orts (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Fläche der Gemarkung), C, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Herbolzheim (Stadt)
+  landkreis: Emmendingen  [dewiki Infobox]
+  einwohner: 10.741  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 35,48  [Wikidata P2046; Altbestand staedte.json]
+  kfz: EM (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 177 | 178  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2906205)]
+  naechste_grossstadt: Freiburg im Breisgau, 26 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Herbolzheim (Breisgau)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 29,9 %, AfD 21,6 %, SPD 15 %, GRÜNE 12,9 %, Die Linke 7,1 %; Wahlbeteiligung 83 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Emmendingen, Kenzingen, Herbolzheim, Lahr, Offenburg, Achern, Bühl, Baden-Baden, Rastatt, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Langen, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar
+
+FAKTEN (Zielort Lahr):
+ID: 13-lahr/001
+ENTITÄT: ort
+BEZEICHNUNG: Lahr
+QUELLE: https://www.lahr.de/wirtschaftsgeschichte.11677.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeindereform_jahr: 1972
+  anzahl_stadtteile: 7
+  strukturwandel_handelsstadt_zu_industriestadt: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 13-lahr/002
+ENTITÄT: ort
+BEZEICHNUNG: Lahr
+QUELLE: https://www.lahr.de/stadtwappen.1768.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geschichte: "750 Jahre Lahr"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 13-lahr/003
+ENTITÄT: fabrik
+BEZEICHNUNG: Schnupftabak-Fabrik
+QUELLE: https://www.lahr.de/wirtschaftsgeschichte.11677.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  produkt: Schnupftabak
+  gründungsjahrhundert: 18. Jahrhundert
+  bedeutung: "erste Fabrik, Beginn der modernen Wirtschaftsgeschichte Lahrs"
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 13-lahr/004
+ENTITÄT: fabrik
+BEZEICHNUNG: Kartonagefabrik Dreyspring
+QUELLE: https://www.lahr.de/wirtschaftsgeschichte.11677.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründer: "C.F. Dreyspring"
+  gründungsjahr: 1816
+  produkt: Kartonage
+  bedeutung: "Grundstein für bedeutenden Wirtschaftszweig in Lahr"
+GUELTIG_AB: 1816
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 13-lahr/005
+ENTITÄT: wirtschaftszweig
+QUELLE: https://www.lahr.de/wirtschaftsgeschichte.11677.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  führende_branchen_21_jahrhundert: "Werkzeug- und Maschinenbau, Automobilzulieferung, Druck- und Verpackungsindustrie, Sanitärausstattung, Gesundheit, Logistik"
+  lage_unternehmensansiedlung: "Industrie- und Gewerbegebiete im Lahrer Westen"
+  merkmal: "zahlreiche international agierende Unternehmen"
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 13-lahr/006
+ENTITÄT: beiname
+QUELLE: https://www.lahr.de/wirtschaftsgeschichte.11677.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  name: "Schächtele-Stadt"
+  grund: "Zentrum der badischen Verpackungsindustrie"
+  zeitraum: "Anfang 20. Jahrhundert"
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1950
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 13-lahr/007
+ENTITÄT: kirche
+BEZEICHNUNG: Burgheimer Kirche
+QUELLE: https://www.lahr.de/kirchen.1308.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: romanisch
+  form: rechteckular
+  bauzeit: "12. Jahrhundert"
+  merkmal: "romanische Schall-Öffnungen des Chorturms, Turm vorhanden"
+  superlativ: "bekannteste Kirche Lahrs und eines der ältesten Gebäude der Stadt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 13-lahr/008
+ENTITÄT: park
+BEZEICHNUNG: Stadtpark
+QUELLE: https://www.lahr.de/geschichte-des-stadtparks.7302.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stifter: "Christian Wilhelm Jamm"
+  stiftungsjahr: 1875
+  ursprüngliche_form: Lindengarten
+  merkmal: "Villa Jamm im Park, angelegt mit französischem Architekten und Baumeistern"
+GUELTIG_AB: 1875
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 13-lahr/009
+ENTITÄT: villa
+BEZEICHNUNG: Villa Jamm
+QUELLE: https://www.lahr.de/geschichte-des-stadtparks.7302.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: "Christian Wilhelm Jamm"
+  beschreibung: "fast fürstlicher Herrensitz"
+  lage: "im Stadtpark Lahr"
+  baumeister: "französische Architekten und Baumeister"
+GUELTIG_AB: 1835
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 13-lahr/010
+ENTITÄT: person
+BEZEICHNUNG: Christian Wilhelm Jamm
+QUELLE: https://www.lahr.de/geschichte-des-stadtparks.7302.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: "30. Juni 1809"
+  geburtsort: Lahr
+  todestag: "7. Mai 1875"
+  todeort: Lahr
+  vater_beruf: Schlosserei
+  beruf: "Kaufmann, Importeur, Großhändler"
+  geschäftstätigkeit: "Handel mit Seiden- und Baumwollstoffen"
+  geschäftstätigkeit_orte: "Havanna, Südafrika, Mittelamerika"
+  geschäftstätigkeit_dauer: "20 Jahre auf Kuba"
+  vermächtnis_empfänger: "Stadt Lahr"
+  vermächtnis_bestand: "Stadpark, Villa Jamm, Barmittel, Evangelische Kirche zu Ehren Christi"
+  vermächtnis_form: "testamentarische Anweisungen"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 13-lahr/011
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche zu Ehren Christi
+ORTSTEIL_BEZUG: Stadtpark
+QUELLE: https://www.lahr.de/geschichte-des-stadtparks.7302.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  stifter: "Christian Wilhelm Jamm"
+  zweck: "zu Ehren Christi und als privates Grabmal des Stifters"
+  besonderheit: "Stifter testamentarisch beigesetzt, strikte Richtlinien zur Bauweise und Pfarrstellen-Besetzung"
+  größe_beschreibung: "größtes privates Grabmal weit und breit"
+GUELTIG_AB: 1875
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 13-lahr/012
+ENTITÄT: gremium
+BEZEICHNUNG: Jugendgemeinderat Lahr
+QUELLE: https://www.lahr.de/wir-ueber-uns.11224.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_wahl: "10. Oktober 1997"
+  mitglieder_anzahl: 21
+  mitglieder_wahlberechtigung_mindestalter: 13
+  mitglieder_wahlberechtigung_maximalter: 19
+  sitzungen_öffentlich_pro_jahr: 5
+  sitzungen_arbeit_pro_monat: 1
+  begleitung: "Begegnungsstätte Schlachthof - Kinder, Jugend und Kultur"
+  arbeitsgruppen: true
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 13-lahr/013
+ENTITÄT: wappen
+QUELLE: https://www.lahr.de/stadtwappen.1768.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  form: "gespaltener Schild"
+  linke_hälfte_metall: Gold
+  linke_hälfte_farbe: rot
+  linke_hälfte_element: Balken
+  linke_hälfte_herkunft: "Familie der Geroldsecker (Stadtgründer)"
+  rechte_hälfte_farbe: Blau
+  rechte_hälfte_element: "silberne durchgehende Mauer mit 3 Zinnen, offenes Tor mit hochgezogenem Fallgitter"
+  rechte_hälfte_bedeutung: "typisches Motiv für mittelalterliche Stadt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 13-lahr/014
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Dole
+QUELLE: https://www.lahr.de/sehenswertes.4489.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  lage_beschreibung: "idyllisch auf Kalkstein-Hügel oberhalb des Flusses Doubs"
+  geschichtlicher_hintergrund: "im 11. Jahrhundert Brücke vom Schloss des Grafen von Burgund bewacht, mittelalterlicher Brückenbogen bis heute erhalten"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 13-lahr/015
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Belleville
+QUELLE: https://www.lahr.de/sehenswertes.4802.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Kanada
+  parklandschaft_hektar: 205
+  hafenanlagen: 2
+  besonderheit: "Käseproduktion, bekannt für Cheddar"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 13-lahr/016
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Alajuela
+QUELLE: https://www.lahr.de/sehenswertes.10940.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: "Costa Rica"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 13-lahr/017
+ENTITÄT: person
+BEZEICHNUNG: Philipp Jakob Siebenpfeiffer
+QUELLE: https://www.lahr.de/persoenlichkeiten.1037.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Lahr
+  geburtstag: 1789
+  todestag: 1845
+  beruf: "Jurist, Beamter, Publizist, Professor"
+  bedeutung: "einer der bedeutendsten Liberalen des deutschen Vormärzliberalismus"
+  superlativ: "Organisator des Hambacher Fests"
+  hambacher_fest_jahr: 1832
+  hambacher_fest_besucherzahl: 30000
+  hambacher_fest_forderungen: "föderative deutsche Republik, Allianz demokratischer Kräfte in Europa, gegen restaurative Kräfte der Heiligen Allianz"
+  strafe: "zwei Jahre Haft"
+  flucht_land: Schweiz
+  tätigkeit_nach_flucht: Professor
+GUELTIG_AB: 1789
+GUELTIG_BIS: 1845
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 13-lahr/018
+ENTITÄT: person
+BEZEICHNUNG: Ludwig Eichrodt
+QUELLE: https://www.lahr.de/persoenlichkeiten.1037.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Durlach
+  geburtstag: 1827
+  todestag: 1892
+  todeort: Lahr
+  beruf: "Jurist, Oberamtsrichter, Schriftsteller"
+  tätigkeit_lahr_ab: 1871
+  bedeutung: "Parodien auf Samuel Friedrich Sauter, Epochenbegriff 'Biedermeier' geht auf ihn zurück"
+  werke: "Gedichte, Balladen, Studentenlieder"
+GUELTIG_AB: 1871
+GUELTIG_BIS: 1892
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 13-lahr/019
+ENTITÄT: person
+BEZEICHNUNG: Ludwig Sütterlin
+QUELLE: https://www.lahr.de/persoenlichkeiten.1037.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Lahr
+  geburtstag: 1865
+  todestag: 1917
+  todeort: Berlin
+  beruf: Grafiker
+  werke: "Zeichnungen Berliner Elektricitätswerke AG (1894), Plakatwettbewerb-Gewinn (1896)"
+  erfindung: "Sütterlin-Schrift (Schulausgangsschrift)"
+  erfindung_auftrag: "preußische Regierung"
+  erfindung_jahr: 1911
+  verwendung_preußen: "ab 1914"
+  verwendung_baden: "1931-1941"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 13-lahr/020
+ENTITÄT: person
+BEZEICHNUNG: Emil Rudolf Weiss
+QUELLE: https://www.lahr.de/persoenlichkeiten.1037.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Lahr
+  geburtstag: 1875
+  todestag: 1941
+  todeort: Meersburg
+  vater_beruf: Polizeikommissar
+  beruf: "Maler, Grafiker, Buchgestalter"
+  druckschriften: "Weiß-Fraktur, Weiß-Antiqua"
+  bedeutung: "weltweit bekannter Buchgestalter im ersten Drittel des 20. Jahrhunderts"
+  lehr_tätigkeit_ab: 1907
+  lehr_ort: Berlin
+  lehr_institution: "Unterrichtsanstalt des Berliner Kunstgewerbemuseums"
+  vertreibung: 1933
+  grund_vertreibung: Nationalsozialisten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 13-lahr/021
+ENTITÄT: person
+BEZEICHNUNG: Alfred Frank
+QUELLE: https://www.lahr.de/persoenlichkeiten.1037.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Lahr
+  geburtstag: 1884
+  ausbildung: Chromolithographie
+  ausbildungs_unternehmen: "Ernst Kaufmann (Lahr)"
+  übersiedlung_jahr: 1906
+  übersiedlung_ort: Leipzig
+  beruf: "Grafiker, Maler"
+  politisches_engagement: true
+  partei: KPD
+  partei_beitritt_jahr: 1920
+  verfolgung_ab: 1933
+  verhaftungen: "mehrfach"
+  hinrichtung_datum: "12. Januar 1945"
+  hinrichtung_grund: "Hochverrat und Wehrkraftzersetzung"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 13-lahr/022
+ENTITÄT: person
+BEZEICHNUNG: Paul Waeldin
+QUELLE: https://www.lahr.de/persoenlichkeiten.1037.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Lahr
+  geburtstag: 1888
+  todestag: "15. November 1969"
+  studium: Jura
+  promotion_jahr: 1911
+  partei: DDP
+  partei_vorsitz: "1924-1933"
+  amt_oberbürgermeister_stadt: "Stadt Lahr"
+  amt_oberbürgermeister_amtszeit: "1945-1952"
+  amt_regierungspräsident_gebiet: Südbaden
+  amt_regierungspräsident_amtszeit: "1952-1957"
+  amt_regierungspräsident_erster: true
+  mitbegründung: "Demokratische Partei Südbaden (1946)"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 13-lahr/023
+ENTITÄT: person
+BEZEICHNUNG: Felix Wankel
+QUELLE: https://www.lahr.de/persoenlichkeiten.1037.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Lahr
+  geburtstag: 1902
+  todestag: 1988
+  erfindung: Drehkolbenmotor
+  erfindung_benannt_nach: "Wankel selbst"
+  entwicklungsphase_1: "1920er- und 1930er-Jahre"
+  entwicklungsphase_2: "nach Zweitem Weltkrieg"
+  anwendung_heute: true
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 13-lahr/024
+ENTITÄT: person
+BEZEICHNUNG: Hans Furler
+QUELLE: https://www.lahr.de/persoenlichkeiten.1037.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Lahr
+  geburtstag: 1904
+  todestag: 1975
+  todeort: Oberkirch
+  studium: Jura
+  studium_zeitraum: "1920er-Jahre"
+  beruf_juristisch: "Rechtsanwalt"
+  beruf_juristisch_ort: Pforzheim
+  politische_karriere_ab: 1945
+  partei: CDU
+  partei_herkunftsregion: Baden
+  amt: "Bundestagsabgeordneter"
+  besonderheit: "einer der führenden Europapolitiker"
+  europäisches_parlament_amt: "zweiter Präsident"
+  europäisches_parlament_amtszeit: "1960-1962"
+  europäisches_parlament_stadt: Straßburg
+  zusätzliche_verdienste: "Verhältnis Europas zu postkolonialen Staaten in Afrika"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 13-lahr/025
+ENTITÄT: stadtteil
+BEZEICHNUNG: Hugsweier
+QUELLE: https://www.lahr.de/stadtteile.226737.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1500
+  einwohner_ungefähr: true
+  superlativ: "kleinster Stadtteil von Lahr"
+  eingemeindung: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 13-lahr/026
+ENTITÄT: stadtteil
+BEZEICHNUNG: Kippenheimweiler
+QUELLE: https://www.lahr.de/stadtteile.226737.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alias: Wylert
+  lage: "zwischen Kaiserswald und Wiesen im Mattweg, idyllisch"
+  eingemeindung: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 13-lahr/027
+ENTITÄT: stadtteil
+BEZEICHNUNG: Kuhbach
+QUELLE: https://www.lahr.de/stadtteile.226737.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "am Eingang des Schuttertals"
+  eingemeindung: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 13-lahr/028
+ENTITÄT: stadtteil
+BEZEICHNUNG: Langenwinkel
+QUELLE: https://www.lahr.de/stadtteile.226737.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakter: "Neu und Alt, Tradition und Zukunft vereint"
+  eingemeindung: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 13-lahr/029
+ENTITÄT: stadtteil
+BEZEICHNUNG: Mietersheim
+QUELLE: https://www.lahr.de/stadtteile.226737.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: "einer der ältesten Stadtteile von Lahr"
+  eingemeindung: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 13-lahr/030
+ENTITÄT: stadtteil
+BEZEICHNUNG: Reichenbach
+QUELLE: https://www.lahr.de/stadtteile.226737.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "Ferien- und Erholungsort"
+  lage: "eingebettet von Schwarzwaldbergen am Anfang des Schuttertals"
+  eingemeindung: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 13-lahr/031
+ENTITÄT: stadtteil
+BEZEICHNUNG: Sulz
+QUELLE: https://www.lahr.de/stadtteile.226737.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "zwischen Wald und Reben"
+  charakter: "attraktive Wohngemeinde mit Kernstadtnähe"
+  eingemeindung: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 13-lahr/032
+ENTITÄT: sanierungsgebiet
+BEZEICHNUNG: "Nördliche Altstadt"
+QUELLE: https://www.lahr.de/abgeschlossene-erneuerungsmassnahme-noerdliche-altstadt.11717.htm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  programm_aufnahme_sep: 2006
+  programm_überführung_aktive_stadt_ortszentren: 2014
+  programm_überführung_lsp: 2021
+  dauer_lsp: "2021-2023"
+  gesamt_laufzeit: "2006-2023"
+  sanierte_denkmäler_anzahl: 23
+  modernisierte_gebäude_anzahl: 12
+  ziele: "Aufwertung öffentlicher Platz- und Straßenräume, Beseitigung Leerstände, Aktivierung Brachen, Ausbau kultureller Angebote, behutsame Sanierung Denkmäler, Erhalt ortsbildprägender Bausubstanz"
+  betonte_projekte: "Urteilsplatz, Friedrichstraße, Kreuzstraße, ehemaliges Falken, Rotes Haus, Rappenareal, Brünnle Areal, Kino, Stadtmuseum"
+  sanierungssatzung_aufhebung: "29. Januar 2024"
+GUELTIG_AB: 2006
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+

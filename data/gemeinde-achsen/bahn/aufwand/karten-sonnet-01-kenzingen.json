@@ -1,0 +1,33 @@
+{
+ "stufe": "karten-sonnet",
+ "ort": "01-kenzingen",
+ "modell_wunsch": "sonnet",
+ "modelle": [
+  "claude-sonnet-4-6"
+ ],
+ "eingabe_zeichen": 35446,
+ "token_ein": 90313,
+ "token_aus": 70575,
+ "usage": {
+  "input_tokens": 8,
+  "cache_creation_input_tokens": 51479,
+  "cache_read_input_tokens": 38826,
+  "output_tokens": 70575,
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 51479,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "",
+  "iterations": [],
+  "speed": "standard"
+ },
+ "kosten_usd": 1.26334305,
+ "sekunden": 1049,
+ "fehler": false,
+ "zeit": "2026-10-03T15:26:06"
+}

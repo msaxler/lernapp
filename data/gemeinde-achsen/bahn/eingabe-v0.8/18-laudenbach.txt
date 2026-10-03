@@ -1,0 +1,305 @@
+ZIELORT: Laudenbach (Gemeinde)
+LAGE: 19 km nordöstlich von Mannheim (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Laudenbach (Bergstraße)
+
+GRUNDDATEN:
+  landkreis: Rhein-Neckar-Kreis  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 6627  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 10,29  [Wikidata P2046]
+  dichte_ew_km2: 644  [berechnet aus Einwohner und Fläche]
+  kfz: HD (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 102 | 121 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2880204)]
+  naechste_grossstadt: Mannheim, 19 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 100 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Laudenbach (Bergstraße)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 69514  [Wikidata P281]
+  vorwahl: 06201  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 35,2 %, AfD 18,8 %, SPD 15,4 %, GRÜNE 13,2 %, FDP 5,1 %; Wahlbeteiligung 88,9 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Benjamin Köpfle (SPD) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-03]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT einwohner: Einwohnerzahl (Ersatz: Fläche der Gemarkung), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Einwohner je Quadratkilometer), C, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Weinheim (Stadt)
+  landkreis: Rhein-Neckar-Kreis  [dewiki Infobox]
+  einwohner: 45.919  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 58,11  [Wikidata P2046; Altbestand staedte.json]
+  kfz: HD (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 131 | 135 | 118 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2812174)]
+  naechste_grossstadt: Mannheim, 16 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Händelstraße, Weinheim (Bergstraße) Hauptbahnhof, Weinheim Alter OEG-Bahnhof, Weinheim Hbf, Weinheim Tal, Weinheim-Lützelsachsen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32 %, SPD 17,8 %, GRÜNE 15,3 %, AfD 15,3 %, Die Linke 6,4 %, FDP 6,2 %; Wahlbeteiligung 82,8 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Emmendingen, Kenzingen, Herbolzheim, Lahr, Offenburg, Achern, Bühl, Baden-Baden, Rastatt, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Langen, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar
+
+FAKTEN (Zielort Laudenbach):
+ID: 18-laudenbach/001
+ENTITÄT: ort
+DESIGNIERUNG: Laudenbach
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 795 n.Chr.
+  ersterwähnter_name: Lutenbach
+  lage_region: nördliche badische Bergstraße
+  lage_landesgrenze: badisch-hessische Landesgrenze
+  position_in_bachdörfer: nördlichstes der drei "Bachdörfer" (Sulzbach, Hemsbach, Laudenbach)
+  zwischen_städten: Weinheim und Heppenheim
+  gemarkung_fläche: 1029 [ha]
+  tiefster_punkt: 94 [m/NN]
+  höchster_punkt: 402 [m/NN]
+  landwirtschaftsfläche: 491 [ha]
+  waldfläche: 222 [ha]
+  weinbaufläche: 38 [ha]
+  siedlungs_verkehrsfläche: 189 [ha]
+  erholungsfläche: 35 [ha]
+  einwohnerzahl: 6483
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 18-laudenbach/002
+ENTITÄT: ort_herkunft_name
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benannt_nach: Bach (Weschnitz)
+  beschreibung: Der Name "Lutenbach" deutet auf einen Bach hin, über den das Dorf seinen Namen erhielt
+GUELTIG_AB: 795
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 18-laudenbach/003
+ENTITÄT: historisches_ereignis
+DESIGNIERUNG: Zugehörigkeit zum Kloster Lorsch
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_typ: Herrschaftszugehörigkeit
+  herrscher: Kloster Lorsch
+  anlass_grund: Durch die erste Erwähnung in einer Lorsch-Urkunde
+GUELTIG_AB: 795
+GUELTIG_BIS: 1232
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 18-laudenbach/004
+ENTITÄT: historisches_ereignis
+DESIGNIERUNG: Zugehörigkeit zum Erzbistum Mainz
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_typ: Herrschaftswechsel
+  herrscher: Erzbischof von Mainz
+GUELTIG_AB: 1232
+GUELTIG_BIS: 1288
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 18-laudenbach/005
+ENTITÄT: historisches_ereignis
+DESIGNIERUNG: Zugehörigkeit zu Pfälzer Lehen
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_typ: Herrschaftswechsel
+  herrscher: Pfalzgraf
+  besonderheit: Besitzstreitigkeiten mit Erzbischof von Mainz
+GUELTIG_AB: 1288
+GUELTIG_BIS: 1460
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 18-laudenbach/006
+ENTITÄT: historisches_ereignis
+DESIGNIERUNG: Niederbrennnen des Dorfes
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_typ: Zerstörung
+GUELTIG_AB: 1460
+GUELTIG_BIS: 1460
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 18-laudenbach/007
+ENTITÄT: historisches_ereignis
+DESIGNIERUNG: Zugehörigkeit zum Bistum Worms
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_typ: Herrschaftswechsel
+  herrscher: Bischof von Worms
+  attribute: endgültig
+GUELTIG_AB: 1485
+GUELTIG_BIS: 1705
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 18-laudenbach/008
+ENTITÄT: historisches_ereignis
+DESIGNIERUNG: Ende der Wormser Herrschaft und Rückkehr zur Kurpfalz
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_typ: Herrschaftswechsel
+  herrscher: Kurpfalz
+GUELTIG_AB: 1705
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 18-laudenbach/009
+ENTITÄT: historisches_ereignis
+DESIGNIERUNG: Badisch werden und Grenzort
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_typ: Herrschaftswechsel
+  herrscher: Baden
+  attribute: Grenzort mit Hauptzollstation zu Hessen
+  grund: Ende des Heiligen Römischen Reiches Deutscher Nation und der Kurpfalz
+GUELTIG_AB: 1803
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 18-laudenbach/010
+ENTITÄT: kirche
+DESIGNIERUNG: Evangelische Martin-Luther-Kirche
+QUELLE: https://www.gemeinde-laudenbach.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  pfarrer_in: Birgit Risch
+  adresse: Hauptstraße 77, 69514 Laudenbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 18-laudenbach/011
+ENTITÄT: kirche
+DESIGNIERUNG: Katholische Kirche St. Bartholomäus
+QUELLE: https://www.gemeinde-laudenbach.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  pfarrer: Klaus Rapp
+  diakon: Pierre Gerodez
+  adresse: Friedrich-Ebert-Straße 2, 69514 Laudenbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 18-laudenbach/012
+ENTITÄT: partnergemeinde
+DESIGNIERUNG: Ivry-la-Bataille
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Departement Eure, Normandie
+  schwesterngemeinde_seit: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 18-laudenbach/013
+ENTITÄT: partnergemeinde
+DESIGNIERUNG: Elek
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Ungarn
+  region: Komitat Békés
+  schwesterngemeinde_seit: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 18-laudenbach/014
+ENTITÄT: fest
+DESIGNIERUNG: Froschkerwe
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  häufigkeit: jährlich
+  beschreibung: Feier zur Tradition der Froschbezeichnung Laudenbacher Bürger
+  grund: Amphiebienreichtum von Laudenbach, Verkehrskreisel als Froschkonzert gestaltet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 18-laudenbach/015
+ENTITÄT: jubiläum
+DESIGNIERUNG: 1200 Jahrfeier
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Historischer Umzug und viele Veranstaltungen
+GUELTIG_AB: 1995
+GUELTIG_BIS: 1995
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 18-laudenbach/016
+ENTITÄT: wappen
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: In gespaltenem Schild vorn in Blau ein silbernes Winzermesser, hinten in Silber eine blaue Traube mit grünem Blatt und schwarzem Stiel
+  erste_darstellung_urkunde: 1539
+  zweite_urkundenerwähnung: 1608
+  symbolik_deutung: Kennzeichnung Laudenbachs schon früh als Ort des Weinbaus
+  verwendung: Dienstsiegel der Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 18-laudenbach/017
+ENTITÄT: bildungseinrichtung
+DESIGNIERUNG: Grundschule
+ORTSTEIL_BEZUG: Laudenbach
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 18-laudenbach/018
+ENTITÄT: betreuungseinrichtung
+DESIGNIERUNG: Kindergärten
+ORTSTEIL_BEZUG: Laudenbach
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 3
+  ausstattung: modern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 18-laudenbach/019
+ENTITÄT: sportanlage
+DESIGNIERUNG: Sport- und Mehrzweckhalle
+ORTSTEIL_BEZUG: Laudenbach
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausstattung: modern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 18-laudenbach/020
+ENTITÄT: erholungsgebiet
+DESIGNIERUNG: Wald
+ORTSTEIL_BEZUG: Laudenbach
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche: 222 [ha]
+  beschreibung: Ausgezeichnete Wandermöglichkeiten und natürlich erhaltenes Vorgebirge mit Ausblick auf Rheinebene bis zur Haardt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 18-laudenbach/021
+ENTITÄT: gewässer
+DESIGNIERUNG: Weschnitz
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Westen der Gemarkung
+  tiefster_punkt_gemeinde: 94 [m/NN]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 18-laudenbach/022
+ENTITÄT: landform
+DESIGNIERUNG: Juhöhenscholle
+QUELLE: https://www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geologie: kristalliner Odenwald
+  höchster_punkt_gemeinde: 402 [m/NN]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

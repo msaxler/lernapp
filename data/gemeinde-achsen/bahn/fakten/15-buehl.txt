@@ -1,0 +1,783 @@
+ID: 15-buehl/001
+ENTITÄT: ortsteil
+BEZEICHNUNG: Moos
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Stadtteile/Moos/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1325
+  ersterwähnungsform: "in banno Mose"
+  namensbedeutung: "Lage im sumpfigen Gebiet der Niederterrasse"
+  herkunft: "hochmittelalterliche Siedlung"
+  herkunft_genauigkeit: "sehr wahrscheinlich"
+  kapelle_seit: 1358
+  kirchlich_gehörig_zu: "Kloster Schwarzach"
+  zugehörigkeit_amt: "Amt Bühl"
+  zugehörigkeit_oberamt: "Oberamt Yburg"
+  vertreten_durch_bürgermeister_ab: 1600
+  hauptwirtschaft: "Hanfanbau, Viehzucht, Pferdezucht"
+  gemeindlicher_waldbesitz: "Teilhabe am Scherzheimer Wald"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 15-buehl/002
+ENTITÄT: kirche
+BEZEICHNUNG: (nicht benannt, Hauptkirche Moos)
+ORTSTEIL_BEZUG: Moos
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Stadtteile/Moos/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1784-1788
+  vorgänger_kapelle_seit: 1358
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neusatz
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Stadtteile/Neusatz/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1248
+  eingemeindung_in_bühl: 1971
+  wirtschaft_historisch: "landwirtschaftlich orientiert mit Handwerk und Handel"
+  charakterisierung_heute: "traditionsreiche, blühende und zukunftsorientierte Gemeinde"
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 15-buehl/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Waldmatt
+ORTSTEIL_BEZUG: (ehemals selbständig, später Neusatz)
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Stadtteile/Neusatz/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1396
+  eingemeindung_neusatz: 1936
+GUELTIG_AB: 1396
+GUELTIG_BIS: 1936
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Vimbuch
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Stadtteile/Vimbuch/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1154
+  ersterwähnungsformen: "Vindtbuoch, Fintbuch"
+  gehört_zu: "Abtei Schwarzach (Hauptbesitztümer)"
+  namensetymologie: "Zusammensetzung aus Heiligenname St. Fint(an) und 'buch' für Buchenwald"
+  namensetymologie_genauigkeit: "vermutlich"
+  gemeindewappen_basiert_auf: "1723 gestochenes Siegel"
+  wappenfarben_festgelegt: 1899
+  eingemeindung_nach_bühl: 1973
+GUELTIG_BIS: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Eisental
+ORTSTEIL_BEZUG: Eisental
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Stadtteile/Eisental/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Weinort"
+  zusammenschluss_vogtei_müllenbach_bis: 1824
+  kommunales_zentrum_eingerichtet: "früher 19. Jahrhundert"
+  zugehörigkeit_steinbacher_stab: "Amt Steinbach"
+  zugehörigkeit_amtsbezirk_bühl_ab: "1819-11-11"
+  bevölkerungsanteil_anfang_19_jh: "Hälfte der Bevölkerung der Vogtei"
+  aktenkundlich_belegt_seit: "Mitte 16. Jahrhundert"
+  kapelle_vorhanden_seit: "spätes 17. Jahrhundert (Vermutung)"
+  kapelle_genauigkeit: "vermutlich"
+  kapelle_neubau: 1787
+  kapelle_architekt: "Franz Ignatz Krohmer (Rastatter Hofarchitekt)"
+  kirche_erbaut: 1828
+  kirche_architekt: "Johann Ludwig Weinbrenner"
+  kirche_anlass: "Großzügige Stiftung Rastatter Bilderhändler Nikolaus Pauli"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 15-buehl/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Müllenbach
+ORTSTEIL_BEZUG: Eisental-Komplex
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Stadtteile/Eisental/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: "1070-1092"
+  charakterisierung: "ältester der drei Ortsteile (Eisental, Affental, Müllenbach)"
+  hofgut_zeitraum: "Mittelalter bis 18. Jahrhundert"
+  hofgut_namen: "Hubhof, auch Müllenhof genannt"
+  hofgut_gehört_zu: "Stift Seltz"
+  hofgut_privatisierung: "Anfang 19. Jahrhundert"
+  kapelle: "Rokokokapelle 1752"
+  schulunterricht: "Privathäuser (früher 19. Jahrhundert)"
+  vorherrschaft_verloren: 1824
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 15-buehl/008
+ENTITÄT: ortsteil
+BEZEICHNUNG: Affental
+ORTSTEIL_BEZUG: Eisental-Komplex
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Stadtteile/Eisental/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: "früher 14. Jahrhundert"
+  rebhöfe_anzahl: 3
+  rebhöfe_besitzer: "zwei Kloster Lichtental, einer markgräfliche Herrschaft"
+  rebhöfe_privatisierung: "1809-1810"
+  kapelle: 1754
+  gasthaus_zum_auerhahn_erbaut: 1715
+  gasthaus_zum_auerhahn_beschreibung: "ältestes Gasthaus im Ort"
+  gasthaus_zum_auerhahn_nutzung: "Familien- und Vereinsfeste, Theateraufführungen, überregional bekannt"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 15-buehl/009
+ENTITÄT: ortsteil
+BEZEICHNUNG: Balzhofen
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Stadtteile/Balzhofen/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: "Einzelhofsiedlung des frühen Mittelalters"
+  herkunft_genauigkeit: "vermutlich"
+  ersterwähnung: 1325
+  ersterwähnungsform: "Baldeltzhofen"
+  namensetymologie: "Ortsname mit Bestimmungswort auf Personennamen zurückgehend"
+  zugehörigkeit: "Immunitätsbezirk des Klosters Schwarzach"
+  kirchlich_zugehörig: "Pfarrei Vimbuch"
+  adel_vorhanden: false
+  einwohnerzahl_um_1540: "50 bis 70 Personen"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 15-buehl/010
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberbruch
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Stadtteile/Oberbruch/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  weiler: "Kinzhurst"
+  lage: "entlang Laufbach im Feuchtgebiet der Kinzig-Murg-Rinne"
+  ersterwähnung: 1333
+  ersterwähnungskontext: "beim Kloster Schwarzach"
+  namenbedeutung: "Lage der Siedlung an einem Sumpf (Bruch)"
+  erster_hof: 1307
+  häuser_anfang_17_jh: "etwa 20"
+  zugehörigkeit_kloster: "Kloster Schwarzach"
+  zugehörigkeit_gerichtsstab: "Vimbucher Gerichtsstab"
+  landeshoheit: "Markgrafen von Baden"
+  gemeinde_erwähnung_ab: 1420
+  bürgermeister_ab: 1800
+  gemeindlicher_besitz: "Weiderechte, Hirten- und Schulhaus, Hanfpleuel"
+  kirchlich_zugehörig: "Pfarrei Vimbuch"
+  kapelle_seit: 1661
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 15-buehl/011
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberweier
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Stadtteile/Oberweier/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemarkung_größe: "besonders klein"
+  dorfform_ausgang_18_jh: "hufeisenfürmig"
+  lage: "am Sandbach zwischen Hägenich und Vimbuch"
+  ersterwähnung: "Mitte 14. Jahrhundert"
+  ersterwähnungsform: "Oberwilre"
+  namenbedeutung_wilre: "'Weiler'"
+  namenbedeutung_ober: "wahrscheinlich Bezug auf südlich gelegenes Vimbuch"
+  namenbedeutung_ober_genauigkeit: "wahrscheinlich"
+  dreißigjähriger_krieg: "fast vollständig zerstört"
+  spanischer_erbfolgekrieg_1703: "niedergebrannt"
+  zugehörigkeit_kloster: "Schwarzacher Kloster"
+  markgrafen_baden_anspruch_ab: 1500
+  kirchspiel: "Vimbuch"
+  kapelle: 1717-1718
+  bevölkerung_ende_18_jh: "rund 160 Personen"
+  haupterwerbsquelle: "Viehzucht"
+  waldbesitz: "Waldhagenich, Stöckig, Windecker Waldungen"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 15-buehl/012
+ENTITÄT: ortsteil
+BEZEICHNUNG: Weitenung
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Stadtteile/Weitenung/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urname: "Widendonc"
+  ersterwähnung: 884
+  charakterisierung: "geschichts- und traditionsbewusster Ort"
+  wappen_beschreibung: "schwarzer Hintergrund, abnehmender silberner Halbmond"
+  eingemeindung_bühl: 1973
+  ortsteil_witstung: "westlich der Autobahn"
+  einwohnerzahl: "knapp 2.500"
+  siedlungsgeschichte: "Siedlung auf ehemals sumpfigem Gelände"
+  umbruch_wohngemeinde: "1960er und 1970er Jahre"
+  umbruch_bürgermeister: "Gerhard Fritz (später 1. Beigeordneter Stadt Bühl)"
+  dorfverschönerungswettbewerbe: "bundesweit erfolgreich"
+  bundeswettbewerb_dorf_zukunft_1975: "Silber"
+  bundeswettbewerb_dorf_zukunft_1977: "Gold"
+  bundeswettbewerb_dorf_zukunft_2017: "Sonderpreis"
+  einsegnungshalle: 1969-1970
+  jubiläumskapelle_witstung: 1990-1991
+  gemeinsinn: "ausgeprägtes bürgerschaftliches Engagement"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/013
+ENTITÄT: ortsteil
+BEZEICHNUNG: Altschweier
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Stadtteile/Altschweier/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ältester_ortsname_beleg: "Algeswilre"
+  ältester_ortsname_beleg_zeit: "um 1265"
+  namensetymologie: "Zusammensetzung aus Personennamen Alger und lateinisch villare (Alt-/Mittelhochdeutsch wiler, wilre)"
+  namensgeber: "Mann namens Alger"
+  grundwort_bedeutung: "'Gehöft, Weiler'"
+  grundwort_entwicklung: "-wiler zu -weier"
+  grundwort_herkunft: "Frühmittelalter"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 15-buehl/014
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kappelwindeck
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Stadtteile/Kappelwindeck/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1291
+  ersterwähnungsform: "in via Cappell"
+  siedlungstyp: "Streusiedlung von Höfen um Kapellenkirche"
+  schloss_bach_erbaut: 1311
+  schloss_bach_charakterisierung: "Niederadelssitz des späten Mittelalters, von Graben umgeben"
+  schloss_bach_geschichte: "wechselte Hand, kam in markgräflichen Besitz (1727), Ende 18. Jh. verkauft und abgebrochen"
+  orts_gerichtsbarkeit_1302: "Herren von Windeck"
+  markgrafen_baden_übernahme: "später, schließlich ganz"
+  herren_von_bach_rolle: "Schlossbesitzer, nicht an Herrschaft beteiligt"
+  herren_von_bach_herkunft: "im Umkreis Grafen von Eberstein"
+  herren_von_bach_verwandtschaft: "mit prominentesten Geschlechtern ritterschaftlichen Adels Ober-/Mittelrhein"
+  herren_von_bach_erlöschen: 1600
+  gemeinde_organ_1445: "Heimbürge"
+  bürgermeister_ab: 1765
+  waldbesitz: "Hägenichwald, Windeckische Genossenschaftswaldungen"
+  pfarrei_gründung: "vermutlich Wende 12./13. Jahrhundert"
+  pfarrei_gründung_genauigkeit: "vermutlich"
+  kirchspiel_umfang: "ganzes Gebiet südlich der Bühlot"
+  kirchspiel_änderung_1498: "dem Kollegiatstift Baden annektiert"
+  kirche_bauzeit: 1762-1767
+  bevölkerung_ende_16_jh: "um die 300 Personen"
+  bevölkerung_charakterisierung: "vorrangig markgräfliche Leibeigene"
+  bevölkerung_wachstum: "rapide"
+  bevölkerung_um_1800: 832
+  haupterwerbsquelle: "Weinbau"
+  jahrmarkt_ersterwähnung: "um 1576"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/015
+ENTITÄT: ort
+BEZEICHNUNG: Bühl
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geschichte_zurückverfolgt: "bis ins 13. Jahrhundert"
+  ersterwähnung: 1283
+  marktrecht_verliehen: 1403
+  stadtrecht_erlangt: 1835
+  größe_status_erlangt: "Große Kreisstadt 1973"
+  charakterisierung: "dynamischer Wirtschaftsstandort und Mittelzentrum"
+  archäologische_funde: "Stein- und Bronzezeit"
+  stadtmuseum: "Schwanenstraße"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/016
+ENTITÄT: frucht_sorte
+BEZEICHNUNG: Bühler Frühzwetschge
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Buehler_Fruehzwetschge | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entdeckung_ort: "Kappelwindeck"
+  entdeckung_zeit: "um 1840"
+  entdeckung_genauigkeit: "um 1840"
+  beschreibung: "kleine blaue Frucht, widerstandsfähig, frühe Reife"
+  geschmack: "säuerlich-aromatisch"
+  anbau_bedingung: "mildes Klima"
+  marktpräsenz_verstärkung: "nach hartem Winter 1879/80"
+  marktpräsenz_dauer: "Fast hundert Jahre"
+  verbreitete_märkte: "Ruhrgebiet, Rheinland, Hamburg, Berlin, Ausland"
+  wirtschaftliche_bedeutung: "eine der Haupteinnahmequellen (erste Hälfte 20. Jh.)"
+  wirtschaftliche_bedeutung_heute: "stark zurückgegangen"
+  verwendungsformen: "Zwetschgenkuchen, Zwetschgenmus, Zwetschgenknödeln, Marmelade, Zwetschgenwasser"
+  fest_bühler_zwetschgenfest: "traditionell, alljährlich Innenstadt"
+  zwetschgenkönigin_ab: 1927
+  slow_food_aufnahme: 2018
+  slow_food_projekt: "Arche des Geschmacks"
+  patenschaftsprogramm_ab: 2018
+  patenschaftspreis_ganzer_baum: "50 Euro/Jahr"
+  patenschaftspreis_halber_baum: "25 Euro/Jahr"
+  patenschaftsdauer: "3 Jahre"
+  patenschaftsleistung_ganzer_baum: "5 kg Zwetschgen/Jahr"
+  patenschaftsleistung_halber_baum: "2,5 kg Zwetschgen/Jahr"
+  wissenschaftlicher_name: "Prunus domestica"
+  botanische_klassifizierung: "Unterart der Pflanze, Steinobst"
+  unterschied_zur_pflaume: "weniger rundlich, spitzere Enden, ohne Fruchtnaht, löst sich leichter vom Stein"
+  herkunft_ursprung: "Vorderasien"
+  herkunft_wildform_zeit: "seit 2000 Jahren"
+  historische_verbreitung: "Römer brachten aus Kleinasien mit, kultivierten Mittelmeerraum, Anpflanzung Europa"
+  heutige_produktion_europa: "Deutschland größter Zwetschgenproduzent Europas"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/017
+ENTITÄT: burg
+BEZEICHNUNG: Burg Windeck
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: "um 1200"
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 15-buehl/018
+ENTITÄT: ereignis
+BEZEICHNUNG: "Erste urkundliche Erwähnung Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1283
+  charakter: "älteste gesicherte Nennung des Ortsnamens"
+  urkunde_kontext: "Edelknecht Burkhard von Crutenbach übergibt Güter 'in banno Buhel' Abt und Konvent Kloster Schwarzach"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 15-buehl/019
+ENTITÄT: ereignis
+BEZEICHNUNG: "Fehde Reinhard von Windeck mit Stadt Straßburg"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: "1370-1371"
+  akteur: "Reinhard von Windeck"
+  gegner: "Stadt Straßburg"
+  auswirkung: "Bühl und umliegende Dörfer schwer betroffen"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 15-buehl/020
+ENTITÄT: ereignis
+BEZEICHNUNG: "Marktrecht verliehen"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1403
+  verliehen_durch: "König Ruprecht von der Pfalz"
+  verliehen_an: "Ritter Reinhard von Windeck"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 15-buehl/021
+ENTITÄT: kirche
+BEZEICHNUNG: "St. Peter und Paul (alte Pfarrkirche)"
+ORTSTEIL_BEZUG: Bühl
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1514-1524
+  nutzung_später: "seit 1880 Rathaus"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/022
+ENTITÄT: ereignis
+BEZEICHNUNG: "Ansiedlung Juden in Bühl urkundlich nachgewiesen"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1582
+  charakter: "ältester schriftlicher Nachweis"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 15-buehl/023
+ENTITÄT: burg
+BEZEICHNUNG: "Burg Alt-Windeck"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zustand_1561: "bereits zur Ruine verfallen"
+  zustand_genauigkeit: "soll"
+GUELTIG_BIS: 1561
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 15-buehl/024
+ENTITÄT: ereignis
+BEZEICHNUNG: "Herren von Windeck ziehen nach Bühl-Stadt"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_spätestens: 1561
+  charakterisierung: "Wohnen im Schlosshof in Bühl"
+  schlosshof_nachfolger: "heute Gasthaus 'Badischer Hof' an Stelle"
+GUELTIG_AB: 1561
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 15-buehl/025
+ENTITÄT: ereignis
+BEZEICHNUNG: "Aussterben Rittergeschlecht Windeck"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1592
+  akteur: "Junker Jakob von Windeck"
+  charakterisierung: "stirbt das Rittergeschlecht von Windeck im Mannesstamm aus"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/026
+ENTITÄT: ereignis
+BEZEICHNUNG: "Dreißigjähriger Krieg in Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1622
+  truppen: "kroatische"
+  auswirkung: "Marktflecken in Schutt und Asche gelegt"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 15-buehl/027
+ENTITÄT: ereignis
+BEZEICHNUNG: "Schwedische Besatzung Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahre: "1632-1634 und 1643"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/028
+ENTITÄT: ereignis
+BEZEICHNUNG: "Pfälzischer Erbfolgekrieg in Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1689
+  charakterisierung: "fast völlig zerstört"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 15-buehl/029
+ENTITÄT: ereignis
+BEZEICHNUNG: "Spanischer Erbfolgekrieg Bühl-Stollhofen-Linie"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahre: 1703-1707
+  charakter: "Kriegsschauplatz"
+  oberbefehl: "Markgraf Ludwig Wilhelm von Baden ('Türkenlouis')"
+  ergebnis: "'Bühl-Stollhofen-Linie' konnte verteidigt werden"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/030
+ENTITÄT: ereignis
+BEZEICHNUNG: "Amtssitz von Steinbach nach Bühl verlegt"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1788
+  amt_alt: "Amt Steinbach (vormals Yberg)"
+  ort_alt: "Steinbach"
+  ort_neu: "Bühl"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/031
+ENTITÄT: synagoge
+BEZEICHNUNG: "Bühler Synagoge"
+ORTSTEIL_BEZUG: Bühl
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1822-1823
+  bezeichnung_alt: "neue Judenschule"
+  zerstörung: 1938-11-10
+  zerstörung_kontext: "Reichspogromnacht"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 15-buehl/032
+ENTITÄT: ereignis
+BEZEICHNUNG: "Stadtrecht verliehen an Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1835
+  verliehen_durch: "Großherzog Leopold von Baden"
+  adressat: "Flecken Bühl"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 15-buehl/033
+ENTITÄT: ereignis
+BEZEICHNUNG: "Bühler Frühzwetschge entdeckt"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: "um 1840"
+  ort: "Kappelwindeck"
+  charakterisierung: "ungewöhnlich frühreifende und widerstandsfähige Zwetschgensorte"
+  signifikanz_verstärkung: "nach hartem Winter 1879/80"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/034
+ENTITÄT: ereignis
+BEZEICHNUNG: "Eisenbahn Anschluss Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1846
+  linie: "Oos-Offenburg"
+  charakterisierung: "neueröffnet"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/035
+ENTITÄT: ereignis
+BEZEICHNUNG: "Revolutionäre Unruhen Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahre: 1848-1849
+  obervogt: "Josef Häfelin"
+  obervogt_aktion: "flieht nach Baden-Baden"
+  ausschreitungen: "gegen jüdische Einwohner"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 15-buehl/036
+ENTITÄT: kirche
+BEZEICHNUNG: "Evangelische Kirche (erste eigene)"
+ORTSTEIL_BEZUG: Bühl
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1856
+  lage: "ehemaliges Brauhaus zwischen Krempengasse und Büllot"
+  charakter: "erste eigene Kirche evangelischer Gemeinde"
+  abriss: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/037
+ENTITÄT: kirche
+BEZEICHNUNG: "St. Peter und Paul (neue katholische Pfarrkirche)"
+ORTSTEIL_BEZUG: Bühl
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1873-1876
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/038
+ENTITÄT: ereignis
+BEZEICHNUNG: "Umbau alte Pfarrkirche zum Rathaus"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1879-1880
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/039
+ENTITÄT: infrastruktur
+BEZEICHNUNG: "Zentrale Wasserversorgung"
+ORTSTEIL_BEZUG: Bühl
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1902
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/040
+ENTITÄT: organisation
+BEZEICHNUNG: "Obstabsatzgenossenschaft (OAG)"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1919
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/041
+ENTITÄT: ereignis
+BEZEICHNUNG: "Einführung elektrisches Licht Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/042
+ENTITÄT: infrastruktur
+BEZEICHNUNG: "Kanalisation Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1926-1934
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/043
+ENTITÄT: ereignis
+BEZEICHNUNG: "Erstes Bühler Zwetschgenfest"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1927
+  daten: "6. bis 8. August"
+  ort: "Bühl"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 15-buehl/044
+ENTITÄT: ereignis
+BEZEICHNUNG: "Erstes Bühler Lichtspielhaus"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1928
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/045
+ENTITÄT: ereignis
+BEZEICHNUNG: "Nationalsozialistische Gleichschaltung Gemeinderat Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/046
+ENTITÄT: ereignis
+BEZEICHNUNG: "Eingemeindung Kappelwindeck nach Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1934
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 15-buehl/047
+ENTITÄT: ereignis
+BEZEICHNUNG: "Reichspogromnacht Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1938-11-10
+  aktion: "Synagoge zerstört"
+  ausschreitungen: "gegen jüdische Bürger"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 15-buehl/048
+ENTITÄT: ereignis
+BEZEICHNUNG: "Deportation jüdischer Bürger Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1940-10-22
+  personen_anzahl: 26
+  zielort: "Lager Gurs (französische Pyrenäen)"
+  überlebensrate: "nur wenige"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/049
+ENTITÄT: ereignis
+BEZEICHNUNG: "Französische Besatzung Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1945-04-14
+  charakter: "Einmarsch französischer Truppen"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 15-buehl/050
+ENTITÄT: ereignis
+BEZEICHNUNG: "Erste freie Gemeinderatswahlen seit 1933"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1946-09-15
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/051
+ENTITÄT: ereignis
+BEZEICHNUNG: "Eingemeindung Neusatz und Oberweier nach Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 15-buehl/052
+ENTITÄT: ereignis
+BEZEICHNUNG: "Eingemeindung Balzhofen, Eisental und Oberbruch nach Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 15-buehl/053
+ENTITÄT: ereignis
+BEZEICHNUNG: "Eingemeindung Altschweier, Moos, Vimbuch und Weitenung nach Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 15-buehl/054
+ENTITÄT: ereignis
+BEZEICHNUNG: "Bühl wird Große Kreisstadt"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 15-buehl/055
+ENTITÄT: institution
+BEZEICHNUNG: "Stadtgeschichtliches Institut Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Stadtgeschichtliches-Institut-Buehl | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitz_seit: 1998
+  sitz_adresse: "Schloss Waldsteg, Ortsteil Neusatz"
+  gebäude_zustand: "nach umfangreichen Sanierungsarbeiten"
+  betreuung: "Stadtarchiv, Stadtmuseum"
+  betrieb_träger: "Stadt Bühl"
+  lesesaal: true
+  archivbibliothek_bände: "rund 10.000"
+  archivbibliothek_schwerpunkt: "Lokal- und Regionalgeschichte"
+  archivbibliothek_ausleihe: true
+  sammlungen: "historische Bestände, Sonderbestände, Nachlässe, archivische Sammlungen, Adelsarchive Rittersbach und Windeck, Wappenbücher"
+  veranstaltungen_orte: "Zwinger des Schlosses Waldsteg"
+  veranstaltungen_arten: "Ausstellungen, Vorträge, Lesungen"
+  archivzugang: "allen Interessierten offen"
+  archivberatung_lesesaal: true
+  archivalien_vorlegung: true
+  archivaufgaben: "Ordnung, EDV-Erfassung, archivgerechte Lagerung, Sammlung von Schriftgut/Fotos/Plakaten, Dokumentation Alltagsleben, lokale Tageszeitungen"
+  sammlungen_quellen: "Privatpersonen, Firmen, Vereine, Institutionen"
+  publikationen: "Reihe 'Bühler Heimatgeschichte', Sonderveröffentlichungen, Stadt- und Ortsteilchroniken"
+  weitereaufgaben: "Historische Ausstellungen, Vorträge, Führungen, Tagungen, Kooperation mit kulturellen Vereinen und Institutionen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 15-buehl/056
+ENTITÄT: museum
+BEZEICHNUNG: "Stadtmuseum Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Stadtgeschichtliches-Institut-Buehl | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreuung_durch: "Stadtgeschichtliches Institut Bühl"
+  träger: "Stadt Bühl"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 15-buehl/057
+ENTITÄT: archiv
+BEZEICHNUNG: "Stadtarchiv Bühl"
+QUELLE: https://www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Stadtgeschichtliches-Institut-Buehl | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreuung_durch: "Stadtgeschichtliches Institut Bühl"
+  träger: "Stadt Bühl"
+  funktion: "Aufbewahrung von rechtlich oder historisch bedeutsamen Verwaltungsunterlagen"
+  funktion_erweitert: "Ordnung, EDV-Erfassung, archivgerechte Lagerung"
+  sammlungsauftrag: "Schriftgut, Fotos, Plakate von Privatpersonen, Firmen, Vereinen, Institutionen zur Dokumentation Alltagsleben und lokaler Tageszeitungen"
+  aufgaben_lesesaal_beratung: true
+  aufgaben_archivalienvorlegung: true
+  aufgaben_rechtssicherheit: true
+  aufgaben_wissenschaftliche_forschung: true
+  aufgaben_historische_perspektive: "Beachtung bei kommunaler Entwicklung und Ortsgestaltung"
+  aufgaben_übernahme: "archivwürdiger Informationsträger aus Verwaltung"
+  aufgaben_öffentlichkeitsarbeit: true
+  publikationen: "Reihe 'Bühler Heimatgeschichte'"
+  publikationen_sonderveröffentlichungen: true
+  veröffentlichungen_chroniken: "Stadt- und Ortsteilchroniken"
+  veranstaltungen: "Historische Ausstellungen, Vorträge, Führungen, Tagungen"
+  kooperationen: "kulturelle Vereine und Institutionen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

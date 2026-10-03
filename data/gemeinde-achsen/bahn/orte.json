@@ -1,26 +1,290 @@
 {
- "_doc": "Raum Bahn Freiburg–Neuwied (Mike, 2026-10-03): Bahnfahrt auf der rechten Rheinseite (Rheintalbahn bis Mannheim, über Frankfurt, RB10 Wiesbaden–Rüdesheim–Kaub–St. Goarshausen–Lahnstein–Neuwied), hin und zurück. Probe der neuen Kette nach Spielkonzept v0.3.1 §8 Nr. 9: Geschichten aus Gemeinde-Webseite und Landesportal statt Wikipedia, direkte Aufrufe, Prüfstufen; Aufwandsvergleich gegen die Räume Freiburg und Neuwied. Erst 10 Orte als Messung (drei Länder: BW, Hessen, RLP), dann Ausbau auf 30–40. Reihenfolge = Hinfahrt. Keine Spender (Kosten-Pareto H5). Strecke Mannheim–Frankfurt bewusst ohne Ort: ob Riedbahn oder Main-Neckar-Bahn, hängt vom Zug ab.",
+ "_doc": "Raum Bahn Freiburg–Neuwied (Mike, 2026-10-03): Bahnfahrt auf der rechten Rheinseite (Rheintalbahn bis Mannheim, über Frankfurt, RB10 Wiesbaden–Rüdesheim–Kaub–St. Goarshausen–Lahnstein–Neuwied), hin und zurück. Probe der neuen Kette nach Spielkonzept v0.3.1 §8 Nr. 9: Geschichten aus Gemeinde-Webseite und Landesportal statt Wikipedia, direkte Aufrufe, Prüfstufen; Aufwandsvergleich gegen die Räume Freiburg und Neuwied. Erst 10 Orte als Messung (drei Länder: BW, Hessen, RLP), dann Ausbau auf 30–40. Reihenfolge = Hinfahrt. Keine Spender (Kosten-Pareto H5). Strecke Mannheim–Frankfurt bewusst ohne Ort: ob Riedbahn oder Main-Neckar-Bahn, hängt vom Zug ab. Ausbau (Mike, 2026-10-03: über die Bergstraße): 19 weitere Orte, Reihenfolge der Liste = Hinfahrt; die Nummern 01–10 sind die Messorte der ersten Probe, 11–29 der Ausbau. Abschnitt Karlsruhe–Heidelberg/Mannheim ohne Ort (Zugweg offen). Am Ende schließen Bendorf und Engers aus dem Raum Neuwied an.",
  "raum": "Bahn Freiburg–Neuwied",
  "orte": [
-  ["01-kenzingen", "ziel", "Kenzingen", "Kenzingen", "Stadt"],
-  ["02-achern", "ziel", "Achern", "Achern", "Stadt"],
-  ["03-rastatt", "ziel", "Rastatt", "Rastatt", "Stadt"],
-  ["04-eltville", "ziel", "Eltville am Rhein", "Eltville am Rhein", "Stadt"],
-  ["05-ruedesheim", "ziel", "Rüdesheim am Rhein", "Rüdesheim am Rhein", "Stadt"],
-  ["06-lorch", "ziel", "Lorch", "Lorch (Rheingau)", "Stadt"],
-  ["07-kaub", "ziel", "Kaub", "Kaub", "Stadt"],
-  ["08-st-goarshausen", "ziel", "St. Goarshausen", "Sankt Goarshausen", "Stadt"],
-  ["09-braubach", "ziel", "Braubach", "Braubach", "Stadt"],
-  ["10-vallendar", "ziel", "Vallendar", "Vallendar", "Stadt"]
+  [
+   "11-emmendingen",
+   "ziel",
+   "Emmendingen",
+   "Emmendingen",
+   "Stadt"
+  ],
+  [
+   "01-kenzingen",
+   "ziel",
+   "Kenzingen",
+   "Kenzingen",
+   "Stadt"
+  ],
+  [
+   "12-herbolzheim",
+   "ziel",
+   "Herbolzheim",
+   "Herbolzheim",
+   "Stadt"
+  ],
+  [
+   "13-lahr",
+   "ziel",
+   "Lahr",
+   "Lahr/Schwarzwald",
+   "Stadt"
+  ],
+  [
+   "14-offenburg",
+   "ziel",
+   "Offenburg",
+   "Offenburg",
+   "Stadt"
+  ],
+  [
+   "02-achern",
+   "ziel",
+   "Achern",
+   "Achern",
+   "Stadt"
+  ],
+  [
+   "15-buehl",
+   "ziel",
+   "Bühl",
+   "Bühl",
+   "Stadt"
+  ],
+  [
+   "16-baden-baden",
+   "ziel",
+   "Baden-Baden",
+   "Baden-Baden",
+   "Stadt"
+  ],
+  [
+   "03-rastatt",
+   "ziel",
+   "Rastatt",
+   "Rastatt",
+   "Stadt"
+  ],
+  [
+   "17-weinheim",
+   "ziel",
+   "Weinheim",
+   "Weinheim",
+   "Stadt"
+  ],
+  [
+   "18-laudenbach",
+   "ziel",
+   "Laudenbach",
+   "Laudenbach (Bergstraße)",
+   "Gemeinde"
+  ],
+  [
+   "19-heppenheim",
+   "ziel",
+   "Heppenheim",
+   "Heppenheim (Bergstraße)",
+   "Stadt"
+  ],
+  [
+   "20-bensheim",
+   "ziel",
+   "Bensheim",
+   "Bensheim",
+   "Stadt"
+  ],
+  [
+   "21-zwingenberg",
+   "ziel",
+   "Zwingenberg",
+   "Zwingenberg (Bergstraße)",
+   "Stadt"
+  ],
+  [
+   "22-langen",
+   "ziel",
+   "Langen",
+   "Langen (Hessen)",
+   "Stadt"
+  ],
+  [
+   "23-walluf",
+   "ziel",
+   "Walluf",
+   "Walluf",
+   "Gemeinde"
+  ],
+  [
+   "04-eltville",
+   "ziel",
+   "Eltville am Rhein",
+   "Eltville am Rhein",
+   "Stadt"
+  ],
+  [
+   "24-oestrich-winkel",
+   "ziel",
+   "Oestrich-Winkel",
+   "Oestrich-Winkel",
+   "Stadt"
+  ],
+  [
+   "25-geisenheim",
+   "ziel",
+   "Geisenheim",
+   "Geisenheim",
+   "Stadt"
+  ],
+  [
+   "05-ruedesheim",
+   "ziel",
+   "Rüdesheim am Rhein",
+   "Rüdesheim am Rhein",
+   "Stadt"
+  ],
+  [
+   "06-lorch",
+   "ziel",
+   "Lorch",
+   "Lorch (Rheingau)",
+   "Stadt"
+  ],
+  [
+   "07-kaub",
+   "ziel",
+   "Kaub",
+   "Kaub",
+   "Stadt"
+  ],
+  [
+   "08-st-goarshausen",
+   "ziel",
+   "St. Goarshausen",
+   "Sankt Goarshausen",
+   "Stadt"
+  ],
+  [
+   "26-kestert",
+   "ziel",
+   "Kestert",
+   "Kestert",
+   "Gemeinde"
+  ],
+  [
+   "27-kamp-bornhofen",
+   "ziel",
+   "Kamp-Bornhofen",
+   "Kamp-Bornhofen",
+   "Gemeinde"
+  ],
+  [
+   "28-osterspai",
+   "ziel",
+   "Osterspai",
+   "Osterspai",
+   "Gemeinde"
+  ],
+  [
+   "09-braubach",
+   "ziel",
+   "Braubach",
+   "Braubach",
+   "Stadt"
+  ],
+  [
+   "29-lahnstein",
+   "ziel",
+   "Lahnstein",
+   "Lahnstein",
+   "Stadt"
+  ],
+  [
+   "10-vallendar",
+   "ziel",
+   "Vallendar",
+   "Vallendar",
+   "Stadt"
+  ]
  ],
  "spender": [],
- "leiter": ["02-achern", "07-kaub"],
- "laender": {"01-kenzingen": "BW", "02-achern": "BW", "03-rastatt": "BW", "04-eltville": "HE", "05-ruedesheim": "HE", "06-lorch": "HE", "07-kaub": "RP", "08-st-goarshausen": "RP", "09-braubach": "RP", "10-vallendar": "RP"},
+ "leiter": [
+  "02-achern",
+  "07-kaub",
+  "14-offenburg",
+  "20-bensheim",
+  "27-kamp-bornhofen"
+ ],
+ "laender": {
+  "01-kenzingen": "BW",
+  "02-achern": "BW",
+  "03-rastatt": "BW",
+  "04-eltville": "HE",
+  "05-ruedesheim": "HE",
+  "06-lorch": "HE",
+  "07-kaub": "RP",
+  "08-st-goarshausen": "RP",
+  "09-braubach": "RP",
+  "10-vallendar": "RP",
+  "11-emmendingen": "BW",
+  "12-herbolzheim": "BW",
+  "13-lahr": "BW",
+  "14-offenburg": "BW",
+  "15-buehl": "BW",
+  "16-baden-baden": "BW",
+  "17-weinheim": "BW",
+  "18-laudenbach": "BW",
+  "19-heppenheim": "HE",
+  "20-bensheim": "HE",
+  "21-zwingenberg": "HE",
+  "22-langen": "HE",
+  "23-walluf": "HE",
+  "24-oestrich-winkel": "HE",
+  "25-geisenheim": "HE",
+  "26-kestert": "RP",
+  "27-kamp-bornhofen": "RP",
+  "28-osterspai": "RP",
+  "29-lahnstein": "RP"
+ },
  "quellen_amtlich": {
-  "05-ruedesheim": {"webseite": "https://www.stadt-ruedesheim.de/"},
-  "07-kaub": {"portal": ["https://www.regionalgeschichte.net/mittelrhein/kaub.html"]},
-  "08-st-goarshausen": {"portal": ["https://www.regionalgeschichte.net/mittelrhein/sankt-goarshausen.html"]},
-  "09-braubach": {"portal": ["https://www.regionalgeschichte.net/mittelrhein/braubach.html"]}
+  "05-ruedesheim": {
+   "webseite": "https://www.stadt-ruedesheim.de/"
+  },
+  "07-kaub": {
+   "portal": [
+    "https://www.regionalgeschichte.net/mittelrhein/kaub.html"
+   ]
+  },
+  "08-st-goarshausen": {
+   "portal": [
+    "https://www.regionalgeschichte.net/mittelrhein/sankt-goarshausen.html"
+   ]
+  },
+  "09-braubach": {
+   "portal": [
+    "https://www.regionalgeschichte.net/mittelrhein/braubach.html"
+   ]
+  },
+  "26-kestert": {
+   "webseite": "https://kestert.welterbe-mittelrheintal.de/",
+   "portal": [
+    "https://www.regionalgeschichte.net/mittelrhein/kestert.html"
+   ]
+  },
+  "27-kamp-bornhofen": {
+   "portal": [
+    "https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html"
+   ]
+  },
+  "28-osterspai": {
+   "portal": [
+    "https://www.regionalgeschichte.net/mittelrhein/osterspai.html"
+   ]
+  },
+  "29-lahnstein": {
+   "portal": [
+    "https://www.regionalgeschichte.net/mittelrhein/lahnstein.html"
+   ]
+  }
  },
  "laeufe": []
 }

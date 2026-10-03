@@ -142,14 +142,16 @@ def neuester(claims, prop):
 
 
 def wd_bahnhoefe(qids):
-    q = ('SELECT ?ort ?sLabel ?tLabel WHERE { VALUES ?ort { %s } ?s wdt:P131 ?ort ; wdt:P31 ?t . '
-         '?t wdt:P279* wd:Q12819564 . SERVICE wikibase:label { bd:serviceParam wikibase:language "de". } }'
-         % ' '.join('wd:' + x for x in qids))
-    d = hole('https://query.wikidata.org/sparql?' + urllib.parse.urlencode({'query': q, 'format': 'json'}))
+    # in Gruppen zu acht: 29 Orte auf einmal (Raum bahn, 2026-10-03) brachten den Abfragedienst an die Zeitgrenze (500)
     aus = {}
-    for b in d['results']['bindings']:
-        if re.search(r'Bahnhof|Haltepunkt', b['tLabel']['value']):
-            aus.setdefault(b['ort']['value'].rsplit('/', 1)[1], set()).add(b['sLabel']['value'])
+    for i in range(0, len(qids), 8):
+        q = ('SELECT ?ort ?sLabel ?tLabel WHERE { VALUES ?ort { %s } ?s wdt:P131 ?ort ; wdt:P31 ?t . '
+             '?t wdt:P279* wd:Q12819564 . SERVICE wikibase:label { bd:serviceParam wikibase:language "de". } }'
+             % ' '.join('wd:' + x for x in qids[i:i + 8]))
+        d = hole('https://query.wikidata.org/sparql?' + urllib.parse.urlencode({'query': q, 'format': 'json'}))
+        for b in d['results']['bindings']:
+            if re.search(r'Bahnhof|Haltepunkt', b['tLabel']['value']):
+                aus.setdefault(b['ort']['value'].rsplit('/', 1)[1], set()).add(b['sLabel']['value'])
     return aus
 
 

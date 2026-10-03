@@ -1,0 +1,512 @@
+ID: 20-bensheim/001
+ENTITÄT: ort
+BEZEICHNUNG: Bensheim
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung_jahr: 765
+  erste_urkundliche_erwaehnung_quelle: Lorscher Kodex
+  marktrechte_jahr: 956
+  stadtrechte_erwaehnung_jahr: 13. Jahrhundert, Mitte
+  stadtrechte_bestaetigung_jahr: 1320
+  benannt_nach: Bischof Basinus von Trier
+  namensherkunft_genauigkeit: vermutlich
+  niedergebrannt_jahr: 1301
+GUELTIG_AB: 765
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 20-bensheim/002
+ENTITÄT: ort
+BEZEICHNUNG: Bensheim
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 42000
+  groesste_stadt: Kreis Bergstraße
+  stadtteil_anzahl: 9
+  fläche_qkm: 58
+  bevölkerungsdichte_pro_qkm: 711
+  wirtschaftlicher_mittelpunkt: Kreis Bergstraße
+  kultureller_mittelpunkt: Kreis Bergstraße
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 20-bensheim/003
+ENTITÄT: besiedlung
+BEZEICHNUNG: Besiedlung Bensheim (Urgeschichte)
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: Jung- und Mittelsteinzeit
+  zeitliche_einordnung: etwa 10000 Jahre zurückliegend
+  fundtyp: Bodenfunde
+GUELTIG_AB: -8000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 20-bensheim/004
+ENTITÄT: roemische_villa
+BEZEICHNUNG: Villa Rustica
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Weinberg Richtung Heppenheim
+  beschreibung: kartierter Grundriss einer Villa Rustica
+GUELTIG_AB: -2000
+GUELTIG_BIS: 500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 20-bensheim/005
+ENTITÄT: weinanbau
+BEZEICHNUNG: Weinanbau an der Bergstraße
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingefuehrt_von: Römer
+  eingefuehrt_zeitraum: vor rund 2000 Jahren
+GUELTIG_AB: -2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 20-bensheim/006
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Lorsch
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindung_zu_bensheim: eng verbunden mit Bensheims Geschichte
+  status: reichsunmittelbar
+  erhobung_zu_reichsfuerstenstaat: 1220
+GUELTIG_AB: 765
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 20-bensheim/007
+ENTITÄT: sage
+BEZEICHNUNG: Fraa vun Bensem
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: alte Frau, die den Bayern einen unterirdischen Gang in die Altstadt gezeigt haben soll
+  zeit: Dreißigjähriger Krieg, Herbst 1644
+  historisch_belegbar: false
+  anlass_erwaehnung: Besetzung durch schwedische und französische Truppen, Niederlage gegen Bayern
+GUELTIG_AB: 1644
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 20-bensheim/008
+ENTITÄT: kirchenbau
+BEZEICHNUNG: Sankt Georg (Pfarrkirche)
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zerstoert: 1945
+  grund_zerstoerung: Luftangriffe in den letzten Kriegsjahren
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 20-bensheim/009
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Bensheim (am Marktplatz)
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zerstoert: 1945
+  grund_zerstoerung: Luftangriffe in den letzten Kriegsjahren
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 20-bensheim/010
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Bensheim
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1892
+  zerstoert: 10. November 1938
+  grund_zerstoerung: Verfolgung und Deportation der Bensheimer Juden
+  folge: jüdische Gemeinde erlosch
+GUELTIG_AB: 1892
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 20-bensheim/011
+ENTITÄT: verwaltung
+BEZEICHNUNG: Kreisamt Bensheim
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: 1832
+  aufgeloest: 1938
+  folge: Kreis Bensheim aufgelöst, Kreis Bergstraße gegründet mit Sitz Heppenheim
+GUELTIG_AB: 1832
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 20-bensheim/012
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Main-Neckar-Bahn
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnet: 1846
+  strecke: Frankfurt/Main nach Heidelberg und Mannheim
+GUELTIG_AB: 1846
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 20-bensheim/013
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Ludwigsbahn
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnet: 1869
+  strecke: Bensheim nach Worms
+GUELTIG_AB: 1869
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 20-bensheim/014
+ENTITÄT: schule
+BEZEICHNUNG: Gymnasium Bensheim
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  als_lateinschule_erwaehnt: 1616
+GUELTIG_AB: 1616
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 20-bensheim/015
+ENTITÄT: schule
+BEZEICHNUNG: Lehrerseminar Bensheim
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendet: 1821
+GUELTIG_AB: 1821
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 20-bensheim/016
+ENTITÄT: verwaltung
+BEZEICHNUNG: Landratsbezirk Bensheim
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gebildet: 1821
+GUELTIG_AB: 1821
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 20-bensheim/017
+ENTITÄT: gericht
+BEZEICHNUNG: Amtsgericht Bensheim
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: 1902
+GUELTIG_AB: 1902
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 20-bensheim/018
+ENTITÄT: festival
+BEZEICHNUNG: Bergsträßer Winzerfest
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tradition_seit: 1929
+GUELTIG_AB: 1929
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 20-bensheim/019
+ENTITÄT: festival
+BEZEICHNUNG: Bürgerfest Bensheim
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingefuehrt: 1975
+  anlass_einfuehrung: Einweihung der Fußgängerzone
+  zeitraum: Frühsommer
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 20-bensheim/020
+ENTITÄT: gebaeude
+BEZEICHNUNG: Parktheater
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  in_betrieb_genommen: 1968
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 20-bensheim/021
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bürgerhaus
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingeweiht: 1976
+  einweihungsanlass: Hessentag 1976
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 20-bensheim/022
+ENTITÄT: ortsteil
+BEZEICHNUNG: Auerbach
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 9. März 784
+  erste_erwaehnung_quelle: Lorscher Codex
+  eingemeindet: 1. April 1939
+  begruendung_eingemeinderung: Aussicht als größere Stadt das Kreisamt zurückzugewinnen
+GUELTIG_AB: 784
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 20-bensheim/023
+ENTITÄT: burg
+BEZEICHNUNG: Auerbacher Schloss
+ORTSTEIL_BEZUG: Auerbach
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: um 1225
+  erbauer: Graf Diether IV. von Katzenelnbogen
+  hoehe: 346 Meter
+  grund_erbauung: Sicherung der Obergrafschaft
+  zerstoert: 1674
+  zerstoerung_ursache: erobert und zerstört durch schottische Söldner unter französischem Befehl
+  nordturm_einsturz: 20. Januar 1820
+  grundriss_form: fast gleichseitiges Dreieck
+GUELTIG_AB: 1225
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 20-bensheim/024
+ENTITÄT: kirchenbau
+BEZEICHNUNG: Bergkirche Auerbach
+ORTSTEIL_BEZUG: Auerbach
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kapelle_errichtet_jahr: um 1265
+  kapelle_erbauer: wohl Graf Eberhard I. von Katzenelnbogen
+  kirchturm_jahr: 1479
+  kirchturm_hoehe: 37 Meter
+  umbau_jahre: 1900-1901
+  restaurierung_jahre: 1977-1979
+GUELTIG_AB: 1265
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 20-bensheim/025
+ENTITÄT: park
+BEZEICHNUNG: Staatspark Fürstenlager
+ORTSTEIL_BEZUG: Auerbach
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: englischer Landschaftsgarten
+  mineralquelle_erfasst: 1739
+  brunnen_errichtet: 1767
+  brunnen_name: Guter Brunnen
+  brunnen_erbauer: Landgraf Ludwig VIII.
+  floraflaeche: 42 Hektar
+GUELTIG_AB: 1739
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 20-bensheim/026
+ENTITÄT: ortsteil
+BEZEICHNUNG: Fehlheim
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 6. Juni 782
+  erste_erwaehnung_quelle: Codex Laureshamensis
+  gemarkung_mit: Bensheim bis 1831
+  eingemeindet: 1. Juli 1971
+GUELTIG_AB: 782
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 20-bensheim/027
+ENTITÄT: kirchenbau
+BEZEICHNUNG: Sankt Bartholomäus
+ORTSTEIL_BEZUG: Fehlheim
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1844
+  erbauer: Bensheimer Kreisbaumeister Mittermayer
+  konfession: katholisch
+GUELTIG_AB: 1844
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 20-bensheim/028
+ENTITÄT: wald
+BEZEICHNUNG: Bensheimer Stadtwald
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/stadtwald/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche_hektar: 914
+  natura_2000_flaeche_hektar: 479
+  natura_2000_prozent: 52
+  natura_2000_ffh_gebiete_anzahl: 6
+  betreuung: Forstamt Lampertheim
+  buchenanteil: sehr hoch
+GUELTIG_AB: aktuell
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 20-bensheim/029
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Beaune
+LAND: Frankreich
+REGION: Burgund
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/partnerstadte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerschaft_seit: 1960
+  einwohner: ca. 22000
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 20-bensheim/030
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Amersham
+LAND: Großbritannien
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/partnerstadte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerschaft_seit: 1977
+  einwohner: ca. 15000
+  lage: etwa 40 km nordwestlich von London
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 20-bensheim/031
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Mohács
+LAND: Ungarn
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/partnerstadte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerschaft_seit: 1987
+  einwohner: ca. 19000
+  lage: am rechten Ufer der Donau, rund 180 km südlich von Budapest
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 20-bensheim/032
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Riva del Garda
+LAND: Italien
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/partnerstadte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerschaft_seit: 1988
+  einwohner: ca. 16000
+  lage: Nordufer des Gardasees
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 20-bensheim/033
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Kłodzko
+LAND: Polen
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/partnerstadte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerschaft_seit: 1996
+  einwohner: ca. 28000
+  deutscher_name: Glatz
+  lage: Zentrum des Glatzer Beckens, umgeben von den Bergen der Mittel- und Ostsudeten
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 20-bensheim/034
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Hostinné
+LAND: Tschechien
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/partnerstadte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerschaft_seit: April 2002
+  früherer_name: Arnau
+  einwohner: ca. 5000
+  patenschaft_seit: 1956
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 20-bensheim/035
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Manlay
+LAND: Frankreich
+ORTSTEIL_BEZUG: Zell
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/partnerstadte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerschaft_seit: 1968
+  einwohner: ca. 200
+  lage: Zentralmassiv, Département Côte-d'Or, etwa 60 km südwestlich von Dijon
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 20-bensheim/036
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Pfaffenheim
+LAND: Frankreich
+ORTSTEIL_BEZUG: Gronau
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/partnerstadte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerschaft_seit: 1994
+  einwohner: ca. 1300
+  lage: Elsässer Weinstraße, Département Haut-Rhin
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 20-bensheim/037
+ENTITÄT: auszeichnung
+BEZEICHNUNG: Fairtrade-Stadt
+QUELLE: https://bensheim.de/leben-in-bensheim/stadtportrat/fairtrade-town/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verliehen: Oktober 2011
+  position_deutschland: 59. Stadt
+  bestaetigung: Herbst 2013
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 20-bensheim/038
+ENTITÄT: festival
+BEZEICHNUNG: Lesefestival Bensheim
+QUELLE: https://bensheim.de/von-geschichte-bis-horror-das-lesefestival-bringt-wieder-grosse-literatur-nach-bensheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausgabe: 24. Mal
+  ausgabe_jahr: 2026
+  teil_von: Literaturfestival Leseland Hessen
+  gruendungsmitglied_seit: 2002
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 20-bensheim/039
+ENTITÄT: person
+BEZEICHNUNG: Christine Klein
+FUNKTION: Bürgermeisterin
+QUELLE: https://bensheim.de/rathaus-politik/stadtverwaltung/burgermeisterin-erster-stadtrat/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtsantritt: 15. Dezember 2020
+  amtsende: 14. Dezember 2026
+  geburtsjahr: 1955
+  geburtsort: Jugenheim
+  wahl_stichwahl_ergebnis: 52.7 Prozent
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 20-bensheim/040
+ENTITÄT: person
+BEZEICHNUNG: Frank Daum
+FUNKTION: Erster Stadtrat
+QUELLE: https://bensheim.de/rathaus-politik/stadtverwaltung/burgermeisterin-erster-stadtrat/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtsantritt: 15. Oktober 2025
+  amtsende: 14. Oktober 2031
+  geburtsjahr: 1965
+  geburtsort: Bensheim
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

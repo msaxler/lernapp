@@ -1,0 +1,228 @@
+ZIELORT: Walluf (Gemeinde)
+LAGE: 8 km südwestlich von Wiesbaden (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Walluf
+
+GRUNDDATEN:
+  landkreis: Rheingau-Taunus-Kreis  [dewiki Infobox]
+  bundesland: Hessen  [dewiki Infobox]
+  einwohner: 5494  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 6,75  [Wikidata P2046]
+  dichte_ew_km2: 814  [berechnet aus Einwohner und Fläche]
+  hoehe_m: 90 | 84 | 118 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 3208134)]
+  naechste_grossstadt: Wiesbaden, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Wiesbaden, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Haltepunkt Niederwalluf  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 65396  [Wikidata P281]
+  vorwahl: 06123  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 34,9 %, SPD 18,1 %, GRÜNE 13,8 %, AfD 13,5 %, FDP 6,3 %, Die Linke 5,4 %; Wahlbeteiligung 88 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Nikolaos Stavridis (parteilos) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-03]
+  kfz: RÜD (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand geo.sqlite (Kreis 06439)]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT einwohner: Einwohnerzahl (Ersatz: Fläche der Gemarkung), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT kfz: Kennzeichen (Ersatz: Luftlinie zur Landeshauptstadt), A, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Langen (Stadt)
+  landkreis: Offenbach  [dewiki Infobox]
+  einwohner: 39.009  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 29,12  [Wikidata P2046]
+  kfz: OF (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 143 | 139 | 134 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2881279)]
+  naechste_grossstadt: Darmstadt, 13 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  ersterwaehnung: 834  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  bahnhof: Bahnhof Langen (Hess), Bahnhof Langen Flugsicherung  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 28,3 %, SPD 16,3 %, AfD 15,9 %, GRÜNE 15,3 %, Die Linke 9,1 %, FDP 6 %; Wahlbeteiligung 82,8 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Emmendingen, Kenzingen, Herbolzheim, Lahr, Offenburg, Achern, Bühl, Baden-Baden, Rastatt, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Langen, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar
+
+FAKTEN (Zielort Walluf):
+ID: 23-walluf/001
+ENTITÄT: ort
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichten-2022/wallufs-gaertnerei-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_aelteste_weinbaugemeinde_des_rheingaus: true
+  superlativ: "älteste Weinbaugemeinde des Rheingaus"
+  blumenstadt_weltruf_vor_jahren: 100
+  hat_ortsteil: Oberwalluf
+  hat_ortsteil: Niederwalluf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 23-walluf/002
+ENTITÄT: stadtteil
+BEZEICHNUNG: Wallufer Blumenviertel
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichten-2022/wallufs-gaertnerei-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strasse_1: Rosenstraße
+  strasse_2: Iris-weg
+  strasse_3: Sonnenblumenweg
+  grund_fuer_namensgebung: Blumenanbau durch Gärtnereien im frühen 20. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 23-walluf/003
+ENTITÄT: gaertnerei
+BEZEICHNUNG: Goos & Koenemann
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichten-2022/wallufs-gaertnerei-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ansaessig_seit: 1887
+  standort: Walluf
+  nachfolger: Erfurter Samenzucht
+  abriss_jahr: 2020
+  gedenkstein_gruender: Max Joseph Goos für August Koenemann
+GUELTIG_AB: 1887
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 23-walluf/004
+ENTITÄT: infotafel
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichten-2022/wallufs-gaertnerei-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Wallufer Gärtnerei-Geschichte
+  errichtet_monat_jahr: Mitte Februar 2022
+  standort: Grünfläche Eichelgarten/Obere Martinsthaler Straße
+  ersteller: Herbert Ujma (Heimatarchivar)
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 23-walluf/005
+ENTITÄT: publikation
+BEZEICHNUNG: Verlorene und erhaltene Pracht in Walluf
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichten-2022/wallufs-gaertnerei-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Sonderausgabe 2022 der Beiträge zur Wallufer Ortsgeschichte
+  herausgeber: Heimatarchiv der Gemeinde Walluf
+  federführung: Herbert Ujma
+  teil_1: Geschichte der Gärtnereien
+  teil_2: Erweiterte Villenviertel-Visite
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 23-walluf/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+ORTSTEIL_BEZUG: Oberwalluf
+QUELLE: https://www.walluf.de/leben-in-walluf/familie-und-soziales/kirchengemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  gemeinde: St. Peter und Paul Rheingau
+  adresse: St. Elisabethenstraße 12, 65396 Walluf
+  telefon: +49 (0)6123 72747
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 23-walluf/007
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johannes der Täufer
+ORTSTEIL_BEZUG: Niederwalluf
+QUELLE: https://www.walluf.de/leben-in-walluf/familie-und-soziales/kirchengemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  gemeinde: St. Peter und Paul Rheingau
+  adresse: Hauptstraße 37, 65396 Walluf
+  telefon: +49 (0)6123 2622
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 23-walluf/008
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Heilandsgemeinde
+QUELLE: https://www.walluf.de/leben-in-walluf/familie-und-soziales/kirchengemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  adresse_pfarramt: Schöne Aussicht 12, 65396 Walluf
+  telefon: +49 (0)6123 71420
+  pfarrer: Andreas Günther
+  pfarrerin: Bettina Friehmelt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 23-walluf/009
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gail Seymour Halvorsen
+QUELLE: https://www.walluf.de/leben-in-walluf/walluf-erleben/persoenlichkeiten/halvorsen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_datum: 10. Oktober 1920
+  geburt_ort: Salt Lake City, Utah, USA
+  tod_datum: 16. Februar 2022
+  tod_ort: Provo, Utah, USA
+  nationalitaet: US-amerikanisch
+  beruf: Pilot
+  rolle: Rosinenbomber-Pilot während Berlin-Blockade 1948/49
+  bekannt_fuer: Erster Pilot, der Süßigkeiten mit selbstgebastelten Fallschirmen abwarf
+  symbol_fuer: Berliner Luftbrücke
+  wohnte_in_walluf: ja
+  gedenkstaette: Gedenkpalette am Haus Mühlstraße 46
+GUELTIG_AB: 1948
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 23-walluf/010
+ENTITÄT: friedhof
+ORTSTEIL_BEZUG: Niederwalluf
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichtenarchiv-2021/erweiterungsmassnahmen-auf-den-friedhoefen-in-niederwalluf-und-oberwalluf-sind-abgeschlossen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erweiterung_kolumbarienanlage_2021: Rundstele hinzugefügt
+  erweiterung_neue_anlage_2021: zwei weitere Rundstelen
+  neue_urnenkammern_2021: 72
+  ausstattung_trauerpunkt: ja
+  ausstattung_vasenstein: ja
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 23-walluf/011
+ENTITÄT: friedhof
+ORTSTEIL_BEZUG: Oberwalluf
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichtenarchiv-2021/erweiterungsmassnahmen-auf-den-friedhoefen-in-niederwalluf-und-oberwalluf-sind-abgeschlossen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erweiterung_kolumbarienanlage_2021: drei Kreuzstelen
+  neue_urnenkammern_2021: 48
+  bestattungsform_baumbestattung_seit: 2021
+  baeume_gepflanzt_2021: 6
+  baumart: Liquidambar styraciflua (Amberbaum)
+  kosten_gesamterweiterung: 190000 [Euro]
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 23-walluf/012
+ENTITÄT: person
+BEZEICHNUNG: Nikolaos Stavridis
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichtenarchiv-2021/konstituierung-in-walluf-abgeschlossen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 23-walluf/013
+ENTITÄT: person
+BEZEICHNUNG: Ulrike Hans
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichtenarchiv-2021/konstituierung-in-walluf-abgeschlossen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Gemeindevertretungsvorsitzende
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 23-walluf/014
+ENTITÄT: person
+BEZEICHNUNG: Randolf Hess
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichtenarchiv-2021/konstituierung-in-walluf-abgeschlossen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Erster Beigeordneter
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

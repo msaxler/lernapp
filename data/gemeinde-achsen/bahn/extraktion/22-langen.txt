@@ -1,0 +1,576 @@
+ENTITÄT: ort
+BEZEICHNUNG: Langen
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwaehnung: 834
+  ersterwaehnungsform: Langungon
+  ersterwaehnungskontext: Schenkungsurkunde von König Ludwig dem Deutschen an Kloster Lorsch
+  bedeutung_roem_eisenzeit: Kreuzungspunkt zweier überregionaler Römerstraßen
+  besiedlung_steinzeit: nachgewiesen durch Hügelgräber und Grabungsfunde
+  besiedlung_bronzezeit: nachgewiesen durch Hügelgräber und Grabungsfunde
+  gründung_alemannen: 5. Jahrhundert nach Christus
+  wildbannforst: Dreieich (Karolinger-Zeit)
+  handelsweg_nord_sued: Bergstraße zwischen Frankfurt und Heidelberg
+  handelsweg_ost_west: Magistrale Aschaffenburg-Mainz
+  religion_reformation: lutherisch seit 1532
+  infrastruktur_wasserleitung: hölzerne Wasserleitung ab 1538
+  infrastruktur_fahrgasse: gepflastert seit 1550
+  haeuseranzahl_1550: 123
+  rechtsstand_1813: Marktflecken
+  rechtsstand_1883: Stadtrechte
+  herrschaft_bis_1918: Landgrafen von Hessen-Darmstadt
+  verkehrsumbruch_1846: Main-Neckar-Bahn in Betrieb, Bahnhof außerhalb der Stadt, Strukturwandel von Handelszentrum zu Arbeiterwohnsitz
+  einwohner_um_1900: 5600
+  einwohner_1939: 9000
+  einwohner_1951: 14000
+  einwohner_2024: 40839
+  einwohner_2025: 41027
+  befreiung_zweiter_weltkrieg: März 1945 durch US-Truppen
+  besatzungszeit_frankreich: 23. Dezember 1918 bis 1930
+  grenzort: östlichster Grenzort des Mainzer Brückenkopfes 1918-1930
+  fluechtlinge_nachkrieg: Transporte von Vertriebenen aus Osten ab März 1946
+  auslaenderanteil: 23%
+  bevoelkerungsdichte_pro_km2: 1417
+  stadtgebiet_km2: 29.12
+  bebaute_flaeche_km2: 5.57
+  gruenflaechen_km2: 0.78
+  waldflaechenanteil_prozent: 55.1
+  hoehe_minimum: 109 [Meter, Krötseeschneise]
+  hoehe_maximum: 198 [Meter, Albanusberg]
+  hoehe_stadtkern: 142.5 [Meter, Stadtkirche]
+  lage_koordinaten: 8° 40` 55,6" Ost, 49° 56` 26,4" Nord
+  fluss: Sterzbach
+  bekannt_fuer: Strandbad am Waldsee, Ebbelwoifest, Schloss Wolfsgarten, Glasmalerei in Neuer Stadthalle
+  steuersatz_grundsteuer_a: 379.97 [Prozent, 2025]
+  steuersatz_grundsteuer_b: 1268.77 [Prozent, 2025]
+  steuersatz_gewerbe: 385 [Prozent, 2025]
+  kaufkraft_pro_einwohner: 29997 [Euro, 2024]
+  kaufkraft_index: 107.4 [Bundesindex=100, 2024]
+  postleitzahl: 63225
+  vorwahl: 06103
+  wahlkreis_bundestag: 185
+  wahlkreis_landtag: 44
+  sozialversicherungspflichtig_beschaeftigte_arbeitsort: 16696 [Stand 30.06.2024]
+  sozialversicherungspflichtig_beschaeftigte_wohnort: 3549 [Stand 30.06.2024]
+  verbesserung_beschaeftigung_seit_2000: 38.8 [Prozent]
+  dienstleistungsanteil_arbeitsplatz: 90 [Prozent]
+  beschaeftigungsbesatz_pro_1000_einwohner: 405
+  einpendler: 13144 [Stand 30.06.2024]
+  auspendler: 13793 [Stand 30.06.2024]
+  uebernachtungen_2024: 165045
+  durchschnittliche_aufenthaltsdauer_tage: 2.2
+  buergermeister: Prof. Dr. Jan Werner
+  sbahn_frankfurt_takt_minuten: 15
+  sbahn_darmstadt_takt_minuten: 30
+  sbahn_ab: 1997
+  regionalexpress_dauer_frankfurt_hbf_minuten: 8
+  raddirektverbindung_frankfurt_darmstadt: im Bau, entlang der Bahnlinie
+GUELTIG_BIS_BEVDATEN: 31.12.2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Albertus Magnus
+ORTSTEIL_BEZUG: Langen
+QUELLE: https://bistummainz.de/region-mainlinie/pfarrei/langen/start/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religion: katholisch
+  adresse: Bahnstraße 60
+  platz: Albertus-Magnus-Platz 4
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Liebfrauen
+ORTSTEIL_BEZUG: Langen
+QUELLE: https://bistummainz.de/region-mainlinie/pfarrei/langen/start/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religion: katholisch
+  adresse: Frankfurter Straße 27
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Hl. Thomas von Aquin
+ORTSTEIL_BEZUG: Langen
+QUELLE: https://bistummainz.de/region-mainlinie/pfarrei/langen/start/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religion: katholisch
+  adresse: Berliner Allee 39
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Langen
+QUELLE: https://www.langen-evangelisch.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religion: evangelisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Pfarrei Hl. Familie Langen-Egelsbach-Erzhausen
+ORTSTEIL_BEZUG: Langen
+QUELLE: https://bistummainz.de/region-mainlinie/pfarrei/langen/start/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religion: katholisch
+  pfarrburo_adresse: Bahnstraße 60, Eingang Kapelle
+  pfarrburo_telefon: 06103 23542
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: synagoge
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Dieburger Straße
+  ereignis_reichspogromnacht: verwüstet und niedergebrannt am 10. November 1938
+  heutige_funktion: Mahnmal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Vierröhrenbrunnen
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1553
+  zustand: noch heute sprudelnd
+  kontext: Standort des kaiserlichten Maigerichts von 1338-1556
+GUELTIG_AB: 1553
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gericht
+BEZEICHNUNG: Kaiserliches Maigericht (Maigeding)
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort_beschreibung: nahe des Vierröhrenbrunnens
+  taegig_von: 1338
+  taegig_bis: 1556
+GUELTIG_AB: 1338
+GUELTIG_BIS: 1556
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: turm
+BEZEICHNUNG: Stumpfer Turm
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft_baujahr: 1336 (Stadtbefestigung der Falkensteiner)
+  zustand: noch erhalten
+GUELTIG_AB: 1336
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: turm
+BEZEICHNUNG: Spitzer Turm
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft_baujahr: 1336 (Stadtbefestigung der Falkensteiner)
+  zustand: noch erhalten
+GUELTIG_AB: 1336
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Wolfsgarten
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Landgrafen von Hessen-Darmstadt
+  erbauerungs_jahr: 1721
+  urspruengliche_nutzung: Jagdschloss
+  spaetere_nutzung: Sommerresidenz
+  besonderheit: Park mit alljährlichem Fürstlichem Gartenfest
+GUELTIG_AB: 1721
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: rathaus
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau_1826: erbaut
+  altes_rathaus_funktion: seit 1983 Museum zur Stadtgeschichte
+  altes_rathaus_standort: Wilhelm-Leuschner-Platz
+GUELTIG_AB: 1826
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Museum zur Stadtgeschichte (Altes Rathaus)
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1983
+  standort: Wilhelm-Leuschner-Platz, Altes Rathaus
+GUELTIG_AB: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Main-Neckar-Bahn / Bahnstrecke
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 1846
+  auswirkung: Verschiebung des Schwerpunkts nach Westen zur Bahnstation, Strukturwandel des Ortes
+  auswirkung_wirtschaft: Rückgang des überregionalen Durchgangsverkehrs
+  beschreibung: Geleise und Bahnhof lagen außerhalb der Altstadt
+GUELTIG_AB: 1846
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Haltepunkt Flugsicherung
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: zweiter Bahnhof Langens, existiert wegen der DFS Deutsche Flugsicherung GmbH
+  kontext: Anbindung der Unternehmenszentrale
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fluechtlingslager
+BEZEICHNUNG: LaFlüLa (Landesflüchtlingslager Hessen)
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: größtes Landesflüchtlingslager Hessens
+  standort: Nordosten von Langen
+  errichtung: 1957
+  abriss: 2005
+  kapazitaet_personen: bis zu 1100 Menschen zeitweise
+  designer_funktion: konzipiert als Übergangswohnheim, viele Bewohner blieben dauerhaft
+  geschicht_effekt: mindestens jeder Fünfte der rund 37000 Langener stammt irgendwie vom Lager ab
+GUELTIG_AB: 1957
+GUELTIG_BIS: 2005
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Nordend
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse_einwohner: 7000
+  groesse_superlativ: größter Stadtteil Langens
+  entstehung: Wachstum um das LaFlüLa-Lager herum
+  neugestaltung_ab_2005: nach Abriss des LaFlüLa im Jahr 2005
+  besonderheit: Platz der Deutschen Einheit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wohngebiet
+BEZEICHNUNG: Oberlinden
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1960
+  bauende: 1963
+  standort: Westen Langens
+GUELTIG_AB: 1960
+GUELTIG_BIS: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wohngebiet
+BEZEICHNUNG: Neurott
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Wirtschaftszentrum
+  standort: Westen Langens
+  besiedlung_branchen: High-Tech-Unternehmen, Bundesbehörden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Paul-Ehrlich-Institut
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Bundesinstitut für Impfstoffe und biomedizinische Arzneimittel
+  standort: Neurott
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Luftmessnetz-Zentrale
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: Umweltbundesamt
+  standort: Neurott
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Bildungszentrum Deutscher Wetterdienst
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Neurott
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: flugsicherungsunternehmen
+BEZEICHNUNG: DFS Deutsche Flugsicherung GmbH
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Neurott
+  infrastruktur: Unternehmenszentrale, Flugsicherungsakademie, Zentralbereiche
+  mitarbeiter: über 3000
+  superlativ: eine der größten Flugsicherungs-Kontrollzentralen Europas
+  aufgabe: Überwachung des unteren Luftraums über Südwest-Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bad
+BEZEICHNUNG: Hallenbad
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aussstattung: 50-Meter-Bahn
+  entstehungszeit: 1960er-1980er Jahre
+  standort: Südliche Ringstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bad
+BEZEICHNUNG: Freizeitzentrum Langener Waldsee
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: größtes Strandbad im Rhein-Main-Gebiet
+  funktion: Freizeit- und Familienbad
+  ausstattung: Rutschen, Sprungturm, Wasserdüsen, Wasserpilze, große Liegewiese
+  entstehungszeit: 1960er-1980er Jahre
+  besonderheit: Startschuss für Ironman-Triathlon und Frankfurt City Triathlon
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bad
+BEZEICHNUNG: Strandbad Langener Waldsee FKK-Areal
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: eines der größten FKK-Areale in Hessen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Asklepios Klinik (ehemals Kreiskrankenhaus)
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehungszeit: 1960er-1980er Jahre
+  standort: Röntgenstraße 20
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Neue Stadthalle
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Südliche Ringstraße
+  nutzung: Veranstaltungsort für Theater, Konzerte, Tanz- und Kleinkunstveranstaltungen, Tagungen, Kongresse und Familienfeiern
+  inhalte: Glaskunst-Schau, Stadtbücherei, Restaurant
+  nachbarschaft: benachbartes Hallenbad mit 50-Meter-Bahn
+  entstehungszeit: 1960er-1980er Jahre
+  beschreibung: moderne Stadthalle mit prominenten Künstlern aus aller Welt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kulturhaus Altes Amtsgericht
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Darmstädter Straße 27
+  inhalte: Stadtarchiv, Volkshochschule, Musikschule
+  entstehungszeit: 1960er-1980er Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Zentrum für Jung und Alt (ZenJA)
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 2006
+  superlativ: erstes offizielles Mehrgenerationenhaus in Hessen
+  standort: Stadtmitte
+  inhalte: Mütterzentrum, Elternservice, Seniorenhilfe unter einem Dach
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Behördenzentrum
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Südliche Ringstraße
+  inhalte: Amtsgericht, Finanzamt, Rathaus, Polizeistation, Kfz-Zulassungsstelle, Arbeitsagentur-Filiale
+  polizeistation_zustaendigkeit: Langen, Egelsbach und Teile von Dreieich
+  kfz_zulassungsstelle_zustaendigkeit: Westkreis Offenbach und Langen, Dreieich, Egelsbach
+  arbeitsagentur_zustaendigkeit: Langen, Dreieich, Egelsbach
+  entstehungszeit: 1960er-1980er Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Altstadtkern
+QUELLE: https://www.langen.de/de/stadtportraet.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: alte Fachwerkhäuser
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: naturbereich
+BEZEICHNUNG: Streuobstwiesen
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: 90 [Hektar]
+  beschreibung: knorrige Bäume
+  nutzung: Apfelernte für Apfelwein-Produktion
+  eigenmarke: Siebenschläfer
+  funktion_eigenmarke: Kommunale Vermarktung zur Pflege und Erhalt der Wiesen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: tier
+BEZEICHNUNG: Siebenschläfer
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zoologisch: possierliches Nagetier
+  lebensraum: Streuobstwiesen
+  verwendung: Handelsmarke für Apfelwein aus Langen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Radverbindung Frankfurt-Darmstadt
+QUELLE: https://www.langen.de/de/stadtportraet.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: im Bau
+  verlauf: entlang der Bahnlinie durch die Stadt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: poststation
+QUELLE: https://www.langen.de/de/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: 1818
+GUELTIG_AB: 1818
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: freikirche
+BEZEICHNUNG: Freie Christengemeinde Langen
+QUELLE: https://www.langen.de/de/freikirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Mainstraße 1
+  postfach: 12 52, 63202 Langen
+  telefon: 069 86003787
+  leitung: Nadejda Hoffmann, Jürgen Körner
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: freikirche
+BEZEICHNUNG: Freie evangelische Gemeinde Langen
+QUELLE: https://www.langen.de/de/freikirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Wiesgässchen 27
+  telefon: 06103 201555
+  pastor: Johannes Hoffmann
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: freikirche
+BEZEICHNUNG: Internationale Jesus Gemeinde Langen
+QUELLE: https://www.langen.de/de/freikirchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Rheinstraße 32
+  lead_pastor: Joshua Ray Gilliland
+  pastor: Daniel Reinhold
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wappen
+QUELLE: https://www.langen.de/de/stadtwappen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: seit 1622
+  beschreibung_siegel: aufgerichteter Eichenzweig mit drei Eicheln, überdeckt von gestümmeltem Ast
+  symbolik: Zugehörigkeit zur Dreieich durch Ast
+  siegel_umschrift: Gerischts Insiegel zu Langen 1622
+  historische_form_1959: Renaissanceschild mit Mauerkrone und vier Eicheln ornamentiert
+  umgestaltung_1959: moderne heraldische Grundsätze
+  gestalter_1959: Marianne Heim (Graphikerin)
+  genehmigung_stadtversammlung: 24.03.1959
+  genehmigung_landesregierung: 15.06.1959
+  jetzige_form: Gold-Grund zur Unterscheidung von Dreieichgemeinden
+GUELTIG_AB: 1622
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

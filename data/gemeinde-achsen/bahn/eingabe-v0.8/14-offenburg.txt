@@ -1,0 +1,186 @@
+ZIELORT: Offenburg (Stadt)
+LAGE: 53 km nördlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Offenburg
+
+GRUNDDATEN:
+  landkreis: Ortenaukreis  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 63.437  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 78,37  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 809  [berechnet aus Einwohner und Fläche]
+  kfz: OG (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 163  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2857798)]
+  naechste_grossstadt: Freiburg im Breisgau, 53 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 97 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Offenburg, Offenburg Kreisschulzentrum  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 77601–77656  [Wikidata P281]
+  vorwahl: 0781  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 28,1 %, AfD 21,8 %, SPD 14,4 %, GRÜNE 14,1 %, Die Linke 7,8 %; Wahlbeteiligung 79,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Marco Steffens (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-03]
+  partnerstaedte: Lons-le-Saunier, Weiz, Borehamwood, Altenburg, Olsztyn, Pietra Ligure  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C-LEITER, letzte Stufe mit "höher": 1
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Fläche der Gemarkung), C, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Lahr (Stadt)
+  landkreis: Ortenaukreis  [dewiki Infobox]
+  einwohner: 51.208  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 69,86 | 69,84  [Wikidata P2046; Altbestand staedte.json]
+  hoehe_m: 170 | 176  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2881885)]
+  naechste_grossstadt: Freiburg im Breisgau, 38 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Lahr (Schwarzw)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: AfD 31,4 %, CDU 24,7 %, SPD 13,6 %, GRÜNE 9,4 %, Die Linke 6,6 %, BSW 5,1 %; Wahlbeteiligung 75,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  kfz: LR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand staedte.json]
+
+FAHRT: Emmendingen, Kenzingen, Herbolzheim, Lahr, Offenburg, Achern, Bühl, Baden-Baden, Rastatt, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Langen, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar
+
+FAKTEN (Zielort Offenburg):
+ID: 14-offenburg/001
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 14-offenburg/002
+ENTITÄT: stadt_status
+BEZEICHNUNG: Oberzentrum Baden-Württemberg
+QUELLE: https://offenburg.de/de/zu-gast-in-offenburg/touristinfo/stadtinformation/geschichte-vi/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1996
+  grund: "um als Partner der benachbarten Europastadt Straßburg bestehen zu können"
+  entscheidung: Beschluss der Landesregierung
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 14-offenburg/003
+ENTITÄT: raeumliche_strukturierung
+BEZEICHNUNG: Zünfte und Handwerker Offenburgs
+QUELLE: https://offenburg.de/de/zu-gast-in-offenburg/touristinfo/stadtinformation/geschichte-i/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: ab Mittelalter
+  verteilung: "Rat wies Zünften besondere Wohnquartiere zu"
+  erinnerung_straßen: "viele Straßennamen erinnern noch heute daran (Gerberstraße, Metzgerstraße, Schlossergasse)"
+  rat_strukturierung: "um 1300 Nebenrat 'Jungen Rat' aus zwölf Mitgliedern der Zünfte, Verwaltungsaufgaben"
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 14-offenburg/004
+ENTITÄT: bauwerk_historisch
+BEZEICHNUNG: Ölberg-Plastik Offenburg
+QUELLE: https://offenburg.de/de/zu-gast-in-offenburg/touristinfo/freizeit-aktiv/radtouren/stadtrundfahrten/stadtrundfahrt-durch-geschichte-und-gegenwart-ii/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: 1524
+  lage: "gegenüber dem Hauptportal der Heilig-Kreuz-Kirche inmitten des ehemaligen Friedhofs"
+  kunsthistorische_bedeutung: "eines der ältesten und bedeutendsten Kunstdenkmäler der Stadt"
+GUELTIG_AB: 1524
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 14-offenburg/005
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Französische Besatzung im Rahmen der Ruhrkrise
+QUELLE: https://offenburg.de/de/zu-gast-in-offenburg/touristinfo/stadtinformation/geschichte-iv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1923/24
+  grund: "Strafmaßnahme gegen das Deutsche Reich"
+  folgen_wohnraummangel: true
+  fluechtlinge_aufnahme: "hunderte elsässische Flüchtlinge"
+GUELTIG_AB: 1923
+GUELTIG_BIS: 1924
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 14-offenburg/006
+ENTITÄT: wirtschaftliches_ereignis
+BESCHREIBUNG: Weltwirtschaftskrise 1929 in Offenburg
+QUELLE: https://offenburg.de/de/zu-gast-in-offenburg/touristinfo/stadtinformation/geschichte-iv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  folge_arbeitslosigkeit: Anstieg
+  politisches_klima: "Radikalisierung"
+GUELTIG_AB: 1929
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 14-offenburg/007
+ENTITÄT: politisches_gremium
+BEZEICHNUNG: Rat der Stadt Offenburg (mittelalterlich)
+QUELLE: https://offenburg.de/de/zu-gast-in-offenburg/touristinfo/stadtinformation/geschichte-i/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  struktur_frueh: "Bürgermeister und zwölf Ratsherren"
+  funktionen: "gleichzeitig Richter der Stadt, niedere und hohe Gerichtsbarkeit"
+  erweiterung_um_1300: "'Alter Rat' durch 'Jungen Rat' ergänzt"
+  junger_rat_zusammensetzung: "zwölf Mitglieder der Zünfte"
+  junger_rat_aufgabe: Verwaltung
+GUELTIG_AB: Mittelalter
+GUELTIG_BIS: Reformationszeit
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 14-offenburg/008
+ENTITÄT: reformation
+BEZEICHNUNG: Reformationsprozess in Offenburg
+QUELLE: https://offenburg.de/de/zu-gast-in-offenburg/touristinfo/stadtinformation/geschichte-i/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  unzufriedenheit_ab: Anfang 16. Jahrhundert
+  grund: "über kirchliche Würdenträger"
+  massnahme_1525: "Magistrat setzte zwei Prediger ein, nicht dem Kirchherrn untergeordnet"
+  effekt: "Luthers Lehre konnte sich schnell verbreiten"
+  reichstag_position_1530: "Offenburger Gesandten traten mit Straßburgern für neue Lehre ein"
+  umschwung_ab_1531: "Offenburger kehrten deutlich zum alten Glauben zurück"
+  grund_rueckwendung: "Bürgern war daran gelegen, Status als freie Reichsstädter zu erhalten"
+  kirchenordnung_jahr: 1560
+  kirchenordnung_erlass: "von Schultheiß, Meister und Rat der Stadt Offenburg"
+  ratsbeschluss_1591: "nur dem Bürgerrecht zu verleihen, wer sich zur 'wahren römischen Kirche' bekannte"
+  aufhebung_beschluss: 18. Jahrhundert
+GUELTIG_AB: 1520
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 14-offenburg/009
+ENTITÄT: bevoelkerungsgruppe
+BEZEICHNUNG: Jüdische Bevölkerung Offenburgs
+QUELLE: https://offenburg.de/de/zu-gast-in-offenburg/touristinfo/stadtinformation/geschichte-i/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ansiedlung: Mitte 13. Jahrhundert
+  grund: "tolerante Politik Friedrich II."
+  charakterisierung: "kleine blühende Gemeinde"
+  bauwerke: "Wohnhäuser, Judenschul (Synagoge), unterirdische Mikwe"
+  erste_gemeinde_ende: Pogrom 1349
+  grund_pogrom: "Anschuldigung wegen Brunnenvergiftung (nachweislich falsch)"
+GUELTIG_AB: 1250
+GUELTIG_BIS: 1349
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 14-offenburg/010
+ENTITÄT: architektonisches_merkmal
+BEZEICHNUNG: Straßennamen nach Zünften in Offenburg
+QUELLE: https://offenburg.de/de/zu-gast-in-offenburg/touristinfo/stadtinformation/geschichte-i/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beispiele: "Gerberstraße, Metzgerstraße, Schlossergasse"
+  grund_benennung: "Rat wies Zünften besondere Wohnquartiere zu"
+  erhaltung: "bis heute erinnernd"
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 14-offenburg/011
+ENTITÄT: wirtschaftliche_aktivitaet
+BEZEICHNUNG: Ackerbau, Weinbau und Viehzucht in Offenburg
+QUELLE: https://offenburg.de/de/zu-gast-in-offenburg/touristinfo/stadtinformation/geschichte-i/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitbeginn: 16. Jahrhundert
+  ausmass: "bescheiden"
+  beteiligung: "Bürger der Stadt"
+  auswirkung_stadtcharakter: "Stadt erhielt dadurch ein bürgerlich-bäuerliches Gesicht"
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+

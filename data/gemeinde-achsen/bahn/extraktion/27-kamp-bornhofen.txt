@@ -1,0 +1,341 @@
+ENTITÄT: ort
+BEZEICHNUNG: Kamp-Bornhofen
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  namensherkunft: lateinisch "Campus" (Feld), vermutlich
+  namenänderung_1930er: von "Camp" zu "Kamp"
+  namenänderung_nach_weltkrieg_2: zu "Kamp-Bornhofen"
+  gründung: ca. 600 n. Chr.
+  erste_erwähnung_kamp: 1138
+  erste_erwähnung_bornhofen: 1110
+  region_bis_1139: Einrichgau
+  region_1139_bis_1312: Bopparder Reichsgut
+  region_1312_bis_1802: Erzbistum Trier
+  region_1802_bis_1866: Fürsten Friedrich Wilhelm von Nassau-Weilburg
+  region_ab_1866: Preußen
+  region_ab_1969: Rhein-Lahn-Kreis
+  region_ab_2012: Verbandsgemeinde Loreley
+  konfession: überwiegend katholisch
+  konfessionszugehörigkeit_reformationszeit: katholisch (Erzbistum Trier)
+  einwohnerzahl: 1556
+  einwohnerzahl_jahr: 2020
+  wirtschaftliche_besonderheit: Flößer- und Schiffergemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: archäologische_funde
+BEZEICHNUNG: Hügelgräber im Kamper Wald
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum: Eisenzeit
+  datierung: ab ca. 800 v. Chr.
+  lokalisation: Kamper Wald
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: archäologische_funde
+BEZEICHNUNG: römische Überreste
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum: römische Zeit
+  lokalisation: Gemarkung Kamp-Bornhofen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Nicolai Pfarrkirche (alte Pfarrkirche St. Nikolaus)
+ORTSTEIL_BEZUG: Kamp
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  erbaut: 1251
+  brand: 1954
+  verbleibsel: Kirchturm (braunfarben)
+GUELTIG_BIS: 1954
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Benediktinerabtei St. Goar
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  besitz_in_kamp: Weinberge
+  schenkung_durch: Herzog Hermann I. (gest. 949)
+  schenkung_erwähnung: 1138 (Urbar)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Nikolaus
+ORTSTEIL_BEZUG: Kamp
+QUELLE: https://kamp-bornhofen.welterbe-mittelrheintal.de/leben-in-kamp-bornhofen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1902-1904
+  pfarrer_beim_bau: Eduard Rentz (Dr.)
+  sanierung: 1980er Jahre (Ende)
+  jubiläum_kirchenhaus: 100 Jahre (2004)
+  jubiläum_pfarrei: 750 Jahre (2004)
+GUELTIG_AB: 1902
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wallfahrtskirche
+ORTSTEIL_BEZUG: Bornhofen
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  fertigstellung: 1435
+  gnadenbild: wundertätig, mirakulös
+  superlativ: älteste bekannte Wallfahrt nach Bornhofen ist diejenige der Bopparder
+  wallfahrtstag_boppard: Mittwoch nach Ostern (alljährlich)
+GUELTIG_AB: 1435
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Wallfahrts- und Franziskanerkloster Bornhofen
+ORTSTEIL_BEZUG: Bornhofen
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  orden_ab_1662: Franziskaner
+  orden_ab_1679: Kapuziner
+  klosterbau_abschluss: 1684
+  auflösung: 1813
+  wiederbesiedlung_ab: 1850er Jahre
+GUELTIG_AB: 1662
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wallfahrtsort
+ORTSTEIL_BEZUG: Bornhofen
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  wallfahrtsort_seit: spätestens 13. Jahrhundert
+  bedeutung_19_jh: Anfang 19. Jahrhundert lebten neben Mönchen elf Familien vom Wallfahrtsgeschäft
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: pfarrgemeinde
+BEZEICHNUNG: Pfarrgemeinde St. Nikolaus
+ORTSTEIL_BEZUG: Kamp
+QUELLE: https://kamp-bornhofen.welterbe-mittelrheintal.de/leben-in-kamp-bornhofen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirchenhaus_erbaut: 1902-1904
+  jubiläum: 750 Jahre (2004)
+  pfarrgarten: vorhanden
+  pfarrheim: vorhanden (vermietbar für Feiern)
+  kindergarten: katholischer Kindergarten im Pfarrheim
+GUELTIG_AB: 1254
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: nachbarschaft
+BEZEICHNUNG: Unterdörfer Nachbarschaft
+ORTSTEIL_BEZUG: Kamp
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  gründung: Pest-Zeit (vermutlich)
+  zweck: Bestattung der Verstorbenen
+  organisation: ähnlich wie Verein
+  nachbarschaftstag: jährlich
+  nachbarschaftsfahne: vorhanden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: nachbarschaft
+BEZEICHNUNG: Mitteldörfer Nachbarschaft
+ORTSTEIL_BEZUG: Kamp
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  gründung: Pest-Zeit (vermutlich)
+  zweck: Bestattung der Verstorbenen
+  organisation: ähnlich wie Verein
+  nachbarschaftstag: jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: nachbarschaft
+BEZEICHNUNG: Oberdörfer Nachbarschaft
+ORTSTEIL_BEZUG: Kamp
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  gründung: Pest-Zeit (vermutlich)
+  zweck: Bestattung der Verstorbenen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: nachbarschaft
+BEZEICHNUNG: Bornhofener Nachbarschaft
+ORTSTEIL_BEZUG: Bornhofen
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  gründung: Pest-Zeit (vermutlich)
+  zweck: Bestattung der Verstorbenen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Urzy
+QUELLE: https://kamp-bornhofen.welterbe-mittelrheintal.de/geschichte/partnergemeinde-urzy | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  partnergemeinde_seit: 1996
+  partnerschaftskreis: gegründet
+  anlass_partnerschaft: Verständigung und freundschaftliche Verbindung über Grenzen hinweg
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: epidemie
+BEZEICHNUNG: Typhusepidemie
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  jahr: 1814
+  todesfälle: 112
+  ort: Kamp
+  verursacher: Soldaten der Armee Blüchers (bei Rheinüberquerung Kaub)
+  anlass: Überquerung Rhein durch Blüchers Armee
+GUELTIG_AB: 1814
+GUELTIG_BIS: 1814
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Weinbau
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  tradition: seit Mittelalter
+  haupterwerbsquelle: für viele Familien
+  krise_zeitraum: 1848-1857 (Missernten)
+  weitere_probleme: Konkurrenz aus Italien, Frankreich, Spanien; Schädlingsbefall
+GUELTIG_BIS: 1857
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Obstbau (Kirschen)
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  hauptprodukt: Kirschen
+  umfang: sehr großer Umfang
+  grund: Ersatz für Weinbau nach Krise
+GUELTIG_AB: 1857
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Flößerei
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  bedeutung: große Bedeutung für Erwerbsleben
+  beschäftigte_1860: 60 Kamper bei Floßfirma
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Eisenbahnstrecke
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  anschluss_jahr: 1862
+  strecke: Rüdesheim bis Lahnstein
+  folge: Aufschwung des Fremdenverkehrs, Tourismus ab 1870er Jahren
+GUELTIG_AB: 1862
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kriegsereignis
+BEZEICHNUNG: Erster Weltkrieg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  gefallene: 73 Kamp-Bornhofener
+  nachkriegssituation: lange Zeit Besetzung
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Jakob Kaufmann
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  beruf: Metzger
+  religion: jüdisch
+  ehefrau: Mathilde Kaufmann
+  schicksal: 1942 ins Konzentrationslager Theresienstadt deportiert, später im Konzentrationslager Treblinka ermordet
+  kinder: konnten nach Amerika fliehen
+  erinnerung: Kaufmannsstraße (ehemals Forststraße) nach Familie benannt
+GUELTIG_BIS: 1942
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kriegsereignis
+BEZEICHNUNG: Zweiter Weltkrieg - Bombardements und Besetzung
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  luftangriff_1940: vorhanden
+  luftangriff_1944: schwer
+  luftangriff_29_januar_1945: sechs Todesfälle
+  artilleriebeschuss_ab: Mitte März 1945
+  besetzung: 25. März 1945 (Nacht) durch US-Truppen
+  kriegstote_insgesamt: 70 militärische und zivile Opfer
+GUELTIG_AB: 1940
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Schule Kamp-Bornhofen
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kamp-bornhofen.html | Landesportal
+EIGENSCHAFTEN:
+  neubau_einweihung: 1955
+  grund_neubau: alte Schulräumlichkeiten verteilt in Rathaus und ehemaliges Hitlerjugend-Heim
+  geplante_mittelpunktschule: 1960er Jahre geplant, gescheitert durch Einspruch Nachbargemeinden
+  weiterführende_schule_ab_1972: Braubach
+GUELTIG_AB: 1955
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

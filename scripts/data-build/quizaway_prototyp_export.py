@@ -18,7 +18,8 @@ WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file_
 GA = os.path.join(WURZEL, 'data', 'gemeinde-achsen')
 ZIEL = os.path.join(WURZEL, 'apps', 'quizaway-reise', 'daten.js')
 # Raum: Ordner, Anzeigename, Lauf mit den Orts-Anschlüssen, Lauf der Tisch-Reihe
-RAEUME = [('iter1', 'Freiburg und Umland', 'v0.6', 'v0.5'), ('neuwied', 'Rhein und Wied', 'v0.7', 'v0.7')]
+RAEUME = [('iter1', 'Freiburg und Umland', 'v0.6', 'v0.5'), ('neuwied', 'Rhein und Wied', 'v0.7', 'v0.7'),
+          ('bahn', 'Bahn Freiburg–Neuwied (rechte Rheinseite)', 'v0.8', 'v0.8')]
 KOPF = {'v0.4': 'Vorschlag'}
 
 
@@ -49,10 +50,11 @@ def karte_lesen(text):
     familie = feld(text, 'FAMILIE').split()[0].upper() if feld(text, 'FAMILIE') else '?'
     optionen = [re.sub(r'^\d[.):]?\s+', '', z) for z in vorn[2:] if re.match(r'^\d[.):]?\s', z)]
     frage = ' '.join(z for z in vorn[2:] if not re.match(r'^\d[.):]?\s', z))
-    m = re.search(r'(Richtig war|Die Lüge war|Höher bis Stufe)\s*(\d)', rueck)
+    # Leiter: "Höher bis Stufe N" ist die Formel; Kartenläufe schreiben je nach Frage auch "Größer/Mehr/Älter bis Stufe N"
+    m = re.search(r'(Richtig war|Die Lüge war|(?:Höher|Größer|Mehr|Älter) bis Stufe)\s*(\d)', rueck)
     if not m:
         return None
-    art = {'Richtig war': 'richtig', 'Die Lüge war': 'luege', 'Höher bis Stufe': 'leiter'}[m.group(1)]
+    art = 'leiter' if m.group(1).endswith('bis Stufe') else {'Richtig war': 'richtig', 'Die Lüge war': 'luege'}[m.group(1)]
     if 'LEITER' in familie:
         art = 'leiter'
     return {'familie': 'Leiter' if art == 'leiter' else familie, 'sorte': (feld(text, 'SORTE').split() or ['Geschichte'])[0],
@@ -79,7 +81,12 @@ def main():
         pfad_b = os.path.join(iter_, 'anschluss-berichtigt.json')
         berichtigt = json.loads(lies(pfad_b)) if os.path.exists(pfad_b) else {}
         orte, vorher = [], None
-        for slug in sorted(grund):
+        # Reihenfolge der Fahrt: orte.json, wo es sie gibt (Raum bahn: Nummern 01–10 Messorte, 11–29 Ausbau), sonst Slug
+        pfad_o = os.path.join(iter_, 'orte.json')
+        reihe_orte = [o[0] for o in json.loads(lies(pfad_o))['orte'] if o[0] in grund] if os.path.exists(pfad_o) else sorted(grund)
+        # nur Orte mit Karten im Vorrat (im Raum bahn laufen die Ausbau-Orte noch)
+        reihe_orte = [s for s in reihe_orte if any(x['ort'] == s for x in vorrat)]
+        for slug in reihe_orte:
             g = grund[slug]
             karten = []
             for v in [x for x in vorrat if x['ort'] == slug]:

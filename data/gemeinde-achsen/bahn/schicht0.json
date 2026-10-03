@@ -1,5 +1,30 @@
 [
  {
+  "slug": "11-emmendingen",
+  "rolle": "ziel",
+  "name": "Emmendingen",
+  "einheit": "Stadt",
+  "dewiki": "Emmendingen",
+  "url": "https://de.wikipedia.org/wiki/Emmendingen",
+  "abruf": "2026-10-03",
+  "zeichen": 40536,
+  "woerter": 5324,
+  "woerter_tabellen": 321,
+  "wikidata": "Q494521",
+  "einwohner": 29530,
+  "einwohner_stand": "2025-12-31",
+  "hoehe_m": 201.0,
+  "flaeche_km2": 33.78,
+  "lat": 48.12139,
+  "lon": 7.84917,
+  "verwaltungseinheit": [
+   "Landkreis Emmendingen",
+   "Vereinbarte Verwaltungsgemeinschaft Emmendingen",
+   "Amt Emmendingen",
+   "Oberamt Hochberg"
+  ]
+ },
+ {
   "slug": "01-kenzingen",
   "rolle": "ziel",
   "name": "Kenzingen",
@@ -20,6 +45,79 @@
   "verwaltungseinheit": [
    "Landkreis Emmendingen",
    "Gemeindeverwaltungsverband Kenzingen-Herbolzheim"
+  ]
+ },
+ {
+  "slug": "12-herbolzheim",
+  "rolle": "ziel",
+  "name": "Herbolzheim",
+  "einheit": "Stadt",
+  "dewiki": "Herbolzheim",
+  "url": "https://de.wikipedia.org/wiki/Herbolzheim",
+  "abruf": "2026-10-03",
+  "zeichen": 25461,
+  "woerter": 3404,
+  "woerter_tabellen": 112,
+  "wikidata": "Q506864",
+  "einwohner": 10741,
+  "einwohner_stand": "2025-12-31",
+  "hoehe_m": 177.0,
+  "flaeche_km2": 35.48,
+  "lat": 48.22194,
+  "lon": 7.7775,
+  "verwaltungseinheit": [
+   "Landkreis Emmendingen",
+   "Gemeindeverwaltungsverband Kenzingen-Herbolzheim"
+  ]
+ },
+ {
+  "slug": "13-lahr",
+  "rolle": "ziel",
+  "name": "Lahr",
+  "einheit": "Stadt",
+  "dewiki": "Lahr/Schwarzwald",
+  "url": "https://de.wikipedia.org/wiki/Lahr/Schwarzwald",
+  "abruf": "2026-10-03",
+  "zeichen": 51672,
+  "woerter": 6919,
+  "woerter_tabellen": 292,
+  "wikidata": "Q7039",
+  "einwohner": 51208,
+  "einwohner_stand": "2025-12-31",
+  "hoehe_m": 170.0,
+  "flaeche_km2": 69.86,
+  "lat": 48.33917,
+  "lon": 7.87222,
+  "verwaltungseinheit": [
+   "Ortenaukreis",
+   "Vereinbarte Verwaltungsgemeinschaft Lahr/Schwarzwald"
+  ]
+ },
+ {
+  "slug": "14-offenburg",
+  "rolle": "ziel",
+  "name": "Offenburg",
+  "einheit": "Stadt",
+  "dewiki": "Offenburg",
+  "url": "https://de.wikipedia.org/wiki/Offenburg",
+  "abruf": "2026-10-03",
+  "zeichen": 64712,
+  "woerter": 8438,
+  "woerter_tabellen": 157,
+  "wikidata": "Q4044",
+  "einwohner": 63437,
+  "einwohner_stand": "2025-12-31",
+  "hoehe_m": 163.0,
+  "flaeche_km2": 78.37,
+  "lat": 48.47083,
+  "lon": 7.94083,
+  "verwaltungseinheit": [
+   "Ortenaukreis",
+   "Vereinbarte Verwaltungsgemeinschaft Offenburg",
+   "Bezirksamt Offenburg",
+   "Amt Offenburg",
+   "Kurfürstentum Baden",
+   "Schwäbischer Reichskreis"
   ]
  },
  {
@@ -46,6 +144,52 @@
   ]
  },
  {
+  "slug": "15-buehl",
+  "rolle": "ziel",
+  "name": "Bühl",
+  "einheit": "Stadt",
+  "dewiki": "Bühl",
+  "url": "https://de.wikipedia.org/wiki/B%C3%BChl",
+  "abruf": "2026-10-03",
+  "zeichen": 41793,
+  "woerter": 5613,
+  "woerter_tabellen": 208,
+  "wikidata": "Q505534",
+  "einwohner": 28433,
+  "einwohner_stand": "2025-12-31",
+  "hoehe_m": 138.0,
+  "flaeche_km2": 73.18,
+  "lat": 48.69528,
+  "lon": 8.135,
+  "verwaltungseinheit": [
+   "Vereinbarte Verwaltungsgemeinschaft Bühl",
+   "Landkreis Rastatt",
+   "Landkreis Bühl"
+  ]
+ },
+ {
+  "slug": "16-baden-baden",
+  "rolle": "ziel",
+  "name": "Baden-Baden",
+  "einheit": "Stadt",
+  "dewiki": "Baden-Baden",
+  "url": "https://de.wikipedia.org/wiki/Baden-Baden",
+  "abruf": "2026-10-03",
+  "zeichen": 60650,
+  "woerter": 8024,
+  "woerter_tabellen": 389,
+  "wikidata": "Q4100",
+  "einwohner": 56952,
+  "einwohner_stand": "2025-12-31",
+  "hoehe_m": 181.0,
+  "flaeche_km2": 140.19,
+  "lat": 48.76194,
+  "lon": 8.24083,
+  "verwaltungseinheit": [
+   "Regierungsbezirk Karlsruhe"
+  ]
+ },
+ {
   "slug": "03-rastatt",
   "rolle": "ziel",
   "name": "Rastatt",
@@ -69,6 +213,162 @@
   ]
  },
  {
+  "slug": "17-weinheim",
+  "rolle": "ziel",
+  "name": "Weinheim",
+  "einheit": "Stadt",
+  "dewiki": "Weinheim",
+  "url": "https://de.wikipedia.org/wiki/Weinheim",
+  "abruf": "2026-10-03",
+  "zeichen": 45529,
+  "woerter": 5792,
+  "woerter_tabellen": 332,
+  "wikidata": "Q7050",
+  "einwohner": 45919,
+  "einwohner_stand": "2025-12-31",
+  "hoehe_m": 131.0,
+  "flaeche_km2": 58.11,
+  "lat": 49.55611,
+  "lon": 8.66972,
+  "verwaltungseinheit": [
+   "Rhein-Neckar-Kreis",
+   "Bezirksamt Weinheim"
+  ]
+ },
+ {
+  "slug": "18-laudenbach",
+  "rolle": "ziel",
+  "name": "Laudenbach",
+  "einheit": "Gemeinde",
+  "dewiki": "Laudenbach (Bergstraße)",
+  "url": "https://de.wikipedia.org/wiki/Laudenbach_(Bergstra%C3%9Fe)",
+  "abruf": "2026-10-03",
+  "zeichen": 12753,
+  "woerter": 1712,
+  "woerter_tabellen": 102,
+  "wikidata": "Q81620",
+  "einwohner": 6627,
+  "einwohner_stand": "2025-12-31",
+  "hoehe_m": 102.0,
+  "flaeche_km2": 10.29,
+  "lat": 49.61139,
+  "lon": 8.65,
+  "verwaltungseinheit": [
+   "Rhein-Neckar-Kreis",
+   "Vereinbarte Verwaltungsgemeinschaft Hemsbach"
+  ]
+ },
+ {
+  "slug": "19-heppenheim",
+  "rolle": "ziel",
+  "name": "Heppenheim",
+  "einheit": "Stadt",
+  "dewiki": "Heppenheim (Bergstraße)",
+  "url": "https://de.wikipedia.org/wiki/Heppenheim_(Bergstra%C3%9Fe)",
+  "abruf": "2026-10-03",
+  "zeichen": 32997,
+  "woerter": 4225,
+  "woerter_tabellen": 1029,
+  "wikidata": "Q524407",
+  "einwohner": 28031,
+  "einwohner_stand": "2025-12-31",
+  "hoehe_m": 122.0,
+  "flaeche_km2": 52.12,
+  "lat": 49.64153,
+  "lon": 8.645,
+  "verwaltungseinheit": [
+   "Landkreis Bergstraße"
+  ]
+ },
+ {
+  "slug": "20-bensheim",
+  "rolle": "ziel",
+  "name": "Bensheim",
+  "einheit": "Stadt",
+  "dewiki": "Bensheim",
+  "url": "https://de.wikipedia.org/wiki/Bensheim",
+  "abruf": "2026-10-03",
+  "zeichen": 41221,
+  "woerter": 5245,
+  "woerter_tabellen": 984,
+  "wikidata": "Q14872",
+  "einwohner": 40848,
+  "einwohner_stand": "2025-12-31",
+  "hoehe_m": 103.0,
+  "flaeche_km2": 57.83,
+  "lat": 49.68111,
+  "lon": 8.62278,
+  "verwaltungseinheit": [
+   "Landkreis Bergstraße"
+  ]
+ },
+ {
+  "slug": "21-zwingenberg",
+  "rolle": "ziel",
+  "name": "Zwingenberg",
+  "einheit": "Stadt",
+  "dewiki": "Zwingenberg (Bergstraße)",
+  "url": "https://de.wikipedia.org/wiki/Zwingenberg_(Bergstra%C3%9Fe)",
+  "abruf": "2026-10-03",
+  "zeichen": 28513,
+  "woerter": 3822,
+  "woerter_tabellen": 973,
+  "wikidata": "Q244821",
+  "einwohner": 7183,
+  "einwohner_stand": "2025-12-31",
+  "hoehe_m": 100.0,
+  "flaeche_km2": 5.66,
+  "lat": 49.7225,
+  "lon": 8.61389,
+  "verwaltungseinheit": [
+   "Landkreis Bergstraße"
+  ]
+ },
+ {
+  "slug": "22-langen",
+  "rolle": "ziel",
+  "name": "Langen",
+  "einheit": "Stadt",
+  "dewiki": "Langen (Hessen)",
+  "url": "https://de.wikipedia.org/wiki/Langen_(Hessen)",
+  "abruf": "2026-10-03",
+  "zeichen": 36835,
+  "woerter": 4959,
+  "woerter_tabellen": 818,
+  "wikidata": "Q14932",
+  "einwohner": 39009,
+  "einwohner_stand": "2025-12-31",
+  "hoehe_m": 143.0,
+  "flaeche_km2": 29.12,
+  "lat": 49.98931,
+  "lon": 8.68035,
+  "verwaltungseinheit": [
+   "Landkreis Offenbach"
+  ]
+ },
+ {
+  "slug": "23-walluf",
+  "rolle": "ziel",
+  "name": "Walluf",
+  "einheit": "Gemeinde",
+  "dewiki": "Walluf",
+  "url": "https://de.wikipedia.org/wiki/Walluf",
+  "abruf": "2026-10-03",
+  "zeichen": 32712,
+  "woerter": 4521,
+  "woerter_tabellen": 317,
+  "wikidata": "Q634161",
+  "einwohner": 5494,
+  "einwohner_stand": "2025-12-31",
+  "hoehe_m": 90.0,
+  "flaeche_km2": 6.75,
+  "lat": 50.03708,
+  "lon": 8.15417,
+  "verwaltungseinheit": [
+   "Rheingau-Taunus-Kreis"
+  ]
+ },
+ {
   "slug": "04-eltville",
   "rolle": "ziel",
   "name": "Eltville am Rhein",
@@ -88,6 +388,51 @@
   "lon": 8.12007,
   "verwaltungseinheit": [
    "Rheingau-Taunus-Kreis"
+  ]
+ },
+ {
+  "slug": "24-oestrich-winkel",
+  "rolle": "ziel",
+  "name": "Oestrich-Winkel",
+  "einheit": "Stadt",
+  "dewiki": "Oestrich-Winkel",
+  "url": "https://de.wikipedia.org/wiki/Oestrich-Winkel",
+  "abruf": "2026-10-03",
+  "zeichen": 20791,
+  "woerter": 2839,
+  "woerter_tabellen": 404,
+  "wikidata": "Q571737",
+  "einwohner": 11386,
+  "einwohner_stand": "2025-12-31",
+  "hoehe_m": 84.0,
+  "flaeche_km2": 59.51,
+  "lat": 50.00854,
+  "lon": 8.01986,
+  "verwaltungseinheit": [
+   "Rheingau-Taunus-Kreis"
+  ]
+ },
+ {
+  "slug": "25-geisenheim",
+  "rolle": "ziel",
+  "name": "Geisenheim",
+  "einheit": "Stadt",
+  "dewiki": "Geisenheim",
+  "url": "https://de.wikipedia.org/wiki/Geisenheim",
+  "abruf": "2026-10-03",
+  "zeichen": 22023,
+  "woerter": 2908,
+  "woerter_tabellen": 317,
+  "wikidata": "Q558516",
+  "einwohner": 11184,
+  "einwohner_stand": "2025-12-31",
+  "hoehe_m": 197.0,
+  "flaeche_km2": 40.34,
+  "lat": 49.98313,
+  "lon": 7.96556,
+  "verwaltungseinheit": [
+   "Rheingau-Taunus-Kreis",
+   "Amt Rüdesheim"
   ]
  },
  {
@@ -181,6 +526,75 @@
   ]
  },
  {
+  "slug": "26-kestert",
+  "rolle": "ziel",
+  "name": "Kestert",
+  "einheit": "Gemeinde",
+  "dewiki": "Kestert",
+  "url": "https://de.wikipedia.org/wiki/Kestert",
+  "abruf": "2026-10-03",
+  "zeichen": 4738,
+  "woerter": 641,
+  "woerter_tabellen": 72,
+  "wikidata": "Q564653",
+  "einwohner": 635,
+  "einwohner_stand": "2025-12-31",
+  "hoehe_m": 70.0,
+  "flaeche_km2": 6.88,
+  "lat": 50.18556,
+  "lon": 7.65,
+  "verwaltungseinheit": [
+   "Verbandsgemeinde Loreley",
+   "Rhein-Lahn-Kreis"
+  ]
+ },
+ {
+  "slug": "27-kamp-bornhofen",
+  "rolle": "ziel",
+  "name": "Kamp-Bornhofen",
+  "einheit": "Gemeinde",
+  "dewiki": "Kamp-Bornhofen",
+  "url": "https://de.wikipedia.org/wiki/Kamp-Bornhofen",
+  "abruf": "2026-10-03",
+  "zeichen": 7676,
+  "woerter": 1017,
+  "woerter_tabellen": 77,
+  "wikidata": "Q567183",
+  "einwohner": 1465,
+  "einwohner_stand": "2025-12-31",
+  "hoehe_m": 69.0,
+  "flaeche_km2": 11.41,
+  "lat": 50.225,
+  "lon": 7.62222,
+  "verwaltungseinheit": [
+   "Verbandsgemeinde Loreley",
+   "Rhein-Lahn-Kreis"
+  ]
+ },
+ {
+  "slug": "28-osterspai",
+  "rolle": "ziel",
+  "name": "Osterspai",
+  "einheit": "Gemeinde",
+  "dewiki": "Osterspai",
+  "url": "https://de.wikipedia.org/wiki/Osterspai",
+  "abruf": "2026-10-03",
+  "zeichen": 14371,
+  "woerter": 1967,
+  "woerter_tabellen": 62,
+  "wikidata": "Q636235",
+  "einwohner": 1243,
+  "einwohner_stand": "2025-12-31",
+  "hoehe_m": 65.0,
+  "flaeche_km2": 13.02,
+  "lat": 50.24556,
+  "lon": 7.61611,
+  "verwaltungseinheit": [
+   "Verbandsgemeinde Loreley",
+   "Rhein-Lahn-Kreis"
+  ]
+ },
+ {
   "slug": "09-braubach",
   "rolle": "ziel",
   "name": "Braubach",
@@ -200,6 +614,28 @@
   "lon": 7.64611,
   "verwaltungseinheit": [
    "Verbandsgemeinde Loreley"
+  ]
+ },
+ {
+  "slug": "29-lahnstein",
+  "rolle": "ziel",
+  "name": "Lahnstein",
+  "einheit": "Stadt",
+  "dewiki": "Lahnstein",
+  "url": "https://de.wikipedia.org/wiki/Lahnstein",
+  "abruf": "2026-10-03",
+  "zeichen": 26367,
+  "woerter": 3325,
+  "woerter_tabellen": 235,
+  "wikidata": "Q569639",
+  "einwohner": 18887,
+  "einwohner_stand": "2025-12-31",
+  "hoehe_m": 74.0,
+  "flaeche_km2": 37.62,
+  "lat": 50.30111,
+  "lon": 7.60556,
+  "verwaltungseinheit": [
+   "Rhein-Lahn-Kreis"
   ]
  },
  {

@@ -1,0 +1,726 @@
+ZIELORT: Geisenheim (Stadt)
+LAGE: 22 km westlich von Mainz (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Geisenheim
+
+GRUNDDATEN:
+  landkreis: Rheingau-Taunus-Kreis  [dewiki Infobox]
+  bundesland: Hessen  [dewiki Infobox]
+  einwohner: 11.184  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 40,34  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 277  [berechnet aus Einwohner und Fläche]
+  hoehe_m: 95 | 197 | 90 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2921707)]
+  naechste_grossstadt: Mainz, 22 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Wiesbaden, 23 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Geisenheim  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 65366  [Wikidata P281]
+  vorwahl: 06722  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 30,5 %, SPD 18,6 %, AfD 16,7 %, GRÜNE 13,9 %, Die Linke 6,7 %, FDP 6,1 %; Wahlbeteiligung 84,3 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Christian Aßmann Wiesbadener Kurier: ''[http://www.wiesbadener-kurier.de/lokales/rheingau/geisenheim/neuer-buergermeister-in-geisenheim-parteiloser-christian-assmann-siegt-bei-stichwahl_18235139.htm Neuer Bürgermeister in Geisenheim – Parteiloser Christian Aßmann siegt bei Stichwahl ]'' vom 8. Oktober 2017, zugegriffen am 16. Oktober 2017 (parteilos) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-03]
+  partnerstaedte: Trino, Chauvigny, Szerencs, Puligny-Montrachet  [Wikidata P190]
+  kfz: RÜD (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand staedte.json]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Fläche der Gemarkung), C, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Oestrich-Winkel (Stadt)
+  landkreis: Rheingau-Taunus-Kreis  [dewiki Infobox]
+  einwohner: 11.386  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 59,51  [Wikidata P2046; Altbestand staedte.json]
+  hoehe_m: 84 | 90 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json]
+  naechste_grossstadt: Wiesbaden, 18 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Oestrich-Winkel  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 35,3 %, SPD 18,8 %, GRÜNE 13,7 %, AfD 13,3 %, Die Linke 6,1 %, FDP 5,8 %; Wahlbeteiligung 85,7 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  kfz: RÜD (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand staedte.json]
+
+FAHRT: Emmendingen, Kenzingen, Herbolzheim, Lahr, Offenburg, Achern, Bühl, Baden-Baden, Rastatt, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Langen, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar
+
+FAKTEN (Zielort Geisenheim):
+ID: 25-geisenheim/001
+ENTITÄT: ort
+BEZEICHNUNG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: um 500
+  gründer: Franken, vermutlich Ritter Giso (Name nicht eindeutig belegt)
+  erstnennung: 772
+  namenssinn: "Heim oder Burg des Ritters Giso"
+  stadtrechte: 1864
+  grund_stadtrechte: bedeutende Industrie
+  einwohnerzahl: 11.869
+  gesamtfläche: 4.033 ha
+  lage: am Rhein, Talstadt, umgeben von Weinbergen
+  ortsteile: Johannisberg, Marienthal, Stephanshausen
+  rang: drittgrößte Kommune im Rheingau
+  besonderheit: "Hochschulstadt" seit 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 25-geisenheim/002
+ENTITÄT: ort
+BEZEICHNUNG: Geisenheim (Talstadt und Marienthal - Flächen)
+QUELLE: https://www.geisenheim.de/wirtschaft-industrie/wirtschaftsstandort/zahlen-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche: 2.870 ha
+  waldfläche: 2.567 ha
+  weinbaufläche: 391 ha
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 25-geisenheim/003
+ENTITÄT: baum
+BEZEICHNUNG: Linde (Sommerlinde)
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: ca. 700 Jahre
+  lage: Lindenplatz
+  status: Wahrzeichen der Stadt
+  mittelalter_nutzung: Versammlungsplatz für Rat, Gericht und Markt
+  schäden: zweite Krone in 70er Jahren entfernt wegen Erkrankung
+  fest: Lindenfest seit 1949 jährlich, eines der größten und ältesten Weinfeste des Rheingaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 25-geisenheim/004
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche Heilig Kreuz
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstnennung: 1146
+  volkstitel: "Rheingauer Dom"
+  bauzeit_chor_langhaus: 1510-1518
+  bauzeit_erweiterung: 1837-1839
+  erweiterung_inhalt: zwei Joche, Orgelempore
+  westtürme_höhe: 46 m
+  westtürme_stil: neugotisch
+  wappen_detail: zwei Türme seit Mittelalter zentral
+GUELTIG_AB: 1146
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 25-geisenheim/005
+ENTITÄT: rathaus
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Lindenplatz
+  vorgänger_baujahr: 1481
+  vorgänger_stil: mittelalterlicher Fachwerkbau
+  neubau: 1855-1857
+  neubau_stil: repräsentativ mit Loggia, Massivbau
+  renovierung: 1985
+GUELTIG_AB: 1481
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 25-geisenheim/006
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Schönborn
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Herren von Stockheim
+  baujahr: um 1550
+  stil: Renaissancebau
+  beschreibung: offenes Herrenhaus mit achteckigem Treppenturm, Erker aus Fachwerk, vier Ecktürmchen
+  lage: am Bahnhofsvorplatz, inmitten eines Weinberges
+  besitzer: Grafen von Schönborn-Wiesentheid
+  nutzung: Betriebs- und Familienfeiern, öffentliche Veranstaltungen
+GUELTIG_AB: 1550
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 25-geisenheim/007
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Kosakenberg
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1681-1683
+  erbauer: Erzbischof Anselm Franz von Ingelheim
+  stil: Spätrenaissancebau, zweiflügelig
+  ursprüngliche_nutzung: Sommerresidenz
+GUELTIG_AB: 1681
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/008
+ENTITÄT: palais
+BEZEICHNUNG: Palais Zwierlein
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 16. Jahrhundert
+  status: sehenswert, noch gut erhalten
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 25-geisenheim/009
+ENTITÄT: palais
+BEZEICHNUNG: Palais Ostein
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Graf Karl Maximilian von Ostein
+  baujahr: 1766-1771
+  stil: Sommerpalast, ursprünglich hufeisenförmig
+  veränderung: Mittelteil 1811 abgerissen
+  nutzung_heute: Teil des Ursulinengymnasiums
+  nebenanlagen: Eberbacher Hof (Wappen 1705), Kronberger Hof (1581)
+GUELTIG_AB: 1766
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/010
+ENTITÄT: villa
+BEZEICHNUNG: Villa Monrepos
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1861
+  bauende: 1873
+  erbauer: Eduard von Lade
+  ursprüngliche_nutzung: Alterssitz
+  park_ursprung: Obst- und Rosenzucht, Gartenbau
+  park_schäden: in Weltkriegen weitestgehend zerstört
+  park_neugestaltung: 1950er Jahre durch Gerd Däumel
+  park_bedeutung: Denkmal der Gartenkunst der 1950er Jahre
+  besitzer_heute: Hochschule Geisenheim University
+GUELTIG_AB: 1861
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 25-geisenheim/011
+ENTITÄT: gebäude
+BEZEICHNUNG: Kulturtreff "Die Scheune"
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Kelterhaus
+  baujahr_ursprung: 16. Jahrhundert
+  nutzung_heute: Stadtbücherei und Kulturtreff
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 25-geisenheim/012
+ENTITÄT: haus
+BEZEICHNUNG: Bachelin-Haus
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: um 1700
+  stil: barockes Bürgerhaus
+  besonderheit: handbemalte Papiertapeten mit Blumenmotiven aus 19. Jahrhundert
+  nutzung_heute: Bürgerbüro
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/013
+ENTITÄT: haus
+BEZEICHNUNG: Erkerhäuschen "Pfefferzoll"
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Zollstraße
+  erkerfenster_inschrift: 1616
+  erinnerung: Pfefferzoll - Abgabe für vorbeifahrende Handelskähne
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/014
+ENTITÄT: pfarrhaus
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1656
+  stil: stattlicher Fachwerkbau
+  lage: neben Rheingauer Dom
+GUELTIG_AB: 1656
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/015
+ENTITÄT: hochschule
+BEZEICHNUNG: Hochschule Geisenheim University
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/leben-bildung/kitas-schulen/hochschule/geschichte-der-hochschule/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_original: Königlich Preußische Lehranstalt für Obst- und Weinbau
+  gründer: Eduard von Lade
+  einweihung: 19. Oktober 1872
+  erste_studenten: sechs "Eleven"
+  director_1879: Rudolf Goethe (24 Jahre)
+  forschungsinstitute_gegründet: Oenochemisches Institut 1881, Wetterstation 1884, Obstverwertungsstation 1885, Rebenveredelungsstation 1890, Hefereinzuchtstation 1894, Pflanzenpathologische Versuchsstation 1900
+  studierendenzahl_ende_19jh: über 50
+  erste_weltkrieg: Lehrbetrieb weitgehend eingestellt
+  wiederaufbau_1946: "Hessische Lehr- und Forschungsanstalt für Wein-, Obst- und Gartenbau"
+  ingenieurschule: 1960 sechssemestriges Studium
+  fachhochschule_gründung: 1. August 1971
+  neue_fachrichtung: 1968 Getränketechnologie
+  neue_institutsgebäude: 1967 mit modernen Laboratorien
+  campusgebäude: 1999 mit Mensa, Bibliothek, Hörsälen
+  zentrales_laborgebäude: 2009
+  hochschule_neugründung: 1. Januar 2013
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 25-geisenheim/016
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Marienthal
+ORTSTEIL_BEZUG: Marienthal
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-marienthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Töpfersiedlung "Düppenhausen"
+  töpferei_nachweis: ab 13. Jahrhundert zweite Hälfte
+  kloster_erstnennung: 1330
+  kapelle_einweihung: 1330 durch Trierer Erzbischof Baldewin
+  ablassbrief: 1361 (päpstlich)
+  kernbau_stil: vierjochig, gotisch, Anfang 15. Jahrhundert
+  mönche: Brüder vom Gemeinsamen Leben (Fraterherren)
+  besonderheit: eine der ersten Druckereien der Welt
+  jesuitenorden_aufhebung: 1773
+  wiederaufbau: 1950er Jahre unter Initiative Peter Joseph Blums
+  baumeister: Philipp Hoffmann (Geisenheimer)
+  franziskaner: seit 1888
+  status_aktuell: bedeutendster Wallfahrtsort im Südteil der Diözese Limburg
+GUELTIG_AB: 1330
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 25-geisenheim/017
+ENTITÄT: ortsteil
+BEZEICHNUNG: Johannisberg
+ORTSTEIL_BEZUG: Johannisberg
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-johannisberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_früher: bis 31.12.1971 selbstständig
+  struktur: dreigeteilt - Grund, Berg, Schlossheide
+  charakteristika: "Dorf der Rosen"
+  fläche: 875 ha
+  besonderheit: erste Rebhang der Welt ausschließlich mit Riesling bestockt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/018
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Johannisberg
+ORTSTEIL_BEZUG: Johannisberg
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-johannisberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: ehemaliger Bischofsberg, weithin sichtbar
+  kloster_gründung: 1106
+  kloster_gründer: Mainzer Erzbischof Ruthardt
+  kloster_weihe: heiliger Nikolaus, später Johannes der Täufer
+  schloss_erbauung: 1716
+  schloss_bauherr: Fürstabt von Fulda
+  säkularisierung: in weltlichen Besitz übergegangen
+  wiener_kongress: 1815 österreichischer Besitz
+  besitz_metternich: Fürst Clemens von Metternich und Nachfahren
+  zehntverpflichtung: Lieferung des Zehnten der Weinernte an Familie Habsburg (bis heute)
+  spätlese_entdeckung: 1775 zufällig durch verspätete Ernte
+  spätlese_grund: Herbstkurier kam zu spät, Trauben waren faul, Edelfäule verbesserte Qualität
+  spätlesereiter_denkmal: im Hof des Schlosses
+  ruf_aktuell: berühmt für Spitzenweine
+  weinbergslagen: 8 (Schloss Johannisberg 37 ha, Goldatzel 21 ha, Hölle 19 ha, Vogelsang 12 ha, Mittelhölle 6,5 ha, Schwarzenstein 5 ha, Hansenberg 4 ha, Klaus 4 ha)
+GUELTIG_AB: 1106
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 25-geisenheim/019
+ENTITÄT: internatsschule
+BEZEICHNUNG: Schloss Hansenberg
+ORTSTEIL_BEZUG: Johannisberg
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-johannisberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_original: 1823
+  ursprüngliche_nutzung: Armen- und Waisenhaus geplant
+  planer: Johannes de Laspee (Pädagoge, Pestalozzi-Schüler)
+  internatsschule_seit: 1993
+GUELTIG_AB: 1823
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/020
+ENTITÄT: ruine
+BEZEICHNUNG: Burg Schwarzenstein / Mumm-Ruine
+ORTSTEIL_BEZUG: Johannisberg
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-johannisberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Familie Mumm
+  grund: gute Geschäfte mit Johannisberger Weinen
+  baujahr: 1873
+  beschreibung: künstliche Ruine mit Park, Rundturm, Salon, Veranda in gotischer Architektur
+  nutzung_aktuell: Hotel und Sterne-Restaurant
+GUELTIG_AB: 1873
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/021
+ENTITÄT: kloster
+BEZEICHNUNG: Immaculatakloster
+ORTSTEIL_BEZUG: Johannisberg
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-johannisberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: um 1850
+  ursprüngliche_nutzung: Sanatorium
+  verkauf: 1920 an Benediktinerinnen der ewigen Anbetung
+  nutzung_später: Altenheim jahrzehntelang
+  nutzung_aktuell: Hotel-Restaurant
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 25-geisenheim/022
+ENTITÄT: ortsteil
+BEZEICHNUNG: Marienthal
+ORTSTEIL_BEZUG: Marienthal
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: 2 km von Talstadt entfernt, Geländeplateau
+  besiedlung_form: Ausbausiedlung
+  besiedlung_zeitraum: nach 1951 (Hessenplan)
+  charakteristika: reine Wohnsiedlung, spärlich Handel und Gewerbe
+  besonderheit: Ziel von Wallfahrten zum Kloster Marienthal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/023
+ENTITÄT: ortsteil
+BEZEICHNUNG: Stephanshausen
+ORTSTEIL_BEZUG: Stephanshausen
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-stephanshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_früher: bis 1.1.1977 selbstständig
+  lage: ca. 5 km nördlich der Talstadt
+  charakteristika: typisches Rheingauer Höhendorf
+  topographie: kleine Geländedelle mit kühlen Winden
+  fläche: 288 ha
+  vegetation: Wiesen und Wälder (keine Weinberge)
+  wanderwegenetz: weit verzweigt
+  rheinsteig_verbindung: kurzer Zuweg vorhanden
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/024
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Michael
+ORTSTEIL_BEZUG: Stephanshausen
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-stephanshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  weihe: heiliger Michael
+  kapelle_erstnennung: 1401
+  kapelle_betreuung: Lorcher Kaplan
+  patronatsrecht: Adlige von Breidbach
+  gemeindesiegel: seit 1743 (mit St. Michael)
+  pfarrei_erhebung: 1755
+  kirche_original: vermutlich gotisch
+  zerstörung: 1635 durch Schweden
+  wiederaufbau: begonnen 1653
+  erweiterung: 1749 (großzügig, gab heutige Gestalt)
+  besonderheit: schlicht außen, kunstvoll ausgestattet innen
+GUELTIG_AB: 1401
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/025
+ENTITÄT: park
+BEZEICHNUNG: Osteinscher Niederwald / Zierwald
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/prospektkatalog/kulturhistorische-sehenswc3bcrdigkeiten-flyer.pdf?cid=crs | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schöpfer: Graf Karl Maximilian von Ostein
+  anlage_zeitraum: vor ca. 250 Jahren
+  stil: Gartendenkmal, Symbiose von Natur, Staffagebauten und Rhein
+  vegetation: dichter Eichenwald
+  ausstattung: künstliche Tempel und Ruinen, 60 m lange Zauberhöhle
+  kulturelle_wirkung: möglicherweise Inspirationsquelle für Clemens Brentanos "Rheinmärchen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/026
+ENTITÄT: zoll
+BEZEICHNUNG: Pfefferzoll Geisenheim
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abgabe: ein Pfund Pfeffer pro Schiff
+  zeitraum_belegt: 1194-1198
+  besonderheit: einzig nachweisbar, nur noch auf Ehrenfels (Rüdesheim-Assmannshausen)
+  schiffe_häufigkeit: täglich mehrmals
+  ertrag_anfangs: blühendes Geschäft
+  verfall_ursache: sinkende Zahlungsmoral, Mainzer Kurfürst feindlich
+  zeichen_heute: Gebäude Zollstraße mit Erkerfenster 1616
+GUELTIG_AB: 1194
+GUELTIG_BIS: 1198
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 25-geisenheim/027
+ENTITÄT: vereinigung
+BEZEICHNUNG: Vereinigung Ehemaliger Geisenheimer (VEG)
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/leben-bildung/kitas-schulen/hochschule/geschichte-der-hochschule/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1894
+  gründer: Absolventen der Lehranstalt auf Anregung Rudolf Goethes
+  status: eine der ältesten Alumnivereinigungen Deutschlands
+  mitgliederzahl: über 2.500 weltweit (119. Jahr)
+  nationalsozialismus: Verbot und Zwangseingliederung in NS-Organisationen
+GUELTIG_AB: 1894
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 25-geisenheim/028
+ENTITÄT: fest
+BEZEICHNUNG: Geisenheimer Lindenfest
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anfang: seit 1949
+  periodizität: jährlich
+  ort: rund um die Linde
+  status: eines der größten und ältesten Weinfeste des Rheingaus
+GUELTIG_AB: 1949
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 25-geisenheim/029
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Geisenheim - Puligny-Montrachet
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  beginn: seit 1966
+  träger: Partnerschafts- und Förderverein
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 25-geisenheim/030
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Geisenheim - Chauvigny
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  beginn: seit 1970
+  träger: Partnerschafts- und Förderverein
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 25-geisenheim/031
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Geisenheim - Trino
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Italien
+  beginn: seit 1974
+  träger: Partnerschafts- und Förderverein
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 25-geisenheim/032
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Geisenheim - Szerencs
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Ungarn
+  beginn: seit 1990
+  träger: Partnerschafts- und Förderverein
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 25-geisenheim/033
+ENTITÄT: person
+BEZEICHNUNG: Eduard von Lade
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Kaufmann, Generalkonsul
+  charakteristika: zu Reichtum gekommen im 19. Jahrhundert
+  gründung_lehranstalt: Königlich Preußische Lehranstalt für Obst- und Weinbau 1872
+  legende: schickte König 11 Kisten mit bestem Obst
+  honor: erster Ehrenbürger Geisenheims
+  villa_monrepos: 1861 erbaut als Ruhesitz
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/034
+ENTITÄT: person
+BEZEICHNUNG: Peter Joseph Blum
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Geisenheim
+  geburtsjahr: 1808
+  todesjahr: 1884
+  amt: Limburger Bischof, dritter Bischof des Bistums Limburg
+  bistum_gründung: 1827
+  amtsantritt: 1842
+  amtszeit_dauer: 42 Jahre
+  rekord: längste Amtszeit eines deutschen Bischofs bis dahin
+  leistung: Förderung Pfarrkirche Heilig Kreuz, Initiative Wiederaufbau Marienthal
+GUELTIG_AB: 1842
+GUELTIG_BIS: 1884
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 25-geisenheim/035
+ENTITÄT: person
+BEZEICHNUNG: Clemens Brentano
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/prospektkatalog/kulturhistorische-sehenswc3bcrdigkeiten-flyer.pdf?cid=crs | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Dichter, Vordenker der literarischen Rheingau-Romantik
+  werke: "Loreley" (populärster Rheinmythos), "Rheinmärchen"
+  verbindung_geisenheim: flanierten im Osteinschen Park, genauigkeit: "vermutlich inspiriert durch Park"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 25-geisenheim/036
+ENTITÄT: person
+BEZEICHNUNG: Rudolf Goethe
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/leben-bildung/kitas-schulen/hochschule/geschichte-der-hochschule/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ruf: renommiertes "Multitalent"
+  bereiche: Garten- und Weinbau, Pflanzenzüchtung, Pflanzenschutz
+  position: Director der Lehranstalt Geisenheim
+  amtsantritt: 1879
+  amtsdauer: 24 Jahre
+  leistung: erste Blütezeit der Lehranstalt, schuf "Forschungscampus"
+  institute_gegründet: Oenochemisches Institut 1881, Wetterstation 1884, Obstverwertungsstation 1885, Rebenveredelungsstation 1890, Hefereinzuchtstation 1894, Pflanzenpathologische Versuchsstation 1900
+GUELTIG_AB: 1879
+GUELTIG_BIS: 1903
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/037
+ENTITÄT: person
+BEZEICHNUNG: Hermann Müller (Müller-Thurgau)
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/leben-bildung/kitas-schulen/hochschule/geschichte-der-hochschule/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  leistung: grundlegende Kreuzungsversuche
+  jahr: 1882
+  ergebnis: Rebsorte Müller-Thurgau (auch "Rivaner"), weltbekannt, bedeutendste Neuzüchtung der Neuzeit
+GUELTIG_AB: 1882
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/038
+ENTITÄT: person
+BEZEICHNUNG: Julius Worthmann
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/leben-bildung/kitas-schulen/hochschule/geschichte-der-hochschule/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Gründer Hefereinzuchtstation
+  relation: Schwiegersohn und Nachfolger Rudolf Goethes
+  leistung: Grundstein für weltweite Geisenheimer Kompetenz bei Hefekulturen in Gärung
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/039
+ENTITÄT: person
+BEZEICHNUNG: Gerhard Troost
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/leben-bildung/kitas-schulen/hochschule/geschichte-der-hochschule/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  studium_beginn: 1929
+  publikation_1: "Technologie des Weines" (1953, später 6. Auflage) - "Bibel des Weinbaus"
+  publikation_2: "Sekt, Schaumwein, Perlwein" (1980)
+  innovation: Initiative zu eigenem Fachgebiet Kellerwirtschaft
+  position: Leiter Fachgebiet, Professor Fachhochschule Wiesbaden
+  amtsdauer: über 42 Jahre
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/040
+ENTITÄT: person
+BEZEICHNUNG: Julius Koch
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/leben-bildung/kitas-schulen/hochschule/geschichte-der-hochschule/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Professor, Leiter Institut für Gemüse- und Früchteverwertung
+  leistung: Aufbau nach Zweitem Weltkrieg, Modernisierung Fruchtsafttechnologie
+  erfindung_1: "Hohes C" (erster konzentrierter, haltbarer Orangensaft in Flaschen)
+  erfindung_2: "Dr. Koch's Trink 10" (erster Multivitaminsaft)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/041
+ENTITÄT: person
+BEZEICHNUNG: Adelheid von Stolterfoth
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Dichterin der ausgehenden Romantik
+  wohnort: Zwierleinshof
+  wohnzeit: 1825-1850
+GUELTIG_AB: 1825
+GUELTIG_BIS: 1850
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/042
+ENTITÄT: rebsorte
+BEZEICHNUNG: Riesling
+ORTSTEIL_BEZUG: Geisenheim / Rheingau
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: wertvollste Weißweinsorte der Welt
+  charakteristika: feine, rassige, elegante Weißweine
+  reifezeit: braucht am längsten zum Reifen
+  frosthärte: robust gegen Frost
+  ertragstreue: zuverlässig
+  säure: fruchtig und erfrischend, anregend wirkend
+  alkoholgehalt: nicht hoher Alkoholgehalt entscheidend
+  lagerung: vorzüglich für lange Lagerung geeignet
+  bedeutung_rheingau: Rheingau besonders durch diese Sorte geprägt
+  johannisberg_besonderheit: erster Rebhang der Welt ausschließlich mit Riesling bestockt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 25-geisenheim/043
+ENTITÄT: rebsorte
+BEZEICHNUNG: Müller-Thurgau (Rivaner)
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/leben-bildung/kitas-schulen/hochschule/geschichte-der-hochschule/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: 1882 Kreuzungsversuche Hermann Müller in Geisenheim
+  bewertung: weltbekannt, bedeutendste Neuzüchtung einer Rebsorte der Neuzeit
+GUELTIG_AB: 1882
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 25-geisenheim/044
+ENTITÄT: industrie
+ORTSTEIL_BEZUG: Geisenheim
+QUELLE: https://www.geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: seit 19. Jahrhundert
+  produkte: Druckmaschinen, Sekt, Kaolinerde
+  auswirkung: Ansiedlung auswärtiger Arbeiter, Neubautätigkeit
+  grund_stadtrechte: wirtschaftliche Bedeutung 1864
+  aktuell: großes Industriegebiet am Rand der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

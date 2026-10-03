@@ -1,0 +1,693 @@
+ID: 17-weinheim/001
+ENTITÄT: ort
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_große_kreisstadt: true
+  lage_bergstraße: nördlichste
+  größte_stadt_kreis: "Rhein-Neckar-Kreis"
+  einwohner: 45640 [Stand 31.12.2025]
+  flächeninhalt: 5811 [ha]
+  koordinaten_länge: 8,5 [Grad östlich]
+  koordinaten_breite: 49,5 [Grad nördlich]
+  höhe_range: "96-525" [m NN]
+  namensherkunft: "geht vermutlich auf den fränkischen Eigennamen Wino zurück"
+  genauigkeit_herkunft: "vermutlich"
+GUELTIG_AB: 755
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/002
+ENTITÄT: fund
+BEZEICHNUNG: Bronzehortfund Nächstenbach
+ORTSTEIL_BEZUG: Nächstenbach
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Bronzehortfund im Weiler Nächstenbach"
+GUELTIG_AB: -800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 17-weinheim/003
+ENTITÄT: siedlung
+BEZEICHNUNG: römische Landgüter
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 5
+  beschreibung: "Fünf römische Landgüter auf der Gemarkung Weinheim"
+GUELTIG_AB: 100
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 17-weinheim/004
+ENTITÄT: herrschaft
+BEZEICHNUNG: Alemannische Herrschaft
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  volk: Alemannen
+GUELTIG_AB: 260
+GUELTIG_BIS: 500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 17-weinheim/005
+ENTITÄT: herrschaft
+BEZEICHNUNG: Fränkische Besiedlung
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  volk: Franken
+  siedlungsname: Winenheim
+  namensetymologie: "Der Name der Siedlung Winenheim geht vermutlich auf den fränkischen Eigennamen Wino zurück"
+GUELTIG_AB: 500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 17-weinheim/006
+ENTITÄT: kloster
+BEZEICHNUNG: Lorsch
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 764
+  besitz_weinheim_ab: 755
+  besitz_titel: "Teilweise durch Schenkungen"
+  großteil_besitz_ab: 790
+  grund_großteil: "Schenkung durch Graf Raffold"
+  marktrecht_erhalten: 1000
+  marktrecht_verliehen_durch: "Kaiser Otto III."
+  münzstättenrecht_erhalten: 1065
+  münzstättenrecht_verliehen_durch: "König Heinrich IV."
+  auflösung: 1232
+  auflösung_durch: "Kaiser Friedrich II. und Papst Gregor IX."
+GUELTIG_AB: 764
+GUELTIG_BIS: 1232
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/007
+ENTITÄT: burg
+BEZEICHNUNG: Windeck
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_von: "Abt von Kloster Lorsch"
+  erbaut_grund: "zum Schutz der Besitzungen des Klosters"
+  zerstört_jahr: 1674
+  zerstört_durch: "Truppen des französischen Königs Ludwig XIV. unter General Turenne"
+  zerstört_beschreibung: "mehrtägige Plünderung"
+  superlativ: "eine der beiden Burgen als Wahrzeichen der Zweiburgenstadt"
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1674
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/008
+ENTITÄT: stadt
+BEZEICHNUNG: Neustadt
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet_von: "Pfalzgraf Ludwig II."
+  gegründet_zeit: "um 1250"
+  lage: "gegenüber des Schlossberges (Windeck-Kegel) rund um den heutigen Marktplatz"
+  erste_nennung_als_stadt: 1264
+  grund_nennung_als_stadt: "Hemsbacher Schiedsspruch: Zuspruch an Pfalzgrafen"
+  zusammenfassung_mit_altstadt: 1454
+GUELTIG_AB: 1250
+GUELTIG_BIS: 1454
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 17-weinheim/009
+ENTITÄT: stadt
+BEZEICHNUNG: Altstadt
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft: "Erzbischofs von Mainz"
+  herrschaftswechsel_zu: "Pfalzgraf (1308)"
+  grund_herrschaftswechsel: "Vergleich zwischen Mainz und Pfalz"
+  zusammenfassung_mit_neustadt: 1454
+GUELTIG_AB: 1264
+GUELTIG_BIS: 1454
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 17-weinheim/010
+ENTITÄT: stadtteil
+BEZEICHNUNG: Gerberbachviertel
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gerberhandwerk_seit: 13
+  beschreibung: "historisches Stadtviertel mit kleinen Fachwerkhäusern und schmucken Zunfthäusern"
+  lage: "unterhalb des Marktplatzes an der Weschnitz"
+  besonderheit: "Altstadt-Kerwe im August"
+  grundelbach: "weiches Wasser im Grundelbach, Eichenrinde aus Odenwald und Bergstraße zur Gewinnung der Lohe"
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 17-weinheim/011
+ENTITÄT: schloss
+BEZEICHNUNG: Kurpfälzisches Schloss
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: 1537
+  südflügel_erbaut: 1725
+  südflügel_erbaut_durch: "Adelsfamilie Ulner von Dieburg"
+  nordflügel_erbaut: 1868
+  nordflügel_erbaut_durch: "Freiherr Christian von Berckheim"
+  schlossturm_erbaut: 1868
+  stadt_kauf: 1938
+  heutige_funktion: "Sitz der Stadtverwaltung"
+GUELTIG_AB: 1537
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/012
+ENTITÄT: gebäude
+BEZEICHNUNG: Kaufhaus
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbau: 1557
+  lage: "unten am Marktplatz"
+  spätere_nutzung: "Rathaus"
+GUELTIG_AB: 1557
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 17-weinheim/013
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Stadtkirche
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbau: 1731
+GUELTIG_AB: 1731
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 17-weinheim/014
+ENTITÄT: kirche
+BEZEICHNUNG: Peterskirche
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau: 1911
+  lage: "an der Weschnitz"
+  vorgängerbau: true
+  fresken: "Fresken aus dem 13. und 14. Jahrhundert (entstanden 1250-1350, freigelegt 1910)"
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 17-weinheim/015
+ENTITÄT: kirche
+BEZEICHNUNG: St. Laurentius-Kirche
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau: 1911
+  lage: "am Marktplatz"
+  vorgängerbau: true
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 17-weinheim/016
+ENTITÄT: synagoge
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1906
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 17-weinheim/017
+ENTITÄT: gebäude
+BEZEICHNUNG: Deutschordenshaus
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erster_sitz: "Kapellenäcker (ab 1273)"
+  verlagerung: 1308
+  verlagerung_zu: "Neustadt (Stelle des Deutschordenshauses)"
+  neubau_standort: "Amtsgasse"
+  neubau_jahr: 1710
+  neubau_durch: "Hochmeister Pfalzgraf Franz Ludwig"
+  später_museum: "Museum der Stadt Weinheim (ab 1939)"
+GUELTIG_AB: 1273
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/018
+ENTITÄT: museum
+BEZEICHNUNG: Museum der Stadt Weinheim
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/museum.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sammlung_gegründet: 1906
+  gegründet_durch: "Weinheimer Altertumsverein"
+  untergebracht_1911: "Gewerbeschule"
+  untergebracht_1938: "Villa Dessauer"
+  stadt_übernahme: 1938
+  verein_auflösung: 1938
+  untergebracht_seit_1939: "Deutschordenshaus (ehemaliges Deutschordenshaus, erbaut 1710)"
+  eröffnung_heimatmuseum: 1948
+  sanierung: "1996-1998"
+  umbenennung: 1986
+  ausstellungsfläche: 1000 [qm]
+  ausstellungsetagen: 4
+  eintritt_erwachsene: 2 [Euro]
+  eintritt_kinder_jugendliche: "kostenlos"
+  sammlung_schwerpunkte: "Archäologie (Bronzezeit, Merowingerzeit), Fresken, Architekturfragmente, Gemälde und Grafik 18.-20. Jahrhundert, Möbel, Stadtansichten"
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/019
+ENTITÄT: garten
+BEZEICHNUNG: Hermannshof
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: "Schau- und Sichtungsgarten"
+  eröffnung: 1983
+  besucher_pro_jahr: 100000
+  superlativ: "weltweit anerkannter Schau- und Sichtungsgarten"
+GUELTIG_AB: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/020
+ENTITÄT: garten
+BEZEICHNUNG: Exotenwald
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angelegt_durch: "Freiherr Christian von Berckheim"
+  angelegt_jahr: 1849
+  flächeninhalt: 60 [ha]
+  superlativ: "größten zusammenhängenden Exotenwald Deutschlands"
+  baumarten: 140
+  besonderheit: "kanadische Mammutbäume, fast 130 Jahre alt"
+GUELTIG_AB: 1849
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/021
+ENTITÄT: garten
+BEZEICHNUNG: Schlosspark
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Schlosspark mit uralten Bäumen"
+  besonderheit_kleiner_schlosspark: "größte und vermutlich älteste Libanonzeder auf deutschem Boden"
+  genauigkeit_libanonzeder: "vermutlich"
+  sommerveranstaltung: "Juli: Theaterbühne für Kleinkunst unter freiem Himmel"
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 17-weinheim/022
+ENTITÄT: platz
+BEZEICHNUNG: Marktplatz
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet_zeit: "um 1250 als Zentrum der Neustadt"
+  beschreibung: "einer der schönsten Plätze entlang der Bergstraße"
+  charakterisierung_sommer: "einer italienischen Piazza gleich"
+  vegetation: "japanische Schnurbäume"
+GUELTIG_AB: 1250
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 17-weinheim/023
+ENTITÄT: stadtteil
+BEZEICHNUNG: Weststadt
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung_ab: 1950
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 17-weinheim/024
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hohensachsen
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_zeitraum: "1971-1973"
+  spezialisierung: "Wein- und Obstbau"
+  einwohner_2025: 2712
+  partnerschaft_seit: 1974
+  partnerstadt: "Anet (Frankreich)"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/025
+ENTITÄT: ortsteil
+BEZEICHNUNG: Lützelsachsen
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_zeitraum: "1971-1973"
+  spezialisierung: "Wein- und Obstbau"
+  einwohner_2025: 5696
+  partnerschaft_seit: 1974
+  partnerstadt: "Varces Allières et Risset (Frankreich)"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/026
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberflockenbach
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_zeitraum: "1971-1973"
+  einwohner_2025: 2194
+  wanderweg: "Sagen, Steine, Schluchten (Odenwald)"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/027
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ofling
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_zeitraum: "1971-1973"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 17-weinheim/028
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rippenweier
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_zeitraum: "1971-1973"
+  einwohner_2025: 1140
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/029
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ritschweier
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_zeitraum: "1971-1973"
+  einwohner_2025: 275
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/030
+ENTITÄT: ortsteil
+BEZEICHNUNG: Sulzbach
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_zeitraum: "1971-1973"
+  spezialisierung: "Wein- und Obstbau"
+  einwohner_2025: 2752
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/031
+ENTITÄT: ortsteil
+BEZEICHNUNG: Waid
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_zeitraum: "1971-1973"
+  erholungsgebiet: "Südliche Bergstraße und Miramar"
+  erholungsgebiet_lage: "Waidsee"
+  erholungsgebiet_entstehung: "1971-1973"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 17-weinheim/032
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Cavaillon
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: "Frankreich"
+  partnerschaft_seit: 1958
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/033
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Anet
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: "Frankreich"
+  partnerschaft_seit: 1974
+  ortsteil_bezug: "Hohensachsen"
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/034
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Varces Allières et Risset
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: "Frankreich"
+  partnerschaft_seit: 1974
+  ortsteil_bezug: "Lützelsachsen"
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/035
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Lutherstadt Eisleben
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: "Deutschland"
+  partnerschaft_seit: 1990
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/036
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Imola
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: "Italien"
+  partnerschaft_seit: 1991
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/037
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Ramat Gan
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: "Israel"
+  partnerschaft_seit: 1999
+GUELTIG_AB: 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 17-weinheim/038
+ENTITÄT: quelle
+BEZEICHNUNG: Stahlbad
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: "eisenhaltige Quelle"
+  erschlossene_zeit: "1827/29"
+GUELTIG_AB: 1827
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 17-weinheim/039
+ENTITÄT: einrichtung
+BEZEICHNUNG: Bender'sches Erziehungsinstitut
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1829
+GUELTIG_AB: 1829
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 17-weinheim/040
+ENTITÄT: handwerk
+BEZEICHNUNG: Gerberei
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handwerk_seit: 13
+  grundlagen: "weiches Wasser (Grundelbach), Eichenrinde (Odenwald, Bergstraße), Lohe, Rind- und Kalbfelle"
+  besonderheit: "Keimzelle des heutigen Freudenberg-Konzerns"
+  spezialgruppen: "Rotgerber (Rinder-, Pferdehäute), Weißgerber (Ziegen-, Schafhäute)"
+  zunfthaus: "Büdinger Hof in der Judengasse (Thomas Büdinger)"
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 17-weinheim/041
+ENTITÄT: unternehmen
+BEZEICHNUNG: Heintze und Sammet
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: "Lederfirma"
+  gegründet: 1829
+  gegründet_durch: "Mannheimer Lederfirma"
+  übernahme: 1849
+  übernommen_durch: "Carl Johann Freudenberg und Heinrich Heintze"
+  entwicklung: "Ledermanufaktur, später Fabrik der Familie Hirsch"
+  nachfolger: "Freudenberg-Konzern"
+GUELTIG_AB: 1829
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 17-weinheim/042
+ENTITÄT: ereignis
+BEZEICHNUNG: Fest der freien Presse
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1832
+  teilnehmer: 200
+  beschreibung: "Fest der freien Presse mit 200 Teilnehmern"
+GUELTIG_AB: 1832
+GUELTIG_BIS: 1832
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 17-weinheim/043
+ENTITÄT: fest
+BEZEICHNUNG: Sommertagszug
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wann: "März, immer am Sonntag Laetare"
+  teilnehmer: 3000
+  superlativ: "größter Sommertagszug der Bergstraße"
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 17-weinheim/044
+ENTITÄT: fest
+BEZEICHNUNG: Altstadt-Kerwe
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wann: "zweites Wochenende im August"
+  ort: "Gerberbachviertel"
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 17-weinheim/045
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Saukopftunnel
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1999
+GUELTIG_AB: 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 17-weinheim/046
+ENTITÄT: erholungsgebiet
+BEZEICHNUNG: Südliche Bergstraße
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung_zeitraum: "1971-1973"
+  lage: "Waidsee"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 17-weinheim/047
+ENTITÄT: anlage
+BEZEICHNUNG: Miramar
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung_zeitraum: "1971-1973"
+  lage: "Waidsee"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 17-weinheim/048
+ENTITÄT: tal
+BEZEICHNUNG: Sechs-Mühlen-Tal
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "zwischen Weinheim und Birkenau"
+  fluss: "Weschnitz"
+  beschreibung: "wildromantisches Mühlental mit seinen sechs Mühlen"
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 17-weinheim/049
+ENTITÄT: weg
+BEZEICHNUNG: Ingrid-Noll-Weg
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/673701.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: "Audio-Guide"
+  stationen: 13
+  beschreibung: "Weinheim aus Sicht der bekanntesten Krimibuchautorin Deutschlands"
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 17-weinheim/050
+ENTITÄT: fund
+BEZEICHNUNG: Mammutschädel Waidsee
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/museum.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fundort: "Waidsee"
+  alter: 40000 [Jahre vor heute]
+  genauigkeit: "über"
+  beschreibung: "Im Waidsee entdeckter Schädel erweist sich mit über 40.000 Jahren als viel älter als bisher angenommen"
+GUELTIG_AB: -40000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 17-weinheim/051
+ENTITÄT: person
+BEZEICHNUNG: Wino
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Unsere+Stadt.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: "Fränkischer Stammesfürst"
+  aktion: "Gründung des Dorfes Winnenheim"
+  aktion_zeitraum: "7. Jahrhundert"
+  benannt_nach: "Namensgebung Weinheim"
+  namensetymologie: "Name Weinheim stammt von Wino"
+GUELTIG_AB: 700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 17-weinheim/052
+ENTITÄT: person
+BEZEICHNUNG: Kaiser Joseph II.
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zitat: "Hier fängt Deutschland an, Italien zu werden"
+  zitat_anlass: "Rückfahrt nach Wien nach Krönung in Frankfurt"
+  zitat_jahr: 1764
+GUELTIG_AB: 1764
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 17-weinheim/053
+ENTITÄT: person
+BEZEICHNUNG: Carl Johann Freudenberg
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: "Übernahme Gerberei Heintze und Sammet"
+  aktion_partner: "Heinrich Heintze"
+  aktion_jahr: 1849
+GUELTIG_AB: 1849
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 17-weinheim/054
+ENTITÄT: person
+BEZEICHNUNG: Freiherr Christian von Berckheim
+QUELLE: https://www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: "Anlage Exotenwald"
+  aktion_jahr: 1849
+  aktion: "Bau Nordflügel Schloss und Schlossturm"
+  aktion_jahr_2: 1868
+GUELTIG_AB: 1849
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9

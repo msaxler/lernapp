@@ -1,0 +1,1051 @@
+ID: 16-baden-baden/001
+ENTITÄT: ort
+BEZEICHNUNG: Baden-Baden
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  land: Baden-Württemberg
+  lage: Westen des Landes, Schwarzwald, Tal der Oos
+  fluss: Oos (mündet in Murg)
+  einwohner: 56952
+  einwohnerzahl_stand: 31. Dezember 2025
+  bevölkerungsstatistik: bevölkerungsärmste Stadtkreis Baden-Württembergs
+  charakterisierung: Kur- und Bäderstadt
+  charakterisierung: Medien-, Kunst- und Festspielstadt
+  höchster_berg: Badener Höhe
+  höchster_berg_höhe: 1002 [m]
+  waldanteil_prozent: 60,8
+  waldanteil_fläche: 85,26 [km²]
+  kulturelles_erbe: reich erhaltenes materielles und immaterielles Erbe aus Blütezeit 19. Jahrhundert
+  welterbe_status: UNESCO Weltkulturerbe
+  welterbe_datum: 24. Juli 2021
+  welterbe_kategorie: eine von elf europäischen Kurstädten
+  schaden_weltkrieg_prozent: 3,1
+  kriegstote: 125
+GUELTIG_AB: Antike (als Aquae)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 16-baden-baden/002
+ENTITÄT: ort_historisch
+DESIGNATION: Aquae
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  antiker_name: Aquae
+  bedeutung_antiker_name: lateinisch für Wasser/Bad
+  civitas: Civitas Aurelia Aquensis
+  civitas_periode: 3. Jahrhundert
+  gründung_zeitpunkt: ca. 75 n.Chr.
+  gründer: Römer unter Kaiser Vespasian
+  charakterisierung: Militärlager und Militärkurbad
+  thermalquellen_temperatur_max: 68 [Grad Celsius]
+  eroberung: ca. 260 n.Chr. durch Alamannen
+GUELTIG_AB: 75
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/003
+ENTITÄT: namensherkunft
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Der Ortsname ging vom Zähringer Markgrafen Hermann II. im 12. Jahrhundert aus, der sich zunächst Markgraf von Baden nannte. Im Mittelalter hieß die Stadt schlicht Baden. Zur Unterscheidung von anderen Baden-Städten wurde der Doppelname used. Der Name gab später dem Land Baden seinen Namen, das Teil von Baden-Württemberg ist.
+  benannt_nach: wahrscheinlich nach den Bädern
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 16-baden-baden/004
+ENTITÄT: stadteil
+BEZEICHNUNG: Balg
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1. April 1939
+  status_vorher: Landkreis Rastatt
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/005
+ENTITÄT: stadtteil
+BEZEICHNUNG: Ebersteinburg
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1. Januar 1972
+  status_vorher: Landkreis Rastatt
+  ortsverwaltung: eigene Ortsverwaltung mit Ortsvorsteher
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/006
+ENTITÄT: stadtteil
+BEZEICHNUNG: Haueneberstein
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1. Januar 1974
+  status_vorher: Landkreis Rastatt
+  ortsverwaltung: eigene Ortsverwaltung mit Ortsvorsteher
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/007
+ENTITÄT: stadtteil
+BEZEICHNUNG: Lichtental
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1. Januar 1909
+  status_vorher: Bezirksamt Baden
+  teile: mit Oberbeuern und Geroldsau
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/008
+ENTITÄT: stadtteil
+BEZEICHNUNG: Neuweier
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1. Juli 1972
+  status_vorher: Landkreis Bühl
+  gemeinsame_ortsverwaltung: Rebland (mit Steinbach und Varnhalt)
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/009
+ENTITÄT: stadtteil
+BEZEICHNUNG: Oos
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1. April 1928
+  status_vorher: Bezirksamt Rastatt
+  bahnhof: Bahnhof Baden-Baden (ehemals Baden-Oos)
+GUELTIG_AB: 1928
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/010
+ENTITÄT: stadtteil
+BEZEICHNUNG: Sandweier
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1. Januar 1975
+  status_vorher: Landkreis Rastatt
+  autobahnkirche: St. Christophorus an der Raststätte Baden-Baden
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/011
+ENTITÄT: stadtteil
+BEZEICHNUNG: Steinbach
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1. Juli 1972
+  status_vorher: Landkreis Bühl
+  gemeinsame_ortsverwaltung: Rebland (mit Neuweier und Varnhalt)
+  moschee: DİTİB-Moschee
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/012
+ENTITÄT: stadtteil
+BEZEICHNUNG: Varnhalt
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1. Juli 1972
+  status_vorher: Landkreis Bühl
+  gemeinsame_ortsverwaltung: Rebland (mit Neuweier und Steinbach)
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/013
+ENTITÄT: burg
+BEZEICHNUNG: Hohenbaden
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: um 1100
+  gründer: Graf Hermann II. (Zähringer)
+  bedeutung: Herrschaftssitz und Residenzstadt Markgrafschaft Baden
+  residenzfunktion_bis: 1479
+  nachfolger: Neues Schloss
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/014
+ENTITÄT: schloss
+BEZEICHNUNG: Neues Schloss
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: Ende 14. Jahrhundert
+  kern: Burg auf dem Schlossberg
+  residenzverlegung_von: Burg Hohenbaden
+  residenzverlegung_datum: 1479
+  residenzfunktion_bis: 1705
+GUELTIG_AB: 1479
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/015
+ENTITÄT: bauwerk
+BEZEICHNUNG: Kaisertherme
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  epoche: römisch
+  ausbauerische: Kaiser Marcus Aurelius Antoninus (Caracalla)
+  ausbaujahr: 213
+  charakterisierung: luxuriöse Ausstattung
+GUELTIG_AB: 213
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/016
+ENTITÄT: spielbank
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: 1810-1811
+  betriebzeiträume: 1810-1811; 1933-1943; ab 1950
+  pächter: Edouard Bénazet
+  finanzierungszweck: Pferderennen
+  stilllegung_1872_grund: Aus Einnahmen nicht mehr nötig
+GUELTIG_AB: 1810
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/017
+ENTITÄT: gebäude
+BEZEICHNUNG: Kurhaus Baden-Baden
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: 1821-1824
+  architekt: Friedrich Weinbrenner
+  bedeutung: architektonischer und gesellschaftlicher Mittelpunkt
+  bedeutung: Wahrzeichen der Stadt
+  casino: berühmtes Casino im Kurhaus
+  veranstaltungen: Konzerte, Bälle, Tanz-, Kinder-, Comedy-Veranstaltungen
+GUELTIG_AB: 1824
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/018
+ENTITÄT: kirche
+BEZEICHNUNG: Stiftskirche
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  umwandlung_jahr: 1453
+  umwandlung_von: Pfarrkirche
+  umwandlung_zu: Stiftskirche
+  funktion: Grablege der Markgrafen
+GUELTIG_AB: 1453
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/019
+ENTITÄT: kirche
+BEZEICHNUNG: St. Bonifatius
+ORTSTEIL_BEZUG: Lichtental
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  kriegsschaden: 11. März 1943 durch Luftangriff
+  schaden_art: schwer beschädigt und vollständig ausgebrannt
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 16-baden-baden/020
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Stadtkirche
+ORTSTEIL_BEZUG: Augustaplatz
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: 1855
+  konfession: evangelisch
+  gemeindegründung_evangelisch: 1832
+GUELTIG_AB: 1855
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/021
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Lichtenthal
+ORTSTEIL_BEZUG: Lichtental
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1245
+  orden: Zisterzienserinnen
+  funktion_grablege_bis: 1372
+  funktion_grablege_für: Markgrafen von Baden
+GUELTIG_AB: 1245
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/022
+ENTITÄT: stadtbrand
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  datum: 24. August 1689
+  verursacher: französische Truppen
+  krieg: Pfälzischer Erbfolgekrieg
+  folge_residenz: Residenz nach Rastatt verlegt 1705
+  folge_kurbetrieb: Kurbetrieb kam zum Erliegen
+GUELTIG_AB: 1689
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 16-baden-baden/023
+ENTITÄT: kurtaxe
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  erstes_Jahr: 1507
+  grund: Aufstrebender Kurbetrieb
+GUELTIG_AB: 1507
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/024
+ENTITÄT: event
+BEZEICHNUNG: Pferderennen Iffezheim
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  beginn: 1858
+  ort: Rennplatz Iffezheim
+  veranstalter_früher: Edouard Bénazet
+  veranstalter_ab_1872: Internationaler Club Baden-Baden
+  finanzierung_früher: Einnahmen aus Baden-Badener Spielbank
+GUELTIG_AB: 1858
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/025
+ENTITÄT: eisenbahn
+BEZEICHNUNG: Badische Hauptbahn
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  anbindung_oos: 1844
+  anbindung_kurort: 1845
+  streckenart: Stichbahn zum Stadtbahnhof
+GUELTIG_AB: 1844
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/026
+ENTITÄT: eisenbahn
+BEZEICHNUNG: Schwarzwaldbahn
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  strecke: Karlsruhe – Konstanz
+  haltefrequenz: stündlich am Bahnhof Baden-Baden
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 16-baden-baden/027
+ENTITÄT: eisenbahn
+BEZEICHNUNG: Rheintalbahn
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  strecke: Mannheim – Basel
+  haltefrequenz_ice: Intercity-Express-Haltepunkt
+  regionalexpress: Karlsruhe – Basel
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 16-baden-baden/028
+ENTITÄT: schienenverkehr
+BEZEICHNUNG: Bahnhof Baden-Baden
+ORTSTEIL_BEZUG: Oos
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  ehemaliger_name: Baden-Oos
+  namenswechsel_jahr: 1977
+  auszeichnung: Bahnhof des Jahres 2010 (Kategorie Kleinstadtbahnhof)
+  bahnhofstyp: Intercity-Express-Haltepunkt
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/029
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Straßenbahn Baden-Baden
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  eröffnung: 24. Januar 1910
+  stilllegung: 28. Februar 1951
+  spurweite: metrisch
+  streckenlänge: ca. 15 [km]
+  nachfolger: Oberleitungsbus Baden-Baden
+GUELTIG_AB: 1910
+GUELTIG_BIS: 1951
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 16-baden-baden/030
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Oberleitungsbus Baden-Baden
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  betrieb_beginn: 26. Juni 1949
+  betrieb_ende: 31. Juli 1971
+  vorgänger: Straßenbahn Baden-Baden
+GUELTIG_AB: 1949
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 16-baden-baden/031
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Merkurbergbahn
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  betrieb_beginn: 1913
+  fahrstrecke: 1192 [m]
+  höhenmeter: 370 [m]
+  ziel: Merkur (669 m)
+  infrastruktur: Aussichts- und Sendeturm
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/032
+ENTITÄT: musikveranstaltung
+BEZEICHNUNG: Musikpavillon Baden-Baden
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: 1858
+  funktion: Kurkonzerte
+  betrieb_bis: 1912
+  nachfolger: Kurmuschel
+GUELTIG_AB: 1858
+GUELTIG_BIS: 1912
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/033
+ENTITÄT: administrative_einheit
+BEZEICHNUNG: Kreis Baden
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: 1863
+  bezirksämter: Achern, Baden, Bühl, Rastatt, Gernsbach
+  auflösung_bezirksamt_baden: 1924
+GUELTIG_AB: 1863
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/034
+ENTITÄT: stadtstatus
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  stadtstatus_erklärung: 1939 zum Stadtkreis erklärt
+  früherer_status_1924: Bezirksamt Baden aufgelöst
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/035
+ENTITÄT: hexenverfolgung
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: 1570-1631
+  personen_prozesse: 134
+  personen_todesfälle: mindestens 102
+  letzte_hinrichtung_jahr: 1631
+  letzte_hinrichtung_person: Margaretha, Frau des Schlossers Jakob Dioniß
+GUELTIG_AB: 1570
+GUELTIG_BIS: 1631
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/036
+ENTITÄT: luftangriff
+BEZEICHNUNG: Bombenabwurf auf Lichtental
+ORTSTEIL_BEZUG: Lichtental
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  datum: 11. März 1943
+  zerstörtes_objekt: St. Bonifatiuskirche
+  schadensart: schwer beschädigt, vollständig ausgebrannt
+GUELTIG_AB: 1943
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 16-baden-baden/037
+ENTITÄT: luftangriff
+BEZEICHNUNG: Bombenabwurf auf Balg
+ORTSTEIL_BEZUG: Balg
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  datum: 17. Dezember 1944
+GUELTIG_AB: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/038
+ENTITÄT: luftangriff
+BEZEICHNUNG: Bombenabwurf auf Oos
+ORTSTEIL_BEZUG: Oos
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  datum: 30. Dezember 1944
+  zerstörte_häuser: ca. 300 (ca. ein Drittel von Oos)
+  beschädigtes_objekt: Ooser Kirche
+GUELTIG_AB: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 16-baden-baden/039
+ENTITÄT: luftangriff
+BEZEICHNUNG: Luftangriff auf Bahnhof Oos und Kasernen
+ORTSTEIL_BEZUG: Oos
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  datum: 2. Januar 1945
+  ziele: Bahnhof Oos, Kasernen an der Schwarzwaldstraße
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/040
+ENTITÄT: novemberpogrome
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  datum: 10. November 1938
+  objektzerstörung: Synagoge
+  synagoge_errichtung: 1899
+  synagoge_lage: Stephanienstraße 5
+  taten: Zerstörung, Brandstiftung, Plünderung
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 16-baden-baden/041
+ENTITÄT: deportation
+BEZEICHNUNG: Wagner-Bürckel-Aktion
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  datum: 22. Oktober 1940
+  ausgangsort: Baden-Baden
+  deportierte: 106 Juden
+  ziel: Camp de Gurs
+  todesfälle_auschwitz: mindestens 14
+  todesfälle_lublin_majdanek: 1
+  todesfälle_andere_lager: 22
+GUELTIG_AB: 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 16-baden-baden/042
+ENTITÄT: zwangsarbeit
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: Zweiter Weltkrieg
+  internierte_personen: 4365 NS-Zwangsarbeiter
+  lagerstätten: Baden-Baden, Steinbach, Malschbach, Sandweier
+  sowjetische_tote_malschbach: 235
+  gedenkstätte: Friedhof Lichtental
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/043
+ENTITÄT: stadt_status_nachkrieg
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  sitz_französische_zonen_regierung: nach 1945
+  hauptquartier_französische_streitkräfte: Deutschland nach 1945
+  spielbank_wiedereröffnung: 1950
+  abzug_französische_streitkräfte: bis 1999
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/044
+ENTITÄT: rundfunkanstalt
+BEZEICHNUNG: Südwestfunk
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  existenzperiode: 1946-1998
+  bezirk: ehemalige französische Besatzungszone
+  nachfolger: Südwestrundfunk (Zusammenschluss mit SDR)
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1998
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/045
+ENTITÄT: rundfunkanstalt
+BEZEICHNUNG: Südwestrundfunk
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  sitz_teil: Baden-Baden (neben Stuttgart und Mainz)
+  standort: Funkhauskomplex am Fremersberg
+  programmrichtung: SWR2, SWR3, Dasding, SWR Aktuell
+  fernsehproduktionen: ARD-Buffet, Die Fallers, Tatort
+  talkshows_studio_alt: Nachtcafé (2015-2024), Menschen der Woche (2000-2014)
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/046
+ENTITÄT: kunstmuseum
+BEZEICHNUNG: Museum Frieder Burda
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  architekt: Richard Meier
+  veranstaltungen: Kammermusikreihe des Orchesters (seit 2006)
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 16-baden-baden/047
+ENTITÄT: kunstmuseum
+BEZEICHNUNG: Staatliche Kunsthalle Baden-Baden
+ORTSTEIL_BEZUG: Lichtentaler Allee
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  lage: Lichtentaler Allee
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 16-baden-baden/048
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum Baden-Baden
+QUELLE: https://www.baden-baden.de/kultur-und-engagement/stadtmuseum--stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Bewahrung des kulturellen Erbes
+  angebote: Ausstellungen, Sammlungen, Digitales Stadtarchiv
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 16-baden-baden/049
+ENTITÄT: bibliothek
+BEZEICHNUNG: Stadtbibliothek Baden-Baden
+QUELLE: https://www.baden-baden.de/stadtbibliothek/startseite | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: ca. 1901
+  jubiläum: 125 Jahre 2026
+  online_katalog: vorhanden
+  abteilungen: Erwachsenenmedien, Jugendmedien, Kindermedien, Digitale Medien
+  besondere_einrichtungen: Muße-Literaturmuseum, Bücherbus, Lesecafé mit Kaffeeautomat, Leseterrasse
+  veranstaltung_2026: Familientag zum Jubiläum 24. Oktober
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/050
+ENTITÄT: museum
+BEZEICHNUNG: Muße-Literaturmuseum
+QUELLE: https://www.baden-baden.de/stadtbibliothek/startseite | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Gebäude der Stadtbibliothek Baden-Baden
+  ausstellung_aktuelle: "Das besondere Objekt – Ingeborg Bachmann"
+  ausstellungsdauer: Juli 2026 – 7. Januar 2027
+GUELTIG_AB: Juli 2026
+GUELTIG_BIS: 7. Januar 2027
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/051
+ENTITÄT: theater
+BEZEICHNUNG: Theater Baden-Baden
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: Sprechbühne mit festem Ensemble
+  zusatzräume: Spiegelfoyer (kleinere Produktionen)
+  nebengebäude: TIK (Theater im Kulissenhaus) für Kinder- und Jugendtheaterstücke
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 16-baden-baden/052
+ENTITÄT: konzerthaus
+BEZEICHNUNG: Festspielhaus Baden-Baden
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  entstehung: Umbau des ehemaligen Stadtbahnhofs
+  charakterisierung: zweitleimstes Konzerthaus Europas
+  veranstaltungstypen: Opern, Musicals, Konzerte
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/053
+ENTITÄT: musikorchester
+BEZEICHNUNG: Philharmonie Baden-Baden
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1460 (als Hofkapelle)
+  charakterisierung: eines der traditionsreichsten Klangkörper Deutschlands
+  orchestermusiker_1582_dirigent: Francesco Guami
+  berühmte_dirigenten: Hector Berlioz
+  konzerte_seit_19_jahrhundert: ca. 60.000
+  berühmte_gastsolisten: Johann Strauss, Johannes Brahms, Richard Strauss, Pietro Mascagni, Arthur Nikisch, Wilhelm Furtwängler, Bruno Walter, George Szell, Otto Klemperer, Franz Liszt, Pablo Casals, Plácido Domingo
+  meisterkurs: Carl Flesch Akademie (jährlich Sommer)
+GUELTIG_AB: 1460
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/054
+ENTITÄT: sportverein
+BEZEICHNUNG: OSG Baden-Baden
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Schach
+  liga: 1. Schachbundesliga
+  erfolge: mehrfacher deutscher Meister
+  schachzentrum: Träger des Bundesstützpunktes
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/055
+ENTITÄT: sportverein
+BEZEICHNUNG: SC Baden-Baden
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Fußball
+  charakterisierung: erfolgreichster Fußballverein Baden-Badens
+  spielort: Aumattstadion (Weststadt)
+  stadionkapazität: ca. 6000 Zuschauer
+  liga_zeit: 1970er-Jahre
+  liga_höhe: höchste deutsche Amateurligen
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/056
+ENTITÄT: sportverein
+BEZEICHNUNG: Tennisclub "Rot-Weiss" Baden-Baden
+ORTSTEIL_BEZUG: Lichtentaler Allee
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1881
+  gründung_grund: ursprünglich für englische Kurgäste
+  superlativ: ältester Tennisclub Deutschlands
+  besonderheit: führten Golfsport ein
+GUELTIG_AB: 1881
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/057
+ENTITÄT: sportverein
+BEZEICHNUNG: Golf Club Baden-Baden
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 1901
+  lage: südlich des Fremersbergs, oberes Ende des Michelbachtals
+  golfplatz: 18 Löcher
+  superlativ: einer der ältesten Golfclubs in Deutschland
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/058
+ENTITÄT: klettergebiet
+BEZEICHNUNG: Battertfelsen
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  höhe: bis zu 60 [m]
+  schutzgebiet: Naturschutzgebiet am Battert
+  charakterisierung: bedeutendstes Klettergebiet im Nordschwarzwald
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/059
+ENTITÄT: berg
+BEZEICHNUNG: Merkur
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  höhe: 669 [m]
+  charakterisierung: Baden-Badener Hausberg
+  infrastruktur: Aussichts- und Sendeturm
+  standseilbahn: seit 1913
+  standseilbahn_fahrstrecke: 1192 [m]
+  standseilbahn_höhenmeter: 370 [m]
+  gleitschirmfluggebiete: 2 (westlich und nordöstlich)
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/060
+ENTITÄT: berg
+BEZEICHNUNG: Badener Höhe
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  höhe: 1002 [m]
+  höhe_präzise: 1002,2 [m ü.NHN]
+  charakterisierung: höchster Berg des Stadtgebietes Baden-Baden
+  infrastruktur: 30 Meter hoher Aussichtsturm (Friedrichsturm)
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/061
+ENTITÄT: turm
+BEZEICHNUNG: Friedrichsturm
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  höhe: 30 [m]
+  lage: Badener Höhe (höchster Punkt Baden-Badens)
+  funktion: Aussichtsturm
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/062
+ENTITÄT: parkanlage
+BEZEICHNUNG: Lichtentaler Allee
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: bekannteste Parkanlage Baden-Badens
+  länge: vom Kloster Lichtenthal bis zum Theater an der Oos
+  besonderer_bestand: Rosengarten (Gönneranlage)
+  flora: Hunderte exotische Bäume, darunter einige der dicksten Mammutbäume in Deutschland
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/063
+ENTITÄT: garten
+BEZEICHNUNG: Rosenneuheitengarten Beutig
+ORTSTEIL_BEZUG: Beutig
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  veranstaltung: Rosenneuheitenwettbewerb findet jährlich statt
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/064
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Geroldsauer Wasserfall
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  status: flächenhaftes Naturdenkmal
+  status_zusatz: eines von sechs in Baden-Baden
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/065
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Wolfsschlucht
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  status: flächenhaftes Naturdenkmal
+  status_zusatz: eines von sechs in Baden-Baden
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/066
+ENTITÄT: wanderweg
+BEZEICHNUNG: Panoramaweg Baden-Baden
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  länge: ca. 45 [km]
+  etappen: 5 ausgewiesene Etappen
+  neugestaltung_jahr: 1997
+  auszeichnung: 2004 "schönster Wanderweg" (Deutscher Tourismusverband)
+  zertifikat: Premium-Wanderweg
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/067
+ENTITÄT: wanderweg
+BEZEICHNUNG: Ebersteinburg-Rundweg
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  länge: 9,4 [km]
+  zertifikat: Premium-Wanderweg
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 16-baden-baden/068
+ENTITÄT: stadtertschaft
+BEZEICHNUNG: Cité
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  entstehung: nach Abzug französischer Streitkräfte
+  quelle_grundstücke: ehemalige französische Militär-Liegenschaften
+  zeitraum_entstehung: seit 1999
+GUELTIG_AB: 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 16-baden-baden/069
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Deutscher Medienpreis
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  beginn: 1992
+  ort: Baden-Baden
+  veranstaltungsort: Kongresshaus am Augustaplatz
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/070
+ENTITÄT: veranstaltung
+BEZEICHNUNG: IOC-Session
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1963
+  ort: Baden-Baden
+  besonderheit: ungeheure Probleme auf der Tagesordnung, die Fortbestand Olympischer Spiele sicherten
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/071
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Olympischer Kongress
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  nummer: elfter Olympischer Kongress
+  jahr: 1981
+  ort: Baden-Baden
+  besonderheit: nominiert Calgary und Seoul für Olympische Spiele 1988
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/072
+ENTITÄT: ehrung
+BEZEICHNUNG: Olympische Stadt (Titel)
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  verleihung_jahr: 1996
+  verleihende_organisation: Internationales Olympisches Komitee
+  grund: Verdienste um die Olympische Bewegung
+  übergabe_symbol: Olympic Cup (von Pierre de Coubertin)
+  übergabe_datum: 1997
+  übergabe_person: Juan Antonio Samaranch
+  platz_weltweit: neunte Stadt weltweit mit diesem Titel
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 16-baden-baden/073
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Landesgartenschau Baden-Württemberg
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1981
+  ort: Baden-Baden
+  nummer: zweite Landesgartenschau Baden-Württembergs
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 16-baden-baden/074
+ENTITÄT: veranstaltung
+BEZEICHNUNG: NATO-Gipfel
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  datum: 3.-4. April 2009
+  anlass: 60. Jubiläum der NATO
+  ort: Baden-Baden
+  veranstaltungsort: Kurhaus
+  besonderheit: Arbeitsessen der Staats- und Regierungschefs
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 16-baden-baden/075
+ENTITÄT: veranstaltung
+BEZEICHNUNG: G20-Treffen
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  datum: 17.-18. März 2017
+  teilnehmer: Finanzminister und Notenbankgouverneure der G20-Staaten
+  ort: Baden-Baden
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 16-baden-baden/076
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Menton
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  partnerschaft_seit: 1961
+GUELTIG_AB: 1961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 16-baden-baden/077
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Moncalieri
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  land: Italien
+  partnerschaft_seit: 1990
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 16-baden-baden/078
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Freital
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  land: Deutschland
+  partnerschaft_seit: 1990
+  partnerschaft_typ: Verwaltungspartnerschaft
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 16-baden-baden/079
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Karlsbad
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  land: Tschechien
+  name_tschechisch: Karlovy Vary
+  partnerschaft_seit: 1998
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 16-baden-baden/080
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Jalta
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  land: Ukraine
+  partnerschaft_seit: 2000
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 16-baden-baden/081
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Sotschi
+QUELLE: https://de.wikipedia.org/wiki/Baden-Baden | Wikipedia
+EIGENSCHAFTEN:
+  land: Russland
+  partnerschaft_seit: 2012
+  partnerschaft_status: ruht seit 28. Februar 2022
+  grund_ruhemodus: russischer Überfall auf Ukraine
+GUELTIG_AB: 2012
+GUELTIG_BIS: 28. Februar 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95

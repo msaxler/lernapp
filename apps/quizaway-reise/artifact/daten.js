@@ -5007,6 +5007,2038 @@ window.QA_DATEN = {
 "km_vom_vorigen": 2.4
 }
 ]
+},
+{
+"id": "bahn",
+"name": "Bahn Freiburg–Neuwied (rechte Rheinseite)",
+"orte": [
+{
+"slug": "01-kenzingen",
+"name": "Kenzingen",
+"lat": 48.19167,
+"lon": 7.76833,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kenzingen",
+"steckbrief": "Stadt mit rund 11.000 Einwohnern, 23 km nördlich von Freiburg.",
+"frage": "Die Stadt Kenzingen wurde 1249 auf freiem Feld gegründet. Warum?",
+"optionen": [
+"Der König wollte eine Zollstation errichten.",
+"Der Stadtherr suchte ein neues Machtzentrum.",
+"Ein Hochwasser hatte das alte Dorf zerstört.",
+"Durchreisende Händler forderten einen Marktplatz."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Handelsplatz liegt nahe, doch den Anstoß gab Rudolf II. von Üsenberg: Er gründete die Stadt neben dem Dorf als neues Zentrum der Üsenberger Besitzungen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.kenzingen.de/kenzingen/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "01-kenzingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kenzingen",
+"steckbrief": "Stadt im Breisgau, 23 km nördlich von Freiburg.",
+"frage": "Wie viele Einwohner hat Kenzingen?",
+"optionen": [
+"unter 5.000",
+"5.000 bis unter 8.000",
+"8.000 bis unter 12.000",
+"12.000 bis unter 20.000"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Kenzingen hat 10.829 Einwohner. Die Nähe zu Freiburg lässt mehr vermuten, doch Kenzingen ist eine eigenständige Kleinstadt. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "01-kenzingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kenzingen",
+"steckbrief": "Stadt mit rund 11.000 Einwohnern, 23 km nördlich von Freiburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Kirnburg wurde im Bauernkrieg zerstört.",
+"Das Rathaus ist ein Massivbau mit gotischem Fensterband.",
+"Auf dem Üsenbergbrunnen steht der Stadtgründer."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im Bauernkrieg wurde zwar das Kloster Wonnental geplündert und zerstört, doch die Kirnburg fiel erst über hundert Jahre später: 1638 zerstörten sie Soldaten Herzog Bernhards von Weimar. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.kenzingen.de/gaeste/sehenswertes/ ---",
+"faktencheck": "korrigiert",
+"id": "01-kenzingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Kenzingen",
+"steckbrief": "Stadt mit rund 11.000 Einwohnern, 23 km nördlich von Freiburg.",
+"frage": "Welche Partei war bei der Bundestagswahl 2025 in Kenzingen zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"Grüne",
+"SPD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Freiburg lässt ein grünes Ergebnis vermuten, doch mit 18,5 % der Zweitstimmen lag die AfD vor Grünen (16,6 %) und SPD (15,8 %). Stärkste Kraft war die CDU mit 30,2 %. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025, Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "01-kenzingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kenzingen",
+"steckbrief": "Stadt mit rund 11.000 Einwohnern, 23 km nördlich von Freiburg.",
+"frage": "Was wurde nach 1806 aus dem Kloster Wonnental bei Kenzingen?",
+"optionen": [
+"Es wurde als Kaserne genutzt.",
+"Es wurde als Fabrik genutzt.",
+"Es wurde als Rathaus genutzt.",
+"Es wurde als Wohnhaus genutzt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Kaserne oder ein Rathaus wäre naheliegend gewesen, doch nach der Säkularisation 1806 zog eine Rüben- und Zichorienfabrik ins Kloster Wonnental ein. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.kenzingen.de/gaeste/sehenswertes/",
+"faktencheck": "bestätigt",
+"id": "01-kenzingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Kenzingen",
+"steckbrief": "Stadt mit rund 11.000 Einwohnern, 23 km nördlich von Freiburg.",
+"frage": "In welchem Landkreis liegt Kenzingen?",
+"optionen": [
+"Ortenaukreis",
+"Breisgau-Hochschwarzwald",
+"Emmendingen",
+"Lörrach"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Freiburg könnte auf Breisgau-Hochschwarzwald deuten, doch Kenzingen liegt im nördlich angrenzenden Landkreis Emmendingen. Richtig war 3.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "01-kenzingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kenzingen",
+"steckbrief": "Kleinstadt im nördlichen Breisgau, 23 km nördlich von Freiburg.",
+"frage": "Wozu dient die Kirche des Franziskanerklosters in Kenzingen seit 1891?",
+"optionen": [
+"Sie wurde zur Konzerthalle umgebaut.",
+"Die Stadtbibliothek zog dort ein.",
+"Ein Museum wurde dort eingerichtet.",
+"Die evangelische Gemeinde nutzt sie."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Museum oder Konzertsaal läge nahe, doch die Klosterkirche aus dem 17. Jahrhundert wurde 1891 Gotteshaus der evangelischen Kirchengemeinde. Sie birgt ein Kruzifix aus dem 16. Jahrhundert. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.kenzingen.de/gaeste/sehenswertes/",
+"faktencheck": "bestätigt",
+"id": "01-kenzingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kenzingen",
+"steckbrief": "Stadt mit rund 11.000 Einwohnern, 23 km nördlich von Freiburg.",
+"frage": "Was befindet sich seit 1968 im Kenzinger Schwabentor?",
+"optionen": [
+"Eine Narrenzunft nutzt es als Zunftstube.",
+"Ein Heimatmuseum wurde dort eingerichtet.",
+"Die Touristeninformation hat dort ihren Sitz.",
+"Ein Winzer betreibt dort eine Probierstube."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Museum oder eine Probierstube hätte zum historischen Tor gepasst, doch seit 1968 nutzt die Narrenzunft Welle-Bengel e.V. das Schwabentor an der Brotstraße als Zunftstube. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.kenzingen.de/gaeste/sehenswertes/",
+"faktencheck": "bestätigt",
+"id": "01-kenzingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kenzingen",
+"steckbrief": "1249 gegründete Stadt, 23 km nördlich von Freiburg.",
+"frage": "Wer erwarb 1352 die Stadt Kenzingen und die Veste Kirnburg?",
+"optionen": [
+"Der Bischof von Konstanz kaufte sie.",
+"Der Abt von St. Blasien erwarb sie.",
+"Markgraf Heinrich IV. von Hachberg kaufte sie.",
+"Der Herzog von Bayern erwarb sie."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Bischof oder Abt wäre denkbar gewesen, doch Friedrich von Üsenberg verkaufte Stadt und Burg für 2440 Mark Silber an Markgraf Heinrich IV. von Hachberg. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kenzingen.de/kenzingen/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "01-kenzingen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": null,
+"anschluss": []
+},
+{
+"slug": "02-achern",
+"name": "Achern",
+"lat": 48.63139,
+"lon": 8.07389,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Achern",
+"steckbrief": "Rund 27.000 Einwohner, 48 km südwestlich von Karlsruhe",
+"frage": "Acherns Partnerstadt heißt Morez. Woher stammt der Name?",
+"optionen": [
+"Der Ort ist nach einem Mann benannt.",
+"Der Name bedeutet „Bergwiese\".",
+"Er stammt von einem nahen Fluss.",
+"Er geht auf eine Festung zurück."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele Orte sind nach Flüssen benannt, doch Morez verdankt seinen Namen Etienne Morel, der dort 1563 Werkstätten einrichtete. Aus „Combe à Morel\" wurde über Morey schließlich Morez. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.achern.de/de/Unsere-Stadt/Stadtportrait/Partnerstadt-Morez",
+"faktencheck": "bestätigt",
+"id": "02-achern/v0.8/1",
+"tisch": false
+},
+{
+"familie": "Leiter",
+"sorte": "Klassiker",
+"ort": "Achern",
+"steckbrief": "Rund 27.000 Einwohner, 48 km südwestlich von Karlsruhe",
+"frage": "Wie groß ist die Gemarkung von Achern?",
+"optionen": [
+"Größer als 25 km²?",
+"Größer als 40 km²?",
+"Größer als 60 km²?",
+"Größer als 80 km²?"
+],
+"art": "leiter",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Gemarkung von Achern umfasst rund 65 km² – für eine Stadt mit rund 27.000 Einwohnern eine beachtliche Fläche. Größer bis Stufe 3, dann raus.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "02-achern/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Achern",
+"steckbrief": "Rund 27.000 Einwohner, auf 142 m Höhe, 48 km südwestlich von Karlsruhe",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Achern entstand durch Eingemeindung mehrerer Orte.",
+"In Großweier stand einst eine Höhenburg.",
+"Im Wappen von Fautenbach ist ein Mühlstein."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei 142 Metern Höhe wäre eine Höhenburg ungewöhnlich. In Großweier stand tatsächlich einst eine Burg, aber ein Wasserschloss im Bereich des heutigen Friedhofs. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.achern.de/de/Unsere-Stadt/Stadtteile/Grossweier",
+"faktencheck": "bestätigt",
+"id": "02-achern/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Achern",
+"steckbrief": "Rund 27.000 Einwohner, 48 km südwestlich von Karlsruhe",
+"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in Achern?",
+"optionen": [
+"Unter 75 %",
+"75 bis unter 79 %",
+"79 bis unter 82 %",
+"82 % und höher"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Wahlbeteiligung in Achern lag bei der Bundestagswahl 2025 bei 82,3 Prozent (amtliches Ergebnis, Stand 23.02.2025). Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025, Stand 23.02.2025",
+"faktencheck": "bestätigt",
+"id": "02-achern/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Achern",
+"steckbrief": "Rund 27.000 Einwohner, 48 km südwestlich von Karlsruhe",
+"frage": "Im Acherner Stadtteil Mösbach pflegen rund 180 Betriebe dieselbe Tradition. Welche?",
+"optionen": [
+"Sie brennen Schnäpse aus heimischem Obst.",
+"Sie flechten Körbe aus Weidenruten.",
+"Sie räuchern Fische aus der Region.",
+"Sie stellen Kerzen aus Bienenwachs her."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Korbflechterei wäre ländlich naheliegend, doch in Mösbach stehen Obstbau und Weinbau im Mittelpunkt. Rund 180 Kleinbrennereien stellen dort die traditionellen „gebrannten Wässerchen\" her. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.achern.de/de/Unsere-Stadt/Stadtteile/Moesbach",
+"faktencheck": "bestätigt",
+"id": "02-achern/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Achern",
+"steckbrief": "Rund 27.000 Einwohner, 48 km südwestlich von Karlsruhe",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Achern?",
+"optionen": [
+"EM",
+"OG",
+"RA",
+"KA"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Karlsruhe liegt zwar nah, doch Achern gehört nicht zum Stadtkreis Karlsruhe, sondern zum Ortenaukreis. OG steht für Offenburg, die Kreisstadt. Richtig war 2.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "02-achern/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Achern",
+"steckbrief": "Rund 27.000 Einwohner, 48 km südwestlich von Karlsruhe",
+"frage": "Wodurch wurde der Stadtteil Wagshurst 1136 erstmals urkundlich erwähnt?",
+"optionen": [
+"Durch einen kaiserlichen Erlass",
+"Durch eine Steuerliste",
+"Durch eine Papstbulle, die ein Kloster bestätigte",
+"Durch eine Zollvereinbarung"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Keine kaiserliche Urkunde, sondern eine Papstbulle: Am 28. Oktober 1136 bestätigte Innozenz II. die Besitzungen der Abtei Schuttern – darunter Wagshurst. Die Siedlung ist wahrscheinlich alemannischen Ursprungs. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.achern.de/de/Unsere-Stadt/Stadtteile/Wagshurst",
+"faktencheck": "bestätigt",
+"id": "02-achern/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Achern",
+"steckbrief": "Rund 27.000 Einwohner, 48 km südwestlich von Karlsruhe",
+"frage": "Die elsässische Gemeinde Scherwiller ist Partnergemeinde des Acherner Stadtteils Fautenbach. Welchen Namen trägt dort ein Kreisverkehr?",
+"optionen": [
+"Rond-Point de Fautenbach",
+"Rond-Point d'Achern",
+"Rond-Point du Rhin",
+"Rond-Point de la Forêt-Noire"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Nicht die Gesamtstadt, sondern der Stadtteil gab dem Kreisverkehr den Namen: „Rond-Point de Fautenbach\" in Scherwiller. Umgekehrt heißt in Fautenbach eine Straße „Scherwiller Straße\". Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.achern.de/de/Unsere-Stadt/Stadtteile/Fautenbach",
+"faktencheck": "bestätigt",
+"id": "02-achern/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Achern",
+"steckbrief": "Rund 27.000 Einwohner, 48 km südwestlich von Karlsruhe",
+"frage": "Wofür wird der historische Mühlbach in Oberachern heute genutzt?",
+"optionen": [
+"Er bewässert die umliegenden Obstwiesen.",
+"Er speist einen Löschteich der Feuerwehr.",
+"Er treibt noch eine historische Mühle an.",
+"Er wird zur Stromgewinnung genutzt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name Mühlbach legt nahe, dass hier noch gemahlen wird. Tatsächlich trieb er einst Säge-, Öl- und Mahlmühlen sowie Hanfplaukeln an, heute dient er der Stromgewinnung. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.achern.de/de/Unsere-Stadt/Stadtteile/Oberachern",
+"faktencheck": "bestätigt",
+"id": "02-achern/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "01-kenzingen",
+"anschluss": [
+"Achern hat fast zweieinhalbmal so viele Einwohner wie Kenzingen.",
+"Acherns Gemarkung ist fast doppelt so groß wie die von Kenzingen."
+],
+"km_vom_vorigen": 53.8
+},
+{
+"slug": "03-rastatt",
+"name": "Rastatt",
+"lat": 48.85722,
+"lon": 8.20306,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rastatt",
+"steckbrief": "Rund 51.000 Einwohner, 22 km südwestlich von Karlsruhe.",
+"frage": "Worauf spezialisierte sich der Rastatter Markt, nachdem der Ort 1404 das Marktrecht erhielt?",
+"optionen": [
+"Schwarzwälder Holz",
+"Rheinischen Tabak",
+"Oberrheinische Keramik",
+"Elsässer Wein"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Schwarzwald liegt zwar nah, doch König Ruprecht von der Pfalz verlieh Rastatt 1404 das Marktrecht wegen der verkehrsgünstigen Lage am Oberrhein. Dort blühte vor allem der Handel mit Wein aus dem nahen Elsass. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.rastatt.de/mein-rastatt/stadtportraet/stadtgeschichte/stadtwappen",
+"faktencheck": "bestätigt",
+"id": "03-rastatt/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rastatt",
+"steckbrief": "Barockstadt mit rund 51.000 Einwohnern, 22 km südwestlich von Karlsruhe.",
+"frage": "Wie groß ist die Gemarkung von Rastatt?",
+"optionen": [
+"unter 60 km²",
+"60 bis unter 80 km²",
+"80 bis unter 100 km²",
+"100 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Mit 58,98 km² ist Rastatt für eine Stadt mit über 50.000 Einwohnern recht kompakt. Zum Vergleich: Das benachbarte Achern hat bei halb so vielen Einwohnern gut 65 km² Fläche. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "03-rastatt/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Rastatt",
+"steckbrief": "Kreisstadt mit rund 51.000 Einwohnern, 22 km südwestlich von Karlsruhe.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Auf dem Schlossdach steht eine vergoldete Jupiter-Statue.",
+"Im Schloss wurde einst ein Friedensvertrag besiegelt.",
+"Das Schloss entwarf ein Baumeister aus Frankreich."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Schloss entstand nach Plänen des Italieners Domenico Egidio Rossi. Vorbild war Versailles – da liegt ein französischer Baumeister nahe. Doch Markgraf Ludwig Wilhelm holte sich einen Architekten aus Italien. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.rastatt.de/2704641_2713070_2787922_2999648_2909196",
+"faktencheck": "bestätigt",
+"id": "03-rastatt/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rastatt",
+"steckbrief": "Große Kreisstadt mit rund 51.000 Einwohnern, 22 km südwestlich von Karlsruhe.",
+"frage": "Wie hoch war der Zweitstimmenanteil der stärksten Partei bei der Bundestagswahl 2025 in Rastatt?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 30 %",
+"30 bis unter 40 %",
+"40 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die AfD erreichte 31,4 % der Zweitstimmen und lag damit vor der CDU mit 28,2 %. Die Wahlbeteiligung betrug 75,5 %. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "03-rastatt/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rastatt",
+"steckbrief": "Rund 51.000 Einwohner, 22 km südwestlich von Karlsruhe.",
+"frage": "Wie endete die Belagerung der Festung Rastatt im Juli 1849?",
+"optionen": [
+"Mit einem Ausfall der Belagerten nach Süden",
+"Mit der Sprengung der Festungsmauern durch Preußen",
+"Mit einem ausgehandelten Waffenstillstand und freiem Abzug",
+"Mit der Kapitulation der Revolutionäre vor Preußen"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Freier Abzug wäre denkbar gewesen, doch die 5.500 Revolutionäre in der Bundesfestung kapitulierten am 23. Juli 1849 vor den preußischen Belagerern. Rastatt war ein zentraler Schauplatz der Badischen Revolution. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.rastatt.de/2704641_2713070_2787922_2999648_2909196",
+"faktencheck": "bestätigt",
+"id": "03-rastatt/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Rastatt",
+"steckbrief": "Barockstadt mit rund 51.000 Einwohnern, 22 km südwestlich von Karlsruhe.",
+"frage": "Welche dieser Städte ist eine Partnerstadt von Rastatt?",
+"optionen": [
+"Orange",
+"Perpignan",
+"Perugia",
+"Portsmouth"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Perpignan, Perugia und Portsmouth klingen plausibel, doch Rastatts Partner sind Orange (Frankreich), Fano (Italien), New Britain (USA), Woking (England) und Almería (Spanien). Die Partnerschaft mit Orange besteht seit 1965. Richtig war 1.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "03-rastatt/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rastatt",
+"steckbrief": "Rund 51.000 Einwohner, 22 km südwestlich von Karlsruhe.",
+"frage": "Aus welchem Anlass wurde 1993 in Rastatt das Straßentheaterfestival „tête-à-tête\" gegründet?",
+"optionen": [
+"Zum Jubiläum der Städtepartnerschaft mit Orange",
+"Als Abschiedsgeschenk an abziehende französische Soldaten",
+"Als Beitrag zum Europäischen Kulturjahr",
+"Zum Gedenken an die Badische Revolution"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Nach dem Ende des Kalten Krieges zogen die in Rastatt stationierten französischen Soldaten ab. Die Stadt verabschiedete sie 1993 mit einem Straßentheaterfestival – der französische Name „tête-à-tête\" zeugt davon. Das Festival findet bis heute jährlich statt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.rastatt.de/2704641_2713070_2787922_2999648_2909196",
+"faktencheck": "bestätigt",
+"id": "03-rastatt/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rastatt",
+"steckbrief": "Kreisstadt mit rund 51.000 Einwohnern, 22 km südwestlich von Karlsruhe.",
+"frage": "Welche ungewöhnliche Bitte ließ Markgräfin Sibylla Augusta auf ihren Grabstein in der Schlosskirche setzen?",
+"optionen": [
+"Ein Gebet für ihren verstorbenen Gemahl",
+"Einen Fluch gegen die Feinde Badens",
+"Eine Bitte um Gebet für „die große Sünderin\"",
+"Die Aufforderung, ihr Grab nicht zu öffnen"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Inschrift lautet „Bettet für die große Sünderin Augusta\" – von der Markgräfin selbst gewählt. Trotz ihrer Verdienste als Regentin und Bauherrin bat sie um Fürbitte als Sünderin – Ausdruck barocker Frömmigkeit. Die Schlosskirche wurde 1719 bis 1723 erbaut. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.rastatt.de/2704641_2713070_2787922_2999648_2911932",
+"faktencheck": "bestätigt",
+"id": "03-rastatt/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rastatt",
+"steckbrief": "Stadt mit rund 51.000 Einwohnern, 22 km südwestlich von Karlsruhe.",
+"frage": "Was zeigt das Rastatter Stadtwappen neben dem badischen Wappen?",
+"optionen": [
+"Einen Festungsturm",
+"Ein Mühlrad",
+"Eine Getreidegarbe",
+"Eine Weinleiter"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Neben dem badischen Schrägbalken zeigt das Wappen eine Weinleiter – mundartlich „Raste\" genannt. Mit ihr wurden einst Fässer vom Wagen in den Weinkeller hinabgelassen. Sie erinnert an den Weinhandel des früheren Marktfleckens Rastetten. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.rastatt.de/mein-rastatt/stadtportraet/stadtgeschichte/stadtwappen",
+"faktencheck": "bestätigt",
+"id": "03-rastatt/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rastatt",
+"steckbrief": "Rund 51.000 Einwohner, 22 km südwestlich von Karlsruhe.",
+"frage": "Nach welchem Vorbild entstand die Pagodenburg bei Rastatt?",
+"optionen": [
+"Ein Bauwerk im Park von Schloss Schwetzingen",
+"Ein Bauwerk im Park von Schloss Nymphenburg",
+"Ein Bauwerk im Park von Schloss Ludwigsburg",
+"Ein Bauwerk im Park von Schloss Sanssouci"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Pagodenburg, 1722 als Teehaus der markgräflichen Familie erbaut, nahm sich ein Bauwerk im Nymphenburger Schlosspark zum Vorbild. Der Hofbaumeister Johann Michael Ludwig Rohrer setzte den Entwurf um. Das Gebäude diente auch als Spielhaus für die Hofkinder. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.rastatt.de/2704641_2713070_2787922_2999648_2987379",
+"faktencheck": "bestätigt",
+"id": "03-rastatt/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "02-achern",
+"anschluss": [
+"Rastatt hat fast doppelt so viele Einwohner wie Achern, aber weniger Fläche.",
+"Bundestagswahl 2025: In Achern lag die CDU vorn, in Rastatt die AfD."
+],
+"km_vom_vorigen": 26.8
+},
+{
+"slug": "04-eltville",
+"name": "Eltville am Rhein",
+"lat": 50.025,
+"lon": 8.12007,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Eltville am Rhein",
+"steckbrief": "Kleinstadt mit rund 17.000 Einwohnern, 11 km südwestlich von Wiesbaden",
+"frage": "Wie viele Einwohner leben hier je Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 250",
+"250 bis unter 350",
+"350 bis unter 500"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eltville hat rund 17.000 Einwohner auf knapp 47 Quadratkilometern – das ergibt etwa 362 Einwohner je Quadratkilometer. Die Nähe zu Wiesbaden und die Lage am Rhein sorgen für eine vergleichsweise dichte Besiedlung. Richtig war 4.",
+"quelle": "Wikidata P1082 (Stand 2025-12-31) und P2046, eigene Berechnung",
+"faktencheck": "bestätigt",
+"id": "04-eltville/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Eltville am Rhein",
+"steckbrief": "Stadt mit rund 17.000 Einwohnern am Rhein, 11 km südwestlich von Wiesbaden",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"1861 stiftete Marianne von Preußen eine katholische Kirche.",
+"Kaiser Ludwig verlieh 1332 Stadtrechte nach Frankfurter Muster.",
+"Der Stadtbrunnen auf dem Marktplatz stammt von 1989."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Als ihr elfjähriger Sohn an Weihnachten 1861 an Scharlach starb, stiftete Marianne von Preußen am selben Abend 60.000 Gulden – für eine evangelische Kirche, die Johanneskirche in Erbach. Das preußische Königshaus war protestantisch. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/erbach/",
+"faktencheck": "bestätigt",
+"id": "04-eltville/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Eltville am Rhein",
+"steckbrief": "Rund 17.000 Einwohner, Weinstadt 11 km südwestlich von Wiesbaden",
+"frage": "Welche Partei war bei der Bundestagswahl 2025 in Eltville zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"Grüne",
+"AfD",
+"FDP"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die SPD lag mit 15,4 % nur knapp dahinter, doch zweitstärkste Kraft in Eltville waren bei der Bundestagswahl 2025 die Grünen mit 16,3 %. Stärkste Kraft blieb die CDU mit 36,7 %. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "04-eltville/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eltville am Rhein",
+"steckbrief": "Rund 17.000 Einwohner, 11 km südwestlich von Wiesbaden",
+"frage": "Welche Verbindung hat Eltville zu Johannes Gutenberg?",
+"optionen": [
+"Gutenberg druckte hier sein erstes Buch.",
+"Er gründete in Eltville eine Papiermühle.",
+"Sein Bruder lebte in einem Eltviller Adelshof.",
+"Er starb auf der Kurfürstlichen Burg."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Gutenbergs Bruder Friele Gensfleisch lebte von 1434 bis 1447 im Gensfleischhaus, einem Adelshof in der historischen Altstadt. Gutenberg selbst hatte später in Eltville als Hofmann Kurfürst Adolfs eine Leibrente. Richtig war 3. ---",
+"quelle": "Gemeinde-Webseite, eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/",
+"faktencheck": "korrigiert",
+"id": "04-eltville/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Eltville am Rhein",
+"steckbrief": "Rund 17.000 Einwohner, 11 km südwestlich von Wiesbaden",
+"frage": "Wie groß ist die Gemarkung von Eltville am Rhein?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 30 km²",
+"30 bis unter 45 km²",
+"45 bis unter 70 km²"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eltville umfasst neben der Kernstadt die Stadtteile Erbach, Hattenheim, Martinsthal und Rauenthal, die 1976 eingemeindet wurden. Zusammen ergibt das knapp 47 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "04-eltville/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eltville am Rhein",
+"steckbrief": "Rund 17.000 Einwohner, Weinstadt am Rhein, 11 km südwestlich von Wiesbaden",
+"frage": "Was geschah 1349 auf der Kurfürstlichen Burg in Eltville?",
+"optionen": [
+"Ein Gegenkönig unterzeichnete dort seinen Thronverzicht.",
+"Der Erzbischof gründete dort eine Universität.",
+"Der Kaiser stiftete dort ein neues Kloster.",
+"Dort tagten Fürsten über eine neue Königswahl."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Es ging tatsächlich um Macht – aber um ihren Verlust. Gegenkönig Günther von Schwarzburg, Rivale Karls IV., floh auf die Kurfürstliche Burg und unterzeichnete dort seinen Thronverzicht. Der Limburger Chronik zufolge wurde er dort möglicherweise vergiftet; Wochen später starb er in Frankfurt. Richtig war 1. ---",
+"quelle": "Gemeinde-Webseite, eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/eltville/",
+"faktencheck": "korrigiert",
+"id": "04-eltville/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eltville am Rhein",
+"steckbrief": "Stadt am Rhein mit rund 17.000 Einwohnern, 11 km südwestlich von Wiesbaden",
+"frage": "Was begann 1837 im Sohlern'schen Hof in Eltville?",
+"optionen": [
+"Dort stellte ein Fabrikant Porzellan her.",
+"Dort handelte man mit Rheingauer Mineralwasser.",
+"Dort begann die Produktion von Sekt.",
+"Dort druckte man Rheinkarten für Reisende."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Weder Porzellan noch Druckerei – Matheus Müller erwarb 1811 den Sohlern'schen Hof in der Leergasse und begann dort 1837 mit der Sektherstellung. Es war eine der ersten Sektkellereien Deutschlands. Eltville gilt seither als Stadt des Sektes. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/",
+"faktencheck": "unsicher",
+"id": "04-eltville/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eltville am Rhein",
+"steckbrief": "Rund 17.000 Einwohner, 11 km südwestlich von Wiesbaden",
+"frage": "Warum stehen auf dem Kirchplatz in Rauenthal sieben Linden?",
+"optionen": [
+"Der Bürgermeister gedachte sieben Pesttoter seiner Familie.",
+"Sieben Winzer stifteten sie nach einer reichen Ernte.",
+"Sie bezeichneten die sieben Tore des alten Friedhofs.",
+"Sie standen für die sieben Rheingauer Gemeinden."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Pest wütete 1660 besonders stark in Rauenthal. Der Überlieferung nach ließ einer der Rauenthaler Bürgermeister zum Gedenken an seine sieben an der Pest verstorbenen Familienmitglieder sieben Linden auf dem Kirchplatz pflanzen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/rauenthal/",
+"faktencheck": "korrigiert",
+"id": "04-eltville/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eltville am Rhein",
+"steckbrief": "Rund 17.000 Einwohner, 11 km südwestlich von Wiesbaden",
+"frage": "Warum wurde der Ort Rode im 14. Jahrhundert verlegt?",
+"optionen": [
+"Ein Hochwasser hatte die Siedlung zerstört.",
+"Der Erzbischof brauchte Platz für eine Burg.",
+"Die Weinberge lagen zu weit entfernt.",
+"Er lag außerhalb des Rheingauer Grenzwalls."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Rode – das heutige Martinsthal – lag außerhalb des Gebücks, des Rheingauer Grenzwalls. Erzbischof Gerlach von Nassau ließ den Ort im 14. Jahrhundert nach innen verlegen. Die Bürger nannten ihn anfangs Neudorf. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/martinsthal/",
+"faktencheck": "bestätigt",
+"id": "04-eltville/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "03-rastatt",
+"anschluss": [
+"Bundestagswahl 2025: In Eltville wählten 86 Prozent, in Rastatt knapp 76.",
+"Bundestagswahl 2025: In Rastatt lag die AfD vorn, in Eltville die CDU."
+],
+"km_vom_vorigen": 130.0
+},
+{
+"slug": "05-ruedesheim",
+"name": "Rüdesheim am Rhein",
+"lat": 49.97903,
+"lon": 7.9234,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rüdesheim am Rhein",
+"steckbrief": "Stadt mit rund 10.000 Einwohnern, 26 km westlich von Mainz am Rhein.",
+"frage": "Wozu wurde die Burg Ehrenfels um 1220 oberhalb des Binger Loches errichtet?",
+"optionen": [
+"Die Burg sollte Angriffe vom Wasser abwehren.",
+"Sie diente als Zollburg für den Rheinhandel.",
+"Sie war ein Jagdsitz der Mainzer Erzbischöfe.",
+"Sie diente als Signalposten für die Schifffahrt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Lage oberhalb des Binger Loches, einer Engstelle im Rhein, legt eine Wehrfunktion nahe. Doch der Warenverkehr war so einträglich, dass sich der Bau einer Zollburg lohnte. Die Zollregister überraschen durch die Mengen an Gütern, die das Binger Loch passierten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "05-ruedesheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rüdesheim am Rhein",
+"steckbrief": "Weinstadt mit rund 10.000 Einwohnern, 26 km westlich von Mainz.",
+"frage": "Wie viele Einwohner je Quadratkilometer hat die Stadt?",
+"optionen": [
+"unter 100",
+"100 bis unter 175",
+"175 bis unter 300",
+"300 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Rüdesheim hat rund 9.900 Einwohner auf 51 Quadratkilometern – das ergibt etwa 192 Einwohner je Quadratkilometer. Die große Gemarkung mit Weinbergen und Wald drückt die Dichte, trotz der kompakten Altstadt am Rhein. Richtig war 3.",
+"quelle": "Wikidata P1082 (Stand 2025-12-31) und Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "05-ruedesheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Rüdesheim am Rhein",
+"steckbrief": "Weinstadt mit rund 10.000 Einwohnern, 26 km westlich von Mainz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Eisenbahn erreichte Rüdesheim im Jahr 1856.",
+"Die Niederwaldbahn von 1884 war elektrisch betrieben.",
+"Die Siedlung Windeck entstand 1953 für Vertriebene."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Niederwaldbahn fuhr ab 1884 dampfgetrieben als meterspurige Zahnradbahn zum Niederwalddenkmal. 1884 waren elektrische Bahnen noch kaum verbreitet, was Dampfantrieb wahrscheinlicher macht. Ein alliierter Luftangriff zerstörte die Bahn am 25. November 1944 endgültig. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html",
+"faktencheck": "unsicher",
+"id": "05-ruedesheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rüdesheim am Rhein",
+"steckbrief": "Weinstadt mit rund 10.000 Einwohnern im Rheingau, 26 km westlich von Mainz.",
+"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 82 Prozent",
+"82 bis unter 85 Prozent",
+"85 bis unter 88 Prozent",
+"88 Prozent und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Wahlbeteiligung in Rüdesheim lag bei der Bundestagswahl 2025 bei 80,3 Prozent. Für eine Stadt mit rund 10.000 Einwohnern ist das ein gängiger Wert. Die CDU kam auf 32,8 Prozent der Zweitstimmen. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025, Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "05-ruedesheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rüdesheim am Rhein",
+"steckbrief": "Stadt mit rund 10.000 Einwohnern am Rhein, 26 km westlich von Mainz.",
+"frage": "Hildegard von Bingen gründete im Ortsteil Eibingen ein Kloster. Welchen Titel verlieh ihr Papst Benedikt XVI. im Jahr 2012?",
+"optionen": [
+"Sie wurde zur Schutzpatronin des Rheinlands ernannt.",
+"Sie wurde zur Kirchenlehrerin erhoben.",
+"Sie wurde zur Patronin der Winzer ernannt.",
+"Sie wurde zur Patronin der Naturheilkunde ernannt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Hildegard ist als Heilkundige so bekannt, dass viele ein Patronat vermuten. Doch Benedikt XVI. würdigte 2012 ihre Bedeutung als Theologin des Mittelalters und erhob sie zur Kirchenlehrerin. Ihre Gebeine ruhen in der Pfarrkirche von Eibingen. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüdesheim_am_Rhein",
+"faktencheck": "bestätigt",
+"id": "05-ruedesheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rüdesheim am Rhein",
+"steckbrief": "Weinstadt mit rund 10.000 Einwohnern im Rheingau, in Hessen.",
+"frage": "Wie weit liegt Rüdesheim Luftlinie von der Landeshauptstadt Wiesbaden entfernt?",
+"optionen": [
+"unter 15 km",
+"15 bis unter 25 km",
+"25 bis unter 40 km",
+"40 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wiesbaden liegt als Landeshauptstadt am östlichen Rand des Rheingaus, doch bis Rüdesheim sind es rund 26 Kilometer Luftlinie. Die Höhenzüge des Taunus lassen die Entfernung größer erscheinen, als sie ist. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "05-ruedesheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rüdesheim am Rhein",
+"steckbrief": "Weinstadt mit rund 10.000 Einwohnern, 26 km westlich von Mainz am Rhein.",
+"frage": "Das Niederwalddenkmal mit der Statue der Germania thront über Rüdesheim. In welchem Jahr wurde es fertiggestellt?",
+"optionen": [
+"Das Denkmal wurde 1871 fertiggestellt.",
+"Das Denkmal wurde 1877 fertiggestellt.",
+"Das Denkmal wurde 1880 fertiggestellt.",
+"Das Denkmal wurde 1883 fertiggestellt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Kaiser Wilhelm I. legte 1877 den Grundstein für das Nationaldenkmal, doch erst 1883 wurde die mächtige Germania-Statue eingeweiht. Wer 1877 tippt, verwechselt Grundstein und Fertigstellung. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "05-ruedesheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rüdesheim am Rhein",
+"steckbrief": "Stadt mit rund 10.000 Einwohnern am Rhein, 26 km westlich von Mainz.",
+"frage": "Johannes Brahms war wiederholt zu Gast in Rüdesheim. Welchem Ereignis wohnte er dort 1883 bei?",
+"optionen": [
+"Er besuchte das erste Rüdesheimer Weinfest.",
+"Er erlebte die Enthüllung des Niederwalddenkmals.",
+"Er spielte bei einem Konzert in der Pfarrkirche.",
+"Er eröffnete die neue Eisenbahnstrecke am Rhein."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Brahms weilte von 1874 bis 1895 wiederholt im Haus der Familie Beckerath in der Oberstraße. 1883 erlebte er die feierliche Enthüllung des Niederwalddenkmals. An ihn erinnern die jährlichen Rüdesheimer Brahms-Tage. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüdesheim_am_Rhein",
+"faktencheck": "bestätigt",
+"id": "05-ruedesheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rüdesheim am Rhein",
+"steckbrief": "Weinstadt mit rund 10.000 Einwohnern, 26 km westlich von Mainz.",
+"frage": "Der Ortsteil Eibingen wurde 1939 nach Rüdesheim eingemeindet. Unter welchen Umständen geschah das?",
+"optionen": [
+"Die Bürger stimmten in einer Volksabstimmung zu.",
+"Beide Gemeinderäte beantragten die Zusammenlegung.",
+"Sie geschah unter Geheimhaltung gegen den Bürgerwillen.",
+"Eine landesweite Verwaltungsreform legte sie fest."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine reguläre Reform wäre naheliegend, doch die Nationalsozialisten verfügten die Eingemeindung unter vorheriger Geheimhaltung und gegen den Willen der Bevölkerung. Nach dem Krieg sind beide Orte baulich zusammengewachsen. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüdesheim_am_Rhein",
+"faktencheck": "unsicher",
+"id": "05-ruedesheim/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rüdesheim am Rhein",
+"steckbrief": "Stadt mit rund 10.000 Einwohnern im Rheingau, 26 km westlich von Mainz.",
+"frage": "Im Jahr 983 wechselte die Landesherrschaft über den Rheingau. Was geschah durch die Veroneser Schenkung?",
+"optionen": [
+"Die Erzbischöfe von Mainz wurden Landesherren.",
+"Der König übernahm den Rheingau als Domäne.",
+"Die Rheingrafen wurden zu Herzögen erhoben.",
+"Das Kloster Lorsch erhielt die Landesherrschaft."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Zuvor war der Rheingau unter den Rheingrafen reichsunmittelbar. Die Schenkung von 983 übertrug die Landesherrschaft an die Erzbischöfe von Mainz. Mainz blieb bis 1806 Landesherr, danach folgte Nassau und ab 1867 Preußen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "05-ruedesheim/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "04-eltville",
+"anschluss": [
+"Rüdesheim war bis 1977 Kreisstadt des Rheingau-Kreises, zu dem auch Eltville gehörte.",
+"Bundestagswahl 2025: In Eltville wählten 86 Prozent, in Rüdesheim 80."
+],
+"km_vom_vorigen": 15.0
+},
+{
+"slug": "06-lorch",
+"name": "Lorch",
+"lat": 50.0441,
+"lon": 7.80375,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lorch",
+"steckbrief": "Rund 3.800 Einwohner, 32 km westlich von Wiesbaden im Rheingau",
+"frage": "Lorch war 1919–1923 Verwaltungssitz des „Freistaat Flaschenhals\". Wie kam es dazu?",
+"optionen": [
+"Das Gebiet lag zwischen Besatzungszonen und blieb unbesetzt",
+"Die Bevölkerung lehnte sich gegen die Besatzung auf",
+"Ein Bürgermeister rief eine eigene Republik aus",
+"Die Weimarer Regierung richtete eine Sonderverwaltung ein"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ausgerufen hat niemand etwas: Nach dem Ersten Weltkrieg blieb ein Streifen zwischen der französischen und der amerikanischen Besatzungszone unbesetzt. Lorch lag mittendrin und wurde Verwaltungssitz des „Freistaat Flaschenhals\" (1919–1923). Richtig war 1. ---",
+"quelle": "Gemeinde-Webseite, lorch-rhein.de/tourismus-kultur/tourismus-freizeit-info-s/historie-von-lorch-und-seinen-stadtteilen/",
+"faktencheck": "korrigiert",
+"id": "06-lorch/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lorch",
+"steckbrief": "Stadt im Rheingau, 32 km westlich von Wiesbaden",
+"frage": "Wie viele Einwohner hat Lorch?",
+"optionen": [
+"Unter 2.000",
+"2.000 bis unter 5.000",
+"5.000 bis unter 10.000",
+"10.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im engen Mittelrheintal ist die Siedlungsfläche knapp – das spricht für eine kleine Zahl. Ende 2025 zählte Lorch 3.802 Einwohner. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "06-lorch/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Lorch",
+"steckbrief": "Rund 3.800 Einwohner, 32 km westlich von Wiesbaden",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Kirchturm entstand um 360 als römischer Wehrturm.",
+"Lorch bekam erst im Jahr 1885 das Stadtrecht.",
+"Die Kreuzkapelle entstand nach einer Pest um 1460."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Pestkapellen gibt es vielerorts, doch die Lorcher Kreuzkapelle erinnert an ein anderes Ereignis: 1460 überfielen 120 Bewaffnete des Herrn von der Sauerburg die Lorcher Gemarkung zum Viehraub. Die Bürger schlugen sie zurück und stellten ein Kreuz auf. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, lorch-rhein.de/tourismus-kultur/sehenswuerdigkeiten/kreuzkapelle/",
+"faktencheck": "bestätigt",
+"id": "06-lorch/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lorch",
+"steckbrief": "Rund 3.800 Einwohner, 32 km westlich von Wiesbaden im Rheingau",
+"frage": "Bundestagswahl 2025: Welchen Zweitstimmenanteil erreichte die stärkste Partei in Lorch?",
+"optionen": [
+"Unter 25 %",
+"25 bis unter 30 %",
+"30 bis unter 35 %",
+"35 bis unter 40 %"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Kleine Orte im ländlichen Hessen wählen oft überdurchschnittlich konservativ. Bei der Bundestagswahl 2025 kam die CDU in Lorch auf 37,6 % der Zweitstimmen. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "06-lorch/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lorch",
+"steckbrief": "Rund 3.800 Einwohner, Weinstadt 32 km westlich von Wiesbaden",
+"frage": "Zwischen Lorchs Weinbergen wächst eine gelb blühende Pflanze wild. Wofür wurde sie einst genutzt?",
+"optionen": [
+"Tuchmacher nutzten sie zum Blaufärben von Stoffen",
+"Klöster bauten sie als Heilkraut an",
+"Imker lockten damit Bienen zu ihren Stöcken",
+"Winzer düngten damit einst ihre Rebstöcke"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Heilkraut läge nahe, doch es ist Färberwaid: Rund 300 Tuchmacherfamilien nutzten die Pflanze im Mittelalter, um Stoffe blau zu färben. Halbfertige Ware ging bis nach Holland und England. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, lorch-rhein.de/tourismus-kultur/tourismus-freizeit-info-s/historie-von-lorch-und-seinen-stadtteilen/",
+"faktencheck": "bestätigt",
+"id": "06-lorch/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lorch",
+"steckbrief": "Rund 3.800 Einwohner, 32 km westlich von Wiesbaden im Rheingau",
+"frage": "Wie dicht besiedelt ist Lorchs Gemarkung – Einwohner je Quadratkilometer?",
+"optionen": [
+"Unter 50",
+"50 bis unter 100",
+"100 bis unter 200",
+"200 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Rund 3.800 Einwohner verteilen sich auf über 54 km² Gemarkung – das ergibt etwa 70 je Quadratkilometer. Die niedrige Dichte passt zu einer kleinen Stadt im ländlichen Mittelrheintal. Richtig war 2.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "06-lorch/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lorch",
+"steckbrief": "Rund 3.800 Einwohner, 32 km westlich von Wiesbaden",
+"frage": "Wozu dient der mittelalterliche Gefängnisturm „Strunk\" in Lorch heute?",
+"optionen": [
+"Er dient heute Touristen als Aussichtsplattform",
+"Ein Winzer nutzt ihn als kühles Weinlager",
+"Er ist heute ein standesamtliches Trauzimmer",
+"Die Stadt betreibt darin ein kleines Museum"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Museum wäre naheliegend, aber der Strunk, ein Rundturm an der Wisper mit Verlies und Schlüsselscharten, dient seit seiner Restaurierung 2005/06 als Trauzimmer. Standesamtliche Trauungen finden im ersten Geschoss statt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, lorch-rhein.de/tourismus-kultur/sehenswuerdigkeiten/strunk/",
+"faktencheck": "bestätigt",
+"id": "06-lorch/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lorch",
+"steckbrief": "Rund 3.800 Einwohner, 32 km westlich von Wiesbaden im Rheingau",
+"frage": "Welche Besonderheit hat die Orgel der Lorcher St.-Martin-Kirche?",
+"optionen": [
+"Ein Register imitiert Vogelstimmen und enthält Wein",
+"Im Gehäuse steckt eine verborgene Reliquie",
+"Geheimfächer schützten einst Kirchenschätze vor Plünderern",
+"Weinranken aus Schnitzwerk bedecken das Gehäuse"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In einer Weinstadt mag man Wein an vielen Stellen vermuten, doch hier steckt er wirklich in der Orgel: Das sogenannte Riesling-Register verbindet Vogelgezwitscher mit einem versteckten Riesling. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, lorch-rhein.de/tourismus-kultur/sehenswuerdigkeiten/st-martin-kirche/",
+"faktencheck": "bestätigt",
+"id": "06-lorch/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lorch",
+"steckbrief": "Rund 3.800 Einwohner, 32 km westlich von Wiesbaden",
+"frage": "Das Hilchenhaus gilt als bedeutendster Renaissancebau im Mittelrheintal. Wer ließ es 1546 errichten?",
+"optionen": [
+"Ein Erzbischof ließ dort eine Jagdresidenz bauen",
+"Eine Kaufmannsgilde errichtete dort ihr Handelshaus",
+"Ein Frankfurter Weinhändler baute ein Kontor",
+"Ein Reichsfeldmarschall schuf dort seinen Adelssitz"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Am Rhein liegt ein Handelshaus nahe, doch das Hilchenhaus war der vornehmste Sitz des Adelsgeschlechts von Hilchen. Der Reichsfeldmarschall Johann Hilchen von Lorch ließ es 1546–1548 als Renaissance-Palais errichten. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, lorch-rhein.de/tourismus-kultur/sehenswuerdigkeiten/hilchenhaus/",
+"faktencheck": "unsicher",
+"id": "06-lorch/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lorch",
+"steckbrief": "Rund 3.800 Einwohner, 32 km westlich von Wiesbaden",
+"frage": "Warum entstand Anfang der 1960er-Jahre der Lorcher Ortsteil Ranselberg?",
+"optionen": [
+"Bergleute einer Schiefergrube brauchten Wohnraum",
+"Die Bundeswehr brauchte Wohnraum für eine Garnison",
+"Ein Hochwasser zwang Anwohner auf höheres Gelände",
+"Eine Fabrik siedelte dort ihre Arbeiter an"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Hochwasser oder Industrie wären übliche Gründe, doch Ranselberg entstand Anfang der 1960er-Jahre allein wegen der neuen Bundeswehrgarnison. Die Garnison bestand von 1965 bis 2012; Ranselberg ist bis heute ein eigener Ortsbezirk. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, lorch-rhein.de/tourismus-kultur/tourismus-freizeit-info-s/historie-von-lorch-und-seinen-stadtteilen/",
+"faktencheck": "bestätigt",
+"id": "06-lorch/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "05-ruedesheim",
+"anschluss": [
+"Lorch hat mehr Fläche als Rüdesheim, aber nicht halb so viele Einwohner.",
+"Ein alter Kaufmannsweg führte Waren von Lorch über die Höhe nach Rüdesheim, am Binger Loch vorbei."
+],
+"km_vom_vorigen": 11.2
+},
+{
+"slug": "07-kaub",
+"name": "Kaub",
+"lat": 50.08806,
+"lon": 7.7625,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kaub",
+"steckbrief": "Rund 800 Einwohner, 32 km südöstlich von Koblenz am Mittelrhein",
+"frage": "Die Zollburg Pfalzgrafenstein steht auf einer Rheininsel. Welches Ereignis gab den Anstoß zu ihrem Bau ab 1326?",
+"optionen": [
+"Eine Überschwemmung zerstörte die Zollstelle am Ufer",
+"Der Rhein verlagerte sein Fahrwasser zur Insel",
+"Der Erzbischof von Trier beanspruchte den Rheinzoll",
+"Der Papst belegte den Pfalzgrafen mit Kirchenbann"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Lage auf einer Rheininsel lässt an Hochwasserschutz denken, doch tatsächlich reagierte Pfalzgraf Ludwig IV. auf den Kirchenbann durch Papst Johannes XXII. Er ließ ab 1326 den Zollturm errichten, um Zoll und Schifffahrt zu sichern. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte",
+"faktencheck": "bestätigt",
+"id": "07-kaub/v0.8/1",
+"tisch": false
+},
+{
+"familie": "Leiter",
+"sorte": "Klassiker",
+"ort": "Kaub",
+"steckbrief": "Rund 800 Einwohner, 32 km südöstlich von Koblenz im Rheintal",
+"frage": "Wie groß ist die Gemarkung von Kaub?",
+"optionen": [
+"Mehr als 5 km²?",
+"Mehr als 10 km²?",
+"Mehr als 15 km²?",
+"Mehr als 20 km²?"
+],
+"art": "leiter",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer „Stadt\" hört, denkt an mehr Fläche – doch Kaubs Gemarkung misst nur 13,05 Quadratkilometer. Im engen Mittelrheintal begrenzen steile Schieferhänge die Siedlungsfläche. Höher bis Stufe 2, dann raus.",
+"quelle": "Wikidata",
+"faktencheck": "bestätigt",
+"id": "07-kaub/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kaub",
+"steckbrief": "Rund 800 Einwohner, 32 km südöstlich von Koblenz am Rhein",
+"frage": "Nach dem Ersten Weltkrieg lag Kaub im „Freistaat Flaschenhals\". Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Er entstand zwischen britischer und belgischer Besatzungszone.",
+"Seine Bewohner gaben eigenes Geld heraus.",
+"Am Ende besetzten französische Truppen den Freistaat."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Freistaat Flaschenhals entstand 1919 in der Lücke zwischen französischem Brückenkopf Mainz und amerikanischem Brückenkopf Koblenz – nicht zwischen britischer und belgischer Zone. Rund 8.000 Menschen lebten in dem unbesetzten Streifen. Die Lüge war 1.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/kaub.html",
+"faktencheck": "bestätigt",
+"id": "07-kaub/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Kaub",
+"steckbrief": "Rund 800 Einwohner, 32 km südöstlich von Koblenz",
+"frage": "Welche Partei war bei der Bundestagswahl 2025 in der Verbandsgemeinde Loreley zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"Grüne",
+"SPD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. In der Verbandsgemeinde Loreley wurde die SPD mit 25 % der Zweitstimmen zweitstärkste Partei, hinter der CDU mit 32,2 %. Die AfD erreichte 15,7 %, die Grünen 8,5 %. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 23.02.2025",
+"faktencheck": "bestätigt",
+"id": "07-kaub/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kaub",
+"steckbrief": "Rund 800 Einwohner, 32 km südöstlich von Koblenz am Rhein",
+"frage": "Blüchers Rheinübergang in der Neujahrsnacht 1813/14 ist berühmt. Wer half den Truppen beim Übersetzen?",
+"optionen": [
+"Mainzer Schiffer und österreichische Pioniere",
+"Bonner Flößer und britische Ingenieure",
+"Koblenzer Fischer und bayerische Soldaten",
+"Kauber Schiffer und russische Pioniere"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die großen Rheinstädte liegen nahe, doch die Helfer kamen von vor Ort: Kauber Schiffer setzten die Vorhut über, russische Pioniere bauten eine Pontonbrücke aus 71 Pontons. Etwa 50.000 bis 60.000 Soldaten überquerten den Rhein. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, kaub.welterbe-mittelrheintal.de/tourismus/sehenswuerdigkeiten/uebersicht-sehenswuerdigkeiten",
+"faktencheck": "korrigiert",
+"id": "07-kaub/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kaub",
+"steckbrief": "Rund 800 Einwohner, 32 km südöstlich von Koblenz im engen Rheintal",
+"frage": "Wie viele Einwohner hat Kaub je Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 200",
+"200 bis unter 500",
+"500 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Kaub hat rund 58 Einwohner je Quadratkilometer. Die Gemarkung misst 13,05 Quadratkilometer, doch der Großteil sind steile, unbewohnte Hänge. Die rund 758 Einwohner drängen sich im schmalen Streifen am Rhein. Richtig war 1.",
+"quelle": "berechnet aus Einwohner (Wikidata, Stand 31.12.2025) und Fläche (Wikidata)",
+"faktencheck": "bestätigt",
+"id": "07-kaub/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kaub",
+"steckbrief": "Rund 800 Einwohner, 32 km südöstlich von Koblenz am Mittelrhein",
+"frage": "Was geschah am 10. März 1876 in Kaub?",
+"optionen": [
+"Ein Großbrand zerstörte die Altstadt",
+"Ein Bergsturz verschüttete Häuser",
+"Ein Hochwasser riss Häuser fort",
+"Ein Erdbeben erschütterte den Ort"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Am 10. März 1876 stürzte Schiefergeröll vom Hang auf Kaub herab und verschüttete Häuser; viele Menschen starben. Wer an Rheinhochwasser denkt, liegt nahe – am Mittelrhein eine ständige Gefahr. Doch diesmal kam das Unheil vom Hang. Richtig war 2.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/kaub.html",
+"faktencheck": "korrigiert",
+"id": "07-kaub/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kaub",
+"steckbrief": "Rund 800 Einwohner, 32 km südöstlich von Koblenz am Rhein",
+"frage": "Pfalzgraf Ruprecht I. erteilte Kaub 1368 ein Recht auf vier Jahre. Welches?",
+"optionen": [
+"Es durften Jahrmärkte abgehalten werden",
+"Wein durfte steuerfrei verkauft werden",
+"Es durften Silbermünzen geprägt werden",
+"Schiefer durfte abgabenfrei gebrochen werden"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wein und Schiefer liegen bei Kaub nahe, doch das Recht betraf die Münzprägung: Geprägt wurden Silberturnos, eine gängige Münzsorte, vermutlich auf der Burg über dem Ort. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte",
+"faktencheck": "bestätigt",
+"id": "07-kaub/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kaub",
+"steckbrief": "Rund 800 Einwohner, 32 km südöstlich von Koblenz am Mittelrhein",
+"frage": "Kauber Dachschiefer wurde bis 1972 abgebaut. Wofür nutzten ihn nachweislich schon die Römer?",
+"optionen": [
+"Sie verwendeten ihn für den Limesbau",
+"Sie verkleideten damit Tempel an der Mosel",
+"Sie deckten damit Thermen in der Provinz",
+"Sie befestigten damit Straßen am Niederrhein"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Thermen und Tempel klingen römisch, doch in Kaub diente der Schiefer einem militärischen Zweck: Die Römer verwendeten ihn nachweislich für den Limesbau. Urkundlich erwähnt sind die Gruben seit 1355, betrieben wurden sie bis 1972. Richtig war 1.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/kaub.html",
+"faktencheck": "bestätigt",
+"id": "07-kaub/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kaub",
+"steckbrief": "Rund 800 Einwohner, 32 km südöstlich von Koblenz",
+"frage": "Wer belagerte Kaub 1504 vergeblich 39 Tage lang?",
+"optionen": [
+"Es war der Erzbischof von Köln",
+"Es war der Herzog von Jülich",
+"Es war der Markgraf von Baden",
+"Es war der Landgraf von Hessen"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Viele Rheinherren stritten um Burgen und Zölle, doch 1504 war es Landgraf Wilhelm II. von Hessen, der Kaub 39 Tage belagerte. Trotz schwerer Geschütze blieb die Stadt uneinnehmbar. Der Chronist Trithemius nennt die mannhafte Verteidigung. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte",
+"faktencheck": "bestätigt",
+"id": "07-kaub/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "06-lorch",
+"anschluss": [
+"Lorch hat fünfmal so viele Einwohner wie Kaub.",
+"Kaub und Lorch werben gemeinsam mit Bacharach und Niederheimbach als „BaKaLoNi“."
+],
+"km_vom_vorigen": 5.7
+},
+{
+"slug": "08-st-goarshausen",
+"name": "St. Goarshausen",
+"lat": 50.15472,
+"lon": 7.71639,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Goarshausen",
+"steckbrief": "Rund 1.200 Einwohner, 24 km südöstlich von Koblenz am Rhein.",
+"frage": "Woher stammt der Name „Goarshausen\"?",
+"optionen": [
+"Von einer keltischen Flussgottheit",
+"Von einem fränkischen Adelssitz",
+"Von einem aquitanischen Mönch",
+"Von einem alten Wort für Fährhaus"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Adelsname oder eine Fährstelle – beides klingt am Rhein einleuchtend. Tatsächlich ließ sich im 6. Jahrhundert der Mönch Goar aus Aquitanien am Rhein nieder. Über seinem Grab entstand eine Klosteranlage, und die Siedlung „Husen\" trug fortan seinen Namen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/",
+"faktencheck": "bestätigt",
+"id": "08-st-goarshausen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "St. Goarshausen",
+"steckbrief": "Rund 1.200 Einwohner, Kleinstadt im engen Mittelrheintal, 24 km südöstlich von Koblenz.",
+"frage": "Wie groß ist die Gemarkung der Stadt?",
+"optionen": [
+"unter 3 km²",
+"3 bis unter 5 km²",
+"5 bis unter 7 km²",
+"7 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Im engen Rheintal vermutet man wenig Fläche. Doch zur Gemarkung gehören auch Hanglagen und die Ortsteile Wellmich, Ehrenthal und Heide. Die Stadt umfasst 7,06 km². Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "08-st-goarshausen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "St. Goarshausen",
+"steckbrief": "Rund 1.200 Einwohner, 24 km südöstlich von Koblenz am Mittelrhein.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Stadt erhielt Stadtrechte nach Frankfurter Vorbild.",
+"Die Fischer nannten den Salm „Gold des Rheins\".",
+"In Ehrenthal wurde Blei- und Silbererz abgebaut."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. „Gold des Rheins\" klingt nach einem naheliegenden Beinamen für einen wertvollen Fang. Doch die Fischer nannten den Lachs „Silber des Rheins\" – passend zum silbrigen Schuppenglanz. König Ludwig der Bayer verlieh die Stadtrechte 1324. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/",
+"faktencheck": "bestätigt",
+"id": "08-st-goarshausen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "St. Goarshausen",
+"steckbrief": "Rund 1.200 Einwohner, 24 km südöstlich von Koblenz in Rheinland-Pfalz.",
+"frage": "Wie hoch war die Wahlbeteiligung in der Verbandsgemeinde Loreley bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 80 %",
+"80 bis unter 88 %",
+"88 bis unter 94 %",
+"94 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In ländlichen Gebieten ist die Wahlbeteiligung oft überdurchschnittlich. In der Verbandsgemeinde Loreley lag sie bei der Bundestagswahl 2025 bei 85,4 %. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "08-st-goarshausen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Goarshausen",
+"steckbrief": "Rund 1.200 Einwohner, 24 km südöstlich von Koblenz am Mittelrhein.",
+"frage": "Was änderte sich 1993 am offiziellen Stadtnamen?",
+"optionen": [
+"Der Zusatz „am Rhein\" wurde ergänzt.",
+"Die Schreibweise wurde von „St.\" auf „Sankt\" geändert.",
+"Der Zusatz „Loreleystadt\" wurde vorangestellt.",
+"Der Name wurde in „Loreley\" umbenannt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. „Am Rhein\" wäre naheliegend, denn viele Rheinstädte tragen diesen Zusatz. Doch die Stadt wählte 1993 den offiziellen Namen „Loreleystadt Sankt Goarshausen\" – als Verweis auf den weltberühmten Felsen und die Loreley-Sage. Richtig war 3.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/sankt-goarshausen.html",
+"faktencheck": "bestätigt",
+"id": "08-st-goarshausen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "St. Goarshausen",
+"steckbrief": "Rund 1.200 Einwohner, 24 km südöstlich von Koblenz in Rheinland-Pfalz.",
+"frage": "In welchem Landkreis liegt St. Goarshausen?",
+"optionen": [
+"Rhein-Hunsrück-Kreis",
+"Westerwaldkreis",
+"Mayen-Koblenz",
+"Rhein-Lahn-Kreis"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Koblenz lässt an Mayen-Koblenz denken, doch St. Goarshausen liegt im Rhein-Lahn-Kreis. Dieser entstand 1969, als der alte Kreis Sankt Goarshausen aufgelöst wurde. Richtig war 4.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "08-st-goarshausen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Goarshausen",
+"steckbrief": "Rund 1.200 Einwohner, 24 km südöstlich von Koblenz am Mittelrhein.",
+"frage": "Welche Katastrophe traf die Stadt 1635 im Dreißigjährigen Krieg?",
+"optionen": [
+"Die Pest tötete den Großteil der Einwohner.",
+"Schwedische Truppen brannten die Altstadt nieder.",
+"Eine Sturmflut zerstörte Häuser am Rheinufer.",
+"Ein Bergsturz verschüttete Teile der Stadt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Angriff oder eine Naturkatastrophe wäre im Krieg denkbar. Doch 1635 wütete die Pest: 178 von rund 250 Einwohnern starben – mehr als zwei Drittel der Bevölkerung. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/",
+"faktencheck": "bestätigt",
+"id": "08-st-goarshausen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Goarshausen",
+"steckbrief": "Rund 1.200 Einwohner, 24 km südöstlich von Koblenz, überragt von der Burg Katz.",
+"frage": "Warum ließ Graf Wilhelm II. von Katzenelnbogen um 1360 die Burg Katz erbauen? RÜCKSEITE (unverändert, da dort nur „Graf Wilhelm\" ohne Numeral steht): Du hattest [Option] getippt. Ein Jagdsitz klingt plausibel über dem Rheintal. Doch als der Trierer Erzbischof Boemund II. ab 1356 die Burg Peterseck errichten ließ, antwortete Graf Wilhelm II. mit einer eigenen Burg – im Volksmund wurden beide zu „Katz und Maus\". Richtig war 2. Quelle: Gemeinde-Webseite, sankt-goarshausen.de/stadt-st-goarshausen/stadtteile/stadtteil-wellmich/ --- ## ÜBERSICHT - bestätigt: 1 (Karte 5) - korrigiert: 1 (Karte 8) - unsicher: 0 - gesperrt: 0 - Suchen insgesamt: 4",
+"optionen": [
+"Als Jagdsitz für die gräfliche Familie",
+"Als Reaktion auf eine Burg des Trierer Erzbischofs",
+"Zum Schutz einer neuen Handelsstraße",
+"Als Witwensitz für die Gräfinmutter"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Jagdsitz klingt plausibel über dem Rheintal. Doch als der Trierer Erzbischof Boemund II. ab 1356 die Burg Peterseck errichten ließ, antwortete Graf Wilhelm mit einer eigenen Burg – im Volksmund wurden beide zu „Katz und Maus\". Richtig war 2.",
+"quelle": "Gemeinde-Webseite, sankt-goarshausen.de/stadt-st-goarshausen/stadtteile/stadtteil-wellmich/",
+"faktencheck": "korrigiert",
+"id": "08-st-goarshausen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Goarshausen",
+"steckbrief": "Rund 1.200 Einwohner, Kleinstadt im engen Rheintal, 24 km südöstlich von Koblenz.",
+"frage": "Was musste in St. Goarshausen dem Eisenbahnbau um 1860 weichen?",
+"optionen": [
+"Die Stadtmauer wurde teilweise abgerissen.",
+"Der Marktplatz wich der Bahntrasse.",
+"Wohnhäuser im Obertal wurden abgebrochen.",
+"Die Pfarrkirche musste dem Bahnhof weichen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im engen Rheintal war kaum Platz für die Trasse. 16 Wohnhäuser im Obertal mussten dem Eisenbahnbau weichen. Rund um den neuen Bahnhof entstand dafür ein neues Geschäftsviertel. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/",
+"faktencheck": "bestätigt",
+"id": "08-st-goarshausen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Goarshausen",
+"steckbrief": "Rund 1.200 Einwohner, 24 km südöstlich von Koblenz am Rhein.",
+"frage": "Wozu diente der Viereckige Turm am Osttor bis ins 15. Jahrhundert?",
+"optionen": [
+"Er diente als Gefängnis für Schuldner.",
+"Er war ein Leuchtturm für die Schifffahrt.",
+"Er diente als Kornspeicher der Bürger.",
+"Er diente als Zollturm einer Adelsfamilie."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Turm am Stadttor könnte vieles gewesen sein. Die Grafen von Katzenelnbogen nutzten den Viereckigen Turm bis ins 15. Jahrhundert als Zollturm. Heute beherbergt er das Loreley-Museum mit einer Gläsersammlung aus drei Jahrhunderten. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, sankt-goarshausen.de/sehenswürdigkeiten/altstadt/gebäude/",
+"faktencheck": "korrigiert",
+"id": "08-st-goarshausen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "07-kaub",
+"anschluss": [
+"Kaub hat fast doppelt so viel Fläche wie St. Goarshausen, aber nur gut halb so viele Einwohner.",
+"Kaub und St. Goarshausen gehören beide zur Verbandsgemeinde Loreley."
+],
+"km_vom_vorigen": 8.1
+},
+{
+"slug": "09-braubach",
+"name": "Braubach",
+"lat": 50.27472,
+"lon": 7.64611,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Braubach",
+"steckbrief": "Rund 3.000 Einwohner, 10 km südöstlich von Koblenz am Rhein.",
+"frage": "Woher hat die Marksburg über Braubach ihren Namen?",
+"optionen": [
+"Sie wurde nach einem Marktrecht benannt.",
+"Sie trägt den Namen des Kapellenpatrons.",
+"Ein Markgraf hat sie nach sich benannt.",
+"Der Name verweist auf eine Grenzmark."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Weder Markt noch Grenzmark stehen hinter dem Namen: Die Burgkapelle war dem Evangelisten Markus geweiht, und von ihrem Patron ging der Name auf die ganze Burg über. Sie gilt als einzige unzerstörte Höhenburg am Mittelrhein. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Braubach",
+"faktencheck": "bestätigt",
+"id": "09-braubach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Braubach",
+"steckbrief": "Rund 3.000 Einwohner, 10 km südöstlich von Koblenz am Rhein.",
+"frage": "Auf welcher Höhe über dem Meer liegt Braubach?",
+"optionen": [
+"Unter 50 m",
+"50 bis unter 70 m",
+"70 bis unter 110 m",
+"110 m und höher"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Braubach liegt am rechten Rheinufer und damit nur wenig über dem Wasserspiegel. Je nach Quelle werden 70 oder 72 Meter angegeben. Wer an die Marksburg hoch über der Stadt denkt, schätzt leicht zu hoch. Richtig war 3.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "09-braubach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Braubach",
+"steckbrief": "Rund 3.000 Einwohner, am Mittelrhein südöstlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Stadtwappen zeigt einen Sechsstern und einen Halbmond.",
+"Silberbergbau sicherte einst den Haupterwerb.",
+"Die Philippsburg dient heute als Rathaus der Stadt."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Schloss als Rathaus klingt plausibel, doch die Philippsburg beherbergt das Europäische Burgeninstitut mit einer burgenkundlichen Bibliothek. Erbaut wurde sie 1568 bis 1571 von Landgraf Philipp II. von Hessen-Rheinfels als fürstliche Nebenresidenz. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Braubach",
+"faktencheck": "bestätigt",
+"id": "09-braubach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Braubach",
+"steckbrief": "Rund 3.000 Einwohner, Verbandsgemeinde Loreley am Mittelrhein.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei bei der Bundestagswahl 2025 in der Verbandsgemeinde Loreley?",
+"optionen": [
+"25 bis unter 35 %",
+"35 bis unter 45 %",
+"45 bis unter 55 %",
+"55 % und höher"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die CDU kam in der Verbandsgemeinde Loreley auf 32,2 Prozent der Zweitstimmen, gefolgt von der SPD mit 25 Prozent. Die Wahlbeteiligung lag bei 85,4 Prozent (Bundestagswahl 2025, amtliches Ergebnis). Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Stand 23.02.2025",
+"faktencheck": "bestätigt",
+"id": "09-braubach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Braubach",
+"steckbrief": "Rund 3.000 Einwohner, Rhein-Lahn-Kreis, 10 km südöstlich von Koblenz.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Braubach?",
+"optionen": [
+"KO",
+"MYK",
+"EMS",
+"WW"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Braubach gehört zum Rhein-Lahn-Kreis mit Sitz in Bad Ems – daher das Kennzeichen EMS. Die Nähe zu Koblenz legt KO nahe, doch die Kreisgrenze verläuft dazwischen. Richtig war 3.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "09-braubach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Braubach",
+"steckbrief": "Rund 3.000 Einwohner, am Mittelrhein südöstlich von Koblenz.",
+"frage": "Die Blei- und Silberhütte besteht seit 1691. Was wird dort heute verarbeitet?",
+"optionen": [
+"Kupfererz aus der Region wird verhüttet.",
+"Elektroschrott aus Haushalten wird verwertet.",
+"Rheinkies wird für den Straßenbau aufbereitet.",
+"Akkuschrott wird zu Metall verarbeitet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Blei- und Silberhütte besteht seit 1691 in Braubach. Heute verarbeitet der Betrieb Berzelius Metall dort Akkuschrott zu Sekundärblei. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Braubach",
+"faktencheck": "korrigiert",
+"id": "09-braubach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Braubach",
+"steckbrief": "Stadt am Mittelrhein, rund 3.000 Einwohner, nahe Koblenz.",
+"frage": "Die St. Barbarakirche stammt von 1276. Welche Funktion hatte ihr Nordwest-Turm ursprünglich?",
+"optionen": [
+"Er war ein Leuchtturm für die Schifffahrt.",
+"Er war ein Wehrturm der Stadtbefestigung.",
+"Er diente als Lager für das Stadtarchiv.",
+"Er war der Glockenturm des Marktplatzes."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Nordwest-Turm der Barbarakirche gehörte zur Stadtbefestigung und schützte Braubach als Wehrturm. 1526 wurde die Kirche reformiert; heute dient sie als evangelisches Gemeindezentrum. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Braubach",
+"faktencheck": "korrigiert",
+"id": "09-braubach/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Braubach",
+"steckbrief": "Rund 3.000 Einwohner, 10 km südöstlich von Koblenz am Rhein.",
+"frage": "Landgraf Johannes von Hessen-Braubach machte die Stadt zur fürstlichen Residenz. Wo wurde er geboren?",
+"optionen": [
+"Er kam in Braubach zur Welt.",
+"Er kam in Kassel zur Welt.",
+"Er kam in Marburg zur Welt.",
+"Er kam in Darmstadt zur Welt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Obwohl er den Titel „von Hessen-Braubach\" trug, wurde Johannes 1609 in Darmstadt geboren. Unter seiner Herrschaft war Braubach fürstliche Residenz. Er starb 1651 in Ems. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Braubach",
+"faktencheck": "bestätigt",
+"id": "09-braubach/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "08-st-goarshausen",
+"anschluss": [
+"St. Goarshausen und Braubach gehören beide zur Verbandsgemeinde Loreley.",
+"Braubach hat mehr als doppelt so viele Einwohner wie St. Goarshausen."
+],
+"km_vom_vorigen": 14.2
+},
+{
+"slug": "10-vallendar",
+"name": "Vallendar",
+"lat": 50.40028,
+"lon": 7.61722,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vallendar",
+"steckbrief": "Kleinstadt mit rund 9.000 Einwohnern, 6 km nordöstlich von Koblenz",
+"frage": "Wer ließ die Marienburg erbauen, in der heute die WHU sitzt?",
+"optionen": [
+"Ein Sohllederfabrikant war der Bauherr.",
+"Ein Weinbaron war der Bauherr.",
+"Ein preußischer General war der Bauherr.",
+"Der Trierer Erzbischof war der Bauherr."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Quirin Josef D'Ester, ein Sohllederfabrikant, ließ im 18. Jahrhundert die Marienburg erbauen. Am Rhein läge ein Weinbaron nahe, doch D'Ester verdiente sein Geld mit Leder. Heute ist das Haus Sitz der WHU. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/",
+"faktencheck": "korrigiert",
+"id": "10-vallendar/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Vallendar",
+"steckbrief": "Stadt am Rhein mit rund 9.000 Einwohnern, 6 km nordöstlich von Koblenz",
+"frage": "Wie viele Einwohner leben in Vallendar je Quadratkilometer?",
+"optionen": [
+"Unter 400",
+"400 bis unter 800",
+"800 bis unter 1.200",
+"1.200 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Auf gut 13 Quadratkilometern leben rund 9.000 Menschen – das ergibt etwa 684 Einwohner je Quadratkilometer. Für eine Kleinstadt nahe einer Großstadt ein mittlerer Wert. Richtig war 2.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "10-vallendar/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Vallendar",
+"steckbrief": "Kleinstadt mit rund 9.000 Einwohnern, 6 km nordöstlich von Koblenz",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Vallendar liegt direkt am linken Rheinufer.",
+"In Vallendar gibt es einen Plattpopo-Brunnen.",
+"Der Kaiser-Friedrich-Turm in Vallendar ist denkmalgeschützt."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Vallendar liegt am rechten Rheinufer. Wer weiß, dass Koblenz am linken Ufer liegt, kann folgern: Nordöstlich davon muss man den Rhein überqueren. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Vallendar",
+"faktencheck": "bestätigt",
+"id": "10-vallendar/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Vallendar",
+"steckbrief": "Kleinstadt mit rund 9.000 Einwohnern, 6 km nordöstlich von Koblenz",
+"frage": "Welche Partei war bei der Bundestagswahl 2025 in Vallendar zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"GRÜNE",
+"FDP",
+"SPD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die SPD erreichte 17,8 Prozent und lag deutlich vor AfD und Grünen mit je 12,3 Prozent. Die CDU führte mit 37,7 Prozent. Stand: Bundestagswahl 23. Februar 2025. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025, Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "10-vallendar/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vallendar",
+"steckbrief": "Kleinstadt mit rund 9.000 Einwohnern, 6 km nordöstlich von Koblenz",
+"frage": "Was bedeutet der Name Vallendar vermutlich?",
+"optionen": [
+"Der Name beschreibt fließendes Wasser und Sumpf.",
+"Er bedeutet „Tal des Wanderers\".",
+"Er steht für eine Burg über dem Fluss.",
+"Er leitet sich vom Namen Valentin ab."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Silbe „val\" steht vermutlich für „fließend\", „ndar\" für „sumpfiges Gelände\" – beides indogermanisch. Der keltische Ursprung wird um 700 bis 600 v. Chr. angenommen. „Valentin\" liegt nahe, passt aber nicht zur Sprachwissenschaft. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Vallendar",
+"faktencheck": "unsicher",
+"id": "10-vallendar/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Vallendar",
+"steckbrief": "Kleinstadt mit rund 9.000 Einwohnern, 6 km nordöstlich von Koblenz",
+"frage": "Welche Stadt ist Vallendars Partnerstadt?",
+"optionen": [
+"Beaune",
+"Cercy-la-Tour",
+"Moulins",
+"Charleville-Mézières"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Vallendars Partnerstadt heißt Cercy-la-Tour. Der französisch klingende Name verrät die Richtung. Die anderen Städte liegen zwar auch in Frankreich, sind aber nicht Vallendars Partner. Richtig war 2.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "10-vallendar/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vallendar",
+"steckbrief": "Kleinstadt und Wallfahrtsort mit rund 9.000 Einwohnern, 6 km nordöstlich von Koblenz",
+"frage": "Was stand am Anfang der Schönstatt-Bewegung, die 1914 in Vallendar begann?",
+"optionen": [
+"Es begann mit einer neu erbauten Kirche.",
+"Ein Pilgerhaus am Rhein war der Ausgangspunkt.",
+"Ein verfallenes Michaelskapellchen war der Ursprung.",
+"Eine Marienstatue am Wegrand gab den Anstoß."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Josef Kentenich gründete 1914 die Schönstatt-Bewegung an einem verfallenen Michaelskapellchen auf dem Berg Schönstatt. Eine große Kirche hätte man eher erwartet – doch gerade der bescheidene Anfang prägte die Geschichte. Heute ist Schönstatt ein internationaler Wallfahrtsort. Richtig war 3. ---",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Vallendar",
+"faktencheck": "korrigiert",
+"id": "10-vallendar/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vallendar",
+"steckbrief": "Kleinstadt mit rund 9.000 Einwohnern, 6 km nordöstlich von Koblenz",
+"frage": "In wessen Besitz ging der Deutschherrenhof 1810 über?",
+"optionen": [
+"Die Gemeinde Vallendar übernahm ihn.",
+"Die Familie Kretzer erwarb ihn.",
+"Das Erzbistum Trier erhielt ihn.",
+"Die preußische Krone zog ihn ein."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Seit 1810 gehört der Deutschherrenhof der Familie Kretzer. Von 1216 bis 1802 hatte ihn der Deutsche Orden besessen. Dass Preußen den Hof übernahm, liegt nahe – doch er ging in Privatbesitz über. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/",
+"faktencheck": "bestätigt",
+"id": "10-vallendar/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vallendar",
+"steckbrief": "Kleinstadt mit rund 9.000 Einwohnern, 6 km nordöstlich von Koblenz",
+"frage": "Zu wessen Ehren wurde die Kapelle in Mallendar 1682 erbaut?",
+"optionen": [
+"Sie wurde zu Ehren des heiligen Georg erbaut.",
+"Sie wurde zu Ehren des heiligen Nikolaus erbaut.",
+"Sie wurde zu Ehren des heiligen Antonius erbaut.",
+"Sie wurde zu Ehren der heiligen Barbara erbaut."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Kapelle wurde 1682 zu Ehren der heiligen Barbara errichtet. 1850 erneuerte man sie und weihte sie als Marienkapelle. Barbara als Patronin überrascht – sie gilt als Schutzpatronin der Bergleute. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/",
+"faktencheck": "bestätigt",
+"id": "10-vallendar/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vallendar",
+"steckbrief": "Kleinstadt mit rund 9.000 Einwohnern, 6 km nordöstlich von Koblenz",
+"frage": "Welche zwei Herrschaften zeigt das Vallendarer Stadtwappen?",
+"optionen": [
+"Es zeigt Sayn und Kurtrier.",
+"Es zeigt Preußen und Nassau.",
+"Es zeigt Berg und Jülich.",
+"Es zeigt Wied und Isenburg."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Wappen vereint den Sayn'schen Löwen und das Trierer Balkenkreuz – Symbole für das Territorium Sayn und Kurtrier. Preußen kommt im Wappen nicht vor, obwohl König Wilhelm II. es 1909 genehmigte. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Vallendar",
+"faktencheck": "unsicher",
+"id": "10-vallendar/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "09-braubach",
+"anschluss": [
+"Kreisgrenze: In Braubach steht EMS am Auto, in Vallendar MYK.",
+"Vallendar hat dreimal so viele Einwohner wie Braubach."
+],
+"km_vom_vorigen": 14.1
+}
+]
 }
 ]
 };

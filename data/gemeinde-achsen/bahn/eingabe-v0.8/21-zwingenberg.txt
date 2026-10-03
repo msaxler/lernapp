@@ -1,0 +1,333 @@
+ZIELORT: Zwingenberg (Stadt)
+LAGE: 17 km südlich von Darmstadt (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Zwingenberg (Bergstraße)
+
+GRUNDDATEN:
+  landkreis: Bergstraße  [dewiki Infobox]
+  bundesland: Hessen  [dewiki Infobox]
+  einwohner: 7183  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 5,66  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 1269  [berechnet aus Einwohner und Fläche]
+  kfz: HP (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 100 | 99  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2803515)]
+  naechste_grossstadt: Darmstadt, 17 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Wiesbaden, 48 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  ersterwaehnung: 1012  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  bahnhof: Bahnhof Zwingenberg (Bergstr)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 64673  [Wikidata P281]
+  vorwahl: 06251  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 30,1 %, SPD 18,3 %, GRÜNE 15,8 %, AfD 15,2 %, Die Linke 6,5 %, FDP 6,3 %; Wahlbeteiligung 88,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Sebastian Clever (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-03]
+  partnerstaedte: Pierrefonds, Brisighella, Tetbury, Eckartsberga  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT hoehe_m: Höhe des Orts (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT landkreis: Landkreis (Ersatz: Kennzeichen), A, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Bensheim (Stadt)
+  landkreis: Bergstraße  [dewiki Infobox]
+  einwohner: 40.848  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 57,83  [Wikidata P2046; Altbestand staedte.json]
+  kfz: HP (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 103 | 115 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2950978)]
+  naechste_grossstadt: Darmstadt, 21 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  ersterwaehnung: 765  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  bahnhof: Bahnhof Bensheim, Bahnhof Bensheim-Auerbach  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 31,5 %, SPD 16,6 %, GRÜNE 15,8 %, AfD 15,8 %, Die Linke 6,8 %, FDP 5,7 %; Wahlbeteiligung 85,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Emmendingen, Kenzingen, Herbolzheim, Lahr, Offenburg, Achern, Bühl, Baden-Baden, Rastatt, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Langen, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar
+
+FAKTEN (Zielort Zwingenberg):
+ID: 21-zwingenberg/001
+ENTITÄT: ort
+BEZEICHNUNG: Zwingenberg
+QUELLE: https://zwingenberg.de/de/kultur-tourismus/stadtgeschichte.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1012
+  erste_erwaehnung_form: locum getwinc
+  stadtrecht_verliehen: 1274
+  stadtrecht_verliehen_durch: König Rudolf von Habsburg
+  stadtrecht_mit: Marktrecht, Freiheit für Bürger
+  gehoerte_zu_obergrafschaft_katzenelnbogen: bis 1479
+  gehoerte_zu_landgrafschaft_hessen_darmstadt: ab 1479
+  dem_kreis_bensheim_angegliedert: 1832
+  gehoert_zum_landkreis_bergstraße: ab 1938
+  war_sitz_von: Amt, Oberamt (für zahlreiche umliegende Gemeinden)
+  benannt_nach: "Zwinge" (Engpass), da der Ort an einer Engstelle lag
+  strategische_bedeutung: Kontrolle der Kriegs- und Handelsstraße
+  urspruengliche_form: Wasserburg mit Wassergraben zum Kontrollieren des Engpasses
+  grund_entstehung: Lage am Gebirgshang, westlich Sumpf und Morast, Verkehr musste durch Nadelöhr
+  zerstoert_durch_brand: 1693
+  zerstoert_von: Truppen Ludwigs XIV.
+  ueberlebende_gebaeude_nach_brand_1693: 11 Häuser
+  ueberlebende_kirche: ja
+  beschreibung_historisch: uralte Stadt
+  superlativ: älteste Stadt an der Bergstraße
+  cittaslow_mitglied_seit: 17. März 2018
+GUELTIG_AB: 1012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 21-zwingenberg/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rodau
+ORTSTEIL_BEZUG: Rodau
+QUELLE: https://zwingenberg.de/de/kultur-tourismus/stadtgeschichte.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alte_schreibweise: Rod, Rodde
+  mundartname: Rorre
+  namensherkunft_bestandteile: Rod (gerodetes Land), Au (von Wasser umgebenes Land)
+  erste_urkundliche_erwaehnung: 782
+  erste_erwaehnung_ort: Kloster Lorsch Urkundenbuch
+  zweite_erwaehnung: 962
+  besiedlung_vermutlich_seit: 2500 v.Chr.
+  besiedlung_periode: jüngere Steinzeit
+  wurde_mainzisch: 1232
+  blieb_mainzisch_bis: 1802
+  kam_zu_landgrafschaft_hessen_darmstadt: 1802
+  einwohner_1668: 28
+  einwohner_1804: 110
+  einwohner_heute: ca. 1000
+  gemarkung_1668: hufeisenförmige Schlinge des alten Neckarbetts
+  eingemeindung_nach_zwingenberg: 31.12.1970
+  status_seit_eingemeindung: einziger Stadtteil der Stadt Zwingenberg
+GUELTIG_AB: 782
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 21-zwingenberg/003
+ENTITÄT: person
+BEZEICHNUNG: Johann Justus Winkelmann
+QUELLE: https://zwingenberg.de/de/kultur-tourismus/stadtgeschichte.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  werke: Geschichte des Hessenlands
+  beschreibung_zwingenbergs: uralte Stadt
+  zitat: "Wann oder durch wen diese Stadt erbaut wurde, hat man keine eigentliche Nachricht, daß sie aber eine uralte Stadt sei, schleußt man aus allen Umständen."
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 21-zwingenberg/004
+ENTITÄT: person
+BEZEICHNUNG: Kaiser Heinrich II.
+QUELLE: https://zwingenberg.de/de/kultur-tourismus/stadtgeschichte.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Verleihung Wildbann im Odenwald an Kloster Lorsch
+  aktion_jahr: 1012
+  aktion_grund: Geschenk an Lorscher Abt Poppo
+GUELTIG_AB: 1012
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 21-zwingenberg/005
+ENTITÄT: person
+BEZEICHNUNG: Graf Dieter V. von Katzenelnbogen
+QUELLE: https://zwingenberg.de/de/kultur-tourismus/stadtgeschichte.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Erhaubnis zum Bau einer Kirche mit Friedhof
+  aktion_jahr: 1258
+  aktion_begruendung: für "seine Stadt" (Zwingenberg)
+  aktion_genehmigt_durch: Mainzer Domkapitel
+GUELTIG_AB: 1258
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 21-zwingenberg/006
+ENTITÄT: person
+BEZEICHNUNG: König Rudolf von Habsburg
+QUELLE: https://zwingenberg.de/de/kultur-tourismus/stadtgeschichte.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Erhebung Zwingenbergs zur Stadt
+  aktion_jahr: 1274
+  aktion_privileien: Freiheit für Bürger, Marktrecht
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 21-zwingenberg/007
+ENTITÄT: kloster
+BEZEICHNUNG: Lorsch
+QUELLE: https://zwingenberg.de/de/kultur-tourismus/stadtgeschichte.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug_zu_zwingenberg: Erhalt Wildbann Odenwald (1012)
+  bezug_zu_rodau: Urkundliche Erwähnungen (782, 962), Grundbesitz
+  hat_urkundenbuch: Codex Laureshamensis (Lorscher Codex)
+  fiel_an_erzbistum_mainz: 1232
+GUELTIG_AB: 1012
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 21-zwingenberg/008
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Zwingenbergs (allgemein)
+QUELLE: https://zwingenberg.de/de/kultur-tourismus/stadtgeschichte.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau_genehmigt: 1258
+  bau_genehmigt_durch: Mainzer Domkapitel
+  bau_fuer: Graf Dieter V. von Katzenelnbogen (seine Stadt)
+  mit_friedhof: ja
+  ueberstand_brand_1693: ja
+GUELTIG_AB: 1258
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 21-zwingenberg/009
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirche
+QUELLE: https://zwingenberg.de/de/buergerservice/kirchen.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Heidelberger Straße 18, 64673 Zwingenberg
+  pfarramt_telefon: 06251 - 71229
+  pfarramt_fax: 06251 - 74335
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 21-zwingenberg/010
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirchengemeinde
+QUELLE: https://zwingenberg.de/de/buergerservice/kirchen.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Darmstädter Straße 22, 64673 Zwingenberg
+  pfarrer: Christian Hilsberg
+  vorsitzende_kirchenvorstand: Claudia Willbrand
+  gemeindebüro_telefon: 06251 - 75844
+  gemeindebüro_fax: 06251 - 75836
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 21-zwingenberg/011
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum Zwingenberg
+QUELLE: https://zwingenberg.de/de/kultur-tourismus/heimatmuseum.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Scheuergasse 11, 64673 Zwingenberg
+  telefon: 06251 - 788297
+  betreuung_durch: Geschichtsverein Zwingenberg 1971 e.V.
+  zielsetzung: Bewahrung heimatlicher Kultur der Stadt Zwingenberg und seiner Einwohner aus vergangenen Zeiten
+  ausstellungsthemen: Bürgerliche Kultur, Handwerksberufe, Alltag
+  exponate_arbeitsstuben: Küferwerkstatt, Schmiede, Schuhmacherwerkstatt, Backstube, Schlachtküche, Amtszimmer
+  exponate_wohnraeume: Bürgerstube, Bauernküche
+  exponate_schule: Schulzimmer
+  sammlungen: Zwingenberger Ansichtskarten, Puppenstuben, historische Figuren
+  exponate_waffen: Waffensammlung
+  oeffnungszeit_saison_von: 1. April
+  oeffnungszeit_saison_bis: 31. Oktober
+  oeffnungszeit_wochentage: Sonn- und Feiertags
+  oeffnungszeit_uhrzeit: 14:30 - 17:30 Uhr
+  eintritt: kostenlos
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 21-zwingenberg/012
+ENTITÄT: verein
+BEZEICHNUNG: Geschichtsverein Zwingenberg 1971 e.V.
+QUELLE: https://zwingenberg.de/de/kultur-tourismus/heimatmuseum.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreuung: Heimatmuseum Zwingenberg
+  gruendungsjahr: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 21-zwingenberg/013
+ENTITÄT: person
+BEZEICHNUNG: Dr. Holger Habich
+QUELLE: https://zwingenberg.de/de/blog/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Bürgermeister
+  rolle_gueltig_bis: 2024
+  leitung_arbeitskreis: Cittaslow (bis Ausscheiden)
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 21-zwingenberg/014
+ENTITÄT: person
+BEZEICHNUNG: Cora Bügenburg
+QUELLE: https://zwingenberg.de/de/blog/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Leitung Arbeitskreis Cittaslow
+  rolle_seit: Dezember 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 21-zwingenberg/015
+ENTITÄT: person
+BEZEICHNUNG: Christine Bruegel
+QUELLE: https://zwingenberg.de/de/blog/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Ansprechpartnerin Cittaslow im Rathaus
+  rolle_seit: Dezember 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 21-zwingenberg/016
+ENTITÄT: person
+BEZEICHNUNG: Marc-André Kaltwasser
+QUELLE: https://zwingenberg.de/de/blog/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Koch
+  restaurant: Kaltwassers Wohnzimmer
+  praesentation: Buch "Rezepte für eine lebenswerte Stadt" (pmv-Verlag)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 21-zwingenberg/017
+ENTITÄT: arbeitskreis
+BEZEICHNUNG: Arbeitskreis Cittaslow
+QUELLE: https://zwingenberg.de/de/blog/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadt: Zwingenberg
+  leitung_aktuell: Cora Bügenburg
+  ansprechpartnerin_rathaus: Christine Bruegel
+  projekte: Tag der offenen Gärten, Stadtwein, Naturkundlicher Lehrpfad, Kunstprojekt im Weinberg, Rodauer Herbstmarkt, Ostermarkt, Nachhaltigkeits-Check kommunaler Entscheidungen
+  mitgliederstand: Offen für neue Mitstreiter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 21-zwingenberg/018
+ENTITÄT: buch
+BEZEICHNUNG: Rezepte für eine lebenswerte Stadt
+QUELLE: https://zwingenberg.de/de/blog/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verlag: pmv-Verlag
+  verlagsleiterin: Annette Sievers
+  publikation_jahr: 2023
+  inhalt: 23 Portraits Städte, 23 nachhaltige Projekte, 23 Rezepte aus den Regionen
+  zwingenberg_beschreibung: älteste Stadt an der Bergstraße
+  dargestellt: Restaurant "Kaltwassers Wohnzimmer" (Marc-André Kaltwasser)
+  preis: 20 Euro
+  material: öko-zertifiziertes Papier
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 21-zwingenberg/019
+ENTITÄT: quelle_historisch
+BEZEICHNUNG: Codex Laureshamensis (Lorscher Codex)
+QUELLE: https://zwingenberg.de/de/kultur-tourismus/stadtgeschichte.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betrifft: Zwingenberg, Rodau
+  inhalt_zwingenberg: Erste urkundliche Erwähnung (1012)
+  inhalt_rodau: Erwähnung im Urkundenbuch des Klosters Lorsch (782)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 21-zwingenberg/020
+ENTITÄT: ereignis
+BEZEICHNUNG: Brand und Zerstörung Zwingenbergs
+QUELLE: https://zwingenberg.de/de/kultur-tourismus/stadtgeschichte.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1693
+  ursache: Truppen des Franzosenkönigs Ludwig XIV.
+  beschreibung: Über Nacht wurde der größte Teil der Häuser in Schutt und Asche gelegt
+  vergleich: Zwingenberg brannte wie ein Scheiterhaufen
+  uebergebliebene_gebaeude: 11 Häuser auf dem Berg
+  uebergebliebene_kirche: ja
+GUELTIG_AB: 1693
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+

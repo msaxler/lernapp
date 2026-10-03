@@ -1,0 +1,601 @@
+ID: 19-heppenheim/001
+ENTITÄT: ort
+BEZEICHNUNG: Heppenheim
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 28000, genauigkeit: "ca."
+  rang_in_kreis_bergstrasse: 4. Größte
+  ist_kreisstadt: true
+  ist_suedlichste_kreisstadt_hessens: true
+  flaeche_gemarkung: 52, einheit: "km²"
+  ortsteile: Erbach, Hambach, Igelsbach, Kirschhausen, Ober-Laudenbach, Mittershausen-Scheuerberg, Sonderbach, Wald-Erlenbach
+  erstwort_jahr: 755
+  erstwort_quelle: Lorscher Codex
+  erstwort_form: Schenkungsurkunde des Marcharius vom 17. Juli 755
+  besiedelt_seit: Jungsteinzeit
+  roemische_herrschaft_seit: 1. Jahrhundert n.Chr.
+  fraenkische_eroberung_erste: Mitte 5. Jahrhundert
+  fraenkische_herrschaft_nachhaltig_seit: Ende 7. Jahrhundert
+  karlsgroße_schenkung_jahr: 773
+  karlsgroße_objekt: Mark Heppenheim
+  karlsgroße_empfaenger: Reichsabtei Lorsch
+  stadtrecht_ca_jahr: 1318
+  stadtrecht_beleg: Stadtsiegel von 1318
+  stadtmauer_tore: 3
+  unter_kurmainz_seit: 1232
+  unter_pfalz_1461_bis: 1623
+  reichsdeputationshauptschluss_jahr: 1803
+  teil_hessen_darmstadt_seit: 1803
+  teil_großherzogtum_hessen_seit: 1806
+  bahnhof_bauzeit: 1845-1846
+  elektrizitaet_eingefuehrt_ca: 1900
+  telefon_eingefuehrt_ca: 1900
+  synagoge_erbaut_ca: 1900
+  hessentag_jahr: 2004
+  jahrestag_1250_jahre: 2005
+  kriegsende_zweiter_weltkrieg_datum: 27. März 1945
+  kriegsende_us_einmarsch: true
+  zivile_kriegsverluste: 15
+  teil_amerikanische_besatzungszone_seit: 1945
+  gebietsreform_eingemeindungen: 1971-1972
+GUELTIG_AB: 755
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 19-heppenheim/002
+ENTITÄT: kirche
+BEZEICHNUNG: St. Peter
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstwort_jahr: 755
+  erstwort_quelle: Lorscher Codex
+  erstwort_form: Schenkungsurkunde des Marcharius
+  gebaeude_alter: eines der ältesten Gebäude der Heppenheimer Altstadt
+  nord_turm: ja, älteste Bauteile
+GUELTIG_AB: 755
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 19-heppenheim/003
+ENTITÄT: burg
+BEZEICHNUNG: Starkenburg
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Berg Burcheldon
+  erbaut_jahr: 1065
+  erbaut_grund: Schutz der Lorscher Besitzungen / Auseinandersetzung um Kloster Lorsch
+  erbaut_initiator: Abt Udalrich der Reichsabtei Lorsch
+  erste_belagerung_jahr: Januar 1066
+  erste_belagerung_durch: Erzbischof Adalbert von Bremen
+  erste_belagerung_ergebnis: erfolgreich wehrt ab
+  unter_mainzer_erzbischoef_seit: Anfang 13. Jahrhundert
+  erwerb_mainz_jahr: 1232
+  erwerb_mainz_durch: Erzbischof Siegfried III.
+  administratives_zentrum_seit: 1232
+  amt_name_seit: 1265
+  amt_name: Amt Starkenburg
+GUELTIG_AB: 1065
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 19-heppenheim/004
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kurmainzer Amtshof
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_ursprung: Sitz der kurfürstlichen Verwaltung
+  funktion_heute: Museum, Ostdeutsche Kultur- und Heimatstuben, Kurmainzer Amtshof
+  lage: Rand der Altstadt
+  brand_zerstoerung_jahr: 1369
+  wiederaufbau_bis: Ende 14. Jahrhundert
+  alter_gebauede: eines der ältesten Gebäude der Altstadt
+  kurfuerstensaal: vorhanden, mit gotischen Engelsfresken
+  saal_fresco_entstehung: Zeit des Wiederaufbaus (14./15. Jahrhundert)
+  saal_wandmalereien: Renaissance
+  saal_kapelle: ja
+  saal_wappensaal: ja
+  lage_bergstrasse_weinmarkt: ja, Kulisse des Weinmarktes
+GUELTIG_AB: 14. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 19-heppenheim/005
+ENTITÄT: ereignis
+BEZEICHNUNG: Stadtbrand von 1369
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1369
+  auswirkung: verheerend
+  zerstoerungen: Amtshof und die meisten Häuser der Stadt
+GUELTIG_AB: 1369
+GUELTIG_BIS: 1369
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 19-heppenheim/006
+ENTITÄT: ereignis
+BEZEICHNUNG: Heppenheimer Versammlung
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 10. Oktober 1847
+  ort: Gasthof Halber Mond
+  initiator: David Hansemann
+  initiator_herkunft: Aachen
+  initiator_beruf: Kaufmann und Politiker
+  teilnehmer: prominente Abgeordnete aus fünf deutschen Staaten
+  ziel: Beratung über gemeinsames Vorgehen zur Herstellung der deutschen Einheit
+  historische_bedeutung: Meilenstein auf dem Weg zur Nationalversammlung Frankfurter Paulskirche 1848
+  superlativ: Meilenstein der deutschen Demokratiegeschichte
+GUELTIG_AB: 1847
+GUELTIG_BIS: 1847
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 19-heppenheim/007
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gasthof Halber Mond
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geschichte_seit: 17. Jahrhundert
+  bedeutendes_ereignis: Heppenheimer Versammlung 10. Oktober 1847
+  status_heute: noch bestehend
+GUELTIG_AB: 17. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 19-heppenheim/008
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bahnhof Heppenheim
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekt: Georg Moller aus Darmstadt
+  bauzeit: 1845-1846
+  anlass_erbauung: Inbetriebnahme der Main-Neckar-Bahnstrecke Frankfurt-Heidelberg
+  historische_bedeutung: Beginn des Eisenbahn-Zeitalters für Kreisstadt an wichtiger Nord-Süd-Achse
+GUELTIG_AB: 1846
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 19-heppenheim/009
+ENTITÄT: institution
+BEZEICHNUNG: Großherzogliche Landesirrenanstalt bei Heppenheim
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung_jahr: 1866
+  typ: psychiatrische Anstalt
+  zeit_19_jh: 1866
+GUELTIG_AB: 1866
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 19-heppenheim/010
+ENTITÄT: gebaeude
+BEZEICHNUNG: Synagoge Heppenheim
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_ca_jahr: 1900
+  standort: Starkenburgweg
+  zerstoerung_datum: 10. November 1938
+  zerstoerung_ereignis: Reichspogromnacht
+  zerstoerung_form: Brand, Zerstörung
+  genauigkeit: "die neue Synagoge"
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 19-heppenheim/011
+ENTITÄT: organisation
+BEZEICHNUNG: NSDAP Ortsgruppe Heppenheim
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1927, genauigkeit: "vermutlich"
+  gruendung_hinweis: "soll bereits 1927 gegründet worden sein"
+  waehlerverhaeltnis: Heppenheimer Stimmenanteil weit unter Kreisebene
+  machtuebernahme_jahr: ab 1933
+  verwaltung_uebernahme: widerstandslos
+GUELTIG_AB: 1927
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 19-heppenheim/012
+ENTITÄT: person
+BEZEICHNUNG: Karl Schiffers
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Bürgermeister
+  amtsbeginn_jahr: 1925
+  partei_initial: Zentrumspartei
+  partei_wechsel_jahr: Mai 1933
+  partei_neu: NSDAP
+  amtsende: 1937
+GUELTIG_AB: 1925
+GUELTIG_BIS: 1937
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 19-heppenheim/013
+ENTITÄT: person
+BEZEICHNUNG: Dr. Walter Köhler
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Bürgermeister
+  amtsbeginn: 1937
+  charakterisierung: linientreu (NSDAP-konform)
+  amtsende: ca. 1945
+GUELTIG_AB: 1937
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 19-heppenheim/014
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Schmeel
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Direktor Psychiatrie Heppenheim
+  partei: NSDAP- und SA-Mitglied
+  amtsbeginn: 1933
+GUELTIG_AB: 1933
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 19-heppenheim/015
+ENTITÄT: ereignis
+BEZEICHNUNG: Reichspogromnacht Heppenheim
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 10. November 1938
+  ort_stadt: Heppenheim
+  ereignisse: Brandschatzung Synagoge am Starkenburgweg, Transport jüdischer Männer in Konzentrationslager
+GUELTIG_AB: 1938
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 19-heppenheim/016
+ENTITÄT: institution
+BEZEICHNUNG: Spruchkammer Bergstraße
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitz: Heppenheim
+  funktion: Entnazifizierung der Gemeinden des Landkreises Bergstraße
+  rechtsgrundlage: Gesetz zur Befreiung von Nationalsozialismus und Militarismus (März 1946)
+  arbeitsbeginn: Mitte Mai 1946
+  verfahrensart: Nachweis der Nichtverstrickung erforderlich
+  aufloesung: Ende September 1948
+  gesamtzahl_kreis_darmstadt: eine von 14 Spruchkammern im Regierungsbezirk
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1948
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 19-heppenheim/017
+ENTITÄT: organisation
+BEZEICHNUNG: Stadtwerke Heppenheim
+QUELLE: https://www.heppenheim.de/buergerservice-rathaus/stadtwerke/historie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Eigenbetrieb der Kreisstadt
+  gruendungsidee_zeitpunkt: Ende 1970er Jahre
+  gruendungsbeschluss: November 1983 (Ortsbeiräte stimmen zu)
+  eroeffnung: Januar 1985
+  erster_betriebsleiter: Wolfgang Kreilinger
+  vorreiter_bundesweit: einer der ersten hessischen Gemeinden
+  vorreiter_regional: Vorreiter im Kreis Bergstraße
+  funktionen: Wasserversorgung, Abwasserbeseitigung
+  expansion_2002: Bedürfnisanstalten und Schwimmbad
+  innovation_1985_1988: biologisches Abwasseraufbereitungsverfahren (Vorreiter im Umkreis)
+  innovation_2000: Fernwirktechnik für Wasserversorgung und Wasserwerk
+  innovation_2001_2004: 3. Reinigungsstufe Kläranlage
+  innovation_2009: Blockheizkraftwerk zur Klärgas-Energienutzung
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 19-heppenheim/018
+ENTITÄT: institution
+BEZEICHNUNG: Stadtbücherei Heppenheim
+QUELLE: https://www.heppenheim.de/leben-in-heppenheim/stadtbuecherei/chronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung_gruendung: 1959 (Kreisbücherei Bergstraße)
+  traeger_1959_1994: Landkreis Bergstraße
+  krise_1994: Landkreis steigt aus, IG Bücherei setzt sich für Fortbestand ein
+  traeger_ab_1995: Kreisstadt Heppenheim (Alleinträger)
+  name_ab_1995: Stadtbücherei Heppenheim
+  gebaeude_denkmalschutz: ja
+  gebaeude_jahr: 1906
+  gebaeude_stil: Jugendstil
+  gebaeude_ursprung: Großherzogliches Hessisches Finanzamt
+  jubilaeum_10_jahre: 2005
+  jubilaeum_15_jahre: 2010
+  jubilaeum_20_jahre: 22. April 2015
+  online_katalog_seit: 18. März 2010
+  100000_entleihungen_erreicht: 2010
+  bibliotheksportal_bergstrasse_start: 27. Oktober 2010
+  onleihe_verbund_seit: 2013 (Hessischer OnLeihe-Verbund)
+  onleihe_bestand_ca: 40000 E-Books
+  emedia_anteil_2016: 10%
+  emedia_anteil_2022: 22%
+  emedia_anteil_2024: 19.5%
+  emedia_anteil_2025: 18.8%
+  gebuehreneinfuehrung: Juni 2003
+  barcode_leseausweise_seit: 1997
+  pc_verbuchung_seit: 1997
+GUELTIG_AB: 1995 (als Stadtbücherei)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 19-heppenheim/019
+ENTITÄT: ereignis
+BEZEICHNUNG: Kommunale Gebietsreform Hessen
+QUELLE: https://www.heppenheim.de/pdf/heppenheim-erleben/stadtgeschichte/2021-respectamus.pdf?cid=4nm | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_bundesweit: Mitte 1960er Jahre bis Ende 1970er Jahre
+  zeitraum_hessen_final: 1. Januar 1977
+  gemeinden_vorher_hessen: 2642
+  landkreise_vorher_hessen: 39
+  kreisfreie_stadte_vorher_hessen: 9
+  gemeinden_nachher_hessen: 416
+  landkreise_nachher_hessen: 20
+  kreisfreie_stadte_nachher_hessen: 6
+  heppenheim_eingemeindungen: Erbach, Hambach, Kirschhausen mit Igelsbach, Sonderbach, Mittershausen-Scheuerberg, Ober-Laudenbach, Wald-Erlenbach
+  eingemeindung_mittershausen_scheuerberg: 1. Juli 1971
+  eingemeindung_hambach_ober_laudenbach: 31. Dezember 1971
+  eingemeindung_erbach_kirschhausen_igelsbach_sonderbach_wald_erlenbach: 1. Februar 1972
+  einwohnerzahl_vorher_heppenheim: 17446
+  einwohnerzahl_nachher_gesamt: 23284
+  einwohnerzahl_zugewinn: 5838
+GUELTIG_AB: 1970er Jahre
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 19-heppenheim/020
+ENTITÄT: person
+BEZEICHNUNG: Martin Buber
+QUELLE: https://www.heppenheim.de/pdf/heppenheim-erleben/tourismus/broschueren/28-hp-historical-centre.pdf?cid=28y | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Philosoph
+  religion: Jüdisch
+  wohnort: Heppenheim
+  wohnzeit: 1916-1938
+  emigration_grund: Nazi-Diktatur
+GUELTIG_AB: 1916
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 19-heppenheim/021
+ENTITÄT: gebaeude
+BEZEICHNUNG: Martin-Buber-Haus
+QUELLE: https://www.heppenheim.de/pdf/heppenheim-erleben/tourismus/broschueren/28-hp-historical-centre.pdf?cid=28y | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bewohner_bekannt: Martin Buber
+  funktion_ursprung: Wohnhaus des Philosophen Martin Buber
+  funktion_seit_1978: Sitz des International Council of Christians and Jews
+GUELTIG_AB: 1916
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 19-heppenheim/022
+ENTITÄT: gebaeude
+BEZEICHNUNG: Freilichtbühne (Open Air Theatre)
+QUELLE: https://www.heppenheim.de/pdf/heppenheim-erleben/tourismus/broschueren/28-hp-historical-centre.pdf?cid=28y | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_jahr: 1955
+  erbaut_anlass: 1200-Jahres-Jubiläum der Stadt
+  form: Terraced half round stage
+  kapazitaet_normal: 2500
+  kapazitaet_maximal: 6000
+  lage_erreichbarkeit: wenige Gehminuten vom Marktplatz
+  ausblick: Starkenburg castle
+  nutzung: Konzerte, Theateraufführungen, Opern, Operetten
+GUELTIG_AB: 1955
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 19-heppenheim/023
+ENTITÄT: institution
+BEZEICHNUNG: Museum Heppenheim
+QUELLE: https://www.heppenheim.de/leben-in-heppenheim/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Kurmainzer Amtshof
+  gebaeude_grundung: 13./14. Jahrhundert
+  gebaeude_fruehe_bauphasen: bis ins 13./14. Jahrhundert zurückzuverfolgen
+  gebaeude_geschichte: ehemaliger Verwaltungssitz der Kurmainzer Erzbischöfe
+  vorlaeufer_1: Volkskundemuseum Bergstraße-Odenwald Ried (ab 1958)
+  vorlaeufer_2: Heimatmuseum (gegründet 1987)
+  zusammenfuehrung_jahr: 1995
+  name_1995_2019: Museum für Stadtgeschichte und Volkskunde
+  name_seit_2020: Museum Heppenheim
+  neukonzeption_jahr: 2020
+  ausstellung_hauptthema: Stadtgeschichte Heppenheim
+  bauteile_alt: Saalbau (ältester Teil) mit Kurfürstensaal
+  kurfuerstensaal_dekoration: gotische Engelsfresken, Renaissancemalereien
+  kurfuerstensaal_raeume: Kapelle, Wappensaal
+  angebote: Führungen Gebäudekomplex, Schaumagazin, Sonderausstellungen, Vorträge, Lesungen, Schulprogramme
+GUELTIG_AB: 1995 (Museum), 2020 (neuer Name und Konzept)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 19-heppenheim/024
+ENTITÄT: organisation
+BEZEICHNUNG: Heppenheimer Geschichtsverein e.V.
+QUELLE: https://www.heppenheim.de/strukturierte-daten/organisationen/vereine/gemeldetet-vereine/heppenheimer-geschichtsverein-e-v/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kategorie: Kultur
+  zweck_1: Erforschung der Geschichte der Stadt, ihrer Stadtteile und ihrer Umgebung
+  zweck_2: Pflege und Förderung der Denkmalpflege
+  ansprechpartner: Prof. Dr. Karl Härter
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 19-heppenheim/025
+ENTITÄT: institution
+BEZEICHNUNG: Ostdeutsche Kultur- und Heimatstuben Heppenheim
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Kurmainzer Amtshof
+  eroeffnung_datum: 17. Juni 1986
+  zweck: Ort der Begegnung und Erinnerung an verlorene Heimat (Heimatvertriebene)
+  sonderraum: Schönbacher Stube
+  status_heute: fester Bestandteil des historischen und kulturellen Erbes der Stadt
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 19-heppenheim/026
+ENTITÄT: kirche
+BEZEICHNUNG: Erscheinung des Herren (Hl. Marianne Cope)
+QUELLE: https://www.heppenheim.de/leben-in-heppenheim/kirchengemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Katholisch
+  pfarrei: Hl. Marianne Cope - Katholische Kirche Heppenheim
+  ort_hauptkirche: Heppenheim
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 19-heppenheim/027
+ENTITÄT: kirche
+BEZEICHNUNG: St. Bartholomäus
+ORTSTEIL_BEZUG: Kirschhausen
+QUELLE: https://www.heppenheim.de/leben-in-heppenheim/kirchengemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Katholisch
+  pfarrei: Hl. Marianne Cope
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 19-heppenheim/028
+ENTITÄT: kirche
+BEZEICHNUNG: St. Michael
+ORTSTEIL_BEZUG: Hambach
+QUELLE: https://www.heppenheim.de/leben-in-heppenheim/kirchengemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Katholisch
+  pfarrei: Hl. Marianne Cope
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 19-heppenheim/029
+ENTITÄT: kirche
+BEZEICHNUNG: Christuskirche
+QUELLE: https://www.heppenheim.de/leben-in-heppenheim/kirchengemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Evangelisch
+  ort: Heppenheim
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 19-heppenheim/030
+ENTITÄT: kirche
+BEZEICHNUNG: Heilig-Geist-Kirche
+QUELLE: https://www.heppenheim.de/leben-in-heppenheim/kirchengemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Evangelisch
+  ort: Heppenheim
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 19-heppenheim/031
+ENTITÄT: institution
+BEZEICHNUNG: Mutterhaus der Vinzentinerinnen
+QUELLE: https://www.heppenheim.de/leben-in-heppenheim/kirchengemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  orden: Barmherzige Schwestern des Hl. Vinzenz von Paul
+  aktivitaeten: Seelsorge, Pflege, Unterkunft (Gästezimmer)
+  address: Kalterer Str. 3, 64646 Heppenheim
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 19-heppenheim/032
+ENTITÄT: kirche
+BEZEICHNUNG: Mosaic Heppenheim - Evangelische Freikirche e.V.
+QUELLE: https://www.heppenheim.de/leben-in-heppenheim/kirchengemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Evangelisch Freikirche
+  verband: Bund Freikirchlicher Pfingstgemeinden KdöR
+  address: Odenwaldstraße 11, 64646 Heppenheim
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 19-heppenheim/033
+ENTITÄT: kirche
+BEZEICHNUNG: Neuapostolische Kirche
+QUELLE: https://www.heppenheim.de/leben-in-heppenheim/kirchengemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Neuapostolisch
+  kirchenbezirk: Weinheim/Mannheim
+  diozese: Neuapostolische Kirche Süddeutschland, K.d.ö.R.
+  address: Königsberger Str. 5, 64646 Heppenheim
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 19-heppenheim/034
+ENTITÄT: person
+BEZEICHNUNG: David Hansemann
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Kaufmann und Politiker
+  herkunftsort: Aachen
+  aktivitaet: Initiator der Heppenheimer Versammlung
+  aktivitaet_datum: 10. Oktober 1847
+GUELTIG_AB: 1847
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 19-heppenheim/035
+ENTITÄT: person
+BEZEICHNUNG: Georg Moller
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Architekt
+  herkunftsort: Darmstadt
+  werk: Bahnhof Heppenheim
+  werk_bauzeit: 1845-1846
+GUELTIG_AB: 1845
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 19-heppenheim/036
+ENTITÄT: publication
+BEZEICHNUNG: Lorscher Codex
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: eines der für die mitteleuropäische Historiographie und Topographie wichtigsten Quellenwerke
+  inhalt: dokumentiert den Grundbesitz der Reichsabtei Lorsch gegen Ende des 12. Jahrhunderts
+  heppenheim_erstwort: 17. Juli 755
+  heppenheim_erstwort_form: Schenkungsurkunde
+  heppenheim_erstwort_geber: Marcharius aus Weinheim
+  heppenheim_erstwort_gegenstand: Stadt und Kirche St. Peter
+GUELTIG_AB: 755
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 19-heppenheim/037
+ENTITÄT: institution
+BEZEICHNUNG: Reichsabtei Lorsch
+QUELLE: https://www.heppenheim.de/heppenheim-erleben/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: bedeutende Reichsabtei
+  besitz_heppenheim_seit: 755 (Schenkung)
+  besitz_heppenheim_bestaetigung: 773 Karl der Große
+  besitz_heppenheim_form: Mark Heppenheim
+  initiatoren_burg: Abt Udalrich (Starkenburg 1065)
+  niedergang: Anfang 13. Jahrhundert
+  nachfolger_verwaltung: Mainzer Erzbistum (seit 1232)
+GUELTIG_AB: 755
+GUELTIG_BIS: 1232
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92

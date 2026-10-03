@@ -1,0 +1,195 @@
+ENTITÄT: ort
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichten-2022/wallufs-gaertnerei-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_aelteste_weinbaugemeinde_des_rheingaus: true
+  superlativ: "älteste Weinbaugemeinde des Rheingaus"
+  blumenstadt_weltruf_vor_jahren: 100
+  hat_ortsteil: Oberwalluf
+  hat_ortsteil: Niederwalluf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Wallufer Blumenviertel
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichten-2022/wallufs-gaertnerei-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strasse_1: Rosenstraße
+  strasse_2: Iris-weg
+  strasse_3: Sonnenblumenweg
+  grund_fuer_namensgebung: Blumenanbau durch Gärtnereien im frühen 20. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gaertnerei
+BEZEICHNUNG: Goos & Koenemann
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichten-2022/wallufs-gaertnerei-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ansaessig_seit: 1887
+  standort: Walluf
+  nachfolger: Erfurter Samenzucht
+  abriss_jahr: 2020
+  gedenkstein_gruender: Max Joseph Goos für August Koenemann
+GUELTIG_AB: 1887
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infotafel
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichten-2022/wallufs-gaertnerei-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Wallufer Gärtnerei-Geschichte
+  errichtet_monat_jahr: Mitte Februar 2022
+  standort: Grünfläche Eichelgarten/Obere Martinsthaler Straße
+  ersteller: Herbert Ujma (Heimatarchivar)
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: publikation
+BEZEICHNUNG: Verlorene und erhaltene Pracht in Walluf
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichten-2022/wallufs-gaertnerei-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Sonderausgabe 2022 der Beiträge zur Wallufer Ortsgeschichte
+  herausgeber: Heimatarchiv der Gemeinde Walluf
+  federführung: Herbert Ujma
+  teil_1: Geschichte der Gärtnereien
+  teil_2: Erweiterte Villenviertel-Visite
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+ORTSTEIL_BEZUG: Oberwalluf
+QUELLE: https://www.walluf.de/leben-in-walluf/familie-und-soziales/kirchengemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  gemeinde: St. Peter und Paul Rheingau
+  adresse: St. Elisabethenstraße 12, 65396 Walluf
+  telefon: +49 (0)6123 72747
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johannes der Täufer
+ORTSTEIL_BEZUG: Niederwalluf
+QUELLE: https://www.walluf.de/leben-in-walluf/familie-und-soziales/kirchengemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  gemeinde: St. Peter und Paul Rheingau
+  adresse: Hauptstraße 37, 65396 Walluf
+  telefon: +49 (0)6123 2622
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Heilandsgemeinde
+QUELLE: https://www.walluf.de/leben-in-walluf/familie-und-soziales/kirchengemeinden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  adresse_pfarramt: Schöne Aussicht 12, 65396 Walluf
+  telefon: +49 (0)6123 71420
+  pfarrer: Andreas Günther
+  pfarrerin: Bettina Friehmelt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gail Seymour Halvorsen
+QUELLE: https://www.walluf.de/leben-in-walluf/walluf-erleben/persoenlichkeiten/halvorsen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_datum: 10. Oktober 1920
+  geburt_ort: Salt Lake City, Utah, USA
+  tod_datum: 16. Februar 2022
+  tod_ort: Provo, Utah, USA
+  nationalitaet: US-amerikanisch
+  beruf: Pilot
+  rolle: Rosinenbomber-Pilot während Berlin-Blockade 1948/49
+  bekannt_fuer: Erster Pilot, der Süßigkeiten mit selbstgebastelten Fallschirmen abwarf
+  symbol_fuer: Berliner Luftbrücke
+  wohnte_in_walluf: ja
+  gedenkstaette: Gedenkpalette am Haus Mühlstraße 46
+GUELTIG_AB: 1948
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: friedhof
+ORTSTEIL_BEZUG: Niederwalluf
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichtenarchiv-2021/erweiterungsmassnahmen-auf-den-friedhoefen-in-niederwalluf-und-oberwalluf-sind-abgeschlossen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erweiterung_kolumbarienanlage_2021: Rundstele hinzugefügt
+  erweiterung_neue_anlage_2021: zwei weitere Rundstelen
+  neue_urnenkammern_2021: 72
+  ausstattung_trauerpunkt: ja
+  ausstattung_vasenstein: ja
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: friedhof
+ORTSTEIL_BEZUG: Oberwalluf
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichtenarchiv-2021/erweiterungsmassnahmen-auf-den-friedhoefen-in-niederwalluf-und-oberwalluf-sind-abgeschlossen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erweiterung_kolumbarienanlage_2021: drei Kreuzstelen
+  neue_urnenkammern_2021: 48
+  bestattungsform_baumbestattung_seit: 2021
+  baeume_gepflanzt_2021: 6
+  baumart: Liquidambar styraciflua (Amberbaum)
+  kosten_gesamterweiterung: 190000 [Euro]
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Nikolaos Stavridis
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichtenarchiv-2021/konstituierung-in-walluf-abgeschlossen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Ulrike Hans
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichtenarchiv-2021/konstituierung-in-walluf-abgeschlossen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Gemeindevertretungsvorsitzende
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Randolf Hess
+QUELLE: https://www.walluf.de/rathaus-buergerservice/nachrichtenarchiv-2021/konstituierung-in-walluf-abgeschlossen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Erster Beigeordneter
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

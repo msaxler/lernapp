@@ -1,0 +1,33 @@
+{
+ "stufe": "extraktion",
+ "ort": "14-offenburg",
+ "modell_wunsch": "haiku",
+ "modelle": [
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 58201,
+ "token_ein": 84326,
+ "token_aus": 34432,
+ "usage": {
+  "input_tokens": 19,
+  "cache_creation_input_tokens": 58179,
+  "cache_read_input_tokens": 26128,
+  "output_tokens": 34432,
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 58179,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "",
+  "iterations": [],
+  "speed": "standard"
+ },
+ "kosten_usd": 0.24751555,
+ "sekunden": 321,
+ "fehler": false,
+ "zeit": "2026-10-03T15:46:39"
+}

@@ -1,0 +1,18 @@
+{
+ "_doc": "Berichtigungen von Hand nach der Gegenprobe (2026-10-03): Zahlen, die auf Gemeinde-Webseite oder Landesportal falsch standen, fallen nach der Zahlenregel (Mike, 2026-10-03) weg, statt durch eine andere Zahl ersetzt zu werden. Je Eintrag: Lauf, Karte, Status, Grund, Ersetzungen [alt, neu] im Kartentext.",
+ "07-kaub": [{"lauf": "v0.8", "karte": 7, "status": "korrigiert",
+   "grund": "Gegenprobe: Die Opferzahl des Bergsturzes von 1876 schwankt in den Quellen (regionalgeschichte.net 26, Gartenlaube 1876 und andere 25); Zahl aus Optionen und Rückseite genommen.",
+   "ersetzungen": [["1. Ein Großbrand forderte 18 Menschenleben", "1. Ein Großbrand zerstörte die Altstadt"],
+                   ["2. Ein Bergsturz tötete 26 Menschen", "2. Ein Bergsturz verschüttete Häuser"],
+                   ["3. Ein Hochwasser forderte 12 Menschenleben", "3. Ein Hochwasser riss Häuser fort"],
+                   ["4. Ein Erdbeben tötete 8 Menschen", "4. Ein Erdbeben erschütterte den Ort"],
+                   ["stürzte Schiefergeröll vom Hang auf Kaub herab und tötete 26 Menschen.", "stürzte Schiefergeröll vom Hang auf Kaub herab und verschüttete Häuser; viele Menschen starben."]]}],
+ "08-st-goarshausen": [{"lauf": "v0.8", "karte": 10, "status": "korrigiert",
+   "grund": "Gegenprobe: Die Höhe des Viereckigen Turms (Gemeinde-Webseite 34 m, Denkmaldatenbank KuLaDig 23 m) ist strittig; Zahl gestrichen.",
+   "ersetzungen": [["nutzten den 34 Meter hohen Viereckigen Turm", "nutzten den Viereckigen Turm"]]}],
+ "10-vallendar": [{"lauf": "v0.8", "karte": 1, "status": "korrigiert",
+   "grund": "Gegenprobe: Baujahr der Marienburg auf der Stadtseite 1779, nach Rhein-Zeitung, alleburgen.de und Blick aktuell 1773 (Goethe war 1774 dort); Jahr gestrichen, ebenso das Einzugsjahr der WHU (Zierzahl).",
+   "ersetzungen": [["Wer ließ 1779 die Marienburg erbauen, in der heute die WHU sitzt?", "Wer ließ die Marienburg erbauen, in der heute die WHU sitzt?"],
+                   ["ein Sohllederfabrikant, ließ 1779 die Marienburg erbauen.", "ein Sohllederfabrikant, ließ im 18. Jahrhundert die Marienburg erbauen."],
+                   ["Seit 1988 ist das Haus Sitz der WHU.", "Heute ist das Haus Sitz der WHU."]]}]
+}

@@ -1,0 +1,298 @@
+ZIELORT: Kestert (Gemeinde)
+LAGE: 19 km südlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Kestert
+
+GRUNDDATEN:
+  landkreis: Rhein-Lahn-Kreis  [dewiki Infobox]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 635  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 6,88  [Wikidata P2046]
+  dichte_ew_km2: 92  [berechnet aus Einwohner und Fläche]
+  kfz: EMS (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 70 | 146 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2891352)]
+  naechste_grossstadt: Koblenz, 19 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 50 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Kestert  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 56348  [Wikidata P281]
+  vorwahl: 06773  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,2 %, SPD 25 %, AfD 15,7 %, GRÜNE 8,5 %, Die Linke 5,6 %; Wahlbeteiligung 85,4 % — GILT FÜR DIE VERBANDSGEMEINDE LORELEY  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Uwe Schwarz — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-03]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Fläche der Gemarkung), C, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: St. Goarshausen (Stadt)
+  landkreis: Rhein-Lahn-Kreis  [dewiki Infobox]
+  einwohner: 1242  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 7,06  [Wikidata P2046; Altbestand staedte.json]
+  hoehe_m: 100 | 162 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2841609)]
+  naechste_grossstadt: Koblenz, 24 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  ersterwaehnung: 1222  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  bahnhof: Bahnhof St. Goarshausen, Kleinbahnhof St. Goarshausen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,2 %, SPD 25 %, AfD 15,7 %, GRÜNE 8,5 %, Die Linke 5,6 %; Wahlbeteiligung 85,4 % — GILT FÜR DIE VERBANDSGEMEINDE LORELEY  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  kfz: TR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand staedte.json]
+
+FAHRT: Emmendingen, Kenzingen, Herbolzheim, Lahr, Offenburg, Achern, Bühl, Baden-Baden, Rastatt, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Langen, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar
+
+FAKTEN (Zielort Kestert):
+ID: 26-kestert/001
+ENTITÄT: ort
+BEZEICHNUNG: Kestert
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kestert.html | Landesportal
+EIGENSCHAFTEN:
+  erste_urkundliche_nennung: 755
+  lateinische_bezeichnung: ad Castrionis
+  ursprünge: römischer Militärvorposten
+  ursprünge_belege: römische Münzen und Mauerreste am Kirchenköppel
+  ursprünge_genauigkeit: vermutlich
+  gehörte_zu_bopparder_reich_bis: 1327
+  zugehörigkeit_kurtrier_1327_bis_1803: ja
+  territorium_1803_1815: Fürstentum Nassau-Weilburg
+  territorium_1815_1866: Herzogtum Nassau
+  territorium_ab_1866: Königreich Preußen
+  provinz_bis_1885: Hessen-Nassau
+  kreis_ab_1885: Sankt Goarshausen
+  bundesland_ab_1946: Rheinland-Pfalz
+  verbandsgemeinde_ab_1972: Loreley
+  wachstum_19_jh: rasant
+  wachstum_gründe: Rheinschifffahrt, Eisenbahn, Wein- und Obstanbau
+  einwohner_anfang_20jh: über 900
+  bevölkerung_niederkestert_1682: 22 Familien
+  bevölkerung_oberkestert_1682: 10 Familien
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 26-kestert/002
+ENTITÄT: ort
+BEZEICHNUNG: Kestert
+QUELLE: https://de.wikipedia.org/wiki/Kestert | Wikipedia
+EIGENSCHAFTEN:
+  ortstyp: Ortsgemeinde
+  landkreis: Rhein-Lahn-Kreis
+  bundesland: Rheinland-Pfalz
+  verbandsgemeinde: Loreley
+  lage_tal: Tal der Loreley
+  welterbe: UNESCO-Welterbe Oberes Mittelrheintal
+  ortsteile: Niederkestert, Oberkestert
+  gemeinderatsmitglieder: 12
+  wahlsystem_seit_2024: Mehrheitswahl
+  wahlsystem_bis_2019: personalisierte Verhältniswahl
+  zugehörigkeit_oberamt_boppard: ja
+  besatzungszone_nach_wwi: französisch
+  besatzungszone_nach_wwii: französisch
+  rhein_lahn_kreis_gegründet: 1969
+  bundesstraße: 42 (verbindet Koblenz und Wiesbaden)
+  bahnhof: ja, an rechter Rheinstrecke
+  bahnlinie: RB 10 (Neuwied-Koblenz-Sankt Goarshausen-Wiesbaden-Frankfurt)
+  verkehrsverbund: Verkehrsverbund Rhein-Mosel (VRM)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 26-kestert/003
+ENTITÄT: kirche
+BEZEICHNUNG: St. Georg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kestert.html | Landesportal
+EIGENSCHAFTEN:
+  religionsgemeinschaft: katholisch
+  erbauung: 1778-1779
+  baustil: Barockstil
+  erhalt_status: noch heute vorhanden
+GUELTIG_AB: 1778
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 26-kestert/004
+ENTITÄT: kirche
+BEZEICHNUNG: St. Georg
+QUELLE: https://de.wikipedia.org/wiki/Kestert | Wikipedia
+EIGENSCHAFTEN:
+  baujahr_präzisierung: 1779
+  seitenschiff_anbau: 1958
+  seitenschiff_abriss: 2011
+  ausstattung: mehrere barocke Heiligenfiguren
+  pfarrei_seit: Februar 2018
+  pfarrei_name: Heilige Elisabeth von Schönau
+  pfarrei_sitz: Kamp-Bornhofen
+  pfarrei_bistum: Limburg
+GUELTIG_AB: 1779
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 26-kestert/005
+ENTITÄT: kirche
+BEZEICHNUNG: Kestert Pfarrkirche (zerstört)
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kestert.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum_existenz: 14. Jahrhundert
+  schicksal_1437: Brand
+  folge_brand: Gläubige besuchten Gottesdienste in Dahlheim bis Neuaufbau
+  ersetzt_durch: St. Georg (1778-1779)
+GUELTIG_BIS: 1437
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 26-kestert/006
+ENTITÄT: pfarrei
+BEZEICHNUNG: Pfarrei Kestert-Prath-Dahlheim
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kestert.html | Landesportal
+EIGENSCHAFTEN:
+  ortsgemeinden: Kestert, Prath, Dahlheim
+  pfarreisitz: Dahlheim
+  status: eigenständig
+  zeitraum: 14. Jahrhundert
+GUELTIG_AB: 1300
+GUELTIG_BIS: 1778
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 26-kestert/007
+ENTITÄT: pfarrei
+BEZEICHNUNG: Heilige Elisabeth von Schönau
+QUELLE: https://de.wikipedia.org/wiki/Kestert | Wikipedia
+EIGENSCHAFTEN:
+  gründung: Februar 2018
+  pfarreisitz: Kamp-Bornhofen
+  bistum: Limburg
+  fusioniert_aus: 10 ehemals selbständige Pfarreien
+  zugehörige_kirchen: St. Martin Osterspai, St. Margaretha Filsen, St. Nikolaus Kamp-Bornhofen, St. Jakobus der Ältere Dahlheim, St. Georg Kestert, St. Martin Wellmich, St. Johannes der Täufer Sankt Goarshausen, St. Nikolaus Kaub, St. Peter und Paul Nastätten, St. Florin Strüth
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 26-kestert/008
+ENTITÄT: person
+BEZEICHNUNG: Uwe Schwarz
+QUELLE: https://de.wikipedia.org/wiki/Kestert | Wikipedia
+EIGENSCHAFTEN:
+  amt: Ortsbürgermeister
+  wahl_1: 26. Mai 2019
+  stimmenanteil_2019: 81,67%
+  amtszeit: 5 Jahre
+  wiedergewählt: 9. Juni 2024
+  stimmenanteil_2024: 76,5%
+  besonderheit_2024: einziger Kandidat
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 26-kestert/009
+ENTITÄT: person
+BEZEICHNUNG: Johann Schlaad
+QUELLE: https://de.wikipedia.org/wiki/Kestert | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Orgelbauer
+  lebensjahre: 1822-1892
+  herkunft: Sohn der Gemeinde Kestert
+GUELTIG_AB: 1822
+GUELTIG_BIS: 1892
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 26-kestert/010
+ENTITÄT: person
+BEZEICHNUNG: Manfred Schneider
+QUELLE: https://de.wikipedia.org/wiki/Kestert | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Komponist und Musiker
+  lebensjahre: 1953-2008
+  herkunft: Sohn der Gemeinde Kestert
+GUELTIG_AB: 1953
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 26-kestert/011
+ENTITÄT: person
+BEZEICHNUNG: Bruno von Trier
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kestert.html | Landesportal
+EIGENSCHAFTEN:
+  titel: Erzbischof
+  aktion_jahr: 1110
+  aktion: schenkte Koblenzer Hospital vier Wingerte in Kestene
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 26-kestert/012
+ENTITÄT: person
+BEZEICHNUNG: Werner II. von Bolanden
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kestert.html | Landesportal
+EIGENSCHAFTEN:
+  titel: Reichsministeriale
+  aktion_jahr_ca: um 1190
+  aktion: vereinnahmte Zehnten in Kestert
+  zehnt_herkunft: Lehen der Wormser Kirche
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 26-kestert/013
+ENTITÄT: adelshaus
+BEZEICHNUNG: Herren von Sterrenberg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kestert.html | Landesportal
+EIGENSCHAFTEN:
+  aktion: erhielten Zehnt von Bolanden weiterverlehnt
+  zeitpunkt_ca: nach 1190
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 26-kestert/014
+ENTITÄT: institution
+BEZEICHNUNG: Abtei Fulda
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kestert.html | Landesportal
+EIGENSCHAFTEN:
+  erwerb_jahr: 755
+  erworben: Weinberge in ad Castrionis (heute Kestert)
+  erwerbs_typ: Schenkung
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 26-kestert/015
+ENTITÄT: verwaltungsgebiet
+BEZEICHNUNG: Bopparder Reich
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kestert.html | Landesportal
+EIGENSCHAFTEN:
+  ursprung: römisches Kastell
+  entwicklung: mittelalterlicher Verwaltungsbezirk
+  kestert_zugehörigkeit_bis: 1327
+  grund_ende: Unterwerfung unter Trierer Kurfürsten
+GUELTIG_BIS: 1327
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 26-kestert/016
+ENTITÄT: ereignis
+BEZEICHNUNG: Dreißigjähriger Krieg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kestert.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum: 1618-1648
+  auswirkungen_kestert: großes Leid durch umherziehende Truppen, Seuchen und Hungersnöte
+  bevölkerung_niederkestert_1682: 22 Familien
+  bevölkerung_oberkestert_1682: 10 Familien
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 26-kestert/017
+ENTITÄT: ereignis
+BEZEICHNUNG: Felssturz bei Kestert
+QUELLE: https://de.wikipedia.org/wiki/Kestert | Wikipedia
+EIGENSCHAFTEN:
+  datum: 15. März 2021
+  volumen: ca. 15.000 Kubikmeter
+  material: schwere Schieferplatten und Geröll
+  betroffene_infrastruktur: Güterzugstrecke Genua-Rotterdam, Bundesstraße 42
+  bahnstrecke_bedeutung: laut Deutscher Bahn meistbefahrene Güterzugstrecke Europas
+  massnahmen: mehrere Sprengungen zur Beseitigung nachrutschenden Gesteins
+  sperrungsdauer: mehrere Wochen
+  status_nachher: eingeschränkt befahrbar
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

@@ -1,0 +1,550 @@
+ID: 28-osterspai/001
+ENTITÄT: ort
+BEZEICHNUNG: Osterspai
+QUELLE: https://osterspai.welterbe-mittelrheintal.de/ortsgemeinde/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bundesland: Rheinland-Pfalz
+  landkreis: Rhein-Lahn
+  verbandsgemeinde: Loreley
+  hoehe: 65 [m ü. NN]
+  flaeche: 13 [km²]
+  waldanteil: 60.9 [%]
+  postleitzahl: 56340
+  telefonvorwahl: 02627
+  kfz_kennzeichen: EMS, GOH
+  einwohner: 1321
+  einwohner_stand: 30.06.2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 28-osterspai/002
+ENTITÄT: ort
+BEZEICHNUNG: Osterspai
+QUELLE: https://osterspai.welterbe-mittelrheintal.de/urlaub-und-uebernachten/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hat_fachwerkhaeuser: true
+  liegt_zwischen: "westliche Taunushöhen und Obstgärten"
+  befindet_sich_in: Rheintal
+  benachbart_hunsrueck_mit_weinbergen: "Bopparder Hamm (Bopparder Lage)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 28-osterspai/003
+ENTITÄT: ort
+BEZEICHNUNG: Osterspai
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1074
+  erwaehnung_grund: "schenkt Anno von Köln dem Kunibertstift das Dorf mit Kirche"
+  gehoerte_zu_grafschaft: Marienfels
+  grafschaft_uebertragung_zu_erzbistum_trier: 1031
+  trierische_landesherrlichkeit_ca_bis: 1300
+  reich_unmittelbarer_territorium: "Spätmittelalter (ca. 1250-1500)"
+  stadtrecht_erhalten: 1326
+  stadtrecht_wirkung: "keine langfristige Wirkung"
+  religionszugehorigkeit_reformationszeit: katholisch
+  reformationsversuch_durch: Nassau
+  reformationsversuch_jahre: "1580, 1581"
+  reformationsergebnis: "gescheitert, Osterspai blieb katholisch"
+  niedergebrannt: "1620, 1622"
+  niedergebrannt_durch: "Truppen unter Mansfeld"
+  hexenprozesse_zeitraum: "1628-1634"
+  hexenprozesse_todesurteile: "mindestens 5"
+  hexenprozesse_freisprueche: 1
+  hexenprozesse_beschuldigung_ungeklaert: 1 [Paar]
+  herrschaft_liebenstein_endete: 1637
+  gehort_zu_herzogtum_nassau: 1806
+  gehort_zu_rheinland_pfalz: 1946
+  gehort_zu_rhein_lahn_kreis: 1969
+  war_verbandsgemeinde_braubach: "1972-2012"
+  gehort_zu_verbandsgemeinde_loreley_seit: 2012
+  besetzung_franzosen_nach_wk1: 31.12.1918
+  besatzungszone_frankreich_bis: 1929
+  politische_hochburg_bis_1933: Zentrumspartei
+  zweiter_weltkrieg_gefallene_soldaten: 48
+  zweiter_weltkrieg_vermisste_soldaten: 29
+  eroberung_amerikaner: 25.03.1945
+GUELTIG_AB: 1074
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 28-osterspai/004
+ENTITÄT: bevoelkerungsentwicklung
+BEZEICHNUNG: Osterspai
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  einwohner_1787: 115 [Familien]
+  einwohner_1808: 610
+  einwohner_1827: 886
+  einwohner_1871: 1036
+  einwohner_1905: 906
+  einwohner_1939: 1015
+  einwohner_1955: 1255
+  einwohner_1992: 1345
+  einwohner_2019: 1273
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 28-osterspai/005
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+QUELLE: https://osterspai.welterbe-mittelrheintal.de/urlaub-und-uebernachten/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: barock
+  lage_im_ort: Ortskern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 28-osterspai/006
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Osterspai
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1074
+  patronatsrecht_bei: "Boos von Waldeck"
+  reformationsversuch: "1580-1581 von Nassau"
+GUELTIG_AB: 1074
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 28-osterspai/007
+ENTITÄT: kirchliche_zuordnung
+BEZEICHNUNG: Katholisches Bistum Limburg
+QUELLE: https://osterspai.welterbe-mittelrheintal.de/ortsgemeinde/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_zustaendig_fuer: Osterspai
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 28-osterspai/008
+ENTITÄT: kirchliche_zuordnung
+BEZEICHNUNG: Evangelische Kirche Hessen-Nassau
+QUELLE: https://osterspai.welterbe-mittelrheintal.de/ortsgemeinde/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_zustaendig_fuer: Osterspai
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 28-osterspai/009
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Liebeneck
+QUELLE: https://osterspai.welterbe-mittelrheintal.de/urlaub-und-uebernachten/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "hoch über dem Ort"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 28-osterspai/010
+ENTITÄT: burg
+BEZEICHNUNG: Wasserburg mit Kapelle
+QUELLE: https://osterspai.welterbe-mittelrheintal.de/urlaub-und-uebernachten/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: "13. Jahrhundert"
+  lage: Ortskern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 28-osterspai/011
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Osterspai
+QUELLE: https://osterspai.welterbe-mittelrheintal.de/ortsgemeinde/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Hauptstr. 7, 56340 Osterspai"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 28-osterspai/012
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Osterspai
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  erbaut: 1619
+  wurde_schulstandort_ab: 1619
+GUELTIG_AB: 1619
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 28-osterspai/013
+ENTITÄT: schulgebaude
+BEZEICHNUNG: Schule Osterspai (historisch)
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  existiert_seit: "vor 1619"
+  unterrichtsort_urspruenglich: "Privatwohnung des Lehrers"
+  unterrichtsort_ab_1619: Rathaus
+  neues_schulgebaude_erbaut: 1831
+  neues_schulgebaude_betrieb_ab: 1832
+GUELTIG_AB: 1619
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 28-osterspai/014
+ENTITÄT: buergermeister
+BEZEICHNUNG: Sebastian Reifferscheid
+QUELLE: https://osterspai.welterbe-mittelrheintal.de/ortsgemeinde/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Ortsbürgermeister
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 28-osterspai/015
+ENTITÄT: historische_person
+BEZEICHNUNG: Anno von Köln
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  handlung: "schenkte dem Kunibertstift das Dorf Osterspai mit Kirche"
+  jahr: 1074
+GUELTIG_AB: 1074
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 28-osterspai/016
+ENTITÄT: grundherrschaft
+BEZEICHNUNG: St. Kunibert
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  art: Stift
+  herkunftsort: Köln
+  erhielt_schenkung: 1074
+GUELTIG_AB: 1074
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 28-osterspai/017
+ENTITÄT: grundherrschaft
+BEZEICHNUNG: St. Pantaleon
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  art: Kloster
+  herkunftsort: Köln
+GUELTIG_AB: 1031
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 28-osterspai/018
+ENTITÄT: grundherrschaft
+BEZEICHNUNG: Kloster Eberbach
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  art: Kloster
+GUELTIG_AB: 1031
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 28-osterspai/019
+ENTITÄT: grundherrschaft
+BEZEICHNUNG: St. Florinsstift
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  art: Stift
+  herkunftsort: Koblenz
+GUELTIG_AB: 1031
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 28-osterspai/020
+ENTITÄT: grundherrschaft
+BEZEICHNUNG: Kloster Maienberg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  art: Kloster
+  herkunftsort: Boppard
+GUELTIG_AB: 1031
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 28-osterspai/021
+ENTITÄT: grundherrschaft
+BEZEICHNUNG: Marienstift
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  art: Stift
+  herkunftsort: Wetzlar
+GUELTIG_AB: 1031
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 28-osterspai/022
+ENTITÄT: herrenhaus
+BEZEICHNUNG: Boos von Waldeck
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  hatten_patronatsrecht: true
+  verweigerten_reformation: "1580-1581"
+GUELTIG_AB: 1031
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 28-osterspai/023
+ENTITÄT: herrenhaus
+BEZEICHNUNG: Herren vom Stein
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+GUELTIG_AB: 1031
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 28-osterspai/024
+ENTITÄT: herrenhaus
+BEZEICHNUNG: von der Leyen
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+GUELTIG_AB: 1031
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 28-osterspai/025
+ENTITÄT: herrenhaus
+BEZEICHNUNG: Grafen von Arnstein
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  funktion: "weltliche Vögte"
+GUELTIG_BIS: 1280
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 28-osterspai/026
+ENTITÄT: herrenhaus
+BEZEICHNUNG: Herren von Isenburg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  funktion: "weltliche Vögte"
+  verloren_herrschaft: 1280
+GUELTIG_BIS: 1280
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 28-osterspai/027
+ENTITÄT: herrenhaus
+BEZEICHNUNG: Grafen von Sponheim
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  status: "Lehnsbesitzer (nicht Vögte)"
+  wurden_abgelöst_durch: "Haus Liebenstein"
+GUELTIG_AB: 1280
+GUELTIG_BIS: 1359
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 28-osterspai/028
+ENTITÄT: herrenhaus
+BEZEICHNUNG: Haus Liebenstein
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  erwaehnt_seit: "Mitte 14. Jahrhundert"
+  erhielten_osterspai_zum_lehen: 1359
+  lehensgeber: "Grafen von Nassau"
+  unterordneten_osterspai: "Mitte 15. Jahrhundert"
+  herrschaft_endete: 1637
+  wurden_abgelöst_durch: "Herren von Waldenburg"
+GUELTIG_AB: 1359
+GUELTIG_BIS: 1637
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 28-osterspai/029
+ENTITÄT: herrenhaus
+BEZEICHNUNG: Grafen von Nassau
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  wurden_lehensgeber: 1359
+  herrschten_gemeinsam_mit: "Liebenstein"
+  gemeinsame_herrschaft: "1470-1631"
+  kauf_viertel_des_gerichts: 1631
+  versuchten_reformation: "1580-1581"
+  mediatisierten_osterspai: 1806
+  osterspai_gelangte_zu_herzogtum_nassau: 1806
+GUELTIG_AB: 1359
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 28-osterspai/030
+ENTITÄT: herrenhaus
+BEZEICHNUNG: Herren von Waldenburg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  uebernahmen_ortsherrschaft: 1651
+  wurden_belehnt_durch: Nassau
+  starben_aus_mannesstamm: 1793
+GUELTIG_AB: 1651
+GUELTIG_BIS: 1793
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 28-osterspai/031
+ENTITÄT: herrenhaus
+BEZEICHNUNG: Herren von Preuschen
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  uebernahmen_lehen: 1793
+GUELTIG_AB: 1793
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 28-osterspai/032
+ENTITÄT: erzbistum
+BEZEICHNUNG: Erzbistum Trier
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  geistliche_herrschaft_ueber_osterspai: 1031
+  herrschaft_endete: 1806
+GUELTIG_AB: 1031
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 28-osterspai/033
+ENTITÄT: grafschaft
+BEZEICHNUNG: Grafschaft Marienfels
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  osterspai_gehoerte_zu: true
+  uebertragung_zu_erzbistum_trier: 1031
+GUELTIG_BIS: 1031
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 28-osterspai/034
+ENTITÄT: herzogtum
+BEZEICHNUNG: Herzogtum Nassau
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  osterspai_gelangte_zu: 1806
+  grund: "Mediatisierung der reichsunmittelbaren Territorien"
+GUELTIG_AB: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 28-osterspai/035
+ENTITÄT: naturdenkmaal
+BEZEICHNUNG: Römischer Tempel
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  lage: "Wald bei Osterspai an Kreuzung römischer Straßen"
+  zeitperiode: "römische Zeit"
+  beschreibung: "Überreste eines römischen Tempels"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 28-osterspai/036
+ENTITÄT: archaeologisches_fundgebiet
+BEZEICHNUNG: Merowingerzeitliche Gräber
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  zeitperiode: "Merowingerzeit"
+  zeitraum: "ca. 450-751"
+  fundort: "Gemarkung Osterspai"
+GUELTIG_AB: 450
+GUELTIG_BIS: 751
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 28-osterspai/037
+ENTITÄT: ereignis
+BEZEICHNUNG: Niederbrennungen durch Mansfeld
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  zeitpunkt: "1620, 1622"
+  verursacher: "Truppen unter Mansfeld"
+  ereignis_kontext: "Dreißigjähriger Krieg"
+GUELTIG_AB: 1620
+GUELTIG_BIS: 1622
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 28-osterspai/038
+ENTITÄT: ereignis
+BEZEICHNUNG: Hexenprozesse in Osterspai
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum: "1628-1634"
+  todesurteile: "mindestens 5"
+  freisprueche: 1
+  ausweisungen_nach_freispruch: 1
+  prozesse_mit_ungeklaetem_ausgang: 1
+  anstoß_zu_prozessen: "kam wohl aus der Bevölkerung"
+  ansicht_herrschaften_nassau_liebenstein: "kein Interesse an den Prozessen"
+GUELTIG_AB: 1628
+GUELTIG_BIS: 1634
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 28-osterspai/039
+ENTITÄT: ereignis
+BEZEICHNUNG: Erste Weltkrieg Osterspai
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  gefallene: 25
+  vermisste: 1
+  zeitraum: "1914-1918"
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 28-osterspai/040
+ENTITÄT: ereignis
+BEZEICHNUNG: Französische Besatzung nach Erster Weltkrieg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  zeitpunkt_einmarsch: 31.12.1918
+  besatzer: Frankreich
+  dauer_besatzung: "bis 1929"
+GUELTIG_AB: 1918
+GUELTIG_BIS: 1929
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 28-osterspai/041
+ENTITÄT: ereignis
+BEZEICHNUNG: Zweiter Weltkrieg Osterspai
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  ungezielt_bombenabwuerfe_bis: 1944
+  erster_gezielter_luftangriff: 1944
+  ziel_luftangriff: "Bahngleise unterhalb des Ortes"
+  fruejahr_1945_artilleriebeschuss: true
+  tote_zivil: 2
+  verletzte: "mehrere"
+  eroberung_durch_usa: 25.03.1945
+  gefallene_eigene_soldaten: 4
+  gefallene_osterspaier_soldaten_gesamt: 48
+  vermisste_osterspaier_soldaten: 29
+  danach_besatzungszone: Frankreich
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 28-osterspai/042
+ENTITÄT: wirtschaftliche_entwicklung
+BEZEICHNUNG: Weinbau Osterspai
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  status_frueher: dominant
+  status_um_1900: "fiel Rebkrankheiten zum Opfer"
+  weiterer_anbau_bei: "Bopparder Hamm auf gegenüberliegendem Rheinufer"
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 28-osterspai/043
+ENTITÄT: wirtschaftliche_entwicklung
+BEZEICHNUNG: Obstbau Osterspai
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/osterspai.html | Landesportal
+EIGENSCHAFTEN:
+  umstellung_von: Weinbau
+  umstellung_zeitpunkt: "um die Wende vom 19. zum 20. Jahrhundert"
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 28-osterspai/044
+ENTITÄT: landschaft
+BEZEICHNUNG: Bopparder Hamm
+QUELLE: https://osterspai.welterbe-mittelrheintal.de/urlaub-und-uebernachten/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Hunsrück auf der anderen Seite des Flusses"
+  charakterisierung: "berühmte Weinbergslage"
+  besitz_osterspaier: "teilweise"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90

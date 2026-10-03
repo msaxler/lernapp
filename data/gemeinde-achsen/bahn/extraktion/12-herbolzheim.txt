@@ -1,0 +1,415 @@
+ENTITÄT: ort
+BEZEICHNUNG: Herbolzheim
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadt-herbolzheim/geschichte-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: am Rande der oberrheinischen Tiefebene
+  einwohner: 11000, genauigkeit: "mehr als"
+  stadtteile_anzahl: 4
+  stadteile: Wagenstadt, Bleichheim, Broggingen, Tutschfelden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtwappen
+BEZEICHNUNG: Wappen Herbolzheim
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadt-herbolzheim/geschichte-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihung_jahr: 1606
+  elemente: Reichsadler, österreichische Farben rot-weiß-rot, Üsenbergflügel, halbe Pflugschar
+  bedeutung_pflugschar: symbolisiert Bedeutung des Ackerbaus
+GUELTIG_AB: 1606
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Emil Dörle
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadt-herbolzheim/geschichte-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Musiker und Komponist
+  geburt_datum: 29. September 1886
+  tod_datum: 1964
+  geburtsort: Herbolzheim
+  status: Ehrenbürger
+  beruehmte_komposition: Marsch "Hoch Badnerland" (Badnerlied)
+  vater: Karl Dörle, Schmiedemeister und Musikdirektor der Herbolzheimer Kapelle
+  vater_amtszeit: 1884-1918
+  ausbildung: Gymnasium, Militärzeit
+  karriere: Staatliche Finanzverwaltung, ab 1929 Leiter Betriebsprüfungsstelle Freiburg
+GUELTIG_AB: 1886
+GUELTIG_BIS: 1964
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.97
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bernard Galura
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadt-herbolzheim/geschichte-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsdatum: 21. August 1764
+  geburtsort: Herbolzheim (Breisgau)
+  geburtsname: Bernhard Katzenschwanz
+  vater: Johann Martin Katzenschwanz (Gast- und Landwirt)
+  ausbildung: Benediktiner-Gymnasium Villingen, Studium bei Breisachern Franziskanern ab 1783, Generalseminar Freiburg, praktisches Studienjahr am Generalseminar Wien
+  priesterweihe: 27. Juli 1788
+  priesterweihe_ort: Wien
+GUELTIG_AB: 1764
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.96
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Torhaus
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/torhaus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: ehemaliges Wohn- und Verwaltungsgebäude der Leinenweberei Carl Kuenzer
+  gruendung_weberei: 1834
+  struktur_stammhaus: rechtes Gebäudeteil
+  neubauten_hauptstrasse: 1874
+  verbindungsbau_zwerchgiebel: 1899
+  baustil: Historismus
+  nutzung_bundeswehr: Gerätedepot, gueltig_ab: 1957, gueltig_bis: 1992
+  abbruch_fabrikgebaeude: 2000
+  aktuelle_nutzung: städtisches Kulturhaus mit Tourismusbüro, Trauzimmer, Stadtbücherei
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Herbolzheim
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/lage-anfahrt/anfahrt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_geopolitik: Dreiländereck, direkter Nähe zu Frankreich und Schweiz
+  autobahn: A5 mit eigener Anschlussstelle
+  bundesstrassen: B3, 294
+  bahn: Rheintalbahn mit Bahnhof Herbolzheim
+  ice_bahnhof_naehe: Ringsheim, 2 km entfernt
+  flughafen_naehe: EuroAirport Basel-Mulhouse-Freiburg, Strasbourg/Entzheim, Baden Airpark Karlsruhe/Baden, Stuttgart, Frankfurt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Wagenstadt
+ORTSTEIL_BEZUG: Wagenstadt
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadtteile/wagenstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: groesster von vier Ortsteilen
+  entstehung: 6.-8. Jahrhundert
+  charakter: dörflich (nach Eingemeindung erhalten)
+  lage_besonderheit: Nähe zur Kernstadt und zu Kenzingen
+  infrastruktur: Metzgerei, Partyservice, Gasthaus, mehrere Weingüter, Gewerbegebiet, zahlreiche Übernachtungsmöglichkeiten, direkte Bahn- und Autobahnanbindung
+  besonderheit: reges Vereinsleben, aktive Dorfgemeinschaft, neues Dorfzentrum, ökumenischer Bibelgarten
+GUELTIG_AB: 600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: stadtteil_wappen
+BEZEICHNUNG: Wappen Wagenstadt
+ORTSTEIL_BEZUG: Wagenstadt
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadtteile/wagenstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ueberlieferung_seit: 1811
+  elemente: Wagenrad, Sense, Pflugeisen, Rebmesser
+  bedeutung: Ortsnamen (Wagenrad) und Art der früher betriebenen Landwirtschaft
+GUELTIG_AB: 1811
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.97
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Bleichheim
+ORTSTEIL_BEZUG: Bleichheim
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadtteile/bleichheim | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 700
+  lage: zwischen Reben und Wald, Tor zum Nationalpark Südschwarzwald
+  gewaesser: Bleiche (durchfließt das Dorf)
+  charakter: landschaftlich reizvoll, lebendige Dorfgemeinschaft
+  engagement: sozial, sportlich und kulturell geprägt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: burg_ruine
+BEZEICHNUNG: Kirnburg
+ORTSTEIL_BEZUG: Bleichheim
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadtteile/bleichheim | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südlich, oberhalb des Dorfes im Wald
+  bedeutung: Wanderziel, Wahrzeichen
+  urkundliche_ersterwahnung_jubilaeum: 800 Jahre im Jahr 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: schlossgut
+BEZEICHNUNG: Schlossgut Bleichheim
+ORTSTEIL_BEZUG: Bleichheim
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadtteile/bleichheim | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  komponenten: Herrenhaus mit Nebengebäuden
+  nebengebaeude_alter: bis ins 16. Jahrhundert zurückreichend
+  schaugarten_groesse: ca. 3000 qm
+  schaugarten_zugaenglichkeit: für Besucher zugänglich
+  schaugarten_ruf: überregionales Renommee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+
+---
+
+ENTITÄT: stadtteil_wappen
+BEZEICHNUNG: Wappen Bleichheim
+ORTSTEIL_BEZUG: Bleichheim
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadtteile/bleichheim | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ueberlieferung: alte Siegel
+  form: gespaltenes Schild
+  elemente: österreichische Binde, Pflugschar, Senseneisen (Ortszeichen)
+  bedeutung: über 400-jährige Zugehörigkeit zu Vorderösterreich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: kunstinstallation
+BEZEICHNUNG: Himmelsliegen Bleichheim
+ORTSTEIL_BEZUG: Bleichheim
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadtteile/bleichheim | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: zwei
+  eigenschaft: einzigartig
+  kontext: Solidarprojekt während Coronawelle 3 (Lockdown)
+  beteiligte: 26 Menschen (größtenteils Familien) bei Mitgestaltung
+  standort_1: Wolfersberg (Nähe Funkturm)
+  standort_2: Traufweg am Waldrand südlich oberhalb des Dorfes
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Broggingen
+ORTSTEIL_BEZUG: Broggingen
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadtteile/broggingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Lösshügellandschaft zwischen Bleichbach und Ettenbach, an Gemarkungsgrenze Landkreis Emmendingen/Ortenaukreis
+  einwohner: 800
+  besonderheit: einige stattliche Fachwerkbauten und Gehöftanlagen aus dem 18. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Dragonerbrunnen
+ORTSTEIL_BEZUG: Broggingen
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadtteile/broggingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Oberdorf
+  brunnenstock_jahr: 1826
+  wahrzeichen: ja
+  namensherkunft: benannt nach der Uniform des Dragoners, der über ihn wacht
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: stadtteil_wappen
+BEZEICHNUNG: Wappen Broggingen
+ORTSTEIL_BEZUG: Broggingen
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadtteile/broggingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  form: gespaltenes Schild
+  element_1: Gold mit rotem Schrägbalken
+  bedeutung_element_1: Zugehörigkeit zu Baden-Hachberg
+  element_2: Silber mit schwarzem Dorfzeichen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Tutschfelden
+ORTSTEIL_BEZUG: Tutschfelden
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadtteile/tutschfelden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristik: kleinster der vier Bleichtalgemeinden
+  gemarkungsflaeche: kleinste
+  urkundliche_ersterwahnung: 972
+  alter: über 1000 Jahre
+  einwohner: 730
+  lage: exponierte Lage auf Loßhügel-Rücken
+  besonderheit: Golfplatz (außergewöhnlich schön gelegen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Weinbrenner-Kirche
+ORTSTEIL_BEZUG: Tutschfelden
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadtteile/tutschfelden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: auf Hügel exponiert
+  bedeutung: Blickfang im Bleichtal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtteil_wappen
+BEZEICHNUNG: Wappen Tutschfelden
+ORTSTEIL_BEZUG: Tutschfelden
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadtteile/tutschfelden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  form: Schild mit Rose
+  element: rote Rose mit grünen Kelchblättern
+  entstehung: um 1900
+  ursprung: altes Dorfzeichen unter Weglassung des badischen Schrägbalkens
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: stadtteil_gebaeude
+BEZEICHNUNG: Bürgerhaus Tutschfelden
+ORTSTEIL_BEZUG: Tutschfelden
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadtteile/tutschfelden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: bereichernde Location
+  nutzung: unterschiedlichste Veranstaltungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.86
+
+---
+
+ENTITÄT: staedtische_figur
+BEZEICHNUNG: Herbo
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadt-herbolzheim/unsere-stadtfiguren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  illustrator: Thorsten Trantow
+  status: offizielle Stadtfigur
+  anlass_schaffung: Jahresthema "Saubere Stadt"
+  namensherkunft: Ausmalaktion in Grundschulen (ca. 300 Ausmalbilder mit Namensvorschlägen)
+  begleitung: Herbolzheim und Ortsteile
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: staedtische_figur
+BEZEICHNUNG: Liz
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/stadt-herbolzheim/unsere-stadtfiguren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  illustrator: Thorsten Trantow
+  status: offizielle Stadtfigur
+  anlass_schaffung: Jahresthema "Saubere Stadt"
+  namensherkunft: Ausmalaktion in Grundschulen (ca. 300 Ausmalbilder mit Namensvorschlägen)
+  begleitung: Herbolzheim und Ortsteile
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Thomas Gedemer
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/buergermeister-thomas-gedemer/grusswort | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Bürgermeister
+  fokus: Infrastruktur, Naherholung, Bildung, Klimaschutz, Lebensqualität
+  partnerstadte_anzahl: 5
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Sisteron
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/staedtepartnerschaft/staedtepartnerschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  lage: Süden Frankreich, 135 km von Marseille entfernt
+  partnerschaftsgruendung: 1975
+  partnerschaftsurkunde_unterzeichnung: 1975
+  jubilaeum_50_jahre: 1.-4. Mai (2025)
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Kremnica
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/staedtepartnerschaft/staedtepartnerschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Slowakei
+  lage: Mitte der Kremnicer Berge
+  freundschaftsurkunde_unterzeichnung: 13. April 2004
+  besonderheit_1: internationale Skilanglaufrouten
+  besonderheit_2: Münzprägung (Gedenkmünzen und Bürgermedaillen der Stadt Herbolzheim werden in der Staatlichen Münze Kremnica geprägt)
+  besonderheit_3: einstiger Goldabbau
+  gemeinsame_eigenschaft_mit_herbolzheim: einstiger Abbau von Bodenschätzen
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Oliva
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/staedtepartnerschaft/staedtepartnerschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Spanien
+  lage: Ostküste Spanien, direkt am Meer, ca. 10 km Sandstrand
+  staedtefreundschaft_seit: 2000
+  status: Freundschaft (nicht formale Partnerschaft)
+  gemeinsame_eigenschaft: heiße Quellen (beide Städte)
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Morawica
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/staedtepartnerschaft/staedtepartnerschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Polen
+  lage: ca. 190 km südlich von Warschau
+  freundschaftsurkunde_unterzeichnung: 28. Mai 2007
+  besonderheit: Mittnachtsfest, Verleihung Stadtrechte
+  gemeinsame_eigenschaft: einstiger Abbau von Bodenschätzen (Herbolzheim-Stollen in 70er Jahren mit Erz)
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Brilon
+QUELLE: https://www.stadt-herbolzheim.de/stadt-stadtteile/staedtepartnerschaft/staedtepartnerschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Deutschland (Hochsauerland, Nordrhein-Westfalen)
+  region: Hochsauerlandkreis, Osten Nordrhein-Westfalen
+  einwohner: 25624
+  status: Mittelstadt
+  besonderheit_1: staatlich anerkanntes Kneipp-Heilbad
+  waldbesitz: 77,5 km² Stadtwald
+  superlativ: zu den größten kommunalen Waldbeständen in Deutschland
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
