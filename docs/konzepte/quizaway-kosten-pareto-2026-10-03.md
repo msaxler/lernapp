@@ -85,3 +85,22 @@ Folgen für die Rechnung:
 - Der Vorrat wird gebraucht. Sieben Karten reichen für eine Fahrt mit einem „Noch mehr“; für wiederholte Fahrten über dieselbe Strecke wächst er nach (H3 neu gefasst).
 - H3 spart weniger: rund 25 % statt 18 % des heutigen Aufwands je Ort. Die übrigen Hebel bleiben unverändert; H1 und H2 tragen weiter den größten Teil.
 - Neu wichtig wird die Zahl der Geschichten je Ort: Drei Fragen hintereinander aus den Grunddaten wären blass. Ein Ort mit dünnem Artikel braucht deshalb die zweite Quelle (Spielkonzept §8 Nr. 7) eher als bisher.
+
+---
+
+## 8. Probe H2: Ergebnis (2026-10-03)
+
+Zwei Orte (Horben, Waldbreitbach) mit unverändertem Prompt v0.7 und unveränderter Eingabe als direkter Aufruf (`claude -p`, isoliert, ohne Werkzeuge, ohne Projektgedächtnis; Modell laut Ausgabe `claude-opus-4-6`). Daten und Skript: `data/gemeinde-achsen/probe-h2/`.
+
+| | Agentenlauf bisher | Agent, nur eine Datei lesen | Direktaufruf |
+|---|---|---|---|
+| Horben | rund 135.000 Token | 114.000 Token, 3,4 min | 27.000 Eingabe + 41.000 Ausgabe = 68.000; 12,5 min; 1,20 USD |
+| Waldbreitbach | rund 150.000 Token | 133.000 Token, 4,1 min | 35.000 Eingabe + 56.000 Ausgabe = 92.000; 16,7 min; 1,63 USD |
+
+Befund:
+- Der Direktaufruf spart rund 45 %, nicht die geschätzten 85 %. Die Eingabe ist so klein wie erwartet; die Ausgabe ist sieben- bis neunmal so lang wie die Karten (rund 6.000 Token Kartentext), weil das Modell vor dem Schreiben lange nachdenkt.
+- Ein Agent, der nur eine Datei liest, spart kaum: Er zählt den ganzen Rahmen in jeder Runde neu.
+- Der Direktaufruf ist langsam (12 bis 17 Minuten je Ort) – für die Erzeugung auf Abruf vor einer Fahrt (H1) zu langsam, wenn nicht parallel.
+- Beide Läufe lieferten zehn Karten; Prüfung mit dem Prüfskript und Vergleich mit den bisherigen Karten stehen aus.
+
+Nächste Hebel aus der Probe: Nachdenken begrenzen (Einstellung der Denktiefe) und ein kleineres Modell (Sonnet) am selben Ort messen, jeweils mit Prüfskript und Faktencheck-Stichprobe.
