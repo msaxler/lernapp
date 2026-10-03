@@ -16,12 +16,12 @@
 | Altwied | 9 | 3 | 9 | 0 | 0 | 0 |
 | Rengsdorf | 8 | 3 | 8 | 0 | 0 | 0 |
 | Dierdorf | 6 | 3 | 6 | 0 | 0 | 0 |
-| Waldbreitbach | 10 | 4 | 9 | 0 | 0 | 0 |
+| Waldbreitbach | 11 | 5 | 9 | 0 | 0 | 0 |
 | Linz am Rhein | 10 | 3 | 10 | 0 | 0 | 0 |
 | Bad Hönningen | 10 | 3 | 10 | 0 | 0 | 0 |
 | Leutesdorf | 10 | 3 | 10 | 0 | 0 | 0 |
 | Feldkirchen | 10 | 3 | 10 | 0 | 0 | 0 |
-| **zusammen** | **103** | **34** | **102** | **0** | **0** | **0** |
+| **zusammen** | **104** | **35** | **102** | **0** | **0** | **0** |
 
 ---
 
@@ -791,7 +791,7 @@
 
 ---
 
-## 07 · Waldbreitbach · 10 Karten im Vorrat
+## 07 · Waldbreitbach · 11 Karten im Vorrat
 
 ### erster Lauf, Karte 1 · Geschichte · Familie A    [ ] streichen
 
@@ -931,6 +931,20 @@
 > Du hattest [Option] getippt. Waldbreitbach gab der CDU 43,8 Prozent der Zweitstimmen, im Landkreis Neuwied waren es 31,9: 11,9 Punkte mehr. Die nächstgrößte Abweichung hatte die AfD mit 4,8 Punkten. Richtig war 1.
 
 33 Wörter · Faktencheck: **bestätigt**
+
+### Seltenheit, Karte 1 · Klassiker · Familie A    [ ] streichen
+
+> Waldbreitbach
+> Gemeinde mit rund 1.900 Einwohnern, 25 km nordwestlich von Koblenz.
+> Waldbreitbach hat einen Wert, den nur 73 der 10.753 Gemeinden Deutschlands übertreffen. Welchen?
+> 1. Den Frauenanteil
+> 2. Die Fläche der Gemarkung
+> 3. Die Einwohnerzahl
+> 4. Die Einwohner je Quadratkilometer
+
+> Du hattest [Option] getippt. Von 1.944 Einwohnern sind 1.058 Frauen, 54,4 Prozent. Das übertreffen nur 73 der 10.753 Gemeinden Deutschlands; der Median liegt bei 50,2. Im Landkreis Neuwied kommt keine andere Gemeinde über 52,4. In Waldbreitbach liegt das Mutterhaus der Waldbreitbacher Franziskanerinnen. Ob das den Wert erklärt, sagt die Statistik nicht. Richtig war 1.
+
+54 Wörter · Faktencheck: **bestätigt**
 
 ---
 

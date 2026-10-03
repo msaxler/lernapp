@@ -26,13 +26,13 @@ def feld(text, name):
 def main():
     alle = []
     # faktencheck/ enthält die Läufe v0.4 und v0.5, faktencheck-v0.6/ den Lauf v0.6
-    # weitere Läufe und Räume: jeder Ordner faktencheck-v0.N/; die Rechenprüfung der Ausreißer-Karten in faktencheck-a0.N/
-    pfade = sorted(glob.glob(os.path.join(FC, '[0-9]*.md'))) + sorted(glob.glob(os.path.join(FC + '-[va]0.[0-9]*', '[0-9]*.md')))
+    # weitere Läufe und Räume: jeder Ordner faktencheck-v0.N/; die Rechenprüfungen in faktencheck-a0.N/ (Ausreißer) und -s0.N/ (Seltenheit)
+    pfade = sorted(glob.glob(os.path.join(FC, '[0-9]*.md'))) + sorted(glob.glob(os.path.join(FC + '-[vas]0.[0-9]*', '[0-9]*.md')))
     for pfad in pfade:
         slug = os.path.splitext(os.path.basename(pfad))[0]
         with io.open(pfad, encoding='utf-8') as f:
             text = f.read()
-        teile = re.split(r'^##\s*([va]0\.\d)\s+(Karte|Vorschlag)\s+(\d+)\s*$', text, flags=re.M)
+        teile = re.split(r'^##\s*([vas]0\.\d)\s+(Karte|Vorschlag)\s+(\d+)\s*$', text, flags=re.M)
         zahl = {'OK': 0, 'KORRIGIEREN': 0, 'UNSICHER': 0}
         for i in range(1, len(teile), 4):
             rest = re.split(r'^##\s*(?:ANSCHLÜSSE|ZUSAMMENFASSUNG)', teile[i + 3], flags=re.M)[0]

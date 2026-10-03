@@ -24,7 +24,7 @@ WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file_
 ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'))
 ZIEL = os.path.join(WURZEL, 'docs', 'konzepte', 'quizaway-stufe2-vorrat-2026-10-02.md')
 LAEUFE = [('v0.6', 'Karte', 'dritter Lauf'), ('v0.5', 'Karte', 'zweiter Lauf'), ('v0.4', 'Vorschlag', 'erster Lauf'),
-          ('a0.1', 'Karte', 'Ausreißer')]  # a0.1 hinten: LAEUFE[0] bleibt der jüngste Kartenlauf (Übersicht, Kartensatz)
+          ('a0.1', 'Karte', 'Ausreißer'), ('s0.1', 'Karte', 'Seltenheit')]  # a0.1 hinten: LAEUFE[0] bleibt der jüngste Kartenlauf (Übersicht, Kartensatz)
 # ein weiterer Raum (GA_RAUM=neuwied) bringt Läufe (jüngster zuerst) und Blattnamen in <raum>/orte.json mit
 RAUM = {}
 if os.path.exists(os.path.join(ITER, 'orte.json')):
@@ -40,7 +40,9 @@ GRUNDDATEN_NAME = {'einwohner': 'Einwohnerzahl', 'landkreis': 'Landkreis', 'kfz'
                    'wahl_btw25.erste': 'Bundestagswahl 2025, Anteil der stärksten Partei',
                    'wahl_btw25.beteiligung': 'Bundestagswahl 2025, Wahlbeteiligung',
                    'ausreisser_kreis': 'Bundestagswahl 2025, Ausreißer gegen den Kreis',
-                   'ausreisser_wahlkreis': 'Bundestagswahl 2025, Ausreißer des Wahlkreises'}
+                   'ausreisser_wahlkreis': 'Bundestagswahl 2025, Ausreißer des Wahlkreises',
+                   'seltenheit_frauenanteil': 'Seltenheit: Frauenanteil', 'seltenheit_dichte': 'Seltenheit: Einwohner je km²',
+                   'seltenheit_flaeche': 'Seltenheit: Fläche', 'seltenheit_einwohner': 'Seltenheit: Einwohnerzahl'}
 DOC_VORRAT = ('Mikes Streichungen im Vorrats-Blatt, je Ort eine Liste [Lauf, Karte]. Gestrichen heißt: die Karte ist raus; '
               'eine ältere Karte zum selben Fakt kommt dadurch nicht zurück.')
 FELDER = 'FAKTENCHECK|SORTE|FAMILIE|FAKT-ID|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|ANSCHLUSS|NEGATIVNACHWEISE|PRÜFHINWEIS|## '

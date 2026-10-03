@@ -1,0 +1,49 @@
+{
+ "_doc": "Seltenheits-Karten je Zielgemeinde (gemeinde_achsen_seltenheit.py, Lauf s0.1)",
+ "orte": [
+  {
+   "slug": "01-bendorf",
+   "ort": "Bendorf",
+   "karten": []
+  },
+  {
+   "slug": "05-rengsdorf",
+   "ort": "Rengsdorf",
+   "karten": []
+  },
+  {
+   "slug": "06-dierdorf",
+   "ort": "Dierdorf",
+   "karten": []
+  },
+  {
+   "slug": "07-waldbreitbach",
+   "ort": "Waldbreitbach",
+   "karten": [
+    {
+     "merkmal": "frauenanteil",
+     "wert": 54.42,
+     "gemeinden_besser": 73,
+     "menge": 10753,
+     "richtung": "übertreffen",
+     "kreis_zweiter": 52.42
+    }
+   ]
+  },
+  {
+   "slug": "08-linz",
+   "ort": "Linz am Rhein",
+   "karten": []
+  },
+  {
+   "slug": "09-bad-hoenningen",
+   "ort": "Bad Hönningen",
+   "karten": []
+  },
+  {
+   "slug": "10-leutesdorf",
+   "ort": "Leutesdorf",
+   "karten": []
+  }
+ ]
+}

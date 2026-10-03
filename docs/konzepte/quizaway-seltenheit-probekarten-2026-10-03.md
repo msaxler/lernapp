@@ -9,7 +9,9 @@
 - Falsche Optionen sind andere Eigenschaften derselben Vergleichsmenge; bei jeder übertreffen (unterbieten) den Ort weit mehr Gemeinden (Negativnachweis aus vollständiger Quelle).
 - Ergiebigkeit in beiden Räumen: Waldbreitbach (Frauenanteil, 73 von 10.753), Kirchzarten (Grüne, 10 von 5.532; AfD, 32), Gundelfingen (Grüne, 13), Horben (AfD, 14), Staufen (Grüne, 15), St. Peter (Grüne, 66), Denzlingen (Grüne, 79). Sieben von 15 Gemeinden – fast alle im grünen Freiburger Umland.
 
-**Fragen an Mike** (Kreuz setzen):
+**Urteil Mike (2026-10-03):** Karte 1 (Waldbreitbach, Frauenanteil) „OK“; Karte 2 (Horben, AfD) „immer noch zu schwach“; Karte 3 (Kirchzarten, Grüne) „auch zu schwach“. Lesart: Bei Horben und Kirchzarten erklärt die Gegend den Wert (grünes Freiburger Umland), das Erstaunen bleibt aus; Waldbreitbachs Frauenanteil hat keine naheliegende Erklärung und ist auch im eigenen Kreis mit Abstand Platz eins. **Regel daraus:** Eine Seltenheits-Karte trägt nur, wenn höchstens ein Prozent der Gemeinden Deutschlands den Wert übertrifft (unterbietet) **und** der Ort in seinem Kreis mit Abstand Platz eins hat. Gebaut als Lauf s0.1 (`gemeinde_achsen_seltenheit.py`, Prüfer `check/gemeinde_achsen_seltenheit_pruefen.py`): in beiden Räumen nur Waldbreitbach; die Karte ist im Vorrat.
+
+**Fragen an Mike** (beantwortet):
 
 - [ ] Macht diese Form Spielfreude?
 - [ ] Grenze „höchstens ein Prozent“ richtig? (Dann haben sieben Gemeinden eine Karte, fünf davon wegen der Grünen.)
