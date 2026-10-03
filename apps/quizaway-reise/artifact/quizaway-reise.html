@@ -1,8 +1,8 @@
 <title>QuizAway Reise-Prototyp</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Nunito+Sans:wght@400;600;700&display=swap">
 <style>
-/* Feldtest-Prototyp Reise-Modus (Spielkonzept v0.2.8, UI-Konzept v0.2). Aussehen aus der Skizze v0.2:
-   Ortsschild-Gelb, Hell und Dunkel; Auto-Screens mit festen Maßen (R-UI-18), Bahn/Solo wächst mit der Systemschrift. */
+/* Feldtest-Prototyp Reise-Modus (Spielkonzept v0.3.1, UI-Konzept v0.2). Aussehen aus der Skizze v0.2:
+   Ortsschild-Gelb, Hell und Dunkel; beim Vorlesen feste Maße (R-UI-18), sonst wächst die Schrift mit. */
 :root{
   --bg:#fbfbf9; --fg:#171a1f; --muted:#5c6878; --line:#cfd6df; --surface:#ffffff;
   --accent:#f6c700; --accent-fg:#1b1b1b; --plate-edge:#1b1b1b;
@@ -32,9 +32,10 @@ button:focus-visible{outline:3px solid var(--spine);outline-offset:2px}
 .scr{position:absolute;inset:0;background:var(--bg);color:var(--fg);display:flex;flex-direction:column;padding:16px 16px calc(16px + env(safe-area-inset-bottom));gap:10px;overflow:auto}
 .scr[hidden]{display:none}
 .grow{flex:1 1 auto;min-height:0}
-.top{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:13px}
+.top{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:13px;flex-wrap:wrap}
 .top .sp{flex:1}
 .top button{border:1px solid var(--line);border-radius:8px;padding:4px 8px;font-weight:700;font-size:12px}
+.top button[aria-pressed="true"]{background:var(--accent);color:var(--accent-fg);border-color:var(--plate-edge)}
 
 .plate{align-self:flex-start;background:var(--accent);color:var(--accent-fg);border:3px solid var(--plate-edge);border-radius:6px;padding:4px 10px;font-family:var(--display);font-weight:700;line-height:1.2}
 .meta{color:var(--muted);line-height:1.4}
@@ -46,17 +47,20 @@ button:focus-visible{outline:3px solid var(--spine);outline-offset:2px}
 .opt[aria-pressed="true"]{border-color:var(--strong)}
 .opt[aria-pressed="true"] .k{background:var(--accent);color:var(--accent-fg)}
 .bar{display:flex;gap:8px;flex:0 0 auto}
+.bar[hidden]{display:none}
 .btn{flex:1;min-height:56px;border:2px solid var(--line);border-radius:14px;font-weight:700;display:grid;place-items:center;text-align:center;padding:6px 10px;line-height:1.2}
 .btn.primary{background:var(--accent);color:var(--accent-fg);border-color:var(--plate-edge)}
 .btn.quiet{color:var(--muted)}
 .btn.small{flex:0 0 auto;min-height:44px;font-weight:600}
 .btn[disabled]{opacity:.45;cursor:default}
+.btn[hidden]{display:none}
 
-.auto .plate{font-size:20px} .auto .meta{font-size:15px} .auto .q{font-size:24px} .auto .hint{font-size:15px}
-.auto .opt{min-height:72px;font-size:20px} .auto .btn{font-size:20px} .auto .quote,.auto .story,.auto .conn{font-size:20px}
+.vor .plate{font-size:20px} .vor .meta{font-size:15px} .vor .q{font-size:24px} .vor .hint{font-size:15px}
+.vor .opt{min-height:72px;font-size:20px} .vor .btn{font-size:20px} .vor .quote,.vor .story,.vor .conn{font-size:20px}
 .rail{font-size:1rem} .rail .plate{font-size:1.25rem} .rail .meta{font-size:.9rem} .rail .q{font-size:1.375rem}
 .rail .opt{min-height:56px;font-size:1.0625rem} .rail .btn{font-size:1.0625rem} .rail .quote,.rail .story,.rail .conn{font-size:1rem;line-height:1.5}
 
+.push{align-self:flex-start;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
 .quote{font-weight:700;line-height:1.4;border-left:4px solid var(--spine);padding-left:10px}
 .story{line-height:1.45;margin:0}
 .chip{align-self:flex-start;border:2px solid var(--strong);border-radius:999px;padding:3px 12px;font-weight:700;font-size:16px;line-height:1.3}
@@ -71,31 +75,34 @@ button:focus-visible{outline:3px solid var(--spine);outline-offset:2px}
 .stop{position:relative;line-height:1.3}
 .stop b{font-family:var(--display);font-weight:500}
 .stop small{display:block;color:var(--muted)}
+.stop.blass{opacity:.55}
 .pin{position:absolute;left:-33px;top:1px;width:22px;height:22px;border-radius:50%;border:3px solid var(--spine);background:var(--bg)}
 .pin.hit{background:var(--spine)}
-.pin.split{background:linear-gradient(90deg,var(--spine) 0 50%,var(--bg) 50% 100%)}
-.pin.torn{border-radius:3px;transform:rotate(45deg) scale(.82)}
 .pin.next{background:var(--accent);border-color:var(--plate-edge)}
 .pin.todo{border-color:var(--line)}
 .pin.skip{border-style:dashed;border-color:var(--line)}
+.pin.pos{width:14px;height:14px;left:-29px;top:4px;border:0;background:var(--no)}
 .legend{display:flex;flex-wrap:wrap;gap:4px 14px;color:var(--muted);font-size:12px;line-height:1.4}
 .legend span{position:relative;padding-left:20px}
 .legend .pin{left:0;top:2px;width:13px;height:13px;border-width:2px}
 .idle{background:var(--idle-bg);color:var(--idle-fg)}
 .idle .meta,.idle .stop small,.idle .legend{color:var(--idle-muted)}
-.idle .pin{background:var(--idle-bg)} .idle .pin.hit{background:var(--spine)} .idle .pin.next{background:var(--accent)}
+.idle .pin{background:var(--idle-bg)} .idle .pin.hit{background:var(--spine)} .idle .pin.next{background:var(--accent)} .idle .pin.pos{background:var(--no)}
 .idle .stop{font-size:18px} .idle .next-line{font-size:22px;font-family:var(--display);line-height:1.3}
+.status{font-size:13px;color:var(--muted);line-height:1.4}
 
 .rungs{display:flex;flex-direction:column;gap:8px}
 .rung{display:flex;justify-content:space-between;align-items:center;border:2px solid var(--line);border-radius:12px;padding:10px 14px;line-height:1.3;color:var(--muted)}
-.auto .rung{font-size:20px}
+.vor .rung{font-size:20px}
 .rung.yes{color:var(--fg);border-color:var(--spine)}
 .rung.now{color:var(--fg);border-color:var(--strong);background:var(--surface);font-weight:700}
 .rung span{font-size:15px;font-weight:600}
 
 .choice{display:flex;flex-direction:column;gap:8px}
-.choice .opt{min-height:64px}
+.choice .opt{min-height:60px}
 .choice .opt small{display:block;color:var(--muted);font-size:13px}
+.row{display:flex;gap:8px;flex-wrap:wrap}
+.row .opt{flex:1 1 30%;min-height:48px;justify-content:center}
 .tally{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;text-align:center}
 .tally div{border:2px solid var(--line);border-radius:12px;padding:8px 4px}
 .tally b{display:block;font-family:var(--display);font-size:1.6rem;font-variant-numeric:tabular-nums;line-height:1.2}
@@ -109,17 +116,36 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
 </style>
 <div class="stage">
 
-  <!-- S1/S3 Start: Raum und Situation -->
+  <!-- Start: Raum, Streckenquelle, Vorlesen -->
   <section class="scr rail" id="s-start">
-    <div class="top"><span class="sp">Feldtest-Prototyp · Spielkonzept v0.2.8</span><button id="theme">System</button></div>
+    <div class="top"><span class="sp">Feldtest-Prototyp · Spielkonzept v0.3.1</span><button id="theme">System</button></div>
     <div class="plate" style="font-size:1.6rem">QuizAway</div>
-    <p class="meta">Ein Ort wird zum Spielort. Erst die eigene Theorie, dann die Geschichte. Ankommen am Ort wird mit „Jetzt“ simuliert.</p>
+    <p class="meta">Ein Ort kommt näher. Erst die eigene Theorie, dann die Geschichte. Ein Urteil je Frage – allein oder nach der Diskussion im Auto.</p>
     <b>Strecke</b>
     <div class="choice" id="raeume"></div>
-    <b>Situation</b>
-    <div class="choice" id="modi">
-      <button class="opt" data-modus="auto" aria-pressed="true"><span class="k">A</span><span>Auto, Gruppe<small>Beifahrer liest vor, alle rufen 1–4; gespalten und uneinig möglich</small></span></button>
-      <button class="opt" data-modus="solo" aria-pressed="false"><span class="k">S</span><span>Bahn, solo<small>eigenes Tempo, festlegen, dann auflösen</small></span></button>
+    <b>Streckenquelle</b>
+    <div class="choice" id="quellen">
+      <button class="opt" data-quelle="gps"><span class="k">G</span><span>Echte Fahrt (GPS)<small>Push: Fragen kommen von selbst, wenn ein Ort näher kommt</small></span></button>
+      <button class="opt" data-quelle="sim"><span class="k">S</span><span>Fahrt simulieren<small>Push wie unterwegs, ein Punkt fährt die Strecke ab – zum Probieren am Tisch</small></span></button>
+      <button class="opt" data-quelle="pull"><span class="k">T</span><span>Strecke durchtippen<small>Pull: Ort für Ort, eigenes Tempo</small></span></button>
+    </div>
+    <div id="sim-wahl">
+      <b>Simulation</b>
+      <div class="row" id="sim-tempo" style="margin-top:8px">
+        <button class="opt" data-kmh="50">Auto 50 km/h</button>
+        <button class="opt" data-kmh="100">Auto 100 km/h</button>
+        <button class="opt" data-kmh="160">Bahn 160 km/h</button>
+      </div>
+      <div class="row" id="sim-faktor" style="margin-top:8px">
+        <button class="opt" data-f="1">Echtzeit</button>
+        <button class="opt" data-f="5">Zeitraffer ×5</button>
+        <button class="opt" data-f="20">Zeitraffer ×20</button>
+      </div>
+    </div>
+    <b>Vorlesen</b>
+    <div class="choice" id="vorlesen">
+      <button class="opt" data-vor="1"><span class="k">V</span><span>Es wird vorgelesen<small>große feste Schrift, Lügen-Fragen mit zwei Aussagen; der Text bleibt stehen, bis aufgelöst ist</small></span></button>
+      <button class="opt" data-vor="0"><span class="k">L</span><span>Jede Person liest selbst<small>Schrift wächst mit, Lügen-Fragen mit drei Aussagen</small></span></button>
     </div>
     <div class="grow"></div>
     <div class="bar"><button class="btn primary" id="starten">Fahrt starten</button></div>
@@ -127,29 +153,32 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     <div class="note" id="vorrat-info"></div>
   </section>
 
-  <!-- S4/S7 Fahrtkarte -->
+  <!-- Fahrtkarte -->
   <section class="scr" id="s-karte" hidden>
-    <div class="top"><span class="sp" id="k-zaehler"></span><button id="k-menue">Menü</button></div>
+    <div class="top"><span class="sp" id="k-zaehler"></span><button id="k-vor">Vorlesen</button><button id="k-pause" hidden>Pause</button><button id="k-menue">Menü</button></div>
+    <div class="status" id="k-status"></div>
     <div class="route grow" id="k-route"></div>
-    <div class="legend"><span><i class="pin hit"></i>Treffer</span><span><i class="pin"></i>daneben</span><span><i class="pin split"></i>gespalten</span><span><i class="pin torn"></i>uneinig</span></div>
+    <div class="legend"><span><i class="pin hit"></i>meist richtig</span><span><i class="pin"></i>meist daneben</span><span><i class="pin next"></i>in Sicht</span><span><i class="pin skip"></i>passiert</span><span><i class="pin pos"></i>Position</span></div>
     <div class="bar"><button class="btn primary" id="k-jetzt">Jetzt</button></div>
     <div class="bar"><button class="btn small quiet" id="k-skip" style="flex:1">Ort überspringen</button><button class="btn small quiet" id="k-ende" style="flex:1">Fahrt abschließen</button></div>
   </section>
 
-  <!-- S5/S8 Frage -->
+  <!-- Frage -->
   <section class="scr" id="s-frage" hidden>
+    <div class="push" id="f-push" hidden></div>
     <div class="plate" id="f-ort"></div>
     <div class="meta" id="f-steck"></div>
     <h1 class="q" id="f-frage"></h1>
     <div class="hint" id="f-hint"></div>
     <div class="opts" id="f-opts"></div>
     <div class="grow"></div>
-    <div class="bar" id="f-bar-leer"><button class="btn quiet" id="f-gleich">Gleich</button><button class="btn" id="f-uneinig">uneinig</button></div>
-    <div class="bar" id="f-bar-wahl" hidden><button class="btn primary" id="f-aufloesen">Auflösen</button></div>
+    <div class="bar" id="f-bar-leer"><button class="btn quiet" id="f-gleich">Gleich</button></div>
+    <div class="bar" id="f-bar-wahl" hidden><button class="btn primary" id="f-aufloesen">Festlegen</button></div>
   </section>
 
-  <!-- SL Leiter -->
+  <!-- Leiter -->
   <section class="scr" id="s-leiter" hidden>
+    <div class="push" id="l-push" hidden></div>
     <div class="plate" id="l-ort"></div>
     <div class="meta" id="l-steck"></div>
     <h1 class="q" id="l-frage"></h1>
@@ -158,7 +187,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     <div class="bar"><button class="btn" id="l-hoeher">höher</button><button class="btn primary" id="l-raus">hier steige ich aus</button></div>
   </section>
 
-  <!-- S6 Auflösung -->
+  <!-- Auflösung -->
   <section class="scr" id="s-aufl" hidden>
     <div class="plate" id="a-ort"></div>
     <div class="quote" id="a-zitat"></div>
@@ -172,14 +201,16 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     <div class="bar"><button class="btn" id="a-zu">Zur Fahrtkarte</button></div>
   </section>
 
-  <!-- S10 Fahrtende -->
+  <!-- Fahrtende -->
   <section class="scr rail" id="s-ende" hidden>
     <div class="plate" id="e-titel"></div>
     <div class="meta" id="e-meta"></div>
-    <div class="tally"><div><b id="e-orte">0</b><span>gespielt</span></div><div><b id="e-treffer">0</b><span>Treffer</span></div><div><b id="e-daneben">0</b><span>daneben</span></div></div>
+    <div class="tally"><div><b id="e-orte">0</b><span>Orte</span></div><div><b id="e-fragen">0</b><span>Fragen</span></div><div><b id="e-richtig">0</b><span>richtig</span></div></div>
+    <b>Ort der Fahrt <span class="note">(freiwillig, ein Tipp)</span></b>
+    <div class="row" id="e-ortderfahrt"></div>
     <div class="list" id="e-liste"></div>
     <b>Notiz zum Feldtest</b>
-    <textarea id="e-notiz" placeholder="Was ist aufgefallen? Wo wurde gelacht, wo abgeschaltet?"></textarea>
+    <textarea id="e-notiz" placeholder="Was ist aufgefallen? Kamen Fragen zu früh, zu spät? Wo wurde gelacht, wo abgeschaltet?"></textarea>
     <div class="grow"></div>
     <div class="bar"><button class="btn" id="e-protokoll">Protokoll kopieren</button><button class="btn primary" id="e-neu">Neue Fahrt</button></div>
     <div class="note" id="e-hinweis"></div>
@@ -196,22 +227,30 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   var IDS = ['s-start','s-karte','s-frage','s-leiter','s-aufl','s-ende'];
   var MUSTER = ['A','C','A','B','Leiter','A','B','A','B','A','C'];   // gemischte Reihe des Kartensatzes für den Tisch
   var ZIFFER = {1:'eins',2:'zwo',3:'drei',4:'vier'};
+  var JE_ORT = 3;
+  // Zielfenster, Spielkonzept v0.3.1 §1a (Startwerte, eingestellt im Feldtest). Zeiten in Sekunden Fahrzeit, Wege in Metern.
+  var FENSTER = { vorschau: 180, ausloesung: 30, nachlauf: 60, korridor: 5000, strecke: 1000, still_kmh: 10, still_radius: 2000, gleich: 30 };
 
   // ---- Speicher (nur Komfort; die Seite läuft auch ohne) ----
-  function laden(k, leer){ try{ var v = localStorage.getItem('qa-'+k); return v ? JSON.parse(v) : leer; }catch(e){ return leer; } }
-  function sichern(k, v){ try{ localStorage.setItem('qa-'+k, JSON.stringify(v)); }catch(e){} }
+  function laden(k, leer){ try{ var v = localStorage.getItem('qa3-'+k); return v ? JSON.parse(v) : leer; }catch(e){ return leer; } }
+  function sichern(k, v){ try{ localStorage.setItem('qa3-'+k, JSON.stringify(v)); }catch(e){} }
 
-  var fahrt = laden('fahrt', null);         // laufende Fahrt
-  var gespielt = laden('gespielt', {});     // je Raum: Liste gespielter Karten-IDs (über Fahrten hinweg)
-  var modus = 'auto', raumId = D.raeume[0].id;
+  var fahrt = laden('fahrt', null);
+  var gespielt = laden('gespielt', {});     // je Raum: gespielte Karten-IDs über Fahrten hinweg
+  var wahlStart = laden('wahl', { raum: D.raeume[0].id, quelle: 'sim', vor: 1, kmh: 50, f: 5 });
 
   function raum(){ return D.raeume.filter(function(r){ return r.id === fahrt.raum; })[0]; }
+  function ortVon(slug){ return raum().orte.filter(function(o){ return o.slug === slug; })[0]; }
+  function istPush(){ return fahrt && fahrt.quelle !== 'pull'; }
+  function aktivScreen(){ for(var i = 0; i < IDS.length; i++) if(!$(IDS[i]).hidden) return IDS[i]; return null; }
   function show(id){
     IDS.forEach(function(x){ $(x).hidden = (x !== id); $(x).classList.remove('in'); });
     var s = $(id); s.classList.add('in'); s.scrollTop = 0;
-    if(id !== 's-start' && id !== 's-ende'){ s.classList.toggle('auto', fahrt.modus === 'auto'); s.classList.toggle('rail', fahrt.modus !== 'auto'); }
-    if(id === 's-karte') s.classList.toggle('idle', fahrt.modus === 'auto');
+    if(id !== 's-start' && id !== 's-ende'){ s.classList.toggle('vor', !!fahrt.vor); s.classList.toggle('rail', !fahrt.vor); }
+    if(id === 's-karte') s.classList.toggle('idle', !!fahrt.vor);
   }
+  function fmtZeit(s){ s = Math.max(0, Math.round(s)); return s < 60 ? s + ' s' : Math.round(s / 60) + ' min'; }
+  function fmtKm(m){ return (m / 1000).toFixed(1).replace('.', ',') + ' km'; }
 
   // ---- Hell / Dunkel / System ----
   var modes = ['System','Hell','Dunkel'], m = laden('theme', 0);
@@ -225,120 +264,324 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     D.raeume.forEach(function(r, i){
       var n = r.orte.reduce(function(s, o){ return s + o.karten.length; }, 0);
       var b = document.createElement('button');
-      b.className = 'opt'; b.setAttribute('aria-pressed', r.id === raumId ? 'true' : 'false');
+      b.className = 'opt'; b.setAttribute('aria-pressed', r.id === wahlStart.raum ? 'true' : 'false');
       b.innerHTML = '<span class="k">' + (i + 1) + '</span><span>' + r.name + '<small>' + r.orte.length + ' Orte · ' + n + ' Karten im Vorrat · ' +
         ((gespielt[r.id] || []).length) + ' schon gespielt</small></span>';
-      b.onclick = function(){ raumId = r.id; startZeichnen(); };
+      b.onclick = function(){ wahlStart.raum = r.id; startZeichnen(); };
       $('raeume').appendChild(b);
     });
-    document.querySelectorAll('#modi .opt').forEach(function(b){
-      b.setAttribute('aria-pressed', b.dataset.modus === modus ? 'true' : 'false');
-      b.onclick = function(){ modus = b.dataset.modus; startZeichnen(); };
-    });
+    function gruppe(sel, attr, key, conv){
+      document.querySelectorAll(sel).forEach(function(b){
+        var v = conv(b.dataset[attr]);
+        b.setAttribute('aria-pressed', v === wahlStart[key] ? 'true' : 'false');
+        b.onclick = function(){ wahlStart[key] = v; startZeichnen(); };
+      });
+    }
+    gruppe('#quellen .opt', 'quelle', 'quelle', String);
+    gruppe('#vorlesen .opt', 'vor', 'vor', Number);
+    gruppe('#sim-tempo .opt', 'kmh', 'kmh', Number);
+    gruppe('#sim-faktor .opt', 'f', 'f', Number);
+    $('sim-wahl').hidden = wahlStart.quelle !== 'sim';
+    sichern('wahl', wahlStart);
     $('bar-weiter').hidden = !(fahrt && !fahrt.ende);
-    $('vorrat-info').textContent = 'Karten aus dem geprüften Vorrat (Faktencheck). Gespielte Karten kommen erst wieder, wenn ein Ort alle durch hat.';
+    $('vorrat-info').textContent = 'Karten aus dem geprüften Vorrat (Faktencheck). Echte Fahrt: nur in den Räumen Freiburg und Neuwied sinnvoll; der Bildschirm muss an bleiben.';
   }
-  $('starten').onclick = function(){
-    var r = D.raeume.filter(function(x){ return x.id === raumId; })[0];
-    fahrt = { raum: raumId, modus: modus, start: new Date().toISOString(), pos: 0, orte: r.orte.map(function(o){ return { slug: o.slug, status: 'todo' }; }), log: [] };
-    sichern('fahrt', fahrt); karteZeichnen(); show('s-karte');
-  };
-  $('weiter').onclick = function(){ karteZeichnen(); show('s-karte'); };
 
-  // ---- Fahrtkarte ----
-  function ortVon(slug){ return raum().orte.filter(function(o){ return o.slug === slug; })[0]; }
-  function karteZeichnen(){
-    var r = raum(), h = '', pos = fahrt.pos;
-    $('k-zaehler').textContent = (pos < r.orte.length ? 'Ort ' + (pos + 1) + ' von ' + r.orte.length : 'Alle Orte gespielt') + ' · ' + r.name;
+  // ---- Geometrie: lokale Ebene in Metern ----
+  function xy(lat, lon, ref){ return { x: (lon - ref.lon) * Math.cos(ref.lat * Math.PI / 180) * 111320, y: (lat - ref.lat) * 110540 }; }
+  function routeBauen(r){
+    var ref = { lat: r.orte[0].lat, lon: r.orte[0].lon };
+    var p = r.orte.map(function(o){ return xy(o.lat, o.lon, ref); });
+    function weg(a, b, m){ var dx = a.x - b.x, dy = a.y - b.y, l = Math.hypot(dx, dy) || 1; return { x: a.x + dx / l * m, y: a.y + dy / l * m }; }
+    var pts = [weg(p[0], p[1], 2500)].concat(p).concat([weg(p[p.length - 1], p[p.length - 2], 1500)]);
+    var s = [0];
+    for(var i = 1; i < pts.length; i++) s.push(s[i - 1] + Math.hypot(pts[i].x - pts[i - 1].x, pts[i].y - pts[i - 1].y));
+    return { ref: ref, pts: pts, s: s, ortS: p.map(function(_, i){ return s[i + 1]; }), laenge: s[s.length - 1] };
+  }
+  function punktAuf(rt, sNow){
+    var i = 1; while(i < rt.s.length - 1 && rt.s[i] < sNow) i++;
+    var a = rt.pts[i - 1], b = rt.pts[i], l = rt.s[i] - rt.s[i - 1] || 1, t = Math.min(1, Math.max(0, (sNow - rt.s[i - 1]) / l));
+    return { x: a.x + (b.x - a.x) * t, y: a.y + (b.y - a.y) * t, hx: (b.x - a.x) / l, hy: (b.y - a.y) / l };
+  }
+
+  // ---- Position: Simulation oder GPS ----
+  var rt = null, pos = null, gpsId = null, gpsFehler = '', letzteFixe = [];
+  function uhr(){ return fahrt.quelle === 'sim' ? fahrt.sim.t : Date.now() / 1000; }   // Fahrzeit in Sekunden
+  function simSchritt(dt){
+    if(fahrt.sim.pause) return;
+    var v = fahrt.sim.kmh / 3.6;
+    fahrt.sim.t += dt * fahrt.sim.f;
+    fahrt.sim.s = Math.min(rt.laenge, fahrt.sim.s + v * dt * fahrt.sim.f);
+    var p = punktAuf(rt, fahrt.sim.s);
+    pos = { x: p.x, y: p.y, hx: p.hx, hy: p.hy, v: fahrt.sim.s >= rt.laenge ? 0 : v };
+  }
+  function gpsStarten(){
+    if(!navigator.geolocation){ gpsFehler = 'Dieses Gerät meldet kein GPS.'; return; }
+    try{
+      gpsId = navigator.geolocation.watchPosition(function(p){
+        var c = p.coords, q = xy(c.latitude, c.longitude, rt.ref), now = Date.now() / 1000;
+        letzteFixe.push({ x: q.x, y: q.y, t: now }); letzteFixe = letzteFixe.filter(function(f){ return now - f.t < 30; });
+        var hx = 0, hy = 0, v = (c.speed != null && c.speed >= 0) ? c.speed : null;
+        // Richtung aus den Fixen der letzten 30 s (mindestens 30 m Weg), Tempo notfalls ebenso
+        var alt = letzteFixe[0], dx = q.x - alt.x, dy = q.y - alt.y, d = Math.hypot(dx, dy);
+        if(d >= 30){ hx = dx / d; hy = dy / d; if(v === null) v = d / Math.max(1, now - alt.t); }
+        else if(pos && pos.hx){ hx = pos.hx; hy = pos.hy; }
+        pos = { x: q.x, y: q.y, hx: hx, hy: hy, v: v || 0, genau: Math.round(c.accuracy) };
+        gpsFehler = '';
+      }, function(e){ gpsFehler = 'GPS: ' + (e.code === 1 ? 'Zugriff verweigert' : e.code === 2 ? 'keine Position' : 'Zeitüberschreitung') + '. „Jetzt“ startet den nächsten Ort von Hand.'; },
+      { enableHighAccuracy: true, maximumAge: 2000, timeout: 20000 });
+    }catch(e){ gpsFehler = 'GPS nicht verfügbar: ' + e.message; }
+  }
+
+  // Lage eines Orts zur Position: Zeit bis zum Vorbeikommen (s), seitlicher Abstand (m), Luftlinie (m)
+  function lage(i){
+    var o = raum().orte[i], q;
+    if(fahrt.quelle === 'sim'){
+      var v = fahrt.sim.kmh / 3.6;
+      return { t: (rt.ortS[i] - fahrt.sim.s) / v, lat: 0, dist: Math.abs(rt.ortS[i] - fahrt.sim.s), still: pos.v === 0 };
+    }
+    q = xy(o.lat, o.lon, rt.ref);
+    var dx = q.x - pos.x, dy = q.y - pos.y, dist = Math.hypot(dx, dy);
+    var still = pos.v * 3.6 < FENSTER.still_kmh || !pos.hx;
+    if(still) return { t: null, lat: dist, dist: dist, still: true };
+    var along = dx * pos.hx + dy * pos.hy, lat = Math.abs(dx * pos.hy - dy * pos.hx);
+    return { t: along / pos.v, lat: lat, dist: dist, still: false };
+  }
+
+  // ---- Fahrt anlegen ----
+  $('starten').onclick = function(){
+    var r = D.raeume.filter(function(x){ return x.id === wahlStart.raum; })[0];
+    fahrt = { raum: r.id, quelle: wahlStart.quelle, vor: wahlStart.vor, start: new Date().toISOString(), pos: 0,
+              orte: r.orte.map(function(o){ return { slug: o.slug, zustand: 'fern', ev: {} }; }), log: [], ereignisse: [], aktiv: -1 };
+    if(fahrt.quelle === 'sim') fahrt.sim = { kmh: wahlStart.kmh, f: wahlStart.f, s: 0, t: 0, pause: false };
+    sichern('fahrt', fahrt); tonFreigeben(); fahrtLaufen();
+  };
+  $('weiter').onclick = function(){ tonFreigeben(); fahrtLaufen(); };
+  function fahrtLaufen(){
+    rt = routeBauen(raum());
+    if(fahrt.quelle === 'gps' && gpsId === null) gpsStarten();
+    if(fahrt.quelle === 'sim') simSchritt(0);
+    karteZeichnen(); show('s-karte');
+  }
+  function ereignis(art, ort){ fahrt.ereignisse.push({ art: art, ort: ort || null, fahrzeit: istPush() ? Math.round(uhr()) : null, zeit: new Date().toISOString() }); }
+
+  // ---- Takt: jede Sekunde Position und Fenster ----
+  var ticker = setInterval(function(){
+    if(!fahrt || fahrt.ende || !istPush() || !rt) return;
+    if(fahrt.quelle === 'sim') simSchritt(1);
+    if(!pos) { if(aktivScreen() === 's-karte') karteZeichnen(); return; }
+    fensterPruefen();
+    var sc = aktivScreen();
+    if(sc === 's-karte'){ var w = wartender(-1); if(w >= 0) ortStarten(w, 'push'); else karteZeichnen(); }
+    else if(sc === 's-aufl') auflBar();
+    sichern('fahrt', fahrt);
+  }, 1000);
+
+  function fensterPruefen(){
+    var now = uhr();
     fahrt.orte.forEach(function(f, i){
-      var o = ortVon(f.slug), cls = f.status;
-      if(i === pos) {
-        var km = o.km_vom_vorigen ? ' · ' + String(o.km_vom_vorigen).replace('.', ',') + ' km' : '';
-        h += '<div class="stop"><i class="pin next"></i><span class="next-line">Nächster Ort: <b>' + o.name + '</b>' + km + '</span></div>';
-      } else {
-        h += '<div class="stop"><i class="pin ' + (cls === 'todo' ? 'todo' : cls) + '"></i><b>' + o.name + '</b>' +
-             (f.kurz ? '<small>' + f.kurz + '</small>' : '') + '</div>';
+      if(f.zustand === 'gespielt' || f.zustand === 'ausgefallen') return;
+      var l = lage(i); f.lage = l;
+      var inVorschau = l.still ? l.dist <= FENSTER.still_radius : (l.t >= 0 && l.t <= FENSTER.vorschau && l.lat <= FENSTER.korridor);
+      var faellig = l.still ? l.dist <= FENSTER.still_radius : (l.t <= FENSTER.ausloesung && l.t > -FENSTER.nachlauf && l.lat <= FENSTER.korridor);
+      if(!l.still && l.t < 0 && f.ev.vorschau && !f.ev.passiert){ f.ev.passiert = now; }
+      if(f.zustand === 'aktiv') return;
+      if(f.zustand === 'fern' && inVorschau){ f.zustand = 'vorschau'; f.ev.vorschau = f.ev.vorschau || now; }
+      if((f.zustand === 'fern' || f.zustand === 'vorschau') && faellig){ f.zustand = 'faellig'; f.ev.faellig = f.ev.faellig || now; f.ev.vorschau = f.ev.vorschau || now; }
+      if(f.zustand === 'vorschau' && !inVorschau && !f.ev.passiert){ f.zustand = 'fern'; }
+      // Nachlauf vorbei, ohne gestartet zu sein: fällt still aus (blasser Pin „passiert“)
+      if((f.zustand === 'faellig' || f.zustand === 'vorschau') && f.ev.passiert && now - f.ev.passiert > FENSTER.nachlauf){
+        if(!(f.karten && f.karten.length)){ f.zustand = 'ausgefallen'; f.ev.ausgefallen = now; ereignis('ausgefallen', f.slug); }
+        else { f.zustand = 'gespielt'; }
       }
     });
-    $('k-route').innerHTML = h;
-    var fertig = pos >= r.orte.length;
-    $('k-jetzt').disabled = fertig; $('k-skip').disabled = fertig;
-    $('k-jetzt').textContent = fertig ? 'Fahrt zu Ende' : (fahrt.modus === 'auto' ? 'Jetzt' : 'Nächster Ort: ' + ortVon(fahrt.orte[pos].slug).name + ' — Frage starten');
   }
-  $('k-jetzt').onclick = function(){ frageStarten(); };
-  $('k-skip').onclick = function(){ fahrt.orte[fahrt.pos].status = 'skip'; fahrt.pos++; sichern('fahrt', fahrt); karteZeichnen(); };
+  // Nächster wartender Ort: fällig, nicht verschoben; Vorrang auf der Strecke (≤ 1 km), dann früher fällig
+  function wartender(ausser){
+    var now = uhr(), c = [];
+    fahrt.orte.forEach(function(f, i){
+      if(i !== ausser && f.zustand === 'faellig' && !(f.gleichBis > now) && freieKarten(i).length) c.push(i);
+    });
+    var auf = c.filter(function(i){ return (fahrt.orte[i].lage || {}).lat <= FENSTER.strecke; });
+    if(auf.length) c = auf;
+    c.sort(function(a, b){ return fahrt.orte[a].ev.faellig - fahrt.orte[b].ev.faellig; });
+    return c.length ? c[0] : -1;
+  }
+
+  // ---- Push-Hinweis: Ton beim Vorlesen, sonst leise (nur Vibration) ----
+  var audio = null;
+  function tonFreigeben(){ try{ audio = audio || new (window.AudioContext || window.webkitAudioContext)(); if(audio.state === 'suspended') audio.resume(); }catch(e){} }
+  function hinweis(){
+    try{ if(navigator.vibrate) navigator.vibrate(fahrt.vor ? [120, 80, 120] : 150); }catch(e){}
+    if(!fahrt.vor || !audio) return;
+    try{ var o = audio.createOscillator(), g = audio.createGain(); o.frequency.value = 880; g.gain.value = 0.08;
+      o.connect(g); g.connect(audio.destination); o.start(); o.stop(audio.currentTime + 0.18); }catch(e){}
+  }
+
+  // ---- Fahrtkarte ----
+  function karteZeichnen(){
+    var r = raum(), h = '', push = istPush();
+    var nGesp = fahrt.orte.filter(function(f){ return f.karten && f.karten.length; }).length;
+    $('k-zaehler').textContent = r.name + ' · ' + nGesp + ' von ' + r.orte.length + ' Orten gespielt';
+    $('k-vor').setAttribute('aria-pressed', fahrt.vor ? 'true' : 'false');
+    $('k-pause').hidden = fahrt.quelle !== 'sim';
+    if(fahrt.quelle === 'sim') $('k-pause').textContent = fahrt.sim.pause ? 'Weiter' : 'Pause';
+    // Status-Zeile
+    var st = '';
+    if(fahrt.quelle === 'sim') st = 'Simulation · ' + fahrt.sim.kmh + ' km/h · ×' + fahrt.sim.f + ' · ' + fmtKm(fahrt.sim.s) + ' von ' + fmtKm(rt.laenge) + (fahrt.sim.pause ? ' · angehalten' : '');
+    else if(fahrt.quelle === 'gps') st = gpsFehler || (pos ? 'GPS · ' + Math.round(pos.v * 3.6) + ' km/h · Genauigkeit ' + pos.genau + ' m' : 'GPS · warte auf Position …');
+    else st = 'Durchtippen · eigenes Tempo';
+    $('k-status').textContent = st;
+    // Positionsmarke nur bei Simulation zwischen die Orte setzen
+    var posGesetzt = fahrt.quelle !== 'sim';
+    fahrt.orte.forEach(function(f, i){
+      var o = ortVon(f.slug), cls = 'todo', zus = '', blass = false;
+      if(!posGesetzt && rt.ortS[i] > fahrt.sim.s){ h += '<div class="stop"><i class="pin pos"></i><small>Position</small></div>'; posGesetzt = true; }
+      var n = (f.ergebnisse || []).length, tr = (f.ergebnisse || []).filter(function(x){ return x === 'hit'; }).length;
+      if(n){ cls = tr * 2 >= n ? 'hit' : ''; zus = tr + ' von ' + n + ' richtig'; }
+      else if(f.zustand === 'ausgefallen'){ cls = 'skip'; zus = 'passiert – antippen zum Nachspielen'; blass = true; }
+      else if(f.zustand === 'skip'){ cls = 'skip'; zus = 'übersprungen'; blass = true; }
+      if(push && !n && (f.zustand === 'vorschau' || f.zustand === 'faellig') && f.lage){
+        cls = 'next';
+        zus = f.lage.still ? fmtKm(f.lage.dist) : (f.lage.t > 0 ? 'in ' + fmtZeit(f.lage.t) : 'jetzt') + (f.lage.lat > FENSTER.strecke ? ' · aus der Nähe, ' + fmtKm(f.lage.lat) + ' seitlich' : '');
+        if(f.gleichBis > uhr()) zus += ' · gleich';
+      }
+      if(!push && i === fahrt.pos){
+        h += '<div class="stop"><i class="pin next"></i><span class="next-line">Nächster Ort: <b>' + o.name + '</b></span></div>';
+        return;
+      }
+      h += '<div class="stop' + (blass ? ' blass' : '') + '" data-i="' + i + '"><i class="pin ' + cls + '"></i><b>' + o.name + '</b>' + (zus ? '<small>' + zus + '</small>' : '') + '</div>';
+    });
+    if(!posGesetzt) h += '<div class="stop"><i class="pin pos"></i><small>Streckenende</small></div>';
+    $('k-route').innerHTML = h;
+    // Nachspielen: Pin eines gespielten oder passierten Orts antippen
+    document.querySelectorAll('#k-route .stop[data-i]').forEach(function(el){
+      var i = Number(el.dataset.i), f = fahrt.orte[i];
+      if((f.karten && f.karten.length) || f.zustand === 'ausgefallen') el.onclick = function(){ if(freieKarten(i).length){ ereignis('nachschlag', f.slug); ortStarten(i, 'nachschlag'); } };
+    });
+    if(push){
+      var vj = naechsterVoraus();
+      $('k-jetzt').disabled = vj < 0;
+      $('k-jetzt').textContent = vj < 0 ? 'Jetzt' : 'Jetzt: ' + ortVon(fahrt.orte[vj].slug).name;
+      $('k-skip').hidden = true;
+    } else {
+      var fertig = fahrt.pos >= r.orte.length;
+      $('k-jetzt').disabled = fertig; $('k-skip').hidden = false; $('k-skip').disabled = fertig;
+      $('k-jetzt').textContent = fertig ? 'Strecke zu Ende' : 'Frage starten: ' + ortVon(fahrt.orte[fahrt.pos].slug).name;
+    }
+  }
+  // „Jetzt“: nächster ungespielter Ort voraus (fällig zuerst, dann in der Vorschau, sonst der nächste der Strecke)
+  function naechsterVoraus(){
+    var w = wartender(-1); if(w >= 0) return w;
+    var best = -1, bt = Infinity;
+    fahrt.orte.forEach(function(f, i){
+      if(f.karten && f.karten.length) return;
+      if(f.zustand === 'ausgefallen' || f.zustand === 'gespielt' || !freieKarten(i).length) return;
+      var l = f.lage || (pos ? lage(i) : null); if(!l) return;
+      var t = l.still ? l.dist : (l.t < -FENSTER.nachlauf ? Infinity : Math.abs(l.t));
+      if(t < bt){ bt = t; best = i; }
+    });
+    return best;
+  }
+  $('k-jetzt').onclick = function(){
+    if(istPush()){ var i = naechsterVoraus(); if(i >= 0){ ereignis('jetzt', fahrt.orte[i].slug); ortStarten(i, 'jetzt'); } }
+    else ortStarten(fahrt.pos, 'tipp');
+  };
+  $('k-skip').onclick = function(){ fahrt.orte[fahrt.pos].zustand = 'skip'; fahrt.pos++; sichern('fahrt', fahrt); karteZeichnen(); };
   $('k-ende').onclick = function(){ endeZeigen(); };
   $('k-menue').onclick = function(){ startZeichnen(); show('s-start'); };
+  $('k-vor').onclick = function(){ fahrt.vor = fahrt.vor ? 0 : 1; ereignis(fahrt.vor ? 'vorlesen-an' : 'vorlesen-aus'); sichern('fahrt', fahrt); karteZeichnen(); show('s-karte'); };
+  $('k-pause').onclick = function(){ fahrt.sim.pause = !fahrt.sim.pause; karteZeichnen(); };
 
-  // ---- Karte wählen: erste Fahrt = Tisch-Reihe, sonst Muster, Varianz, ungespielt ----
-  // Spielkonzept v0.2.9: drei Fragen je Ort, dann „Noch mehr zu diesem Ort?“ für je drei weitere.
-  var JE_ORT = 3;
-  function freieKarten(o){
-    var g = gespielt[fahrt.raum] || [], hier = fahrt.orte[fahrt.pos].karten || [];
+  // ---- Karten wählen: Tisch-Reihe zuerst, sonst Muster, Varianz, ungespielt ----
+  function freieKarten(i){
+    var o = raum().orte[i], g = gespielt[fahrt.raum] || [], hier = fahrt.orte[i].karten || [];
     var frei = o.karten.filter(function(k){ return g.indexOf(k.id) < 0; });
-    // in dieser Fahrt schon gespielte Karten nie wiederholen; frühere Fahrten erst, wenn alles durch ist
+    // in dieser Fahrt gespielte Karten nie wiederholen; frühere Fahrten erst, wenn alles durch ist
     return frei.length ? frei : o.karten.filter(function(k){ return hier.indexOf(k.id) < 0; });
   }
-  function karteWaehlen(o){
-    var frei = freieKarten(o);
-    var hier = (fahrt.orte[fahrt.pos].karten || []).length;
+  function karteWaehlen(i){
+    var frei = freieKarten(i), hier = (fahrt.orte[i].karten || []).length;
     var tisch = frei.filter(function(k){ return k.tisch; });
     if(tisch.length && hier === 0) return tisch[0];
     var letzte = fahrt.log.length ? fahrt.log[fahrt.log.length - 1].familie : null;
-    var wunsch = MUSTER[(fahrt.pos + hier * 3) % MUSTER.length];
+    var wunsch = MUSTER[(i + hier * 3) % MUSTER.length];
     var passt = frei.filter(function(k){ return k.familie === wunsch && k.familie !== letzte; });
     if(!passt.length) passt = frei.filter(function(k){ return k.familie !== letzte; });
     if(!passt.length) passt = frei;
     return passt[Math.floor(Math.random() * passt.length)];
   }
+  // Beim Vorlesen hat die Lügen-Frage zwei Aussagen (v0.3.1 §2): eine wahre fällt weg, möglichst hinter der Lüge,
+  // damit Bezüge der Auflösung auf die Stelle der Lüge („die erste Aussage“, „Aussage 2“) stimmen.
+  function zuschnitt(k){
+    if(k.art !== 'luege' || !fahrt.vor || k.optionen.length < 3) return { frage: k.frage, optionen: k.optionen, loesung: k.loesung };
+    var weg = k.loesung < 3 ? 2 : 1, opt = k.optionen.filter(function(_, j){ return j !== weg; });
+    return { frage: 'Eine der beiden Aussagen stimmt nicht. Welche?', optionen: opt, loesung: k.loesung > weg + 1 ? k.loesung - 1 : k.loesung };
+  }
 
-  var aktuell = null, wahl = [], t0 = 0, stufe = 0;
-  function frageStarten(){
-    var o = ortVon(fahrt.orte[fahrt.pos].slug), k = karteWaehlen(o);
-    aktuell = { ort: o, karte: k }; wahl = []; t0 = Date.now(); stufe = 0;
+  // ---- Ort und Frage starten ----
+  var aktuell = null, wahl = null, t0 = 0, stufe = 0;
+  function ortStarten(i, wie){
+    var f = fahrt.orte[i];
+    if(fahrt.aktiv >= 0 && fahrt.aktiv !== i) ortBeenden(fahrt.aktiv);
+    fahrt.aktiv = i;
+    if(f.zustand !== 'aktiv'){ f.zustand = 'aktiv'; f.ev.start = f.ev.start || (istPush() ? uhr() : null); }
+    if(wie === 'push') hinweis();
+    frageStarten(wie);
+  }
+  function ortBeenden(i){
+    var f = fahrt.orte[i]; if(!f) return;
+    if(f.zustand === 'aktiv'){ f.zustand = 'gespielt'; f.ev.ende = istPush() ? uhr() : null; }
+    if(fahrt.aktiv === i) fahrt.aktiv = -1;
+  }
+  function frageStarten(wie){
+    var i = fahrt.aktiv, o = raum().orte[i], k = karteWaehlen(i), z = zuschnitt(k);
+    aktuell = { i: i, ort: o, karte: k, z: z, wie: wie || 'weiter' }; wahl = null; t0 = Date.now(); stufe = 0;
+    var pushText = wie === 'push' ? 'Ort in Sicht' : wie === 'jetzt' ? 'Jetzt' : '';
+    var l = fahrt.orte[i].lage; if(pushText && l && l.lat > FENSTER.strecke) pushText += ' · aus der Nähe';
+    $('f-push').hidden = $('l-push').hidden = !pushText; $('f-push').textContent = $('l-push').textContent = pushText;
     if(k.art === 'leiter'){ show('s-leiter'); leiterZeichnen(); return; }
-    $('f-ort').textContent = o.name; $('f-steck').textContent = k.steckbrief; $('f-frage').textContent = k.frage;
-    $('f-hint').textContent = fahrt.modus === 'auto' ? '3 – 2 – 1, alle rufen: ' + k.optionen.map(function(_, i){ return ZIFFER[i + 1]; }).join(', ') + '.' : (k.art === 'luege' ? 'Tippe auf die Aussage, die du für gelogen hältst.' : '');
+    $('f-ort').textContent = o.name; $('f-steck').textContent = k.steckbrief; $('f-frage').textContent = z.frage;
+    $('f-hint').textContent = fahrt.vor ? 'Vorlesen, dann gemeinsam festlegen. Gerufen wird: ' + z.optionen.map(function(_, j){ return ZIFFER[j + 1]; }).join(', ') + '.'
+                                        : (k.art === 'luege' ? 'Tippe auf die Aussage, die du für gelogen hältst.' : '');
     var h = '';
-    k.optionen.forEach(function(t, i){ h += '<button class="opt" aria-pressed="false" data-n="' + (i + 1) + '"><span class="k">' + (i + 1) + '</span><span>' + t + '</span></button>'; });
+    z.optionen.forEach(function(t, j){ h += '<button class="opt" aria-pressed="false" data-n="' + (j + 1) + '"><span class="k">' + (j + 1) + '</span><span>' + t + '</span></button>'; });
     $('f-opts').innerHTML = h;
-    document.querySelectorAll('#f-opts .opt').forEach(function(b){ b.onclick = function(){ waehlen(b.dataset.n); }; });
-    $('f-gleich').textContent = fahrt.modus === 'auto' ? 'Gleich' : 'Zurück';
-    $('f-uneinig').hidden = fahrt.modus !== 'auto';
-    $('f-aufloesen').textContent = fahrt.modus === 'auto' ? 'Auflösen' : 'Festlegen';
+    document.querySelectorAll('#f-opts .opt').forEach(function(b){ b.onclick = function(){ waehlen(Number(b.dataset.n)); }; });
+    $('f-gleich').textContent = istPush() ? 'Gleich' : 'Zurück';
     balken(); show('s-frage'); einpassen('s-frage');
   }
-  // Im Auto soll nichts gescrollt werden (UI-Konzept v0.2, KU7): Kacheln bleiben bei 72 px; zu lange Fragen
-  // verkleinern erst die Fragenschrift (bis 19 px), dann entfällt die 3-2-1-Zeile, zuletzt der Steckbrief.
+  // Beim Vorlesen nicht scrollen (UI-Konzept v0.2, KU7): zu lange Fragen verkleinern die Fragenschrift bis 19 px,
+  // dann entfällt die Ruf-Zeile. Der Originaltext (Steckbrief, Frage, Optionen) bleibt immer stehen (v0.3.1 J5);
+  // reicht der Platz trotzdem nicht, darf die Seite scrollen.
   function einpassen(id){
-    var s = $(id), q = s.querySelector('.q'), hint = s.querySelector('.hint'), meta = s.querySelector('.meta');
-    q.style.fontSize = ''; if(hint) hint.hidden = false; if(meta) meta.hidden = false;
-    if(fahrt.modus !== 'auto') return;
+    var s = $(id), q = s.querySelector('.q'), hint = s.querySelector('.hint');
+    q.style.fontSize = ''; if(hint) hint.hidden = false;
+    if(!fahrt.vor) return;
     var px = 24;
     while(s.scrollHeight > s.clientHeight && px > 19){ px--; q.style.fontSize = px + 'px'; }
     if(s.scrollHeight > s.clientHeight && hint) hint.hidden = true;
-    if(s.scrollHeight > s.clientHeight && meta) meta.hidden = true;
   }
   function waehlen(n){
-    var i = wahl.indexOf(n);
-    if(i >= 0) wahl.splice(i, 1);
-    else if(fahrt.modus === 'auto'){ if(wahl.length === 2) wahl.shift(); wahl.push(n); }
-    else wahl = [n];
-    document.querySelectorAll('#f-opts .opt').forEach(function(b){ b.setAttribute('aria-pressed', wahl.indexOf(b.dataset.n) >= 0 ? 'true' : 'false'); });
+    wahl = (wahl === n) ? null : n;
+    document.querySelectorAll('#f-opts .opt').forEach(function(b){ b.setAttribute('aria-pressed', Number(b.dataset.n) === wahl ? 'true' : 'false'); });
     balken();
   }
-  function balken(){ $('f-bar-leer').hidden = wahl.length > 0; $('f-bar-wahl').hidden = wahl.length === 0; }
-  $('f-gleich').onclick = function(){ karteZeichnen(); show('s-karte'); };
-  $('f-uneinig').onclick = function(){ aufloesen('torn', 'Ihr wart euch uneinig.', null); };
+  function balken(){ $('f-bar-leer').hidden = wahl !== null; $('f-bar-wahl').hidden = wahl === null; }
+  // „Gleich“: die Frage einmal hinten anstellen; der Ort bleibt im Nachlauf spielbar
+  $('f-gleich').onclick = function(){ gleich(); };
+  function gleich(){
+    var f = fahrt.orte[aktuell.i];
+    if(istPush()){
+      f.gleichBis = uhr() + FENSTER.gleich; ereignis('gleich', f.slug);
+      if(f.karten && f.karten.length){ ortBeenden(aktuell.i); }
+      else { f.zustand = 'faellig'; f.ev.faellig = f.ev.faellig || uhr(); fahrt.aktiv = -1; }
+    } else if(!(f.karten && f.karten.length)){ f.zustand = 'fern'; fahrt.aktiv = -1; }
+    sichern('fahrt', fahrt); karteZeichnen(); show('s-karte');
+  }
   $('f-aufloesen').onclick = function(){
-    var k = aktuell.karte, wer = fahrt.modus === 'auto' ? 'Eure' : 'Deine';
-    if(wahl.length === 2){
-      var gs = wahl.slice().sort();
-      aufloesen('split', 'Ihr wart gespalten: ' + gs.join(' gegen ') + '.', gs.map(Number));
-    } else {
-      var n = Number(wahl[0]);
-      aufloesen(n === k.loesung ? 'hit' : 'miss', wer + ' Theorie: ' + n + ' — ' + k.optionen[n - 1], [n]);
-    }
+    var z = aktuell.z;
+    aufloesen(wahl === z.loesung ? 'hit' : 'miss', 'Getippt: ' + wahl + ' — ' + z.optionen[wahl - 1], wahl);
   };
 
   // ---- Leiter ----
@@ -346,101 +589,122 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     var o = aktuell.ort, k = aktuell.karte;
     $('l-ort').textContent = o.name; $('l-steck').textContent = k.steckbrief; $('l-frage').textContent = k.frage;
     var h = '';
-    k.optionen.forEach(function(t, i){ h += '<div class="rung' + (i < stufe ? ' yes' : '') + (i === stufe ? ' now' : '') + '">' + t + '<span>' + (i < stufe ? 'höher' : '') + '</span></div>'; });
+    k.optionen.forEach(function(t, j){ h += '<div class="rung' + (j < stufe ? ' yes' : '') + (j === stufe ? ' now' : '') + '">' + t + '<span>' + (j < stufe ? 'höher' : '') + '</span></div>'; });
     $('l-rungs').innerHTML = h;
     einpassen('s-leiter');
   }
   $('l-hoeher').onclick = function(){ stufe++; if(stufe >= aktuell.karte.optionen.length) leiterEnde(); else leiterZeichnen(); };
   $('l-raus').onclick = leiterEnde;
   function leiterEnde(){
-    var k = aktuell.karte, wer = fahrt.modus === 'auto' ? 'Ihr seid' : 'Du bist';
-    var z = stufe === 0 ? wer + ' gleich bei der ersten Stufe ausgestiegen.' :
-            stufe >= k.optionen.length ? wer + ' bis über die letzte Stufe gegangen.' :
-            wer + ' nach Stufe ' + stufe + ' ausgestiegen.';
-    aufloesen(stufe === k.loesung ? 'hit' : 'miss', z, [stufe]);
+    var k = aktuell.karte;
+    var z = stufe === 0 ? 'Gleich bei der ersten Stufe ausgestiegen.' :
+            stufe >= k.optionen.length ? 'Bis über die letzte Stufe gegangen.' : 'Nach Stufe ' + stufe + ' ausgestiegen.';
+    aufloesen(stufe === k.loesung ? 'hit' : 'miss', z, stufe);
   }
 
-  // ---- Auflösung ----
+  // ---- Auflösung: zwei Fälle, richtig oder falsch ----
   function geschichte(k){
-    // Der Platzhalter-Satz entfällt (die Theorie steht oben als Zitat); der Schlusssatz wird zum Urteil-Chip.
     return k.rueckseite.replace(/^Du hattest \[Option\] getippt\.\s*/, '')
       .replace(/\s*(Richtig war \d\.|Die Lüge war \d\.|Höher bis Stufe \d, dann raus\.)\s*$/, '');
   }
-  function urteilText(k){
-    return k.art === 'luege' ? 'Die Lüge war ' + k.loesung + '.' : k.art === 'leiter' ? 'Höher bis Stufe ' + k.loesung + ', dann raus.' : 'Richtig war ' + k.loesung + '.';
+  function urteilText(k, z){
+    return k.art === 'luege' ? 'Die Lüge war ' + z.loesung + '.' : k.art === 'leiter' ? 'Höher bis Stufe ' + k.loesung + ', dann raus.' : 'Richtig war ' + k.loesung + '.';
   }
   function aufloesen(status, zitat, antwort){
-    var o = aktuell.ort, k = aktuell.karte, f = fahrt.orte[fahrt.pos];
+    var o = aktuell.ort, k = aktuell.karte, z = aktuell.z, f = fahrt.orte[aktuell.i];
     var vorige = fahrt.log.length ? fahrt.log[fahrt.log.length - 1].ort : null;
     var ersteHier = !(f.karten && f.karten.length);
     f.karten = (f.karten || []).concat([k.id]); f.ergebnisse = (f.ergebnisse || []).concat([status]);
-    var treffer = f.ergebnisse.filter(function(x){ return x === 'hit'; }).length, n = f.ergebnisse.length;
-    f.status = n === 1 ? status : (treffer * 2 >= n ? 'hit' : 'miss');
-    f.kurz = n === 1 ? (status === 'hit' ? 'Treffer' : status === 'split' ? 'gespalten' : status === 'torn' ? 'uneinig' : 'daneben')
-                     : treffer + ' von ' + n + ' Treffer';
     $('a-ort').textContent = o.name; $('a-zitat').textContent = zitat; $('a-text').textContent = geschichte(k);
     var chip = $('a-urteil');
-    chip.className = 'chip ' + (status === 'hit' ? 'ok' : (status === 'miss' ? 'no' : ''));
-    chip.textContent = (status === 'hit' ? 'Treffer · ' : status === 'miss' ? 'Daneben · ' : '') + urteilText(k);
+    chip.className = 'chip ' + (status === 'hit' ? 'ok' : 'no');
+    chip.textContent = (status === 'hit' ? 'Richtig · ' : 'Daneben · ') + urteilText(k, z);
     $('a-quelle').textContent = 'Quelle: ' + k.quelle;
     $('a-vermerk').hidden = k.faktencheck !== 'unsicher';
     $('a-vermerk').textContent = 'Faktencheck: unsicher – belegt nur durch eine Quelle.';
-    // Anschluss nur, wenn der davor gespielte Ort der Ort ist, auf den sich der Anschluss bezieht (er hängt am Ortspaar)
-    var an = (ersteHier && vorige && vorige === o.anschluss_von && o.anschluss.length) ? o.anschluss[0] : '';
+    // Anschluss nur, wenn der davor gespielte Ort der ist, auf den er sich bezieht (er hängt am Ortspaar)
+    var an = (ersteHier && vorige && vorige !== o.slug && vorige === o.anschluss_von && o.anschluss.length) ? o.anschluss[0] : '';
     $('a-anschluss').hidden = !an; $('a-anschluss-text').textContent = an;
     fahrt.log.push({ ort: o.slug, name: o.name, karte: k.id, familie: k.familie, sorte: k.sorte, status: status, antwort: antwort,
-                     loesung: k.loesung, sekunden: Math.round((Date.now() - t0) / 1000), anschluss: !!an, zeit: new Date().toISOString() });
+                     loesung: z.loesung, aussagen: z.optionen.length, sekunden: Math.round((Date.now() - t0) / 1000), anschluss: !!an,
+                     wie: aktuell.wie, fahrzeit: istPush() ? Math.round(uhr()) : null, vorlesen: !!fahrt.vor, zeit: new Date().toISOString() });
     (gespielt[fahrt.raum] = gespielt[fahrt.raum] || []).push(k.id);
     sichern('fahrt', fahrt); sichern('gespielt', gespielt);
-    // Nach jeder Auflösung: im Dreierblock weiter, nach drei „Noch mehr zu diesem Ort?“, sonst zum nächsten Ort
-    var rest = o.karten.filter(function(x){ return f.karten.indexOf(x.id) < 0; }).length;
-    var letzterOrt = fahrt.pos + 1 >= fahrt.orte.length, weiterText = letzterOrt ? 'Zum Fahrtende' : 'Weiter zum nächsten Ort';
-    if(n % JE_ORT !== 0 && rest){ $('a-zu').textContent = 'Nächste Frage zu ' + o.name + ' (' + (n % JE_ORT + 1) + ' von ' + JE_ORT + ')'; aktuell.weiter = 'frage'; $('a-mehr').hidden = true; }
-    else if(rest){ $('a-zu').textContent = weiterText; aktuell.weiter = 'ort'; $('a-mehr').hidden = false;
+    auflBar(); show('s-aufl');
+  }
+  // Wie es nach der Auflösung weitergeht (v0.3.1 §1a, §5): steht ein anderer Ort an, endet dieser nach der Frage;
+  // sonst im Dreierblock weiter; nach drei „Noch mehr zu diesem Ort?“
+  function auflBar(){
+    var f = fahrt.orte[aktuell.i], o = aktuell.ort, n = f.karten.length;
+    var rest = freieKarten(aktuell.i).length;
+    var w = istPush() ? wartender(aktuell.i) : -1;
+    var letzterPull = !istPush() && fahrt.pos + 1 >= fahrt.orte.length;
+    var weiterOrt = istPush() ? 'Zur Fahrtkarte' : (letzterPull ? 'Zum Fahrtende' : 'Weiter zum nächsten Ort');
+    if(w >= 0){ aktuell.weiter = 'ort:' + w; $('a-zu').textContent = 'Weiter: ' + ortVon(fahrt.orte[w].slug).name + ' ist in Sicht'; $('a-mehr').hidden = true; }
+    else if(n % JE_ORT !== 0 && rest){ aktuell.weiter = 'frage'; $('a-zu').textContent = 'Nächste Frage zu ' + o.name + ' (' + (n % JE_ORT + 1) + ' von ' + JE_ORT + ')'; $('a-mehr').hidden = true; }
+    else if(rest){ aktuell.weiter = 'karte'; $('a-zu').textContent = weiterOrt; $('a-mehr').hidden = false;
                    $('a-mehr').textContent = 'Noch mehr zu ' + o.name + '? (' + Math.min(JE_ORT, rest) + ' weitere)'; }
-    else { $('a-zu').textContent = weiterText; aktuell.weiter = 'ort'; $('a-mehr').hidden = true; }
-    $('a-zu').classList.toggle('primary', aktuell.weiter === 'frage');
-    show('s-aufl');
+    else { aktuell.weiter = 'karte'; $('a-zu').textContent = weiterOrt; $('a-mehr').hidden = true; }
+    $('a-zu').classList.toggle('primary', aktuell.weiter !== 'karte');
   }
   $('a-zu').onclick = function(){
-    if(aktuell.weiter === 'frage'){ frageStarten(); return; }
-    fahrt.pos++; sichern('fahrt', fahrt);
-    if(fahrt.pos >= fahrt.orte.length) endeZeigen(); else { karteZeichnen(); show('s-karte'); }
+    if(aktuell.weiter === 'frage'){ frageStarten('weiter'); return; }
+    if(aktuell.weiter.indexOf('ort:') === 0){ ortStarten(Number(aktuell.weiter.slice(4)), 'push'); return; }
+    ortBeenden(aktuell.i);
+    if(!istPush()){ fahrt.pos = Math.max(fahrt.pos, aktuell.i + 1); sichern('fahrt', fahrt); if(fahrt.pos >= fahrt.orte.length){ endeZeigen(); return; } }
+    sichern('fahrt', fahrt); karteZeichnen(); show('s-karte');
   };
-  $('a-mehr').onclick = function(){ frageStarten(); };
+  $('a-mehr').onclick = function(){ ereignis('noch-mehr', aktuell.ort.slug); frageStarten('mehr'); };
 
   // ---- Fahrtende und Protokoll ----
   function endeZeigen(){
     var r = raum(), log = fahrt.log;
+    if(fahrt.aktiv >= 0) ortBeenden(fahrt.aktiv);
     fahrt.ende = fahrt.ende || new Date().toISOString(); sichern('fahrt', fahrt);
+    if(gpsId !== null){ try{ navigator.geolocation.clearWatch(gpsId); }catch(e){} gpsId = null; }
+    var gesp = fahrt.orte.filter(function(f){ return f.karten && f.karten.length; });
     $('e-titel').textContent = r.orte[0].name + ' – ' + r.orte[r.orte.length - 1].name;
-    $('e-meta').textContent = r.name + ' · ' + (fahrt.modus === 'auto' ? 'Auto, Gruppe' : 'Bahn, solo');
-    $('e-orte').textContent = log.length;
-    $('e-treffer').textContent = log.filter(function(l){ return l.status === 'hit'; }).length;
-    $('e-daneben').textContent = log.filter(function(l){ return l.status === 'miss'; }).length;
+    $('e-meta').textContent = r.name + ' · ' + { gps: 'echte Fahrt', sim: 'Simulation', pull: 'durchgetippt' }[fahrt.quelle] + (fahrt.vor ? ' · vorgelesen' : '');
+    $('e-orte').textContent = gesp.length;
+    $('e-fragen').textContent = log.length;
+    $('e-richtig').textContent = log.filter(function(l){ return l.status === 'hit'; }).length;
+    $('e-ortderfahrt').innerHTML = '';
+    gesp.forEach(function(f){
+      var b = document.createElement('button'); b.className = 'opt';
+      b.setAttribute('aria-pressed', fahrt.ortDerFahrt === f.slug ? 'true' : 'false');
+      b.textContent = ortVon(f.slug).name;
+      b.onclick = function(){ fahrt.ortDerFahrt = fahrt.ortDerFahrt === f.slug ? null : f.slug; sichern('fahrt', fahrt); endeZeigen(); };
+      $('e-ortderfahrt').appendChild(b);
+    });
+    var aus = fahrt.orte.filter(function(f){ return f.zustand === 'ausgefallen'; }).length;
     $('e-liste').innerHTML = log.map(function(l){
-      var z = { hit: '✓', miss: '✗', split: '½', torn: '?' }[l.status];
-      return '<div><i>' + z + '</i><span>' + l.name + ' · Familie ' + l.familie + ' · ' + l.sekunden + ' s</span></div>';
-    }).join('');
+      return '<div><i>' + (l.status === 'hit' ? '✓' : '✗') + '</i><span>' + l.name + ' · Familie ' + l.familie + ' · ' + l.sekunden + ' s</span></div>';
+    }).join('') + (aus ? '<div><i>·</i><span>' + aus + ' Orte passiert, ohne gespielt zu werden</span></div>' : '');
     $('e-notiz').value = fahrt.notiz || '';
     $('e-hinweis').textContent = '';
     show('s-ende');
   }
   $('e-notiz').oninput = function(){ fahrt.notiz = this.value; sichern('fahrt', fahrt); };
   $('e-protokoll').onclick = function(){
-    var text = JSON.stringify({ prototyp: 'quizaway-reise 0.1', raum: fahrt.raum, modus: fahrt.modus, start: fahrt.start, ende: fahrt.ende,
-                                notiz: fahrt.notiz || '', orte: fahrt.log }, null, 1);
+    var orte = fahrt.orte.map(function(f){ var r = { ort: f.slug, zustand: f.zustand, fragen: (f.karten || []).length };
+      Object.keys(f.ev).forEach(function(k){ r[k] = Math.round(f.ev[k]); }); return r; });
+    var text = JSON.stringify({ prototyp: 'quizaway-reise 0.3', konzept: 'v0.3.1', raum: fahrt.raum, quelle: fahrt.quelle, vorlesen: !!fahrt.vor,
+                                sim: fahrt.sim ? { kmh: fahrt.sim.kmh, faktor: fahrt.sim.f } : null, fenster: FENSTER,
+                                start: fahrt.start, ende: fahrt.ende, ort_der_fahrt: fahrt.ortDerFahrt || null, notiz: fahrt.notiz || '',
+                                fenster_je_ort: orte, ereignisse: fahrt.ereignisse, fragen: fahrt.log }, null, 1);
     var ok = function(){ $('e-hinweis').textContent = 'Protokoll in der Zwischenablage – bitte in den Feldtest-Bogen oder an Claude geben.'; };
-    // Ohne Zwischenablage (manche App-Ansichten verweigern sie): Protokoll zum Markieren und Kopieren zeigen
     var zeigen = function(){ var t = $('e-protokoll-text'); t.hidden = false; t.value = text; t.focus(); t.select();
       $('e-hinweis').textContent = 'Kopieren hier nicht möglich – das Protokoll steht markiert im Feld unten.'; };
     try{ navigator.clipboard.writeText(text).then(ok, zeigen); }catch(e){ zeigen(); }
   };
   $('e-neu').onclick = function(){ fahrt = null; sichern('fahrt', null); startZeichnen(); show('s-start'); };
 
-  // Bildschirm anlassen (im Auto)
+  // Bildschirm anlassen (unterwegs)
   try{ if(navigator.wakeLock) navigator.wakeLock.request('screen').catch(function(){}); }catch(e){}
   document.addEventListener('visibilitychange', function(){ try{ if(!document.hidden && navigator.wakeLock) navigator.wakeLock.request('screen').catch(function(){}); }catch(e){} });
+
+  // Für Tests von außen (Konsole): Zustand lesen
+  window.QA_PROTO = { fahrt: function(){ return fahrt; }, fenster: FENSTER };
 
   startZeichnen(); show('s-start');
 })();
