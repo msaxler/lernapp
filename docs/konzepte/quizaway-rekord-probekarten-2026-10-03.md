@@ -12,9 +12,11 @@ Probe nach Spielkonzept v0.2.8 §8 Nr. 7 (Rekord-Blick, Mike 2026-10-03): Vom Or
 
 **Fragen an Mike** (Kreuz setzen):
 
-- [ ] Machen diese Karten Spielfreude?
+- [x] Machen diese Karten Spielfreude? – „geht so“
 - [ ] Ist der Fahrtrekord (Karte 3, eine Frage über mehrere Orte am Ende der Fahrt) eine Form, die wir weiter bauen sollen?
-- [ ] Abstand zum Zweiten wie in Punkt 4 vorgeschlagen?
+- [x] Abstand zum Zweiten wie in Punkt 4 vorgeschlagen? – zu klein, „da bleibt das Erstaunen aus“
+
+Urteil Mike (2026-10-03): „Spielfreude geht so, der Abstand für einen Rekord erscheint mir als zu klein, da bleibt das Erstaunen aus. Hätte Waldbreitbach einen Frauenanteil von über 70 % oder Umkirch eine Wahlbeteiligung von unter 50 % – das wäre sehr deutlich eine Super-Frage gewesen.“ Folge: Die drei Probekarten kommen nicht in den Vorrat; gerechnete Rekorde tragen nur bei erstaunlichem Wert (Spielkonzept v0.2.8 §8 Nr. 7).
 
 ---
 
