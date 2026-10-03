@@ -522,7 +522,7 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "01-umkirch",
 "anschluss": [
-"Wahlbeteiligung 2025: Gundelfingen 87,7 Prozent, Umkirch 79,7 Prozent.",
+"Bundestagswahl 2025: In Gundelfingen wählten 87,7 Prozent, in Umkirch 79,7.",
 "Gundelfingen hat gut doppelt so viele Einwohner wie Umkirch."
 ],
 "km_vom_vorigen": 7.7
@@ -832,8 +832,8 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "02-gundelfingen",
 "anschluss": [
-"Gundelfingen fährt mit FR, Denzlingen schon mit EM.",
-"Denzlingen ist 984 erstmals erwähnt, Gundelfingen erst 1008."
+"Kreisgrenze: In Gundelfingen steht FR am Auto, in Denzlingen EM.",
+"Denzlingen wird 984 erstmals erwähnt, Gundelfingen erst 1008."
 ],
 "km_vom_vorigen": 3.1
 },
@@ -1104,8 +1104,8 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "03-denzlingen",
 "anschluss": [
-"2025 lagen in Zähringen GRÜNE vorn, in Denzlingen die CDU.",
-"Denzlingen ist 24 Jahre früher belegt: 984 statt 1008."
+"Bundestagswahl 2025: In Zähringen lagen die Grünen vorn, in Denzlingen die CDU.",
+"Denzlingen wird 24 Jahre früher erwähnt als Zähringen: 984 statt 1008."
 ],
 "km_vom_vorigen": 5.1
 },
@@ -1396,8 +1396,8 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "04-zaehringen",
 "anschluss": [
-"Elfmal Zähringens Fläche, aber weniger als ein Drittel der Einwohner.",
-"Das Kloster St. Peter gründete Zähringerherzog Berthold II. (Namensteil)"
+"St. Peter hat elfmal so viel Fläche wie Zähringen, aber nicht ein Drittel der Einwohner.",
+"Gegründet hat das Kloster St. Peter Herzog Berthold II. von Zähringen."
 ],
 "km_vom_vorigen": 12.7
 },
@@ -1709,7 +1709,7 @@ window.QA_DATEN = {
 "anschluss_von": "05-st-peter",
 "anschluss": [
 "Glottertal hat mehr Einwohner als St. Peter, aber weniger Fläche.",
-"Glottertals Ersterwähnung 1112: Güterbeschreibung des Klosters St. Peter. (Namensteil)"
+"Glottertal wird 1112 erstmals erwähnt, in einer Güterbeschreibung des Klosters St. Peter."
 ],
 "km_vom_vorigen": 6.9
 },
@@ -1980,8 +1980,8 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "06-glottertal",
 "anschluss": [
-"Dreimal so viele Einwohner wie Glottertal, aber weniger Fläche.",
-"In Glottertal wurde die AfD Zweite, hier die GRÜNEN."
+"Kirchzarten hat dreimal so viele Einwohner wie Glottertal, aber weniger Fläche.",
+"Bundestagswahl 2025: Zweite wurde in Glottertal die AfD, in Kirchzarten die Grünen."
 ],
 "km_vom_vorigen": 9.1
 },
@@ -2252,7 +2252,7 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "07-kirchzarten",
 "anschluss": [
-"In Kirchzarten lag die CDU vorn, in Günterstal die Grünen.",
+"Bundestagswahl 2025: In Kirchzarten lag die CDU vorn, in Günterstal die Grünen.",
 "Der Schauinslandradweg verbindet Günterstal und Kirchzarten rund um den Berg."
 ],
 "km_vom_vorigen": 6.6
@@ -2524,8 +2524,8 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "08-guenterstal",
 "anschluss": [
-"Der Bohrer-Bach heißt ab Günterstal Hölderlebach.",
-"In Günterstal lagen 2025 die Grünen vorn, hier die CDU."
+"Der Bohrer-Bach aus Horben heißt ab Günterstal Hölderlebach.",
+"Bundestagswahl 2025: In Günterstal lagen die Grünen vorn, in Horben die CDU."
 ],
 "km_vom_vorigen": 3.5
 },
@@ -2778,7 +2778,7 @@ window.QA_DATEN = {
 "anschluss_von": "09-horben",
 "anschluss": [
 "Staufen hat rund siebenmal so viele Einwohner wie Horben.",
-"Wahlbeteiligung 2025: Horben 91,4 Prozent, Staufen 87,2 Prozent."
+"Bundestagswahl 2025: In Horben wählten 91,4 Prozent, in Staufen 87,2."
 ],
 "km_vom_vorigen": 11.2
 }
@@ -3206,7 +3206,7 @@ window.QA_DATEN = {
 "anschluss_von": "01-bendorf",
 "anschluss": [
 "Engers liegt am Rhein zwischen Neuwied und Bendorf.",
-"Bendorf fährt MYK, Engers als Neuwieder Stadtteil NR."
+"Kreisgrenze: In Bendorf steht MYK am Auto, im Neuwieder Stadtteil Engers NR."
 ],
 "km_vom_vorigen": 2.0
 },
@@ -3419,7 +3419,7 @@ window.QA_DATEN = {
 "anschluss_von": "02-engers",
 "anschluss": [
 "Heimbach-Weis hat gut 2.000 Einwohner mehr als Engers.",
-"Wahlbeteiligung 2025: hier 82,1 %, in Engers 74,9 %."
+"Bundestagswahl 2025: In Heimbach-Weis wählten 82,1 Prozent, in Engers 74,9."
 ],
 "km_vom_vorigen": 3.0
 },
@@ -3611,7 +3611,7 @@ window.QA_DATEN = {
 "anschluss_von": "03-heimbach-weis",
 "anschluss": [
 "Heimbach-Weis hat rund elfmal so viele Einwohner wie Altwied.",
-"In Altwied und Heimbach-Weis lag 2025 die CDU vorn."
+"Bundestagswahl 2025: In Altwied wie in Heimbach-Weis lag die CDU vorn."
 ],
 "km_vom_vorigen": 6.2
 },
@@ -3917,7 +3917,7 @@ window.QA_DATEN = {
 "anschluss_von": "05-rengsdorf",
 "anschluss": [
 "Dierdorf hat gut doppelt so viele Einwohner wie Rengsdorf.",
-"Dierdorfs Fläche ist mehr als viermal so groß wie Rengsdorfs."
+"Dierdorf hat mehr als viermal so viel Fläche wie Rengsdorf."
 ],
 "km_vom_vorigen": 12.6
 },
@@ -4150,7 +4150,7 @@ window.QA_DATEN = {
 "anschluss_von": "06-dierdorf",
 "anschluss": [
 "Dierdorf hat gut dreimal so viele Einwohner wie Waldbreitbach.",
-"Waldbreitbach ist 347 Jahre früher urkundlich belegt als Dierdorf."
+"Waldbreitbach wird 347 Jahre früher urkundlich erwähnt als Dierdorf."
 ],
 "km_vom_vorigen": 17.0
 },
@@ -4362,7 +4362,7 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "07-waldbreitbach",
 "anschluss": [
-"Waldbreitbachs nächste Großstadt ist Koblenz, die von Linz ist Bonn.",
+"Die nächste Großstadt ist für Waldbreitbach Koblenz, für Linz Bonn.",
 "Linz hat gut dreimal so viele Einwohner wie Waldbreitbach."
 ],
 "km_vom_vorigen": 9.6
@@ -4789,7 +4789,7 @@ window.QA_DATEN = {
 "anschluss_von": "09-bad-hoenningen",
 "anschluss": [
 "Leutesdorf gehört zur Verbandsgemeinde Bad Hönningen.",
-"Bad Hönningen hat mehr als dreimal so viele Einwohner."
+"Bad Hönningen hat mehr als dreimal so viele Einwohner wie Leutesdorf."
 ],
 "km_vom_vorigen": 9.3
 },
@@ -5002,7 +5002,7 @@ window.QA_DATEN = {
 "anschluss_von": "10-leutesdorf",
 "anschluss": [
 "Evangelische Leutesdorfer gehören zur Kirchengemeinde der Feldkirche.",
-"Komponist August Bungert starb in Leutesdorf, begraben in Feldkirchen."
+"Der Komponist August Bungert starb in Leutesdorf und liegt in Feldkirchen begraben."
 ],
 "km_vom_vorigen": 2.4
 }

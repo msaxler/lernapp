@@ -1,0 +1,21 @@
+{
+ "_doc": "Berichtigte Anschlüsse (Mike, 2026-10-03: „Gundelfingen fährt mit FR, Denzlingen schon mit EM“ war unverständlich). Regel: Alltagssprache, beide Orte beim Namen, gesagt wird, was verglichen wird (Kennzeichen, Einwohner, Bundestagswahl …), keine verdichteten Kurzformen, kein Prüfvermerk. Die Fakten sind dieselben wie in karten-geprueft/<lauf>/<slug>.md (## ORTS-ANSCHLUSS); quizaway_prototyp_export.py nimmt diese Fassung, wo es sie gibt.",
+ "02-gundelfingen": ["Bundestagswahl 2025: In Gundelfingen wählten 87,7 Prozent, in Umkirch 79,7.",
+                     "Gundelfingen hat gut doppelt so viele Einwohner wie Umkirch."],
+ "03-denzlingen": ["Kreisgrenze: In Gundelfingen steht FR am Auto, in Denzlingen EM.",
+                   "Denzlingen wird 984 erstmals erwähnt, Gundelfingen erst 1008."],
+ "04-zaehringen": ["Bundestagswahl 2025: In Zähringen lagen die Grünen vorn, in Denzlingen die CDU.",
+                   "Denzlingen wird 24 Jahre früher erwähnt als Zähringen: 984 statt 1008."],
+ "05-st-peter": ["St. Peter hat elfmal so viel Fläche wie Zähringen, aber nicht ein Drittel der Einwohner.",
+                 "Gegründet hat das Kloster St. Peter Herzog Berthold II. von Zähringen."],
+ "06-glottertal": ["Glottertal hat mehr Einwohner als St. Peter, aber weniger Fläche.",
+                   "Glottertal wird 1112 erstmals erwähnt, in einer Güterbeschreibung des Klosters St. Peter."],
+ "07-kirchzarten": ["Kirchzarten hat dreimal so viele Einwohner wie Glottertal, aber weniger Fläche.",
+                    "Bundestagswahl 2025: Zweite wurde in Glottertal die AfD, in Kirchzarten die Grünen."],
+ "08-guenterstal": ["Bundestagswahl 2025: In Kirchzarten lag die CDU vorn, in Günterstal die Grünen.",
+                    "Der Schauinslandradweg verbindet Günterstal und Kirchzarten rund um den Berg."],
+ "09-horben": ["Der Bohrer-Bach aus Horben heißt ab Günterstal Hölderlebach.",
+               "Bundestagswahl 2025: In Günterstal lagen die Grünen vorn, in Horben die CDU."],
+ "10-staufen": ["Staufen hat rund siebenmal so viele Einwohner wie Horben.",
+                "Bundestagswahl 2025: In Horben wählten 91,4 Prozent, in Staufen 87,2."]
+}

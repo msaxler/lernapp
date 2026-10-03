@@ -76,6 +76,8 @@ def main():
         vorrat = json.loads(lies(os.path.join(iter_, 'vorrat-liste.json')))
         kur = json.loads(lies(os.path.join(iter_, 'kuratierung.json')))
         reihe = kur.get('kartensatz', {}).get('reihe', {})
+        pfad_b = os.path.join(iter_, 'anschluss-berichtigt.json')
+        berichtigt = json.loads(lies(pfad_b)) if os.path.exists(pfad_b) else {}
         orte, vorher = [], None
         for slug in sorted(grund):
             g = grund[slug]
@@ -95,6 +97,11 @@ def main():
                 m = re.search(r'^## ORTS-ANSCHLUSS\s*\n(.*?)(?=^## |\Z)', lies(pfad), flags=re.S | re.M)
                 if m:
                     anschluss = [z.strip(' -') for z in m.group(1).strip().split('\n') if z.strip() and not z.lower().startswith('keiner')]
+            # berichtigte Fassung (Alltagssprache, beide Orte beim Namen; Mike 2026-10-03) geht vor
+            if slug in berichtigt:
+                anschluss = berichtigt[slug]
+            # der Prüfvermerk „(Namensteil)“ ist für den Faktencheck, nicht für den Bildschirm
+            anschluss = [re.sub(r'\s*\(Namensteil\)\s*$', '', z) for z in anschluss]
             ort = {'slug': slug, 'name': g['name'], 'lat': g['lat'], 'lon': g['lon'], 'karten': karten,
                    'anschluss_von': vorher, 'anschluss': anschluss}
             if vorher:
