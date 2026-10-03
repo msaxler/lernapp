@@ -4,7 +4,8 @@ Mike, 2026-10-03: Die Ausreißer-Karte bleibt („wegen ihrer Relevanz“), Form
 steht die Karte in seinem Vorrat. Schwellen (von Mike bestätigt):
   (a) Wahlkreis: andere stärkste Partei (Zweitstimmen) als das Land, und höchstens drei Wahlkreise des Landes
       haben dieselbe stärkste Partei. Die Karte steht im Vorrat jedes Orts des Wahlkreises auf der Fahrt.
-  (b) Ort gegen Kreis: ein Parteianteil weicht um mindestens acht Prozentpunkte vom Kreis ab; gefragt wird, bei welcher
+  (b) Ort gegen Kreis: ein Parteianteil weicht um mindestens zehn Prozentpunkte vom Kreis ab (Mike 2026-10-03: von acht
+      angehoben, „Erstaunen statt Rang“); gefragt wird, bei welcher
       Partei die Abweichung am größten ist, deshalb muss sie mindestens 1,5 Punkte vor der nächsten liegen.
 Nur Gesamtergebnisse, Urne und Brief (Mike, 2026-10-03): Zählt die Verbandsgemeinde die Briefwahl, trägt der Ort keine
 Karte nach (b). Ein Stadtteil nimmt sein Ergebnis aus den Grunddaten (Stadtbezirk bzw. Stimmbezirke); „nur ungefähr“
@@ -29,7 +30,7 @@ ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM',
 WBZ = os.path.join(WURZEL, 'data', 'raw', 'btw25_wbz.zip')
 AUS = os.path.join(ITER, 'karten-a0.1')
 QUELLE = 'Quelle: Die Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (Stand 23.02.2025)'
-SCHWELLE_B, ABSTAND_B, HOECHSTENS_A = 8.0, 1.5, 3
+SCHWELLE_B, ABSTAND_B, HOECHSTENS_A = 10.0, 1.5, 3
 HAUPT = ['CDU', 'AfD', 'SPD', 'GRÜNE', 'Die Linke']
 # Nominativ, Dativ, Plural (für das Verb)
 NAME = {'CDU': ('die CDU', 'der CDU', False), 'AfD': ('die AfD', 'der AfD', False), 'SPD': ('die SPD', 'der SPD', False),

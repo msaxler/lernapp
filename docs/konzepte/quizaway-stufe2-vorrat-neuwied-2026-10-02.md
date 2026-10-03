@@ -19,9 +19,9 @@
 | Waldbreitbach | 10 | 4 | 9 | 0 | 0 | 0 |
 | Linz am Rhein | 10 | 3 | 10 | 0 | 0 | 0 |
 | Bad Hönningen | 10 | 3 | 10 | 0 | 0 | 0 |
-| Leutesdorf | 11 | 4 | 10 | 0 | 0 | 0 |
+| Leutesdorf | 10 | 3 | 10 | 0 | 0 | 0 |
 | Feldkirchen | 10 | 3 | 10 | 0 | 0 | 0 |
-| **zusammen** | **104** | **35** | **102** | **0** | **0** | **0** |
+| **zusammen** | **103** | **34** | **102** | **0** | **0** | **0** |
 
 ---
 
@@ -1220,7 +1220,7 @@
 
 ---
 
-## 10 · Leutesdorf · 11 Karten im Vorrat
+## 10 · Leutesdorf · 10 Karten im Vorrat
 
 ### erster Lauf, Karte 1 · Geschichte · Familie A    [ ] streichen
 
@@ -1360,20 +1360,6 @@
 > Du hattest [Option] getippt. Neuwied liegt nahe, denn Leutesdorf gehört zum Landkreis Neuwied. Die zweite Krone kommt aber vom anderen Rheinufer: Die Leutesdorfer Weinkönigin ist zugleich Weinkönigin von Andernach, der Stadt gegenüber. Schon früher bestellten Andernacher Winzer die Leutesdorfer Weinberge des Klosters Maria Laach. Richtig war 1.
 
 47 Wörter · Faktencheck: **bestätigt**
-
-### Ausreißer, Karte 1 · Klassiker · Familie A    [ ] streichen
-
-> Leutesdorf
-> Gemeinde mit rund 1.900 Einwohnern, 17 km nordwestlich von Koblenz.
-> Bundestagswahl 2025: Bei welcher Partei wich Leutesdorf am stärksten vom Ergebnis im Landkreis Neuwied ab?
-> 1. Die CDU
-> 2. Die AfD
-> 3. Die SPD
-> 4. Die Linke
-
-> Du hattest [Option] getippt. Leutesdorf gab der AfD 13,2 Prozent der Zweitstimmen, im Landkreis Neuwied waren es 21,2: 8,1 Punkte weniger. Die nächstgrößte Abweichung hatte die CDU mit 4,6 Punkten. Richtig war 2.
-
-33 Wörter · Faktencheck: **bestätigt**
 
 ---
 

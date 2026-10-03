@@ -15,12 +15,12 @@
 | Denzlingen | 15 | 6 | 9 | 2 | 0 | 2 |
 | Zähringen | 13 | 5 | 7 | 3 | 0 | 2 |
 | St. Peter | 14 | 6 | 7 | 3 | 0 | 0 |
-| Glottertal | 16 | 6 | 9 | 4 | 0 | 0 |
-| Kirchzarten | 14 | 6 | 10 | 7 | 0 | 0 |
+| Glottertal | 15 | 5 | 9 | 4 | 0 | 0 |
+| Kirchzarten | 13 | 5 | 10 | 7 | 0 | 0 |
 | Günterstal | 13 | 5 | 9 | 6 | 1 | 1 |
 | Horben | 13 | 5 | 7 | 2 | 2 | 1 |
 | Staufen | 12 | 5 | 10 | 8 | 0 | 0 |
-| **zusammen** | **135** | **54** | **85** | **48** | **3** | **6** |
+| **zusammen** | **133** | **52** | **85** | **48** | **3** | **6** |
 
 ---
 
@@ -1017,7 +1017,7 @@
 
 ---
 
-## 06 · Glottertal · 16 Karten im Vorrat
+## 06 · Glottertal · 15 Karten im Vorrat
 
 ### dritter Lauf, Karte 1 · Geschichte · Familie A    [ ] streichen
 
@@ -1227,20 +1227,6 @@
 
 67 Wörter · Faktencheck: **korrigiert** – Der Weinberg auf 720 m ist Geschichte; der Höhenvergleich mit St. Peter war scheingenau (die Quellen nennen für Glottertal 306 bis 403 m).
 
-### Ausreißer, Karte 1 · Klassiker · Familie A    [ ] streichen
-
-> Glottertal
-> Gemeinde mit rund 3.200 Einwohnern, 10 km nordöstlich von Freiburg im Breisgau.
-> Bundestagswahl 2025: Bei welcher Partei wich Glottertal am stärksten vom Ergebnis im Landkreis Breisgau-Hochschwarzwald ab?
-> 1. Die SPD
-> 2. Die CDU
-> 3. Die Grünen
-> 4. Die Linke
-
-> Du hattest [Option] getippt. Glottertal gab der CDU 40,9 Prozent der Zweitstimmen, im Landkreis Breisgau-Hochschwarzwald waren es 32,0: 8,8 Punkte mehr. Die nächstgrößte Abweichung hatte die SPD mit 4,6 Punkten. Richtig war 2.
-
-33 Wörter · Faktencheck: **bestätigt**
-
 **Ersetzt** (derselbe Fakt steht in einer neueren Karte):
 
 - zweiter Lauf 2 → dritter Lauf 2: Einwohnerzahl (`06-glottertal/G.einwohner`)
@@ -1250,7 +1236,7 @@
 
 ---
 
-## 07 · Kirchzarten · 14 Karten im Vorrat
+## 07 · Kirchzarten · 13 Karten im Vorrat
 
 ### dritter Lauf, Karte 1 · Geschichte · Familie A    [ ] streichen
 
@@ -1431,20 +1417,6 @@
 > Du hattest [Option] getippt. Schwarzwaldbahn klingt richtig, weil der Bahnhof im Schwarzwald liegt. Doch am Himmelreich hält die Höllentalbahn; sie führt von Freiburg in den Hochschwarzwald nach Titisee und Neustadt. Die Jakobuskapelle am Jakobsweg, vermutlich vor 1500 gebaut, wurde zweimal wegen neuer Straßen versetzt und steht seit 1986 am heutigen Platz. Das Hofgut Himmelreich ist seit 2004 ein Inklusionsunternehmen mit Hotel und Restaurant. Die Lüge war 3.
 
 67 Wörter · Faktencheck: **korrigiert** – Die Bahnagentur des Hofguts ist geschlossen (und bestand erst seit 2006).
-
-### Ausreißer, Karte 1 · Klassiker · Familie A    [ ] streichen
-
-> Kirchzarten
-> Gemeinde mit rund 10.400 Einwohnern, 8 km südöstlich von Freiburg im Breisgau.
-> Bundestagswahl 2025: Bei welcher Partei wich Kirchzarten am stärksten vom Ergebnis im Landkreis Breisgau-Hochschwarzwald ab?
-> 1. Die Grünen
-> 2. Die AfD
-> 3. Die CDU
-> 4. Die SPD
-
-> Du hattest [Option] getippt. Kirchzarten gab den Grünen 25,7 Prozent der Zweitstimmen, im Landkreis Breisgau-Hochschwarzwald waren es 17,3: 8,4 Punkte mehr. Die nächstgrößte Abweichung hatte die AfD mit 6,0 Punkten. Richtig war 1.
-
-33 Wörter · Faktencheck: **bestätigt**
 
 **Ersetzt** (derselbe Fakt steht in einer neueren Karte):
 

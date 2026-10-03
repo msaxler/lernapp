@@ -149,7 +149,7 @@ def pruefe(slug, ort, karte, st):
                     m.group(1), m.group(2), m.group(3), m.group(4), p, ort_genau[p], kreis_rund[p], abs(d)))
             if PARTEI[m.group(6).lower()] != q2 or zahl(m.group(7)) != round(abs(d2), 1):
                 befunde.append('nächstgrößte Abweichung stimmt nicht (gerechnet %s %.1f)' % (q2, abs(d2)))
-        if abs(d) < 8.0 or abs(d) - abs(d2) < 1.5:
+        if abs(d) < 10.0 or abs(d) - abs(d2) < 1.5:  # Schwelle seit 2026-10-03 zehn Punkte (vorher acht)
             befunde.append('Schwelle nicht erreicht: %.2f Punkte, Abstand %.2f' % (abs(d), abs(d) - abs(d2)))
         for q in optionen:
             if q != p and q in ort_genau and abs(ort_genau[q] - kreis_genau[q]) >= abs(d):
