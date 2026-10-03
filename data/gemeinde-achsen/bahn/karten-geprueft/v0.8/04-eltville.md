@@ -93,8 +93,6 @@ Welche Verbindung hat Eltville zu Johannes Gutenberg?
 4. Er starb auf der Kurfürstlichen Burg.
 RÜCKSEITE:
 Du hattest [Option] getippt. Gutenbergs Bruder Friele Gensfleisch lebte von 1434 bis 1447 im Gensfleischhaus, einem Adelshof in der historischen Altstadt. Gutenberg selbst hatte später in Eltville als Hofmann Kurfürst Adolfs eine Leibrente. Richtig war 3.
-
----
 Quelle: Gemeinde-Webseite, eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/
 WÖRTER RÜCKSEITE: 36
 NEGATIVNACHWEISE:
@@ -149,8 +147,6 @@ Was geschah 1349 auf der Kurfürstlichen Burg in Eltville?
 4. Dort tagten Fürsten über eine neue Königswahl.
 RÜCKSEITE:
 Du hattest [Option] getippt. Es ging tatsächlich um Macht – aber um ihren Verlust. Gegenkönig Günther von Schwarzburg, Rivale Karls IV., floh auf die Kurfürstliche Burg und unterzeichnete dort seinen Thronverzicht. Der Limburger Chronik zufolge wurde er dort möglicherweise vergiftet; Wochen später starb er in Frankfurt. Richtig war 1.
-
----
 Quelle: Gemeinde-Webseite, eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/eltville/
 WÖRTER RÜCKSEITE: 48
 NEGATIVNACHWEISE:

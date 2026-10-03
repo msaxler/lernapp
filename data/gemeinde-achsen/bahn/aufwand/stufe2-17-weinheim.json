@@ -1,0 +1,35 @@
+{
+ "stufe": "stufe2",
+ "ort": "17-weinheim",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "sonnet",
+ "modelle": [
+  "claude-sonnet-4-6",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 4784,
+ "token_ein": 37558,
+ "token_aus": 3811,
+ "usage": {
+  "input_tokens": 8,
+  "cache_creation_input_tokens": 12905,
+  "cache_read_input_tokens": 24645,
+  "output_tokens": 3811,
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 12905,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "",
+  "iterations": [],
+  "speed": "standard"
+ },
+ "kosten_usd": 0.24773905000000002,
+ "sekunden": 81,
+ "fehler": false,
+ "zeit": "2026-10-03T18:38:18"
+}

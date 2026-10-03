@@ -104,9 +104,20 @@ def main():
                 m = re.search(r'^## ORTS-ANSCHLUSS\s*\n(.*?)(?=^## |\Z)', lies(pfad), flags=re.S | re.M)
                 if m:
                     anschluss = [z.strip(' -') for z in m.group(1).strip().split('\n') if z.strip() and not z.lower().startswith('keiner')]
-            # berichtigte Fassung (Alltagssprache, beide Orte beim Namen; Mike 2026-10-03) geht vor
-            if slug in berichtigt:
-                anschluss = berichtigt[slug]
+            # Der Anschluss des Kartenlaufs gilt nur für den Vorgänger, den seine Eingabe als LETZTER_PIN hatte; ist auf
+            # der Fahrt ein anderer Ort davor (Raum bahn nach dem Ausbau), entfällt er
+            pfad_e = os.path.join(iter_, 'eingabe-' + lauf_anschluss, slug + '.txt')
+            if anschluss and vorher and os.path.exists(pfad_e):
+                m = re.search(r'^LETZTER_PIN:\s*(.*?)\s*\(', lies(pfad_e), flags=re.M)
+                if m and m.group(1) != grund[vorher]['name']:
+                    anschluss = []
+            # berichtigte Fassung (Alltagssprache, beide Orte beim Namen; Mike 2026-10-03) geht vor; mit "von" nur für
+            # genau diesen Vorgänger
+            b = berichtigt.get(slug)
+            if isinstance(b, dict):
+                anschluss = b['zeilen'] if b.get('von') == vorher else []
+            elif b:
+                anschluss = b
             # der Prüfvermerk „(Namensteil)“ ist für den Faktencheck, nicht für den Bildschirm
             anschluss = [re.sub(r'\s*\(Namensteil\)\s*$', '', z) for z in anschluss]
             ort = {'slug': slug, 'name': g['name'], 'lat': g['lat'], 'lon': g['lon'], 'karten': karten,

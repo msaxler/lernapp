@@ -203,15 +203,6 @@ Warum ließ Graf Wilhelm II. von Katzenelnbogen um 1360 die Burg Katz erbauen?
 RÜCKSEITE (unverändert, da dort nur „Graf Wilhelm" ohne Numeral steht):
 Du hattest [Option] getippt. Ein Jagdsitz klingt plausibel über dem Rheintal. Doch als der Trierer Erzbischof Boemund II. ab 1356 die Burg Peterseck errichten ließ, antwortete Graf Wilhelm II. mit einer eigenen Burg – im Volksmund wurden beide zu „Katz und Maus". Richtig war 2.
 Quelle: Gemeinde-Webseite, sankt-goarshausen.de/stadt-st-goarshausen/stadtteile/stadtteil-wellmich/
-
----
-
-## ÜBERSICHT
-- bestätigt: 1 (Karte 5)
-- korrigiert: 1 (Karte 8)
-- unsicher: 0
-- gesperrt: 0
-- Suchen insgesamt: 4
 RÜCKSEITE:
 Du hattest [Option] getippt. Ein Jagdsitz klingt plausibel über dem Rheintal. Doch als der Trierer Erzbischof Boemund II. ab 1356 die Burg Peterseck errichten ließ, antwortete Graf Wilhelm mit einer eigenen Burg – im Volksmund wurden beide zu „Katz und Maus". Richtig war 2.
 Quelle: Gemeinde-Webseite, sankt-goarshausen.de/stadt-st-goarshausen/stadtteile/stadtteil-wellmich/

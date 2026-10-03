@@ -1,0 +1,35 @@
+{
+ "stufe": "stufe2",
+ "ort": "16-baden-baden",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "sonnet",
+ "modelle": [
+  "claude-sonnet-4-6",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 17878,
+ "token_ein": 144158,
+ "token_aus": 16225,
+ "usage": {
+  "input_tokens": 11,
+  "cache_creation_input_tokens": 31557,
+  "cache_read_input_tokens": 112590,
+  "output_tokens": 16225,
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 31557,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "",
+  "iterations": [],
+  "speed": "standard"
+ },
+ "kosten_usd": 0.6950365,
+ "sekunden": 366,
+ "fehler": false,
+ "zeit": "2026-10-03T18:43:02"
+}

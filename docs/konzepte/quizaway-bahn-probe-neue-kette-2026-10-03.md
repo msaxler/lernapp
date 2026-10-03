@@ -69,6 +69,39 @@ Je Ort:
 **Befund Q2 — dünne Seiten ziehen die Karten weg vom Ort.** Achern: Die Seite „Historisches“ liefert Fehler 404; Karte 1 fragt deshalb nach der Namensherkunft der Partnerstadt Morez. Sachlich richtig, aber keine Karte über Achern. Regel für den nächsten Lauf: Eine Geschichte handelt vom Zielort; Fakten über Partnerstädte tragen höchstens einen Klassiker.
 **Befund Q3 — Anschlüsse im alten Ton.** Die Läufe starteten vor der neuen Anschluss-Regel (Prompt v0.8, Regel 10, Nachtrag 2026-10-03); „Doppelt so viele Einwohner wie Achern …“ steht ohne Ortsnamen. Berichtigung wie bei Freiburg und Neuwied über `anschluss-berichtigt.json`.
 
+## 3a. Nachtrag: Gegenprobe und Sonnet (2026-10-03, Entscheide Mike)
+
+**Gegenprobe zu Q1.** Je Ort eine in Stufe 1 bestätigte Geschichten-Karte, zufällig (Startwert 20261003; Braubach hatte keine), mit voller Netzsuche geprüft (Prompt `prompt-gegenprobe-v0.1.txt`, Sonnet, rund 42.000 Token je Karte). Ergebnis: **3 von 9 mit Fehler**, alle in einer Zahl der Rückseite, alle schon in der vertrauenswürdigen Quelle:
+
+| Ort | Karte | Quelle sagt | unabhängige Quellen sagen |
+|---|---|---|---|
+| Vallendar | Marienburg erbaut | 1779 (Stadtseite) | 1773 (Rhein-Zeitung, alleburgen.de, Blick aktuell; Goethe 1774 dort) |
+| St. Goarshausen | Höhe Viereckiger Turm | 34 m (Stadtseite) | 23 m (KuLaDig) |
+| Kaub | Tote des Bergsturzes 1876 | 26 (regionalgeschichte.net) | 25 (Gartenlaube 1876 u. a.) |
+
+Die Kernaussagen hielten in 9 von 9 Karten. Folgerung: Die Annahme „vertrauenswürdige Quelle, also genügt der Abgleich ohne Netz“ hält für Kernaussagen, nicht für Zahlen und Jahre in Nebensätzen. Hochgerechnet läge die Befundquote ohne Gegenmaßnahme bei 30–35 %.
+
+**Entscheid Mike (2026-10-03): Zahlenregel, „ohne dass es teurer wird“.** Prompt v0.8.1, Regel 9: Die Rückseite nennt eine Zahl, ein Jahr oder ein Maß nur, wenn die Frage danach fragt oder die Geschichte sie braucht; keine Zierzahlen. Prüfung v0.2, Punkt 3a: jede weitere Zahl auf der Rückseite geht an Stufe 2. Die drei Karten sind nach der Regel berichtigt (Zahl gestrichen statt ersetzt; `korrekturen-hand.json`).
+
+**Sonnet für den Kartenlauf (A3).** An fünf Orten gemessen, dann abgebrochen: Kenzingen 161.000 Token, 17 min, 1,26 USD (Opus: 59.000, 12 min, 1,13 USD); Achern, Rastatt, Eltville und Rüdesheim liefen bis an die Ausgabegrenze von 128.000 Token Nachdenken (je 33 min, 2,00 USD) und lieferten **keine einzige Karte**. Sonnet ist für diesen Prompt kein Hebel; der Kartenlauf bleibt bei Opus. Der nächste Hebel dort ist die Denktiefe, nicht das Modell.
+
+**Grunddaten.** Rastatts Ergebnis (AfD 31,4 % vor CDU, Beteiligung 75,5 %) an der Pressemitteilung der Stadt bestätigt. Wikidata führt für St. Goarshausen das Kennzeichen „TR“ (falsch; Rhein-Lahn-Kreis: EMS); keine Karte nutzt es.
+
+## 3b. Ausbau auf 29 Orte (2026-10-03 abends)
+
+19 weitere Orte (Rheintal, Bergstraße – Mike: „über die Bergstraße“ –, Rheingau, Mittelrhein), mit Prompt v0.8.1 und Prüfung v0.2 (Zahlenregel). Alle 29 Orte sind im Fahrt-Prototyp (dritter Raum, 273 Karten; Artifact Version 7).
+
+| | erste 10 (v0.8) | Ausbau 19 (v0.8.1) | bisher (Agenten) |
+|---|---|---|---|
+| Token je Ort | 236.000 | 200.000 (mit verlorenen Läufen rund 209.000) | 390.000 |
+| Kosten je Ort | 2,17 USD | 1,85 USD | – |
+| Extraktion / Karten / Stufe 1 / Stufe 2 | 36k / 90k / 45k / 65k | 45k / 70k / 43k / 42k | 110k / 150k / 130k |
+| Urteile | 76 bestätigt, 13 korrigiert, 6 unsicher, 1 gesperrt | 163 bestätigt, 11 korrigiert, 4 unsicher | |
+
+Die Befundquote des Ausbaus (6 %) ist nicht gegengeprüft; nach der Gegenprobe der ersten 10 ist sie eine Untergrenze. Die Zahlenregel hat die Netzsuche gesenkt (Stufe 2 im Mittel 42.000 statt 65.000 Token je Ort).
+
+**Betriebsbefunde.** (1) Ein Kartenlauf hing über 60 Minuten, das Skript brach daraufhin die ganze Reihe ab; ein anderer verlor bei sehr langer Antwort alles bis auf die letzten zwei Karten (Lahr, 169.000 Token umsonst); einer endete mit „Request timed out“. Das Skript fängt das jetzt ab und wiederholt Läufe mit weniger als sieben Karten einmal (`aufwand/verlorene-laeufe-2026-10-03.json`). (2) Wikidata-Kennzeichen sind mehrfach falsch (Bühl „OG“ statt RA, Lahr „LR“ statt OG, St. Goarshausen „TR“ statt EMS); keine Karte hängt daran, Anschlüsse vergleichen dort den Landkreis. (3) Durch das Einschieben neuer Orte bekamen sieben Messorte einen neuen Vorgänger; Anschlüsse tragen deshalb jetzt ihren Vorgänger (`anschluss-berichtigt.json`, Feld „von“), der Export zeigt sie nur für genau dieses Ortspaar. (4) Lahr wählte wie Rastatt AfD vorn (31,4 %, Beteiligung 75,1 %; Schwarzwälder Bote) – richtig, nicht Datenfehler.
+
 ## 4. Quellenlage
 
 | | Orte |

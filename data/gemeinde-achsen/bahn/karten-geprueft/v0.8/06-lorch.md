@@ -15,8 +15,6 @@ Lorch war 1919–1923 Verwaltungssitz des „Freistaat Flaschenhals". Wie kam es
 4. Die Weimarer Regierung richtete eine Sonderverwaltung ein
 RÜCKSEITE:
 Du hattest [Option] getippt. Ausgerufen hat niemand etwas: Nach dem Ersten Weltkrieg blieb ein Streifen zwischen der französischen und der amerikanischen Besatzungszone unbesetzt. Lorch lag mittendrin und wurde Verwaltungssitz des „Freistaat Flaschenhals" (1919–1923). Richtig war 1.
-
----
 Quelle: Gemeinde-Webseite, lorch-rhein.de/tourismus-kultur/tourismus-freizeit-info-s/historie-von-lorch-und-seinen-stadtteilen/
 WÖRTER RÜCKSEITE: 36
 NEGATIVNACHWEISE:

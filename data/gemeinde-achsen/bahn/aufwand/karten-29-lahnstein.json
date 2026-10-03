@@ -1,0 +1,44 @@
+{
+ "stufe": "karten",
+ "ort": "29-lahnstein",
+ "prompt": "prompt-karten-v0.8.1.txt",
+ "modell_wunsch": "opus",
+ "modelle": [
+  "claude-opus-4-6"
+ ],
+ "eingabe_zeichen": 28341,
+ "token_ein": 33059,
+ "token_aus": 59760,
+ "usage": {
+  "input_tokens": 3,
+  "cache_creation_input_tokens": 16580,
+  "cache_read_input_tokens": 16476,
+  "output_tokens": 59760,
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 16580,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "",
+  "iterations": [],
+  "speed": "standard"
+ },
+ "kosten_usd": 1.6058780000000001,
+ "sekunden": 1035,
+ "fehler": false,
+ "zeit": "2026-10-03T18:28:27",
+ "wiederholt": {
+  "erster_versuch_karten": 6,
+  "erster_versuch": {
+   "token_ein": 113689,
+   "token_aus": 67755,
+   "kosten_usd": 2.2143402500000002,
+   "sekunden": 1279,
+   "fehler": false
+  }
+ }
+}

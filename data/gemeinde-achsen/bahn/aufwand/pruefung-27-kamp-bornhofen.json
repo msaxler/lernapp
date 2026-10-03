@@ -1,0 +1,34 @@
+{
+ "stufe": "pruefung",
+ "ort": "27-kamp-bornhofen",
+ "prompt": "prompt-pruefung-v0.2.txt",
+ "modell_wunsch": "sonnet",
+ "modelle": [
+  "claude-sonnet-4-6"
+ ],
+ "eingabe_zeichen": 47045,
+ "token_ein": 24958,
+ "token_aus": 8471,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 24956,
+  "cache_read_input_tokens": 0,
+  "output_tokens": 8471,
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 24956,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "",
+  "iterations": [],
+  "speed": "standard"
+ },
+ "kosten_usd": 0.220656,
+ "sekunden": 128,
+ "fehler": false,
+ "zeit": "2026-10-03T18:35:22"
+}

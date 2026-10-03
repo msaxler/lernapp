@@ -69,8 +69,6 @@ Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 RÜCKSEITE:
 Du hattest [Option] getippt. Im Bauernkrieg wurde zwar das Kloster Wonnental geplündert und zerstört, doch die Kirnburg fiel erst über hundert Jahre später: 1638 zerstörten sie Soldaten Herzog Bernhards von Weimar. Die Lüge war 1.
 Quelle: Gemeinde-Webseite, www.kenzingen.de/gaeste/sehenswertes/
-
----
 WÖRTER RÜCKSEITE: 33
 NEGATIVNACHWEISE:
 1 (Lüge): Weg (a). Fakt 016: Kirnburg wurde 1638 von Soldaten Herzog Bernhards von Weimar zerstört, nicht im Bauernkrieg.

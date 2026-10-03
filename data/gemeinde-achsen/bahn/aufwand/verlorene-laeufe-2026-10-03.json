@@ -1,0 +1,20 @@
+{
+ "_doc": "Verlorene erste Kartenläufe des Ausbaus (2026-10-03, 16:01–17:18): zählen zum Aufwand, ihre Ausgabe ist unbrauchbar.",
+ "13-lahr": {
+  "token_ein": 103006,
+  "token_aus": 65803,
+  "kosten_usd": 2.18,
+  "sekunden": 1151,
+  "grund": "nur der letzte Teil der Antwort kam an (Karten 9, 10)"
+ },
+ "19-heppenheim": {
+  "token_ein": 0,
+  "token_aus": 0,
+  "kosten_usd": null,
+  "sekunden": 3330,
+  "grund": "Request timed out (Dienst)"
+ },
+ "15-buehl … 29-lahnstein (12 Orte)": {
+  "grund": "nicht gelaufen oder ohne Ergebnis: ein Lauf hing über 60 min, das Skript brach die ganze Reihe ab"
+ }
+}

@@ -5013,6 +5013,215 @@ window.QA_DATEN = {
 "name": "Bahn Freiburg–Neuwied (rechte Rheinseite)",
 "orte": [
 {
+"slug": "11-emmendingen",
+"name": "Emmendingen",
+"lat": 48.12139,
+"lon": 7.84917,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Emmendingen",
+"steckbrief": "Stadt mit rund 29.500 Einwohnern, 14 km nördlich von Freiburg.",
+"frage": "In der Nähe von Emmendingen gründeten Mönche im 12. Jahrhundert ein Kloster. Woher kamen sie?",
+"optionen": [
+"Aus dem Elsass",
+"Aus der Schweiz",
+"Aus Oberbayern",
+"Aus dem Schwarzwald"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Kloster Tennenbach wurde von Zisterziensern aus Kloster Frienisberg im Kanton Bern gegründet. Die Schweizer Herkunft überrascht, doch Zisterzienserklöster gründeten oft Tochterhäuser in der Ferne. Nach der Säkularisation wurde das Kloster aufgelöst. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "11-emmendingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Emmendingen",
+"steckbrief": "Große Kreisstadt im Breisgau, 14 km nördlich von Freiburg.",
+"frage": "Wie viele Einwohner hat Emmendingen?",
+"optionen": [
+"Unter 15.000",
+"15.000 bis unter 25.000",
+"25.000 bis unter 35.000",
+"35.000 bis unter 50.000"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Als Große Kreisstadt und Sitz der Kreisverwaltung hat Emmendingen rund 29.500 Einwohner. Die Nähe zu Freiburg macht die Stadt größer, als mancher vermutet. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "11-emmendingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Emmendingen",
+"steckbrief": "Stadt mit rund 29.500 Einwohnern, 14 km nördlich von Freiburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Hochburg wurde im Dreißigjährigen Krieg zerstört.",
+"Die Stadt erhielt im Jahr 1590 das Stadtrecht.",
+"Der Bahnhof wurde im Jahr 1845 eröffnet."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Befestigungsanlagen der Hochburg wurden im Pfälzer Erbfolgekrieg zerstört, nicht im Dreißigjährigen Krieg. Der Dreißigjährige Krieg verwüstete zwar Emmendingen schwer, doch die Burg überstand ihn. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "11-emmendingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Emmendingen",
+"steckbrief": "Stadt mit rund 29.500 Einwohnern, 14 km nördlich von Freiburg.",
+"frage": "Welche Partei erreichte bei der Bundestagswahl 2025 in Emmendingen die zweitmeisten Zweitstimmen?",
+"optionen": [
+"GRÜNE",
+"SPD",
+"AfD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die GRÜNEN kamen auf 18,8 Prozent der Zweitstimmen, knapp vor der SPD mit 18,5 Prozent. Stärkste Partei war die CDU. In der Nähe zu Freiburg schneiden die GRÜNEN traditionell stark ab. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "11-emmendingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Emmendingen",
+"steckbrief": "Große Kreisstadt, 14 km nördlich von Freiburg im Breisgau.",
+"frage": "Welche Verbindung hatte Johann Wolfgang von Goethe zu Emmendingen?",
+"optionen": [
+"Er erholte sich hier von einer Krankheit",
+"Seine Schwester lebte und starb hier",
+"Er suchte hier Stoff für ein Theaterstück",
+"Er leitete hier den Straßenbau"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Goethes Schwester Cornelia war mit dem Oberamtmann Johann Georg Schlosser verheiratet und lebte in Emmendingen. Goethe besuchte sie dort. Emmendingen war weder Kurort noch Schauplatz seiner Werke; der Bezug war rein familiär. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "11-emmendingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Emmendingen",
+"steckbrief": "Stadt mit rund 29.500 Einwohnern, 14 km nördlich von Freiburg.",
+"frage": "Zu welchem Landkreis gehört Emmendingen?",
+"optionen": [
+"Breisgau-Hochschwarzwald",
+"Ortenaukreis",
+"Emmendingen",
+"Lörrach"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Emmendingen ist Kreisstadt und gibt dem Landkreis seinen Namen. Wer die Stadt nahe Freiburg verortet, tippt vielleicht auf Breisgau-Hochschwarzwald, doch Emmendingen hat einen eigenen Landkreis. Richtig war 3.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "11-emmendingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Emmendingen",
+"steckbrief": "Stadt im Breisgau, rund 29.500 Einwohner, 14 km nördlich von Freiburg.",
+"frage": "Welche besondere Sammlung beherbergt das Alte Rathaus von Emmendingen?",
+"optionen": [
+"Schwarzwälder Kuckucksuhren",
+"Alemannische Fastnachtsmasken",
+"Historische Weinpressen",
+"Tagebücher und Lebenserinnerungen"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Im Alten Rathaus sitzt das Deutsche Tagebucharchiv, das Tagebücher, Lebenserinnerungen und Briefwechsel sammelt. Die Nähe zum Schwarzwald legt Kuckucksuhren nahe, doch die stehen in Furtwangen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "11-emmendingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Emmendingen",
+"steckbrief": "Stadt mit rund 29.500 Einwohnern, 14 km nördlich von Freiburg.",
+"frage": "Carl Friedrich Meerwein, Landbaumeister in Emmendingen, veröffentlichte 1784 eine ungewöhnliche Schrift. Worüber?",
+"optionen": [
+"Über unterirdische Wasservorkommen",
+"Über essbare Wildpflanzen der Region",
+"Über den Bau einer Flugmaschine",
+"Über die Vermessung des Schwarzwalds"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Meerwein entwarf ein Flugmodell und berechnete, wie ein Mensch fliegen könnte. Sein Titel: „Der Mensch! sollte der nicht auch mit Fähigkeiten zum Fliegen geboren sein?\" Für einen Landbaumeister ein überraschender Gegenstand. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "11-emmendingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Emmendingen",
+"steckbrief": "Stadt im Breisgau, rund 29.500 Einwohner, 14 km nördlich von Freiburg.",
+"frage": "Der Stadtgründer Emmendingens, Markgraf Jakob III., starb 1590 im Alter von 28 Jahren. Was gilt als vermutliche Todesursache?",
+"optionen": [
+"Arsenvergiftung",
+"Pest",
+"Reitunfall",
+"Duell"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Markgraf Jakob III. starb vermutlich an einer Arsenvergiftung. Im selben Jahr hatte er noch ein Religionsgespräch veranstaltet und war zum katholischen Glauben übergetreten. Die Pest hätte ins Jahrhundert gepasst, trifft hier aber nicht zu. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "11-emmendingen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Emmendingen",
+"steckbrief": "Große Kreisstadt, 14 km nördlich von Freiburg im Breisgau.",
+"frage": "Im Mühlburger Krieg wurde Emmendingen 1424 vollständig zerstört. Wer griff die Stadt an?",
+"optionen": [
+"Raubritter aus dem Schwarzwald",
+"Eine Allianz oberrheinischer Städte",
+"Söldner des französischen Königs",
+"Der Herzog von Württemberg"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Allianz mehrerer oberrheinischer Städte, darunter Basel und Straßburg, nahm Emmendingen ein und zerstörte es. Der Name „Mühlburger Krieg\" klingt nach einer einzelnen Burg, doch es war ein größerer Konflikt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.emmendingen.de/stadt-emmendingen/geschichte/emmendinger-stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "11-emmendingen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": null,
+"anschluss": []
+},
+{
 "slug": "01-kenzingen",
 "name": "Kenzingen",
 "lat": 48.19167,
@@ -5072,7 +5281,7 @@ window.QA_DATEN = {
 "art": "luege",
 "loesung": 1,
 "rueckseite": "Du hattest [Option] getippt. Im Bauernkrieg wurde zwar das Kloster Wonnental geplündert und zerstört, doch die Kirnburg fiel erst über hundert Jahre später: 1638 zerstörten sie Soldaten Herzog Bernhards von Weimar. Die Lüge war 1.",
-"quelle": "Gemeinde-Webseite, www.kenzingen.de/gaeste/sehenswertes/ ---",
+"quelle": "Gemeinde-Webseite, www.kenzingen.de/gaeste/sehenswertes/",
 "faktencheck": "korrigiert",
 "id": "01-kenzingen/v0.8/3",
 "tisch": false
@@ -5198,8 +5407,610 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": null,
-"anschluss": []
+"anschluss_von": "11-emmendingen",
+"anschluss": [
+"Emmendingen hat fast dreimal so viele Einwohner wie Kenzingen.",
+"Kenzingen und Emmendingen liegen beide im Landkreis Emmendingen."
+],
+"km_vom_vorigen": 9.9
+},
+{
+"slug": "12-herbolzheim",
+"name": "Herbolzheim",
+"lat": 48.22194,
+"lon": 7.7775,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herbolzheim",
+"steckbrief": "Stadt mit rund 10.700 Einwohnern, 26 km nördlich von Freiburg.",
+"frage": "Emil Dörle aus Herbolzheim schrieb den Marsch „Hoch Badnerland\". Was war sein Brotberuf?",
+"optionen": [
+"Er war Gymnasiallehrer.",
+"Er war Apotheker.",
+"Er war Instrumentenbauer.",
+"Er war Finanzbeamter."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Man würde einen Musiker hinter dem Badnerlied vermuten, doch Emil Dörle verdiente seinen Lebensunterhalt in der Staatlichen Finanzverwaltung. Sein Vater Karl war Schmiedemeister und Musikdirektor in Herbolzheim – die Musik lag in der Familie, der Beruf nicht. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, stadt-herbolzheim.de/stadt-stadtteile/stadt-herbolzheim/geschichte-wappen",
+"faktencheck": "bestätigt",
+"id": "12-herbolzheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Herbolzheim",
+"steckbrief": "Stadt mit rund 10.700 Einwohnern, 26 km nördlich von Freiburg.",
+"frage": "Wie groß ist die Gemarkung von Herbolzheim?",
+"optionen": [
+"unter 40 km²",
+"40 bis unter 55 km²",
+"55 bis unter 75 km²",
+"75 km² oder mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Trotz mehrerer Ortsteile ist die Gemarkung überraschend kompakt. Am Rand der Oberrheinebene liegen die Siedlungen dicht beieinander. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "12-herbolzheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Herbolzheim",
+"steckbrief": "Kleinstadt mit rund 10.700 Einwohnern am Rand der Oberrheinebene.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Durch Bleichheim fließt der Bach Bleiche.",
+"Ein Brunnen in Broggingen heißt Dragonerbrunnen.",
+"Im Stadtwappen ist ein Löwe abgebildet."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Wappen zeigt einen Reichsadler, österreichische Farben und eine halbe Pflugschar – aber keinen Löwen. Weil Löwen in der deutschen Heraldik häufig vorkommen, liegt die Vermutung nahe. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, stadt-herbolzheim.de/stadt-stadtteile/stadt-herbolzheim/geschichte-wappen",
+"faktencheck": "bestätigt",
+"id": "12-herbolzheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Herbolzheim",
+"steckbrief": "Kleinstadt mit rund 10.700 Einwohnern, 26 km nördlich von Freiburg.",
+"frage": "Bundestagswahl 2025: Wie hoch war der Anteil der stärksten Partei?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 27 %",
+"27 bis unter 34 %",
+"34 % oder mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Stärkste Partei war die CDU. In ländlichen Gemeinden Baden-Württembergs liegt sie oft deutlich vorn, doch in Freiburgs Umland fällt ihr Ergebnis moderater aus. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "12-herbolzheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herbolzheim",
+"steckbrief": "Rund 10.700 Einwohner, 26 km nördlich von Freiburg, an der A 5.",
+"frage": "Wofür wurde das heutige Kulturhaus „Torhaus\" in Herbolzheim ursprünglich gebaut?",
+"optionen": [
+"Es war ein Empfangsgebäude am Stadttor.",
+"Es war ein Gasthof an der Hauptstraße.",
+"Es diente als Schulhaus der Gemeinde.",
+"Es gehörte zu einer Leinenweberei."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach Stadttor, doch das Gebäude entstand als Wohn- und Verwaltungsbau der Leinenweberei Carl Kuenzer. Nach dem Ende der Weberei nutzte die Bundeswehr es als Gerätedepot. Heute dient es als Kulturhaus mit Stadtbücherei und Trauzimmer. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, stadt-herbolzheim.de/stadt-stadtteile/torhaus",
+"faktencheck": "bestätigt",
+"id": "12-herbolzheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Herbolzheim",
+"steckbrief": "Stadt mit rund 10.700 Einwohnern, 26 km nördlich von Freiburg.",
+"frage": "Mit welcher Stadt unterhält Herbolzheim eine Städtepartnerschaft?",
+"optionen": [
+"Sisteron",
+"Colmar",
+"Tábor",
+"Altea"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Colmar liegt zwar nahe am Oberrhein und käme als Partner in Frage, doch Herbolzheim pflegt die Partnerschaft mit dem südfranzösischen Sisteron. Richtig war 1.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "12-herbolzheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herbolzheim",
+"steckbrief": "Kleinstadt am Rand der Oberrheinebene, rund 10.700 Einwohner.",
+"frage": "Der Bischof Bernard Galura wurde 1764 in Herbolzheim geboren. Wie hieß er bei der Geburt?",
+"optionen": [
+"Er hieß Bernhard Bärenpfad.",
+"Er hieß Bernhard Katzenschwanz.",
+"Er hieß Bernhard Fuchsbau.",
+"Er hieß Bernhard Wolfsgrund."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Alle Optionen klingen erfunden, doch Katzenschwanz war tatsächlich sein Familienname. Sein Vater Johann Martin Katzenschwanz war Gast- und Landwirt in Herbolzheim. Später wurde er als Bernard Galura bekannt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, stadt-herbolzheim.de/stadt-stadtteile/stadt-herbolzheim/geschichte-wappen",
+"faktencheck": "korrigiert",
+"id": "12-herbolzheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herbolzheim",
+"steckbrief": "Kleinstadt mit rund 10.700 Einwohnern, 26 km nördlich von Freiburg.",
+"frage": "Die slowakische Partnerstadt Kremnica hat eine besondere Verbindung zu Herbolzheim. Welche?",
+"optionen": [
+"Der Rathausplatz heißt dort Herbolzheimer Platz.",
+"Kremnica liefert den Christbaum für den Marktplatz.",
+"Ein Herbolzheimer Verein trainiert dort jährlich.",
+"Herbolzheims Medaillen werden dort geprägt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In Kremnicas staatlicher Münze werden Herbolzheims Gedenkmünzen und Bürgermedaillen geprägt – eine ungewöhnliche Verbindung zwischen Breisgau und Slowakei. Beide Städte verbindet außerdem der einstige Abbau von Bodenschätzen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, stadt-herbolzheim.de/stadt-stadtteile/staedtepartnerschaft/staedtepartnerschaft",
+"faktencheck": "bestätigt",
+"id": "12-herbolzheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herbolzheim",
+"steckbrief": "Stadt mit rund 10.700 Einwohnern und vier Ortsteilen, 26 km nördlich von Freiburg.",
+"frage": "Welche Freizeitanlage gibt es im Ortsteil Tutschfelden?",
+"optionen": [
+"Es gibt dort ein Freibad.",
+"Es gibt dort eine Reitanlage.",
+"Es gibt dort einen Golfplatz.",
+"Es gibt dort einen Kletterpark."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Freibad oder eine Reitanlage wären in einem Dorf naheliegender, doch Tutschfelden hat tatsächlich einen Golfplatz auf dem Lösshügel-Rücken im Bleichtal. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, stadt-herbolzheim.de/stadt-stadtteile/stadtteile/tutschfelden",
+"faktencheck": "bestätigt",
+"id": "12-herbolzheim/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herbolzheim",
+"steckbrief": "Stadt mit rund 10.700 Einwohnern, 26 km nördlich von Freiburg.",
+"frage": "In Bleichheim stehen zwei sogenannte Himmelsliegen. Was war der Anlass für ihre Entstehung?",
+"optionen": [
+"Sie entstanden als Solidarprojekt im Lockdown.",
+"Sie entstanden bei einem Bildhauer-Wettbewerb.",
+"Sie entstanden durch eine Wandervereins-Aktion.",
+"Sie waren ein Geschenk der Partnerstadt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Bildhauer-Wettbewerb wäre ein naheliegender Anlass, doch die Himmelsliegen entstanden als Solidarprojekt während des dritten Corona-Lockdowns. Familien aus dem Dorf gestalteten die Liegen gemeinsam. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, stadt-herbolzheim.de/stadt-stadtteile/stadtteile/bleichheim",
+"faktencheck": "bestätigt",
+"id": "12-herbolzheim/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "01-kenzingen",
+"anschluss": [
+"Herbolzheim und Kenzingen sind fast gleich groß: rund 10.700 und 10.800 Einwohner."
+],
+"km_vom_vorigen": 3.4
+},
+{
+"slug": "13-lahr",
+"name": "Lahr",
+"lat": 48.33917,
+"lon": 7.87222,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lahr",
+"steckbrief": "Stadt mit rund 51.000 Einwohnern, 38 km nördlich von Freiburg.",
+"frage": "Lahr hieß Anfang des 20. Jahrhunderts „Schächtele-Stadt\". Wofür stand der Beiname?",
+"optionen": [
+"Lahr war Zentrum der Zigarrenherstellung.",
+"Lahr war Zentrum des Schmuckkästchen-Handels.",
+"Lahr war Zentrum der Verpackungsindustrie.",
+"Lahr war Zentrum der Spielzeugproduktion."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. „Schächtele\" heißt auf Alemannisch „Schächtelchen\" – da liegt Spielzeug oder Schmuck nahe. Tatsächlich war Lahr das Zentrum der badischen Verpackungsindustrie und trug deshalb den Beinamen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, lahr.de/wirtschaftsgeschichte.11677.htm",
+"faktencheck": "bestätigt",
+"id": "13-lahr/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lahr",
+"steckbrief": "Stadt mit rund 51.000 Einwohnern, 38 km nördlich von Freiburg.",
+"frage": "Wie dicht besiedelt ist Lahr – wie viele Einwohner kommen auf einen Quadratkilometer?",
+"optionen": [
+"unter 300",
+"300 bis unter 500",
+"500 bis unter 700",
+"700 bis unter 1.000"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Mit rund 730 Einwohnern je Quadratkilometer ist Lahr kompakter besiedelt, als viele denken. Wer die Gemarkung überschätzt, tippt zu niedrig. Richtig war 4.",
+"quelle": "Wikidata (Einwohnerzahl, Stand 2025-12-31) und Wikidata (Fläche), daraus berechnet",
+"faktencheck": "bestätigt",
+"id": "13-lahr/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Lahr",
+"steckbrief": "Mittelstadt im Ortenaukreis, 38 km nördlich von Freiburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Philipp Siebenpfeiffer aus Lahr organisierte das Wartburgfest.",
+"Ludwig Sütterlin aus Lahr entwarf eine Schulschrift.",
+"Felix Wankel aus Lahr erfand den Drehkolbenmotor."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Siebenpfeiffer organisierte nicht das Wartburgfest, sondern das Hambacher Fest. Das Wartburgfest war eine Studentenversammlung – Siebenpfeiffer hingegen war Jurist und Publizist. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, lahr.de/persoenlichkeiten.1037.htm",
+"faktencheck": "bestätigt",
+"id": "13-lahr/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Lahr",
+"steckbrief": "Mittelstadt mit rund 51.000 Einwohnern im Ortenaukreis.",
+"frage": "Welche Partei erreichte bei der Bundestagswahl 2025 in Lahr den zweiten Platz?",
+"optionen": [
+"SPD",
+"CDU",
+"GRÜNE",
+"AfD"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die AfD war mit 31,4 % stärkste Kraft in Lahr. Dahinter folgte die CDU mit 24,7 %. Wer die AfD als zweite tippte, verwechselte die Rangfolge. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "13-lahr/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lahr",
+"steckbrief": "Stadt mit rund 51.000 Einwohnern, 38 km nördlich von Freiburg.",
+"frage": "Lahrs Stadtpark geht auf die Stiftung eines Kaufmanns zurück. Womit handelte er?",
+"optionen": [
+"Er handelte mit Tabak aus Übersee.",
+"Er handelte mit Porzellan aus Ostasien.",
+"Er handelte mit Stoffen in Übersee.",
+"Er handelte mit Gewürzen aus Indien."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Tabak oder Gewürze wären naheliegend für einen Überseehändler. Doch Jamm handelte mit Seiden- und Baumwollstoffen, unter anderem auf Kuba. Er vermachte der Stadt seinen Besitz – daraus entstand der Stadtpark. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, lahr.de/geschichte-des-stadtparks.7302.htm",
+"faktencheck": "bestätigt",
+"id": "13-lahr/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lahr",
+"steckbrief": "Stadt im Westen Baden-Württembergs, rund 51.000 Einwohner.",
+"frage": "Wie weit ist Lahr Luftlinie von der Landeshauptstadt Stuttgart entfernt?",
+"optionen": [
+"unter 65 km",
+"65 bis unter 85 km",
+"85 bis unter 105 km",
+"105 bis unter 135 km"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Lahr liegt am westlichen Rand Baden-Württembergs. Der Schwarzwald liegt dazwischen – am Ende sind es rund 108 Kilometer Luftlinie bis Stuttgart. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata)",
+"faktencheck": "bestätigt",
+"id": "13-lahr/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lahr",
+"steckbrief": "Mittelstadt im Ortenaukreis, 38 km nördlich von Freiburg.",
+"frage": "Ein Lahrer Schriftsteller prägte einen bis heute gebräuchlichen Epochenbegriff. Welchen?",
+"optionen": [
+"Er prägte den Begriff „Biedermeier\".",
+"Er prägte den Begriff „Gründerzeit\".",
+"Er prägte den Begriff „Jugendstil\".",
+"Er prägte den Begriff „Naturalismus\"."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gründerzeit oder Naturalismus als Prägung eines Einzelnen? Eher nicht. Ludwig Eichrodt, Oberamtsrichter in Lahr, parodierte einen Dorfpoeten – und schuf so den Epochenbegriff „Biedermeier\". Richtig war 1.",
+"quelle": "Gemeinde-Webseite, lahr.de/persoenlichkeiten.1037.htm",
+"faktencheck": "bestätigt",
+"id": "13-lahr/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lahr",
+"steckbrief": "Stadt mit rund 51.000 Einwohnern, 38 km nördlich von Freiburg.",
+"frage": "Hans Furler aus Lahr hatte ein europäisches Spitzenamt inne. Welches?",
+"optionen": [
+"Er wurde Generalsekretär des Europarats.",
+"Er wurde Präsident des Europäischen Parlaments.",
+"Er wurde Präsident der Europäischen Kommission.",
+"Er wurde Präsident des Europäischen Gerichtshofs."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Europarat oder Gerichtshof klingen plausibel für einen Juristen. Doch Furler, CDU-Bundestagsabgeordneter und Europapolitiker aus Lahr, wurde Präsident des Europäischen Parlaments in Straßburg. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, lahr.de/persoenlichkeiten.1037.htm",
+"faktencheck": "bestätigt",
+"id": "13-lahr/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lahr",
+"steckbrief": "Stadt mit rund 51.000 Einwohnern, 38 km nördlich von Freiburg.",
+"frage": "Lahrs Partnerstadt Belleville liegt nicht in Frankreich. In welchem Land liegt sie?",
+"optionen": [
+"Belleville liegt in Australien.",
+"Belleville liegt in den USA.",
+"Belleville liegt in Kanada.",
+"Belleville liegt in Belgien."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Belleville klingt französisch – Belgien oder Frankreich liegen da nahe. Tatsächlich liegt Lahrs Partnerstadt aber in Kanada und ist für ihre Käseproduktion bekannt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, lahr.de/sehenswertes.4802.htm",
+"faktencheck": "bestätigt",
+"id": "13-lahr/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lahr",
+"steckbrief": "Mittelstadt im Ortenaukreis, 38 km nördlich von Freiburg.",
+"frage": "Die Burgheimer Kirche in Lahr stammt aus dem 12. Jahrhundert. In welchem Baustil ist sie erbaut?",
+"optionen": [
+"Sie ist im Stil der Romanik erbaut.",
+"Sie ist im Stil der Gotik erbaut.",
+"Sie ist im Stil des Barock erbaut.",
+"Sie ist im Stil der Renaissance erbaut."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gotik liegt für eine mittelalterliche Kirche nahe, doch die Burgheimer Kirche ist älter als die gotische Epoche – ihr Baustil ist romanisch, erkennbar an den Schall-Öffnungen des Chorturms. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, lahr.de/kirchen.1308.htm",
+"faktencheck": "bestätigt",
+"id": "13-lahr/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "12-herbolzheim",
+"anschluss": [
+"Kreisgrenze: Herbolzheim gehört zum Landkreis Emmendingen, Lahr zum Ortenaukreis.",
+"Lahr hat fast fünfmal so viele Einwohner wie Herbolzheim."
+],
+"km_vom_vorigen": 14.8
+},
+{
+"slug": "14-offenburg",
+"name": "Offenburg",
+"lat": 48.47083,
+"lon": 7.94083,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Offenburg",
+"steckbrief": "Rund 63.000 Einwohner, 53 km nördlich von Freiburg",
+"frage": "Was beschloss die Landesregierung 1996 für Offenburg?",
+"optionen": [
+"Eine Rheinbrücke nach Straßburg wurde beschlossen",
+"Die Stadt wurde zum Oberzentrum erhoben",
+"Die Stadt kam in ein Städtesanierungsprogramm",
+"Ein Regierungspräsidium wurde eingerichtet"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Rheinbrücke nach Straßburg klingt plausibel, denn um die benachbarte Europastadt geht es tatsächlich: Offenburg wurde zum Oberzentrum erhoben, um als Partner Straßburgs bestehen zu können. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, offenburg.de/de/zu-gast-in-offenburg/touristinfo/stadtinformation/geschichte-vi/",
+"faktencheck": "bestätigt",
+"id": "14-offenburg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "Leiter",
+"sorte": "Klassiker",
+"ort": "Offenburg",
+"steckbrief": "Rund 63.000 Einwohner, 53 km nördlich von Freiburg",
+"frage": "Wie viele Einwohner kommen in Offenburg auf einen Quadratkilometer?",
+"optionen": [
+"Mehr als 500?",
+"Mehr als 1.000?",
+"Mehr als 1.500?",
+"Mehr als 2.000?"
+],
+"art": "leiter",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Offenburg ist kein Ballungsraum, aber auch kein Dorf: Die Dichte liegt bei rund 809 Einwohnern je Quadratkilometer, also mehr als 500, aber unter 1.000. Höher bis Stufe 1, dann raus.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohner (Stand 2025-12-31) und Fläche",
+"faktencheck": "bestätigt",
+"id": "14-offenburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Offenburg",
+"steckbrief": "Rund 63.000 Einwohner, 53 km nördlich von Freiburg",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Straßen wie die Gerberstraße erinnern an frühere Zunftquartiere.",
+"In der Reformationszeit wurde die Stadt dauerhaft lutherisch.",
+"Während der Ruhrkrise besetzte Frankreich die Stadt."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Luthers Lehre hatte in Offenburg zunächst Erfolg, doch die Bürger kehrten bald zum alten Glauben zurück. Ihnen war daran gelegen, den Status als freie Reichsstädter zu erhalten. Die Ruhrkrise-Besatzung und die Zunft-Straßennamen stimmen. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, offenburg.de/de/zu-gast-in-offenburg/touristinfo/stadtinformation/geschichte-i/",
+"faktencheck": "bestätigt",
+"id": "14-offenburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Offenburg",
+"steckbrief": "Rund 63.000 Einwohner, 53 km nördlich von Freiburg",
+"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in Offenburg?",
+"optionen": [
+"75 bis unter 80 Prozent",
+"80 bis unter 85 Prozent",
+"Unter 75 Prozent",
+"85 Prozent und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Baden-Württemberg ist für hohe Wahlbeteiligung bekannt, und viele tippen auf über 80 Prozent. Offenburg lag mit 79,5 Prozent aber knapp darunter. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "14-offenburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Offenburg",
+"steckbrief": "Stadt mit rund 63.000 Einwohnern, 53 km nördlich von Freiburg",
+"frage": "Warum siedelten sich Mitte des 13. Jahrhunderts Juden in Offenburg an?",
+"optionen": [
+"Die Stadt brauchte Geldgeber für den Kirchenbau",
+"Der Kaiser verfolgte eine tolerante Ansiedlungspolitik",
+"Der Bischof schenkte ihnen Grundbesitz",
+"Sie sollten die Münzprägung der Stadt übernehmen"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Jüdische Gemeinden waren im Mittelalter oft mit Geldgeschäften verbunden, doch in Offenburg war es die tolerante Politik Friedrichs II., die zur Ansiedlung führte. Es entstand eine kleine blühende Gemeinde mit Synagoge und unterirdischer Mikwe, einem rituellen Tauchbad. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, offenburg.de/de/zu-gast-in-offenburg/touristinfo/stadtinformation/geschichte-i/",
+"faktencheck": "bestätigt",
+"id": "14-offenburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Offenburg",
+"steckbrief": "Rund 63.000 Einwohner, 53 km nördlich von Freiburg",
+"frage": "Wie weit ist Offenburg von der Landeshauptstadt Stuttgart entfernt (Luftlinie)?",
+"optionen": [
+"100 bis unter 130 km",
+"130 km und mehr",
+"70 bis unter 100 km",
+"Unter 70 km"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele schätzen die Entfernung größer, doch die Luftlinie von Offenburg nach Stuttgart beträgt nur rund 97 Kilometer. Richtig war 3.",
+"quelle": "GRUNDDATEN, berechnet aus Koordinaten (Wikidata)",
+"faktencheck": "bestätigt",
+"id": "14-offenburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Offenburg",
+"steckbrief": "Rund 63.000 Einwohner, 53 km nördlich von Freiburg",
+"frage": "Was prägte Offenburg laut Stadtgeschichte ab dem 16. Jahrhundert?",
+"optionen": [
+"Hugenottische Handwerker siedelten sich an",
+"Die Bürger handelten mit Schwarzwälder Holz",
+"Eine Garnison des Schwäbischen Kreises lag dort",
+"Die Bürger betrieben Ackerbau, Weinbau und Viehzucht"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Handel oder Handwerk läge für eine Reichsstadt nahe, doch in Offenburg bestellten die Bürger selbst Felder und Weinberge. Die Stadt erhielt dadurch ein bürgerlich-bäuerliches Gesicht. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, offenburg.de/de/zu-gast-in-offenburg/touristinfo/stadtinformation/geschichte-i/",
+"faktencheck": "bestätigt",
+"id": "14-offenburg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Offenburg",
+"steckbrief": "Stadt mit rund 63.000 Einwohnern, 53 km nördlich von Freiburg",
+"frage": "Was änderte sich um 1300 am Offenburger Stadtrat?",
+"optionen": [
+"Ein zweiter Rat aus Zunftmitgliedern kam hinzu",
+"Der Kaiser setzte einen Schultheißen als Aufseher ein",
+"Die Ratssitze wurden erstmals gewählt",
+"Der Rat verlor die Gerichtsbarkeit an den Bischof"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wahlen oder ein kaiserlicher Aufseher wären typisch für die Zeit, doch in Offenburg ergänzte ein zweiter Rat aus Zunftmitgliedern den bestehenden. Man nannte ihn den „Jungen Rat\"; er übernahm Verwaltungsaufgaben. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, offenburg.de/de/zu-gast-in-offenburg/touristinfo/stadtinformation/geschichte-i/",
+"faktencheck": "bestätigt",
+"id": "14-offenburg/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "13-lahr",
+"anschluss": [
+"Bundestagswahl 2025: In Lahr lag die AfD vorn, in Offenburg die CDU.",
+"Lahr und Offenburg liegen beide im Ortenaukreis; Offenburg ist die Kreisstadt."
+],
+"km_vom_vorigen": 15.5
 },
 {
 "slug": "02-achern",
@@ -5387,12 +6198,438 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "01-kenzingen",
+"anschluss_von": "14-offenburg",
 "anschluss": [
-"Achern hat fast zweieinhalbmal so viele Einwohner wie Kenzingen.",
-"Acherns Gemarkung ist fast doppelt so groß wie die von Kenzingen."
+"Offenburg hat mehr als doppelt so viele Einwohner wie Achern.",
+"Achern und Offenburg liegen beide im Ortenaukreis."
 ],
-"km_vom_vorigen": 53.8
+"km_vom_vorigen": 20.4
+},
+{
+"slug": "15-buehl",
+"name": "Bühl",
+"lat": 48.69528,
+"lon": 8.135,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bühl",
+"steckbrief": "Rund 28.000 Einwohner, 40 km südwestlich von Karlsruhe.",
+"frage": "Die Bühler Frühzwetschge wurde um 1840 entdeckt. Was verhalf ihr zum überregionalen Durchbruch?",
+"optionen": [
+"Ein Preis auf einer Gartenbauausstellung",
+"Die Empfehlung des großherzoglichen Hofkochs",
+"Ein Auftrag der preußischen Armee",
+"Ein besonders harter Winter"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein besonders harter Winter ließ viele Obstsorten erfrieren, doch die widerstandsfähige Frühzwetschge überstand ihn. Danach stieg die Nachfrage, und die Frucht gelangte bis ins Ruhrgebiet und nach Hamburg. Ein Hofkoch wäre eine schöne Geschichte, doch es war schlicht die Natur. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Buehler_Fruehzwetschge",
+"faktencheck": "bestätigt",
+"id": "15-buehl/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bühl",
+"steckbrief": "Große Kreisstadt am Oberrhein, rund 28.000 Einwohner, 40 km südwestlich von Karlsruhe.",
+"frage": "Wann wurde Bühl erstmals urkundlich erwähnt?",
+"optionen": [
+"1250 bis unter 1400",
+"1400 oder später",
+"vor 1100",
+"1100 bis unter 1250"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Edelknecht übergab Güter „in banno Buhel\" an das Kloster Schwarzach; so erscheint der Ortsname erstmals in einer Urkunde. Archäologische Funde reichen bis in die Stein- und Bronzezeit, doch ein schriftlicher Beleg ließ lange auf sich warten. Richtig war 1.",
+"quelle": "dewiki, Artikel „Bühl\"",
+"faktencheck": "bestätigt",
+"id": "15-buehl/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bühl",
+"steckbrief": "Stadt im Landkreis Rastatt, rund 28.000 Einwohner, 40 km südwestlich von Karlsruhe.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"1403 verlieh der Markgraf von Baden das Marktrecht.",
+"1846 erhielt Bühl Anschluss an die Eisenbahn.",
+"1788 kam der Amtssitz von Steinbach nach Bühl."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Marktrecht verlieh nicht der Markgraf, sondern König Ruprecht von der Pfalz; er sprach es Ritter Reinhard von Windeck zu. Der Markgraf lag nahe, weil Baden die Landesherrschaft innehatte, doch Marktrechte vergaben im Mittelalter Könige. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte",
+"faktencheck": "bestätigt",
+"id": "15-buehl/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bühl",
+"steckbrief": "Rund 28.000 Einwohner, 40 km südwestlich von Karlsruhe.",
+"frage": "Welche Partei war bei der Bundestagswahl 2025 in Bühl zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"Grüne",
+"AfD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei der Bundestagswahl 2025 lag die AfD in Bühl auf dem zweiten Platz hinter der CDU. SPD und Grüne erreichten nahezu gleiche Ergebnisse dahinter. Wer auf die Grünen-Tradition in Baden-Württemberg schaut, hätte sie wohl höher eingeschätzt. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025, Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "15-buehl/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bühl",
+"steckbrief": "Stadt am Oberrhein, rund 28.000 Einwohner, 40 km südwestlich von Karlsruhe.",
+"frage": "Worauf geht der Name des Bühler Ortsteils Vimbuch vermutlich zurück?",
+"optionen": [
+"Ein Fünfbachtal gab dem Ort seinen Namen",
+"Der Name beschreibt ein sumpfiges Bruchgebiet",
+"Er leitet sich von fünf Buchen ab",
+"Er verbindet einen Heiligennamen mit Buchenwald"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach „fünf Buchen\", doch dahinter steckt vermutlich der Heilige Fintan und das Wort „buch\" für Buchenwald. Die Abtei Schwarzach besaß den Ort; ein kirchlicher Hintergrund passt ins Bild. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Stadtteile/Vimbuch/Geschichte",
+"faktencheck": "bestätigt",
+"id": "15-buehl/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bühl",
+"steckbrief": "Große Kreisstadt, rund 28.000 Einwohner, 40 km südwestlich von Karlsruhe.",
+"frage": "Wie viele Einwohner leben in Bühl pro Quadratkilometer?",
+"optionen": [
+"350 bis unter 500",
+"unter 200",
+"200 bis unter 350",
+"500 oder mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Mit rund 28.000 Einwohnern auf gut 73 Quadratkilometern kommt Bühl auf knapp 390 Einwohner pro Quadratkilometer. Die große Gemarkung mit vielen eingemeindeten Ortsteilen verteilt die Bevölkerung auf eine weite Fläche. Richtig war 1.",
+"quelle": "berechnet aus Einwohnerzahl (Stand 2025-12-31) und Fläche",
+"faktencheck": "bestätigt",
+"id": "15-buehl/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bühl",
+"steckbrief": "Stadt im Landkreis Rastatt, rund 28.000 Einwohner, 40 km südwestlich von Karlsruhe.",
+"frage": "Was wurde aus der alten Pfarrkirche in Bühl?",
+"optionen": [
+"Sie wurde zu einer Markthalle umgebaut",
+"Sie dient nach dem Umbau als Rathaus",
+"Sie wurde nach einem Brand abgerissen",
+"Sie wurde zu einem Heimatmuseum"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die alte Pfarrkirche St. Peter und Paul wurde zum Rathaus umgebaut. Ein Museum oder eine Markthalle wäre naheliegend gewesen, doch Bühl nutzte den Kirchenbau für die Verwaltung; ein ungewöhnlicher Wandel vom Gotteshaus zum Amtssitz. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte",
+"faktencheck": "bestätigt",
+"id": "15-buehl/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bühl",
+"steckbrief": "Stadt am Oberrhein, rund 28.000 Einwohner, 40 km südwestlich von Karlsruhe.",
+"frage": "Was gab den Anstoß zum Bau der Kirche im Bühler Ortsteil Eisental?",
+"optionen": [
+"Der Bischof von Straßburg ordnete den Bau an",
+"Ein wohlhabender Müller stiftete die Kirche",
+"Ein Bilderhändler stiftete den Bau",
+"Ein Gelübde nach einer Pestepidemie"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Rastatter Bilderhändler Nikolaus Pauli stiftete die Mittel für die Kirche in Eisental. Dass Weinbauern gesammelt hätten, liegt bei einem Weinort nahe, doch es war ein einzelner Mäzen, der den Bau ermöglichte. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Stadtteile/Eisental/Geschichte",
+"faktencheck": "bestätigt",
+"id": "15-buehl/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bühl",
+"steckbrief": "Rund 28.000 Einwohner, 40 km südwestlich von Karlsruhe.",
+"frage": "Bühl war im Spanischen Erbfolgekrieg Schauplatz einer Verteidigungslinie. Wer führte den Oberbefehl?",
+"optionen": [
+"Ludwig Wilhelm von Baden führte den Befehl",
+"Prinz Eugen von Savoyen befehligte die Truppen",
+"Kurfürst Max Emanuel von Bayern leitete sie",
+"Herzog Eberhard Ludwig von Württemberg führte sie"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ludwig Wilhelm von Baden, genannt „Türkenlouis\", hielt die Bühl-Stollhofen-Linie gegen die Franzosen. Prinz Eugen kämpfte damals vor allem in Italien, und Bayern stand auf der Gegenseite; beide lagen als Vermutung dennoch nahe. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte",
+"faktencheck": "bestätigt",
+"id": "15-buehl/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bühl",
+"steckbrief": "Stadt am Oberrhein, rund 28.000 Einwohner, 40 km südwestlich von Karlsruhe.",
+"frage": "Was geschah 1592 mit dem Rittergeschlecht derer von Windeck?",
+"optionen": [
+"Es verlor seinen Besitz durch Schulden",
+"Es zog an den Kaiserhof nach Wien",
+"Es wurde in den Grafenstand erhoben",
+"Es starb im Mannesstamm aus"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Mit Junker Jakob von Windeck starb das Rittergeschlecht aus, das dem Ort und der Burg ihren Namen gab. Schulden oder ein Umzug wären typische Adelsschicksale, doch die Windecker endeten, weil die männliche Linie ausstarb. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.buehl.de/de/Stadt-Buerger/Unsere-Stadt/Historisches/Zeitpunkte-der-Buehler-Geschichte",
+"faktencheck": "bestätigt",
+"id": "15-buehl/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "02-achern",
+"anschluss": [
+"Kreisgrenze: Achern liegt im Ortenaukreis, Bühl im Landkreis Rastatt.",
+"Bühl und Achern sind ähnlich groß: rund 28.000 und 27.000 Einwohner."
+],
+"km_vom_vorigen": 8.4
+},
+{
+"slug": "16-baden-baden",
+"name": "Baden-Baden",
+"lat": 48.76194,
+"lon": 8.24083,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Baden-Baden",
+"steckbrief": "Stadt mit rund 57.000 Einwohnern, 30 km südwestlich von Karlsruhe.",
+"frage": "Welche Auszeichnung verlieh das Internationale Olympische Komitee der Stadt 1996?",
+"optionen": [
+"Sie wurde Sitz des Europäischen Olympischen Komitees",
+"Sie wurde Austragungsort der Jugend-Olympiade",
+"Sie erhielt den Titel „Olympische Stadt\"",
+"Sie wurde ständiger Tagungsort für IOC-Kongresse"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Nicht Sportwettkämpfe brachten die Ehrung: Baden-Baden war Gastgeber eines Olympischen Kongresses, der die Städte Calgary und Seoul für Olympia vorschlug. Dafür überreichte das IOC den Olympic Cup. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Baden-Baden",
+"faktencheck": "bestätigt",
+"id": "16-baden-baden/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Baden-Baden",
+"steckbrief": "Stadt mit rund 57.000 Einwohnern am Schwarzwald, 30 km südwestlich von Karlsruhe.",
+"frage": "Wie groß ist die Gemarkung von Baden-Baden?",
+"optionen": [
+"unter 60 km²",
+"60 bis unter 100 km²",
+"100 bis unter 140 km²",
+"140 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Baden-Baden ist ein Stadtkreis, dessen Gemarkung weit in den Schwarzwald reicht. Der größte Teil der Fläche ist Wald. Mit rund 140 km² ist die Gemarkung für eine Stadt dieser Einwohnerzahl ungewöhnlich groß. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "16-baden-baden/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Baden-Baden",
+"steckbrief": "Bäderstadt mit rund 57.000 Einwohnern, 30 km südwestlich von Karlsruhe.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Kurhaus entwarf der Architekt Friedrich Weinbrenner",
+"Einer der ältesten Tennisclubs Deutschlands entstand für russische Kurgäste",
+"Die Philharmonie geht auf eine Hofkapelle zurück"
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Russische Gäste prägten Baden-Badens Bäder und Casino – doch Tennis brachten englische Kurgäste mit, die den Club gründeten. Sie führten auch den Golfsport in der Stadt ein. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Baden-Baden",
+"faktencheck": "korrigiert",
+"id": "16-baden-baden/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Baden-Baden",
+"steckbrief": "Kurstadt mit rund 57.000 Einwohnern, 30 km südwestlich von Karlsruhe.",
+"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in Baden-Baden?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 82 %",
+"82 bis unter 88 %",
+"88 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Als Kurstadt mit wohlhabendem Publikum könnte man eine besonders hohe Beteiligung erwarten – die Wahlbeteiligung lag bei 80,1 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025, Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "16-baden-baden/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Baden-Baden",
+"steckbrief": "Stadt mit rund 57.000 Einwohnern, 30 km südwestlich von Karlsruhe.",
+"frage": "Welche besondere Funktion hatte Baden-Baden nach dem Zweiten Weltkrieg?",
+"optionen": [
+"Die Stadt wurde Sitz der amerikanischen Militärverwaltung",
+"Sie diente als britisches Militärlazarett",
+"Sie wurde Sitz der französischen Zonenregierung",
+"Sie war Zentrale der alliierten Entnazifizierung"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Lage in der französischen Besatzungszone gab den Ausschlag: Baden-Baden wurde Sitz der Zonenregierung und Hauptquartier der Streitkräfte. Auch der Südwestfunk, Vorläufer des SWR, entstand dort. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Baden-Baden",
+"faktencheck": "bestätigt",
+"id": "16-baden-baden/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Baden-Baden",
+"steckbrief": "Stadt mit rund 57.000 Einwohnern, 30 km südwestlich von Karlsruhe.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Baden-Baden?",
+"optionen": [
+"RA",
+"KA",
+"OG",
+"BAD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Baden-Baden ist ein eigener Stadtkreis und hat daher ein eigenes Kennzeichen. BAD steht für den Bädernamen – nicht für Rastatt, Karlsruhe oder den Ortenaukreis. Richtig war 4.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "16-baden-baden/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Baden-Baden",
+"steckbrief": "Stadt mit rund 57.000 Einwohnern, 30 km südwestlich von Karlsruhe.",
+"frage": "Baden-Baden ist UNESCO-Weltkulturerbe. In welcher Kategorie wurde die Stadt 2021 eingetragen?",
+"optionen": [
+"Sie gehört zu einer Gruppe von elf Kurstädten",
+"Ihre römischen Bäder begründeten die Aufnahme",
+"Das klassizistische Stadtbild wurde gewürdigt",
+"Die historische Spielbank stand im Mittelpunkt"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die römischen Bäder und das Casino sind berühmt, doch die UNESCO würdigte die Bäder- und Kurkultur. Baden-Baden wurde gemeinsam mit zehn weiteren Kurstädten Europas in die Welterbeliste aufgenommen. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Baden-Baden",
+"faktencheck": "bestätigt",
+"id": "16-baden-baden/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Baden-Baden",
+"steckbrief": "Stadt mit rund 57.000 Einwohnern, 30 km südwestlich von Karlsruhe.",
+"frage": "Was widerfuhr Baden-Baden im Pfälzischen Erbfolgekrieg 1689?",
+"optionen": [
+"Ein Erdbeben verwüstete die Stadt",
+"Eine Pestepidemie raffte die Bevölkerung dahin",
+"Französische Truppen brannten die Stadt nieder",
+"Ein Brand in den Thermen griff auf die Stadt über"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Pest und Erdbeben wären für die Zeit denkbar – doch es waren französische Truppen, die die Stadt niederbrannten. Die Verwüstung war so schwer, dass der Kurbetrieb erlosch und die Markgrafen ihre Residenz in eine andere Stadt verlegten. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Baden-Baden",
+"faktencheck": "bestätigt",
+"id": "16-baden-baden/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Baden-Baden",
+"steckbrief": "Stadt mit rund 57.000 Einwohnern, 30 km südwestlich von Karlsruhe.",
+"frage": "Baden-Baden hatte bis 1951 eine Straßenbahn. Was trat an ihre Stelle?",
+"optionen": [
+"Die Strecken wurden auf Dieselbusse umgestellt",
+"Ein Oberleitungsbus fuhr stattdessen durch die Stadt",
+"Eine Stadtbahn übernahm den Nahverkehr",
+"Der Nahverkehr wurde ganz eingestellt"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Dieselbusse wären die naheliegende Antwort – doch Baden-Baden setzte auf einen Oberleitungsbus. Wie die Straßenbahn fuhr er elektrisch, wurde aber ebenfalls eingestellt. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Baden-Baden",
+"faktencheck": "bestätigt",
+"id": "16-baden-baden/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Baden-Baden",
+"steckbrief": "Stadt mit rund 57.000 Einwohnern, 30 km südwestlich von Karlsruhe.",
+"frage": "Welches internationale Spitzentreffen fand 2009 in Baden-Baden statt?",
+"optionen": [
+"Die EU hielt dort einen Sondergipfel ab",
+"Die G8-Außenminister trafen sich dort",
+"Die NATO beging dort ihr 60. Jubiläum",
+"Die OSZE hielt dort eine Konferenz ab"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Für ein internationales Spitzentreffen braucht es nicht immer eine Hauptstadt: Die NATO-Staaten begingen das Jubiläum ihres Bündnisses mit einem Arbeitsessen im Kurhaus. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Baden-Baden",
+"faktencheck": "bestätigt",
+"id": "16-baden-baden/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "15-buehl",
+"anschluss": [
+"Drei Stadtteile von Baden-Baden gehörten einst zum Landkreis Bühl.",
+"Baden-Baden hat doppelt so viele Einwohner wie Bühl."
+],
+"km_vom_vorigen": 10.7
 },
 {
 "slug": "03-rastatt",
@@ -5600,12 +6837,1402 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "02-achern",
+"anschluss_von": "16-baden-baden",
 "anschluss": [
-"Rastatt hat fast doppelt so viele Einwohner wie Achern, aber weniger Fläche.",
-"Bundestagswahl 2025: In Achern lag die CDU vorn, in Rastatt die AfD."
+"Baden-Baden hat mehr als doppelt so viel Fläche wie Rastatt, aber nur etwas mehr Einwohner.",
+"Bundestagswahl 2025: In Baden-Baden lag die CDU vorn, in Rastatt die AfD."
 ],
-"km_vom_vorigen": 26.8
+"km_vom_vorigen": 10.9
+},
+{
+"slug": "17-weinheim",
+"name": "Weinheim",
+"lat": 49.55611,
+"lon": 8.66972,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weinheim",
+"steckbrief": "Stadt mit rund 46.000 Einwohnern, 16 km nordöstlich von Mannheim an der Bergstraße.",
+"frage": "Worauf geht der Name Weinheim vermutlich zurück?",
+"optionen": [
+"Auf den fränkischen Eigennamen Wino",
+"Auf den Weinanbau an der Bergstraße",
+"Auf das althochdeutsche Wort für Weide",
+"Auf den Namen eines Bachs"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wein liegt nahe, doch die Reben führen in die Irre: Die fränkische Siedlung hieß Winenheim, vermutlich nach einem Stammesfürsten namens Wino. Fränkische Siedler gaben dem Ort seinen Namen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "17-weinheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weinheim",
+"steckbrief": "Stadt mit rund 46.000 Einwohnern, 16 km nordöstlich von Mannheim an der Bergstraße.",
+"frage": "Wie viele Einwohner hat Weinheim je Quadratkilometer?",
+"optionen": [
+"Unter 500",
+"500 bis unter 1.000",
+"1.000 bis unter 1.500",
+"Über 1.500"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Weinheim ist mit rund 58 Quadratkilometern weitläufig und reicht von der Ebene bis in den Odenwald. Trotz der Nähe zu Mannheim liegt die Dichte bei etwa 790 Einwohnern je Quadratkilometer. Richtig war 2.",
+"quelle": "Berechnet aus Einwohner (Wikidata, Stand 2025-12-31) und Fläche (Wikidata)",
+"faktencheck": "bestätigt",
+"id": "17-weinheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Weinheim",
+"steckbrief": "Stadt an der Bergstraße mit rund 46.000 Einwohnern, 16 km nordöstlich von Mannheim.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Weinheim erhielt sein Stadtrecht von Kaiser Otto III.",
+"Burg Windeck entstand zum Schutz des Klosters Lorsch.",
+"Im Gerberbachviertel an der Weschnitz wurde Leder gegerbt."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Otto III. verlieh tatsächlich ein Recht – aber das Marktrecht, nicht das Stadtrecht. Pfalzgraf Ludwig II. gründete erst viel später eine Neustadt; danach wurde Weinheim erstmals als Stadt bezeichnet. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "17-weinheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Weinheim",
+"steckbrief": "Stadt mit rund 46.000 Einwohnern an der Bergstraße, 16 km nordöstlich von Mannheim.",
+"frage": "Welche Partei erreichte bei der Bundestagswahl 2025 in Weinheim den zweiten Platz?",
+"optionen": [
+"AfD",
+"GRÜNE",
+"FDP",
+"SPD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In Weinheim lag die CDU mit 32 Prozent klar vorn. GRÜNE und AfD kamen auf je 15,3 Prozent und teilten sich den dritten Platz. Dazwischen schob sich die SPD mit 17,8 Prozent. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "17-weinheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weinheim",
+"steckbrief": "Große Kreisstadt an der Bergstraße, rund 46.000 Einwohner, 16 km nordöstlich von Mannheim.",
+"frage": "Wessen Gründung geht auf das Weinheimer Gerberhandwerk zurück?",
+"optionen": [
+"Der Freudenberg-Konzern entstand dort.",
+"Salamander hatte dort seine erste Werkstatt.",
+"Birkenstock fertigte dort die ersten Schuhe.",
+"Henkel begann dort mit der Lederverarbeitung."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im Gerberbachviertel an der Weschnitz wurde seit dem Mittelalter Leder verarbeitet. Weiches Wasser und Eichenrinde aus dem Odenwald lieferten die Grundlagen; aus einer der Gerbereien ging der heutige Freudenberg-Konzern hervor. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "17-weinheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Weinheim",
+"steckbrief": "Rund 46.000 Einwohner, 16 km nordöstlich von Mannheim im Rhein-Neckar-Kreis.",
+"frage": "Welche dieser Städte ist eine Partnerstadt von Weinheim?",
+"optionen": [
+"Dijon",
+"Imola",
+"Bath",
+"Gent"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Weinheim pflegt Partnerschaften in vier Ländern. Der italienische Partner ist Imola; die anderen sind Cavaillon in Frankreich, Eisleben in Deutschland und Ramat Gan in Israel. Richtig war 2.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "17-weinheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weinheim",
+"steckbrief": "Große Kreisstadt im Rhein-Neckar-Kreis, rund 46.000 Einwohner, 16 km nordöstlich von Mannheim.",
+"frage": "In Weinheim steht ein Kurpfälzisches Schloss. Was ist dort heute untergebracht?",
+"optionen": [
+"Dort ist ein Luxushotel untergebracht.",
+"Es dient als Museum für Stadtgeschichte.",
+"Dort hat die Stadtverwaltung ihren Sitz.",
+"Es wird als Musikhochschule genutzt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Hotel oder Museum läge nahe, doch die Stadt kaufte das Schloss und richtete dort ihre Verwaltung ein. Den Nordflügel und den Schlossturm hatte zuvor Freiherr von Berckheim erbauen lassen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "17-weinheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weinheim",
+"steckbrief": "An der Bergstraße, rund 46.000 Einwohner, 16 km nordöstlich von Mannheim.",
+"frage": "Was macht den Weinheimer Exotenwald besonders?",
+"optionen": [
+"Er war ein Jagdrevier des Kaisers.",
+"Er besteht aus nicht heimischen Baumarten.",
+"Er entstand als Versuchswald einer Forstakademie.",
+"Er wächst auf einem erloschenen Vulkan."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Freiherr von Berckheim pflanzte fremdländische Bäume in Weinheim, darunter kanadische Mammutbäume. Der Wald besteht aus nicht heimischen Arten und heißt deshalb Exotenwald. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.weinheim.de/startseite/stadtthemen/Stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "17-weinheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weinheim",
+"steckbrief": "Stadt mit rund 46.000 Einwohnern, 16 km nordöstlich von Mannheim.",
+"frage": "Kaiser Joseph II. reiste 1764 durch die Bergstraße. Was soll er über die Gegend gesagt haben?",
+"optionen": [
+"Diese Luft heilt jede Krankheit.",
+"Wer hier lebt, braucht kein Schloss.",
+"Hier fängt Deutschland an, Italien zu werden.",
+"Das Paradies hat einen deutschen Namen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Nach seiner Krönung in Frankfurt fuhr Joseph II. durch die Bergstraße Richtung Wien. Das milde Klima und die üppige Vegetation erinnerten ihn offenbar an den Süden. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.weinheim.de/startseite/stadtthemen/Stadtportrait.html",
+"faktencheck": "unsicher",
+"id": "17-weinheim/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weinheim",
+"steckbrief": "Große Kreisstadt an der Bergstraße, rund 46.000 Einwohner, 16 km nordöstlich von Mannheim.",
+"frage": "Was wurde am Weinheimer Waidsee gefunden?",
+"optionen": [
+"Reste einer römischen Therme",
+"Eine keltische Grabanlage",
+"Ein versunkenes Handelsschiff",
+"Ein Mammutschädel"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Am Waidsee, heute ein Naherholungsgebiet, kam ein Mammutschädel zum Vorschein – ein Fund aus der Eiszeit, der sich als deutlich älter erwies als zunächst angenommen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.weinheim.de/startseite/stadtthemen/museum.html",
+"faktencheck": "bestätigt",
+"id": "17-weinheim/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "03-rastatt",
+"anschluss": [
+"Rastatt und Weinheim haben beide rund 58 Quadratkilometer Fläche.",
+"Rastatt hat rund 5.000 Einwohner mehr als Weinheim."
+],
+"km_vom_vorigen": 84.8
+},
+{
+"slug": "18-laudenbach",
+"name": "Laudenbach",
+"lat": 49.61139,
+"lon": 8.65,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Laudenbach",
+"steckbrief": "Gemeinde an der Bergstraße, rund 6.600 Einwohner, 19 km nordöstlich von Mannheim.",
+"frage": "Laudenbach feiert jährlich die „Froschkerwe\". Woher kommt der Name?",
+"optionen": [
+"Die Form des Dorfteichs erinnerte an Frösche.",
+"Ein Gastwirt namens Frosch gründete das Fest.",
+"Kinder veranstalteten einst Froschrennen auf dem Markt.",
+"Die Gegend war für ihren Amphibienreichtum bekannt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Laudenbacher heißen „Frösche\", weil die Gegend reich an Amphibien ist. Sogar ein Verkehrskreisel ist als Froschkonzert gestaltet. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/kurzportrait",
+"faktencheck": "bestätigt",
+"id": "18-laudenbach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Laudenbach",
+"steckbrief": "Gemeinde an der nördlichen Bergstraße, rund 10 km² Fläche, 19 km nordöstlich von Mannheim.",
+"frage": "Wie viele Einwohner hat Laudenbach?",
+"optionen": [
+"unter 7.000",
+"7.000 bis unter 12.000",
+"12.000 bis unter 20.000",
+"20.000 oder mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Trotz der Nähe zu Mannheim ist Laudenbach eine kleine Gemeinde geblieben. Ende 2025 zählte der Ort 6.627 Einwohner. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "18-laudenbach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Laudenbach",
+"steckbrief": "Gemeinde in Baden-Württemberg, rund 6.600 Einwohner, 19 km nordöstlich von Mannheim.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Laudenbach gehörte ab 795 zum Kloster Lorsch.",
+"Laudenbach wurde 1803 ein hessischer Grenzort.",
+"Das Dorf wurde im Jahr 1460 niedergebrannt."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Laudenbach liegt zwar direkt an der hessischen Grenze, wurde aber badisch, mit einer Hauptzollstation Richtung Hessen. Die Nähe zur Grenze macht die Verwechslung nachvollziehbar. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/geschichte",
+"faktencheck": "bestätigt",
+"id": "18-laudenbach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Laudenbach",
+"steckbrief": "Gemeinde an der Bergstraße, rund 6.600 Einwohner, 19 km nordöstlich von Mannheim.",
+"frage": "Wie hoch war die Wahlbeteiligung in Laudenbach bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 85 %",
+"85 bis unter 92 %",
+"92 % oder mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. In Laudenbach gingen 88,9 Prozent der Wahlberechtigten zur Bundestagswahl 2025. Das liegt deutlich über dem Bundesdurchschnitt. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025, Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "18-laudenbach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Laudenbach",
+"steckbrief": "Gemeinde an der Bergstraße, rund 6.600 Einwohner, 19 km nordöstlich von Mannheim.",
+"frage": "Was zeigt das Gemeindewappen von Laudenbach?",
+"optionen": [
+"Es zeigt eine Burg über einem Bach.",
+"Es zeigt einen Hirsch im Wald.",
+"Es zeigt eine Lilie und einen Stern.",
+"Es zeigt ein Winzermesser und eine Traube."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. An der Bergstraße könnte man an eine Burg denken, doch das Wappen zeigt vorn ein silbernes Winzermesser, hinten eine blaue Traube. Die Symbole stehen für den Weinbau. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/wappen",
+"faktencheck": "bestätigt",
+"id": "18-laudenbach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Laudenbach",
+"steckbrief": "Gemeinde in Baden-Württemberg, rund 6.600 Einwohner, 19 km nordöstlich von Mannheim.",
+"frage": "Wie weit ist Laudenbach per Luftlinie von Stuttgart entfernt?",
+"optionen": [
+"80 bis unter 110 km",
+"110 bis unter 140 km",
+"140 bis unter 180 km",
+"180 km oder mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Laudenbach liegt an der nördlichen Bergstraße, weit von Stuttgart entfernt. Die Luftlinie zur Landeshauptstadt beträgt rund 100 Kilometer. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "18-laudenbach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Laudenbach",
+"steckbrief": "Gemeinde an der Bergstraße, rund 6.600 Einwohner, 19 km nordöstlich von Mannheim.",
+"frage": "Worauf deutet der alte Ortsname „Lutenbach\" hin?",
+"optionen": [
+"Er geht auf ein Rittergeschlecht zurück.",
+"Er deutet auf einen Bach am Ort hin.",
+"Er stammt vom lateinischen „laudare\" für loben.",
+"Er bezieht sich auf eine Linde am Dorfplatz."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. „Laudenbach\" klingt nach Lob, doch der alte Name „Lutenbach\" bedeutet „lauter Bach\" – ein klarer, reiner Bach. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/geschichte",
+"faktencheck": "korrigiert",
+"id": "18-laudenbach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Laudenbach",
+"steckbrief": "Gemeinde an der Bergstraße, rund 6.600 Einwohner, 19 km nordöstlich von Mannheim.",
+"frage": "In welcher Region Frankreichs liegt Laudenbachs Partnergemeinde Ivry-la-Bataille?",
+"optionen": [
+"Im Elsass",
+"In Burgund",
+"In der Normandie",
+"In der Picardie"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Weingemeinde denkt man eher an Elsass oder Burgund, doch Ivry-la-Bataille liegt im Departement Eure in der Normandie. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-laudenbach.de/gemeinde-daten/unsere-gemeinde/kurzportrait",
+"faktencheck": "bestätigt",
+"id": "18-laudenbach/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "17-weinheim",
+"anschluss": [
+"Laudenbach liegt an der Bergstraße zwischen Weinheim und Heppenheim.",
+"Weinheim hat fast sechsmal so viel Fläche wie Laudenbach."
+],
+"km_vom_vorigen": 6.3
+},
+{
+"slug": "19-heppenheim",
+"name": "Heppenheim",
+"lat": 49.64153,
+"lon": 8.645,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heppenheim",
+"steckbrief": "Kreisstadt an der Bergstraße, rund 28.000 Einwohner, 21 km nordöstlich von Mannheim.",
+"frage": "Wer lud 1847 zur Heppenheimer Versammlung im Gasthof Halber Mond ein?",
+"optionen": [
+"Ein Frankfurter Bankier gab den Anstoß.",
+"Ein Darmstädter Verleger rief sie ein.",
+"Ein Kaufmann aus Aachen lud dazu ein.",
+"Ein Heidelberger Professor organisierte sie."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Frankfurt lag nahe – dort tagte bald die Nationalversammlung. Doch David Hansemann, Kaufmann und Politiker aus Aachen, lud Abgeordnete aus fünf deutschen Staaten in den Gasthof Halber Mond. Sie berieten über ein gemeinsames Vorgehen zur deutschen Einheit. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, heppenheim.de/heppenheim-erleben/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "19-heppenheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Heppenheim",
+"steckbrief": "Kreisstadt mit acht Ortsteilen an der Bergstraße, rund 28.000 Einwohner, 21 km nordöstlich von Mannheim.",
+"frage": "Wie groß ist die Gemarkung von Heppenheim?",
+"optionen": [
+"unter 20 km²",
+"20 bis unter 35 km²",
+"35 bis unter 50 km²",
+"50 bis unter 70 km²"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer die acht Ortsteile mitrechnet, landet in der richtigen Spanne: Die Gemarkung umfasst gut 52 km². Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "19-heppenheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Heppenheim",
+"steckbrief": "Kreisstadt an der Bergstraße, rund 28.000 Einwohner, 21 km nordöstlich von Mannheim.",
+"frage": "Die Starkenburg thront über der Stadt. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Burg schützte die Besitzungen eines Klosters.",
+"Die Burg wehrte eine Belagerung erfolgreich ab.",
+"Ein Mainzer Erzbischof gab den Bau in Auftrag."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das klingt plausibel, denn die Mainzer Erzbischöfe herrschten später tatsächlich über Heppenheim. Doch die Burg ließ Abt Udalrich der Reichsabtei Lorsch erbauen, um deren Besitzungen zu schützen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, heppenheim.de/heppenheim-erleben/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "19-heppenheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Heppenheim",
+"steckbrief": "Kreisstadt an der Bergstraße, rund 28.000 Einwohner, 21 km nordöstlich von Mannheim.",
+"frage": "Wie viel Prozent der Zweitstimmen erreichte die stärkste Partei bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 35 %",
+"35 bis unter 45 %",
+"45 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die CDU kam in Heppenheim auf 31,3 % der Zweitstimmen (amtliches Ergebnis), gefolgt von SPD, AfD und Grünen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "19-heppenheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heppenheim",
+"steckbrief": "Kreisstadt an der Bergstraße, rund 28.000 Einwohner, 21 km nordöstlich von Mannheim.",
+"frage": "Für welche Bahnstrecke wurde der Heppenheimer Bahnhof in den 1840ern gebaut?",
+"optionen": [
+"Er entstand für eine Strecke durch den Odenwald.",
+"Er wurde für die Bergstraßen-Bahn gebaut.",
+"Er lag an der Main-Neckar-Bahn nach Heidelberg.",
+"Er gehörte zu einer Strecke im Rheintal."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Bergstraße als Streckenname liegt nahe, doch der Bahnhof entstand für die Main-Neckar-Bahn zwischen Frankfurt und Heidelberg. Der Architekt Georg Moller kam aus Darmstadt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, heppenheim.de/heppenheim-erleben/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "19-heppenheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Heppenheim",
+"steckbrief": "Kreisstadt in Südhessen an der Bergstraße, rund 28.000 Einwohner, 21 km nordöstlich von Mannheim.",
+"frage": "Wie weit ist es von Heppenheim nach Wiesbaden, der Landeshauptstadt (Luftlinie)?",
+"optionen": [
+"unter 25 km",
+"25 bis unter 40 km",
+"40 bis unter 55 km",
+"55 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wiesbaden liegt auf der anderen Rheinseite im Taunus-Vorland, gut 57 km Luftlinie von Heppenheim entfernt. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern",
+"faktencheck": "bestätigt",
+"id": "19-heppenheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heppenheim",
+"steckbrief": "Kreisstadt an der Bergstraße, rund 28.000 Einwohner, 21 km nordöstlich von Mannheim.",
+"frage": "Wofür wurde Heppenheims Freilichtbühne 1955 gebaut?",
+"optionen": [
+"Die Stadt feierte ihr 1200-jähriges Jubiläum.",
+"Ein Landesfestival brauchte ab 1952 eine Bühne.",
+"Die Besatzungsmacht regte den Bau 1950 an.",
+"Ein Chorwettbewerb von 1954 gab den Anstoß."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Nachkriegszeit klingt plausibel, doch da war die Bühne noch nicht geplant. Heppenheim feierte sein 1200-jähriges Bestehen und baute die Freilichtbühne. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, heppenheim.de/pdf/heppenheim-erleben/tourismus/broschueren/28-hp-historical-centre.pdf?cid=28y",
+"faktencheck": "bestätigt",
+"id": "19-heppenheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heppenheim",
+"steckbrief": "Kreisstadt an der Bergstraße, rund 28.000 Einwohner, 21 km nordöstlich von Mannheim.",
+"frage": "Der Philosoph Martin Buber lebte bis 1938 in Heppenheim. Was beherbergt sein ehemaliges Wohnhaus heute?",
+"optionen": [
+"Dort zeigt ein Museum jüdisches Leben.",
+"Dort sitzt ein christlich-jüdischer Weltrat.",
+"Dort trifft sich eine Philosophie-Gesellschaft.",
+"Dort ist die Stadtbücherei untergebracht."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein jüdisches Museum liegt nahe, denn Buber war ein bedeutender jüdischer Philosoph. Doch sein Haus wurde Sitz des International Council of Christians and Jews, eines Zusammenschlusses für den christlich-jüdischen Dialog. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, heppenheim.de/pdf/heppenheim-erleben/tourismus/broschueren/28-hp-historical-centre.pdf?cid=28y",
+"faktencheck": "bestätigt",
+"id": "19-heppenheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heppenheim",
+"steckbrief": "Kreisstadt an der Bergstraße, rund 28.000 Einwohner, 21 km nordöstlich von Mannheim.",
+"frage": "Die Stadtbücherei steht in einem Jugendstil-Gebäude. Wofür wurde es ursprünglich errichtet?",
+"optionen": [
+"Es war ein Amtsgericht des Kreises.",
+"Es diente als Bankfiliale der Region.",
+"Es war ein Bahnhofshotel der Stadt.",
+"Es wurde als großherzogliches Finanzamt gebaut."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Jugendstil und Amtsgebäude passen gut zusammen: Das Haus war das Großherzogliche Hessische Finanzamt, bevor die Bücherei einzog. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, heppenheim.de/leben-in-heppenheim/stadtbuecherei/chronik/",
+"faktencheck": "bestätigt",
+"id": "19-heppenheim/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heppenheim",
+"steckbrief": "Kreisstadt an der Bergstraße, rund 28.000 Einwohner, 21 km nordöstlich von Mannheim.",
+"frage": "Im Lorscher Codex belegt eine Schenkungsurkunde von 755 den Ort Heppenheim. Woher stammte der Schenker?",
+"optionen": [
+"Er stammte aus Frankfurt.",
+"Er stammte aus Lorsch.",
+"Er stammte aus Weinheim.",
+"Er stammte aus Worms."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Lorsch liegt nahe – dort wurde der Codex geschrieben. Doch der Schenker Marcharius stammte aus Weinheim und gab die Kirche St. Peter an das Kloster Lorsch. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, heppenheim.de/heppenheim-erleben/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "19-heppenheim/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "18-laudenbach",
+"anschluss": [
+"Kreis- und Landesgrenze: In Laudenbach steht HD am Auto, in Heppenheim HP.",
+"Heppenheim hat gut viermal so viele Einwohner wie Laudenbach."
+],
+"km_vom_vorigen": 3.4
+},
+{
+"slug": "20-bensheim",
+"name": "Bensheim",
+"lat": 49.68111,
+"lon": 8.62278,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bensheim",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 21 km südlich von Darmstadt",
+"frage": "Worauf geht der Name „Bensheim\" vermutlich zurück?",
+"optionen": [
+"Auf einen fränkischen Ritter",
+"Auf einen Trierer Bischof",
+"Auf ein Wort für Sumpfland",
+"Auf eine keltische Siedlung"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Ortsname klingt nach einem Personennamen, und so ist es vermutlich auch: Bischof Basinus von Trier soll der Namensgeber sein. Die Erwähnung findet sich im Lorscher Kodex. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "20-bensheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "Leiter",
+"sorte": "Klassiker",
+"ort": "Bensheim",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 21 km südlich von Darmstadt",
+"frage": "Wie groß ist die Gemarkung von Bensheim?",
+"optionen": [
+"Mehr als 40 km²?",
+"Mehr als 60 km²?",
+"Mehr als 80 km²?",
+"Mehr als 100 km²?"
+],
+"art": "leiter",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bensheim hat eine Gemarkung von rund 58 Quadratkilometern – verteilt auf neun Stadtteile. Höher bis Stufe 1, dann raus.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "20-bensheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bensheim",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 21 km südlich von Darmstadt",
+"frage": "Über das Auerbacher Schloss in Bensheim: Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Es wurde im Dreißigjährigen Krieg zerstört.",
+"Sein Grundriss bildet ein fast gleichseitiges Dreieck.",
+"Ein Graf von Katzenelnbogen ließ es erbauen."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Schloss fiel erst 1674, also nach dem Dreißigjährigen Krieg. Schottische Söldner unter französischem Befehl eroberten und zerstörten es. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, bensheim.de/leben-in-bensheim/stadtportrat/",
+"faktencheck": "bestätigt",
+"id": "20-bensheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bensheim",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 21 km südlich von Darmstadt",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Bensheim zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"GRÜNE",
+"AfD",
+"FDP"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die SPD kam in Bensheim auf 16,6 Prozent und lag damit knapp vor GRÜNEN und AfD, die beide bei 15,8 Prozent landeten. Die CDU führte mit 31,5 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 23.02.2025",
+"faktencheck": "bestätigt",
+"id": "20-bensheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bensheim",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 21 km südlich von Darmstadt",
+"frage": "Welchen Grund nennt die Stadtgeschichte für die Eingemeindung Auerbachs 1939?",
+"optionen": [
+"Die Weinbaugebiete sollten zusammengelegt werden",
+"Bensheim hoffte, als größere Stadt das Kreisamt zurückzugewinnen",
+"Beide Orte brauchten eine gemeinsame Kläranlage",
+"Die Landesregierung ordnete den Zusammenschluss an"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bensheim hatte sein Kreisamt an Heppenheim verloren. Durch die Eingemeindung Auerbachs wuchs die Einwohnerzahl, und die Stadt hoffte, den Kreissitz zurückzubekommen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, bensheim.de/leben-in-bensheim/stadtportrat/",
+"faktencheck": "bestätigt",
+"id": "20-bensheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bensheim",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 21 km südlich von Darmstadt",
+"frage": "Zu welchem Landkreis gehört Bensheim?",
+"optionen": [
+"Darmstadt-Dieburg",
+"Odenwaldkreis",
+"Bergstraße",
+"Groß-Gerau"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bensheim liegt im Kreis Bergstraße. Wegen der Nähe zu Darmstadt tippt man leicht auf Darmstadt-Dieburg, doch dieser Kreis liegt weiter nördlich. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bensheim",
+"faktencheck": "bestätigt",
+"id": "20-bensheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bensheim",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 21 km südlich von Darmstadt",
+"frage": "Was war der Anlass für das erste Bürgerfest in Bensheim?",
+"optionen": [
+"Die Fertigstellung einer neuen Stadthalle",
+"Ein Jubiläum der Städtepartnerschaft",
+"Der Abschluss der Altstadtsanierung",
+"Die Einweihung der Fußgängerzone"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Altstadtsanierung klingt naheliegend, doch der Anlass war schlichter: Bensheim feierte die neue Fußgängerzone. Seitdem findet das Bürgerfest jeden Frühsommer statt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "20-bensheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bensheim",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 21 km südlich von Darmstadt",
+"frage": "Wie entstand der Staatspark Fürstenlager in Bensheim-Auerbach?",
+"optionen": [
+"Er wuchs um eine Mineralquelle herum",
+"Ein Fürst ließ dort ein Jagdlager errichten",
+"Er wurde als Gartenausstellung angelegt",
+"Soldaten nutzten das Gelände als Heerlager"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Name „Fürstenlager\" legt ein Lager nahe, doch den Anfang machte eine Mineralquelle. Landgraf Ludwig VIII. ließ dort einen Brunnen errichten, und daraus wuchs ein englischer Landschaftsgarten. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, bensheim.de/leben-in-bensheim/stadtportrat/",
+"faktencheck": "bestätigt",
+"id": "20-bensheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bensheim",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 21 km südlich von Darmstadt",
+"frage": "Die „Fraa vun Bensem\" ist eine Sage aus Bensheim. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Sage spielt zur Zeit des Dreißigjährigen Kriegs.",
+"Die alte Frau soll den Schweden geholfen haben.",
+"Die Sage handelt von einem Gang in die Altstadt."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Fraa vun Bensem soll den Bayern, nicht den Schweden, einen unterirdischen Gang gezeigt haben. Die Stadt war von Schweden und Franzosen besetzt. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "20-bensheim/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bensheim",
+"steckbrief": "Stadt mit rund 41.000 Einwohnern, 21 km südlich von Darmstadt",
+"frage": "Was wurde in Bensheim anlässlich des Hessentags 1976 eingeweiht?",
+"optionen": [
+"Ein neues Freibad",
+"Das Parktheater",
+"Das Bürgerhaus",
+"Eine Mehrzweckhalle"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Parktheater klingt verlockend, stand aber schon seit den Sechzigern. Der Hessentag war der Anlass für das neue Bürgerhaus. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, bensheim.de/leben-in-bensheim/stadtportrat/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "20-bensheim/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "19-heppenheim",
+"anschluss": [
+"Bensheim hat mehr Einwohner als Heppenheim, die Kreisstadt ist aber Heppenheim.",
+"Bei Bensheim lag eine römische Villa in Richtung Heppenheim."
+],
+"km_vom_vorigen": 4.7
+},
+{
+"slug": "21-zwingenberg",
+"name": "Zwingenberg",
+"lat": 49.7225,
+"lon": 8.61389,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Zwingenberg",
+"steckbrief": "Rund 7.200 Einwohner, 17 km südlich von Darmstadt.",
+"frage": "Woher kommt der Name „Zwingenberg\"?",
+"optionen": [
+"Der Ort lag an einem natürlichen Engpass",
+"Eine Zwingburg stand einst auf dem Berg",
+"Die Bewohner leisteten sogenannte Zwingdienste",
+"Ein fränkischer Siedler namens Zwingo gründete ihn"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach Burg oder Gewalt, doch „Zwinge\" meinte einen Engpass: Zwischen Gebirgshang und Sumpf musste der Verkehr durch ein Nadelöhr – die Lage gab dem Ort seinen Namen. Wahrscheinlich entstand dort zunächst eine Wasserburg, um die Kriegs- und Handelsstraße zu kontrollieren. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, zwingenberg.de/de/kultur-tourismus/stadtgeschichte.php",
+"faktencheck": "korrigiert",
+"id": "21-zwingenberg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Zwingenberg",
+"steckbrief": "Rund 7.200 Einwohner, an der Bergstraße, 17 km südlich von Darmstadt.",
+"frage": "Auf welcher Höhe über dem Meeresspiegel liegt Zwingenberg?",
+"optionen": [
+"Unter 75 m",
+"75 bis unter 125 m",
+"125 bis unter 200 m",
+"200 m oder höher"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Stadt liegt am Gebirgshang auf rund 100 Metern – nicht im Tal, aber auch nicht in der Höhe. Richtig war 2.",
+"quelle": "Wikidata P2044, dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "21-zwingenberg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Zwingenberg",
+"steckbrief": "Rund 7.200 Einwohner, 17 km südlich von Darmstadt.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Zwingenberg gehörte bis 1479 zur Obergrafschaft Katzenelnbogen.",
+"Der Stadtbrand von 1693 zerstörte auch die Kirche.",
+"Der Stadtteil Rodau wurde im Jahr 1970 eingemeindet."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Kirche überstand den Stadtbrand tatsächlich – sie blieb neben wenigen Häusern auf dem Berg stehen, als französische Truppen den Großteil der Stadt in Asche legten. Wer an solch eine Zerstörung denkt, vermutet leicht, dass nichts verschont blieb. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, zwingenberg.de/de/kultur-tourismus/stadtgeschichte.php",
+"faktencheck": "bestätigt",
+"id": "21-zwingenberg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Zwingenberg",
+"steckbrief": "Rund 7.200 Einwohner, 17 km südlich von Darmstadt.",
+"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in Zwingenberg?",
+"optionen": [
+"Unter 80 %",
+"80 bis unter 84 %",
+"84 bis unter 88 %",
+"88 % oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Wahlbeteiligung lag bei 88,1 % – ein hoher Wert, auch gemessen an der Bergstraße. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025, Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "21-zwingenberg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Zwingenberg",
+"steckbrief": "Rund 7.200 Einwohner, 17 km südlich von Darmstadt.",
+"frage": "Wer verlieh Zwingenberg das Stadtrecht?",
+"optionen": [
+"König Rudolf von Habsburg erhob es zur Stadt",
+"Kaiser Barbarossa belohnte die Treue des Orts",
+"Herzog Ludwig von Bayern stärkte den Handel",
+"Bischof Konrad von Speyer förderte die Pfarrei"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Grafen von Katzenelnbogen hatten Zwingenberg zuvor schon als „ihre Stadt\" bezeichnet – die förmliche Erhebung kam dann von König Rudolf von Habsburg, der den Bürgern auch Marktrecht und Freiheit gewährte. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, zwingenberg.de/de/kultur-tourismus/stadtgeschichte.php",
+"faktencheck": "bestätigt",
+"id": "21-zwingenberg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Zwingenberg",
+"steckbrief": "Rund 7.200 Einwohner, 17 km südlich von Darmstadt.",
+"frage": "Zu welchem Landkreis gehört Zwingenberg?",
+"optionen": [
+"Darmstadt-Dieburg",
+"Bergstraße",
+"Odenwaldkreis",
+"Groß-Gerau"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Zwingenberg liegt an der Bergstraße zwischen Darmstadt und Heidelberg – und gehört zum gleichnamigen Landkreis. Die Nähe zu Darmstadt könnte an den Kreis Darmstadt-Dieburg denken lassen. Richtig war 2.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "21-zwingenberg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Zwingenberg",
+"steckbrief": "Rund 7.200 Einwohner, 17 km südlich von Darmstadt.",
+"frage": "Woraus setzt sich der Name des Stadtteils Rodau zusammen?",
+"optionen": [
+"„Rot\" beschreibt die Bodenfarbe, „Au\" eine Wiese",
+"Der Name geht auf einen Siedler Rodulf zurück",
+"„Rod\" steht für gerodetes Land, „Au\" für Wasserland",
+"„Rode\" meint einen Reitweg, „Au\" einen Bachlauf"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name verrät die Landschaft: „Rod\" steht für gerodetes Land, „Au\" für von Wasser umgebenes Gebiet – tatsächlich lag Rodau in einer hufeisenförmigen Schlinge des alten Neckarbetts. Im Dialekt heißt der Ort übrigens „Rorre\". Richtig war 3.",
+"quelle": "Gemeinde-Webseite, zwingenberg.de/de/kultur-tourismus/stadtgeschichte.php",
+"faktencheck": "bestätigt",
+"id": "21-zwingenberg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Zwingenberg",
+"steckbrief": "Rund 7.200 Einwohner, 17 km südlich von Darmstadt. Gilt als älteste Stadt an der hessischen Bergstraße.",
+"frage": "Aus welchem Anlass wurde Zwingenberg 1012 erstmals urkundlich erwähnt?",
+"optionen": [
+"Bei der Gründung einer Pfarrei",
+"Bei der Verleihung eines Jagdrechts an ein Kloster",
+"Bei einem Grenzstreit zweier Grafschaften",
+"Bei der Stiftung eines Hospitals"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Kaiser Heinrich II. schenkte dem Kloster Lorsch den Wildbann im Odenwald – das Jagdrecht über ein großes Waldgebiet. In dieser Urkunde taucht der Ort als „locum getwinc\" erstmals auf. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, zwingenberg.de/de/kultur-tourismus/stadtgeschichte.php",
+"faktencheck": "korrigiert",
+"id": "21-zwingenberg/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Zwingenberg",
+"steckbrief": "Rund 7.200 Einwohner, 17 km südlich von Darmstadt.",
+"frage": "1258 durfte in Zwingenberg eine Kirche gebaut werden. Wer genehmigte den Bau?",
+"optionen": [
+"Der Bischof von Worms erteilte die Erlaubnis",
+"Der Papst in Rom gab seine Zustimmung",
+"Der Abt des Klosters Lorsch erlaubte ihn",
+"Das Mainzer Domkapitel genehmigte den Bau"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Graf Dieter V. von Katzenelnbogen erbat die Genehmigung für „seine Stadt\" – das Mainzer Domkapitel gewährte sie. Das Kloster Lorsch liegt nahe und war einst mit dem Ort verflochten, doch es war damals schon an das Erzbistum Mainz gefallen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, zwingenberg.de/de/kultur-tourismus/stadtgeschichte.php",
+"faktencheck": "bestätigt",
+"id": "21-zwingenberg/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "20-bensheim",
+"anschluss": [
+"Zwingenberg gehörte ab 1832 zum Kreis Bensheim.",
+"Bensheim hat fast sechsmal so viele Einwohner wie Zwingenberg."
+],
+"km_vom_vorigen": 4.6
+},
+{
+"slug": "22-langen",
+"name": "Langen",
+"lat": 49.98931,
+"lon": 8.68035,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Langen",
+"steckbrief": "Rund 39.000 Einwohner, 13 km nördlich von Darmstadt.",
+"frage": "In welchem Zusammenhang wurde Langen 834 erstmals urkundlich erwähnt?",
+"optionen": [
+"Als Grenzpunkt einer Grafschaft",
+"Als Zollstation an der Bergstraße",
+"Als Standort einer fränkischen Burg",
+"In einer Schenkungsurkunde an ein Kloster"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. König Ludwig der Deutsche schenkte Besitz in Langungon an das Kloster Lorsch. Durch solche Urkunden kennt man viele Orte überhaupt erst. Den Namen Langungon trug der Ort in jener Zeit. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.langen.de/de/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "22-langen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Langen",
+"steckbrief": "Stadt mit rund 39.000 Einwohnern, 13 km nördlich von Darmstadt.",
+"frage": "Wie viele Einwohner leben in Langen auf einem Quadratkilometer?",
+"optionen": [
+"unter 1.500",
+"1.500 bis unter 2.500",
+"2.500 bis unter 4.000",
+"4.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Rund 39.000 Einwohner auf gut 29 Quadratkilometern ergeben etwa 1.340 je Quadratkilometer. Über die Hälfte des Stadtgebiets ist Wald, was die Dichte niedriger hält, als die Einwohnerzahl vermuten lässt. Richtig war 1.",
+"quelle": "Wikidata (Einwohner Stand 2025-12-31; Fläche), eigene Berechnung",
+"faktencheck": "bestätigt",
+"id": "22-langen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Langen",
+"steckbrief": "Rund 39.000 Einwohner, 13 km nördlich von Darmstadt.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Langen wurde 1532 lutherisch.",
+"Langen bekam 1538 eine Wasserleitung.",
+"Langen erhielt 1813 die Stadtrechte."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Langen war 1813 noch ein Marktflecken, nicht Stadt. Die Stadtrechte kamen erst Jahrzehnte später. Obwohl 1813 nach napoleonischer Neuordnung klingt, war Langen davon nicht betroffen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.langen.de/de/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "22-langen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Langen",
+"steckbrief": "Rund 39.000 Einwohner, 13 km nördlich von Darmstadt.",
+"frage": "Welchen Zweitstimmenanteil erreichte die stärkste Partei bei der Bundestagswahl 2025 in Langen?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 25 %",
+"25 bis unter 35 %",
+"35 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die CDU erreichte in Langen 28,3 Prozent der Zweitstimmen. Dahinter lagen SPD, AfD und Grüne eng beieinander – keine Partei dominiert. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "22-langen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Langen",
+"steckbrief": "Rund 39.000 Einwohner, 13 km nördlich von Darmstadt.",
+"frage": "Langen hat einen Bahnhof namens „Flugsicherung\". Was steckt dahinter?",
+"optionen": [
+"Ein früherer Militärflugplatz lag nebenan",
+"Hier sitzt eine Stelle für Flugunfalluntersuchung",
+"Hier stand einst ein Luftschiffhafen",
+"Hier hat die Flugsicherung ihre Zentrale"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die DFS Deutsche Flugsicherung GmbH hat ihre Unternehmenszentrale in Langen. Der Haltepunkt wurde eigens für die Anbindung eingerichtet. Von hier aus wird der untere Luftraum über Südwest-Deutschland überwacht. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.langen.de/de/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "22-langen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Langen",
+"steckbrief": "Rund 39.000 Einwohner, 13 km nördlich von Darmstadt.",
+"frage": "Zu welchem Landkreis gehört Langen?",
+"optionen": [
+"Offenbach",
+"Darmstadt-Dieburg",
+"Groß-Gerau",
+"Main-Taunus"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Obwohl Langen näher an Darmstadt liegt, gehört die Stadt zum Kreis Offenbach. Darmstadt ist eine kreisfreie Stadt, der angrenzende Landkreis heißt Darmstadt-Dieburg. Richtig war 1.",
+"quelle": "Wikipedia (Infobox), de.wikipedia.org/wiki/Langen_(Hessen)",
+"faktencheck": "bestätigt",
+"id": "22-langen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Langen",
+"steckbrief": "Rund 39.000 Einwohner, 13 km nördlich von Darmstadt.",
+"frage": "Wie viel Prozent des Langener Stadtgebiets sind Wald?",
+"optionen": [
+"unter 35 %",
+"35 bis unter 60 %",
+"60 bis unter 75 %",
+"75 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Über die Hälfte des Stadtgebiets ist Wald – überraschend viel für eine Stadt dieser Größe. Die bebaute Fläche macht nur einen kleinen Teil aus; Streuobstwiesen und Forst prägen das Bild. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.langen.de/de/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "22-langen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Langen",
+"steckbrief": "Stadt mit rund 39.000 Einwohnern, 13 km nördlich von Darmstadt.",
+"frage": "Wofür ließen die Landgrafen 1721 Schloss Wolfsgarten errichten?",
+"optionen": [
+"Es sollte ein Gestüt werden",
+"Es war als Witwensitz gedacht",
+"Es wurde als Jagdschloss errichtet",
+"Es sollte ein Gutshof werden"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name Wolfsgarten verrät es: Die Landgrafen legten das Schloss als Jagdschloss an. Erst später diente es als Sommerresidenz. Bis heute findet im Park das Fürstliche Gartenfest statt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.langen.de/de/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "22-langen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Langen",
+"steckbrief": "Rund 39.000 Einwohner, 13 km nördlich von Darmstadt.",
+"frage": "Was war die Keimzelle des Langener Stadtteils Nordend?",
+"optionen": [
+"Ein Landesflüchtlingslager",
+"Eine Arbeitersiedlung der Eisenbahn",
+"Ein Militärlager der US-Armee",
+"Eine Bergbausiedlung"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein US-Militärlager klingt naheliegend, doch das Nordend entstand um das Landesflüchtlingslager (LaFlüLa). Es nahm Vertriebene auf, und viele blieben dauerhaft. Um das Lager wuchs ein ganzer Stadtteil. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.langen.de/de/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "22-langen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Langen",
+"steckbrief": "Stadt mit rund 39.000 Einwohnern, 13 km nördlich von Darmstadt.",
+"frage": "Was symbolisiert der Ast im Langener Stadtwappen?",
+"optionen": [
+"Den alten Galgenbaum am Gerichtsplatz",
+"Die Eichenwälder der Bergstraße",
+"Den Grenzbaum zwischen Hessen und Nassau",
+"Die Zugehörigkeit zur Dreieich"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Das Wappen zeigt einen Eichenzweig mit Eicheln und einen gestümmelten Ast. Der Ast steht für die Dreieich, den karolingischen Wildbannforst, zu dem Langen einst gehörte. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.langen.de/de/stadtwappen.html",
+"faktencheck": "bestätigt",
+"id": "22-langen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "21-zwingenberg",
+"anschluss": [
+"Kreisgrenze: In Zwingenberg steht HP am Auto, in Langen OF.",
+"Langen hat gut fünfmal so viele Einwohner wie Zwingenberg."
+],
+"km_vom_vorigen": 30.0
+},
+{
+"slug": "23-walluf",
+"name": "Walluf",
+"lat": 50.03708,
+"lon": 8.15417,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Walluf",
+"steckbrief": "Gemeinde im Rheingau, rund 5.500 Einwohner, 8 km südwestlich von Wiesbaden.",
+"frage": "An einem Haus in der Mühlstraße hängt eine Gedenkpalette. Was tat der geehrte Bewohner?",
+"optionen": [
+"Er rettete die Weinlese vor einer Flut",
+"Er züchtete eine berühmte Rosenart",
+"Er warf als Pilot Süßigkeiten per Fallschirm ab",
+"Er stiftete der Gemeinde ein Schulgebäude"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Rheingau denkt man an Wein oder Blumen, doch die Gedenkpalette in der Mühlstraße ehrt Gail Halvorsen. Er warf als Pilot der Berliner Luftbrücke Süßigkeiten mit selbstgebastelten Fallschirmen über Berlin ab und wohnte in Walluf. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, walluf.de/leben-in-walluf/walluf-erleben/persoenlichkeiten/halvorsen/",
+"faktencheck": "bestätigt",
+"id": "23-walluf/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Walluf",
+"steckbrief": "Gemeinde im Rheingau, 8 km südwestlich von Wiesbaden.",
+"frage": "Wie viele Einwohner hat die Gemeinde?",
+"optionen": [
+"unter 2.500",
+"2.500 bis unter 4.000",
+"4.000 bis unter 5.000",
+"5.000 bis unter 6.500"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Nahe an Wiesbaden gelegen, könnte man eine größere Vorortgemeinde erwarten. Walluf ist aber eine eigenständige Gemeinde mit rund 5.500 Einwohnern. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "23-walluf/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Walluf",
+"steckbrief": "Gemeinde im Rheingau, rund 5.500 Einwohner, 8 km südwestlich von Wiesbaden.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Wallufs Blumenstraßen tragen die Namen historischer Weinbergslagen.",
+"Im Blumenviertel gibt es Rosenstraße, Irisweg und Sonnenblumenweg.",
+"Walluf besteht aus den Ortsteilen Oberwalluf und Niederwalluf."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Rosenstraße und Sonnenblumenweg tragen Blumennamen, keine typischen Weinbergsnamen. Tatsächlich bauten Gärtnereien dort Blumen an und gaben dem Viertel seinen Namen. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, walluf.de/rathaus-buergerservice/nachrichten-2022/wallufs-gaertnerei-geschichte/",
+"faktencheck": "bestätigt",
+"id": "23-walluf/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Walluf",
+"steckbrief": "Gemeinde im Rheingau, rund 5.500 Einwohner, 8 km südwestlich von Wiesbaden.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Walluf zweitstärkste Kraft?",
+"optionen": [
+"GRÜNE",
+"SPD",
+"AfD",
+"FDP"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In einer Weinbauregion nahe Wiesbaden könnte man verschiedene Parteien vorne erwarten. In Walluf lag die SPD mit rund 18 Prozent vor Grünen und AfD auf Platz zwei. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "23-walluf/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Walluf",
+"steckbrief": "Gemeinde im Rheingau, rund 5.500 Einwohner, 8 km südwestlich von Wiesbaden.",
+"frage": "In Walluf stand die Gärtnerei Goos & Koenemann. Wer setzte den Gedenkstein für einen der Gründer?",
+"optionen": [
+"Die Gemeinde Walluf",
+"Ein Gartenbauverein",
+"Der andere Gründer",
+"Die Nachfolgefirma"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Man könnte die Gemeinde oder einen Verein vermuten, doch es war persönlicher: Gründer Max Joseph Goos setzte den Gedenkstein für seinen Partner August Koenemann. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, walluf.de/rathaus-buergerservice/nachrichten-2022/wallufs-gaertnerei-geschichte/",
+"faktencheck": "bestätigt",
+"id": "23-walluf/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Walluf",
+"steckbrief": "Gemeinde im Rheingau, rund 5.500 Einwohner, 8 km südwestlich von Wiesbaden.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Walluf?",
+"optionen": [
+"WI",
+"MZ",
+"GG",
+"RÜD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. So nah an Wiesbaden könnte man WI erwarten. Walluf gehört aber zum Rheingau-Taunus-Kreis, und dort steht RÜD auf dem Nummernschild. Richtig war 4.",
+"quelle": "Altbestand geo.sqlite, Kreis 06439",
+"faktencheck": "bestätigt",
+"id": "23-walluf/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Walluf",
+"steckbrief": "Gemeinde im Rheingau, rund 5.500 Einwohner, 8 km südwestlich von Wiesbaden.",
+"frage": "Walluf war vor rund hundert Jahren weit über die Region hinaus bekannt. Wofür?",
+"optionen": [
+"Für den Blumenanbau",
+"Für die Seidenweberei",
+"Für die Korbflechterei",
+"Für den Sandsteinbruch"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Heute kennt man den Rheingau für Wein, doch Walluf galt einst als Blumenstadt von Weltruf. Gärtnereien machten den Ort weit über die Region hinaus bekannt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, walluf.de/rathaus-buergerservice/nachrichten-2022/wallufs-gaertnerei-geschichte/",
+"faktencheck": "bestätigt",
+"id": "23-walluf/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Walluf",
+"steckbrief": "Gemeinde im Rheingau, rund 5.500 Einwohner, 8 km südwestlich von Wiesbaden.",
+"frage": "Beide Ortsteile haben eine eigene katholische Kirche. Wer ist Schutzpatron der Kirche in Niederwalluf?",
+"optionen": [
+"St. Martin",
+"St. Johannes der Täufer",
+"St. Petrus",
+"St. Elisabeth"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. St. Martin klingt vertraut, ist aber der Patron in Oberwalluf. Die Kirche in Niederwalluf trägt den Namen St. Johannes der Täufer. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, walluf.de/leben-in-walluf/familie-und-soziales/kirchengemeinden/",
+"faktencheck": "bestätigt",
+"id": "23-walluf/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "22-langen",
+"anschluss": [
+"Langen hat rund 39.000 Einwohner, Walluf nur etwa 5.500.",
+"Bundestagswahl 2025: In Walluf wählten 88 Prozent, in Langen 83."
+],
+"km_vom_vorigen": 38.0
 },
 {
 "slug": "04-eltville",
@@ -5686,7 +8313,7 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Gutenbergs Bruder Friele Gensfleisch lebte von 1434 bis 1447 im Gensfleischhaus, einem Adelshof in der historischen Altstadt. Gutenberg selbst hatte später in Eltville als Hofmann Kurfürst Adolfs eine Leibrente. Richtig war 3. ---",
+"rueckseite": "Du hattest [Option] getippt. Gutenbergs Bruder Friele Gensfleisch lebte von 1434 bis 1447 im Gensfleischhaus, einem Adelshof in der historischen Altstadt. Gutenberg selbst hatte später in Eltville als Hofmann Kurfürst Adolfs eine Leibrente. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/",
 "faktencheck": "korrigiert",
 "id": "04-eltville/v0.8/5",
@@ -5726,7 +8353,7 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Es ging tatsächlich um Macht – aber um ihren Verlust. Gegenkönig Günther von Schwarzburg, Rivale Karls IV., floh auf die Kurfürstliche Burg und unterzeichnete dort seinen Thronverzicht. Der Limburger Chronik zufolge wurde er dort möglicherweise vergiftet; Wochen später starb er in Frankfurt. Richtig war 1. ---",
+"rueckseite": "Du hattest [Option] getippt. Es ging tatsächlich um Macht – aber um ihren Verlust. Gegenkönig Günther von Schwarzburg, Rivale Karls IV., floh auf die Kurfürstliche Burg und unterzeichnete dort seinen Thronverzicht. Der Limburger Chronik zufolge wurde er dort möglicherweise vergiftet; Wochen später starb er in Frankfurt. Richtig war 1.",
 "quelle": "Gemeinde-Webseite, eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/eltville/",
 "faktencheck": "korrigiert",
 "id": "04-eltville/v0.8/7",
@@ -5793,12 +8420,418 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "03-rastatt",
+"anschluss_von": "23-walluf",
 "anschluss": [
-"Bundestagswahl 2025: In Eltville wählten 86 Prozent, in Rastatt knapp 76.",
-"Bundestagswahl 2025: In Rastatt lag die AfD vorn, in Eltville die CDU."
+"Eltville hat dreimal so viele Einwohner wie Walluf.",
+"Eltville hat fast siebenmal so viel Fläche wie Walluf."
 ],
-"km_vom_vorigen": 130.0
+"km_vom_vorigen": 2.8
+},
+{
+"slug": "24-oestrich-winkel",
+"name": "Oestrich-Winkel",
+"lat": 50.00854,
+"lon": 8.01986,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oestrich-Winkel",
+"steckbrief": "Rund 11.400 Einwohner, 18 km südwestlich von Wiesbaden.",
+"frage": "Das Weingut Schloss Vollrads zählt zu den ältesten der Welt. Seit wann ist der Weinhandel dort belegt?",
+"optionen": [
+"Seit 1211",
+"Seit 1456",
+"Seit 1648",
+"Seit 1789"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Weinhandel von Schloss Vollrads reicht weiter zurück als oft vermutet: Bereits 1211 ist er dokumentiert. Schloss Vollrads ist eines der ältesten Weingüter der Welt. Die Familie Greiffenclau errichtete die Wasserburg, die einzige erhaltene im Rheingau. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.oestrich-winkel.de/freizeit-tourismus/tourist-information/stadtportrait/",
+"faktencheck": "korrigiert",
+"id": "24-oestrich-winkel/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oestrich-Winkel",
+"steckbrief": "Rund 11.400 Einwohner, 18 km südwestlich von Wiesbaden.",
+"frage": "Wie groß ist die Fläche der Gemarkung von Oestrich-Winkel?",
+"optionen": [
+"unter 35 km²",
+"35 bis unter 65 km²",
+"65 bis unter 95 km²",
+"95 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei rund 11.400 Einwohnern vermuten viele weniger Fläche. Oestrich-Winkel umfasst aber knapp 60 km², entstanden aus vier Ortsteilen. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "24-oestrich-winkel/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Oestrich-Winkel",
+"steckbrief": "Rund 11.400 Einwohner, 18 km südwestlich von Wiesbaden.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Goethe war einst Gast im Brentanohaus in Winkel.",
+"Der Oestricher Weinverladekran gilt als Wahrzeichen der Stadt.",
+"Das Graue Haus gilt als ältestes Fachwerkhaus Deutschlands."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Rheingau gibt es viele Fachwerkhäuser, doch der Name „Graues Haus\" verrät: Es ist aus Stein. Es gilt als ältestes bewohnbares Steinhaus Deutschlands. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.oestrich-winkel.de/freizeit-tourismus/tourist-information/stadtportrait/",
+"faktencheck": "unsicher",
+"id": "24-oestrich-winkel/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oestrich-Winkel",
+"steckbrief": "Rund 11.400 Einwohner, im Rheingau, 18 km südwestlich von Wiesbaden.",
+"frage": "Welchen Zweitstimmenanteil erreichte die stärkste Partei in Oestrich-Winkel bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 30 %",
+"30 bis unter 35 %",
+"35 bis unter 45 %"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die CDU kam in Oestrich-Winkel bei der Bundestagswahl 2025 auf 35,3 %. Wer die Weinbauregion Rheingau kennt, konnte auf eine starke Union tippen. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025, Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "24-oestrich-winkel/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oestrich-Winkel",
+"steckbrief": "Rund 11.400 Einwohner, Weinstadt am Rhein, 18 km südwestlich von Wiesbaden.",
+"frage": "Welche geographische Besonderheit hat Oestrich-Winkel am Rhein?",
+"optionen": [
+"Sie liegt an der breitesten Stelle des Rheins",
+"Der Rhein macht hier eine vollständige Kehre",
+"Hier teilt sich der Rhein in zwei Arme",
+"Der Rhein erreicht hier seine größte Tiefe"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Oestrich-Winkel liegt an der breitesten Stelle des Rheins. Bei solcher Breite könnte man eine Flussinsel oder Verzweigung erwarten, doch der Rhein strömt hier ungeteilt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.oestrich-winkel.de/freizeit-tourismus/tourist-information/stadtportrait/",
+"faktencheck": "unsicher",
+"id": "24-oestrich-winkel/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oestrich-Winkel",
+"steckbrief": "Rund 11.400 Einwohner, Weinstadt im Rheingau.",
+"frage": "Wie weit liegt Oestrich-Winkel Luftlinie von der Landeshauptstadt Wiesbaden entfernt?",
+"optionen": [
+"unter 10 km",
+"10 bis unter 25 km",
+"25 bis unter 50 km",
+"50 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wiesbaden liegt 18 km Luftlinie entfernt – näher, als viele bei einer Weinbauregion vermuten. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "24-oestrich-winkel/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Oestrich-Winkel",
+"steckbrief": "Rund 11.400 Einwohner, 18 km südwestlich von Wiesbaden.",
+"frage": "Das Rheingau Musik Festival veranstaltet heute rund 150 Konzerte im Jahr. Wie viele waren es in der ersten Spielzeit 1988?",
+"optionen": [
+"unter 5",
+"5 bis unter 15",
+"15 bis unter 30",
+"30 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die erste Spielzeit des Rheingau Musik Festivals umfasste 19 Veranstaltungen. Gemessen an den heutigen rund 150 Konzerten war der Anfang bescheiden. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.oestrich-winkel.de/freizeit-tourismus/tourist-information/stadtportrait/",
+"faktencheck": "bestätigt",
+"id": "24-oestrich-winkel/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oestrich-Winkel",
+"steckbrief": "Rund 11.400 Einwohner, 18 km südwestlich von Wiesbaden.",
+"frage": "Das Stadtarchiv Oestrich-Winkel gab ein Mitteilungsblatt zur Ortsgeschichte heraus. Wie hieß es?",
+"optionen": [
+"Der Turmwächter",
+"Der Ausscheller",
+"Der Weinrufer",
+"Das Stundenglas"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Mitteilungsblatt hieß „Der Ausscheller\" – benannt nach dem Ausrufer, der einst Nachrichten durch die Gassen schellte. Ein Weinrufer oder Turmwächter klingt passend, trifft aber nicht zu. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.oestrich-winkel.de/freizeit-tourismus/kultur/historisches-stadtarchiv/",
+"faktencheck": "bestätigt",
+"id": "24-oestrich-winkel/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oestrich-Winkel",
+"steckbrief": "Rund 11.400 Einwohner, 18 km südwestlich von Wiesbaden.",
+"frage": "Die jüdische Gemeinde von Oestrich-Winkel führte ein Memorbuch. Wo wird es heute aufbewahrt?",
+"optionen": [
+"In der Landesbibliothek Wiesbaden",
+"Im Jüdischen Museum Frankfurt",
+"In den Central Archives in Jerusalem",
+"Im Stadtarchiv Oestrich-Winkel"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das hebräische Memorbuch – ein Gedenkbuch für Verstorbene – wird in den Central Archives for the History of the Jewish People in Jerusalem verwahrt. Man könnte es in Frankfurt oder vor Ort vermuten. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.oestrich-winkel.de/pdf/freizeit-tourismus/kultur/historisches-stadtarchiv/ausscheller/ausscheller-nr.-35-die-juden-von-oestrich-winkel-im-17.-und-18.-jahrhundert.pdf?cid=648",
+"faktencheck": "bestätigt",
+"id": "24-oestrich-winkel/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "04-eltville",
+"anschluss": [
+"Oestrich-Winkel hat mehr Fläche als Eltville, aber weniger Einwohner.",
+"Bundestagswahl 2025: In Eltville wie in Oestrich-Winkel lag die CDU vorn."
+],
+"km_vom_vorigen": 7.4
+},
+{
+"slug": "25-geisenheim",
+"name": "Geisenheim",
+"lat": 49.98313,
+"lon": 7.96556,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Geisenheim",
+"steckbrief": "Stadt im Rheingau mit rund 11.000 Einwohnern, 22 km westlich von Mainz.",
+"frage": "Welches Produkt geht auf einen Professor der Forschungsanstalt in Geisenheim zurück?",
+"optionen": [
+"Dort entstand alkoholfreier Sekt.",
+"Dort wurde löslicher Eistee entwickelt.",
+"Dort wurde Instantkakao in Pulverform entwickelt.",
+"Ein Professor der Anstalt schuf danach den ersten haltbaren Orangensaft in Flaschen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. An einer Weinbau-Hochschule vermutet man Traubensaft-Forschung, doch Professor Julius Koch leitete in Geisenheim das Institut für Gemüse- und Früchteverwertung und modernisierte dort die Fruchtsafttechnologie. In seiner späteren Tätigkeit in der Fruchtsaftindustrie schuf er „Hohes C\" – den ersten konzentrierten und haltbaren Orangensaft in Flaschen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, geisenheim.de/leben-bildung/kitas-schulen/hochschule/geschichte-der-hochschule/",
+"faktencheck": "korrigiert",
+"id": "25-geisenheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Geisenheim",
+"steckbrief": "Stadt im Rheingau mit rund 11.000 Einwohnern, 22 km westlich von Mainz.",
+"frage": "Wie viele Einwohner hat Geisenheim je Quadratkilometer?",
+"optionen": [
+"200 bis unter 350",
+"350 bis unter 500",
+"500 bis unter 700",
+"über 700"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei rund 11.000 Einwohnern und gut 40 km² Fläche ergibt sich eine Dichte von etwa 277 Einwohnern je Quadratkilometer. Die ausgedehnte Gemarkung mit viel Wald und Weinbergen hält die Dichte niedrig. Richtig war 1.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohner (Stand 2025-12-31) und Fläche",
+"faktencheck": "bestätigt",
+"id": "25-geisenheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Geisenheim",
+"steckbrief": "Weinstadt am Rhein mit rund 11.000 Einwohnern, 22 km westlich von Mainz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Spätlese entstand 1775 am Johannisberg durch Zuchtversuche.",
+"Geisenheim erhielt 1864 die Stadtrechte wegen seiner Industrie.",
+"Die Lehranstalt für Obst- und Weinbau startete 1872."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Zuchtversuche klingen bei einer Weinregion plausibel, doch die Spätlese entstand durch Zufall: Der Bote mit der Leseerlaubnis kam zu spät, und die Trauben ergaben dank Edelfäule unerwartet hervorragenden Wein. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, geisenheim.de/kultur-tourismus/informativ/historisches/historisches-johannisberg/",
+"faktencheck": "bestätigt",
+"id": "25-geisenheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Geisenheim",
+"steckbrief": "Stadt in Hessen mit rund 11.000 Einwohnern, 22 km westlich von Mainz.",
+"frage": "Welche Partei war bei der Bundestagswahl 2025 in Geisenheim zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"GRÜNE",
+"SPD",
+"FDP"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die SPD kam in Geisenheim auf 18,6 % und lag damit hinter der CDU mit 30,5 %. Im Rheingau, nahe der Landeshauptstadt Wiesbaden, vermuten manche die Grünen weiter vorn, doch sie erreichten nur 13,9 %. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025, Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "25-geisenheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Geisenheim",
+"steckbrief": "Stadt am Rhein mit rund 11.000 Einwohnern, 22 km westlich von Mainz.",
+"frage": "Was mussten Handelskähne in Geisenheim einst als Zoll entrichten?",
+"optionen": [
+"Jedes Schiff zahlte einen Ballen feines Tuch.",
+"Jedes Schiff lieferte einen Eimer Rheinwein ab.",
+"Jedes Schiff zahlte zehn Silbermünzen als Gebühr.",
+"Jedes Schiff lieferte ein Pfund Pfeffer ab."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Rheinwein als Zoll klingt am Rhein naheliegend, doch Geisenheim erhob den sogenannten Pfefferzoll: ein Pfund Pfeffer pro vorbeifahrendem Schiff. Im Mittelalter war Pfeffer kostbar und als Zahlungsmittel anerkannt. Das Gebäude in der Zollstraße erinnert noch daran. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, geisenheim.de/kultur-tourismus/informativ/historisches/historisches-geisenheim/",
+"faktencheck": "bestätigt",
+"id": "25-geisenheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Geisenheim",
+"steckbrief": "Stadt im Rheingau mit rund 11.000 Einwohnern, 22 km westlich von Mainz.",
+"frage": "Wie weit ist Geisenheim Luftlinie von der Landeshauptstadt Wiesbaden entfernt?",
+"optionen": [
+"unter 30 km",
+"30 bis unter 50 km",
+"50 bis unter 75 km",
+"über 75 km"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Geisenheim liegt nur 23 km Luftlinie von Wiesbaden entfernt. Die Nähe zu Mainz im Steckbrief war ein Hinweis: Wiesbaden und Mainz liegen dicht beieinander, also ist auch Wiesbaden nah. Richtig war 1.",
+"quelle": "GRUNDDATEN, berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "25-geisenheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Geisenheim",
+"steckbrief": "Stadt im Rheingau mit rund 11.000 Einwohnern, 22 km westlich von Mainz.",
+"frage": "Was verbirgt sich hinter der Burg Schwarzenstein bei Johannisberg?",
+"optionen": [
+"Eine Adelsfamilie errichtete dort eine Wehrburg.",
+"Eine Weinhändlerfamilie ließ dort eine Zierruine bauen.",
+"Mönche bauten sie als befestigtes Kloster.",
+"Ein Kurfürst nutzte sie als Jagdschloss."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach Mittelalter, doch die Burg Schwarzenstein ist eine künstliche Ruine. Die Familie Mumm ließ sie aus den Gewinnen ihrer Johannisberger Weine errichten – mit Rundturm, Salon und Veranda in gotischer Architektur. Heute ist sie ein Hotel. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, geisenheim.de/kultur-tourismus/informativ/historisches/historisches-johannisberg/",
+"faktencheck": "bestätigt",
+"id": "25-geisenheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Geisenheim",
+"steckbrief": "Stadt im Rheingau mit rund 11.000 Einwohnern, 22 km westlich von Mainz.",
+"frage": "Wofür wurde das Gebäude auf dem Hansenberg bei Johannisberg ursprünglich geplant?",
+"optionen": [
+"Es sollte ein Armen- und Waisenhaus werden.",
+"Es war als Sommersitz eines Bischofs gedacht.",
+"Man plante ein Weinlager für Johannisberger Riesling.",
+"Eine Kaserne für preußische Soldaten war vorgesehen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Schloss denkt man an Adel, doch der Pädagoge Johannes de Laspee plante das Gebäude als Armen- und Waisenhaus. Als Pestalozzi-Schüler verfolgte er soziale Ziele. Heute ist Schloss Hansenberg eine Internatsschule. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, geisenheim.de/kultur-tourismus/informativ/historisches/historisches-johannisberg/",
+"faktencheck": "bestätigt",
+"id": "25-geisenheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Geisenheim",
+"steckbrief": "Stadt im Rheingau mit rund 11.000 Einwohnern, 22 km westlich von Mainz.",
+"frage": "Welche Besonderheit hatte das Kloster Marienthal bei Geisenheim?",
+"optionen": [
+"Es betrieb eine bedeutende Weinkelterung.",
+"Es beherbergte eine große Reliquiensammlung.",
+"Es besaß eine der ersten Druckereien der Welt.",
+"Es war eine Ausbildungsstätte für Steinmetze."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Kloster im Rheingau denkt man an Wein, doch Kloster Marienthal war für seine Druckerei bekannt – eine der ersten der Welt. Betrieben wurde sie von den Brüdern vom Gemeinsamen Leben. Heute ist Marienthal ein bedeutender Wallfahrtsort im Bistum Limburg. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, geisenheim.de/kultur-tourismus/informativ/historisches/historisches-marienthal/",
+"faktencheck": "bestätigt",
+"id": "25-geisenheim/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Geisenheim",
+"steckbrief": "Hochschulstadt am Rhein mit rund 11.000 Einwohnern, 22 km westlich von Mainz.",
+"frage": "Was züchtete Hermann Müller 1882 an der Geisenheimer Lehranstalt?",
+"optionen": [
+"Er züchtete eine neue Rosenart für Parks.",
+"Er entwickelte einen Hefestamm für die Sektherstellung.",
+"Er brachte eine besonders winterharte Apfelsorte hervor.",
+"Er züchtete eine heute weit verbreitete Rebsorte."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. An einer Lehranstalt für Obst- und Weinbau liegen Äpfel oder Rosen nahe, doch Hermann Müller schuf dort die Rebsorte Müller-Thurgau, auch Rivaner genannt. Sie gilt als bedeutendste Neuzüchtung einer Rebsorte der Neuzeit. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, geisenheim.de/leben-bildung/kitas-schulen/hochschule/geschichte-der-hochschule/",
+"faktencheck": "bestätigt",
+"id": "25-geisenheim/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "24-oestrich-winkel",
+"anschluss": [
+"Oestrich-Winkel und Geisenheim haben beide rund 11.000 Einwohner.",
+"Oestrich-Winkel hat fast anderthalbmal so viel Fläche wie Geisenheim."
+],
+"km_vom_vorigen": 4.8
 },
 {
 "slug": "05-ruedesheim",
@@ -6006,12 +9039,11 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "04-eltville",
+"anschluss_von": "25-geisenheim",
 "anschluss": [
-"Rüdesheim war bis 1977 Kreisstadt des Rheingau-Kreises, zu dem auch Eltville gehörte.",
-"Bundestagswahl 2025: In Eltville wählten 86 Prozent, in Rüdesheim 80."
+"Geisenheim hat etwas mehr Einwohner als Rüdesheim, Rüdesheim mehr Fläche."
 ],
-"km_vom_vorigen": 15.0
+"km_vom_vorigen": 3.0
 },
 {
 "slug": "06-lorch",
@@ -6033,7 +9065,7 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "Du hattest [Option] getippt. Ausgerufen hat niemand etwas: Nach dem Ersten Weltkrieg blieb ein Streifen zwischen der französischen und der amerikanischen Besatzungszone unbesetzt. Lorch lag mittendrin und wurde Verwaltungssitz des „Freistaat Flaschenhals\" (1919–1923). Richtig war 1. ---",
+"rueckseite": "Du hattest [Option] getippt. Ausgerufen hat niemand etwas: Nach dem Ersten Weltkrieg blieb ein Streifen zwischen der französischen und der amerikanischen Besatzungszone unbesetzt. Lorch lag mittendrin und wurde Verwaltungssitz des „Freistaat Flaschenhals\" (1919–1923). Richtig war 1.",
 "quelle": "Gemeinde-Webseite, lorch-rhein.de/tourismus-kultur/tourismus-freizeit-info-s/historie-von-lorch-und-seinen-stadtteilen/",
 "faktencheck": "korrigiert",
 "id": "06-lorch/v0.8/1",
@@ -6589,7 +9621,7 @@ window.QA_DATEN = {
 "sorte": "Geschichte",
 "ort": "St. Goarshausen",
 "steckbrief": "Rund 1.200 Einwohner, 24 km südöstlich von Koblenz, überragt von der Burg Katz.",
-"frage": "Warum ließ Graf Wilhelm II. von Katzenelnbogen um 1360 die Burg Katz erbauen? RÜCKSEITE (unverändert, da dort nur „Graf Wilhelm\" ohne Numeral steht): Du hattest [Option] getippt. Ein Jagdsitz klingt plausibel über dem Rheintal. Doch als der Trierer Erzbischof Boemund II. ab 1356 die Burg Peterseck errichten ließ, antwortete Graf Wilhelm II. mit einer eigenen Burg – im Volksmund wurden beide zu „Katz und Maus\". Richtig war 2. Quelle: Gemeinde-Webseite, sankt-goarshausen.de/stadt-st-goarshausen/stadtteile/stadtteil-wellmich/ --- ## ÜBERSICHT - bestätigt: 1 (Karte 5) - korrigiert: 1 (Karte 8) - unsicher: 0 - gesperrt: 0 - Suchen insgesamt: 4",
+"frage": "Warum ließ Graf Wilhelm II. von Katzenelnbogen um 1360 die Burg Katz erbauen? RÜCKSEITE (unverändert, da dort nur „Graf Wilhelm\" ohne Numeral steht): Du hattest [Option] getippt. Ein Jagdsitz klingt plausibel über dem Rheintal. Doch als der Trierer Erzbischof Boemund II. ab 1356 die Burg Peterseck errichten ließ, antwortete Graf Wilhelm II. mit einer eigenen Burg – im Volksmund wurden beide zu „Katz und Maus\". Richtig war 2. Quelle: Gemeinde-Webseite, sankt-goarshausen.de/stadt-st-goarshausen/stadtteile/stadtteil-wellmich/",
 "optionen": [
 "Als Jagdsitz für die gräfliche Familie",
 "Als Reaktion auf eine Burg des Trierer Erzbischofs",
@@ -6651,6 +9683,603 @@ window.QA_DATEN = {
 "Kaub und St. Goarshausen gehören beide zur Verbandsgemeinde Loreley."
 ],
 "km_vom_vorigen": 8.1
+},
+{
+"slug": "26-kestert",
+"name": "Kestert",
+"lat": 50.18556,
+"lon": 7.65,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kestert",
+"steckbrief": "Gemeinde mit rund 640 Einwohnern, 19 km südlich von Koblenz",
+"frage": "Was befand sich vermutlich an der Stelle des heutigen Kestert, bevor der Ort entstand?",
+"optionen": [
+"Dort lag eine keltische Fischersiedlung.",
+"Dort stand ein fränkischer Königshof.",
+"Dort befand sich ein römischer Militärvorposten.",
+"Dort lebten irische Mönche als Einsiedler."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der alte Ortsname „ad Castrionis\" klingt nach Kastanien, verweist aber vermutlich auf ein römisches Lager. Funde wie Münzen und Mauerreste am Kirchenköppel stützen diese Deutung. Richtig war 3.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/kestert.html",
+"faktencheck": "bestätigt",
+"id": "26-kestert/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kestert",
+"steckbrief": "Gemeinde mit rund 640 Einwohnern, 19 km südlich von Koblenz",
+"frage": "Wie viele Einwohner hat Kestert je Quadratkilometer?",
+"optionen": [
+"unter 30",
+"30 bis unter 60",
+"60 bis unter 90",
+"90 bis unter 120"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Auf knapp sieben Quadratkilometern leben rund 640 Einwohner, das ergibt etwa 92 Einwohner je Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata, Einwohner (Stand 2025-12-31) und Fläche",
+"faktencheck": "bestätigt",
+"id": "26-kestert/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kestert",
+"steckbrief": "Rheingemeinde mit rund 640 Einwohnern, 19 km südlich von Koblenz",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Kestert gehörte im Mittelalter zum Bopparder Reich.",
+"Die Kirche St. Georg ist ein Barockbau.",
+"Hochwasser zerstörte die alte Pfarrkirche von Kestert."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "„Du hattest [Option] getippt. Ein Rheinort wie Kestert lässt an Hochwasser denken, doch die alte Pfarrkirche ging durch einen Brand verloren. Die 1778/79 erbaute St.-Georg-Kirche besitzt eine barocke Ausstattung. Die Lüge war 3.",
+"quelle": "regionalgeschichte.net/mittelrhein/kestert/kulturdenkmaeler/st-georgkirche.html\"",
+"faktencheck": "korrigiert",
+"id": "26-kestert/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kestert",
+"steckbrief": "Gemeinde mit rund 640 Einwohnern, 19 km südlich von Koblenz",
+"frage": "Welchen Zweitstimmenanteil erreichte die stärkste Partei bei der Bundestagswahl 2025 in der Verbandsgemeinde Loreley?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 35 %",
+"35 bis unter 45 %",
+"45 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die CDU kam in der Verbandsgemeinde Loreley auf 32,2 Prozent der Zweitstimmen und lag damit vor der SPD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025, Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "26-kestert/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kestert",
+"steckbrief": "Gemeinde am Mittelrhein mit rund 640 Einwohnern, 19 km südlich von Koblenz",
+"frage": "2021 ging bei Kestert ein Felssturz auf eine Bahnstrecke nieder. Welche Bedeutung hat diese Strecke laut Deutscher Bahn?",
+"optionen": [
+"Sie gilt als älteste elektrifizierte Strecke Deutschlands.",
+"Sie gilt als wichtigste Personenverkehrsstrecke im Rheinland.",
+"Sie gilt als meistbefahrene Güterzugstrecke Europas.",
+"Sie gilt als schnellste Fernverkehrsstrecke am Rhein."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Rheintal ist für seinen Personenverkehr bekannt, doch diese Strecke verbindet Genua mit Rotterdam und gilt laut Deutscher Bahn als meistbefahrene Güterzugstrecke Europas. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kestert",
+"faktencheck": "bestätigt",
+"id": "26-kestert/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kestert",
+"steckbrief": "Gemeinde in Rheinland-Pfalz mit rund 640 Einwohnern, 19 km südlich von Koblenz",
+"frage": "Wie weit ist es von Kestert bis zur Landeshauptstadt Mainz (Luftlinie)?",
+"optionen": [
+"unter 20 km",
+"20 bis unter 35 km",
+"35 bis unter 50 km",
+"50 bis unter 70 km"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Koblenz liegt nah, doch die Landeshauptstadt Mainz ist mit rund 50 Kilometern Luftlinie deutlich weiter. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "26-kestert/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kestert",
+"steckbrief": "Gemeinde mit rund 640 Einwohnern, 19 km südlich von Koblenz",
+"frage": "Im Jahr 755 erhielt ein Kloster Weinberge in Kestert geschenkt. Welches Kloster war es?",
+"optionen": [
+"Die Schenkung ging an die Abtei Fulda.",
+"Die Schenkung ging an die Abtei Prüm.",
+"Die Schenkung ging an die Abtei Lorsch.",
+"Die Schenkung ging an die Abtei Reichenau."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre ein Kloster vom Rhein, doch die Schenkung ging an die weit entfernte Abtei Fulda in Osthessen. Richtig war 1.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/kestert.html",
+"faktencheck": "bestätigt",
+"id": "26-kestert/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kestert",
+"steckbrief": "Rheingemeinde mit rund 640 Einwohnern, 19 km südlich von Koblenz",
+"frage": "Welchen Beruf hatte der 1822 in Kestert geborene Johann Schlaad?",
+"optionen": [
+"Er arbeitete als Winzer.",
+"Er arbeitete als Orgelbauer.",
+"Er arbeitete als Rheinlotse.",
+"Er arbeitete als Schiffbauer."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Am Rhein denkt man eher an Winzer als an Instrumentenbauer, doch Johann Schlaad wurde als Orgelbauer bekannt. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kestert",
+"faktencheck": "bestätigt",
+"id": "26-kestert/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "08-st-goarshausen",
+"anschluss": [
+"Kestert und St. Goarshausen haben fast gleich viel Fläche.",
+"St. Goarshausen hat doppelt so viele Einwohner wie Kestert."
+],
+"km_vom_vorigen": 5.8
+},
+{
+"slug": "27-kamp-bornhofen",
+"name": "Kamp-Bornhofen",
+"lat": 50.225,
+"lon": 7.62222,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kamp-Bornhofen",
+"steckbrief": "Gemeinde, rund 1500 Einwohner, 15 km südlich von Koblenz.",
+"frage": "In Kamp gibt es seit der Pest-Zeit sogenannte „Nachbarschaften\". Wozu wurden sie vermutlich gegründet?",
+"optionen": [
+"Zur gemeinsamen Vorratshaltung",
+"Zur Bestattung der Verstorbenen",
+"Zur Bewachung der Ortseingänge",
+"Zur Verteilung von Heilkräutern"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bewachung oder Pflege läge nahe – doch die Kamper Nachbarschaften entstanden vermutlich in der Pest-Zeit zur Bestattung der Verstorbenen. Sie bestehen bis heute, ähnlich wie Vereine, mit jährlichem Nachbarschaftstag und eigener Fahne. Richtig war 2.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/kamp-bornhofen.html",
+"faktencheck": "bestätigt",
+"id": "27-kamp-bornhofen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "Leiter",
+"sorte": "Klassiker",
+"ort": "Kamp-Bornhofen",
+"steckbrief": "Gemeinde, rund 1500 Einwohner, 15 km südlich von Koblenz.",
+"frage": "Wie dicht besiedelt ist die Gemeinde?",
+"optionen": [
+"Mehr als 50 Einwohner je km²?",
+"Mehr als 150?",
+"Mehr als 300?",
+"Mehr als 500?"
+],
+"art": "leiter",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Gemeinde kommt auf rund 128 Einwohner je Quadratkilometer. Trotz der Lage am Rhein bleibt die Besiedlung bescheiden. Höher bis Stufe 1, dann raus.",
+"quelle": "Wikidata (Einwohner, Stand 2025-12-31; Fläche), eigene Berechnung",
+"faktencheck": "bestätigt",
+"id": "27-kamp-bornhofen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kamp-Bornhofen",
+"steckbrief": "Gemeinde, rund 1500 Einwohner, 15 km südlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Nach der Weinkrise baute man Kartoffeln an.",
+"Die alte Pfarrkirche in Kamp brannte ab.",
+"Der Ort bekam einen Eisenbahnanschluss am Rhein."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Am steilen Mittelrhein liegen Kartoffeln nicht nahe – nach der Weinkrise setzte Kamp-Bornhofen auf Kirschenanbau in großem Umfang. Die Lüge war 1.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/kamp-bornhofen.html",
+"faktencheck": "bestätigt",
+"id": "27-kamp-bornhofen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Kamp-Bornhofen",
+"steckbrief": "Gemeinde, rund 1500 Einwohner, 15 km südlich von Koblenz.",
+"frage": "Welche Partei war bei der Bundestagswahl 2025 in der Verbandsgemeinde Loreley zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"AfD",
+"Grüne",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In der Verbandsgemeinde Loreley holte die CDU 32 Prozent, die SPD folgte mit 25 Prozent vor der AfD mit knapp 16 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "27-kamp-bornhofen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kamp-Bornhofen",
+"steckbrief": "Gemeinde am Mittelrhein, rund 1500 Einwohner, 15 km südlich von Koblenz.",
+"frage": "Was löste 1814 in Kamp eine Typhusepidemie mit 112 Toten aus?",
+"optionen": [
+"Verseuchtes Rheinhochwasser verbreitete die Seuche",
+"Durchmarschierende Soldaten schleppten Typhus ein",
+"Ein Lazarettschiff brachte Kranke an Land",
+"Verdorbenes Getreide führte zu Vergiftungen"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Man könnte an Hochwasser oder verdorbene Nahrung denken – tatsächlich brachten Soldaten der Armee Blüchers bei ihrem Durchmarsch den Typhus nach Kamp. Richtig war 2.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/kamp-bornhofen.html",
+"faktencheck": "bestätigt",
+"id": "27-kamp-bornhofen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kamp-Bornhofen",
+"steckbrief": "Gemeinde, rund 1500 Einwohner, 15 km südlich von Koblenz.",
+"frage": "Wie weit ist es von hier zur Landeshauptstadt Mainz (Luftlinie)?",
+"optionen": [
+"Unter 30 km",
+"30 bis unter 50 km",
+"50 bis unter 80 km",
+"80 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Rund 54 Kilometer Luftlinie trennen Kamp-Bornhofen von der Landeshauptstadt Mainz. Richtig war 3.",
+"quelle": "Wikidata, staedte.json (Koordinaten), eigene Berechnung",
+"faktencheck": "bestätigt",
+"id": "27-kamp-bornhofen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kamp-Bornhofen",
+"steckbrief": "Gemeinde am Rhein, rund 1500 Einwohner, 15 km südlich von Koblenz.",
+"frage": "Der Ort hieß bis in die 1930er-Jahre „Camp\". Worauf geht der Name vermutlich zurück?",
+"optionen": [
+"Auf ein fränkisches Heerlager",
+"Auf eine keltische Flussbiegung",
+"Auf einen mittelalterlichen Handelsplatz",
+"Auf das lateinische Wort für Feld"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Heerlager liegt nahe, doch „Camp\" geht vermutlich auf das lateinische „Campus\" zurück – schlicht „Feld\". Erst später wurde die Schreibweise zu „Kamp\" eingedeutscht. Richtig war 4.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/kamp-bornhofen.html",
+"faktencheck": "bestätigt",
+"id": "27-kamp-bornhofen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kamp-Bornhofen",
+"steckbrief": "Gemeinde mit Wallfahrtstradition, rund 1500 Einwohner, 15 km südlich von Koblenz.",
+"frage": "Ab 1679 waren nicht mehr Franziskaner, sondern ein anderer Orden im Kloster Bornhofen. Welcher?",
+"optionen": [
+"Kapuziner",
+"Benediktiner",
+"Dominikaner",
+"Augustiner"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Kapuziner und Franziskaner gehören zur selben Ordensfamilie – leicht zu verwechseln. Die Kapuziner übernahmen das Kloster und blieben bis zur Auflösung. Richtig war 1.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/kamp-bornhofen.html",
+"faktencheck": "bestätigt",
+"id": "27-kamp-bornhofen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kamp-Bornhofen",
+"steckbrief": "Gemeinde, rund 1500 Einwohner, 15 km südlich von Koblenz.",
+"frage": "Die frühere Forststraße heißt heute Kaufmannsstraße. Woran erinnert der Name?",
+"optionen": [
+"An einen Handelsplatz am Rhein",
+"An einen früheren Bürgermeister",
+"An eine jüdische Familie des Orts",
+"An die Zunft der Kaufleute"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name Kaufmannsstraße legt einen Handelsplatz nahe – doch die Straße erinnert an den jüdischen Metzger Jakob Kaufmann und seine Frau Mathilde, die deportiert und ermordet wurden. Ihre Kinder konnten nach Amerika fliehen. Richtig war 3.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/kamp-bornhofen.html",
+"faktencheck": "bestätigt",
+"id": "27-kamp-bornhofen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kamp-Bornhofen",
+"steckbrief": "Gemeinde am Rhein, rund 1500 Einwohner, 15 km südlich von Koblenz.",
+"frage": "Um 1860 arbeiteten 60 Kamper bei einer einzigen Firma. In welcher Branche war sie tätig?",
+"optionen": [
+"Ziegelherstellung",
+"Flößerei",
+"Bergbau",
+"Gerberei"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Am Rhein denkt man vielleicht an Fischerei – doch Kamp war eine Flößer- und Schiffergemeinde. Die Flößerei hatte große Bedeutung für das Erwerbsleben. Richtig war 2.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/kamp-bornhofen.html",
+"faktencheck": "bestätigt",
+"id": "27-kamp-bornhofen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "26-kestert",
+"anschluss": [
+"Kamp-Bornhofen hat gut doppelt so viele Einwohner wie Kestert.",
+"Kestert und Kamp-Bornhofen gehören beide zur Verbandsgemeinde Loreley."
+],
+"km_vom_vorigen": 4.8
+},
+{
+"slug": "28-osterspai",
+"name": "Osterspai",
+"lat": 50.24556,
+"lon": 7.61611,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Osterspai",
+"steckbrief": "Gemeinde mit rund 1.200 Einwohnern, 12 km südlich von Koblenz am Rhein.",
+"frage": "Osterspai war lange ein Weinort. Warum stellte man laut Ortsgeschichte um 1900 auf Obstbau um?",
+"optionen": [
+"Die Reben fielen Rebkrankheiten zum Opfer",
+"Günstigere Importe verdrängten den heimischen Wein",
+"Die Verwaltung förderte gezielt den Obstanbau",
+"Ein schweres Hochwasser zerstörte die Rebflächen"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Am Rhein vermutet man zuerst wirtschaftliche Gründe, doch es waren Rebkrankheiten, die den Weinbau um 1900 beendeten. Die Winzer stiegen auf Obstbau um. Auf der anderen Rheinseite besaßen einige Osterspaier noch im 20. Jahrhundert Weinberge in der Bopparder Hamm. Richtig war 1.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/osterspai.html",
+"faktencheck": "korrigiert",
+"id": "28-osterspai/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Osterspai",
+"steckbrief": "Gemeinde am Rhein, 12 km südlich von Koblenz im Rhein-Lahn-Kreis.",
+"frage": "Wie viele Einwohner hat Osterspai?",
+"optionen": [
+"unter 800",
+"800 bis unter 1.500",
+"1.500 bis unter 3.000",
+"3.000 oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der kleine Ort liegt zwischen Taunushöhen und Obstgärten am Rhein – keine Großsiedlung, aber seit Jahrhunderten besiedelt. Osterspai zählt 1.243 Einwohner. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "28-osterspai/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Osterspai",
+"steckbrief": "Gemeinde mit rund 1.200 Einwohnern, 12 km südlich von Koblenz am Mittelrhein.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Ortskern gibt es eine mittelalterliche Wasserburg.",
+"Nassau führte den Ort zur evangelischen Lehre.",
+"Osterspai fiel an das Herzogtum Nassau."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Am katholischen Mittelrhein vermuten viele, dass die Reformation nicht durchdrang – und so war es: Nassau versuchte es, doch die Boos von Waldeck als Patronatsherren widerstanden, und Osterspai blieb katholisch. Die Lüge war 2.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/osterspai.html",
+"faktencheck": "bestätigt",
+"id": "28-osterspai/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Osterspai",
+"steckbrief": "Gemeinde am Mittelrhein, 12 km südlich von Koblenz, rund 1.200 Einwohner.",
+"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der Verbandsgemeinde Loreley?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 80 %",
+"80 bis unter 85 %",
+"85 % oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In der ländlichen Verbandsgemeinde Loreley, zu der Osterspai gehört, lag die Wahlbeteiligung bei der Bundestagswahl 2025 bei 85,4 %. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "28-osterspai/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Osterspai",
+"steckbrief": "Rheingemeinde mit rund 1.200 Einwohnern, 12 km südlich von Koblenz.",
+"frage": "Aus welchem Anlass wurde Osterspai 1074 urkundlich erwähnt?",
+"optionen": [
+"Der Erzbischof von Köln schenkte es einem Stift",
+"Der Kaiser bestätigte die Marktrechte des Ortes",
+"Ein Ritter stiftete dort Land für ein Kloster",
+"Der Bischof von Trier gründete eine Pfarrei"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Köln liegt weit weg, doch der Kölner Erzbischof Anno schenkte dem Kunibertstift in Köln das Dorf Osterspai mitsamt seiner Kirche. So gelangte der Ortsname in die Geschichtsschreibung. Richtig war 1.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/osterspai.html",
+"faktencheck": "bestätigt",
+"id": "28-osterspai/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Osterspai",
+"steckbrief": "Gemeinde mit rund 1.200 Einwohnern im Rhein-Lahn-Kreis, 12 km südlich von Koblenz.",
+"frage": "Wie weit ist es von Osterspai nach Mainz in der Luftlinie?",
+"optionen": [
+"unter 40 km",
+"40 bis unter 70 km",
+"70 bis unter 100 km",
+"100 km oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Osterspai liegt am Mittelrhein stromabwärts nicht weit vom Rheingau. Nach Mainz sind es rund 56 km Luftlinie – weniger als die kurvenreiche Strecke am Fluss vermuten lässt. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "28-osterspai/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Osterspai",
+"steckbrief": "Gemeinde mit rund 1.200 Einwohnern, 12 km südlich von Koblenz am Rhein.",
+"frage": "Im Dreißigjährigen Krieg wurde Osterspai zweimal niedergebrannt. Von wessen Truppen?",
+"optionen": [
+"Von Truppen unter Tilly",
+"Von Truppen unter Wallenstein",
+"Von Truppen unter Mansfeld",
+"Von Truppen unter Spinola"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Am Mittelrhein denkt man eher an schwedische oder kaiserliche Heere, doch Osterspai traf es durch Truppen unter Mansfeld, die den Ort gleich zweimal niederbrannten. Richtig war 3.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/osterspai.html",
+"faktencheck": "unsicher",
+"id": "28-osterspai/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Osterspai",
+"steckbrief": "Gemeinde mit rund 1.200 Einwohnern am Rhein, 12 km südlich von Koblenz.",
+"frage": "Wo fand in Osterspai vor dem Bau des Rathauses der Schulunterricht statt?",
+"optionen": [
+"In der Kirche im Ort",
+"In der Wohnung des Lehrers",
+"In der Wasserburg im Ort",
+"Auf dem Schloss über dem Ort"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Kirche, eine Burg – das klingt naheliegend, doch der Unterricht fand wohl zunächst in der Privatwohnung des Lehrers statt. Erst mit dem Bau des Rathauses zog die Schule dort ein. Richtig war 2.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/osterspai.html",
+"faktencheck": "korrigiert",
+"id": "28-osterspai/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Osterspai",
+"steckbrief": "Gemeinde am Mittelrhein, rund 1.200 Einwohner, 12 km südlich von Koblenz.",
+"frage": "Was liegt im Wald bei Osterspai an einer Kreuzung alter Römerstraßen?",
+"optionen": [
+"Die Grundmauern einer Villa",
+"Die Reste eines Militärlagers",
+"Ein Meilenstein mit einer Inschrift",
+"Die Überreste eines Tempels"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. An einer Kreuzung römischer Straßen liegt ein Ort der Verehrung nahe, und tatsächlich fanden sich dort die Überreste eines römischen Tempels. Richtig war 4.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/osterspai.html",
+"faktencheck": "bestätigt",
+"id": "28-osterspai/v0.8/9",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Osterspai",
+"steckbrief": "Gemeinde am Rhein, rund 1.200 Einwohner, 12 km südlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Hexenprozesse gingen von den Ortsherren aus.",
+"Im Ortskern steht die Barockkirche St. Martin.",
+"Der Ort gehört zum katholischen Bistum Limburg."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Man vermutet die Obrigkeit hinter den Hexenprozessen, doch die Herren von Nassau und Liebenstein zeigten laut Überlieferung kein Interesse daran. Der Anstoß kam wohl aus der Bevölkerung selbst. Die Lüge war 1.",
+"quelle": "Landesportal, regionalgeschichte.net/mittelrhein/osterspai.html",
+"faktencheck": "bestätigt",
+"id": "28-osterspai/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "27-kamp-bornhofen",
+"anschluss": [
+"Kamp-Bornhofen hat mehr Einwohner, Osterspai mehr Fläche."
+],
+"km_vom_vorigen": 2.3
 },
 {
 "slug": "09-braubach",
@@ -6818,12 +10447,185 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "08-st-goarshausen",
+"anschluss_von": "28-osterspai",
 "anschluss": [
-"St. Goarshausen und Braubach gehören beide zur Verbandsgemeinde Loreley.",
-"Braubach hat mehr als doppelt so viele Einwohner wie St. Goarshausen."
+"Braubach hat mehr als doppelt so viele Einwohner wie Osterspai.",
+"Osterspai und Braubach gehören beide zur Verbandsgemeinde Loreley."
 ],
-"km_vom_vorigen": 14.2
+"km_vom_vorigen": 3.9
+},
+{
+"slug": "29-lahnstein",
+"name": "Lahnstein",
+"lat": 50.30111,
+"lon": 7.60556,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lahnstein",
+"steckbrief": "Rund 19.000 Einwohner, 6 km südlich von Koblenz am Rhein.",
+"frage": "Welches Ereignis verzeichnet die Lahnsteiner Stadtgeschichte für 1803?",
+"optionen": [
+"Die Gewerbefreiheit wurde eingeführt.",
+"Eine Schiffergilde wurde gegründet.",
+"Die Rheinzölle wurden beseitigt.",
+"Eine feste Lahnbrücke wurde errichtet."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. An einem Fluss wie dem Rhein denkt man schnell an Schifffahrt oder Handel. Doch die Stadtgeschichte vermerkt die Auflösung der Kurfürstentümer und die Beseitigung der Rheinzölle – für eine Stadt an der Lahnmündung ein Umbruch. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, lahnstein.de/bilder-dateien/stadtarchiv/2025-lhg/lahnstein-hat-geschichte-uebersicht-bis-folge-880.pdf?cid=66s",
+"faktencheck": "bestätigt",
+"id": "29-lahnstein/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lahnstein",
+"steckbrief": "Rund 19.000 Einwohner, 6 km südlich von Koblenz.",
+"frage": "Wie groß ist die Gemarkung von Lahnstein?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 25 km²",
+"25 bis unter 35 km²",
+"35 bis unter 50 km²"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Lahnstein erstreckt sich über 37,62 Quadratkilometer – mehr, als man bei einer Kleinstadt nahe Koblenz vermuten würde. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "29-lahnstein/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Lahnstein",
+"steckbrief": "Rund 19.000 Einwohner, 6 km südlich von Koblenz am Rhein.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Besitztum Spieß-Ems ging um 1876 an Koblenz.",
+"Das Fotoatelier Maiwald bestand von 1909 bis 2006.",
+"Das Forsthaus der Stadt wurde 1828 erbaut."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Name Spieß-Ems verrät es: Das Besitztum ging nicht an Koblenz, sondern an Bad Ems. Wer den Namensteil „Ems\" bemerkte, konnte die Lüge durchschauen. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, lahnstein.de/kultur-freizeit/stadtarchiv/lahnstein-hat-geschichte/",
+"faktencheck": "bestätigt",
+"id": "29-lahnstein/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Lahnstein",
+"steckbrief": "Rund 19.000 Einwohner, 6 km südlich von Koblenz in Rheinland-Pfalz.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Lahnstein zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"SPD",
+"GRÜNE",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die SPD lag in Lahnstein hinter der CDU auf Platz zwei, knapp vor der AfD. Der Abstand war gering, die AfD war daher ein naheliegender Tipp. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "29-lahnstein/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lahnstein",
+"steckbrief": "Rund 19.000 Einwohner, 6 km südlich von Koblenz an der Lahnmündung.",
+"frage": "Was wurde um 1876 von Ober- nach Niederlahnstein verlegt?",
+"optionen": [
+"Der Wochenmarkt wurde verlegt.",
+"Das Postamt wurde verlegt.",
+"Das Amtsgericht wurde verlegt.",
+"Die Volksschule wurde verlegt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Markt, Post oder Schule – vieles hätte man verlegen können. Doch die Stadtgeschichte nennt das Amtsgericht, das von Ober- nach Niederlahnstein wechselte. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, lahnstein.de/kultur-freizeit/stadtarchiv/lahnstein-hat-geschichte/",
+"faktencheck": "bestätigt",
+"id": "29-lahnstein/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Lahnstein",
+"steckbrief": "Rund 19.000 Einwohner, 6 km südlich von Koblenz.",
+"frage": "Zu welchem Landkreis gehört Lahnstein?",
+"optionen": [
+"Mayen-Koblenz",
+"Westerwaldkreis",
+"Rhein-Hunsrück-Kreis",
+"Rhein-Lahn-Kreis"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Koblenz legt Mayen-Koblenz nahe. Doch der Name „Lahnstein\" weist zur Lahn – und der Kreis heißt Rhein-Lahn-Kreis. Richtig war 4.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "29-lahnstein/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lahnstein",
+"steckbrief": "Rund 19.000 Einwohner, 6 km südlich von Koblenz am Rhein.",
+"frage": "Was ist für Niederlahnstein aus der Zeit um 1476 überliefert?",
+"optionen": [
+"Ein Märkereid wurde dokumentiert.",
+"Eine Fischerzunft wurde gegründet.",
+"Ein Weinbergregister wurde angelegt.",
+"Ein Brückengelöbnis wurde gesprochen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Märker waren Teilhaber an einer Markgenossenschaft – einer Gemeinschaft zur Nutzung von Wald und Weide. Der Eid dokumentiert ihre Rolle im alten Niederlahnstein. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, lahnstein.de/kultur-freizeit/stadtarchiv/lahnstein-hat-geschichte/",
+"faktencheck": "bestätigt",
+"id": "29-lahnstein/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lahnstein",
+"steckbrief": "Rund 19.000 Einwohner, 6 km südlich von Koblenz am Rhein.",
+"frage": "Was wurde in Niederlahnstein um 1926 eingerichtet?",
+"optionen": [
+"Ein Heimatmuseum wurde eröffnet.",
+"Eine Turnhalle wurde gebaut.",
+"Eine Jugendherberge wurde errichtet.",
+"Ein Strandbad wurde angelegt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. In jener Zeit entstanden überall in Deutschland Jugendherbergen, und auch Niederlahnstein bekam eine. Am Rhein gelegen, war der Ort ein Ziel für Wanderer. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, lahnstein.de/kultur-freizeit/stadtarchiv/lahnstein-hat-geschichte/",
+"faktencheck": "bestätigt",
+"id": "29-lahnstein/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "09-braubach",
+"anschluss": [
+"Lahnstein hat gut sechsmal so viele Einwohner wie Braubach.",
+"Lahnstein hat fast doppelt so viel Fläche wie Braubach."
+],
+"km_vom_vorigen": 4.1
 },
 {
 "slug": "10-vallendar",
@@ -6964,7 +10766,7 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Josef Kentenich gründete 1914 die Schönstatt-Bewegung an einem verfallenen Michaelskapellchen auf dem Berg Schönstatt. Eine große Kirche hätte man eher erwartet – doch gerade der bescheidene Anfang prägte die Geschichte. Heute ist Schönstatt ein internationaler Wallfahrtsort. Richtig war 3. ---",
+"rueckseite": "Du hattest [Option] getippt. Josef Kentenich gründete 1914 die Schönstatt-Bewegung an einem verfallenen Michaelskapellchen auf dem Berg Schönstatt. Eine große Kirche hätte man eher erwartet – doch gerade der bescheidene Anfang prägte die Geschichte. Heute ist Schönstatt ein internationaler Wallfahrtsort. Richtig war 3.",
 "quelle": "Wikipedia, de.wikipedia.org/wiki/Vallendar",
 "faktencheck": "korrigiert",
 "id": "10-vallendar/v0.8/7",
@@ -7031,12 +10833,12 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "09-braubach",
+"anschluss_von": "29-lahnstein",
 "anschluss": [
-"Kreisgrenze: In Braubach steht EMS am Auto, in Vallendar MYK.",
-"Vallendar hat dreimal so viele Einwohner wie Braubach."
+"Lahnstein hat gut doppelt so viele Einwohner wie Vallendar.",
+"Kreisgrenze: In Lahnstein steht EMS am Auto, in Vallendar MYK."
 ],
-"km_vom_vorigen": 14.1
+"km_vom_vorigen": 11.1
 }
 ]
 }

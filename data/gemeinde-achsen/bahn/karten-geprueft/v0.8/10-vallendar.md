@@ -174,8 +174,6 @@ Was stand am Anfang der Schönstatt-Bewegung, die 1914 in Vallendar begann?
 4. Eine Marienstatue am Wegrand gab den Anstoß.
 RÜCKSEITE:
 Du hattest [Option] getippt. Josef Kentenich gründete 1914 die Schönstatt-Bewegung an einem verfallenen Michaelskapellchen auf dem Berg Schönstatt. Eine große Kirche hätte man eher erwartet – doch gerade der bescheidene Anfang prägte die Geschichte. Heute ist Schönstatt ein internationaler Wallfahrtsort. Richtig war 3.
-
----
 Quelle: Wikipedia, de.wikipedia.org/wiki/Vallendar
 WÖRTER RÜCKSEITE: 41
 NEGATIVNACHWEISE:

@@ -1,0 +1,35 @@
+{
+ "stufe": "stufe2",
+ "ort": "21-zwingenberg",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "sonnet",
+ "modelle": [
+  "claude-sonnet-4-6",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 4662,
+ "token_ein": 36167,
+ "token_aus": 2822,
+ "usage": {
+  "input_tokens": 8,
+  "cache_creation_input_tokens": 12083,
+  "cache_read_input_tokens": 24076,
+  "output_tokens": 2822,
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 12083,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "",
+  "iterations": [],
+  "speed": "standard"
+ },
+ "kosten_usd": 0.21400955,
+ "sekunden": 60,
+ "fehler": false,
+ "zeit": "2026-10-03T18:39:18"
+}

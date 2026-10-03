@@ -1,0 +1,34 @@
+{
+ "stufe": "karten",
+ "ort": "22-langen",
+ "prompt": "prompt-karten-v0.8.1.txt",
+ "modell_wunsch": "opus",
+ "modelle": [
+  "claude-opus-4-6"
+ ],
+ "eingabe_zeichen": 38451,
+ "token_ein": 20835,
+ "token_aus": 44845,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 20833,
+  "cache_read_input_tokens": 0,
+  "output_tokens": 44845,
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 20833,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "",
+  "iterations": [],
+  "speed": "standard"
+ },
+ "kosten_usd": 1.2513412500000003,
+ "sekunden": 834,
+ "fehler": false,
+ "zeit": "2026-10-03T17:46:34"
+}

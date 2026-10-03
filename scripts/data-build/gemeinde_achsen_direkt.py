@@ -104,7 +104,27 @@ def umgebung():
     return env
 
 
-def lauf(stufe, slug, name, titel, modell):
+def lauf(stufe, slug, name, titel, modell, versuch=1):
+    """Ein Aufruf; ein Kartenlauf mit weniger als MIN_KARTEN Karten (Zeitüberschreitung beim Dienst, oder nur der letzte
+    Teil einer sehr langen Antwort kam an: Lahr, Heppenheim 2026-10-03) wird einmal wiederholt."""
+    slug_, a = lauf_einmal(stufe, slug, name, titel, modell)
+    if stufe == 'karten' and versuch == 1:
+        pfad = os.path.join(RAUM, kd(STUFEN['karten'][1]), slug + '.md')
+        n = len(re.findall(r'^## Karte \d+', lies(pfad), flags=re.M)) if os.path.exists(pfad) else 0
+        if n < MIN_KARTEN:
+            a2 = lauf(stufe, slug, name, titel, modell, versuch=2)[1]
+            a2['wiederholt'] = {'erster_versuch_karten': n, 'erster_versuch': {k: a.get(k) for k in ('token_ein', 'token_aus', 'kosten_usd', 'sekunden', 'fehler')}}
+            if 'token_ein' in a2:
+                with io.open(os.path.join(RAUM, 'aufwand', '%s%s-%s.json' % (stufe, TAG, slug)), 'w', encoding='utf-8') as f:
+                    json.dump(a2, f, ensure_ascii=False, indent=1)
+            return slug, a2
+    return slug_, a
+
+
+MIN_KARTEN = 7
+
+
+def lauf_einmal(stufe, slug, name, titel, modell):
     prompt_datei, ordner, endung = STUFEN[stufe]
     if stufe in ('karten', 'pruefung', 'stufe2'):
         ordner = kd(ordner)
@@ -121,8 +141,11 @@ def lauf(stufe, slug, name, titel, modell):
     netz = stufe in ('stufe2', 'gegenprobe')
     verboten = VERBOTEN_STUFE2 if netz else VERBOTEN
     werkzeug = ['--allowedTools', 'WebSearch,WebFetch'] if netz else []
-    p = subprocess.run(['claude.cmd', '-p', '--model', modell, '--output-format', 'json', '--disallowedTools', verboten] + werkzeug,
-                       input=text.encode('utf-8'), capture_output=True, cwd=arbeit, env=umgebung(), timeout=3600)
+    try:
+        p = subprocess.run(['claude.cmd', '-p', '--model', modell, '--output-format', 'json', '--disallowedTools', verboten] + werkzeug,
+                           input=text.encode('utf-8'), capture_output=True, cwd=arbeit, env=umgebung(), timeout=5400)
+    except subprocess.TimeoutExpired:
+        return slug, {'fehler': 'Zeitüberschreitung nach 90 min'}
     dauer = time.time() - t0
     try:
         d = json.loads(p.stdout.decode('utf-8', 'replace'))

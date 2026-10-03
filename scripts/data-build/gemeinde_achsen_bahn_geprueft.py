@@ -48,10 +48,13 @@ def einsetzen(karte, berichtigt):
     """Ersetzt VORDERSEITE/RÜCKSEITE der Karte durch die berichtigte Fassung."""
     if not berichtigt or berichtigt.strip() in ('–', '-'):
         return karte, False
+    # die letzte Karte einer Prüfdatei: Trennlinie und ÜBERSICHT gehören nicht zur Berichtigung
+    berichtigt = re.split(r'^(?:---\s*$|## )', berichtigt, flags=re.M)[0]
     geaendert = False
     for name in ('VORDERSEITE', 'RÜCKSEITE'):
         m = re.search(r'^%s:[ \t]*(.*?)(?=^(?:VORDERSEITE|RÜCKSEITE):|\Z)' % name, berichtigt, flags=re.S | re.M)
-        if not m or not m.group(1).strip():
+        # "RÜCKSEITE: –" heißt: diese Seite bleibt, wie sie ist
+        if not m or m.group(1).strip() in ('', '–', '-'):
             continue
         neu = m.group(1).strip()
         alt = feld(karte, name)
