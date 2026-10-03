@@ -226,7 +226,6 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   var D = window.QA_DATEN, $ = function(id){ return document.getElementById(id); };
   var IDS = ['s-start','s-karte','s-frage','s-leiter','s-aufl','s-ende'];
   var MUSTER = ['A','C','A','B','Leiter','A','B','A','B','A','C'];   // gemischte Reihe des Kartensatzes für den Tisch
-  var ZIFFER = {1:'eins',2:'zwo',3:'drei',4:'vier'};
   var JE_ORT = 3;
   // Zielfenster, Spielkonzept v0.3.1 §1a (Startwerte, eingestellt im Feldtest). Zeiten in Sekunden Fahrzeit, Wege in Metern.
   var FENSTER = { vorschau: 180, ausloesung: 30, nachlauf: 60, korridor: 5000, strecke: 1000, still_kmh: 10, still_radius: 2000, gleich: 30 };
@@ -542,7 +541,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     $('f-push').hidden = $('l-push').hidden = !pushText; $('f-push').textContent = $('l-push').textContent = pushText;
     if(k.art === 'leiter'){ show('s-leiter'); leiterZeichnen(); return; }
     $('f-ort').textContent = o.name; $('f-steck').textContent = k.steckbrief; $('f-frage').textContent = z.frage;
-    $('f-hint').textContent = fahrt.vor ? 'Vorlesen, dann gemeinsam festlegen. Gerufen wird: ' + z.optionen.map(function(_, j){ return ZIFFER[j + 1]; }).join(', ') + '.'
+    $('f-hint').textContent = fahrt.vor ? 'Vorlesen, dann gemeinsam festlegen.'
                                         : (k.art === 'luege' ? 'Tippe auf die Aussage, die du für gelogen hältst.' : '');
     var h = '';
     z.optionen.forEach(function(t, j){ h += '<button class="opt" aria-pressed="false" data-n="' + (j + 1) + '"><span class="k">' + (j + 1) + '</span><span>' + t + '</span></button>'; });
