@@ -175,6 +175,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     <div class="vermerk" id="a-vermerk" hidden></div>
     <div class="conn" id="a-anschluss" hidden><b>Anschluss</b><span id="a-anschluss-text"></span></div>
     <div class="grow"></div>
+    <div class="bar"><button class="btn primary" id="a-mehr" hidden>Noch mehr zu diesem Ort?</button></div>
     <div class="bar"><button class="btn" id="a-zu">Zur Fahrtkarte</button></div>
   </section>
 
@@ -277,13 +278,21 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   $('k-menue').onclick = function(){ startZeichnen(); show('s-start'); };
 
   // ---- Karte wählen: erste Fahrt = Tisch-Reihe, sonst Muster, Varianz, ungespielt ----
+  // Spielkonzept v0.2.9: drei Fragen je Ort, dann „Noch mehr zu diesem Ort?“ für je drei weitere.
+  var JE_ORT = 3;
+  function freieKarten(o){
+    var g = gespielt[fahrt.raum] || [], hier = fahrt.orte[fahrt.pos].karten || [];
+    var frei = o.karten.filter(function(k){ return g.indexOf(k.id) < 0; });
+    // in dieser Fahrt schon gespielte Karten nie wiederholen; frühere Fahrten erst, wenn alles durch ist
+    return frei.length ? frei : o.karten.filter(function(k){ return hier.indexOf(k.id) < 0; });
+  }
   function karteWaehlen(o){
-    var g = gespielt[fahrt.raum] || [], frei = o.karten.filter(function(k){ return g.indexOf(k.id) < 0; });
-    if(!frei.length){ gespielt[fahrt.raum] = g.filter(function(id){ return id.indexOf(o.slug + '/') !== 0; }); frei = o.karten.slice(); }
+    var frei = freieKarten(o);
+    var hier = (fahrt.orte[fahrt.pos].karten || []).length;
     var tisch = frei.filter(function(k){ return k.tisch; });
-    if(tisch.length) return tisch[0];
+    if(tisch.length && hier === 0) return tisch[0];
     var letzte = fahrt.log.length ? fahrt.log[fahrt.log.length - 1].familie : null;
-    var wunsch = MUSTER[fahrt.pos % MUSTER.length];
+    var wunsch = MUSTER[(fahrt.pos + hier * 3) % MUSTER.length];
     var passt = frei.filter(function(k){ return k.familie === wunsch && k.familie !== letzte; });
     if(!passt.length) passt = frei.filter(function(k){ return k.familie !== letzte; });
     if(!passt.length) passt = frei;
@@ -370,7 +379,12 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   function aufloesen(status, zitat, antwort){
     var o = aktuell.ort, k = aktuell.karte, f = fahrt.orte[fahrt.pos];
     var vorige = fahrt.log.length ? fahrt.log[fahrt.log.length - 1].ort : null;
-    f.status = status; f.kurz = k.familie === 'Leiter' ? 'Leiter' : (status === 'hit' ? 'Treffer' : status === 'split' ? 'gespalten' : status === 'torn' ? 'uneinig' : 'daneben');
+    var ersteHier = !(f.karten && f.karten.length);
+    f.karten = (f.karten || []).concat([k.id]); f.ergebnisse = (f.ergebnisse || []).concat([status]);
+    var treffer = f.ergebnisse.filter(function(x){ return x === 'hit'; }).length, n = f.ergebnisse.length;
+    f.status = n === 1 ? status : (treffer * 2 >= n ? 'hit' : 'miss');
+    f.kurz = n === 1 ? (status === 'hit' ? 'Treffer' : status === 'split' ? 'gespalten' : status === 'torn' ? 'uneinig' : 'daneben')
+                     : treffer + ' von ' + n + ' Treffer';
     $('a-ort').textContent = o.name; $('a-zitat').textContent = zitat; $('a-text').textContent = geschichte(k);
     var chip = $('a-urteil');
     chip.className = 'chip ' + (status === 'hit' ? 'ok' : (status === 'miss' ? 'no' : ''));
@@ -379,16 +393,28 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     $('a-vermerk').hidden = k.faktencheck !== 'unsicher';
     $('a-vermerk').textContent = 'Faktencheck: unsicher – belegt nur durch eine Quelle.';
     // Anschluss nur, wenn der davor gespielte Ort der Ort ist, auf den sich der Anschluss bezieht (er hängt am Ortspaar)
-    var an = (vorige && vorige === o.anschluss_von && o.anschluss.length) ? o.anschluss[0] : '';
+    var an = (ersteHier && vorige && vorige === o.anschluss_von && o.anschluss.length) ? o.anschluss[0] : '';
     $('a-anschluss').hidden = !an; $('a-anschluss-text').textContent = an;
     fahrt.log.push({ ort: o.slug, name: o.name, karte: k.id, familie: k.familie, sorte: k.sorte, status: status, antwort: antwort,
                      loesung: k.loesung, sekunden: Math.round((Date.now() - t0) / 1000), anschluss: !!an, zeit: new Date().toISOString() });
     (gespielt[fahrt.raum] = gespielt[fahrt.raum] || []).push(k.id);
-    fahrt.pos++; sichern('fahrt', fahrt); sichern('gespielt', gespielt);
-    $('a-zu').textContent = fahrt.pos >= fahrt.orte.length ? 'Zum Fahrtende' : 'Zur Fahrtkarte';
+    sichern('fahrt', fahrt); sichern('gespielt', gespielt);
+    // Nach jeder Auflösung: im Dreierblock weiter, nach drei „Noch mehr zu diesem Ort?“, sonst zum nächsten Ort
+    var rest = o.karten.filter(function(x){ return f.karten.indexOf(x.id) < 0; }).length;
+    var letzterOrt = fahrt.pos + 1 >= fahrt.orte.length, weiterText = letzterOrt ? 'Zum Fahrtende' : 'Weiter zum nächsten Ort';
+    if(n % JE_ORT !== 0 && rest){ $('a-zu').textContent = 'Nächste Frage zu ' + o.name + ' (' + (n % JE_ORT + 1) + ' von ' + JE_ORT + ')'; aktuell.weiter = 'frage'; $('a-mehr').hidden = true; }
+    else if(rest){ $('a-zu').textContent = weiterText; aktuell.weiter = 'ort'; $('a-mehr').hidden = false;
+                   $('a-mehr').textContent = 'Noch mehr zu ' + o.name + '? (' + Math.min(JE_ORT, rest) + ' weitere)'; }
+    else { $('a-zu').textContent = weiterText; aktuell.weiter = 'ort'; $('a-mehr').hidden = true; }
+    $('a-zu').classList.toggle('primary', aktuell.weiter === 'frage');
     show('s-aufl');
   }
-  $('a-zu').onclick = function(){ if(fahrt.pos >= fahrt.orte.length) endeZeigen(); else { karteZeichnen(); show('s-karte'); } };
+  $('a-zu').onclick = function(){
+    if(aktuell.weiter === 'frage'){ frageStarten(); return; }
+    fahrt.pos++; sichern('fahrt', fahrt);
+    if(fahrt.pos >= fahrt.orte.length) endeZeigen(); else { karteZeichnen(); show('s-karte'); }
+  };
+  $('a-mehr').onclick = function(){ frageStarten(); };
 
   // ---- Fahrtende und Protokoll ----
   function endeZeigen(){
