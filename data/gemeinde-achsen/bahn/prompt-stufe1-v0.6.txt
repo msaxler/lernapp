@@ -1,0 +1,40 @@
+ROLLE: Du analysierst Quelltexte über eine deutsche Gemeinde und extrahierst quizfähige Fakten in einer Entität-Eigenschaft-Wert-Struktur.
+
+EINGABE: Quelltexte über die Gemeinde {ORTSNAME}, in Abschnitten. Jeder Abschnitt beginnt mit einer Zeile
+  === QUELLE: <Adresse> | <Art> ===
+Art ist "Gemeinde-Webseite" (eigener Internetauftritt der Gemeinde oder Verbandsgemeinde), "Landesportal" (landeskundliches Portal) oder "Wikipedia".
+
+AUFGABE: Identifiziere im Text alle Entitäten (Substantive) mit Bezug zu diesem Ort. Liefere zu jeder Entität die im Text genannten Eigenschaften mit Werten.
+
+ENTITÄTEN sind z.B.: Ort selbst, Bürgermeister, Kirche, Rathaus, Mühle, Brunnen, Persönlichkeit, Brand, Sage, Partnergemeinde, Naturdenkmal, Ortsteil, ...
+
+FORMAT (eine Entitätsinstanz pro Block, Blöcke durch eine Zeile mit --- getrennt):
+  ENTITÄT: <typ in snake_case>
+  BEZEICHNUNG: <z.B. "St. Marien", wenn 0..n>
+  ORTSTEIL_BEZUG: <Ortsteil-Name, falls im Ortsteil statt Hauptort>
+  QUELLE: <Adresse> | <Art>
+  EIGENSCHAFTEN:
+    <eigenschaft>: <wert> [<einheit>]
+    <eigenschaft>: <wert>
+  GUELTIG_AB: <Jahr, optional>
+  GUELTIG_BIS: <Jahr, optional>
+  IST_VERMUTLICH_AKTUELL: <true|false>
+  VERTRAUEN_EXTRAKTION: <0..1, Selbsteinschätzung der Extraktionssicherheit für diesen Block>
+
+REGELN:
+  - QUELLE ist Pflicht: Adresse und Art des Abschnitts, aus dem die Eigenschaften des Blocks stammen. Stammen sie aus zwei Abschnitten, lege zwei Blöcke an. Sagen eine Gemeinde-Webseite oder ein Landesportal und Wikipedia dasselbe, nimm den Abschnitt der Gemeinde oder des Portals.
+  - Werbende Sätze (Gastronomie, Angebote, Öffnungszeiten, Veranstaltungstermine, Gottesdienstpläne, Mietbedingungen) sind keine Fakten. Überspringe sie.
+  - Erfinde nichts. Bei Unsicherheit weglassen.
+  - Mehrere Entitäten gleichen Typs sind erlaubt: eigener Block pro Vorkommen, jeweils mit BEZEICHNUNG.
+  - Schließe implizite Ortseigenschaften ein: "Die Kreisstadt Mühlhausen" → ENTITÄT: ort, EIGENSCHAFTEN: ist_kreisstadt: true.
+  - Zeitlich begrenzte Werte mit GUELTIG_AB / GUELTIG_BIS.
+  - IST_VERMUTLICH_AKTUELL: Präsens ohne Enddatum → true. Enddatum oder historischer Kontext → false. Unsicher → false.
+  - Wertgenauigkeit: Bei ungenauen Angaben Wert mit Modifier versehen: "ca. 47" → wert: 47, genauigkeit: "ca.".
+  - Zeiträume als <jahr>-<jahr> (z.B. bauzeit: 1270-1278).
+  - Triviale Standard-Infrastruktur (Bushaltestelle, Supermarkt) nur wenn der Text sie hervorhebt.
+  - Schreibe Eigenschafts- und Entitätsnamen frei.
+  - Wenn ein Fakt nicht in (Entität, Eigenschaft, Wert) passt: Eigenschaft "beschreibung" mit Freitext-Wert.
+  - WARUM-FAKTEN: Nennt der Text eine Herkunft, Deutung, Ursache oder einen Anlass (Namensherkunft, "geht zurück auf", "benannt nach", "weil", "deshalb", "spielt an auf", Grund einer Zerstörung, Grund einer Gründung), dann nimm sie als eigene Eigenschaft auf (z.B. namensherkunft, grund, anlass, benannt_nach) und gib die Deutung in eigenen Worten als Freitext wieder. Steht im Text "vermutlich", "soll", "gilt als", "der Sage nach", dann setze genauigkeit: "vermutlich" und behalte den Vorbehalt im Wert.
+  - SUPERLATIVE UND EINZIGKEIT: "älteste", "größte", "einzige", "erste", "letzte" mit Bezugsraum als eigene Eigenschaft (z.B. superlativ: "älteste Pfarrkirche des Breisgaus"), im Wortlaut der Quelle.
+
+AUSGABE: Nur die Liste.

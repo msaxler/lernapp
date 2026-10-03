@@ -1,0 +1,1163 @@
+ENTITÄT: ort
+BEZEICHNUNG: Rüdesheim am Rhein
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersturkundliche_erwaehnung: 1074
+  ersturkundliche_erwaehnung_kontext: "bezieht sich auf den bereits florierenden Weinbau"
+  wirtschaftliche_grundlage_historisch: Weinbau, Schifffahrt, Fluesserei
+  wirtschaftliche_grundlage_aktuell: Weinbau, Tourismus, Handel
+  roemische_besiedlung: ja, ueber 400 Jahre
+  roemischer_fund_weinbau_beleg: "Rebschnittmesser um 1900 in Nähe Niederburg gefunden, beweist Weinbau vor 2000 Jahren"
+  franken_einwanderung: "3.-4. Jahrhundert vom Niederrhein"
+  fränkisches_staatsystem: "Merowingisches Reich, Rheingau ab 8. Jahrhundert reichsunmittelbar unter Rheingrafen"
+  veroneser_schenkung_jahr: 983
+  veroneser_schenkung_folge: "Erzbischöfe von Mainz werden Landesherren"
+  landesherren_hauptsektor_zeitlich: "Mainz bis 1806, Nassau 1806-1867, Preußen ab 1867"
+  stadt_status_erwerb: 1818
+  stadt_status_erwerb_kontext: "stillschweigend ab 1818, vorher lange als Markflecken mit stadtähnlicher Verfassung"
+  erste_dampfschiff: 1825
+  erste_eisenbahn: 1856
+  stadtgraben_ueberwölbung: 1830
+  einwohnerzahl_historisch: "ca. 1500 zu Beginn der Stadtentwicklung"
+  einwohnerzahl_aktuell: 6620, genauigkeit: "ca."
+  kreisstadt_status_von: 1867
+  kreisstadt_status_von_kreis: "Rheingau-Kreis"
+  kreisstadt_status_bis: 1977
+  kreisstadt_status_verlagerung_grund: "Rheingau-Kreis wird zum Rheingau-Taunus-Kreis erweitert, Verwaltung nach Bad Schwalbach verlegt"
+  bombenangriff_datum: 25. November 1944
+  bombenangriff_todesfälle: "> 200"
+  bombenangriff_folge_stadtteile: "Altstadt weitgehend verschont"
+  bombenangriff_wiederaufbau: "zügig, touristische Anziehungskraft bald zurückgewonnen"
+  siedlung_windeck_jahr: 1953
+  siedlung_trift_jahr: 1970
+  siedlung_ruedesheim_ost_jahr: 1977
+  eingemeindet_gemeinden: "Assmannshausen, Aulhausen, Presberg (1977)"
+GUELTIG_AB: 1074
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Rüdesheim am Rhein
+ORTSTEIL_BEZUG: (Kernort)
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  ist_weinstadt: true
+  ist_touristenattraktion: true
+  ist_teil_unesco_welterbe: true, seit: 2002
+  welterbe_name: "Oberes Mittelrheintal"
+  wirtschaftliche_zugehörigkeit: "Rhein-Main-Gebiet"
+  frühe_besiedlung_völker: "Kelten, Ubier, Mattiaker"
+  römer_präsenz_zeit: "1. Jahrhundert"
+  römer_infrastruktur_bingen: "Kastell"
+  römer_infrastruktur_ruedesheim: "Brückenkopf auf Weg zum Limes"
+  alemannen_völkerwanderung: ja
+  franken_völkerwanderung: ja
+  fränkisches_gläserfund_kontext: "Vermutung frühen Weinanbaus in Rüdesheim"
+  erzbischof_bardo_zeit: 1031-1051
+  erzbischof_bardo_massnahme: "Weinbau im Rheingau systematisch gefördert"
+  erzbischof_siegfried_i_massnahme: "Rodeerlaubnis ab 1074, streng an Bedingung Weinberge gebunden"
+  rodungen_ende: 1226
+  rodungen_folge: "Wohlstand der folgenden Zeit"
+  napoleonische_era_ende: 1803
+  reichsdeputationshauptschluss_folge: "Ende Kurmainz Herrschaft"
+  herzogtum_nassau_amtsitz: 1816 (4. April)
+  herzogtum_nassau_stadtrechte: 1818 (1. Januar)
+  preussische_annexion: 1867
+  rheingaukreis_errichtung: 1867
+  niederwalddenkmal_grundstein: 1877
+  niederwalddenkmal_fertigstellung: 1883
+  niederwalddenkmal_grund: "Nationaldenkmal"
+  niederwaldbahn_inbetriebnahme: "30. Mai 1884, dampfgetrieben"
+  niederwaldbahn_zerstörung: "25. November 1944, Bombenangriff"
+  niederwaldbahn_wiederaufbau: "Nein, 1952 beschlossen nicht wiederaufzubauen"
+  kabinenseilbahn_inbetriebnahme: 1954
+  kabinenseilbahn_umbau: "2004 stillgelegt und ersetzt durch neue Bahn von LST/Wopfner"
+  sessellift_assmannshausen_seit: 1953
+  eibingen_eingemeindung: 1939
+  eibingen_eingemeindung_kontext: "unter Geheimhaltung gegen Willen der Bevölkerung durch Nationalsozialisten"
+  rheingau_taunus_kreis_bildung: 1977
+  uebernachtungen_pro_jahr: "ca. 380000, ca. ein Drittel aller Übernachtungen im Rheingau-Taunus-Kreis"
+  auslaendische_besucher_anteil: "ca. 50 %"
+  höchster_berg_stadt: "Jägerhorn mit 538 m"
+  geografische_länge_stadtgebiet: "13 km"
+  geografische_breite_stadtgebiet_max: "bis zu 5 km"
+  rheinufer_höhe_ruedesheim: "81 m"
+  rheinufer_höhe_assmannshausen: "77 m"
+GUELTIG_AB: (mehrere zeitliche Span­nen, siehe Eigenschaften)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Jakobus (Stadtpfarrkirche)
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  turmstil: romanisch
+  turm_funktion: "Schutz der ursprünglichen Siedlung"
+  turmstandort: "nördlich des Marktplatzes"
+  zerstörung_grund: "Kriegsüberfälle"
+  wiederaufbau_jahr: 1390
+  wiederaufbau_erbauer: "Ritter Brömser (Inhaber des Kirchenzehnten)"
+  wiederaufbau_komponenten: "Langhaus und Chor neben altem Kirchturm neu aufgebaut"
+GUELTIG_AB: 1390 (Wiederaufbau)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Jakobus (Pfarrkirche)
+ORTSTEIL_BEZUG: (Kernort)
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: "15. Jahrhundert"
+  bombenangriff_25_november_1944: "Viertel um katholische und evangelische Pfarrkirche in Schutt und Asche gelegt, über 200 Menschen getötet"
+GUELTIG_AB: 1400 (ca.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Niederburg (Brömserburg)
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einrichtung_vermutlich: "8. Jahrhundert als Amtssitz der Rheingrafen"
+  bewohner_rheingrafen_anfangs: "Sippe der Rheingrafen, Ministerialen über Generationen"
+  bewohner_folge: "Familie nannte sich Edel­e von Rüdesheim"
+  besitztum_übergang: "1220 an Herren von Rüdesheim als freier Besitz (Allod)"
+  status_1279: "wieder Staatseigentum, aber Dauerleihgabe an Rüdesheimer Adel"
+  grund_wiederaufbau_1279: "unglückliche politische Unternehmung"
+  ausbauzeitraum: "bis Anfang 14. Jahrhundert"
+  ausbauzeitraum_grund: "häufige kriegerische Überfälle"
+  steinquader_beschreibung: "mächtiger Steinquader, wehrhafter Kern einer weitläufigen Burganlage"
+  burganlage_komponenten: "Gesindehäuser, Scheuern, Ställe, Gärten, Hospital, St. Nikolauskapelle"
+  burganlage_ausdehnung: "am westlichen Stadtrand bis zur Amselgasse"
+  teilübergänge_13_jh_klöster: "Schenkungen an Klöster Eberbach, Marienhausen, Mainzer St. Victors-Stift"
+  teilübergänge_13_jh_adel: "Kauf und Erbschaft an Adelsfamilien wie Stoltz von Bickelheim, Ritter von Groenesteyn"
+  teilübergänge_13_jh_ortsadel: "Rüdesheimer Ortsadel erbaut Burgsitze: Oberburg für Füchse von Rüdesheim, Brömserhof für Brömser von Rüdesheim"
+  zerstörung: 1689
+  zerstörung_status: "zu Ruinen zerstört"
+GUELTIG_AB: 800 (ca., Vermutung)
+GUELTIG_BIS: 1689
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Brömserburg (Niederburg)
+ORTSTEIL_BEZUG: (Kernort)
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  superlativ: "älteste Burg im UNESCO-Welterbe Oberes Mittelrheintal"
+  museum: ja
+  museum_name: "Rheingauer Weinmuseum"
+  museum_fokus: "tausendjährige Weinbaugeschichte in Deutschland mit Schwerpunkt Rheingau"
+GUELTIG_AB: (historisch)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Ehrenfels (Zollburg)
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau_grund: "Zoll für lebhaften Warenverkehr auf dem Rhein"
+  bau_grund_wirtschaftlichkeit: "so einträglich, dass sich Bau lohnte"
+  bauzeitraum: "um 1220"
+  lage_beschreibung: "oberhalb des Binger Loches"
+  funktion: Zollburg
+  folge_niederburg: "Durch neue Landesburg Niederburg entbehrlich"
+  zollregister_nachweis: "überrascht durch Mengen an Gütern, die Binger Loch passierten"
+GUELTIG_AB: 1220 (ca.)
+IST_VERMUTLICH_AKTUELL: true (als Ruine, siehe Wikipedia)
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Ehrenfels
+ORTSTEIL_BEZUG: (Kernort)
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  status_aktuell: "Ruine"
+GUELTIG_AB: 1220 (ca.)
+IST_VERMUTLICH_AKTUELL: true (als Ruine)
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Oberburg (Boosenburg)
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besitzer: "Füchse von Rüdesheim"
+  typ: Burgsitz des Rüdesheimer Ortsadels
+  entstehung_zeitraum: "13. Jahrhundert"
+GUELTIG_AB: 1200 (ca.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Boosenburg (Oberburg)
+ORTSTEIL_BEZUG: (Kernort)
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  turm_höhe: "38 m"
+  turm_erhaltung: "ja, Turm erhalten"
+GUELTIG_AB: 1200 (ca.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Vorderburg
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "Adelssitz"
+  lage: "Westseite des Marktplatzes"
+  mauerring_charakter: "weiter Mauerring"
+  entstehung_vermutung: "gleichzeitig mit bürgerlichem Rüdesheim"
+GUELTIG_AB: 1200 (ca., Vermutung)
+IST_VERMUTLICH_AKTUELL: false (Status unklar aus Quelle)
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Vorderburg
+ORTSTEIL_BEZUG: (Kernort)
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  erwähnung_in_bauwerkliste: ja
+GUELTIG_AB: 1200 (ca.)
+IST_VERMUTLICH_AKTUELL: true (unklar aus Kontext)
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Brömserhof
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: "ehemals fränkisches Herrenhaus"
+  besitzer_original: "Brömser von Rüdesheim"
+  typ: Burgsitz des Rüdesheimer Ortsadels
+  nutzung_1853: "städtisches Heim für Arme und Alte"
+GUELTIG_AB: 1200 (ca.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Adelshöfe (Oberstraße)
+ORTSTEIL_BEZUG: (Kernort)
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  namentliche_höfe: "Brömserhof, Groenesteynscher Hof, Bassenheimer Hof"
+  lage: "Oberstraße"
+GUELTIG_AB: (historisch)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Klunkhardshof
+ORTSTEIL_BEZUG: (Kernort)
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  baustil: "großes Fachwerkwohnhaus"
+  baujahr: "15. Jahrhundert"
+GUELTIG_AB: 1400 (ca.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Adlerturm
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_ehemals: "Pulverturm"
+  herkunft: "Teil der Stadtbefestigung"
+  erhaltung: "noch erhalten"
+  zeitalter: "15. Jahrhundert"
+GUELTIG_AB: 1400 (ca.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Adlerturm
+ORTSTEIL_BEZUG: (Kernort)
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: "20,5 m"
+  stielform: "spätgotischer Eckturm"
+  alte_lage: "früher unmittelbar am Rhein"
+GUELTIG_AB: 1400 (ca.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadt_infrastruktur
+BEZEICHNUNG: Ringmauer (Stadtbefestigung)
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erweiterung_zeitraum: "15.-16. Jahrhundert"
+  erweiterung_strecke: "von Löhrstraße bis Steingasse"
+  erweiterung_verstärkung: "durch mehrere Türme"
+  verkauf: "später verkauft und teilweise abgebrochen"
+  ablösungen_datum: 1806
+GUELTIG_AB: 1400 (ca.)
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadt_infrastruktur
+BEZEICHNUNG: Gotteshaus (evangelische Kirchengemeinde)
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_jahr: 1862
+GUELTIG_AB: 1862
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: stadt_infrastruktur
+BEZEICHNUNG: Pfarrkirche Heilig Kreuz
+ORTSTEIL_BEZUG: Assmannshausen
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Konzertort (Rheingau Musik Festival)
+GUELTIG_AB: (historisch)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: stadt_infrastruktur
+BEZEICHNUNG: Synagoge
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_jahr: 1842
+  errichtung_beschreibung: "erste Synagoge"
+  lage: "nach Stadtgraben-Überw­ölbung im Osten (neues Wohnviertel)"
+GUELTIG_AB: 1842
+IST_VERMUTLICH_AKTUELL: false (Status unklar, kein Kriegs­schaden erwähnt, aber auch nicht in Bauwerkliste Wikipedia)
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: stadt_infrastruktur
+BEZEICHNUNG: Gasfabrik
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme_jahr: 1862
+  funktion: "helleres Licht in der Stadt"
+GUELTIG_AB: 1862
+IST_VERMUTLICH_AKTUELL: false (historisch)
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: stadt_infrastruktur
+BEZEICHNUNG: Telefon (erstes)
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme_jahr: 1888
+GUELTIG_AB: 1888
+IST_VERMUTLICH_AKTUELL: true (als historischer Meilenstein)
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: stadt_infrastruktur
+BEZEICHNUNG: Wasserleitung
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme_jahr: 1892
+  beschreibung: "löste die alten Brunnen ab"
+GUELTIG_AB: 1892
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: stadt_infrastruktur
+BEZEICHNET: Volksschule
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung_jahr: 1899
+  eroeffnung_charakter: "feierlich eröffnet"
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: stadt_infrastruktur
+BEZEICHNUNG: Krankenhaus
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme_ab: 1902
+  beschreibung: "großes Krankenhaus"
+  funktion_verbesserung: "Fürsorge"
+GUELTIG_AB: 1902
+IST_VERMUTLICH_AKTUELL: false (historisch, vermutlich anderer Name heute)
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: stadt_infrastruktur
+BEZEICHNUNG: St.-Josefs-Krankenhaus
+ORTSTEIL_BEZUG: (Kernort)
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  funktion: "großer Arbeitgeber"
+GUELTIG_AB: (historisch)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: stadt_infrastruktur
+BEZEICHNUNG: St.-Vinzenz-Stift
+ORTSTEIL_BEZUG: Aulhausen
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  funktion: "großer Arbeitgeber"
+GUELTIG_AB: (historisch)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: stadtdenkmal
+BEZEICHNUNG: Niederwalddenkmal
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeitraum: 1877-1883
+  erbauer_grundstein: "Kaiser Wilhelm I."
+  grundstein_jahr: 1877
+  fertigstellung_jahr: 1883
+  typy: "Nationaldenkmal"
+  statue_name: "Germania"
+  statue_eigenschaft: "mächtige Statue"
+  funktion: "Anziehungspunkt für Touristen"
+  touristen_zugang_anfangs: "romantische Zahnradbahn"
+  touristen_zugang_modern: "moderne Kabinenseilbahn"
+GUELTIG_AB: 1883 (Fertigstellung)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: stadtdenkmal
+BEZEICHNUNG: Niederwalddenkmal
+ORTSTEIL_BEZUG: (Kernort)
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  errichtung_jahr: 1883
+  hoehe_niederwald: "346 m"
+GUELTIG_AB: 1883
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verkehr
+BEZEICHNUNG: Dampfschiff (erstes)
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ankunft_jahr: 1825
+  funktion: "Warenverkehr (Rüdesheimer Wein hinaus in alle Welt), Tourismus"
+GUELTIG_AB: 1825
+IST_VERMUTLICH_AKTUELL: true (als historischer Meilenstein)
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: verkehr
+BEZEICHNUNG: Eisenbahn (erste)
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ankunft_jahr: 1856
+  funktion: "Warenverkehr (Rüdesheimer Wein hinaus in alle Welt), Tourismus"
+GUELTIG_AB: 1856
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: verkehr
+BEZEICHNUNG: Bahnhof Rüdesheim (Rhein)
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1854-1856
+  architekt: "Heinrich Velde"
+  linien_aktuell: "RE 9, RB 10"
+  verkehrsverbund: "Rhein-Main-Verkehrsverbund (RMV)"
+  strecke: "Rechte Rheinstrecke Frankfurt/M – Wiesbaden – Koblenz – Neuwied"
+  eisenbahnverbindung_bingerbrueck: "1862-1900 per Trajekt"
+  eisenbahnverbindung_bingen: "1915-1945 über Hindenburgbrücke (zu Kriegsende gesprengt)"
+GUELTIG_AB: 1856 (Fertigstellung)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verkehr_eisenbahn
+BEZEICHNUNG: Niederwaldbahn
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme_datum: "30. Mai 1884"
+  spurweite: "meterspurig"
+  typ: "Zahnradbahn"
+  antrieb: "dampfgetrieben"
+  strecke_länge: "2,3 km"
+  hoehendifferenz_ueberwindung: "Berg zum Niederwalddenkmal"
+  zerstörung_datum: "25. November 1944"
+  zerstörung_grund: "alliierter Luftangriff"
+  zerstörung_folge: "Gleisanlage zerstört"
+  wiederaufbau: false
+  wiederaufbau_beschluss_jahr: 1952
+  wiederaufbau_grund: "Stadtväter beschlossen nicht wieder aufzubauen"
+GUELTIG_AB: 1884
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verkehr_eisenbahn
+BEZEICHNUNG: Schmalspur-Zahnradbahn Assmannshausen–Jagdschloss
+ORTSTEIL_BEZUG: Assmannshausen
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  strecke_länge: "1,53 km"
+  spurweite: "meterspurig"
+  eroeffnung_probebetrieb: "10. Oktober 1885"
+  einstellung_grund: "Erster Weltkrieg, fehlende Touristen"
+  einstellung_jahr: 1917
+  gleisanlage_demontage: 1922
+GUELTIG_AB: 1885
+GUELTIG_BIS: 1917
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: verkehr_seilbahn
+BEZEICHNUNG: Seilbahn Rüdesheim (Kabinenseilbahn)
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  inbetriebnahme_original: 1954
+  erbauer_original: "PHB"
+  typ_original: "Kabinenseilbahn"
+  gondeln_anzahl: 85
+  gondeln_ausführung: "halboffene zweisitzige Gondeln"
+  strecke_länge: "1.400 m"
+  hoehendifferenz: "209 m"
+  zielort: "Niederwalddenkmal"
+  stilllegung: 2004
+  ersatz_erbauer: "LST/Wopfner"
+  kapazitaet_neu: "720 Personen pro Stunde und Richtung"
+GUELTIG_AB: 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: verkehr_seilbahn
+BEZEICHNUNG: Sessellift Assmannshausen
+ORTSTEIL_BEZUG: Assmannshausen
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  inbetriebnahme: 1953
+  typ: "Doppel-Sessellift"
+  strecke_länge: "900 m"
+  hoehendifferenz: "ca. 225 m"
+  zielort: "Jagdschloss Niederwald"
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: siedlung
+BEZEICHNUNG: Windeck
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1953
+  grund: "Aufnahme Vertriebener und Flüchtlinge nach Zweitem Weltkrieg"
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: siedlung
+BEZEICHNUNG: Windeck
+ORTSTEIL_BEZUG: Eibingen (als Siedlung des Ortsteils)
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_jahr: 1953
+  beschreibung_funktion: "neues Wohngebiet"
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: siedlung
+BEZEICHNUNG: Trift
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1970
+  grund: "Aufnahme Vertriebener und Flüchtlinge nach Zweitem Weltkrieg"
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: siedlung
+BEZEICHNUNG: Trift
+ORTSTEIL_BEZUG: Eibingen
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_jahr: 1970
+  beschreibung_funktion: "neues Wohngebiet"
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: siedlung
+BEZEICHNUNG: Rüdesheim-Ost
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1977
+  grund: "Aufnahme Vertriebener und Flüchtlinge nach Zweitem Weltkrieg"
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Eibingen
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1939
+  eingemeindung_kontext: "unter vorheriger Geheimhaltung von Nationalsozialisten gegen Willen der Bevölkerung"
+  siedlungen: "Windeck (1953), Trift (1970)"
+  ortsbezirk_zusammenfassung: "Alt-Rüdesheim (mit Kernstadt Rüdesheim und Eibingen)"
+  bebauung_entwicklung: "Nach Krieg mit Rüdesheim zusammengewachsen"
+  gemarkung_status: "Gemarkung Eibingen existiert, grenzt Stadtteile ab"
+  einwohnerzahl_2015: 6837 (Alt-Rüdesheim)
+  einwohnerzahl_2018: 6922 (Alt-Rüdesheim)
+GUELTIG_AB: 1939 (Eingemeindung)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Assmannshausen
+ORTSTEIL_BEZUG: Assmannshausen
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1977
+  eingemeindung_fusion_vorgaenger: "1. Oktober 1970 Fusion mit Aulhausen, dann 1. Januar 1977 Eingemeindung nach Rüdesheim"
+  ortsbezirk: ja
+  ortsbeirat: ja
+  gemarkung_grenze: "folgt seitherigen Gemarkungsgrenzen"
+  einwohnerzahl_2015: 982
+  einwohnerzahl_2018: 995
+  weinanbau_spezialität: "Spätburgunder"
+  städtepartnerschaft: "Juliénas (Frankreich) verschwistert mit Assmannshausen"
+GUELTIG_AB: 1977 (Eingemeindung)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Aulhausen
+ORTSTEIL_BEZUG: Aulhausen
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1977
+  eingemeindung_fusion_vorgaenger: "1. Oktober 1970 Fusion mit Assmannshausen, dann 1. Januar 1977 Eingemeindung nach Rüdesheim"
+  ortsbezirk: ja
+  ortsbeirat: ja
+  gemarkung_grenze: "folgt seitherigen Gemarkungsgrenzen"
+  einwohnerzahl_2015: 1195
+  einwohnerzahl_2018: 1208
+  infrastructure_arbeitgeber: "St.-Vinzenz-Stift"
+GUELTIG_AB: 1977 (Eingemeindung)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Presberg
+ORTSTEIL_BEZUG: Presberg
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1977
+  ortsbezirk: ja
+  ortsbeirat: ja
+  gemarkung_grenze: "folgt seitherigen Gemarkungsgrenzen"
+  einwohnerzahl_2015: 859
+  einwohnerzahl_2018: 870
+  hoehe: "410 m (höchstgelegener Stadtteil Rüdesheims)"
+  superlativ_hoehe: "höchstgelegener Stadtteil Rüdesheims"
+  bergrennen_veranstaltung: "letztes August-Wochenende"
+  städtepartnerschaft: "Oingt (Frankreich) verschwistert mit Presberg"
+GUELTIG_AB: 1977 (Eingemeindung)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Rudolf von Rüdesheim
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: "Rüdesheimer Patrizierfamilie, Rittergeschlecht von Rüdesheim"
+  amt_titel: "Fürstbischof"
+  amt_bistümer: "Breslau und Lavant"
+  lebenszeit: 1400-1482
+  bedeutung: "päpstlicher Gesandter"
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1482
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Rudolf von Rüdesheim
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lebenszeit: 1402-1482
+  titel: "Rittergeschlecht, bedeutendster Vertreter"
+  amt: "päpstlicher Gesandter und Fürstbischoff von Breslau"
+GUELTIG_AB: 1402
+GUELTIG_BIS: 1482
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Jacob Fidelis Ackermann
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1765-1815
+  herkunft: "bürgerliche Kreise Rüdesheims"
+  beruf: "Mediziner, wissenschaftliche Berühmtheit"
+  institution: "Universität Heidelberg"
+GUELTIG_AB: 1765
+GUELTIG_BIS: 1815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Jacob Fidelis Ackermann
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lebenszeit: 1765-1815
+  profession: "Mediziner"
+GUELTIG_AB: 1765
+GUELTIG_BIS: 1815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hildegard von Bingen
+ORTSTEIL_BEZUG: Eibingen
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lebenszeit: 1098-1179
+  werk_kloster_eibingen: "zweites Kloster gegründet (neben Rupertsberg in Bingen)"
+  gebeine_aufbewahrung: "Pfarrkirche von Eibingen"
+  theologische_bedeutung: "bedeutende Frau und Theologin des Mittelalters"
+  heiligsprechung_status: 2012
+  heiligsprechung_papst: "Benedikt XVI."
+  heiligsprechung_titel: "Erhebung in den Stand der Kirchenlehrerin"
+GUELTIG_AB: 1098
+GUELTIG_BIS: 1179
+IST_VERMUTLICH_AKTUELL: false (historisch, aber zeitlos bedeutsam)
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johannes Brahms
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lebenszeit: 1833-1897
+  profession: "Komponist"
+  aufenthaltsort: "Haus der Familie Beckerath in Rüdesheim (Oberstraße/Schmidstraße, heute Sekthaus Solter)"
+  aufenthaltszeit: 1874-1895
+  aufenthaltsart: "wiederholt zu Gast"
+  werk_entstehung: "dritte Sinfonie F-Dur op. 90 (1883, geschrieben in Wiesbaden)"
+  ereignisteilnahme: "feierliche Enthüllung des Niederwalddenkmals in Rüdesheim"
+  gedenken_veranstaltung: "Rüdesheimer Brahms-Tage" (ehemals Villa Sturm an Rheinstraße, einmal jährlich)
+GUELTIG_AB: 1833
+GUELTIG_BIS: 1897
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hugo Asbach
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lebenszeit: 1868-1935
+  beruf: "Unternehmer"
+  werk_gruendung: "deutsche Weinbrandmarke Asbach Uralt"
+  werk_gruendung_jahr: "vor 1894 (Hermann Asbach bereits 1894 als Sohn genannt)"
+GUELTIG_AB: 1868
+GUELTIG_BIS: 1935
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hermann Asbach
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lebenszeit: "18. März 1894 – 5. Mai 1966"
+  herkunft: "einer der drei Söhne von Hugo Asbach"
+  beruf: "Unternehmer"
+  unternehmung: "späterer Inhaber der Firma Asbach (Asbach Uralt)"
+  ehrenbürger_status: ja
+GUELTIG_AB: 1894
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche_koster
+BEZEICHNUNG: Abtei St. Hildegard (Benediktinerinnenabtei)
+ORTSTEIL_BEZUG: Eibingen
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lage_beschreibung: "oberhalb des Stadtteils Eibingen"
+  grundung_original: 1165
+  gruender: "Hildegard von Bingen"
+  typ_original: "Benediktinerinnenkloster (Rupertsberg in Bingen)"
+  klosterneugründung: "1904 neu gegründet als Abtei St. Hildegard"
+  äbtissin_langjährig: "Regintrudis Sauter OSB (1865-1957), 36. Äbtissin, beide Weltkriege, 47 Jahre Äbtissin"
+  äbtissin_ehrenbürger_ernennung: 1952
+  pfarrkirche_name: "St. Hildegard (hervorgegangen aus Überresten des Klosters von 1165)"
+  konzertort: ja
+  konzert_festival: "Rheingau Musik Festival"
+GUELTIG_AB: 1165 (Originalkloster)
+IST_VERMUTLICH_AKTUELL: true (neu gegründet 1904)
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Siegfrieds Mechanisches Musikkabinett
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "Erstes Deutsches Museum für Datenspeicher-Musikinstrumente"
+  ausstellungsflaeche: "über 400 qm"
+  exponatenspektrum: "Geschichte der selbstspielenden Musik aus vier Jahrhunderten (Spieluhr bis Orchestrion)"
+  besonderheit_sammlung: "einzigartige Sammlung selbstspielender Geigen (Hupfeld Phonoliszt Violina mit sechs Geigen, Hupfeld Violina Orchestra, Poppers Violinovo)"
+  besonderheit_kinoorgel: "seit 2009 Kinoorgel von Welte"
+  besonderheit_glockenspiel: "seit 1996 Porzellanglockenspiel aus Meißen mit 22 Glocken"
+GUELTIG_AB: (historisch, Details ab Gründung unklar aus Quelle)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Mittelalterliches Foltermuseum
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  ausstellungsflaeche: "1000 qm"
+  lage_beschreibung: "historische Gewölbekeller"
+  thema_fokus: "Rechtsgeschichte des Mittelalters, Zeit der Hexenverfolgung in Deutschland"
+  exponaten_sammlung: "reichhaltige Sammlung eindrucksvoller Folterwerkzeuge"
+  bildersammlung: "bekannte Meister der damaligen Zeit"
+  dokumentation: "Fotodokumentation Amnesty International zu Menschenrechtsverletzungen 20./21. Jahrhundert"
+  superlativ: "größte Ausstellung Europas zum Thema Hexen, Folter, Scheiterhaufen"
+GUELTIG_AB: (historisch, Gründungsjahr unklar)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Rheingauer Weinmuseum (Brömserburg)
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lage_burg: "Brömserburg (Niederburg)"
+  schwerpunkt: "tausendjährige Weinbaugeschichte in Deutschland mit Fokus Rheingau"
+  superlativ_lage: "älteste Burg im UNESCO-Welterbe Oberes Mittelrheintal"
+GUELTIG_AB: (historisch, Gründungsjahr unklar)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Asbach-Besucher-Center
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  exponat_focus: "Asbach-Brennerei"
+  zusatz: "Asbach-Shop"
+  unternehmung_verlagerung: "wesentliche Betriebsteile verlagert, Bedeutung durch Verlagerung gering"
+GUELTIG_AB: (historisch, Gründung unklar)
+IST_VERMUTLICH_AKTUELL: true (reduziert)
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Spielzeug- und Eisenbahnmuseum
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  eisenbahn_anlage_groesse: "51 qm"
+  eisenbahn_motiv: "Romantischer Rhein von Rüdesheim bis Koblenz im Stil 1930er-1950er Jahre"
+  eisenbahn_anzahl_loks: alle markanten Punkte am Rhein im Modell
+  exponaten_spektrum: "Kinder- und Erwachsenenspielzeug der letzten 100 Jahre (Puppen, Kaufmannsläden, Puppenküchen, Autos, Dampfmaschinen, Metallbaukästen u.a.)"
+  besonderheit_eisenbahnen: "Entwicklung der Spielzeugeisenbahnen (Uhrwerkzüge, Echtdampfzüge, elektrische Eisenbahnen)"
+GUELTIG_AB: (historisch, Gründung unklar)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: denkmal_naturraum
+BEZEICHNUNG: Osteinsche Landschaftspark Niederwald
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  entstehung_zeitraum: "18. Jahrhundert"
+  lage: "Niederwald"
+GUELTIG_AB: 1700 (ca.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: stadtbereich
+BEZEICHNUNG: Drosselgasse
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  charakteristika: "zahlreiche Weinschenken"
+  lage: Altstadt
+  wirtschaftliche_bedeutung: "konzentriert Gastronomie und Hotels"
+GUELTIG_AB: (historisch)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: naturraum
+BEZEICHNUNG: Binger Loch
+QUELLE: https://www.stadt-ruedesheim.de/seite/87037/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "gefährliches Hindernis für die Schifffahrt"
+  uebersetzbarkeit: "keineswegs unüberwindbar"
+  funktion: "natürliche Engstelle im Rhein"
+  zollburg_position: "Ehrenfels oberhalb des Binger Loches"
+GUELTIG_AB: (naturräumlich zeitlos)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: naturraum
+BEZEICHNUNG: Niederwald
+ORTSTEIL_BEZUG: (Kernort)
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  höhe: "346 m"
+  hauptattraktion: "Niederwalddenkmal mit Statue Germania"
+  landschaftspark: "Osteinsche Landschaftspark (18. Jahrhundert)"
+  wanderweg_durchgang: "Rheinsteig von Wiesbaden über Koblenz nach Bonn"
+GUELTIG_AB: (naturräumlich)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verkehr_infrastruktur
+BEZEICHNUNG: Rheinufer
+QUELLE: https://https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  schiffslandebrücken: "20 Schiffslandebrücken für verschiedene Schifffahrtsgesellschaften auf über 1 km Länge"
+  schiffsverkehr_saisonalität: "April bis Ende Oktober täglich Personenschiffe Mainz/Wiesbaden – Köln/Koblenz"
+  flusskreuzfahrten: "Basel – Rotterdam"
+  fährverbindung_bingen: "Rheinfähre Bingen–Rüdesheim (dicht getaktet)"
+  hafenpark: "entstanden aus Umgestaltung ehemaligen Leinpfades und Uferbefestigungen, Teil Route Welterbe-Gärten UNESCO-Welterbe"
+GUELTIG_AB: (historisch)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Rüdesheimer Weinfest
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  zeitpunkt: "drittes August-Wochenende"
+  besonderheit_krönung: "traditionelle Krönung der Weinkönigin und ihrer Prinzessinnen"
+  königin_funktion: "Repräsentation der Stadt und ihres Weines bei Veranstaltungen"
+GUELTIG_AB: (historisch, Gründung unklar)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Rhein in Flammen
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  zeitpunkt: "erster Samstag im Juli"
+GUELTIG_AB: (historisch)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Meursault
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt_land: Frankreich
+  partnerschaftsart: "Partnerschaftliche Beziehung"
+GUELTIG_AB: (unklar aus Quelle)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Juliénas
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt_land: Frankreich
+  partnerschaftsart: "Verschwisterung mit Stadtteil Assmannshausen"
+GUELTIG_AB: (unklar aus Quelle)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Oingt
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt_land: Frankreich
+  partnerschaftsart: "Verschwisterung mit Stadtteil Presberg"
+GUELTIG_AB: (unklar aus Quelle)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Mezőkövesd
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt_land: Ungarn
+  partnerschaftsart: "Partnerschaftliche Beziehung"
+GUELTIG_AB: (unklar aus Quelle)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Swanage
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt_land: "Vereinigtes Königreich"
+  partnerstadt_region: Dorset
+  partnerschaftsart: "Partnerschaftliche Beziehung"
+GUELTIG_AB: (unklar aus Quelle)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Serra Sant'Abbondio
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt_land: Italien
+  partnerschaftsart: "Partnerschaftliche Beziehung"
+GUELTIG_AB: (unklar aus Quelle)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Klaus Zapp
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit_von: 2020
+  amtszeit_bis: 2026
+  amtszeit_nachfolger: "Dirk Stuckert (parteiunabhängig)"
+  nachfolger_wahl: "7. September 2025"
+  nachfolger_wahlbeteiligung: "49,7 %"
+  nachfolger_stimmanteil: "56,5 %"
+GUELTIG_AB: 2020
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false (Amtszeit endet 2026)
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Dirk Stuckert
+QUELLE: https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit_von: 2026
+  amtszeit_bis: 2032
+  parteiaffiliation: parteiunabhängig
+  wahl_datum: "7. September 2025"
+  wahlbeteiligung: "49,7 %"
+  stimmanteil: "56,5 %"
+  amtsantritt: "1. Februar 2026"
+  vorgänger: "Klaus Zapp"
+GUELTIG_AB: 2026
+GUELTIG_BIS: 2032
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90

@@ -1,0 +1,772 @@
+ZIELORT: St. Goarshausen (Stadt)
+LAGE: 24 km südöstlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Sankt Goarshausen
+
+GRUNDDATEN:
+  landkreis: Rhein-Lahn-Kreis  [dewiki Infobox]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 1242  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 7,06  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 176  [berechnet aus Einwohner und Fläche]
+  hoehe_m: 100 | 162 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2841609)]
+  naechste_grossstadt: Koblenz, 24 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 45 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  ersterwaehnung: 1222  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  bahnhof: Bahnhof St. Goarshausen, Kleinbahnhof St. Goarshausen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 56346  [Wikidata P281]
+  vorwahl: 06771  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,2 %, SPD 25 %, AfD 15,7 %, GRÜNE 8,5 %, Die Linke 5,6 %; Wahlbeteiligung 85,4 % — GILT FÜR DIE VERBANDSGEMEINDE LORELEY  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: vakant (geschäftsführend: Daniel Daum, 1.&nbsp;Beigeordneter) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-03]
+  partnerstaedte: Inuyama  [Wikidata P190]
+  kfz: TR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand staedte.json]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT landkreis: Landkreis (Ersatz: Kennzeichen), A, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Kaub (Stadt)
+  landkreis: Rhein-Lahn-Kreis  [dewiki Infobox]
+  einwohner: 758  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 13,05  [Wikidata P2046; Altbestand staedte.json]
+  kfz: EMS (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 74 | 77  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2892101)]
+  naechste_grossstadt: Koblenz, 32 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Kaub  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,2 %, SPD 25 %, AfD 15,7 %, GRÜNE 8,5 %, Die Linke 5,6 %; Wahlbeteiligung 85,4 % — GILT FÜR DIE VERBANDSGEMEINDE LORELEY  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Kenzingen, Achern, Rastatt, Eltville am Rhein, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Braubach, Vallendar
+
+FAKTEN (Zielort St. Goarshausen):
+ID: 08-st-goarshausen/001
+ENTITÄT: ort
+BEZEICHNUNG: St. Goarshausen
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: "benannt nach dem aquitanischen Mönch Goar, der sich im 6. Jahrhundert am Rhein niederließ"
+  erste_urkundliche_erwähnung: 1222
+  erste_erwähnung_als: "bona villa" (schönes Dorf) auf dem rechten Rheinufer gegenüber Sankt Goar
+  historische_namen: "Guereshusen" (13. Jahrhundert), "Husen" (1276/77), "Sant Gewershusen"
+  stadtrechte_verliehen: 1324
+  verleihende_autorität: König Ludwig der Bayer
+  rechte_quelle: "Rechte und Freiheiten der Stadt Frankfurt"
+  lokalisierung: "rechtes Rheinufer des Rheins, am Fuße des weltberühmten Loreleyfelsens"
+  gegenüber_stadt: Sankt Goar (Schwesterstadt)
+  herrschaft_500_jahre: "Niedergrafschaft Katzenelnbogen" (von 1284 ab)
+  amtlich_zur_stadt: 1816
+  administrative_funktion_1816: "Amtssitz im Herzogtum Nassau"
+  kreis_gründung: 1885
+  kreis_name: "Kreis Sankt Goarshausen"
+  kreis_auflösung: 1969
+  kreis_dauer: "85 Jahre"
+  verbandsgemeinde_seit_1969: "Loreley"
+  namensänderung: 1993
+  neuer_offizieller_name: "Loreleystadt Sankt Goarshausen"
+  grund_namensänderung: "Anspielung auf Wahrzeichen Loreley-Sage und Naturdenkmal"
+  bundesland: "Rheinland-Pfalz"
+  kreis_zugehörigkeit: "Rhein-Lahn-Kreis"
+  postleitzahl: "56346"
+  vorwahl: "06771"
+  kfz_kennzeichen: "EMS oder GOH"
+  höhe_ü_nn: "100 m"
+  entfernung_koblenz: "ca. 30 km"
+  fläche: 7 [km²]
+  bevölkerung_1587: "39 Familien, ca. 210 Einwohner"
+  bevölkerung_1798: 411 [Einwohner]
+  bevölkerung_früh_20jh: "über 2.000 Einwohner"
+  bevölkerung_2008: 1352 [Einwohner]
+  bevölkerungsdichte_2008: 193 [Einwohner/km²]
+  pest_1635: "178 von ca. 250 Einwohnern starben"
+  pest_kontext: "Dreißigjähriger Krieg"
+  stadtteile: "Heide, Wellmich, Ehrenthal"
+  stadtteile_seit: 1969
+  historische_lebensgrundlagen: "Fischfang und Weinbau"
+  wichtigster_wirtschaftszweig: "Tourismus"
+  grund_tourismus: "Loreley als Hauptanziehungspunkt; keine bedeutende Industrie möglich im engen Rheintal"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-st-goarshausen/002
+ENTITÄT: person
+BEZEICHNUNG: Goar (Heiliger)
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: "aquitanisch"
+  zeitraum_ansiedlung: 6. Jahrhundert
+  tätigkeit: "Mönch"
+  aktivität: "niedergelassen am Rhein"
+  nachfolge: "Klosteranlage entstand über seinem Grab"
+  status: "später als Heiliger verehrt"
+  verehrung: "Patron, nach dem die Stadt benannt wurde"
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 500
+GUELTIG_BIS: 700
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/003
+ENTITÄT: klosteranlage
+BEZEICHNUNG: Kloster um Goars Grab
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: "Frühmittelalter"
+  über_grab: "Heiliger Goar"
+  schenkung_jahr: 765
+  geschenkt_von: "Karl der Große"
+  empfänger: "Klosterabtei Prüm"
+  ursprünglicher_besitzer_recht: "Erzstift Trier"
+GUELTIG_AB: 700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 08-st-goarshausen/004
+ENTITÄT: person
+BEZEICHNUNG: Karl der Große
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: "schenkte 765 die Klosteranlage um Goars Grab der Klosterabtei Prüm"
+  jahr: 765
+GUELTIG_AB: 765
+GUELTIG_BIS: 765
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/005
+ENTITÄT: person
+BEZEICHNUNG: Ludwig von Isenburg
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: "versprach seiner Tochter Irmgard den größten Teil seiner mittelrheinischen Besitzungen als Mitgift"
+  jahr: 1276-1277
+  mitgift_umfang: "größter Teil der mittelrheinischen Besitzungen einschließlich Husen apud sanctum Goarem"
+  tochter: "Irmgard"
+GUELTIG_AB: 1276
+GUELTIG_BIS: 1277
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/006
+ENTITÄT: person
+BEZEICHNUNG: Irmgard von Isenburg
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vater: "Ludwig von Isenburg"
+  mitgift: "größter Teil der mittelrheinischen Besitzungen, einschließlich Husen apud sanctum Goarem"
+  heirat_jahr: 1284
+  ehemann: "Wilhelm I. von Katzenelnbogen"
+  erhalt_güter: "von ihrem Großvater Heinrich I."
+  erhalt_lehenstitel: "von Trier"
+GUELTIG_AB: 1276
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/007
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm I. von Katzenelnbogen
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heirat_jahr: 1284
+  ehefraue: "Irmgard von Isenburg"
+  erwerb: "St. Goarshausen als Trierer Lehen durch Heirat"
+  aktion_1302: "verpfändete eine Rente von Untertanen in Husen"
+  burg_erbauung: "Burg Reichenberg (nach Heirat)"
+GUELTIG_AB: 1284
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/008
+ENTITÄT: person
+BEZEICHNUNG: Ludwig der Bayer (König)
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: "verlieh St. Goarshausen Stadtrechte und Schutz"
+  datum_aktion: "20. Januar 1324"
+  rechte: "Rechte und Freiheiten der Stadt Frankfurt"
+  grund: "auf Bitte von Graf Wilhelm von Katzenelnbogen"
+GUELTIG_AB: 1324
+GUELTIG_BIS: 1324
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-st-goarshausen/009
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm II. von Katzenelnbogen
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/sankt-goarshausen.html | Landesportal
+EIGENSCHAFTEN:
+  aktion: "erhielt 1358 von Kaiser Karl IV. die Erlaubnis, in St. Goarshausen einen Zoll einzurichten"
+  jahr: 1358
+  zoll_beseitigung: "1378 durch Trierer Erzbischof aufgehoben"
+GUELTIG_AB: 1358
+GUELTIG_BIS: 1378
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/010
+ENTITÄT: gebaeude
+BEZEICHNUNG: Stadtmauer
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1324
+  grund: "zum Schutz der neu erbobenen Stadt"
+  bestandteile: "Mauer und zwei Türme"
+  zustand: "Reste bis heute erhalten"
+  flankierung: "Altstadt am Fuße der Burg Katz"
+GUELTIG_AB: 1324
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/011
+ENTITÄT: gebaeude
+BEZEICHNUNG: Runder Turm
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.sankt-goarshausen.de/sehenswürdigkeiten/altstadt/gebäude/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe: 22.60 [m]
+  lage: "Nordwesten der ehemaligen Stadtmauer"
+  funktion_mittelalter: "Bollwerk und Abschluss"
+  neigung_nord: 63 [cm]
+  neigung_ost: 41 [cm]
+  heutige_funktion: "Uhrturm"
+  konstruktion: "noch heute in Betrieb"
+GUELTIG_AB: 1324
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-st-goarshausen/012
+ENTITÄT: gebaeude
+BEZEICHNUNG: Historischer Stadt-Turm (Viereckiger Turm, Osttor)
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.sankt-goarshausen.de/sehenswürdigkeiten/altstadt/gebäude/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhe: 34 [m]
+  erbauung: "ca. 1324"
+  grund_erbauung: "mit Errichtung der Stadtmauer"
+  ursprüngliche_funktion: "Wehr- und Wohnbau, Wachturm (Osttor)"
+  funktion_bis_15jh: "Zollturm der Grafen von Katzenelnbogen"
+  heutige_nutzung: "Loreley-Museum"
+  museum_objekte: "Wein- und Trinkkultur, Gläsersammlung aus 3 Jahrhunderten"
+  zusatz_weinstube: "ehemalige Weinstube im Turmverließ und Wachstube"
+GUELTIG_AB: 1324
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-st-goarshausen/013
+ENTITÄT: ort
+BEZEICHNUNG: Burg Katz
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: "Graf Wilhelm I. von Katzenelnbogen"
+  erbauung_beginn: "ca. 1360"
+  fertigstellung: 1371
+  lage: "gegenüberliegendes rechtes Rheinufer, hoch über St. Goarshausen"
+  volksmundlicher_name: "Katz" (als Teil von "Katz und Maus")
+  funktion: "Schutz der Stadt St. Goarshausen"
+  status: "liegt am Fuße der Stadt"
+  zweiter_weltkrieg: "während Nationalsozialismus als Führerschule des Reichsarbeiterdienstes genutzt"
+GUELTIG_AB: 1360
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/014
+ENTITÄT: wirtschaft
+BEZEICHNUNG: Salmfang
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: "jahrhundertelang bis vor Zweitem Weltkrieg"
+  orte: "Waag oder Woog genannt, Nähe Loreley"
+  bedeutung: "einträgliches Geschäft für die Fischer"
+  qualität_fische: "von solcher Qualität, dass sie sogar im Ausland Absatz fanden"
+  anzahl_fischer_1800: 44 [Fischer]
+  letzte_fänge: "vor Zweitem Weltkrieg"
+  grund_aussterben: "zunehmende Rheinschifffahrt, Ausbau des Stroms und Wasserverschmutzung"
+  ältestes_dokument: "Pachtvertrag vom 26. Mai 1387"
+  anzahl_fischer_enddatum: 4
+  namen_letzte_fischer: "Ernst Greiff, Stefan Lauer, Hans Rüdel, Wilhelm Kaiser"
+  fischer_kriegsende: "mussten Ende 2. Weltkrieg an die Front; nur Ernst Greiff kehrte nicht heim"
+  gemeinsamer_name: "Silber des Rheins"
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/015
+ENTITÄT: institution
+BEZEICHNUNG: Gericht Sant Gewershusen
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zusammensetzung: "bildete zusammen mit Patersberg eine iurisdictio"
+  erste_erwähnung: 1313
+  zuständigkeit: "Rechtsprechung in bürgerlichen und niederen Strafsachen"
+  sitzungsfrequenz: "zweimal jährlich"
+  leitung: "Schultheiß (herrschaftlicher Beamter mit Polizeibefugnissen und Aufsicht über Gemeindeverwaltung)"
+  erster_schultheiss_name: "Herr Tiele"
+  erster_schultheiss_dokumentation: "16. Februar 1327 (Beurkundung eines Pachtvertrags)"
+GUELTIG_AB: 1313
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/016
+ENTITÄT: siegel
+BEZEICHNUNG: Gemeinsames Siegel der Schöffen in Husen
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inschrift: "sigillium commune scabinorum in husen"
+  inschrift_deutsch: "gemeinsames Siegel der Schöffen in Husen"
+  erste_nachweisbarkeit: "ab 1380"
+  wappenmotiv: "noch heute verwendet"
+GUELTIG_AB: 1380
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/017
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.sankt-goarshausen.de/sehenswürdigkeiten/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1860-1863
+  lage: "Rheinstraße"
+  merkmale: "hoher, schlanker Turm"
+  status: "markantes Wahrzeichen der Loreleystadt"
+GUELTIG_AB: 1860
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-st-goarshausen/018
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johannes der Täufer
+QUELLE: https://www.sankt-goarshausen.de/sehenswürdigkeiten/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: "katholisch"
+  fertigstellung: 1925
+  material: "Bruchstein"
+  besonderheit: "kuppelhaubiger Glockenturm"
+  innenausstattung: "Deckengemälde nach der Schule Lukas Cranach"
+  status: "verleiht dem Stadtbild eine eigene Note"
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-st-goarshausen/019
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+QUELLE: https://www.sankt-goarshausen.de/sehenswürdigkeiten/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: "katholisch"
+  erste_urkundliche_erwähnung: 1042
+  lage: "am Fuße der Burg Maus"
+  besonderheit: "gotische Fresken an der nördlichen Langhauswand"
+GUELTIG_AB: 1042
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-st-goarshausen/020
+ENTITÄT: gebaeude
+BEZEICHNUNG: Altes Rathaus
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.sankt-goarshausen.de/sehenswürdigkeiten/altstadt/gebäude/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1545
+  lage: "Am Plan (früherer Marktplatz)"
+  ursprüngliche_funktion: "Amtsstube des Bürgermeisters, Rathaussaal, Wachstube"
+  sanierung: "durch Bürgerinitiative"
+  heutige_funktion: "Ausstellungen, Feiern, Trauzimmer"
+  status: "unter Denkmalschutz"
+GUELTIG_AB: 1545
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-st-goarshausen/021
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Ernst der Salmfischer
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.sankt-goarshausen.de/sehenswürdigkeiten/altstadt/figuren/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "lebensgroße Bronzeplastik"
+  künstlerin: "Jutta Reiss"
+  bronzeguss: "Skulptur Manufaktur Jörg Rohr in Niefern-Öschelbronn"
+  einweihung: "29. September 2012"
+  lage: "vor dem Alten Rathaus in der Altstadt"
+  basis_person: "Ernst Greiff (einer der letzten vier Salmfischer von St. Goarshausen, starb im 2. Weltkrieg, kehrte nicht heim)"
+  weitere_salmfischer_paten: "Stefan Lauer, Hans Rüdel, Wilhelm Kaiser"
+  symbolik_1: "steht stellvertretend für Menschen mit freundlicher Lebensart am Rhein"
+  symbolik_2: "erinnert an Männer und Jungen, die im Krieg nicht zurückkamen"
+  symbolik_3: "symbolisiert den Salm (Silber des Rheins) und menschlichen Umgang mit der Natur"
+  namensherkunft_1: "Ernst Greiff (Salmfischer)"
+  namensherkunft_2: "Ernst für ernsten Umgang mit der Natur und Rheinsalm"
+  organisator: "Bürgerinitiative Altstadt St. Goarshausen"
+  initiatoren_recherche: "Initiative Lachs 2000"
+GUELTIG_AB: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-st-goarshausen/022
+ENTITÄT: organisation
+BEZEICHNUNG: Bürgerinitiative Altstadt St. Goarshausen
+QUELLE: https://www.sankt-goarshausen.de/sehenswürdigkeiten/altstadt/figuren/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: "7. Juli 1995"
+  arbeitsfelder: "Rückbesinnung auf Traditionen (Weinbau, Salmfang, Ziegenzucht), bürgerschaftliches Engagement"
+  projekte: "Recherchen, Ausstellungen, Broschüre zum Salmfang, Schild Heimat der Salmfischer, Modell einer Salmwaage, Bronzeplastik Ernst der Salmfischer"
+  entscheidung_2008: "Entschluss, das Thema des Salmfanges an der Loreley in Erinnerung zu rufen"
+  finanzierung: "Spenden aus der Bürgerschaft"
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/023
+ENTITÄT: gebaeude
+BEZEICHNUNG: Stadtmühle Maus
+QUELLE: https://www.sankt-goarshausen.de/sehenswürdigkeiten/stadtmühle/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betrieb: 1847-1972
+  betreiber_familie: "Maus"
+  heutige_nutzung_teil1: "Wohnungen, Arztpraxis, Friseur (vorderes Gebäude an Rheinstraße)"
+  heutige_nutzung_teil2: "Galerie Stadtmühle (hinteres Gebäude, dort war früher alte katholische Kirche)"
+GUELTIG_AB: 1847
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/024
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Baumskulptur (Robinie)
+QUELLE: https://www.sankt-goarshausen.de/sehenswürdigkeiten/baumskulptur/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baum_art: "Robinie"
+  fällung_jahr: 2003
+  grund_fällung: "Astbruchgefahr"
+  umgestaltung: "gekürzt auf ca. 4 m Höhe"
+  gestaltung_technik: "Baumstumpf durch zwei Forstwirtschaftsmeister mit Motorkettensägen gestaltet"
+  finanzierung: "Spenden aus der Bürgerschaft"
+  besonderheit: "Motiv auf Postkarten"
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/025
+ENTITÄT: gebaeude
+BEZEICHNUNG: Häusener Kran (Verladekran)
+QUELLE: https://www.sankt-goarshausen.de/sehenswürdigkeiten/kran-im-rheinvorgelände/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: "100 Jahre"
+  denkmalschutz: 2002
+  betrieb_dauer: 82 [Jahre]
+  betrieb_ende: 1999
+  lage: "Rheinufer, St. Goarshausen"
+  charakter: "Hafenkran mit industriellem Charme"
+  restauration_geplant: 2018
+  restauration_status: "Sanierung 2018 umgesetzt"
+  workshop: "19.-20.02.2018 (Neugestaltung des Krangeländes)"
+  besonderheit: "Aufwertungsmöglichkeit für Hafenareal"
+GUELTIG_AB: 1899
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/026
+ENTITÄT: ortsteil
+BEZEICHNUNG: Heide
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/stadtteile/stadtteil-heide/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_beginn: 1963
+  grund_gründung: "begrenzter Platz im Rheintal, Mangel an Bauplätzen im Stadtkern"
+  lage: "Hühnerberg, unmittelbare Nähe Loreleyfelsen"
+  status: "jüngster Ortsteil von St. Goarshausen"
+  initialentwicklung_1963: "Siedlungsgebäude der evangelischen Wohnungsbaugenossenschaft"
+  schulzentrum_grundstein: "November 1969"
+  schulzentrum_richtfest: 1970
+  schulzentrum_inbetriebnahme: 1971
+  schulzentrum_name: "Loreleyschule (Mittelpunktschule)"
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-st-goarshausen/027
+ENTITÄT: schule
+BEZEICHNUNG: Loreleyschule
+ORTSTEIL_BEZUG: Heide
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/stadtteile/stadtteil-heide/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "Mittelpunktschule"
+  grundstein: "November 1969"
+  richtfest: 1970
+  unterrichtsbeginn: "Sommer 1971"
+  standort_vorher: unbekannt
+  standort_nachher: "Neubaugebiet Heide"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-st-goarshausen/028
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wellmich
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/stadtteile/stadtteil-wellmich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rheinkilometer: 559
+  lage: "nördlich des Hauptortes St. Goarshausen"
+  besonderheit: "Schiffermast (Tradition der Rheinschifffahrt)"
+  erste_urkundliche_erwähnung: 1042
+  vermutete_gründung: "Übereignung eines Hofes von Heinrich III an seinem Kaplan in loco Walmichi"
+  historischer_besitz_12jh: "Grafen von Arnstein"
+  historischer_besitz_später: "Nassau"
+  besitz_wechsel_1358: "Erzbischof Boemund II. (Kurfürstentum Trier)"
+  grund_wechsel: "geschickte Politik des Kurfürstentums Trier"
+  kaiser_genehmigung: "Kaiser Karl IV. genehmigte 1356 dem Erzbischof Boemund den Bau von zwei Burgen"
+  burgen_erbauung: "Burg Peterseck und Befestigung Wellmich (ab 1356)"
+  burgen_katzenelnbogen: "Burg Neukatzenelnbogen (hoch über St. Goarshausen, Gegenreaktion)"
+  volksmundlicher_name: "Katz und Maus (zwei Burgen hoch über dem Rhein)"
+  eingemeindung_ehrenthal: "1. April 1933 (Ehrenthal wurde eingemeindet)"
+  eingemeindung_status: "letzte Vergrößerung 1933"
+  verwaltungsreform_1969: "beendete Eigenständigkeit Wellmichs"
+  eingemeindung_hauptort: 1969
+  zielort: "Stadtverband St. Goarshausen"
+  schulschließung: 1969
+  hochwasser_2016: "Starkregenfront im Frühjahr 2016 überflutete den Ort"
+  hochwasser_folgen: "Bachbett konnte Wassermassen nicht aufnehmen, Ganze Straßenzüge überflutet"
+  straße_l334: "1923 von Wellmich nach Dahlheim gebaut"
+  straße_2016_schaden: "2016 unterspült und teilweise weggerissen"
+  sanierung_l334: "Fertigstellung nicht vor 2026 (Stand 21.09.2022)"
+GUELTIG_AB: 1042
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/029
+ENTITÄT: burg
+BEZEICHNUNG: Burg Peterseck
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/stadtteile/stadtteil-wellmich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: "Erzbischof Boemund II. (Kurfürstentum Trier)"
+  erbauung_beginn: 1356
+  grund_erbauung: "Sicherung des Territoriums"
+  besitzer: "Kurfürstentum Trier"
+  volksmundlicher_name: "Teil von Katz und Maus"
+  lage: "rechtes Rheinufer"
+GUELTIG_AB: 1356
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/030
+ENTITÄT: burg
+BEZEICHNUNG: Burg Neukatzenelnbogen
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/stadtteile/stadtteil-wellmich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: "Graf Wilhelm I. von Katzenelnbogen"
+  erbauung_beginn: 1356
+  grund_erbauung: "Gegenreaktion auf Burg Peterseck"
+  lage: "hoch über St. Goarshausen, rechtes Rheinufer"
+  volksmundlicher_name: "Burg Katz"
+  teil_von: "Katz und Maus (zwei Burgen hoch über dem Rhein)"
+GUELTIG_AB: 1356
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/031
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ehrenthal
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/stadtteile/stadtteil-ehrenthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  größe: "kleinster Ortsteil von St. Goarshausen"
+  historische_erwähnung: 881
+  historischer_name: "Erintra"
+  dokument_erwähnung: "Urkunde der Abtei Prüm"
+  ursprüngliche_form: "Wein- und Hofgut"
+  besonderheit: "Gasthauskirche mit jahrhundertealter Tradition"
+  weinbau_bedeutung: "starke Bedeutung in Ehrenthal"
+  klöster_besitzer: "Abtei Siegburg, Marienberg in Boppard, Kloster Schönau, Gronau (betrieben Weinbau)"
+  gasthauskirche_erste_erwähnung: 15. [Jahrhundert]
+  gasthauskirche_form: "Hofgut mit Kapelle"
+  dreißigjähriger_krieg: "großer Teil des Ortes (rheinabwärts) verschwand"
+  familien_1680: 7
+  bergbau_erz: "Blei- und Silbererz"
+  bergbau_gruben: "Knabensprung, Mädchensprung, Neuersprung"
+  bergbau_beginn: 1760
+  abraumhalden: "noch heute sichtbar"
+  bevölkerung_1827: 124
+  bevölkerung_1895: 89
+  bevölkerung_1991: 38
+  bevölkerungstrend: "stetiger Einwohnerschwund"
+  eigenverwaltung_ende: 1934
+  eingemeindung_1933: "zu Wellmich (bereits erwähnt als Vergrößerung Wellmichs)"
+  eingemeindung_1969: "zu St. Goarshausen"
+  kapelle_zerstörung: "1945 im Zweiten Weltkrieg zerstört"
+  kapelle_wiederaufbau: "durch Eigeninitiative der Einwohner"
+  ortszufahrt: "1976 Bau einer neuen Ortszufahrt (Bürgerinitiative)"
+  instandhaltung_wege: "durch Engagement der Bevölkerung"
+GUELTIG_AB: 881
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/032
+ENTITÄT: kirche
+BEZEICHNUNG: Gasthauskirche
+ORTSTEIL_BEZUG: Ehrenthal
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/stadtteile/stadtteil-ehrenthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung: "15. Jahrhundert"
+  ursprüngliche_form: "Hofgut mit Kapelle"
+  tradition: "jahrhundertelang vorhanden"
+  grund_tradition: "Weinbau hatte starke Bedeutung in Ehrenthal"
+  zerstörung_1945: "Zweiter Weltkrieg"
+  wiederaufbau: "durch Eigeninitiative der Einwohner"
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/033
+ENTITÄT: wirtschaft
+BEZEICHNUNG: Bergbau Ehrenthal
+ORTSTEIL_BEZUG: Ehrenthal
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/stadtteile/stadtteil-ehrenthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erz_typ: "Blei- und Silbererz"
+  gruben_namen: "Knabensprung, Mädchensprung, Neuersprung"
+  beginn: 1760
+  abraumhalden: "noch heute erinnern sie an den Abbau"
+  folgen: "Arbeitsmöglichkeiten für Bevölkerung, konnte jedoch Einwohnerschwund nicht aufhalten"
+GUELTIG_AB: 1760
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/034
+ENTITÄT: person
+BEZEICHNUNG: Ernst Greiff
+QUELLE: https://www.sankt-goarshausen.de/sehenswürdigkeiten/altstadt/figuren/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Salmfischer"
+  status: "einer der letzten vier Salmfischer von St. Goarshausen"
+  zeit: "bis ca. 1936"
+  kriegsteilnahme: "musste Ende 2. Weltkrieg an die Front"
+  schicksal: "kehrte nicht heim"
+  weitere_fischer: "Stefan Lauer, Hans Rüdel, Wilhelm Kaiser"
+  kunstwerk: "Bronzeplastik Ernst der Salmfischer eingeweiht 29.09.2012"
+  kunstwerk_künstlerin: "Jutta Reiss"
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/035
+ENTITÄT: ereignis
+BEZEICHNUNG: Pest in St. Goarshausen
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1635
+  kontext: "Dreißigjähriger Krieg"
+  todesfälle: 178
+  bevölkerung_gesamt: "ca. 250"
+  mortalitätsrate: "ca. 71%"
+GUELTIG_AB: 1635
+GUELTIG_BIS: 1635
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-st-goarshausen/036
+ENTITÄT: ereignis
+BEZEICHNUNG: Eisenbahnbau
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1859-1862
+  folgen_wohnhäuser: "16 Wohnhäuser im Obertal mussten geopfert werden"
+  entwicklung: "neues Geschäftsviertel rund um Bahnhof"
+GUELTIG_AB: 1859
+GUELTIG_BIS: 1862
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-st-goarshausen/037
+ENTITÄT: ereignis
+BEZEICHNUNG: Kreis Sankt Goarshausen
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/geschichte-von-st-goarshausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1885
+  auflösung: 1969
+  dauer: 85 [Jahre]
+  grund_auflösung: "Bildung des Rhein-Lahn-Kreises"
+  amtssitz: "Sankt Goarshausen"
+  amtssitz_dauer: 85 [Jahre]
+  nachfolge: "Sitz der Verbandsgemeindeverwaltung Loreley"
+GUELTIG_AB: 1885
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-st-goarshausen/038
+ENTITÄT: ereignis
+BEZEICHNUNG: Zweiter Weltkrieg - Auswirkungen St. Goarshausen
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/sankt-goarshausen.html | Landesportal
+EIGENSCHAFTEN:
+  schaden: "starke Brand- und Bombenschäden"
+  folge: "langer Wiederaufbau"
+  besatzung_nachher: "französische Besatzungszone"
+  burg_katz_nutzung: "während Nationalsozialismus als Führerschule des Reichsarbeiterdienstes genutzt"
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/039
+ENTITÄT: ereignis
+BEZEICHNUNG: Gründung Bundesland Rheinland-Pfalz
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/sankt-goarshausen.html | Landesportal
+EIGENSCHAFTEN:
+  jahr: 1946
+  folge: "St. Goarshausen gehört seitdem zu Rheinland-Pfalz"
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1946
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-st-goarshausen/040
+ENTITÄT: ereignis
+BEZEICHNUNG: Verwaltungsreform - Rhein-Lahn-Kreis Gründung
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/sankt-goarshausen.html | Landesportal
+EIGENSCHAFTEN:
+  jahr: 1969
+  folgen: "Auflösung Kreis Sankt Goarshausen, Gründung Rhein-Lahn-Kreis"
+  st_goarshausen_rolle: "Sitz der Verbandsgemeindeverwaltung Loreley"
+  ortsteil_integration: "Ehrental und Wellmich zu Stadtteilen"
+GUELTIG_AB: 1969
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-st-goarshausen/041
+ENTITÄT: ereignis
+BEZEICHNUNG: Namensänderung St. Goarshausen
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/sankt-goarshausen.html | Landesportal
+EIGENSCHAFTEN:
+  datum: "27. September 1993"
+  alter_name: "St. Goarshausen"
+  neuer_name: "Loreleystadt Sankt Goarshausen"
+  grund: "Anspielung auf Wahrzeichen Loreley-Sage und zugehöriges Naturdenkmal"
+GUELTIG_AB: 1993
+GUELTIG_BIS: 1993
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 08-st-goarshausen/042
+ENTITÄT: landschaft
+BEZEICHNUNG: Loreleyfelsen (Naturdenk mal)
+QUELLE: https://www.sant-goarshausen.de/stadt-st-goarshausen/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: "weltberühmter Loreleyfelsen"
+  lage: "unmittelbare Nähe Ortsteil Heide"
+  stellung: "Hauptanziehungspunkt der Stadt (Tourismus)"
+  status: "Naturdenkmal"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 08-st-goarshausen/043
+ENTITÄT: institution
+BEZEICHNUNG: Verbandsgemeinde Loreley
+QUELLE: https://www.sankt-goarshausen.de/stadt-st-goarshausen/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1969
+  sitz: "Sankt Goarshausen"
+  grund_gründung: "Ausgleich für Verlust der Verwaltungseinrichtungen des aufgelösten Kreises Sankt Goarshausen"
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+

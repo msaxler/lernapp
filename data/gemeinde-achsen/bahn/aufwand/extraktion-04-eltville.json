@@ -1,0 +1,33 @@
+{
+ "stufe": "extraktion",
+ "ort": "04-eltville",
+ "modell_wunsch": "haiku",
+ "modelle": [
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 36353,
+ "token_ein": 18505,
+ "token_aus": 17349,
+ "usage": {
+  "input_tokens": 9,
+  "cache_creation_input_tokens": 18496,
+  "cache_read_input_tokens": 0,
+  "output_tokens": 17349,
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 18496,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "",
+  "iterations": [],
+  "speed": "standard"
+ },
+ "kosten_usd": 0.109874,
+ "sekunden": 139,
+ "fehler": false,
+ "zeit": "2026-10-03T13:38:32"
+}

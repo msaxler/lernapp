@@ -1,0 +1,856 @@
+ZIELORT: Kaub (Stadt)
+LAGE: 32 km südöstlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Kaub
+
+GRUNDDATEN:
+  landkreis: Rhein-Lahn-Kreis  [dewiki Infobox]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 758  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 13,05  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 58  [berechnet aus Einwohner und Fläche]
+  kfz: EMS (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 74 | 77  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2892101)]
+  naechste_grossstadt: Koblenz, 32 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 39 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Kaub  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 56349  [Wikidata P281]
+  vorwahl: 06774  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,2 %, SPD 25 %, AfD 15,7 %, GRÜNE 8,5 %, Die Linke 5,6 %; Wahlbeteiligung 85,4 % — GILT FÜR DIE VERBANDSGEMEINDE LORELEY  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Bernd Vogt — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-03]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C-LEITER, letzte Stufe mit "höher": 2
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Landkreis), C, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Lorch (Stadt)
+  landkreis: Rheingau-Taunus-Kreis  [dewiki Infobox]
+  einwohner: 3802  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 54,43  [Wikidata P2046]
+  hoehe_m: 89 | 79 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox]
+  naechste_grossstadt: Wiesbaden, 32 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  ersterwaehnung: 1085 | 1211 — MEHRERE WERTE  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  bahnhof: Bahnhof Lorchhausen, Haltepunkt Lorch (Rhein)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 37,6 %, SPD 18,4 %, AfD 16,6 %, GRÜNE 9,8 %, Die Linke 5,4 %; Wahlbeteiligung 84 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Kenzingen, Achern, Rastatt, Eltville am Rhein, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Braubach, Vallendar
+
+FAKTEN (Zielort Kaub):
+ID: 07-kaub/001
+ENTITÄT: ort
+BEZEICHNUNG: Kaub
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwahnung_urkundlich: 14. Juni 983
+  ersterwahnung_name: Cuba
+  standardisierte_schreibweise_seit: 1934
+  stadtrechte_verliehen: 23. März 1324
+  stadtrechte_verleiher: Pfalzgraf Ludwig IV. (der Bayer)
+  stadtrech_vorbild: Stadt Boppard
+GUELTIG_AB: 983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 07-kaub/002
+ENTITÄT: ort
+BEZEICHNUNG: Kaub
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft_1: keltisch "Cabi" (kleines Haus)
+  namensherkunft_2: lateinisch "cubile" (Lagerstätte, bezug zu Schiefer)
+  namensherkunft_3: lateinisch "cupa vini" (Weinfass), bezug zum Martyrium des Heiligen Theonest
+  namenentwicklung: Cuba (983) → Chuben (1194) → Cube (1241) → Cubin (1255) → Kube (1257) → Chaube (1310) → Kawbe (1433) → Cub (1490) → Cuibe (1533) → Caube (1581) → Caub (ab 16. Jh.) → Kaub (ab 1934)
+  genauigkeit: vermutlich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-kaub/003
+ENTITÄT: ort
+BEZEICHNUNG: Kaub
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadtteile_historisch: Bächerviertel, Linderviertel (Marktplatz), Städterviertel, Neustädter-/Zöllerviertel, Mühlenviertel (nach 1816)
+  rheinzoll_erwerb: 1277
+  rheinzoll_erwerber: Pfalzgraf Ludwig II.
+  rheinzoll_aufgehoben: 1. Januar 1867
+  nachbarschaften_struktur_seit: nach Dreißigjährigem Krieg
+  nachbarschaften_bis: 1888
+GUELTIG_AB: 1277
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-kaub/004
+ENTITÄT: burg
+BEZEICHNUNG: Burg Cuba / Gutenfels
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_zeit: um 1200
+  hoehe_ueber_rhein: 110 [Meter]
+  lage: Felssporn
+  bauherr_vermutlich: Philipp IV. von Bolanden
+  urspruenglicher_name: Cuba
+  spaeterer_name: Gutenfels
+  funktion: Befestigung des darunter liegenden Ortes
+  kirchturm_entstehung_zeit: um 1200
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-kaub/005
+ENTITÄT: burg
+BEZEICHNUNG: Pfalzgrafenstein / Pfalzburg / Pfalz
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_beginn: 1326/1327
+  errichtung_endet: 1338-1342
+  grund_errichtung: Sicherung des Zolls und Überwachung der Rheinschifffahrt als Reaktion auf Kirchenbann durch Papst Johannes XXII.
+  bauform_initial: Zollturm auf Rheininsel
+  bauform_erweitert: schiffsförmige Ringmauer
+  ort: Rheininsel bei Kaub
+GUELTIG_AB: 1326
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 07-kaub/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Nikolaus / St. Trinitatis
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwahnung: 1315
+  schutzpatron_ursprung: Sankt Nikolaus
+  name_nach_reformation: St. Trinitatis
+  turm_entstehung: um 1200
+  turm_stil: spätromanisch
+  turm_grundflaeche: quadratisch
+  turm_geschosse: 5
+  turm_hoehe: 27 [Meter]
+  langhaus_orientierung: südöstlich
+  wehrkirche: ja
+  schlitzfenster_im_turm: ja
+GUELTIG_AB: 1315
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-kaub/007
+ENTITÄT: stadtmauer
+BEZEICHNUNG: Stadtbefestigung Kaub
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  älteste_errichtung: wahrscheinlich 1. Hälfte 13. Jahrhundert
+  grund_älteste: Zusammenhang mit Erbauung Burg Cuba/Gutenfels
+  aeltester_stadtplan: 1741
+  stadtplan_zeichner: Ingenieurleutnant Schlosser (Mannheim)
+  erhaltung_heute: teilweise erhalten
+  rheinfrontabschnitt_erhaltung: ja
+  wehrgang_nutzung_heute: Hochwassernotweg
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-kaub/008
+ENTITÄT: stadtmauer
+BEZEICHNUNG: zweite Stadterweiterung
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: spätes 13. Jahrhundert bis Wende zum 14. Jahrhundert
+  umschließt: Kurpfälzische Amtskellerei
+  endet_bei: Zollschreiberturm
+GUELTIG_AB: 1270
+GUELTIG_BIS: 1300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 07-kaub/009
+ENTITÄT: stadtmauer
+BEZEICHNUNG: dritte Stadterweiterung
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1320-1326
+  gebiet: heutiger Marktplatz und Blücherstraße
+  neubauten: Weseler Turm, Fey-Turm (Templerhaus), Leiterberger Turm (Ersterwähnung 1324, auch Philippineburg), Weiseler Tor
+GUELTIG_AB: 1320
+GUELTIG_BIS: 1326
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-kaub/010
+ENTITÄT: stadtmauer
+BEZEICHNUNG: vierte Stadterweiterung
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: um 1485-1487
+  verlauf: vom Zollschreiberturm entlang der Rheinfront nach Süden bis zum Dicken Turm
+  eisbreche_hoehe: 6 [Meter]
+  eisbreche_laenge: ca. 30 [Meter]
+  rondell_art: Geschützturm
+  rondell_lage: in der Nähe der Volkenbachmündung
+GUELTIG_AB: 1485
+GUELTIG_BIS: 1487
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-kaub/011
+ENTITÄT: turm
+BEZEICHNUNG: Dicker Turm / Diebesturm / Stollenturm
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1485-1487
+  funktion: südliches Bollwerk der Stadtbefestigung
+  form: runder, mächtiger Turm
+  wehrumgang: zwölfeckig, hölzern
+  namensursprung_stollenturm: seit 1871 Eigentum der Schiefergrubenbetreiber
+  privateigentum_seit: ab 1806
+  fund_latenzeit_1925: Tongefäß aus Ton (ca. 500 v. Chr.)
+GUELTIG_AB: 1485
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-kaub/012
+ENTITÄT: turm
+BEZEICHNUNG: Mainzer Torturm
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 13. Jahrhundert
+  funktion: Wachturm der Stadtbefestigung
+  umbau_1485_1490: Fachwerkobergeschoss mit Ecktürmchen und hohem Spitzhelm
+  umbau_1757: Pyramidendach
+  umbau_1850: zinnenbewehrtes Flachdach mit vier polygonalen Ecktürmchen
+  umbau_1990_1991: Generalsanierung
+  privateigentum_seit: 1804
+  nutzung_heute: Hotel
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-kaub/013
+ENTITÄT: turm
+BEZEICHNUNG: Weseler Torturm / Ober-Weseler Torturm
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: Anfang 14. Jahrhundert
+  geschosse: 5
+  material: Schieferbruchstein
+  funktion: nördlicher Eingang in die Stadt
+  privateigentum: ja
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-kaub/014
+ENTITÄT: turm
+BEZEICHNUNG: Philippinenburg / Leiterbergturm
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: um 1320
+  errichtung_grund: Teil der ab 1324 erweiterten Stadtbefestigung
+  vulgoname_seit: ca. 1875 Philippinenburg
+  bewohnt_seit: Mittelalter
+  dach_ursprung: hohes Walmdach (vermutlich)
+  privateigentum_seit: 1807
+GUELTIG_AB: 1320
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 07-kaub/015
+ENTITÄT: turm
+BEZEICHNUNG: Zollschreiberturm
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  teil_stadterweiterung: zweite
+  beschaedigung_1504: ja
+  grund_beschaedigung: Belagerung durch Landgraf Wilhelm II. von Hessen
+GUELTIG_AB: 1270
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 07-kaub/016
+ENTITÄT: turm
+BEZEICHNUNG: Fey-Turm / Templerhaus
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1320-1326
+  teil_stadterweiterung: dritte
+GUELTIG_AB: 1320
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 07-kaub/017
+ENTITÄT: brunnen
+BEZEICHNUNG: Marktbrunnen
+QUELLE: https://kaub.welterbe-mittelrheintal.de/tourismus/sehenswuerdigkeiten/uebersicht-sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: wahrscheinlich 1828
+  grund_errichtung: nach Überwölbung des offenen Blücherbaches
+  dekoration: vier wasserspeiende Masken, bekrönend liegender Löwe
+GUELTIG_AB: 1828
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-kaub/018
+ENTITÄT: brunnen
+BEZEICHNUNG: Laufbrunnen
+QUELLE: https://kaub.welterbe-mittelrheintal.de/tourismus/sehenswuerdigkeiten/uebersicht-sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: erste Hälfte 19. Jahrhundert
+  ort: Metzgergasse
+GUELTIG_AB: 1800
+GUELTIG_BIS: 1850
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 07-kaub/019
+ENTITÄT: rathaus
+BEZEICHNUNG: Altes Rathaus
+QUELLE: https://kaub.welterbe-mittelrheintal.de/tourismus/sehenswuerdigkeiten/uebersicht-sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Marktstr. 4
+  zerstoerung: Dreißigjähriger Krieg
+  teil_erhalten: siebeneckiger Treppenturm von 1511
+  wiederaufbau: 1655-1663
+  funktion_1813_1814: Königl.-Preuss. Krankendepot (während Blücherscher Rheinübergang)
+  verkauf_privatbesitz: 1869
+GUELTIG_AB: 1511
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-kaub/020
+ENTITÄT: rathaus
+BEZEICHNUNG: Ehemaliges Rathaus (Schulstr. 10-14)
+QUELLE: https://kaub.welterbe-mittelrheintal.de/tourismus/sehenswuerdigkeiten/uebersicht-sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgaenger_turnhalle: 1900-1927
+  errichtung: nach 1927
+  funktion_rathaus: 1929-1978
+  funktion_heute: städtisches Mietshaus
+GUELTIG_AB: 1929
+GUELTIG_BIS: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-kaub/021
+ENTITÄT: gebaeude
+BEZEICHNUNG: Fachwerkhaus Blücherstraße 1
+QUELLE: https://kaub.welterbe-mittelrheintal.de/tourismus/sehenswuerdigkeiten/uebersicht-sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: um 1500
+  stil: spätgotisches dreigeschossiges Fachwerkhaus
+  fachwerk: mittelalterliches Ständerfachwerk
+  dekoration: gotische Spitzbogenreihe
+  funktion_19_jh: Gasthaus und Bäckerei "Zum Blüchertal"
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-kaub/022
+ENTITÄT: gebaeude
+BEZEICHNUNG: Auf der Mauer 14
+QUELLE: https://kaub.welterbe-mittelrheintal.de/tourismus/sehenswuerdigkeiten/uebersicht-sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Teil eines Wehrturms des 13. Jahrhunderts
+  erhaltung: romanische Giebelwand mit Rundbogenfriesen
+  anbau_bergseitig: Wohnbau mit Fachwerkobergeschoss des 17. Jahrhunderts
+  tuer: Haustür im Rokokostil
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-kaub/023
+ENTITÄT: amtshaus
+BEZEICHNUNG: Kurpfälzisches Amtshaus und Zollschreiberei
+QUELLE: https://kaub.welterbe-mittelrheintal.de/tourismus/sehenswuerdigkeiten/uebersicht-sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_vorderhaus: 1552
+  errichtung_anbau: 1667
+  funktion_ursprung: Zollschreiberei
+  funktion_spaeter: Wohnsitz kurpfälzischen Amtsmanns
+  wappen_eingang: Pfalzgrafen bei Rhein von 1485
+  amtsturm_errichtung: 14. Jahrhundert
+  hogebaeude_errichtung: 1610/11
+  privateigentum_seit: 1801
+GUELTIG_AB: 1552
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-kaub/024
+ENTITÄT: apotheke
+BEZEICHNUNG: Hindenburg-Apotheke
+QUELLE: https://kaub.welterbe-mittelrheintal.de/tourismus/sehenswuerdigkeiten/uebersicht-sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1803
+  urspruenglicher_name: Amts-Apotheke
+  umbennung: 1916
+  neuer_name: Hindenburg-Apotheke
+  schliessung: 2023
+  nutzung_nach_schliessung: Privat-Museum
+GUELTIG_AB: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-kaub/025
+ENTITÄT: postamt
+BEZEICHNUNG: Kaiserliche Reichspost
+QUELLE: https://kaub.welterbe-mittelrheintal.de/tourismus/sehenswuerdigkeiten/uebersicht-sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nachweisbar_seit: 1714
+  betreiber: Thurn und Taxis
+  art: Poststation
+GUELTIG_AB: 1714
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-kaub/026
+ENTITÄT: denkmal
+BEZEICHNUNG: Kriegerdenkmal
+QUELLE: https://kaub.welterbe-mittelrheintal.de/tourismus/sehenswuerdigkeiten/uebersicht-sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1891
+  material: roetlicher Sandstein
+  anlass: Gefallene des deutsch-französischen Krieges 1870/71
+  erweiterung: 1907
+  erweiterung_komponenten: zwei Kanonen
+GUELTIG_AB: 1891
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-kaub/027
+ENTITÄT: denkmal
+BEZEICHNUNG: Blücherdenkmal
+QUELLE: https://kaub.welterbe-mittelrheintal.de/tourismus/sehenswuerdigkeiten/uebersicht-sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstellung_jahr: 1893
+  enthuelllung: 18. Juni 1894
+  bildhauer: Friedrich Schaper (Berlin)
+  gegiesser: Metallgießerei Walter Gladenbeck (Friedrichshagen)
+  statue_hoehe: 4 [Meter]
+  sockel_hoehe: 4 [Meter]
+  sockel_material: Granit
+  dargestellt: Generalfeldmarschall Gebhard Leberecht von Blücher (1742–1819)
+  anlass: Rheinübergang 1813/14
+GUELTIG_AB: 1894
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 07-kaub/028
+ENTITÄT: hospital
+BEZEICHNUNG: Altes Bürger-Hospital
+QUELLE: https://kaub.welterbe-mittelrheintal.de/tourismus/sehenswuerdigkeiten/uebersicht-sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwahnung: 15. Jahrhundert
+  aufgaben: Beherbergung Fremder, Aufnahme und Speisung Armer, Pflege Alter und Kranker, Bestattung der Toten
+  lage: an der rheinseitigen Stadtmauer
+  zerstoerung: Dreißigjähriger Krieg (1618-1648)
+  wiederaufbau: Fachwerkbau
+  schliessung: 1817
+  grund_schliessung: Landesorganisation des Herzogtums Nassau
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1817
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-kaub/029
+ENTITÄT: gebaeude
+BEZEICHNUNG: Mainzer Domhof
+QUELLE: https://kaub.welterbe-mittelrheintal.de/tourismus/sehenswuerdigkeiten/uebersicht-sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_ursprung: Freihof des Mainzer Domkapitels
+  erwerb: 1734 durch Maria Spes von Bielefeld (Freifrau von Witzleben seit 1728)
+  neubau: 1737
+  schenk: 1755 an Kloster Allerheiligen in Oberwesel
+  funktion_1776_1802: Kath. Pfarrhaus
+  zerstoerung: Brand 1876
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1876
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 07-kaub/030
+ENTITÄT: museum
+BEZEICHNUNG: Blüchermuseum
+QUELLE: https://kaub.welterbe-mittelrheintal.de/tourismus/sehenswuerdigkeiten/uebersicht-sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: ehemaliges Hauptquartier Blüchers
+  eroeffnung: 1913 (100 Jahre nach Rheinübergang)
+  inhalt: originale Exponate zum Rheinübergang
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 07-kaub/031
+ENTITÄT: ereignis
+BEZEICHNUNG: Belagerung von Kaub
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1504
+  dauer: 39 Tage
+  belageringer: Landgraf Wilhelm II. von Hessen (1469-1509)
+  verteidiger: ca. 1500 Streiter
+  verlauf: Angriff mit Belagerungsgeschützen, Teil Turm und Mauer zerstört, Erstürmung unmöglich
+  ende: 25. September 1504
+  grund_aufhebung: Unzugänglichkeit Berges und mannhafte Verteidigung
+  quelle_bericht: Johannes Trithemius (Chronik Historia Belli Bavarici)
+GUELTIG_AB: 1504
+GUELTIG_BIS: 1504
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 07-kaub/032
+ENTITÄT: ereignis
+BEZEICHNUNG: Rheinübergang Blüchers
+QUELLE: https://kaub.welterbe-mittelrheintal.de/tourismus/sehenswuerdigkeiten/uebersicht-sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: Neujahrsnacht 1813/1814
+  anfuehrer: Generalfeldmarschall Gebhard Leberecht von Blücher
+  truppen: Schlesische Armee
+  soldaten_gesamt: ca. 50000-60000 preuß. und russ.
+  pferde: 15000
+  geschuetze: 182
+  bruecke_typ: Pontonbrücke
+  bruecke_ponton: 71
+  helfer: Kauber Schiffer, russische Pioniere
+  kontext: nach napoleonischer Niederlage in Russland 1812 und Leipzig
+  folgen: Verfolgung Napoleons nach Frankreich, endgültiger Sieg bei Waterloo
+  dezimal_wendung: entscheidende Wendung der napoleonischen Freiheitskriege
+GUELTIG_AB: 1814
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 07-kaub/033
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Gebhard Leberecht von Blücher
+QUELLE: https://kaub.welterbe-mittelrheintal.de/tourismus/sehenswuerdigkeiten/uebersicht-sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Generalfeldmarschall
+  nation: Preußen
+  lebenszeit: 1742-1819
+  vulgoname: Marschalls Vorwärts
+  rang_erhebung: Fürstenstand
+  rang_erhebung_titel: Blücher von Wahlstatt
+  rang_erhebung_datum: 3. Juni 1814
+  rang_erhebung_ort: Paris
+  rang_erhebung_durch: König Friedrich Wilhelm III.
+GUELTIG_AB: 1742
+GUELTIG_BIS: 1819
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 07-kaub/034
+ENTITÄT: schule
+BEZEICHNUNG: Evangelisch-reformierte Schule
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: um 1560
+  grund_gruendung: nach Einführung Reformation in Kurpfalz 2. Hälfte 16. Jahrhundert
+  schulzwang: nein
+  kirchliche_aufsicht: ja
+  knaben: Unterrichtsbesuch erwartet
+  maedchen: ausgeschlossen (später im Unteramt für 2 Albus Schulgeld möglich)
+  unterrichtszeit: ganzjährig, Sommer mit Unterbrechungen zur Erntezeit
+GUELTIG_AB: 1560
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 07-kaub/035
+ENTITÄT: schule
+BEZEICHNUNG: Katholische Schule
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: vorreformatorisch
+  klassen: einklassig
+  konfession: katholisch
+  neubau_ort_1704: Kirchplatz 3
+  neubau_gebaeude_1582: privates Wohnhaus mit Lehrerwohnung
+  aufgeloest: 1819
+  grund_auflosung: Vereinigung mit evangelischer Schule zur simultanen Schule
+GUELTIG_AB:
+GUELTIG_BIS: 1819
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 07-kaub/036
+ENTITÄT: schule
+BEZEICHNUNG: Simultane christliche Elementarschule
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1819
+  grund_gruendung: Umsetzung neues herzoglich-nassauisches Schulgesetz von 1817
+  entstehung: Vereinigung beider konfessionellen Schulen
+  schulhauser: 2
+  geschlechtertrennung: ja, Mädchen katholisch, Jungen evangelisch
+  neubau: 1868
+  neubau_adresse: Manneweg (jetzt Schulstraße 12-14)
+GUELTIG_AB: 1819
+GUELTIG_BIS: 1868
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 07-kaub/037
+ENTITÄT: legende
+BEZEICHNUNG: Elslein von Kaub
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kaub.html | Landesportal
+EIGENSCHAFTEN:
+  kontext: Bayrisch-Pfälzischer Erbfolgekrieg 1504
+  erzaehlung: Mädchen verkleidet als Soldat zeigte kurpfälzischen Truppen den Weg in die Stadt
+  historisches_vertrauen: vermutlich
+GUELTIG_AB: 1504
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 07-kaub/038
+ENTITÄT: heiliger
+BEZEICHNUNG: Heiliger Theonest / Bischof Theonest
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: erste Hälfte 5. Jahrhundert
+  amt: Bischof von Mainz
+  wirksamkeit: Predigt gegen Arianismus
+  verfolger: Arianer
+  verfolgung_methode: gesteinigt, in durchlöchertes Weinfass (cupa vini) gezwängt, in Rhein gestoßen
+  rettung: durch Kauber Bewohner
+  danksagung: Einführung ins Christentum, Lehre des Weinbaus
+  legend_nachweis: zur Herkunft des Ortsnamens Kaub
+  genauigkeit: der Sage nach
+GUELTIG_AB: 400
+GUELTIG_BIS: 500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 07-kaub/039
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Kaiser Otto II.
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 955-983
+  herrschaft_ab: 961
+  titel: deutscher König, Kaiser
+  aktion_kaub: Schenkungsurkunde für Erzstift Mainz bestätigt
+  datum_aktion: 14. Juni 983
+  ort_aktion: Reichstag zu Verona
+GUELTIG_AB: 955
+GUELTIG_BIS: 983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 07-kaub/040
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Erzbischof Willigis von Mainz
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Erzbischof von Mainz
+  lebenszeit_amt: 975-1011
+  aktion: Empfänger von Schenkungen durch Kaiser Otto II. bestätigt
+  datum_aktion: 14. Juni 983
+  geleitsrecht: bis Kaub reichend
+GUELTIG_AB: 975
+GUELTIG_BIS: 1011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 07-kaub/041
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Pfalzgraf Ludwig II.
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Kauf von Kaub mit Burg
+  datum_aktion: 1277
+  kaufsumme: lt. Quelle erwähnt nicht, stattdessen Falkensteiner verkauften es für 2300 Mark Aachener Denare
+GUELTIG_AB: 1277
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-kaub/042
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Pfalzgraf Ludwig IV., der Bayer
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1282-1347
+  titel: Pfalzgraf, deutscher König, Kaiser (ab 1328)
+  stadtrechte_verleihung: 23. März 1324
+  stadtrechte_vorbild: Stadt Boppard
+  zollburg_errichtung_grund: Reaktion auf Kirchenbann Papst Johannes XXII.
+  zollburg_bau_beginn: 1326/1327
+GUELTIG_AB: 1282
+GUELTIG_BIS: 1347
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 07-kaub/043
+ENTITÄT: ereignis
+BEZEICHNUNG: Dreißigjähriger Krieg in Kaub
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1618-1648
+  verheering: Verheerungen, Seuchen, Truppendurchzüge
+  bevoelkerung_nachher: 198 Einwohner
+  brand_1635: Rathaus, Schule, Pfarrhaus zerstört
+  wiederaufbau_dauer: mehrere Jahre
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-kaub/044
+ENTITÄT: ereignis
+BEZEICHNUNG: Brände in Kaub
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kaub.html | Landesportal
+EIGENSCHAFTEN:
+  jahre: 1846, 1848, 1910
+  charakterisierung: verheerende Brände
+GUELTIG_AB: 1846
+GUELTIG_BIS: 1910
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-kaub/045
+ENTITÄT: ereignis
+BEZEICHNUNG: Bergsturz Kaub
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kaub.html | Landesportal
+EIGENSCHAFTEN:
+  datum: 10. März 1876
+  material: Schiefergeröll
+  todesfaelle: 26 Menschen
+GUELTIG_AB: 1876
+GUELTIG_BIS: 1876
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 07-kaub/046
+ENTITÄT: gemeinschaft
+BEZEICHNUNG: Jüdische Gemeinde Kaub
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kaub.html | Landesportal
+EIGENSCHAFTEN:
+  status: kurfürstliche Schutzjuden
+  zeit_gruendung: 15. Jahrhundert
+  friedhof_groesse: 150 [Meter]
+  friedhof_nutzung: bis 1802
+  friedhof_verwalter_spaeter: seit 1992 jüdische Gemeinde Koblenz
+  aufloessung: 1842
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1842
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 07-kaub/047
+ENTITÄT: bergbau
+BEZEICHNUNG: Dachschiefergruben Kaub
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kaub.html | Landesportal
+EIGENSCHAFTEN:
+  ersterwahnung: 1355
+  betrieb_bis: 1972
+  wirtschaftszweig: Schieferabbau
+  roemer_nutzung: Römer verwendeten Kauber Schiefer für Limesbau nachweislich
+GUELTIG_AB: 1355
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-kaub/048
+ENTITÄT: institution
+BEZEICHNUNG: Rheinlotsenstation Kaub
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kaub.html | Landesportal
+EIGENSCHAFTEN:
+  funktion: Rheinlotsen führten Schiffe durch gefährliche Strecke zwischen Kaub und Bingen
+  historische_bedeutung: Maßgebliche Hilfe beim Rheinübergang Blüchers 1814
+  schliessung: 1988
+  grund_schliessung: Ausbau des Rheins zur Verbesserung der Schifffahrt
+GUELTIG_AB:
+GUELTIG_BIS: 1988
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-kaub/049
+ENTITÄT: ereignis
+BEZEICHNUNG: Freistaat Flaschenhals
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kaub.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum: 1919-1923
+  grund: Luecke zwischen französischem Brückenkopf Mainz und amerikanischem Brückenkopf Koblenz
+  umfang: Lorch, Kaub, Lorchhausen, Sauerthal, Ransel, Wollmerschied, Welterod, Zorn, Strüth, Egenroth
+  bevoelkerung: ca. 8000 Einwohner
+  verwaltung: Lorcher Bürgermeister Pnischek
+  eigenheiten: eigene Währung (Freistaatgeld), Schmuggelung, Lokomotiven-Kaperung
+  besatzung: 25. Februar 1923 durch französische Truppen
+  abzug: 16. November 1924
+  folge: Teil der Weimarer Republik
+GUELTIG_AB: 1919
+GUELTIG_BIS: 1924
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-kaub/050
+ENTITÄT: gemeinschaft
+BEZEICHNUNG: BaKaLoNi
+QUELLE: https://kaub.welterbe-mittelrheintal.de/tourismus/sehenswuerdigkeiten/uebersicht-sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partner: Bacharach, Kaub, Lorch, Niederheimbach
+  charakterisierung: Idyllisch – wild – romantisch
+  beschreibung: die romantischen 4
+  gruendung: 2019
+  anlass: Zusammenwachsen des Mittelrheintals
+  namenursprung: Anfangsbuchstaben der beteiligten Kommunen
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-kaub/051
+ENTITÄT: rheinzoll
+BEZEICHNUNG: Rheinzoll Kaub - Einkünfte
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einkuenfte_1600_bis_dreissigjähriger_krieg: 16000 [Gulden] jährlich
+  einkuenfte_1721: 19000 [Gulden]
+  einkuenfte_1771: 33864 [Gulden]
+  einkuenfte_1780: 25000 [Gulden]
+  aufhebung: 1. Januar 1867
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 07-kaub/052
+ENTITÄT: munzstaette
+BEZEICHNUNG: Münzstätte Kaub
+QUELLE: https://kaub.welterbe-mittelrheintal.de/kaub/geschichte-kaub/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  genehmigung_jahr: 1368
+  genehmigung_durch: Pfalzgraf Ruprecht I. d. Ä.
+  genehmigung_dauer: vier Jahre
+  muenztyp: Silberturnos
+  standort: Burg (vermutlich)
+GUELTIG_AB: 1368
+GUELTIG_BIS: 1372
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 07-kaub/053
+ENTITÄT: fundstaette
+BEZEICHNUNG: Latenezeitliche Funde
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kaub.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum: Latènezeit
+  datierung: ca. 500 v. Chr.
+  fundort: Dicken Turm
+  fundtyp: Scherben eines Beigabengefäßes aus Ton
+  bedeutung: Beweis früher Besiedlung
+GUELTIG_AB: -500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 07-kaub/054
+ENTITÄT: fundstaette
+BEZEICHNUNG: Römerzeitliche Funde
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/kaub.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum: Römerzeit
+  datierung: ca. 250 n. Chr.
+  fundort: Nähe Bahnhof
+  fundtyp: Einhenkelkrug
+  bedeutung: Beweis römischer Besiedlung und Nutzung
+GUELTIG_AB: 200
+GUELTIG_BIS: 300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+

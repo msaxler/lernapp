@@ -1,0 +1,33 @@
+{
+ "stufe": "pruefung",
+ "ort": "08-st-goarshausen",
+ "modell_wunsch": "sonnet",
+ "modelle": [
+  "claude-sonnet-4-6"
+ ],
+ "eingabe_zeichen": 90125,
+ "token_ein": 41457,
+ "token_aus": 13592,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 41455,
+  "cache_read_input_tokens": 0,
+  "output_tokens": 13592,
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 41455,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "",
+  "iterations": [],
+  "speed": "standard"
+ },
+ "kosten_usd": 0.35934225,
+ "sekunden": 216,
+ "fehler": false,
+ "zeit": "2026-10-03T14:24:45"
+}

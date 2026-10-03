@@ -1,0 +1,33 @@
+{
+ "stufe": "karten",
+ "ort": "05-ruedesheim",
+ "modell_wunsch": "opus",
+ "modelle": [
+  "claude-opus-4-6"
+ ],
+ "eingabe_zeichen": 58524,
+ "token_ein": 29873,
+ "token_aus": 56751,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 29871,
+  "cache_read_input_tokens": 0,
+  "output_tokens": 56751,
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 29871,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "",
+  "iterations": [],
+  "speed": "standard"
+ },
+ "kosten_usd": 1.6054787500000003,
+ "sekunden": 999,
+ "fehler": false,
+ "zeit": "2026-10-03T14:01:08"
+}

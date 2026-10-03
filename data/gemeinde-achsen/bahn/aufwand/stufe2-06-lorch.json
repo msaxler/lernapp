@@ -1,0 +1,34 @@
+{
+ "stufe": "stufe2",
+ "ort": "06-lorch",
+ "modell_wunsch": "sonnet",
+ "modelle": [
+  "claude-sonnet-4-6",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 10516,
+ "token_ein": 50097,
+ "token_aus": 8039,
+ "usage": {
+  "input_tokens": 8,
+  "cache_creation_input_tokens": 17428,
+  "cache_read_input_tokens": 32661,
+  "output_tokens": 8039,
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 17428,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "",
+  "iterations": [],
+  "speed": "standard"
+ },
+ "kosten_usd": 0.33856055,
+ "sekunden": 141,
+ "fehler": false,
+ "zeit": "2026-10-03T14:27:23"
+}

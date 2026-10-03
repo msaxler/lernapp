@@ -1,0 +1,609 @@
+ID: 03-rastatt/001
+ENTITÄT: ort
+BEZEICHNUNG: Rastatt
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2909196 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  name_historisch: Rastetten
+  erste_urkundliche_erwähnung: 1084
+  erste_urkundliche_erwähnung_quelle: Handschrift des Klosters Hirsau
+  ist_kreisstadt: true
+  grosse_kreisstadt_seit: 1956
+  lage: Herz Badens, zwischen Karlsruhe und Offenburg
+  einwohner_anzahl: über 50000, genauigkeit: "über"
+  herkunftsländer_count: 127
+  architektur_charakter: Barockstadt
+  ortsteile_count: 5
+  ortsteile: Wintersdorf, Plittersdorf, Ottersdorf, Niederbühl/Förch, Rauental
+  wahrzeichen: zwei Schlösser aus Zeit der Markgrafen von Baden-Baden
+  superlativ: größte Stadt im Landkreis Rastatt
+GUELTIG_AB: 1084
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 03-rastatt/002
+ENTITÄT: ort
+BEZEICHNUNG: Rastatt
+QUELLE: https://www.rastatt.de/mein-rastatt/stadtportraet/stadtgeschichte/stadtwappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  name_historisch: Rastetten
+  marktrecht_jahr: 1404
+  marktrecht_verleiher: König Ruprecht von der Pfalz
+  grund_marktentwicklung: verkehrsgünstige Lage und Marktprivileg
+  markt_spezialisierung: Elsässer Wein
+GUELTIG_AB: 1404
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 03-rastatt/003
+ENTITÄT: stadtwappen
+BEZEICHNUNG: Rastatter Stadtwappen
+QUELLE: https://www.rastatt.de/mein-rastatt/stadtportraet/stadtgeschichte/stadtwappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  form: Schild, gespalten
+  vorderer_teil: Badisches Wappen (roter Schrägbalken auf goldenem Hintergrund)
+  vorderer_teil_bedeutung: Zugehörigkeit Rastatts zu Baden
+  hinterer_teil: Weinleiter
+  hinterer_teil_bedeutung: Verweiss auf Marktflecken Rastetten und Weinhandel
+  mundartlicher_name_weinleiter: Raste
+  funktion_weinleiter: Abseilen der Fässer vom Wagen in Weinkeller
+  genehmigung_jahr: 1895
+  unterbrochen_periode: Drittes Reich und Gleichschaltung der Länder
+  ersatz_periode: Wappenbild nur Weinleiter (ohne offizielle Genehmigung)
+  wiedereinführung_entscheidung_jahr: 1995
+  wiedereinführung_entscheidung_datum: 18. Dezember 1995
+  wiedereinführung_abstimmung: einstimmig beschlossen Gemeinderat
+  grund_wiedereinführung: Erinnerung an demokratische Verpflichtung der Stadt Rastatt
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 03-rastatt/004
+ENTITÄT: kirche
+BEZEICHNUNG: St. Alexander (Katholische Stadtpfarrkirche)
+ORTSTEIL_BEZUG: Rastatt
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2910324 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundsteinlegung_jahr: 1702
+  grundsteinlegung_auftraggeber: Markgraf Ludwig Wilhelm
+  baubeginn: 1756
+  grund_bauverzögerung: Spanischer Erbfolgekrieg (1701-1714)
+  bauverzögerung_periode: 1702-1756
+  fertigstellung_jahr: 1764
+  fertigstellung_weihe_jahr: 1764
+  weihe_markgraf: August Georg
+  besonderheit: Grabstein Baubauer Johann Peter Ernst Rohrer in Vorhalle
+GUELTIG_AB: 1702
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 03-rastatt/005
+ENTITÄT: kirche
+BEZEICHNUNG: St. Bernharduskirche
+ORTSTEIL_BEZUG: Rastatt
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2911002 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1207
+  superlativ: älteste, urkundlich erwähnte Pfarrkirche Rastatts
+  architektur_stil: hochgotischer Chor
+  beschädigungen_kriege: stark beschädigt durch Kriege des 17. Jahrhunderts
+  brand_jahr: 1689
+  brand_ereignis: überstanden Chormauern mit Resten Wandmalereien
+  umgestaltung_jahr: 1771
+  weihe_jahr: 1771
+  weihe_heiliger: Seliger Markgraf Bernhard von Baden
+  friedhofskapelle_nutzung: bis Mitte des 19. Jahrhunderts
+  friedhof_besonderheit: französische Gesandte von 1799 (ermordet) begraben
+  heute_gotteshaus: true
+  lage_grund: auf Anhöhe erbaut wegen Hochwassergefahr der Murg
+GUELTIG_AB: 1207
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 03-rastatt/006
+ENTITÄT: kirche
+BEZEICHNUNG: Klosterkirche der Franziskaner (Kirche der Unbefleckten Empfängnis Mariae)
+ORTSTEIL_BEZUG: Rastatt
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2911341 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundsteinlegung_jahr: 1702
+  planer: Lorenzo de Sale
+  hofbaumeister: Domenico Egidio Rossi
+  entwurf_zugeschrieben: Domenico Egidio Rossi
+  auftraggeber: Markgraf Ludwig Wilhelm von Baden
+  bauverzögerung_grund: Spanischer Erbfolgekrieg
+  weihe_jahr: 1717
+  weihe_name: Unbefleckten Empfängnis Mariae
+  verstaatlichung_jahr: 1805
+  inventar_versteigert: 1805
+  nutzung_seit_1807: evangelische Pfarrkirche
+  kloster_funktion_historisch: Wohnung für Franziskanermönche
+  mönche_herkunft: Kloster Fremersberg in Baden-Baden
+  mönche_bestimmung: von Markgraf Ludwig Wilhelm bestimmt
+  klostergebäude_historisch: Oberamt, später Landratsamt Rastatt
+  klostergebäude_heute: Pestalozzi-Schule Rastatt
+GUELTIG_AB: 1702
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 03-rastatt/007
+ENTITÄT: kirche
+BEZEICHNUNG: Schlosskirche (Hofkirche "Zum Heiligen Kreuz")
+ORTSTEIL_BEZUG: Rastatt
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2911932 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_zeitraum: 1719-1723
+  erbaut_jahr_beginn: 1719
+  erbaut_jahr_ende: 1723
+  baumeister: Johann Michael Ludwig Rohrer
+  baumeister_herkunft: Böhmen
+  baumeister_funktion: Hofbaumeister
+  auftraggeber: Markgräfin Sibylla Augusta
+  baustart_date: Februar 1720
+  baustart_ereignis: Reliquienprozession
+  wunsch_auftraggeberin: Extra schön, keineswegs schlechter als Schlosszimmer
+  bedeutung: Zeugnis barocker Frömmigkeit
+  teil_von: Zyklus von Heiligen Stätten (1717-1723, Rastatt und Förch)
+  ausstattung: original erhaltene Ausstattung und Kirchenschatz
+  grablege: Markgräfin Sibylla Augusta
+  grabstein_inschrift: BETTET / FÜR / DIE / GROSE / SÜNDERIN / AUGUSTA / MDCCXXXIII
+  grabstein_besonderheit: von Sibylla Augusta selbst gewählte Inschrift
+  nutzung_seit_1771: Piaristenschule, später Lyzeum (Gymnasiumskirche)
+  heutige_nutzung: Führungen, digitale Besuche nach Restaurierung
+GUELTIG_AB: 1719
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 03-rastatt/008
+ENTITÄT: schloss
+BEZEICHNUNG: Rastatter Residenzschloss
+ORTSTEIL_BEZUG: Rastatt
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2909196 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: älteste Barockresidenz am Oberrhein
+  baumeister: Domenico Egidio Rossi
+  baumeister_herkunft: Italien
+  auftraggeber: Markgraf Ludwig Wilhelm von Baden
+  auftraggeber_lebensdaten: 1655-1707
+  planung_achse: zwischen Fort Saint Louis (Elsass) und Schloss Ettlingen
+  vorbilder: Palast Ludwigs XIV. in Versailles, Stadtschloss Wiener Adel
+  ursprüngliche_zweckbestimmung: Jagdschloss
+  entscheidung_umwandlung_jahr: 1700
+  entscheidung_umwandlung_akteur: Markgraf Ludwig Wilhelm
+  entscheidung_umwandlung_beschreibung: Jagdschloss als moderne barocke Residenz ausgebaut
+  bau_jahr_beginn: 1700
+  einzug_markgraf_zeit: Herbst 1705
+  familieneinzug: Markgraf Ludwig Wilhelm mit Familie in Seitenflügel
+  tod_markgraf: Januar 1707
+  fortführung_bauarbeiten: Markgräfin Sibylla Augusta (als Regentin 20 Jahre)
+  baumeister_fortführung: Johann Michael Ludwig Rohrer
+  friedensvertrag: Rastatter Frieden (6. März 1714)
+  friedensvertrag_unterzeichner: Prinz Eugen von Savoyen, Marschall Villars
+  friedensvertrag_bedeutung: Ende Spanischer Erbfolgekrieg
+  nachfolger_markgraf: Ludwig Georg (fügte Rokoko-Elemente hinzu)
+  aussterben_baden_badener_linie: 1771
+  neue_eigentümer: Markgrafen von Baden-Durlach
+  status_nach_1771: Nebenresidenz
+  nutzung_19_jahrhundert: Festungshauptquartier
+  raum_anzahl: über 300
+  raumgröße_vergleich: größtes und schönstes Gebäude der Stadt
+  symbol: Goldener Mann (Jupiter-Statue auf Dach)
+  symbol_beschreibung: vergoldete Statue des römischen Gottes Jupiter, schleudert Blitzbündel in Richtung Feinde
+  nutzung_untergeschoss: Gedenkstätten Freiheitsbewegungen Deutschland, Militärhistorisches Museum, Amtsgericht
+  nutzung_obergeschoss: Prunkräume nach Renovierung
+  ausstattung_details: Deckenfresken italienischer Künstler, barocke Stuckaturen, Ahnensaal
+  ahnensaal_besonderheit: Stuckfiguren türkische Gefangene (Siege über Osmanen), Gemälde Vorfahren markgräfliche Familie
+  unterhalt: Land Baden-Württemberg
+  besichtigbar: Prunkräume und zwei weitere Museen
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 03-rastatt/009
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Favorite (Lustschloss Favorite)
+ORTSTEIL_BEZUG: Rastatt-Förch
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2909196 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_zeitraum: 1710-1714
+  erbaut_von: Markgräfin Sibylla Augusta
+  baumeister: Johann Michael Ludwig Rohrer
+  baumeister_funktion: Hofbaumeister
+GUELTIG_AB: 1710
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 03-rastatt/010
+ENTITÄT: friedensvertrag
+BEZEICHNUNG: Rastatter Frieden
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2909196 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1714
+  datum: 6. März 1714
+  ort: Schloss Rastatt
+  unterzeichner_kaiser: Prinz Eugen von Savoyen
+  unterzeichner_frankreich: Marschall Villars
+  bedeutung: Ende Spanischer Erbfolgekrieg
+  beteiligte_mächte: alle europäischen Großmächte
+  dauer_konflikt_jahre: 1701-1714
+  friedenskontext: zusammen mit Friedensverträgen Utrecht (1713) und Baden (1714) Ende Spanischer Erbfolgekrieg
+  dauer_verhandlungen: viermonatig
+GUELTIG_AB: 1714
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 03-rastatt/011
+ENTITÄT: ereignis
+BEZEICHNUNG: Rastatter Kongress
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2909196 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1797-1799
+  ort: Schloss Rastatt
+  zweck: Friedensverhandlungen
+  initiator: Markgraf Karl Friedrich
+  kontext: Wirtschaftsförderung Rastatt
+GUELTIG_AB: 1797
+GUELTIG_BIS: 1799
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 03-rastatt/012
+ENTITÄT: ereignis
+BEZEICHNUNG: Zerstörung Rastatts
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2909196 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1689
+  kriegsereignis: Pfälzischer Erbfolgekrieg
+  akteur: französische Truppen
+  grad_zerstörung: fast vollständig niedergebrannt und zerstört
+  wiederaufbau: Rastatt zur Modellstadt
+  wiederaufbau_funktionalität: Residenz Markgraf Ludwig Wilhelm von Baden-Baden
+GUELTIG_AB: 1689
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 03-rastatt/013
+ENTITÄT: ereignis
+BEZEICHNUNG: Badische Revolution in Rastatt
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2909196 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1849
+  rolle_ort: zentraler Schauplatz
+  zeitraum_ereignis: 1. bis 23. Juli 1849
+  truppenstärke: 5.500 Mann revolutionäre Truppen
+  belagerungsbefestigung: Bundesfestung Rastatt
+  gegner: Preußen
+  ausgang: Kapitulation Revolutionäre vor Preußen am 23. Juli
+GUELTIG_AB: 1849
+GUELTIG_BIS: 1849
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 03-rastatt/014
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Rastatter Bundesfestung
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2909196 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1842
+  auswirkung_stadt: tiefer Einschnitt in Stadtentwicklung
+  folgen: grundlegende Veränderung Stadtbild und Stadtleben
+  folgen_behörden: Behörden ziehen weg
+  folgen_wirtschaft: wirtschaftliche Entwicklung stark eingeschränkt, stark abhängig von Militär
+  aufgabe_jahr: 1890
+  nachnutzung: größtenteils abgerissen
+  entfestigung_bedeutung: Rastatt wieder offene Stadt
+  folgen_entfestigung: Neue Industrieunternehmen, Wohlstand
+GUELTIG_AB: 1842
+GUELTIG_BIS: 1890
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 03-rastatt/015
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Bahnlinie Karlsruhe-Rastatt
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2909196 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung_datum: 1. Mai 1844
+GUELTIG_AB: 1844
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 03-rastatt/016
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Bahnlinie Rastatt-Oos
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2909196 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung_datum: 6. Mai 1844
+GUELTIG_AB: 1844
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 03-rastatt/017
+ENTITÄT: personengruppe
+BEZEICHNUNG: Mathias Schweitzer
+QUELLE: https://www.rastatt.de/mein-rastatt/stadtportraet/stadtgeschichte/juedisches-leben-in-rastatt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Hofjude, Judenschultheiß
+  gedenktafel_jahr: 1703
+  gedenktafel_ort: Innenhof Stadtmuseum
+  zeit: Mittelalter bis frühe Neuzeit
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 03-rastatt/018
+ENTITÄT: gemeinde
+BEZEICHNUNG: Jüdische Gemeinde Rastatt
+ORTSTEIL_BEZUG: Rastatt
+QUELLE: https://www.rastatt.de/mein-rastatt/stadtportraet/stadtgeschichte/juedisches-leben-in-rastatt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit_frühe_neuzeit: vereinzelte Nachrichten jüdischer Bürger
+  zeit_18_jahrhundertwende: weniger als 10 jüdische Familien
+  grund_ansiedlung_18_jahrhundert: Entvölkerung Markgrafschaft nach verheerenden Kriegen, Steuereinkünfte für Landesherr
+  initiative_18_jahrhundert: Markgräfin Sibylla Augusta
+  aufgabe_18_jahrhundert: finanzieren Straßenpflasterung junge Residenzstadt
+  erste_synagoge_zeitraum: 1827-1829
+  erste_synagoge_adresse: Ottersdorfer Straße
+  erste_synagoge_einwohner: über 60 jüdische Einwohner (um 1827-1829)
+  josef_altschul_jahr: 1877
+  josef_altschul_besonderheit: erster jüdischer Bürger in Bürgerausschuss
+  jüdische_partizipation_bis: 1933 (Bürgerausschussmitglieder, Vereinsmitglieder)
+  jüdische_vereine: Israelitischer Kranken- und Unterstützungsverein, Jüdischer Jugendbund, Jüdischer Kegelverein
+  jüdischer_friedhof_jahr: 1881
+  jüdischer_friedhof_ort: in Nähe Rastatter Bahnhof
+  jüdischer_friedhof_letzte_beisetzung: August 1939
+  jüdischer_friedhof_existiert: heute
+  einwohner_nach_entfestigung_1890: ca. 250
+  genauigkeit_einwohner_1890: "ca."
+  neue_synagoge_jahr: 1906
+  neue_synagoge_adresse: beim Ottersdorfer Tor
+  neue_synagoge_grundsteinlegung: 14. September 1905
+  neue_synagoge_architekt: Ludwig Levy (Karlsruhe)
+  neue_synagoge_architekt_werke: auch Synagogen Baden-Baden, Kaiserslautern, Straßburg
+  neue_synagoge_grundstück_stifter: Stadt Rastatt
+  neue_synagoge_erbaut_jahr: 1906
+  unternehmen_dreyfuss_roos: Kartonagenfabrik (Muggensturm und Rastatt)
+  unternehmen_dreyfuss_roos_person: Julius Roos
+  unternehmen_groener_bloch: Badische Polierscheiben- und Putzwollenfabrik
+  unternehmen_werola: Krepp- und Buntpapierfabrik (frühe 1920er Jahre)
+  bildungsbürgerschicht: Rechtsanwälte, Ärzte (Kinder Ludwig-Wilhelm-Gymnasium)
+  handel_handwerk: jüdische Händler und Handwerker (um 1900)
+  zusammenleben_christlich_jüdisch: gut funktioniert bis Ende 1920er Jahre
+  misstöne: ab Erste-Weltkrieg-Niederlage und Weimarer Republik wirtschaftlich angespannt
+  machtergreifung_ns: März 1933
+  verschlechterung: rapide
+  judenboykott: April 1933
+  maßnahmen: antijüdische Gesetze, Verdrängung aus öffentlichem und wirtschaftlichem Leben
+  emigration: viele jüdische Familien gezwungen
+  emigration_hindernis: nicht allen offengestanden, Alte und Familiengründe
+  synagogenzerstörung_datum: 10. November 1938
+  synagogenzerstörung_ereignis: Novemberpogrome
+  synagogenzerstörung_grad: vollständig zerstört
+  synagogenzerstörung_akteur: SS- und SA-Männer
+  synagogenzerstörung_vorgehen: zunächst verwüstet, dann in Brand gesteckt
+  deportation_datum: 22. Oktober 1940
+  deportation_aktion: Deportation südwestdeutscher Juden
+  deportation_ziel: Gurs (Frankreich)
+  deportation_person_count: 30 Rastatter Juden
+  deportation_überlebende: 3 von 30
+  gemeinde_ende: 1940
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 03-rastatt/019
+ENTITÄT: gebäude
+BEZEICHNUNG: Kantorenhaus
+ORTSTEIL_BEZUG: Rastatt
+QUELLE: https://www.rastatt.de/mein-rastatt/stadtportraet/stadtgeschichte/juedisches-leben-in-rastatt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historische_funktion: Wohnung Kantor jüdische Gemeinde
+  zustand_reichspogromnacht: weitgehend unbeschadet
+  heutige_nutzung: Dokumentationsraum zur jüdischen Geschichte Rastatts
+  gedenkstätte: Tafel erinnert an zerstörte Synagoge
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 03-rastatt/020
+ENTITÄT: gebäude
+BEZEICHNUNG: Vogelsche Haus (Stadtmuseum)
+ORTSTEIL_BEZUG: Rastatt
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2910286 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_jahr: um 1705
+  architekt_planer: Domenico Egidio Rossi
+  frühere_nutzung: Kavaliershaus
+  museum_eröffnung_jahr: 1973
+  inhalt: barocke Stadtgründung vom ausgehenden 18. Jahrhundert bis Gegenwart
+  dauerausstellung: Stadtgeschichte (Rastatts Historie der letzten 300 Jahre)
+  sonderausstellungen: jährlich wechselnd zu stadt- und kulturgeschichtlichen Themen
+  ausstellungsstück_besonderheit: Mammutstoßzahn (aus Baggersee, viele Tausend Jahre alt)
+GUELTIG_AB: 1705
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 03-rastatt/021
+ENTITÄT: garten
+BEZEICHNUNG: Rastatter Schlossgarten (Hofgarten)
+ORTSTEIL_BEZUG: Rastatt
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2911973 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  garten_planung_jahr: 1697
+  garten_planer: Domenico Egidio Rossi
+  garten_größe_original: relativ kleiner Ziergarten
+  erste_veränderungen: 1699/1700
+  entwurf_le_maire: nicht vollendet bis Tod Markgraf 1707
+  orangerie_neu: 1738
+  gartenerneuerung_versuch: mehrere gescheiterte Anläufe
+  gartenerneuerung_erfolg_jahr: 1772
+  gartenerneuerung_jahr_komplett: 1772
+  gartenbetrieb_einstellung: 1783
+  grund_einstellung: zu hohe Zuschüsse
+  nutzung_1783_1843: Nutz- und Ackerland
+  umbau_exerzierplatz: 1843
+  volkspark_zeitraum: 1920-1926
+  volkspark_planer: Max Laeuger (Reformarchitekt)
+  volkspark_elemente: verschiedene Gartenebenen, Heckeneinfassung, Blumenbeete, zwei Springbrunnen vor Schlossfassade
+  volkspark_bestand: vorhandene seitliche Alleen einbezogen
+  heutige_gestaltung_jahr: 1989
+  heutige_gestaltung_planer: Gunnar Martinsson (schwedischer Gartenarchitekt, Professor Technische Hochschule Karlsruhe)
+  heutige_gestaltung_elemente: Barockgarten-Elemente, Laeuger-Volkspark-Elemente, Schlossterrasse mit Springbrunnen, Rasenfläche mit seitlichen Hecken, Rosenmuseum, achteckiger Teich, baumbestandener Teil
+  historische_ausdehnung: erstreckte sich bis zur Bahnhofsanlage
+  schlossterrasse_sanierung: Mai 2014
+  schlossterrasse_veränderung: Ligusterhecken entfernt, Rundbrunnen saniert, Ruhigwasser-Zone erweitert
+  unterhalt_träger: Land Baden-Württemberg
+  zweck_historisch: Größe und Ausstattung zeigten Reichtum und Bedeutung Markgrafen
+GUELTIG_AB: 1697
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 03-rastatt/022
+ENTITÄT: bauwerk
+BEZEICHNUNG: Museumstor
+ORTSTEIL_BEZUG: Rastatt
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2912017 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_jahr: um 1705
+  funktion: trennte Schlosspark von bürgerlicher Stadt
+  ursprüngliche_zweckbestimmung: Museum für Türkenbeute des Markgrafen Ludwig Wilhelm
+  lage: am Ende der Poststraße, Eingang zum Schlossgarten
+  historische_ausstattung: großes eisernes Gitter, möglicherweise Torwache
+  kunstwerk_vor_tor: Hommage an Picasso (Brunnen)
+  kunstwerk_künstler: Jürgen Goertz (Bildhauer)
+  kunstwerk_seit: 1981
+  symbolik: trennte geladene von nicht-geladenen Besuchern
+GUELTIG_AB: 1705
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 03-rastatt/023
+ENTITÄT: bauwerk
+BEZEICHNUNG: Pagodenburg
+ORTSTEIL_BEZUG: Rastatt-Förch
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2987379 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: ehemaliges Teehaus der markgräflichen Familie
+  erbaut_jahr: 1722
+  baumeister: Johann Michael Ludwig Rohrer
+  baumeister_funktion: Hofbaumeister
+  lage: auf Hochterrasse der Murg
+  vorbild: Bauwerk im Park des Nymphenburger Schlosses München
+  zweck: Spielhaus für Hofkinder
+  integration: in Lust- und Nutzgarten
+  bauzeit_kommentar: mehr als sieben Jahre bis Fertigstellung
+  einweihung: Markgräfin lud Freunde und Gäste zu Gartenfesten
+  besonderheit_getränk: erste heiße Schokolade-Service (rare und kostbare Getränk)
+  veranstaltung: Wettlauf der Hofdamen
+  heutige_nutzung: Ausstellungen nationaler und internationaler Künstler in Sommermonaten
+  veranstalter: Rastatter Kunstverein
+GUELTIG_AB: 1722
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 03-rastatt/024
+ENTITÄT: unternehmen
+BEZEICHNUNG: Wagenfabrik Rastatt
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2909196 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_zeitraum: 1797-1799
+  kontext: Rastatter Kongress und Wirtschaftsförderung Markgraf Karl Friedrich
+GUELTIG_AB: 1797
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 03-rastatt/025
+ENTITÄT: unternehmen
+BEZEICHNUNG: Daimler AG Werk Rastatt
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2909196 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung_jahr: 1997
+  bedeutung: Rastatt wurde bedeutender Standort der Automobilindustrie
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 03-rastatt/026
+ENTITÄT: festival
+BEZEICHNUNG: Internationale Straßentheaterfestival "tête-à-tête"
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2909196 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_jahr: 1993
+  anlass: Abschiedsgeschenk an abziehende französische Soldaten
+  häufigkeit: jährlich (bis heute)
+  bedeutung: Highlight im Kulturkalender der Stadt
+  charakterisierung: international, Straßentheater
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 03-rastatt/027
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Städtepartnerschaft Orange
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2909196 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstadtland: Frankreich
+  partnerstadt_region: Provence
+  beginn_jahr: 1965
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 03-rastatt/028
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Städtepartnerschaft New Britain
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2909196 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstadtland: USA
+  partnerstadtregion: Staat/Region (unspezifiziert)
+  beginn_jahr: 1984
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 03-rastatt/029
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Städtepartnerschaft Fano
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2909196 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstadtland: Italien
+  beginn_jahr: 1986
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 03-rastatt/030
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Patenschaft Entre Rios
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2909196 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstadtland: Brasilien
+  partnerschaftstyp: Patenschaft
+  beginn_jahr: 1988
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 03-rastatt/031
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Städtepartnerschaft Ostrov
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2909196 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstadtland: Tschechien
+  partnerstadtname_historisch: Schlackenwerth
+  beginn_jahr: 1991
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 03-rastatt/032
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Städtepartnerschaft Woking
+QUELLE: https://www.rastatt.de/2704641_2713070_2787922_2999648_2909196 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstadtland: England
+  rangfolge_partnerschaft: fünfte Partnerstadt
+  beginn_jahr: 2001
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88

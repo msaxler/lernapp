@@ -1,0 +1,33 @@
+{
+ "stufe": "pruefung",
+ "ort": "04-eltville",
+ "modell_wunsch": "sonnet",
+ "modelle": [
+  "claude-sonnet-4-6"
+ ],
+ "eingabe_zeichen": 81820,
+ "token_ein": 38262,
+ "token_aus": 14915,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 38260,
+  "cache_read_input_tokens": 0,
+  "output_tokens": 14915,
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 38260,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "",
+  "iterations": [],
+  "speed": "standard"
+ },
+ "kosten_usd": 0.36720600000000003,
+ "sekunden": 232,
+ "fehler": false,
+ "zeit": "2026-10-03T14:25:01"
+}

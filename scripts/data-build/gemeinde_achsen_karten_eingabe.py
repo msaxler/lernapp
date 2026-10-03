@@ -27,7 +27,8 @@ import sys
 
 WURZEL = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 ITER = os.path.join(WURZEL, 'data', 'gemeinde-achsen', os.environ.get('GA_RAUM', 'iter1'))
-AUS = os.path.join(ITER, 'eingabe-v0.7')
+# GA_EINGABE=eingabe-v0.8 für den Raum bahn (Prompt v0.8); sonst wie bisher
+AUS = os.path.join(ITER, os.environ.get('GA_EINGABE', 'eingabe-v0.7'))
 # Berichtigungen an Grunddaten: (slug, eigenschaft) → Hinweise; main() füllt sie aus faktencheck/berichtigungen.json
 GRUND_BERICHTIGT = {}
 
@@ -220,8 +221,10 @@ def main():
             pfad = os.path.join(ITER, 'fakten', z['datei'])
             if z['slug'] == o['slug'] and os.path.exists(pfad):
                 teile += ['FAKTEN AUS ZWEITER QUELLE (Wikipedia, Artikel „%s“):' % z['titel'], lies(pfad), '']
-        s = SPENDER[i % 3]
-        teile += ['SPENDER: %s (nicht Teil der Fahrt)' % name[s], lies(os.path.join(ITER, 'extraktion', s + '.txt')), '']
+        # ein Raum ohne Spender (Kosten-Pareto H5; Raum bahn, Prompt v0.8 ohne Weg b) bekommt keinen SPENDER-Block
+        if SPENDER:
+            s = SPENDER[i % len(SPENDER)]
+            teile += ['SPENDER: %s (nicht Teil der Fahrt)' % name[s], lies(os.path.join(ITER, 'extraktion', s + '.txt')), '']
         text = '\n'.join(teile)
         with io.open(os.path.join(AUS, o['slug'] + '.txt'), 'w', encoding='utf-8', newline='\n') as f:
             f.write(text + '\n')

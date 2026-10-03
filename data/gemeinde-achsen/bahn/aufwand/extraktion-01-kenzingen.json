@@ -1,0 +1,33 @@
+{
+ "stufe": "extraktion",
+ "ort": "01-kenzingen",
+ "modell_wunsch": "haiku",
+ "modelle": [
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 19666,
+ "token_ein": 12628,
+ "token_aus": 10208,
+ "usage": {
+  "input_tokens": 9,
+  "cache_creation_input_tokens": 12619,
+  "cache_read_input_tokens": 0,
+  "output_tokens": 10208,
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 12619,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "",
+  "iterations": [],
+  "speed": "standard"
+ },
+ "kosten_usd": 0.06682275,
+ "sekunden": 79,
+ "fehler": false,
+ "zeit": "2026-10-03T13:37:32"
+}

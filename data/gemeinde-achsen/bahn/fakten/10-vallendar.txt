@@ -1,0 +1,775 @@
+ID: 10-vallendar/001
+ENTITÄT: ort
+BEZEICHNUNG: Vallendar
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  bundesland: Rheinland-Pfalz
+  landkreis: Mayen-Koblenz
+  verwaltungssitz: Verbandsgemeinde Vallendar
+  zentralitaetsrang: Mittelzentrum
+  lage_entfernung_koblenz_km: 5.7
+  lage_entfernung_neuwied_km: 12.3
+  uferseite_rhein: rechtes Ufer
+  namensherkunft_silbe1: "val" (indogermanisch: fließend)
+  namensherkunft_silbe2: "ndar" (indogermanisch: sumpfiges Gelände)
+  ersterwähnung_zeitraum: 830–840
+  angenommener_ursprung: keltisch
+  angenommener_ursprung_zeitraum: 700–600 v.Chr.
+  stadtrechte_verleihung_datum: 2. November 1856
+  stadtrechte_verleiher: König Friedrich Wilhelm IV.
+  status_seit_1932: Luft- und Kneippkurort
+  lage_landschaftlich: Am Fuße des Westerwaldes
+GUELTIG_AB: 830
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/002
+ENTITÄT: ort
+QUELLE: https://www.vallendar-rhein.de/stadt/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortschaftstyp: Kleinstadt
+  betriebliches_merkmal: Hochschulstandort (WHU)
+  betriebliches_merkmal_2: Wallfahrtsort (Schönstatt)
+  infrastruktur_strasse: B 42 (direkt am Ort)
+  infrastruktur_autobahn: A 48 (Ausfahrt Bendorf/Neuwied/Vallendar)
+  infrastruktur_bahn: Rechte Rheinstrecke mit RB 27 (Stundentakt)
+GUELTIG_AB: 1856
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/003
+ENTITÄT: gebaeude
+BEZEICHNUNG: Marienburg (Haus d'Ester)
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1779
+  architekt: Quirin Josef D'Ester
+  beruf_erbauer: Sohllederfabrikant
+  fruehere_funktion: Sitz der Grafen zu Sayn
+  aktuelle_funktion: Sitz der WHU – Otto Beisheim School of Management
+  funktionswechsel_jahr: 1988
+  bauweise: Putzbau mit stuckiertem Balkonzimmer
+GUELTIG_AB: 1779
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/004
+ENTITÄT: gebaeude
+BEZEICHNUNG: Marienburg (Haus d'Ester)
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1773
+  architekt: Nikolaus Lauxen
+  beruf_erbauer: Lederfabrikantenfamilie
+GUELTIG_AB: 1773
+IST_VERMUTWEISE_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-vallendar/005
+ENTITÄT: brunnen
+BEZEICHNUNG: Plattpopo-Brunnen (Vallendarer Plattpopo)
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1981
+  thema: Anwendung der Kneipp'schen Wasserkur
+  status: Baudenkmal
+  standort: Hellenstraße
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/006
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kallmann-Haus
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit_original: 1674
+  fruehere_funktion: Großviehhandlung
+  beschaedigung: Brand
+  wiederaufbau_architekt: Johann Rafuf
+  wiederaufbau_jahr: 1883
+GUELTIG_AB: 1674
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/007
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus Erlemann
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1670
+  fruehere_funktion: Bäckerei
+GUELTIG_AB: 1670
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/008
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus Meffert
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1647
+  superlativ: ältestes Weinhaus
+GUELTIG_AB: 1647
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-vallendar/009
+ENTITÄT: gebaeude
+BEZEICHNUNG: Altes Rathaus
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1845
+  architekt_1: Lassaulx
+  architekt_2: Nebel
+  bauweise: Putzbau
+  urspruengliche_funktion: Schule
+  rathausneubau_jahr: 1991–1992
+  rathausneubau_traeger: Verbandsgemeinde Vallendar
+GUELTIG_AB: 1845
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/010
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus der Stadt Vallendar (Bürgerhaus mit geschweiftem Zwerchgiebel)
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1663
+  funktionswechsel_jahr: 1994
+  aktuelle_funktion: Rathaus der Stadt Vallendar
+  zusatz: Fremdenverkehrsbüro
+GUELTIG_AB: 1663
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/011
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bürgerhaus (Johann Rafuf)
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1617
+  eigentuemer: Johann Rafuf
+  eigenschaft_architektur: mit Erker
+GUELTIG_AB: 1617
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/012
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bürgerhaus Kneutgen
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1617
+  eigenschaft_architektur: dreistufiger Giebel
+  eigenschaft_architektur_2: kleines Schwebedach
+GUELTIG_AB: 1617
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/013
+ENTITÄT: gebaeude
+BEZEICHNUNG: Wildburg
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1698
+  genauigkeit_bauzeit: ca.
+  fruehere_funktion: Sitz des Freiherrn Emmerich Ernst von Wiltberg
+GUELTIG_AB: 1698
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/014
+ENTITÄT: gebaeude
+BEZEICHNUNG: Wiltberger Hof
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1695–1698
+  auftraggeber: Freiherr Emmerich Ernst von Wiltberg
+GUELTIG_AB: 1695
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/015
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus "Auf'm Nippes"
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 17. Jahrhundert
+  fruehere_funktion_1: Gerberei
+  fruehere_funktion_2: Lohmühle
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-vallendar/016
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bürgerhaus mit einfachem Fachwerk
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1660
+GUELTIG_AB: 1660
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-vallendar/017
+ENTITÄT: gebaeude
+BEZEICHNUNG: Herrschaftlicher Putzbau (Wohnhaus von Eys)
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1885
+  eigentuemer: Familie von Eys
+GUELTIG_AB: 1885
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/018
+ENTITÄT: gebaeude
+BEZEICHNUNG: Großes Bürgerhaus
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1599
+GUELTIG_AB: 1599
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-vallendar/019
+ENTITÄT: kirche
+BEZEICHNUNG: Lukas-Kirche
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1885
+  konfession: evangelisch
+  funktion: Pfarrkirche
+  pfarrgemeinde: Evangelische Kirchengemeinde
+GUELTIG_AB: 1885
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/020
+ENTITÄT: kirche
+BEZEICHNUNG: Lukas-Kirche
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1884–1885
+  architekt: Friedrich Lang
+  architekt_wohnort: Wiesbaden
+  baustil: typischer evangelischer Kirchenbau des 19. Jahrhunderts
+  baurichtlinie: Eisenacher Regulativ
+GUELTIG_AB: 1884
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/021
+ENTITÄT: gebaeude
+BEZEICHNUNG: St. Josef Haus
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1859
+  fruehere_funktion: Krankenhaus
+  funktionswechsel_jahr: 1986
+  aktuelle_funktion: Seniorenwohnsitz
+GUELTIG_AB: 1859
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/022
+ENTITÄT: gebaeude
+BEZEICHNUNG: St.-Josef-Krankenhaus
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1856–1859
+  architekt: Vincenz Statz
+  architekt_wohnort: Köln
+GUELTIG_AB: 1856
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/023
+ENTITÄT: kirche
+BEZEICHNUNG: St. Marzellinus und Petrus
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  funktion: Pfarrkirche
+  westturm_bauzeit: 1501
+  neubau_bauzeit: 1837–1841
+  neubau_architekt: Lassaulx
+  bauweise: dreischiffige Hallenkirche
+  bautyp: Bau aus verschiedenen Epochen
+GUELTIG_AB: 1501
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/024
+ENTITÄT: kirche
+BEZEICHNUNG: St. Marzellinus und St. Petrus
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1837–1841
+  architekt: Johann Claudius von Lassaulx
+  architekt_wohnort: Koblenz
+  bauweise: dreischiffige Hallenkirche
+GUELTIG_AB: 1837
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/025
+ENTITÄT: turm
+BEZEICHNUNG: Kaiser-Friedrich-Turm
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1898
+  funktion: Aussichtsturm
+  renovierung_jahr: 1988–1989
+  renovierung_unternehmen: Erbauerfirma
+  eigenschaft: ganzjährig begehbar
+  status: denkmalgeschützt
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/026
+ENTITÄT: gebaeude
+BEZEICHNUNG: "Backes Haus" (Altes Backhaus mit Mühlenanlage)
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 17. Jahrhundert
+  funktion: Backhaus mit Mühlenanlage
+  fruehere_nutzung: zeitweise als Schule
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-vallendar/027
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Niederwerth
+ORTSTEIL_BEZUG: Niederwerth
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fruehere_funktion: Kloster
+  bautyp: ehemalige Klosterkirche
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-vallendar/028
+ENTITÄT: kirche
+BEZEICHNUNG: Klosterkirche Niederwerth (Romanischer Turm)
+ORTSTEIL_BEZUG: Niederwerth
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 13. Jahrhundert
+  architekturstil: romanisch
+  eigenschaft: romanischer Turm
+  status: besterhaltener und bedeutendster Sakralbau am Mittelrhein
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/029
+ENTITÄT: gebaeude
+BEZEICHNUNG: Deutschherrenhof
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigentuemer_zeitraum_1: 1216–1802 (Deutscher Orden)
+  eigentuemer_zeitraum_2: ab 1810 (Familie Kretzer, Privatbesitz)
+GUELTIG_AB: 1216
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/030
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapelle Mallendar (Marienkapelle)
+ORTSTEIL_BEZUG: Mallendar
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1682
+  grund_erbauung: zu Ehren der heiligen Barbara
+  renovierung_jahr: 1850
+  renovierung_aktion: erneuert und als Marienkapelle geweiht
+GUELTIG_AB: 1682
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/031
+ENTITÄT: synagoge
+QUELLE: https://www.vallendar-rhein.de/tourismus/historischer-stadtrundgang-in-vallendar/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1900
+  gemeinde: jüdische Gemeinde
+  zerstoerung_jahr: 1938
+  denkmal: Gedenktafel
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/032
+ENTITÄT: kapelle
+BEZEICHNUNG: Marienburg-Kapelle
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1897–1898
+  architekt: Josef Kleesattel
+  architekt_wohnort: Düsseldorf
+  ausmalung_jahr: 1926
+  ausmalung_kuenstler: Bruder Notker Becker OSB
+  kunststil: Laacher Stil
+  kunststil_tradition: Beuroner Kunstschule
+GUELTIG_AB: 1897
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/033
+ENTITÄT: kirche
+BEZEICHNUNG: Schönstätter Kloster
+ORTSTEIL_BEZUG: Berg Schönstatt
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1143
+  gruender: Augustinerinnen
+  aufloesungsjahr: 1567
+GUELTIG_AB: 1143
+GUELTIG_BIS: 1567
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/034
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Anbetungskirche zur heiligen Dreifaltigkeit
+ORTSTEIL_BEZUG: Berg Schönstatt
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1968
+  weihe_jahr: 1968
+  architekt: Alexander Freiherr von Branca
+  architekt_wohnort: München
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/035
+ENTITÄT: gebaeude
+BEZEICHNUNG: Pater-Kentenich-Haus
+ORTSTEIL_BEZUG: Berg Schönstatt
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1985
+  architekt: Alexander Freiherr von Branca
+  architekt_wohnort: München
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/036
+ENTITÄT: kapelle
+BEZEICHNUNG: Urheiligtum (Gründungskapellchen)
+ORTSTEIL_BEZUG: Berg Schönstatt
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1914
+  gruender: Josef Kentenich
+  beschreibung: verfallenes Marienkapellchen
+  status: berühmter Wallfahrtsort
+  umgebung: umgeben von Bildungshäusern, Schwesternhäusern, weiteren Kapellchen und Anbetungskirche
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/037
+ENTITÄT: kapelle
+BEZEICHNUNG: Pilgerkirche
+ORTSTEIL_BEZUG: Berg Schönstatt
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Pilgerkirche für zahlreiche Besucher aus In- und Ausland
+  bezug: Wallfahrtsort Schönstatt
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-vallendar/038
+ENTITÄT: bewegung
+BEZEICHNUNG: Schönstatt-Bewegung
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1914
+  gruender: Josef Kentenich
+  status: internationale Bewegung
+  wallfahrtsort_status: Weltzentrum
+  entwicklung: von verfallener Marienkapelle zu Wallfahrts-Stadt mit zahlreichen Gemeinschaften
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/039
+ENTITÄT: insel
+BEZEICHNUNG: Niederwerth
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: bewohnte Rheininsel
+  lage: Mitten im Rhein, gegenüber von Vallendar
+  eigenschaft_superlativ: in Deutschland einzige Flussinsel mit einer Dorfgemeinde
+  infrastruktur: Brücke mit Vallendar (seit 1958)
+  spezialisierung: Spargelanbau und Erdbeeren
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/040
+ENTITÄT: gemeindeteile
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  wohnplatz_1: Aumühle
+  wohnplatz_2: Bembermühle
+  wohnplatz_3: Berg Schönstatt
+  wohnplatz_4: Haus Schönfels
+  wohnplatz_5: Kaiser-Friedrich-Höhe
+  wohnplatz_6: Landhaus Hahn
+  wohnplatz_7: Mallendar
+  wohnplatz_8: Hof Mallendarerberg
+  wohnplatz_9: Tannenhof
+  wohnplatz_10: Wandhof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/041
+ENTITÄT: ortschaft
+BEZEICHNUNG: Mallendar
+ORTSTEIL_BEZUG: Mallendar
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  status: eingemeindet in Vallendar
+  einmeindungsjahr: 1939
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/042
+ENTITÄT: hochschule
+BEZEICHNUNG: WHU – Otto Beisheim School of Management
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1984
+  gruendungsort: Koblenz
+  traegerschaft: privat
+  status: Hochschule im Universitätsrang
+  frueherer_name: Wissenschaftliche Hochschule für Unternehmensführung
+  ansiedlung_vallendar: seit 1988 (Marienburg)
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/043
+ENTITÄT: hochschule
+BEZEICHNUNG: Vinzenz Pallotti University (PTHV)
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  traegerschaft: kirchlich und staatlich anerkannte wissenschaftliche Hochschule in freier Trägerschaft
+  fakultaet_1: Theologie
+  fakultaet_2: Pflegewissenschaft
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-vallendar/044
+ENTITÄT: schule
+BEZEICHNUNG: Schönstätter Marienschule
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  traegerschaft: staatlich anerkannte, private
+  schultyp: Mädchenschule
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-vallendar/045
+ENTITÄT: schule
+BEZEICHNUNG: Karl-D'Ester-Grundschule
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-vallendar/046
+ENTITÄT: schule
+BEZEICHNUNG: Konrad-Adenauer-Schule
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Integrative Realschule plus
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-vallendar/047
+ENTITÄT: buegermeister
+BEZEICHNUNG: Wolfgang Heitmann
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  titel: Stadtbürgermeister
+  partei: SPD
+  wahl_erstmals: 16. Juni 2019
+  wahl_ergebnis_prozent_2019: 62.13
+  amtseinführung: 25. Juni 2019
+  wahl_wiederwahl: 9. Juni 2024
+  wahl_ergebnis_prozent_2024: 69.4
+  wahlbeteiligung_prozent_2024: 61
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/048
+ENTITÄT: wappen
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: "Gespalten von Rot und Silber, vorne ein blaugezungter, hersehender, steigender, goldener Löwe, hinten ein durchgehendes rotes Balkenkreuz"
+  symbolik_element_1: Sayn'scher Löwe (Territorium Sayn)
+  symbolik_element_2: Trierer Kreuz (Kurtrier)
+  zinnenkrone: mit drei silbernen Zinnentürmen und Portal
+  genehmigung: König Wilhelm II. (Preußen)
+  genehmigung_jahr: 1909
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/049
+ENTITÄT: staedtepartnerschaft
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt: Cercy-la-Tour
+  partnerland: Frankreich
+  partnerregion: Burgund
+  gruendung: 4. Juli 1977
+  organisation: Verein "Freundschaftskreis Vallendar – Cercy-la-Tour"
+  aktivitaet: jährliche Freundschaftstage (abwechselnd in beiden Orten)
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/050
+ENTITÄT: unternehmen
+BEZEICHNUNG: CPS-Datensysteme GmbH
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  geschaeftsfeld: Domain-Registrar
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 10-vallendar/051
+ENTITÄT: unternehmen
+BEZEICHNUNG: Vredestein
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  standort: Deutschland-Zentrale in Vallendar
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 10-vallendar/052
+ENTITÄT: sportverein
+BEZEICHNUNG: TV Vallendar
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1878
+  sportarten: Turnen, Gesundheitssport, Basketball, Volleyball
+  leistung: zahlreiche Deutsche Meister
+GUELTIG_AB: 1878
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/053
+ENTITÄT: sportverein
+BEZEICHNUNG: HV Vallendar
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 2010
+  sportart: Handball
+  liga_status: Handball-Oberliga
+  ursprung: Handballabteilung des TVV
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/054
+ENTITÄT: sportverein
+BEZEICHNUNG: 1. SC Mayen-Koblenz
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  standort: in Vallendar ansässig
+  sportart: Snooker
+  liga: 1. Snooker-Bundesliga
+  liga_einstieg_jahr: 2016
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/055
+ENTITÄT: sportverein
+BEZEICHNUNG: SC Grün-Weiss Vallendar
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1908
+  sportart: Fußball
+  mannschaften_anzahl: 3 (Seniorenabteilung)
+  mannschaft_1: 1. Seniorenmannschaft
+  mannschaft_1_liga: Kreisklasse A (Kreis Koblenz)
+  mannschaft_2: 2. Seniorenmannschaft
+  mannschaft_2_liga: Kreisklasse D (Kreis Koblenz)
+  mannschaft_3: Alten Herren
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/056
+ENTITÄT: hochhaus
+BEZEICHNUNG: Humboldthöhe
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1973
+  eigenschaft: ortsbildpraegend
+  eigenschaft_2: Hochhaus
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 10-vallendar/057
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Brücke Vallendar – Niederwerth
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  einweihung_jahr: 1958
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 10-vallendar/058
+ENTITÄT: konfession
+BEZEICHNUNG: Religionsstatistik Vallendar
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  stichtag_1: 31. Dezember 2005
+  katholen_prozent_2005: 60.7
+  evangelisch_prozent_2005: 20.0
+  konfessionslos_oder_andere_prozent_2005: 19.3
+  stichtag_2: Februar 2026
+  katholen_prozent_2026: 36.0
+  evangelisch_prozent_2026: 13.6
+  konfessionslos_oder_andere_prozent_2026: 50.4
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 10-vallendar/059
+ENTITÄT: militaer
+QUELLE: https://de.wikipedia.org/wiki/Vallendar | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: Militäraktion der 23. US-Infanterie
+  zeitpunkt: 1919
+  kontext: Nach dem Ersten Weltkrieg, Ziel der Operation
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

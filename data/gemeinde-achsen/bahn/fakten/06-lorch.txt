@@ -1,0 +1,739 @@
+ID: 06-lorch/001
+ENTITÄT: ort
+BEZEICHNUNG: Lorch
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/tourismus-freizeit-info-s/historie-von-lorch-und-seinen-stadtteilen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_erwahnung: 1085
+  erste_schriftliche_erwahnung_dokument: Urkunde des Erzbischofs Wezilo über Schenkung von Gütern (Haus und Weinberge)
+  ortsname_ursprung: kelto-romanisch
+  ortsname_benannt_nach_grund: Kelto-romanischen Ursprungs, Hinweis auf frühe Besiedlung und Fortdauer über Völkerwanderung
+  siedlungsgruendung_rom: ja, römischer militärischer Stützpunkt um 360 n.Chr.
+  siedlungsgruendung_rom_funktion: Stützpunkt auf dem Weg vom römischen Bingen zum Limes bei Kemel
+  siedlungsgruendung_frankisch: ja, ab ca. 500
+  staendige_befestigung_ab: 13. Jahrhundert (Mauern und Türme)
+  stadtrecht_verleihung: 1885
+  grund_verleihung_stadtrecht_verzoegerung: Eigeninteressen des zahlreichen Adels, Fehlen landesherrlicher Burg, bereits 13. Jh. befestigt
+  garnison_gruendung: 1965
+  garnison_aufloesung: 2012
+  garnison_unit: Bundeswehrgarnison
+  wirtschaftliche_schwerpunkte: Weinbau (seit 1085), Tuchmacher/Färber (mittelalter bis 19. Jh.), Schifffahrt, Handel
+  wirtschaftlicher_niedergang_grund: Schiffbarmachung des Binger Lochs, Vertreibung der Tuchmacher
+  erholung_struktur_ab: Mitte 19. Jahrhundert
+  weinfest_gruen dung: 1967
+  weinfest_name: Hilchenfest
+  verschwisterung_jahr: 1976
+  verschwisterung_orte: St. Benoit und Ligugé (Frankreich)
+  weltkrieg2_schaeden: ja, Beschuss und Bombenabwürfe
+  weltkrieg2_tote: 17 Bürger
+  status_zwischen_weltkriegen: Verwaltungssitz des Freistaat Flaschenhals (1919-1923)
+  freistaat_grund: unbesetztes Gebiet zwischen französischen und belgischen Besatzungszonen
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1085
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 06-lorch/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Lorchhausen
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/tourismus-freizeit-info-s/historie-von-lorch-und-seinen-stadtteilen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung: 1211
+  erste_urkundliche_erwahnung_name: Husen
+  befestigtes_vorwerk: 1350
+  befestigtes_vorwerk_reste_erhalten: ja
+  gemarkung_trennung: 1773
+  zusammenschluss_lorch: 1971
+  zusammenschluss_form: freiwillig
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1211
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-lorch/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Espenschied
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/tourismus-freizeit-info-s/historie-von-lorch-und-seinen-stadtteilen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Grundherrschaft des Erzbischofs von Mainz
+  erste_urkundliche_erwahnung: 1187
+  erste_urkundliche_erwahnung_schreibweise: Espelscheid
+  lehensverzeichnis_nennung: um 1250-1260, eppsteinisches Lehensverzeichnis
+  entwicklung_charakterisierung: märchenhaft
+  entwicklung_faktoren: reizvolle Lage und Bewohnertüchtigkeit
+  luftkurort_praedikat: 1974
+  luftkurort_titel: Staatlich anerkannter Luftkurort
+  luftkurort_gueltig_bis: heute
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1187
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 06-lorch/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ransel
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/tourismus-freizeit-info-s/historie-von-lorch-und-seinen-stadtteilen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung: 1187
+  erste_urkundliche_erwahnung_schreibweise: Ramsel
+  historische_funktion: einer der ersten Stützpunkte des Mainzer Erzstiftes
+  erzstift_besitztum: Hof Ransel und Hofsitz in Weisel
+  pfarrei_gruendung: 1653
+  gerichtssiegel_vorhanden_ab: 1765
+  gerichtssiegel_symbol: die Schutzpatronin der Kirche, die hl. Katharina
+  waldmark_trennung: 1675
+  waldmark_trennung_von: Wollmerschied
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1187
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 06-lorch/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wollmerschied
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/tourismus-freizeit-info-s/historie-von-lorch-und-seinen-stadtteilen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung: 1324
+  erste_urkundliche_erwahnung_kontext: Grenzbestimmung im Norden des Rheingaues
+  herkunft: Grundherrschaft des Erzbistums Mainz
+  waldmark_trennung: 1675
+  waldmark_trennung_grund: Ransel trennte seinen Waldmark von Wollmerschied
+  gerichtssiegel_vorhanden_ab: 1797
+  gerichtssiegel_symbol: Bild der Dorfkapelle
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1324
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 06-lorch/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ranselberg
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/tourismus-freizeit-info-s/historie-von-lorch-und-seinen-stadtteilen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehungsgrund: Einzug der Bundeswehr in Lorch
+  entstehung_zeitraum: Anfang der 1960er Jahre
+  struktur: eigener Ortsbezirk
+  typ: Siedlung
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1960
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 06-lorch/007
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/sehenswuerdigkeiten/st-martin-kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  chor_bauzeit: ab 1270
+  chor_baustil: frühgotisch
+  chor_bauhalle: Kölner Dombauhütte
+  chor_einfluesse: Einflüsse der Kölner Dombauhütte erkennbar
+  hauptschiff_bauzeit: ab 1304
+  hauptschiff_bauleute: Trierische Bauleute
+  hauptschiff_baustil: gotisch, einfacher ausgestattet als Chor
+  achsenbrechung: ja, deutlich bemerkbar (bautechnischer Grund: Ausweichung um vorhandenen Turm)
+  nordschiff_bauzeit: 1398
+  nordschiff_name: Presberger Schiff
+  vorhalle_innen_bauzeit: Ende 15. Jahrhundert
+  vorhalle_aussen_bauzeit: Ende 15. Jahrhundert
+  kirchturm_ursprung: römischer Burgus (um 360 n.Chr.)
+  kirchturm_funktion_frueh: Wehrturm
+  kirchturm_funktion_modern: Kirch- und Glockenturm
+  hochaltar_bauzeit: 1483
+  hochaltar_kuenstler: Hans von Worms
+  hochaltar_beschreibung: größter und ältester nachgewiesener Holzschnitzaltar Deutschlands, herausragende kunstgeschichtliche Bedeutung
+  hochaltar_material: Holz
+  taufstein_bauzeit: 1464
+  triumphkreuz_material_stil: romanisch
+  chorgestuhl_bauzeit: 13. Jahrhundert
+  kunstwerke_verluste_grund: Ausverkauf durch Pfarrer Geiger Anfang 19. Jahrhundert zur Finanzierung der Renovation
+  orgel_register_besonderheit: Riesling-Register mit Vogelgezwitscher und verstecktem Riesling
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1270
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 06-lorch/008
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Hochaltar St. Martin
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/sehenswuerdigkeiten/st-martin-kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kunsttyp: Holzschnitzaltar
+  kunstepoche: Spätgotik/Renaissance
+  kuenstler: Hans von Worms
+  bauzeit: 1483
+  material: Holz
+  beschreibung_superlativ: größter und ältester nachgewiesener Holzschnitzaltar Deutschlands
+  kunsthistorische_bedeutung: herausragend
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1483
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 06-lorch/009
+ENTITÄT: wehrturm
+BEZEICHNUNG: Strunk
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/sehenswuerdigkeiten/strunk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bautyp: mittelalterlicher Rundturm
+  lage: Südufer der Wisper, direkt hinter dem Bahndamm
+  bauzeit_urkundlich: 1567
+  bauzeit_alternative_datierung: ab 1447-1448 möglich (verbautes Holz)
+  genauigkeit: verbautes Holz lässt frühere Bauzeit zu
+  funktion_defensiv: Verteidigung der als Hafen ausgebauten Wispermündung
+  funktion_ueberwachung: Überwachung der 1556 erbauten Wisperbrücke
+  funktion_gefaengnis: Gefängnisturm
+  konstruktion_material: Schieferbruch- und Sandstein
+  fenster_typ: viereckige kleine Fenster und Schlüsselscharten
+  stichboegen: ja
+  verlies: ja
+  verlies_zugang_historisch: Loch im Gewölbe
+  verlies_zugang_modern: Bodenluke mit Gitterstäben
+  treppenturm_lage: Treppenturm mit Zugang zu oberem Geschoss und Plattform
+  restaurierung_jahr: 2005-2006
+  moderne_funktion: Trauzimmer (im ersten Geschoss)
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1447
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 06-lorch/010
+ENTITÄT: bruecke
+BEZEICHNUNG: Wisperbrücke
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/sehenswuerdigkeiten/strunk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1556
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1556
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 06-lorch/011
+ENTITÄT: bruecke
+BEZEICHNUNG: Schiffsanleger
+QUELLE: https://www.lorch-rhein.de/dokumente/hilchenhaus/historicher-stadtrundgang-lorch-1.pdf?cid=2ah | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bautyp: zweiteilige Brücke
+  bauzeit: ca. 1926
+  lage: Wispermündung
+  besonderheit_konstruktion: Aufhängung an zwei Pylonen ermöglicht Aufwinden und Übereinanderschieben bei Eisgang
+  superlativ: einzig erhaltener Anlegesteg dieser Bauart im Rheingau
+  superlativ_bezugsraum: Rheingau
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1926
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-lorch/012
+ENTITÄT: wohngebaeude
+BEZEICHNUNG: Hilchenhaus
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/sehenswuerdigkeiten/hilchenhaus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bautyp: Renaissance-Palais
+  bauzeit: 1546-1548
+  erbauer: Johann Hilchen von Lorch (Reichsfeldmarschall)
+  funktion_urspruenglich: vornehmster Sitz des Adelsgeschlechts von Hilchen
+  kunsthistorische_bedeutung: bedeutendster Renaissancebau im Mittelrheintal
+  vorgaengerbau_stammhaus: ja
+  vorgaengerbau_bauzeit: um 1500
+  vorgaengerbau_abriss: 1890
+  bundesinvestition_program: 2009 in Investitionsprogramm des Bundes für nationale UNESCO-Welterbestätten aufgenommen
+  renovierung_bauzeit: 2009-2014
+  restaurierung_erfolg: wiederhergestellt
+  wiedereroeffnung_oeffentlichkeit: 2014
+  moderne_nutzung_touristinfo: ja, Tourist-Information mit Vinothek
+  moderne_nutzung_touristinfo_ab: 2015
+  moderne_nutzung_restaurant: ja, Restaurant (Hilchenkeller)
+  moderne_nutzung_veranstaltungen: ja, Veranstaltungsort
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1546
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 06-lorch/013
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Renaissance-Grabmal Johann Hilchen
+QUELLE: https://www.lorch-rhein.de/dokumente/hilchenhaus/historicher-stadtrundgang-lorch-1.pdf?cid=2ah | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kunsttyp: Grabmal
+  kunstepoche: Renaissance
+  bestatteter: Johann Hilchen
+  standort: Pfarrkirche St. Martin
+  beschreibung: sehenswert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 06-lorch/014
+ENTITÄT: burg
+BEZEICHNUNG: Burg Waldeck
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/wandern/burgen-im-wispertal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 12. Jahrhundert
+  funktion_strategisch: Grenzfeste, sicherte den Rheingau nach Norden
+  stammsitz: Adelsgeschlecht von Waldeck
+  adelsamt: Mainzer Marschallamt
+  adelsrang_beschreibung: eine der reichsten Adelsgeschlechter im Rheingau
+  besatzung_1315: 22 Burggenossen, 4 Ritter, 18 Knechte
+  besatzung_groesse: 44
+  letzte_urkundliche_erwaehnung: 1515
+  zerstoerung_grund: unbekannt
+  zerstoerung_zeitpunkt: unbekannt
+  heutige_condition: Mauerreste und tiefer Brunnen
+  moderne_eigentuemer: Privatbesitz
+  moderne_zugang: auf eigene Gefahr begehbar
+  moderne_besichtigung_schwierigkeit: dichter Laubwald, nicht ungefährlich
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1100
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 06-lorch/015
+ENTITÄT: burg
+BEZEICHNUNG: Sauerburg
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/wandern/burgen-im-wispertal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung_quelle: 1120
+  erste_erwaehnung_quellendokument: sog. "Conradus da Waldekke"
+  bauzeit: 1355-1361
+  erbauer: Graf Ruprecht
+  genehmigung_bauherr: Mainzer Erbischof Gerlach
+  bauname_historisch: "Surburne"
+  geschichte: mehrfache Auf- und Zerstörungen in Folgejahrhunderten
+  zerstoerung_1689: ja
+  zerstoerung_1689_grund: Louis XIV (französische Eroberungen)
+  renovation_durchgefuehrt: 2004
+  renovationsdauer: 1 Jahr
+  renovierung_erfolg: vollständig renoviert, Kleinod und Wahrzeichen des Sauertal
+  heutige_nutzung: Tourismus
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1355
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-lorch/016
+ENTITÄT: burg
+BEZEICHNUNG: Kammerburg
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/wandern/burgen-im-wispertal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1279
+  erbauer: Erzbischof Wernher von Eppstein
+  funktion_ursprung: Trutzburg
+  funktion_wahrscheinlich: Belagerungsburg gegen Burg Rheinberg
+  bewohner_1340: Peter von Camerberg (nannte sich so nach der Burg)
+  bewohner_status: Sponheim-Vasall
+  besitzverlauf_16_jh: Herren von Rüdesheim, von Blankenheim
+  besitzverlauf_dann: Kurpfalz
+  besitzverlauf_19_jh: Freiherr von Zwierlein (Geisenheim), später Familie Haniel, dann weiterer Verkauf
+  heutige_condition: Ruine, überwiegend nur noch Mauer erkennbar
+  moderne_eigentuemer: Privatbesitz
+  moderne_zugang: nach Absprache mit Besitzern des angrenzenden Cafés "Alte Villa" begehbar
+  moderne_lohnung: kaum lohnend
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1279
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 06-lorch/017
+ENTITÄT: burg
+BEZEICHNUNG: Burg Rheinberg
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/wandern/burgen-im-wispertal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1165
+  superlativ: eine der ältesten Burgen im Wispertal
+  superlativ_bezugsraum: Wispertal
+  initial_status: kurmainzischer Lehensitz
+  initial_status_zeitpunkt: 1170
+  initial_besitzer: Rheingrafen
+  strategische_funktion: Sicherung des Durchgangs durch das Rheingauer Gebück
+  geblueck_beschreibung: undurchdringlicher Wall aus Hainbuchen
+  konflikt_anlass: Streit 1279 zwischen Erzbischof Wernher von Eppstein und Siegfried von Rheinberg
+  belagerungsstaettenbau: Erzbischof errichtete Blideneck (Norden) und Kammerburg (Süden)
+  belagerung_waffen: Wurfgeschosse aus Steinkugeln und Brandsätze
+  belagerung_erfolg: Zerstörung der Burg
+  wiederaufbau: 1315
+  status_spaeter: 1399 kurpfälzisches Lehen
+  anlage_befestigung: Burggraben nach Norden
+  anlage_struktur: Brückenpfeiler (gemauert, heute noch sichtbar), Vorburg, Burghof, Brunnen, Hauptburg
+  anlage_beschreibung: Burggraben schützte nach Norden, gemauerte Brückenpfeiler noch zu sehen
+  heutige_condition: Ruine
+  moderne_eigentuemer: Privatbesitz
+  moderne_zugang_verbot: ja, nicht zu besichtigen
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1165
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 06-lorch/018
+ENTITÄT: burg
+BEZEICHNUNG: Lauksburg
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/wandern/burgen-im-wispertal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1390
+  erste_erwaehnung_form: "Luckenmühle daz huz"
+  erste_erwaehnung_besitzer: Brömser von Rüdesheim
+  erste_erwaehnung_lehen: Lehen der Brömser
+  urkundliche_verleihung: 1424
+  urkundliche_verleihung_aussteller: Erzbischof Konrad III von Mainz
+  urkundliche_verleihung_empfaenger: Kuno von Scharfenstein und Adam von Allendorf
+  urkundliche_verleihung_form: amtsweise und auf Lebenszeit
+  bautyp: Wohnturm
+  bautyp_dimensionen: 3,90 m x 4,10 m Innenmaße
+  bautyp_etagen: 3
+  besitzverlauf_1476: Lehen des Erzstiftes, Vogteigerichtsbarkeit der Waldeck
+  besitzverlauf_1506: unter Obhut Ritter von Breitbach und Greiffenclau
+  besitzverlauf_1508: Verkauf an Philipp von Heuchlingen
+  besitzverlauf_1557: nach Heuchlingens Tod (1557) Rückgabe an Erzbistum Mainz
+  zerstoerung_vermutlich: ja
+  zerstoerung_vermutlich_zeit: 1618-1648 (30-jähriger Krieg)
+  zerstoerung_vermutlich_grund: schwedische und französische Truppen
+  zerstoerung_sicherheit: Geschichtskenner vermuten
+  heutige_condition: Überreste vorhanden
+  moderne_eigentuemer: Privatbesitz
+  moderne_wanderung: lohnenswert wegen landschaftlich reizvoller Gegend
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1390
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 06-lorch/019
+ENTITÄT: burg
+BEZEICHNUNG: Burg Haneck
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/wandern/burgen-im-wispertal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_hoehe: ca. 100 m über Wispertal
+  lage_ort: bei Geroldstein
+  erreichbarkeit: steiler Fußweg
+  erreichbarkeit_dauer: ca. 20 Minuten
+  gruendung_urkunde: 1386
+  gruendung_urkunde_besonderheit: kein Name in Gründungsurkunde
+  erbau_actual: 1390
+  erbauer: Philipp von Geroldstein
+  strategische_position: grenzt an Interessengebiet der Grafen von Katzenelnbogen
+  anlage_struktur: Oberburg mit Schildmauer, weitläufige Vorburg
+  anlage_sicherung: zwei große Halsgräben und etliche Mauerzüge
+  besitzverlauf_1568_69: nach Wilhelm Heiderich von Geroldstein an Erzstift Mainz
+  besitzverlauf_bis_19jh: Verwaltung durch mainzischen Landschreiber im Rheingau
+  besitzverlauf_nach_1803: Stadt Eltville (nach Auflösung des Mainzer Kurstaates)
+  heutige_condition: Ruine
+  heutige_sicherheit: Einsturzgefahr
+  moderne_zugang_verbot: ja, nicht mehr zu betreten
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1386
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 06-lorch/020
+ENTITÄT: burg
+BEZEICHNUNG: Burg Nollig
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/sehenswuerdigkeiten/burg-nollig/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: auf dem "Wachtenberg" hoch über der Stadt
+  bauzeit: um 1300
+  urspruengliche_funktion: Wehrturm als Teil der Stadtbefestigung
+  funktion_strategisch: Sicherung der Stadt rheinabwärts
+  konstruktion_1_stufe: dreigeschossiger Fachwerkbau
+  konstruktion_1_stufe_fundament: unmittelbar auf Schieferfelsen
+  konstruktion_1_stufe_wehrgang: aus Holzbalken (nördliche Richtung)
+  konstruktion_2_stufe: massive Mauer aus Bruchsteinen (später)
+  konstruktion_2_stufe_erweiterung: zwei abgerundete Türme auf beiden Seiten des Wehrganges
+  wendeltreppe_lage: westlicher Turm
+  stadtmauer_planung: sollte ursprünglich bis an Wehrturm heranreichen
+  stadtmauer_planung_umsetzung: nicht umgesetzt wegen glattem Schiefergestein
+  stadtmauer_sichtbare_reste: an der Anschlussstelle noch erkennbar
+  stadtmauer_originalgroesse_breite: ca. 6 m
+  stadtmauer_originalgroesse_dicke: ca. 1,30 m
+  moderne_eigentuemer: Privatbesitz
+  moderne_zugang_verbot: ja, nicht zu besichtigen
+  erreichbarkeit: nur zu Fuß über Rheinsteig
+  erreichbarkeit_kfz: nein
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1300
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-lorch/021
+ENTITÄT: kapelle
+BEZEICHNUNG: Kreuzkapelle
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/sehenswuerdigkeiten/kreuzkapelle/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1486
+  ursprung_jahr: 1460
+  ursprung_ereignis: Schlacht zwischen Lorchern und Herrn von der Sauerburg
+  ursprung_grund: Viehraub-Überfall
+  ursprung_angreifer_staerke: 120 Gewappnete (Reiter und Fußsoldaten)
+  ursprung_resultat: Lorcher Sieg, Vieh zurückerobert
+  ursprung_denkmal: großes Kreuz wurde aufgestellt
+  kapelle_ort: an der Stelle des Kreuzes
+  religiose_tradition_anlass: Kreuztagswallfahrt
+  religiose_tradition_tag: 1. Sonntag im Mai
+  religiose_tradition_prozession: von Kirche St. Martin in Lorch
+  religiose_tradition_teilnehmer: Lorcher Bürger, Gäste aus umliegenden Orten und Rheingau
+  kreuztag_datum: 3. Mai
+  kreuzweg_erbauung: 1830
+  kreuzweg_neugestaltung: 1983
+  moderne_zugang: normalerweise nur von außen, zu bestimmten Anlässen geöffnet
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1460
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 06-lorch/022
+ENTITÄT: sage
+BEZEICHNUNG: Sage des Ritters Boos von Waldeck
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/sehenswuerdigkeiten/kreuzkapelle/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  protagonist: Ritter Boos von Waldeck aus Lorch
+  protagonist_charakterisierung: ausschweifender Lebenswandel (Gegensatz zu frommen Rittern Lorchs)
+  ort_handlung: Wispertal, kleine Anhöhe unter Sauertal-Tiefenbach-Mündung
+  plot_erkrankung: Ritter wird schwer krank
+  plot_handlung: bittet Pfarrer von Lorch um Besuch
+  plot_gelübde: verspricht dem Pfarrer, schönste Kapelle an der Stelle des Kreuzes zu bauen, falls Gott ihn heilt
+  plot_genesung: Ritter wird gesund und genest
+  plot_vertragsbruch: Mit zunehmender Gesundheit wird Kapelle immer kleiner (erst Kapelle, dann Holzhäuschen, dann nur noch Dach)
+  plot_vertragsbruch_endsituaation: Am Ende hat Ritter völlig vergessen, führt früheres Leben weiter
+  kruzifix_betreuer: Küster Ambrosius von Lorch
+  kruzifix_betreuer_aufgabe: tägliche Wartung, Andacht zu bestimmten Nachmittagsstunden mit Besuchern
+  licht_gestiftet_von: fromme Lorcher
+  genauigkeit: vermutlich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.60
+---
+ID: 06-lorch/023
+ENTITÄT: museum
+BEZEICHNUNG: Robert-Struppmann-Museum
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/sehenswuerdigkeiten/robert-struppmann-museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung_datum: Mai 1989
+  vollname: Lorcher Kunst- und Heimatmuseum
+  groesse_kategorie: klein
+  groesse_etagen: 3
+  sammlung_grundstock_sammler: Pfarrer Anton Karl Pfaff
+  sammlung_grundstock_sammler_lebensjahre: 1872-1926
+  sammlung_grundstock_sammler_herkunft: gebürtiger Lorcher
+  sammlung_grundstock_vermaechtnis: 1925
+  sammlung_grundstock_vermaechtnis_empfaenger: Heimatstadt Lorch
+  sammlung_fokus: sakrale mittelalterliche Skulpturen um 1400
+  sammlung_unikat: einziges Kunstmuseum im Rheingau-Taunus-Kreis
+  sammlung_centerpiece_1: Haupt des Johannes des Täufers (Mitte 14. Jh., Pappelholz)
+  sammlung_centerpiece_2: Lorcher Traubenmadonna (um 1350, thronende Muttergottes mit Kind und Traube)
+  sammlung_centerpiece_2_beschreibung: Typus einer rheinischen Sitzmadonna
+  sammlung_highlight_1: Vesperbild/Pietà (1470)
+  sammlung_highlight_2: zwei Reliquienbüsten der hl. Ursula (1360-1500)
+  sammlung_highlight_3: Heiliger Pilger mit Kirchenmodell (um 1500)
+  sammlung_highlight_4: Heilige Barbara mit Reliquienkapsel (um 1600)
+  sammlung_highlight_5: drei weibliche Heilige der Bilderschule von Hadamar (18. Jh.)
+  sammlung_skulpturen_gesamt_anzahl: ca. 30
+  sammlung_ergaenzung_sakralobjekte: sakrale Geräte, Devotionalien, Reliquienaltärchen
+  sammlung_ergaenzung_archive: Exponate aus Stadtarchiv
+  sammlung_ergaenzung_musik: Choralbuch um 1600 (Choraltradition der Lorcher Pfarrei)
+  sammlung_bodenfunde_praehistorisch: ja
+  sammlung_bodenfunde_display: mehrere Vitrinen
+  sammlung_bodenfunde_aelteste: Halsring und Kinderarmreif aus Bronzezeit
+  sammlung_bodenfunde_roemer: Keramikfunde
+  sammlung_bodenfunde_mittelalter: Gebrauchsgegenstände und Trinkgefäße
+  sammlung_bodenfunde_barock: Trinkgefäße
+  wechselausstellungen: ja
+  wechselausstellungen_event: LORCHER KULTURTAGE
+  wechselausstellungsraum_ausstattung: Keramik-Wandbild der LORCHER SCHULJUNKER
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1989
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 06-lorch/024
+ENTITÄT: museum
+BEZEICHNUNG: Landmuseum Ransel
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/sehenswuerdigkeiten/landmuseum-ransel/ | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Ransel
+EIGENSCHAFTEN:
+  flaeche: 1,5 ha
+  ausstellungsgegenstaende_handwerkzeuge: mehr als 400
+  ausstellungsgegenstaende_landmaschinen: mehr als 400
+  ausstellungsgegenstaende_zeitraum: 1900-1970
+  nachgebaute_werkstaetten: ja
+  nachgebaute_werkstaetten_beispiel: Schmiede
+  backhaus: ja
+  backhaus_besonderheit: frisch gebackenes Brot zu bestimmten Terminen verkauft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-lorch/025
+ENTITÄT: dauerausstellung
+BEZEICHNUNG: Militärgeschichtliche Sammlung
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/sehenswuerdigkeiten/dauerausstellung-militaergeschichtliche-sammlung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Garnisonsgeschichte
+  geschichtsabschnitt: 50-jährige Geschichte der Wisperstadt als Garnisonsstadt
+  chronik_traditionsverein: Traditionsverein FlaRgt 5 Lorch e.V. (aufgelöst)
+  chronik_garnison: Garnison Lorch (1960-2012)
+  chronik_militaereinheit: FlaBtl 5 - FlaRgt 5
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 06-lorch/026
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: von Hilchen
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/sehenswuerdigkeiten/hilchenhaus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Lorch
+  sitz_vornehmster: Hilchenhaus
+  sitz_bauzeit: 1546-1548
+  stammhaus_bauzeit: um 1500
+  stammhaus_abriss: 1890
+  bedeutung: Lorcher Adelsgeschlecht
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1500
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 06-lorch/027
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Hilchen von Lorch
+QUELLE: https://www.lorch-rhein.de/dokumente/hilchenhaus/historicher-stadtrundgang-lorch-1.pdf?cid=2ah | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Reichsfeldmarschall
+  bauwerk: Hilchenhaus
+  bauwerk_bauzeit: 1546-1548
+  bauwerk_beschreibung: bedeutendster Renaissancebau im Mittelrheintal
+  bauwerk_sitz_funktion: ehemals vornehmster Sitz des Adelsgeschlechts von Hilchen
+  grabmal: Renaissance-Grabmal
+  grabmal_lage: Pfarrkirche St. Martin
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1546
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 06-lorch/028
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Pfarrer Anton Karl Pfaff
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/sehenswuerdigkeiten/robert-struppmann-museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1872-1926
+  herkunft: gebürtiger Lorcher
+  taetigkeit: Pfarrer
+  kunstsammlung: ja
+  kunstsammlung_schwerpunkt: sakrale mittelalterliche Skulpturen
+  kunstsammlung_vermaechtnis_abgabe: 1925
+  kunstsammlung_vermaechtnis_empfaenger: Heimatstadt Lorch
+  museum_begruender: Kunstsammlung ist Grundstock des Robert-Struppmann-Museums
+  museum_eroeffnung: Mai 1989
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1872
+GUELTIG_BIS: 1926
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-lorch/029
+ENTITÄT: ereignis
+BEZEICHNUNG: Schlacht bei Lorch 1460
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/sehenswuerdigkeiten/kreuzkapelle/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1460
+  konfliktparteien_1: Lorcher (Einwohner der Stadt)
+  konfliktparteien_2: Herr von der Sauerburg
+  grund_anlass: Viehraub-Überfall in Lorcher Gemarkung
+  angreifer_staerke: 120 bewaffnete Personen (Reiter und Fußsoldaten)
+  ausgang: Sieg der Lorcher
+  ausgang_folge: Vieh wurde zurückerobert, Angreifer überwältigt
+  denkmal_errichtung: großes Kreuz wurde aufgestellt
+  denkmal_spaeter_errichtung: 1486 Kreuzkapelle an dieser Stelle
+  folgeerscheinung: Kreuztagswallfahrt alljährlich seit dann
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1460
+GUELTIG_BIS: 1460
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-lorch/030
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Tuchmacher und Färberhandwerk
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/tourismus-freizeit-info-s/historie-von-lorch-und-seinen-stadtteilen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_bluete: Mittelalter bis Ende 19. Jahrhundert
+  arbeitskraefte_familien: ca. 300 Familien
+  gewerbe_tuechte: Tuchweber und Färber
+  farbstoff_pflanze: Färberwaid
+  farbstoff_farbe_produkt: blau
+  farbstoff_verwendung: Färbung von Stoffen
+  farbstoff_verwendung_zeitraum: Mittelalter
+  exportprodukt_form: Halbfertiges Produkt
+  exportziele: Holland, England
+  niedergang_grund_1: Schiffbarmachung des Binger Lochs
+  niedergang_grund_2: Vertreibung der Tuchmacher
+  historische_spuren_heute: Färberwaid-Pflanzen wachsen noch zwischen Weinbergen und am Bahndamm, gelbe Blüten im Mai sichtbar
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1300
+GUELTIG_BIS: 1900
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 06-lorch/031
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Kaufmannsweg
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/tourismus-freizeit-info-s/historie-von-lorch-und-seinen-stadtteilen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Handelsstraße
+  teil_von_name: Rheingauer Höhenweg
+  teil_von_name_alt: Rennweg (Renn-Rain)
+  teil_von_beschreibung: vorgeschichtlicher Weg
+  startpunkt: Lorch
+  endpunkte: Rüdesheim und Geisenheim (zwei Abstiege)
+  funktion: Umgehung der Felsenbarriere des Binger Lochs
+  funktion_detail: Warentransport auf Landweg, Umladung an Wispermündung
+  alter_vorzeitlich: ja
+  alter_spurennachweis: Keltische Gräberfunde aus prähistorischer Zeit
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 06-lorch/032
+ENTITÄT: hafen_anlage
+BEZEICHNUNG: Hafen Wispermündung
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/tourismus-freizeit-info-s/historie-von-lorch-und-seinen-stadtteilen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  function_mittelalter: Warenumschlagplatz
+  grund_strategisch: Felsenbarriere des Binger Lochs erforderte Warenumladung
+  ladewerkzeuge: Kräne
+  ladeverfahren: rheinaufwärts und rheinabwärts gehende Schiffstransporte mussten umgeladen werden
+  weitertransport: auf Kaufmannsweg über die Höhe
+  kleiner_hafen_strunk: ja
+  kleiner_hafen_strunk_location: beim Strunk
+  kleiner_hafen_strunk_function: Umschlagplatz für Rheinhandel
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 06-lorch/033
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Weinbau
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/tourismus-freizeit-info-s/historie-von-lorch-und-seinen-stadtteilen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung: 1085
+  erste_urkundliche_erwahnung_form: Urkunde mit Nennung von Gütern in Lorch
+  erste_urkundliche_erwahnung_detail: Weinberg "vinea, que dicitur rubea"
+  erste_sorte_dokumentiert: Rotwein
+  wahrscheinliche_historische_anfaenge: fränkische Zeit
+  gemeinde_rang: eine der ältesten Weinbaugemeinden im Rheingau
+  bedeutung_wirtschaft: wichtigster Erwerb über alle Jahrhunderte
+  behaendigung_dauernd: über alle Jahrhunderte behaendet
+  grund_dauernd: blieb wichtigster Erwerb auch nach wirtschaftlichem Niedergang durch Schiffbarmachung Binger Loch
+  struktur_besitz_kloster: ausgedehnte Kloster- und Stiftshöfe (gegründet durch Mainzer Erzbistum)
+  struktur_verwaltung_kloster: Verwaltung von zahlreichen Kloster- und Stiftshöfen aus Lorch
+  struktur_verpachtung: Verpachtung an Lorcher Bürger
+  struktur_ernte: Ernte durch Lorcher Bürger
+  struktur_besitz_adel: reichlich begüterte Adelige
+  struktur_arbeiter_adel: Lorcher Bürger unter Vertrag
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1085
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 06-lorch/034
+ENTITÄT: stadtwappen
+BEZEICHNUNG: Lorcher Wappen
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/tourismus-freizeit-info-s/historie-von-lorch-und-seinen-stadtteilen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: zwei durch einen goldenen Querbalken getrennte sechsspeichige silberne Räder auf rotem Grund
+  herkunft_basis: zwei kleine Ratssiegel aus dem 17. und 18. Jahrhundert
+  historische_siegel_1277: erstes Siegel Lorchs, ältestes Siegel des Rheingaus
+  historische_siegel_1277_design: sechsspeichiges Mainzer Rad
+  historische_siegel_1277_inschrift: "Sig. jurati in Lorche super annonam"
+  historische_siegel_1277_bedeutung: Siegel der Geschworenen über die Bede
+  historische_siegel_1300: zweites Siegel
+  historische_siegel_1300_inschrift: "Sigillum universitatis in Lorche"
+  historische_siegel_1300_bedeutung: Stärkung des bürgerlichen Elementes
+  historische_siegel_1325_bis_1582: Mainzer Rad untergeordnet, Martinsbildl mit Bettler dominant
+  historische_siegel_nassauisch_preussisch: Mainzer Rad völlig verschwunden
+  historische_siegel_ab_1909: Mainzer Rad wieder unter Martinsbild
+  historische_siegel_modern: wie ab 1909 gestaltet
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1277
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 06-lorch/035
+ENTITÄT: hof_gebaeude
+BEZEICHNUNG: Salhof
+QUELLE: https://www.lorch-rhein.de/tourismus-kultur/tourismus-freizeit-info-s/historie-von-lorch-und-seinen-stadtteilen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: jetziger Marktplatz
+  zeitperiode: fränkische Zeit
+  funktion: Herrschaftshof (Verwaltung und Bewirtschaftung herrschaftseigener Besitz)
+  zerstoerung_ereignis: Brand
+  zerstoerung_jahr: 1612
+  heutige_reste: Mauer-, Fenster- und Säulenreste erhalten
+  heutige_sichtbarkeit: Hof der Bäckerei Laquai
+  historische_bedeutung: Beweis für Lorchs Wichtigkeit in fränkischer Zeit
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 500
+GUELTIG_BIS: 1612
+VERTRAUEN_EXTRAKTION: 0.80

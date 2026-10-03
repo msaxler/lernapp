@@ -1,0 +1,33 @@
+{
+ "stufe": "karten",
+ "ort": "10-vallendar",
+ "modell_wunsch": "opus",
+ "modelle": [
+  "claude-opus-4-6"
+ ],
+ "eingabe_zeichen": 42752,
+ "token_ein": 22773,
+ "token_aus": 51601,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 22771,
+  "cache_read_input_tokens": 0,
+  "output_tokens": 51601,
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 22771,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "",
+  "iterations": [],
+  "speed": "standard"
+ },
+ "kosten_usd": 1.43235375,
+ "sekunden": 912,
+ "fehler": false,
+ "zeit": "2026-10-03T14:21:02"
+}

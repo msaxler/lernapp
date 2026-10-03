@@ -1,0 +1,507 @@
+ENTITÄT: ort
+BEZEICHNUNG: Kenzingen
+QUELLE: https://www.kenzingen.de/kenzingen/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsjahr: 1249
+  gruender: Rudolf II. von Üsenberg
+  gruendungsumstand: Stadt als neues Zentrum der Üsenberger Besitzungen auf freiem Feld neben dem Dorf Kenzingen gegründet
+GUELTIG_AB: 1249
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Kenzingen
+QUELLE: https://www.kenzingen.de/kenzingen/zahlen-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bundesland: Baden-Württemberg
+  regierungsbezirk: Freiburg
+  landkreis: Emmendingen
+  hoehe: 177 [m ü. NN]
+  flaeche: 36.93 [km²]
+  einwohner: 10805 [Stand 2025]
+  postleitzahl: 79341
+  telefonvorwahl: 07644
+  kfz_kennzeichen: EM
+  gesamtensemble_denkmalgeschuetzt: true
+  liegt_in: nördlicher Breisgau, am Rande der Vorbergzone des Schwarzwaldes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Kenzingen
+QUELLE: https://www.kenzingen.de/kenzingen/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft_ab: 1369 (Haus Österreich)
+  herrschaft_ab_jahr_2: 1352 (Markgraf Heinrich IV. von Hachberg)
+  status_reichsunmittelbare_stadt_ab: 1415
+  fall_an_baden: Dezember 1805
+GUELTIG_AB: 1249
+GUELTIG_BIS: 1805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Altenkenzingen
+QUELLE: https://www.kenzingen.de/kenzingen/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersturkundliche_erwaehnung: 772
+  erwaehnter_wirtschaftszweig: 773 (Weinbau)
+GUELTIG_AB: 772
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bombach
+QUELLE: https://www.kenzingen.de/kenzingen/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_ortsteil_von: Kenzingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hecklingen
+QUELLE: https://www.kenzingen.de/kenzingen/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_ortsteil_von: Kenzingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Nordweil
+QUELLE: https://www.kenzingen.de/kenzingen/stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_ortsteil_von: Kenzingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Üsenbergbrunnen
+QUELLE: https://www.kenzingen.de/gaeste/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauwerk_darstellt: Standbild des Stadtgründers Rudolf II. von Üsenberg
+  erbaut: 1824
+  lage: Schnittpunkt des stadtbildprägenden Straßenkreuzes
+  ortsbezug: Kenzingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus Kenzingen
+QUELLE: https://www.kenzingen.de/gaeste/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architektur: Massivbau mit siebenstelligem gotischem Fensterband
+  erbaut: 1520
+  baugeschichte_wiederaufbau: Nach Kriegsbeschädigungen wiederaufgebaut
+  erweiterung: 1965-1967
+  lage: Hauptstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Laurentius-Kirche
+ORTSTEIL_BEZUG: Kenzingen (Kirchplatz)
+QUELLE: https://www.kenzingen.de/gaeste/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersturkundliche_erwaehnung: 1275
+  bautyp: dreischiffige gotische Hallenkirche
+  charakteristika: doppeltürmig, streng nach Osten ausgerichtet
+  superlativ: ältestes erhaltenes Gebäude der Stadt
+  bestandteile_original: Östliches Langhaus, Chor und Turmanlage
+  besonderheit_krypta: unter südlichem Turm; Anfang 20. Jahrhundert als Läutestube genutzt
+  barocke_umgestaltung: 1730-1733
+  restaurierung_chor_bauhoehung_tuermen: 1904; Chor erhielt gotische Form zurück; Türme um 17 Meter erhöht
+  letzte_renovierung: 1982-1988
+  ausstattung: restauriertes Deckengemälde, Seitenaltäre, Grabkapelle
+  schaden_geschichte: hat als einziges alle Wechselfälle der Geschichte fast schadlos überstanden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: tor
+BEZEICHNUNG: Schwabentor
+ORTSTEIL_BEZUG: Kenzingen (Brotstraße)
+QUELLE: https://www.kenzingen.de/gaeste/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Erweiterung eines seit alters bestehenden kleinen Durchlasses
+  entstehung_19_jhdt: 19. Jahrhundert
+  erweiterung_fachwerkhaus: 1958 (südlich angrenzendes Fachwerkhaus)
+  nutzung_ab_1968: Zunftstube der Narrenzunft Welle-Bengel e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Wonnental
+QUELLE: https://www.kenzingen.de/gaeste/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsjahr: 1220
+  gruender: Rudolf von Üsenberg
+  klostertyp: Frauenkloster
+  ordensgeschichte: ab 1253 Zisterzienserorden
+  zerstoerungen: Bauernkrieg, Dreißigjähriger Krieg, 1676 von Franzosen
+  rolle_bei_uebersiedlung_1249: Hauskloster und Familiengrablage der oberen Herrschaft Üsenberg
+  nachnutzung_nach_saekularisation_1806: Rüben- und Zichorienfabrik
+  geschichtliche_bedeutung: Beginn der Industrialisierung Kenzingens
+GUELTIG_AB: 1220
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Franziskanerkloster
+ORTSTEIL_BEZUG: Kenzingen (Eisenbahnstraße)
+QUELLE: https://www.kenzingen.de/gaeste/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ordnung: Franziskaner
+  nachgewiesen_seit: Spätmittelalter
+  erbaut: 1659-1662
+  eigentumsverhaeltnisse_nach_saekularisation: 1832 in städtischen Besitz
+  nutzung_als_krankenhaus: 1889-1982 (städtisches Krankenhaus)
+  nutzung_ab_1985: AWO Altenpflegeheim
+  klosterkirche_errichtet: 17. Jahrhundert
+  klosterkirche_ausstattung: Kruzifix aus 16. Jahrhundert
+  klosterkirche_nutzung_ab_1891: Gotteshaus der evangelischen Kirchengemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Johanniterkloster
+ORTSTEIL_BEZUG: Kenzingen (Metzgerstraße)
+QUELLE: https://www.kenzingen.de/gaeste/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestand: Anfang 15. Jahrhundert bis 1806
+  nachnutzung: Gelände wurde zum Gefängnis umgebaut
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Paulinerkloster
+ORTSTEIL_BEZUG: Kirnhalden
+QUELLE: https://www.kenzingen.de/gaeste/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirchenname: Zum Heiligen Kreuz
+  lage: Straße Bleichheim - Freiamt
+  nachgewiesen_seit: 1360
+  saekularisiert: 1806
+  heutige_nutzung: bruderhausDIAKONIE Seniorenzentrum Kirnhalde
+GUELTIG_AB: 1360
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Kirnburg
+QUELLE: https://www.kenzingen.de/gaeste/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_urspruenglich: Residenz der Üsenberger
+  ersturkundliche_erwaehnung: 16. November 1219 (als "castro nostro Kvrinberc")
+  zerstoerung: 1638 von Soldaten Herzog Bernhards von Weimar
+  nachnutzung_nach_zerstoerung: Steinbruch
+  restaurierung: seit 1978 vorbildliche Restaurierung
+  eigentum_heute: Land Baden-Württemberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Veste Kirnburg
+QUELLE: https://www.kenzingen.de/kenzingen/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verkauf: 1352 von Friedrich von Üsenberg an Markgraf Heinrich IV. von Hachberg
+  kaufpreis: 2440 Mark Silber
+  verkauft_zusammen_mit: Stadt Kenzingen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: handwerksstaette
+BEZEICHNUNG: Hammerschmiede
+ORTSTEIL_BEZUG: Muckental
+QUELLE: https://www.kenzingen.de/rathaus/buergernachrichten/hinweistafel-fuer-die-historische-hammerschmiede-id_3597/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: funktionstüchtige Hammerschmiede
+  status_regional: eine der wenigen funktionstüchtigen Hammerschmieden im Schwarzwald
+  nutzer_heute: Schmiedezunft Emmendingen (Pflege des traditionellen Schmiedehandwerks)
+  denkmalstatus: Kulturdenkmal
+  beschilderung: Touristische Tafel seit 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Barbara Kirche
+ORTSTEIL_BEZUG: Nordweil
+QUELLE: https://www.kenzingen.de/gaeste/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Pfarrkirche mit zugehörigem Pfarrhaus
+  bauteile_ursprung: Teile aus 15. Jahrhundert
+  umbau_1760: größere Umbauten und Erweiterungen
+  umbau_1914: Umbauten und Erweiterungen
+  lage: oberhalb des Ortes Nordweil
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Üsenberger
+QUELLE: https://www.kenzingen.de/gaeste/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersturkundliche_erwaehnung_als_grundherr_kirchenstifter: 11. Jahrhundert
+  wirkungsgebiet: nördlicher Breisgau
+  gruendung_stadt_kenzingen: 1249 durch Rudolf II. von Üsenberg
+  gruendung_kloster_wonnental: 1220 durch Rudolf von Üsenberg als Hauskloster und Familiengrablage
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Rudolf II. von Üsenberg
+QUELLE: https://www.kenzingen.de/gaeste/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Stadtgründer
+  gruendung: gründete 1249 Stadt Kenzingen auf freiem Feld neben dem Dorf Kenzingen
+  standbild: Standbild im Üsenbergbrunnen (1824 errichtet)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Rudolf von Üsenberg
+QUELLE: https://www.kenzingen.de/gaeste/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Gründer des Klosters Wonnental
+  gruendung: 1220 Frauenkloster Wonnental
+GUELTIG_AB: 1220
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Friedrich von Üsenberg
+QUELLE: https://www.kenzingen.de/kenzingen/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handlung: verkaufte 1352 Stadt Kenzingen und Veste Kirnburg für 2440 Mark Silber an Markgraf Heinrich IV. von Hachberg
+GUELTIG_AB: 1352
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Heinrich IV. von Hachberg
+QUELLE: https://www.kenzingen.de/kenzingen/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Markgraf
+  erwerbung: erwarb 1352 Stadt Kenzingen und Veste Kirnburg für 2440 Mark Silber
+GUELTIG_AB: 1352
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Matthias Guderjan
+QUELLE: https://www.kenzingen.de/rathaus/buergernachrichten/neue-broschuere-kenzinger-geschichtswege-id_1181/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  amtszeit: 2009-2024 (zumindest)
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Dirk Schwier
+QUELLE: https://www.kenzingen.de/rathaus/buergernachrichten/zweite-winterwanderung-verbindet-bewegung-geschichte-und-genuss-id_4181/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  amtszeit: ab 2026
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Ute Kary
+QUELLE: https://www.kenzingen.de/rathaus/buergernachrichten/neue-broschuere-kenzinger-geschichtswege-id_1181/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Vorsitzende des Heimat- und Verkehrsvereins Kenzingen
+  amtszeit_ab: 2009-2013 (zumindest)
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Willi Enters
+QUELLE: https://www.kenzingen.de/rathaus/buergernachrichten/neue-broschuere-kenzinger-geschichtswege-id_1181/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  engagementform: langjähriges ehrenamtliches Engagement
+  autorenschaft: Autor der Broschüre "Kenzinger Geschichtswege"
+  leitung: Federführung bei inhaltlicher Überarbeitung des Geschichtsweges
+  publikation_broschuere: 2013
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Uwe Feißt
+QUELLE: https://www.kenzingen.de/rathaus/buergernachrichten/hinweistafel-fuer-die-historische-hammerschmiede-id_3597/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errungenschaft: 2022 Kenzinger Ehrenplakette für Verdienste zum Erhalt der Hammerschmiede
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Franz Sales Meyer
+QUELLE: https://www.kenzingen.de/rathaus/buergernachrichten/grossartiger-beitrag-zur-775jaehrigen-stadtgeschichte-id_3773/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Ausstellung zu Ehren von Franz Sales Meyer anlässlich des Stadtjubiläums 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.5
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Johannes Kaesler
+QUELLE: https://www.kenzingen.de/rathaus/buergernachrichten/zweite-winterwanderung-verbindet-bewegung-geschichte-und-genuss-id_4181/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Forstrevierleiter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Heimat- und Verkehrsverein Kenzingen
+QUELLE: https://www.kenzingen.de/rathaus/buergernachrichten/geschichtsweg-der-buergerschaft-uebergeben-id_833/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktivitaeten: Konzipierung und Neugestaltung des Kenzinger Geschichtsweges
+  aktion_1989: Vorheriger Geschichtsweg aus 1989
+  aktion_2009: Neugestaltung mit reduzierter Tafelanzahl und graphischer Neugestaltung
+  vorsitzende_2009: Ute Kary
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Arbeitsgemeinschaft für Geschichte und Landeskunde Kenzingen e.V.
+QUELLE: https://www.kenzingen.de/rathaus/buergernachrichten/grossartiger-beitrag-zur-775jaehrigen-stadtgeschichte_id_3773/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  publikation: Jubiläumsband der Buchreihe "Pforte" (2024)
+  seitenumfang: 400 Seiten
+  autorenanzahl: 31 Autoren
+  praesentationsdatum: 16. März 2024
+  praesentation_ort: Aula des Gymnasiums
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Schmiedezunft Emmendingen
+QUELLE: https://www.kenzingen.de/rathaus/buergernachrichten/hinweistafel-fuer-die-historische-hammerschmiede-id_3597/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Pflege des traditionellen Schmiedehandwerks
+  nutzung: betreibt die funktionstüchtige Hammerschmiede im Muckental
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Narrenzunft Welle-Bengel e.V.
+QUELLE: https://www.kenzingen.de/gaeste/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitz: Schwabentor (Brotstraße) seit 1968
+  raumnutzung: Zunftstube
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Geschichtsweg Kenzingen
+QUELLE: https://www.kenzingen.de/rathaus/buergernachrichten/geschichtsweg-der-buergerschaft-uebergeben-id_833/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstellung_original: 1989
+  neugestaltung: 2009 vom Heimat- und Verkehrsverein
+  uebergabe: 10. Mai 2009
+  inhaltliche_arbeit: Federführung Willi Enters
+  aenderungen_bei_neugestaltung: Tafeln reduziert, graphisch neu gestaltet, inhaltlich überarbeitet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: publikation
+BEZEICHNUNG: Kenzinger Geschichtswege
+QUELLE: https://www.kenzinger.de/rathaus/buergernachrichten/neue-broschuere-kenzinger-geschichtswege-id_1181/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  autor: Willi Enters
+  typ: Broschüre
+  veroeffentlichung: 2013
+  inhalt: eingehende Behandlung der Geschichtswegtafeln-Themen
+  erhaeltlichkeit: Bürgerbüro des Rathauses und örtlicher Buchhandel
+  preis: 10 Euro
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: publikation
+BEZEICHNUNG: Pforte (Jubiläumsband)
+QUELLE: https://www.kenzingen.de/rathaus/buergernachrichten/grossartiger-beitrag-zur-775jaehrigen-stadtgeschichte_id_3773/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herausgeber: Arbeitsgemeinschaft für Geschichte und Landeskunde Kenzingen e.V.
+  anlass: 775jähriges Stadtjubiläum 2024
+  seitenumfang: 400
+  autorenanzahl: 31
+  thema: Stadtgeschichte aus verschiedenen Blickwinkeln
+  praesentationsdatum: 16. März 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0

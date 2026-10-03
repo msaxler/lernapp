@@ -1,0 +1,309 @@
+ZIELORT: Achern (Stadt)
+LAGE: 48 km südwestlich von Karlsruhe (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Achern
+
+GRUNDDATEN:
+  landkreis: Ortenaukreis  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 26.873  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 65,24  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 412  [berechnet aus Einwohner und Fläche]
+  kfz: OG (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 142 | 145  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2959686)]
+  naechste_grossstadt: Karlsruhe, 48 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 83 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Achern, Achern Stadt  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 77855  [Wikidata P281]
+  vorwahl: 07841  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 34,3 %, AfD 22,5 %, SPD 12,2 %, GRÜNE 10,6 %, Die Linke 5,6 %, FDP 5,3 %; Wahlbeteiligung 82,3 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Manuel Tabor (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-03]
+  partnerstaedte: Morez  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C-LEITER, letzte Stufe mit "höher": 3
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT kfz: Kennzeichen (Ersatz: Partnerstadt), A, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Kenzingen (Stadt)
+  landkreis: Emmendingen  [dewiki Infobox]
+  einwohner: 10.829  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 36,93  [Wikidata P2046; Altbestand staedte.json]
+  kfz: EM (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 177 | 172  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2891590)]
+  naechste_grossstadt: Freiburg im Breisgau, 23 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  ersterwaehnung: 772  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  bahnhof: Bahnhof Kenzingen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 30,2 %, AfD 18,5 %, GRÜNE 16,6 %, SPD 15,8 %, Die Linke 6,1 %; Wahlbeteiligung 83,7 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Kenzingen, Achern, Rastatt, Eltville am Rhein, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Braubach, Vallendar
+
+FAKTEN (Zielort Achern):
+ID: 02-achern/001
+ENTITÄT: ort
+BEZEICHNUNG: Achern
+QUELLE: https://www.achern.de/de/Unsere-Stadt/Stadtportrait/Zahlen,-Daten-Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 28311 [Stand 31.03.2026]
+  haushalte: 17350 [Stand 31.03.2026]
+  beschaftigte: 14125 [Stand 30.06.2025]
+  arbeitslosenquote: 2,9 [% Stand Dezember 2025]
+  bettenzahl_tourismus: 1281 [Stand Dezember 2025]
+  uebernachtungen: 88714 [Stand Dezember 2025]
+  ist_kreisstadt: true
+  gewerbesteuer: 400 [%]
+  grundsteuer_a: 630 [% Stand 01.01.2025]
+  grundsteuer_b: 310 [% Stand 01.01.2025]
+  frischwasser_preis: 2.76 [EUR/m³]
+  abwasser_preis: 2.78 [EUR/m³]
+  kaufkraft_je_einwohner: 33547 [Euro]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 02-achern/002
+ENTITÄT: ort
+BEZEICHNUNG: Achern
+QUELLE: https://www.achern.de/de/Unsere-Stadt/Stadtportrait/Achern-Film | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_gesamtstadt: 1973
+  entstanden_durch_zusammenschluss: true
+  komponente_gemeinden: [Achern, Fautenbach, Gamshurst, Großweier, Mösbach, Oberachern, Önsbach, Sasbachried, Wagshurst]
+  stadtgeburtstag: 2023
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 02-achern/003
+ENTITÄT: bibliothek
+BEZEICHNUNG: Stadtbibliothek Achern
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.achern.de/de/Leben-Lernen/Stadtbibliothek/Ueber-uns | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Rathaus Am Markt, Rathausplatz 1
+  regalmeter: 1300
+  sitzplaetze: 101
+  fenster: 102
+  behindertengerecht: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 02-achern/004
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Achern – Morez
+QUELLE: https://www.achern.de/de/Unsere-Stadt/Stadtportrait/Partnerstadt-Morez | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstadt: Morez
+  land: Frankreich
+  region: Franche-Comté (Département Jura)
+  erneuerung_partnerschaft: 2011
+  aktivitaetsbereich: [Schulpartnerschaft, Wirtschaft, Vereine, Jugendliche]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 02-achern/005
+ENTITÄT: ort
+BEZEICHNUNG: Morez
+ORTSTEIL_BEZUG: null
+QUELLE: https://www.achern.de/de/Unsere-Stadt/Stadtportrait/Partnerstadt-Morez | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 6500 [ca.]
+  flaeche: 938 [Hektar]
+  hoehe_ueber_nn: 702 [Meter]
+  geographische_lage: Schlucht der Bienne, umgeben von Karstfelswänden
+  land: Frankreich
+  namensherkunft: Etienne Morel, der 1563 Werkstätten einrichtete
+  fruehe_namen: Combe-Noire, Combe à Morel, Morel-sous-Morbier, Morey
+  industriegeschichte: Mühlen, Schmieden, Erzhütten, Sägereien, Nagelfabriken (ab 16. Jh.), Uhrenherstellung (seit 17. Jh.), Email- und Brillenindustrie (seit 18./19. Jh.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 02-achern/006
+ENTITÄT: kirche
+BEZEICHNUNG: Christuskirche
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.achern.de/de/Leben-Lernen/Kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  gemeinde: Evangelische Kirchengemeinde Achern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-achern/007
+ENTITÄT: museum
+BEZEICHNUNG: Sensen-Handwerk-Stadtmuseum
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.achern.de/de/Freizeit-Tourismus/Museen/Sensen-Handwerk-Stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruender: Franz John
+  bestand: Sensen und Heimatmaterial
+  superlativ: einzigartiger Bestand an Sensen deutschlandweit
+  fokus: Produktionsschritte der Sensenfertigung
+  weitere_sammlungen: römische Besiedlung, Alltagsleben, Handwerk, Hanfproduktion, Zylinderproduktion, Champagnerflaschenproduktion
+  zeithistorische_dokumente: Luftangriff 07.01.1945, Wiederaufbau der Stadt
+  status: aktuell in Neuausrichtung, geschlossen
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 02-achern/008
+ENTITÄT: stadtteil
+BEZEICHNUNG: Fautenbach
+ORTSTEIL_BEZUG: Fautenbach
+QUELLE: https://www.achern.de/de/Unsere-Stadt/Stadtteile/Fautenbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 2150
+  gemarkung: 619 [Hektar]
+  ortsvorsteher: Rainer Ganter
+  erste_erwaehnung: 1085 [als "Vultenbach", ca.]
+  fruehe_wirtschaft: Mahlmühlen und Ölmühlen
+  wappensymbol: Mühlstein
+  historisches_ereignis_1734: Plünderung und Brände durch französische Truppen
+  kirche_historisch: St. Christina (ehemalige Pfarrkirche, heute kulturelle Rolle)
+  kulturelle_bedeutung: Kammermusikreihe "Alte Kirche Fautenbach" (erfolgreichste der Region)
+  rundfunk: Südwestrundfunk zeichnet jährlich drei Konzerte auf
+  partnerstadt_elsass: Scherwiller (bekannt für Riesling)
+  strasse_umbenannt: K5309 zu "Scherwiller Straße"
+  kreisverkehr_fremdbenannt: Rond-Point de Fautenbach
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 02-achern/009
+ENTITÄT: stadtteil
+BEZEICHNUNG: Wagshurst
+ORTSTEIL_BEZUG: Wagshurst
+QUELLE: https://www.achern.de/de/Unsere-Stadt/Stadtteile/Wagshurst | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsvorsteher: Gerd Boschert
+  herkunft: wahrscheinlich alemannischen Ursprungs
+  fruehe_herrscher: Fränkisches Gut, 1070 "vergabt" von Siegfried (Franke) an Wernherr II, Bischof von Straßburg
+  erste_urkundliche_erwaehnung: 1136
+  erwaehnung_quelle: Bulle von Papst Innozenz II (28.10.1136) bestaetigt Abtei Schuttern
+  eigenstaendige_gemeinde: 1809
+  bezirkszugehoerigkeit_1809_1819: Appenweier
+  bezirkszugehoerigkeit_1819_1859: Oberkirch
+  bezirkszugehoerigkeit_1858_1924: Achern
+  bezirkszugehoerigkeit_1924_1936: Bühl
+  bezirkszugehoerigkeit_1936_1972: Kehl
+  eingliederung_achern: 1973
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 02-achern/010
+ENTITÄT: stadtteil
+BEZEICHNUNG: Mösbach
+ORTSTEIL_BEZUG: Mösbach
+QUELLE: https://www.achern.de/de/Unsere-Stadt/Stadtteile/Moesbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsvorstherin: Gabi Bär
+  wirtschaftsschwerpunkt: Obstbau und Weinbau
+  obstarten: Kirschen, Zwetschgen, Äpfel
+  tradition: Herstellung "gebrannter Wässerchen"
+  kleinbrennereien: ca. 180
+  weitere_produkte: Erdbeeren, Himbeeren, Johannisbeeren, Spargel, Honig, Frischmilch, Rahmkäse, Eier
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 02-achern/011
+ENTITÄT: stadtteil
+BEZEICHNUNG: Großweier
+ORTSTEIL_BEZUG: Großweier
+QUELLE: https://www.achern.de/de/Unsere-Stadt/Stadtteile/Grossweier | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsvorsteher: Helmut Huber
+  jubileum: 850 Jahre Großweier
+  erste_erwaehnung_quellen_konflikt: [1143-1152, 1091-1115]
+  erwaehnung_1143_1152: Hauptstaatsarchiv Stuttgart bestätigt 13.09.1999
+  erwaehnung_1091_1115: nach Schenkungsbuch Kloster Reichenbach
+  kloester: Kloster Reichenbach (Tochterkloster von Hirsau)
+  kloster_hirsau_gruendung: 830
+  schenker: Sigwart von Hirsaha schenkte ca. 1091-1115 je halbe Hube (ca. 5 Hektar) in Achern und Großweier
+  lateinische_bezeichnung: Crosvilare
+  siedlungsstruktur_urkundlich: acht Einzelsiedlungen (Oberweier, Großweier, Hesselbach, Rodt, Fronrode, Hohenhurst, Egdessenloch)
+  mittelalter_bauwerk: Ritterburg (Wasserschloss, Lage im Bereich heutiger Friedhof)
+  rittergeschlecht_erste_nennung: 1236
+  erwaehnung_1236: Junker Johann von Crosvilare leistete Waffenhilfe gegen Walther von Geroldseck
+  ritterstand: Landadel, den Grafen von Eberstein hörig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 02-achern/012
+ENTITÄT: stadtteil
+BEZEICHNUNG: Oberachern
+ORTSTEIL_BEZUG: Oberachern
+QUELLE: https://www.achern.de/de/Unsere-Stadt/Stadtteile/Oberachern | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: ueber_4000
+  groesste_stadtteil: true
+  gemarkung: 563 [Hektar]
+  topographie: Streuobstwiesen, Reben (Südhänge), Mischwälder
+  hoechster_punkt: Lärmestang, 318 [Meter über NN]
+  gewaesser: Acher durchfließt den Ort
+  muhlbach_ursprung: bei Wehr in Holzstraße
+  muhlbach_geschichte: trieb Säge-, Öl-, Mahlmühlen und Hanfplaukeln an
+  muhlbach_heute: Stromgewinnung
+  geschichtstradition: ueber 900 Jahre
+  erste_erwaehnung: ca. 1090
+  kirche_stefanskirche: Erbaut 1903-1905, teilweise älter, erste Erwähnung im 12. Jahrhundert
+  kirche_antoniuskapelle: ueber 300jährige Tradition
+  fest: Alt-Oberacherner Heimatfest (alle zwei Jahre auf Kirchplatz)
+  vereine: 22 örtliche Vereine
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 02-achern/013
+ENTITÄT: betrieb
+BEZEICHNUNG: fischer Unternehmensgruppe
+QUELLE: https://www.achern.de/de/Unsere-Stadt/Stadtportrait/Zahlen,-Daten-Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschaftigte_achern: ca. 1000
+  beschaftigte_weltweit: 2600
+  rang_groesste_betriebe: 1
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-achern/014
+ENTITÄT: betrieb
+BEZEICHNUNG: Schleith GmbH Baugesellschaft
+QUELLE: https://www.achern.de/de/Unsere-Stadt/Stadtportrait/Zahlen,-Daten-Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschaftigte: 827
+  rang_groesste_betriebe: 2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-achern/015
+ENTITÄT: betrieb
+BEZEICHNUNG: Ortenau-Klinikum Achern
+QUELLE: https://www.achern.de/de/Unsere-Stadt/Stadtportrait/Zahlen,-Daten-Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschaftigte: ca. 670
+  rang_groesste_betriebe: 3
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 02-achern/016
+ENTITÄT: verkehrsinfrastruktur
+BEZEICHNUNG: Bahnhof Achern
+QUELLE: https://www.achern.de/de/Unsere-Stadt/Stadtportrait/Zahlen,-Daten-Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  regionalbahn_nord: Karlsruhe
+  regionalbahn_sued: Offenburg, Freiburg, Konstanz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 02-achern/017
+ENTITÄT: luftangriff
+BEZEICHNUNG: Bombenangriff auf Achern
+QUELLE: https://www.achern.de/de/Freizeit-Tourismus/Museen/Sensen-Handwerk-Stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1945-01-07
+  auswirkung: Zerstörung und Wiederaufbau der Stadt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+

@@ -20,7 +20,7 @@ GEPRUEFT = '--geprueft' in sys.argv  # Fassung nach dem Faktencheck (karten-gepr
 # --lauf v0.6 prüft die Karten des Prompts v0.6 (gleiches Format, dazu das Feld PRÜFHINWEIS)
 LAUF = sys.argv[sys.argv.index('--lauf') + 1] if '--lauf' in sys.argv else 'v0.5'
 KARTEN = os.path.join(ITER, 'karten-geprueft', LAUF) if GEPRUEFT else os.path.join(ITER, 'karten-' + LAUF)
-FELDER = 'FAKTENCHECK|SORTE|FAMILIE|FAKT-ID|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|NEGATIVNACHWEISE|PRÜFHINWEIS|## '
+FELDER = 'FAKTENCHECK|SORTE|FAMILIE|FAKT-ID|GEWÄHLTER FAKT|BEKANNTHEIT|VORDERSEITE|RÜCKSEITE|WÖRTER RÜCKSEITE|NEGATIVNACHWEISE|PRÜFHINWEIS|PRÜFSTUFE|ERFUNDEN|## '
 
 
 def feld(text, name):

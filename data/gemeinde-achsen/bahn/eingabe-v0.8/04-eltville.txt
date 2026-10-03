@@ -1,0 +1,887 @@
+ZIELORT: Eltville am Rhein (Stadt)
+LAGE: 11 km südwestlich von Wiesbaden (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Eltville am Rhein
+
+GRUNDDATEN:
+  landkreis: Rheingau-Taunus-Kreis  [dewiki Infobox]
+  bundesland: Hessen  [dewiki Infobox]
+  einwohner: 16.939  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 46,77  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 362  [berechnet aus Einwohner und Fläche]
+  hoehe_m: 95 | 86 | 99 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2930646)]
+  naechste_grossstadt: Wiesbaden, 11 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Wiesbaden, 11 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Eltville, Bahnhof Hattenheim  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 65343, 65344, 65345, 65346, 65347  [Wikidata P281]
+  vorwahl: 06123  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 36,7 %, GRÜNE 16,3 %, SPD 15,4 %, AfD 12,5 %, FDP 7 %, Die Linke 6 %; Wahlbeteiligung 86,3 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Patrick Kunkel (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-03]
+  partnerstaedte: Passignano sul Trasimeno, Montrichard, Arzens  [Wikidata P190]
+  kfz: RÜD (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand staedte.json]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Fläche der Gemarkung), C, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Rastatt (Stadt)
+  landkreis: Rastatt  [dewiki Infobox]
+  einwohner: 50.753  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 58,98  [Wikidata P2046; Altbestand staedte.json]
+  kfz: RA (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 123 | 124 | 126  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2850257)]
+  naechste_grossstadt: Karlsruhe, 22 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  ersterwaehnung: 1084  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  bahnhof: Bahnhof Rastatt, Bahnhof Wintersdorf (Baden)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: AfD 31,4 %, CDU 28,2 %, SPD 13,8 %, GRÜNE 7,8 %, Die Linke 6,1 %; Wahlbeteiligung 75,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Kenzingen, Achern, Rastatt, Eltville am Rhein, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Braubach, Vallendar
+
+FAKTEN (Zielort Eltville am Rhein):
+ID: 04-eltville/001
+ENTITÄT: burg
+BEZEICHNUNG: Burg Crass
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: ältestes Bauwerk der Stadt
+  lage: Leinpfad
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-eltville/002
+ENTITÄT: turm
+BEZEICHNUNG: Stadtturm
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urspruengliche_funktion: Teil des Sülztores
+  sülztor_funktion: Stadtabsicherung nach Osten
+  umgestaltung: neugotisch
+  umgestaltung_zeitraum: 19. Jahrhundert
+  vorbild_umgestaltung: Turm der Kurfürstlichen Burg
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-eltville/003
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gelbes Haus
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Burgstraße, direkt auf der Stadtmauer
+  baujahr_ungefaehr: nach 1635
+  architektur: Fachwerkbau
+GUELTIG_AB: 1635
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-eltville/004
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gensfleischhaus
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urspruengliche_funktion: Teil eines Adelshofes
+  benannt_nach: Familie Gensfleisch (Vorfahren Johannes Gutenbergs)
+  bekannter_bewohner: Friele Gensfleisch, Bruder des Erfinders
+  zeitraum_bewohner: 1434-1447
+GUELTIG_AB: 1434
+GUELTIG_BIS: 1447
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-eltville/005
+ENTITÄT: gebaeude
+BEZEICHNUNG: Stockheimer Hof / Langwerther Hof
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: um 1550
+  eigentuemer_ab_1711: Freiherr Langwerth von Simmern
+GUELTIG_AB: 1550
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-eltville/006
+ENTITÄT: brunnen
+BEZEICHNUNG: Stadtbrunnen
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Marktplatz
+  kuenstler: Finger Rokitnitz
+  baujahr: 1989
+GUELTIG_AB: 1989
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-eltville/007
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: spätgotisch
+  bauzeit: 1350-1440
+  kunstwerke: bedeutende Werke der Malerei und Bildhauerkunst
+GUELTIG_AB: 1350
+GUELTIG_BIS: 1440
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-eltville/008
+ENTITÄT: gebaeude
+BEZEICHNUNG: Alte Schule
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urspruengliche_funktion: gemeine Schule
+  lage: Kirchenhügel
+  fachwerkobergeschoss_baujahr: 16. Jahrhundert
+GUELTIG_AB: 1500
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 04-eltville/009
+ENTITÄT: rathaus
+BEZEICHNUNG: Ältestes Rathaus
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Schmittstraße
+  baujahr: 1513
+  nutzungszeitraum: 1513-1827
+  superlativ: ältestes Rathaus
+GUELTIG_AB: 1513
+GUELTIG_BIS: 1827
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-eltville/010
+ENTITÄT: platz
+BEZEICHNUNG: Entenplatz
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: am Breitenstein
+  urspruengliche_funktion: Wehr- und Gerichtsplatz
+  volksname: Entenplatz
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 04-eltville/011
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus Rose
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1480
+  urspruenglicher_name: Hof "uff der Rosen"
+  lage: direkt am Rhein
+GUELTIG_AB: 1480
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-eltville/012
+ENTITÄT: tor
+BEZEICHNUNG: Martinstor
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: einzige erhaltenes Stadttor
+  frueheres_holztor: Norden
+  frueheres_kappeltor: Westen
+  frueheres_suelztor: Osten
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-eltville/013
+ENTITÄT: befestigung
+BEZEICHNUNG: Stadtmauer
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: nach 1332
+  anlass_bau: Stadterhebung
+  lage_reste: unteres Ende Leergasse in voller Höhe
+GUELTIG_AB: 1332
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-eltville/014
+ENTITÄT: turm
+BEZEICHNUNG: Sebastiansturm
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standbild: heiliger Sebastianus (Stadtpatron)
+  funktion: südwestlicher Eckpfeiler der Stadtbefestigung
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 04-eltville/015
+ENTITÄT: hof
+BEZEICHNUNG: Hof Bechtermünz
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zentrale_gebaeude: Renaissancebau
+  eigentuemer: Gebrüder Bechtermünz
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 04-eltville/016
+ENTITÄT: gebaeude
+BEZEICHNUNG: Sohlern'scher Hof
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Leergasse
+  eigentuemer_ab_1811: Matheus Müller
+  sektproduktion_ab: 1837
+  bedeutung: eine der ersten deutschen Sektkellereien
+  architektur: klassizistisches Portal
+GUELTIG_AB: 1811
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-eltville/017
+ENTITÄT: gebaeude
+BEZEICHNUNG: Eltzer Hof
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/historische-altstadt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: zwischen Rosen- und Martinsgasse
+  beschreibung: Gebäudegruppe
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 04-eltville/018
+ENTITÄT: burg
+BEZEICHNUNG: Kurfürstliche Burg
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/sehenswuerdigkeiten/eltville/kurfuerstliche-burg/geschichte-der-kurfuerstlichen-burg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundriss: unregelmäßiger viereckiger Grundriss
+  lage_stadt: südöstlicher Eckpfeiler der mittelalterlichen Stadtbefestigung
+  baujahr: erste Hälfte 14. Jahrhundert
+  benannt_nach: "Trutz Mainz"
+  grund_bau: Kampf gegen Gegenkönig Heinrich von Virneburg
+  vorgaenger: Burg, zerstört im Zollkrieg 1301
+  funktion_14_15_jh: bevorzugte Residenz und Verwaltungssitz der Mainzer Erzbischöfe und Kurfürsten
+  dauer_funktion: 150 Jahre
+  zerstoerung_1635: durch schwedische Truppen (Dreißigjähriger Krieg)
+  zerstoerung_details: nur Turm blieb erhalten
+  wiederaufbau_17_jh: Ostflügel neu errichtet
+  zustand_heute: Ruine (übrige Teile)
+  eigentuemer_bis_1803: Kurmainz
+  eigentuemer_1803_1866: Herzogtum Nassau
+  eigentuemer_1866_1936: Preußen
+  eigentuemer_ab_1936: Stadt Eltville
+  außenmauer: zugemauerte Fenster (gehörte zum Palas)
+  palas: schloss nach Westen an Turm an
+  zwinger: 4m unter Kernburg nach Süden vorgelagert
+  graben: nach Westen und Norden
+GUELTIG_AB: 1330
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-eltville/019
+ENTITÄT: ort
+BEZEICHNUNG: Eltville am Rhein
+ORTSTEIL_BEZUG:
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/eltville/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Stadt des Weines, des Sektes und der Rosen
+  hoehenlage: 90 m hohe Terrasse
+  lage_geografisch: Fuß des Rheingaugebirges, zwischen Rüdesheim und Wiesbaden
+  charakterisierung_stadt: liebenswerte Kleinstadt
+  geschichtsreichtum: große Vergangenheit
+  ortskern_struktur: ehemals mit Stadtmauer umgebenes Viereck
+  rheinufer_merkmale: historische Bauwerke und Restes der Stadtbefestigung, Architekturkunstwerk über 7 Jahrhunderte
+  verkehrsbelastung: autofreies Rheinufer
+  schutzherren_14_15_jh: Mainzer Erzbischöfe und Kurfürsten
+  beziehung_mainz: Geschichte eng verbunden mit Mainz
+  entfernung_mainz: 15 km stromaufwärts auf anderer Rheinseite
+  stadtrechte_jahr: 1332
+  stadtrechte_basis: nach Frankfurter Muster
+  zentralbefugnisse: bis Mitte 19. Jh. einzige Stadt und Sitz der Zentralbehörden des ganzen Rheingaus
+  hauptstadtstatus_loss: verloren an Rüdesheim (19. Jahrhundert)
+  blütezeit: 14. und 15. Jahrhundert
+  wirtschaftlicher_niedergang: 16.-18. Jahrhundert (Truppendurchzüge, Plünderungen, Pest)
+  pest_jahr: 1666
+  pest_effekt: dezimierte verarmte Bevölkerung
+  bevoelkerung_1500: ca. 1300 Einwohner
+  wirtschaftlicher_aufschwung: 19. Jahrhundert (Sektkellerei, reiche Neubürger mit Villen)
+  gebietsreform_jahr: 1976
+  eingemeindete_nachbargemeinden: Erbach, Hattenheim, Martinsthal, Rauenthal
+  aktuelle_bevoelkerung: fast 18.000 Einwohner
+  administrativer_kreis: Rheingau-Taunus-Kreis, Kreisstadt Bad Schwalbach
+GUELTIG_AB: 1332
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 04-eltville/020
+ENTITÄT: ortsname
+BEZEICHNUNG: Alta Villa
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/eltville/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: lateinische Übersetzung eines fränkischen Ortsnamens
+  fruehe_siedlung: Jungsteinzeit (Siedlungsspuren)
+  roemische_periode: bis ins 19. Jahrhundert
+  fruehestbekannte_besiedlung: seit 460/470 n. Chr. (Frühmittelalterliches Gräberfeld)
+  entstehungsgruppe: vermutlich um fränkischen Königshof
+  lage_koenigshof: an Stelle der Kurfürstlichen Burg
+  verwaltungszentrum: östlicher Rheingau
+  volkssprachig: "Eldevile"
+GUELTIG_AB: 460
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-eltville/021
+ENTITÄT: schenkung
+BEZEICHNUNG: Veroneser Schenkung
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/eltville/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 983
+  beschreibung: Rheingau in den Besitz der Mainzer Erzbischöfe übergeben
+GUELTIG_AB: 983
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-eltville/022
+ENTITÄT: person
+BEZEICHNUNG: Erzbischof Bardo
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/eltville/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  epoche: 11. Jahrhundert
+  aufenthalt_ort: Alta Villa ("Eldevile")
+  grund_aufenthalt: Zuflucht vor streitbaren Mainzer Bürgern
+GUELTIG_AB: 1000
+GUELTIG_BIS: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 04-eltville/023
+ENTITÄT: person
+BEZEICHNUNG: Balduin von Trier
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/eltville/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Erzbischof vom Mainzer Domkapitel gewählt, vom Papst nicht bestätigt
+  rolle: baute Eltville zu Stützpunkt gegen Rivalen aus
+  rival: Heinrich von Virneburg
+  burgbau_beginn: 1330
+  burgname: "Trutz Mainz"
+  burggrund: auf Trümmern im Zollkrieg 1301 zerstörter Burg
+  beschaffung_stadtrechte: erbat für Eltville besondere Privilegien vom Kaiser
+GUELTIG_AB: 1330
+GUELTIG_BIS: 1344
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-eltville/024
+ENTITÄT: person
+BEZEICHNUNG: Kaiser Ludwig der Bayer
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/eltville/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grant_year: 1332
+  grant_details: verlieh Eltville Stadtrechte nach dem Muster der Stadt Frankfurt
+  grant_rechte: Recht zum Bau von Befestigungsmauern und Gräben
+GUELTIG_AB: 1332
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-eltville/025
+ENTITÄT: person
+BEZEICHNUNG: Heinrich von Virneburg
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/eltville/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Erzbischof
+  relation: Nachfolger Balduins von Trier
+  kaisersbesuch: 1344
+  besuchsort: Kurfürstliche Burg
+  burgstatus_bis_15_jh: bevorzugter Aufenthaltsort der Mainzer Erzbischöfe und Kurfürsten
+GUELTIG_AB: 1344
+GUELTIG_BIS: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-eltville/026
+ENTITÄT: person
+BEZEICHNUNG: Günther von Schwarzburg
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/eltville/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Gegenkönig
+  year_konflikt: 1349
+  conflict_opponent: Karl IV.
+  fluchtort: Kurfürstliche Burg Eltville
+  handlung: unterzeichnete Thronverzicht
+  schicksal: starb auf dem Weg nach Frankfurt
+  todesvermutung: möglicherweise vergiftet (Limburger Chronik)
+GUELTIG_AB: 1349
+GUELTIG_BIS: 1349
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 04-eltville/027
+ENTITÄT: person
+BEZEICHNUNG: Erzbischof Gerlach von Nassau
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/eltville/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  relation: Nachfolger Heinrichs von Virneburg
+  handlung: begann Wiederaufbau der Pfarrkirche St. Peter und Paul
+GUELTIG_AB: 1350
+GUELTIG_BIS: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 04-eltville/028
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Peter und Paul
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/eltville/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wiederaufbau_beginn: nach 1349
+  wiederaufbau_beauftragte: Erzbischof Gerlach von Nassau
+  bauzeit: bis ins 15. Jahrhundert
+GUELTIG_AB: 1349
+GUELTIG_BIS: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 04-eltville/029
+ENTITÄT: person
+BEZEICHNUNG: Matheus Müller
+ORTSTEIL_BEZUG: Eltville
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/eltville/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: erwarb Sohlern'schen Hof
+  aktion_jahr: 1811
+  gründung: Sektkellerei (ab 1837)
+  bedeutung: trug zu wirtschaftlichem Aufschwung im 19. Jahrhundert bei
+GUELTIG_AB: 1811
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-eltville/030
+ENTITÄT: stadtteil
+BEZEICHNUNG: Erbach
+ORTSTEIL_BEZUG: Erbach
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/erbach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: Kloster Eberbach und gleichnamiger Bach
+  bach_muendung: in den Rhein
+  groesse_stadtteil: zweitgrößter Stadtteil von Eltville
+  geschichte_alter: über 1000 Jahre
+  bekannt_wegen: hervorragender Wein und Erdbeeren
+  wichtige_persoenlichkeit: Marianne von Preußen, Prinzessin der Niederlande
+GUELTIG_AB: 1141
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-eltville/031
+ENTITÄT: gebaeude
+BEZEICHNUNG: Draiser Hof / Weingut Baron Knyphausen
+ORTSTEIL_BEZUG: Erbach
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/erbach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_jahr: 1141
+  funktion_wirtschaftshof: Grangie (Wirtschaftshof von Kloster Eberbach)
+  bedeutung: erster Wirtschaftshof und ältester Klosterbesitz außerhalb Eberbachs
+  heutiger_name: Weingut Baron Knyphausen
+GUELTIG_AB: 1141
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-eltville/032
+ENTITÄT: person
+BEZEICHNUNG: Marianne von Preußen
+ORTSTEIL_BEZUG: Erbach
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/erbach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Prinzessin der Niederlande
+  charakterisierung: unermesslich reiche Gönnerin
+  rolle_ort: untrennbar mit Erbach verbunden
+  immobilien_kauf: Schloss Reinhartshausen und Mariannenaue
+  kauf_jahr: 1855
+  tragisches_ereignis: Sohn Johann Wilhelm starb an Scharlach
+  sohn_todestag: Weihnachten 1861 (25.12.1861)
+  sohn_alter: 11 Jahre
+  reaktion_stiftung: am selben Abend 60.000 Gulden gestiftet
+  stiftungszweck: Bau evangelische Kirche (Johanneskirche) mit Pfarrhaus und Pfarrstelle
+GUELTIG_AB: 1855
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-eltville/033
+ENTITÄT: kirche
+BEZEICHNUNG: Johanneskirche
+ORTSTEIL_BEZUG: Erbach
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/erbach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denomination: evangelisch
+  anlass_stiftung: Tod von Johann Wilhelm (Sohn Mariannes)
+  gruenderin: Marianne von Preußen
+  stiftungssumme: 60.000 Gulden
+  stiftungsdatum: 25.12.1861
+  begrabung: Johannes (Sohn) in Gruft hinter Altar
+  superlativ: größte und prunkvollste evangelische Kirche im Rheingau
+GUELTIG_AB: 1861
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-eltville/034
+ENTITÄT: weinlage
+BEZEICHNUNG: Marcobrunn
+ORTSTEIL_BEZUG: Erbach
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/erbach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  attribut: Erbacher Weinlage
+  merkmal: Brunnendenkmal
+  ruf: Weltruf
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-eltville/035
+ENTITÄT: fest
+BEZEICHNUNG: Erdbeerfest
+ORTSTEIL_BEZUG: Erbach
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/erbach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: jährlich im Juni
+  fokus: Wein und Erdbeeren
+  groesse: eines der größten Volksfeste im Rheingau
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-eltville/036
+ENTITÄT: stadtteil
+BEZEICHNUNG: Rauenthal
+ORTSTEIL_BEZUG: Rauenthal
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/rauenthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: bekanntes Weindorf
+  erste_erwaehnung: 1274
+  namensherkunft: "rauhem Thale"
+  namensbedeutung_vermutung: Hinweis auf Bodenbeschaffenheit, "in Kultur genommen" durch Bauern
+  lage: höchst gelegener Stadtteil von Eltville
+GUELTIG_AB: 1274
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-eltville/037
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Antonius
+ORTSTEIL_BEZUG: Rauenthal
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/rauenthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: spätgotisch
+  alter: mehr als 500 Jahre alt
+  bauzeit: 1468-1491
+  kunstwerke: Madonna mit Traube (um 1500)
+  erscheinung: wehrhaft
+GUELTIG_AB: 1468
+GUELTIG_BIS: 1491
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-eltville/038
+ENTITÄT: erinnerung
+BESCHREIBUNG: Pest in Rauenthal
+ORTSTEIL_BEZUG: Rauenthal
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/rauenthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pest_jahr: 1660
+  reaktion: Bürgermeister ließ sieben Linden auf Kirchplatz pflanzen
+  anlass: zum Gedenken an sieben verstorbene Familienmitglieder
+GUELTIG_AB: 1660
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 04-eltville/039
+ENTITÄT: lokalitaet
+BEZEICHNUNG: Bubenhäuser Höhe
+ORTSTEIL_BEZUG: Rauenthal
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/rauenthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: natürliches Kleinod
+  aussicht: weiter Blick ins Rheintal
+  veranstaltung: Bubenhäuser Weinrunde
+  veranstaltung_zeitpunkt: alljährlich Pfingstmontag
+  veranstaltung_teilnehmer: Tausende Besucher
+  veranstaltung_merkmale: Weinstände und Bewirtung
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-eltville/040
+ENTITÄT: weinlage
+BEZEICHNUNG: Rauenthaler Baiken
+ORTSTEIL_BEZUG: Rauenthal
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/rauenthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: berühmte Weinlage
+  lage: unterhalb der Bubenhäuser Höhe
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-eltville/041
+ENTITÄT: wein
+BEZEICHNUNG: Rauenthaler Wein
+ORTSTEIL_BEZUG: Rauenthal
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/rauenthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auszeichnung: "zum besten Wein der Welt" gekürt
+  auszeichnung_ort: Pariser Weltausstellung
+  auszeichnung_jahr: 1867
+  auszeichnung_praesentatant: August Wilhelmj (Weinhändler aus Hattenheim)
+GUELTIG_AB: 1867
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-eltville/042
+ENTITÄT: stadtteil
+BEZEICHNUNG: Hattenheim
+ORTSTEIL_BEZUG: Hattenheim
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/hattenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bekannteste_sehenswuerdigkeit: Kloster Eberbach (gehört zur Gemarkung)
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-eltville/043
+ENTITÄT: burg
+BEZEICHNUNG: Turmburg Hattenheim
+ORTSTEIL_BEZUG: Hattenheim
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/hattenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: um 1100
+  erbauer: "Herren von Hattenheim"
+  lage: Mittelpunkt des idyllischen Ortskerns
+  eigentuemer_ab_1462: Freiherrn Langwerth von Simmern
+  bewohndauer: drei Jahrhunderte
+  zeitraum_bewohnung: 1462-ca. 1762
+  nutzung_heute: Austragungsort Veranstaltungen und Feste
+GUELTIG_AB: 1100
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-eltville/044
+ENTITÄT: zunft
+BEZEICHNUNG: Schröter (Zunft)
+ORTSTEIL_BEZUG: Hattenheim
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/hattenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erwaehnung_dokument: Schröterbruderschaftsbuch
+  erwaehnung_jahr: 1442
+  taetigkeit: Weinfässer aus Kellern holen
+  taetigkeit_details: an Schiffe am Rhein transportieren und verladen
+  bedeutung: sehr verantwortungsvolle Aufgabe
+  wortherkunft: mittelhochdeutsch "schroten" = schleifen, zerren, ziehen
+GUELTIG_AB: 1442
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-eltville/045
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Deutsch-Französische Städtepartnerschaft Hattenheim-Arzens
+ORTSTEIL_BEZUG: Hattenheim
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/hattenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1963
+  bedeutung: erste Deutsch-Französische Städtepartnerschaft in Hessen
+  partnerstadt: Arzens
+  partnerstadt_lage: Südfrankreich nahe der spanischen Grenze
+GUELTIG_AB: 1963
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 04-eltville/046
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Natur pur
+ORTSTEIL_BEZUG: Hattenheim
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/hattenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  organisatoren: Hattenheimer Winzer
+  start_jahr: 1993
+  zeitpunkt: jährlich am Tag der Deutschen Einheit (3. Oktober)
+  anzahl_winzer: 16
+  laenge_weinstrecke: 3,7 Kilometer
+  ort: Hattenheimer Weinbergsgemarkung
+  angebot: Wein und Schlemmereien
+  bewertung: Highlight auf dem Rheingauer Festkalender
+GUELTIG_AB: 1993
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-eltville/047
+ENTITÄT: stadtteil
+BEZEICHNUNG: Martinsthal
+ORTSTEIL_BEZUG: Martinsthal
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/martinsthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urspruenglicher_name: Rode
+  urspruengliche_lage: außerhalb des Rheingauer Gebücks
+  verlegung_jahr: 14. Jahrhundert
+  verlegung_durch: Mainzer Erzbischof Gerlach von Nassau
+  neue_lage: innerhalb des Rheingauer Gebücks (Grenzwall)
+  zweitname: "Mertinsdal"
+  buergername_frueh: Neudorf
+  namenszurueckbesinnung_jahr: 1935
+  schutzpatron: Mainzer Erzbistum
+GUELTIG_AB: 1000
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 04-eltville/048
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche Martinsthal
+ORTSTEIL_BEZUG: Martinsthal
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/martinsthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: kleine gotische Kirche
+  nutzung_heute: Kulturkirche für Veranstaltungen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-eltville/049
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rat-, Back- und Wirtshaus
+ORTSTEIL_BEZUG: Martinsthal
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/martinsthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Marktplatz
+  architektur: reich geschmückter Fachwerkbau
+  baujahr: 16. Jahrhundert
+GUELTIG_AB: 1500
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 04-eltville/050
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Stehkragenwinzer
+ORTSTEIL_BEZUG: Martinsthal
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/martinsthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Bonifatius Stirnberg
+  lage: Marktplatz Martinsthal
+  beschreibung: Figur, die stolze Winzer darstellt, die stets geschniegelt zur Arbeit gingen
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 04-eltville/051
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Wildsau-Gruppe
+ORTSTEIL_BEZUG: Martinsthal
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/martinsthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Bonifatius Stirnberg
+  lage: Ortsausgang in Richtung Schlangenbad
+  anlehnung: berühmte Weinlage "Martinsthaler Wildsau"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-eltville/052
+ENTITÄT: ereignis
+BESCHREIBUNG: Schwedische Invasion
+ORTSTEIL_BEZUG: Martinsthal
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/martinsthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kriegszusammenhang: Dreißigjähriger Krieg
+  jahr: 1631
+  eindringgruppe: schwedische Truppen
+  eintrittsweg: Neudorfer Doppeltor
+  strategische_bedeutung: Eroberung der östlichen Bastion des Gebücks
+  ergebnis: Schweden konnten Rheingau in ihre Gewalt bringen
+  moeglicher_grund: Unachtsamkeit betrunken Wächter oder Verrat
+  geschichtliche_bedeutung: herausragendes geschichtliches Ereignis von überörtlicher Bedeutung
+GUELTIG_AB: 1631
+GUELTIG_BIS: 1631
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 04-eltville/053
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Nordumgehung Eltville
+ORTSTEIL_BEZUG: Martinsthal
+QUELLE: https://www.eltville.de/freizeit-tourismus/erleben-entdecken/stadtportrait/stadtteile/martinsthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1989
+  widerstand: lange Jahre Widerstände durch Winzer und Bauern Martinsthals
+  grund_widerstand: Opferung von Weinbergen und Feldern
+  loesung: Tauschgeschäft zwischen Stadt Eltville und Martinsthälern
+  loesungsdetail: erhielten an anderer Stelle Weinberge und Land zugesprochen
+GUELTIG_AB: 1989
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
