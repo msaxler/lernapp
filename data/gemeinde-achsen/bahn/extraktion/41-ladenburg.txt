@@ -1,0 +1,616 @@
+ENTITÄT: ort
+BEZEICHNUNG: Ladenburg
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_alte_stadt_deutschland: true
+  superlativ: "älteste Stadt im Rhein-Neckar-Kreis"
+  ist_lebendige_stadt: true
+  charakteristikum: "verbindet Tradition und Moderne"
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Ladenburg
+QUELLE: https://www.ladenburg.de/de/Das-ist-Ladenburg/Zahlen,Daten,Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 12740
+  stand_einwohnerzahl: 2025-12-31
+  verwaltungsart: "kreisangehörige Stadt"
+  kreis: "Rhein-Neckar-Kreis"
+  regierungsbezirk: "Karlsruhe"
+  gemeinderatsitze: 22
+  hoehe_meter: 106
+  flaeche_km2: 19
+  postleitzahl: "68526"
+  vorwahl: "06203"
+  gps_breite: "49° 28' 26.4 N"
+  gps_laenge: "8° 36' 27.72 E"
+  entfernung_frankfurt_flughafen_km: 72
+  entfernung_mannheim_km: 13
+  entfernung_heidelberg_km: 14
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: siedlung_keltisch
+BEZEICHNUNG: frühe Kelten-Siedlung
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geergruendung_vor_zeitenwende_jahre: 3000
+  lage_ausgangspunkt: "Neckarschwemmkegel"
+  benannt_nach_keltischer_wurzel: true
+  namensherkunft: "Bedeutung noch im Dunkel der Zeit; Wurzeln im heutigen Stadtnamen überlebt"
+GUELTIG_AB: -1000
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: keltenschanze
+BEZEICHNUNG: Keltenschanze (archäologisches Objekt)
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  form: "quadratisch"
+  lage: "Südosten der Stadt"
+  vermutlicher_zweck: "kultische Zwecke"
+  fund_status: "archäologische Reste ausgegraben"
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: roemische_stadt
+BEZEICHNUNG: Lopodunum
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  roemischer_name: "Lopodunum"
+  gruendung_jahr: 70
+  hauptort_civitas: "Civitas Ulpia Sueborum Nicrensium"
+  bedeutsame_herrschaft: "Kaiser Trajan"
+  gründungsjahr_hypothese: 98
+  verbreitung_römischer_präsenz_start: 98
+  verbreitung_römischer_präsenz_end: 260
+  blütezeit_jahr: 200
+GUELTIG_AB: 70
+GUELTIG_BIS: 360
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: roemische_stadt_infrastruktur
+BEZEICHNUNG: Stadtmauer (römisch, Lopodunum)
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "befestigte Stadtanlage mit Tempel, Schauspieltheater, Thermen und Forum mit Marktbasilika"
+  nachgewiesene_existenz_jahr: 200
+GUELTIG_AB: 70
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: germanischer_stamm
+BEZEICHNUNG: Neckarsweben
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: "Elbegebiet"
+  Zeit_ankunft: "um die Zeitenwende"
+GUELTIG_AB: 0
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: barbarischer_stamm
+BEZEICHNUNG: Alemannen
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verdraengung_roemer_jahr: 260
+  eroberung_stadt: "verdrängte Römer aus Ladenburg"
+  romische_rückkehr_episode: "kurze Episode um 360"
+GUELTIG_AB: 260
+GUELTIG_BIS: 360
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: franken_herrschaft
+BEZEICHNUNG: Franken in Ladenburg
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  königshof_errichtung_jahr: 500
+  bedeutung_symbol: "königlicher Hof"
+  hauptstadt: "Hauptstadt des Lobdengaus"
+  beschenkung_jahr: 600
+  beschenker: "Frankische Könige"
+  beschenkter: "Bischof von Worms"
+  nebenresidenz_entwicklung: true
+  herrschaftsdauer_jahr_von: 600
+  herrschaftsdauer_jahr_bis: 1705
+GUELTIG_AB: 500
+GUELTIG_BIS: 1705
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Gallus-Kirche
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekturstil: "gotisch"
+  tuermigkeit: "zweitürmig"
+  bauzeit: "1270-1478"
+  grund_bau: "Unterstreichen der Bedeutung Ladenburgs durch deutsche Könige und Kaiser"
+  besuchergruppen_historisch: "Heinrich II., Heinrich IV., Maximilian I."
+  bedeutende_reliquiare_oder_merkmale: true
+GUELTIG_AB: 1270
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Sebastian-Kapelle
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kontext_errichtung: "bischöfliche Herrschaft"
+GUELTIG_AB: 600
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bischofshof
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heutige_nutzung: "Sitz des Lobdengau-Museums"
+  ursprungskontext: "bischöfliche Residenz"
+  nutzungszeitraum_bischoefl: 600-1705
+GUELTIG_AB: 600
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Fürstenbau
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heutige_nutzung: "Sitz der Stadtbibliothek"
+  ursprungskontext: "bischöfliche Residenz"
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtmauer
+BEZEICHNUNG: Stadtmauer (Mittelalter)
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_erste_maueranlage_zeit: "9./10. Jahrhundert"
+  erweiterung_zeit: "um 1200"
+  besondere_merkmale: "Mauerzüge, Martinstor, Hexenturm, Teile des Pfaffenturmes"
+  touristisches_merkmal: true
+GUELTIG_AB: 900
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: tor
+BEZEICHNUNG: Martinstor
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kontext_stadtmauer: true
+  erhaltungsstatus: "erhalten"
+  merkmal_touristisch: true
+GUELTIG_AB: 900
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: turm
+BEZEICHNUNG: Hexenturm
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kontext_stadtmauer: true
+  erhaltungsstatus: "erhalten"
+  merkmal_touristisch: true
+GUELTIG_AB: 900
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: turm
+BEZEICHNUNG: Pfaffenturm
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kontext_stadtmauer: true
+  erhaltungsstatus: "teilweise erhalten"
+  merkmal_touristisch: true
+GUELTIG_AB: 900
+GUELTIG_BIS: 
+IST_VERMUTHEIM_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Johannes von Dalberg
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1445
+  todesjahr: 1503
+  titel: "Wormser Bischof"
+  charakterisierung: "bekannter Humanist"
+GUELTIG_AB: 1445
+GUELTIG_BIS: 1503
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Johann Friedrich von Seilern
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1646
+  todesjahr: 1715
+  herkunft: "Ladenburger Färbersohn"
+  karriere_titel: "Kanzler des Heiligen Römischen Reiches"
+  leistung_beschreibung: "verfasste die Pragmatische Sanktion"
+  leistung_kontext: "ebnete der habsburgischen Kaiserin Maria Theresia den Weg auf den Kaiserthron"
+GUELTIG_AB: 1646
+GUELTIG_BIS: 1715
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Arcangelo Corelli
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1653
+  todesjahr: 1713
+  profession: "italienischer Komponist und Geiger"
+  titel: "Marquis de Ladenburg"
+  titel_verliehen_von: "Kurfürst Johann Wilhelm"
+GUELTIG_AB: 1653
+GUELTIG_BIS: 1713
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Johann Christoph Sauer
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1695
+  todesjahr: 1757
+  beruf: "Drucker"
+  emigration_jahr: 1724
+  emigration_land: "Amerika"
+  leistung: "gab erste Bibel in deutscher Sprache in Amerika heraus"
+GUELTIG_AB: 1695
+GUELTIG_BIS: 1757
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Carl Benz
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1844
+  todesjahr: 1929
+  beruf: "Erfinder des Automobils"
+  titel: "Dr."
+  wohnzeit_in_ladenburg: "1904-1929"
+  ehrenbuergerrecht: true
+  ehrenbuergerin_begleitung: "Frau Bertha"
+  begruebnis_ort: "Ladenburger Friedhof"
+GUELTIG_AB: 1904
+GUELTIG_BIS: 1929
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: haus
+BEZEICHNUNG: Benz-Haus
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bekanntheit: "Wohnstätte Carl Benz"
+  lage: "im Benz-Park"
+  merkmal_touristisch: true
+GUELTIG_AB: 1904
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: garage
+BEZEICHNUNG: Steingarage im Benz-Park
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: "wohl älteste Steingarage"
+  lage: "Benz-Park"
+  merkmal_touristisch: true
+GUELTIG_AB: 1904
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Automuseum Dr. Carl-Benz
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: "Automobil und Carl Benz"
+  merkmal_sehenswuerdigkeit: true
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Lobdengau-Museum
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Bischofshof"
+  thema: "Ladenburger Geschichte und Archäologie"
+GUELTIG_AB: 1705
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Dr. Berndmark Heukemes
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1924
+  todesjahr: 2009
+  profession: "Archäologe"
+  titel: "Dr."
+  qualifikatoren: "großer"
+  ehrenbuerger: true
+  leistung: "machte die Geschichte der Stadt im wahrsten Sinne des Wortes sichtbar"
+GUELTIG_AB: 1924
+GUELTIG_BIS: 2009
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Reinhold Schulz
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1931
+  todesjahr: 2008
+  position: "Bürgermeister"
+  amtsdauer_jahre: 28
+  ehrenbuerger: true
+  leistung: "Stadtsanierung mit großem Engagement"
+GUELTIG_AB: 1931
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buergermester_aktuell
+BEZEICHNUNG: Stefan Schmutz
+QUELLE: https://www.ladenburg.de/de/Das-ist-Ladenburg/Zahlen,Daten,Fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtsantritt_datum: 2017-04-01
+  position: "Bürgermeister"
+GUELTIG_AB: 2017
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: reformation
+BEZEICHNUNG: Reformation in Ladenburg
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: "16./17. Jahrhundert"
+  auswirkung: "erhebliche Verwicklungen mit Zerstörungen"
+  konflikt_akteur_1: "katholischer Bischof von Worms"
+  konflikt_akteur_2: "Kurfürst von der Pfalz"
+  konfessioneller_antagonismus: "frühe Reformationsbefürwortung des Kurfürsten"
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1650
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Zessionsvertrag 1705
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum_jahr: 1705
+  beteiligte: "Kurfürst und Bischof von Worms"
+  konsequenz: "Ende der bischöflichen Herrschaft"
+GUELTIG_AB: 1705
+GUELTIG_BIS: 1705
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Revolution 1848 in Ladenburg
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_jahr: 1848
+  beteiligung: "mecklenburgische Soldaten auf der Seite des Großherzogs"
+  auswirkung_lokal: "Gefallene auf dem Ladenburger Friedhof"
+GUELTIG_AB: 1848
+GUELTIG_BIS: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Ladenburger Friedhof
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historische_begruebung_carl_benz: true
+  historische_begruebung_revolution_1848: true
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Altstadtfest Ladenburg
+QUELLE: https://www.ladenburg.de/altstadtfest | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auflage_nummer: 51
+  ausgabe_jahr: 2026
+  termin: "11., 12. & 13. September 2026"
+  aktivitaeten: "Vereine bieten kulinarische Angebote"
+  flohmartstaende: 400
+  buehnen_klein: "zahlreiche"
+  buehnen_gross: 4
+GUELTIG_AB: 2026
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bürgerbüro
+QUELLE: https://www.ladenburg.de/buergerbuero | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Hauptstraße 7, 68526 Ladenburg, gegenüber Rathaus"
+  dienstleistungen: "Meldeangelegenheiten, Ausweiswesen, Beglaubigungen, Standesamtliches"
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Rathaus
+QUELLE: https://www.ladenburg.de/Öffnungszeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Hauptstraße 7, 68526 Ladenburg"
+  funktion: "Verwaltungssitz"
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Stadtbibliothek
+QUELLE: https://www.ladenburg.de/de/2000-Jahre-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Fürstenbau"
+GUELTIG_AB: 1705
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Freibad Ladenburg
+QUELLE: https://www.ladenburg.de/neuigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sanierung_start: 2026-08-01
+  sanierung_ziel: "energetische Sanierung für nachhaltigen Betrieb"
+  sanierung_neuer_ausstattung: "Edelstahl-Becken"
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Kommunale Partnerschaft Ladenburg-Garango
+QUELLE: https://www.ladenburg.de/neuigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnergemeinde_land: "Westafrika"
+  partnergemeinde_name: "Garango"
+  kooperation_status: "vertiefend"
+  letzte_aktivitaet_datum: 2026-10-03
+  aktivitaet_beschreibung: "Vernetzungstreffen deutsch-westafrikanischer Kommunalpartnerschaften in Bonn"
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Sporthalle
+BEZEICHNUNG: Dreifeldsporthalle am Römerstadion
+QUELLE: https://www.ladenburg.de/neuigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erffnungsdatum: 2026-09-26
+GUELTIG_AB: 2026
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: netzwerk
+BEZEICHNUNG: Kulturparkett Rhein-Neckar
+QUELLE: https://www.ladenburg.de/neuigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ladenburg_mitglied_status: true
+  mitgliedschaft_datum: 2026-04-28
+  nutzen_fuer_ladenburg: "Kulturpass für kostenlosen Zugang zu Veranstaltungen"
+GUELTIG_AB: 2026
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

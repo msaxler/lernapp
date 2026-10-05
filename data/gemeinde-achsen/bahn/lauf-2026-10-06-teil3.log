@@ -1,0 +1,34 @@
+Orte: 38-hockenheim 39-schwetzingen 40-mannheim 41-ladenburg
+== Extraktion (Haiku) 23:01:38
+38-hockenheim        extraktion ein  36329  aus  15436   0.14 USD   150 s  claude-haiku-4-5-20251001
+39-schwetzingen      extraktion ein  23627  aus  16785   0.12 USD   158 s  claude-haiku-4-5-20251001
+40-mannheim          extraktion ein  33923  aus   8741   0.10 USD    68 s  claude-haiku-4-5-20251001
+41-ladenburg         extraktion ein  32715  aus   8081   0.09 USD    71 s  claude-haiku-4-5-20251001
+zusammen: 1644 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+38-hockenheim      24348 Zeichen
+39-schwetzingen    21314 Zeichen
+40-mannheim        15623 Zeichen
+41-ladenburg       21287 Zeichen
+== Karten (claude-opus-5-5) 23:04:17
+38-hockenheim        karten     ein  41313  aus  34691   0.97 USD   300 s  claude-opus-5-5
+39-schwetzingen      karten     ein  38620  aus  37346   1.00 USD   315 s  claude-opus-5-5
+40-mannheim          karten     ein  35427  aus  26857   0.77 USD   226 s  claude-opus-5-5
+41-ladenburg         karten     ein  39724  aus  36290   0.99 USD   316 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 23:09:33
+38-hockenheim        pruefung   ein  50021  aus   8392   0.51 USD    73 s  claude-opus-5-5
+39-schwetzingen      pruefung   ein  51942  aus  12239   0.61 USD   107 s  claude-opus-5-5
+40-mannheim          pruefung   ein  60667  aus   9126   0.61 USD    78 s  claude-opus-5-5
+41-ladenburg         pruefung   ein  64242  aus   9058   0.64 USD    80 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 23:11:19
+38-hockenheim        stufe2     ein 203206  aus   9427   0.86 USD   110 s  claude-opus-5-5,claude-haiku-4-5-20251001
+39-schwetzingen      stufe2     ein 122942  aus   1990   0.30 USD    36 s  claude-opus-5-5,claude-haiku-4-5-20251001
+40-mannheim          stufe2     ein 213446  aus   7455   0.61 USD    93 s  claude-opus-5-5,claude-haiku-4-5-20251001
+41-ladenburg         stufe2     ein 448829  aus   9215   0.88 USD   144 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 23:13:43
+Urteile: {'bestätigt': 297, 'korrigiert': 67, 'unsicher': 16, 'gesperrt': 2} | im Vorrat: 380 Karten an 41 Orten
+iter1    10 Orte, 133 Karten, Tisch-Reihe 4
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     41 Orte, 380 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 567850 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 23:13:44

@@ -1,0 +1,471 @@
+ENTITÄT: ort
+BEZEICHNUNG: Schwetzingen
+QUELLE: https://www.schwetzingen.de/startseite/leben/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 21. Dezember 766
+  erste_erwaehnung_quelle: Urkundenbuch des Klosters Lorsch
+  ortsname_urform: Suezzingen
+  namensherkunft: leitet sich vom Personennamen Suezzo ab, bedeutet "zu der Stätte des Suezzo gehörig"
+  struktur_mittelalter: bestand aus Oberdorf und Unterdorf
+  status_marktflecken: 1759
+  grund_marktflecken: Genehmigung eines Wochenmarktes und zweier Jahrmärkte
+  status_stadt: 1833
+  grund_stadt: Verwaltungsmittelpunkt des neuen Amtsbezirks, hohe Steuerkraft, Hofverwaltung mit Schloss
+  begruender_stadt: Großherzog Leopold
+GUELTIG_AB: 766
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Schwetzingen
+QUELLE: https://www.schwetzingen.de/startseite/leben/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueheste_besiedlung: vor mehr als 7000 Jahren
+  kultur_frueheste_besiedlung: Bandkeramiker (jungsteinzeitlich), sesshaffte Ackerbau treibende Menschen
+  archaeologische_entdeckung_bandkeramiker_friedhof: 1988 im Neubaugebiet Schälzig, einer der größten in Südwestdeutschland
+  weitere_kulturen: keltisch, römisch, germanisch (Neckarsueben)
+  strukturen_merowingerzeit: Oberdorf und Unterdorf belegt durch Grabfunde und Lorscher Codex
+GUELTIG_AB: -5000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Schwetzingen
+QUELLE: https://www.schwetzingen.de/startseite/leben/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zerstoerung_dreissigjaehriger_krieg: fast völlig zerstört
+  zerstoerung_orleanischer_erbfolgekrieg: 1689
+  wiederaufbau_kurfuerst: Johann Wilhelm
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1689
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Schwetzingen
+QUELLE: https://www.schwetzingen.de/startseite/leben/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung_ungefaehr: 13. Jahrhundert zwischen Oberdorf und Unterdorf
+  urspruengliche_bauform: wehrhafte Wasserburg
+  urspruenglicher_besitzer: Rittergeschlecht der Erligheimer
+  erste_urkundliche_erwaehnung: 1350
+  kontext_1350: Elsbeth von Schonenberg räumte Pfalzgrafen Ruprecht ständiges Wohnrecht ein, danach in Besitz der Kurpfalz
+  nutzung_pfaelzer: Jagdschloss in wildreichen Forsten des Hardtwaldes
+  zerstoerung_kriege: Dreißigjähriger Krieg, 1689 Orléanischer Erbfolgekrieg
+  wiederaufbau_leitung: Kurfürst Johann Wilhelm
+  status_sommerresidenz: 1720 unter Kurfürst Carl Philipp
+GUELTIG_AB: 1350
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: strasse
+BEZEICHNUNG: Straße nach Heidelberg / Carl-Theodor-Straße
+QUELLE: https://www.schwetzingen.de/startseite/leben/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  startpunkt_schloss: Ehrenhof des Schlosses
+  ausbaue_unter: Kurfürst Carl Philipp 1720
+  ausbaue_ausfuehrung: geradlinige Allee mit Maulbeerbäumen
+  sichtachse_verlaengerung: von Fuß des Königstuhls bei Heidelberg bis Schwetzingen und westlich zur Kalmit (höchster Berg des Pfälzer Waldes)
+  nutzung_staedtebau: unter Carl Theodor ab 1742 städtebaulich bestimmendes Element der barocken Umgestaltung
+  neubau_entlang: ab 1748 "Neue Stadt" mit Marktplatz (Schlossplatz) und vier Bauquadraten nach Osten
+  zweck_neustadt: Vereinigung der bislang getrennten Ortsteile zu städtischem Zentrum bezogen auf Schloss
+GUELTIG_AB: 1720
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: schlossgarten
+BEZEICHNUNG: Schwetzinger Schlossgarten
+QUELLE: https://www.schwetzingen.de/startseite/leben/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rang_europaeisch: eines der schönsten Gärten Europas
+  barockteil_gestalter: Nicolas de Pigage
+  barockteil_charakter: streng geometrischer Barockgarten
+  landschaftsteil_gestalter: Ludwig von Sckell
+  landschaftsteil_charakter: englischer Landschaftsgarten
+  bauwerke_beispiele: Apollotempel, Moschee
+  bauwerke_bedeutung: zeugen vom aufgeklärten Gedankengut des Herrschers
+  rang_projekt: größtes Bauvorhaben des 18. Jahrhunderts
+  besonderheit: einzigartige Symbiose zwischen Barock- und Landschaftsgarten
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kulturprodukt
+BEZEICHNUNG: Spargel
+QUELLE: https://www.schwetzingen.de/startseite/leben/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_anbau: 1668 im Schlossgarten
+  verbesserung_zuchtung: Ende 19. Jahrhundert durch Züchtungen
+  rang: Weltruhm-Qualitätsprodukt
+  wirtschaftliche_bedeutung: ab ca. 1850 Basis der Industrialisierung (neben Hopfen und Tabak)
+  superlativ: Spargelstadt Schwetzingen
+GUELTIG_AB: 1668
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: industrieunternehmen
+BEZEICHNUNG: Konservenfabrik Bassermann
+QUELLE: https://www.schwetzingen.de/startseite/leben/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_zeitraum: seit Anbindung an Rheintalbahn 1870
+  vermarktung: Handelsgewächse weltweit
+GUELTIG_AB: 1870
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: industrieunternehmen
+BEZEICHNUNG: Zigarrenfabrik Neuhaus
+QUELLE: https://www.schwetzingen.de/startseite/leben/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_zeitraum: seit Anbindung an Rheintalbahn 1870
+  vermarktung: Handelsgewächse weltweit
+GUELTIG_AB: 1870
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Rheintalbahn
+QUELLE: https://www.schwetzingen.de/startseite/leben/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anbindung_schwetzingen: 1870
+  wirtschaftliche_bedeutung: ermöglichte Ansiedlung von Industrie, Vermarktung von Handelsgewächsen weltweit
+GUELTIG_AB: 1870
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirchengebaeude
+BEZEICHNUNG: Pfarrkirche St. Pankratius
+QUELLE: https://www.schwetzingen.de/2431371.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  bedeutung_friedhof: Erster christlicher Friedhof Schwetzingens lag um diese Kirche
+  kirchenneubau: 1739
+  krypta_entstehung: mit Kirchenneubau 1739
+  krypta_nutzung: bis 1784 Begräbnisplatz für Adel, Hofbeamten, Geistliche und namhafte Persönlichkeiten
+  grabdenkmale: Drei Grabdenkmale an der Kirche weisen noch heute auf ehemalige Nutzung des Kirchhofes hin
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Erster christlicher Friedhof
+QUELLE: https://www.schwetzingen.de/2431371.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: um die katholische Pfarrkirche St. Pankratius
+  nutzung_konfessionen: nach Reformation getrennt nach Konfessionen bestattet
+  verlegung_grund: beabsichtigte Vergrößerung der Kirche, untragbar gewordene Überfüllung mit Bestattungen
+  verlegung: 1758
+GUELTIG_AB: 800
+GUELTIG_BIS: 1758
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Zweiter Friedhof / Friedhof Hebelstraße
+QUELLE: https://www.schwetzingen.de/2431371.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südlich der heutigen Hildaschule
+  erschliessung: Hebelstraße (Totengäßlein) und Kronenstraße
+  umgebung: Mauer
+  nutzung_konfessionen: getrennt bestattet nach Konfessionen
+  verlegung_grund: Platzmangel, Bebauung um den Friedhof (Steinhauerhütte)
+  verlegung: 1838 umgewandelt in "gemeinschaftlicher Kirchhof"
+GUELTIG_AB: 1758
+GUELTIG_BIS: 1838
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Gemeinschaftlicher Kirchhof
+QUELLE: https://www.schwetzingen.de/2431371.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1838
+  neuerung: nach Aufhebung der Konfessionstrennung
+  ueberlegung_verlegung: 1866 wegen Platzmangel und Bebauung
+  verlegung: 1869 Gemeinderat beschloss Verlegung an Mannheimer Landstraße
+GUELTIG_AB: 1838
+GUELTIG_BIS: 1870
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof Mannheimer Landstraße
+QUELLE: https://www.schwetzingen.de/2431371.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verlegung_beschluss: 1869 Gemeinderat
+  lage: Mannheimer Landstraße auf "Kellertswingertsgewann"
+  planung_architekt: Breitenberger
+  baubeginn: Frühjahr 1870
+  einweihung_geplant: 1. September 1870
+  einweihung_tatsaechlich: 13. August 1870 (Deutsch-Französischer Krieg 1870/71, Reservelazarett in Schloss Zirkelsälen)
+  erste_beerdigung: Georg Härtel aus Breslau, 12. August 1870 an Wundstarrkrampf
+  erweiterung_1897: christlicher Friedhof nach Norden erweitert und mit Mauer umgeben
+  erweiterung_1893: jüdischer Friedhof nördlich eingeweiht (Februar)
+  erweiterung_folgezeit: Erweiterungen entlang Mannheimer Landstraße bis zum jüdischen Friedhof wegen Bevölkerungszuwachs
+GUELTIG_AB: 1870
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: friedhofsgebaeude
+BEZEICHNUNG: Leichenhalle
+QUELLE: https://www.schwetzingen.de/2431371.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Baumeister Christian Wipfinger
+  baujahr: 1908
+  stil: Jugendstil
+  ort: Friedhof Mannheimer Landstraße
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: friedhofsgebaeude
+BEZEICHNUNG: Totenglocke
+QUELLE: https://www.schwetzingen.de/2431371.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  weihe: November 2003
+  ort: Friedhof Mannheimer Landstraße
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Jüdischer Friedhof
+QUELLE: https://www.schwetzingen.de/2431371.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: Februar 1893
+  lage: nördlich des christlichen Friedhofes auf dem Gelände der Mannheimer Landstraße
+GUELTIG_AB: 1893
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kriegerdenkmal
+BEZEICHNUNG: Kriegerdenkmal (Deutsch-Französischer Krieg)
+QUELLE: https://www.schwetzingen.de/2431371.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Friedhof Mannheimer Landstraße
+  steinmetz: Georg Hassler
+  fertigstellung: November 1872
+  zweck: für im Deutsch-Französischen Krieg 1870/71 gefallene Soldaten
+  erhaltung: noch heute bestehend
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: personengruppe
+BEZEICHNUNG: Johann Peter Hebel
+QUELLE: https://www.schwetzingen.de/2431371.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: alemannischer Dichter und badischer Prälat
+  todesjahr: 1826
+  sterbeort: Wohnung des Schwetzinger Gartendirektors Johann Michael Zeyher im heutigen Amtsgericht
+  beerdigung_ort: Friedhof Hebelstraße
+  beerdigung_umstaende: unter großen Feierlichkeiten am folgenden Tag
+  gedenkstein_1827: einfacher Stein von Johann Michael Zeyher gesetzt
+  denkmal_1859: errichtetes Denkmal zeigt letzte Ruhestätte und Lage des alten Friedhofes
+GUELTIG_AB: 1826
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: personengruppe
+BEZEICHNUNG: Johann Michael Zeyher
+QUELLE: https://www.schwetzingen.de/2431371.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Schwetzinger Gartendirektor
+  beziehung_hebel: Freund des alemannischen Dichters Johann Peter Hebel
+  aktion_1827: ließ einfachen Stein auf Hebels Grab setzen
+  ueberreste_verlegung: 1871 vom alten Friedhof Hebelstraße auf neuen Friedhof Mannheimer Landstraße überführt
+GUELTIG_AB: 1826
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: personengruppe
+BEZEICHNUNG: Dr. Karl Friedrich Schimper
+QUELLE: https://www.schwetzingen.de/2431371.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Naturforscher
+  ueberreste_verlegung: 1871 vom alten Friedhof Hebelstraße auf neuen Friedhof Mannheimer Landstraße überführt
+GUELTIG_AB: 1871
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Mannheimer Straße 24
+QUELLE: https://www.schwetzingen.de/3555256.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1841
+  funktion: Teil einer Durchgangsverbindung in Sanierungsgebiet Capitol
+  durchgang_oeffentlich: ca. 2 Meter breiter öffentlicher Durchgang im Erdgeschoss
+  durchgang_verbindung: verbindet Fußgängerzone mit Quartiersplatz
+  fertigstellung_geplant: November 2026
+GUELTIG_AB: 1841
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: lichtspielhaus
+BEZEICHNUNG: Capitol
+QUELLE: https://www.schwetzingen.de/3555256.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Herzogstraße 28
+  status: ehemaliges Lichtspielhaus, Sanierungsobjekt im Sanierungsgebiet Capitol
+  umbau_wohnungen: 9 Wohnungen entstehen
+  umbau_gewerbe: Gewerbefläche und Büroräume
+  fertigstellung_geplant: Dezember 2026
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: neubau
+BEZEICHNUNG: Platzhaus
+QUELLE: https://www.schwetzingen.de/3555256.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Herzogstraße 27
+  charakterisierung: modernes Neubauprojekt
+  planung_wohnungen: Eigentumswohnungen
+  planung_erdgeschoss: gastronomische Fläche
+  planung_gegenüber: direkt gegenüber vom Capitol
+  baubeginn_baugrube: Ende Juli 2026
+  fertigstellung_geplant: Juli 2027
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: neubau
+BEZEICHNUNG: Moderne Doppelhäuser Herzogstraße
+QUELLE: https://www.schwetzingen.de/3555256.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Herzogstraße 20, 22, 24
+  abbrissbeginn: August 2026
+  fertigstellung_geplant: August 2028
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Scheune Heidelberger Straße
+QUELLE: https://www.schwetzingen.de/3555256.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: denkmalgeschützt
+  planung_massnahme: Sanierung erforderlich
+  kontext: im Sanierungsgebiet Capitol
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: platz
+BEZEICHNUNG: Quartiersplatz
+QUELLE: https://www.schwetzingen.de/3555256.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Herzogstraße
+  kontext: Sanierungsgebiet Capitol
+  umbau_beginn: voraussichtlich Jahresmitte 2027
+  funktion: Quartiersplatz innerhalb des Quartiers
+GUELTIG_AB: 2027
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Fredericksburg
+QUELLE: https://www.schwetzingen.de/startseite/leben/fredericksburg.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: USA
+  bundesstaat: Virginia
+  lage: ca. 70 km südlich von Washington D.C., an der Ostküste USA
+  geographie: nahe Blue Ridge Mountains, am Rappahannock River, landschaftlich reizvoll
+  geschichte_gruendung: englisches Fort 1671
+  einwohnerzahl_geschaetzt: ca. 25.000
+  bedeutung_historisch: historische Stadt aus den Anfängen der Gründung der Vereinigten Staaten
+  george_washington_bezug: Anführer der amerikanischen Streitkräfte im Unabhängigkeitskrieg, späterer 1. Präsident der USA, verbrachte Kindheit und Jugend auf Ferry Farm in Fredericksburg
+  universitaet: Mary Washington University (benannt nach Mutter des 1. Präsidenten)
+  sehenswuerdigkeiten_washington: Wohnhäuser der Familie Washington können besichtigt werden
+  james_monroe_bezug: 5. Präsident der USA hatte hier Anwaltskanzlei, Museum informiert über sein Leben und Wirken
+  architektur: über 350 authentische Gebäude aus 18. und 19. Jahrhundert, teilweise als Museen zugänglich
+  bedeutung_buergerkrieg: Ort der Schlacht von Fredericksburg 13. Dezember 1862
+  superlativ_buergerkrieg: eine der blutigsten und grausamsten Schlachten des Bürgerkriegs
+  nationalfriedhof: ca. 15.000 gefallene Unionssoldaten bestattet
+  weiterer_friedhof: ca. 5.000 Soldaten der Südstaaten bestattet
+  besichtigung: Stätten des Bürgerkriegs können besichtigt werden
+GUELTIG_AB: 1671
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gesamtanlage
+BEZEICHNUNG: Kurfürstliche Sommerresidenz
+QUELLE: https://www.schwetzingen.de/2427555_2489832_2552541_3314174_3300791.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_denkmalschutz: als Gesamtanlage nach Denkmalschutzgesetz besonders geschützt
+  bestandteile: Schlossanlage, Schlossgarten, Stadtausbau inkl. Schlossplatz, Ysenburgsches Palais in Forsthausstraße
+  schutz_gesamtanlage: Veränderungen am geschützten Bild der Gesamtanlage bedürfen Genehmigung
+  umgebungsschutz: Bauwerke in Umgebung von erheblicher Bedeutung für Erscheinungsbild unterliegen Umgebungsschutz
+GUELTIG_AB: 1720
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: palais
+BEZEICHNUNG: Ysenburgsches Palais
+QUELLE: https://www.schwetzingen.de/2427555_2489832_2552541_3314174_3300791.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Forsthausstraße
+  status_denkmalschutz: Teil der geschützten Gesamtanlage "Kurfürstliche Sommerresidenz"
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

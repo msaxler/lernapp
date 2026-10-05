@@ -1,0 +1,718 @@
+ZIELORT: Hockenheim (Stadt)
+LAGE: 14 km südwestlich von Heidelberg (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Hockenheim
+
+GRUNDDATEN:
+  landkreis: Rhein-Neckar-Kreis  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 21.599  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 34,84  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 620  [berechnet aus Einwohner und Fläche]
+  kfz: HD (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 102 | 104  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2902852)]
+  naechste_grossstadt: Heidelberg, 14 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 75 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Hockenheim, Bahnhof Talhaus  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 68766  [Wikidata P281]
+  vorwahl: 06205  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 29,5 %, AfD 22,1 %, SPD 15,5 %, GRÜNE 10,7 %, Die Linke 6,6 %, FDP 5,7 %, BSW 5,2 %; Wahlbeteiligung 81 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Marcus Zeitler (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-05]
+  partnerstaedte: Hohenstein-Ernstthal, Commercy, Mooresville  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Einwohner je Quadratkilometer), C, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Waghäusel (Stadt)
+  landkreis: Karlsruhe  [dewiki Infobox]
+  einwohner: 22.301  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 42,84  [Wikidata P2046; Altbestand staedte.json]
+  kfz: KA (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 104 | 106  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2815487)]
+  naechste_grossstadt: Heidelberg, 22 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Waghäusel, Bahnhof Wiesental  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 30,4 %, AfD 26,4 %, SPD 13,4 %, GRÜNE 8,7 %, Die Linke 5,7 %; Wahlbeteiligung 84 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Langen, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar
+
+FAKTEN (Zielort Hockenheim):
+ID: 38-hockenheim/001
+ENTITÄT: ort
+BEZEICHNUNG: Hockenheim
+QUELLE: https://www.hockenheim.de/startseite/kultur/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_urkundliche_erwaehnung: 769
+  erstmalige_erwaehnung_form: Ochinheim
+  bezug_bistum_speyer: true
+  gueltig_ab: 769
+  gueltig_bis: 1462
+  gehört_zur_kurpfalz_ab: 1462
+  wird_badisch_ab: 1803
+  zur_stadt_erhoben: 1895
+  stadt_erhebung_datum: 1895-07-22
+  stadt_erhebung_durch: Großherzog Friedrich I. von Baden
+  wird_große_kreisstadt_ab: 2001-01-01
+  gemarkung_fläche: 3490
+  gemarkung_fläche_einheit: Hektar
+  gemarkung_fläche_genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 38-hockenheim/002
+ENTITÄT: ort
+BEZEICHNUNG: Hockenheim
+QUELLE: https://www.hockenheim.de/startseite/kultur/_in+zahlen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemarkung_fläche: 3484.29
+  gemarkung_fläche_einheit: Hektar
+  geografische_lage_länge: 8°33'01''
+  geografische_lage_breite: 49°19'01''
+  bevölkerung: 21837
+  bevölkerung_stand: 2022-06-30
+  ist_große_kreisstadt: true
+  arbeitsplätze_gewerbe_industrie: 8500
+  arbeitsplätze_genauigkeit: ca.
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 38-hockenheim/003
+ENTITÄT: ort
+BEZEICHNUNG: Hockenheim
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  lage: nordwestliches Baden-Württemberg
+  entfernung_mannheim: 20
+  entfernung_mannheim_einheit: km
+  entfernung_mannheim_genauigkeit: ca.
+  entfernung_mannheim_richtung: südlich
+  größte_städte_rhein_neckar_kreis: 6
+  gehört_zu_metropolregion: europäische Metropolregion Rhein-Neckar
+  bekannt_durch: Motorsport-Rennstrecke Hockenheimring
+  liegt_in_naturraum: Oberrheinische Tiefebene
+  liegt_an_handelsstraße: alte Handelsstraße Frankfurt am Main nach Basel
+  durchfluss: Kraichbach
+  kraichbach_mündet: Rhein bei Ketsch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 38-hockenheim/004
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Hockenheimer Rheinbogen
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  teilgebiete_anzahl: 30
+  schutzgebiet_fläche: 656
+  schutzgebiet_fläche_einheit: Hektar
+  landschaftsschutzgebiet_fläche_zusätzlich: ca. dreifache Fläche
+  bedeutung: biologisch vielfältige, sekundäre Feuchtbiotope
+  funktion_bedrohte_arten: Rückzugsgebiet für vom Aussterben bedrohte Pflanzen- und Tierarten
+  international_bedeutsam: true
+  funktion_vögel: Rast- und Nahrungsraum für überwinternde Vogelarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 38-hockenheim/005
+ENTITÄT: bauwerk
+BEZEICHNUNG: Wasserturm
+ORTSTEIL_BEZUG: Hockenheim
+QUELLE: https://www.hockenheim.de/startseite/kultur/stadtportraet+und+stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_wahrzeichen: true
+  baustil: Jugendstil
+  fertiggestellt: 1910
+  symbolisiert: Tradition und Moderne
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 38-hockenheim/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Georg
+ORTSTEIL_BEZUG: Hockenheim
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  erste_erwähnung: 1707
+  übergang_katholiken: 1707
+  neugebaute_kirche_jahr: 1911
+  neugebaute_kirche_ende_jahr: 1911
+  neugebaute_kirche_baustil: Jugendstil
+  turmhöhe: 64
+  turmhöhe_einheit: Meter
+  architekt_neugebaute_kirche: Johannes Schroth
+  orgel_hersteller: Welte & Söhne
+  orgel_jahr: 1939
+  orgel_rang: zweitgrößte erhaltene Kirchenorgel der Firma Welte & Söhne
+  alte_kirche_verwendung_ab: 1911
+  alte_kirche_neue_funktion: Gemeindehaus
+GUELTIG_AB: 1707
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 38-hockenheim/007
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Stadtkirche
+ORTSTEIL_BEZUG: Hockenheim
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  baustil: Jugendstil (früher)
+  erbaut_von: 1905
+  erbaut_bis: 1907
+  architekt: Hermann Behaghel
+  lage: Stadtzentrum am Marktplatz
+  vorgängerin_erbaut: 1757
+  vorgängerin_beschreibung: Kopie des alten Turms von St. Georg
+  umgebaute_vorgängerin_name: Lutherhaus
+  umbau_vorgängerin: Gemeindehaus
+  lutherhaus_renovierung: 2007-2008
+GUELTIG_AB: 1905
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 38-hockenheim/008
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelisch-Methodistische Christuskirche
+ORTSTEIL_BEZUG: Hockenheim
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  konfession: Evangelisch-methodistisch
+  erbaut: 1958-1959
+  vorgänger_tätigkeit_ab: Ende 19. Jahrhundert
+  vorgänger_standort: Untere Mühlstraße
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/009
+ENTITÄT: kirche
+BEZEICHNUNG: Neuapostolische Kirche
+ORTSTEIL_BEZUG: Hockenheim
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  konfession: Neuapostolisch
+  erbaut: 2002
+  jüngste_kirche: true
+  gemeinde_gegründet: 1951
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/010
+ENTITÄT: moschee
+BEZEICHNUNG: Moschee Talhaus
+ORTSTEIL_BEZUG: Talhaus
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  errichtet: 2000
+  religiöse_gemeinschaft: Muslimische Glaubensgemeinschaft
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/011
+ENTITÄT: museum
+BEZEICHNUNG: Tabakmuseum
+ORTSTEIL_BEZUG: Hockenheim
+QUELLE: https://www.hockenheim.de/startseite/kultur/museum.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnet: 1984
+  erstes_dieser_art_in: Baden-Württemberg
+  erste_zigarrenfabrik_gegründet: 1860
+  zigarrenfabriken_bis_1900: 18
+  beschäftigte_in_fabriken: 1298
+  zigarrenfabriken_goldene_zwanziger: 28
+  arbeiter_goldene_zwanziger: 2000
+  arbeiter_goldene_zwanziger_genauigkeit: über
+  davon_frauen: viele
+  kleinbetriebe: zahlreiche
+  lage_gebäude: Zehntscheune
+  adresse: Untere Mühlstraße 4
+  beschreibung: informiert über Historie des Tabaks und seiner Verarbeitung, soziale Aspekte, Erinnerungen an die gute alte Zeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 38-hockenheim/012
+ENTITÄT: museum
+BEZEICHNUNG: Motorsport-Museum
+ORTSTEIL_BEZUG: Hockenheim
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  eröffnet: 1986
+  lage: Hockenheimring
+  sammlung_motorräder_und_motoren: 200
+  sammlung_motorräder_und_motoren_beschreibung: historische
+  beschreibung: Geschichte des Hockenheimrings
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/013
+ENTITÄT: rennstrecke
+BEZEICHNUNG: Hockenheimring
+ORTSTEIL_BEZUG: Hockenheim
+QUELLE: https://www.hockenheim.de/startseite/kultur/_in+zahlen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grand_prix_kurs_länge: 4.574
+  grand_prix_kurs_länge_einheit: Kilometer
+  kleiner_kurs_länge: 2.6
+  kleiner_kurs_länge_einheit: Kilometer
+  dragster_strecke_1_8_meile: 201.2
+  dragster_strecke_1_8_meile_einheit: Meter
+  dragster_strecke_1_4_meile: 402.3
+  dragster_strecke_1_4_meile_einheit: Meter
+  fassungsvermögen: 120000
+  fassungsvermögen_einheit: Zuschauer
+  fassungsvermögen_genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 38-hockenheim/014
+ENTITÄT: rennstrecke
+BEZEICHNUNG: Hockenheimring Baden-Württemberg
+ORTSTEIL_BEZUG: Hockenheim
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  eröffnet: 1932-05-29
+  eröffnungsrennen_besucher: 45000
+  first_umbau_name: Kurpfalzring
+  first_umbau_jahr: 1938
+  first_umbau_anlass: Arbeitsbeschaffungsmaßnahme
+  zweiter_umbau_anlass: Bau Bundesautobahn 6
+  zweiter_umbau_abschluss_jahr: 1965
+  zweiter_umbau_schaffung: Motodrom mit erhöhten Tribünenrängen
+  dritter_umbau_anfang_jahr: 2002
+  dritter_umbau_strecke_alt_länge: 6.8
+  dritter_umbau_strecke_alt_länge_einheit: km
+  dritter_umbau_strecke_alt_länge_genauigkeit: ca.
+  dritter_umbau_strecke_änderung: drastisch
+  dritter_umbau_zuschauerkapazität: erweitert
+  dritter_umbau_fahrsicherheitszentrum: gegründet
+  dritter_umbau_fahrsicherheitszentrum_betreiber: ADAC
+  dritter_umbau_beteiligung_baden_württemberg: 15000000
+  dritter_umbau_beteiligung_einheit: Euro
+  name_offiziell_ab: 2002
+  name_offiziell: Hockenheimring Baden-Württemberg
+  formel_1_rennen: true
+GUELTIG_AB: 1932
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 38-hockenheim/015
+ENTITÄT: bauwerk
+BEZEICHNUNG: Güldene Engel
+ORTSTEIL_BEZUG: Hockenheim
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  baustil: Fachwerkhaus (fränkisch)
+  ältestes_fachwerkhaus: true
+  traditionsreichstes_fachwerkhaus: true
+  erbaut: 1690
+  erbaut_von: Johann Georg Engelhorn
+  erbaut_für: seinen Sohn Johann Jakob
+  kulturdenkmal_eintrag_ab: 1987
+  kulturdenkmal_eintrag_status: Kulturdenkmal besonderer Bedeutung im Denkmalbuch Baden-Württemberg
+  restaurierung_abschluss: 1986
+  nutzung_seit_1986: Gaststätte
+  eigentümer_ab_1980: Hockenheimer Architekt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 38-hockenheim/016
+ENTITÄT: bauwerk
+BEZEICHNUNG: Hockenheimer Mühlen
+ORTSTEIL_BEZUG: Hockenheim
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  zerstört: 1960er Jahre
+  zerstört_grund: Anweisung der Stadt
+  ersatzbau: Wohnblock
+GUELTIG_AB: ca. 1600
+GUELTIG_BIS: 1960
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 38-hockenheim/017
+ENTITÄT: badeanstalt
+BEZEICHNUNG: Aquadrom Hockenheim
+ORTSTEIL_BEZUG: Hockenheim
+QUELLE: https://www.hockenheim.de/startseite/kultur/_in+zahlen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Beethovenstr. 41
+  nutzfläche: 45000
+  nutzfläche_einheit: Quadratmeter
+  nutzfläche_genauigkeit: ca.
+  wasserfläche: 3050
+  wasserfläche_einheit: Quadratmeter
+  wasserfläche_genauigkeit: ca.
+  bebaute_fläche: 12500
+  bebaute_fläche_einheit: Quadratmeter
+  bebaute_fläche_genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 38-hockenheim/018
+ENTITÄT: park
+BEZEICHNUNG: Gartenschaupark
+ORTSTEIL_BEZUG: Hockenheim
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  größter_park_hockenheims: true
+  lage: entlang Bahnlinie Mannheim–Stuttgart
+  erstreckt_sich: vom Bahnhof bis zum nördlichen Ortsausgang
+  anlass_anlage: Landesgartenschau 1991
+  umfasst: Stiegwiesenpark und Ebertpark
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 38-hockenheim/019
+ENTITÄT: friedhof
+BEZEICHNUNG: Jüdischer Friedhof
+ORTSTEIL_BEZUG: Hockenheim
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  angelegt: 1879
+  zeugnis_gemeinde: einziges verbliebenes bauliches Zeugnis der ehemaligen jüdischen Gemeinde Hockenheims
+GUELTIG_AB: 1879
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/020
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Ottostraße/Ecke Rathausstraße
+ORTSTEIL_BEZUG: Hockenheim
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  existierte_seit: 1833
+  zerstört: 1938
+  zerstört_anlass: Reichspogromnacht
+  zerstört_verantwortliche: SA-Männer
+  gedenktafel: true
+GUELTIG_AB: 1833
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 38-hockenheim/021
+ENTITÄT: flugplatz
+BEZEICHNUNG: Sonderlandeplatz Auchtweid
+ORTSTEIL_BEZUG: Hockenheim
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  freigegeben: 1952-06-14
+  gründer: Sportflieger-Club Hockenheim
+  lage: westlich des Stadtgebietes
+  veranstaltungen: zahlreiche nationale und internationale Segelflugwettbewerbe und Flugtage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/022
+ENTITÄT: verwaltungsgemeinschaft
+BEZEICHNUNG: Verwaltungsgemeinschaft Hockenheim
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  mitgliedsgemeinden: Hockenheim, Altlußheim, Neulußheim, Reilingen
+  status: Vereinbarte Verwaltungsgemeinschaft
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 38-hockenheim/023
+ENTITÄT: gemeinde
+BEZEICHNUNG: Ketsch
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  verhältnis_zu_hockenheim: Nachbargemeinde (Nord)
+  kraichbach_mündet_bei: Ketsch in den Rhein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 38-hockenheim/024
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Friedrich Engelhorn
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: Hockenheim
+  geburtsort: Hockenheim
+  gründer: BASF
+  wohnstätte: Güldene Engel
+  Familie: Engelhorn
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/025
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Georg Engelhorn
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  geburtsort: Hockenheim
+  jahr_geboren: 1861
+  jahr_gestorben: 1946
+  mitbegründer: Mannheimer Bekleidungshaus Engelhorn & Sturm
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/026
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Jim Clark
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  verunglueckt_tödlich: true
+  verunglueckt_ort: Hockenheim-Ring
+  gedenktafel: true
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 38-hockenheim/027
+ENTITÄT: ereignis
+BEZEICHNUNG: Dreißigjähriger Krieg 1644
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1644
+  folge: Hockenheim schwer verwüstet
+  verantwortliche: französische Truppen
+GUELTIG_AB: 1644
+GUELTIG_BIS: 1644
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/028
+ENTITÄT: ereignis
+BEZEICHNUNG: Holländischer Krieg 1674
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1674
+  folge: Hockenheim schwer verwüstet
+  verantwortliche: französische Truppen
+GUELTIG_AB: 1674
+GUELTIG_BIS: 1674
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/029
+ENTITÄT: kultur_ereignis
+BEZEICHNUNG: Landesgartenschau 1991
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1991
+  ort_gastgeber: Hockenheim
+  ergebnis: Gartenschaupark angelegt
+GUELTIG_AB: 1991
+GUELTIG_BIS: 1991
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/030
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Ziegelofen mit gestempelten Ziegeln der Legio XIV Gemina Martia Victrix
+ORTSTEIL_BEZUG: Hockenheim
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  fundort: Hockenheim
+  fundjahr: 1984
+  zeitstellung: 71 n. Chr. bis 92 n. Chr.
+  ursprung_ziegel: römische legio XIV Gemina Martia Victrix in Mainz
+  bedeutung: Nachweis römischer Besiedlung in dieser Zeit
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 38-hockenheim/031
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Tongefäße der Glockenbecherkultur
+ORTSTEIL_BEZUG: Hockenheim (Westteil)
+QUELLE: https://www.hockenheim.de/startseite/kultur/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: 4000
+  alter_einheit: Jahre
+  fundjahr: 1950er Jahre
+  fundort_beschreibung: Westteil der Gemarkung in Hockergräbern
+  kultur: Glockenbecherkultur
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/032
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Commercy
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt: Commercy (Frankreich)
+  seit: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 38-hockenheim/033
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Hohenstein-Ernstthal
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt: Hohenstein-Ernstthal (Sachsen, Deutschland)
+  seit: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 38-hockenheim/034
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Mooresville
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt: Mooresville (North Carolina, USA)
+  seit: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 38-hockenheim/035
+ENTITÄT: fluss
+BEZEICHNUNG: Kraichbach
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  fließt_durch: Hockenheim
+  teilt_stadtgebiet: in einen größeren östlichen und einen kleineren westlichen Bereich
+  mündet_in: Rhein
+  mündet_bei: Ketsch
+GUELTIG_AB: prähistorisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 38-hockenheim/036
+ENTITÄT: schultheiß
+BEZEICHNUNG: Johann Georg Engelhorn
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit_von: 1711
+  amtszeit_bis: 1742
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/037
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Franz Hund
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit_von: 1945
+  amtszeit_bis: 1958
+  ehrenbürger_seit: 1958
+  besonderheit: erste demokratische Wahl 1948, kommissarisch 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/038
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Kurt Buchter
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit_von: 1958
+  amtszeit_bis: 1978
+  ehrenbürger_seit: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/039
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Gustav Schrank
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit_von: 1978
+  amtszeit_bis: 2004
+  amtsbezeichnung_ab_2001: Oberbürgermeister
+  ehrenbürger_seit: 2004
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/040
+ENTITÄT: oberbürgermeister
+BEZEICHNUNG: Marcus Zeitler
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit_von: 2019
+  partei: CDU
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 38-hockenheim/041
+ENTITÄT: gemeinderat
+BEZEICHNUNG: Gemeinderat Hockenheim
+QUELLE: https://www.hockenheim.de/startseite/kultur/_in+zahlen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  mitgliederzahl: 22
+  titel_mitglieder: Stadtrat
+  vorsitzender: Oberbürgermeister (stimmberechtig)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 38-hockenheim/042
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Hockenheim
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: in von Schwarz und Blau geteiltem Schild oben wachsender, rot bewehrter, rot bezungter und rot gekrönter goldener Löwe, unten zwei schräggekreuzte silberne Hakenstangen
+  siegel_belegt_ab: 1609
+  bedeutung_löwe: Bezug zur Kurpfalz (Pfälzer Löwe)
+  bedeutung_haken: volksetymologische Herleitung zum Ortsnamen (Hocken = Haken)
+  haken_verwendung: auch auf alten Grenzsteinen und Glocke von 1748
+  stadtsiegel_und_wappen_entstehung_zeit: um 1895 (Zeit der Stadterhebung)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 38-hockenheim/043
+ENTITÄT: industrieunternehmen
+BEZEICHNUNG: Sonoco
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  branche: Verpackungshersteller (US)
+  standort_hockenheim: true
+  früherer_name: Weidenhammer
+  früherer_name_bis: 2014-10-31
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/044
+ENTITÄT: einzelhandelskette
+BEZEICHNUNG: Krämer Pferdesport
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  zentrale_standort: Hockenheim
+  zentrale_seit: 1973
+  tätigkeitsgebiet: bundesweit Groß- und Einzelhandel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/045
+ENTITÄT: kreditinstitut
+BEZEICHNUNG: Sparkasse Hockenheim
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  gegründet: 1875
+  gehört_zu: Sparkasse Heidelberg (heutige)
+  status: verlor Selbständigkeit
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/046
+ENTITÄT: kreditinstitut
+BEZEICHNUNG: Volksbank Hockenheim
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  gegründet: 1904
+  gehört_zu: Volksbank Kur- und Rheinpfalz (heutige)
+  status: verlor Selbständigkeit
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 38-hockenheim/047
+ENTITÄT: militärische_legion
+BEZEICHNUNG: Legio XIV Gemina Martia Victrix
+QUELLE: https://de.wikipedia.org/wiki/Hockenheim | Wikipedia
+EIGENSCHAFTEN:
+  stationierung_ort: Mainz
+  stationierung_zeit: 71 n. Chr. bis 92 n. Chr.
+  nachweise_in_hockenheim: gestempelte Ziegel in Ziegelofen
+GUELTIG_AB: 71
+GUELTIG_BIS: 92
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+

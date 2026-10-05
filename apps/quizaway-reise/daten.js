@@ -8340,6 +8340,768 @@ window.QA_DATEN = {
 "km_vom_vorigen": 10.3
 },
 {
+"slug": "38-hockenheim",
+"name": "Hockenheim",
+"lat": 49.31806,
+"lon": 8.54722,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hockenheim",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern, 14 km südwestlich von Heidelberg.",
+"frage": "Ab 1964 wurde der Hockenheimring umgebaut und bekam das Motodrom mit erhöhten Tribünen. Was war der Anlass?",
+"optionen": [
+"Der Bau der Autobahn A6 erzwang ihn.",
+"Ein Hochwasser des Rheins hatte Streckenteile zerstört.",
+"Ein Brand hatte die alten Holztribünen vernichtet.",
+"Ein Sturm hatte die Strecke unbefahrbar gemacht."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Brand, Sturm oder Hochwasser sind typische Gründe für einen Neubau, deshalb liegen sie nahe. Beim Hockenheimring gab aber der Bau der Autobahn A6 den Anlass; dabei entstand das Motodrom, eröffnet 1966. Schon 1938 war die Strecke einmal umgebaut worden. Richtig war 1.",
+"quelle": "Speedweek, www.speedweek.com/a/formel-1/history-hockenheimring-e28093-seine-verrueckte-entstehung",
+"faktencheck": "korrigiert",
+"id": "38-hockenheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hockenheim",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern, 14 km südwestlich von Heidelberg.",
+"frage": "Wie groß ist die Fläche des Hockenheimer Stadtgebiets?",
+"optionen": [
+"unter 20 km²",
+"20 bis unter 40 km²",
+"40 bis unter 60 km²",
+"60 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer nur an die bebaute Stadt denkt, schätzt eher klein. Doch zur Gemarkung, dem gesamten Gebiet einer Gemeinde, zählen auch alle Flächen außerhalb der Bebauung. Hockenheims Gemarkung misst 34,84 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "38-hockenheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hockenheim",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern, 14 km südwestlich von Heidelberg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Wahrzeichen der Stadt ist der Wasserturm.",
+"In Hockenheimer Gräbern fand man Glockenbecher-Gefäße.",
+"Ein König von Württemberg erhob Hockenheim zur Stadt."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Württemberg liegt nahe, denn heute gehört Hockenheim zu Baden-Württemberg. Doch Hockenheim war schon badisch, als es zur Stadt erhoben wurde, nicht württembergisch. Wahr sind der Wasserturm als Wahrzeichen und die Glockenbecher-Gefäße einer vorgeschichtlichen Kultur aus Hockergräbern. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.hockenheim.de/startseite/kultur/stadtgeschichte.html und www.hockenheim.de/startseite/kultur/stadtportraet+und+stadtgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "38-hockenheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hockenheim",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern, 14 km südwestlich von Heidelberg.",
+"frage": "Bundestagswahl 2025, Zweitstimmen: Wie viel Prozent holte in Hockenheim die stärkste Partei?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 24 %",
+"24 bis unter 28 %",
+"28 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an zersplitterte Ergebnisse vieler Parteien denkt, schätzt den Sieger niedriger. In Hockenheim kam die CDU auf 29,5 Prozent der Zweitstimmen, vor der AfD und der SPD. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "38-hockenheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hockenheim",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern, 14 km südwestlich von Heidelberg.",
+"frage": "Im Hockenheimer Wappen kreuzen sich zwei silberne Haken. Welche Deutung nennt die Überlieferung dafür?",
+"optionen": [
+"Der Ortsname wurde als Haken gedeutet.",
+"Sie erinnern an die Fischerei am Rhein.",
+"Sie zeigen Werkzeug der Rheinflößer.",
+"Sie stammen von einem alten Rittergeschlecht."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Rhein und Schifffahrt liegen nahe, denn Haken sehen wie Werkzeug am Wasser aus. Die Deutung geht aber vom Ortsnamen aus: Man verstand Hocken als Haken. Das nennt man Volksetymologie, eine Herleitung nach dem bloßen Klang. Der Löwe darüber verweist auf die Kurpfalz. Richtig war 1.",
+"quelle": "LEO-BW, www.leo-bw.de (Ortslexikon Hockenheim, Wappen)",
+"faktencheck": "korrigiert",
+"id": "38-hockenheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hockenheim",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern, 14 km südwestlich von Heidelberg.",
+"frage": "Wie weit ist es von Hockenheim in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 50 km",
+"50 bis unter 100 km",
+"100 bis unter 150 km",
+"150 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Stuttgart wirkt weit weg, weil Hockenheim im Rhein-Neckar-Kreis nahe Heidelberg liegt. In Luftlinie trennen Hockenheim und Stuttgart aber nur 75 Kilometer. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "38-hockenheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Hockenheim",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern, 14 km südwestlich von Heidelberg.",
+"frage": "Wie viele Zuschauer fasst der Hockenheimring nach Angaben der Stadt etwa?",
+"optionen": [
+"unter 25.000",
+"25.000 bis unter 75.000",
+"75.000 bis unter 200.000",
+"200.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer von der Einwohnerzahl ausgeht, schätzt deutlich kleiner. Doch eine Rennstrecke rechnet mit Gästen, nicht nur mit Einheimischen: Laut Stadt fasst der Hockenheimring etwa 120.000 Zuschauer, ein Vielfaches der Einwohnerzahl. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.hockenheim.de/startseite/kultur/_in+zahlen.html",
+"faktencheck": "bestätigt",
+"id": "38-hockenheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hockenheim",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern, 14 km südwestlich von Heidelberg.",
+"frage": "Das Tabakmuseum der Stadt ist in einem historischen Gebäude untergebracht. Was für ein Gebäude ist es?",
+"optionen": [
+"Es nutzt das frühere Rathaus.",
+"Es steht in einer Zehntscheune.",
+"Es sitzt im alten Bahnhofsgebäude.",
+"Es zog in eine frühere Mühle."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Mühle oder Rathaus liegen nahe, denn solche Altbauten werden oft zu Museen. Das Museum sitzt aber in der Zehntscheune, einem Speicher für den Zehnt, eine alte Abgabe. Es erzählt vom Tabak, denn in Hockenheim gab es einst zahlreiche Zigarrenfabriken. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.hockenheim.de/startseite/kultur/museum.html",
+"faktencheck": "bestätigt",
+"id": "38-hockenheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hockenheim",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern, 14 km südwestlich von Heidelberg.",
+"frage": "Die Familie von Friedrich Engelhorn stammte aus Hockenheim. Welches Unternehmen hat er gegründet?",
+"optionen": [
+"Er gründete die Farbwerke Hoechst.",
+"Er gründete die Heidelberger Druckmaschinen.",
+"Er gründete die SAP.",
+"Er gründete die BASF."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Heidelberger Druckmaschinen liegen nahe, weil Heidelberg so nah ist. Friedrich Engelhorn, dessen Familie aus Hockenheim stammte, gründete aber die BASF, ein Chemieunternehmen. Das B im Namen steht für Badisch: Badische Anilin- und Soda-Fabrik. Richtig war 4.",
+"quelle": "LEO-BW, www.leo-bw.de (Biographie Friedrich Engelhorn)",
+"faktencheck": "korrigiert",
+"id": "38-hockenheim/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "37-waghaeusel",
+"anschluss": [
+"Kennzeichen: In Hockenheim steht HD am Auto, in Waghäusel KA.",
+"Einwohner: Waghäusel zählt 22.301, Hockenheim 21.599."
+],
+"km_vom_vorigen": 7.9
+},
+{
+"slug": "39-schwetzingen",
+"name": "Schwetzingen",
+"lat": 49.38333,
+"lon": 8.56667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schwetzingen",
+"steckbrief": "Rund 22.000 Einwohner, 9 km westlich von Heidelberg.",
+"frage": "Schwetzingen nennt sich Spargelstadt. Wo wurde der Spargel dort laut Stadtgeschichte zuerst angebaut?",
+"optionen": [
+"Er wuchs zuerst im Garten eines Klosters.",
+"Er wuchs zuerst auf den Äckern der Bauern.",
+"Er wuchs zuerst im Garten des Pfarrhauses.",
+"Er wuchs zuerst im Garten des Schlosses."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bauernäcker liegen nahe, denn Spargel gilt als typisches Feldgemüse. Laut Stadtgeschichte wurde er in Schwetzingen aber erstmals im Schlossgarten angebaut. Später trug er neben Hopfen und Tabak die Industrialisierung und wurde durch Züchtungen verbessert. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.schwetzingen.de/startseite/leben/stadtgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "39-schwetzingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Schwetzingen",
+"steckbrief": "Die Stadt hat rund 22.000 Einwohner und liegt 9 km westlich von Heidelberg.",
+"frage": "Wie hoch über dem Meeresspiegel liegt Schwetzingen?",
+"optionen": [
+"unter 120 m",
+"120 bis unter 200 m",
+"200 bis unter 350 m",
+"350 m und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an Heidelberg denkt, hat den Königstuhl und die Hänge des Odenwalds vor Augen. Schwetzingen liegt dagegen nur auf 101 Metern über dem Meer. Richtig war 1.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "39-schwetzingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Schwetzingen",
+"steckbrief": "Rund 22.000 Einwohner, 9 km westlich von Heidelberg gelegen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Schwetzingen war schon im Mittelalter eine Stadt.",
+"Im Schwetzinger Schlossgarten steht eine Moschee.",
+"Die Straße nach Heidelberg wurde als Maulbeerallee ausgebaut."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Moschee klingt am unwahrscheinlichsten, steht aber wirklich im Schlossgarten und zeugt vom aufgeklärten Denken des Herrschers. Gelogen war die mittelalterliche Stadt: Schwetzingen wurde erst Marktflecken mit Wochenmarkt und Jahrmärkten, Stadt erst unter Großherzog Leopold. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.schwetzingen.de/startseite/leben/stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "39-schwetzingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Schwetzingen",
+"steckbrief": "Rund 22.000 Einwohner, 9 km westlich von Heidelberg.",
+"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Schwetzingen die zweitmeisten Zweitstimmen?",
+"optionen": [
+"SPD",
+"GRÜNE",
+"AfD",
+"CDU"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele tippen auf die SPD, die lange zweite Volkspartei war. In Schwetzingen kam sie aber nur auf Platz drei, hinter der AfD. Stärkste Partei wurde die CDU. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "39-schwetzingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schwetzingen",
+"steckbrief": "Rund 22.000 Einwohner, 9 km westlich von Heidelberg.",
+"frage": "Der alemannische Dichter Johann Peter Hebel starb in Schwetzingen. Wo genau?",
+"optionen": [
+"Er starb in einem Gasthof der Stadt.",
+"Er starb im Pfarrhaus der evangelischen Gemeinde.",
+"Er starb in einem Spital der Stadt.",
+"Er starb in der Wohnung des Gartendirektors."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Gasthof oder Spital liegen nahe, denn dort starben früher oft Reisende. Hebel starb aber bei seinem Freund Johann Michael Zeyher, dem Schwetzinger Gartendirektor, im heutigen Amtsgericht. Begraben wurde er unter großen Feierlichkeiten auf dem Friedhof Hebelstraße; Zeyher ließ einen einfachen Stein setzen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.schwetzingen.de/2431371.html",
+"faktencheck": "bestätigt",
+"id": "39-schwetzingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Schwetzingen",
+"steckbrief": "Die Stadt hat rund 22.000 Einwohner und liegt 9 km westlich von Heidelberg.",
+"frage": "Wie weit ist es von Schwetzingen in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 90 km",
+"90 bis unter 120 km",
+"120 bis unter 150 km",
+"150 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gefühlt liegt Stuttgart fern, denn Heidelberg liegt gleich nebenan. Bis Stuttgart sind es in Luftlinie aber nur 80 Kilometer; die Straße ist länger. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "39-schwetzingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schwetzingen",
+"steckbrief": "Rund 22.000 Einwohner, 9 km westlich von Heidelberg.",
+"frage": "1870 wurde in Schwetzingen der Friedhof an der Mannheimer Landstraße eingeweiht. Woher stammte der Erste, der dort beerdigt wurde?",
+"optionen": [
+"Er stammte aus Schwetzingen selbst.",
+"Er stammte aus Breslau.",
+"Er stammte aus Paris.",
+"Er stammte aus Speyer."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Man erwartet einen Einheimischen, denn ein neuer Friedhof dient dem Ort. Doch er wurde im Deutsch-Französischen Krieg früher als geplant eingeweiht; in den Zirkelsälen des Schlosses lag ein Reservelazarett. Als Erster wurde Georg Härtel aus Breslau beerdigt, gestorben an Wundstarrkrampf. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.schwetzingen.de/2431371.html",
+"faktencheck": "bestätigt",
+"id": "39-schwetzingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schwetzingen",
+"steckbrief": "Rund 22.000 Einwohner, 9 km westlich von Heidelberg.",
+"frage": "Woher hat Schwetzingen laut Stadtgeschichte seinen Namen?",
+"optionen": [
+"Er kommt von einem Wort der Mundart.",
+"Er kommt von einem früheren Bachlauf.",
+"Er geht auf einen Personennamen zurück.",
+"Er erinnert an einen alten Volksstamm."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer „Schwetz“ hört, denkt an das pfälzische „schwätzen“. Laut Stadtgeschichte steckt aber ein Personenname dahinter: Der früh belegte Name Suezzingen bedeutet soviel wie „zu der Stätte des Suezzo gehörig“. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.schwetzingen.de/startseite/leben/stadtgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "39-schwetzingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schwetzingen",
+"steckbrief": "Rund 22.000 Einwohner, 9 km westlich von Heidelberg.",
+"frage": "Ab 1748 entstand in Schwetzingen eine „Neue Stadt“ mit Marktplatz. Welchen Zweck nennt die Stadtgeschichte dafür?",
+"optionen": [
+"Sie sollte die getrennten Ortsteile zusammenführen.",
+"Sie sollte Kasernen für Soldaten aufnehmen.",
+"Sie sollte ein Kurviertel mit Badehäusern werden.",
+"Sie sollte Platz für eine Hochschule schaffen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Kasernen liegen nahe, denn zu einer Residenz gehörten oft Soldaten. Laut Stadtgeschichte sollte die Neue Stadt aber die bislang getrennten Ortsteile zu einem städtischen Zentrum vereinen, bezogen auf das Schloss. Sie entstand entlang der Straße nach Heidelberg, die am Ehrenhof des Schlosses ihren Anfang nahm. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.schwetzingen.de/startseite/leben/stadtgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "39-schwetzingen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schwetzingen",
+"steckbrief": "Rund 22.000 Einwohner, 9 km westlich von Heidelberg.",
+"frage": "Später kamen die Pfalzgrafen gern zur Jagd nach Schwetzingen. Was war das Schloss ursprünglich, das wohl im 13. Jahrhundert entstand?",
+"optionen": [
+"Es war ein Kloster mit Klostergarten.",
+"Es war eine wehrhafte Wasserburg.",
+"Es war eine Zollstation an der Straße.",
+"Es war ein Gutshof eines Bischofs."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Kloster liegt nahe, denn manches Schloss ging aus Klosterbesitz hervor. Hier aber stand zwischen Oberdorf und Unterdorf eine wehrhafte Wasserburg des Rittergeschlechts der Erligheimer. Später kam sie an die Kurpfalz, deren Herren in den wildreichen Forsten des Hardtwaldes jagten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.schwetzingen.de/startseite/leben/stadtgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "39-schwetzingen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "38-hockenheim",
+"anschluss": [
+"Einwohner: Schwetzingen hat nur 265 mehr als Hockenheim.",
+"Fläche: Hockenheim ist mit 34,84 km² deutlich größer als Schwetzingen."
+],
+"km_vom_vorigen": 7.4
+},
+{
+"slug": "40-mannheim",
+"name": "Mannheim",
+"lat": 49.48778,
+"lon": 8.46611,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mannheim",
+"steckbrief": "Großstadt mit rund 320.000 Einwohnern an Rhein und Neckar, 94 km Luftlinie von Stuttgart.",
+"frage": "Wie erklärt die Stadt Mannheim den Namen ihres Stadtteils Käfertal?",
+"optionen": [
+"Der Name wurde erst bei der Eingemeindung 1897 vergeben.",
+"Er ist nach einem früheren Grundherrn benannt.",
+"Er bedeutet ursprünglich Tal der Kiefern.",
+"Er geht auf einen alten Bachnamen zurück."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name ist viel älter: Schon im 12. Jahrhundert hieß der Ort Keverndale. Die Stadt Mannheim leitet ihn aus der Pflanzenwelt ab, als Tal der Kiefern. Das Landesportal LEO-BW deutet ihn dagegen von Käfern. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.mannheim.de/de/service-bieten/bunte-stadt/stadtteilleben/kaefertal; LEO-BW, Ortslexikon Käfertal",
+"faktencheck": "korrigiert",
+"id": "40-mannheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mannheim",
+"steckbrief": "Großstadt mit rund 320.000 Einwohnern an Rhein und Neckar, 94 km Luftlinie von Stuttgart.",
+"frage": "Wie viele Einwohner leben in Mannheim durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 1.500",
+"1.500 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wälder und dörflich geprägte Stadtteile wie Friedrichsfeld lassen viele niedriger schätzen. Trotzdem leben rund 320.000 Menschen auf knapp 145 Quadratkilometern: 2.204 Einwohner je Quadratkilometer. Richtig war 4.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "40-mannheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Mannheim",
+"steckbrief": "Großstadt mit rund 320.000 Einwohnern an Rhein und Neckar, 94 km Luftlinie von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Eine barocke Sternwarte entstand auf Anregung eines Jesuitenpaters.",
+"Ein Mainzer Erzbischof legte den Grundstein der Friedrichsburg.",
+"Die denkmalgeschützte Teufelsbrücke ist als Drehbrücke gebaut."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Mainz liegt nahe, und seine Erzbischöfe waren mächtige Landesherren. Den Grundstein der Friedrichsburg legte aber Kurfürst Friedrich IV. von der Pfalz. Die Sternwarte regte Jesuitenpater Christian Meyer an, die Teufelsbrücke ist eine unsymmetrische Drehbrücke. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.mannheim.de/de/kultur-erleben/stadtgeschichte und www.mannheim.de/de/kultur-erleben/kulturdenkmale",
+"faktencheck": "korrigiert",
+"id": "40-mannheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mannheim",
+"steckbrief": "Großstadt mit rund 320.000 Einwohnern an Rhein und Neckar, 94 km Luftlinie von Stuttgart.",
+"frage": "Wie hoch war die Wahlbeteiligung in Mannheim bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 74 %",
+"74 bis unter 80 %",
+"80 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Große Städte wählen oft etwas seltener als ihr Umland, deshalb tippen viele niedrig. Die Wahlbeteiligung in Mannheim lag bei 78,4 Prozent; bei den Zweitstimmen wurde die CDU stärkste Partei, vor der SPD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "40-mannheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mannheim",
+"steckbrief": "Großstadt mit rund 320.000 Einwohnern an Rhein und Neckar, 94 km Luftlinie von Stuttgart.",
+"frage": "Der Mannheimer Stadtteil Friedrichsfeld war bis ins 19. Jahrhundert ein kleines Bauerndorf. Was machte es zu einem überregionalen Knotenpunkt?",
+"optionen": [
+"Am Ort entstand ein großer Binnenhafen.",
+"Ein Viehmarkt zog Händler aus der Region an.",
+"Ein Anschlussbahnhof verband dort zwei Eisenbahnlinien.",
+"Ein neuer Kanal verband dort Rhein und Neckar."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wasserwege machten viele Orte zu Knotenpunkten, das liegt nahe. Friedrichsfeld wuchs aber mit dem Bau der Eisenbahn: Sein Bahnhof verband die Main-Neckar-Eisenbahn mit der Badischen Staatsbahn. Dörflich geprägt ist der Stadtteil bis heute. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.mannheim.de/de/service-bieten/bunte-stadt/stadtteilleben/friedrichsfeld",
+"faktencheck": "bestätigt",
+"id": "40-mannheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mannheim",
+"steckbrief": "Großstadt mit rund 320.000 Einwohnern an Rhein und Neckar, 94 km Luftlinie von Stuttgart.",
+"frage": "Wie groß ist das Stadtgebiet von Mannheim?",
+"optionen": [
+"unter 60 km²",
+"60 bis unter 100 km²",
+"100 bis unter 130 km²",
+"130 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer dicht bebauten Großstadt schätzen viele die Fläche klein. Zu Mannheim gehört aber auch der Käfertaler Wald am Rand des Stadtbezirks Käfertal. Das Stadtgebiet umfasst 144,97 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "korrigiert",
+"id": "40-mannheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mannheim",
+"steckbrief": "Großstadt mit rund 320.000 Einwohnern an Rhein und Neckar, 94 km Luftlinie von Stuttgart.",
+"frage": "Mannheims Innenstadt ist als Quadratestadt bekannt. Wie oft wurde die Stadt nach Zerstörungen wieder aufgebaut?",
+"optionen": [
+"Mannheim wurde viermal wieder aufgebaut.",
+"Mannheim wurde nur einmal wieder aufgebaut.",
+"Mannheim wurde zweimal wieder aufgebaut.",
+"Mannheim wurde sechsmal wieder aufgebaut."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Einmal oder zweimal klingt für eine Stadt schon nach viel Unglück. Seit dem Bau der Festung Friedrichsburg musste Mannheim aber insgesamt viermal nach Zerstörungen neu aufgebaut werden. Stets erhalten blieb das gitterförmige Straßennetz der Innenstadt: Statt Namen berühmter Menschen gibt es dort Buchstaben und Zahlen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.mannheim.de/de/kultur-erleben/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "40-mannheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mannheim",
+"steckbrief": "Großstadt mit rund 320.000 Einwohnern an Rhein und Neckar, 94 km Luftlinie von Stuttgart.",
+"frage": "An den Wettbewerben für Mannheims Nationaltheater nahm auch Ludwig Mies van der Rohe teil. Was gilt beim gebauten Haus als Neuheit in Deutschland?",
+"optionen": [
+"Der Zuschauerraum lag vollständig unter der Erde.",
+"Schauspiel und Oper teilten sich ein gemeinsames Foyer.",
+"Oper und Schauspiel spielten im selben einzigen Saal.",
+"Das Dach ließ sich bei Sommerwetter öffnen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Theaterneubau erwartet man Neuerungen bei Bühne oder Zuschauerraum. Das Besondere lag aber im Foyer: Der Bau des Frankfurter Architekten Gerhard Weber gilt als erstes Haus in Deutschland, in dem Schauspiel und Oper ein gemeinsames Foyer haben. Er steht heute unter Denkmalschutz. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.mannheim.de/de/kultur-erleben/kulturdenkmale",
+"faktencheck": "korrigiert",
+"id": "40-mannheim/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "39-schwetzingen",
+"anschluss": [
+"Kennzeichen: In Mannheim steht MA am Auto, in Schwetzingen HD.",
+"Bundestagswahl 2025: Zweite wurde in Mannheim SPD, in Schwetzingen AfD."
+],
+"km_vom_vorigen": 13.7
+},
+{
+"slug": "41-ladenburg",
+"name": "Ladenburg",
+"lat": 49.47194,
+"lon": 8.60917,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ladenburg",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 9 km nordwestlich von Heidelberg.",
+"frage": "Der italienische Komponist Arcangelo Corelli trug den Titel „Marques de Ladenburg“. Wie kam er zu diesem Titel?",
+"optionen": [
+"Der Papst ernannte ihn zum Marquis.",
+"Ein Kurfürst verlieh ihm den Titel.",
+"Er erbte den Titel von seinem Vater.",
+"Er wählte ihn selbst als Künstlernamen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Papst liegt nahe, denn Corelli war Italiener. Doch den Titel verlieh ihm laut Stadtgeschichte Kurfürst Johann Wilhelm. So trug ein italienischer Komponist und Geiger den Namen der Stadt im Titel. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ladenburg.de/de/2000-Jahre-Stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "41-ladenburg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ladenburg",
+"steckbrief": "Stadt im Rhein-Neckar-Kreis, 9 km nordwestlich von Heidelberg.",
+"frage": "Wie viele Menschen leben in Ladenburg?",
+"optionen": [
+"unter 5.000",
+"5.000 bis unter 10.000",
+"10.000 bis unter 20.000",
+"20.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Neben der Großstadt Heidelberg wirkt Ladenburg klein, deshalb liegt eine kleinere Spanne nahe. Tatsächlich lebten Ende 2025 in Ladenburg 12.820 Menschen. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "41-ladenburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Ladenburg",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 9 km nordwestlich von Heidelberg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Archäologe wurde Ehrenbürger von Ladenburg.",
+"Die Römer nannten den Ort Lopodunum.",
+"Die Reformation zog ohne Zerstörungen vorbei."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Lopodunum klingt erfunden, stimmt aber. Die Reformationszeit brachte Ladenburg erhebliche Verwicklungen mit Zerstörungen: Der katholische Bischof von Worms und der reformationsfreundliche Kurfürst von der Pfalz standen sich gegenüber. Ehrenbürger wurde der Archäologe Berndmark Heukemes. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.ladenburg.de/de/2000-Jahre-Stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "41-ladenburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ladenburg",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 9 km nordwestlich von Heidelberg.",
+"frage": "Bei der Bundestagswahl 2025 wurde die CDU in Ladenburg stärkste Partei. Wie hoch war ihr Zweitstimmenanteil?",
+"optionen": [
+"unter 32 %",
+"32 bis unter 38 %",
+"38 bis unter 44 %",
+"44 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Baden-Württemberg gilt als CDU-Land, darum liegen höhere Spannen nahe. In Ladenburg kam die CDU auf 30,8 Prozent der Zweitstimmen; Zweite wurden die Grünen. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "41-ladenburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ein Ladenburger Färbersohn wurde in Wien österreichischer Hofkanzler. Welches berühmte Dokument soll er verfasst haben? (Optionen 1–4 bleiben)",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Goldene Bulle klingt nach Kanzlei, entstand aber lange vor seiner Zeit. Johann Friedrich von Seilern gilt als Verfasser der Pragmatischen Sanktion. Sie sicherte der Habsburgerin Maria Theresia die Erbfolge in den habsburgischen Ländern. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ladenburg.de/de/2000-Jahre-Stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "41-ladenburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ladenburg",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern im Rhein-Neckar-Kreis, 9 km nordwestlich von Heidelberg.",
+"frage": "Wie viele Einwohner leben in Ladenburg auf einem Quadratkilometer?",
+"optionen": [
+"unter 200",
+"200 bis unter 500",
+"500 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. So nah an Heidelberg erwartet man städtische Dichte von über 1.000. Doch die 12.820 Einwohner verteilen sich auf 19 Quadratkilometer Stadtgebiet, rechnerisch 675 je Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "41-ladenburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ladenburg",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 9 km nordwestlich von Heidelberg.",
+"frage": "Carl Benz, Erfinder des Automobils, wohnte zuletzt in Ladenburg. Im Benz-Park steht ein Bau, der wohl der älteste seiner Art ist. Welcher?",
+"optionen": [
+"Es ist eine frühe Tankstelle.",
+"Es ist ein Gewächshaus aus Eisen.",
+"Es ist ein Fahrradschuppen aus Holz.",
+"Es ist eine Garage aus Stein."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Tankstelle liegt nahe, denn ohne Benzin fuhr auch das erste Auto nicht weit. Im Benz-Park findet sich die wohl älteste Steingarage. Begraben ist Carl Benz auf dem Ladenburger Friedhof. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.ladenburg.de/de/2000-Jahre-Stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "41-ladenburg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Um 600 kam Ladenburg als Geschenk fränkischer Könige an den Bischof von Worms. Wie lange blieb der Bischof Stadtherr, zuletzt gemeinsam mit der Kurpfalz? (Optionen 1–4 bleiben)",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele vermuten, die Reformationszeit habe die Bischöfe vertrieben. Ab dem 14. Jahrhundert teilten sie sich die Stadt zwar mit der Kurpfalz. Doch erst der Zessionsvertrag zwischen Kurfürst und Bischof von Worms beendete ihre Herrschaft im Wesentlichen, im Jahr 1705. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ladenburg.de/de/2000-Jahre-Stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "41-ladenburg/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ladenburg",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 9 km nordwestlich von Heidelberg.",
+"frage": "Woher hat Ladenburg seinen Namen?",
+"optionen": [
+"Der Name geht auf eine keltische Wurzel zurück.",
+"Er erinnert an die Läden eines alten Markts.",
+"Er stammt von einem fränkischen Grundherrn.",
+"Er kommt von Schiffern, die hier luden."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Läden oder Schiffe, die hier luden, liegen beim heutigen Namen nahe. Doch laut Stadtgeschichte steckt im Namen eine keltische Wurzel, die bis heute überlebt hat. Ihre Bedeutung liegt noch im Dunkel der Zeit. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.ladenburg.de/de/2000-Jahre-Stadtgeschichte",
+"faktencheck": "unsicher",
+"id": "41-ladenburg/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "40-mannheim",
+"anschluss": [
+"Einwohner: Mannheim hat rund 25-mal so viele wie Ladenburg.",
+"Kennzeichen: In Ladenburg steht HD am Auto, in Mannheim MA."
+],
+"km_vom_vorigen": 10.5
+},
+{
 "slug": "17-weinheim",
 "name": "Weinheim",
 "lat": 49.55611,
@@ -8545,9 +9307,9 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "37-waghaeusel",
+"anschluss_von": "41-ladenburg",
 "anschluss": [],
-"km_vom_vorigen": 35.8
+"km_vom_vorigen": 10.3
 },
 {
 "slug": "18-laudenbach",
