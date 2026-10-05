@@ -1,0 +1,735 @@
+ZIELORT: Friesenheim (Gemeinde)
+LAGE: 42 km nördlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Friesenheim (Baden)
+
+GRUNDDATEN:
+  landkreis: Ortenaukreis  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 13.884  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 46,6  [Wikidata P2046]
+  dichte_ew_km2: 298  [berechnet aus Einwohner und Fläche]
+  kfz: OG (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 159 | 191 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2924382)]
+  naechste_grossstadt: Freiburg im Breisgau, 42 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 105 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Friesenheim (Baden)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 77948  [Wikidata P281]
+  vorwahl: 07808, 07821  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 33,8 %, AfD 21,7 %, SPD 13,9 %, GRÜNE 10,3 %, Die Linke 5,1 %; Wahlbeteiligung 83,4 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Erik Weide — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-05]
+  partnerstaedte: Tavaux, Herbsheim  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Fläche der Gemarkung), C, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Lahr (Stadt)
+  landkreis: Ortenaukreis  [dewiki Infobox]
+  einwohner: 51.208  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 69,86 | 69,84  [Wikidata P2046; Altbestand staedte.json]
+  hoehe_m: 170 | 176  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2881885)]
+  naechste_grossstadt: Freiburg im Breisgau, 38 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Lahr (Schwarzw)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: AfD 31,4 %, CDU 24,7 %, SPD 13,6 %, GRÜNE 9,4 %, Die Linke 6,6 %, BSW 5,1 %; Wahlbeteiligung 75,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  kfz: LR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand staedte.json]
+
+FAHRT: Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Achern, Bühl, Baden-Baden, Rastatt, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Langen, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar
+
+FAKTEN (Zielort Friesenheim):
+ID: 30-friesenheim/001
+ENTITÄT: ort
+BEZEICHNUNG: Friesenheim
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_zeit: vermutlich 8. Jahrhundert
+  gründer: Franken
+  gegründet_von_anderen_völker: Sessions Friesen aus Holland zogen Rhein aufwärts
+  geprägt_durch: Weinbau, Landwirtschaft, Wäldern
+  lage: am Rande der Schwarzwaldvorberge
+  sichtbare_landschaften: Straßburg, Rheintal, Vogesen, Schwarzwaldberge
+  bevölkerungswachstum_10_jahre: 1.411 Einwohner
+  namensherkunrien_theorie_1: Sesshafte Friesen aus Holland wegen Hochwassergefahr
+  namensherkunrien_theorie_2: Franke namens Frisco gründete Ortschaft
+  namensherkunrien_theorie_3: Mittelhochdeutsches friesen bedeutet Gräben anlegen
+  wasserbau_expertise: möglicherweise bekannt für Expertise
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/002
+ENTITÄT: ort
+BEZEICHNUNG: Friesenheim
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/gemeindeportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 14590
+  gemarkungsfläche_ha: 4660
+  wald_ha: 1639
+  wald_prozent: 35
+  landwirtschaftsfläche_ha: 2189
+  landwirtschaftsfläche_prozent: 47
+  siedlungsfläche_ha: 699
+  siedlungsfläche_prozent: 15
+  sonstige_fläche_ha: 133
+  sonstige_fläche_prozent: 3
+  tiefster_punkt_m: 153
+  höchster_punkt_m: 638
+  gemeindestraßen_km: 123
+  rad_fußwege_km: 17
+  feldwege_km: 124
+  waldwege_km: 78.2
+  gewerbebetriebe: über 1000
+  industrie_handwerk_prozent: 45
+  dienstleistung_prozent: 52
+  land_forstwirtschaft_prozent: 3
+  industrie_gewerbe_mischgebiete: 10
+  industrie_gewerbe_fläche_ha: 58
+  gewerbesteuer_planansatz_eur: 4500000
+  gewerbesteuerhebesatz_prozent: 370
+  grundsteuer_a_planansatz_eur: 68000
+  grundsteuerhebesatz_a_prozent: 490
+  grundsteuer_b_planansatz_eur: 1740000
+  grundsteuerhebesatz_b_prozent: 240
+  ergebnishaushalt_eur: 38674000
+  finanzhaushalt_eur: 13716000
+  kindertageseinrichtungen: 10
+  kindertagesplätze: 715
+  kleinkindbetreuungsplätze: 139
+  betreuungsplätze_ab_3_jahren: 576
+  großkindertagespflege_plätze: 8
+  aktive_tagesmütter: 4
+  tagesmütter_plätze: 20
+  schulen: Realschule, Werkrealschule, Grundschulen in allen Ortsteilen
+  volkshochschule: vorhanden
+  wasserversorgungsanlage_seit: 1889
+  wasserverbrauch_jahres_cbm: 680000
+  gemeindewald_ha: 1639
+  wald_radwege_km: 78
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 30-friesenheim/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Friesenheim
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/gemeindeportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 5803
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberweier
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/gemeindeportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 2354
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Heiligenzell
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/gemeindeportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1417
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberschopfheim
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/gemeindeportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 3264
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schuttern
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/gemeindeportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1752
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/008
+ENTITÄT: siedlung
+BEZEICHNUNG: Siedlung Jungsteinzeit
+ORTSTEIL_BEZUG: Friesenheim, Oberweier, Oberschopfheim
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1800-400 v.Chr.
+  beschreibung: Urgeschichtliche Scherben im Gewann Bannstude, Messerklinge aus Feuerstein in Oberweier, Mahlstein und Steinhammer in Hinterer Dorfstraße, Steinbeil in Oberschopfheim 1935
+  nachweis: Fundstücke
+GUELTIG_AB: -1800
+GUELTIG_BIS: -400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 30-friesenheim/009
+ENTITÄT: siedlung
+BEZEICHNUNG: Späthallstattliche Siedlung
+ORTSTEIL_BEZUG: Friesenheim
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 6./5. Jahrhundert v.Chr.
+  befunde: Brunnen, Pfostenlöcher
+GUELTIG_AB: -600
+GUELTIG_BIS: -400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 30-friesenheim/010
+ENTITÄT: grabfund
+BEZEICHNUNG: Grabfund Schlössleberg
+ORTSTEIL_BEZUG: Friesenheim
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datierung: um 400 v.Chr.
+  bedeutung: weist auf Rodung und Besiedlung der Lössvorberge in der Laténezeit
+GUELTIG_AB: -400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 30-friesenheim/011
+ENTITÄT: römische_infrastruktur
+BEZEICHNUNG: Heerstraße Augst-Mainz
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: um 100 n.Chr.
+  verlauf: von Augst bei Basel bis nach Mainz
+  durchquert: Gemarkung Friesenheim
+GUELTIG_AB: 100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 30-friesenheim/012
+ENTITÄT: römische_infrastruktur
+BEZEICHNUNG: Römische Straßenstation
+ORTSTEIL_BEZUG: Friesenheim
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Gewann Bannstude
+  befunde: Fundamente restauriert
+GUELTIG_AB: 100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 30-friesenheim/013
+ENTITÄT: römische_infrastruktur
+BEZEICHNUNG: Zweite römische Straße
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Vorgebirgszone zwischen Oberweier und Oberschopfheim
+GUELTIG_AB: 100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 30-friesenheim/014
+ENTITÄT: römische_villa
+ORTSTEIL_BEZUG: Schuttern
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Klosterkirche Schuttern
+  befunde: römische Fundamente einer kleinen Villa
+GUELTIG_AB: 100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 30-friesenheim/015
+ENTITÄT: siedlung
+BEZEICHNUNG: Römische Siedlung Oberweier
+ORTSTEIL_BEZUG: Oberweier
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nachweislich_besiedelt: ja
+GUELTIG_AB: 60
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 30-friesenheim/016
+ENTITÄT: herrscher
+BEZEICHNUNG: Julius Caesar
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: erobert Gallien
+  jahr: 58 v.Chr.
+  folge: Elsass fällt Römern zu, Straßburg wird befestigt
+GUELTIG_AB: -58
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/017
+ENTITÄT: herrscher
+BEZEICHNUNG: Allemannen
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: nehmen Oberrheingebiet in Besitz
+  jahr: um 260 n.Chr.
+GUELTIG_AB: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 30-friesenheim/018
+ENTITÄT: herrscher
+BEZEICHNUNG: Frankenkönig Pippin
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: beendet Vormachtsstellung der Allemannen
+  jahr: 748
+  folge: Franken führen neue Staatsverfassung ein, bilden Gau Mordenaugie (Ortenau)
+GUELTIG_AB: 748
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/019
+ENTITÄT: kloster
+BEZEICHNUNG: Offoniswilare
+ORTSTEIL_BEZUG: Schuttern
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: vermutlich früher 7. Jahrhundert
+  gründer: Schottenmönch aus königlichem Blute namens Otto
+  bedeutung: Christianisierung der Allemannen
+GUELTIG_AB: 600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 30-friesenheim/020
+ENTITÄT: ort
+BEZEICHNUNG: Schopfheim
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung: 763 n.Chr.
+  erste_bezeichnung: Scopfheim
+  kontext_ersterwähnung: Bischof Heddo I. von Straßburg schenkt Besitz dem Kloster Ettenheimmünster
+GUELTIG_AB: 763
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 30-friesenheim/021
+ENTITÄT: markgenossenschaft
+BEZEICHNUNG: Markgenossenschaft Schopfheim
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umfasst: Nieder- und Oberschopfheim sowie Diersburg
+GUELTIG_AB: 763
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 30-friesenheim/022
+ENTITÄT: herrscher
+BEZEICHNUNG: Kaiser Heinrich II.
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: schenkt Kloster Schuttern Ortschaften
+  jahr: 1016
+  ortschaften: Routgereswilre (Heiligenzell), Schopfheim, Friesenheim
+GUELTIG_AB: 1016
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/023
+ENTITÄT: bistum
+BEZEICHNUNG: Bistum Bamberg
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besitz: gesamte Ortenau als Lehen
+  ab_jahr: um 1016
+GUELTIG_AB: 1016
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 30-friesenheim/024
+ENTITÄT: herrschergeschlecht
+BEZEICHNUNG: Herren von Geroldseck
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteile_herrschaft: Friesenheim, Oberweier, Rutgerisweiler, Oberschopfheim
+  besonderheit: Gefälle, Nutzungen und Rechte stehen beiden Linien zu gleichen Hälften zu
+GUELTIG_AB: 1016
+GUELTIG_BIS: 1277
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 30-friesenheim/025
+ENTITÄT: ereignis
+BEZEICHNUNG: Teilung Geschlecht Geroldseck
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  veranlassung: Tod von Walter I. von Geroldseck
+  jahr: 1277
+  folge: Geschlecht teilt sich in obere Linie (Geroldseck, Schuttertal) und untere Linie (Mahlberg, Lahr)
+GUELTIG_AB: 1277
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/026
+ENTITÄT: verwaltung
+BEZEICHNUNG: Verwaltungssitz Mahlberg
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zuständig_für: Raum Friesenheim
+GUELTIG_AB: 1277
+GUELTIG_BIS: 1481
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 30-friesenheim/027
+ENTITÄT: ereignis
+BEZEICHNUNG: Geroldsecker Krieg
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grund: Herrschaftsbereich-Konflikte
+  zeitraum: 1424-1434
+GUELTIG_AB: 1424
+GUELTIG_BIS: 1434
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 30-friesenheim/028
+ENTITÄT: herrscher
+BEZEICHNUNG: Diebold II.
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: verpfändet Dörfer und Weiler
+  jahr: 1481
+  ortschaften: Friesenheim, Ottenheim, Oberschopfheim, Oberweier, Heiligenzell
+  empfänger: Markgrafen von Baden
+GUELTIG_AB: 1481
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/029
+ENTITÄT: ereignis
+BEZEICHNUNG: Bauernkrieg
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1525
+  folge_vor_ort: Aufständische Bauern aus Lahr und Friesenheim verwüsten Kloster Schuttern
+GUELTIG_AB: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 30-friesenheim/030
+ENTITÄT: ereignis
+BEZEICHNUNG: Dreißigjähriger Krieg
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1618-1648
+  auswirkung_vor_ort: Region zunächst weitgehend verschont, erst 1638 schwere Auseinandersetzungen
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 30-friesenheim/031
+ENTITÄT: ereignis
+BEZEICHNUNG: Brand Friesenheim
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 7.8.1638
+  verursacher: kaiserliche Truppen und Bernhard von Weimar
+  ausmaß: Friesenheim vollständig zerstört
+  ausnahmen: evangelische Kirche und Fachwerkhaus Kautz überstand
+  grund: Auseinandersetzungen zwischen kaiserlichen Truppen und Bernhard von Weimar
+GUELTIG_AB: 1638
+GUELTIG_BIS: 1638
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/032
+ENTITÄT: kriege
+BEZEICHNUNG: Französische Expansionskriege und Pfälzischer Erbfolgekrieg
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: nach 1648
+  auswirkung: Schloss Geroldseck und Tiefburg Lahr 1689 von Franzosen zerstört
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 30-friesenheim/033
+ENTITÄT: herrscher
+BEZEICHNUNG: Markgraf Karl Friedrich von Baden-Durlach
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: tritt Erbe von Baden-Baden an
+  jahr: 1771
+  folge: Amt Mahlberg geht an protestantischen Markgrafen über, Konfessionen werden gleichgestellt
+GUELTIG_AB: 1771
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/034
+ENTITÄT: ereignis
+BEZEICHNUNG: Klosterschließung Schuttern
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grund: Säkularisation im Rahmen Napoleonischer Kriege
+  jahr: 1806
+GUELTIG_AB: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/035
+ENTITÄT: ereignis
+BEZEICHNUNG: Eingemeindung Ortsteile
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1972-1975
+  ortsteile: Oberweier, Heiligenzell, Oberschopfheim, Schuttern
+  folge: schließen sich der Gemeinde Friesenheim an
+GUELTIG_AB: 1972
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/036
+ENTITÄT: gebäude
+BEZEICHNUNG: Rathaus Friesenheim
+QUELLE: https://www.friesenheim.de/startseite/freizeit+kultur+tourismus/sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 16. Jahrhundert
+  stockbrunnen_jahr: 1548
+  nutzung_vor_1853: Stubenwirtschaft Zum weißen Rössle von Matthias Moser (seit ca. 1670)
+  umwidmung_zu_rathaus: 1853
+  generalsanierung: 2005
+  stockbrunnen_versetzung: 1980
+  stockbrunnen_material: Sandsteintrog
+  stockbrunnen_quelle: Gewann Weiertsfeld
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/037
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Friesenheim
+QUELLE: https://www.friesenheim.de/startseite/freizeit+kultur+tourismus/sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirchturm_jahr: 1496
+  überstand_brand_1638: ja
+  südportal_inschrift: 1768
+  sakristei_jahreszahl: 1780
+  simultankirche_bis: 1913
+  innenrenovierung: 1990
+  superlativ: eines der ältesten Baudenkmäler in der Gemeinde
+GUELTIG_AB: 1496
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/038
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Laurentius-Kirche (Katholische Kirche Friesenheim)
+QUELLE: https://www.friesenheim.de/startseite/freizeit+kultur+tourismus/sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: Neubarock
+  baubeginn: 1910
+  kirchturm_fertigstellung: 1913
+  renovierung: 1979 (kostete 500.000 Euro), 2005/2006 Kirchturm
+  superlativ: bedeutendste Bauwerke des Neubarocks in der Region
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/039
+ENTITÄT: römersiedlung
+BEZEICHNUNG: Römersiedlung Friesenheim
+QUELLE: https://www.friesenheim.de/startseite/freizeit+kultur+tourismus/sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Gewann Bannstude
+  umgestaltung: zu Freilichtmuseum durch Gemeinde Friesenheim
+  sehenswürdigkeiten: Tempel der Göttin Diana, Fundamente römischer Straßenstation
+GUELTIG_AB: 100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/040
+ENTITÄT: gebäude
+BEZEICHNUNG: Schlössle
+ORTSTEIL_BEZUG: Heiligenzell
+QUELLE: https://www.friesenheim.de/startseite/freizeit+kultur+tourismus/sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kapelle_gründung_jahr: 1313
+  kapelle_gründer: Berthold von Uttenheim (Kellermeister Kloster Schuttern)
+  kapelle_widmung: dem heiligen Georg geweihte Kapelle
+  umbau_jahr: 1477
+  umbau_aktion: auf Grundmauern umgebaut, zur Probstei erweitert
+  kirchlicher_besitz_bis: 1806
+  sanierung: 1984 (dreijährige Bauzeit)
+  nutzung_heute: historisches Wahrzeichen, Hochzeitsvenue
+GUELTIG_AB: 1313
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/041
+ENTITÄT: kirche
+BEZEICHNUNG: Leutkirche
+ORTSTEIL_BEZUG: Oberschopfheim
+QUELLE: https://www.friezenheim.de/startseite/freizeit+kultur+tourismus/sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: vermutlich Kapelle aus Gutshof entstanden
+  bauzeit: vermutlich 12. Jahrhundert
+  nutzung_1648_bis_1648: Siechenhaus (bis Ende Dreißigjähriger Krieg)
+  kirche_für_ortschaften: Oberschopfheim, Niederschopfheim, Diersburg (bis 1714)
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 30-friesenheim/042
+ENTITÄT: klosterkirche
+BEZEICHNUNG: Klosterkirche Schuttern
+ORTSTEIL_BEZUG: Schuttern
+QUELLE: https://www.friesenheim.de/startseite/freizeit+kultur+tourismus/sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gebäude_der: Benediktinerabtei
+  renovierung_und_neugestaltung: 1982
+  unterkirche: Ausgrabungen zeigen verschiedene Bauepochen
+  mosaik: aus ottonischer Zeit, zeugt lange und reiche Geschichte
+GUELTIG_AB: 600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 30-friesenheim/043
+ENTITÄT: wasserversorgungsanlage
+BEZEICHNUNG: Wasserversorgungsanlage Friesenheim
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/gemeindeportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestandteil_seit: 1889
+  wasserkuellen: Tiefbrunnenwasser aus Rheinebene und Quellen im Gemeindewald
+  wasserqualität: gutes Trinkwasser
+  jahresverbrauch_cbm: 680000
+GUELTIG_AB: 1889
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/044
+ENTITÄT: abwasserzweckverband
+BEZEICHNUNG: Abwasserzweckverband Friesenheim Neuried Meißenheim
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/gemeindeportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1975
+  gemeinden: Friesenheim, Neuried, Meißenheim
+  aufgabe: sichere Sammlung, Ableitung und Reinigung Abwasser
+  ziel: nachhaltiger Schutz der Gewässer, besonders der Schutter
+  kanalnetz_gesamt_km: 109
+  kanalnetz_friesenheim_km: 68
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/045
+ENTITÄT: wald
+BEZEICHNUNG: Gemeindewald Friesenheim
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/gemeindeportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche_ha: 1639
+  orkan_lothar_1999: starke Schäden, Kahlflächen
+  wiederaufforstung: Pflanzungen und natürliche Verjüngung in Folgejahren
+  funktionen: Holzproduktion, Erholungsraum, Wasserspeicher, Beitrag zum lokalen Klima
+  wald_radwege_km: 78
+GUELTIG_AB: 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 30-friesenheim/046
+ENTITÄT: naherholungsgebiet
+BEZEICHNUNG: Baggersee Campingplatz Schuttern
+ORTSTEIL_BEZUG: Schuttern
+QUELLE: https://www.friesenheim.de/startseite/unsere+gemeinde/gemeindeportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  überregionale_bekannheit: ja
+  besucher: Gäste aus nah und fern
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 30-friesenheim/047
+ENTITÄT: pfarramt
+BEZEICHNUNG: Evangelisches Pfarramt Friesenheim
+QUELLE: https://www.friesenheim.de/startseite/bildung+_+soziales/kirchen+_+soziale+einrichtungen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarrer: vakant
+  zuständig_für: Friesenheim, Oberweier, Heiligenzell, Schuttern
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 30-friesenheim/048
+ENTITÄT: pfarramt
+BEZEICHNUNG: Evangelische Kirchengemeinde Des Guten Hirten
+ORTSTEIL_BEZUG: Oberschopfheim
+QUELLE: https://www.friesenheim.de/startseite/bildung+_+soziales/kirchen+_+soziale+einrichtungen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarrer: Kornelius Wieland-Goelz
+  zuständig_für: Oberschopfheim
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 30-friesenheim/049
+ENTITÄT: pfarramt
+BEZEICHNUNG: Röm.-kath. Kirchengemeinde Südliche Ortenau
+QUELLE: https://www.friesenheim.de/startseite/bildung+_+soziales/kirchen+_+soziale+einrichtungen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  leitender_pfarrer: Nelson Ribeiro
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 30-friesenheim/050
+ENTITÄT: seniorenheim
+BEZEICHNUNG: Emmaus
+QUELLE: https://www.friesenheim.de/startseite/bildung+_+soziales/kirchen+_+soziale+einrichtungen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Seniorenheim
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 30-friesenheim/051
+ENTITÄT: soziale_einrichtung
+BEZEICHNUNG: Kursana Domizil Haus Ignatius
+QUELLE: https://www.friesenheim.de/startseite/bildung+_+soziales/kirchen+_+soziale+einrichtungen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Betreuungseinrichtung
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 30-friesenheim/052
+ENTITÄT: social_einrichtung
+BEZEICHNUNG: DRK-Ortsverein Friesenheim
+QUELLE: https://www.friesenheim.de/startseite/bildung+_+soziales/kirchen+_+soziale+einrichtungen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  organisation: Deutsches Rotes Kreuz
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 30-friesenheim/053
+ENTITÄT: soziale_einrichtung
+BEZEICHNUNG: Nachbarschaftshilfe Friesenheim e.V.
+QUELLE: https://www.friesenheim.de/startseite/bildung+_+soziales/kirchen+_+soziale+einrichtungen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Nachbarschaftshilfe
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 30-friesenheim/054
+ENTITÄT: soziale_einrichtung
+BEZEICHNUNG: Pflegewerk Ortenau
+QUELLE: https://www.friesenheim.de/startseite/bildung+_+soziales/kirchen+_+soziale+einrichtungen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Pflegewerk
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+

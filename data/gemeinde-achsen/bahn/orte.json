@@ -1,5 +1,5 @@
 {
- "_doc": "Raum Bahn Freiburg–Neuwied (Mike, 2026-10-03): Bahnfahrt auf der rechten Rheinseite (Rheintalbahn bis Mannheim, über Frankfurt, RB10 Wiesbaden–Rüdesheim–Kaub–St. Goarshausen–Lahnstein–Neuwied), hin und zurück. Probe der neuen Kette nach Spielkonzept v0.3.1 §8 Nr. 9: Geschichten aus Gemeinde-Webseite und Landesportal statt Wikipedia, direkte Aufrufe, Prüfstufen; Aufwandsvergleich gegen die Räume Freiburg und Neuwied. Erst 10 Orte als Messung (drei Länder: BW, Hessen, RLP), dann Ausbau auf 30–40. Reihenfolge = Hinfahrt. Keine Spender (Kosten-Pareto H5). Strecke Mannheim–Frankfurt bewusst ohne Ort: ob Riedbahn oder Main-Neckar-Bahn, hängt vom Zug ab. Ausbau (Mike, 2026-10-03: über die Bergstraße): 19 weitere Orte, Reihenfolge der Liste = Hinfahrt; die Nummern 01–10 sind die Messorte der ersten Probe, 11–29 der Ausbau. Abschnitt Karlsruhe–Heidelberg/Mannheim ohne Ort (Zugweg offen). Am Ende schließen Bendorf und Engers aus dem Raum Neuwied an.",
+ "_doc": "Raum Bahn Freiburg–Neuwied (Mike, 2026-10-03): Bahnfahrt auf der rechten Rheinseite (Rheintalbahn bis Mannheim, über Frankfurt, RB10 Wiesbaden–Rüdesheim–Kaub–St. Goarshausen–Lahnstein–Neuwied), hin und zurück. Probe der neuen Kette nach Spielkonzept v0.3.1 §8 Nr. 9: Geschichten aus Gemeinde-Webseite und Landesportal statt Wikipedia, direkte Aufrufe, Prüfstufen; Aufwandsvergleich gegen die Räume Freiburg und Neuwied. Erst 10 Orte als Messung (drei Länder: BW, Hessen, RLP), dann Ausbau auf 30–40. Reihenfolge = Hinfahrt. Keine Spender (Kosten-Pareto H5). Strecke Mannheim–Frankfurt bewusst ohne Ort: ob Riedbahn oder Main-Neckar-Bahn, hängt vom Zug ab. Ausbau (Mike, 2026-10-03: über die Bergstraße): 19 weitere Orte, Reihenfolge der Liste = Hinfahrt; die Nummern 01–10 sind die Messorte der ersten Probe, 11–29 der Ausbau. Abschnitt Karlsruhe–Heidelberg/Mannheim ohne Ort (Zugweg offen). Am Ende schließen Bendorf und Engers aus dem Raum Neuwied an. Ausbau Rheintal (2026-10-06): Friesenheim (zwischen Lahr und Offenburg) und Appenweier (zwischen Offenburg und Achern), je ein Ort für die Aufwandsmessung je Ort. Ausbau Rheinbahn (2026-10-06, Mike: über Mannheim): Renchen (zwischen Appenweier und Achern), dann Rastatt–Durmersheim–Karlsruhe–Stutensee–Graben-Neudorf–Waghäusel–Hockenheim–Schwetzingen–Mannheim (Rheinbahn) und Ladenburg (Main-Neckar-Bahn, Mannheim-Friedrichsfeld–Weinheim); Haltepunkte an den Streckenartikeln geprüft.",
  "raum": "Bahn Freiburg–Neuwied",
  "orte": [
   [
@@ -31,10 +31,31 @@
    "Stadt"
   ],
   [
+   "30-friesenheim",
+   "ziel",
+   "Friesenheim",
+   "Friesenheim (Baden)",
+   "Gemeinde"
+  ],
+  [
    "14-offenburg",
    "ziel",
    "Offenburg",
    "Offenburg",
+   "Stadt"
+  ],
+  [
+   "31-appenweier",
+   "ziel",
+   "Appenweier",
+   "Appenweier",
+   "Gemeinde"
+  ],
+  [
+   "32-renchen",
+   "ziel",
+   "Renchen",
+   "Renchen",
    "Stadt"
   ],
   [
@@ -63,6 +84,69 @@
    "ziel",
    "Rastatt",
    "Rastatt",
+   "Stadt"
+  ],
+  [
+   "33-durmersheim",
+   "ziel",
+   "Durmersheim",
+   "Durmersheim",
+   "Gemeinde"
+  ],
+  [
+   "34-karlsruhe",
+   "ziel",
+   "Karlsruhe",
+   "Karlsruhe",
+   "Stadt"
+  ],
+  [
+   "35-stutensee",
+   "ziel",
+   "Stutensee",
+   "Stutensee",
+   "Stadt"
+  ],
+  [
+   "36-graben-neudorf",
+   "ziel",
+   "Graben-Neudorf",
+   "Graben-Neudorf",
+   "Gemeinde"
+  ],
+  [
+   "37-waghaeusel",
+   "ziel",
+   "Waghäusel",
+   "Waghäusel",
+   "Stadt"
+  ],
+  [
+   "38-hockenheim",
+   "ziel",
+   "Hockenheim",
+   "Hockenheim",
+   "Stadt"
+  ],
+  [
+   "39-schwetzingen",
+   "ziel",
+   "Schwetzingen",
+   "Schwetzingen",
+   "Stadt"
+  ],
+  [
+   "40-mannheim",
+   "ziel",
+   "Mannheim",
+   "Mannheim",
+   "Stadt"
+  ],
+  [
+   "41-ladenburg",
+   "ziel",
+   "Ladenburg",
+   "Ladenburg",
    "Stadt"
   ],
   [
@@ -243,7 +327,19 @@
   "26-kestert": "RP",
   "27-kamp-bornhofen": "RP",
   "28-osterspai": "RP",
-  "29-lahnstein": "RP"
+  "29-lahnstein": "RP",
+  "30-friesenheim": "BW",
+  "31-appenweier": "BW",
+  "32-renchen": "BW",
+  "33-durmersheim": "BW",
+  "34-karlsruhe": "BW",
+  "35-stutensee": "BW",
+  "36-graben-neudorf": "BW",
+  "37-waghaeusel": "BW",
+  "38-hockenheim": "BW",
+  "39-schwetzingen": "BW",
+  "40-mannheim": "BW",
+  "41-ladenburg": "BW"
  },
  "quellen_amtlich": {
   "05-ruedesheim": {
@@ -284,6 +380,9 @@
    "portal": [
     "https://www.regionalgeschichte.net/mittelrhein/lahnstein.html"
    ]
+  },
+  "34-karlsruhe": {
+   "webseite": "https://www.karlsruhe.de/"
   }
  },
  "laeufe": []

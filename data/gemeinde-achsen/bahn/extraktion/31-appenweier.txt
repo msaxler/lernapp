@@ -1,0 +1,393 @@
+ENTITÄT: ort
+BEZEICHNUNG: Appenweier
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait/zahlen-und-fakten.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 10308
+  einwohnerzahl_stand: 31.10.2024
+  gemarkungsfläche: 38.08 [km²]
+  höhenlage: 147-392 [m ü.M.]
+  landkreis: Ortenaukreis
+  kfz_kennzeichen: OG
+  postleitzahl: 77767
+  vorwahl_telefon: 07805
+  region: Ortenau, Baden, Mittlerer Schwarzwald
+  regierungsbezirk: Freiburg
+  wasserhärtebereich: dH 12.0 (mittel)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verkehrsanbindung
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait/zahlen-und-fakten.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bundesautobahn: A 5 (Nord-Süd)
+  bundesstraße: B 3 (Karlsruhe-Basel)
+  bundesstraße: B 28 (Freudenstadt-Straßburg)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Montlouis-sur-Loire
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait/zahlen-und-fakten.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partner_land: Frankreich
+  partner_region: Weinanbaugebiet Loiretal
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kernort Appenweier
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait/zahlen-und-fakten.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 4401
+  einwohnerzahl_stand: 31.10.2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Nesselried
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait/zahlen-und-fakten.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 1410
+  einwohnerzahl_stand: 31.10.2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Urloffen
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait/zahlen-und-fakten.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 4497
+  einwohnerzahl_stand: 31.10.2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Urloffen
+ORTSTEIL_BEZUG: Urloffen
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait/urloffen.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: ca. 2 km nördlich von Appenweier
+  genauigkeit: ca.
+  beiname: Meerrettichort
+  besiedlung_erste_erwähnung: merowingerzeitliche Siedlung
+  besiedlung_gräberfund_entdeckung_jahr: 1980
+  fränkische_siedlung_zeitraum: erste Hälfte 7. Jahrhundert n. Chr.
+  alter_vermutlich: über 1350 Jahre
+  genauigkeit: vermutlich
+  frühere_anbauprodukte: Hanf, Tabak
+  anbauprodukt_meerrettich_ab: Anfang 20. Jahrhundert
+  aktuelle_sonderkulturen: Erdbeeren, Johannisbeeren, Himbeeren, Apfelkulturen
+  meerrettich_verarbeitende_betriebe: 3
+  eingemeindung_datum: 1975
+  eingemeindung_beschreibung: Teil der Gesamtgemeinde Appenweier seit 1975
+  infrastruktur_kindergarten: Neubau eines zweiten Kindergartens
+  infrastruktur_bahnlinie: Neubau und Ausbau Bahnlinie Karlsruhe-Offenburg, ersetzt beschrankte Bahnübergänge durch Über- und Unterführungen
+  infrastruktur_landesstraße: Verlegung Landesstraße 95
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Michael
+ORTSTEIL_BEZUG: Appenweier
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait/appenweier.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_agenturen: Honauer Mönche
+  gründung_wahrscheinlich: true
+  bestätigung_kaiser: Karl III. (839-888)
+  bestätigung_objekt: Kloster Honau
+  benannt_nach: Michael
+GUELTIG_AB: 884
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Appenweier (historisch)
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait/appenweier.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_erwähnung: 884
+  erste_erwähnung_form: abbunvileri (bei Kloster Honau)
+  verwaltungsverbund_periode: 1364-1805
+  verwaltungsverbund_form: Landvogtei Ortenau, Gerichtsbezirk Appenweier
+  verwaltungsverbund_ortsteile: Appenweier, Nesselried, Urloffen, Bottenau, Nußbach, Unternesselried, Zimmern, Zusenhofen
+  kriegszerstörungen: Dreißigjähriger Krieg (1618-1648), Eroberungskriege Ludwigs XIV (1688-1697)
+  architektur_18_jahrhundert: Fachwerkhäuser im alemannischen Stil
+  eisenbahnknotenpunkt_periode: 1844-1876
+  eisenbahnverbindungen: Kehl/Straßburg, Oberkirch, Bad Peterstal-Griesbach
+  revolution_beteiligung: Badische Revolution 1848/1849
+  gesamtgemeinde_gründung: 1971/1975
+GUELTIG_BIS: 1805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Rathaus I
+ORTSTEIL_BEZUG: Appenweier
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait/appenweier.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: Barock
+  früherer_zweck: Gerichtsgebäude
+  kunstgeschichte_bedeutung: kunstgeschichtlich interessant
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche Appenweier
+ORTSTEIL_BEZUG: Appenweier
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait/appenweier.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: Rokoko
+  beschreibung: Kleinod im Rokokostil
+  kunstgeschichte_bedeutung: kunstgeschichtlich interessant
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Wallfahrtskirche
+ORTSTEIL_BEZUG: Zimmern
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait/appenweier.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: ältestes religiöses Bauwerk in der Gemeinde
+  kunstgeschichte_bedeutung: kunstgeschichtlich interessant
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Wallfahrtskirche
+ORTSTEIL_BEZUG: Nesselried
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait/appenweier.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kunstwerk_altarbilder: 3 Altarbilder
+  kunstgeschichte_bedeutung: kunstgeschichtlich interessant
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Nesselried
+ORTSTEIL_BEZUG: Nesselried
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait/nesselried.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: Mittelalter (herrschaftliche Gutshöfe)
+  erste_urkundliche_erwähnung: 1120
+  jubiläum_900_jahre: 2020
+  einwohnerzahl: ca. 1450
+  genauigkeit: ca.
+  verwaltungsgeschichte_bis_1871: getrennt in Unternesselried und Durbacher Ortsteil Obernesselried
+  zusammenschluss_zur_gemeinde: 1871
+  eingemeindung_nach_appenweier: 1.12.1971
+  beiname: Brennerdorf
+  hausbrennereien: über 110
+  dorffest: Nesselried brennt
+  dorffest_bekanntheit: weit über die Region hinaus bekannt
+  wanderwege: Höhen- und Talwanderweg, Sagenwanderweg, Höfe- und Historienweg
+  waldlehrpfad: für Kinder vorhanden
+GUELTIG_AB: 1120
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: 900-Jahr-Jubiläum Nesselried
+ORTSTEIL_BEZUG: Nesselried
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait/nesselried.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grund: 900 Jahre seit erste urkundliche Erwähnung 1120
+  jahr: 2020
+  vorbereitung_dauer: mehrere Jahre
+  beeinträchtigung: Corona-Pandemie (nur wenige Aktivitäten möglich)
+  publikation: Buch zur 900-jährigen Geschichte von Ortsvorsteher Klaus Sauer
+GUELTIG_AB: 2020
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: autobahnraststätte
+BEZEICHNUNG: Renchtal-West
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait.php?navid=577735577735 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bundesautobahn: A 5
+  lage: auf Gemarkung Appenweier
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: autobahnraststätte
+BEZEICHNUNG: Renchtal-Ost
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait.php?navid=577735577735 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bundesautobahn: A 5
+  lage: auf Gemarkung Appenweier
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahnstation
+BEZEICHNUNG: Zugstation Appenweier
+ORTSTEIL_BEZUG: Appenweier
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait.php?navid=577735577735 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bahnlinien_knotenpunkt: Rheintalstrecke, Renchtalbahn, Europabahn
+  nahverkehrsnetz: Baden-Baden / Offenburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Schwarzwaldschule
+ORTSTEIL_BEZUG: Appenweier
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait.php?navid=577735577735 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schultyp: Gemeinschaftsschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: spezialkultur
+BEZEICHNUNG: Urloffer Meerrettich
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait.php?navid=577735577735 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bekanntheitsgrad: weit über die Grenzen Deutschlands hinaus bekannt
+  anbauregion: Urloffen, benachbarte Gemeinden
+  verarbeitung: 3 Betriebe am Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: spezialkultur
+BEZEICHNUNG: Obstschnäpse
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait.php?navid=577735577735 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunftsregion: besonders Nesselried
+  anbauprodukte: Kern- und Steinobst
+  bekanntheitsgrad: besondere Gegend dafür berühmt
+  tradition: Kleinbrenner-Arbeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: spezialkultur
+BEZEICHNUNG: Wein
+ORTSTEIL_BEZUG: Nesselried
+QUELLE: https://www.appenweier.de/de/gemeindeleben/gemeindeportrait.php?navid=577735577735 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  region: Vorbergzone von Nesselried (sonnenreich)
+  sorten: Müller-Thurgau, Ruländer, Traminer, Spätburgunder, Riesling
+  charakteristik_riesling: rassiger, eleganter Wein mit fruchtiger Säure und hochfeiner Blume
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Michael
+ORTSTEIL_BEZUG: Appenweier
+QUELLE: https://www.appenweier.de/de/gemeindeleben/kirchen.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Römisch-katholisch
+  kirchengemeinde: Römisch-katholische Kirchengemeinde Acher-Renchtal
+  adresse: Am Kirchplatz 13, 77767 Appenweier
+  telefon: 07805-9184 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+ORTSTEIL_BEZUG: Urloffen
+QUELLE: https://www.appenweier.de/de/gemeindeleben/kirchen.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Römisch-katholisch
+  kirchengemeinde: Römisch-katholische Kirchengemeinde Acher-Renchtal
+  adresse: Am Kirchplatz 13, 77767 Appenweier (Pfarrbüro)
+  telefon: 07805-9184 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Zimmerner Kirche
+ORTSTEIL_BEZUG: Zimmern
+QUELLE: https://www.appenweier.de/de/gemeindeleben/kirchen.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Römisch-katholisch
+  kirchengemeinde: Römisch-katholische Kirchengemeinde Acher-Renchtal
+  adresse: Am Kirchplatz 13, 77767 Appenweier (Pfarrbüro)
+  telefon: 07805-9184 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Mariä Himmelfahrt
+QUELLE: https://www.appenweier.de/de/gemeindeleben/kirchen.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Römisch-katholisch
+  kirchengemeinde: Römisch-katholische Kirchengemeinde Acher-Renchtal
+  adresse: Am Kirchplatz 13, 77767 Appenweier (Pfarrbüro)
+  telefon: 07805-9184 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Appenweier
+QUELLE: https://www.appenweier.de/de/gemeindeleben/kirchen.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Evangelisch
+  ortsteile: Appenweier, Urloffen, Nesselried
+  adresse: Jakobstraße 1, 77767 Appenweier
+  telefon: 07805 97153
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: freikirche
+BEZEICHNUNG: Christliches Zentrum Agape e.V.
+ORTSTEIL_BEZUG: Appenweier
+QUELLE: https://www.appenweier.de/de/gemeindeleben/kirchen.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Bahnhofstraße 59, 77767 Appenweier
+  telefon: 07802 703819
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

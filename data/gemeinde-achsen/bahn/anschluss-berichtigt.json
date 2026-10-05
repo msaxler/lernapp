@@ -1,56 +1,210 @@
 {
- "_doc": "Anschlüsse des Raums bahn je Ortspaar (Regel Mike 2026-10-03: Alltagssprache, beide Orte beim Namen, gesagt wird, was verglichen wird). Jeder Eintrag nennt unter \"von\" den Vorgänger auf der Fahrt; der Export zeigt ihn nur, wenn das der Ort davor ist. Nach dem Ausbau auf 29 Orte (2026-10-03) haben sieben Messorte einen neuen Vorgänger; ihre Anschlüsse sind neu aus grunddaten.json gerechnet. Kennzeichen aus Wikidata sind unzuverlässig (Bühl „OG“, Lahr „LR“, St. Goarshausen „TR“); Anschlüsse vergleichen deshalb den Landkreis, wo das Kennzeichen nicht gesichert ist. Geprüft: Rastatt und Lahr mit AfD vorn (Pressemitteilung Stadt Rastatt; Schwarzwälder Bote zu Lahr, 31,4 %, Beteiligung 75,1 %).",
- "01-kenzingen": {"von": "11-emmendingen", "zeilen": ["Emmendingen hat fast dreimal so viele Einwohner wie Kenzingen.",
-   "Kenzingen und Emmendingen liegen beide im Landkreis Emmendingen."]},
- "12-herbolzheim": {"von": "01-kenzingen", "zeilen": ["Herbolzheim und Kenzingen sind fast gleich groß: rund 10.700 und 10.800 Einwohner."]},
- "13-lahr": {"von": "12-herbolzheim", "zeilen": ["Kreisgrenze: Herbolzheim gehört zum Landkreis Emmendingen, Lahr zum Ortenaukreis.",
-   "Lahr hat fast fünfmal so viele Einwohner wie Herbolzheim."]},
- "14-offenburg": {"von": "13-lahr", "zeilen": ["Bundestagswahl 2025: In Lahr lag die AfD vorn, in Offenburg die CDU.",
-   "Lahr und Offenburg liegen beide im Ortenaukreis; Offenburg ist die Kreisstadt."]},
- "02-achern": {"von": "14-offenburg", "zeilen": ["Offenburg hat mehr als doppelt so viele Einwohner wie Achern.",
-   "Achern und Offenburg liegen beide im Ortenaukreis."]},
- "15-buehl": {"von": "02-achern", "zeilen": ["Kreisgrenze: Achern liegt im Ortenaukreis, Bühl im Landkreis Rastatt.",
-   "Bühl und Achern sind ähnlich groß: rund 28.000 und 27.000 Einwohner."]},
- "16-baden-baden": {"von": "15-buehl", "zeilen": ["Drei Stadtteile von Baden-Baden gehörten einst zum Landkreis Bühl.",
-   "Baden-Baden hat doppelt so viele Einwohner wie Bühl."]},
- "03-rastatt": {"von": "16-baden-baden", "zeilen": ["Baden-Baden hat mehr als doppelt so viel Fläche wie Rastatt, aber nur etwas mehr Einwohner.",
-   "Bundestagswahl 2025: In Baden-Baden lag die CDU vorn, in Rastatt die AfD."]},
- "17-weinheim": {"von": "03-rastatt", "zeilen": ["Rastatt und Weinheim haben beide rund 58 Quadratkilometer Fläche.",
-   "Rastatt hat rund 5.000 Einwohner mehr als Weinheim."]},
- "18-laudenbach": {"von": "17-weinheim", "zeilen": ["Laudenbach liegt an der Bergstraße zwischen Weinheim und Heppenheim.",
-   "Weinheim hat fast sechsmal so viel Fläche wie Laudenbach."]},
- "19-heppenheim": {"von": "18-laudenbach", "zeilen": ["Kreis- und Landesgrenze: In Laudenbach steht HD am Auto, in Heppenheim HP.",
-   "Heppenheim hat gut viermal so viele Einwohner wie Laudenbach."]},
- "20-bensheim": {"von": "19-heppenheim", "zeilen": ["Bensheim hat mehr Einwohner als Heppenheim, die Kreisstadt ist aber Heppenheim.",
-   "Bei Bensheim lag eine römische Villa in Richtung Heppenheim."]},
- "21-zwingenberg": {"von": "20-bensheim", "zeilen": ["Zwingenberg gehörte ab 1832 zum Kreis Bensheim.",
-   "Bensheim hat fast sechsmal so viele Einwohner wie Zwingenberg."]},
- "22-langen": {"von": "21-zwingenberg", "zeilen": ["Kreisgrenze: In Zwingenberg steht HP am Auto, in Langen OF.",
-   "Langen hat gut fünfmal so viele Einwohner wie Zwingenberg."]},
- "23-walluf": {"von": "22-langen", "zeilen": ["Langen hat rund 39.000 Einwohner, Walluf nur etwa 5.500.",
-   "Bundestagswahl 2025: In Walluf wählten 88 Prozent, in Langen 83."]},
- "04-eltville": {"von": "23-walluf", "zeilen": ["Eltville hat dreimal so viele Einwohner wie Walluf.",
-   "Eltville hat fast siebenmal so viel Fläche wie Walluf."]},
- "24-oestrich-winkel": {"von": "04-eltville", "zeilen": ["Oestrich-Winkel hat mehr Fläche als Eltville, aber weniger Einwohner.",
-   "Bundestagswahl 2025: In Eltville wie in Oestrich-Winkel lag die CDU vorn."]},
- "25-geisenheim": {"von": "24-oestrich-winkel", "zeilen": ["Oestrich-Winkel und Geisenheim haben beide rund 11.000 Einwohner.",
-   "Oestrich-Winkel hat fast anderthalbmal so viel Fläche wie Geisenheim."]},
- "05-ruedesheim": {"von": "25-geisenheim", "zeilen": ["Geisenheim hat etwas mehr Einwohner als Rüdesheim, Rüdesheim mehr Fläche."]},
- "06-lorch": {"von": "05-ruedesheim", "zeilen": ["Lorch hat mehr Fläche als Rüdesheim, aber nicht halb so viele Einwohner.",
-   "Ein alter Kaufmannsweg führte Waren von Lorch über die Höhe nach Rüdesheim, am Binger Loch vorbei."]},
- "07-kaub": {"von": "06-lorch", "zeilen": ["Lorch hat fünfmal so viele Einwohner wie Kaub.",
-   "Kaub und Lorch werben gemeinsam mit Bacharach und Niederheimbach als „BaKaLoNi“."]},
- "08-st-goarshausen": {"von": "07-kaub", "zeilen": ["Kaub hat fast doppelt so viel Fläche wie St. Goarshausen, aber nur gut halb so viele Einwohner.",
-   "Kaub und St. Goarshausen gehören beide zur Verbandsgemeinde Loreley."]},
- "26-kestert": {"von": "08-st-goarshausen", "zeilen": ["Kestert und St. Goarshausen haben fast gleich viel Fläche.",
-   "St. Goarshausen hat doppelt so viele Einwohner wie Kestert."]},
- "27-kamp-bornhofen": {"von": "26-kestert", "zeilen": ["Kamp-Bornhofen hat gut doppelt so viele Einwohner wie Kestert.",
-   "Kestert und Kamp-Bornhofen gehören beide zur Verbandsgemeinde Loreley."]},
- "28-osterspai": {"von": "27-kamp-bornhofen", "zeilen": ["Kamp-Bornhofen hat mehr Einwohner, Osterspai mehr Fläche."]},
- "09-braubach": {"von": "28-osterspai", "zeilen": ["Braubach hat mehr als doppelt so viele Einwohner wie Osterspai.",
-   "Osterspai und Braubach gehören beide zur Verbandsgemeinde Loreley."]},
- "29-lahnstein": {"von": "09-braubach", "zeilen": ["Lahnstein hat gut sechsmal so viele Einwohner wie Braubach.",
-   "Lahnstein hat fast doppelt so viel Fläche wie Braubach."]},
- "10-vallendar": {"von": "29-lahnstein", "zeilen": ["Lahnstein hat gut doppelt so viele Einwohner wie Vallendar.",
-   "Kreisgrenze: In Lahnstein steht EMS am Auto, in Vallendar MYK."]}
+ "_doc": "Anschlüsse des Raums bahn je Ortspaar (Regel Mike 2026-10-03: Alltagssprache, beide Orte beim Namen, gesagt wird, was verglichen wird). Jeder Eintrag nennt unter \"von\" den Vorgänger auf der Fahrt; der Export zeigt ihn nur, wenn das der Ort davor ist. Nach dem Ausbau auf 29 Orte (2026-10-03) haben sieben Messorte einen neuen Vorgänger; ihre Anschlüsse sind neu aus grunddaten.json gerechnet. Kennzeichen aus Wikidata sind unzuverlässig (Bühl „OG“, Lahr „LR“, St. Goarshausen „TR“); Anschlüsse vergleichen deshalb den Landkreis, wo das Kennzeichen nicht gesichert ist. Geprüft: Rastatt und Lahr mit AfD vorn (Pressemitteilung Stadt Rastatt; Schwarzwälder Bote zu Lahr, 31,4 %, Beteiligung 75,1 %). Ausbau Rheintal (2026-10-06): Friesenheim und Appenweier eingeschoben; Offenburg und Achern haben neue Vorgänger, ihre Anschlüsse sind neu aus grunddaten.json gerechnet.",
+ "01-kenzingen": {
+  "von": "11-emmendingen",
+  "zeilen": [
+   "Emmendingen hat fast dreimal so viele Einwohner wie Kenzingen.",
+   "Kenzingen und Emmendingen liegen beide im Landkreis Emmendingen."
+  ]
+ },
+ "12-herbolzheim": {
+  "von": "01-kenzingen",
+  "zeilen": [
+   "Herbolzheim und Kenzingen sind fast gleich groß: rund 10.700 und 10.800 Einwohner."
+  ]
+ },
+ "13-lahr": {
+  "von": "12-herbolzheim",
+  "zeilen": [
+   "Kreisgrenze: Herbolzheim gehört zum Landkreis Emmendingen, Lahr zum Ortenaukreis.",
+   "Lahr hat fast fünfmal so viele Einwohner wie Herbolzheim."
+  ]
+ },
+ "14-offenburg": {
+  "von": "30-friesenheim",
+  "zeilen": [
+   "Offenburg hat mehr als viermal so viele Einwohner wie Friesenheim.",
+   "Friesenheim und Offenburg liegen beide im Ortenaukreis; Offenburg ist die Kreisstadt."
+  ]
+ },
+ "02-achern": {
+  "von": "31-appenweier",
+  "zeilen": [
+   "Achern hat gut zweieinhalbmal so viele Einwohner wie Appenweier.",
+   "Bundestagswahl 2025: In Appenweier und in Achern lag die CDU vorn, mit rund 35 und 34 Prozent."
+  ]
+ },
+ "15-buehl": {
+  "von": "02-achern",
+  "zeilen": [
+   "Kreisgrenze: Achern liegt im Ortenaukreis, Bühl im Landkreis Rastatt.",
+   "Bühl und Achern sind ähnlich groß: rund 28.000 und 27.000 Einwohner."
+  ]
+ },
+ "16-baden-baden": {
+  "von": "15-buehl",
+  "zeilen": [
+   "Drei Stadtteile von Baden-Baden gehörten einst zum Landkreis Bühl.",
+   "Baden-Baden hat doppelt so viele Einwohner wie Bühl."
+  ]
+ },
+ "03-rastatt": {
+  "von": "16-baden-baden",
+  "zeilen": [
+   "Baden-Baden hat mehr als doppelt so viel Fläche wie Rastatt, aber nur etwas mehr Einwohner.",
+   "Bundestagswahl 2025: In Baden-Baden lag die CDU vorn, in Rastatt die AfD."
+  ]
+ },
+ "17-weinheim": {
+  "von": "03-rastatt",
+  "zeilen": [
+   "Rastatt und Weinheim haben beide rund 58 Quadratkilometer Fläche.",
+   "Rastatt hat rund 5.000 Einwohner mehr als Weinheim."
+  ]
+ },
+ "18-laudenbach": {
+  "von": "17-weinheim",
+  "zeilen": [
+   "Laudenbach liegt an der Bergstraße zwischen Weinheim und Heppenheim.",
+   "Weinheim hat fast sechsmal so viel Fläche wie Laudenbach."
+  ]
+ },
+ "19-heppenheim": {
+  "von": "18-laudenbach",
+  "zeilen": [
+   "Kreis- und Landesgrenze: In Laudenbach steht HD am Auto, in Heppenheim HP.",
+   "Heppenheim hat gut viermal so viele Einwohner wie Laudenbach."
+  ]
+ },
+ "20-bensheim": {
+  "von": "19-heppenheim",
+  "zeilen": [
+   "Bensheim hat mehr Einwohner als Heppenheim, die Kreisstadt ist aber Heppenheim.",
+   "Bei Bensheim lag eine römische Villa in Richtung Heppenheim."
+  ]
+ },
+ "21-zwingenberg": {
+  "von": "20-bensheim",
+  "zeilen": [
+   "Zwingenberg gehörte ab 1832 zum Kreis Bensheim.",
+   "Bensheim hat fast sechsmal so viele Einwohner wie Zwingenberg."
+  ]
+ },
+ "22-langen": {
+  "von": "21-zwingenberg",
+  "zeilen": [
+   "Kreisgrenze: In Zwingenberg steht HP am Auto, in Langen OF.",
+   "Langen hat gut fünfmal so viele Einwohner wie Zwingenberg."
+  ]
+ },
+ "23-walluf": {
+  "von": "22-langen",
+  "zeilen": [
+   "Langen hat rund 39.000 Einwohner, Walluf nur etwa 5.500.",
+   "Bundestagswahl 2025: In Walluf wählten 88 Prozent, in Langen 83."
+  ]
+ },
+ "04-eltville": {
+  "von": "23-walluf",
+  "zeilen": [
+   "Eltville hat dreimal so viele Einwohner wie Walluf.",
+   "Eltville hat fast siebenmal so viel Fläche wie Walluf."
+  ]
+ },
+ "24-oestrich-winkel": {
+  "von": "04-eltville",
+  "zeilen": [
+   "Oestrich-Winkel hat mehr Fläche als Eltville, aber weniger Einwohner.",
+   "Bundestagswahl 2025: In Eltville wie in Oestrich-Winkel lag die CDU vorn."
+  ]
+ },
+ "25-geisenheim": {
+  "von": "24-oestrich-winkel",
+  "zeilen": [
+   "Oestrich-Winkel und Geisenheim haben beide rund 11.000 Einwohner.",
+   "Oestrich-Winkel hat fast anderthalbmal so viel Fläche wie Geisenheim."
+  ]
+ },
+ "05-ruedesheim": {
+  "von": "25-geisenheim",
+  "zeilen": [
+   "Geisenheim hat etwas mehr Einwohner als Rüdesheim, Rüdesheim mehr Fläche."
+  ]
+ },
+ "06-lorch": {
+  "von": "05-ruedesheim",
+  "zeilen": [
+   "Lorch hat mehr Fläche als Rüdesheim, aber nicht halb so viele Einwohner.",
+   "Ein alter Kaufmannsweg führte Waren von Lorch über die Höhe nach Rüdesheim, am Binger Loch vorbei."
+  ]
+ },
+ "07-kaub": {
+  "von": "06-lorch",
+  "zeilen": [
+   "Lorch hat fünfmal so viele Einwohner wie Kaub.",
+   "Kaub und Lorch werben gemeinsam mit Bacharach und Niederheimbach als „BaKaLoNi“."
+  ]
+ },
+ "08-st-goarshausen": {
+  "von": "07-kaub",
+  "zeilen": [
+   "Kaub hat fast doppelt so viel Fläche wie St. Goarshausen, aber nur gut halb so viele Einwohner.",
+   "Kaub und St. Goarshausen gehören beide zur Verbandsgemeinde Loreley."
+  ]
+ },
+ "26-kestert": {
+  "von": "08-st-goarshausen",
+  "zeilen": [
+   "Kestert und St. Goarshausen haben fast gleich viel Fläche.",
+   "St. Goarshausen hat doppelt so viele Einwohner wie Kestert."
+  ]
+ },
+ "27-kamp-bornhofen": {
+  "von": "26-kestert",
+  "zeilen": [
+   "Kamp-Bornhofen hat gut doppelt so viele Einwohner wie Kestert.",
+   "Kestert und Kamp-Bornhofen gehören beide zur Verbandsgemeinde Loreley."
+  ]
+ },
+ "28-osterspai": {
+  "von": "27-kamp-bornhofen",
+  "zeilen": [
+   "Kamp-Bornhofen hat mehr Einwohner, Osterspai mehr Fläche."
+  ]
+ },
+ "09-braubach": {
+  "von": "28-osterspai",
+  "zeilen": [
+   "Braubach hat mehr als doppelt so viele Einwohner wie Osterspai.",
+   "Osterspai und Braubach gehören beide zur Verbandsgemeinde Loreley."
+  ]
+ },
+ "29-lahnstein": {
+  "von": "09-braubach",
+  "zeilen": [
+   "Lahnstein hat gut sechsmal so viele Einwohner wie Braubach.",
+   "Lahnstein hat fast doppelt so viel Fläche wie Braubach."
+  ]
+ },
+ "10-vallendar": {
+  "von": "29-lahnstein",
+  "zeilen": [
+   "Lahnstein hat gut doppelt so viele Einwohner wie Vallendar.",
+   "Kreisgrenze: In Lahnstein steht EMS am Auto, in Vallendar MYK."
+  ]
+ },
+ "30-friesenheim": {
+  "von": "13-lahr",
+  "zeilen": [
+   "Bundestagswahl 2025: In Lahr lag die AfD vorn, in Friesenheim die CDU.",
+   "Lahr hat gut dreieinhalbmal so viele Einwohner wie Friesenheim."
+  ]
+ },
+ "31-appenweier": {
+  "von": "14-offenburg",
+  "zeilen": [
+   "Offenburg hat rund sechsmal so viele Einwohner wie Appenweier.",
+   "Appenweier und Offenburg liegen beide im Ortenaukreis."
+  ]
+ }
 }

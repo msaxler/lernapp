@@ -5840,6 +5840,219 @@ window.QA_DATEN = {
 "km_vom_vorigen": 14.8
 },
 {
+"slug": "30-friesenheim",
+"name": "Friesenheim",
+"lat": 48.37306,
+"lon": 7.88333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friesenheim",
+"steckbrief": "Gemeinde mit rund 14.000 Einwohnern, 42 km nördlich von Freiburg im Breisgau",
+"frage": "Das Rathaus wurde erst 1853 zum Rathaus umgewidmet. Was war das Gebäude vorher?",
+"optionen": [
+"Es diente als Schulhaus.",
+"Es war eine Gastwirtschaft.",
+"Es war ein Pfarrhaus.",
+"Es diente als Mühle."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Schulhaus wäre naheliegend – viele Gemeinden nutzten alte Schulen als Rathäuser. Doch das Gebäude beherbergte lange die Stubenwirtschaft „Zum weißen Rössle\". Richtig war 2.",
+"quelle": "Gemeinde-Webseite, friesenheim.de/startseite/freizeit+kultur+tourismus/sehenswuerdigkeiten.html",
+"faktencheck": "bestätigt",
+"id": "30-friesenheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Friesenheim",
+"steckbrief": "Gemeinde mit rund 14.000 Einwohnern, 42 km nördlich von Freiburg im Breisgau",
+"frage": "Wie viele Einwohner je Quadratkilometer hat die Gemeinde?",
+"optionen": [
+"unter 150",
+"150 bis unter 250",
+"250 bis unter 400",
+"400 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Ort liegt am Rande der Schwarzwaldvorberge, was dünnere Besiedlung vermuten lässt. Bei rund 47 Quadratkilometern Fläche sind es aber etwa 298 Einwohner je Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohner (Wikidata, Stand 2025-12-31) und Fläche (Wikidata)",
+"faktencheck": "bestätigt",
+"id": "30-friesenheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Friesenheim",
+"steckbrief": "Gemeinde im Ortenaukreis mit rund 14.000 Einwohnern, 42 km nördlich von Freiburg",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Zwischen 1972 und 1975 schlossen sich vier Ortsteile der Gemeinde an.",
+"Das Kloster in Schuttern wurde im Bauernkrieg 1525 endgültig geschlossen.",
+"Eine römische Heerstraße führte um 100 n. Chr. durch die Gemarkung."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im Bauernkrieg wurde das Kloster zwar verwüstet, aber nicht geschlossen – es bestand danach noch lange weiter. Erst die Säkularisation unter Napoleon beendete das Klosterleben. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, friesenheim.de/startseite/unsere+gemeinde/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "30-friesenheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Friesenheim",
+"steckbrief": "Gemeinde mit rund 14.000 Einwohnern, 42 km nördlich von Freiburg im Breisgau",
+"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"über 80 %",
+"75 % bis unter 80 %",
+"68 % bis unter 75 %",
+"unter 68 %"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ländliche Gemeinden in Baden-Württemberg haben oft eine hohe Wahlbeteiligung. Friesenheim erreichte 83,4 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "30-friesenheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friesenheim",
+"steckbrief": "Gemeinde am Rande der Schwarzwaldvorberge mit rund 14.000 Einwohnern, 42 km nördlich von Freiburg",
+"frage": "Im Ortsteil Schuttern wurde vermutlich im 7. Jahrhundert ein Kloster gegründet. Wer soll es gegründet haben?",
+"optionen": [
+"Ein fränkischer Bischof gründete es.",
+"Ein schottischer Mönch gründete es.",
+"Wandermönche aus Italien gründeten es.",
+"Ein alemannischer Herzog stiftete es."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Bischof wäre naheliegend, denn Klöster entstanden oft auf bischöfliche Initiative. Doch der Überlieferung nach war es ein schottischer Mönch königlicher Herkunft namens Otto – er kam zur Christianisierung der Alemannen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, friesenheim.de/startseite/unsere+gemeinde/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "30-friesenheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Friesenheim",
+"steckbrief": "Gemeinde in Baden-Württemberg mit rund 14.000 Einwohnern, 42 km nördlich von Freiburg",
+"frage": "Wie weit ist Friesenheim Luftlinie von der Landeshauptstadt Stuttgart entfernt?",
+"optionen": [
+"unter 80 km",
+"80 bis unter 100 km",
+"100 bis unter 130 km",
+"130 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Aus dem Rheintal sieht man die Vogesen – da liegt Stuttgart gefühlt weit weg. Tatsächlich trennen Friesenheim rund 105 Kilometer Luftlinie von der Landeshauptstadt. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata)",
+"faktencheck": "bestätigt",
+"id": "30-friesenheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friesenheim",
+"steckbrief": "Gemeinde mit rund 14.000 Einwohnern, 42 km nördlich von Freiburg im Breisgau",
+"frage": "Eine Theorie deutet den Ortsnamen nicht als Stammesname, sondern als mittelhochdeutsches Wort. Was bedeutete „friesen\"?",
+"optionen": [
+"Es bedeutete einfrieden, also umzäunen.",
+"Es stand für frieren, eine kühle Lage.",
+"Es bedeutete Buschland roden.",
+"Es bedeutete Gräben anlegen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. „Einfrieden\" klingt ähnlich und wäre plausibel. Doch laut Ortsgeschichte bedeutete „friesen\" Gräben anlegen – die Gemeinde war möglicherweise für Wasserbau-Expertise bekannt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, friesenheim.de/startseite/unsere+gemeinde/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "30-friesenheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friesenheim",
+"steckbrief": "Gemeinde mit rund 14.000 Einwohnern, 42 km nördlich von Freiburg im Breisgau",
+"frage": "1638 wurde Friesenheim im Dreißigjährigen Krieg fast vollständig zerstört. Welcher Bau überstand den Brand?",
+"optionen": [
+"Das Pfarrhaus neben der Kirche blieb stehen.",
+"Die evangelische Kirche überstand den Brand.",
+"Der Kornspeicher des Dorfes blieb erhalten.",
+"Das Gasthaus am Marktplatz überstand das Feuer."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Kornspeicher wäre massiv gebaut und hätte Chancen gehabt. Doch nur die evangelische Kirche und ein Fachwerkhaus überstanden die Kämpfe zwischen kaiserlichen Truppen und Bernhard von Weimar. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, friesenheim.de/startseite/unsere+gemeinde/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "30-friesenheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friesenheim",
+"steckbrief": "Gemeinde mit rund 14.000 Einwohnern, 42 km nördlich von Freiburg im Breisgau",
+"frage": "Auf der Gemarkung liegt ein römisches Freilichtmuseum. Welcher Gottheit war der dortige Tempel geweiht?",
+"optionen": [
+"Er war dem Kriegsgott Mars geweiht.",
+"Er war dem Handelsgott Merkur geweiht.",
+"Er war der Jagdgöttin Diana geweiht.",
+"Er war der Weisheitsgöttin Minerva geweiht."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Mars oder Merkur wären typisch für eine Straßensiedlung. Doch im Gewann Bannstude stand ein Tempel der Jagdgöttin Diana, neben den Fundamenten einer römischen Straßenstation. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, friesenheim.de/startseite/freizeit+kultur+tourismus/sehenswuerdigkeiten.html",
+"faktencheck": "bestätigt",
+"id": "30-friesenheim/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friesenheim",
+"steckbrief": "Gemeinde mit rund 14.000 Einwohnern, 42 km nördlich von Freiburg im Breisgau",
+"frage": "Die evangelische Kirche hatte bis 1913 eine Besonderheit. Welche?",
+"optionen": [
+"Katholiken und Protestanten nutzten sie gemeinsam.",
+"Sie diente zugleich als Schule.",
+"Sie war dem Kloster unterstellt.",
+"Sie wurde nur an Feiertagen geöffnet."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Schulnutzung wäre denkbar – Kirchen dienten oft mehreren Zwecken. Doch die Kirche war eine Simultankirche: Beide Konfessionen teilten sich das Gotteshaus, bis die Katholiken ein eigenes bekamen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, friesenheim.de/startseite/freizeit+kultur+tourismus/sehenswuerdigkeiten.html",
+"faktencheck": "bestätigt",
+"id": "30-friesenheim/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "13-lahr",
+"anschluss": [
+"Bundestagswahl 2025: In Lahr lag die AfD vorn, in Friesenheim die CDU.",
+"Lahr hat gut dreieinhalbmal so viele Einwohner wie Friesenheim."
+],
+"km_vom_vorigen": 3.9
+},
+{
 "slug": "14-offenburg",
 "name": "Offenburg",
 "lat": 48.47083,
@@ -6005,12 +6218,185 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "13-lahr",
+"anschluss_von": "30-friesenheim",
 "anschluss": [
-"Bundestagswahl 2025: In Lahr lag die AfD vorn, in Offenburg die CDU.",
-"Lahr und Offenburg liegen beide im Ortenaukreis; Offenburg ist die Kreisstadt."
+"Offenburg hat mehr als viermal so viele Einwohner wie Friesenheim.",
+"Friesenheim und Offenburg liegen beide im Ortenaukreis; Offenburg ist die Kreisstadt."
 ],
-"km_vom_vorigen": 15.5
+"km_vom_vorigen": 11.7
+},
+{
+"slug": "31-appenweier",
+"name": "Appenweier",
+"lat": 48.53972,
+"lon": 7.98,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Appenweier",
+"steckbrief": "Gemeinde mit rund 10.400 Einwohnern, 61 km südwestlich von Karlsruhe.",
+"frage": "Das barocke Rathaus I im Kernort diente früher einem anderen Zweck. Welchem?",
+"optionen": [
+"Es war früher das Pfarrhaus.",
+"Es war früher ein Zollhaus.",
+"Es war früher eine Poststation.",
+"Es war früher ein Gerichtsgebäude."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Poststation liegt nahe, denn Appenweier ist ein alter Verkehrsknoten. Tatsächlich war das barocke Haus ein Gerichtsgebäude. Das passt: Der Ort gab einst einem Gerichtsbezirk der Landvogtei Ortenau seinen Namen, zu dem auch Nesselried und Urloffen gehörten. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.appenweier.de/de/gemeindeleben/gemeindeportrait/appenweier.php",
+"faktencheck": "unsicher",
+"id": "31-appenweier/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Appenweier",
+"steckbrief": "Gemeinde im Ortenaukreis mit rund 10.400 Einwohnern, 61 km südwestlich von Karlsruhe.",
+"frage": "Wie groß ist die Gemarkung der Gemeinde Appenweier?",
+"optionen": [
+"unter 40 km²",
+"40 bis unter 60 km²",
+"60 bis unter 80 km²",
+"80 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Mehr liegt nahe, denn zu Appenweier gehören neben dem Kernort auch Urloffen und Nesselried. Trotzdem misst die ganze Gemarkung nur 38,02 Quadratkilometer, knapp unter der ersten Grenze. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "31-appenweier/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Appenweier",
+"steckbrief": "Gemeinde mit rund 10.400 Einwohnern, 61 km südwestlich von Karlsruhe.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Nesselrieds Reben wachsen unten in der flachen Rheinebene.",
+"Appenweiers Pfarrkirche ist ein Kleinod im Rokokostil.",
+"Auch Appenweier erlitt im Dreißigjährigen Krieg Zerstörungen."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele halten die Rokokokirche für die Lüge, weil man solche Pracht eher in Städten erwartet. Sie ist aber belegt, ebenso die Kriegszerstörungen. Gelogen ist die Rheinebene: Nesselrieds Reben stehen in der sonnenreichen Vorbergzone, wo etwa Riesling und Spätburgunder wachsen. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.appenweier.de/de/gemeindeleben/gemeindeportrait.php?navid=577735577735",
+"faktencheck": "bestätigt",
+"id": "31-appenweier/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Appenweier",
+"steckbrief": "Gemeinde mit rund 10.400 Einwohnern, 61 km südwestlich von Karlsruhe.",
+"frage": "Welche Partei wurde in Appenweier bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"GRÜNE",
+"AfD",
+"FDP"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt nahe, denn sie war lange die zweite große Volkspartei. In Appenweier lag aber die AfD auf Platz zwei, hinter der CDU und deutlich vor der SPD. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "31-appenweier/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Appenweier",
+"steckbrief": "Gemeinde mit rund 10.400 Einwohnern, 61 km südwestlich von Karlsruhe.",
+"frage": "Der Ortsteil Nesselried war bis 1871 zweigeteilt. Zu welcher Gemeinde gehörte damals Obernesselried?",
+"optionen": [
+"Obernesselried war ein Ortsteil von Renchen.",
+"Obernesselried war ein Ortsteil von Willstätt.",
+"Obernesselried war ein Ortsteil von Lautenbach.",
+"Obernesselried war ein Ortsteil von Durbach."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Renchen liegt nahe, denn Bahnlinie und Autobahnraststätten bei Appenweier tragen den Namen Renchtal. Tatsächlich war Obernesselried ein Ortsteil von Durbach; der untere Teil hieß Unternesselried. Erst später schlossen sich beide zu einer Gemeinde zusammen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.appenweier.de/de/gemeindeleben/gemeindeportrait/nesselried.php und www.appenweier.de/de/gemeindeleben/gemeindeportrait.php?navid=577735577735",
+"faktencheck": "korrigiert",
+"id": "31-appenweier/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Appenweier",
+"steckbrief": "Gemeinde mit rund 10.400 Einwohnern, 61 km südwestlich von Karlsruhe.",
+"frage": "Wie viele Einwohner leben in Appenweier rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 300",
+"300 bis unter 600",
+"600 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gut zehntausend Einwohner klingen nach dichter Besiedlung. Sie verteilen sich aber auf eine weitläufige Gemarkung mit mehreren Ortsteilen wie Urloffen und Nesselried. Rechnerisch sind es 273 Einwohner je Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "31-appenweier/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Appenweier",
+"steckbrief": "Gemeinde mit rund 10.400 Einwohnern, 61 km südwestlich von Karlsruhe.",
+"frage": "Der Ortsteil Urloffen nennt sich „Meerrettichort“. Welche Pflanzen nennt die Ortsgeschichte als frühere Anbauprodukte?",
+"optionen": [
+"Die Bauern bauten Hopfen und Spargel an.",
+"Die Bauern bauten Hanf und Tabak an.",
+"Die Bauern bauten Zuckerrüben und Flachs an.",
+"Die Bauern bauten Raps und Kartoffeln an."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Spargel und Hopfen liegen nahe, denn beide kennt man aus Südwestdeutschland. Die Ortsgeschichte nennt aber Hanf und Tabak. Erst später verdrängte der Meerrettich diese Pflanzen, und der Urloffer Meerrettich ist laut Gemeinde weit über Deutschland hinaus bekannt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.appenweier.de/de/gemeindeleben/gemeindeportrait/urloffen.php",
+"faktencheck": "korrigiert",
+"id": "31-appenweier/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Appenweier",
+"steckbrief": "Gemeinde mit rund 10.400 Einwohnern, 61 km südwestlich von Karlsruhe.",
+"frage": "Die älteste bekannte Urkunde, die Appenweier nennt, stammt von 884 und schreibt „abbunvileri“. Mit welchem Kloster hängt dieser Beleg zusammen?",
+"optionen": [
+"Er hängt mit dem Kloster Reichenau zusammen.",
+"Er hängt mit dem Kloster Gengenbach zusammen.",
+"Er hängt mit dem Kloster Honau zusammen.",
+"Er hängt mit dem Kloster Schuttern zusammen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Gengenbach liegt nahe, denn das Kloster liegt ganz in der Nähe in der Ortenau. Die Urkunde steht aber im Zusammenhang mit dem Kloster Honau. Honauer Mönche gründeten wahrscheinlich auch Appenweiers Pfarrei St. Michael. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.appenweier.de/de/gemeindeleben/gemeindeportrait/appenweier.php",
+"faktencheck": "korrigiert",
+"id": "31-appenweier/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "14-offenburg",
+"anschluss": [
+"Offenburg hat rund sechsmal so viele Einwohner wie Appenweier.",
+"Appenweier und Offenburg liegen beide im Ortenaukreis."
+],
+"km_vom_vorigen": 8.2
 },
 {
 "slug": "02-achern",
@@ -6198,12 +6584,12 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "14-offenburg",
+"anschluss_von": "31-appenweier",
 "anschluss": [
-"Offenburg hat mehr als doppelt so viele Einwohner wie Achern.",
-"Achern und Offenburg liegen beide im Ortenaukreis."
+"Achern hat gut zweieinhalbmal so viele Einwohner wie Appenweier.",
+"Bundestagswahl 2025: In Appenweier und in Achern lag die CDU vorn, mit rund 35 und 34 Prozent."
 ],
-"km_vom_vorigen": 20.4
+"km_vom_vorigen": 12.3
 },
 {
 "slug": "15-buehl",

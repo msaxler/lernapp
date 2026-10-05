@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "31-appenweier",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 12715,
+ "token_ein": 211430,
+ "token_aus": 6490,
+ "usage": {
+  "input_tokens": 14,
+  "cache_creation_input_tokens": 27966,
+  "cache_read_input_tokens": 183450,
+  "output_tokens": 6490,
+  "output_tokens_details": {
+   "thinking_tokens": 2961
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 27966,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 4352,
+    "cache_read_input_tokens": 33490,
+    "cache_creation_input_tokens": 1374,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 1374
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.5458839999999999,
+ "sekunden": 84,
+ "fehler": false,
+ "zeit": "2026-10-05T19:13:05"
+}
