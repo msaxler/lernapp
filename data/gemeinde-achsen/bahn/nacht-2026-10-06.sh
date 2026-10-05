@@ -6,7 +6,9 @@
 cd /d/claude-code/LernApp || exit 1
 export GA_RAUM=bahn GA_PROMPT_KARTEN=prompt-karten-v0.8.1.txt GA_PROMPT_PRUEFUNG=prompt-pruefung-v0.2.txt
 M=claude-opus-5-5
-N="32-renchen 33-durmersheim 34-karlsruhe 35-stutensee 36-graben-neudorf 37-waghaeusel 38-hockenheim 39-schwetzingen 40-mannheim 41-ladenburg"
+# Orte als Argumente (Mike: in Teilen starten, vorsichtig an die Grenze); ohne Argumente alle zehn
+N="${*:-32-renchen 33-durmersheim 34-karlsruhe 35-stutensee 36-graben-neudorf 37-waghaeusel 38-hockenheim 39-schwetzingen 40-mannheim 41-ladenburg}"
+echo "Orte: $N"
 D=scripts/data-build/gemeinde_achsen_direkt.py
 echo "== Extraktion (Haiku) $(date +%T)"
 python -X utf8 $D extraktion --model haiku --parallel 5 $N
@@ -26,5 +28,5 @@ import json,glob
 s=0
 for f in glob.glob('data/gemeinde-achsen/bahn/aufwand/*-3[2-9]-*.json')+glob.glob('data/gemeinde-achsen/bahn/aufwand/*-4[01]-*.json'):
   s+=json.load(open(f,encoding='utf-8')).get('kosten_usd') or 0
-print('Kosten 10 Orte: %.2f USD' % s)"
+print('Kosten aller Orte 32-41 bisher: %.2f USD' % s)"
 echo "Fertig $(date +%T)"

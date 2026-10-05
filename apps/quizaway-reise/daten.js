@@ -6399,6 +6399,194 @@ window.QA_DATEN = {
 "km_vom_vorigen": 8.2
 },
 {
+"slug": "32-renchen",
+"name": "Renchen",
+"lat": 48.58583,
+"lon": 8.01056,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Renchen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 55 km südwestlich von Karlsruhe.",
+"frage": "Renchen trägt offiziell den Zusatz Grimmelshausenstadt. Was war der Autor des Simplicissimus in Renchen?",
+"optionen": [
+"Er unterrichtete dort als Lehrer an der Schule.",
+"Er war dort Pfarrer der katholischen Gemeinde.",
+"Er war dort Schultheiß im Dienst des Bischofs.",
+"Er betrieb dort eine Druckerei für seine Bücher."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Schriftsteller liegt nahe, dass er von Büchern lebte, als Drucker oder Lehrer. Grimmelshausen war in Renchen aber Schultheiß im Dienst des Bischofs von Straßburg, also Vorsteher des Orts im Auftrag des Landesherrn. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Renchen",
+"faktencheck": "bestätigt",
+"id": "32-renchen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Renchen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 55 km südwestlich von Karlsruhe.",
+"frage": "Wie groß ist die Fläche des Stadtgebiets von Renchen?",
+"optionen": [
+"unter 12 km²",
+"12 bis unter 20 km²",
+"20 bis unter 28 km²",
+"28 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Kleinstadt dieser Größe stellt man sich kompakt vor, deshalb liegt eine kleinere Fläche nahe. Doch das Stadtgebiet umfasst weit mehr als den Ortskern: Die Fläche beträgt 32,08 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046 (Altbestand staedte.json)",
+"faktencheck": "bestätigt",
+"id": "32-renchen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Renchen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 55 km südwestlich von Karlsruhe.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Ortsteil Ulm kam durch Eingemeindung zu Renchen.",
+"Erlach hat mehr Einwohner als die Kernstadt Renchen.",
+"Friedrich Weinbrenner entwarf die Heilig-Kreuz-Kirche im Ortskern."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Ortsteil namens Ulm klingt erfunden, man denkt an die Großstadt an der Donau. Doch das Renchener Ulm kam durch Eingemeindung dazu, und Weinbrenner entwarf die klassizistische Heilig-Kreuz-Kirche. Gelogen ist Erlach: Dort wohnen etwa 900 Menschen, in ganz Renchen rund 7.600. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Renchen",
+"faktencheck": "unsicher",
+"id": "32-renchen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Renchen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 55 km südwestlich von Karlsruhe.",
+"frage": "Wie hoch war die Wahlbeteiligung in Renchen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 80 %",
+"80 bis unter 85 %",
+"85 bis unter 90 %",
+"90 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Abseits der Großstädte vermutet man oft eine geringere Beteiligung, darum liegt die unterste Spanne nahe. In Renchen lag die Wahlbeteiligung 2025 bei 82,9 Prozent; stärkste Partei wurde die CDU. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "32-renchen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Renchen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 55 km südwestlich von Karlsruhe.",
+"frage": "Renchen erhielt 1326 erstmals Stadtrechte, verlor sie aber wieder. Welchen Grund nennt die Stadtgeschichte der Gemeinde?",
+"optionen": [
+"Baden stufte den Ort bei der Neuordnung um 1806 herab.",
+"Die Rechte waren befristet und liefen 1426 aus.",
+"Zerstörungen im Bauernkrieg und im Dreißigjährigen Krieg.",
+"Ein Nachbarort erhielt die Rechte an seiner Stelle."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Herabstufung durch den Staat klingt nach einem typischen Verwaltungsakt. Die Stadtgeschichte nennt aber Zerstörungen: Im Bauernkrieg und im Dreißigjährigen Krieg verlor Renchen seine Stadtrechte. Erst 1836 verlieh Großherzog Leopold von Baden sie neu. Richtig war 3.",
+"quelle": "Stadt Renchen, renchen.de/kultur-stadtgeschichte/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "32-renchen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Renchen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 55 km südwestlich von Karlsruhe.",
+"frage": "Zu welchem Landkreis gehört Renchen?",
+"optionen": [
+"Landkreis Rastatt",
+"Landkreis Freudenstadt",
+"Landkreis Emmendingen",
+"Ortenaukreis"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Von Karlsruhe aus liegt der Landkreis Rastatt auf dem Weg, darum denkt man zuerst an ihn. Renchen gehört aber zum Ortenaukreis; Hauptkennzeichen ist OG. Richtig war 4.",
+"quelle": "dewiki Infobox; Kennzeichen: Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "32-renchen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Option 1 lautet: „1. Er gilt als erster gesicherter Meteoritenfall im Land.“ (alles Übrige unverändert)",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Weil der Meteorit Renchen heißt, liegt nahe, dass man ihn nur dort sah. Die Feuerkugel leuchtete aber über Süddeutschland, ihr Bersten war bis zu 400 km weit zu sehen. Später fand man mehrere Bruchstücke. Renchen gilt als erster gesicherter Meteoritenfall in Baden-Württemberg. Richtig war 1.",
+"quelle": "Universität Münster, uni-muenster.de/news/view.php?cmdid=9853; BNN",
+"faktencheck": "korrigiert",
+"id": "32-renchen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Renchen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 55 km südwestlich von Karlsruhe.",
+"frage": "Zu Renchen gehört auch der Maiwald mit dem Maiwaldsee. Wo liegt dieser Gemeindeteil?",
+"optionen": [
+"Er liegt mitten im Ortskern von Renchen.",
+"Er liegt nordwestlich, getrennt vom übrigen Stadtgebiet.",
+"Er liegt östlich, oben im Schwarzwald.",
+"Er liegt südlich, direkt am Ortsrand."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Beim Namen Maiwald denkt man zuerst an den Schwarzwald östlich der Stadt. Der Maiwald liegt aber nordwestlich und ist eine Exklave: ein Teil des Stadtgebiets ohne Verbindung zum Rest. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Renchen",
+"faktencheck": "unsicher",
+"id": "32-renchen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Renchen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 55 km südwestlich von Karlsruhe.",
+"frage": "Ein Landesverband für Prävention und Rehabilitation hat seinen Sitz in Renchen. Wie hieß er bei seiner Gründung 1919?",
+"optionen": [
+"Er hieß Badischer Landesverband gegen die Tuberkulose.",
+"Er hieß Badischer Landesverband für Kriegsbeschädigte.",
+"Er hieß Badischer Landesverband für Säuglingsfürsorge.",
+"Er hieß Badischer Landesverband gegen den Alkoholismus."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Gründungsjahr kurz nach dem Ersten Weltkrieg und das Wort Rehabilitation lassen an Kriegsbeschädigte denken. Der Verband trat aber gegen den Alkoholismus an; sein Schwerpunkt ist heute die Suchtkrankenhilfe. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Renchen",
+"faktencheck": "bestätigt",
+"id": "32-renchen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "31-appenweier",
+"anschluss": [
+"Einwohner: Appenweier zählt rund 10.400, Renchen rund 7.600.",
+"Bundestagswahl 2025: Wahlbeteiligung in Appenweier 83,7, in Renchen 82,9 Prozent."
+],
+"km_vom_vorigen": 5.6
+},
+{
 "slug": "02-achern",
 "name": "Achern",
 "lat": 48.63139,
@@ -6584,12 +6772,9 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "31-appenweier",
-"anschluss": [
-"Achern hat gut zweieinhalbmal so viele Einwohner wie Appenweier.",
-"Bundestagswahl 2025: In Appenweier und in Achern lag die CDU vorn, mit rund 35 und 34 Prozent."
-],
-"km_vom_vorigen": 12.3
+"anschluss_von": "32-renchen",
+"anschluss": [],
+"km_vom_vorigen": 6.9
 },
 {
 "slug": "15-buehl",
@@ -7231,6 +7416,377 @@ window.QA_DATEN = {
 "km_vom_vorigen": 10.9
 },
 {
+"slug": "33-durmersheim",
+"name": "Durmersheim",
+"lat": 48.93833,
+"lon": 8.27694,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Durmersheim",
+"steckbrief": "Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe.",
+"frage": "Wie deutet die Ortsgeschichte der Gemeinde den Namen Durmersheim?",
+"optionen": [
+"Ein Sippenführer Turmar gab dem Ort den Namen.",
+"Der Name bedeutet: Ort an Wasser und Sumpf.",
+"Der Name geht auf einen alten Wachturm zurück.",
+"Der Name erinnert an dürren, trockenen Sandboden."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Turm und Dürre klingen im Namen an. Die Gemeinde zerlegt ihn aber in Dur für Wasser, Mers für Sumpfland und die Endung -heim. Das Wasser ist der Federbach. Die Sage vom Sippenführer Turmar hält sie für sehr wahrscheinlich erfunden. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.durmersheim.de/web/leben_historisches_durmersheim.html",
+"faktencheck": "bestätigt",
+"id": "33-durmersheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Durmersheim",
+"steckbrief": "Durmersheim liegt mit rund 11.700 Einwohnern in der Rheinebene, 12 km südwestlich von Karlsruhe.",
+"frage": "Wie groß ist die Fläche der Gemeinde Durmersheim?",
+"optionen": [
+"unter 10 km²",
+"10 bis unter 20 km²",
+"20 bis unter 35 km²",
+"35 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an einen Vorort von Karlsruhe denkt, schätzt die Fläche eher klein. Durmersheim misst aber 25,97 km². Dazu gehören seit dem Zusammenschluss auch Würmersheim und viel Wald. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "33-durmersheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Durmersheim",
+"steckbrief": "Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Besatzer nach dem Zweiten Weltkrieg waren hier Amerikaner.",
+"Eine Lokalbahn namens Lobberle fuhr einst nach Karlsruhe.",
+"Bei Erschließungsarbeiten fand man ein fränkisch-alemannisches Gräberfeld."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Lobberle klingt erfunden, ist aber echt: Die Lokalbahn fuhr über Karlsruhe nach Spöck, bis man sie wegen Unrentabilität stilllegte. Auch das Gräberfeld mit Waffen und Grabbeigaben ist belegt. Gelogen waren die Amerikaner: Durmersheim lag in der französischen Zone, mit marokkanischen Einheiten und französischem Gendarmeriekommando. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.durmersheim.de/web/leben_historisches_durmersheim.html und www.durmersheim.de/web/leben_historisches_durmersheim_zeittafel.html",
+"faktencheck": "korrigiert",
+"id": "33-durmersheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Durmersheim",
+"steckbrief": "Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Durmersheim nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"SPD",
+"CDU",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt nahe, sie war lange die klassische Nummer zwei. Bei der Bundestagswahl 2025 kam die AfD in Durmersheim aber auf 22,9 Prozent, hinter der CDU mit 31,1 und vor der SPD mit 15,7 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "33-durmersheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Durmersheim / Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe. / Im Wappen des Ortsteils Würmersheim steht ein gelber Wurm. Was war vor 1901 zeitweise an seiner Stelle zu sehen? / 1. Dort war ein Fisch abgebildet. / 2. Dort war eine Schere abgebildet. / 3. Dort war ein Pflug abgebildet. / 4. Dort war ein Schlüssel abgebildet.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Fisch läge nahe, denn Würmersheims Name bedeutet Heim am Bach im Sumpfland. Doch vor 1901 stand dort zeitweise eine Schere. Den Wurm zeigte das Wappen schon 1553. Heute steht er gelb auf blauem Grund neben dem rot-gelben badischen Wappen. Richtig war 2. /",
+"quelle": "Gemeinde-Webseite, www.durmersheim.de/web/leben_historisches_würmersheim.html und …/leben_historisches_wuermersheim_zeittafel.html (45 Wörter)",
+"faktencheck": "korrigiert",
+"id": "33-durmersheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Durmersheim",
+"steckbrief": "Durmersheim hat rund 11.700 Einwohner und liegt in der Rheinebene, 12 km südwestlich von Karlsruhe.",
+"frage": "Zu welchem Landkreis gehört Durmersheim?",
+"optionen": [
+"Landkreis Karlsruhe",
+"Landkreis Germersheim",
+"Landkreis Rastatt",
+"Ortenaukreis"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Großstadt Karlsruhe ist nah, darum tippen viele auf deren Landkreis. Durmersheim gehört aber zum Landkreis Rastatt, Hauptkennzeichen ist RA. Germersheim klingt verwandt, liegt aber jenseits des Rheins in Rheinland-Pfalz. Richtig war 3.",
+"quelle": "dewiki Infobox; Kennzeichen: Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "33-durmersheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Durmersheim / Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe. / Die Rohrburg war ein markgräfliches Schloss am Zusammenfluss von Schmidt- und Federbach. Was wurde sie ab etwa 1574? / 1. Sie wurde erstmals urkundlich erwähnt. / 2. Sie wurde von Hans Dietrich von Bademer wieder aufgebaut. / 3. Ihr Areal wurde verkauft. / 4. Sie wurde Dienst- und Wohnsitz badischer Forstmeister.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Alles davon gehört zur Geschichte der Rohrburg, nur zu anderen Zeiten: Erstmals erwähnt wurde sie 1388, wieder aufgebaut ab 1657, ihr Areal verkauft 1776. Ab etwa 1574 war sie Dienst- und Wohnsitz badischer Forstmeister. Richtig war 4. /",
+"quelle": "Gemeinde-Webseite, www.durmersheim.de/web/leben_historisches_durmersheim_zeittafel.html (41 Wörter)",
+"faktencheck": "korrigiert",
+"id": "33-durmersheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Durmersheim",
+"steckbrief": "Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe.",
+"frage": "Zu Durmersheim gehört Bickesheim mit seiner Wallfahrtskirche. Woher kommt laut Gemeinde der Name Bickesheim?",
+"optionen": [
+"Der Name meint ein Heim auf dem Buckel.",
+"Der Name kommt von Pickeln der Steinbrecher.",
+"Der Name geht auf einen Gründer Bicko zurück.",
+"Der Name erinnert an einen Bach namens Bicke."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei -heim-Namen steckt oft ein Gründer dahinter, daher liegt ein Bicko nahe. Die Gemeinde führt den Namen aber auf das altdeutsche Bug-Buch zurück, den Buckel: Heim auf dem Buckel. Im Volksmund heißt die Stelle Biggser Buggel oder Biggser Berg. Ein Dorf wurde aus den Höfen dort nie. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.durmersheim.de/web/leben_historisches_bickesheim.html",
+"faktencheck": "bestätigt",
+"id": "33-durmersheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Durmersheim / Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe. / In den Fundamenten der alten Pfarrkirche steckte ein Fund, der heute in der neuen eingemauert ist. Was ist es? / 1. Es ist ein Gedenkstein an den Abriss der alten Kirche. / 2. Es ist ein Grenzstein der Markgrafen. / 3. Es ist ein Stück eines römischen Viergöttersteins. / 4. Es ist ein alter Mühlstein vom Federbach.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Grenzstein oder Mühlstein als Baumaterial läge nahe. In den Fundamenten steckte aber ein Stück eines römischen Viergöttersteins, eines Steins mit Götterbildern. Die alte Kirche stand im Pfarrgarten an der Römerstraße. Funde deuten darauf hin, dass dort eine Römerstraße verlief. Richtig war 3. /",
+"quelle": "Gemeinde-Webseite, www.durmersheim.de/web/leben_historisches_durmersheim.html und Seite zum Heimatmuseum (Gemeinde-Webseite) (46 Wörter)",
+"faktencheck": "korrigiert",
+"id": "33-durmersheim/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "03-rastatt",
+"anschluss": [
+"Einwohner: Rastatt hat gut viermal so viele wie Durmersheim.",
+"Bundestagswahl 2025: Stärkste Partei in Rastatt AfD, in Durmersheim CDU."
+],
+"km_vom_vorigen": 10.5
+},
+{
+"slug": "34-karlsruhe",
+"name": "Karlsruhe",
+"lat": 49.01667,
+"lon": 8.4,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Karlsruhe",
+"steckbrief": "Karlsruhe ist eine Großstadt am Rhein mit rund 309.000 Einwohnern, 62 km Luftlinie von Stuttgart.",
+"frage": "Voltaire war 1758 Gast im Karlsruher Schloss. Womit verglich er laut Stadtgeschichte, was er dort erlebte?",
+"optionen": [
+"Er verglich es mit dem Italien der Medici.",
+"Er verglich es mit dem Versailles Ludwigs XIV.",
+"Er verglich es mit Friedrichs Hof in Potsdam.",
+"Er verglich es mit dem Athen des Perikles."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Fürstenschloss liegt Versailles als Vergleich nahe. Voltaires Urteil fiel anders aus: Deutschland sei jetzt, was Italien einst zur Zeit der Herzöge von Ferrara und der Medici war. Zur Blüte des Musenhofs trug vor allem Markgräfin Caroline Luise bei. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.karlsruhe.de/kultur-freizeit/kunst-und-museen/museumsgeschichte-in-karlsruhe",
+"faktencheck": "korrigiert",
+"id": "34-karlsruhe/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Karlsruhe",
+"steckbrief": "Karlsruhe ist eine Großstadt am Rhein mit rund 309.000 Einwohnern, 62 km Luftlinie von Stuttgart.",
+"frage": "Wie viele Menschen leben in Karlsruhe durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 bis unter 3.000",
+"3.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Großstadt denkt man an dichte Häuserzeilen und tippt hoch. Zum Stadtgebiet gehören aber auch dörflich geprägte Stadtteile wie Stupferich oder Hohenwettersbach. Im Schnitt leben 1.783 Menschen auf einem Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "34-karlsruhe/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Karlsruhe",
+"steckbrief": "Karlsruhe ist eine Großstadt am Rhein mit rund 309.000 Einwohnern, 62 km Luftlinie von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Badische Landesmuseum sitzt im Schloss.",
+"Mit dem Großherzogtum verkümmerte Karlsruhes Musikleben.",
+"Heinrich Hübsch entwarf die Staatliche Kunsthalle."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele halten das Schloss für einen reinen Fürstensitz, doch dort ist das Badische Landesmuseum untergebracht. Die Kunsthalle entwarf tatsächlich Heinrich Hübsch. Gelogen war der Niedergang: Durch geschicktes Paktieren und Heiratspolitik war Baden kräftig gewachsen, mit dem Großherzogtum blühte das Musikleben auf. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe",
+"faktencheck": "korrigiert",
+"id": "34-karlsruhe/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Karlsruhe",
+"steckbrief": "Karlsruhe ist eine Großstadt mit rund 309.000 Einwohnern, 62 km Luftlinie von Stuttgart.",
+"frage": "Wie hoch war in Karlsruhe die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 74 %",
+"74 bis unter 78 %",
+"78 bis unter 82 %",
+"82 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Großstädte gelten oft als Orte, an denen weniger Menschen wählen als auf dem Land. In Karlsruhe lag die Beteiligung bei der Bundestagswahl 2025 aber bei 83,1 Prozent; stärkste Kraft wurden die Grünen vor der CDU. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "34-karlsruhe/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Karlsruhe",
+"steckbrief": "Karlsruhe ist eine Großstadt am Rhein mit rund 309.000 Einwohnern, 62 km Luftlinie von Stuttgart.",
+"frage": "Unter dem Dirigenten Felix Otto Dessoff erlebte Karlsruhe eine Uraufführung. Welches Werk erklang dort zum ersten Mal?",
+"optionen": [
+"Brahms' Erste Sinfonie erklang dort erstmals.",
+"Beethovens Neunte Sinfonie erklang dort erstmals.",
+"Schumanns Rheinische Sinfonie erklang dort erstmals.",
+"Dvořáks Neunte Sinfonie erklang dort erstmals."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Uraufführung denkt man zuerst an Musikmetropolen wie Wien. Doch in Karlsruhe erklang unter Felix Otto Dessoff erstmals Brahms' Erste Sinfonie. Brahms hatte in der Stadt einen Freund: den Wagner-Dirigenten Hermann Levi. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe",
+"faktencheck": "bestätigt",
+"id": "34-karlsruhe/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Karlsruhe",
+"steckbrief": "Karlsruhe ist eine Großstadt am Rhein mit rund 309.000 Einwohnern, 62 km Luftlinie von Stuttgart.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Karlsruhe?",
+"optionen": [
+"RA",
+"KA",
+"PF",
+"HD"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. RA, PF und HD gehören zu Rastatt, Pforzheim und Heidelberg, alle nicht weit entfernt. In Karlsruhe liegt die Sache aber nahe: Die meisten Autos tragen KA. Richtig war 2.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "34-karlsruhe/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Karlsruhe",
+"steckbrief": "Karlsruhe ist eine Großstadt am Rhein mit rund 309.000 Einwohnern, 62 km Luftlinie von Stuttgart.",
+"frage": "Karl Benz und Carl Friedrich Drais stammen aus Karlsruhe. Wer ist Träger des Verkehrsmuseums der Stadt?",
+"optionen": [
+"Träger ist der Autobauer Mercedes-Benz.",
+"Träger ist das Karlsruher Institut für Technologie.",
+"Träger ist die Verkehrswacht.",
+"Träger ist der Automobilclub ADAC."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Karl Benz als Automobil-Konstrukteur liegt der Autobauer nahe. Träger des Museums ist aber die Verkehrswacht. Es zeigt die Welt auf Rädern, zu der auch Drais mit der Erfindung des Laufrads beitrug. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.karlsruhe.de/kultur-freizeit/kunst-und-museen/museumsgeschichte-in-karlsruhe",
+"faktencheck": "korrigiert",
+"id": "34-karlsruhe/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Karlsruhe",
+"steckbrief": "Karlsruhe ist eine Großstadt am Rhein mit rund 309.000 Einwohnern, 62 km Luftlinie von Stuttgart.",
+"frage": "Unter Felix Mottl erreichte das Hoftheater seinen Höhepunkt. Welchen Ruf verschaffte er Karlsruhe?",
+"optionen": [
+"Karlsruhe galt als Klein-Wien.",
+"Karlsruhe galt als Klein-Bayreuth.",
+"Karlsruhe galt als Klein-Mailand.",
+"Karlsruhe galt als Klein-Weimar."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. An Wien denkt man bei Musik zuerst, an Mailand bei der Oper. Unter Mottl galt Karlsruhe aber als Klein-Bayreuth, nach der Wagner-Festspielstadt: Die Stadt pflegte eine Wagnertradition, die Josef Strauß mit Eduard Devrient begründet hatte. Aufführungen von Berlioz und Bruckner festigten den internationalen Ruf. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe",
+"faktencheck": "korrigiert",
+"id": "34-karlsruhe/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Karlsruhe",
+"steckbrief": "Karlsruhe ist eine Großstadt am Rhein mit rund 309.000 Einwohnern, 62 km Luftlinie von Stuttgart.",
+"frage": "Der Karlsruher Stadtteil Grötzingen trägt einen Beinamen. Welchen?",
+"optionen": [
+"Es heißt Badisches Fischerdorf.",
+"Es heißt Badisches Storchendorf.",
+"Es heißt Badisches Spargeldorf.",
+"Es heißt Badisches Malerdorf."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Am Ende des Pfinztals, zwischen Kraichgauer Hügelland und Rheinebene, liegt der Gedanke an Landwirtschaft nahe. Der Beiname kommt aber von der Kunst: Gegen Ende des vorletzten Jahrhunderts ließen sich in Grötzingen Künstler nieder. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.karlsruhe.de/stadt-rathaus/stadtteile-ortsverwaltungen/groetzingen",
+"faktencheck": "korrigiert",
+"id": "34-karlsruhe/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "33-durmersheim",
+"anschluss": [
+"Bundestagswahl 2025: Grüne vorn in Karlsruhe, CDU in Durmersheim.",
+"Einwohner: Karlsruhe hat gut 26-mal so viele wie Durmersheim."
+],
+"km_vom_vorigen": 12.5
+},
+{
 "slug": "17-weinheim",
 "name": "Weinheim",
 "lat": 49.55611,
@@ -7436,12 +7992,9 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "03-rastatt",
-"anschluss": [
-"Rastatt und Weinheim haben beide rund 58 Quadratkilometer Fläche.",
-"Rastatt hat rund 5.000 Einwohner mehr als Weinheim."
-],
-"km_vom_vorigen": 84.8
+"anschluss_von": "34-karlsruhe",
+"anschluss": [],
+"km_vom_vorigen": 63.1
 },
 {
 "slug": "18-laudenbach",

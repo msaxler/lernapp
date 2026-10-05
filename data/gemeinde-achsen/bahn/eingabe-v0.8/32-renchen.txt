@@ -1,0 +1,471 @@
+ZIELORT: Renchen (Stadt)
+LAGE: 55 km südwestlich von Karlsruhe (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Renchen
+
+GRUNDDATEN:
+  landkreis: Ortenaukreis  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 7568  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 32,08  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 236  [berechnet aus Einwohner und Fläche]
+  kfz: OG (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 150 | 147  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2848251)]
+  naechste_grossstadt: Karlsruhe, 55 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 88 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Renchen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 77871  [Wikidata P281]
+  vorwahl: 07843  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 34,3 %, AfD 22,7 %, SPD 12,6 %, GRÜNE 9,6 %, FDP 5,8 %; Wahlbeteiligung 82,9 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Stephanie Bartsch (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-05]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT landkreis: Landkreis (Ersatz: Kennzeichen), A, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Appenweier (Gemeinde)
+  landkreis: Ortenaukreis  [dewiki Infobox]
+  einwohner: 10.367  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 38,02  [Wikidata P2046]
+  hoehe_m: 152 | 158  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2955722)]
+  naechste_grossstadt: Karlsruhe, 61 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  ersterwaehnung: 884  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  bahnhof: Bahnhof Appenweier  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 34,9 %, AfD 21,5 %, SPD 13,5 %, GRÜNE 10,5 %, FDP 5,2 %; Wahlbeteiligung 83,7 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  kfz: OG (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand geo.sqlite (Kreis 08317)]
+
+FAHRT: Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Langen, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar
+
+FAKTEN (Zielort Renchen):
+ID: 32-renchen/001
+ENTITÄT: ort
+BEZEICHNUNG: Renchen
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  status: kleine Stadt
+  bundesland: Baden-Württemberg
+  landkreis: Ortenaukreis
+  geographische_lage: Vorbergen des nördlichen Schwarzwalds, Ausgang des Renchtals in die Oberrheinische Tiefebene
+  erste_urkundliche_erwaehnung: 1115
+  stadtrechte_erste_verleihung: 1326
+  grund_stadtrrechte_verlust: Zerstörungen durch Dreißigjährigen Krieg
+  staedtliche_wiederanerkennung_1: 1838
+  staedtliche_wiederanerkennung_2: 1950
+  neunhundert_jahr_jubilaeum: 2015
+  offizielle_zusatzbezeichnung: Grimmelshausenstadt
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 32-renchen/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Erlach
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  einwohnerzahl: 900
+  genauigkeit: "ca."
+  frueher_unstaendige_gemeinde: true
+  eingemeindung: 1975-01-01
+  hat_ortschaftsrat: true
+  hat_ortsvorsteher: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ulm
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  einwohnerzahl: 2030
+  genauigkeit: "ca."
+  frueher_unstaendige_gemeinde: true
+  eingemeindet: 1975-01-01
+  hat_ortschaftsrat: true
+  hat_ortsvorsteher: true
+  bekannt_fuer: "Ulmer Bier", nur in Vollmondnächten gebrautes "Vollmondbier"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Maiwald
+ORTSTEIL_BEZUG: Renchen
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  status: Gemeindeteil von Renchen
+  lage: Exklave ca. 7 km nordwestlich des Ortes Renchen
+  enthaelt: Maiwaldsee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 32-renchen/005
+ENTITÄT: kirche
+BEZEICHNUNG: Heilig-Kreuz-Kirche
+ORTSTEIL_BEZUG: Renchen
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  architekt: Friedrich Weinbrenner
+  bauzeit: 1817
+  baustil: Klassizismus
+  beschreibung: schmuckloses, geometrisch gegliedertes Gebäude
+  standort: Ortskern von Renchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 32-renchen/006
+ENTITÄT: museum
+BEZEICHNUNG: Simplicissimus-Haus
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  thema: Rezeption der Werke von Hans Jakob Christoffel von Grimmelshausen
+  typ: Literaturmuseum mit rezeptionsgeschichtlicher Ausrichtung
+  superlativ: erstes und bislang einziges rezeptionsgeschichtlich angelegtes Literaturmuseum in Deutschland
+  ausgestellte_kuenstler: über 80 aus deutschsprachigem Raum
+  sammlung: weltweit größte Sammlung von Illustrationen zum literarischen Werk Grimmelshausens
+  gruender_amtszeitraum: Bürgermeister Klaus Brodbeck
+  eroeffnung: 1998
+  konzeptionelle_leitung: Martin Bircher und Christian Juranek
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 32-renchen/007
+ENTITÄT: preis
+BEZEICHNUNG: Johann-Jacob-Christoph von Grimmelshausen-Preis
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  vergeben_durch: Stadt Renchen zusammen mit Stadt Gelnhausen
+  kategorie: in deutscher Sprache erschienenes erzählerisches Werk
+  kriterium: bemerkenswertiger Beitrag zur Auseinandersetzung mit Zeitgeschichte
+  altersgrenze_werk: maximal 6 Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/008
+ENTITÄT: park
+BEZEICHNUNG: Grimmelshausenpark
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  lage: oberhalb des kleinen Stadtkerns Renchen
+  nutzung: Naherholung, Feste, kleinere Freilichtauftritte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/009
+ENTITÄT: freizeiteinrichtung
+BEZEICHNUNG: Freizeitbad
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Sommerbad
+  saisonalitaet: offen in Sommermonaten
+  besucherzahl_jaehrlich: 80000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 32-renchen/010
+ENTITÄT: unternehmen
+BEZEICHNUNG: Erdrich Umformtechnik GmbH
+ORTSTEIL_BEZUG: Ulm
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  branche: Automobilzulieferer
+  groessenklasse: größerer Arbeitgeber
+  sitz: Renchener Ortsteil Ulm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/011
+ENTITÄT: schule
+BEZEICHNUNG: Grimmelshausenschule
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  schultypen: Grundschule, Hauptschule, Realschule, Werkrealschule
+  standort: Renchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/012
+ENTITÄT: organisation
+BEZEICHNUNG: Baden-Württembergischer Landesverband für Prävention und Rehabilitation e. V.
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  sitz: Renchen
+  fokus: Suchtkrankenhilfe
+  gruendung: 1919
+  urspruengliche_bezeichnung: Badischer Landesverband gegen den Alkoholismus e. V.
+  typ: Landeseinrichtung
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/013
+ENTITÄT: buergermeister
+BEZEICHNUNG: Albert Dietrich
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: 1945
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/014
+ENTITÄT: buergermeister
+BEZEICHNUNG: Franz Brandstetter
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit_bis: 1969
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/015
+ENTITÄT: buergermeister
+BEZEICHNUNG: Erich Huber
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1969-1985
+GUELTIG_AB: 1969
+GUELTIG_BIS: 1985
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/016
+ENTITÄT: buergermeister
+BEZEICHNUNG: Klaus Brodbeck
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1985-2000
+GUELTIG_AB: 1985
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/017
+ENTITÄT: buergermeister
+BEZEICHNUNG: Bernd Siefermann
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 2001-2025
+  partei: CDU
+GUELTIG_AB: 2001
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 32-renchen/018
+ENTITÄT: buergermeister
+BEZEICHNUNG: Stephanie Bartsch
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  amtseintritt: 2025-02
+  wahltermin: 2024-11-10
+  wahlbeteiligung_prozent: 76.8
+  geschlecht: weiblich
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 32-renchen/019
+ENTITÄT: wappen
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: In Silber ein rotes Kleeblattkreuz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 32-renchen/020
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ferdinand Battlehner
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1824-1906
+  beruf: deutscher Arzt und Geheimrat
+  status: Ehrenbürger Renchens
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/021
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ignaz Heim
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1818-1880
+  beruf: Musiker und Komponist
+  bezug_ort: Sohn der Stadt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/022
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Amand Goegg
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1820-1897
+  beruf: badischer Freiheitskämpfer
+  bezug_ort: Sohn der Stadt
+  status_genf: Ehrenbürger der Stadt Genf
+  familiärer_bezug: verheiratet mit Marie Goegg-Pouchoulin (Frauenrechtlerin)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/023
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Camill Schaible
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1837-1906
+  titel: Oberst
+  beruf: Militärschriftsteller
+  bezug_ort: Sohn der Stadt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/024
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gottlob Barth
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1884-1958
+  berufe: Landrat, Bürgermeister
+  bezug_ort: Sohn der Stadt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/025
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Erich Konrad
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1894-1975
+  beruf: Chemiker
+  arbeitgeber: I.G. Farben Werke in Leverkusen
+  forschung: Synthesekautschuk
+  bezug_ort: Sohn der Stadt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/026
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Albert Karl Krautheimer
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1905-1966
+  berufe: katholischer Priester, Schriftsteller, Redakteur
+  publikation: Konradsblatt
+  bezug_ort: Sohn der Stadt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/027
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Michael Speier
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1950
+  berufe: Autor, Übersetzer, Literaturwissenschaftler, Herausgeber
+  bezug_ort: Sohn der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/028
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Martin Knosp
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1959
+  sport: Ringen
+  titel: Weltmeister
+  weltmeister_jahr: 1981
+  olympische_medaille: Silber
+  olympische_spiele: 1984 Los Angeles
+  bezug_ort: Sohn der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 32-renchen/029
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Erwin Knosp
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1961
+  sport: Ringen
+  titel: mehrfacher deutscher Meister, Olympiateilnehmer
+  bezug_ort: Sohn der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/030
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Norbert Dobeleit
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1964
+  sport: Leichtathletik
+  olympische_medaille: ja
+  olympische_spiele: 1988 Seoul
+  bezug_ort: Sohn der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/031
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Holger Nell
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1966
+  beruf: Jazzmusiker
+  bezug_ort: Sohn der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 32-renchen/032
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hans Jakob Christoffel von Grimmelshausen
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1622-1676
+  beruf: Autor
+  hauptwerk: Der Abenteuerliche Simplicissimus
+  amtszeit_schultheiss: 1667-1676
+  titel: bischöflich straßburgischer Schultheiß von Renchen
+  bezug_ort: Schultheiß in Renchen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 32-renchen/033
+ENTITÄT: naturereignis
+BEZEICHNUNG: Meteorit von Renchen
+QUELLE: https://de.wikipedia.org/wiki/Renchen | Wikipedia
+EIGENSCHAFTEN:
+  ereignisdatum: 2018-07-10
+  ereigniszeit: 23:30 MESZ
+  wissenschaftliche_bezeichnung: EN100718 Renchen
+  phaenomen_typ: Feuerkugel, sehr heller Meteor
+  beobachtungsgebiet: Mittelrhein und deutsch-französische Grenze, Baden-Württemberg, Rheinland-Pfalz, Elsass, Lothringen
+  fundzeit_beginn: 2018-07-24
+  fundzeit_ende: 2019-02-23
+  fundmenge: 5 Rohstücke und mehrere Fragmente
+  superlativ: erster gesicherter Meteoritenfall in Baden-Württemberg
+  historischer_vorgaenger_vermutlich: Meteorit 1671-02-27 bei Ortenau, wissenschaftlich nicht untersucht
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 32-renchen/034
+ENTITÄT: skulptur
+QUELLE: https://www.renchen.de/kultur-stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Fabelwesen mit dem Simplicissimus als Scholar
+  kuenstler: Bildhauer Sander
+  material: Bronze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+

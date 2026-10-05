@@ -1,0 +1,592 @@
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bickesheim
+QUELLE: https://www.durmersheim.de/web/leben_historisches_bickesheim.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwahnung: 1065
+  namensursprung: altdeutsches Wort "Bug-Buch" (Buckel), bedeutet "Heim auf dem Buckel"
+  volksmundliche_namen: Biggser Berg, Biggser Buggel
+  lage: Berg
+  dorfbildung: false
+  beschreibung: Höfe, die im Laufe der Zeit untergingen, kein eigenes Dorf gebildet
+GUELTIG_AB: 1065
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Wallfahrtskirche Maria Bickesheim
+ORTSTEIL_BEZUG: Bickesheim
+QUELLE: https://www.durmersheim.de/web/leben_historisches_bickesheim.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1250-
+  erbauer: Markgraf Rudolf I., Kunigunde von Eberstein
+  vorgaenger_typ: romanische Kapelle
+  vorgaenger_bauzeit: 11. Jahrhundert
+  stil: gotisch (frühgotisch)
+  gnadenbild: Maria mit dem Kind
+  gnadenbild_beschreibung: viel verehrt, mit ebersteinischer Rose, aus 14. Jahrhundert
+  chortyp: Rundpfeiler aus Bauzeit
+  chore: zwei Chöre (14.-15. Jahrhundert)
+  fresken: aus 14. Jahrhundert, im Katharinenchor
+  glasfenster: einige aus 14. Jahrhundert
+  altaere_barockzeit: als Geschenke der Markgrafen
+  umbau_erweiterung: 1908
+  wallfahrt_ersterwahnung: 1318
+  wallfahrt_bluetezeit: 15. Jahrhundert
+  wallfahrt_stockung: Reformation und Konfessionswechsel
+  wallfahrt_neubluete_ab: 1633 durch Jesuiten aus Ettlingen
+  leitung_ab_1920: Redemptoristen
+  leitung_bis: 2008
+  wappen_beschreibung: badisches und ebersteinisches Wappen an Pfeiler, eine der ältesten steinernen Abbildungen des badischen Landeswappens
+  superlativ: älteste steinernen Abbildungen des badischen Landeswappens
+GUELTIG_AB: 1250
+IST_VERMUTISMUS_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Bickesheim
+ORTSTEIL_BEZUG: Bickesheim
+QUELLE: https://www.durmersheim.de/web/leben_historisches_bickesheim.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  order: Redemptoristen
+  erbaut: 1925-1926
+  betrieb_ende: 2008
+GUELTIG_AB: 1925
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Durmersheim
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Hochgestade, Rheinebene
+  lage_beschreibung: Flussufer des mäandrierenden Rheins, Hochwassersicherheit
+  ortsname_zusammensetzung: Dur (Wasser) + Mers (Sumpfland) + -heim
+  ortsname_bedeutung: Ort an Wasser und Sumpf
+  namensursprung_sagengestalt: Turmar (Fantasiegestalt, wahrscheinlich erfunden)
+  namensursprung_einschaetzung: die Fantasiegestalt Turmar ist nicht Ursprung des Namens
+  ersterwahnung: um 985
+  ersterwahnung_quelle: Codex Edelini (~1280), Güterverzeichnis Kloster Weißenburg
+  ersterwahnung_kontext: Kaiser Otto III. verfügte Gebietsverlust des Klosters (tatsächlich 985, nicht 991)
+  kloster_weissburg_besitz_ab: ca. 700 n.Chr.
+  kloster_weissburg_besitz_1985: 80 Tagwerk Ackerland und Wiesen, eine Kirche, 14 Knechtshöfe
+  kloster_herrenalb_besitz: Hofgut
+  markgraf_baden_besitz: früh im Besitz
+  markgraf_baden_aktivitaeten: große Hofgüter, als Lehen vergeben
+  markgraf_baden_kirchenfoerderung_ab: 10. Jahrhundert (Kirche Bickesheim)
+  durmersheim_badisch_seit: 1259
+  dorf_entwicklung: aus zusammengewachsenen Höfen/Gütern im frühen Mittelalter
+  einwohner_1683: 30 Familien, 150 Menschen
+  dreissigjähriger_krieg: fast entvölkert
+  kriegsereignisse_zeitraum: Dreißigjähriger Krieg, Revolutionskriege, Napoleon, Badische Revolution 1848, Deutsche Kriege
+  napoleon_besatzung: 1796 (Franzosen einquartiert), 1797 (Plünderung Lamm-Wirtshaus)
+  badische_revolution_1848: Gefechtshandlungen
+  deutsch_oesterreichischer_krieg_1866: Soldaten
+  deutsch_franzoesischer_krieg_1870_71: Soldaten
+  wwi_zeitraum: 1914-1918
+  wwi_soldaten: 670 eingezogen
+  wwi_tote: 160 (nicht heimgekehrt)
+  wwii_zeitraum: 1939-1945
+  wwii_soldaten_ingezogen: über 800
+  wwii_gefallene: 269
+  wwii_vermisste: 114
+  wwii_zivile_opfer: 21
+  wwii_gebaeudeschaeden: erheblich
+  franzoesische_besatzung_zeitraum: 11. April 1945 - 24. August 1949
+  franzoesische_besatzung_zone: französische Zone
+  franzoesische_besatzung_sachleistungen: ca. 500.000 Euro
+  franzoesische_besatzung_einheiten: Marokkanische Einheiten, französisches Gendarmeriekommando
+  nachkriegsentwicklung: stetige und konstante Aufwärtsentwicklung
+  zuwanderung: Flüchtlinge und Heimatvertriebene
+  zusammenschluss_wuermersheim: 1. Januar 1974
+  einwohner_2020: 12.500 (mit Würmersheim)
+  infrastruktur_schulen: alle Schultypen
+  infrastruktur_kinderbetreuung: umfangreiche Angebote
+  infrastruktur_einkauf: umfangreiche Angebote
+  infrastruktur_wald: 1000 ha
+  infrastruktur_freibad: Terrassenfreibad
+  infrastruktur_vereine: über 80 Vereine und Gruppen
+  infrastruktur_oepnv: Stadtbahn Karlsruhe, Karlsruher Verkehrsverbund
+  jubilaeum_1000_jahre: 1991
+  jubilaeum_1025_jahre: 2016
+GUELTIG_AB: 985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Würmersheim
+QUELLE: https://www.durmersheim.de/web/leben_historisches_würmersheim.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwahnung: 1156
+  ersterwahnung_schreibweise: Wirmeresheim
+  herkunft: Fränkische Landnahme (5./6. Jahrhundert)
+  herkunft_typ: Ausbausiedlung (Kolonie)
+  lage: Tiefgestade, erhöhte Stelle
+  lage_beschreibung: Hochwasser-gefährdet
+  ortsname_ursprung: keltisch-fränkische Sprachwurzeln
+  ortsname_bedeutung: Heim am Bach im Sumpfland
+  kloster_weissburg_besitz: Kloster Weißenburg (ursprünglich)
+  kloster_maulbronn: 1156 erwähnt
+  kloster_herrenalb: Landbesitz bekannt
+  markgraf_baden_besitz_seit: 1291
+  markgraf_baden_verpfaendung: bis 1334 an Johann von Vrigenstein
+  markgraf_besitz_danach: seit Mitte 15. Jahrhundert dauerhaft
+  administrativ_15jh_fruehe_neuzeit: Amt Kuppenheim, später Amt Rastatt
+  kirchlich: Filiale Pfarrei Elchesheim
+  zehnt: je zur Hälfte Markgraf und Kirchherr Elchesheim
+  gemeinde_eigenstaendigkeit: bis in spätes Mittelalter eigenständig
+  gemeinde_status_nach_krieg: nach 30jährigem Krieg kirchlich und schulisch Durmersheim angegliedert
+  kommunale_eigenstaendigkeit: bis 1972 bewahrt
+  eingemeindung: 1973/1974 zu Durmersheim
+  einwohner_1683: 13 Familien, 60-70 Menschen
+  einwohner_1849: ca. 300
+  einwohner_1898: ca. 400
+  einwohner_1930: ca. 800
+  einwohner_1954: 779
+  einwohner_1964: 1000
+  einwohner_1973: 1253
+  einwohner_2000: 2000
+  einwohner_2019: 2.635
+  betriebe: Ziegelei, Sägewerk
+  wappen_zeitraum: seit 1553
+  wappen_beschreibung: geteilt - rot-gelbes badisches Wappen, gelber Wurm auf blauem Grund
+  wappen_vorlauf: vor 1901 Schere statt Wurm
+  wappensorache: sprechendes Wappen (historisches Missverständnis)
+GUELTIG_AB: 1156
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Weißenburg
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Elsass
+  besitz_durmersheim_ab: ca. 700 n.Chr.
+  besitz_durmersheim_1985: 80 Tagwerk Ackerland und Wiesen, eine Kirche, 14 Knechtshöfe, Zehntrecht
+  besitz_bickesheim: vier Höfe (1065)
+  besitz_wuermersheim: seit ca. 700
+  besitz_wuermersheim_aufzeichnung: Codex Edelini, 1291 an Markgrafen Baden abgegeben
+  codex_edelini: ~1280 geschrieben, Güterverzeichnis von Abt Edelin
+  bedeutung: eines der bedeutendsten Klöster im merowingisch-fränkischen Reich
+GUELTIG_AB: 700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Herrenalb
+QUELLE: https://www.durmersheim.de/web/leben_historisches_bickesheim.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besitz_bickesheim: bekannt als Grundbesitzer
+  bestaetigungs_urkunde: Papst Honorius III. 1216
+  besitz_bestaetigung: Markgraf Rudolf I. 1265 (als Herrenalber Klosterbesitz anerkannt)
+  besitz_bestaetigung_grund: vermutlich um vor Ansprüchen des Klosters Maulbronn zu schützen
+  besitz_durmersheim: Hofgut
+  besitz_wuermersheim: Gutshöfe
+GUELTIG_AB: 12. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Dionys
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Durmersheim
+  erbaut: 1829-1830
+  vorgaenger: alte Pfarrkirche
+  vorgaenger_erbaut: 1473
+  vorgaenger_standort: Pfarrgarten an der Römerstraße
+  abriss_vorgaenger: 1830
+  vorgaenger_funde: Fragment römischer Viergötterstein in Fundamenten
+  roemer_viergötterstein_lage: heute in neuer Pfarrkirche eingemauert
+GUELTIG_AB: 1829
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche Herz-Jesu
+ORTSTEIL_BEZUG: Würmersheim
+QUELLE: https://www.durmersheim.de/web/leben_historisches_würmersheim.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstbau_erbaut: 1777
+  erstbau_weihe: Heiliger Jakob der Ältere
+  erstbau_standort: Wo sich heute Würmersheimer Rathaus befindet
+  erstbau_conversion: 1913 zu Wohnungen umgebaut, später abgebrochen
+  altar_jahr: 1778
+  altar_anfertiger: Martin Eigler (Rastatter Schreiner)
+  altar_kosten_markgraf: Markgraf Karl Friedrich übernahm 75 Gulden
+  altar_aufbewahrung: rechter Seitenaltar in neuer Kirche
+  glocke_jahr: 1805
+  glocke_masse: 43 cm
+  glocke_stifter: Franz Joseph Kassel
+  glocke_eintraege: Namen Schultheiß Eichler, Gerichtsleute Altmeier, Oberle, Heck, Kassel, Kary
+GUELTIG_AB: 1777
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kreuzkirche
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1855
+  zusatz: Kleinkinderschule
+  standort_heute: Hauptstraße-Ecke Wilhelmstraße
+GUELTIG_AB: 1855
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: fundstaette
+BEZEICHNUNG: Gräberfeld
+ORTSTEIL_BEZUG: Bickesheim
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: südliches Ende Karlsruher Straße, nördlich Bickesheim
+  zeit: Fränkisch-alemannisch
+  zeitraum_jahre: 7. Jahrhundert
+  entdeckung: 1959
+  entdeckung_kontext: Erschließungsarbeiten
+  funde: Waffen und umfangreiche Grabbeigaben
+GUELTIG_AB: 700
+GUELTIG_BIS: 800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: gaststatte
+BEZEICHNUNG: Lamm
+ORTSTEIL_BEZUG: Bickesheim
+QUELLE: https://www.durmersheim.de/web/leben_historisches_bickesheim.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erwaehnung_ab: 1775
+  ereignis_1797: vollständig geplündert durch französische Truppen, alles zerstört
+GUELTIG_AB: 1775
+IST_VERMUTISMUS_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: muehle
+ORTSTEIL_BEZUG: Bickesheim
+QUELLE: https://www.durmersheim.de/web/leben_historisches_bickesheim.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Grenzstraße
+  jahrhunderte_bestand: mehrere Jahrhunderte
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: jaehrmarkt
+ORTSTEIL_BEZUG: Bickesheim
+QUELLE: https://www.durmersheim.de/web/leben_historisches_bickesheim.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  haeufigkeit_urspruenglich: dreimal jährlich
+  beschreibung: ursprünglich in Bickesheim stattfindend
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Federbach
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traditioneller_name: seit alters her
+  erwaehnung_in_kontext: Ortsname Durmersheim bezieht sich auf Wasser (Federbach)
+  geografische_rolle: fließt in der Gegend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Rohrburg
+ORTSTEIL_BEZUG: Durmersheim
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auch_genannt: markgräfliches Schloss Rohrburg
+  standort: Zusammenfluss Schmidt- und Federbach in Durmersheim
+  falschzuweisung: im Jahr 1388 fehlerhaft als Burg Würmersheim erwähnt
+  ersterwahnung: 1388
+  lehensbrief_aeltester: 1481 an Otto von Seckendorf
+  nutzung_ab_1574: Dienst- und Wohnsitz badischer Forstmeister
+  wiederaufbau_ab: 1657
+  wiederaufbau_durch: Hans Dietrich von Bademer
+  areal_verkauf: 1776
+GUELTIG_AB: 1388
+GUELTIG_BIS: 1776
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum (Hardtmuseum)
+QUELLE: https://www.durmersheim.de/web/leben_heimatmuseum.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Alter Ostkern, Römerstraße
+  standort_namensgruendung: früher Römerstraße verlaufen, wie Funde beweisen
+  betreuer: Arbeitskreis Heimatpflege e.V. (ehrenamtlich)
+  schwerpunkte: Leben um die Jahrhundertwende, Ortsgeschichte, Volksfrömmigkeit, Wallfahrt
+  netzwerk: Teil der PAMINA-Museumskette
+  bezug_wallfahrt: Bezug zu Wallfahrtskirche Maria Bickesheim
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Rudolf I.
+QUELLE: https://www.durmersheim.de/web/leben_historisches_bickesheim.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Markgraf von Baden
+  heirat: Kunigunde von Eberstein (13. Jahrhundert)
+  baulich_aktivitaeten: Bau gotische Kirche Bickesheim (ab 1250)
+  besitz_bestaetigung: 1265 Herrenalb-Besitz anerkannt
+  durmersheim_baden: 1259 Durmersheim wird badisch
+  kirchenfoerderung: Förderer der Kirche Bickesheim ab 10. Jahrhundert
+GUELTIG_AB: 13. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Kunigunde von Eberstein
+QUELLE: https://www.durmersheim.de/web/leben_historisches_bickesheim.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Frau Markgraf Rudolf I.
+  herkunft: Eberstein
+  baulich_aktivitaeten: Bau gotische Kirche Bickesheim (ab 1250)
+  familienverbindung: Ebersteiner (reich begütert auf der Hardt, 13. Jahrhundert)
+  kunstwerk_foerderung: Gnadenbild mit ebersteinischer Rose
+GUELTIG_AB: 13. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: sage
+BEZEICHNUNG: Turmar
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: sagenhafte Sippenführer
+  legendaere_aktivitaete: soll kleine Siedlung aufgebaut haben
+  ortsname_verbindung: Ortsname "Thurmaresheim" soll von Turmar herrühren
+  historische_beurteilung: mit höchster Wahrscheinlichkeit eine Fantasiegestalt
+  genauigkeit: vermutlich
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Chenneviéres-sur-Marne
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim_zeittafel.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  gruendung: 1975
+  jubilaeum_40_jahre: 2015
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Littlehampton
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim_zeittafel.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Grossbritannien
+  gruendung: 1988
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Triumphe des Zeittafeltextes - 1. Weltkrieg
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim_zeittafel.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1914-1918
+  durmersheim_soldaten: 670 eingezogen
+  durmersheim_gefallene: 155
+  wuermersheim_soldaten: 115 eingezogen
+  wuermersheim_gefallene: 17
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: 2. Weltkrieg
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim_zeittafel.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1939-1945
+  durmersheim_soldaten_ingezogen: über 800
+  durmersheim_gefallene: 330
+  durmersheim_vermisste: 65
+  durmersheim_zivile_opfer: 21
+  gebaeudeschaeden: erheblich durch Fliegerangriffe und Artilleriebeschuss
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Lokalbahn
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim_zeittafel.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  name: s Lobberle
+  strecke: Spöck – Karlsruhe – Durmersheim
+  eroeffnung: 1890
+  betriebsende: 21. April 1936
+  grund_stilllegung: Unrentabilität
+GUELTIG_AB: 1890
+GUELTIG_BIS: 1936
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnstrecke Karlsruhe–Durmersheim–Rastatt–Röschwoog
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim_zeittafel.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: strategische Bahnstrecke
+  eroeffnung: 1895
+  zielort: Elsass (Röschwoog)
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Durmersheim
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim_zeittafel.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neuer_bahnhof_erwahnung: 1894
+  postgebaeude: 1894 am neuen Bahnhof
+GUELTIG_AB: 1894
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Terrassenfreibad
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim_zeittafel.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung_schwimmbad: 1952
+  renovierung: 1989
+  umgestaltung: zum Erlebnisbad umgebaut
+  beschreibung: attraktives Terrassenfreibad
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Federbachstadion
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim_zeittafel.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1982
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Friedrichschule
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim_zeittafel.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1911-1913
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Hildaschule
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim_zeittafel.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1837
+GUELTIG_AB: 1837
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Realschule
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim_zeittafel.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufbau: 1960-1970
+  umbau_erweiterung: 1997
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Hardtschule
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim_zeittafel.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufbau: 1960-1970
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Wilhelm-Hausenstein-Gymnasium
+QUELLE: https://www.durmersheim.de/web/leben_historisches_durmersheim_zeittafel.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufbau: 1960-1970
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Würmersheim
+QUELLE: https://www.durmersheim.de/web/leben_historisches_würmersheim_zeittafel.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau: 1992
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92

@@ -1,0 +1,1027 @@
+ENTITÄT: ort
+BEZEICHNUNG: Karlsruhe
+QUELLE: https://www.karlsruhe.de/mobilitaet-stadtbild/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1715
+  bewertung: vergleichsweise junge Stadt
+GUELTIG_AB: 1715
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Karlsruhe
+QUELLE: https://www.karlsruhe.de/stadt-rathaus/stadtteile-ortsverwaltungen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bevölkerung: 300000
+  anzahl_stadtteile: 27
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Karlsruhe
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  musikgeschichte_seit: 1565
+  geschichtliche_bezeichnung: Musenhof
+  grund_musenhof_bezeichnung: Markgräfin Caroline Luise trug zu kultureller Blüte ab Mitte 18. Jahrhundert bei; Voltaire verglich Karlsruhe 1758 mit dem Italien der Herzöge von Ferrara und Medici
+GUELTIG_AB: 1565
+GUELTIG_BIS: 1758
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Caroline Luise
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/kunst-und-museen/museumsgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Markgräfin
+  historische_rolle: Auslöser der ersten kulturellen Blüte Karlsruhes ab Mitte des 18. Jahrhunderts
+  zeitraum: Mitte 18. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Voltaire
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/kunst-und-museen/museumsgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besuch_karlsruhe: 1758
+  beschreibung: Gast im Schloss; urteilte, Deutschland sei nun das, was Italien ehemals unter den Herzögen von Ferrara und Medici war
+GUELTIG_AB: 1758
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Staatliche Kunsthalle
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/kunst-und-museen/museumsgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekt: Heinrich Hübsch
+  eröffnung: 1846
+  bestandteile_name: Großherzoglich Gemäldesammlung (Gründungsname)
+  sammlung_schwerpunkte: Werke altdeutscher, niederländischer und französischer Künstler des 16., 17. und 18. Jahrhunderts
+  zusatzeinrichtung_kindermuseum: 1975
+  bewertung: eine der bedeutendsten Gemäldegalerie der Bundesrepublik
+  endfassung_baulich: nach Errichtung des Ostflügels (zeitgenössisch)
+GUELTIG_AB: 1846
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Badisches Landesmuseum
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/kunst-und-museen/museumsgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort_gebäude: Schloss
+  sammlung_umfang: 5000 Jahre Kulturgeschichte
+  sammlung_highlights: Türkenbeu­te von Markgraf Ludwig Wilhelm (Türkenlouis)
+  zweigmuseum: Majolika-Manufaktur Karlsruhe Produkte
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Badischer Kunstverein
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/kunst-und-museen/museumsgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1818
+  superlativ: zweitältester Kunstverein Deutschlands
+  fokus: Informationen über internationale zeitgenössische Kunst und ihre Voraussetzungen
+  grund_gründung: Anspruch des Bürgertums auf eigenes kulturelles Betätigungsfeld in der deutschen Kunstvereinsbewegung
+  architektur_gebäude: von Friedrich Ratzel errichtet
+  ort_gebäude_ab: 1900
+GUELTIG_AB: 1818
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/kunst-und-museen/museumsgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Stadtgeschichtliche Sammlungen
+  öffnung: 1981
+  ort_gebäude: Prinz-Max-Palais, Karlstraße 10
+  sammlung_fokus: Karlsruher Geschichte von Gründung bis Gegenwart
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Pfinzgaumuseum
+ORTSTEIL_BEZUG: Durlach
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/kunst-und-museen/museumsgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_sammlung: 1902
+  gründung_name: Städtische Altertümersammlung
+  namensänderung: 1924
+  ort_gebäude: Karlsburg, Prinzessenbau (16. Jahrhundert erbaut)
+  sammlung_inhalte: Durlacher Stadtgeschichte, Badische Revolution, Fayence-Sammlung aus Durlacher Manufaktur
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1924
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Karpatendeutsches Heimatmuseum
+ORTSTEIL_BEZUG: Durlach
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/kunst-und-museen/museumsgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1985
+  gründungsinitiative: Karpatendeutsches Kulturwerk
+  ort_gebäude: Karlsburg
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Rechthistorisches Museum
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/kunst-und-museen/museumsgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1982
+  gründungsorganisation: Gesellschaft für kulturhistorische Dokumentation
+  sammlung_umfang: 4000 Jahre Rechtsgeschichte
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Verkehrsmuseum
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/kunst-und-museen/museumsgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  träger: Verkehrswacht
+  sammlung_fokus: Technikgeschichte mit Schwerpunkt Mobilität
+  notabler_bezug: Carl Friedrich Drais von Sauerbronn (Erfindung Laufrad) und Karl Benz (Konstruktion erstes Automobil) aus Karlsruhe
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Zentrum für Kunst und Medien (ZKM)
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/kunst-und-museen/museumsgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1999
+  aufgabe: Verbindung von Kunst, Wissenschaft und Technik; Beziehung zwischen Bild, Musik, Wort und neuen Informations- und Kommunikationstechnologien
+  einrichtungen: Computerlabore, Medientheater, Medienmuseum, Museum für Gegenwartskunst
+  fokus: Forschung, Entwicklung, Weiterbildung, Kulturvermittlung
+GUELTIG_AB: 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Hoftheater
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekt: Friedrich Weinbrenner
+  eröffnung: 1810
+  kapazität: 1800
+  kapazität_einheit: Besucher
+GUELTIG_AB: 1810
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Theaterbrand Karlsruhe
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1847
+  todesfälle: 65
+  betroffener_personenkreis: Stehplatz-Besucher
+  folge_baulich: Theaterneubau von Heinrich Hübsch (fertiggestellt 1853)
+  folge_organisatorisch: Bühnenreform durch Eduard Devrient
+GUELTIG_AB: 1847
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Badisches Staatstheater (Neubau Ettlinger Tor)
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1975
+  vorgänger_namen: Hoftheater (ab 1810), Badisches Landestheater (nach Abdankung Großherzog Friedrichs II.), Badisches Staatstheater (ab 1933)
+  orchestername: Badische Staatskapelle (ab 1933)
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Johann Melchior Molter
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1696-1765
+  beruf: Kapellmeister und Komponist
+  epoche: 18. Jahrhundert
+  bewertung: herausragend
+GUELTIG_AB: 1696
+GUELTIG_BIS: 1765
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Joseph Aloys Schmittbaur
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1718-1809
+  beruf: Kapellmeister und Komponist
+  epoche: 18. Jahrhundert
+  bewertung: herausragend
+GUELTIG_AB: 1718
+GUELTIG_BIS: 1809
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Gründung Großherzogtum Baden
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1806
+  konsequenz_gebietszuwachs: Vergrößerung um das Dreifache
+  konsequenz_kulturell: Aufblühen des Musiklebens
+  ursache: geschicktes Paktieren und Heiratspolitik
+GUELTIG_AB: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Johann Evangelist Brandl
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1760-1837
+  beruf: Musikdirektor von Bruchsal nach Karlsruhe
+  stilistik: zwischen Klassik und Romantik
+GUELTIG_AB: 1760
+GUELTIG_BIS: 1837
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Franz Danzi
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1763-1826
+  beruf: Orchesterleiter in Karlsruhe
+  besonderheit: brachte Carl Maria von Webers Opern kurz nach Uraufführung nach Karlsruhe
+GUELTIG_AB: 1763
+GUELTIG_BIS: 1826
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Josef Strauß
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1793-1866
+  beruf: Dirigent, Begründer der Karlsruher Wagnertraditon (1850er Jahre)
+  zusammenarbeit: mit Eduard Devrient (Generaldirektor)
+GUELTIG_AB: 1793
+GUELTIG_BIS: 1866
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Eduard Devrient
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1801-1877
+  beruf: erster bürgerlicher Generaldirektor des Hoftheaters
+  rolle: Durchführer der Bühnenreform
+  reform_anlass: Theaterbrand von 1847 (65 Tote)
+GUELTIG_AB: 1801
+GUELTIG_BIS: 1877
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Hermann Levi
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1839-1900
+  beruf: Wagner-Dirigent in Karlsruhe
+  beziehung: befreundet mit Johannes Brahms
+GUELTIG_AB: 1839
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Felix Otto Dessoff
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1835-1892
+  beruf: Dirigent in Karlsruhe
+  notabler_auftritt: Uraufführung Brahmss Erste Sinfonie 1876 unter seiner Leitung
+GUELTIG_AB: 1835
+GUELTIG_BIS: 1892
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Felix Mottl
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1856-1911
+  beruf: Generalmusikdirektor
+  tätigkeitszeitraum: 1880-1903
+  bedeutung: Höhepunkt des Hoftheaters
+  reputation: verhalfen Karlsruhe Ruf als Klein-Bayreuth; Berlioz- und Bruckner-Aufführungen festigten internationales Renommee
+GUELTIG_AB: 1856
+GUELTIG_BIS: 1911
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Joseph Krips
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1902-1974
+  beruf: Generalmusikdirektor des Badischen Staatstheaters
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Joseph Keilberth
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1908-1968
+  beruf: Generalmusikdirektor des Badischen Staatstheaters
+GUELTIG_AB: 1908
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Otto Matzerath
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensjahre: 1914-1963
+  beruf: Generalmusikdirektor des Badischen Staatstheaters
+GUELTIG_AB: 1914
+GUELTIG_BIS: 1963
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Kazushi Ono
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Generalmusikdirektor des Badischen Staatstheaters (jüngere Zeit)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Anthony Bramall
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Generalmusikdirektor des Badischen Staatstheaters (jüngere Zeit)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Justin Brown
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Generalmusikdirektor des Badischen Staatstheaters (jüngere Zeit)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: musikfestival
+BEZEICHNUNG: Händel-Festspiele
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1978
+  ursprungsname: Händel-Tage
+  umbenennung: 1985
+  programm: Werke des Hallenser Meisters und seiner Zeitgenossen
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: musikfestival
+BEZEICHNUNG: ZeitGenuss
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 2013
+  regelmäßigkeit: jedes Herbst
+  träger: Hochschule für Musik und Stadt Karlsruhe
+  fokus: elektro­ni­sche und akusmatische Musik
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Wolfgang Rihm
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Komponist
+  bewertung: einer der bedeutendsten unserer Tage
+  tätigkeit_karlsruhe: lebt und lehrt
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: musikverein
+BEZEICHNUNG: Liedertafel
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1840
+  gattung: Männerchor
+GUELTIG_AB: 1840
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: musikverein
+BEZEICHNUNG: Liederkranz
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1841
+  gattung: Männerchor
+GUELTIG_AB: 1841
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: musikverein
+BEZEICHNUNG: Liederhalle
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1842
+  gattung: Männerchor
+GUELTIG_AB: 1842
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: musikverein
+BEZEICHNUNG: Bachchor
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: großer Chor
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: musikverein
+BEZEICHNUNG: Oratorien­chor
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: großer Chor
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: musikverein
+BEZEICHNUNG: CoroPiccolo
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort_affiliation: Evangelische Stadtkirche
+  fokus: historische Aufführungspraxis
+  besetzung: klein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: musikverein
+BEZEICHNUNG: Kammerchor der Christuskirche
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fokus: historische Aufführungspraxis
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: musikverein
+BEZEICHNUNG: Kantoreiensemble St. Stephan
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort_affiliation: katholische Hauptkirche St. Stephan
+  leistung: leistungsfähige Kantoreien mit großem Repertoire
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: musikverein
+BEZEICHNUNG: Kantoreiensemble Christuskirche
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort_affiliation: Christuskirche
+  leistung: leistungsfähige Kantoreien mit großem Repertoire
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: musikverein
+BEZEICHNUNG: Kantoreiensemble Evangelische Stadtkirche Durlach
+ORTSTEIL_BEZUG: Durlach
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  leistung: leistungsfähige Kantoreien mit großem Repertoire
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: musikverein
+BEZEICHNUNG: Studio Vocale
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1980
+  status: semiprofessioneller Kammerchor
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: musikschule
+BEZEICHNUNG: Badisches Konservatorium
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1884
+  gründer: Heinrich Ordenstein
+  ursprungsname: Großher­zog­li­ches Konservatorium
+  gründung_hochschule: 1929
+  rang: erste Hochschule für Musik in Baden
+  staatlichkeit: 1971
+GUELTIG_AB: 1884
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: studiengang
+BEZEICHNUNG: Master Zeitgenössische Musik
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Hochschule für Musik Karlsruhe
+  gründung: 2012
+GUELTIG_AB: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: archive
+BEZEICHNUNG: Stadtarchiv Karlsruhe
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/stadtgeschichte-und-archive/archive-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1885
+  superlativ: älteste städtische Kultureinrichtung
+  funktion: Gedächtnis der Stadt
+  aufgaben: Übernahme und dauerhafte Bewahrung von Unterlagen der städtischen Verwaltung; Bereitstellung für breite Öffentlichkeit
+  sammlungsbestand: Fotos, Pläne, Filme, Tonaufnahmen, Zeitungen, Firmen- und Privatunterlagen
+  spezifisches_projekt: Gedenkbuch für die Karlsruher Juden
+GUELTIG_AB: 1885
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: archive
+BEZEICHNUNG: Generallandesarchiv Karlsruhe
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/stadtgeschichte-und-archive/archive-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zuständigkeit: Schriftgut der Landesbehörden und Gerichte im Regierungsbezirk Karlsruhe und dortige Bundesbehörden
+  historischer_kern: Überlieferung der Markgrafen von Baden, Archive der Bischöfe von Speyer und Konstanz, Teile bischöflicher Archive
+  klosterarchive: Salem, Reichenau, St. Blasien, St. Peter, Schwarzach, Frauenalb
+  urkunden_bestand: ca. 130000
+  zusatzbestände: Kantonsarchive der Reichsritterschaft, reichsstädtische Archive, kurpfälzische Archive, vorderösterreichische Überlieferung
+  neuzeitliche_bestände: Badisches Landtag, Ministerien, Hofbehörden, badisches Armeekorps
+  sammlungen: Großherzogl. Familienarchiv, Adels- und Privatarchive, Nachlässe bedeutender Persönlichkeiten, Karten, Pläne, Plakate, Bildnisse, Fotografien
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: archive
+BEZEICHNUNG: Landeskirchliches Archiv Karlsruhe
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/stadtgeschichte-und-archive/archive-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Gedächtnis der Evangelischen Landeskirche in Baden
+  eröffnung_lesesaal: 2021
+  kooperation_eröffnung: gemeinsam mit Landeskirchlicher Bibliothek
+  sammlungen: Akten des Evangelischen Oberkirchenrats, breit gefächertes landeskirchliches Archivgut
+  aufsichtsfunktion: Fachaufsicht über alle anderen Archive der Landeskirche (Pfarr-, Dekanatsarchive, Archive landeskirchlicher Einrichtungen)
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: archive
+BEZEICHNUNG: Kreisarchiv des Landkreises Karlsruhe
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/stadtgeschichte-und-archive/archive-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1992
+  dienstsitz_ursprung: Karlsruhe
+  dienstsitz_aktuell: Bruchsal, Werner-von-Siemens-Str. 2-6, Gebäude 5112
+  dienstsitz_wechsel: Januar 2015
+  sammlungsbestand_fokus: Unterlagen Landratsamt Karlsruhe, kreisangehörige Schulen, Krankenhäuser, Abfallwirtschaftsbetrieb
+  historische_bestände: Bezirksämter Bruchsal und Karlsruhe, kleinere Sammlungsbestände
+  älteste_unterlagen: ca. 1800
+  gemeindearchivpflege: 21 Kreisgemeinden
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: archive
+BEZEICHNUNG: KIT-Archiv
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/stadtgeschichte-und-archive/archive-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Langzeitgedächtnis des Karlsruher Instituts für Technologie (KIT)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: archive
+BEZEICHNUNG: Oberrheinisches Literaturarchiv
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/stadtgeschichte-und-archive/archive-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sammlungsschwerpunkt: Literatur am Oberrhein, insbesondere 19. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: archive
+BEZEICHNUNG: Archiv für Architektur und Ingenieurbau (saai)
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/stadtgeschichte-und-archive/archive-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1989
+  bewertung: zählt zu den wichtigsten Einrichtungen ihrer Art in Deutschland
+  bestandsursprung: älterer Bestand aus Architekturabteilung der Polytechnischen Hochschule Karlsruhe (heute KIT)
+  zeitlicher_schwerpunkt: zweite Hälfte 20. Jahrhundert
+  wachstum: kontinuierlich durch zahlreiche Schenkungen
+  älteste_dokumente: ca. 1700
+  bestandsgröße_pläne_zeichnungen: über 530000
+  bestandsgröße_fotos_film_ton: 680000
+  bestandsgröße_akten: 1100 laufende Meter
+  bestandsgröße_modelle: 900
+  ergänzend: Fachzeitschriften, Bücher, Möbelstücke
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: startup
+BEZEICHNUNG: INERATEC GmbH
+QUELLE: https://www.karlsruhe.de/wirtschaft-wissenschaft/fuer-gruenderinnen-gruender/success-stories-und-best-practices | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vollname: Innovative Chemical Reactor Technologies
+  gründung: 2014
+  ort_gründung_sitz: Karlsruhe
+  gründer_anzahl: 3
+  geschaeftsidee: Entwicklung kompakter innovativer mobiler chemischer Reaktor; Umwandlung von Deponie- oder Biogas in flüssigen Treibstoff und Paraffin (Nebenprodukt)
+  unterstützung_wissenschaft: Prof. Dr.-Ing. Peter Pfeifer vom KIT
+  unterstützung_wirtschaftsförderung: Existenzgründungsberatung und -betreuung, Standortsuche, Netzwerk-Integration
+  netzwerke: Gründerallianz Karlsruhe, EnergieForum Karlsruhe, fokus.energie e.V.
+  international_pitch: Global Sustainable Finance Conference
+  status_2021: Top 100 der globalen Cleantech-Unternehmen
+  auszeichnung_deutscher_gründerpreis: 2018 (Bundespräsident)
+  auszeichnung_cleantech_challenge: Internationale Cleantech OpenGlobal Ideas Challenge
+  auszeichnung_umwelttechnikpreis: Baden-Württemberg 2017
+  auszeichnung_next_economy: 2022
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: startup
+BEZEICHNUNG: echobot GmbH
+QUELLE: https://www.karlsruhe.de/wirtschaft-wissenschaft/fuer-gruenderinnen-gruender/success-stories-und-best-practices | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 2011
+  gründer_1: Bastian Karweg
+  gründer_2: Jannis Breitwieser
+  ursprungsidee: Software für Medienbeobachtung; Automatisierung der Übersicht digitaler Medienlandschaft und Social Media
+  vorgängerprodukt: PresseBox (Plattform für Pressemitteilungen, erfolgreich)
+  geschaeftsentwicklung: Wechsel von SaaS-Modell zu Business-Suchmaschine für geschäftsrelevante Daten
+  neue_ausrichtung: Vertrieb und Marketing (Sales Intelligence)
+  geschwindigkeit: schnelle Profitabilität nach wenigen Jahren
+  herausforderung: Rechtliche Fragen (Leistungsschutzrecht, Datenschutzrecht, DSGVO)
+  compliance: datenschutzkonform unter DSGVO, hoher Standard und Rechtssicherheit Made in Germany
+  kundenanzahl: über 1000 Firmenkunden
+  kundenstruktur: Mittelständler und Big Player
+  zukunftsziel: Europäischer Marktführer
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Neureut
+QUELLE: https://www.karlsruhe.de/stadt-rathaus/stadtteile-ortsverwaltungen/neureut | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: nördlichster Stadtteil von Karlsruhe
+  charakteristika: attraktive Wohngebiete mit teilweise dörflichem Charakter, reges Vereinsleben
+  infrastruktur: gut ausgebaut
+  verkehr: direkter Stadtbahn-Anschluss ins Stadtzentrum
+  verwaltungsform: Ortsverwaltung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Stupferich
+QUELLE: https://www.karlsruhe.de/stadt-rathaus/stadtteile-ortsverwaltungen/stupferich | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1972
+  klassifizierung: Höhenstadtteil
+  entfernung_vom_zentrum: weitest entfernt
+  charakter: dörflich erhalten im Ortskern
+  entwicklung: Neubaugebiete in letzten Jahrzehnten
+  besonderheit: ausgeprägtes Eigenleben durch zahlreiche Vereine
+  verwaltungsform: Ortsverwaltung
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Grötzingen
+QUELLE: https://www.karlsruhe.de/stadt-rathaus/stadtteile-ortsverwaltungen/groetzingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  epitheton: Badisches Malerdorf
+  künstlergeschichte: Künstler seit ca. 1890
+  eingemeindung: 1974
+  position: östlichster Stadtteil von Karlsruhe
+  geographische_lage: zwischen Kraichgauer Hügelland und Rheinebene am Ende des Pfinztals
+  landschaft: romantisches Dorf, idyllisch im Grünen
+  verkehr: 15 Minuten mit Stadtbahn zum Marktplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Wolfartsweier
+QUELLE: https://www.karlsruhe.de/stadt-rathaus/stadtteile-ortsverwaltungen/wolfartsweier | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  motto: Hier will ich leben. Hier bin ich Zuhaus´
+  charakterisierung: zwischen Tradition und Moderne, Dorf und Stadt, Jung und Alt
+  besonderheit: viel Herz, Zusammenhalt und Zwischenmenschlichkeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Hohenwettersbach
+QUELLE: https://www.karlsruhe.de/stadt-rathaus/stadtteile-ortsverwaltungen/hohenwettersbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  klassifizierung: Bergdorf
+  höhenlage_absolut: 230 Meter über Meeresspiegel
+  höhenlage_relativ: 116 Meter über Karlsruhe
+  geographische_lage: am Rande des Schwarzwaldes
+  charakter: Naherholungsgebiet mit hügeliger Landschaft, frischer Luft, kinderfreundlich, dörflich
+  bevölkerung: ca. 2990
+  entwicklung: Anwachstum durch Neubaugebiete, dörflicher Charakter erhalten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Durlach
+QUELLE: https://www.karlsruhe.de/stadt-rathaus/stadtteile-ortsverwaltungen/stadtamt-durlach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bevölkerung: ca. 30000
+  charakteristika: Vielfalt an kulturellen Angeboten und Veranstaltungen, facettenreiches Stadtleben, pittoreske historische Altstadt
+  verwaltungsform: Stadtamt Durlach
+GUELTIG_AB: 1565
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Badnerlandhalle Karlsruhe-Neureut
+ORTSTEIL_BEZUG: Neureut
+QUELLE: https://www.karlsruhe.de/stadt-rathaus/stadtteile-ortsverwaltungen/neureut | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Veranstaltungszentrum
+  nutzungsmöglichkeiten: Tagungen, Konferenzen, Konzerte, Präsentationen, Ausstellungen, Börsen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: musikschule
+BEZEICHNUNG: Jugendmusikschule Neureut
+ORTSTEIL_BEZUG: Neureut
+QUELLE: https://www.karlsruhe.de/stadt-rathaus/stadtteile-ortsverwaltungen/neureut | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Musikschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Markgraf Ludwig Wilhelm
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/kunst-und-museen/museumsgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  epitheton: der Türkenlouis
+  notabler_bezug: Feldzüge; Sammlung Türkenbeu­te im Badischen Landesmuseum
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Heinrich Hübsch
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/kunst-und-museen/museumsgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Architekt
+  projekttyp_1: Staatliche Kunsthalle Karlsruhe
+  projekttyp_2: Theater-Neubau Karlsruhe (1853)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Ratzel
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/kunst-und-museen/museumsgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Architekt
+  projekt: Gebäude des Badischer Kunstverein
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Friedrich Weinbrenner
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Architekt
+  projekt: Hoftheater Karlsruhe
+  eröffnung_projekt: 1810
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Casimir Schweitzelsbergs
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Komponist
+  werk: Oper "Romanische Lucretia" 1715
+  besonderheit: aus der Gründungszeit Karlsruhes erhaltene Oper
+  werk_aufführung: 1715
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Peter Pfeifer
+QUELLE: https://www.karlsruhe.de/wirtschaft-wissenschaft/fuer-gruenderinnen-gruender/success-stories-und-best-practices | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Prof. Dr.-Ing.
+  institution: Karlsruher Institut für Technologie (KIT)
+  rolle: Unterstützer von INERATEC-Gründung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Bastian Karweg
+QUELLE: https://www.karlsruhe.de/wirtschaft-wissenschaft/fuer-gruenderinnen-gruender/success-stories-und-best-practices | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Gründer und Unternehmer
+  unternehmen: echobot GmbH
+  gründung: 2011
+  vorgänger_projekt: PresseBox
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Jannis Breitwieser
+QUELLE: https://www.karlsruhe.de/wirtschaft-wissenschaft/fuer-gruenderinnen-gruender/success-stories-und-best-practices | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Gründer und Unternehmer
+  unternehmen: echobot GmbH
+  gründung: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Tag des offenen Denkmals
+QUELLE: https://www.karlsruhe.de/mobilitaet-stadtbild/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: größte Kulturveranstaltung Deutschlands
+  organisator: Deutsche Stiftung Denkmalschutz
+  frequenz: jährlich
+  element: jährliches Motto
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Durlach
+QUELLE: https://www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historische_bedeutung: Markgrafen von Baden-Durlach residierten hier ab 1565
+  kulturelle_tradition: höfische Musikkultur ab 1565
+GUELTIG_AB: 1565
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9

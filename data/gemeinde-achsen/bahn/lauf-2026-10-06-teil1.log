@@ -1,0 +1,29 @@
+Orte: 32-renchen 33-durmersheim 34-karlsruhe
+== Extraktion (Haiku) 19:38:25
+32-renchen           extraktion ein  21528  aus   9269   0.08 USD    89 s  claude-haiku-4-5-20251001
+33-durmersheim       extraktion ein  27740  aus  14255   0.11 USD   141 s  claude-haiku-4-5-20251001
+34-karlsruhe         extraktion ein  41054  aus  21643   0.18 USD   201 s  claude-haiku-4-5-20251001
+zusammen: 1332 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+32-renchen         15976 Zeichen
+33-durmersheim     23944 Zeichen
+34-karlsruhe       39512 Zeichen
+== Karten (claude-opus-5-5) 19:41:47
+32-renchen           karten     ein  36110  aus  40580   1.05 USD   350 s  claude-opus-5-5
+33-durmersheim       karten     ein  40438  aus  37025   1.01 USD   317 s  claude-opus-5-5
+34-karlsruhe         karten     ein  50225  aus  35584   1.06 USD   304 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 19:47:37
+32-renchen           pruefung   ein  39055  aus   5209   0.36 USD    46 s  claude-opus-5-5
+33-durmersheim       pruefung   ein  58381  aus  10529   0.62 USD    94 s  claude-opus-5-5
+34-karlsruhe         pruefung   ein  85015  aus  14341   0.91 USD   125 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 19:49:41
+32-renchen           stufe2     ein 460466  aus  12855   1.29 USD   179 s  claude-opus-5-5,claude-haiku-4-5-20251001
+33-durmersheim       stufe2     ein 279003  aus  10240   0.73 USD   121 s  claude-opus-5-5,claude-haiku-4-5-20251001
+34-karlsruhe         stufe2     ein  92971  aus   1818   0.32 USD    31 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 19:52:41
+Urteile: {'bestätigt': 267, 'korrigiert': 38, 'unsicher': 13, 'gesperrt': 1} | im Vorrat: 318 Karten an 34 Orten
+iter1    10 Orte, 133 Karten, Tisch-Reihe 4
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     34 Orte, 318 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 510123 Bytes
+Kosten aller Orte 32-41 bisher: 7.72 USD
+Fertig 19:52:41
