@@ -1,0 +1,1754 @@
+ZIELORT: Worms (Stadt)
+LAGE: 17 km nordwestlich von Mannheim (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Worms
+
+GRUNDDATEN:
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 86.921  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 108,73  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 799  [berechnet aus Einwohner und Fläche]
+  kfz: WO (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 93 | 100 | 104 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2806142)]
+  naechste_grossstadt: Mannheim, 17 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 40 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Pfeddersheim, Bahnhof Rheindürkheim, Bahnhof Worms-Brücke, Haltestelle Herrnsheim, Worms Hauptbahnhof  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 67547, 67549, 67550, 67551  [Wikidata P281]
+  vorwahl: 06241, 06242, 06246, 06247  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,8 %, AfD 25,1 %, SPD 18,7 %, GRÜNE 9,1 %, Die Linke 7,5 %; Wahlbeteiligung 78,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Adolf Kessel (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-06]
+  partnerstaedte: Tiberias, Auxerre, Mobile, Parma, St. Albans, Bautzen  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Kennzeichen), C, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Alzey (Stadt)
+  landkreis: Alzey-Worms  [dewiki Infobox]
+  einwohner: 19.305  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 35,22  [Wikidata P2046; Altbestand staedte.json]
+  kfz: AZ (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 194 | 173 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2956710)]
+  naechste_grossstadt: Mainz, 28 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Alzey Süd, Alzey West, Bahnhof Alzey  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,7 %, AfD 23,6 %, SPD 19,9 %, GRÜNE 9,3 %, Die Linke 6,5 %, BSW 5,1 %; Wahlbeteiligung 80,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Frankfurt am Main, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Koblenz, Boppard, St. Goar, Oberwesel, Bacharach, Bingen, Alzey, Worms, Ludwigshafen, Speyer, Landau
+
+FAKTEN (Zielort Worms):
+ID: 55-worms/001
+ENTITÄT: ort
+BEZEICHNUNG: Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  ist_kreisfreie_stadt: true
+  lage: linker Rheinufer im Südosten von Rheinland-Pfalz
+  roman_name: Borbetomagus, Bormetomagus
+  lateinischer_name: Wormatia, Civitas Vangionum
+  jiddischer_name: Wermajze
+  inoffizieller_name: Nibelungenstadt
+  ist_lutherstadt: true
+  ist_nibelungenstadt: true
+  ist_schum_stadt: true
+  namensherkunft: "vom keltischen Borbetomagus ('Quellenfeld' oder 'Feld des Bormo'), mit -magus für Feld/Wiese/Ebene; Lautwandel B→W führte zu Warmazfeld, Warmazia, Wormazia/Wormatia, dann Worms"
+  bewerbung_aelteste_stadt_deutschlands: true
+  bewerbung_konkurrenten: Augsburg, Trier, Kempten
+  superlativ_dom: "einer der drei romanischen Kaiserdome in Deutschland (mit Mainz und Speyer)"
+  klimazone: Mittelbreiten mit Übergang See- zu Kontinentalklima
+  ist_einer_waermsten_orte_deutschlands: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/002
+ENTITÄT: ort
+BEZEICHNUNG: Worms
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/worms.html | Landesportal
+EIGENSCHAFTEN:
+  siedlungsspuren_seit_jahren: 5000
+  siedlungsspuren_seit_genauigkeit: "mehr als"
+  rom_zeit_hauptort_kelten: true
+  rom_zeit_periode: "seit Zeit des Kaisers Augustus"
+  mittelalter_besonderheit: "Lage entlang wichtiger Land- und Wasserwege"
+  rheinuebergang_hochwasserfrei: true
+  jüdische_eigenbezeichnung_hebr: Warmaisa
+  jüdische_gemeinde_bezeichnung: "Kehilla Kedoscha (Heilige Gemeinde)"
+  jüdische_gemeinde_weitere_bezeichnung: "Klein Jerusalem"
+  luther_reichstag_jahr: 1521
+  luther_reichstag_event: "Zusammentreffen Luthers mit Kaiser Karl V."
+  wormser_zeitungen_august_1914: "berichteten am 1. und 2. August 1914 von Bekanntmachung der Mobilmachung"
+  stimmung_1914: "vorherrschend gedrückt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/003
+ENTITÄT: ort
+BEZEICHNUNG: Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_2025: 86921
+  einwohner_2023: 85609
+  einwohner_2020: 83459
+  einwohner_2015: 82102
+  einwohner_2010: 81736
+  einwohner_2005: 81457
+  einwohner_2000: 80361
+  einwohner_1990: 76503
+  einwohner_1970: 76697
+  einwohner_1969_vor_eingemeindung: 63000
+  einwohner_1969_nach_eingemeindung: 78000
+  einwohner_1900: 40705
+  einwohner_1800: 5000
+  einwohner_1667: 3000
+  einwohner_1500: 6000
+  einwohner_1500_zusatz: "In seiner Blütezeit um 1500 hatte Worms etwa 6.000 Einwohner"
+  zerstörung_dreißigjähriger_krieg: 1618-1648
+  pestepidemie: 1666-1667
+  sechstgroesste_stadt_rheinland_pfalz: true
+  viertgroesste_rhein_neckar_dreieck: true
+  auslaenderanteil: 16,3%
+  durchschnittsalter_2005: 41,5
+  durchschnittsalter_bundesweit_vergleich: "relativ jung"
+  konfessionen_evangelisch_mai_2022: 27,6%
+  konfessionen_katholisch_mai_2022: 22,3%
+  konfessionen_konfessionslos_mai_2022: 50,2%
+  konfessionen_evangelisch_mai_2026: 22,9%
+  konfessionen_katholisch_mai_2026: 19,4%
+  konfessionen_konfessionslos_mai_2026: 57,8%
+  trend_evangelisch_katholisch: "sinkend seit 2022"
+  trend_konfessionslos: "steigend"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 55-worms/004
+ENTITÄT: klima_lufttemperatur
+BEZEICHNUNG: Worms - Lufttemperatur
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  jaehrliches_mittel_grad: 10,3
+  messperiode_start: 1951
+  messperiode_ende: 1980
+  waermster_monat: Juli
+  waermster_monat_temperatur_grad: 24
+  kaeltester_monat: Januar
+  kaeltester_monat_temperatur_grad: 3
+  tageshoechtswerte_jahresmittel_grad: 14
+  nachtwerte_jahresmittel_grad: 4
+  messstelle_hagenstrasse_2008_grad: 12,2
+  messstelle_leiselheim_2008_grad: 11,3
+  messstelle_hagenstrasse_2007_grad: 12,7
+  messstelle_leiselheim_2007_grad: 11,7
+  trend_beschreibung: "In den vergangenen Jahren wurde eine Steigerung des Jahresmittels der Lufttemperatur beobachtet"
+  waermeinseleffekt: "höhere innerstädtische Werte an Hagenstraße vs. ländlicher Leiselheim"
+GUELTIG_AB: 1951
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/005
+ENTITÄT: klima_niederschlag
+BEZEICHNUNG: Worms - Niederschlag
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  jaehrliches_mittel_mm: 608
+  messperiode_start: 1961
+  messperiode_ende: 1990
+  jaehrlich_2008_hagenstrasse_mm: 492,2
+  jaehrlich_2008_leiselheim_mm: 529,4
+  jaehrlich_2007_hagenstrasse_mm: 545,8
+  jaehrlich_2007_leiselheim_mm: 622,6
+  trockenster_monat: Februar
+  monat_meiste_niederschlaege: Juli
+  niederschlag_juli_zu_februar: 2 mal höher
+  bewertung: niedrig
+  prozentrang_deutschland: "im unteren Viertel; an 23% der Messstationen niedrigere Werte"
+  variabilitaet: "verhältnismäßig stark"
+  prozentrang_saisonale_schwankungen: "an 69% der Messstationen in Deutschland niedrigere Schwankungen"
+GUELTIG_AB: 1961
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/006
+ENTITÄT: klima_sonnenschein
+BEZEICHNUNG: Worms - Sonnenscheindauer
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  langjaehriges_mittel_stunden: 1709,7
+  messperiode_start: 1951
+  messperiode_ende: 1980
+  sonnenstunden_2007: 2007
+  abweichung_2007_prozent: "+17,4%"
+  sonnenstunden_2008: 1886
+  abweichung_2008_prozent: "+10,3%"
+  sonnenstunden_2009_abweichung_prozent: "+20,1%"
+  sonnenstunden_2010_abweichung_prozent: "+20,9%"
+  sonnenschein_aktuell_pro_tag: "ca. 4 Stunden"
+  trend_leiselheim: "Steigerung des Jahresmittels in den vergangenen Jahren beobachtet"
+GUELTIG_AB: 1951
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 55-worms/007
+ENTITÄT: geschichte_periode
+BEZEICHNUNG: Jungsteinzeit - Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  periode: Neolithikum
+  jahr_etwa: 5000
+  jahr_vor_christus: true
+  ereignis: "Ackerbauern und Viehzüchter besiedelten das Wormser Stadtgebiet erstmals"
+  siedlungskontinuitaet_forschung_alt: "ältere Forschung postulierte sehr hohe Siedlungskontinuität"
+  siedlungskontinuitaet_forschung_neu: "neuere Publikationen gehen von Wechsel zwischen besiedelten und siedlungsfreien Phasen aus"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/008
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Adlerbergkultur
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  fundort: Adlerberg (Anhöhe am Rhein im Süden von Worms)
+  gravures_gesamt: 25
+  grabungen_von_jahr: 1896
+  grabungen_bis_jahr: 1951
+  graeber_adlerbergkultur: 8
+  datierung_adlerbergkultur: 2300-2200 bis 1800
+  periode_adlerbergkultur: Frühbronzezeit
+  erforscher: "Karl Koehl (Wormser Arzt)"
+  begriff_adlerbergkultur_geht_zurueck_auf: Koehl
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 55-worms/009
+ENTITÄT: geschichte_periode
+BEZEICHNUNG: Römische Zeit - Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  periode_augusteische_zeit: "31 v. Chr. bis 14 n. Chr."
+  rom_gebietsangehoerigkeit: true
+  militaerstuetzpunkt_existenz: true
+  militaerstuetzpunkt_periode: "Beginn 1. Jahrhundert bis etwa 85 n. Chr."
+  zivilsiedlung_name: Borbetomagus
+  zivilsiedlung_herkunft_sprache: keltisch
+  zivilsiedlung_rang: "Hauptort der Civitas Vangionum"
+  zivilsiedlung_entwicklung: "entwickelte städtische Strukturen"
+GUELTIG_AB: 31
+GUELTIG_BIS: 85
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/010
+ENTITÄT: geschichte_periode
+BEZEICHNUNG: Fränkische Zeit und Karolinger - Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  erste_bischofsliste: "gesichert ab Bischof Berchtulf"
+  berchtulf_ereignis: "614 an der Pariser Synode teilgenommen"
+  heilige_fruehe_bischöfe: [Amandus, "Rupert von Salzburg"]
+  amandus_tod_etwa: 7
+  amandus_roemisch_katholisch: true
+  amandus_schutzpatron: "Bistum und Stadt Worms"
+  rupert_von_salzburg_tod: 718
+  karolinger_bedeutung: "Worms war eines der Machtzentren"
+  bischöfe_karolinger: "im 8. und 9. Jahrhundert dem Königshof nahestanden"
+  gebaeude_koenigs_pfalz: "alte Königsppalz, später Wormser Bischofshof"
+  bischofshof_nutzung_seit: Spätmittelalter
+  bischofshof_funktion: "Bischofsresidenz"
+GUELTIG_AB: 614
+GUELTIG_BIS: 900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/011
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Reichstag 829
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  typ: "Reichstag des Frankenreiches"
+  jahr: 829
+  ort: Worms
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/012
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Reichstag 926
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  typ: "Reichstag des Ostfrankenreiches"
+  jahr: 926
+  ort: Worms
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/013
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Hoftag 961
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: Mai 961
+  ort: Worms
+  aktion: "Otto der Große ließ seinen siebenjährigen Sohn Otto II. zum Mitkönig erheben"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/014
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Kaiser Otto I. Jahrestag Kaiserkrönung - Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: "2. Februar 965"
+  ereignis: "Otto I. feierte Jahrestag seiner Kaiserkrönung in Worms nach Rückreise von Italien"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/015
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Hoftag 966
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: August 966
+  ereignis: "Otto I. regelte in Worms die Vertretung für Zeit seiner neuerlichen Abwesenheit"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 55-worms/016
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Lehensvergabe 976
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 976
+  empfaenger: Otto von Worms
+  vergebung: "Herzogtum Kärnten zu Lehen"
+  vorbedingung: "neugeschaffenes Herzogtum"
+  vorher_teil_bayern: true
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/017
+ENTITÄT: geschichte_periode
+BEZEICHNUNG: Mittelalter - Worms unter den Saliern
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  periode: Salier
+  entwicklung: "Beginn des Aufstiegs der Stadt zu ihrer größten Blüte"
+  sachsenkrieg_rolle: "1073/74 blieb Stadt nach anfänglichem Desaster auf Seite König Heinrich IV."
+  bischof_vertriebung: "Bischof Adalbert II. (auf Gegnerseite) aus Bischofssitz vertrieben"
+  koenig_schutz: "Stadt gewährte König Schutz ihrer Mauern"
+  privileg_koenig: "18. Januar 1074 Zollfreiheit für Reihe von Orten im Reich"
+  koenig_stadtherrschaft: "König übernahm faktisch Stadtherrschaft und hielt sich oft hier auf"
+GUELTIG_AB: 1073
+GUELTIG_BIS: 1125
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/018
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Hoftag 1076 - Kirchenstreit
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: 1076
+  ort: Worms
+  ereignis: "Heinrich IV. erklärte Papst Gregor VII. für abgesetzt"
+  folge_unmittelbar: "belegt mit Kirchenbann"
+  folge_folge: "einer der Auslöser des Gangs nach Canossa"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/019
+ENTITÄT: vertrag_oder_konkordiat
+BEZEICHNUNG: Wormser Konkordat
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1122
+  benannt_nach: Worms
+  geschlossen_in: Worms
+  zeitliche_folge: "In dieser Zeit bildet sich die städtische Verfassung mit selbständig agierendem Stadtrat"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/020
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Freiheitsrechte Kaiser Friedrich I. Barbarossa
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1184
+  kaiser: Friedrich Barbarossa
+  aktion: "räumte der Stadt umfangreiche Freiheitsrechte ein"
+  bedeutung: "gilt als Begründung der Reichsstadt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/021
+ENTITÄT: geschichte_konflikt
+BEZEICHNUNG: Konflikt Bischof vs. Stadtrat Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  periode_beginn: "12. Jahrhundert"
+  periode_ende: "16. Jahrhundert"
+  beteilte: [Bischof, Stadtrat]
+  streitpunkt: "faktische Herrschaft über die Stadt"
+  gesamtdauer_jahren: ca.
+  ausgang: "Stadt ging als Gewinnerin hervor"
+  entscheidung_friedrich_iii: "1489 entschied Kaiser Friedrich III., dass die Stadt zu Huldigungseid gegenüber Bischof nicht mehr verpflichtet sei"
+GUELTIG_AB: 1150
+GUELTIG_BIS: 1489
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/022
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Huldigungseid König Maximilian I.
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1494
+  koenig: Maximilian I.
+  bedeutung: "Spätestens zu diesem Zeitpunkt war Worms Freie Reichsstadt"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/023
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Reichstag 1495 - Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1495
+  koenig: Maximilian
+  einfuehrungen: ["Reichssteuer", "Reichskammergericht", "Fehdeverbot des Ewigen Landfriedens"]
+  kontext: "Zu diesem Zeitpunkt hatte die Stadt den Höhepunkt ihrer wirtschaftlichen Blüte schon überschritten"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/024
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Bürgeraufstand 1512/13 - Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: 1512-1513
+  folge: "zerrütteten die Finanzen der Stadt weiter"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/025
+ENTITÄT: geschichte_konflikt
+BEZEICHNUNG: Fehde mit Franz von Sickingen - Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: 1515-1519
+  gegner: Franz von Sickingen
+  folge: "zerrütteten die Finanzen der Stadt weiter"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/026
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Reichstag 1521 - Martin Luther
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia und https://www.regionalgeschichte.net/rheinhessen/worms.html | Landesportal
+EIGENSCHAFTEN:
+  jahr: 1521
+  ort: Worms
+  ereignis: "Martin Luther verteidigte seine Schriften und reformatorischen Kenntnisse gegen Kaiser Karl V."
+  luthers_rolle: "Wittenberger Theologieprofessor"
+  bedeutung_luther: "Ideen hielten die Öffentlichkeit schon seit einigen Jahren in Atem"
+  stadt_rolle: "Worms wurde Zentrum und Experimentierfeld der Reformation"
+  erste_deutsche_evangelische_messe: 1524
+  tyndale_englische_bibel: 1526
+  tyndale_werk: "erste englische Version des Neuen Testaments"
+  wormser_propheten: 1527
+  wormser_propheten_autor: ["Ludwig Hätzer", "Hans Denck"]
+  wormser_propheten_beschreibung: "Übersetzung der Prophetenbücher des Alten Testaments, erste protestantische Prophetenübersetzung"
+  wormser_bibel: 1529
+  wormser_bibel_beschreibung: "erste deutschsprachige Vollbibel der Reformationszeit"
+  drucker_all: "Peter Schöffer der Jüngere"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/027
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Reformation - Worms Evangelisch
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: nach 1525
+  ereignis: "Worms wurde evangelisch"
+  bischoef_geistliche_rechte: "Bischof und Geistliche behielten ihre Sonderrechte und den Dom"
+  katholische_glaeuebige: "konnten nicht Mitglied im Stadtrat werden"
+  bauernkrieg_kontext: "Versuch des Wormser Stadtrats 1525 alle bischöflichen Privilegien zu beseitigen scheiterte"
+GUELTIG_AB: 1525
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/028
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Angebot Kurfürst Karl I. Ludwig - Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: 1659
+  kurfuerst: "Karl I. Ludwig von der Pfalz"
+  angebot: ["Worms zur Hauptstadt der Kurpfalz machen", "Universität Heidelberg nach Worms verlegen"]
+  annahme: false
+  begruendung: "Der Rat der Stadt und der Bischof, insbesondere die althergebracht dort Berechtigten, konnten dies nicht gutheißen"
+  kontext: "Versuch des Kurfürsten, verstärkt Einfluss in der Stadt zu gewinnen"
+  weitere_hauptstadte: ["Heidelberg", "Mannheim", "Frankenthal"]
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/029
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Zerstörung Pfälzischer Erbfolgekrieg - Worms 1689
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: 1689
+  krieg: Pfälzischer Erbfolgekrieg
+  kraefte: "Truppen König Ludwig XIV."
+  zerstoerung: umfassend
+  bericht_zeitgenosse: "Elieser Liebermann (Sohn von Juspa Schammes)"
+  bericht_veroeffentlichung: "bei Herausgabe des Werkes Ma'asseh nissim seines Vaters als Abschlusskapitel"
+  bevoelkerung_vertreibung: true
+  wiederaufbau_zeit: "etwa zehn Jahre"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/030
+ENTITÄT: geschichte_periode
+BEZEICHNUNG: Französische Herrschaft - Worms 1792-1814
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  periode_von: 1792
+  periode_bis: 1814
+  zugehoerigkeit_1: "Erste Französische Republik"
+  zugehoerigkeit_2: "Erstes Kaiserreich"
+GUELTIG_AB: 1792
+GUELTIG_BIS: 1814
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/031
+ENTITÄT: geschichte_periode
+BEZEICHNUNG: Großherzogtum Hessen - Worms 1815-1946
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  periode_von: 1815
+  periode_bis: 1946
+  begruendung: "Wiener Kongress"
+  staat: "Großherzogtum Hessen (Hessen-Darmstadt)"
+  teil_von: "Provinz Rheinhessen"
+GUELTIG_AB: 1815
+GUELTIG_BIS: 1946
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/032
+ENTITÄT: kartografisches_werk
+BEZEICHNUNG: Atlas géometrique de la ville de Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  ersteller: "Konrad Schredelseker (Geometer)"
+  berufsbezeichnung: Geometer
+  wann: 1809-1810
+  beschreibung: "Katasterplan von Worms"
+  sprache: französisch
+  titel_deutsch: "Atlas géometrique de la ville de Worms"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/033
+ENTITÄT: verwaltung_struktur
+BEZEICHNUNG: Kreisverfassung Rheinhessen - Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: 1874
+  begruendung: "Reform der Kreisverfassung nach preußischem Vorbild"
+  betroffenes_gebiet: "Provinz Rheinhessen"
+  kreis_neugliederung: 5
+  kreise_liste: ["Alzey", "Bingen", "Mainz", "Worms", "Oppenheim"]
+  gueltigkeitsdauer_jahre: "mehr als sechs Jahrzehnte"
+  gueltig_ab: 1874
+  gueltig_bis: "mindestens 1940"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/034
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Gebietsreform Volksstaat Hessen - Worms 1938
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: "1. November 1938"
+  aufsloesungen_provinzen: ["Starkenburg", "Oberhessen", "Rheinhessen"]
+  grund_provinzaufloesungen: 1937
+  neuschaffung: "Landkreis Worms"
+  eingemeindete_rechtsrheinische_gemeinden: ["Lampertheim", "Bürstadt", "Hofheim", "Biblis"]
+  verselbstaendigung: ["Mainz", "Worms"]
+  verselbstaendigungs_typ: "Stadtkreise"
+  gueltig_bis: Kriegsende 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/035
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Bombenangriff 21. Februar 1945 - Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: "21. Februar 1945"
+  aggressor: Großbritannien
+  flugtakt: britischer Luftangriff
+  ziele_planung: ["Hauptbahnhof (Rand Innenstadt)", "Chemiefabriken (südwestlich Stadtzentrum)"]
+  zerstoerung_umfang: "weitgehend zerstört"
+  beeintraechtigung: "zerst zerstörte auch weite Teile des Stadtzentrums"
+  zerstoerte_gebaeude: "Dreifaltigkeitskirche (1709-1725), völlig ausgebrannt"
+  gebaeude_erhalten: "Außenmauern und Teile des Turmes"
+  in_brand_gesetzt: "auch der Wormser Dom"
+  tote: 239
+  obdachlos: ca. 15000
+  zerstörter_gebäudebestand_prozent: 35%
+  beschaedigter_gebäudebestand_prozent: 29%
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/036
+ENTITÄT: geschichte_ereignis
+BEZEICHNUNG: Bombenangriff 18. März 1945 - Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: "18. März 1945"
+  aggressor: "Vereinigte Staaten"
+  flugtakt: US-amerikanischer Luftangriff
+  tote: 141
+  kontext: "zweiter Bombenangriff nach 21. Februar 1945"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/037
+ENTITÄT: geschichte_periode
+BEZEICHNUNG: Regierungsbezirk Rheinhessen-Pfalz - Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  periode_von: 1968
+  periode_bis: 2000
+  grund_aufloesungen_1946: "vormalige hessische Provinz Rheinhessen wurde 1946 zum Regierungsbezirk Rheinhessen des damals neu gegründeten Landes Rheinland-Pfalz"
+GUELTIG_AB: 1968
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/038
+ENTITÄT: juedische_gemeinde
+BEZEICHNUNG: Jüdisches Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia und https://www.regionalgeschichte.net/rheinhessen/worms.html | Landesportal
+EIGENSCHAFTEN:
+  stellung: "herausragende Stellung im Mittelalter und in der frühen Neuzeit"
+  rang: "eine der bedeutendsten im Heiligen Römischen Reich"
+  schum_staedteangehoerigkeit: true
+  schum_partner: ["Mainz", "Speyer"]
+  erste_beleg_etwa: 960
+  handel_aktivitaet: "besonders im Fernhandel tätig"
+  kaiserliche_privilegien_ab: 11
+  kaiserliche_privilegien: ["Zollfreiheiten", "Handelsfreiheit im ganzen Reichsgebiet"]
+  talmudschule: true
+  talmudschule_schueler_bekannt: Raschi
+  hebr_eigenbezeichnung: Warmaisa
+  gemeinde_eigenbezeichnung_hebr: "Kehilla Kedoscha"
+  gemeinde_eigenbezeichnung_deutsch: "Heilige Gemeinde"
+  gemeinde_eigenbezeichnung_alternativ: "Klein Jerusalem"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/039
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Worms (erste Synagoge)
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1034
+  einweihung: 1034
+  zerstoerungen_jahre: [1096, 1146, 1349, 1615, 1689, 1938]
+  neubau_spaetes_12_jahrhundert: true
+  ausbau_spaetes_12_jahrhundert: true
+  zerstoerung_1096: "Pogrom beim Volkskreuzzug (erste Welle des Ersten Kreuzzuges)"
+  zerstoerung_1349: "während Judenverfolgungen zur Zeit des Schwarzen Todes wurde die jüdische Gemeinde vernichtet"
+  wiederaufbau_1353: "Im Mai 1353 gestattete man Juden die Ansiedlung im Interesse des Stadtwohls"
+  erneut_vertrieben: 1615
+  rueckkehr: 1616
+  zerstoerung_1689: "mit Zerstörung der Stadt durch die Franzosen"
+  zerstoerung_1938: "während der Novemberpogrome 1938 weitgehend zerstört"
+  wiederaufbau_staat_von: 1958
+  wiederaufbau_staat_bis: 1961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/040
+ENTITÄT: friedhof
+BEZEICHNUNG: Heiliger Sand (jüdischer Friedhof Worms)
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  superlativ: "ältester erhaltener jüdischer Friedhof in Europa"
+  bestand_seit_mindestens: 1058
+  bestand_seit_sicherer_beleg: 1076
+  erhalten_1938: true
+  erhalten_1945: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/041
+ENTITÄT: ritualbad
+BEZEICHNUNG: Mikwe Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  errichtet: 1185-1186
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/042
+ENTITÄT: gebetbuch
+BEZEICHNUNG: Wormser Machsor
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1272
+  bedeutung: "älteste schriftliche Zeugnis in jiddischer Sprache"
+  wert_kulturell: "Gebetbuch erhalten geblieben"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/043
+ENTITÄT: geschichte_juden
+BEZEICHNUNG: Judenverfolgung Pogrom 1096 - Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: 1096
+  krieg_kontext: "Volkskreuzzug (erste Welle des Ersten Kreuzzuges)"
+  trotz_privileg: "Trotz ihrer privilegierten Stellung kam es zum Pogrom"
+  opfer: "Hunderte Juden wurden ermordet oder begingen Suizid, um sich der Zwangstaufe zu entziehen"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/044
+ENTITÄT: geschichte_juden
+BEZEICHNUNG: Judenverfolgung Zweiter Kreuzzug - Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann_etwa: 1147
+  ereignis: "Zweiter Kreuzzug"
+  wormser_juden_handlung: "konnten sich rechtzeitig in Sicherheit bringen"
+  folge_kaiserlicher_schutz: "Kaiserlicher Schutz wurde wiederhergestellt, Juden siedelten sich erneut an"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 55-worms/045
+ENTITÄT: geschichte_juden
+BEZEICHNUNG: Judenverfolgung Schwarzer Tod - Worms 1349
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: 1349
+  ereignis: "Judenverfolgungen zur Zeit des Schwarzen Todes"
+  folge: "jüdische Gemeinde in Worms wurde vernichtet"
+  wiederansiedlung: "Mai 1353 gestattete man Juden die Ansiedlung im Interesse des Stadtwohls"
+  wiederansiedlung_bedingung: "Erwerb von Grundbesitz außerhalb des Ghettos nicht gestattet"
+  neuanlage: "Judengasse rund um die Synagoge"
+  bedeutungsrueckgang: "jüdische Gemeinde erreichte ihre frühere Bedeutung nie mehr"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/046
+ENTITÄT: geschichte_juden
+BEZEICHNUNG: Vertreibung und Rückkehr - Worms 1615/16
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  vertreibung: 1615
+  rueckkehr: 1616
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/047
+ENTITÄT: geschichte_juden
+BEZEICHNUNG: Juden in Worms im 19. Jahrhundert
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_19jh_etwa: 800
+  jahr_buergerliche_gleichstellung: 1848
+  gleichstellung_mit: "Christen"
+  erster_jüdischer_bürgermeister: "Ferdinand Eberstadt"
+  bürgermeister_jahr: 1849
+  vorgaenger: "Georg Friedrich Renz"
+  vorgaenger_grund_abloesung: "legte sein Amt nieder"
+  kandidaten_eberstadt: 3
+  nicht_gewaehlt_kandidat_1: "Johann Philipp Bandel (Weinhändler)"
+  nicht_gewaehlt_grund_1: "der Regierung in Darmstadt zu radikal eingestellt"
+  nicht_gewaehlt_kandidat_2: "Ludwig Blenker (Bürgerwehrobrist)"
+  nicht_gewaehlt_grund_2: "zu übermütig ohne politische Weitsicht"
+  eberstadt_ernennung: "Handelsmann Eberstadt zu Beginn des Jahres 1849 als Bürgermeister vom Großherzog ernannt"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/048
+ENTITÄT: geschichte_juden
+BEZEICHNUNG: Juden in Worms 1933-1945
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_1933: "gut 1000"
+  abzug_nach_1933: "mehrheitlich nach Machtantritt der Nazis wegzogen und teilweise emigrierten"
+  synagoge_1938: "alte Synagoge wurde während der Novemberpogrome 1938 weitgehend zerstört"
+  friedhof_heiliger_sand: "blieb erhalten"
+  levy_synagoge_1938: "überstand die Pogrome von 1938 weitgehend unbeschädigt"
+  levy_synagoge_1945: "schwer beschädigt durch einen der Fliegerangriffe"
+  levy_synagoge_abriss: 1947
+  deportation: "In Worms verbliebene rund 300 Juden wurden in Konzentrationslager deportiert"
+  ueberlebensrate: "nur wenige überlebten"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/049
+ENTITÄT: geschichte_juden
+BEZEICHNUNG: Juden in Worms nach 1945
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wiederansiedlung: "Nach dem Ende des Zweiten Weltkrieges lebten in der Stadt wieder vereinzelt Juden"
+  gemeindeleben: "es gab aber kein jüdisches Gemeindeleben mehr"
+  synagoge_wiederaufbau_von: 1958
+  synagoge_wiederaufbau_bis: 1961
+  synagoge_wiederaufbau_traeger: Staat
+  museum_eroffnung_jahr: 1982
+  museum_name: "jüdisches Museum im Raschi-Haus"
+  museum_gebaeude_alter: "Kellergewölbe aus dem 14. Jahrhundert"
+  einwohner_21jh: "mehr als hundert Juden"
+  herkunft_21jh: "größtenteils Einwanderer aus der früheren Sowjetunion"
+  gemeinde_zugehörigkeit: "Mitglieder der jüdischen Gemeinde in Mainz"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/050
+ENTITÄT: weltkulturerbe
+BEZEICHNUNG: SchUM-Städte - UNESCO-Weltkulturerbe
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  staedten: ["Worms", "Speyer", "Mainz"]
+  status: "UNESCO-Weltkulturerbe"
+  auszeichnung_grund: "mittelalterliches jüdisches Erbe"
+  auszeichnung_jahr: 2021
+  worms_komponenten: ["Synagogenbezirk", "Jüdischer Friedhof"]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/051
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Eingemeindung Neuhausen
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: "1. April 1898"
+  eingemeindete_orte: ["Neuhausen"]
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/052
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Eingemeindung Oktober 1898
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: "1. Oktober 1898"
+  eingemeindete_orte: ["Hochheim", "Pfiffligheim"]
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/053
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Eingemeindung 1942
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: "1. April 1942"
+  eingemeindete_orte: ["Herrnsheim", "Horchheim", "Leiselheim", "Weinsheim"]
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/054
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Eingemeindung 1969
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: "7. Juni 1969"
+  eingemeindete_orte: ["Abenheim", "Heppenheim an der Wiese", "Ibersheim", "Pfeddersheim", "Rheindürkheim", "Wiesoppenheim"]
+  umgemeindung: "Gebietsteil der Stadt Osthofen mit 181 Einwohnern"
+  zuwachs_einwohner: 15000
+  einwohner_nach: 78000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/055
+ENTITÄT: eingemeindung
+BEZEICHNUNG: Eingemeindung Rosengarten
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  wann: Oktober 1937
+  gebildet_aus: ["Teile der Gemarkungen Bürstadt", "Hofheim", "Lampertheim"]
+  ortschaft: "Erbhöfeweiler Rosengarten"
+  eingemeindet_nach: "Stadt Worms"
+  verlust_1945: "Im Zuge der Grenzziehung zwischen französischer und amerikanischer Besatzungszone fiel er 1945 dem Land Groß-Hessen zu"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 55-worms/056
+ENTITÄT: oberbuergermeister
+BEZEICHNUNG: Adolf Kessel
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: "1. Juli 2019"
+  partei: CDU
+  wahl_datum_stichwahl: "18. November 2018"
+  wahl_opponent: "Michael Kissel (SPD)"
+  vorgaenger: "Michael Kissel"
+  vorgaenger_amtszeit_ende: 2018
+  ankuendigung_rueckzug_datum: "Ende April 2026"
+  geplanter_rueckzug: "31. Dezember 2026"
+  geplante_aktion_danach: Ruhestand
+  direktwahl_september_2026: "13. September 2026"
+  direktwahl_ergebnis: "keiner der vier Bewerber erreichte ausreichende Mehrheit"
+  stichwahl_angesetzt: "27. September 2026"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/057
+ENTITÄT: bürgermeisterin
+BEZEICHNUNG: Stephanie Lohr
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  position_aktuell: "Bürgermeisterin (Vize)"
+  partei: CDU
+  kandidatur_oberbürgermeister: true
+  obobürgermeister_wahlgang_1_ergebnis_prozent: 44,1
+  oberbürgermeister_stichwahl_datum: "27. September 2026"
+  oberbürgermeister_stichwahl_ergebnis_prozent: 53
+  oberbürgermeister_stichwahl_ergebnis_status: "vorläufiges Ergebnis"
+  oberbürgermeister_stichwahl_opponent: "Timo Horst (SPD)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/058
+ENTITÄT: stadtentwicklungsdezernent
+BEZEICHNUNG: Timo Horst
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  position: "Stadtentwicklungsdezernent"
+  partei: SPD
+  kandidatur_oberbürgermeister: true
+  oberbürgermeister_wahlgang_1_ergebnis_prozent: 40,5
+  oberbürgermeister_stichwahl_opponent: "Stephanie Lohr (CDU)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/059
+ENTITÄT: dom_gebaeude
+BEZEICHNUNG: St. Peter Dom (Wormser Dom)
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  typ: Dom
+  patrongott: Petrus (Heiliger)
+  schluessel_symbol: "Schlüssel Petri"
+  ist_kaiserdom: true
+  kaiserdom_rang: "einer der drei romanischen Kaiserdome in Deutschland"
+  kaiserdom_partnerdoeme: ["Mainzer Dom", "Speyerer Dom"]
+  beschaedigung_1945: "In Brand gesetzt bei britischem Luftangriff vom 21. Februar 1945"
+  schaeden: "mehrere Brandschäden"
+  wappen_enthaelt_symbol: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/060
+ENTITÄT: kirchengebaeude
+BEZEICHNUNG: Dreifaltigkeitskirche (Marktkirche)
+ORTSTEIL_BEZUG: Innenstadt
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1709-1725
+  funktion_original: "Reformationsgedächtniskirche"
+  besch aedigungsereignis: "britischer Luftangriff 21. Februar 1945"
+  schaeden: "völlig ausgebrannt"
+  erhalten: ["Außenmauern", "Teile des Turmes"]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/061
+ENTITÄT: fluss
+BEZEICHNUNG: Rhein
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  lage_worms: "linkes/westliches Ufer"
+  beschreibung_worms_bedeutung: "war hier weitgehend hochwasserfrei und als Anlegestelle gut geeignet"
+  fluesse_muendung_nord: Pfrimm
+  fluesse_muendung_sued: Eisbach
+  fluesse_muendung_sued_weiterer: Eckbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/062
+ENTITÄT: fluss
+BEZEICHNUNG: Pfrimm
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  muendung: "mündet in den Rhein"
+  lage_muendung: "im nördlichen Stadtgebiet von Worms"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/063
+ENTITÄT: fluss
+BEZEICHNUNG: Eisbach (auch Altbach)
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  andere_name: Altbach
+  muendung: "mündet in den Rhein"
+  lage: "südliche Stadtteile werden durchflossen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/064
+ENTITÄT: fluss
+BEZEICHNUNG: Eckbach
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  lauf: Unterlauf
+  lage: "äußerster Südosten der Stadt"
+  muendung: "mündet in den Rhein"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/065
+ENTITÄT: gebirge_oder_bergkette
+BEZEICHNUNG: Pfälzerwald
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  lage_zu_worms: "Südwesten, 15 km entfernt"
+  beschreibung: "Ausläufer"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/066
+ENTITÄT: landstrich
+BEZEICHNUNG: Wonnegau
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  lage_zu_worms: Westen
+  beschreibung: "Hügellandschaft"
+  herkunft_name: "vom Namen Vangionen abgeleitet, vom Volksmund in verständlicheres Wonnegau umgesetzt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/067
+ENTITÄT: landstrich
+BEZEICHNUNG: Odenwald
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  lage_zu_worms: "jenseits des Rheins, östlich"
+  teil_von: "hessischer Teil"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/068
+ENTITÄT: landscape_feature
+BEZEICHNUNG: Oberrheinische Tiefebene
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  lage_worms: "Ostteil von Rheinland-Pfalz liegt hier"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/069
+ENTITÄT: landscape_feature
+BEZEICHNUNG: Ibersheimer Wörth
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  charakterisierung: "ehemalige Flussinsel"
+  lage: "nördlicher Stadtteil Ibersheim"
+  hoehe_ueberfluss: "86,5 m ü. NHN"
+  beschreibung: "niedrigste Stelle von Worms"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/070
+ENTITÄT: hoehenpunkt
+BEZEICHNUNG: Höchste Stelle Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  hoehe_meter: 167
+  lage: "westliche Stadtgrenze zwischen Stadtteil Pfeddersheim und Nieder-Flörsheim"
+  lage_gen auer: "unmittelbar an der Nieder-Flörsheimer Straße (Landesstraße 443)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/071
+ENTITÄT: stadtteil
+BEZEICHNUNG: Ibersheim
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "7. Juni 1969"
+  einwohner: 714
+  lage: "außerhalb im Norden (13 km)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/072
+ENTITÄT: stadtteil
+BEZEICHNUNG: Pfeddersheim
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "7. Juni 1969"
+  eingemeindung_status: "Stadt"
+  einwohner: 7025
+  lage: "außerhalb im Westen (7 km)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/073
+ENTITÄT: stadtteil
+BEZEICHNUNG: Leiselheim
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "1. April 1942"
+  einwohner: 2104
+  lage: "außerhalb im Westen (4 km)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/074
+ENTITÄT: stadtteil
+BEZEICHNUNG: Herrnsheim
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "1. April 1942"
+  einwohner: 6270
+  lage: "im Norden der Stadt (5 km)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/075
+ENTITÄT: bauwerk_bruecke
+BEZEICHNUNG: Nibelungenbrücke Worms (erste Brücke)
+ORTSTEIL_BEZUG: Stadtgebiet
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  alt_bezeichnung: "alte Nibelungenbrücke"
+  traegt_auch: "Nibelungenturm"
+  verlauf: "über den Rhein"
+  bundesstrasse: "B 47"
+  architektur_turmstil: neoromanisch
+  turmbauer: "Karl Hofmann (Stadtbaumeister)"
+  turmbau_von: 1897
+  turmbau_bis: 1900
+  turmhoehe_meter: 53
+  gegenueberseite_turm: "etwas kleinerer zweiter Turm"
+  gegenueberseite_turm_schaedigung: "1945 kurz vor Kriegsende beschädigt"
+  gegenueberseite_turm_abriss: "beim Neubau der Brücke abgetragen"
+  stadt_wahrnehmung: "prägt das Wormser Stadtbild"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/076
+ENTITÄT: bauwerk_bruecke
+BEZEICHNUNG: Nibelungenbrücke Worms (zweite Brücke)
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit_fertigstellung: 2008
+  verlauf_bundesstrasse: "B 47"
+  verlauf: "über den Rhein"
+  fahrspuren: vierspurig
+  anbindung_zu: "Südhessen und rechtsrheinische Autobahnen 5 und 67"
+  vorgaenger: "Nibelungenbrücke alt"
+  koordination: "nach vollendeter Sanierung der alten Nibelungenbrücke stehen seit September 2013 auf beiden Brücken insgesamt vier Fahrstreifen zur Verfügung"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/077
+ENTITÄT: bauwerk_bruecke
+BEZEICHNUNG: Rheinbrücke Worms (Eisenbahnbrücke)
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  funktion: "Eisenbahnbrücke"
+  traegt_strecke: "Nibelungenbahn"
+  verlauf: "über den Rhein"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/078
+ENTITÄT: bauwerk_muehle
+BEZEICHNUNG: Nibelungenmühle
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "Weltliche Bauwerk in Worms"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 55-worms/079
+ENTITÄT: bauwerk_muehle
+BEZEICHNUNG: Ludwigsmühle
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "Weltliche Bauwerk in Worms"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 55-worms/080
+ENTITÄT: bauwerk_turm
+BEZEICHNUNG: Wasserturm Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  typ: Wasserturm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 55-worms/081
+ENTITÄT: denkmal
+BEZEICHNUNG: Hagendenkmal
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  bezug: "zur Stadt Worms"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 55-worms/082
+ENTITÄT: denkmal
+BEZEICHNUNG: Ludwigsdenkmal
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  bezug: "zur Stadt Worms"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 55-worms/083
+ENTITÄT: denkmal
+BEZEICHNUNG: Lutherdenkmal
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  bezug: "Martin Luther und Wormser Reichstag 1521"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 55-worms/084
+ENTITÄT: museum
+BEZEICHNUNG: Nibelungenmuseum
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  thema: "Nibelungen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 55-worms/085
+ENTITÄT: museum
+BEZEICHNUNG: Jüdisches Museum der Stadt Worms (Raschi-Haus)
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 1982
+  location: "Raschi-Haus"
+  gebaeude_teil: "Kellergewölbe aus dem 14. Jahrhundert"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/086
+ENTITÄT: partnerschaft_stadt
+BEZEICHNUNG: St Albans (Vereinigtes Königreich)
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  partnerstaat: "Vereinigtes Königreich"
+  seit_jahr: 1957
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/087
+ENTITÄT: partnerschaft_stadt
+BEZEICHNUNG: Auxerre (Frankreich)
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  partnerstaat: Frankreich
+  seit_jahr: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/088
+ENTITÄT: partnerschaft_stadt
+BEZEICHNUNG: Parma (Italien)
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  partnerstaat: Italien
+  seit_jahr: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/089
+ENTITÄT: partnerschaft_stadt
+BEZEICHNUNG: Tiberias (Israel)
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  partnerstaat: Israel
+  seit_jahr: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/090
+ENTITÄT: partnerschaft_stadt
+BEZEICHNUNG: Bautzen (Deutschland)
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  partnerstaat: Deutschland
+  seit_jahr: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/091
+ENTITÄT: partnerschaft_stadt
+BEZEICHNUNG: Mobile (Vereinigte Staaten)
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  partnerstaat: "Vereinigte Staaten"
+  seit_jahr: 1998
+  erste_verbindungen: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/092
+ENTITÄT: partnerschaft_stadt
+BEZEICHNUNG: Ningde (Volksrepublik China)
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  partnerstaat: "Volksrepublik China"
+  seit_jahr: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/093
+ENTITÄT: staedtefreundschaft
+BEZEICHNUNG: Speyer
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  bestand_seit: 1208
+  erneuerung_datum: "November 2008"
+  erneuerung_anlass: "800-jähriges Jubiläum"
+  beteiligung: ["Zahlreiche Stadträte aus beiden Städten", "Oberbürgermeister Michael Kissel (Worms)", "Oberbürgermeister Werner Schineller (Speyer)"]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/094
+ENTITÄT: verband_oder_netzwerk
+BEZEICHNUNG: Most Ancient European Towns Network
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  worms_status: "einziges deutsches Mitglied"
+  beschreibung: "ehemaliger Arbeitskreis der ältesten Städte Europas"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 55-worms/095
+ENTITÄT: verband_oder_netzwerk
+BEZEICHNUNG: Bund der Lutherstädte
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  worms_status: "Gründungsmitglied"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 55-worms/096
+ENTITÄT: verband_oder_netzwerk
+BEZEICHNUNG: Arbeitsgemeinschaft der Europäischen Nibelungenstädte
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  worms_status: "Gründungsmitglied"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 55-worms/097
+ENTITÄT: verband_oder_netzwerk
+BEZEICHNUNG: Klima-Bündnis
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  worms_status: "Mitglied seit 2006"
+  beschreibung: "weltweites Klima-Bündnis"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 55-worms/098
+ENTITÄT: verband_oder_netzwerk
+BEZEICHNUNG: Rat der Gemeinden und Regionen Europas
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  worms_status: "Mitglied der deutschen Sektion seit 2012"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 55-worms/099
+ENTITÄT: wirtschaft
+BEZEICHNUNG: Worms - Bruttoinlandsprodukt
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 2016
+  bip_millionen_euro: 2927
+  bip_pro_kopf_euro: 35545
+  bip_pro_kopf_rheinland_pfalz: 34118
+  bip_pro_kopf_deutschland: 38180
+  bip_je_erwerbsperson_euro: 66798
+  bip_wachstum_nominell_prozent: 0,6
+  bip_wachstum_vorjahr_prozent: 2,4
+  erwerbstaetige: 43800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/100
+ENTITÄT: wirtschaft
+BEZEICHNUNG: Worms - Arbeitsmarkt
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  arbeitslosen_quote_dezember_2018_prozent: 6,1
+  rheinland_pfalz_durchschnitt_dezember_2018_prozent: 4,1
+  betragsicherheit_arbeitslose_ueber_durchschnitt: true
+  pendler_einpendler_prozent: 45
+  pendler_auspendler_ziele: ["Ludwigshafen", "Mannheim", "Mainz", "Frankfurter Raum"]
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/101
+ENTITÄT: futuresatlas
+BEZEICHNUNG: Zukunftsatlas 2016 - Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  worms_platz_von_gesamt: "189 von 402"
+  vergleichsgruppe: "Landkreise, Kommunalverbände und kreisfreie Städte in Deutschland"
+  klassifizierung: "Orte mit ausgeglichenem Chancen-Risiko Mix für die Zukunft"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/102
+ENTITÄT: futuresatlas
+BEZEICHNUNG: Zukunftsatlas 2025 - Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  worms_platz_von_gesamt: "264 von 400"
+  vergleichsgruppe: "Landkreise, Kommunalverbände und kreisfreie Städte in Deutschland"
+  trend_von_2016: "Verschlechterung um 75 Plätze"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/103
+ENTITÄT: industrie_oder_gewerbe
+BEZEICHNUNG: Wormser Liebfrauenmilch
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  typ: Wein
+  international_bekannt: true
+  regional: true
+  tradition: "traditioneller Weinbau in und um Worms"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/104
+ENTITÄT: industrie_oder_gewerbe
+BEZEICHNUNG: Weinbau - Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  rebfläche_ha_2022: 1649
+  platz_rheinhessen: "drittgrößte Weinbaugemeinde in Rheinland-Pfalz"
+  platz_rheinhessen_region: "größte Weinbaugemeinde im Weinbaugebiet Rheinhessen"
+  tradition: "traditioneller Weinbau"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/105
+ENTITÄT: industrie_oder_gewerbe
+BEZEICHNUNG: Mälzereien - Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "befindet sich in Worms eine der größten Mälzereien Europas"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 55-worms/106
+ENTITÄT: infrastruktur_projekt
+BEZEICHNUNG: Südtangente B 47 - Worms Ortsumgehung
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  funktion: "Ortsumgehung"
+  bundesstrasse: "B 47"
+  baubeginn: 2016
+  status_2020: "läuft immer noch"
+  status_2026: "Status unklar"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 55-worms/107
+ENTITÄT: infrastruktur_projekt
+BEZEICHNUNG: Westtangente - Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  lückenschluss_von: B 9
+  lückenschluss_bis: B 47n
+  status: "noch in der Planungsphase"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 55-worms/108
+ENTITÄT: infrastruktur_projekt
+BEZEICHNUNG: B 9 Ausbau - Worms Nord
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  massnahmen: ["schrittweise Ausbau vierspurig", "Ergänzung um Parallelentlastung im Gewerbegebiet"]
+  problem: "zwei-spurige Engstelle unter Brücke der Bahnstrecke nach Biblis und Bensheim"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 55-worms/109
+ENTITÄT: infrastruktur_projekt
+BEZEICHNUNG: S-Bahn RheinNeckar - Worms Anschluss
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  erstellung: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/110
+ENTITÄT: kulturzentrum
+BEZEICHNUNG: Das Wormser (Kulturzentrum und Gastspielhaus)
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit_von: 2007
+  bauzeit_bis: 2011
+  funktion: "Kulturzentrum und Gastspielhaus"
+  urspruenglicher_name: "Städtisches Spiel- und Festhaus Worms"
+  umbenennungsdatum: "29. Januar 2011"
+  neuer_name: "Das Wormser"
+  programm: ["Schauspiel", "Konzerte", "Operette", "Musical", "Ballett", "Kindertheater"]
+  nachfolge_projekt_geplant: "sollte um ein Hotel ergänzt werden"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/111
+ENTITÄT: sportverein
+BEZEICHNUNG: VfR Wormatia Worms 08
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  typ: Fußballverein
+  gruendung_ungefaehr: 1908
+  erfolgsbilanz: "sechsmal Südwestmeister"
+  liga_rang_bundesliga: "Gründungsmitglied der 2. Bundesliga"
+  aktuelle_liga: "fünftklassige Oberliga Rheinland-Pfalz/Saar"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/112
+ENTITÄT: sportverein
+BEZEICHNUNG: Turngemeinde 1846 Worms (TGW)
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1846
+  mitglieder_etwa: 3000
+  rang_worms: "größter Sportverein in Worms"
+  rang_rheinland_pfalz: "einer der größten in Rheinland-Pfalz"
+  abteilungen: 19
+  olympiateilnehmer: 4
+  bekannteste_abteilung: TGW-Hockey e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/113
+ENTITÄT: sportverein
+BEZEICHNUNG: TV 1863 Leiselheim
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  typ: Tischtennisverein
+  rang: "erfolgreichster Tischtennisverein Rheinhessens"
+  geschichte: gegründet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 55-worms/114
+ENTITÄT: sportverein
+BEZEICHNUNG: Verein für Hallenradsport Worms (VfH)
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  typ: Radsportverein
+  rang: "bundesweit bekannter Radsportverein"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 55-worms/115
+ENTITÄT: sportverein
+BEZEICHNUNG: Wormser Ruderclub Blau-Weiß von 1883
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_vorgaenger_1: "Ruderclub Blau-Weiß gegründet 1947"
+  gruendung_vorgaenger_2: "Wormser Rudergesellschaft von 1883"
+  zusammenschluss: 2006
+  erfolgreichster_athlet: "Peter Uhrig"
+  peter_uhrig_erfolg: ["Weltmeister", "zweifacher Olympionike", "mehrfacher Deutscher Meister"]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/116
+ENTITÄT: sportverein
+BEZEICHNUNG: Rockin' Wormel Worms e.V.
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  typ: "Rock-'n'-Roll-Tanzsportverein"
+  erfolg: "national und international erfolgreich"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 55-worms/117
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Wormser Backfischfest
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  typ: "Wein- und Volksfest"
+  super lativ: "größtes Wein- und Volksfest am Rhein"
+  programm: ["Festumzug", "Feuerwerk (abendlich)"]
+  haeufigkeit: alljährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 55-worms/118
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Wormser Nibelungenfestspiele
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  typ: Theaterfestival
+  thema: Nibelungenlied
+  form: "unterschiedliche Inszenierungen"
+  beginn: 2002
+  bühne_form: Freilichtbühne
+  bühne_location: "vor dem Wormser Dom"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/119
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Wormser Pfingstmarkt
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  typ: Verbrauchermesse
+  rang: "älteste Verbrauchermesse der Region"
+  frequenz: jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 55-worms/120
+ENTITÄT: festival
+BEZEICHNUNG: Worms Jazz and Joy
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  genre: Jazz
+  dauer_tage: 3
+  buehnen: 5
+  location: "rund um den Dom"
+  frequenz: jährlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 55-worms/121
+ENTITÄT: festival
+BEZEICHNUNG: Wormstock
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  genre: Rock
+  frequenz: jährlich
+  zeitraum_typisch: "meistens im Juli"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 55-worms/122
+ENTITÄT: hafen
+BEZEICHNUNG: Hafen Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  lage: "linkes Rheinufer"
+  hafenbecken: mehrere
+  nutzung: ["Güterumschlag", "Freizeit"]
+  erstreckung: "bis Rheindürkheim"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 55-worms/123
+ENTITÄT: flugplatz
+BEZEICHNUNG: Flugplatz Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  lage: "südlich der Stadt"
+  nutzung: "überwiegend für Sportfliegerei"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 55-worms/124
+ENTITÄT: hochschule
+BEZEICHNUNG: Hochschule Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  typ: Hochschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 55-worms/125
+ENTITÄT: klinik
+BEZEICHNUNG: Klinikum Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  alt_name: "Stadtkrankenhaus Worms"
+  betten: 696
+  rang_rheinland_pfalz: "einer der fünf größten Kliniken in Rheinland-Pfalz"
+  lehrkrankenhaus: "Universität Mainz"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/126
+ENTITÄT: fremdenverkehr
+BEZEICHNUNG: Fremdenverkehr Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  hotels_gasthaeuser: 35
+  betten_gesamt: 1132
+  erfassung_jahr: 2014
+  gaeste_2014: 68880
+  durchschnittlicher_aufenthalt_tage: 2
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 55-worms/127
+ENTITÄT: wappen
+BEZEICHNUNG: Wormser Wappen und Siegel
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  farbe_rot_silber_beschreibung: "In Rot ein schräger, silberner Schlüssel mit Vierpassreite, links oben begleitet von einem goldenen fünfstrahligen Stern"
+  altestes_siegel_jahr: 1198
+  grund_altestes_siegel: "Folge der Freiheitsprivilegien Kaiser Friedrich I. Barbarossa vom Jahre 1184"
+  siegel_inhalt_alt: "sitzender heiliger Petrus, Patron des Wormser Doms, mit Schlüssel Petri in der rechten und Bibel in der linken Hand"
+  siegel_architektur: "Dom mit Kuppel zwischen zwei Türmen und an beiden Seiten je ein Stadttor"
+  siegel_verwendung_alt: "als Stadtsiegel und Gerichtssiegel bis um Jahr 1500"
+  neues_siegel_grund: "Vollmachten von König und späterem Kaiser Maximilian im Jahre 1488"
+  neues_siegel_form: "silberner Schlüssel auf rotem Grund"
+  sternsymbol_hinzufügen_datum: "Stadtratsbeschluss von 1890"
+  stadtfarben: rot-weiß
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/128
+ENTITÄT: landtagswahlkreis
+BEZEICHNUNG: Landtagswahlkreis 33
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  uebereinstimmung_mit_wormser_stadtgebiet: true
+  abgeordneter_2006_2024: "Jens Guth (SPD)"
+  abgeordneter_grund_abloesung: "legte Mandat zum Jahresende 2024 aus gesundheitlichen Gründen nieder"
+  nachruecker: "Dirk Beyer"
+  landtagswahl_2026_gewinner: "Dirk Beyer (SPD)"
+  beyer_ergebnis: "verteidigte Direktmandat für die SPD"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 55-worms/129
+ENTITÄT: bundestagswahlkreis
+BEZEICHNUNG: Bundestagswahlkreis Worms
+QUELLE: https://de.wikipedia.org/wiki/Worms | Wikipedia
+EIGENSCHAFTEN:
+  umfasst: ["Stadt Worms", "Landkreis Alzey-Worms", "Teile des Landkreises Mainz-Bingen"]
+  bundestagswahl_2013_gewinner: "Jan Metzler (CDU)"
+  geschichte_vor_2013: "bei Bundestagswahlen stellte stets die SPD den Wahlkreisabgeordneten"
+  bundestagswahl_2017_gewinner: "Jan Metzler (CDU)"
+  bundestagswahl_2021_gewinner: "Jan Metzler (CDU)"
+  bundestagswahl_2025_gewinner: "Jan Metzler (CDU)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+

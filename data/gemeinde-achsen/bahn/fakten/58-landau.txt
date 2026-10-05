@@ -1,0 +1,1371 @@
+ID: 58-landau/001
+ENTITÄT: ort
+BEZEICHNUNG: Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  regierungsbezirk: Südpfalz
+  lage: zwischen Rhein und Pfälzer Wald, südlich Rheinland-Pfalz
+  gründer: Graf Emich IV. von Leiningen-Landeck
+  ist_reichsstadt: true
+  ist_kreisfreiheit: true
+  ist_universitaetsstadt: true
+  ist_weinbau_gemeinde: true
+  weinbau_groesse: größte Deutschlands
+  garrison_rolle_bis: 1999
+GUELTIG_AB: 1260
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 58-landau/002
+ENTITÄT: ort
+BEZEICHNUNG: Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1268
+  stadtrechte_verleihung: 1274
+  verleihung_durch: König Rudolf von Habsburg
+  reichsstadt_erhebung: 1291
+  reichsstadt_erhebung_durch: König Rudolf von Habsburg
+GUELTIG_AB: 1268
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 58-landau/003
+ENTITÄT: ort
+BEZEICHNUNG: Landau
+QUELLE: https://www.regionalgeschichte.net/pfalz/landau.html | Landesportal
+EIGENSCHAFTEN:
+  grund_gründung: zusätzliche Absicherung für Burg Landeck
+  gründung_jahr: ca. 1260
+GUELTIG_AB: 1260
+IST_VERMUTISMUS: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/004
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtwappen Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: rotbewehrter und -bezungter schwarzer Löwe im roten Schildbord in Silber, belegt mit goldenem Herzschild, darin rotbewehrter schwarzer Adler
+  genehmigung_datum: 10. Januar 1961
+  genehmigt_durch: Ministerium des Innern Mainz
+  benannt_nach: vereint Siegel mit Wappen des Stadtgründers
+  basis_komponenten: schwarzer Löwe (Wappen Graf Emich IV.), Reichsadler (Sekretsiegel seit 1413)
+GUELTIG_AB: 1961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 58-landau/005
+ENTITÄT: kirche
+BEZEICHNUNG: Stiftskirche
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  epoche: erste Blütezeit nach 1274
+  still_heute_stadtbild_praegend: true
+GUELTIG_AB: 1281
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/006
+ENTITÄT: kirche
+BEZEICHNUNG: Stiftskirche
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1281
+  baubeginn_genauigkeit: wahrscheinlich
+  weihe: 1333
+  turmbau_beginn: 1349
+GUELTIG_AB: 1281
+GUELTIG_BIS: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 58-landau/007
+ENTITÄT: kirche
+BEZEICHNUNG: Augustinerkirche
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  epoche: erste Blütezeit nach 1274
+  still_heute_stadtbild_praegend: true
+GUELTIG_AB: 1274
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 58-landau/008
+ENTITÄT: kirche
+BEZEICHNUNG: Katharinenkapelle
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  epoche: erste Blütezeit nach 1274
+  still_heute_stadtbild_praegend: true
+GUELTIG_AB: 1274
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 58-landau/009
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Maria
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  weihe: 1911
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 58-landau/010
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1884
+  brand_1938: true
+  brand_datum: 1938
+GUELTIG_AB: 1884
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 58-landau/011
+ENTITÄT: gebaeude
+BEZEICHNUNG: Festhalle
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: Jugendstil
+  rang_regional: eines der schönsten Festhäuser im Südwesten
+GUELTIG_AB: 1905
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/012
+ENTITÄT: gebaeude
+BEZEICHNUNG: Festhalle
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1905-1907
+  bauherr: Dr. August Ludowici (Stiftung)
+  innenraumgestaltung_neugestaltung: 1958-1959
+  renovierung: 2002
+GUELTIG_AB: 1905
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 58-landau/013
+ENTITÄT: gebaeude
+BEZEICHNUNG: Altes Kaufhaus
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_heute: Zentrum des kulturellen Lebens
+  funktion_erwaerbung_kulturzentrum: 1997
+  ueberlebensgrund: Engagement vieler Landauer
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 58-landau/014
+ENTITÄT: gebaeude
+BEZEICHNUNG: Frank-Loebsches Haus
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_heute: Zentrum des kulturellen Lebens
+  ueberlebensgrund: Engagement vieler Landauer
+  wiedereroffnung: 1987
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 58-landau/015
+ENTITÄT: gebaeude
+BEZEICHNUNG: Frank-Loebsches Haus (Kaufhausgasse 9)
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Geschichte-der-Juden-in-Landau/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau_Jahrhundert: 16.
+  ursprung_funktion: Wohnhaus, Gastwirtschaft, Posthalterei
+  funktion_ns_zeit: Judenhaus (letztes Refugium noch in Landau lebender Juden)
+  bewohner_19_jhd: jüdische Familien Frank und Loeb
+  dauerausstellung: Juden in Landau. Vom Mittelalter bis zum Holocaust
+  dauerausstellung_eroffnung: 2003
+  adresse: Kaufhausgasse 9
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 58-landau/016
+ENTITÄT: festung
+BEZEICHNUNG: Festung Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umwandlung_zur_festung_durch: französischer Festungsbaumeister Vauban
+  umwandlung_zeitraum: seit 1688
+  folge: Landau wurde französische Exklave in deutschem Reichsgebiet
+  folge_belagerungen: vier Belagerungen zu Beginn des 18. Jahrhunderts
+  aufhebung_status: 1871
+  schleifung_beginn: 1880
+  unterschutzstellung: 2017
+GUELTIG_AB: 1688
+GUELTIG_BIS: 1871
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 58-landau/017
+ENTITÄT: festung
+BEZEICHNUNG: Festung Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Festung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausbau_zeitraum: 1688-1691
+  erbauer: Vauban (Festungsbaumeister Ludwigs XIV.)
+  grundstein: Eingliederung in Elsässischen Zehnstädtebund 1521 durch Kaiser Karl V.
+  groesster_stadtbrand: 1689 (veränderte Stadttopographie, ermöglichte gerade Straßen und rechtwinklige Bauquadrate)
+  vorlauf_verhandlungen: seit 1509
+  befestigter_zustand_vorher: unregelmäßiges Rechteck, 25 Türme, Stadtmauer, in Queichauen
+GUELTIG_AB: 1688
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 58-landau/018
+ENTITÄT: kriegsereignis
+BEZEICHNUNG: Großer Stadtbrand
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Festung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1689
+  folge: Veränderung der Stadttopographie durch Brandlegung im Zuge des Festungsbaues
+GUELTIG_AB: 1689
+GUELTIG_BIS: 1689
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 58-landau/019
+ENTITÄT: kriegsereignis
+BEZEICHNUNG: Belagerungen im Spanischen Erbfolgekrieg
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Festung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1702-1713
+  verlauf: 1702 Übergang an Kaiserliche, 1703 wieder Franzosen, 1704 Reichstruppen, 1713 schließlich Franzosen
+GUELTIG_AB: 1702
+GUELTIG_BIS: 1713
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 58-landau/020
+ENTITÄT: belagerung
+BEZEICHNUNG: Belagerung durch Preußen
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1793
+  kontext: Erster Koalitionskrieg
+  ergebnis: vergeblich
+GUELTIG_AB: 1793
+GUELTIG_BIS: 1793
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 58-landau/021
+ENTITÄT: kreis
+BEZEICHNUNG: Kreisfreiheit Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erwerb_jahr: 1910
+  erwerb_superlativ: erste pfälzische Stadt mit Kreisfreiheit
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 58-landau/022
+ENTITÄT: universitaet
+BEZEICHNUNG: Universität Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1990
+  standort: Fortanlage
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 58-landau/023
+ENTITÄT: garnison
+BEZEICHNUNG: Französische Garnison Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Festung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einfuehrung_dauerhafte: 1680
+  kommandantenquartier: Hördter Hof
+  abzug_erstes: 1650
+  wiederaufbau_garnison: nach 1680
+GUELTIG_AB: 1680
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 58-landau/024
+ENTITÄT: garnison
+BEZEICHNUNG: Garnisonsstadt Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle_traeger: Bayern, dann Franzosen, dann Wehrmacht, dann Franzosen
+  rolle_periode: lange Prägung
+  anzahl_belagerungen_18jhd: 4
+  abzug_amerikaner: 1945
+  abzug_franzosen: 1999
+GUELTIG_AB: 1680
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 58-landau/025
+ENTITÄT: garnison
+BEZEICHNUNG: Französische Besatzung 1918-1930
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1918-1930
+  rolle: größte Garnison der Pfalz
+GUELTIG_AB: 1918
+GUELTIG_BIS: 1930
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 58-landau/026
+ENTITÄT: kriegsereignis
+BEZEICHNUNG: Zweiter Weltkrieg - Zerstörung Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1944-1945
+  ursache: Luftkrieg (alliierte Luftangriffe)
+  zerstoerung_gebaeude: Wohngebäude und öffentliche Bauten
+  zerstoerungsgrad_prozent: 40
+  luftkriegstote: 586
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 58-landau/027
+ENTITÄT: ereignis
+BEZEICHNUNG: Zweiter Weltkrieg - Gesamtauswirkung
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auswirkung: Stadt weitgehend verschont
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 58-landau/028
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Französische Revolution in Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: weltgeschichtliche Zäsur mit Guillotine, Jakobinerklub, Freiheitsrausch
+  kontext: französische Zeit der Stadt
+GUELTIG_AB: 1789
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/029
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Uebergreifen Französische Revolution
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 20. Juli 1789
+GUELTIG_AB: 1789
+GUELTIG_BIS: 1789
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 58-landau/030
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Guillotine in Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_jahr: 1794
+  standort: place de l'égalité (heute Rathausplatz)
+GUELTIG_AB: 1794
+GUELTIG_BIS: null
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 58-landau/031
+ENTITÄT: politische_organisation
+BEZEICHNUNG: Jakobinerklub Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1790
+GUELTIG_AB: 1790
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/032
+ENTITÄT: denkmal
+BEZEICHNUNG: Luitpold-Denkmal
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1892
+  standort: Rathausplatz (heute)
+GUELTIG_AB: 1892
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/033
+ENTITÄT: denkmal
+BEZEICHNUNG: Prinzregentendenkmal
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rueckkehr_nach_landau: 1954
+GUELTIG_AB: 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 58-landau/034
+ENTITÄT: denkmal
+BEZEICHNUNG: Bismarckturm
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1910
+  standort: Fort
+GUELTIG_AB: 1910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/035
+ENTITÄT: ortsteil
+BEZEICHNUNG: Arzheim
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1972
+  beschreibung: altes Winzerdorf
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 58-landau/036
+ENTITÄT: ortsteil
+BEZEICHNUNG: Dammheim
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1972
+  beschreibung: altes Winzerdorf
+  besonderheit: Erdölbohrstelle der Firma Wintershall (1955)
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 58-landau/037
+ENTITÄT: ortsteil
+BEZEICHNUNG: Godramstein
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1972
+  beschreibung: altes Winzerdorf
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 58-landau/038
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mörlheim
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1937
+GUELTIG_AB: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/039
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mörzheim
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1972
+  beschreibung: altes Winzerdorf
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 58-landau/040
+ENTITÄT: ortsteil
+BEZEICHNUNG: Nußdorf
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1972
+  beschreibung: altes Winzerdorf
+  erwerb_durch_stadt: 1508
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 58-landau/041
+ENTITÄT: ortsteil
+BEZEICHNUNG: Queichheim
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1937
+GUELTIG_AB: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/042
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wollmesheim
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1972
+  beschreibung: altes Winzerdorf
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 58-landau/043
+ENTITÄT: stadtteil_siedlung
+BEZEICHNUNG: Wollmesheimer Höhe
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1936
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/044
+ENTITÄT: stadtteil_siedlung
+BEZEICHNUNG: Horstsiedlung
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1936
+  erstes_element_baubeginn: 1950 (Spatenstich)
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/045
+ENTITÄT: stadtteil_siedlung
+BEZEICHNUNG: Burgen- und Fliegerviertels
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1936
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/046
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Ribeauvillé
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Partnerstädte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerschaft_seit: 1960
+  region: Elsass, Frankreich
+  bedeutung: vor Elysée-Vertrag Dialog auf kommunaler Ebene
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 58-landau/047
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Haguenau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Partnerstädte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerschaft_seit: 1963
+  region: Elsass, Frankreich
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 58-landau/048
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Ruhango
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Partnerstädte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerschaft_seit: 1984
+  region: Ruanda, Afrika
+  vorherige_partnergemeinde: Kigoma
+  reform_verwaltung: 2002 (Kigoma aufgeteilt)
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 58-landau/049
+ENTITÄT: museum
+BEZEICHNUNG: Museum für Stadtgeschichte
+QUELLE: https://www.landau.de/Tourismus-Kultur/Archiv-und-Museum/Museum-für-Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Maximilianstraße 7, 76829 Landau in der Pfalz
+  lage: Dachgeschoss, unmittelbare Nähe zum Hauptbahnhof
+  ausstellungsfläche: ca. 250 Quadratmeter
+  gruendung: nach 2009 (Umbau)
+  thematischer_schwerpunkt: Landau als deutsch-französischer Grenzfall
+  chronologische_spanne: 1274-2015
+  besonderheit: Festungsmodell ca. 1740 (restauriert)
+  merkmale: moderne interaktive Medienstationen, historische Exponate aus eigenen Beständen
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 58-landau/050
+ENTITÄT: archiv
+BEZEICHNUNG: Archiv und Museum der Stadt Landau
+QUELLE: https://www.landau.de/Tourismus-Kultur/Archiv-und-Museum/Museum-für-Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Maximilianstraße 7, 76829 Landau in der Pfalz
+  leiter: Christine Kohl-Langer
+  telefon: 06341/13-4202
+  email: stadtarchiv@landau.de
+  bestaende: umfangreiche historische Sammlung
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 58-landau/051
+ENTITÄT: dauerausstellung
+BEZEICHNUNG: Juden in Landau. Vom Mittelalter bis zum Holocaust
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Geschichte-der-Juden-in-Landau/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Frank-Loebsches Haus, Kaufhausgasse 9
+  eroffnung: 2003
+  chronologische_spanne: Mittelalter bis Holocaust
+  fokus: 19. und 20. Jahrhundert
+  schwerpunkt_jüdisches_gemeindeleben: Synagogenraum im Hause, jüdischer Ritus
+  dokumentationsmaterial_qualitaet: weitgehend fehlend wegen Holocaust
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 58-landau/052
+ENTITÄT: historischer_event
+BEZEICHNUNG: Blumenkorso
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erster_blumenkorso: 1953
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 58-landau/053
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Maimarkt
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erster_maimarkt: 1947
+GUELTIG_AB: 1947
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/054
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Landesgartenschau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausrichtung: 2015
+  zuschlag_erhalt: 2010
+GUELTIG_AB: 2015
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 58-landau/055
+ENTITÄT: veranstaltung
+BEZEICHNUNG: SÜWEGA (Südwestdeutsche Gartenbauausstellung)
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausrichtung: 1949
+GUELTIG_AB: 1949
+GUELTIG_BIS: 1949
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/056
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Rheinland-Pfalz-Tag
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausrichtung: 2001
+GUELTIG_AB: 2001
+GUELTIG_BIS: 2001
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/057
+ENTITÄT: institution
+BEZEICHNUNG: Staatsphilharmonie Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_frueh: 1919
+  ursprung_name: Pfälzische Philharmonie
+  jetziger_name: Staatsphilharmonie Landau
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 58-landau/058
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Hauptbahnhof Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroffnung_alt: 1877
+  neubau: 1962
+  postgebaeude_neben_bahnhof_erbaut: 1897
+  postgebaeude_funktion_heute: Stadtarchiv und Museum
+GUELTIG_AB: 1962
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 58-landau/059
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Oberlandbahn Landau-Neustadt
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroffnung: 1913
+  antrieb: elektrisch
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/060
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnlinie Landau-Annweiler
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroffnung: 1874
+  zusätzliche_entwicklung: Westbahnhof Bau
+GUELTIG_AB: 1874
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/061
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Quellwasserleitung
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme_neue_leitung: 1887
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/062
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Elektrizität
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einfuehrung: 1898
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/063
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Schwimmbad Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1930
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/064
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Stadion Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1927
+GUELTIG_AB: 1927
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/065
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhofsviertel - Umgestaltung
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  massnahme_beschreibung: Umgestaltung des Bahnhofsvorplatzes und der Ostbahnstraße
+  beginn_umgestaltung: 2009
+  zusammenhang: Alte Bahnpost wird Stadtarchiv und Museum
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/066
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Alte Bahnpost
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umgestaltung_funktion: Stadtarchiv und Stadtmuseum
+  umgestaltung_datum: 2009
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/067
+ENTITÄT: verkehrsinfrastruktur
+BEZEICHNUNG: Autobahn A 65
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  freigabe_segment: zwischen Landau und Edenkoben
+  freigabe_jahr: 1990
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/068
+ENTITÄT: personengruppe_fluechtlinge
+BEZEICHNUNG: Flüchtlinge aus Südost-Europa
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ankunft_erste: 1950
+  kontext: Nachkriegszeit
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/069
+ENTITÄT: gruppe_organisation
+BEZEICHNUNG: Frauenring Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1949
+GUELTIG_AB: 1949
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 58-landau/070
+ENTITÄT: sportverein
+BEZEICHNUNG: ASV Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1946
+GUELTIG_AB: 1946
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 58-landau/071
+ENTITÄT: organisation
+BEZEICHNUNG: Verschönerungsverein Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1881
+GUELTIG_AB: 1881
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/072
+ENTITÄT: institution_bildung
+BEZEICHNUNG: Lateinschule Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1432
+  rank: erste weltliche Lateinschule im pfälzischen Raum
+GUELTIG_AB: 1432
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 58-landau/073
+ENTITÄT: institution_bildung
+BEZEICHNUNG: Pestalozzischule
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1896
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/074
+ENTITÄT: institution_bildung
+BEZEICHNUNG: Höhere Töchterschule
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1874
+  charakter: städtisch
+GUELTIG_AB: 1874
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/075
+ENTITÄT: institution_bildung
+BEZEICHNUNG: Erziehungswissenschaftliche Hochschule (EWH)
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  studienbetrieb_beginn: 1968
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/076
+ENTITÄT: institution_bildung
+BEZEICHNUNG: Hauptschule West im Fort
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1971
+  standort: Fort
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/077
+ENTITÄT: institution_bildung
+BEZEICHNUNG: Stadtbibliothek
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroffnung_neu: 1998
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/078
+ENTITÄT: gebaeude_infrastruktur
+BEZEICHNUNG: Justizgebäude (Landgericht)
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1902
+  standort: Marienring
+  renovierung: 2003
+GUELTIG_AB: 1902
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/079
+ENTITÄT: gebaeude_infrastruktur
+BEZEICHNUNG: Rathaus
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau: 1990
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/080
+ENTITÄT: gebaeude_infrastruktur
+BEZEICHNUNG: Postgebäude Ostbahnstraße
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1922
+  fertigstellung: 1922
+GUELTIG_AB: 1922
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/081
+ENTITÄT: gebaeude_infrastruktur
+BEZEICHNUNG: Friedhofsgebäude
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1928
+GUELTIG_AB: 1928
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/082
+ENTITÄT: gebaeude_infrastruktur
+BEZEICHNUNG: Krankenhaus Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau: 1958
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/083
+ENTITÄT: konversion
+BEZEICHNUNG: Konversion Landau (Umwandlung Militärflächen)
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Umwandlung ehemals militärischer Gebäude und Flächen zu ziviler Nutzung
+  kontext: Garnisonsstadt nach Truppenabzug
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/084
+ENTITÄT: konversion
+BEZEICHNUNG: Kasernengelände Estienne et Foch
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigentumsuebergang_stadt: 2008
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/085
+ENTITÄT: gebaedeueberbauung
+BEZEICHNUNG: Gefängnis (ehemaliges)
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umnutzung: Studentenwohnheim
+  umnutzung_jahr: 1996
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/086
+ENTITÄT: lage_weinbau
+BEZEICHNUNG: Nußdorfer Herrenberg
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteil: Nußdorf
+  bekanntheitsgrad: oft bekannter als das Dorf selbst
+  rebsorten: Riesling, Silvaner, Burgunder, St. Laurent
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/087
+ENTITÄT: lage_weinbau
+BEZEICHNUNG: Godramsteiner Königsacker
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteil: Godramstein
+  bekanntheitsgrad: oft bekannter als das Dorf selbst
+  rebsorten: Riesling, Silvaner, Burgunder, St. Laurent
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/088
+ENTITÄT: forschungswerk
+BEZEICHNUNG: Route Vauban (Festungsrundweg)
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Festung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Rundweg durch die Festungsanlagen
+  dokumentation: Dokumentationen online verfügbar (PDF Karten)
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 58-landau/089
+ENTITÄT: personengruppe
+BEZEICHNUNG: Gesellschaft für jüdisch-christliche Zusammenarbeit
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Geschichte-der-Juden-in-Landau/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  arbeit: Dokumentation von Schicksalen Landauer Juden in NS-Zeit, Ausstellung
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 58-landau/090
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Landauer Bund
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1522
+  initiator: Franz von Sickingens
+  ort_treffpunkt: Herberge Zum Maulbeerbaum
+  teilnehmer: Ritterschaft von Franken, Schwaben und Rhein
+  ausrichtung: gegen die Fürsten gerichtet, Unterstützung Luthers
+GUELTIG_AB: 1522
+GUELTIG_BIS: 1522
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 58-landau/091
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Pfälzischer Bauernkrieg
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausbruchsort: Dorf Nußdorf
+  ausbruchsdatum: Sonntag nach Ostern 1525
+  ausbruchsanlass: Kirchweihe in Nußdorf
+GUELTIG_AB: 1525
+GUELTIG_BIS: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 58-landau/092
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Konkordienformel-Unterzeichnung
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  unterzeichner: Bürgermeister Hans Hitschler
+  form: lutherische Konkordienformel
+  zeitraum_qualitativ: 16. Jahrhundert bis zum Großen Stadtbrand 1689
+GUELTIG_AB: 1579
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/093
+ENTITÄT: vertragswerk
+BEZEICHNUNG: Friedensschluss zu Münster
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Festung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  folge_landau: Unterstellung unter Schutz- und Schirmpflicht Ludwig XIV.
+  besonderheit: Zugehörigkeit zum Heiligen Römischen Reich Deutscher Nation ausdrücklich garantiert
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/094
+ENTITÄT: vertragswerk
+BEZEICHNUNG: Hagenauer Präsentation
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Festung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1662
+  ausloeser: Ludwig XIV. zwingt Landau und Mitgliedsstädte der Landvogtei Hagenau
+  folge: Treueid gegenüber Ludwig XIV.
+GUELTIG_AB: 1662
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/095
+ENTITÄT: vertragswerk
+BEZEICHNUNG: Friedensschluss zu Nymwegen
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Festung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1679
+  folge: Ludwig XIV. zog Landau mit militärischer Gewalt aus dem Reichsverband
+GUELTIG_AB: 1679
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/096
+ENTITÄT: vertragswerk
+BEZEICHNUNG: Erster Pariser Frieden
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1814
+  folge_landau: Verbleib Landaus bei Frankreich
+GUELTIG_AB: 1814
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/097
+ENTITÄT: vertragswerk
+BEZEICHNUNG: Zweiter Pariser Frieden
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1815
+  folge_landau: Unterstellung Landaus unter österreichischer Verwaltung
+GUELTIG_AB: 1815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/098
+ENTITÄT: vertragswerk
+BEZEICHNUNG: Elysée-Vertrag
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Partnerstädte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kontext: Normalisierung der Beziehungen ehemaliger Kriegsgegner
+  bedeutung: Landauer Städtepartnerschaften begannen schon vorher (1960)
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 58-landau/099
+ENTITÄT: reformaktion
+BEZEICHNUNG: Aufhebung des Simultaneums
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1893
+  ort: Stiftskirche
+GUELTIG_AB: 1893
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 58-landau/100
+ENTITÄT: reformaktion
+BEZEICHNUNG: Aufhebung des Kapuziner- und Augustinerklosters
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1790
+  kontext: Französische Revolution
+GUELTIG_AB: 1790
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/101
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Graf Emich IV. von Leiningen-Landeck
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Gründer der Stadt Landau
+  grund_gründung: ererbte Grafschaft Dagsburg (Schutz der Burg Landeck)
+  wappenerbe: schwarzer Löwe mit rotbordiertem silbernem Schild
+GUELTIG_AB: 1260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 58-landau/102
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Rudolf von Habsburg (König)
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Verleiher der Stadtrechte 1274
+  titel: König
+GUELTIG_AB: 1274
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 58-landau/103
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Sébastien Le Prestre de Vauban
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: französischer Festungsbaumeister
+  werk: Umwandlung Landaus zu modernen Festung 1688
+  bedeutung: Ausbau zu Festungsstadt unter Ludwig XIV.
+GUELTIG_AB: 1688
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 58-landau/104
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz von Sickingens
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Initiator des Landauer Bundes (1522)
+GUELTIG_AB: 1522
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/105
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ludwig XIV. (König Frankreich)
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Festung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Einverleibung Landaus in Frankreich 1680
+  mittel: militärische Gewalt, Grenzfestungssystem
+  symbole_herrschaft: Bildnis in allen Amtsstuben Landaus
+GUELTIG_AB: 1680
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 58-landau/106
+ENTITÄT: ereignis_vergangenheit
+BEZEICHNUNG: Dreißigjähriger Krieg - Auswirkungen auf Landau
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auswirkung: viel Not und Elend
+  kontext: Bewährung der Stadt in vielen Kriegszeiten
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 58-landau/107
+ENTITÄT: ereignis_vergangenheit
+BEZEICHNUNG: Dreißigjähriger Krieg - Bevölkerungsverlust
+QUELLE: https://www.regionalgeschichte.net/pfalz/landau.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum: 1621-1645
+  einwohnerzahl_anfang: 2500
+  einwohnerzahl_ende: 1500
+  eigenschaft: Stadt verliert Hälfte ihrer Einwohner
+GUELTIG_AB: 1621
+GUELTIG_BIS: 1645
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 58-landau/108
+ENTITÄT: kriegsereignis
+BEZEICHNUNG: Besetzung durch französische Truppen
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Festung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1644
+  kontext: Dreißigjähriger Krieg
+  kommando: Marquis d'Aumont
+  vorgaenger: Belagerung
+GUELTIG_AB: 1644
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 58-landau/109
+ENTITÄT: ereignis_vergangenheit
+BESCHREIBUNG: Deportation der jüdischen Bevölkerung
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 22. Oktober 1940
+  ziel: südfranzösisches Lager Gurs
+  betroffen: jüdische Bevölkerung
+GUELTIG_AB: 1940
+GUELTIG_BIS: 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 58-landau/110
+ENTITÄT: ereignis_vergangenheit
+BEZEICHNUNG: NS-Zeit - Plünderungen, Verhaftungen und Deportationen
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1938
+  ereignis: Brand der Synagoge, Plünderungen, Verhaftungen und erste Deportationen jüdischer Mitbürger
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 58-landau/111
+ENTITÄT: infrastruktur_militaer
+BEZEICHNUNG: Fort auf dem Kaffenberg
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Festung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: nordwestlich vorgelagert
+  bau_zeitraum: 1700-1702
+  zweck: Verstärkung der Festung
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 58-landau/112
+ENTITÄT: infrastruktur_militaer
+BEZEICHNUNG: Fortkaserne
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sprengung: 1969
+GUELTIG_AB: null
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/113
+ENTITÄT: infrastruktur_militaer
+BEZEICHNUNG: Camp Thomas Nast
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Ebenberg
+  soldaten: US-Soldaten
+  abzug: 1983
+GUELTIG_AB: null
+GUELTIG_BIS: 1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 58-landau/114
+ENTITÄT: infrastruktur_militaer
+BEZEICHNUNG: Kasernen an der Weißenburgerstraße
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1890
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 58-landau/115
+ENTITÄT: infrastruktur_militaer
+BEZEICHNUNG: Kasernen an der Cornichonstraße
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1890
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 58-landau/116
+ENTITÄT: bauwerk
+BEZEICHNUNG: Deutsches Tor
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Rest der einstigen Festung
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 58-landau/117
+ENTITÄT: bauwerk
+BEZEICHNUNG: Minengänge (Festung)
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: begehbare Minengänge der Festungszeit
+  zugang: Führungen zeigen sie
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 58-landau/118
+ENTITÄT: initiative
+BEZEICHNUNG: Initiative Landau baut Zukunft
+QUELLE: https://www.landau.de/Leben-Wohnen/Stadtportrait/Stadtgeschichte/Zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  start: 2017
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

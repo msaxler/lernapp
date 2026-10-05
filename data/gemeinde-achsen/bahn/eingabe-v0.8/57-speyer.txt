@@ -1,0 +1,875 @@
+ZIELORT: Speyer (Stadt)
+LAGE: 18 km südlich von Ludwigshafen am Rhein (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Speyer
+
+GRUNDDATEN:
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 49.035  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 42,71  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 1148  [berechnet aus Einwohner und Fläche]
+  kfz: SP (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 108 | 103 | 111 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2830582)]
+  naechste_grossstadt: Ludwigshafen am Rhein, 18 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 75 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Speyer Hauptbahnhof, Speyer Nord-West  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 67346  [Wikidata P281]
+  vorwahl: 06232  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,5 %, AfD 21,1 %, SPD 18,1 %, GRÜNE 13,6 %, Die Linke 7,2 %; Wahlbeteiligung 80,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Stefanie Seiler (SPD) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-06]
+  partnerstaedte: Jawne, Chartres, Kursk, Ravenna, Gniezno, Distrikt Rusizi, Tønsberg, Radviliškis, Ningde, Chichester  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT kfz: Kennzeichen (Ersatz: Partnerstadt), A, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Ludwigshafen (Stadt)
+  einwohner: 177.355  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 77,43  [Wikidata P2046; Altbestand staedte.json]
+  kfz: LU (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 96 | 95 | 97  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2875376)]
+  naechste_grossstadt: Ludwigshafen am Rhein, 1 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Ludwigshafen (Rhein) BASF Nord, Ludwigshafen (Rhein) BASF Süd, Ludwigshafen (Rhein) BASF Südtor, Ludwigshafen (Rhein) Hauptbahnhof, Ludwigshafen (Rhein) Hbf tief, Ludwigshafen (Rhein) Mitte, Ludwigshafen (Rhein) T51/52/53, Ludwigshafen (Rhein) Überleitung Süd, Ludwigshafen(Rhein) BASF Mitte, Ludwigshafen-Mundenheim, Ludwigshafen-Oggersheim, Ludwigshafen-Rheingönheim  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: AfD 24,3 %, CDU 24,1 %, SPD 20,1 %, GRÜNE 8,7 %, Die Linke 8,7 %, BSW 5,7 %; Wahlbeteiligung 74,6 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Frankfurt am Main, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Koblenz, Boppard, St. Goar, Oberwesel, Bacharach, Bingen, Alzey, Worms, Ludwigshafen, Speyer, Landau
+
+FAKTEN (Zielort Speyer):
+ID: 57-speyer/001
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Brezelfest
+QUELLE: https://www.speyer.de/de/bildung/kulturelles-erbe-stadtarchiv/historische-bildungsarbeit/museen-gedenkstaetten-und-ausstellungen/ausstellungen/brezelfest-ausstellung-2020/zahlen-und-fakten-zum-brezelfest/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: zweites Wochenende im Juli, Donnerstag bis Dienstag
+  eröffnung: feierliche Eröffnung mit Brezelfestbieranstich durch Oberbürgermeister
+  abschluss: Brillantfeuerwerk
+  traditionale_kennzeichen: Brezeln, Bier, Geselligkeit
+  festumzug_tag: Brezelfest-Sonntag ab 13:30 Uhr
+  festumzug_route: Friedrich-Ebert-Straße, Wormser Landstraße, Hirschgraben, Bahnhofstraße, Postplatz, Maximilianstraße, Domplatz, Festplatz
+  brezeln_verteilung_festumzug: ca. 20000 [Stück]
+  schaustellerinnen_und_schausteller: ca. 100
+  organisator: Verkehrsverein Speyer, Verkehrsverein Speyer Veranstaltungs-GmbH
+  chronologie: 1910-1914, 1929, 1931, 1936-1939, 1949-1959, 1960-1969, 1970-1979, 1980-1989, 1990-1999, 2000-2009, 2010-2019, 2020 ausgefallen wegen Corona
+  website: https://www.speyerer-brezelfest.de/
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 57-speyer/002
+ENTITÄT: ort
+BEZEICHNUNG: Speyer
+QUELLE: https://www.speyer.de/de/rathaus/medieninformationen/archiv-2025/tag-des-offenen-denkmals-2025-in-speyer-geschichte-erleben-denkmale-entdecken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geschuetzte_einzeldenkmale: 420
+  natur_und_bodendenkmale: zahlreich
+  unescos_welterbestaetten: 2
+  stadtgeschichte_dauer: ca. 2000 Jahre
+  charakterisierung: Domstadt
+GUELTIG_AB: 1111
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 57-speyer/003
+ENTITÄT: kirche
+BEZEICHNUNG: Kaiserdom zu Speyer
+QUELLE: https://www.speyer.de/de/rathaus/medieninformationen/archiv-2025/tag-des-offenen-denkmals-2025-in-speyer-geschichte-erleben-denkmale-entdecken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  unescos_welterbe: true
+  baubeginn: 1030
+  bauwerk_art: Bischofskirche
+  besonderheiten: Reliquienkapelle, Sakristei, Schraudolph-Wandbild in Vorhalle
+  kunstwerk_fresko_vorhalle: Schraudolph-Wandbild
+IST_VERMUTISMUS_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 57-speyer/004
+ENTITÄT: museum_oder_gedenkstaette
+BEZEICHNUNG: SchUM-Gemeindezentrum (Judenhof)
+QUELLE: https://www.speyer.de/de/rathaus/medieninformationen/archiv-2025/tag-des-offenen-denkmals-2025-in-speyer-geschichte-erleben-denkmale-entdecken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  unescos_welterbe: true
+  bedeutung: Teil des jüdischen Erbes der SchUM-Städte Speyer, Worms, Mainz
+  baudenkmale: Ritualbad (Mikwe), Überreste von Synagoge und Frauenschul
+  museum_name: Museum SchPIRA
+  schwerpunkt: jüdisches Leben in Speyer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 57-speyer/005
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Dreifaltigkeitskirche
+QUELLE: https://www.speyer.de/de/rathaus/medieninformationen/archiv-2025/tag-des-offenen-denkmals-2025-in-speyer-geschichte-erleben-denkmale-entdecken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anschrift: Große Himmelsgasse 4
+  konfession: protestantisch (evangelisch)
+  architektur: sechsachsiges Langhaus aus frühem 18. Jahrhundert
+  besonderheiten: Emporen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 57-speyer/006
+ENTITÄT: museum
+BEZEICHNUNG: Historisches Museum der Pfalz in Speyer
+QUELLE: https://www.speyer.de/de/rathaus/medieninformationen/archiv-2025/tag-des-offenen-denkmals-2025-in-speyer-geschichte-erleben-denkmale-entdecken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sammlungsausstellung: Kreuz und Krone
+  fotoausstellung: Horst Hamann – Kaiserdom zu Speyer. Vertical Photographs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 57-speyer/007
+ENTITÄT: gebaeude
+BEZEICHNUNG: Feuerbachhaus
+QUELLE: https://www.speyer.de/de/rathaus/medieninformationen/archiv-2025/tag-des-offenen-denkmals-2025-in-speyer-geschichte-erleben-denkmale-entdecken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anschrift: Allerheiligenstraße 9
+  sammlung: Gemäldesammlung
+  historischer_bezug: Zeit Anselm Feuerbachs
+  besonderheiten: Klaviermusik aus der Zeit Feuerbachs möglich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 57-speyer/008
+ENTITÄT: institution
+BEZEICHNUNG: Stadtarchiv Speyer
+QUELLE: https://www.speyer.de/de/bildung/kulturelles-erbe-stadtarchiv/archiv/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: ältestes kommunales Archiv der Pfalz
+  archivatlas_bestand_ab: 12. Jahrhundert
+  frühestes_dokument: Urkunde Kaiser Friedrichs I. (Barbarossa)
+  frühestes_dokument_jahr: 1182
+  kaiserliche_privilegien_verleihung_jahr: 1111
+  kaiser_privilegien: Kaiser Heinrich V. verlieh berühmte Privilegien
+  aeltestes_amt_der_stadt: true
+  archivbestand_sortierung: ab 1579 in Laden mit Buchstaben A bis Z und AA bis RR
+  rote_lade: Vorgesehen für besonders wertvolle Privilegien (Originale aus 18. Jahrhundert erhalten)
+  stadtbrand_1689: ja, erlitt gewisse Verluste
+  untergebracht_seit_1726: Rathaus
+  untergebracht_seit_1995: Johannesstraße 22a (ehemaliges Gebäude der Pfälzischen Landesbibliothek)
+  ausstattung_1995: ausreichende Magazinkapazitäten, Büroräume, großer Lesesaal
+  betreuer_1892_1948: Archivare des bayerischen Kreisarchivs / Staatsarchivs Speyer (heute Landesarchiv Speyer)
+  leiter_1909_1948: Albert Pfeiffer (ab 1912 mit gedrucktem Tätigkeitsbericht)
+  leiter_1949_1963: Anton Doll (nebenamtlich)
+  aufgabe_seit_mai_2012: Kulturelles Erbe mit Betreuung und Koordinierung der städtischen Museen und Gedenkstätten
+GUELTIG_AB: 1111
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 57-speyer/009
+ENTITÄT: friedhof
+BEZEICHNUNG: Speyer Friedhof (Neuer Friedhof)
+QUELLE: https://www.speyer.de/de/rathaus/friedhof/beurkundung-von-sterbefaellen/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroffnung: 1. April 1881
+  vorgaenger: Alter Friedhof (heute Adenauerpark)
+  lage_urspruenglich: nördlich außerhalb der Stadt, westlich der Wormser Landstraße
+  gliederung_urspruenglich: nordsüdliche Richtung in 2 mal 4 Planquadrate
+  gestaltung: durchgeplante gärtnerische Gestaltung mit Bäumen
+  bestattungsform: Kopf-an-Kopf-Bestattung bei Pachtgräbern
+  friedhofskreuz_jahr: 1888
+  friedhofskreuz_kuenstler: Gottfried Renn
+  friedhofshalle_gebaut: 1930-1931
+  friedhofshalle_architekt: Stadtbaumeister Stadtmüller
+  friedhofshalle_baustil: Bauhaus, streng geometrisch
+  friedhofshalle_innengestaltung: Trauerhalle mit Fresko des auferstanden Christus zwischen zwei Engeln
+  friedhofshalle_fresko_kuenstler: Hans Fay (1880-1957)
+  friedhofshalle_orgel_einbau: 1958
+  friedhofshalle_erste_trauerfeier: 2. September 1931
+  friedhofsaufseher_haus_erbaut: 1924, Architekt Karl Stoltz
+  kriegergraeberfeld_wwi: 251 Gefallene 1914-1918
+  kriegergraeberfeld_wwi_kennzeichen: schlichte Sandsteinkreuze
+  franzoesisches_kriegsgrabfeld: 33 französische Soldaten und 59 Kinder nach WWI
+  kriegergraeberfriedhof_wwii: 398 Gefallene 1939-1945
+  anonymes_graeberfeld: angelegt 1985
+  erweiterungen: 1888 (westseite), 1910 (westseite), 1924 (bis Hertrichweg), 1969 (Nordwest), 1980-1982 (Trauerhalle), 2002-2003 (Umgestaltung), kontinuierlich danach
+GUELTIG_AB: 1881
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 57-speyer/010
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof Adenauerpark (Alter Friedhof)
+QUELLE: https://www.speyer.de/de/rathaus/friedhof/beurkundung-von-sterbefaellen/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gaender_bereitstellung: Ratsherr Jost Thiel
+  gaender_bereitstellung_jahr: 1502
+  lage: Vorstadt Altspeier
+  urspruengliche_zweckbestimmung: Friedhof für Arme und Fremde
+  erweiterung: 1597
+  nutzung_nach_1597: Friedhof für lutherische Bevölkerung
+  erweiterung_fuer_katholiken: 14. Dezember 1835
+  nutzung_juden: ab 1084 Begräbnisplatz für Juden
+  schließung: 1881
+  heutige_nutzung: Adenauerpark
+GUELTIG_AB: 1502
+GUELTIG_BIS: 1881
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 57-speyer/011
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster St. Magdalena
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/stein-edith/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anschrift: Hasenpfuhlstr. 32
+  gruendung: 1228
+  gruender: Gemeinschaft von Reuerinnen aus dem rechtsrheinischen St. Leon
+  ordensaufnahme_jahr: 1304
+  orden: Dominikanerorden
+  zweckbestimmung: Mädchenbildung, viele Schulen
+  historische_bedeutsamkeit: einziges von ursprünglich 60 Klöstern der Pfalz, das die Jahrhunderte überdauert hat
+  kirche_erbaut: frühes 18. Jahrhundert, auf Mauern des ursprünglichen gotischen Baus
+  kirche_architektur: sechsachsiges Langhaus
+  schulhaus: von 1832
+  torbau: spätgründerzeitlich, Jahr 1889
+  graeberkreuze_in_mauer: hauptsächlich aus 18. Jahrhundert
+  wirkungsstaette_edith_stein: 1923-1931
+  gedenkstaette_edith_stein: ja
+GUELTIG_AB: 1228
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 57-speyer/012
+ENTITÄT: gebaeude
+BEZEICHNUNG: Historisches Rathaus
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/wolf-marie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anschrift: Maximilianstr. 12
+  architektur: spätbarock
+  baujahre: 1712-1726
+  architekt: Johann Adam Breuning
+  ersetzer_urspruenglicher_bau: ehemalige städtische Kanzlei (beim Stadtbrand 1689 zerstört)
+  besonderheiten: Historischer Ratssaal im Stil des Rokoko, ehemaliges Stadtarchiv (heute Trausaal)
+  archiv_unterkunft_seit: 1726
+GUELTIG_AB: 1712
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 57-speyer/013
+ENTITÄT: institution
+BEZEICHNUNG: Diakonissenmutterhaus (Diakonissenanstalt Speyer)
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/krieg-else/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anschrift: Hilgardstr. 26
+  gruendung: 1881
+  stifter: Heinrich Hilgard
+  stiftungsbetrag: 10000 Mark
+  richtfest: 14. Juni 1884
+  grundsteinlegung: kurz nach Richtfest in Anwesenheit von Hilgard
+  namensherkunft: Zu Ehren von Hilgards Mutter und deren Schwester
+  hausname: Elisabeth-Anna-Haus
+  einweihung: 21. Januar 1885
+  erste_oberin_genannt: Else Krieg (gewählt 1916)
+  schwerpunkte_ausbildung: Sozialpädagogik, Pflege
+  hospiz_wilhelm_stift: eingerichtet 1996 (erstes stationäres Hospiz Rheinland-Pfalz)
+GUELTIG_AB: 1885
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 57-speyer/014
+ENTITÄT: person
+BEZEICHNUNG: Hazecha
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/hazecha/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: um 970 / 10. Jahrhundert n. Chr.
+  bildung: Schülerin der Speyerer Domschule
+  werdegang: später Schatzmeisterin der Reichsabtei Quedlinburg
+  schrifttum: Verfasserin einer Lebensbeschreibung des hl. Christophorus
+  besonderheit_superlativ: erste namentlich erwähnte christliche Frau in Speyer überhaupt
+  bekanntheit: Briefadressatin ihres früheren Mitschülers Walter (vermutlich späterer Bischof Walter von Speyer)
+GUELTIG_AB: 970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 57-speyer/015
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Domschule Speyer
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/hazecha/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traege: Bischofskirche Speyer
+  fruehe_erwaehnung: 9. Jahrhundert
+  erste_sichere_nachricht: 983 (Studienbericht des ehemaligen Schülers Walter von Speyer, ehemaliger Mitschüler des Bischofs Balderich)
+  existenz_vor_dombau: sicher (Dombau begonnen 1030)
+  lage_domgarten: Domgarten (ehemaliger Standort)
+  dommusik_tradition: mehr als 1000 Jahre
+  lehrer_bekannt: Bischof Balderich von Säckingen
+GUELTIG_AB: 900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 57-speyer/016
+ENTITÄT: person
+BEZEICHNUNG: Betty Blum
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/blum-betty/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 6. März 1882
+  geburtsort: Niederkirchen
+  sterbedatum: 1936
+  beruf: Lehrerin
+  lehrort: Höhere Töchterschule in der Hagedornsgasse
+  geschaeftstaetig: ja, Eisenwarenhandlung
+  geschaeftsadresse: Wormser Straße 8 (heute Zapata Speyer)
+  wohnadresse: Villa Rosenstein am Rosensteiner Hang 1
+  charakteristika: aktiv, eigenwillig, engagiert, lesend, kunstliebend, Fahrradfahrerin, Schwimmerin, rauchte Zigarren
+  politisches_engagement: 1931 Ersatzliste Stadtrat Deutsche Demokratische Partei (DDP)
+  uebernahme_geschaeft: nach Tod des Vaters 1919
+  uebernahme_grund: ja
+  verfolgung_ns_zeit: Arisierung des Geschäfts, Badeanstaltverbot, Schwesterauswanderung
+  auswanderungsbemueht: ja, Visum vorhanden
+  todesumstaende: Krankheit, Operation im Ludwigshafener Krankenhaus, ungeklärte Folgen 1936
+  internationales_jahr_london: ein Jahr (Sprachvertiefung)
+GUELTIG_AB: 1882
+GUELTIG_BIS: 1936
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 57-speyer/017
+ENTITÄT: person
+BEZEICHNUNG: Else Krieg
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/krieg-else/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 15. März 1884
+  geburtsort: Kaiserslautern
+  sterbedatum: 4. Juni 1970
+  alter_beim_tod: 86 Jahre
+  kirchen_verbindung_frueh: enge Verbindung zur evangelischen Kirche (Cousin Kirchenpräsident)
+  vater_amt: ab 1903 Vorsteheramt der Diakonissenanstalt Speyer
+  erste_lehr_und_beruf: Sekretärin des Vaters
+  eintritt_orden: 1909 in den Orden der Diakonissen
+  schwester_eintritt: 1925 ebenfalls zum Orden
+  wahl_oberin: 1916
+  amtszeit_oberin: 47 Jahre (bis 1963)
+  schwerpunkt_reform: staatliche Anerkennung der Ausbildung in Sozialpädagogik und Pflege
+  zeithistorischer_kampf: gegen Gleichschaltung des Diakonissenmutterhauses durch Nationalsozialisten
+  kampf_methode: mit Hilfe anderer Mutterhäuser erfolgreich Verhinderung der Gleichschaltung
+  weltkrieg_i: Betreuung Verwundeter
+  weltkrieg_ii: Versorging der Verwundeten in Lazaretten, Halt- und Hoffnungsgabe
+  internationale_mitgliedschaft_nach_1945: ja
+  auszeichnungen: Bundesverdienstkreuz (seit 1952)
+  charakterisierung: Durchsetzungsvermögen, Idealismus, Warmherzigkeit, Klugheit
+GUELTIG_AB: 1884
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 57-speyer/018
+ENTITÄT: person
+BEZEICHNUNG: Marie Wolf (geb. Rapp)
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/wolf-marie/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 8. November 1886
+  geburtsort: Speyer
+  sterbedatum: 25. November 1944
+  sterbeort: Heidelberg (nach Operation)
+  leichnam_beisetzung: Speyer
+  herkunft: Arbeiterfamilie
+  vater_unterstuetzung: ja (ungewöhnlich für die Zeit)
+  ehemann: Karl Wolf, BASF-Arbeiter
+  kinder: zwei
+  wohnadresse: Fischergasse 8
+  beruf: Zigarrenarbeiterin
+  politisches_engagement: ab 1920 nach Frauenwahlrecht
+  stadtrat_eintritt: 1920
+  stadtrat_alter_beim_eintritt: 33 Jahre
+  besonderheit: erste sozialdemokratische Stadträtin
+  stadtrat_alleinstellung: 1924-1933 unter 30 Männern einzige Frau
+  politische_partnerin: Luise Brehm (gemeinsam 1920 erste Frauen)
+  gewerkschafterin: ja
+  gewerkschafts_rollen: ab 1930 Bezirksleiterin Tabakarbeiterverband Baden-Pfalz
+  awo_mitbegruenderin: 1920 Mitbegründerin der Arbeiterwohlfahrt (AWO)
+  walderholung_initiatorin: während WWI eine der Mitinitiatorinnen
+  ns_zeit: Machtergreifung 1933 beendete politische Karriere, Amtsniederlage erzwungen, Flucht nach Norddeutschland
+GUELTIG_AB: 1886
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 57-speyer/019
+ENTITÄT: person
+BEZEICHNUNG: Hanni Knerr
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/knerr-hanni/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 15. Dezember 1935
+  sterbedatum: 6. November 2013
+  beruf: Realschullehrerin (Mathematik und evangelische Religion)
+  berufliche_vermittlung: Schülern soziales Handeln
+  frauenpolitik_vorsitz: 1978-1982 Vorsitzende ASF Speyer
+  frauenpolitik_landesvorstand: seit 1981 Landesvorstand Rheinland-Pfalz (11 Jahre Leitung)
+  frauenpolitik_bundesvorstand: mehrere Jahre
+  stadtrat_mitgliedschaft: 1979-2004 SPD-Fraktion Speyer
+  stadtrat_rolle_ab_1994: stellvertretende Fraktionsvorsitzende
+  staedtische_projekte: Frauenförderplan (erste), Stelle Frauenbeauftragte (erste), deren Ausstattung
+  engagement_frauenhaus: besonderes Anliegen
+  politische_eigenschaften: Schlagfertigkeit, gute Argumente, Beharrlichkeit, Humor
+  vereinsarbeit: Naturfreunde, Kunstverein
+  deutsch_israelische_gesellschaft: Gründungsmitglied
+  staedtepartnerschaft: Yavne (Bemühungen)
+  aufsicharatsmaendschaften: Gemeinnützige Baugenossenschaft, WES Wirtschaftsförderungs- und Entwicklungsgesellschaft Speyer mbH
+  kirchliche_aerter: Johanneskirche (Presbyterium), Bezirkskirchenrat Kirchenbezirk Speyer
+  auszeichnungen: Verdienstorden des Landes Rheinland-Pfalz, Bundesverdienstkreuz am Bande
+GUELTIG_AB: 1935
+GUELTIG_BIS: 2013
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 57-speyer/020
+ENTITÄT: person
+BEZEICHNUNG: Lina Sommer (geb. Müller)
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/sommer-lina/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 8. Juli 1862
+  geburtsort: Speyer
+  sterbedatum: 27. Juli 1932
+  sterbeort: Karlsruhe
+  beigesetzung: Jockgrim
+  position_familie: älteste von fünf Geschwistern
+  familienname_geburts: Müller (alteingesessene Familie)
+  literarische_aktivitaeten: pfälzische Mundartdichtung, hochdeutsche Lyrik und Prosa
+  bekanntheit: pfälzische Mundartdichterin
+  eheschließung: 1867 mit Adolph Sommer (Witwer)
+  ehemann_beruf: Baugeschäft
+  ehemann_schulden: hochverschuldet, Firmenversteigerung
+  kinder: sechs, von denen drei (Söhne) am Leben blieben
+  berufliche_neben_arbeiten: Stickereien, Schreibarbeiten, Nachhilfeunterricht (Familienunterhalt aufbessern)
+  umzug_grund: Ehemann suchte Arbeit in Deutschland
+  finanzielle_unterstuetzung_kinder: Schulbildung und Studium ermöglicht
+  ehemann_todesdatum: 1904 in Köln
+  ehemann_status_danach: Witwe, schwer erkrankt, mittellos
+  erwerbs_zeit_koel: humorvolle, ironische Gedichte und Geschichten
+  verlag_angebote: ab 1910 (Alter 48) von Veröffentlichungen lebbar
+  publikationen_arbeit: feste Mitarbeiterin Fliegenden Blätter
+  publikationen_umfang: ca. 40 Bücher, teils hohe Auflagen
+  publikationen_theater: Theaterstücke
+  geburtstagsfeier: 70. Geburtstag 1932 in vielen Zeitungen in ganz Deutschland gewürdigt
+  rundfunk_feature: Bayerischer Rundfunk widmete Porträt
+  todesereignis: wenige Tage nach Geburtstagsfeier
+GUELTIG_AB: 1862
+GUELTIG_BIS: 1932
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 57-speyer/021
+ENTITÄT: person
+BEZEICHNUNG: Edith Stein
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/stein-edith/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 12. Oktober 1891
+  geburtsort: Breslau (als Kind jüdischer Familie)
+  sterbedatum: 9. August 1942
+  sterbeort: Auschwitz
+  sterbeart: ermordet (vergast)
+  wissenschaft: Philosophin
+  doktor_bei: Edmund Husserl in Freiburg
+  assistentin_bei: Husserl
+  berufsausbildung_philosophenfreundin: Hedwig Conrad-Martius (Bergzabern, Pfalz)
+  religionswechsel_datum: In Bergzabern
+  konfession_neu: katholisch
+  firmung_ort: Bischofshaus Speyer
+  beruf_nach_religionswechsel: Lehrerin im Dominikanerinnenkloster St. Magdalena
+  dozentin_in_muenster: Institut für wissenschaftliche Pädagogik
+  dozentin_dauer: nur ein Jahr
+  entlassung_grund: Jüdin (1933)
+  ordenName: Schwester Benedicta a Cruce
+  orden: Karmelorden Köln
+  flucht_grund: Nazis
+  flucht_ort: Echt in Holland
+  deportation: nach Auschwitz
+  seligsprechung: 1987, Papst Johannes Paul II.
+  papstbesuch_speyer: anlässlich Seligsprechung
+  heiligsprechung: 1997
+  frauen_engagement_studienzeit: Kampf für Rechte der Frauen
+  geschichtsvisionen: prophezeite 1930 Judenverfolgung und Kirchenverfolgung (hellsichtig)
+  historisches_erleben_speyer: Abzug französischer Truppen 1930, Einmarsch bayerischer Polizei
+  schulbenennungen: Dominikanerinnen haben Schulen nach ihr benannt
+  gedenkstaette_verortung: Kloster St. Magdalena, Reliquiar in Katharinenkapelle des Domes
+GUELTIG_AB: 1891
+GUELTIG_BIS: 1942
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 57-speyer/022
+ENTITÄT: person
+BEZEICHNUNG: Ilse Wendel
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/wendel-ilse/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 16. Juni 1926
+  geburtsort: Landau
+  sterbedatum: 7. Juli 2015
+  alter_beim_tod: 89 Jahre
+  schulausbildung: Mädchenoberschule Landau
+  schulzeit_unterbrechen: September 1944 (Schanzarbeiten im Saargebiet)
+  kriegsverlust: Luftangriff 16. März 1945 zerstörte Elternhaus, Eltern und dreijähriger Bruder getötet
+  reifeprüfung: April 1946 nachgeholt
+  berufswunsch: Lehrerin (nicht realisiert wegen Zeitumstände)
+  gemeindehelferin: Mai 1946 in Landau
+  finanzielle_verantwortung: Lebensunterhalt für sich und jüngere Schwester (drei Jahre)
+  jugendarbeit_kindheit: evangelische Jugendarbeit in der Stiftskirche
+  weltjugendkonferenz: 1947 als Delegierte der Evangelischen Jugend der Pfalz in Oslo
+  diakonissen_eintritt: 3. Januar 1950
+  gemeindehelferin_examen: 1951
+  krankenschwester_ausbildung: ja
+  diakonissen_einsegnung: September 1954
+  diakonissen_rolle: Probemeisterin (junge Probeschwestern anleiten)
+  stellvertreter_oberschwester: Oktober 1956 der Oberschwester Else Krieg
+  pfarrdiakonin_ausbildung: 1973-1974
+  pfarrdiakonin_ordinierung: September 1974
+  oberschwester_funktion: ab 1976 der Diakonissenanstalt Speyer
+  oberschwester_standort: Mutterhaus Hilgardstraße 26
+  zeitliche_tätigkeit: Neu- und Erweiterungsbauten (Hospiz Wilhelminenstift 1996 - erstes stationäres Hospiz Rheinland-Pfalz)
+  ruhestand: April 1997
+GUELTIG_AB: 1926
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 57-speyer/023
+ENTITÄT: person
+BEZEICHNUNG: Kaiserin Gisela
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: November 989 oder November 990
+  sterbedatum: Februar 1043
+  titel: deutsche Kaiserin
+  kaiserin_jahre: 1027-1043
+  ehemann: Kaiser Konrad II.
+  charakterisierung: kluge, wichtigste Beraterin des Kaisers
+  grablege: Krypta des Doms zu Speyer
+GUELTIG_AB: 989
+GUELTIG_BIS: 1043
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 57-speyer/024
+ENTITÄT: person
+BEZEICHNUNG: Kaiserin Mathilde
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 7. Februar 1102
+  sterbedatum: 10. September 1167
+  eheschließung: 1114 mit Kaiser Heinrich V.
+  titel: deutsche Kaiserin
+  besonderheit_frauen: erste Frau, die englischen Thron für sich selbst beanspruchte
+  dyn_linienherkunft: Stammmutter des Hauses Plantagenet
+  familie_bezuege: Enkelin von Wilhelm dem Eroberer, Großmutter von König Richard Löwenherz
+GUELTIG_AB: 1102
+GUELTIG_BIS: 1167
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 57-speyer/025
+ENTITÄT: person
+BEZEICHNUNG: Henriette Feuerbach
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/feuerbach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 13. August 1812
+  sterbedatum: 5. August 1892
+  beruf: Schriftstellerin
+  musiktalent: begabte Pianistin
+  foerderung: Förderin ihres Stiefsohnes, des Malers Anselm Feuerbach
+GUELTIG_AB: 1812
+GUELTIG_BIS: 1892
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 57-speyer/026
+ENTITÄT: person
+BEZEICHNUNG: Elisabeth Alschner
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 13. Februar 2020 [Erfassungsdatum, nicht Geburtstagsdatum]
+  geburt_tatsächlich: 1929
+  sterbedatum: 16. März 1997
+  rolle_betrieb: Betriebsrätin
+  gewerkschafterin: ja
+  politische_zug: Sozialdemokratin
+  politisches_engagement: Sozialpolitikerin
+  kulturelles_engagement: Kulturpolitikerin
+  geschichtliches_engagement: Historikerin
+GUELTIG_AB: 1929
+GUELTIG_BIS: 1997
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 57-speyer/027
+ENTITÄT: person
+BEZEICHNUNG: Sophie de la Roche
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 6. Dezember 1730
+  sterbedatum: 18. Februar 1807
+  besonderheit_superlativ: erste deutschsprachige Berufsschriftstellerin
+  herausgeberin: Frauenzeitschrift
+  literarische_salonistin: Gastgeberin von Literarischen Salons
+  persoenliche_charakterisierung: emanzipiert
+GUELTIG_AB: 1730
+GUELTIG_BIS: 1807
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 57-speyer/028
+ENTITÄT: person
+BEZEICHNUNG: Karin Feucht
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 21. März 1933
+  sterbedatum: 26. Juli 1997
+  stadtvorstand_mitglied: 1979-1984
+  beruf: Grundschullehrerin
+  rolle_verwaltung: Jugenddezernentin
+  auszeichnung: 1983 Verleihung des Bundesverdienstkreuzes
+GUELTIG_AB: 1933
+GUELTIG_BIS: 1997
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 57-speyer/029
+ENTITÄT: person
+BEZEICHNUNG: Heike Häußler
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 1. Juli 1940
+  sterbedatum: 23. September 2013
+  auszeichnungen: Bundesverdienstkreuz am Bande, Trägerin
+  stadtraetinnen_jahre: 1984-2013
+  verkehrsverein_vorsitz: Vorsitzende Verkehrsverein Speyer
+  leistungsgemeinschaft_speyer_vorsitz: Vorsitzende Leistungsgemeinschaft Speyer
+  arbeitskreis_tourismus_gruendung: Gründerin
+GUELTIG_AB: 1940
+GUELTIG_BIS: 2013
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 57-speyer/030
+ENTITÄT: person
+BEZEICHNUNG: Hanni Knerr
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadtrat_rolle: Mitglied SPD-Fraktion Speyer
+GUELTIG_AB: 1979
+GUELTIG_BIS: 2004
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 57-speyer/031
+ENTITÄT: person
+BEZEICHNUNG: Anna Hufnagel
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 20. August 1900
+  sterbedatum: 10. Oktober 1977
+  beruf: Diakonisse
+  rolle_beruf: Kindergärtnerin
+  leitungsrolle: Leiterin des Kinderheims Speyer
+  literarische_aktivitaet: Gelegenheitsdichterin
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 57-speyer/032
+ENTITÄT: person
+BEZEICHNUNG: Brezel Christine
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 2. März 1840
+  sterbedatum: 1. Februar 1906
+  beruf: Brezelverkäuferin
+  arbeitsort_anschrift: Maximilianstr. 16
+GUELTIG_AB: 1840
+GUELTIG_BIS: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 57-speyer/033
+ENTITÄT: person
+BEZEICHNUNG: Maria Koenig
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 28. Oktober 1921
+  sterbedatum: 26. Juli 2005
+  historische_rolle: Zwangsarbeiterin in Speyer während der NS-Zeit
+  muse_kunstwerk: Ausstellung »Odyssey«
+  sohn_kuenstler: Mutter des Künstlers Robert Koenig
+GUELTIG_AB: 1921
+GUELTIG_BIS: 2005
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 57-speyer/034
+ENTITÄT: person
+BEZEICHNUNG: Sara Lehmann
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 25. August 1891
+  geburtsort: Speyer
+  sterbedatum: 16. Juli 1976
+  sterbeort: Straßburg
+  beruf: Leiterin des Wohlfahrtsamtes
+  charakterisierung: sozial engagiert
+  flucht: Exil nach Chile
+  rueckkehr: nach Straßburg
+GUELTIG_AB: 1891
+GUELTIG_BIS: 1976
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 57-speyer/035
+ENTITÄT: person
+BEZEICHNUNG: Dorothee Menrath
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 18. Februar 1945
+  sterbedatum: 4. November 2013
+  leitungsrolle: Leiterin des Stadtarchivs Speyer
+  leitungszeit: 1976 bis Anfang 2010
+  fachwissen: Frauenhistorische Initiativen und Veröffentlichungen
+GUELTIG_AB: 1945
+GUELTIG_BIS: 2013
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 57-speyer/036
+ENTITÄT: person
+BEZEICHNUNG: Rosa Metzger
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 27. Juli 1879
+  geburtsort: Speyer
+  sterbedatum: 1944
+  sterbeort: Auschwitz (vergast)
+  charakterisierung: selbstbestimmte Frau
+  beruf_kino: Mitarbeiterin im ersten festen Kino in Speyer
+  beruf_fotografie: Berufsfotografin
+  fotostudio_ort: Ludwigshafen
+  deportation_1940: nach Gurs
+  konzentrationslager_inhaftierung: vier Konzentrationslager
+  ns_ende: Vergasung in Auschwitz
+GUELTIG_AB: 1879
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 57-speyer/037
+ENTITÄT: person
+BEZEICHNUNG: Franziska Möllinger
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 14. März 1817
+  sterbedatum: 26. Februar 1880
+  beruf: erste Photographin [in Speyer]
+  superlativ: erste Photographin
+  arbeitsort_anschrift: Maximilianstr. 10
+GUELTIG_AB: 1817
+GUELTIG_BIS: 1880
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 57-speyer/038
+ENTITÄT: person
+BEZEICHNUNG: Karin Ruppert
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 21. Juli 1936
+  sterbedatum: 26. Mai 2017
+  stadtraetinnen_partei: FDP
+  seniorenbeirat_rolle: Mitglied
+  presbyterin_rolle: Presbyterin
+  literarische_aktivitaet: Mundartdichterin
+GUELTIG_AB: 1936
+GUELTIG_BIS: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 57-speyer/039
+ENTITÄT: person
+BEZEICHNUNG: Elisabeth Schleicher-Landgraf
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 23. Januar 1892
+  sterbedatum: 20. Dezember 1990
+  auszeichnungen: Bundesverdienstkreuz am Bande (1975), Goldene Ehrennadel der Europa Union (1986)
+  ehrenbuerger: seit 1993 Ehrenbürgerin von Speyer
+  historische_rolle: erste Frau in Speyer mit Abitur
+  beruf: Lehrerin
+  charakterisierung: Vorbild für Frauen, trägt zur Emanzipation der Frauen bei
+GUELTIG_AB: 1892
+GUELTIG_BIS: 1990
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 57-speyer/040
+ENTITÄT: person
+BEZEICHNUNG: Emma Schultheis
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 4. April 1892
+  sterbedatum: 3. Februar 1978
+  charakterisierung: riskierte ihr Leben um anderen zu helfen
+  widerstand_ns_zeit: Widerstandskämpferin
+  kameradschaft_gruendung: Mitbegründerin der Speyerer Kameradschaft
+  inhaftierung_1944: von Nationalsozialisten inhaftiert
+GUELTIG_AB: 1892
+GUELTIG_BIS: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 57-speyer/041
+ENTITÄT: person
+BEZEICHNUNG: Vincentia Simbsler
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 6. Oktober 1768
+  sterbedatum: 6. April 1838
+  charakterisierung: geschickte Ökonomin in den Wirren der Französischen Revolution
+  engagement_kloster: engagierte Kämpferin für die Wiedererrichtung des Klosters
+  orden_rolle: erste Ordensoberin nach der Säkularisation im Kloster St. Magdalena
+  beigesetzung: östlich der Bernhardskirche (Grab 1841 eingeebnet)
+GUELTIG_AB: 1768
+GUELTIG_BIS: 1838
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 57-speyer/042
+ENTITÄT: person
+BEZEICHNUNG: Mathilde Vollmoeller-Purrmann
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 18. Oktober 1876
+  sterbedatum: 16. Juli 1943
+  beruf_kuenste: Künstlerin Ölmalerei und Aquarell
+  schuelerin: ab 1908 Schülerin von Henri Matisse in Paris
+  literarischer_austausch: 1906-1920 Briefwechsel mit Rainer Maria Rilke
+  eheschließung: 1912 mit dem Speyerer Künstler Hans Purrmann
+  rueckkehr_deutschland: 1914
+GUELTIG_AB: 1876
+GUELTIG_BIS: 1943
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 57-speyer/043
+ENTITÄT: personengruppe
+BEZEICHNUNG: Jüdische Frauen (SchUM-Gemeinden)
+QUELLE: https://www.speyer.de/de/familie-und-soziales/frauen/historische-frauenspuren-in-speyer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitliche_periode: Mittelalter
+  stellenwert: sehr hoher Stellenwert
+  engagement_bereiche: Familie, Gesellschaft, Geschäftsleben, religiöse Gemeinde
+  engagement_charakterisierung: sehr engagiert
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 57-speyer/044
+ENTITÄT: institution
+BEZEICHNUNG: Tourist-Information Speyer
+QUELLE: https://www.speyer.de/de/rathaus/medieninformationen/archiv-2025/tag-des-offenen-denkmals-2025-in-speyer-geschichte-erleben-denkmale-entdecken/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anschrift: Maximilianstraße 13
+  funktion: Stadtspaziergänge, Gästeführungen, Informationen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+

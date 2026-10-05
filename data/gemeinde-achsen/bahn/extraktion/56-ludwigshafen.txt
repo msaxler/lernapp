@@ -1,0 +1,562 @@
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus der Stadtgeschichte
+ORTSTEIL_BEZUG: Süd
+QUELLE: https://ludwigshafen.de/leben/kultur/haus-der-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fruehere_bezeichnung: Rhenushalle
+  lage: ehemaliges Lagerhaus, Luitpoldhafen, am Rhein
+  funktion: Stadtarchiv und Stadtmuseum
+  bauherr: Hafenbetriebe Ludwigshafen
+  nutzer: Stadt Ludwigshafen
+  archivgut_umfang: 6 km
+  archivgut_wertigkeit: teilweise als "national wertvoll" anerkannt
+  fassade_design: farbig, erinnert an gestapelte Container
+  erdgeschoss: verglastes Foyer, Vortragssaal, Tagungs- und Besprechungsräume, Archivbestände, Büros, Lesesaal
+  mittleres_geschoss: Lagerung Archivgut mit fahrbaren Regalanlagen
+  obergeschoss: Archiv Bauaufsicht, Stadtmuseum mit familienfreundlicher Ausstellungskonzeption
+  fertigstellung_geplant: Ende 2028
+GUELTIG_AB: 2029
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum Ludwigshafen
+QUELLE: https://ludwigshafen.de/leben/kultur/haus-der-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort_alt: Rathaus-Center, obere Ebene, Innenstadt
+  standort_zeitraum_alt: 1984-2021
+  standort_neu: Haus der Stadtgeschichte, Luitpoldhafen, Stadtteil Süd
+  eroffnung_neu: 2029
+  fokus: Geschichte Ludwigshafens schlaglichtartig anhand von Exponaten, Texten, Medienstationen
+  zeitliche_abdeckung: Anfang 17. Jahrhundert bis Stadtgründung Mitte 19. Jahrhundert
+  themen: alle Stadtteile, einige mit langer Ortsgeschichte
+  ausstellungskonzept: zeitgemäß, familienfreundlich, Originale, Fotografien, Videos, Audiostationen, interaktive Elemente
+  besonderheit: Parallelen zu anderen Städten in Deutschland und Europa
+  rhein_fokus: besondere Berücksichtigung des Rheins als Natur-, Kultur- und Wirtschaftsraum
+GUELTIG_BIS: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Dr. Regina Heilmann
+QUELLE: https://ludwigshafen.de/leben/kultur/stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Leitung Stadtmuseum Ludwigshafen
+  telefon: 0621 504-2580
+  email: regina.heilmann@ludwigshafen.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Karl-Otto-Braun-Museum
+ORTSTEIL_BEZUG: Oppau
+QUELLE: https://ludwigshafen.de/leben/kultur/stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Heimatmuseum
+  lage: Oppauer Rathaus
+  fokus: Geschichte der nördlichen Stadtteile Oppau, Edigheim, Pfingstweide
+  status: Nebenmuseum des Stadtmuseums
+  kooperation: Verein zur Förderung des Karl-Otto-Braun-Museums
+  dauerausstellung: ja
+  sonderausstellungen: mehrfach im Jahr, historischer, kultureller und künstlerischer Inhalt
+  adresse: Edigheimer Straße 26, 67069 Ludwigshafen
+  oeffnungszeiten: Sonntag 10-13 und 14-17 Uhr, nach telefonischer Vereinbarung
+  telefon: 0621 504-2573
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Sigrid Kern
+QUELLE: https://ludwigshafen.de/leben/kultur/stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: 1. Vorsitzende Förderverein Karl-Otto-Braun-Museum
+  mobil: 0176 34 62 89 66
+  email: charlotkern@gmail.com
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Schillerhaus Oggersheim
+ORTSTEIL_BEZUG: Oggersheim
+QUELLE: https://ludwigshafen.de/leben/kultur/stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Friedrich-Schiller-Gedenkstätte, Nebenmuseum des Stadtmuseums
+  fruehere_bezeichnung: Viehhof
+  fruehere_funktion: Gaststätte mit Gästezimmern seit 18. Jahrhundert
+  bekanntheit: Aufenthalt Friedrich Schiller knapp zwei Monate
+  werk_verfasst: Erstfassung "Fiesco" (Schiller)
+  ausstellung: Erstausgaben und Handschriften von Friedrich Schiller
+  weitere_info: traditionsreiche Geschichte Oggersheims, kurpfälzische Residenz Elisabeth Auguste (Ehefrau Kurfürst Carl Theodor)
+  naehe_wallfahrtkirche: ja, wenige Gehminuten entfernt
+  eintritt: kostenlos
+  barrierefreiheit: nein
+  adresse: Schillerstraße 6, 67071 Ludwigshafen
+  oeffnungszeiten: Mittwoch 13-20 Uhr, Freitag 10-12 und 13-17 Uhr, nach telefonischer Vereinbarung
+  geschlossen: 23. Dezember bis 8. Januar
+  telefon: 0621 504-4911
+  email: regina.heilmann@ludwigshafen.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person_historisch
+BEZEICHNUNG: Friedrich Schiller
+ORTSTEIL_BEZUG: Oggersheim
+QUELLE: https://ludwigshafen.de/leben/kultur/stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: deutscher Dichter und Dramatiker
+  aufenthalt_ort: Schillerhaus Oggersheim (ehemals Viehhof)
+  aufenthalt_dauer: knapp zwei Monate
+  werk_verfasst: Erstfassung "Fiesco"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person_historisch
+BEZEICHNUNG: Elisabeth Auguste
+QUELLE: https://ludwigshafen.de/leben/kultur/stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Ehefrau Kurfürst Carl Theodor
+  besitz: kurpfälzische Residenz in Oggersheim
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Museum Friesenheim
+ORTSTEIL_BEZUG: Friesenheim
+QUELLE: https://ludwigshafen.de/leben/kultur/stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 15. November 1982
+  gruender_anzahl: 19 Bürger
+  gruender_verein: Förderkreis Museum Friesenheim e.V.
+  lage: erstes Obergeschoss Friesenheimer Gemeindehaus (erbaut 1828), zwei ehemalige Schulräume
+  fokus: Geschichte des 1892 nach Ludwigshafen eingemeindeten Dorfes Friesenheim
+  dauerausstellung: ja
+  sonderausstellungen: an Kerwetagen, in der Adventszeit, zu anderen wichtigen Terminen
+  adresse: Im Gemeindehaus Friesenheim, Luitpoldstraße 48, 67063 Ludwigshafen
+  oeffnungszeiten: erster Sonntag im Monat 14-17 Uhr, nach Vereinbarung
+  eintritt: kostenlos
+  telefon: 0621 54 59 06 17
+  email: grutkowski@web.de
+  treffpunkt_verein: alle 14 Tage Montag 17:15-18:30 Uhr, Keller Luitpoldschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ausstellung
+BEZEICHNUNG: Hafengeschichten. Was bewegt Ludwigshafen?
+QUELLE: https://ludwigshafen.de/leben/kultur/stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: teilweise interaktive Online-Ausstellung
+  plattform: Kulturerbe-Portal "Kreuz Rad Löwe" (Rheinland-Pfalz)
+  startdatum: 28. August 2026
+  kurator: Lena Simon (Umwelthistorikerin, wissenschaftliche Volontärin Stadtmuseum)
+  thema: Hafen und Geschichte Ludwigshafens
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ausstellung
+BEZEICHNUNG: Ludwigshafen im Jahr 1956 – eine Stadt am Puls der Zeit
+QUELLE: https://ludwigshafen.de/leben/kultur/stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Fotografie-Ausstellung
+  organisator: Stadtmuseum und Stadtarchiv Ludwigshafen
+  lage: Friedenskirche
+  dauer: 2.–30. September 2026
+  anlass: 70 Jahre Wiedereröffnung Friedenskirche (22. April 1956)
+  schirmherr: D. Dr. Friedhelm Borggrefe (Ludwigshafener Ehrenbürger, Altdekan)
+GUELTIG_AB: 2026
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Friedenskirche
+QUELLE: https://ludwigshafen.de/leben/kultur/stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Leuschnerstraße
+  beschaedigung: dramatische Schäden durch Bombardierungen im Zweiten Weltkrieg
+  wiederaufbau: frühe 1950er Jahre
+  wiedereroffnung: 22. April 1956
+  besonderheit: architektonische Veränderungen, große Aufmerksamkeit und Beteiligung Stadtgesellschaft
+  grund_wiedereroffnung_ausstellung: 70-jähriges Jubiläum 2026
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Lena Simon
+QUELLE: https://ludwigshafen.de/leben/kultur/stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Umwelthistorikerin, wissenschaftliche Volontärin Stadtmuseum Ludwigshafen
+  kuratierte_ausstellungen: Hafengeschichten. Was bewegt Ludwigshafen?, Ausstellung Jahrhunderthochwasser 1882/83 und Hochwasserschutz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: D. Dr. Friedhelm Borggrefe
+QUELLE: https://ludwigshafen.de/leben/kultur/stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Ludwigshafener Ehrenbürger, Altdekan
+  funktion: Schirmherr Ausstellung "Ludwigshafen im Jahr 1956"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Ludwigshafen
+QUELLE: https://ludwigshafen.de/leben | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadtteile_anzahl: 14
+  ortsbezirke_anzahl: 10
+  ortsbezirke_struktur: je Ortsbezirk Ortsbeirat mit Ortsvorsteher/Ortsvorsteherin
+  angebot_kultur: vielfältig, Ziel alle Altersgruppen erreichen
+  angebot_bildung: vielfältig für alle Altersgruppen
+  angebot_sport: Breiten- und Spitzensport, zahlreiche Vereine
+  einrichtungen: Stadtbibliothek, Wildpark, Musikschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Friesenheim
+QUELLE: https://ludwigshafen.de/leben/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwahnung: 17. März 771
+  ersterwahnung_quelle: Lorscher Kodex
+  namenbedeutung: Heim der Friso
+GUELTIG_AB: 771
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gartenstadt
+QUELLE: https://ludwigshafen.de/leben/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung_bewegung: Gartenstadt-Bewegung der Jahrhundertwende
+  entstehung_grund: Wunsch nach gesundem, ausgeglichenem, grünem Wohnumfeld als Alternative zu Straßenschluchten der Ludwigshafener Arbeiterbezirke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Maudach
+QUELLE: https://ludwigshafen.de/leben/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwahnung: 5. Juli 770
+  ersterwahnung_quelle: Lorscher Kodex
+  historischer_name: Mudahen
+GUELTIG_AB: 770
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mundenheim
+QUELLE: https://ludwigshafen.de/leben/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueheste_spur: Jungsteinzeit
+  gruendung: Franken, frühes 6. Jahrhundert
+  lage: Hochufer des Rheins
+  namenbedeutung: Heim des Mundo
+  ersterwahnung: 770
+  ersterwahnung_quelle: Lorscher Kodex
+GUELTIG_AB: 770
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Nord-Hemshof und West
+QUELLE: https://ludwigshafen.de/leben/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsbezirk: Nördliche Innenstadt
+  historischer_name: Hamingesheim
+  namenbedeutung: Heim des Haming
+  ersterwahnung: 771
+  ersterwahnung_quelle: Urkundenbuch des Klosters Lorsch
+GUELTIG_AB: 771
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oggersheim
+QUELLE: https://ludwigshafen.de/leben/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueheste_spur: mittlere Altsteinzeit
+  ersterwahnung: 60er Jahre 8. Jahrhundert
+  ersterwahnung_quelle: Lorscher Kodex
+  namenbedeutung: Heim des Agar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oppau, Edigheim, Pfingstweide
+QUELLE: https://ludwigshafen.de/leben/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsbezirk: nördlichster Ortsbezirk
+  stadtteile_anzahl: 3
+GUELTIG_AB: -
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ruchheim
+QUELLE: https://ludwigshafen.de/leben/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueheste_spur: Latène-Zeit, genauigkeit: 800-450 v.Chr.
+  ersterwahnung: um 900
+  ersterwahnung_quellen: Wormser Mauerbauordnung, Besitzverzeichnis Kloster Weißenburg im Elsaß
+  namenbedeutung: raues Heim
+GUELTIG_AB: 900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rheingönheim
+QUELLE: https://ludwigshafen.de/leben/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueheste_spur: Jungsteinzeit
+  roemisches_kastell: ja
+  roemisches_kastell_jahreszahl: ca. 40
+  roemisches_kastell_beschreibung: Kastell mit Wohnsiedlung, reichhaltige Funde bei Grabungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mitte und Süd
+QUELLE: https://ludwigshafen.de/leben/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsbezirk: Südliche Innenstadt
+  geschichte_beginn_modernes_ludwigshafen: 1843
+GUELTIG_AB: 1843
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Maudach
+ORTSTEIL_BEZUG: Maudach
+QUELLE: https://ludwigshafen.de/leben/stadtteile/maudach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwahnung: 5. Juli 770
+  ersterwahnung_quelle: Lorscher Kodex
+  historischer_name: Mudahen
+  ortsvorsteher: Andreas Olbert
+  email_ortsverwaltung: ov-maudach@ludwigshafen.de
+  telefon_ortsverwaltung: 0621 504-2159
+  adresse_ortsverwaltung: Von-Sturmfeder-Straße 3, 67067 Ludwigshafen
+GUELTIG_AB: 770
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ruchheim
+ORTSTEIL_BEZUG: Ruchheim
+QUELLE: https://ludwigshafen.de/leben/stadtteile/ruchheim | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueheste_spur: Latène-Zeit, genauigkeit: 800-450 v.Chr.
+  ersterwahnung: um 900
+  ersterwahnung_quellen: Wormser Mauerbauordnung, Besitzverzeichnis Kloster Weißenburg im Elsaß
+  namenbedeutung: raues Heim
+  ortsvorsteher: Dennis Schmidt
+  email_ortsverwaltung: ov-ruchheim@ludwigshafen.de
+  telefon_ortsverwaltung: 0621 504-2160
+  adresse_ortsverwaltung: Schloßstraße 1, 67071 Ludwigshafen
+GUELTIG_AB: 900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mundenheim
+ORTSTEIL_BEZUG: Mundenheim
+QUELLE: https://ludwigshafen.de/leben/stadtteile/mundenheim | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueheste_spur: Jungsteinzeit
+  gruendung: Franken, frühes 6. Jahrhundert
+  lage: Hochufer des Rheins
+  namenbedeutung: Heim des Mundo
+  ersterwahnung: 770
+  ersterwahnung_quelle: Lorscher Kodex
+  wochenmarkt: Mittwochs und Samstags ab 7 Uhr, Zedwitzhof
+  ortsvorsteher: Raymond Höptner
+  email_ortsverwaltung: ov-mundenheim@ludwigshafen.de
+  telefon_ortsverwaltung: 0621 504-2240
+  adresse_ortsverwaltung: Mundenheimer Straße 35, 67061 Ludwigshafen
+GUELTIG_AB: 770
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oggersheim
+ORTSTEIL_BEZUG: Oggersheim
+QUELLE: https://ludwigshafen.de/leben/stadtteile/oggersheim | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueheste_spur: mittlere Altsteinzeit
+  ersterwahnung: 60er Jahre 8. Jahrhundert
+  ersterwahnung_quelle: Lorscher Kodex
+  namenbedeutung: Heim des Agar
+  wochenmarkt: Freitags ab 7 Uhr, Schillerplatz
+  ortsvorsteher: Sylvia Weiler
+  email_ortsverwaltung: ov-oggersheim@ludwigshafen.de
+  telefon_ortsverwaltung: 0621 504-2153 oder -2018
+  adresse_ortsverwaltung: Schillerplatz 2, 67061 Ludwigshafen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Friesenheim
+ORTSTEIL_BEZUG: Friesenheim
+QUELLE: https://ludwigshafen.de/leben/stadtteile/friesenheim | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwahnung: 17. März 771
+  ersterwahnung_quelle: Lorscher Kodex
+  namenbedeutung: Heim der Friso
+  wochenmarkt: Mittwochs und Samstags ab 7 Uhr, Mittelallee Sternstraße
+  ortsvorsteher: Dr. Thorsten Ralle
+  email_ortsverwaltung: ov-friesenheim@ludwigshafen.de
+  telefon_ortsverwaltung: 0621 504-2169
+  adresse_ortsverwaltung: Luitpoldstraße 48, 67063 Ludwigshafen
+GUELTIG_AB: 771
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gartenstadt
+ORTSTEIL_BEZUG: Gartenstadt
+QUELLE: https://ludwigshafen.de/leben/stadtteile/gartenstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung_bewegung: Gartenstadt-Bewegung der Jahrhundertwende
+  entstehung_grund: Wunsch nach gesundem, ausgeglichenem, grünem Wohnumfeld als Alternative zu Straßenschluchten der Ludwigshafener Arbeiterbezirke
+  wochenmarkt_niederfeld: Dienstags ab 7 Uhr, Niederfeldstraße/Ladenzeile
+  wochenmarkt_gartenstadt: Freitags ab 7 Uhr, Volkshaus
+  ortsvorsteher: Andreas Rennig
+  email_ortsverwaltung: ov-gartenstadt@ludwigshafen.de
+  telefon_ortsverwaltung: 0621 504-2158
+  adresse_ortsverwaltung: Königsbacher Straße 14, 67067 Ludwigshafen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rheingönheim
+ORTSTEIL_BEZUG: Rheingönheim
+QUELLE: https://ludwigshafen.de/leben/stadtteile/rheingoenheim | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueheste_spur: Jungsteinzeit
+  roemisches_kastell_jahreszahl: ca. 40
+  roemisches_kastell_beschreibung: Kastell mit Wohnsiedlung, reichhaltige Funde bei Grabungen
+  ortsvorsteher: Wilhelm Wißmann
+  email_ortsverwaltung: ov-rheingoenheim@ludwigshafen.de
+  telefon_ortsverwaltung: 0621 504-2157
+  adresse_ortsverwaltung: Hauptstraße 210, 67067 Ludwigshafen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mitte und Süd
+ORTSTEIL_BEZUG: Mitte
+QUELLE: https://ludwigshafen.de/leben/stadtteile/mitte-und-sued | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsbezirk: Südliche Innenstadt
+  geschichte_beginn_modernes_ludwigshafen: 1843
+  wochenmarkt: Montags, Mittwochs, Freitags ab 7 Uhr, Friedrich-Wilhelm-Wagner-Platz
+  ortsvorsteher: Christoph Heller
+  email_ortsverwaltung: ov-sued@ludwigshafen.de
+  telefon_ortsverwaltung: 0621 504-2220
+  adresse_ortsverwaltung: Mundenheimer Straße 220, 67061 Ludwigshafen
+GUELTIG_AB: 1843
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Nord-Hemshof und West
+ORTSTEIL_BEZUG: Nord-Hemshof
+QUELLE: https://ludwigshafen.de/leben/stadtteile/nord-hemshof-und-west | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsbezirk: Nördliche Innenstadt
+  historischer_name: Hamingesheim
+  namenbedeutung: Heim des Haming
+  ersterwahnung: 771
+  ersterwahnung_quelle: Urkundenbuch des Klosters Lorsch
+  wochenmarkt: Dienstags, Donnerstags, Samstags ab 7 Uhr, Goerdelerplatz
+  ortsvorsteher: Osman Gürsoy
+  email_ortsverwaltung: ov-nord@ludwigshafen.de
+  telefon_ortsverwaltung: 0621 504-3343
+  adresse_ortsverwaltung: Gartenstraße 9, 67063 Ludwigshafen
+GUELTIG_AB: 771
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oppau
+ORTSTEIL_BEZUG: Oppau
+QUELLE: https://ludwigshafen.de/leben/stadtteile/oppau-edigheim-pfingstweide | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsbezirk: nördlichster Ortsbezirk
+  wochenmarkt: Donnerstags ab 7 Uhr, Karolinenstraße
+  ortsvorsteher: Frank Meier
+  email_ortsverwaltung: ov-oppau@ludwigshafen.de
+  telefon_ortsverwaltung: 0621 504-2130
+  adresse_ortsverwaltung: Edigheimer Straße 26, 67069 Ludwigshafen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

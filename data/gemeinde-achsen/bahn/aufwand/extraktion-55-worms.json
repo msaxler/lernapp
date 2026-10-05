@@ -1,0 +1,50 @@
+{
+ "stufe": "extraktion",
+ "ort": "55-worms",
+ "prompt": "prompt-stufe1-v0.6.txt",
+ "modell_wunsch": "haiku",
+ "modelle": [
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 58962,
+ "token_ein": 38184,
+ "token_aus": 30157,
+ "usage": {
+  "input_tokens": 9,
+  "cache_creation_input_tokens": 31054,
+  "cache_read_input_tokens": 7121,
+  "output_tokens": 30157,
+  "output_tokens_details": {
+   "thinking_tokens": 6889
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 31054,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 9,
+    "output_tokens": 30157,
+    "cache_read_input_tokens": 7121,
+    "cache_creation_input_tokens": 31054,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 31054
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.2136141,
+ "sekunden": 278,
+ "fehler": false,
+ "zeit": "2026-10-06T01:01:13"
+}

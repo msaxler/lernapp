@@ -1,0 +1,44 @@
+Orte: 53-koblenz 54-alzey 55-worms 56-ludwigshafen 57-speyer 58-landau
+== Extraktion (Haiku) 00:56:35
+53-koblenz           extraktion ein  55535  aus  20153   0.20 USD   174 s  claude-haiku-4-5-20251001
+54-alzey             extraktion ein  30209  aus  15253   0.12 USD   161 s  claude-haiku-4-5-20251001
+55-worms             extraktion ein  38184  aus  30157   0.21 USD   278 s  claude-haiku-4-5-20251001
+56-ludwigshafen      extraktion ein  27092  aus  18476   0.13 USD   132 s  claude-haiku-4-5-20251001
+57-speyer            extraktion ein  35252  aus  16049   0.14 USD   137 s  claude-haiku-4-5-20251001
+58-landau            extraktion ein  31168  aus  20668   0.15 USD   169 s  claude-haiku-4-5-20251001
+zusammen: 2617 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+53-koblenz         30930 Zeichen
+54-alzey           21438 Zeichen
+55-worms           61619 Zeichen
+56-ludwigshafen    23775 Zeichen
+57-speyer          38186 Zeichen
+58-landau          46932 Zeichen
+== Karten (claude-opus-5-5) 01:01:37
+53-koblenz           karten     ein  42352  aus  37534   1.04 USD   318 s  claude-opus-5-5
+54-alzey             karten     ein  38530  aus  39220   1.04 USD   333 s  claude-opus-5-5
+55-worms             karten     ein  64025  aus  37922   1.22 USD   329 s  claude-opus-5-5
+56-ludwigshafen      karten     ein  40785  aus  37909   1.03 USD   331 s  claude-opus-5-5
+57-speyer            karten     ein  48409  aus  37364   1.08 USD   326 s  claude-opus-5-5
+58-landau            karten     ein  56354  aus  32891   1.05 USD   278 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 01:11:33
+53-koblenz           pruefung   ein 101475  aus  13475   1.03 USD   116 s  claude-opus-5-5
+54-alzey             pruefung   ein  60039  aus   8027   0.59 USD    70 s  claude-opus-5-5
+55-worms             pruefung   ein  66800  aus   7695   0.63 USD    69 s  claude-opus-5-5
+56-ludwigshafen      pruefung   ein  57037  aus  10809   0.62 USD    96 s  claude-opus-5-5
+57-speyer            pruefung   ein  74511  aus   9360   0.73 USD    78 s  claude-opus-5-5
+58-landau            pruefung   ein  79216  aus  14009   0.86 USD   124 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 01:14:46
+53-koblenz           stufe2     ein 124547  aus   3117   0.31 USD    44 s  claude-opus-5-5,claude-haiku-4-5-20251001
+54-alzey             stufe2     ein 210073  aus   3553   0.44 USD    69 s  claude-opus-5-5,claude-haiku-4-5-20251001
+55-worms             stufe2     ein 296331  aus   9784   0.98 USD   128 s  claude-opus-5-5,claude-haiku-4-5-20251001
+56-ludwigshafen      stufe2     ein 654149  aus  10693   0.93 USD   189 s  claude-opus-5-5,claude-haiku-4-5-20251001
+57-speyer            FEHLER keine Karte an Stufe 2 – kein Lauf
+58-landau            FEHLER keine Karte an Stufe 2 – kein Lauf
+== Geprüfte Fassung und Export 01:17:55
+Urteile: {'bestätigt': 383, 'korrigiert': 130, 'unsicher': 20, 'gesperrt': 3} | im Vorrat: 533 Karten an 58 Orten
+iter1    10 Orte, 133 Karten, Tisch-Reihe 4
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     58 Orte, 533 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 714163 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 01:17:56

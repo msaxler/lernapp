@@ -1,0 +1,50 @@
+{
+ "stufe": "karten",
+ "ort": "54-alzey",
+ "prompt": "prompt-karten-v0.8.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 38113,
+ "token_ein": 38530,
+ "token_aus": 39220,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 31630,
+  "cache_read_input_tokens": 6898,
+  "output_tokens": 39220,
+  "output_tokens_details": {
+   "thinking_tokens": 29979
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 31630,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 39220,
+    "cache_read_input_tokens": 6898,
+    "cache_creation_input_tokens": 31630,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 31630
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 1.0388276,
+ "sekunden": 333,
+ "fehler": false,
+ "zeit": "2026-10-06T01:07:10"
+}

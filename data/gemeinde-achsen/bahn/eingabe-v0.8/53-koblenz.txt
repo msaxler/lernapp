@@ -1,0 +1,766 @@
+ZIELORT: Koblenz (Stadt)
+LAGE: 2 km nordöstlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Koblenz
+
+GRUNDDATEN:
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 113.020  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 105,25  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 1074  [berechnet aus Einwohner und Fläche]
+  kfz: KO (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 73 | 64 | 75 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2886946)]
+  naechste_grossstadt: Koblenz, 2 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 64 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Koblenz-Ehrenbreitstein, Bahnhof Koblenz-Lützel, Bahnhof Koblenz-Metternich, Bahnhof Koblenz-Rübenach, Haltepunkt Koblenz Stadtmitte, Koblenz Hauptbahnhof, Koblenz-Moselweiß  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 56001–56077  [Wikidata P281]
+  vorwahl: 02606, 0261  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 28,6 %, SPD 19,1 %, GRÜNE 14,6 %, AfD 14,3 %, Die Linke 10 %, FDP 5,1 %; Wahlbeteiligung 81,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: David Langner (SPD) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-06]
+  partnerstaedte: Nevers, London Borough of Haringey, Norwich, Maastricht, Novara, Austin, Petach Tikwa, Varaždin, Maseru, Chengdu, Chaskowo, Rouen  [Wikidata P190]
+  gewaesser: Rhein, Mosel  [Altbestand staedte.json]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT kfz: Kennzeichen (Ersatz: Partnerstadt), A, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Andernach (Stadt)
+  landkreis: Mayen-Koblenz  [dewiki Infobox]
+  einwohner: 29.920  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 53,34  [Wikidata P2046; Altbestand staedte.json]
+  kfz: MYK (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 60 | 81 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2956206)]
+  naechste_grossstadt: Koblenz, 16 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Andernach, Bahnhof Namedy, Haltepunkt Miesenheim  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 28,8 %, AfD 23,6 %, SPD 18,7 %, GRÜNE 8,4 %, Die Linke 6,7 %, BSW 5,1 %; Wahlbeteiligung 79,3 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Frankfurt am Main, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Koblenz, Boppard, St. Goar, Oberwesel, Bacharach, Bingen, Alzey, Worms, Ludwigshafen, Speyer, Landau
+
+FAKTEN (Zielort Koblenz):
+ID: 53-koblenz/001
+ENTITÄT: ort
+BEZEICHNUNG: Koblenz
+ORTSTEIL_BEZUG: (Hauptort)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  roemer_kastell: Confluentes
+  roemer_kastell_zeitalter: Anfang 4. Jahrhundert
+  roemer_kastell_standort: Mündung Mosel in Rhein
+  reich_unmittelbar_bis: 1018
+  gehoert_zu: Erzbistum Trier (ab 1018)
+  erzbistum_dauer: 800 Jahre (1018-1794)
+  stadtordnung: 1562
+  residenzstadt: ja (18. Jahrhundert)
+  kurfuerstliches_schloss_erbaut: 1786
+  schloss_erbauer: Clemens Wenzeslaus (letzter Kurfürst)
+  franzoesische_besatzung_start: Oktober 1794
+  hauptstadt_departement: Rhein-Mosel-Departement (1801)
+  wiener_kongress: 1815
+  staat_nach_kongress: Preußen
+  festungsstadt: ja
+  rheinisches_oberpraesidium_sitz: 1822
+  rheinprovinz: ab 1830
+  kaiserin_augusta_residenz: ja (nach 1850)
+  denkmal_kaiser_wilhelm: Deutsches Eck (1897)
+  amerikanische_besatzung_start: Dezember 1918
+  franzoesische_besatzung_start_2: Januar 1923
+  rheinische_republik: Oktober 1923 (kurzlebig)
+  franzoesischer_truppenabzug: Ende November 1929
+  nsdap_gau: Koblenz-Trier (ab 1941 Gau Moselland), Gauleiter Gustav Simon
+  eroberung_usa: Ende März 1945 (stark zerstört)
+  franzoesische_truppen_rueckkehr: Juli 1945
+  rheinland_pfalz_gruendung: Mai 1947
+  provisorische_landeshauptstadt: ja
+  landeshauptstadt_bis: 1950
+  landeshauptstadt_ab_1950: Mainz
+  status_heute: wirtschaftliches, administratives, kulturelles Oberzentrum (nördl. Rheinland-Pfalz)
+  grossstadt_status: ab 1962 (über 100.000 Einwohner)
+  schreibweise_aenderung: 1926 (Coblenz zu Koblenz)
+  zerstoerung_wwii: über 80%
+  luftangriffe: 19.04.1944 bis 29.01.1945 (37 massive Angriffe)
+GUELTIG_AB: 1
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 53-koblenz/002
+ENTITÄT: kastell
+BEZEICHNUNG: Confluentes
+ORTSTEIL_BEZUG: Deutsches Eck
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  roemer_name: Confluentes (die Zusammenfließenden)
+  standort: Mündung Mosel in Rhein / Deutsches Eck
+  errichtet: Anfang 4. Jahrhundert
+  funktion: römerstadt mit Stadtmauer
+GUELTIG_AB: 300
+GUELTIG_BIS: 5
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 53-koblenz/003
+ENTITÄT: schloss
+BEZEICHNUNG: Kurfürstliches Schloss
+ORTSTEIL_BEZUG: (Neustadt)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1786
+  erbauer: Clemens Wenzeslaus (letzter Trierer Kurfürst)
+  stil: französischer Frühklassizismus
+  funktion: Residenz/Wohnsitz
+  bedeutung: einer der bedeutendsten Schlossbauten des französischen Frühklassizismus in Südwestdeutschland
+  status: eines der letzten Residenzschlösser vor der Französischen Revolution
+  teil_welterbe: ja (seit 2002, UNESCO Oberes Mittelrheintal)
+GUELTIG_AB: 1786
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 53-koblenz/004
+ENTITÄT: kirche
+BEZEICHNUNG: Kastorkirche
+ORTSTEIL_BEZUG: (Altstadt)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 836
+  stil: romanisch und gotisch
+  erweiterung_und_umbau: ja (über Jahrhunderte)
+GUELTIG_AB: 836
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 53-koblenz/005
+ENTITÄT: kirche
+BEZEICHNUNG: Liebfrauenkirche / Unserer lieben Frau
+ORTSTEIL_BEZUG: (Altstadt)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1180
+  stil: romanisch und gotisch
+  patron: Himmelskönigin / Maria
+  funktion: Pfarrkirche
+GUELTIG_AB: 1180
+GUELTIG_BIS: (heute)
+IST_VERMUTISMUS_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 53-koblenz/006
+ENTITÄT: burg
+BEZEICHNUNG: Alte Burg (Zwingburg)
+ORTSTEIL_BEZUG: (Altstadt)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_von: Trierer Erzbischof Heinrich von Vinstingen
+  erbaut: 13. Jahrhundert
+  grund: Kontrolle gegen Freiheits- und Unabhängigkeitsstreben der Bevölkerung
+  typ: Wasserburg
+  heutige_nutzung: Sitz des Stadtarchivs
+GUELTIG_AB: 1200
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 53-koblenz/007
+ENTITÄT: brücke
+BEZEICHNUNG: Balduinbrücke / Alte Moselbrücke
+ORTSTEIL_BEZUG: (über die Mosel)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1343
+  material: Stein
+  fluss: Mosel
+  superlativ: älteste erhaltene Brücke der Stadt Koblenz
+GUELTIG_AB: 1343
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 53-koblenz/008
+ENTITÄT: burg
+BEZEICHNUNG: Burg Stolzenfels
+ORTSTEIL_BEZUG: Stolzenfels
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: 13. Jahrhundert
+  teil_welterbe: ja (seit 2002, UNESCO Oberes Mittelrheintal)
+GUELTIG_AB: 1200
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 53-koblenz/009
+ENTITÄT: festung
+BEZEICHNUNG: Festung Ehrenbreitstein
+ORTSTEIL_BEZUG: Ehrenbreitstein
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung_burg: 10. Jahrhundert (Vorgängerbau)
+  residenzstadt: ja (16.-17. Jahrhundert für Trierer Erzbischöfe/Kurfürsten)
+  festungsausbau_beginn: 16./17. Jahrhundert
+  festungsbaumeister: Johann Lollio gen. Saddeler (Düsseldorf, ab 1665)
+  festungstyp: bastionsartig
+  vollausbau: unter preußischer Herrschaft (ab 1815)
+  teil_welterbe: ja (seit 2002, UNESCO Oberes Mittelrheintal)
+GUELTIG_AB: 1000
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 53-koblenz/010
+ENTITÄT: fort
+BEZEICHNUNG: Fort Konstantin
+ORTSTEIL_BEZUG: Karthause
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: unter preußischer Herrschaft (ca. 1850er-1860er)
+  teil_welterbe: ja (seit 2002, UNESCO Oberes Mittelrheintal als ehemalige preußische Festung)
+GUELTIG_AB: 1850
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 53-koblenz/011
+ENTITÄT: fort
+BEZEICHNUNG: Fort Asterstein
+ORTSTEIL_BEZUG: Asterstein
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: unter preußischer Herrschaft
+  teil_welterbe: ja (seit 2002, UNESCO Oberes Mittelrheintal als ehemalige preußische Festung)
+GUELTIG_AB: 1815
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 53-koblenz/012
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Rheinanlagen
+ORTSTEIL_BEZUG: (Rheinufer)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1850-1860
+  grund: Wunsch der Kaiserin Augusta
+  danksagung_buerger: Denkmal für Augusta
+GUELTIG_AB: 1850
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 53-koblenz/013
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neustadt
+ORTSTEIL_BEZUG: (nördlich des Rheinufers)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: 18. Jahrhundert
+  grund_entstehung: Abriss Teile der Stadtmauer unter Clemens Wenzeslaus
+  lage: Rheinufer
+GUELTIG_AB: 1700
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 53-koblenz/014
+ENTITÄT: ortsteil
+BEZEICHNUNG: Südstadt
+ORTSTEIL_BEZUG: Südstadt
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: um 1900
+GUELTIG_AB: 1900
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 53-koblenz/015
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberwerth
+ORTSTEIL_BEZUG: Oberwerth
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Insel im Rhein
+  besiedlung: um 1900
+GUELTIG_AB: 1900
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 53-koblenz/016
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ehrenbreitstein
+ORTSTEIL_BEZUG: Ehrenbreitstein
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  burg_errichtet: 10. Jahrhundert
+  residenzstadt: ja (16.-17. Jahrhundert für Trierer Erzbischöfe)
+GUELTIG_AB: 1000
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 53-koblenz/017
+ENTITÄT: platz
+BEZEICHNUNG: Plan
+ORTSTEIL_BEZUG: (Altstadt)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verwendung_mittelalter: Markt-, Turnier-, Gerichtsplatz
+  hinrichtungen: ja
+  galgen_standort: Laubach
+GUELTIG_AB: 1200
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 53-koblenz/018
+ENTITÄT: denkmal
+BEZEICHNUNG: Kaiser-Wilhelm-Denkmal / Reiterstandbild Kaiser Wilhelm I.
+ORTSTEIL_BEZUG: Deutsches Eck
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1897
+  darstellung: Reiterstandbild
+  zerstoerung: ja (im Zweiten Weltkrieg)
+  wiedererrichtung: 1993
+  teil_welterbe: ja (seit 2002, UNESCO Oberes Mittelrheintal)
+GUELTIG_AB: 1897
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 53-koblenz/019
+ENTITÄT: ort
+BEZEICHNUNG: Deutsches Eck
+ORTSTEIL_BEZUG: (Altstadt)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geographie: Zusammenfluss Rhein und Mosel
+  denkmal: Kaiser-Wilhelm-Denkmal (1897, zerstört und 1993 wiedererrichtet)
+  teil_welterbe: ja (seit 2002, UNESCO Oberes Mittelrheintal)
+GUELTIG_AB: (antik)
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 53-koblenz/020
+ENTITÄT: auszeichnung
+BEZEICHNUNG: UNESCO-Welterbe Oberes Mittelrheintal
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihung: 2002
+  umfasst: historische Altstadt, Kurfürstliches Schloss, Schloss Stolzenfels, Alte Burg, Deutsches Eck, ehemalige preußische Festungen
+GUELTIG_AB: 2002
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 53-koblenz/021
+ENTITÄT: theatergebaeude
+BEZEICHNUNG: Koblenzer Stadttheater
+ORTSTEIL_BEZUG: (Altstadt)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1787
+GUELTIG_AB: 1787
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 53-koblenz/022
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Wasserleitung
+ORTSTEIL_BEZUG: (Stadt)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_wasserleitung: ja
+  zeitraum: 18. Jahrhundert (unter Clemens Wenzeslaus)
+  denkmal: Brunnenobelisk beim Theater
+GUELTIG_AB: 1700
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 53-koblenz/023
+ENTITÄT: symbol
+BEZEICHNUNG: Stadtwappen Koblenz
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: silberner Grund, rotes Kreuz mit goldener Krone in der Mitte
+  bedeutung_kreuz: Wappen des Erzbistums Trier
+  bedeutung_krone: Himmelskönigin (Liebfrauenkirche)
+  verwendung_seit: Mitte 14. Jahrhundert
+  form_aenderung: seit 16. Jahrhundert (Krone über Querbalken hinausgeschoben)
+  amtliche_form_heute: wie ursprünglich beschrieben (Krone in Mitte, nicht über Querbalken)
+  aeltestes_siegel: 1214 (mit Kirchenbild)
+  zweites_siegel: 1237 (Kirchenbild)
+  schoeffensiegel: 1282 (Rose)
+GUELTIG_AB: 1350
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 53-koblenz/024
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Joseph Breitbach
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/beruehmte-koblenzer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 20. September 1903
+  geburtsort: Koblenz
+  tod: 9. Mai 1980
+  todesort: München
+  beruf: Journalist, Schriftsteller
+  eltern_beruf: Ehrenbreitsteiner Volksschuldirektor
+  gymnasium: Görres-Gymnasium (ab 1913)
+  ausbildung: Buchhändler (geplant, nicht realisiert)
+  karriere_start: Volontariat "Rheinische Rundschau" (1921-1923), Leiter Sportteil
+  emigration: 1925 (endgültig aus Koblenz/Deutschland)
+  stationen_ausland: Augsburg, München, Prag, Paris, Marseille
+  aktivitaet_wwii: Fluchthelfer, Zusammenarbeit Widerstand, französischer Geheimdienst
+  werke_verboten: "Die Wandlung der Susanne Dasseldorf" (NS-Regime)
+  hauptwerk: "Bericht über Bruno" (1962, Insel-Verlag)
+  auszeichnungen: höchste Auszeichnungen für deutsch-französische Aussöhnung
+  preis_gestiftet: Joseph-Breitbach-Preis (ab 1998, höchstdotierter deutscher Literaturpreis)
+GUELTIG_AB: 1903
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 53-koblenz/025
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Clemens Wenzeslaus Brentano
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/beruehmte-koblenzer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 9. September 1778
+  geburtsort: Ehrenbreitstein
+  tod: 28. Juli 1842
+  todesort: Aschaffenburg
+  herkunft: Kaufmannsfamilie
+  taufpate: Kurfürst Clemens Wenzeslaus
+  großeltern: Georg Michael Frank von Laroche (Kanzler), Sophie von Laroche (erste deutsche Frau mit Frauenroman)
+  ausbildung: kaufmännisch, dann Universitäten (Bonn, Halle, Jena, Göttingen)
+  fachrichtungen: Bergwissenschaft, Medizin, Philosophie
+  epoche_literatur: Romantik (1798-1835)
+  werk_major: "Des Knaben Wunderhorn" (mit Achim von Arnim)
+  goethe_urteil: "schönste Buch der Romantik"
+  enthaltene_lieder: "Guten Abend, gute Nacht", "O Tannenbaum", "Schlaf, Kindlein, schlaf"
+  beziehung: Louise Hensel (Schriftstellerin, religiös)
+  hensel_werk: "Müde bin ich, geh' zur Ruh'"
+  hensel_wirkungsort: Koblenz
+  hensel_rolle: "Schwester in Zivil" im Bürgerhospital
+  konversion: zum Katholizismus
+  werk_erfolg: "Die Barmherzigen Schwestern" (Lebensgeschichte Katharina Emmerick)
+GUELTIG_AB: 1778
+GUELTIG_BIS: 1842
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 53-koblenz/026
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Carl Clemens Bücker
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/beruehmte-koblenzer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 11. Februar 1895
+  geburtsort: Ehrenbreitstein
+  tod: 3. März 1976
+  todesort: Mölln
+  beruf: Flugzeugkonstrukteur, Flugzeugpionier
+  eltern_beruf: Generalarzt
+  gymnasium: Kaiserin-Augusta-Gymnasium (Abschluss 1912)
+  militaer_ausbildung: Seekadett (Kiel), Marineflieger (1914)
+  dienstgrade: Leutnant
+  militaer_dienst: Schlachtschiff "Karl der Große"
+  www1_stationen: Seefliegerstationen Nordsee
+  www1_ende: Seeflugzeug-Versuchkommando Warnemünde
+  karriere_nach_www1: Heinkel (1920), Svenska Aero AB (1921, Direktor)
+  staatsbuergerschaft_neu: Schwede (1921)
+  flugzeuge_svenska: SA 10 "Piraten", SA 12 "Skolfalken", SA 13 "Övningsfalken", SA 14 "Jaktfalken"
+  geschaeft_verkauf: Ende 1932
+  gruendung_bücker_flugzeugbau: 1933 (Berlin-Johannistal)
+  flugzeug_erfolg_erste: Bü-131 "Jungmann" (Erstflug Anfang 1934)
+  jungmann_eigenschaft: zweisitzig, Doppeldecker, international erfolgreich
+  jungmann_export: über 20 Länder
+  jungmann_nutzer_promirent: Deutschland, Schweden, Ägypten (Trainer), Schweiz, Tschechoslowakei, Spanien, Japan (mit Lizenzrechten)
+  flugzeug_kunstflug: Bü-133 "Jungmeister"
+  weitere_flugzeuge: Bü-134 (1936), Bü-180 "Student" (1937), Bü-182 "Kornett" (1938), Bü-181 "Bestmann" (1939)
+  produktion_ruestung: ab 1940
+  kriegsgefangene_zwangsarbeiter: 500+ (Sowjetunion, 1943-1945)
+  kriegsende: Sowjetische Besatzer, Enteignung 1946
+  nachkrieg: Saab-Automobile Auslandsvertretung
+  beerdigung: Wunsch auf Beerdigung in Koblenz erfüllt
+GUELTIG_AB: 1895
+GUELTIG_BIS: 1976
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 53-koblenz/027
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Valéry Giscard d'Estaing
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/beruehmte-koblenzer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 2. Februar 1926
+  geburtsort: Koblenz
+  tod: 2. Dezember 2020
+  todesort: Authon (Frankreich)
+  nationalitaet: Französisch
+  vater: Edmond (Europäische Liga wirtschaftlicher Zusammenarbeit, LECE)
+  militaer_alter: 18 Jahre
+  militaer_beteiligung: Kampagnen Frankreich und Deutschland (1944-1945)
+  auszeichnung_militar: Kriegskreuz (Croix de Guerre), Grand-Croix der Ehrenlegion
+  ausbildung: Ecole Polytechnique
+  ausbildung_verwaltung: Ecole Nationale d'Administration (1949-1951)
+  karriere_finanzen: Inspektor (ab 1952), Staatssekretär (1959-1962), Minister (1962-1966)
+  heirat: Dezember 1952
+  ehepartner: Anne-Aymone Sauvage von Brantes
+  kinder: Valerie-Anne, Henri, Louis, Jactine
+  besuch_geburtsstadt: 1980
+  geburtshaus_abriss: 1985
+  karriere_politisch: Nationalversammlung (1956-1974), Bürgermeister Chamalières (1971-1974), General Council Puy-De-Dôme (1958-1974)
+  vertrag_deutschland: 1963 (Élysée-Palast mit Adenauer, deutsch-französische Zusammenarbeit)
+  praesidium_fnri: ab 1966
+  europapolitik: Aktionsausschuss Vereinigte Staaten von Europa
+  oecd_vorsitz: 1970
+  waehrungsunion: Plan Werner (1972)
+  partner_deutschland: Helmut Schmidt
+  europaeisches_waehrungssystem: treibend mitgestaltet
+  praesidium_rgre: ab 1997
+  praesidentschaft_frankreich: 1974-1981
+  wahl_praesidentin: knapper Sieg
+  niederlage_1981: gegen Mitterrand
+GUELTIG_AB: 1926
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 53-koblenz/028
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Joseph Görres
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/koblenz.html | Landesportal
+EIGENSCHAFTEN:
+  geburt: 25. Januar 1776
+  geburtsort: Koblenz
+  begeisterung: Ideale der Französischen Revolution
+  aktivitaet: cisrhenanische Bewegung (ab 1797)
+GUELTIG_AB: 1776
+GUELTIG_BIS: (unbekannt)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 53-koblenz/029
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hannelore Kraeber
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/koblenzer-leibgerichte-und-essgeschichten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Autorin
+  auszeichnung: Altstadtpreisträgerin (1997)
+  werk: Schullkochbooch - Kowelenzer Krombiergerichte
+  dokumentation: Koblenzer Essgeschichten (Rezepte und Geschichten)
+GUELTIG_AB: (unbekannt)
+GUELTIG_BIS: (unbekannt)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 53-koblenz/030
+ENTITÄT: gaststatte
+BEZEICHNUNG: Deutscher Kaiser
+ORTSTEIL_BEZUG: (Altstadt)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/koblenzer-essgeschichten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Peter Altmeier Ufer, Ecke Kornpfortstraße
+  hausnummer: 3
+  erbaut: Anfang 16. Jahrhundert
+  bauherr: Konrad von Lengenfeld (Schöffe, kurfürstlicher Münzmeister)
+  vorgaenger_haus_jahr: 1338
+  vorgaenger_haus_besitzer: Dechant Johann von Florin, Schöffe Heinrich Minnink
+  nachfolger_besitzer: Johann von Anethan (Kanzler Kurfürst Philipp von Sötern), dessen Sohn Otto
+  weitere_besitzer: Familie Lucas (seit 18. Jahrhundert)
+  gaststatte_geschichte: lange Geschichte, gut bürgerliche Gastronomie
+  spezialisierung: Rippchen (berühmt)
+  charakterisierung: Stammtischlokal, Schängel, Kapitäne, Matrosen, Hafenarbeiter, Politik
+  weitere_wirte: Dr. Schulte-Wissermann (Oberbürgermeister 1994-2010, Stammgast)
+  geschichte_spezialität: Bockwürste (beliebt), Rippchen (berühmt)
+  sprichwort: "30 Minuten im Deutschen Kaiser und man weiß mehr als in der Zeitung steht"
+  zweitname: "Rotes Rathaus"
+  kunstwerk_stammtisch: "Goode Junge" stifteten Plastik "Junge im Regen" (heute vor Christuskirche)
+GUELTIG_AB: 1338
+GUELTIG_BIS: (zeitweise geschlossen, Status ungeklärt)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 53-koblenz/031
+ENTITÄT: gaststatte_geschaeft
+BEZEICHNUNG: Drouven (Branntweinhandlung und Likörfabrik)
+ORTSTEIL_BEZUG: (Altstadt)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/koblenzer-essgeschichten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Am Plan 13
+  betrieb_zeitraum: 1846 bis Mitte 20. Jahrhundert
+  titel_offiziell: Königlicher Hoflieferant
+  funktion: Branntweinhandlung, Likörfabrik
+  service: Destillate in mitgebrachten Flaschen abfüllen, Außer-Haus-Verkauf
+  spezialitaet_1: Trester (Schnaps der Winzer, aus Traubenrückstücken)
+  spezialitaet_2: Magenbitter "Wahre Jacob"
+  wahre_jacob_auszeichnung: mehrfach prämiert (In- und Ausland)
+  wahre_jacob_namensherkunft: vermutlich entweder Jacob Drouven oder Apostel-Jakobus-Verehrung
+GUELTIG_AB: 1846
+GUELTIG_BIS: 1950
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 53-koblenz/032
+ENTITÄT: produkt
+BEZEICHNUNG: Wahre Jacob (Magenbitter)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/koblenzer-essgeschichten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Magenbitter
+  herkunft: Drouven (Koblenz)
+  bekanntheitsgrad: mehrfach prämiert (In- und Ausland)
+  namensherkunft_moeglichkeit_1: Jacob Drouven (Firmengründer/Erfinder)
+  namensherkunft_moeglichkeit_2: Apostel Jakobus (Pilgerverehrung)
+  namensherkunft_verbindung: Redensart "nicht der wahre Jakob" = nicht das Richtige
+  genauigkeit: vermutlich
+GUELTIG_AB: 1846
+GUELTIG_BIS: (unbekannt)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 53-koblenz/033
+ENTITÄT: ereignis
+BEZEICHNUNG: Russische Kriegsgefangene im Schloss (1807)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/koblenzer-essgeschichten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 10. Oktober bis 18. Dezember 1807
+  ort_kasernierung: Schloss Koblenz
+  grund: Schlacht von Austerlitz (russische Niederlage gegen Franzosen)
+  einheit: Bataillon russischer Soldaten
+  chronist: Christian von Stramberg
+  charakterisierung_offiziere: ähnlich französisch in Haltung, Körpergewandheit, Bildung, Uniform
+  charakterisierung_gemeiner_soldat: derb, robust, fromm, gutmütig
+  aktivitaet: russischer Sängerchor (abends im Schlosshof, "taktmäßiger, harmonischer Gesang")
+  waehrnehmung_koblenzer: positive Bewunderung
+GUELTIG_AB: 1807
+GUELTIG_BIS: 1807
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 53-koblenz/034
+ENTITÄT: ereignis
+BEZEICHNUNG: Kosaken-Angriff (Neujahr 1813/14)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/koblenzer-essgeschichten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 31. Dezember 1813 (ca. 15 Uhr Angriff), Neujahrsnacht 1813/14 (2-3 Uhr Einmarsch)
+  angreifer: Kosaken
+  landung: Kesselheim
+  ziel: französische Truppen
+  aktivitaet: Angriff auf Neuendorf, Gefangennahme französischer Offizier (Kürassiere)
+  reaktion_bevölkerung: Angst, Flucht, Hinweis auf Kosaken-Betrunkenheit (Plünderung Branntwein)
+  bedeutung: Ende der französischen Ära in Koblenz
+GUELTIG_AB: 1813
+GUELTIG_BIS: 1814
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 53-koblenz/035
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Sporthalle Oberwerth
+ORTSTEIL_BEZUG: Oberwerth
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtarchiv/stadtchronik/stadtchronik-1992.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: Januar 1992
+  groesse: größte Sporthalle in Rheinland-Pfalz
+GUELTIG_AB: 1992
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 53-koblenz/036
+ENTITÄT: ereignis
+BEZEICHNUNG: 2000-Jahres-Jubiläum der Stadt Koblenz
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtarchiv/stadtchronik/stadtchronik-1992.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1992
+  grund_feststellung: Roemer_Kastell Confluentes seit ca. 1. Jahrhundert
+  briefmarke: 60-Pfennig Sondermarke
+  konzertaufführungen: Mahler 8. Sinfonie (Rhein-Mosel-Halle, 1. Februar 1992, 3500 Zuschauer)
+GUELTIG_AB: 1992
+GUELTIG_BIS: 1992
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 53-koblenz/037
+ENTITÄT: ereignis
+BEZEICHNUNG: Rittersturz-Konferenz
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtarchiv/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 8. bis 10. Juli 1948
+  ort: Hotel Rittersturz (Koblenz)
+  beschluesse_folge: führten zu Annahme des Grundgesetzes (1949) und Gründung Bundesrepublik Deutschland (1949)
+GUELTIG_AB: 1948
+GUELTIG_BIS: (historisches Ereignis)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 53-koblenz/038
+ENTITÄT: ereignis
+BEZEICHNUNG: Südbrücke-Einsturz
+ORTSTEIL_BEZUG: (über Rhein)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtarchiv/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1969-1975
+  einsturz_datum: 10. November 1971
+  todesfaelle: ja (mehrere Menschen)
+  wiederaufbau: ja (fertiggestellt 1975)
+GUELTIG_AB: 1969
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 53-koblenz/039
+ENTITÄT: befestigung
+BEZEICHNUNG: mittelalterliche Stadtmauer
+ORTSTEIL_BEZUG: (Altstadt)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtarchiv/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  material_ursprung: römische Reste
+  erweiterung: 13. Jahrhundert
+  fertigstellung: Anfang 14. Jahrhundert
+  finanzierung: dokumentiert in städtischen Akten
+GUELTIG_AB: 1200
+GUELTIG_BIS: (teilweise erhalten)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 53-koblenz/040
+ENTITÄT: institution
+BEZEICHNUNG: Stadtrat Koblenz
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtarchiv/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 13. Jahrhundert
+  durchsetzung: 14. Jahrhundert
+  grund_durchsetzung: Wunsch der Bevölkerung zur Selbstbestimmung
+  frauen_erste_wahl: 1919
+GUELTIG_AB: 1200
+GUELTIG_BIS: (heute)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 53-koblenz/041
+ENTITÄT: ereignis
+BEZEICHNUNG: Rheinische Republik (Separatisten)
+QUELLE: https://www.koblenz.de/leben-in-koblenz/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausrufung: Oktober 1923
+  dauer: kurzlebig
+  grund: separatistische Bestrebungen während französischer Besatzung
+  sitz: Kurfürstliches Schloss
+  dauer_besatzung: Oktober 1923 bis Februar 1924
+GUELTIG_AB: 1923
+GUELTIG_BIS: 1924
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+

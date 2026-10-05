@@ -1,0 +1,397 @@
+ENTITÄT: freiwillige_feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Alzey
+QUELLE: https://www.alzey.de/leben-freizeit/freiwillige-feuerwehr-alzey/ueber-uns/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1799
+  gründungsdatum_exakt: 10. September 1799
+  gründer_dokumentation: Peter Bretsch (Gemeindeagent), Agentschaftsregister
+  gründungsgrund: Notwendigkeit der Wartung und des fachmännischen Einsatzes der Feuersprize
+  benannt_nach: Technischer Fortschritt in Form der Feuersprize
+  ausrüstung_1799: Feuersprize (mit kurzen Lederschläuchen, Wasserstrahl 30 Meter)
+  ausrüstung_1834: 322 lederne Feuereimer (Gemeinde-angeschafft)
+  ausrüstung_1864: vier Spritzen, davon eine gestiftet von Aachen-Münchener Versicherung für 1.000 Gulden
+  ausrüstung_1892: drei moderne Spritzen, Hydrantenabteilung mit zwei Schlauchwagen
+  erstes_feuerwehrauto: 1934
+  erstes_auto_kosten: 385,00 Reichsmark (mit Material 185,00 Mark Umbau)
+  erstes_auto_vorführung: 21. September 1934
+  erstes_auto_funktion: Mannschaftswagen und Motorspritze gleichzeitig
+  erste_motorspritze_beschaffung: Anfang 1940er Jahre
+  lf_8_beschaffung: Anfang 1940er Jahre
+  bereitschaft_gründung: 1. August 1944
+  bereitschaft_ausstattung: zwei LF 15, zwei LF 8
+  fahrzeuge_evakuierung: Töngesmühle (Kriegsende, vollständig erhalten)
+  einsätze_1959: 12
+  einsätze_2018: 285
+  kosten_hlf_20_2019: ca. 340.000 Euro
+  drehleiter_reichweite_historisch: max. 15-17 m (mechanische Anhängeleitern)
+  drehleiter_reichweite_modern: über 30 m (computergesteuert)
+  entwicklungsprinzip: Ständige Anpassung der Löschgeräte an technischen Standard
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Nikolaikirche
+QUELLE: https://www.alzey.de/leben-freizeit/kultur-tourismus-wein/geschichte-stadtgeschichte/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Obermarkt
+  superlativ: älteste der heutigen Kirchen Alzeys
+  erste_erwähnung: 1350
+  erste_erwähnung_funktion: Kapelle des pfalzgräflichen Hofes
+  bauzeit: 1420-1499
+  baumeister: Eseler (Alzeyer Baumeisterfamilie)
+  bauzeit_dauer_ungefähr: 70 Jahre
+  reformation_einführung_jahr: 1556
+  reformation_konfession_initial: lutherisch
+  reformation_konfession_später: 1563 reformiert
+  reformation_folge: Bildnisse und Altäre verschwanden
+  besonderheit_ausstattung: Spätgotische Steinfigurengruppe (Grablegung Christi) im Turmeingang
+  zerstörung_30_jähriger_krieg: verhältnismäßig gut überstanden
+  zerstörung_kriegsfolge: 1689 durch Franzosen unter General Melac (völlig zerstört)
+  provisorische_reparatur: Notdach auf Chor und Langhaus, etwa 150 Jahre Gottesdienst
+  wiederaufbau: 1844-1848
+  wiederaufbau_leitung: Stadtbaumeister Rhumbler
+  turm_neu: 1905/06 (spitz, hohes Dach)
+  turm_renovierung: 1984 (gründlich)
+  kriegsschaden_wwii: leichte Beschädigung des Kirchenschiffes in letzten Tagen des 2. Weltkrieges
+  renovierungen_nachkrieg: 1952-1956, 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Josephkirche
+QUELLE: https://www.alzey.de/leben-freizeit/kultur-tourismus-wein/geschichte-stadtgeschichte/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Pfarrkirche der katholischen Gemeinde Alzey
+  bauzeit_neubau: 1964-1966
+  vorgänger_erste_bauzeit: 1703-1740
+  vorgänger_erste_kontext: Kapuzinerkloster
+  vorgänger_zweite_bauzeit: 1840
+  widmung: heiliger St. Joseph
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Kleine Kirche
+QUELLE: https://www.alzey.de/leben-freizeit/kultur-tourismus-wein/geschichte-stadtgeschichte/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1728/29-1737
+  konfession_ursprung: lutherisch
+  grund_namensgebung: Geringere Größe im Vergleich zu anderen Alzeyer Kirchen
+  gemeindegröße_18_jh: ca. 20%
+  wirtschaftliche_situation: ärmste der drei christlichen Gemeinden Alzeys, kein Kirchenvermögen
+  finanzierung: Spenden der Gemeindemitglieder, Geldsammlungen im In- und Ausland, Kollektanten bis Reval (Tallinn)
+  architekturstil: schlichter Barock
+  besonderheit_innenraum: umlaufende Emporen, Kanzel dominant
+  orgel: Hunsrücker Orgelbauerfamilie Stumm, 1737
+  kirchenkonzept: Saalbau nach protestantischen Prinzipien, auf Predigt konzipiert
+  vereinigung: 1822 mit Reformierten zur Evangelisch-Protestantischen Kirche in Rheinhessen
+  erhaltung_modern: Förderverein Kulturdenkmal Kleine Kirche Alzey (Renovierung und Erhaltung)
+  rechtserwerb_religionsfreiheit: 1685 (Lutheraner)
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1728
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Alzey
+ORTSTEIL_BEZUG: Augustinerstraße
+QUELLE: https://www.alzey.de/leben-freizeit/kultur-tourismus-wein/geschichte-stadtgeschichte/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_synagoge_stiftung: 1791
+  erste_synagoge_stifter: Elias Levi
+  erste_synagoge_kontext: Jüdische Gemeinde traf sich bisher in Privathäusern
+  zweite_synagoge_bauzeit: 1852-1854
+  zweite_synagoge_adresse: Augustinerstraße 5
+  zweite_synagoge_architekturstil: maurischer Stil
+  zweite_synagoge_baumeister: Kreisbaumeister Rhumbler
+  gemeindegröße_um_1852: ca. 50 Familien
+  zerstörung_datum: 10. November 1938
+  zerstörung_mittel: Brand durch Nationalsozialisten
+  außenmauern_beseitigung: 1955
+  gedenken_form: Gedenktafeln mit Namen der Alzeyer Juden am ehemaligen Standort
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1791
+GUELTIG_BIS: 1938
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: kriegerdenkmal
+BEZEICHNUNG: Kriegerdenkmal "Germania"
+QUELLE: https://www.alzey.de/rathaus-buergerservice/buergerservice-anliegen/alzeyer-friedhof/denkmaeler-geschichte/kriegerdenkmal-germania/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  widmung: Deutsch-Französischer Krieg 1870/1871
+  entwerfer: Bildhauer Hugo Cauer
+  entwurfsjahr: 1893
+  errichtungsort_initial: Kirchenplatz Alzey
+  verlegungsjahr: 1959
+  lage_aktuell: Alzeyer Hauptfriedhof
+  material_sockel: Granit (hoch)
+  material_figur: Galvanoplastik
+  beschreibung: Überlebensgroße Germania mit gesenktem Schwert
+  beschreibung_sockel: Löwenköpfe
+  symbolik_schwert: Wehrhaftigkeit
+  symbolik_löwen: Wehrhaftigkeit, Stolz über Sieg gegen Franzosen
+  ausstattung_original: Bildmedaillons von Kaisern Wilhelm I. und Friedrich III.
+  ausstattung_verlust: Medaillons im Laufe der Zeit verloren gegangen
+  reminiszenz_standort: Gaststätte "Zum Kriegerdenkmal" erinnert an ursprünglichen Platz
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1893
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: kriegerdenkmal
+BEZEICHNUNG: Kriegerdenkmal des Ersten Weltkrieges
+QUELLE: https://www.alzey.de/rathaus-buergerservice/buergerservice-anliegen/alzeyer-friedhof/denkmaeler-geschichte/kriegerdenkmal-des-ersten-weltkrieges/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  widmung: Gefallene des Ersten Weltkrieges 1914-1918
+  entwurfsjahr: 1928
+  entwerfer: Stadtbaumeister Ernst Morneweg
+  erbauer: Bildhauer Huf (Alzey)
+  material: Rotsandstein
+  architekturstil: Neuklassizistisch, kreisförmig
+  beschreibung: Fünf wuchtig geböschte Pfeiler mit Architrav
+  besonderheit_symbolik: Verzicht auf nationale Symbole (Kaiserreich untergegangen, Krieg verloren)
+  inschrift: IHREN TAPFEREN SOEHNEN IN DANKBARKEIT DIE STADT ALZEY 1914/1918
+  namen_gefallener: ja
+  gedenkveranstaltung: Volkstrauertag (Kranzniederlegung)
+  lage: Alzeyer Hauptfriedhof
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1928
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Stadt Alzey
+QUELLE: https://www.alzey.de/leben-freizeit/kultur-tourismus-wein/geschichte-stadtgeschichte/wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  feld_oben: Schwarz
+  figur_oben: Wachsender, rotbewehrter, goldener Löwe
+  herkunft_oben: Frühere Zugehörigkeit der Stadt zur Kurpfalz
+  feld_unten: Silber
+  figur_unten: Schräg rechts gestellte rote Fiedel
+  herkunft_unten: Erinnerung an ehemals in der Stadt ansässige Geschlechter Truchseß (Winter und Wilch)
+  genehmigung_erforderlich: ja
+  genehmigung_verantwortlich: Stadtverwaltung Alzey
+  genehmigung_rechtsgrundlage: § 5 Absatz 3 Gemeindeordnung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Alzey
+QUELLE: https://www.alzey.de/leben-freizeit/kultur-tourismus-wein/geschichte-stadtgeschichte/zeittafel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  siedlungen_ur: Jungstein-, Bronze-, Eisenzeit
+  kontinuität_keltisch_römisch: 1. Jahrhundert v.Chr.
+  erstnennung: 223 n.Chr.
+  erstnennung_form: VICANI ALTIAIENSES
+  erstnennung_quelle: Nymphenstein (Stein)
+  römische_siedlung_zerstörung: 352
+  römisches_kastell_bau: 367-370
+  burgunder_kastellbesatzung: nach 400
+  alemannen_franken_landnahme: ab 450
+  reichslehen_erwähnung: 897
+  reichsburg_bau: 1116-1118 (Staufische)
+  pfalzgraf_erhebung: 1156 (Konrad von Staufen)
+  pfalzgraf_effekt: Geburtsstätte der Kurpfalz
+  nibelungenlied_erwähnung: um 1200 (Volker von Alzey)
+  wittelsbacher_übernahme: 1214
+  wittelsbacher_status: Pfalzgrafen und Stadtherren
+  wittelsbacher_rolle: Alzey wird Nebenresidenz
+  stadtrechte: 1277 (durch Rudolf von Habsburg)
+  klöster_gründung: 13. Jahrhundert (7 Klöster in und um Alzey)
+  stadtmauer_bau: 13. Jahrhundert
+  oberamtstadt_status: um 1460 (kurpfälzisch)
+  versammlungsort_kessler: um 1460 (mittelalterliche Zunftorganisation der Kessler, Mittelrhein)
+  nikolaikirche_errichtung: 15. Jahrhundert (unter Mitwirkung Eseler)
+  stadterweiterung_nördlich: 15. Jahrhundert (mit Ummauerung)
+  burgumbau_schloss: 15./16. Jahrhundert
+  reformation_einführung: 1556
+  reformation_mandat: Alzeyer Mandat des Pfalzgrafen Ottoheinrich
+  rathausbau: 1586
+  konfessionen_gleichstellung: 1686 (Reformierte, Lutheraner, Katholiken)
+  zerstörung_erbfolgekrieg: 1689 (pfälzischer Erbfolgekrieg)
+  wiederaufbau: 18. Jahrhundert
+  kantonsstadt: 1798
+  kantonsstadt_einheit: Departement Mont Tonerre
+  kaiserstasse_bau: 1808-1811 (Mainz-Paris)
+  eingliederung_hessen_darmstadt: 1816
+  großherzogtum_zugehörigkeit: Großherzogtum Hessen-Darmstadt
+  kreisstadt_ernennung: 1835 (hessische)
+  realschule_gründung: 1841
+  schulentwicklung_beginn: 1841
+  lehrerseminar: 1880
+  stadtexpansion_mauer: um 1900 (über Stadtmauergrenzen hinaus)
+  schloss_wiederaufbau: 1900-1903
+  landesheil_pflegeanstalt: 1906-1908
+  rebschule_gründung: 1909
+  rebschule_offiziell: Landesanstalt für Rebenzüchtung
+  rebschule_leiter_erster: Georg Scheu
+  judenverfolgung_zeitraum: 1938-1945
+  kreisstadt_neubestimmung: 1969 (neuer Kreis Alzey-Worms)
+  eingemeindungen: 1972 (Weinheim, Heimersheim, Dautenheim)
+  industriegebiet_ausweisung: ab 1972
+  autobahnkreuz_fertigstellung: 1975
+  altstadtverein_gründung: 1976
+  fußgängerzone_umwandlung: 1978-1984 (Antoniterstraße, Roßmarkt, Spießgasse)
+  autobahn_freigabe: 1980/1981 (A 61, A 63)
+  rossmarktbrunnen_einweihung: 1985 (feierlich)
+  Elisabeth_Langgässer_Literaturpreis_first: 1988
+  wartbergturm_wiedereröffnung: 1989 (feierlich)
+  lufthansa_technik_aero_ansiedlung: 1992 (IG Ost)
+  industriegebiet_ost_erschließung: 2023-2025
+  epitheton: Volkerstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: turm
+BEZEICHNUNG: Wartbergturm
+QUELLE: https://www.alzey.de/leben-freizeit/kultur-tourismus-wein/geschichte-stadtgeschichte/wartbergturm/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_hinweise: Anfang 15. Jahrhundert
+  flurbezeichnungen: Wartenpfad, uff dem Wartenberg
+  ursprungsort: Wartberg
+  möglicher_ursprung: Bauprogramm Alzeyer Burg oder Stadtbefestigung
+  ursprungsfunktion: Wacht- oder Signalturm (Vermutung)
+  funktion_tiefburg: Wacht- oder Signalturm zur Unterstützung
+  zerstörung_erste: 30-jähriger Krieg
+  zerstörung_zweite: Pfälzer Erbfolgekrieg
+  militärkarte_vermerk: Ende 17. Jahrhundert, "Tour ruynée" (französische Militärkarte)
+  wiederherstellung_jahr: 1858
+  wiederherstellung_stil: alten Style mit markanten Zinnenkranz
+  wiederherstellung_funktion: Aussichtsturm (neue Funktion)
+  funktion_mittelalter: keine militärische Funktion mehr nach Wiederherstellung
+  zerstörung_wwii: 8. Januar 1945 (massiver Bombenangriff)
+  zerstörung_intention: Eisenbahnbrücke Kreuznacher-Straße
+  zerstörung_grund: Navigationsfehler der US-Luftwaffe
+  zerstörung_kontext: Umfeld des Wartturms betroffen durch Sprengbomben
+  legende: Turm als Retter der Stadt (Verwechslung mit Nikolaikirchturm führte zur Rettung des Stadtzentrums)
+  wiederaufbau_jahr: 1961 (Fertigstellung)
+  standhaftigkeit: unzureichend
+  einsturz: Februar 1970 (heftiger Sturm)
+  neuerliche_errichtung: 1989
+  initiative_wiederaufbau: Initiative der Alzeyer Bürgerschaft
+  wahrzeichen_status: Wahrzeichen Alzeys
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1858
+VERTRAUEN_EXTRAKTION: 0.91
+
+---
+
+ENTITÄT: lied
+BEZEICHNUNG: Alzeyer Lied
+QUELLE: https://www.alzey.de/leben-freizeit/kultur-tourismus-wein/geschichte-stadtgeschichte/alzeyer-lied/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  komponist: Wilhelm Diehl
+  komponist_geburtsort: Alzey-Heimersheim
+  komponist_geburtsjahr: 1905
+  komponist_todesjahr: 1946
+  komposition_jahr: 1937
+  uraufführung_datum: 09. Februar 1937
+  uraufführung_anlass: Erste Kappensitzung ACG
+  uraufführung_bedeutung: Geburt der fröhlichen Nationalhymne Alzeys
+  epitheton: Fröhliche Nationalhymne
+  thema: Wein, Leben, Liebe, Gesang
+  dialekt: Alzeyer Dialekt
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1937
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Rossmarktbrunnen
+QUELLE: https://www.alzey.de/leben-freizeit/kultur-tourismus-wein/geschichte-stadtgeschichte/rossmarktbrunnen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung_datum: 04. Mai 1985 (feierlich)
+  künstler: Professor Gernot Rumpf (Neustadt)
+  darstellung: Ross des Spielmannes Volker von Alzey mit rebenumrankter Schale
+  pferdenname: Max
+  lage: Roßmarkt (Drehscheibe und vitales, pulsierendes Herz der Stadt)
+  literarischer_bezug: Nibelungenlied
+  volker_titel: Freiherr von Alzey
+  volker_beschreibung: Mann von edler Herkunft, Ritter edler Art
+  volker_rollen: Spielmann, Ritter, Herr eines ritterlichen Gefolges, Bannerträger
+  volker_status_burgunderreich: Herausgehobene Stellung am höfischen Leben und in militärischer Führung
+  volker_heimat: Alzey
+  sammelaktion_anlass: Einweihung Roßmarkt als Fußgängerzone (17. September 1982)
+  sammelaktion_initiator: Bürgermeister Walter Zuber
+  arbeitskreis: Vertreter Verwaltung, Vereine, Banken, andere Institutionen Alzey
+  ideenwettbewerb_zeitpunkt: Herbst 1982
+  ideenwettbewerb_publication: Allgemeine Zeitung
+  ideenwettbewerb_deadline: April 1983
+  ideenwettbewerb_einreichungen: 15 Vorschläge
+  künstlerische_idee: Minnesänger und Spielmann Volker hat Heimat in Alzey, Schlachtross verlassen an Tränke des Roßmarktes, Fidel und Schild am Pferd, Nibelungenhort symbolisch im Wasser, Reben ranken Schale
+  symbolik_hort: Nibelungenlied, Freundschaft Volker und Hagen von Tronje
+  symbolik_hort_detail: Hagen versenkte Nibelungenhort im Rhein
+  narrative_kraft: Ruhe wird zu lebendiger Wirklichkeit, Tragische Gestalten sammeln sich, klagen an Rache und Untergang
+  finanzierung: Finanzielle Engagement vieler Alzeyer Bürger, Vereine, Verbände
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1985
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: jugendfeuerwehr
+BEZEICHNUNG: Jugendfeuerwehr Alzey
+QUELLE: https://www.alzey.de/leben-freizeit/freiwillige-feuerwehr-alzey/jugend/geschichte-der-jugendfeuerwehr/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_jahr: 1967
+  gründer: Wehrleiter Gerhard Heinz, Stellvertreter Karl-Heinz Vögeli, Schriftführer Hans Hottenbach
+  gründungsrahmen: Generalversammlung (jährlich stattfindend)
+  superlativ: Zu den ältesten Jugendfeuerwehren in Deutschland
+  jubiläum_50_jahre: 2017
+  erster_jugendwart: Rolf Münch
+  erster_jugendwart_tod: 1970 (tragisch bei Einsatz)
+  jugendwarte_weitere: Hermann Kopp, Hans-Günter Hoffmann, Dieter Köhler, Horst Schwarz, Günter Braun, Karl-Heinz Schaad, Alexander Frangel
+  jugendwarte_später_1: Andreas Schneider, Ivo Eisenreich (2009-2014)
+  jugendwarte_später_2: Ivo Eisenreich, Franziska Mowitz (ab 2015)
+  jugendwart_aktuell: Erik Rinnus
+  personalquelle_feuerwehr: Über 50% der Alzeyer Feuerwehr stammt aus eigener Jugend
+  wehrleiter_beispiel: Joachim Ganz (begann mit 12 Jahren in Jugendfeuerwehr)
+  feuerwache_neu: 2019 (in neuer Feuerwache)
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1967
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Alzeyer Weinhoheiten
+QUELLE: https://www.alzey.de/leben-freizeit/kultur-tourismus-wein/alzeyer-weinhoheiten/historie-der-alzeyer-weinhoheiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  institution_typ: Weinhoheiten (Botschafterinnen)
+  amtsdauer_länge: ca. 2 Jahre
+  historische_amtsantritte: 1984-2026
+  älteste_einträge_liste: 1984 (Vivian Dexheimer, Regina Burkhard)
+  aktuelle_trägerin: Nicole I.
+  aktuelle_amtszeit: 2024-2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: römisches_kastell
+BEZEICHNUNG: Alzeyer Römerkastell
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/alzey.html | Landesportal
+EIGENSCHAFTEN:
+  siedlung_römische_gründung: ca. Mitte 1. Jahrhundert v.Chr.
+  römer_ankunft: ca. 50 v.Chr.
+  vorgänger_siedlung: Kleine keltische Siedlung
+  beschreibung: Umfangreiche Bodenfunde aus vorgeschichtlichen Epochen zeigen Besiedlung
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: ca. -50
+VERTRAUEN_EXTRAKTION: 0.70
