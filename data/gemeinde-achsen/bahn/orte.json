@@ -1,5 +1,5 @@
 {
- "_doc": "Raum Bahn Freiburg–Neuwied (Mike, 2026-10-03): Bahnfahrt auf der rechten Rheinseite (Rheintalbahn bis Mannheim, über Frankfurt, RB10 Wiesbaden–Rüdesheim–Kaub–St. Goarshausen–Lahnstein–Neuwied), hin und zurück. Probe der neuen Kette nach Spielkonzept v0.3.1 §8 Nr. 9: Geschichten aus Gemeinde-Webseite und Landesportal statt Wikipedia, direkte Aufrufe, Prüfstufen; Aufwandsvergleich gegen die Räume Freiburg und Neuwied. Erst 10 Orte als Messung (drei Länder: BW, Hessen, RLP), dann Ausbau auf 30–40. Reihenfolge = Hinfahrt. Keine Spender (Kosten-Pareto H5). Strecke Mannheim–Frankfurt bewusst ohne Ort: ob Riedbahn oder Main-Neckar-Bahn, hängt vom Zug ab. Ausbau (Mike, 2026-10-03: über die Bergstraße): 19 weitere Orte, Reihenfolge der Liste = Hinfahrt; die Nummern 01–10 sind die Messorte der ersten Probe, 11–29 der Ausbau. Abschnitt Karlsruhe–Heidelberg/Mannheim ohne Ort (Zugweg offen). Am Ende schließen Bendorf und Engers aus dem Raum Neuwied an. Ausbau Rheintal (2026-10-06): Friesenheim (zwischen Lahr und Offenburg) und Appenweier (zwischen Offenburg und Achern), je ein Ort für die Aufwandsmessung je Ort. Ausbau Rheinbahn (2026-10-06, Mike: über Mannheim): Renchen (zwischen Appenweier und Achern), dann Rastatt–Durmersheim–Karlsruhe–Stutensee–Graben-Neudorf–Waghäusel–Hockenheim–Schwetzingen–Mannheim (Rheinbahn) und Ladenburg (Main-Neckar-Bahn, Mannheim-Friedrichsfeld–Weinheim); Haltepunkte an den Streckenartikeln geprüft.",
+ "_doc": "Raum Bahn Freiburg–Neuwied (Mike, 2026-10-03): Bahnfahrt auf der rechten Rheinseite (Rheintalbahn bis Mannheim, über Frankfurt, RB10 Wiesbaden–Rüdesheim–Kaub–St. Goarshausen–Lahnstein–Neuwied), hin und zurück. Probe der neuen Kette nach Spielkonzept v0.3.1 §8 Nr. 9: Geschichten aus Gemeinde-Webseite und Landesportal statt Wikipedia, direkte Aufrufe, Prüfstufen; Aufwandsvergleich gegen die Räume Freiburg und Neuwied. Erst 10 Orte als Messung (drei Länder: BW, Hessen, RLP), dann Ausbau auf 30–40. Reihenfolge = Hinfahrt. Keine Spender (Kosten-Pareto H5). Strecke Mannheim–Frankfurt bewusst ohne Ort: ob Riedbahn oder Main-Neckar-Bahn, hängt vom Zug ab. Ausbau (Mike, 2026-10-03: über die Bergstraße): 19 weitere Orte, Reihenfolge der Liste = Hinfahrt; die Nummern 01–10 sind die Messorte der ersten Probe, 11–29 der Ausbau. Abschnitt Karlsruhe–Heidelberg/Mannheim ohne Ort (Zugweg offen). Am Ende schließen Bendorf und Engers aus dem Raum Neuwied an. Ausbau Rheintal (2026-10-06): Friesenheim (zwischen Lahr und Offenburg) und Appenweier (zwischen Offenburg und Achern), je ein Ort für die Aufwandsmessung je Ort. Ausbau Rheinbahn (2026-10-06, Mike: über Mannheim): Renchen (zwischen Appenweier und Achern), dann Rastatt–Durmersheim–Karlsruhe–Stutensee–Graben-Neudorf–Waghäusel–Hockenheim–Schwetzingen–Mannheim (Rheinbahn) und Ladenburg (Main-Neckar-Bahn, Mannheim-Friedrichsfeld–Weinheim); Haltepunkte an den Streckenartikeln geprüft. Ausbau Rhein-Main (2026-10-06): Seeheim-Jugenheim (kein eigener Bahnhof mehr, Strecke 1–2 km am Ort vorbei, Halt Bickenbach), Darmstadt, Frankfurt, Mainz, Wiesbaden; Reihe vorläufig über Frankfurt (Langen–Frankfurt–Mainz), Darmstadt–Mainz-Zweig und Neu-Isenburg, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim folgen.",
  "raum": "Bahn Freiburg–Neuwied",
  "orte": [
   [
@@ -185,10 +185,45 @@
    "Stadt"
   ],
   [
+   "42-seeheim-jugenheim",
+   "ziel",
+   "Seeheim-Jugenheim",
+   "Seeheim-Jugenheim",
+   "Gemeinde"
+  ],
+  [
+   "43-darmstadt",
+   "ziel",
+   "Darmstadt",
+   "Darmstadt",
+   "Stadt"
+  ],
+  [
    "22-langen",
    "ziel",
    "Langen",
    "Langen (Hessen)",
+   "Stadt"
+  ],
+  [
+   "44-frankfurt",
+   "ziel",
+   "Frankfurt am Main",
+   "Frankfurt am Main",
+   "Stadt"
+  ],
+  [
+   "45-mainz",
+   "ziel",
+   "Mainz",
+   "Mainz",
+   "Stadt"
+  ],
+  [
+   "46-wiesbaden",
+   "ziel",
+   "Wiesbaden",
+   "Wiesbaden",
    "Stadt"
   ],
   [
@@ -339,7 +374,12 @@
   "38-hockenheim": "BW",
   "39-schwetzingen": "BW",
   "40-mannheim": "BW",
-  "41-ladenburg": "BW"
+  "41-ladenburg": "BW",
+  "42-seeheim-jugenheim": "HE",
+  "43-darmstadt": "HE",
+  "44-frankfurt": "HE",
+  "45-mainz": "RP",
+  "46-wiesbaden": "HE"
  },
  "quellen_amtlich": {
   "05-ruedesheim": {
@@ -383,6 +423,9 @@
   },
   "34-karlsruhe": {
    "webseite": "https://www.karlsruhe.de/"
+  },
+  "44-frankfurt": {
+   "webseite": "https://www.stadtgeschichte-ffm.de/"
   }
  },
  "laeufe": []

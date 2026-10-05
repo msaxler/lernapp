@@ -6399,6 +6399,194 @@ window.QA_DATEN = {
 "km_vom_vorigen": 8.2
 },
 {
+"slug": "32-renchen",
+"name": "Renchen",
+"lat": 48.58583,
+"lon": 8.01056,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Renchen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 55 km südwestlich von Karlsruhe.",
+"frage": "Renchen trägt offiziell den Zusatz Grimmelshausenstadt. Was war der Autor des Simplicissimus in Renchen?",
+"optionen": [
+"Er unterrichtete dort als Lehrer an der Schule.",
+"Er war dort Pfarrer der katholischen Gemeinde.",
+"Er war dort Schultheiß im Dienst des Bischofs.",
+"Er betrieb dort eine Druckerei für seine Bücher."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Schriftsteller liegt nahe, dass er von Büchern lebte, als Drucker oder Lehrer. Grimmelshausen war in Renchen aber Schultheiß im Dienst des Bischofs von Straßburg, also Vorsteher des Orts im Auftrag des Landesherrn. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Renchen",
+"faktencheck": "bestätigt",
+"id": "32-renchen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Renchen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 55 km südwestlich von Karlsruhe.",
+"frage": "Wie groß ist die Fläche des Stadtgebiets von Renchen?",
+"optionen": [
+"unter 12 km²",
+"12 bis unter 20 km²",
+"20 bis unter 28 km²",
+"28 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Kleinstadt dieser Größe stellt man sich kompakt vor, deshalb liegt eine kleinere Fläche nahe. Doch das Stadtgebiet umfasst weit mehr als den Ortskern: Die Fläche beträgt 32,08 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046 (Altbestand staedte.json)",
+"faktencheck": "bestätigt",
+"id": "32-renchen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Renchen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 55 km südwestlich von Karlsruhe.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Ortsteil Ulm kam durch Eingemeindung zu Renchen.",
+"Erlach hat mehr Einwohner als die Kernstadt Renchen.",
+"Friedrich Weinbrenner entwarf die Heilig-Kreuz-Kirche im Ortskern."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Ortsteil namens Ulm klingt erfunden, man denkt an die Großstadt an der Donau. Doch das Renchener Ulm kam durch Eingemeindung dazu, und Weinbrenner entwarf die klassizistische Heilig-Kreuz-Kirche. Gelogen ist Erlach: Dort wohnen etwa 900 Menschen, in ganz Renchen rund 7.600. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Renchen",
+"faktencheck": "unsicher",
+"id": "32-renchen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Renchen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 55 km südwestlich von Karlsruhe.",
+"frage": "Wie hoch war die Wahlbeteiligung in Renchen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 80 %",
+"80 bis unter 85 %",
+"85 bis unter 90 %",
+"90 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Abseits der Großstädte vermutet man oft eine geringere Beteiligung, darum liegt die unterste Spanne nahe. In Renchen lag die Wahlbeteiligung 2025 bei 82,9 Prozent; stärkste Partei wurde die CDU. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "32-renchen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Renchen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 55 km südwestlich von Karlsruhe.",
+"frage": "Renchen erhielt 1326 erstmals Stadtrechte, verlor sie aber wieder. Welchen Grund nennt die Stadtgeschichte der Gemeinde?",
+"optionen": [
+"Baden stufte den Ort bei der Neuordnung um 1806 herab.",
+"Die Rechte waren befristet und liefen 1426 aus.",
+"Zerstörungen im Bauernkrieg und im Dreißigjährigen Krieg.",
+"Ein Nachbarort erhielt die Rechte an seiner Stelle."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Herabstufung durch den Staat klingt nach einem typischen Verwaltungsakt. Die Stadtgeschichte nennt aber Zerstörungen: Im Bauernkrieg und im Dreißigjährigen Krieg verlor Renchen seine Stadtrechte. Erst 1836 verlieh Großherzog Leopold von Baden sie neu. Richtig war 3.",
+"quelle": "Stadt Renchen, renchen.de/kultur-stadtgeschichte/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "32-renchen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Renchen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 55 km südwestlich von Karlsruhe.",
+"frage": "Zu welchem Landkreis gehört Renchen?",
+"optionen": [
+"Landkreis Rastatt",
+"Landkreis Freudenstadt",
+"Landkreis Emmendingen",
+"Ortenaukreis"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Von Karlsruhe aus liegt der Landkreis Rastatt auf dem Weg, darum denkt man zuerst an ihn. Renchen gehört aber zum Ortenaukreis; Hauptkennzeichen ist OG. Richtig war 4.",
+"quelle": "dewiki Infobox; Kennzeichen: Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "32-renchen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Option 1 lautet: „1. Er gilt als erster gesicherter Meteoritenfall im Land.“ (alles Übrige unverändert)",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Weil der Meteorit Renchen heißt, liegt nahe, dass man ihn nur dort sah. Die Feuerkugel leuchtete aber über Süddeutschland, ihr Bersten war bis zu 400 km weit zu sehen. Später fand man mehrere Bruchstücke. Renchen gilt als erster gesicherter Meteoritenfall in Baden-Württemberg. Richtig war 1.",
+"quelle": "Universität Münster, uni-muenster.de/news/view.php?cmdid=9853; BNN",
+"faktencheck": "korrigiert",
+"id": "32-renchen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Renchen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 55 km südwestlich von Karlsruhe.",
+"frage": "Zu Renchen gehört auch der Maiwald mit dem Maiwaldsee. Wo liegt dieser Gemeindeteil?",
+"optionen": [
+"Er liegt mitten im Ortskern von Renchen.",
+"Er liegt nordwestlich, getrennt vom übrigen Stadtgebiet.",
+"Er liegt östlich, oben im Schwarzwald.",
+"Er liegt südlich, direkt am Ortsrand."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Beim Namen Maiwald denkt man zuerst an den Schwarzwald östlich der Stadt. Der Maiwald liegt aber nordwestlich und ist eine Exklave: ein Teil des Stadtgebiets ohne Verbindung zum Rest. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Renchen",
+"faktencheck": "unsicher",
+"id": "32-renchen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Renchen",
+"steckbrief": "Kleinstadt mit rund 7.600 Einwohnern, 55 km südwestlich von Karlsruhe.",
+"frage": "Ein Landesverband für Prävention und Rehabilitation hat seinen Sitz in Renchen. Wie hieß er bei seiner Gründung 1919?",
+"optionen": [
+"Er hieß Badischer Landesverband gegen die Tuberkulose.",
+"Er hieß Badischer Landesverband für Kriegsbeschädigte.",
+"Er hieß Badischer Landesverband für Säuglingsfürsorge.",
+"Er hieß Badischer Landesverband gegen den Alkoholismus."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Gründungsjahr kurz nach dem Ersten Weltkrieg und das Wort Rehabilitation lassen an Kriegsbeschädigte denken. Der Verband trat aber gegen den Alkoholismus an; sein Schwerpunkt ist heute die Suchtkrankenhilfe. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Renchen",
+"faktencheck": "bestätigt",
+"id": "32-renchen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "31-appenweier",
+"anschluss": [
+"Renchen ist eine Stadt, Appenweier eine Gemeinde – dabei hat Appenweier rund 2.800 Einwohner mehr.",
+"Renchen und Appenweier liegen beide im Ortenaukreis."
+],
+"km_vom_vorigen": 5.6
+},
+{
 "slug": "02-achern",
 "name": "Achern",
 "lat": 48.63139,
@@ -6584,12 +6772,12 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "31-appenweier",
+"anschluss_von": "32-renchen",
 "anschluss": [
-"Achern hat gut zweieinhalbmal so viele Einwohner wie Appenweier.",
-"Bundestagswahl 2025: In Appenweier und in Achern lag die CDU vorn, mit rund 35 und 34 Prozent."
+"Achern hat gut dreieinhalbmal so viele Einwohner wie Renchen.",
+"Bundestagswahl 2025: In Renchen und in Achern lag die CDU vorn, beide Male mit 34,3 Prozent."
 ],
-"km_vom_vorigen": 12.3
+"km_vom_vorigen": 6.9
 },
 {
 "slug": "15-buehl",
@@ -7231,6 +7419,1692 @@ window.QA_DATEN = {
 "km_vom_vorigen": 10.9
 },
 {
+"slug": "33-durmersheim",
+"name": "Durmersheim",
+"lat": 48.93833,
+"lon": 8.27694,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Durmersheim",
+"steckbrief": "Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe.",
+"frage": "Wie deutet die Ortsgeschichte der Gemeinde den Namen Durmersheim?",
+"optionen": [
+"Ein Sippenführer Turmar gab dem Ort den Namen.",
+"Der Name bedeutet: Ort an Wasser und Sumpf.",
+"Der Name geht auf einen alten Wachturm zurück.",
+"Der Name erinnert an dürren, trockenen Sandboden."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Turm und Dürre klingen im Namen an. Die Gemeinde zerlegt ihn aber in Dur für Wasser, Mers für Sumpfland und die Endung -heim. Das Wasser ist der Federbach. Die Sage vom Sippenführer Turmar hält sie für sehr wahrscheinlich erfunden. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.durmersheim.de/web/leben_historisches_durmersheim.html",
+"faktencheck": "bestätigt",
+"id": "33-durmersheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Durmersheim",
+"steckbrief": "Durmersheim liegt mit rund 11.700 Einwohnern in der Rheinebene, 12 km südwestlich von Karlsruhe.",
+"frage": "Wie groß ist die Fläche der Gemeinde Durmersheim?",
+"optionen": [
+"unter 10 km²",
+"10 bis unter 20 km²",
+"20 bis unter 35 km²",
+"35 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an einen Vorort von Karlsruhe denkt, schätzt die Fläche eher klein. Durmersheim misst aber 25,97 km². Dazu gehören seit dem Zusammenschluss auch Würmersheim und viel Wald. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "33-durmersheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Durmersheim",
+"steckbrief": "Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Besatzer nach dem Zweiten Weltkrieg waren hier Amerikaner.",
+"Eine Lokalbahn namens Lobberle fuhr einst nach Karlsruhe.",
+"Bei Erschließungsarbeiten fand man ein fränkisch-alemannisches Gräberfeld."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Lobberle klingt erfunden, ist aber echt: Die Lokalbahn fuhr über Karlsruhe nach Spöck, bis man sie wegen Unrentabilität stilllegte. Auch das Gräberfeld mit Waffen und Grabbeigaben ist belegt. Gelogen waren die Amerikaner: Durmersheim lag in der französischen Zone, mit marokkanischen Einheiten und französischem Gendarmeriekommando. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.durmersheim.de/web/leben_historisches_durmersheim.html und www.durmersheim.de/web/leben_historisches_durmersheim_zeittafel.html",
+"faktencheck": "korrigiert",
+"id": "33-durmersheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Durmersheim",
+"steckbrief": "Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Durmersheim nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"SPD",
+"CDU",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt nahe, sie war lange die klassische Nummer zwei. Bei der Bundestagswahl 2025 kam die AfD in Durmersheim aber auf 22,9 Prozent, hinter der CDU mit 31,1 und vor der SPD mit 15,7 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "33-durmersheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Durmersheim / Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe. / Im Wappen des Ortsteils Würmersheim steht ein gelber Wurm. Was war vor 1901 zeitweise an seiner Stelle zu sehen? / 1. Dort war ein Fisch abgebildet. / 2. Dort war eine Schere abgebildet. / 3. Dort war ein Pflug abgebildet. / 4. Dort war ein Schlüssel abgebildet.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Fisch läge nahe, denn Würmersheims Name bedeutet Heim am Bach im Sumpfland. Doch vor 1901 stand dort zeitweise eine Schere. Den Wurm zeigte das Wappen schon 1553. Heute steht er gelb auf blauem Grund neben dem rot-gelben badischen Wappen. Richtig war 2. /",
+"quelle": "Gemeinde-Webseite, www.durmersheim.de/web/leben_historisches_würmersheim.html und …/leben_historisches_wuermersheim_zeittafel.html (45 Wörter)",
+"faktencheck": "korrigiert",
+"id": "33-durmersheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Durmersheim",
+"steckbrief": "Durmersheim hat rund 11.700 Einwohner und liegt in der Rheinebene, 12 km südwestlich von Karlsruhe.",
+"frage": "Zu welchem Landkreis gehört Durmersheim?",
+"optionen": [
+"Landkreis Karlsruhe",
+"Landkreis Germersheim",
+"Landkreis Rastatt",
+"Ortenaukreis"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Großstadt Karlsruhe ist nah, darum tippen viele auf deren Landkreis. Durmersheim gehört aber zum Landkreis Rastatt, Hauptkennzeichen ist RA. Germersheim klingt verwandt, liegt aber jenseits des Rheins in Rheinland-Pfalz. Richtig war 3.",
+"quelle": "dewiki Infobox; Kennzeichen: Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "33-durmersheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Durmersheim / Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe. / Die Rohrburg war ein markgräfliches Schloss am Zusammenfluss von Schmidt- und Federbach. Was wurde sie ab etwa 1574? / 1. Sie wurde erstmals urkundlich erwähnt. / 2. Sie wurde von Hans Dietrich von Bademer wieder aufgebaut. / 3. Ihr Areal wurde verkauft. / 4. Sie wurde Dienst- und Wohnsitz badischer Forstmeister.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Alles davon gehört zur Geschichte der Rohrburg, nur zu anderen Zeiten: Erstmals erwähnt wurde sie 1388, wieder aufgebaut ab 1657, ihr Areal verkauft 1776. Ab etwa 1574 war sie Dienst- und Wohnsitz badischer Forstmeister. Richtig war 4. /",
+"quelle": "Gemeinde-Webseite, www.durmersheim.de/web/leben_historisches_durmersheim_zeittafel.html (41 Wörter)",
+"faktencheck": "korrigiert",
+"id": "33-durmersheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Durmersheim",
+"steckbrief": "Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe.",
+"frage": "Zu Durmersheim gehört Bickesheim mit seiner Wallfahrtskirche. Woher kommt laut Gemeinde der Name Bickesheim?",
+"optionen": [
+"Der Name meint ein Heim auf dem Buckel.",
+"Der Name kommt von Pickeln der Steinbrecher.",
+"Der Name geht auf einen Gründer Bicko zurück.",
+"Der Name erinnert an einen Bach namens Bicke."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei -heim-Namen steckt oft ein Gründer dahinter, daher liegt ein Bicko nahe. Die Gemeinde führt den Namen aber auf das altdeutsche Bug-Buch zurück, den Buckel: Heim auf dem Buckel. Im Volksmund heißt die Stelle Biggser Buggel oder Biggser Berg. Ein Dorf wurde aus den Höfen dort nie. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.durmersheim.de/web/leben_historisches_bickesheim.html",
+"faktencheck": "bestätigt",
+"id": "33-durmersheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Durmersheim / Durmersheim hat rund 11.700 Einwohner und liegt 12 km südwestlich von Karlsruhe. / In den Fundamenten der alten Pfarrkirche steckte ein Fund, der heute in der neuen eingemauert ist. Was ist es? / 1. Es ist ein Gedenkstein an den Abriss der alten Kirche. / 2. Es ist ein Grenzstein der Markgrafen. / 3. Es ist ein Stück eines römischen Viergöttersteins. / 4. Es ist ein alter Mühlstein vom Federbach.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Grenzstein oder Mühlstein als Baumaterial läge nahe. In den Fundamenten steckte aber ein Stück eines römischen Viergöttersteins, eines Steins mit Götterbildern. Die alte Kirche stand im Pfarrgarten an der Römerstraße. Funde deuten darauf hin, dass dort eine Römerstraße verlief. Richtig war 3. /",
+"quelle": "Gemeinde-Webseite, www.durmersheim.de/web/leben_historisches_durmersheim.html und Seite zum Heimatmuseum (Gemeinde-Webseite) (46 Wörter)",
+"faktencheck": "korrigiert",
+"id": "33-durmersheim/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "03-rastatt",
+"anschluss": [
+"Bundestagswahl 2025: In Rastatt lag die AfD vorn, in Durmersheim die CDU.",
+"Durmersheim und Rastatt liegen beide im Landkreis Rastatt; Rastatt ist die Kreisstadt."
+],
+"km_vom_vorigen": 10.5
+},
+{
+"slug": "34-karlsruhe",
+"name": "Karlsruhe",
+"lat": 49.01667,
+"lon": 8.4,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Karlsruhe",
+"steckbrief": "Karlsruhe ist eine Großstadt am Rhein mit rund 309.000 Einwohnern, 62 km Luftlinie von Stuttgart.",
+"frage": "Voltaire war 1758 Gast im Karlsruher Schloss. Womit verglich er laut Stadtgeschichte, was er dort erlebte?",
+"optionen": [
+"Er verglich es mit dem Italien der Medici.",
+"Er verglich es mit dem Versailles Ludwigs XIV.",
+"Er verglich es mit Friedrichs Hof in Potsdam.",
+"Er verglich es mit dem Athen des Perikles."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Fürstenschloss liegt Versailles als Vergleich nahe. Voltaires Urteil fiel anders aus: Deutschland sei jetzt, was Italien einst zur Zeit der Herzöge von Ferrara und der Medici war. Zur Blüte des Musenhofs trug vor allem Markgräfin Caroline Luise bei. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.karlsruhe.de/kultur-freizeit/kunst-und-museen/museumsgeschichte-in-karlsruhe",
+"faktencheck": "korrigiert",
+"id": "34-karlsruhe/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Karlsruhe",
+"steckbrief": "Karlsruhe ist eine Großstadt am Rhein mit rund 309.000 Einwohnern, 62 km Luftlinie von Stuttgart.",
+"frage": "Wie viele Menschen leben in Karlsruhe durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 bis unter 3.000",
+"3.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Großstadt denkt man an dichte Häuserzeilen und tippt hoch. Zum Stadtgebiet gehören aber auch dörflich geprägte Stadtteile wie Stupferich oder Hohenwettersbach. Im Schnitt leben 1.783 Menschen auf einem Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "34-karlsruhe/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Karlsruhe",
+"steckbrief": "Karlsruhe ist eine Großstadt am Rhein mit rund 309.000 Einwohnern, 62 km Luftlinie von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Badische Landesmuseum sitzt im Schloss.",
+"Mit dem Großherzogtum verkümmerte Karlsruhes Musikleben.",
+"Heinrich Hübsch entwarf die Staatliche Kunsthalle."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele halten das Schloss für einen reinen Fürstensitz, doch dort ist das Badische Landesmuseum untergebracht. Die Kunsthalle entwarf tatsächlich Heinrich Hübsch. Gelogen war der Niedergang: Durch geschicktes Paktieren und Heiratspolitik war Baden kräftig gewachsen, mit dem Großherzogtum blühte das Musikleben auf. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe",
+"faktencheck": "korrigiert",
+"id": "34-karlsruhe/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Karlsruhe",
+"steckbrief": "Karlsruhe ist eine Großstadt mit rund 309.000 Einwohnern, 62 km Luftlinie von Stuttgart.",
+"frage": "Wie hoch war in Karlsruhe die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 74 %",
+"74 bis unter 78 %",
+"78 bis unter 82 %",
+"82 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Großstädte gelten oft als Orte, an denen weniger Menschen wählen als auf dem Land. In Karlsruhe lag die Beteiligung bei der Bundestagswahl 2025 aber bei 83,1 Prozent; stärkste Kraft wurden die Grünen vor der CDU. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "34-karlsruhe/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Karlsruhe",
+"steckbrief": "Karlsruhe ist eine Großstadt am Rhein mit rund 309.000 Einwohnern, 62 km Luftlinie von Stuttgart.",
+"frage": "Unter dem Dirigenten Felix Otto Dessoff erlebte Karlsruhe eine Uraufführung. Welches Werk erklang dort zum ersten Mal?",
+"optionen": [
+"Brahms' Erste Sinfonie erklang dort erstmals.",
+"Beethovens Neunte Sinfonie erklang dort erstmals.",
+"Schumanns Rheinische Sinfonie erklang dort erstmals.",
+"Dvořáks Neunte Sinfonie erklang dort erstmals."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Uraufführung denkt man zuerst an Musikmetropolen wie Wien. Doch in Karlsruhe erklang unter Felix Otto Dessoff erstmals Brahms' Erste Sinfonie. Brahms hatte in der Stadt einen Freund: den Wagner-Dirigenten Hermann Levi. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe",
+"faktencheck": "bestätigt",
+"id": "34-karlsruhe/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Karlsruhe",
+"steckbrief": "Karlsruhe ist eine Großstadt am Rhein mit rund 309.000 Einwohnern, 62 km Luftlinie von Stuttgart.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Karlsruhe?",
+"optionen": [
+"RA",
+"KA",
+"PF",
+"HD"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. RA, PF und HD gehören zu Rastatt, Pforzheim und Heidelberg, alle nicht weit entfernt. In Karlsruhe liegt die Sache aber nahe: Die meisten Autos tragen KA. Richtig war 2.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "34-karlsruhe/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Karlsruhe",
+"steckbrief": "Karlsruhe ist eine Großstadt am Rhein mit rund 309.000 Einwohnern, 62 km Luftlinie von Stuttgart.",
+"frage": "Karl Benz und Carl Friedrich Drais stammen aus Karlsruhe. Wer ist Träger des Verkehrsmuseums der Stadt?",
+"optionen": [
+"Träger ist der Autobauer Mercedes-Benz.",
+"Träger ist das Karlsruher Institut für Technologie.",
+"Träger ist die Verkehrswacht.",
+"Träger ist der Automobilclub ADAC."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Karl Benz als Automobil-Konstrukteur liegt der Autobauer nahe. Träger des Museums ist aber die Verkehrswacht. Es zeigt die Welt auf Rädern, zu der auch Drais mit der Erfindung des Laufrads beitrug. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.karlsruhe.de/kultur-freizeit/kunst-und-museen/museumsgeschichte-in-karlsruhe",
+"faktencheck": "korrigiert",
+"id": "34-karlsruhe/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Karlsruhe",
+"steckbrief": "Karlsruhe ist eine Großstadt am Rhein mit rund 309.000 Einwohnern, 62 km Luftlinie von Stuttgart.",
+"frage": "Unter Felix Mottl erreichte das Hoftheater seinen Höhepunkt. Welchen Ruf verschaffte er Karlsruhe?",
+"optionen": [
+"Karlsruhe galt als Klein-Wien.",
+"Karlsruhe galt als Klein-Bayreuth.",
+"Karlsruhe galt als Klein-Mailand.",
+"Karlsruhe galt als Klein-Weimar."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. An Wien denkt man bei Musik zuerst, an Mailand bei der Oper. Unter Mottl galt Karlsruhe aber als Klein-Bayreuth, nach der Wagner-Festspielstadt: Die Stadt pflegte eine Wagnertradition, die Josef Strauß mit Eduard Devrient begründet hatte. Aufführungen von Berlioz und Bruckner festigten den internationalen Ruf. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.karlsruhe.de/kultur-freizeit/musik-und-theater/musikgeschichte-in-karlsruhe",
+"faktencheck": "korrigiert",
+"id": "34-karlsruhe/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Karlsruhe",
+"steckbrief": "Karlsruhe ist eine Großstadt am Rhein mit rund 309.000 Einwohnern, 62 km Luftlinie von Stuttgart.",
+"frage": "Der Karlsruher Stadtteil Grötzingen trägt einen Beinamen. Welchen?",
+"optionen": [
+"Es heißt Badisches Fischerdorf.",
+"Es heißt Badisches Storchendorf.",
+"Es heißt Badisches Spargeldorf.",
+"Es heißt Badisches Malerdorf."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Am Ende des Pfinztals, zwischen Kraichgauer Hügelland und Rheinebene, liegt der Gedanke an Landwirtschaft nahe. Der Beiname kommt aber von der Kunst: Gegen Ende des vorletzten Jahrhunderts ließen sich in Grötzingen Künstler nieder. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.karlsruhe.de/stadt-rathaus/stadtteile-ortsverwaltungen/groetzingen",
+"faktencheck": "korrigiert",
+"id": "34-karlsruhe/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "33-durmersheim",
+"anschluss": [
+"Karlsruhe hat mehr als 25-mal so viele Einwohner wie Durmersheim.",
+"Kreisgrenze: Durmersheim liegt im Landkreis Rastatt, Karlsruhe ist eine kreisfreie Stadt."
+],
+"km_vom_vorigen": 12.5
+},
+{
+"slug": "35-stutensee",
+"name": "Stutensee",
+"lat": 49.06472,
+"lon": 8.47167,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stutensee",
+"steckbrief": "Große Kreisstadt mit rund 25.400 Einwohnern, 8 km nordöstlich von Karlsruhe.",
+"frage": "Im Jahr 1699 wurde der heutige Stutenseer Stadtteil Friedrichstal gegründet. Warum?",
+"optionen": [
+"Friedrichstal entstand als Garnison gegen Frankreich.",
+"Friedrichstal entstand als Siedlung für Glashüttenarbeiter.",
+"Friedrichstal entstand als Quarantänedorf für Pestkranke.",
+"Friedrichstal entstand als Heimat für Glaubensflüchtlinge."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach einem Fürsten, darum liegt ein Soldatendorf nahe. Markgraf Friedrich Magnus förderte die Gründung tatsächlich. Doch gegründet wurde es von Protestanten aus Frankreich, Hugenotten genannt, die zuvor in der Pfalz lebten. Ihnen wurden Land, Religionsfreiheit und das Recht zur Ortsgründung gewährt; sie führten den Tabakbau ein. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.stutensee.de/Stadtteile-Geschichte",
+"faktencheck": "korrigiert",
+"id": "35-stutensee/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stutensee",
+"steckbrief": "Stadt mit rund 25.400 Einwohnern, 8 km nordöstlich von Karlsruhe.",
+"frage": "Wie viele Einwohner kommen in Stutensee auf einen Quadratkilometer?",
+"optionen": [
+"unter 600",
+"600 bis unter 900",
+"900 bis unter 1.300",
+"1.300 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Karlsruhe lässt an eine dicht bebaute Vorstadt denken. Doch Teile der Gemarkung bedeckt der Hardtwald. Rechnerisch kommen 557 Einwohner auf einen Quadratkilometer. Richtig war 1.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "35-stutensee/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Stutensee",
+"steckbrief": "Große Kreisstadt aus mehreren Stadtteilen, rund 25.400 Einwohner, 8 km nordöstlich von Karlsruhe.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Vermutlich christianisierten Benediktinermönche einst das Dorf Spöck.",
+"Blankenloch geht auf ein Dorf der Merowingerzeit zurück.",
+"Der Name Spöck erinnert an eine alte Speckräucherei."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Speck und Spöck klingen fast gleich, darum wirkt die Räucherei glaubhaft. Die Ortsgeschichte deutet den Namen anders: Das alte Wort spaha heißt Rute, specki ein Damm aus Rutengeflecht und Erde. Historiker vermuten, dass ein solcher Damm Spöck schon in sehr früher Zeit umgab. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.stutensee.de/Stadtteile-Geschichte",
+"faktencheck": "korrigiert",
+"id": "35-stutensee/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stutensee",
+"steckbrief": "Stadt im Umland, rund 25.400 Einwohner, 8 km nordöstlich von Karlsruhe.",
+"frage": "Bundestagswahl 2025: Wie hoch war in Stutensee der Zweitstimmenanteil der stärksten Partei?",
+"optionen": [
+"unter 22 %",
+"22 bis unter 28 %",
+"28 bis unter 34 %",
+"34 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Umland einer Universitätsstadt erwartet man oft ein zersplittertes Ergebnis ohne klaren Sieger. In Stutensee lag die CDU aber mit 31,5 Prozent deutlich vor der AfD, die Grünen folgten auf Platz drei. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "35-stutensee/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stutensee",
+"steckbrief": "Große Kreisstadt mit rund 25.400 Einwohnern, 8 km nordöstlich von Karlsruhe.",
+"frage": "Die Stadt Stutensee wurde 1975 gebildet. Wonach ist sie benannt?",
+"optionen": [
+"Sie trägt den Namen eines Baggersees am Hardtwald.",
+"Sie trägt den Namen einer Pferderasse aus Baden.",
+"Sie trägt den Namen eines Bachs der Gegend.",
+"Sie trägt den Namen eines Schlösschens im Zentrum."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach Pferden am Wasser, darum liegt ein Gewässer nahe. Benannt wurde die neue Stadt aber nach Schloss Stutensee, einem Rokokoschlösschen im Zentrum der Stadtteile. Das Schloss selbst heißt nach einem markgräflichen Gestüt, das 1652 bei Fischteichen gegründet wurde. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.stutensee.de/Stadtteile-Geschichte",
+"faktencheck": "korrigiert",
+"id": "35-stutensee/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Stutensee",
+"steckbrief": "Stadt mit rund 25.400 Einwohnern, 8 km nordöstlich von Karlsruhe.",
+"frage": "Zu welchem Landkreis gehört die Große Kreisstadt Stutensee?",
+"optionen": [
+"Landkreis Karlsruhe",
+"Rhein-Neckar-Kreis",
+"Landkreis Rastatt",
+"Enzkreis"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer weiß, dass die Stadt Karlsruhe selbst keinem Landkreis angehört, zögert bei der ersten Option. Doch der Landkreis trägt nur den Namen der Stadt, und Stutensee gehört zu ihm. Auch das Stadtwappen verlieh das Landratsamt Karlsruhe. Richtig war 1.",
+"quelle": "GRUNDDATEN, dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "35-stutensee/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stutensee",
+"steckbrief": "Stadt aus mehreren Stadtteilen, rund 25.400 Einwohner, 8 km nordöstlich von Karlsruhe.",
+"frage": "Die katholische Kirche St. Wolfgang im Stadtteil Staffort wurde 1989 eingeweiht. Was war ihr Gebäude zuvor?",
+"optionen": [
+"Das Gebäude war früher eine Dorfschule.",
+"Das Gebäude war früher ein Tabaklager.",
+"Das Gebäude war früher ein Kino.",
+"Das Gebäude war früher eine Molkerei."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Umgebaute Schulen dienen oft als Gemeindesäle, darum liegt die Dorfschule nahe. In Staffort prägten Tabak- und Spargelanbau lange das Dorfleben; passend dazu kaufte die katholische Gemeinde 1982 ein ehemaliges Tabaklager und baute es zur Kirche um. Richtig war 2.",
+"quelle": "Badische Landesbibliothek, regionalia.blb-karlsruhe.de/frontdoor/index/docId/27176",
+"faktencheck": "korrigiert",
+"id": "35-stutensee/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heinrich Wetzlar und seine Frau Therese richteten 1919 im Schloss Stutensee ein Heim ein. Wofür war es gedacht? (Optionen unverändert)",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Kurz nach dem Ersten Weltkrieg liegt ein Lazarett nahe. Doch der jüdische Richter, später Landgerichtspräsident in Mannheim, und seine Frau wollten gestrauchelte Jugendliche durch Erziehung und Ausbildung wieder eingliedern. 1943 wurden beide nach Theresienstadt deportiert und kamen dort ums Leben. Seit 1984 trägt ein Haus der Jugendeinrichtung seinen Namen. Richtig war 3.",
+"quelle": "Jugendeinrichtung Schloss Stutensee, www.jugend-schloss.de",
+"faktencheck": "korrigiert",
+"id": "35-stutensee/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stutensee",
+"steckbrief": "Stadt mit rund 25.400 Einwohnern, 8 km nordöstlich von Karlsruhe.",
+"frage": "Ab 1827 war Aloys Henhöfer Pfarrer im heutigen Stadtteil Spöck. Wodurch machte er das Dorf über Baden hinaus bekannt?",
+"optionen": [
+"Er entdeckte dort eine heilkräftige Quelle.",
+"Er züchtete preisgekrönte Pferde im Pfarrhof.",
+"Er schrieb eine vielgelesene Chronik des Hardtwalds.",
+"Seine Predigten zogen Menschen der ganzen Region an."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Dörfer wurden früher oft durch Quellen oder Wallfahrten berühmt, das liegt nahe. Spöck verdankte seinen Ruf aber dem Pfarrer selbst: Zu Henhöfers Predigten kamen Menschen aus der ganzen Region, und so wurde Spöck über die Grenzen Badens hinaus bekannt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.stutensee.de/Stadtteile-Geschichte",
+"faktencheck": "bestätigt",
+"id": "35-stutensee/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "34-karlsruhe",
+"anschluss": [
+"Bundestagswahl 2025: In Karlsruhe lagen die Grünen vorn, in Stutensee die CDU.",
+"Karlsruhe hat gut zwölfmal so viele Einwohner wie Stutensee."
+],
+"km_vom_vorigen": 7.5
+},
+{
+"slug": "36-graben-neudorf",
+"name": "Graben-Neudorf",
+"lat": 49.15917,
+"lon": 8.48944,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Graben-Neudorf",
+"steckbrief": "Gemeinde mit rund 12.500 Einwohnern, 18 km nördlich von Karlsruhe.",
+"frage": "Das alte Wappen des Ortsteils Graben zeigt zwei Hufeisen. Wofür stehen sie?",
+"optionen": [
+"Sie erinnern an einen alten Pferdemarkt.",
+"Sie zeigen das Zeichen der Dorfschmiede.",
+"Sie stehen für zwei weitere Dörfer des Amts.",
+"Sie erinnern an eine alte Poststation."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Hufeisen lassen an Pferde denken, an Markt, Schmiede oder Post. Tatsächlich waren sie die Dorfzeichen von Liedolsheim und Rußheim, die mit Graben das Amt Graben bildeten. Die gekreuzten Spaten im selben Wappen sind „redend“: Grabscheite für den Namen Graben. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/wappen",
+"faktencheck": "bestätigt",
+"id": "36-graben-neudorf/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Graben-Neudorf",
+"steckbrief": "Gemeinde aus den Dörfern Graben und Neudorf, 18 km nördlich von Karlsruhe, 28,8 km² groß.",
+"frage": "Wie viele Einwohner hat Graben-Neudorf?",
+"optionen": [
+"unter 4.000",
+"4.000 bis unter 8.000",
+"8.000 bis unter 12.000",
+"12.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Zwei alte Dörfer, Graben und Neudorf, klingen nach Landgemeinde. Doch zusammen zählen sie heute 12.496 Einwohner. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "36-graben-neudorf/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Graben-Neudorf",
+"steckbrief": "Gemeinde mit rund 12.500 Einwohnern, 18 km nördlich von Karlsruhe.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Neudorf wurde evangelisch, Graben aber blieb katholisch.",
+"Neudorf gehörte einst zum Herrschaftsgebiet des Bistums Speyer.",
+"Graben hatte einst ein Schloss, zu dem das Amtshaus gehörte."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer wem gehörte, bestimmte damals meist den Glauben. In Graben führte der Markgraf von Baden-Durlach die Reformation ein. Neudorf aber unterstand dem Bistum Speyer und blieb katholisch. Zum Grabener Schloss gehörte das Amtshaus des Amtes Graben. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte",
+"faktencheck": "korrigiert",
+"id": "36-graben-neudorf/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Graben-Neudorf",
+"steckbrief": "Gemeinde mit rund 12.500 Einwohnern, 18 km nördlich von Karlsruhe.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Graben-Neudorf nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"AfD",
+"SPD",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an Baden-Württemberg denkt, tippt auf die CDU; sie wurde aber stärkste Kraft mit 32,2 Prozent. Auf Platz zwei kam die AfD mit 23,5 Prozent, deutlich vor SPD und Grünen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "36-graben-neudorf/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Graben-Neudorf",
+"steckbrief": "Gemeinde mit rund 12.500 Einwohnern, 18 km nördlich von Karlsruhe.",
+"frage": "Wie entstand der Ortsteil Neudorf laut Ortsgeschichte?",
+"optionen": [
+"Ein abgebranntes Dorf wurde an neuer Stelle aufgebaut.",
+"Flüchtlinge vor dem Hochwasser gründeten es neu.",
+"Zwei Rodungssiedlungen im Wald wuchsen zusammen.",
+"Glaubensflüchtlinge legten es als neue Siedlung an."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name „Neudorf“ legt einen Neubau nahe, etwa nach Brand oder Flut. Laut Ortsgeschichte ist Neudorf aber wohl aus dem Zusammenwachsen zweier Rodungssiedlungen entstanden, nämlich Grefenweilers und Grevenhauses, auf dem Boden des Grevenhart, des Grafenwalds. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte",
+"faktencheck": "korrigiert",
+"id": "36-graben-neudorf/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Graben-Neudorf",
+"steckbrief": "Gemeinde mit rund 12.500 Einwohnern, 18 km nördlich von Karlsruhe.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Graben-Neudorf?",
+"optionen": [
+"HD",
+"GER",
+"RA",
+"KA"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Heidelberg und die Pfalz jenseits des Rheins sind nicht weit, das lässt zweifeln. Graben-Neudorf gehört aber zum Landkreis Karlsruhe, dessen Hauptkennzeichen KA ist. Neudorf lag früher im alten Landkreis Bruchsal, Graben im alten Landkreis Karlsruhe. Richtig war 4.",
+"quelle": "Wikidata P395; dewiki Infobox (Landkreis)",
+"faktencheck": "bestätigt",
+"id": "36-graben-neudorf/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Graben-Neudorf",
+"steckbrief": "Gemeinde mit rund 12.500 Einwohnern, 18 km nördlich von Karlsruhe.",
+"frage": "Im Frühjahr 1689 brannten Franzosen das Dorf Graben nieder. Was blieb laut Ortsgeschichte stehen?",
+"optionen": [
+"Nur ein altes Haus blieb stehen.",
+"Nur das Schloss blieb unversehrt.",
+"Die meisten Häuser blieben verschont.",
+"Das Dorf brannte restlos nieder."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. „Niedergebrannt“ klingt nach völliger Vernichtung, und ein Schloss gilt als besonders fest. Doch das Grabener Schloss hatten Franzosen aus der Festung Philippsburg schon früher zerstört. Überstanden hat den Brand nur ein altes Haus. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte",
+"faktencheck": "unsicher",
+"id": "36-graben-neudorf/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Graben-Neudorf",
+"steckbrief": "Gemeinde mit rund 12.500 Einwohnern, 18 km nördlich von Karlsruhe.",
+"frage": "Das Wappen von Graben-Neudorf zeigt ein silbernes Tatzenkreuz. Auf welches Wappen geht es laut Gemeinde wohl zurück?",
+"optionen": [
+"Es stammt aus dem Wappen des Deutschen Ordens.",
+"Es stammt aus dem Wappen des Hochstifts Speyer.",
+"Es stammt aus dem Wappen des Erzbistums Mainz.",
+"Es stammt aus dem Wappen des Johanniterordens."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Tatzenkreuz erinnert an Ritterorden und Kreuzzüge. Ins Gemeindewappen kam es aber aus dem alten Wappen von Neudorf. Dort ist es laut Gemeinde wohl als Wappen des Hochstifts Speyer zu deuten, des Herrschaftsgebiets der Speyerer Bischöfe. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/wappen",
+"faktencheck": "korrigiert",
+"id": "36-graben-neudorf/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "35-stutensee",
+"anschluss": [
+"Stutensee hat doppelt so viele Einwohner wie Graben-Neudorf.",
+"Stutensee ist eine Stadt, Graben-Neudorf eine Gemeinde; beide liegen im Landkreis Karlsruhe."
+],
+"km_vom_vorigen": 10.6
+},
+{
+"slug": "37-waghaeusel",
+"name": "Waghäusel",
+"lat": 49.25,
+"lon": 8.51694,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waghäusel",
+"steckbrief": "Rund 22.000 Einwohner, 22 km südwestlich von Heidelberg.",
+"frage": "Das Wappen des Stadtteils Waghäusel zeigt drei blaue Zuckerhüte. Woher stammt dieses Motiv?",
+"optionen": [
+"Sie stehen für die Ortsteile der heutigen Stadt.",
+"Sie waren das Firmenzeichen der Zuckerfabrik.",
+"Sie erinnern an einen alten Zuckerzoll.",
+"Sie erinnern an eine Zuckerbäckerzunft im Ort."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Drei Hüte, drei Ortsteile: Das liegt nahe. Doch das Wappen ist älter als die heutige Stadt. Der Gemeinderat übernahm das Firmenzeichen der Zuckerfabrik, die das Bild des kleinen Ortes lange beherrschte. Die Farben Blau und Silber stammen vom Hochstift Speyer. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.waghaeusel.de/stadt-wirtschaft/geschichte-wappen/stadtwappen-ortsteile",
+"faktencheck": "bestätigt",
+"id": "37-waghaeusel/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Waghäusel",
+"steckbrief": "Rund 22.000 Einwohner, 22 km südwestlich von Heidelberg.",
+"frage": "Wie groß ist die Fläche der Stadt Waghäusel?",
+"optionen": [
+"unter 20 km²",
+"20 bis unter 35 km²",
+"35 bis unter 50 km²",
+"50 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Rund 22.000 Einwohner klingen nach dicht bebauter Stadt, also schätzt man die Fläche eher klein. Doch Waghäusel misst 42,84 km². Den größten Teil nehmen laut Stadt Wald, Wasser und sonstige Flächen ein, weniger Siedlung, Verkehr und Landwirtschaft. Richtig war 3.",
+"quelle": "Wikidata P2046; Flächenaufteilung: Gemeinde-Webseite, www.waghaeusel.de/stadt-wirtschaft/grosse-kreisstadt-waghaeusel/zahlen-daten-fakten",
+"faktencheck": "bestätigt",
+"id": "37-waghaeusel/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Waghäusel",
+"steckbrief": "Rund 22.000 Einwohner, 22 km südwestlich von Heidelberg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Nahe dem Wagbach lag einst ein römisches Kleinkastell.",
+"Bei Waghäusel siegte ein Revolutionsheer am Ende über preußische Truppen.",
+"Am Bahnhof Wiesental fand man ein bronzezeitliches Messer."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Römerkastell klingt am ehesten erfunden, doch es lag tatsächlich nahe dem Wagbach. Gelogen war der Sieg: Bei Wiesental und Waghäusel kämpfte in der Badischen Revolution ein badisch-pfälzisches Revolutionsheer gegen preußische Truppen und wurde am Ende geschlagen. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.waghaeusel.de/stadt-wirtschaft/geschichte-wappen/blick-in-die-ortsgeschichte",
+"faktencheck": "korrigiert",
+"id": "37-waghaeusel/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Waghäusel",
+"steckbrief": "Rund 22.000 Einwohner, 22 km südwestlich von Heidelberg.",
+"frage": "Wie hoch war die Wahlbeteiligung in Waghäusel bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 85 %",
+"85 bis unter 88 %",
+"88 bis unter 91 %",
+"91 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bundestagswahlen ziehen mehr Menschen an die Urne als Kommunal- oder Europawahlen, da schätzt man leicht zu hoch. In Waghäusel lag die Wahlbeteiligung 2025 bei 84 Prozent. Stärkste Kraft wurde die CDU, Zweite die AfD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "37-waghaeusel/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waghäusel",
+"steckbrief": "Rund 22.000 Einwohner, 22 km südwestlich von Heidelberg.",
+"frage": "Um die Kapelle Zum Waghus entstand ein Wallfahrtsort. Wer soll dort ein wundertätiges Madonnenbild entdeckt haben?",
+"optionen": [
+"Ein Fischer soll es entdeckt haben.",
+"Ein Schäfer soll es entdeckt haben.",
+"Ein Mönch soll es entdeckt haben.",
+"Ein Jäger soll es entdeckt haben."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Mönch liegt nahe, denn Wallfahrten und Klöster gehören oft zusammen. Nach der Überlieferung soll aber ein Schäfer das wundertätige Madonnenbild entdeckt haben. An der Fundstelle entstand die Kapelle Zum Waghus, die bald ein vielbesuchter Wallfahrtsort wurde. Aus ihm ging der Stadtteil Waghäusel hervor. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.waghaeusel.de/stadt-wirtschaft/geschichte-wappen/stadtwappen-ortsteile",
+"faktencheck": "korrigiert",
+"id": "37-waghaeusel/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Waghäusel",
+"steckbrief": "Rund 22.000 Einwohner, 22 km südwestlich von Heidelberg.",
+"frage": "Welche dieser Gemeinden ist eine Partnergemeinde von Waghäusel?",
+"optionen": [
+"Mallnitz",
+"Chepstow",
+"Szigetújfalu",
+"Kalocsa"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Kalocsa liegt nahe, denn unter ungarisch klingenden Namen wählt man gern den bekannteren. Partnerschaften folgen aber nicht der Bekanntheit. Die Partnergemeinden von Waghäusel sind Szigetújfalu, Caldicot und Flattach. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.waghaeusel.de/stadt-wirtschaft/partnergemeinden (Stand 2026)",
+"faktencheck": "korrigiert",
+"id": "37-waghaeusel/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waghäusel",
+"steckbrief": "Rund 22.000 Einwohner, 22 km südwestlich von Heidelberg.",
+"frage": "Der berühmte Barockbaumeister Balthasar Neumann baute in Waghäusel die Eremitage um. Wozu diente sie ursprünglich?",
+"optionen": [
+"Sie war eine Einsiedelei für fromme Eremiten.",
+"Sie war eine Herberge für Wallfahrer.",
+"Sie war eine Lateinschule für junge Priester.",
+"Sie diente als Jagdschloss und Rückzugsort."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name Eremitage klingt nach Einsiedlern, daher liegt die Einsiedelei nahe. Doch Fürstbischof Damian Hugo von Schönborn ließ die Anlage als Jagdschloss und Rückzugsort bauen. Sie gehörte den Fürstbischöfen von Speyer, später der Badischen Gesellschaft für Zuckerfabrikation. Heute ist sie ein denkmalgeschütztes Ensemble. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.waghaeusel.de/stadt-wirtschaft/geschichte-wappen/blick-in-die-ortsgeschichte",
+"faktencheck": "bestätigt",
+"id": "37-waghaeusel/v0.8/7",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Waghäusel",
+"steckbrief": "Rund 22.000 Einwohner, 22 km südwestlich von Heidelberg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Stadtteil Waghäusel hat die meisten Einwohner.",
+"Die Stadt entstand aus einem Zusammenschluss mehrerer Gemeinden.",
+"Das Wappen des Stadtteils Wiesental zeigt ein Herz."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer der Stadt den Namen gibt, muss doch der größte Stadtteil sein? Nein: Waghäusel hat mit Abstand die wenigsten Einwohner, Wiesental und Kirrlach haben weit mehr. Die Stadt entstand aus diesen drei Gemeinden. Das Wiesentaler Wappen trägt die Farben des Hochstifts Speyer. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.waghaeusel.de/stadt-wirtschaft/grosse-kreisstadt-waghaeusel/zahlen-daten-fakten (Stand 2026)",
+"faktencheck": "unsicher",
+"id": "37-waghaeusel/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waghäusel",
+"steckbrief": "Rund 22.000 Einwohner, 22 km südwestlich von Heidelberg.",
+"frage": "Das Wappen des Stadtteils Kirrlach zeigt ein silbernes Beil. Was für ein Beil war es ursprünglich?",
+"optionen": [
+"Es war ein Henkersbeil des Dorfgerichts.",
+"Es war ein Zimmermannsbeil der Bauleute.",
+"Es war ein Beil der Metzger.",
+"Es war eine Streitaxt der Ritter."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Beil auf grünem Grund lässt an Wald und Holz denken, und so sieht es heute auch aus: als Försterbeil. Ursprünglich aber war es ein Metzgerbeil, die Darstellung änderte sich mehrfach. Das Wappen verlieh das Innenministerium. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.waghaeusel.de/stadt-wirtschaft/geschichte-wappen/stadtwappen-ortsteile",
+"faktencheck": "korrigiert",
+"id": "37-waghaeusel/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "36-graben-neudorf",
+"anschluss": [
+"Waghäusel hat fast doppelt so viele Einwohner wie Graben-Neudorf.",
+"Bundestagswahl 2025: In Graben-Neudorf und in Waghäusel lag die CDU vorn; die AfD kam in Waghäusel auf 26,4 Prozent, in Graben-Neudorf auf 23,5."
+],
+"km_vom_vorigen": 10.3
+},
+{
+"slug": "38-hockenheim",
+"name": "Hockenheim",
+"lat": 49.31806,
+"lon": 8.54722,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hockenheim",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern, 14 km südwestlich von Heidelberg.",
+"frage": "Ab 1964 wurde der Hockenheimring umgebaut und bekam das Motodrom mit erhöhten Tribünen. Was war der Anlass?",
+"optionen": [
+"Der Bau der Autobahn A6 erzwang ihn.",
+"Ein Hochwasser des Rheins hatte Streckenteile zerstört.",
+"Ein Brand hatte die alten Holztribünen vernichtet.",
+"Ein Sturm hatte die Strecke unbefahrbar gemacht."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Brand, Sturm oder Hochwasser sind typische Gründe für einen Neubau, deshalb liegen sie nahe. Beim Hockenheimring gab aber der Bau der Autobahn A6 den Anlass; dabei entstand das Motodrom, eröffnet 1966. Schon 1938 war die Strecke einmal umgebaut worden. Richtig war 1.",
+"quelle": "Speedweek, www.speedweek.com/a/formel-1/history-hockenheimring-e28093-seine-verrueckte-entstehung",
+"faktencheck": "korrigiert",
+"id": "38-hockenheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hockenheim",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern, 14 km südwestlich von Heidelberg.",
+"frage": "Wie groß ist die Fläche des Hockenheimer Stadtgebiets?",
+"optionen": [
+"unter 20 km²",
+"20 bis unter 40 km²",
+"40 bis unter 60 km²",
+"60 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer nur an die bebaute Stadt denkt, schätzt eher klein. Doch zur Gemarkung, dem gesamten Gebiet einer Gemeinde, zählen auch alle Flächen außerhalb der Bebauung. Hockenheims Gemarkung misst 34,84 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "38-hockenheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hockenheim",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern, 14 km südwestlich von Heidelberg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Wahrzeichen der Stadt ist der Wasserturm.",
+"In Hockenheimer Gräbern fand man Glockenbecher-Gefäße.",
+"Ein König von Württemberg erhob Hockenheim zur Stadt."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Württemberg liegt nahe, denn heute gehört Hockenheim zu Baden-Württemberg. Doch Hockenheim war schon badisch, als es zur Stadt erhoben wurde, nicht württembergisch. Wahr sind der Wasserturm als Wahrzeichen und die Glockenbecher-Gefäße einer vorgeschichtlichen Kultur aus Hockergräbern. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.hockenheim.de/startseite/kultur/stadtgeschichte.html und www.hockenheim.de/startseite/kultur/stadtportraet+und+stadtgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "38-hockenheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hockenheim",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern, 14 km südwestlich von Heidelberg.",
+"frage": "Bundestagswahl 2025, Zweitstimmen: Wie viel Prozent holte in Hockenheim die stärkste Partei?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 24 %",
+"24 bis unter 28 %",
+"28 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an zersplitterte Ergebnisse vieler Parteien denkt, schätzt den Sieger niedriger. In Hockenheim kam die CDU auf 29,5 Prozent der Zweitstimmen, vor der AfD und der SPD. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "38-hockenheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hockenheim",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern, 14 km südwestlich von Heidelberg.",
+"frage": "Im Hockenheimer Wappen kreuzen sich zwei silberne Haken. Welche Deutung nennt die Überlieferung dafür?",
+"optionen": [
+"Der Ortsname wurde als Haken gedeutet.",
+"Sie erinnern an die Fischerei am Rhein.",
+"Sie zeigen Werkzeug der Rheinflößer.",
+"Sie stammen von einem alten Rittergeschlecht."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Rhein und Schifffahrt liegen nahe, denn Haken sehen wie Werkzeug am Wasser aus. Die Deutung geht aber vom Ortsnamen aus: Man verstand Hocken als Haken. Das nennt man Volksetymologie, eine Herleitung nach dem bloßen Klang. Der Löwe darüber verweist auf die Kurpfalz. Richtig war 1.",
+"quelle": "LEO-BW, www.leo-bw.de (Ortslexikon Hockenheim, Wappen)",
+"faktencheck": "korrigiert",
+"id": "38-hockenheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hockenheim",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern, 14 km südwestlich von Heidelberg.",
+"frage": "Wie weit ist es von Hockenheim in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 50 km",
+"50 bis unter 100 km",
+"100 bis unter 150 km",
+"150 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Stuttgart wirkt weit weg, weil Hockenheim im Rhein-Neckar-Kreis nahe Heidelberg liegt. In Luftlinie trennen Hockenheim und Stuttgart aber nur 75 Kilometer. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "38-hockenheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Hockenheim",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern, 14 km südwestlich von Heidelberg.",
+"frage": "Wie viele Zuschauer fasst der Hockenheimring nach Angaben der Stadt etwa?",
+"optionen": [
+"unter 25.000",
+"25.000 bis unter 75.000",
+"75.000 bis unter 200.000",
+"200.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer von der Einwohnerzahl ausgeht, schätzt deutlich kleiner. Doch eine Rennstrecke rechnet mit Gästen, nicht nur mit Einheimischen: Laut Stadt fasst der Hockenheimring etwa 120.000 Zuschauer, ein Vielfaches der Einwohnerzahl. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.hockenheim.de/startseite/kultur/_in+zahlen.html",
+"faktencheck": "bestätigt",
+"id": "38-hockenheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hockenheim",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern, 14 km südwestlich von Heidelberg.",
+"frage": "Das Tabakmuseum der Stadt ist in einem historischen Gebäude untergebracht. Was für ein Gebäude ist es?",
+"optionen": [
+"Es nutzt das frühere Rathaus.",
+"Es steht in einer Zehntscheune.",
+"Es sitzt im alten Bahnhofsgebäude.",
+"Es zog in eine frühere Mühle."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Mühle oder Rathaus liegen nahe, denn solche Altbauten werden oft zu Museen. Das Museum sitzt aber in der Zehntscheune, einem Speicher für den Zehnt, eine alte Abgabe. Es erzählt vom Tabak, denn in Hockenheim gab es einst zahlreiche Zigarrenfabriken. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.hockenheim.de/startseite/kultur/museum.html",
+"faktencheck": "bestätigt",
+"id": "38-hockenheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hockenheim",
+"steckbrief": "Stadt mit rund 21.600 Einwohnern, 14 km südwestlich von Heidelberg.",
+"frage": "Die Familie von Friedrich Engelhorn stammte aus Hockenheim. Welches Unternehmen hat er gegründet?",
+"optionen": [
+"Er gründete die Farbwerke Hoechst.",
+"Er gründete die Heidelberger Druckmaschinen.",
+"Er gründete die SAP.",
+"Er gründete die BASF."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Heidelberger Druckmaschinen liegen nahe, weil Heidelberg so nah ist. Friedrich Engelhorn, dessen Familie aus Hockenheim stammte, gründete aber die BASF, ein Chemieunternehmen. Das B im Namen steht für Badisch: Badische Anilin- und Soda-Fabrik. Richtig war 4.",
+"quelle": "LEO-BW, www.leo-bw.de (Biographie Friedrich Engelhorn)",
+"faktencheck": "korrigiert",
+"id": "38-hockenheim/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "37-waghaeusel",
+"anschluss": [
+"Kreisgrenze: Waghäusel gehört zum Landkreis Karlsruhe, Hockenheim zum Rhein-Neckar-Kreis.",
+"Waghäusel und Hockenheim sind fast gleich groß: rund 22.300 und 21.600 Einwohner."
+],
+"km_vom_vorigen": 7.9
+},
+{
+"slug": "39-schwetzingen",
+"name": "Schwetzingen",
+"lat": 49.38333,
+"lon": 8.56667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schwetzingen",
+"steckbrief": "Rund 22.000 Einwohner, 9 km westlich von Heidelberg.",
+"frage": "Schwetzingen nennt sich Spargelstadt. Wo wurde der Spargel dort laut Stadtgeschichte zuerst angebaut?",
+"optionen": [
+"Er wuchs zuerst im Garten eines Klosters.",
+"Er wuchs zuerst auf den Äckern der Bauern.",
+"Er wuchs zuerst im Garten des Pfarrhauses.",
+"Er wuchs zuerst im Garten des Schlosses."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bauernäcker liegen nahe, denn Spargel gilt als typisches Feldgemüse. Laut Stadtgeschichte wurde er in Schwetzingen aber erstmals im Schlossgarten angebaut. Später trug er neben Hopfen und Tabak die Industrialisierung und wurde durch Züchtungen verbessert. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.schwetzingen.de/startseite/leben/stadtgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "39-schwetzingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Schwetzingen",
+"steckbrief": "Die Stadt hat rund 22.000 Einwohner und liegt 9 km westlich von Heidelberg.",
+"frage": "Wie hoch über dem Meeresspiegel liegt Schwetzingen?",
+"optionen": [
+"unter 120 m",
+"120 bis unter 200 m",
+"200 bis unter 350 m",
+"350 m und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an Heidelberg denkt, hat den Königstuhl und die Hänge des Odenwalds vor Augen. Schwetzingen liegt dagegen nur auf 101 Metern über dem Meer. Richtig war 1.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "39-schwetzingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Schwetzingen",
+"steckbrief": "Rund 22.000 Einwohner, 9 km westlich von Heidelberg gelegen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Schwetzingen war schon im Mittelalter eine Stadt.",
+"Im Schwetzinger Schlossgarten steht eine Moschee.",
+"Die Straße nach Heidelberg wurde als Maulbeerallee ausgebaut."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Moschee klingt am unwahrscheinlichsten, steht aber wirklich im Schlossgarten und zeugt vom aufgeklärten Denken des Herrschers. Gelogen war die mittelalterliche Stadt: Schwetzingen wurde erst Marktflecken mit Wochenmarkt und Jahrmärkten, Stadt erst unter Großherzog Leopold. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.schwetzingen.de/startseite/leben/stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "39-schwetzingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Schwetzingen",
+"steckbrief": "Rund 22.000 Einwohner, 9 km westlich von Heidelberg.",
+"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Schwetzingen die zweitmeisten Zweitstimmen?",
+"optionen": [
+"SPD",
+"GRÜNE",
+"AfD",
+"CDU"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele tippen auf die SPD, die lange zweite Volkspartei war. In Schwetzingen kam sie aber nur auf Platz drei, hinter der AfD. Stärkste Partei wurde die CDU. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "39-schwetzingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schwetzingen",
+"steckbrief": "Rund 22.000 Einwohner, 9 km westlich von Heidelberg.",
+"frage": "Der alemannische Dichter Johann Peter Hebel starb in Schwetzingen. Wo genau?",
+"optionen": [
+"Er starb in einem Gasthof der Stadt.",
+"Er starb im Pfarrhaus der evangelischen Gemeinde.",
+"Er starb in einem Spital der Stadt.",
+"Er starb in der Wohnung des Gartendirektors."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Gasthof oder Spital liegen nahe, denn dort starben früher oft Reisende. Hebel starb aber bei seinem Freund Johann Michael Zeyher, dem Schwetzinger Gartendirektor, im heutigen Amtsgericht. Begraben wurde er unter großen Feierlichkeiten auf dem Friedhof Hebelstraße; Zeyher ließ einen einfachen Stein setzen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.schwetzingen.de/2431371.html",
+"faktencheck": "bestätigt",
+"id": "39-schwetzingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Schwetzingen",
+"steckbrief": "Die Stadt hat rund 22.000 Einwohner und liegt 9 km westlich von Heidelberg.",
+"frage": "Wie weit ist es von Schwetzingen in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 90 km",
+"90 bis unter 120 km",
+"120 bis unter 150 km",
+"150 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gefühlt liegt Stuttgart fern, denn Heidelberg liegt gleich nebenan. Bis Stuttgart sind es in Luftlinie aber nur 80 Kilometer; die Straße ist länger. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "39-schwetzingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schwetzingen",
+"steckbrief": "Rund 22.000 Einwohner, 9 km westlich von Heidelberg.",
+"frage": "1870 wurde in Schwetzingen der Friedhof an der Mannheimer Landstraße eingeweiht. Woher stammte der Erste, der dort beerdigt wurde?",
+"optionen": [
+"Er stammte aus Schwetzingen selbst.",
+"Er stammte aus Breslau.",
+"Er stammte aus Paris.",
+"Er stammte aus Speyer."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Man erwartet einen Einheimischen, denn ein neuer Friedhof dient dem Ort. Doch er wurde im Deutsch-Französischen Krieg früher als geplant eingeweiht; in den Zirkelsälen des Schlosses lag ein Reservelazarett. Als Erster wurde Georg Härtel aus Breslau beerdigt, gestorben an Wundstarrkrampf. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.schwetzingen.de/2431371.html",
+"faktencheck": "bestätigt",
+"id": "39-schwetzingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schwetzingen",
+"steckbrief": "Rund 22.000 Einwohner, 9 km westlich von Heidelberg.",
+"frage": "Woher hat Schwetzingen laut Stadtgeschichte seinen Namen?",
+"optionen": [
+"Er kommt von einem Wort der Mundart.",
+"Er kommt von einem früheren Bachlauf.",
+"Er geht auf einen Personennamen zurück.",
+"Er erinnert an einen alten Volksstamm."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer „Schwetz“ hört, denkt an das pfälzische „schwätzen“. Laut Stadtgeschichte steckt aber ein Personenname dahinter: Der früh belegte Name Suezzingen bedeutet soviel wie „zu der Stätte des Suezzo gehörig“. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.schwetzingen.de/startseite/leben/stadtgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "39-schwetzingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schwetzingen",
+"steckbrief": "Rund 22.000 Einwohner, 9 km westlich von Heidelberg.",
+"frage": "Ab 1748 entstand in Schwetzingen eine „Neue Stadt“ mit Marktplatz. Welchen Zweck nennt die Stadtgeschichte dafür?",
+"optionen": [
+"Sie sollte die getrennten Ortsteile zusammenführen.",
+"Sie sollte Kasernen für Soldaten aufnehmen.",
+"Sie sollte ein Kurviertel mit Badehäusern werden.",
+"Sie sollte Platz für eine Hochschule schaffen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Kasernen liegen nahe, denn zu einer Residenz gehörten oft Soldaten. Laut Stadtgeschichte sollte die Neue Stadt aber die bislang getrennten Ortsteile zu einem städtischen Zentrum vereinen, bezogen auf das Schloss. Sie entstand entlang der Straße nach Heidelberg, die am Ehrenhof des Schlosses ihren Anfang nahm. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.schwetzingen.de/startseite/leben/stadtgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "39-schwetzingen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Schwetzingen",
+"steckbrief": "Rund 22.000 Einwohner, 9 km westlich von Heidelberg.",
+"frage": "Später kamen die Pfalzgrafen gern zur Jagd nach Schwetzingen. Was war das Schloss ursprünglich, das wohl im 13. Jahrhundert entstand?",
+"optionen": [
+"Es war ein Kloster mit Klostergarten.",
+"Es war eine wehrhafte Wasserburg.",
+"Es war eine Zollstation an der Straße.",
+"Es war ein Gutshof eines Bischofs."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Kloster liegt nahe, denn manches Schloss ging aus Klosterbesitz hervor. Hier aber stand zwischen Oberdorf und Unterdorf eine wehrhafte Wasserburg des Rittergeschlechts der Erligheimer. Später kam sie an die Kurpfalz, deren Herren in den wildreichen Forsten des Hardtwaldes jagten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.schwetzingen.de/startseite/leben/stadtgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "39-schwetzingen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "38-hockenheim",
+"anschluss": [
+"Hockenheim und Schwetzingen haben fast gleich viele Einwohner, rund 21.600 und 21.900 – Schwetzingen auf deutlich kleinerer Fläche.",
+"Hockenheim und Schwetzingen liegen beide im Rhein-Neckar-Kreis."
+],
+"km_vom_vorigen": 7.4
+},
+{
+"slug": "40-mannheim",
+"name": "Mannheim",
+"lat": 49.48778,
+"lon": 8.46611,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mannheim",
+"steckbrief": "Großstadt mit rund 320.000 Einwohnern an Rhein und Neckar, 94 km Luftlinie von Stuttgart.",
+"frage": "Wie erklärt die Stadt Mannheim den Namen ihres Stadtteils Käfertal?",
+"optionen": [
+"Der Name wurde erst bei der Eingemeindung 1897 vergeben.",
+"Er ist nach einem früheren Grundherrn benannt.",
+"Er bedeutet ursprünglich Tal der Kiefern.",
+"Er geht auf einen alten Bachnamen zurück."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name ist viel älter: Schon im 12. Jahrhundert hieß der Ort Keverndale. Die Stadt Mannheim leitet ihn aus der Pflanzenwelt ab, als Tal der Kiefern. Das Landesportal LEO-BW deutet ihn dagegen von Käfern. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.mannheim.de/de/service-bieten/bunte-stadt/stadtteilleben/kaefertal; LEO-BW, Ortslexikon Käfertal",
+"faktencheck": "korrigiert",
+"id": "40-mannheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mannheim",
+"steckbrief": "Großstadt mit rund 320.000 Einwohnern an Rhein und Neckar, 94 km Luftlinie von Stuttgart.",
+"frage": "Wie viele Einwohner leben in Mannheim durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 1.500",
+"1.500 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wälder und dörflich geprägte Stadtteile wie Friedrichsfeld lassen viele niedriger schätzen. Trotzdem leben rund 320.000 Menschen auf knapp 145 Quadratkilometern: 2.204 Einwohner je Quadratkilometer. Richtig war 4.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "40-mannheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Mannheim",
+"steckbrief": "Großstadt mit rund 320.000 Einwohnern an Rhein und Neckar, 94 km Luftlinie von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Eine barocke Sternwarte entstand auf Anregung eines Jesuitenpaters.",
+"Ein Mainzer Erzbischof legte den Grundstein der Friedrichsburg.",
+"Die denkmalgeschützte Teufelsbrücke ist als Drehbrücke gebaut."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Mainz liegt nahe, und seine Erzbischöfe waren mächtige Landesherren. Den Grundstein der Friedrichsburg legte aber Kurfürst Friedrich IV. von der Pfalz. Die Sternwarte regte Jesuitenpater Christian Meyer an, die Teufelsbrücke ist eine unsymmetrische Drehbrücke. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.mannheim.de/de/kultur-erleben/stadtgeschichte und www.mannheim.de/de/kultur-erleben/kulturdenkmale",
+"faktencheck": "korrigiert",
+"id": "40-mannheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mannheim",
+"steckbrief": "Großstadt mit rund 320.000 Einwohnern an Rhein und Neckar, 94 km Luftlinie von Stuttgart.",
+"frage": "Wie hoch war die Wahlbeteiligung in Mannheim bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 74 %",
+"74 bis unter 80 %",
+"80 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Große Städte wählen oft etwas seltener als ihr Umland, deshalb tippen viele niedrig. Die Wahlbeteiligung in Mannheim lag bei 78,4 Prozent; bei den Zweitstimmen wurde die CDU stärkste Partei, vor der SPD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "40-mannheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mannheim",
+"steckbrief": "Großstadt mit rund 320.000 Einwohnern an Rhein und Neckar, 94 km Luftlinie von Stuttgart.",
+"frage": "Der Mannheimer Stadtteil Friedrichsfeld war bis ins 19. Jahrhundert ein kleines Bauerndorf. Was machte es zu einem überregionalen Knotenpunkt?",
+"optionen": [
+"Am Ort entstand ein großer Binnenhafen.",
+"Ein Viehmarkt zog Händler aus der Region an.",
+"Ein Anschlussbahnhof verband dort zwei Eisenbahnlinien.",
+"Ein neuer Kanal verband dort Rhein und Neckar."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wasserwege machten viele Orte zu Knotenpunkten, das liegt nahe. Friedrichsfeld wuchs aber mit dem Bau der Eisenbahn: Sein Bahnhof verband die Main-Neckar-Eisenbahn mit der Badischen Staatsbahn. Dörflich geprägt ist der Stadtteil bis heute. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.mannheim.de/de/service-bieten/bunte-stadt/stadtteilleben/friedrichsfeld",
+"faktencheck": "bestätigt",
+"id": "40-mannheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mannheim",
+"steckbrief": "Großstadt mit rund 320.000 Einwohnern an Rhein und Neckar, 94 km Luftlinie von Stuttgart.",
+"frage": "Wie groß ist das Stadtgebiet von Mannheim?",
+"optionen": [
+"unter 60 km²",
+"60 bis unter 100 km²",
+"100 bis unter 130 km²",
+"130 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer dicht bebauten Großstadt schätzen viele die Fläche klein. Zu Mannheim gehört aber auch der Käfertaler Wald am Rand des Stadtbezirks Käfertal. Das Stadtgebiet umfasst 144,97 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "korrigiert",
+"id": "40-mannheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mannheim",
+"steckbrief": "Großstadt mit rund 320.000 Einwohnern an Rhein und Neckar, 94 km Luftlinie von Stuttgart.",
+"frage": "Mannheims Innenstadt ist als Quadratestadt bekannt. Wie oft wurde die Stadt nach Zerstörungen wieder aufgebaut?",
+"optionen": [
+"Mannheim wurde viermal wieder aufgebaut.",
+"Mannheim wurde nur einmal wieder aufgebaut.",
+"Mannheim wurde zweimal wieder aufgebaut.",
+"Mannheim wurde sechsmal wieder aufgebaut."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Einmal oder zweimal klingt für eine Stadt schon nach viel Unglück. Seit dem Bau der Festung Friedrichsburg musste Mannheim aber insgesamt viermal nach Zerstörungen neu aufgebaut werden. Stets erhalten blieb das gitterförmige Straßennetz der Innenstadt: Statt Namen berühmter Menschen gibt es dort Buchstaben und Zahlen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.mannheim.de/de/kultur-erleben/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "40-mannheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mannheim",
+"steckbrief": "Großstadt mit rund 320.000 Einwohnern an Rhein und Neckar, 94 km Luftlinie von Stuttgart.",
+"frage": "An den Wettbewerben für Mannheims Nationaltheater nahm auch Ludwig Mies van der Rohe teil. Was gilt beim gebauten Haus als Neuheit in Deutschland?",
+"optionen": [
+"Der Zuschauerraum lag vollständig unter der Erde.",
+"Schauspiel und Oper teilten sich ein gemeinsames Foyer.",
+"Oper und Schauspiel spielten im selben einzigen Saal.",
+"Das Dach ließ sich bei Sommerwetter öffnen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Theaterneubau erwartet man Neuerungen bei Bühne oder Zuschauerraum. Das Besondere lag aber im Foyer: Der Bau des Frankfurter Architekten Gerhard Weber gilt als erstes Haus in Deutschland, in dem Schauspiel und Oper ein gemeinsames Foyer haben. Er steht heute unter Denkmalschutz. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.mannheim.de/de/kultur-erleben/kulturdenkmale",
+"faktencheck": "korrigiert",
+"id": "40-mannheim/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "39-schwetzingen",
+"anschluss": [
+"Mannheim hat fast fünfzehnmal so viele Einwohner wie Schwetzingen.",
+"Kreisgrenze: Schwetzingen liegt im Rhein-Neckar-Kreis, Mannheim ist eine kreisfreie Stadt."
+],
+"km_vom_vorigen": 13.7
+},
+{
+"slug": "41-ladenburg",
+"name": "Ladenburg",
+"lat": 49.47194,
+"lon": 8.60917,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ladenburg",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 9 km nordwestlich von Heidelberg.",
+"frage": "Der italienische Komponist Arcangelo Corelli trug den Titel „Marques de Ladenburg“. Wie kam er zu diesem Titel?",
+"optionen": [
+"Der Papst ernannte ihn zum Marquis.",
+"Ein Kurfürst verlieh ihm den Titel.",
+"Er erbte den Titel von seinem Vater.",
+"Er wählte ihn selbst als Künstlernamen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Papst liegt nahe, denn Corelli war Italiener. Doch den Titel verlieh ihm laut Stadtgeschichte Kurfürst Johann Wilhelm. So trug ein italienischer Komponist und Geiger den Namen der Stadt im Titel. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ladenburg.de/de/2000-Jahre-Stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "41-ladenburg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ladenburg",
+"steckbrief": "Stadt im Rhein-Neckar-Kreis, 9 km nordwestlich von Heidelberg.",
+"frage": "Wie viele Menschen leben in Ladenburg?",
+"optionen": [
+"unter 5.000",
+"5.000 bis unter 10.000",
+"10.000 bis unter 20.000",
+"20.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Neben der Großstadt Heidelberg wirkt Ladenburg klein, deshalb liegt eine kleinere Spanne nahe. Tatsächlich lebten Ende 2025 in Ladenburg 12.820 Menschen. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "41-ladenburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Ladenburg",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 9 km nordwestlich von Heidelberg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Archäologe wurde Ehrenbürger von Ladenburg.",
+"Die Römer nannten den Ort Lopodunum.",
+"Die Reformation zog ohne Zerstörungen vorbei."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Lopodunum klingt erfunden, stimmt aber. Die Reformationszeit brachte Ladenburg erhebliche Verwicklungen mit Zerstörungen: Der katholische Bischof von Worms und der reformationsfreundliche Kurfürst von der Pfalz standen sich gegenüber. Ehrenbürger wurde der Archäologe Berndmark Heukemes. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.ladenburg.de/de/2000-Jahre-Stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "41-ladenburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ladenburg",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 9 km nordwestlich von Heidelberg.",
+"frage": "Bei der Bundestagswahl 2025 wurde die CDU in Ladenburg stärkste Partei. Wie hoch war ihr Zweitstimmenanteil?",
+"optionen": [
+"unter 32 %",
+"32 bis unter 38 %",
+"38 bis unter 44 %",
+"44 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Baden-Württemberg gilt als CDU-Land, darum liegen höhere Spannen nahe. In Ladenburg kam die CDU auf 30,8 Prozent der Zweitstimmen; Zweite wurden die Grünen. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "41-ladenburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ein Ladenburger Färbersohn wurde in Wien österreichischer Hofkanzler. Welches berühmte Dokument soll er verfasst haben? (Optionen 1–4 bleiben)",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Goldene Bulle klingt nach Kanzlei, entstand aber lange vor seiner Zeit. Johann Friedrich von Seilern gilt als Verfasser der Pragmatischen Sanktion. Sie sicherte der Habsburgerin Maria Theresia die Erbfolge in den habsburgischen Ländern. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ladenburg.de/de/2000-Jahre-Stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "41-ladenburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ladenburg",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern im Rhein-Neckar-Kreis, 9 km nordwestlich von Heidelberg.",
+"frage": "Wie viele Einwohner leben in Ladenburg auf einem Quadratkilometer?",
+"optionen": [
+"unter 200",
+"200 bis unter 500",
+"500 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. So nah an Heidelberg erwartet man städtische Dichte von über 1.000. Doch die 12.820 Einwohner verteilen sich auf 19 Quadratkilometer Stadtgebiet, rechnerisch 675 je Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "41-ladenburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ladenburg",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 9 km nordwestlich von Heidelberg.",
+"frage": "Carl Benz, Erfinder des Automobils, wohnte zuletzt in Ladenburg. Im Benz-Park steht ein Bau, der wohl der älteste seiner Art ist. Welcher?",
+"optionen": [
+"Es ist eine frühe Tankstelle.",
+"Es ist ein Gewächshaus aus Eisen.",
+"Es ist ein Fahrradschuppen aus Holz.",
+"Es ist eine Garage aus Stein."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Tankstelle liegt nahe, denn ohne Benzin fuhr auch das erste Auto nicht weit. Im Benz-Park findet sich die wohl älteste Steingarage. Begraben ist Carl Benz auf dem Ladenburger Friedhof. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.ladenburg.de/de/2000-Jahre-Stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "41-ladenburg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Um 600 kam Ladenburg als Geschenk fränkischer Könige an den Bischof von Worms. Wie lange blieb der Bischof Stadtherr, zuletzt gemeinsam mit der Kurpfalz? (Optionen 1–4 bleiben)",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele vermuten, die Reformationszeit habe die Bischöfe vertrieben. Ab dem 14. Jahrhundert teilten sie sich die Stadt zwar mit der Kurpfalz. Doch erst der Zessionsvertrag zwischen Kurfürst und Bischof von Worms beendete ihre Herrschaft im Wesentlichen, im Jahr 1705. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ladenburg.de/de/2000-Jahre-Stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "41-ladenburg/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ladenburg",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 9 km nordwestlich von Heidelberg.",
+"frage": "Woher hat Ladenburg seinen Namen?",
+"optionen": [
+"Der Name geht auf eine keltische Wurzel zurück.",
+"Er erinnert an die Läden eines alten Markts.",
+"Er stammt von einem fränkischen Grundherrn.",
+"Er kommt von Schiffern, die hier luden."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Läden oder Schiffe, die hier luden, liegen beim heutigen Namen nahe. Doch laut Stadtgeschichte steckt im Namen eine keltische Wurzel, die bis heute überlebt hat. Ihre Bedeutung liegt noch im Dunkel der Zeit. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.ladenburg.de/de/2000-Jahre-Stadtgeschichte",
+"faktencheck": "unsicher",
+"id": "41-ladenburg/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "40-mannheim",
+"anschluss": [
+"Mannheim hat rund 25-mal so viele Einwohner wie Ladenburg.",
+"Bundestagswahl 2025: Auf Platz zwei kamen in Ladenburg die Grünen, in Mannheim die SPD."
+],
+"km_vom_vorigen": 10.5
+},
+{
 "slug": "17-weinheim",
 "name": "Weinheim",
 "lat": 49.55611,
@@ -7436,12 +9310,12 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "03-rastatt",
+"anschluss_von": "41-ladenburg",
 "anschluss": [
-"Rastatt und Weinheim haben beide rund 58 Quadratkilometer Fläche.",
-"Rastatt hat rund 5.000 Einwohner mehr als Weinheim."
+"Weinheim hat gut dreieinhalbmal so viele Einwohner wie Ladenburg.",
+"Ladenburg und Weinheim liegen beide im Rhein-Neckar-Kreis; in beiden steht HD am Auto."
 ],
-"km_vom_vorigen": 84.8
+"km_vom_vorigen": 10.3
 },
 {
 "slug": "18-laudenbach",

@@ -1,0 +1,483 @@
+ID: 45-mainz/001
+ENTITÄT: ort
+BEZEICHNUNG: Mainz
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/oberstadt/oberstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_landeshauptstadt: true
+  roemischer_ursprung: Mogontiacum
+  roemische_bezeichnung_alt: Aurea Moguntia
+  roemische_bedeutung: Hauptstadt Obergermaniens des Römischen Reiches
+  kriegszerstoerung: 1942-1945, nahezu Gesamtstadtgebiet lag in Schutt und Asche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 45-mainz/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Drais
+ORTSTEIL_BEZUG: Mainz-Drais
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/drais/drais | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: von gotisch "driusan" (sprudelnde Quellen)
+  ansiedlung_zeitraum: 11. oder 12. Jahrhundert
+  eingemeindet_zu_mainz: 1969
+  historische_funktion: kleines Bauerndörfchen
+  bannforst_zugehoerigkeit: Bannforst der Ingelheimer Kaiserpfalz
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 45-mainz/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Finthen
+ORTSTEIL_BEZUG: Mainz-Finthen
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/finthen/finthen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueheste_besiedlung: vor 4000 Jahren
+  superlativ: einer der ältesten Siedlungsgebiete im Mainzer Raum
+  kelten_ansiedlung: ca. 500 v.Chr.
+  roemer_periode: folgte 500 Jahre später
+  namensherkunft: von römisch "ad fontes" (an den Quellen)
+  roemer_aquaedukt_laenge: 8 Kilometer
+  roemer_aquaedukt_herkunft: vom Königsborn in Finthen bis Mainzer Oberstadt
+  roemer_aquaedukt_pfeiler_hoehe: ca. 30 Meter
+  roemer_aquaedukt_spuren: Römersteine noch erhalten
+  landwirtschaft_geschichte: Getreide-, Gemüse-, Obstanbau seit Mittelalter
+  finther_spargel_bekanntheit: berühmt über Grenzen von Mainz hinaus
+  eingemeindet_zu_mainz: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 45-mainz/004
+ENTITÄT: kirche
+BEZEICHNUNG: Maria Königin
+ORTSTEIL_BEZUG: Drais
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/drais/drais | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: katholische Pfarrkirche
+  altarbild: Mariä Himmelfahrt
+  orgel_erbauer: Johannes Schlaad
+  orgel_epoche: 19. Jahrhundert
+  kunstwerke: 14 Nothelfer (Lindenholz-Figuren)
+GUELTIG_AB: 1835
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 45-mainz/005
+ENTITÄT: kirche
+BEZEICHNUNG: Martinskirche
+ORTSTEIL_BEZUG: Finthen
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/finthen/finthen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: Mitte des 19. Jahrhunderts
+  lage: alter Ortskern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 45-mainz/006
+ENTITÄT: museum
+BEZEICHNUNG: Gutenberg-Museum
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.mainz.de/microsite/gutenberg-museum/Museum/das-neue-gutenberg-museum-neu | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: national und international
+  jährliche_besucher: über 140.000
+  ausstellungsstandard_historisch: 1962
+  original_gutenberg_bibeln: zwei Exemplare vorhanden
+  rekonstruierte_werkstatt: Gutenberg-Werkstatt mit "Drucken live"
+  brandschutz_situation: erhebliche Mängel
+  standort_bisherig: Liebfrauenplatz
+  interimsstandort_neu: Naturhistorisches Museum, Reichklarastraße
+  interimsstandort_eroeffnung: 22. November 2024
+  neubau_status: geplant
+  sonderausstellung_preisgekroent: FUTURA. Die Schrift (2016-2017)
+  lutherjahr_2017_rolle: Aktivitäten angestoßen
+  bauhaus_verbund: Beitritt des Landes Rheinland-Pfalz initiiert
+GUELTIG_AB: 1962
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 45-mainz/007
+ENTITÄT: hospiz
+BEZEICHNUNG: Christophorus-Hospiz
+ORTSTEIL_BEZUG: Drais
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/drais/drais | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: alter Draiser Hof, Seminarstraße
+  funktion: Betreuung schwerstkranker und sterbender Menschen
+  superlativ: einzigartig in Mainz
+  historische_vorgaenger: Jesuiten-Residenz
+GUELTIG_AB: 1670
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 45-mainz/008
+ENTITÄT: brunnen
+BEZEICHNUNG: Lerchenbub-Brunnen
+ORTSTEIL_BEZUG: Drais
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/drais/drais | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entwerfer: Reinhold Petermann
+  lage: Dorfplatz Drais
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 45-mainz/009
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mombach
+ORTSTEIL_BEZUG: Mainz-Mombach
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/mombach/mombach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwahnung: 1218
+  archaeologische_periode: prähistorisch besiedelt
+  gruendung_vermutlich: fränkische Zeit
+  einwohner_17_jhd: ca. 400
+  einwohner_aktuell: ca. 14.000
+  charakteristik: Industrie- und Gewerbestandorte (nördlich), Obst- und Gemüseanbau (traditionell)
+  naturschutzgebiet: Mainzer Sand (geoökologisch und botanisch überregional bedeutsam)
+GUELTIG_AB: 1218
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 45-mainz/010
+ENTITÄT: kirche
+BEZEICHNUNG: St. Nikolaus
+ORTSTEIL_BEZUG: Mombach
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/mombach/mombach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: katholische Kirche
+  zerstoerung_2wk: zerstört im Zweiten Weltkrieg
+  glocken_anzahl: drei
+  glocken_erhaltung: durch ein Wunder erhalten
+  glockenturm_neubau: 2010 errichtet
+  wiederaufbau: 1955 neu erbaut
+GUELTIG_AB: 1955
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 45-mainz/011
+ENTITÄT: veranstaltung_kulturell
+BEZEICHNUNG: Bohnebeitel-Fastnachtssitzung
+ORTSTEIL_BEZUG: Mombach
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/mombach/mombach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Fastnachtssitzung
+  verein: Bohnebeitel
+  ausstrahlung: jährlich vom SWR übertragen
+  reichweite: weit über die Grenzen der Stadt Mombach bekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 45-mainz/012
+ENTITÄT: ortsteil
+BEZEICHNUNG: Altstadt
+ORTSTEIL_BEZUG: Mainz-Altstadt
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/altstadt/altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristik: geprägt von bewegter Geschichte
+  befestigungsring_verlauf: vom Kaisertor im Norden über Kaiserstraße und Hauptbahnhof bis Zitadelle im Süden
+  geschichtliche_zeitraum: letzte 2000 Jahre
+  rathaus_architekt: Arne Jacobsen (dänisch)
+  rathaus_jahr: 1971
+  kriegszerstoerung: 1942-1945, nahezu gesamtes Stadtgebiet in Schutt und Asche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 45-mainz/013
+ENTITÄT: dom
+BEZEICHNUNG: Dom St. Martin
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/altstadt/altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristik: mittelalterlich
+  beeindruckende_wirkung: als Kulisse bekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 45-mainz/014
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neustadt
+ORTSTEIL_BEZUG: Mainz-Neustadt
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/neustadt/neustadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung_zeitraum: Ende des 19. Jahrhunderts
+  frueherer_flaechenname: Gartenfeld
+  lage: nordwestlich Altstadt, jenseits Kaiserstraße
+  effekt: verdoppelte das alte Stadtgebiet auf einen Schlag
+  stadtbaumeister: Eduard Kreyßig (1830-1897)
+  kriegszerstoerung: Zweiter Weltkrieg traf schwer
+  erhaltene_bauten: gründerzeitliche Wohngebäude mit prächtigen Fassaden, Christuskirche
+  sanierung_modern: in letzten Jahren behutsam saniert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 45-mainz/015
+ENTITÄT: minnesaenger
+BEZEICHNUNG: Heinrich von Meißen (Frauenlob)
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/neustadt/neustadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tod_ort: Mainz
+  todesjahr: 1318
+  charakteristik: Sänger des Lobes für das weibliche Geschlecht
+  sage: soll von Mainzer Frauen zu Grabe getragen worden sein
+  genauigkeit: vermutlich
+GUELTIG_BIS: 1318
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 45-mainz/016
+ENTITÄT: synagoge
+BEZEICHNUNG: Neue Mainzer Synagoge
+ORTSTEIL_BEZUG: Neustadt
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/neustadt/neustadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Synagogenplatz
+  funktion: Sitz der Jüdischen Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 45-mainz/017
+ENTITÄT: ortsteil
+BEZEICHNUNG: Weisenau
+ORTSTEIL_BEZUG: Mainz-Weisenau
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/weisenau/weisenau | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: direkt am Rhein
+  charakteristik: alter Ortskern erinnert an Fischerdörfchen
+  historische_berufe: Fischer, Fährleute, Winzer
+  urkundliche_ersterwahnung: 1192 als Wizinove
+  archaeologische_zeit: Steinzeit (Gräber und Scherben gefunden)
+  antike_besiedlung: Kelten und Römer vor gut 2000 Jahren
+  roemische_militaerlager: vorhanden
+  roemische_zivile_siedlung: vorhanden
+  zementwerk_gruendung: Mitte des 19. Jahrhunderts im Südosten
+  einwohner_modern: über 10.000
+GUELTIG_AB: 1192
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 45-mainz/018
+ENTITÄT: kirche
+BEZEICHNUNG: Mariä Himmelfahrt
+ORTSTEIL_BEZUG: Weisenau
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/weisenau/weisenau | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: katholische Kirche
+  charakteristik: Wahrzeichen von Mainz-Weisenau
+  lage: Ortskern, oben auf dem Hang
+  ausblick: herrlicher Ausblick über den Rhein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 45-mainz/019
+ENTITÄT: synagoge
+BEZEICHNUNG: Jüdische Synagoge (Weisenau)
+ORTSTEIL_BEZUG: Weisenau
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/weisenau/weisenau | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: barock
+  erbauung: 1735/36
+  denkmalschutz: unter Denkmalschutz gestellt
+  gemeinde_zeitraum: jüdische Gemeinde vom 15. bis Anfang des 19. Jahrhunderts
+  archaeologischer_fund: zwei Mikwen (rituelle Badestätten) im Inneren entdeckt
+GUELTIG_AB: 1735
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 45-mainz/020
+ENTITÄT: schiff_figur_antik
+BEZEICHNUNG: Blussus
+ORTSTEIL_BEZUG: Weisenau
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/weisenau/weisenau | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: römischer Schiffer
+  gemahlin: Menimane
+  artefakt: Original-Grabstein im Landesmuseum Mainz
+  bedeutung: zeigt Existenz von röm. Militärlager und ziviler Siedlung in Weisenau
+GUELTIG_BIS: 300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 45-mainz/021
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ebersheim
+ORTSTEIL_BEZUG: Mainz-Ebersheim
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/ebersheim/ebersheim | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezeichnung: Tor nach Rheinhessen
+  weinanbaugebiet_superlativ: größtes Weinanbaugebiet in Mainz
+  höchster_punkt_mainz: Auf der Muhl (245 Meter)
+  entfernung_stadtmitte: 12 Kilometer (am weitesten entfernt)
+  eingemeindung: 1969 freiwillig zu Mainz (einzige der sechs Gemeinden)
+  stadtbus_folge: Stadtbusanbindung nach Eingemeindung
+  stadtteil_alter: jüngster Mainzer Stadtteil
+  ortskern_tradition: dörflicher Charakter erhalten
+  religioese_tradition: katholisch-kirchlich
+  schutzpatron: Heiliger Laurentius
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 45-mainz/022
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberstadt
+ORTSTEIL_BEZUG: Mainz-Oberstadt
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/oberstadt/oberstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: Verwaltungsreform vor ca. 30 Jahren
+  charakteristik: kein gewachsener Stadtteil, künstliche Verwaltungsteilung
+  roemischer_ursprung: römisches Mainz hat seinen Ursprung hier
+  roemisches_heerlager: 90 n.Chr. errichtet auf dem Kästrich
+  siedlung_zivil: Soldatenfamilien, Handwerker, Händler, Rheinschiffer
+  roemische_spuren: römisches Theater, Römersteine, Aquädukt-Überreste
+  wehrzwecke: historisch Heerlager, Festungsanlagen, Pulverturm, Zitadelle
+GUELTIG_AB: 90
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 45-mainz/023
+ENTITÄT: universitaet
+BEZEICHNUNG: Johannes Gutenberg-Universität
+ORTSTEIL_BEZUG: Oberstadt
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/oberstadt/oberstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: über 500 Jahre alt
+  campus_lage: Mainz-Oberstadt
+  studierende_anzahl: ca. 35.000
+  institute_kliniken: über 150
+  bedeutung: bestimmt wissenschaftliches und kulturelles Leben Mainz wesentlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 45-mainz/024
+ENTITÄT: kelleranlagen
+BEZEICHNUNG: Sektkellerei Kupferberg
+ORTSTEIL_BEZUG: Oberstadt
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/oberstadt/oberstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: seit 1850
+  lage: Kästrich
+  historische_epochen: Kelleranlagen aus römischer und mittelalterlicher Zeit
+  charakteristik: alt ausgebaut
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 45-mainz/025
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gonsenheim
+ORTSTEIL_BEZUG: Mainz-Gonsenheim
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/gonsenheim/gonsenheim | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezeichnung_alt: Gunsenum
+  charakteristik: fast eine kleine Stadt in sich
+  urkundliche_ersterwahnung: 774
+  eingemeindet: 1938 zu Mainz
+  wahrzeichen: Renaissance-Rathaus von 1615
+  rathaus_lage: Anfang der Mainzer Straße
+GUELTIG_AB: 774
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 45-mainz/026
+ENTITÄT: kirche
+BEZEICHNUNG: Stephanskirche
+ORTSTEIL_BEZUG: Gonsenheim
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/gonsenheim/gonsenheim | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: katholische Kirche
+  charakteristik: Rheinhessendom genannt
+  architektur: imposante Doppeltürme
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 45-mainz/027
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hechtsheim
+ORTSTEIL_BEZUG: Mainz-Hechtsheim
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/hechtsheim/hechtsheim | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezeichnung_alt: Hexem
+  urkundliche_ersterwahnung: 808
+  eingemeindet: Sommer 1969
+  charakteristik: Ortskern eines rheinhessischen Bauerndorfes bewahrt
+  wirtschaftlicher_aufschwung: 1960er-Jahre mit Gewerbegebiet
+  gewerbegebiet_superlativ: größtes Gewerbegebiet in Mainz
+  gewerbegebiet_groesse: über 100 Hektar
+  gewerbegebiet_unternehmen: Medienunternehmen, Forschungs- und IT-Firmen
+  weinbau_tradition: Jahrhunderte alte Tradition
+GUELTIG_AB: 808
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 45-mainz/028
+ENTITÄT: ortsteil
+BEZEICHNUNG: Laubenheim
+ORTSTEIL_BEZUG: Mainz-Laubenheim
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/laubenheim/laubenheim | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwahnung: 773
+  ueberschwemmungen_historisch: Gemeinde hatte stets darunter zu leiden
+  uferdamm: nach Zweitem Weltkrieg erbaut, schaffte Abhilfe
+  expansion_post_krieg: Ort konnte sich jenseits Bahnlinie ausdehnen
+  eingemeindet: 1969 zu Mainz
+  rhein_breite_laubenheim: 400 Meter
+  laubenheimer_ried: Stromtalwiesen, Wassergräben, Flora und Fauna
+  naturschutzgebiet: Laubenheimer Ried
+  laubenheimer_hoehe: 196 Meter (höchster Punkt Rheinhessisches Plateau)
+  weinbau_bedingungen: günstiges Klima, viele Sonnenstunden
+GUELTIG_AB: 773
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 45-mainz/029
+ENTITÄT: ortsteil
+BEZEICHNUNG: Marienborn
+ORTSTEIL_BEZUG: Mainz-Marienborn
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/marienborn/marienborn | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse_rang: zweitkleinster Stadtteil von Mainz
+  lage: Südwesten Landeshauptstadt, zwischen Bahnlinie Mainz-Alzey und Autobahnkreuz
+  roemer_infrastruktur: gut ausgebaute römische Straße nach Gallien, römische Villen
+  rodungen_mittelalter: 10. Jahrhundert, größere Rodungen für Siedlungen
+  kapelle_gruendung_erzbischof: Willigis (975-1011)
+  namensherkunft: "Kapelle zu Brunnen" → "Born" → 17. Jhd "Marienborn"
+  dorfkirche_errichtung: 18. Jahrhundert mit barockem Inneren
+  gnadenbild_altar_jahr: 1748
+  gnadenbild_herkunft: 15. Jahrhundert
+  pilgerschaft: zieht ganzjährig zahlreiche Pilger zur Wallfahrt an
+  festungswall: 18. und 19. Jahrhundert wichtiger Bestandteil des Festungswalls rund um Mainz
+  militaerisches_lager: 1793 preußisches Heer eroberte von Franzosen besetztes Mainz
+  prominente_gaeste_1793: Herzog Karl August von Weimar mit Staatsminister Goethe, Heinrich von Kleist, Carl von Clausewitz
+  ludwig_bahn: 1871 Bau der Ludwigsbahn nach Alzey, direkter Anschluss an Mainz
+  eingemeindet: 8. Juni 1969 in Landeshauptstadt
+GUELTIG_AB: 973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 45-mainz/030
+ENTITÄT: literarische_werke
+BEZEICHNUNG: Belagerung von Mainz
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/marienborn/marienborn | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  autor: Johann Wolfgang von Goethe
+  schreibort: Chausseehaus in Marienborn
+  kontext: geschrieben während Belagerung 1793
+  geschichtsepoche: Napoleonische Kriege (Mainz-Belagerung 1793)
+GUELTIG_AB: 1793
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 45-mainz/031
+ENTITÄT: literarische_werke
+BEZEICHNUNG: Reinecke Fuchs (Teile)
+QUELLE: https://www.mainz.de/startseite-mainz.de/stadtteile/marienborn/marienborn | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  autor: Johann Wolfgang von Goethe
+  schreibort: Chausseehaus in Marienborn
+  kontext: Teile geschrieben während Aufenthalt 1793
+GUELTIG_AB: 1793
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80

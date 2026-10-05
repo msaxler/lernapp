@@ -1,0 +1,961 @@
+ENTITÄT: ort
+BEZEICHNUNG: Seeheim-Jugenheim
+QUELLE: https://www.seeheim-jugenheim.de/leben-wohnen/bildung-soziales/kommunalgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteile: Seeheim, Jugenheim, Balkhausen, Malchen, Ober-Beerbach, Steigerts, Stettbach
+  gemeindegruendung: 1977-01-01
+  rechtlicher_grund_gegruendung: Gesetz zur Neugliederung der Landkreise Darmstadt und Dieburg vom 26. Juni 1974
+  schriftliche_belege_ab: 9. Jahrhundert
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Seeheim
+QUELLE: https://www.seeheim-jugenheim.de/leben-wohnen/bildung-soziales/kommunalgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_erwaehnung: 874
+  erwaehnung_kontext: Ludwig II. schenkte seine Güter dem Kloster Lorsch
+  besiedlung_grund: Austritt des Elsbaches aus der Gebirgsregion, vermuteter See
+  gehörte_zu: Herren von Bickenbach (um 1130)
+  mitgift_von: Luitgard, Tochter Konrads I. von Bickenbach (vor 1150)
+  neue_eigentümer: Herren Hagen-Arnsburg (vor 1150)
+  neubenennung_herrscherhaus: benannt nach neuerbauter Burg Münzenberg (ab 1162)
+  herrschaftsrecht_schenken_von_erbach: nach 1399
+  uebergabe_landgrafschaft: 1714
+GUELTIG_AB: 874
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burg Tannenberg / Burg Seeheim
+ORTSTEIL_BEZUG: Seeheim
+QUELLE: https://www.seeheim-jugenheim.de/leben-wohnen/bildung-soziales/kommunalgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1239
+  erbauer: Kuno von Münzenberg
+  ausgebaut_durch: Ulrich von Münzenberg
+  bauzeit: 1210-1250
+  genauigkeit_bauzeit: ca.
+  kernburg_grundriss: 50 m x 30 m (oval)
+  ringmauer_dicke: 2-3 m
+  ringmauer_hoehe: 5-7 m
+  bergfried: vorhanden
+  funktion_seeheim: Sitz des Amtes Seeheim
+  funktion_spaeter: Raubritterburg (gegen Ende 14. Jahrhundert)
+  zerstoerung: 1399
+  zerstoerung_dauer: 3 Wochen Belagerung
+  zerstoerung_grund: Erklärung der Fehde durch umliegende Städte im Auftrag König Wenzels wegen Überfällen auf Kaufleute
+GUELTIG_AB: 1239
+GUELTIG_BIS: 1399
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Jugenheim
+QUELLE: https://www.seeheim-jugenheim.de/leben-wohnen/bildung-soziales/kommunalgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: Personenname Gugo = Hugo
+  erste_erwaehnung_urkundlich: 1241
+  erste_erwaehnung_siedlung: älter als urkundliche Erwähnung
+  archeologische_funde: Grabstätte Schnurkeramiker, Urnen- und Schalenfunde (Eisenzeit)
+  gehörte_zu: Herren von Bickenbach
+  burg_jossa_erwerb: durch Verkauf und Erbgang an Schenken von Erbach
+  burg_jossa_bewohnungsdauer: ca. 60 Jahre
+GUELTIG_AB: 1241
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burg Jossa
+ORTSTEIL_BEZUG: Jugenheim
+QUELLE: https://www.seeheim-jugenheim.de/leben-wohnen/bildung-soziales/kommunalgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bewohnungsdauer: ca. 60 Jahre
+  danach: verfiel
+  erwerber: Schenken von Erbach (durch Verkauf und Erbgang)
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Nonnenkloster Heiligenberg
+ORTSTEIL_BEZUG: Jugenheim
+QUELLE: https://www.seeheim-jugenheim.de/leben-wohnen/bildung-soziales/kommunalgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgaenger: vermuteter befestigter Herrenhof (11./12. Jahrhundert)
+  gruendungsjahr: 1260
+  genauigkeit_gruendung: ca.
+  aufhebung: 1413
+  standort: Heiligenberg
+GUELTIG_AB: 1260
+GUELTIG_BIS: 1413
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: baum
+BEZEICHNUNG: Zentlinde
+ORTSTEIL_BEZUG: Jugenheim
+QUELLE: https://www.seeheim-jugenheim.de/leben-wohnen/bildung-soziales/kommunalgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: 1000 Jahre
+  genauigkeit_alter: vermutlich
+  standort: Heiligenberg
+  historische_funktion: Sitz des Zentgerichts im Mittelalter
+GUELTIG_AB: ca. 1000 Jahre alt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: gerichtsbarkeit
+BEZEICHNUNG: Zent Jugenheim
+ORTSTEIL_BEZUG: Jugenheim
+QUELLE: https://www.seeheim-jugenheim.de/leben-wohnen/bildung-soziales/kommunalgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1399
+  bereich: umliegende Dörfer
+GUELTIG_AB: 1399
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.78
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Balkhausen
+QUELLE: https://www.seeheim-jugenheim.de/leben-wohnen/bildung-soziales/kommunalgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1357
+  erwaehnung_form: Balkhüsen
+  erwerb_durch: Schenken von Erbach (bald nach 1357)
+  verkauf_landgrafschaft: 1714
+  verkauf_kontext: als Zubehör des Amtes Tannenberg an Hessen-Darmstadt
+  kirche_errichtung: 14. Jahrhundert
+GUELTIG_AB: 1357
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+
+---
+
+ENTITÄT: katastrophe
+BEZEICHNUNG: Pest in Balkhausen
+ORTSTEIL_BEZUG: Balkhausen
+QUELLE: https://www.seeheim-jugenheim.de/leben-wohnen/bildung-soziales/kommunalgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 30-jähriger Krieg
+  auswirkung_balkhausen: völlig ausgestorben
+  unbewohnter_zeitraum: 14 Jahre
+  wieder_besiedelt: 1660
+  einwohner_1660: 27
+GUELTIG_AB: 30-jähriger Krieg
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Malchen
+QUELLE: https://www.seeheim-jugenheim.de/leben-wohnen/bildung-soziales/kommunalgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1380-1388
+  erwaehnung_quelle: Bickenbacher Güterverzeichnis
+  naechste_nennung: um 1400
+  naechste_nennung_quelle: Gültbuch Tannenberg
+  dritte_erwaehnung: 1420
+  dritte_erwaehnung_quelle: Urkunde Darmstädter Stadtarchiv (Verkauf halbes Amt Tannenberg an Konrad von Erbach)
+  gehörte_zu: Herrschaft Herren von Bickenbach
+  hessisch_seit: 1714
+  geographie_lage: am Fuß des Frankensteins
+GUELTIG_AB: 1380
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.83
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ober-Beerbach
+QUELLE: https://www.seeheim-jugenheim.de/leben-wohnen/bildung-soziales/kommunalgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteile_umfasst: Steigerts, Stettbach, Heinzenklingen, Wallhausen
+  erste_erwaehnung: zwischen 8. und 12. Jahrhundert
+  erwaehnung_quelle: Totenbuch des Klosters Lorsch
+  erwaehnung_kontext: Schenker Werner schenkte Hube in Wallhausen und zwei Teile an Kirche
+  kirche_vorhanden_vor: 1200
+  siedlung_vorhanden_vor: 1200
+GUELTIG_AB: 8. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wallhausen
+ORTSTEIL_BEZUG: Ober-Beerbach
+QUELLE: https://www.seeheim-jugenheim.de/leben-wohnen/bildung-soziales/kommunalgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alte_bezeichnung: Waltenhusen
+  erste_erwaehnung: zwischen 8. und 12. Jahrhundert
+  erwaehnung_quelle: Lorscher Urkunde
+GUELTIG_AB: 8. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Steigerts
+ORTSTEIL_BEZUG: Ober-Beerbach
+QUELLE: https://www.seeheim-jugenheim.de/leben-wohnen/bildung-soziales/kommunalgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besiedlung_beginn: vor ca. 200 Jahren
+  genauigkeit_beginn: ca.
+  kontext_zeitraum: 19. Jahrhundert
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.72
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Stettbach
+ORTSTEIL_BEZUG: Ober-Beerbach
+QUELLE: https://www.seeheim-jugenheim.de/leben-wohnen/bildung-soziales/kommunalgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1420
+  erwaehnung_form: Stedebach
+  erwaehnung_kontext: Hademar zu Laber verkaufte Besitz an Pfalzgrafen Ludwig
+  gehoert_zu_gemeinde: 1699 zur Gemeinde Ober-Beerbach
+GUELTIG_AB: 1420
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Heiligenberg
+ORTSTEIL_BEZUG: Jugenheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/schloss-heiligenberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe_ueber_jugenheim: 120 m
+  erwerb_hofgut: 1827
+  erwerber_hofgut: Wilhelmine von Baden (Ehefrau Erbgroßherzog Ludwig II.)
+  vorbesitzer_hofgut: Konrad von Hofmann (Finanzminister)
+  umbau_zu_schloss: 1831
+  umbau_dauer: 4 Jahre
+  architect: Georg Moller (Darmstädter Hofbaumeister)
+  großherzogin: Wilhelmine von Hessen und bei Rhein (seit 1830)
+  sommermonate_nutzung: ab 1827
+  bedeutung: Treffpunkt von Königen, Fürsten und Diplomaten
+  zarenfamilie_besuche: mehrfach
+  museum: Russenhäuschen
+  memorial: Goldenes Kreuz 1866
+  monumente_auf_schloss: Gräber Alexander und Julie, Mausoleum Eheleute
+GUELTIG_AB: 1827
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Wilhelmine von Baden
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/schloss-heiligenberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Großherzogin von Hessen und bei Rhein (seit 1830)
+  ehemann: Erbgroßherzog Ludwig II.
+  kaufzeitpunkt_hofgut: 1827
+  todesalter: 48 Jahre
+  todesjahr: 1836
+  residenz_sommer: Schloss Heiligenberg
+  kinder: Alexander und Marie
+GUELTIG_AB: 1827
+GUELTIG_BIS: 1836
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Marie von Hessen und bei Rhein
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/schloss-heiligenberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  mutter: Wilhelmine von Baden
+  ehemann: Zarewitsch Alexander II. (später Zar Russlands)
+  hochzeit: 1841
+  residenz_sommer: Schloss Heiligenberg
+  gedenkkreuz: Goldenes Kreuz 1866
+  gedenkkreuz_grund: Andenken an Mutter Wilhelmine
+GUELTIG_AB: 1827
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Alexander von Hessen und bei Rhein
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/schloss-heiligenberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  mutter: Wilhelmine von Baden
+  schwester: Marie
+  beruf: Karriere im russischen Heer
+  ehefrau: Julie von Hauke
+  eheschließung_ort: Breslau
+  eheschließung_jahr: 1851
+  entlassung_durch_zar: ehrlos
+  grund_entlassung: Heirat mit Kammerzofe der Schwester
+  residenz_sommer_ab: Ende 1850er Jahre auf Schloss Heiligenberg
+  titel_erhebung: Prinz von Battenberg (1858 durch Ludwig III. Großherzog)
+  stammvater: Battenberger / Mountbatten
+  nachkommen_bedeutung: englischer Thronfolger, spanischer König
+  grad_verwandtschaft_europaischer_hochadel: vorhanden (Schweden, Spanien)
+  beisetzung: Grab auf Schloss Heiligenberg
+  mausoleum: mit Ehefrau Julie
+GUELTIG_AB: 1827
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Julie von Hauke
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/schloss-heiligenberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Kammerzofe von Marie
+  ehemann: Alexander von Hessen und bei Rhein
+  hochzeit_ort: Breslau
+  hochzeit_jahr: 1851
+  hochzeit_anlass_folge: ehrlose Entlassung von Alexander durch Zar
+  titel_erhebung_jahr: 1858
+  titel_erhoeber: Ludwig III. Großherzog von Hessen und bei Rhein
+  titel: Prinzessin von Battenberg
+  residenz_sommer_ab: Ende 1850er Jahre auf Schloss Heiligenberg
+  ehekinder_bedeutung: Ludwig von Battenberg (Mountbatten) – Großadmiral englische Flotte
+  beisetzung: Grab auf Schloss Heiligenberg
+  mausoleum: mit Ehemann Alexander
+GUELTIG_AB: 1851
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Seeheim / Rokokopark mit Hofgut
+ORTSTEIL_BEZUG: Seeheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/schloss-seeheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erwerb_jahr: 1808
+  erwerber: Großherzog Ludewig I. von Hessen
+  vorbesitzer_hofgut: Johann Georg Pistor (Amtmann)
+  grund_kauf: Pistor wegen Unregelmäßigkeiten in Steuerkasse in Ungnade gefallen
+  flaeche_park: ca. 25 Hektar
+  originalanlage: Rokokopark
+  umbau_park: 1810er Jahre
+  park_typ_nach_umbau: englischer Landschaftspark
+  park_elemente: Baumgruppen, Rasenflächen, Grotten, Lindenallee, Sichtachsen
+  park_erhaltung_heute: weitgehend erhalten
+  erweiterung_grund: 1830 Choleraepidemie Westeuropa
+  erwerber_nachfolge: Großherzog Ludwig II. (Sohn, geerbt von Vater)
+  erweiterung_zeit: 1830
+  baustil_erweiterung: Blockhaus mit senkrechten Ständern, teilweise zweistöckig (einmalig in Deutschland)
+  sicherung: Palisadenzaun um gesamte Gelände
+  choleraepidemie_ergebnis: machte um Darmstadt Bogen
+  nutzung_sommerresidenz: ab 1830, häufig in Sommermonaten
+  nutzung_ab_1900: nur noch selten aufgesucht
+  nutzung_ab_1940: Pension für europäische Gäste (anfangs), dann an Deutsche Reichspost verkauft
+  nutzung_ab_1950: Deutsche Bundespost (für Ferienaufenthalte Angestellte)
+  nutzung_ab_1955: Bibelschule Bergstraße (amerikanisch, Ausbildung Missionare)
+  bibelschule_dauer: 1955-1990
+  zustand_ab_1990: Verfall durch Brandeinwirkung, kurz vor Abriss
+  restaurierung_ab_2004: Investor kauft Anwesen, denkmalgrechte Renovierung
+  nutzung_nach_2004: Umwandlung in Eigentümergemeinschaft mit Einzelhäusern am Parkrand
+  park_oeffnung: öffentlich
+  privatbesitz: Zufahrtsrampe und Schlosshof
+GUELTIG_AB: 1808
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: badeanstalt
+BEZEICHNUNG: Freibad Jugenheim
+ORTSTEIL_BEZUG: Jugenheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/freibad-jugenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsjahr: 1930
+  standort_lage: nördlicher Rand von Jugenheim
+  wassererwaermung_ursprung: Quellwasser aus Stettbach
+  wassererwaermung_heute: Trinkwassernetz
+  wassererwaermung_heizung: Solaranlage
+  becken_schwimmer: 50 m
+  becken_nichtschwimmer: 25 m
+  becken_planschbecken: 12,5 m
+  becken_breite: 25 m
+  renovierungen: 1970er Jahre, 1999-2000
+  filteranlagen: hochwertig, neuester Stand nach Renovierung 1999-2000
+  sanitaer_modernisierung: 1999-2000
+  attraktionen: Krake Paul (3x pro Woche), Sprungturm 5m
+  liegeflaeche: große Liegewiese
+  gastronomie: Freiluftgaststätte
+  verein_engagement: Schwimmbadverein (Spendenfinanzierung Renovierungskosten)
+  beliebheit_beschreibung: großer Beliebtheit über 70 Jahre
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Renaissance-Rathaus Seeheim
+ORTSTEIL_BEZUG: Seeheim
+QUELLE: https://www.seeheim-zugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/renaissance-rathaus/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1599
+  stil: Renaissance
+  lage: an der Bergstraße
+  beschreibung_wert: eines der am schönsten gestalteten Rathäuser an der Bergstraße
+  grund_reichtum: Reichtum des Amtes Seeheim
+  amt_seeheim_zustaendigkeit: Bickenbach, Jugenheim, Malchen, Balkhausen, Staffel, Wurzelbach, Beedenkirchen
+  parrhaus_gegenueber: 1589 (steinernes Pfarrhaus)
+  parrhaus_funktion: schützte Rathaus gegen Feuer im 30-jährigen Krieg
+  fassaden_geschichte: Verputzung, Verschindelung, verschiedene Farben, Putzentfernung, mehrfach geaendert
+  renovierung_letzte: 1980
+  zustand_nach_renovierung: originale Gestaltung wiederhergestellt
+  anbau_suedosten: klein
+  anbau_funktion: Heimatmuseum
+  museum_inhalte: Funde von Burg Tannenberg, Leben im Mittelalter
+  museum_oeffnungszeiten: Sonntag 15:00-17:00 Uhr, nach Vereinbarung
+  bauform: zwei zu Winkelbau zusammengesetzte Teile
+  giebel: drei mit reichem Zierrat
+  erdgeschoss: massive Konstruktion
+  erdgeschoss_westseite: durchgehende Halle mit 3 Öffnungen
+  tueroeffnung: später zugemauert
+  ober_dachgeschoss: Fachwerk mit duenneren Wänden
+  innenbau_umbauten: Halle und Saal Obergeschoss verändert durch Wände und Treppenhaus
+GUELTIG_AB: 1599
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burgruine Tannenberg
+ORTSTEIL_BEZUG: Seeheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/burgruine-tannenberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: östlich von Seeheim
+  hoehe: ca. 200 m über Rheinebene
+  landschaft: Ausläufer des Odenwaldes
+  aussicht: Bergstraße und Odenwald
+  baubeginn: ca. 1210
+  erbauer: Kuno von Münzenberg
+  ausgebaut_durch: sein Sohn Ulrich
+  ausbau_dauer: ca. 40 Jahre
+  fertigstellung: ca. 1250
+  kernburg_grundriss: ca. 50 m x 30 m (oval)
+  ringmauer_staerke: 2-3 m dick
+  ringmauer_hoehe: 5-7 m
+  vorburg: nördliche Flanke
+  bergfried: mächtig in Kernburg-Mitte
+  wasserversorgung_friedenszeiten: Quelle am westlichen Hang
+  wasserversorgung_kriegszeiten: Zisterne im Burghof
+  entwicklung_14_jhdt: Raubritterburg
+  handelsweg_bergstrasse: wichtigster Handelsweg zwischen Basel und Frankfurt
+  zerstoerung: 1399
+  belagerung_dauer: 3 Wochen
+  belagerung_grund: Fehde erklärt durch Städte im Auftrag König Wenzels wegen Raubüberfälle
+  ausgrabungen: 1850
+  ausgrabungen_veranlasser: Großherzog Ludwig III. von Hessen und bei Rhein
+  ausgrabungen_erfolg: umfangreich, sensationell
+  fund_tannenbergbuechse: erste Handfeuerwaffe nördlich der Alpen
+  funde_lagerung: Hessisches Landesmuseum
+  funde_heute_ausstellung: einige im Historischen Rathaus
+  sicherung_ab: Mitte 1970er Jahre
+  sicherung_organisator: Heimat- und Verschönerungsverein Seeheim (ehrenamtlich)
+  sicherung_ergebnis: weitere Funde während Erhaltungsmaßnahmen
+GUELTIG_AB: 1210
+GUELTIG_BIS: 1399
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Neues Rathaus Seeheim
+ORTSTEIL_BEZUG: Seeheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-seeheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgaenger: Schulgebäude
+  stil: Jugendstil
+  architect: Eckard Vonholdt
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.78
+
+---
+
+ENTITÄT: platz
+BEZEICHNUNG: Georg-Kaiser-Platz
+ORTSTEIL_BEZUG: Seeheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-seeheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: links vom Neuen Rathaus
+  benannt_nach: Georg Kaiser (expressionistischer Dramatiker)
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Georg Kaiser
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-seeheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: expressionistischer Dramatiker
+  wohnort_seeheim: 1908-1918
+  bekanntestes_werk: Die Bürger von Calais
+  werk_uraufführung: 1917 in Frankfurt am Main
+GUELTIG_AB: 1908
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Lustige Zeitgenossen
+ORTSTEIL_BEZUG: Seeheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-seeheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort_fußweg: Schulpädche
+  standort_richtung: Richtung Darmstädter Straße vom Neuen Rathaus
+  kuenstler: Peter Lenk (Bildhauer vom Bodensee)
+  kuenstler_epitheton: Hofnarr der Republik
+  urspruengliche_bezeichnung: Stau in Seeheim-Jugenheim (auf der A 5) – Touristen, die sonst nicht nach Seeheim-Jugenheim gekommen wären
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Sandsteinbrunnen Sebastiansmarkt
+ORTSTEIL_BEZUG: Seeheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-seeheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Sebastiansmarkt (links)
+  material: Sandstein
+  herkunft_funktion_vermutlich: Viehtränke
+  zeit_nutzen_als_viehtränke: Zeiten reger Pferdefuhrwerke auf Bergstraße
+  heute_pflege: Landfrauen (zweimal jährlich)
+  schmuck_termin: Weihnachten und Ostern
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.72
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Laurentiuskirche
+ORTSTEIL_BEZUG: Seeheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-seeheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: protestantisch
+  bauzeitpunkt_original: 13. Jahrhundert
+  erweiterungen: mehrfach
+  reformation_einfuehrung: 1540
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Fachwerkhaus Villastraße
+ORTSTEIL_BEZUG: Seeheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-seeheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Villastraße bergauf (linker Hand)
+  bauart: Fachwerkhaus
+  historische_funktion: ehemaliger Sitz des Amtmannes von Seeheim
+  bedeutung: aus diesem Haus stammte Freiherr Friedrich August von Lichtenberg
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Freiherr Friedrich August von Lichtenberg
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-seeheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: aus Fachwerkhaus Villastraße (Amtmannssitz)
+  position: Staatsminister
+  dienste_bei: Ludewig I., erster Großherzog von Hessen und bei Rhein
+  zeitraum: Anfang 19. Jahrhundert
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: park_mit_villa
+BEZEICHNUNG: Goldschmidts-Park
+ORTSTEIL_BEZUG: Seeheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-seeheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  villa_erbaut: 1870
+  villa_erbauer: Major Hahn
+  villa_umbauten: mehrere (nach Plänen G. von Seidl, F. Schumacher)
+  villa_zerstoerung: 1942 (Kriegseinwirkung)
+  villa_wiederaufbau: Firma Goldschmidt
+  villa_erhaltung_heute: weitgehend wie Wiederaufbau
+  park_stil: englischer Landschaftsgarten
+  park_gehoelze: exotische und einheimische (Mammutbäume, Edelkastanien, Trauerbuche)
+  erwerb_gemeinde: 1969
+  erwerber: Gemeinde von Goldschmidt AG, Essen
+GUELTIG_AB: 1870
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Villa Albert-Schweitzer-Straße 8
+ORTSTEIL_BEZUG: Seeheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-seeheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hausummer: 8
+  standort: Albert-Schweitzer-Straße
+  stil: Jugendstil
+  architect: Albin Müller
+  architect_rolle: seit 1908 Leiter der Darmstädter Künstlerkolonie
+  architect_wohnort: einige Wochen in Wachthäuschen des Schlosses
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Villa Albert-Schweitzer-Straße 4
+ORTSTEIL_BEZUG: Seeheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-seeheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hausummer: 4
+  standort: Albert-Schweitzer-Straße
+  stil: Renaissance (historisierend)
+  architect: unbekannt
+GUELTIG_AB: 1870
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Villa Albert-Schweitzer-Straße 14
+ORTSTEIL_BEZUG: Seeheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-seeheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hausummer: 14
+  standort: Albert-Schweitzer-Straße
+  architect: Eckard Vonholdt
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: villenviertel
+BEZEICHNUNG: Villenviertel Seeheim
+ORTSTEIL_BEZUG: Seeheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-seeheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_erbauung: 1870-1914
+  anzahl_villen: Fülle von Villen
+  baustoffe: historisierende Vorbilder (Gotik, Renaissance, Klassizismus)
+  grund_ansiedlung: milde Bergstraßenklima, Verkehrsanbindung, gekrönte Häupter im Seeheimer Schloss
+  bewohner: wohlhabende Gewerbetreibende, Beamte, Pensionäre
+GUELTIG_AB: 1870
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.78
+
+---
+
+ENTITÄT: hotel
+BEZEICHNUNG: Hotel Hufnagel
+ORTSTEIL_BEZUG: Seeheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-seeheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1865
+  ruf: renommiert
+  schliessung: 1981
+GUELTIG_AB: 1865
+GUELTIG_BIS: 1981
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.78
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Schuldorf Bergstraße
+ORTSTEIL_BEZUG: Seeheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/schuldorf-bergstrasse/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsidee_jahr: 1949
+  gruendungsidee_initiator: schulpolitischer Berater der US-Besatzungsbehörde
+  baubeginn: 1952
+  besonderheit: erstes Schulzentrum in der Bundesrepublik Deutschland
+  bildungsstufen: Kindergarten, Sonder-, Haupt-, Real-, Berufsschule, Gymnasium, Internat
+  unterrichtsbeginn: 1954
+  schueler_insgesamt: ca. 1.400 Kinder
+  campus: dutzende Gebäude
+  campus_einrichtungen: Freilichttheater, Tennisplätze u.a.
+  berufsschule_verlagerung: 1976 nach Darmstadt
+  internat_schliessung: 1985
+  kindergarten_zustaendigkeit: 1985 an Gemeinde Seeheim-Jugenheim übertragen
+  internationaler_kindergarten_eröffnung: 2003
+  internationale_schule_eröffnung: 2005
+  internationale_schule_traeger: öffentlich-rechtliche Schule, Landkreis Darmstadt-Dieburg
+  internationale_schule_unterrichtssprache: Englisch
+  campus_oeffnung: öffentlich
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: hotel
+BEZEICHNUNG: Tagungshotel Lufthansa Seeheim
+ORTSTEIL_BEZUG: Seeheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/tagungshotel-lufthansa/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgaenger_name: Schulungszentrum
+  vorgaenger_funktion: Ausbildung Lufthansa-Mitarbeiter
+  vorgaenger_dauer: 40 Jahre
+  abriss_und_neubau: vor wenigen Jahren vor 2024
+  neu_erbaut: hochmodernes Tagungshotel
+  eroeffnung_neubau: 2009
+  zimmer: 485
+  seminarraeume: 80 (für je 12 bis 100 Teilnehmer)
+  grosser_saal: bis 750 Personen
+  einrichtungen: Fitnesscenter, Hallenbad, Sauna, UPPER DECK, Bibliothek, Vinothek
+  restaurant: innovative hervorragende Küche
+  gaeste_oeffnung: Hausgäste und Tagesgäste
+  umgebung: Odenwald mit beschilderten Rundwegen
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Historisches Rathaus Jugenheim
+ORTSTEIL_BEZUG: Jugenheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-jugenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: ca. 1555
+  bauart: schlichtes Fachwerkhaus
+  stil: Renaissance
+  periode_bedeutung: historisch
+  heute_nutzung: Bücherei, Ausstellungen
+GUELTIG_AB: 1555
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.78
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Siegfriedbrunnen
+ORTSTEIL_BEZUG: Jugenheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-jugenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Giebelseite des Historischen Rathauses
+  stil: Jugendstil
+  erstellungsjahr: 1913
+  kuenstler: Daniel Greiner (Bildhauer aus Jugenheim)
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Bergkirche
+ORTSTEIL_BEZUG: Jugenheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-jugenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stilrichtung: gotisch
+  standort_lage: auf dem Weg zum Schloss Heiligenberg
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Altes Forstamt
+ORTSTEIL_BEZUG: Jugenheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-jugenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1552
+  heute_nutzung: karitative Stiftung
+GUELTIG_AB: 1552
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.78
+
+---
+
+ENTITÄT: hotel
+BEZEICHNUNG: Hotel Krone
+ORTSTEIL_BEZUG: Jugenheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-jugenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historische_gaeste: russische Gäste während Zarenaufenthalte in Jugenheim
+  historische_periode: Ende 1850er bis Anfang 1860er Jahre
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.72
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Helene Christaller
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-jugenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: bekannte Autorin
+  wohnort: Blaues Haus (Haus-Nr. 3, Helene-Christaller-Weg), Jugenheim
+  wohnzeit: bis zu ihrem Tod 1953
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1953
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Museum Stangenberg Merck
+ORTSTEIL_BEZUG: Jugenheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-jugenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausstellung_fokus: Gemälde der Künstlerin Stangenberg Merck
+  villa_erbauung: 1904
+  villa_name: Haus auf der Höhe
+  architect: Heinrich Metzendorf (Baumeister der Bergstraße)
+  park: traumhaft, Aussicht vorhanden
+GUELTIG_AB: 1904
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Ernst Pauer
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-jugenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: Pianist
+  villa_erbauung: 1860
+  villa_standort: Pauerweg Nr. 30, Jugenheim
+GUELTIG_AB: 1860
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.72
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Villa Brodnitz
+ORTSTEIL_BEZUG: Jugenheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-jugenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hausummer: 48
+  standort: Alsbacher Straße, Jugenheim
+  erbauung: 1851
+  baustil: spätklassizistischer Baustil
+  assoziationen: erinnert an Georg Moller (Hofbaumeister der Großherzöge im 19. Jahrhundert)
+GUELTIG_AB: 1851
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.78
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirche St. Bonifatius
+ORTSTEIL_BEZUG: Jugenheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-jugenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1912-1913
+  architect: Rommel
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Friedensbrunnen
+ORTSTEIL_BEZUG: Jugenheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-jugenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Einmündung Ludwigstraße
+  errichtungsjahr: 1909
+  kuenstler: Daniel Greiner (Bildhauer aus Jugenheim)
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Postgebäude
+ORTSTEIL_BEZUG: Jugenheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-jugenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Lindenstraße / Einmündung, Jugenheim
+  erbauung: 1901
+  bauweise: Backsteingebäude
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.78
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Villa Lindenstraße 6
+ORTSTEIL_BEZUG: Jugenheim
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/baudenkmaeler-jugenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hausummer: 6
+  standort: Lindenstraße, Jugenheim
+  erbauung: 1867
+  stil: neoklassizistischer Stil
+GUELTIG_AB: 1867
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.78
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Felsenmeer
+QUELLE: https://www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/klettertour-im-felsenmeer/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Lautertal
+  lage_entfernung: nicht weit entfernt von Seeheim-Jugenheim
+  beschreibung: Riesige Felsblöcke
+  beschreibung_text: wie gewaltiger Strom den Felsberg hinab
+  aktivitaet: Klettern und Spielen
+  tour_laenge: 2 km
+  tour_charakteristik: überwiegend über Felsenlandschaft
+  informationszentrum: am unteren Ende
+  informationszentrum_inhalte: Entstehungsgeschichte und Nutzung uralter Gesteine
+  themenführungen: zu festen Terminen
+GUELTIG_AB: Prähistorisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82

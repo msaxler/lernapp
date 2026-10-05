@@ -195,8 +195,19 @@
   "Bensheim: kfz HP (Wikidata P395) gegen MR (Altbestand staedte.json)",
   "Bensheim: hoehe_m 103 (Wikidata P2044) gegen 115 (dewiki Infobox)",
   "Zwingenberg: kfz HP (Wikidata P395) gegen MR (Altbestand staedte.json)",
+  "Seeheim-Jugenheim: hoehe_m 224 (Wikidata P2044) gegen 135 (dewiki Infobox)",
+  "Seeheim-Jugenheim: hoehe_m 224 (Wikidata P2044) gegen 170 (Altbestand geo.sqlite (GeoNames 3337504))",
+  "Darmstadt: einwohner 168253 (Wikidata P1082) gegen 140385 (Altbestand geo.sqlite (GeoNames 2938913))",
   "Langen: kfz OF (Wikidata P395) gegen EL (Altbestand geo.sqlite (Kreis 03454))",
   "Langen: hoehe_m 143 (Wikidata P2044) gegen 134 (Altbestand geo.sqlite (GeoNames 2881279))",
+  "Frankfurt am Main: hoehe_m 112 (Wikidata P2044) gegen 101 (Wikidata P2044)",
+  "Mainz: hoehe_m 94 (Wikidata P2044) gegen 89 (dewiki Infobox)",
+  "Mainz: hoehe_m 94 (Wikidata P2044) gegen 125 (Altbestand staedte.json)",
+  "Mainz: hoehe_m 94 (Wikidata P2044) gegen 125 (Altbestand geo.sqlite (GeoNames 2874225))",
+  "Wiesbaden: kfz WI (Wikidata P395) gegen WSK (Altbestand kfz_kennzeichen.csv)",
+  "Wiesbaden: hoehe_m 117 (Wikidata P2044) gegen 162 (Wikidata P2044)",
+  "Wiesbaden: hoehe_m 117 (Wikidata P2044) gegen 124 (Wikidata P2044)",
+  "Wiesbaden: hoehe_m 117 (Wikidata P2044) gegen 147 (Altbestand geo.sqlite (GeoNames 2809346))",
   "Walluf: hoehe_m 90 (Wikidata P2044) gegen 84 (dewiki Infobox)",
   "Walluf: hoehe_m 90 (Wikidata P2044) gegen 118 (Altbestand geo.sqlite (GeoNames 3208134))",
   "Eltville am Rhein: hoehe_m 95 (Wikidata P2044) gegen 86 (dewiki Infobox)",
@@ -1665,6 +1676,12 @@
        "km": 88
       },
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "ersterwaehnung": [
+     {
+      "wert": 1115,
+      "quelle": "dewiki, Extraktion Schicht 1 (Ortsblock)"
      }
     ],
     "bahnhof": [
@@ -3616,6 +3633,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
      }
     ],
+    "ersterwaehnung": [
+     {
+      "wert": 769,
+      "quelle": "dewiki, Extraktion Schicht 1 (Ortsblock)"
+     }
+    ],
     "bahnhof": [
      {
       "wert": [
@@ -5273,6 +5296,397 @@
    }
   },
   {
+   "slug": "42-seeheim-jugenheim",
+   "rolle": "ziel",
+   "name": "Seeheim-Jugenheim",
+   "einheit": "Gemeinde",
+   "wikidata": "Q574429",
+   "lat": 49.76667,
+   "lon": 8.65,
+   "gemeindeschluessel": "06432022",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Darmstadt-Dieburg",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Darmstadt-Dieburg",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Hessen",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 16376,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 16395,
+      "quelle": "Altbestand geo.sqlite (GeoNames 3337504)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 28.0,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 585,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "DA",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "DA",
+      "quelle": "Altbestand geo.sqlite (Kreis 06432)"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 224,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 135,
+      "quelle": "dewiki Infobox",
+      "abweichend": true
+     },
+     {
+      "wert": 170,
+      "quelle": "Altbestand geo.sqlite (GeoNames 3337504)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Darmstadt",
+       "km": 12
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "12 km südlich von Darmstadt (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Wiesbaden",
+       "km": 46
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "64332–64342"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "64342"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "06151",
+       "06257"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 28.6,
+        "GRÜNE": 20.0,
+        "SPD": 18.5,
+        "AfD": 12.8,
+        "Die Linke": 6.4,
+        "FDP": 6.2
+       },
+       "wahlbeteiligung_prozent": 86.8,
+       "gueltige_zweitstimmen": 10284
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Birgit Kannegießer",
+       "partei": "SPD"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-05",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Villenave-d’Ornon",
+       "Kosmonosy",
+       "Ceregnano"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "43-darmstadt",
+   "rolle": "ziel",
+   "name": "Darmstadt",
+   "einheit": "Stadt",
+   "wikidata": "Q2973",
+   "lat": 49.86667,
+   "lon": 8.65,
+   "gemeindeschluessel": "06411000",
+   "eigenschaften": {
+    "bundesland": [
+     {
+      "wert": "Hessen",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 168253,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 167029,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 140385,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2938913)",
+      "abweichend": true
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 122.07,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 122.07,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 1378,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "DA",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "DA",
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": "DA",
+      "quelle": "Altbestand geo.sqlite (Kreis 06411)"
+     },
+     {
+      "wert": "DA",
+      "quelle": "Altbestand kfz_kennzeichen.csv"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 144,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 144,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 148,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 148,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2938913)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Darmstadt",
+       "km": 1
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "1 km südlich von Darmstadt (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Wiesbaden",
+       "km": 38
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Darmstadt Nord",
+       "Bahnhof Darmstadt Ost",
+       "Bahnhof Darmstadt Süd",
+       "Bahnhof Darmstadt-Arheilgen",
+       "Bahnhof Darmstadt-Eberstadt",
+       "Bahnhof Darmstadt-Kranichstein",
+       "Darmstadt Hauptbahnhof",
+       "Darmstadt Ludwigsbahnhof",
+       "Darmstadt Main-Neckar-Bahnhof",
+       "Haltepunkt Bessunger Forsthaus",
+       "Haltepunkt Darmstadt TU-Lichtwiese",
+       "Haltepunkt Darmstadt-Wixhausen"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "64283–64297"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "64283",
+       "64285",
+       "64287",
+       "64289",
+       "64291",
+       "64293",
+       "64295",
+       "64297"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "06150",
+       "06151",
+       "06159"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 24.8,
+        "CDU": 19.1,
+        "SPD": 17.6,
+        "Die Linke": 15.3,
+        "AfD": 10.3
+       },
+       "wahlbeteiligung_prozent": 84.7,
+       "gueltige_zweitstimmen": 89452
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Hanno Benz",
+       "partei": "SPD"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-05",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Saanen",
+       "Alkmaar",
+       "Troyes",
+       "Chesterfield",
+       "Graz",
+       "Trondheim",
+       "Bursa",
+       "Płock",
+       "Szeged",
+       "Gyönk",
+       "Freiberg",
+       "Brescia",
+       "Uschhorod",
+       "Libau",
+       "Logroño",
+       "San Antonio"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
    "slug": "22-langen",
    "rolle": "ziel",
    "name": "Langen",
@@ -5450,6 +5864,725 @@
        "Aranda de Duero"
       ],
       "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "44-frankfurt",
+   "rolle": "ziel",
+   "name": "Frankfurt am Main",
+   "einheit": "Stadt",
+   "wikidata": "Q1794",
+   "lat": 50.11056,
+   "lon": 8.68222,
+   "gemeindeschluessel": "06412000",
+   "eigenschaften": {
+    "bundesland": [
+     {
+      "wert": "Hessen",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 760656,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 756021,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 248.31,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 248.31,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 3063,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "F",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "F",
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": "F",
+      "quelle": "Altbestand kfz_kennzeichen.csv"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 112,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 101,
+      "quelle": "Wikidata P2044",
+      "abweichend": true
+     },
+     {
+      "wert": 112,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 112,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Frankfurt am Main",
+       "km": 1
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "1 km südlich von Frankfurt am Main (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Wiesbaden",
+       "km": 31
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "ersterwaehnung": [
+     {
+      "wert": 794,
+      "quelle": "Wikidata P1249"
+     },
+     {
+      "wert": 794,
+      "quelle": "Altbestand geschichte.json"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Frankfurt (Main) Mühlberg",
+       "Bahnhof Frankfurt (Main) Ost",
+       "Bahnhof Frankfurt (Main) Taunusanlage",
+       "Bahnhof Frankfurt am Main Messe",
+       "Bahnhof Frankfurt-Berkersheim",
+       "Bahnhof Frankfurt-Frankfurter Berg",
+       "Bahnhof Frankfurt-Ginnheim",
+       "Bahnhof Frankfurt-Griesheim",
+       "Bahnhof Frankfurt-Höchst Farbwerke",
+       "Bahnhof Frankfurt-Nied",
+       "Bahnhof Frankfurt-Sindlingen",
+       "Bahnhof Frankfurt-Zeilsheim",
+       "Bahnhof Mainspitze",
+       "Frankfurt (Main) Außenbahnhof",
+       "Frankfurt (Main) Hbf (tief)",
+       "Frankfurt (Main) Lokalbahnhof",
+       "Frankfurt (Main) Stresemannallee",
+       "Frankfurt (Main) Süd",
+       "Frankfurt Hanauer Bahnhof",
+       "Frankfurt Lokalbahnhof",
+       "Frankfurt Main-Neckar-Bahnhof",
+       "Frankfurt Main-Weser-Bahnhof",
+       "Frankfurt Taunusbahnhof",
+       "Frankfurt-Höchst",
+       "Frankfurt-Louisa",
+       "Frankfurt-Mainkur",
+       "Frankfurt-Oberrad"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     },
+     {
+      "wert": {
+       "kategorie": 1,
+       "bahnhof_name": "Frankfurt (Main) Hbf",
+       "fernverkehr": true,
+       "ice_halt": true
+      },
+      "quelle": "Altbestand bahnhof.json"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "60308–60599",
+       "65929–65936"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "6101",
+       "6109",
+       "69"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 24.3,
+        "GRÜNE": 19.5,
+        "SPD": 17.2,
+        "Die Linke": 14.4,
+        "AfD": 10.0,
+        "FDP": 6.6
+       },
+       "wahlbeteiligung_prozent": 81.2,
+       "gueltige_zweitstimmen": 349452
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Mike Josef",
+       "partei": "SPD"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-05",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Birmingham",
+       "Budapest",
+       "Deuil-la-Barre",
+       "Dubai",
+       "Eskişehir",
+       "Granada",
+       "Guangzhou",
+       "Kairo",
+       "Krakau",
+       "Leipzig",
+       "Lyon",
+       "Mailand",
+       "Prag",
+       "Tel Aviv-Jaffa",
+       "Toronto",
+       "Yokohama",
+       "Philadelphia",
+       "Chennai",
+       "Dschidda",
+       "Daejeon"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "gewaesser": [
+     {
+      "wert": [
+       "Main"
+      ],
+      "quelle": "Altbestand staedte.json"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "45-mainz",
+   "rolle": "ziel",
+   "name": "Mainz",
+   "einheit": "Stadt",
+   "wikidata": "Q1720",
+   "lat": 49.99944,
+   "lon": 8.27361,
+   "gemeindeschluessel": "07315000",
+   "eigenschaften": {
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 223888,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 224684,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 217123,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2874225)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 97.73,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 97.73,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 2291,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "MZ",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "MZ",
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": "MZ",
+      "quelle": "Altbestand geo.sqlite (Kreis 07315)"
+     },
+     {
+      "wert": "MZ",
+      "quelle": "Altbestand kfz_kennzeichen.csv"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 94,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 89,
+      "quelle": "dewiki Infobox",
+      "abweichend": true
+     },
+     {
+      "wert": 125,
+      "quelle": "Altbestand staedte.json",
+      "abweichend": true
+     },
+     {
+      "wert": 125,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2874225)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 2
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "2 km nördlich von Mainz (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 2
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Gartenfeld",
+       "Bahnhof Mainz Waggonfabrik",
+       "Bahnhof der Hessischen Ludwigsbahn in Mainz",
+       "Haltepunkt Mainz Nord"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     },
+     {
+      "wert": {
+       "kategorie": 3,
+       "bahnhof_name": "Mainz Hauptbahnhof",
+       "fernverkehr": false,
+       "ice_halt": false
+      },
+      "quelle": "Altbestand bahnhof.json"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "55001–55131",
+       "55116–55131"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "55116",
+       "55118",
+       "55120",
+       "55122",
+       "55124",
+       "55126",
+       "55127",
+       "55128",
+       "55129",
+       "55130",
+       "55131"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "06131",
+       "06136"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 24.1,
+        "CDU": 23.7,
+        "SPD": 18.1,
+        "Die Linke": 13.9,
+        "AfD": 8.4,
+        "FDP": 5.1
+       },
+       "wahlbeteiligung_prozent": 85.6,
+       "gueltige_zweitstimmen": 128226
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Nino Haase",
+       "partei": "parteilos"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-05",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Watford",
+       "Dijon",
+       "Zagreb",
+       "Valencia",
+       "Haifa",
+       "Erfurt",
+       "Louisville",
+       "Baku",
+       "Rodeneck",
+       "Kigali"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "46-wiesbaden",
+   "rolle": "ziel",
+   "name": "Wiesbaden",
+   "einheit": "Stadt",
+   "wikidata": "Q1721",
+   "lat": 50.0825,
+   "lon": 8.24,
+   "gemeindeschluessel": "06414000",
+   "eigenschaften": {
+    "bundesland": [
+     {
+      "wert": "Hessen",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 288584,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 288850,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 278609,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2809346)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 203.93,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 203.87,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 1415,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "WI",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "WI",
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": "WI",
+      "quelle": "Altbestand geo.sqlite (Kreis 06414)"
+     },
+     {
+      "wert": "WSK",
+      "quelle": "Altbestand kfz_kennzeichen.csv",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 117,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 162,
+      "quelle": "Wikidata P2044",
+      "abweichend": true
+     },
+     {
+      "wert": 124,
+      "quelle": "Wikidata P2044",
+      "abweichend": true
+     },
+     {
+      "wert": 117,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 117,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 147,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2809346)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Wiesbaden",
+       "km": 0
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "0 km südwestlich von Wiesbaden (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Wiesbaden",
+       "km": 0
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Auringen-Medenbach",
+       "Bahnhof Mainz-Kastel",
+       "Bahnhof Wiesbaden Ost",
+       "Bahnhof Wiesbaden Waldstraße",
+       "Bahnhof Wiesbaden-Biebrich",
+       "Bahnhof Wiesbaden-Dotzheim",
+       "Bahnhof Wiesbaden-Erbenheim",
+       "Bahnhof Wiesbaden-Igstadt",
+       "Bahnhof Wiesbaden-Schierstein",
+       "Wiesbaden Ludwigsbahnhof",
+       "Wiesbaden Rheinbahnhof",
+       "Wiesbaden Taunusbahnhof"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     },
+     {
+      "wert": {
+       "kategorie": 3,
+       "bahnhof_name": "Wiesbaden Hauptbahnhof",
+       "fernverkehr": false,
+       "ice_halt": false
+      },
+      "quelle": "Altbestand bahnhof.json"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "55246",
+       "55252",
+       "65183–65207"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "55246",
+       "55252",
+       "65183",
+       "65185",
+       "65187",
+       "65189",
+       "65191",
+       "65193",
+       "65195",
+       "65197",
+       "65199",
+       "65201",
+       "65203",
+       "65205",
+       "65207"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0611",
+       "6122",
+       "6127",
+       "6134"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 26.6,
+        "SPD": 17.5,
+        "GRÜNE": 16.0,
+        "AfD": 14.1,
+        "Die Linke": 11.5,
+        "FDP": 5.6
+       },
+       "wahlbeteiligung_prozent": 79.7,
+       "gueltige_zweitstimmen": 147209
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Gert-Uwe Mende",
+       "partei": "SPD"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-05",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Montreux",
+       "Klagenfurt am Wörthersee",
+       "Friedrichshain-Kreuzberg",
+       "Fondettes",
+       "Ljubljana",
+       "Fatih",
+       "Kfar Saba",
+       "Donostia-San Sebastián",
+       "Breslau",
+       "Royal Tunbridge Wells",
+       "Görlitz",
+       "Ocotal",
+       "Fremantle",
+       "Kamjanez-Podilskyj"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "gewaesser": [
+     {
+      "wert": [
+       "Rhein"
+      ],
+      "quelle": "Altbestand staedte.json"
      }
     ],
     "kueste": [

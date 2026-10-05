@@ -1,0 +1,502 @@
+ID: 44-frankfurt/001
+ENTITÄT: institution
+BEZEICHNUNG: Institut für Stadtgeschichte
+QUELLE: https://www.stadtgeschichte-ffm.de/de/info-und-service/ueber-uns/ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1436
+  gründungsart: Archivturm Frauenrode als erstes reines Archivgebäude
+  ort: Karmeliterkloster
+  umbenannt_von: Stadtarchiv
+  umbenannt_zu: Institut für Stadtgeschichte
+  umbennung_jahr: 1992
+  beschreibung: eines der bedeutendsten Kommunalarchive Deutschlands
+  archivalien_umfang: 25 Regalkilometer
+  archivalien_zeitspanne: 9. Jahrhundert bis Gegenwart
+  fotosammlung_umfang: mehr als zwei Millionen
+  fotosammlung_zeitspanne: 19. Jahrhundert bis Gegenwart
+  geschichte_jahrzehnte: 580-jährig
+  superlativ: älteste Kultureinrichtung der Stadt
+GUELTIG_AB: 1436
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 44-frankfurt/002
+ENTITÄT: institution
+BEZEICHNUNG: Stadtarchiv am Weckmarkt
+QUELLE: https://www.stadtgeschichte-ffm.de/de/info-und-service/ueber-uns/geschichte-des-instituts | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_jahr: 1878
+  baumeister: Hermann Grotefend
+  baumeister_auftrag_anritt: Ende 1875
+  zerstört_datum: 12. September 1944
+  verluste_prozentangabe: ca. ein Drittel durch Angriff 29. Januar 1944
+  gesamtverlust_regalkilometer: ca. 7 Regalkilometer
+  verlust_gesamt_datum: 12. September 1944
+  überständig_regalkilometer: ca. 3,5 Regalkilometer
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 44-frankfurt/003
+ENTITÄT: gebaeude
+BEZEICHNUNG: Karmeliterkloster
+QUELLE: https://www.stadtgeschichte-ffm.de/de/info-und-service/ueber-uns/geschichte-des-klosters | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kloesterliche_gründung: Mitte 13. Jahrhundert
+  orden: Karmeliter
+  ursprungsort_orden: Palästina
+  erste_altar_weihe: 1270
+  altar_patronin: Patronin des Mönchsordens (Karmeliter)
+  kirchen_erweiterung: 1290
+  erweiterungsbeschreibung: Erweiterungsbau mit Rechteckchor
+  haupthaus_erweiterung: ca. 1400
+  bauliche_phasen: 15. Jahrhundert Ausbau durch Grundstückserwerb
+  aufgelöst_datum: 1803
+  aufgelöst_grund: Reichsdeputationshauptschluss
+  eigenschaft_nach_säkularisation: systematische Demontage und Umwandlung
+  erhaltung_initiative: 1922 Bund tätiger Altstadfreunde unter Fried Lübbecke
+  verhinderte: drohender Abriss
+  restauration_leitung: Theodor Derlam (Baumeister der Altstadt)
+  restauration_zeitraum: bis 1943
+  kriegszerstörungen: Zweiter Weltkrieg richtete unermessliche Schäden an
+  altstadt_überbleibsel: so gut wie nichts erhalten
+  wiederaufbau_beginn: ab 1951
+  wiederaufbau_archiv: 1959 Stadtarchiv in Nordflügel
+  konservierungsmassnahmen_zeitraum: 1975-1977
+  kreuzgang_massnahme: erneute Verglasung zum Schutz der Wandmalereien
+  refektorium_renovation: renoviert
+  kirche_status_1975: weiterhin als Ruine, Ablageplatz für Steindenkmäler
+  kirche_wiederaufbau_beschluss: 1979
+  kirche_neue_nutzung: Teil eines Museumsbaus für Vor- und Frühgeschichte
+  museum_bauzeit: 1987-1989
+  museum_architekt: Josef Paul Kleihues
+  archäologisches_museum_gründung: 2002 (Name seit 2002)
+  archäologisches_museum_inhalt: Archäologie Frankfurts und Umland von frühesten Zeiten bis Mittelalter
+  kloster_neubenutzung_beschluss: 1998
+  kloster_zuweisung: Kreuzgang, Refektorium, Dormitorium dem Institut für Stadtgeschichte
+  grundsanierung_zeitraum: 2006-2010
+  superlativ: einzige erhaltene mittelalterliche Klosteranlage Frankfurts
+GUELTIG_AB: 1250
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 44-frankfurt/004
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Wandmalereien im Karmeliterkloster
+QUELLE: https://www.stadtgeschichte-ffm.de/de/info-und-service/ueber-uns/wandbilder | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Jörg Ratgeb
+  kuenstler_lebensdaten: 1470/75-1526
+  kuenstler_herkunft: Schwäbisch Gmünd
+  auftrag_jahr: 1515
+  auftrag_grund: reichlich Stiftungsgelder flossen dem Karmeliterkloster zu
+  auftrag_beschreibung: Ausmalung des neuen erweiterten Kreuzganges
+  kuenstler_zeitgenossen: Albrecht Dürer, Mathias Gothard (Grünewald), Martin Schongauer, Tilman Riemenschneider
+  kuenstler_einflüsse: Hausbumeister, Grünewald, flämische und venezianische Malerei
+  beginn_arbeit: 1514
+  ende_arbeit: 1521
+  ort: Kreuzgang und Refektorium des Karmeliterklosters
+  werk_1: Anbetung der Heiligen Drei Könige
+  werk_1_datum: 1514
+  werk_1_detail: Grablege des Patriziers Claus Stalburg des Reichen
+  werk_2: Zyklus der Heilsgeschichte
+  werk_2_datum: bis 1521
+  werk_3: Refektoriumsgemälde mit Genealogie der Karmeliter
+  werk_3_datum: 1517
+  werk_4: ornamentale Verzierung auf Säulen, Fensterlaibungen, Sockelfeldern
+  werk_4_datum: 1517
+  hypothetische_werke: möglicherweise Decke im Chorschluss mit musizierenden Engeln und Marientod im Seitenschiff
+  finanzierung: von Stiftern finanziert
+  bedeutung: bedeutendste vorbarocken Wandmalereien nördlich der Alpen
+  restaurierung_zeitraum: 1980-1986
+  restaurierung_durchgeführt_von: Warschauer Restauratorenteam
+GUELTIG_AB: 1515
+GUELTIG_BIS: 1521
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 44-frankfurt/005
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Christi Geburt
+QUELLE: https://www.stadtgeschichte-ffm.de/de/info-und-service/ueber-uns/wandbilder | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Jörg Ratgeb
+  darstellung: Maria und Josef knien vor dem nackten Jesuskind
+  detail: Gewölbe im Erdgeschoß verweist auf Schriftquelle des 14. Jahrhunderts
+  schriftquelle_interpretation: Jesus im Keller von Davids zerstörtem Haus geboren
+  zeitraum: 1515-1521
+GUELTIG_AB: 1515
+GUELTIG_BIS: 1521
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 44-frankfurt/006
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Flucht nach Ägypten
+QUELLE: https://www.stadtgeschichte-ffm.de/de/info-und-service/ueber-uns/wandbilder | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Jörg Ratgeb
+  darstellung: Heilige Familie flieht vor Hintergrund eines Waldes mit Rehen und Hirschen
+  besonderheit: eine der wenigen Szenen mit Josef im Zentrum
+  details: alltägliche Gegenstände wie Zimmermannsgeräte und Kochutensilien übertragen heilige Geschichte ins 16. Jahrhundert
+  zeitraum: 1515-1521
+GUELTIG_AB: 1515
+GUELTIG_BIS: 1521
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 44-frankfurt/007
+ENTITÄT: gebaeude
+BEZEICHNUNG: Paulskirche
+QUELLE: https://www.stadtgeschichte-ffm.de/en/city-history/publications/42/die-paulskirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch-lutherisch
+  funktion_original: Hauptkirche der Stadt Frankfurt am Main
+  erbaut_beginn: 1789
+  erbaut_ende: 1829
+  bauunterbrechungen: mehrere
+  vollendet_von: Johann Christian Hess (Stadtbaumeister)
+  eingeweiht: 9. Juni 1833
+  architektur_stil: klassizistisch
+  grundriss: elliptischer Zentralbau
+  material: Rotsandstein (typisch für Untermaingebiet)
+  bedeutung_architektur: bedeutendes Monument klassizistischer Architektur in Deutschland
+  nationalversammlung_beginn: 18. Mai 1848
+  nationalversammlung_ende: 30. Mai 1849
+  parlamentsbezeichnung: erstes deutsches Parlament
+  grundrechte_verabschiedung: Dezember 1848
+  verfassung_verabschiedung: 28. März 1849
+  verfassungs_charakteristika: freiheitlichste, demokratischste und sozialste Verfassungswerk (zur Zeit)
+  verfassungs_einfluss: prägte Weimarer Verfassung von 1919 und Grundgesetz 1949
+  wiedernutzung_als_gotteshaus: 24. Oktober 1852
+  letzter_gottesdienst: 12. März 1944
+  luftangriffe_datum: 18. und 22. März 1944
+  schäden: fast völlig zerstört
+  wiederaufbau_initiator: Oberbürgermeister Walter Kolb
+  wiederaufbau_beginn: unmittelbar nach Zweitem Weltkrieg
+  wiedereinweihung: 18. Mai 1948
+  wiedereinweihung_anlass: Hundertjahrfeier der Deutschen Nationalversammlung
+  gestaltung_vereinfachung: zeitgemäß vereinfachte Gestalt
+  sanierung_zeitraum: 1986-1988
+  kunstausstattung: 1991 Wandbild von Johannes Grützke fertig gestellt
+  gegenwärtige_nutzung: nicht Gotteshaus, sondern politische Gedenkstätte
+  plenarsaal_nutzung: Ort besonderer Festakte und bedeutender Preisverleihungen
+GUELTIG_AB: 1789
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 44-frankfurt/008
+ENTITÄT: person
+BEZEICHNUNG: Jörg Ratgeb
+QUELLE: https://www.stadtgeschichte-ffm.de/de/info-und-service/ueber-uns/wandbilder | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1470/75-1526
+  herkunft: Schwäbisch Gmünd
+  beruf: Maler
+  besonderheit: Zeitgenosse von Albrecht Dürer, Mathias Gothard (Grünewald), Martin Schongauer, Tilman Riemenschneider
+  kunsteinflüsse: Hausbumeister, Grünewald, flämische und venezianische Malerei
+  hauptwerk: Wandmalereien im Karmeliterkloster Frankfurt
+GUELTIG_AB: 1470
+GUELTIG_BIS: 1526
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 44-frankfurt/009
+ENTITÄT: person
+BEZEICHNUNG: Claus Stalburg der Reiche
+QUELLE: https://www.stadtgeschichte-ffm.de/de/info-und-service/ueber-uns/wandbilder | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1469-1524
+  status: Patrizier
+  kunstmäzen: Anbetung der Heiligen Drei Könige (1514) für Grablege im Karmeliterkloster
+GUELTIG_AB: 1469
+GUELTIG_BIS: 1524
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 44-frankfurt/010
+ENTITÄT: gebaeude
+BEZEICHNUNG: Archivturm Frauenrode
+QUELLE: https://www.stadtgeschichte-ffm.de/de/info-und-service/ueber-uns/geschichte-des-instituts | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1436
+  zweck: erstes Gebäude allein für Archivzwecke in Frankfurt
+  beschaffenheit: feuerfest und einbruchsicher
+  gewölbe: drei übereinander liegende Gewölbe
+  kapazitaet_ausreichend_bis: 1761
+GUELTIG_AB: 1436
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 44-frankfurt/011
+ENTITÄT: gebaeude
+BEZEICHNUNG: Leonhardsturm
+QUELLE: https://www.stadtgeschichte-ffm.de/de/info-und-service/ueber-uns/geschichte-des-instituts | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Main
+  funktion: Verwahrung von Privilegien (besonders wichtige Urkunden)
+  verwahrung_beginn: Ende 14. Jahrhundert
+  verwahrung_ende: 1612
+  inhalt: Privilegien als besonders wichtige Urkunden der Stadt
+GUELTIG_AB: 1370
+GUELTIG_BIS: 1612
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 44-frankfurt/012
+ENTITÄT: institution
+BEZEICHNUNG: Stadtrat und Bürgerschaft Frankfurt
+QUELLE: https://www.stadtgeschichte-ffm.de/de/info-und-service/ueber-uns/geschichte-des-klosters | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: Wendung gegen den alten Glauben und Bekenntnis zu Luther-Reformen
+  kontext_zeitpunkt: Nach Reformation in Deutschland
+  auswirkung_kloster: Bruderschaften zogen sich ab 1524 vom Kloster zurück
+GUELTIG_AB: 1524
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 44-frankfurt/013
+ENTITÄT: gebaeude
+BEZEICHNUNG: Barfüßerkirche
+QUELLE: https://www.stadtgeschichte-ffm.de/en/city-history/publications/36/von-der-barfuesserkirche-zur-paulskirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  orden: Franziskaner (volkssprachlich Barfüßer)
+  gründung_periode: Stauferzeit
+  rolle_geschichte: spielten bedeutende Rolle in Seelsorge und Kulturgeschichte
+  kloster_besonderheit: Rat Frankfurts nutzte Kloster vor Bau des eigenen Rathauses
+  reformation_folge: Konvent löste sich selbst auf
+  uebergabe: Kirche und Kloster gingen an den Rat
+  funktion_danach: Hauptkirche der lutherischen Reichsstadt Frankfurt am Main in der Neuzeit
+  bekannteste_geistliche: Georg Philipp Telemann (Komponist), Philipp Jakob Spener (Theologe, Begründer des Pietismus)
+  gebaeude_im_kloster: Dienstwohnung ranghöchster Pfarrer, Gymnasium, Stadtbibliothek, Teile der Stadtverwaltung
+  niederlegung: Ende 18. Jahrhundert
+  grund_niederlegung: Platz für Neubau
+  grund_verzögerung: französische Revolution und Revolutionskriege unterbrachen Baupläne
+  ersatz_gebäude: Paulskirche (eingeweiht 1833)
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1786
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 44-frankfurt/014
+ENTITÄT: event
+BEZEICHNUNG: Nationalversammlung Frankfurt 1848-1849
+QUELLE: https://www.stadtgeschichte-ffm.de/en/city-history/publications/42/die-paulskirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezeichnung: erste Deutsche Nationalversammlung, erstes deutsches Parlament
+  ort: Paulskirche
+  beginn: 18. Mai 1848
+  ende: 30. Mai 1849
+  arbeitsdauer: nur einjährige Arbeit
+  grundrechte_verabschiedung: Dezember 1848
+  verfassung_verabschiedung: 28. März 1849
+  verfassungs_charakteristika: damals freiheitlichste, demokratischste und sozialste Verfassungswerk
+  verfassungs_langzeitwirkung: prägte Weimarer Verfassung von 1919 und Grundgesetz 1949
+  scheitern: konnte sich nicht durchsetzen, Druck der Reaktion
+GUELTIG_AB: 1848
+GUELTIG_BIS: 1849
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 44-frankfurt/015
+ENTITÄT: denkmal
+BEZEICHNUNG: Denkmal der Grauen Busse
+QUELLE: https://www.stadtgeschichte-ffm.de/en/events/exhibitions/138/das-denkmal-der-grauen-busse | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Rathenauplatz
+EIGENSCHAFTEN:
+  kuenstler: Horst Hoheisel, Andreas Knitz
+  zeitbezug: Todestransporte und Krankenmorde im Nationalsozialismus
+  ereignis_stadt: Mehr als 1.000 Frankfurter mit psychischen Krankheiten oder Behinderungen
+  ereignis_zielort: NS-Euthanasie-Anstalt Hadamar bei Limburg
+  ereignis_jahr: 1941
+  ereignis_methode: grau gestrichene ehemalige Postbusse beförderten Patienten, medizinisches Personal tötete sie mit Giftgas
+  ereignis_gesamtopfer_hadamar: 10.122 Kranke (13. Januar bis 24. August 1941)
+  propaganda_term: "Euthanasie" (griechisch: guter Tod) verschleierte systematische Tötung
+GUELTIG_AB: 1941
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 44-frankfurt/016
+ENTITÄT: person
+BEZEICHNUNG: Johann Christian Hess
+QUELLE: https://www.stadtgeschichte-ffm.de/en/city-history/publications/42/die-paulskirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Stadtbaumeister
+  werk: Vollendung der Paulskirche
+  abschluss_jahr: 1829
+GUELTIG_AB: 1789
+GUELTIG_BIS: 1829
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 44-frankfurt/017
+ENTITÄT: person
+BEZEICHNUNG: Walter Kolb
+QUELLE: https://www.stadtgeschichte-ffm.de/en/city-history/publications/42/die-paulskirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Oberbürgermeister
+  leistung: Wiederaufbau der Paulskirche unmittelbar nach Zweitem Weltkrieg
+  ergebnis: Wiedereinweihung 18. Mai 1948
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1948
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 44-frankfurt/018
+ENTITÄT: familie
+BEZEICHNUNG: Bolongaro
+QUELLE: https://www.stadtgeschichte-ffm.de/en/events/calendar/295/familie-bolongaro-kaufmannsdynastie-und-schlossherren | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Höchst
+EIGENSCHAFTEN:
+  status: Kaufmannsdynastie
+  wohlstand: eine der reichsten Familien Frankfurts
+  zeitspanne: 18. und 19. Jahrhundert
+  geschaeft: Schnupftabak-Handel
+  niedergelassungen: Italien, Amsterdam
+  markt: belieferten gesamten europäischen Markt
+  bauwerk: Bolongaropalast
+  bauwerk_art: Handelshaus und Tabakfabrik
+  bauwerk_design_vorbild: Schloss von Versailles
+  bauwerk_status: grundlegende Renovierung unterwegs
+GUELTIG_AB: 1700
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 44-frankfurt/019
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bolongaropalast
+QUELLE: https://www.stadtgeschichte-ffm.de/en/events/calendar/295/familie-bolongaro-kaufmannsdynastie-und-schlossherren | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Höchst
+EIGENSCHAFTEN:
+  urspruengliche_funktion: Handelshaus und Tabakfabrik
+  design_vorbild: Schloss von Versailles (schimmert immer wieder durch)
+  gartenanlage: vorhanden, inspiriert durch Versailles
+  eigentuemer: Familie Bolongaro
+  gesellschaftliche_rolle: Familie spielte Rolle im gesellschaftlichen Leben von Frankfurts
+  gegenwärtiger_status: grundlegende Renovierung/Sanierung unterwegs
+GUELTIG_AB: 1750
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 44-frankfurt/020
+ENTITÄT: ausstellung
+BEZEICHNUNG: Clara Schumann: Eine moderne Frau im Frankfurt des 19. Jahrhunderts
+QUELLE: https://www.stadtgeschichte-ffm.de/en/events/calendar/271/museumsuferfest-2019 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Karmeliterkloster, Dormitorium
+  veranstalter: Institut für Stadtgeschichte
+  event_kontext: Museumsuferfest 2019
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 44-frankfurt/021
+ENTITÄT: kunstausstellung
+BEZEICHNUNG: Gerd Winter: Farbfelder
+QUELLE: https://www.stadtgeschichte-ffm.de/en/events/calendar/271/museumsuferfest-2019 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Gerd Winter
+  ort: Karmeliterkloster, Foyers
+  veranstalter: Institut für Stadtgeschichte
+  event_kontext: Museumsuferfest 2019
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 44-frankfurt/022
+ENTITÄT: musikfestival
+BEZEICHNUNG: Klang im Kloster
+QUELLE: https://www.stadtgeschichte-ffm.de/en/events/calendar/271/museumsuferfest-2019 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Karmeliterkloster, Refektorium
+  bestand_seit: 1998
+  beschreibung: verschiedene Ensembles spielen Programme von Renaissance bis Klassik auf historischen Instrumenten
+  foerderung: Ernst Max von Grunelius-Stiftung
+  veranstalter: Institut für Stadtgeschichte / ALLEGRA – Agentur für Kultur
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 44-frankfurt/023
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Wandbild in der Wandelhalle der Paulskirche
+QUELLE: https://www.stadtgeschichte-ffm.de/en/city-history/publications/42/die-paulskirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Johannes Grützke
+  fertigstellung: 1991
+  ort: Paulskirche, Wandelhalle
+  kontext: Sanierung 1986-1988 mit künstlerischer Ausgestaltung
+GUELTIG_AB: 1986
+GUELTIG_BIS: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 44-frankfurt/024
+ENTITÄT: ausstellung
+BEZEICHNUNG: Die Paulskirche - Symbol demokratischer Freiheit und nationaler Einheit
+QUELLE: https://www.stadtgeschichte-ffm.de/en/city-history/publications/42/die-paulskirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Paulskirche, Wandelhalle
+  einrichtung: 1985
+  initiator: Stadtarchiv unter Leitung Prof. Dr. Wolfgang Klötzer
+  dauerleihgabe: Frankfurter Sparkasse (125-jähriges Bestehen)
+  ueberarbeitung: 1998 anlässlich 150-Jahr-Feier der Deutschen Nationalversammlung
+  ueberarbeitung_durch: Institut für Stadtgeschichte
+  finanzierung_ueberarbeitung: 1822-Stiftung der Frankfurter Sparkasse
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 44-frankfurt/025
+ENTITÄT: symposium
+BEZEICHNUNG: Die Frankfurter Paulskirche: Ort der deutschen Demokratie
+QUELLE: https://www.stadtgeschichte-ffm.de/en/events/calendar/281/die-frankfurter-paulskirche-ort-der-deutschen-demokratie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  veranstalter: Institut für Stadtgeschichte / Hessische Landeszentrale für politische Bildung
+  ort: Karmeliterkloster, Refektorium
+  daten: 30. September und 1. Oktober 2019
+  vortrag_anzahl: neun Vorträge
+  zusatzprogramm: Stadtrundgang
+  teilnehmergebuehr: 20 Euro
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 44-frankfurt/026
+ENTITÄT: magazine
+BEZEICHNUNG: Tiefmagazin
+QUELLE: https://www.stadtgeschichte-ffm.de/de/info-und-service/ueber-uns/geschichte-des-instituts | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: vor dem Karmeliterkloster
+  erbaut: 1972
+  beschreibung: dreigeschossig
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 44-frankfurt/027
+ENTITÄT: magazine
+BEZEICHNUNG: Magazingebäude Seckbach
+QUELLE: https://www.stadtgeschichte-ffm.de/de/info-und-service/ueber-uns/geschichte-des-instituts | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Seckbach
+EIGENSCHAFTEN:
+  beschluss_jahr: 2004
+  flaechengroesse: 5.500 qm
+  grund_neubau: bessere Wirtschaftlichkeit und konservatorische Anforderungen
+  eroeffnung: Sommer 2006
+  anlass_neubau: Räumung des Magazins in der Großmarkthalle (verkauft an Europäische Zentralbank)
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 44-frankfurt/028
+ENTITÄT: ort
+BEZEICHNUNG: Frankfurt am Main
+QUELLE: https://www.stadtgeschichte-ffm.de/de/info-und-service/ueber-uns/geschichte-des-klosters | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Europastadt und Finanzmetropole
+  charakteristikum_kloester: Karmeliterkloster als einzige erhaltene mittelalterliche Klosteranlage
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90

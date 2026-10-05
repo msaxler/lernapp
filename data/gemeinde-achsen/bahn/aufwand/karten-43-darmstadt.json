@@ -1,0 +1,50 @@
+{
+ "stufe": "karten",
+ "ort": "43-darmstadt",
+ "prompt": "prompt-karten-v0.8.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 34021,
+ "token_ein": 36537,
+ "token_aus": 26952,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 29637,
+  "cache_read_input_tokens": 6898,
+  "output_tokens": 26952,
+  "output_tokens_details": {
+   "thinking_tokens": 18096
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 29637,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 26952,
+    "cache_read_input_tokens": 6898,
+    "cache_creation_input_tokens": 29637,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 29637
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.7775236,
+ "sekunden": 228,
+ "fehler": false,
+ "zeit": "2026-10-05T23:51:15"
+}

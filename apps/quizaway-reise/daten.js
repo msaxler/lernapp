@@ -6581,8 +6581,8 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "31-appenweier",
 "anschluss": [
-"Einwohner: Appenweier zählt rund 10.400, Renchen rund 7.600.",
-"Bundestagswahl 2025: Wahlbeteiligung in Appenweier 83,7, in Renchen 82,9 Prozent."
+"Renchen ist eine Stadt, Appenweier eine Gemeinde – dabei hat Appenweier rund 2.800 Einwohner mehr.",
+"Renchen und Appenweier liegen beide im Ortenaukreis."
 ],
 "km_vom_vorigen": 5.6
 },
@@ -6773,7 +6773,10 @@ window.QA_DATEN = {
 }
 ],
 "anschluss_von": "32-renchen",
-"anschluss": [],
+"anschluss": [
+"Achern hat gut dreieinhalbmal so viele Einwohner wie Renchen.",
+"Bundestagswahl 2025: In Renchen und in Achern lag die CDU vorn, beide Male mit 34,3 Prozent."
+],
 "km_vom_vorigen": 6.9
 },
 {
@@ -7588,8 +7591,8 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "03-rastatt",
 "anschluss": [
-"Einwohner: Rastatt hat gut viermal so viele wie Durmersheim.",
-"Bundestagswahl 2025: Stärkste Partei in Rastatt AfD, in Durmersheim CDU."
+"Bundestagswahl 2025: In Rastatt lag die AfD vorn, in Durmersheim die CDU.",
+"Durmersheim und Rastatt liegen beide im Landkreis Rastatt; Rastatt ist die Kreisstadt."
 ],
 "km_vom_vorigen": 10.5
 },
@@ -7781,8 +7784,8 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "33-durmersheim",
 "anschluss": [
-"Bundestagswahl 2025: Grüne vorn in Karlsruhe, CDU in Durmersheim.",
-"Einwohner: Karlsruhe hat gut 26-mal so viele wie Durmersheim."
+"Karlsruhe hat mehr als 25-mal so viele Einwohner wie Durmersheim.",
+"Kreisgrenze: Durmersheim liegt im Landkreis Rastatt, Karlsruhe ist eine kreisfreie Stadt."
 ],
 "km_vom_vorigen": 12.5
 },
@@ -7969,8 +7972,8 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "34-karlsruhe",
 "anschluss": [
-"Kennzeichen: In Karlsruhe und Stutensee steht KA am Auto.",
-"Bundestagswahl 2025: Grüne vorn in Karlsruhe, CDU vorn in Stutensee."
+"Bundestagswahl 2025: In Karlsruhe lagen die Grünen vorn, in Stutensee die CDU.",
+"Karlsruhe hat gut zwölfmal so viele Einwohner wie Stutensee."
 ],
 "km_vom_vorigen": 7.5
 },
@@ -8142,8 +8145,8 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "35-stutensee",
 "anschluss": [
-"Einwohner: Stutensee hat etwa doppelt so viele wie Graben-Neudorf.",
-"Nach Karlsruhe: Stutensee liegt 8 km entfernt, Graben-Neudorf 18 km."
+"Stutensee hat doppelt so viele Einwohner wie Graben-Neudorf.",
+"Stutensee ist eine Stadt, Graben-Neudorf eine Gemeinde; beide liegen im Landkreis Karlsruhe."
 ],
 "km_vom_vorigen": 10.6
 },
@@ -8334,8 +8337,8 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "36-graben-neudorf",
 "anschluss": [
-"Einwohner: Waghäusel hat fast doppelt so viele wie Graben-Neudorf.",
-"Bundestagswahl 2025: AfD in Waghäusel stärker als in Graben-Neudorf."
+"Waghäusel hat fast doppelt so viele Einwohner wie Graben-Neudorf.",
+"Bundestagswahl 2025: In Graben-Neudorf und in Waghäusel lag die CDU vorn; die AfD kam in Waghäusel auf 26,4 Prozent, in Graben-Neudorf auf 23,5."
 ],
 "km_vom_vorigen": 10.3
 },
@@ -8527,8 +8530,8 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "37-waghaeusel",
 "anschluss": [
-"Kennzeichen: In Hockenheim steht HD am Auto, in Waghäusel KA.",
-"Einwohner: Waghäusel zählt 22.301, Hockenheim 21.599."
+"Kreisgrenze: Waghäusel gehört zum Landkreis Karlsruhe, Hockenheim zum Rhein-Neckar-Kreis.",
+"Waghäusel und Hockenheim sind fast gleich groß: rund 22.300 und 21.600 Einwohner."
 ],
 "km_vom_vorigen": 7.9
 },
@@ -8740,8 +8743,8 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "38-hockenheim",
 "anschluss": [
-"Einwohner: Schwetzingen hat nur 265 mehr als Hockenheim.",
-"Fläche: Hockenheim ist mit 34,84 km² deutlich größer als Schwetzingen."
+"Hockenheim und Schwetzingen haben fast gleich viele Einwohner, rund 21.600 und 21.900 – Schwetzingen auf deutlich kleinerer Fläche.",
+"Hockenheim und Schwetzingen liegen beide im Rhein-Neckar-Kreis."
 ],
 "km_vom_vorigen": 7.4
 },
@@ -8913,8 +8916,8 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "39-schwetzingen",
 "anschluss": [
-"Kennzeichen: In Mannheim steht MA am Auto, in Schwetzingen HD.",
-"Bundestagswahl 2025: Zweite wurde in Mannheim SPD, in Schwetzingen AfD."
+"Mannheim hat fast fünfzehnmal so viele Einwohner wie Schwetzingen.",
+"Kreisgrenze: Schwetzingen liegt im Rhein-Neckar-Kreis, Mannheim ist eine kreisfreie Stadt."
 ],
 "km_vom_vorigen": 13.7
 },
@@ -9096,8 +9099,8 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "40-mannheim",
 "anschluss": [
-"Einwohner: Mannheim hat rund 25-mal so viele wie Ladenburg.",
-"Kennzeichen: In Ladenburg steht HD am Auto, in Mannheim MA."
+"Mannheim hat rund 25-mal so viele Einwohner wie Ladenburg.",
+"Bundestagswahl 2025: Auf Platz zwei kamen in Ladenburg die Grünen, in Mannheim die SPD."
 ],
 "km_vom_vorigen": 10.5
 },
@@ -9308,7 +9311,10 @@ window.QA_DATEN = {
 }
 ],
 "anschluss_von": "41-ladenburg",
-"anschluss": [],
+"anschluss": [
+"Weinheim hat gut dreieinhalbmal so viele Einwohner wie Ladenburg.",
+"Ladenburg und Weinheim liegen beide im Rhein-Neckar-Kreis; in beiden steht HD am Auto."
+],
 "km_vom_vorigen": 10.3
 },
 {
@@ -10103,6 +10109,392 @@ window.QA_DATEN = {
 "km_vom_vorigen": 4.6
 },
 {
+"slug": "42-seeheim-jugenheim",
+"name": "Seeheim-Jugenheim",
+"lat": 49.76667,
+"lon": 8.65,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Seeheim-Jugenheim",
+"steckbrief": "Gemeinde mit rund 16.000 Einwohnern, 12 km südlich von Darmstadt.",
+"frage": "1808 erwarb Großherzog Ludewig I. das Seeheimer Hofgut vom Amtmann Johann Georg Pistor. Welchen Grund nennt die Gemeinde dafür?",
+"optionen": [
+"Pistor hatte das Gut beim Kartenspiel verloren.",
+"Pistor starb kinderlos, das Gut fiel zurück.",
+"Pistor tauschte das Gut gegen ein Amt.",
+"Pistor fiel wegen Steuerkassen-Unregelmäßigkeiten in Ungnade."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Dass ein Gut nach dem Tod des Besitzers an den Landesherrn fällt, kam oft vor, deshalb liegt das nahe. Hier war es anders: Amtmann Pistor war wegen Unregelmäßigkeiten in der Steuerkasse in Ungnade gefallen. Aus dem Rokokopark wurde später ein englischer Landschaftspark, der weitgehend erhalten ist. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/schloss-seeheim/",
+"faktencheck": "bestätigt",
+"id": "42-seeheim-jugenheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Seeheim-Jugenheim",
+"steckbrief": "Gemeinde mit rund 16.000 Einwohnern, 12 km südlich von Darmstadt.",
+"frage": "Wie groß ist die Fläche der Gemeinde Seeheim-Jugenheim?",
+"optionen": [
+"unter 30 km²",
+"30 bis unter 50 km²",
+"50 bis unter 80 km²",
+"80 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Sieben Ortsteile lassen eine größere Fläche vermuten: Zu Seeheim und Jugenheim kommen Balkhausen, Malchen, Ober-Beerbach, Steigerts und Stettbach. Trotzdem misst die Gemeinde nur 28 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "42-seeheim-jugenheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Seeheim-Jugenheim",
+"steckbrief": "Gemeinde mit rund 16.000 Einwohnern, 12 km südlich von Darmstadt.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Aus Seeheims Amtmannshaus stammte ein großherzoglicher Staatsminister.",
+"Die Pest entvölkerte Balkhausen im Dreißigjährigen Krieg völlig.",
+"Britische Besatzer regten das Schuldorf Bergstraße an."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Dass ein Staatsminister aus dem Amtmannshaus kam, stimmt: Friedrich August von Lichtenberg diente Großherzog Ludewig I. Auch die Pest in Balkhausen ist belegt. Gelogen sind die britischen Besatzer: Die Idee zum Schuldorf kam von einem Berater der US-Besatzungsbehörde, passend für Hessen in der amerikanischen Zone. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/schuldorf-bergstrasse/",
+"faktencheck": "bestätigt",
+"id": "42-seeheim-jugenheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Seeheim-Jugenheim",
+"steckbrief": "Gemeinde mit rund 16.000 Einwohnern, 12 km südlich von Darmstadt.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Seeheim-Jugenheim?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 25 %",
+"25 bis unter 30 %",
+"30 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Gemeinde im Grünen vor der Großstadt lässt an eine stärkere CDU denken. Die CDU wurde zwar stärkste Partei, kam aber nur auf 28,6 Prozent der Zweitstimmen. Dahinter folgten Grüne und SPD. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "42-seeheim-jugenheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Seeheim-Jugenheim",
+"steckbrief": "Gemeinde mit rund 16.000 Einwohnern, 12 km südlich von Darmstadt.",
+"frage": "Woher hat der Ortsteil Jugenheim nach der Ortsgeschichte seinen Namen?",
+"optionen": [
+"Vom Wort Jugend, wegen junger Siedler.",
+"Von einem Joch, einem Bergpass im Odenwald.",
+"Von einer Quelle namens Jugenborn.",
+"Von einem Mann namens Gugo, also Hugo."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der heutige Name klingt nach Jugend, und das liegt nahe. Die Ortsgeschichte führt ihn aber auf einen Personennamen zurück: Gugo, also Hugo. Besiedelt war Jugenheim schon vor der urkundlichen Erwähnung; man fand ein Grab der steinzeitlichen Schnurkeramiker und eisenzeitliche Urnen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.seeheim-jugenheim.de/leben-wohnen/bildung-soziales/kommunalgeschichte/",
+"faktencheck": "bestätigt",
+"id": "42-seeheim-jugenheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Seeheim-Jugenheim",
+"steckbrief": "Gemeinde mit rund 16.000 Einwohnern, 12 km südlich von Darmstadt.",
+"frage": "Zu welchem Landkreis gehört Seeheim-Jugenheim?",
+"optionen": [
+"Darmstadt-Dieburg",
+"Bergstraße",
+"Groß-Gerau",
+"Odenwaldkreis"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Seeheimer Renaissance-Rathaus steht an der Bergstraße; das macht den gleichnamigen Kreis naheliegend. Seeheim-Jugenheim gehört aber zum Landkreis Darmstadt-Dieburg. Die Gemeinde entstand nach dem Gesetz zur Neugliederung der Landkreise Darmstadt und Dieburg. Richtig war 1.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "42-seeheim-jugenheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Seeheim-Jugenheim",
+"steckbrief": "Gemeinde mit rund 16.000 Einwohnern, 12 km südlich von Darmstadt.",
+"frage": "Alexander von Hessen, Stammvater der Mountbattens, wurde vom Zaren unehrenhaft aus dem russischen Heer entlassen. Welchen Anlass nennt die Gemeinde?",
+"optionen": [
+"Er hatte einen russischen Offizier im Duell getötet.",
+"Er hatte die Kammerzofe seiner Schwester geheiratet.",
+"Er hatte militärische Pläne an Preußen verraten.",
+"Er hatte beim Zaren hohe Spielschulden gemacht."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Duell wäre der klassische Skandal eines Offiziers. Doch Alexander heiratete in Breslau Julie von Hauke, die Kammerzofe seiner Schwester Marie. Der Großherzog erhob sie später zur Prinzessin von Battenberg; beide liegen auf dem Heiligenberg begraben. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/schloss-heiligenberg/",
+"faktencheck": "korrigiert",
+"id": "42-seeheim-jugenheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Seeheim-Jugenheim",
+"steckbrief": "Gemeinde mit rund 16.000 Einwohnern, 12 km südlich von Darmstadt.",
+"frage": "Die Burg Tannenberg bei Seeheim wurde nach drei Wochen Belagerung zerstört. Was war der Anlass?",
+"optionen": [
+"Von der Burg aus wurden Kaufleute überfallen.",
+"Bauern rächten sich für zu hohe Abgaben.",
+"Sie sollte einem neuen Schloss weichen.",
+"Fremde Truppen zerstörten sie im Religionskrieg."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele Burgen fielen fremden Truppen zum Opfer, daher liegt das nahe. Tannenberg aber war zur Raubritterburg geworden: Von dort wurden Kaufleute überfallen, bis umliegende Städte im Auftrag König Wenzels die Fehde erklärten. Bei Ausgrabungen fand man später die Tannenbergbüchse, eine frühe Handfeuerwaffe. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/burgruine-tannenberg/",
+"faktencheck": "korrigiert",
+"id": "42-seeheim-jugenheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Seeheim-Jugenheim",
+"steckbrief": "Gemeinde mit rund 16.000 Einwohnern, 12 km südlich von Darmstadt.",
+"frage": "Auf dem Heiligenberg bei Jugenheim steht ein Goldenes Kreuz. Woran erinnert es?",
+"optionen": [
+"Es erinnert an die Gefallenen eines Krieges.",
+"Es erinnert an die Opfer einer Seuche.",
+"Zwei Geschwister erinnern damit an ihre Mutter.",
+"Es markiert den Ort einer Marienerscheinung."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name Heiligenberg lässt an ein Wunder denken. Doch das Goldene Kreuz stifteten die Geschwister Marie und Alexander im Andenken an ihre Mutter Wilhelmine, die das Hofgut gekauft und zum Sommersitz gemacht hatte. Marie heiratete den späteren Zaren Alexander II. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.seeheim-jugenheim.de/freizeit-tourismus/aktiv-entdecken/sehenswertes/schloss-heiligenberg/",
+"faktencheck": "korrigiert",
+"id": "42-seeheim-jugenheim/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "21-zwingenberg",
+"anschluss": [
+"Kreisgrenze: In Zwingenberg steht HP am Auto, in Seeheim-Jugenheim DA.",
+"Bundestagswahl 2025: Grüne in Seeheim-Jugenheim 20, in Zwingenberg 15,8 Prozent."
+],
+"km_vom_vorigen": 5.6
+},
+{
+"slug": "43-darmstadt",
+"name": "Darmstadt",
+"lat": 49.86667,
+"lon": 8.65,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Darmstadt",
+"steckbrief": "Darmstadt ist eine hessische Großstadt mit rund 168.000 Einwohnern, 38 km Luftlinie von Wiesbaden.",
+"frage": "1929 wurde das Darmstädter Stadtarchiv eine eigenständige Dienststelle. Welchen Anlass nennt die Stadt dafür?",
+"optionen": [
+"Bomben hatten das alte Archiv zerstört.",
+"Die Stadt hatte einen neuen Ehrentitel erhalten.",
+"Ein großes Stadtjubiläum stand kurz bevor.",
+"Die Stadt wurde gerade Residenz eines Landesherrn."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bomben liegen nahe, weil Darmstadts Akten tatsächlich verloren gingen, doch das geschah erst in der Brandnacht. Die Stadt nennt einen festlichen Anlass: das bevorstehende 600-jährige Stadtjubiläum. Dafür wurde das Archiv eine eigenständige Dienststelle. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/ueber-uns/geschichte-des-stadtarchivs",
+"faktencheck": "bestätigt",
+"id": "43-darmstadt/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Darmstadt",
+"steckbrief": "Darmstadt ist eine hessische Großstadt mit rund 168.000 Einwohnern, 38 km Luftlinie von Wiesbaden.",
+"frage": "Wie groß ist das Stadtgebiet von Darmstadt?",
+"optionen": [
+"unter 60 km²",
+"60 bis unter 90 km²",
+"90 bis unter 120 km²",
+"120 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine kleinere Fläche liegt nahe, weil man sich eine Großstadt dicht bebaut vorstellt. Zum Stadtgebiet gehören aber auch ehemals selbstständige Orte wie Arheilgen, Eberstadt und Wixhausen. Zusammen sind es 122,07 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "43-darmstadt/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Darmstadt",
+"steckbrief": "Darmstadt ist eine hessische Großstadt mit rund 168.000 Einwohnern, 38 km Luftlinie von Wiesbaden.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ihr Stadtrecht erhielt Darmstadt von Kaiser Karl dem Großen.",
+"Ein Luftangriff vernichtete viele städtische Akten im Stadthaus.",
+"Als das Archivgebäude zerstört wurde, überdauerte Archivgut im Keller eines Bahnhofs."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Karl der Große ist ein sehr bekannter Kaiser, darum klingt die Lüge glaubhaft. Das Stadtrecht verlieh aber Kaiser Ludwig der Bayer. Wahr ist: In der Brandnacht verbrannten im Stadthaus viele städtische Akten. Ausgelagertes Archivgut überdauerte dagegen im Keller des ehemaligen Ludwigsbahnhofs. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.darmstadt.de/kultur/stadtgeschichte/stadtgeschichte-im-ueberblick",
+"faktencheck": "korrigiert",
+"id": "43-darmstadt/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Darmstadt",
+"steckbrief": "Darmstadt ist eine hessische Großstadt mit rund 168.000 Einwohnern, 38 km Luftlinie von Wiesbaden.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Darmstadt bei den Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"GRÜNE",
+"CDU",
+"SPD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt nahe, weil sie in Großstädten traditionell stark ist. In Darmstadt lagen die Grünen vorn, dahinter die CDU mit 19,1 Prozent, knapp vor der SPD mit 17,6 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "43-darmstadt/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Darmstadt",
+"steckbrief": "Darmstadt ist eine hessische Großstadt mit rund 168.000 Einwohnern, 38 km Luftlinie von Wiesbaden.",
+"frage": "1565 wird zum ersten Mal eine Truhe erwähnt, in der Darmstadt seine Urkunden, Gerichtsbücher und das Stadtsiegel aufbewahrte. Wo stand diese Truhe?",
+"optionen": [
+"In einem Turm der Stadtmauer.",
+"Im Haus des Stadtschreibers.",
+"In der Stadtkirche.",
+"In der Burg des Landesherrn."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Burg des Landesherrn liegt nahe, denn Darmstadt wurde bald darauf Residenzstadt. Die Truhe stand aber in der Stadtkirche, die damals als sicherer Ort galt. Später diente das Gewölbe des Alten Rathauses als Archiv. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/ueber-uns/geschichte-des-stadtarchivs",
+"faktencheck": "korrigiert",
+"id": "43-darmstadt/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Darmstadt",
+"steckbrief": "Darmstadt ist eine hessische Großstadt mit rund 168.000 Einwohnern, 38 km Luftlinie von Wiesbaden.",
+"frage": "Wie viele Menschen leben in Darmstadt im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 700",
+"700 bis unter 1.000",
+"1.000 bis unter 1.300",
+"1.300 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein niedrigerer Wert liegt nahe, weil Darmstadt viel kleiner ist als Frankfurt oder Köln. Rechnerisch leben aber rund 1.378 Menschen auf jedem Quadratkilometer. Richtig war 4.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "43-darmstadt/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Darmstadt",
+"steckbrief": "Darmstadt ist eine hessische Großstadt mit rund 168.000 Einwohnern, 38 km Luftlinie von Wiesbaden.",
+"frage": "Die Künstlerkolonie Mathildenhöhe in Darmstadt ist UNESCO-Welterbe. In welchem Jahr wurde sie in die Liste aufgenommen?",
+"optionen": [
+"Sie wurde 2021 aufgenommen.",
+"Sie wurde 1999 aufgenommen.",
+"Sie wurde 2011 aufgenommen.",
+"Sie wurde 2004 aufgenommen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein früheres Jahr liegt nahe, weil viele berühmte Welterbestätten schon seit Jahrzehnten auf der Liste stehen. Die Künstlerkolonie Mathildenhöhe kam aber erst 2021 dazu. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.darmstadt.de/kultur/stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "43-darmstadt/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Darmstadt",
+"steckbrief": "Darmstadt ist eine hessische Großstadt mit rund 168.000 Einwohnern, 38 km Luftlinie von Wiesbaden.",
+"frage": "Darmstadt nennt sich offiziell Wissenschaftsstadt. Seit wann trägt die Stadt diesen Titel?",
+"optionen": [
+"Den Titel trägt sie seit 1877.",
+"Den Titel trägt sie seit 1997.",
+"Den Titel trägt sie seit 1949.",
+"Den Titel trägt sie seit 1975."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein frühes Jahr liegt nahe, weil man bei Wissenschaft an alte Hochschulen und lange Traditionen denkt. Den Titel Wissenschaftsstadt führt Darmstadt aber erst seit 1997. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.darmstadt.de/kultur/stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "43-darmstadt/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Darmstadt",
+"steckbrief": "Darmstadt ist eine hessische Großstadt mit rund 168.000 Einwohnern, 38 km Luftlinie von Wiesbaden.",
+"frage": "Wann taucht Darmstadt zum ersten Mal in schriftlichen Quellen auf?",
+"optionen": [
+"Erstmals belegt ist er im 8. Jahrhundert.",
+"Erstmals belegt ist er Anfang des 14. Jahrhunderts.",
+"Erstmals belegt ist er Mitte des 12. Jahrhunderts.",
+"Erstmals belegt ist er Ende des 11. Jahrhunderts."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Das 8. Jahrhundert liegt nahe, weil viele Orte der Region schon in frühen Klosterurkunden auftauchen. Darmstadt wird aber erst Ende des 11. Jahrhunderts erstmals erwähnt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.darmstadt.de/kultur/stadtgeschichte/stadtgeschichte-im-ueberblick",
+"faktencheck": "korrigiert",
+"id": "43-darmstadt/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "42-seeheim-jugenheim",
+"anschluss": [
+"Einwohner: Darmstadt hat gut zehnmal so viele wie Seeheim-Jugenheim.",
+"Kennzeichen: In Darmstadt wie in Seeheim-Jugenheim steht DA am Auto."
+],
+"km_vom_vorigen": 11.1
+},
+{
 "slug": "22-langen",
 "name": "Langen",
 "lat": 49.98931,
@@ -10308,12 +10700,588 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "21-zwingenberg",
-"anschluss": [
-"Kreisgrenze: In Zwingenberg steht HP am Auto, in Langen OF.",
-"Langen hat gut fünfmal so viele Einwohner wie Zwingenberg."
+"anschluss_von": "43-darmstadt",
+"anschluss": [],
+"km_vom_vorigen": 13.8
+},
+{
+"slug": "44-frankfurt",
+"name": "Frankfurt am Main",
+"lat": 50.11056,
+"lon": 8.68222,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Frankfurt am Main",
+"steckbrief": "Rund 760.000 Einwohner, am Main in Hessen, 31 km Luftlinie von der Landeshauptstadt Wiesbaden.",
+"frage": "Die im Zweiten Weltkrieg fast völlig zerstörte Paulskirche wurde rasch wiederaufgebaut. Welcher Anlass bestimmte den Tag ihrer Wiedereinweihung?",
+"optionen": [
+"Man feierte hundert Jahre Deutsche Nationalversammlung.",
+"Man gedachte des Kriegsendes drei Jahre zuvor.",
+"Man feierte Goethes zweihundertsten Geburtstag.",
+"Man feierte die Gründung des Landes Hessen."
 ],
-"km_vom_vorigen": 30.0
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Nach der Zerstörung im Krieg läge ein Gedenken an das Kriegsende nahe. Doch die Wiedereinweihung fiel auf den Tag genau hundert Jahre nach Beginn der Deutschen Nationalversammlung in der Paulskirche. Oberbürgermeister Walter Kolb hatte den Wiederaufbau angestoßen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.stadtgeschichte-ffm.de/en/city-history/publications/42/die-paulskirche",
+"faktencheck": "bestätigt",
+"id": "44-frankfurt/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Frankfurt am Main",
+"steckbrief": "Rund 760.000 Einwohner, Großstadt am Main in Hessen, 31 km Luftlinie von Wiesbaden.",
+"frage": "Wie viele Einwohner leben in Frankfurt im Durchschnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 2.000",
+"2.000 bis unter 3.500",
+"3.500 bis unter 5.000",
+"5.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Großstadt dieser Größe erwartet man leicht 5.000 und mehr. Doch die 760.656 Einwohner verteilen sich auf 248,31 Quadratkilometer. Das ergibt rund 3.063 je Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "44-frankfurt/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Frankfurt am Main",
+"steckbrief": "Rund 760.000 Einwohner, Großstadt am Main, 31 km Luftlinie von der Landeshauptstadt Wiesbaden.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bevor Frankfurt ein eigenes Rathaus hatte, nutzte der Rat das Barfüßerkloster.",
+"Infolge der Reformation löste sich der Barfüßerkonvent selbst auf.",
+"Die Barfüßerkirche steht noch heute neben der Paulskirche."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein zweiter alter Kirchenbau gleich daneben klingt in einer Altstadt plausibel. Doch die Barfüßerkirche, später Hauptkirche der lutherischen Reichsstadt, wurde niedergelegt, um Platz für einen Neubau zu schaffen. Die Französische Revolution und ihre Kriege unterbrachen die Baupläne. Der Neubau wurde die Paulskirche. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.stadtgeschichte-ffm.de/en/city-history/publications/36/von-der-barfuesserkirche-zur-paulskirche",
+"faktencheck": "korrigiert",
+"id": "44-frankfurt/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Frankfurt am Main",
+"steckbrief": "Rund 760.000 Einwohner, Großstadt am Main in Hessen, 31 km Luftlinie von Wiesbaden.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Frankfurt die stärkste Partei?",
+"optionen": [
+"unter 16 %",
+"16 bis unter 20 %",
+"20 bis unter 23 %",
+"23 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In einer Großstadt verteilen sich die Stimmen auf viele Parteien, da wirkt ein schwacher Sieger naheliegend. Doch die CDU kam auf 24,3 Prozent der Zweitstimmen, vor den Grünen. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "44-frankfurt/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Frankfurt am Main",
+"steckbrief": "Rund 760.000 Einwohner, am Main in Hessen, 31 km Luftlinie von der Landeshauptstadt Wiesbaden.",
+"frage": "Auf Jörg Ratgebs Wandbild Christi Geburt im Karmeliterkloster ist hinter der Szene ein Gewölbe im Erdgeschoss zu sehen. Welche Erklärung nennt das Institut für Stadtgeschichte?",
+"optionen": [
+"Eine Schrift verlegte die Geburt in einen Keller.",
+"Ratgeb bildete den Kreuzgang des Klosters ab.",
+"Ein Ratsbeschluss verbot Stallszenen in Kirchenbildern.",
+"Ein Wasserschaden erzwang die Übermalung des Stalls."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Maler, der im Kloster arbeitet, könnte naheliegend dessen eigene Gewölbe abbilden. Doch nach dem Institut verweist das Gewölbe auf eine mittelalterliche Schriftquelle, nach der Jesus im Keller von Davids zerstörtem Haus geboren wurde. Im Bild knien Maria und Josef vor dem nackten Jesuskind. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.stadtgeschichte-ffm.de/de/info-und-service/ueber-uns/wandbilder",
+"faktencheck": "korrigiert",
+"id": "44-frankfurt/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Frankfurt am Main",
+"steckbrief": "Rund 760.000 Einwohner, Großstadt am Main in Hessen, 31 km Luftlinie von Wiesbaden.",
+"frage": "Welches Kennzeichen tragen die meisten in Frankfurt zugelassenen Autos?",
+"optionen": [
+"OF",
+"F",
+"MTK",
+"HG"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele Kennzeichen haben zwei oder drei Buchstaben, deshalb wirken OF, MTK oder HG naheliegend. Frankfurt am Main kommt mit einem einzigen Buchstaben aus: F. Richtig war 2.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "44-frankfurt/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Frankfurt am Main",
+"steckbrief": "Rund 760.000 Einwohner, am Main in Hessen, 31 km Luftlinie von der Landeshauptstadt Wiesbaden.",
+"frage": "Das Institut für Stadtgeschichte musste sein Magazin in der Großmarkthalle räumen. An wen war die Halle verkauft worden?",
+"optionen": [
+"Sie wurde an die Deutsche Bundesbank verkauft.",
+"Sie wurde an die Goethe-Universität verkauft.",
+"Sie wurde an die Europäische Zentralbank verkauft.",
+"Sie wurde an die Messe Frankfurt verkauft."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Finanzmetropole denkt man zuerst an die Deutsche Bundesbank. Doch die Großmarkthalle war an die Europäische Zentralbank verkauft worden. Die Stadt ließ deshalb in Seckbach ein neues Magazin bauen. Den Ausschlag gab die errechnete bessere Wirtschaftlichkeit, und der Bau sollte konservatorischen Belangen genügen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.stadtgeschichte-ffm.de/de/info-und-service/ueber-uns/geschichte-des-instituts",
+"faktencheck": "korrigiert",
+"id": "44-frankfurt/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Frankfurt am Main",
+"steckbrief": "Rund 760.000 Einwohner, am Main in Hessen, 31 km Luftlinie von Wiesbaden.",
+"frage": "Der Bolongaropalast in Höchst erinnert an Versailles. Wozu diente er der Familie Bolongaro ursprünglich?",
+"optionen": [
+"Er war das Jagdschloss der Familie.",
+"Er war Handelshaus und Tabakfabrik zugleich.",
+"Er war ein Gästehaus für reisende Fürsten.",
+"Er war ein Kurhaus für Badegäste."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Bau, der an Versailles erinnert, scheint für Hof und Jagd gemacht. Doch die Bolongaro waren eine Kaufmannsdynastie, die mit Schnupftabak handelte. Ihren Palast in Höchst errichteten sie als Handelshaus und Tabakfabrik. Das Vorbild Versailles schimmert auch in der Gartenanlage durch. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.stadtgeschichte-ffm.de/en/events/calendar/295/familie-bolongaro-kaufmannsdynastie-und-schlossherren",
+"faktencheck": "korrigiert",
+"id": "44-frankfurt/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Frankfurt am Main",
+"steckbrief": "Rund 760.000 Einwohner, Großstadt am Main in Hessen, 31 km Luftlinie von Wiesbaden.",
+"frage": "Die Wandmalereien im Karmeliterkloster wurden 1980 bis 1986 restauriert. Woher kam das Team, das die Arbeit ausführte?",
+"optionen": [
+"Ein Team aus Florenz übernahm die Restaurierung.",
+"Ein Team aus Dresden übernahm die Restaurierung.",
+"Ein Team aus Wien übernahm die Restaurierung.",
+"Ein Team aus Warschau übernahm die Restaurierung."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei alter Wandmalerei denkt man an Italien und seine Fresken. Doch die Restaurierung führte ein Restauratorenteam aus Warschau aus. Gemalt hatte die Bilder Jörg Ratgeb aus Schwäbisch Gmünd, ein Zeitgenosse Albrecht Dürers; bezahlt wurden sie von Stiftern. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.stadtgeschichte-ffm.de/de/info-und-service/ueber-uns/geschichte-des-klosters und www.stadtgeschichte-ffm.de/de/info-und-service/ueber-uns/wandbilder",
+"faktencheck": "korrigiert",
+"id": "44-frankfurt/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "22-langen",
+"anschluss": [
+"Einwohner: Frankfurt hat knapp zwanzigmal so viele wie Langen.",
+"Fläche: Frankfurt ist gut achtmal so groß wie Langen."
+],
+"km_vom_vorigen": 13.5
+},
+{
+"slug": "45-mainz",
+"name": "Mainz",
+"lat": 49.99944,
+"lon": 8.27361,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mainz",
+"steckbrief": "Landeshauptstadt von Rheinland-Pfalz mit rund 224.000 Einwohnern.",
+"frage": "Finthen ist heute ein Stadtteil von Mainz. Woher stammt sein Name nach der Ortsgeschichte der Stadt?",
+"optionen": [
+"Er stammt von den Finken der Gegend ab.",
+"Er geht auf einen Franken namens Fintho zurück.",
+"Er kommt vom finsteren Wald um den Ort.",
+"Er stammt von römisch „ad fontes“ ab."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Finthen klingt nach Finken, und Vögel stecken in manchem Ortsnamen. Die Stadt Mainz leitet den Namen aber von römisch „ad fontes“ ab: an den Quellen. Besiedelt war die Gegend schon lange vor den Römern. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.mainz.de/startseite-mainz.de/stadtteile/finthen/finthen",
+"faktencheck": "bestätigt",
+"id": "45-mainz/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mainz",
+"steckbrief": "Landeshauptstadt von Rheinland-Pfalz, knapp 98 Quadratkilometer groß.",
+"frage": "Wie viele Einwohner hat die Stadt Mainz?",
+"optionen": [
+"unter 250.000",
+"250.000 bis unter 300.000",
+"300.000 bis unter 400.000",
+"400.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Landeshauptstadt, Universität, Dom: Das klingt nach einer großen Metropole. Tatsächlich zählte Mainz Ende 2025 223.888 Einwohner und blieb damit unter einer Viertelmillion. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "45-mainz/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Mainz",
+"steckbrief": "Landeshauptstadt von Rheinland-Pfalz am Rhein, rund 224.000 Einwohner.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Laubenheim am Rhein blieb von Überschwemmungen stets verschont.",
+"Die Kupferberg-Keller stammen teils aus römischer Zeit.",
+"Die Gonsenheimer Stephanskirche wird auch „Rheinhessendom“ genannt."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. „Rheinhessendom“ klingt übertrieben, doch so wird die Gonsenheimer Stephanskirche mit ihren Doppeltürmen wirklich genannt. Auch die Kupferberg-Keller auf dem Kästrich reichen in die Römerzeit zurück. Gelogen war Laubenheim: Der Ort litt stets unter Überschwemmungen, bis nach dem Zweiten Weltkrieg ein Uferdamm Abhilfe schuf. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.mainz.de/startseite-mainz.de/stadtteile/laubenheim/laubenheim; www.mainz.de/startseite-mainz.de/stadtteile/oberstadt/oberstadt; www.mainz.de/startseite-mainz.de/stadtteile/gonsenheim/gonsenheim",
+"faktencheck": "korrigiert",
+"id": "45-mainz/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Mainz",
+"steckbrief": "Landeshauptstadt von Rheinland-Pfalz und Universitätsstadt, rund 224.000 Einwohner.",
+"frage": "Welche Partei wurde in Mainz bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"GRÜNE",
+"CDU",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die CDU als Wahlsiegerin hätten viele erwartet. In Mainz lagen aber knapp die Grünen vorn, mit 24,1 Prozent. Die CDU folgte mit 23,7 Prozent auf Platz zwei, die SPD mit 18,1 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "45-mainz/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mainz",
+"steckbrief": "Landeshauptstadt von Rheinland-Pfalz mit rund 224.000 Einwohnern.",
+"frage": "Goethe lag 1793 mit dem Weimarer Herzog vor dem belagerten Mainz. Woran schrieb er im Chausseehaus in Marienborn?",
+"optionen": [
+"Er schrieb dort am „Werther“.",
+"Er schrieb dort am „Götz von Berlichingen“.",
+"Er schrieb dort an der „Iphigenie“.",
+"Er schrieb dort an „Reinecke Fuchs“."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Goethe denkt man zuerst an die berühmten Jugendwerke wie den Werther. Im Chausseehaus in Marienborn entstanden nach der Ortsgeschichte aber Teile von „Reinecke Fuchs“. Prominente Gäste in Marienborn waren damals auch Heinrich von Kleist und Carl von Clausewitz. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.mainz.de/startseite-mainz.de/stadtteile/marienborn/marienborn",
+"faktencheck": "unsicher",
+"id": "45-mainz/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Mainz",
+"steckbrief": "Landeshauptstadt von Rheinland-Pfalz mit rund 224.000 Einwohnern.",
+"frage": "Mainz pflegt Städtepartnerschaften auf mehreren Kontinenten. Welche dieser afrikanischen Hauptstädte ist Partnerstadt von Mainz?",
+"optionen": [
+"Kigali",
+"Nairobi",
+"Accra",
+"Dakar"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Nairobi ist die bekannteste dieser Hauptstädte und läge nahe. Doch Mainz ist Landeshauptstadt, und Rheinland-Pfalz ist eng mit Ruanda verbunden. Dazu passt Kigali. Weitere Partnerstädte sind etwa Watford, Dijon, Zagreb, Haifa und Louisville. Richtig war 1.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "45-mainz/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mainz",
+"steckbrief": "Landeshauptstadt von Rheinland-Pfalz mit rund 224.000 Einwohnern.",
+"frage": "Der Minnesänger Frauenlob starb 1318 in Mainz. Was soll bei seinem Begräbnis geschehen sein?",
+"optionen": [
+"Sein Sarg soll im Rhein versunken sein.",
+"Mainzer Frauen sollen ihn zu Grabe getragen haben.",
+"Man soll ihn heimlich bei Nacht begraben haben.",
+"Mainzer Sänger sollen ihn zu Grabe getragen haben."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Dass Sänger einen Sänger zu Grabe tragen, wäre naheliegend. Doch der Beiname verrät es: Heinrich von Meißen, genannt Frauenlob, besang das Lob der Frauen. Der Überlieferung nach sollen ihn Mainzer Frauen zu Grabe getragen haben. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.mainz.de/startseite-mainz.de/stadtteile/neustadt/neustadt",
+"faktencheck": "bestätigt",
+"id": "45-mainz/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mainz",
+"steckbrief": "Landeshauptstadt von Rheinland-Pfalz mit rund 224.000 Einwohnern.",
+"frage": "1969 kamen sechs Gemeinden zu Mainz. Was unterschied Ebersheim dabei von den anderen?",
+"optionen": [
+"Ebersheim lag der Mainzer Stadtmitte am nächsten.",
+"Nur Ebersheim bekam danach keinen Stadtbus.",
+"Ebersheim kam als einzige freiwillig zu Mainz.",
+"Nur Ebersheim wurde per Gerichtsurteil eingemeindet."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "„Du hattest [Option] getippt. Ein Gerichtsstreit liegt nahe, denn Gemeinden wehren sich oft gegen den Verlust ihrer Selbständigkeit. Ebersheim aber, das Tor nach Rheinhessen und nach Angaben der Stadt am weitesten von der Stadtmitte entfernt, kam als einzige der sechs freiwillig. Danach bekam es Anschluss an den Stadtbus. Richtig war 3.“",
+"quelle": "Gemeinde-Webseite, www.mainz.de/startseite-mainz.de/stadtteile/ebersheim/ebersheim",
+"faktencheck": "korrigiert",
+"id": "45-mainz/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mainz",
+"steckbrief": "Landeshauptstadt von Rheinland-Pfalz mit rund 224.000 Einwohnern.",
+"frage": "Woher stammte der Architekt, der das Mainzer Rathaus entwarf?",
+"optionen": [
+"Ein Däne entwarf das Mainzer Rathaus.",
+"Ein Franzose entwarf das Mainzer Rathaus.",
+"Ein Italiener entwarf das Mainzer Rathaus.",
+"Ein Mainzer Baumeister entwarf das Rathaus."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein heimischer Baumeister läge nahe, schließlich musste Mainz nach dem Krieg viel neu bauen: Fast das ganze Stadtgebiet lag in Schutt und Asche. Das Rathaus entwarf aber der dänische Architekt Arne Jacobsen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.mainz.de/startseite-mainz.de/stadtteile/altstadt/altstadt",
+"faktencheck": "bestätigt",
+"id": "45-mainz/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "44-frankfurt",
+"anschluss": [
+"Einwohner: Frankfurt zählt über dreimal so viele wie Mainz.",
+"Bundestagswahl 2025: In Mainz siegten Grüne, in Frankfurt CDU."
+],
+"km_vom_vorigen": 31.7
+},
+{
+"slug": "46-wiesbaden",
+"name": "Wiesbaden",
+"lat": 50.0825,
+"lon": 8.24,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wiesbaden",
+"steckbrief": "Hessische Landeshauptstadt mit rund 289.000 Einwohnern, am rechten Rheinufer gegenüber Mainz.",
+"frage": "Am Kurhaus steht die lateinische Inschrift „Aquis Mattiacis“. Wem ist das Haus damit gewidmet?",
+"optionen": [
+"Es ist dem Gott Merkur gewidmet.",
+"Es ist Kaiser Wilhelm II. gewidmet.",
+"Es ist den Wassern der Mattiaker gewidmet.",
+"Es ist dem Haus Nassau gewidmet."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Prachtbau liegt eine Widmung an den Kaiser nahe. Doch „Aquis Mattiacis“ heißt „den Wassern der Mattiaker“. Die Römer nannten den Ort Aquae Mattiacorum. Schon sie nutzten die heißen Quellen, und bis heute speisen diese Thermalbäder. Richtig war 3.",
+"quelle": "Landeshauptstadt Wiesbaden, wiesbaden.de/en/microsite/blog/wiesbaden-und-seine-quellen",
+"faktencheck": "korrigiert",
+"id": "46-wiesbaden/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wiesbaden",
+"steckbrief": "Hessische Landeshauptstadt mit rund 289.000 Einwohnern, am rechten Rheinufer gegenüber Mainz.",
+"frage": "Wie groß ist das Wiesbadener Stadtgebiet?",
+"optionen": [
+"unter 100 km²",
+"100 bis unter 150 km²",
+"150 bis unter 200 km²",
+"200 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Großstadt stellt man sich dicht bebaut und kompakt vor. Doch das Wiesbadener Stadtgebiet misst knapp 204 Quadratkilometer und reicht bis an den Rhein. Richtig war 4.",
+"quelle": "Wikidata P2046 (203,93 km²); Altbestand staedte.json (203,87 km²)",
+"faktencheck": "bestätigt",
+"id": "46-wiesbaden/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Wiesbaden",
+"steckbrief": "Hessische Landeshauptstadt mit rund 289.000 Einwohnern, am rechten Rheinufer gegenüber Mainz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Nerobergbahn fährt mit Wasser als Ballast.",
+"Der Faulbrunnen ist Wiesbadens heißeste Quelle.",
+"Im Biebricher Schlosspark steht eine künstliche Ruine."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wasser als Ballast klingt erfunden, doch so fährt die Nerobergbahn. Die Mosburg im Biebricher Schlosspark wirkt mittelalterlich, entstand aber erst 1806 bis 1816. Gelogen war der Faulbrunnen: Er ist kühl und riecht nach Schwefel. Am heißesten ist der Kochbrunnen. Die Lüge war 2.",
+"quelle": "Landeshauptstadt Wiesbaden, Stadtlexikon (Faulbrunnen, Mosburg); ESWE Verkehr",
+"faktencheck": "korrigiert",
+"id": "46-wiesbaden/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wiesbaden",
+"steckbrief": "Hessische Landeshauptstadt mit rund 289.000 Einwohnern, am rechten Rheinufer gegenüber Mainz.",
+"frage": "Wie hoch war die Wahlbeteiligung in Wiesbaden bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 80 %",
+"80 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Bundestagswahl 2025 mobilisierte bundesweit stark, da liegt ein Wert über 80 Prozent nahe. Wiesbaden blieb mit 79,7 Prozent knapp darunter. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "46-wiesbaden/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wiesbaden",
+"steckbrief": "Hessische Landeshauptstadt mit rund 289.000 Einwohnern, am rechten Rheinufer gegenüber Mainz.",
+"frage": "Dostojewski verspielte 1865 auf einer Deutschlandreise seine Reisekasse. Wiesbaden wurde Vorlage für einen Ort in „Der Spieler“. Wie heißt er?",
+"optionen": [
+"Die Stadt heißt im Roman Goldbaden.",
+"Die Stadt heißt im Roman Kurhausen.",
+"Die Stadt heißt im Roman Roulettenburg.",
+"Die Stadt heißt im Roman Fortunabad."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Name mit „Bad“ liegt bei einer Kurstadt nahe. Dostojewski wählte aber das Spiel selbst: Roulettenburg. Auch Bad Homburg sieht sich als Vorbild, Fachleute denken eher an Wiesbaden. Eine Büste im Kurpark erinnert an seine Besuche in der Spielbank. Richtig war 3.",
+"quelle": "Landeshauptstadt Wiesbaden, Stadtlexikon „Dostojewskibüste“; Wiener Zeitung",
+"faktencheck": "korrigiert",
+"id": "46-wiesbaden/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Wiesbaden",
+"steckbrief": "Hessische Landeshauptstadt mit rund 289.000 Einwohnern, am rechten Rheinufer gegenüber Mainz.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Wiesbaden?",
+"optionen": [
+"MZ",
+"RÜD",
+"F",
+"WI"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. MZ ist verlockend, denn Mainz liegt direkt gegenüber. Doch Wiesbaden hat sein eigenes Kürzel: Auf den meisten Autos steht WI. Richtig war 4.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "46-wiesbaden/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wiesbaden",
+"steckbrief": "Hessische Landeshauptstadt mit rund 289.000 Einwohnern, am rechten Rheinufer gegenüber Mainz.",
+"frage": "Die Stadt Wiesbaden vergibt jährlich einen Preis für Zivilcourage. Nach wem ist er benannt?",
+"optionen": [
+"Er ist nach Ludwig Beck benannt.",
+"Er ist nach Sophie Scholl benannt.",
+"Er ist nach Claus von Stauffenberg benannt.",
+"Er ist nach Georg Elser benannt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Beim Widerstand denken viele zuerst an Stauffenberg oder die Geschwister Scholl. Der Preis ehrt aber einen Sohn der Stadt: General Ludwig Beck stammte aus Wiesbaden, war am Attentat auf Hitler beteiligt und bezahlte mit seinem Leben. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Wiesbaden",
+"faktencheck": "unsicher",
+"id": "46-wiesbaden/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wiesbaden",
+"steckbrief": "Hessische Landeshauptstadt mit rund 289.000 Einwohnern, am rechten Rheinufer gegenüber Mainz.",
+"frage": "Wo tragen die Eishockeyspieler des EV Wiesbaden, die Icetigers, ihre Spiele aus?",
+"optionen": [
+"Sie spielen in einer umgebauten Messehalle.",
+"Sie spielen auf einer Eisbahn unter freiem Himmel.",
+"Sie spielen in einer Halle im Nachbarort.",
+"Sie spielen in einer neuen Mehrzweckarena."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eishockey wird meist in Hallen gespielt, das macht jede Hallen-Theorie plausibel. Die Icetigers spielen aber unter freiem Himmel, auf der Henkell-Kunsteisbahn. Erst ab 2028 soll eine neue Eisarena im Sportpark Rheinhöhe ihre Heimat werden. Richtig war 2.",
+"quelle": "EV Wiesbaden (evwiesbaden.de); mattiaqua, Landeshauptstadt Wiesbaden",
+"faktencheck": "korrigiert",
+"id": "46-wiesbaden/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wiesbaden",
+"steckbrief": "Hessische Landeshauptstadt mit rund 289.000 Einwohnern, am rechten Rheinufer gegenüber Mainz.",
+"frage": "Mainz-Kastel, Mainz-Kostheim und Mainz-Amöneburg liegen rechts des Rheins und gehören zu Wiesbaden. Seit wann?",
+"optionen": [
+"Sie kamen 1815 zu Wiesbaden.",
+"Sie kamen 1926 zu Wiesbaden.",
+"Sie kamen 1945 zu Wiesbaden.",
+"Sie kamen 1977 zu Wiesbaden."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. „Mainz“ im Namen lässt an eine späte Neuordnung denken, etwa eine Gebietsreform. Doch schon 1945 trennte die amerikanische Militärregierung die drei rechtsrheinischen Mainzer Stadtteile ab und gliederte sie Wiesbaden an. Seitdem gehören sie zur Stadt. Richtig war 3.",
+"quelle": "Landeshauptstadt Wiesbaden, Stadtlexikon „Kastel“, „Kostheim“",
+"faktencheck": "korrigiert",
+"id": "46-wiesbaden/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "45-mainz",
+"anschluss": [
+"Einwohner: Wiesbaden hat rund 65.000 mehr als Mainz.",
+"Bundestagswahl 2025: CDU gewann in Wiesbaden, die Grünen in Mainz."
+],
+"km_vom_vorigen": 9.5
 },
 {
 "slug": "23-walluf",
@@ -10481,12 +11449,9 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "22-langen",
-"anschluss": [
-"Langen hat rund 39.000 Einwohner, Walluf nur etwa 5.500.",
-"Bundestagswahl 2025: In Walluf wählten 88 Prozent, in Langen 83."
-],
-"km_vom_vorigen": 38.0
+"anschluss_von": "46-wiesbaden",
+"anschluss": [],
+"km_vom_vorigen": 7.9
 },
 {
 "slug": "04-eltville",

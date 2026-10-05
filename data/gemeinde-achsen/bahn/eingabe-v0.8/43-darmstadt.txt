@@ -1,0 +1,406 @@
+ZIELORT: Darmstadt (Stadt)
+LAGE: 1 km südlich von Darmstadt (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Darmstadt
+
+GRUNDDATEN:
+  bundesland: Hessen  [dewiki Infobox]
+  einwohner: 168.253  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 122,07  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 1378  [berechnet aus Einwohner und Fläche]
+  kfz: DA (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 144 | 148  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2938913)]
+  naechste_grossstadt: Darmstadt, 1 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Wiesbaden, 38 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Darmstadt Nord, Bahnhof Darmstadt Ost, Bahnhof Darmstadt Süd, Bahnhof Darmstadt-Arheilgen, Bahnhof Darmstadt-Eberstadt, Bahnhof Darmstadt-Kranichstein, Darmstadt Hauptbahnhof, Darmstadt Ludwigsbahnhof, Darmstadt Main-Neckar-Bahnhof, Haltepunkt Bessunger Forsthaus, Haltepunkt Darmstadt TU-Lichtwiese, Haltepunkt Darmstadt-Wixhausen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 64283–64297  [Wikidata P281]
+  vorwahl: 06150, 06151, 06159  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: GRÜNE 24,8 %, CDU 19,1 %, SPD 17,6 %, Die Linke 15,3 %, AfD 10,3 %; Wahlbeteiligung 84,7 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Hanno Benz (SPD) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-05]
+  partnerstaedte: Saanen, Alkmaar, Troyes, Chesterfield, Graz, Trondheim, Bursa, Płock, Szeged, Gyönk, Freiberg, Brescia, Uschhorod, Libau, Logroño, San Antonio  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Kennzeichen), C, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Seeheim-Jugenheim (Gemeinde)
+  landkreis: Darmstadt-Dieburg  [dewiki Infobox]
+  einwohner: 16.376  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 28  [Wikidata P2046]
+  kfz: DA (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 224 | 135 | 170 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 3337504)]
+  naechste_grossstadt: Darmstadt, 12 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 28,6 %, GRÜNE 20 %, SPD 18,5 %, AfD 12,8 %, Die Linke 6,4 %, FDP 6,2 %; Wahlbeteiligung 86,8 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Frankfurt am Main, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar
+
+FAKTEN (Zielort Darmstadt):
+ID: 43-darmstadt/001
+ENTITÄT: ort
+BEZEICHNUNG: Darmstadt
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadtrecht_verliehen: 23. Juli 1330
+  stadtrecht_verliehen_durch: Kaiser Ludwig der Bayer
+  ersterwähnung: Ende 11. Jahrhundert
+  residenzstadt: true
+  residenzstadt_seit: 1567
+  residenzstadt_landgrafschaft: Hessen-Darmstadt
+  großherzogtum: Hessen
+  großherzogtum_seit: 1806
+  volksstaat: Hessen
+  volksstaat_seit: Nach Erster Weltkrieg
+  wissenschaftsstadt_title: true
+  wissenschaftsstadt_seit: 1997
+  europa_preisträger: true
+  europa_preisträger_seit: 1975
+  wohngebiet: Metropolregion Rhein-Main
+  größter_reichswehrstandort_süddeutschlands: true
+  größter_reichswehrstandort_jahr: 1938
+  deportation_jüdische_bevölkerung: über 3.000 Menschen
+GUELTIG_AB: 1330
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 43-darmstadt/002
+ENTITÄT: luftangriff
+BEZEICHNUNG: Brandnacht Darmstadt
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtgeschichte-im-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 11.-12. September 1944
+  beschreibung: Zerstörung der Stadt Darmstadt
+  aktenvernichtung: Totalverlust städtische Akten ca. 1880–1944
+  aktenvernichtung_ort: Stadthaus
+  historische_bedeutung: furchbarsten und folgenreichsten Einschnitt in der Darmstädter Geschichte
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 43-darmstadt/003
+ENTITÄT: institution
+BEZEICHNUNG: Stadtarchiv Darmstadt
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/ueber-uns/geschichte-des-stadtarchivs | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_eigenständige_dienststelle: 1929
+  gründung_anlass: 600-jähriges Stadtjubiläum 1930
+  gründungsort: Hügelstraße
+  archivgebäude_zerstört: 1944
+  archivgut_lagerung_nach_1944: Keller ehemaliger Ludwigsbahnhof am Steubenplatz
+  provisorische_unterkunft_nach_krieg: Dachgeschoss Eleonorenschule
+  staatsarchiv_aufbewahrung: 1949
+  staatsarchiv_standort: Darmstädter Schloss
+  heutiger_standort: Haus der Geschichte
+  standort_seit: 1994
+  archivsatzung: 1993
+  unabhängigkeit_hessisches_staatsarchiv: true
+  webseite_online_seit: 2016
+  archivinformationssystem: Arcinsys
+  arcinsys_einführung: August 2017
+  blog: true
+  blog_seit: 2018
+  social_media: true
+  social_media_seit: 2018
+  kunstdepot_fertigstellung: 2023
+  kunstdepot_adresse: Mainzer Straße
+  außenmagazine_aufgelöst: 2
+  archivsatzung_aktualisierung: 2023
+GUELTIG_AB: 1929
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 43-darmstadt/004
+ENTITÄT: institution
+BEZEICHNUNG: Haus der Geschichte
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/ueber-uns/bestellung-von-publikationen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Karolinenplatz 3, 64289 Darmstadt
+  öpnv_haltestelle: Luisenplatz
+  postfach: Postfach 11 10 61, 64225 Darmstadt
+  e_mail: stadtarchiv@darmstadt.de
+  telefon: 06151/13 4150
+  lesesaal_öffnungszeiten: Montag-Freitag 9 bis 17:30 Uhr
+  beratung_öffnungszeiten_dienstag_freitag: 9 bis 13 Uhr
+  beratung_öffnungszeiten_dienstag_donnerstag: 14 bis 16 Uhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 43-darmstadt/005
+ENTITÄT: institution
+BEZEICHNUNG: Kunstdepot Darmstadt
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/ueber-uns/geschichte-des-stadtarchivs | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Mainzer Straße
+  fertigstellung: 2023
+  funktion: Magazinkapazitäten für Archivgut
+  optimale_bedingungen_für: archivfachliche Arbeiten und Digitalisierung von Archivgut
+  effekt: Auflösung von zwei Außenmagazinen
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 43-darmstadt/006
+ENTITÄT: person
+BEZEICHNUNG: Dr. Sandra Zimmermann
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/ueber-uns/team | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Archivleitung
+  arbeitsbereiche: Städtische Ämter und Dienststellen vor 1945, Private Archivbestände, Museale Sammlungen, Konzeption von stadthistorischen Vorträgen, Publikationen und Ausstellungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 43-darmstadt/007
+ENTITÄT: person
+BEZEICHNUNG: Rebekka Friedrich
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/ueber-uns/team | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Stellvertretende Archivleitung
+  arbeitsbereiche: Städtische Ämter und Dienststellen nach 1945, Beratung zu Schriftgutverwaltung, Aussonderung und Anbietung, Digitale Öffentlichkeitsarbeit, Digitale Langzeitarchivierung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 43-darmstadt/008
+ENTITÄT: person
+BEZEICHNUNG: Sabine Lemke
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/ueber-uns/team | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  arbeitsbereiche: Fotosammlung, Plakat- und Kartensammlung, Bibliothek
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 43-darmstadt/009
+ENTITÄT: person
+BEZEICHNUNG: Anke Leonhardt
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/ueber-uns/team | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  arbeitsbereiche: Biografische Sammlung, Zeitgeschichtliche Sammlung, Grafische Sammlung, Stadtlexikon
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 43-darmstadt/010
+ENTITÄT: person
+BEZEICHNUNG: Johannes Dorn
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/ueber-uns/team | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  arbeitsbereiche: Übernahme und Erschließung von Aktenbeständen nach 1945, Unterstützung bei Schriftgutverwaltung, Aussonderung und Anbietung, Personenrecherchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 43-darmstadt/011
+ENTITÄT: person
+BEZEICHNUNG: Jan Dittrich
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/ueber-uns/team | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  arbeitsbereiche: Städtische Ämter und Dienststellen nach 1945, Digitale Langzeitarchivierung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 43-darmstadt/012
+ENTITÄT: person
+BEZEICHNUNG: Michaela Krone
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/ueber-uns/team | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  arbeitsbereiche: Digitalisierung von Archivgut, Übernahme und Erschließung von Archivgut, Magazinverwaltung, Personenrecherchen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 43-darmstadt/013
+ENTITÄT: institution
+BEZEICHNUNG: Stadtlexikon Darmstadt
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtlexikon | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erscheinung_gedruckt: Mai 2006
+  online_verfügbar_seit: 2016
+  wachstum: kontinuierlich
+  artikel_aktualisierung: regelmäßig
+  redaktion: Stadtarchiv Darmstadt
+  redaktionskontakt: stadtlexikon@darmstadt.de
+  inhalte: Geschichte, Kunst, Kultur, Architektur, Technik, Tier- und Pflanzenwelt, Literatur, Wissenschaft, Gesundheits- und Sozialwesen, Sport, Kirche, Politik und Gesellschaft, Gebäude, Schulen, Vereine, Firmen, Institutionen, Biografien bedeutender Personen
+  besonderheit: umfangreiche Bibliographie zu stadthistorischen Themen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 43-darmstadt/014
+ENTITÄT: sammlung
+BEZEICHNUNG: Archivbestände Stadtarchiv Darmstadt
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/archivnutzung/bestaende | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  akten_umfang: über 3 laufende Kilometer
+  akten_zeitraum: ausgehendes 15. Jahrhundert bis heute
+  karten_und_pläne: ca. 5.000
+  fotos: 50.000
+  zeichnungen_und_grafik: 10.000 Blatt
+  bibliothek_bände: 18.000
+  nachlässe_und_deposita: Privatpersonen, Vereine, Vereinigungen
+  schularchive: Darmstädter Schulen
+  biographisches_material: true
+  zeitgeschichtliche_sammlung: true
+  postkarten: true
+  münzsammlung: true
+  film_und_tondokumente: true
+  ortsteile_und_gemeinden: Bessungen, Arheilgen, Eberstadt, Wixhausen, Kranichstein
+  recherchesystem: Arcinsys
+  aktenverlust_1880_1944: ca. Totalverlust
+  aktenverlust_ursache: Brandnacht 1944 im Stadthaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 43-darmstadt/015
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bessungen
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/archivnutzung/bestaende | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ehemals_selbstständig: true
+  archivbestände: Akten und Amtsbücher
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 43-darmstadt/016
+ENTITÄT: ortsteil
+BEZEICHNUNG: Arheilgen
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/archivnutzung/bestaende | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ehemals_selbstständig: true
+  archivbestände: Akten und Amtsbücher
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 43-darmstadt/017
+ENTITÄT: ortsteil
+BEZEICHNUNG: Eberstadt
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/archivnutzung/bestaende | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ehemals_selbstständig: true
+  archivbestände: Akten und Amtsbücher
+  gemeindearchiv: Best. 15
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 43-darmstadt/018
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wixhausen
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/archivnutzung/bestaende | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ehemals_selbstständig: true
+  archivbestände: Akten und Amtsbücher
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 43-darmstadt/019
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kranichstein
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/archivnutzung/bestaende | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ehemals_selbstständig: true
+  archivbestände: Akten und Amtsbücher
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 43-darmstadt/020
+ENTITÄT: ehrengrab
+BEZEICHNUNG: Eugen Bracht
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/erinnerung-und-gedenken/ehrengraeber | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Ehrengrab
+  verleihungsgrund: Besondere Leistungen oder besondere Verdienste um die Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 43-darmstadt/021
+ENTITÄT: gedenkmal
+BEZEICHNUNG: Stolpersteine
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/erinnerung-und-gedenken | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug: Opfer des Nationalsozialismus
+  anzahl_im_stadtbild: Vielzahl
+  verwaltung: Kulturamt der Stadt Darmstadt
+  unterstützung_archiv: Recherchen und Bereitstellung von Archivgut
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 43-darmstadt/022
+ENTITÄT: gedenkstätte
+BEZEICHNUNG: Güterbahnhof
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtgeschichte-im-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erinnerung_an: Deportation von über 3.000 jüdischen Menschen
+  historischer_kontext: Nationalsozialismus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 43-darmstadt/023
+ENTITÄT: unesco_weltkulturerbe
+BEZEICHNUNG: Künstlerkolonie Mathildenhöhe
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufnahme_in_liste: 2021
+  standort: Darmstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 43-darmstadt/024
+ENTITÄT: gebäude
+BEZEICHNUNG: Altes Rathaus
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/ueber-uns/geschichte-des-stadtarchivs | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: vor 1609
+  erste_erwähnung_archivgut: 1609
+  funktion_archiv: Lagerung städtischer Urkunden und Amtsbücher in Gewölbe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 43-darmstadt/025
+ENTITÄT: gebäude
+BEZEICHNUNG: Stadtkirche
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv/ueber-uns/geschichte-des-stadtarchivs | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_archiv_früher: Aufstellung der Truhe zur Aufbewahrung städtischer Urkunden, Gerichtsbücher und Stadtsiegels
+  funktion_archiv_jahr: 1565
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 43-darmstadt/026
+ENTITÄT: archivinformationssystem
+BEZEICHNUNG: Arcinsys
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte/stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einführung: August 2017
+  funktion: Online-Recherche in Archivgut-Beständen
+  bereitstellung: Informationen zu Archivgut aus Beständen des Stadtarchivs Darmstadt
+  verfügbarkeit: Online
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 43-darmstadt/027
+ENTITÄT: publication
+BEZEICHNUNG: Ein Jahrhundert Darmstadt – Buchreihe im Schuber
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umfang: drei Teilbände
+  herausgeber: Peter Engels
+  auftraggeber: Wissenschaftsstadt Darmstadt
+  thema: Stadtgeschichte 20. Jahrhundert
+  isbn: 978-3-87390-492-7
+  verfügbarkeit: Buchhandel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 43-darmstadt/028
+ENTITÄT: digitale_anwendung
+BEZEICHNUNG: Future History
+QUELLE: https://www.darmstadt.de/kultur/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Vergleich historischer und aktueller Ansichten Darmstädter Innenstadt
+  verfügbarkeit: Web-Version
+  verfügbarkeit_zusätzlich: App (Google Play und AppStore)
+  technologie: Augmented Reality (AR)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

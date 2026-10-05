@@ -1,0 +1,39 @@
+Orte: 42-seeheim-jugenheim 43-darmstadt 44-frankfurt 45-mainz 46-wiesbaden
+== Extraktion (Haiku) 23:43:47
+42-seeheim-jugenheim extraktion ein  32031  aus  18494   0.14 USD   180 s  claude-haiku-4-5-20251001
+43-darmstadt         extraktion ein  29116  aus   6771   0.08 USD    56 s  claude-haiku-4-5-20251001
+44-frankfurt         extraktion ein  30496  aus  10548   0.10 USD   106 s  claude-haiku-4-5-20251001
+45-mainz             extraktion ein  30208  aus  17181   0.13 USD   178 s  claude-haiku-4-5-20251001
+46-wiesbaden         extraktion ein  62554  aus  24652   0.23 USD   220 s  claude-haiku-4-5-20251001
+zusammen: 1895 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+42-seeheim-jugenheim   37806 Zeichen
+43-darmstadt       17346 Zeichen
+44-frankfurt       25128 Zeichen
+45-mainz           22266 Zeichen
+46-wiesbaden       57946 Zeichen
+== Karten (claude-opus-5-5) 23:47:27
+42-seeheim-jugenheim karten     ein  49319  aus  36083   1.06 USD   314 s  claude-opus-5-5
+43-darmstadt         karten     ein  36537  aus  26952   0.78 USD   228 s  claude-opus-5-5
+44-frankfurt         karten     ein  40702  aus  40794   1.09 USD   352 s  claude-opus-5-5
+45-mainz             karten     ein  39631  aus  35487   0.97 USD   305 s  claude-opus-5-5
+46-wiesbaden         karten     ein  63367  aus  42472   1.30 USD   368 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 23:53:35
+42-seeheim-jugenheim pruefung   ein  73977  aus  11164   0.76 USD    95 s  claude-opus-5-5
+43-darmstadt         pruefung   ein  56693  aus  11313   0.63 USD    99 s  claude-opus-5-5
+44-frankfurt         pruefung   ein  63222  aus  12182   0.70 USD   102 s  claude-opus-5-5
+45-mainz             pruefung   ein  61054  aus   8299   0.60 USD    74 s  claude-opus-5-5
+46-wiesbaden         pruefung   ein  66599  aus   7371   0.63 USD    66 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 23:55:17
+42-seeheim-jugenheim FEHLER keine Karte an Stufe 2 – kein Lauf
+43-darmstadt         stufe2     ein 111097  aus   2863   0.27 USD    45 s  claude-opus-5-5,claude-haiku-4-5-20251001
+44-frankfurt         stufe2     ein 115779  aus   1729   0.26 USD    33 s  claude-opus-5-5,claude-haiku-4-5-20251001
+45-mainz             stufe2     ein 187748  aus   7229   0.73 USD    99 s  claude-opus-5-5,claude-haiku-4-5-20251001
+46-wiesbaden         stufe2     ein 281443  aus  11108   0.91 USD   188 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 23:58:25
+Urteile: {'bestätigt': 322, 'korrigiert': 85, 'unsicher': 18, 'gesperrt': 2} | im Vorrat: 425 Karten an 46 Orten
+iter1    10 Orte, 133 Karten, Tisch-Reihe 4
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     46 Orte, 425 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 611762 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 23:58:25

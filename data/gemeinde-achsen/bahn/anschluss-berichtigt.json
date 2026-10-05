@@ -1,5 +1,5 @@
 {
- "_doc": "Anschlüsse des Raums bahn je Ortspaar (Regel Mike 2026-10-03: Alltagssprache, beide Orte beim Namen, gesagt wird, was verglichen wird). Jeder Eintrag nennt unter \"von\" den Vorgänger auf der Fahrt; der Export zeigt ihn nur, wenn das der Ort davor ist. Nach dem Ausbau auf 29 Orte (2026-10-03) haben sieben Messorte einen neuen Vorgänger; ihre Anschlüsse sind neu aus grunddaten.json gerechnet. Kennzeichen aus Wikidata sind unzuverlässig (Bühl „OG“, Lahr „LR“, St. Goarshausen „TR“); Anschlüsse vergleichen deshalb den Landkreis, wo das Kennzeichen nicht gesichert ist. Geprüft: Rastatt und Lahr mit AfD vorn (Pressemitteilung Stadt Rastatt; Schwarzwälder Bote zu Lahr, 31,4 %, Beteiligung 75,1 %). Ausbau Rheintal (2026-10-06): Friesenheim und Appenweier eingeschoben; Offenburg und Achern haben neue Vorgänger, ihre Anschlüsse sind neu aus grunddaten.json gerechnet.",
+ "_doc": "Anschlüsse des Raums bahn je Ortspaar (Regel Mike 2026-10-03: Alltagssprache, beide Orte beim Namen, gesagt wird, was verglichen wird). Jeder Eintrag nennt unter \"von\" den Vorgänger auf der Fahrt; der Export zeigt ihn nur, wenn das der Ort davor ist. Nach dem Ausbau auf 29 Orte (2026-10-03) haben sieben Messorte einen neuen Vorgänger; ihre Anschlüsse sind neu aus grunddaten.json gerechnet. Kennzeichen aus Wikidata sind unzuverlässig (Bühl „OG“, Lahr „LR“, St. Goarshausen „TR“); Anschlüsse vergleichen deshalb den Landkreis, wo das Kennzeichen nicht gesichert ist. Geprüft: Rastatt und Lahr mit AfD vorn (Pressemitteilung Stadt Rastatt; Schwarzwälder Bote zu Lahr, 31,4 %, Beteiligung 75,1 %). Ausbau Rheintal (2026-10-06): Friesenheim und Appenweier eingeschoben; Offenburg und Achern haben neue Vorgänger, ihre Anschlüsse sind neu aus grunddaten.json gerechnet. Ausbau Rheinbahn (2026-10-06): Renchen und Durmersheim … Ladenburg eingeschoben; Achern und Weinheim haben neue Vorgänger, alle Anschlüsse aus grunddaten.json gerechnet.",
  "01-kenzingen": {
   "von": "11-emmendingen",
   "zeilen": [
@@ -28,10 +28,10 @@
   ]
  },
  "02-achern": {
-  "von": "31-appenweier",
+  "von": "32-renchen",
   "zeilen": [
-   "Achern hat gut zweieinhalbmal so viele Einwohner wie Appenweier.",
-   "Bundestagswahl 2025: In Appenweier und in Achern lag die CDU vorn, mit rund 35 und 34 Prozent."
+   "Achern hat gut dreieinhalbmal so viele Einwohner wie Renchen.",
+   "Bundestagswahl 2025: In Renchen und in Achern lag die CDU vorn, beide Male mit 34,3 Prozent."
   ]
  },
  "15-buehl": {
@@ -56,10 +56,10 @@
   ]
  },
  "17-weinheim": {
-  "von": "03-rastatt",
+  "von": "41-ladenburg",
   "zeilen": [
-   "Rastatt und Weinheim haben beide rund 58 Quadratkilometer Fläche.",
-   "Rastatt hat rund 5.000 Einwohner mehr als Weinheim."
+   "Weinheim hat gut dreieinhalbmal so viele Einwohner wie Ladenburg.",
+   "Ladenburg und Weinheim liegen beide im Rhein-Neckar-Kreis; in beiden steht HD am Auto."
   ]
  },
  "18-laudenbach": {
@@ -205,6 +205,76 @@
   "zeilen": [
    "Offenburg hat rund sechsmal so viele Einwohner wie Appenweier.",
    "Appenweier und Offenburg liegen beide im Ortenaukreis."
+  ]
+ },
+ "32-renchen": {
+  "von": "31-appenweier",
+  "zeilen": [
+   "Renchen ist eine Stadt, Appenweier eine Gemeinde – dabei hat Appenweier rund 2.800 Einwohner mehr.",
+   "Renchen und Appenweier liegen beide im Ortenaukreis."
+  ]
+ },
+ "33-durmersheim": {
+  "von": "03-rastatt",
+  "zeilen": [
+   "Bundestagswahl 2025: In Rastatt lag die AfD vorn, in Durmersheim die CDU.",
+   "Durmersheim und Rastatt liegen beide im Landkreis Rastatt; Rastatt ist die Kreisstadt."
+  ]
+ },
+ "34-karlsruhe": {
+  "von": "33-durmersheim",
+  "zeilen": [
+   "Karlsruhe hat mehr als 25-mal so viele Einwohner wie Durmersheim.",
+   "Kreisgrenze: Durmersheim liegt im Landkreis Rastatt, Karlsruhe ist eine kreisfreie Stadt."
+  ]
+ },
+ "35-stutensee": {
+  "von": "34-karlsruhe",
+  "zeilen": [
+   "Bundestagswahl 2025: In Karlsruhe lagen die Grünen vorn, in Stutensee die CDU.",
+   "Karlsruhe hat gut zwölfmal so viele Einwohner wie Stutensee."
+  ]
+ },
+ "36-graben-neudorf": {
+  "von": "35-stutensee",
+  "zeilen": [
+   "Stutensee hat doppelt so viele Einwohner wie Graben-Neudorf.",
+   "Stutensee ist eine Stadt, Graben-Neudorf eine Gemeinde; beide liegen im Landkreis Karlsruhe."
+  ]
+ },
+ "37-waghaeusel": {
+  "von": "36-graben-neudorf",
+  "zeilen": [
+   "Waghäusel hat fast doppelt so viele Einwohner wie Graben-Neudorf.",
+   "Bundestagswahl 2025: In Graben-Neudorf und in Waghäusel lag die CDU vorn; die AfD kam in Waghäusel auf 26,4 Prozent, in Graben-Neudorf auf 23,5."
+  ]
+ },
+ "38-hockenheim": {
+  "von": "37-waghaeusel",
+  "zeilen": [
+   "Kreisgrenze: Waghäusel gehört zum Landkreis Karlsruhe, Hockenheim zum Rhein-Neckar-Kreis.",
+   "Waghäusel und Hockenheim sind fast gleich groß: rund 22.300 und 21.600 Einwohner."
+  ]
+ },
+ "39-schwetzingen": {
+  "von": "38-hockenheim",
+  "zeilen": [
+   "Hockenheim und Schwetzingen haben fast gleich viele Einwohner, rund 21.600 und 21.900 – Schwetzingen auf deutlich kleinerer Fläche.",
+   "Hockenheim und Schwetzingen liegen beide im Rhein-Neckar-Kreis."
+  ]
+ },
+ "40-mannheim": {
+  "von": "39-schwetzingen",
+  "zeilen": [
+   "Mannheim hat fast fünfzehnmal so viele Einwohner wie Schwetzingen.",
+   "Kreisgrenze: Schwetzingen liegt im Rhein-Neckar-Kreis, Mannheim ist eine kreisfreie Stadt."
+  ]
+ },
+ "41-ladenburg": {
+  "von": "40-mannheim",
+  "zeilen": [
+   "Mannheim hat rund 25-mal so viele Einwohner wie Ladenburg.",
+   "Bundestagswahl 2025: Auf Platz zwei kamen in Ladenburg die Grünen, in Mannheim die SPD."
   ]
  }
 }
