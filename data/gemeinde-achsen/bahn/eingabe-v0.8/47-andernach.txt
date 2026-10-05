@@ -1,0 +1,914 @@
+ZIELORT: Andernach (Stadt)
+LAGE: 16 km nordwestlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Andernach
+
+GRUNDDATEN:
+  landkreis: Mayen-Koblenz  [dewiki Infobox]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 29.920  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 53,34  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 561  [berechnet aus Einwohner und Fläche]
+  kfz: MYK (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 60 | 81 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2956206)]
+  naechste_grossstadt: Koblenz, 16 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 81 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Andernach, Bahnhof Namedy, Haltepunkt Miesenheim  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 56626  [Wikidata P281]
+  vorwahl: 02632, 02636  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 28,8 %, AfD 23,6 %, SPD 18,7 %, GRÜNE 8,4 %, Die Linke 6,7 %, BSW 5,1 %; Wahlbeteiligung 79,3 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Christian Greiner (FWG) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-06]
+  partnerstaedte: Dimona, Ekeren, Zella-Mehlis, Focșani  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Landkreis), C, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Vallendar (Stadt)
+  landkreis: Mayen-Koblenz  [dewiki Infobox]
+  einwohner: 9046  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 13,22  [Wikidata P2046; Altbestand staedte.json]
+  kfz: MYK (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 99 | 168 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2817909)]
+  naechste_grossstadt: Koblenz, 6 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  ersterwaehnung: 830  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  bahnhof: Bahnhof Vallendar  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 37,7 %, SPD 17,8 %, AfD 12,3 %, GRÜNE 12,3 %, FDP 8 %, Die Linke 5,5 %; Wahlbeteiligung 84,3 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Frankfurt am Main, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Boppard, St. Goar, Oberwesel, Bacharach, Bingen
+
+FAKTEN (Zielort Andernach):
+ID: 47-andernach/001
+ENTITÄT: ort
+BEZEICHNUNG: Andernach
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter_jahre: 2000
+  superlativ: "zu den ältesten Deutschlands"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 47-andernach/002
+ENTITÄT: siedlung
+BEZEICHNUNG: Andernacher Siedlung
+ORTSTEIL_BEZUG: Miesenheim
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter_jahre: 500000
+  genauigkeit: "ca."
+  zeitraum: "Urzeit/Altsteinzeit"
+  fund: "Steingeräte des Homo erectus"
+  superlativ: "gehört zu den ältesten Siedlungsfundstellen in Europa"
+GUELTIG_AB: -498000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 47-andernach/003
+ENTITÄT: basislager
+BEZEICHNUNG: Basislager Martinsberg
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter_jahre: 14000
+  genauigkeit: "ca."
+  zeitraum: "Eiszeitjäger"
+  konstruktion: "zeltartige Hütten"
+  funde: "Gerätschaften aus Knochen und Stein, Tierknochen, altsteinzeitliche Kunstwerke auf Schieferplatten, Elfenbein-Frauenstatuetten, Vogel aus Rentiergeweih"
+GUELTIG_AB: -12000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 47-andernach/004
+ENTITÄT: keltische_siedlung
+BEZEICHNUNG: ANTVNNACVM
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: "Fuß des Krahnenbergs unmittelbar am Rhein"
+  namensherkunft: "keltisch, Bedeutung Besitz des Antunnus"
+  gründung_zeitraum: "um 500 v.Chr. bis 12/10 v.Chr."
+  funktion: "Hafen und Handelort"
+  natur_hafen: "Rhein bildete natürliche Bucht, Bach durchfloß Siedlung, Schutz durch Rhein und versumpften Rheinarm"
+  handelsgut: "Basaltreibsteine vom Typ Napoleonshut (Andernacher Hinterland), rheinabwärts verhandelt"
+GUELTIG_AB: -500
+GUELTIG_BIS: -10
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 47-andernach/005
+ENTITÄT: kastell
+BEZEICHNUNG: römisches Kastell Andernach
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: "nach Niederlage des Varus 9 n.Chr."
+  bauweise: "Holz-Erde Kastell"
+  garnison: "Raetercohorte"
+  auflösung: "vermutlich ca. 100 n.Chr."
+  grund_aufgabe: "Bau des Limes auf der rechten Rheinseite machte mittelrheinische Kastelle überflüssig"
+GUELTIG_AB: 9
+GUELTIG_BIS: 100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/006
+ENTITÄT: stadt
+BEZEICHNUNG: Andernach (römischer vicus)
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: "römische Zeit"
+  entwicklung: "keltische Zivilsiedlung mit Rheinhafen wurde vergrößert und ausgebaut"
+  funktionen: "Drehscheibe des Steinhandels, Handelsplatz"
+  handelsgüter: "Basaltmühlsteine, Tuffsteine aus der Pellenz"
+  transport: "per Schiff auf dem Rhein"
+  befestigung_mitte_3_jh: "Mauer, Tore und Türmer nach germanischen Einfällen"
+  kastellbesatzung_mitte_4_jh: true
+GUELTIG_AB: 9
+GUELTIG_BIS: 450
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 47-andernach/007
+ENTITÄT: königspfalz
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  volk: "Franken, merowingisch"
+  gründung_zeitraum: "6. Jahrhundert"
+  standort: "ehemals römischer Gebäudekomplex innerhalb alter Kastellmauer"
+  besuch_könig: "Theudebert II besuchte Andernach 588 mit Herrscher von Metz"
+  poet: "Venantius Fortunatus besang diese Fahrt auf Mosel und Rhein"
+  folge: "Ansiedlung von Handwerkern, Qualitätvolle Schmuckstücke mit Verbreitung über Mittelrheingebiet hinaus"
+  münzprägung: "erstmals im 6. Jahrhundert in Andernach nachgewiesen"
+GUELTIG_AB: 500
+GUELTIG_BIS: 700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/008
+ENTITÄT: burg
+BEZEICHNUNG: Andernacher Burg/Stadtburg
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_jahr: 1167
+  gründer: "Kaiser Friedrich I (Barbarossa)"
+  vergabe_an: "Kölner Erzbischof Rainald von Dassel"
+  zugehörigkeit: "südlichster Eckpfeiler des Kölner Kurfürstentums bis Ende des alten Reiches"
+  befestigung_13_jh: "einbezogen in Stadtbefestigung mit Mauer, Toren und Türmen"
+  beschädigung: "1689 im Pfälzischen Krieg, nur Runder Turm widerstand Sprengung"
+GUELTIG_AB: 1167
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 47-andernach/009
+ENTITÄT: kirche
+BEZEICHNUNG: Liebfrauenkirche
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: "spätromanisch"
+  zeitraum: "Mittelalter"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/010
+ENTITÄT: kapelle
+BEZEICHNUNG: Michaelskapelle
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: "spätromanisch"
+  zeitraum: "Mittelalter"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/011
+ENTITÄT: kirche
+BEZEICHNUNG: Christuskirche
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: "Kirche des ehemaligen Franziskanerklosters"
+  stil: "gotisch"
+  zeitraum: "Mittelalter"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/012
+ENTITÄT: synagoge
+BEZEICHNUNG: jüdische Mikwe
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datierung: "13. Jahrhundert"
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 47-andernach/013
+ENTITÄT: schule
+BEZEICHNUNG: Lateinschule
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erhaltung: "16. Jahrhundert durch Stiftung des Kölner Kurfürsten Salentin v. Isenburg"
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/014
+ENTITÄT: person
+BEZEICHNUNG: Johann Winter
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Humanist und Arzt"
+  zeitraum: "16. Jahrhundert"
+  kontext: "verkörperte neuen Zeitgeist der Renaissance"
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 47-andernach/015
+ENTITÄT: person
+BEZEICHNUNG: Jakob Omphal
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Jurist"
+  zeitraum: "16. Jahrhundert"
+  kontext: "verkörperte neuen Zeitgeist der Renaissance"
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 47-andernach/016
+ENTITÄT: person
+BEZEICHNUNG: Ludwig Hillesheim
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Bürgermeister"
+  zeitraum: "16. Jahrhundert"
+  kontext: "verkörperte neuen Zeitgeist der Renaissance"
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 47-andernach/017
+ENTITÄT: person
+BEZEICHNUNG: Matthäus Creutz
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Glaser und Dichter"
+  zeitraum: "16. Jahrhundert"
+  kontext: "verkörperte neuen Zeitgeist der Renaissance"
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 47-andernach/018
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Wasserleitung
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: "16. Jahrhundert"
+  funktion: "versorgte kunstvoll gestaltete Brunnen"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 47-andernach/019
+ENTITÄT: gebäude
+BEZEICHNUNG: Rathaus
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Hochstraße"
+  errichtung: "16. Jahrhundert"
+  besonderheit: "mit offener Markthalle"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 47-andernach/020
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Kranen
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  material: "Stein"
+  lage: "Hafenbereich"
+  errichtung: "16. Jahrhundert"
+  funktion: "Verladen von Waren"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/021
+ENTITÄT: zünfte
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partizipation: "zu Beginn des 16. Jahrhunderts erhielten achtköpfiges Kollegium Mitsprache in städtischer Politik"
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 47-andernach/022
+ENTITÄT: stadt
+BEZEICHNUNG: Andernach
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  steuerzahlung_16_jh: "drittgrößter Steuerzahler des Kölner Kurfürstentums (neben Bonn und Neuß)"
+  vorsitz_städtekollegium: "hatte Vorsitz im Städtekollegium des Oberstifts"
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/023
+ENTITÄT: brand
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: 1633
+  kontext: "Dreißigjähriger Krieg, Schweden besetzten Stadt"
+  gegner: "kaiserliche und spanische Truppen beschossen Stadt"
+  ursache: "Schweden zündeten Stadt beim Abzug an"
+  schaden: 197
+  schaden_einheit: "Häuser zerstört"
+  geiselnahme: 11
+  geiselnahme_einheit: "Bürger"
+  lösegeld: 12000
+  lösegeld_einheit: "Reichstaler"
+GUELTIG_AB: 1633
+GUELTIG_BIS: 1633
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 47-andernach/024
+ENTITÄT: krieg
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: 1689
+  konflikt: "Pfälzischer Krieg"
+  aggressor: "französische Truppen"
+  schäden: "Plünderung, Brand, Burg und Stadtbefestigung zerstört"
+  überstand: "nur Runder Turm widerstand Sprengung"
+GUELTIG_AB: 1689
+GUELTIG_BIS: 1689
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 47-andernach/025
+ENTITÄT: stadt
+BEZEICHNUNG: Andernach
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  folge_17_jh: "Zerstörungen führten zu Verarmung und Stagnation in Fortentwicklung"
+GUELTIG_AB: 1633
+GUELTIG_BIS: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 47-andernach/026
+ENTITÄT: besetzung
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: "Oktober 1794"
+  kraft: "französische Revolutionstruppen"
+  territorium: "linksrheinisches Gebiet schrittweise politisch mit Frankreich vereinigt"
+  administrative_abschaffung: "mittelalterliche Ständeordnung und alte Institutionen wurden abgeschafft"
+  munizipalverwaltung: "ab 1798 neue Munizipalverwaltung eingeführt"
+  verwaltungsposition: "Andernach wurde Sitz der Kantonverwaltung"
+  sonderrechte: "besaß keine gegenüber den anderen 22 Orten des Kantons"
+  verlust_stadtrechte: true
+GUELTIG_AB: 1794
+GUELTIG_BIS: 1815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/027
+ENTITÄT: verwaltung
+BEZEICHNUNG: Mairie Andernach
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1800
+  umfang: "sechs Gemeinden"
+  maire: "Johann Michael Nachtsheim (Andernacher)"
+GUELTIG_AB: 1800
+GUELTIG_BIS: 1815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 47-andernach/028
+ENTITÄT: verwaltung
+BEZEICHNUNG: Kreisverwaltung
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: 1815
+  territorium: "Rheinland fiel Preußen zu"
+  sitz: "Mayen (nicht Andernach)"
+  folge: "Andernach verlor Sitzfunktion"
+GUELTIG_AB: 1815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/029
+ENTITÄT: stadt
+BEZEICHNUNG: Andernach
+QUELLE: https://www.andernach.de/stadt/andernach-geschichtlich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wiedererwachen: "Mitte des 19. Jahrhunderts"
+  stadtrechte_wiederherstellung: 1857
+  grund: "Rheinische Städteordnung"
+GUELTIG_AB: 1857
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/030
+ENTITÄT: ort
+BEZEICHNUNG: Andernach
+QUELLE: https://www.andernach.de/stadt/andernach-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemarkung_fläche: 53.34
+  gemarkung_fläche_einheit: "km²"
+  waldfläche: 11.74
+  waldfläche_einheit: "km²"
+  ausdehnung_ost_west: 10.6
+  ausdehnung_ost_west_einheit: "km"
+  ausdehnung_nord_süd: 5
+  ausdehnung_nord_süd_einheit: "km"
+  alter_jahre: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 47-andernach/031
+ENTITÄT: ort
+BEZEICHNUNG: Andernach
+QUELLE: https://www.andernach.de/stadt/andernach-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_gesamt: 31216
+  einwohner_male: 15504
+  einwohner_female: 15712
+  kraftfahrzeugkennzeichen: "MYK"
+  postleitzahl: "56626"
+  telefonvorwahl: "02632"
+  beschäftigte_sozialversichert: 14192
+  zentralitätskennziffer: 112.7
+  koordinate_länge: "7°24'06'' O"
+  koordinate_breite: "50°26'32'' N"
+  höhe_über_nn: 60.246
+  höhe_über_nn_einheit: "m"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 47-andernach/032
+ENTITÄT: hafen
+BEZEICHNUNG: römischer Hafen
+QUELLE: https://www.andernach.de/stadt/andernach-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitalter: "römisch"
+  bedeutung: "Binnenschifffahrt hatte früh große Bedeutung"
+GUELTIG_AB: 9
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 47-andernach/033
+ENTITÄT: wahrzeichen
+BEZEICHNUNG: Alter Krahn
+QUELLE: https://www.andernach.de/stadt/andernach-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: "einer der größten Verladeanlagen seiner Zeit"
+  status: "heutiges Wahrzeichen"
+  handelsgüter: "Mühlsteine, Wein und zahlreiche andere Güter"
+  transport: "auf Schiffe verladen und nach ganz Europa transportiert"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 47-andernach/034
+ENTITÄT: hafen
+BEZEICHNUNG: moderner Industriehafen
+QUELLE: https://www.andernach.de/stadt/andernach-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kategorie: "zu den größten in Deutschland"
+  umschlag_jährlich: 3000000
+  umschlag_jährlich_einheit: "Tonnen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 47-andernach/035
+ENTITÄT: unternehmen
+BEZEICHNUNG: Weißblechwalzwerk Rasselstein
+QUELLE: https://www.andernach.de/stadt/andernach-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  branche: "Metallwirtschaft"
+  standort: "Andernach"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/036
+ENTITÄT: unternehmen
+BEZEICHNUNG: LTS
+QUELLE: https://www.andernach.de/stadt/andernach-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  spezialisierung: "transdermale Systeme (Nikotinpflaster)"
+  standort: "Andernach"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/037
+ENTITÄT: naturschauspiel
+BEZEICHNUNG: Kaltwassergeysir
+QUELLE: https://www.andernach.de/stadt/andernach-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: "welthöchster Kaltwassergeysir"
+  sprunghöhe: 60
+  sprunghöhe_einheit: "Meter"
+  sprunghöhe_genauigkeit: "bis zu"
+  besucherzahl_jährlich: 100000
+  besucherzahl_jährlich_genauigkeit: "mehr als"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 47-andernach/038
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Wohnmobilstellplatz
+QUELLE: https://www.andernach.de/stadt/andernach-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "direkt am Rhein"
+  auslastung: "in der Saison fast immer voll belegt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 47-andernach/039
+ENTITÄT: projekt
+BEZEICHNUNG: Essbare Stadt
+QUELLE: https://www.andernach.de/stadt/andernach-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Stadtentwicklungsprojekt auf öffentlichen Grünflächen"
+  anbau: "Obst und Gemüse (Tomaten, Bohnen, Kartoffeln, Salate, Kohl u.v.m.)"
+  regel: "jedermann darf ernten, wenn die Früchte reif sind"
+  wirkung: "bundesweit für Aufsehen gesorgt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/040
+ENTITÄT: kaserne
+BEZEICHNUNG: Krahnenberg-Kaserne
+QUELLE: https://www.andernach.de/stadt/andernach-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: "Wiege der Bundeswehr"
+  gründungstag_bundeswehr: "20.01.1956"
+  gründer: "Bundeskanzler Dr. Konrad Adenauer (begrüßte erste Soldaten)"
+  offizielle_denomination_bundeswehr: "ab 01.04.1956"
+  denkmalschutz: "Traditionsbaracke aus Gründungszeit erhalten"
+  würdigung: "2022 in Liste Orte der Demokratiegeschichte aufgenommen"
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 47-andernach/041
+ENTITÄT: stadtteil
+BEZEICHNUNG: Eich
+QUELLE: https://www.andernach.de/stadt/andernach-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_gesamt: 2018
+  einwohner_male: 1017
+  einwohner_female: 1001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 47-andernach/042
+ENTITÄT: stadtteil
+BEZEICHNUNG: Kell
+QUELLE: https://www.andernach.de/stadt/andernach-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_gesamt: 1014
+  einwohner_male: 498
+  einwohner_female: 516
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 47-andernach/043
+ENTITÄT: stadtteil
+BEZEICHNUNG: Miesenheim
+QUELLE: https://www.andernach.de/stadt/andernach-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_gesamt: 3201
+  einwohner_male: 1586
+  einwohner_female: 1615
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 47-andernach/044
+ENTITÄT: stadtteil
+BEZEICHNUNG: Namedy
+QUELLE: https://www.andernach.de/stadt/andernach-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_gesamt: 1306
+  einwohner_male: 646
+  einwohner_female: 660
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 47-andernach/045
+ENTITÄT: stadtteil
+BEZEICHNUNG: Eich
+QUELLE: https://www.andernach.de/stadt/stadtteile/eich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1300
+  frühe_existenz: "romanischer Kirchturm aus 12. Jahrhundert deutet auf Existenz im ausgehenden Frühmittelalter"
+  herrschaftliche_zugehörigkeit: "nicht zum Kölner Kurfürstentum, sondern zu Pellenz-Dörfern"
+  hochgericht_lage: "Mendiger Berg und Pellenz-Haus bei der Fraukirch"
+  herrschaft_phase_1: "Pfalzgrafen bei Rhein"
+  herrschaft_phase_2: "Grafen von Virneburg"
+  herrschaft_phase_3: "1545 Trierer Kurfürstentum (durch Kauf)"
+  klosterbesitzungen: "Kloster St. Thomas in Andernach, Kloster St. Georg in Koblenz, Dominikanerkloster in Koblenz"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 47-andernach/046
+ENTITÄT: geschlecht
+BEZEICHNUNG: Ritter v. Eich
+QUELLE: https://www.andernach.de/stadt/stadtteile/eich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "mittelalterliches Rittergeschlecht"
+  stammsitz: "Burg Olbrück"
+  zeitraum: "13./14. Jahrhundert"
+  rolle: "Familie spielte bedeutende Rolle im Trierer Erzstift"
+  wappen: "silberner Schild mit schwarzem Berg und schwarzer Eiche"
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/047
+ENTITÄT: anlage
+BEZEICHNUNG: Krayer Hof
+ORTSTEIL_BEZUG: Eich
+QUELLE: https://www.andernach.de/stadt/stadtteile/eich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "burgartige Anlage"
+  zeitperiode_kern: "Spätmittelalter"
+  zustand: "gut erhalten"
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 47-andernach/048
+ENTITÄT: person
+BEZEICHNUNG: Guillaume Apollinaire
+QUELLE: https://www.andernach.de/stadt/stadtteile/eich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nationalität: "französisch"
+  beruf: "Dichter"
+  aufenthalt: "Hauslehrer auf Burg Kray"
+  zeitraum: "1901-1902"
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 47-andernach/049
+ENTITÄT: rohstoffabbau
+BEZEICHNUNG: Basaltlava-Abbau
+ORTSTEIL_BEZUG: Eich
+QUELLE: https://www.andernach.de/stadt/stadtteile/eich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  material: "Basaltlava"
+  beginn: "ab 18. Jahrhundert"
+  zweck: "Baumaterial für Koblenzer Festungsbauten"
+  aktueller_abbauort: "Eicher Sattel"
+  status_heute: "wird noch abgebaut"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/050
+ENTITÄT: stadtteil
+BEZEICHNUNG: Kell
+QUELLE: https://www.andernach.de/stadt/stadtteile/kell/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Hochfläche zwischen Brohltal und Pönterbachtal"
+  höhe: 260
+  höhe_einheit: "m NN"
+  erste_besiedlung: "5.-3. Jahrhundert v.Chr."
+  römische_aktivität: "Tuffsteinabbau im Brohltal"
+  heilquellen: "in Gemarkung entspringende Quellen mit heilender Wirkung, besonders geschätzt"
+  frühmittelalter_nachweis: "fränkisches Gräberfeld 1993 südlich von Kell entdeckt"
+  erste_urkund_erwähnung: "Anfang 12. Jahrhundert mit Bezeichnung Chella"
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 47-andernach/051
+ENTITÄT: kloster
+BEZEICHNUNG: St. Antonius Karmeliterkloster
+ORTSTEIL_BEZUG: Kell
+QUELLE: https://www.andernach.de/stadt/stadtteile/kell/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  legende: "1388 fanden Hirten aus Kell im Tönissteiner Tal Gnadenbild in brennendem Dornbusch"
+  kapelle_gründung_anlass: "Wallfahrten nach Gnadenbild-Fund"
+  kloster_gründung: 1465
+  gnadenbild_verbleib: "kam in Keller Pfarrkirche"
+  auflösung: "Säkularisierung zu Beginn 19. Jahrhundert"
+  genauigkeit_legende: "vermutlich"
+GUELTIG_AB: 1465
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/052
+ENTITÄT: kurort
+BEZEICHNUNG: Tönisstein
+ORTSTEIL_BEZUG: Kell
+QUELLE: https://www.andernach.de/stadt/stadtteile/kell/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: "Lieblingsbadeort der Kölner Kurfürsten"
+  zeitraum_nutzung: "17./18. Jahrhundert"
+  infrastruktur: "Schloss gebaut"
+  kapelle_bauherr: "Kurfürst Clemens August"
+  kapelle_form: "Rundbau"
+  brunnenhaus_beschreibung: "siebenseitiger Pavillon"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/053
+ENTITÄT: stadtteil
+BEZEICHNUNG: Namedy
+QUELLE: https://www.andernach.de/stadt/stadtteile/namedy/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung: "um 1200 als Namedei"
+  namenherkunft: "vermutlich keltisch"
+  namenbedeutung_option1: "Hain, Wald mit Triften und Weiden"
+  namenbedeutung_option2: "Heiliger Hain/Opferstätte"
+  gehörte_zu: "seit Frühmittelalter Fiskalbesitz Andernach"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/054
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche Namedy
+ORTSTEIL_BEZUG: Namedy
+QUELLE: https://www.andernach.de/stadt/stadtteile/namedy/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: "1255 gebautes Zisterzienserinnen Kloster"
+GUELTIG_AB: 1255
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/055
+ENTITÄT: burg
+BEZEICHNUNG: Burg Namedy / Niederhof
+ORTSTEIL_BEZUG: Namedy
+QUELLE: https://www.andernach.de/stadt/stadtteile/namedy/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: "Anton Hausmann von Namedy und Margeretha von Eltz"
+  ausbauzeitraum: "Mitte 16. Jahrhundert"
+  ursprung: "Niederhof"
+  besitz_ab_20_jh: "Familie von Hohenzollern"
+GUELTIG_AB: 1550
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 47-andernach/056
+ENTITÄT: siedlung
+BEZEICHNUNG: Fornich
+ORTSTEIL_BEZUG: Namedy
+QUELLE: https://www.andernach.de/stadt/stadtteile/namedy/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "rheinab von Namedy"
+  institution: "Hospital für Reisende mit Kapelle"
+  zeitraum: "seit Mittelalter"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 47-andernach/057
+ENTITÄT: rohstoffabbau
+BEZEICHNUNG: Basaltabbau für Trierer Römerbrücke
+ORTSTEIL_BEZUG: Namedy
+QUELLE: https://www.andernach.de/stadt/stadtteile/namedy/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitalter: "römische Zeit"
+  material: "Basaltlava"
+  abbauort: "Fornicher Kopf"
+  verwendung: "Brückenpfeiler für Trierer Römerbrücke"
+GUELTIG_AB: -100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/058
+ENTITÄT: flößerei
+ORTSTEIL_BEZUG: Namedy
+QUELLE: https://www.andernach.de/stadt/stadtteile/namedy/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: "Jahrzehnte um 1800"
+  bedeutung: "Namedy war wichtiger Punkt der Flößerei auf dem Rhein"
+  verfahren: "Zusammenstellung von Kleinflößen zu Großflößen rheinabwärts in Niederlande"
+GUELTIG_AB: 1780
+GUELTIG_BIS: 1820
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/059
+ENTITÄT: landwirtschaft
+BEZEICHNUNG: Obstanbau Namedy
+ORTSTEIL_BEZUG: Namedy
+QUELLE: https://www.andernach.de/stadt/stadtteile/namedy/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sorte: "Malmedyer Äpfel"
+  besonderheit: "bekannt auch heute noch"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 47-andernach/060
+ENTITÄT: naturschauspiel
+BEZEICHNUNG: Geysir (historisch Namedyer Sprudel/Andernacher Geysir)
+ORTSTEIL_BEZUG: Namedy
+QUELLE: https://www.andernach.de/stadt/stadtteile/namedy/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: "toter Rheinarm der Halbinsel Namedyer Werth"
+  erste_beobachtung: "Anfang 20. Jahrhundert, aufsteigende Gasblasen"
+  erste_bohrung: "ca. 1903/04 zur Erschließung von Kohlesäure/Wasser"
+  sprunghöhe_erste_bohrung: 40
+  sprunghöhe_erste_bohrung_einheit: "Meter"
+  sprunghöhe_erste_bohrung_genauigkeit: "ca."
+  betreiber_initial: "Namedyer Sprudel GmbH"
+  touristische_erschließung: 1912
+  kriegsschäden: "erhebliche Schäden durch 1. und 2. Weltkrieg"
+  außerbetriebnahme: 1957
+  grund_außerbetriebnahme: "zusätzliche technische Probleme"
+  wiederinbetriebnahme_probebohrungen: 2001
+  wiederinbetriebnahme_hauptbohrung: 2006
+  wiederinbetriebnahme_name: "Erster Geysir-Sommer"
+  superlativ_aktuell: "größter Kaltwasser-Geysir der Welt"
+  besucherzahl: "zahlreiche Besucher täglich"
+GUELTIG_AB: 1903
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 47-andernach/061
+ENTITÄT: stadtteil
+BEZEICHNUNG: Miesenheim
+QUELLE: https://www.andernach.de/stadt/stadtteile/miesenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  archäologische_bedeutung: "gehört zu den an archäologischen Fundstellen reichsten Gemeinden im Mittelrheingebiet"
+  vogteirecht_phase_1: "ab 15. Jahrhundert Patriziergeschlecht Hausmann"
+  vogteirecht_phase_2: "später Familien von Klepping und von Solemacher"
+  befestigung: "Wall und Graben"
+  infrastruktur_mühlen: "mehrere Mühlen entlang des Mühlbaches"
+  infrastruktur_hof: "Himmeroder Hof außerhalb der Umwehrung"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/062
+ENTITÄT: brand
+ORTSTEIL_BEZUG: Miesenheim
+QUELLE: https://www.andernach.de/stadt/stadtteile/miesenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: 1777
+  charakterisierung: "verheerender Brand"
+  schaden: "gesamtes Dorf zerstört bis auf 2 Wohnhäuser, Kirche und Pfarrhaus"
+GUELTIG_AB: 1777
+GUELTIG_BIS: 1777
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 47-andernach/063
+ENTITÄT: anlage
+BEZEICHNUNG: Nettehammer / Gut Nettehammer
+ORTSTEIL_BEZUG: Miesenheim
+QUELLE: https://www.andernach.de/stadt/stadtteile/miesenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: "Mehlmühle an der Nette des Klosters St. Thomas"
+  umwandlungsgenehmigung: 1727
+  umwandlung_in: "Anlage zur Eisenverarbeitung mit doppeltem Eisenhammer"
+  betreiber_phase_1: "1742-1841 Familie Remy (Pächter, später Eigentümer)"
+  beschäftigung_1808: 114
+  beschäftigung_1808_einheit: "Arbeiter (Holzarbeiter und Köhler)"
+  hammerwerke_anzahl: 4
+  produktion_jährlich: 3500
+  produktion_jährlich_einheit: "Zentner Stabeisen"
+  betreiber_phase_2: "ab 1846 Familie Backhausen"
+  zusätzliche_produktion: "Drahtstifte-Firma Quirin und Dreher verlagert von Miesenheim zum Nettehammer"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 47-andernach/064
+ENTITÄT: industrie
+ORTSTEIL_BEZUG: Miesenheim
+QUELLE: https://www.andernach.de/stadt/stadtteile/miesenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  arbeitgeber_20_jh: "Papiermühlen"
+  arbeitgeber_nach_2wk: "Bimssteinfabriken"
+  status_heute: "zwar kleiner, aber nicht unbedeutender Standort mit zukunftsweisenden Unternehmen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 47-andernach/065
+ENTITÄT: wappen
+BEZEICHNUNG: Andernacher Stadtwappen
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/andernach.html | Landesportal
+EIGENSCHAFTEN:
+  entstehung: 1300
+  entstehung_genauigkeit: "13. Jahrhundert"
+  überlieferung: "1. Hälfte 14. Jahrhundert"
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/066
+ENTITÄT: burg
+BEZEICHNUNG: Andernacher Stadtburg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/andernach.html | Landesportal
+EIGENSCHAFTEN:
+  baubeginn: "spätes 12. Jahrhundert"
+  bauherr: "Kölner Erzbischof Rainald von Dassel"
+  erweiterung: "1491-1496, um einen Turm erweitert"
+GUELTIG_AB: 1180
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 47-andernach/067
+ENTITÄT: zentrum
+BEZEICHNUNG: Geysir-Erlebniszentrum
+ORTSTEIL_BEZUG: Namedy
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/andernach.html | Landesportal
+EIGENSCHAFTEN:
+  zweck: "Informationen über das seltene Naturschauspiel des Kaltwasser-Geysirs"
+  besucherzahl: "viele Besucher"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

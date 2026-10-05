@@ -14058,6 +14058,1154 @@ window.QA_DATEN = {
 "Kreisgrenze: In Lahnstein steht EMS am Auto, in Vallendar MYK."
 ],
 "km_vom_vorigen": 11.1
+},
+{
+"slug": "47-andernach",
+"name": "Andernach",
+"lat": 50.43972,
+"lon": 7.40167,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Andernach",
+"steckbrief": "Andernach hat rund 30.000 Einwohner und liegt 16 km nordwestlich von Koblenz.",
+"frage": "Woher stammt der Name Andernach?",
+"optionen": [
+"Der Name bedeutet „am anderen Rheinufer“.",
+"Ein römischer Feldherr gab der Stadt seinen Namen.",
+"Der Name erinnert an eine fränkische Königspfalz.",
+"Der Name stammt aus dem Keltischen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer „Andernach“ hört, denkt an „am anderen Ufer“ – die Silbe „ander“ legt es nahe. Doch der Name ist keltisch und dürfte „Besitz des Antunnus“ bedeuten. Schon vor den Römern lag hier eine keltische Siedlung mit Hafen am Fuß des Krahnenbergs, direkt am Rhein. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.andernach.de/stadt/andernach-geschichtlich/",
+"faktencheck": "korrigiert",
+"id": "47-andernach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Andernach",
+"steckbrief": "Andernach mit rund 30.000 Einwohnern liegt 16 km nordwestlich von Koblenz am Rhein.",
+"frage": "Wie groß ist die Fläche der Stadt Andernach mit allen Stadtteilen?",
+"optionen": [
+"unter 60 km²",
+"60 bis unter 80 km²",
+"80 bis unter 120 km²",
+"120 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Mit Eich, Kell, Miesenheim und Namedy wirkt Andernach weitläufig, und die Hochfläche um Kell lässt an viel Land denken. Doch die ganze Gemarkung misst nur 53,34 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "47-andernach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Andernach",
+"steckbrief": "Die Stadt mit rund 30.000 Einwohnern liegt 16 km nordwestlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Unter französischer Herrschaft wurde Andernach Sitz eines Kantons.",
+"Als das Rheinland an Preußen fiel, wurde Andernach Sitz der neuen Kreisverwaltung.",
+"Unter französischer Herrschaft verlor Andernach seine Stadtrechte."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Unter den Franzosen war Andernach Sitz eines Kantons, da lag ein preußischer Kreissitz nahe. Doch als das Rheinland an Preußen fiel, wurde nicht Andernach, sondern Mayen Sitz der neuen Kreisverwaltung. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.andernach.de/stadt/andernach-geschichtlich/",
+"faktencheck": "korrigiert",
+"id": "47-andernach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Andernach",
+"steckbrief": "Andernach hat rund 30.000 Einwohner und liegt 16 km nordwestlich von Koblenz.",
+"frage": "Wie hoch war die Wahlbeteiligung in Andernach bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 76 %",
+"76 bis unter 81 %",
+"81 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die vorgezogene Wahl mobilisierte bundesweit viele Wähler, da liegt ein hoher Tipp nahe. In Andernach gingen 79,3 Prozent zur Wahl; stärkste Kraft wurde die CDU vor der AfD. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "47-andernach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Andernach",
+"steckbrief": "Andernach liegt mit rund 30.000 Einwohnern 16 km nordwestlich von Koblenz.",
+"frage": "Andernachs Kaltwassergeysir sprang zum ersten Mal nach einer Bohrung zu Beginn des 20. Jahrhunderts. Wozu wurde damals gebohrt?",
+"optionen": [
+"Man suchte dort nach Erdöl.",
+"Man bohrte nach Steinkohle.",
+"Man suchte Salzwasser für eine Saline.",
+"Man wollte Kohlensäure und Wasser erschließen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Sprudelnde Bohrlöcher kennt man von Ölfeldern, daher liegt Erdöl nahe. Doch auf dem Namedyer Werth stiegen Gasblasen aus einem toten Rheinarm auf; gebohrt wurde, um Kohlensäure und Wasser zu erschließen. Die Kohlensäure nutzte die Namedyer Sprudel GmbH gewerblich. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.andernach.de/stadt/stadtteile/namedy/",
+"faktencheck": "korrigiert",
+"id": "47-andernach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Andernach",
+"steckbrief": "Andernach hat rund 30.000 Einwohner und liegt 16 km nordwestlich von Koblenz am Rhein.",
+"frage": "Wie weit ist Andernach in Luftlinie von der Landeshauptstadt Mainz entfernt?",
+"optionen": [
+"unter 90 km",
+"90 bis unter 110 km",
+"110 bis unter 140 km",
+"140 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Den Rhein entlang zieht sich der Weg in vielen Windungen, das lässt Mainz fern wirken. In Luftlinie trennen Andernach und die Landeshauptstadt nur 81 Kilometer. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "47-andernach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Andernach",
+"steckbrief": "Andernach zählt rund 30.000 Einwohner und liegt 16 km nordwestlich von Koblenz.",
+"frage": "In der Andernacher Krahnenberg-Kaserne begrüßte Bundeskanzler Konrad Adenauer im Januar 1956 eine besondere Gruppe. Wen?",
+"optionen": [
+"Er begrüßte die ersten Wehrpflichtigen der Bundeswehr.",
+"Er begrüßte die ersten Soldaten der Bundeswehr.",
+"Er begrüßte die ersten Soldaten der Nationalen Volksarmee.",
+"Er begrüßte die ersten Helfer des Technischen Hilfswerks."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wehrpflichtige rückten erst 1957 ein, und die Nationale Volksarmee der DDR entstand zwar zwei Tage vorher, aber nicht hier. In der Krahnenberg-Kaserne begrüßte Adenauer die ersten Soldaten der Bundeswehr; Andernach gilt deshalb als „Wiege der Bundeswehr“. Eine Traditionsbaracke aus der Gründungszeit ist erhalten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.andernach.de/stadt/andernach-in-zahlen/; Bundesarchiv, www.bundesarchiv.de/staat-militaer-und-gesellschaft/streitkraefte-demokratie-rechtsstaat/aufstellungsappell-in-andernach/",
+"faktencheck": "korrigiert",
+"id": "47-andernach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Andernach",
+"steckbrief": "Andernach hat rund 30.000 Einwohner und liegt 16 km nordwestlich von Koblenz.",
+"frage": "1633, im Dreißigjährigen Krieg, ging Andernach in Flammen auf. Was löste den Brand laut Stadtgeschichte aus?",
+"optionen": [
+"Ein Blitz schlug in ein Pulverlager ein.",
+"In einer Backstube geriet ein Feuer außer Kontrolle.",
+"Vor dem Abzug der Schweden wurde die Stadt angezündet.",
+"Aufständische Bauern legten aus Rache Feuer."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Krieg denkt man zuerst an Kanonenfeuer – und tatsächlich beschossen kaiserliche und spanische Truppen die von den Schweden besetzte Stadt. Den Brand aber löste aus, dass die Stadt vor dem Abzug der Schweden angezündet wurde. Die Schweden nahmen Bürger als Geiseln mit; Kriegsschäden und Schulden ließen Andernach verarmen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.andernach.de/stadt/andernach-geschichtlich/",
+"faktencheck": "korrigiert",
+"id": "47-andernach/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Andernach",
+"steckbrief": "Andernach mit rund 30.000 Einwohnern liegt 16 km nordwestlich von Koblenz.",
+"frage": "Im Tönissteiner Tal bei Andernach-Kell entstand eine Wallfahrt, später ein Karmeliterkloster. Was sollen Hirten dort der Legende nach gefunden haben?",
+"optionen": [
+"Sie fanden ein Gnadenbild in einem brennenden Dornbusch.",
+"Sie fanden eine Glocke, die von selbst läutete.",
+"Sie fanden ein Kreuz im Stamm einer Eiche.",
+"Sie fanden einen Schatz unter einem Felsen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein brennender Dornbusch klingt nach Mose – zu biblisch, um hier zu stimmen. Doch so erzählt es die Legende: Hirten aus Kell fanden ein Gnadenbild, ein verehrtes Andachtsbild, im brennenden Busch. Der Fund war Anlass für eine Kapelle, die Wallfahrten führten später zum Kloster; das Bild kam in die Keller Pfarrkirche. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.andernach.de/stadt/stadtteile/kell/",
+"faktencheck": "korrigiert",
+"id": "47-andernach/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Andernach",
+"steckbrief": "Andernach hat rund 30.000 Einwohner und liegt 16 km nordwestlich von Koblenz.",
+"frage": "Die Ortsgeschichte von Andernach-Eich erzählt: Der französische Dichter Guillaume Apollinaire wohnte 1901/02 zeitweilig auf Burg Kray. Was tat er dort?",
+"optionen": [
+"Er arbeitete als Gärtner auf der Burg.",
+"Er malte Porträts für den Burgherrn.",
+"Er war Sekretär eines französischen Diplomaten.",
+"Er unterrichtete dort als Hauslehrer."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein französischer Dichter auf einer rheinischen Burg – das klingt nach Künstlerleben oder Diplomatie. Doch Apollinaire war auf Burg Kray schlicht Hauslehrer. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.andernach.de/stadt/stadtteile/eich/",
+"faktencheck": "korrigiert",
+"id": "47-andernach/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "10-vallendar",
+"anschluss": [
+"Bundestagswahl 2025: AfD in Andernach 23,6 Prozent, in Vallendar 12,3.",
+"Fläche: Andernach ist rund viermal so groß wie Vallendar."
+],
+"km_vom_vorigen": 15.9
+},
+{
+"slug": "48-boppard",
+"name": "Boppard",
+"lat": 50.23139,
+"lon": 7.59083,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Boppard / Boppard ist eine Stadt mit rund 15.700 Einwohnern, 14 km südlich von Koblenz. / In einer Baugrube nahe dem Hauptbahnhof fand man eine altsteinzeitliche Feuerstelle. Unter welcher Schicht lag sie laut Stadtgeschichte? / 1. Darüber lag Schutt eines Gletschers. / 2. Darüber lag Lava eines Vulkans im Hunsrück. / 3. Darüber lag Bims vom Ausbruch des Laacher Sees. / 4. Darüber lag Asche eines Waldbrands im Hunsrück.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Über der altsteinzeitlichen Feuerstelle lag laut Stadtgeschichte Bims vom Ausbruch des Laacher Sees. Entdeckt hatten den Platz 2001 der Verein ARRATA und der Archäologe Wolfgang Welker. Spätere Grabungen der Landesarchäologie förderten Knochen vom Rothirsch und Pfeilspitzen zutage. Als besonderer Fund gilt ein verziertes Knochengerät. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "48-boppard/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Boppard",
+"steckbrief": "Boppard hat rund 15.700 Einwohner und liegt 14 km südlich von Koblenz.",
+"frage": "Wie groß ist das Stadtgebiet von Boppard?",
+"optionen": [
+"unter 25 km²",
+"25 bis unter 45 km²",
+"45 bis unter 65 km²",
+"65 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer nur die Altstadt am Rhein kennt, schätzt klein. Doch das Stadtgebiet misst 74,88 km². Bahnhofsnamen wie Boppard-Hirzenach und Boppard-Buchholz zeigen, wie weit die Stadt reicht. Richtig war 4.",
+"quelle": "Wikidata P2046 (Fläche); Wikidata, Bahnhöfe mit P131 = Ort",
+"faktencheck": "bestätigt",
+"id": "48-boppard/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Boppard",
+"steckbrief": "Boppard ist eine Stadt mit rund 15.700 Einwohnern, 14 km südlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Kaiser Barbarossa besuchte den fränkischen Königshof in Boppard.",
+"König Richard von Cornwall ließ einen Bergfried bauen.",
+"Nach Abzug der Römer blieb das Kastell leer."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein verlassenes Römerlager klingt nach Ruinenromantik und passt zum Bild vom Untergang Roms. Doch nach dem Abzug der Römer bewohnte die Zivilbevölkerung das Kastell, und daraus entwickelte sich ein merowingischer Königssitz. Barbarossa besuchte tatsächlich den Königshof, und Richard von Cornwall ließ den Bergfried bauen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/",
+"faktencheck": "unsicher",
+"id": "48-boppard/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Boppard",
+"steckbrief": "Boppard ist eine Kleinstadt mit rund 15.700 Einwohnern, 14 km südlich von Koblenz.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen erhielt in Boppard die stärkste Partei?",
+"optionen": [
+"unter 28 %",
+"28 bis unter 35 %",
+"35 bis unter 42 %",
+"42 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an die Volksparteien früherer Jahrzehnte denkt, schätzt die stärkste Partei höher ein. Bei der Bundestagswahl 2025 kam in Boppard die CDU auf 33 % der Zweitstimmen, vor SPD und AfD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "48-boppard/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Boppard / Boppard ist eine Stadt mit rund 15.700 Einwohnern, 14 km südlich von Koblenz. / Eine Grundschule in Boppard trägt den Namen eines 1796 hier geborenen Mannes. Wofür ist er bekannt? / 1. Er konstruierte Dampfschiffe für den Rhein. / 2. Er züchtete eine neue Rebsorte. / 3. Er entwickelte die Bugholztechnik. / 4. Er entwickelte eine neue Art der Schieferdeckung.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Am Rhein liegen Wein und Schifffahrt als Ruhmesquelle nahe. Doch der Mann war Michael Thonet. Er entwickelte die Bugholztechnik, bei der Holz in Form gebogen wird. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.boppard.de/bildung-und-soziales/schulen/michael-thonet-schule-boppard/schule/geschichte-der-michael-thonet-schule/",
+"faktencheck": "korrigiert",
+"id": "48-boppard/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Boppard",
+"steckbrief": "Boppard ist eine Stadt mit rund 15.700 Einwohnern, 14 km südlich von Koblenz.",
+"frage": "Zu welchem Landkreis gehört Boppard?",
+"optionen": [
+"Landkreis Mayen-Koblenz",
+"Rhein-Lahn-Kreis",
+"Landkreis Mainz-Bingen",
+"Rhein-Hunsrück-Kreis"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wegen der Nähe zu Koblenz liegt Mayen-Koblenz nahe. Boppard gehört aber zum Rhein-Hunsrück-Kreis; das Hauptkennzeichen ist SIM. Richtig war 4.",
+"quelle": "dewiki Infobox; Kennzeichen: Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "48-boppard/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Boppard",
+"steckbrief": "Boppard ist eine Stadt mit rund 15.700 Einwohnern, 14 km südlich von Koblenz.",
+"frage": "Im 6. Jahrhundert entstand der Vorgängerbau der St.-Severus-Kirche. Man verbaute dafür Reste eines römischen Gebäudes. Welches?",
+"optionen": [
+"Es war das Bad der Kastellsoldaten.",
+"Es war ein heidnischer Tempel.",
+"Es war ein Lagerhaus am Hafen.",
+"Es war das Haus des Kommandanten."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Tempel liegt nahe, denn Kirchen entstanden oft an alten Kultorten. Doch der Vorgängerbau der St.-Severus-Kirche verwendete die Überreste des römischen Militärbads an der nördlichen Kastellmauer, das zuvor abgebrannt war. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "48-boppard/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Boppard",
+"steckbrief": "Boppard ist eine Stadt mit rund 15.700 Einwohnern, 14 km südlich von Koblenz.",
+"frage": "1497 erklärte der Kurfürst von Trier der Stadt den Krieg. Wie ging der Bopparder Krieg aus?",
+"optionen": [
+"Boppard wurde wieder freie Reichsstadt.",
+"Boppard erkannte den Kurfürsten wieder als Landesherrn an.",
+"Der Kurfürst brach die Belagerung erfolglos ab.",
+"Boppard kaufte sich vom Kurfürsten frei."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Sieg der Stadt liegt nahe, denn König Maximilian hatte Boppard kurz zuvor von kurfürstlicher Gerichtsbarkeit befreit, die Entscheidung nach einem Einspruch aber revidiert. Gegen ein Heer mit Feuergeschützen, unterstützt von der Pfalz und Hessen, hielt Boppard nur wenige Wochen und erkannte den Kurfürsten wieder als Landesherrn an. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "48-boppard/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Boppard",
+"steckbrief": "Boppard ist eine Stadt mit rund 15.700 Einwohnern, 14 km südlich von Koblenz.",
+"frage": "In der Römerzeit hieß der Ort Baudobriga. Der Name ist keltischen Ursprungs. Was bedeutet er?",
+"optionen": [
+"Der Name bedeutet „Burg am Fluss“.",
+"Der Name bedeutet „Hof im Tal“.",
+"Der Name bedeutet „Ort an der Furt“.",
+"Der Name bedeutet „Ruhm-Burg“ oder „Sieg-Burg“."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Für eine Siedlung direkt am Rhein klingt „Burg am Fluss“ plausibel. Der keltische Name bedeutet aber „Ruhm-Burg“ oder „Sieg-Burg“. Belegt ist er durch lateinische Inschriften; Baudobriga war damals ein Fischer- und Händlerdorf am Eingang zum Mühltal. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "48-boppard/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "47-andernach",
+"anschluss": [
+"Einwohner: Andernach hat fast doppelt so viele wie Boppard.",
+"Bundestagswahl 2025: AfD in Andernach Zweite, in Boppard Dritte."
+],
+"km_vom_vorigen": 26.8
+},
+{
+"slug": "49-st-goar",
+"name": "St. Goar",
+"lat": 50.15,
+"lon": 7.71667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Goar",
+"steckbrief": "Die Stadt am Rhein hat rund 2.900 Einwohner und liegt 25 km südöstlich von Koblenz.",
+"frage": "Der Ortsname geht auf den Heiligen Goar zurück, einen Einsiedler am Rhein. Woher stammte Goar?",
+"optionen": [
+"Er kam als Wandermönch aus Irland.",
+"Er kam aus Aquitanien in Südwestfrankreich.",
+"Er stammte aus einem Dorf im Hunsrück.",
+"Er kam als Pilger aus Rom."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Irland liegt nahe, denn viele Missionare des frühen Mittelalters kamen von dort. Goar aber stammte aus Aquitanien. Am Rhein baute er eine Zelle mit einem Hospiz für Arme und Reisende. Bekannt war er für seine Gastfreundschaft, besonders gegenüber Rheinschiffern. Sein Grab wurde zu einer viel besuchten Wallfahrtsstätte. Richtig war 2.",
+"quelle": "Bistum Augsburg, www2.bistum-augsburg.de/heilige-des-tages/kalender/goar_id754636; Klosterlexikon RLP, www.klosterlexikon-rlp.de/mittelrhein-lahn-taunus/st-goar-stift-st-goar/geschichtlicher-abriss.html",
+"faktencheck": "korrigiert",
+"id": "49-st-goar/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "St. Goar",
+"steckbrief": "Die Kleinstadt am Mittelrhein hat rund 2.900 Einwohner und liegt 25 km südöstlich von Koblenz.",
+"frage": "Wie viele Einwohner kommen in St. Goar auf einen Quadratkilometer?",
+"optionen": [
+"unter 50",
+"50 bis unter 100",
+"100 bis unter 200",
+"200 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine enge Rheinstadt wirkt dicht besiedelt, deshalb schätzen viele höher. Doch das Stadtgebiet reicht vom Rheinufer hinauf zu den Höhenstadtteilen Biebernheim und Werlau. So kommen auf einen Quadratkilometer nur 123 Einwohner, Stand Ende 2025. Richtig war 3.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "49-st-goar/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "St. Goar",
+"steckbrief": "Die Stadt am linken Rheinufer hat rund 2.900 Einwohner und liegt 25 km südöstlich von Koblenz.",
+"frage": "Drei Aussagen zur Geschichte der Burg Rheinfels. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Französische Revolutionstruppen erstürmten Burg Rheinfels nach schwerem Kampf.",
+"Die Ruine lieferte Steine für die Festung Ehrenbreitstein.",
+"Ein Preußenprinz erwarb die Ruine zu ihrem Schutz."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Dass ein Prinz eine Ruine kauft, klingt erfunden. Doch Prinz Wilhelm von Preußen, der spätere Kaiser Wilhelm I., kaufte 1843 den mittelalterlichen Teil der Ruine. Gelogen ist der Sturm: 1794 wurde die Burg den französischen Revolutionstruppen kampflos übergeben. 1797 sprengten die Franzosen Teile davon, ab 1818 diente sie als Steinbruch für den Ehrenbreitstein. Die Lüge war 1.",
+"quelle": "Landesportal, www.regionalgeschichte.net/mittelrhein/sankt-goar/geschichte.html",
+"faktencheck": "korrigiert",
+"id": "49-st-goar/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "St. Goar",
+"steckbrief": "Die Kleinstadt am Rhein hat rund 2.900 Einwohner und liegt 25 km südöstlich von Koblenz.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in St. Goar: Welche Partei wurde zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"AfD",
+"CDU",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die AfD liegt nahe, denn bundesweit wurde sie bei dieser Wahl Zweite. In St. Goar aber kam die SPD mit 25 Prozent auf Platz zwei, hinter der CDU und vor der AfD mit 15,8 Prozent. Stand: Wahl vom 23. Februar 2025. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "49-st-goar/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Goar",
+"steckbrief": "Die Stadt am Mittelrhein hat rund 2.900 Einwohner und liegt 25 km südöstlich von Koblenz.",
+"frage": "1598 errichtete Franz Schmoll die Rheinfels-Apotheke, erst die dritte ihres Landes. Zu welchem Land gehörte St. Goar damals?",
+"optionen": [
+"St. Goar gehörte damals zu Bayern.",
+"St. Goar gehörte damals zu Hessen.",
+"St. Goar gehörte damals zu Württemberg.",
+"St. Goar gehörte damals zu Sachsen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein großes Land wie Bayern liegt nahe. Doch St. Goar gehörte damals zu Hessen. Die Rheinfels-Apotheke gilt nach Kassel und Marburg als erst dritte hessische Apotheke. Schon 1526 hatten die hessischen Landgrafen hier die Reformation eingeführt, und Landgraf Philipp II. residierte auf Burg Rheinfels. Richtig war 2.",
+"quelle": "Landesportal, www.regionalgeschichte.net/mittelrhein/sankt-goar/geschichte.html; Wikipedia, de.wikipedia.org/wiki/Rheinfels-Apotheke",
+"faktencheck": "korrigiert",
+"id": "49-st-goar/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "St. Goar",
+"steckbrief": "Die Stadt am linken Rheinufer hat rund 2.900 Einwohner und liegt 25 km südöstlich von Koblenz.",
+"frage": "Zu welchem Landkreis gehört St. Goar heute?",
+"optionen": [
+"Landkreis Mayen-Koblenz",
+"Rhein-Lahn-Kreis",
+"Rhein-Hunsrück-Kreis",
+"Landkreis Mainz-Bingen"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Mayen-Koblenz liegt nahe, denn Koblenz ist die nächste Großstadt. Doch St. Goar gehört zum Rhein-Hunsrück-Kreis. Früher war St. Goar sogar selbst Kreisstadt. Richtig war 3.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "49-st-goar/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Goar",
+"steckbrief": "Die Stadt an der Rheinstrecke hat rund 2.900 Einwohner und liegt 25 km südöstlich von Koblenz.",
+"frage": "Im Mai 1923 entgleiste bei St. Goar ein Personenzug und stürzte in den Rhein. Wer betrieb den Zug?",
+"optionen": [
+"Die Deutsche Reichsbahn betrieb den Zug.",
+"Die Preußische Staatsbahn betrieb den Zug.",
+"Eine private Bahngesellschaft betrieb den Zug.",
+"Die französische Besatzungsmacht betrieb den Zug."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Reichsbahn liegt nahe, denn sie war damals die deutsche Staatsbahn. Doch der Unfall geschah während der französischen Besatzung: Der Zug fuhr im Regiebetrieb der Besatzer. Regiebetrieb heißt hier, dass die Besatzungsmacht die Bahn selbst betrieb. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/St._Goar",
+"faktencheck": "unsicher",
+"id": "49-st-goar/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Goar",
+"steckbrief": "Die Stadt am Mittelrhein hat rund 2.900 Einwohner und liegt 25 km südöstlich von Koblenz.",
+"frage": "Das Stadtwappen von St. Goar zeigt unten ein goldenes Gitter mit Lilien. Worauf gehen die Lilien zurück?",
+"optionen": [
+"Sie gehen auf Darmstadts Marienpatrozinium zurück.",
+"Sie stammen aus dem Wappen Frankreichs.",
+"Sie stammen aus dem Wappen von Florenz.",
+"Sie stehen für den Heiligen Goar."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei Lilien denkt man zuerst an Frankreich, dessen Königswappen sie berühmt machte. Hier aber verweisen sie auf Darmstadt, den Hauptort der oberen Grafschaft Katzenelnbogen. Dort gilt die Lilie als mögliches Zeichen der Stadtkirche, die Maria geweiht ist. Der Löwe darüber stammt aus dem Wappen der Grafen von Katzenelnbogen. Richtig war 1.",
+"quelle": "Stadt St. Goar, stadt.st-goar.de/de/geschichte/wappen-von-st-goar/; Stadtlexikon Darmstadt, www.darmstadt-stadtlexikon.de/s/stadtwappen.html",
+"faktencheck": "korrigiert",
+"id": "49-st-goar/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Goar",
+"steckbrief": "Die Stadt am Rhein hat rund 2.900 Einwohner und liegt 25 km südöstlich von Koblenz.",
+"frage": "765 übertrug Frankenkönig Pippin Hospiz und Kapelle des Heiligen Goar als persönliches Benefizium. Wem?",
+"optionen": [
+"Er gab sie dem Bischof von Köln.",
+"Er gab sie dem Abt von Prüm.",
+"Er gab sie dem Abt von Fulda.",
+"Er gab sie dem Bischof von Worms."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Fulda liegt nahe, denn es war ein berühmtes Kloster der Karolingerzeit. Pippin übertrug Hospiz und Kapelle aber dem Abt der Benediktinerabtei Prüm, als persönliches Benefizium. Ein Benefizium ist ein verliehenes Gut; hier ging es an den Abt als Person. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/St._Goar",
+"faktencheck": "bestätigt",
+"id": "49-st-goar/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "St. Goar",
+"steckbrief": "Die Stadt am Rhein hat rund 2.900 Einwohner und liegt 25 km südöstlich von Koblenz.",
+"frage": "Im Schutzhafen von St. Goar liegt die TS Kaiman, ein besonderes Schiff. Was ist sie?",
+"optionen": [
+"Sie ist ein historischer Raddampfer.",
+"Sie ist ein ehemaliges Feuerlöschboot.",
+"Sie ist ein historischer Taucherschacht.",
+"Sie ist ein alter Eisbrecher."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Raddampfer liegt nahe, denn solche Veteranen gehören zum Bild am Rhein. Die TS Kaiman ist jedoch ein historischer Taucherschacht von 1892. In ihrer Kammer hielt verdichtete Luft das Wasser zurück. So konnten Arbeiter trockenen Fußes am Grund des Rheins Hindernisse räumen. Richtig war 3.",
+"quelle": "Landesportal, www.regionalgeschichte.net/mittelrhein/sankt-goar/kulturdenkmaeler/taucherschacht-kaiman.html",
+"faktencheck": "korrigiert",
+"id": "49-st-goar/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "48-boppard",
+"anschluss": [
+"Landkreis: Boppard und St. Goar liegen beide im Rhein-Hunsrück-Kreis.",
+"Einwohner: Boppard hat über fünfmal so viele wie St. Goar."
+],
+"km_vom_vorigen": 12.7
+},
+{
+"slug": "50-oberwesel",
+"name": "Oberwesel",
+"lat": 50.1075,
+"lon": 7.72639,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberwesel",
+"steckbrief": "Rund 2.900 Einwohner, 29 km südlich von Koblenz.",
+"frage": "Wozu diente der Zehnerturm am Südende der Stadt vor allem?",
+"optionen": [
+"Er diente als Zollturm eines Landesherrn.",
+"Er diente als Leuchtturm für Rheinschiffer.",
+"Er diente als Wasserturm der Stadt.",
+"Er diente als Glockenturm einer Kapelle."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Turm mit eigenem Hafen lässt an ein Leuchtfeuer für Schiffer denken. Doch der Zehnerturm am Südende der Stadt diente weniger der Verteidigung als vor allem den Kurfürsten von Trier als Zollturm. Eine Mauer verband ihn mit einem kleinen Hafen, den ein Bollwerk sicherte. Richtig war 1.",
+"quelle": "KuLaDig, kuladig.de/Objektansicht/KLD-256280; Gemeinde-Webseite, oberwesel.de/tourismus/sehenswürdigkeiten/",
+"faktencheck": "korrigiert",
+"id": "50-oberwesel/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oberwesel",
+"steckbrief": "Rund 2.900 Einwohner, 29 km südlich von Koblenz.",
+"frage": "Wie viele Einwohner kommen in Oberwesel auf einen Quadratkilometer Stadtfläche?",
+"optionen": [
+"unter 100",
+"100 bis unter 250",
+"250 bis unter 500",
+"500 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt mit Mauer und Türmen stellt man sich eng bebaut vor. Doch zur Stadt gehören auch die Stadtteile Dellhofen, Langscheid und Engehöll. Rund 2.900 Einwohner verteilen sich auf gut 18 Quadratkilometer: 159 je Quadratkilometer. Richtig war 2.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "50-oberwesel/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Oberwesel",
+"steckbrief": "Rund 2.900 Einwohner, 29 km südlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Den Stadtteil Dellhofen nennt man umgangssprachlich „Dellwe“.",
+"Die Kirche St. Martin steht unten am Rheinufer.",
+"Vom Minoritenkloster an der Oberstraße stehen noch Ruinen."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. „Dellwe“ klingt erfunden, ist aber der umgangssprachliche Name für Dellhofen. Und vom Minoritenkloster an der Oberstraße sind tatsächlich Ruinen erhalten. Gelogen war die Lage von St. Martin: Die Kirche steht oben am Nordwestrand der Stadt und bestimmt eindrucksvoll das Ortsbild. Die Lüge war 2.",
+"quelle": "Landesportal, www.regionalgeschichte.net/mittelrhein/oberwesel.html",
+"faktencheck": "bestätigt",
+"id": "50-oberwesel/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oberwesel",
+"steckbrief": "Rund 2.900 Einwohner, 29 km südlich von Koblenz.",
+"frage": "Wie hoch war die Wahlbeteiligung in Oberwesel bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 78 %",
+"78 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In kleinen Orten rechnet man oft mit Wahlmüdigkeit. Doch bei der Bundestagswahl 2025 gingen in Oberwesel 88,2 Prozent der Wahlberechtigten wählen. Stärkste Partei bei den Zweitstimmen wurde die CDU, vor AfD und SPD. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "50-oberwesel/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberwesel",
+"steckbrief": "Rund 2.900 Einwohner, 29 km südlich von Koblenz.",
+"frage": "Im Norden der Stadt steht der Katzenturm. Woher hat er vermutlich seinen Namen?",
+"optionen": [
+"Er erinnert an den Hof eines Grafengeschlechts.",
+"Wächter hielten dort Katzen gegen die Ratten.",
+"Sein Dach erinnert an zwei Katzenohren.",
+"In seinem Gemäuer nisteten früher Wildkatzen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei diesem Namen denkt fast jeder zuerst an Tiere. Doch der Name erinnert wahrscheinlich an die Grafen von Katzenelnbogen: Einer von ihnen wurde Edelbürger der Stadt und besaß nahe dem Turm einen Hof. Der Turm wurde der Stadtmauer erst nachträglich aufgesetzt. Richtig war 1.",
+"quelle": "KuLaDig, kuladig.de/Objektansicht/KLD-256277",
+"faktencheck": "korrigiert",
+"id": "50-oberwesel/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Oberwesel",
+"steckbrief": "Rund 2.900 Einwohner, 29 km südlich von Koblenz.",
+"frage": "Zu welchem Landkreis gehört die Stadt Oberwesel?",
+"optionen": [
+"Landkreis Mayen-Koblenz",
+"Rhein-Hunsrück-Kreis",
+"Landkreis Mainz-Bingen",
+"Rhein-Lahn-Kreis"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Mainz-Bingen wäre naheliegend, denn der Nachbarort Bacharach gehört dazu. Oberwesel aber liegt im Rhein-Hunsrück-Kreis; dessen Hauptkennzeichen ist SIM. Richtig war 2.",
+"quelle": "GRUNDDATEN; Landkreis Mainz-Bingen, mainz-bingen.de/de/Leben-im-Landkreis/Kommunen.php",
+"faktencheck": "korrigiert",
+"id": "50-oberwesel/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Oberwesel",
+"steckbrief": "Rund 2.900 Einwohner, 29 km südlich von Koblenz.",
+"frage": "Oberwesel liegt im UNESCO-Welterbe Oberes Mittelrheintal. Wie viele Übernachtungen zählte die Jugendherberge Schönburg im Jahr 2017?",
+"optionen": [
+"unter 10.000",
+"10.000 bis unter 30.000",
+"30.000 bis unter 100.000",
+"100.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Für eine kleine Stadt klingen schon einige tausend Gäste nach viel. Doch allein die Jugendherberge Schönburg zählte 2017 rund 57.100 Übernachtungen. Richtig war 3.",
+"quelle": "Rhein-Zeitung, 15.01.2018, rhein-zeitung.de/lokales/rhein-hunsrueck-zeitung/jugendherberge-oberwesel-am-beliebtesten_arid-1757036.html",
+"faktencheck": "korrigiert",
+"id": "50-oberwesel/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberwesel",
+"steckbrief": "Rund 2.900 Einwohner, 29 km südlich von Koblenz.",
+"frage": "Oberwesels Wappen zeigt einen schwarzen Adler auf goldenem Grund. Woher stammt der Adler?",
+"optionen": [
+"Er erinnert an die Zeit als Reichsstadt.",
+"Er stammt aus dem Wappen der Kurfürsten von Trier.",
+"Er war das Zeichen der Rheinschiffergilde.",
+"Er erinnert an Adler in den Rheinfelsen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Oberwesel kam später an Kurtrier, da liegt ein Trierer Zeichen nahe. Doch der schwarze Adler auf Gold ist der Reichsadler und stammt aus Oberwesels Zeit als freie Reichsstadt. Richtig war 1.",
+"quelle": "regionalgeschichte.net, bibliothek/aufsaetze/heinzelmann-historische-stadtentwicklung.html; Wikipedia, de.wikipedia.org/wiki/Oberwesel (Vermerk: Wappenherkunft ohne zweiten Beleg)",
+"faktencheck": "korrigiert",
+"id": "50-oberwesel/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "49-st-goar",
+"anschluss": [
+"Einwohner: Oberwesel zählt 2.878, St. Goar 2.860, fast gleichauf.",
+"Verwaltung: Bis 2019 hieß Oberwesels Verbandsgemeinde St. Goar-Oberwesel."
+],
+"km_vom_vorigen": 4.8
+},
+{
+"slug": "51-bacharach",
+"name": "Bacharach",
+"lat": 50.06111,
+"lon": 7.76944,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bacharach",
+"steckbrief": "Kleine Stadt mit rund 1.500 Einwohnern, 34 km westlich von Wiesbaden.",
+"frage": "Im unteren Feld des Bacharacher Wappens stehen weiß-blaue Rauten. Woher stammen sie ursprünglich?",
+"optionen": [
+"Sie stehen für Rhein und Himmel.",
+"Sie stammen von den Kölner Erzbischöfen.",
+"Französische Besatzer brachten sie in die Stadt.",
+"Sie stammen von Grafen aus dem Donauraum."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Weiß und Blau am Rhein lassen an Wasser und Himmel denken. Die Rauten waren aber das Wappen der Grafen von Bogen an der Donau; Ludwig I. hatte die Witwe eines Grafen von Bogen geheiratet. Über das Große Viertälersiegel kamen sie ins Stadtwappen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.bacharach.de/stadtinformationen/wappen",
+"faktencheck": "korrigiert",
+"id": "51-bacharach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bacharach",
+"steckbrief": "Kleine Stadt am Mittelrhein, 34 km westlich von Wiesbaden.",
+"frage": "Wie viele Einwohner hat die Stadt Bacharach?",
+"optionen": [
+"unter 2.500",
+"2.500 bis unter 5.000",
+"5.000 bis unter 10.000",
+"10.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Burg, Stadtmauer und Welterbe-Titel lassen eine größere Stadt erwarten. Bacharach ist aber klein: Ende 2025 zählte die Stadt 1.525 Einwohner. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "51-bacharach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bacharach",
+"steckbrief": "Stadt am Mittelrhein mit rund 1.500 Einwohnern, 34 km westlich von Wiesbaden.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bacharach trat einst dem Rheinischen Städtebund bei.",
+"In Bacharach wurden früher eigene Münzen geprägt.",
+"Burg Stahleck überstand alle Kriege ohne Zerstörung."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Burg Stahleck thront so stattlich über der Stadt, dass man sie für unversehrt halten kann. Doch im Pfälzischen Erbfolgekrieg sprengten französische Truppen die Burg; übrig blieb eine Ruine. Der Rheinische Verein für Denkmalpflege und Heimatschutz baute sie wieder auf. Städtebund und Münzen stimmen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.bacharach.de/stadtinformationen/geschichte",
+"faktencheck": "bestätigt",
+"id": "51-bacharach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bacharach",
+"steckbrief": "Stadt am Mittelrhein mit rund 1.500 Einwohnern, 34 km westlich von Wiesbaden.",
+"frage": "Bundestagswahl 2025 in der Verbandsgemeinde Rhein-Nahe, zu der Bacharach gehört: Wie viel Prozent der Zweitstimmen holte die stärkste Partei?",
+"optionen": [
+"unter 22 %",
+"22 bis unter 28 %",
+"28 bis unter 34 %",
+"34 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ländliche Weinorte am Rhein gelten oft als CDU-Hochburgen, daher liegt eine höhere Spanne nahe. In der Verbandsgemeinde Rhein-Nahe, dem Gemeindeverbund, zu dem Bacharach gehört, wurde die CDU stärkste Partei: 31,2 Prozent der Zweitstimmen, Stand Wahltag 23. Februar 2025. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "51-bacharach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bacharach",
+"steckbrief": "Stadt am Mittelrhein, rund 1.500 Einwohner, 34 km westlich von Wiesbaden.",
+"frage": "Heinrich Heine schrieb „Der Rabbi von Bacharach“. Wovon erzählt das Werk aus der Stadtgeschichte?",
+"optionen": [
+"Es erzählt, wie ein Rabbi Bürgermeister wurde.",
+"Es erzählt von einem Rabbi, der Winzer wurde.",
+"Es erzählt von einem Rabbi als Burgherrn.",
+"Es erzählt von Judenpogromen in Bacharach."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Titel lässt eine Lebensgeschichte erwarten, etwa vom Aufstieg eines Rabbis. Heine stellt darin aber Judenpogrome in Bacharach dar, eines der dunkleren Kapitel der Stadtgeschichte. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.bacharach.de/stadtinformationen/geschichte",
+"faktencheck": "bestätigt",
+"id": "51-bacharach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bacharach",
+"steckbrief": "Stadt am Mittelrhein, rund 1.500 Einwohner, 34 km westlich von Wiesbaden.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Bacharach?",
+"optionen": [
+"MZ",
+"SIM",
+"WI",
+"KH"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Mainz liegt ein gutes Stück rheinaufwärts, deshalb tippen viele auf ein Kennzeichen aus der näheren Umgebung. Bacharach gehört aber zum Landkreis Mainz-Bingen, und der gibt als Hauptkennzeichen MZ aus. Richtig war 1.",
+"quelle": "Wikidata P395 (Kennzeichen); dewiki Infobox (Landkreis)",
+"faktencheck": "bestätigt",
+"id": "51-bacharach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bacharach",
+"steckbrief": "Rheinstadt mit rund 1.500 Einwohnern, 34 km westlich von Wiesbaden.",
+"frage": "1194 heiratete auf Burg Stahleck Agnes, die Tochter des Pfalzgrafen Konrad. Wen nahm sie zum Mann?",
+"optionen": [
+"Sie heiratete einen Sohn Friedrich Barbarossas.",
+"Sie heiratete einen Sohn Heinrichs des Löwen.",
+"Sie heiratete einen Sohn des französischen Königs.",
+"Sie heiratete einen Sohn des Herzogs von Burgund."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ihr Vater Konrad war ein Stiefbruder Friedrich Barbarossas, da läge eine Ehe im staufischen Kreis nahe. Agnes heiratete aber Heinrich, einen Welfen und Sohn Heinrichs des Löwen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bacharach.de/stadtinformationen/wappen; Landesportal, www.regionalgeschichte.net/mittelrhein/bacharach.html",
+"faktencheck": "korrigiert",
+"id": "51-bacharach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bacharach",
+"steckbrief": "Weinstadt am Mittelrhein, rund 1.500 Einwohner, 34 km westlich von Wiesbaden.",
+"frage": "1959 wurde das belgische Overijse Partnerstadt von Bacharach. Wie kam der erste Kontakt zustande?",
+"optionen": [
+"Bacharach suchte einen Partner in Belgien.",
+"Ein Bacharacher Winzer hatte nach Overijse geheiratet.",
+"Overijse suchte eine Partnergemeinde am Rhein.",
+"Belgische Pilger besuchten die Wernerkapelle."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Rheinstädtchen voller Gäste sucht sich gern Partner im Ausland, so liegt Bacharachs eigene Suche nahe. Doch die Initiative kam aus Overijse: Die Gemeinde suchte eine Partnergemeinde am Rhein, beteiligt war der Deutsche Dienst für Tourismus. Besiegelt wurde die Partnerschaft beim Traubenfest in Overijse. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.bacharach.de/stadtinformationen/partnerstaedte",
+"faktencheck": "bestätigt",
+"id": "51-bacharach/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bacharach",
+"steckbrief": "Stadt am Mittelrhein, rund 1.500 Einwohner, 34 km westlich von Wiesbaden.",
+"frage": "1356 erhielt Bacharach eine Ratsverfassung. Wie war der Rat besetzt?",
+"optionen": [
+"Im Rat saßen 12 Bürger und 12 Adlige.",
+"Im Rat saßen 24 Bürger, aber kein Adliger.",
+"Im Rat saßen 12 Adlige und 12 Geistliche.",
+"Im Rat saßen 18 Bürger und 6 Adlige."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In einer Bürgerstadt erwartet man einen Rat der Bürger, Adlige eher am Rand. Ruprecht I. und Ruprecht II. beschlossen aber eine Ratsverfassung mit 12 Bürgern und 12 Adligen. Sie galt für die Vierthäler, also Bacharach, Steeg, Diebach, Manubach und die Höhenweiler. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.bacharach.de/stadtinformationen/geschichte",
+"faktencheck": "bestätigt",
+"id": "51-bacharach/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "50-oberwesel",
+"anschluss": [
+"Kennzeichen: In Oberwesel steht SIM am Auto, in Bacharach MZ.",
+"Einwohner: Oberwesel hat fast doppelt so viele wie Bacharach."
+],
+"km_vom_vorigen": 6.0
+},
+{
+"slug": "52-bingen",
+"name": "Bingen",
+"lat": 49.96694,
+"lon": 7.895,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bingen",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 28 km westlich von Mainz.",
+"frage": "Die Drususbrücke führt in Bingen über die Nahe. Warum trägt sie den Namen des römischen Feldherrn Drusus?",
+"optionen": [
+"Drusus soll in der Nahe ertrunken sein.",
+"Drusus soll hier Frieden mit Germanen geschlossen haben.",
+"Drusus soll hier eine Holzbrücke gebaut haben.",
+"Drusus soll die Brücke im Sturm erobert haben."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Feldherr als Namenspate lässt an Schlacht oder Vertrag denken. Doch Drusus soll hier eine hölzerne Brücke über die Nahe gebaut haben, als er die Grenze des Römischen Reiches am Rhein befestigte. Die heutige steinerne Brücke ließ Erzbischof Willigis um das Jahr 1000 errichten. Richtig war 3.",
+"quelle": "Landesportal, www.regionalgeschichte.net/rheinhessen/bingen/kulturdenkmaeler/drususbruecke.html",
+"faktencheck": "korrigiert",
+"id": "52-bingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bingen",
+"steckbrief": "Stadt am Rhein mit rund 25.000 Einwohnern, 28 km westlich von Mainz.",
+"frage": "Wie groß ist die Fläche der Gemarkung von Bingen?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 25 km²",
+"25 bis unter 35 km²",
+"35 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Für eine Stadt dieser Größe wirkt eine mittlere Fläche naheliegend. Doch zu Bingen gehören neben der Kernstadt eingemeindete Orte wie Büdesheim, Bingerbrück, Dietersheim und Dromersheim. Zusammen kommen sie auf rund 37,7 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046; Altbestand staedte.json (37,71 bzw. 37,68 km²)",
+"faktencheck": "bestätigt",
+"id": "52-bingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bingen",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern am Rhein, 28 km westlich von Mainz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Hindenburgbrücke verbindet Bingen bis heute mit Rüdesheim.",
+"Das Museum am Strom nutzt ein früheres Elektrizitätswerk.",
+"Das Binger Stadtwappen zeigt auch das Mainzer Rad."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Rheinbrücken wirken wie Bauwerke für die Ewigkeit. Doch die Hindenburgbrücke nach Rüdesheim wurde im März 1945 von der Wehrmacht gesprengt und nie wieder aufgebaut. Das Museum am Strom nutzt wirklich ein früheres Elektrizitätswerk, und die steinerne Drususbrücke stammt tatsächlich aus dem 11. Jahrhundert. Die Lüge war 1.",
+"quelle": "Stadt Bingen, www.bingen.de; Stadt Rüdesheim, www.ruedesheim.de; Landesportal, www.regionalgeschichte.net",
+"faktencheck": "korrigiert",
+"id": "52-bingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bingen",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 28 km westlich von Mainz.",
+"frage": "Welche Partei holte in Bingen bei der Bundestagswahl 2025 die zweitmeisten Zweitstimmen?",
+"optionen": [
+"AfD",
+"SPD",
+"GRÜNE",
+"CDU"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die AfD liegt nahe, denn bundesweit wurde sie 2025 zweitstärkste Kraft. In Bingen aber kam die SPD mit 18,6 Prozent auf Platz zwei, vor der AfD mit 16,8 Prozent. Vorn lag die CDU mit 31,1 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "52-bingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bingen",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 28 km westlich von Mainz.",
+"frage": "Von 2003 bis 2010 war Bingen Schauplatz der „Breakpoint“. Was war die Breakpoint?",
+"optionen": [
+"Die Breakpoint war ein internationales Tennisturnier.",
+"Die Breakpoint war ein Treffen von Motorradfahrern.",
+"Die Breakpoint war ein Treffen der Demoszene.",
+"Die Breakpoint war ein Wettschwimmen im Rhein."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach Tennis, wo der Breakball auf Englisch so heißt. Doch die Breakpoint war eine Demoparty: Dort zeigt die Demoszene, Tüftler rund um Computergrafik und -musik, selbst programmierte Kunstwerke. Sie zählte zu den größten Treffen dieser Szene weltweit. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bingen_am_Rhein",
+"faktencheck": "bestätigt",
+"id": "52-bingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bingen",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 28 km westlich von Mainz.",
+"frage": "Bingen pflegt mehrere Städtepartnerschaften. Welche dieser tschechischen Städte gehört dazu?",
+"optionen": [
+"Český Krumlov",
+"Telč",
+"Litomyšl",
+"Kutná Hora"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Český Krumlov ist vielen als Reiseziel vertraut und liegt deshalb nahe. Doch Bingens tschechische Partnerstadt ist Kutná Hora. Daneben pflegt Bingen Partnerschaften etwa mit Hitchin im Vereinigten Königreich, Nuits-Saint-Georges in Frankreich und Prizren im Kosovo. Richtig war 4.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "52-bingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bingen",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 28 km westlich von Mainz.",
+"frage": "Hildegard von Bingen starb 1179 und wurde als Volksheilige verehrt. Wann wurde sie offiziell heiliggesprochen?",
+"optionen": [
+"Im Jahr 2012",
+"Im Jahr 1181",
+"Im Jahr 1531",
+"Im Jahr 1904"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Heiligen des Mittelalters liegt eine Heiligsprechung bald nach dem Tod nahe. Doch Hildegard wurde lange nur als Volksheilige verehrt; offiziell heiliggesprochen wurde die Äbtissin, Autorin, Musikerin und Heilkundige erst 2012. Ihr Wirkungsort war Bingen. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bingen_am_Rhein",
+"faktencheck": "bestätigt",
+"id": "52-bingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bingen",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 28 km westlich von Mainz.",
+"frage": "Die Partnerschaft mit Venarey-les-Laumes in Frankreich schloss ursprünglich nicht Bingen selbst. Wer war zuerst Partner?",
+"optionen": [
+"Der heutige Stadtteil Büdesheim war zuerst Partner.",
+"Der heutige Stadtteil Bingerbrück war zuerst Partner.",
+"Der heutige Stadtteil Dromersheim war zuerst Partner.",
+"Der Landkreis Mainz-Bingen war zuerst Partner."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Dromersheim liegt nahe, denn es kam erst spät zu Bingen. Doch die Partnerschaft schloss Bingerbrück, damals noch eigenständig auf der anderen Seite der Nahe. Mit der Eingemeindung von Bingerbrück übernahm Bingen sie. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bingen_am_Rhein",
+"faktencheck": "bestätigt",
+"id": "52-bingen/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "51-bacharach",
+"anschluss": [
+"Einwohner: Bingen hat fast siebzehnmal so viele wie Bacharach.",
+"Landkreis: Bacharach und Bingen liegen beide in Mainz-Bingen."
+],
+"km_vom_vorigen": 13.8
 }
 ]
 }

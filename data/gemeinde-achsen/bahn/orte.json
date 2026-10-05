@@ -1,5 +1,5 @@
 {
- "_doc": "Raum Bahn Freiburg–Neuwied (Mike, 2026-10-03): Bahnfahrt auf der rechten Rheinseite (Rheintalbahn bis Mannheim, über Frankfurt, RB10 Wiesbaden–Rüdesheim–Kaub–St. Goarshausen–Lahnstein–Neuwied), hin und zurück. Probe der neuen Kette nach Spielkonzept v0.3.1 §8 Nr. 9: Geschichten aus Gemeinde-Webseite und Landesportal statt Wikipedia, direkte Aufrufe, Prüfstufen; Aufwandsvergleich gegen die Räume Freiburg und Neuwied. Erst 10 Orte als Messung (drei Länder: BW, Hessen, RLP), dann Ausbau auf 30–40. Reihenfolge = Hinfahrt. Keine Spender (Kosten-Pareto H5). Strecke Mannheim–Frankfurt bewusst ohne Ort: ob Riedbahn oder Main-Neckar-Bahn, hängt vom Zug ab. Ausbau (Mike, 2026-10-03: über die Bergstraße): 19 weitere Orte, Reihenfolge der Liste = Hinfahrt; die Nummern 01–10 sind die Messorte der ersten Probe, 11–29 der Ausbau. Abschnitt Karlsruhe–Heidelberg/Mannheim ohne Ort (Zugweg offen). Am Ende schließen Bendorf und Engers aus dem Raum Neuwied an. Ausbau Rheintal (2026-10-06): Friesenheim (zwischen Lahr und Offenburg) und Appenweier (zwischen Offenburg und Achern), je ein Ort für die Aufwandsmessung je Ort. Ausbau Rheinbahn (2026-10-06, Mike: über Mannheim): Renchen (zwischen Appenweier und Achern), dann Rastatt–Durmersheim–Karlsruhe–Stutensee–Graben-Neudorf–Waghäusel–Hockenheim–Schwetzingen–Mannheim (Rheinbahn) und Ladenburg (Main-Neckar-Bahn, Mannheim-Friedrichsfeld–Weinheim); Haltepunkte an den Streckenartikeln geprüft. Ausbau Rhein-Main (2026-10-06): Seeheim-Jugenheim (kein eigener Bahnhof mehr, Strecke 1–2 km am Ort vorbei, Halt Bickenbach), Darmstadt, Frankfurt, Mainz, Wiesbaden; Reihe vorläufig über Frankfurt (Langen–Frankfurt–Mainz), Darmstadt–Mainz-Zweig und Neu-Isenburg, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim folgen.",
+ "_doc": "Raum Bahn Freiburg–Neuwied (Mike, 2026-10-03): Bahnfahrt auf der rechten Rheinseite (Rheintalbahn bis Mannheim, über Frankfurt, RB10 Wiesbaden–Rüdesheim–Kaub–St. Goarshausen–Lahnstein–Neuwied), hin und zurück. Probe der neuen Kette nach Spielkonzept v0.3.1 §8 Nr. 9: Geschichten aus Gemeinde-Webseite und Landesportal statt Wikipedia, direkte Aufrufe, Prüfstufen; Aufwandsvergleich gegen die Räume Freiburg und Neuwied. Erst 10 Orte als Messung (drei Länder: BW, Hessen, RLP), dann Ausbau auf 30–40. Reihenfolge = Hinfahrt. Keine Spender (Kosten-Pareto H5). Strecke Mannheim–Frankfurt bewusst ohne Ort: ob Riedbahn oder Main-Neckar-Bahn, hängt vom Zug ab. Ausbau (Mike, 2026-10-03: über die Bergstraße): 19 weitere Orte, Reihenfolge der Liste = Hinfahrt; die Nummern 01–10 sind die Messorte der ersten Probe, 11–29 der Ausbau. Abschnitt Karlsruhe–Heidelberg/Mannheim ohne Ort (Zugweg offen). Am Ende schließen Bendorf und Engers aus dem Raum Neuwied an. Ausbau Rheintal (2026-10-06): Friesenheim (zwischen Lahr und Offenburg) und Appenweier (zwischen Offenburg und Achern), je ein Ort für die Aufwandsmessung je Ort. Ausbau Rheinbahn (2026-10-06, Mike: über Mannheim): Renchen (zwischen Appenweier und Achern), dann Rastatt–Durmersheim–Karlsruhe–Stutensee–Graben-Neudorf–Waghäusel–Hockenheim–Schwetzingen–Mannheim (Rheinbahn) und Ladenburg (Main-Neckar-Bahn, Mannheim-Friedrichsfeld–Weinheim); Haltepunkte an den Streckenartikeln geprüft. Ausbau Rhein-Main (2026-10-06): Seeheim-Jugenheim (kein eigener Bahnhof mehr, Strecke 1–2 km am Ort vorbei, Halt Bickenbach), Darmstadt, Frankfurt, Mainz, Wiesbaden; Reihe vorläufig über Frankfurt (Langen–Frankfurt–Mainz), Darmstadt–Mainz-Zweig und Neu-Isenburg, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim folgen. Rückfahrt linksrheinisch (Mike 2026-10-06, Andernach in jedem Fall, weil von Neuwied derzeit praktisch keine Bahn fährt): nach Vallendar Andernach, Boppard, St. Goar, Oberwesel, Bacharach, Bingen (linke Rheinstrecke, Bahnhöfe an der Streckenliste geprüft); Koblenz, Spay, Rhens, Weißenthurm, Trechtingshausen, Niederheimbach, Ingelheim folgen.",
  "raum": "Bahn Freiburg–Neuwied",
  "orte": [
   [
@@ -323,6 +323,48 @@
    "Vallendar",
    "Vallendar",
    "Stadt"
+  ],
+  [
+   "47-andernach",
+   "ziel",
+   "Andernach",
+   "Andernach",
+   "Stadt"
+  ],
+  [
+   "48-boppard",
+   "ziel",
+   "Boppard",
+   "Boppard",
+   "Stadt"
+  ],
+  [
+   "49-st-goar",
+   "ziel",
+   "St. Goar",
+   "St. Goar",
+   "Stadt"
+  ],
+  [
+   "50-oberwesel",
+   "ziel",
+   "Oberwesel",
+   "Oberwesel",
+   "Stadt"
+  ],
+  [
+   "51-bacharach",
+   "ziel",
+   "Bacharach",
+   "Bacharach",
+   "Stadt"
+  ],
+  [
+   "52-bingen",
+   "ziel",
+   "Bingen",
+   "Bingen am Rhein",
+   "Stadt"
   ]
  ],
  "spender": [],
@@ -379,7 +421,13 @@
   "43-darmstadt": "HE",
   "44-frankfurt": "HE",
   "45-mainz": "RP",
-  "46-wiesbaden": "HE"
+  "46-wiesbaden": "HE",
+  "47-andernach": "RP",
+  "48-boppard": "RP",
+  "49-st-goar": "RP",
+  "50-oberwesel": "RP",
+  "51-bacharach": "RP",
+  "52-bingen": "RP"
  },
  "quellen_amtlich": {
   "05-ruedesheim": {
@@ -426,6 +474,36 @@
   },
   "44-frankfurt": {
    "webseite": "https://www.stadtgeschichte-ffm.de/"
+  },
+  "47-andernach": {
+   "portal": [
+    "https://www.regionalgeschichte.net/mittelrhein/andernach.html"
+   ]
+  },
+  "48-boppard": {
+   "portal": [
+    "https://www.regionalgeschichte.net/mittelrhein/boppard.html"
+   ]
+  },
+  "49-st-goar": {
+   "portal": [
+    "https://www.regionalgeschichte.net/mittelrhein/sankt-goar.html"
+   ]
+  },
+  "50-oberwesel": {
+   "portal": [
+    "https://www.regionalgeschichte.net/mittelrhein/oberwesel.html"
+   ]
+  },
+  "51-bacharach": {
+   "portal": [
+    "https://www.regionalgeschichte.net/mittelrhein/bacharach.html"
+   ]
+  },
+  "52-bingen": {
+   "portal": [
+    "https://www.regionalgeschichte.net/mittelrhein/bingen.html"
+   ]
   }
  },
  "laeufe": []

@@ -116,9 +116,13 @@ def wert(w, quelle, stand=None, hinweis=None):
 # ── Wikidata ────────────────────────────────────────────────────────────────
 
 def wd_claims(qids):
-    d = hole('https://www.wikidata.org/w/api.php?' + urllib.parse.urlencode({
-        'action': 'wbgetentities', 'format': 'json', 'ids': '|'.join(qids), 'props': 'claims|labels', 'languages': 'de'}))
-    return d['entities']
+    # wbgetentities nimmt höchstens 50 Kennungen je Anfrage (Raum bahn mit 52 Orten, 2026-10-06)
+    ent = {}
+    for i in range(0, len(qids), 50):
+        d = hole('https://www.wikidata.org/w/api.php?' + urllib.parse.urlencode({
+            'action': 'wbgetentities', 'format': 'json', 'ids': '|'.join(qids[i:i + 50]), 'props': 'claims|labels', 'languages': 'de'}))
+        ent.update(d['entities'])
+    return ent
 
 
 def gueltige(claims, prop):

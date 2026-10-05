@@ -1,0 +1,1068 @@
+ENTITÄT: ort
+BEZEICHNUNG: Bingen am Rhein
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  status: kreisangehörige Stadt
+  landkreis: Mainz-Bingen
+  bundesland: Rheinland-Pfalz
+  roemer_name: Bingium
+  einwohner: 27653
+  einwohner_stand: 1. Juli 2026
+  flaeche_km2: 37.73
+  stadtteile_anzahl: 8
+  ortsname_herkunft_1: urindogermanisch "bhengo-m" = Ort an der Brechung des Flusses
+  ortsname_herkunft_2_vermutlich: keltisch für "Loch im Fels", Bezug zum Binger Loch
+  jahresniederschlag_mm: 500-550
+  niederschlag_genauigkeit: ca.
+  landesgartenschau: 2008 Ausrichter
+  buga_beteiligung: 2029
+  unesco_welterbe: Kulturlandschaft Oberes Mittelrheintal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  flaeche_km2: 8.68
+  einwohner: 8532
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bingerbrück
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  flaeche_km2: 3.51
+  einwohner: 3336
+  eingemeindung_jahr: 1969
+  eingemeindung_datum: 7. Juni 1969
+  einwohner_bei_eingemeindung: 3655
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Büdesheim
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  flaeche_km2: 9.12
+  einwohner: 7680
+  eingemeindung_datum: 1. August 1929
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Dietersheim
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  flaeche_km2: 4.16
+  einwohner: 1973
+  eingemeindung_datum: 1. August 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Dromersheim
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  flaeche_km2: 3.23
+  einwohner: 1463
+  eingemeindung_datum: 22. April 1972
+  einwohner_bei_eingemeindung: 1221
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gaulsheim
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  flaeche_km2: 2.92
+  einwohner: 1121
+  eingemeindung_jahr: 1938
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kempten am Rhein
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  flaeche_km2: 3.20
+  einwohner: 1912
+  eingemeindung_jahr: 1938
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Sponsheim
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  flaeche_km2: 2.91
+  einwohner: 1636
+  eingemeindung_datum: 22. April 1972
+  einwohner_bei_eingemeindung: 665
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burg Klopp
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1240-1277
+  funktion: Kulturdenkmal
+  funktion_aktuell: Sitz der Stadtverwaltung
+  kontext_erbauung: Streben nach Unabhängigkeit von Mainzer Gerichtsbarkeit
+GUELTIG_AB: 1240
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  typ: ehemalige Stiftskirche
+  baustil_krypta: romanisch
+  baustil_hauptbau: 15. Jahrhundert
+  herkunft: aus christlicher Gemeinde 4./5. Jahrhundert hervorgegangen
+  grabstaetten: Mauricia (5./6. Jh., eingemauert in Krypta), Aetherius Priester (5./6. Jh.)
+GUELTIG_AB: 400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Gordianus und Epimachus
+ORTSTEIL_BEZUG: Dietersheim
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  typ: Pfarrkirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Rochuskapelle
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Wallfahrtsstätte, Rochusoktav
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: bruecke
+BEZEICHNUNG: Drususbrücke
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/bingen.html | Landesportal
+EIGENSCHAFTEN:
+  material_ursprung: hölzern
+  benannt_nach: römischer Feldherrr Drusus
+  namensherkunft: Drusus soll erste hölzerne Brücke über Nahe gebaut haben
+  material_aktuell: steinern
+  bauzeit_stein: unter Willigis, frühmittelalterlich
+  ueberwegung: römische Rheintalstraße
+  datum_roemer_bruecke: 77 n. Chr.
+  kapelle: romanische Brückenkapelle
+GUELTIG_AB: 77
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Alter Rheinkran
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: 1487
+  standort: Rheinanlagen, Hindenburganlagen
+  superlativ_regional: ältester erhaltener Rheinkran
+GUELTIG_AB: 1487
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Museum am Strom
+QUELLE: https://www.bingen.de/kultur/museum-am-strom | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gebaeude: historisches Elektrizitätswerk
+  gebaeude_jahr: 1898
+  lage: Eingang UNESCO-Welterbe Oberes Mittelrheintal
+  abteilungen: Hildegard von Bingen, Römisches Ärztebesteck, Rheinromantik, Stadtgeschichte
+  adresse: Museumstraße 3, 55411 Bingen am Rhein
+  telefon: 06721 184-353
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Binger Ärztebesteck
+QUELLE: https://www.bingen.de/kultur/museum-am-strom | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl_instrumente: 67
+  zeitraum: 2. Jahrhundert n. Chr.
+  ausstellungsort: Museum am Strom
+  superlativ: weltweit größter Fund zur antiken Medizin
+  kategorie: medizinisches Instrumentarium
+GUELTIG_AB: 100
+GUELTIG_BIS: 200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: bruecke
+BEZEICHNUNG: Hindenburgbrücke
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  laenge_m: 1175
+  verbindung: Bingen mit rechter Rheinstrecke bei Rüdesheim
+  eroeffnung: 1915
+  zerstoerung: Zweiter Weltkrieg
+  wiederaufbau: nein
+GUELTIG_AB: 1915
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Alter Friedhof
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: 19. Jahrhundert
+  besonderheit: Napoleondenkmal
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Jüdischer Friedhof
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  gründung: 16. Jahrhundert
+  status: geschütztes Kulturdenkmal
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: synagoge
+BEZEICHNUNG: Neue Synagoge
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: 1905
+  zerstoerung_datum: 10. November 1938
+  zerstoerung_verursacher: SA-Männer und Nazianhänger
+  zerstoerung_detail: angezündet, brannte bis auf Umfassungsmauern ab
+GUELTIG_AB: 1905
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Lotsenmuseum
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  ehemaliger_verwendungszweck: Lotsenhaus
+  standort: Hindenburganlage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haferkasten
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: nach 1689
+  nutzung: Stefan-George-Museum
+GUELTIG_AB: 1689
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Puricellipalais
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  baustil: Empirebau
+  erbauung: 1780
+GUELTIG_AB: 1780
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Villa Sachsen
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  funktion: staatliches Weingut, Kulturzentrum
+  organisation: Sōka Gakkai Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: archaeologische_staette
+BEZEICHNUNG: römische Villa rustica
+ORTSTEIL_BEZUG: Binger Wald
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  typ: Landgut
+  zeit: römisch
+GUELTIG_AB: 100
+GUELTIG_BIS: 400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Europareservat Rheinauen
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  status: Naturschutzgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bingen (Rhein) Hauptbahnhof
+ORTSTEIL_BEZUG: Bingerbrück
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  ehemaliger_name: Bingerbrück
+  historischer_hintergrund: preußischer Grenzbahnhof
+  strecke_nahe: Nahetalbahn (Bad Kreuznach, Idar-Oberstein)
+  strecke_rhein: linke Rheinstrecke (Mainz-Köln)
+  zugtypen: Schienenpersonennahverkehr, IC, EC, ICE
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bingen-Stadt
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  ehemaliger_name: Bingen (Rhein)
+  verkehrstyp: Schienenpersonennahverkehr
+  historischer_hintergrund: gehörte zur Hessischen Ludwigsbahn
+  lage: zwei Kilometer östlich der Nahe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: bahnhaltepunkt
+BEZEICHNUNG: Bingen-Gaulsheim
+ORTSTEIL_BEZUG: Gaulsheim
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  bedienung: Regionalbahn RB 26
+  strecke: Mainz-Köln
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: kleinbahn
+BEZEICHNUNG: AG Binger Nebenbahnen
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  betrieb_ab: 1906
+  betrieb_bis: 1955
+  betrieb_art: teils Kleinbahn, teils Straßenbahn
+  strecken: Bahnhof Stadt, Bahnhof Bingerbrück, Büdesheim, ab 1907 bis Dietersheim
+  aufgabe_nach_bingerbrueck: 1922
+  gesamtaufgabe: 22. Oktober 1955
+GUELTIG_AB: 1906
+GUELTIG_BIS: 1955
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Binger Winzerfest
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  dauer_tage: 11
+  art: Weinfest
+  superlativ: längstes Weinfest am Rhein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Landesgartenschau Rheinland-Pfalz
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 2008
+  dauerausstell_beginn: 18. April 2008
+  dauerausstell_ende: 19. Oktober 2008
+  ausstellung_flaeche_hektar: 24
+  ausstellung_laenge_km: 2.8
+  besucher_tatsaechlich: 1300000
+  besucher_erwartet: 600000
+  zweck: Umgestaltung Rheinanlagen
+GUELTIG_AB: 2008
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Kulturuferfest
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  termin: erster Sonntag im Juli
+  ort: Rheinanlagen, Kulturufer
+  charakterisierung: Straßenkünstler, Walking Acts, Gaukler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Rochusfest
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  name_alt: Rochusoktav
+  art: kirchliches Fest mit volkstümlichem Charakter
+  veranstalter: Bistum Mainz
+  funktion: Wallfahrt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Rhein in Flammen Bingen
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  typ: Feuerwerksveranstaltung
+  anzahl_feuerwerke: 7
+  strecke: zwischen Trechtingshausen und Bingen am Rhein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Recharge im Park am Mäuseturm
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  seit: 2015
+  frequenz: drei- bis viermal pro Jahr
+  charakterisierung: elektronische Musik
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Binger Weihnachtsrock
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  seit: 2010
+  termin: jährlich vor Weihnachten
+  art: Musikevent
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Breakpoint
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  beteiligungszeit: 2003-2010
+  art: Demoparty (Demoszene)
+  superlativ: eine der größten Veranstaltungen der Demoszene weltweit
+GUELTIG_AB: 2003
+GUELTIG_BIS: 2010
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Hildegard von Bingen
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1098-1179
+  beruf: Äbtissin, Autorin, Musikerin, Heilkundige
+  titel: Mystikerin, Schriftstellerin
+  status: Heilige der katholischen Kirche
+  heiligsprechung_datum: 10. Mai 2012
+  gedenktag: 17. September
+  tradition: Volksheilige
+  wirkungsort: Bingen
+  schulen_benannt_nach: Hildegardisschule, Binger Mädchenschule
+  museumsausstellung: Museum am Strom Dauerausstellung
+GUELTIG_AB: 1098
+GUELTIG_BIS: 1179
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Berta von Bingen
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 7./8. Jahrhundert
+  status: Heilige der katholischen Kirche
+GUELTIG_AB: 600
+GUELTIG_BIS: 800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Rupert von Bingen
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: um 712 - um 732
+  status: Heiliger
+  patron: Bingen-Bingerbrück
+  patron_zusatz: Patron der Pilger
+  gedenktag: 15. Mai
+GUELTIG_AB: 712
+GUELTIG_BIS: 732
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Bartholomäus Holzhauser
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1613-1658
+  beruf: katholischer Priester, Ordensstifter
+  position: Pfarrer und Dekan von Bingen
+  todeszirkumstanz: starb im Rufe der Heiligkeit in Bingen
+  grab: Kirche St. Martin
+  ehre: Gedenkbüste in Münchner Ruhmeshalle
+GUELTIG_AB: 1613
+GUELTIG_BIS: 1658
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Thomas Feser
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  position: Oberbürgermeister
+  wahl_datum: 22. April 2012
+  wahl_stimmen_prozent: 51.78
+  vereidigung_datum: 29. Mai 2012
+  wiederwahl_datum: 24. November 2019
+  wiederwahl_stimmen_prozent: 51.4
+  wiederwahl_art: Stichwahl
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Ulrich Mönch
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  position: Bürgermeister
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Sebastian Hamann
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  partei: SPD
+  position: Beigeordneter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Carl Johann Brilmayer
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/bingen.html | Landesportal
+EIGENSCHAFTEN:
+  geburtstag: 29. März 1843
+  geburtsort: Bingen
+  vater: Peter Jakob Brilmayer
+  vater_beruf: Verwalter
+  mutter: Maria Magdalena geb. Vieth
+GUELTIG_AB: 1843
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Stefan George
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1868-1933
+  beruf: Dichter
+  museum: Stefan-George-Museum (Haferkasten)
+GUELTIG_AB: 1868
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Jan Schlaudraff
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  geburt: 18. Juli 1983
+  geburtsort: Waldbröl
+  beruf: Fußballspieler
+  bezug_bingen: aufgewachsen in Bingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Hitchin (Vereinigtes Königreich)
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  land: Vereinigtes Königreich
+  seit: 1958
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Nuits-Saint-Georges (Frankreich)
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  seit: 1960
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Prizren (Kosovo)
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  land: Kosovo
+  seit: 1968
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Venarey-les-Laumes (Frankreich)
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  seit: 1967
+  anmerkung: ursprünglich mit Bingerbrück, 1969 von Bingen übernommen
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Anamur (Türkei)
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  land: Türkei
+  seit: 2011
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Kutná Hora (Tschechien)
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  land: Tschechien
+  seit: 2011
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Stadtarchiv Bingen
+QUELLE: https://www.bingen.de/kultur/binger-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Geschichtenspeicher, Wissensspeicher für kommende Generationen
+  angebot: Leitfaden für Familienforschung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: hochschule
+BEZEICHNUNG: Technische Hochschule Bingen
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  typ: Technische Hochschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: gymnasium
+BEZEICHNUNG: Stefan-George-Gymnasium
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  typ: Gymnasium
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: privatschule
+BEZEICHNUNG: Hildegardisschule
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  typ: Katholische Privatschule
+  träger: Bistum Mainz
+  schultyp: Gymnasium und Berufsbildende Schule
+  benannt_nach: Hildegard von Bingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: hospital
+BEZEICHNUNG: Heilig-Geist-Hospital
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  typ: Allgemeinkrankenhaus
+  superlativ: letztes Allgemeinkrankenhaus im Landkreis Mainz-Bingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsname_etymologie
+BEZEICHNUNG: Bingium
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  sprache: Latein, römisch
+  erste_bezeugung: Tacitus, Anfang 2. Jahrhundert
+  kontext_bezeugung: Bataveraufstand
+  herkunft_1: urindogermanische Wurzel "bhengo-m" = Ort an der Brechung des Flusses
+  herkunft_2: keltisch für "Loch im Fels", Bezug zum Binger Loch
+GUELTIG_AB: 100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Veroneser Schenkung
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 983
+  geber: Kaiser Otto II.
+  empfaenger: Erzbischof Willigis von Mainz
+  objekt: Bingen
+  folge: Bingen unter Mainzer Kontrolle
+GUELTIG_AB: 983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Zerstoerung Bingens
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1165
+  grund: Streitigkeiten zwischen Erzbischof von Mainz und Kaiser
+  akteure: Erzbischof von Mainz, Kaiser
+GUELTIG_AB: 1165
+GUELTIG_BIS: 1165
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Bauernkrieg Beteiligung
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1525
+  versuch: erfolglos
+  grund: Strebungen nach Unabhängigkeit
+GUELTIG_AB: 1525
+GUELTIG_BIS: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Französische Annexion
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  jahr_besatzung: 1793
+  region: linkes Rheinufer
+  konsolidierung: 1797
+  verwaltung: Département du Mont-Tonnerre, Kanton Bingen
+GUELTIG_AB: 1793
+GUELTIG_BIS: 1815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Wiener Kongress
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1815
+  folge: Rheinhessen zum Großherzogtum Hessen
+GUELTIG_AB: 1815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Deportation jüdischer Bürger
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  datum: 20. März 1942
+  anzahl_personen: 76
+  methode: zwangsweise Einstieg in am Rheinufer geparkte LKW
+  ziel: Vernichtungslager
+GUELTIG_AB: 1942
+GUELTIG_BIS: 1942
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Luftangriffe USAAF
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: Zweiter Weltkrieg
+  angreifer: United States Army Air Forces
+  hauptziel: Rangierbahnhof Bingerbrück
+  region: linksrheinisch
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Bingen am Rhein
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  farbe_grund: Blau
+  figur_1: römischer Reiter mit Helm, Waffenrock, silbern
+  figur_1_deutung: Heiliger Martin
+  figur_1_detail: auf schreitend silbernem Rosse mit goldenem Huf und rotem Zaumzeug
+  figur_2: kniender Mann mit Krücke, silbern
+  figur_2_detail: rotes Band über rechte Schulter, goldener Rock
+  symbol_zusatz: rotes Schildchen mit silbernem sechsspeichigen Rad
+  symbol_zusatz_deutung: Mainzer Rad
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: kastell
+BEZEICHNUNG: Holz-Erde-Kastell Bingen
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  zeit: römisch, nach römischer Eroberung
+  konstruktion: Holz-Erde
+  funktion: Truppenstationierung
+GUELTIG_AB: 77
+GUELTIG_BIS: 400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: naturlandschaft
+BEZEICHNUNG: Binger Wald
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lage: westlich der Stadt
+  beschreibung: erhebt sich westlich der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: naturlandschaft
+BEZEICHNUNG: Rochusberg
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lage: nahezu vollständig im Stadtgebiet Bingen umschlossen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: flusslage
+BEZEICHNUNG: Nahemündung
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lage: zwischen Bingen und Stadtteil Bingerbrück
+  bedeutung: markiert Grenze zwischen Oberrhein und Mittelrhein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: landmarke
+BEZEICHNUNG: Binger Loch
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  typ: Felsloch im Rhein
+  geschichte: zur Keltenzeit noch Riff
+  namensherkunft_moeglichkeit: keltisches Wort für "Loch im Fels"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: sage
+BEZEICHNUNG: Binger Mäuseturm-Sage
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  figur: Mainzer Erzbischof Hatto
+  beschreibung: soll von Mäusen gefressen worden sein
+  art: legendär
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: verkehrsstrecke
+BEZEICHNUNG: Nahetalbahn
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  typ: Eisenbahnstrecke
+  start_bingen: Hauptbahnhof
+  ziel: Bad Kreuznach, Idar-Oberstein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: verkehrsstrecke
+BEZEICHNUNG: linke Rheinstrecke
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  typ: Eisenbahnstrecke
+  strecke: Mainz-Köln
+  bahnhoefe_bingen: Hauptbahnhof, Bahnhof Bingen-Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: antike_strasse
+BEZEICHNUNG: Ausoniusstraße
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  typ: römische Militärstraße
+  start: Bingen
+  ziel: Trier
+  funktion: militärische Verbindung
+GUELTIG_AB: 77
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: antike_strasse
+BEZEICHNUNG: Römische Rheintalstraße
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  typ: römische Handelsstraße
+  uebergang: Drususbrücke
+  dendrochronologie_bruecke: 77 n. Chr.
+GUELTIG_AB: 77
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: rheinanlagen
+BEZEICHNUNG: Kulturufer Bingen
+QUELLE: https://de.wikipedia.org/wiki/Bingen_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  entstehung: nach Landesgartenschau 2008
+  ziel: Etablierung als Ziel für Kulturreisende
+  verwaltung: seit 2010 als Kulturufer Bingen vermarktet
+  route: Welterbe-Gärten
+  flaeche_gesamt: 24 Hektar
+  teile: Hafenpark/Gartenstadt, Hindenburganlage, Rhein-Nahe-Eck, Park am Mäuseturm
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

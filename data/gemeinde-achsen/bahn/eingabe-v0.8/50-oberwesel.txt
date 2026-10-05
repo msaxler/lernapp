@@ -1,0 +1,1007 @@
+ZIELORT: Oberwesel (Stadt)
+LAGE: 29 km südlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Oberwesel
+
+GRUNDDATEN:
+  landkreis: Rhein-Hunsrück-Kreis  [dewiki Infobox]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 2878  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 18,08  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 159  [berechnet aus Einwohner und Fläche]
+  kfz: SIM (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 75 | 90 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2858562)]
+  naechste_grossstadt: Koblenz, 29 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 42 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Oberwesel  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 55430  [Wikidata P281]
+  vorwahl: 06744  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 39,8 %, AfD 15,2 %, SPD 14,8 %, GRÜNE 11 %, Die Linke 6,1 %, FDP 5,8 %; Wahlbeteiligung 88,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Jan Zimmer (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-06]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT landkreis: Landkreis (Ersatz: Kennzeichen), A, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: St. Goar (Stadt)
+  landkreis: Rhein-Hunsrück-Kreis  [dewiki Infobox]
+  einwohner: 2860  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 23,17  [Wikidata P2046; Altbestand staedte.json]
+  hoehe_m: 74 | 208 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2841611)]
+  naechste_grossstadt: Koblenz, 25 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Sankt Goar  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 31,3 %, SPD 25 %, AfD 15,8 %, GRÜNE 8,3 %, FDP 5,9 %, Die Linke 5,6 %; Wahlbeteiligung 83 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  kfz: GOA (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand staedte.json]
+
+FAHRT: Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Frankfurt am Main, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Boppard, St. Goar, Oberwesel, Bacharach, Bingen
+
+FAKTEN (Zielort Oberwesel):
+ID: 50-oberwesel/001
+ENTITÄT: ort
+BEZEICHNUNG: Oberwesel
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  lage: Mittelrhein, Rheinland-Pfalz, Rhein-Hunsrück-Kreis, linksrheinisch
+  rheinkilometer: 550
+  nachbargemeinden: Sankt Goar und Bacharach
+  terrain: am Fuß der Schönburg
+  verwaltungszugehoerigkeit: Verbandsgemeinde Hunsrück-Mittelrhein
+  verwaltungssitz: einer der beiden
+  landesplanung_einstufung: Grundzentrum
+  unesco_status: UNESCO-Welterbe Oberes Mittelrheintal
+  jahresniederschlag: 604 mm
+---
+ID: 50-oberwesel/002
+ENTITÄT: ort
+BEZEICHNUNG: Oberwesel
+QUELLE: https://oberwesel.de/stadt/chronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: kleine Stadt am großen Strom
+  lage_kontinental: im Herzen Europas
+  geschichte: zahlreiche Herrscher, mehrfacher Konfessions- und Territorialwechsel
+  kulturpraegung: Besiedelung durch Römer, Rheineinflüsse
+GUELTIG_AB: vor Christus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/003
+ENTITÄT: ort
+BEZEICHNUNG: Vosavia
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  zeit_erwaehnung: um 50 v. Chr.
+  herkunft_name: keltischer Ursprung
+  kultur_siedler: Treverer
+  groesste_landwirtschaft: Kelten seit etwa 3. Jahrhundert v. Chr.
+  ressourcen: reiche Fischgründe (Lachsfische), waldreiches Hinterland
+GUELTIG_BIS: 12 v. Chr.
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/004
+ENTITÄT: ort
+BEZEICHNUNG: Vosolvia
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  zeit_begruendung: um 12 v. Chr. unter Drusus
+  status: Militärstation an römischer Rheintalstraße
+  lage_strasse: zwischen Mogontiacum (Mainz) und Confluentes (Koblenz)
+  quelle_antik: Peutinger Tafel
+GUELTIG_AB: 12 v. Chr.
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/005
+ENTITÄT: fund_archaeologisch
+BEZEICHNUNG: Weihestein des Ibliomarus
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  datierung: ca. 100 n. Chr.
+  widmung: Merkur und Maiae
+  fundort: Hard Oberwesel, Gemarkung Dellhofen
+  fundbedingung: Feldarbeiten mit Pflug
+  herkunftsname: möglicherweise keltischen Ursprungs
+GUELTIG_AB: 100 n. Chr.
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/006
+ENTITÄT: archaeologischer_nachweis
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  erster_sicherer_beweis_jahr: 2008
+  fundort: Baugrube am Schaarplatz
+  finder: Archäologieverein ARRATA e. V.
+  fund_type: römerzeitliche Abfallgruben
+  gueltig_ab: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/007
+ENTITÄT: stadtteil
+BEZEICHNUNG: Dellhofen
+QUELLE: https://oberwesel.de/stadt/stadtteile/ | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Dellhofen
+EIGENSCHAFTEN:
+  ortsvorsteher_seit: 2019
+  ortsvorsteher: Kurt Renzler
+  umgangssprachliche_bezeichnung: Dellwe
+  einwoehner_1974: 389
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/008
+ENTITÄT: stadtteil
+BEZEICHNUNG: Engehöll
+QUELLE: https://oberwesel.de/stadt/stadtteile/ | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Engehöll
+EIGENSCHAFTEN:
+  namensherkunft: keltischen Ursprungs
+  ortsverwaltung: eigene Ortsvorsteher und Ortsbeiräte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/009
+ENTITÄT: stadtteil
+BEZEICHNUNG: Langscheid
+QUELLE: https://oberwesel.de/stadt/stadtteile/ | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Langscheid
+EIGENSCHAFTEN:
+  lage: Hochfläche südlich des Engenbaches
+  status_vor_1974: selbständige Gemeinde
+  namenserklärung: Endung "-scheid" deutet auf Rodung
+  rodung_zeit: 12./13. Jahrhundert
+  erste_namenserwähnung: während des 30jährigen Krieges
+  einwoehner_1974: 251
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/010
+ENTITÄT: turm_befestigung
+BEZEICHNUNG: Zehnerturm
+QUELLE: https://oberwesel.de/tourismus/sehenswürdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Südende der Stadt
+  funktion_ursprung: Zollturm für Kurfürsten von Trier
+  funktion_sekundaer: Verteidigung
+  konstruktion: durch Mauer mit kleinem Hafen verbunden, Hafen durch Bollwerk gesichert
+  charakterisierung: jüngster Turm der Stadtbefestigung
+  beschreibung: erste Ummauerung um 1220-1250, südlicher Vorort Kirchhausen mit Liebfrauenkirche erst um Mitte 14. Jahrhundert einbezogen
+GUELTIG_AB: 1356
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/011
+ENTITÄT: turm_befestigung
+BEZEICHNUNG: Steingassenturm
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  lage: Rheinseite, an Querstraße Wallgasse
+  konstruktion_typ: Schalenturm
+  datierung_holzanker: 1243 (dendrochronologisch)
+  holzanker_laenge: 2,75 m
+  problem_original: mangelhafte Fundamente, Schieflage
+  forschungsertrag: neue Erkenntnisse zur Datierung Befestigungsanlagen
+GUELTIG_AB: 1243
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/012
+ENTITÄT: turm_befestigung
+BEZEICHNUNG: Ochsenturm
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  lage: Norden der Stadt
+  bauzeit: 1356
+  typ: Rundturm (ablöst Schalentürme)
+  besonderheit: markantester Turm mit Zinnenkranz, aufgesetztem Oktogon (Butterfassturm)
+GUELTIG_AB: 1356
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/013
+ENTITÄT: turm_befestigung
+BEZEICHNUNG: Katzenturm
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  lage: Norden der Stadt
+  herkunft: Erinnerung an Hofgut der Grafen von Katzenelnbogen
+  aufstellung: nachträglich der Wehrmauer aufgesetzt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/014
+ENTITÄT: turm_befestigung
+BEZEICHNUNG: Pulverturm
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1241
+  lage: Taleinschnitt am Ober- oder Engehöller Bach
+GUELTIG_AB: 1241
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/015
+ENTITÄT: turm_befestigung
+BEZEICHNUNG: Rother Turm
+QUELLE: https://oberwesel.de/tourismus/sehenswürdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umgestaltung_jahre: 1864-1866
+  umgestaltung_durch: Carl Haag
+  beschreibung: Resultat des Umbaus ist das heutige Erscheinungsbild
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/016
+ENTITÄT: stadtmauer
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: zwischen 1220-1250 (erste Phase)
+  bauabschnitte: bis Mitte 14. Jahrhundert
+  material: heimisches Schiefergestein
+  gesamtlaenge: 2,575 km (ohne Querverbindungen); mit älteren Querverbindungen ca. 3,3 km
+  wehrtuerme_heute: 16 (ursprünglich 22)
+  bewertung: am besten erhaltene Ummauerung am Mittelrhein
+  begehbarkeit: heute zum größten Teil begehbar, besonders nördliche Abschnitte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/017
+ENTITÄT: kirche
+BEZEICHNUNG: Liebfrauenkirche
+QUELLE: https://oberwesel.de/tourismus/sehenswürdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau_beginn: 1308
+  weihe: 1331
+  fertigstellung: 1375
+  beschreibung: bedeutendste hochgotische Kirche im Rheinland wegen Architektur und Ausstattung
+  vorgaenger_erste_erwaehnung: 1213
+GUELTIG_AB: 1308
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/018
+ENTITÄT: kirche
+BEZEICHNUNG: Liebfrauenkirche
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  bau_beginn: 1308
+  weihe: 1331
+  fertigstellung: 1375
+  vorgaenger_erste_urkunde: 1213 und 1219
+  vorgaenger_pleban: Peter (Petrus sacerdos plebanus ecclesie s. Marie) 1213
+  vorgaenger_kaplan: erwähnt 1219
+  stift_uebernahme: Stift für Weltpriester von Vorgängerin
+  ausstattung: Goldaltar, Lettner, Wandmalereien
+  bedeutung: eine der bedeutendsten hochgotischen Kirchen im Rheinland
+GUELTIG_AB: 1308
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/019
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  stil: gotischer Bau
+  bauzeit_start: erste Hälfte 14. Jahrhundert
+  baujahreszahl_beispiel: 1350
+  grundlage: romanischer Vorgängerbau
+  erste_erwaehnung: 1219
+  fertigstellung_unregelmaessig: in größeren Zeitabständen
+  dendrochronologie_zuganker: nach 1435
+  seitenschiffe: nördliches Seitenschiff erst 16. Jahrhundert fertiggestellt, südliches nicht gebaut
+  chor: früh errichtet
+  turm_funktion: Verteidigungszweck Weseler Krieg, in Stadtmauer einbezogen
+  ausstattung_gotisch: viel zerstört
+  ausstattung_erhalten: Wandmalereien um 1500/1600
+  lage: höchster Punkt der Stadt
+GUELTIG_AB: 1219
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/020
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/oberwesel.html | Landesportal
+EIGENSCHAFTEN:
+  lage: Nordwestrand der Stadt auf höchstem Punkt
+  wirkung_ortsbild: bestimmt eindrucksvoll das Ortsbild
+  kulturdenkmal_status: ja
+GUELTIG_AB: 1219
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/021
+ENTITÄT: kloster
+BEZEICHNUNG: Minoritenkloster
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/oberwesel.html | Landesportal
+EIGENSCHAFTEN:
+  lage: Oberstraße
+  status_heute: Ruinen erhalten
+  rang: eines der ältesten Franziskanerklöster in Deutschland
+GUELTIG_AB: 1242
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/022
+ENTITÄT: kloster
+BEZEICHNUNG: Minoritenkloster
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1246
+  gruender_initiator: wahrscheinlich Ministeriale derer von Schönburg
+  gruender_orden: abgesandte Brüder der 1233 in Trier gegründeten Niederlassung der Franziskaner-Konventualen
+  kirchen_bau_beginn: 1280
+  kirchen_stil: gotisch
+  mitbegründer_gruft: Herren von Schönburg (auch in Liebfrauenkirche)
+  konvent_groesse_1262: sechs Mitglieder
+  konvent_leitung: Guardian
+  bruderschaft_gründung: um 1270 Heilig-Geist-Bruderschaft
+  ansehen: beim Volk beliebt wegen Bescheidenheit und Hilfsbereitschaft
+  zerstoerung: 1836 Großstadtbrand
+  status_heute: Ruine
+GUELTIG_AB: 1246
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/023
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Allerheiligen
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_ungefaehr: um 1227-1236
+  orden_initial: Prämonstratenserinnen (von Kloster Arnstein ausgehend)
+  orden_spaeter: Zisterzienserinnen
+  muttekloster: Kloster Arnstein an der Lahn
+  verlegung_zeit: um 1260
+  verlegung_ort: unterhalb des Martinsberges im Niederbachtal (extra muros)
+  legende_widerlegt: Gründung durch Frauen im 8. Jahrhundert (nach heutigem Forschungsstand falsch)
+  erkenntnisquelle: Arnsteiner Nekrolog mit Memoiren von drei Oberweseler Konventualinnen
+GUELTIG_AB: 1227
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 50-oberwesel/024
+ENTITÄT: hospital_kapelle
+BEZEICHNUNG: Heilig-Geist-Hospital / Wernerkapelle
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: um 1305 begonnen, Abschluss zwischen 1340-1350
+  patrozinium_original: Heiliger Geist
+  patrozinium_spaeter: Wernerpatrozinium
+  wernerkapelle_erste_nennung: 1656/57
+  bauanlass_legende: lange Zeit als Verehrung des ermordeten Werner
+  bauanlass_wirklich: Stiftung der Bürgerschaft
+  funktionalität: soziale Einrichtung, kontinuierliche Krankenpflege seit Anfang 14. Jahrhundert
+  legende_werner: vermeintlich 1287 von Mitbürgern der jüdischen Gemeinde ermordeter Tagelöhner Werner aus Womrath
+  wernertag_einfuehrung: Kurfürst Franz Ludwig, 19. April
+  zerstoerung: 1688/89 Pfälzischer Erbfolgekrieg
+GUELTIG_AB: 1305
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 50-oberwesel/025
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1897-1899
+  architekt: August Heins (1848-1913) aus Boppard
+  stil: neugotisch
+  struktur: backsteinsichtige Saalkirche
+  lage: Chablisstraße
+GUELTIG_AB: 1897
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/026
+ENTITÄT: synagoge
+BEZEICHNUNG: Ehemalige Synagoge
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  bestand: 1886-1938
+  lage_original: Schaarplatz
+  umnutzung: später zu Wohnhaus umgebaut
+GUELTIG_AB: 1886
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/027
+ENTITÄT: friedhof
+BEZEICHNUNG: Jüdischer Friedhof
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  anlage_zeit: 18. Jahrhundert
+  lage: westlich oberhalb des Ortes
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/028
+ENTITÄT: gemeinde_juedisch
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  ansaessigkeit_beleg: Steuerliste 1241
+  pogrom_jahr: 1287/88
+  pogrom_anlass: ungeklärter Tod des 16-jährigen Tagelöhners Werner von Oberwesel aus Womrath
+  pogrom_verbreitung: Ritualmordgerüchte
+  pogrom_auslöser_vermutung: franziskanische Ordensmänner mit aggressiven Predigten (1280 Klosterkirche am Martinsberg)
+  pogrom_dauer: zwei Jahre
+  pogrom_ausmaß: überregionale Katastrophe
+GUELTIG_AB: 1241
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 50-oberwesel/029
+ENTITÄT: ort
+EIGENSCHAFTEN:
+  status_mittelalter: freie Reichsstadt
+  status_reichsstadt_start: 1237 durch König Konrad IV.
+  status_reichsstadt_bestaetigung: 1253 durch König Richard von Cornwall
+  status_reichsstadt_ende: 1309
+  bestaetiger_richard: Schwager Friedrich II., späterer römisch-deutscher König
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+GUELTIG_AB: 1237
+GUELTIG_BIS: 1309
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/030
+ENTITÄT: ort
+EIGENSCHAFTEN:
+  vogteirecht_erwerb: 1237 durch Bürgerschaft für 300 Mark Silber von Vogt abgekauft
+  zustaendigkeiten: Gerichtsbarkeit, Münzrecht, Zollrecht, Berg- und Marktrecht
+  judenregal_erlasse: 1236 von Friedrich II., ursprünglich Schutzsteuer
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+GUELTIG_AB: 1236
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/031
+ENTITÄT: staedtebund
+BEZEICHNUNG: Rheinischer Städtebund
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  mitglied_aufnahme: 1255
+  grund_aufnahme: auf Antrag als weiteres Mitglied
+  bedeutung_oberwesel: Wendung von ärmlich zu wohlhabend durch neue Freiheiten
+GUELTIG_AB: 1255
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/032
+ENTITÄT: buendnis
+BEZEICHNUNG: Beistandspakt Wesel-Boppard
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  abschluss: 1257
+  partner: Wesel, Boppard, später Koblenz
+  besonderheit: erstmals "Consules" (Stadträte) erwähnt
+GUELTIG_AB: 1257
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/033
+ENTITÄT: krieg
+BEZEICHNUNG: Weseler Krieg
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: 1390-1391
+  besonderheit: erstmals im Rheinland Feuerwaffen eingesetzt
+  belagerung_durch: Trierer Erzbischof Werner von Falkenstein
+  ausgang: erfolgreiche Belagerung
+  folge: Stadt musste klein beigeben
+GUELTIG_AB: 1390
+GUELTIG_BIS: 1391
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/034
+ENTITÄT: krieg
+BEZEICHNUNG: Dreißigjähriger Krieg
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  besatzungen_oberwesel: mehrfach durch Truppen unterschiedlicher Mächte 1620/21, 1626, 1632, 1639, 1644, 1646
+  besatzer_1620_21: kaiserliche und spanische Einheiten
+  besatzer_1626: kaiserliche und spanische Einheiten
+  schoenburg_eroberung: 1632 durch spanische Truppen
+  besatzer_1639: Schweden unter Rheingraf Otto Ludwig
+  besatzer_1644: bayrische Einheiten unter Matthias Gallas
+  besatzer_1646: Franzosen unter Turenne
+GUELTIG_AB: 1620
+GUELTIG_BIS: 1646
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/035
+ENTITÄT: krieg
+BEZEICHNUNG: Pfälzischer Erbfolgekrieg / Neunjähriger Krieg
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: 1688-1697
+  ausmaß_oberwesel: größte Zerstörungen der Frühen Neuzeit für die Stadt
+  ereignis_brande: französische Truppen setzten Schönburg und unzählige Gebäude in Brand beim Abzug 1688/89
+  zerstoerung_straßenzuege: Bebauung ganzer Straßenzüge vernichtet
+  betroffene_strasse: Unterstraße (parallel Rheinufer, vom Roten Turm bis Scharplatz)
+  zerstoerte_bauwerke: Stadthof Schönburger, Höfe Deutscher Orden, Kloster Eberbach, Kloster Schönau, Rathäuser
+  erhaltung: Katharinenkapelle des Eberbacher Hofs entging
+  hospital_verlust: Heilig-Geist-Hospital (um 1305) mitsamt Kapelle abgebrannt
+  rathaus_neubau_jahr: 1700
+GUELTIG_AB: 1688
+GUELTIG_BIS: 1697
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/036
+ENTITÄT: herrschaft
+BEZEICHNUNG: Französische Besatzung
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  besatzung_jahr: 1794
+  integration_republik: 1798
+  integration_kaiserreich: 1804
+  verwaltungsperiode_ende: 1814
+  verwaltungseinheit: Kanton Bacharach im Arrondissement Simmern des Rhein-Mosel-Departement
+GUELTIG_AB: 1794
+GUELTIG_BIS: 1814
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/037
+ENTITÄT: herrschaft
+BEZEICHNUNG: Preußische Verwaltung
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  wiener_kongress_jahr: 1815
+  zuweisung_preußen: Gebiet linkes Rheinufer bis Bingerbrück
+  verwaltung_neueinteilung: 1816
+  zuordnung: Kreis Sankt Goar im Regierungsbezirk Koblenz
+GUELTIG_AB: 1816
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/038
+ENTITÄT: infrastruktur_bahn
+BEZEICHNUNG: Bahntrasse Linkes Rheinufer
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1857-1859
+  tunnel_kammereck: 289 m lang
+  tunnel_bett: 236 m lang
+  tunnel_architektur: Anpassung an Burgstil
+  damm_hoehe: fünf Meter
+  damm_strecke: Sankt Goar bis Bacharach
+  damm_bauzeit: 1857-1859
+  damm_erbauer: Oberweseler Tiefbauunternehmen
+  effekt_zerschneidung: Stadtmauer zwischen Ochsen- und Katzenturm zerschnitten
+  effekt_abriss: südliches Endstück Stadtmauer vom Haags- zum Zehnerturm abgerissen
+GUELTIG_AB: 1857
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/039
+ENTITÄT: bahnstation
+BEZEICHNUNG: Bahnhof Oberwesel
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  strecke: Linke Rheinstrecke
+  eroeffnung_datum: 15. Dezember 1859
+  personal: Fahrdienstleiter der DB Netz
+  linien_regional: eine Regionalbahn-Linie
+  linien_regional_express: zwei Regional-Express-Linien
+  verbindungen_direkt: Kaiserslautern, Koblenz, Mainz, Frankfurt am Main
+  architektur_stil: spätklassizistisch
+  geschosse: zweigeschossig
+GUELTIG_AB: 1859
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/040
+ENTITÄT: verwaltung
+BEZEICHNUNG: Verbandsgemeinde
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  verwaltungsreform_1969_70: Zusammenlegung alte Verbandsgemeinde Oberwesel-Wiebelsheim mit St. Goar-Eingemeindungen
+  neue_bezeichnung: St. Goar-Oberwesel
+  verwaltungsreform_folge: Amt Bacharach zur Verbandsgemeinde Bacharach, Zuordnung Landkreis Mainz-Bingen, Regierungsbezirk Rheinhessen-Pfalz
+  eingemeindung_langscheid: 1974
+  verwaltungssitz_seit_1969_70: Oberwesel
+  fusion_2020_01_01: mit Verbandsgemeinde Emmelshausen zur Verbandsgemeinde Hunsrück-Mittelrhein
+  verwaltungssitz_2020: Oberwesel neben Emmelshausen
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/041
+ENTITÄT: eingemeindung
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  datum_1974_03_17: Dellhofen (389 EW), Langscheid (251 EW), Urbar (698 EW) eingemeindet
+  urbar_rederaenderung: 1999-09-13 wieder selbständige Gemeinde
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/042
+ENTITÄT: ort
+EIGENSCHAFTEN:
+  einwoehner_1815: 2.849
+  einwoehner_1835: 3.350
+  einwoehner_1871: 3.431
+  einwoehner_1905: 3.721
+  einwoehner_1939: 4.690
+  einwoehner_1950: 5.091
+  einwoehner_1961: 4.751
+  einwoehner_1970: 4.813
+  einwoehner_1987: 4.228
+  einwoehner_2005: 3.252
+  einwoehner_2021: 2.813
+  einwoehner_2024: 2.939
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/043
+ENTITÄT: stadtrat
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  ratsmitglieder: 20
+  wahl_datum: 09. Juni 2024
+  wahlart: personalisierte Verhältniswahl
+  vorsitz: Stadtbürgermeister
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/044
+ENTITÄT: buergermeister
+BEZEICHNUNG: Jan Zimmer
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  wahl_stichwahl_datum: 23. Juni 2024
+  wahlbeteiligung: 57,3 %
+  stimmenanteil: 67,0 %
+  gegner: gemeinsamer Kandidat Bündnis 90/Die Grünen und SPD
+  direktwahl_vorrunde: 09. Juni 2024
+  amtseinführung: 12. August 2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/045
+ENTITÄT: wappen
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: In Gold ein rot bewehrter und rot bezungter schwarzer Adler
+  herkunft: 1237-1309 freie Reichsstadt
+  stadtfarben: Schwarz und Gelb
+GUELTIG_AB: 1237
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/046
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Gemeindepartnerschaft Chablis
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  partner: Gemeinde Chablis
+  region_partner: Burgund, Frankreich
+  bestand_seit: August 1961
+GUELTIG_AB: 1961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/047
+ENTITÄT: skulpturenpark
+BEZEICHNUNG: Skulpturenpark Oberwesel
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1996
+  werke_anzahl: derzeit zwanzig
+  lage: zwischen Oberwesel und Urbar
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/048
+ENTITÄT: museum
+BEZEICHNUNG: Museum der Stadt Oberwesel
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  unterkunft: Kulturhaus Oberwesel - Kulturstiftung Hütte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/049
+ENTITÄT: museum
+BEZEICHNUNG: Meteoriten-Museum
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/050
+ENTITÄT: museum
+BEZEICHNUNG: Bäckereimuseum
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/051
+ENTITÄT: museum
+BEZEICHNUNG: Turmmuseum
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+PROPERTIES:
+  lage: Torturm der Schönburg
+  besonderheit: Aussichtsplattform
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/052
+ENTITÄT: kunstausstellung
+BEZEICHNUNG: Kunst im Turm
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  art: wechselnde Kunstausstellungen
+  lage: Haags Turm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/053
+ENTITÄT: kunstgalerie
+BEZEICHNUNG: Kunstraum Oberwesel
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  fokus: zeitgenössische Malerei
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/054
+ENTITÄT: kapelle
+BEZEICHNUNG: Zur Schmerzhaften Muttergottes
+ORTSTEIL_BEZUG: Engehöll
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/055
+ENTITÄT: kapelle
+BEZEICHNUNG: Mutter-Rosa-Kapelle
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: Chor der ehemaligen Kapelle des 1689 zerstörten Hospitals (ehemalige Wernerkapelle)
+GUELTIG_AB: 1689
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/056
+ENTITÄT: auszeichnung
+BEZEICHNUNG: Silberne Halbkugel
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  vergeber: Deutsches Nationalkomitee für Denkmalschutz
+  empfaenger: Oberweseler Bauverein "Historische Stadt Oberwesel e. V."
+  jahr_verleihung: 2008
+  grund: Anerkennung Verdienste um Denkmalschutz
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 50-oberwesel/057
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Mittelalterliches Spectaculum
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  zeitpunkt: Pfingsten in geraden Jahren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/058
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Mittelrhein-Marathon
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  route: Oberwesel bis Koblenz
+  zeitpunkt: Juni
+  bestand_von_bis: 2005-2015
+GUELTIG_AB: 2005
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/059
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Rhein in Flammen - Nacht der 1000 Feuer
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  tradition: traditioneller Festzug am Sonntag danach
+  zeitpunkt: zweiter Samstag im September
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/060
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Weinmarkt
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  lage: Marktplatz und Rathausstraße
+  zeitpunkt: 2. und 3. Wochenende im September
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 50-oberwesel/061
+ENTITÄT: weinbau_gebiet
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  anbaugebiet: Mittelrhein
+  stellung: eine der großen Weinbaugemeinden
+  grosslage: Schloss Schönburg
+  grosslage_groesse: 72 ha
+  einzellagen: Sieben Jungfrauen, Oelsberg, Bienenberg, St. Martinsberg, Goldemund, Bernstein, Römerkrug
+  riesling_anteil: ca. 80 %
+  andere_rebsorten_weiss: Gewürztraminer, Grauburgunder, Müller-Thurgau, Kerner, Scheurebe, Schönburger, Weißburgunder
+  rote_rebsorten_selten: Spätburgunder, Dornfelder
+  ausbau_arten: mild, halbtrocken, trocken
+  qualitaetstufen: Prädikat Kabinett bis vereinzelt Eiswein
+  weingueter_anzahl: rund 16 (Stand 2026)
+  weingueter_traditionell: einige seit über 200 Jahren Familienbesitz
+  vdp_mitglied: Weingut Lanius-Knab (einziges)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/062
+ENTITÄT: jugendherberge
+BEZEICHNUNG: Jugendherberge Schönburg
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  betten: 269
+  rang: größte in Rheinland-Pfalz
+  uebernachtungen_2017: über 57.000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/063
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Johann von Wesel
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1425-1481
+  beruf: Theologe
+GUELTIG_AB: 1425
+GUELTIG_BIS: 1481
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/064
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Salomon Meyer
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1693-1774
+  beruf: Hoffaktor
+  arbeitsort: Karlsruhe
+GUELTIG_AB: 1693
+GUELTIG_BIS: 1774
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/065
+ENTITÄT: personlichkeit
+BEZEICHNUNG: August Fonck
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1868-1935
+  beruf: Offizier der Schutztruppe und Kolonialbeamter
+  arbeitsort: Deutsch-Ostafrika
+GUELTIG_AB: 1868
+GUELTIG_BIS: 1935
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/066
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Heinrich Fonck
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1869-1933
+  beruf: Offizier der Schutztruppe und Kolonialbeamter
+  arbeitsort: Deutsch-Ostafrika
+GUELTIG_AB: 1869
+GUELTIG_BIS: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/067
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Johann Kirchgässer
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1872-1959
+  beruf: Pionier der Rheinschifffahrt
+  denkmal: Gedenktafel am Schiffermast
+GUELTIG_AB: 1872
+GUELTIG_BIS: 1959
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/068
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Wilhelm Lauer
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1923-2007
+  beruf: Geograph und Professor
+GUELTIG_AB: 1923
+GUELTIG_BIS: 2007
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/069
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Clemens Klockner
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1944-2021
+  beruf: Professor für Gesellschaftswissenschaften
+  position: Präsident Fachhochschule Wiesbaden
+GUELTIG_AB: 1944
+GUELTIG_BIS: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/070
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Joachim Weiler
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1947-1999
+  beruf: Politiker
+  partei: CDU
+  position: Landrat Landkreis Ahrweiler
+GUELTIG_AB: 1947
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/071
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Robert Brahm
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten_ab: 1956
+  beruf: Weihbischof
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/072
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Wolfgang Brenner
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten_ab: 1956
+  beruf: Maler
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 50-oberwesel/073
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Eberhard Lauer
+QUELLE: https://de.wikipedia.org/wiki/Oberwesel | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten_ab: 1956
+  beruf: Kirchenmusiker
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+

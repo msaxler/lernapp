@@ -1,0 +1,630 @@
+ENTITÄT: archäologischer_fundplatz
+BEZEICHNUNG: Fundplatz unter Hauptbahnhof Boppard
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kulturperiode: Federmesser-Kultur / Spätpaläolithikum
+  alter: 13000 [Jahre]
+  funde: Feuerstelle, Knochen vom Rothirsch, Steingeräte (Pfeilspitzen), verziertes Knochengerät
+  lage: unterhalb einer Bimsschicht des Laacher-See-Ausbruchs, Baugrube unweit Hauptbahnhof
+  entdecker: Verein ARRATA e.V., Archäologe Wolfgang Welker
+GUELTIG_AB: -11000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: römerische_siedlung
+BEZEICHNUNG: Vicus Baudobriga (Bodobriga, Bontobrica)
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: Keltischen Ursprungs, bedeutet "Ruhm-Burg" oder "Sieg-Burg"
+  namensbeleg: zwei lateinische Inschriften
+  typ: Fischer- und Händlerdorf
+  lage: unmittelbar am Rhein im Eingangsbereich zum Mühltal
+  blütezeit: 1.-3. Jahrhundert
+  verkehrsfunktion: Verbindung Rheintalstraße mit Ausoniusstraße durch Mühltal
+  ersterwahnung_peutinger_tafel: um 222/235 als Bontobrice
+  ersterwahnung_notitia_dignitatum: spätrömisches Staatshandbuch als Bodobrica
+  niedergang_grund: Ausbau des Limes ca. 160 n.Chr., römische Grenze verlief ca. 20 km nordöstlich
+GUELTIG_AB: 1
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: römisches_kastell
+BEZEICHNUNG: Spätrömisches Kastell Baudobriga (Bodobrica)
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: ca. einen Kilometer südöstlich der zivilen Siedlung, an römischer Rheintalstraße
+  erbauer: Kaiser Julian (Sicherung), vollendet von Kaiser Valentinian I.
+  bauzeit: 355-375 [ungefähr]
+  zweck: Sicherung des Mittelrheins gegen germanische Invasionen
+  eroberung_durch: Germanen, vermutlich erste Hälfte 5. Jahrhundert
+  fall_roemische_herrschaft: 454 n.Chr.
+  nachnutzung: Zivilbevölkerung bewohnte Kastell nach römischem Abzug
+GUELTIG_AB: 355
+GUELTIG_BIS: 454
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: militaerbad
+BEZEICHNUNG: Ehemalige römische Militärbalneae
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zerstoerung: Brand um 406
+  lage: Innenseite der nördlichen Kastellmauer
+  nachnutzung: Überreste als Baumaterial für Vorgängerbau der St.-Severus-Kirche im 6. Jahrhundert
+GUELTIG_AB: 1
+GUELTIG_BIS: 406
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St.-Severus-Kirche (Vorgängerbau)
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 6. Jahrhundert
+  material_vorgaenger: Überreste des ehemaligen Militärbades
+  lage: Innenseite der nördlichen Kastellmauer
+  bezug_roemerkastell: aus römischem Kastell entwickelt
+GUELTIG_AB: 600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: königssitz
+BEZEICHNUNG: Merowingischer Königssitz Boppard
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entwicklung_aus: ehemaliges römisches Kastell
+  umland: Fiskalbezirk, Hunsrückwaldungen
+GUELTIG_AB: 500
+GUELTIG_BIS: 814
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Boppard
+QUELLE: https://www.boppard.de/leben-in-boppard/ueover-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung_wert: "Bodo fricense"
+  erste_urkundliche_erwahnung_zeit: 643
+  erwahnung_kosmographie_ravenna: um 700 als "Bodorecas" (befestigte Siedlung)
+  reichsstadt_seit: 803
+  marktrechte_seit: 1050 [unter Heinrich III.]
+  zoll_seit: unter Heinrich IV.
+  muenzstaette_seit: bereits unter Merowingern
+  stadtsieg_1236: großes Stadtsiegel, nennt Boppard "freie Stadt des Reiches"
+  ist_freie_reichsstadt: true
+  verwaltung_reichsstadt: zwei Senate (Adlige + gewählte Bürger)
+  rheinischer_staedtebund: 1254
+  verpfaendung_1309: an Erzbischof Balduin von Trier
+  unterwerfung_trierer_herrschaft: 29. September 1327
+  ist_kurstaat_trier: true ab 1327
+GUELTIG_AB: 643
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: palast
+BEZEICHNUNG: Fränkischer Königshof Boppard
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entwicklung_aus: Fiskalgut (erwähnt 814)
+  funktion: Verwaltungszentrum des Bopparder Reiches
+  lage: Ende Mühltal unmittelbar am Rhein
+  besuch_kaiser_otto_ii: 975
+  besuch_koenig_otto_iii: März 992, Januar 995
+  besuch_kaiser_friedrich_barbarossa: Frühjahr 1180
+GUELTIG_AB: 814
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Kurfürstliche Burg Boppard
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entwicklung_aus: Bergfried am Rheinufer
+  bauauftraggeber: Richard von Cornwall
+  baubeginn: 1265
+  funktion: Zollburg, Sicherung der kurfürstlichen Herrschaft
+  ausgebaut_unter: Balduin von Trier
+  stadtbefestigung_erweiterung: Mauern um Ober- und Niederstadt
+GUELTIG_AB: 1265
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: befestigung
+BEZEICHNUNG: Stadtbefestigung Boppard
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausgebaut_unter: Balduin von Trier (Erzbischof)
+  teile: Mauern um Ober- und Niederstadt, Zollburg (ehemaliger Bergfried)
+  bergfried_umfunktionierung: zu Zollburg ausgebaut
+GUELTIG_AB: 1265
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: verwaltungseinheit
+BEZEICHNUNG: Amt Boppard
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortschaften: Brey, Niederspay, Oberspay, Salzig, Weiler, Kamp, Bornhofen, Ehrenthal, Filsen, Niederkestert, Oberkestert, Lykershausen
+  oberamt: Oberamt Boppard
+  weitere_aemter_oberamt: Oberwesel, Wellmich, Gallscheider Gericht
+  verwaltung: zwei Senate (Stadtadel + gewählte nicht-adlige Bürger)
+  gehoert_zu: Kurfürstentum Trier
+GUELTIG_AB: 1327
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Beyer von Boppard
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Reichsministeriale
+  wohnort: Boppard
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Familie "unter den Juden"
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Reichsministeriale
+  wohnort: Boppard
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: von Schöneck
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Reichsministeriale
+  herkunft: aus Boppard stammend
+  wohnort: Boppard
+  beteiligung_eltzer_fehde: gegen Kurfürsten von Trier
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: von Bickenbach
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Reichsministeriale
+  wohnort: Boppard
+  benannt_nach: Ort Bickenbach im Hunsrück
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: person_geschichte
+BEZEICHNUNG: Otto II. (Kaiser)
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besuch_boppard: 975
+  titel: Kaiser des Heiligen Römischen Reiches
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_geschichte
+BEZEICHNUNG: Otto III. (König, später Kaiser)
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besuche_boppard: März 992, Januar 995
+  kaisertitel_ab: 996
+GUELTIG_AB: 992
+GUELTIG_BIS: 1000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_geschichte
+BEZEICHNUNG: Friedrich I. Barbarossa (Kaiser)
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besuch_boppard: Frühjahr 1180
+  titel: Kaiser des Heiligen Römischen Reiches
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_geschichte
+BEZEICHNUNG: Richard von Cornwall (König)
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufenthalte_boppard: mehrere nach seiner Krönung
+  bauauftrag_bergfried: 1265 Beginn des Baus am Rheinufer
+GUELTIG_AB: 1265
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person_geschichte
+BEZEICHNUNG: Rudolf I. (König)
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verpfaendung_zoll: 1278 an die Grafen von Jülich
+  verpfaendung_munzstaette: 1283 an die Herzöge von Brabant
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_geschichte
+BEZEICHNUNG: Heinrich VII. (König, später Kaiser)
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  unterstellung_boppard: 1309 unter seinem Bruder Balduin von Trier
+  verpfaendung_datum: 12. August 1312
+  verpfaendete_staedte: Boppard und Oberwesel
+  pfandsumme_initial: 4000 [Mark Silber]
+  kroenung_kaiser: Ende Juni 1312
+GUELTIG_AB: 1312
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_geschichte
+BEZEICHNUNG: Balduin von Trier (Erzbischof, Kurfürst)
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Erzbischof von Trier, einer der sieben Kurfürsten des Reiches
+  rolle_1309: Reichsgubernator und Vogt über Boppard und Oberwesel
+  rolle_1312: Pfandempfänger der Reichsstifte Boppard und Oberwesel
+  unterwerfung_stadt_datum: 29. September 1327
+  unterwerfung_stadt_methode: kurze Belagerung, Stadt gestürmt
+  befestigungserweiterung: Stadtbefestigung erweitert
+  mauerwerk: Ober- und Niederstadt mit Mauern geschützt
+  bergfried_umbau: zu Zollburg ausgebaut
+GUELTIG_AB: 1309
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person_geschichte
+BEZEICHNUNG: Ludwig IV. (König)
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestaetigung_verpfaendung: 1314
+  erhoehung_pfandsumme_datum: März 1315
+  erhoehung_pfandsumme_betrag: 24000 [Mark Silber]
+  recht_zur_fehde: Oktober 1318 gewährt gegen widersetzliche Stadt
+GUELTIG_AB: 1314
+GUELTIG_BIS: 1318
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person_geschichte
+BEZEICHNUNG: Karl IV. (Kaiser)
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  versprach: weder er noch sein Nachfolger würden die Pfandschaft einlösen
+  pfandsumme_erhoehung_bis_1374: 60000 [Mark Silber]
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person_geschichte
+BEZEICHNUNG: Maximilian I. (König, später Kaiser)
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  privileg_datum: 27. Juni 1495
+  privileg_name: Großes Privilegum
+  privileg_wirkung: Befreiung von kurfürstlicher Gerichtsbarkeit und Zoll
+  befreiung_durch_ritterrat: Bopparder Ritterrat erarbeitete das Privileg auf Reichstag Worms
+  revision_datum: 26. August 1495
+  revision_grund: Einspruch Kurfürst Johann II. von Baden
+  revision_grund_detail: Maximilian hatte Befugnisse überschritten bei Einlösung der Pfandschaft
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person_geschichte
+BEZEICHNUNG: Johann II. von Baden (Kurfürst)
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einspruch_datum: 26. August 1495
+  einspruch_gegen: Einlösung der Pfandschaft durch Maximilian I.
+  erfolg: Revision der Entscheidung Maximilians
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person_geschichte
+BEZEICHNUNG: Philipp von der Pfalz (Kurfürst)
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  allianz_bopparder_krieg: 1497 Verbündeter des Kurfürsten von Trier gegen Boppard
+GUELTIG_AB: 1497
+GUELTIG_BIS: 1497
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person_geschichte
+BEZEICHNUNG: Wilhelm III. von Hessen (Landgraf)
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  allianz_bopparder_krieg: 1497 Verbündeter des Kurfürsten von Trier gegen Boppard
+GUELTIG_AB: 1497
+GUELTIG_BIS: 1497
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person_geschichte
+BEZEICHNUNG: von Schwalbach (Ritter)
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: aus Boppard
+  rolle_bopparder_krieg: Führung des Sturms auf kurfürstliche Burg
+GUELTIG_AB: 1497
+GUELTIG_BIS: 1497
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Bopparder Krieg
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grund: Konflikt um Pfandschaft und Privilegien zwischen Kurfürst Trier und Stadt Boppard
+  kriegserklaerung_datum: 7. Juni 1497
+  kriegserklaerer: Kurfürst von Trier
+  alliierte_des_kurfuersten: Kurfürst Philipp von der Pfalz, Landgraf Wilhelm III. von Hessen
+  heersstaerke_kurfuerst: 12000 [Soldaten]
+  bewaffnung: Feuergeschütze
+  sturm_auf_burg: unter Führung von Ritter von Schwalbach
+  beschaendigung: Zollhaus in Flammen
+  kapitulation_nachbargemeinden: Bad Salzig, Weiler kapitulierten kampflos
+  belagerungsdauer: wenige Wochen
+  ende_datum: 1. Juli 1497
+  ende_bedingung: Stadt erkannte Kurfürsten wieder als Landesherren an
+  friedenseinzug: Kurfürst mit Fürsten, Edlen, fliegendem Banner, Heben des Interdikts
+GUELTIG_AB: 1497
+GUELTIG_BIS: 1497
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Rheintalstraße (römisch)
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: Römerzeit
+  verlauf: am Rhein entlangführend
+  verknuepfung: mit Ausoniusstraße durch Mühltal
+  funktion: Heerstraße, Handel und Nachschub
+GUELTIG_AB: 1
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Ausoniusstraße (römisch)
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: Römerzeit
+  verknuepfung: mit Rheintalstraße durch Mühltal
+GUELTIG_AB: 1
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: naturereignis
+BEZEICHNUNG: Laacher See Ausbruch
+QUELLE: https://www.boppard.de/leben-in-boppard/ueber-boppard/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitmarker: Bimsschicht oberhalb des Fundplatzes in Boppard
+  zeitliche_einordnung: ca. 13000 Jahre vor Gegenwart (basierend auf Datierung)
+  archaeologische_bedeutung: Zeithorizont für Altsteinzeitfunde
+GUELTIG_AB: -11000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.5
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Michael-Thonet-Schule
+QUELLE: https://www.boppard.de/bildung-und-soziales/schulen/michael-thonet-schule-boppard/schule/geschichte-der-michael-thonet-schule/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprungsname: Grundschule Boppard / Volksschule
+  inbetriebnahme: 30. Oktober 1941
+  lage: auf der Zeil
+  umbenannt_zu: Michael-Thonet-Schule am 01. Januar 1995
+  namensherkunft: benannt nach Michael Thonet (1796 in Boppard geboren, Erfinder Bugholztechnik)
+  schultyp_heute: Ganztagsschule in Angebotsform (seit Sommer 2005)
+  betreuende_grundschule_seit: 1997
+  betreuungszeit_bis: 13.00 Uhr (Klassen 1-2)
+  renovierung: im Jahr 2000
+  klassenraeume: 12
+  fachtraeume: ja
+  gymnastikhalle: ja
+  schulhöfe: 3
+  schulzentrum_bestandteile: Realschule plus, Berufsbildende Schule, Großsporthalle
+  mittagessen: Mensa für Ganztagskinder
+  hausaufgabenverwaltung: Nachmittags in der Schule
+  arbeitsgemeinschaften: ja
+  schueler_gesamt_2021: 207
+  ganztagsschueler_2021: 82
+  betreuungskinder_2021: 33
+  besatzung_kriegsende: Schulgebäude beschlagnahmt durch französische Besatzung
+  ausweichquartier_1945_1953: Karmelitergebäude
+  rueckumzug: Ostern 1953
+  schulwesen_reform: 1967/68 Umwandlung zu Grund- und Hauptschule (heute Realschule plus)
+  schueler_1967: 460 in 13 Klassen
+  lehrkraefte_1967: 12
+  neubau_realschule: Modernes Gebäude zur Zeit der Schulwesen-Reform
+GUELTIG_AB: 1941
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Michael Thonet
+QUELLE: https://www.boppard.de/bildung-und-soziales/schulen/michael-thonet-schule-boppard/schule/geschichte-der-michael-thonet-schule/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Boppard
+  geburtsjahr: 1796
+  erfindung: Bugholztechnik
+  denkmal: Grundschule seit 1995 nach ihm benannt
+GUELTIG_AB: 1796
+GUELTIG_BIS: 1871 [geschätzt]
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Realschule plus Boppard
+QUELLE: https://www.boppard.de/bildung-und-soziales/schulen/michael-thonet-schule-boppard/schule/geschichte-der-michael-thonet-schule/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgaenger: Grund- und Hauptschule
+  entstehung: 1967/68 (bei Schulwesen-Reform Rheinland-Pfalz)
+  neubau: modernes Gebäude errichtet
+  schulzentrum_teil: ja
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Berufsbildende Schule Boppard
+QUELLE: https://www.boppard.de/bildung-und-soziales/schulen/michael-thonet-schule-boppard/schule/geschichte-der-michael-thonet-schule/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schulzentrum_teil: ja
+GUELTIG_AB: 1941
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Freundeskreis für das Ev. Altenzentrum Mühlbad und die Ev. Kinder- und Jugendhilfeeinrichtung Haus Niedersburg e.V.
+QUELLE: https://www.boppard.de/strukturierte-daten/organisationen/vereine/freundeskreis-fuer-das-ev-altenzentrum-muehlbad-und-die-ev-kinder-und-jugendhilfeeinrichtung-haus-niedersburg-e-v/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Förderverein
+  betreuungsobjeakte: Ev. Altenzentrum Mühlbad, Kinder- und Familienhilfe "Haus Niedersburg"
+  adresse: Koblenzer Straße 250, 56154 Boppard
+  ansprechpartner: Rita Neyer
+  telefon: 06742 843013
+  email: freundeskreis-muehlbad-niedersburg@gmx.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: einrichtung
+BEZEICHNUNG: Ev. Altenzentrum Mühlbad
+QUELLE: https://www.boppard.de/strukturierte-daten/organisationen/vereine/freundeskreis-fuer-das-ev-altenzentrum-muehlbad-und-die-ev-kinder-und-jugendhilfeeinrichtung-haus-niedersburg-e-v/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Altenzentrum
+  traeger: Evangelische Kirche
+  foerderverein: Freundeskreis für das Ev. Altenzentrum Mühlbad und Haus Niedersburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: einrichtung
+BEZEICHNUNG: Haus Niedersburg
+QUELLE: https://www.boppard.de/strukturierte-daten/organisationen/vereine/freundeskreis-fuer-das-ev-altenzentrum-muehlbad-und-die-ev-kinder-und-jugendhilfeeinrichtung-haus-niedersburg-e-v/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Kinder- und Jugendhilfeeinrichtung
+  funktion: Kinder- und Familienhilfe
+  traeger: Evangelische Kirche
+  foerderverein: Freundeskreis für das Ev. Altenzentrum Mühlbad und Haus Niedersburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: kulturdenkmal
+BEZEICHNUNG: Mittelalterliche Landwehr
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/boppard.html | Landesportal
+EIGENSCHAFTEN:
+  lage: auf Höhen oberhalb von Boppard
+  verlauf: West-Ostrichtung, etwa 400 (Einheit unklar) lang nach Westen
+  ziel: steil abfallender Rand des Thomastales
+  typ: Fortifikation / Landwehr
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.5
+
+---
+
+ENTITÄT: stadttopographie
+BEZEICHNUNG: Römerkastell im Stadtgrundriß
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/boppard.html | Landesportal
+EIGENSCHAFTEN:
+  geometrie: Rechteck
+  erkennungszeichen: erhaltene Teile der Kastellmauer, rechtwinklig sich kreuzende Straßenzüge
+  einfluss: städtebauliche Struktur Boppards basiert auf Römerkastelllayout
+  bedeutung: Kontinuität der Besiedlung und Wegführung von der Antike bis heute
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Severus (Inschriftensammlung)
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/boppard.html | Landesportal
+EIGENSCHAFTEN:
+  konfession: katholisch
+  pfarrkirche: ja
+  inschriften_zeitspanne: frühchristliche Zeit bis Ende 17. Jahrhundert
+  inschriften_sprachen: Mittellatein, Deutsch (Frühe Neuzeit)
+  dokumentation: Sammlung und Erklärung historischer Inschriften
+  konfession_auskunftsquelle: Aufsatz zur Inschriftenkunde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6

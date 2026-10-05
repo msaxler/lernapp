@@ -1,0 +1,611 @@
+ZIELORT: St. Goar (Stadt)
+LAGE: 25 km südöstlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Sankt Goar
+
+GRUNDDATEN:
+  landkreis: Rhein-Hunsrück-Kreis  [dewiki Infobox]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 2860  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 23,17  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 123  [berechnet aus Einwohner und Fläche]
+  hoehe_m: 74 | 208 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2841611)]
+  naechste_grossstadt: Koblenz, 25 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 44 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Sankt Goar  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 56329  [Wikidata P281]
+  vorwahl: 06741  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 31,3 %, SPD 25 %, AfD 15,8 %, GRÜNE 8,3 %, FDP 5,9 %, Die Linke 5,6 %; Wahlbeteiligung 83 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Falko Hönisch (SPD) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-06]
+  kfz: GOA (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand staedte.json]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT landkreis: Landkreis (Ersatz: Kennzeichen), A, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Boppard (Stadt)
+  landkreis: Rhein-Hunsrück-Kreis  [dewiki Infobox]
+  einwohner: 15.665  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 74,88  [Wikidata P2046; Altbestand staedte.json]
+  kfz: SIM (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 74 | 82 | 80 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2946366)]
+  naechste_grossstadt: Koblenz, 14 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  ersterwaehnung: 643  [dewiki, Extraktion Schicht 1 (Ortsblock)]
+  bahnhof: Bahnhof Boppard-Bad Salzig, Boppard Hauptbahnhof, Boppard-Hirzenach, Haltepunkt Boppard Süd, Haltepunkt Boppard-Buchholz, Haltepunkt Boppard-Fleckertshöhe  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 33 %, SPD 20,1 %, AfD 17,5 %, GRÜNE 11 %, Die Linke 6 %; Wahlbeteiligung 83,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Frankfurt am Main, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Boppard, St. Goar, Oberwesel, Bacharach, Bingen
+
+FAKTEN (Zielort St. Goar):
+ID: 49-st-goar/001
+ENTITÄT: ort
+BEZEICHNUNG: Sankt Goar
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  lage: linkes Ufer des Mittelrheins
+  kreis: Rhein-Hunsrück-Kreis
+  bundesland: Rheinland-Pfalz
+  verbandsgemeinde: Hunsrück-Mittelrhein
+  welterbestatus: UNESCO-Welterbe Oberes Mittelrheintal
+  welterbe_aufnahme_jahr: 2002
+  tal_form: Durchbruchstal des Rheins durch Rheinisches Schiefergebirge
+  rheinbreite_m: ca. 250
+  entfernung_koblenz_km_luftlinie: ca. 24
+  entfernung_bingen_km_luftlinie: ca. 25
+  stadtrecht_jahr: 1183
+  kreisstadt_von: 1816 bis 1969
+  ist_stadt: true
+GUELTIG_AB: 1183
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 49-st-goar/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Biebernheim
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  typ: Höhenstadtteil
+  eingemeindung_jahr: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 49-st-goar/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Werlau
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  typ: Höhenstadtteil
+  eingemeindung_jahr: 1969
+  bergbau_rohstoffe: Blei- und Zinkerze
+  bergbau_zeitraum: 18. Jahrhundert bis Mitte 20. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 49-st-goar/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Fellen
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  lage: nördlich am Rhein
+  bergbau_rohstoffe: Blei- und Zinkerze
+  bergbau_zeitraum: 18. Jahrhundert bis Mitte 20. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 49-st-goar/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: An der Loreley
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  lage: südlich am Rhein
+  campingplatz: direktem Rhein liegender Campingplatz
+  jugendherberge: Loreley-Jugendherberge
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 49-st-goar/006
+ENTITÄT: person
+BEZEICHNUNG: Heiliger Goar
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Priestermönch
+  herkunft: Aquitanien (Südwestfrankreich)
+  lebensdauer: ca. 520–ca. 575
+  lebensdauer_genauigkeit: vermutlich
+  herrschaftszeit_aktivitaet: Regierungszeit Childebert I. (511–538)
+  siedlungsform_initial: Einsiedler in Felsenhöhle am Rhein
+  funktion: Missionar
+  besonderheit: bekannt für Gastfreundschaft, bes. gegenüber Rheinschiffern
+  bauwerk: errichtete Hospiz und Kapelle
+  grab_bedeutung: entwickelte sich zu viel besuchter Wallfahrtsstätte
+  benannt_nach: Ortsname geht auf ihn zurück
+GUELTIG_AB: 511
+GUELTIG_BIS: 538
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 49-st-goar/007
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Stiftskirche
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  lage: Zentrum von Sankt Goar
+  architekturstil: romanisch und gotisch
+  patrozinium: Heiliger Goar
+  krypta_baustil: romanisch
+  krypta_datierung: Ende 11. Jahrhundert
+  krypta_schiffe: dreischiffig
+  langhaus_baustil: gotisch
+  langhaus_schiffe: dreischiffig
+  wandmalereien: vorhanden
+  wandmalereien_datierung: 2. Hälfte 15. Jahrhundert
+  restauration_zeitraum: 1994–1997
+  restaurationskosten: 178.000 DM
+  restaurations_auftraggeber: Evangelische Kirchengemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 49-st-goar/008
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirche St. Goar und St. Elisabeth
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  architekturstil: neugotisch
+  datierung: Ende 19. Jahrhundert
+  patrozinium_1: St. Goar
+  patrozinium_2: St. Elisabeth
+  grabplatte: spätgotische Grabplatte des hl. Goar
+  altarbild: Altarbild um 1480
+  altarbild_bedeutung: zu wertvollsten Arbeiten mittelrheinischer Malerei gehörend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 49-st-goar/009
+ENTITÄT: burg
+BEZEICHNUNG: Burg Rheinfels
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  grundung_jahr: 1245
+  gründer: Graf Diether V. von Katzenelnbogen
+  ausbau: zur Festung
+  superlativ: größte Wehranlage im Mittelrheintal
+  bedeutung_burgenbau: setzte Maßstäbe für gesamten Burgenbau im Deutschen Reich
+  residenz_landgraf_ernst: 1649–1693
+  zerstoerung: Ende 18. Jahrhundert durch französische Revolutionstruppen
+  zerstoerung_detail: 1796/97 durch Ingenieur-Kapitäne Charles und Bouiller
+  verwendung_material: Steinbruch für Festung Ehrenbreitstein
+  wiederherstellung_1843: Prinz Wilhelm von Preußen erwarb Ruine
+  wiederherstellung_grund: vor weiteren Zerstörungen bewahrung
+  besitzverhältnis_seit: 1925 Stadtbesitz
+  nutzung: Hotelbetrieb, Gaststätte, Heimatmuseum
+GUELTIG_AB: 1245
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 49-st-goar/010
+ENTITÄT: schiff
+BEZEICHNUNG: TS Kaiman
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/sankt-goar.html | Landesportal
+EIGENSCHAFTEN:
+  typ: historischer Taucherschacht
+  lage: Schutzhafen von Sankt Goar
+  beschreibung: besonderes Schiff, Relikt aus historischer Zeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 49-st-goar/011
+ENTITÄT: fähre
+BEZEICHNUNG: Loreley VI
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  verbindung: Sankt Goar (linksrheinisch) ↔ Sankt Goarshausen (rechtsrheinisch)
+  funktion: Personen- und Autofähre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 49-st-goar/012
+ENTITÄT: partner_gemeinde
+BEZEICHNUNG: Châtillon-en-Bazois
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Département Nièvre
+  partnerschaft_typ: ehemaliger französischer Wahlkreis (Kanton)
+GUELTIG_AB: 1973
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 49-st-goar/013
+ENTITÄT: partner_gemeinde
+BEZEICHNUNG: Kordel
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  lage: Eifel, Rheinland-Pfalz
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 49-st-goar/014
+ENTITÄT: museum
+BEZEICHNUNG: Deutsches Puppen- und Bärenmuseum
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  lage: Sonnengasse
+  bestand: 1985–2024
+  flaeche_m2: 600
+  sammlung_umfang: über 3000 Sammlerstücke
+  ausstellung: Puppen, Bären, Spielzeug verschiedener Generationen
+  besonderheit: Puppenherstellung, Puppenschneiderei, Puppen- und Bärenklinik
+GUELTIG_AB: 1985
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 49-st-goar/015
+ENTITÄT: museum
+BEZEICHNUNG: Wahrschauer- und Lotsenmuseum
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  lage: früherer Lotsen- und Wahrschauerstation am Bankeck
+  stromkilometer: 555.43
+  sammlung_schwerpunkt: Geschichte der Rheinschifffahrt
+  ausstellung: Exponate aus Arbeit der Rheinlotsen und Wahrschauer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 49-st-goar/016
+ENTITÄT: museum
+BEZEICHNUNG: Burg- und Heimatmuseum
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  lage: auf Burg Rheinfels
+  sammlung: Geschichte der Stadt und der Burg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 49-st-goar/017
+ENTITÄT: politiker
+BEZEICHNUNG: Falko Hönisch
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  amt: Stadtbürgermeister
+  partei: SPD
+  geb_jahr: 1977
+  wahl_26_05_2019_stimmen: 61,1%
+  wahl_26_05_2019_gegner: Horst Vogt (CDU)
+  wahl_09_06_2024_stimmen: 56,5%
+  wahl_09_06_2024_gegner: Dieter Langenbach (CDU)
+  wahlbeteiligung_2024: 67,0%
+  zusaetze: Opern- und Konzertsänger, Kulturschaffender, Mitgründer Musikakademie (2014)
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 49-st-goar/018
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen von Sankt Goar
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: Geteilt in Gold und Blau; oben wachsender herschauender blau gekrönter und bewehrter roter Löwe; unten aus stehenden Rauten gebildetes goldenes Gitter mit heraldischen Lilien
+  loewe_herkunft: Wappen der Grafen von Katzenelnbogen (seit 13. Jahrhundert)
+  loewe_vogtei: ca. 1190 Vogtei über Goarskloster
+  lilien_herkunft: Marienpatrozinium Darmstadts
+  stadtfarben: Rot und Weiß
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 49-st-goar/019
+ENTITÄT: hafen
+BEZEICHNUNG: Rheinfelshafen
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  lage: direkt unterhalb Burg Rheinfels
+  typ: Stadthafen
+  marina_seit: 1994
+  freizeitschiffe_max_laenge_m: 15
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 49-st-goar/020
+ENTITÄT: hafen
+BEZEICHNUNG: Yachthafen Hunt
+ORTSTEIL_BEZUG: Fellen
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  lage: nördlich im Stadtteil Fellen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 49-st-goar/021
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Bahnhof Sankt Goar
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  lage: an Rheinstrecke
+  linie: RB 26 (Mittelrheinbahn)
+  takt_tagsüber: stündlich
+  fahrkartenverkauf: SB-Automaten
+  besetzung: nicht personenbesetzt
+  zugverbindung: Köln – Mainz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 49-st-goar/022
+ENTITÄT: gewässer
+BEZEICHNUNG: Gründelbach
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: vom Hunsrück kommend
+  muendung: mündet in Sankt Goar in den Rhein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 49-st-goar/023
+ENTITÄT: musikakademie
+BEZEICHNUNG: Musikakademie Sankt Goar
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  gründung_jahr: 2014
+  gebäude: renovierte Gründerzeit-Villa (1892)
+  gründer_1: Falko Hönisch
+  gründer_2: Emilio Pons
+  konzertreihe: Sonntags am Rhein
+  erweiterung_2015: Oper hinzugefügt
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 49-st-goar/024
+ENTITÄT: person
+BEZEICHNUNG: Pippin der Jüngere
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  titel: Frankenkönig
+  aktion_jahr: 765
+  aktion: übertrug Hospiz und Kapelle an Abt der Benediktinerabtei Prüm
+  aktion_eigenschaft: als persönliches Benefizium
+GUELTIG_AB: 765
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 49-st-goar/025
+ENTITÄT: person
+BEZEICHNUNG: Adam Krafft
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Theologieprofessor
+  aktion: führte Reformation in Sankt Goar ein
+  aktion_datum: ab 1. November 1527
+  aktion_auftraggeber: Landgraf Philipps I. von Hessen
+GUELTIG_AB: 1527
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 49-st-goar/026
+ENTITÄT: person
+BEZEICHNUNG: Franz Schmoll
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  aktion: errichtete Rheinfels-Apotheke
+  aktion_jahr: 1598
+  apotheke_rang: dritte Apotheke in Hessen (neben Kassel und Marburg)
+GUELTIG_AB: 1598
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 49-st-goar/027
+ENTITÄT: person
+BEZEICHNUNG: Landgraf Ernst von Hessen-Rheinfels-Rotenburg
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  lebensdauer: 1623–1693
+  titel: Landgraf
+  residenz: Burg Rheinfels
+  ausbau: zur Festung
+  einzug_datum: 30. März 1649
+  gründung: Nebenlinie Hessen-Rheinfels-(Rotenburg)
+  charakteristik: religiös tolerant, geistig hochinteressiert Herrscher
+  beitrag: wirtschaftlicher Aufschwung Sankt Goars
+GUELTIG_AB: 1649
+GUELTIG_BIS: 1693
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 49-st-goar/028
+ENTITÄT: person
+BEZEICHNUNG: Peter Glass
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Kaufmann
+  aktion: kaufte Ruine Burg Rheinfels
+  aktion_jahr: 1812
+  verkauf_status: als französisches Staatseigentum
+GUELTIG_AB: 1812
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 49-st-goar/029
+ENTITÄT: person
+BEZEICHNUNG: Prinz Wilhelm von Preußen
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  titel_spaeter: Kaiser Wilhelm I.
+  aktion: erwarb Ruine Burg Rheinfels
+  aktion_jahr: 1843
+  zweck: vor weiteren Zerstörungen bewahrung
+GUELTIG_AB: 1843
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 49-st-goar/030
+ENTITÄT: person
+BEZEICHNUNG: Gerhard Ungefug
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  lebensdauer: 1490–1542
+  beruf: erster evangelischer Pfarrer
+  funktion: Superintendent der Niedergrafschaft Katzenelnbogen
+  bedeutung: mit Sankt Goar verbunden
+GUELTIG_AB: 1490
+GUELTIG_BIS: 1542
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 49-st-goar/031
+ENTITÄT: person_persoenlichkeit
+BEZEICHNUNG: Philipp Peter Roos
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  lebensdauer: 1657–1706
+  auch_bekannt_als: Rosa da Tivoli
+  beruf: Maler
+  geburt: in Sankt Goar
+GUELTIG_AB: 1657
+GUELTIG_BIS: 1706
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 49-st-goar/032
+ENTITÄT: person_persoenlichkeit
+BEZEICHNUNG: Georg Brunsig von Brun
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  lebensdauer: 1789–1858
+  beruf: preußischer General der Infanterie
+  geburt: in Sankt Goar
+GUELTIG_AB: 1789
+GUELTIG_BIS: 1858
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 49-st-goar/033
+ENTITÄT: person_persoenlichkeit
+BEZEICHNUNG: Adolf Friedrich Graf von Schack
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  lebensdauer: 1888–1945
+  beruf: Major
+  besonderheit: Beteiligter am Attentat vom 20. Juli 1944
+  geburt: in Sankt Goar
+GUELTIG_AB: 1888
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 49-st-goar/034
+ENTITÄT: person_persoenlichkeit
+BEZEICHNUNG: Peter Liesenfeld
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  geb_jahr: 1966
+  beruf: Koch
+  auszeichnung: zwei Sterne Michelin-Guide
+  geburt: in Sankt Goar
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 49-st-goar/035
+ENTITÄT: person_persoenlichkeit
+BEZEICHNUNG: Katharina Schmidt
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  geb_jahr: 1935
+  beruf: Kunsthistorikerin, Kuratorin, Museumsdirektorin
+  geburt: in Sankt Goar
+GUELTIG_AB: 1935
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 49-st-goar/036
+ENTITÄT: ereignis
+BEZEICHNUNG: Pest in Sankt Goar
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  ereignis_typ: Pestepidemie
+  opfer_1580: 175 Personen
+  opfer_1598: 142 Personen
+  opfer_1635: über 200 Personen
+GUELTIG_AB: 1580
+GUELTIG_BIS: 1635
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 49-st-goar/037
+ENTITÄT: ereignis
+BEZEICHNUNG: Eisenbahnunfall Sankt Goar 1923
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  datum: 9. Mai 1923
+  kontext: während französischer Besatzung
+  unfall_typ: Entgleisung mit Sturz in den Rhein
+  fahrzeug: Personenzug im Regiebetrieb französischer Besatzung
+  opfer_minimum: mind. 29 Menschen
+  opfer_wahrscheinlich: wahrscheinlich mehr
+GUELTIG_AB: 1923
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 49-st-goar/038
+ENTITÄT: ereignis
+BEZEICHNUNG: Belagerung Burg Rheinfels 1692
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1692
+  kontext: Pfälzischer Erbfolgekrieg
+  belagerer: Franzosen
+  belagerer_staerke: zuletzt 28.000
+  abwehr_erfolg: letzter Sturmversuch abgeschlagen
+GUELTIG_AB: 1692
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 49-st-goar/039
+ENTITÄT: ereignis
+BEZEICHNUNG: Belagerung Sankt Goar 1626
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  datum: Sommer 1626
+  kontext: Rechtsstreit Hessen-Kassel vs. Hessen-Darmstadt
+  belagerer: Hessen-Darmstadt mit kaiserlichen Truppen
+  dauer: mehrere Wochen
+  folge: Kapitulation und Plünderung durch spanische Truppen
+GUELTIG_AB: 1626
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 49-st-goar/040
+ENTITÄT: ereignis
+BEZEICHNUNG: Übergabe Burg Rheinfels an französische Truppen
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1794
+  art_uebergabe: kampflos
+  uebernahme: französische Revolutionstruppen
+  sprengung: 1796/97 durch Ingenieur-Kapitäne Charles und Bouiller
+  materialverwertung: Steinbruch für Festung Ehrenbreitstein bei Koblenz
+GUELTIG_AB: 1794
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 49-st-goar/041
+ENTITÄT: ereignis
+BEZEICHNUNG: Projekt Modellstadt St. Goar
+QUELLE: https://de.wikipedia.org/wiki/St._Goar | Wikipedia
+EIGENSCHAFTEN:
+  initiant: Rheinland-pfälzisches Finanzministerium
+  initiation_jahr: 2009
+  spatenstich_datum: 21. November 2012
+  ziel: Verschönerung der Innenstadt
+  massnahmen: Neugestaltung Plätze im Ortskern und Rheinvorland
+  finanzierung: zum Größten Teil durch den Bund
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

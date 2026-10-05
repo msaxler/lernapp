@@ -1,0 +1,44 @@
+Orte: 47-andernach 48-boppard 49-st-goar 50-oberwesel 51-bacharach 52-bingen
+== Extraktion (Haiku) 00:17:07
+47-andernach         extraktion ein  26630  aus  25689   0.17 USD   206 s  claude-haiku-4-5-20251001
+48-boppard           extraktion ein  22770  aus  19496   0.13 USD   175 s  claude-haiku-4-5-20251001
+49-st-goar           extraktion ein  26254  aus  23121   0.15 USD   159 s  claude-haiku-4-5-20251001
+50-oberwesel         extraktion ein  38017  aus  25955   0.19 USD   261 s  claude-haiku-4-5-20251001
+51-bacharach         extraktion ein  27414  aus  19077   0.14 USD   199 s  claude-haiku-4-5-20251001
+52-bingen            extraktion ein  30480  aus  30234   0.20 USD   217 s  claude-haiku-4-5-20251001
+zusammen: 2235 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+47-andernach       33001 Zeichen
+48-boppard         26441 Zeichen
+49-st-goar         21094 Zeichen
+50-oberwesel       34492 Zeichen
+51-bacharach       31895 Zeichen
+52-bingen          32080 Zeichen
+== Karten (claude-opus-5-5) 00:23:24
+47-andernach         karten     ein  46379  aus  34244   1.00 USD   293 s  claude-opus-5-5
+48-boppard           karten     ein  41989  aus  34711   0.98 USD   299 s  claude-opus-5-5
+49-st-goar           karten     ein  39266  aus  42192   1.10 USD   362 s  claude-opus-5-5
+50-oberwesel         karten     ein  47652  aus  32957   0.99 USD   285 s  claude-opus-5-5
+51-bacharach         karten     ein  44659  aus  39481   1.09 USD   342 s  claude-opus-5-5
+52-bingen            karten     ein  46748  aus  40524   1.13 USD   352 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 00:34:02
+47-andernach         pruefung   ein  63693  aus  11837   0.69 USD   101 s  claude-opus-5-5
+48-boppard           pruefung   ein  52041  aus   7927   0.52 USD    72 s  claude-opus-5-5
+49-st-goar           pruefung   ein  42926  aus   8663   0.46 USD    78 s  claude-opus-5-5
+50-oberwesel         pruefung   ein  54357  aus   8274   0.55 USD    75 s  claude-opus-5-5
+51-bacharach         pruefung   ein  62347  aus  10310   0.65 USD    90 s  claude-opus-5-5
+52-bingen            pruefung   ein  51395  aus   7383   0.51 USD    67 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 00:36:21
+47-andernach         stufe2     ein 193975  aus   4885   0.41 USD    82 s  claude-opus-5-5,claude-haiku-4-5-20251001
+48-boppard           stufe2     ein 159739  aus   4532   0.45 USD    81 s  claude-opus-5-5,claude-haiku-4-5-20251001
+49-st-goar           stufe2     ein 1173371  aus  16688   1.39 USD   267 s  claude-opus-5-5,claude-haiku-4-5-20251001
+50-oberwesel         stufe2     ein 279260  aus   9002   0.79 USD   127 s  claude-opus-5-5,claude-haiku-4-5-20251001
+51-bacharach         stufe2     ein 181385  aus   3868   0.35 USD    64 s  claude-opus-5-5,claude-haiku-4-5-20251001
+52-bingen            stufe2     ein 665617  aus  12551   1.08 USD   225 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 00:41:09
+Urteile: {'bestätigt': 351, 'korrigiert': 108, 'unsicher': 20, 'gesperrt': 2} | im Vorrat: 479 Karten an 52 Orten
+iter1    10 Orte, 133 Karten, Tisch-Reihe 4
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     52 Orte, 479 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 663399 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 00:41:10

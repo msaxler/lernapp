@@ -14,6 +14,10 @@ echo "== Extraktion (Haiku) $(date +%T)"
 python -X utf8 $D extraktion --model haiku --parallel 5 $N
 python -X utf8 scripts/data-build/gemeinde_achsen_fakten.py | tail -1
 GA_EINGABE=eingabe-v0.8 python -X utf8 scripts/data-build/gemeinde_achsen_karten_eingabe.py $N | grep Zeichen
+# ohne Eingabe kein Kartenlauf (06.10.: Grunddaten-Abruf scheiterte bei 52 Orten, die Kette lief leer weiter)
+for s in $N; do
+  [ -f data/gemeinde-achsen/bahn/eingabe-v0.8/$s.txt ] || { echo "ABBRUCH: keine Eingabe für $s (Grunddaten?)"; echo "Fertig mit Abbruch $(date +%T)"; exit 1; }
+done
 echo "== Karten ($M) $(date +%T)"
 python -X utf8 $D karten --model $M --parallel 5 $N
 echo "== Prüfstufe 1 ($M) $(date +%T)"
