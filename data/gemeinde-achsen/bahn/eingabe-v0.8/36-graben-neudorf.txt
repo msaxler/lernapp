@@ -1,0 +1,527 @@
+ZIELORT: Graben-Neudorf (Gemeinde)
+LAGE: 18 km nördlich von Karlsruhe (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Graben-Neudorf
+
+GRUNDDATEN:
+  landkreis: Karlsruhe  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 12.496  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 28,8  [Wikidata P2046]
+  dichte_ew_km2: 434  [berechnet aus Einwohner und Fläche]
+  kfz: KA (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 107 | 109  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 3272459)]
+  naechste_grossstadt: Karlsruhe, 18 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 65 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Graben-Neudorf, Graben-Neudorf Nord  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 76676  [Wikidata P281]
+  vorwahl: 07255  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,2 %, AfD 23,5 %, SPD 14,2 %, GRÜNE 10,5 %, FDP 5,5 %, Die Linke 5,1 %; Wahlbeteiligung 83,8 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Christian Eheim (SPD) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-05]
+  partnerstaedte: Usk, Wilsdruff  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT einwohner: Einwohnerzahl (Ersatz: Fläche der Gemarkung), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT kfz: Kennzeichen (Ersatz: Partnerstadt), A, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Stutensee (Stadt)
+  landkreis: Karlsruhe  [dewiki Infobox]
+  einwohner: 25.422  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 45,68  [Wikidata P2046; Altbestand staedte.json]
+  kfz: KA (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 114 | 111 | 110  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json]
+  naechste_grossstadt: Karlsruhe, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Blankenloch, Friedrichstal (Baden)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 31,5 %, AfD 18,5 %, GRÜNE 15,2 %, SPD 14,9 %, Die Linke 6,1 %; Wahlbeteiligung 84,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Langen, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar
+
+FAKTEN (Zielort Graben-Neudorf):
+ID: 36-graben-neudorf/001
+ENTITÄT: ort
+BEZEICHNUNG: Graben-Neudorf
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_durch_vereinigung: 1. Januar 1972
+  vereinigte_gemeinden: Graben (alter Landkreis Karlsruhe) und Neudorf (alter Landkreis Bruchsal)
+  wappen_verliehen: 18. Juni 1975
+  wappen_verleihende_behörde: Innenministerium des Landes Baden-Württemberg
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 36-graben-neudorf/002
+ENTITÄT: ort
+BEZEICHNUNG: Graben
+ORTSTEIL_BEZUG: Graben
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: Stellenbezeichnung "am Graben", benannt nach Graben der Burg oder der Pfinz
+  genauigkeit_namensherkunft: vermutlich
+  erste_urkundliche_erwähnung: 22. März 1306
+  person_erwähnung_1306: Ubstadter edel knecht Swiger
+  verkauf_an_markgraf_baden: 26. November 1310
+  teil_markgrafschaft_baden_seit: 1312
+  unter_kurpfälzischer_oberhoheit: frühe 15. Jahrhundert bis 1746
+  reformation_einführung: 1556
+  reformations_verordnung_durch: Markgraf Karl II. von Baden-Durlach
+  herdstellen_um_1566: 112
+  bevölkerung_um_1566: 560
+  bevölkerung_1622: 145
+  bevölkerung_1648: 42
+  ackerfläche_angebaut_1622: 1150 Morgen
+  ackerfläche_angebaut_1648: 296 Morgen
+  zerstörte_gebäude_1648: 135
+  kriegerische_zerstörung_1675: Schloß durch Franzosen von Festung Philippsburg
+  kriegszeristörung_1689: Dorf niedergebrannt durch Franzosen (bis auf ein Haus)
+  kirchlicher_sitz: eines von drei Landdekanaten des Archidiakonats des Propstes von St. German zu Speyer seit spätestens 1200
+  tabakanbau_1912: 86 Hektar
+  tabakanbau_vor_nach_wwii: annähernd 100 Hektar
+  erste_spargelfelder: 1913
+  erster_spargelmarkt: 1929
+  spargelbau_anbaufläche_1929: 20-30 Hektar
+  amtsgebiet: Graben, Liedolsheim, Rußheim
+GUELTIG_AB: 1306
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 36-graben-neudorf/003
+ENTITÄT: ort
+BEZEICHNUNG: Neudorf
+ORTSTEIL_BEZUG: Neudorf
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung_grund: Zusammenwachsen von Rodungssiedlungen Grefenweilers und Grevenhauses
+  lage_geografisch: auf dem Boden des Grevenhart (Grafenwald)
+  erste_erwähnung_name: Nuwendorf
+  erste_erwähnung_jahr: 1466
+  weitere_erwähnung_1471: arme Leute in neuem Dorf Grafenwiler
+  weitere_erwähnung_1482: Nuwe Dorff
+  weitere_erwähnung_1493: neuwe Dorffe
+  erwähnung_1495: Nuwdorff in Liste der Haushalte des Bistums Speyer
+  haushalte_1495: 11
+  superlativ: jüngster Ort in der näheren Umgebung
+  charakteristikum_alt: einer der kleinsten und ärmsten Orte (bis Wende 19./20. Jahrhundert)
+  kirchliche_zugehörigkeit: Graben
+  politische_zugehörigkeit: weltliches Herrschaftsgebiet des Bistums Speyer
+  reformation_entwicklung: blieb katholisch (während Graben 1556 reformiert wurde)
+  kirchliche_trennung_von_graben: um 1595
+  erste_kapelle_erbaut: 1595
+  erste_kapelle_lage: Stelle von Haus Nr. 28 der Kapellenstraße
+  erste_kapelle_konsekrierung: 1715
+  erste_kapelle_abbruch: 1756
+  neue_kirche_erbaut: 1742-1749
+  neue_kirche_auftraggeber: Fürstbischof Hugo Damian von Schönborn
+  pfarrei_erhobung: 25. März 1724
+  gegenwärtige_kirche_erbaut: 1887-1895
+  zerstörungen_17_jh: mehrfach in Schutt und Asche gelegt
+  seuchen_17_jh: Hungertyphus, Pest
+  bevölkerung_1683: 8 Familien
+  bevölkerung_1683_beschreibung: "fast einer Wüste gleichkommend"
+  bevölkerung_1719_1720: 48 Familien
+  bevölkerung_1742_1743: 70 Familien
+  zugehörigkeit_baden: 1. Dezember 1802
+  bevölkerung_1813: 537
+  bevölkerung_1852: 1136
+  bevölkerung_1854: 1291
+  bevölkerung_1864: 1060
+  bevölkerung_1890: 1537
+  bevölkerung_1925: 2168
+  bevölkerung_1939: 2523
+  bevölkerung_1962: 3962
+  bevölkerung_1971: 4369
+  wirtschaftliche_grundlagen: Feld-, Wiesenbau, Viehzucht, Torfstich
+  auswanderung_zeitraum: 1850er-1860er Jahre
+  auswanderung_ziele: Algerien, Brasilien, Nordamerika
+GUELTIG_AB: 1466
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 36-graben-neudorf/004
+ENTITÄT: ort
+BEZEICHNUNG: Liedolsheim
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Teil des Amtes Graben (neben Graben und Rußheim)
+  dorfzeichen: Hufeisen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 36-graben-neudorf/005
+ENTITÄT: ort
+BEZEICHNUNG: Rußheim
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Teil des Amtes Graben (neben Graben und Liedolsheim)
+  dorfzeichen: Hufeisen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 36-graben-neudorf/006
+ENTITÄT: gebäude
+BEZEICHNUNG: Schloß Graben
+ORTSTEIL_BEZUG: Graben
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: linkes Ufer der Pfinz
+  beschreibung: nüchterner Bau, der seine Zwecke erfüllte
+  erinnerung_heute: Schloßstraße, Schloßplatz
+  zerstörung_datum: 31. März/1. April 1675
+  zerstörung_durch: Franzosen von Festung Philippsburg
+  funktion: Verwaltungssitz des Amtes Graben
+GUELTIG_AB: Mittelalter
+GUELTIG_BIS: 1675
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 36-graben-neudorf/007
+ENTITÄT: gebäude
+BEZEICHNUNG: Amthaus Graben
+ORTSTEIL_BEZUG: Graben
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Süden des Schloßbezirks, am heutigen Schloßplatz
+  beschreibung: Teil der zum Schloß gehörigen Gebäude
+  funktion: Amtsverwaltung
+  aufhebung_amt: Anfang 18. Jahrhundert (Zuschlag an Karlsruhe)
+GUELTIG_BIS: Anfang 18. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 36-graben-neudorf/008
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapelle Neudorf (erste)
+ORTSTEIL_BEZUG: Neudorf
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Bischof Eberhard von Speyer
+  lage: Stelle von Haus Nr. 28 der heutigen Kapellenstraße
+  size: klein
+GUELTIG_AB: 1595
+GUELTIG_BIS: 1756
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 36-graben-neudorf/009
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Neudorf (Vorgängerbau)
+ORTSTEIL_BEZUG: Neudorf
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1742-1749
+  erbauer_auftraggeber: Fürstbischof Hugo Damian von Schönborn
+  anlass: Pfarrei Neudorf erhoben 25. März 1724
+GUELTIG_AB: 1742
+GUELTIG_BIS: 1887
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 36-graben-neudorf/010
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche Neudorf (gegenwärtig)
+ORTSTEIL_BEZUG: Neudorf
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1887-1895
+  vorgängerbau: Kirche 1742-1749
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 36-graben-neudorf/011
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Graben-Neudorf
+QUELLE: https://www.graben-neudorf.de/leben-wohnen/religion-glaube/ev-kirchengemeinde-graben-neudorf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarramt_adresse: Karlsruher Straße 29, 76676 Graben-Neudorf
+  pfarrerin: Katja Willunat (i.P.)
+  gottesdienste_sonntag: 10:00 Uhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 36-graben-neudorf/012
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Neuapostolische Kirche Graben-Neudorf
+QUELLE: https://www.graben-neudorf.de/leben-wohnen/religion-glaube/neuapostolische-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Gottesdienste nicht mehr vor Ort, verlegt zu Neuapostolischen Gemeinde Linkenheim-Hochstetten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 36-graben-neudorf/013
+ENTITÄT: institution
+BEZEICHNUNG: Landwirtschaftsschule Graben
+ORTSTEIL_BEZUG: Graben
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründungszeitraum: nach dem Ersten Weltkrieg
+  funktion: Förderung und Unterstützung des Spargelbaus
+GUELTIG_AB: nach 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 36-graben-neudorf/014
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum Graben-Neudorf
+QUELLE: https://www.graben-neudorf.de/freizeit-kultur/heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sammlung_handwerk: Geräte von Küfer, Metzger, Schuhmacher, Schneider
+  sammlung_landwirtschaft: Tabakanbau und Verarbeitung in Tabakfabriken
+  sammlung_wohnen: Einrichtungen um 1900 (Gute Stube, Schlafzimmer, Küche)
+  sammlung_wwii: Exponate zum Zweiten Weltkrieg und Vertreibung
+  sammlung_thema_vertriebene: Deutsche aus Ungarn
+  sammlung_dorfentwicklung: Ansichten, Bilder, Dokumente zur Entwicklung und Vereinsleben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 36-graben-neudorf/015
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Graben-Neudorf
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  blasonierung: In Blau ein schwebendes, geradarmiges silbernes Tatzenkreuz, dahinter zwei schräggekreuzte silberne Spaten mit schwarzen Stielen
+  verleihung_datum: 18. Juni 1975
+  verleihende_behörde: Innenministerium des Landes Baden-Württemberg
+  grundlage: Hauptbilder der Gemeindesiegel und Wappen der beiden Teilgemeinden
+  farbgebung_grundlage: Hauptfarben der alten Wappen
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 36-graben-neudorf/016
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Graben
+ORTSTEIL_BEZUG: Graben
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  blasonierung: In Silber zwei schräggekreuzte blaue Spaten mit schwarzem Stiel, begleitet oben und unten von einem schwarzen Hufeisen, das untere gestürzt
+  schaffen_jahr: 1901
+  farbenänderung_jahr: 1963
+  farbenänderung_grund: klassische heraldische Farbregeln
+  basierung: ältestes Siegel des Amtes Graben zwischen 1566 und 1631
+  symbolik_hufeisen: Dorfzeichen von Liedolsheim und Rußheim
+  symbolik_spaten: "redend" für Dorf- und Amtsnamen Graben (Grabscheite)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 36-graben-neudorf/017
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Neudorf
+ORTSTEIL_BEZUG: Neudorf
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  blasonierung: In Blau ein schwebendes, geradarmiges silbernes Tatzenkreuz, bewinkelt mit vier achtstrahligen goldenen Sternen
+  vorschlag_jahr: 1907
+  vorschlagende_behörde: Generallandesarchiv
+  farben_grundlage: Farben des Hochstifts Speyer
+  genehmigung: einige Jahre nach 1907 von der Gemeinde
+  basierung: frühere Gerichts- und Gemeindssiegel
+  ältestes_siegel_abdruck: 1747
+  symbolik_tatzenkreuz: Wappen des Hochstifts Speyer
+  neudorf_zugehörigkeit_hochstift: de facto bis 30. November 1802, de jure bis Reichsdeputationshauptschluß 25. Februar 1803
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 36-graben-neudorf/018
+ENTITÄT: person
+BEZEICHNUNG: Christian Eheim
+QUELLE: https://www.graben-neudorf.de/leben-wohnen/religion-glaube/neuapostolische-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Bürgermeister
+  gemeinde: Graben-Neudorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 36-graben-neudorf/019
+ENTITÄT: person
+BEZEICHNUNG: Katja Willunat
+QUELLE: https://www.graben-neudorf.de/leben-wohnen/religion-glaube/ev-kirchengemeinde-graben-neudorf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Pfarrerin i.P.
+  gemeinde: Evangelische Kirchengemeinde Graben-Neudorf
+  telefon: 07255 9634
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 36-graben-neudorf/020
+ENTITÄT: person
+BEZEICHNUNG: Swiger von Ubstadt
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: edel knecht
+  herkunftsort: Ubstadt
+  transaktion: Versprechung des Vorkaufsrechts an Teil des Dorfes Graben an Markgraf Rudolf
+  transaktionsdatum: 22. März 1306
+GUELTIG_AB: 1306
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 36-graben-neudorf/021
+ENTITÄT: person
+BEZEICHNUNG: Dietrich
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  relation: Bruder von Swiger
+  vater: Gerhart
+  herkunftsort: Ubstadt
+  transaktion: Verkauf von ererbtem Gut in Graben an badischen Markgraf
+  transaktionsdatum: 26. November 1310
+GUELTIG_AB: 1310
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 36-graben-neudorf/022
+ENTITÄT: person
+BEZEICHNUNG: Markgraf Karl II. von Baden-Durlach
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Einführung der reformierten Glaubenslehre
+  gebiet_aktion: Herrschaftsgebiet Baden-Durlach
+  jahr_aktion: 1556
+  betroffene_orte: Graben
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 36-graben-neudorf/023
+ENTITÄT: person
+BEZEICHNUNG: Bischof Eberhard von Speyer
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Bau der ersten Kapelle in Neudorf
+  jahr_aktion: 1595
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 36-graben-neudorf/024
+ENTITÄT: person
+BEZEICHNUNG: Fürstbischof Hugo Damian von Schönborn
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Kirchenbau für die Pfarrei Neudorf
+  bauzeit: 1742-1749
+  anlass: Neudorf zur Pfarrei erhoben 25. März 1724
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 36-graben-neudorf/025
+ENTITÄT: gewässer
+BEZEICHNUNG: Pfinz
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Fluss
+  beschreibung: fließt in die Rheinniederung
+  ortsbezug: fließt durch Graben
+  namensherkunft_graben: möglicherweise Graben der Pfinz (bei Namenserklärung Graben)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 36-graben-neudorf/026
+ENTITÄT: naturraum
+BEZEICHNUNG: Grevenhart
+ORTSTEIL_BEZUG: Neudorf
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anderer_name: Grafenwald
+  beschreibung: Waldgebiet auf dem Neudorf liegt
+  ursprüngliche_siedlungen: Grefenweilers, Grevenhauses
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 36-graben-neudorf/027
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Dreißigjähriger Krieg
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1618-1648
+  auswirkungen_graben: Bevölkerungsverluste, Zerstörungen
+  bevölkerungsverlust_region_bruchsal: ca. 80 Prozent
+  bevölkerungsverlust_graben_1622_1648: 145 Bürger auf 42 Bürger
+  ackerflächen_rückgang_1622_1648: 1150 auf 296 Morgen
+  zerstörte_gebäude: 135
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 36-graben-neudorf/028
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Französische Zerstörung Schloß Graben
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 31. März/1. April 1675
+  täter: Franzosen
+  quelle: Festung Philippsburg
+  objekt: Schloß Graben
+  grund: Reunionspolitik Frankreichs unter Ludwig XIV.
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 36-graben-neudorf/029
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Französischer Brand Graben
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: Frühjahr 1689
+  täter: Franzosen
+  objekt: Dorf Graben
+  beschreibung: "bis auf ein einziges altes Haus" niedergebrannt
+  grund: Kriege der Reunionspolitik Frankreichs und Pfälzischer Erbfolgekrieg
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 36-graben-neudorf/030
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Seuchen Neudorf 17. Jahrhundert
+ORTSTEIL_BEZUG: Neudorf
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  krankheiten: Hungertyphus, Pest
+  zeitraum: 17. Jahrhundert
+  folgen: Bevölkerung 1683 nur noch 8 Familien
+  beschreibung_ort: "fast einer Wüste gleichkommend"
+  grund: Kriege und Zerstörungen
+GUELTIG_AB: 1600
+GUELTIG_BIS: 1683
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 36-graben-neudorf/031
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Auswanderung aus Neudorf
+ORTSTEIL_BEZUG: Neudorf
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1850er-1860er Jahre
+  zielländer: Algerien, Brasilien, Nordamerika
+  grund: Armut und schlechte wirtschaftliche Verhältnisse
+  bevölkerungsrückgang_1854_1864: 1.291 auf 1.060 Einwohner
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 36-graben-neudorf/032
+ENTITÄT: krise
+BEZEICHNUNG: Tabakanbau-Krise
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  krisenjahr: 1960
+  grund: Blauschimmelkrankheit und schwere Ernteschäden
+  folge: Ansiedlung von Industrie- und Gewerbebetrieben, Landwirte geben Betriebe auf
+  betroffene_orte: Graben
+  strukturwandel_beschleunigung: Übergang von rein landwirtschaftlicher Struktur
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 36-graben-neudorf/033
+ENTITÄT: kultur_event
+BEZEICHNUNG: Spargelmarkt Graben
+ORTSTEIL_BEZUG: Graben
+QUELLE: https://www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_durchführung: 1929
+GUELTIG_AB: 1929
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

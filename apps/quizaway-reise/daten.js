@@ -7787,6 +7787,559 @@ window.QA_DATEN = {
 "km_vom_vorigen": 12.5
 },
 {
+"slug": "35-stutensee",
+"name": "Stutensee",
+"lat": 49.06472,
+"lon": 8.47167,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stutensee",
+"steckbrief": "Große Kreisstadt mit rund 25.400 Einwohnern, 8 km nordöstlich von Karlsruhe.",
+"frage": "Im Jahr 1699 wurde der heutige Stutenseer Stadtteil Friedrichstal gegründet. Warum?",
+"optionen": [
+"Friedrichstal entstand als Garnison gegen Frankreich.",
+"Friedrichstal entstand als Siedlung für Glashüttenarbeiter.",
+"Friedrichstal entstand als Quarantänedorf für Pestkranke.",
+"Friedrichstal entstand als Heimat für Glaubensflüchtlinge."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach einem Fürsten, darum liegt ein Soldatendorf nahe. Markgraf Friedrich Magnus förderte die Gründung tatsächlich. Doch gegründet wurde es von Protestanten aus Frankreich, Hugenotten genannt, die zuvor in der Pfalz lebten. Ihnen wurden Land, Religionsfreiheit und das Recht zur Ortsgründung gewährt; sie führten den Tabakbau ein. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.stutensee.de/Stadtteile-Geschichte",
+"faktencheck": "korrigiert",
+"id": "35-stutensee/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stutensee",
+"steckbrief": "Stadt mit rund 25.400 Einwohnern, 8 km nordöstlich von Karlsruhe.",
+"frage": "Wie viele Einwohner kommen in Stutensee auf einen Quadratkilometer?",
+"optionen": [
+"unter 600",
+"600 bis unter 900",
+"900 bis unter 1.300",
+"1.300 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Karlsruhe lässt an eine dicht bebaute Vorstadt denken. Doch Teile der Gemarkung bedeckt der Hardtwald. Rechnerisch kommen 557 Einwohner auf einen Quadratkilometer. Richtig war 1.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "35-stutensee/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Stutensee",
+"steckbrief": "Große Kreisstadt aus mehreren Stadtteilen, rund 25.400 Einwohner, 8 km nordöstlich von Karlsruhe.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Vermutlich christianisierten Benediktinermönche einst das Dorf Spöck.",
+"Blankenloch geht auf ein Dorf der Merowingerzeit zurück.",
+"Der Name Spöck erinnert an eine alte Speckräucherei."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Speck und Spöck klingen fast gleich, darum wirkt die Räucherei glaubhaft. Die Ortsgeschichte deutet den Namen anders: Das alte Wort spaha heißt Rute, specki ein Damm aus Rutengeflecht und Erde. Historiker vermuten, dass ein solcher Damm Spöck schon in sehr früher Zeit umgab. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.stutensee.de/Stadtteile-Geschichte",
+"faktencheck": "korrigiert",
+"id": "35-stutensee/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stutensee",
+"steckbrief": "Stadt im Umland, rund 25.400 Einwohner, 8 km nordöstlich von Karlsruhe.",
+"frage": "Bundestagswahl 2025: Wie hoch war in Stutensee der Zweitstimmenanteil der stärksten Partei?",
+"optionen": [
+"unter 22 %",
+"22 bis unter 28 %",
+"28 bis unter 34 %",
+"34 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Umland einer Universitätsstadt erwartet man oft ein zersplittertes Ergebnis ohne klaren Sieger. In Stutensee lag die CDU aber mit 31,5 Prozent deutlich vor der AfD, die Grünen folgten auf Platz drei. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "35-stutensee/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stutensee",
+"steckbrief": "Große Kreisstadt mit rund 25.400 Einwohnern, 8 km nordöstlich von Karlsruhe.",
+"frage": "Die Stadt Stutensee wurde 1975 gebildet. Wonach ist sie benannt?",
+"optionen": [
+"Sie trägt den Namen eines Baggersees am Hardtwald.",
+"Sie trägt den Namen einer Pferderasse aus Baden.",
+"Sie trägt den Namen eines Bachs der Gegend.",
+"Sie trägt den Namen eines Schlösschens im Zentrum."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach Pferden am Wasser, darum liegt ein Gewässer nahe. Benannt wurde die neue Stadt aber nach Schloss Stutensee, einem Rokokoschlösschen im Zentrum der Stadtteile. Das Schloss selbst heißt nach einem markgräflichen Gestüt, das 1652 bei Fischteichen gegründet wurde. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.stutensee.de/Stadtteile-Geschichte",
+"faktencheck": "korrigiert",
+"id": "35-stutensee/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Stutensee",
+"steckbrief": "Stadt mit rund 25.400 Einwohnern, 8 km nordöstlich von Karlsruhe.",
+"frage": "Zu welchem Landkreis gehört die Große Kreisstadt Stutensee?",
+"optionen": [
+"Landkreis Karlsruhe",
+"Rhein-Neckar-Kreis",
+"Landkreis Rastatt",
+"Enzkreis"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer weiß, dass die Stadt Karlsruhe selbst keinem Landkreis angehört, zögert bei der ersten Option. Doch der Landkreis trägt nur den Namen der Stadt, und Stutensee gehört zu ihm. Auch das Stadtwappen verlieh das Landratsamt Karlsruhe. Richtig war 1.",
+"quelle": "GRUNDDATEN, dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "35-stutensee/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stutensee",
+"steckbrief": "Stadt aus mehreren Stadtteilen, rund 25.400 Einwohner, 8 km nordöstlich von Karlsruhe.",
+"frage": "Die katholische Kirche St. Wolfgang im Stadtteil Staffort wurde 1989 eingeweiht. Was war ihr Gebäude zuvor?",
+"optionen": [
+"Das Gebäude war früher eine Dorfschule.",
+"Das Gebäude war früher ein Tabaklager.",
+"Das Gebäude war früher ein Kino.",
+"Das Gebäude war früher eine Molkerei."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Umgebaute Schulen dienen oft als Gemeindesäle, darum liegt die Dorfschule nahe. In Staffort prägten Tabak- und Spargelanbau lange das Dorfleben; passend dazu kaufte die katholische Gemeinde 1982 ein ehemaliges Tabaklager und baute es zur Kirche um. Richtig war 2.",
+"quelle": "Badische Landesbibliothek, regionalia.blb-karlsruhe.de/frontdoor/index/docId/27176",
+"faktencheck": "korrigiert",
+"id": "35-stutensee/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heinrich Wetzlar und seine Frau Therese richteten 1919 im Schloss Stutensee ein Heim ein. Wofür war es gedacht? (Optionen unverändert)",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Kurz nach dem Ersten Weltkrieg liegt ein Lazarett nahe. Doch der jüdische Richter, später Landgerichtspräsident in Mannheim, und seine Frau wollten gestrauchelte Jugendliche durch Erziehung und Ausbildung wieder eingliedern. 1943 wurden beide nach Theresienstadt deportiert und kamen dort ums Leben. Seit 1984 trägt ein Haus der Jugendeinrichtung seinen Namen. Richtig war 3.",
+"quelle": "Jugendeinrichtung Schloss Stutensee, www.jugend-schloss.de",
+"faktencheck": "korrigiert",
+"id": "35-stutensee/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stutensee",
+"steckbrief": "Stadt mit rund 25.400 Einwohnern, 8 km nordöstlich von Karlsruhe.",
+"frage": "Ab 1827 war Aloys Henhöfer Pfarrer im heutigen Stadtteil Spöck. Wodurch machte er das Dorf über Baden hinaus bekannt?",
+"optionen": [
+"Er entdeckte dort eine heilkräftige Quelle.",
+"Er züchtete preisgekrönte Pferde im Pfarrhof.",
+"Er schrieb eine vielgelesene Chronik des Hardtwalds.",
+"Seine Predigten zogen Menschen der ganzen Region an."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Dörfer wurden früher oft durch Quellen oder Wallfahrten berühmt, das liegt nahe. Spöck verdankte seinen Ruf aber dem Pfarrer selbst: Zu Henhöfers Predigten kamen Menschen aus der ganzen Region, und so wurde Spöck über die Grenzen Badens hinaus bekannt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.stutensee.de/Stadtteile-Geschichte",
+"faktencheck": "bestätigt",
+"id": "35-stutensee/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "34-karlsruhe",
+"anschluss": [
+"Kennzeichen: In Karlsruhe und Stutensee steht KA am Auto.",
+"Bundestagswahl 2025: Grüne vorn in Karlsruhe, CDU vorn in Stutensee."
+],
+"km_vom_vorigen": 7.5
+},
+{
+"slug": "36-graben-neudorf",
+"name": "Graben-Neudorf",
+"lat": 49.15917,
+"lon": 8.48944,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Graben-Neudorf",
+"steckbrief": "Gemeinde mit rund 12.500 Einwohnern, 18 km nördlich von Karlsruhe.",
+"frage": "Das alte Wappen des Ortsteils Graben zeigt zwei Hufeisen. Wofür stehen sie?",
+"optionen": [
+"Sie erinnern an einen alten Pferdemarkt.",
+"Sie zeigen das Zeichen der Dorfschmiede.",
+"Sie stehen für zwei weitere Dörfer des Amts.",
+"Sie erinnern an eine alte Poststation."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Hufeisen lassen an Pferde denken, an Markt, Schmiede oder Post. Tatsächlich waren sie die Dorfzeichen von Liedolsheim und Rußheim, die mit Graben das Amt Graben bildeten. Die gekreuzten Spaten im selben Wappen sind „redend“: Grabscheite für den Namen Graben. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/wappen",
+"faktencheck": "bestätigt",
+"id": "36-graben-neudorf/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Graben-Neudorf",
+"steckbrief": "Gemeinde aus den Dörfern Graben und Neudorf, 18 km nördlich von Karlsruhe, 28,8 km² groß.",
+"frage": "Wie viele Einwohner hat Graben-Neudorf?",
+"optionen": [
+"unter 4.000",
+"4.000 bis unter 8.000",
+"8.000 bis unter 12.000",
+"12.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Zwei alte Dörfer, Graben und Neudorf, klingen nach Landgemeinde. Doch zusammen zählen sie heute 12.496 Einwohner. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "36-graben-neudorf/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Graben-Neudorf",
+"steckbrief": "Gemeinde mit rund 12.500 Einwohnern, 18 km nördlich von Karlsruhe.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Neudorf wurde evangelisch, Graben aber blieb katholisch.",
+"Neudorf gehörte einst zum Herrschaftsgebiet des Bistums Speyer.",
+"Graben hatte einst ein Schloss, zu dem das Amtshaus gehörte."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer wem gehörte, bestimmte damals meist den Glauben. In Graben führte der Markgraf von Baden-Durlach die Reformation ein. Neudorf aber unterstand dem Bistum Speyer und blieb katholisch. Zum Grabener Schloss gehörte das Amtshaus des Amtes Graben. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte",
+"faktencheck": "korrigiert",
+"id": "36-graben-neudorf/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Graben-Neudorf",
+"steckbrief": "Gemeinde mit rund 12.500 Einwohnern, 18 km nördlich von Karlsruhe.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Graben-Neudorf nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"AfD",
+"SPD",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an Baden-Württemberg denkt, tippt auf die CDU; sie wurde aber stärkste Kraft mit 32,2 Prozent. Auf Platz zwei kam die AfD mit 23,5 Prozent, deutlich vor SPD und Grünen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "36-graben-neudorf/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Graben-Neudorf",
+"steckbrief": "Gemeinde mit rund 12.500 Einwohnern, 18 km nördlich von Karlsruhe.",
+"frage": "Wie entstand der Ortsteil Neudorf laut Ortsgeschichte?",
+"optionen": [
+"Ein abgebranntes Dorf wurde an neuer Stelle aufgebaut.",
+"Flüchtlinge vor dem Hochwasser gründeten es neu.",
+"Zwei Rodungssiedlungen im Wald wuchsen zusammen.",
+"Glaubensflüchtlinge legten es als neue Siedlung an."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name „Neudorf“ legt einen Neubau nahe, etwa nach Brand oder Flut. Laut Ortsgeschichte ist Neudorf aber wohl aus dem Zusammenwachsen zweier Rodungssiedlungen entstanden, nämlich Grefenweilers und Grevenhauses, auf dem Boden des Grevenhart, des Grafenwalds. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte",
+"faktencheck": "korrigiert",
+"id": "36-graben-neudorf/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Graben-Neudorf",
+"steckbrief": "Gemeinde mit rund 12.500 Einwohnern, 18 km nördlich von Karlsruhe.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Graben-Neudorf?",
+"optionen": [
+"HD",
+"GER",
+"RA",
+"KA"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Heidelberg und die Pfalz jenseits des Rheins sind nicht weit, das lässt zweifeln. Graben-Neudorf gehört aber zum Landkreis Karlsruhe, dessen Hauptkennzeichen KA ist. Neudorf lag früher im alten Landkreis Bruchsal, Graben im alten Landkreis Karlsruhe. Richtig war 4.",
+"quelle": "Wikidata P395; dewiki Infobox (Landkreis)",
+"faktencheck": "bestätigt",
+"id": "36-graben-neudorf/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Graben-Neudorf",
+"steckbrief": "Gemeinde mit rund 12.500 Einwohnern, 18 km nördlich von Karlsruhe.",
+"frage": "Im Frühjahr 1689 brannten Franzosen das Dorf Graben nieder. Was blieb laut Ortsgeschichte stehen?",
+"optionen": [
+"Nur ein altes Haus blieb stehen.",
+"Nur das Schloss blieb unversehrt.",
+"Die meisten Häuser blieben verschont.",
+"Das Dorf brannte restlos nieder."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. „Niedergebrannt“ klingt nach völliger Vernichtung, und ein Schloss gilt als besonders fest. Doch das Grabener Schloss hatten Franzosen aus der Festung Philippsburg schon früher zerstört. Überstanden hat den Brand nur ein altes Haus. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/geschichte",
+"faktencheck": "unsicher",
+"id": "36-graben-neudorf/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Graben-Neudorf",
+"steckbrief": "Gemeinde mit rund 12.500 Einwohnern, 18 km nördlich von Karlsruhe.",
+"frage": "Das Wappen von Graben-Neudorf zeigt ein silbernes Tatzenkreuz. Auf welches Wappen geht es laut Gemeinde wohl zurück?",
+"optionen": [
+"Es stammt aus dem Wappen des Deutschen Ordens.",
+"Es stammt aus dem Wappen des Hochstifts Speyer.",
+"Es stammt aus dem Wappen des Erzbistums Mainz.",
+"Es stammt aus dem Wappen des Johanniterordens."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Tatzenkreuz erinnert an Ritterorden und Kreuzzüge. Ins Gemeindewappen kam es aber aus dem alten Wappen von Neudorf. Dort ist es laut Gemeinde wohl als Wappen des Hochstifts Speyer zu deuten, des Herrschaftsgebiets der Speyerer Bischöfe. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.graben-neudorf.de/unsere-gemeinde/graben-neudorf/wappen",
+"faktencheck": "korrigiert",
+"id": "36-graben-neudorf/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "35-stutensee",
+"anschluss": [
+"Einwohner: Stutensee hat etwa doppelt so viele wie Graben-Neudorf.",
+"Nach Karlsruhe: Stutensee liegt 8 km entfernt, Graben-Neudorf 18 km."
+],
+"km_vom_vorigen": 10.6
+},
+{
+"slug": "37-waghaeusel",
+"name": "Waghäusel",
+"lat": 49.25,
+"lon": 8.51694,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waghäusel",
+"steckbrief": "Rund 22.000 Einwohner, 22 km südwestlich von Heidelberg.",
+"frage": "Das Wappen des Stadtteils Waghäusel zeigt drei blaue Zuckerhüte. Woher stammt dieses Motiv?",
+"optionen": [
+"Sie stehen für die Ortsteile der heutigen Stadt.",
+"Sie waren das Firmenzeichen der Zuckerfabrik.",
+"Sie erinnern an einen alten Zuckerzoll.",
+"Sie erinnern an eine Zuckerbäckerzunft im Ort."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Drei Hüte, drei Ortsteile: Das liegt nahe. Doch das Wappen ist älter als die heutige Stadt. Der Gemeinderat übernahm das Firmenzeichen der Zuckerfabrik, die das Bild des kleinen Ortes lange beherrschte. Die Farben Blau und Silber stammen vom Hochstift Speyer. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.waghaeusel.de/stadt-wirtschaft/geschichte-wappen/stadtwappen-ortsteile",
+"faktencheck": "bestätigt",
+"id": "37-waghaeusel/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Waghäusel",
+"steckbrief": "Rund 22.000 Einwohner, 22 km südwestlich von Heidelberg.",
+"frage": "Wie groß ist die Fläche der Stadt Waghäusel?",
+"optionen": [
+"unter 20 km²",
+"20 bis unter 35 km²",
+"35 bis unter 50 km²",
+"50 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Rund 22.000 Einwohner klingen nach dicht bebauter Stadt, also schätzt man die Fläche eher klein. Doch Waghäusel misst 42,84 km². Den größten Teil nehmen laut Stadt Wald, Wasser und sonstige Flächen ein, weniger Siedlung, Verkehr und Landwirtschaft. Richtig war 3.",
+"quelle": "Wikidata P2046; Flächenaufteilung: Gemeinde-Webseite, www.waghaeusel.de/stadt-wirtschaft/grosse-kreisstadt-waghaeusel/zahlen-daten-fakten",
+"faktencheck": "bestätigt",
+"id": "37-waghaeusel/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Waghäusel",
+"steckbrief": "Rund 22.000 Einwohner, 22 km südwestlich von Heidelberg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Nahe dem Wagbach lag einst ein römisches Kleinkastell.",
+"Bei Waghäusel siegte ein Revolutionsheer am Ende über preußische Truppen.",
+"Am Bahnhof Wiesental fand man ein bronzezeitliches Messer."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Römerkastell klingt am ehesten erfunden, doch es lag tatsächlich nahe dem Wagbach. Gelogen war der Sieg: Bei Wiesental und Waghäusel kämpfte in der Badischen Revolution ein badisch-pfälzisches Revolutionsheer gegen preußische Truppen und wurde am Ende geschlagen. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.waghaeusel.de/stadt-wirtschaft/geschichte-wappen/blick-in-die-ortsgeschichte",
+"faktencheck": "korrigiert",
+"id": "37-waghaeusel/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Waghäusel",
+"steckbrief": "Rund 22.000 Einwohner, 22 km südwestlich von Heidelberg.",
+"frage": "Wie hoch war die Wahlbeteiligung in Waghäusel bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 85 %",
+"85 bis unter 88 %",
+"88 bis unter 91 %",
+"91 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bundestagswahlen ziehen mehr Menschen an die Urne als Kommunal- oder Europawahlen, da schätzt man leicht zu hoch. In Waghäusel lag die Wahlbeteiligung 2025 bei 84 Prozent. Stärkste Kraft wurde die CDU, Zweite die AfD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "37-waghaeusel/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waghäusel",
+"steckbrief": "Rund 22.000 Einwohner, 22 km südwestlich von Heidelberg.",
+"frage": "Um die Kapelle Zum Waghus entstand ein Wallfahrtsort. Wer soll dort ein wundertätiges Madonnenbild entdeckt haben?",
+"optionen": [
+"Ein Fischer soll es entdeckt haben.",
+"Ein Schäfer soll es entdeckt haben.",
+"Ein Mönch soll es entdeckt haben.",
+"Ein Jäger soll es entdeckt haben."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Mönch liegt nahe, denn Wallfahrten und Klöster gehören oft zusammen. Nach der Überlieferung soll aber ein Schäfer das wundertätige Madonnenbild entdeckt haben. An der Fundstelle entstand die Kapelle Zum Waghus, die bald ein vielbesuchter Wallfahrtsort wurde. Aus ihm ging der Stadtteil Waghäusel hervor. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.waghaeusel.de/stadt-wirtschaft/geschichte-wappen/stadtwappen-ortsteile",
+"faktencheck": "korrigiert",
+"id": "37-waghaeusel/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Waghäusel",
+"steckbrief": "Rund 22.000 Einwohner, 22 km südwestlich von Heidelberg.",
+"frage": "Welche dieser Gemeinden ist eine Partnergemeinde von Waghäusel?",
+"optionen": [
+"Mallnitz",
+"Chepstow",
+"Szigetújfalu",
+"Kalocsa"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Kalocsa liegt nahe, denn unter ungarisch klingenden Namen wählt man gern den bekannteren. Partnerschaften folgen aber nicht der Bekanntheit. Die Partnergemeinden von Waghäusel sind Szigetújfalu, Caldicot und Flattach. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.waghaeusel.de/stadt-wirtschaft/partnergemeinden (Stand 2026)",
+"faktencheck": "korrigiert",
+"id": "37-waghaeusel/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waghäusel",
+"steckbrief": "Rund 22.000 Einwohner, 22 km südwestlich von Heidelberg.",
+"frage": "Der berühmte Barockbaumeister Balthasar Neumann baute in Waghäusel die Eremitage um. Wozu diente sie ursprünglich?",
+"optionen": [
+"Sie war eine Einsiedelei für fromme Eremiten.",
+"Sie war eine Herberge für Wallfahrer.",
+"Sie war eine Lateinschule für junge Priester.",
+"Sie diente als Jagdschloss und Rückzugsort."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name Eremitage klingt nach Einsiedlern, daher liegt die Einsiedelei nahe. Doch Fürstbischof Damian Hugo von Schönborn ließ die Anlage als Jagdschloss und Rückzugsort bauen. Sie gehörte den Fürstbischöfen von Speyer, später der Badischen Gesellschaft für Zuckerfabrikation. Heute ist sie ein denkmalgeschütztes Ensemble. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.waghaeusel.de/stadt-wirtschaft/geschichte-wappen/blick-in-die-ortsgeschichte",
+"faktencheck": "bestätigt",
+"id": "37-waghaeusel/v0.8/7",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Waghäusel",
+"steckbrief": "Rund 22.000 Einwohner, 22 km südwestlich von Heidelberg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Stadtteil Waghäusel hat die meisten Einwohner.",
+"Die Stadt entstand aus einem Zusammenschluss mehrerer Gemeinden.",
+"Das Wappen des Stadtteils Wiesental zeigt ein Herz."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer der Stadt den Namen gibt, muss doch der größte Stadtteil sein? Nein: Waghäusel hat mit Abstand die wenigsten Einwohner, Wiesental und Kirrlach haben weit mehr. Die Stadt entstand aus diesen drei Gemeinden. Das Wiesentaler Wappen trägt die Farben des Hochstifts Speyer. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.waghaeusel.de/stadt-wirtschaft/grosse-kreisstadt-waghaeusel/zahlen-daten-fakten (Stand 2026)",
+"faktencheck": "unsicher",
+"id": "37-waghaeusel/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Waghäusel",
+"steckbrief": "Rund 22.000 Einwohner, 22 km südwestlich von Heidelberg.",
+"frage": "Das Wappen des Stadtteils Kirrlach zeigt ein silbernes Beil. Was für ein Beil war es ursprünglich?",
+"optionen": [
+"Es war ein Henkersbeil des Dorfgerichts.",
+"Es war ein Zimmermannsbeil der Bauleute.",
+"Es war ein Beil der Metzger.",
+"Es war eine Streitaxt der Ritter."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Beil auf grünem Grund lässt an Wald und Holz denken, und so sieht es heute auch aus: als Försterbeil. Ursprünglich aber war es ein Metzgerbeil, die Darstellung änderte sich mehrfach. Das Wappen verlieh das Innenministerium. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.waghaeusel.de/stadt-wirtschaft/geschichte-wappen/stadtwappen-ortsteile",
+"faktencheck": "korrigiert",
+"id": "37-waghaeusel/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "36-graben-neudorf",
+"anschluss": [
+"Einwohner: Waghäusel hat fast doppelt so viele wie Graben-Neudorf.",
+"Bundestagswahl 2025: AfD in Waghäusel stärker als in Graben-Neudorf."
+],
+"km_vom_vorigen": 10.3
+},
+{
 "slug": "17-weinheim",
 "name": "Weinheim",
 "lat": 49.55611,
@@ -7992,9 +8545,9 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "34-karlsruhe",
+"anschluss_von": "37-waghaeusel",
 "anschluss": [],
-"km_vom_vorigen": 63.1
+"km_vom_vorigen": 35.8
 },
 {
 "slug": "18-laudenbach",

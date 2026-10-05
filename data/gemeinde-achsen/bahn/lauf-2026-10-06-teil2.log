@@ -1,0 +1,29 @@
+Orte: 35-stutensee 36-graben-neudorf 37-waghaeusel
+== Extraktion (Haiku) 22:44:24
+35-stutensee         extraktion ein  28617  aus  25926   0.17 USD   235 s  claude-haiku-4-5-20251001
+36-graben-neudorf    extraktion ein  23457  aus  11445   0.09 USD   108 s  claude-haiku-4-5-20251001
+37-waghaeusel        extraktion ein  38431  aus  11666   0.12 USD    92 s  claude-haiku-4-5-20251001
+zusammen: 1508 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+35-stutensee       49466 Zeichen
+36-graben-neudorf   21579 Zeichen
+37-waghaeusel      23785 Zeichen
+== Karten (claude-opus-5-5) 22:48:19
+35-stutensee         karten     ein  57226  aus  36999   1.14 USD   325 s  claude-opus-5-5
+36-graben-neudorf    karten     ein  39103  aus  32785   0.91 USD   285 s  claude-opus-5-5
+37-waghaeusel        karten     ein  40813  aus  40602   1.08 USD   349 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 22:54:08
+35-stutensee         pruefung   ein  64809  aus  11996   0.70 USD   108 s  claude-opus-5-5
+36-graben-neudorf    pruefung   ein  49317  aus   9722   0.54 USD    85 s  claude-opus-5-5
+37-waghaeusel        pruefung   ein  73849  aus  13189   0.80 USD   114 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 22:56:02
+35-stutensee         stufe2     ein 210838  aus   8558   0.80 USD   106 s  claude-opus-5-5,claude-haiku-4-5-20251001
+36-graben-neudorf    stufe2     ein 136268  aus   2002   0.33 USD    84 s  claude-opus-5-5,claude-haiku-4-5-20251001
+37-waghaeusel        stufe2     ein 204148  aus   3278   0.45 USD    90 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 22:57:49
+Urteile: {'bestätigt': 279, 'korrigiert': 50, 'unsicher': 15, 'gesperrt': 1} | im Vorrat: 344 Karten an 37 Orten
+iter1    10 Orte, 133 Karten, Tisch-Reihe 4
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     37 Orte, 344 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 534822 Bytes
+Kosten aller Orte 32-41 bisher: 14.87 USD
+Fertig 22:57:49

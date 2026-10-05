@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "36-graben-neudorf",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 4667,
+ "token_ein": 136268,
+ "token_aus": 2002,
+ "usage": {
+  "input_tokens": 12,
+  "cache_creation_input_tokens": 18449,
+  "cache_read_input_tokens": 117807,
+  "output_tokens": 2002,
+  "output_tokens_details": {
+   "thinking_tokens": 581
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 18449,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 1046,
+    "cache_read_input_tokens": 24284,
+    "cache_creation_input_tokens": 1063,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 1063
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.32749339999999993,
+ "sekunden": 84,
+ "fehler": false,
+ "zeit": "2026-10-05T22:57:26"
+}
