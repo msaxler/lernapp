@@ -130,7 +130,10 @@ def main():
             if anschluss and vorher:
                 anschluesse[vorher] = anschluss
             ort = {'slug': slug, 'name': g['name'], 'lat': g['lat'], 'lon': g['lon'], 'karten': karten,
-                   'anschluss_von': vorher, 'anschluss': anschluss, 'anschluesse': anschluesse}
+                   'anschluss_von': vorher, 'anschluss': anschluss, 'anschluesse': anschluesse,
+                   # Gemeindeschlüssel: im GPS-Modus ersetzt ein Ort mit Geschichten-Karten die Grundversorgung derselben
+                   # Gemeinde (ein Ortsteil wie Zähringen nicht die Stadt Freiburg)
+                   'ags': g.get('gemeindeschluessel'), 'ortsteil': g.get('einheit', '').startswith('Ortsteil')}
             if vorher:
                 ort['km_vom_vorigen'] = round(km(grund[vorher], g), 1)
             orte.append(ort)

@@ -253,7 +253,9 @@ window.QA_DATEN = {
 ],
 "anschluss_von": null,
 "anschluss": [],
-"anschluesse": {}
+"anschluesse": {},
+"ags": "08315115",
+"ortsteil": false
 },
 {
 "slug": "02-gundelfingen",
@@ -532,6 +534,8 @@ window.QA_DATEN = {
 "Gundelfingen hat gut doppelt so viele Einwohner wie Umkirch."
 ]
 },
+"ags": "08315047",
+"ortsteil": false,
 "km_vom_vorigen": 7.7
 },
 {
@@ -829,6 +833,8 @@ window.QA_DATEN = {
 "Denzlingen wird 984 erstmals erwähnt, Gundelfingen erst 1008."
 ]
 },
+"ags": "08316009",
+"ortsteil": false,
 "km_vom_vorigen": 3.1
 },
 {
@@ -1107,6 +1113,8 @@ window.QA_DATEN = {
 "Denzlingen wird 24 Jahre früher erwähnt als Zähringen: 984 statt 1008."
 ]
 },
+"ags": "08311000",
+"ortsteil": true,
 "km_vom_vorigen": 5.1
 },
 {
@@ -1386,6 +1394,8 @@ window.QA_DATEN = {
 "Gegründet hat das Kloster St. Peter Herzog Berthold II. von Zähringen."
 ]
 },
+"ags": "08315095",
+"ortsteil": false,
 "km_vom_vorigen": 12.7
 },
 {
@@ -1704,6 +1714,8 @@ window.QA_DATEN = {
 "Glottertal wird 1112 erstmals erwähnt, in einer Güterbeschreibung des Klosters St. Peter."
 ]
 },
+"ags": "08315041",
+"ortsteil": false,
 "km_vom_vorigen": 6.9
 },
 {
@@ -1963,6 +1975,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: Zweite wurde in Glottertal die AfD, in Kirchzarten die Grünen."
 ]
 },
+"ags": "08315064",
+"ortsteil": false,
 "km_vom_vorigen": 9.1
 },
 {
@@ -2241,6 +2255,8 @@ window.QA_DATEN = {
 "Der Schauinslandradweg verbindet Günterstal und Kirchzarten rund um den Berg."
 ]
 },
+"ags": "08311000",
+"ortsteil": true,
 "km_vom_vorigen": 6.6
 },
 {
@@ -2480,6 +2496,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Günterstal lagen die Grünen vorn, in Horben die CDU."
 ]
 },
+"ags": "08315056",
+"ortsteil": false,
 "km_vom_vorigen": 3.5
 },
 {
@@ -2739,6 +2757,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Horben wählten 91,4 Prozent, in Staufen 87,2."
 ]
 },
+"ags": "08315108",
+"ortsteil": false,
 "km_vom_vorigen": 11.2
 }
 ]
@@ -2955,7 +2975,9 @@ window.QA_DATEN = {
 ],
 "anschluss_von": null,
 "anschluss": [],
-"anschluesse": {}
+"anschluesse": {},
+"ags": "07137203",
+"ortsteil": false
 },
 {
 "slug": "02-engers",
@@ -3174,6 +3196,8 @@ window.QA_DATEN = {
 "Kreisgrenze: In Bendorf steht MYK am Auto, im Neuwieder Stadtteil Engers NR."
 ]
 },
+"ags": "07138045",
+"ortsteil": true,
 "km_vom_vorigen": 2.0
 },
 {
@@ -3393,6 +3417,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Heimbach-Weis wählten 82,1 Prozent, in Engers 74,9."
 ]
 },
+"ags": "07138045",
+"ortsteil": true,
 "km_vom_vorigen": 3.0
 },
 {
@@ -3591,6 +3617,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Altwied wie in Heimbach-Weis lag die CDU vorn."
 ]
 },
+"ags": "07138045",
+"ortsteil": true,
 "km_vom_vorigen": 6.2
 },
 {
@@ -3770,6 +3798,8 @@ window.QA_DATEN = {
 "Rengsdorf hat gut viermal so viele Einwohner wie Altwied."
 ]
 },
+"ags": "07138061",
+"ortsteil": false,
 "km_vom_vorigen": 3.0
 },
 {
@@ -3909,6 +3939,8 @@ window.QA_DATEN = {
 "Dierdorf hat mehr als viermal so viel Fläche wie Rengsdorf."
 ]
 },
+"ags": "07138012",
+"ortsteil": false,
 "km_vom_vorigen": 12.6
 },
 {
@@ -4148,6 +4180,8 @@ window.QA_DATEN = {
 "Waldbreitbach wird 347 Jahre früher urkundlich erwähnt als Dierdorf."
 ]
 },
+"ags": "07138076",
+"ortsteil": false,
 "km_vom_vorigen": 17.0
 },
 {
@@ -4367,6 +4401,8 @@ window.QA_DATEN = {
 "Linz hat gut dreimal so viele Einwohner wie Waldbreitbach."
 ]
 },
+"ags": "07138041",
+"ortsteil": false,
 "km_vom_vorigen": 9.6
 },
 {
@@ -4586,6 +4622,8 @@ window.QA_DATEN = {
 "Linz liegt näher an Bonn, Bad Hönningen näher an Koblenz."
 ]
 },
+"ags": "07138004",
+"ortsteil": false,
 "km_vom_vorigen": 6.1
 },
 {
@@ -4805,6 +4843,8 @@ window.QA_DATEN = {
 "Bad Hönningen hat mehr als dreimal so viele Einwohner wie Leutesdorf."
 ]
 },
+"ags": "07138038",
+"ortsteil": false,
 "km_vom_vorigen": 9.3
 },
 {
@@ -5024,6 +5064,8 @@ window.QA_DATEN = {
 "Der Komponist August Bungert starb in Leutesdorf und liegt in Feldkirchen begraben."
 ]
 },
+"ags": "07138045",
+"ortsteil": true,
 "km_vom_vorigen": 2.4
 }
 ]
@@ -5222,7 +5264,9 @@ window.QA_DATEN = {
 "Kreisgrenze: Herbolzheim gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
 "Herbolzheim hat rund 1.400 Einwohner mehr als March."
 ]
-}
+},
+"ags": "08315132",
+"ortsteil": false
 },
 {
 "slug": "66-gottenheim",
@@ -5471,6 +5515,8 @@ window.QA_DATEN = {
 "Herbolzheim hat fast dreieinhalbmal so viele Einwohner wie Gottenheim."
 ]
 },
+"ags": "08315043",
+"ortsteil": false,
 "km_vom_vorigen": 4.0
 },
 {
@@ -5676,6 +5722,8 @@ window.QA_DATEN = {
 "Herbolzheim hat doppelt so viele Einwohner wie Bötzingen."
 ]
 },
+"ags": "08315013",
+"ortsteil": false,
 "km_vom_vorigen": 3.0
 },
 {
@@ -5902,6 +5950,8 @@ window.QA_DATEN = {
 "Herbolzheim hat fast dreimal so viele Einwohner wie Eichstetten."
 ]
 },
+"ags": "08315030",
+"ortsteil": false,
 "km_vom_vorigen": 2.4
 },
 {
@@ -6101,6 +6151,8 @@ window.QA_DATEN = {
 "Kenzingen hat gut anderthalbmal so viele Einwohner wie Ihringen."
 ]
 },
+"ags": "08315059",
+"ortsteil": false,
 "km_vom_vorigen": 9.2
 },
 {
@@ -6315,6 +6367,8 @@ window.QA_DATEN = {
 "Breisach ist eine Stadt, Ihringen eine Gemeinde; beide bilden eine Verwaltungsgemeinschaft."
 ]
 },
+"ags": "08315015",
+"ortsteil": false,
 "km_vom_vorigen": 5.3
 },
 {
@@ -6517,6 +6571,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Stegen wählten 89,4, in Breisach 82,3 Prozent."
 ]
 },
+"ags": "08315109",
+"ortsteil": false,
 "km_vom_vorigen": 29.0
 },
 {
@@ -6708,6 +6764,8 @@ window.QA_DATEN = {
 "Hinterzarten liegt rund 420 Meter höher als Oberried."
 ]
 },
+"ags": "08315084",
+"ortsteil": false,
 "km_vom_vorigen": 5.8
 },
 {
@@ -6940,6 +6998,8 @@ window.QA_DATEN = {
 "Titisee-Neustadt liegt rund 400 Meter höher als Buchenbach."
 ]
 },
+"ags": "08315020",
+"ortsteil": false,
 "km_vom_vorigen": 5.7
 },
 {
@@ -7151,6 +7211,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: Auf Platz zwei kam in Titisee-Neustadt die AfD, in Hinterzarten die Grünen."
 ]
 },
+"ags": "08315052",
+"ortsteil": false,
 "km_vom_vorigen": 9.0
 },
 {
@@ -7354,6 +7416,8 @@ window.QA_DATEN = {
 "Titisee-Neustadt hat gut zweieinhalbmal so viel Fläche wie Hinterzarten."
 ]
 },
+"ags": "08315113",
+"ortsteil": false,
 "km_vom_vorigen": 8.5
 },
 {
@@ -7598,6 +7662,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: Auf Platz zwei kam in Herbolzheim die AfD, in Emmendingen die Grünen."
 ]
 },
+"ags": "08316011",
+"ortsteil": false,
 "km_vom_vorigen": 35.8
 },
 {
@@ -7824,6 +7890,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Lahr lag die AfD vorn, in Kenzingen die CDU."
 ]
 },
+"ags": "08316020",
+"ortsteil": false,
 "km_vom_vorigen": 9.9
 },
 {
@@ -8069,6 +8137,8 @@ window.QA_DATEN = {
 "Friesenheim hat rund 3.100 Einwohner mehr als Herbolzheim."
 ]
 },
+"ags": "08316017",
+"ortsteil": false,
 "km_vom_vorigen": 3.4
 },
 {
@@ -8300,6 +8370,8 @@ window.QA_DATEN = {
 "Offenburg hat rund 12.000 Einwohner mehr als Lahr."
 ]
 },
+"ags": "08317065",
+"ortsteil": false,
 "km_vom_vorigen": 14.8
 },
 {
@@ -8529,6 +8601,8 @@ window.QA_DATEN = {
 "Friesenheim hat rund 3.500 Einwohner mehr als Appenweier."
 ]
 },
+"ags": "08317031",
+"ortsteil": false,
 "km_vom_vorigen": 3.9
 },
 {
@@ -8718,6 +8792,8 @@ window.QA_DATEN = {
 "Offenburg hat gut achtmal so viele Einwohner wie Renchen."
 ]
 },
+"ags": "08317096",
+"ortsteil": false,
 "km_vom_vorigen": 11.7
 },
 {
@@ -8906,6 +8982,8 @@ window.QA_DATEN = {
 "Achern hat gut zweieinhalbmal so viele Einwohner wie Appenweier."
 ]
 },
+"ags": "08317005",
+"ortsteil": false,
 "km_vom_vorigen": 8.2
 },
 {
@@ -9110,6 +9188,8 @@ window.QA_DATEN = {
 "Bühl hat fast viermal so viele Einwohner wie Renchen."
 ]
 },
+"ags": "08317110",
+"ortsteil": false,
 "km_vom_vorigen": 5.6
 },
 {
@@ -9320,6 +9400,8 @@ window.QA_DATEN = {
 "Baden-Baden hat gut doppelt so viele Einwohner wie Achern."
 ]
 },
+"ags": "08317001",
+"ortsteil": false,
 "km_vom_vorigen": 6.9
 },
 {
@@ -9551,6 +9633,8 @@ window.QA_DATEN = {
 "Rastatt hat fast doppelt so viele Einwohner wie Bühl."
 ]
 },
+"ags": "08216007",
+"ortsteil": false,
 "km_vom_vorigen": 8.4
 },
 {
@@ -9782,6 +9866,8 @@ window.QA_DATEN = {
 "Baden-Baden hat fast fünfmal so viele Einwohner wie Durmersheim."
 ]
 },
+"ags": "08211000",
+"ortsteil": false,
 "km_vom_vorigen": 10.7
 },
 {
@@ -10009,6 +10095,8 @@ window.QA_DATEN = {
 "Rastatt hat fast viereinhalbmal so viele Einwohner wie Durmersheim."
 ]
 },
+"ags": "08216043",
+"ortsteil": false,
 "km_vom_vorigen": 10.9
 },
 {
@@ -10205,6 +10293,8 @@ window.QA_DATEN = {
 "Stutensee hat gut doppelt so viele Einwohner wie Durmersheim."
 ]
 },
+"ags": "08216009",
+"ortsteil": false,
 "km_vom_vorigen": 10.5
 },
 {
@@ -10412,6 +10502,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Graben-Neudorf lag die CDU vorn, in Karlsruhe die Grünen."
 ]
 },
+"ags": "08212000",
+"ortsteil": false,
 "km_vom_vorigen": 12.5
 },
 {
@@ -10613,6 +10705,8 @@ window.QA_DATEN = {
 "Stutensee hat doppelt so viele Einwohner wie Graben-Neudorf."
 ]
 },
+"ags": "08215109",
+"ortsteil": false,
 "km_vom_vorigen": 7.5
 },
 {
@@ -10807,6 +10901,8 @@ window.QA_DATEN = {
 "Speyer hat viermal so viele Einwohner wie Graben-Neudorf."
 ]
 },
+"ags": "08215099",
+"ortsteil": false,
 "km_vom_vorigen": 10.6
 },
 {
@@ -11017,6 +11113,8 @@ window.QA_DATEN = {
 "Speyer hat gut doppelt so viele Einwohner wie Waghäusel."
 ]
 },
+"ags": "08215106",
+"ortsteil": false,
 "km_vom_vorigen": 10.3
 },
 {
@@ -11239,6 +11337,8 @@ window.QA_DATEN = {
 "Speyer hat fast zweieinhalbmal so viele Einwohner wie Hockenheim."
 ]
 },
+"ags": "08226032",
+"ortsteil": false,
 "km_vom_vorigen": 7.9
 },
 {
@@ -11478,6 +11578,8 @@ window.QA_DATEN = {
 "Speyer hat gut doppelt so viele Einwohner wie Schwetzingen."
 ]
 },
+"ags": "08226084",
+"ortsteil": false,
 "km_vom_vorigen": 7.4
 },
 {
@@ -11689,6 +11791,8 @@ window.QA_DATEN = {
 "Mannheim hat fast siebenmal so viele Einwohner wie Speyer."
 ]
 },
+"ags": "08222000",
+"ortsteil": false,
 "km_vom_vorigen": 13.7
 },
 {
@@ -11906,6 +12010,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Ludwigshafen lag die AfD vorn, in Ladenburg die CDU."
 ]
 },
+"ags": "08226038",
+"ortsteil": false,
 "km_vom_vorigen": 10.5
 },
 {
@@ -12149,6 +12255,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Ludwigshafen lag die AfD vorn, in Weinheim die CDU."
 ]
 },
+"ags": "08226096",
+"ortsteil": false,
 "km_vom_vorigen": 10.3
 },
 {
@@ -12352,6 +12460,8 @@ window.QA_DATEN = {
 "Seeheim-Jugenheim hat zweieinhalbmal so viele Einwohner wie Laudenbach."
 ]
 },
+"ags": "08226040",
+"ortsteil": false,
 "km_vom_vorigen": 6.3
 },
 {
@@ -12589,6 +12699,8 @@ window.QA_DATEN = {
 "Heppenheim hat gut anderthalbmal so viele Einwohner wie Seeheim-Jugenheim."
 ]
 },
+"ags": "06431011",
+"ortsteil": false,
 "km_vom_vorigen": 3.4
 },
 {
@@ -12826,6 +12938,8 @@ window.QA_DATEN = {
 "Worms hat gut doppelt so viele Einwohner wie Bensheim."
 ]
 },
+"ags": "06431002",
+"ortsteil": false,
 "km_vom_vorigen": 4.7
 },
 {
@@ -13044,6 +13158,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Darmstadt lagen die Grünen vorn, in Zwingenberg die CDU."
 ]
 },
+"ags": "06431022",
+"ortsteil": false,
 "km_vom_vorigen": 4.6
 },
 {
@@ -13259,6 +13375,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Darmstadt lagen die Grünen vorn, in Seeheim-Jugenheim die CDU."
 ]
 },
+"ags": "06432022",
+"ortsteil": false,
 "km_vom_vorigen": 5.6
 },
 {
@@ -13466,6 +13584,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Langen lag die CDU vorn, in Darmstadt die Grünen."
 ]
 },
+"ags": "06411000",
+"ortsteil": false,
 "km_vom_vorigen": 11.1
 },
 {
@@ -13693,6 +13813,8 @@ window.QA_DATEN = {
 "Rüsselsheim hat gut anderthalbmal so viele Einwohner wie Langen."
 ]
 },
+"ags": "06438006",
+"ortsteil": false,
 "km_vom_vorigen": 13.8
 },
 {
@@ -13892,6 +14014,8 @@ window.QA_DATEN = {
 "Frankfurt hat mehr als achtmal so viel Fläche wie Langen."
 ]
 },
+"ags": "06412000",
+"ortsteil": false,
 "km_vom_vorigen": 13.5
 },
 {
@@ -14105,6 +14229,8 @@ window.QA_DATEN = {
 "Kreisgrenze: In Frankfurt steht F am Auto, in Rüsselsheim GG für den Kreis Groß-Gerau."
 ]
 },
+"ags": "06433012",
+"ortsteil": false,
 "km_vom_vorigen": 23.2
 },
 {
@@ -14332,6 +14458,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Oppenheim lag die CDU vorn, in Mainz die Grünen."
 ]
 },
+"ags": "07315000",
+"ortsteil": false,
 "km_vom_vorigen": 9.9
 },
 {
@@ -14551,6 +14679,8 @@ window.QA_DATEN = {
 "Wiesbaden hat gut achtmal so viele Einwohner wie Ingelheim."
 ]
 },
+"ags": "06414000",
+"ortsteil": false,
 "km_vom_vorigen": 9.5
 },
 {
@@ -14756,6 +14886,8 @@ window.QA_DATEN = {
 "Ingelheim hat gut sechsmal so viele Einwohner wie Walluf."
 ]
 },
+"ags": "06439017",
+"ortsteil": false,
 "km_vom_vorigen": 7.9
 },
 {
@@ -14983,6 +15115,8 @@ window.QA_DATEN = {
 "Ingelheim hat gut doppelt so viele Einwohner wie Eltville am Rhein."
 ]
 },
+"ags": "06439003",
+"ortsteil": false,
 "km_vom_vorigen": 2.8
 },
 {
@@ -15215,6 +15349,8 @@ window.QA_DATEN = {
 "Ingelheim hat dreimal so viele Einwohner wie Oestrich-Winkel."
 ]
 },
+"ags": "06439012",
+"ortsteil": false,
 "km_vom_vorigen": 7.4
 },
 {
@@ -15464,6 +15600,8 @@ window.QA_DATEN = {
 "Ingelheim hat gut dreimal so viele Einwohner wie Geisenheim."
 ]
 },
+"ags": "06439004",
+"ortsteil": false,
 "km_vom_vorigen": 4.8
 },
 {
@@ -15713,6 +15851,8 @@ window.QA_DATEN = {
 "Ingelheim hat dreieinhalbmal so viele Einwohner wie Rüdesheim am Rhein."
 ]
 },
+"ags": "06439013",
+"ortsteil": false,
 "km_vom_vorigen": 3.0
 },
 {
@@ -15970,6 +16110,8 @@ window.QA_DATEN = {
 "Ingelheim hat neunmal so viele Einwohner wie Lorch."
 ]
 },
+"ags": "06439010",
+"ortsteil": false,
 "km_vom_vorigen": 11.2
 },
 {
@@ -16222,6 +16364,8 @@ window.QA_DATEN = {
 "Bingen hat rund 35-mal so viele Einwohner wie Kaub."
 ]
 },
+"ags": "07141069",
+"ortsteil": false,
 "km_vom_vorigen": 5.7
 },
 {
@@ -16480,6 +16624,8 @@ window.QA_DATEN = {
 "Bacharach hat rund 300 Einwohner mehr als St. Goarshausen."
 ]
 },
+"ags": "07141121",
+"ortsteil": false,
 "km_vom_vorigen": 8.1
 },
 {
@@ -16702,6 +16848,8 @@ window.QA_DATEN = {
 "Bacharach hat fast zweieinhalbmal so viele Einwohner wie Kestert."
 ]
 },
+"ags": "07141072",
+"ortsteil": false,
 "km_vom_vorigen": 5.8
 },
 {
@@ -16960,6 +17108,8 @@ window.QA_DATEN = {
 "Oberwesel hat doppelt so viele Einwohner wie Kamp-Bornhofen."
 ]
 },
+"ags": "07141066",
+"ortsteil": false,
 "km_vom_vorigen": 4.8
 },
 {
@@ -17212,6 +17362,8 @@ window.QA_DATEN = {
 "Oberwesel hat fast zweieinhalbmal so viele Einwohner wie Osterspai."
 ]
 },
+"ags": "07141108",
+"ortsteil": false,
 "km_vom_vorigen": 2.3
 },
 {
@@ -17427,6 +17579,8 @@ window.QA_DATEN = {
 "Oberwesel und Braubach sind fast gleich groß: rund 2.900 und 3.000 Einwohner."
 ]
 },
+"ags": "07141501",
+"ortsteil": false,
 "km_vom_vorigen": 3.9
 },
 {
@@ -17638,6 +17792,8 @@ window.QA_DATEN = {
 "Lahnstein hat fast siebenmal so viele Einwohner wie St. Goar."
 ]
 },
+"ags": "07141075",
+"ortsteil": false,
 "km_vom_vorigen": 4.1
 },
 {
@@ -17884,6 +18040,8 @@ window.QA_DATEN = {
 "Boppard hat gut anderthalbmal so viele Einwohner wie Vallendar."
 ]
 },
+"ags": "07137226",
+"ortsteil": false,
 "km_vom_vorigen": 11.1
 },
 {
@@ -18107,6 +18265,8 @@ window.QA_DATEN = {
 "Koblenz hat fast viermal so viele Einwohner wie Andernach."
 ]
 },
+"ags": "07137003",
+"ortsteil": false,
 "km_vom_vorigen": 15.9
 },
 {
@@ -18358,6 +18518,8 @@ window.QA_DATEN = {
 "Koblenz hat gut siebenmal so viele Einwohner wie Boppard."
 ]
 },
+"ags": "07111000",
+"ortsteil": false,
 "km_vom_vorigen": 16.5
 },
 {
@@ -18572,6 +18734,8 @@ window.QA_DATEN = {
 "St. Goar und Rhens sind fast gleich groß: rund 2.900 und 2.900 Einwohner."
 ]
 },
+"ags": "07137221",
+"ortsteil": false,
 "km_vom_vorigen": 8.9
 },
 {
@@ -18800,6 +18964,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: Auf Platz zwei kam in Oberwesel die AfD, in Boppard die SPD."
 ]
 },
+"ags": "07140501",
+"ortsteil": false,
 "km_vom_vorigen": 5.8
 },
 {
@@ -19063,6 +19229,8 @@ window.QA_DATEN = {
 "St. Goar hat fast doppelt so viele Einwohner wie Bacharach."
 ]
 },
+"ags": "07140133",
+"ortsteil": false,
 "km_vom_vorigen": 12.7
 },
 {
@@ -19282,6 +19450,8 @@ window.QA_DATEN = {
 "Bingen hat neunmal so viele Einwohner wie Oberwesel."
 ]
 },
+"ags": "07140112",
+"ortsteil": false,
 "km_vom_vorigen": 4.8
 },
 {
@@ -19516,6 +19686,8 @@ window.QA_DATEN = {
 "Bingen hat siebzehnmal so viele Einwohner wie Bacharach."
 ]
 },
+"ags": "07339003",
+"ortsteil": false,
 "km_vom_vorigen": 6.0
 },
 {
@@ -19726,6 +19898,8 @@ window.QA_DATEN = {
 "Ingelheim hat rund 9.500 Einwohner mehr als Bingen."
 ]
 },
+"ags": "07339005",
+"ortsteil": false,
 "km_vom_vorigen": 13.8
 },
 {
@@ -19937,6 +20111,8 @@ window.QA_DATEN = {
 "Bingen und Ingelheim liegen beide im Landkreis Mainz-Bingen; Kreisstadt ist Ingelheim."
 ]
 },
+"ags": "07339030",
+"ortsteil": false,
 "km_vom_vorigen": 11.6
 },
 {
@@ -20136,6 +20312,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: Auf Platz zwei kam in Ingelheim die SPD, in Alzey die AfD."
 ]
 },
+"ags": "07331003",
+"ortsteil": false,
 "km_vom_vorigen": 25.2
 },
 {
@@ -20346,6 +20524,8 @@ window.QA_DATEN = {
 "Kreisgrenze: Alzey gehört zum Landkreis Alzey-Worms, Nierstein zum Landkreis Mainz-Bingen."
 ]
 },
+"ags": "07339043",
+"ortsteil": false,
 "km_vom_vorigen": 20.6
 },
 {
@@ -20553,6 +20733,8 @@ window.QA_DATEN = {
 "Nierstein hat mehr als zweieinhalbmal so viel Fläche wie Oppenheim."
 ]
 },
+"ags": "07339049",
+"ortsteil": false,
 "km_vom_vorigen": 2.2
 },
 {
@@ -20757,6 +20939,8 @@ window.QA_DATEN = {
 "Kreisgrenze: Oppenheim gehört zum Landkreis Mainz-Bingen, Worms ist kreisfrei."
 ]
 },
+"ags": "07319000",
+"ortsteil": false,
 "km_vom_vorigen": 25.1
 },
 {
@@ -20968,6 +21152,8 @@ window.QA_DATEN = {
 "Ludwigshafen hat gut dreieinhalbmal so viele Einwohner wie Frankenthal."
 ]
 },
+"ags": "07311000",
+"ortsteil": false,
 "km_vom_vorigen": 10.8
 },
 {
@@ -21175,6 +21361,8 @@ window.QA_DATEN = {
 "Ludwigshafen hat gut dreieinhalbmal so viele Einwohner wie Speyer."
 ]
 },
+"ags": "07314000",
+"ortsteil": false,
 "km_vom_vorigen": 8.5
 },
 {
@@ -21374,6 +21562,8 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Ludwigshafen lag die AfD knapp vorn, in Speyer die CDU."
 ]
 },
+"ags": "07318000",
+"ortsteil": false,
 "km_vom_vorigen": 18.3
 },
 {
@@ -21593,6 +21783,8 @@ window.QA_DATEN = {
 "Landau hat fast doppelt so viel Fläche wie Speyer."
 ]
 },
+"ags": "07313000",
+"ortsteil": false,
 "km_vom_vorigen": 26.0
 }
 ]

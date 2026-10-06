@@ -27,7 +27,8 @@ def main():
     os.makedirs(AUS, exist_ok=True)
     with io.open(os.path.join(AUS, 'quizaway-reise.html'), 'w', encoding='utf-8', newline='\n') as f:
         f.write(titel + '\n' + kopf + '\n' + rumpf + '\n')
-    shutil.copyfile(os.path.join(APP, 'daten.js'), os.path.join(AUS, 'daten.js'))
+    shutil.copyfile(os.path.join(APP, "daten.js"), os.path.join(AUS, "daten.js"))
+    shutil.copyfile(os.path.join(APP, "grund-de.js"), os.path.join(AUS, "grund-de.js"))
     print('geschrieben:', os.path.join(AUS, 'quizaway-reise.html'))
 
 

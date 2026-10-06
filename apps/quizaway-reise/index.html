@@ -227,6 +227,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
 </div>
 
 <script src="daten.js"></script>
+<script src="grund-de.js"></script>
 <script>
 (function(){
   'use strict';
@@ -239,6 +240,131 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     Object.keys(o.anschluesse || {}).forEach(function(v){ an[p(v)] = o.anschluesse[v]; });
     ALLE.orte.push(Object.assign({}, o, { slug: p(o.slug), anschluss_von: p(o.anschluss_von), anschluesse: an }));
   }); });
+
+  // ---- Grundversorgung (Mike 2026-10-07): alle Gemeinden Deutschlands mit Klassiker-Karten, ohne Modell ----
+  // Daten: grund-de.js (scripts/data-build/quizaway_grundversorgung.py). Die Karten rechnet die Seite erst, wenn ein Ort
+  // in die Nähe kommt. Ein Ort mit Geschichten-Karten ersetzt die Grundversorgung derselben Gemeinde.
+  var G = window.QA_GRUND || null;
+  var VERBUND = { '01': ['das Amt', 'zu dem'], '03': ['die Samtgemeinde', 'zu der'], '07': ['die Verbandsgemeinde', 'zu der'],
+                  '08': ['den Verwaltungsverband', 'zu dem'], '09': ['die Verwaltungsgemeinschaft', 'zu der'],
+                  '12': ['das Amt', 'zu dem'], '13': ['das Amt', 'zu dem'], '14': ['die Verwaltungsgemeinschaft', 'zu der'],
+                  '15': ['die Verbandsgemeinde', 'zu der'], '16': ['die Verwaltungsgemeinschaft', 'zu der'] };
+  var EWS = [0, 250, 500, 1000, 2000, 4000, 8000, 16000, 32000, 64000, 125000, 250000, 500000, 1000000, 2000000, Infinity];
+  var ZW = { 2: 'doppelt', 3: 'dreimal', 4: 'viermal', 5: 'fünfmal', 6: 'sechsmal', 7: 'siebenmal', 8: 'achtmal', 9: 'neunmal',
+             10: 'zehnmal', 11: 'elfmal', 12: 'zwölfmal', 13: 'dreizehnmal', 14: 'vierzehnmal', 15: 'fünfzehnmal',
+             16: 'sechzehnmal', 17: 'siebzehnmal', 18: 'achtzehnmal', 19: 'neunzehnmal', 20: 'zwanzigmal' };
+  var HALB = { 1.5: 'anderthalbmal', 2.5: 'zweieinhalbmal', 3.5: 'dreieinhalbmal', 4.5: 'viereinhalbmal' };
+  function hashOf(s){ var h = 7; for(var i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) | 0; return Math.abs(h); }
+  function fz(n){ return String(n).replace(/\B(?=(\d{3})+(?!\d))/g, '.'); }
+  function fp(x){ return String(x).replace('.', ','); }
+  function partei(p){ return { 'GRÜNE': 'die Grünen', 'Die Linke': 'die Linke', 'FREIE WÄHLER': 'die Freien Wähler', 'BSW': 'das BSW', 'SSW': 'der SSW' }[p] || ('die ' + p); }
+  function parteiOpt(p){ return { 'GRÜNE': 'Grüne', 'Die Linke': 'Linke' }[p] || p; }
+  function zumKreis(n){ return /^(Region|Städteregion)/.test(n) ? 'zur ' + n : 'zum ' + n; }
+  function mal(r){
+    if(r >= 20){ var n = Math.round(r / 5) * 5; return n > 20 ? 'rund ' + n + '-mal' : 'rund zwanzigmal'; }
+    var st = [1.5, 2, 2.5, 3, 3.5, 4, 4.5]; for(var i = 5; i <= 20; i++) st.push(i);
+    var s = st.reduce(function(a, b){ return Math.abs(b - r) < Math.abs(a - r) ? b : a; });
+    var w = HALB[s] || ZW[s];
+    return Math.abs(r - s) / s <= 0.03 ? w : (r < s ? 'fast ' : 'gut ') + w;
+  }
+  function rund(n){ var st = n >= 100000 ? 10000 : (n >= 10000 ? 1000 : 100); return fz(Math.round(n / st) * st); }
+  function gRec(a){ return { ags: a[0], name: a[1], stadt: !!a[2], lat: a[3], lon: a[4], ew: a[5], fl: a[6], wk: a[7], eigen: a[8],
+                             land: a[0].slice(0, 2), kreis: G.kreise[a[0].slice(0, 5)] }; }
+  function kmLuft(a, b){ var dx = (b.lon - a.lon) * Math.cos((a.lat + b.lat) / 2 * Math.PI / 180) * 111.32, dy = (b.lat - a.lat) * 110.54; return Math.hypot(dx, dy); }
+  function wahlText(g){
+    var w = g.wk && G.wahl[g.wk]; if(!w) return null;
+    var vg = g.wk.indexOf('VG') === 0, v = VERBUND[g.land] || ['den Verband', 'zu dem'];
+    return { w: w, vg: vg, wo: vg ? v[0] + ' ' + w[0] + ', ' + v[1] + ' ' + g.name + ' gehört' : g.name };
+  }
+  function grundKarten(g){
+    var land = G.laender[g.land], k = g.kreis, h = hashOf(g.ags), aus = [], n = 0;
+    var art = k && k[1] ? 'Kreisfreie Stadt' : (g.stadt ? 'Stadt' : 'Gemeinde');
+    function karte(familie, steck, frage, opt, loes, text, quelle){
+      n++;
+      aus.push({ familie: familie, sorte: 'Klassiker', ort: g.name, steckbrief: steck, frage: frage, optionen: opt, art: 'richtig',
+                 loesung: loes, rueckseite: 'Du hattest [Option] getippt. ' + text + ' Richtig war ' + loes + '.', quelle: quelle,
+                 faktencheck: 'bestätigt', id: 'de:' + g.ags + '/g/' + n, tisch: false });
+    }
+    function mischen(liste, richtig){
+      var o = liste.slice(), r = (h + 7919 * (n + 1)) & 0x7fffffff;
+      for(var i = o.length - 1; i > 0; i--){ r = (Math.imul(r, 1103515245) + 12345) & 0x7fffffff; var j = (r >>> 8) % (i + 1), x = o[i]; o[i] = o[j]; o[j] = x; }
+      return { opt: o, loes: o.indexOf(richtig) + 1 };
+    }
+    // 1 Einwohner, in vier Spannen der festen Leiter
+    var b = 0; while(!(g.ew >= EWS[b] && g.ew < EWS[b + 1])) b++;
+    var s = Math.max(0, Math.min(b - h % 4, EWS.length - 5)), opt = [];
+    for(var i = s; i < s + 4; i++) opt.push(EWS[i] === 0 ? 'unter ' + fz(EWS[i + 1]) : (EWS[i + 1] === Infinity ? fz(EWS[i]) + ' und mehr' : fz(EWS[i]) + ' bis unter ' + fz(EWS[i + 1])));
+    karte('C', (k && !k[1] ? k[0] + ' · ' : '') + land + ' · ' + fp(Math.round(g.fl)) + ' km² Fläche',
+          'Wie viele Menschen leben in ' + (art === 'Gemeinde' ? 'der Gemeinde ' : 'der Stadt ') + g.name + '?', opt, b - s + 1,
+          'Ende 2024 lebten in ' + g.name + ' ' + fz(g.ew) + ' Menschen.', 'Statistisches Bundesamt, Gemeindeverzeichnis, Stand 31.12.2024');
+    // 2 stärkste Partei, Bundestagswahl 2025 (Gesamtergebnis, bei gemeinsamer Briefwahl für den Verband)
+    var wt = wahlText(g);
+    if(wt){
+      var p1 = wt.w[2][0], basis = [g.land === '09' ? 'CSU' : 'CDU', 'AfD', 'SPD', 'GRÜNE'];
+      if(basis.indexOf(p1) < 0){ var oben = wt.w.slice(2).map(function(x){ return x[0]; });
+        var weg = basis.filter(function(x){ return oben.indexOf(x) < 0; }).pop() || basis[3]; basis[basis.indexOf(weg)] = p1; }
+      var m = mischen(basis, p1);
+      karte('A', 'Rund ' + rund(g.ew) + ' Einwohner · ' + land,
+            wt.vg ? 'Welche Partei lag bei der Bundestagswahl 2025 nach Zweitstimmen vorn, gezählt für ' + wt.wo + '?'
+                  : 'Welche Partei lag in ' + g.name + ' bei der Bundestagswahl 2025 nach Zweitstimmen vorn?',
+            m.opt.map(parteiOpt), m.loes,
+            'Vorn lag ' + partei(p1) + ' mit ' + fp(wt.w[2][1]) + ' Prozent, dahinter ' + partei(wt.w[3][0]) + ' mit ' + fp(wt.w[3][1]) + ' Prozent.' +
+            (wt.vg ? ' Das Ergebnis gilt für den ganzen Verband, weil die Briefwahl dort gemeinsam ausgezählt wird.' : ''),
+            'Bundeswahlleiterin, Bundestagswahl 2025, Zweitstimmen (amtlich, Urne und Brief)');
+    }
+    // 3 Kreis (nicht bei kreisfreien Städten): eigener Kreis und die drei nächsten Landkreise
+    if(k && !k[1]){
+      var nach = Object.keys(G.kreise).filter(function(ks){ var x = G.kreise[ks]; return !x[1] && x !== k; })
+        .map(function(ks){ var x = G.kreise[ks]; return [x[0], kmLuft({ lat: k[3], lon: k[4] }, { lat: x[3], lon: x[4] })]; })
+        .sort(function(a, b){ return a[1] - b[1]; }).slice(0, 3).map(function(x){ return x[0]; });
+      var mk = mischen([k[0]].concat(nach), k[0]);
+      karte('C', 'Rund ' + rund(g.ew) + ' Einwohner · ' + land, 'Zu welchem Kreis gehört ' + g.name + '?', mk.opt, mk.loes,
+            g.name + ' gehört ' + zumKreis(k[0]) + '.', 'Statistisches Bundesamt, Gemeindeverzeichnis, Stand 31.12.2024');
+    }
+    // 4 Kfz-Kennzeichen: das des Orts bzw. des Kreises, die anderen aus Kreisen über 80 km entfernt
+    if(k && k[2].length){
+      var rk = g.eigen && k[2].indexOf(g.eigen) >= 0 ? g.eigen : k[2][0];
+      var fern = Object.keys(G.kreise).map(function(ks){ return G.kreise[ks]; })
+        .filter(function(x){ return x[2].length && x !== k && k[2].indexOf(x[2][0]) < 0 && kmLuft({ lat: k[3], lon: k[4] }, { lat: x[3], lon: x[4] }) > 80; });
+      var fz3 = [], r2 = h;
+      while(fz3.length < 3 && fern.length){ r2 = (Math.imul(r2, 1103515245) + 12345) & 0x7fffffff; var x = fern.splice((r2 >>> 8) % fern.length, 1)[0][2][0]; if(fz3.indexOf(x) < 0) fz3.push(x); }
+      var mz = mischen([rk].concat(fz3), rk);
+      karte('C', 'Rund ' + rund(g.ew) + ' Einwohner · ' + land, 'Welches Kfz-Kennzeichen bekommt man in ' + g.name + '?', mz.opt, mz.loes,
+            k[2].length > 1 ? (k[1] ? g.name : 'Im ' + k[0].replace(/^Landkreis /, 'Landkreis ')) + ' gibt es die Zeichen ' + k[2].slice(0, -1).join(', ') + ' und ' + k[2][k[2].length - 1] + '.'
+                            : g.name + ' fährt mit ' + rk + '.', 'Wikidata P395 (Kreisebene)');
+    }
+    return aus;
+  }
+  // Anschluss zwischen zwei Gemeinden, gerechnet wie scripts/data-build/gemeinde_achsen_anschluesse.py
+  function anschlussRechnen(a, b){
+    var out = [], na = a.name, nb = b.name;
+    if(a.land !== b.land) out.push('Landesgrenze: ' + na + ' liegt in ' + G.laender[a.land] + ', ' + nb + ' in ' + G.laender[b.land] + '.');
+    else if(a.kreis && b.kreis && a.kreis !== b.kreis){
+      var ka = a.kreis[1] ? null : zumKreis(a.kreis[0]), kb = b.kreis[1] ? null : zumKreis(b.kreis[0]);
+      if(ka && kb) out.push('Kreisgrenze: ' + na + ' gehört ' + ka + ', ' + nb + ' ' + kb + '.');
+      else if(ka) out.push('Kreisgrenze: ' + na + ' gehört ' + ka + ', ' + nb + ' ist kreisfrei.');
+      else if(kb) out.push('Kreisgrenze: ' + na + ' ist kreisfrei, ' + nb + ' gehört ' + kb + '.');
+    }
+    var wa = a.wk && G.wahl[a.wk], wb = b.wk && G.wahl[b.wk];
+    if(wa && wb && a.wk !== b.wk && wa[2][0] !== wb[2][0])
+      out.push('Bundestagswahl 2025: In ' + na + ' lag' + (wa[2][0] === 'GRÜNE' ? 'en ' : ' ') + partei(wa[2][0]) + ' vorn, in ' + nb + ' ' + partei(wb[2][0]) + '.');
+    var g1 = a.ew >= b.ew ? a : b, g2 = a.ew >= b.ew ? b : a, r = g1.ew / Math.max(1, g2.ew);
+    if(r < 1.1) out.push(na + ' und ' + nb + ' sind fast gleich groß: rund ' + rund(a.ew) + ' und ' + rund(b.ew) + ' Einwohner.');
+    else if(r < 1.4) out.push(g1.name + ' hat rund ' + rund(g1.ew - g2.ew) + ' Einwohner mehr als ' + g2.name + '.');
+    else out.push(g1.name + ' hat ' + mal(r) + ' so viele Einwohner wie ' + g2.name + '.');
+    return out.slice(0, 2);
+  }
+  if(G){
+    var GREC = {}, kuratiert = {};
+    G.g.forEach(function(a){ GREC[a[0]] = a; });
+    ALLE.orte.forEach(function(o){ if(o.ags && GREC[o.ags]){ o.grund = gRec(GREC[o.ags]); if(!o.ortsteil) kuratiert[o.ags] = true; } });
+    G.g.forEach(function(a){
+      if(kuratiert[a[0]]) return;
+      var g = gRec(a), o = { slug: 'de:' + a[0], name: a[1], lat: a[3], lon: a[4], ags: a[0], grund: g, anschluesse: {}, anschluss: [], anschluss_von: null };
+      Object.defineProperty(o, 'karten', { get: function(){ return this._k || (this._k = grundKarten(this.grund)); } });
+      ALLE.orte.push(o);
+    });
+  }
   var IDS = ['s-start','s-karte','s-frage','s-leiter','s-aufl','s-ende'];
   var MUSTER = ['A','C','A','B','Leiter','A','B','A','B','A','C'];   // gemischte Reihe des Kartensatzes für den Tisch
   var JE_ORT = 3;
@@ -391,14 +517,20 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     var sc = aktivScreen();
     if(sc === 's-karte'){ var w = wartender(-1); if(w >= 0) ortStarten(w, 'push'); else karteZeichnen(); }
     else if(sc === 's-aufl') auflBar();
-    sichern('fahrt', fahrt);
+    // mit dem Topf aller Gemeinden (über 10.000 Orte) nur alle 10 s speichern
+    if(fahrt.raum !== 'alle' || (takt = (takt + 1) % 10) === 0) sichern('fahrt', fahrt);
   }, 1000);
+  var takt = 0;
 
   function fensterPruefen(){
     var now = uhr();
+    geschichteInSicht = false;
     fahrt.orte.forEach(function(f, i){
       if(f.zustand === 'gespielt' || f.zustand === 'ausgefallen') return;
-      var l = lage(i); f.lage = l;
+      var l = lage(i);
+      if(fahrt.raum === 'alle' && l.dist > 40000){ if(f.lage) delete f.lage; if(f.zustand === 'vorschau') f.zustand = 'fern'; return; }
+      f.lage = l;
+      if(f.slug.indexOf('de:') !== 0 && !(f.karten && f.karten.length) && !l.still && l.t >= 0 && l.t <= FENSTER.vorschau && l.lat <= FENSTER.korridor) geschichteInSicht = true;
       var inVorschau = l.still ? l.dist <= FENSTER.still_radius : (l.t >= 0 && l.t <= FENSTER.vorschau && l.lat <= FENSTER.korridor);
       var faellig = l.still ? l.dist <= FENSTER.still_radius : (l.t <= FENSTER.ausloesung && l.t > -FENSTER.nachlauf && l.lat <= FENSTER.korridor);
       if(!l.still && l.t < 0 && f.ev.vorschau && !f.ev.passiert){ f.ev.passiert = now; }
@@ -414,14 +546,24 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     });
   }
   // Nächster wartender Ort: fällig, nicht verschoben; Vorrang auf der Strecke (≤ 1 km), dann früher fällig
+  // Grundversorgung (Orte „de:…“): von selbst nur, wenn die Strecke höchstens 1 km vorbeiführt und der letzte Ping
+  // mindestens GRUND_PAUSE her ist – bei über 10.000 Gemeinden käme sonst fast jeden Kilometer einer (Test 2026-10-07)
+  var GRUND_PAUSE = 180;
+  // Vorrang (Mike 2026-10-07): ist ein Ort mit Geschichten-Karten in Sicht, wartet die Grundversorgung
+  var geschichteInSicht = false;
+  function grundDarf(f, now){
+    if(f.slug.indexOf('de:') !== 0) return true;
+    return !geschichteInSicht && (f.lage || {}).lat <= FENSTER.strecke && !(now - (fahrt.letzterPush || -1e9) < GRUND_PAUSE);
+  }
   function wartender(ausser){
     var now = uhr(), c = [];
     fahrt.orte.forEach(function(f, i){
-      if(i !== ausser && f.zustand === 'faellig' && !(f.gleichBis > now) && freieKarten(i).length) c.push(i);
+      if(i !== ausser && f.zustand === 'faellig' && !(f.gleichBis > now) && grundDarf(f, now) && freieKarten(i).length) c.push(i);
     });
     var auf = c.filter(function(i){ return (fahrt.orte[i].lage || {}).lat <= FENSTER.strecke; });
     if(auf.length) c = auf;
-    c.sort(function(a, b){ return fahrt.orte[a].ev.faellig - fahrt.orte[b].ev.faellig; });
+    var gr = function(i){ return fahrt.orte[i].slug.indexOf('de:') === 0 ? 1 : 0; };
+    c.sort(function(a, b){ return gr(a) - gr(b) || fahrt.orte[a].ev.faellig - fahrt.orte[b].ev.faellig; });
     return c.length ? c[0] : -1;
   }
 
@@ -514,12 +656,14 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     var best = -1, bt = Infinity;
     fahrt.orte.forEach(function(f, i){
       if(f.karten && f.karten.length) return;
-      if(f.zustand === 'ausgefallen' || f.zustand === 'gespielt' || !freieKarten(i).length) return;
-      var l = f.lage || (pos ? lage(i) : null); if(!l) return;
+      if(f.zustand === 'ausgefallen' || f.zustand === 'gespielt') return;
+      var l = f.lage || (fahrt.raum !== 'alle' && pos ? lage(i) : null); if(!l) return;
       if(fahrt.quelle === 'gps' && !inReichweite(l)) return;
+      if(!freieKarten(i).length) return;
       var t = l.still ? l.dist : (l.t < -FENSTER.nachlauf ? Infinity : Math.abs(l.t));
       // mit GPS zählt der Weg zur Seite mit (50 m je Sekunde): ein Ort direkt voraus geht dem 8 km neben der Straße vor
       if(fahrt.quelle === 'gps' && !l.still) t += l.lat / 50;
+      if(f.slug.indexOf('de:') === 0) t += 120;   // Geschichten-Orte zuerst
       if(t < bt){ bt = t; best = i; }
     });
     return best;
@@ -567,7 +711,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     if(fahrt.aktiv >= 0 && fahrt.aktiv !== i) ortBeenden(fahrt.aktiv);
     fahrt.aktiv = i;
     if(f.zustand !== 'aktiv'){ f.zustand = 'aktiv'; f.ev.start = f.ev.start || (istPush() ? uhr() : null); }
-    if(wie === 'push') hinweis();
+    if(wie === 'push'){ hinweis(); fahrt.letzterPush = uhr(); }
     frageStarten(wie);
   }
   function ortBeenden(i){
@@ -667,6 +811,8 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     // ältere Daten haben nur den einen Anschluss an den Vorgänger der Reihe
     var paar = (o.anschluesse && vorige) ? o.anschluesse[vorige] : null;
     if(!paar && vorige === o.anschluss_von) paar = o.anschluss;
+    if(!paar && vorige && G && fahrt.raum === 'alle'){ var vo = ortVon(vorige);
+      if(vo && vo.grund && o.grund && vo.grund.ags !== o.grund.ags && kmLuft(vo, o) <= 30) paar = anschlussRechnen(vo.grund, o.grund); }
     var an = (ersteHier && vorige && vorige !== o.slug && paar && paar.length) ? paar[0] : '';
     $('a-anschluss').hidden = !an; $('a-anschluss-text').textContent = an;
     fahrt.log.push({ ort: o.slug, name: o.name, karte: k.id, familie: k.familie, sorte: k.sorte, status: status, antwort: antwort,
@@ -750,7 +896,8 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   document.addEventListener('visibilitychange', function(){ try{ if(!document.hidden && navigator.wakeLock) navigator.wakeLock.request('screen').catch(function(){}); }catch(e){} });
 
   // Für Tests von außen (Konsole): Zustand lesen
-  window.QA_PROTO = { fahrt: function(){ return fahrt; }, fenster: FENSTER };
+  window.QA_PROTO = { fahrt: function(){ return fahrt; }, fenster: FENSTER,
+                     grund: function(ags){ return G && GREC[ags] ? grundKarten(gRec(GREC[ags])) : null; } };
 
   startZeichnen(); show('s-start');
 })();
