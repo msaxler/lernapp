@@ -1,0 +1,799 @@
+ID: 61-nierstein/001
+ENTITÄT: ort
+BEZEICHNUNG: Nierstein
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung: 742
+  erste_erwahnung_grund: Schenkung der Marienkirche (Kilianskirche) an das Bistum Würzburg
+  romische_etappenstation: Buconica
+  romische_etappenstation_genauigkeit: "ca."
+  romische_etappenstation_unsicherheit: Genaue Position zwischen Nierstein, Oppenheim und Dienheim ungeklärt
+  frankische_siedlung_name: Narinstaine
+  civitas_erwaehnung: 1196
+  civitas_erwaehnung_kontext: Kaiser Heinrich VI. in Vereinbarung mit Kuno von Münzenberg
+  stadt_verleihung_beschluss: 7. Juni 2013
+  stadt_verleihung_zeitversatz: 817 Jahre nach urkundlicher Ersterwähnung als civitas
+  partnergemeinde_1: Gevrey-Chambertin
+  partnergemeinde_1_seit: 1963
+  partnergemeinde_1_grund: Rheinland-pfälzisch/burgundische Partnerschaft
+  partnergemeinde_2: Freyburg an der Unstrut
+  partnergemeinde_2_seit: 1990
+GUELTIG_AB: 742
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/002
+ENTITÄT: kirchengebaeude
+BEZEICHNUNG: Marienkirche (Kilianskirche)
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung: 742
+  erste_erwahnung_bezug: Schenkung durch Karlmann an Bistum Würzburg
+  weihe: St. Kilian
+  zugehoerigkeit: "Bergkirche"
+  urkundliche_bestaetigung: 822
+  bestaetigung_durch: Ludwig der Fromme (Kaiser, Sohn Karls des Großen)
+GUELTIG_AB: 742
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/003
+ENTITÄT: kirchengebaeude
+BEZEICHNUNG: Martinskirche
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1000
+  bauzeit_genauigkeit: "ca."
+  lage: Fronhof
+  baukontext: Im Inneren des karolingischen Salhofes
+  vorsicht_hinweis: Der Salhof diente zuvor als Königshof, anschließend fungierte der heutige Kurfürstenhof als Königshof
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 61-nierstein/004
+ENTITÄT: kirchengebaeude
+BEZEICHNUNG: Peterskapelle
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung: 880
+  lage: Fronhof (wo das Rittergericht tagte)
+GUELTIG_AB: 880
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 61-nierstein/005
+ENTITÄT: roemische_badanlage
+BEZEICHNUNG: Sironabad
+QUELLE: https://www.nierstein.de/niersteiner-paläontologisches-museum-e-v | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Römische Badehalle
+  quellen_gesamtanzahl: 4
+  quellen_schwefel: 2
+  quellen_suesswasser: 2
+  nutzung_kelten: ja
+  nutzung_romer: ja
+  nutzung_fruehgermanen: ja
+  zeitraum_betrieb: 1.-5. Jahrhundert n.Chr.
+  fundbestaettigung: Kupferne Münzen in Steinbecken, datiert 87-267 n.Chr.
+  denkmalschutz_seit: 1937
+  wiedererkennung_schwefelquelle: 1802
+  votivstein_vorhanden: ja
+  votivstein_gottheiten: Apollo und Sirona
+  votivstein_dedikant: Julia Frontina
+  votivstein_anlass: Nach Heilung durch den Gebrauch des Wassers
+  wasserqualitaet_untersuchung: 1991
+  wasserqualitaet: Mikrobiologisch einwandfrei (Trinkwasser)
+GUELTIG_AB: 1
+GUELTIG_BIS: 5
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/006
+ENTITÄT: roemische_kultstelle
+BEZEICHNUNG: Merkurtempel "Auf der Glöck"
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Tempel
+  lage: Glöck
+  zeitraum: 1.-5. Jahrhundert n.Chr.
+GUELTIG_AB: 1
+GUELTIG_BIS: 5
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 61-nierstein/007
+ENTITÄT: weinbergslage
+BEZEICHNUNG: Glöck
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_kategorie: Roter Hang
+  erste_schriftliche_erwahnung_als_bergwingert: 1406
+  superlativ: älteste Weinbergslage Deutschlands
+  superlativ_genauigkeit: "vermutlich"
+  namensherkunft: Der Name "Glöck" selbst ist nicht in der 742er Schenkungsurkunde aufgeführt; die Kirche ist aber Grund der Annahme, dass Glöck seit 742 zur Kirche gehört
+GUELTIG_AB: 1406
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 61-nierstein/008
+ENTITÄT: roemischer_vicus
+BEZEICHNUNG: Vicus der Niersteiner Talbucht
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausdehnung: Vom Merkurtempel "Auf der Glöck" bis zum Quellheiligtum der Sirona
+  besonderheit: Ausgedehnter Vicus mit großem Friedhof
+  zeitraum: Römische Zeit
+GUELTIG_AB: 1
+GUELTIG_BIS: 5
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 61-nierstein/009
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schwabsburg
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueherer_status: Selbstständige Gemeinde
+  eingemeindung_datum: 1. Juli 1970
+  eingemeindung_in: Nierstein
+  burg_erwaehnung: Schwabsburg 1214 gebaut
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/010
+ENTITÄT: verwaltungsgebaeude
+BEZEICHNUNG: Bürgerhaus Schwabsburg
+QUELLE: https://www.nierstein.de/verwaltung-schwabsburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Laidlebstr. 20, 55283 Schwabsburg
+  funktion: Sitz des Ortsvorstzehers
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 61-nierstein/011
+ENTITÄT: schule
+BEZEICHNUNG: Carl-Zuckmayer-Realschule
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung_datum: 23. Januar 1971
+  schultyp: Realschule
+  besonderheit: Erste weiterführende Schule in Nierstein
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 61-nierstein/012
+ENTITÄT: museum
+BEZEICHNUNG: Paläontologisches Museum (Fossilien-Museum – Sammlung Stapf)
+QUELLE: https://www.nierstein.de/newpageb5acc9aa | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: Weltweit bekannt
+  sammlung: Fossilien (Sammlung Stapf)
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 61-nierstein/013
+ENTITÄT: person
+BEZEICHNUNG: Karlmann
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Fränkischer Hausmeier
+  verwandtschaft: Sohn von Karl Martell
+  aktion: Schenkung der Marienkirche (Basilika im Dorf Nierstein) an das Bistum Würzburg
+  aktion_jahr: 742
+GUELTIG_AB: 742
+GUELTIG_BIS: 742
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/014
+ENTITÄT: person
+BEZEICHNUNG: Ludwig der Fromme
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Kaiser
+  verwandtschaft: Sohn Karls des Großen
+  aktion: Bestätigung der Schenkung Karlmanns von 742
+  aktion_jahr: 822
+GUELTIG_AB: 822
+GUELTIG_BIS: 822
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/015
+ENTITÄT: person
+BEZEICHNUNG: Otto I.
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: König/Kaiser
+  aktion: Urkundete in Nierstein
+  zeitraum_aktion: 10./11. Jahrhundert
+GUELTIG_AB: 936
+GUELTIG_BIS: 973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 61-nierstein/016
+ENTITÄT: person
+BEZEICHNUNG: Otto II.
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: König/Kaiser
+  aktion: Urkundete in Nierstein
+  aktion_jahr: 972
+GUELTIG_AB: 973
+GUELTIG_BIS: 983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 61-nierstein/017
+ENTITÄT: person
+BEZEICHNUNG: Heinrich II.
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: König/Kaiser
+  aktion: Urkundete in Nierstein
+  aktion_jahr: 1012
+GUELTIG_AB: 1002
+GUELTIG_BIS: 1024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 61-nierstein/018
+ENTITÄT: person
+BEZEICHNUNG: Konrad II.
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: König/Kaiser
+  aktion: Urkundete in Nierstein
+  aktion_jahr: 1038
+GUELTIG_AB: 1024
+GUELTIG_BIS: 1039
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 61-nierstein/019
+ENTITÄT: person
+BEZEICHNUNG: Heinrich VI.
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Kaiser
+  aktion: Bezeichnete Nierstein erstmals urkundlich als "civitas" (Stadt)
+  aktion_jahr: 1196
+  aktion_kontext: Vereinbarung mit Kuno von Münzenberg über die Vogtei
+GUELTIG_AB: 1191
+GUELTIG_BIS: 1197
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/020
+ENTITÄT: person
+BEZEICHNUNG: Kuno von Münzenberg
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Vogt
+  aktion: Trug die Niersteiner Vogtei (Reichslehen)
+  zeitraum: Ende des 12. Jahrhunderts
+GUELTIG_AB: 1196
+GUELTIG_BIS: 1215
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 61-nierstein/021
+ENTITÄT: person
+BEZEICHNUNG: Richard von Cornwall
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: König
+  aktion: Gewährte dem Rittergericht das Privileg der Selbstschätzung
+  aktion_jahr: 1268
+  aktion_zielgruppe: 14 Schöffen Niersteins
+  aktion_inhalt: Recht, die Höhe der kaiserlichen Steuer selbst festzulegen
+GUELTIG_AB: 1257
+GUELTIG_BIS: 1272
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 61-nierstein/022
+ENTITÄT: person
+BEZEICHNUNG: Karl IV.
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Kaiser
+  aktion: Verpfändete Nierstein (mit Schwabsburg und Dexheim) an Kurpfalz
+  aktion_datum: 12. Februar 1375
+  aktion_zielempfaenger: Kurpfalz
+GUELTIG_AB: 1355
+GUELTIG_BIS: 1378
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/023
+ENTITÄT: person
+BEZEICHNUNG: Willigis
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nierstein.html | Landesportal
+EIGENSCHAFTEN:
+  titel: Mainzer Erzbischof
+  lebensspanne: ca. 940–1011
+  aktion: Übertragung eines Hofes in Nierstein
+  aktion_jahr: 994
+GUELTIG_AB: 940
+GUELTIG_BIS: 1011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 61-nierstein/024
+ENTITÄT: person
+BEZEICHNUNG: Peter von Aspelt
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nierstein.html | Landesportal
+EIGENSCHAFTEN:
+  titel: Mainzer Erzbischof
+  lebensspanne: 1245–1320
+  aktion: Nierstein wurde ihm verpfändet
+  aktion_zeitraum: 1315–1354
+GUELTIG_AB: 1315
+GUELTIG_BIS: 1354
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 61-nierstein/025
+ENTITÄT: person
+BEZEICHNUNG: Ruprecht der Ältere
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nierstein.html | Landesportal
+EIGENSCHAFTEN:
+  titel: Pfalzgraf
+  lebensspanne: 1309–1390
+  aktion: Erhielt Nierstein (und weitere Teile des Reichsgutes) als Pfand von Kaiser Karl IV.
+  aktion_jahr: 1375
+  aktion_grund: Um sich dessen Kurstimme für die Wahl seines Sohnes Wenzel zu sichern
+GUELTIG_AB: 1375
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 61-nierstein/026
+ENTITÄT: person
+BEZEICHNUNG: Philipp Wilhelm Wernher
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Niersteiner Weingutsbesitzer
+  aktion: Abgeordneter der Frankfurter Nationalversammlung (Paulskirche)
+  aktion_jahr: 1848
+  aktion_kontext: Ausarbeitung der ersten Verfassung Deutschlands
+GUELTIG_AB: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 61-nierstein/027
+ENTITÄT: person
+BEZEICHNUNG: Julia Frontina
+QUELLE: https://www.nierstein.de/niersteiner-paläontologisches-museum-e-v | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Hier ansässige Römerin
+  aktion: Errichtung eines Votivsteins für Apollo und Sirona
+  aktion_anlass: Nach Heilung durch den Gebrauch des Sironabad-Wassers
+  inschrift_latein: "Deo apollini et sironae iulia frontina v.s.l.l.m."
+  inschrift_deutsch: "Dem Gotte Apollo und der Sirona erfüllte Julia Frontina ihr Gelübde freudig und nach Gebühr"
+GUELTIG_AB: 100
+GUELTIG_BIS: 300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 61-nierstein/028
+ENTITÄT: person
+BEZEICHNUNG: August Lucas
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Maler
+  werk: Gemälde "Blick auf Nierstein um 1850"
+  werk_datum: ca. 1850
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 61-nierstein/029
+ENTITÄT: person
+BEZEICHNUNG: Dr. Joachim Allmann
+QUELLE: https://www.nierstein.de/verwaltung-schwabsburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Ortsvorsteher Schwabsburg
+  email: ortsvorsteher@nierstein.de
+  telefon: "0170 5762417"
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/030
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Dreißigjähriger Krieg
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1618–1648
+  auswirkung: Krieg, Hunger und Seuchen kosteten viele Menschen das Leben; zahlreiche historische Gebäude wurden zerstört
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/031
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Pfälzischer Erbfolgekrieg
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1688–1697
+  auswirkung: Ein Großteil der Gebäude wurde zerstört
+GUELTIG_AB: 1688
+GUELTIG_BIS: 1697
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/032
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Französische Revolution
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1789
+  auswirkung: Frankreich kontrollierte den gesamten linksrheinischen Raum; Nierstein stand unter französischer Herrschaft
+GUELTIG_AB: 1789
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 61-nierstein/033
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Novemberpogrome
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1938
+  auswirkung: Jüdische Mitbürger misshandelt, Häuser und Wohnungen verwüstet
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 61-nierstein/034
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Kriegsende und Ermordungen in Nierstein
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 21. März 1945
+  ort: Kornsand (rechtsrheinisch, Rheinufer gegenüber Nierstein)
+  beschreibung: Ermordung von fünf politischen Gegnern aus Nierstein und einem Oppenheimer durch Nazi-Schergen
+  zeitkontext: Kurz vor dem Eintreffen der Amerikaner in Nierstein
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/035
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: "Silent Crossing" – Rheinübergang der Amerikaner
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 22./23. März 1945
+  lage: Höhe der B420
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 61-nierstein/036
+ENTITÄT: vertrag_urkunde
+BEZEICHNUNG: Schenkung der Marienkirche an das Bistum Würzburg
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkunde_original_jahr: 742
+  urkunde_original_status: Nicht erhalten
+  urkunde_bestaetigung_jahr: 822
+  schenker: Karlmann (fränkischer Hausmeier, Sohn von Karl Martell)
+  bestaetiger: Ludwig der Fromme (Kaiser, Sohn Karls des Großen)
+  objekt: "basilicam in villa Naristagne in honore sanctae Mariae" – die Basilika im Dorf Nierstein zur Ehre der heiligen Maria
+  kirche_weihe: St. Kilian
+GUELTIG_AB: 742
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/037
+ENTITÄT: vertrag_urkunde
+BEZEICHNUNG: Privileg der Selbstschätzung des Rittergerichts
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_verleihung: 1268
+  verleihung_durch: König Richard von Cornwall
+  empfaenger: 14 Schöffen Niersteins
+  inhalt: Recht, die Höhe der kaiserlichen Steuer (kaiserliche Schatzung) selbst festzulegen
+  bestaetigung: Privileg wurde immer wieder ausdrücklich bestätigt
+GUELTIG_AB: 1268
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 61-nierstein/038
+ENTITÄT: friede_vertrag
+BEZEICHNUNG: Frieden von Lunéville
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1801
+  auswirkung: Nierstein verlor seine rechtsrheinischen Gebiete (Kornsand mit Wiesen- und Ackerflächen sowie den natürlichen Hafen Goldgrund) an die Landgrafschaft Hessen-Darmstadt, das spätere Großherzogtum Hessen
+GUELTIG_AB: 1801
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/039
+ENTITÄT: friede_vertrag
+BEZEICHNUNG: Wiener Kongress
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1816
+  beschreibung: Ordnete das Land im Dreieck der Städte Mainz, Worms und Bingen (Rheinhessen) dem Großherzogtum Hessen zu
+GUELTIG_AB: 1816
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/040
+ENTITÄT: friede_vertrag
+BEZEICHNUNG: Frieden von Campo Formio
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nierstein.html | Landesportal
+EIGENSCHAFTEN:
+  jahr: 1797
+  auswirkung: Kurpfälzische Herrschaft über Nierstein endete de jure; linksrheinische Gebiete fielen an Frankreich
+GUELTIG_AB: 1797
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/041
+ENTITÄT: burg
+BEZEICHNUNG: Schwabsburg
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1214
+  baubeginn_genauigkeit: "ab"
+GUELTIG_AB: 1214
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 61-nierstein/042
+ENTITÄT: verwaltung
+BEZEICHNUNG: Rittergericht Nierstein
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Selbstverwaltungsorgan des freien Reichsdorfes
+  lage: Fronhof vor der Peterskapelle
+  vorsitz: Schultheiß
+  schoeffenanzahl: 14
+  befugnisse: Weitreichende Befugnisse
+  privileg_selbstschaetzung: 1268
+  konflikt_16_jh: Ende des 16. Jahrhunderts Konflikt mit dem Pfalzgrafen um Unabhängigkeit
+  kompromiss_1578: Schöffen übten ihr Regiment "im Namen und von wegen" des Kurfürsten aus; Schultheiß als oberster Vertreter des Pfalzgrafen vor Ort
+  bewaehrung_freiheiten: Bis zum Ende des Alten Reiches konnten die Niersteiner ihre "alten Freiheiten" bewahren
+GUELTIG_AB: 1268
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 61-nierstein/043
+ENTITÄT: gericht
+BEZEICHNUNG: Niersteiner Sendgericht
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitalter: Mittelalter
+  funktion: Ahndete alle Vergehen in Fragen des Glaubens und der Moral
+  zusatzfunktion: Entschied auch in güterrechtlichen Auseinandersetzungen bei geistlichen Besitzungen
+  oberhof: "Niersteiner Oberhof" genoss hohes Ansehen
+  oberhof_funktion: Galt als Orientierungs- und Entscheidungsinstanz für umliegende Orte und deren Sendgerichte
+  gerichtsherren_urspruenglich: Erzbischof von Mainz
+  gerichtsherren_spaeter: Stiftspropst von St. Viktor zu Mainz
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 61-nierstein/044
+ENTITÄT: siedlung_ortsteil
+BEZEICHNUNG: Dekanat Nierstein
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: Mittelalter, im 12. Jahrhundert
+  besonderheit: Nierstein war Sitz eines Dekanats; Mittelpunkt kirchlicher Organisation mit seinen zwei Pfarrkirchen
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 61-nierstein/045
+ENTITÄT: handelsroute
+BEZEICHNUNG: Rheintalstraße
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Von den Römern fest ausgebaute Rheintalstraße
+  bedeutung_fuer_nierstein: Nierstein verdankte seine herausragende Bedeutung seiner strategisch wichtigen Lage an dieser Straße
+  zusatz: Alter Rheinübergang
+GUELTIG_AB: 1
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 61-nierstein/046
+ENTITÄT: herrschaftsgebiet
+BEZEICHNUNG: Rheinhessen
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  offizielle_bezeichnung_seit: 1816 (Wiener Kongress)
+  zuordnung_1816: Großherzogtum Hessen
+  zuordnung_1916_1945: Volksstaat Hessen
+  zuordnung_seit_1947: Land Rheinland-Pfalz
+GUELTIG_AB: 1816
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/047
+ENTITÄT: land
+BEZEICHNUNG: Rheinland-Pfalz
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nierstein_zugehoerigkeit: Seit 1947
+  verwaltungsreform_1968: Die Verwaltungsreform erfolgte 1968 in Rheinland-Pfalz
+GUELTIG_AB: 1947
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/048
+ENTITÄT: verband
+BEZEICHNUNG: Verbandsgemeinde Nierstein-Oppenheim
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1972 (ab dieser Zeit)
+  nachfolge: Am 1. Juli 2014 Zusammenlegung mit Verbandsgemeinde Guntersblum zur neuen Verbandsgemeinde Rhein-Selz
+GUELTIG_AB: 1972
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/049
+ENTITÄT: verband
+BEZEICHNUNG: Verbandsgemeinde Rhein-Selz
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1. Juli 2014
+  vorgaenger_1: Verbandsgemeinde Nierstein-Oppenheim
+  vorgaenger_2: Verbandsgemeinde Guntersblum
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 61-nierstein/050
+ENTITÄT: roemische_siedlung
+BEZEICHNUNG: Fundstellen römischer Ansiedlung auf Niersteiner Gemarkung
+QUELLE: https://www.nierstein.de/niersteiner-paläontologisches-museum-e-v | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: Über 20
+  zeitraum: 1. bis 5. Jahrhundert n.Chr.
+GUELTIG_AB: 1
+GUELTIG_BIS: 500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 61-nierstein/051
+ENTITÄT: besatzung
+BEZEICHNUNG: Besatzung Rheinhessens nach dem Ersten Weltkrieg
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nierstein.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum: 1919–1930
+  besatzungsmacht: Frankreich
+  auswirkung: Aus dem Großherzogtum wurde ein Volksstaat; aus dem Kaiserreich eine Republik
+GUELTIG_AB: 1919
+GUELTIG_BIS: 1930
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 61-nierstein/052
+ENTITÄT: bevoelkerungsgruppe
+BEZEICHNUNG: NSDAP-Anhänger in Nierstein
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nierstein.html | Landesportal
+EIGENSCHAFTEN:
+  wahlresultat_1930: 42 Prozent
+  status: Hochburg der NSDAP in Rheinhessen
+  schon_1933_ueber_50_prozent: ja
+  zeitraum_gewalttaten: 1930–1933 (vor der "Machtergreifung" am 30. Januar 1933)
+  auswirkung_nach_1933: Niersteiner Sozialdemokraten in Konzentrationslagern inhaftiert; Gemeinderat und Vereine gleichgeschaltet
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 61-nierstein/053
+ENTITÄT: religioese_gemeinde
+BEZEICHNUNG: Jüdische Gemeinde Nierstein
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nierstein.html | Landesportal
+EIGENSCHAFTEN:
+  anzahl_1928: Ca. 80 Personen
+  opfer_holocaust: Mindestens 32 ermordet
+  suizide: 3 wählten den Freitod
+GUELTIG_AB: 1928
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 61-nierstein/054
+ENTITÄT: roemische_etappenstation
+BEZEICHNUNG: Buconica (Bonconica)
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nierstein.html | Landesportal
+EIGENSCHAFTEN:
+  reference: Tabula Peutingeriana (römische Straßenverzeichnisse)
+  eigenschaft: Einzige Etappenstation zwischen Mainz und Worms
+  lage_unsicherheit: Genaue Position umstritten (Nierstein, Oppenheim oder Dienheim)
+  zeitraum: 1. Jahrhundert n.Chr.
+GUELTIG_AB: 1
+GUELTIG_BIS: 300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 61-nierstein/055
+ENTITÄT: invasion
+BEZEICHNUNG: Einfälle der Alamannen
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nierstein.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum: 3. Jahrhundert
+  auswirkung: Trafen die spätere Nierstein schwer
+  folge: Bis zum Ende der römischen Herrschaft am Rhein 200 Jahre später sind kaum noch Besiedlungsspuren festzustellen
+GUELTIG_AB: 200
+GUELTIG_BIS: 300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 61-nierstein/056
+ENTITÄT: jungsteinzeitliche_siedlung
+BEZEICHNUNG: Erste Siedlung in Nierstein
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nierstein.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum_beginn: Mitte 6. Jahrtausend v.Chr.
+  zeitraum_dauer_bis: Ausgehendes 4. Jahrtausend v.Chr.
+  zeitraum_spätere_funde: Zweite Hälfte des 3. Jahrtausends (wieder Funde, durchgehend bis Eisenzeit)
+GUELTIG_AB: -6000
+GUELTIG_BIS: -4000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 61-nierstein/057
+ENTITÄT: eisenzeit_siedlung
+BEZEICHNUNG: Eisenzeitliche Funde in Nierstein
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nierstein.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum: Ca. 700–Ende 1. Jahrhundert v.Chr.
+  durchgehend_ab: Zweite Hälfte des 3. Jahrtausends bis zur Eisenzeit
+GUELTIG_AB: -700
+GUELTIG_BIS: -100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 61-nierstein/058
+ENTITÄT: kelten_funde
+BEZEICHNUNG: Keltische Funde in Nierstein
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nierstein.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum: Ca. 450 v.Chr. – 1. Jahrhundert v.Chr.
+  fundtyp: Grabfunde
+GUELTIG_AB: -450
+GUELTIG_BIS: -100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 61-nierstein/059
+ENTITÄT: adelshof
+BEZEICHNUNG: Adelshöfe rund um den Königshof
+QUELLE: https://www.nierstein.de/chronik-von-nierstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: Etwa zwei Dutzend
+  zeitraum: Mittelalterliche Epoche
+  besitzer: Ministeriale des Königs
+  einfluss: Bestimmten das Geschehen im Dorf, die Verwaltung und das Gericht
+  straßenbild_einfluss: Prägen bis heute das Straßenbild im alten Ortskern
+  bedeutende_beispiele: Metternichhof und Haxthäuser Hof
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 61-nierstein/060
+ENTITÄT: transportanlage
+BEZEICHNUNG: Ludwigsbahn
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nierstein.html | Landesportal
+EIGENSCHAFTEN:
+  strecke: Verbindet Mainz und Worms
+  durchquerung: Führt durch Nierstein
+  bauzeit: Mitte des 19. Jahrhunderts
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

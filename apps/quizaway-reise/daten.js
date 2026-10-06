@@ -10898,6 +10898,189 @@ window.QA_DATEN = {
 "km_vom_vorigen": 13.5
 },
 {
+"slug": "64-ruesselsheim",
+"name": "Rüsselsheim",
+"lat": 49.995,
+"lon": 8.41194,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Frage neu: „Adam Opel gründete 1862 in Rüsselsheim eine Nähmaschinen-Manufaktur. Wo richtete er seine erste eigene Fertigungsstätte ein?“ Die Optionen 1–4 bleiben. RÜCKSEITE: „Du hattest [Option] getippt. Eine Mühle am Fluss läge für eine Werkstatt nahe, denn Wasser trieb früher Maschinen an. Doch Adam Opel, der zuvor bei einem großen Pariser Nähmaschinenhersteller gearbeitet hatte, begann ganz klein: in einem leeren Kuhstall seines Onkels. Daraus wurde später der Autohersteller Opel. Richtig war 4.“ Quelle: Opel/Stellantis, opelpost.com",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Mühle am Fluss läge für eine Werkstatt nahe, denn Wasser trieb früher Maschinen an. Doch Adam Opel, einst Schlosserlehrling und bei einem Pariser Nähmaschinenhersteller ausgebildet, begann ganz klein: im Stall seines Onkels. Aus der Nähmaschinen-Manufaktur wurde später der Autohersteller Opel. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüsselsheim_am_Main",
+"faktencheck": "korrigiert",
+"id": "64-ruesselsheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rüsselsheim",
+"steckbrief": "Stadt im Kreis Groß-Gerau, 10 km östlich von Mainz, gut 58 km² groß.",
+"frage": "Wie viele Einwohner hat Rüsselsheim?",
+"optionen": [
+"unter 70.000",
+"70.000 bis unter 85.000",
+"85.000 bis unter 100.000",
+"100.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an Opel denkt, schätzt Rüsselsheim leicht größer. Doch die Stadt zählte Ende 2025 genau 66.028 Einwohner. Mainz nebenan ist eine Großstadt, Rüsselsheim nicht. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "64-ruesselsheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Rüsselsheim",
+"steckbrief": "Stadt mit rund 66.000 Einwohnern, 10 km östlich von Mainz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die einstige Zichorienfabrik der Stadt stellte Rübenzucker her.",
+"Adam Opels Söhne waren allesamt erfolgreiche Radsportler.",
+"Opel baute schon Fahrräder, bevor es Autos baute."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Fabrik und Wurzel – da denkt man schnell an Zuckerrüben. Doch die Zichorienfabrik machte aus der Zichorienwurzel Kaffee-Ersatz. Die Söhne Adam Opels waren tatsächlich allesamt erfolgreiche Radsportler, und Opel baute schon Fahrräder, bevor es Autos baute. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüsselsheim_am_Main",
+"faktencheck": "bestätigt",
+"id": "64-ruesselsheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Rüsselsheim",
+"steckbrief": "Stadt mit rund 66.000 Einwohnern, 10 km östlich von Mainz, Gründungsort von Opel.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Rüsselsheim nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"AfD",
+"SPD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. In einer Stadt, die mit dem Autobau groß wurde, erwartet man die SPD vorn. Doch die CDU lag mit 24,7 Prozent vorn; die SPD wurde mit 19,8 Prozent Zweite, vor der AfD mit 16,5 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "64-ruesselsheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rüsselsheim",
+"steckbrief": "Stadt mit rund 66.000 Einwohnern, 10 km östlich von Mainz.",
+"frage": "Westlich von Rüsselsheim lag einst der Ort Seilfurt mit eigener Kirche. Warum verschwand er?",
+"optionen": [
+"Ein Mainhochwasser spülte den Ort fort.",
+"Die Pest ließ den Ort aussterben.",
+"Soldaten brannten den Ort im Krieg nieder.",
+"Ein Blitzschlag zerstörte den Ort."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In einer Stadt am Main denkt man zuerst an Hochwasser. Doch Seilfurt zerstörte ein Blitzschlag. Seine Einwohner schlossen sich Rüsselsheim an. Die zwei Sterne im Stadtwappen stehen vermutlich für beide Orte und ihren Zusammenschluss. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüsselsheim_am_Main",
+"faktencheck": "unsicher",
+"id": "64-ruesselsheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Rüsselsheim",
+"steckbrief": "Stadt mit rund 66.000 Einwohnern, 10 km östlich von Mainz.",
+"frage": "Rüsselsheim hat eine Partnerstadt im Vereinigten Königreich. Welche?",
+"optionen": [
+"Rugby",
+"Watford",
+"Birmingham",
+"Chesterfield"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Birmingham kennt man als große Industriestadt, das klingt naheliegend. Doch Rüsselsheims britischer Partner ist Rugby, die Stadt, nach der ein Ballspiel heißt. Weitere Partnerstädte sind Varkaus, Kecskemét und Évreux. Richtig war 1.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "64-ruesselsheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rüsselsheim",
+"steckbrief": "Stadt mit rund 66.000 Einwohnern, 10 km östlich von Mainz.",
+"frage": "Eine Rüsselsheimer Kellereirechnung von 1435 ist für Weinfreunde bedeutsam. Was macht sie besonders?",
+"optionen": [
+"Sie ist der älteste bekannte Silvaner-Nachweis.",
+"Sie ist der älteste bekannte Riesling-Nachweis.",
+"Sie ist der älteste bekannte Trollinger-Nachweis.",
+"Sie ist der älteste bekannte Spätburgunder-Nachweis."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "„Du hattest [Option] getippt. Silvaner liegt als alte, weit verbreitete Sorte nahe, und an Wein denkt bei Rüsselsheim kaum jemand. Doch die Kellereirechnung nennt den Riesling: der älteste bekannte Nachweis dieser Rebsorte. Seit 1980 erinnert ein kleiner Weinberg auf städtischem Grund daran. Richtig war 2.“",
+"quelle": "Stadt Rüsselsheim am Main, main-ruesselsheim.de",
+"faktencheck": "korrigiert",
+"id": "64-ruesselsheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Frage neu: „Philipp der Großmütige ließ die Burg am Main zur Festung ausbauen. Warum wurde sie 1547 geschleift, also ihre Befestigung abgetragen?“ Die Optionen 1–4 bleiben. RÜCKSEITE: „Du hattest [Option] getippt. Bei einer Burg am Main liegt ein unterspülter Bau nahe. Doch Philipp hatte die Festung für den Schmalkaldischen Krieg aufgerüstet. Nach seiner Niederlage musste er sie dem Kaiser übergeben, und Karl V. ordnete an, sie zu schleifen. 1560 bis 1563 wurde sie wiederhergestellt. Richtig war 3.“",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Burg am Main liegt ein unterspülter Bau nahe. Doch Philipp hatte die Festung für den Schmalkaldischen Krieg aufgerüstet. Nach der Niederlage ordnete Kaiser Karl V. an, sie zu schleifen, also planmäßig abzutragen. Später wurde sie wiederhergestellt. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Rüsselsheim_am_Main",
+"faktencheck": "korrigiert",
+"id": "64-ruesselsheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rüsselsheim",
+"steckbrief": "Stadt mit rund 66.000 Einwohnern, 10 km östlich von Mainz.",
+"frage": "Der Rüsselsheimer Ruder-Klub 08 begann als Ruderverein mit Bootshaus am Main. Wofür ist er heute vor allem bekannt?",
+"optionen": [
+"Er ist heute vor allem für Hockey bekannt.",
+"Er ist heute vor allem für Kanupolo bekannt.",
+"Er ist heute vor allem für Drachenboote bekannt.",
+"Er ist heute vor allem für Wasserski bekannt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "„Du hattest [Option] getippt. Ein Ruderklub mit Bootshaus am Main – da liegt ein anderer Wassersport nahe. Doch der RRK ist heute vor allem für Hockey bekannt. Er holte 24 deutsche Meistertitel im Hockey, seine Damen zudem 16 Europapokale in Halle und Feld. Richtig war 1.“",
+"quelle": "Rüsselsheimer Ruder-Klub 08, rrk-online.de",
+"faktencheck": "korrigiert",
+"id": "64-ruesselsheim/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "44-frankfurt",
+"anschluss": [
+"Für Rüsselsheims erste Pfarrkirche erbat man Holz aus Frankfurt.",
+"Kennzeichen: In Frankfurt steht F am Auto, in Rüsselsheim GG."
+],
+"km_vom_vorigen": 23.2
+},
+{
 "slug": "45-mainz",
 "name": "Mainz",
 "lat": 49.99944,
@@ -11083,12 +11266,9 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "44-frankfurt",
-"anschluss": [
-"Einwohner: Frankfurt zählt über dreimal so viele wie Mainz.",
-"Bundestagswahl 2025: In Mainz siegten Grüne, in Frankfurt CDU."
-],
-"km_vom_vorigen": 31.7
+"anschluss_von": "64-ruesselsheim",
+"anschluss": [],
+"km_vom_vorigen": 9.9
 },
 {
 "slug": "46-wiesbaden",
@@ -14486,6 +14666,179 @@ window.QA_DATEN = {
 "km_vom_vorigen": 16.5
 },
 {
+"slug": "59-rhens",
+"name": "Rhens",
+"lat": 50.28056,
+"lon": 7.61806,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rhens",
+"steckbrief": "Rhens hat rund 2.900 Einwohner und liegt 9 km südlich von Koblenz.",
+"frage": "Woher stammt nach der Ortsgeschichte der Name Rhens?",
+"optionen": [
+"Er ist mit dem Namen des Flusses verwandt.",
+"Er geht auf einen fränkischen Gründer zurück.",
+"Er bezeichnete einen Rastplatz von Kaufleuten.",
+"Er beschreibt einen Feldrain am Hang."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Name Rhens hat dieselbe Wurzel wie der Rhein, lateinisch Rhenus. Viele tippen auf einen Gründer, weil zahlreiche Ortsnamen auf Personen zurückgehen. Hier aber steckt der Strom selbst im Namen. Richtig war 1.",
+"quelle": "Landesportal, www.regionalgeschichte.net/mittelrhein/rhens.html",
+"faktencheck": "bestätigt",
+"id": "59-rhens/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rhens",
+"steckbrief": "Rhens hat rund 2.900 Einwohner und liegt 9 km südlich von Koblenz.",
+"frage": "Wie viele Einwohner leben in Rhens durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 250",
+"250 bis unter 500",
+"500 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In Rhens leben rund 180 Menschen je Quadratkilometer. Wer die Nähe zu Koblenz sieht, schätzt leicht höher. Doch die rund 2.900 Einwohner verteilen sich auf gut 16 Quadratkilometer Stadtgebiet. Richtig war 2.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "59-rhens/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Rhens",
+"steckbrief": "Rhens hat rund 2.900 Einwohner und liegt 9 km südlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Von 1445 bis 1629 war Rhens verpfändet.",
+"Ab 1830 gehörte Rhens zu Bayern.",
+"Die Stadtmauer entstand von 1396 bis 1424."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Rhens gehörte damals zur preußischen Rheinprovinz, nicht zu Bayern. Die lange Bauzeit der Stadtmauer und die lange Verpfändung wirken verdächtiger, stimmen aber. Pfandherren waren die Grafen von Katzenelnbogen und die Landgrafen von Hessen-Darmstadt; danach rekatholisierte Kurköln die Stadt. Die Lüge war 2.",
+"quelle": "Landesportal, www.regionalgeschichte.net/mittelrhein/rhens.html",
+"faktencheck": "bestätigt",
+"id": "59-rhens/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rhens",
+"steckbrief": "Rhens hat rund 2.900 Einwohner und liegt 9 km südlich von Koblenz.",
+"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der Verbandsgemeinde Rhein-Mosel, zu der Rhens gehört?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 80 %",
+"80 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In der Verbandsgemeinde Rhein-Mosel gingen 86,9 Prozent der Wahlberechtigten wählen. Wer von Wahlmüdigkeit liest, tippt eher tiefer. Bei der Bundestagswahl 2025 gingen aber auffallend viele Menschen wählen. Stärkste Kraft wurde dort die CDU. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23; Angabe für die Verbandsgemeinde Rhein-Mosel",
+"faktencheck": "bestätigt",
+"id": "59-rhens/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rhens",
+"steckbrief": "Rhens hat rund 2.900 Einwohner und liegt 9 km südlich von Koblenz.",
+"frage": "Am 16. Juli 1338 schlossen Kurfürsten bei Rhens den Churverein zu Rhense. Was war ihr Kernbeschluss?",
+"optionen": [
+"Ihre Königswahl gilt auch ohne Papstbestätigung.",
+"Jede Königswahl braucht die Zustimmung des Papstes.",
+"Die Königswürde wird künftig vom Vater vererbt.",
+"Der König wird künftig in Rhens gekrönt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im Churverein zu Rhense hielten die Kurfürsten fest: Wen sie zum König wählen, der ist es auch ohne Bestätigung durch den Papst. Das Gegenteil liegt nahe, weil Päpste im Mittelalter genau dieses Recht beanspruchten. Allein die Wahl gab dem Gewählten die volle Königsmacht. Richtig war 1.",
+"quelle": "Landesportal, www.regionalgeschichte.net/mittelrhein/rhens.html",
+"faktencheck": "korrigiert",
+"id": "59-rhens/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Rhens",
+"steckbrief": "Rhens hat rund 2.900 Einwohner und liegt 9 km südlich von Koblenz.",
+"frage": "Zu welchem Landkreis gehört Rhens?",
+"optionen": [
+"Rhein-Hunsrück-Kreis",
+"Landkreis Mayen-Koblenz",
+"Rhein-Lahn-Kreis",
+"Westerwaldkreis"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Rhens gehört zum Landkreis Mayen-Koblenz, das Hauptkennzeichen ist MYK. Der Rhein-Hunsrück-Kreis liegt nahe, denn er beginnt rheinaufwärts nicht weit entfernt; am anderen Ufer liegt der Rhein-Lahn-Kreis. Koblenz selbst ist kreisfrei, gibt dem Landkreis aber einen Teil des Namens. Richtig war 2.",
+"quelle": "dewiki Infobox, Artikel Rhens",
+"faktencheck": "unsicher",
+"id": "59-rhens/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rhens",
+"steckbrief": "Rhens hat rund 2.900 Einwohner und liegt 9 km südlich von Koblenz.",
+"frage": "1376 ordnete Karl IV. den Bau eines steinernen Königsstuhls bei Rhens an. Was wurde den Rhenser Bürgern dabei zugesichert?",
+"optionen": [
+"Sie durften bei der Königswahl mitstimmen.",
+"Künftig sollte jeder König in Rhens gekrönt werden.",
+"Sie mussten künftig keinen Zoll bezahlen.",
+"Rhens wurde zur freien Reichsstadt erhoben."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Den Rhenser Bürgern wurde Zollfreiheit zugesichert; König Wenzel bestätigte die Vergünstigungen 1398. Am Rhein war Zollfreiheit bares Geld wert. Mitwählen durften nur die Kurfürsten, gekrönt wurde in Aachen, und Rhens blieb kurkölnisch. Errichtet werden sollte der Stuhl am Rhein bei den Nußbäumen. Richtig war 3. (WÖRTER RÜCKSEITE: 48)",
+"quelle": "Landesportal, www.regionalgeschichte.net/mittelrhein/rhens.html",
+"faktencheck": "korrigiert",
+"id": "59-rhens/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rhens",
+"steckbrief": "Rhens hat rund 2.900 Einwohner und liegt 9 km südlich von Koblenz.",
+"frage": "Der Königsstuhl oberhalb von Rhens an der B9 wurde 1842 wieder aufgebaut. Was war mit dem alten Bau geschehen?",
+"optionen": [
+"Ein Rheinhochwasser hatte ihn fortgerissen.",
+"Er war in Kriegszeiten zerstört worden.",
+"Ein Blitzschlag hatte ihn zum Einsturz gebracht.",
+"Ein Erdrutsch vom Hang hatte ihn verschüttet."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Laut Stadt Rhens wurde der alte Königsstuhl in den Napoleonischen Kriegen zerstört und später abgetragen. Ein Hochwasser liegt nahe, weil man am Rhein schnell an den Fluss denkt. Den Wiederaufbau übernahm der Architekt Johann Claudius von Lassaulx. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.rhens.de/freizeit-und-kultur/ausflugsziele/sehenswürdigkeiten",
+"faktencheck": "bestätigt",
+"id": "59-rhens/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "53-koblenz",
+"anschluss": [
+"Kennzeichen: In Koblenz steht KO am Auto, in Rhens MYK.",
+"Einwohner: Koblenz hat fast vierzigmal so viele wie Rhens."
+],
+"km_vom_vorigen": 8.9
+},
+{
 "slug": "48-boppard",
 "name": "Boppard",
 "lat": 50.23139,
@@ -14661,9 +15014,9 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "53-koblenz",
+"anschluss_von": "59-rhens",
 "anschluss": [],
-"km_vom_vorigen": 14.3
+"km_vom_vorigen": 5.8
 },
 {
 "slug": "49-st-goar",
@@ -15418,6 +15771,179 @@ window.QA_DATEN = {
 "km_vom_vorigen": 13.8
 },
 {
+"slug": "60-ingelheim",
+"name": "Ingelheim",
+"lat": 49.97472,
+"lon": 8.05639,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ingelheim",
+"steckbrief": "Ingelheim, eine Stadt mit rund 35.000 Einwohnern, liegt 16 km westlich von Mainz.",
+"frage": "Karl der Große hielt 788 in der Ingelheimer Kaiserpfalz eine Reichsversammlung ab. Wen ließ er dort entmachten und verurteilen?",
+"optionen": [
+"Karl entmachtete dort den Sachsenführer Widukind.",
+"Karl entmachtete dort den Langobardenkönig Desiderius.",
+"Karl entmachtete dort den Bayernherzog Tassilo III.",
+"Karl entmachtete dort seinen Bruder Karlmann."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Widukind liegt nahe, denn Karl der Große führte lange Krieg gegen die Sachsen. Auf der Reichsversammlung in der Ingelheimer Pfalz traf es aber den Bayernherzog Tassilo III.: Karl ließ ihn entmachten und verurteilen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ingelheim.de/leben-freizeit/kultur-und-tourismus/sehenswuerdigkeiten/",
+"faktencheck": "bestätigt",
+"id": "60-ingelheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ingelheim",
+"steckbrief": "Ingelheim ist eine Stadt im Landkreis Mainz-Bingen, 16 km westlich von Mainz.",
+"frage": "Wie viele Einwohner hatte Ingelheim Ende 2025?",
+"optionen": [
+"unter 20.000",
+"20.000 bis unter 26.000",
+"26.000 bis unter 32.000",
+"32.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Viele schätzen Ingelheim kleiner, denn neben Mainz wirkt es wie eine Kleinstadt. Ende 2025 zählte die Stadt aber 34.903 Einwohner; dazu gehören auch die Stadtteile Heidesheim und Wackernheim. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "60-ingelheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Ingelheim",
+"steckbrief": "Ingelheim, rund 35.000 Einwohner, liegt 16 km westlich von Mainz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Beim Bau eines Munitionsdepots stieß man auf Gräber.",
+"Die Saalkirche wurde ursprünglich als Klosterkirche gebaut.",
+"Kloster Eberbach ließ in Heidesheim einen Wirtschaftshof errichten."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Klosterkirche klingt glaubwürdig, zumal eine andere Aussage tatsächlich von einem Kloster erzählt. Die Saalkirche war aber ursprünglich die Kirche der Kaiserpfalz. Wahr sind die anderen: Kloster Eberbach ließ in Heidesheim den Sandhof errichten, und beim Anlegen eines Munitionsdepots stieß man auf Gräber mit einem Kupferdolch. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.ingelheim.de/leben-freizeit/kultur-und-tourismus/sehenswuerdigkeiten/",
+"faktencheck": "bestätigt",
+"id": "60-ingelheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ingelheim",
+"steckbrief": "Ingelheim, rund 35.000 Einwohner, liegt 16 km westlich von Mainz.",
+"frage": "Wie hoch war die Wahlbeteiligung in Ingelheim bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 80 %",
+"80 bis unter 87 %",
+"87 bis unter 92 %",
+"92 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele schätzen niedriger, weil Wahlbeteiligungen oft enttäuschen. Ingelheim lag aber hoch: 85,4 Prozent der Wahlberechtigten gaben ihre Stimme ab. Bei den Zweitstimmen siegte die CDU vor SPD und Grünen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "60-ingelheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ingelheim",
+"steckbrief": "Ingelheim, eine Stadt mit rund 35.000 Einwohnern, liegt 16 km westlich von Mainz.",
+"frage": "Am Nordrand von Großwinternheim, heute ein Stadtteil Ingelheims, entstand ein fast 10 m tiefer Graben. Wie kam es dazu?",
+"optionen": [
+"Man grub dort früher Lehm für Ziegel ab.",
+"Er wurde für eine Bahnstrecke ausgehoben.",
+"Er entstand als Folge verheerender Flutkatastrophen.",
+"Man hob ihn zur Bewässerung der Weinberge aus."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Lehmgrube liegt nahe, denn tiefe Gräben am Ortsrand entstehen oft beim Abbau. Der Graben geht aber auf Fluten zurück: Verheerende Flutkatastrophen verwüsteten Teile von Großwinternheim und ließen am nördlichen Ortsrand den Flutgraben entstehen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ingelheim.de/rathaus-politik/stadtteile/grosswinternheim/",
+"faktencheck": "korrigiert",
+"id": "60-ingelheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ingelheim",
+"steckbrief": "Ingelheim, eine Stadt mit rund 35.000 Einwohnern, liegt 16 km westlich von Mainz.",
+"frage": "Wie viele Einwohner leben in Ingelheim durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 300",
+"300 bis unter 450",
+"450 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt im Umland schätzt man oft dünner besiedelt. Ingelheim verteilt aber 34.903 Einwohner auf 73,31 Quadratkilometer, das ergibt 476 je Quadratkilometer. Richtig war 4.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "60-ingelheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ingelheim",
+"steckbrief": "Ingelheim, rund 35.000 Einwohner, liegt 16 km westlich von Mainz.",
+"frage": "Wackernheim, heute ein Stadtteil Ingelheims, schloss eine Partnerschaft mit Daix in Burgund. Was war daran besonders?",
+"optionen": [
+"Sie war die 100. zwischen Rheinland-Pfalz und Burgund.",
+"Sie war die erste zwischen Rheinland-Pfalz und Burgund.",
+"Sie war die 25. zwischen Rheinland-Pfalz und Burgund.",
+"Sie war die 500. zwischen Rheinland-Pfalz und Burgund."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. „Die erste“ liegt nahe, denn Besonderes vermutet man meist am Anfang. Tatsächlich war die Partnerschaft zwischen Wackernheim und Daix schon die 100. zwischen Rheinland-Pfalz und Burgund – ein Zeichen, wie dicht das Netz zwischen beiden Regionen war. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.ingelheim.de/rathaus-politik/stadtteile/wackernheim/",
+"faktencheck": "bestätigt",
+"id": "60-ingelheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ingelheim",
+"steckbrief": "Ingelheim, rund 35.000 Einwohner, liegt 16 km westlich von Mainz.",
+"frage": "Auf dem Ingelheimer Westerberg steht ein von Weitem sichtbarer Aussichtsturm. Wem zu Ehren wurde er gebaut?",
+"optionen": [
+"Er wurde zu Ehren Karls des Großen gebaut.",
+"Er wurde zu Ehren Otto von Bismarcks gebaut.",
+"Er wurde zu Ehren Kaiser Wilhelms I. gebaut.",
+"Er wurde zu Ehren des Turnvaters Jahn gebaut."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Karl der Große liegt nahe, denn Ingelheims Kaiserpfalz geht auf ihn zurück. Der Turm ist aber ein Bismarckturm, ein Zeugnis der Bismarck-Denkmalsbewegung nach dem Tod des Reichskanzlers. Von oben reicht der Blick bis in den Rheingau. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ingelheim.de/leben-freizeit/kultur-und-tourismus/sehenswuerdigkeiten/",
+"faktencheck": "bestätigt",
+"id": "60-ingelheim/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "52-bingen",
+"anschluss": [
+"Einwohner: Ingelheim zählt rund 9.500 mehr als Bingen.",
+"Kennzeichen: In Ingelheim wie in Bingen steht BIN am Auto."
+],
+"km_vom_vorigen": 11.6
+},
+{
 "slug": "54-alzey",
 "name": "Alzey",
 "lat": 49.75167,
@@ -15603,12 +16129,395 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "52-bingen",
-"anschluss": [
-"Luftlinie: Alzey und Bingen liegen beide 28 km von Mainz.",
-"Einwohner: Bingen zählt rund 6.000 mehr als Alzey."
+"anschluss_von": "60-ingelheim",
+"anschluss": [],
+"km_vom_vorigen": 25.2
+},
+{
+"slug": "61-nierstein",
+"name": "Nierstein",
+"lat": 49.86944,
+"lon": 8.3375,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Nierstein",
+"steckbrief": "Stadt mit rund 8.100 Einwohnern, 13 km südlich von Mainz.",
+"frage": "König Richard von Cornwall verlieh den Niersteiner Schöffen 1268 ein besonderes Recht. Welches?",
+"optionen": [
+"Sie durften die kaiserliche Steuer selbst festlegen.",
+"Sie durften eigene Münzen prägen.",
+"Sie waren vom Kriegsdienst für den König befreit.",
+"Sie durften Zoll von Rheinschiffen erheben."
 ],
-"km_vom_vorigen": 28.7
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Münzrecht oder ein Rheinzoll klingen nach typischen Königsprivilegien, wie sie Städte begehrten. Richard von Cornwall gewährte den Schöffen des Niersteiner Rittergerichts aber die Selbstschätzung: Sie durften die Höhe der kaiserlichen Steuer selbst festlegen. Das Privileg wurde immer wieder ausdrücklich bestätigt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.nierstein.de/chronik-von-nierstein",
+"faktencheck": "unsicher",
+"id": "61-nierstein/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Nierstein",
+"steckbrief": "Stadt mit rund 8.100 Einwohnern, 13 km südlich von Mainz.",
+"frage": "Wie groß ist die Fläche der Stadt Nierstein?",
+"optionen": [
+"unter 10 km²",
+"10 bis unter 25 km²",
+"25 bis unter 40 km²",
+"40 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer nur an den alten Ortskern am Rhein denkt, schätzt leicht zu klein. Zur Stadt gehört aber auch Schwabsburg, früher eine selbstständige Gemeinde. Nierstein umfasst 19,34 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046 (Fläche); Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "61-nierstein/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Nierstein",
+"steckbrief": "Stadt mit rund 8.100 Einwohnern, 13 km südlich von Mainz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Nierstein gehörte zu keiner Zeit zu Hessen.",
+"Nierstein besaß früher auch Land rechts des Rheins.",
+"Im Mittelalter war Nierstein Sitz eines Dekanats."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Heute liegt Nierstein in Rheinland-Pfalz, Hessen scheint fern. Doch der Wiener Kongress ordnete Rheinhessen dem Großherzogtum Hessen zu, später gehörte es zum Volksstaat Hessen. Und den Kornsand auf der rechten Rheinseite verlor Nierstein schon nach dem Frieden von Lunéville an Hessen-Darmstadt. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.nierstein.de/chronik-von-nierstein",
+"faktencheck": "bestätigt",
+"id": "61-nierstein/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Nierstein",
+"steckbrief": "Stadt mit rund 8.100 Einwohnern, 13 km südlich der Landeshauptstadt Mainz.",
+"frage": "Welche Partei wurde in Nierstein bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"Grüne",
+"CDU",
+"SPD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Grüne und AfD liegen nahe, beide kamen in Nierstein über 15 Prozent. Die CDU wurde stärkste Kraft, Platz zwei holte aber die SPD. Zweitstimmen: CDU 29,4 Prozent, SPD 19,3, Grüne 15,9, AfD 15,3. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "61-nierstein/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Nierstein",
+"steckbrief": "Stadt mit rund 8.100 Einwohnern, 13 km südlich von Mainz.",
+"frage": "1375 verpfändete Kaiser Karl IV. Nierstein an den Pfalzgrafen. Welchen Grund nennt die Ortsgeschichte dafür?",
+"optionen": [
+"Er brauchte dessen Wahlstimme für seinen Sohn.",
+"Er bestrafte so einen Aufstand der Niersteiner.",
+"Er zahlte so die Mitgift einer Tochter.",
+"Er dankte so für seine Befreiung aus Gefangenschaft."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Verpfändung denkt man an Strafe, Mitgift oder Dank. Karl IV. wollte sich aber die Kurstimme des Pfalzgrafen Ruprecht des Älteren für die Wahl seines Sohnes Wenzel sichern, also das Recht, den König mitzuwählen. Dafür erhielt Ruprecht Nierstein und weitere Teile des Reichsgutes als Pfand. Richtig war 1.",
+"quelle": "Landesportal, www.regionalgeschichte.net/rheinhessen/nierstein.html",
+"faktencheck": "bestätigt",
+"id": "61-nierstein/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Nierstein",
+"steckbrief": "Stadt mit rund 8.100 Einwohnern, 13 km südlich von Mainz.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Nierstein?",
+"optionen": [
+"AZ",
+"MZ",
+"WO",
+"GG"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. AZ, WO und GG gehören zu Kreisen und Städten der Umgebung, deshalb liegen sie nahe. Nierstein gehört aber zum Landkreis Mainz-Bingen, und dessen Hauptkennzeichen ist MZ, dasselbe wie in der Stadt Mainz. Richtig war 2.",
+"quelle": "Wikidata P395 (Kennzeichen); dewiki Infobox (Landkreis)",
+"faktencheck": "bestätigt",
+"id": "61-nierstein/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Nierstein",
+"steckbrief": "Stadt mit rund 8.100 Einwohnern, 13 km südlich von Mainz.",
+"frage": "Die Römerin Julia Frontina errichtete in Nierstein einen Weihestein für Apollo und Sirona. Welchen Anlass nimmt man dafür an?",
+"optionen": [
+"Sie hatte eine Seereise heil überstanden.",
+"Ihr Sohn war gesund aus dem Krieg heimgekehrt.",
+"Das Wasser einer Quelle hatte sie geheilt.",
+"Ihr Mann war zum Offizier befördert worden."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Weihesteine dankten oft für Heimkehr, Rettung oder Aufstieg, darum liegen diese Theorien nahe. Die Inschrift nennt nur ein erfülltes Gelübde, man deutet sie aber als Dank für die Heilung durch das Quellwasser. Gemeint ist das Sironabad, eine römische Badehalle mit Schwefel- und Süßwasserquellen, die schon Kelten nutzten. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.nierstein.de/niersteiner-paläontologisches-museum-e-v; Landesportal, www.regionalgeschichte.net/rheinhessen/nierstein/kulturdenkmaeler/sironabad.html",
+"faktencheck": "korrigiert",
+"id": "61-nierstein/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Nierstein",
+"steckbrief": "Stadt mit rund 8.100 Einwohnern, 13 km südlich von Mainz.",
+"frage": "Im Mittelalter genoss der „Niersteiner Oberhof“ hohes Ansehen. Was war er?",
+"optionen": [
+"Er war ein Gutshof mit berühmtem Weinkeller.",
+"Er galt als Vorbild für die Sendgerichte der Umgebung.",
+"Er war eine Herberge für reisende Pilger.",
+"Er war ein Gestüt für königliche Pferde."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei „Hof“ denkt man an ein Gut oder eine Herberge. Der Oberhof gehörte aber zum Niersteiner Sendgericht, das Vergehen in Fragen des Glaubens und der Moral ahndete. Er galt als Orientierungs- und Entscheidungsinstanz für umliegende Orte und deren Sendgerichte. Gerichtsherr des Sendgerichts war zuerst der Mainzer Erzbischof. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.nierstein.de/chronik-von-nierstein",
+"faktencheck": "korrigiert",
+"id": "61-nierstein/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Nierstein",
+"steckbrief": "Rund 8.100 Einwohner, 13 km südlich von Mainz.",
+"frage": "Schon 1196 nannte Kaiser Heinrich VI. Nierstein in einer Urkunde „civitas“, Stadt. Seit wann trägt Nierstein offiziell die Bezeichnung „Stadt“?",
+"optionen": [
+"Seit dem Jahr 1816.",
+"Seit dem Jahr 1871.",
+"Seit dem Jahr 1947.",
+"Seit dem Jahr 2013."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer „civitas“ liest, vermutet, die Stadtwürde sei längst amtlich gewesen oder mit einem neuen Landesherrn gekommen. Tatsächlich verlieh das Land Rheinland-Pfalz Nierstein die Bezeichnung „Stadt“ erst am 7. Juni 2013. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.nierstein.de/chronik-von-nierstein",
+"faktencheck": "korrigiert",
+"id": "61-nierstein/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "54-alzey",
+"anschluss": [
+"Bundestagswahl 2025: In Nierstein wählten 86,3 Prozent, in Alzey 80,1.",
+"Einwohner: Alzey hat mehr als doppelt so viele wie Nierstein."
+],
+"km_vom_vorigen": 20.6
+},
+{
+"slug": "62-oppenheim",
+"name": "Oppenheim",
+"lat": 49.85556,
+"lon": 8.36028,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oppenheim",
+"steckbrief": "Rund 7.200 Einwohner, 15 km südlich von Mainz.",
+"frage": "Oppenheim ist erstmals 765 belegt: Zwei Männer schenkten damals dem Kloster Lorsch etwas in der Oppenheimer Gemarkung. Was wurde verschenkt?",
+"optionen": [
+"Verschenkt wurde eine Fähre über den Rhein.",
+"Verschenkt wurde eine Mühle am Rheinufer.",
+"Verschenkt wurde ein Recht zum Fischfang.",
+"Verschenkt wurden Weinberge."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Am Rhein denkt man zuerst an Fähre oder Fischfang, denn der Fluss prägte das Leben am Ufer. Doch Folrad und Bertricus schenkten dem Kloster Lorsch je einen Weinberg. Haupterwerb im Mittelalter war die Landwirtschaft, besonders der Weinbau. Richtig war 4.",
+"quelle": "regionalgeschichte.net, www.regionalgeschichte.net/rheinhessen/oppenheim/ortsgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "62-oppenheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oppenheim",
+"steckbrief": "Rund 7.200 Einwohner, auf einer Rheinterrasse 15 km südlich von Mainz.",
+"frage": "Wie hoch über dem Meeresspiegel liegt Oppenheim?",
+"optionen": [
+"unter 100 Meter",
+"100 bis unter 150 Meter",
+"150 bis unter 250 Meter",
+"250 Meter und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an die Weinberge und die Burgruine Landskron über der Stadt denkt, schätzt leicht höher. Doch die Stadt selbst liegt auf einer Rheinterrasse; die Höhenangaben nennen 87 und 88 Meter. Richtig war 1.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "62-oppenheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Oppenheim",
+"steckbrief": "Rund 7.200 Einwohner, 15 km südlich von Mainz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Oppenheim war früher eine freie Reichsstadt.",
+"Die Katharinenkirche ist ein Bau des Barock.",
+"Französische Truppen brannten Oppenheim im Pfälzer Erbfolgekrieg nieder."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Nach einem Stadtbrand denkt man an barocken Wiederaufbau, und Oppenheim wurde von Franzosen niedergebrannt. Die Katharinenkirche aber ist gotisch; man nennt sie in einem Atemzug mit Straßburg und Köln. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.stadt-oppenheim.de/geschichte/ und www.stadt-oppenheim.de/kulturdenkmaeler/",
+"faktencheck": "korrigiert",
+"id": "62-oppenheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oppenheim",
+"steckbrief": "Rund 7.200 Einwohner, 15 km südlich von Mainz.",
+"frage": "Wie hoch war die Wahlbeteiligung in Oppenheim bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 Prozent",
+"70 bis unter 78 Prozent",
+"78 bis unter 86 Prozent",
+"86 Prozent und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele schätzen niedriger, weil sie bei Wahlen müde Wähler erwarten. Doch in Oppenheim gingen 83,5 Prozent der Wahlberechtigten wählen. Bei den Zweitstimmen lag die CDU vorn, vor SPD und Grünen. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "62-oppenheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oppenheim",
+"steckbrief": "Rund 7.200 Einwohner, 15 km südlich von Mainz.",
+"frage": "Der Architekt Paul Wallot stammte aus Oppenheim. Welches Berliner Bauwerk hat er gebaut?",
+"optionen": [
+"Er baute das Brandenburger Tor.",
+"Er baute den Berliner Dom.",
+"Er baute das Rote Rathaus.",
+"Er baute das Reichstagsgebäude."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Das Brandenburger Tor liegt nahe, weil es als Wahrzeichen Berlins jedem einfällt. Paul Wallot, ein Sohn Oppenheims, baute aber das Reichstagsgebäude. Seine Heimatstadt machte ihn zum Ehrenbürger. Richtig war 4.",
+"quelle": "Sächsische Biografie (ISGV), saebi.isgv.de/biografie/Paul_Wallot_(1841-1912)",
+"faktencheck": "korrigiert",
+"id": "62-oppenheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Oppenheim",
+"steckbrief": "Rund 7.200 Einwohner, 15 km südlich von Mainz.",
+"frage": "Welche dieser Städte ist eine Partnerstadt von Oppenheim?",
+"optionen": [
+"Werder (Havel)",
+"Meißen",
+"Radebeul",
+"Freyburg (Unstrut)"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Weinbaustadt liegen Weinorte wie Meißen oder Radebeul nahe. Die ostdeutsche Partnerstadt ist aber Werder an der Havel. Weitere Partnerstädte sind Sant’Ambrogio di Valpolicella, Givry, Adnet und Calp. Richtig war 1.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "62-oppenheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oppenheim",
+"steckbrief": "Rund 7.200 Einwohner, 15 km südlich von Mainz.",
+"frage": "Unter der Altstadt von Oppenheim ziehen sich Kellergänge in wechselnder Tiefe. Wie viel davon ist für Besucher erschlossen?",
+"optionen": [
+"Rund 10 Kilometer sind erschlossen.",
+"Rund 500 Meter sind erschlossen.",
+"Rund 20 Kilometer sind erschlossen.",
+"Rund 5 Kilometer sind erschlossen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Anlage, die man besichtigen kann, erwartet man ein großes erschlossenes Netz. Doch für Besucher erschlossen sind nur rund 500 Meter um das Rathaus, ein kleiner Teil der Anlage. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.stadt-oppenheim.de/erfahren/",
+"faktencheck": "korrigiert",
+"id": "62-oppenheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oppenheim",
+"steckbrief": "Rund 7.200 Einwohner, 15 km südlich von Mainz.",
+"frage": "Bei Erfelden auf der hessischen, rechten Rheinseite erinnert eine Säule an eine Rheinüberquerung bei Oppenheim. An wen?",
+"optionen": [
+"Sie erinnert an Kaiser Friedrich Barbarossa.",
+"Sie erinnert an den Feldherrn Wallenstein.",
+"Sie erinnert an König Gustav II. Adolf.",
+"Sie erinnert an Prinz Eugen von Savoyen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wallenstein liegt nahe, weil er als Feldherr des Dreißigjährigen Kriegs bekannt ist. Das Denkmal ist aber die Schwedensäule: In diesem Krieg setzte König Gustav II. Adolf von Schweden bei Oppenheim über den Rhein und eroberte danach die Stadt. Richtig war 3.",
+"quelle": "regionalgeschichte.net, www.regionalgeschichte.net/rheinhessen/oppenheim/ortsgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "62-oppenheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oppenheim",
+"steckbrief": "Rund 7.200 Einwohner, 15 km südlich von Mainz.",
+"frage": "Auf Burg Landskron über Oppenheim starb 1410 ein römisch-deutscher König. Wer war es?",
+"optionen": [
+"Es war König Ruprecht von der Pfalz.",
+"Es war Kaiser Karl IV.",
+"Es war König Wenzel von Böhmen.",
+"Es war Kaiser Sigismund."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wenzel liegt nahe, denn er war Ruprechts Vorgänger als König. Auf Burg Landskron starb aber Ruprecht, Kurfürst der Pfalz und römisch-deutscher König. Oppenheim war damals schon an die Kurpfalz verpfändet. Richtig war 1.",
+"quelle": "Historisches Lexikon Bayerns, www.historisches-lexikon-bayerns.de/Lexikon/Königtum_Ruprechts_von_der_Pfalz",
+"faktencheck": "korrigiert",
+"id": "62-oppenheim/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "61-nierstein",
+"anschluss": [
+"Fläche: Oppenheim hat 7,1 km², Nierstein 19,34 km².",
+"1945 setzten US-Truppen zwischen Oppenheim und Nierstein über den Rhein."
+],
+"km_vom_vorigen": 2.2
 },
 {
 "slug": "55-worms",
@@ -15786,12 +16695,202 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "54-alzey",
-"anschluss": [
-"Einwohner: Worms hat mehr als viermal so viele wie Alzey.",
-"Bundestagswahl 2025: CDU in Worms und Alzey fast gleich stark."
+"anschluss_von": "62-oppenheim",
+"anschluss": [],
+"km_vom_vorigen": 25.1
+},
+{
+"slug": "63-frankenthal",
+"name": "Frankenthal",
+"lat": 49.53333,
+"lon": 8.35,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Frankenthal",
+"steckbrief": "Frankenthal hat rund 48.000 Einwohner und liegt 9 km nordwestlich von Ludwigshafen am Rhein.",
+"frage": "Die Frankenthaler Porzellanmanufaktur wurde 1755 gegründet und wechselte 1762 den Besitzer. Wer übernahm sie damals?",
+"optionen": [
+"Der Stadtrat kaufte die Manufaktur.",
+"Der Kurfürst kaufte die Manufaktur.",
+"Die Porzellanmaler übernahmen sie gemeinsam.",
+"Ein auswärtiger Kaufmann kaufte die Manufaktur."
 ],
-"km_vom_vorigen": 22.3
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Kaufmann liegt nahe, denn gegründet hatte die Manufaktur Paul Anton Hannong. Doch Kurfürst Carl Theodor kaufte sie und ließ sie staatlich verwalten. Ihr Ende kam mit einer Wirtschaftskrise und den Revolutionskriegen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/frankenthaler-porzellan/",
+"faktencheck": "bestätigt",
+"id": "63-frankenthal/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Frankenthal",
+"steckbrief": "Frankenthal ist eine kreisfreie Stadt auf knapp 44 km² und liegt 9 km nordwestlich von Ludwigshafen am Rhein.",
+"frage": "Wie viele Einwohner hat Frankenthal?",
+"optionen": [
+"unter 20.000",
+"20.000 bis unter 40.000",
+"40.000 bis unter 60.000",
+"60.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Neben den Großstädten Ludwigshafen und Mannheim wirkt Frankenthal leicht wie eine Kleinstadt. Tatsächlich zählt die Stadt 48.134 Einwohner und ist damit eine ausgewachsene Mittelstadt. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "63-frankenthal/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Frankenthal",
+"steckbrief": "Frankenthal hat rund 48.000 Einwohner und liegt 9 km nordwestlich von Ludwigshafen am Rhein.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Beim Frankenthaler Religionsgespräch einigten sich Täufer und Reformierte.",
+"Französische Truppen brannten Frankenthal im Pfälzischen Erbfolgekrieg nieder.",
+"Die Zunft der Weber genoss auf Messen Zollfreiheit."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Zollfreiheit der Weber klingt erfunden, doch die Weber erhielten neben einer Ordnung tatsächlich Zollfreiheit auf den Messen. Und dass französische Truppen die Stadt im Pfälzischen Erbfolgekrieg niederbrannten, stimmt ebenfalls. Gelogen ist die Einigung: Der Kurfürst hatte das Gespräch zwischen den freikirchlichen Täufern und den Reformierten angestoßen, doch es blieb ohne Ergebnis. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/",
+"faktencheck": "korrigiert",
+"id": "63-frankenthal/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Frankenthal",
+"steckbrief": "Frankenthal hat rund 48.000 Einwohner und liegt 9 km nordwestlich von Ludwigshafen am Rhein.",
+"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Frankenthal die zweitmeisten Zweitstimmen?",
+"optionen": [
+"AfD",
+"SPD",
+"CDU",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt nahe, denn sie war jahrzehntelang die zweite große Volkspartei. Doch in Frankenthal kam die AfD auf 25,9 Prozent, nur knapp hinter der CDU mit 27,9 Prozent. Die SPD folgte mit 17,9 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "63-frankenthal/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Frankenthal",
+"steckbrief": "Frankenthal hat rund 48.000 Einwohner und liegt 9 km nordwestlich von Ludwigshafen am Rhein.",
+"frage": "Der gebürtige Frankenthaler Arnold Fanck entdeckte Leni Riefenstahl für den Film. Auf welche Filme hatte er sich spezialisiert?",
+"optionen": [
+"Er drehte vor allem Kriminalfilme in Großstädten.",
+"Er drehte vor allem Berg- und Sportfilme.",
+"Er drehte vor allem monumentale Historienfilme.",
+"Er drehte vor allem Musikfilme und Operetten."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Leni Riefenstahl denken viele zuerst an ihre späteren Werke als Regisseurin. Ihr Entdecker Arnold Fanck aber drehte Bergsteiger-, Ski- und Naturfilme, bekannt etwa durch „Die weiße Hölle vom Piz Palü“ und „SOS Eisberg“. Auch Luis Trenker und Brigitte Horney entdeckte er. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/frankenthaler-koepfe/",
+"faktencheck": "korrigiert",
+"id": "63-frankenthal/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Frankenthal",
+"steckbrief": "Frankenthal hat rund 48.000 Einwohner und liegt 9 km nordwestlich von Ludwigshafen am Rhein.",
+"frage": "Wie weit ist es von Frankenthal Luftlinie bis zur Landeshauptstadt Mainz?",
+"optionen": [
+"unter 30 km",
+"30 bis unter 45 km",
+"45 bis unter 60 km",
+"60 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Mainz fühlt sich weit weg an, weil die nächste Großstadt Ludwigshafen in der Gegenrichtung liegt. Tatsächlich trennen Frankenthal und die Landeshauptstadt nur 50 km Luftlinie. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "63-frankenthal/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Frankenthal",
+"steckbrief": "Frankenthal hat rund 48.000 Einwohner und liegt 9 km nordwestlich von Ludwigshafen am Rhein.",
+"frage": "Die Erkennungsmelodie der Tagesschau stammt vom gebürtigen Frankenthaler Hans Carste. Aus wie vielen Tönen bestand seine Melodie?",
+"optionen": [
+"Die Melodie bestand aus drei Tönen.",
+"Die Melodie bestand aus vier Tönen.",
+"Die Melodie bestand aus fünf Tönen.",
+"Die Melodie bestand aus sechs Tönen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer die Tagesschau im Ohr hat, denkt an einen kurzen Gong und tippt auf wenige Töne. Carstes Erkennungsmelodie bestand aber aus sechs Tönen. Der Komponist wurde in Frankenthal geboren und starb in Bad Wiessee. Seine Melodie brachte ihm beträchtliche Tantiemen ein. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/anekdoten/",
+"faktencheck": "bestätigt",
+"id": "63-frankenthal/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Frankenthal",
+"steckbrief": "Frankenthal hat rund 48.000 Einwohner und liegt 9 km nordwestlich von Ludwigshafen am Rhein.",
+"frage": "Nach 1577 entstand in Frankenthal eine Malerschule, die über die Pfalz hinaus bekannt wurde. Wer gründete sie?",
+"optionen": [
+"Flämische Künstler gründeten die Malerschule.",
+"Italienische Künstler gründeten die Malerschule.",
+"Böhmische Künstler gründeten die Malerschule.",
+"Einheimische Pfälzer Handwerker gründeten die Malerschule."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Italien liegt nahe, denn von dort kamen viele große Maler der Renaissance. Gegründet haben die Frankenthaler Malerschule aber flämische Künstler; zu ihr gehörten Gillis van Coninxloo aus Antwerpen, Anton Mirou und Pieter Schoubroeck. Frankenthal hatte damals flämische Glaubensflüchtlinge aufgenommen. Richtig war 1.",
+"quelle": "Landesportal, www.regionalgeschichte.net/pfalz/frankenthal.html; Gemeinde-Webseite, www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/",
+"faktencheck": "korrigiert",
+"id": "63-frankenthal/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Frankenthal",
+"steckbrief": "Frankenthal hat rund 48.000 Einwohner und liegt 9 km nordwestlich von Ludwigshafen am Rhein.",
+"frage": "Im März 1945 befreiten amerikanische Truppen Frankenthal. Wer übernahm ab Juli 1945 die militärische Verwaltung der Stadt?",
+"optionen": [
+"Großbritannien übernahm die Verwaltung.",
+"Die Sowjetunion übernahm die Verwaltung.",
+"Frankreich übernahm die Verwaltung.",
+"Die Niederlande übernahmen die Verwaltung."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Großbritannien liegt nahe, denn es erhielt am Rhein eine eigene Besatzungszone. Frankenthal aber kam unter französische Militärverwaltung, nachdem amerikanische Truppen die Stadt befreit hatten. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/80-jahre-kriegsende/",
+"faktencheck": "bestätigt",
+"id": "63-frankenthal/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "55-worms",
+"anschluss": [
+"Frankenthals Stiftsgründer Erkenbert stammte aus dem Wormser Adel.",
+"Einwohner: Worms zählt fast doppelt so viele wie Frankenthal."
+],
+"km_vom_vorigen": 10.8
 },
 {
 "slug": "56-ludwigshafen",
@@ -15959,12 +17058,9 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "55-worms",
-"anschluss": [
-"Worms hat mehr Fläche als Ludwigshafen, aber weniger Einwohner.",
-"Ludwigshafens Ruchheim erscheint um 900 in der Wormser Mauerbauordnung."
-],
-"km_vom_vorigen": 17.4
+"anschluss_von": "63-frankenthal",
+"anschluss": [],
+"km_vom_vorigen": 8.5
 },
 {
 "slug": "57-speyer",

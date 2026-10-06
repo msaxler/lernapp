@@ -1,0 +1,908 @@
+ID: 62-oppenheim/001
+ENTITÄT: ort
+BEZEICHNUNG: Oppenheim
+QUELLE: https://www.stadt-oppenheim.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 8000, genauigkeit: ca.
+  lage: Rheinterrasse, linksrheinisch
+  landeskreis: Mainz-Bingen
+  bundesland: Rheinland-Pfalz
+  is_mittelzentrum: true
+  is_verwaltungssitz: true, verbandsgemeinde: Rhein-Selz
+  erste_urkundliche_erwaehnung: 765
+  erwaehnung_in_quelle: Lorscher Codex, zwei Schenkungen von Weinbergen
+  marktrechte_verleihung: 1008
+  reichsstadt_ernennung: 1225, genauigkeit: 1226 (Wikipedia)
+  ist_freie_reichsstadt: true, gueltig_ab: 1226, gueltig_bis: 1375
+  teil_kurpfalz_ab: 1375
+  niedergebrannt_durch_franzoesen: 1689
+  grund_niedergebrannt: Pfälzer Erbfolgekrieg
+  teil_grossherzogtum_hessen_ab: 1816
+  teil_rheinland_pfalz_ab: 1946
+  verbandsgemeinde_verwaltungssitz_ab: 2014, verbandsgemeinde: Rhein-Selz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 62-oppenheim/002
+ENTITÄT: ort
+BEZEICHNUNG: Oppenheim
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 7071, gueltig_ab: 2024
+  lage: Oberrhein
+  ist_stadt_des_weines: true
+  kulturelle_besonderheit: Sitz des Deutschen Weinbaumuseums
+  bekannte_weingrosslagen: Oppenheimer Krötenbrunnen
+  jahresniederschlag: 545, einheit: Millimeter
+  lage_geografisch: zwischen Mainz und Worms
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/003
+ENTITÄT: kirche
+BEZEICHNUNG: Katharinenkirche
+QUELLE: https://www.stadt-oppenheim.de/kulturdenkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekturstil: Gotik
+  bedeutung: eine der herausragendsten gotischen Sakralbauten am Rhein
+  vergleich_staedten: wird in einem Atemzug mit Straßburg und Köln genannt
+  besonderheit_architektur: Oppenheimer Rose, Oppenheimer Lilie
+  spezialausstattung: Beinhaus (bis heute belegt), Orgel
+  westchor_erbauer: Madern Gerthener
+  westchor_baubeginn: 1414
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 62-oppenheim/004
+ENTITÄT: kirche
+BEZEICHNUNG: Katharinenkirche
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  superlativ: herausragendster gotischer Sakralbau am Rhein zwischen Köln und Straßburg
+  ausstattung: Glasgemälde, Maßwerkfenster, Oppenheimer Rose, Oppenheimer Lilie, Beinhaus
+  orgel: regelmäßig von hochklassigen Musikern mit internationalem Ruf bespielt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/005
+ENTITÄT: burg_ruine
+BEZEICHNUNG: Burg Landskron
+QUELLE: https://www.stadt-oppenheim.de/kulturdenkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: über der Stadt
+  blick: Panoramablick auf die Stadt und umgebende Weinberge
+  status: Ruine
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/006
+ENTITÄT: burg_ruine
+BEZEICHNUNG: Burg Landskron
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/oppenheim.html | Landesportal
+EIGENSCHAFTEN:
+  geschichte: wechselhafte Geschichte, mehrere Male zerstört und wiederaufgebaut
+  zerstoerung_ende: 1689
+  grund_zerstoerung: franzoesische Truppen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/007
+ENTITÄT: militaerlager_roemisch
+BEZEICHNUNG: Buconica
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: Römische Zeit
+  entdecker: Gerd Rupprecht (ehemaliger rheinland-pfälzischer Landesarchäologe)
+  standort: Gelände der 1837 abgerissenen Sebastianskirche
+  archaeologische_funde: Mauerreste, Ziegelsteine als Bodenbelag, Wasserbecken, gemäuerter Kanal
+  entdeckung: 1950er Jahre
+  lokalisierung_evidenz: Grabstellen in Nachbarorten (Dienheim, Nierstein) nur außerhalb, deutet auf Siedlung hier
+  benannt_nach: antiker Name
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 62-oppenheim/008
+ENTITÄT: kirche
+BEZEICHNUNG: Sebastianskirche
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  abriss_jahr: 1837
+  nachnutzung_standort: Römisches Militärlager Buconica (1950er Jahre erforscht)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 62-oppenheim/009
+ENTITÄT: synagoge
+BEZEICHNUNG: Oppenheimer Synagoge (mittelalter)
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  neubau_jahr: 1325
+  zerstoerung_jahr: 1349
+  grund_zerstoerung: Pogrom, Pest-Vorwürfe gegen Juden
+GUELTIG_AB: 1325
+GUELTIG_BIS: 1349
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/010
+ENTITÄT: synagoge
+BEZEICHNUNG: Oppenheimer Synagoge (Neuzeit)
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  erbaut_jahr: 1864
+  adresse: Rathofstraße 19
+  einweihung: August 1864
+  zerstoerung: November 1938 (Kristallnacht)
+  grund_zerstoerung_1938: Novemberpogrome, Befehl NS-Führung
+  nachnutzung: Luftschutzbunker (nach Abriss durch Nationalsozialisten)
+GUELTIG_AB: 1864
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 62-oppenheim/011
+ENTITÄT: stadt_infrastruktur
+BEZEICHNUNG: Bahnhof Oppenheim
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  inbetriebnahme: 22. März 1853
+  bahnstrecke: Mainz–Worms (erster Abschnitt)
+  original_spurweise: eingleisig
+  sanierung_jahre: 2009–2011
+  sanierung_massnahmen: barrierefreier Ausbau, neue Brücke, zwei Fahrstühle
+  aktuelle_linien: S 5, S 6 (S-Bahn RheinNeckar), RE 14 (Regional-Express, vereinzelt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 62-oppenheim/012
+ENTITÄT: museum
+BEZEICHNUNG: Deutsches Weinbaumuseum
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  thema: Wissenswertes rund um den Wein
+  besonderheitsraum: Raritäten
+  exposition: älteste Kelter der Region (von der Geistermühle aus Flonheim)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 62-oppenheim/013
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum Oppenheim
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  standort: Oppenheim, Altstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 62-oppenheim/014
+ENTITÄT: stadt_infrastruktur
+BEZEICHNUNG: Kellerlabyrinth Oppenheim
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  besonderheit: einmalige Kelleranlagen unter der Altstadt
+  tiefenlage_wechselnd: ja, unterirdische Gänge auf wechselnden Tiefen
+  begehbare_laenge: ca. 650, einheit: Meter, bereich: um das Rathaus
+  begehbare_prozentsatz: 1–2, einheit: Prozent, referenz: Gesamtvolumen
+  geschaetzte_gesamtlaenge: mindestens 40, einheit: km
+  kulturelle_bedeutung: historisch erhaltene Kelleranlagen
+  touristischer_zugang: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 62-oppenheim/015
+ENTITÄT: stadt_infrastruktur
+BEZEICHNUNG: Rathaus Oppenheim
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1621
+  lage: Altstadt, Marktplatz
+  besonderheit_nebenan: Säule aus dem Saal der Burg Landskron (soll aus der Ingelheimer Kaiserpfalz stammen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 62-oppenheim/016
+ENTITÄT: stadt_infrastruktur
+BEZEICHNUNG: Altstadt Oppenheim
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  charakteristik: verwinkel, mit zentralem Marktplatz
+  besonderheiten: Kulturdenkmäler, Baudenkmäler trotz Zerstörungen
+  stadtbefestigung_reste: Gautor, Ruprechtsturm, Rheintorpforte, Uhrturm, Stadtmauerreste
+  beschreibung: interessante Kultur- und Baudenkmäler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 62-oppenheim/017
+ENTITÄT: stadt_infrastruktur
+BEZEICHNUNG: Flugplatz Oppenheim
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  typ: Sonderlandeplatz
+  icao_code: EDGP
+  lage: Osten der Stadt, direkt am Rhein
+  piste_typ: Graspiste
+  piste_laenge: 800, einheit: Meter
+  piste_breite: 30, einheit: Meter
+  zulassung_luftfahrzeuge: bis 2, einheit: Tonnen
+  betreiber: Aero-Club Oppenheim-Guntersblum am Rhein e. V.
+  luftsportarten: Modellflug, Gleitschirm, Segelflug, Motorsegler, Motorflug, Ultraleicht, Heißluftballon
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/018
+ENTITÄT: hafen
+BEZEICHNUNG: Hafen Oppenheim
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  groesse: klein
+  verbindung: Rhein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 62-oppenheim/019
+ENTITÄT: stadt_infrastruktur
+BEZEICHNUNG: Landschreibereigebäude und Casino
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  adresse: Ecke Wormserstraße/Landschreibergasse
+  architektur: Barockgebäude, große überdachte Fenster, Mansarddach
+  vorgaenger: Bürgerhaus „zum Krebs" mit Ratstrinkstube (Mittelalter)
+  erbauer: Johann Williges (kurpfälzischer Landschreiber und Landvogt)
+  erbauung_jahre: 1709–1711
+  kontext_erbauung: zwei Jahrzehnte nach Stadtzerstörung 1689
+  wappen: Doppelwappen (Landvogt und Gambs)
+  nachnutzung_1740_bis_1821: Löwenapotheke
+  nachnutzung_ab_1888_bis_1899: Casino-Gesellschaft
+  nachnutzung_ab_1899: Gastwirtschaft, Weinvertrieb, Veranstaltungen
+  kulturelle_rolle: repräsentierte Mittelpunkt des gesellschaftlichen Lebens über Jahrzehnte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 62-oppenheim/020
+ENTITÄT: stadt_infrastruktur
+BEZEICHNUNG: Straße Bundesstraße 9
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: niederländische Grenze (Kleve) bis französische Grenze (Kandel)
+  funktion_lokal: Anbindung an Mainz und Worms, Verbindung Autobahnring Mainz und Autobahn 6
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 62-oppenheim/021
+ENTITÄT: region
+BEZEICHNUNG: Rheinhessen
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  lage: Rheinhessen
+  lage_rhein: links des Rheins
+  lage_geografisch: mittig zwischen Mainz (Norden) und Worms (Süden)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 62-oppenheim/022
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Silke Rautenberg
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Stadtbürgermeisterin
+  partei: Alternative Liste
+  amtsantritt: 18. Februar 2022
+  wahl_stichwahl_2022: 23. Januar 2022, Stimmenanteil: 59,0 %
+  gegenkandidat_stichwahl: Jörg Steinheimer (SPD)
+  wahl_direkt_2024: 9. Juni 2024, Stimmenanteil: 50,5 %, Wahlbeteiligung: 61,5 %, Mehrheit: 36 Stimmen
+  gegenkandidat_2024: Stephanie Steichele-Guntrum (FDP)
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 62-oppenheim/023
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Marcus Held
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  funktion: SPD-Bundestagsabgeordneter, Stadtbürgermeister
+  amtszeit_buergermeister: 2004–2018
+  grund_amtsverzicht: staatsanwaltschaftliche Ermittlungen wegen Untreue, Betrug, Bestechung, Bestechlichkeit
+  amtsverzicht_datum: 28. Februar 2018
+  amtsverzicht_wirksamkeit: 5. März 2018
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 62-oppenheim/024
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Walter Jertz
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Stadtbürgermeister
+  partei: parteilos
+  wahl_datum: 3. Juni 2018
+  amtsantritt: 21. Juni 2018
+  amtsbestaetigung_2019: 26. Mai 2019, Stimmenanteil: 88,44 %
+  grund_amtsverzicht: gesundheitliche Gründe
+  amtsverzicht_datum: 30. September 2021
+GUELTIG_AB: 2018
+GUELTIG_BIS: 2021
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 62-oppenheim/025
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann XX. von Dalberg
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1455–1503
+  herkunft: Sohn/Tochter Oppenheims
+  funktion_1: Kanzler der Universität Heidelberg
+  funktion_2: 1482 Kanzler des Kurfürsten Philipp von der Pfalz
+  funktion_3: 1482 Bischof von Worms
+  verdienst: machte Heidelberg und Worms zu wichtigen Stätten des Humanismus
+GUELTIG_AB: 1455
+GUELTIG_BIS: 1503
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/026
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Kaspar Sturm
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1475–1552
+  herkunft: Sohn/Tochter Oppenheims
+  funktion: Reichsherold
+  besonderheit: begleitete Martin Luther 1521 auf seinem Weg zum Reichstag zu Worms und zurück
+GUELTIG_AB: 1475
+GUELTIG_BIS: 1552
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/027
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Paul Wallot
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1841–1912
+  herkunft: Sohn/Tochter Oppenheims
+  funktion: Architekt
+  hauptwerk: Erbauer des Reichstagsgebäudes in Berlin
+  ehrenbuerger_ab: vor 1912
+GUELTIG_AB: 1841
+GUELTIG_BIS: 1912
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/028
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johanna Senfter
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1879–1961
+  herkunft: Sohn/Tochter Oppenheims
+  funktion: Komponistin
+  charakterisierung: herausragende Komponistin des 20. Jahrhunderts
+GUELTIG_AB: 1879
+GUELTIG_BIS: 1961
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/029
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Jakob Steffan
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1888–1957
+  herkunft: Sohn/Tochter Oppenheims, geboren 31. Dezember 1888
+  gestorbensort: Mainz
+  funktion_politisch: sozialdemokratischer Politiker
+  verfolgung_zeitraum: ab 1933 mehrfach inhaftiert
+  widerstand: organisierte zivilen Widerstand gegen Nationalsozialismus in Süd- bzw. Rheinhessen
+  inhaftierung_orte: KZ Dachau
+  ministeramt: Innen- bzw. Sozialminister von Rheinland-Pfalz
+  ministeramt_jahre: 1946–1950
+GUELTIG_AB: 1888
+GUELTIG_BIS: 1957
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 62-oppenheim/030
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Madern Gerthener
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: ca. 1360–1430
+  funktion_1: Stadtbaumeister der Freien Reichsstadt Frankfurt am Main
+  funktion_2: Bildhauer
+  charakterisierung: einer der wichtigsten Künstler der Spätgotik am Mittelrhein
+  werk_oppenheim: Westchor der Katharinenkirche
+  werk_oppenheim_ab: 1414
+GUELTIG_AB: 1360
+GUELTIG_BIS: 1430
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/031
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ruprecht III. von der Pfalz (König Ruprecht I.)
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1352–1410
+  titel_pfalz: Pfalzgraf und Kurfürst der Pfalz
+  titel_pfalz_jahre: 1398–1410
+  titel_reich: römisch-deutscher König
+  titel_reich_jahre: 1400–1410
+  letzter_aufenthaltsort: Burg Landskron bei Oppenheim
+  todesdatum: 18. Mai 1410
+  todessort: Burg Landskron
+GUELTIG_AB: 1352
+GUELTIG_BIS: 1410
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 62-oppenheim/032
+ENTITÄT: jaedische_gemeinde
+BEZEICHNUNG: Jüdische Gemeinde Oppenheim
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  erwaehnung_ab: 1225 (ca.)
+  rechtsschutz_ab: 1254 (Rheinischer Städtebund)
+  niederlassungsrecht: gegen relativ hohe Sondersteuern
+  besteuerung: Steuern der Juden unter Burgherren der Burg Landskron
+  verfolgung_1315_bis_1353: Verpfändung Oppenheims an Erzbischof von Mainz, einzige Pogrome im Mittelalter
+  synagoge_alt_erbaut: 1325
+  synagoge_alt_zerstoert: 1349
+  grund_verfolgung_1349: Pest-Vorwürfe
+  besiedlung_nach_verfolgung: erst nach einigen Jahren
+  familien_1375: ab diesem Zeitpunkt Teil des Territoriums des Kurfürsten der Pfalz
+  familien_1444: 4 jüdische Familien
+  rabbiner_spaeter: 4 Rabbiner von der Gemeinde beschäftigt
+  einwohnerzahl_1765: 10 Familien
+  einwohnerzahl_1804: 74 Juden
+  einwohnerzahl_1824: 162 Juden
+  einwohnerzahl_1861: 184 Juden
+  einwohnerzahl_1900: 129 Juden
+  kultusgemeinde_1900: 219 Mitglieder (inkl. Nachbarorte)
+  synagoge_neu_erbaut: 1864
+  synagoge_neu_adresse: Rathofstraße 19
+  synagoge_neu_eingeweiht: August 1864
+  verfolgung_1933_1945: Diskriminierung, Ausgrenzung, Boykotte
+  friedhof_schaendung: 1934 an der heutigen Amselstraße
+  weggezogene_bis_1938: 108 Juden
+  verstorbene_bis_1938: 25
+  kristallnacht_verbleibende: 40 Juden
+  kristallnacht_verhaftete_erkrankte: 5 Juden nach KZ Buchenwald
+  deportation_gewalt_opfer: 53 Juden
+GUELTIG_AB: 1225
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 62-oppenheim/033
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Edmund Hirsch
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  alter_kristallnacht: 16 Jahre alt (gerade)
+  ereignis_kristallnacht: festgenommen, zur Gestapo nach Darmstadt, KZ Buchenwald
+  befreiung: ca. 23. Dezember 1938
+  todesereignis: um 27. Dezember totgeschlagen bei Verladearbeiten in Frankfurt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/034
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Julius Mannheimer
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  alter_kristallnacht: 16 Jahre alt (gerade)
+  ereignis_kristallnacht: festgenommen, zur Gestapo, KZ Buchenwald
+  befreiung: schwerkrank kurze Zeit nach Edmund Hirsch
+  evakuierung: Transport jugendlicher Juden nach Großbritannien
+  weiteres_schicksal: zuerst als feindlicher Ausländer interniert, dann nach Australien gebracht, besuchte Universität Sydney
+  todesereignis: Schiff von deutscher Seite torpediert auf Rückreise von Australien
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/035
+ENTITÄT: rivieruebergang
+BEZEICHNUNG: Rheinübergang Gustav II. Adolf 1631
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: König Gustav II. Adolf überquerte Rhein bei Oppenheim
+  monat: Juni
+  jahr: 1631
+  konflikt: Dreißigjähriger Krieg
+  denkmal: Schwedensäule bei Erfelden (rechtsrheinisch, Hessen)
+  aktion_folge: Eroberung der Stadt durch König
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/036
+ENTITÄT: rheinuebergang
+BEZEICHNUNG: Rheinübergang US-Truppen 1945
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  ereignis: US-Truppen etablierten Übergang über Rhein
+  datum: 22. März 1945
+  kommandant: General George S. Patton
+  ort: zwischen Oppenheim und Nierstein
+  kontext: fast sämtliche Rheinbrücken durch Deutsche gesprengt
+  folge: Truppentransport auf rechte Rheinseite
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 62-oppenheim/037
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Städtepartnerschaft Givry
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt: Givry
+  land: Frankreich
+  region: Saône-et-Loire
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 62-oppenheim/038
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Städtepartnerschaft Adnet
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt: Adnet
+  land: Österreich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 62-oppenheim/039
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Städtepartnerschaft Werder
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt: Werder
+  land: Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 62-oppenheim/040
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Städtepartnerschaft Calpe
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt: Calpe
+  land: Spanien
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 62-oppenheim/041
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Städtepartnerschaft Sant'Ambrogio
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt: Sant'Ambrogio
+  land: Italien
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 62-oppenheim/042
+ENTITÄT: weinpatenschaft
+BEZEICHNUNG: Weinpatenschaft Berlin
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt: Berlin (Reichshauptstadt)
+  initiator: Bürgermeister Heinz Scheller
+  amtsantritt_initiator: 1935
+  weitere_weinpaten: Ansbach, Osnabrück
+  schlag_zum_weinritter: Klaus Wowereit, 11. März 2006
+  schlag_durch: Stadtbürgermeister Marcus Held
+  teilnahme_hoffeste_berlin_ab: 2007
+  teilnahme_form: Weinstand
+  aktivitaeten: Teilnahme an Hoffesten des Senats von Berlin
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 62-oppenheim/043
+ENTITÄT: festspiele
+BEZEICHNUNG: Oppenheimer Theaterfestspiele
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: August bis Oktober (jährlich)
+  venue_1: Kulturkeller der Stadt
+  venue_2: Burgruine Landskron
+  erweiterung_ab_2009: Jugendtheateraufführungen, Schlagerfestival
+  schwerpunkt: Shakespeareaufführungen in der Burgruine Landskron
+  programm: Kinder- und Jugendtheateraufführungen, Kabarett, Jazz
+  unterstuetzer: Land Rheinland-Pfalz, Sponsoren, Förderverein der Festspiele e. V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 62-oppenheim/044
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Klaus Wowereit
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Regierender Bürgermeister von Berlin
+  ereignis: Schlag zum Weinritter in Oppenheim
+  ereignis_datum: 11. März 2006
+  veranlassung: Dank für Verdienste um die Stadt Oppenheim
+  schlaginitiant: Stadtbürgermeister Marcus Held
+  titel_verleihung: Weinritter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 62-oppenheim/045
+ENTITÄT: konfessionsstatistik
+BEZEICHNUNG: Konfessionsverteilung Oppenheim (2005)
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  evangelisch_prozent: 38.8
+  katholisch_prozent: 32.6
+  konfessionslos_oder_andere_prozent: 28.6
+  stichtag: 30. Juni 2005
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/046
+ENTITÄT: konfessionsstatistik
+BEZEICHNUNG: Konfessionsverteilung Oppenheim (2025)
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  evangelisch_prozent: 25.5
+  katholisch_prozent: 23.2
+  konfessionslos_oder_andere_prozent: 51.3
+  stichtag: 30. April 2025
+  trend: betraechliches Sinken der Anteile evangelisch und katholisch
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/047
+ENTITÄT: stadtrat
+BEZEICHNUNG: Stadtrat Oppenheim
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  ratsmitglieder: 24
+  vorsitzende: Stadtbürgermeisterin (ehrenamtlich)
+  wahlsystem: personalisierte Verhältniswahl
+  letzte_wahl: 9. Juni 2024
+  sitze_spd_2024: 3
+  sitze_cdu_2024: 4
+  sitze_fdp_2024: 3
+  sitze_al_2024: 7
+  sitze_blo_2024: 0
+  sitze_wfo_2024: 7
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 62-oppenheim/048
+ENTITÄT: weinanbau
+BEZEICHNUNG: Weinbau Oppenheim
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/oppenheim.html | Landesportal
+EIGENSCHAFTEN:
+  haupterwerbszweig_mittelalter: Weinanbau
+  erstwaehnung_weinberg: bereits bei Ersterwähnung Oppenheims im Lorscher Codex (765)
+  bedeutung: zentral für wirtschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 62-oppenheim/049
+ENTITÄT: flurname
+BEZEICHNUNG: Flurnamen Oppenheim
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/oppenheim.html | Landesportal
+EIGENSCHAFTEN:
+  beschreibung: vielfältige Herkunft der Flurnamen
+  forschung: Digitales Flurnamenlexikon
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 62-oppenheim/050
+ENTITÄT: kloester
+BEZEICHNUNG: Kloster Lorsch
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  ereignis_765: Schenker erhielten von Folrad und Bertrich je einen Weinberg
+  ereignis_774: Karl der Große schenkte Oppenheim dem Kloster
+  ereignis_1140er: erhielt Oppenheim vom Kloster zurück wegen Finanzschwierigkeiten
+  beziehung: Oppenheim gehörte zeitweise dem Kloster
+GUELTIG_AB: 765
+GUELTIG_BIS: 1140
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/051
+ENTITÄT: kloester
+BEZEICHNUNG: Kloster Otterberg
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  besiedlung_oppenheim: ja
+  besitztum_oppenheim: Häuser, Gülte, Wirtschaftshof am Dienheimer Tor
+GUELTIG_AB: 1226
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 62-oppenheim/052
+ENTITÄT: ereignis_krieg
+BEZEICHNUNG: Belagerung Oppenheim (Dreißigjähriger Krieg)
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  datum: 14. September 1620
+  eroberer: spanische Truppen
+  konflikt: Dreißigjähriger Krieg
+GUELTIG_BIS: 1620
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/053
+ENTITÄT: ereignis_krieg
+BEZEICHNUNG: Zerstörung Oppenheim (Pfälzer Erbfolgekrieg)
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  datum: 31. Mai 1689
+  zerstoerer: französische Truppen
+  kommandant: General Ezéchiel de Mélac
+  zerstoert: Burg Landskron und die Stadt
+  konflikt: Pfälzer Erbfolgekrieg
+  eroberung_oppenheim: 1688 durch französische Truppen
+  kontext: viele kurpfälzische Orte wurden niedergebrannt
+  folge_politisch: Oppenheim blieb bis 1797 kurpfälzischer Besitz
+  grad_zerstoerung: fast vollständig
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 62-oppenheim/054
+ENTITÄT: ereignis_krieg
+BEZEICHNUNG: Napoleonische Zeit Oppenheim
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  eroberung: Erster Koalitionskrieg, französische Truppen unter Napoleon
+  besatzung_jahre: 1798–1814
+  verwaltung: Département du Mont-Tonnerre (Donnersberg)
+  Ende: nach Ende der napoleonischen Zeit 1816 Großherzogtum Hessen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/055
+ENTITÄT: behoerde
+BEZEICHNUNG: Landesamt für Umwelt, Wasserwirtschaft und Gewerbeaufsicht Rheinland-Pfalz
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  außenstelle: Oppenheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 62-oppenheim/056
+ENTITÄT: behoerde
+BEZEICHNUNG: Wasser- und Schifffahrtsamt Mannheim
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  außenstelle: Oppenheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 62-oppenheim/057
+ENTITÄT: behoerde
+BEZEICHNUNG: Kfz-Zulassungsstelle Kreisverwaltung Mainz-Bingen
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  außenstelle: Oppenheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 62-oppenheim/058
+ENTITÄT: behoerde
+BEZEICHNUNG: Verbandsgemeinde Rhein-Selz
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  verwaltungssitz: Oppenheim
+  gruendung: 1. Juli 2014
+  gebaude: Rondo (ehemals Verwaltung Verbandsgemeinde Nierstein-Oppenheim)
+  vorgaenger: Verbandsgemeinde Nierstein-Oppenheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 62-oppenheim/059
+ENTITÄT: schule
+BEZEICHNUNG: Gymnasium zu St. Katharinen
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  ort: Oppenheim
+  schulform: Gymnasium
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 62-oppenheim/060
+ENTITÄT: schule
+BEZEICHNUNG: Integrierte Gesamtschule Oppenheim
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  ort: Oppenheim
+  schulform: Integrierte Gesamtschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 62-oppenheim/061
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Am Gautor
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  ort: Oppenheim
+  schulform: Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 62-oppenheim/062
+ENTITÄT: schule
+BEZEICHNUNG: Landskronschule
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  ort: Oppenheim
+  schulform: Förderschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 62-oppenheim/063
+ENTITÄT: schule
+BEZEICHNUNG: Berufsfachschule für Weinbau und Agrarwissenschaften
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  ort: Oppenheim
+  schulform: Berufsfachschule
+  fachrichtung: Weinbau, Agrarwissenschaften
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 62-oppenheim/064
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kindergärten Oppenheim
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  anzahl: vier Kindertageseinrichtungen
+  davon_staedtisch: drei städtische
+  davon_naturkindergarten: ein Naturkindergarten
+  davon_katholisch: ein katholischer Kindergarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 62-oppenheim/065
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Katrin Bibiella
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1964
+  funktion: Kirchenmusikerin, Autorin
+  taetigkeitsort: Katharinenkirche Oppenheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 62-oppenheim/066
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ralf Bibiella
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1964
+  funktion: Kirchenmusiker
+  taetigkeitsort: Katharinenkirche Oppenheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 62-oppenheim/067
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Pia Schellhammer
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1985
+  funktion: Politikerin, MdL
+  aufwuchs: Oppenheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 62-oppenheim/068
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Susanne Nett
+QUELLE: https://de.wikipedia.org/wiki/Oppenheim | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1974
+  titel: Deutsche Weinkönigin
+  amtszeit_weinkoenigin: 1998/1999
+  aufwuchs: Oppenheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

@@ -1,0 +1,411 @@
+ENTITÄT: ort
+BEZEICHNUNG: Ingelheim
+QUELLE: https://www.ingelheim.de/leben-freizeit/kultur-und-tourismus/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung_historisch: europaweiter historischer und kultureller Bedeutung
+VERTRAUEN_EXTRAKTION: 0.9
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: kaiserpfalz
+BEZEICHNUNG: Kaiserpfalz Ingelheim
+ORTSTEIL_BEZUG: Nieder-Ingelheim
+QUELLE: https://www.ingelheim.de/leben-freizeit/kultur-und-tourismus/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Karl der Große
+  erbauer_lebensdaten: 748-814
+  bauzeit: vor 788
+VERTRAUEN_EXTRAKTION: 0.95
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Reichsversammlung und Entmachtung Tassilos III.
+ORTSTEIL_BEZUG: Nieder-Ingelheim
+QUELLE: https://www.ingelheim.de/leben-freizeit/kultur-und-tourismus/sehenswuerdigkeiten/ | Gemeinde-Webseite
+GUELTIG_AB: 788
+EIGENSCHAFTEN:
+  veranstalter: Karl der Große
+  ort_veranstaltung: Kaiserpfalz Ingelheim
+  ereignis: Entmachtung und Verurteilung des Bayernherzogs Tassilo III.
+VERTRAUEN_EXTRAKTION: 0.95
+IST_VERMUTLICH_AKTUELL: false
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Absetzung Kaiser Heinrichs IV.
+QUELLE: https://www.ingelheim.de/leben-freizeit/kultur-und-tourismus/sehenswuerdigkeiten/ | Gemeinde-Webseite
+GUELTIG_AB: 1107
+EIGENSCHAFTEN:
+  ereignis: Heinrich IV. von seinem Sohn als Kaiser abgesetzt
+  ort_ereignis: Kaiserpfalz Ingelheim
+VERTRAUEN_EXTRAKTION: 0.75
+IST_VERMUTLICH_AKTUELL: false
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Burgkirche
+ORTSTEIL_BEZUG: Ober-Ingelheim
+QUELLE: https://www.ingelheim.de/leben-freizeit/kultur-und-tourismus/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  ehemalige_bezeichnung: St. Wigbert
+  typ_wehrkirche: Wehrkirchenanlage
+  architektur: gestaffelte Verteidigungsringe als Kern einstiger Ortsbefestigung
+  bauplatz_ursprung: uralte heidnische Kultstätte
+  superlativ: eine der größten und imposantesten Wehrkirchenanlagen im Westen Deutschlands
+VERTRAUEN_EXTRAKTION: 0.9
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: befestigung
+BEZEICHNUNG: Wehrmauer
+ORTSTEIL_BEZUG: Ober-Ingelheim
+QUELLE: https://www.ingelheim.de/leben-freizeit/kultur-und-tourismus/sehenswuerdigkeiten/ | Gemeinde-Webseite
+GUELTIG_AB: 1415
+EIGENSCHAFTEN:
+  baujahr_vermutlich: frühen 15. Jahrhundert
+  hoehe: 8 m
+  dicke: bis zu 2 m
+  merkmale: Zinnenkranz
+  grabenanlage: Graben mit Bachlauf vorgelagert
+  tore_erhalten: Uffhubtor, Ohrenbrücker Tor
+  turmmerkmale: charakteristische Steinkegeldächer
+VERTRAUEN_EXTRAKTION: 0.85
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Saalkirche
+QUELLE: https://www.ingelheim.de/leben-freizeit/kultur-und-tourismus/sehenswuerdigkeiten/ | Gemeinde-Webseite
+GUELTIG_AB: 1000
+EIGENSCHAFTEN:
+  urspruengliche_funktion: Pfalzkirche
+  baustil_romanisch: kreuzförmiger Saalbau mit weitausladendem Querhaus
+  veraenderungen: mehrere bauliche Veränderungen, vor allem 12. Jahrhundert im Zuge Pfalzbefestigung durch Kaiser Friedrich I. Barbarossa
+  konfession: evangelisch
+  glockenturm: neuromanisch, 1861
+VERTRAUEN_EXTRAKTION: 0.9
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: turm
+BEZEICHNUNG: Bismarckturm
+ORTSTEIL_BEZUG: Westerberg
+QUELLE: https://www.ingelheim.de/leben-freizeit/kultur-und-tourismus/sehenswuerdigkeiten/ | Gemeinde-Webseite
+GUELTIG_AB: 1902
+GUELTIG_BIS: 1912
+EIGENSCHAFTEN:
+  hoehe: 33 m
+  funktion: Aussichtsturm
+  wahrzeichen: von Weitem sichtbares Wahrzeichen
+  bedeutung: Zeugnis der Bismarck-Denkmalsbewegung
+  anlass_denkmalsbewegung: nach Tod des ersten deutschen Reichskanzlers Otto Graf von Bismarck 1898
+  aussicht: weiter Blick über Landschaft bis in Rheingau
+VERTRAUEN_EXTRAKTION: 0.9
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Remigiuskirche
+QUELLE: https://www.ingelheim.de/leben-freizeit/kultur-und-tourismus/sehenswuerdigkeiten/ | Gemeinde-Webseite
+GUELTIG_AB: 600
+EIGENSCHAFTEN:
+  entstehungszeit_vermutlich: Merowingerzeit
+  genauigkeit: vermutlich
+  archaeologische_funde: Taufbecken und Gräberfund
+VERTRAUEN_EXTRAKTION: 0.75
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Museum bei der Kaiserpfalz
+QUELLE: https://www.ingelheim.de/buergerservice/abteilungen/RLP:department:358156/museum-bei-der-kaiserpfalz/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rollstuhlgeeignet: true
+  leitung_museum: Dr. Nicole Nieraad-Schalke
+VERTRAUEN_EXTRAKTION: 0.85
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Heidesheim
+QUELLE: https://www.ingelheim.de/rathaus-politik/stadtteile/heidesheim/ | Gemeinde-Webseite
+GUELTIG_AB: 2019
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Juli 2019
+  einwohner: genauigkeit: "mehr als", wert: 7500
+  ortsteile_umfasst: Heidesheim, Heidenfahrt, Uhlerborn
+VERTRAUEN_EXTRAKTION: 0.95
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Auxonne
+ORTSTEIL_BEZUG: Heidesheim
+QUELLE: https://www.ingelheim.de/rathaus-politik/stadtteile/heidesheim/ | Gemeinde-Webseite
+GUELTIG_AB: 1964
+EIGENSCHAFTEN:
+  stadt: Auxonne
+  land: Frankreich
+  beschreibung: lebendige Partnerschaft
+VERTRAUEN_EXTRAKTION: 0.95
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Egstedt und Waltersleben
+ORTSTEIL_BEZUG: Heidesheim
+QUELLE: https://www.ingelheim.de/rathaus-politik/stadtteile/heidesheim/ | Gemeinde-Webseite
+GUELTIG_AB: 1990
+EIGENSCHAFTEN:
+  staedten: Egstedt und Waltersleben
+  region: Thüringen
+  status_heute: jetzt Stadtteile von Erfurt
+VERTRAUEN_EXTRAKTION: 0.9
+IST_VERMUTLICH_AKTUELL: false
+
+---
+
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Glockenbecherleute-Gräber
+ORTSTEIL_BEZUG: Heidesheim, Weiler Berg, Uhlerborn
+QUELLE: https://www.ingelheim.de/rathaus-politik/stadtteile/heidesheim/ | Gemeinde-Webseite
+GUELTIG_AB: 1912
+EIGENSCHAFTEN:
+  entdeckung_kontext: Anlage eines Munitionsdepots
+  anzahl_graeber: 3
+  funde: triangularer Kupferdolch, Tongefäß
+  ausstellung: Heidesheimer Becher im Landesmuseum Mainz
+VERTRAUEN_EXTRAKTION: 0.85
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Georgskapelle
+ORTSTEIL_BEZUG: Heidesheim
+QUELLE: https://www.ingelheim.de/rathaus-politik/stadtteile/heidesheim/ | Gemeinde-Webseite
+GUELTIG_AB: 600
+GUELTIG_BIS: 1776
+EIGENSCHAFTEN:
+  ursprung_vermutlich: Gutshof (villa rustica) an Römerstraße
+  baujahr_vermutlich: 6. Jahrhundert
+  funktion_frueh: Dorfmittelpunkt bis ins 14. Jahrhundert
+  brand_datum: 8. Dezember 1776
+  wiederaufbau: kurze Zeit nach Brand
+  genauigkeit: vermutlich
+VERTRAUEN_EXTRAKTION: 0.8
+IST_VERMUTLICH_AKTUELL: false
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Dorfkirche Heidesheim
+ORTSTEIL_BEZUG: Heidesheim
+QUELLE: https://www.ingelheim.de/rathaus-politik/stadtteile/heidesheim/ | Gemeinde-Webseite
+GUELTIG_AB: 1800
+EIGENSCHAFTEN:
+  grund_neubau: hochwassergefährdet und mückenverseucht
+  vorgaenger_zeitpunkt: Ende 18. Jahrhundert abgerissen
+  standort_neubau: Hangfläche am Dincberg
+  standort_vermutung: möglicherweise alte germanische Kultstätte
+  turm: wahrscheinlich alter Turm erhalten
+  genauigkeit: vermutlich
+VERTRAUEN_EXTRAKTION: 0.7
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: wirtschaftshof
+BEZEICHNUNG: Sandhof
+ORTSTEIL_BEZUG: Heidesheim
+QUELLE: https://www.ingelheim.de/rathaus-politik/stadtteile/heidesheim/ | Gemeinde-Webseite
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1800
+EIGENSCHAFTEN:
+  erbauer: Kloster Eberbach
+  standort: Sandbach, heute Nähe östliche Autobahnauffahrt
+  besitz_umfang: gutes Drittel der Heidesheimer Gemarkung
+  verwaltung: eigenständig von Eberbach
+  ende_grund: Französische Revolutionsherrschaft
+VERTRAUEN_EXTRAKTION: 0.8
+IST_VERMUTLICH_AKTUELL: false
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Wackernheim
+QUELLE: https://www.ingelheim.de/rathaus-politik/stadtteile/wackernheim/ | Gemeinde-Webseite
+GUELTIG_AB: 2019
+EIGENSCHAFTEN:
+  eingemeindung_datum: 1. Juli 2019
+  einwohner: genauigkeit: "mehr als", wert: 2700
+  lage_geographie: Seitental des Rheins zwischen Rabenkopf und Mainzer Berg
+  hoehenlage: Höhenunterschied über 100 m
+  erste_urkundliche_erwaehnung: 754
+  funktion_ersterwähnung: Weinbaugemeinde
+  namensvariationen_historisch: Vuacharenheim, Vuacharenberg, Wachernheim
+  name_standardisiert_seit: 1200
+  reichsdorf_seit: ca. 900
+  wappen: Reichsadler im goldenen Felde
+  roemische_zeitspuren: Wasserleitungen der Karlsquellen, Sarkophage, alte Mauernzüge, Häuserreste
+  wirtschaft: Obst-, Spargel- und Weinanbau
+  jaehrliches_jubilaeum_2004: 1250 Jahre Bestand
+VERTRAUEN_EXTRAKTION: 0.85
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Roncà
+ORTSTEIL_BEZUG: Wackernheim
+QUELLE: https://www.ingelheim.de/rathaus-politik/stadtteile/wackernheim/ | Gemeinde-Webseite
+GUELTIG_AB: 2000
+EIGENSCHAFTEN:
+  stadt: Roncà
+  land: Italien
+  organisation: Deutsch-Italienischer Freundeskreis Wackernheim-Roncà e.V.
+VERTRAUEN_EXTRAKTION: 0.95
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Daix
+ORTSTEIL_BEZUG: Wackernheim
+QUELLE: https://www.ingelheim.de/rathaus-politik/stadtteile/wackernheim/ | Gemeinde-Webseite
+GUELTIG_AB: 1982
+EIGENSCHAFTEN:
+  stadt: Daix
+  land: Frankreich
+  region_frankreich: Burgund
+  besonderheit: 100. Partnerschaft zwischen Rheinland-Pfalz und Burgund
+  organisation: Partnerschaftskomitee
+VERTRAUEN_EXTRAKTION: 0.95
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Großwinternheim
+QUELLE: https://www.ingelheim.de/rathaus-politik/stadtteile/grosswinternheim/ | Gemeinde-Webseite
+GUELTIG_AB: 1972
+EIGENSCHAFTEN:
+  einwohner: genauigkeit: "ca.", wert: 1400
+  eingemeindung_jahr: 1972
+  grund_eingemeindung: Gebietsreform
+  erste_urkundliche_erwaehnung: 937
+  aelteste_gebaeude: Wach- und Wehrturm der katholischen Kirche (über 1000 Jahre)
+VERTRAUEN_EXTRAKTION: 0.95
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Wach- und Wehrturm
+ORTSTEIL_BEZUG: Großwinternheim
+QUELLE: https://www.ingelheim.de/rathaus-politik/stadtteile/grosswinternheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Wach- und Wehrturm
+  standort: katholische Kirche
+  alter_geschaetzt: über 1000 Jahre
+  superlativ: ältestes Gebäude
+VERTRAUEN_EXTRAKTION: 0.7
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johannes Evangelist
+ORTSTEIL_BEZUG: Großwinternheim
+QUELLE: https://www.ingelheim.de/rathaus-politik/stadtteile/grosswinternheim/ | Gemeinde-Webseite
+GUELTIG_AB: 1700
+EIGENSCHAFTEN:
+  konfession: katholisch
+  turm: viergeschossiger romanischer Turm
+  kirchenschiff_baujahr: 17. Jahrhundert
+  besonderheit: Kirchenschiff aus dem 17. Jahrhundert angrenzen an romanischen Turm
+VERTRAUEN_EXTRAKTION: 0.85
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Pfarrkirche
+ORTSTEIL_BEZUG: Großwinternheim
+QUELLE: https://www.ingelheim.de/rathaus-politik/stadtteile/grosswinternheim/ | Gemeinde-Webseite
+GUELTIG_AB: 1750
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  baujahr_ungefaehr: späte 18. Jahrhundert
+  baustil: neuromanischer Stil
+  beiname_oertlich: Selztaldom
+VERTRAUEN_EXTRAKTION: 0.8
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: befestigung
+BEZEICHNUNG: Ringmauer
+ORTSTEIL_BEZUG: Großwinternheim
+QUELLE: https://www.ingelheim.de/rathaus-politik/stadtteile/grosswinternheim/ | Gemeinde-Webseite
+GUELTIG_AB: 1400
+EIGENSCHAFTEN:
+  baujahr_ungefaehr: 14. Jahrhundert
+  typ: Ringmauer
+  erhaltungszustand: nur wenige Reste vorhanden
+VERTRAUEN_EXTRAKTION: 0.75
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: naturkatastrophe
+ORTSTEIL_BEZUG: Großwinternheim
+QUELLE: https://www.ingelheim.de/rathaus-politik/stadtteile/grosswinternheim/ | Gemeinde-Webseite
+GUELTIG_AB: 1730
+GUELTIG_BIS: 1876
+EIGENSCHAFTEN:
+  ereignisse: Flutkatastrophen 1730 und 1876
+  folge: Verwüstung von Ortsteilen, Flutgraben an nördlicher Ortslage entstand, Tiefe: fast 10 m
+VERTRAUEN_EXTRAKTION: 0.9
+IST_VERMUTLICH_AKTUELL: false
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Turnverein
+ORTSTEIL_BEZUG: Großwinternheim
+QUELLE: https://www.ingelheim.de/rathaus-politik/stadtteile/grosswinternheim/ | Gemeinde-Webseite
+GUELTIG_AB: 1861
+EIGENSCHAFTEN:
+  gruendungsjahr: 1861
+  mitglieder: über 500
+  infrastruktur: eigene Turnhalle
+  superlativ: ältester und mitgliederstärkster Verein
+VERTRAUEN_EXTRAKTION: 0.9
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Ingelheim
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/ingelheim.html | Landesportal
+EIGENSCHAFTEN:
+  faustkeilfunde: vor ca. 50000 Jahren
+  siedlungsspuren_kontinuierlich_seit: Jungsteinzeit
+  siedlungsstandort: fruchtbare Hänge
+VERTRAUEN_EXTRAKTION: 0.85
+IST_VERMUTLICH_AKTUELL: true

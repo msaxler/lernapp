@@ -1,0 +1,44 @@
+Orte: 59-rhens 60-ingelheim 61-nierstein 62-oppenheim 63-frankenthal 64-ruesselsheim
+== Extraktion (Haiku) 08:16:19
+64-ruesselsheim      extraktion ein  43936  aus  15773   0.15 USD   148 s  claude-haiku-4-5-20251001
+59-rhens             extraktion ein  21291  aus  10185   0.08 USD    83 s  claude-haiku-4-5-20251001
+60-ingelheim         extraktion ein  22431  aus  15433   0.11 USD   146 s  claude-haiku-4-5-20251001
+61-nierstein         extraktion ein  26238  aus  24236   0.16 USD   219 s  claude-haiku-4-5-20251001
+62-oppenheim         extraktion ein  30282  aus  12992   0.11 USD   122 s  claude-haiku-4-5-20251001
+63-frankenthal       extraktion ein  59793  aus   9745   0.15 USD    90 s  claude-haiku-4-5-20251001
+zusammen: 2887 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+64-ruesselsheim    35264 Zeichen
+59-rhens            7496 Zeichen
+60-ingelheim       17044 Zeichen
+61-nierstein       30606 Zeichen
+62-oppenheim       34098 Zeichen
+63-frankenthal     24457 Zeichen
+== Karten (claude-opus-5-5) 08:19:58
+64-ruesselsheim      karten     ein  48051  aus  33194   0.99 USD   287 s  claude-opus-5-5
+59-rhens             karten     ein  30666  aus  39028   0.97 USD   343 s  claude-opus-5-5
+60-ingelheim         karten     ein  36659  aus  34680   0.93 USD   305 s  claude-opus-5-5
+61-nierstein         karten     ein  44858  aus  34077   0.99 USD   288 s  claude-opus-5-5
+62-oppenheim         karten     ein  47227  aus  32345   0.97 USD   277 s  claude-opus-5-5
+63-frankenthal       karten     ein  41090  aus  35812   0.99 USD   431 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 08:31:46
+64-ruesselsheim      pruefung   ein  50168  aus   6467   0.48 USD    58 s  claude-opus-5-5
+59-rhens             pruefung   ein  40137  aus   9894   0.47 USD    86 s  claude-opus-5-5
+60-ingelheim         pruefung   ein  47897  aus   7061   0.47 USD    62 s  claude-opus-5-5
+61-nierstein         pruefung   ein  62196  aus  11179   0.67 USD    99 s  claude-opus-5-5
+62-oppenheim         pruefung   ein  52584  aus   8284   0.53 USD    72 s  claude-opus-5-5
+63-frankenthal       pruefung   ein 104792  aus  11654   1.02 USD   101 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 08:34:24
+64-ruesselsheim      stufe2     ein 340177  aus  10045   0.85 USD   192 s  claude-opus-5-5,claude-haiku-4-5-20251001
+59-rhens             stufe2     ein 297808  aus   7216   0.57 USD   123 s  claude-opus-5-5,claude-haiku-4-5-20251001
+60-ingelheim         FEHLER keine Karte an Stufe 2 – kein Lauf
+61-nierstein         stufe2     ein 170435  aus   5291   0.51 USD    76 s  claude-opus-5-5,claude-haiku-4-5-20251001
+62-oppenheim         stufe2     ein 294261  aus   9432   0.76 USD   125 s  claude-opus-5-5,claude-haiku-4-5-20251001
+63-frankenthal       stufe2     ein 188372  aus   2024   0.32 USD    53 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 08:37:36
+Urteile: {'bestätigt': 413, 'korrigiert': 149, 'unsicher': 23, 'gesperrt': 3} | im Vorrat: 585 Karten an 64 Orten
+iter1    10 Orte, 133 Karten, Tisch-Reihe 4
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     64 Orte, 585 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 763184 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 08:37:37

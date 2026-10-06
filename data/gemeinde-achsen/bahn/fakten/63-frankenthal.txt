@@ -1,0 +1,579 @@
+ID: 63-frankenthal/001
+ENTITÄT: ort
+BEZEICHNUNG: Frankenthal
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwaehnungsjahr: 772
+  ersterwaehnungstext: Franconodale im Lorscher Codex
+  stadtrechtsverleihung: 29. Oktober 1577
+  stadtrechtsverleiher: Pfalzgraf Johann Casimir
+  ist_kreisfreie_stadt_seit: 1920
+GUELTIG_AB: 772
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/002
+ENTITÄT: ort
+QUELLE: https://www.regionalgeschichte.net/pfalz/frankenthal.html | Landesportal
+EIGENSCHAFTEN:
+  namensherkunft: fränkische Gründung, Siedlung der Franken ab 6. Jahrhundert als Namensgeber
+  siedlung_franken_ab_jahr: 6. Jahrhundert
+  genauigkeit_siedlung: ca.
+GUELTIG_AB: 600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 63-frankenthal/003
+ENTITÄT: ort
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_18jh: dritte Hauptstadt der Kurpfalz
+  funktion_industrie: Industriehauptstadt der Pfalz
+GUELTIG_AB: 1748
+GUELTIG_BIS: 1778
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/004
+ENTITÄT: ort
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/80-jahre-kriegsende/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  befreiung_durch_amerikanische_truppen: 21. März 1945
+  militarische_verwaltung_ab: 6. Juli 1945
+  verwaltungsmacht_ab_juli: Frankreich
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/005
+ENTITÄT: kirche
+BEZEICHNUNG: Heilige Dreifaltigkeit
+ORTSTEIL_BEZUG: Hauptort (Rathausplatz)
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/denkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: katholische Pfarrkirche
+  baustil: barock
+  jahrh: 18. Jahrhundert
+GUELTIG_AB: 1732
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Maria Magdalena
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/denkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Basilika (dreischiffig)
+  herkunft_zeitraum: 12. Jahrhundert
+  gehoerte_zu: Augustinerchorherrenstift
+  heutiger_name: Erkenbertruine
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/007
+ENTITÄT: kirche
+BEZEICHNUNG: Zwölf-Apostel-Kirche
+QUELLE: https://www.regionalgeschichte.net/pfalz/frankenthal.html | Landesportal
+EIGENSCHAFTEN:
+  fraeherer_name: Große protestantische Pfarrkirche
+  konfession: protestantisch
+  einweihung: 1823
+GUELTIG_AB: 1823
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/008
+ENTITÄT: kirche
+BEZEICHNUNG: Synagoge
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/juden-in-frankenthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1885
+  anzuendung_durch_nationalsozialisten: November 1938
+  zerstoerung_durch_luftangriff: 1943
+  abriss: Anfang 1950er Jahre
+  lage: Ecke Synagogengasse/Glockengasse
+GUELTIG_AB: 1885
+GUELTIG_BIS: 1950
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/009
+ENTITÄT: kloster
+BEZEICHNUNG: Augustinerchorherrenstift Sancta Maria Magdalena Frankenthal
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundsteinlegung: 25. April 1119
+  geist: Augustinerchorherren
+  founder: Erkenbert (Wormser Adeliger)
+  scriptorium_bedeutung: bedeutend
+  manuskripte_fragmente_erhalten: 30
+  aufhebung: 1562
+  grund_aufhebung: Auflösung durch Kurfürst Friedrich III.
+GUELTIG_AB: 1119
+GUELTIG_BIS: 1562
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/010
+ENTITÄT: handschrift
+BEZEICHNUNG: Frankenthaler Bibel
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstellung_ort: Augustinerchorherrenstift Frankenthal
+  erstellung_jahr: 1148
+  sprache: Latein
+  format: zwei große Folianten ca. 53 x 35 cm
+  rang: eines der hervorragendsten Erzeugnisse des Scriptoriums
+  superlativ: ältestes noch existierendes Kultgerät aus Wormser Gemeinde (teilweise)
+  aufbewahrungsort_seit_1753: Bibliothek des Britischen Museums
+GUELTIG_AB: 1148
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/011
+ENTITÄT: manufaktur
+BEZEICHNUNG: Porzellanmanufaktur Frankenthal
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/frankenthaler-porzellan/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 26. Mai 1755
+  gruender: Paul Anton Hannong
+  erste_leiter: Karl Hannong (Sohn)
+  zweiter_leiter: Joseph Adam Hannong (Bruder)
+  uebernahme_durch_kurfuerst: 1. Februar 1762
+  kurfuerst: Carl Theodor
+  kaufpreis: 36.091 Gulden
+  state_verwaltung_ab: 1762
+  direktor_ab_1775: Simon Feylner
+  modellmeister_ab_1779: Johann Peter Melchior
+  ende: 1799-1800
+  grund_ende: wirtschaftliche Krise, Revolutionskriege 1794
+GUELTIG_AB: 1755
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/012
+ENTITÄT: stadttor
+BEZEICHNUNG: Wormser Tor
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1770-1772
+  baustil: Triumphbogenartiger Bau aus unverputzten Sandsteinquadern
+  funktion_urspruenglich: militärische Funktion
+  lage_urspruenglich: nördlicher Rand der Stadt
+  lage_heute: nördlicher Abschluss der Innenstadt
+  status: Wahrzeichen der Stadt
+GUELTIG_AB: 1772
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/013
+ENTITÄT: stadttor
+BEZEICHNUNG: Speyerer Tor
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1772-1773
+  architekt: Nicolas de Pigage (kurpfälzischer Oberbaudirektor)
+  status: Wahrzeichen der Stadt
+  offizielle_logo_vorlage: diente als Vorlage für offizielle Logo der Stadt
+GUELTIG_AB: 1773
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 63-frankenthal/014
+ENTITÄT: rathaus
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau: 1756-1758
+GUELTIG_AB: 1758
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 63-frankenthal/015
+ENTITÄT: museum
+BEZEICHNUNG: Erkenbert-Museum
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/denkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 23. Juli 1893
+  wiedereroeffnung_nach_umbau: 1914
+  bauumbauzeitraum: 1907-1914
+  lage: Klosterruine (Erkenbertruine)
+  sammlung: Porzellansammlung, Kunstgeschichte, Kulturgeschichte
+  zeitraum_dauerausstellung: 1.500 Jahre Kunst und Kulturgeschichte der Stadt Frankenthal
+GUELTIG_AB: 1893
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/016
+ENTITÄT: kanal
+BEZEICHNUNG: Johann-Casimir-Kanal
+QUELLE: https://www.regionalgeschichte.net/pfalz/frankenthal.html | Landesportal
+EIGENSCHAFTEN:
+  zweck: Verbindung zum Rhein
+  baubeginn: 1580
+  regelung_stadtrechte: Bau war in Stadtrechtsurkunde festgeschrieben
+GUELTIG_AB: 1580
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 63-frankenthal/017
+ENTITÄT: kanal
+BEZEICHNUNG: Rheinkanal
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlage: 1770er Jahre
+  nutzungsdauer: bis ins 20. Jahrhundert
+GUELTIG_AB: 1770
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 63-frankenthal/018
+ENTITÄT: verkehrsdenkmal
+BEZEICHNUNG: ICE Frankenthal
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/anekdoten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: ICE 1 (erste Generation)
+  inbetriebnahme: 1991
+  laenge: 358 m
+  maximalgeschwindigkeit: 328 km/h
+  wert: 25 Mio. €
+  sitzplaetze: ca. 680
+  strecke: überwiegend München – Mannheim – Berlin
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/019
+ENTITÄT: verkehrsdenkmal
+BEZEICHNUNG: Airbus A319 Frankenthal
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/anekdoten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Lufthansa Airbus A319
+  taufdatum: 15. Juli 2013
+  kennzeichen: D-AIBI
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/020
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hans Carste
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/anekdoten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 1909 in Frankenthal
+  tod: 1971 in Bad Wiessee
+  profession: Komponist
+  hauptwerk: Erkennungsmelodie der Tagesschau (6 Töne, seit 1957)
+  tantiemen_jährlich: bis zu 100.000 DM (ca. 50.000 €) pro Jahr
+GUELTIG_AB: 1909
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 63-frankenthal/021
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Arnold Fanck
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/frankenthaler-koepfe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 1889 in Frankenthal
+  tod: 1974 in Freiburg i. Breisgau
+  profession: Filmregisseur und Produzent
+  genre_spezialisierung: Sport-, Berg- und Naturfilm-Pionier
+  bekannteste_filme: SOS Eisberg (1933), Die weiße Hölle vom Piz Palü (1928)
+  entdeckte_schauspieler: Luis Trenker, Brigitte Horney, Leni Riefenstahl
+GUELTIG_AB: 1889
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/022
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Philipp Becker
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/frankenthaler-koepfe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 20. März 1809 in Frankenthal
+  tod: 7. Dezember 1886 in Genf
+  profession: Politiker, Bürstenmacher
+  aktivitaet: Radikaldemokrat, Revolutionsgeneral, Pionier der Arbeiterbewegung
+GUELTIG_AB: 1809
+GUELTIG_BIS: 1886
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/023
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Erkenbert (Eckenbert)
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Wormser Adel
+  position: Ministerialer des Wormser Bischofs Burchard II.
+  grundung_stift: 25. April 1119
+  stift_name: Augustinerchorherrenstift Sancta Maria Magdalena
+  anlass_gruendung: geht auf eigenem Grund zurück
+  status: Keimzelle der heutigen Stadt Frankenthal
+GUELTIG_AB: 1119
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/024
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gillis van Coninxloo
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/frankenthaler-koepfe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 24. Januar 1544 in Antwerpen
+  tod: 4. Januar 1607 in Amsterdam
+  profession: Maler
+  malerausbildung_ort: Paris, Orléans
+  residenz_frankenthal: 1587-1595
+  schule: Teil der Frankenthaler Malerschule
+GUELTIG_AB: 1544
+GUELTIG_BIS: 1607
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/025
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Petrus Dathenus
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Flämischer Glaubensflüchtling
+  religionszugehoerigkeit: reformiert
+  funktion: Führer der flämischen Glaubensflüchtlinge
+  ansiedlung: nach 1562 in Frankenthal
+  rolle_1571: Sprecher der reformierten Seite bei den Frankenthaler Religionsgesprächen
+  position_spaeter: Hofprediger
+  erinnerungsbau: Dathenushaus
+GUELTIG_AB: 1562
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 63-frankenthal/026
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Emil Rosenberg
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/juden-in-frankenthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 1889 in Osann bei Trier
+  tod: 10. August 1942 in Auschwitz
+  profession: Jurist, Staatsanwalt, Amtsrichter
+  staerke_maerz_1933: Eintritt zum Landgerichtsrat
+  schicksal_april_1933: Eintritt vorzeitiger Ruhestand
+  deportation: 22. Oktober 1940 in Camp de Gurs
+  todesort: Auschwitz
+GUELTIG_AB: 1889
+GUELTIG_BIS: 1942
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/027
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ernst Rahlson
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/juden-in-frankenthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: 1871 in Berlin
+  tod: 17. Januar 1944 in Theresienstadt
+  profession: Arzt, Augenarzt
+  ansiedlung_frankenthal: 1898
+  praxistaeigkeit_in_frankenthal: 1898-1938
+  haus_verkauf_zwang: 1938, Verkaufspreis 45.000 Reichsmark (davon nur 20.000 RM ausbezahlt)
+  deportation: 11. Januar 1944 nach Theresienstadt
+GUELTIG_AB: 1871
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/028
+ENTITÄT: zunft
+BEZEICHNUNG: Zunft der Tuchmacher
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: seit 1581
+  anlass: Folge der Stadtrechtsverleihe 1577
+GUELTIG_AB: 1581
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 63-frankenthal/029
+ENTITÄT: zunft
+BEZEICHNUNG: Zunft der Weber
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ordnung_und_privilegien: 1586
+  privileg: Zollfreiheit auf den Messen
+GUELTIG_AB: 1586
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 63-frankenthal/030
+ENTITÄT: handwerk
+BEZEICHNUNG: Goldschmiedemanufaktur
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahrh: nach 1577
+  anlass: flämische Glaubensflüchtlinge
+  notabler_handwerker: Silberschmied (1609), Fertiger des Pokals der Beerdigungsbruderschaft der Jüdischen Gemeinde Worms
+GUELTIG_AB: 1577
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 63-frankenthal/031
+ENTITÄT: malerschule
+BEZEICHNUNG: Frankenthaler Malerschule
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: nach 1577 durch flämische Künstler
+  bekanntheit: über die Grenzen der Pfalz hinaus bekannt
+  bekannteste_vertreter: Gillis van Coninxloo, Anton Mirou, Pieter Schoubroeck, Henrick Gijsmans, Hendrick van der Borcht d.Ä.
+GUELTIG_AB: 1577
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 63-frankenthal/032
+ENTITÄT: kulturdenkmael
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/denkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gesamtanzahl: ca. 170
+  unterschutzstellung_zeitraum: größtenteils 1980er Jahre
+  grund_unterschutzstellung: Folge von Verlusterfahrung durch Weltkriege und Stadterneuerungen
+  verteilung: meisten im Stadtgebiet, weitere in Vororten Eppstein, Flomersheim, Mörsch, Studernheim
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/033
+ENTITÄT: platz
+BEZEICHNUNG: Konrad-Adenauer-Platz
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/denkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fruehere_namen: Saarbrücker Platz, Ludendorffplatz (zur Zeit des Nationalsozialismus)
+  anlage: parkartig, im Zentrum vertieft
+  bebauung: Zeilenbebauung auf drei Seiten
+  zeitraum_bebauung: 1920er Jahre
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 63-frankenthal/034
+ENTITÄT: platz
+BEZEICHNUNG: Beethovenplatz
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/denkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Verkehrsmittelpunkt des Stadtviertels Lauterecken
+  bebauung: neoklassizistischer Stil, dreigeschossig (einzigartig in Lauterecken)
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 63-frankenthal/035
+ENTITÄT: platz
+BEZEICHNUNG: Bei den vier Ulmen
+ORTSTEIL_BEZUG: Stadtteil Lauterecken
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/denkmaeler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fruehere_baeume: vier Ulmen (später ersetzt durch Gingko-Bäume)
+  brunnen_bezeichnung: Rotkäppchenbrunnen
+  brunnen_schoepfer: Rudolf Henn
+  brunnen_jahr: 1922
+  brunnen_motiv: maerchenhaft, volkstümlich
+  benannt_nach_ursprung: möglicherweise nach historischer Umbenennung (Adam-Drays-Platz 1940, umbenannt nach Skandal)
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 63-frankenthal/036
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Religionsgespräch Frankenthal
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1571
+  initiator: Kurfürst Friedrich III.
+  teilnehmer: Täufer und Reformierte
+  bedeutung: eine der wichtigsten religionspolitischen Maßnahmen in der reformierten Kurpfalz
+  ergebnis: ohne Ergebnis geblieben
+  auswirkung: überregionale Wirkung auf obrigkeitlichen Umgang mit freikirchlichen Gruppierungen
+GUELTIG_AB: 1571
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/037
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Belagerung und Niedergebranntsein Frankenthals
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1689
+  grund: Pfälzischer Erbfolgekrieg
+  angreifer: französische Truppen
+  ausmaß: kompletter Niedergebranntsein
+  wiederaufbau: nur schleppend verlaufen
+GUELTIG_AB: 1689
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/038
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Luftangriffe im Zweiten Weltkrieg
+QUELLE: https://www.regionalgeschichte.net/pfalz/frankenthal.html | Landesportal
+EIGENSCHAFTEN:
+  erster_angriff_datum: 23. September 1943
+  erster_angriff_schaeden: große Teile der Innenstadt zerstört
+  zweiter_angriff_datum: 8. September 1944
+  zweiter_angriff_schaeden: ca. 30% der Innenstadt zerstört
+GUELTIG_AB: 1943
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/039
+ENTITÄT: eingemeindet_ort
+BEZEICHNUNG: Flomersheim
+QUELLE: https://www.regionalgeschichte.net/pfalz/frankenthal.html | Landesportal
+EIGENSCHAFTEN:
+  eingemeindet_datum: 1919
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/040
+ENTITÄT: eingemeindet_ort
+BEZEICHNUNG: Mörsch
+QUELLE: https://www.regionalgeschichte.net/pfalz/frankenthal.html | Landesportal
+EIGENSCHAFTEN:
+  eingemeindet_datum: 1919
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/041
+ENTITÄT: eingemeindet_ort
+BEZEICHNUNG: Studernheim
+QUELLE: https://www.regionalgeschichte.net/pfalz/frankenthal.html | Landesportal
+EIGENSCHAFTEN:
+  eingemeindet_datum: 1919
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/042
+ENTITÄT: eingemeindet_ort
+BEZEICHNUNG: Eppstein
+QUELLE: https://www.regionalgeschichte.net/pfalz/frankenthal.html | Landesportal
+EIGENSCHAFTEN:
+  eingemeindet_datum: 7. Juni 1967
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 63-frankenthal/043
+ENTITÄT: archiv
+BEZEICHNUNG: Stadtarchiv Frankenthal
+QUELLE: https://www.frankenthal.de/stadt-frankenthal/de/kultur/stadtportraet/stadtgeschichte/stadtarchiv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestaende_start: ab Stadtgründung 16. Jahrhundert
+  ratsprotokolle_ab: 1572 nahezu lückenlos
+  kirchenbuecher: 1565-1801 (mit einzelnen Lücken)
+  digitalisate_zahl: über 100.000
+  recherchemoeglichkeit: online via Archivportal-D
+GUELTIG_AB: 1572
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

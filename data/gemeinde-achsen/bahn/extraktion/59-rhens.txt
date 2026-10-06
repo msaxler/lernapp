@@ -1,0 +1,106 @@
+ENTITÄT: ort
+BEZEICHNUNG: Rhens
+ORTSTEIL_BEZUG: (nicht anwendbar)
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rhens.html | Landesportal
+EIGENSCHAFTEN:
+  namensherkunft: gleiche Wurzel wie Flussnamen Rhein (Rhenus)
+  ursprung: keltisch
+  erstmalige_erwähnung: 874 (Form: Renson)
+  schenkung_an: Erzstift Köln
+  schenkung_zeit: 7. Jahrhundert
+  schenkung_von: Dagobert I., Merowingerkönig
+  schenkung_genauigkeit: wahrscheinlich
+  stadtmauer_bauzeit: 1396-1424
+  erstmalige_stadterwaehnung: 1419
+  stadtrechte_zeitraum: 1398-1414
+  verpfaendung_an: Grafen von Katzenelnbogen und Landgrafen von Hessen-Darmstadt
+  verpfaendung_dauer: 1445-1629
+  rekatholisierung_von: Kurköln
+  rekatholisierung_nach: 1629
+  staedtetitel_verloren: 1830
+  status_ab_1830: Teil der preußischen Rheinprovinz
+  kurfuersten_versammlungsort_seit: 1273
+  grenzlage_bedeutung: stieß an vier von sieben Kurfürstentümern (Kurköln, Kurmainz, Kurtrier, Kurpfalz)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: pfarrei
+BEZEICHNUNG: Pfarrei und Kirche Rhens
+ORTSTEIL_BEZUG: (nicht anwendbar)
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rhens.html | Landesportal
+EIGENSCHAFTEN:
+  uebernahme_von: Erzstift Köln
+  uebernahme_an: Ursulastift
+  uebernahme_jahr: 945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Stadtmauer Rhens
+ORTSTEIL_BEZUG: (nicht anwendbar)
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rhens.html | Landesportal
+EIGENSCHAFTEN:
+  bauzeit: 1396-1424
+GUELTIG_AB: 1396
+GUELTIG_BIS: 1424
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verband
+BEZEICHNUNG: Churverein zu Rhense
+ORTSTEIL_BEZUG: (nicht anwendbar)
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rhens.html | Landesportal
+EIGENSCHAFTEN:
+  gruendung_datum: 16. Juli 1338
+  gruendungsort: Nußbaumgarten bei Rhens
+  beteiligte_kurfuerstentümer: Kurköln, Kurmainz, Kurtrier, Kurpfalz (vier von sieben)
+  zweck: Vorbesprechungen und Beschlüsse zur Königswahl
+  kernbeschluss: Königswahl durch Kurfürsten selbst gültig ohne päpstliche Bestätigung
+GUELTIG_AB: 1338
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Königsstuhl Rhens
+ORTSTEIL_BEZUG: (nicht anwendbar)
+QUELLE: https://www.rhens.de/freizeit-und-kultur/ausflugsziele/sehenswürdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: oberhalb der Stadt Rhens an der B9
+  nutzung: Versammlungsort für Kurfürsten-Vorbesprechungen
+  vorbesprechungen_seit: 1273
+  erste_koenigswahl_am_ort: 1346 (Karl IV.)
+  zerstoerung_jahr: 1795
+  zerstoerung_ursache: Napoleonische Kriege
+  abtrag_jahr: 1806
+  wiederaufbau_jahr: 1842
+  wiederaufbau_architekt: Johann Claudius von Lassaulx
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Königsstuhl Rhens
+ORTSTEIL_BEZUG: (nicht anwendbar)
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/rhens.html | Landesportal
+EIGENSCHAFTEN:
+  befehl_zur_errichtung: 1376 von Karl IV.
+  befehl_mit_zustimmung: Kurfürsten
+  errichtungsort: Nußbaumgarten (inter nuces / bei den Nußbäumen)
+  konstruktion: steinernes Gestühl
+  zugesicherte_verguenstigung: Zollfreiheit für Rhenser Bürger
+  erste_urkundliche_erwaehnung: 1. Januar 1398
+  erste_erwaehnung_bestaetigung: König Wenzel bestätigte Zollfreiheit
+  zweite_koenigswahl_am_stuhl: 1400 (Ruprecht von der Pfalz)
+  letzte_koenigswahl_am_stuhl: 1486 (Kaiser Maximilian I.)
+GUELTIG_AB: 1376
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91

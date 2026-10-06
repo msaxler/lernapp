@@ -1,0 +1,50 @@
+{
+ "stufe": "karten",
+ "ort": "62-oppenheim",
+ "prompt": "prompt-karten-v0.8.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 50773,
+ "token_ein": 47227,
+ "token_aus": 32345,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 40327,
+  "cache_read_input_tokens": 6898,
+  "output_tokens": 32345,
+  "output_tokens_details": {
+   "thinking_tokens": 23933
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 40327,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 32345,
+    "cache_read_input_tokens": 6898,
+    "cache_creation_input_tokens": 40327,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 40327
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.9709036000000001,
+ "sekunden": 277,
+ "fehler": false,
+ "zeit": "2026-10-06T08:24:35"
+}

@@ -1,0 +1,904 @@
+ID: 64-ruesselsheim/001
+ENTITÄT: ort
+BEZEICHNUNG: Rüsselsheim am Main
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  früherer_name: Rüsselsheim
+  gueltig_bis_frueherer_name: 2015
+  gueltig_ab_neuer_name: 2015
+  grund_namenszusatz: positive Besetzung des Mains als Natur-, Freizeit- und Wirtschaftsfaktor
+  einwohner: 67000
+  genauigkeit: ca.
+  superlativ: größte Stadt des Landkreises Groß-Gerau
+  rang_hessen: zehntgrößte Stadt
+  lage: zwischen Frankfurt am Main und Mainz, am Unterlauf des Mains
+  ist_sonderstatusstadt_hessen: true
+  ist_teil_stadtregion_frankfurt: true
+  ist_kreisstadt: false
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 64-ruesselsheim/002
+ENTITÄT: stadtteil
+BEZEICHNUNG: Haßloch
+ORTSTEIL_BEZUG: Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  lage: östlich der Kernstadt
+  eingemeindung_datum: 1951-04-01
+  einwohner_bei_eingemeindung: 737
+  einwohner_heute: ca. 7700
+GUELTIG_AB: 1951
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/003
+ENTITÄT: stadtteil
+BEZEICHNUNG: Königstädten
+ORTSTEIL_BEZUG: Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  lage: Südosten der Kernstadt
+  eingemeindung_datum: 1956-07-01
+  einwohner_bei_eingemeindung: 2537
+  einwohner_heute: ca. 10100
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/004
+ENTITÄT: stadtteil
+BEZEICHNUNG: Bauschheim
+ORTSTEIL_BEZUG: Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  lage: Südwesten der Kernstadt
+  eingemeindung_datum: 1970-05-01
+  einwohner_bei_eingemeindung: 2874
+  einwohner_heute: ca. 6100
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/005
+ENTITÄT: stadtteil
+BEZEICHNUNG: Rüsselsheimer Wald
+ORTSTEIL_BEZUG: Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  lage: östlich von Haßloch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/006
+ENTITÄT: unternehmen
+BEZEICHNUNG: Opel (Adam Opel AG)
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  branche: Automobilhersteller
+  gruendungsjahr: 1862
+  gruender: Adam Opel
+  gruendungsort: Rüsselsheim
+  urspruengliches_produkt: Nähmaschinen
+  produktumstellung_1: Fahrräder
+  gueltig_ab_fahrraedern: 1886
+  historischer_rang_fahrraedern: zeitweise größter Fahrradhersteller der Welt
+  erste_auto_hergestellt: 1898
+  verkauft_an_um: 1920er Jahre
+  neuer_eigentuemer: General Motors
+  gueltig_bis_gm_alleineigentuemer: 2017
+  eigentuemer_seit_august_2017: Stellantis
+  arbeitsplaetze_1978: 42000 bei 50000 Gesamtarbeitsplätzen
+  arbeitsplaetze_2016: 14000
+  davon_itez: ca. 7400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 64-ruesselsheim/007
+ENTITÄT: person
+BEZEICHNUNG: Adam Opel
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  beruf_lehrling: Schlosserlehrling
+  ausbildungsort: Paris, namhafter Nähmaschinenhersteller
+  gruendung: Nähmaschinen-Manufaktur 1862 im Stall seines Onkels in Rüsselsheim
+  uebernahme_soenhe_ab: Fahrrad-Produktion ab 1886 durch Söhne
+  todesjahr: 1895
+  todesursache: Typhus auf Geschäftsreise erworben
+  soenhe_anzahl: fünf
+  soenhe_eigenschaft: allesamt erfolgreiche Radsportler
+  gattin: Sophie
+GUELTIG_BIS: 1895
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 64-ruesselsheim/008
+ENTITÄT: person
+BEZEICHNUNG: Patrick Burghardt
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  amt: Oberbürgermeister
+  partei: CDU
+  amtsantritt_aktuell: 2024-01-01
+  amtszeit_aktuell: 2024-2029
+  amtsantritt_fruehr: 2012
+  amtszeit_fruehr: 2012-2017
+  wahlbeteiligung_stichwahl_2023: 32.41 Prozent
+  stimmenanteil_stichwahl_2023: 50.81 Prozent
+  wahldatum_stichwahl: 2023-07-16
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 64-ruesselsheim/009
+ENTITÄT: ort
+BEZEICHNUNG: Seilfurt
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  lage: grenzte westlich an Rüsselsheim
+  zerstoerung_durch: Blitzschlag
+  zerstoerung_jahr: 1534
+  folge_zerstoerung: Einwohner schlossen sich Rüsselsheim an
+  hatte_kirche: true
+  war_pfarrei: true
+  rang_kirche: eigene Kirche vor Haßloch
+  bezug_wappen_rüsselsheim: zwei Sterne im Wappen stehen vermutlich für Seilfurt und Rüsselsheim sowie deren Zusammenschluss
+GUELTIG_BIS: 1534
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/010
+ENTITÄT: bau
+BEZEICHNUNG: Festung Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: Burg am Main
+  erbauer_vermutet: Wilhelm III
+  erbauer_jahr_vermutet: um 1492
+  ausbau_zu_festung: Philipp der Großmütige
+  ausbau_periode: vermutlich 1530-1540
+  grund_ausbau: Aufrüstung Schmalkaldischer Krieg
+  geschleift: 1547
+  grund_schleifung: Anordnung Kaiser Karl V. nach Niederlage im Schmalkaldischen Krieg
+  wiederhergestellt: ca. 1560
+  militaerischer_status_30jaehriger_krieg: militärisch uneinnehmbar
+  gesprengt_enddatum: 1689
+  grund_sprengung: französischer Abzug nach Pfälzischem Erbfolgekrieg
+  museum_seit: 1976
+  beherbergt_heute: historisches Museum
+  weitere_nutzung: Stadtarchiv und Heimatverein
+GUELTIG_BIS: 1689
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/011
+ENTITÄT: kirche
+BEZEICHNUNG: erste Pfarrkirche Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  erbau_jahr: 1514
+  besonderheit: Material (Holz) von Frankfurt am Main erbeten wegen Armut
+GUELTIG_AB: 1514
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 64-ruesselsheim/012
+ENTITÄT: rebsorte
+BEZEICHNUNG: Riesling
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1435 in Rüsselsheim
+  kontext: Rüsselsheimer Kellereirechnung
+  rang: ältester bekannter Nachweis der Rebsorte
+  anbauort: Weinberg südlich der Burg
+  gedaechtnisort: Gedächtnisweinberg an Frankfurter Straße, eingeweiht 1980
+  nachkultivierung: Rheingauer Weinbauverband
+GUELTIG_AB: 1435
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 64-ruesselsheim/013
+ENTITÄT: museum
+BEZEICHNUNG: Stadt- und Industriemuseum Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  location: Festung Rüsselsheim
+  auszeichnung: Museumspreis des Europarates 1979
+  auszeichnung_grund: Ausstellungskonzeption verbindet erstmals Technik-, Industrie- und Sozialgeschichte
+  internationale_beurteilung: gegenwärtig eines der bedeutendsten und einflussreichsten Museen Europas
+  fokus: Entwicklung von Arbeitstechniken und Arbeitsverhältnissen von Vorgeschichte bis Gegenwart
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/014
+ENTITÄT: theater
+BEZEICHNUNG: Stadttheater Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  sitze_parkett_rang: 865
+  theatertyp: Gastspielhaus ohne eigenes Ensemble
+  sparten: Schauspiel, Konzert, Oper, Operette, Musical, Ballett, Tanz
+  architektur_besonderheit: zwei Ellipsen, die sich im oberen Drittel schneiden
+  stadtbildprägung: markantes Gebäude mit großem Einfluss auf Stadtbild
+  nachbargebaeude: Stadtbücherei links daneben
+  fest: Rüsselsheimer Filmtage
+  fest_zeitpunkt: jedes Jahr im Juni
+  fest_besonderheit: einziges deutsches Filmfestival dem Genre satirischer Kurzfilm gewidmet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 64-ruesselsheim/015
+ENTITÄT: gebaeude
+BEZEICHNUNG: Opelvillen
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  lage: Mainufer
+  eigentuemer_ursprung: Firmengründer Opel
+  restaurierung: ja
+  verbindung_architektur: Denkmalschutz und moderne Architektur
+  nutzung: Ausstellungen (Malerei und Fotografie) und Veranstaltungen
+  betreiber_seit: Stiftung Opelvillen
+  kuratorin: Dr. Beate Kemfert (Frankfurter Kunsthistorikerin)
+  fokus: Gegenwartskunst
+  freundeskreis_mitglieder: über 160
+  focus_ausstellung: etabliertes Ausstellungshaus in der Region
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/016
+ENTITÄT: unternehmen
+BEZEICHNUNG: Hyundai/Kia
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  art: Automobilhersteller (koreanisch)
+  standort: Rüsselsheim, Gewerbegebiet Blauer See
+  einrichtung_seit: 2003
+  funktion_technisches_zentrum: Hyundai Motor Europe Technical Center GmbH
+  entwicklung_fokus: europäische Fahrzeugtechnologie
+  entwicklungsschwerpunkte: Dieselaggregate, Fahrwerk und Bremsen, Kunststoffteile, aktive Sicherheitssysteme
+  designcenter_standort: europäisches Designcenter für Marke Hyundai seit 2008
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 64-ruesselsheim/017
+ENTITÄT: unternehmen
+BEZEICHNUNG: EDS (Electronic Data Systems)
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  branche: EDV-Dienstleister und Outsourcing-Unternehmen
+  land_ursprung: Vereinigte Staaten
+  standort: Rüsselsheim (deutsche Zentrale)
+  kauf_durch: Hewlett-Packard
+  kauf_datum: März 2008
+  mitarbeiter_2013: ca. 1200
+  schließung_standort: Ende Januar 2014
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/018
+ENTITÄT: unternehmen
+BEZEICHNUNG: Mitsubishi Motors Deutschland
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  art: Automobilimporteur (Mitsubishi, japanisch)
+  standort_fruehr: anderer Ort
+  rueckkehr_rüsselsheim: April 2011
+  grund_rueckkehr: Rückkehr zu Wurzeln der Unternehmensgeschichte in Deutschland
+  erste_auslieferung: 1977 in Rüsselsheim
+  mitarbeiter_2011: ca. 120
+  standort_2017: Friedberg
+  umzug_2017_mitarbeiter_betroffene: 90
+GUELTIG_AB: 2011
+GUELTIG_BIS: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/019
+ENTITÄT: unternehmen
+BEZEICHNUNG: Chevrolet Deutschland
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  art: Automobilimporteur (Chevrolet, USA)
+  standort: Rüsselsheim, Industriegebiet Hasengrund
+  umzug_nach_rüsselsheim: Juli 2007
+  umzug_von: Bremen
+  grund_umzug: Synergien innerhalb der Mehrmarkenstrategie General-Motors-Konzerns durch Nähe zu Opel
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/020
+ENTITÄT: verkehrslinie
+BEZEICHNUNG: S-Bahn S8
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  strecke: Bahnstrecke Mainz–Frankfurt
+  haltestelle_rüsselsheim: Bahnhof Rüsselsheim und Rüsselsheim-Opelwerk
+  verbindungen: Wiesbaden, Mainz, Hanau, Offenbach, Frankfurt, Flughafen Frankfurt
+  takt_tagsüber: 15 Minuten pro Richtung
+  takt_nachts: stündlich pro Richtung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/021
+ENTITÄT: verkehrslinie
+BEZEICHNUNG: S-Bahn S9
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  strecke: Bahnstrecke Mainz–Frankfurt
+  haltestelle_rüsselsheim: Bahnhof Rüsselsheim und Rüsselsheim-Opelwerk
+  verbindungen: Wiesbaden, Mainz, Hanau, Offenbach, Frankfurt, Flughafen Frankfurt
+  takt_tagsüber: 15 Minuten pro Richtung
+  takt_nachts: stündlich pro Richtung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/022
+ENTITÄT: strasse
+BEZEICHNUNG: Bundesstraße 43
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: von Mainz nach Frankfurt
+  funktion: verbindet südliches Mainufer liegende Orte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/023
+ENTITÄT: bruecke
+BEZEICHNUNG: Opel-Brücke
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  erbau_datum: seit 1928-08-26
+  funktion: Straßenverbindung Rüsselsheim zu Flörsheim
+  lage: über Main
+  abgerissen: 1979
+  ersatz_position: weiter mainaufwärts
+  ersatz_charakteristik: vierstreifig, kreuzungsfrei
+  ersatz_teil_von: Bundesstraße 519
+GUELTIG_BIS: 1979
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/024
+ENTITÄT: hafen
+BEZEICHNUNG: Rüsselsheimer Hafen
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1856
+  kontext_erwaehnung: im Zusammenhang mit Rheinschifffahrts-Assecuranzgesellschaft
+  lage: Main
+GUELTIG_AB: 1856
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 64-ruesselsheim/025
+ENTITÄT: ereignis
+BEZEICHNUNG: Eisenbahnunfall von Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  ereignisdatum: 1990
+  todesfaelle: 17
+  schwer_verletzte: 145
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 64-ruesselsheim/026
+ENTITÄT: ereignis
+BEZEICHNUNG: Umbenennung zu Rüsselsheim am Main
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  ereignisdatum: 2015-07-30
+  grund: positive Besetzung des Mains als Natur-, Freizeit- und Wirtschaftsfaktor
+  genehmigung_durch: Hessisches Ministerium des Innern und für Sport
+  historischer_bezug: Verwendung „a. M." lässt sich historisch belegen
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 64-ruesselsheim/027
+ENTITÄT: ereignis
+BEZEICHNUNG: Hessentag 2017
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  gastgeber_stadt: Rüsselsheim
+  jahr: 2017
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/028
+ENTITÄT: verein
+BEZEICHNUNG: TG 1862 Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  rang: größter Verein Rüsselsheims
+  mitglieder: ca. 3500
+  abteilungen: 12
+  sportarten: 30
+  bundesliga_vertreter: Volleyball und Tanzen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/029
+ENTITÄT: verein
+BEZEICHNUNG: TV 1890 Rüsselsheim-Haßloch
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  rang: zweitgrößter Sportanbieter
+  mitglieder: 1800
+  sportarten: Aerobic, Golf, Fußball, Koronarsport, Leichtathletik, Tennis, Turnen, Segeln, Ski
+  besonderheit: bekannt für Tennis-Hessenliga-Mannschaften und Tennis-Leistungszentrum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/030
+ENTITÄT: verein
+BEZEICHNUNG: TV 1888 Königstädten
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  mitglieder: ca. 1300
+  rang_stadtteil: größter Verein des Stadtteils
+  rang_gesamt: einer der größten Vereine im Stadtgebiet
+  abteilungen: 9
+  angebot_sport: Handball, Volleyball, Turnen, Tanzen, Tennis, Tischtennis, Leichtathletik, Spielmannszug, Freizeitsport
+  zielgruppe: ganze Familie
+ORTSTEIL_BEZUG: Königstädten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/031
+ENTITÄT: verein
+BEZEICHNUNG: SC Opel Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  rang: fünftgrößter Verein Rüsselsheims
+  mitglieder: 520
+  sport: Fußball
+  spielzeit_regionalliga_sued: 1965-1972
+  level_spielzeit: zweiklassig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/032
+ENTITÄT: verein
+BEZEICHNUNG: Rüsselsheimer Ruder-Klub 08 (RRK)
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  rang: viertgrößter Verein Rüsselsheims
+  mitglieder: ca. 630
+  ursprung: Ruderverein
+  bekanntheitsgrund: heute vor allem Hockey
+  geschichte_jahre: mehr als 100 Jahre
+  deutsche_rudermeisterschaften: 28 in verschiedenen Klassen
+  deutsche_hockeymeisterschaften_gesamt: 51
+  davon_damen_herren: 24
+  europacup_gewinne_damen: 18 in Jahren 1991-2006
+  lage_bootshaus: Mainufer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/033
+ENTITÄT: verein
+BEZEICHNUNG: Rüsselsheimer Schwimm Club (RSC)
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1954
+  mitglieder: ca. 330
+  angebot: Schwimmen (Leistungs- und Breitensport), Wasserball, Wassergymnastik
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/034
+ENTITÄT: verein
+BEZEICHNUNG: Rad- u. Motorsport Club (RMSC) Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  tradition: Traditionsverein
+  sport_fokus: Radballsport, RC-Car, Jugendarbeit
+  erfolg_6er_mannschaften: drei Mal Deutscher Meister im 6er Rasenradball
+  rc_car_erfolge: Fahrer in vorderen Rängen der deutschen Spitze, Teilnahmen an Weltmeisterschaften
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/035
+ENTITÄT: verein
+BEZEICHNUNG: Radfahrer-Verein OPEL 1888 Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1888
+  gruendung_initiative: Adam Opel
+  gruendungsunterstuetzer: zwei älteste Söhne von Adam Opel
+  gruendungsmaerz: Monat März
+  historischer_kontext: Söhne Adam Opels (Wilhelm, Carl, Heinrich, Fritz, Ludwig) waren begeisterte Radsportler mit zahlreichen Erfolgen
+  mitglieder_heute: über 120
+  angebot: Radtourenfahren (RTF), Radwandern, Historische Fahrräder (Hoch- und Niederräder)
+  veranstaltung_rtf: jährlich Juni, im Rahmen Breitensportkalender BDR
+  rtf_strecken: 42, 79, 111, 153 km
+  veranstaltung_oldtimer: jährlich Treffen Fahrrad-Oldtimer im Rahmen Opel Classics im Juni an Opelvillen
+GUELTIG_AB: 1888
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/036
+ENTITÄT: verein
+BEZEICHNUNG: 1. SC Breakers Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  rang: größter Snookerclub Hessens
+  mitglieder: ca. 60
+  bundesliga_teilnahme: 1999-2016
+  bundesliga_erfolge: Deutscher Mannschaftsmeister Saisons 1999/2000 und 2006/07
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/037
+ENTITÄT: verein
+BEZEICHNUNG: Sektion Rüsselsheim des Deutschen Alpenvereins
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1953
+  mitglieder: knapp 1400
+  angebot: Wander- und Bergtouren, Klettern
+  hütte_betrieb: Rüsselsheimer Hütte
+  kletterturm: Rüsselsheim-Bauschheim
+  kletterwand: Großsporthalle seit November 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/038
+ENTITÄT: verein
+BEZEICHNUNG: Schachverein Rüsselsheim 1929
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1929
+  veranstaltung_spielabend: jeden Donnerstag
+  ort_spielabend: Gebäude neben Stadttheater
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 64-ruesselsheim/039
+ENTITÄT: kulturverein
+BEZEICHNUNG: sturmfrei e. V.
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 2023
+  festival: Innenstadtfestival Bel R!
+  festival_start: 2023
+  festival_zeitpunkt: Frühsommer
+  festival_beschreibung: niedrigschwellig in gesamter Innenstadt und Landungsplatz, Kunst- und Kulturveranstaltungen
+  podcast: Steilzeit
+  podcast_moderatoren: Christian Bihn und Dr. Stella Lorenz
+  podcast_rhythmus: zweiwöchentlich
+  podcast_inhalt: Gespräche mit Kulturschaffenden und Bürgern
+  podcast_folgen: 60
+  podcast_ende: Anfang 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/040
+ENTITÄT: verein
+BEZEICHNUNG: Förderverein Lesen und lesen lassen e. V.
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1997
+  non_profit: gemeinnütziger Verein
+  projekt: Rüsselsheimer Lesewochen
+  projekt_umfang: ca. 60-70 Autorenlesungen und Schreibwerkstätten
+  projekt_orte: Schulklassen in Rüsselsheim und anderen Städten Kreis Groß-Gerau
+  projekt_vorgaenger: Leseförderungsprojekt seit 1985
+  projekt_partnerschaft: Schulen, Stadtbücherei Rüsselsheim, Unterstützer, Sponsoren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/041
+ENTITÄT: verein
+BEZEICHNUNG: Rüsselsheimer Carneval-Verein 1936
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1936
+  mitglieder: ca. 200
+  rang_kulturelle_vereine: einer der größten kulturellen Vereine
+  brauchtumspflege: Rheinischer und alemannischer Karneval
+  gardetanzsport: Gardetanzsportabteilung
+  guggemusik: Guggemusik Bembeljeescher
+  veranstaltung_gardetag: Internationaler Gardetag
+  gardetag_komponenten: Fackelumzug, Platzkonzert, Fastnachtsumzug, Manöverball
+  gardetag_zeitpunkt: jährlich zweites Wochenende vor Rosenmontag
+  gardetag_besuch: ca. 25000 Zuschauer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/042
+ENTITÄT: verein
+BEZEICHNUNG: Shanty-Chor Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1993
+  ursprung: Segelabteilung TV 1890 Rüsselsheim-Haßloch
+  typ: Männerchor
+  mitglieder: ca. 40
+  aktivitaet: 30 Auftritte pro Jahr
+  musikstil: traditionelles Liedgut der Seeleute (Shanty)
+  sprachen: Deutsch, Plattdütsch, Französisch, Englisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/043
+ENTITÄT: verein
+BEZEICHNUNG: Segel Club Rüsselsheim 03
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 2003
+  ursprung: Segelabteilung TV 1890 Rüsselsheim-Haßloch
+  mitglieder: ca. 100
+  veranstaltung: Hessenregatta auf Ostsee seit Gründung
+  erfolge: Hessencup 2016 und 2017
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/044
+ENTITÄT: verein
+BEZEICHNUNG: Naturfreunde Deutschland, Ortsgruppe Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_ortsgruppe: 1925
+  gruendung_original_wien: 1895
+  besitztum: eigenes Haus hinter Waldschwimmbad
+  funktion_haus: beliebter Treffpunkt für Familien mit Kindern
+  ausstattung: Sinnespfad, großer Spielplatz, Bouleplatz
+  oeffnungszeiten: Sonntags und Mittwochs 14-18 Uhr, im Sommer auch Samstags
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 64-ruesselsheim/045
+ENTITÄT: hochschule
+BEZEICHNUNG: Hochschule RheinMain
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  frueherer_name: FH Wiesbaden
+  standorte: zwei Standorte
+  campus_rüsselsheim: Campus Am Brückweg
+  fachbereich: Ingenieurwissenschaften
+  studenten: 2774 (Stand Sommersemester 2023)
+  studienbereiche: Informationstechnologie und Elektrotechnik, Maschinenbau, Umwelttechnik und Dienstleistung, Physik
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/046
+ENTITÄT: krankenhaus
+BEZEICHNUNG: GPR Klinikum Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  traeger: GPR Gesundheits- und Pflegezentrum Rüsselsheim (gemeinnützige GmbH)
+  gruendungsdatum: 2004-01-01
+  versorgungstyp: Schwerpunktversorgung
+  region_versorgung: westliches Rhein-Main-Gebiet/Mainspitze
+  einzugsgebiet_bevoelkerung: ca. 200000
+  betten_vollstationaer: 503
+  haemodialy_plaetze: sieben
+  operative_tagesklinik: ja
+  kliniken_institute: 17
+  zentren: 12
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/047
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Freiwillige Feuerwehr Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  einsatzmitglieder_ehrenamtlich: knapp 300
+  abteilungen: vier
+  abteilung_standorte: Rüsselsheim-Stadt, Rüsselsheim-Königstädten, Rüsselsheim-Haßloch, Rüsselsheim-Bauschheim
+  unterstuetzung_hauptamtlich: ca. 30 Kräfte
+  feuerwehrhaus_bauschheim: Neubau 2010, Kosten ca. 2 Millionen Euro
+  ausrueckebereiche: Stadtgebiet, Bundesautobahn, Bundeswasserstraße Main, Bahnstrecken, Werkfeuerwehren Opel und Flughafen Frankfurt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/048
+ENTITÄT: sporthalle
+BEZEICHNUNG: Großsporthalle Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  kapazitaet_zuschauer: bis zu 4500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 64-ruesselsheim/049
+ENTITÄT: freizeit
+BEZEICHNUNG: Freizeitbad an der Lache
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  ausbau_erlebnisbad: mit Millionenaufwand ab 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 64-ruesselsheim/050
+ENTITÄT: freizeit
+BEZEICHNUNG: Waldschwimmbad Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  winternutzung: Eislaufen bei ausreichender Eisdicke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 64-ruesselsheim/051
+ENTITÄT: stadion
+BEZEICHNUNG: Stadion am Sommerdamm
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  ausstattung: Rasenplatz mit Tribüne, Hockey-Kunstrasenplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 64-ruesselsheim/052
+ENTITÄT: park
+BEZEICHNUNG: Ostpark
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  lage: zwischen Rüsselsheim-Stadt und Haßloch
+  bedeutung: räumliche Trennung aufgrund Aufschwung Wiederaufbau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 64-ruesselsheim/053
+ENTITÄT: verein
+BEZEICHNUNG: SV Dersim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1989
+  sport: Fußball
+  spielergemeinschaft_mit: VFR Rüsselsheim
+  spielergemeinschaft_jahr: 2018
+  spielklasse_2019: führte Tabelle Kreisoberliga Darmstadt/Groß-Gerau an
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 64-ruesselsheim/054
+ENTITÄT: event
+BEZEICHNUNG: Rüsselsheimer Filmtage
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  ort: Stadttheater Rüsselsheim
+  zeitpunkt: jedes Jahr im Juni
+  besonderheit: einziges deutsches Filmfestival gewidmet Genre satirischer Kurzfilm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/055
+ENTITÄT: kulturzentrum
+BEZEICHNUNG: Das Rind
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  teile: gastronomischer Teil, Partys, Konzertveranstaltungen
+  events: Abschuss, Loveland (Partys), Jazz-Fabrik Rüsselsheim
+  veranstaltungsreihe: Jazzcafé
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 64-ruesselsheim/056
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Évreux
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  partnerschaft_seit: 1961
+  straße_benannt: ja, größere Straße in Rüsselsheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/057
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Rugby
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  land: Vereinigtes Königreich
+  partnerschaft_seit: 1977
+  straße_benannt: ja, größere Straße in Rüsselsheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/058
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Varkaus
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  land: Finnland
+  partnerschaft_seit: 1979
+  straße_benannt: ja, größere Straße in Rüsselsheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/059
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Kecskemét
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  land: Ungarn
+  partnerschaft_seit: 1991
+  straße_benannt: Kecskemet-Allee
+  straße_lage: Wohngebiet Blauer See II, Hauptstraße seit 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 64-ruesselsheim/060
+ENTITÄT: gewerbe
+BEZEICHNUNG: Hasenhaarschneiderei
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  erwaehnung_jahr: 1785
+  kontext: erster Betrieb Frühindustrialisierung in Rüsselsheim
+GUELTIG_AB: 1785
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 64-ruesselsheim/061
+ENTITÄT: gewerbe
+BEZEICHNUNG: Kokosmattenbetrieb
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1861
+  entwicklung_zu: Stöckische Teppichfabrik
+  bestand: bis nach Zweitem Weltkrieg
+GUELTIG_AB: 1861
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 64-ruesselsheim/062
+ENTITÄT: gewerbe
+BEZEICHNUNG: Zichorienfabrik
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1819
+  produkt: Kaffeesurrogat aus Zichorienwurzel
+  rang: ältestes und nach Opel wichtigstes Industrieunternehmen
+  betrieb_ende: 1925
+GUELTIG_AB: 1819
+GUELTIG_BIS: 1925
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/063
+ENTITÄT: media
+BEZEICHNUNG: Rüsselsheimer Echo
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  typ: Tageszeitung, Kopfblatt
+  eigentuemer_fruehr: Medienhaus Südhessen
+  eigentuemer_2015: Mediengruppe Frankfurter Societät
+  eigentuemer_2022: VRM
+  erscheinung_ende: 2022
+  druckzentrum: Gewerbepark Blauer See (gemeinsam mit Main-Spitze seit Mai 2009)
+  heute_redaktion: gleiche Redaktion mit Main-Spitze
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/064
+ENTITÄT: media
+BEZEICHNUNG: Main-Spitze
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  typ: Tageszeitung, Kopfblatt
+  eigentuemer_fruehr: Verlagsgruppe Rhein-Main
+  eigentuemer_2022: VRM
+  erscheinung_seit: vor 2022
+  druckzentrum: Gewerbepark Blauer See (gemeinsam mit Rüsselsheimer Echo seit Mai 2009)
+  heute_redaktion: gleiche Redaktion mit Rüsselsheimer Echo
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 64-ruesselsheim/065
+ENTITÄT: media
+BEZEICHNUNG: Radio Rüsselsheim
+QUELLE: https://de.wikipedia.org/wiki/Rüsselsheim_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  typ: kommunales Radio
+  frequenz: UKW 90.9
+  gebiet: Stadtgebiet Rüsselsheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
