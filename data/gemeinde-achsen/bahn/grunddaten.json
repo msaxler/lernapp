@@ -326,7 +326,18 @@
   "Buchenbach: hoehe_m 447 (Wikidata P2044) gegen 420 (dewiki Infobox)",
   "Hinterzarten: geo.sqlite hat für Kreis 08315 kein Kennzeichen",
   "Titisee-Neustadt: geo.sqlite hat für Kreis 08315 kein Kennzeichen",
-  "Titisee-Neustadt: kfz FR (Wikidata P395) gegen FDS (Altbestand staedte.json)"
+  "Titisee-Neustadt: kfz FR (Wikidata P395) gegen FDS (Altbestand staedte.json)",
+  "Löffingen: Wikidata P131 nennt „Landkreis Hochschwarzwald“ ohne Enddatum, Infobox „Breisgau-Hochschwarzwald“",
+  "Löffingen: geo.sqlite hat für Kreis 08315 kein Kennzeichen",
+  "Löffingen: kfz FR (Wikidata P395) gegen FDS (Altbestand staedte.json)",
+  "Villingen-Schwenningen: kfz VS (Wikidata P395) gegen VN (Altbestand staedte.json)",
+  "Villingen-Schwenningen: kfz VS (Wikidata P395) gegen VN (Altbestand kfz_kennzeichen.csv)",
+  "Villingen-Schwenningen: hoehe_m 704 (Wikidata P2044) gegen 758 (dewiki Infobox)",
+  "Villingen-Schwenningen: hoehe_m 704 (Wikidata P2044) gegen 757 (Altbestand staedte.json)",
+  "Villingen-Schwenningen: hoehe_m 704 (Wikidata P2044) gegen 757 (Altbestand geo.sqlite (GeoNames 2817220))",
+  "Oberndorf am Neckar: kfz RW (Wikidata P395) gegen SIG (Altbestand staedte.json)",
+  "Sulz am Neckar: kfz RW (Wikidata P395) gegen SIG (Altbestand staedte.json)",
+  "Sulz am Neckar: hoehe_m 443 (Wikidata P2044) gegen 300 (Altbestand staedte.json)"
  ],
  "orte": [
   {
@@ -2163,6 +2174,1853 @@
       "wert": [
        "Neustadt in Sachsen",
        "Coulommiers"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "76-loeffingen",
+   "rolle": "ziel",
+   "name": "Löffingen",
+   "einheit": "Stadt",
+   "wikidata": "Q527610",
+   "lat": 47.88389,
+   "lon": 8.34361,
+   "gemeindeschluessel": "08315070",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Breisgau-Hochschwarzwald",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 7589,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 7692,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 7939,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2876461)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 88.02,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 88.02,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 86,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "FDS",
+      "quelle": "Altbestand staedte.json",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 800,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 800,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 801,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 801,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2876461)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 39
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "39 km östlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 117
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Löffingen",
+       "Haltepunkt Bachheim",
+       "Haltepunkt Unadingen"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79843"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "79843"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07654"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 33.3,
+        "AfD": 22.8,
+        "SPD": 12.9,
+        "GRÜNE": 10.6,
+        "FDP": 6.2,
+        "BSW": 5.5
+       },
+       "wahlbeteiligung_prozent": 84.2,
+       "gueltige_zweitstimmen": 4672
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Tobias Link"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-06",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "77-braeunlingen",
+   "rolle": "ziel",
+   "name": "Bräunlingen",
+   "einheit": "Stadt",
+   "wikidata": "Q81779",
+   "lat": 47.92972,
+   "lon": 8.44806,
+   "gemeindeschluessel": "08326006",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Schwarzwald-Baar-Kreis",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 5843,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 5784,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 6141,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2945051)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 62.14,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 62.14,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 94,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "VS",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "VS",
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": "VS",
+      "quelle": "Altbestand geo.sqlite (Kreis 08326)"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 693,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 693,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 694,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 694,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2945051)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 45
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "45 km östlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 109
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Bräunlingen",
+       "Bahnhof Döggingen",
+       "Haltepunkt Bräunlingen Industriegebiet"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "78199"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "78199"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07705",
+       "07707",
+       "0771"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 38.2,
+        "AfD": 20.2,
+        "SPD": 12.7,
+        "GRÜNE": 10.0,
+        "FDP": 6.5
+       },
+       "wahlbeteiligung_prozent": 86.9,
+       "gueltige_zweitstimmen": 3730
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Micha Bächle",
+       "partei": "CDU"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-06",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Bannewitz"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "78-huefingen",
+   "rolle": "ziel",
+   "name": "Hüfingen",
+   "einheit": "Stadt",
+   "wikidata": "Q83132",
+   "lat": 47.92611,
+   "lon": 8.49,
+   "gemeindeschluessel": "08326027",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Schwarzwald-Baar-Kreis",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 8048,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 8060,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 7747,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2898028)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 58.55,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 58.53,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 137,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "VS",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "VS",
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": "VS",
+      "quelle": "Altbestand geo.sqlite (Kreis 08326)"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 684,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 684,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 687,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 687,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2898028)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 48
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "48 km östlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 108
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "78183"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "78183"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0771"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 36.4,
+        "AfD": 23.3,
+        "SPD": 10.2,
+        "GRÜNE": 9.8,
+        "FDP": 5.7,
+        "BSW": 5.5
+       },
+       "wahlbeteiligung_prozent": 84.4,
+       "gueltige_zweitstimmen": 4648
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Patrick Haas"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-06",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Ornans"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "79-donaueschingen",
+   "rolle": "ziel",
+   "name": "Donaueschingen",
+   "einheit": "Stadt",
+   "wikidata": "Q83062",
+   "lat": 47.95306,
+   "lon": 8.50333,
+   "gemeindeschluessel": "08326012",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Schwarzwald-Baar-Kreis",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 21734,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 21790,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 21604,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2936267)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 104.67,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 104.69,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 208,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 677,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 686,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 701,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 701,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2936267)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 49
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "49 km östlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 105
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Donaueschingen",
+       "Bahnhof Wolterdingen (Baden)",
+       "Donaueschingen Allmendshofen",
+       "Donaueschingen Mitte/Siedlung",
+       "Donaueschingen-Aufen",
+       "Donaueschingen-Grüningen"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "78166"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "78166"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0771"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 32.9,
+        "AfD": 25.2,
+        "SPD": 11.3,
+        "GRÜNE": 10.2,
+        "FDP": 6.2,
+        "Die Linke": 5.4
+       },
+       "wahlbeteiligung_prozent": 82.1,
+       "gueltige_zweitstimmen": 12627
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Erik Pauly",
+       "partei": "CDU"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-06",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Saverne",
+       "Vác",
+       "Kaminoyama"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "VS",
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": "VS",
+      "quelle": "Altbestand geo.sqlite (Kreis 08326)"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "80-bad-duerrheim",
+   "rolle": "ziel",
+   "name": "Bad Dürrheim",
+   "einheit": "Stadt",
+   "wikidata": "Q82770",
+   "lat": 48.01667,
+   "lon": 8.53333,
+   "gemeindeschluessel": "08326003",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Schwarzwald-Baar-Kreis",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 13084,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 13149,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 12829,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2953520)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 62.08,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 62.08,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 211,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "VS",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "VS",
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": "VS",
+      "quelle": "Altbestand geo.sqlite (Kreis 08326)"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 730,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 703,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 700,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 700,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2953520)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 51
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "51 km östlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 98
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "78073"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "78073"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07706",
+       "07726"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 35.3,
+        "AfD": 24.9,
+        "SPD": 12.3,
+        "GRÜNE": 8.8,
+        "FDP": 6.4
+       },
+       "wahlbeteiligung_prozent": 81.7,
+       "gueltige_zweitstimmen": 8004
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Jonathan Berggötz",
+       "partei": "CDU"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-06",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Hajdúszoboszló",
+       "Enghien-les-Bains",
+       "Spotorno"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "81-villingen-schwenningen",
+   "rolle": "ziel",
+   "name": "Villingen-Schwenningen",
+   "einheit": "Stadt",
+   "wikidata": "Q3865",
+   "lat": 48.06315,
+   "lon": 8.49296,
+   "gemeindeschluessel": "08326074",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Schwarzwald-Baar-Kreis",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 89766,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 89756,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 81770,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2817220)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 165.5,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 165.53,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 542,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "VS",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "VN",
+      "quelle": "Altbestand staedte.json",
+      "abweichend": true
+     },
+     {
+      "wert": "VS",
+      "quelle": "Altbestand geo.sqlite (Kreis 08326)"
+     },
+     {
+      "wert": "VN",
+      "quelle": "Altbestand kfz_kennzeichen.csv",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 704,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 758,
+      "quelle": "dewiki Infobox",
+      "abweichend": true
+     },
+     {
+      "wert": 757,
+      "quelle": "Altbestand staedte.json",
+      "abweichend": true
+     },
+     {
+      "wert": 757,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2817220)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 48
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "48 km östlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 95
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Villingen (Schwarzwald)",
+       "Haltepunkt Marbach Ost (Villingen-Schwenningen)",
+       "Haltepunkt Villingen-Schwenningen Hammerstatt",
+       "Haltepunkt Zollhaus (Villingen-Schwenningen)",
+       "Marbach West (Villingen-Schwenningen)"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "78048–78056"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "78048",
+       "78050",
+       "78052",
+       "78054",
+       "78056"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07425",
+       "07705",
+       "07720",
+       "07721"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 29.9,
+        "AfD": 26.3,
+        "SPD": 13.5,
+        "GRÜNE": 10.3,
+        "Die Linke": 5.7,
+        "FDP": 5.1,
+        "BSW": 5.0
+       },
+       "wahlbeteiligung_prozent": 79.1,
+       "gueltige_zweitstimmen": 43287
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Jürgen Roth",
+       "partei": "CDU"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-06",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Friedrichsthal",
+       "Pontarlier",
+       "La Valette-du-Var",
+       "Savona",
+       "Zittau"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "82-tuningen",
+   "rolle": "ziel",
+   "name": "Tuningen",
+   "einheit": "Gemeinde",
+   "wikidata": "Q83293",
+   "lat": 48.02667,
+   "lon": 8.60167,
+   "gemeindeschluessel": "08326061",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Schwarzwald-Baar-Kreis",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 3232,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 3050,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2820786)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 15.59,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 207,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "VS",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "VS",
+      "quelle": "Altbestand geo.sqlite (Kreis 08326)"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 743,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 743,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 759,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2820786)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 56
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "56 km östlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 94
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "78609"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "78609"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07464"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 32.2,
+        "AfD": 28.4,
+        "SPD": 10.9,
+        "GRÜNE": 8.6,
+        "FDP": 5.8
+       },
+       "wahlbeteiligung_prozent": 86.7,
+       "gueltige_zweitstimmen": 1973
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Ralf Pahlow {{Internetquelle |url=https://www.schwarzwaelder-bote.de/inhalt.tuningen-ralf-pahlow-mit-91-prozent-zum-buergermeister-gewaehlt.5ec176cf-d725-4c3c-9836-7315483a9da4.html |titel=Ralf Pahlow mit 91 Prozent zum Bürgermeister gewählt |werk=Schwarzwälder Bote |datum=2019-03-31 |abruf=2021-09-09}}",
+       "partei": "CDU"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-06",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Camogli"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "83-rottweil",
+   "rolle": "ziel",
+   "name": "Rottweil",
+   "einheit": "Stadt",
+   "wikidata": "Q82960",
+   "lat": 48.16806,
+   "lon": 8.62472,
+   "gemeindeschluessel": "08325049",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Rottweil",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 25001,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 24985,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 25510,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2843636)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 71.76,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 71.76,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 348,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "RW",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "RW",
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": "RW",
+      "quelle": "Altbestand geo.sqlite (Kreis 08325)"
+     },
+     {
+      "wert": "RW",
+      "quelle": "Altbestand kfz_kennzeichen.csv"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 599,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 607,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 605,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 605,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2843636)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 56
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "56 km südwestlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 80
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Rottweil",
+       "Rottweil Saline",
+       "Rottweil-Göllsdorf",
+       "Rottweil-Neufra"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "78611–78628"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "78628"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "0741"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 32.3,
+        "AfD": 24.0,
+        "SPD": 12.1,
+        "GRÜNE": 11.6,
+        "FDP": 6.2,
+        "Die Linke": 5.3
+       },
+       "wahlbeteiligung_prozent": 81.0,
+       "gueltige_zweitstimmen": 14146
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Christian Ruf",
+       "partei": "CDU"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-06",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Brugg",
+       "L’Aquila",
+       "Imst"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "84-oberndorf",
+   "rolle": "ziel",
+   "name": "Oberndorf am Neckar",
+   "einheit": "Stadt",
+   "wikidata": "Q83206",
+   "lat": 48.29139,
+   "lon": 8.5725,
+   "gemeindeschluessel": "08325045",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Rottweil",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Rottweil",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 14711,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 14853,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 55.92,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 55.92,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 263,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "RW",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "SIG",
+      "quelle": "Altbestand staedte.json",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 506,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 506,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 510,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 52
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "52 km südwestlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 70
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Oberndorf (Neckar)"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "78727"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07423"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 31.5,
+        "AfD": 28.5,
+        "SPD": 11.8,
+        "FDP": 6.7,
+        "GRÜNE": 6.4,
+        "BSW": 5.1
+       },
+       "wahlbeteiligung_prozent": 79.2,
+       "gueltige_zweitstimmen": 7661
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Matthias Winter"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-06",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Falkenstein/Vogtl."
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "85-sulz",
+   "rolle": "ziel",
+   "name": "Sulz am Neckar",
+   "einheit": "Stadt",
+   "wikidata": "Q83167",
+   "lat": 48.36278,
+   "lon": 8.63167,
+   "gemeindeschluessel": "08325057",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Rottweil",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Rottweil",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 12772,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 12847,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 12763,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2824855)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 87.62,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 87.62,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 146,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "RW",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "SIG",
+      "quelle": "Altbestand staedte.json",
+      "abweichend": true
+     },
+     {
+      "wert": "RW",
+      "quelle": "Altbestand geo.sqlite (Kreis 08325)"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 443,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 443,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 300,
+      "quelle": "Altbestand staedte.json",
+      "abweichend": true
+     },
+     {
+      "wert": 431,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2824855)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 45
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "45 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 62
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Sulz (Neckar)"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72168–72172"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "72172"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07454"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 30.7,
+        "AfD": 30.1,
+        "SPD": 12.4,
+        "FDP": 6.6,
+        "GRÜNE": 6.4
+       },
+       "wahlbeteiligung_prozent": 81.7,
+       "gueltige_zweitstimmen": 7197
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Jens Keucher",
+       "partei": "parteilos"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-06",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Montendre",
+       "Altenberg"
       ],
       "quelle": "Wikidata P190"
      }

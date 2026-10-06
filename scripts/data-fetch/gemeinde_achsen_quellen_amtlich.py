@@ -132,12 +132,15 @@ def kandidaten(start_url, start_html):
 
 def ort_holen(slug, cfg):
     teile, protokoll = [], {'slug': slug, 'seiten': []}
-    start = cfg.get('webseite')
+    # "seiten": von Hand gefundene Geschichtsseiten der Gemeinde (Startseite hinter Cookie-Schranke oder ohne passende
+    # Links, 2026-10-07: Löffingen, Hüfingen, Bad Dürrheim, Oberndorf); sie werden zuerst gelesen
+    hand = cfg.get('seiten', [])
+    start = cfg.get('webseite') or (hand[0] if hand else None)
     if start:
         try:
             su, sh = holen(start)
             protokoll['start'] = su
-            urls = kandidaten(su, sh)
+            urls = hand + [u for u in kandidaten(su, sh) if u not in hand]
             gelesen = []
             for u in urls:
                 if len(gelesen) >= MAX_SEITEN:
