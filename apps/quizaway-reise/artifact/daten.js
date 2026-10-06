@@ -581,25 +581,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Denzlingen",
-"steckbrief": "Gemeinde mit rund 13.700 Einwohnern, 8 km nördlich von Freiburg im Breisgau.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"1845 erhielt Denzlingen Anschluss an die Rheintalbahn.",
-"1813 erwarb die Gemeinde einen Kirchturm als Feuerwehr-Abstellraum.",
-"1843 waren 99 Prozent der Denzlinger katholisch."
-],
-"art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Die Lüge klingt glaubhaft, denn das nahe Freiburg gilt als katholisch geprägt. Denzlingen aber ist ein ehemals Baden-Durlacher Ort und war lange überwiegend evangelisch: 1843 waren es 99 Prozent. Die Rheintalbahn Mannheim–Basel kam wirklich 1845, und den Kirchturm erwarb die Gemeinde 1813 und nutzte ihn als Abstellraum der Feuerwehr. Die Lüge war 3.",
-"quelle": "Wikipedia, Artikel „Denzlingen“",
-"faktencheck": "bestätigt",
-"id": "03-denzlingen/v0.6/3",
-"tisch": false
-},
-{
 "familie": "C",
 "sorte": "Klassiker",
 "ort": "Denzlingen",
@@ -1294,25 +1275,6 @@ window.QA_DATEN = {
 "tisch": true
 },
 {
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "St. Peter",
-"steckbrief": "Gemeinde mit rund 2.700 Einwohnern im Schwarzwald, 14 km Luftlinie von Freiburg im Breisgau.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"1899 zerstörte ein Brand 23 Wohnhäuser der Ortsmitte.",
-"1806 kam das Dorf zum Königreich Bayern.",
-"1644 tobte hier eine Schlacht des Dreißigjährigen Krieges."
-],
-"art": "luege",
-"loesung": 2,
-"rueckseite": "Du hattest [Option] getippt. 1806 wurde das Kloster aufgehoben, und das Dorf kam zu Baden, nicht zu Bayern. Bayern liegt nahe, weil es damals an Napoleons Seite viel Land gewann. Württembergisch besetzt war St. Peter Anfang 1806 einige Wochen, bayerisch nie. Der Brand von 1899 machte 150 Menschen obdachlos; die Schlacht war am 10. August 1644. Die Lüge war 2.",
-"quelle": "Wikipedia, Artikel zu St. Peter",
-"faktencheck": "korrigiert",
-"id": "05-st-peter/v0.5/3",
-"tisch": false
-},
-{
 "familie": "A",
 "sorte": "Klassiker",
 "ort": "St. Peter",
@@ -1988,25 +1950,6 @@ window.QA_DATEN = {
 "faktencheck": "bestätigt",
 "id": "07-kirchzarten/v0.5/6",
 "tisch": false
-},
-{
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Kirchzarten",
-"steckbrief": "Gemeinde mit 10.364 Einwohnern im Dreisamtal östlich von Freiburg, 380 m hoch.",
-"frage": "Im Gemeindegebiet liegt das Himmelreich mit Hofgut und Bahnhof. Welche der drei Aussagen darüber ist gelogen?",
-"optionen": [
-"Die Jakobuskapelle dort wurde wegen Straßenbaus versetzt.",
-"Ein Inklusionsbetrieb führt dort Hotel und Restaurant.",
-"Der Bahnhof dort liegt an der Schwarzwaldbahn."
-],
-"art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Schwarzwaldbahn klingt richtig, weil der Bahnhof im Schwarzwald liegt. Doch am Himmelreich hält die Höllentalbahn; sie führt von Freiburg in den Hochschwarzwald nach Titisee und Neustadt. Die Jakobuskapelle am Jakobsweg, vermutlich vor 1500 gebaut, wurde zweimal wegen neuer Straßen versetzt und steht seit 1986 am heutigen Platz. Das Hofgut Himmelreich ist seit 2004 ein Inklusionsunternehmen mit Hotel und Restaurant. Die Lüge war 3.",
-"quelle": "dewiki Kirchzarten",
-"faktencheck": "korrigiert",
-"id": "07-kirchzarten/v0.4/2",
-"tisch": false
 }
 ],
 "anschluss_von": "06-glottertal",
@@ -2446,25 +2389,6 @@ window.QA_DATEN = {
 "tisch": false
 },
 {
-"familie": "B",
-"sorte": "Geschichte",
-"ort": "Horben",
-"steckbrief": "Dorf mit rund 1.200 Einwohnern am Fuße des Schauinslands, direkt neben Freiburg.",
-"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
-"optionen": [
-"Die Kirche von 1792 hat ein älteres Portal.",
-"1772 mussten sich Wirtshausgäste ein Bett teilen.",
-"Das Rathaus von 1912/13 war zuerst ein Bahnhof."
-],
-"art": "luege",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein Portal, älter als seine Kirche, klingt nach Schwindel, stimmt aber: Es stammt von 1703, aus der Freiburger Heiliggeistspitalkirche, die 1805/06 aufgehoben wurde. Auch der Gasthof Zum Raben war 1772 so dürftig, dass sogar Brot fehlte. Das Rathaus dagegen wurde als Schulhaus gebaut, nicht als Bahnhof. Die Lüge war 3.",
-"quelle": "Wikipedia-Artikel „Horben“",
-"faktencheck": "korrigiert",
-"id": "09-horben/v0.5/3",
-"tisch": true
-},
-{
 "familie": "A",
 "sorte": "Klassiker",
 "ort": "Horben",
@@ -2502,26 +2426,6 @@ window.QA_DATEN = {
 "quelle": "Wikipedia-Artikel „Horben“",
 "faktencheck": "unsicher",
 "id": "09-horben/v0.5/7",
-"tisch": false
-},
-{
-"familie": "C",
-"sorte": "Geschichte",
-"ort": "Horben",
-"steckbrief": "Gemeinde mit 1.202 Einwohnern am Hang über Günterstal, im Landkreis Breisgau-Hochschwarzwald.",
-"frage": "Die Herren von Horwen sollen im Mittelalter das Kloster Günterstal gegründet haben. Wann bekam Horben selbst seine Pfarrkirche St. Agatha?",
-"optionen": [
-"Sie entstand vor dem Jahr 1600.",
-"Sie entstand zwischen 1600 und 1699.",
-"Sie entstand zwischen 1700 und 1799.",
-"Sie entstand im Jahr 1800 oder später."
-],
-"art": "richtig",
-"loesung": 3,
-"rueckseite": "Du hattest [Option] getippt. Ein früher Bau liegt nahe: Wo Ortsherren im Mittelalter ein Kloster gründen, erwartet man auch eine alte Dorfkirche. St. Agatha entstand aber erst 1792, als das Dorf im Rahmen des Josephinismus erstmals eigenständige Pfarrei wurde; sie ersetzte eine frühere Kapelle. Das barocke Portal ist älter als die Kirche: Es stammt von 1703 aus der Freiburger Heiliggeistspitalkirche, die 1805/06 aufgehoben wurde. Richtig war 3.",
-"quelle": "dewiki Horben; Grunddaten Wikidata",
-"faktencheck": "korrigiert",
-"id": "09-horben/v0.4/1",
 "tisch": false
 },
 {

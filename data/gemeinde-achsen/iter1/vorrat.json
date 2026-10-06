@@ -2,18 +2,80 @@
  "_doc": "Vorrat je Ort aus den drei Läufen (v0.4 = erster Volllauf, v0.5 = zweiter, v0.6 = dritter). Im Vorrat ist jede Karte, die der Faktencheck nicht gesperrt hat, die nicht durch eine jüngere Karte zum selben Fakt ersetzt ist und die hier nicht als raus steht. Regel (Mike 2026-10-02): Tragen zwei Läufe denselben Fakt, bleibt die Karte aus v0.6; ohne v0.6-Karte bleibt die jüngere. „Derselbe Fakt“ ist seit 2026-10-02 eine Abfrage: gleicher Schlüssel in karten-fakt.json (scripts/data-build/gemeinde_achsen_karten_fakt.py). Die 49 Zuordnungen von Hand, an denen die Abfrage geprüft ist, liegen in vorrat-von-hand-2026-10-02.json (scripts/check/gemeinde_achsen_fakt_gegenprobe.py). Hier steht nur noch, was aus anderem Grund aus dem Vorrat genommen ist.",
  "grenze_je_ort": 20,
  "orte": {
-  "01-umkirch": {"raus": []},
-  "02-gundelfingen": {"raus": []},
-  "03-denzlingen": {"raus": []},
-  "04-zaehringen": {"raus": []},
-  "05-st-peter": {"raus": []},
-  "06-glottertal": {"raus": []},
-  "07-kirchzarten": {"raus": []},
-  "08-guenterstal": {"raus": [
-   {"lauf": "v0.5", "karte": 4, "grund": "Wahlergebnis für ganz Freiburg, nicht für den Stadtbezirk; den Stadtbezirk trägt dritter Lauf Karte 4 (Wahlbeteiligung)"}]},
-  "09-horben": {"raus": [
-   {"lauf": "v0.4", "karte": 2, "grund": "Dammhöhe: Zahl aus dem Artikel ohne Anhalt im Steckbrief (Spielkonzept v0.2.6 §8 Nr. 7)"},
-   {"lauf": "v0.5", "karte": 2, "grund": "Ortshöhe: Die Quellen nennen 607 und 495 m; Höhe trägt nur bei einigen Quellen eine Karte (Mike 2026-10-02)"}]},
-  "10-staufen": {"raus": []}
+  "01-umkirch": {
+   "raus": []
+  },
+  "02-gundelfingen": {
+   "raus": []
+  },
+  "03-denzlingen": {
+   "raus": [
+    {
+     "lauf": "v0.6",
+     "karte": 3,
+     "grund": "Derselbe Fakt wie erster Lauf Karte 1 (1843 zu 99 Prozent evangelisch), dort als wahre Aussage, hier umgedreht als Lüge; die Prüfung auf denselben Fakt sah nur den Hauptfakt (Mike 2026-10-07)"
+    }
+   ]
+  },
+  "04-zaehringen": {
+   "raus": []
+  },
+  "05-st-peter": {
+   "raus": [
+    {
+     "lauf": "v0.5",
+     "karte": 3,
+     "grund": "Derselbe Fakt wie dritter Lauf Karte 3: Brand 1899 und Schlacht 1644 als dieselben Aussagen (Mike 2026-10-07, Doppelungen über Läufe hinweg; die Prüfung auf denselben Fakt sah nur den Hauptfakt)"
+    }
+   ]
+  },
+  "06-glottertal": {
+   "raus": []
+  },
+  "07-kirchzarten": {
+   "raus": [
+    {
+     "lauf": "v0.4",
+     "karte": 2,
+     "grund": "Derselbe Fakt wie dritter Lauf Karte 9: Jakobuskapelle wegen Straßenbaus versetzt (Mike 2026-10-07, Doppelungen über Läufe hinweg; die Prüfung auf denselben Fakt sah nur den Hauptfakt)"
+    }
+   ]
+  },
+  "08-guenterstal": {
+   "raus": [
+    {
+     "lauf": "v0.5",
+     "karte": 4,
+     "grund": "Wahlergebnis für ganz Freiburg, nicht für den Stadtbezirk; den Stadtbezirk trägt dritter Lauf Karte 4 (Wahlbeteiligung)"
+    }
+   ]
+  },
+  "09-horben": {
+   "raus": [
+    {
+     "lauf": "v0.4",
+     "karte": 2,
+     "grund": "Dammhöhe: Zahl aus dem Artikel ohne Anhalt im Steckbrief (Spielkonzept v0.2.6 §8 Nr. 7)"
+    },
+    {
+     "lauf": "v0.5",
+     "karte": 2,
+     "grund": "Ortshöhe: Die Quellen nennen 607 und 495 m; Höhe trägt nur bei einigen Quellen eine Karte (Mike 2026-10-02)"
+    },
+    {
+     "lauf": "v0.4",
+     "karte": 1,
+     "grund": "Derselbe Fakt wie dritter Lauf Karte 5, deren Frage „Ende des 18. Jahrhunderts gebaut“ die Antwort vorwegnimmt (Mike 2026-10-07, Doppelungen über Läufe hinweg; die Prüfung auf denselben Fakt sah nur den Hauptfakt)"
+    },
+    {
+     "lauf": "v0.5",
+     "karte": 3,
+     "grund": "Derselbe Fakt wie dritter Lauf Karte 5: Kirche mit älterem Portal (Mike 2026-10-07, Doppelungen über Läufe hinweg; die Prüfung auf denselben Fakt sah nur den Hauptfakt)"
+    }
+   ]
+  },
+  "10-staufen": {
+   "raus": []
+  }
  }
 }

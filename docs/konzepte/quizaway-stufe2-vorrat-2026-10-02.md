@@ -12,15 +12,15 @@
 |---|---|---|---|---|---|---|
 | Umkirch | 12 | 5 | 9 | 8 | 0 | 0 |
 | Gundelfingen | 13 | 5 | 8 | 5 | 0 | 0 |
-| Denzlingen | 15 | 6 | 9 | 2 | 0 | 2 |
+| Denzlingen | 14 | 6 | 8 | 2 | 1 | 2 |
 | Zähringen | 13 | 5 | 7 | 3 | 0 | 2 |
-| St. Peter | 14 | 6 | 7 | 3 | 0 | 0 |
+| St. Peter | 13 | 6 | 7 | 3 | 1 | 0 |
 | Glottertal | 15 | 5 | 9 | 4 | 0 | 0 |
-| Kirchzarten | 13 | 5 | 10 | 7 | 0 | 0 |
+| Kirchzarten | 12 | 5 | 10 | 7 | 1 | 0 |
 | Günterstal | 13 | 5 | 9 | 6 | 1 | 1 |
-| Horben | 13 | 5 | 7 | 2 | 2 | 1 |
+| Horben | 11 | 5 | 7 | 2 | 4 | 1 |
 | Staufen | 12 | 5 | 10 | 8 | 0 | 0 |
-| **zusammen** | **133** | **52** | **85** | **48** | **3** | **6** |
+| **zusammen** | **128** | **52** | **84** | **48** | **8** | **6** |
 
 ---
 
@@ -398,7 +398,7 @@
 
 ---
 
-## 03 · Denzlingen · 15 Karten im Vorrat
+## 03 · Denzlingen · 14 Karten im Vorrat
 
 ### dritter Lauf, Karte 1 · Geschichte · Familie A    [ ] streichen
 
@@ -427,19 +427,6 @@
 > Du hattest [Option] getippt. Bei fast 14.000 Einwohnern läge eine weite Gemarkung nahe, wie sie Gemeinden mit vielen Ortsteilen haben. Denzlingen aber besteht nur aus dem Dorf selbst und misst 16,94 km². Das ergibt 811 Einwohner je km². Einwohnerstand: 31. Dezember 2025. Richtig war 1.
 
 45 Wörter · Faktencheck: **bestätigt**
-
-### dritter Lauf, Karte 3 · Geschichte · Familie B    [ ] streichen
-
-> Denzlingen
-> Gemeinde mit rund 13.700 Einwohnern, 8 km nördlich von Freiburg im Breisgau.
-> Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
-> 1. 1845 erhielt Denzlingen Anschluss an die Rheintalbahn.
-> 2. 1813 erwarb die Gemeinde einen Kirchturm als Feuerwehr-Abstellraum.
-> 3. 1843 waren 99 Prozent der Denzlinger katholisch.
-
-> Du hattest [Option] getippt. Die Lüge klingt glaubhaft, denn das nahe Freiburg gilt als katholisch geprägt. Denzlingen aber ist ein ehemals Baden-Durlacher Ort und war lange überwiegend evangelisch: 1843 waren es 99 Prozent. Die Rheintalbahn Mannheim–Basel kam wirklich 1845, und den Kirchturm erwarb die Gemeinde 1813 und nutzte ihn als Abstellraum der Feuerwehr. Die Lüge war 3.
-
-57 Wörter · Faktencheck: **bestätigt**
 
 ### dritter Lauf, Karte 4 · Klassiker · Familie C    [ ] streichen
 
@@ -610,6 +597,10 @@
 
 - erster Lauf 2 → dritter Lauf 1: St.-Josefs-Kirche (`03-denzlingen/039`)
 - zweiter Lauf 1 → dritter Lauf 1: St.-Josefs-Kirche (`03-denzlingen/039`)
+
+**Aus dem Vorrat genommen:**
+
+- dritter Lauf 3: Derselbe Fakt wie erster Lauf Karte 1 (1843 zu 99 Prozent evangelisch), dort als wahre Aussage, hier umgedreht als Lüge; die Prüfung auf denselben Fakt sah nur den Hauptfakt (Mike 2026-10-07)
 
 **Gesperrt nach Faktencheck:**
 
@@ -813,7 +804,7 @@
 
 ---
 
-## 05 · St. Peter · 14 Karten im Vorrat
+## 05 · St. Peter · 13 Karten im Vorrat
 
 ### dritter Lauf, Karte 1 · Geschichte · Familie A    [ ] streichen
 
@@ -926,19 +917,6 @@
 
 55 Wörter · Faktencheck: **bestätigt** · im Kartensatz für den Tisch
 
-### zweiter Lauf, Karte 3 · Geschichte · Familie B    [ ] streichen
-
-> St. Peter
-> Gemeinde mit rund 2.700 Einwohnern im Schwarzwald, 14 km Luftlinie von Freiburg im Breisgau.
-> Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
-> 1. 1899 zerstörte ein Brand 23 Wohnhäuser der Ortsmitte.
-> 2. 1806 kam das Dorf zum Königreich Bayern.
-> 3. 1644 tobte hier eine Schlacht des Dreißigjährigen Krieges.
-
-> Du hattest [Option] getippt. 1806 wurde das Kloster aufgehoben, und das Dorf kam zu Baden, nicht zu Bayern. Bayern liegt nahe, weil es damals an Napoleons Seite viel Land gewann. Württembergisch besetzt war St. Peter Anfang 1806 einige Wochen, bayerisch nie. Der Brand von 1899 machte 150 Menschen obdachlos; die Schlacht war am 10. August 1644. Die Lüge war 2.
-
-60 Wörter · Faktencheck: **korrigiert** – Die Lüge war nicht sicher falsch: St. Peter war vom 12. Januar bis 18. Februar 1806 württembergisch besetzt (Badische Landesbibliothek, Speckle-Tagebuch). Lüge ersetzt; das Kloster wurde 1806 aufgehoben.
-
 ### zweiter Lauf, Karte 4 · Klassiker · Familie A    [ ] streichen
 
 > St. Peter
@@ -1014,6 +992,10 @@
 - zweiter Lauf 1 → dritter Lauf 1: Färber-Ginster-Handel (`05-st-peter/061`)
 - zweiter Lauf 5 → dritter Lauf 5: Georg von Sachsen (`05-st-peter/050`)
 - zweiter Lauf 7 → dritter Lauf 7: Schwarzwaldmädel (`05-st-peter/054`)
+
+**Aus dem Vorrat genommen:**
+
+- zweiter Lauf 3: Derselbe Fakt wie dritter Lauf Karte 3: Brand 1899 und Schlacht 1644 als dieselben Aussagen (Mike 2026-10-07, Doppelungen über Läufe hinweg; die Prüfung auf denselben Fakt sah nur den Hauptfakt)
 
 ---
 
@@ -1236,7 +1218,7 @@
 
 ---
 
-## 07 · Kirchzarten · 13 Karten im Vorrat
+## 07 · Kirchzarten · 12 Karten im Vorrat
 
 ### dritter Lauf, Karte 1 · Geschichte · Familie A    [ ] streichen
 
@@ -1405,19 +1387,6 @@
 
 51 Wörter · Faktencheck: **bestätigt**
 
-### erster Lauf, Vorschlag 2 · Geschichte · Familie B    [ ] streichen
-
-> Kirchzarten
-> Gemeinde mit 10.364 Einwohnern im Dreisamtal östlich von Freiburg, 380 m hoch.
-> Im Gemeindegebiet liegt das Himmelreich mit Hofgut und Bahnhof. Welche der drei Aussagen darüber ist gelogen?
-> 1. Die Jakobuskapelle dort wurde wegen Straßenbaus versetzt.
-> 2. Ein Inklusionsbetrieb führt dort Hotel und Restaurant.
-> 3. Der Bahnhof dort liegt an der Schwarzwaldbahn.
-
-> Du hattest [Option] getippt. Schwarzwaldbahn klingt richtig, weil der Bahnhof im Schwarzwald liegt. Doch am Himmelreich hält die Höllentalbahn; sie führt von Freiburg in den Hochschwarzwald nach Titisee und Neustadt. Die Jakobuskapelle am Jakobsweg, vermutlich vor 1500 gebaut, wurde zweimal wegen neuer Straßen versetzt und steht seit 1986 am heutigen Platz. Das Hofgut Himmelreich ist seit 2004 ein Inklusionsunternehmen mit Hotel und Restaurant. Die Lüge war 3.
-
-67 Wörter · Faktencheck: **korrigiert** – Die Bahnagentur des Hofguts ist geschlossen (und bestand erst seit 2006).
-
 **Ersetzt** (derselbe Fakt steht in einer neueren Karte):
 
 - zweiter Lauf 5 → dritter Lauf 1: Markenhof (`07-kirchzarten/050`)
@@ -1427,6 +1396,10 @@
 - erster Lauf 3 → dritter Lauf 7: bürgerentscheid (`07-kirchzarten/016`)
 - zweiter Lauf 7 → dritter Lauf 7: bürgerentscheid (`07-kirchzarten/016`)
 - zweiter Lauf 1 → dritter Lauf 8: keltisches oppidum (`07-kirchzarten/004`)
+
+**Aus dem Vorrat genommen:**
+
+- erster Lauf 2: Derselbe Fakt wie dritter Lauf Karte 9: Jakobuskapelle wegen Straßenbaus versetzt (Mike 2026-10-07, Doppelungen über Läufe hinweg; die Prüfung auf denselben Fakt sah nur den Hauptfakt)
 
 ---
 
@@ -1631,7 +1604,7 @@
 
 ---
 
-## 09 · Horben · 13 Karten im Vorrat
+## 09 · Horben · 11 Karten im Vorrat
 
 ### dritter Lauf, Karte 1 · Geschichte · Familie A    [ ] streichen
 
@@ -1730,19 +1703,6 @@
 
 55 Wörter · Faktencheck: **unsicher** – Der vergebliche Eingemeindungsversuch nach dem Bau der Talstation steht nur in Wikipedia; die Karte sagt selbst „nennt die Ortsgeschichte“.
 
-### zweiter Lauf, Karte 3 · Geschichte · Familie B    [ ] streichen
-
-> Horben
-> Dorf mit rund 1.200 Einwohnern am Fuße des Schauinslands, direkt neben Freiburg.
-> Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
-> 1 Die Kirche von 1792 hat ein älteres Portal.
-> 2 1772 mussten sich Wirtshausgäste ein Bett teilen.
-> 3 Das Rathaus von 1912/13 war zuerst ein Bahnhof.
-
-> Du hattest [Option] getippt. Ein Portal, älter als seine Kirche, klingt nach Schwindel, stimmt aber: Es stammt von 1703, aus der Freiburger Heiliggeistspitalkirche, die 1805/06 aufgehoben wurde. Auch der Gasthof Zum Raben war 1772 so dürftig, dass sogar Brot fehlte. Das Rathaus dagegen wurde als Schulhaus gebaut, nicht als Bahnhof. Die Lüge war 3.
-
-54 Wörter · Faktencheck: **korrigiert** – Fehler beim Extrahieren: 1805/06 wurde die Spitalkirche aufgehoben; wann das Portal nach Horben kam, ist nicht belegt. · im Kartensatz für den Tisch
-
 ### zweiter Lauf, Karte 4 · Klassiker · Familie A    [ ] streichen
 
 > Horben
@@ -1770,20 +1730,6 @@
 > Du hattest [Option] getippt. Ein Prinz auf Truppensuche oder zur Kur im Schwarzwald, das klingt plausibel für einen Reiter mit Adjutanten. Kaiser der Franzosen wurde Napoleon III. erst später; 1838 war er vermutlich auf der Flucht nach London, weil Frankreich seine Auslieferung betrieb. Sein Weg führte ihn mit zwei Adjutanten durch Horben. Richtig war 4.
 
 55 Wörter · Faktencheck: **unsicher** – Der Ritt Napoleons III. durch Horben steht nur in Wikipedia; ob Frankreich Auslieferung oder Ausweisung aus der Schweiz verlangte, sagen die Quellen nicht einheitlich.
-
-### erster Lauf, Vorschlag 1 · Geschichte · Familie C    [ ] streichen
-
-> Horben
-> Gemeinde mit 1.202 Einwohnern am Hang über Günterstal, im Landkreis Breisgau-Hochschwarzwald.
-> Die Herren von Horwen sollen im Mittelalter das Kloster Günterstal gegründet haben. Wann bekam Horben selbst seine Pfarrkirche St. Agatha?
-> 1. Sie entstand vor dem Jahr 1600.
-> 2. Sie entstand zwischen 1600 und 1699.
-> 3. Sie entstand zwischen 1700 und 1799.
-> 4. Sie entstand im Jahr 1800 oder später.
-
-> Du hattest [Option] getippt. Ein früher Bau liegt nahe: Wo Ortsherren im Mittelalter ein Kloster gründen, erwartet man auch eine alte Dorfkirche. St. Agatha entstand aber erst 1792, als das Dorf im Rahmen des Josephinismus erstmals eigenständige Pfarrei wurde; sie ersetzte eine frühere Kapelle. Das barocke Portal ist älter als die Kirche: Es stammt von 1703 aus der Freiburger Heiliggeistspitalkirche, die 1805/06 aufgehoben wurde. Richtig war 3.
-
-67 Wörter · Faktencheck: **korrigiert** – Wie v0.5 Karte 3 (Portal); die Klostergründung durch die Herren von Horwen steht nur in Wikipedia, die Klosterdatenbank nennt eine andere Stifterin.
 
 ### erster Lauf, Vorschlag 3 · Geschichte · Familie C    [ ] streichen
 
@@ -1822,6 +1768,8 @@
 
 - erster Lauf 2: Dammhöhe: Zahl aus dem Artikel ohne Anhalt im Steckbrief (Spielkonzept v0.2.6 §8 Nr. 7)
 - zweiter Lauf 2: Ortshöhe: Die Quellen nennen 607 und 495 m; Höhe trägt nur bei einigen Quellen eine Karte (Mike 2026-10-02)
+- erster Lauf 1: Derselbe Fakt wie dritter Lauf Karte 5, deren Frage „Ende des 18. Jahrhunderts gebaut“ die Antwort vorwegnimmt (Mike 2026-10-07, Doppelungen über Läufe hinweg; die Prüfung auf denselben Fakt sah nur den Hauptfakt)
+- zweiter Lauf 3: Derselbe Fakt wie dritter Lauf Karte 5: Kirche mit älterem Portal (Mike 2026-10-07, Doppelungen über Läufe hinweg; die Prüfung auf denselben Fakt sah nur den Hauptfakt)
 
 **Gesperrt nach Faktencheck:**
 
