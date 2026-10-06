@@ -269,7 +269,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   }
   function rund(n){ var st = n >= 100000 ? 10000 : (n >= 10000 ? 1000 : 100); return fz(Math.round(n / st) * st); }
   function gRec(a){ return { ags: a[0], name: a[1], stadt: !!a[2], lat: a[3], lon: a[4], ew: a[5], fl: a[6], wk: a[7], eigen: a[8],
-                             rgs: a[9], azb: a[10], nb: G.nb ? G.nb[GIDX[a[0]]] : [],
+                             rgs: a[9], azb: a[10], azbGrund: a[11], nb: G.nb ? G.nb[GIDX[a[0]]] : [],
                              land: a[0].slice(0, 2), kreis: G.kreise[a[0].slice(0, 5)] }; }
   // Regionalsprache und Beiname (VG250, Mike 2026-10-07): Adjektiv der Sprache, Pools für die falschen Antworten
   var SPRACHE_ADJ = { 'Nordfriesisch': 'nordfriesischen', 'Saterfriesisch': 'saterfriesischen', 'Niedersorbisch': 'niedersorbischen',
@@ -358,8 +358,9 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
       while(fb.length < 3){ r3 = (Math.imul(r3, 1103515245) + 12345) & 0x7fffffff; var b = pool[(r3 >>> 8) % pool.length]; if(fb.indexOf(b) < 0) fb.push(b); }
       var mb = mischen([g.azb].concat(fb), g.azb);
       karte('C', 'Rund ' + rund(g.ew) + ' Einwohner · ' + land, g.name + ' führt einen amtlichen Beinamen. Welchen?', mb.opt, mb.loes,
-            g.name + ' trägt amtlich den Beinamen „' + g.azb + '“.',
-            'Bundesamt für Kartographie und Geodäsie, Verwaltungsgebiete VG250, Stand 31.12.2024', true);
+            g.name + ' trägt amtlich den Beinamen „' + g.azb + '“.' + (g.azbGrund ? ' ' + g.azbGrund[0] : ''),
+            'Bundesamt für Kartographie und Geodäsie, Verwaltungsgebiete VG250, Stand 31.12.2024' +
+            (g.azbGrund ? '; Begründung: ' + g.azbGrund[1].replace(/^https?:\/\/(www\.)?/, '').split('/')[0] : ''), true);
     }
     return aus;
   }

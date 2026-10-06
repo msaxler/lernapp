@@ -203,6 +203,9 @@ def main():
     # VG250: je Gemeinde Regionalsprachen-Name und Beiname (Feld 9, 10), Nachbarn als Indizes in g
     with io.open(VG250, encoding='utf-8') as f:
         vg = json.load(f)['gemeinden']
+    # belegte Begründungen der Beinamen (scripts/data-build/quizaway_beinamen_begruendung.py), sonst keine
+    pfad_b = os.path.join(WURZEL, 'data', 'grundversorgung', 'beinamen-begruendung.json')
+    begr = json.load(io.open(pfad_b, encoding='utf-8')) if os.path.exists(pfad_b) else {}
     idx = {g[0]: i for i, g in enumerate(aus_g)}
     nb = []
     for g in aus_g:
@@ -212,6 +215,8 @@ def main():
         if e.get('rgs') and '/' in g[1]:
             g[1] = g[1].split('/')[0].strip()
         g.append(e['azb'] if e.get('azb') and e['azb'] not in BEINAME_ALLTAG else None)
+        b = begr.get(g[0])
+        g.append([b['satz'], b['quelle']] if g[10] and b and b.get('belegt') and b.get('satz') and b.get('beiname') == g[10] else None)
         nb.append([idx[a] for a in e.get('n', []) if a in idx])
     print('Regionalsprache: %d, Beiname: %d, Nachbarpaare: %d' % (sum(1 for g in aus_g if g[9]), sum(1 for g in aus_g if g[10]),
                                                                 sum(len(n) for n in nb) // 2))

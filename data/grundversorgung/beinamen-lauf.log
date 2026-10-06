@@ -1,0 +1,39 @@
+153 Orte mit Beinamen, 153 offen, 16 Aufrufe
+Gruppe  0: 10 Antworten, 0.53 USD
+Gruppe  1: 10 Antworten, 0.89 USD
+Gruppe  2: 10 Antworten, 0.56 USD
+Traceback (most recent call last):
+  File "D:\claude-code\LernApp\scripts\data-build\quizaway_beinamen_begruendung.py", line 103, in <module>
+    main()
+    ~~~~^^
+  File "D:\claude-code\LernApp\scripts\data-build\quizaway_beinamen_begruendung.py", line 89, in main
+    for nr, antw, usd in ex.map(lambda ng: lauf(*ng), enumerate(gruppen)):
+                         ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\concurrent\futures\_base.py", line 639, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Python314\Lib\concurrent\futures\_base.py", line 311, in _result_or_cancel
+    return fut.result(timeout)
+           ~~~~~~~~~~^^^^^^^^^
+  File "C:\Python314\Lib\concurrent\futures\_base.py", line 443, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Python314\Lib\concurrent\futures\_base.py", line 395, in __get_result
+    raise self._exception
+  File "C:\Python314\Lib\concurrent\futures\thread.py", line 86, in run
+    result = ctx.run(self.task)
+  File "C:\Python314\Lib\concurrent\futures\thread.py", line 73, in run
+    return fn(*args, **kwargs)
+  File "D:\claude-code\LernApp\scripts\data-build\quizaway_beinamen_begruendung.py", line 89, in <lambda>
+    for nr, antw, usd in ex.map(lambda ng: lauf(*ng), enumerate(gruppen)):
+                                           ~~~~^^^^^
+  File "D:\claude-code\LernApp\scripts\data-build\quizaway_beinamen_begruendung.py", line 73, in lauf
+    return nr, json.loads(m.group(0)) if m else [], d.get('total_cost_usd') or 0
+               ~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Python314\Lib\json\__init__.py", line 352, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Python314\Lib\json\decoder.py", line 348, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 13 column 1 (char 2859)
+Fertig
