@@ -33,6 +33,11 @@ GV_URL = ('https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeind
 GV = os.path.join(ROH, 'gv_auszug_31122024.xlsx')
 KFZ_WD = os.path.join(ROH, 'kfz_kreise_wikidata.json')
 ZIEL = os.path.join(WURZEL, 'apps', 'quizaway-reise', 'grund-de.js')
+# VG250-Auszug (scripts/data-build/quizaway_vg250.py): Nachbarn, Regionalsprache, amtlicher Beiname (Mike 2026-10-07)
+VG250 = os.path.join(WURZEL, 'data', 'grundversorgung', 'vg250-auszug.json')
+# Beinamen ohne Erstaunen bleiben draußen
+BEINAME_ALLTAG = {'Markt', 'Flecken', 'Große Kreisstadt', 'Kreisstadt', 'Landeshauptstadt', 'gemeindefreier Bezirk',
+                  'Marktgemeinde', 'Marktflecken', 'Altwarp'}
 UA = {'User-Agent': 'LernApp-GemeindeAchsen/0.1 (https://github.com/msaxler/lernapp)'}
 STADT_TK = {'61', '62', '63', '67'}            # kreisfreie Stadt, Stadtkreis, Stadt, große Kreisstadt
 KREISFREI_TK = {'41', '42'}                    # kreisfreie Stadt, Stadtkreis
@@ -195,8 +200,23 @@ def main():
         aus_g.append([g['ags'], g['name'], 1 if g['stadt'] else 0, g['lat'], g['lon'], g['ew'], g['fl'], schluessel,
                       eigen[0] if eigen else None])
 
-    daten = {'stand': 'Gemeindeverzeichnis 31.12.2024; Bundestagswahl 2025; Kfz-Zeichen Wikidata',
-             'laender': laender, 'kreise': aus_kreise, 'wahl': aus_wahl, 'g': aus_g}
+    # VG250: je Gemeinde Regionalsprachen-Name und Beiname (Feld 9, 10), Nachbarn als Indizes in g
+    with io.open(VG250, encoding='utf-8') as f:
+        vg = json.load(f)['gemeinden']
+    idx = {g[0]: i for i, g in enumerate(aus_g)}
+    nb = []
+    for g in aus_g:
+        e = vg.get(g[0], {})
+        g.append(e.get('rgs'))
+        # zweisprachige Namen der Lausitz („Cottbus/Chóśebuz“) auf den deutschen Teil kürzen, sonst verrät die Frage die Antwort
+        if e.get('rgs') and '/' in g[1]:
+            g[1] = g[1].split('/')[0].strip()
+        g.append(e['azb'] if e.get('azb') and e['azb'] not in BEINAME_ALLTAG else None)
+        nb.append([idx[a] for a in e.get('n', []) if a in idx])
+    print('Regionalsprache: %d, Beiname: %d, Nachbarpaare: %d' % (sum(1 for g in aus_g if g[9]), sum(1 for g in aus_g if g[10]),
+                                                                sum(len(n) for n in nb) // 2))
+    daten = {'stand': 'Gemeindeverzeichnis 31.12.2024; Bundestagswahl 2025; Kfz-Zeichen Wikidata; VG250 31.12.2024',
+             'laender': laender, 'kreise': aus_kreise, 'wahl': aus_wahl, 'g': aus_g, 'nb': nb}
     with io.open(ZIEL, 'w', encoding='utf-8', newline='\n') as f:
         f.write('// erzeugt von scripts/data-build/quizaway_grundversorgung.py – nicht von Hand ändern\n')
         f.write('window.QA_GRUND = ' + json.dumps(daten, ensure_ascii=False, separators=(',', ':')) + ';\n')

@@ -269,7 +269,13 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   }
   function rund(n){ var st = n >= 100000 ? 10000 : (n >= 10000 ? 1000 : 100); return fz(Math.round(n / st) * st); }
   function gRec(a){ return { ags: a[0], name: a[1], stadt: !!a[2], lat: a[3], lon: a[4], ew: a[5], fl: a[6], wk: a[7], eigen: a[8],
+                             rgs: a[9], azb: a[10], nb: G.nb ? G.nb[GIDX[a[0]]] : [],
                              land: a[0].slice(0, 2), kreis: G.kreise[a[0].slice(0, 5)] }; }
+  // Regionalsprache und Beiname (VG250, Mike 2026-10-07): Adjektiv der Sprache, Pools für die falschen Antworten
+  var SPRACHE_ADJ = { 'Nordfriesisch': 'nordfriesischen', 'Saterfriesisch': 'saterfriesischen', 'Niedersorbisch': 'niedersorbischen',
+                      'Obersorbisch': 'obersorbischen', 'Dänisch': 'dänischen', 'Niederdeutsch': 'niederdeutschen' };
+  var GIDX = {}, RGS = [], BEINAMEN = [];
+  if(G){ G.g.forEach(function(a, i){ GIDX[a[0]] = i; if(a[9]) RGS.push(a); if(a[10] && BEINAMEN.indexOf(a[10]) < 0) BEINAMEN.push(a[10]); }); }
   function kmLuft(a, b){ var dx = (b.lon - a.lon) * Math.cos((a.lat + b.lat) / 2 * Math.PI / 180) * 111.32, dy = (b.lat - a.lat) * 110.54; return Math.hypot(dx, dy); }
   function wahlText(g){
     var w = g.wk && G.wahl[g.wk]; if(!w) return null;
@@ -279,11 +285,11 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   function grundKarten(g){
     var land = G.laender[g.land], k = g.kreis, h = hashOf(g.ags), aus = [], n = 0;
     var art = k && k[1] ? 'Kreisfreie Stadt' : (g.stadt ? 'Stadt' : 'Gemeinde');
-    function karte(familie, steck, frage, opt, loes, text, quelle){
+    function karte(familie, steck, frage, opt, loes, text, quelle, zuerst){
       n++;
-      aus.push({ familie: familie, sorte: 'Klassiker', ort: g.name, steckbrief: steck, frage: frage, optionen: opt, art: 'richtig',
+      aus[zuerst ? 'unshift' : 'push']({ familie: familie, sorte: 'Klassiker', ort: g.name, steckbrief: steck, frage: frage, optionen: opt, art: 'richtig',
                  loesung: loes, rueckseite: 'Du hattest [Option] getippt. ' + text + ' Richtig war ' + loes + '.', quelle: quelle,
-                 faktencheck: 'bestätigt', id: 'de:' + g.ags + '/g/' + n, tisch: false });
+                 faktencheck: 'bestätigt', id: 'de:' + g.ags + '/g/' + n, tisch: !!zuerst });
     }
     function mischen(liste, richtig){
       var o = liste.slice(), r = (h + 7919 * (n + 1)) & 0x7fffffff;
@@ -333,11 +339,34 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
             k[2].length > 1 ? (k[1] ? g.name : 'Im ' + k[0].replace(/^Landkreis /, 'Landkreis ')) + ' gibt es die Zeichen ' + k[2].slice(0, -1).join(', ') + ' und ' + k[2][k[2].length - 1] + '.'
                             : g.name + ' fährt mit ' + rk + '.', 'Wikidata P395 (Kreisebene)');
     }
+    // 5 Ortsname in der Regionalsprache: die falschen Antworten sind Namen derselben Sprache aus der Nähe
+    if(g.rgs){
+      var nahe = RGS.filter(function(a){ return a[0] !== g.ags && a[9][1] === g.rgs[1] && a[9][0] !== g.rgs[0]; })
+        .map(function(a){ return [a, kmLuft(g, { lat: a[3], lon: a[4] })]; }).sort(function(x, y){ return x[1] - y[1]; })
+        .slice(0, 3).map(function(x){ return x[0]; });
+      if(nahe.length === 3){
+        var mr = mischen([g.rgs[0]].concat(nahe.map(function(a){ return a[9][0]; })), g.rgs[0]);
+        karte('C', 'Rund ' + rund(g.ew) + ' Einwohner · ' + land, g.name + ' hat auch einen amtlichen ' + (SPRACHE_ADJ[g.rgs[1]] || '') + ' Namen. Welchen?',
+              mr.opt, mr.loes, 'Auf ' + g.rgs[1] + ' heißt ' + g.name + ' ' + g.rgs[0] + '. ' +
+              nahe.slice(0, 2).map(function(a){ return a[9][0] + ' ist ' + a[1]; }).join(', ') + '.',
+              'Bundesamt für Kartographie und Geodäsie, Verwaltungsgebiete VG250, Stand 31.12.2024', true);
+      }
+    }
+    // 6 amtlicher Beiname: die falschen Antworten sind Beinamen anderer Orte
+    if(g.azb && BEINAMEN.length > 4){
+      var pool = BEINAMEN.filter(function(b){ return b !== g.azb; }), fb = [], r3 = h;
+      while(fb.length < 3){ r3 = (Math.imul(r3, 1103515245) + 12345) & 0x7fffffff; var b = pool[(r3 >>> 8) % pool.length]; if(fb.indexOf(b) < 0) fb.push(b); }
+      var mb = mischen([g.azb].concat(fb), g.azb);
+      karte('C', 'Rund ' + rund(g.ew) + ' Einwohner · ' + land, g.name + ' führt einen amtlichen Beinamen. Welchen?', mb.opt, mb.loes,
+            g.name + ' trägt amtlich den Beinamen „' + g.azb + '“.',
+            'Bundesamt für Kartographie und Geodäsie, Verwaltungsgebiete VG250, Stand 31.12.2024', true);
+    }
     return aus;
   }
   // Anschluss zwischen zwei Gemeinden, gerechnet wie scripts/data-build/gemeinde_achsen_anschluesse.py
   function anschlussRechnen(a, b){
     var out = [], na = a.name, nb = b.name;
+    if(a.nb && a.nb.indexOf(GIDX[b.ags]) >= 0) out.push(na + ' und ' + nb + ' grenzen aneinander.');
     if(a.land !== b.land) out.push('Landesgrenze: ' + na + ' liegt in ' + G.laender[a.land] + ', ' + nb + ' in ' + G.laender[b.land] + '.');
     else if(a.kreis && b.kreis && a.kreis !== b.kreis){
       var ka = a.kreis[1] ? null : zumKreis(a.kreis[0]), kb = b.kreis[1] ? null : zumKreis(b.kreis[0]);
@@ -812,7 +841,8 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     var paar = (o.anschluesse && vorige) ? o.anschluesse[vorige] : null;
     if(!paar && vorige === o.anschluss_von) paar = o.anschluss;
     if(!paar && vorige && G && fahrt.raum === 'alle'){ var vo = ortVon(vorige);
-      if(vo && vo.grund && o.grund && vo.grund.ags !== o.grund.ags && kmLuft(vo, o) <= 30) paar = anschlussRechnen(vo.grund, o.grund); }
+      if(vo && vo.grund && o.grund && vo.grund.ags !== o.grund.ags && (kmLuft(vo, o) <= 30 || vo.grund.nb.indexOf(GIDX[o.grund.ags]) >= 0))
+        paar = anschlussRechnen(vo.grund, o.grund); }
     var an = (ersteHier && vorige && vorige !== o.slug && paar && paar.length) ? paar[0] : '';
     $('a-anschluss').hidden = !an; $('a-anschluss-text').textContent = an;
     fahrt.log.push({ ort: o.slug, name: o.name, karte: k.id, familie: k.familie, sorte: k.sorte, status: status, antwort: antwort,
@@ -897,7 +927,8 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
 
   // Für Tests von außen (Konsole): Zustand lesen
   window.QA_PROTO = { fahrt: function(){ return fahrt; }, fenster: FENSTER,
-                     grund: function(ags){ return G && GREC[ags] ? grundKarten(gRec(GREC[ags])) : null; } };
+                     grund: function(ags){ return G && GREC[ags] ? grundKarten(gRec(GREC[ags])) : null; },
+                     anschluss: function(a, b){ return anschlussRechnen(gRec(GREC[a]), gRec(GREC[b])); } };
 
   startZeichnen(); show('s-start');
 })();
