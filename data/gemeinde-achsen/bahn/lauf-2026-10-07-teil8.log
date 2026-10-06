@@ -1,0 +1,34 @@
+Orte: 65-march 66-gottenheim 67-boetzingen 68-eichstetten
+== Extraktion (Haiku) 08:51:57
+65-march             extraktion ein  32030  aus  13764   0.12 USD   132 s  claude-haiku-4-5-20251001
+66-gottenheim        extraktion ein  57496  aus   9113   0.15 USD    97 s  claude-haiku-4-5-20251001
+67-boetzingen        extraktion ein  23974  aus  18854   0.13 USD   181 s  claude-haiku-4-5-20251001
+68-eichstetten       extraktion ein  24137  aus  14537   0.11 USD   135 s  claude-haiku-4-5-20251001
+zusammen: 2997 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+65-march           13362 Zeichen
+66-gottenheim      20097 Zeichen
+67-boetzingen      24000 Zeichen
+68-eichstetten     19488 Zeichen
+== Karten (claude-opus-5-5) 08:54:58
+65-march             karten     ein  34204  aus  28906   0.80 USD   252 s  claude-opus-5-5
+66-gottenheim        karten     ein  37776  aus  40191   1.05 USD   341 s  claude-opus-5-5
+67-boetzingen        karten     ein  41069  aus  37384   1.02 USD   322 s  claude-opus-5-5
+68-eichstetten       karten     ein  37814  aus  35389   0.96 USD   438 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 09:02:16
+65-march             pruefung   ein  54926  aus   5774   0.50 USD    54 s  claude-opus-5-5
+66-gottenheim        pruefung   ein  96857  aus  16725   1.06 USD   144 s  claude-opus-5-5
+67-boetzingen        pruefung   ein  49361  aus  11039   0.56 USD   100 s  claude-opus-5-5
+68-eichstetten       pruefung   ein  50261  aus   8358   0.52 USD    73 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 09:04:40
+65-march             FEHLER keine Karte an Stufe 2 – kein Lauf
+66-gottenheim        stufe2     ein 192032  aus   4544   0.38 USD    97 s  claude-opus-5-5,claude-haiku-4-5-20251001
+67-boetzingen        stufe2     ein 210640  aus   6429   0.62 USD    92 s  claude-opus-5-5,claude-haiku-4-5-20251001
+68-eichstetten       stufe2     ein 133753  aus   3210   0.33 USD    55 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 09:06:17
+Urteile: {'korrigiert': 162, 'bestätigt': 434, 'gesperrt': 4, 'unsicher': 23} | im Vorrat: 619 Karten an 68 Orten
+iter1    10 Orte, 133 Karten, Tisch-Reihe 4
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     68 Orte, 619 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 795512 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 09:06:18

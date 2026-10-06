@@ -5013,6 +5013,734 @@ window.QA_DATEN = {
 "name": "Bahn Freiburg–Neuwied (rechte Rheinseite)",
 "orte": [
 {
+"slug": "65-march",
+"name": "March",
+"lat": 48.05611,
+"lon": 7.78194,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "March",
+"steckbrief": "Rund 9.300 Einwohner, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Den Namen March gab es schon im Mittelalter, lange vor der heutigen Gemeinde. Was bedeutet er laut Gemeinde?",
+"optionen": [
+"Er erinnert an einen alten Markt im März.",
+"Er bedeutet „umgrenztes Gebiet“.",
+"Er meint feuchtes, sumpfiges Marschland.",
+"Er stammt von einem Bach, der hindurchfließt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach dem englischen Wort für März, da liegt ein alter Frühjahrsmarkt nahe. Doch die Gemeinde erklärt ihn anders: „March“ bedeutet „umgrenztes Gebiet“, und den Namen gab es schon im Mittelalter. Die Dörfer wurden seit alters her „Marchdörfer“ genannt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.march.de/4782",
+"faktencheck": "korrigiert",
+"id": "65-march/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "March",
+"steckbrief": "Liegt 8 km nordwestlich von Freiburg im Breisgau, auf einer Gemarkung von knapp 18 km².",
+"frage": "Wie viele Einwohner hat die Gemeinde March?",
+"optionen": [
+"unter 4.000",
+"4.000 bis unter 8.000",
+"8.000 bis unter 12.000",
+"12.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer bei einer Gemeinde vor Freiburg an ein Dorf denkt, schätzt leicht zu niedrig. Zum Stand Ende 2025 zählte March 9.337 Einwohner. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "65-march/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "March",
+"steckbrief": "Rund 9.300 Einwohner, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Gemeinde March gehört zum Weinanbaugebiet Markgräflerland.",
+"Im Ortsteil Buchheim liegt die Weinlage Rebstuhl.",
+"Die Partnergemeinde Holzhausen ist heute Stadtteil von Leipzig."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Markgräflerland ist als Weingegend südlich von Freiburg bekannt, und Wein wächst in March tatsächlich. Doch die Gemeinde gehört zum Weinanbaugebiet Kaiserstuhl. Ihre Lagen sind Rebstuhl in Buchheim und Steingrube in Neuershausen. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.march.de/4782",
+"faktencheck": "bestätigt",
+"id": "65-march/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "March",
+"steckbrief": "Rund 9.300 Einwohner, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in March nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"GRÜNE",
+"AfD",
+"CDU"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im Freiburger Umland liegen die Grünen als Tipp nahe, und es war knapp: Die SPD kam auf 17,3 Prozent, die Grünen auf 17 Prozent. Vorn lag die CDU mit 31,4 Prozent, die AfD erreichte 14,5 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "65-march/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "March",
+"steckbrief": "Rund 9.300 Einwohner, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Das Gemeindewappen zeigt ein rotes Kreuz und einen silbernen Bären. Wofür stehen die beiden Hälften?",
+"optionen": [
+"Sie zeigen die Städte Freiburg und Bern.",
+"Sie zeigen die Klöster Lorsch und St. Gallen.",
+"Sie zeigen die Bistümer Konstanz und Basel.",
+"Sie zeigen die Ortsteile Hugstetten und Buchheim."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein rotes Kreuz auf Silber kennt man aus dem Freiburger Wappen, einen Bären aus Bern, das liegt nahe. Doch das Wappen vereint zwei früh in der March nachgewiesene Grundherrschaften: das Kloster Lorsch mit dem Nagelkreuz und das Kloster St. Gallen mit dem Bären. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.march.de/de/Leben-Wohnen/Mein-March/Historisches",
+"faktencheck": "bestätigt",
+"id": "65-march/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "March",
+"steckbrief": "Rund 9.300 Einwohner, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Zu welchem Landkreis gehört die Gemeinde March?",
+"optionen": [
+"Landkreis Emmendingen",
+"Ortenaukreis",
+"Landkreis Breisgau-Hochschwarzwald",
+"Landkreis Lörrach"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Nördlich von Freiburg denkt man schnell an den Landkreis Emmendingen. March gehört aber zum Landkreis Breisgau-Hochschwarzwald; das Hauptkennzeichen ist FR. Richtig war 3.",
+"quelle": "dewiki Infobox; Kennzeichen: Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "65-march/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "March",
+"steckbrief": "Rund 9.300 Einwohner, 8 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Die Gemeinde March gibt es erst seit 1973. Wie ist sie entstanden?",
+"optionen": [
+"Sie wurde als Neubausiedlung für Pendler gegründet.",
+"Sie spaltete sich von einer Nachbarstadt ab.",
+"Ein älteres Dorf erhielt einen neuen Namen.",
+"Mehrere selbständige Gemeinden schlossen sich zusammen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine so junge Gemeinde vor den Toren Freiburgs klingt nach Neubaugebiet. Doch die Dörfer gab es längst: Buchheim, Holzhausen, Hugstetten und Neuershausen waren selbständige Gemeinden und schlossen sich zur Einheitsgemeinde March zusammen, also zu einer einzigen Gemeinde. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.march.de/4782",
+"faktencheck": "bestätigt",
+"id": "65-march/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": null,
+"anschluss": []
+},
+{
+"slug": "66-gottenheim",
+"name": "Gottenheim",
+"lat": 48.04972,
+"lon": 7.72889,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gottenheim",
+"steckbrief": "Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
+"frage": "1726 wurden für die Kirche St. Stephan in Gottenheim Glocken gegossen. Wo geschah das?",
+"optionen": [
+"Sie wurden direkt in Gottenheim gegossen.",
+"Sie wurden in einer Freiburger Gießerei gegossen.",
+"Sie wurden in einer Basler Gießerei gegossen.",
+"Sie wurden in einer Straßburger Gießerei gegossen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Gießerei in einer Stadt liegt nahe. Doch schwere Glocken über schlechte Wege zu fahren war mühsam, und Glockengießer reisten oft zu ihren Kunden. So gossen die Gebrüder Rossier die Glocken für St. Stephan direkt vor Ort in Gottenheim. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gottenheim.de/Geschichte/Kirche/",
+"faktencheck": "bestätigt",
+"id": "66-gottenheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gottenheim",
+"steckbrief": "Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Fläche der Gemeinde Gottenheim?",
+"optionen": [
+"unter 5 km²",
+"5 bis unter 10 km²",
+"10 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei gut dreitausend Einwohnern liegt eine größere Gemarkung nahe, denn viele Landgemeinden haben reichlich Wald und Feld. Gottenheim kommt aber nur auf 8,75 Quadratkilometer. Für eine Landgemeinde wohnen die Menschen hier also recht dicht. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "66-gottenheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gottenheim",
+"steckbrief": "Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Friedhof lag früher rund um die Kirche.",
+"Die Winzergenossenschaft baut vor allem Riesling an.",
+"Das Haus des Frühmessers wurde später Armenhaus."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Riesling gilt vielen als typisch deutscher Wein, daher klingt die Aussage glaubhaft. Doch die Gottenheimer Winzer bauen überwiegend Spätburgunder an, dazu weitere Burgundersorten. Wahr ist: Der Friedhof lag früher um die Kirche, und das Haus des Frühmessers, des Priesters für die Frühmesse, wurde später Armenhaus. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.gottenheim.de/WG/Geschichte/",
+"faktencheck": "korrigiert",
+"id": "66-gottenheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gottenheim",
+"steckbrief": "Die Weinbaugemeinde Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie hoch war die Wahlbeteiligung in Gottenheim bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 80 %",
+"80 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine mittlere Spanne liegt nahe, weil bei Bundestagswahlen meist ein spürbarer Teil der Berechtigten zu Hause bleibt. In Gottenheim gaben aber 89 Prozent ihre Stimme ab. Stärkste Kraft bei den Zweitstimmen wurde die CDU, vor SPD und Grünen. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "66-gottenheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gottenheim",
+"steckbrief": "Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
+"frage": "1517 begann die Reformation, doch Gottenheim blieb katholisch. Welchen Grund nennt die Ortsgeschichte?",
+"optionen": [
+"Der Ort gehörte zu Vorderösterreich.",
+"Der Ort gehörte zu Bayern.",
+"Der Ort gehörte zu Lothringen.",
+"Der Ort gehörte zu Savoyen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bayern liegt nahe, denn es gilt als katholisches Kernland. Doch Gottenheim gehörte zu Vorderösterreich, den Besitzungen der Habsburger im Südwesten. Die katholischen Habsburger hielten ihre Gebiete beim alten Glauben. Später kam der Ort an Baden. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gottenheim.de/Geschichte/Kirche/",
+"faktencheck": "bestätigt",
+"id": "66-gottenheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Gottenheim",
+"steckbrief": "Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Gottenheim?",
+"optionen": [
+"EM",
+"FR",
+"LÖ",
+"OG"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer FR nur für Freiburg hält, tippt leicht auf einen Nachbarkreis wie EM. Doch Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, und dessen Hauptkennzeichen ist ebenfalls FR. Richtig war 2.",
+"quelle": "Wikidata P395; dewiki Infobox (Landkreis)",
+"faktencheck": "bestätigt",
+"id": "66-gottenheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gottenheim",
+"steckbrief": "Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Das Wasenweiler Ried zwischen Kaiserstuhl und Tuniberg wurde vom Mittelalter bis in die Neuzeit überschwemmt. Welche Ursache nennt eine Freiburger Doktorarbeit?",
+"optionen": [
+"Ein alter Rheinarm führte wieder Wasser.",
+"Ein Erdbeben ließ den Boden absinken.",
+"Der Grundwasserspiegel stieg an.",
+"Ein Vulkanausbruch am Kaiserstuhl staute das Wasser auf."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein alter Rheinarm liegt nahe, und genau das vermutete man früher auch: Der Ostrhein, ein eiszeitlicher Rheinlauf durch diese Senke, sei wieder aktiv geworden. Eine Freiburger Doktorarbeit stellt richtig: Ursache war der steigende Grundwasserspiegel. Das Ried liegt an einer Engstelle, durch die Grundwasser abfließen muss; dort bildete sich schwarzer Torf. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gottenheim.de/Geschichte/Ried/ (nach Lechner, Dissertation Universität Freiburg)",
+"faktencheck": "korrigiert",
+"id": "66-gottenheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gottenheim",
+"steckbrief": "Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Anfang des 19. Jahrhunderts wurde das alte Schulhaus umgebaut und erweitert. Wohin wich der Unterricht in dieser Zeit aus?",
+"optionen": [
+"Der Unterricht fand im Pfarrhaus statt.",
+"Der Unterricht fand in einem Gasthaus statt.",
+"Der Unterricht fand im Rathaus statt.",
+"Der Unterricht fand in der Sakristei statt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Pfarrhaus oder Rathaus liegen nahe, weil Schule, Kirche und Gemeinde damals eng verbunden waren. Tatsächlich zog der Unterricht während des Umbaus ins Gasthaus Sternen, gegen Miete. Noch früher, vor dem Schulhaus, hatte man in der Wohnstube des Sigristen, also des Mesners, unterrichtet. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gottenheim.de/Geschichte/Schule/",
+"faktencheck": "bestätigt",
+"id": "66-gottenheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gottenheim",
+"steckbrief": "Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
+"frage": "1946 wurde die Freiwillige Feuerwehr Gottenheim neu gegründet. Welchen Grund dafür nennt ihre Chronik?",
+"optionen": [
+"Ein Großbrand hatte ihre Ausrüstung vernichtet.",
+"Sie war mit einer Nachbarwehr zusammengelegt worden.",
+"Ihre Mitglieder hatten sie selbst aufgelöst.",
+"Die Besatzungsmacht hatte sie aufgelöst."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Nach dem Krieg liegt eine zerstörte Ausrüstung nahe. Doch die Chronik nennt einen anderen Grund: Die französische Besatzung hatte alle Vereine aufgelöst, auch die Feuerwehren. Ein viel früherer Gründungsversuch hatte übrigens aus Geldmangel keine Ausrüstung vom Gemeinderat bekommen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gottenheim.de/Feuerwehr/Geschichte/",
+"faktencheck": "korrigiert",
+"id": "66-gottenheim/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gottenheim",
+"steckbrief": "Gottenheim zählt rund 3.200 Einwohner und liegt 11 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Am 31. Januar 2019 ging das mechanische Stellwerk in Gottenheim außer Betrieb. Was geschah danach mit seiner Technik?",
+"optionen": [
+"Sie wurde als Ersatzteilquelle für andere Stellwerke abgebaut.",
+"Sie kam vollständig in ein Eisenbahnmuseum.",
+"Sie blieb als Schaustück an Ort und Stelle.",
+"Sie wurde an einen Sammler versteigert."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Museum liegt nahe, denn mechanische Stellwerke sind heute selten und bei Eisenbahnfreunden beliebt. Doch die Deutsche Bahn baute die Technik ab, um die gut erhaltenen Teile bei Bedarf für Reparaturen der wenigen verbliebenen mechanischen Stellwerke zu nutzen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gottenheim.de/Geschichte/Eisenbahn/",
+"faktencheck": "korrigiert",
+"id": "66-gottenheim/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "65-march",
+"anschluss": [
+"Fläche: March ist gut doppelt so groß wie Gottenheim.",
+"Einwohner: March hat fast dreimal so viele wie Gottenheim."
+],
+"km_vom_vorigen": 4.0
+},
+{
+"slug": "67-boetzingen",
+"name": "Bötzingen",
+"lat": 48.07694,
+"lon": 7.72556,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bötzingen",
+"steckbrief": "Bötzingen zählt rund 5.500 Einwohner und liegt 13 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Im Bötzinger Ortsteil Oberschaffhausen entstand Ende des 15. Jahrhunderts die St.-Albans-Kapelle. Warum wurde sie gebaut?",
+"optionen": [
+"Ein Adliger stiftete sie als Grabkapelle seiner Familie.",
+"Die Winzer dankten Gott für eine Rekordernte.",
+"Sie war Raststation für Pilger nach Santiago.",
+"Sie erfüllte ein Gelübde aus der Pestzeit."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Adelsstiftung liegt nahe, denn viele Kapellen gehen auf reiche Stifter zurück. Hier stand aber ein Pest-Gelübde dahinter: „Wir errichten eine Kapelle, wenn wir vor noch größerem Schaden verschont bleiben.“ Errichtet wurde sie zu Ehren des Pestheiligen Alban von Mainz; sie heißt auch Pestkapelle. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, boetzingen.de/start/tourismus/sehenswertes.html",
+"faktencheck": "bestätigt",
+"id": "67-boetzingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bötzingen",
+"steckbrief": "Bötzingen zählt rund 5.500 Einwohner und liegt 13 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Fläche der Gemeinde Bötzingen?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 25 km²",
+"25 bis unter 40 km²",
+"40 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Größere Schätzungen liegen nahe, weil Landgemeinden oft weite Felder und Wälder umfassen. Bötzingen misst aber nur 13 Quadratkilometer und ist damit dicht besiedelt. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "67-boetzingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bötzingen",
+"steckbrief": "Bötzingen zählt rund 5.500 Einwohner und liegt 13 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der erste Feuerwehrhauptmann war von Beruf Löwenwirt.",
+"Die Linde am Lindenplatz musste aus Sicherheitsgründen weichen.",
+"Das Staffelgiebelhaus heißt nach seinem Erbauer Staffel."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Löwenwirt als erster Hauptmann der Freiwilligen Feuerwehr klingt erfunden, stimmt aber. Gelogen ist die Herkunft des Staffelgiebelhauses: Es heißt nach den Stufen, den Staffeln, in seinen Giebeln. Ein Erbauer namens Staffel liegt nahe, weil viele Häuser nach Erbauern benannt sind. Die alte Linde wurde übrigens durch eine Neupflanzung ersetzt. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, boetzingen.de/start/ffw/chronik.html und boetzingen.de/start/tourismus/sehenswertes.html",
+"faktencheck": "korrigiert",
+"id": "67-boetzingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bötzingen",
+"steckbrief": "Bötzingen zählt rund 5.500 Einwohner und liegt 13 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Bei der Bundestagswahl 2025 wurde die CDU in Bötzingen stärkste Partei. Wie viel Prozent der Zweitstimmen erhielt sie?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 32 %",
+"32 bis unter 40 %",
+"40 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Über 40 Prozent liegt nahe, weil die CDU auf dem badischen Land traditionell stark ist. In Bötzingen kam sie auf 36,8 Prozent der Zweitstimmen, vor SPD und AfD. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "67-boetzingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bötzingen",
+"steckbrief": "Bötzingen zählt rund 5.500 Einwohner und liegt 13 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Laut Gemeinde besuchte Johann Wolfgang von Goethe ein Bötzinger Herrenhaus und genoss den Bötzinger Wein. Wo steht dieses Haus?",
+"optionen": [
+"Es thront auf einer Anhöhe über den Reben.",
+"Es steht am Waldrand hoch über dem Ort.",
+"Es steht auf einer Felskuppe über dem Dorf.",
+"Es steht bei der ehemaligen Mühle."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Anhöhe über den Reben liegt nahe, denn wer an Wein denkt, denkt an Weinberge. Das Herrenhaus steht aber bei der ehemaligen Mühle, die direkt am Mühlbach liegt. Es war Herrschaftssitz des Kammerrats Enderlin. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, boetzingen.de/start/tourismus/sehenswertes.html",
+"faktencheck": "korrigiert",
+"id": "67-boetzingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bötzingen",
+"steckbrief": "Bötzingen zählt rund 5.500 Einwohner und liegt 13 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie weit ist Bötzingen in Luftlinie von der Landeshauptstadt Stuttgart entfernt?",
+"optionen": [
+"unter 140 km",
+"140 bis unter 170 km",
+"170 bis unter 200 km",
+"200 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine größere Entfernung liegt nahe, denn auf der Straße ist der Weg nach Stuttgart deutlich länger. In Luftlinie trennen Bötzingen und die Landeshauptstadt aber nur 133 Kilometer. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "67-boetzingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bötzingen",
+"steckbrief": "Bötzingen zählt rund 5.500 Einwohner und liegt 13 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Der Fußboden der evangelischen Kirche in Bötzingen ist dem einer anderen Kirche nachempfunden. Welcher?",
+"optionen": [
+"Er ist dem Freiburger Münster nachempfunden.",
+"Er ist der Berliner Kaiser-Wilhelm-Gedächtniskirche nachempfunden.",
+"Er ist dem Straßburger Münster nachempfunden.",
+"Er ist der Dresdner Frauenkirche nachempfunden."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Freiburger Münster liegt nahe, es ist das große Kirchenvorbild der Region. Der Fußboden der evangelischen Kirche ist aber der Berliner Kaiser-Wilhelm-Gedächtniskirche nachempfunden. Ihren Kirchenturm erhielt die Kirche erst bei späteren Umbauten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, boetzingen.de/start/tourismus/sehenswertes.html",
+"faktencheck": "bestätigt",
+"id": "67-boetzingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bötzingen",
+"steckbrief": "Bötzingen zählt rund 5.500 Einwohner und liegt 13 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Der erste urkundliche Beleg für Bötzingen von 769 hält eine Schenkung fest. Wer bekam sie?",
+"optionen": [
+"Sie ging an das Kloster St. Gallen.",
+"Sie ging an das Kloster Reichenau.",
+"Sie ging an das Kloster Lorsch.",
+"Sie ging an das Bistum Straßburg."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. St. Gallen liegt nahe, denn das Kloster besaß früh Güter im nahen Breisgau. Die Schenkung in der „Betzinger marca“ ging aber an das Kloster Lorsch. Aus derselben Urkunde geht hervor, dass in Bötzingen schon damals Wein angebaut wurde; der Ort gilt als älteste Weinbaugemeinde der Region. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, boetzingen.de/start/gemeinde.html; LEO-BW",
+"faktencheck": "korrigiert",
+"id": "67-boetzingen/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "66-gottenheim",
+"anschluss": [
+"Gottenheim und Bötzingen sind direkte Nachbargemeinden.",
+"Wahlbeteiligung bei der Bundestagswahl 2025: Gottenheim 89, Bötzingen 82,2 Prozent."
+],
+"km_vom_vorigen": 3.0
+},
+{
+"slug": "68-eichstetten",
+"name": "Eichstetten",
+"lat": 48.09417,
+"lon": 7.74444,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eichstetten",
+"steckbrief": "Eichstetten hat rund 3.800 Einwohner und liegt 14 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Das Dorfmuseum hat eine Vorgeschichte: Hier stand die St. Jakobskapelle, im Dreißigjährigen Krieg zerstört. Wozu errichtete man 1765 an ihrer Stelle einen Neubau?",
+"optionen": [
+"Er wurde ein Kelterhaus für die Winzer.",
+"Er wurde das Rathaus des Dorfs.",
+"Er wurde das Schulhaus des Dorfs.",
+"Er wurde ein Gasthaus mit Saal."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Kelterhaus läge im Winzerdorf nahe, und Kirchengrund wurde oft weltlich genutzt. Der Neubau an der Stelle der Jakobskapelle entstand aber als Schulhaus. Lange wurde darin unterrichtet; nach der Sanierung zog das Dorfmuseum ein. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum",
+"faktencheck": "korrigiert",
+"id": "68-eichstetten/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Eichstetten",
+"steckbrief": "Eichstetten hat rund 3.800 Einwohner und liegt 14 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Eichstetten liegt am Ostrand des Kaiserstuhls. Auf welcher Höhe über dem Meer liegt der Ort?",
+"optionen": [
+"unter 120 m",
+"120 bis unter 150 m",
+"150 bis unter 180 m",
+"180 bis unter 220 m"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Kaiserstuhl ist ein kleines Gebirge, und Weinberge denkt man sich hoch oben. Der Ort selbst liegt aber niedriger, als der Name der Landschaft vermuten lässt: Die Quellen nennen 192 und 193 Meter. Richtig war 4.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "68-eichstetten/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Eichstetten",
+"steckbrief": "Eichstetten hat rund 3.800 Einwohner und liegt 14 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Eichstetter Wappen zeigt einen Rebzweig mit Traube.",
+"Unter dem Speicherboden des Dorfmuseums lagen Revolutionsakten.",
+"Bei der Sanierung des Dorfmuseums fand man einen Schlussstein mit Jakobsmuschel."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Rebzweig läge im Winzerdorf nahe. Das Wappen zeigt aber einen grünen Eichenzweig mit Eichel, daneben einen roten Schrägbalken. Die Revolutionsakten lagen wirklich unter dem Speicherboden, der Schlussstein mit Jakobsmuschel deutet auf den Jakobspilgerweg. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.eichstetten.de/unsere-gemeinde/wissenswertes/wappen-logo; www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum",
+"faktencheck": "korrigiert",
+"id": "68-eichstetten/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Eichstetten",
+"steckbrief": "Eichstetten hat rund 3.800 Einwohner und liegt 14 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Eichstetten bei den Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"AfD",
+"GRÜNE",
+"CDU"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Hinter der CDU erwartet man im Weinort am Kaiserstuhl leicht SPD oder Grüne. Zweite wurde aber die AfD, knapp vor der SPD; die Grünen landeten auf Platz vier. Die CDU lag klar vorn. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "68-eichstetten/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eichstetten",
+"steckbrief": "Eichstetten hat rund 3.800 Einwohner und liegt 14 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Eichstettens Weinfest heißt Schwiboge-Wifescht. Wonach ist es benannt?",
+"optionen": [
+"Es ist nach einem alten Winzertanz benannt.",
+"Es ist nach einer alten Bachbrücke benannt.",
+"Es ist nach den Bögen der Hoftore benannt.",
+"Es ist nach einem geschwungenen Rebweg benannt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer bei Schwiboge an Schwung denkt, landet beim Tanz oder beim geschwungenen Weg durch die Reben. Gemeint sind aber die Schwibögen: Rundbögen aus Sandstein an den Hofeinfahrten der Winzerhöfe. Durch sie fällt der Blick in die Innenhöfe. Ein Schwibogen steht auch im Gemeinde-Logo. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.eichstetten.de/unsere-gemeinde/wissenswertes/daten-fakten",
+"faktencheck": "bestätigt",
+"id": "68-eichstetten/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Eichstetten",
+"steckbrief": "Eichstetten hat rund 3.800 Einwohner und liegt 14 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Wie weit ist es von Eichstetten in der Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 60 km",
+"60 bis unter 90 km",
+"90 bis unter 120 km",
+"120 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Baden-Württemberg wirkt kompakt, und vom Kaiserstuhl aus schätzt man Stuttgart leicht näher. Dazwischen liegt aber der ganze Schwarzwald: Bis zur Landeshauptstadt sind es 130 Kilometer Luftlinie. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "68-eichstetten/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Eichstetten",
+"steckbrief": "Eichstetten hat rund 3.800 Einwohner und liegt 14 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Der Dreißigjährige Krieg traf Eichstetten schwer. Wie viele Einwohner zählte der Ort im Jahr 1659?",
+"optionen": [
+"unter 200 Einwohner",
+"200 bis unter 500 Einwohner",
+"500 bis unter 1.000 Einwohner",
+"1.000 Einwohner und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer die heutige Größe kennt, rechnet mit einigen hundert Überlebenden. 1659 lebten aber nur noch 110 Menschen im Ort. Viele Häuser waren verloren, und von den Alteingesessenen fehlten die meisten. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum",
+"faktencheck": "korrigiert",
+"id": "68-eichstetten/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eichstetten",
+"steckbrief": "Eichstetten hat rund 3.800 Einwohner und liegt 14 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Auf der Eichelspitze, Eichstettens Hausberg, fand man mittelalterliche Ofenkacheln, Pilgermünzen und eine Maultrommel. Wer lebte dort oben?",
+"optionen": [
+"Dort oben stand die Burg eines Ritters.",
+"Dort oben hatten Eremiten ihre Bleibe.",
+"Dort oben wohnte der Wärter des Aussichtsturms.",
+"Dort oben hüteten Hirten ihr Vieh."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Verzierte Ofenkacheln klingen nach Burg, und heute steht oben ein Aussichtsturm. Die Funde sind aber mittelalterlich und erzählen vom Alltag von Eremiten, also Einsiedlern, die auf dem Hausberg lebten. Unter den Funden waren auch Werkzeuge. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum",
+"faktencheck": "korrigiert",
+"id": "68-eichstetten/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eichstetten",
+"steckbrief": "Eichstetten hat rund 3.800 Einwohner und liegt 14 km nordwestlich von Freiburg im Breisgau.",
+"frage": "Im Jahr 1052 wurde in Eichstetten eine Kirche zu Ehren Marias, des Petrus und aller Heiligen geweiht. Welcher Bischof weihte sie?",
+"optionen": [
+"Es war der Bischof von Straßburg.",
+"Es war der Bischof von Basel.",
+"Es war der Bischof von Speyer.",
+"Es war der Bischof von Konstanz."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Basel und Straßburg liegen viel näher, darum tippt man gern auf sie. Geweiht hat aber der Bischof von Konstanz, auf Veranlassung des Edelfreien Hesso, eines freien Adligen. Die Kirche stand im Bereich der heutigen evangelischen Kirche. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum",
+"faktencheck": "korrigiert",
+"id": "68-eichstetten/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "67-boetzingen",
+"anschluss": [
+"Bundestagswahl 2025: Eichstettens Wahlbeteiligung lag über der von Bötzingen.",
+"Höhe: Bötzingen und Eichstetten liegen beide auf rund 192 Metern."
+],
+"km_vom_vorigen": 2.4
+},
+{
 "slug": "11-emmendingen",
 "name": "Emmendingen",
 "lat": 48.12139,
@@ -5218,8 +5946,9 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": null,
-"anschluss": []
+"anschluss_von": "68-eichstetten",
+"anschluss": [],
+"km_vom_vorigen": 8.3
 },
 {
 "slug": "01-kenzingen",

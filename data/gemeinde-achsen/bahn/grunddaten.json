@@ -167,6 +167,16 @@
   "ice_strecken, bahnhof_kategorie: im Altbestand nur für 51 große Städte."
  ],
  "maengel": [
+  "March: hoehe_m 201 (Wikidata P2044) gegen 219 (dewiki Infobox)",
+  "Gottenheim: Wikidata P131 nennt „Landkreis Freiburg“ ohne Enddatum, Infobox „Breisgau-Hochschwarzwald“",
+  "Gottenheim: geo.sqlite hat für Kreis 08315 kein Kennzeichen",
+  "Gottenheim: einwohner 3173 (Wikidata P1082) gegen 2456 (Altbestand geo.sqlite (GeoNames 2918707))",
+  "Gottenheim: hoehe_m 207 (Wikidata P2044) gegen 191 (Wikidata P2044)",
+  "Gottenheim: hoehe_m 207 (Wikidata P2044) gegen 191 (Altbestand geo.sqlite (GeoNames 2918707))",
+  "Bötzingen: Wikidata P131 nennt „Landkreis Freiburg“ ohne Enddatum, Infobox „Breisgau-Hochschwarzwald“",
+  "Bötzingen: geo.sqlite hat für Kreis 08315 kein Kennzeichen",
+  "Eichstetten: geo.sqlite hat für Kreis 08315 kein Kennzeichen",
+  "Eichstetten: einwohner 3757 (Wikidata P1082) gegen 3184 (Altbestand geo.sqlite (GeoNames 2932063))",
   "Kenzingen: einwohner 10829 (Wikidata P1082) gegen 9095 (Altbestand geo.sqlite (GeoNames 2891590))",
   "Kenzingen: kfz EM (Wikidata P395) gegen BL (Altbestand staedte.json)",
   "Herbolzheim: kfz EM (Wikidata P395) gegen BL (Altbestand staedte.json)",
@@ -261,6 +271,7 @@
   "Rhens: hoehe_m 65 (Wikidata P2044) gegen 77 (dewiki Infobox)",
   "Rhens: hoehe_m 65 (Wikidata P2044) gegen 80 (Altbestand staedte.json)",
   "Rhens: hoehe_m 65 (Wikidata P2044) gegen 80 (Altbestand geo.sqlite (GeoNames 2847588))",
+  "Rhens: ersterwaehnung 874 (dewiki, Extraktion Schicht 1 (Ortsblock)) gegen 1419 (dewiki, Extraktion Schicht 1 (Ortsblock))",
   "Boppard: kfz SIM (Wikidata P395) gegen MYK (Altbestand staedte.json)",
   "Boppard: hoehe_m 74 (Wikidata P2044) gegen 82 (dewiki Infobox)",
   "Boppard: hoehe_m 74 (Wikidata P2044) gegen 80 (Altbestand staedte.json)",
@@ -303,6 +314,652 @@
   "Speyer: kfz SP (Wikidata P395) gegen KUS (Altbestand geo.sqlite (Kreis 07318))"
  ],
  "orte": [
+  {
+   "slug": "65-march",
+   "rolle": "ziel",
+   "name": "March",
+   "einheit": "Gemeinde",
+   "wikidata": "Q557757",
+   "lat": 48.05611,
+   "lon": 7.78194,
+   "gemeindeschluessel": "08315132",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Breisgau-Hochschwarzwald",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 9337,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 17.79,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 525,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 201,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 219,
+      "quelle": "dewiki Infobox",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 8
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "8 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 131
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Haltepunkt Hugstetten"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79232"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07665"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 31.4,
+        "SPD": 17.3,
+        "GRÜNE": 17.0,
+        "AfD": 14.5,
+        "Die Linke": 6.7
+       },
+       "wahlbeteiligung_prozent": 84.5,
+       "gueltige_zweitstimmen": 5732
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Helmut Mursa",
+       "partei": "parteilos"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-06",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "66-gottenheim",
+   "rolle": "ziel",
+   "name": "Gottenheim",
+   "einheit": "Gemeinde",
+   "wikidata": "Q519267",
+   "lat": 48.04972,
+   "lon": 7.72889,
+   "gemeindeschluessel": "08315043",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Breisgau-Hochschwarzwald",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 3173,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 2456,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2918707)",
+      "abweichend": true
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 8.75,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 363,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 207,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 191,
+      "quelle": "Wikidata P2044",
+      "abweichend": true
+     },
+     {
+      "wert": 207,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 191,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2918707)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 11
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "11 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 134
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Gottenheim"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79288"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "79288"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07665"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 33.8,
+        "SPD": 17.7,
+        "GRÜNE": 17.1,
+        "AfD": 13.9,
+        "Die Linke": 5.7,
+        "FDP": 5.3
+       },
+       "wahlbeteiligung_prozent": 89.0,
+       "gueltige_zweitstimmen": 1867
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Christian Riesterer"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-06",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "67-boetzingen",
+   "rolle": "ziel",
+   "name": "Bötzingen",
+   "einheit": "Gemeinde",
+   "wikidata": "Q518889",
+   "lat": 48.07694,
+   "lon": 7.72556,
+   "gemeindeschluessel": "08315013",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Breisgau-Hochschwarzwald",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 5517,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 5239,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2945740)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 13.0,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 424,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 192,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 192,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 192,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2945740)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 13
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "13 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 133
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Bötzingen",
+       "Haltepunkt Bötzingen Mühle"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79268"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "79268"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07663"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 36.8,
+        "SPD": 17.4,
+        "AfD": 14.6,
+        "GRÜNE": 12.3,
+        "Die Linke": 5.5,
+        "FDP": 5.0
+       },
+       "wahlbeteiligung_prozent": 82.2,
+       "gueltige_zweitstimmen": 3118
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Dieter Schneckenburger"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-06",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "68-eichstetten",
+   "rolle": "ziel",
+   "name": "Eichstetten",
+   "einheit": "Gemeinde",
+   "wikidata": "Q606787",
+   "lat": 48.09417,
+   "lon": 7.74444,
+   "gemeindeschluessel": "08315030",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Breisgau-Hochschwarzwald",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Breisgau-Hochschwarzwald",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 3757,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 3184,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2932063)",
+      "abweichend": true
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 12.3,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 305,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FR",
+      "quelle": "Wikidata P395"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 193,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 193,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 192,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2932063)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Freiburg im Breisgau",
+       "km": 14
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "14 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 130
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Eichstetten am Kaiserstuhl"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "79356"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "79356"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07663"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 32.2,
+        "AfD": 15.6,
+        "SPD": 14.8,
+        "GRÜNE": 13.3,
+        "Die Linke": 6.2,
+        "FDP": 6.0
+       },
+       "wahlbeteiligung_prozent": 87.5,
+       "gueltige_zweitstimmen": 2298
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Michael Bruder"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-06",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Saint-André"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
   {
    "slug": "11-emmendingen",
    "rolle": "ziel",
@@ -9868,6 +10525,17 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
      }
     ],
+    "ersterwaehnung": [
+     {
+      "wert": 874,
+      "quelle": "dewiki, Extraktion Schicht 1 (Ortsblock)"
+     },
+     {
+      "wert": 1419,
+      "quelle": "dewiki, Extraktion Schicht 1 (Ortsblock)",
+      "abweichend": true
+     }
+    ],
     "plz": [
      {
       "wert": [
@@ -11415,6 +12083,12 @@
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
      }
     ],
+    "ersterwaehnung": [
+     {
+      "wert": 742,
+      "quelle": "dewiki, Extraktion Schicht 1 (Ortsblock)"
+     }
+    ],
     "bahnhof": [
      {
       "wert": [
@@ -11599,6 +12273,12 @@
        "km": 15
       },
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "ersterwaehnung": [
+     {
+      "wert": 765,
+      "quelle": "dewiki, Extraktion Schicht 1 (Ortsblock)"
      }
     ],
     "bahnhof": [
@@ -11977,6 +12657,12 @@
        "km": 50
       },
       "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "ersterwaehnung": [
+     {
+      "wert": 772,
+      "quelle": "dewiki, Extraktion Schicht 1 (Ortsblock)"
      }
     ],
     "bahnhof": [

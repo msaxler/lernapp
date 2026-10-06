@@ -1,0 +1,323 @@
+ENTITÄT: ort
+BEZEICHNUNG: March
+QUELLE: https://www.march.de/4782 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fusionsjahr: 1973
+  fusionsdatum: 1.12.1973
+  fusionierungsorte: Buchheim, Holzhausen, Hugstetten, Neuershausen
+  eigenschaft_gemeinde: Einheitsgemeinde
+  namensherkunft: "March" bedeutet "umgrenztes Gebiet", existierte bereits im Mittelalter
+  entfernung_freiburg: ca. 8 km, nordwestlich
+  referenzpunkt: Marchhügel
+  hoehenlage: 199-204 m NN
+  einwohnerzahl: 9504
+  einwohnerzahl_stand: 31.10.2025
+  gemarkungsflaeche: 1779 ha
+  historische_dorf_bezeichnung: seit alters her "Marchdörfer"
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: March
+QUELLE: https://www.march.de/4782 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  haushaltsvolumen_2026_ergebnis: 31809529 Euro
+  haushaltsvolumen_2026_investition: 2508500 Euro
+  schulden_31_12_2024: 10195673.19 Euro
+  schulden_pro_kopf: 1094.54 Euro
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gemeindewappen
+BEZEICHNUNG: Gemeindewappen March
+QUELLE: https://www.march.de/de/Leben-Wohnen/Mein-March/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verliehen: 1975
+  design_gestaltung: gespalten Schild
+  design_vorn: Silber mit rotem geschliffenem Nagelkreuz (Kloster Lorsch)
+  design_hinten: Rot mit silbernem Bären (Kloster St. Gallen)
+  symbolik: vereinigt die Wappen der beiden frühesten in der March nachgewiesenen Grundherrschaften
+  superlativ: repräsentiert die beiden frühesten Grundherrschaften
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Buchheim
+QUELLE: https://www.march.de/4782 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_vor_fusion: selbstaendige Gemeinde
+  fusiondatum: 1.12.1973
+  fusiongemeinde: March
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Holzhausen
+QUELLE: https://www.march.de/4782 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_vor_fusion: selbstaendige Gemeinde
+  fusiondatum: 1.12.1973
+  fusiongemeinde: March
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hugstetten
+QUELLE: https://www.march.de/4782 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_vor_fusion: selbstaendige Gemeinde
+  fusiondatum: 1.12.1973
+  fusiongemeinde: March
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neuershausen
+QUELLE: https://www.march.de/4782 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_vor_fusion: selbstaendige Gemeinde
+  fusiondatum: 1.12.1973
+  fusiongemeinde: March
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Holzhausen/Sachsen
+QUELLE: https://www.march.de/4782 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Sachsen, Deutschland
+  status: Stadtteil von Leipzig
+  einwohnerzahl: 6287
+  eingemeindung_leipzig: 1.1.1999
+GUELTIG_AB: 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirchengemeinde
+ORTSTEIL_BEZUG: Buchheim
+QUELLE: https://www.march.de/de/Leben-Wohnen/Kirchen,Soziales,Gesundheit/Kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Konrad-Stürtzel-Straße 27, 79232 March
+  konfession: evangelisch
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Römisch-katholische Kirchengemeinde March-Gottenheim
+ORTSTEIL_BEZUG: Hugstetten
+QUELLE: https://www.march.de/de/Leben-Wohnen/Kirchen,Soziales,Gesundheit/Kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Engelgasse 25, 79232 March
+  konfession: katholisch
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: kunsthalle messmer
+QUELLE: https://www.march.de/de/Erholung-Genuss/Sehenswertes/Museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stiftung_gruendung: 2005
+  stifter: Jürgen A. Messmer
+  anlass: "in Erinnerung an seine verstorbene Tochter Petra Kerstin"
+  museum_eroeffnung: 2009
+  gebaeude: ehemaliger Riegeler Brauerei-Gebäudekomplex
+  traeger: messmer foundation (gemeinnützige Stiftung)
+  adresse: Großherzog-Leopold-Platz 1, 79359 Riegel
+  lage: unweit von Freiburg
+  ausstellungen_pro_jahr: bis zu drei hochkarätige Wechselausstellungen
+  ausstellungsbeispiele: Victor Vasarely, Salvador Dalí
+  telefon: 07642 92016-20
+  website: www.kunsthallemessmer.de
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kunstsammlung
+BEZEICHNUNG: Kunstsammlung Messmer
+QUELLE: https://www.march.de/de/Erholung-Genuss/Sehenswertes/Museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sammlunschwerpunkt: konkret-konstruktive Kunst
+  kuenstler: Max Bill, Georges Braque, Salvador Dalí, Otto Dix, André Evard, Günter Fruhtrunk, Francois Morellet, A.R. Penck, Pablo Picasso, Victor Vasarely
+  erwerbung_evard_nachlass: 1978
+  evard_lebensdaten: 1876-1972
+  evard_beschreibung: Schweizer Maler der Moderne
+  sammeltaetigkeit_ab: 1970er Jahre
+  status: wird stetig erweitert
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Jürgen A. Messmer
+QUELLE: https://www.march.de/de/Erholung-Genuss/Sehenswertes/Museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1941
+  geburtsort: Villingen-Schwenningen
+  profession: Unternehmer, Kunstsammler
+  sammeltaetigkeit_start: 1970er Jahre
+  frueherer_beruf: Produzent exklusiver Schreibgeräte (messmer pen)
+  gruendung_stiftung: 2005
+  gruendung_museum: 2009
+  preis_gruendung: Internationaler André Evard-Preis
+GUELTIG_AB: 1941
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: preis
+BEZEICHNUNG: Internationaler André Evard-Preis für konkret-konstruktive Kunst
+QUELLE: https://www.march.de/de/Erholung-Genuss/Sehenswertes/Museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruender: Jürgen A. Messmer
+  traeger: messmer foundation
+  zielgruppe: Gegenwartskuenstler aus dem konkret-konstruktiven Bereich
+  veroeffentlichung_ergebnisse: Gruppenschau
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: brauerei
+BEZEICHNUNG: Riegeler Bier (Brauerei Wilhelm Meyer & Söhne)
+QUELLE: https://www.march.de/de/Erholung-Genuss/Sehenswertes/Museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsjahr: 1876
+  gruender: Silvester Meyer (Sohn des Firmengründers)
+  standort: Riegel, am Fuße des Michaelisbergs
+  absatzgebiet_bis_1915: Baden und Elsass
+  betriebsdauer: ca. 125 Jahre
+  produktionsstilllegung: 2002
+  architektur: zahlreiche Gebäude mit außergewöhnlicher Architektur, teilweise verdeckte Fassaden
+  umnutzung: Lofts und Büros
+  museum_nachnutzung: 2009 kunsthalle messmer in ehemaliger Schwenkhalle
+GUELTIG_AB: 1876
+GUELTIG_BIS: 2002
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: seniorenzentrum
+BEZEICHNUNG: Seniorenzentrum March
+ORTSTEIL_BEZUG: Hugstetten
+QUELLE: https://www.march.de/de/Leben-Wohnen/Kirchen,Soziales,Gesundheit/Seniorenzentrum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schwarzwaldstraße 18, 79232 March
+  traeger: Deutsches Rotes Kreuz, Kreisverband Freiburg
+  leiter: Peter Baake
+  gemeinde_belegungsrecht: 19 Wohnungen auf 30 Jahre
+  begegnungsstaette: "Cafe Vis a Vis"
+  pflegetrakt: 67 Pflegeplätze mit 13 Demenzstationen
+  ansprechpartner_pflege: Frau Kern
+  telefon: 07665 9345-100
+  email: info-pflegeheim(at)drk-freiburg.de
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: muetterzentrum
+BEZEICHNUNG: Mütterzentrum March-Reute e.V.
+QUELLE: https://www.march.de/de/Leben-Wohnen/Kirchen,Soziales,Gesundheit/Muetterzentrum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakter: selbstorganisierter Treffpunkt, Form der nachbarschaftlichen Selbsthilfe
+  zielgruppe: Frauen und Kinder aller Konfessionen und Nationalitäten, Väter willkommen
+  dachverband: Mütterforum mit ca. 45 Mütterzentren landesweit
+  foerderung: örtliche Pfarrgemeinden und Bildungswerk Freiburg
+  programm: Kurse, Gesprächskreise, Vorträge, Alleinerziehenden-Treff, PEKiP, Baby-Club, Sport, kreative Angebote
+  website: www.muetterzentrum-march-reute.de
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: hospizgruppe
+BEZEICHNUNG: Hospizbewegung Breisgau-Hochschwarzwald e.V.
+QUELLE: https://www.march.de/de/Leben-Wohnen/Kirchen,Soziales,Gesundheit/Hospizgruppe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktionsgebiet: Stadtkreis Freiburg und Landkreis Breisgau-Hochschwarzwald
+  ehrenamtliche: ueber 150
+  adresse: Albert-Schweizer-Straße 5, 79119 Kirchzarten
+  telefon: 07661 391108
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: caritas_familienpflege
+BEZEICHNUNG: Caritas Haus- und Familienpflege
+QUELLE: https://www.march.de/de/Leben-Wohnen_/Kirchen-Soziales-Gesundheit/Caritas- | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: Caritasverband für den Landkreis Breisgau-Hochschwarzwald e.V.
+  einzugsgebiet: Gemeinde March und Landkreis Breisgau-Hochschwarzwald
+  einsatzleiterin: Barbara Möhring
+  telefon: 0761 89654-51
+  email: cv-familienpflege(at)caritas-bh.de
+  website: www.caritas-bh.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kleiderstube
+BEZEICHNUNG: Kleiderstube March
+ORTSTEIL_BEZUG: Buchheim
+QUELLE: https://www.march.de/de/Leben-Wohnen_/Kirchen-Soziales-Gesundheit/Kleiderstube-March | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Schulbergstrasse 1, March-Buchheim (ehemaliges Rathaus)
+  angebot: Kleidung und Haushaltsartikel
+  zielgruppe: bedürftige Menschen aus der Gemeinde
+  ansprechperson: Petra Engler
+  telefon: 07665-912584
+  email: Kleiderstube-March(at)gmx.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: weinanbau
+QUELLE: https://www.march.de/4782 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gebiet: Kaiserstuhl (vulkanisches Gebirge)
+  lagen: "Rebstuhl/Buchheim", "Steingrube/Neuershausen"
+  gemeinde_zugehoerigkeit: March gehört zum Weinanbaugebiet Kaiserstuhl
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

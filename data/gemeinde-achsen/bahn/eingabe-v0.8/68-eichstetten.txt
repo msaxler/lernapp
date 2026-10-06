@@ -1,0 +1,480 @@
+ZIELORT: Eichstetten (Gemeinde)
+LAGE: 14 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Eichstetten am Kaiserstuhl
+
+GRUNDDATEN:
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 3757  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 12,3  [Wikidata P2046]
+  dichte_ew_km2: 305  [berechnet aus Einwohner und Fläche]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 193 | 192  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2932063)]
+  naechste_grossstadt: Freiburg im Breisgau, 14 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 130 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Eichstetten am Kaiserstuhl  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 79356  [Wikidata P281]
+  vorwahl: 07663  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,2 %, AfD 15,6 %, SPD 14,8 %, GRÜNE 13,3 %, Die Linke 6,2 %, FDP 6 %; Wahlbeteiligung 87,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Michael Bruder — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-06]
+  partnerstaedte: Saint-André  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT hoehe_m: Höhe des Orts (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Fläche der Gemarkung), C, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Bötzingen (Gemeinde)
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  einwohner: 5517  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 13  [Wikidata P2046]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 192  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2945740)]
+  naechste_grossstadt: Freiburg im Breisgau, 13 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Bötzingen, Haltepunkt Bötzingen Mühle  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 36,8 %, SPD 17,4 %, AfD 14,6 %, GRÜNE 12,3 %, Die Linke 5,5 %, FDP 5 %; Wahlbeteiligung 82,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Frankfurt am Main, Rüsselsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Koblenz, Rhens, Boppard, St. Goar, Oberwesel, Bacharach, Bingen, Ingelheim, Alzey, Nierstein, Oppenheim, Worms, Frankenthal, Ludwigshafen, Speyer, Landau
+
+FAKTEN (Zielort Eichstetten):
+ID: 68-eichstetten/001
+ENTITÄT: ort
+BEZEICHNUNG: Eichstetten
+QUELLE: https://www.eichstetten.de/unsere-gemeinde/gemeinde-eichstetten/kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  region: Südbaden
+  charakterisierung: Winzerdorf
+  einwohner: 3700
+  einwohner_genauigkeit: ca.
+  lage: Ostrand des Kaiserstuhls
+  höhe_min: 198
+  höhe_max: 520
+  höhe_einheit: m ü.d.M.
+  höchste_erhebung: Eichelspitze
+  gemarkung_ha: 1231
+  weinbergfläche_ha: 363
+  entfernung_freiburg_km: ca. 15
+  klima: wärmste Gegend Deutschlands
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 68-eichstetten/002
+ENTITÄT: ort
+BEZEICHNUNG: Eichstetten
+QUELLE: https://www.eichstetten.de/unsere-gemeinde/wissenswertes/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 737
+  ortsname_urkundlich: Eistat
+  urkundliche_quelle: Etichonkloster Murbach (Elsass)
+  grund_urkundliche_erwähnung: Namensendung -stetten weist auf alamannische Siedlung hin
+  markgräflich_badisch_seit: 1416
+  markgraf: Bernhard von Baden
+  grund_badisch: Einlösung einer Pfandschaft
+  marktrecht_jahr: 1418
+  reformationszeit_evangelisch: 1556
+  grund_evangelisch: markgräflich badischer Ort
+  bevölkerung_1659: 110
+  bevölkerung_verlust_häuser_prozent: 52
+  bevölkerung_verlust_eingesessene_prozent: 85
+  grund_bevölkerungsverlust: 30-jähriger Krieg
+  bevölkerungsmax_19jh_jahr: 1849
+  bevölkerungsmax_19jh: 2860
+  auswanderungswelle: um 1850
+  auswanderungsziel: Amerika
+GUELTIG_AB: 737
+GUELTIG_BIS: 1850
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 68-eichstetten/003
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Steinzeitliche Funde
+QUELLE: https://www.eichstetten.de/unsere-gemeinde/wissenswertes/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fund_typ: Steinbeile, Feuersteinklingen
+  zeitraum: Steinzeit
+  fundort: westlicher Gemarkungsteil (Flurbereinigungen)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 68-eichstetten/004
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Bronzezeitliche Siedlungsspuren
+QUELLE: https://www.eichstetten.de/unsere-gemeinde/wissenswertes/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: Bronzezeit
+  fundort: westlicher Gemarkungsteil (Flurbereinigungen)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 68-eichstetten/005
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Urnenfelderzeitliche Scherben
+QUELLE: https://www.eichstetten.de/unsere-gemeinde/wissenswertes/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: Urnenfelderzeit
+  fundort: Neubaugebiet Dorfgraben (Baugruben)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 68-eichstetten/006
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Römischer Gutshof
+QUELLE: https://www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: villa rustica
+  zeitraum_jh: 3. Jahrhundert n.Chr.
+  fundort_gewann: Kaltenbrunnen
+  fund: Fundament
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 68-eichstetten/007
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Bronzemünze Kaiser Vespasian
+QUELLE: https://www.eichstetten.de/unsere-gemeinde/wissenswertes/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kaiser: Vespasian
+  münze_prägung_jahr: 71
+  münze_prägung_ära: n.Chr.
+  fundort: Quellfassung im Gewann Kaltenbrunnen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 68-eichstetten/008
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Römische Münzen und Straßenpflaster
+QUELLE: https://www.eichstetten.de/unsere-gemeinde/wissenswertes/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fundort: Alter Ortskern
+  fund_beschreibung: römische Münzen und Straßenpflaster
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 68-eichstetten/009
+ENTITÄT: friedhof
+BEZEICHNUNG: Alamannisches Gräberfeld Wannenberg
+QUELLE: https://www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: Merowingerzeit / fränkisches Reich
+  zeitraum_jahr: ca. 600
+  zeitraum_ära: n.Chr.
+  fundort: Wannenberg (Anhöhe nördlich des Ortskerns)
+  gräber_anzahl: 272
+  gräberfeld_erhaltung: fast vollständig
+  ausgrabung_jahr: 1975
+  ausgrabung_organisation: Landesdenkmalamt Freiburg
+  dokumentation_jahr: 2001
+  dokumentation_träger: Landesdenkmalamt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 68-eichstetten/010
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Eremiten-Funde Eichelspitze
+QUELLE: https://www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: Mittelalter
+  fundort: Eichelspitze
+  fund_detailliert: Ofenkacheln mit Reliefverzierung, Pilgermünzen, Werkzeuge, Maultrommel
+  kontext: Alltagsleben dort lebender Eremiten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 68-eichstetten/011
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Schlussstein mit Jakobsmuschel
+QUELLE: https://www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fundort: Dorfmuseum-Gebäude (ehem. Schulhaus)
+  fundanlass: Sanierungsarbeiten 1991
+  bedeutung: deutet auf St. Jakobspilgerweg (Durchgang oder Zugang)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 68-eichstetten/012
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Akten badisch-rheinpfälzischer Revolutionstruppen
+QUELLE: https://www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_jahr: 1849
+  fundort: Speicher des Dorfmuseum-Gebäudes (unter Fußboden)
+  archiviert_bei: Generallandesarchiv Karlsruhe
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 68-eichstetten/013
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche (St. Marien, St. Petrus und aller Heiligen)
+QUELLE: https://www.eichstetten.de/unsere-gemeinde/wissenswertes/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  weihe_datum: 6. Dezember 1052
+  weihe_veranlasser: Edelfreier Hesso
+  weihe_gegenstand: Kirche zu Ehren der heiligen Maria, St. Petrus und aller Heiligen
+  weihe_bischof: Bischof von Konstanz
+  weihe_ort: Bereich der heutigen evangelischen Kirche
+  urkunde_original_datum: 6. Dezember 1052
+  urkunde_eigenschaft: älteste noch im Original vorhandene Urkunde Eichstettens
+GUELTIG_AB: 1052
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 68-eichstetten/014
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Jakobskapelle
+QUELLE: https://www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung: 1341
+  erste_erwähnung_bezeichnung: obere Kirche oder Kapelle
+  kapelle_erwähnung: 1451
+  kapelle_zerstörung: 30-jähriger Krieg
+  zerstörungs_ausmaß: vollständig
+  wiederaufbau_jahr: 1765
+  wiederaufbau_zweck: Schulhaus
+  schulhaus_nutzung_bis: 1960er Jahre
+  sanierung_umbau_jahr: 1991
+  umbau_zweck: Dorfmuseum
+GUELTIG_AB: 1341
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 68-eichstetten/015
+ENTITÄT: gebäude
+BEZEICHNUNG: Dorfmuseum
+QUELLE: https://www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einrichtung_jahr: 1991
+  ausstellungen: jährlich wechselnd
+  öffnungszeit_monat_start: Mai
+  öffnungszeit_monat_end: November
+  saisoneröffnung: Museumshock im Mai
+  historischer_vorgängerbau: St. Jakobskapelle, später Schulhaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 68-eichstetten/016
+ENTITÄT: gebäude
+BEZEICHNUNG: Rathaus
+QUELLE: https://www.eichstetten.de/unsere-gemeinde/gemeinde-eichstetten/kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsbildprägend: true
+  architekturmerkmal: Staffelgiebel
+  baumaterial: Sandstein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 68-eichstetten/017
+ENTITÄT: gebäude
+BEZEICHNUNG: Synagoge
+QUELLE: https://www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung_jahr: 1830
+  zerstörung_datum: 10. November 1938
+  zerstörung_täter: auswärtige SA und SS
+  zerstörungs_art: in Brand gesteckt und abgerissen
+GUELTIG_AB: 1830
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 68-eichstetten/018
+ENTITÄT: geländeform
+BEZEICHNUNG: Eichelspitze
+QUELLE: https://www.eichstetten.de/unsere-gemeinde/wissenswertes/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigenschaft_topographisch: höchste Erhebung Eichstettens
+  beiname: Hausberg von Eichstetten
+  beschreibung_landschaft: bewaldete Eichelspitze
+  archäologische_besonderheit: mittelalterliche Funde zum Alltagsleben von Eremiten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 68-eichstetten/019
+ENTITÄT: geländeform
+BEZEICHNUNG: Wannenberg
+QUELLE: https://www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Anhöhe nördlich des Ortskerns
+  archäologische_bedeutung: Alamannisches Gräberfeld mit 272 Gräbern (ca. 600 n.Chr.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 68-eichstetten/020
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: Schwiboge-Wifescht
+QUELLE: https://www.eichstetten.de/unsere-gemeinde/wissenswertes/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  veranstaltungsart: Weinfest
+  häufigkeit: alle 2 Jahre
+  charakterisierung: typisch dörflicher Charakter
+  bedeutung: überregionaler Anziehungspunkt
+  namensgeber: Hofeinfahrten (Schwibögen) der Winzerhöfe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 68-eichstetten/021
+ENTITÄT: kulturelle_veranstaltung
+BEZEICHNUNG: Jahrmarkt
+QUELLE: https://www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  marktrecht_verleihung_jahr: 1418
+  marktrecht_verleihung_datum: 10. August 1418
+  marktrecht_verleiher: Markgraf Bernhard von Baden
+  häufigkeit: Frühjahr und Herbst
+  aktualität: findet auch heute noch statt
+GUELTIG_AB: 1418
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 68-eichstetten/022
+ENTITÄT: jüdische_gemeinde
+BEZEICHNUNG: Jüdische Gemeinde Eichstetten
+QUELLE: https://www.eichstetten.de/freizeit-kultur-tourismus/dorfmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_zeitraum: 18. Jahrhundert
+  gründung_grund: Zuwanderung
+  bevölkerung_maximum_jahr: 1867
+  bevölkerung_maximum: 427
+  bevölkerung_1937_familien: 30
+  synagoge_erbauung: 1830
+  synagoge_zerstörung: 10. November 1938
+  synagoge_zerstörer: auswärtige SA und SS
+  deportation_datum: 22. Oktober 1940
+  deportation_ziel: Konzentrationslager Gurs
+  gedenkform_stolpersteine: 47 Stolpersteine
+  stolpersteine_finanzierung: Spendengelder
+GUELTIG_AB: 1700
+GUELTIG_BIS: 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 68-eichstetten/023
+ENTITÄT: architekturmerkmal
+BEZEICHNUNG: Schwibögen (Winzerhöfe)
+QUELLE: https://www.eichstetten.de/unsere-gemeinde/wissenswertes/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: charakteristische Rundbögen aus Sandstein
+  besonderheit: reizvolle Blicke in schöne Innenhöfe
+  kulturelle_bedeutung: Namensgeber des Weinfests Schwiboge-Wifescht
+  zugehörigkeit: Winzerhöfe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 68-eichstetten/024
+ENTITÄT: wappen
+BEZEICHNUNG: Eichstetter Wappen
+QUELLE: https://www.eichstetten.de/unsere-gemeinde/wissenswertes/wappen-logo | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  blasonierung: gespalten; vorn rotes Schrägbalken in Gold, hinten grüner Eichenzweig mit Eichel und vier Blättern in Silber
+  farben: Rot und Gelb
+  flagge: Grün-Weiß (Grün-Silber)
+  ältestes_siegel: 1422
+  siegel_eigenschaft: ältestes dörfliches Siegel im Landkreis Breisgau-Hochschwarzwald
+  siegel_1418_träger: Henni Vock, Vogt zu Eistat
+  siegel_1418_beschreibung: Schrägbalken der badischen Landesherren mit Tierkopf (vermutlich Bock)
+  siegel_1422_beschreibung: gespaltener Schild mit Schräglinksbalken und gestielter Eichel
+  siegel_ab_1478: badisches Wappen als Schrägrechtsbalken
+  siegel_ca_1750: Eichel als mehrblättriger, geschwungener Eichenzweig
+  tingierung_vorschlag_jahr: 1906
+  tingierung_vorschlag_von: Generallandesarchiv
+  tingierung_akzeptanz_jahr: 1913
+  tingierung_akzeptanz_durch: Gemeinderat
+  flaggenfarben_beschluss_datum: 16. Juni 1983
+  flaggenfarben_beschluss_durch: Gemeinderat
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 68-eichstetten/025
+ENTITÄT: logo
+BEZEICHNUNG: Eichstetter Gemeinde-Logo
+QUELLE: https://www.eichstetten.de/unsere-gemeinde/wissenswertes/wappen-logo | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  designer: Manfred Breisacher
+  design_jahr: 1997
+  symbolik: aufstrebende, innovative Gemeinde
+  design_elemente: Torbogen (Schwibogen), Staffelgiebel des Rathauses, Kirchturm der evangelischen Kirche
+  designmerkmal_anordnung: ansteigende Anordnung für Dynamik
+  designmerkmal_strich: unterlegter Strich (an Weinberge erinnernd)
+  farbe_strich: leuchtend gelber Pinselstrich (Sonnenlicht, südliche Landschaft)
+  farbe_aktuell: Sandsteinrot statt Heraldisch Rot; warmer Gelbton
+  bedeutung_schwibogen: dörfliche Struktur, Namensgeber Weinfest
+  bedeutung_rathaus_kirche: ortsbildprägend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 68-eichstetten/026
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Partnergemeinde St. André
+QUELLE: https://www.eichstetten.de/unsere-gemeinde/wissenswertes/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnergemeinde_name: St. André
+  land: Frankreich
+  besonderheit_farben: katalanische Farben (auch im Eichstetter Logo)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 68-eichstetten/027
+ENTITÄT: kontakt
+BEZEICHNUNG: Kontakt Amtzell
+QUELLE: https://www.eichstetten.de/unsere-gemeinde/wissenswertes/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeinde_name: Amtzell
+  region: Allgäu
+  beziehung: Kontakte bestehen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 68-eichstetten/028
+ENTITÄT: kontakt
+BEZEICHNUNG: Kontakt Warthe
+QUELLE: https://www.eichstetten.de/unsere-gemeinde/wissenswertes/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeinde_name: Warthe
+  region: Brandenburg
+  beziehung: Kontakte bestehen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 68-eichstetten/029
+ENTITÄT: chronik
+BEZEICHNUNG: Eichstetter Chronik Band 1
+QUELLE: https://www.eichstetten.de/unsere-gemeinde/impressionen-rueckblicke/ortschronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  band: 1
+  herausgeber: Dr. Thomas Steffens
+  auftrag_von: Gemeinde Eichstetten
+  veröffentlichung_jahr: 1996
+  zeitabdeckung: Jungsteinzeit bis ca. 1800
+  autoren: Dr. Thomas Steffens, Karl Weber, Kurt Heinzmann
+  kapitel_themen: Jungsteinzeit, Metallzeiten, Römerzeit, Alamannen, Mittelalter, frühe Neuzeit, Wiederbesiedlung nach 30-jährigem Krieg
+  preis_einzeln_euro: 23
+  preis_beide_baende_euro: 40.90
+  preis_zusatz: zzgl. Versand
+  vertrieb: Gemeindeverwaltung Eichstetten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 68-eichstetten/030
+ENTITÄT: chronik
+BEZEICHNUNG: Eichstetter Chronik Band 2
+QUELLE: https://www.eichstetten.de/unsere-gemeinde/impressionen-rueckblicke/ortschronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  band: 2
+  herausgeber: Dr. Thomas Steffens
+  weitere_bearbeiter: Gerhard Auer
+  veröffentlichung_datum: 6. Dezember 2000
+  zeitabdeckung: 19. Jahrhundert bis Neuzeit
+  autoren: Dr. Thomas Steffens, Gerhard Auer, Kurt Heinzmann, Christina Weiblen, Ulrich Baumann, Harald Noth
+  kapitel_beispiele: Auswanderung, jüdische Gemeinde, Kirche und Schule, Eichstetter Mundart
+  preis_einzeln_euro: 23
+  preis_beide_baende_euro: 40.90
+  preis_zusatz: zzgl. Versand
+  vertrieb: Gemeindeverwaltung Eichstetten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

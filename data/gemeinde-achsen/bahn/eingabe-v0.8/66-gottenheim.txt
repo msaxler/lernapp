@@ -1,0 +1,416 @@
+ZIELORT: Gottenheim (Gemeinde)
+LAGE: 11 km nordwestlich von Freiburg im Breisgau (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Gottenheim
+
+GRUNDDATEN:
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 3173  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 8,75  [Wikidata P2046]
+  dichte_ew_km2: 363  [berechnet aus Einwohner und Fläche]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 207 | 191 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2918707)]
+  naechste_grossstadt: Freiburg im Breisgau, 11 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 134 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Gottenheim  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 79288  [Wikidata P281]
+  vorwahl: 07665  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 33,8 %, SPD 17,7 %, GRÜNE 17,1 %, AfD 13,9 %, Die Linke 5,7 %, FDP 5,3 %; Wahlbeteiligung 89 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Christian Riesterer — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-06]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT kfz: Kennzeichen (Ersatz: Luftlinie zur Landeshauptstadt), A, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: March (Gemeinde)
+  landkreis: Breisgau-Hochschwarzwald  [dewiki Infobox]
+  einwohner: 9337  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 17,79  [Wikidata P2046]
+  kfz: FR (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 201 | 219 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox]
+  naechste_grossstadt: Freiburg im Breisgau, 8 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Haltepunkt Hugstetten  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 31,4 %, SPD 17,3 %, GRÜNE 17 %, AfD 14,5 %, Die Linke 6,7 %; Wahlbeteiligung 84,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Frankfurt am Main, Rüsselsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Koblenz, Rhens, Boppard, St. Goar, Oberwesel, Bacharach, Bingen, Ingelheim, Alzey, Nierstein, Oppenheim, Worms, Frankenthal, Ludwigshafen, Speyer, Landau
+
+FAKTEN (Zielort Gottenheim):
+ID: 66-gottenheim/001
+ENTITÄT: kirche
+BEZEICHNUNG: St. Stephan
+QUELLE: https://www.gottenheim.de/Geschichte/Kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortspatron: St. Gallus
+  ortspatron_wirken_zeit: 5. Jahrhundert
+  ortspatron_wirken_ort: Tuniberg
+  ersterwähnung_jahr: 1139
+  ersterwähnung_urkunde_datum: 14. April 1139
+  ersterwähnung_urkunde_aussteller: Papst Innocenz II.
+  funktion_frühe_periode: Filial von Umkirch
+  seelsorge_frühe_periode: von Pfarrer Umkirch aus
+  frühmesserei: vorhanden (späteres Armenhaus)
+  zustand_1465: ruinös
+  kirchliches_begräbnisrecht: 1493
+  taufstein_genehmigung_jahr: 1565
+  taufstein_genehmigung_datum: 25. November 1565
+  zerstörung_30jähriger_krieg_datum: 17. Juni 1632
+  zerstörung_30jähriger_krieg_folge: mit Ausnahme des Chores (Glockenhaus, Turmhalle)
+  zweite_kirche_zustand_1650: ruinös
+  st_agatha_bruderschaft_gründung: 1660
+  st_agatha_bruderschaft_fokus: Rosenkranz
+  glocken_gießer: Gebr. Rossier
+  glocken_gießen_jahr: 1726
+  glocken_gießen_ort: vor Ort
+  erbauung_kirche_dritte: 1727
+  benediktion_kirche_dritte: 1727
+  konsekration_datum: 5. August 1738
+  konsekration_tag_name: Patroziniumstag (St. Stephanus Auffindung)
+  konsekration_weihbischof: Johannes Franziskus Antonius von Sirgenstein
+  konsekration_weihbischof_titel: Weihbischof und Generalvikar von Konstanz
+  konsekration_weihbischof_lebensdaten: 1683-1739
+  kirchenmauer_fertigstellung: 1729
+  chor_sakristei_unterkapelle_erbauung: 1827-1828
+  barockaltäre_umgestaltung_periode: 1888-1892
+  hochaltar_künstler: Carl Georg Kaiser
+  hochaltar_künstler_schulzugehörigkeit: Schüler von Paul von Deschwanden
+  hochaltar_künstler_signatur_jahr: 1890
+  seitenaltäre_künstler: Johannes Cahn
+  seitenaltäre_künstler_schaffenszeit: 1890-1892
+  restaurierung_jahr: 1890
+  wandmalereien_entdeckung_jahr: 1893
+  wandmalereien_zeit: um 1500
+  wandmalereien_darstellung: Gestalt Christi mit 12 Aposteln, Sanctus Stephanus, Sanctus Andreas, Sanctus Thomas, Sanctus Bartholomäus, Madonna mit Engeln
+  bombenschaden_datum: 24. Februar 1945
+  bombenschaden_folge: schwer beschädigt (Turm und Kirchenschiff)
+  kirchenrenovation_große_periode: 1972-1974
+  kirchenrenovation_große_leitung: Pfarrer Linus Saum
+  glocken_zusätzliche_anschaffung: 1989
+  glocken_zusätzliche_anzahl: zwei
+  innenrenovation_letzte: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 66-gottenheim/002
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof Breike
+QUELLE: https://www.gottenheim.de/Geschichte/Kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_jahr: 1825
+  benediktion_jahr: 1825
+  ursprüngliche_lage: um die Kirche
+  umfassung: Mauer
+GUELTIG_AB: 1825
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 66-gottenheim/003
+ENTITÄT: chor
+BEZEICHNUNG: Kirchenchor Gottenheim / Cäcilienverein
+QUELLE: https://www.gottenheim.de/Kirche/Kirchenchor/historie.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verfügung_bezahlung_jahr: 1817
+  verfügung_aussteller: Landesamt Freiburg
+  gründungsmitglieder_anzahl_initial: sieben Chorknaben
+  gründungsmitglieder_anfangszeit: 1817
+  gemischter_chor_gründung: 1820
+  gemischter_chor_sänger_anzahl: 12
+  gemischter_chor_sänger_geschlechterverteilung: 6 Männer, 6 Frauen
+  sänger_vergütung_früh: 30 Kreuzer
+  blütezeit_ende: 1835
+  grund_blütezeitende: Einstellung der Zahlungen für Kirchenbedienstete
+  organist_1871: Vital Geiger (Lehrer)
+  mesner_berufsstand: 1886 (als eigenständiger Beruf)
+  mesner_früher_besetzung: von Lehrer gestellt
+  mesner_früher_zusatzvergütung: 100 Gulden
+  unterlehrer_früh: Deger (Anfang 20. Jahrhundert)
+  organist_1922_1936: Hauptlehrer Schneider
+  organist_1939_1945: Henzler aus Waltershofen
+  aktivität_1939_1945: fast völlig ruhend
+  neubeginn_nach_krieg: 1946
+  leiter_neubeginn: Franz Gersbacher
+  leitungsdauer_gersbacher: 22 Jahre
+  cäcilienverein_gründung: 1948
+  cäcilienverein_gründungkontext: kirchenmusikalische und weltliche Veranstaltung
+  organist_1968_1973: Bernhard Schmidle
+  leiter_1973_1985: Rektor Spettnagel
+  leiter_ab_1985: Guido Sutter aus Umkirch
+  jubiläum_100_jahre: 1986
+  jubiläum_100_jahre_datum: 16. Mai 1986
+  jubiläum_100_jahre_auszeichnung: Palestrina-Medaille
+GUELTIG_AB: 1817
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 66-gottenheim/004
+ENTITÄT: winzergenossenschaft
+BEZEICHNUNG: WG Gottenheim
+QUELLE: https://www.gottenheim.de/WG/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_datum: 14. August 1958
+  gründer_initiator: Max Grafmüller
+  gründer_initiator_funktion: Bürgermeister von Gottenheim
+  gründungsmotive: Verbesserung der Weinbausituation
+  gründungsmitglieder_anzahl: neun Winzerfamilien
+  heutige_mitglieder: 180
+  partner_ausbau_vermarktung: Badischer Winzerkeller Breisach
+  rebfläche_gesamt_hektar: 110 (ca.)
+  rebfläche_flurbereinigt_1965_1966: 62 Hektar
+  rebfläche_alter_rebberg: Rest in ursprünglicher Form (Hohlgassen)
+  hauptsorte: Spätburgunder
+  hauptsorte_ausbauvarianten: Rotwein, Rosé, Weißherbst
+  weitere_sorten: Weißburgunder, Grauburgunder, Müller-Thurgau
+  lagebezeichnung: Kirchberg
+  umweltanspruch: umweltschonender Weinbau
+  jubiläum_50_jahre: 2009
+  jubiläum_50_jahre_event: großer Festumzug
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 66-gottenheim/005
+ENTITÄT: ortsfamiliendatenbank
+BEZEICHNUNG: OFD-Gottenheim
+QUELLE: https://www.gottenheim.de/Geschichte/OFD/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  projektleiter: Kurt Hartenbach
+  projektleiter_telefon: "07665 51306"
+  projekttyp: Genealogische Datenbank
+  datenquelle_basis: FamilySearch (familysearch.org)
+  erfassungsbeginn: 2014
+  erfassungsmethode_initial: Todesanzeigen Bad. Zeitung ab 2014
+  erfassungsmethode_erweitert: Grabsteinprojekt (2025), Personenstandsregister
+  erfassungsziel: 10.000 Personen (geschätzt)
+  erfassungsrahmen_zeitlich: ca. 1650-2025
+  erfassungslücke_bis_1900: in FamilySearch gefüllt
+  erfassungslücke_1900_1950: Personenstandsregister Gottenheim
+  erfassungslücke_1925_2025: Grabsteine
+  projektabschluss_geplant: 2026-2027
+  nebenprodukt: Auswandererliste (200 amerikanische Familien identifiziert)
+  familiensearch_größe_datenbank: 4 Milliarden Personendaten
+  familiensearch_gründung: 1984
+  familiensearch_gründer: Kirche Jesu Christi der Heiligen der Letzten Tage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 66-gottenheim/006
+ENTITÄT: familienname
+BEZEICHNUNG: Hunn
+QUELLE: https://www.gottenheim.de/Geschichte/Hunn/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft_vermutung: germanischer Stamm hessischer Herkunft
+  herkunft_genauigkeit: "vermutlich"
+  besiedlung_zeit: nach dem 30jährigen Krieg 1618-1648
+  besiedlung_anlass: Gottenheim am 17. Juni 1632 von Schweden niedergebrannt
+  stammort: Gottenheim (Haupt- und Stammsitz)
+  weitere_zerstörungen: 1676 und 1705
+  namensursprung_theorie: Rufname nach Henry Hunn
+  namensursprung_namensträger_erwähnung: 1185 als Schöffe zu Köln
+  namensursprung_wappen_übernommen: true
+  wappen_beschreibung: einer Ritterschaft und Adelsfamilie aus Hessen
+  frühe_erwähnungen_andere: Rudi Hunn bei Basel 1270 (vermutlich Kirchenmann), Dr. Aegidius Hunne (1550-1608, Professor Wittenberg)
+  hunne_attilas_zusammenhang: kein Zusammenhang
+  migrationen_auswanderer: sehr viele nach Amerika
+  migrationen_andere_regionen: Mannheim bis Nordrhein-Westfalen
+  dispersal_grund: Kriege des letzten Jahrhunderts
+GUELTIG_AB: 1620
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 66-gottenheim/007
+ENTITÄT: naturgebiet
+BEZEICHNUNG: Wasenweiler Ried
+QUELLE: https://www.gottenheim.de/Geschichte/Ried/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Niedermoor / Anmoor
+  lage: zwischen Kaiserstuhl und Tuniberg
+  lage_genau: Engstelle mit Grundwasserzufluss
+  bodenvorkommen: schwarzer Torf
+  entstehung_geologisch: Verlandung spätglazial-holozän
+  vermoorungsphasen_hauptanzahl: zwei
+  vermoorungsphasen_erste_zeitraum: Spätglazial bis Präboreal/Boreal
+  vermoorungsphasen_zweite_zeitraum: älteres Subatlantikum
+  vegetation_moorpflanzen_beispiele: Mädesüß, Sumpf-Segge, Scharfer Hahnenfuß
+  vegetation_moorpflanzen_besonderheit: einzigartig in der Region
+  tierwelt_wildkatze: echte Wildkatze mehrfach gesichtet und mit Kamera aufgenommen
+  wasserdynamik_früher: Überschwemmungen Mittelalter-Neuzeit durch Grundwasserspiegelanstieg
+  wasserdynamik_ursache_vermutung_historisch: (Re-)Aktivierung Ostrhein
+  wasserdynamik_ursache_korrekt: Grundwasserspiegelanstieg (kein Ostrhein)
+  infrastruktur_geplant_b31: Trogbauwerk unter Eisenbahn
+  infrastruktur_b31_auswirkung: Moorkern betroffen, Entwässerung, Zerstörung
+  naturschutz_land_baden_württemberg: Moorschutzprogramm mit Vernässungsmöglichkeit
+  schutzstatus_beurteilung: nach Kriterien hochschutzwürdig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 66-gottenheim/008
+ENTITÄT: schulgebäude
+QUELLE: https://www.gottenheim.de/Geschichte/Schule/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstes_schulhaus_bau: 1788
+  erstes_schulhaus_grund: Weigerung Pfarrpatron (Bischof Basel) Zahlung Handwerker
+  erstes_schulhaus_lage: Kirchberg
+  erstes_schulhaus_name_lokal: "alte Schule"
+  unterricht_früh_ort: Wohnstube Sigristen
+  erstes_schulhaus_stabilität: nicht stabil
+  umbau_erweiterung_genehmigung: 1812
+  umbau_erweiterung_abschluss: 1817
+  umbau_erweiterung_kosten: 2200 Gulden
+  umbau_unterrichtsnotfall: Gasthaus Sternen
+  umbau_unterrichtsnotfall_miete_jährlich: 29 Gulden
+  neues_schulhaus_bau_periode: 1908-1910
+  neues_schulhaus_größe: 4 Klassenzimmer, 2 Lehrmittelzimmer, Toiletten für Lehrer
+  neues_schulhaus_kosten_mit_grundstück: 100.000 Goldmark
+  neues_schulhaus_bauschuld_1912: 99.000 Mark
+  neues_schulhaus_lehrerhaus: Fünfzimmer-Wohnung I. Hauptlehrer, 4 Zimmer II. Hauptlehrer, Unterlehrer im Schulgebäude
+  schulhauserweiterung_periode: 1963-1966
+  schulhauserweiterung_richtfest: 14. September 1964
+  schulhauserweiterung_einweihung: 12. März 1966
+  schulhauserweiterung_räume_neu: 10 Klassenzimmer, Gymnastikhalle, Handarbeitsraum, Werkraum, Küche mit 3 Kocheinheiten, Lehrer- und Rektorzimmer
+  schulhauserweiterung_kosten: über 1 Million DM
+  sanierung_periode: 1997-2000
+  sanierung_kosten: 2 Million DM
+  sanierung_maßnahmen: Trockenlegung, Umbau Lehrküche/Werkräume, Wärmedämmung, Neueindeckung, Fassadengestaltung
+  photovoltaikanlage_installation: Februar 2007
+  photovoltaikanlage_anbringung: Nordflügel-Dach
+  photovoltaikanlage_erweiterung: 2010 (Hauptflügel)
+  kleinkindbetreuung_gründung: 2009
+  kleinkindbetreuung_name: Schatzinsel
+  kleinkindbetreuung_kosten: 120.000 Euro
+GUELTIG_AB: 1788
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 66-gottenheim/009
+ENTITÄT: freiwillige_feuerwehr
+QUELLE: https://www.gottenheim.de/Feuerwehr/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frühe_löschorganisation: Löschmannschaften (Pflichtfeuerwehr) bis Anfang 19. Jahrhundert
+  löschmannschaften_struktur: Spritzenmannschaft, Wasserträgermannschaft, Rettungsmannschaft, Wachmannschaft
+  gründung_erste_versuch: 1861
+  gründung_erste_versuch_ausrüstung: ohne Ausrüstung
+  gründung_offizielle_datum: 27. März 1926
+  gründung_offizielle_gründer: Franz Meier (1. Kommandant), Fritz Schmidle (Stellvertreter)
+  gründung_mitglieder_initial: 50 Männer
+  gründung_mitglieder_entwicklung: schnell auf 75 Mann
+  feuerspritze_erste_motorisiert: 1928 (Saug- und Druckspritze von Stadt Freiburg, 1000 Mark)
+  neugründung_nach_krieg: 1946 (Auflösung durch französische Besatzung)
+  kommandant_1937: Franz Meier (Wehrführer)
+  stellvertreter_1937: Fritz Schmidle
+  ausrüstung_1956: Magirus-Deutz-Tragkraftspritze TSL (3.620 DM, 800 Liter/Minute)
+  spielmannszug_gründung: um 1956
+  spielmannszug_kommandant: Berthold Schmidle
+  spielmannszug_auflösung: 1966 (Geldmangel)
+  fahrzeug_1965: Opel LF8 (31.600 DM)
+  hochbehälter_alt_kapazität: 150 cbm (am Friedhof)
+  hochbehälter_neu_kapazität: 700 cbm (auf Dimberg, 1971)
+  luftschutzsirenen_aufstellung: 1972 (Rathausdach, Gemeindehaus Bötzingerstraße)
+  tragkraftspritze_1977: Magirus-Deutz-TS-8 (8.200 DM)
+  stille_alarmierung_funk: ab 1979
+  hochwassereinsätze: 1980, 1982, 1983
+  gerätehaus_neu_bau_genehmigung: 1986
+  gerätehaus_neu_standort: Bahnhofstraße (an Bahnwohnheim)
+  gerätehaus_neu_spatenstich: 1987
+  gerätehaus_neu_richtfest: 27. Februar 1988
+  gerätehaus_neu_übergabe: 1990
+  gerätehaus_neu_eigenleistung_stunden: über 8.500 (mit Männergesangverein und DRK)
+  gerätehaus_neu_kosten_gesamt: knapp 2 Million DM
+  gerätehaus_neu_kosten_fahrzeuge: LF 8 und TLF 8/18
+  gerätehaus_neu_subvention: 600.000 DM vom Land
+  kommandant_1989_nachfolge: Hubert Maurer, Hugo Hess (Stellvertreter)
+  kommandant_1989_ehrenstellung_vorgänger: Erich Hess zum Ehrenkommandant
+  kommandant_1989_vorgänger_amtszeit: 22 Jahre
+  jubiläum_75_jahre: 2001
+  kommandant_2008: Jens Braun (Nachfolger von Hubert Maurer)
+  kommandant_2008_vorgänger_amtszeit_hubert: fast 20 Jahre
+  jubiläum_100_jahre_geplant: 2026
+GUELTIG_AB: 1926
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 66-gottenheim/010
+ENTITÄT: eisenbahnstrecke
+BEZEICHNUNG: Freiburg-Gottenheim-Breisach
+QUELLE: https://www.gottenheim.de/Geschichte/Eisenbahn/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gesetz_bau_jahr: 1868
+  antragstellung_datum: 26. Januar 1868
+  spatenstich_datum: 7. Januar 1870
+  eröffnung_regulärer_betrieb_september: 1871
+  eröffnung_betrieb_ausgangsende: Freiburg-Breisach
+  rheinüberquerung_ab: November 1878
+  rheinüberquerung_ziel: Colmar
+  kaiserstuhlbahn_anschluss: 1894
+  kaiserstuhlbahn_verbindung_richtung: Endingen
+  bahnhof_gottenheim_stellwerk_besetzung: über 130 Jahre
+  bahnhof_gottenheim_stellwerk_typ: mechanisch
+  bahnhof_gottenheim_funktion: wichtiger Knotenpunkt
+  stellwerk_gottengheim_inbetriebnahme_circa: 1871
+  fahrdienstleiter_klaus_melcher_dienstjahre: seit 1981
+  fahrdienstleiter_melcher_tätigkeiten_früh: Schalter, Fahrkarten, Frachtabfertigung
+  fahrdienstleiter_melcher_tätigkeiten_spät: Fahrdienstleiter im Stellwerk
+  elektrifizierung_planung: Breisgau-S-Bahn
+  elektrifizierung_startzeitraum: Anfang 2020
+  stellwerk_gottenheim_betrieb_ende: 31. Januar 2019
+  stellwerk_gottenheim_letzter_zug_zeit: 23:50 Uhr (31. Januar 2019)
+  stellwerk_gottenheim_abbau: 2019 (Teile für Reparatur anderer Stellwerke)
+  bahnhof_gottenheim_umbau_baustart: 1. Februar 2019
+  bahnhof_gottenheim_zukunft: Haltepunkt mit Gaststätte
+  bahnhof_gottenheim_zukunft_weichen_steuerung: elektronisches Stellwerk Freiburg-Wiehre
+  ursprüngliche_zwecke: Holztransport Schwarzwald-Rhein, Kohletransport Saargebiet-Freiburg
+  frühere_güterzüge_schotter_bötzingen_monatlich: bis zu 400 Schotterwagen
+GUELTIG_AB: 1871
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 66-gottenheim/011
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Max Grafmüller
+QUELLE: https://www.gottenheim.de/WG/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit_kontext: 1958
+  besonderheit: initiierte Gründung Winzergenossenschaft
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 66-gottenheim/012
+ENTITÄT: pfarrei
+QUELLE: https://www.gottenheim.de/Geschichte/Kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_vor_1816: Filiale von Umkirch
+  status_1816: losgelöst, zur selbständigen Kuratie erhoben
+  status_1836: dotierte (mit Einkünften ausgestattete) Pfarrei
+  patrozinium: St. Stephanus (5. August)
+  katholisches_bekenntnis_1517_grund: Zugehörigkeit zu Vorderösterreich
+GUELTIG_AB: 1139
+GUELTIG_BIS: heute
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 66-gottenheim/013
+ENTITÄT: ort
+BEZEICHNUNG: Gottenheim
+QUELLE: https://www.gottenheim.de/Geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung_frühe_form: Chottenheim
+  ersterwähnung_Jahr: 1139
+  ersterwähnung_kontext: Bestätigung durch Papst Innocenz II.
+  politische_zugehörigkeit_1517: Vorderösterreich
+  politische_zugehörigkeit_1805: Großherzogtum Baden
+  bevölkerung_1948_katholisch_anteil: 98,6 Prozent
+  gründungsjahr_900_jahrfeier: 1086 (implied: 1986 celebration)
+  jahrfeier_900: 1986
+  jahrfeier_900_datum_festumzug: 21. September 1986
+  jahrfeier_900_event: 6. Hahlerai-Fest mit historischem Festumzug
+  historische_zerstörungen: 17. Juni 1632 (Schweden), 1676, 1705
+  gemarkungsgröße_rebfläche_gesamt: 110 Hektar (ca.)
+GUELTIG_AB: 1086
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

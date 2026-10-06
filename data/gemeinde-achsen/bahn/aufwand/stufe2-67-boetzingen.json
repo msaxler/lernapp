@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "67-boetzingen",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 10379,
+ "token_ein": 210640,
+ "token_aus": 6429,
+ "usage": {
+  "input_tokens": 14,
+  "cache_creation_input_tokens": 28817,
+  "cache_read_input_tokens": 181809,
+  "output_tokens": 6429,
+  "output_tokens_details": {
+   "thinking_tokens": 2791
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 28817,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 3795,
+    "cache_read_input_tokens": 34969,
+    "cache_creation_input_tokens": 746,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 746
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.6165868,
+ "sekunden": 92,
+ "fehler": false,
+ "zeit": "2026-10-06T09:06:12"
+}

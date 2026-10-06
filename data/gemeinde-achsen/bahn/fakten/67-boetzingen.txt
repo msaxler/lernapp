@@ -1,0 +1,612 @@
+ID: 67-boetzingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Bötzingen
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  land: Deutschland
+  bundesland: Baden-Württemberg
+  landkreis: Breisgau-Hochschwarzwald
+  lage: südöstliche Seite des Kaiserstuhles, ca. 15 km westlich von Freiburg
+  entfernung_freiburg: "15 km"
+  beiname: Weinbaugemeinde
+  beiname_verliehen: 2022
+  erste_urkundliche_erwaehnung: 769
+  grund_erwaehnung_769: "Schenkung an Kloster Lorsch (Lorscher Codex), Weingärten in Betzinger marca"
+  alemannischer_name: Betzinge
+  ortsteile: "Bötzingen (Hauptort), Oberschaffhausen"
+  abgegangene_burgen: "Kranzenau, Seelenberg"
+GUELTIG_AB: 769
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 67-boetzingen/002
+ENTITÄT: ort_geschichte
+BEZEICHNUNG: Bötzingen
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  vereinigung_orte: "Bötzingen und Oberschaffhausen zur Gemeinde vereinigt"
+  vereinigung_jahr: 1838
+  oberschaffhausen_erste_erwaehnung: 1143
+  oberschaffhausen_grund: "Papst Eugen III. bestätigt Besitzungen des Klosters St. Ulrich"
+---
+ID: 67-boetzingen/003
+ENTITÄT: brunnen
+BEZEICHNUNG: Stockbrunnen
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: vor der katholischen Kirche, Kreuzung Hauptstraße und Sieglestraße
+  ursprung_zeit: "vermutlich 8. Jahrhundert"
+  genauigkeit: vermutlich
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 67-boetzingen/004
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Albans Kapelle (Pestkapelle)
+ORTSTEIL_BEZUG: Oberschaffhausen
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: spätgotisch
+  erbauzeit: 1473-1481
+  grund_erbauung: "Pest-Gelübde: 'Wir errichten eine Kapelle, wenn wir vor noch größerem Schaden verschont bleiben'"
+  grund_wortlaut: "zu Ehren des Pestheiligen Alban von Mainz"
+  innenausstattung: "Fresken und Wandmalereien aus der Erbauungszeit"
+  freilegung_fresken: 1962-1965
+  kunstwerke: "Marienkrönung, symbolische Darstellung der Pest, überlebensgroßes Holzkreuz (Pestkreuz)"
+  alter_ca_jahre: 500
+GUELTIG_AB: 1473
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 67-boetzingen/005
+ENTITÄT: herrenhaus
+BEZEICHNUNG: Herrenhaus bei der ehemaligen Mühle
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauzeit: "1578 und 1771"
+  funktion: "Herrschaftssitz des Kammerrats Enderlin"
+  lage: "direkt am Mühlbach"
+  geschichtliche_bedeutung: true
+  besucher_notable: "Johann Wolfgang von Goethe (genoss Bötzinger Wein)"
+GUELTIG_AB: 1578
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 67-boetzingen/006
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Bötzingen
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  ursprungsbaustil: "gotischer Bau aus Reformationsjahrhundert"
+  nutzungsbeginn: 1583
+  umbauten_zeit: "ab 1847"
+  umbau_massnahmen: "Verlängerung Kirchenschiff, Bau Kirchenturm"
+  innenrenovierung: 1994-1995
+  renovierungs_besonderheit: "Wiederherstellung ursprünglicher Hallencharakter"
+  fussboden: "angelehnt an Kaiser-Wilhelm-Gedächtniskirche Berlin"
+  orgel_typ: "Mühleisen-Orgel"
+  orgel_register: 30
+  orgel_einbau: 1997
+  nutzung_konzerte: "Bach in der Regio, Chorkonzerte"
+GUELTIG_AB: 1583
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 67-boetzingen/007
+ENTITÄT: gebaeude
+BEZEICHNUNG: Staffelgiebelhaus
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1605
+  umgebaut: "mehrfach"
+  besonderheit: "Stufen in den Giebeln (Staffeln) - Namensgeber"
+  lage_platz: Lindenplatz
+GUELTIG_AB: 1605
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 67-boetzingen/008
+ENTITÄT: platz
+BEZEICHNUNG: Lindenplatz
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: beim Staffelgiebelhaus
+  historischer_baum: Linde
+  baum_pflanzung: 1870
+  baum_rang: "ältester Baum der Gemeinde"
+  baum_entfernt: 1996
+  grund_entfernung: Sicherheit
+  baum_neupflanzung: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 67-boetzingen/009
+ENTITÄT: platz
+BEZEICHNUNG: Dorfplatz Oberschaffhausen
+ORTSTEIL_BEZUG: Oberschaffhausen
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erworben_gemeinde: 1990
+  ausgebau: 1990
+  erhaltene_scheune: "alt, saniert, nutzt Aufbewahrung alter landwirtschaftlicher Geräte"
+  funktion_heute: Kommunikationszentrum
+  betreuender_verein: "Oberschaffhausner Dorfplatz e.V."
+GUELTIG_AB: 1990
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 67-boetzingen/010
+ENTITÄT: gebaeude
+BEZEICHNUNG: Fachwerkhaus der Familie Schaffner
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Hauptstraße
+  erbaut: 1533
+  frueherer_betrieb: "Gasthaus Löwen"
+  renoviert: 1983
+  erkennbar_durch: "Löwenstraße (benachbart)"
+GUELTIG_AB: 1533
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 67-boetzingen/011
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrkirche St. Laurentius
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  aeltestes_bauwerk_gemeinde: true
+  superlativ: "ältestes Bauwerk von Bötzingen"
+  baustil: Spätgotik
+  kirchenturm: "Wehrturm (asymmetrisch eingebaut)"
+  architektur: "Schallfenster Glockenstuhl, Fenster und Rippengewölbe des Chores (Spätgotik)"
+  hochaltar_madonna_kuenstler: "Hans Wyditz (Schüler von Hans Baldung Grien, arbeitete am Freiburger Münster)"
+  erste_belehrung_jahr: 1275
+  bekundet_alter: "bereits über 725 Jahre vor Gegenwart vorhanden (ab 1275)"
+  sanierung: 2000-2002
+  sanierung_grund: "Umsetzung liturgischer Reformen des Zweiten Vatikanischen Konzils"
+  altarinsel_gestalter: "Bernard Jensch (Freiburger Plastiker und Bildhauer)"
+  altarinsel_material: "hochschamottierter Ton (Keramik, bisher einmalig dieser Art)"
+  altarinsel_inhalt: "Zelebrationsaltar, Ambo, Taufbecken"
+  fresko_fragment: "vermutlich Hl. Michael beim Weltgericht (Restaurierungsfunde)"
+  fragment_status: "als Zeitzeugnis sichtbar erhalten"
+  jubilaeum_750_jahre: "2025-07-20 (Festgottesdienst mit Weihbischof Peter Birkhofer)"
+GUELTIG_AB: 1275
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 67-boetzingen/012
+ENTITÄT: freiwillige_feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Bötzingen
+QUELLE: https://boetzingen.de/start/ffw/chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1903
+  gruendung_anlass: "Aufruf Bürgermeister Heinrich Lay"
+  gruendungsmitglieder: 94
+  erster_hauptmann: Wilhelm Meier
+  erster_hauptmann_beruf: Löwenwirt
+  feuerloesch_ordnung_jahr: 1864
+  feuerloesch_ordnung_ausgebende_behoerde: "Großherzogliches Oberamt Emmendingen"
+  geraete_1864: "zwei Wagenspritzen, eine Handspritze, 26 Bedienungspersonen erforderlich"
+  alarm_frueh: Sturmgeläute
+  wasser_beschaffung: "mittels Stellfallen in Bächen"
+  geraetehaus_erbaut: 1912
+  geraetehaus_lage_alt: "Nähe des damaligen Rathauses"
+  fahrzeug_lf8_beschaffung: 1963
+  fahrzeug_lf16_beschaffung: 1969
+  sirenen_installation: 1954
+  funk_ausruestung: 1973
+  geraetehaus_neu_erbaut: 1978
+  geraetehaus_lage_neu: Allmendweg
+  feuerwehrfahne_einweihung: 1978
+  kreisfeuerwehrtag: "1978 (erster Kreisfeuerwehrtag Landkreis Breisgau-Hochschwarzwald)"
+  fahrzeug_tlf16_beschaffung: 1979
+  kooperationsvertrag_peguform: 1988
+  magirus_drehleiter_uebergeben: "1991-11-12"
+  drehleiter_uebergeben_von: "Heute-Blum (erste Landesbeamtin)"
+  feuerwehrkommandant_1991: "Helmut Kanzinger"
+  geraetehaus_erweiterung_erste: 1992
+  fahrzeug_lf16_8_beschaffung: 2000
+  geraetehaus_erweiterung_zweite: 2015-2016
+  erweiterung_kosten: "ca. 3 Millionen Euro"
+  erweiterung_genauigkeit: ca.
+  erweiterung_eigenleistung_stunden: 6000
+  erweiterung_results: "Nutzfläche verdoppelt, Fahrzeughalle für 5 Fahrzeuge, erweiterte Funkzentrale, Jugendraum 53 qm, Modernisierung Büro-/Sozial-/Umkleide-/Duschräume"
+GUELTIG_AB: 1903
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 67-boetzingen/013
+ENTITÄT: museum
+BEZEICHNUNG: Old- und Youngtimer-Museum
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 2013
+  vorgaenger: "Oldtimermuseum des DAVC"
+  sammlungsbereich: "alte Automobile und Motorräder"
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 67-boetzingen/014
+ENTITÄT: verein
+BEZEICHNUNG: Oberschaffhausner Dorfplatz e.V.
+ORTSTEIL_BEZUG: Oberschaffhausen
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufgabe: "Erhaltung und Pflege des Dorfplatzes Oberschaffhausen"
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 67-boetzingen/015
+ENTITÄT: religionsgemeinschaft
+BEZEICHNUNG: Evangelische Kirchengemeinde Bötzingen
+QUELLE: https://boetzingen.de/start/gemeinde/Kirchen+_+Soziales.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  pfarrerin: "Suse Best"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 67-boetzingen/016
+ENTITÄT: religionsgemeinschaft
+BEZEICHNUNG: Römisch Katholische Kirchengemeinde (Kirche St. Franziskus)
+QUELLE: https://boetzingen.de/start/gemeinde/Kirchen+_+Soziales.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  leitender_pfarrer: "Lukas Wehrle"
+  stellvertretender_pfarrer: "Martin Patz"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 67-boetzingen/017
+ENTITÄT: religionsgemeinschaft
+BEZEICHNUNG: ChristusZentrum Bötzingen
+QUELLE: https://boetzingen.de/start/gemeinde/Kirchen+_+Soziales.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  leitung: "Hanna Adler"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 67-boetzingen/018
+ENTITÄT: religionsgemeinschaft
+BEZEICHNUNG: Jehovas Zeugen Versammlung Bötzingen
+QUELLE: https://boetzingen.de/start/gemeinde/Kirchen+_+Soziales.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  versammlung_ort: "Endingen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 67-boetzingen/019
+ENTITÄT: religionsgemeinschaft
+BEZEICHNUNG: Evangelische Gemeinde AB Bötzingen
+QUELLE: https://boetzingen.de/start/gemeinde/Kirchen+_+Soziales.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  leitender_pastor: "Matthias Braun"
+  jugendpastor: "Matthias Leng"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 67-boetzingen/020
+ENTITÄT: religionsgemeinschaft
+BEZEICHNUNG: D.I.T.I.B. zu Bötzingen
+QUELLE: https://boetzingen.de/start/gemeinde/Kirchen+_+Soziales.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vollname: "Türkisch-Islamischer Kulturverein"
+  kontakt: "Köksal Babur"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 67-boetzingen/021
+ENTITÄT: religionsgemeinschaft
+BEZEICHNUNG: Neuapostolische Kirche Bötzingen-Breisach
+QUELLE: https://boetzingen.de/start/gemeinde/Kirchen+_+Soziales.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeindeleiter: "Thomas Müller"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 67-boetzingen/022
+ENTITÄT: konfessionsstatistik
+BEZEICHNUNG: Bötzingen Konfessionsstatistik
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  evangelisch_2011_prozent: 39.9
+  katholisch_2011_prozent: 27.0
+  konfessionslos_sonstige_2011_prozent: 33.2
+  evangelisch_2021_prozent: 33.5
+  evangelisch_2020_prozent: 34.7
+  katholisch_2021_prozent: 24.2
+  katholisch_2020_prozent: 24.9
+  konfessionslos_sonstige_2021_prozent: 42.3
+  konfessionslos_sonstige_2020_dezember_prozent: 40.4
+  tendenz: "Anteil Protestanten und Katholiken sinkend"
+GUELTIG_AB: 2011
+GUELTIG_BIS: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 67-boetzingen/023
+ENTITÄT: weinbau
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 769
+  erste_erwaehnung_quelle: "Schenkung an Kloster Lorsch (Lorscher Codex): Weingärten in Betzinger marca"
+  alter_gebiet: "eines der ältesten urkundlich erwähnten Weinbaugebiete Baden"
+  vergleich_ebringen: "ca. 50 Jahre älter als Weinbau in Ebringen (ca. 720)"
+  anbauflaeche_hektar: 305
+  traubensorte_schwerpunkt: Weißweine
+  genauigkeit: aktuell
+GUELTIG_AB: 769
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 67-boetzingen/024
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Kaiserstuhlbahn
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: S-Bahn
+  haltestellen: "Bötzingen, Bötzingen Mühle"
+  taktung_werktag: "Halbstunden-Takt"
+  fahrtzeit_freiburg_minuten: 15
+  elektrifizierung: 2019
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 67-boetzingen/025
+ENTITÄT: fahrradverleihsystem
+BEZEICHNUNG: Frelo
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  teilnahme_boetzingen_ab: "März 2026"
+  station: Bahnhof
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 67-boetzingen/026
+ENTITÄT: fahrradweg
+BEZEICHNUNG: Kaiserstuhlradweg
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  route: "rund um den Kaiserstuhl"
+  verbindung_gemeinden: "Bötzingen mit Gottenheim und Eichstetten"
+  erreichbarkeit_freiburg: "Über March kann Freiburg erreicht werden"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 67-boetzingen/027
+ENTITÄT: unternehmen
+BEZEICHNUNG: Samvardhana Motherson Peguform (SMP Deutschland GmbH)
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  rolle_boetzingen: "größter Arbeitgeber"
+  arbeitplaetze: 1350
+  produkt: "Kunststoffteile für Automobilindustrie"
+  reichweite: "überregional bekannt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 67-boetzingen/028
+ENTITÄT: unternehmen
+BEZEICHNUNG: Hans G. Hauri Mineralstoffwerke
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  produkt: Naturfango
+  marktposition: "größter Hersteller und Lieferant im deutschsprachigen Raum"
+  belieferung: "Schweiz, Österreich, Italien, Luxemburg"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 67-boetzingen/029
+ENTITÄT: rohstoff
+BEZEICHNUNG: Phonolith
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  vorkommen: Bötzingen
+  eigenschaften: "besonders wertvoll"
+  anwendung_klimaschutz: "Zementgehalt im Beton verringern, CO2-Ausstoß senken"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 67-boetzingen/030
+ENTITÄT: verwaltungsgemeinschaft
+BEZEICHNUNG: Verwaltungsgemeinschaft Kaiserstuhl-Tuniberg
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  mitgliedsgemeinde: Bötzingen
+  sitz: Bötzingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 67-boetzingen/031
+ENTITÄT: gemeinderat
+BEZEICHNUNG: Gemeinderat Bötzingen
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  gemeinde: Bötzingen
+  zusammensetzung: "14 Gemeinderäte + 1 Erster Bürgermeister"
+  wahl_datum_2024: "2024-06-09"
+  sitzverteilung_2024: "FWG: 4, CDU: 4, FWV: 3, SPD: 2, Grüne: 1"
+  sitzverteilung_2019: "FWG: 4, CDU: 4, FWV: 4, SPD: 2, Grüne: 0"
+  sitzverteilung_2014: "FWG: 4, CDU: 4, FWV: 3, SPD: 3, Grüne: 0"
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 67-boetzingen/032
+ENTITÄT: buergermeister
+BEZEICHNUNG: Dieter Schneckenburger
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  gemeinde: Bötzingen
+  amtsantritt: "September 2003"
+  wiederwahl_1: "Juli 2011"
+  wiederwahl_2: "Juni 2019"
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 67-boetzingen/033
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Bötzinger Dorf- und Weinfest
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  haeufigkeit: "zweijährlich in geraden Jahren"
+  termin: "2. Septemberwochenende"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 67-boetzingen/034
+ENTITÄT: person
+BEZEICHNUNG: Joseph Friedrich Enderlin
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1732
+  todestag: 1808
+  beruf: "Forstbeamter, Kameral- und Forstwissenschaftler"
+  herkunft: "Sohn/Tochter Bötzingen"
+GUELTIG_AB: 1732
+GUELTIG_BIS: 1808
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 67-boetzingen/035
+ENTITÄT: person
+BEZEICHNUNG: Karl Ludwig Sonntag
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1796
+  todestag: 1840
+  beruf: Pfarrer
+  familienbeziehung: "Vater des Verwaltungsjuristen Leopold Sonntag (1830-1896)"
+  herkunft: "Sohn/Tochter Bötzingen"
+GUELTIG_AB: 1796
+GUELTIG_BIS: 1840
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 67-boetzingen/036
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm August Lay
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1862
+  todestag: 1926
+  beruf: "Volksschullehrer und Professor am Lehrerseminar Karlsruhe"
+  herkunft: "Sohn/Tochter Bötzingen"
+GUELTIG_AB: 1862
+GUELTIG_BIS: 1926
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 67-boetzingen/037
+ENTITÄT: person
+BEZEICHNUNG: Max Enderlin
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1872
+  todestag: 1940
+  beruf: Pädagoge
+  herkunft: "Sohn/Tochter Bötzingen"
+GUELTIG_AB: 1872
+GUELTIG_BIS: 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 67-boetzingen/038
+ENTITÄT: person
+BEZEICHNUNG: Robert Wilhelm Schulz
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1914
+  todestag: 2000
+  beruf: Soziologe
+  herkunft: "Sohn/Tochter Bötzingen"
+GUELTIG_AB: 1914
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 67-boetzingen/039
+ENTITÄT: person
+BEZEICHNUNG: Walter Gorenflos
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1928
+  todestag: 2017
+  beruf: Diplomat
+  herkunft: "Sohn/Tochter Bötzingen"
+GUELTIG_AB: 1928
+GUELTIG_BIS: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 67-boetzingen/040
+ENTITÄT: person
+BEZEICHNUNG: Jürgen Berger
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  geburtstag: 1954
+  todestag: 2026
+  beruf: "Theaterkritiker und -autor"
+  herkunft: "in Bötzingen aufgewachsen"
+GUELTIG_AB: 1954
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 67-boetzingen/041
+ENTITÄT: person
+BEZEICHNUNG: Johann Wolfgang von Goethe
+QUELLE: https://boetzingen.de/start/tourismus/sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besucher_boetzingen: true
+  beschreibung: "besuchte Herrenhaus bei der Mühle, genoss Bötzinger Wein"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 67-boetzingen/042
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Eichstetten am Kaiserstuhl
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Breisgau-Hochschwarzwald
+  lage_richtung: Norden
+  reihenfolge_im_uhrzeigersinn: 1
+---
+ID: 67-boetzingen/043
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: March
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Breisgau-Hochschwarzwald
+  reihenfolge_im_uhrzeigersinn: 2
+---
+ID: 67-boetzingen/044
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Gottenheim
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Breisgau-Hochschwarzwald
+  reihenfolge_im_uhrzeigersinn: 3
+---
+ID: 67-boetzingen/045
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Ihringen
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Breisgau-Hochschwarzwald
+  reihenfolge_im_uhrzeigersinn: 4
+---
+ID: 67-boetzingen/046
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Vogtsburg im Kaiserstuhl
+QUELLE: https://de.wikipedia.org/wiki/Bötzingen | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Breisgau-Hochschwarzwald
+  reihenfolge_im_uhrzeigersinn: 5
