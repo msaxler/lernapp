@@ -155,6 +155,10 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
       <button class="opt" data-vor="1"><span class="k">V</span><span>Es wird vorgelesen<small>das Handy liest Frage, Antworten und Auflösung vor (Stimme abschaltbar); große Schrift, Lügen-Fragen mit zwei Aussagen</small></span></button>
       <button class="opt" data-vor="0"><span class="k">L</span><span>Jede Person liest selbst<small>still, Schrift wächst mit, Lügen-Fragen mit drei Aussagen</small></span></button>
     </div>
+    <div class="row" id="stimme-wahl" style="margin-top:8px" hidden>
+      <select id="stimme-liste" aria-label="Stimme" style="flex:1 1 60%;min-height:44px;font:inherit;border:2px solid var(--line);border-radius:12px;background:var(--surface);color:var(--fg);padding:6px"></select>
+      <button class="btn small" id="stimme-probe">Probe hören</button>
+    </div>
     <div class="grow"></div>
     <div class="bar"><button class="btn primary" id="starten">Fahrt starten</button></div>
     <div class="bar" id="bar-weiter" hidden><button class="btn" id="weiter">Fahrt fortsetzen</button></div>
@@ -404,9 +408,17 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   // ---- Sprachausgabe (Mike 2026-10-07): „Es wird vorgelesen“ heißt, das Handy liest vor (Stimme abschaltbar) ----
   // Web Speech API mit der eingebauten deutschen Stimme des Geräts; satzweise, weil lange Texte sonst abbrechen.
   var stimmeDe = null, letzterText = '', ZAHLW = ['Eins', 'Zwei', 'Drei', 'Vier', 'Fünf'];
+  function stimmenDe(){
+    // natürliche Stimmen zuerst: Natural/Neural (Edge), Premium/Enhanced (iPhone), Google (Chrome, Android)
+    var gut = /natural|neural|online|premium|enhanced|erweitert|google/i;
+    try{ return speechSynthesis.getVoices().filter(function(x){ return /^de/i.test(x.lang); })
+           .sort(function(a, b){ return (gut.test(b.name) ? 1 : 0) - (gut.test(a.name) ? 1 : 0); }); }catch(e){ return []; }
+  }
   function stimmeWaehlen(){
-    try{ var v = speechSynthesis.getVoices().filter(function(x){ return /^de/i.test(x.lang); });
-         stimmeDe = v.filter(function(x){ return x.localService; })[0] || v[0] || null; }catch(e){}
+    var v = stimmenDe(), name = (typeof wahlStart !== 'undefined' && wahlStart) ? wahlStart.stimmeName : null;
+    stimmeDe = v.filter(function(x){ return x.name === name; })[0] || v[0] || null;
+    var sel = document.getElementById('stimme-liste');
+    if(sel){ sel.innerHTML = v.map(function(x){ return '<option' + (stimmeDe && x.name === stimmeDe.name ? ' selected' : '') + '>' + x.name + '</option>'; }).join(''); }
   }
   try{ stimmeWaehlen(); speechSynthesis.onvoiceschanged = stimmeWaehlen; }catch(e){}
   function still(){ try{ if(window.speechSynthesis) speechSynthesis.cancel(); }catch(e){} }
@@ -480,6 +492,8 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     }
     gruppe('#quellen .opt', 'quelle', 'quelle', String);
     gruppe('#vorlesen .opt', 'vor', 'vor', Number);
+    $('stimme-wahl').hidden = !(wahlStart.vor === 1 && window.speechSynthesis && stimmenDe().length);
+    stimmeWaehlen();
     gruppe('#takt .opt', 'takt', 'takt', String);
     $('takt-wahl').hidden = wahlStart.quelle !== 'gps';
     gruppe('#sim-tempo .opt', 'kmh', 'kmh', Number);
@@ -555,6 +569,11 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   }
 
   // ---- Fahrt anlegen ----
+  $('stimme-liste').onchange = function(){ wahlStart.stimmeName = this.value; sichern('wahl', wahlStart); stimmeWaehlen(); };
+  $('stimme-probe').onclick = function(){
+    try{ speechSynthesis.cancel(); var u = new SpeechSynthesisUtterance('Ort in Sicht. Kirchzarten. Welche Partei lag hier bei der Bundestagswahl vorn?');
+         u.lang = 'de-DE'; if(stimmeDe) u.voice = stimmeDe; speechSynthesis.speak(u); }catch(e){}
+  };
   $('starten').onclick = function(){
     var r = wahlStart.quelle === 'gps' ? ALLE : D.raeume.filter(function(x){ return x.id === wahlStart.raum; })[0];
     fahrt = { raum: r.id, quelle: wahlStart.quelle, vor: wahlStart.vor, stimme: true, takt: wahlStart.takt, start: new Date().toISOString(), pos: 0,
