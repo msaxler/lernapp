@@ -159,8 +159,8 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     </div>
     <b>Vorlesen</b>
     <div class="choice" id="vorlesen">
-      <button class="opt" data-vor="1"><span class="k">V</span><span>Es wird vorgelesen<small>große feste Schrift, Lügen-Fragen mit zwei Aussagen; der Text bleibt stehen, bis aufgelöst ist</small></span></button>
-      <button class="opt" data-vor="0"><span class="k">L</span><span>Jede Person liest selbst<small>Schrift wächst mit, Lügen-Fragen mit drei Aussagen</small></span></button>
+      <button class="opt" data-vor="1"><span class="k">V</span><span>Es wird vorgelesen<small>das Handy liest Frage, Antworten und Auflösung vor (Stimme abschaltbar); große Schrift, Lügen-Fragen mit zwei Aussagen</small></span></button>
+      <button class="opt" data-vor="0"><span class="k">L</span><span>Jede Person liest selbst<small>still, Schrift wächst mit, Lügen-Fragen mit drei Aussagen</small></span></button>
     </div>
     <div class="grow"></div>
     <div class="bar"><button class="btn primary" id="starten">Fahrt starten</button></div>
@@ -170,7 +170,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
 
   <!-- Fahrtkarte -->
   <section class="scr" id="s-karte" hidden>
-    <div class="top"><span class="sp" id="k-zaehler"></span><button id="k-vor">Vorlesen</button><button id="k-pause" hidden>Pause</button><button id="k-takt" hidden>Takt</button><button id="k-menue">Menü</button></div>
+    <div class="top"><span class="sp" id="k-zaehler"></span><button id="k-vor">Vorlesen</button><button id="k-stimme" hidden>Stimme</button><button id="k-pause" hidden>Pause</button><button id="k-takt" hidden>Takt</button><button id="k-menue">Menü</button></div>
     <div class="status" id="k-status"></div>
     <div class="route grow" id="k-route"></div>
     <div class="legend"><span><i class="pin hit"></i>meist richtig</span><span><i class="pin"></i>meist daneben</span><span><i class="pin next"></i>in Sicht</span><span><i class="pin skip"></i>passiert</span><span><i class="pin pos"></i>Position</span></div>
@@ -185,6 +185,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     <div class="meta" id="f-steck"></div>
     <h1 class="q" id="f-frage"></h1>
     <div class="hint" id="f-hint"></div>
+    <button class="btn small quiet nochmal" id="f-nochmal" hidden>Nochmal vorlesen</button>
     <div class="opts" id="f-opts"></div>
     <div class="grow"></div>
     <div class="bar" id="f-bar-leer"><button class="btn quiet" id="f-gleich">Gleich</button></div>
@@ -198,6 +199,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     <div class="meta" id="l-steck"></div>
     <h1 class="q" id="l-frage"></h1>
     <div class="rungs" id="l-rungs"></div>
+    <button class="btn small quiet nochmal" id="l-nochmal" hidden>Nochmal vorlesen</button>
     <div class="grow"></div>
     <div class="bar"><button class="btn" id="l-hoeher">höher</button><button class="btn primary" id="l-raus">hier steige ich aus</button></div>
   </section>
@@ -211,6 +213,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     <div class="src" id="a-quelle"></div>
     <div class="vermerk" id="a-vermerk" hidden></div>
     <div class="conn" id="a-anschluss" hidden><b>Anschluss</b><span id="a-anschluss-text"></span></div>
+    <button class="btn small quiet nochmal" id="a-nochmal" hidden>Nochmal vorlesen</button>
     <div class="grow"></div>
     <div class="bar"><button class="btn primary" id="a-mehr" hidden>Noch mehr zu diesem Ort?</button></div>
     <div class="bar"><button class="btn" id="a-zu">Zur Fahrtkarte</button></div>
@@ -404,6 +407,28 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     });
   }
   var IDS = ['s-start','s-karte','s-frage','s-leiter','s-aufl','s-ende'];
+
+  // ---- Sprachausgabe (Mike 2026-10-07): „Es wird vorgelesen“ heißt, das Handy liest vor (Stimme abschaltbar) ----
+  // Web Speech API mit der eingebauten deutschen Stimme des Geräts; satzweise, weil lange Texte sonst abbrechen.
+  var stimmeDe = null, letzterText = '', ZAHLW = ['Eins', 'Zwei', 'Drei', 'Vier', 'Fünf'];
+  function stimmeWaehlen(){
+    try{ var v = speechSynthesis.getVoices().filter(function(x){ return /^de/i.test(x.lang); });
+         stimmeDe = v.filter(function(x){ return x.localService; })[0] || v[0] || null; }catch(e){}
+  }
+  try{ stimmeWaehlen(); speechSynthesis.onvoiceschanged = stimmeWaehlen; }catch(e){}
+  function still(){ try{ if(window.speechSynthesis) speechSynthesis.cancel(); }catch(e){} }
+  function sprich(text, immer){
+    letzterText = text;
+    if(!window.speechSynthesis || !fahrt || !fahrt.vor || (fahrt.stimme === false && !immer)) return;
+    try{
+      speechSynthesis.cancel();
+      // Satzgrenze: Punkt, Ausrufe- oder Fragezeichen nach einem Nicht-Ziffer-Zeichen, dann Großbuchstabe (kein Schnitt in „27. Juni“)
+      text.split(/(?<=[^\d][.!?])\s+(?=[A-ZÄÖÜ„])/).forEach(function(s){
+        if(!s.trim()) return;
+        var u = new SpeechSynthesisUtterance(s); u.lang = 'de-DE'; if(stimmeDe) u.voice = stimmeDe; speechSynthesis.speak(u);
+      });
+    }catch(e){}
+  }
   var MUSTER = ['A','C','A','B','Leiter','A','B','A','B','A','C'];   // gemischte Reihe des Kartensatzes für den Tisch
   var JE_ORT = 3;
   // Zielfenster, Spielkonzept v0.3.1 §1a (Startwerte, eingestellt im Feldtest). Zeiten in Sekunden Fahrzeit, Wege in Metern.
@@ -426,6 +451,8 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   function aktivScreen(){ for(var i = 0; i < IDS.length; i++) if(!$(IDS[i]).hidden) return IDS[i]; return null; }
   function show(id){
     IDS.forEach(function(x){ $(x).hidden = (x !== id); $(x).classList.remove('in'); });
+    if(id === 's-karte' || id === 's-start' || id === 's-ende') still();
+    document.querySelectorAll('.nochmal').forEach(function(b){ b.hidden = !(fahrt && fahrt.vor && window.speechSynthesis); });
     var s = $(id); s.classList.add('in'); s.scrollTop = 0;
     if(id !== 's-start' && id !== 's-ende'){ s.classList.toggle('vor', !!fahrt.vor); s.classList.toggle('rail', !fahrt.vor); }
     if(id === 's-karte') s.classList.toggle('idle', !!fahrt.vor);
@@ -537,10 +564,11 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   // ---- Fahrt anlegen ----
   $('starten').onclick = function(){
     var r = wahlStart.quelle === 'gps' ? ALLE : D.raeume.filter(function(x){ return x.id === wahlStart.raum; })[0];
-    fahrt = { raum: r.id, quelle: wahlStart.quelle, vor: wahlStart.vor, takt: wahlStart.takt, start: new Date().toISOString(), pos: 0,
+    fahrt = { raum: r.id, quelle: wahlStart.quelle, vor: wahlStart.vor, stimme: true, takt: wahlStart.takt, start: new Date().toISOString(), pos: 0,
               orte: r.orte.map(function(o){ return { slug: o.slug, zustand: 'fern', ev: {} }; }), log: [], ereignisse: [], aktiv: -1 };
     if(fahrt.quelle === 'sim') fahrt.sim = { kmh: wahlStart.kmh, f: wahlStart.f, s: 0, t: 0, pause: false };
     sichern('fahrt', fahrt); tonFreigeben(); fahrtLaufen();
+    try{ if(window.speechSynthesis && fahrt.vor) speechSynthesis.speak(new SpeechSynthesisUtterance('')); }catch(e){}
   };
   $('weiter').onclick = function(){ tonFreigeben(); fahrtLaufen(); };
   function fahrtLaufen(){
@@ -615,7 +643,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   function tonFreigeben(){ try{ audio = audio || new (window.AudioContext || window.webkitAudioContext)(); if(audio.state === 'suspended') audio.resume(); }catch(e){} }
   function hinweis(){
     try{ if(navigator.vibrate) navigator.vibrate(fahrt.vor ? [120, 80, 120] : 150); }catch(e){}
-    if(!fahrt.vor || !audio) return;
+    if(!audio) return;
     try{ var o = audio.createOscillator(), g = audio.createGain(); o.frequency.value = 880; g.gain.value = 0.08;
       o.connect(g); g.connect(audio.destination); o.start(); o.stop(audio.currentTime + 0.18); }catch(e){}
   }
@@ -643,6 +671,9 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     $('k-zaehler').textContent = fahrt.raum === 'alle' ? 'Echte Fahrt · ' + nGesp + ' Orte gespielt · ' + r.orte.length + ' im Topf'
                                                      : r.name + ' · ' + nGesp + ' von ' + r.orte.length + ' Orten gespielt';
     $('k-vor').setAttribute('aria-pressed', fahrt.vor ? 'true' : 'false');
+    $('k-stimme').hidden = !(fahrt.vor && window.speechSynthesis);
+    $('k-stimme').textContent = fahrt.stimme === false ? 'Stimme aus' : 'Stimme an';
+    $('k-stimme').setAttribute('aria-pressed', fahrt.stimme === false ? 'false' : 'true');
     $('k-pause').hidden = fahrt.quelle !== 'sim';
     $('k-takt').hidden = fahrt.raum !== 'alle';
     $('k-takt').textContent = 'Takt: ' + TAKT_NAME[fahrt.takt || 'dicht'];
@@ -721,6 +752,8 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   $('k-ende').onclick = function(){ endeZeigen(); };
   $('k-menue').onclick = function(){ startZeichnen(); show('s-start'); };
   $('k-vor').onclick = function(){ fahrt.vor = fahrt.vor ? 0 : 1; ereignis(fahrt.vor ? 'vorlesen-an' : 'vorlesen-aus'); sichern('fahrt', fahrt); karteZeichnen(); show('s-karte'); };
+  $('k-stimme').onclick = function(){ fahrt.stimme = fahrt.stimme === false; ereignis(fahrt.stimme ? 'stimme-an' : 'stimme-aus'); sichern('fahrt', fahrt); karteZeichnen(); };
+  $('f-nochmal').onclick = $('l-nochmal').onclick = $('a-nochmal').onclick = function(){ sprich(letzterText, true); };
   $('k-pause').onclick = function(){ fahrt.sim.pause = !fahrt.sim.pause; karteZeichnen(); };
   $('k-takt').onclick = function(){
     var folge = ['dicht', 'normal', 'ruhig'];
@@ -775,9 +808,10 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     var pushText = wie === 'push' ? 'Ort in Sicht' : wie === 'jetzt' ? 'Jetzt' : '';
     var l = fahrt.orte[i].lage; if(pushText && l && l.lat > FENSTER.strecke) pushText += ' · aus der Nähe';
     $('f-push').hidden = $('l-push').hidden = !pushText; $('f-push').textContent = $('l-push').textContent = pushText;
-    if(k.art === 'leiter'){ show('s-leiter'); leiterZeichnen(); return; }
+    if(k.art === 'leiter'){ show('s-leiter'); leiterZeichnen();
+      sprich((pushText ? pushText + '. ' : '') + o.name + '. ' + k.frage + ' Erste Stufe: ' + k.optionen[0] + '.'); return; }
     $('f-ort').textContent = o.name; $('f-steck').textContent = k.steckbrief; $('f-frage').textContent = z.frage;
-    $('f-hint').textContent = fahrt.vor ? 'Vorlesen, dann gemeinsam festlegen.'
+    $('f-hint').textContent = fahrt.vor ? (fahrt.stimme === false || !window.speechSynthesis ? 'Vorlesen, dann gemeinsam festlegen.' : 'Zuhören, dann gemeinsam festlegen.')
                                         : (k.art === 'luege' ? 'Tippe auf die Aussage, die du für gelogen hältst.' : '');
     var h = '';
     z.optionen.forEach(function(t, j){ h += '<button class="opt" aria-pressed="false" data-n="' + (j + 1) + '"><span class="k">' + (j + 1) + '</span><span>' + t + '</span></button>'; });
@@ -785,6 +819,8 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     document.querySelectorAll('#f-opts .opt').forEach(function(b){ b.onclick = function(){ waehlen(Number(b.dataset.n)); }; });
     $('f-gleich').textContent = istPush() ? 'Gleich' : 'Zurück';
     balken(); show('s-frage'); einpassen('s-frage');
+    sprich((pushText ? pushText + '. ' : '') + o.name + '. ' + z.frage + ' ' +
+           z.optionen.map(function(x, j){ return ZAHLW[j] + ': ' + x.replace(/[.!?]$/, '') + '.'; }).join(' '));
   }
   // Beim Vorlesen nicht scrollen (UI-Konzept v0.2, KU7): zu lange Fragen verkleinern die Fragenschrift bis 19 px,
   // dann entfällt die Ruf-Zeile. Der Originaltext (Steckbrief, Frage, Optionen) bleibt immer stehen (v0.3.1 J5);
@@ -828,7 +864,8 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     $('l-rungs').innerHTML = h;
     einpassen('s-leiter');
   }
-  $('l-hoeher').onclick = function(){ stufe++; if(stufe >= aktuell.karte.optionen.length) leiterEnde(); else leiterZeichnen(); };
+  $('l-hoeher').onclick = function(){ stufe++; if(stufe >= aktuell.karte.optionen.length) leiterEnde();
+    else { leiterZeichnen(); sprich('Nächste Stufe: ' + aktuell.karte.optionen[stufe] + '.'); } };
   $('l-raus').onclick = leiterEnde;
   function leiterEnde(){
     var k = aktuell.karte;
@@ -872,6 +909,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     (gespielt[fahrt.raum] = gespielt[fahrt.raum] || []).push(k.id);
     sichern('fahrt', fahrt); sichern('gespielt', gespielt);
     auflBar(); show('s-aufl');
+    sprich(chip.textContent.replace(' · ', '. ') + ' ' + geschichte(k) + (an ? ' Anschluss: ' + an : ''));
   }
   // Wie es nach der Auflösung weitergeht (v0.3.1 §1a, §5): steht ein anderer Ort an, endet dieser nach der Frage;
   // sonst im Dreierblock weiter; nach drei „Noch mehr zu diesem Ort?“
