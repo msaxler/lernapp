@@ -168,6 +168,10 @@ def main():
         aus_kreise[ks] = [kreisname(k), 1 if k['tk'] in KREISFREI_TK else 0, kfz_je.get(ks, []),
                           round(s[0] / s[2], 4), round(s[1] / s[2], 4)]
 
+    orte_je_kz = collections.defaultdict(set)
+    for n, z in kfz_ort.items():
+        for k in z:
+            orte_je_kz[k].add(n)
     aus_wahl, aus_g, ohne_wahl, ohne_kfz = {}, [], 0, set()
     for g in gemeinden:
         s = wahl.get(g['ags'])
@@ -183,7 +187,9 @@ def main():
             schluessel = None
             ohne_wahl += 1
         kz = kfz_je.get(g['ags'][:5], [])
-        eigen = [k for k in kz if k in kfz_ort.get(g['name'], set())]
+        # eigenes Zeichen nur, wenn die CSV das Kürzel genau diesem einen Ort gibt: sie ordnet oft irgendeinen Ort des
+        # Zulassungsbezirks zu (Prüfung 2026-10-07: 8 von 25 falsch, Ahaus BOR statt AH, Herrenberg BB, Norden AUR)
+        eigen = [k for k in kz if k in kfz_ort.get(g['name'], set()) and orte_je_kz[k] == {g['name']}]
         if not kz:
             ohne_kfz.add(g['ags'][:5])
         aus_g.append([g['ags'], g['name'], 1 if g['stadt'] else 0, g['lat'], g['lon'], g['ew'], g['fl'], schluessel,
