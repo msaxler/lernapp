@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "71-stegen",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 4936,
+ "token_ein": 157465,
+ "token_aus": 2824,
+ "usage": {
+  "input_tokens": 14,
+  "cache_creation_input_tokens": 17886,
+  "cache_read_input_tokens": 139565,
+  "output_tokens": 2824,
+  "output_tokens_details": {
+   "thinking_tokens": 894
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 17886,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 1638,
+    "cache_read_input_tokens": 24086,
+    "cache_creation_input_tokens": 698,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 698
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.32009600000000005,
+ "sekunden": 55,
+ "fehler": false,
+ "zeit": "2026-10-06T09:26:25"
+}

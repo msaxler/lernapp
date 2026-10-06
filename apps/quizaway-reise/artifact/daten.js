@@ -252,7 +252,8 @@ window.QA_DATEN = {
 }
 ],
 "anschluss_von": null,
-"anschluss": []
+"anschluss": [],
+"anschluesse": {}
 },
 {
 "slug": "02-gundelfingen",
@@ -525,6 +526,12 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Gundelfingen wählten 87,7 Prozent, in Umkirch 79,7.",
 "Gundelfingen hat gut doppelt so viele Einwohner wie Umkirch."
 ],
+"anschluesse": {
+"01-umkirch": [
+"Bundestagswahl 2025: In Gundelfingen wählten 87,7 Prozent, in Umkirch 79,7.",
+"Gundelfingen hat gut doppelt so viele Einwohner wie Umkirch."
+]
+},
 "km_vom_vorigen": 7.7
 },
 {
@@ -835,6 +842,12 @@ window.QA_DATEN = {
 "Kreisgrenze: In Gundelfingen steht FR am Auto, in Denzlingen EM.",
 "Denzlingen wird 984 erstmals erwähnt, Gundelfingen erst 1008."
 ],
+"anschluesse": {
+"02-gundelfingen": [
+"Kreisgrenze: In Gundelfingen steht FR am Auto, in Denzlingen EM.",
+"Denzlingen wird 984 erstmals erwähnt, Gundelfingen erst 1008."
+]
+},
 "km_vom_vorigen": 3.1
 },
 {
@@ -1107,6 +1120,12 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Zähringen lagen die Grünen vorn, in Denzlingen die CDU.",
 "Denzlingen wird 24 Jahre früher erwähnt als Zähringen: 984 statt 1008."
 ],
+"anschluesse": {
+"03-denzlingen": [
+"Bundestagswahl 2025: In Zähringen lagen die Grünen vorn, in Denzlingen die CDU.",
+"Denzlingen wird 24 Jahre früher erwähnt als Zähringen: 984 statt 1008."
+]
+},
 "km_vom_vorigen": 5.1
 },
 {
@@ -1399,6 +1418,12 @@ window.QA_DATEN = {
 "St. Peter hat elfmal so viel Fläche wie Zähringen, aber nicht ein Drittel der Einwohner.",
 "Gegründet hat das Kloster St. Peter Herzog Berthold II. von Zähringen."
 ],
+"anschluesse": {
+"04-zaehringen": [
+"St. Peter hat elfmal so viel Fläche wie Zähringen, aber nicht ein Drittel der Einwohner.",
+"Gegründet hat das Kloster St. Peter Herzog Berthold II. von Zähringen."
+]
+},
 "km_vom_vorigen": 12.7
 },
 {
@@ -1711,6 +1736,12 @@ window.QA_DATEN = {
 "Glottertal hat mehr Einwohner als St. Peter, aber weniger Fläche.",
 "Glottertal wird 1112 erstmals erwähnt, in einer Güterbeschreibung des Klosters St. Peter."
 ],
+"anschluesse": {
+"05-st-peter": [
+"Glottertal hat mehr Einwohner als St. Peter, aber weniger Fläche.",
+"Glottertal wird 1112 erstmals erwähnt, in einer Güterbeschreibung des Klosters St. Peter."
+]
+},
 "km_vom_vorigen": 6.9
 },
 {
@@ -1983,6 +2014,12 @@ window.QA_DATEN = {
 "Kirchzarten hat dreimal so viele Einwohner wie Glottertal, aber weniger Fläche.",
 "Bundestagswahl 2025: Zweite wurde in Glottertal die AfD, in Kirchzarten die Grünen."
 ],
+"anschluesse": {
+"06-glottertal": [
+"Kirchzarten hat dreimal so viele Einwohner wie Glottertal, aber weniger Fläche.",
+"Bundestagswahl 2025: Zweite wurde in Glottertal die AfD, in Kirchzarten die Grünen."
+]
+},
 "km_vom_vorigen": 9.1
 },
 {
@@ -2255,6 +2292,12 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Kirchzarten lag die CDU vorn, in Günterstal die Grünen.",
 "Der Schauinslandradweg verbindet Günterstal und Kirchzarten rund um den Berg."
 ],
+"anschluesse": {
+"07-kirchzarten": [
+"Bundestagswahl 2025: In Kirchzarten lag die CDU vorn, in Günterstal die Grünen.",
+"Der Schauinslandradweg verbindet Günterstal und Kirchzarten rund um den Berg."
+]
+},
 "km_vom_vorigen": 6.6
 },
 {
@@ -2527,6 +2570,12 @@ window.QA_DATEN = {
 "Der Bohrer-Bach aus Horben heißt ab Günterstal Hölderlebach.",
 "Bundestagswahl 2025: In Günterstal lagen die Grünen vorn, in Horben die CDU."
 ],
+"anschluesse": {
+"08-guenterstal": [
+"Der Bohrer-Bach aus Horben heißt ab Günterstal Hölderlebach.",
+"Bundestagswahl 2025: In Günterstal lagen die Grünen vorn, in Horben die CDU."
+]
+},
 "km_vom_vorigen": 3.5
 },
 {
@@ -2780,6 +2829,12 @@ window.QA_DATEN = {
 "Staufen hat rund siebenmal so viele Einwohner wie Horben.",
 "Bundestagswahl 2025: In Horben wählten 91,4 Prozent, in Staufen 87,2."
 ],
+"anschluesse": {
+"09-horben": [
+"Staufen hat rund siebenmal so viele Einwohner wie Horben.",
+"Bundestagswahl 2025: In Horben wählten 91,4 Prozent, in Staufen 87,2."
+]
+},
 "km_vom_vorigen": 11.2
 }
 ]
@@ -2995,7 +3050,8 @@ window.QA_DATEN = {
 }
 ],
 "anschluss_von": null,
-"anschluss": []
+"anschluss": [],
+"anschluesse": {}
 },
 {
 "slug": "02-engers",
@@ -3208,6 +3264,12 @@ window.QA_DATEN = {
 "Engers liegt am Rhein zwischen Neuwied und Bendorf.",
 "Kreisgrenze: In Bendorf steht MYK am Auto, im Neuwieder Stadtteil Engers NR."
 ],
+"anschluesse": {
+"01-bendorf": [
+"Engers liegt am Rhein zwischen Neuwied und Bendorf.",
+"Kreisgrenze: In Bendorf steht MYK am Auto, im Neuwieder Stadtteil Engers NR."
+]
+},
 "km_vom_vorigen": 2.0
 },
 {
@@ -3421,6 +3483,12 @@ window.QA_DATEN = {
 "Heimbach-Weis hat gut 2.000 Einwohner mehr als Engers.",
 "Bundestagswahl 2025: In Heimbach-Weis wählten 82,1 Prozent, in Engers 74,9."
 ],
+"anschluesse": {
+"02-engers": [
+"Heimbach-Weis hat gut 2.000 Einwohner mehr als Engers.",
+"Bundestagswahl 2025: In Heimbach-Weis wählten 82,1 Prozent, in Engers 74,9."
+]
+},
 "km_vom_vorigen": 3.0
 },
 {
@@ -3613,6 +3681,12 @@ window.QA_DATEN = {
 "Heimbach-Weis hat rund elfmal so viele Einwohner wie Altwied.",
 "Bundestagswahl 2025: In Altwied wie in Heimbach-Weis lag die CDU vorn."
 ],
+"anschluesse": {
+"03-heimbach-weis": [
+"Heimbach-Weis hat rund elfmal so viele Einwohner wie Altwied.",
+"Bundestagswahl 2025: In Altwied wie in Heimbach-Weis lag die CDU vorn."
+]
+},
 "km_vom_vorigen": 6.2
 },
 {
@@ -3786,6 +3860,12 @@ window.QA_DATEN = {
 "Rengsdorf liegt gut 150 Meter höher als Altwied.",
 "Rengsdorf hat gut viermal so viele Einwohner wie Altwied."
 ],
+"anschluesse": {
+"04-altwied": [
+"Rengsdorf liegt gut 150 Meter höher als Altwied.",
+"Rengsdorf hat gut viermal so viele Einwohner wie Altwied."
+]
+},
 "km_vom_vorigen": 3.0
 },
 {
@@ -3919,6 +3999,12 @@ window.QA_DATEN = {
 "Dierdorf hat gut doppelt so viele Einwohner wie Rengsdorf.",
 "Dierdorf hat mehr als viermal so viel Fläche wie Rengsdorf."
 ],
+"anschluesse": {
+"05-rengsdorf": [
+"Dierdorf hat gut doppelt so viele Einwohner wie Rengsdorf.",
+"Dierdorf hat mehr als viermal so viel Fläche wie Rengsdorf."
+]
+},
 "km_vom_vorigen": 12.6
 },
 {
@@ -4152,6 +4238,12 @@ window.QA_DATEN = {
 "Dierdorf hat gut dreimal so viele Einwohner wie Waldbreitbach.",
 "Waldbreitbach wird 347 Jahre früher urkundlich erwähnt als Dierdorf."
 ],
+"anschluesse": {
+"06-dierdorf": [
+"Dierdorf hat gut dreimal so viele Einwohner wie Waldbreitbach.",
+"Waldbreitbach wird 347 Jahre früher urkundlich erwähnt als Dierdorf."
+]
+},
 "km_vom_vorigen": 17.0
 },
 {
@@ -4365,6 +4457,12 @@ window.QA_DATEN = {
 "Die nächste Großstadt ist für Waldbreitbach Koblenz, für Linz Bonn.",
 "Linz hat gut dreimal so viele Einwohner wie Waldbreitbach."
 ],
+"anschluesse": {
+"07-waldbreitbach": [
+"Die nächste Großstadt ist für Waldbreitbach Koblenz, für Linz Bonn.",
+"Linz hat gut dreimal so viele Einwohner wie Waldbreitbach."
+]
+},
 "km_vom_vorigen": 9.6
 },
 {
@@ -4578,6 +4676,12 @@ window.QA_DATEN = {
 "Bad Hönningen hat nur 100 Einwohner mehr als Linz.",
 "Linz liegt näher an Bonn, Bad Hönningen näher an Koblenz."
 ],
+"anschluesse": {
+"08-linz": [
+"Bad Hönningen hat nur 100 Einwohner mehr als Linz.",
+"Linz liegt näher an Bonn, Bad Hönningen näher an Koblenz."
+]
+},
 "km_vom_vorigen": 6.1
 },
 {
@@ -4791,6 +4895,12 @@ window.QA_DATEN = {
 "Leutesdorf gehört zur Verbandsgemeinde Bad Hönningen.",
 "Bad Hönningen hat mehr als dreimal so viele Einwohner wie Leutesdorf."
 ],
+"anschluesse": {
+"09-bad-hoenningen": [
+"Leutesdorf gehört zur Verbandsgemeinde Bad Hönningen.",
+"Bad Hönningen hat mehr als dreimal so viele Einwohner wie Leutesdorf."
+]
+},
 "km_vom_vorigen": 9.3
 },
 {
@@ -5004,6 +5114,12 @@ window.QA_DATEN = {
 "Evangelische Leutesdorfer gehören zur Kirchengemeinde der Feldkirche.",
 "Der Komponist August Bungert starb in Leutesdorf und liegt in Feldkirchen begraben."
 ],
+"anschluesse": {
+"10-leutesdorf": [
+"Evangelische Leutesdorfer gehören zur Kirchengemeinde der Feldkirche.",
+"Der Komponist August Bungert starb in Leutesdorf und liegt in Feldkirchen begraben."
+]
+},
 "km_vom_vorigen": 2.4
 }
 ]
@@ -5159,7 +5275,50 @@ window.QA_DATEN = {
 }
 ],
 "anschluss_von": null,
-"anschluss": []
+"anschluss": [],
+"anschluesse": {
+"66-gottenheim": [
+"March hat dreimal so viele Einwohner wie Gottenheim."
+],
+"67-boetzingen": [
+"March hat gut anderthalbmal so viele Einwohner wie Bötzingen."
+],
+"68-eichstetten": [
+"March hat zweieinhalbmal so viele Einwohner wie Eichstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Eichstetten die AfD, in March die SPD."
+],
+"69-ihringen": [
+"March hat anderthalbmal so viele Einwohner wie Ihringen."
+],
+"70-breisach": [
+"Breisach hat fast doppelt so viele Einwohner wie March.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Breisach die AfD, in March die SPD."
+],
+"71-stegen": [
+"March hat gut doppelt so viele Einwohner wie Stegen.",
+"Stegen liegt rund 210 Meter höher als March."
+],
+"72-oberried": [
+"March hat fast dreieinhalbmal so viele Einwohner wie Oberried.",
+"Oberried liegt rund 260 Meter höher als March."
+],
+"73-buchenbach": [
+"March hat dreimal so viele Einwohner wie Buchenbach.",
+"Buchenbach liegt rund 250 Meter höher als March."
+],
+"11-emmendingen": [
+"Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
+"Emmendingen hat gut dreimal so viele Einwohner wie March."
+],
+"01-kenzingen": [
+"Kreisgrenze: Kenzingen gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
+"Kenzingen hat rund 1.500 Einwohner mehr als March."
+],
+"12-herbolzheim": [
+"Kreisgrenze: Herbolzheim gehört zum Landkreis Emmendingen, March zum Landkreis Breisgau-Hochschwarzwald.",
+"Herbolzheim hat rund 1.400 Einwohner mehr als March."
+]
+}
 },
 {
 "slug": "66-gottenheim",
@@ -5369,9 +5528,45 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "65-march",
 "anschluss": [
-"Fläche: March ist gut doppelt so groß wie Gottenheim.",
-"Einwohner: March hat fast dreimal so viele wie Gottenheim."
+"March hat fast dreimal so viele Einwohner wie Gottenheim.",
+"Bundestagswahl 2025: In March und in Gottenheim lag die CDU vorn, mit 31,4 und 33,8 Prozent."
 ],
+"anschluesse": {
+"65-march": [
+"March hat fast dreimal so viele Einwohner wie Gottenheim.",
+"Bundestagswahl 2025: In March und in Gottenheim lag die CDU vorn, mit 31,4 und 33,8 Prozent."
+],
+"67-boetzingen": [
+"Bötzingen hat gut anderthalbmal so viele Einwohner wie Gottenheim."
+],
+"68-eichstetten": [
+"Eichstetten hat rund 600 Einwohner mehr als Gottenheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Eichstetten die AfD, in Gottenheim die SPD."
+],
+"69-ihringen": [
+"Ihringen hat doppelt so viele Einwohner wie Gottenheim."
+],
+"70-breisach": [
+"Breisach hat gut fünfmal so viele Einwohner wie Gottenheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Breisach die AfD, in Gottenheim die SPD."
+],
+"71-stegen": [
+"Stegen hat fast anderthalbmal so viele Einwohner wie Gottenheim.",
+"Stegen liegt rund 200 Meter höher als Gottenheim."
+],
+"11-emmendingen": [
+"Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+"Emmendingen hat gut neunmal so viele Einwohner wie Gottenheim."
+],
+"01-kenzingen": [
+"Kreisgrenze: Kenzingen gehört zum Landkreis Emmendingen, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+"Kenzingen hat dreieinhalbmal so viele Einwohner wie Gottenheim."
+],
+"12-herbolzheim": [
+"Kreisgrenze: Herbolzheim gehört zum Landkreis Emmendingen, Gottenheim zum Landkreis Breisgau-Hochschwarzwald.",
+"Herbolzheim hat fast dreieinhalbmal so viele Einwohner wie Gottenheim."
+]
+},
 "km_vom_vorigen": 4.0
 },
 {
@@ -5542,9 +5737,41 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "66-gottenheim",
 "anschluss": [
-"Gottenheim und Bötzingen sind direkte Nachbargemeinden.",
-"Wahlbeteiligung bei der Bundestagswahl 2025: Gottenheim 89, Bötzingen 82,2 Prozent."
+"Bötzingen hat gut anderthalbmal so viele Einwohner wie Gottenheim.",
+"Gottenheim und Bötzingen gehören beide zum Gemeindeverwaltungsverband Kaiserstuhl-Tuniberg."
 ],
+"anschluesse": {
+"65-march": [
+"March hat gut anderthalbmal so viele Einwohner wie Bötzingen."
+],
+"66-gottenheim": [
+"Bötzingen hat gut anderthalbmal so viele Einwohner wie Gottenheim.",
+"Gottenheim und Bötzingen gehören beide zum Gemeindeverwaltungsverband Kaiserstuhl-Tuniberg."
+],
+"68-eichstetten": [
+"Bötzingen hat anderthalbmal so viele Einwohner wie Eichstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Eichstetten die AfD, in Bötzingen die SPD."
+],
+"69-ihringen": [
+"Ihringen hat rund 800 Einwohner mehr als Bötzingen."
+],
+"70-breisach": [
+"Breisach hat dreimal so viele Einwohner wie Bötzingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Breisach die AfD, in Bötzingen die SPD."
+],
+"11-emmendingen": [
+"Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Emmendingen hat gut fünfmal so viele Einwohner wie Bötzingen."
+],
+"01-kenzingen": [
+"Kreisgrenze: Kenzingen gehört zum Landkreis Emmendingen, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Kenzingen hat doppelt so viele Einwohner wie Bötzingen."
+],
+"12-herbolzheim": [
+"Kreisgrenze: Herbolzheim gehört zum Landkreis Emmendingen, Bötzingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Herbolzheim hat doppelt so viele Einwohner wie Bötzingen."
+]
+},
 "km_vom_vorigen": 3.0
 },
 {
@@ -5735,10 +5962,1495 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "67-boetzingen",
 "anschluss": [
-"Bundestagswahl 2025: Eichstettens Wahlbeteiligung lag über der von Bötzingen.",
-"Höhe: Bötzingen und Eichstetten liegen beide auf rund 192 Metern."
+"Bötzingen hat rund 1.800 Einwohner mehr als Eichstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bötzingen die SPD, in Eichstetten die AfD."
 ],
+"anschluesse": {
+"65-march": [
+"March hat zweieinhalbmal so viele Einwohner wie Eichstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in March die SPD, in Eichstetten die AfD."
+],
+"66-gottenheim": [
+"Eichstetten hat rund 600 Einwohner mehr als Gottenheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Gottenheim die SPD, in Eichstetten die AfD."
+],
+"67-boetzingen": [
+"Bötzingen hat rund 1.800 Einwohner mehr als Eichstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bötzingen die SPD, in Eichstetten die AfD."
+],
+"69-ihringen": [
+"Ihringen hat gut anderthalbmal so viele Einwohner wie Eichstetten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ihringen die SPD, in Eichstetten die AfD."
+],
+"70-breisach": [
+"Breisach hat viereinhalbmal so viele Einwohner wie Eichstetten."
+],
+"11-emmendingen": [
+"Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+"Emmendingen hat achtmal so viele Einwohner wie Eichstetten."
+],
+"01-kenzingen": [
+"Kreisgrenze: Kenzingen gehört zum Landkreis Emmendingen, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+"Kenzingen hat fast dreimal so viele Einwohner wie Eichstetten."
+],
+"12-herbolzheim": [
+"Kreisgrenze: Herbolzheim gehört zum Landkreis Emmendingen, Eichstetten zum Landkreis Breisgau-Hochschwarzwald.",
+"Herbolzheim hat fast dreimal so viele Einwohner wie Eichstetten."
+]
+},
 "km_vom_vorigen": 2.4
+},
+{
+"slug": "69-ihringen",
+"name": "Ihringen",
+"lat": 48.04306,
+"lon": 7.6475,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ihringen",
+"steckbrief": "Ihringen hat rund 6.300 Einwohner und liegt 16 km westlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner leben in Ihringen rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 200",
+"200 bis unter 350",
+"350 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Gemeinde dieser Größe auf dem Land rechnet man leicht mit dünner Besiedlung. Doch auf jedem Quadratkilometer Gemeindefläche wohnen rechnerisch 273 Menschen. Richtig war 3.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "69-ihringen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Ihringen",
+"steckbrief": "Ihringen mit dem Ortsteil Wasenweiler hat rund 6.300 Einwohner und liegt 16 km westlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Ihringer Wappen sind Weintraube und Rebmesser abgebildet.",
+"Wasenweiler gehörte jahrhundertelang den Markgrafen von Baden-Durlach.",
+"Ihringen ist evangelisch geprägt, Wasenweiler dagegen katholisch."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Lüge klingt glaubhaft, denn Ihringen selbst gehörte den Markgrafen von Baden-Durlach. Wasenweiler aber unterstand jahrhundertelang dem Deutschen Orden und war Teil Vorderösterreichs. Den Glauben bestimmte damals meist der Landesherr; die Konfessionen waren also ein Hinweis. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ihringen",
+"faktencheck": "unsicher",
+"id": "69-ihringen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ihringen",
+"steckbrief": "Ihringen hat rund 6.300 Einwohner und liegt 16 km westlich von Freiburg im Breisgau.",
+"frage": "Wie hoch war die Wahlbeteiligung in Ihringen bei der Bundestagswahl 2025?",
+"optionen": [
+"85 % und mehr",
+"78 bis unter 85 %",
+"70 bis unter 78 %",
+"unter 70 %"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele schätzen niedriger, weil so hohe Wahlbeteiligungen selten sind. In Ihringen gaben bei der Bundestagswahl 2025 aber 87,8 Prozent der Wahlberechtigten ihre Stimme ab. Stärkste Partei wurde die CDU. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "69-ihringen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ihringen",
+"steckbrief": "Ihringen hat rund 6.300 Einwohner und liegt 16 km westlich von Freiburg im Breisgau.",
+"frage": "Wie weit ist Ihringen in Luftlinie von der Landeshauptstadt Stuttgart entfernt?",
+"optionen": [
+"unter 80 km",
+"80 bis unter 120 km",
+"120 bis unter 160 km",
+"160 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Auf der Straße ist der Weg nach Stuttgart deutlich länger als die gerade Linie, deshalb schätzen viele zu hoch. In Luftlinie liegen zwischen Ihringen und der Landeshauptstadt 140 Kilometer. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "69-ihringen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ihringen",
+"steckbrief": "Ihringen hat rund 6.300 Einwohner und liegt 16 km westlich von Freiburg im Breisgau.",
+"frage": "Im September 2019 drehte der Schwarzwald-Tatort in und um Ihringen. Wie hieß diese Folge?",
+"optionen": [
+"Die Folge hieß „Spätlese“.",
+"Die Folge hieß „Kaiserstuhl“.",
+"Die Folge hieß „Trockenmauer“.",
+"Die Folge hieß „Rebland“."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. „Spätlese“ klingt passend, denn Ihringen ist eine Weinbaugemeinde. Doch die Folge heißt „Rebland“ und wurde in und um Ihringen gedreht. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ihringen",
+"faktencheck": "bestätigt",
+"id": "69-ihringen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ihringen",
+"steckbrief": "Ihringen hat rund 6.300 Einwohner und liegt 16 km westlich von Freiburg im Breisgau.",
+"frage": "Nordwestlich von Ihringen lag auf einer Kuppe eine befestigte keltische Höhensiedlung. Wie wurde sie entdeckt?",
+"optionen": [
+"Man stieß bei einer Flurbereinigung darauf.",
+"Ein Sturm entwurzelte Bäume über den Mauern.",
+"Kinder fanden beim Spielen Scherben und Münzen.",
+"Ein Pfarrer las davon in alten Kirchenbüchern."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Kinder oder Spaziergänger als Finder klingen plausibel, denn so tauchen manche Fundstellen auf. Hier war es eine Flurbereinigung, also eine Neuordnung von Grundstücken und Wegen: Dabei kam die Siedlung zum Vorschein. Gedeutet wird sie als Herrensitz, durch steile Hänge geschützt. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ihringen",
+"faktencheck": "unsicher",
+"id": "69-ihringen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Ihringen",
+"steckbrief": "Ihringen hat rund 6.300 Einwohner und liegt 16 km westlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"In Ihringen gedeihen Mandelbäume und sogar Kakteen.",
+"In Ihringen kommen Gottesanbeterinnen und Smaragdeidechsen vor.",
+"Ihringens Winter sind streng, mit vielen Eistagen."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Mandelbäume und Kakteen klingen nach Übertreibung, viele Eistage, an denen es ganztags friert, dagegen nach gewöhnlichem deutschem Winter. Doch Ihringen liegt geschützt am Kaiserstuhl: Die Winter sind mild, Eistage gibt es wenige, Sonnenstunden viele. Das begünstigt auch den Weinbau. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ihringen",
+"faktencheck": "bestätigt",
+"id": "69-ihringen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ihringen",
+"steckbrief": "Ihringen hat rund 6.300 Einwohner und liegt 16 km westlich von Freiburg im Breisgau.",
+"frage": "Südwestlich von Ihringen liegt eine Gruppe von Grabhügeln. Wer wurde dort bestattet?",
+"optionen": [
+"Dort liegen Gefallene des Dreißigjährigen Kriegs.",
+"Dort liegen Menschen aus Bronze- und Keltenzeit.",
+"Dort liegen Opfer einer mittelalterlichen Pest.",
+"Dort liegen Soldaten eines römischen Lagers."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Hügeln in der Ebene denkt man schnell an Kriegsgräber oder Pestfriedhöfe. Die Gräber sind aber weit älter: Sie reichen von der mittleren Bronzezeit bis in die keltische Zeit. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ihringen",
+"faktencheck": "unsicher",
+"id": "69-ihringen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "68-eichstetten",
+"anschluss": [
+"Ihringen hat gut anderthalbmal so viele Einwohner wie Eichstetten.",
+"Ihringen hat fast doppelt so viel Fläche wie Eichstetten: 23 und gut 12 Quadratkilometer."
+],
+"anschluesse": {
+"65-march": [
+"March hat anderthalbmal so viele Einwohner wie Ihringen."
+],
+"66-gottenheim": [
+"Ihringen hat doppelt so viele Einwohner wie Gottenheim."
+],
+"67-boetzingen": [
+"Ihringen hat rund 800 Einwohner mehr als Bötzingen."
+],
+"68-eichstetten": [
+"Ihringen hat gut anderthalbmal so viele Einwohner wie Eichstetten.",
+"Ihringen hat fast doppelt so viel Fläche wie Eichstetten: 23 und gut 12 Quadratkilometer."
+],
+"70-breisach": [
+"Breisach hat gut zweieinhalbmal so viele Einwohner wie Ihringen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Breisach die AfD, in Ihringen die SPD."
+],
+"11-emmendingen": [
+"Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Ihringen zum Landkreis Breisgau-Hochschwarzwald.",
+"Emmendingen hat gut viereinhalbmal so viele Einwohner wie Ihringen."
+],
+"01-kenzingen": [
+"Kreisgrenze: Kenzingen gehört zum Landkreis Emmendingen, Ihringen zum Landkreis Breisgau-Hochschwarzwald.",
+"Kenzingen hat gut anderthalbmal so viele Einwohner wie Ihringen."
+]
+},
+"km_vom_vorigen": 9.2
+},
+{
+"slug": "70-breisach",
+"name": "Breisach",
+"lat": 48.02889,
+"lon": 7.58,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Breisach",
+"steckbrief": "Stadt am Oberrhein an der Grenze zu Frankreich, 21 km westlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner hat Breisach?",
+"optionen": [
+"unter 10.000",
+"10.000 bis unter 20.000",
+"20.000 bis unter 40.000",
+"40.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Unter 10.000 läge nahe, denn das Städtchen auf dem Berg am Rhein wirkt eher klein. Zur Stadt gehören aber auch mehrere eingemeindete Dörfer. Ende 2025 zählte Breisach 16.617 Einwohner. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "70-breisach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Breisach",
+"steckbrief": "Stadt mit rund 16.600 Einwohnern, 21 km westlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Fußballtorwart Oliver Baumann stammt aus Breisach.",
+"Widerstandskämpfer Julius Leber ging in Breisach zur Schule.",
+"Maler Martin Schongauer entwarf das Breisacher Rheintor."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Schongauer passt gut zu Breisach: Er malte im Münster das Jüngste Gericht und starb hier. Das barocke Rheintor aber baute der französische Festungsbauer Jacques Tarade, lange nach Schongauers Tod. Baumann stammt wirklich aus Breisach, Leber ging hier zur Schule. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Breisach_am_Rhein",
+"faktencheck": "bestätigt",
+"id": "70-breisach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Breisach",
+"steckbrief": "Stadt mit rund 16.600 Einwohnern, 21 km westlich von Freiburg im Breisgau.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Breisach die stärkste Partei?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 25 %",
+"25 bis unter 30 %",
+"30 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Unter 30 Prozent läge nahe, denn AfD, SPD und Grüne holten zusammen fast die Hälfte der Zweitstimmen. Trotzdem lag die CDU deutlich vorn: Sie kam auf 30,3 Prozent. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "70-breisach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breisach",
+"steckbrief": "Stadt mit rund 16.600 Einwohnern am Rhein, 21 km westlich von Freiburg im Breisgau.",
+"frage": "Auf der anderen Rheinseite baute Vauban die Stadt Neuf-Brisach. Welchen Grund nennt die Ortsgeschichte?",
+"optionen": [
+"Sie ersetzte Breisach nach einem Friedensvertrag.",
+"Sie diente als Zollstation für den Rheinhandel.",
+"Sie war als Residenz eines Fürsten gedacht.",
+"Sie wurde als Sitz eines Bischofs gegründet."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Zollposten am Rhein läge nahe, denn der Fluss war ein wichtiger Handelsweg. Die Ortsgeschichte nennt aber den Frieden von Rijswijk: Danach baute Vauban Neuf-Brisach als Ersatz für Breisach, in Sichtweite auf der anderen Rheinseite. Heute ist die Stadt Breisachs Partnerstadt. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Breisach_am_Rhein",
+"faktencheck": "korrigiert",
+"id": "70-breisach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Breisach",
+"steckbrief": "Stadt mit rund 16.600 Einwohnern, 21 km westlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner leben in Breisach durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 200",
+"200 bis unter 400",
+"400 bis unter 800",
+"800 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Für eine Stadt mit Altstadt und Festungstoren läge ein höherer Wert nahe. Doch zur Stadt gehört eine weite Gemarkung mit mehreren Dörfern. So kommen auf einen Quadratkilometer nur 304 Einwohner. Richtig war 2.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "70-breisach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Breisach",
+"steckbrief": "Stadt mit rund 16.600 Einwohnern, 21 km westlich von Freiburg im Breisgau.",
+"frage": "Während der Belagerung 1638 lebten in Breisach etwa 4.000 Menschen. Wie viele von ihnen überlebten?",
+"optionen": [
+"unter 50",
+"50 bis unter 100",
+"100 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Mehr als tausend läge nahe, denn hinter Festungsmauern fühlen sich Belagerte sicher. Doch Bernhard von Sachsen-Weimar belagerte Breisach monatelang; Hunger und Pest töteten fast alle. Nur etwa 150 Bewohner überlebten. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Breisach_am_Rhein",
+"faktencheck": "unsicher",
+"id": "70-breisach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breisach",
+"steckbrief": "Stadt mit rund 16.600 Einwohnern, 21 km westlich von Freiburg im Breisgau.",
+"frage": "Was war das Blaue Haus in Breisach, bevor die jüdische Gemeinde es 1829 kaufte?",
+"optionen": [
+"Es war eine Gastwirtschaft.",
+"Es war eine Färberei für blaue Stoffe.",
+"Es war die Wache der Festungssoldaten.",
+"Es war ein Kornspeicher der Stadt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Name lässt an eine Färberei denken, die mit blauer Farbe arbeitete. Das Haus war aber rund 140 Jahre lang eine Gastwirtschaft. 1829 kaufte die jüdische Gemeinde es als Schulhaus. Heute ist es ein Ort des Gedenkens und Lernens zur jüdischen Geschichte. Richtig war 1.",
+"quelle": "Stadt Breisach, stadt.breisach.de/de/kultur/sehenswuerdigkeiten/das_blaue_haus",
+"faktencheck": "korrigiert",
+"id": "70-breisach/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breisach",
+"steckbrief": "Stadt mit rund 16.600 Einwohnern, 21 km westlich von Freiburg im Breisgau.",
+"frage": "1703 ergab sich Breisach nach kurzer Belagerung einem französischen Heer. Was geschah danach mit dem Festungskommandanten?",
+"optionen": [
+"Er trat in französische Dienste über.",
+"Er wurde für seine Verteidigung ausgezeichnet.",
+"Er zog sich auf seine Güter zurück.",
+"Ein Kriegsgericht verurteilte ihn, er wurde hingerichtet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Auszeichnung läge nahe, denn Verteidiger einer Festung galten oft als Helden. Doch ein Kriegsgericht verurteilte den Kommandanten Graf Philipp von Arco zum Tode; er wurde 1704 in Bregenz enthauptet. Richtig war 4.",
+"quelle": "Neue Deutsche Biographie, deutsche-biographie.de/sfz1182.html",
+"faktencheck": "korrigiert",
+"id": "70-breisach/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Breisach",
+"steckbrief": "Stadt mit rund 16.600 Einwohnern, 21 km westlich von Freiburg im Breisgau.",
+"frage": "Woher stammt der Name Breisach?",
+"optionen": [
+"Er stammt aus dem Keltischen.",
+"Er ist deutsch und bedeutet „breite Ach“, also breites Wasser.",
+"Er stammt von einem fränkischen Königshof.",
+"Er erinnert an einen alemannischen Heerführer."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. „Breit“ und „Ach“ für Wasser liegen nahe, denn Breisach liegt am Rhein. Der Name ist aber keltisch und schon 369 als „Brisiacus“ belegt. Gedeutet wird er als „Wasserbrecher“ für den Felsen im Rhein oder als Landgut eines Brîsios. Richtig war 1.",
+"quelle": "Stadt Breisach, stadt.breisach.de/de/stadtinfo/zahlen_daten_fakten/geschichte",
+"faktencheck": "korrigiert",
+"id": "70-breisach/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "69-ihringen",
+"anschluss": [
+"Breisach hat gut zweieinhalbmal so viele Einwohner wie Ihringen.",
+"Breisach ist eine Stadt, Ihringen eine Gemeinde; beide bilden eine Verwaltungsgemeinschaft."
+],
+"anschluesse": {
+"65-march": [
+"Breisach hat fast doppelt so viele Einwohner wie March.",
+"Bundestagswahl 2025: Auf Platz zwei kam in March die SPD, in Breisach die AfD."
+],
+"66-gottenheim": [
+"Breisach hat gut fünfmal so viele Einwohner wie Gottenheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Gottenheim die SPD, in Breisach die AfD."
+],
+"67-boetzingen": [
+"Breisach hat dreimal so viele Einwohner wie Bötzingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bötzingen die SPD, in Breisach die AfD."
+],
+"68-eichstetten": [
+"Breisach hat viereinhalbmal so viele Einwohner wie Eichstetten."
+],
+"69-ihringen": [
+"Breisach hat gut zweieinhalbmal so viele Einwohner wie Ihringen.",
+"Breisach ist eine Stadt, Ihringen eine Gemeinde; beide bilden eine Verwaltungsgemeinschaft."
+]
+},
+"km_vom_vorigen": 5.3
+},
+{
+"slug": "71-stegen",
+"name": "Stegen",
+"lat": 47.98278,
+"lon": 7.96389,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stegen",
+"steckbrief": "Rund 4.500 Einwohner, 8 km östlich von Freiburg im Breisgau.",
+"frage": "Woher hat die Gemeinde Stegen ihren Namen?",
+"optionen": [
+"Er stammt von steilen Steigen hinauf zu Höfen.",
+"Er geht auf eine frühere Adelsfamilie zurück.",
+"Er bezeichnete einen Rastplatz für Fuhrleute.",
+"Er erinnert an Holzwege durch sumpfiges Gelände."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Beim Wort Stegen denkt man an steile Steige. Der Name kommt aber von hölzernen Bohlwegen, Stegen genannt, die am Ausgang des Eschbachtals durch sumpfiges Gelände führten. Zuerst hießen Höfe oberhalb des Meierhofs Weiler so, schließlich die ganze Gemeinde. Das heutige Wappen zeigt einen roten Steg. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.stegen.de/p/geschichte-ortsteile",
+"faktencheck": "bestätigt",
+"id": "71-stegen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stegen",
+"steckbrief": "Eine Gemeinde mit rund 4.500 Einwohnern, 8 km östlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Fläche der Gemeinde Stegen?",
+"optionen": [
+"unter 30 km²",
+"30 bis unter 45 km²",
+"45 bis unter 60 km²",
+"60 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Stegen reicht von flachen Tallagen am Nordrand des Dreisamtals bis hinauf auf Waldkämme des Südschwarzwalds. Wer an Schwarzwaldgemeinden denkt, erwartet weite Flächen. Die Gemarkung misst aber nur 26,32 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "71-stegen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Stegen",
+"steckbrief": "Rund 4.500 Einwohner, 8 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Kagenecks herrschten über Stegen bis zur Gebietsreform.",
+"Ober- und Unterbirken entstanden auf gerodetem Herrschaftsland.",
+"Der Bach Eschbach durchzieht das Gemeindegebiet in ganzer Länge."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gerodetes Herrschaftsland klingt erfunden, stimmt aber für die Wohnplätze Ober- und Unterbirken. Auch der Eschbach durchzieht das Gemeindegebiet in ganzer Länge. Gelogen war die Kageneck-Aussage: Die Freiherren und späteren Grafen waren die letzten Grundherren der Herrschaft Weiler, aus der Stegen hervorging. Ihre Herrschaft fiel aber an Baden, lange vor der Gebietsreform. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.stegen.de/p/geschichte-ortsteile",
+"faktencheck": "korrigiert",
+"id": "71-stegen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Stegen",
+"steckbrief": "Rund 4.500 Einwohner, nur 8 km östlich von Freiburg im Breisgau.",
+"frage": "Welche Partei wurde in Stegen bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"AfD",
+"GRÜNE",
+"FDP"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit wurde die AfD hinter der Union zweitstärkste Kraft, darum liegt sie nahe. In Stegen, nahe der Universitätsstadt Freiburg, kamen dagegen die Grünen mit 20,7 Prozent auf Platz zwei, hinter der CDU mit 31,4 Prozent. Die AfD erreichte 12,3 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "71-stegen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stegen",
+"steckbrief": "Rund 4.500 Einwohner, 8 km östlich von Freiburg im Breisgau.",
+"frage": "Das alte Wappen von Wittental zeigte ein rotes Kreuz und vier rote Kugeln. Wofür standen die Kugeln?",
+"optionen": [
+"Sie standen für die vier Höfe des Dorfs.",
+"Sie erinnerten an vier alte Grenzsteine.",
+"Sie zeigten vier Quellen im Tal.",
+"Sie standen für eine frühere Adelsherrschaft."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Vier Kugeln laden zum Zählen ein, darum liegen Höfe oder Grenzsteine nahe. Das Wappen erzählte aber von Herrschaft: Das rote Kreuz stand für Freiburg, die Kugeln für die Freiherren von Sickingen. Sie herrschten über Wittental, bis sie es an Baden verkauften. Vorgeschlagen hatte das Wappen das Generallandesarchiv. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.stegen.de/p/geschichte-ortsteile",
+"faktencheck": "bestätigt",
+"id": "71-stegen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Stegen",
+"steckbrief": "Rund 4.500 Einwohner, 8 km östlich von Freiburg im Breisgau, am Rand des Schwarzwalds.",
+"frage": "Zu welchem Landkreis gehört Stegen?",
+"optionen": [
+"Breisgau-Hochschwarzwald",
+"Emmendingen",
+"Schwarzwald-Baar-Kreis",
+"Ortenaukreis"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an den Hochschwarzwald denkt, landet leicht beim Schwarzwald-Baar-Kreis. Stegen gehört aber zum Landkreis Breisgau-Hochschwarzwald, der Freiburg umschließt; die Großstadt selbst ist kreisfrei. Richtig war 1.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "71-stegen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stegen",
+"steckbrief": "Rund 4.500 Einwohner, 8 km östlich von Freiburg im Breisgau.",
+"frage": "Auf dem Gebiet von Stegen gehörte einst der Hof Falkenbühl zur Herrschaft Ebnet. Woher hat er seinen Namen?",
+"optionen": [
+"Dort richtete man einst Jagdfalken ab.",
+"Er ist nach einer früheren Burg benannt.",
+"Auf dem Hügel nisteten früher Wanderfalken.",
+"Er ist nach einem früheren Gasthaus benannt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Falkenbühl klingt nach Falken auf einem Bühl, also einem Hügel, und damit nach Jagd oder Nistplätzen. Der Hof ist aber nach einer Burg benannt. Sie stand auf dem Hügel vor dem Ausgang des Wittentals und wurde früh aufgegeben. Der Hof gehörte zur Herrschaft Ebnet. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.stegen.de/p/geschichte-ortsteile; LEO-BW",
+"faktencheck": "korrigiert",
+"id": "71-stegen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stegen",
+"steckbrief": "Rund 4.500 Einwohner, 8 km östlich von Freiburg im Breisgau.",
+"frage": "Das Eschbacher Gemeindesiegel von 1788 zeigte eine Esche, gekreuzte Schlüssel und die Buchstaben S.P. Wofür stand S.P.?",
+"optionen": [
+"Es waren die Initialen des Vogts Simon Pfister.",
+"S.P. stand für „Sigillum Publicum“, also Amtssiegel.",
+"S.P. stand für Sankt Peter.",
+"Es waren die Initialen des Siegelstechers Sebastian Pfaff."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Zwei Buchstaben auf einem Siegel lassen an Initialen oder eine lateinische Formel denken. Vogt, also Ortsvorsteher, war damals aber Michael Hug. S.P. stand für Sankt Peter, dazu passen die gekreuzten Petersschlüssel. Der st. petrische Teil Eschbachs war eine Vogtei, also ein Amtsbezirk, des Klosters St. Peter. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.stegen.de/p/geschichte-ortsteile",
+"faktencheck": "korrigiert",
+"id": "71-stegen/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "70-breisach",
+"anschluss": [
+"Einwohner: Breisach hat fast viermal so viele wie Stegen.",
+"Bundestagswahl 2025: In Stegen wählten 89,4, in Breisach 82,3 Prozent."
+],
+"anschluesse": {
+"65-march": [
+"March hat gut doppelt so viele Einwohner wie Stegen.",
+"Stegen liegt rund 210 Meter höher als March."
+],
+"66-gottenheim": [
+"Stegen hat fast anderthalbmal so viele Einwohner wie Gottenheim.",
+"Stegen liegt rund 200 Meter höher als Gottenheim."
+],
+"72-oberried": [
+"Stegen hat gut anderthalbmal so viele Einwohner wie Oberried.",
+"Oberried hat zweieinhalbmal so viel Fläche wie Stegen, aber weniger Einwohner."
+],
+"73-buchenbach": [
+"Stegen hat fast anderthalbmal so viele Einwohner wie Buchenbach."
+],
+"74-hinterzarten": [
+"Stegen hat fast doppelt so viele Einwohner wie Hinterzarten.",
+"Hinterzarten liegt rund 480 Meter höher als Stegen."
+],
+"11-emmendingen": [
+"Kreisgrenze: Emmendingen gehört zum Landkreis Emmendingen, Stegen zum Landkreis Breisgau-Hochschwarzwald.",
+"Emmendingen hat fast siebenmal so viele Einwohner wie Stegen."
+],
+"70-breisach": [
+"Einwohner: Breisach hat fast viermal so viele wie Stegen.",
+"Bundestagswahl 2025: In Stegen wählten 89,4, in Breisach 82,3 Prozent."
+]
+},
+"km_vom_vorigen": 29.0
+},
+{
+"slug": "72-oberried",
+"name": "Oberried",
+"lat": 47.93194,
+"lon": 7.94722,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberried",
+"steckbrief": "Oberried zählt rund 2.750 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
+"frage": "1679 zog der Orden der Wilhelmiten von Freiburg nach Oberried. Welchen Anlass nennt die Ortsgeschichte dafür?",
+"optionen": [
+"Ein Hochwasser hatte ihr Freiburger Haus zerstört.",
+"Der Papst hatte die Verlegung angeordnet.",
+"Freiburg war an Frankreich gefallen.",
+"Sie wollten in Oberried Bergbau betreiben."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Orden zieht oft auf Weisung von oben um, daher liegt der Papst nahe. Die Ortsgeschichte nennt aber einen politischen Anlass: Freiburg war an Frankreich gefallen, und das Freiburger Priorat musste dem Festungsbau weichen. Daraufhin siedelten die Wilhelmiten nach Oberried um und errichteten dort Kirche und Konventgebäude neu. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.oberried.de/p/geschichte",
+"faktencheck": "korrigiert",
+"id": "72-oberried/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oberried",
+"steckbrief": "Oberried zählt rund 2.750 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist das Gemeindegebiet von Oberried?",
+"optionen": [
+"unter 20 km²",
+"20 bis unter 40 km²",
+"40 bis unter 60 km²",
+"60 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wenige Einwohner lassen eine kleine Fläche vermuten. Das Gemeindegebiet ist aber 66,32 Quadratkilometer groß; dazu gehören die Ortsteile Hofsgrund, St. Wilhelm und Zastler. Entsprechend dünn ist Oberried besiedelt. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "72-oberried/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Oberried",
+"steckbrief": "Oberried zählt rund 2.750 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Kloster St. Gallen besaß einst Rechte in Oberried.",
+"Hofsgrund gehörte schon immer zur Gemeinde Oberried.",
+"Eine Waldgenossenschaft kaufte einst einen Teil der Klosterscheune."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das ferne St. Gallen wirkt wie die Lüge, doch das Kloster besaß tatsächlich alte grundherrliche Rechte in Oberried. Gelogen ist Hofsgrund: Es war früher eine selbstständige Gemeinde und kam erst durch die Gemeindereform zu Oberried. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.oberried.de/p/geschichte und www.oberried.de/p/historie",
+"faktencheck": "korrigiert",
+"id": "72-oberried/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oberried",
+"steckbrief": "Oberried zählt rund 2.750 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
+"frage": "Wie hoch war die Wahlbeteiligung in Oberried bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 85 %",
+"85 bis unter 91 %",
+"91 bis unter 95 %",
+"95 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer vom bundesweiten Wert ausgeht, tippt eher niedriger. In Oberried gaben jedoch 90,1 Prozent der Wahlberechtigten ihre Stimme ab. Stärkste Partei wurde die CDU. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "72-oberried/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberried",
+"steckbrief": "Oberried zählt rund 2.750 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
+"frage": "Im April 1936 gerieten englische Schüler am Schauinsland in einen Schneesturm. Wer rettete die Überlebenden nach der Ortsgeschichte tatsächlich?",
+"optionen": [
+"Die Hitler-Jugend rettete die Schüler.",
+"Soldaten aus einer Kaserne retteten die Schüler.",
+"Bewohner von Hofsgrund retteten die Schüler.",
+"Ihr Lehrer führte die Gruppe allein ins Tal."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Hitler-Jugend liegt nahe, denn so stellten es die Nationalsozialisten dar. Sie war aber nicht einmal vor Ort. Gerettet hat die Hofsgrunder Bevölkerung; das Unglück ging vor allem auf eine Fehlplanung des Lehrers zurück. Ein Denkmal am Schauinsland verbreitete trotzdem die NS-Version. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.oberried.de/p/das-nazi-denkmal",
+"faktencheck": "korrigiert",
+"id": "72-oberried/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Oberried",
+"steckbrief": "Oberried zählt rund 2.750 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
+"frage": "Zu welchem Landkreis gehört Oberried?",
+"optionen": [
+"Landkreis Emmendingen",
+"Landkreis Lörrach",
+"Landkreis Waldshut",
+"Landkreis Breisgau-Hochschwarzwald"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Lörrach oder Waldshut liegen nahe, weil beide Kreise weite Teile des südlichen Schwarzwalds umfassen. Oberried gehört aber zum Landkreis Breisgau-Hochschwarzwald und zum Regierungsbezirk Freiburg. Richtig war 4.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "72-oberried/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberried",
+"steckbrief": "Oberried zählt rund 2.750 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
+"frage": "1237 übertrugen die Herren von Tengen ihren Besitz im Oberrieder Tal an die Nonnen von Günterstal. Welche Bedingung knüpften sie daran?",
+"optionen": [
+"Die Nonnen mussten in Oberried ein Kloster bauen.",
+"Die Nonnen mussten ihr Kloster nach Tengen verlegen.",
+"Die Nonnen mussten eine Burg der Tengener unterhalten.",
+"Die Nonnen mussten das Tal unbesiedelt lassen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Burg zu unterhalten klingt nach typischer Gegenleistung für adelige Herren. Die Herren von Tengen, ein im westlichen Hegau beheimatetes Geschlecht, verlangten jedoch etwas anderes: Die Günterstaler Nonnen sollten in Oberried ein Kloster bauen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.oberried.de/p/geschichte",
+"faktencheck": "unsicher",
+"id": "72-oberried/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberried",
+"steckbrief": "Oberried zählt rund 2.750 Einwohner und liegt 10 km südöstlich von Freiburg im Breisgau.",
+"frage": "1832 kaufte ein Händler einen Teil der Oberrieder Klosterscheune und baute daran ein Wohnhaus. Womit handelte er?",
+"optionen": [
+"Er handelte mit Holz.",
+"Er handelte mit Wein.",
+"Er handelte mit Erz.",
+"Er handelte mit Vieh."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Holz liegt nahe, denn Oberried ist überwiegend bewaldet. Der Käufer war jedoch ein Weinhändler aus Stockach. An die Klosterscheune baute er ein Wohnhaus mit Weinkeller. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.oberried.de/p/historie",
+"faktencheck": "bestätigt",
+"id": "72-oberried/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "71-stegen",
+"anschluss": [
+"Oberried hat zweieinhalbmal so viel Fläche wie Stegen, aber nicht einmal zwei Drittel der Einwohner.",
+"Stegen und Oberried gehören beide zum Gemeindeverwaltungsverband Dreisamtal."
+],
+"anschluesse": {
+"65-march": [
+"March hat fast dreieinhalbmal so viele Einwohner wie Oberried.",
+"Oberried liegt rund 260 Meter höher als March."
+],
+"71-stegen": [
+"Oberried hat zweieinhalbmal so viel Fläche wie Stegen, aber nicht einmal zwei Drittel der Einwohner.",
+"Stegen und Oberried gehören beide zum Gemeindeverwaltungsverband Dreisamtal."
+],
+"73-buchenbach": [
+"Buchenbach hat rund 400 Einwohner mehr als Oberried.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Buchenbach die Grünen, in Oberried die SPD."
+],
+"74-hinterzarten": [
+"Hinterzarten und Oberried sind fast gleich groß: rund 2.500 und 2.800 Einwohner.",
+"Hinterzarten liegt rund 420 Meter höher als Oberried."
+]
+},
+"km_vom_vorigen": 5.8
+},
+{
+"slug": "73-buchenbach",
+"name": "Buchenbach",
+"lat": 47.96167,
+"lon": 8.01028,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Buchenbach",
+"steckbrief": "Buchenbach hat rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.",
+"frage": "1956 wurde der Schriftsteller Alfred Döblin in Buchenbach ärztlich behandelt. Was für eine Klinik war das?",
+"optionen": [
+"Es war eine Lungenheilstätte für Tuberkulosekranke.",
+"Es war eine anthroposophisch orientierte psychiatrische Klinik.",
+"Es war eine Unfallklinik für Wintersportler.",
+"Es war ein Kurhaus für Herzkranke."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Schwarzwaldort lässt an Luftkur und Lungenheilstätten denken, die es in vielen Höhenlagen gab. Döblin, selbst Arzt, kam 1956 aber ins Sanatorium Wiesneck, die heutige Friedrich-Husemann-Klinik. Der Psychiater Friedrich Husemann hatte es 1930 als anthroposophisch orientiertes Haus für Psychiatrie und Psychotherapie eröffnet. Richtig war 2.",
+"quelle": "Deutsches Ärzteblatt PP 7/2007; friedrich-husemann-klinik.de",
+"faktencheck": "korrigiert",
+"id": "73-buchenbach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Buchenbach",
+"steckbrief": "Buchenbach mit rund 3.200 Einwohnern liegt 12 km östlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner kommen in Buchenbach im Schnitt auf einen Quadratkilometer?",
+"optionen": [
+"unter 40",
+"40 bis unter 70",
+"70 bis unter 120",
+"120 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. So nah an Freiburg erwartet man eine dicht bebaute Vorortgemeinde. Doch schon der Kernort Buchenbach besteht aus weilerartigen Siedlungsteilen und Einzelhöfen, und Wald bedeckt den Großteil der Gemarkung. Deshalb kommen rechnerisch nur 81 Einwohner auf einen Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "korrigiert",
+"id": "73-buchenbach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Buchenbach",
+"steckbrief": "Buchenbach hat rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Herrschaft Wiesneck war einst ein österreichisches Lehen.",
+"Falkensteig gehört als Ortsteil zur Gemeinde Buchenbach.",
+"Das Gemeindewappen zeigt eine grüne Tanne in Silber."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Tannen prägen das Bild des Schwarzwalds, darum klingt eine Tanne im Wappen glaubhaft. Doch im Wappen steht, passend zum Ortsnamen, eine grüne Buche in Silber, daneben in Rot ein silberner Wellenbalken, ein häufiges Wappenzeichen für Wasser. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.buchenbach.de/p/ortsteile-und-geschichte",
+"faktencheck": "korrigiert",
+"id": "73-buchenbach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Buchenbach",
+"steckbrief": "Buchenbach im Schwarzwald hat rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Buchenbach bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 35 %",
+"35 bis unter 40 %",
+"40 bis unter 45 %",
+"45 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Schwarzwalddorf gilt vielen als sichere CDU-Hochburg, daher liegt ein hoher Wert nahe. Die CDU wurde in Buchenbach zwar stärkste Partei, kam aber nur auf 32,7 Prozent. Zweitstärkste Kraft wurden die Grünen. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "73-buchenbach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Buchenbach",
+"steckbrief": "Buchenbach hat rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.",
+"frage": "Die Burg Falkenstein bei Falkensteig wurde 1388 zerstört. Von wem?",
+"optionen": [
+"Württembergische Truppen zerstörten die Burg.",
+"Bürger der Stadt Freiburg zerstörten die Burg.",
+"Schweizer Eidgenossen zerstörten die Burg.",
+"Söldner des Bischofs von Straßburg zerstörten die Burg."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Burgen fielen oft fremden Heeren zum Opfer, darum denkt man an Truppen von außen. Die Burg Falkenstein, gegründet von den Herren von Falkenstein, zerstörten aber Bürger der Stadt Freiburg im Breisgau. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Buchenbach",
+"faktencheck": "bestätigt",
+"id": "73-buchenbach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Buchenbach",
+"steckbrief": "Buchenbach hat rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.",
+"frage": "Welches Hauptkennzeichen gilt für Autos aus Buchenbach?",
+"optionen": [
+"VS",
+"EM",
+"FR",
+"WT"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Buchenbach liegt am Eingang des Höllentals, und ein Kennzeichen aus dem Schwarzwald läge nahe. Die Gemeinde gehört aber zum Landkreis Breisgau-Hochschwarzwald, und dessen Hauptkennzeichen ist FR, dasselbe wie in Freiburg. Richtig war 3.",
+"quelle": "Wikidata P395; Landkreis: dewiki Infobox",
+"faktencheck": "korrigiert",
+"id": "73-buchenbach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Buchenbach",
+"steckbrief": "Buchenbach hat heute rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.",
+"frage": "Im 19. Jahrhundert betrieben die Gebrüder Fauler in Falkensteig die Obere Blechschmiede. Wie viele Menschen arbeiteten dort zu Spitzenzeiten?",
+"optionen": [
+"unter 50",
+"50 bis unter 150",
+"150 bis unter 300",
+"300 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In einem Schwarzwaldtal denkt man an eine Handvoll Schmiede. Doch die Obere Blechschmiede in Falkensteig war mit Walzwerk, Hammerwerk und später Eisengießerei ein Industriebetrieb: Zu Spitzenzeiten arbeiteten dort 400 Menschen. Wegen mangelnder Rentabilität wurde sie geschlossen, die meisten Gebäude später abgebrochen. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Buchenbach",
+"faktencheck": "unsicher",
+"id": "73-buchenbach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Buchenbach",
+"steckbrief": "Buchenbach hat rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.",
+"frage": "Im Namen des Ortsteils Unteribental steckt die Silbe „ib“. Worauf weist sie hin?",
+"optionen": [
+"Sie weist auf frühere Eibenbestände hin.",
+"Sie geht auf den Namen eines Siedlers zurück.",
+"Sie stammt von einem keltischen Flussnamen.",
+"Sie bedeutet in der Mundart „steiler Hang“."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Kurze Silben in Ortsnamen gehen oft auf Personen oder alte Gewässernamen zurück, deshalb liegen diese Deutungen nahe. Im Namen Unteribental steckt aber ein Baum: Das „ib“ weist auf frühere Eibenbestände hin. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Buchenbach",
+"faktencheck": "bestätigt",
+"id": "73-buchenbach/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "… Im Ibental steht die Vaterunser-Kapelle aus den 1960er-Jahren. Wer ließ sie bauen?",
+"steckbrief": "1. Talbauern nach einem Unwetter.",
+"frage": "",
+"optionen": [
+"Ein Orden, als Wallfahrtsort.",
+"Ein Verleger.",
+"Eine Bergbaufirma, für ihre Arbeiter."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Kapellen in Schwarzwaldtälern gehen oft auf Gelübde von Bauern oder auf Orden zurück. Diese aber stifteten der Verleger Theophil Herder-Dorneich und seine Frau Elisabeth als Privatkapelle und Grablege der Familie Herder. Richtig war 3.",
+"quelle": "Denkmalstiftung Baden-Württemberg",
+"faktencheck": "korrigiert",
+"id": "73-buchenbach/v0.8/9",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Buchenbach",
+"steckbrief": "Buchenbach hat rund 3.200 Einwohner und liegt 12 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Erzbischof Oskar Saier wurde im Ortsteil Wagensteig geboren.",
+"Die neugotische Kirche St. Blasius wurde später barockisiert.",
+"Philosoph Broder Christiansen betrieb in Wiesneck einen Verlag."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Barockkirchen sind im Süden häufig, darum klingt eine Barockisierung glaubhaft. Doch die Neugotik ist jünger als der Barock: Die katholische Pfarrkirche St. Blasius von 1811 wurde um 1900 neugotisch umgebaut, nicht umgekehrt. Christiansens Felsen-Verlag hatte seinen Sitz in Buchenbach. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Buchenbach",
+"faktencheck": "korrigiert",
+"id": "73-buchenbach/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "72-oberried",
+"anschluss": [
+"Bundestagswahl 2025: In Oberried kam die CDU auf 42,4 Prozent, in Buchenbach auf 32,7.",
+"Oberried und Buchenbach gehören beide zum Gemeindeverwaltungsverband Dreisamtal."
+],
+"anschluesse": {
+"65-march": [
+"March hat dreimal so viele Einwohner wie Buchenbach.",
+"Buchenbach liegt rund 250 Meter höher als March."
+],
+"71-stegen": [
+"Stegen hat fast anderthalbmal so viele Einwohner wie Buchenbach."
+],
+"72-oberried": [
+"Bundestagswahl 2025: In Oberried kam die CDU auf 42,4 Prozent, in Buchenbach auf 32,7.",
+"Oberried und Buchenbach gehören beide zum Gemeindeverwaltungsverband Dreisamtal."
+],
+"74-hinterzarten": [
+"Buchenbach hat rund 600 Einwohner mehr als Hinterzarten.",
+"Hinterzarten liegt rund 440 Meter höher als Buchenbach."
+],
+"75-titisee-neustadt": [
+"Titisee-Neustadt hat viermal so viele Einwohner wie Buchenbach.",
+"Titisee-Neustadt liegt rund 400 Meter höher als Buchenbach."
+]
+},
+"km_vom_vorigen": 5.7
+},
+{
+"slug": "74-hinterzarten",
+"name": "Hinterzarten",
+"lat": 47.90778,
+"lon": 8.10083,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hinterzarten",
+"steckbrief": "Rund 2.500 Einwohner, 21 km südöstlich von Freiburg im Breisgau.",
+"frage": "Woraus ist der Ortsname Hinterzarten nach der Ortsgeschichte entstanden?",
+"optionen": [
+"Zwei ältere Namen sind miteinander verschmolzen.",
+"Ein Siedler gab dem Ort seinen Namen.",
+"Er beschreibt das zarte Gras der Hochweiden.",
+"Er erinnert an eine verlorene Schlacht."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei „zarten“ denkt man an Weiden oder einen Siedler. Doch nach der Ortsgeschichte hieß die Vogtei früher „Hinter der Straß in der Zarten“, also hinter der Straße durchs Höllental. „Zarten“ geht wohl auf den Zartenbach zurück. Aus dem langen Namen wurde bis etwa 1750 Hinterzarten. Richtig war 1.",
+"quelle": "Gemeinde Hinterzarten, gemeinde-hinterzarten.de/seite/238968/geschichte.html",
+"faktencheck": "korrigiert",
+"id": "74-hinterzarten/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hinterzarten",
+"steckbrief": "Rund 2.500 Einwohner, 21 km südöstlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner kommen in Hinterzarten rechnerisch auf einen Quadratkilometer Gemeindefläche?",
+"optionen": [
+"unter 50",
+"50 bis unter 100",
+"100 bis unter 200",
+"200 oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Nahe Freiburg und mit eigenem Bahnhof vermutet man einen dichter besiedelten Ort. Doch die rund 2.500 Einwohner verteilen sich auf gut 33 Quadratkilometer Gemeindefläche. Das ergibt rund 76 Einwohner je Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "74-hinterzarten/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hinterzarten",
+"steckbrief": "Rund 2.500 Einwohner, 21 km südöstlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Jockele-Uhren sind nach ihrem Kuckucksruf benannt.",
+"Früher lebte das Bauerndorf auch vom Löffelmachen.",
+"Die Herren von Sickingen erbten hier durch Heirat."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Kuckucksuhren sind das Schwarzwald-Klischee, also klingt Jockele nach Vogelruf. Doch Jockel ist eine Form von Jacob: Der Uhrmacher Jacob Herbstreith gab den Uhren seinen Vornamen. Löffelmachen war tatsächlich ein Erwerb, und die Sickinger erbten durch die Heirat der Erbtochter Anna von Schnewlin. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hinterzarten",
+"faktencheck": "bestätigt",
+"id": "74-hinterzarten/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hinterzarten",
+"steckbrief": "Rund 2.500 Einwohner, 21 km südöstlich von Freiburg im Breisgau.",
+"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Hinterzarten die zweitmeisten Zweitstimmen?",
+"optionen": [
+"SPD",
+"AfD",
+"FDP",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit landete die AfD auf Platz zwei, daher liegt sie nahe. In Hinterzarten aber folgten auf die CDU die Grünen mit 20,5 Prozent. SPD und AfD lagen dicht beieinander dahinter. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "74-hinterzarten/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hinterzarten",
+"steckbrief": "Rund 2.500 Einwohner, 21 km südöstlich von Freiburg im Breisgau.",
+"frage": "Ein Kreis der Krebsforschung heißt „Hinterzartener Kreis“. Warum trägt er diesen Namen?",
+"optionen": [
+"Die Forscher trafen sich anfangs in Hinterzarten.",
+"Eine Stiftung aus dem Ort hat ihn gegründet.",
+"Im Ort wurde ein Krebsmittel entdeckt.",
+"Er erforscht die Heilkraft der Höhenluft."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Höhenluftkurort legt Heilforschung nahe. Doch Hermann Druckrey und Adolf Butenandt gründeten einen Kreis zur Grundlagenforschung über Krebs, der sich einmal im Jahr traf, ursprünglich in Hinterzarten, wegen der ländlichen Abgeschiedenheit. Der Name blieb, unabhängig vom Tagungsort. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hinterzarten",
+"faktencheck": "unsicher",
+"id": "74-hinterzarten/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hinterzarten",
+"steckbrief": "Rund 2.500 Einwohner, 21 km südöstlich von Freiburg im Breisgau.",
+"frage": "Hinterzarten pflegt eine Städtepartnerschaft mit einem Ort im Elsass. Mit welchem?",
+"optionen": [
+"Riquewihr",
+"Eguisheim",
+"Kaysersberg",
+"Obernai"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Alle vier sind Weinorte im Elsass, und jeder wäre als Partner einer Schwarzwaldgemeinde denkbar. Hinterzartens Partnerstadt ist Eguisheim. Richtig war 2.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "74-hinterzarten/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hinterzarten",
+"steckbrief": "Rund 2.500 Einwohner, 21 km südöstlich von Freiburg im Breisgau.",
+"frage": "Hinterzarten ist Ausgangspunkt für Wintersport im Hochschwarzwald. Wann wurde im Ort die erste Skisprungschanze gebaut?",
+"optionen": [
+"Im Jahr 1891",
+"Im Jahr 1906",
+"Im Jahr 1923",
+"Im Jahr 1952"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Skilauf kam früh in den Hochschwarzwald, darum liegt ein Datum vor dem Ersten Weltkrieg nahe. Die erste Schanze im Ort, die Kirchwaldschanze, entstand aber erst 1923; bald darauf folgte die Adlerschanze. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Hinterzarten",
+"faktencheck": "unsicher",
+"id": "74-hinterzarten/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hinterzarten",
+"steckbrief": "Rund 2.500 Einwohner, 21 km südöstlich von Freiburg im Breisgau.",
+"frage": "Im Herbst 2024 verhinderte Hinterzarten eine Solaranlage auf freiem Feld in der Nachbargemeinde Breitnau. Wie war das möglich?",
+"optionen": [
+"Die Fläche gehörte zur Gemarkung Hinterzarten.",
+"Planänderungen in Breitnau brauchen Hinterzartens Zustimmung.",
+"Breitnaus Gemeinderat lehnte die Anlage selbst ab.",
+"Hinterzarten kaufte die geplante Fläche auf."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre, dass die Fläche zu Hinterzarten gehörte. Doch Breitnau und Hinterzarten bilden eine Verwaltungsgemeinschaft: Keine Gemeinde kann Änderungen im Flächennutzungsplan, der die Bodennutzung regelt, ohne Zustimmung der anderen durchsetzen. So stoppte Hinterzarten die Anlage, obwohl Breitnaus Gemeinderat einstimmig zugestimmt hatte. Richtig war 2.",
+"quelle": "Badische Zeitung, badische-zeitung.de/breitnau-stimmt-zu-hinterzarten-lehnt-ab-projekt-solarpark-einsiedel-ist-geplatzt",
+"faktencheck": "korrigiert",
+"id": "74-hinterzarten/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hinterzarten",
+"steckbrief": "Rund 2.500 Einwohner, 21 km südöstlich von Freiburg im Breisgau.",
+"frage": "Der Säbelthomaweg ist ein Wanderweg in Hinterzarten. Nach wem ist er benannt?",
+"optionen": [
+"Nach einem Säbelschmied aus dem Ort.",
+"Nach einem berühmten Skispringer des Orts.",
+"Nach einem Ritter, der dort fiel.",
+"Nach einem früheren Ortssheriff."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In einem Ort mit Schanzen liegt ein Skispringer als Namensgeber nahe. Doch der Weg ist nach Thomas Steiert benannt, einem Dorfpolizisten aus dem 19. Jahrhundert. Weil er stets einen Säbel trug, nannte man ihn „Säbelthoma“. Richtig war 4.",
+"quelle": "Badische Zeitung, badische-zeitung.de/auf-den-spuren-des-dorfpolizisten--173542480.html",
+"faktencheck": "korrigiert",
+"id": "74-hinterzarten/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "73-buchenbach",
+"anschluss": [
+"Hinterzarten liegt fast doppelt so hoch wie Buchenbach: rund 885 und 450 Meter.",
+"Bundestagswahl 2025: In Buchenbach und in Hinterzarten kamen die Grünen auf Platz zwei."
+],
+"anschluesse": {
+"71-stegen": [
+"Stegen hat fast doppelt so viele Einwohner wie Hinterzarten.",
+"Hinterzarten liegt rund 480 Meter höher als Stegen."
+],
+"72-oberried": [
+"Oberried und Hinterzarten sind fast gleich groß: rund 2.800 und 2.500 Einwohner.",
+"Hinterzarten liegt rund 420 Meter höher als Oberried."
+],
+"73-buchenbach": [
+"Hinterzarten liegt fast doppelt so hoch wie Buchenbach: rund 885 und 450 Meter.",
+"Bundestagswahl 2025: In Buchenbach und in Hinterzarten kamen die Grünen auf Platz zwei."
+],
+"75-titisee-neustadt": [
+"Titisee-Neustadt hat fünfmal so viele Einwohner wie Hinterzarten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Titisee-Neustadt die AfD, in Hinterzarten die Grünen."
+]
+},
+"km_vom_vorigen": 9.0
+},
+{
+"slug": "75-titisee-neustadt",
+"name": "Titisee-Neustadt",
+"lat": 47.91222,
+"lon": 8.21472,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Titisee-Neustadt",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 29 km östlich von Freiburg im Breisgau.",
+"frage": "Woher hat der Titisee nach der Ortsgeschichte seinen Namen?",
+"optionen": [
+"Er ist nach dem römischen Kaiser Titus benannt.",
+"Er ist nach der keltischen Göttin Tita benannt.",
+"Er ist nach dem heiligen Titus benannt.",
+"Er ist nach dem alemannischen Anführer Titin benannt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt lateinisch, fast wie Kaiser Titus. Doch nach der Ortsgeschichte geht er auf den alemannischen Anführer Titin zurück. Er lebte im nahen Ausbaudorf Titinshusen, heute Dittishausen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte",
+"faktencheck": "korrigiert",
+"id": "75-titisee-neustadt/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Titisee-Neustadt",
+"steckbrief": "Stadt im Landkreis Breisgau-Hochschwarzwald mit den Bahnhöfen Neustadt und Titisee, 29 km östlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner hat die Stadt Titisee-Neustadt?",
+"optionen": [
+"unter 15.000",
+"15.000 bis unter 20.000",
+"20.000 bis unter 30.000",
+"30.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der bekannte Ferienname Titisee lässt eine größere Stadt erwarten. Doch Titisee-Neustadt hatte Ende 2025 12.873 Einwohner, und die meisten davon leben im Stadtteil Neustadt, nicht am See. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "75-titisee-neustadt/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Titisee-Neustadt",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 29 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bis zur Gemeindereform hieß die Stadt noch Neustadt.",
+"Die Höllentalbahn erreichte Donaueschingen noch vor Neustadt.",
+"In Neustadt arbeiteten einst Strohflechterinnen in einer Strohhutfabrik."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Strohflechterinnen klingen erfunden, sind aber belegt. Gelogen war die Bahn: Sie erreichte zuerst Neustadt, Donaueschingen erst später. Titisee-Neustadt heißt die Stadt tatsächlich erst seit der Gemeindereform. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte",
+"faktencheck": "korrigiert",
+"id": "75-titisee-neustadt/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Titisee-Neustadt",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 29 km östlich von Freiburg im Breisgau.",
+"frage": "Wie hoch war die Wahlbeteiligung in Titisee-Neustadt bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 77 %",
+"77 bis unter 84 %",
+"84 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Kleinstadt abseits der Großstadt lässt manche eine maue Beteiligung erwarten. Doch in Titisee-Neustadt gaben bei der Bundestagswahl 2025 80,4 Prozent ihre Stimme ab. Stärkste Partei wurde die CDU, gefolgt von der AfD. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "75-titisee-neustadt/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Titisee-Neustadt",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 29 km östlich von Freiburg im Breisgau.",
+"frage": "Im Jahr 1817 brannte die ganze Stadt Neustadt. Wodurch wurde der Stadtbrand nach der Ortsgeschichte angeblich ausgelöst?",
+"optionen": [
+"Ein Blitz schlug in den Kirchturm ein.",
+"In einer Backstube geriet der Ofen außer Kontrolle.",
+"Brandstifter legten aus Rache mehrere Feuer.",
+"Soldaten hantierten im Stall mit offenem Feuer."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Blitzschlag liegt nahe, denn so begannen früher viele Stadtbrände. Hier aber sollen kaiserliche Soldaten im Stall mit offenem Feuer hantiert und das Heu in Brand gesetzt haben. Viele Familien wurden obdachlos. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte",
+"faktencheck": "korrigiert",
+"id": "75-titisee-neustadt/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Titisee-Neustadt",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 29 km östlich von Freiburg im Breisgau.",
+"frage": "Wie weit ist es von Titisee-Neustadt in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 130 km",
+"130 bis unter 160 km",
+"160 bis unter 190 km",
+"190 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer von Freiburg aus denkt, rechnet die Strecke nach Osten noch obendrauf. Doch Stuttgart liegt nordöstlich, und der Weg nach Osten führt schon ein Stück in seine Richtung: 120 km Luftlinie. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "75-titisee-neustadt/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Titisee-Neustadt",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 29 km östlich von Freiburg im Breisgau.",
+"frage": "Im Ortsteil Titisee mit Jostal leben gut 2.000 Menschen. Wie viele Übernachtungen zählte er im Jahr 2020?",
+"optionen": [
+"unter 100.000",
+"100.000 bis unter 400.000",
+"400.000 bis unter 1 Million",
+"1 Million und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Für einen Ortsteil von gut zweitausend Menschen wirkt schon eine sechsstellige Zahl kühn. Doch Titisee mit Jostal zählte 368.493 Übernachtungen, weit mehr als der viel einwohnerstärkere Ortsteil Neustadt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/stadtteile",
+"faktencheck": "korrigiert",
+"id": "75-titisee-neustadt/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Titisee-Neustadt",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 29 km östlich von Freiburg im Breisgau.",
+"frage": "Noch vor der Gründung Neustadts lag auf der heutigen Gemarkung das Dorf Honfirst. Zu wessen Umfeld gehörten seine Gründer?",
+"optionen": [
+"Sie gehörten zum Umfeld des Klosters St. Gallen.",
+"Sie gehörten zum Umfeld des Klosters Fulda.",
+"Sie gehörten zum Gefolge des Kölner Erzbischofs.",
+"Sie gehörten zum Umfeld des Klosters Corvey."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Große Namen wie Fulda oder Köln wirken verlockend, weil sie weit verstreuten Besitz hatten. Die Ortsgeschichte nennt aber Kleinadlige aus dem Umfeld des Klosters St. Gallen in der heutigen Schweiz. Vieles spricht dafür, dass zum Dorf eine Burg Honvirst auf dem heutigen Burgkopf gehörte. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte",
+"faktencheck": "korrigiert",
+"id": "75-titisee-neustadt/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Titisee-Neustadt",
+"steckbrief": "Stadt mit rund 13.000 Einwohnern, 29 km östlich von Freiburg im Breisgau.",
+"frage": "Bei Waldau kamen Fundamente einer Römerstraße zum Vorschein. Wie stieß man auf sie?",
+"optionen": [
+"Ein Hochwasser spülte sie aus dem Boden.",
+"Ein Bauer stieß beim Pflügen auf sie.",
+"Ein Sturm legte sie unter Wurzeln frei.",
+"Bauarbeiter stießen beim Straßenbau auf sie."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Pflügende Bauern sind die klassischen Finder alter Mauern. Hier aber kamen die Fundamente beim Bau der B 500 ans Licht. Die Römerstraße führte von Hüfingen in den Breisgau, über die Hochebene im heutigen Ortsteil Schwärzenbach bis zum Thurner. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte",
+"faktencheck": "bestätigt",
+"id": "75-titisee-neustadt/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "74-hinterzarten",
+"anschluss": [
+"Titisee-Neustadt hat rund fünfmal so viele Einwohner wie Hinterzarten.",
+"Titisee-Neustadt hat gut zweieinhalbmal so viel Fläche wie Hinterzarten."
+],
+"anschluesse": {
+"73-buchenbach": [
+"Titisee-Neustadt hat viermal so viele Einwohner wie Buchenbach.",
+"Titisee-Neustadt liegt rund 400 Meter höher als Buchenbach."
+],
+"74-hinterzarten": [
+"Titisee-Neustadt hat rund fünfmal so viele Einwohner wie Hinterzarten.",
+"Titisee-Neustadt hat gut zweieinhalbmal so viel Fläche wie Hinterzarten."
+]
+},
+"km_vom_vorigen": 8.5
 },
 {
 "slug": "11-emmendingen",
@@ -5946,9 +7658,43 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "68-eichstetten",
+"anschluss_von": "75-titisee-neustadt",
 "anschluss": [],
-"km_vom_vorigen": 8.3
+"anschluesse": {
+"65-march": [
+"Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
+"Emmendingen hat gut dreimal so viele Einwohner wie March."
+],
+"66-gottenheim": [
+"Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
+"Emmendingen hat gut neunmal so viele Einwohner wie Gottenheim."
+],
+"67-boetzingen": [
+"Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
+"Emmendingen hat gut fünfmal so viele Einwohner wie Bötzingen."
+],
+"68-eichstetten": [
+"Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
+"Emmendingen hat achtmal so viele Einwohner wie Eichstetten."
+],
+"69-ihringen": [
+"Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
+"Emmendingen hat gut viereinhalbmal so viele Einwohner wie Ihringen."
+],
+"71-stegen": [
+"Kreisgrenze: Stegen gehört zum Landkreis Breisgau-Hochschwarzwald, Emmendingen zum Landkreis Emmendingen.",
+"Emmendingen hat fast siebenmal so viele Einwohner wie Stegen."
+],
+"01-kenzingen": [
+"Emmendingen hat gut zweieinhalbmal so viele Einwohner wie Kenzingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Kenzingen die AfD, in Emmendingen die Grünen."
+],
+"12-herbolzheim": [
+"Emmendingen hat gut zweieinhalbmal so viele Einwohner wie Herbolzheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Herbolzheim die AfD, in Emmendingen die Grünen."
+]
+},
+"km_vom_vorigen": 35.8
 },
 {
 "slug": "01-kenzingen",
@@ -6141,6 +7887,39 @@ window.QA_DATEN = {
 "Emmendingen hat fast dreimal so viele Einwohner wie Kenzingen.",
 "Kenzingen und Emmendingen liegen beide im Landkreis Emmendingen."
 ],
+"anschluesse": {
+"65-march": [
+"Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Kenzingen zum Landkreis Emmendingen.",
+"Kenzingen hat rund 1.500 Einwohner mehr als March."
+],
+"66-gottenheim": [
+"Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Kenzingen zum Landkreis Emmendingen.",
+"Kenzingen hat dreieinhalbmal so viele Einwohner wie Gottenheim."
+],
+"67-boetzingen": [
+"Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Kenzingen zum Landkreis Emmendingen.",
+"Kenzingen hat doppelt so viele Einwohner wie Bötzingen."
+],
+"68-eichstetten": [
+"Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Kenzingen zum Landkreis Emmendingen.",
+"Kenzingen hat fast dreimal so viele Einwohner wie Eichstetten."
+],
+"69-ihringen": [
+"Kreisgrenze: Ihringen gehört zum Landkreis Breisgau-Hochschwarzwald, Kenzingen zum Landkreis Emmendingen.",
+"Kenzingen hat gut anderthalbmal so viele Einwohner wie Ihringen."
+],
+"11-emmendingen": [
+"Emmendingen hat fast dreimal so viele Einwohner wie Kenzingen.",
+"Kenzingen und Emmendingen liegen beide im Landkreis Emmendingen."
+],
+"12-herbolzheim": [
+"Herbolzheim und Kenzingen sind fast gleich groß: rund 11.000 und 11.000 Einwohner."
+],
+"13-lahr": [
+"Kreisgrenze: Lahr gehört zum Ortenaukreis, Kenzingen zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Lahr lag die AfD vorn, in Kenzingen die CDU."
+]
+},
 "km_vom_vorigen": 9.9
 },
 {
@@ -6353,6 +8132,39 @@ window.QA_DATEN = {
 "anschluss": [
 "Herbolzheim und Kenzingen sind fast gleich groß: rund 10.700 und 10.800 Einwohner."
 ],
+"anschluesse": {
+"65-march": [
+"Kreisgrenze: March gehört zum Landkreis Breisgau-Hochschwarzwald, Herbolzheim zum Landkreis Emmendingen.",
+"Herbolzheim hat rund 1.400 Einwohner mehr als March."
+],
+"66-gottenheim": [
+"Kreisgrenze: Gottenheim gehört zum Landkreis Breisgau-Hochschwarzwald, Herbolzheim zum Landkreis Emmendingen.",
+"Herbolzheim hat fast dreieinhalbmal so viele Einwohner wie Gottenheim."
+],
+"67-boetzingen": [
+"Kreisgrenze: Bötzingen gehört zum Landkreis Breisgau-Hochschwarzwald, Herbolzheim zum Landkreis Emmendingen.",
+"Herbolzheim hat doppelt so viele Einwohner wie Bötzingen."
+],
+"68-eichstetten": [
+"Kreisgrenze: Eichstetten gehört zum Landkreis Breisgau-Hochschwarzwald, Herbolzheim zum Landkreis Emmendingen.",
+"Herbolzheim hat fast dreimal so viele Einwohner wie Eichstetten."
+],
+"11-emmendingen": [
+"Emmendingen hat gut zweieinhalbmal so viele Einwohner wie Herbolzheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Emmendingen die Grünen, in Herbolzheim die AfD."
+],
+"01-kenzingen": [
+"Herbolzheim und Kenzingen sind fast gleich groß: rund 10.700 und 10.800 Einwohner."
+],
+"13-lahr": [
+"Kreisgrenze: Lahr gehört zum Ortenaukreis, Herbolzheim zum Landkreis Emmendingen.",
+"Bundestagswahl 2025: In Lahr lag die AfD vorn, in Herbolzheim die CDU."
+],
+"30-friesenheim": [
+"Kreisgrenze: Friesenheim gehört zum Ortenaukreis, Herbolzheim zum Landkreis Emmendingen.",
+"Friesenheim hat rund 3.100 Einwohner mehr als Herbolzheim."
+]
+},
 "km_vom_vorigen": 3.4
 },
 {
@@ -6566,6 +8378,24 @@ window.QA_DATEN = {
 "Kreisgrenze: Herbolzheim gehört zum Landkreis Emmendingen, Lahr zum Ortenaukreis.",
 "Lahr hat fast fünfmal so viele Einwohner wie Herbolzheim."
 ],
+"anschluesse": {
+"01-kenzingen": [
+"Kreisgrenze: Kenzingen gehört zum Landkreis Emmendingen, Lahr zum Ortenaukreis.",
+"Bundestagswahl 2025: In Kenzingen lag die CDU vorn, in Lahr die AfD."
+],
+"12-herbolzheim": [
+"Kreisgrenze: Herbolzheim gehört zum Landkreis Emmendingen, Lahr zum Ortenaukreis.",
+"Lahr hat fast fünfmal so viele Einwohner wie Herbolzheim."
+],
+"30-friesenheim": [
+"Bundestagswahl 2025: In Friesenheim lag die CDU vorn, in Lahr die AfD.",
+"Lahr hat gut dreieinhalbmal so viele Einwohner wie Friesenheim."
+],
+"14-offenburg": [
+"Bundestagswahl 2025: In Offenburg lag die CDU vorn, in Lahr die AfD.",
+"Offenburg hat rund 12.000 Einwohner mehr als Lahr."
+]
+},
 "km_vom_vorigen": 14.8
 },
 {
@@ -6779,6 +8609,22 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Lahr lag die AfD vorn, in Friesenheim die CDU.",
 "Lahr hat gut dreieinhalbmal so viele Einwohner wie Friesenheim."
 ],
+"anschluesse": {
+"12-herbolzheim": [
+"Kreisgrenze: Herbolzheim gehört zum Landkreis Emmendingen, Friesenheim zum Ortenaukreis.",
+"Friesenheim hat rund 3.100 Einwohner mehr als Herbolzheim."
+],
+"13-lahr": [
+"Bundestagswahl 2025: In Lahr lag die AfD vorn, in Friesenheim die CDU.",
+"Lahr hat gut dreieinhalbmal so viele Einwohner wie Friesenheim."
+],
+"14-offenburg": [
+"Offenburg hat viereinhalbmal so viele Einwohner wie Friesenheim."
+],
+"31-appenweier": [
+"Friesenheim hat rund 3.500 Einwohner mehr als Appenweier."
+]
+},
 "km_vom_vorigen": 3.9
 },
 {
@@ -6952,6 +8798,22 @@ window.QA_DATEN = {
 "Offenburg hat mehr als viermal so viele Einwohner wie Friesenheim.",
 "Friesenheim und Offenburg liegen beide im Ortenaukreis; Offenburg ist die Kreisstadt."
 ],
+"anschluesse": {
+"13-lahr": [
+"Bundestagswahl 2025: In Lahr lag die AfD vorn, in Offenburg die CDU.",
+"Offenburg hat rund 12.000 Einwohner mehr als Lahr."
+],
+"30-friesenheim": [
+"Offenburg hat mehr als viermal so viele Einwohner wie Friesenheim.",
+"Friesenheim und Offenburg liegen beide im Ortenaukreis; Offenburg ist die Kreisstadt."
+],
+"31-appenweier": [
+"Offenburg hat sechsmal so viele Einwohner wie Appenweier."
+],
+"32-renchen": [
+"Offenburg hat gut achtmal so viele Einwohner wie Renchen."
+]
+},
 "km_vom_vorigen": 11.7
 },
 {
@@ -7125,6 +8987,21 @@ window.QA_DATEN = {
 "Offenburg hat rund sechsmal so viele Einwohner wie Appenweier.",
 "Appenweier und Offenburg liegen beide im Ortenaukreis."
 ],
+"anschluesse": {
+"30-friesenheim": [
+"Friesenheim hat rund 3.500 Einwohner mehr als Appenweier."
+],
+"14-offenburg": [
+"Offenburg hat rund sechsmal so viele Einwohner wie Appenweier.",
+"Appenweier und Offenburg liegen beide im Ortenaukreis."
+],
+"32-renchen": [
+"Appenweier hat rund 2.800 Einwohner mehr als Renchen."
+],
+"02-achern": [
+"Achern hat gut zweieinhalbmal so viele Einwohner wie Appenweier."
+]
+},
 "km_vom_vorigen": 8.2
 },
 {
@@ -7313,6 +9190,22 @@ window.QA_DATEN = {
 "Renchen ist eine Stadt, Appenweier eine Gemeinde – dabei hat Appenweier rund 2.800 Einwohner mehr.",
 "Renchen und Appenweier liegen beide im Ortenaukreis."
 ],
+"anschluesse": {
+"14-offenburg": [
+"Offenburg hat gut achtmal so viele Einwohner wie Renchen."
+],
+"31-appenweier": [
+"Renchen ist eine Stadt, Appenweier eine Gemeinde – dabei hat Appenweier rund 2.800 Einwohner mehr.",
+"Renchen und Appenweier liegen beide im Ortenaukreis."
+],
+"02-achern": [
+"Achern hat dreieinhalbmal so viele Einwohner wie Renchen."
+],
+"15-buehl": [
+"Kreisgrenze: Bühl gehört zum Landkreis Rastatt, Renchen zum Ortenaukreis.",
+"Bühl hat fast viermal so viele Einwohner wie Renchen."
+]
+},
 "km_vom_vorigen": 5.6
 },
 {
@@ -7506,6 +9399,23 @@ window.QA_DATEN = {
 "Achern hat gut dreieinhalbmal so viele Einwohner wie Renchen.",
 "Bundestagswahl 2025: In Renchen und in Achern lag die CDU vorn, beide Male mit 34,3 Prozent."
 ],
+"anschluesse": {
+"31-appenweier": [
+"Achern hat gut zweieinhalbmal so viele Einwohner wie Appenweier."
+],
+"32-renchen": [
+"Achern hat gut dreieinhalbmal so viele Einwohner wie Renchen.",
+"Bundestagswahl 2025: In Renchen und in Achern lag die CDU vorn, beide Male mit 34,3 Prozent."
+],
+"15-buehl": [
+"Kreisgrenze: Bühl gehört zum Landkreis Rastatt, Achern zum Ortenaukreis.",
+"Bühl und Achern sind fast gleich groß: rund 28.000 und 27.000 Einwohner."
+],
+"16-baden-baden": [
+"Kreisgrenze: Baden-Baden ist kreisfrei, Achern gehört zum Ortenaukreis.",
+"Baden-Baden hat gut doppelt so viele Einwohner wie Achern."
+]
+},
 "km_vom_vorigen": 6.9
 },
 {
@@ -7719,6 +9629,24 @@ window.QA_DATEN = {
 "Kreisgrenze: Achern liegt im Ortenaukreis, Bühl im Landkreis Rastatt.",
 "Bühl und Achern sind ähnlich groß: rund 28.000 und 27.000 Einwohner."
 ],
+"anschluesse": {
+"32-renchen": [
+"Kreisgrenze: Renchen gehört zum Ortenaukreis, Bühl zum Landkreis Rastatt.",
+"Bühl hat fast viermal so viele Einwohner wie Renchen."
+],
+"02-achern": [
+"Kreisgrenze: Achern liegt im Ortenaukreis, Bühl im Landkreis Rastatt.",
+"Bühl und Achern sind ähnlich groß: rund 28.000 und 27.000 Einwohner."
+],
+"16-baden-baden": [
+"Kreisgrenze: Baden-Baden ist kreisfrei, Bühl gehört zum Landkreis Rastatt.",
+"Baden-Baden hat doppelt so viele Einwohner wie Bühl."
+],
+"03-rastatt": [
+"Bundestagswahl 2025: In Rastatt lag die AfD vorn, in Bühl die CDU.",
+"Rastatt hat fast doppelt so viele Einwohner wie Bühl."
+]
+},
 "km_vom_vorigen": 8.4
 },
 {
@@ -7932,6 +9860,24 @@ window.QA_DATEN = {
 "Drei Stadtteile von Baden-Baden gehörten einst zum Landkreis Bühl.",
 "Baden-Baden hat doppelt so viele Einwohner wie Bühl."
 ],
+"anschluesse": {
+"02-achern": [
+"Kreisgrenze: Achern gehört zum Ortenaukreis, Baden-Baden ist kreisfrei.",
+"Baden-Baden hat gut doppelt so viele Einwohner wie Achern."
+],
+"15-buehl": [
+"Drei Stadtteile von Baden-Baden gehörten einst zum Landkreis Bühl.",
+"Baden-Baden hat doppelt so viele Einwohner wie Bühl."
+],
+"03-rastatt": [
+"Kreisgrenze: Rastatt gehört zum Landkreis Rastatt, Baden-Baden ist kreisfrei.",
+"Bundestagswahl 2025: In Rastatt lag die AfD vorn, in Baden-Baden die CDU."
+],
+"33-durmersheim": [
+"Kreisgrenze: Durmersheim gehört zum Landkreis Rastatt, Baden-Baden ist kreisfrei.",
+"Baden-Baden hat fast fünfmal so viele Einwohner wie Durmersheim."
+]
+},
 "km_vom_vorigen": 10.7
 },
 {
@@ -8145,6 +10091,20 @@ window.QA_DATEN = {
 "Baden-Baden hat mehr als doppelt so viel Fläche wie Rastatt, aber nur etwas mehr Einwohner.",
 "Bundestagswahl 2025: In Baden-Baden lag die CDU vorn, in Rastatt die AfD."
 ],
+"anschluesse": {
+"15-buehl": [
+"Bundestagswahl 2025: In Bühl lag die CDU vorn, in Rastatt die AfD.",
+"Rastatt hat fast doppelt so viele Einwohner wie Bühl."
+],
+"16-baden-baden": [
+"Baden-Baden hat mehr als doppelt so viel Fläche wie Rastatt, aber nur etwas mehr Einwohner.",
+"Bundestagswahl 2025: In Baden-Baden lag die CDU vorn, in Rastatt die AfD."
+],
+"33-durmersheim": [
+"Bundestagswahl 2025: In Durmersheim lag die CDU vorn, in Rastatt die AfD.",
+"Rastatt hat fast viereinhalbmal so viele Einwohner wie Durmersheim."
+]
+},
 "km_vom_vorigen": 10.9
 },
 {
@@ -8323,6 +10283,24 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Rastatt lag die AfD vorn, in Durmersheim die CDU.",
 "Durmersheim und Rastatt liegen beide im Landkreis Rastatt; Rastatt ist die Kreisstadt."
 ],
+"anschluesse": {
+"16-baden-baden": [
+"Kreisgrenze: Baden-Baden ist kreisfrei, Durmersheim gehört zum Landkreis Rastatt.",
+"Baden-Baden hat fast fünfmal so viele Einwohner wie Durmersheim."
+],
+"03-rastatt": [
+"Bundestagswahl 2025: In Rastatt lag die AfD vorn, in Durmersheim die CDU.",
+"Durmersheim und Rastatt liegen beide im Landkreis Rastatt; Rastatt ist die Kreisstadt."
+],
+"34-karlsruhe": [
+"Kreisgrenze: Karlsruhe ist kreisfrei, Durmersheim gehört zum Landkreis Rastatt.",
+"Bundestagswahl 2025: In Karlsruhe lagen die Grünen vorn, in Durmersheim die CDU."
+],
+"35-stutensee": [
+"Kreisgrenze: Stutensee gehört zum Landkreis Karlsruhe, Durmersheim zum Landkreis Rastatt.",
+"Stutensee hat gut doppelt so viele Einwohner wie Durmersheim."
+]
+},
 "km_vom_vorigen": 10.5
 },
 {
@@ -8516,6 +10494,20 @@ window.QA_DATEN = {
 "Karlsruhe hat mehr als 25-mal so viele Einwohner wie Durmersheim.",
 "Kreisgrenze: Durmersheim liegt im Landkreis Rastatt, Karlsruhe ist eine kreisfreie Stadt."
 ],
+"anschluesse": {
+"33-durmersheim": [
+"Karlsruhe hat mehr als 25-mal so viele Einwohner wie Durmersheim.",
+"Kreisgrenze: Durmersheim liegt im Landkreis Rastatt, Karlsruhe ist eine kreisfreie Stadt."
+],
+"35-stutensee": [
+"Kreisgrenze: Stutensee gehört zum Landkreis Karlsruhe, Karlsruhe ist kreisfrei.",
+"Bundestagswahl 2025: In Stutensee lag die CDU vorn, in Karlsruhe die Grünen."
+],
+"36-graben-neudorf": [
+"Kreisgrenze: Graben-Neudorf gehört zum Landkreis Karlsruhe, Karlsruhe ist kreisfrei.",
+"Bundestagswahl 2025: In Graben-Neudorf lag die CDU vorn, in Karlsruhe die Grünen."
+]
+},
 "km_vom_vorigen": 12.5
 },
 {
@@ -8704,6 +10696,19 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: In Karlsruhe lagen die Grünen vorn, in Stutensee die CDU.",
 "Karlsruhe hat gut zwölfmal so viele Einwohner wie Stutensee."
 ],
+"anschluesse": {
+"33-durmersheim": [
+"Kreisgrenze: Durmersheim gehört zum Landkreis Rastatt, Stutensee zum Landkreis Karlsruhe.",
+"Stutensee hat gut doppelt so viele Einwohner wie Durmersheim."
+],
+"34-karlsruhe": [
+"Bundestagswahl 2025: In Karlsruhe lagen die Grünen vorn, in Stutensee die CDU.",
+"Karlsruhe hat gut zwölfmal so viele Einwohner wie Stutensee."
+],
+"36-graben-neudorf": [
+"Stutensee hat doppelt so viele Einwohner wie Graben-Neudorf."
+]
+},
 "km_vom_vorigen": 7.5
 },
 {
@@ -8877,6 +10882,27 @@ window.QA_DATEN = {
 "Stutensee hat doppelt so viele Einwohner wie Graben-Neudorf.",
 "Stutensee ist eine Stadt, Graben-Neudorf eine Gemeinde; beide liegen im Landkreis Karlsruhe."
 ],
+"anschluesse": {
+"34-karlsruhe": [
+"Kreisgrenze: Karlsruhe ist kreisfrei, Graben-Neudorf gehört zum Landkreis Karlsruhe.",
+"Bundestagswahl 2025: In Karlsruhe lagen die Grünen vorn, in Graben-Neudorf die CDU."
+],
+"35-stutensee": [
+"Stutensee hat doppelt so viele Einwohner wie Graben-Neudorf.",
+"Stutensee ist eine Stadt, Graben-Neudorf eine Gemeinde; beide liegen im Landkreis Karlsruhe."
+],
+"37-waghaeusel": [
+"Waghäusel hat fast doppelt so viele Einwohner wie Graben-Neudorf."
+],
+"38-hockenheim": [
+"Kreisgrenze: Hockenheim gehört zum Rhein-Neckar-Kreis, Graben-Neudorf zum Landkreis Karlsruhe.",
+"Hockenheim hat gut anderthalbmal so viele Einwohner wie Graben-Neudorf."
+],
+"57-speyer": [
+"Landesgrenze: Speyer liegt in Rheinland-Pfalz, Graben-Neudorf in Baden-Württemberg.",
+"Speyer hat viermal so viele Einwohner wie Graben-Neudorf."
+]
+},
 "km_vom_vorigen": 10.6
 },
 {
@@ -9069,6 +11095,24 @@ window.QA_DATEN = {
 "Waghäusel hat fast doppelt so viele Einwohner wie Graben-Neudorf.",
 "Bundestagswahl 2025: In Graben-Neudorf und in Waghäusel lag die CDU vorn; die AfD kam in Waghäusel auf 26,4 Prozent, in Graben-Neudorf auf 23,5."
 ],
+"anschluesse": {
+"36-graben-neudorf": [
+"Waghäusel hat fast doppelt so viele Einwohner wie Graben-Neudorf.",
+"Bundestagswahl 2025: In Graben-Neudorf und in Waghäusel lag die CDU vorn; die AfD kam in Waghäusel auf 26,4 Prozent, in Graben-Neudorf auf 23,5."
+],
+"38-hockenheim": [
+"Kreisgrenze: Hockenheim gehört zum Rhein-Neckar-Kreis, Waghäusel zum Landkreis Karlsruhe.",
+"Hockenheim und Waghäusel sind fast gleich groß: rund 22.000 und 22.000 Einwohner."
+],
+"39-schwetzingen": [
+"Kreisgrenze: Schwetzingen gehört zum Rhein-Neckar-Kreis, Waghäusel zum Landkreis Karlsruhe.",
+"Schwetzingen und Waghäusel sind fast gleich groß: rund 22.000 und 22.000 Einwohner."
+],
+"57-speyer": [
+"Landesgrenze: Speyer liegt in Rheinland-Pfalz, Waghäusel in Baden-Württemberg.",
+"Speyer hat gut doppelt so viele Einwohner wie Waghäusel."
+]
+},
 "km_vom_vorigen": 10.3
 },
 {
@@ -9262,6 +11306,35 @@ window.QA_DATEN = {
 "Kreisgrenze: Waghäusel gehört zum Landkreis Karlsruhe, Hockenheim zum Rhein-Neckar-Kreis.",
 "Waghäusel und Hockenheim sind fast gleich groß: rund 22.300 und 21.600 Einwohner."
 ],
+"anschluesse": {
+"36-graben-neudorf": [
+"Kreisgrenze: Graben-Neudorf gehört zum Landkreis Karlsruhe, Hockenheim zum Rhein-Neckar-Kreis.",
+"Hockenheim hat gut anderthalbmal so viele Einwohner wie Graben-Neudorf."
+],
+"37-waghaeusel": [
+"Kreisgrenze: Waghäusel gehört zum Landkreis Karlsruhe, Hockenheim zum Rhein-Neckar-Kreis.",
+"Waghäusel und Hockenheim sind fast gleich groß: rund 22.300 und 21.600 Einwohner."
+],
+"39-schwetzingen": [
+"Schwetzingen und Hockenheim sind fast gleich groß: rund 22.000 und 22.000 Einwohner."
+],
+"40-mannheim": [
+"Kreisgrenze: Mannheim ist kreisfrei, Hockenheim gehört zum Rhein-Neckar-Kreis.",
+"Mannheim hat fünfzehnmal so viele Einwohner wie Hockenheim."
+],
+"41-ladenburg": [
+"Hockenheim hat gut anderthalbmal so viele Einwohner wie Ladenburg.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ladenburg die Grünen, in Hockenheim die AfD."
+],
+"56-ludwigshafen": [
+"Landesgrenze: Ludwigshafen liegt in Rheinland-Pfalz, Hockenheim in Baden-Württemberg.",
+"Bundestagswahl 2025: In Ludwigshafen lag die AfD vorn, in Hockenheim die CDU."
+],
+"57-speyer": [
+"Landesgrenze: Speyer liegt in Rheinland-Pfalz, Hockenheim in Baden-Württemberg.",
+"Speyer hat fast zweieinhalbmal so viele Einwohner wie Hockenheim."
+]
+},
 "km_vom_vorigen": 7.9
 },
 {
@@ -9475,6 +11548,32 @@ window.QA_DATEN = {
 "Hockenheim und Schwetzingen haben fast gleich viele Einwohner, rund 21.600 und 21.900 – Schwetzingen auf deutlich kleinerer Fläche.",
 "Hockenheim und Schwetzingen liegen beide im Rhein-Neckar-Kreis."
 ],
+"anschluesse": {
+"37-waghaeusel": [
+"Kreisgrenze: Waghäusel gehört zum Landkreis Karlsruhe, Schwetzingen zum Rhein-Neckar-Kreis.",
+"Waghäusel und Schwetzingen sind fast gleich groß: rund 22.000 und 22.000 Einwohner."
+],
+"38-hockenheim": [
+"Hockenheim und Schwetzingen haben fast gleich viele Einwohner, rund 21.600 und 21.900 – Schwetzingen auf deutlich kleinerer Fläche.",
+"Hockenheim und Schwetzingen liegen beide im Rhein-Neckar-Kreis."
+],
+"40-mannheim": [
+"Kreisgrenze: Mannheim ist kreisfrei, Schwetzingen gehört zum Rhein-Neckar-Kreis.",
+"Mannheim hat fünfzehnmal so viele Einwohner wie Schwetzingen."
+],
+"41-ladenburg": [
+"Schwetzingen hat gut anderthalbmal so viele Einwohner wie Ladenburg.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ladenburg die Grünen, in Schwetzingen die AfD."
+],
+"56-ludwigshafen": [
+"Landesgrenze: Ludwigshafen liegt in Rheinland-Pfalz, Schwetzingen in Baden-Württemberg.",
+"Bundestagswahl 2025: In Ludwigshafen lag die AfD vorn, in Schwetzingen die CDU."
+],
+"57-speyer": [
+"Landesgrenze: Speyer liegt in Rheinland-Pfalz, Schwetzingen in Baden-Württemberg.",
+"Speyer hat gut doppelt so viele Einwohner wie Schwetzingen."
+]
+},
 "km_vom_vorigen": 7.4
 },
 {
@@ -9648,6 +11747,44 @@ window.QA_DATEN = {
 "Mannheim hat fast fünfzehnmal so viele Einwohner wie Schwetzingen.",
 "Kreisgrenze: Schwetzingen liegt im Rhein-Neckar-Kreis, Mannheim ist eine kreisfreie Stadt."
 ],
+"anschluesse": {
+"38-hockenheim": [
+"Kreisgrenze: Hockenheim gehört zum Rhein-Neckar-Kreis, Mannheim ist kreisfrei.",
+"Mannheim hat fünfzehnmal so viele Einwohner wie Hockenheim."
+],
+"39-schwetzingen": [
+"Mannheim hat fast fünfzehnmal so viele Einwohner wie Schwetzingen.",
+"Kreisgrenze: Schwetzingen liegt im Rhein-Neckar-Kreis, Mannheim ist eine kreisfreie Stadt."
+],
+"41-ladenburg": [
+"Kreisgrenze: Ladenburg gehört zum Rhein-Neckar-Kreis, Mannheim ist kreisfrei.",
+"Mannheim hat rund 25-mal so viele Einwohner wie Ladenburg."
+],
+"17-weinheim": [
+"Kreisgrenze: Weinheim gehört zum Rhein-Neckar-Kreis, Mannheim ist kreisfrei.",
+"Mannheim hat siebenmal so viele Einwohner wie Weinheim."
+],
+"18-laudenbach": [
+"Kreisgrenze: Laudenbach gehört zum Rhein-Neckar-Kreis, Mannheim ist kreisfrei.",
+"Mannheim hat rund 50-mal so viele Einwohner wie Laudenbach."
+],
+"55-worms": [
+"Landesgrenze: Worms liegt in Rheinland-Pfalz, Mannheim in Baden-Württemberg.",
+"Mannheim hat gut dreieinhalbmal so viele Einwohner wie Worms."
+],
+"63-frankenthal": [
+"Landesgrenze: Frankenthal liegt in Rheinland-Pfalz, Mannheim in Baden-Württemberg.",
+"Mannheim hat fast siebenmal so viele Einwohner wie Frankenthal."
+],
+"56-ludwigshafen": [
+"Landesgrenze: Ludwigshafen liegt in Rheinland-Pfalz, Mannheim in Baden-Württemberg.",
+"Bundestagswahl 2025: In Ludwigshafen lag die AfD vorn, in Mannheim die CDU."
+],
+"57-speyer": [
+"Landesgrenze: Speyer liegt in Rheinland-Pfalz, Mannheim in Baden-Württemberg.",
+"Mannheim hat fast siebenmal so viele Einwohner wie Speyer."
+]
+},
 "km_vom_vorigen": 13.7
 },
 {
@@ -9831,6 +11968,40 @@ window.QA_DATEN = {
 "Mannheim hat rund 25-mal so viele Einwohner wie Ladenburg.",
 "Bundestagswahl 2025: Auf Platz zwei kamen in Ladenburg die Grünen, in Mannheim die SPD."
 ],
+"anschluesse": {
+"38-hockenheim": [
+"Hockenheim hat gut anderthalbmal so viele Einwohner wie Ladenburg.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Hockenheim die AfD, in Ladenburg die Grünen."
+],
+"39-schwetzingen": [
+"Schwetzingen hat gut anderthalbmal so viele Einwohner wie Ladenburg.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Schwetzingen die AfD, in Ladenburg die Grünen."
+],
+"40-mannheim": [
+"Mannheim hat rund 25-mal so viele Einwohner wie Ladenburg.",
+"Bundestagswahl 2025: Auf Platz zwei kamen in Ladenburg die Grünen, in Mannheim die SPD."
+],
+"17-weinheim": [
+"Weinheim hat dreieinhalbmal so viele Einwohner wie Ladenburg.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Weinheim die SPD, in Ladenburg die Grünen."
+],
+"18-laudenbach": [
+"Ladenburg hat fast doppelt so viele Einwohner wie Laudenbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Laudenbach die AfD, in Ladenburg die Grünen."
+],
+"19-heppenheim": [
+"Landesgrenze: Heppenheim liegt in Hessen, Ladenburg in Baden-Württemberg.",
+"Heppenheim hat gut doppelt so viele Einwohner wie Ladenburg."
+],
+"63-frankenthal": [
+"Landesgrenze: Frankenthal liegt in Rheinland-Pfalz, Ladenburg in Baden-Württemberg.",
+"Frankenthal hat fast viermal so viele Einwohner wie Ladenburg."
+],
+"56-ludwigshafen": [
+"Landesgrenze: Ludwigshafen liegt in Rheinland-Pfalz, Ladenburg in Baden-Württemberg.",
+"Bundestagswahl 2025: In Ludwigshafen lag die AfD vorn, in Ladenburg die CDU."
+]
+},
 "km_vom_vorigen": 10.5
 },
 {
@@ -10044,6 +12215,36 @@ window.QA_DATEN = {
 "Weinheim hat gut dreieinhalbmal so viele Einwohner wie Ladenburg.",
 "Ladenburg und Weinheim liegen beide im Rhein-Neckar-Kreis; in beiden steht HD am Auto."
 ],
+"anschluesse": {
+"40-mannheim": [
+"Kreisgrenze: Mannheim ist kreisfrei, Weinheim gehört zum Rhein-Neckar-Kreis.",
+"Mannheim hat siebenmal so viele Einwohner wie Weinheim."
+],
+"41-ladenburg": [
+"Weinheim hat gut dreieinhalbmal so viele Einwohner wie Ladenburg.",
+"Ladenburg und Weinheim liegen beide im Rhein-Neckar-Kreis; in beiden steht HD am Auto."
+],
+"18-laudenbach": [
+"Weinheim hat siebenmal so viele Einwohner wie Laudenbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Laudenbach die AfD, in Weinheim die SPD."
+],
+"19-heppenheim": [
+"Landesgrenze: Heppenheim liegt in Hessen, Weinheim in Baden-Württemberg.",
+"Weinheim hat gut anderthalbmal so viele Einwohner wie Heppenheim."
+],
+"20-bensheim": [
+"Landesgrenze: Bensheim liegt in Hessen, Weinheim in Baden-Württemberg.",
+"Weinheim hat rund 5.100 Einwohner mehr als Bensheim."
+],
+"21-zwingenberg": [
+"Landesgrenze: Zwingenberg liegt in Hessen, Weinheim in Baden-Württemberg.",
+"Weinheim hat gut sechsmal so viele Einwohner wie Zwingenberg."
+],
+"56-ludwigshafen": [
+"Landesgrenze: Ludwigshafen liegt in Rheinland-Pfalz, Weinheim in Baden-Württemberg.",
+"Bundestagswahl 2025: In Ludwigshafen lag die AfD vorn, in Weinheim die CDU."
+]
+},
 "km_vom_vorigen": 10.3
 },
 {
@@ -10217,6 +12418,36 @@ window.QA_DATEN = {
 "Laudenbach liegt an der Bergstraße zwischen Weinheim und Heppenheim.",
 "Weinheim hat fast sechsmal so viel Fläche wie Laudenbach."
 ],
+"anschluesse": {
+"40-mannheim": [
+"Kreisgrenze: Mannheim ist kreisfrei, Laudenbach gehört zum Rhein-Neckar-Kreis.",
+"Mannheim hat rund 50-mal so viele Einwohner wie Laudenbach."
+],
+"41-ladenburg": [
+"Ladenburg hat fast doppelt so viele Einwohner wie Laudenbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ladenburg die Grünen, in Laudenbach die AfD."
+],
+"17-weinheim": [
+"Laudenbach liegt an der Bergstraße zwischen Weinheim und Heppenheim.",
+"Weinheim hat fast sechsmal so viel Fläche wie Laudenbach."
+],
+"19-heppenheim": [
+"Landesgrenze: Heppenheim liegt in Hessen, Laudenbach in Baden-Württemberg.",
+"Heppenheim hat gut viermal so viele Einwohner wie Laudenbach."
+],
+"20-bensheim": [
+"Landesgrenze: Bensheim liegt in Hessen, Laudenbach in Baden-Württemberg.",
+"Bensheim hat sechsmal so viele Einwohner wie Laudenbach."
+],
+"21-zwingenberg": [
+"Landesgrenze: Zwingenberg liegt in Hessen, Laudenbach in Baden-Württemberg.",
+"Zwingenberg und Laudenbach sind fast gleich groß: rund 7.200 und 6.600 Einwohner."
+],
+"42-seeheim-jugenheim": [
+"Landesgrenze: Seeheim-Jugenheim liegt in Hessen, Laudenbach in Baden-Württemberg.",
+"Seeheim-Jugenheim hat zweieinhalbmal so viele Einwohner wie Laudenbach."
+]
+},
 "km_vom_vorigen": 6.3
 },
 {
@@ -10430,6 +12661,30 @@ window.QA_DATEN = {
 "Kreis- und Landesgrenze: In Laudenbach steht HD am Auto, in Heppenheim HP.",
 "Heppenheim hat gut viermal so viele Einwohner wie Laudenbach."
 ],
+"anschluesse": {
+"41-ladenburg": [
+"Landesgrenze: Ladenburg liegt in Baden-Württemberg, Heppenheim in Hessen.",
+"Heppenheim hat gut doppelt so viele Einwohner wie Ladenburg."
+],
+"17-weinheim": [
+"Landesgrenze: Weinheim liegt in Baden-Württemberg, Heppenheim in Hessen.",
+"Weinheim hat gut anderthalbmal so viele Einwohner wie Heppenheim."
+],
+"18-laudenbach": [
+"Kreis- und Landesgrenze: In Laudenbach steht HD am Auto, in Heppenheim HP.",
+"Heppenheim hat gut viermal so viele Einwohner wie Laudenbach."
+],
+"20-bensheim": [
+"Bensheim hat anderthalbmal so viele Einwohner wie Heppenheim."
+],
+"21-zwingenberg": [
+"Heppenheim hat viermal so viele Einwohner wie Zwingenberg."
+],
+"42-seeheim-jugenheim": [
+"Kreisgrenze: Seeheim-Jugenheim gehört zum Landkreis Darmstadt-Dieburg, Heppenheim zum Landkreis Bergstraße.",
+"Heppenheim hat gut anderthalbmal so viele Einwohner wie Seeheim-Jugenheim."
+]
+},
 "km_vom_vorigen": 3.4
 },
 {
@@ -10642,6 +12897,31 @@ window.QA_DATEN = {
 "Bensheim hat mehr Einwohner als Heppenheim, die Kreisstadt ist aber Heppenheim.",
 "Bei Bensheim lag eine römische Villa in Richtung Heppenheim."
 ],
+"anschluesse": {
+"17-weinheim": [
+"Landesgrenze: Weinheim liegt in Baden-Württemberg, Bensheim in Hessen.",
+"Weinheim hat rund 5.100 Einwohner mehr als Bensheim."
+],
+"18-laudenbach": [
+"Landesgrenze: Laudenbach liegt in Baden-Württemberg, Bensheim in Hessen.",
+"Bensheim hat sechsmal so viele Einwohner wie Laudenbach."
+],
+"19-heppenheim": [
+"Bensheim hat mehr Einwohner als Heppenheim, die Kreisstadt ist aber Heppenheim.",
+"Bei Bensheim lag eine römische Villa in Richtung Heppenheim."
+],
+"21-zwingenberg": [
+"Bensheim hat fast sechsmal so viele Einwohner wie Zwingenberg."
+],
+"42-seeheim-jugenheim": [
+"Kreisgrenze: Seeheim-Jugenheim gehört zum Landkreis Darmstadt-Dieburg, Bensheim zum Landkreis Bergstraße.",
+"Bensheim hat zweieinhalbmal so viele Einwohner wie Seeheim-Jugenheim."
+],
+"55-worms": [
+"Landesgrenze: Worms liegt in Rheinland-Pfalz, Bensheim in Hessen.",
+"Worms hat gut doppelt so viele Einwohner wie Bensheim."
+]
+},
 "km_vom_vorigen": 4.7
 },
 {
@@ -10835,6 +13115,31 @@ window.QA_DATEN = {
 "Zwingenberg gehörte ab 1832 zum Kreis Bensheim.",
 "Bensheim hat fast sechsmal so viele Einwohner wie Zwingenberg."
 ],
+"anschluesse": {
+"17-weinheim": [
+"Landesgrenze: Weinheim liegt in Baden-Württemberg, Zwingenberg in Hessen.",
+"Weinheim hat gut sechsmal so viele Einwohner wie Zwingenberg."
+],
+"18-laudenbach": [
+"Landesgrenze: Laudenbach liegt in Baden-Württemberg, Zwingenberg in Hessen.",
+"Laudenbach und Zwingenberg sind fast gleich groß: rund 6.600 und 7.200 Einwohner."
+],
+"19-heppenheim": [
+"Heppenheim hat viermal so viele Einwohner wie Zwingenberg."
+],
+"20-bensheim": [
+"Zwingenberg gehörte ab 1832 zum Kreis Bensheim.",
+"Bensheim hat fast sechsmal so viele Einwohner wie Zwingenberg."
+],
+"42-seeheim-jugenheim": [
+"Kreisgrenze: Seeheim-Jugenheim gehört zum Landkreis Darmstadt-Dieburg, Zwingenberg zum Landkreis Bergstraße.",
+"Seeheim-Jugenheim hat fast zweieinhalbmal so viele Einwohner wie Zwingenberg."
+],
+"43-darmstadt": [
+"Kreisgrenze: Darmstadt ist kreisfrei, Zwingenberg gehört zum Landkreis Bergstraße.",
+"Bundestagswahl 2025: In Darmstadt lagen die Grünen vorn, in Zwingenberg die CDU."
+]
+},
 "km_vom_vorigen": 4.6
 },
 {
@@ -11026,8 +13331,30 @@ window.QA_DATEN = {
 "anschluss_von": "21-zwingenberg",
 "anschluss": [
 "Kreisgrenze: In Zwingenberg steht HP am Auto, in Seeheim-Jugenheim DA.",
-"Bundestagswahl 2025: Grüne in Seeheim-Jugenheim 20, in Zwingenberg 15,8 Prozent."
+"Seeheim-Jugenheim hat mehr als doppelt so viele Einwohner wie Zwingenberg."
 ],
+"anschluesse": {
+"18-laudenbach": [
+"Landesgrenze: Laudenbach liegt in Baden-Württemberg, Seeheim-Jugenheim in Hessen.",
+"Seeheim-Jugenheim hat zweieinhalbmal so viele Einwohner wie Laudenbach."
+],
+"19-heppenheim": [
+"Kreisgrenze: Heppenheim gehört zum Landkreis Bergstraße, Seeheim-Jugenheim zum Landkreis Darmstadt-Dieburg.",
+"Heppenheim hat gut anderthalbmal so viele Einwohner wie Seeheim-Jugenheim."
+],
+"20-bensheim": [
+"Kreisgrenze: Bensheim gehört zum Landkreis Bergstraße, Seeheim-Jugenheim zum Landkreis Darmstadt-Dieburg.",
+"Bensheim hat zweieinhalbmal so viele Einwohner wie Seeheim-Jugenheim."
+],
+"21-zwingenberg": [
+"Kreisgrenze: In Zwingenberg steht HP am Auto, in Seeheim-Jugenheim DA.",
+"Seeheim-Jugenheim hat mehr als doppelt so viele Einwohner wie Zwingenberg."
+],
+"43-darmstadt": [
+"Kreisgrenze: Darmstadt ist kreisfrei, Seeheim-Jugenheim gehört zum Landkreis Darmstadt-Dieburg.",
+"Bundestagswahl 2025: In Darmstadt lagen die Grünen vorn, in Seeheim-Jugenheim die CDU."
+]
+},
 "km_vom_vorigen": 5.6
 },
 {
@@ -11218,9 +13545,23 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "42-seeheim-jugenheim",
 "anschluss": [
-"Einwohner: Darmstadt hat gut zehnmal so viele wie Seeheim-Jugenheim.",
-"Kennzeichen: In Darmstadt wie in Seeheim-Jugenheim steht DA am Auto."
+"Darmstadt hat rund zehnmal so viele Einwohner wie Seeheim-Jugenheim.",
+"Bundestagswahl 2025: In Seeheim-Jugenheim lag die CDU vorn, in Darmstadt die Grünen."
 ],
+"anschluesse": {
+"21-zwingenberg": [
+"Kreisgrenze: Zwingenberg gehört zum Landkreis Bergstraße, Darmstadt ist kreisfrei.",
+"Bundestagswahl 2025: In Zwingenberg lag die CDU vorn, in Darmstadt die Grünen."
+],
+"42-seeheim-jugenheim": [
+"Darmstadt hat rund zehnmal so viele Einwohner wie Seeheim-Jugenheim.",
+"Bundestagswahl 2025: In Seeheim-Jugenheim lag die CDU vorn, in Darmstadt die Grünen."
+],
+"22-langen": [
+"Kreisgrenze: Langen gehört zum Landkreis Offenbach, Darmstadt ist kreisfrei.",
+"Bundestagswahl 2025: In Langen lag die CDU vorn, in Darmstadt die Grünen."
+]
+},
 "km_vom_vorigen": 11.1
 },
 {
@@ -11430,7 +13771,24 @@ window.QA_DATEN = {
 }
 ],
 "anschluss_von": "43-darmstadt",
-"anschluss": [],
+"anschluss": [
+"Kreisgrenze: Darmstadt ist kreisfrei, Langen gehört zum Landkreis Offenbach.",
+"Darmstadt hat gut viermal so viele Einwohner wie Langen."
+],
+"anschluesse": {
+"43-darmstadt": [
+"Kreisgrenze: Darmstadt ist kreisfrei, Langen gehört zum Landkreis Offenbach.",
+"Darmstadt hat gut viermal so viele Einwohner wie Langen."
+],
+"44-frankfurt": [
+"Kreisgrenze: Frankfurt am Main ist kreisfrei, Langen gehört zum Landkreis Offenbach.",
+"Frankfurt am Main hat neunzehnmal so viele Einwohner wie Langen."
+],
+"64-ruesselsheim": [
+"Kreisgrenze: Rüsselsheim gehört zum Landkreis Groß-Gerau, Langen zum Landkreis Offenbach.",
+"Rüsselsheim hat gut anderthalbmal so viele Einwohner wie Langen."
+]
+},
 "km_vom_vorigen": 13.8
 },
 {
@@ -11621,9 +13979,15 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "22-langen",
 "anschluss": [
-"Einwohner: Frankfurt hat knapp zwanzigmal so viele wie Langen.",
-"Fläche: Frankfurt ist gut achtmal so groß wie Langen."
+"Frankfurt hat fast zwanzigmal so viele Einwohner wie Langen.",
+"Frankfurt hat mehr als achtmal so viel Fläche wie Langen."
 ],
+"anschluesse": {
+"22-langen": [
+"Frankfurt hat fast zwanzigmal so viele Einwohner wie Langen.",
+"Frankfurt hat mehr als achtmal so viel Fläche wie Langen."
+]
+},
 "km_vom_vorigen": 13.5
 },
 {
@@ -11804,9 +14168,39 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "44-frankfurt",
 "anschluss": [
-"Für Rüsselsheims erste Pfarrkirche erbat man Holz aus Frankfurt.",
-"Kennzeichen: In Frankfurt steht F am Auto, in Rüsselsheim GG."
+"Frankfurt hat mehr als elfmal so viele Einwohner wie Rüsselsheim.",
+"Kreisgrenze: In Frankfurt steht F am Auto, in Rüsselsheim GG für den Kreis Groß-Gerau."
 ],
+"anschluesse": {
+"22-langen": [
+"Kreisgrenze: Langen gehört zum Landkreis Offenbach, Rüsselsheim zum Landkreis Groß-Gerau.",
+"Rüsselsheim hat gut anderthalbmal so viele Einwohner wie Langen."
+],
+"45-mainz": [
+"Landesgrenze: Mainz liegt in Rheinland-Pfalz, Rüsselsheim in Hessen.",
+"Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Rüsselsheim die CDU."
+],
+"46-wiesbaden": [
+"Kreisgrenze: Wiesbaden ist kreisfrei, Rüsselsheim gehört zum Landkreis Groß-Gerau.",
+"Wiesbaden hat viereinhalbmal so viele Einwohner wie Rüsselsheim."
+],
+"23-walluf": [
+"Kreisgrenze: Walluf gehört zum Rheingau-Taunus-Kreis, Rüsselsheim zum Landkreis Groß-Gerau.",
+"Rüsselsheim hat zwölfmal so viele Einwohner wie Walluf."
+],
+"61-nierstein": [
+"Landesgrenze: Nierstein liegt in Rheinland-Pfalz, Rüsselsheim in Hessen.",
+"Rüsselsheim hat achtmal so viele Einwohner wie Nierstein."
+],
+"62-oppenheim": [
+"Landesgrenze: Oppenheim liegt in Rheinland-Pfalz, Rüsselsheim in Hessen.",
+"Rüsselsheim hat neunmal so viele Einwohner wie Oppenheim."
+],
+"44-frankfurt": [
+"Frankfurt hat mehr als elfmal so viele Einwohner wie Rüsselsheim.",
+"Kreisgrenze: In Frankfurt steht F am Auto, in Rüsselsheim GG für den Kreis Groß-Gerau."
+]
+},
 "km_vom_vorigen": 23.2
 },
 {
@@ -11996,7 +14390,44 @@ window.QA_DATEN = {
 }
 ],
 "anschluss_von": "64-ruesselsheim",
-"anschluss": [],
+"anschluss": [
+"Landesgrenze: Rüsselsheim liegt in Hessen, Mainz in Rheinland-Pfalz.",
+"Mainz hat mehr als dreimal so viele Einwohner wie Rüsselsheim."
+],
+"anschluesse": {
+"64-ruesselsheim": [
+"Landesgrenze: Rüsselsheim liegt in Hessen, Mainz in Rheinland-Pfalz.",
+"Mainz hat mehr als dreimal so viele Einwohner wie Rüsselsheim."
+],
+"46-wiesbaden": [
+"Landesgrenze: Wiesbaden liegt in Hessen, Mainz in Rheinland-Pfalz.",
+"Bundestagswahl 2025: In Wiesbaden lag die CDU vorn, in Mainz die Grünen."
+],
+"23-walluf": [
+"Landesgrenze: Walluf liegt in Hessen, Mainz in Rheinland-Pfalz.",
+"Bundestagswahl 2025: In Walluf lag die CDU vorn, in Mainz die Grünen."
+],
+"04-eltville": [
+"Landesgrenze: Eltville am Rhein liegt in Hessen, Mainz in Rheinland-Pfalz.",
+"Bundestagswahl 2025: In Eltville am Rhein lag die CDU vorn, in Mainz die Grünen."
+],
+"24-oestrich-winkel": [
+"Landesgrenze: Oestrich-Winkel liegt in Hessen, Mainz in Rheinland-Pfalz.",
+"Bundestagswahl 2025: In Oestrich-Winkel lag die CDU vorn, in Mainz die Grünen."
+],
+"60-ingelheim": [
+"Kreisgrenze: Ingelheim gehört zum Landkreis Mainz-Bingen, Mainz ist kreisfrei.",
+"Bundestagswahl 2025: In Ingelheim lag die CDU vorn, in Mainz die Grünen."
+],
+"61-nierstein": [
+"Kreisgrenze: Nierstein gehört zum Landkreis Mainz-Bingen, Mainz ist kreisfrei.",
+"Bundestagswahl 2025: In Nierstein lag die CDU vorn, in Mainz die Grünen."
+],
+"62-oppenheim": [
+"Kreisgrenze: Oppenheim gehört zum Landkreis Mainz-Bingen, Mainz ist kreisfrei.",
+"Bundestagswahl 2025: In Oppenheim lag die CDU vorn, in Mainz die Grünen."
+]
+},
 "km_vom_vorigen": 9.9
 },
 {
@@ -12187,9 +14618,35 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "45-mainz",
 "anschluss": [
-"Einwohner: Wiesbaden hat rund 65.000 mehr als Mainz.",
-"Bundestagswahl 2025: CDU gewann in Wiesbaden, die Grünen in Mainz."
+"Landesgrenze: Mainz ist die Hauptstadt von Rheinland-Pfalz, Wiesbaden die von Hessen.",
+"Bundestagswahl 2025: In Mainz lagen die Grünen knapp vorn, in Wiesbaden die CDU."
 ],
+"anschluesse": {
+"64-ruesselsheim": [
+"Kreisgrenze: Rüsselsheim gehört zum Landkreis Groß-Gerau, Wiesbaden ist kreisfrei.",
+"Wiesbaden hat viereinhalbmal so viele Einwohner wie Rüsselsheim."
+],
+"45-mainz": [
+"Landesgrenze: Mainz ist die Hauptstadt von Rheinland-Pfalz, Wiesbaden die von Hessen.",
+"Bundestagswahl 2025: In Mainz lagen die Grünen knapp vorn, in Wiesbaden die CDU."
+],
+"23-walluf": [
+"Kreisgrenze: Walluf gehört zum Rheingau-Taunus-Kreis, Wiesbaden ist kreisfrei.",
+"Wiesbaden hat rund 55-mal so viele Einwohner wie Walluf."
+],
+"04-eltville": [
+"Kreisgrenze: Eltville am Rhein gehört zum Rheingau-Taunus-Kreis, Wiesbaden ist kreisfrei.",
+"Wiesbaden hat siebzehnmal so viele Einwohner wie Eltville am Rhein."
+],
+"24-oestrich-winkel": [
+"Kreisgrenze: Oestrich-Winkel gehört zum Rheingau-Taunus-Kreis, Wiesbaden ist kreisfrei.",
+"Wiesbaden hat rund 25-mal so viele Einwohner wie Oestrich-Winkel."
+],
+"60-ingelheim": [
+"Landesgrenze: Ingelheim liegt in Rheinland-Pfalz, Wiesbaden in Hessen.",
+"Wiesbaden hat gut achtmal so viele Einwohner wie Ingelheim."
+]
+},
 "km_vom_vorigen": 9.5
 },
 {
@@ -12359,7 +14816,42 @@ window.QA_DATEN = {
 }
 ],
 "anschluss_von": "46-wiesbaden",
-"anschluss": [],
+"anschluss": [
+"Wiesbaden hat mehr als fünfzigmal so viele Einwohner wie Walluf.",
+"Kreisgrenze: Wiesbaden ist kreisfrei, Walluf gehört zum Rheingau-Taunus-Kreis."
+],
+"anschluesse": {
+"64-ruesselsheim": [
+"Kreisgrenze: Rüsselsheim gehört zum Landkreis Groß-Gerau, Walluf zum Rheingau-Taunus-Kreis.",
+"Rüsselsheim hat zwölfmal so viele Einwohner wie Walluf."
+],
+"45-mainz": [
+"Landesgrenze: Mainz liegt in Rheinland-Pfalz, Walluf in Hessen.",
+"Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Walluf die CDU."
+],
+"46-wiesbaden": [
+"Wiesbaden hat mehr als fünfzigmal so viele Einwohner wie Walluf.",
+"Kreisgrenze: Wiesbaden ist kreisfrei, Walluf gehört zum Rheingau-Taunus-Kreis."
+],
+"04-eltville": [
+"Eltville am Rhein hat dreimal so viele Einwohner wie Walluf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Eltville am Rhein die Grünen, in Walluf die SPD."
+],
+"24-oestrich-winkel": [
+"Oestrich-Winkel hat gut doppelt so viele Einwohner wie Walluf."
+],
+"25-geisenheim": [
+"Geisenheim hat doppelt so viele Einwohner wie Walluf."
+],
+"05-ruedesheim": [
+"Rüdesheim am Rhein hat fast doppelt so viele Einwohner wie Walluf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Rüdesheim am Rhein die AfD, in Walluf die SPD."
+],
+"60-ingelheim": [
+"Landesgrenze: Ingelheim liegt in Rheinland-Pfalz, Walluf in Hessen.",
+"Ingelheim hat gut sechsmal so viele Einwohner wie Walluf."
+]
+},
 "km_vom_vorigen": 7.9
 },
 {
@@ -12553,6 +15045,40 @@ window.QA_DATEN = {
 "Eltville hat dreimal so viele Einwohner wie Walluf.",
 "Eltville hat fast siebenmal so viel Fläche wie Walluf."
 ],
+"anschluesse": {
+"45-mainz": [
+"Landesgrenze: Mainz liegt in Rheinland-Pfalz, Eltville am Rhein in Hessen.",
+"Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Eltville am Rhein die CDU."
+],
+"46-wiesbaden": [
+"Kreisgrenze: Wiesbaden ist kreisfrei, Eltville am Rhein gehört zum Rheingau-Taunus-Kreis.",
+"Wiesbaden hat siebzehnmal so viele Einwohner wie Eltville am Rhein."
+],
+"23-walluf": [
+"Eltville hat dreimal so viele Einwohner wie Walluf.",
+"Eltville hat fast siebenmal so viel Fläche wie Walluf."
+],
+"24-oestrich-winkel": [
+"Eltville am Rhein hat anderthalbmal so viele Einwohner wie Oestrich-Winkel.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Oestrich-Winkel die SPD, in Eltville am Rhein die Grünen."
+],
+"25-geisenheim": [
+"Eltville am Rhein hat anderthalbmal so viele Einwohner wie Geisenheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Geisenheim die SPD, in Eltville am Rhein die Grünen."
+],
+"05-ruedesheim": [
+"Eltville am Rhein hat gut anderthalbmal so viele Einwohner wie Rüdesheim am Rhein.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Rüdesheim am Rhein die AfD, in Eltville am Rhein die Grünen."
+],
+"52-bingen": [
+"Landesgrenze: Bingen liegt in Rheinland-Pfalz, Eltville am Rhein in Hessen.",
+"Bingen hat anderthalbmal so viele Einwohner wie Eltville am Rhein."
+],
+"60-ingelheim": [
+"Landesgrenze: Ingelheim liegt in Rheinland-Pfalz, Eltville am Rhein in Hessen.",
+"Ingelheim hat gut doppelt so viele Einwohner wie Eltville am Rhein."
+]
+},
 "km_vom_vorigen": 2.8
 },
 {
@@ -12746,6 +15272,45 @@ window.QA_DATEN = {
 "Oestrich-Winkel hat mehr Fläche als Eltville, aber weniger Einwohner.",
 "Bundestagswahl 2025: In Eltville wie in Oestrich-Winkel lag die CDU vorn."
 ],
+"anschluesse": {
+"45-mainz": [
+"Landesgrenze: Mainz liegt in Rheinland-Pfalz, Oestrich-Winkel in Hessen.",
+"Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Oestrich-Winkel die CDU."
+],
+"46-wiesbaden": [
+"Kreisgrenze: Wiesbaden ist kreisfrei, Oestrich-Winkel gehört zum Rheingau-Taunus-Kreis.",
+"Wiesbaden hat rund 25-mal so viele Einwohner wie Oestrich-Winkel."
+],
+"23-walluf": [
+"Oestrich-Winkel hat gut doppelt so viele Einwohner wie Walluf."
+],
+"04-eltville": [
+"Oestrich-Winkel hat mehr Fläche als Eltville, aber weniger Einwohner.",
+"Bundestagswahl 2025: In Eltville wie in Oestrich-Winkel lag die CDU vorn."
+],
+"25-geisenheim": [
+"Geisenheim und Oestrich-Winkel sind fast gleich groß: rund 11.000 und 11.000 Einwohner."
+],
+"05-ruedesheim": [
+"Oestrich-Winkel hat rund 1.500 Einwohner mehr als Rüdesheim am Rhein.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Rüdesheim am Rhein die AfD, in Oestrich-Winkel die SPD."
+],
+"06-lorch": [
+"Oestrich-Winkel hat dreimal so viele Einwohner wie Lorch."
+],
+"51-bacharach": [
+"Landesgrenze: Bacharach liegt in Rheinland-Pfalz, Oestrich-Winkel in Hessen.",
+"Oestrich-Winkel hat gut siebenmal so viele Einwohner wie Bacharach."
+],
+"52-bingen": [
+"Landesgrenze: Bingen liegt in Rheinland-Pfalz, Oestrich-Winkel in Hessen.",
+"Bingen hat gut doppelt so viele Einwohner wie Oestrich-Winkel."
+],
+"60-ingelheim": [
+"Landesgrenze: Ingelheim liegt in Rheinland-Pfalz, Oestrich-Winkel in Hessen.",
+"Ingelheim hat dreimal so viele Einwohner wie Oestrich-Winkel."
+]
+},
 "km_vom_vorigen": 7.4
 },
 {
@@ -12959,6 +15524,42 @@ window.QA_DATEN = {
 "Oestrich-Winkel und Geisenheim haben beide rund 11.000 Einwohner.",
 "Oestrich-Winkel hat fast anderthalbmal so viel Fläche wie Geisenheim."
 ],
+"anschluesse": {
+"23-walluf": [
+"Geisenheim hat doppelt so viele Einwohner wie Walluf."
+],
+"04-eltville": [
+"Eltville am Rhein hat anderthalbmal so viele Einwohner wie Geisenheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Eltville am Rhein die Grünen, in Geisenheim die SPD."
+],
+"24-oestrich-winkel": [
+"Oestrich-Winkel und Geisenheim haben beide rund 11.000 Einwohner.",
+"Oestrich-Winkel hat fast anderthalbmal so viel Fläche wie Geisenheim."
+],
+"05-ruedesheim": [
+"Geisenheim hat rund 1.300 Einwohner mehr als Rüdesheim am Rhein.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Rüdesheim am Rhein die AfD, in Geisenheim die SPD."
+],
+"06-lorch": [
+"Geisenheim hat dreimal so viele Einwohner wie Lorch."
+],
+"07-kaub": [
+"Landesgrenze: Kaub liegt in Rheinland-Pfalz, Geisenheim in Hessen.",
+"Geisenheim hat fünfzehnmal so viele Einwohner wie Kaub."
+],
+"51-bacharach": [
+"Landesgrenze: Bacharach liegt in Rheinland-Pfalz, Geisenheim in Hessen.",
+"Geisenheim hat gut siebenmal so viele Einwohner wie Bacharach."
+],
+"52-bingen": [
+"Landesgrenze: Bingen liegt in Rheinland-Pfalz, Geisenheim in Hessen.",
+"Bingen hat fast zweieinhalbmal so viele Einwohner wie Geisenheim."
+],
+"60-ingelheim": [
+"Landesgrenze: Ingelheim liegt in Rheinland-Pfalz, Geisenheim in Hessen.",
+"Ingelheim hat gut dreimal so viele Einwohner wie Geisenheim."
+]
+},
 "km_vom_vorigen": 4.8
 },
 {
@@ -13171,6 +15772,43 @@ window.QA_DATEN = {
 "anschluss": [
 "Geisenheim hat etwas mehr Einwohner als Rüdesheim, Rüdesheim mehr Fläche."
 ],
+"anschluesse": {
+"23-walluf": [
+"Rüdesheim am Rhein hat fast doppelt so viele Einwohner wie Walluf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Walluf die SPD, in Rüdesheim am Rhein die AfD."
+],
+"04-eltville": [
+"Eltville am Rhein hat gut anderthalbmal so viele Einwohner wie Rüdesheim am Rhein.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Eltville am Rhein die Grünen, in Rüdesheim am Rhein die AfD."
+],
+"24-oestrich-winkel": [
+"Oestrich-Winkel hat rund 1.500 Einwohner mehr als Rüdesheim am Rhein.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Oestrich-Winkel die SPD, in Rüdesheim am Rhein die AfD."
+],
+"25-geisenheim": [
+"Geisenheim hat etwas mehr Einwohner als Rüdesheim, Rüdesheim mehr Fläche."
+],
+"06-lorch": [
+"Rüdesheim am Rhein hat gut zweieinhalbmal so viele Einwohner wie Lorch.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Lorch die SPD, in Rüdesheim am Rhein die AfD."
+],
+"07-kaub": [
+"Landesgrenze: Kaub liegt in Rheinland-Pfalz, Rüdesheim am Rhein in Hessen.",
+"Rüdesheim am Rhein hat dreizehnmal so viele Einwohner wie Kaub."
+],
+"51-bacharach": [
+"Landesgrenze: Bacharach liegt in Rheinland-Pfalz, Rüdesheim am Rhein in Hessen.",
+"Rüdesheim am Rhein hat gut sechsmal so viele Einwohner wie Bacharach."
+],
+"52-bingen": [
+"Landesgrenze: Bingen liegt in Rheinland-Pfalz, Rüdesheim am Rhein in Hessen.",
+"Bingen hat zweieinhalbmal so viele Einwohner wie Rüdesheim am Rhein."
+],
+"60-ingelheim": [
+"Landesgrenze: Ingelheim liegt in Rheinland-Pfalz, Rüdesheim am Rhein in Hessen.",
+"Ingelheim hat dreieinhalbmal so viele Einwohner wie Rüdesheim am Rhein."
+]
+},
 "km_vom_vorigen": 3.0
 },
 {
@@ -13384,6 +16022,50 @@ window.QA_DATEN = {
 "Lorch hat mehr Fläche als Rüdesheim, aber nicht halb so viele Einwohner.",
 "Ein alter Kaufmannsweg führte Waren von Lorch über die Höhe nach Rüdesheim, am Binger Loch vorbei."
 ],
+"anschluesse": {
+"24-oestrich-winkel": [
+"Oestrich-Winkel hat dreimal so viele Einwohner wie Lorch."
+],
+"25-geisenheim": [
+"Geisenheim hat dreimal so viele Einwohner wie Lorch."
+],
+"05-ruedesheim": [
+"Lorch hat mehr Fläche als Rüdesheim, aber nicht halb so viele Einwohner.",
+"Ein alter Kaufmannsweg führte Waren von Lorch über die Höhe nach Rüdesheim, am Binger Loch vorbei."
+],
+"07-kaub": [
+"Landesgrenze: Kaub liegt in Rheinland-Pfalz, Lorch in Hessen.",
+"Lorch hat fünfmal so viele Einwohner wie Kaub."
+],
+"08-st-goarshausen": [
+"Landesgrenze: St. Goarshausen liegt in Rheinland-Pfalz, Lorch in Hessen.",
+"Lorch hat dreimal so viele Einwohner wie St. Goarshausen."
+],
+"26-kestert": [
+"Landesgrenze: Kestert liegt in Rheinland-Pfalz, Lorch in Hessen.",
+"Lorch hat sechsmal so viele Einwohner wie Kestert."
+],
+"49-st-goar": [
+"Landesgrenze: St. Goar liegt in Rheinland-Pfalz, Lorch in Hessen.",
+"Lorch hat rund 900 Einwohner mehr als St. Goar."
+],
+"50-oberwesel": [
+"Landesgrenze: Oberwesel liegt in Rheinland-Pfalz, Lorch in Hessen.",
+"Lorch hat rund 900 Einwohner mehr als Oberwesel."
+],
+"51-bacharach": [
+"Landesgrenze: Bacharach liegt in Rheinland-Pfalz, Lorch in Hessen.",
+"Lorch hat zweieinhalbmal so viele Einwohner wie Bacharach."
+],
+"52-bingen": [
+"Landesgrenze: Bingen liegt in Rheinland-Pfalz, Lorch in Hessen.",
+"Bingen hat fast siebenmal so viele Einwohner wie Lorch."
+],
+"60-ingelheim": [
+"Landesgrenze: Ingelheim liegt in Rheinland-Pfalz, Lorch in Hessen.",
+"Ingelheim hat neunmal so viele Einwohner wie Lorch."
+]
+},
 "km_vom_vorigen": 11.2
 },
 {
@@ -13597,6 +16279,45 @@ window.QA_DATEN = {
 "Lorch hat fünfmal so viele Einwohner wie Kaub.",
 "Kaub und Lorch werben gemeinsam mit Bacharach und Niederheimbach als „BaKaLoNi“."
 ],
+"anschluesse": {
+"25-geisenheim": [
+"Landesgrenze: Geisenheim liegt in Hessen, Kaub in Rheinland-Pfalz.",
+"Geisenheim hat fünfzehnmal so viele Einwohner wie Kaub."
+],
+"05-ruedesheim": [
+"Landesgrenze: Rüdesheim am Rhein liegt in Hessen, Kaub in Rheinland-Pfalz.",
+"Rüdesheim am Rhein hat dreizehnmal so viele Einwohner wie Kaub."
+],
+"06-lorch": [
+"Lorch hat fünfmal so viele Einwohner wie Kaub.",
+"Kaub und Lorch werben gemeinsam mit Bacharach und Niederheimbach als „BaKaLoNi“."
+],
+"08-st-goarshausen": [
+"St. Goarshausen hat gut anderthalbmal so viele Einwohner wie Kaub."
+],
+"26-kestert": [
+"Kaub hat rund 100 Einwohner mehr als Kestert."
+],
+"27-kamp-bornhofen": [
+"Kamp-Bornhofen hat fast doppelt so viele Einwohner wie Kaub."
+],
+"49-st-goar": [
+"Kreisgrenze: St. Goar gehört zum Rhein-Hunsrück-Kreis, Kaub zum Rhein-Lahn-Kreis.",
+"St. Goar hat fast viermal so viele Einwohner wie Kaub."
+],
+"50-oberwesel": [
+"Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, Kaub zum Rhein-Lahn-Kreis.",
+"Oberwesel hat fast viermal so viele Einwohner wie Kaub."
+],
+"51-bacharach": [
+"Kreisgrenze: Bacharach gehört zum Landkreis Mainz-Bingen, Kaub zum Rhein-Lahn-Kreis.",
+"Bacharach hat doppelt so viele Einwohner wie Kaub."
+],
+"52-bingen": [
+"Kreisgrenze: Bingen gehört zum Landkreis Mainz-Bingen, Kaub zum Rhein-Lahn-Kreis.",
+"Bingen hat rund 35-mal so viele Einwohner wie Kaub."
+]
+},
 "km_vom_vorigen": 5.7
 },
 {
@@ -13810,6 +16531,51 @@ window.QA_DATEN = {
 "Kaub hat fast doppelt so viel Fläche wie St. Goarshausen, aber nur gut halb so viele Einwohner.",
 "Kaub und St. Goarshausen gehören beide zur Verbandsgemeinde Loreley."
 ],
+"anschluesse": {
+"06-lorch": [
+"Landesgrenze: Lorch liegt in Hessen, St. Goarshausen in Rheinland-Pfalz.",
+"Lorch hat dreimal so viele Einwohner wie St. Goarshausen."
+],
+"07-kaub": [
+"Kaub hat fast doppelt so viel Fläche wie St. Goarshausen, aber nur gut halb so viele Einwohner.",
+"Kaub und St. Goarshausen gehören beide zur Verbandsgemeinde Loreley."
+],
+"26-kestert": [
+"St. Goarshausen hat doppelt so viele Einwohner wie Kestert."
+],
+"27-kamp-bornhofen": [
+"Kamp-Bornhofen hat rund 200 Einwohner mehr als St. Goarshausen."
+],
+"28-osterspai": [
+"Osterspai und St. Goarshausen sind fast gleich groß: rund 1.200 und 1.200 Einwohner."
+],
+"09-braubach": [
+"Braubach hat fast zweieinhalbmal so viele Einwohner wie St. Goarshausen."
+],
+"29-lahnstein": [
+"Lahnstein hat fünfzehnmal so viele Einwohner wie St. Goarshausen."
+],
+"59-rhens": [
+"Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, St. Goarshausen zum Rhein-Lahn-Kreis.",
+"Rhens hat fast zweieinhalbmal so viele Einwohner wie St. Goarshausen."
+],
+"48-boppard": [
+"Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, St. Goarshausen zum Rhein-Lahn-Kreis.",
+"Boppard hat dreizehnmal so viele Einwohner wie St. Goarshausen."
+],
+"49-st-goar": [
+"Kreisgrenze: St. Goar gehört zum Rhein-Hunsrück-Kreis, St. Goarshausen zum Rhein-Lahn-Kreis.",
+"St. Goar hat fast zweieinhalbmal so viele Einwohner wie St. Goarshausen."
+],
+"50-oberwesel": [
+"Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, St. Goarshausen zum Rhein-Lahn-Kreis.",
+"Oberwesel hat fast zweieinhalbmal so viele Einwohner wie St. Goarshausen."
+],
+"51-bacharach": [
+"Kreisgrenze: Bacharach gehört zum Landkreis Mainz-Bingen, St. Goarshausen zum Rhein-Lahn-Kreis.",
+"Bacharach hat rund 300 Einwohner mehr als St. Goarshausen."
+]
+},
 "km_vom_vorigen": 8.1
 },
 {
@@ -13983,6 +16749,55 @@ window.QA_DATEN = {
 "Kestert und St. Goarshausen haben fast gleich viel Fläche.",
 "St. Goarshausen hat doppelt so viele Einwohner wie Kestert."
 ],
+"anschluesse": {
+"06-lorch": [
+"Landesgrenze: Lorch liegt in Hessen, Kestert in Rheinland-Pfalz.",
+"Lorch hat sechsmal so viele Einwohner wie Kestert."
+],
+"07-kaub": [
+"Kaub hat rund 100 Einwohner mehr als Kestert."
+],
+"08-st-goarshausen": [
+"Kestert und St. Goarshausen haben fast gleich viel Fläche.",
+"St. Goarshausen hat doppelt so viele Einwohner wie Kestert."
+],
+"27-kamp-bornhofen": [
+"Kamp-Bornhofen hat fast zweieinhalbmal so viele Einwohner wie Kestert."
+],
+"28-osterspai": [
+"Osterspai hat doppelt so viele Einwohner wie Kestert."
+],
+"09-braubach": [
+"Braubach hat gut viereinhalbmal so viele Einwohner wie Kestert."
+],
+"29-lahnstein": [
+"Lahnstein hat rund 30-mal so viele Einwohner wie Kestert."
+],
+"53-koblenz": [
+"Kreisgrenze: Koblenz ist kreisfrei, Kestert gehört zum Rhein-Lahn-Kreis.",
+"Koblenz hat rund 180-mal so viele Einwohner wie Kestert."
+],
+"59-rhens": [
+"Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Kestert zum Rhein-Lahn-Kreis.",
+"Rhens hat viereinhalbmal so viele Einwohner wie Kestert."
+],
+"48-boppard": [
+"Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Kestert zum Rhein-Lahn-Kreis.",
+"Boppard hat rund 25-mal so viele Einwohner wie Kestert."
+],
+"49-st-goar": [
+"Kreisgrenze: St. Goar gehört zum Rhein-Hunsrück-Kreis, Kestert zum Rhein-Lahn-Kreis.",
+"St. Goar hat viereinhalbmal so viele Einwohner wie Kestert."
+],
+"50-oberwesel": [
+"Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, Kestert zum Rhein-Lahn-Kreis.",
+"Oberwesel hat viereinhalbmal so viele Einwohner wie Kestert."
+],
+"51-bacharach": [
+"Kreisgrenze: Bacharach gehört zum Landkreis Mainz-Bingen, Kestert zum Rhein-Lahn-Kreis.",
+"Bacharach hat fast zweieinhalbmal so viele Einwohner wie Kestert."
+]
+},
 "km_vom_vorigen": 5.8
 },
 {
@@ -14196,6 +17011,51 @@ window.QA_DATEN = {
 "Kamp-Bornhofen hat gut doppelt so viele Einwohner wie Kestert.",
 "Kestert und Kamp-Bornhofen gehören beide zur Verbandsgemeinde Loreley."
 ],
+"anschluesse": {
+"07-kaub": [
+"Kamp-Bornhofen hat fast doppelt so viele Einwohner wie Kaub."
+],
+"08-st-goarshausen": [
+"Kamp-Bornhofen hat rund 200 Einwohner mehr als St. Goarshausen."
+],
+"26-kestert": [
+"Kamp-Bornhofen hat gut doppelt so viele Einwohner wie Kestert.",
+"Kestert und Kamp-Bornhofen gehören beide zur Verbandsgemeinde Loreley."
+],
+"28-osterspai": [
+"Kamp-Bornhofen hat rund 200 Einwohner mehr als Osterspai."
+],
+"09-braubach": [
+"Braubach hat doppelt so viele Einwohner wie Kamp-Bornhofen."
+],
+"29-lahnstein": [
+"Lahnstein hat dreizehnmal so viele Einwohner wie Kamp-Bornhofen."
+],
+"10-vallendar": [
+"Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Kamp-Bornhofen zum Rhein-Lahn-Kreis.",
+"Vallendar hat sechsmal so viele Einwohner wie Kamp-Bornhofen."
+],
+"53-koblenz": [
+"Kreisgrenze: Koblenz ist kreisfrei, Kamp-Bornhofen gehört zum Rhein-Lahn-Kreis.",
+"Koblenz hat rund 75-mal so viele Einwohner wie Kamp-Bornhofen."
+],
+"59-rhens": [
+"Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Kamp-Bornhofen zum Rhein-Lahn-Kreis.",
+"Rhens hat doppelt so viele Einwohner wie Kamp-Bornhofen."
+],
+"48-boppard": [
+"Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Kamp-Bornhofen zum Rhein-Lahn-Kreis.",
+"Boppard hat elfmal so viele Einwohner wie Kamp-Bornhofen."
+],
+"49-st-goar": [
+"Kreisgrenze: St. Goar gehört zum Rhein-Hunsrück-Kreis, Kamp-Bornhofen zum Rhein-Lahn-Kreis.",
+"St. Goar hat doppelt so viele Einwohner wie Kamp-Bornhofen."
+],
+"50-oberwesel": [
+"Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, Kamp-Bornhofen zum Rhein-Lahn-Kreis.",
+"Oberwesel hat doppelt so viele Einwohner wie Kamp-Bornhofen."
+]
+},
 "km_vom_vorigen": 4.8
 },
 {
@@ -14407,6 +17267,47 @@ window.QA_DATEN = {
 "anschluss": [
 "Kamp-Bornhofen hat mehr Einwohner, Osterspai mehr Fläche."
 ],
+"anschluesse": {
+"08-st-goarshausen": [
+"St. Goarshausen und Osterspai sind fast gleich groß: rund 1.200 und 1.200 Einwohner."
+],
+"26-kestert": [
+"Osterspai hat doppelt so viele Einwohner wie Kestert."
+],
+"27-kamp-bornhofen": [
+"Kamp-Bornhofen hat mehr Einwohner, Osterspai mehr Fläche."
+],
+"09-braubach": [
+"Braubach hat fast zweieinhalbmal so viele Einwohner wie Osterspai."
+],
+"29-lahnstein": [
+"Lahnstein hat fünfzehnmal so viele Einwohner wie Osterspai."
+],
+"10-vallendar": [
+"Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Osterspai zum Rhein-Lahn-Kreis.",
+"Vallendar hat gut siebenmal so viele Einwohner wie Osterspai."
+],
+"53-koblenz": [
+"Kreisgrenze: Koblenz ist kreisfrei, Osterspai gehört zum Rhein-Lahn-Kreis.",
+"Koblenz hat rund 90-mal so viele Einwohner wie Osterspai."
+],
+"59-rhens": [
+"Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Osterspai zum Rhein-Lahn-Kreis.",
+"Rhens hat fast zweieinhalbmal so viele Einwohner wie Osterspai."
+],
+"48-boppard": [
+"Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Osterspai zum Rhein-Lahn-Kreis.",
+"Boppard hat fast dreizehnmal so viele Einwohner wie Osterspai."
+],
+"49-st-goar": [
+"Kreisgrenze: St. Goar gehört zum Rhein-Hunsrück-Kreis, Osterspai zum Rhein-Lahn-Kreis.",
+"St. Goar hat fast zweieinhalbmal so viele Einwohner wie Osterspai."
+],
+"50-oberwesel": [
+"Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, Osterspai zum Rhein-Lahn-Kreis.",
+"Oberwesel hat fast zweieinhalbmal so viele Einwohner wie Osterspai."
+]
+},
 "km_vom_vorigen": 2.3
 },
 {
@@ -14580,6 +17481,48 @@ window.QA_DATEN = {
 "Braubach hat mehr als doppelt so viele Einwohner wie Osterspai.",
 "Osterspai und Braubach gehören beide zur Verbandsgemeinde Loreley."
 ],
+"anschluesse": {
+"08-st-goarshausen": [
+"Braubach hat fast zweieinhalbmal so viele Einwohner wie St. Goarshausen."
+],
+"26-kestert": [
+"Braubach hat gut viereinhalbmal so viele Einwohner wie Kestert."
+],
+"27-kamp-bornhofen": [
+"Braubach hat doppelt so viele Einwohner wie Kamp-Bornhofen."
+],
+"28-osterspai": [
+"Braubach hat mehr als doppelt so viele Einwohner wie Osterspai.",
+"Osterspai und Braubach gehören beide zur Verbandsgemeinde Loreley."
+],
+"29-lahnstein": [
+"Lahnstein hat gut sechsmal so viele Einwohner wie Braubach."
+],
+"10-vallendar": [
+"Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Braubach zum Rhein-Lahn-Kreis.",
+"Vallendar hat dreimal so viele Einwohner wie Braubach."
+],
+"53-koblenz": [
+"Kreisgrenze: Koblenz ist kreisfrei, Braubach gehört zum Rhein-Lahn-Kreis.",
+"Koblenz hat rund 40-mal so viele Einwohner wie Braubach."
+],
+"59-rhens": [
+"Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Braubach zum Rhein-Lahn-Kreis.",
+"Rhens und Braubach sind fast gleich groß: rund 2.900 und 3.000 Einwohner."
+],
+"48-boppard": [
+"Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Braubach zum Rhein-Lahn-Kreis.",
+"Boppard hat gut fünfmal so viele Einwohner wie Braubach."
+],
+"49-st-goar": [
+"Kreisgrenze: St. Goar gehört zum Rhein-Hunsrück-Kreis, Braubach zum Rhein-Lahn-Kreis.",
+"St. Goar und Braubach sind fast gleich groß: rund 2.900 und 3.000 Einwohner."
+],
+"50-oberwesel": [
+"Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, Braubach zum Rhein-Lahn-Kreis.",
+"Oberwesel und Braubach sind fast gleich groß: rund 2.900 und 3.000 Einwohner."
+]
+},
 "km_vom_vorigen": 3.9
 },
 {
@@ -14753,6 +17696,44 @@ window.QA_DATEN = {
 "Lahnstein hat gut sechsmal so viele Einwohner wie Braubach.",
 "Lahnstein hat fast doppelt so viel Fläche wie Braubach."
 ],
+"anschluesse": {
+"08-st-goarshausen": [
+"Lahnstein hat fünfzehnmal so viele Einwohner wie St. Goarshausen."
+],
+"26-kestert": [
+"Lahnstein hat rund 30-mal so viele Einwohner wie Kestert."
+],
+"27-kamp-bornhofen": [
+"Lahnstein hat dreizehnmal so viele Einwohner wie Kamp-Bornhofen."
+],
+"28-osterspai": [
+"Lahnstein hat fünfzehnmal so viele Einwohner wie Osterspai."
+],
+"09-braubach": [
+"Lahnstein hat gut sechsmal so viele Einwohner wie Braubach.",
+"Lahnstein hat fast doppelt so viel Fläche wie Braubach."
+],
+"10-vallendar": [
+"Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Lahnstein zum Rhein-Lahn-Kreis.",
+"Lahnstein hat gut doppelt so viele Einwohner wie Vallendar."
+],
+"53-koblenz": [
+"Kreisgrenze: Koblenz ist kreisfrei, Lahnstein gehört zum Rhein-Lahn-Kreis.",
+"Koblenz hat sechsmal so viele Einwohner wie Lahnstein."
+],
+"59-rhens": [
+"Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Lahnstein zum Rhein-Lahn-Kreis.",
+"Lahnstein hat gut sechsmal so viele Einwohner wie Rhens."
+],
+"48-boppard": [
+"Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Lahnstein zum Rhein-Lahn-Kreis.",
+"Lahnstein hat rund 3.200 Einwohner mehr als Boppard."
+],
+"49-st-goar": [
+"Kreisgrenze: St. Goar gehört zum Rhein-Hunsrück-Kreis, Lahnstein zum Rhein-Lahn-Kreis.",
+"Lahnstein hat fast siebenmal so viele Einwohner wie St. Goar."
+]
+},
 "km_vom_vorigen": 4.1
 },
 {
@@ -14966,6 +17947,39 @@ window.QA_DATEN = {
 "Lahnstein hat gut doppelt so viele Einwohner wie Vallendar.",
 "Kreisgrenze: In Lahnstein steht EMS am Auto, in Vallendar MYK."
 ],
+"anschluesse": {
+"27-kamp-bornhofen": [
+"Kreisgrenze: Kamp-Bornhofen gehört zum Rhein-Lahn-Kreis, Vallendar zum Landkreis Mayen-Koblenz.",
+"Vallendar hat sechsmal so viele Einwohner wie Kamp-Bornhofen."
+],
+"28-osterspai": [
+"Kreisgrenze: Osterspai gehört zum Rhein-Lahn-Kreis, Vallendar zum Landkreis Mayen-Koblenz.",
+"Vallendar hat gut siebenmal so viele Einwohner wie Osterspai."
+],
+"09-braubach": [
+"Kreisgrenze: Braubach gehört zum Rhein-Lahn-Kreis, Vallendar zum Landkreis Mayen-Koblenz.",
+"Vallendar hat dreimal so viele Einwohner wie Braubach."
+],
+"29-lahnstein": [
+"Lahnstein hat gut doppelt so viele Einwohner wie Vallendar.",
+"Kreisgrenze: In Lahnstein steht EMS am Auto, in Vallendar MYK."
+],
+"47-andernach": [
+"Andernach hat fast dreieinhalbmal so viele Einwohner wie Vallendar.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Andernach die AfD, in Vallendar die SPD."
+],
+"53-koblenz": [
+"Kreisgrenze: Koblenz ist kreisfrei, Vallendar gehört zum Landkreis Mayen-Koblenz.",
+"Koblenz hat gut zwölfmal so viele Einwohner wie Vallendar."
+],
+"59-rhens": [
+"Vallendar hat dreimal so viele Einwohner wie Rhens."
+],
+"48-boppard": [
+"Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Vallendar zum Landkreis Mayen-Koblenz.",
+"Boppard hat gut anderthalbmal so viele Einwohner wie Vallendar."
+]
+},
 "km_vom_vorigen": 11.1
 },
 {
@@ -15176,9 +18190,19 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "10-vallendar",
 "anschluss": [
-"Bundestagswahl 2025: AfD in Andernach 23,6 Prozent, in Vallendar 12,3.",
-"Fläche: Andernach ist rund viermal so groß wie Vallendar."
+"Vallendar liegt rechts des Rheins, Andernach links; beide gehören zum Landkreis Mayen-Koblenz.",
+"Andernach hat mehr als dreimal so viele Einwohner wie Vallendar."
 ],
+"anschluesse": {
+"10-vallendar": [
+"Vallendar liegt rechts des Rheins, Andernach links; beide gehören zum Landkreis Mayen-Koblenz.",
+"Andernach hat mehr als dreimal so viele Einwohner wie Vallendar."
+],
+"53-koblenz": [
+"Kreisgrenze: Koblenz ist kreisfrei, Andernach gehört zum Landkreis Mayen-Koblenz.",
+"Koblenz hat fast viermal so viele Einwohner wie Andernach."
+]
+},
 "km_vom_vorigen": 15.9
 },
 {
@@ -15389,9 +18413,47 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "47-andernach",
 "anschluss": [
-"Einwohner: Koblenz hat fast viermal so viele wie Andernach.",
-"Kennzeichen: In Andernach steht MYK am Auto, in Koblenz KO."
+"Koblenz hat fast viermal so viele Einwohner wie Andernach.",
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Koblenz ist kreisfrei."
 ],
+"anschluesse": {
+"26-kestert": [
+"Kreisgrenze: Kestert gehört zum Rhein-Lahn-Kreis, Koblenz ist kreisfrei.",
+"Koblenz hat rund 180-mal so viele Einwohner wie Kestert."
+],
+"27-kamp-bornhofen": [
+"Kreisgrenze: Kamp-Bornhofen gehört zum Rhein-Lahn-Kreis, Koblenz ist kreisfrei.",
+"Koblenz hat rund 75-mal so viele Einwohner wie Kamp-Bornhofen."
+],
+"28-osterspai": [
+"Kreisgrenze: Osterspai gehört zum Rhein-Lahn-Kreis, Koblenz ist kreisfrei.",
+"Koblenz hat rund 90-mal so viele Einwohner wie Osterspai."
+],
+"09-braubach": [
+"Kreisgrenze: Braubach gehört zum Rhein-Lahn-Kreis, Koblenz ist kreisfrei.",
+"Koblenz hat rund 40-mal so viele Einwohner wie Braubach."
+],
+"29-lahnstein": [
+"Kreisgrenze: Lahnstein gehört zum Rhein-Lahn-Kreis, Koblenz ist kreisfrei.",
+"Koblenz hat sechsmal so viele Einwohner wie Lahnstein."
+],
+"10-vallendar": [
+"Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Koblenz ist kreisfrei.",
+"Koblenz hat gut zwölfmal so viele Einwohner wie Vallendar."
+],
+"47-andernach": [
+"Koblenz hat fast viermal so viele Einwohner wie Andernach.",
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Koblenz ist kreisfrei."
+],
+"59-rhens": [
+"Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Koblenz ist kreisfrei.",
+"Koblenz hat rund 40-mal so viele Einwohner wie Rhens."
+],
+"48-boppard": [
+"Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Koblenz ist kreisfrei.",
+"Koblenz hat gut siebenmal so viele Einwohner wie Boppard."
+]
+},
 "km_vom_vorigen": 16.5
 },
 {
@@ -15562,9 +18624,50 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "53-koblenz",
 "anschluss": [
-"Kennzeichen: In Koblenz steht KO am Auto, in Rhens MYK.",
-"Einwohner: Koblenz hat fast vierzigmal so viele wie Rhens."
+"Koblenz hat fast vierzigmal so viele Einwohner wie Rhens.",
+"Bundestagswahl 2025: In Koblenz kam die CDU auf 28,6 Prozent, in Rhens auf 39,4."
 ],
+"anschluesse": {
+"08-st-goarshausen": [
+"Kreisgrenze: St. Goarshausen gehört zum Rhein-Lahn-Kreis, Rhens zum Landkreis Mayen-Koblenz.",
+"Rhens hat fast zweieinhalbmal so viele Einwohner wie St. Goarshausen."
+],
+"26-kestert": [
+"Kreisgrenze: Kestert gehört zum Rhein-Lahn-Kreis, Rhens zum Landkreis Mayen-Koblenz.",
+"Rhens hat viereinhalbmal so viele Einwohner wie Kestert."
+],
+"27-kamp-bornhofen": [
+"Kreisgrenze: Kamp-Bornhofen gehört zum Rhein-Lahn-Kreis, Rhens zum Landkreis Mayen-Koblenz.",
+"Rhens hat doppelt so viele Einwohner wie Kamp-Bornhofen."
+],
+"28-osterspai": [
+"Kreisgrenze: Osterspai gehört zum Rhein-Lahn-Kreis, Rhens zum Landkreis Mayen-Koblenz.",
+"Rhens hat fast zweieinhalbmal so viele Einwohner wie Osterspai."
+],
+"09-braubach": [
+"Kreisgrenze: Braubach gehört zum Rhein-Lahn-Kreis, Rhens zum Landkreis Mayen-Koblenz.",
+"Braubach und Rhens sind fast gleich groß: rund 3.000 und 2.900 Einwohner."
+],
+"29-lahnstein": [
+"Kreisgrenze: Lahnstein gehört zum Rhein-Lahn-Kreis, Rhens zum Landkreis Mayen-Koblenz.",
+"Lahnstein hat gut sechsmal so viele Einwohner wie Rhens."
+],
+"10-vallendar": [
+"Vallendar hat dreimal so viele Einwohner wie Rhens."
+],
+"53-koblenz": [
+"Koblenz hat fast vierzigmal so viele Einwohner wie Rhens.",
+"Bundestagswahl 2025: In Koblenz kam die CDU auf 28,6 Prozent, in Rhens auf 39,4."
+],
+"48-boppard": [
+"Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Rhens zum Landkreis Mayen-Koblenz.",
+"Boppard hat gut fünfmal so viele Einwohner wie Rhens."
+],
+"49-st-goar": [
+"Kreisgrenze: St. Goar gehört zum Rhein-Hunsrück-Kreis, Rhens zum Landkreis Mayen-Koblenz.",
+"St. Goar und Rhens sind fast gleich groß: rund 2.900 und 2.900 Einwohner."
+]
+},
 "km_vom_vorigen": 8.9
 },
 {
@@ -15744,7 +18847,55 @@ window.QA_DATEN = {
 }
 ],
 "anschluss_von": "59-rhens",
-"anschluss": [],
+"anschluss": [
+"Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Boppard zum Rhein-Hunsrück-Kreis.",
+"Boppard hat mehr als fünfmal so viele Einwohner wie Rhens."
+],
+"anschluesse": {
+"08-st-goarshausen": [
+"Kreisgrenze: St. Goarshausen gehört zum Rhein-Lahn-Kreis, Boppard zum Rhein-Hunsrück-Kreis.",
+"Boppard hat dreizehnmal so viele Einwohner wie St. Goarshausen."
+],
+"26-kestert": [
+"Kreisgrenze: Kestert gehört zum Rhein-Lahn-Kreis, Boppard zum Rhein-Hunsrück-Kreis.",
+"Boppard hat rund 25-mal so viele Einwohner wie Kestert."
+],
+"27-kamp-bornhofen": [
+"Kreisgrenze: Kamp-Bornhofen gehört zum Rhein-Lahn-Kreis, Boppard zum Rhein-Hunsrück-Kreis.",
+"Boppard hat elfmal so viele Einwohner wie Kamp-Bornhofen."
+],
+"28-osterspai": [
+"Kreisgrenze: Osterspai gehört zum Rhein-Lahn-Kreis, Boppard zum Rhein-Hunsrück-Kreis.",
+"Boppard hat fast dreizehnmal so viele Einwohner wie Osterspai."
+],
+"09-braubach": [
+"Kreisgrenze: Braubach gehört zum Rhein-Lahn-Kreis, Boppard zum Rhein-Hunsrück-Kreis.",
+"Boppard hat gut fünfmal so viele Einwohner wie Braubach."
+],
+"29-lahnstein": [
+"Kreisgrenze: Lahnstein gehört zum Rhein-Lahn-Kreis, Boppard zum Rhein-Hunsrück-Kreis.",
+"Lahnstein hat rund 3.200 Einwohner mehr als Boppard."
+],
+"10-vallendar": [
+"Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Boppard zum Rhein-Hunsrück-Kreis.",
+"Boppard hat gut anderthalbmal so viele Einwohner wie Vallendar."
+],
+"53-koblenz": [
+"Kreisgrenze: Koblenz ist kreisfrei, Boppard gehört zum Rhein-Hunsrück-Kreis.",
+"Koblenz hat gut siebenmal so viele Einwohner wie Boppard."
+],
+"59-rhens": [
+"Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Boppard zum Rhein-Hunsrück-Kreis.",
+"Boppard hat mehr als fünfmal so viele Einwohner wie Rhens."
+],
+"49-st-goar": [
+"Boppard hat gut fünfmal so viele Einwohner wie St. Goar."
+],
+"50-oberwesel": [
+"Boppard hat gut fünfmal so viele Einwohner wie Oberwesel.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Oberwesel die AfD, in Boppard die SPD."
+]
+},
 "km_vom_vorigen": 5.8
 },
 {
@@ -15955,9 +19106,59 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "48-boppard",
 "anschluss": [
-"Landkreis: Boppard und St. Goar liegen beide im Rhein-Hunsrück-Kreis.",
-"Einwohner: Boppard hat über fünfmal so viele wie St. Goar."
+"Boppard hat mehr als fünfmal so viele Einwohner wie St. Goar.",
+"Boppard und St. Goar liegen beide im Rhein-Hunsrück-Kreis."
 ],
+"anschluesse": {
+"06-lorch": [
+"Landesgrenze: Lorch liegt in Hessen, St. Goar in Rheinland-Pfalz.",
+"Lorch hat rund 900 Einwohner mehr als St. Goar."
+],
+"07-kaub": [
+"Kreisgrenze: Kaub gehört zum Rhein-Lahn-Kreis, St. Goar zum Rhein-Hunsrück-Kreis.",
+"St. Goar hat fast viermal so viele Einwohner wie Kaub."
+],
+"08-st-goarshausen": [
+"Kreisgrenze: St. Goarshausen gehört zum Rhein-Lahn-Kreis, St. Goar zum Rhein-Hunsrück-Kreis.",
+"St. Goar hat fast zweieinhalbmal so viele Einwohner wie St. Goarshausen."
+],
+"26-kestert": [
+"Kreisgrenze: Kestert gehört zum Rhein-Lahn-Kreis, St. Goar zum Rhein-Hunsrück-Kreis.",
+"St. Goar hat viereinhalbmal so viele Einwohner wie Kestert."
+],
+"27-kamp-bornhofen": [
+"Kreisgrenze: Kamp-Bornhofen gehört zum Rhein-Lahn-Kreis, St. Goar zum Rhein-Hunsrück-Kreis.",
+"St. Goar hat doppelt so viele Einwohner wie Kamp-Bornhofen."
+],
+"28-osterspai": [
+"Kreisgrenze: Osterspai gehört zum Rhein-Lahn-Kreis, St. Goar zum Rhein-Hunsrück-Kreis.",
+"St. Goar hat fast zweieinhalbmal so viele Einwohner wie Osterspai."
+],
+"09-braubach": [
+"Kreisgrenze: Braubach gehört zum Rhein-Lahn-Kreis, St. Goar zum Rhein-Hunsrück-Kreis.",
+"Braubach und St. Goar sind fast gleich groß: rund 3.000 und 2.900 Einwohner."
+],
+"29-lahnstein": [
+"Kreisgrenze: Lahnstein gehört zum Rhein-Lahn-Kreis, St. Goar zum Rhein-Hunsrück-Kreis.",
+"Lahnstein hat fast siebenmal so viele Einwohner wie St. Goar."
+],
+"59-rhens": [
+"Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, St. Goar zum Rhein-Hunsrück-Kreis.",
+"Rhens und St. Goar sind fast gleich groß: rund 2.900 und 2.900 Einwohner."
+],
+"48-boppard": [
+"Boppard hat mehr als fünfmal so viele Einwohner wie St. Goar.",
+"Boppard und St. Goar liegen beide im Rhein-Hunsrück-Kreis."
+],
+"50-oberwesel": [
+"Oberwesel und St. Goar sind fast gleich groß: rund 2.900 und 2.900 Einwohner.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Oberwesel die AfD, in St. Goar die SPD."
+],
+"51-bacharach": [
+"Kreisgrenze: Bacharach gehört zum Landkreis Mainz-Bingen, St. Goar zum Rhein-Hunsrück-Kreis.",
+"St. Goar hat fast doppelt so viele Einwohner wie Bacharach."
+]
+},
 "km_vom_vorigen": 12.7
 },
 {
@@ -16128,9 +19329,55 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "49-st-goar",
 "anschluss": [
-"Einwohner: Oberwesel zählt 2.878, St. Goar 2.860, fast gleichauf.",
-"Verwaltung: Bis 2019 hieß Oberwesels Verbandsgemeinde St. Goar-Oberwesel."
+"St. Goar und Oberwesel sind fast gleich groß: je rund 2.900 Einwohner.",
+"Bundestagswahl 2025: Auf Platz zwei kam in St. Goar die SPD mit 25 Prozent, in Oberwesel die AfD."
 ],
+"anschluesse": {
+"06-lorch": [
+"Landesgrenze: Lorch liegt in Hessen, Oberwesel in Rheinland-Pfalz.",
+"Lorch hat rund 900 Einwohner mehr als Oberwesel."
+],
+"07-kaub": [
+"Kreisgrenze: Kaub gehört zum Rhein-Lahn-Kreis, Oberwesel zum Rhein-Hunsrück-Kreis.",
+"Oberwesel hat fast viermal so viele Einwohner wie Kaub."
+],
+"08-st-goarshausen": [
+"Kreisgrenze: St. Goarshausen gehört zum Rhein-Lahn-Kreis, Oberwesel zum Rhein-Hunsrück-Kreis.",
+"Oberwesel hat fast zweieinhalbmal so viele Einwohner wie St. Goarshausen."
+],
+"26-kestert": [
+"Kreisgrenze: Kestert gehört zum Rhein-Lahn-Kreis, Oberwesel zum Rhein-Hunsrück-Kreis.",
+"Oberwesel hat viereinhalbmal so viele Einwohner wie Kestert."
+],
+"27-kamp-bornhofen": [
+"Kreisgrenze: Kamp-Bornhofen gehört zum Rhein-Lahn-Kreis, Oberwesel zum Rhein-Hunsrück-Kreis.",
+"Oberwesel hat doppelt so viele Einwohner wie Kamp-Bornhofen."
+],
+"28-osterspai": [
+"Kreisgrenze: Osterspai gehört zum Rhein-Lahn-Kreis, Oberwesel zum Rhein-Hunsrück-Kreis.",
+"Oberwesel hat fast zweieinhalbmal so viele Einwohner wie Osterspai."
+],
+"09-braubach": [
+"Kreisgrenze: Braubach gehört zum Rhein-Lahn-Kreis, Oberwesel zum Rhein-Hunsrück-Kreis.",
+"Braubach und Oberwesel sind fast gleich groß: rund 3.000 und 2.900 Einwohner."
+],
+"48-boppard": [
+"Boppard hat gut fünfmal so viele Einwohner wie Oberwesel.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Boppard die SPD, in Oberwesel die AfD."
+],
+"49-st-goar": [
+"St. Goar und Oberwesel sind fast gleich groß: je rund 2.900 Einwohner.",
+"Bundestagswahl 2025: Auf Platz zwei kam in St. Goar die SPD mit 25 Prozent, in Oberwesel die AfD."
+],
+"51-bacharach": [
+"Kreisgrenze: Bacharach gehört zum Landkreis Mainz-Bingen, Oberwesel zum Rhein-Hunsrück-Kreis.",
+"Oberwesel hat fast doppelt so viele Einwohner wie Bacharach."
+],
+"52-bingen": [
+"Kreisgrenze: Bingen gehört zum Landkreis Mainz-Bingen, Oberwesel zum Rhein-Hunsrück-Kreis.",
+"Bingen hat neunmal so viele Einwohner wie Oberwesel."
+]
+},
 "km_vom_vorigen": 4.8
 },
 {
@@ -16321,9 +19568,50 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "50-oberwesel",
 "anschluss": [
-"Kennzeichen: In Oberwesel steht SIM am Auto, in Bacharach MZ.",
-"Einwohner: Oberwesel hat fast doppelt so viele wie Bacharach."
+"Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, Bacharach zum Landkreis Mainz-Bingen.",
+"Bacharach hat nur gut halb so viele Einwohner wie Oberwesel, aber mehr Fläche."
 ],
+"anschluesse": {
+"24-oestrich-winkel": [
+"Landesgrenze: Oestrich-Winkel liegt in Hessen, Bacharach in Rheinland-Pfalz.",
+"Oestrich-Winkel hat gut siebenmal so viele Einwohner wie Bacharach."
+],
+"25-geisenheim": [
+"Landesgrenze: Geisenheim liegt in Hessen, Bacharach in Rheinland-Pfalz.",
+"Geisenheim hat gut siebenmal so viele Einwohner wie Bacharach."
+],
+"05-ruedesheim": [
+"Landesgrenze: Rüdesheim am Rhein liegt in Hessen, Bacharach in Rheinland-Pfalz.",
+"Rüdesheim am Rhein hat gut sechsmal so viele Einwohner wie Bacharach."
+],
+"06-lorch": [
+"Landesgrenze: Lorch liegt in Hessen, Bacharach in Rheinland-Pfalz.",
+"Lorch hat zweieinhalbmal so viele Einwohner wie Bacharach."
+],
+"07-kaub": [
+"Kreisgrenze: Kaub gehört zum Rhein-Lahn-Kreis, Bacharach zum Landkreis Mainz-Bingen.",
+"Bacharach hat doppelt so viele Einwohner wie Kaub."
+],
+"08-st-goarshausen": [
+"Kreisgrenze: St. Goarshausen gehört zum Rhein-Lahn-Kreis, Bacharach zum Landkreis Mainz-Bingen.",
+"Bacharach hat rund 300 Einwohner mehr als St. Goarshausen."
+],
+"26-kestert": [
+"Kreisgrenze: Kestert gehört zum Rhein-Lahn-Kreis, Bacharach zum Landkreis Mainz-Bingen.",
+"Bacharach hat fast zweieinhalbmal so viele Einwohner wie Kestert."
+],
+"49-st-goar": [
+"Kreisgrenze: St. Goar gehört zum Rhein-Hunsrück-Kreis, Bacharach zum Landkreis Mainz-Bingen.",
+"St. Goar hat fast doppelt so viele Einwohner wie Bacharach."
+],
+"50-oberwesel": [
+"Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, Bacharach zum Landkreis Mainz-Bingen.",
+"Bacharach hat nur gut halb so viele Einwohner wie Oberwesel, aber mehr Fläche."
+],
+"52-bingen": [
+"Bingen hat siebzehnmal so viele Einwohner wie Bacharach."
+]
+},
 "km_vom_vorigen": 6.0
 },
 {
@@ -16494,9 +19782,46 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "51-bacharach",
 "anschluss": [
-"Einwohner: Bingen hat fast siebzehnmal so viele wie Bacharach.",
-"Landkreis: Bacharach und Bingen liegen beide in Mainz-Bingen."
+"Bingen hat fast siebzehnmal so viele Einwohner wie Bacharach.",
+"Bacharach und Bingen liegen beide im Landkreis Mainz-Bingen."
 ],
+"anschluesse": {
+"04-eltville": [
+"Landesgrenze: Eltville am Rhein liegt in Hessen, Bingen in Rheinland-Pfalz.",
+"Bingen hat anderthalbmal so viele Einwohner wie Eltville am Rhein."
+],
+"24-oestrich-winkel": [
+"Landesgrenze: Oestrich-Winkel liegt in Hessen, Bingen in Rheinland-Pfalz.",
+"Bingen hat gut doppelt so viele Einwohner wie Oestrich-Winkel."
+],
+"25-geisenheim": [
+"Landesgrenze: Geisenheim liegt in Hessen, Bingen in Rheinland-Pfalz.",
+"Bingen hat fast zweieinhalbmal so viele Einwohner wie Geisenheim."
+],
+"05-ruedesheim": [
+"Landesgrenze: Rüdesheim am Rhein liegt in Hessen, Bingen in Rheinland-Pfalz.",
+"Bingen hat zweieinhalbmal so viele Einwohner wie Rüdesheim am Rhein."
+],
+"06-lorch": [
+"Landesgrenze: Lorch liegt in Hessen, Bingen in Rheinland-Pfalz.",
+"Bingen hat fast siebenmal so viele Einwohner wie Lorch."
+],
+"07-kaub": [
+"Kreisgrenze: Kaub gehört zum Rhein-Lahn-Kreis, Bingen zum Landkreis Mainz-Bingen.",
+"Bingen hat rund 35-mal so viele Einwohner wie Kaub."
+],
+"50-oberwesel": [
+"Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, Bingen zum Landkreis Mainz-Bingen.",
+"Bingen hat neunmal so viele Einwohner wie Oberwesel."
+],
+"51-bacharach": [
+"Bingen hat fast siebzehnmal so viele Einwohner wie Bacharach.",
+"Bacharach und Bingen liegen beide im Landkreis Mainz-Bingen."
+],
+"60-ingelheim": [
+"Ingelheim hat rund 9.500 Einwohner mehr als Bingen."
+]
+},
 "km_vom_vorigen": 13.8
 },
 {
@@ -16667,9 +19992,47 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "52-bingen",
 "anschluss": [
-"Einwohner: Ingelheim zählt rund 9.500 mehr als Bingen.",
-"Kennzeichen: In Ingelheim wie in Bingen steht BIN am Auto."
+"Ingelheim hat rund 9.500 Einwohner mehr als Bingen.",
+"Bingen und Ingelheim liegen beide im Landkreis Mainz-Bingen; Kreisstadt ist Ingelheim."
 ],
+"anschluesse": {
+"45-mainz": [
+"Kreisgrenze: Mainz ist kreisfrei, Ingelheim gehört zum Landkreis Mainz-Bingen.",
+"Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Ingelheim die CDU."
+],
+"46-wiesbaden": [
+"Landesgrenze: Wiesbaden liegt in Hessen, Ingelheim in Rheinland-Pfalz.",
+"Wiesbaden hat gut achtmal so viele Einwohner wie Ingelheim."
+],
+"23-walluf": [
+"Landesgrenze: Walluf liegt in Hessen, Ingelheim in Rheinland-Pfalz.",
+"Ingelheim hat gut sechsmal so viele Einwohner wie Walluf."
+],
+"04-eltville": [
+"Landesgrenze: Eltville am Rhein liegt in Hessen, Ingelheim in Rheinland-Pfalz.",
+"Ingelheim hat gut doppelt so viele Einwohner wie Eltville am Rhein."
+],
+"24-oestrich-winkel": [
+"Landesgrenze: Oestrich-Winkel liegt in Hessen, Ingelheim in Rheinland-Pfalz.",
+"Ingelheim hat dreimal so viele Einwohner wie Oestrich-Winkel."
+],
+"25-geisenheim": [
+"Landesgrenze: Geisenheim liegt in Hessen, Ingelheim in Rheinland-Pfalz.",
+"Ingelheim hat gut dreimal so viele Einwohner wie Geisenheim."
+],
+"05-ruedesheim": [
+"Landesgrenze: Rüdesheim am Rhein liegt in Hessen, Ingelheim in Rheinland-Pfalz.",
+"Ingelheim hat dreieinhalbmal so viele Einwohner wie Rüdesheim am Rhein."
+],
+"06-lorch": [
+"Landesgrenze: Lorch liegt in Hessen, Ingelheim in Rheinland-Pfalz.",
+"Ingelheim hat neunmal so viele Einwohner wie Lorch."
+],
+"52-bingen": [
+"Ingelheim hat rund 9.500 Einwohner mehr als Bingen.",
+"Bingen und Ingelheim liegen beide im Landkreis Mainz-Bingen; Kreisstadt ist Ingelheim."
+]
+},
 "km_vom_vorigen": 11.6
 },
 {
@@ -16859,7 +20222,16 @@ window.QA_DATEN = {
 }
 ],
 "anschluss_von": "60-ingelheim",
-"anschluss": [],
+"anschluss": [
+"Kreisgrenze: Ingelheim gehört zum Landkreis Mainz-Bingen, Alzey zum Landkreis Alzey-Worms.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ingelheim die SPD, in Alzey die AfD."
+],
+"anschluesse": {
+"60-ingelheim": [
+"Kreisgrenze: Ingelheim gehört zum Landkreis Mainz-Bingen, Alzey zum Landkreis Alzey-Worms.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ingelheim die SPD, in Alzey die AfD."
+]
+},
 "km_vom_vorigen": 25.2
 },
 {
@@ -17050,9 +20422,26 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "54-alzey",
 "anschluss": [
-"Bundestagswahl 2025: In Nierstein wählten 86,3 Prozent, in Alzey 80,1.",
-"Einwohner: Alzey hat mehr als doppelt so viele wie Nierstein."
+"Alzey hat knapp zweieinhalbmal so viele Einwohner wie Nierstein.",
+"Kreisgrenze: Alzey gehört zum Landkreis Alzey-Worms, Nierstein zum Landkreis Mainz-Bingen."
 ],
+"anschluesse": {
+"64-ruesselsheim": [
+"Landesgrenze: Rüsselsheim liegt in Hessen, Nierstein in Rheinland-Pfalz.",
+"Rüsselsheim hat achtmal so viele Einwohner wie Nierstein."
+],
+"45-mainz": [
+"Kreisgrenze: Mainz ist kreisfrei, Nierstein gehört zum Landkreis Mainz-Bingen.",
+"Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Nierstein die CDU."
+],
+"62-oppenheim": [
+"Nierstein hat rund 900 Einwohner mehr als Oppenheim."
+],
+"54-alzey": [
+"Alzey hat knapp zweieinhalbmal so viele Einwohner wie Nierstein.",
+"Kreisgrenze: Alzey gehört zum Landkreis Alzey-Worms, Nierstein zum Landkreis Mainz-Bingen."
+]
+},
 "km_vom_vorigen": 20.6
 },
 {
@@ -17243,9 +20632,23 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "61-nierstein",
 "anschluss": [
-"Fläche: Oppenheim hat 7,1 km², Nierstein 19,34 km².",
-"1945 setzten US-Truppen zwischen Oppenheim und Nierstein über den Rhein."
+"Nierstein und Oppenheim gehören beide zur Verbandsgemeinde Rhein-Selz.",
+"Nierstein hat mehr als zweieinhalbmal so viel Fläche wie Oppenheim."
 ],
+"anschluesse": {
+"64-ruesselsheim": [
+"Landesgrenze: Rüsselsheim liegt in Hessen, Oppenheim in Rheinland-Pfalz.",
+"Rüsselsheim hat neunmal so viele Einwohner wie Oppenheim."
+],
+"45-mainz": [
+"Kreisgrenze: Mainz ist kreisfrei, Oppenheim gehört zum Landkreis Mainz-Bingen.",
+"Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Oppenheim die CDU."
+],
+"61-nierstein": [
+"Nierstein und Oppenheim gehören beide zur Verbandsgemeinde Rhein-Selz.",
+"Nierstein hat mehr als zweieinhalbmal so viel Fläche wie Oppenheim."
+]
+},
 "km_vom_vorigen": 2.2
 },
 {
@@ -17425,7 +20828,31 @@ window.QA_DATEN = {
 }
 ],
 "anschluss_von": "62-oppenheim",
-"anschluss": [],
+"anschluss": [
+"Worms hat gut zwölfmal so viele Einwohner wie Oppenheim.",
+"Kreisgrenze: Oppenheim gehört zum Landkreis Mainz-Bingen, Worms ist kreisfrei."
+],
+"anschluesse": {
+"40-mannheim": [
+"Landesgrenze: Mannheim liegt in Baden-Württemberg, Worms in Rheinland-Pfalz.",
+"Mannheim hat gut dreieinhalbmal so viele Einwohner wie Worms."
+],
+"20-bensheim": [
+"Landesgrenze: Bensheim liegt in Hessen, Worms in Rheinland-Pfalz.",
+"Worms hat gut doppelt so viele Einwohner wie Bensheim."
+],
+"63-frankenthal": [
+"Worms hat fast doppelt so viele Einwohner wie Frankenthal."
+],
+"56-ludwigshafen": [
+"Bundestagswahl 2025: In Ludwigshafen lag die AfD vorn, in Worms die CDU.",
+"Ludwigshafen hat doppelt so viele Einwohner wie Worms."
+],
+"62-oppenheim": [
+"Worms hat gut zwölfmal so viele Einwohner wie Oppenheim.",
+"Kreisgrenze: Oppenheim gehört zum Landkreis Mainz-Bingen, Worms ist kreisfrei."
+]
+},
 "km_vom_vorigen": 25.1
 },
 {
@@ -17616,9 +21043,27 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "55-worms",
 "anschluss": [
-"Frankenthals Stiftsgründer Erkenbert stammte aus dem Wormser Adel.",
-"Einwohner: Worms zählt fast doppelt so viele wie Frankenthal."
+"Worms und Frankenthal sind beide kreisfreie Städte.",
+"Bundestagswahl 2025: In Worms und in Frankenthal lag die CDU nur knapp vor der AfD."
 ],
+"anschluesse": {
+"40-mannheim": [
+"Landesgrenze: Mannheim liegt in Baden-Württemberg, Frankenthal in Rheinland-Pfalz.",
+"Mannheim hat fast siebenmal so viele Einwohner wie Frankenthal."
+],
+"41-ladenburg": [
+"Landesgrenze: Ladenburg liegt in Baden-Württemberg, Frankenthal in Rheinland-Pfalz.",
+"Frankenthal hat fast viermal so viele Einwohner wie Ladenburg."
+],
+"55-worms": [
+"Worms und Frankenthal sind beide kreisfreie Städte.",
+"Bundestagswahl 2025: In Worms und in Frankenthal lag die CDU nur knapp vor der AfD."
+],
+"56-ludwigshafen": [
+"Bundestagswahl 2025: In Ludwigshafen lag die AfD vorn, in Frankenthal die CDU.",
+"Ludwigshafen hat gut dreieinhalbmal so viele Einwohner wie Frankenthal."
+]
+},
 "km_vom_vorigen": 10.8
 },
 {
@@ -17788,7 +21233,44 @@ window.QA_DATEN = {
 }
 ],
 "anschluss_von": "63-frankenthal",
-"anschluss": [],
+"anschluss": [
+"Ludwigshafen hat gut dreieinhalbmal so viele Einwohner wie Frankenthal.",
+"Bundestagswahl 2025: In Frankenthal lag die CDU vorn, in Ludwigshafen knapp die AfD."
+],
+"anschluesse": {
+"38-hockenheim": [
+"Landesgrenze: Hockenheim liegt in Baden-Württemberg, Ludwigshafen in Rheinland-Pfalz.",
+"Bundestagswahl 2025: In Hockenheim lag die CDU vorn, in Ludwigshafen die AfD."
+],
+"39-schwetzingen": [
+"Landesgrenze: Schwetzingen liegt in Baden-Württemberg, Ludwigshafen in Rheinland-Pfalz.",
+"Bundestagswahl 2025: In Schwetzingen lag die CDU vorn, in Ludwigshafen die AfD."
+],
+"40-mannheim": [
+"Landesgrenze: Mannheim liegt in Baden-Württemberg, Ludwigshafen in Rheinland-Pfalz.",
+"Bundestagswahl 2025: In Mannheim lag die CDU vorn, in Ludwigshafen die AfD."
+],
+"41-ladenburg": [
+"Landesgrenze: Ladenburg liegt in Baden-Württemberg, Ludwigshafen in Rheinland-Pfalz.",
+"Bundestagswahl 2025: In Ladenburg lag die CDU vorn, in Ludwigshafen die AfD."
+],
+"17-weinheim": [
+"Landesgrenze: Weinheim liegt in Baden-Württemberg, Ludwigshafen in Rheinland-Pfalz.",
+"Bundestagswahl 2025: In Weinheim lag die CDU vorn, in Ludwigshafen die AfD."
+],
+"55-worms": [
+"Bundestagswahl 2025: In Worms lag die CDU vorn, in Ludwigshafen die AfD.",
+"Ludwigshafen hat doppelt so viele Einwohner wie Worms."
+],
+"63-frankenthal": [
+"Ludwigshafen hat gut dreieinhalbmal so viele Einwohner wie Frankenthal.",
+"Bundestagswahl 2025: In Frankenthal lag die CDU vorn, in Ludwigshafen knapp die AfD."
+],
+"57-speyer": [
+"Bundestagswahl 2025: In Speyer lag die CDU vorn, in Ludwigshafen die AfD.",
+"Ludwigshafen hat gut dreieinhalbmal so viele Einwohner wie Speyer."
+]
+},
 "km_vom_vorigen": 8.5
 },
 {
@@ -17959,9 +21441,35 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "56-ludwigshafen",
 "anschluss": [
-"Rosa Metzger aus Speyer hatte ihr Fotostudio in Ludwigshafen.",
-"Einwohner: Ludwigshafen hat mehr als dreimal so viele wie Speyer."
+"Ludwigshafen hat gut dreieinhalbmal so viele Einwohner wie Speyer.",
+"Bundestagswahl 2025: In Ludwigshafen lag die AfD knapp vorn, in Speyer die CDU."
 ],
+"anschluesse": {
+"36-graben-neudorf": [
+"Landesgrenze: Graben-Neudorf liegt in Baden-Württemberg, Speyer in Rheinland-Pfalz.",
+"Speyer hat viermal so viele Einwohner wie Graben-Neudorf."
+],
+"37-waghaeusel": [
+"Landesgrenze: Waghäusel liegt in Baden-Württemberg, Speyer in Rheinland-Pfalz.",
+"Speyer hat gut doppelt so viele Einwohner wie Waghäusel."
+],
+"38-hockenheim": [
+"Landesgrenze: Hockenheim liegt in Baden-Württemberg, Speyer in Rheinland-Pfalz.",
+"Speyer hat fast zweieinhalbmal so viele Einwohner wie Hockenheim."
+],
+"39-schwetzingen": [
+"Landesgrenze: Schwetzingen liegt in Baden-Württemberg, Speyer in Rheinland-Pfalz.",
+"Speyer hat gut doppelt so viele Einwohner wie Schwetzingen."
+],
+"40-mannheim": [
+"Landesgrenze: Mannheim liegt in Baden-Württemberg, Speyer in Rheinland-Pfalz.",
+"Mannheim hat fast siebenmal so viele Einwohner wie Speyer."
+],
+"56-ludwigshafen": [
+"Ludwigshafen hat gut dreieinhalbmal so viele Einwohner wie Speyer.",
+"Bundestagswahl 2025: In Ludwigshafen lag die AfD knapp vorn, in Speyer die CDU."
+]
+},
 "km_vom_vorigen": 18.3
 },
 {
@@ -18172,9 +21680,15 @@ window.QA_DATEN = {
 ],
 "anschluss_von": "57-speyer",
 "anschluss": [
-"Einwohner: Speyer und Landau zählen fast gleich viele Menschen.",
-"Fläche: Landau ist fast doppelt so groß wie Speyer."
+"Speyer und Landau sind fast gleich groß: rund 49.000 und 48.300 Einwohner.",
+"Landau hat fast doppelt so viel Fläche wie Speyer."
 ],
+"anschluesse": {
+"57-speyer": [
+"Speyer und Landau sind fast gleich groß: rund 49.000 und 48.300 Einwohner.",
+"Landau hat fast doppelt so viel Fläche wie Speyer."
+]
+},
 "km_vom_vorigen": 26.0
 }
 ]

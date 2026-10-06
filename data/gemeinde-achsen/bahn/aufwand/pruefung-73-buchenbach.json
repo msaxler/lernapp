@@ -1,0 +1,50 @@
+{
+ "stufe": "pruefung",
+ "ort": "73-buchenbach",
+ "prompt": "prompt-pruefung-v0.2.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 52246,
+ "token_ein": 48029,
+ "token_aus": 8652,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 41129,
+  "cache_read_input_tokens": 6898,
+  "output_tokens": 8652,
+  "output_tokens_details": {
+   "thinking_tokens": 4921
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 41129,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 8652,
+    "cache_read_input_tokens": 6898,
+    "cache_creation_input_tokens": 41129,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 41129
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.5034596,
+ "sekunden": 75,
+ "fehler": false,
+ "zeit": "2026-10-06T09:24:08"
+}

@@ -80,6 +80,8 @@ def main():
         reihe = kur.get('kartensatz', {}).get('reihe', {})
         pfad_b = os.path.join(iter_, 'anschluss-berichtigt.json')
         berichtigt = json.loads(lies(pfad_b)) if os.path.exists(pfad_b) else {}
+        pfad_u = os.path.join(iter_, 'anschluesse-umkreis.json')
+        umkreis = json.loads(lies(pfad_u))['anschluesse'] if os.path.exists(pfad_u) else {}
         orte, vorher = [], None
         # Reihenfolge der Fahrt: orte.json, wo es sie gibt (Raum bahn: Nummern 01–10 Messorte, 11–29 Ausbau), sonst Slug
         pfad_o = os.path.join(iter_, 'orte.json')
@@ -120,8 +122,15 @@ def main():
                 anschluss = b
             # der Prüfvermerk „(Namensteil)“ ist für den Faktencheck, nicht für den Bildschirm
             anschluss = [re.sub(r'\s*\(Namensteil\)\s*$', '', z) for z in anschluss]
+            # Anschlüsse in alle Richtungen (Mike 2026-10-07): gerechnete je Nachbarort im Umkreis, darüber die Handzeile
+            # für ihr Ortspaar; der Prototyp zeigt die, deren „von“ der zuvor gespielte Ort ist
+            anschluesse = {v: z for v, z in umkreis.get(slug, {}).items() if v in reihe_orte}
+            if isinstance(b, dict) and b.get('von') in reihe_orte:
+                anschluesse[b['von']] = [re.sub(r'\s*\(Namensteil\)\s*$', '', z) for z in b['zeilen']]
+            if anschluss and vorher:
+                anschluesse[vorher] = anschluss
             ort = {'slug': slug, 'name': g['name'], 'lat': g['lat'], 'lon': g['lon'], 'karten': karten,
-                   'anschluss_von': vorher, 'anschluss': anschluss}
+                   'anschluss_von': vorher, 'anschluss': anschluss, 'anschluesse': anschluesse}
             if vorher:
                 ort['km_vom_vorigen'] = round(km(grund[vorher], g), 1)
             orte.append(ort)

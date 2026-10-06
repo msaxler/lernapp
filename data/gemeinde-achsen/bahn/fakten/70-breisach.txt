@@ -1,0 +1,1045 @@
+ID: 70-breisach/001
+ENTITÄT: ort
+BEZEICHNUNG: Breisach am Rhein
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  alternative_bezeichnungen: Brisach am Rhin, Vieux-Brisach, Brisacum, Bresacum
+  lage: Oberrhein an der deutsch-französischen Grenze
+  entfernung_zu_colmar: ca. 20 km
+  entfernung_zu_freiburg: ca. 20 km
+  entfernung_zu_basel: ca. 60 km
+  entfernung_zu_strassburg: ca. 60 km
+  nahe_kaiserstuhl: true
+  jahresniederschlag_mm: 774
+  ist_europastadt: true
+  gueltig_ab_europastadt: 1950
+  gueltig_ab_namenszusatz_rhein: 1961
+  namenszusatz_rhein_seit: 27. Juni 1961
+  zerstoerung_prozent_1945: 85
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 70-breisach/002
+ENTITÄT: ort
+BEZEICHNUNG: Breisach am Rhein
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  ist_reichsstadt: true
+  war_reichsfestung: true
+  benannt_nach: keltischer Personenname *Brîsios, Landgut des Brîsios
+  namensherkunft: suffix -āko mit Besitzverhältnis-Ausdruck
+GUELTIG_AB: 1273
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/003
+ENTITÄT: stadt_teil
+BEZEICHNUNG: Gündlingen
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  eigenstaendig_bis: 1970er Jahre
+  eingemeindung: 1. April 1972
+  bestandteile: Dorf Gündlingen, Siedlung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/004
+ENTITÄT: stadt_teil
+BEZEICHNUNG: Niederrimsingen
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  eigenstaendig_bis: 1970er Jahre
+  eingemeindung: 1. April 1973
+  bestandteile: Dorf Niederrimsingen, Wohnplatz Ziegelei
+  telefonvorwahl: 07664
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/005
+ENTITÄT: stadt_teil
+BEZEICHNUNG: Oberrimsingen
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  eigenstaendig_bis: 1970er Jahre
+  eingemeindung: 1. Januar 1975
+  bestandteile: Dörfer Oberrimsingen und Grezhausen, Weiler Rothaus
+  grezhausen_eingemeindung: 1936
+  telefonvorwahl: 07664
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/006
+ENTITÄT: stadt_teil
+BEZEICHNUNG: Breisach (Kernstadt)
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  bestandteile: Stadt Breisach am Rhein, Dorf Hochstetten, Einzelhöfe und Wohnplätze
+  hochstetten_seit: Mittelalter als Filialort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/007
+ENTITÄT: gebaeude_kirche
+BEZEICHNUNG: Münster St. Stephan
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1185-1230
+  chor_neubau_ab: ca. 1275
+  stil: romanisch mit gotischen und spätgotischen Elementen
+  grundform: basilikale, kreuzförmige Anlage im gebundenen System
+  gemaelde_schoengauer: 1488-1491, Jüngstes Gericht, schuf Martin Schongauer
+  hochaltar: 1526, Signatur HL, wahrscheinlich Hans Loy
+  lettner: 1496, spätgotisch
+  sakramentshaus: um 1520
+  heiliggrabnische: um 1520/30
+  chorgestueh_geschnitzt: 1525-1527
+  kanzel: 1597, Renaissance-Elemente
+  zelebrationsaltar: 1996, schuf Franz Gutmann
+  reliquienschrein_heilige: Gervasius und Protasius, 1497, Peter Berlin
+  glasfenster_gestalter: Valentin Peter Feuerstein
+  beschaedigung_1945: schwer beschaedigt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 70-breisach/008
+ENTITÄT: gebaeude_festungstor
+BEZEICHNUNG: Rheintor
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: ca. 1678
+  erbauer: Jacques Tarade
+  stil: barock
+  charakterisierung: eines der schönsten noch erhaltenen barocken Festungstore Europas
+  aktuelle_nutzung: Museum für Stadtgeschichte
+  museum_flaeche_qm: 400
+GUELTIG_AB: 1678
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/009
+ENTITÄT: gebaeude_festungstor
+BEZEICHNUNG: Kupfertor
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1641-1643
+  zweck: Festungsausbau
+  beschaedigung_1793: schwer beschaedigt
+  wiederaufbau: 1844 in vereinfachter Form
+  zeitweise_nutzung: Wachlokal
+  nutzung_1893_1918: Garnisonsdepot
+  aktuelle_nutzung: Sitz zweier Narrengruppen aus Breisach
+GUELTIG_AB: 1641
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/010
+ENTITÄT: gebaeude_tor
+BEZEICHNUNG: Gutgesellentor
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1402
+  namensherkunft: nach Wächterfamilie
+  ereignis_1415: Festnahme von Gegenpapst Johannes XXIII. am 29. April 1415
+  obergeschoss_nutzung: Narrenzunftstube
+GUELTIG_AB: 1402
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/011
+ENTITÄT: gebaeude_turm
+BEZEICHNUNG: Hagenbachturm
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  benannt_nach: Peter von Hagenbach, burgundischer Landvogt
+  ereignis_1474: Hagenbach war vom 11. April bis 9. Mai 1474 hier gefangen
+  hagenbach_verurteilung_hinrichtung: 1474
+GUELTIG_AB: 1474
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/012
+ENTITÄT: gebaeude_tor
+BEZEICHNUNG: Kapftor
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  namensherkunft: kaphe = Ausblick
+  erbaut: vermutlich 12. Jahrhundert
+  militaerische_nutzung: 1895-1912 militärisches Arrestlokal
+  aktuelle_nutzung: städtisches Wohngebäude
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 70-breisach/013
+ENTITÄT: gebaeude_turm
+BEZEICHNUNG: Tullaturm
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1874
+  errichtung_anlass: zu Ehren des badischen Ingenieurs Johann Gottfried Tulla
+  hoehe_meter: 16
+  denkmalschutz: ja
+  lage: auf Areal der mittelalterlichen Burganlage
+  nutzung: Aussichtsturm (an Tagen des offenen Denkmals)
+GUELTIG_AB: 1874
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/014
+ENTITÄT: gebaeude_brunnen
+BEZEICHNUNG: Radbrunnen
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  tiefe_meter: ueber 40
+  erbaut: bis 1218 unter Berthold V.
+  zweck: Versorgung mit Trinkwasser bei Belagerungen
+  ereignis_1474: Gerichtliche Untersuchung zum Fall Hagenbach fand hier statt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/015
+ENTITÄT: gebaeude_kapelle
+BEZEICHNUNG: Verenenkapelle
+ORTSTEIL_BEZUG: Hochstetten
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1139
+  zerstoerung_1676: durch französische Truppen
+  zerstoerung_1799: durch französische Truppen
+  wiederaufbau: 1818 mit Schulhaus-Anbau
+  schulbetrieb_bis: 1869
+  heilige: Heilige Verena
+  glocke: aus Jahr 1895
+GUELTIG_AB: 1139
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/016
+ENTITÄT: gebaeude_kirche
+BEZEICHNUNG: ehemalige Spitalkirche St. Martin
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  heiliggeistspital_erste_erwaehnung: 1301
+  heiliggeistspital_verlagerung: um 1675
+  lage_heiliggeistspital_neu: beim Rheintor
+  vorgaenger: Kornhaus des 1525 aufgehobenen Zisterziennerinnenklosters Marienau
+  kirchenweihung: St. Martin
+  erneuerung_18_jhd: ja
+  neubau_1834_1842: Krankenhaus unter Pantaleon Rosmann
+  zweck: Krankenhaus für Kranke, Arme, Alte und Waisen
+  pflegung_ab_1853: durch Orden der Barmherzigen Schwestern vom Hl. Vinzenz von Paul
+  beschaedigung_1945: völlig zerstört, nur Außenmauern erhalten
+  wiederaufbau: 1966 als städtischer Veranstaltungsraum
+  glockenspiel: seit 1990 im Dachreiter
+  gemalde: Pompeijanisches Grab von Bernhard Metzger (2001)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/017
+ENTITÄT: gebaeude_kirche
+BEZEICHNUNG: Martin-Bucer-Kirche
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  erbaut_nach_wwii: ja, einzige am Kaiserstuhl
+  architekt: Hans-Dieter Poppe, Freiburg
+  einweihung: Mai 1968
+  stil: achteckiger Bau mit großem Zeltdach ohne Turm
+  orgel: historische Stieffel-Orgel von 1826
+  benannt_nach: Martin Bucer, elsässischer Reformator
+  benennungsjahr: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/018
+ENTITÄT: gebaeude_sonstiges
+BEZEICHNUNG: Blaues Haus
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: vor 1691
+  urspruengliche_nutzung: jüdisches Gemeindehaus
+  aktuelle_nutzung: Erinnerungs- und Begegnungszentrum
+  schwerpunkt: jüdische Geschichte in der Region
+  denkmal_des_monats: März 2004, Denkmalstiftung Baden-Württemberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/019
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Marienau
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1250
+  gruendungsort: Stelle des zähringischen Ministerialenhofes der Familie von Tunsel
+  ordenstyp: Zisterzienserinnenkloster
+  beruende_personen: Selige Bertha (geb. elsaessische Adelsfamilie)
+  bertha_todesjahr: 1304
+  gruendung_dominikanerinnenkloster: Bertha gründete später St. Anna in Freiburg
+  grundbesitz: erheblich in Breisach, Breisgau und Elsass
+  wirtschaftshof_lage: zwischen Marktplatz und Eckartsberg
+  zerstoerung: 1525 im Bauernkrieg, bis auf Grundmauern abgebrochen
+  klosterfriedhof_aufhebung: 1632
+GUELTIG_AB: 1250
+GUELTIG_BIS: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/020
+ENTITÄT: burg
+BEZEICHNUNG: Burg Breisach
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  erbauung_ab: bis 1218 unter Berthold V.
+  erbauer: Zähringer Herzog Berthold
+  lage: Nordseite des Berges
+  status: abgegangen
+GUELTIG_AB: 1198
+GUELTIG_BIS: unbekannt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 70-breisach/021
+ENTITÄT: burg
+BEZEICHNUNG: Burg Üsenberg
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lage_gemarkung: Gemarkung Breisach
+  status: abgegangen
+GUELTIG_AB: Mittelalter
+GUELTIG_BIS: unbekannt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 70-breisach/022
+ENTITÄT: burg
+BEZEICHNUNG: Burg Alzenach
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lage_gemarkung: Gemarkung Gündlingen
+  status: abgegangen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 70-breisach/023
+ENTITÄT: abgegangener_ort
+BEZEICHNUNG: Alzenach
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lage_gemarkung: Gemarkung Gündlingen
+  status: abgegangen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 70-breisach/024
+ENTITÄT: abgegangener_ort
+BEZEICHNUNG: Egelfingen
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lage_gemarkung: Gemarkung Gündlingen
+  status: abgegangen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 70-breisach/025
+ENTITÄT: abgegangener_ort
+BEZEICHNUNG: Achheim
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lage_gemarkung: Gemarkung Oberrimsingen
+  status: abgegangen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 70-breisach/026
+ENTITÄT: abgegangener_ort
+BEZEICHNUNG: Bonhoven
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lage_gemarkung: Gemarkung Oberrimsingen
+  identitaet_unsicher: möglicherweise identisch mit Boningen
+  status: abgegangen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 70-breisach/027
+ENTITÄT: abgegangener_ort
+BEZEICHNUNG: Geitenheim
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lage_gemarkung: Gemarkung Oberrimsingen
+  status: abgegangen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 70-breisach/028
+ENTITÄT: abgegangener_ort
+BEZEICHNUNG: Grüningen
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lage_gemarkung: Gemarkung Oberrimsingen (nicht mit Sicherheit)
+  status: abgegangen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 70-breisach/029
+ENTITÄT: abgegangener_ort
+BEZEICHNUNG: Leidenhofen
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lage_gemarkung: Gemarkung Oberrimsingen
+  status: abgegangen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 70-breisach/030
+ENTITÄT: museum
+BEZEICHNUNG: Museum für Stadtgeschichte
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lage: Rheintor
+  flaeche_qm: 400
+  chronologische_spanne: Steinzeit bis Gegenwart
+  sammlung_arte: Exponaten, Dokumente, Bilder, archäologische Objekte, Münsterschatz-Teile, Gemälde, Festungsmodelle
+  geraeudesonderausstellungen: wechselnde zu Themen der jüngeren Stadtgeschichte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/031
+ENTITÄT: galerie
+BEZEICHNUNG: Galerie KUNSTWERK
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lage: Leopoldschanze
+  dauerausstellung_maler: Gerard Marcel Meyer, Jean-Marie Liesenfeld, Wolfgang Schäfer, Leo Beck (Le Leonard)
+  dauerausstellung_skulpturen: Ute Rupprecht, Matthias Stauss
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 70-breisach/032
+ENTITÄT: galerie
+BEZEICHNUNG: Atelier Ari Nahor
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  inhalt: Fotokunst und Fotografie-Ausstellungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 70-breisach/033
+ENTITÄT: galerie
+BEZEICHNUNG: Kunstkeramik Werkstattgemeinschaft Suzuki
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  inhalt: Kunstkeramik
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 70-breisach/034
+ENTITÄT: theater_kulturveranstaltung
+BEZEICHNUNG: Festspiele Breisach
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1924
+  spielstaette_1924_1961: Münsterplatz vor Münster St. Stephan
+  spielstaette_ab_1962: Schlossplatz mit feststehender Anlage
+  ueberdachte_sitzplaetze: 748
+  spielzeit: Juni bis September
+  spielplan_struktur: eine abendfüllende Inszenierung plus ein Kinderstück
+  beispiel_2008: Die Kameliendame, Das Dschungelbuch
+  besucher_2008: ueber 15000
+  beispiel_2009: Anatevka, Die chinesische Nachtigall
+  beispiel_2010: Mord im Pfarrhaus, Die kleine Meerjungfrau
+  beispiel_2011: Der Graf von Monte Christo
+  beispiel_junge_theater_2011: Der Teufel mit den drei goldenen Haaren
+  besucherrekord_2018: 19757 Besucher mit Dracula und Aladin
+  ensemble: aus Vereinsmitgliedern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/035
+ENTITÄT: theater_sonstiges
+BEZEICHNUNG: Kleinkunstbühne Schloss Rimsingen
+ORTSTEIL_BEZUG: Oberrimsingen
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  programm: Kabarett, Theater, Shows, Musik mit bekannten und regionalen Künstlern
+  zusatzveranstaltung: Kunst- und Kunsthandwerkermärkte im Schlosshof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 70-breisach/036
+ENTITÄT: jugendherberge
+BEZEICHNUNG: Breisacher Jugendherberge
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lage: direkt am Rhein, wenige Gehminuten vom Bahnhof und Innenstadt
+  betten: 158
+  angebote: Sport- und Freizeitmöglichkeiten
+  funktion_2: deutsch-französische Schülerbegegnungsstätte
+  nutzung_schulklassen: Gemeinschaftsprojekte deutscher und französischer Schulklassen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/037
+ENTITÄT: gebaeude_gedenk
+BEZEICHNUNG: Obelisk Eckartsberg
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: 1851
+  lage: Eckartsberg südlich der Breisacher Altstadt
+  anlass: Erinnerung an Übergang Breisachs und des Breisgaus an Großherzogtum Baden 1806
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/038
+ENTITÄT: gebaeude_gedenk
+BEZEICHNUNG: Europafahne Breisach
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: um 1950
+  lage: bei Breisacher Altstadt
+  anlass: Erinnerung an Breisacher Europa-Abstimmung vom 9. Juli 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 70-breisach/039
+ENTITÄT: buergermeister
+BEZEICHNUNG: Josef Bueb
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1948-1962
+  partei: SPD
+  geburtsjahr: 1897
+  todesjahr: 1974
+  status_spaeter: Bürgermeister i.R., Ehrenbürger 1963
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/040
+ENTITÄT: buergermeister
+BEZEICHNUNG: Fritz Schanno
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1962-1982
+  partei: CDU
+  geburtsjahr: 1918
+  todesjahr: 2017
+  status_spaeter: Bürgermeister i.R., Ehrenbürger 1984
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/041
+ENTITÄT: buergermeister
+BEZEICHNUNG: Alfred Vonarb
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1982-2006
+  partei: CDU
+  status_spaeter: Bürgermeister i.R., Ehrenbürger 2006
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/042
+ENTITÄT: buergermeister
+BEZEICHNUNG: Oliver Rein
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit_beginn: seit 2006
+  partei: CDU seit 2008, davor parteilos
+  wiederwahl_2014: 71% der Stimmen
+  wiederwahl_2022: 96% der Stimmen
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/043
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Saint-Louis
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Département Haut-Rhin
+  eigenschaft: Nachbarstadt von Basel
+  partnerschaft_seit: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/044
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Pürgg-Trautenfels
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  land: Österreich
+  region: Steiermark
+  partnergemeinde_mit: Stadtteil Niederrimsingen
+  partnerschaft_seit: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/045
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Neuf-Brisach
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Département Haut-Rhin
+  lage: Sichtweite auf der anderen Seite des Rheins
+  beschreibung: Neu-Breisach, von Vauban 1699-1703 gebaut als Ersatz für Breisach nach Frieden von Rijswijk
+  partnerschaft_seit: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/046
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Oświęcim (Auschwitz)
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  land: Polen
+  partnerschaft_seit: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/047
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Rheinbegradigung
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  durchfuehrer: Johann Gottfried Tulla
+  auswirkung: Berg von Breisach lag bis dahin bei Hochwasser teilweise im Rhein
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/048
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Breisacher Europa-Abstimmung
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  datum: 9. Juli 1950
+  inhalt: Abstimmung für einiges und freies Europa
+  zustimmung_prozent: 95,6
+  konsequenz: Breisach nennt sich seit dem Europastadt
+  offizieller_zusatz_seit: 1. Oktober 2023
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 70-breisach/049
+ENTITÄT: militaer_belagerung
+BEZEICHNUNG: Belagerung Breisachs im Dreißigjährigen Krieg 1633
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  belagerer: Rheingraf Otto Ludwig mit schwedischem Heer
+  beginn: 9. Juli 1633
+  befreiung_durch: bayerisches Heer der Katholischen Liga unter Johann von Aldringen plus spanisches Heer unter Herzog Feria
+  befreiung_datum: 20. Oktober 1633
+  festungsbesatzung: 3000 Garnisonssoldaten
+  kanonen: 152
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/050
+ENTITÄT: militaer_belagerung
+BEZEICHNUNG: Belagerung Breisachs durch Bernhard von Sachsen-Weimar 1638
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  belagerer: Bernhard von Sachsen-Weimar mit französisch-schwedischem Heer
+  beginn: Juni 1638
+  verlauf: Belagerung andauernde Hungersnot
+  aussenwerk_fall: 28. Oktober 1638
+  pulvermagazin_explosion: 3. Dezember
+  kapitulation: 17. Dezember 1638
+  ueberlebende_bewohner: ca. 150 von ca. 4000
+  todesfaelle_grund: Hunger und Pest
+  festungskommandant: Freiherr von Reinach
+  verbleibende_soldaten_hinrichtung: 400 ehrenhaft nach Straßburg
+  festungsuebergabe_franz: 18. Juli 1639 nach Bernhard von Weimars Tod
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 70-breisach/051
+ENTITÄT: militaer_belagerung
+BEZEICHNUNG: Belagerung Alt-Breisachs im Spanischen Erbfolgekrieg 1703
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  angreifer: französisches Heer unter Herzog von Burgund Louis de France (Petit Dauphin) und Marschall Tallard
+  festungsbauer: Marschall Vauban
+  beginn: Ende August 1703
+  kapitulation: 6. September 1703
+  festungskommandant: Graf Philipp von Arco
+  verurteilung_arco: Kriegsgericht verurteilte von Arco
+  hinrichtung_arco: 14. Februar 1704 auf Marktplatz von Bregenz
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/052
+ENTITÄT: militaer_belagerung
+BEZEICHNUNG: Belagerung Breisachs in den Revolutionskriegen 1793
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  belagerer: Franzosen
+  kanonade_zeitraum: 15. bis 19. September 1793
+  zerstoerung_haeuser: 577
+  einwohner_betroffene: ca. 2700
+  beschreibung_zeitgenoss: Schweizer Zeitung: Stadt hat aufgehört zu bestehen, Blitz vernichtet sie
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/053
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Allierter Rheinübergang bei Breisach 1945
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: Frühjahr 1945
+  folge: Stadt durch Artilleriefeuer zu 85% zerstört
+  gebaeude_beschaedigung: auch Münster St. Stephan schwer beschaedigt
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/054
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Novemberpogrom 1938
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  taetern: SA-Männer
+  ziel: Synagoge in Rheintorstraße / Im Klösterle
+  gedenken: Mahnmal und Tafel am Standort
+  festnahmen_juden: ca. 60
+  haft_kz_dachau: ca. 30 für einige Wochen
+  auswanderung_bis_1940: ca. 150 Juden in die USA
+  vertriebene_nach_rouffach: kurzzeitig nach Württemberg, dann im Sommer 1940 nach Rouffach Elsass
+  wagner_buerckel_aktion_1940: 22. Oktober, letzte juden deportiert nach Lager Gurs
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/055
+ENTITÄT: infrastruktur_eisenbahn
+BEZEICHNUNG: Breisacher Bahn
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  verbindung: nach Freiburg im Breisgau
+  betreiber: Breisgau-S-Bahn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/056
+ENTITÄT: infrastruktur_eisenbahn
+BEZEICHNUNG: Kaiserstuhlbahn
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  verbindung: nach Riegel am Kaiserstuhl
+  betreiber: Südwestdeutsche Verkehrs-AG (SWEG)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/057
+ENTITÄT: infrastruktur_bus
+BEZEICHNUNG: Buslinie 31
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Freiburger Verkehrs AG (VAG)
+  verbindung: nach Freiburg
+  route_stadtteile: Hochstetten, Gündlingen, Ober- und Niederrimsingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/058
+ENTITÄT: infrastruktur_bus
+BEZEICHNUNG: Buslinie R26 (68R026)
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  verbindung: nach Neu-Breisach und Colmar
+  grenzueberquerung: über Rhein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/059
+ENTITÄT: infrastruktur_radweg
+BEZEICHNUNG: Rheinradweg rechtsrheinische Variante
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: von Oberalppass Schweizer Graubünden bis Rotterdam
+  durch_breisach: ja, über Neuenburg, Grißheim, Breisach, Weisweil
+  eurovelo_bezeichnung: Eurovelo-Route 15
+  d_route_bezeichnung: D-Route 8 (Rhein-Route)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/060
+ENTITÄT: infrastruktur_strasse
+BEZEICHNUNG: Bundesstraße 31
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  verbindung: nach Lindau Bodensee
+  verbindung_französisch: D 415 nach Colmar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/061
+ENTITÄT: infrastruktur_ferienstrasse
+BEZEICHNUNG: Grüne Straße
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  startpunkt: Contrexéville Vogesen
+  verbindungspunkt: Breisach über Rheinbrücke
+  endpunkt: Lindau
+  weitere_benennung: Route Verte in Vogesen, Grüne Straße in Nordroute
+  verbindung_im_elsass: Vogelgrun, Völgelsheim, Neuf-Brisach, Colmar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/062
+ENTITÄT: unternehmen_wein
+BEZEICHNUNG: Badischer Winzerkeller eG
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Europas größte Erzeuger-Weinkellerei
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/063
+ENTITÄT: unternehmen_wein
+BEZEICHNUNG: Gräflich von Kageneck'sche Wein- und Sektkellerei
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  produktion: Wein und Sekt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 70-breisach/064
+ENTITÄT: unternehmen_sekt
+BEZEICHNUNG: Geldermann Privatsektkellerei
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  mutterkonzern: Rotkäppchen-Mumm Sektkellereien
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 70-breisach/065
+ENTITÄT: unternehmen_bank
+BEZEICHNUNG: Sparkasse Staufen-Breisach
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  typ: Sparkasse
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/066
+ENTITÄT: unternehmen_bank
+BEZEICHNUNG: Volksbank Breisgau-Markgräflerland eG
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  typ: Volksbank
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/067
+ENTITÄT: unternehmen_sonstiges
+BEZEICHNUNG: Tapetenfabrik Erismann & Cie.
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  produktion: Tapeten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 70-breisach/068
+ENTITÄT: unternehmen_sonstiges
+BEZEICHNUNG: GEISMAR Gleisbaumaschinen GmbH
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  produktion: Gleisbaumaschinen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/069
+ENTITÄT: unternehmen_sonstiges
+BEZEICHNUNG: Südglas EG
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  taetigkeiten: Sortieren, Reinigen, Vertrieb von Getränkeflaschen und Verschlüssen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 70-breisach/070
+ENTITÄT: unternehmen_sonstiges
+BEZEICHNUNG: Birkenmeier Stein + Design
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  produktbereich: Stein und Design
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 70-breisach/071
+ENTITÄT: unternehmen_sonstiges
+BEZEICHNUNG: Kleyling Spedition GmbH
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  dienstleistung: Spedition
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 70-breisach/072
+ENTITÄT: behoerde
+BEZEICHNUNG: Amtsgericht Breisach
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  uebergeordnet_landgericht: Freiburg im Breisgau
+  uebergeordnet_olg: Karlsruhe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/073
+ENTITÄT: behoerde
+BEZEICHNUNG: Notariat Breisach
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  standort: Breisach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/074
+ENTITÄT: behoerde
+BEZEICHNUNG: Außenstelle Landratsamt Breisgau-Hochschwarzwald
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  lage: ehemalige Kasernengelände Europaplatz
+  fachbereiche: Vermessung & Geoinformation, Flurneuordnung & Landentwicklung, Landwirtschaft mit Fachschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/075
+ENTITÄT: behoerde
+BEZEICHNUNG: Polizeirevier Breisach
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  typ: Polizeirevier
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/076
+ENTITÄT: behoerde
+BEZEICHNUNG: Straßenmeisterei Breisach
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  standort: Breisach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/077
+ENTITÄT: behoerde
+BEZEICHNUNG: Wasser- und Schifffahrtsamt Breisach
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  standort: Breisach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/078
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Walther von Breisach
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Dichter
+  lebensdaten: 1256-1300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/079
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Martin Schongauer
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Maler
+  lebensdaten: 1450-1491
+  todesstelle: Breisach
+  werke_breisach: Jüngstes Gericht im Münster St. Stephan 1488-1491
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/080
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Peter von Hagenbach
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  beruf: burgundischer Landvogt
+  lebensdaten_ende: 1474
+  lebensort_teils: Breisach
+  hinrichtung_ort: Breisach
+  hinrichtung_grund: Eingriffen in verbriefte Rechte, Sittlichkeitsverbrechen
+  hinrichtung_datum: 1474
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/081
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Sébastien Le Prestre de Vauban
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  beruf: französischer Festungsbaumeister
+  lebensdaten: 1633-1707
+  taetigkeiten_breisach: Festungsausbau Breisachs, Bau von Neuf-Brisach
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/082
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Jacques Tarade
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  beruf: französischer Festungsbauer
+  lebensdaten: 1640-1722
+  werke_breisach: Erbau des Rheintors ca. 1678
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/083
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Julius Leber
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  beruf: deutscher Politiker und Widerstandskämpfer
+  lebensdaten: 1891-1945
+  schulbesuch_ort: Breisach
+  lehre_ort: Breisach kaufmännisch
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/084
+ENTITÄT: persoenlichkeit_aktuell
+BEZEICHNUNG: Oliver Baumann
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Fußballtorwart
+  geburtsjahr: 1990
+  herkunftsort: Breisach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 70-breisach/085
+ENTITÄT: junge_gemeinde_geschichte
+BEZEICHNUNG: jüdische Gemeinde Breisach
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  geschichte_dauer: ueber 700 Jahre
+  mitglieder_ende_19_jhd: ueber 500
+  opfer_holocaust: ca. 121 jüdische Breisacher
+  gemaeindehaus: Blaues Haus (vor 1691 erbaut)
+  synagoge_standort: Rheintorstraße / Im Klösterle
+  synagoge_zerstoerung: November 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 70-breisach/086
+ENTITÄT: tourismus
+BEZEICHNUNG: Tourismusarbeit Breisach
+QUELLE: https://de.wikipedia.org/wiki/Breisach_am_Rhein | Wikipedia
+EIGENSCHAFTEN:
+  entwicklung_zeitraum: letzten 15-20 Jahre zu wichtigem Wirtschaftszweig
+  uebernaechtigungen_2010: 160000
+  gaeste_2010: 60000
+  tagestouristen_jährlich: ca. 650000
+  ausländischer_gaesteanteil_prozent: ca. 20
+  beschaeftigte: ca. 335 in Vollzeit
+  organisationen: Breisach-Touristik, Kaiserstuhl-Tuniberg Tourismus e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

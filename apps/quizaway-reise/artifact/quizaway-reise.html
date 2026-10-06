@@ -621,8 +621,11 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     $('a-quelle').textContent = 'Quelle: ' + k.quelle;
     $('a-vermerk').hidden = k.faktencheck !== 'unsicher';
     $('a-vermerk').textContent = 'Faktencheck: unsicher – belegt nur durch eine Quelle.';
-    // Anschluss nur, wenn der davor gespielte Ort der ist, auf den er sich bezieht (er hängt am Ortspaar)
-    var an = (ersteHier && vorige && vorige !== o.slug && vorige === o.anschluss_von && o.anschluss.length) ? o.anschluss[0] : '';
+    // Anschluss hängt am Ortspaar: der zum davor gespielten Ort, aus welcher Richtung auch immer (Mike 2026-10-07);
+    // ältere Daten haben nur den einen Anschluss an den Vorgänger der Reihe
+    var paar = (o.anschluesse && vorige) ? o.anschluesse[vorige] : null;
+    if(!paar && vorige === o.anschluss_von) paar = o.anschluss;
+    var an = (ersteHier && vorige && vorige !== o.slug && paar && paar.length) ? paar[0] : '';
     $('a-anschluss').hidden = !an; $('a-anschluss-text').textContent = an;
     fahrt.log.push({ ort: o.slug, name: o.name, karte: k.id, familie: k.familie, sorte: k.sorte, status: status, antwort: antwort,
                      loesung: z.loesung, aussagen: z.optionen.length, sekunden: Math.round((Date.now() - t0) / 1000), anschluss: !!an,

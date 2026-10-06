@@ -1,5 +1,5 @@
 {
- "_doc": "Anschlüsse des Raums bahn je Ortspaar (Regel Mike 2026-10-03: Alltagssprache, beide Orte beim Namen, gesagt wird, was verglichen wird). Jeder Eintrag nennt unter \"von\" den Vorgänger auf der Fahrt; der Export zeigt ihn nur, wenn das der Ort davor ist. Nach dem Ausbau auf 29 Orte (2026-10-03) haben sieben Messorte einen neuen Vorgänger; ihre Anschlüsse sind neu aus grunddaten.json gerechnet. Kennzeichen aus Wikidata sind unzuverlässig (Bühl „OG“, Lahr „LR“, St. Goarshausen „TR“); Anschlüsse vergleichen deshalb den Landkreis, wo das Kennzeichen nicht gesichert ist. Geprüft: Rastatt und Lahr mit AfD vorn (Pressemitteilung Stadt Rastatt; Schwarzwälder Bote zu Lahr, 31,4 %, Beteiligung 75,1 %). Ausbau Rheintal (2026-10-06): Friesenheim und Appenweier eingeschoben; Offenburg und Achern haben neue Vorgänger, ihre Anschlüsse sind neu aus grunddaten.json gerechnet. Ausbau Rheinbahn (2026-10-06): Renchen und Durmersheim … Ladenburg eingeschoben; Achern und Weinheim haben neue Vorgänger, alle Anschlüsse aus grunddaten.json gerechnet.",
+ "_doc": "Anschlüsse des Raums bahn je Ortspaar (Regel Mike 2026-10-03: Alltagssprache, beide Orte beim Namen, gesagt wird, was verglichen wird). Jeder Eintrag nennt unter \"von\" den Vorgänger auf der Fahrt; der Export zeigt ihn nur, wenn das der Ort davor ist. Nach dem Ausbau auf 29 Orte (2026-10-03) haben sieben Messorte einen neuen Vorgänger; ihre Anschlüsse sind neu aus grunddaten.json gerechnet. Kennzeichen aus Wikidata sind unzuverlässig (Bühl „OG“, Lahr „LR“, St. Goarshausen „TR“); Anschlüsse vergleichen deshalb den Landkreis, wo das Kennzeichen nicht gesichert ist. Geprüft: Rastatt und Lahr mit AfD vorn (Pressemitteilung Stadt Rastatt; Schwarzwälder Bote zu Lahr, 31,4 %, Beteiligung 75,1 %). Ausbau Rheintal (2026-10-06): Friesenheim und Appenweier eingeschoben; Offenburg und Achern haben neue Vorgänger, ihre Anschlüsse sind neu aus grunddaten.json gerechnet. Ausbau Rheinbahn (2026-10-06): Renchen und Durmersheim … Ladenburg eingeschoben; Achern und Weinheim haben neue Vorgänger, alle Anschlüsse aus grunddaten.json gerechnet. Ausbau 06./07.10.: Anschlüsse für Rhein-Main, linke Rheinstrecke, Rheinhessen/Pfalz, Kaiserstuhl und Dreisamtal; Breisach→Stegen und Titisee-Neustadt→Emmendingen bewusst ohne Anschluss (keine Fahrt).",
  "01-kenzingen": {
   "von": "11-emmendingen",
   "zeilen": [
@@ -91,17 +91,17 @@
   ]
  },
  "22-langen": {
-  "von": "21-zwingenberg",
+  "von": "43-darmstadt",
   "zeilen": [
-   "Kreisgrenze: In Zwingenberg steht HP am Auto, in Langen OF.",
-   "Langen hat gut fünfmal so viele Einwohner wie Zwingenberg."
+   "Kreisgrenze: Darmstadt ist kreisfrei, Langen gehört zum Landkreis Offenbach.",
+   "Darmstadt hat gut viermal so viele Einwohner wie Langen."
   ]
  },
  "23-walluf": {
-  "von": "22-langen",
+  "von": "46-wiesbaden",
   "zeilen": [
-   "Langen hat rund 39.000 Einwohner, Walluf nur etwa 5.500.",
-   "Bundestagswahl 2025: In Walluf wählten 88 Prozent, in Langen 83."
+   "Wiesbaden hat mehr als fünfzigmal so viele Einwohner wie Walluf.",
+   "Kreisgrenze: Wiesbaden ist kreisfrei, Walluf gehört zum Rheingau-Taunus-Kreis."
   ]
  },
  "04-eltville": {
@@ -275,6 +275,230 @@
   "zeilen": [
    "Mannheim hat rund 25-mal so viele Einwohner wie Ladenburg.",
    "Bundestagswahl 2025: Auf Platz zwei kamen in Ladenburg die Grünen, in Mannheim die SPD."
+  ]
+ },
+ "66-gottenheim": {
+  "von": "65-march",
+  "zeilen": [
+   "March hat fast dreimal so viele Einwohner wie Gottenheim.",
+   "Bundestagswahl 2025: In March und in Gottenheim lag die CDU vorn, mit 31,4 und 33,8 Prozent."
+  ]
+ },
+ "67-boetzingen": {
+  "von": "66-gottenheim",
+  "zeilen": [
+   "Bötzingen hat gut anderthalbmal so viele Einwohner wie Gottenheim.",
+   "Gottenheim und Bötzingen gehören beide zum Gemeindeverwaltungsverband Kaiserstuhl-Tuniberg."
+  ]
+ },
+ "68-eichstetten": {
+  "von": "67-boetzingen",
+  "zeilen": [
+   "Bötzingen hat rund 1.800 Einwohner mehr als Eichstetten.",
+   "Bundestagswahl 2025: Auf Platz zwei kam in Bötzingen die SPD, in Eichstetten die AfD."
+  ]
+ },
+ "69-ihringen": {
+  "von": "68-eichstetten",
+  "zeilen": [
+   "Ihringen hat gut anderthalbmal so viele Einwohner wie Eichstetten.",
+   "Ihringen hat fast doppelt so viel Fläche wie Eichstetten: 23 und gut 12 Quadratkilometer."
+  ]
+ },
+ "70-breisach": {
+  "von": "69-ihringen",
+  "zeilen": [
+   "Breisach hat gut zweieinhalbmal so viele Einwohner wie Ihringen.",
+   "Breisach ist eine Stadt, Ihringen eine Gemeinde; beide bilden eine Verwaltungsgemeinschaft."
+  ]
+ },
+ "72-oberried": {
+  "von": "71-stegen",
+  "zeilen": [
+   "Oberried hat zweieinhalbmal so viel Fläche wie Stegen, aber nicht einmal zwei Drittel der Einwohner.",
+   "Stegen und Oberried gehören beide zum Gemeindeverwaltungsverband Dreisamtal."
+  ]
+ },
+ "73-buchenbach": {
+  "von": "72-oberried",
+  "zeilen": [
+   "Bundestagswahl 2025: In Oberried kam die CDU auf 42,4 Prozent, in Buchenbach auf 32,7.",
+   "Oberried und Buchenbach gehören beide zum Gemeindeverwaltungsverband Dreisamtal."
+  ]
+ },
+ "74-hinterzarten": {
+  "von": "73-buchenbach",
+  "zeilen": [
+   "Hinterzarten liegt fast doppelt so hoch wie Buchenbach: rund 885 und 450 Meter.",
+   "Bundestagswahl 2025: In Buchenbach und in Hinterzarten kamen die Grünen auf Platz zwei."
+  ]
+ },
+ "75-titisee-neustadt": {
+  "von": "74-hinterzarten",
+  "zeilen": [
+   "Titisee-Neustadt hat rund fünfmal so viele Einwohner wie Hinterzarten.",
+   "Titisee-Neustadt hat gut zweieinhalbmal so viel Fläche wie Hinterzarten."
+  ]
+ },
+ "42-seeheim-jugenheim": {
+  "von": "21-zwingenberg",
+  "zeilen": [
+   "Kreisgrenze: In Zwingenberg steht HP am Auto, in Seeheim-Jugenheim DA.",
+   "Seeheim-Jugenheim hat mehr als doppelt so viele Einwohner wie Zwingenberg."
+  ]
+ },
+ "43-darmstadt": {
+  "von": "42-seeheim-jugenheim",
+  "zeilen": [
+   "Darmstadt hat rund zehnmal so viele Einwohner wie Seeheim-Jugenheim.",
+   "Bundestagswahl 2025: In Seeheim-Jugenheim lag die CDU vorn, in Darmstadt die Grünen."
+  ]
+ },
+ "44-frankfurt": {
+  "von": "22-langen",
+  "zeilen": [
+   "Frankfurt hat fast zwanzigmal so viele Einwohner wie Langen.",
+   "Frankfurt hat mehr als achtmal so viel Fläche wie Langen."
+  ]
+ },
+ "64-ruesselsheim": {
+  "von": "44-frankfurt",
+  "zeilen": [
+   "Frankfurt hat mehr als elfmal so viele Einwohner wie Rüsselsheim.",
+   "Kreisgrenze: In Frankfurt steht F am Auto, in Rüsselsheim GG für den Kreis Groß-Gerau."
+  ]
+ },
+ "45-mainz": {
+  "von": "64-ruesselsheim",
+  "zeilen": [
+   "Landesgrenze: Rüsselsheim liegt in Hessen, Mainz in Rheinland-Pfalz.",
+   "Mainz hat mehr als dreimal so viele Einwohner wie Rüsselsheim."
+  ]
+ },
+ "46-wiesbaden": {
+  "von": "45-mainz",
+  "zeilen": [
+   "Landesgrenze: Mainz ist die Hauptstadt von Rheinland-Pfalz, Wiesbaden die von Hessen.",
+   "Bundestagswahl 2025: In Mainz lagen die Grünen knapp vorn, in Wiesbaden die CDU."
+  ]
+ },
+ "47-andernach": {
+  "von": "10-vallendar",
+  "zeilen": [
+   "Vallendar liegt rechts des Rheins, Andernach links; beide gehören zum Landkreis Mayen-Koblenz.",
+   "Andernach hat mehr als dreimal so viele Einwohner wie Vallendar."
+  ]
+ },
+ "53-koblenz": {
+  "von": "47-andernach",
+  "zeilen": [
+   "Koblenz hat fast viermal so viele Einwohner wie Andernach.",
+   "Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Koblenz ist kreisfrei."
+  ]
+ },
+ "59-rhens": {
+  "von": "53-koblenz",
+  "zeilen": [
+   "Koblenz hat fast vierzigmal so viele Einwohner wie Rhens.",
+   "Bundestagswahl 2025: In Koblenz kam die CDU auf 28,6 Prozent, in Rhens auf 39,4."
+  ]
+ },
+ "48-boppard": {
+  "von": "59-rhens",
+  "zeilen": [
+   "Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Boppard zum Rhein-Hunsrück-Kreis.",
+   "Boppard hat mehr als fünfmal so viele Einwohner wie Rhens."
+  ]
+ },
+ "49-st-goar": {
+  "von": "48-boppard",
+  "zeilen": [
+   "Boppard hat mehr als fünfmal so viele Einwohner wie St. Goar.",
+   "Boppard und St. Goar liegen beide im Rhein-Hunsrück-Kreis."
+  ]
+ },
+ "50-oberwesel": {
+  "von": "49-st-goar",
+  "zeilen": [
+   "St. Goar und Oberwesel sind fast gleich groß: je rund 2.900 Einwohner.",
+   "Bundestagswahl 2025: Auf Platz zwei kam in St. Goar die SPD mit 25 Prozent, in Oberwesel die AfD."
+  ]
+ },
+ "51-bacharach": {
+  "von": "50-oberwesel",
+  "zeilen": [
+   "Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, Bacharach zum Landkreis Mainz-Bingen.",
+   "Bacharach hat nur gut halb so viele Einwohner wie Oberwesel, aber mehr Fläche."
+  ]
+ },
+ "52-bingen": {
+  "von": "51-bacharach",
+  "zeilen": [
+   "Bingen hat fast siebzehnmal so viele Einwohner wie Bacharach.",
+   "Bacharach und Bingen liegen beide im Landkreis Mainz-Bingen."
+  ]
+ },
+ "60-ingelheim": {
+  "von": "52-bingen",
+  "zeilen": [
+   "Ingelheim hat rund 9.500 Einwohner mehr als Bingen.",
+   "Bingen und Ingelheim liegen beide im Landkreis Mainz-Bingen; Kreisstadt ist Ingelheim."
+  ]
+ },
+ "54-alzey": {
+  "von": "60-ingelheim",
+  "zeilen": [
+   "Kreisgrenze: Ingelheim gehört zum Landkreis Mainz-Bingen, Alzey zum Landkreis Alzey-Worms.",
+   "Bundestagswahl 2025: Auf Platz zwei kam in Ingelheim die SPD, in Alzey die AfD."
+  ]
+ },
+ "61-nierstein": {
+  "von": "54-alzey",
+  "zeilen": [
+   "Alzey hat knapp zweieinhalbmal so viele Einwohner wie Nierstein.",
+   "Kreisgrenze: Alzey gehört zum Landkreis Alzey-Worms, Nierstein zum Landkreis Mainz-Bingen."
+  ]
+ },
+ "62-oppenheim": {
+  "von": "61-nierstein",
+  "zeilen": [
+   "Nierstein und Oppenheim gehören beide zur Verbandsgemeinde Rhein-Selz.",
+   "Nierstein hat mehr als zweieinhalbmal so viel Fläche wie Oppenheim."
+  ]
+ },
+ "55-worms": {
+  "von": "62-oppenheim",
+  "zeilen": [
+   "Worms hat gut zwölfmal so viele Einwohner wie Oppenheim.",
+   "Kreisgrenze: Oppenheim gehört zum Landkreis Mainz-Bingen, Worms ist kreisfrei."
+  ]
+ },
+ "63-frankenthal": {
+  "von": "55-worms",
+  "zeilen": [
+   "Worms und Frankenthal sind beide kreisfreie Städte.",
+   "Bundestagswahl 2025: In Worms und in Frankenthal lag die CDU nur knapp vor der AfD."
+  ]
+ },
+ "56-ludwigshafen": {
+  "von": "63-frankenthal",
+  "zeilen": [
+   "Ludwigshafen hat gut dreieinhalbmal so viele Einwohner wie Frankenthal.",
+   "Bundestagswahl 2025: In Frankenthal lag die CDU vorn, in Ludwigshafen knapp die AfD."
+  ]
+ },
+ "57-speyer": {
+  "von": "56-ludwigshafen",
+  "zeilen": [
+   "Ludwigshafen hat gut dreieinhalbmal so viele Einwohner wie Speyer.",
+   "Bundestagswahl 2025: In Ludwigshafen lag die AfD knapp vorn, in Speyer die CDU."
+  ]
+ },
+ "58-landau": {
+  "von": "57-speyer",
+  "zeilen": [
+   "Speyer und Landau sind fast gleich groß: rund 49.000 und 48.300 Einwohner.",
+   "Landau hat fast doppelt so viel Fläche wie Speyer."
   ]
  }
 }

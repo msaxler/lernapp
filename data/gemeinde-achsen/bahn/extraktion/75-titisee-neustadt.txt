@@ -1,0 +1,537 @@
+ENTITÄT: ort
+BEZEICHNUNG: Titisee-Neustadt
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemarkungsflaeche: 8966 ha
+  landkreis: Breisgau-Hochschwarzwald
+  regionalverband: Südl. Oberrhein
+  hoehenlag_min: 845.5 m ü.d.M.
+  hoehenlag_max: 1190 m ü.d.M.
+  groesste_ausdehnung_gemarkung: 14.5 km
+  groesste_ausdehnung_ortslage: 3.5 km
+  durchschnittstemperatur_neustadt: 6.0 °C
+  durchschnittstemperatur_titisee: 5.7 °C
+  jahresniederschlag_neustadt: 1210 mm
+  jahresniederschlag_titisee: 1233 mm
+  bevoelkerung_gesamt: 12315 [Stand 30.06.2024]
+  bundesstrasse: B 31
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Neustadt
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungszeit: 13. Jahrhundert
+  gruendung_durch: Fürsten zu Fürstenberg
+  gruendungsname: Nuwenstatt (neue Stadt)
+  funktion_mittelalter: Salzstadt
+  funktion_mittelalter_2: Gerichtsort
+  historischer_salzhandelsplatz_lage: Salzstraße (sog. "Langes Haus")
+  hochgericht_lage: Galgenbuck (beim heutigen Friedhof)
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: see
+BEZEICHNUNG: Titisee
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: größter Natursee des Schwarzwaldes
+  laenge: 1.8 km
+  breite_max: 750 m
+  tiefe_max: 40 m
+  wasserspiegel: 845.5 m ü.d.M.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: see
+BEZEICHNUNG: Titisee
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: Feldberggletscher schürfte tiefe Mulde ins Seebachtal
+  entstehung_zeitpunkt: vor ca. 20000 Jahren
+  ersterwuehnung_name1: lacun titinse [1150]
+  ersterwuehnung_name2: titunsee [1111]
+  namensherkunft: geht auf alemannischen Anführer Titin zurück
+  namensgeber_siedlung: alemannisches Ausbaudorf Titinshusen (heute Dittishausen)
+  siedlung_urkundlich_erwaehnt: 7.-8. Jahrhundert [Fund zweier alemannisch-fränkischer Sarkophage am Ausfluss Seebach, 19. Jahrhundert]
+GUELTIG_AB: 1111
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Neustadt
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bevoelkerung_eingemeindung: 8460
+  bevoelkerung_heute: 9150 [Stand 30.06.2024]
+  uebernachtungen_2020: 26167
+  flaeche: 1873 ha
+  topografie: Teil des Tals der Gutach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Titisee
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bevoelkerung_eingemeindung: 2265
+  bevoelkerung_heute: 2153 [incl. Jostal, Stand 30.06.2024]
+  uebernachtungen_2020: 368493
+  flaeche: 2995 ha
+  topografie: Teil des Tals der Gutach
+  ersterwuehnung: 1111
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Waldau
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bevoelkerung_eingemeindung: 346
+  bevoelkerung_heute: 373 [Stand 30.06.2024]
+  uebernachtungen_2020: 29093
+  flaeche: 807 ha
+  topografie: reine Streusiedlung
+  ersterwuehnung: 1178 [päpstliche Urkunde, St. Georgen]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Schwärzenbach
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bevoelkerung_eingemeindung: 292
+  bevoelkerung_heute: 249 [Stand 30.06.2024]
+  uebernachtungen_2020: 26003
+  flaeche: 1591 ha
+  topografie: reine Streusiedlung
+  ersterwuehnung: 1316 [Fürstlich Fürstenbergisches Urkundenbuch]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Langenordnach
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bevoelkerung_eingemeindung: 258
+  bevoelkerung_heute: 228 [Stand 30.06.2024]
+  uebernachtungen_2020: 15947
+  flaeche: 988 ha
+  topografie: reine Streusiedlung
+  ersterwuehnung: 1112 [Kloster St. Peter]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Rudenberg
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bevoelkerung_eingemeindung: 239
+  uebernachtungen_2020: 4050
+  flaeche: 571 ha
+  topografie: reine Streusiedlung
+  ersterwuehnung: 1316
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort_bestandteil
+BEZEICHNUNG: Honfirst
+ORTSTEIL_BEZUG: Rudenberg
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: ehemaliges Dorf
+  gruender: Kleinadlige aus Umfeld des Klosters St. Gallen
+  burgstaette: Burg Honvirst (auf dem Bergrücken, heute Burgkopf genannt)
+GUELTIG_BIS: 13
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Jakobus-Münster
+ORTSTEIL_BEZUG: Neustadt
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  bau_stil: neugotisch
+  erbaut: 1897
+  vorgaenger: Kirche am selben Platz (seit Anfang der Herrschaft Fürstenberg)
+  finanzierung: durch ortsansässige Klein- und Großspenden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kapuzinerkloster (Klösterle)
+ORTSTEIL_BEZUG: Neustadt
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 17. Jahrhundert
+  saekularisat: 1803
+GUELTIG_AB: 17
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Titin
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ethnische_herkunft: Alemannischer Anführer
+  siedlung: alemannisches Ausbaudorf Titinshusen (heute Dittishausen)
+  vermaechtnis: Namensgeber des Titisee
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Anton Wehinger
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Ortspfarrer Neustadt
+  todesjahr: 1638
+  todes_monat: Mai
+  todes_ursache: Ermordung durch marodierende schwedische Söldner (Dreißigjähriger Krieg)
+  todes_beschreibung: gefangen genommen, verwundet, mit Wasser vollgepumpt, durch trampelnde Soldaten getötet
+GUELTIG_BIS: 1638
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hans Müller von Bulgenbach
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Bauernführer
+  aktivitaet: führte Bauernkrieg-Aufstände an
+  aktivitaet_zeitraum: 1524-1525
+  aktivitaet_route: durch Altenweg und Langenordnachtal
+GUELTIG_AB: 1524
+GUELTIG_BIS: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Schwedenkreuz
+ORTSTEIL_BEZUG: Saigerberg
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erinnerung_an: Dreißigjähriger Krieg, Ermordung Pfarrer Wehinger Mai 1638
+  entstehung_kontext: schwedische Söldner-Übergriffe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gasthaus
+BEZEICHNUNG: Ahorn
+ORTSTEIL_BEZUG: Schwärzenbach
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwuehnung: 1455
+  superlativ: ältestes Gasthaus der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gasthaus
+BEZEICHNUNG: Traube
+ORTSTEIL_BEZUG: Waldau
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwuehnung: 1550
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gasthaus
+BEZEICHNUNG: Obere Wirtshaus
+ORTSTEIL_BEZUG: Langenordnach
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwuehnung: 1692
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gasthaus
+BEZEICHNUNG: Krone
+ORTSTEIL_BEZUG: Neustadt
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwuehnung_ca: 16.-17. Jahrhundert
+  heutige_nutzung: Pizzeria Rusticana
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: gasthaus
+BEZEICHNUNG: Pfauen
+ORTSTEIL_BEZUG: Neustadt
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwuehnung_ca: 16.-17. Jahrhundert
+  heutige_nutzung: Pizzeria Pescatore
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: gasthaus
+BEZEICHNUNG: Löwen
+ORTSTEIL_BEZUG: Neustadt
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwuehnung_ca: 16.-17. Jahrhundert
+  heutige_nutzung: Zum Goldenen Löwen, China-Restaurant
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: industrie
+BEZEICHNUNG: Strohhutfabrik
+ORTSTEIL_BEZUG: Neustadt
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_zeitraum: 18. Jahrhundert
+  beschaeftigte_max: 200 Strohflechterinnen
+GUELTIG_AB: 18
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: industrie
+BEZEICHNUNG: Tuchfabrik
+ORTSTEIL_BEZUG: Neustadt
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  produktion: Uniformstoffe für Großherzogtum Baden
+  beschreibung: neustadts erster großer Industriebetrieb
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: industrie
+BEZEICHNUNG: Uhrenfabriken
+ORTSTEIL_BEZUG: Neustadt
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: mehrere Neustädter Uhrenfabriken
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: industrie
+BEZEICHNUNG: Papierfabrik
+ORTSTEIL_BEZUG: Neustadt
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: einzige der aufgezählten Fabriken existiert heute noch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verkehrsinfrastruktur
+BEZEICHNUNG: Höllentalbahn
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung_neustadt: 1887
+  fertigstellung_donaueschingen: 1902
+  verbindung_freiburg_neustadt: stündlich
+  verbindung_freiburg_titisee: halbstündlich
+  verbindung_donaueschingen_neustadt: stündlich
+  verbindung_donaueschingen_titisee: stündlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: verkehrsinfrastruktur
+BEZEICHNUNG: Bahnhof Neustadt im Schwarzwald
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bahnhofsnummer: 4331
+  strecke: Höllentalbahn
+  verbindung_freiburg_rhythmus: stündlich
+  verbindung_donaueschingen_rhythmus: stündlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: verkehrsinfrastruktur
+BEZEICHNUNG: Bahnhof Titisee
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bahnhofsnummer: 5876
+  strecke_hoehlentalbahn: Höllentalbahn
+  verbindung_freiburg_rhythmus: halbstündlich
+  verbindung_donaueschingen_rhythmus: stündlich
+  strecke_drei_seen_bahn: Drei-Seen-Bahn nach Seebrugg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Hochfirstschanze
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: größte Naturschanze Deutschlands
+  superlativ2: eine der größten Sprungschanzen der Welt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Hochfirstturm
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Ausblicksturm/Sehenswürdigkeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Steinzeitliche und keltische Besiedlung
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Steinzeitliche Jäger und später keltische Sippen lebten in der Gegend; Hunderte bronzezeitlicher Steingrabhügel als Beweis
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Römerstraße
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Römer bauten Straße von Hüfingen in den Breisgau
+  routenverlauf: führte über Hochebene im heutigen Ortsteil Schwärzenbach bis zum Thurner
+  archäologie: Fundamente bei Waldau beim Bau der B500 gefunden
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Bauernkrieg
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1524-1525
+  beteiligung: Bauern aus Waldau, Jostal und übrigen Dörfern
+  anführer: Hans Müller von Bulgenbach (zog durch Altenweg und Langenordnachtal)
+GUELTIG_AB: 1524
+GUELTIG_BIS: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Dreißigjähriger Krieg - Übergriffe schwedischer Söldner
+ORTSTEIL_BEZUG: Neustadt
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: Mai 1638
+  opfer: Ortspfarrer Anton Wehinger
+  handlung: Ermordung durch marodierende schwedische Söldner
+  denkmal: Schwedenkreuz am Saigerberg
+GUELTIG_BIS: 1638
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Stadtbrand
+ORTSTEIL_BEZUG: Neustadt
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: 1817
+  ursache: kaiserliche Soldaten, die mit offenem Feuer im Stall hantierten, entzündeten Heu
+  umfang: ganze Stadt brannte
+  auswirkung: über 300 Familien wurden obdachlos
+  folge: die ältesten Häuser der Stadt wurden zerstört
+GUELTIG_BIS: 1817
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Gemeindereform
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1971-1974
+  fusionierte_orte: Neustadt, Titisee, Rudenberg, Schwärzenbach, Waldau, Langenordnach
+  namenswechsel: Namensänderung von Neustadt zu Titisee-Neustadt
+GUELTIG_AB: 1971
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: industrie
+BEZEICHNUNG: Schwarzwälder Uhrmacherei
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunftsort: Haus Redeck, Waldau
+  herkunftszeit: 16. Jahrhundert
+  beschreibung: angebliche Wiege der Schwarzwälder Uhrmacherei
+GUELTIG_AB: 16
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Freizeitaktivitäten und Fremdenverkehr am Titisee
+QUELLE: https://www.titisee-neustadt.de/unsere-stadt/stadt-titisee-neustadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_start: 1887 [mit Fertigstellung Höllentalbahn]
+  aktivitaete: Deutsche Meisterschaften Eiskunstlauf, Rodelbahn (Saig-Titisee, noch heute existent), Flugzeuglandungen auf gefrorenem See, Auto- und Motorradrennen
+  rodelbahn_besonderheit: olympiareife Rodelbahn
+  flugverkehr_zeitpunkt: 1935
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80

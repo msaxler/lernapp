@@ -1,0 +1,543 @@
+ENTITÄT: ort
+BEZEICHNUNG: Stegen
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: östlich von Freiburg am Nordrand des Dreisamtales
+  geographie: reicht von flachen Tallagen bis hinauf auf verfirstete Waldkämme des Südschwarzwaldes
+  gründung_aktueller_gemeinde: 1. Januar 1975 (Fusion Stegen und Eschbach)
+  einmeindetung_wittental: 1. Juli 1974
+  ortsteile_aktuell: Stegen, Eschbach, Wittental
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Stegen
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wohnplaetze: Stegen, Weiler, Ober- und Unterbirken, Rechtenbach
+  grundlage: Herrschaft Weiler
+  herrschaft_seit_ende_14_jh: österreichische Adelsfamilien
+  letzte_grundherren: Freiherren und später Grafen von Kageneck (ab 1702)
+  verwaltungsgeschichte: 1810 Stabsamt St. Peter; 1819 Landamt Freiburg; 1890 Rechtenbach vereinigt
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Eschbach
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: etwa 5 km langes Tal mit Seitentälern (Steurental, Hintereschbachtal, Scherlenzendobel)
+  erste_erwaehnung: 1112
+  alte_bezeichnung_12_jh: Asschebach (Rotulus Sanpetrinus)
+  klosterbezug_teile: Kloster St. Peter, Kloster Einsiedeln (Dinghof)
+  herrschaft_freiherren_sickingen: bis 1808 (Verkauf an Baden)
+  vereinigung_zur_gemeinde: 1811 (Landamt Freiburg)
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Wittental
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestandteile_bei_bildung: Attental, Wittental, Baldenwegerhof
+  bildung: Anfang 19. Jahrhundert
+  erste_erwaehnung: um 1270-1280 (Ober- und Unterwittental im Besitzverzeichnis Kloster St. Mürgen)
+  herrschaft_ende_16_jh: Freiherren von Sickingen-Hohenburg
+  gemeineverband_mit: Meiertum Zarten
+  trennung_zarten: 1813
+  vereinigung_attental: 1813
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Attental
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alternative_bezeichnung: Mattental
+  erwerb_stadt_freiburg: 1499
+  gemeindeverband_vor_1813: Zarten (Freiburger Talvogtei)
+  beschwerde: Attental fühlte sich im Gemeineverband mit Zarten benachteiligt
+  trennung_von_zarten: 1813
+  vereinigung_mit_wittental: 1813
+  eigenvervalwung_bis: 1858
+GUELTIG_BIS: 1858
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Rechtenbach
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft_teile: Großteil Kloster St. Peter; zeitweise Schnewlin von Landeck (bis 1417)
+  vogtei: Vogtei Rechtenbach (st. petrisch)
+  zuschlag_zu_eschbach: nach Säkularisierung der Abtei
+  vereinigung_mit_stegen: 1890 (von Schnewlin von Landeck besessen)
+GUELTIG_BIS: 1890
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Weiler
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Wohnplatz des Ortsteils Stegen
+  herrschaft: Herrschaft Weiler (Grundlage des späteren Stegen)
+  namensherkunft: von Höfen oberhalb des Meierhofs Weiler, benannt nach den hölzernen Wegen (Bohlwegen/Stegen) durch sumpfiges Gelände am Ausgang des Eschbachtals
+  bedeutung: Name gab schließlich Namen für die gesamte Gemeinde
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Ober- und Unterbirken
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Wohnplätze des Ortsteils Stegen
+  entstehung: Ende des 17. Jahrhunderts
+  ursache: auf gerodetem Herrschaftsland entstanden
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Unteribental
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft_form: Teil der Herrschaft Weiler/Stegen
+  separationsbemühungen: seit Jahrzehnten betrieben
+  trennung_von_stegen: 1827 (Verfügung bereits 1805)
+GUELTIG_BIS: 1827
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Gemeinde Stegen (nach 1975)
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: In Gold (Gelb) eine entwurzelte Esche mit schwarzem Stamm und grüner Krone, worin drei goldene Äste in Form von Eschenblättern, vor dem Stamm ein durchgehender roter Bohlweg (Steg)
+  verleihung_datum: 31. Januar 1977
+  verleihende_instanz: Landratsamt Breisgau-Hochschwarzwald
+  symbolik_esche: steht für Ortsteil Eschbach und symbolisiert den Eschbach
+  symbolik_bohlweg: Erinnerung an hölzerne Wege durch sumpfiges Gelände am Ausgang des Eschbachtals, Namensherkunft der Gemeinde
+  charakter: redend (sprechend)
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Eschbach (vor 1975)
+ORTSTEIL_BEZUG: Eschbach
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: In Silber (Weiß) auf grünem Dreiberg eine grüne Esche mit schwarzem Stamm, dahinter ein erniedrigter blauer Wellenbalken
+  verleihung_datum: 23. Januar 1962
+  verleihende_instanz: Innenministerium
+GUELTIG_AB: 1962
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Stegen (vor 1975)
+ORTSTEIL_BEZUG: Stegen
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: In gespaltenem Schild von Gold (Gelb) und Grün geteilt, hinten in Blau ein steigender goldener Hirsch
+  adoption: Februar 1899
+  ursprung: Vorschlag des Generallandesarchivs
+  symbolik_hirsch: Symbol für Lage der Gemeinde im Schwarzwald
+  anmerkung: Wappen war zur Hälfte falsch begründet, bezog sich auf Rechtenbach und Schnewlin-Wappen, nicht auf die gesamte alte Gemeinde Stegen
+GUELTIG_AB: 1899
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Wittental (vor 1975)
+ORTSTEIL_BEZUG: Wittental
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: In Silber (Weiß) ein durchgehendes, geschliffenes rotes Kreuz, begleitet von vier roten Kugeln
+  adoption: 1899
+  ursprung: Vorschlag des Generallandesarchivs
+  symbolik: Freiburger Kreuz und Sickinger Kugeln (historische Herrschaftsverhältnisse)
+GUELTIG_AB: 1899
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: siegel
+BEZEICHNUNG: Gemeindesiegel Eschbach (st. petrische Vogtei)
+ORTSTEIL_BEZUG: Eschbach
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ueberliefert: 1788
+  vogt: Michael Hug
+  beschreibung: Im Schildfuß einen Bach mit Fisch, darauf stehend eine Esche, zu beiden Seiten des Stammes die Buchstaben S.P. (=Sankt Peter) und gekreuzte Peterschlüssel, Umschrift G. AESCHBACH
+  kontext: Ablösung der Fronpflichten im Klostergebiet
+GUELTIG_AB: 1788
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: siegel
+BEZEICHNUNG: Farbstempel Eschbach
+ORTSTEIL_BEZUG: Eschbach
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verwendung: erste Hälfte 19. Jahrhundert bis 1961
+  beschreibung: zwei Eschen auf einem Boden mit Namensinitalen EB, möglicherweise in älterem Stempel auch Bach mit Fisch
+GUELTIG_AB: 1800
+GUELTIG_BIS: 1961
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: siegel
+BEZEICHNUNG: Siegel Vogtei Rechtenbach (st. petrisch)
+ORTSTEIL_BEZUG: Rechtenbach
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ueberliefert: 1788
+  beschreibung: Ovaler Schild mit Umschrift GEM. RECHTENBACH; aus Boden wachsend ein Baum oder hohe Pflanze; Initialen S.P. (=St. Peter) und gekreuzte Peterschlüssel; Pflanzenranken
+GUELTIG_AB: 1788
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: siegel
+BEZEICHNUNG: Farbstempel Stegen
+ORTSTEIL_BEZUG: Stegen
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_verwendung: 19. Jahrhundert
+  beschreibung: In Wappenschild redend: Steg über einen Bach, darüber ineinander verschlungene Initialen ST
+  charakter: redend (sprechend)
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: siegel
+BEZEICHNUNG: Gemeindesiegel Wittental und Attental
+ORTSTEIL_BEZUG: Wittental
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Im gespaltenen Wappenschild vorn badischer Schrägbalken, hinten Buchstaben W u. A untereinander; Umschrift GEMEINDESIEG.WTTTENTHAL U. ATT.
+  besonderheit: Berücksichtigung der besonderen Verfassung vor 1858 (getrennte Verwaltung Attentals)
+  entstehung: nach Vereinigung beider Orte
+GUELTIG_AB: 1813
+GUELTIG_BIS: 1858
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster St. Peter
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug_eschbach: gehörte teilweise zu Eschbach
+  bezug_rechtenbach: Vogtei Rechtenbach, Großteil gehörte zum Kloster
+  vogtei_eschbach: Vogtei Eschbach (bis Säkularisation)
+  sekularisation: 1806
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Einsiedeln
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug_eschbach: Dinghof in Eschbach
+  uebergang: über mehrere Zwischenstationen an Freiherren von Sickingen
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster St. Mürgen
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug_wittental: Besitzverzeichnis um 1270-1280 erwähnt Ober- und Unterwittental erstmals
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: herrschaft
+BEZEICHNUNG: Herrschaft Weiler
+ORTSTEIL_BEZUG: Stegen
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundlage_stegens: ja
+  umfang: Stegen, Unteribental und ein Hof in Rechtenbach
+  herrschaft_ab_ende_14_jh: österreichische Adelsfamilien
+  letzte_herrscher: Freiherren und später Grafen von Kageneck
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: herrschaft
+BEZEICHNUNG: Herrschaft Ebnet
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug_wittental: umfasste Wittental und Attental
+  bestandteile: Hof Falkenbühl, Hof Baldenweg
+  herrscher_ende_16_jh: Freiherren von Sickingen-Hohenburg
+  erbschaft: über mehrere Vorbesitzer
+  verkauf_an_baden: 1808
+GUELTIG_BIS: 1808
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: hof
+BEZEICHNUNG: Falkenbühl
+ORTSTEIL_BEZUG: Wittental
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benannt_nach: Burg am Ausgang des Wittentals
+  burg_aufgegeben: ca. 1500
+  status: Hof (Teil Herrschaft Ebnet)
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: hof
+BEZEICHNUNG: Baldenwegerhof
+ORTSTEIL_BEZUG: Wittental
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle_bildung_wittental: ein Bestandteil bei Bildung von Wittental (Anfang 19. Jh.)
+  herrschaft: Herrschaft Ebnet
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: fluss
+BEZEICHNUNG: Eschbach
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: durchzieht das Gemeindegebiet in ganzer Länge
+  namensherkunft_ortsteil: Ortsteil Eschbach benannt nach dem Bach
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: tal
+BEZEICHNUNG: Dreisamtal
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_stegen: Nordrand des Dreisamtales
+  lage_stegen_allgemein: Stegen liegt östlich von Freiburg am Nordrand
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: region
+BEZEICHNUNG: Südschwarzwald
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug_stegen: Stegen reicht hinauf auf verfirstete Waldkämme des Südschwarzwaldes
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verwaltungseinheit
+BEZEICHNUNG: Stabsamt St. Peter
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zuordnung_stegen: 1810
+  nachfolger: 1819 Landamt Freiburg
+GUELTIG_AB: 1810
+GUELTIG_BIS: 1819
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verwaltungseinheit
+BEZEICHNUNG: Landamt Freiburg
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zuordnung_stegen: 1819
+  zuordnung_eschbach: 1811
+  zuordnung_wittental: 1813
+GUELTIG_AB: 1811
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadt
+BEZEICHNUNG: Freiburg
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_zu_stegen: westlich von Stegen
+  besitzrecht_attental: 1499-1805/06
+  talvogtei: Freiburger Talvogtei (Gemeineverband mit Zarten)
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: familiengeschlecht
+BEZEICHNUNG: Freiherren und Grafen von Kageneck
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: letzte Grundherren der Herrschaft Weiler
+  belehnung: 1702 durch vorderösterreichischen Statthalter Johann Friedrich von Kageneck
+  herrschaftsende: 1810 (Anfall an Baden)
+GUELTIG_AB: 1702
+GUELTIG_BIS: 1810
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: familiengeschlecht
+BEZEICHNUNG: Freiherren von Sickingen
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft_eschbach: bis 1808 (Verkauf an badischen Staat)
+  herrschaft_wittental: bis 1808
+  herrschaft_ebnet: bis 1808
+GUELTIG_BIS: 1808
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: familiengeschlecht
+BEZEICHNUNG: Schnewlin von Landeck
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vogtei: Rechtenbach
+  besitzdauer: bis 1417
+  besitz_rechtenbach: "das von den Schnewlin von Landeck besessene Rechtenbach"
+  vereinigung_mit_stegen: 1890
+GUELTIG_BIS: 1417
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gemeinde
+BEZEICHNUNG: Buchenbach
+QUELLE: https://www.stegen.de/p/broschuere-dreisamtal-vor-den-toren-freiburgs | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verhaeltnis_zu_stegen: Partnergemeinde (gemeinsame Dreisamtal-Broschüre)
+  lage: Dreisamtal
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gemeinde
+BEZEICHNUNG: Kirchzarten
+QUELLE: https://www.stegen.de/p/broschuere-dreisamtal-vor-den-toren-freiburgs | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verhaeltnis_zu_stegen: Partnergemeinde (gemeinsame Dreisamtal-Broschüre)
+  lage: Dreisamtal
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gemeinde
+BEZEICHNUNG: Oberried
+QUELLE: https://www.stegen.de/p/broschuere-dreisamtal-vor-den-toren-freiburgs | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verhaeltnis_zu_stegen: Partnergemeinde (gemeinsame Dreisamtal-Broschüre)
+  lage: Dreisamtal
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verlag
+BEZEICHNUNG: A+K Verlag Freiburg
+QUELLE: https://www.stegen.de/p/broschuere-dreisamtal-vor-den-toren-freiburgs | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  projekt: Dreisamtal-Broschüre
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: publikation
+BEZEICHNUNG: Dreisamtal-Broschüre
+QUELLE: https://www.stegen.de/p/broschuere-dreisamtal-vor-den-toren-freiburgs | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Dreisamtal – Vor den Toren Freiburgs
+  autoren_gemeinden: Buchenbach, Kirchzarten, Oberried, Stegen
+  verlag: A+K Verlag Freiburg
+  beschreibung: praktische Broschüre mit Infos zu Gemeindeverwaltungen, relevanten Institutionen, aktualisierten Ortsplänen und Ausflugstipps
+  verfuegbarkeit: gedruckt in Rathäusern kostenlos; digitale interaktive Version online
+  zielgruppe: alle, die im Dreisamtal leben oder sich für die Region interessieren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: konzept
+BEZEICHNUNG: Ortsteilkonzept Eschbach
+ORTSTEIL_BEZUG: Eschbach
+QUELLE: https://www.stegen.de/p/ortsteilkonzept-eschbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  foerderprogramm: Flächen gewinnen durch Innenentwicklung
+  jahr_beginn: 2018
+  foerderung: Ministerium für Wirtschaft, Arbeit und Wohnungsbau Baden-Württemberg
+  projektfoerderung: Flächen- und Gebäudeaktivierung – Ortsteil Eschbach
+  methode: fachliche Begleitung durch Städteplanung und geplante Bürgerbeteiligung
+  ziele: Eruierung von Defiziten und Kapazitäten in Liegenschaftsverwaltung (gemeindeeigene und private); Handlungsempfehlungen für Modernisierungs- oder Sanierungsmaßnahmen
+  nutzen: Perspektive für gemeindeeigene Immobilien und zukünftige Bewirtschaftung; Anreize für private Eigentümer
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebietsreform
+QUELLE: https://www.stegen.de/p/geschichte-ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1970er Jahre
+  zusammenschluss: Gemeinden Stegen, Eschbach, Wittental
+  ergebnis: heutige Gemeinde Stegen
+  datum_wittental: 1. Juli 1974 (Eingemeindetung)
+  datum_stegen_eschbach: 1. Januar 1975 (Zusammenschluss)
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95

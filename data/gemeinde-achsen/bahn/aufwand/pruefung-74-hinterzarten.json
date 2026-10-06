@@ -1,0 +1,50 @@
+{
+ "stufe": "pruefung",
+ "ort": "74-hinterzarten",
+ "prompt": "prompt-pruefung-v0.2.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 68356,
+ "token_ein": 60270,
+ "token_aus": 7625,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 53370,
+  "cache_read_input_tokens": 6898,
+  "output_tokens": 7625,
+  "output_tokens_details": {
+   "thinking_tokens": 4658
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 53370,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 7625,
+    "cache_read_input_tokens": 6898,
+    "cache_creation_input_tokens": 53370,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 53370
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.5808476,
+ "sekunden": 68,
+ "fehler": false,
+ "zeit": "2026-10-06T09:25:05"
+}

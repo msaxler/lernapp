@@ -14,7 +14,7 @@ Quellen:
     kfz_kennzeichen.csv): als zweite Quelle, wo der Ort dort vorkommt. Abweichungen werden vermerkt.
   - berechnet: Einwohnerdichte, Luftlinie zur nächsten Großstadt und zur Landeshauptstadt.
 
-Aufruf:  python -X utf8 scripts/data-fetch/gemeinde_achsen_grunddaten.py
+Aufruf:  python -X utf8 scripts/data-fetch/gemeinde_achsen_grunddaten.py [--nur-neue]   (--nur-neue: vorhandene Orte übernehmen)
 Entscheid dazu: docs/konzepte/gemeinde-achsen-entscheidungen-2026-10-01.md, E10 und E11.
 """
 import csv
@@ -362,14 +362,24 @@ class Altbestand:
 def main():
     with io.open(os.path.join(AUS, 'schicht0.json'), encoding='utf-8') as f:
         orte = json.load(f)
+    # --nur-neue: vorhandene Orte aus grunddaten.json unverändert übernehmen, nur die fehlenden rechnen
+    # (Raum bahn mit 68 Orten brauchte 2026-10-07 für den vollen Abruf zwischen 10 Minuten und Stunden)
+    vorher, maengel_vorher = {}, []
+    pfad_vorher = os.path.join(AUS, 'grunddaten.json')
+    if '--nur-neue' in sys.argv and os.path.exists(pfad_vorher):
+        with io.open(pfad_vorher, encoding='utf-8') as f:
+            g = json.load(f)
+        vorher, maengel_vorher = {a['slug']: a for a in g['orte']}, g.get('maengel', [])
+    rechnen = [o for o in orte if o['slug'] not in vorher]
+    print('zu rechnen: %d von %d Orten' % (len(rechnen), len(orte)))
     alt = Altbestand()
     wahl = wahl_laden()
-    ent = wd_claims([o['wikidata'] for o in orte])
-    bahn = wd_bahnhoefe([o['wikidata'] for o in orte])
+    ent = wd_claims([o['wikidata'] for o in rechnen])
+    bahn = wd_bahnhoefe([o['wikidata'] for o in rechnen]) if rechnen else {}
     grossstaedte = [s for s in alt.staedte if s['einwohner'] >= 100000]
     aus, maengel = [], []
 
-    for o in orte:
+    for o in rechnen:
         c = ent[o['wikidata']]['claims']
         e = {}
         ist_ortsteil = o['einheit'].startswith('Ortsteil')
@@ -583,6 +593,10 @@ def main():
                     'eigenschaften': e})
         print('%-16s %2d Eigenschaften: %s' % (o['slug'], len(e), ' '.join(sorted(e))))
 
+    if vorher:
+        neu = {a['slug']: a for a in aus}
+        aus = [vorher.get(o['slug']) or neu[o['slug']] for o in orte]
+        maengel = maengel_vorher + maengel
     ziel = os.path.join(AUS, 'grunddaten.json')
     with io.open(ziel, 'w', encoding='utf-8', newline='\n') as f:
         json.dump({'erzeugt': HEUTE,

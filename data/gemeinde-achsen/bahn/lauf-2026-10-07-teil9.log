@@ -1,0 +1,49 @@
+Orte: 69-ihringen 70-breisach 71-stegen 72-oberried 73-buchenbach 74-hinterzarten 75-titisee-neustadt
+== Extraktion (Haiku) 09:09:03
+69-ihringen          extraktion ein  23055  aus  13324   0.10 USD   119 s  claude-haiku-4-5-20251001
+70-breisach          extraktion ein  34653  aus  14730   0.13 USD   135 s  claude-haiku-4-5-20251001
+71-stegen            extraktion ein  22106  aus  17412   0.12 USD   159 s  claude-haiku-4-5-20251001
+72-oberried          extraktion ein  23494  aus  16700   0.12 USD   161 s  claude-haiku-4-5-20251001
+73-buchenbach        extraktion ein  25989  aus  18475   0.13 USD   167 s  claude-haiku-4-5-20251001
+74-hinterzarten      extraktion ein  25464  aus  18224   0.13 USD   154 s  claude-haiku-4-5-20251001
+75-titisee-neustadt  extraktion ein  23863  aus  11284   0.09 USD   105 s  claude-haiku-4-5-20251001
+zusammen: 3439 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+69-ihringen        28277 Zeichen
+70-breisach        38027 Zeichen
+71-stegen          22147 Zeichen
+72-oberried        20073 Zeichen
+73-buchenbach      21545 Zeichen
+74-hinterzarten    49136 Zeichen
+75-titisee-neustadt   21721 Zeichen
+== Karten (claude-opus-5-5) 09:13:36
+69-ihringen          karten     ein  44277  aus  37756   1.06 USD   323 s  claude-opus-5-5
+70-breisach          karten     ein  49737  aus  36676   1.08 USD   315 s  claude-opus-5-5
+71-stegen            karten     ein  39656  aus  35497   0.97 USD   304 s  claude-opus-5-5
+72-oberried          karten     ein  38083  aus  31991   0.89 USD   281 s  claude-opus-5-5
+73-buchenbach        karten     ein  39539  aus  34356   0.95 USD   283 s  claude-opus-5-5
+74-hinterzarten      karten     ein  57862  aus  31752   1.04 USD   276 s  claude-opus-5-5
+75-titisee-neustadt  karten     ein  39538  aus  32601   0.91 USD   273 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 09:22:53
+69-ihringen          pruefung   ein  47060  aus   7407   0.47 USD    69 s  claude-opus-5-5
+70-breisach          pruefung   ein  52479  aus   8231   0.53 USD    78 s  claude-opus-5-5
+71-stegen            pruefung   ein  49103  aus   9864   0.54 USD    82 s  claude-opus-5-5
+72-oberried          pruefung   ein  48451  aus   7245   0.48 USD    64 s  claude-opus-5-5
+73-buchenbach        pruefung   ein  48029  aus   8652   0.50 USD    75 s  claude-opus-5-5
+74-hinterzarten      pruefung   ein  60270  aus   7625   0.58 USD    68 s  claude-opus-5-5
+75-titisee-neustadt  pruefung   ein  52256  aus  10646   0.58 USD    88 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 09:25:29
+69-ihringen          stufe2     ein 516773  aus  11119   1.09 USD   154 s  claude-opus-5-5,claude-haiku-4-5-20251001
+70-breisach          stufe2     ein 728471  aus  11682   1.19 USD   193 s  claude-opus-5-5,claude-haiku-4-5-20251001
+71-stegen            stufe2     ein 157465  aus   2824   0.32 USD    55 s  claude-opus-5-5,claude-haiku-4-5-20251001
+72-oberried          stufe2     ein 171158  aus   6968   0.59 USD    93 s  claude-opus-5-5,claude-haiku-4-5-20251001
+73-buchenbach        stufe2     ein 584806  aus  14589   1.25 USD   189 s  claude-opus-5-5,claude-haiku-4-5-20251001
+74-hinterzarten      stufe2     ein 932613  aus  11177   1.20 USD   223 s  claude-opus-5-5,claude-haiku-4-5-20251001
+75-titisee-neustadt  stufe2     ein 161342  aus   1911   0.29 USD    42 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 09:30:07
+Urteile: {'korrigiert': 186, 'bestätigt': 463, 'gesperrt': 8, 'unsicher': 31} | im Vorrat: 680 Karten an 75 Orten
+iter1    10 Orte, 133 Karten, Tisch-Reihe 4
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     75 Orte, 680 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 853883 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 09:30:08
