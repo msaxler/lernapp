@@ -19,7 +19,7 @@ GA = os.path.join(WURZEL, 'data', 'gemeinde-achsen')
 ZIEL = os.path.join(WURZEL, 'apps', 'quizaway-reise', 'daten.js')
 # Raum: Ordner, Anzeigename, Lauf mit den Orts-Anschlüssen, Lauf der Tisch-Reihe
 RAEUME = [('iter1', 'Freiburg und Umland', 'v0.6', 'v0.5'), ('neuwied', 'Rhein und Wied', 'v0.7', 'v0.7'),
-          ('bahn', 'Bahn Freiburg–Neuwied (rechte Rheinseite)', 'v0.8', 'v0.8')]
+          ('bahn', 'Freiburg–Neuwied und Umgebung (Bahn und Auto)', 'v0.8', 'v0.8')]
 KOPF = {'v0.4': 'Vorschlag'}
 
 

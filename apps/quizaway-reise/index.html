@@ -128,7 +128,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     <div class="top"><span class="sp">Feldtest-Prototyp · Spielkonzept v0.3.1</span><button id="theme">System</button></div>
     <div class="plate" style="font-size:1.6rem">QuizAway</div>
     <p class="meta">Ein Ort kommt näher. Erst die eigene Theorie, dann die Geschichte. Ein Urteil je Frage – allein oder nach der Diskussion im Auto.</p>
-    <b>Strecke</b>
+    <b id="strecke-titel">Strecke</b>
     <div class="choice" id="raeume"></div>
     <b>Streckenquelle</b>
     <div class="choice" id="quellen">
@@ -231,6 +231,14 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
 (function(){
   'use strict';
   var D = window.QA_DATEN, $ = function(id){ return document.getElementById(id); };
+  // GPS ohne Strecke (Mike 2026-10-07): ein Topf mit allen Orten aller Räume, das Zielfenster wählt nach Lage.
+  // Slugs bekommen den Raum vorangestellt, damit Anschlüsse (je Ortspaar) eindeutig bleiben.
+  var ALLE = { id: 'alle', name: 'Alle Orte', orte: [] };
+  D.raeume.forEach(function(r){ r.orte.forEach(function(o){
+    var p = function(s){ return s ? r.id + ':' + s : s; }, an = {};
+    Object.keys(o.anschluesse || {}).forEach(function(v){ an[p(v)] = o.anschluesse[v]; });
+    ALLE.orte.push(Object.assign({}, o, { slug: p(o.slug), anschluss_von: p(o.anschluss_von), anschluesse: an }));
+  }); });
   var IDS = ['s-start','s-karte','s-frage','s-leiter','s-aufl','s-ende'];
   var MUSTER = ['A','C','A','B','Leiter','A','B','A','B','A','C'];   // gemischte Reihe des Kartensatzes für den Tisch
   var JE_ORT = 3;
@@ -245,7 +253,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   var gespielt = laden('gespielt', {});     // je Raum: gespielte Karten-IDs über Fahrten hinweg
   var wahlStart = laden('wahl', { raum: D.raeume[0].id, quelle: 'sim', vor: 1, kmh: 50, f: 5 });
 
-  function raum(){ return D.raeume.filter(function(r){ return r.id === fahrt.raum; })[0]; }
+  function raum(){ return fahrt.raum === 'alle' ? ALLE : D.raeume.filter(function(r){ return r.id === fahrt.raum; })[0]; }
   function ortVon(slug){ return raum().orte.filter(function(o){ return o.slug === slug; })[0]; }
   function istPush(){ return fahrt && fahrt.quelle !== 'pull'; }
   function aktivScreen(){ for(var i = 0; i < IDS.length; i++) if(!$(IDS[i]).hidden) return IDS[i]; return null; }
@@ -288,9 +296,12 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     gruppe('#sim-tempo .opt', 'kmh', 'kmh', Number);
     gruppe('#sim-faktor .opt', 'f', 'f', Number);
     $('sim-wahl').hidden = wahlStart.quelle !== 'sim';
+    $('strecke-titel').hidden = $('raeume').hidden = wahlStart.quelle === 'gps';
     sichern('wahl', wahlStart);
     $('bar-weiter').hidden = !(fahrt && !fahrt.ende);
-    $('vorrat-info').textContent = 'Karten aus dem geprüften Vorrat (Faktencheck). Echte Fahrt: nur in den Räumen Freiburg und Neuwied sinnvoll; der Bildschirm muss an bleiben.';
+    $('vorrat-info').textContent = wahlStart.quelle === 'gps'
+      ? 'Echte Fahrt: alle ' + ALLE.orte.length + ' Orte sind im Topf, Fragen kommen, wenn ein Ort in Fahrtrichtung näher kommt. Der Bildschirm muss an bleiben.'
+      : 'Karten aus dem geprüften Vorrat (Faktencheck). Simulation und Durchtippen folgen der gewählten Strecke.';
   }
 
   // ---- Geometrie: lokale Ebene in Metern ----
@@ -356,7 +367,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
 
   // ---- Fahrt anlegen ----
   $('starten').onclick = function(){
-    var r = D.raeume.filter(function(x){ return x.id === wahlStart.raum; })[0];
+    var r = wahlStart.quelle === 'gps' ? ALLE : D.raeume.filter(function(x){ return x.id === wahlStart.raum; })[0];
     fahrt = { raum: r.id, quelle: wahlStart.quelle, vor: wahlStart.vor, start: new Date().toISOString(), pos: 0,
               orte: r.orte.map(function(o){ return { slug: o.slug, zustand: 'fern', ev: {} }; }), log: [], ereignisse: [], aktiv: -1 };
     if(fahrt.quelle === 'sim') fahrt.sim = { kmh: wahlStart.kmh, f: wahlStart.f, s: 0, t: 0, pause: false };
@@ -425,10 +436,27 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
   }
 
   // ---- Fahrtkarte ----
+  // Welche Orte die Fahrtkarte zeigt: ohne GPS die ganze Strecke; mit GPS (Topf aller Orte) die gespielten in der
+  // Reihenfolge des Spiels und danach die nächsten drei voraus (in Sicht zuerst)
+  function inReichweite(l){ return l.still ? l.dist <= 15000 : (l.t > -FENSTER.nachlauf && l.lat <= 10000); }
+  function fahrtReihe(){
+    var alle = fahrt.orte.map(function(_, i){ return i; });
+    if(fahrt.raum !== 'alle') return alle;
+    var gesp = alle.filter(function(i){ var f = fahrt.orte[i]; return (f.karten && f.karten.length) || f.zustand === 'aktiv'; })
+                   .sort(function(a, b){ return (fahrt.orte[a].ev.start || 0) - (fahrt.orte[b].ev.start || 0); });
+    var voraus = alle.filter(function(i){
+      var f = fahrt.orte[i], l = f.lage;
+      if(gesp.indexOf(i) >= 0 || !l || f.zustand === 'ausgefallen' || f.zustand === 'gespielt') return false;
+      return inReichweite(l);
+    }).map(function(i){ var l = fahrt.orte[i].lage; return [i, l.still ? l.dist : l.t]; })
+      .sort(function(a, b){ return a[1] - b[1]; }).slice(0, 3).map(function(x){ return x[0]; });
+    return gesp.concat(voraus);
+  }
   function karteZeichnen(){
     var r = raum(), h = '', push = istPush();
     var nGesp = fahrt.orte.filter(function(f){ return f.karten && f.karten.length; }).length;
-    $('k-zaehler').textContent = r.name + ' · ' + nGesp + ' von ' + r.orte.length + ' Orten gespielt';
+    $('k-zaehler').textContent = fahrt.raum === 'alle' ? 'Echte Fahrt · ' + nGesp + ' Orte gespielt · ' + r.orte.length + ' im Topf'
+                                                     : r.name + ' · ' + nGesp + ' von ' + r.orte.length + ' Orten gespielt';
     $('k-vor').setAttribute('aria-pressed', fahrt.vor ? 'true' : 'false');
     $('k-pause').hidden = fahrt.quelle !== 'sim';
     if(fahrt.quelle === 'sim') $('k-pause').textContent = fahrt.sim.pause ? 'Weiter' : 'Pause';
@@ -440,8 +468,8 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     $('k-status').textContent = st;
     // Positionsmarke nur bei Simulation zwischen die Orte setzen
     var posGesetzt = fahrt.quelle !== 'sim';
-    fahrt.orte.forEach(function(f, i){
-      var o = ortVon(f.slug), cls = 'todo', zus = '', blass = false;
+    fahrtReihe().forEach(function(i){
+      var f = fahrt.orte[i], o = ortVon(f.slug), cls = 'todo', zus = '', blass = false;
       if(!posGesetzt && rt.ortS[i] > fahrt.sim.s){ h += '<div class="stop"><i class="pin pos"></i><small>Position</small></div>'; posGesetzt = true; }
       var n = (f.ergebnisse || []).length, tr = (f.ergebnisse || []).filter(function(x){ return x === 'hit'; }).length;
       if(n){ cls = tr * 2 >= n ? 'hit' : ''; zus = tr + ' von ' + n + ' richtig'; }
@@ -452,6 +480,9 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
         zus = f.lage.still ? fmtKm(f.lage.dist) : (f.lage.t > 0 ? 'in ' + fmtZeit(f.lage.t) : 'jetzt') + (f.lage.lat > FENSTER.strecke ? ' · aus der Nähe, ' + fmtKm(f.lage.lat) + ' seitlich' : '');
         if(f.gleichBis > uhr()) zus += ' · gleich';
       }
+      if(fahrt.raum === 'alle' && !n && cls === 'todo' && f.lage){
+        zus = f.lage.still ? fmtKm(f.lage.dist) : 'in ' + fmtZeit(Math.max(0, f.lage.t)) + (f.lage.lat > FENSTER.strecke ? ' · ' + fmtKm(f.lage.lat) + ' seitlich' : '');
+      }
       if(!push && i === fahrt.pos){
         h += '<div class="stop"><i class="pin next"></i><span class="next-line">Nächster Ort: <b>' + o.name + '</b></span></div>';
         return;
@@ -459,6 +490,7 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
       h += '<div class="stop' + (blass ? ' blass' : '') + '" data-i="' + i + '"><i class="pin ' + cls + '"></i><b>' + o.name + '</b>' + (zus ? '<small>' + zus + '</small>' : '') + '</div>';
     });
     if(!posGesetzt) h += '<div class="stop"><i class="pin pos"></i><small>Streckenende</small></div>';
+    if(fahrt.raum === 'alle' && !h) h = '<div class="status">Noch kein Ort in Sicht. Die nächsten Orte erscheinen hier, sobald sie in Fahrtrichtung näher kommen.</div>';
     $('k-route').innerHTML = h;
     // Nachspielen: Pin eines gespielten oder passierten Orts antippen
     document.querySelectorAll('#k-route .stop[data-i]').forEach(function(el){
@@ -484,7 +516,10 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
       if(f.karten && f.karten.length) return;
       if(f.zustand === 'ausgefallen' || f.zustand === 'gespielt' || !freieKarten(i).length) return;
       var l = f.lage || (pos ? lage(i) : null); if(!l) return;
+      if(fahrt.quelle === 'gps' && !inReichweite(l)) return;
       var t = l.still ? l.dist : (l.t < -FENSTER.nachlauf ? Infinity : Math.abs(l.t));
+      // mit GPS zählt der Weg zur Seite mit (50 m je Sekunde): ein Ort direkt voraus geht dem 8 km neben der Straße vor
+      if(fahrt.quelle === 'gps' && !l.still) t += l.lat / 50;
       if(t < bt){ bt = t; best = i; }
     });
     return best;
@@ -672,7 +707,9 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
     fahrt.ende = fahrt.ende || new Date().toISOString(); sichern('fahrt', fahrt);
     if(gpsId !== null){ try{ navigator.geolocation.clearWatch(gpsId); }catch(e){} gpsId = null; }
     var gesp = fahrt.orte.filter(function(f){ return f.karten && f.karten.length; });
-    $('e-titel').textContent = r.orte[0].name + ' – ' + r.orte[r.orte.length - 1].name;
+    $('e-titel').textContent = fahrt.raum === 'alle'
+      ? (log.length ? log[0].name + ' – ' + log[log.length - 1].name : 'Echte Fahrt')
+      : r.orte[0].name + ' – ' + r.orte[r.orte.length - 1].name;
     $('e-meta').textContent = r.name + ' · ' + { gps: 'echte Fahrt', sim: 'Simulation', pull: 'durchgetippt' }[fahrt.quelle] + (fahrt.vor ? ' · vorgelesen' : '');
     $('e-orte').textContent = gesp.length;
     $('e-fragen').textContent = log.length;

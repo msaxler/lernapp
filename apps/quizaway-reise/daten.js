@@ -5030,7 +5030,7 @@ window.QA_DATEN = {
 },
 {
 "id": "bahn",
-"name": "Bahn Freiburg–Neuwied (rechte Rheinseite)",
+"name": "Freiburg–Neuwied und Umgebung (Bahn und Auto)",
 "orte": [
 {
 "slug": "65-march",
