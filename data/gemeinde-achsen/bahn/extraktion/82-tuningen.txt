@@ -1,0 +1,759 @@
+ENTITÄT: ort
+BEZEICHNUNG: Tuningen
+QUELLE: https://www.tuningen.de/gemeinde-wirtschaft/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_erwaehnung: 797
+  erwaehnung_quelle: Schenkungsurkunde des Klosters St. Gallen
+  namensherkunft: soll vom Stammesführer Teino stammen (Sage)
+  benannt_nach: Teino (Stammesführer, Sage)
+  geschichte: Besiedlung seit ca. 10.000 Jahren, keltische Eisenzeit (Hallstattzeit, Latènekultur), römische Herrschaft, Alamannen und Franken
+GUELTIG_AB: 797
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+QUELLE: https://www.tuningen.de/gemeinde-wirtschaft/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 3574
+  gemarkungsflaeche_ha: 1559
+  landwirtschaftliche_nutzflaeche_2007_ha: 979
+  waldflaeche_gemeinde_ha: 352.6
+  waldflaeche_staat_ha: 34.7
+  waldflaeche_privat_ha: 92.01
+  hoehenlage_tiefster_punkt_m: 705.6
+  hoehenlage_hoechster_punkt_m: 883
+  hoehenlage_tiefster_punkt_lage: Sterzengraben/Lochenrain
+  hoehenlage_hoechster_punkt_lage: Distrikt Halden oberhalb Firma Lämmle
+  wasserharte: mittel
+  wasserharte_grad: 14.0
+  wasserharte_mmol_l: 2.49
+  sonnenstunden_jahr: 2100
+  klima: leicht unterkühltes Reizklima, ständiger leichter Wind
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: jubilaeum
+BEZEICHNUNG: 1200-jähriges Jubiläum
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1997
+  anlass: erste schriftliche Erwähnung vor 1200 Jahren
+GUELTIG_AB: 1997
+GUELTIG_BIS: 1997
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wanderpfad
+BEZEICHNUNG: Geschichtlicher Wanderpfad Tuningen
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  informationstafeln: 13
+  strecke_1_km: 7
+  strecke_1_charakter: ueberwiegend durch Wald
+  strecke_2_km: 6
+  strecke_2_charakter: weite Sicht in die Baarlandschaft
+  startpunkt: Bushaltestelle in der Ortsmitte (Buswartegebäude)
+  ausgangspunkt_auch: Buswartegebäude
+  karte_erhaeltlich_bei: Gemeindeverwaltung Tuningen kostenlos
+  auszeichnung: blaue Wegepfeile des Landesdenkmalamts
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wanderstation
+BEZEICHNUNG: Station 1
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Kreuzung alter Straßen aus Keltenzeit, Grabhügel
+  grabhügel_anzahl: 30
+  grabhügel_erkennbar: 11 (südwestlich im Gewann Hinter der Burg)
+  nutzung_römer: ja
+  beschreibung: Bei dieser Station kreuzen sich zwei alte Straßen, die vermutlich schon von den Kelten genutzt wurden. Wurden auch von Römern genutzt.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: wanderstation
+BEZEICHNUNG: Station 2
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Römerzeit - Straßenbau
+  beschreibung: Nachbildung einer römischen Straße mit vierschichtigem Aufbau (Sand und Kiesel, Platten und Blöcke, Steinbrocken und Kiesel, Steinpflaster)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderstation
+BEZEICHNUNG: Station 3
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Römerzeit - Meilenstein
+  beschreibung: Nachbildung eines römischen Meilensteines
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderstation
+BEZEICHNUNG: Station 4
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Jungsteinzeit - Werkzeuge
+  zeitraum_v_chr: 20000-4500
+  funde: Flachbeil mit geschliffener Klinge, Kernstück
+GUELTIG_AB: -20000
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: wanderstation
+BEZEICHNUNG: Station 5
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Hohe Mittelalter - Hohenlupfen und Adelsgeschlecht Lupfen
+  berg: Hohenlupfen
+  steuerpflichtige_bürger: 21
+  steuerliste_zeitraum: 2. Hälfte 13. Jahrhundert
+  adelsgeschlecht: Lupfen
+GUELTIG_AB: 1200
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: wanderstation
+BEZEICHNUNG: Station 6
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Latènekultur - Vierecksschanze
+  zeitraum_v_chr: 500-75
+  beschreibung: Keltischer Kultbezirk, wahrscheinlich auch Fliehburg
+  dimension_m_x_m: 60 x 70
+  wallhoehe_m: 1.20
+  struktur: Wallgeviert mit breitem Graben und leicht überhöhten Ecken
+  toranlage_nordosten: ja
+  innenausstattung: Tempelgebäude und tiefer Opferschacht für blutige Rituale
+GUELTIG_AB: -500
+GUELTIG_BIS: -75
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: wanderstation
+BEZEICHNUNG: Station 7
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Jura-Zeit - Liaporwerk
+  gestein_nutzung: Tone aus Lias und Dogger
+  produkt: Blähtonkugeln
+  verwendung: Hydrokultur, Baustoffindustrie
+  eigenschaft_blaehoton: hervorragende Dämmeigenschaften
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: wanderstation
+BEZEICHNUNG: Station 8
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Eisenzeit (Hallstattzeit) - Kelten, Grabhügel
+  zeitraum_v_chr: 750-450
+  beschreibung: Modell eines originalgetreuen Keltengrabhügels
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderstation
+BEZEICHNUNG: Station 9
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: 1200 Jahre Tuningen - Alamannen
+  titel: 1200 Jahre Tuningen
+  person: Thrutbert von Dainingas (Tuningen)
+  person_rolle: alamannischer Adeliger
+  schenkungs_jahr: 797
+  geschenkte_orte: Weigheim und Trossingen
+  empfaenger: Kloster Sankt Gallen
+  dokumentation: Schenkungsurkunde enthält erste schriftliche Erwähnung Tuningens
+  legende: Stammesführer Teino soll Tuningen seinen Namen gegeben haben
+  legende_vertrauen: vermutlich
+GUELTIG_AB: 797
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: wanderstation
+BEZEICHNUNG: Station 10
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Römerzeit - Villa rustica
+  fundort_gewann: Weil
+  typ: römischer Gutshof
+  funde: Grundmauern
+  namensetymologie: Gewannsname "Weil" geht wahrscheinlich auf lateinisches "villa" zurück
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderstation
+BEZEICHNUNG: Station 11
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Jura-Zeit - Fossil
+  species: Eoderoceras bispinigerum
+  typ: Ammonit
+  rarität: selten
+  beschreibung: Zeitgenosse der Saurier, versteinerte Schale
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wanderstation
+BEZEICHNUNG: Station 12
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Alamannen - Friedhof
+  typ: ehemaliger Alamannenfriedhof
+  bestattungspraktik: unverbrannt, nach Osten blickend, in Reihengräbern
+  funde: Spatha (zweischneidiges Langschwert), zwei Saxe (einschneidige Hiebschwerter), Bronzeknopf
+  funde_kontext: persönliche Habe der Toten
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: wanderstation
+BEZEICHNUNG: Station 13
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Jungsteinzeit - Werkzeuge
+  zeitraum_v_chr: 20000-4500
+  funde: Kernstück
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Hohenlupfen
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  burg: Hohe Lupfen
+  adelsgeschlecht: Lupfen
+  bewoehner_zeit_um_1000: ja
+  aebte_gestellt: Einsiedeln, Reichenau
+  priester_domherren: Rottweil, Straßburg
+  stammhaus_groesse: eine der größten Burgen in Württemberg
+  urspruengliche_ausdehnung: fast ganzer Rücken des Berges
+  zerstoerung_jahr: 1377
+  zerstoerung_durch: Städtebund unter Führung Rottweils
+  wiederaufbau: ja
+  bedeutung_nach_wiederaufbau: konnte frühere Bedeutung nicht mehr erreichen
+  bodenstruktur_erkennbar: Gliederung in Gräben und Wälle als Bodenmuster
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche
+QUELLE: https://www.tuningen.de/leben-freizeit/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strasse: Kirchstraße 5
+  plz_ort: 78609 Tuningen
+  telefon: 07464 1229
+  pfarrer: Helmut Pipiorke
+  konfession: evangelisch
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelisch-methodistische Kirche Johanneskirche
+QUELLE: https://www.tuningen.de/leben-freizeit/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch-methodistisch
+  gemeindehaus_strasse: Johannesstraße 43
+  gemeindehaus_plz_ort: 78609 Tuningen
+  pastorat_strasse: August-Reitz-Straße 22
+  pastorat_plz_ort: 78054 Villingen-Schwenningen
+  telefon: 07720 31683
+  pastorin: Dorothea Lautenschläger
+  pastor: Matthias Hetzner
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Anna (Katholische Kirche)
+QUELLE: https://www.tuningen.de/leben-freizeit/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  gemeindehaus_strasse: Ehrenschopfstraße 3
+  gemeindehaus_plz_ort: 78609 Tuningen
+  pfarrbuero_strasse: Erzbergerstraße 11
+  pfarrbuero_plz_ort: 78054 VS-Schwenningen
+  telefon: 07720 8557810
+  pfarrer: Thomas Schmollinger und John Kannu Musa
+  kirchenname: St. Anna
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Heimatmuseum
+QUELLE: https://www.tuningen.de/freizeitangebote/heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  genehmigung_zum_bau: 2. November 1882
+  erbauer_1: Johannes Kohler (Tagelöhner)
+  erbauer_2: Jakob Kaiser (Schneider)
+  spaetere_besitzer: Johann Jakob Erchinger
+  erchinger_berufe: Schreiner, Mesner, Briefträger
+  erchinger_vorfahren_nachweisbar_bis: Anfang 17. Jahrhundert
+  sohn_hans_erchinger_schicksal: 2. Weltkrieg gefallen
+  bruder_alfred_erchinger_bewohnt_bis: Herbst 1988
+  erwerber: Gemeinde Tuningen
+  sanierung_kosten_dm: 62000
+  heimatverein_investition_arbeitsstunden: ueber 2800
+  einweihung_datum: 23. März 1997
+  vorsitzender_damals: Kuno Gaß (verstorben)
+  kontakt_sonderführungen: W. Esslinger, Telefon 07464 2202
+  ausstellungsraum_erdgeschoss_scheune: Wechselausstellungen, Vorträge, Kammermusik, Kabarett, Kleinkunst
+  ausstellungsraum_erdgeschoss_wohnstube: Treffen am Kachelofen, Gespräche in heimischer Mundart
+  ausstellungsraum_erdgeschoss_kueche: neuzeitlicher Standard, Festlichkeiten
+  ausstellungsraum_erdgeschoss_gaden: Wechselausstellungen, Besonderheiten Tuninger Geschichte
+  ausstellungsraum_erstes_stockwerk: Wohnatmosphäre 18. und 19. Jahrhundert
+  ausstellungsraum_museum_kueche: Stil Jahrhundertwende
+  ausstellungsraum_obere_stube: Zeit um 1830
+  ausstellungsraum_obere_stube_schmuckstück: Lärchenebschrank von 1780
+  ausstellungsraum_obere_stube_weitere: Wäscheschrank 1870, Tisch und Stühle um 1780, Eisenofen, Tuninger Tracht, Truhe 1820
+  ausstellungsraum_dachgeschoss: chronologische Darstellung gesamte Vergangenheit Tuningens, erdgeschichtlich bis Jurazeit vor 190 Millionen Jahren
+  ausstellungsraum_werkstatt: Werkzeuge Schreiner, Schmied, Schuhmacher, Landwirt, Gussofen, Marderfalle, Mausefalle, Garbenseile, Deichel, Riffel, Breche für Flachs, Knecht für Schindeln
+  sammlung_fokus: fast ausschließlich Tuninger Schränke, Truhen und Einrichtungsgegenstände
+GUELTIG_AB: 1997
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: fabrik
+BEZEICHNUNG: Tuninger Liaporwerk
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rohstoffe: Tone aus Lias und Dogger
+  verarbeitung: Blähtonkugeln
+  verwendungszweck: Hydrokultur, Baustoffindustrie
+  eigenschaft_material: hervorragende Dämmeigenschaften
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Grundschule Tuningen
+QUELLE: https://www.tuningen.de/gemeinde-wirtschaft/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Grundschule
+  standort: Tuningen
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Evangelischer Kindergarten
+QUELLE: https://www.tuningen.de/gemeinde-wirtschaft/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Kindergarten
+  konfession: evangelisch
+  standort: Tuningen
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Kommunales Familienzentrum
+QUELLE: https://www.tuningen.de/gemeinde-wirtschaft/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Familienzentrum
+  traeger: kommunal
+  standort: Tuningen
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Kommunaler Waldkindergarten
+QUELLE: https://www.tuningen.de/gemeinde-wirtschaft/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Waldkindergarten
+  traeger: kommunal
+  standort: Tuningen
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Sportzentrum
+QUELLE: https://www.tuningen.de/gemeinde-wirtschaft/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sportplaetze: 2
+  tennisplaetze: 4
+  trimmpark: ja
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: zeitraum
+BEZEICHNUNG: Jura (erdgeschichtlich)
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_millionen_jahre_v_chr: 213-144
+  untergliederung_schwarzer_jura: Lias
+  untergliederung_brauner_jura: Dogger
+  untergliederung_weisser_jura: Malm
+  geographie: Mitteleuropa zu großen Teilen von Meer bedeckt
+  ablagerungen: Meeresgrund entwickelte sich zu Gesteinen
+  moderne_nutzung: Land- und Forstwirtschaft, Industrie
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: zeitraum
+BEZEICHNUNG: Jungsteinzeit
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_v_chr: 20000-4500
+  besiedlung_tuningen: ja
+  funde: Flachbeil mit geschliffener Klinge, Kernstück
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: zeitraum
+BEZEICHNUNG: Hallstattzeit
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_v_chr: 750-450
+  culture: Kelten
+  region: Tuningen/Baar
+  namenursprung: oberösterreichischer Fundort
+  bestattungspraktik: Hügelgräber
+  grabhügel_anzahl_tuningen: 30
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: zeitraum
+BEZEICHNUNG: Latènekultur
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_v_chr: 500-75
+  nachfolge_von: Hallstattzeit
+  kultur: Kelten
+  region: Tuningen
+  denkmaeler: Vierecksschanze
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: zeitraum
+BEZEICHNUNG: Römerzeit
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eindringen_zeitpunkt: um 15 v.Chr.
+  region: südwestdeutscher Raum, Baar
+  siedlungstypen: Kastelle, Lagerdörfer
+  funktion_kastelle: Grenzsicherung
+  folge_lagerdörfer: Ursprung mehrerer Städtegründungen
+  bedeutendste_stadt_region: Arae Flaviae (heutiges Rottweil)
+  kastell_baar: Galgenberg bei Hüfingen
+  kastell_funktion: Ausgangspunkt landwirtschaftliche Nutzung durch ausgemusterte Soldaten
+  soldat_versorgung: nach 25-jähriger Dienstzeit Parzelle
+  strassen: vierschichtiger Aufbau, Meilensteine
+  villa_rustica: bei Station 10 im Gewann Weil
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: zeitraum
+BEZEICHNUNG: Alamannen-Zeit
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eindringen: um 233 v.Chr.
+  limes_fall: 259 bzw. 260
+  folge_limes_fall: Rückzug römische Grenze bis Rheinlinie
+  ursprung_alamannen: Völkerwanderungszeit, von Franken nach Süden vertrieben
+  besiedlung_baar: ja
+  eingliederung_frankenreich: 6. bzw. 7. Jahrhundert
+  siedlungsnamen: meist auf "ingen" endend
+  tuningen_rolle: eine der ältesten alamannischen Siedlungen
+  friedhof: Alamannenfriedhof bei Station 12
+  friedhof_bestattung: unverbrannt, nach Osten blickend, Reihengräber
+  friedhof_funde: Spatha, zwei Saxe, Bronzeknopf
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Thrutbert von Dainingas
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: alamannischer Adeliger
+  ortsname_alt: Dainingas
+  ortsname_heute: Tuningen
+  schenkung_jahr: 797
+  geschenkte_orte: Weigheim, Trossingen
+  empfaenger: Kloster Sankt Gallen
+  dokumentation: Schenkungsurkunde enthält erste schriftliche Erwähnung Tuningens
+GUELTIG_AB: 797
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Teino
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Stammesführer
+  namensherkunft_legende: soll Tuningen seinen Namen gegeben haben
+  namensherkunft_status: Legende, Sage
+  namensherkunft_vertrauen: vermutlich
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Helmut Rothermel
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Verfasser der Wanderpfad-Texte
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Johann Jakob Erchinger
+QUELLE: https://www.tuningen.de/freizeitangebote/heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  berufe: Schreiner, Mesner, Briefträger
+  bekanntheit: bis heute noch vielen Tuningern persönlich bekannt
+  familiengeschichte_nachweisbar_bis: Anfang 17. Jahrhundert
+  eigenschaft: alteingesessene Tuninger Familie
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Johannes (Hans) Erchinger
+QUELLE: https://www.tuningen.de/freizeitangebote/heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Sohn von Johann Jakob Erchinger
+  position: Zweitältester Sohn
+  schicksal: im 2. Weltkrieg gefallen
+  hausbesitz: Besitzer des Heimatmuseum-Hauses
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Alfred Erchinger
+QUELLE: https://www.tuningen.de/freizeitangebote/heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Bruder von Hans Erchinger
+  hausbesitz: bewohnte das Heimatmuseum-Haus
+  abzug: Herbst 1988
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Kuno Gaß
+QUELLE: https://www.tuningen.de/freizeitangebote/heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Gemeinderat und Vorsitzender Heimatverein
+  leitung: fachkundige Leitung von Bauarbeiten und Gestaltung des Heimatmuseum-Hauses
+  status: inzwischen verstorben
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Johannes Kohler
+QUELLE: https://www.tuningen.de/freizeitangebote/heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Tagelöhner
+  werk: Erbauer des Heimatmuseum-Hauses (zusammen mit Jakob Kaiser)
+  genehmigung_datum: 2. November 1882
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Jakob Kaiser
+QUELLE: https://www.tuningen.de/freizeitangebote/heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Schneider
+  werk: Erbauer des Heimatmuseum-Hauses (zusammen mit Johannes Kohler)
+  genehmigung_datum: 2. November 1882
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Helmut Pipiorke
+QUELLE: https://www.tuningen.de/leben-freizeit/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Pfarrer der evangelischen Kirche Tuningen
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Dorothea Lautenschläger
+QUELLE: https://www.tuningen.de/leben-freizeit/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Pastorin der evangelisch-methodistischen Kirche
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Matthias Hetzner
+QUELLE: https://www.tuningen.de/leben-freizeit/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Pastor der evangelisch-methodistischen Kirche
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Thomas Schmollinger
+QUELLE: https://www.tuningen.de/leben-freizeit/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Pfarrer der katholischen Kirche
+  kirchenname: St. Anna
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: John Kannu Musa
+QUELLE: https://www.tuningen.de/leben-freizeit/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Pfarrer der katholischen Kirche
+  kirchenname: St. Anna
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: W. Esslinger
+QUELLE: https://www.tuningen.de/freizeitangebote/heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Kontaktperson für Sonderführungen Heimatmuseum
+  telefon: 07464 2202
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Lupfen
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stammhaus: Hoher Lupfen
+  zeitperiode: um 1000 n.Chr.
+  role: stellte Äbte in Einsiedeln und Reichenau
+  priester_domherren_orte: Rottweil, Straßburg
+  burg_groesse: eine der größten Burgen in Württemberg
+  burg_ausdehnung: nahm einst fast ganzen Rücken des Berges ein
+  burg_zerstoerung: 1377 durch Städtebund unter Rottweils Führung
+  grund_zerstoerung: Widerstand gegen Raubritterunwesen
+GUELTIG_AB: 1000
+GUELTIG_BIS: 1377
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: grabhügel
+BESCHREIBUNG: Keltische Grabhügel
+QUELLE: https://www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: keltische Grabhügel
+  zeitraum: Hallstattzeit (750-450 v.Chr.)
+  anzahl_gesamt: 30
+  anzahl_erkennbar: 11
+  lage_erkennbar: südwestlich im Gewann Hinter der Burg
+  lage_gesamt: rund um Tuningen
+  besiedlung: ja
+  bestattungspraxis: Toten in Hügelgräbern bestattet
+  modell: Großes Grabhügelmodell bei Wanderstation 8 veranschaulicht Originalaussehen
+GUELTIG_AB: -750
+GUELTIG_BIS: -450
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: verkehrsanbindung
+QUELLE: https://www.tuningen.de/gemeinde-wirtschaft/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  autobahn: 81 Stuttgart-westlicher Bodensee
+  autobahnausfahrt: ja (eigene Ausfahrt)
+  bundesstrasse: B523 (Villingen-Schwenningen nach Tuttlingen)
+  entfernung_autobahn_minuten: 2
+  entfernung_bad_dürrheim_minuten: 10
+  entfernung_trossingen_minuten: 10
+  entfernung_villingen_schwenningen_minuten: 10
+  entfernung_bodensee_minuten: 30
+  entfernung_stuttgart_minuten: 60
+  bahnstationen_nähe: Villingen (Schwarzwald Offenburg - Konstanz), Schwenningen (Villingen - Rottweil - Stuttgart)
+  oepnv_verbindung: gute Verbindungen mit öffentlichen Nahverkehrsmitteln
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

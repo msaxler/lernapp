@@ -1,0 +1,656 @@
+ENTITÄT: ort
+BEZEICHNUNG: Rottweil
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_aelteste_stadt_bw: true
+  superlativ: älteste Stadt Baden-Württembergs
+  römischer_name: Arae Flaviae
+  erste_nennung_stadt_form: rotuvilla
+  erste_nennung_stadt_jahr: 771
+  erste_nennung_stadt_quelle: Vita vetustissima Sancti Galli
+  neue_stadt_gründung: um 1200
+  neue_stadt_gründer: Staufer
+  neue_stadt_verlagerung: vom Mittelteil (Königshof) an heutigen Platz über Neckarschleife
+  reichsstadt_status: true
+  reichsstadt_seit: 1434
+  reichsstadt_grund: Freiheitsbrief König Sigismunds bestätigte Privilegien (Gerichtsbarkeit, Selbstverwaltung)
+  reichsstadt_territorium_dörfer: 25
+  reichsstadt_territorium_grösse: eines der größten reichsstädtischen Territorien im deutschen Südwesten
+  eidgenossenschaft_bund_1: 1463
+  eidgenossenschaft_bund_ewig: 1519
+  eidgenossenschaft_bund_bestand: bis heute von keiner Seite aufgekündigt
+  dreissigjähriger_krieg_belagerungen: 3
+  dreissigjähriger_krieg_einnahmen: 2
+  dreissigjähriger_krieg_schwere_belagerung: November 1643
+  dreissigjähriger_krieg_belagerer: französische Armee des Marschall Guébriant
+  bevölkerung_dezimierung: ca. zwei Drittel
+  württemberg_angliederung: 1802/03
+  württemberg_grund: napoleonische Flurbereinigung
+  württemberg_status_nachher: Oberamtsstadt
+  kreisstadt_jahr: 1938
+  große_kreisstadt_jahr: 1970
+  einwohner_2022: 25513
+  gemarkung_fläche_ha: 7176
+  waldfläche_ha: 2929
+  wasserfläche_ha: 70
+  landwirtschaftsfläche_ha: 2726
+  höhenlage_altes_rathaus_m_ünn: 609.15
+  höhenlage_bahnhof_m_ünn: 557.74
+  längengrad: "8° 37,7 östl. Greenwich"
+  breitengrad: "48° 10,1 nördl. Breite"
+GUELTIG_AB: 771
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: römische_siedlung
+BEZEICHNUNG: Arae Flaviae
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  römisches_stadtrecht: true
+  römisches_stadtrecht_eigenschaft: einziger Ort im heutigen Baden-Württemberg
+  gründung_kaiser: Domitian
+  gründung_jahre: "81-96 n.Chr."
+  superlativ: älteste Stadt Baden-Württembergs
+  militärischer_ursprung: true
+  kastelle_ab: 74
+  kastelle_dokumentiert: Kastell IV, Kastell V
+  straßenkreuzungen: Straßburg (Argentoratum) an Donau, Windisch (Vindonissa) bei Brugg via Donau nach Norden
+  entwicklung: aus Militärstützpunkt zur zivilen Stadt
+  blüte: 2. Jahrhundert n.Chr.
+  rang: Municipium
+  rang_beleg: schriftlich verbürgt auf Holztäfelchen
+  forum: vorhanden
+  tempel: vorhanden
+  tempel_typ: Podiumstempel mit Tempelbezirk
+  bad_römerisch: vorhanden
+  villen: vorhanden
+  holzbauten: vorhanden
+  werkstätten: vorhanden
+  gräber: über 500
+  brunnen: vorhanden
+  säulenkapitell: vorhanden
+  verlassungsgrund: Druck der Germanen
+  verlassung_zeit: ab Mitte 3. Jahrhundert n.Chr.
+GUELTIG_AB: 74
+GUELTIG_BIS: 259
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Pelagius
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Urkirche
+  standort_grundlage: Ruinen eines römischen Bades
+  lage_fluss: rechts des Neckars
+  christianisierung_Jahrhundert: 7. Jahrhundert
+  christianisierung_quelle: Kloster St. Gallen
+  hypokaustanlage: vorhanden
+  hypokaustanlage_zugänglichkeit: besuchbar April-Oktober 9-18 Uhr, Nov-März nach Vereinbarung
+GUELTIG_AB: 600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: königshof
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: um die Mitte des 8. Jahrhunderts
+  lage: Hochfläche links des Neckars
+  charakterisierung: fränkischer Königshof
+  übergang_erbe: ging in den Besitz der Staufer über
+  übergang_titel: als Herzöge, Könige und Kaiser
+  urkunden_aussteller_1: Karl der Dicke
+  urkunden_aussteller_1_jahr: 887
+  urkunden_aussteller_2: Ludwig das Kind
+  urkunden_aussteller_2_jahr: 906
+  urkunden_reich: ostfränkisches Reich
+  erste_erwähnung_stadt_anlehnung: Erste Nennung Rottweils als rotuvilla bezieht sich auf diesen
+GUELTIG_AB: 750
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: hunderasse
+BEZEICHNUNG: Rottweiler
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Treib- und Hütehunde der Metzger
+  wirtschaftszweig_bezug: Viehhandel
+  viehhandel_träger: Rottweiler Metzger
+  viehhandel_dauer: bis ins 19. Jahrhundert
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: industrie
+BEZEICHNUNG: Rottweiler Pulverfabrik
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gewerbe_art: Pulverproduktion
+  vorgänger: Pulvermühle im Neckartal
+  fabrik_entstehung_jh: 19. Jahrhundert
+  fabrikant_führender: Max Duttenhofer
+  fabrikant_eintritt: 1863
+  bedeutung: Weltgeltung
+  betrieb_zeitraum: 16. bis 20. Jahrhundert
+  heute_folgenutzung: Gewerbepark Neckartal
+  denkmalschutz: Vielzahl denkmalgeschützter Industriebauten
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bund
+BEZEICHNUNG: Schweizer Eidgenossenschaften-Bund
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_erster_bund: 1463
+  gründung_erster_bund_beschreibung: zeitlich befristeter Bund
+  gründung_erster_bund_dauer_bis: 1519
+  gründung_ewiger_bund: 1519
+  ewiger_bund_beschreibung: machte Rottweil zu zugewandtem Ort der Eidgenossenschaft auf unbegrenzte Zeit
+  bestand_heute: von keiner Seite aufgekündigt
+GUELTIG_AB: 1463
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gericht
+BEZEICHNUNG: Kaiserliches Hofgericht Rottweil
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  epitheton: Residenz des Rechts
+  zuständigkeitsbereich: von Köln bis zum Alpenkamm, von den Vogesen bis zum Lech
+  zuständigkeitsbereich_zeit: Blütezeit im ausgehenden Mittelalter
+  bewertung_kaiser_maximilian: wichtigstes Gericht in deutschen Landen
+  bestandsverlust_drohung: Habsburger drohten mit Entzug zur Bewahrung des katholischen Glaubens
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Rottweiler Lateinschule
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung: 1297
+  erste_erwähnung_person: Schulmeister (Lateinschule)
+  bildungsstandort: ja
+  bekannte_absolventen: Glarean (Dichter, Humanist), Valerius Anselm (Verfasser Berner Chronik), Berchtold Haller (Reformator von Bern)
+  absolventen_zeit: um 1500
+GUELTIG_AB: 1297
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Belagerung Rottweils im Dreißigjährigen Krieg
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kriegszug: Dreißigjähriger Krieg
+  belagerungen_anzahl: 3
+  einnahmen_anzahl: 2
+  schwerste_belagerung_monat: November
+  schwerste_belagerung_jahr: 1643
+  schwerste_belagerung_dauer: länger
+  angreifer: französische Armee
+  angreifer_befehlshaber: Marschall Guébriant
+  angreifer_befehlshaber_verletzung: schwer verwundet
+  angreifer_befehlshaber_tod: im Rottweiler Dominikanerkloster gestorben
+  bevölkerungsverlust: ca. zwei Drittel dezimiert
+GUELTIG_AB: 1630
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gewerbe
+BEZEICHNUNG: Sichelschmieden
+ORTSTEIL_BEZUG: Au-Vorstadt
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: ausgehendes Mittelalter
+  anzahl: an die 100
+  lage: am Neckar
+  produktion_jährlich: an die 55000 Sicheln
+  bedeutung: bedeutender Wirtschaftszweig
+GUELTIG_AB: 1350
+GUELTIG_BIS: 1550
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: gewerbe
+BEZEICHNUNG: Tuchherstellung
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: Reichsstadtzeit
+  bedeutung: wichtigste Gewerbezweige (neben Metallverarbeitung)
+  blüte: um 1500
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1802
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: publikation
+BEZEICHNUNG: Schlaglichter der Rottweiler Geschichte
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte/1250-Jahre-Rottweil | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Festschrift
+  herausgeber: Dr. Kunz
+  herausgeber_titel: Stadtarchivleiter
+  verlag: Regionalkultur Ubstadt-Weiher
+  erscheinungstermin: Oktober 2021
+  umfang_seiten: ca. 300
+  kapiteln: 11
+  zeitlicher_rahmen: römisches Rottweil frühe Kaiserzeit bis Errichtung Testturm und Turmfest 2019
+  struktur: knappe, gut lesbare Beiträge zu breitem Spektrum
+  ausstattung: Abbildungen, Quellen- und Literaturhinweise
+  verfügbarkeit: Stadtarchiv Rottweil und lokaler Buchhandel
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ausstellung
+BEZEICHNUNG: 1250 Jahre Rottweil. Stationen der Geschichte
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte/1250-Jahre-Rottweil | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Dominikanermuseum
+  laufzeit_von: 13. November 2021
+  laufzeit_bis: 16. Januar 2022
+  träger_1: Stadt Rottweil
+  träger_2: Landkreis Rottweil
+  träger_3: Geschichts- und Altertumsverein (GAV)
+  themenstationen: 16
+  exponat_schwerpunkt: Abbildungen und herausragende Exponate
+  exponat_beispiel_1: mittelalterliche Pergamenthandschrift mit rotuvilla
+  exponat_beispiel_2: Papsturkunde von 1224 (Rechte Rottenmünster)
+  exponat_beispiel_3: Hofgerichtsordnung um 1430
+  exponat_beispiel_4: Belagerung durch König Konrad III.
+  leihgeber: verschiedene aus Deutschland und Schweiz
+  begleitprogramm_führungen: 8 öffentliche Sonntagsführungen
+  begleitprogramm_vorträge_donnerstag: 3 Vorträge á 19 Uhr
+  begleitprogramm_kinder: parallele Veranstaltungen zu 5 Sonntagsführungen
+GUELTIG_AB: 2021
+GUELTIG_BIS: 2022
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Stadtkapelle Rottweil
+QUELLE: https://www.rottweil.de/de/Kultur-Tourismus/Stadtkapelle-Rottweil/Das-sind-Wir/Die-Geschichte-der-Stadtkapelle | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  musikkultur_wurzeln: 15. Jahrhundert
+  erste_dokumentation_jahr: 1429
+  erste_dokumentation_person: Hans Engelfri
+  erste_dokumentation_position: fest besoldeter Stadtpfeifer
+  rang_musikgeschichte: bedeutender Rang unter Reichsstädten im oberdeutschen Kulturraum
+  privileg_bläser: Privileg Trompete zu blasen und Herrenpauke zu schlagen
+  gründungsjahr_haupttheorie: 1850
+  gründungsjahr_haupttheorie_quelle: Heimatforscher Anton Kampitsch
+  gründungsjahr_alternativtheorie: um 1810
+  gründungsjahr_alternativtheorie_grund: Klangkörperstruktur Türkische Musik
+  musikdirektor_fischer: Präzeptor Joseph Fischer
+  spielort_fischer: "Zum roten Ochsen", Untere Hauptstraße
+  städtische_kapelle_gegründet: 1877
+  städtische_kapelle_grund: Gemeinderat beschloss Errichtung städtische Musikkapelle
+  jahresgehalt_1877: 100 Mark
+  probenverpflichtung_1877: wöchentlich 2 Proben
+  dirigent_heim_name: Karl Michael Heim
+  dirigent_heim_ab: 1854
+  dirigent_heim_leistung: steigerte künstlerische Qualität, führte zu Organisationsform einer städtischen Einrichtung
+  dirigent_besele_name: Heinrich von Besele
+  dirigent_besele_komposition: Rottweiler Narrenmarsch
+  narrenmarsch_text: Otto Wolf
+  narrenmarsch_uraufführung: vermutlich großes Fastnachtskonzert 1882
+  narrenmarsch_rezeption: Komponist auf Schultern durch Duttenhofersche Reithalle getragen
+  dirigent_fischer_l: Lorenz Fischer
+  dirigent_fischer_l_ab: 1925
+  dirigent_fischer_l_erfahrung: reiche Orchestererfahrung aus halb Europa
+  dirigent_fischer_l_erfolg: 1929 verschiedene 1a-Preise in Kunststufe
+  dirigent_fischer_l_niveau: bemerkenswert hohes künstlerisches Niveau
+  dirigent_steinwandel: Josef Steinwandel
+  dirigent_steinwandel_beruf: Musikalien- und Instrumentenhändler
+  dirigent_steinwandel_jugendkapelle: 1931 gegründet
+  dirigent_kade: Alfons Kade
+  dirigent_kade_ab: 1951
+  dirigent_kade_leistung: führte Jugendarbeit fort, gründete Musikschule neu
+  dirigent_kade_schulen: leitete auch Chor Hl. Kreuz und Männergesangverein
+  dirigent_seidel: Horst Seidel
+  dirigent_seidel_ab: 1975
+  dirigent_seidel_ausrichtung: konzertante sinfonische Blasmusik
+  dirigent_seidel_herkunft: Augsburg
+  dirigent_seidel_vorher: Staatstheater Pforzheim als Oboist
+  dirigent_seidel_bis: 1981
+  dirigent_hettich: Alfons Hettich
+  dirigent_hettich_rolle: übergangsweise nach Seidel
+  dirigent_heyn: Peter Heyn
+  dirigent_heyn_ab: 1985
+  dirigent_heyn_vorher: Rundfunkblasorchester Leipzig
+  dirigent_heyn_staatsexamen: 1958 in Weimar
+  dirigent_heyn_fächer: Klavier und Posaune
+  dirigent_heyn_arrangements: unzählige eigene Arrangements
+  dirigent_heyn_innovationen: Kombinationen Blasmusik mit Chören, Sprechern, Ballett, Solisten
+  dirigent_heyn_narrenmarsch_neufassung: seit 1991 neue Fassung Friedrich Seyfried
+  dirigent_heyn_fasnetskonzerte: seit 1996 wieder Jahresprogram
+  dirigent_heyn_pension: vor 1999
+  dirigent_holzner: Hubert Holzner
+  dirigent_holzner_ab: 1999
+  dirigent_holzner_studium: Musikhochschule München, Posaune
+  dirigent_holzner_vorher: Bürgermusik Reichenau
+  dirigent_holzner_schwerpunkt: Jugendarbeit
+  dirigent_holzner_aktivität: Solist/Mitspieler verschiedener Ensembles
+  dirigent_holzner_erfolg: Wertungsspiele, CD Die Fünf Jahreszeiten
+  dirigent_holzner_abreise: 2011
+  dirigent_holzner_neueposition: Jugendmusikschule Bad Mergentheim
+  dirigent_berger: Clemens Berger
+  dirigent_berger_ab: 2012
+  dirigent_berger_herkunft: Freiburg im Breisgau
+  dirigent_berger_studium: Musikhochschule Zürich, Dirigieren Horn Theorie
+  dirigent_berger_andere_kapellen: Stadtmusik Brugg, Stadtkapelle Albstadt-Tailfingen
+  dirigent_berger_dauer: 6 Jahre
+  dirigent_berger_abreise: 2018
+  dirigent_berger_neueposition: Musik- und Kunstschule Donaueschingen
+  dirigent_könig: Julian König
+  dirigent_könig_ab: September 2018
+  dirigent_könig_rolle: kommissarisch
+  dirigent_könig_verbindung: seit Kindheit eng mit Kapelle
+  dirigent_könig_studium: Hochschulen Trossingen Berlin Graz
+  dirigent_könig_instrument: Posaune
+  dirigent_könig_abschluss: 2018 Berlin als Orchestermusiker
+  dirigent_nikol: Johannes Nikol
+  dirigent_nikol_ab: September 2019
+  dirigent_nikol_rolle: Leitung Jugendkapelle und Stadtkapelle sowie Bläserschule
+  umzug_jahr: Dezember 2020
+  umzug_adresse_neu: Johanniterstraße 33
+  umzug_adresse_alt: altes Kaufhaus, Herzen der Rottweiler Innenstadt
+GUELTIG_AB: 1429
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: musik_komposition
+BEZEICHNUNG: Rottweiler Narrenmarsch
+QUELLE: https://www.rottweil.de/de/Kultur-Tourismus/Stadtkapelle-Rottweil/Das-sind-Wir/Die-Geschichte-der-Stadtkapelle | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  komponist: Heinrich von Besele
+  text_verfasser: Otto Wolf
+  uraufführung_wann: vermutlich großes Fastnachtskonzert 1882
+  neubearbeitung_komponist: Friedrich Seyfried
+  neubearbeitung_seit: 1991
+GUELTIG_AB: 1882
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: saline
+BEZEICHNUNG: Rottweiler Saline Wilhelmshall
+QUELLE: https://www.rottweil.de/de/Kultur-Tourismus/Sehens-Erlebenswertes/Museen/Salinenmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_jahr: 1824
+  stilllegung_jahr: 1969
+  feuer_löschung_beschreibung: 1969 erloschen die Feuer unter Siedepfannen für immer
+  betrieb: Salzgewinnung
+  ausrüstung: Siedepfannen
+  bauwerke: zwei Bohrhäuser
+  antrieb: Wasserrad
+  museum_gegründet: 1979
+  museum_gründer: Solebadverein Rottweil
+  museum_träger_heute: Förderverein Salinenmuseum Rottweil e.V.
+GUELTIG_AB: 1824
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Salinenmuseum "Unteres Bohrhaus"
+QUELLE: https://www.rottweil.de/de/Kultur-Tourismus/Sehens-Erlebenswertes/Museen/Salinenmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Unteres Bohrhaus 1, 78628 Rottweil
+  stadtteil: Altstadt
+  gegründet: 1979
+  träger: Förderverein Salinenmuseum Rottweil e.V.
+  vorgänger_gründer: Solebadverein Rottweil
+  ausstellung_schwerpunkt: Salzgewinnung, Geologie, Siedevorgang Königliche Saline, Badewesen Rottweils
+  bestand: Kulturgeschichte, Geologie, Pläne, Fotos, Dokumente, Maschinen, Werkzeuge, Geräte, Arbeitsbedingungen
+  bauwerk_kern: zwei Bohrhäuser mit Wasserrad, 1983 versetzter Solerundbehälter
+GUELTIG_AB: 1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum Rottweil
+QUELLE: https://www.rottweil.de/de/Kultur-Tourismus/Sehens-Erlebenswertes/Museen/Stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  untergebracht_seit: 1884
+  untergebracht_in: Herdersches Haus
+  bestand_thema: Geschichte ehemalige Reichsstadt
+  ausstellung_schwerpunkt_1: Kaiserliches Hofgericht
+  ausstellung_schwerpunkt_2: Schweizer Eidgenossenschaft
+  themenschwerpunkt_3: Alltagskultur 1750-1870
+  themenschwerpunkt_4: Rottweiler Fastnacht
+  besonderheit: Herrenkramer'sche Krippe
+  krippe_typ: barocke Spielkrippe
+  krippe_weihnachtstradition: wird in Weihnachtszeit belebt
+GUELTIG_AB: 1884
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Dominikanermuseum
+QUELLE: https://www.rottweil.de/de/Kultur-Tourismus/Sehens-Erlebenswertes/Museen/Dominikanermuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abteilungen: 3
+  abteilung_1: Archäologische Funde Arae Flaviae und Kastelle
+  abteilung_2: Holzbildwerke und Altarblätter schwäbischer Bildhauer Spätgotik
+  abteilung_3: Gegenwartskunst mit wechselnden Ausstellungen
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Rottenmünster
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Reichsabtei
+  lage: vor den Toren Rottweils
+  säkularisierung_jahr: 1802/03
+  säkularisierung_grund: Einverleibung in württembergischen Staat
+  rechte_bestätigung: Papsturkunde 1224 bestätigte Rechte und Pflichten
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1802
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: kastell
+BEZEICHNUNG: Kastell IV
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.rottweil.de/de/Kultur-Tourismus/Sehens-Erlebenswertes/Museen/Roemerpfad-Rottweil-Altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: früheste Militärlager auf Rottweiler Boden
+  dokumentation: zwei Illustrationen zeigen Blick in dieses Kastell
+GUELTIG_AB: 74
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: kastell
+BEZEICHNUNG: Kastell V
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.rottweil.de/de/Kultur-Tourismus/Sehens-Erlebenswertes/Museen/Roemerpfad-Rottweil-Altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: früheste Militärlager auf Rottweiler Boden
+  dokumentation: zwei Illustrationen zeigen Blick in dieses Kastell
+GUELTIG_AB: 74
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: rundweg
+BEZEICHNUNG: Römerpfad Rottweil-Altstadt
+QUELLE: https://www.rottweil.de/de/Kultur-Tourismus/Sehens-Erlebenswertes/Museen/Roemerpfad-Rottweil-Altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  startpunkt: Pelagiuskirche Rottweil-Altstadt (Römerstraße)
+  stationen: St. Pelagius Bad, Hauptstraße, Kastelle IV und V, Tempelbezirk, antikes Säulenkapitell, Forum
+  betreiber: Stadt Rottweil und Bürgerverein Altstadt-Rottweil e.V.
+  infotafeln: Informationselemente an wichtigen Punkten
+  begehung: ganzjährig kostenfrei möglich
+  führungen: buchbar
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: testturm
+BEZEICHNUNG: Testturm Rottweil
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zweck: Aufzugsinnovationen
+  bedeutung_symbolisch: steht für Stadt aufgeschlossen zur Zukunft
+  turmfest_jahr: 2019
+  erwähnung_in_festschrift: bis Turmfest 2019
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: hochschule
+BEZEICHNUNG: Hochschule Furtwangen
+QUELLE: https://www.rottweil.de/de/Wirtschaft-Bauen/Standort-Rottweil/Kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Rottweil
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Feckenhausen
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Teilort von Rottweil
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Göllsdorf
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Teilort von Rottweil
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hausen
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Teilort von Rottweil
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neufra
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Teilort von Rottweil
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neukirch
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Teilort von Rottweil
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Zepfenhan
+QUELLE: https://www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Teilort von Rottweil
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: INKOM Südwest
+QUELLE: https://www.rottweil.de/de/Wirtschaft-Bauen/Standort-Rottweil/Kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  größe_ha: über 60
+  größe_vergleich: eines der größten Industrie- und Gewerbegebiete der Region
+  träger: Stadt Rottweil und Gemeinde Zimmern o.R.
+  region: Schwarzwald-Baar-Heuberg
+  lage: direkte Nähe A 81 und Bahnlinie Stuttgart-Zürich
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: gewerbepark
+BEZEICHNUNG: Gewerbepark Neckartal
+QUELLE: https://www.rottweil.de/de/Wirtschaft-Bauen/Standort-Rottweil/Kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgänger: ehemalige Rottweiler Pulverfabrik
+  charakter_bewahrung: Gewerbepark der Ideenwirtschaft in unverwechselbarem Charakter
+  bauwerk_typ: denkmalgeschützte Industriebauten
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80

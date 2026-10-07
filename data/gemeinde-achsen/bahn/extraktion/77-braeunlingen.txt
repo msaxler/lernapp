@@ -1,0 +1,408 @@
+ENTITÄT: ort
+BEZEICHNUNG: Bräunlingen
+QUELLE: https://braeunlingen.de/stadtteile/braeunlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Schwarzwald-Baar-Kreis, Südwesten Baden-Württemberg
+  einwohner_gesamt: 6095
+  einwohner_kernstadt: 4194
+  status: Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Bräunlingen
+QUELLE: https://braeunlingen.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_nennung_als_bruelingen: 802
+  grund_erstmalige_nennung: Schenkungsurkunde an Kloster Reichenau
+  stadt_seit: 1305
+  status_1305: österreichische Enklave
+  teil_von_grossherzogtum_baden: 1719
+GUELTIG_AB: 802
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: archäologischer_fund
+BEZEICHNUNG: Steinzeitliche Funde
+ORTSTEIL_BEZUG: Bruggen
+QUELLE: https://braeunlingen.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: steinzeitlich
+  zeitraum_ca: 3000 v.Chr.
+  fundorte: Bruggen, Gewann Gießnau
+  bedeutung: Besiedlung belegt
+GUELTIG_AB: -3000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: adelssitz
+QUELLE: https://braeunlingen.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kultur: alamannisch
+  zeitraum: 450
+GUELTIG_AB: 450
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: stadtbefestigung
+QUELLE: https://braeunlingen.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Ummauerung mit Mauer, Graben und Wall
+  anzahl_tore: 4
+  benannt_nach: Herzöge von Zähringen
+  beschreibung: Stadtanlage mit vier Toren, Mauer, Graben und Wall
+GUELTIG_AB: 1203
+GUELTIG_BIS: 1565
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Kürnburg
+QUELLE: https://braeunlingen.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Zähringer-Stützpunkt
+GUELTIG_AB: 1203
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Brand der Stadt Bräunlingen
+QUELLE: https://braeunlingen.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_typ: Brand
+  auswirkung: Zerstörung der Stadt
+GUELTIG_AB: 1565
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Neue Stadtpfarrkirche
+QUELLE: https://braeunlingen.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Pfarrkirche
+  bauzeit: 1881-1884
+GUELTIG_AB: 1881
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Kirnbergsee Staumauer und Kraftwerk Waldhausen
+ORTSTEIL_BEZUG: Waldhausen
+QUELLE: https://braeunlingen.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Staumauer und Wasserkraftwerk
+  bauzeit: 1881-1922
+GUELTIG_AB: 1881
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bruggen
+QUELLE: https://braeunlingen.de/stadtteile/bruggen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingliederung_datum: 1939-09-01
+  einwohner: 137
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Stadthalle Bräunlingen
+QUELLE: https://braeunlingen.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau_jahr: 1952
+  anlass: Wiederverleihung der Stadtrechte
+  sanierung: 2011-2015
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Döggingen
+QUELLE: https://braeunlingen.de/stadtteile/doeggingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingliederung_datum: 1971-01-01
+  einwohner: 1082
+  erstmalige_nennung: 1123
+  grund_erstmalige_nennung: Tausch zwischen Klöstern Reichenau und St. Georgen
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: 900-jähriges Bestehen Döggingen
+QUELLE: https://braeunlingen.de/stadtteile/doeggingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jubilaeum: 900
+  feier_jahr: 2023
+  bezugsrahmen: erste urkundliche Erwähnung 1123
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Waldhausen
+QUELLE: https://braeunlingen.de/stadtteile/waldhausen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingliederung_datum: 1972-04-01
+  einwohner: 250
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mistelbrunn
+QUELLE: https://braeunlingen.de/stadtteile/mistelbrunn | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingliederung_datum: 1972-04-01
+  einwohner: 97
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Unterbränd
+QUELLE: https://braeunlingen.de/stadtteile/unterbraend | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingliederung_datum: 1972-04-01
+  einwohner: 335
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: seelsorgeeinheit
+BEZEICHNUNG: Seelsorgeeinheit Auf der Baar
+QUELLE: https://braeunlingen.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  gründung: 1. Januar 2015
+  grund_gründung: Zusammenlegung bisheriger Seelsorgeeinheiten Hüfingen und Bräunlingen
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Unsere Liebe Frau vom Berge Karmel
+QUELLE: https://braeunlingen.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Pfarrkirche
+  konfession: römisch-katholisch
+  seelsorgeeinheit: Auf der Baar
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Antonius
+ORTSTEIL_BEZUG: Bruggen
+QUELLE: https://braeunlingen.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Filialkirche
+  konfession: römisch-katholisch
+  seelsorgeeinheit: Auf der Baar
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Anna
+ORTSTEIL_BEZUG: Unterbränd
+QUELLE: https://braeunlingen.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Filialkirche
+  konfession: römisch-katholisch
+  seelsorgeeinheit: Auf der Baar
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Blasius
+ORTSTEIL_BEZUG: Waldhausen
+QUELLE: https://braeunlingen.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Filialkirche
+  konfession: römisch-katholisch
+  seelsorgeeinheit: Auf der Baar
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Mauritius
+ORTSTEIL_BEZUG: Döggingen
+QUELLE: https://braeunlingen.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Pfarrkirche
+  konfession: römisch-katholisch
+  seelsorgeeinheit: Auf der Baar
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Hüfingen-Bräunlingen
+QUELLE: https://braeunlingen.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  gebiet: Hüfingen und Bräunlingen einschließlich sämtlicher Stadtteile
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Micha Bächle
+QUELLE: https://braeunlingen.de/stadtteile/braeunlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Bürgermeister
+  stadt: Bräunlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Dr. Georg Baum
+QUELLE: https://braeunlingen.de/stadtteile/doeggingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Ortsvorsteher
+  ortsteil: Döggingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Horst Kritzer
+QUELLE: https://braeunlingen.de/stadtteile/waldhausen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Ortsvorsteher
+  ortsteil: Waldhausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Michael Amann
+QUELLE: https://braeunlingen.de/stadtteile/mistelbrunn | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Ortsvorsteher
+  ortsteil: Mistelbrunn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Lutz Rademacher
+QUELLE: https://braeunlingen.de/stadtteile/unterbraend | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Ortsvorsteher
+  ortsteil: Unterbränd
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Norbert Nutsugan
+QUELLE: https://braeunlingen.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Pfarrer
+  seelsorgeeinheit: Auf der Baar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Esther Toepper
+QUELLE: https://braeunlingen.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Pfarrerin
+  kirchengemeinde: Evangelische Kirchengemeinde Hüfingen-Bräunlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Breisgau-S-Bahn
+QUELLE: https://braeunlingen.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  infrastruktur_typ: Schienenpersonenverkehr
+  elektrifizierung: 2020
+  ereignis: Inbetriebnahme Elektrifizierung
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: hochwasserschutzmassnahme
+BEZEICHNUNG: Hochwasserschutz Brändbach
+QUELLE: https://braeunlingen.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  massnahme_typ: Hochwasserschutzanlage
+  bauzeit: 2009-2011
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Hochwasserkatastrophe
+QUELLE: https://braeunlingen.de/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_typ: Hochwasser
+  datum: 1990-02-15
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

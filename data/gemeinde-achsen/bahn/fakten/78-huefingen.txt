@@ -1,0 +1,565 @@
+ID: 78-huefingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Hüfingen
+QUELLE: https://www.huefingen.de/huefingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl_gesamt: 8082
+  einwohnerzahl_kernstadt: 5488
+  einwohnerzahl_stadtteile: 2594
+  gemarkungsflaeche: 5853 [ha]
+  ueberbaute_flaeche: 295 [ha]
+  forstwirtschaftliche_flaeche: 1711 [ha]
+  seeflaeche: 40 [ha]
+  hoehe_tiefster_punkt: 573.9 [m]
+  hoehe_hoechster_punkt: 917 [m]
+  postleitzahl: 78183
+  telefon_vorwahl_hauptstadt: 0771
+  telefon_vorwahl_hausen_mundelfingen: 07707
+  landkreis: Schwarzwald-Baar-Kreis
+  regierungsbezirk: Freiburg
+  verkehrsanbindung_bundesstrassen: B 27, B 31
+  entfernung_flughafen_donaueschingen_km: 5
+  entfernung_autobahn_a81_km: 6
+  lage: Südschwarzwald, Tal der Breg, Baarhochfläche
+  status_erholungsort: true
+  stadtfarben: Blau-Weiß
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 78-huefingen/002
+ENTITÄT: ort
+BEZEICHNUNG: Hüfingen
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Kleinstadt
+  nachbargemeinden: Donaueschingen (N), Geisingen (O), Blumberg (S), Wutach (S), Löffingen (W), Bräunlingen (W)
+  naturschutzgebiet: Deggenreuschen - Rauschachen
+  landschaftsschutzgebiet: Achdorfer Tal, Buchberg, Mundelfinger Viehweide
+  ffh_gebiete: Baar, Eschach, Südostschwarzwald, Wutachschlucht, Blumberger Pforte, Mittlere Wutach, Südliche Baaralb
+  naturpark: Südschwarzwald
+  entfernung_donaueschingen_km: 4
+  lage_geografisch: Baarhochfläche, Ostrand südlicher Schwarzwald
+  erste_urkundliche_erwaehnung: 1083
+  religioese_ausrichtung: Vorwiegend römisch-katholisch
+  katholische_kirchen: 7
+  moscheen: 2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 78-huefingen/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Behla
+QUELLE: https://www.huefingen.de/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_früher: selbstständige Gemeinde
+  eingemeindungsdatum: 1. Januar 1972
+  ortsvorsteher: Johannes Bogenschütz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 78-huefingen/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Fürstenberg
+QUELLE: https://www.huefingen.de/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_früher: Stadt
+  eingemeindungsdatum: 1. Dezember 1971
+  ortsvorsteher: Volker Gut
+  hoehe_hoechster_punkt: 917 [m]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 78-huefingen/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hausen vor Wald
+QUELLE: https://www.huefingen.de/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_früher: selbstständige Gemeinde
+  eingemeindungsdatum: 1. März 1972
+  ortsvorsteherin: Ingeborg Reitze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 78-huefingen/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mundelfingen
+QUELLE: https://www.huefingen.de/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_früher: selbstständige Gemeinde
+  eingemeindungsdatum: 1. Januar 1975
+  ortsvorsteher: Michael Jerg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 78-huefingen/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Sumpfohren
+QUELLE: https://www.huefingen.de/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_früher: selbstständige Gemeinde
+  eingemeindungsdatum: 1. April 1970
+  ortsvorsteherin: Ancilla Batsching
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 78-huefingen/008
+ENTITÄT: kastell_roemisch
+BEZEICHNUNG: Kastell Brigobannis
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  standort_flurname: Gewann Höhlenstein
+  zeitraum_betrieb: Früher 1. Jahrhundert n. Chr.
+  ausstattung: Badeanlage
+  beschreibung: Römische Befestigung mit Badeanlage
+  nachnutzung: Römerbadmuseum
+GUELTIG_AB: 1
+GUELTIG_BIS: 200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 78-huefingen/009
+ENTITÄT: ereignis_gewalt
+BEZEICHNUNG: Metzelei zu Hüfingen
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 15. Oktober 1632
+  todesfaelle: 200
+  beteiligte_maechte: Schweden, Württemberger, französische Söldner
+  kommandanten: Konrad Rehlinger oder Marx Rehlinger
+  oberkommando: Oberst Patrick Ruthven
+GUELTIG_AB: 1632
+GUELTIG_BIS: 1632
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 78-huefingen/010
+ENTITÄT: hexenverfolgung
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: 1631/32
+  beschuldigte_frauen: 8
+  beschuldigte_maenner: 1
+  hinrichtungen_minimum: 8
+  bekanntestes_opfer: Mathias Tinctorius
+  opfer_funktion: Notar und Richter
+GUELTIG_AB: 1631
+GUELTIG_BIS: 1632
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 78-huefingen/011
+ENTITÄT: ereignis_militaer
+BEZEICHNUNG: Französische Einquartierung und Brandschatzungsdrohung
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  datum_sommer: 1796
+  general: Tharreau
+  geforderte_summe: 200 Louisdor
+  geforderte_summe_euro_ca: 66000-88000
+  drohung: Brandschatzung
+  ergebnis: Gefahren entgangen durch Weitermarschbefehl
+GUELTIG_AB: 1796
+GUELTIG_BIS: 1796
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 78-huefingen/012
+ENTITÄT: ereignis_bombardierung
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: Februar–März 1945
+  anzahl_luftangriffe: 5
+  sprengbomben: 98
+  brandbomben: 200
+  todesfaelle: 25
+  gebaeude_beschaedigt_zerstoert: 263
+  gesamtschaden_reichsmark: 1200000
+  zeuge_bekannt: Martin Heidegger
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 78-huefingen/013
+ENTITÄT: kirche_katholisch
+BEZEICHNUNG: St. Verena und Gallus (Stadtkirche)
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Katholische Kirche
+  altarbild_schaffende_kunstler: Johann Baptist Seele
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 78-huefingen/014
+ENTITÄT: kirche_evangelisch
+BEZEICHNUNG: Friedenskirche
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Evangelische Kirche
+  funktion: Gotteshaus für wenige evangelische Christen
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 78-huefingen/015
+ENTITÄT: kapelle
+BEZEICHNUNG: Lorettokapelle
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 78-huefingen/016
+ENTITÄT: moschee
+BEZEICHNUNG: Mescidi Aksa Camii
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  religionsgemeinschaft: Türkische Muslime
+  traeger: DİTİB
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 78-huefingen/017
+ENTITÄT: moschee
+BEZEICHNUNG: Tuna Camii / Donau Moschee
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  religionsgemeinschaft: Türkische Muslime
+  traeger: Milli Görüş
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 78-huefingen/018
+ENTITÄT: schloss
+BEZEICHNUNG: Oberes Schloss / Vorderes Schloss
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  funktion_historisch: Schloss der Burgstadt
+  umgestaltung_jahr: 1712
+  funktion_aktuell: Fürstlich Fürstenbergisches Altenpflegeheim
+  stadt_teil: Hinterstadt
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 78-huefingen/019
+ENTITÄT: bauwerk
+BEZEICHNUNG: Fernmeldeturm Hüfingen
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 78-huefingen/020
+ENTITÄT: ruine
+BEZEICHNUNG: Burgruine Fürstenberg
+ORTSTEIL_BEZUG: Fürstenberg
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 78-huefingen/021
+ENTITÄT: kirche
+BEZEICHNUNG: St. Leonhard
+ORTSTEIL_BEZUG: Hüfingen
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 78-huefingen/022
+ENTITÄT: kirche
+BEZEICHNUNG: St. Peter und Paul
+ORTSTEIL_BEZUG: Hausen vor Wald
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 78-huefingen/023
+ENTITÄT: museum
+BEZEICHNUNG: Römerbadmuseum
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  exponat: Badeanlage des Kastell Brigobannis
+  beschreibung: Römische Badeanlage
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 78-huefingen/024
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum für Kunst und Geschichte
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 78-huefingen/025
+ENTITÄT: museum
+BEZEICHNUNG: Schulmuseum
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 78-huefingen/026
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Stadtmusik Hüfingen
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 78-huefingen/027
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Hüfinger Vokalkreis – Singing Voices e. V.
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 78-huefingen/028
+ENTITÄT: brauch
+BEZEICHNUNG: Blumenteppiche
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  tradition_seit: 1842
+  zeitpunkt_jaehrlich: Fronleichnamstag
+  zeitpunkt_beginn: ca. 4 Uhr morgens
+  flaeche_ca: 750 [m²]
+  laenge_ca: 500 [m]
+  breite: 1.80 [m]
+  motiv: Religiöse Motive
+  flaeche_angabe_einheit: Blüten, Wiesenblumen
+  initiator: Franz Xaver Reich
+  initiator_herkunft: Italien
+  superlativ: kulturelle Besonderheit Hüfingens
+GUELTIG_AB: 1842
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 78-huefingen/029
+ENTITÄT: verein
+BEZEICHNUNG: Narrenzunft Hüfingen
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  kulturbewegung: Schwäbisch-Alemannische Fastnacht
+  status: Gründungsmitglied der Vereinigung Schwäbisch-Alemannischer Narrenzünfte
+  hauptfigur: Hansel (Weißnarr)
+  beschreibung_hansel: Mit kunstvoll bemaltem Gewand
+  erznarr: Baptistle
+  beschreibung_erznarr: Einzelfigur mit Flickengewand und umgehängtem Fenster
+  publikums_ereignis: Fasnet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 78-huefingen/030
+ENTITÄT: sportverein
+BEZEICHNUNG: TUS Hüfingen
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Turnen / Mehrsport
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 78-huefingen/031
+ENTITÄT: sportverein
+BEZEICHNUNG: FC Hüfingen
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Fußball
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 78-huefingen/032
+ENTITÄT: buergermeister
+BEZEICHNUNG: Patrick Haas
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  amtsbeginn: 1. August 2024
+  wahltermin: 30. Juni 2024
+  wahlanteil_prozent: 61.3
+  vorgaenger_name: Kollmeier
+  vorgaenger_wahlanteil_prozent: 10.3
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 78-huefingen/033
+ENTITÄT: schule
+BEZEICHNUNG: Lucian-Reich-Schule
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  schultype_urspruenglich: Grund- und Hauptschule mit Werkrealschule
+  umwandlung_ab_2013_2014: Gemeinschaftsschule (5. Klassen)
+  schultype_ab_2018_2019: Gemeinschaftsschule (alle Klassen)
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 78-huefingen/034
+ENTITÄT: schule
+BEZEICHNUNG: Schellenbergschule
+ORTSTEIL_BEZUG: Hausen vor Wald
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  schultype: Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 78-huefingen/035
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz Xaver Reich
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1815–1881
+  beruf: Bildhauer
+  herkunftsort: Hüfingen
+  kulturelle_leistung: Initiator der Blumenteppich-Tradition
+  herkunft_brauch: Mitbringer des Brauchs aus Italien
+  wirkungsort: Hüfingen
+GUELTIG_AB: 1815
+GUELTIG_BIS: 1881
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 78-huefingen/036
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Mathias Tinctorius
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: vor 1600–1632
+  beruf: Notar und Richter
+  verbindung_ort: Hüfingen
+  ereignis: Opfer von Hexenprozess
+  strafvollzug: Hinrichtung
+GUELTIG_AB: 1600
+GUELTIG_BIS: 1632
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 78-huefingen/037
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Martin Heidegger
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Philosoph
+  verbindung_ort: Hüfingen
+  verbindung_typ: Besucher, Zeuge der Bombardierungen 1945
+  familienbezug: Schwester Marie verheiratet mit Rudolf Oschwald
+  odschwald_titel: Bezirkskaminfegermeister
+  besuchsjahr: Februar 1945
+  zeugnis_bombenangriffe: Brief an Ehefrau Elfriede vom 2. Februar 1945
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 78-huefingen/038
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Ornans
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  seit_jahr: 1978
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 78-huefingen/039
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Großschönau
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  land_bundesland: Sachsen, Deutschland
+  seit_jahr: 1990
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 78-huefingen/040
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Mende
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  land: Ungarn
+  seit_jahr: 1997
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 78-huefingen/041
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Internationaler Töpfermarkt
+QUELLE: https://www.huefingen.de/huefingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt_jaehrlich: Zweites Septemberwochenende
+  ort: Sennhofplatz
+  beschreibung: Alljährliche Veranstaltung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 78-huefingen/042
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Naturparkmarkt
+QUELLE: https://www.huefingen.de/huefingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  haeufigkeit: Zweijährlicher Rhythmus
+  ort: Hinterstadt
+  beschreibung: Markveranstaltung im Naturpark
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 78-huefingen/043
+ENTITÄT: herren_adelsgeschlecht
+BEZEICHNUNG: Herren von Blumberg
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  rolle_hüfingen: Besitzer
+  urkundliche_erwaehnung_ab: 1274
+GUELTIG_AB: 1274
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 78-huefingen/044
+ENTITÄT: herren_adelsgeschlecht
+BEZEICHNUNG: Herren von Schellenberg
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  rolle_hüfingen: Besitzer von Burg, Stadt und Dorf
+  uebernahme_jahr: 1382 oder 1383
+  bekannteste_vertreter: Konrad III. von Schellenberg, Burkhard III. von Schellenberg
+GUELTIG_AB: 1382
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 78-huefingen/045
+ENTITÄT: herren_adelsgeschlecht
+BEZEICHNUNG: Grafen von Fürstenberg
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  rolle_hüfingen: Besitzer, Entwicklung zur Oberamtsstadt
+  uebernahme_jahr: 1620
+  funktion_stadt: Oberamtsstadt und Verwaltungszentrum
+GUELTIG_AB: 1620
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 78-huefingen/046
+ENTITÄT: bruderschaft
+BEZEICHNUNG: Unserer-lieben-Frauen-Bruderschaft und große Jahrzeit
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  gruender: Konrad III. von Schellenberg, Burkhard III. von Schellenberg, Schultheiß, Rat der Stadt, Hüfinger Handwerksleute
+  gruendung: 1480
+  wirkungsdauer_bis: 18. Jahrhundert
+  bedeutung: Große Rolle im kirchlichen und kommunalen Leben
+GUELTIG_AB: 1480
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 78-huefingen/047
+ENTITÄT: veranstaltung_regional
+BEZEICHNUNG: Heimattage Baden-Württemberg
+QUELLE: https://de.wikipedia.org/wiki/Hüfingen | Wikipedia
+EIGENSCHAFTEN:
+  durchfuehrung_jahr: 2012
+  ausrichtungsort: Städtedreieck Donaueschingen/Bräunlingen/Hüfingen
+GUELTIG_AB: 2012
+GUELTIG_BIS: 2012
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8

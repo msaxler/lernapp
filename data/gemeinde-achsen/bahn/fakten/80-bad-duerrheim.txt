@@ -1,0 +1,1232 @@
+ID: 80-bad-duerrheim/001
+ENTITÄT: ort
+BEZEICHNUNG: Bad Dürrheim
+QUELLE: https://www.badduerrheim.de/Stadt-Buerger/Leben-Lernen/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe_meter_min: 700
+  hoehe_meter_max: 940
+  lage: Ferienregion zwischen Schwarzwald und Schwäbischer Alb
+  kurstadt_seit: 1921
+  einwohner: 13600
+  praeidikat_sole_heilbad: true
+  praeidikat_heilklimatischer_kurort: true
+  praeidikat_heilklimatischer_kurort_klasse: Premium Class
+  praeidikat_kneipp_kurort: true
+  superlativ: einziger Ort im Schwarzwald mit Dreifach-Prädikat
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 80-bad-duerrheim/002
+ENTITÄT: ort
+BEZEICHNUNG: Bad Dürrheim
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Schwarzwald-Baar-Kreis
+  bundesland: Baden-Württemberg
+  hoehe_meter_ueber_nn: 733
+  alter_name: Dürrheim
+  alter_name_gueltig_bis: 1921
+  superlativ: höchstgelegenes Solebad Europas
+  lage_beschreibung: Hochebene der Baar zwischen südlichem Schwarzwald und Schwäbischer Alb
+  ist_stadt_seit: 1974
+  ist_stadt_datum: 28. Mai 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 80-bad-duerrheim/003
+ENTITÄT: siedlung_historisch
+BEZEICHNUNG: Durroheim
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung_jahr: 889
+  erste_erwaehnung_urkunde: Gerichtsurkunde
+  erste_erwaehnung_zeitraum: 888–890
+  herkunft_name: Dialekt "Diere", auch "Diureheim"
+GUELTIG_AB: 888
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 80-bad-duerrheim/004
+ENTITÄT: frueher_siedlungskern
+QUELLE: https://www.badduerrheim.de/Freizeit-Tourismus/Stadtleben/Geschichte-Museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: zwei alemannische Reihengräberfriedhöfe
+  zeitraum: 6.–7. Jahrhundert nach Christus
+  materialien: Siedlungskern mit Friedhöfen
+GUELTIG_AB: 600
+GUELTIG_BIS: 700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 80-bad-duerrheim/005
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Esel von Dürrheim
+QUELLE: https://www.badduerrheim.de/Freizeit-Tourismus/Stadtleben/Geschichte-Museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Gründer und erste Besitzer der Eigenkirche
+  kirche: Eigenkirche zu Dürrheim
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 80-bad-duerrheim/006
+ENTITÄT: kirche
+BEZEICHNUNG: Eigenkirche zu Dürrheim
+QUELLE: https://www.badduerrheim.de/Freizeit-Tourismus/Stadtleben/Geschichte-Museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruender: Adelsgeschlecht der Esel von Dürrheim
+  besitzer_historisch: Johanniterorden
+  besitzer_uebergabe_jahr: 1299
+  besitzer_uebergabe_via: Grafen von Fürstenberg (13. Jahrhundert)
+  kirchenrat: Johanniterorden in Villingen
+GUELTIG_BIS: 1299
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 80-bad-duerrheim/007
+ENTITÄT: organistion_kirchlich
+BEZEICHNUNG: Johanniterorden in Villingen
+QUELLE: https://www.badduerrheim.de/Freizeit-Tourismus/Stadtleben/Geschichte-Museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  orden_name_alternativ: Malteserorden
+  rechte_erworben: Kirche Dürrheim mit allen Rechten
+  zeitpunkt: 13. Jahrhundert
+  kirche_bezug: Eigenkirche zu Dürrheim
+  symbol_im_stadtwappen: achtspitziges weißes Malteserkreuz auf rotem Grund
+GUELTIG_AB: 1299
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 80-bad-duerrheim/008
+ENTITÄT: gebaeude_historisch
+BEZEICHNUNG: Fronhof
+QUELLE: https://www.badduerrheim.de/Freizeit-Tourismus/Stadtleben/Geschichte-Museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Verwaltung von Gütern und Abgaben in und um Dürrheim
+  entwicklung: entwickelte sich zur genossenschaftlichen Dorfgemeinde
+  periode: Mittelalter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 80-bad-duerrheim/009
+ENTITÄT: person_historisch
+BEZEICHNUNG: Johann Baptist Willmann
+QUELLE: https://www.badduerrheim.de/Freizeit-Tourismus/Stadtleben/Geschichte-Museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Verdankt Dürrheim Salzbohrungen
+  zeitraum: 19. Jahrhundert
+  bedeutung: Grundlage für Entwicklung zur Heilbadstadt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 80-bad-duerrheim/010
+ENTITÄT: salzlager
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  entdeckung_jahr: 1822
+  entdecker_leiter: Bergrat Carl Josef Selb
+  salzgehalt_prozent: 27
+  foerderung_start_jahr: 1823
+  foerderung_produkt: Speisesalz
+  verarbeitung_ort: Saline
+  verarbeitung_methode: Siedepfannen
+GUELTIG_AB: 1822
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 80-bad-duerrheim/011
+ENTITÄT: saline
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1823–1826
+  funktion_urspruenglich: Speisesalzgewinnung durch Sieden
+  funktion_ab_1883: Badekuren mit Sole
+  architektur_stil: Klassizismus Weinbrenner-Stil
+  architekt: F. Arnold
+  name: Ludwigssaline
+  betreiber_ab_1920er: vereinigt mit Saline Bad Rappenau
+  betreiber_ab_1960er: Südwestdeutsche Salz AG
+  betreiber_ab_1971: Südwestdeutsche Salzwerke AG (nach Fusion mit Heilbronner Salzwerk)
+  status_nach_1971: stillgelegt aus wirtschaftlichen Gründen
+  gebaeude_nachnutzung: ehemaliges Salinen-Gebäude beherbergt Heimatmuseum (1986)
+GUELTIG_AB: 1823
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 80-bad-duerrheim/012
+ENTITÄT: person_historisch
+BEZEICHNUNG: Ernst Georg Kürz
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Salinen- und Badearzt
+  geburtsjahr: 1859
+  todesjahr: 1937
+  aktivitaet_zeitraum: Juli 1885 – September 1889
+  aktivitaet_orte: Bad Dürrheim und Bad Rappenau
+  saline_bezug: Ludwigssaline
+GUELTIG_AB: 1885
+GUELTIG_BIS: 1889
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 80-bad-duerrheim/013
+ENTITÄT: praeidikat
+BEZEICHNUNG: Bad (Prädikat)
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  verliehen_an: Dürrheim
+  verliehen_jahr: 1921
+  verliehen_grund: Salzlager und Badekuren mit Sole
+  neue_bezeichnung: Bad Dürrheim
+GUELTIG_AB: 1921
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 80-bad-duerrheim/014
+ENTITÄT: einrichtung_klinisch
+BEZEICHNUNG: DRK-Kindersolbad „Haus Hohenbaden"
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  betreiber: Deutsches Rotes Kreuz (Badisches Rotes Kreuz)
+  operation_zeitraum: 1960er und 1970er Jahre
+  bekannt_fuer: Misshandlung von Verschickungskindern
+  illegale_aktivitaet: heimliche Medikamentenversuche ohne Eltern-Information
+  veroeffentlichung: Ärztlicher Leiter publizierte in Fachzeitschriften
+  beschreibung: historisches Skandal-Dokument über Kindesmisshandlung und unethische medizinische Experimente
+GUELTIG_AB: 1960
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 80-bad-duerrheim/015
+ENTITÄT: person_historisch
+BEZEICHNUNG: Hans Kleinschmidt
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1905
+  todesjahr: 1999
+  fachwissen: Kinderarzt
+  rolle: Ärztlicher Leiter des DRK-Kindersolbades Bad Dürrheim
+  amtszeit: 1956–1973
+  veroeffentlichungen: Fachzeitschriften über Medikamentenversuche
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 80-bad-duerrheim/016
+ENTITÄT: gebaeude_historisch
+BEZEICHNUNG: Ankenbuck
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  typ: Hofgut
+  nutzung_historisch: Konzentrationslager
+  nutzung_zeitraum: 1933–1934
+  lage: westlich von Ankenbuck
+  kontext: Machtergreifung der Nationalsozialisten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 80-bad-duerrheim/017
+ENTITÄT: rundfunksender
+BEZEICHNUNG: Sender Bad Dürrheim
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  frequenzbereich: Mittelwelle
+  betrieb_zeitraum: 1950–1978
+  lage: westlich von Ankenbuck
+GUELTIG_AB: 1950
+GUELTIG_BIS: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 80-bad-duerrheim/018
+ENTITÄT: stadtteil
+BEZEICHNUNG: Biesingen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1971
+  eingemeindung_datum: 1. September 1971
+  frueherer_status: selbststaendige Gemeinde
+  wohnplatz: Mühle
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 80-bad-duerrheim/019
+ENTITÄT: stadtteil
+BEZEICHNUNG: Oberbaldingen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1971
+  eingemeindung_datum: 1. September 1971
+  frueherer_status: selbststaendige Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 80-bad-duerrheim/020
+ENTITÄT: stadtteil
+BEZEICHNUNG: Öfingen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1971
+  eingemeindung_datum: 1. September 1971
+  frueherer_status: selbststaendige Gemeinde
+  wuestung: Gebtenhausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 80-bad-duerrheim/021
+ENTITÄT: stadtteil
+BEZEICHNUNG: Hochemmingen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1972
+  eingemeindung_datum: 1. Januar 1972
+  frueherer_status: selbststaendige Gemeinde
+  wohnplaetze: Hirschhalde, Waldkaffee
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 80-bad-duerrheim/022
+ENTITÄT: stadtteil
+BEZEICHNUNG: Sunthausen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1972
+  eingemeindung_datum: 1. Januar 1972
+  frueherer_status: selbststaendige Gemeinde
+  wuestung: Schaffhausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 80-bad-duerrheim/023
+ENTITÄT: stadtteil
+BEZEICHNUNG: Unterbaldingen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1972
+  eingemeindung_datum: 1. April 1972
+  frueherer_status: selbststaendige Gemeinde
+  wohnplaetze: Jägerhaus Unterhölzer, Torhäusle Unterhölzer, Ziegelei
+  wuestungen: Sebenhausen, Pfefflingen/Pfeffingen, Efringen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 80-bad-duerrheim/024
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum
+QUELLE: https://www.badduerrheim.de/Freizeit-Tourismus/Stadtleben/Geschichte-Museen/Heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruender: Geschichts- und Heimatverein e.V. Bad Dürrheim
+  gruendung_jahr: 1986
+  gruendung_mit_unterstuetzung: Stadt Bad Dürrheim
+  gebaeude_ursprung: ehemaliges Salinen-Gebäude
+  standort: Kernstadt, Salinenstraße 14
+  eintritt: kostenfrei
+  oeffnung_sonntag: 14:00–17:00 Uhr
+  winterpause: Dezember, Januar, Februar
+  sammlungen: Geschichte Bad Dürrheims ab 889, Johanniterherrschaft ab 1299, Salzlager, Saline, Kurwesen, bäuerliche Kultur, Handwerk, Kirche, Feuerwehr, Schule, Fastnacht, Waschen, Kindheit
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 80-bad-duerrheim/025
+ENTITÄT: museum
+BEZEICHNUNG: Narrenschopf
+QUELLE: https://www.badduerrheim.de/Freizeit-Tourismus/Stadtleben/Geschichte-Museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Schwäbisch-Alemannisches Fastnachtsmuseum
+  sammlungen: Schwäbisch-alemannische Fastnacht
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 80-bad-duerrheim/026
+ENTITÄT: museum
+BEZEICHNUNG: Jan Ullrich Cycling Museum
+QUELLE: https://www.badduerrheim.de/Freizeit-Tourismus/Stadtleben/Geschichte-Museen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Radsport, Jan Ullrich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+---
+ID: 80-bad-duerrheim/027
+ENTITÄT: organistion_kulturell
+BEZEICHNUNG: Narrenzunft Bad Dürrheim e. V.
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_jahr: 1925
+  vorgaengerorganisation: Gesellschaft Frohsinn
+  vorgaengerorganisation_gruendung: 1833
+  mitgliedschaft_vsan: seit 1929
+  vsan_name: Vereinigung Schwäbisch-Alemannischer Narrenzünfte
+  narrenfiguren: Narro (Weißnarr), Salzhansel, Alt-Narr, Sieder, Salzgeist
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 80-bad-duerrheim/028
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Johanneskirche
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1960–1961
+  architekt: Horst Linde
+  konfession: evangelisch
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 80-bad-duerrheim/029
+ENTITÄT: religiose_gemeinschaft
+BEZEICHNUNG: Evangelische Kirchengemeinde
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  stadt: Bad Dürrheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 80-bad-duerrheim/030
+ENTITÄT: religiose_gemeinschaft
+BEZEICHNUNG: Römisch-katholische Kirchengemeinde
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  stadt: Bad Dürrheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 80-bad-duerrheim/031
+ENTITÄT: religiose_gemeinschaft
+BEZEICHNUNG: Neuapostolische Kirche
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  stadt: Bad Dürrheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 80-bad-duerrheim/032
+ENTITÄT: religiose_gemeinschaft
+BEZEICHNUNG: Christliche Evangeliums-Gemeinde
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  stadt: Bad Dürrheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 80-bad-duerrheim/033
+ENTITÄT: amtsperson
+BEZEICHNUNG: Jonathan Berggötz
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  amtsantritt_jahr: 2019
+  amtsantritt_datum: 1. Juli 2019
+  geburtsjahr: 1986
+  partei: CDU
+  vorgaengerberuf: Wirtschaftsförderer in Rastatt
+  wahlbeteiligung_prozent: 50.92
+  stimmenanteil_prozent: 66.7
+  amtszeit_jahre: 8
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 80-bad-duerrheim/034
+ENTITÄT: amtsperson
+BEZEICHNUNG: Wilhelm Grießhaber
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  amtszeit: 1946–1954
+  ehrenbuerger_jahr: 1954
+  ehrenbuerger_datum: Dezember 1891
+  todesjahr: 1966
+  todesjahr_datum: 24. September 1966
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1954
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 80-bad-duerrheim/035
+ENTITÄT: amtsperson
+BEZEICHNUNG: Otto Weissenberger
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  amt: Bürgermeister, Kurdirektor
+  amtszeit: 1954–1979
+  geburtsjahr: 1911
+  geburtsjahr_datum: 31. Mai 1911
+  todesjahr: 1999
+  todesjahr_datum: 28. November 1999
+  ehrenbuerger_jahr: 1979
+  titel: Senator h. c.
+  auszeichnung: Verdienstmedaille des Landes Baden-Württemberg (1976)
+GUELTIG_AB: 1954
+GUELTIG_BIS: 1979
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 80-bad-duerrheim/036
+ENTITÄT: amtsperson
+BEZEICHNUNG: Gerhard Hagmann
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  amt: Bürgermeister, Kurdirektor
+  amtszeit: 1979–2003
+  geburtsjahr: 1942
+  geburtsjahr_datum: 1. Februar 1942
+  ehrenbuerger_jahr: 2003
+  ehrenbuerger_datum: 16. Mai 2003
+  auszeichnung: Verdienstmedaille des Städtetags in Silber (2007)
+GUELTIG_AB: 1979
+GUELTIG_BIS: 2003
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 80-bad-duerrheim/037
+ENTITÄT: amtsperson
+BEZEICHNUNG: Walter Klumpp
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  amt: Bürgermeister
+  amtszeit: 2003–2019
+  geburtsjahr: 1957
+  geburtsjahr_datum: 7. Dezember 1957
+  ehrenbuerger_jahr: 2019
+  rolle_zusaetzlich: Aufsichtsratsvorsitzender der Kur- und Bäder GmbH Bad Dürrheim
+  rolle_zusaetzlich_zeitraum: 2003–2019
+  wohnort_aktuell: Tuningen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 80-bad-duerrheim/038
+ENTITÄT: stadtwappen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  verliehen_datum: 7. Dezember 1957
+  verleihende_behoerde: Innenministerium Baden-Württemberg
+  beschreibung_blasonierung: In gespaltenen Schild vorn Johanniterkreuz (silber auf rot), hinten achtstrahliger Stern über Wellenlinien (silber auf blau); goldener Stab in der Mitte
+  symbolik_johanniterkreuz: historische Bedeutung des Johanniterordens
+  symbolik_stab: Bohrloch zur Solegewinnung
+  symbolik_stern_wellenlinien: Heilfaktoren Sonne, Sole, Höhenluft
+  herkunft_vorbild: Siegel des Vogtes aus dem 18. Jahrhundert
+  farben: Weiß-Rot (Banner längsgestreift), Weiß-Rot (Flagge quergestreift)
+GUELTIG_AB: 1957
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 80-bad-duerrheim/039
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Hajdúszoboszló
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  land: Ungarn
+  art: Städtepartnerschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 80-bad-duerrheim/040
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Enghien-les-Bains
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Île-de-France
+  art: Städtepartnerschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 80-bad-duerrheim/041
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Spotorno
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  land: Italien
+  region: Ligurien
+  art: Städtepartnerschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 80-bad-duerrheim/042
+ENTITÄT: fernwanderstrecke
+BEZEICHNUNG: Ostweg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: Fernwanderstrecke an vielen Sehenswürdigkeiten vorbei
+  station: Bad Dürrheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 80-bad-duerrheim/043
+ENTITÄT: infrastruktur_wellness
+BEZEICHNUNG: Solemar
+QUELLE: https://www.badduerrheim.de/Stadt-Buerger/Leben-Lernen/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Wellness- und Gesundheitszentrum
+  flaeche_quadratmeter: 12000
+  becken_innen_aussen: 13
+  temperatur_sole_celsius: 37
+  ausstattung: Schwarzwald-Sauna, therapeutisches Fitnesscenter, Wellness-Vital-Center, Salzgrottenerlebniswelt
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 80-bad-duerrheim/044
+ENTITÄT: infrastruktur_wellness
+BEZEICHNUNG: Solemar
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  art: Wellness- und Gesundheitszentrum
+  eroeffnung_jahr: 1987
+  wasserfläche_quadratmeter: 800
+  becken_anzahl: 11
+  ausstattung: Sole-Heilbad, Sauna (Schwarzwald-Sauna), Totes-Meer-Salzgrotte, therapeutisches Fitnesscenter, Gaststätte
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 80-bad-duerrheim/045
+ENTITÄT: infrastruktur_freizeit
+BEZEICHNUNG: Minara
+QUELLE: https://www.badduerrheim.de/Stadt-Buerger/Leben-Lernen/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Freizeit- und Familienbad
+  zielgruppe: kleine Abenteurer und große Wasserratten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 80-bad-duerrheim/046
+ENTITÄT: infrastruktur_freizeit
+BEZEICHNUNG: Minara
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  art: Hallenbad mit Kinder- und Sportbecken, Sprungturm
+  freibad_stilllegung_jahr: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 80-bad-duerrheim/047
+ENTITÄT: sportevent
+BEZEICHNUNG: RiderMan
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  regelmaessigkeit: alljährlich
+  zielgruppe: Hobby-, Freizeit- und Amateur-Radfahrer
+  besonderheit: einziges deutsches Rennen in der Golden-Bike-Serie (UCI)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 80-bad-duerrheim/048
+ENTITÄT: sportevent
+BEZEICHNUNG: Deutsche Straßen-Radmeisterschaften
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  ausrichter: Bad Dürrheim
+  ausrichtung_jahre: 2023, 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 80-bad-duerrheim/049
+ENTITÄT: sportverein
+BEZEICHNUNG: FC 1919 Bad Dürrheim
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_jahr: 1919
+  sportarten: Fußball, Leichtathletik
+  anlage: zwei Sportplätze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 80-bad-duerrheim/050
+ENTITÄT: infrastruktur_kultur
+BEZEICHNUNG: Kurpark
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: weitläufige Parkanlage mit Themengärten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 80-bad-duerrheim/051
+ENTITÄT: infrastruktur_kultur
+BEZEICHNUNG: Salinensee
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: See im oder neben dem Kurpark
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.68
+---
+ID: 80-bad-duerrheim/052
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Unterhölzer Wald
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  art: Naturschutzgebiet
+  bad_duerrheim_anteil: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 80-bad-duerrheim/053
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Birken-Mittelmeß
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  art: Naturschutzgebiet
+  bad_duerrheim_anteil: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 80-bad-duerrheim/054
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Albtrauf-Baar
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  art: Naturschutzgebiet
+  bad_duerrheim_anteil: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 80-bad-duerrheim/055
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Schwenninger Moos
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  art: Naturschutzgebiet
+  bad_duerrheim_anteil: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 80-bad-duerrheim/056
+ENTITÄT: ffh_gebiet
+BEZEICHNUNG: Baar, Eschach und Südostschwarzwald
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  bad_duerrheim_anteil: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 80-bad-duerrheim/057
+ENTITÄT: ffh_gebiet
+BEZEICHNUNG: Nördliche Baaralb und Donau bei Immendingen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  bad_duerrheim_anteil: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 80-bad-duerrheim/058
+ENTITÄT: vogelschutzgebiet
+BEZEICHNUNG: Baar
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  bad_duerrheim_anteil: Großteil der Stadtfläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 80-bad-duerrheim/059
+ENTITÄT: naturpark
+BEZEICHNUNG: Südschwarzwald
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  bad_duerrheim_anteil: Gemarkung gehört dazu
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 80-bad-duerrheim/060
+ENTITÄT: veranstaltung_historisch
+BEZEICHNUNG: Landesgartenschau Baden-Württemberg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  austragungsort: Bad Dürrheim
+  austragungsjahr: 1994
+GUELTIG_AB: 1994
+GUELTIG_BIS: 1994
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 80-bad-duerrheim/061
+ENTITÄT: veranstaltung_historisch
+BEZEICHNUNG: Off Road Kids – Deutschland Land der Ideen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  art: Veranstaltung/Projekt
+  station: Bad Dürrheim
+  datum: 3. März 2009
+GUELTIG_AB: 2009
+GUELTIG_BIS: 2009
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 80-bad-duerrheim/062
+ENTITÄT: schule
+BEZEICHNUNG: Schule am Salinensee
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  art: Realschule
+  stadt: Bad Dürrheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 80-bad-duerrheim/063
+ENTITÄT: schule
+BEZEICHNUNG: Grund- und Werkrealschule
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  art: Grund- und Werkrealschule
+  stadt: Bad Dürrheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 80-bad-duerrheim/064
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Oberbaldingen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  art: Grundschule
+  stadtteil: Oberbaldingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 80-bad-duerrheim/065
+ENTITÄT: infrastruktur_kultur
+BEZEICHNUNG: Bad Dürrheimer Stadtbücherei
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  medienbestand: 4400
+  bestandsjahr: 2015
+  besonderheit: ungewöhnlich klein für eine Stadt dieser Größe
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 80-bad-duerrheim/066
+ENTITÄT: infrastruktur_kultur
+BEZEICHNUNG: Evangelische Kur- und Gemeindebücherei
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  medienbestand: 7000
+  traeger: evangelisch
+  stadt: Bad Dürrheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 80-bad-duerrheim/067
+ENTITÄT: hochschule
+BEZEICHNUNG: Institut für Pädagogikmanagement der Steinbeis-Hochschule Berlin
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  ort: Bad Dürrheim
+  betrieb_zeitraum: 2008–2018
+  traeger: Steinbeis-Hochschule Berlin
+  angebote: Bachelor- und Masterstudiengänge Gesundheits- und Bildungsmanagement
+GUELTIG_AB: 2008
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 80-bad-duerrheim/068
+ENTITÄT: gebaeude_historisch
+BEZEICHNUNG: Hänslehof
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  typ: alter Vogtshof der Johanniter
+  funktion_historisch: Amtssitz des Johannitervogtes
+  status: noch heute existierend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 80-bad-duerrheim/069
+ENTITÄT: person_historisch
+BEZEICHNUNG: August Freiherr von Althaus
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1791
+  geburtsjahr_datum: 25. Juli 1791
+  todesjahr: 1875
+  todesjahr_datum: 14. Mai 1875
+  titel: Bergrat
+  rolle: erster Salinenverwalter
+  rolle_amtszeit: 1823–1843
+  ehrenbuerger_jahr: 1843
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 80-bad-duerrheim/070
+ENTITÄT: person_historisch
+BEZEICHNUNG: Johann Georg Huber
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1861
+  geburtsjahr_datum: 30. Mai 1861
+  todesjahr: 1926
+  titel: Medizinalrat
+  rolle: Badearzt
+  ehrenbuerger_jahr: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 80-bad-duerrheim/071
+ENTITÄT: person_historisch
+BEZEICHNUNG: Walter Köhler
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1897
+  geburtsjahr_datum: 30. September 1897
+  todesjahr: 1989
+  todesjahr_datum: 9. Januar 1989
+  rolle: Ministerpräsident von Baden
+  ehrenbuerger_jahr: 1937
+  ehrenbuerger_entzug: 28. Mai 1946 (Anordnung Landrat Bienzeisler, Villingen)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 80-bad-duerrheim/072
+ENTITÄT: person_historisch
+BEZEICHNUNG: Ernst Müller
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1874
+  geburtsjahr_datum: 9. April 1874
+  todesjahr: 1955
+  todesjahr_datum: 24. Juli 1955
+  beruf: Hotelier
+  ehrenbuerger_jahr: 1951
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 80-bad-duerrheim/073
+ENTITÄT: person_historisch
+BEZEICHNUNG: Paul Vowinkel
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1906
+  geburtsjahr_datum: 12. April 1906
+  todesjahr: 1989
+  todesjahr_datum: 11. Juni 1989
+  titel: Staatsrat, Ministerialdirektor
+  rolle: Finanzministerium Baden-Württemberg
+  ehrenbuerger_jahr: 1963
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 80-bad-duerrheim/074
+ENTITÄT: person_historisch
+BEZEICHNUNG: Georg Huber
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1903
+  geburtsjahr_datum: 15. August 1903
+  todesjahr: 1994
+  todesjahr_datum: 3. November 1994
+  berufe: Arzt, Gemeinderat
+  ehrenbuerger_jahr: 1963
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 80-bad-duerrheim/075
+ENTITÄT: person_historisch
+BEZEICHNUNG: Lucian Reich
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1787
+  todesjahr: 1866
+  berufe: Lehrer, Maler, Bildhauer, Unternehmer
+  bezug: Sohn/Tochter der Stadt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 80-bad-duerrheim/076
+ENTITÄT: person_historisch
+BEZEICHNUNG: Paul Martin
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1859
+  todesjahr: 1913
+  beruf: Politiker
+  bezug: Sohn/Tochter der Stadt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 80-bad-duerrheim/077
+ENTITÄT: person_historisch
+BEZEICHNUNG: Manfred Bosch
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1947
+  berufe: Schriftsteller, Herausgeber
+  bezug: Sohn/Tochter der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 80-bad-duerrheim/078
+ENTITÄT: person_historisch
+BEZEICHNUNG: Rita Grießhaber
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1950
+  beruf: Politikerin
+  partei: Bündnis 90/Die Grünen
+  bezug: Sohn/Tochter der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.83
+---
+ID: 80-bad-duerrheim/079
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Bundesstraße 27
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: Stuttgart–Schaffhausen/Schweiz
+  kreuzung_in_bad_duerrheim: Bundesstraße 33
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 80-bad-duerrheim/080
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Bundesstraße 33
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: Konstanz–Offenburg
+  kreuzung_in_bad_duerrheim: Bundesstraße 27
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 80-bad-duerrheim/081
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Autobahn 81
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: Stuttgart–Singen
+  entfernung_zu_bad_duerrheim: nah
+  ausfahrten: 35, 36, 37 (A 864)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 80-bad-duerrheim/082
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Bundesstraße 31
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: Freiburg im Breisgau–Friedrichshafen am Bodensee
+  erreichbarkeit: über B 27/33 in Donaueschingen (9 km)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.83
+---
+ID: 80-bad-duerrheim/083
+ENTITÄT: infrastruktur_eisenbahn
+BEZEICHNUNG: Bahnstrecke Marbach–Bad Dürrheim
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  betrieb_zeitraum: 1904–1966
+  personenverkehr_ende: 1953
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 80-bad-duerrheim/084
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Verkehrsverbund Schwarzwald-Baar-Heuberg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: regelt ÖPNV Bad Dürrheim
+  buslinien_zu_bahnhoefen: Villingen, Schwenningen, Donaueschingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 80-bad-duerrheim/085
+ENTITÄT: infrastruktur_radfernweg
+BEZEICHNUNG: Alltagsroute Radnetz Baden-Württemberg
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  verbindungen: Bad Dürrheim–Schwenningen, Bad Dürrheim–Donaueschingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.83
+---
+ID: 80-bad-duerrheim/086
+ENTITÄT: gebaeude_unternehmen
+BEZEICHNUNG: Luisenklinik, Gesellschaft für Verhaltensmedizin und Gesundheitsforschung AG (GVG AG)
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  art: Klinik
+  mitarbeiter: 252
+  mitarbeiter_vollzeit: 179
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 80-bad-duerrheim/087
+ENTITÄT: gebaeude_unternehmen
+BEZEICHNUNG: Kunststoff Christel
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  art: Kunststoff-Verarbeitung
+  mitarbeiter: 250
+  mitarbeiter_vollzeit: 216
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 80-bad-duerrheim/088
+ENTITÄT: gebaeude_unternehmen
+BEZEICHNUNG: Kur- und Bäder GmbH Bad Dürrheim
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  art: Kur- und Gesundheitswirtschaft
+  mitarbeiter: 198
+  mitarbeiter_vollzeit: 154
+  traeger: 100-prozentige Tochtergesellschaft Stadt Bad Dürrheim
+  verwaltung_touristischer_aktivitaeten: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 80-bad-duerrheim/089
+ENTITÄT: gebaeude_unternehmen
+BEZEICHNUNG: Bad Dürrheimer Mineralbrunnen GmbH+Co. KG
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  art: Mineralbrunnen
+  mitarbeiter: 149
+  mitarbeiter_vollzeit: 145.2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 80-bad-duerrheim/090
+ENTITÄT: gebaeude_unternehmen
+BEZEICHNUNG: Waldeck SPA Kur-& Wellness Resort
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  art: Kur- und Wellness-Resort
+  mitarbeiter: 130
+  mitarbeiter_vollzeit: 125
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.83
+---
+ID: 80-bad-duerrheim/091
+ENTITÄT: gebaeude_unternehmen
+BEZEICHNUNG: KWA Kurstift Bad Dürrheim
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  art: Kurstift
+  mitarbeiter: 113
+  mitarbeiter_vollzeit: 43
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.83
+---
+ID: 80-bad-duerrheim/092
+ENTITÄT: gebaeude_unternehmen
+BEZEICHNUNG: Schloss-Klinik Sonnenbühl (Vital-Kliniken)
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  art: Klinik
+  mitarbeiter: 83
+  mitarbeiter_vollzeit: 65
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.84
+---
+ID: 80-bad-duerrheim/093
+ENTITÄT: gebaeude_unternehmen
+BEZEICHNUNG: Kaufland Handelshof GmbH & Co. KG
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  art: Verbrauchermarkt
+  mitarbeiter: 160
+  mitarbeiter_vollzeit: 40
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.84
+---
+ID: 80-bad-duerrheim/094
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Flugplätze Schwenningen und Donaueschingen
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  entfernung_zu_bad_duerrheim: nächstgelegen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 80-bad-duerrheim/095
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Flughafen Zürich
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  entfernung_km: 80
+  kategorie: internationaler Flughafen
+  erreichbarkeit_von: Bad Dürrheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 80-bad-duerrheim/096
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Flughafen Stuttgart
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  entfernung_km: 95
+  kategorie: internationaler Flughafen
+  erreichbarkeit_von: Bad Dürrheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 80-bad-duerrheim/097
+ENTITÄT: gewaerbe_besteuerung
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  einnahmen_2022_euro: 5400000
+  hebesatz_prozent: 390
+  rangierung_deutschland: unteres Mittelfeld aller deutschen Gemeinden
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 80-bad-duerrheim/098
+ENTITÄT: auszeichnung
+BEZEICHNUNG: Sonderpreis ServiceQualität
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  verleihende_organisation: Deutscher Tourismusverband e. V.
+  verleihung_jahr: 2010
+  empfaenger: Kur- und Bäder GmbH Bad Dürrheim / Stadt Bad Dürrheim
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 80-bad-duerrheim/099
+ENTITÄT: auszeichnung
+BEZEICHNUNG: Kneippkurort (Prädikat)
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  verleihende_institution: Land Baden-Württemberg
+  verleihung_jahr: 2013
+  empfaenger: Stadt Bad Dürrheim
+  vorbedingung_pruedikat: heilklimatischer Kurort, Solebad
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 80-bad-duerrheim/100
+ENTITÄT: gemeinderat
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  mitglieder_2024: 29
+  mitglieder_2019: 28
+  wahlsystem: unechte Teilortswahl
+  wahlbeteiligung_2024_prozent: 56.9
+  wahlbeteiligung_2019_prozent: 54.3
+  wahltermin_2024: 9. Juni 2024
+  ortschaftsraete: in den Stadtteilen (außer Kernstadt Bad Dürrheim)
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 80-bad-duerrheim/101
+ENTITÄT: natur_lebensraum
+BEZEICHNUNG: Büffelweide
+QUELLE: https://de.wikipedia.org/wiki/Bad_Dürrheim | Wikipedia
+EIGENSCHAFTEN:
+  flaeche_ungefaehr_hektar: 8
+  urspruengliche_nutzung: Landwirtschaft
+  brache_ab_jahrzehnt: 1960er
+  bestandteile: Landschilfbestand, Schwertlilie, Knabenkraut
+  vogelarten_historisch: Kiebitz verschwunden
+  management_ab_2016: Wasserbüffel (15 Stück) für Naturschutz
+  weiher: für Crickente angelegt
+  kiebitzpaerchen_2016: 1
+  kiebitzpaerchen_2017: 3
+  kiebitzpaerchen_2018: 6
+  weitere_vogelarten: Bläss- und Wasserralle, Zwergtaucher, langschnäbelige Bekassine
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88

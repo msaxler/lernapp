@@ -1,0 +1,465 @@
+ID: 85-sulz/001
+ENTITÄT: ort
+BEZEICHNUNG: Sulz am Neckar
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/sulz-am-neckar | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 790 n. Chr.
+  stadtrechtsverleihung: 1284
+  stadtrechtsverleihung_verleiher: König Rudolf von Habsburg
+  fluss: Neckar
+  beschreibung: Alte Stadt am jungen Neckar
+---
+ID: 85-sulz/002
+ENTITÄT: burg_ruine
+BEZEICHNUNG: Albeck
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/burgruine-albeck | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südwestlich der Stadt
+  erbauer_ursprung: Grafen von Sulz
+  ausbau: Ende 13. Jahrhundert
+  ausbau_durch: Freiherren von Geroldseck
+  zerstoerung_datum: 30. Dezember 1688
+  zerstoerung_durch: französisches Streifkorps (Feuer und Sprengung)
+  verkauf_an_dr_brand: 1969
+  verkauf_wert: 5000 DM
+  erwerb_durch_stadt: 1978
+  erwerb_wert: 33000 DM
+  foerderverein_gruendung: 10. März 1995
+GUELTIG_AB: Nach 910
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 85-sulz/003
+ENTITÄT: museum
+BEZEICHNUNG: Bauernfeind-Museum
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/bauernfeind-museum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestand_werke: ca. 200
+  bestand_originale: 75
+  bestand_originale_typen: Zeichnungen, Aquarelle, Ölgemälde
+  bestand_zusaetzlich: Fotos, Briefe, Schriftstücke
+  gruendung: 1990
+  betriebsweise: ehrenamtlich
+  begruender: Hugo Schmid
+  sammlungsbeginn: 1978
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 85-sulz/004
+ENTITÄT: person
+BEZEICHNUNG: Gustav Bauernfeind
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/bauernfeind-museum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_datum: 4. September 1848
+  geburt_ort: Sulz am Neckar
+  tod_datum: 24. Dezember 1904
+  tod_ort: Jerusalem
+  beruf: Künstler, Orientmaler
+  ruhm: bedeutendster deutscher Orientmaler des 19. Jahrhunderts
+  ehefrau: Elise (geb. Bertsch)
+  kind: Otto Konstantin
+  wohnort_spaeter: Templersiedlung Jerusalem
+  ausbildung: Architekturstudium Stuttgart
+GUELTIG_AB: 1848
+GUELTIG_BIS: 1904
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 85-sulz/005
+ENTITÄT: person
+BEZEICHNUNG: Johann Baptist Bauernfeind
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/bauernfeind-museum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Waldsassen, Oberpfalz
+  beruf: Apotheker
+  apotheke_standort: Marktplatz Sulz a.N.
+  apotheke_uebernahme: 1836
+  politisches_engagement: Revolution 1848/1849
+  haft_grund: Hochverrat
+  haft_ort: Festung Hohen-Asperg
+  haft_dauer: 2,5 Jahre
+  freilassung: Februar 1852
+  soehne_ueberlebensrate: 5 von 8 Kindern überlebten die Kindheit nicht
+GUELTIG_AB: 1836
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 85-sulz/006
+ENTITÄT: person
+BEZEICHNUNG: Lina Hähnle
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/sulzer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_jahr: 1851
+  tod_jahr: 1941
+  herkunft_ort: Sulz am Neckar
+  leistung: Gründerin des Vogelschutzbundes
+GUELTIG_AB: 1851
+GUELTIG_BIS: 1941
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 85-sulz/007
+ENTITÄT: person
+BEZEICHNUNG: Josef Gottlieb Kölreuter
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/sulzer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_jahr: 1733
+  tod_jahr: 1806
+  herkunft_ort: Sulz
+  beruf: Botaniker und Naturwissenschaftler
+GUELTIG_AB: 1733
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 85-sulz/008
+ENTITÄT: person
+BEZEICHNUNG: Carl Reinhold August Wunderlich
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/sulzer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_jahr: 1815
+  tod_jahr: 1877
+  herkunft_ort: Sulz
+  leistung: Begründer der modernen Heilkunde
+  position: Rektor der Universität Leipzig
+GUELTIG_AB: 1815
+GUELTIG_BIS: 1877
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 85-sulz/009
+ENTITÄT: person
+BEZEICHNUNG: General Johannes von Dettinger
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/sulzer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_jahr: 1842
+  tod_jahr: 1906
+  herkunft_ort: Sulz
+  rang: General
+GUELTIG_AB: 1842
+GUELTIG_BIS: 1906
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 85-sulz/010
+ENTITÄT: person
+BEZEICHNUNG: Otto Böklen
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/sulzer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_jahr: 1821
+  tod_jahr: 1900
+  herkunft_ort: Sulz
+  leistung: Bedeutender Mathematiker
+GUELTIG_AB: 1821
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 85-sulz/011
+ENTITÄT: museum
+BEZEICHNUNG: Römerkeller
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/roemische-besiedlung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: römisch
+  zeitstellung: 1./2. Jahrhundert n. Chr.
+  entdeckung: 1967-1972 bei Erschließung Baugebiet Sulz-Kastell
+  groesse: ca. 7 × 5 Meter
+  sicherung_jahr: 1993
+  sicherung_art: Schutzbau
+  ausstattung: Feuerstelle, Rundbogennischen, bemalte Wand
+  funktion_vermutung: Versammlungs- oder Kultraum
+  funde: Darstellungen Merkur und Epona, Spielsteine, Schreibgeräte, Glas- und Keramikgefäße
+GUELTIG_AB: 100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 85-sulz/012
+ENTITÄT: kastell
+BEZEICHNUNG: Römerkastell
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/roemische-besiedlung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: römisch
+  zeitstellung: 1./2. Jahrhundert n. Chr.
+  material: Stein
+  funktion: Teil der römischen Grenzsicherung
+  lage_strategisch: zwischen Schwarzwald und Schwäbischer Alb
+GUELTIG_AB: 74
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 85-sulz/013
+ENTITÄT: siedlung
+BEZEICHNUNG: Römervicus (Kastelldorf)
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/roemische-besiedlung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: römisch
+  zeitstellung: 1./2. Jahrhundert n. Chr.
+  entdeckung: 1967-1972
+  ausdehnung_nord_sued: mindestens 500 Meter
+  infrastruktur: römischer Brunnen
+  besiedlung_typ: zivile Bevölkerung
+GUELTIG_AB: 100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 85-sulz/014
+ENTITÄT: kloster
+BEZEICHNUNG: Alpirsbach
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/sulz-am-neckar | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1095
+  gruender: Graf Alwig (I.) von Sulz, Adalbert von Zollern, Ruotmann von Hausen (Neckarhausen)
+GUELTIG_AB: 1095
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 85-sulz/015
+ENTITÄT: saline
+BEZEICHNUNG: Saline Sulz
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/sulz-am-neckar | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  genehmigung_salzabbau: 1064
+  genehmigung_durch: Kaiser Heinrich
+  bedeutung: Salzstadt, wirtschaftlicher Rang
+  betriebsende: 1924
+  nachnutzung: Wohngebiet auf dem Wöhrd
+  versorgung_regionen: einzige Saline Württembergs für Jahrhunderte
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 85-sulz/016
+ENTITÄT: bruecke
+BEZEICHNUNG: Steinerne Waldhornbrücke
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/sulz-am-neckar | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zweck: Sole-Deichel (Rohrleitung) der Saline
+  periode_bezug: Zeit der Saline
+GUELTIG_AB: 1064
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 85-sulz/017
+ENTITÄT: brand
+BEZEICHNUNG: Großbrand 1581
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/sulz-am-neckar | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1581
+  zerstoerung_wohngebaeude: 112
+  zerstoerung_scheunen: einige
+GUELTIG_AB: 1581
+GUELTIG_BIS: 1581
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 85-sulz/018
+ENTITÄT: brand
+BEZEICHNUNG: Großbrand 1794
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/sulz-am-neckar | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1794
+  ausmaß: fast vollständige Zerstörung innerhalb Stadtmauern
+  ausnahmen: wenige Häuser, spätgotische Stadtkirche
+  wiederaufbau: nach einheitlichem Plan
+  stadtcharakter_gepraege: Plan prägt Stadtkern bis heute
+GUELTIG_AB: 1794
+GUELTIG_BIS: 1794
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 85-sulz/019
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche (spätgotische Stadtkirche)
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/sulz-am-neckar | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erhaltung_1794_brand: überstand Großbrand 1794
+  architekturstil: spätgotisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 85-sulz/020
+ENTITÄT: befestigung
+BEZEICHNUNG: Keltische Viereckschanze
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/sulz-am-neckar | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: Keltenzeit (La-Tene-Zeit, etwa 500 - um Christi Geburt)
+  zeitstellung: ca. 500 v. Chr. bis um Christi Geburt
+  lage: Stadtwald "Glockenturm"
+  genauigkeit: etwa
+GUELTIG_AB: -500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 85-sulz/021
+ENTITÄT: grabhuegel
+BEZEICHNUNG: Keltische Grabhügel
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/sulz-am-neckar | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: La-Tene-Zeit (etwa 500 - um Christi Geburt)
+  lage: Stadtwald "Glockenturm" und weitere Funde in Glatttal und Dürrenmettstetten
+  aufdeckung_dokumentation: 1891
+  fund_wagennabe: Verzierung mit Wülsten und Rillen, Bronzeblech, Nabenlänge 42 cm, Dicke 13 cm
+  fund_wagenmaterial: Bronze und Eisen
+GUELTIG_AB: -500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 85-sulz/022
+ENTITÄT: archiv
+BEZEICHNUNG: Stadtarchiv
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Bewahrung und Betreuung von Dokumenten zur Geschichte der Stadt
+  bestandstypen: Akten, Amtsbücher, Fotos, Karten, Pläne, Druckschriften, Ton- und Bildträger, EDV-Daten
+  aelteste_urkunden: 14. Jahrhundert
+  online_findbuch: in Arbeit, vorläufige Version verfügbar
+  portal: Archiv-Portal Baden-Württemberg (seit 2018)
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 85-sulz/023
+ENTITÄT: eisenbahn
+BEZEICHNUNG: Heubergbahn
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/sulz-am-neckar | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strecke: Sulz - Rosenfeld - Schömberg
+  eroeffnung: 1867
+  bauzeit: 1865-1867
+  bauwerk: Eisenbahntunnel in Sulz
+GUELTIG_AB: 1867
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 85-sulz/024
+ENTITÄT: betrieb
+BEZEICHNUNG: Buntweberei Sulz
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/sulz-am-neckar | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1897
+  betriebsende: 1963
+  betriebsende_grund: Übernahme Gelände durch Bundeswehr
+GUELTIG_AB: 1897
+GUELTIG_BIS: 1963
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 85-sulz/025
+ENTITÄT: militaereinrichtung
+BEZEICHNUNG: Luftwaffenmaterial-Depot 14
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/sulz-am-neckar | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgaenger: LwParkRgt1/Ast Sulz a.N.
+  umbennung: 1968
+  belegung: 1963-1993
+  vorgaenger_gruendung: 1963
+  vorgaenger_gelaende_uebernahme: ehemaliges Gelände Buntweberei Sulz
+  aufgeloest: 1993
+  nachnutzung: Stadt erwarb Gelände "Neckarwiesen" (10 ha)
+GUELTIG_AB: 1963
+GUELTIG_BIS: 1993
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 85-sulz/026
+ENTITÄT: ortsteil
+BEZEICHNUNG: Glatt
+QUELLE: https://www.sulz.de/stadtteile/glatt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: östlicher Rand des Schwarzwaldes, Glatttal
+  einwohner: ca. 610
+  einwohneranzahl_stand: aktuell
+  namensherkunft: wahrscheinlich vom keltischen Wort „clot" (klar) - glänzende Wasser des Glattbaches
+  erste_urkundliche_erwähnung: 731 oder 736
+  geschichtsherkunft_quelle: Schenkungsurkunde des alemannischen Adligen „Petto" an Kloster St. Gallen
+  hauptgebaeude: Wasserschloss
+  wasserschloss_erhaltungszustand: eine der besterhaltenen Schlossanlagen Baden-Württembergs
+  wasserschloss_umbau: 16. Jahrhundert, vom spätmittelalterlichen zu Renaissanceschloss
+  wasserschloss_umbauer: Reinhard von Neuneck (ca. 1475–1551)
+  wasserschloss_bedeutung: eines der frühesten Renaissanceschlösser in Deutschland
+GUELTIG_AB: 731
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 85-sulz/027
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hopfau
+QUELLE: https://www.sulz.de/stadtteile/hopfau | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Ufer der Glatt
+  kirche: Katharinenkirche
+  kirche_besonderheit: berühmtes Pausbäckle aus dem 15. Jh
+  rittergut: Neunthauser Obstgärten und Rittergut
+  muehle: Neunthauser Mühle
+  garten: Rosengarten
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 85-sulz/028
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bergfelden
+QUELLE: https://www.sulz.de/stadtteile/bergfelden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Mühlbachtal, landschaftlich reizvoll
+  groesse: größter der neun Sulzer Stadtteile
+  schutzgebiet: Landschaftsschutzgebiet „Wachholderheide"
+  entfernung_autobahn_a81: wenige Kilometer
+  wahrzeichen: Remigiuskirche
+  kirche_bauzeit: 1513-1517
+  kirche_typ: Kirchenburg
+  kirche_erhaltung: eine der am besten erhaltenen Kirchenburgen Baden-Württembergs
+  kindergaerte: größter kommunaler Kindergarten mit Betreuungsangeboten
+  schulen: Grundschule mit verlängerten Öffnungszeiten
+  baugebiet_neu: Härtenwiesen
+  baugebiet_neu_expansion: in kommenden Jahren erweitert
+GUELTIG_AB: 1513
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 85-sulz/029
+ENTITÄT: ortsteil
+BEZEICHNUNG: Fischingen
+QUELLE: https://www.sulz.de/stadtteile/fischingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Tal des oberen Neckars
+  siedlungstyp: Straßendorf
+  charakterpraegung: Lauf des Neckars
+  ruine: Ruine Wehrstein
+  kirche: St. Margaretha
+  kirche_bauzeit: ca. 1900
+  infra_schule: direkt am Neckarufer
+  infra_kindergarten: unmittelbare Nachbarschaft zur Schule
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 85-sulz/030
+ENTITÄT: person
+BEZEICHNUNG: Johann Philipp Haizmann
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/sulzer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_jahr: 1748
+  tod_jahr: 1823
+  herkunft_ort: Sulz
+  beruf: Wundarzt
+  tätigkeit_dauer_halbes_jahrhundert: 50 Jahre
+GUELTIG_AB: 1748
+GUELTIG_BIS: 1823
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 85-sulz/031
+ENTITÄT: person
+BEZEICHNUNG: Salomon Schweigger
+QUELLE: https://www.sulz.de/stadt-wirtschaft/historie/sulzer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_jahr: 1551
+  tod_jahr: 1622
+  herkunft_ort: Sulz
+  beruf: Gesandschaftsprediger
+  einsatz_ort: Konstantinopel
+GUELTIG_AB: 1551
+GUELTIG_BIS: 1622
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75

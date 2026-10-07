@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "81-villingen-schwenningen",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 7701,
+ "token_ein": 183780,
+ "token_aus": 4873,
+ "usage": {
+  "input_tokens": 14,
+  "cache_creation_input_tokens": 24007,
+  "cache_read_input_tokens": 159759,
+  "output_tokens": 4873,
+  "output_tokens_details": {
+   "thinking_tokens": 2204
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 24007,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 2526,
+    "cache_read_input_tokens": 29392,
+    "cache_creation_input_tokens": 1513,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 1513
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.5183088,
+ "sekunden": 93,
+ "fehler": false,
+ "zeit": "2026-10-07T08:22:57"
+}

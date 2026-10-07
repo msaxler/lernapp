@@ -1,0 +1,686 @@
+ENTITÄT: ort
+BEZEICHNUNG: Donaueschingen
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung: 889
+  erste_urkundliche_erwahnung_datum: 5. Juni 889
+  stadtrecht_seit: 1810
+  stadtrecht_datum: 27. Januar 1810
+  groe_kreisstadt_seit: 1993
+  groe_kreisstadt_datum: 1. Juli 1993
+  ist_kreisstadt: true
+  resident_des_furstentums_furstenb: Fürst Josef Wilhelm Ernst zu Fürstenberg (seit 1723)
+  mittelzentrum_typ: im Ländlichen Raum
+  kreisangehorig: Schwarzwald-Baar-Kreis
+  region: Schwarzwald-Baar-Heuberg
+GUELTIG_AB: 889
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Donaueschingen
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.donaueschingen.de/zahlenundfakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl_gesamt: 22.336
+  einwohnerzahl_kernstadt: 15.532
+  geografische_lange: 8°30'15" östlich von Greenwich
+  geografische_breite: 47°50'10" nördlich
+  hohenlagen_min: 680
+  hohenlagen_min_einheit: m (Bahnhof)
+  hohenlagen_max: 950
+  hohenlagen_max_einheit: m (Hubertshofen)
+  gemeindeflaeche: 105
+  gemeindeflaeche_einheit: km²
+  stadtflaeche_im_eigentum: 36
+  waldflaeche: 23
+  waldflaeche_einheit: km²
+  anteil_schwarzwald_baar_kreis_flaeche: > 1/10
+  niederschlag_jaehrlich: 800–900
+  niederschlag_einheit: mm/m²/Jahr
+  sonnenstunden_jaehrlich: ca. 1.700
+  lage_beschreibung: nahe Schweizer Grenze, auf Hochebene der Baar zwischen Schwarzwald und Bodensee
+  erholungsort_anerkannt: true
+  erholungsort_anerkannt_datum: 20. Juni 2012
+  sozial_versicherte_beschaeftigte: 10.847
+  sozial_versicherte_beschaeftigte_stand: 2019
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Aasen
+QUELLE: https://www.donaueschingen.de/zahlenundfakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 1.366
+  einwohnerzahl_stand: 31.12.2025
+  eingemeindung_jahr: 1972
+  eingemeindung_datum: 1. Februar 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Grüningen
+QUELLE: https://www.donaueschingen.de/zahlenundfakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 807
+  einwohnerzahl_stand: 31.12.2025
+  eingemeindung_jahr: 1972
+  eingemeindung_datum: 1. Januar 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Heidenhofen
+QUELLE: https://www.donaueschingen.de/zahlenundfakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 270
+  einwohnerzahl_stand: 31.12.2025
+  eingemeindung_jahr: 1972
+  eingemeindung_datum: 1. April 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Hubertshofen
+QUELLE: https://www.donaueschingen.de/zahlenundfakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 401
+  einwohnerzahl_stand: 31.12.2025
+  eingemeindung_jahr: 1972
+  eingemeindung_datum: 1. Juli 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Pfohren
+QUELLE: https://www.donaueschingen.de/zahlenundfakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 1.586
+  einwohnerzahl_stand: 31.12.2025
+  eingemeindung_jahr: 1972
+  eingemeindung_datum: 1. Januar 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Wolterdingen
+QUELLE: https://www.donaueschingen.de/zahlenundfakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 1.725
+  einwohnerzahl_stand: 31.12.2025
+  eingemeindung_jahr: 1971
+  eingemeindung_datum: 1. Dezember 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Neudingen
+QUELLE: https://www.donaueschingen.de/zahlenundfakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 649
+  einwohnerzahl_stand: 31.12.2025
+  eingemeindung_jahr: 1975
+  eingemeindung_datum: 1. Januar 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: natursehenswuerdigkeit
+BEZEICHNUNG: Donauquelle
+QUELLE: https://www.donaueschingen.de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: weltbekannt
+  typ: Donauursprung
+  bedeutung: Ausflugsziel für Besucher
+  fokus: Schwarzwald- und Donauliebhaber
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Fürstlich Fürstenbergisches Schloss
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  residenz_verlagerung_datum: 31. Oktober 1723
+  residenz_verlagerung_von: Stühlingen
+  residenz_verlagerung_grund: Fürst Josef Wilhelm Ernst zu Fürstenberg
+  funktion_ab_1723: Hauptstadt des Fürstentums Fürstenberg
+  zusaetze: idyllischer Schlosspark
+GUELTIG_AB: 1723
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Sebastianskapelle
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung_datum: 22. Juli 1614
+GUELTIG_AB: 1614
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schulbruderschaft
+BEZEICHNUNG: St. Gregori-Schulbruderschaft
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stiftung_jahr: 1589
+  stifterin: Gräfin Amalie von Fürstenberg
+  fest: Gregorifest
+GUELTIG_AB: 1589
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: brauerei
+BEZEICHNUNG: Fürstenbergbrauerei
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neugründung_jahr: 1705
+GUELTIG_AB: 1705
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Lateinschule
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_datum: 28. September 1778
+  umbenennung_jahr: 1933
+  umbenennung_zu: Fürstenberggymnasium
+GUELTIG_AB: 1778
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: friedhof
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung_neuer_friedhof_jahr: 1817
+  typ: heutiger Friedhof
+GUELTIG_AB: 1817
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: behoerde
+BEZEICHNUNG: Badisches Bezirksamt Donaueschingen
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_jahr: 1849
+  errichtung_kontext: standesherrliche Amt Donaueschingen
+  nachfolger: Landkreis Donaueschingen
+  nachfolger_ab: 1939
+GUELTIG_AB: 1849
+GUELTIG_BIS: 1939
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche (erste)
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau_jahr: 1876
+GUELTIG_AB: 1876
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche (heutige)
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung_jahr: 1913
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Marien
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_jahr: 1927–1928
+GUELTIG_AB: 1928
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Stadtkirche
+QUELLE: https://www.donaueschingen.de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architektur_stil: böhmischer Barockstil
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kindergarten
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erster_kindergarten_eröffnung_datum: 5. September 1885
+GUELTIG_AB: 1885
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Postgebäude
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug_jahr: 1888
+  bezug_datum: 30. September 1888
+GUELTIG_AB: 1888
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Wasserleitung
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: städtische Wasserleitung
+  fertigstellung_jahr: 1892
+GUELTIG_AB: 1892
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Turn- und Festhallen
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung_datum: 9. September 1899
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: rathaus
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung_neues_datum: 4. Dezember 1911
+  charakterisierung: heutiges Rathaus
+  farbe: blau
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Donaueschinger Kammermusikaufführungen
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_durchfuehrung_datum: 31. Juli 1921
+  zweck_original: Förderung der zeitgenössischen Tonkunst
+  heutige_bezeichnung: Donaueschinger Musiktage
+GUELTIG_AB: 1921
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Max-Egon-Krankenhaus
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung_datum: 14. Oktober 1923
+GUELTIG_AB: 1923
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: volkshochschule
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_datum: 17. Mai 1909
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gesellschaft
+BEZEICHNUNG: Gesellschaft der Musikfreunde
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_jahr: 1913
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: militaereinheit
+BEZEICHNUNG: III. Bataillon des 9. Badischen Infanterie-Regiments Nr. 170
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eintreffen_datum: 1. Oktober 1913
+  folge: Donaueschingen wird Garnisonsstadt
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Prinz-Kari-zu-Fürstenberg-Reitturnier
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_durchfuehrung_jahr: 1953
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schwimmbad
+BEZEICHNUNG: Parkschwimmbad
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_jahr: 1954
+  lage: Haberfeld
+GUELTIG_AB: 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Eichendorffschule
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung_erstes_schulgebaeude_datum: 13. September 1958
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: staedtepartnerschaft
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstadt: Saverne
+  partnerland: Frankreich
+  gruendung_jahr: 1964
+GUELTIG_AB: 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: staedtepartnerschaft
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstadt: Vác
+  partnerland: Ungarn
+  gruendung_jahr: 1993
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: staedtepartnerschaft
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstadt: Kaminoyama
+  partnerland: Japan
+  gruendung_jahr: 1995
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Stadtbrand
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 5. August 1908
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Bombenangriffe
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1945
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bregtalbahn
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erster_eisenbahnzug_einfahrt: 14. Juni 1868
+  eröffnung_strecke_datum: 1. August 1893
+  strecke: Donaueschingen - Hammereisenbach - Furtwangen
+GUELTIG_AB: 1893
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Telefonleitung
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Stadtfernsprechleitung
+  inbetriebnahme_datum: 12. September 1895
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Straßenbeleuchtung
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: elektrische Straßenbeleuchtung (erste)
+  inbetriebnahme_datum: 16. Oktober 1895
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: symbol
+BEZEICHNUNG: Stadtwappen
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neues_wappen_datum: 15. November 1895
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: monument
+BEZEICHNUNG: Musikantenbrunnen
+QUELLE: https://www.donaueschingen.de/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: farbenfroh (Jugendstil)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: publikation
+BEZEICHNUNG: Touristenführer
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erster_gedruckter_month: April
+  erster_gedruckter_jahr: 1891
+GUELTIG_AB: 1891
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Zunft-Museum
+QUELLE: https://www.donaueschingen.de/zunftmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  befindung: ehemaliger fürstlicher Sennhof
+  zunfthaus_seit: 1991
+  zunfthaus_nutzer: Narrenzunft Frohsinn
+  sammlung_grundstock: Mitte 1990er Jahre
+  eröffnung_jahr: 2002
+  umbau_renovierung_jahr: 2012
+  wiedereröffnung_anlass: 10-jähriges Jubiläum
+  ausstellungsflaeche: 200
+  ausstellungsflaeche_einheit: qm
+  sammlungstyp: historische und heutige Fastnachtsfiguren, Trachten der Baar
+  dokumentation: Bild-, Film- und Tondokumente
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Museum Art.Plus
+QUELLE: https://www.donaueschingen.de/museumartplus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fokus: zeitgenössische Kunst internationaler Künstler
+  ausstellungen_pro_jahr: 1 große + bis zu 3 kleine Wechselausstellungen
+  zusaetzliche_veranstaltungen: Musikveranstaltungen, Kinoabende, Workshops, Künstlergespräche
+  gebaeude_beschreibung: aufwändig renoviert
+  oeffnungszeiten: Freitag - Sonntag, Feiertag 11:00-17:00 Uhr
+  eintritt: aktuell kostenlos
+GUELTIG_AB: null
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Kinder- und Jugendmuseum
+QUELLE: https://www.donaueschingen.de/kinderundjugendmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alternativname: Mach mit!-Museum
+  fokus: interaktive Stationen und Exponate
+  themen: Wissenschaft und Technik, Mensch und Natur
+  oeffnungszeiten: Samstag, Sonntag, Feiertag, Ferien BW 11:00-17:00 Uhr
+  ruhetag: Montag
+  eintritt_erwachsene: 8
+  eintritt_kinder: 5
+  eintritt_kind_alter: 5-17 Jahre
+  eintritt_familie: 20
+  eintritt_dreivelten_card: kostenlos
+  workshops_kurz_ohne_anmeldung: 4
+  workshops_gruppe_preis: 80
+  workshops_gruppe_maxkinder: 8
+  kurzworkshops_uhrzeit: 15:00 Uhr, Dienstag-Sonntag
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gaestiger
+BEZEICHNUNG: Mozart
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  event: Gastspiel
+  ort: Fürstlich Fürstenbergisches Schloss
+  datum: November 1766
+GUELTIG_AB: 1766
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gaestiger
+BEZEICHNUNG: Marie-Antoinette
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: spätere französische Königin
+  event: Übernachtung auf Hochzeitsfahrt
+  ereignis_ausgangspunkt: Wien
+  ereignis_ziel: Paris
+  datum: 1770
+GUELTIG_AB: 1770
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: residenz_funktion
+QUELLE: https://www.donaueschingen.de/historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_ab_1723: Hauptstadt des Fürstentums Fürstenberg
+  grund: Residenzverlagerung durch Fürst Josef Wilhelm Ernst zu Fürstenberg
+  status_bis: 1810
+GUELTIG_AB: 1723
+GUELTIG_BIS: 1810
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wirtschaft
+QUELLE: https://www.donaueschingen.de/zahlenundfakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einzelbetriebe_gesamt: 1.200
+  mittelstaendische_betriebe_groesser: 22
+  mittelstaendische_betriebe_beschaeftigte: 2.800
+  branche_1: Antriebselektronik
+  branche_2: Apparate- und Werkzeugbau
+  branche_3: Druckereigewerbe
+  branche_4: Farben und Putze
+  branche_5: Feinmechanik
+  branche_6: Getränkeherstellung
+  branche_7: Halbleitertechnik
+  branche_8: Holzverarbeitung
+  branche_9: Magnettechnik
+  branche_10: Schuhfabrikation
+  branche_11: Spritzgusstechnik
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

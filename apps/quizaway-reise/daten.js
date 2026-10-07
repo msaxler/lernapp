@@ -7209,6 +7209,10 @@ window.QA_DATEN = {
 "75-titisee-neustadt": [
 "Titisee-Neustadt hat fünfmal so viele Einwohner wie Hinterzarten.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Titisee-Neustadt die AfD, in Hinterzarten die Grünen."
+],
+"76-loeffingen": [
+"Löffingen hat dreimal so viele Einwohner wie Hinterzarten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Löffingen die AfD, in Hinterzarten die Grünen."
 ]
 },
 "ags": "08315052",
@@ -7414,11 +7418,2035 @@ window.QA_DATEN = {
 "74-hinterzarten": [
 "Titisee-Neustadt hat rund fünfmal so viele Einwohner wie Hinterzarten.",
 "Titisee-Neustadt hat gut zweieinhalbmal so viel Fläche wie Hinterzarten."
+],
+"76-loeffingen": [
+"Titisee-Neustadt hat gut anderthalbmal so viele Einwohner wie Löffingen."
+],
+"77-braeunlingen": [
+"Kreisgrenze: Bräunlingen gehört zum Schwarzwald-Baar-Kreis, Titisee-Neustadt zum Landkreis Breisgau-Hochschwarzwald.",
+"Titisee-Neustadt hat gut doppelt so viele Einwohner wie Bräunlingen."
 ]
 },
 "ags": "08315113",
 "ortsteil": false,
 "km_vom_vorigen": 8.5
+},
+{
+"slug": "76-loeffingen",
+"name": "Löffingen",
+"lat": 47.88389,
+"lon": 8.34361,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Löffingen",
+"steckbrief": "Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.",
+"frage": "Ein Siegel aus dem 14. Jahrhundert trägt die Umschrift „Siegel der Bürger von Löffingen“. Was zeigt es?",
+"optionen": [
+"Es zeigt einen Adler über einem Stadttor.",
+"Es zeigt einen Löwen mit einem Schlüssel.",
+"Es zeigt zwei Löffel, dazwischen eine Lilie.",
+"Es zeigt ein Mühlrad zwischen zwei Ähren."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Adler liegt nahe: Ein Graf von Fürstenberg gründete die Stadt, und das Wappentier der Fürstenberger ist ein Adler. Doch die Bürger siegelten mit zwei fast senkrecht stehenden Löffeln, dazwischen eine Lilie – passend zum Klang des Ortsnamens. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte",
+"faktencheck": "unsicher",
+"id": "76-loeffingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Löffingen",
+"steckbrief": "Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist das Stadtgebiet von Löffingen?",
+"optionen": [
+"unter 25 km²",
+"25 bis unter 50 km²",
+"50 bis unter 75 km²",
+"75 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Für eine Kleinstadt liegt ein kleines Gebiet nahe. Doch Löffingen ist dünn besiedelt, und das Stadtgebiet reicht weit über die Kernstadt hinaus. Es misst 88,02 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "76-loeffingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Löffingen",
+"steckbrief": "Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das heutige Rathaus diente früher als Kaufhaus.",
+"Die Dreifeldsporthalle steht auf dem Fundament eines Hallenbads.",
+"Die Altstadt ist ein rechtwinkliges Gitter aus Straßen."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Rathaus, das einst Kaufhaus war, und eine Halle auf einem alten Hallenbad klingen erfunden – beides stimmt. Gelogen ist das Straßengitter, wie man es von Planstädten kennt: Der Stadtkern ist ein unregelmäßiges Oval, die einstige Fernhandelsstraße zieht in leichtem Bogen hindurch. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.loeffingen.de/tourismus-freizeit/sehenswertes/historischer-stadtkern",
+"faktencheck": "korrigiert",
+"id": "76-loeffingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Löffingen",
+"steckbrief": "Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Löffingen die stärkste Partei?",
+"optionen": [
+"unter 28 %",
+"28 bis unter 38 %",
+"38 bis unter 48 %",
+"48 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Auf dem Land erwarten viele eine erdrückende CDU-Mehrheit. In Löffingen lag die CDU zwar klar vorn, holte aber 33,3 Prozent der Zweitstimmen; zweitstärkste Kraft wurde die AfD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "76-loeffingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Löffingen",
+"steckbrief": "Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.",
+"frage": "Bei Löffingen entstand ein Wallfahrtsort. Am Anfang stand ein Kreuz aus dem 18. Jahrhundert. Aus welchem Anlass wurde es errichtet?",
+"optionen": [
+"Ein Hirte sah dort die Muttergottes erscheinen.",
+"Ein Söldner begrub dort einen gefallenen Kameraden.",
+"Ein Wanderer dankte so für Rettung im Schneesturm.",
+"Ein Bauer dankte für das Ende einer Viehseuche."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Marienerscheinung liegt nahe, so beginnen viele Wallfahrten. Hier aber ließ ein Wanderer das Kreuz aus Dankbarkeit aufstellen, weil er aus einem Schneesturm gerettet worden war. Später folgten hölzerne Kapellen und eine Kirche. Das Gewann dort heißt Witterschnee. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "76-loeffingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Löffingen",
+"steckbrief": "Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.",
+"frage": "Wie weit ist es von Löffingen in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 60 km",
+"60 bis unter 85 km",
+"85 bis unter 110 km",
+"110 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Weil Löffingen östlich von Freiburg liegt, rückt Stuttgart gefühlt näher. Doch bis zur Landeshauptstadt sind es von Löffingen 117 Kilometer Luftlinie, weit mehr als nach Freiburg. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "76-loeffingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Löffingen",
+"steckbrief": "Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.",
+"frage": "Mit der Höllentalbahn bekam Löffingen Anschluss ans Schienennetz. Bald darauf kam in der Stadt etwas zum Erliegen. Was?",
+"optionen": [
+"Der wöchentliche Kornmarkt der Stadt ging ein.",
+"Das Postamt der Stadt wurde geschlossen.",
+"Das Forstamt der Stadt wurde aufgelöst.",
+"Die Badstube im Gasthauskeller wurde geschlossen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Postamt liegt nahe, denn im selben Jahr endete die Postkutsche zwischen Neustadt und Donaueschingen. Doch das Postamt blieb noch lange. Getroffen hat die Bahn den wöchentlichen Kornmarkt: Die Händler brachten ihre Waren nun mit dem Zug nach Donaueschingen und Neustadt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "76-loeffingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Löffingen",
+"steckbrief": "Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.",
+"frage": "Die Freiwillige Feuerwehr Löffingen wurde 1863 gegründet. Was ging ihrer Gründung laut Stadtchronik voraus?",
+"optionen": [
+"Die Gründung der Zunft der Laternenbrüder.",
+"Die Auflösung des Bürgermilitärs.",
+"Die Einrichtung des Forstamts.",
+"Der Bau des städtischen Krankenhauses."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Laternenbrüder klingen nach Nachtwache und Löschdienst. Doch die Zunft entstand erst später und begann Löffingens organisierte Fastnacht. Die Feuerwehr wurde gegründet, nachdem das Bürgermilitär aufgelöst war; die Bürgerwehrkapelle lebte als Feuerwehrmusik wieder auf. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "76-loeffingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Löffingen",
+"steckbrief": "Löffingen ist eine Stadt mit rund 7.600 Einwohnern und liegt 39 km östlich von Freiburg im Breisgau.",
+"frage": "Ab 1624 hatte das Fürstenbergische Amt Löffingen einen eigenen Scharfrichter. Welchen Anlass dafür nennt die Stadtgeschichte?",
+"optionen": [
+"Die Hexenverfolgung verlangte einen eigenen Henker.",
+"Die Fürstenberger verlegten ihre Residenz nach Löffingen.",
+"Löffingen wurde Sitz eines Landgerichts.",
+"Ein Bauernaufstand sollte streng bestraft werden."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Hexenverfolgung liegt nahe, doch sie folgte erst danach, und hingerichtet wurde in Blumberg. Anlass für den Scharfrichter – den Henker – war das Landgericht, das seinen Sitz in Löffingen bekam. Das Scharfrichteramt bestand, bis der badische Staat es auflöste. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.loeffingen.de/unsere-stadt/stadt-loeffingen/stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "76-loeffingen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "75-titisee-neustadt",
+"anschluss": [
+"Fläche: Löffingen und Titisee-Neustadt sind fast gleich groß.",
+"Bahn: Die Höllentalbahn verbindet Titisee-Neustadt mit Löffingen."
+],
+"anschluesse": {
+"74-hinterzarten": [
+"Löffingen hat dreimal so viele Einwohner wie Hinterzarten.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Hinterzarten die Grünen, in Löffingen die AfD."
+],
+"75-titisee-neustadt": [
+"Fläche: Löffingen und Titisee-Neustadt sind fast gleich groß.",
+"Bahn: Die Höllentalbahn verbindet Titisee-Neustadt mit Löffingen."
+],
+"77-braeunlingen": [
+"Kreisgrenze: Bräunlingen gehört zum Schwarzwald-Baar-Kreis, Löffingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Löffingen hat rund 1.700 Einwohner mehr als Bräunlingen."
+],
+"78-huefingen": [
+"Kreisgrenze: Hüfingen gehört zum Schwarzwald-Baar-Kreis, Löffingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Hüfingen und Löffingen sind fast gleich groß: rund 8.000 und 7.600 Einwohner."
+],
+"79-donaueschingen": [
+"Kreisgrenze: Donaueschingen gehört zum Schwarzwald-Baar-Kreis, Löffingen zum Landkreis Breisgau-Hochschwarzwald.",
+"Donaueschingen hat fast dreimal so viele Einwohner wie Löffingen."
+]
+},
+"ags": "08315070",
+"ortsteil": false,
+"km_vom_vorigen": 10.1
+},
+{
+"slug": "77-braeunlingen",
+"name": "Bräunlingen",
+"lat": 47.92972,
+"lon": 8.44806,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bräunlingen",
+"steckbrief": "Bräunlingen zählt rund 5.800 Einwohner und liegt 45 km östlich von Freiburg im Breisgau.",
+"frage": "1952 baute Bräunlingen eine neue Stadthalle. Welchen Anlass nennt die Stadtgeschichte dafür?",
+"optionen": [
+"Bräunlingen wurde damals Sitz eines Amtsgerichts.",
+"Bräunlingen erhielt damals seine Stadtrechte zurück.",
+"Bräunlingen wurde damals zur Kreisstadt erhoben.",
+"Bräunlingen wurde damals eine Garnisonsstadt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein neuer Saal passt gut zu einem Amt oder Gericht, das Besucher in die Stadt holt. Die Stadtgeschichte nennt aber einen anderen Anlass: Bräunlingen bekam seine Stadtrechte wiederverliehen. Wiederverliehen heißt, dass die Stadt sie zuvor verloren hatte. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, braeunlingen.de/stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "77-braeunlingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bräunlingen",
+"steckbrief": "Bräunlingen hat rund 5.800 Einwohner und liegt 45 km östlich von Freiburg im Breisgau im Schwarzwald-Baar-Kreis.",
+"frage": "Wie groß ist das Stadtgebiet von Bräunlingen mit allen Ortsteilen?",
+"optionen": [
+"unter 25 km²",
+"25 bis unter 50 km²",
+"50 bis unter 75 km²",
+"75 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Kleinstadt denkt man leicht an ein kleines Gebiet. Doch zu Bräunlingen gehören auch eingegliederte Ortsteile wie Döggingen und Waldhausen. Zusammen kommt das Stadtgebiet auf 62,14 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "77-braeunlingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bräunlingen",
+"steckbrief": "Die Stadt mit rund 5.800 Einwohnern liegt 45 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"1305 wurde die Stadt Bräunlingen eine freie Reichsstadt.",
+"Die alte Stadt umgaben Mauer, Graben und Wall.",
+"Bräunlingen erlebte einst einen Stadtbrand."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Freie Reichsstädte gab es im Südwesten viele, darum klingt das glaubhaft. 1305 wurde Bräunlingen aber eine österreichische Enklave, umgeben von fremdem Gebiet. Mauer, Graben und Wall gab es wirklich, und einen Stadtbrand erlebte die Stadt auch. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, braeunlingen.de/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "77-braeunlingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bräunlingen",
+"steckbrief": "Bräunlingen im Schwarzwald-Baar-Kreis hat rund 5.800 Einwohner und liegt 45 km östlich von Freiburg im Breisgau.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Bräunlingen bei den Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"SPD",
+"Grüne",
+"FDP"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die SPD war in Westdeutschland lange die gewohnte Nummer zwei hinter der Union. In Bräunlingen lag bei dieser Wahl aber die AfD hinter der CDU auf Platz zwei, die SPD erst auf Platz drei. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "77-braeunlingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bräunlingen",
+"steckbrief": "Bräunlingen hat rund 5.800 Einwohner und liegt 45 km östlich von Freiburg im Breisgau.",
+"frage": "Der Ortsteil Döggingen feierte 2023 sein 900-jähriges Bestehen, gezählt ab einer Urkunde. Was hielt diese Urkunde fest?",
+"optionen": [
+"Ein Bischof weihte im Dorf eine Kirche.",
+"Zwei Klöster vereinbarten miteinander einen Tausch.",
+"Ein Ritter verkaufte das Dorf einer Stadt.",
+"Ein König schenkte das Dorf einem Grafen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Kirchen und Bischöfe tauchen in alten Urkunden oft auf, darum liegt eine Kirchweihe nahe. Döggingen verdankt seinen Beleg aber einem Geschäft zweier Klöster: Reichenau und St. Georgen schlossen einen Tausch. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, braeunlingen.de/stadtteile/doeggingen",
+"faktencheck": "bestätigt",
+"id": "77-braeunlingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bräunlingen",
+"steckbrief": "Die Stadt Bräunlingen zählt rund 5.800 Einwohner und liegt 45 km östlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner kommen in Bräunlingen auf einen Quadratkilometer?",
+"optionen": [
+"unter 40",
+"40 bis unter 80",
+"80 bis unter 120",
+"120 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Wort Stadt lässt an dichte Häuserzeilen denken. Bräunlingen verteilt seine Einwohner aber auf ein weites Stadtgebiet. Rechnerisch kommen 94 Menschen auf einen Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "77-braeunlingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bräunlingen",
+"steckbrief": "Bräunlingen hat rund 5.800 Einwohner und liegt 45 km östlich von Freiburg im Breisgau.",
+"frage": "Döggingen, Waldhausen, Mistelbrunn und Unterbränd kamen 1971 und 1972 zu Bräunlingen. Wann wurde der Ortsteil Bruggen eingegliedert?",
+"optionen": [
+"Bruggen kam 1905 zu Bräunlingen.",
+"Bruggen kam 1924 zu Bräunlingen.",
+"Bruggen kam 1975 zu Bräunlingen.",
+"Bruggen kam 1939 zu Bräunlingen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die übrigen Ortsteile kamen alle Anfang der Siebziger hinzu, darum liegt ein Datum aus jener Zeit nahe. Bruggen gehört aber schon viel länger dazu: Eingegliedert wurde es am 1. September 1939, dem Tag des deutschen Überfalls auf Polen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, braeunlingen.de/stadtteile/bruggen",
+"faktencheck": "bestätigt",
+"id": "77-braeunlingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bräunlingen",
+"steckbrief": "Bräunlingen zählt rund 5.800 Einwohner und liegt 45 km östlich von Freiburg im Breisgau.",
+"frage": "Bei Bruggen wurden Funde gemacht, die eine frühe Besiedlung belegen. Aus welcher Zeit stammen sie nach der Stadtgeschichte?",
+"optionen": [
+"Die Funde stammen aus der Römerzeit.",
+"Die Funde stammen aus der Steinzeit.",
+"Die Funde stammen aus der Keltenzeit.",
+"Die Funde stammen aus der Zeit des Dreißigjährigen Kriegs."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Römische Funde sind in Süddeutschland häufig, darum liegt die Römerzeit nahe. Die Stadtgeschichte nennt die Funde bei Bruggen aber steinzeitlich. Sie belegen eine Besiedlung lange vor den Römern. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, braeunlingen.de/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "77-braeunlingen/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "76-loeffingen",
+"anschluss": [
+"Kreisgrenze: In Löffingen steht FR am Auto, in Bräunlingen VS.",
+"Höhe: Löffingen liegt gut hundert Meter höher als Bräunlingen."
+],
+"anschluesse": {
+"75-titisee-neustadt": [
+"Kreisgrenze: Titisee-Neustadt gehört zum Landkreis Breisgau-Hochschwarzwald, Bräunlingen zum Schwarzwald-Baar-Kreis.",
+"Titisee-Neustadt hat gut doppelt so viele Einwohner wie Bräunlingen."
+],
+"76-loeffingen": [
+"Kreisgrenze: In Löffingen steht FR am Auto, in Bräunlingen VS.",
+"Höhe: Löffingen liegt gut hundert Meter höher als Bräunlingen."
+],
+"78-huefingen": [
+"Hüfingen hat rund 2.200 Einwohner mehr als Bräunlingen."
+],
+"79-donaueschingen": [
+"Donaueschingen hat gut dreieinhalbmal so viele Einwohner wie Bräunlingen."
+],
+"80-bad-duerrheim": [
+"Bad Dürrheim hat gut doppelt so viele Einwohner wie Bräunlingen."
+],
+"81-villingen-schwenningen": [
+"Villingen-Schwenningen hat fünfzehnmal so viele Einwohner wie Bräunlingen."
+],
+"82-tuningen": [
+"Bräunlingen hat fast doppelt so viele Einwohner wie Tuningen."
+]
+},
+"ags": "08326006",
+"ortsteil": false,
+"km_vom_vorigen": 9.3
+},
+{
+"slug": "78-huefingen",
+"name": "Hüfingen",
+"lat": 47.92611,
+"lon": 8.49,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hüfingen",
+"steckbrief": "Hüfingen hat rund 8.000 Einwohner und liegt 48 km östlich von Freiburg im Breisgau.",
+"frage": "An Fronleichnam legen Hüfinger Blumenteppiche. Den Brauch begründete der Bildhauer Franz Xaver Reich. Woher brachte er ihn mit?",
+"optionen": [
+"Er brachte den Brauch aus Italien mit.",
+"Er brachte den Brauch aus Frankreich mit.",
+"Er brachte den Brauch aus Böhmen mit.",
+"Er brachte den Brauch aus Polen mit."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Bildhauer Franz Xaver Reich sah auf einer Studienreise in Italien Blumenteppiche auf Prozessionswegen in Portici und Resina bei Neapel. An Fronleichnam 1842 wurde in Hüfingen erstmals ein Blumenteppich gelegt. Frankreich liegt nahe, weil es näher an der Baar ist; Reichs Vorbild lag aber in Italien. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, huefingen.de/Freizeit-Kultur-Tourismus/Kunst-Kultur/Veranstaltung-Highlights",
+"faktencheck": "korrigiert",
+"id": "78-huefingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hüfingen",
+"steckbrief": "Hüfingen hat rund 8.000 Einwohner und liegt 48 km östlich von Freiburg im Breisgau, zwischen Südschwarzwald und Baar.",
+"frage": "Auf welcher Höhe über dem Meer liegt die Stadt Hüfingen?",
+"optionen": [
+"unter 450 m",
+"450 bis unter 750 m",
+"750 bis unter 1.000 m",
+"1.000 m und höher"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Für Hüfingen nennen die Quellen 684 bis 687 Meter. Beim Wort Schwarzwald denkt man an höhere Lagen, doch die Stadt liegt am Ostrand des südlichen Schwarzwalds auf der Baarhochfläche. Richtig war 2.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "78-huefingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hüfingen",
+"steckbrief": "Hüfingen hat rund 8.000 Einwohner und liegt 48 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Hüfingen liegt im Tal der Breg.",
+"Die Stadt gehört zum Regierungsbezirk Stuttgart.",
+"Hüfingens Stadtfarben sind Blau und Weiß."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Gelogen war der Regierungsbezirk: Hüfingen gehört zum Regierungsbezirk Freiburg. Stuttgart liegt nahe, weil man östlich des Schwarzwalds leicht schon Württemberg vermutet. Wahr sind die anderen beiden: Die Breg fließt durch Hüfingen, und die Stadtfarben sind Blau und Weiß wie im Wappen. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.huefingen.de/huefingen; LEO-BW",
+"faktencheck": "korrigiert",
+"id": "78-huefingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hüfingen",
+"steckbrief": "Hüfingen hat rund 8.000 Einwohner und liegt 48 km östlich von Freiburg im Breisgau.",
+"frage": "Wie hoch war die Wahlbeteiligung in Hüfingen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 76 %",
+"76 bis unter 82 %",
+"82 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei der Bundestagswahl 2025 gaben in Hüfingen 84,4 Prozent der Wahlberechtigten ihre Stimme ab. In einer Kleinstadt auf dem Land vermutet man leicht weniger, doch 2025 gingen bundesweit ungewöhnlich viele Menschen wählen. Stärkste Partei wurde in Hüfingen die CDU. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "78-huefingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hüfingen",
+"steckbrief": "Hüfingen hat rund 8.000 Einwohner und liegt 48 km östlich von Freiburg im Breisgau.",
+"frage": "Zu welchem Landkreis gehört Hüfingen?",
+"optionen": [
+"Landkreis Breisgau-Hochschwarzwald",
+"Schwarzwald-Baar-Kreis",
+"Landkreis Tuttlingen",
+"Landkreis Waldshut"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Hüfingen gehört zum Schwarzwald-Baar-Kreis; dessen Hauptkennzeichen ist VS. Breisgau-Hochschwarzwald liegt nahe, weil Freiburg nicht weit ist und der Schwarzwald auch in diesem Kreisnamen steckt. Richtig war 2.",
+"quelle": "dewiki Infobox (Landkreis); Wikidata P395 (Kennzeichen)",
+"faktencheck": "bestätigt",
+"id": "78-huefingen/v0.8/6",
+"tisch": false
+}
+],
+"anschluss_von": "77-braeunlingen",
+"anschluss": [
+"Heimattage Baden-Württemberg 2012: Hüfingen und Bräunlingen waren gemeinsame Gastgeber.",
+"Fläche: Bräunlingen ist größer als Hüfingen, hat aber weniger Einwohner."
+],
+"anschluesse": {
+"76-loeffingen": [
+"Kreisgrenze: Löffingen gehört zum Landkreis Breisgau-Hochschwarzwald, Hüfingen zum Schwarzwald-Baar-Kreis.",
+"Löffingen und Hüfingen sind fast gleich groß: rund 7.600 und 8.000 Einwohner."
+],
+"77-braeunlingen": [
+"Heimattage Baden-Württemberg 2012: Hüfingen und Bräunlingen waren gemeinsame Gastgeber.",
+"Fläche: Bräunlingen ist größer als Hüfingen, hat aber weniger Einwohner."
+],
+"79-donaueschingen": [
+"Donaueschingen hat gut zweieinhalbmal so viele Einwohner wie Hüfingen."
+],
+"80-bad-duerrheim": [
+"Bad Dürrheim hat gut anderthalbmal so viele Einwohner wie Hüfingen."
+],
+"81-villingen-schwenningen": [
+"Villingen-Schwenningen hat elfmal so viele Einwohner wie Hüfingen."
+],
+"82-tuningen": [
+"Hüfingen hat zweieinhalbmal so viele Einwohner wie Tuningen."
+]
+},
+"ags": "08326027",
+"ortsteil": false,
+"km_vom_vorigen": 3.2
+},
+{
+"slug": "79-donaueschingen",
+"name": "Donaueschingen",
+"lat": 47.95306,
+"lon": 8.50333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Donaueschingen",
+"steckbrief": "Stadt auf der Baar mit rund 22.000 Einwohnern, 49 km östlich von Freiburg im Breisgau.",
+"frage": "1770 übernachtete die spätere französische Königin Marie-Antoinette in Donaueschingen. Warum war sie unterwegs?",
+"optionen": [
+"Sie floh vor Unruhen von Paris nach Wien.",
+"Sie reiste als junge Witwe heim nach Wien.",
+"Sie reiste zu einer Krönung nach Frankfurt.",
+"Sie war auf Hochzeitsfahrt von Wien nach Paris."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Marie-Antoinette denkt man an Revolution und Flucht, doch das lag noch in weiter Ferne. Die spätere Königin war auf Hochzeitsfahrt von Wien nach Paris und übernachtete unterwegs in Donaueschingen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.donaueschingen.de/historisches",
+"faktencheck": "bestätigt",
+"id": "79-donaueschingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Donaueschingen",
+"steckbrief": "Große Kreisstadt auf der Baar mit rund 22.000 Einwohnern, 49 km östlich von Freiburg im Breisgau.",
+"frage": "Wie viele Einwohner kommen in Donaueschingen durchschnittlich auf einen Quadratkilometer?",
+"optionen": [
+"unter 250",
+"250 bis unter 500",
+"500 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Großen Kreisstadt erwartet man dichte Bebauung. Doch zur Stadt gehören auch Ortsteile wie Aasen, Pfohren, Wolterdingen und Hubertshofen mit viel Land dazwischen. So kommen nur 208 Einwohner auf einen Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "79-donaueschingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Donaueschingen",
+"steckbrief": "Stadt auf der Baar mit rund 22.000 Einwohnern, 49 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Stadtkirche ist im böhmischen Barockstil gebaut.",
+"Gräfin Amalie von Fürstenberg stiftete eine Schulbruderschaft.",
+"Die Bregtalbahn wurde von Donaueschingen zum Bodensee gebaut."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Böhmischer Barock mitten in Baden klingt erfunden, stimmt aber, ebenso die Stiftung der Gräfin Amalie. Gelogen ist die Bahn: Die Bregtalbahn wurde von Donaueschingen über Hammereisenbach nach Furtwangen eröffnet, nicht zum Bodensee. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.donaueschingen.de/historisches und www.donaueschingen.de/sehenswuerdigkeiten",
+"faktencheck": "korrigiert",
+"id": "79-donaueschingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Donaueschingen",
+"steckbrief": "Stadt auf der Baar mit rund 22.000 Einwohnern, 49 km östlich von Freiburg im Breisgau.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Donaueschingen die stärkste Partei?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 30 %",
+"30 bis unter 35 %",
+"35 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im ländlichen Südbaden vermutet man leicht eine übermächtige CDU. Sie wurde zwar stärkste Partei, aber mit 32,9 Prozent; die AfD folgte als zweitstärkste Kraft. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "79-donaueschingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Donaueschingen",
+"steckbrief": "Stadt auf der Baar mit rund 22.000 Einwohnern, 49 km östlich von Freiburg im Breisgau.",
+"frage": "1921 fanden in Donaueschingen erstmals die Kammermusikaufführungen statt, die heutigen Musiktage. Wozu wurden sie ursprünglich veranstaltet?",
+"optionen": [
+"Sie sollten die höfische Barockmusik wiederbeleben.",
+"Sie sollten alte Volkslieder der Region bewahren.",
+"Sie sollten Werke verstorbener Klassiker pflegen.",
+"Sie sollten die zeitgenössische Tonkunst fördern."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Fürstenschloss lässt an Hofmusik vergangener Zeiten denken. Doch die Kammermusikaufführungen dienten von Anfang an der Förderung der zeitgenössischen Tonkunst. Daraus wurden die Donaueschinger Musiktage. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.donaueschingen.de/historisches",
+"faktencheck": "bestätigt",
+"id": "79-donaueschingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Donaueschingen",
+"steckbrief": "Große Kreisstadt mit rund 22.000 Einwohnern, 49 km östlich von Freiburg im Breisgau.",
+"frage": "Zu welchem Landkreis gehört Donaueschingen heute?",
+"optionen": [
+"Schwarzwald-Baar-Kreis",
+"Landkreis Tuttlingen",
+"Landkreis Breisgau-Hochschwarzwald",
+"Landkreis Rottweil"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer der Donau flussabwärts folgt, kommt nach Tuttlingen, das verleitet. Donaueschingen gehört aber zum Schwarzwald-Baar-Kreis. Früher gab es sogar einen eigenen Landkreis Donaueschingen, Nachfolger des Badischen Bezirksamts. Richtig war 1.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "79-donaueschingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Donaueschingen",
+"steckbrief": "Stadt auf der Baar mit rund 22.000 Einwohnern, 49 km östlich von Freiburg im Breisgau.",
+"frage": "1723 wurde Donaueschingen Residenz der Fürsten zu Fürstenberg. Von wo verlegte Fürst Josef Wilhelm Ernst seine Residenz hierher?",
+"optionen": [
+"Die Residenz lag zuvor in Meersburg.",
+"Die Residenz lag zuvor in Stühlingen.",
+"Die Residenz lag zuvor in Sigmaringen.",
+"Die Residenz lag zuvor in Freiburg."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Fürstensitz in einer bekannten Residenz- oder Bischofsstadt liegt nahe. Doch Fürst Josef Wilhelm Ernst zu Fürstenberg verlegte seine Residenz von Stühlingen nach Donaueschingen. Zur Stadt erhoben wurde der Ort erst später. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.donaueschingen.de/historisches",
+"faktencheck": "korrigiert",
+"id": "79-donaueschingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Donaueschingen",
+"steckbrief": "Stadt auf der Baar mit rund 22.000 Einwohnern, 49 km östlich von Freiburg im Breisgau.",
+"frage": "Im Zunft-Museum zeigt Donaueschingen Fastnachtsfiguren und Trachten der Baar. Zu welcher früheren Anlage gehört das Gebäude, das seit 1991 Zunfthaus der Narrenzunft Frohsinn ist?",
+"optionen": [
+"Zum fürstlichen Marstall.",
+"Zur städtischen Zehntscheuer.",
+"Zum ehemaligen fürstlichen Sennhof.",
+"Zum alten Spital."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei fürstlichen Nebengebäuden denkt man zuerst an einen Marstall für die Pferde. Tatsächlich gehört das Gebäude zum ehemaligen fürstlichen Sennhof. Seit 1991 ist es das Zunfthaus der Narrenzunft Frohsinn. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.donaueschingen.de/zunftmuseum",
+"faktencheck": "korrigiert",
+"id": "79-donaueschingen/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "78-huefingen",
+"anschluss": [
+"Einwohner: Donaueschingen hat fast dreimal so viele wie Hüfingen.",
+"Bundestagswahl 2025: Hüfingen hatte eine höhere Wahlbeteiligung als Donaueschingen."
+],
+"anschluesse": {
+"76-loeffingen": [
+"Kreisgrenze: Löffingen gehört zum Landkreis Breisgau-Hochschwarzwald, Donaueschingen zum Schwarzwald-Baar-Kreis.",
+"Donaueschingen hat fast dreimal so viele Einwohner wie Löffingen."
+],
+"77-braeunlingen": [
+"Donaueschingen hat gut dreieinhalbmal so viele Einwohner wie Bräunlingen."
+],
+"78-huefingen": [
+"Einwohner: Donaueschingen hat fast dreimal so viele wie Hüfingen.",
+"Bundestagswahl 2025: Hüfingen hatte eine höhere Wahlbeteiligung als Donaueschingen."
+],
+"80-bad-duerrheim": [
+"Donaueschingen hat gut anderthalbmal so viele Einwohner wie Bad Dürrheim."
+],
+"81-villingen-schwenningen": [
+"Villingen-Schwenningen hat gut viermal so viele Einwohner wie Donaueschingen."
+],
+"82-tuningen": [
+"Donaueschingen hat fast siebenmal so viele Einwohner wie Tuningen."
+]
+},
+"ags": "08326012",
+"ortsteil": false,
+"km_vom_vorigen": 3.2
+},
+{
+"slug": "80-bad-duerrheim",
+"name": "Bad Dürrheim",
+"lat": 48.01667,
+"lon": 8.53333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Dürrheim",
+"steckbrief": "Kurstadt mit rund 13.000 Einwohnern, 51 km östlich von Freiburg im Breisgau.",
+"frage": "Das Stadtwappen zeigt ein weißes Kreuz auf rotem Grund. Was steckt dahinter?",
+"optionen": [
+"Es wurde von der Schweizer Fahne übernommen.",
+"Es zeigt die Kreuzung zweier Bundesstraßen im Ort.",
+"Ein Ritterorden erwarb einst die Kirche des Dorfs.",
+"Es stammt aus dem Wappen einer Partnerstadt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Weiß auf Rot, da denkt man an die nahe Schweiz. Doch im Wappen steht das Malteserkreuz des Johanniterordens. Die Johanniter in Villingen erwarben einst die Kirche von Dürrheim mit allen Rechten. Daran erinnert das Kreuz bis heute. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.badduerrheim.de/Freizeit-Tourismus/Stadtleben/Geschichte-Museen",
+"faktencheck": "korrigiert",
+"id": "80-bad-duerrheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bad Dürrheim",
+"steckbrief": "Stadt mit gut 62 km² Fläche, 51 km östlich von Freiburg im Breisgau.",
+"frage": "Wie viele Menschen wohnen in Bad Dürrheim?",
+"optionen": [
+"unter 6.000",
+"6.000 bis unter 9.000",
+"9.000 bis unter 12.000",
+"12.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Kurort klingt nach Kleinstadt mit wenigen Tausend Einwohnern. Doch Bad Dürrheim zählte Ende 2025 13.084 Einwohner. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "80-bad-duerrheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bad Dürrheim",
+"steckbrief": "Kurstadt mit rund 13.000 Einwohnern, 51 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Nach Dürrheim führte nie eine eigene Bahnstrecke.",
+"Alemannen legten im Ort einst Reihengräberfriedhöfe an.",
+"Ein Fronhof verwaltete einst Güter und Abgaben."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Heute fährt etwa die Buslinie 800 nach Schwenningen und Donaueschingen, da wirkt ein Ort ohne Schienen glaubhaft. Doch einst führte eine Nebenbahn von Marbach bis nach Dürrheim; sie ist längst stillgelegt. Wahr sind die alemannischen Gräberfelder und der mittelalterliche Fronhof, ein Herrenhof für Abgaben der Bauern. Die Lüge war 1.",
+"quelle": "Stadt Bad Dürrheim, badduerrheim.de; Landesarchiv Baden-Württemberg, GLA Karlsruhe 421 K 1 Nr. 816",
+"faktencheck": "korrigiert",
+"id": "80-bad-duerrheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bad Dürrheim",
+"steckbrief": "Kurstadt mit rund 13.000 Einwohnern, 51 km östlich von Freiburg im Breisgau.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Bad Dürrheim bei den Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"AfD",
+"GRÜNE",
+"CDU"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Auf dem Land in Baden-Württemberg liegt die CDU meist vorn, dahinter vermutet man oft SPD oder Grüne. In Bad Dürrheim wurde aber die AfD mit 24,9 Prozent zweitstärkste Kraft, hinter der CDU. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "80-bad-duerrheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Dürrheim",
+"steckbrief": "Kurstadt mit rund 13.000 Einwohnern, 51 km östlich von Freiburg im Breisgau.",
+"frage": "Ein Adelsgeschlecht gilt als Gründer der Eigenkirche zu Dürrheim. Wie hieß es?",
+"optionen": [
+"Es hieß Fuchs von Dürrheim.",
+"Es hieß Hirsch von Dürrheim.",
+"Es hieß Esel von Dürrheim.",
+"Es hieß Wolf von Dürrheim."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Fuchs oder Wolf klingen nach stolzem Adel, ein Esel kaum. Und doch gelten die Esel von Dürrheim als Gründer und erste Besitzer der Kirche. Eine Eigenkirche gehörte dem Herrn, auf dessen Grund sie stand. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.badduerrheim.de/Freizeit-Tourismus/Stadtleben/Geschichte-Museen",
+"faktencheck": "korrigiert",
+"id": "80-bad-duerrheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bad Dürrheim",
+"steckbrief": "Kurstadt mit rund 13.000 Einwohnern, 51 km östlich von Freiburg im Breisgau.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Bad Dürrheim?",
+"optionen": [
+"FR",
+"KN",
+"LÖ",
+"VS"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Freiburg ist die nächste Großstadt, da liegt FR nahe. Doch Bad Dürrheim gehört zum Schwarzwald-Baar-Kreis, und dessen Hauptkennzeichen ist VS. Daneben geben Kreise oft auch frühere Kennzeichen aus. Richtig war 4.",
+"quelle": "Wikidata P395; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "80-bad-duerrheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Dürrheim",
+"steckbrief": "Kurstadt mit rund 13.000 Einwohnern, 51 km östlich von Freiburg im Breisgau.",
+"frage": "Ins DRK-Kindersolbad in Bad Dürrheim kamen in den 1960er- und 1970er-Jahren Verschickungskinder. Wofür ist das Heim heute bekannt?",
+"optionen": [
+"Dort wurden Arzneimittel an Kurkindern erprobt.",
+"Dort entstand ein bekannter Kinderchor.",
+"Dort drehte man einen beliebten Heimatfilm.",
+"Dort trainierte eine Fußball-Nationalelf vor Turnieren."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Kinderheim im Kurort klingt nach Idylle, eher nach Heimatfilm als nach Skandal. Doch der Chefarzt des DRK-Kindersolbads erprobte in den 1960er-Jahren Arzneimittel an Verschickungskindern, also an allein zur Kur geschickten Kindern. Das DRK hat sich inzwischen für die erlittene Gewalt entschuldigt. Richtig war 1.",
+"quelle": "Stuttgarter Zeitung, stuttgarter-zeitung.de",
+"faktencheck": "korrigiert",
+"id": "80-bad-duerrheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Dürrheim",
+"steckbrief": "Kurstadt mit rund 13.000 Einwohnern, 51 km östlich von Freiburg im Breisgau.",
+"frage": "In einem Ried südlich von Bad Dürrheim weiden Wasserbüffel. Wozu?",
+"optionen": [
+"Sie sollen Kutschen für Kurgäste ziehen.",
+"Sie sollen die Fläche für den Naturschutz beweiden.",
+"Ein Wanderzirkus hat dort sein Winterquartier.",
+"Ein Fernsehdreh brauchte sie als Kulisse."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Büffel auf der Baar wirken exotisch, eher nach Zirkus oder Wildgehege. Doch die Tiere beweiden das Ried an der Stillen Musel für den Naturschutz. Sie halten die Flächen offen, und davon profitieren seltene Wiesenbrüter wie der Kiebitz. Richtig war 2.",
+"quelle": "Badische Landesbibliothek, regionalia.blb-karlsruhe.de (Kretzschmar/Körner, Biotopverbund)",
+"faktencheck": "korrigiert",
+"id": "80-bad-duerrheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bad Dürrheim",
+"steckbrief": "Kurstadt mit rund 13.000 Einwohnern, 51 km östlich von Freiburg im Breisgau.",
+"frage": "In der Mitte des Stadtwappens steht ein goldener Stab. Wofür steht er?",
+"optionen": [
+"Er zeigt den Hirtenstab der Baar-Schäfer.",
+"Er zeigt einen Grenzpfahl zwischen Schwarzwald und Alb.",
+"Er zeigt den Maibaum auf dem Dorfplatz.",
+"Er zeigt ein Bohrloch zur Gewinnung von Sole."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Stab im Wappen lässt an Hirten oder Grenzen denken. Doch der goldene Stab steht für ein Bohrloch zur Solegewinnung. Salz und Sole brachten dem Ort später den Namenszusatz „Bad“. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Bad_Dürrheim",
+"faktencheck": "bestätigt",
+"id": "80-bad-duerrheim/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "79-donaueschingen",
+"anschluss": [
+"Eine Alltagsroute im Radnetz verbindet Bad Dürrheim mit Donaueschingen.",
+"Fläche: Donaueschingen misst gut 104, Bad Dürrheim gut 62 Quadratkilometer."
+],
+"anschluesse": {
+"77-braeunlingen": [
+"Bad Dürrheim hat gut doppelt so viele Einwohner wie Bräunlingen."
+],
+"78-huefingen": [
+"Bad Dürrheim hat gut anderthalbmal so viele Einwohner wie Hüfingen."
+],
+"79-donaueschingen": [
+"Eine Alltagsroute im Radnetz verbindet Bad Dürrheim mit Donaueschingen.",
+"Fläche: Donaueschingen misst gut 104, Bad Dürrheim gut 62 Quadratkilometer."
+],
+"81-villingen-schwenningen": [
+"Villingen-Schwenningen hat siebenmal so viele Einwohner wie Bad Dürrheim."
+],
+"82-tuningen": [
+"Bad Dürrheim hat viermal so viele Einwohner wie Tuningen."
+],
+"83-rottweil": [
+"Kreisgrenze: Rottweil gehört zum Landkreis Rottweil, Bad Dürrheim zum Schwarzwald-Baar-Kreis.",
+"Rottweil hat fast doppelt so viele Einwohner wie Bad Dürrheim."
+]
+},
+"ags": "08326003",
+"ortsteil": false,
+"km_vom_vorigen": 7.4
+},
+{
+"slug": "81-villingen-schwenningen",
+"name": "Villingen-Schwenningen",
+"lat": 48.06315,
+"lon": 8.49296,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Villingen-Schwenningen",
+"steckbrief": "Rund 90.000 Einwohner, 48 km östlich von Freiburg im Breisgau.",
+"frage": "Das gemeinsame Stadtwappen von 2001 trägt einen Wellenbalken. Was soll das Wappen laut Stadt insgesamt darstellen?",
+"optionen": [
+"Die Lage an einem großen Stausee.",
+"Die Lage auf der europäischen Wasserscheide.",
+"Die einstige Flößerei auf den Flüssen.",
+"Eine verheerende Flut der Stadtgeschichte."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wellen im Wappen deuten viele auf Hochwasser oder Flößerei, weil Flüsse Städte oft so geprägt haben. Hier steht der Wellenbalken für Flüsse: die Brigach als Quellfluss der Donau für Villingen, den Neckarursprung für Schwenningen. So zeigt das Wappen die Lage der Stadt auf der europäischen Wasserscheide. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/historisches/",
+"faktencheck": "korrigiert",
+"id": "81-villingen-schwenningen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Villingen-Schwenningen",
+"steckbrief": "Rund 90.000 Einwohner, 48 km östlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Fläche des gesamten Stadtgebiets von Villingen-Schwenningen?",
+"optionen": [
+"unter 60 km²",
+"60 bis unter 120 km²",
+"120 bis unter 200 km²",
+"200 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei dieser Einwohnerzahl erwartet man eher eine kompakte Stadt. Doch in Villingen-Schwenningen wuchsen zwei Städte und kleinere Stadtbezirke zusammen. Das Stadtgebiet misst 165,5 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "81-villingen-schwenningen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Villingen-Schwenningen",
+"steckbrief": "Rund 90.000 Einwohner, 48 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Villingen war im 19. Jahrhundert badische Amtsstadt.",
+"Villingen bekam 1871 Markt-, Münz- und Zollrecht.",
+"Schwenningen wurde 817 erstmals urkundlich erwähnt."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. 817 klingt verdächtig früh, ist aber Schwenningens erster urkundlicher Beleg. Gelogen war das Jahr 1871: Markt-, Münz- und Zollrecht sind mittelalterliche Rechte, Villingen erhielt sie 999 von Kaiser Otto III. Auch die badische Amtsstadt stimmt. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/historisches/",
+"faktencheck": "bestätigt",
+"id": "81-villingen-schwenningen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Villingen-Schwenningen",
+"steckbrief": "Rund 90.000 Einwohner, 48 km östlich von Freiburg im Breisgau.",
+"frage": "Wie hoch war die Wahlbeteiligung in Villingen-Schwenningen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 80 %",
+"80 bis unter 83 %",
+"83 bis unter 86 %",
+"86 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. 2025 gingen bundesweit besonders viele Menschen wählen, darum liegt eine der höheren Spannen nahe. In Villingen-Schwenningen lag die Wahlbeteiligung aber bei 79,1 Prozent, knapp darunter. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "81-villingen-schwenningen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Villingen-Schwenningen",
+"steckbrief": "Rund 90.000 Einwohner, 48 km östlich von Freiburg im Breisgau.",
+"frage": "Schwenningen bekam erst 1907 das Stadtrecht. Was war es laut Stadtgeschichte bis dahin?",
+"optionen": [
+"Ein Weiler, der zu Villingen gehörte.",
+"Das damals größte Dorf Württembergs.",
+"Der damals größte Marktflecken Bayerns.",
+"Ein Grenzdorf unter Schweizer Herrschaft."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Neben der Zähringerstadt Villingen wirkt Schwenningen leicht wie ein Anhängsel. Doch Schwenningen war ein eigenständiges württembergisches Dorf, laut Stadtgeschichte sogar das damals größte im Königreich Württemberg. 1907 erhielt es dann das Stadtrecht. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/historisches/",
+"faktencheck": "korrigiert",
+"id": "81-villingen-schwenningen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Villingen-Schwenningen",
+"steckbrief": "Rund 90.000 Einwohner, 48 km östlich von Freiburg im Breisgau.",
+"frage": "Wie weit ist es von Villingen-Schwenningen in der Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"35 Kilometer",
+"65 Kilometer",
+"95 Kilometer",
+"125 Kilometer"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Freiburg liegt laut Steckbrief nur 48 Kilometer entfernt, deshalb schätzt man auch Stuttgart gern näher. Doch bis zur Landeshauptstadt sind es 95 Kilometer Luftlinie, fast doppelt so weit. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "81-villingen-schwenningen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Villingen-Schwenningen",
+"steckbrief": "Rund 90.000 Einwohner, 48 km östlich von Freiburg im Breisgau.",
+"frage": "Mit welchem einstigen Titel beschreibt die Stadt ihren Stadtbezirk Schwenningen?",
+"optionen": [
+"Einst größte Strohhutstadt der Welt.",
+"Einst größte Harmonikastadt der Welt.",
+"Einst größte Glasstadt der Welt.",
+"Einst größte Uhrenstadt der Welt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Harmonika oder Glas liegen nahe, denn beides kennt man aus Handwerk und Industrie der Region. Schwenningen aber hatte eine beachtliche Industrie mit Schwerpunkt Uhrenfertigung. Die Stadt nennt es die einst größte Uhrenstadt der Welt; davon erzählt das Uhrenindustriemuseum. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/historisches/",
+"faktencheck": "unsicher",
+"id": "81-villingen-schwenningen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Villingen-Schwenningen",
+"steckbrief": "Rund 90.000 Einwohner, 48 km östlich von Freiburg im Breisgau.",
+"frage": "Villingen und Schwenningen bilden seit 1972 eine gemeinsame Stadt. Wie kam es laut Stadtgeschichte dazu?",
+"optionen": [
+"Bei der Verwaltungsreform, mit großer Zustimmung der Bürger.",
+"Durch Zwangseingliederung gegen heftigen Bürgerprotest.",
+"Auf Anordnung der französischen Besatzungsmacht.",
+"Durch den Verkauf Schwenningens an Villingen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei Gemeindereformen denken viele an Zwang von oben und Widerstand vor Ort, oft zu Recht. Die Stadtgeschichte erzählt es anders: Die gemeinsame Stadt entstand bei der Verwaltungsreform mit großer Zustimmung der Bürgerinnen und Bürger. Den Namen geben die Stadtbezirke Villingen und Schwenningen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/historisches/",
+"faktencheck": "bestätigt",
+"id": "81-villingen-schwenningen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Villingen-Schwenningen",
+"steckbrief": "Rund 90.000 Einwohner, 48 km östlich von Freiburg im Breisgau.",
+"frage": "Wie sah 2025 laut Stadt die Bilanz der Berufspendler von Villingen-Schwenningen aus?",
+"optionen": [
+"Deutlich mehr Menschen pendelten aus als ein.",
+"Ein- und Auspendler hielten sich genau die Waage.",
+"Mehr Menschen pendelten zur Arbeit ein als aus.",
+"Kaum jemand pendelte, fast alle arbeiteten am Ort."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Neben Stuttgart oder Freiburg wirkt eine Stadt dieser Größe schnell wie ein Ort, aus dem man wegpendelt. Doch Villingen-Schwenningen ist ein Oberzentrum, also Arbeits- und Versorgungsort für die Umgebung: Laut Stadt pendelten mehr Menschen zur Arbeit ein als aus. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.villingen-schwenningen.de/wirtschaft-investieren/standort-vs/zahlen-daten-fakten/ (Stand 2025)",
+"faktencheck": "bestätigt",
+"id": "81-villingen-schwenningen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "80-bad-duerrheim",
+"anschluss": [
+"Kennzeichen: In Villingen-Schwenningen und Bad Dürrheim steht VS am Auto.",
+"Einwohner: Villingen-Schwenningen hat fast siebenmal so viele wie Bad Dürrheim."
+],
+"anschluesse": {
+"77-braeunlingen": [
+"Villingen-Schwenningen hat fünfzehnmal so viele Einwohner wie Bräunlingen."
+],
+"78-huefingen": [
+"Villingen-Schwenningen hat elfmal so viele Einwohner wie Hüfingen."
+],
+"79-donaueschingen": [
+"Villingen-Schwenningen hat gut viermal so viele Einwohner wie Donaueschingen."
+],
+"80-bad-duerrheim": [
+"Kennzeichen: In Villingen-Schwenningen und Bad Dürrheim steht VS am Auto.",
+"Einwohner: Villingen-Schwenningen hat fast siebenmal so viele wie Bad Dürrheim."
+],
+"82-tuningen": [
+"Villingen-Schwenningen hat rund 30-mal so viele Einwohner wie Tuningen."
+],
+"83-rottweil": [
+"Kreisgrenze: Rottweil gehört zum Landkreis Rottweil, Villingen-Schwenningen zum Schwarzwald-Baar-Kreis.",
+"Villingen-Schwenningen hat dreieinhalbmal so viele Einwohner wie Rottweil."
+]
+},
+"ags": "08326074",
+"ortsteil": false,
+"km_vom_vorigen": 6.0
+},
+{
+"slug": "82-tuningen",
+"name": "Tuningen",
+"lat": 48.02667,
+"lon": 8.60167,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Tuningen",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 56 km östlich von Freiburg im Breisgau.",
+"frage": "Tuningen ist 797 erstmals schriftlich belegt. Wie kam der Ort in diese Urkunde?",
+"optionen": [
+"Ein Adliger von dort verschenkte Besitz in anderen Dörfern.",
+"Tuningen selbst wurde einem Kloster geschenkt.",
+"Ein König verlieh Tuningen das Marktrecht.",
+"Ein Bischof weihte dort eine Kirche."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre, dass Tuningen selbst verschenkt wurde: So tauchen viele Dörfer erstmals auf. Doch der alamannische Adlige Thrutbert von Dainingas, also von Tuningen, schenkte seine Besitzungen in Weigheim und Trossingen dem Kloster St. Gallen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad",
+"faktencheck": "korrigiert",
+"id": "82-tuningen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Tuningen",
+"steckbrief": "Gemeinde im Schwarzwald-Baar-Kreis mit rund 3.200 Einwohnern, 56 km östlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die gesamte Gemarkung der Gemeinde Tuningen?",
+"optionen": [
+"unter 10 km²",
+"10 bis unter 20 km²",
+"20 bis unter 40 km²",
+"40 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an Schwarzwaldgemeinden mit riesigen Waldgemarkungen denkt, schätzt leicht zu hoch. Tuningen liegt auf der Baar; seine Gemarkung misst 15,59 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "82-tuningen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Tuningen",
+"steckbrief": "Gemeinde auf der Baar mit rund 3.200 Einwohnern, 56 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Schon die Römer nutzten alte Straßen bei Tuningen.",
+"Alamannen bestatteten ihre Toten bei Tuningen mit Schwertern.",
+"Kelten bestatteten ihre Toten bei Tuningen in Felshöhlen."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Schwerter im Grab klingen erfunden, doch die Alamannen gaben ihren Toten persönliche Habe mit, etwa ein Langschwert. Gelogen sind die Felshöhlen: Die Kelten bestatteten ihre Toten in Hügelgräbern, die rund um Tuningen liegen. Ein Modell am Geschichtspfad zeigt ihr ursprüngliches Aussehen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad",
+"faktencheck": "bestätigt",
+"id": "82-tuningen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Tuningen",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 56 km östlich von Freiburg im Breisgau.",
+"frage": "Bundestagswahl 2025, Zweitstimmen: Welchen Anteil holte die stärkste Partei in Tuningen?",
+"optionen": [
+"unter 24 %",
+"24 bis unter 28 %",
+"28 bis unter 31 %",
+"31 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei vielen Parteien wirkt ein Drittel der Stimmen hoch, daher tippt man leicht zu tief. Die CDU holte in Tuningen 32,2 Prozent, die AfD folgte recht dicht. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "82-tuningen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Tuningen",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern an der Autobahn, 56 km östlich von Freiburg im Breisgau.",
+"frage": "Ein Städtebund unter Rottweils Führung zerstörte 1377 die Burg Hohe Lupfen. Welchen Grund nennt der Tuninger Geschichtspfad?",
+"optionen": [
+"Die Städte wehrten sich gegen Raubritter.",
+"Ein Erbstreit der Lupfener sollte beendet werden.",
+"Die Lupfener hatten Ketzer auf der Burg versteckt.",
+"Die Burg sollte einer Klostergründung weichen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Erbstreit liegt nahe, denn viele Burgen fielen in Familienfehden. Hier aber zog ein ganzer Städtebund gegen das Raubritterunwesen. Die Lupfener stellten sogar Äbte in Einsiedeln und auf der Reichenau. Die Burg wurde wieder aufgebaut, erreichte ihre frühere Bedeutung aber nicht mehr. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad",
+"faktencheck": "bestätigt",
+"id": "82-tuningen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Tuningen",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 56 km östlich von Freiburg im Breisgau.",
+"frage": "Wie weit ist es von Tuningen in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 70 km",
+"70 bis unter 100 km",
+"100 bis unter 130 km",
+"130 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer Tuningen im äußersten Südwesten verortet, hält Stuttgart für weit weg. Doch es sind 94 Kilometer Luftlinie, und die Autobahn Richtung Stuttgart hat bei Tuningen eine eigene Ausfahrt. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "82-tuningen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Tuningen",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 56 km östlich von Freiburg im Breisgau.",
+"frage": "Der Sage nach soll ein Mann Tuningen seinen Namen gegeben haben. Wer?",
+"optionen": [
+"Ein römischer Gutsherr namens Tunnius",
+"Ein Mönch namens Tuto",
+"Ein Stammesführer namens Teino",
+"Ein Köhler namens Tunno"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der römische Gutsherr liegt nahe: Im Gewann Weil bei Tuningen fand man Grundmauern eines römischen Gutshofs. Die Sage nennt aber den Stammesführer Teino; ob sie stimmt, ist offen. Alamannische Siedlungsnamen enden meist auf -ingen, wie Tuningen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad",
+"faktencheck": "bestätigt",
+"id": "82-tuningen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Tuningen",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 56 km östlich von Freiburg im Breisgau.",
+"frage": "Das Tuninger Heimatmuseum steht in einem Haus, dessen Bau 1882 genehmigt wurde. Wer hat es gebaut?",
+"optionen": [
+"Ein Tagelöhner und ein Schneider",
+"Ein Großbauer für seinen Hoferben",
+"Die Kirchengemeinde als Pfarrhaus",
+"Ein Fabrikant für seine Arbeiter"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Großbauer liegt nahe, denn viele Heimatmuseen stehen in stattlichen Höfen. Dieses Haus bauten der Tagelöhner Johannes Kohler und der Schneider Jakob Kaiser. Später gehörte es Johann Jakob Erchinger, Schreiner, Mesner und Briefträger. Die Gemeinde erwarb es, der Heimatverein richtete es her. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.tuningen.de/freizeitangebote/heimatmuseum",
+"faktencheck": "bestätigt",
+"id": "82-tuningen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Tuningen",
+"steckbrief": "Gemeinde mit rund 3.200 Einwohnern, 56 km östlich von Freiburg im Breisgau.",
+"frage": "Bei Tuningen liegt eine viereckige Anlage aus Wall und Graben. Wozu diente sie ursprünglich laut Geschichtspfad?",
+"optionen": [
+"Sie war ein römisches Militärlager.",
+"Sie war ein Turnierplatz mittelalterlicher Ritter.",
+"Sie war ein keltischer Kultbezirk.",
+"Sie war ein alamannischer Viehpferch."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viereckig mit Wall und Graben, das klingt nach Römerlager. Doch die Anlage stammt von den Kelten, aus der Latènezeit vor der Ankunft der Römer. Der Geschichtspfad nennt sie einen Kultbezirk, der wahrscheinlich auch als Fliehburg diente; solche Schanzen besaßen innen einen Tempel und einen tiefen Opferschacht. Fachleute nennen solche Anlagen Vierecksschanzen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.tuningen.de/freizeitangebote/geschichtlicher-wanderpfad",
+"faktencheck": "korrigiert",
+"id": "82-tuningen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "81-villingen-schwenningen",
+"anschluss": [
+"Bundestagswahl 2025: Beteiligung in Tuningen 86,7, in Villingen-Schwenningen 79,1 Prozent.",
+"Fläche: Villingen-Schwenningen ist gut zehnmal so groß wie Tuningen."
+],
+"anschluesse": {
+"77-braeunlingen": [
+"Bräunlingen hat fast doppelt so viele Einwohner wie Tuningen."
+],
+"78-huefingen": [
+"Hüfingen hat zweieinhalbmal so viele Einwohner wie Tuningen."
+],
+"79-donaueschingen": [
+"Donaueschingen hat fast siebenmal so viele Einwohner wie Tuningen."
+],
+"80-bad-duerrheim": [
+"Bad Dürrheim hat viermal so viele Einwohner wie Tuningen."
+],
+"81-villingen-schwenningen": [
+"Bundestagswahl 2025: Beteiligung in Tuningen 86,7, in Villingen-Schwenningen 79,1 Prozent.",
+"Fläche: Villingen-Schwenningen ist gut zehnmal so groß wie Tuningen."
+],
+"83-rottweil": [
+"Kreisgrenze: Rottweil gehört zum Landkreis Rottweil, Tuningen zum Schwarzwald-Baar-Kreis.",
+"Rottweil hat fast achtmal so viele Einwohner wie Tuningen."
+]
+},
+"ags": "08326061",
+"ortsteil": false,
+"km_vom_vorigen": 9.0
+},
+{
+"slug": "83-rottweil",
+"name": "Rottweil",
+"lat": 48.16806,
+"lon": 8.62472,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rottweil",
+"steckbrief": "Rund 25.000 Einwohner, 56 km südwestlich von Reutlingen.",
+"frage": "Die Hunderasse Rottweiler trägt den Namen der Stadt. Wer hat hier ihre Vorfahren vor allem gezüchtet?",
+"optionen": [
+"Die Mönche der Reichsabtei Rottenmünster, als Hofhunde.",
+"Die Rottweiler Stadtwächter, für ihre Rundgänge.",
+"Die Rottweiler Jäger, für die Jagd auf Wildschweine.",
+"Die Rottweiler Metzger, zum Treiben von Vieh."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Wachhund liegt nahe, denn so kennt man den Rottweiler heute. Seine Vorfahren waren aber Treib- und Hütehunde: Die Rottweiler Metzger trieben Viehhandel und züchteten Hunde, die das Vieh zusammenhielten. Früher hieß er deshalb „Rottweiler Metzgerhund“. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "83-rottweil/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rottweil",
+"steckbrief": "Rund 25.000 Einwohner, 56 km südwestlich von Reutlingen.",
+"frage": "Wie viele Einwohner leben in Rottweil durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 400",
+"400 bis unter 800",
+"800 bis unter 1.200",
+"1.200 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Große Kreisstadt wirkt städtisch, deshalb liegt ein höherer Wert nahe. Doch zur Stadt gehören Teilorte wie Feckenhausen, Göllsdorf und Zepfenhan, dazu viel Wald und landwirtschaftliche Fläche. So kommen auf einen Quadratkilometer 348 Einwohner. Richtig war 1.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "83-rottweil/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Rottweil",
+"steckbrief": "Rund 25.000 Einwohner, 56 km südwestlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das kaiserliche Hofgericht urteilte nur über Rottweiler Bürger.",
+"Ein späterer Reformator Berns lernte an der Lateinschule.",
+"In der Au-Vorstadt am Neckar schmiedete man Sicheln."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Berner Reformator auf einer Rottweiler Schulbank klingt erfunden, stimmt aber: Berchtold Haller lernte an der Lateinschule, ebenso der Humanist Glarean. Gelogen war das Hofgericht: In seiner Blütezeit reichte seine Zuständigkeit von Köln bis zum Alpenkamm und von den Vogesen bis zum Lech. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "83-rottweil/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Rottweil",
+"steckbrief": "Rund 25.000 Einwohner, 56 km südwestlich von Reutlingen.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Rottweil zweitstärkste Kraft nach Zweitstimmen?",
+"optionen": [
+"SPD",
+"GRÜNE",
+"AfD",
+"FDP"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt nahe, denn sie war lange die übliche Nummer zwei hinter der CDU. In Rottweil holte aber die AfD 24 Prozent der Zweitstimmen und lag damit hinter der CDU mit 32,3 Prozent. Die SPD kam auf Platz drei. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "83-rottweil/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rottweil",
+"steckbrief": "Rund 25.000 Einwohner, 56 km südwestlich von Reutlingen.",
+"frage": "Rottweil schloss 1519 einen ewigen Bund mit der Eidgenossenschaft. Wurde dieser Bund je förmlich beendet?",
+"optionen": [
+"Ja, ein Friedensvertrag hob ihn förmlich auf.",
+"Ja, die Eidgenossen haben ihn aufgekündigt.",
+"Ja, Rottweil hat ihn selbst aufgekündigt.",
+"Nein, keine Seite hat ihn je aufgekündigt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Ende liegt nahe, denn Rottweil kam an Württemberg und liegt heute in Deutschland. Nach dem Dreißigjährigen Krieg schlief der Bund tatsächlich ein. Förmlich beendet hat ihn aber niemand: Bis heute hat ihn keine Seite aufgekündigt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte; Historisches Lexikon der Schweiz",
+"faktencheck": "korrigiert",
+"id": "83-rottweil/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rottweil",
+"steckbrief": "Rund 25.000 Einwohner, 56 km südwestlich von Reutlingen.",
+"frage": "Wie weit ist es von Rottweil nach Stuttgart, gemessen in Luftlinie?",
+"optionen": [
+"unter 90 km",
+"90 bis unter 120 km",
+"120 bis unter 150 km",
+"150 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein größerer Abstand liegt nahe, denn wer über die Straße fährt, legt mehr Kilometer zurück, als die Luftlinie misst. Rottweil liegt aber nur 80 Kilometer Luftlinie von der Landeshauptstadt Stuttgart entfernt. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "83-rottweil/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rottweil",
+"steckbrief": "Rund 25.000 Einwohner, 56 km südwestlich von Reutlingen.",
+"frage": "Im November 1643 nahm eine französische Armee Rottweil nach längerer Belagerung ein. Was wurde aus ihrem Befehlshaber, Marschall Guébriant?",
+"optionen": [
+"Er zog unverletzt weiter an den Rhein.",
+"Er starb schwer verwundet im Rottweiler Dominikanerkloster.",
+"Er fiel gleich beim Sturm auf Rottweil.",
+"Er genas und kehrte nach Frankreich zurück."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Dass ein Feldherr die Belagerung übersteht und weiterzieht, liegt nahe, denn Befehlshaber standen selten in vorderster Reihe. Guébriant aber wurde schwer verwundet und starb im Rottweiler Dominikanerkloster, also in der Stadt, die er belagert hatte. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "83-rottweil/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rottweil",
+"steckbrief": "Rund 25.000 Einwohner, 56 km südwestlich von Reutlingen.",
+"frage": "Der Gewerbepark Neckartal nutzt denkmalgeschützte Industriebauten. Was wurde dort einst mit Weltgeltung hergestellt?",
+"optionen": [
+"Dort entstanden Uhren für den Weltmarkt.",
+"Dort wurde feines Porzellan gebrannt.",
+"Dort wurde Schießpulver hergestellt.",
+"Dort wurden Zigarren gerollt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Uhren liegen nahe, denn Schwarzwälder Uhren sind weltbekannt. Im Neckartal arbeitete aber schon früh eine Pulvermühle. Daraus wuchs die Rottweiler Pulverfabrik mit Weltgeltung; ihr führender Fabrikant war Max Duttenhofer. Heute nutzt der Gewerbepark Neckartal die denkmalgeschützten Bauten. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "83-rottweil/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rottweil",
+"steckbrief": "Rund 25.000 Einwohner, 56 km südwestlich von Reutlingen.",
+"frage": "Rottweil ist seit 771 als „rotuvilla“ belegt. Worauf bezieht sich diese Nennung?",
+"optionen": [
+"Gemeint war ein noch bewohntes Römerlager.",
+"Gemeint war ein fränkischer Königshof.",
+"Gemeint war eine Zollstation an der Neckarbrücke.",
+"Gemeint war ein Dorf von Neckarflößern."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Römerlager liegt nahe, denn hier stand einst die Römerstadt Arae Flaviae. Gemeint ist aber ein fränkischer Königshof auf der Hochfläche links des Neckars. Er ging an die Staufer, die als Gründer der neuen Stadt über der Neckarschleife gelten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.rottweil.de/de/Stadt-Buerger/Unsere-Stadt/Stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "83-rottweil/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "82-tuningen",
+"anschluss": [
+"Kreisgrenze: In Tuningen steht VS am Auto, in Rottweil RW.",
+"Bundestagswahl 2025: CDU-Anteil in Rottweil und Tuningen fast gleich."
+],
+"anschluesse": {
+"80-bad-duerrheim": [
+"Kreisgrenze: Bad Dürrheim gehört zum Schwarzwald-Baar-Kreis, Rottweil zum Landkreis Rottweil.",
+"Rottweil hat fast doppelt so viele Einwohner wie Bad Dürrheim."
+],
+"81-villingen-schwenningen": [
+"Kreisgrenze: Villingen-Schwenningen gehört zum Schwarzwald-Baar-Kreis, Rottweil zum Landkreis Rottweil.",
+"Villingen-Schwenningen hat dreieinhalbmal so viele Einwohner wie Rottweil."
+],
+"82-tuningen": [
+"Kreisgrenze: In Tuningen steht VS am Auto, in Rottweil RW.",
+"Bundestagswahl 2025: CDU-Anteil in Rottweil und Tuningen fast gleich."
+],
+"84-oberndorf": [
+"Rottweil hat gut anderthalbmal so viele Einwohner wie Oberndorf am Neckar."
+]
+},
+"ags": "08325049",
+"ortsteil": false,
+"km_vom_vorigen": 15.8
+},
+{
+"slug": "84-oberndorf",
+"name": "Oberndorf am Neckar",
+"lat": 48.29139,
+"lon": 8.5725,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberndorf am Neckar",
+"steckbrief": "Stadt mit rund 14.700 Einwohnern, 52 km südwestlich von Reutlingen.",
+"frage": "Erst 1806 kam Oberndorf an Württemberg. Wozu gehörte die Stadt in den Jahrhunderten davor, seit 1381?",
+"optionen": [
+"Die Stadt gehörte zur Eidgenossenschaft.",
+"Die Stadt gehörte zur Pfalz.",
+"Die Stadt gehörte zu Österreich.",
+"Die Stadt gehörte zu Hessen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Schweiz liegt nicht weit, deshalb klingt die Eidgenossenschaft verlockend. Doch Oberndorf gehörte zu Vorderösterreich, den habsburgischen Besitzungen im Südwesten. Erst danach wurde die Stadt württembergisch; später war sie Oberamtsstadt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.oberndorf.de/Unsere-Stadt/Das-ist-Oberndorf/Historisches",
+"faktencheck": "korrigiert",
+"id": "84-oberndorf/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oberndorf am Neckar",
+"steckbrief": "Stadt mit rund 14.700 Einwohnern, 52 km südwestlich von Reutlingen.",
+"frage": "Wie viele Einwohner leben in Oberndorf am Neckar durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 175",
+"175 bis unter 250",
+"250 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Kleinstadt im oberen Neckartal zwischen Schwarzwald und Alb wirkt ländlich, das verleitet zu niedrigen Werten. Rechnerisch leben in Oberndorf am Neckar aber 263 Menschen auf jedem Quadratkilometer. Richtig war 4.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "84-oberndorf/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Oberndorf am Neckar",
+"steckbrief": "Stadt mit rund 14.700 Einwohnern, 52 km südwestlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Oberndorfer Stadtgebiet gab es römische Gutshöfe.",
+"Die Mauser-Gewehrfabrik entstand erst nach dem Ersten Weltkrieg.",
+"Im Oberndorfer Stadtgebiet fand man alemannische Grabstätten."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Mauser verbindet man oft mit den Weltkriegen, das macht die Lüge glaubhaft. Doch das Unternehmen der Gebrüder Mauser ging lange vor dem Ersten Weltkrieg aus der königlichen Gewehrfabrik hervor. Auf römische Gutshöfe und alemannische Grabstätten im Stadtgebiet weisen archäologische Funde hin. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.oberndorf.de/Unsere-Stadt/Das-ist-Oberndorf/Historisches",
+"faktencheck": "korrigiert",
+"id": "84-oberndorf/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oberndorf am Neckar",
+"steckbrief": "Stadt mit rund 14.700 Einwohnern, 52 km südwestlich von Reutlingen.",
+"frage": "Wie hoch war die Wahlbeteiligung in Oberndorf am Neckar bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 80 %",
+"80 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei der Bundestagswahl 2025 gingen bundesweit auffallend viele Menschen wählen, das lockt zu hohen Schätzungen. In Oberndorf am Neckar lag die Beteiligung bei 79,2 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "korrigiert",
+"id": "84-oberndorf/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberndorf am Neckar",
+"steckbrief": "Stadt mit rund 14.700 Einwohnern, 52 km südwestlich von Reutlingen.",
+"frage": "Der Schwedenbau ist heute Kulturzentrum mit Museum, Archiv, Stadtbücherei und Volkshochschule. Wofür wurde er ursprünglich gebaut?",
+"optionen": [
+"Er wurde als Kaserne für Schweden gebaut.",
+"Er wurde als Kornspeicher der Stadt gebaut.",
+"Er wurde als Fabrikbau für Waffen gebaut.",
+"Er wurde als Spital der Stadt gebaut."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name weckt Bilder von schwedischen Soldaten aus alten Kriegen, deshalb liegt die Kaserne nahe. Doch Mauser ließ den Schwedenbau als industriellen Zweckbau für die Herstellung von Waffen errichten. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.oberndorf.de/Unsere-Stadt/Das-ist-Oberndorf/Kernstadt",
+"faktencheck": "bestätigt",
+"id": "84-oberndorf/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Oberndorf am Neckar",
+"steckbrief": "Stadt mit rund 14.700 Einwohnern, 52 km südwestlich von Reutlingen.",
+"frage": "Wie groß ist die Gemarkung der Stadt Oberndorf am Neckar mit allen Stadtteilen?",
+"optionen": [
+"unter 20 km²",
+"20 bis unter 35 km²",
+"35 bis unter 50 km²",
+"50 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer nur an die Kernstadt im Neckartal denkt, schätzt zu klein. Seit der Gemeindereform gehören weitere Stadtteile dazu, und mit ihnen wächst die Gemarkung auf 55,92 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "84-oberndorf/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberndorf am Neckar",
+"steckbrief": "Stadt im oberen Neckartal mit rund 14.700 Einwohnern, 52 km südwestlich von Reutlingen.",
+"frage": "Oberndorf gehört mit seiner Fasnet zum Viererbund, zusammen mit Rottweil und zwei weiteren Städten. Welche ist eine davon?",
+"optionen": [
+"Elzach gehört zum Viererbund.",
+"Rottenburg gehört zum Viererbund.",
+"Schramberg gehört zum Viererbund.",
+"Wolfach gehört zum Viererbund."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Rottenburg, Schramberg und Wolfach klingen ebenfalls nach Fasnet, das macht die Wahl schwer. Im Viererbund stehen neben Oberndorf und Rottweil aber Elzach und Überlingen. Gefeiert wird in Oberndorf traditionell zwischen Dreikönig und Aschermittwoch. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.oberndorf.de/Unsere-Stadt/Das-ist-Oberndorf/Kernstadt; Stadt Überlingen, cms.ueberlingen.de (Faltblatt „Fasnet hoch 4“)",
+"faktencheck": "korrigiert",
+"id": "84-oberndorf/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberndorf am Neckar",
+"steckbrief": "Stadt mit rund 14.700 Einwohnern, 52 km südwestlich von Reutlingen.",
+"frage": "Der König von Württemberg ließ in Oberndorf eine Gewehrfabrik einrichten. In welchem Gebäude?",
+"optionen": [
+"Er baute eine neue Fabrikhalle am Neckar.",
+"Er nutzte ein aufgehobenes Kloster der Stadt.",
+"Er zog in die Burg über der Stadt.",
+"Er nutzte eine leer stehende Kaserne."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Für eine Fabrik denkt man an einen Neubau am Fluss. Doch der König nutzte das aufgehobene Augustinerkloster. Aus dieser Gewehrfabrik ging später das Unternehmen der Gebrüder Mauser hervor. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.oberndorf.de/Unsere-Stadt/Das-ist-Oberndorf/Historisches",
+"faktencheck": "korrigiert",
+"id": "84-oberndorf/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Oberndorf am Neckar",
+"steckbrief": "Stadt mit rund 14.700 Einwohnern, 52 km südwestlich von Reutlingen.",
+"frage": "Oben im Stadtwappen liegt ein schwarzer Doppelhaken. Woher stammt dieses Zeichen nach heutiger Deutung?",
+"optionen": [
+"Er stammt von den Herzögen von Teck.",
+"Er zeigt ein Werkzeug der Gewehrfabrik Mauser.",
+"Er stammt vom Kloster St. Gallen.",
+"Er stammt wohl von der Adelsfamilie Hack von Oberndorf."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In der Waffenstadt liegt Mauser nahe, doch das Zeichen ist viel älter. Schon das Stadtsiegel von 1281 zeigt zwei Haken, wohl aus dem Wappen der ortsadeligen Familie Hack von Oberndorf. Der Doppelhaken diente als Ortszeichen, etwa auf Marksteinen. Die Rauten darunter gehen auf die Herzöge von Teck zurück. Richtig war 4.",
+"quelle": "LEO-BW, www.leo-bw.de (Ortslexikon Oberndorf am Neckar)",
+"faktencheck": "korrigiert",
+"id": "84-oberndorf/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "83-rottweil",
+"anschluss": [
+"Einwohner: Rottweil hat rund 25.000, Oberndorf am Neckar rund 14.700.",
+"Bundestagswahl 2025: AfD in Oberndorf 28,5 Prozent, in Rottweil 24."
+],
+"anschluesse": {
+"83-rottweil": [
+"Einwohner: Rottweil hat rund 25.000, Oberndorf am Neckar rund 14.700.",
+"Bundestagswahl 2025: AfD in Oberndorf 28,5 Prozent, in Rottweil 24."
+],
+"85-sulz": [
+"Oberndorf am Neckar hat rund 1.900 Einwohner mehr als Sulz am Neckar."
+]
+},
+"ags": "08325045",
+"ortsteil": false,
+"km_vom_vorigen": 14.2
+},
+{
+"slug": "85-sulz",
+"name": "Sulz am Neckar",
+"lat": 48.36278,
+"lon": 8.63167,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sulz am Neckar",
+"steckbrief": "Stadt mit rund 12.800 Einwohnern, 45 km westlich von Reutlingen.",
+"frage": "Der Sulzer Apotheker Johann Baptist Bauernfeind saß zweieinhalb Jahre auf der Festung Hohen-Asperg. Warum?",
+"optionen": [
+"Er hatte Arzneien mit Gift gestreckt.",
+"Man warf ihm Hochverrat vor.",
+"Er hatte Falschgeld in Umlauf gebracht.",
+"Er hatte einen Offizier im Duell verwundet."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Apotheker hinter Festungsmauern – da liegt der Verdacht auf Gift aus dem eigenen Laden nahe. Doch Bauernfeind, zugezogen aus Waldsassen in der Oberpfalz, hatte sich in der Revolution 1848/49 engagiert. Er saß wegen Hochverrats. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.sulz.de/stadt-wirtschaft/historie/bauernfeind-museum",
+"faktencheck": "unsicher",
+"id": "85-sulz/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Sulz am Neckar",
+"steckbrief": "Stadt im Landkreis Rottweil auf rund 88 km², 45 km westlich von Reutlingen.",
+"frage": "Wie viele Einwohner zählt die Stadt Sulz am Neckar mit allen Stadtteilen?",
+"optionen": [
+"unter 5.000",
+"5.000 bis unter 10.000",
+"10.000 bis unter 15.000",
+"15.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. „Alte Stadt am jungen Neckar“ – das klingt nach einem Städtchen unter 10.000 Einwohnern. Doch zu Sulz gehören Stadtteile wie Bergfelden, Glatt, Hopfau und Fischingen. Zusammen sind es 12.772 Einwohner. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "85-sulz/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Sulz am Neckar",
+"steckbrief": "Stadt mit rund 12.800 Einwohnern, 45 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"1064 erlaubte ein Kaiser in Sulz den Salzabbau.",
+"1897 wurde in Sulz eine Buntweberei gegründet.",
+"Bis 1974 förderte die Saline Sulz noch Salz."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Kaiser, der dem Ort den Salzabbau erlaubt, klingt nach Legende – stimmt aber: Kaiser Heinrich genehmigte ihn 1064. Gelogen war das späte Ende: Die Saline schloss schon 1924; auf dem Wöhrd entstand später ein Wohngebiet. Die Buntweberei von 1897 gab es wirklich. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.sulz.de/stadt-wirtschaft/historie/sulz-am-neckar",
+"faktencheck": "unsicher",
+"id": "85-sulz/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Sulz am Neckar",
+"steckbrief": "Stadt im Landkreis Rottweil mit rund 12.800 Einwohnern, 45 km westlich von Reutlingen.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Sulz bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 33 %",
+"33 bis unter 37 %",
+"37 bis unter 41 %",
+"41 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im Landkreis Rottweil erwartet man eine CDU mit großem Vorsprung. In Sulz holte sie zwar die meisten Zweitstimmen, mit 30,7 Prozent aber nur knapp vor der AfD mit 30,1 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "85-sulz/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sulz am Neckar",
+"steckbrief": "Stadt mit rund 12.800 Einwohnern, 45 km westlich von Reutlingen.",
+"frage": "Gustav Bauernfeind, 1848 in Sulz geboren, wurde Orientmaler. In welcher Stadt starb er 1904?",
+"optionen": [
+"Er starb in Kairo.",
+"Er starb in Jerusalem.",
+"Er starb in Damaskus.",
+"Er starb in Beirut."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Kairo liegt nahe, denn dorthin zog es viele Orientmaler. Bauernfeind, der in Stuttgart Architektur studiert hatte, lebte zuletzt in der Templersiedlung von Jerusalem. Dort starb er. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.sulz.de/stadt-wirtschaft/historie/bauernfeind-museum",
+"faktencheck": "bestätigt",
+"id": "85-sulz/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Sulz am Neckar",
+"steckbrief": "Stadt im Landkreis Rottweil mit rund 12.800 Einwohnern, 45 km westlich von Reutlingen.",
+"frage": "Wie viele Einwohner kommen in Sulz am Neckar rechnerisch auf einen Quadratkilometer?",
+"optionen": [
+"unter 50",
+"50 bis unter 100",
+"100 bis unter 200",
+"200 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Täler am Schwarzwaldrand wie das Glatttal lassen eine dünne Besiedlung erwarten. Doch rund 12.800 Menschen auf 87,62 km² ergeben 146 Einwohner je km². Richtig war 3.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "85-sulz/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sulz am Neckar",
+"steckbrief": "Stadt mit rund 12.800 Einwohnern, 45 km westlich von Reutlingen.",
+"frage": "Lina Hähnle (1851–1941) stammte aus Sulz am Neckar. Was gründete sie?",
+"optionen": [
+"Sie gründete eine Hebammenschule in Stuttgart.",
+"Sie gründete einen Schwarzwälder Wanderverein.",
+"Sie gründete eine Sternwarte auf der Alb.",
+"Sie gründete den Vogelschutzbund."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Frau als Gründerin – da denkt man an Krankenpflege oder Bildung, Felder, in denen Frauen früh Vereine prägten. Lina Hähnle aber gründete den Vogelschutzbund. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.sulz.de/stadt-wirtschaft/historie/sulzer-persoenlichkeiten",
+"faktencheck": "bestätigt",
+"id": "85-sulz/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sulz am Neckar",
+"steckbrief": "Stadt mit rund 12.800 Einwohnern, 45 km westlich von Reutlingen.",
+"frage": "Woher hat der Sulzer Stadtteil Glatt nach Angabe der Stadt wahrscheinlich seinen Namen?",
+"optionen": [
+"Von einem keltischen Wort für „klar“.",
+"Von der glatten, ruhigen Oberfläche des Baches.",
+"Von einem alemannischen Grundherrn namens Glatto.",
+"Vom glatten Felsen unter dem Schloss."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer „Glatt“ hört, denkt an glattes, ruhiges Wasser. Die Stadt führt den Namen aber wahrscheinlich auf das keltische „clot“ zurück, also klar – gemeint sind die glänzenden Wasser des Glattbachs. Erstmals erwähnt wird Glatt in einer Schenkungsurkunde an das Kloster St. Gallen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.sulz.de/stadtteile/glatt",
+"faktencheck": "unsicher",
+"id": "85-sulz/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Sulz am Neckar",
+"steckbrief": "Stadt mit rund 12.800 Einwohnern, 45 km westlich von Reutlingen.",
+"frage": "Am 30. Dezember 1688 wurde die Burg Albeck bei Sulz zerstört. Wer oder was war es?",
+"optionen": [
+"Schwedische Truppen schossen sie in Brand.",
+"Französische Truppen brannten und sprengten sie.",
+"Aufständische Bauern steckten sie in Brand.",
+"Ein Blitz entzündete ihr Pulverlager."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Burgruinen denkt man schnell an Schweden oder aufständische Bauern. Albeck aber fiel einem französischen Streifkorps zum Opfer, einer umherziehenden Truppe, die die Burg mit Feuer und Sprengung zerstörte. Später kaufte die Stadt die Ruine. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.sulz.de/stadt-wirtschaft/historie/burgruine-albeck",
+"faktencheck": "bestätigt",
+"id": "85-sulz/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "84-oberndorf",
+"anschluss": [
+"Sulz hat mehr Fläche als Oberndorf, aber weniger Einwohner."
+],
+"anschluesse": {
+"84-oberndorf": [
+"Sulz hat mehr Fläche als Oberndorf, aber weniger Einwohner."
+]
+},
+"ags": "08325057",
+"ortsteil": false,
+"km_vom_vorigen": 9.1
 },
 {
 "slug": "11-emmendingen",
@@ -7626,7 +9654,7 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "75-titisee-neustadt",
+"anschluss_von": "85-sulz",
 "anschluss": [],
 "anschluesse": {
 "65-march": [
@@ -7664,7 +9692,7 @@ window.QA_DATEN = {
 },
 "ags": "08316011",
 "ortsteil": false,
-"km_vom_vorigen": 35.8
+"km_vom_vorigen": 63.9
 },
 {
 "slug": "01-kenzingen",

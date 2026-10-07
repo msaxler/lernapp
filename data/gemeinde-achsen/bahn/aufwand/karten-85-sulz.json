@@ -1,0 +1,50 @@
+{
+ "stufe": "karten",
+ "ort": "85-sulz",
+ "prompt": "prompt-karten-v0.8.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 35515,
+ "token_ein": 37781,
+ "token_aus": 36497,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 30881,
+  "cache_read_input_tokens": 6898,
+  "output_tokens": 36497,
+  "output_tokens_details": {
+   "thinking_tokens": 27079
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 30881,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 36497,
+    "cache_read_input_tokens": 6898,
+    "cache_creation_input_tokens": 30881,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 30881
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.9783756000000001,
+ "sekunden": 311,
+ "fehler": false,
+ "zeit": "2026-10-07T08:16:10"
+}

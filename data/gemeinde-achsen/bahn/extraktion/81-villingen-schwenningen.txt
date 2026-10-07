@@ -1,0 +1,432 @@
+ENTITÄT: ort
+BEZEICHNUNG: Villingen-Schwenningen
+QUELLE: https://www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/historisches/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründungsdatum: 1972-01-01
+  gründungsanlass: "Verwaltungsreform mit großer Zustimmung der Bürgerinnen und Bürger"
+  benannt_nach: Villingen und Schwenningen (zwei Stadtbezirke)
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Villingen
+ORTSTEIL_BEZUG: Villingen
+QUELLE: https://www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/historisches/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 999
+  markt_muenz_zollrecht_verliehen: 999
+  markt_muenz_zollrecht_verliehen_durch: "Kaiser Otto III."
+  zugehoerigkeit_haus_habsburg: "ca. 500 Jahre als vorderösterreichische Stadt"
+  verwaltungsreform_status: Amtsstadt im Großherzogtum Baden (19. Jahrhundert)
+  industrialisierung_beginn: 19. Jahrhundert
+  charakterisierung: Zähringerstadt
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Schwenningen
+ORTSTEIL_BEZUG: Schwenningen
+QUELLE: https://www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/historisches/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 817
+  zugehoerigkeit_haus_wuerttemberg: 1444
+  zugehoerigkeit_haus_wuerttemberg_beginn_jahr: 1444
+  superlativ_industrie: "beachtliche Industrie Ende 19. Jahrhundert mit Schwerpunkt Uhrenfertigung"
+  superlativ_uhrenstadt: "einst größte Uhrenstadt der Welt"
+  stadtrechte_verliehen: 1907
+  stadtrechte_verliehen_grund: "damals größtes Dorf im Königreich Württemberg"
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtwappen Villingen-Schwenningen
+QUELLE: https://www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/historisches/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihungsdatum: 2001-12-11
+  verleihende_behoerde: Regierungspräsidium Freiburg
+  gemeinderat_beschlussdatum: 2001-11-14
+  beschaffungsanlass: Zusammenschluss der beiden Stadtwappen Villingen und Schwenningen
+  wappentiere: Adler (rot, golden bewehrt, linksgewendet), Schwan (silbern, golden schnabel und zunge)
+  farben: Silber und Blau
+  wellenbalken_symbolisierung_villingen: "Brigach als Quellfluss der Donau"
+  wellenbalken_symbolisierung_schwenningen: "Neckarursprung"
+  gesamtsymbolisierung: "Lage der gemeinsamen Stadt auf der europäischen Wasserscheide"
+  ursprung_adler: "Wappentier der einst selbstständigen Stadt Villingen"
+  ursprung_schwan: "Wappentier der einst selbstständigen Stadt Schwenningen"
+  verwendungsbeschraenkung: "ausschließlich im repräsentativen Bereich des Oberbürgermeisters"
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Stadtarchiv Villingen-Schwenningen
+QUELLE: https://www.villingen-schwenningen.de/kultur-vielfalt/stadtarchiv/ueber-uns/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abteilung_von: Amt für Archiv und Schriftgutverwaltung
+  aufgabe: "Bewahrung und Betreuung der Überlieferung zur Geschichte der Stadt Villingen-Schwenningen, der Städte Villingen und Schwenningen sowie kleinerer Stadtbezirke bis 1972"
+  bestandsteile: "Akten, Amtsbücher, EDV-Daten, Fotos, Karten, Pläne, Druckschriften, Ton- und Bildträger"
+  aelteste_urkunden_ab: 12. Jahrhundert
+  wissenschaftliche_spezialbibliothek_bestand: 18.000 Bände
+  abteilungsleiter: Markus Teubert
+  adresse: "Lantwattenstraße 4, 78050 Villingen-Schwenningen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: verlag
+BEZEICHNUNG: Verlag der Stadt Villingen-Schwenningen
+QUELLE: https://www.villingen-schwenningen.de/kultur-vielfalt/stadtarchiv/ueber-uns/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: Stadt Villingen-Schwenningen
+  gründungsjahr: 1988
+  leitung_initial: Hauptamt
+  leitung_ab_2000: Stadtarchivar
+  leitung_ab_2018: Leitung Amt für Archiv und Schriftgutverwaltung
+  publikationsschwerpunkte: "Städtische Galerie, Stadtarchiv, Museen"
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Villingen-Schwenningen
+QUELLE: https://www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/willkommen-in-vs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_geografie: "Am Rande des Mittleren Schwarzwaldes, zentral zwischen Stuttgart und Bodensee"
+  lage_dreilaendereck: "Deutschland, Frankreich, Schweiz"
+  verwaltungsstatus: Oberzentrum
+  einwohner: 88.000 [genauigkeit: "ca."]
+  charakterisierung: "traditionsbewusst aufstrebende Stadt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Villingen
+ORTSTEIL_BEZUG: Villingen
+QUELLE: https://www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/willkommen-in-vs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: "historische Innenstadt"
+  sehenswerte_merkmale: "Fachwerkhäuser, romantische Gässchen, plätschernde Bächlein"
+  befestigung: "nahezu intakte Stadtmauer mit Wehr- und Tortürmen"
+  befestigung_anordnung: "umschließt Zähringer-Straßenkreuz"
+  museum: Franziskanermuseum
+  kulturangebote: "Konzerte und Theatervorstellungen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schwenningen
+ORTSTEIL_BEZUG: Schwenningen
+QUELLE: https://www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/willkommen-in-vs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: "einst größte Uhrenstadt der Welt"
+  charakterisierung: "Duett aus Tradition und Fortschritt"
+  architektur: "Gründerzeitvillen neben modernen Bauten"
+  museen: Uhrenindustriemuseum, Internationales Luftfahrtmuseum
+  galerie: Städtische Galerie
+  galerie_ausstellungen: "renommierte Ausstellungen"
+  kulturveranstaltung: "Schwenninger Kulturnacht (Juli jeden Jahres)"
+  kulturveranstaltung_beschreibung: "Innenstadt als Kulturmeile mit Tanz, Musik, Essensangebot"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: immaterielles_kulturerbe
+BEZEICHNUNG: Schwäbisch-Alemannische Fasnet
+QUELLE: https://www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/willkommen-in-vs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fünfte_jahreszeit: true
+  unesco_weltkulturerbe_status: true
+  unesco_weltkulturerbe_ab: 2014
+  verbreitungsgebiet: Villingen-Schwenningen
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: infrastruktur_bildung_kultur
+QUELLE: https://www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/willkommen-in-vs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  museen: "zahlreiche"
+  galerie: "Städtische Galerie mit wechselnden Ausstellungen"
+  theater_konzert: "Theater- und Konzertreihen"
+  bibliothek: "gut ausgebaute Stadtbibliothek"
+  volkshochschule: "Volkshochschule mit überörtlicher Bedeutung"
+  schulen: "vollständig ausgebautes Schulwesen im allgemeinbildenden und beruflichen Bereich"
+  hochschulen_entstehung_ab: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Schwenninger Moos
+ORTSTEIL_BEZUG: Schwenningen
+QUELLE: https://www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/willkommen-in-vs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Naturschutzgebiet
+  status_ab: 1939
+  rundweglaenge: 3,5 Kilometer
+  sehenswerte_pflanzen_tiere: true
+  besonderheit: "Ursprung des Neckars"
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Schwenninger Moos
+ORTSTEIL_BEZUG: Schwenningen
+QUELLE: https://www.villingen-schwenningen.de/tourismus-erleben/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Naturschutzgebiet
+  status_ab: 1939
+  beschaffenheit: "nacheiszeitliches Moos"
+  infrastruktur: "Umweltzentrum Schwarzwald Baar Neckar"
+  umweltzentrum_angebot: "Ausstellungen, Veranstaltungen, naturkundliche Führungen"
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Franziskanermuseum
+ORTSTEIL_BEZUG: Villingen
+QUELLE: https://www.villingen-schwenningen.de/tourismus-erleben/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Zeitreise durch die Geschichte Villingens und des Schwarzwaldes"
+  gründungsjahr_ca: 1876 [genauigkeit: "vermutlich"]
+  gründungsjubilaeum_2026: "150. Geburtstag"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Uhrenindustriemuseum
+ORTSTEIL_BEZUG: Schwenningen
+QUELLE: https://www.villingen-schwenningen.de/tourismus-erleben/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: "Geschichte der Uhrenindustrie Schwenningens"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Internationales Luftfahrtmuseum
+ORTSTEIL_BEZUG: Schwenningen
+QUELLE: https://www.villingen-schwenningen.de/tourismus-erleben/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: Luftfahrt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: galerie
+BEZEICHNUNG: Städtische Galerie
+ORTSTEIL_BEZUG: Schwenningen
+QUELLE: https://www.villingen-schwenningen.de/tourismus-erleben/sehenswuerdigkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausstellungen: "renommierte Ausstellungen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Villingen-Schwenningen
+QUELLE: https://www.villingen-schwenningen.de/rathaus-leben/unsere-stadt/vs-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 89.479 [stand: 09/2026]
+  durchschnittsalter: 43.5 [stand: 12/2025, einheit: Jahre]
+  haushalte: 44.076 [stand: 12/2025]
+  mietpreis_durchschnitt: 8.17 [stand: 12/2024, einheit: EUR/qm]
+  geburten_jaehrlich: 851 [stand: 2025]
+  nationalitaeten: 145 [stand: 12/2025]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Villingen-Schwenningen
+QUELLE: https://www.villingen-schwenningen.de/wirtschaft-investieren/standort-vs/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 89.643 [stand: 02/2026]
+  bevoelkerungsdichte: 541.6 [einheit: je km²; stand: 02/2026]
+  berufseinpendler: 21.070 [stand: 2025]
+  berufsauspendler: 16.505 [stand: 2025]
+  arbeitslosenquote: 5.3 [einheit: %; stand: 09/2026]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: arbeitsmarkt
+QUELLE: https://www.villingen-schwenningen.de/wirtschaft-investieren/standort-vs/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschaeftigte_gesamt: 41.787 [stand: 2025]
+  produzierendes_gewerbe: 13.077 [stand: 2025]
+  handel_verkehr_gastgewerbe: 8.385 [stand: 2025]
+  sonstige_dienstleistungen: 20.292 [stand: 2025]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: steuersaetze
+QUELLE: https://www.villingen-schwenningen.de/wirtschaft-investieren/standort-vs/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundsteuer_a: 422 [einheit: vH]
+  grundsteuer_b: 422 [einheit: vH]
+  gewerbesteuer: 390 [einheit: vH]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: einzelhandel
+QUELLE: https://www.villingen-schwenningen.de/wirtschaft-investieren/standort-vs/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kaufkraftkennziffer_pro_einwohner: 96 [stand: 2023; quelle: GfK]
+  zentralitaetskennziffer: 121.3 [stand: 2023; quelle: GfK]
+  einzelhandelsrelevante_kaufkraft_pro_einwohner: 6.388 [einheit: EUR; stand: 2023]
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: hochschulen
+QUELLE: https://www.villingen-schwenningen.de/wirtschaft-investieren/standort-vs/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  studierende_gesamt: 5.880 [stand: 02/2026]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: hochschule
+BEZEICHNUNG: Duale Hochschule Baden-Württemberg
+QUELLE: https://www.villingen-schwenningen.de/wirtschaft-investieren/standort-vs/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Villingen-Schwenningen
+  studierende: 2.446 [stand: 02/2026]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: hochschule
+BEZEICHNUNG: Hochschule Furtwangen Campus Schwenningen
+QUELLE: https://www.villingen-schwenningen.de/wirtschaft-investieren/standort-vs/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  campus_name: Schwenningen
+  studierende: 1.634 [stand: 02/2026]
+ORTSTEIL_BEZUG: Schwenningen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: hochschule
+BEZEICHNUNG: Hochschule für Polizei Baden-Württemberg
+QUELLE: https://www.villingen-schwenningen.de/wirtschaft-investieren/standort-vs/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Villingen-Schwenningen
+  studierende: 1.800 [stand: 02/2026]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Villingen-Schwenningen
+QUELLE: https://www.villingen-schwenningen.de/bauen-wohnen/bauen-sanieren/denkmalschutz/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kulturdenkmale_bau_kunstgeschichte_ab: "um 1100"
+  archaeologische_ueberlieferung_ab: "Mesolithikum"
+  besonderheit_denkmale: "große und vielfältige Anzahl Bau-, Kunst- und archäologischer Kulturdenkmale in Stadtbezirken und Ortsteilen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: mietspiegel
+BEZEICHNUNG: Mietspiegel Villingen-Schwenningen
+QUELLE: https://www.villingen-schwenningen.de/rathaus-leben/unsere-stadt/vs-in-zahlen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gueltig_ab: 2011
+  aktuelle_version: 2024
+  gemeinderat_beschlussdatum: 2024-11-13
+  geltungsbereich: "frei finanzierte Wohnungen im Stadtgebiet Villingen-Schwenningen einschließlich Ortschaften"
+  fortschreibungsmethode: "auf Basis Mietspiegel 2022 mit Verbraucherpreisindex"
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: wanderroute
+BEZEICHNUNG: Schwenninger 8
+QUELLE: https://www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/willkommen-in-vs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Wanderweg in VS"
+ORTSTEIL_BEZUG: Schwenningen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: wanderroute
+BEZEICHNUNG: Waldpfad Groppertal
+QUELLE: https://www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/willkommen-in-vs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sehenswert: Uhustein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturschauplatz
+BEZEICHNUNG: Neckarursprung
+ORTSTEIL_BEZUG: Schwenningen
+QUELLE: https://www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/willkommen-in-vs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Stadtpark Möglingshöhe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Schwenninger Kulturnacht
+ORTSTEIL_BEZUG: Schwenningen
+QUELLE: https://www.villingen-schwenningen.de/tourismus-erleben/stadtportrait/willkommen-in-vs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rhythmus: "Juli jeden Jahres"
+  beschreibung: "Innenstadt als Kulturmeile mit Tanz, Musik und vielfältigem Essensangebot"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
