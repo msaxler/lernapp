@@ -1,0 +1,130 @@
+ZIELORT: Empfingen (Gemeinde)
+LAGE: 38 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Empfingen
+
+GRUNDDATEN:
+  landkreis: Freudenstadt  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 4293  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 18,29  [Wikidata P2046]
+  dichte_ew_km2: 235  [berechnet aus Einwohner und Fläche]
+  kfz: FDS (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 499 | 493  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2930461)]
+  naechste_grossstadt: Reutlingen, 38 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 55 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  plz: 72186  [Wikidata P281]
+  vorwahl: 07485  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 39,1 %, AfD 27,7 %, SPD 9,6 %, FDP 6,7 %, GRÜNE 6,4 %; Wahlbeteiligung 84,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Ferdinand Truffner (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-08]
+  partnerstaedte: La Roche-Blanche  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT landkreis: Landkreis (Ersatz: Kennzeichen), A, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Sulz am Neckar (Stadt)
+  landkreis: Rottweil  [dewiki Infobox]
+  einwohner: 12.772  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 87,62  [Wikidata P2046; Altbestand staedte.json]
+  kfz: RW (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 443 | 300 | 431 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2824855)]
+  naechste_grossstadt: Reutlingen, 45 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Sulz (Neckar)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 30,7 %, AfD 30,1 %, SPD 12,4 %, FDP 6,6 %, GRÜNE 6,4 %; Wahlbeteiligung 81,7 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Frankfurt am Main, Rüsselsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Koblenz, Rhens, Boppard, St. Goar, Oberwesel, Bacharach, Bingen, Ingelheim, Alzey, Nierstein, Oppenheim, Worms, Frankenthal, Ludwigshafen, Speyer, Landau
+
+FAKTEN (Zielort Empfingen):
+ID: 86-empfingen/001
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Katholische Kirchengemeinde St. Georg
+ORTSTEIL_BEZUG: Empfingen
+QUELLE: https://www.empfingen.de/leben-wohnen/kirchen-bestattungen/kirchengemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirche: St. Georg
+  seelsorgeeinheit: Seelsorgeeinheit Empfingen - Dießener Tal
+  adresse: Horber Gässle 29
+  telefon: 07485 97874-0
+  fax: 07485 97874-29
+  gottesdienst_sonntag: 10:30 Uhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 86-empfingen/002
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Katholische Kirchengemeinde St. Stephanus
+ORTSTEIL_BEZUG: Wiesenstetten
+QUELLE: https://www.empfingen.de/leben-wohnen/kirchen-bestattungen/kirchengemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirche: St. Stephanus
+  seelsorgeeinheit: Seelsorgeeinheit Horb a.N.
+  adresse: Hauptstraße 75, 72186 Empfingen-Wiesenstetten
+  büro_adresse: Gutermannstraße 8, 72160 Horb a.N.
+  telefon: 07451 5553120
+  fax: 07451 5553129
+  gottesdienst_sonntag: 09:00 oder 10:30 Uhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 86-empfingen/003
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Empfingen
+ORTSTEIL_BEZUG: Empfingen
+QUELLE: https://www.empfingen.de/leben-wohnen/kirchen-bestattungen/kirchengemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gesamtkirchengemeinde: Mühlheim - Empfingen - Renfrizhausen
+  adresse: Empfinger Straße 1, 72172 Sulz a.N. - Mühlheim am Bach
+  telefon: 07454 98274
+  gottesdienst_ort: Kapelle am Friedhof Empfingen
+  gottesdienst_tage: 2. und 4. Sonntag
+  gottesdienst_zeit: 10:30 Uhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 86-empfingen/004
+ENTITÄT: kapelle
+BEZEICHNUNG: Kriegergedächtniskapelle
+ORTSTEIL_BEZUG: Empfingen
+QUELLE: https://www.empfingen.de/leben-wohnen/kirchen-bestattungen/kirchengemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Friedhof Empfingen
+  nutzung: Evangelische Gottesdienste
+  gottesdienst_tage: 2. und 4. Sonntag
+  gottesdienst_zeit: 10:30 Uhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 86-empfingen/005
+ENTITÄT: autobahn
+BEZEICHNUNG: A 81
+QUELLE: https://www.empfingen.de/gemeinde-wirtschaft/geschichte-wappen/geschichte-empfingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: Dezember 1978
+  strecke: Stuttgart - Westlicher Bodensee
+  auswirkung: Gemeinde kommt aus Verkehrsschatten
+  gewerbeflächen: ca. 50 ha an Anschlussstelle
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 86-empfingen/006
+ENTITÄT: kaserne
+ORTSTEIL_BEZUG: Empfingen
+QUELLE: https://www.empfingen.de/gemeinde-wirtschaft/geschichte-wappen/geschichte-empfingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bundeswehr_von: 1968
+  bundeswehr_bis: 1989
+  nutzung_nach_1989: Aufnahmestelle für Aussiedler
+  aussiedler_bis: 2006
+  übergang_gemeinde: danach
+  nutzung_aktuell: Gewerbeflächen
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+

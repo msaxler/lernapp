@@ -1,0 +1,50 @@
+{
+ "stufe": "extraktion",
+ "ort": "93-tuebingen",
+ "prompt": "prompt-stufe1-v0.6.txt",
+ "modell_wunsch": "haiku",
+ "modelle": [
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 101615,
+ "token_ein": 52317,
+ "token_aus": 13881,
+ "usage": {
+  "input_tokens": 9,
+  "cache_creation_input_tokens": 45180,
+  "cache_read_input_tokens": 7128,
+  "output_tokens": 13881,
+  "output_tokens_details": {
+   "thinking_tokens": 1836
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 45180,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 9,
+    "output_tokens": 13881,
+    "cache_read_input_tokens": 7128,
+    "cache_creation_input_tokens": 45180,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 45180
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.16048679999999999,
+ "sekunden": 108,
+ "fehler": false,
+ "zeit": "2026-10-08T08:51:37"
+}

@@ -1,0 +1,576 @@
+ID: 95-starzach/001
+ENTITÄT: ort
+BEZEICHNUNG: Starzach
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+EIGENSCHAFTEN:
+  administrative_einheit: Gemeinde
+  landkreis: Landkreis Tübingen
+  bundesland: Baden-Württemberg
+  land: Deutschland
+  lage_zu_tübingen: etwa 20 km südwestlich
+  lage_am_fluss: am Neckar zwischen Rottenburg am Neckar und Horb am Neckar
+  charakterisierung: Toskana des Landkreises Tübingen
+  grenzflüsse: Starzel, Eyach
+  namensherkunft: von den beiden Flüsschen Starzel und Eyach abgeleitet
+  gemeindeteile_count: 5
+  gemeindeteile: Bierlingen, Börstingen, Felldorf, Sulzau, Wachendorf
+  verwaltungssitz: Bierlingen
+  gründung_ort: 1. Januar 1972 aus Bierlingen, Felldorf, Wachendorf
+  erweiterung_sulzau: 1. Juni 1973
+  erweiterung_börstingen: 1. Februar 1974
+  schutzgebiete: Landschaftsschutzgebiet Oberes Neckartal mit Seitentälern Rommelstal, Starzeltal und Eyachtal; FFH-Gebiet Neckar und Seitentäler bei Rottenburg
+  verwaltungshistorie_bis_1805: unter reichsritterlichen Familien (Freiherren von Ow, Herrschaft Weitenburg)
+  verwaltungshistorie_1805: Kurfürstentum Württemberg
+  verwaltungshistorie_1806: Königreich Württemberg
+  verwaltungshistorie_1938: Landkreis Horb
+  verwaltungshistorie_1945: Französische Besatzungszone, Land Württemberg-Hohenzollern
+  verwaltungshistorie_1952: Land Baden-Württemberg
+  verwaltungshistorie_1973_kpl: Landkreis Tübingen (vom aufgelösten Landkreis Horb)
+  wappenelement_flüsse: Starzel und Eyach
+  wappenelement_blumen: fünf Blumen aus dem Wappen von Sulzau für die fünf Gemeindeteile
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 95-starzach/002
+ENTITÄT: ort
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung_nach_einwohnerzahl: keine große Gemeinde gemessen an Einwohnerzahl
+  vereinsmitgliedschaft_1: Neckar Erlebnis Tal
+  vereinsmitgliedschaft_2: Standortagentur Neckar-Alb
+  kultur_angebot: historische und religiöse Plätze, kulturelle Ausstellungen, Natur
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 95-starzach/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bierlingen
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+ORTSTEIL_BEZUG: Bierlingen
+EIGENSCHAFTEN:
+  frueheres_status: selbstständige Gemeinde
+  bestandteile: Dorf Bierlingen, Gehöft Neuhaus
+  lage_zum_neckar: südlich oberhalb des Neckartals
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 95-starzach/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Börstingen
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+ORTSTEIL_BEZUG: Börstingen
+EIGENSCHAFTEN:
+  frueheres_status: selbstständige Gemeinde
+  bestandteile: Dorf Börstingen, Burgrest der Burg Siegburg, Bahnhof Eyach, Kohlensäurewerk, Lohmühle (Eyach), Wilhelmshöhe
+  lage_zum_neckar: im Neckartal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 95-starzach/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Felldorf
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+ORTSTEIL_BEZUG: Felldorf
+EIGENSCHAFTEN:
+  frueheres_status: selbstständige Gemeinde
+  bestandteile: Dorf Felldorf, Honorsmühle (abgebrochen)
+  lage_zum_neckar: südlich oberhalb des Neckartals
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 95-starzach/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Sulzau
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+ORTSTEIL_BEZUG: Sulzau
+EIGENSCHAFTEN:
+  frueheres_status: selbstständige Gemeinde
+  bestandteile: Dorf Sulzau, Schloss und Gehöft Weitenburg
+  lage_zum_neckar: im Neckartal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 95-starzach/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wachendorf
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+ORTSTEIL_BEZUG: Wachendorf
+EIGENSCHAFTEN:
+  frueheres_status: selbstständige Gemeinde
+  bestandteile: Dorf Wachendorf, Haus Burgmühle
+  lage_zum_neckar: südlich oberhalb des Neckartals
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 95-starzach/008
+ENTITÄT: abgegangene_ortschaft
+BEZEICHNUNG: Zuckenhausen
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+EIGENSCHAFTEN:
+  lage: in den Gebieten der ehemaligen Gemeinden Börstingen und Sulzau
+  zeit_bestand: wahrscheinlich 14. Jahrhundert
+  genauigkeit: wahrscheinlich
+GUELTIG_BIS: 1400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 95-starzach/009
+ENTITÄT: abgegangene_ortschaft
+BEZEICHNUNG: Kaltenhausen
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+EIGENSCHAFTEN:
+  frueherer_name: Karrenhausen
+  erste_erwaehnung: 1747
+  lage: Südwesten der ehemaligen Gemeinde Felldorf
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 95-starzach/010
+ENTITÄT: abgegangene_ortschaft
+BEZEICHNUNG: Neumühle
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+EIGENSCHAFTEN:
+  lage: oberhalb des Dorfes Sulzau, am Neckar
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 95-starzach/011
+ENTITÄT: abgegangene_ortschaft
+BEZEICHNUNG: Bechhausen
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+EIGENSCHAFTEN:
+  lage: Süden der ehemaligen Gemeinde Wachendorf
+  beleg_existenz: Flurname
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 95-starzach/012
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche St. Martinus
+ORTSTEIL_BEZUG: Bierlingen
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  patron: heiliger Martin
+  erste_erwaehnung: 1275
+  erste_erwaehnung_kontext: Kirche und Pfarrei
+  patron_seit: 1537
+  laengsschiff_renovierung: 1971-1972
+  erhaltene_architektur: spätgotischer Turm und Chor
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 95-starzach/013
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche St. Georg
+ORTSTEIL_BEZUG: Sulzau
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  patron: heiliger Georg
+  kapelle_erwähnt: um 1500
+  bauweise_kapelle: dem heiligen Georg geweihte Kapelle
+  kirche_bauzeit: 18. Jahrhundert
+  kirche_konstruktion: unter Einbeziehung älterer Reste erbaut
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 95-starzach/014
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche St. Johann Baptist
+ORTSTEIL_BEZUG: Felldorf
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1967-1968
+  alte_kirche_abriss_jahr: 1974
+  ausstattung_herkunft: Teile aus alter Kirche übernommen
+  altar_beschreibung: gotischer Altar aus Syrlin-Umkreis
+  altar_datierung: um 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 95-starzach/015
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche St. Ottilia
+ORTSTEIL_BEZUG: Börstingen
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprungsteile_zeit: spätes 15. Jahrhundert
+  chor_und_sakristei_bauzeit: 1873
+  chor_und_sakristei_stil: neogotisch
+  sehenswert: Deckengemälde im Inneren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 95-starzach/016
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche St. Peter und Paul
+ORTSTEIL_BEZUG: Wachendorf
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung_geschichte: lange und wechselvolle Geschichte durch Ausgrabungen aufgedeckt
+  dokumentation_vor_ort: Schautafel in der Kirche mit Ausgrabungsergebnissen
+  architektur_romanisch: Portal
+  architektur_gotisch: Chor
+  architektur_turm: Turm erhalten
+  schiff_neubau_jahr: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 95-starzach/017
+ENTITÄT: burg
+BEZEICHNUNG: Siegburg
+ORTSTEIL_BEZUG: Börstingen
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 11. Jahrhundert
+  zerstörung: bald nach Errichtung
+  erhalt_heute: Mauerrest und Teil des Burggrabens
+GUELTIG_BIS: 1150
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 95-starzach/018
+ENTITÄT: adelssitz
+BEZEICHNUNG: Hofgut Neuhaus
+ORTSTEIL_BEZUG: Bierlingen
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1537
+  ummauerung_jahr: 1584
+  erhaltene_bauteile: Schloss und Teile der Ummauerung
+GUELTIG_AB: 1537
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 95-starzach/019
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Wachendorf
+ORTSTEIL_BEZUG: Wachendorf
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bewohner: Familie des Freiherrn von Ow-Wachendorf
+  altes_schloss_bauzeit: um 1500
+  torbau_und_neues_schloss_jahr: 1555
+  rundturm_unterbau_jahr: 1574
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 95-starzach/020
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Weitenburg
+ORTSTEIL_BEZUG: Sulzau
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bewohner: Familie der Freiherren von Raßler
+  lage: Hoch über dem Neckartal
+  lage_aussicht: Blick über Neckartal und Schwäbische Alb
+  funktion: Schloss, Gastronomie und Golfanlage
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 95-starzach/021
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Börstingen
+ORTSTEIL_BEZUG: Börstingen
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgaenger: Wasserburg
+  vorgaenger_abriss: nach 1720
+  bauzeit: 1756
+  heutige_nutzung: Therapiezentrum des mevesta e.V.
+GUELTIG_AB: 1756
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 95-starzach/022
+ENTITÄT: schloss
+BEZEICHNUNG: Schlossareal Felldorf
+ORTSTEIL_BEZUG: Felldorf
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abriss: 19. Jahrhundert
+  nachfolgebau: drei Schlossscheuern
+  nachfolgebau_nutzung: eine als Bürgerhaus genutzt
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 95-starzach/023
+ENTITÄT: kapelle
+BEZEICHNUNG: Waldkapelle Wachendorf
+ORTSTEIL_BEZUG: Wachendorf
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stiftung_jahr: 1893
+  stifter: Hans Otto von Ow (Freiherr von Ow-Wachendorf)
+  fundamentierung: hochmittelalterliche Burg
+  lage: östlich von Wachendorf über dem Starzeltal
+GUELTIG_AB: 1893
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 95-starzach/024
+ENTITÄT: museum
+BEZEICHNUNG: Dorfmuseum Börstingen
+ORTSTEIL_BEZUG: Börstingen
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 2006
+  sammelgebiete: schwäbischer Sauerbrunnen, Geschichte der Neckarflößerei
+  lage: Zentrum von Börstingen
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 95-starzach/025
+ENTITÄT: museum
+BEZEICHNUNG: Fasnets-Mäskle-Museum
+ORTSTEIL_BEZUG: Bierlingen
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sammlungstyp: Miniatur-Fastnetsmasken
+  sammlungsgroesse: 5.569
+  superlativ: weltweit größte Sammlung kleiner Fasnetsmasken
+  bezeichnung: schwäbisch-alemannisches Miniatur-Mäskle-Museum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 95-starzach/026
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Neuhaus-Eiche
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+EIGENSCHAFTEN:
+  baumhoehendurchmesser_umfang: 7.20 m
+  messjahr: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 95-starzach/027
+ENTITÄT: naturstätte
+BEZEICHNUNG: Ammelesbrünnele
+ORTSTEIL_BEZUG: Bierlingen
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: kleiner See / Weiher
+  lage_detail: circa zwei Kilometer südlich von Bierlingen, mitten im Wald
+  ausstattung: Bänke zum Erholen
+  nutzung: Natur-Erlebnis und Entspannung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 95-starzach/028
+ENTITÄT: golfanlage
+BEZEICHNUNG: Golfclub Schloss Weitenburg
+ORTSTEIL_BEZUG: Sulzau
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Neckartal um Sulzau
+  lage_charakterisierung: landschaftlich schön gelegen
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 95-starzach/029
+ENTITÄT: wanderweg
+BEZEICHNUNG: Neckar-Natur-Weg
+ORTSTEIL_BEZUG: Börstingen
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  weglänge: 2.2 km
+  weglänge_genauigkeit: ca.
+  gehdauer: 1.5 Stunden
+  gehdauer_genauigkeit: ca.
+  schwierigkeit: einfach
+  fahrradbar: true
+  stationen: 8 teilweise interaktive Stationen
+  thema: Ökosystem Fluss und Entstehung der Landschaft des Neckartals
+  kinderangebote: themenbezogene Spielmöglichkeiten
+  zusatz: Quiz am Ende
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 95-starzach/030
+ENTITÄT: radweg
+BEZEICHNUNG: Neckartal-Radweg
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verlauf: von Quelle des Neckars bis Einmündung in den Rhein
+  radfernweg_charakterisierung: durchquert Gemeindegebiet von Starzach
+  routetyp: Alltagsradroute und Radfernweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 95-starzach/031
+ENTITÄT: infrastruktur_bahnhof
+BEZEICHNUNG: Bahnhof Eyach
+ORTSTEIL_BEZUG: Börstingen
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: nächste Verkehrsstation
+  bahnstrecke: Plochingen–Immendingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 95-starzach/032
+ENTITÄT: mühle
+BEZEICHNUNG: Honorsmühle
+ORTSTEIL_BEZUG: Felldorf
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1810
+  benannt_nach: Erbauer
+  abriss: 1990er Jahre
+GUELTIG_AB: 1810
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 95-starzach/033
+ENTITÄT: buergermeister
+BEZEICHNUNG: Thomas Noé
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: 2004
+  amtszeit_dauer: 8 Jahre
+  parteilichkeit: parteilos
+  wiederwaehlung_2012_ergebnis: 67.8 %
+  wiederwaehlung_2012_gegenkandidaten: 2
+  wiederwaehlung_2020_ergebnis: 94.4 %
+  wiederwaehlung_2020_gegenkandidaten: 1 ebenfalls parteilos mit 1.7 %
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 95-starzach/034
+ENTITÄT: ehemaliger_buergermeister
+BEZEICHNUNG: Josef Oswald
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1972-1982
+GUELTIG_AB: 1972
+GUELTIG_BIS: 1982
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 95-starzach/035
+ENTITÄT: ehemaliger_buergermeister
+BEZEICHNUNG: Manfred Dunst
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+EIGENSCHAFTEN:
+  amtszeit: 1982-2003
+GUELTIG_AB: 1982
+GUELTIG_BIS: 2003
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 95-starzach/036
+ENTITÄT: gemeinderat
+BEZEICHNUNG: Gemeinderat Starzach
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+EIGENSCHAFTEN:
+  zusammensetzung: gewählte ehrenamtliche Gemeinderäte und Bürgermeister (Vorsitzender, stimmberechtigt)
+  wahlverfahren: unechte Teilortswahl
+  mitgliederzahl_nach_wahl_2024: 14
+  wahl_datum: 9. Juni 2024
+  fraktionen_und_sitze: Kurswechsel (40,3%, 6 Sitze), Bürgervertretung Starzach (29,1%, 4 Sitze), Freie Wählervereinigung Starzach (24,4%, 3 Sitze), Bündnis 90/Die Grünen (6,2%, 1 Sitz)
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 95-starzach/037
+ENTITÄT: gemeindepartnerschaft
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+EIGENSCHAFTEN:
+  beginn: Juli 1992
+  partnerland: Frankreich
+  partnerregion_beschreibung: ehemalige französischer Gemeindeverbund Bocage-Gatinais in der Nähe von Paris
+  partnergemeinden: Blennes, Chevry-en-Sereine, Saint-Ange-le-Viel, Villemaréchal, Ville-Saint-Jacques
+  beziehung_typ: freundschaftlich
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 95-starzach/038
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Starzachfest
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+EIGENSCHAFTEN:
+  rhythmus: alle zwei Jahre
+  modus: im Wechsel der fünf Ortschaften
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 95-starzach/039
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Starzachlauf
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+ORTSTEIL_BEZUG: Wachendorf
+EIGENSCHAFTEN:
+  ort: Starzach-Wachendorf
+  rhythmus: jährlich
+  laenge: 11.2 km
+  besonderheit: Im Jahr 2011 gewann Judith Wagner aus Felldorf die Frauenwertung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 95-starzach/040
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hans von Ow
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+ORTSTEIL_BEZUG: Wachendorf
+EIGENSCHAFTEN:
+  lebenszeit: 1843-1921
+  geburtsort: Wachendorf
+  titel: Reichstags- und Landtagsabgeordneter
+GUELTIG_AB: 1843
+GUELTIG_BIS: 1921
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 95-starzach/041
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: August Mayer
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+ORTSTEIL_BEZUG: Felldorf
+EIGENSCHAFTEN:
+  lebenszeit: 1876-1968
+  geburtsort: Felldorf
+  beruf: Gynäkologe und Hochschullehrer
+GUELTIG_AB: 1876
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 95-starzach/042
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ulrich Noll
+QUELLE: https://de.wikipedia.org/wiki/Starzach | Wikipedia
+ORTSTEIL_BEZUG: Börstingen
+EIGENSCHAFTEN:
+  lebenszeit: 1946-2011
+  geburtsort: Börstingen
+  beruf: Zahnarzt und Politiker
+  partei: FDP
+  titel: Landtagsabgeordneter, ehemaliger Vorsitzender der FDP/DVP-Fraktion im Landtag von Baden-Württemberg
+GUELTIG_AB: 1946
+GUELTIG_BIS: 2011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 95-starzach/043
+ENTITÄT: service
+BEZEICHNUNG: Neckarlandschaftsführung
+QUELLE: https://www.starzach.de/leben-und-wohnen/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Führungen unter dem Motto „LANDSCHAFT LESEN LERNEN"
+  zeitraum_jahreszeit: April bis Oktober
+  leiterqualifikation: zertifizierte Neckarlandschaftsführerin
+  kontakt: http://www.naturverstaendnis.de
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

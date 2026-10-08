@@ -1,0 +1,1410 @@
+ENTITÄT: ort
+BEZEICHNUNG: Horb am Neckar
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: "geht zurück auf althochdeutsches 'horva', was Sumpf bedeutet"
+  erste_urkundliche_erwaehnung: 1090
+  erste_erwaehnung_als_stadt: 1228
+  stadtrecht_verliehen: "1. Drittel 13. Jahrhundert"
+  status_ab_1981: "Große Kreisstadt"
+  landkreis_aktuell: "Landkreis Freudenstadt"
+  einwohner: 25687
+  einwohner_stand: "31. Dezember 2025"
+  flaeche: 120 [Quadratkilometer]
+  einwohner_grosstadt_grenze_ueberschritten: 1980
+  stadteile_anzahl: 17
+  lage: "malerisch am Oberen Neckar"
+  lage_entfernung_stuttgart: "ca. 50 Kilometer südwestlich"
+  status_mittelzentrum: true
+  vereine_und_organisationen: 300
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Horb am Neckar
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 25687
+  einwohner_stand: "31. Dezember 2025"
+  landkreis: "Landkreis Freudenstadt"
+  bundesland: "Baden-Württemberg"
+  gemarkung_tiefster_punkt: 375 [m ü. NHN]
+  gemarkung_hoechster_punkt: 706 [m ü. NHN]
+  naturraum: "Obere Gäue"
+  naturpark: "Naturpark Schwarzwald Mitte/Nord"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historische_burg
+BEZEICHNUNG: Burg Horb
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "östliches Ende des Schüttebergausläufers, im Bereich des früheren Krankenhauses"
+  beschreibung: "einstige Burg über den Talniederungen von Grabenbach und Aischbach, vermutlich Sitz der Edelfreien von Horb"
+  bauzeit_geschaetzt: "vor 1090"
+  besitzer: "Edelfreie von Horb"
+GUELTIG_AB: 1090
+GUELTIG_BIS: 1150
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: historische_person
+BEZEICHNUNG: Sigefridus de Horwa
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1090
+  status: "Edelfreier"
+  quelle_erwaehnung: "Codex Hirsaugiensis"
+  rolle: "Zeuge eines Rechtsgeschäftes"
+GUELTIG_AB: 1090
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Pfalzgraf Rudolf II. von Tübingen
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: "verlieh der jungen Siedlung Horb Stadtrecht"
+  zeitraum: "1. Drittel 13. Jahrhundert"
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1230
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Burkhard IV. von Hohenberg
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: "Graf, erlangte Horb durch Heirat"
+  anlass: "Heirat"
+  zeitpunkt: "Beginn 14. Jahrhundert"
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Herzog Leopold III. von Österreich
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: "kaufte Grafschaft Hohenberg mit Horb"
+  erwerbsmethode: "Kauf"
+  jahr: 1381
+GUELTIG_AB: 1381
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: König Maximilian I.
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: "römisch-deutscher König, wirkte auf Abdankung von Eberhard II. hin"
+  ereignis: "unterzeichnung Horber Vertrag"
+  ereignis_datum: "10. und 11. Juni 1498"
+GUELTIG_AB: 1498
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Eberhard II. von Württemberg
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: "württembergischer Herzog"
+  ereignis: "unterzeichnete Abdankungsurkunde in Horb"
+  grund: "aufgrund seiner Willkürherrschaft bei der landständischen Regierung in Ungnade gefallen"
+  datum: "10. und 11. Juni 1498"
+GUELTIG_AB: 1498
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_dokument
+BEZEICHNUNG: Horber Vertrag
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Abdankungsurkunde des württembergischen Herzogs Eberhard II."
+  datum: "10. und 11. Juni 1498"
+  ort: "Horb"
+  unterzeichner: "Eberhard II."
+  vermittler: "König Maximilian I."
+  nachwirkung: "heutigen Horber Ritterspiele beziehen sich auf dieses Ereignis"
+GUELTIG_AB: 1498
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtbrand
+BEZEICHNUNG: Großer Stadtbrand 1556
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1556
+  umfang: "großer Brand"
+GUELTIG_AB: 1556
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtbrand
+BEZEICHNUNG: Großer Stadtbrand 1725
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1725
+  tag: "17. Januar"
+  umfang: "brannte mehr als zwei Drittel der damaligen Stadt nieder"
+  beschreibung: "Fast die gesamte mittelalterliche Bausubstanz des Marktplatzes und weite Teile der Oberstadt gingen verloren"
+GUELTIG_AB: 1725
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: unwetter
+BEZEICHNUNG: Sturmflutartiges Unwetter 1578
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1578
+  typ: "sturmflutartig"
+GUELTIG_AB: 1578
+IST_VERMUTISMUS_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: unwetter
+BEZEICHNUNG: Sturmflutartiges Unwetter 1584
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1584
+  typ: "sturmflutartig"
+GUELTIG_AB: 1584
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Preßburger Frieden
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: "26. Dezember 1805"
+  bedeutung_fuer_horb: "Ende der österreichisch-hohenbergischen Herrschaft"
+GUELTIG_AB: 1805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Übernahme durch Württemberg
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: "12. Januar 1806"
+  beschreibung: "württembergische Truppen nahmen Horb in Besitz"
+GUELTIG_AB: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verwaltungseinheit
+BEZEICHNUNG: Oberamt Horb
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Status einer württembergischen Oberamtsstadt"
+  etabliert: 1806
+  vergroesserung_amtsbezirk: "um ein Vielfaches vergrößert"
+GUELTIG_AB: 1806
+GUELTIG_BIS: 1934
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verwaltungseinheit
+BEZEICHNUNG: Kreis Horb
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgaenger: "Oberamt Horb"
+  umbenannt: 1934
+  eroehnung_zu_landkreis: 1938
+  zusaetzliche_gebiete: "Großteil des Gebietes des aufgelösten Kreises Sulz"
+GUELTIG_AB: 1934
+GUELTIG_BIS: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wohngebiet
+BEZEICHNUNG: Hohenberg
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "heutiges Wohngebiet auf nördlicher Anhöhe"
+  entwicklung_ab: 1930
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verwaltungsreform
+BEZEICHNUNG: Verwaltungs- und Gebietsreform 1975
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abschluss: 1975
+  ergebnis: "entwickelte sich Horb zu einer ausgesprochenen Flächenstadt mit 18 Stadtteilen"
+  heutige_stadtteile: 17
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Stiftskirche zum Heiligen Kreuz
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung: "Wahrzeichen der Stadt"
+  charakteristikum: "thront majestätisch oben, gut zu sehen aus allen Richtungen"
+ORTSTEIL_BEZUG: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus
+QUELLE: https://www.horb.de/Horb-im-Portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "historischer Marktplatz"
+  hoehe_breite: "422 m ü. NHN"
+  beschreibung: "erzählt Stadtgeschichte"
+  bestandteil: "berühmtes Horber Bilderbuch"
+ORTSTEIL_BEZUG: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: marktplatz
+BEZEICHNUNG: Historischer Marktplatz
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Kernstadt Horb"
+  hoehe: "422 m ü. NHN"
+ORTSTEIL_BEZUG: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Ahldorf
+ORTSTEIL_BEZUG: Ahldorf
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "1. August 1971"
+  einwohner: 831
+  einwohner_stand: "31. Dezember 2022"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Altheim
+ORTSTEIL_BEZUG: Altheim
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "1. Juli 1971"
+  einwohner: 1706
+  einwohner_stand: "31. Dezember 2022"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Betra
+ORTSTEIL_BEZUG: Betra
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "1. Dezember 1971"
+  einwohner: 972
+  einwohner_stand: "31. Dezember 2022"
+  frueherer_kreis: "Landkreis Hechingen"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Bildechingen
+ORTSTEIL_BEZUG: Bildechingen
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "1. Juli 1971"
+  einwohner: 2296
+  einwohner_stand: "31. Dezember 2022"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Bittelbronn
+ORTSTEIL_BEZUG: Bittelbronn
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "1. Januar 1974"
+  einwohner: 747
+  einwohner_stand: "31. Dezember 2022"
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Dettensee
+ORTSTEIL_BEZUG: Dettensee
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "1. Dezember 1971"
+  einwohner: 569
+  einwohner_stand: "31. Dezember 2022"
+  frueherer_kreis: "Landkreis Hechingen"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Dettingen
+ORTSTEIL_BEZUG: Dettingen
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "1. Dezember 1971"
+  einwohner: 1596
+  einwohner_stand: "31. Dezember 2022"
+  frueherer_kreis: "Landkreis Hechingen"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Dettlingen
+ORTSTEIL_BEZUG: Dettlingen
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "1. Mai 1972"
+  einwohner: 327
+  einwohner_stand: "31. Dezember 2022"
+  frueherer_kreis: "Landkreis Hechingen"
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Dießen
+ORTSTEIL_BEZUG: Dießen
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "1. Januar 1975"
+  einwohner: 426
+  einwohner_stand: "31. Dezember 2022"
+  frueherer_kreis: "Landkreis Hechingen"
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Grünmettstetten
+ORTSTEIL_BEZUG: Grünmettstetten
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "1. September 1971"
+  einwohner: 725
+  einwohner_stand: "31. Dezember 2022"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Ihlingen
+ORTSTEIL_BEZUG: Ihlingen
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "1. Juli 1971"
+  einwohner: 432
+  einwohner_stand: "31. Dezember 2022"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Isenburg
+ORTSTEIL_BEZUG: Isenburg
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "1. Juli 1971"
+  einwohner: 333
+  einwohner_stand: "31. Dezember 2022"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Mühlen
+ORTSTEIL_BEZUG: Mühlen
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "1. Januar 1975"
+  einwohner: 1045
+  einwohner_stand: "31. Dezember 2022"
+  bahnhaltepunkt: true
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Mühringen
+ORTSTEIL_BEZUG: Mühringen
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "1. Dezember 1971"
+  einwohner: 1012
+  einwohner_stand: "31. Dezember 2022"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Nordstetten
+ORTSTEIL_BEZUG: Nordstetten
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "1. September 1971"
+  einwohner: 2666
+  einwohner_stand: "31. Dezember 2022"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Rexingen
+ORTSTEIL_BEZUG: Rexingen
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: "1. Juli 1971"
+  einwohner: 1332
+  einwohner_stand: "31. Dezember 2022"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Talheim
+ORTSTEIL_BEZUG: Talheim
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung_obertalheim: "1. Januar 1975"
+  eingemeindung_untertalheim: "1. Juli 1971"
+  einwohner: 2704
+  einwohner_stand: "31. Dezember 2022"
+  beschreibung: "besteht aus den ehemals selbständigen Gemeinden Obertalheim und Untertalheim"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: eisenbahnstation
+BEZEICHNUNG: Bahnhof Horb
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 1866
+  typ: "Trennungsbahnhof"
+  verkehrsarten: "Nah- und Fernverkehr"
+  verbindung_bahnstrecke_1: "Bahnstrecke Stuttgart–Horb mündet in Bahnstrecke Plochingen–Immendingen"
+ORTSTEIL_BEZUG: Kernstadt
+GUELTIG_AB: 1866
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: eisenbahn_haltepunkt
+BEZEICHNUNG: Haltepunkt Bittelbronn
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  bahnstrecke: "Bahnstrecke Eutingen im Gäu–Schiltach"
+  bedienung: "alle Züge"
+ORTSTEIL_BEZUG: Bittelbronn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: eisenbahn_haltepunkt
+BEZEICHNUNG: Haltepunkt Heiligenfeld
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  bahnstrecke: "Bahnstrecke Eutingen im Gäu–Schiltach"
+  bedienung: "alle Züge"
+ORTSTEIL_BEZUG: Heiligenfeld
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: eisenbahn_haltepunkt
+BEZEICHNUNG: Haltepunkt Mühlen
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  bahnstrecke: "Bahnstrecke Plochingen–Immendingen"
+  bedienung: "alle Züge"
+ORTSTEIL_BEZUG: Mühlen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Wertwiesen
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "östlich von Ahldorf"
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Kugler Hang
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "zwischen Horb und Hohenberg"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Osterhalde
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "am Neckarhang zwischen Horb und Rexingen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Doxbrunnen-Steinachtal
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "zwischen Altheim und Talheim"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Dießener Tal
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "zwischen Dettlingen und Ihlingen"
+  status: "ausgewiesen als Naturschutzgebiet mit dienendem Landschaftsschutzgebiet"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Waldbrunnen
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "zwischen Grünmettstetten und Altheim"
+  status: "ausgewiesen als Naturschutzgebiet mit dienendem Landschaftsschutzgebiet"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Salzstetter Horn
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "nördlich von Altheim"
+  status: "ausgewiesen als Naturschutzgebiet mit dienendem Landschaftsschutzgebiet"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Kunstverein Oberer Neckar e. V.
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  etablierung: "seit geraumer Zeit"
+  aktivitaeten: "regelmäßige Ausstellungen verschiedener Künstler"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Horb"
+ORTSTEIL_BEZUG: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Wehrgeschichtliches Museum
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Ringmauerturm"
+ORTSTEIL_BEZUG: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Freilichtmuseum Steinerner Geschichtsgarten
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Horb-Hohenberg"
+ORTSTEIL_BEZUG: Hohenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Wassermuseum
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Ihlingen"
+ORTSTEIL_BEZUG: Ihlingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Dorfmuseum
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Altheim"
+ORTSTEIL_BEZUG: Altheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Berthold-Auerbach-Museum
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Nordstetten"
+ORTSTEIL_BEZUG: Nordstetten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: SVG Eisenbahn-Erlebniswelt Horb am Neckar
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "Eisenbahnmuseum"
+  eroeffnung: "Mai 2011"
+  flaeche: 77000 [m²]
+  lage_beschreibung: "auf Teilstück des ehemaligen Rangier- und Güterbahnhofes"
+  betreiber: "Stuttgarter Schienenverkehrsgesellschaft (SVG)"
+ORTSTEIL_BEZUG: Isenburg
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude_historisch
+BEZEICHNUNG: Hackbrunnen
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "Brunnen, der bis fast zum Ende des 19. Jahrhunderts die Bewohner der westlichen Neckarstraße mit Trinkwasser versorgte"
+  erste_erwaehnung: 1472
+  erste_erwaehnung_name: "Hagbrunnen"
+  zugaenglichkeit_heute: "heute noch nutzbar"
+ORTSTEIL_BEZUG: Kernstadt
+GUELTIG_AB: 1472
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gewaesser_geschichtlich
+BEZEICHNUNG: Grabenbach
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "mündet in den Neckar"
+  lage: "Kernstadt Horb"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gewaesser_geschichtlich
+BEZEICHNUNG: Aischbach
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "mündet in den Neckar"
+  lage: "Kernstadt Horb"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Berthold Auerbach
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  geboren: "12. Februar 1812 in Horb"
+  gestorben: "8. Februar 1882 in Cannes"
+  beruf: "Schriftsteller"
+  todesjahr: 1882
+GUELTIG_AB: 1812
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: literaturpreis
+BEZEICHNUNG: Berthold-Auerbach-Literaturpreis
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  verleihender_ort: "Stadt Horb"
+  seit: 1982
+  anlass: "100. Todesjahr Berthold Auerbachs"
+  haeufikeit: "jährlich"
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Maximilian-Ritterspiele
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  haeufikeit: "alljährlich, Anfang des Sommers"
+  erste_durchfuehrung: 1997
+  monat: "Juni"
+  besucher_2005: 60000
+  beschreibung: "größtes Ereignis in Horb, Stadt wird mittelalterlich hergerichtet, entsprechender Markt mit Schaustellern und Gauklern"
+  anlass: "erinnert an Absetzung Eberhards II. durch König Maximilian I. im Jahr 1498"
+  ideenquelle: "damaliger Bürgermeister Michael Theurer"
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Musiktage Horb
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  haeufikeit: "jährlich"
+  beschreibung: "Reihe klassischer Konzerte"
+  organisator: "städtische Musikschule"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Mini-Rock-Festival
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: "2005 bis 2018"
+  haeufikeit: "jährlich"
+  organisation: "ehrenamtlich"
+GUELTIG_AB: 2005
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Horber Schienen-Tage
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  typ: "Fachtagung zum Schienenverkehr"
+  gruender: "Kurt Bielecki"
+  zeitraum: "1983 bis 2019 und 2022"
+  monat: "November"
+GUELTIG_AB: 1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Horber Fasnet
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  haeufikeit: "jährlich"
+  eroffnung_termin: "6. Januar"
+  eroffnung_ritual: "Hofmarschall und Narrenrat nehmen Masken aus dem Kratten"
+  schluessuerbergabe: "Schmotziger Donnerstag auf historischem Marktplatz"
+  narrenruf: "Horrido"
+  motto: "Spass uf d'r Gass"
+  kinderball: "Fasnetsamstag in Hohenberghalle"
+  hoehepunkt: "Umzug durch Horbs Gassen mit Fußgruppen und Zuschauern"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadt_partnerschaft
+BEZEICHNUNG: Salins-les-Bains
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt: "Horb am Neckar"
+  land: "Frankreich"
+  seit: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadt_partnerschaft
+BEZEICHNUNG: Haslemere
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt: "Horb am Neckar"
+  region: "Surrey"
+  land: "England"
+  seit: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadt_partnerschaft
+BEZEICHNUNG: Sant Just Desvern
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  partnerstadt: "Horb am Neckar"
+  land: "Spanien"
+  seit: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Bosch Rexroth
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  ansaessig_in: "Horb-Weststadt"
+  groesster_arbeitgeber: true
+  spezialisierung: "hydraulische Antriebstechnik und Automation"
+ORTSTEIL_BEZUG: Weststadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Unternehmensgruppe Fischer
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  ansaessig_in: "Horb-Heiligenfeld"
+  spezialisierung: "Kunststoffverarbeitung"
+  bekannt_fuer: "Fischer-Dübel, Automobilzulieferer"
+ORTSTEIL_BEZUG: Heiligenfeld
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Homag Group
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  ansaessig_in: "Horb-Heiligenfeld"
+  spezialisierung: "Maschinen für Holzbearbeitung"
+ORTSTEIL_BEZUG: Heiligenfeld
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Leuco
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  ansaessig_in: "Horb-Heiligenfeld"
+  spezialisierung: "Werkzeugbau"
+ORTSTEIL_BEZUG: Heiligenfeld
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: AHG Autohandelsgesellschaft
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  ansaessig_in: "Horb-Hohenberg"
+  beschreibung: "Autohaus-Gesellschaft mit Hauptsitz in Horb-Hohenberg"
+  bekannt_fuer: "werkseigene Autohaus-Fahrschule"
+ORTSTEIL_BEZUG: Hohenberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Schienenverkehrsgesellschaft Stuttgart
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  ansaessig_in: "Rangierbahnhof Horb"
+  typ: "Eisenbahnverkehrsunternehmen"
+  geplant: "langfristiger vollständiger Umzug nach Horb durch Stuttgart 21"
+ORTSTEIL_BEZUG: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Campus Horb
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  institution: "Duale Hochschule Baden-Württemberg"
+  typ: "Außenstelle des Standortes Stuttgart"
+  studiengaenge: "Bachelor Elektrotechnik, Informatik, Maschinenbau, Mechatronik, Wirtschaftsingenieurwesen"
+ORTSTEIL_BEZUG: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Martin-Gerbert-Gymnasium
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: "hervorgegangen aus 1282 gegründeter Lateinschule"
+  auszeichnung: "MINT-freundliche Schule"
+  auszeichnung_bedeutung: "besondere Förderung von Mathematik, Informatik, Naturwissenschaften und Technik"
+  gruendung_lateinschule: 1282
+ORTSTEIL_BEZUG: Kernstadt
+GUELTIG_AB: 1282
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Michael Keßler
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  titel: "Oberbürgermeister"
+  amtsantritt: 2025
+  partei: "CDU"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Michael Theurer
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  geburt: "12. Januar 1967"
+  beruf: "Volkswirt und Politiker"
+  partei: "FDP"
+  funktion: "Bürgermeister"
+  amtszeit: "1995–2009"
+GUELTIG_AB: 1995
+GUELTIG_BIS: 2009
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: religionsgemeinschaft
+BEZEICHNUNG: Johanneskirche
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  konfession: "protestantisch"
+  gruendung_gemeinde: 1866
+  zeitpunkt_bau: "später"
+ORTSTEIL_BEZUG: Kernstadt
+GUELTIG_AB: 1866
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gedenkstein
+BEZEICHNUNG: Gedenkstein für jüdische Opfer
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  ort: "Friedhofsgelände"
+  aufgestellt: 1999
+  anlass: "Herbst 1999"
+  zweck: "Erinnerung an ehemalige jüdische Bewohner Horbs"
+ORTSTEIL_BEZUG: Kernstadt
+GUELTIG_AB: 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stolperstein
+BEZEICHNUNG: Stolpersteine Horb
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  verlegung_beginn: 2011
+  zweck: "Erinnerung an ermordete Opfer"
+  anlass: "Beschluss Stadtrat"
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Abraham Schweizer
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  beruf: "Rabbiner"
+  todesahr: 1942
+  todesort: "vermutlich Vernichtungslager"
+  gedenken: "Platz vor Haus des ehemaligen Betsaales nach ihm benannt"
+  todes_kontext: "NS-Zeit"
+GUELTIG_AB: 1942
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk_historisch
+BEZEICHNUNG: Rat- und Wachthaus
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Marktplatz"
+  bestandteil: "Marktbrunnen"
+ORTSTEIL_BEZUG: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk_historisch
+BEZEICHNUNG: Geßlersche Haus
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Kernstadt Horb"
+ORTSTEIL_BEZUG: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: bauwerk_historisch
+BEZEICHNUNG: Ehemaliges Dominikanerinnenkloster
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "historischer Bau"
+ORTSTEIL_BEZUG: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: bauwerk_historisch
+BEZEICHNUNG: Schurkenturm
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  bestandteil: "Burggarten"
+ORTSTEIL_BEZUG: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: bauwerk_historisch
+BEZEICHNUNG: Luziferturm
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Kernstadt Horb"
+ORTSTEIL_BEZUG: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: bauwerk_historisch
+BEZEICHNUNG: Stubensche Schlösschen
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Kernstadt Horb"
+ORTSTEIL_BEZUG: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: bauwerk_historisch
+BEZEICHNUNG: Hirschgasse
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  bestandteil: "Steinhaus"
+ORTSTEIL_BEZUG: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: bauwerk_historisch
+BEZEICHNUNG: Liebfrauenkapelle
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Kernstadt Horb"
+ORTSTEIL_BEZUG: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: bauwerk_historisch
+BEZEICHNUNG: Unterer Markt
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  beschreibung: "mit zahlreichen Fachwerkhäusern und dem Platzbrunnen"
+ORTSTEIL_BEZUG: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: bauwerk_historisch
+BEZEICHNUNG: Talhaus
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  lage: "Kernstadt Horb"
+ORTSTEIL_BEZUG: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: bauwerk_historisch
+BEZEICHNUNG: Ringmauerweg
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  bestandteile: "Ringmauertürme"
+ORTSTEIL_BEZUG: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: wachturm_historisch
+BEZEICHNUNG: Schütteturm
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 26 [Meter]
+  lage: "oberhalb der Altstadt"
+  beschreibung: "ehemaliger Wachturm, auf Anfrage als Aussichtsturm zugänglich"
+ORTSTEIL_BEZUG: Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Denkmal für Sebastian Lotzer
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  ort: "Wintergasse beim Aufgang zum Kloster"
+  aufgestellt: 2006
+  geehrte_person: "Sebastian Lotzer"
+  geehrte_person_rolle: "in Horb geboren, Verfasser der Memminger Artikel und der 12 Artikel im Bauernkrieg"
+ORTSTEIL_BEZUG: Kernstadt
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gruen_projekt
+BEZEICHNUNG: Neckarblühen
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  alternative_bezeichnung: "kleine Landesgartenschau"
+  durchfuehrung: "Sommer 2011"
+  massnahme: "Überarbeitung des Neckarufers für Fußgänger"
+  haeufikeit_projekt: "alle zwei Jahre in Baden-Württemberg"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Sebastian Lotzer
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  geburt_ungefaehr: 1490
+  geburt_ort: "Horb"
+  tod_nach: 1525
+  rolle: "Verfasser der Memminger Artikel und der 12 Artikel im Bauernkrieg"
+GUELTIG_AB: 1490
+GUELTIG_BIS: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wirtschafts_zentrum
+BEZEICHNUNG: Wirtschaftliche Blütezeit Horbs
+QUELLE: https://www.horb.de/GeschichtlicherRueckblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: 15. Jahrhundert
+  herrschaft: "unter der Habsburger"
+  faktoren: "Tuchwebereien, Tuchhandel, Kunstgewerbe und Weinbau"
+  rolle: "geistlicher Mittelpunkt mit zahlreichen Kirchen und Klöstern"
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: konfession_statistik
+BEZEICHNUNG: Religionsverteilung Horb
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  zensus_jahr: 2022
+  zensus_datum: "25. Mai 2022"
+  evangelisch_prozent: 19.7
+  katholisch_prozent: 42.6
+  konfessionslos_prozent: 37.7
+  trend: "seit Zensus 2011 sinkt Anteil von Protestanten und Katholiken jährlich um einen Prozentpunkt"
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historische_person
+BEZEICHNUNG: Veit Stoß
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  geburt_ungefaehr: 1447
+  geburt_ort: "Horb"
+  tod: "22. September 1533 in Nürnberg"
+  berufe: "Bildhauer, Maler und Kupferstecher"
+GUELTIG_AB: 1447
+GUELTIG_BIS: 1533
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historische_person
+BEZEICHNUNG: Martin Gerbert
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  geburt: "11. August 1720 in Horb"
+  tod: "13. Mai 1793 in St. Blasien"
+  rolle: "Fürstabt von St. Blasien"
+GUELTIG_AB: 1720
+GUELTIG_BIS: 1793
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kunstmuseum_oder_galerie
+BEZEICHNUNG: Antonie-Leins-Künstlerhaus Horb
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  begruendung_foerderverein: 2004
+  oeffnung_kunstlerhaus: 2012
+  lage: "Wintergasse in historischem Gebäude"
+  programm: "Artist in Residence für maximal drei Jahre"
+ORTSTEIL_BEZUG: Kernstadt
+GUELTIG_AB: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kulturzentrum
+BEZEICHNUNG: Projekt Zukunft Kulturzentrum Kloster
+QUELLE: https://de.wikipedia.org/wiki/Horb_am_Neckar | Wikipedia
+EIGENSCHAFTEN:
+  selbstbeschreibung: "soziokultureller Provinzverein"
+  ziel: "Aufrechterhaltung und Stärkung der kulturellen Vielfalt der Region Horb"
+  aktivitaeten: "Konzerte, Kabarett- und Theater-Veranstaltungen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

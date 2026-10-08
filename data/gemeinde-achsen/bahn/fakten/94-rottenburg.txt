@@ -1,0 +1,378 @@
+ID: 94-rottenburg/001
+ENTITÄT: ort
+BEZEICHNUNG: Rottenburg am Neckar
+QUELLE: https://www.rottenburg.de/tourismus+stadtinfo.6.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: zu den ältesten Siedlungsplätzen in Baden-Württemberg zählend
+  anzahl_ortsteile: 17
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 94-rottenburg/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Weiler
+QUELLE: https://www.rottenburg.de/weiler.30018.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 1046
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 94-rottenburg/003
+ENTITÄT: burg
+BEZEICHNUNG: Weiler Burg
+ORTSTEIL_BEZUG: Weiler
+QUELLE: https://www.rottenburg.de/weiler.30018.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausblick: Rammert, Schwäbische Alb, Hohenzollern
+  charakterisierung: überregional beliebtes Ausflugsziel
+  bewirtschaftung: bei gehisster Fahne bewirtet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 94-rottenburg/004
+ENTITÄT: event
+BEZEICHNUNG: Backküchenfest
+ORTSTEIL_BEZUG: Weiler
+QUELLE: https://www.rottenburg.de/weiler.30018.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: Juli
+  charakterisierung: jährlich, lockt tausende Besucher
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 94-rottenburg/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Obernau
+QUELLE: https://www.rottenburg.de/obernau.30014.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 505
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 94-rottenburg/006
+ENTITÄT: quelle
+BEZEICHNUNG: Mineralquelle Obernau
+ORTSTEIL_BEZUG: Obernau
+QUELLE: https://www.rottenburg.de/obernau.30014.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Mineralquelle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 94-rottenburg/007
+ENTITÄT: museum
+BEZEICHNUNG: Tante-Emma-Laden
+ORTSTEIL_BEZUG: Obernau
+QUELLE: https://www.rottenburg.de/obernau.30014.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: historischer Laden, ausgebaut als Museum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 94-rottenburg/008
+ENTITÄT: gedenkstein
+BEZEICHNUNG: Hartmann von Aue-Gedenkstein
+ORTSTEIL_BEZUG: Obernau
+QUELLE: https://www.rottenburg.de/obernau.30014.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benannt_nach: Hartmann von Aue
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 94-rottenburg/009
+ENTITÄT: ortsteil
+BEZEICHNUNG: Seebronn
+QUELLE: https://www.rottenburg.de/seebronn.30017.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 1750
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 94-rottenburg/010
+ENTITÄT: ort
+BEZEICHNUNG: Seebronn
+ORTSTEIL_BEZUG: Seebronn
+QUELLE: https://www.rottenburg.de/seebronn.30017.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: leitet sich vom einstigen "Seebrunnen" ab
+  kennzeichen: Brunnen sind typisch für Seebronn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 94-rottenburg/011
+ENTITÄT: event
+BEZEICHNUNG: Rock of Ages
+ORTSTEIL_BEZUG: Seebronn
+QUELLE: https://www.rottenburg.de/seebronn.30017.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Festival
+  zeitpunkt: jährlich Ende Juli
+  besonderheit: lockt tausende Besucher
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 94-rottenburg/012
+ENTITÄT: ortsteil
+BEZEICHNUNG: Baisingen
+QUELLE: https://www.rottenburg.de/baisingen.30005.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 1377
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 94-rottenburg/013
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Baisingen
+ORTSTEIL_BEZUG: Baisingen
+QUELLE: https://www.rottenburg.de/baisingen.30005.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: einzige Synagoge im Landkreis Tübingen
+  status_heute: Gedenkstätte und Museum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 94-rottenburg/014
+ENTITÄT: schloss
+BEZEICHNUNG: Stauffenberg'sches Schloss
+ORTSTEIL_BEZUG: Baisingen
+QUELLE: https://www.rottenburg.de/baisingen.30005.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nutzung_heute: Ortsverwaltung, Bürgersaal, Jugendraum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 94-rottenburg/015
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Hocketse des Musikvereins
+ORTSTEIL_BEZUG: Baisingen
+QUELLE: https://www.rottenburg.de/baisingen.30005.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: Fronleichnam
+  charakterisierung: jährliche Veranstaltungshöhepunkt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 94-rottenburg/016
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Laien-Theateraufführungen
+ORTSTEIL_BEZUG: Baisingen
+QUELLE: https://www.rottenburg.de/baisingen.30005.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  veranstalter: Sportverein
+  charakterisierung: jährliche Veranstaltungshöhepunkt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 94-rottenburg/017
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bieringen
+QUELLE: https://www.rottenburg.de/bieringen.30006.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 661
+  lage: idyllisch im Landschaftsschutzgebiet
+  nachbargewaesser: Neckar und Starzel
+  charakterisierung: Schwäbisches Sauerland wegen Kohlensäurevorkommen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 94-rottenburg/018
+ENTITÄT: wasserschloss
+BEZEICHNUNG: Wasserschloss Bieringen
+ORTSTEIL_BEZUG: Bieringen
+QUELLE: https://www.rottenburg.de/bieringen.30006.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: ehemaliges Wasserschloss
+  charakterisierung: Zeugnis des ritterschaftlichen Ortes
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 94-rottenburg/019
+ENTITÄT: floesstelle
+BEZEICHNUNG: Flößerstätte Bieringen
+ORTSTEIL_BEZUG: Bieringen
+QUELLE: https://www.rottenburg.de/bieringen.30006.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Zeugnis des ritterschaftlichen Ortes
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 94-rottenburg/020
+ENTITÄT: kapelle
+BEZEICHNUNG: Friedhofskapelle Bieringen
+ORTSTEIL_BEZUG: Bieringen
+QUELLE: https://www.rottenburg.de/bieringen.30006.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wandmalereien: wertvolle Wandmalereien
+  wandmalereien_entstehung: um 1380
+GUELTIG_AB: 1380
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 94-rottenburg/021
+ENTITÄT: ortsteil
+BEZEICHNUNG: Dettingen
+QUELLE: https://www.rottenburg.de/dettingen.30007.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 1748
+  lage: Aischbachtal am Fuße des Rammerts
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 94-rottenburg/022
+ENTITÄT: garten
+BEZEICHNUNG: Doschka-Garten
+ORTSTEIL_BEZUG: Dettingen
+QUELLE: https://www.rottenburg.de/dettingen.30007.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: privater Garten nach französischem und englischem Vorbild
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 94-rottenburg/023
+ENTITÄT: event
+BEZEICHNUNG: Schupfnudelfest
+ORTSTEIL_BEZUG: Dettingen
+QUELLE: https://www.rottenburg.de/dettingen.30007.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: jährlich stattfindend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 94-rottenburg/024
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kiebingen
+QUELLE: https://www.rottenburg.de/kiebingen.30013.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 2111
+  lage: zwischen Rammert und Neckar
+  infrastruktur_vereine: 15 Vereine
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 94-rottenburg/025
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Dorfgemeinschaftshaus Kiebingen
+ORTSTEIL_BEZUG: Kiebingen
+QUELLE: https://www.rottenburg.de/kiebingen.30013.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Alterswohnen mit Bürgertrefff
+  charakterisierung: Vorbildcharakter für viele andere Orte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 94-rottenburg/026
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Kiebingen – Lion-sur-Mer
+ORTSTEIL_BEZUG: Kiebingen
+QUELLE: https://www.rottenburg.de/kiebingen.30013.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerort: Lion-sur-Mer
+  partnerland: Frankreich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 94-rottenburg/027
+ENTITÄT: event
+BEZEICHNUNG: Eierlesen
+ORTSTEIL_BEZUG: Kiebingen
+QUELLE: https://www.rottenburg.de/kiebingen.30013.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Veranstaltungshöhepunkt
+  rhythmus: alle zwei Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 94-rottenburg/028
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberndorf
+QUELLE: https://www.rottenburg.de/oberndorf.30015.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 1495
+  lage: zwischen Ammer und Neckartal
+  bezeichnung_alternativ: Sonnendorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 94-rottenburg/029
+ENTITÄT: geschichte
+BEZEICHNUNG: Oberndorf
+ORTSTEIL_BEZUG: Oberndorf
+QUELLE: https://www.rottenburg.de/oberndorf.30015.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersturkund_erwaehnung: 1292
+  historische_bedeutung: bekannt für Hopfenanbau
+GUELTIG_AB: 1292
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 94-rottenburg/030
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche Oberndorf
+ORTSTEIL_BEZUG: Oberndorf
+QUELLE: https://www.rottenburg.de/oberndorf.30015.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausstattung: spätgotischer Hochaltar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 94-rottenburg/031
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Oberndorf – St. Georgen am Leithagebirge
+ORTSTEIL_BEZUG: Oberndorf
+QUELLE: https://www.rottenburg.de/oberndorf.30015.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerort: St. Georgen am Leithagebirge
+  datum_unterzeichnung: 28. April 2023
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 94-rottenburg/032
+ENTITÄT: museum
+BEZEICHNUNG: Römisches Stadtmuseum Sumelocenna
+QUELLE: https://www.rottenburg.de/tourismus+stadtinfo.6.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Museum zur antiken römischen Stadt Sumelocenna
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 94-rottenburg/033
+ENTITÄT: museum
+BEZEICHNUNG: Diözesanmuseum
+QUELLE: https://www.rottenburg.de/tourismus+stadtinfo.6.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fokus: Diözesangeschichte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 94-rottenburg/034
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: KZ-Gedenkstätte Hailfingen
+ORTSTEIL_BEZUG: Hailfingen
+QUELLE: https://www.rottenburg.de/tourismus+stadtinfo.6.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Gedenkstätte des KZ Hailfingen-Tailfingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 94-rottenburg/035
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Tourist-Information Rottenburg
+QUELLE: https://www.rottenburg.de/tourismus+stadtinfo.6.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Marktplatz 24, 72108 Rottenburg am Neckar
+  kontakt_email: info@wtg-rottenburg.de
+  kontakt_telefon: 07472-916-236
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 94-rottenburg/036
+ENTITÄT: infrastruktur
+BEZEICHNUNG: WTG Infopunkt im Bahnhof
+QUELLE: https://www.rottenburg.de/tourismus+stadtinfo.6.htm?lnav=1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Poststraße 14, 72108 Rottenburg am Neckar
+  kontakt_email: info@wtg-rottenburg.de
+  kontakt_telefon: 07472-165-560
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

@@ -1,0 +1,408 @@
+ID: 88-eutingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Eutingen im Gäu
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/zurueck-in-die-geschichte/geschichte-der-gemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_nennung: 768-05-06
+  erste_nennung_quelle: Schenkung an das Kloster Lorsch
+  ortsteile: Eutingen, Göttelfingen, Rohrdorf, Weitingen
+  anzahl_ortsteile: 4
+  frühe_besiedlung: jüngere Steinzeit
+  hallzeit_präsenz: true
+  römische_präsenz: true
+  villa_rustica_standort: östlich des Neuen Bahnhofs
+  alemannische_landnahme: 260 n. Chr.
+  formation_durch_fusion_1: 01.07.1971
+  formation_fusion_komponenten_1: Göttelfingen, Rohrdorf
+  formation_durch_fusion_2: 01.01.1975
+  formation_fusion_komponenten_2: Weitingen
+  namensänderung: Eutingen im Gäu
+  namensänderung_gültig_ab: 1975
+GUELTIG_AB: 768
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 88-eutingen/002
+ENTITÄT: ort
+BEZEICHNUNG: Eutingen im Gäu
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/zahlen-daten-fakten/strukturdaten-der-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bundesland: Baden-Württemberg
+  regierungsbezirk: Karlsruhe
+  landkreis: Freudenstadt
+  postleitzahl: 72184
+  telefonvorwahl_eutingen_göttelfingen: 07459
+  telefonvorwahl_rohrdorf_weitingen: 07457
+  autokennzeichen: FDS, HOR
+  fläche_gesamt: 3329 ha
+  waldanteil: 19 %
+  landschaftsraum: Oberes Gäu
+  einwohnerzahl: 6098
+  einwohnerzahl_stand: 30.06.2023
+  höhe_hauptort: 450 m ü. NN
+  bürgermeister: Markus Tideman
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 88-eutingen/003
+ENTITÄT: ort
+BEZEICHNUNG: Eutingen im Gäu
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/kurzportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_wirtschaftsraum: ländlicher Raum, am Rande des Verdichtungsraumes Mittlerer Neckar
+  region: Region Stuttgart / Nördlicher Schwarzwald
+  gewerbliche_betriebe_anzahl: über 400
+  gewerbliche_sektoren: Dienstleistung, Handel, Handwerk, Gewerbe
+  infrastruktur_bundesstraße: B28
+  infrastruktur_autobahn: A81
+  öffentliche_verkehrsmittel: Bus und Bahn
+  kindergärten_gemeindeeigen: 3
+  kindergärten_kirchlich: 2
+  schulen_grundschule: Eutingen, Weitingen
+  schulen_weiterführend: in unmittelbarer Umgebung
+  seniorennachmittage: regelmäßig
+  ärztliche_versorgung: im Ort gewährleistet
+  pflegeunterstützung: Vereine, Kirche, Sozialstationen
+  vereine_anzahl: über 40
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 88-eutingen/004
+ENTITÄT: wappen
+BEZEICHNUNG: Gemeindewappen Eutingen im Gäu
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/zurueck-in-die-geschichte/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihung_datum: 27.09.1976
+  verleihende_behörde: Landratsamt Freudenstadt
+  schildhälfte_oben_beschreibung: Silber mit dreiblättrigem grünem Zweig
+  schildhälfte_unten_beschreibung: Rot mit schwebendem nacktem Arm (silbern)
+  zweig_herkunft: Wappen der Adelsfamilie Schütz vom Eutinger Tal
+  zweig_herkunft_bedeutung: Verbindung zu lokaler Adelsfamilie
+  arm_herkunft: Wappen der Herren von Weitingen
+  arm_herkunft_bedeutung: Aufnahme der Herrschaft Weitingen in das neue Wappen
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 88-eutingen/005
+ENTITÄT: flagge
+BEZEICHNUNG: Gemeinflagge Eutingen im Gäu
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/zurueck-in-die-geschichte/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihung_datum: 27.09.1976
+  verleihende_behörde: Landratsamt Freudenstadt
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 88-eutingen/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Eutingen
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/zurueck-in-die-geschichte/geschichte-der-gemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_nennung: 06.05.768
+  erste_nennung_quelle: Schenkung an das Kloster Lorsch
+  zugehörigkeit_vorderösterreich: 1381-1805
+  transition_württemberg_jahr: 1805
+  oberamt_zuordnung: Oberamt Horb
+  landkreis_nachfolgend: Landkreis Horb am Neckar
+  marktrecht_wiedereinführung: 1866
+  bahnanbindung_jahr: 1874
+  bahnanbindung_strecke: Horb-Freudenstadt
+GUELTIG_AB: 768
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 88-eutingen/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Eutingen
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/zahlen-daten-fakten/strukturdaten-der-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 2467
+  einwohnerzahl_stand: 30.06.2023
+  höhe: 450 m ü. NN
+  superlativ: größter Ortsteil der Gemeinde Eutingen im Gäu
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 88-eutingen/008
+ENTITÄT: ortsteil
+BEZEICHNUNG: Eutingen
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/ortsteile/eutingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitz_gemeindeverband: Hauptverwaltung der Gemeinde Eutingen im Gäu
+  gewerbestruktur: ausgeprägt mit zahlreichen ansässigen Betrieben
+  versorgung: gesamter Bedarf Lebensmittel und andere Waren und Dienstleistungen
+  kindergärten_gemeindeeigen: 1
+  kindergärten_kirchlich: 1
+  grundschule: ja
+  spielplätze_gemeindeeigen: ja
+  bolzplätze_gemeindeeigen: ja
+  vereinsstruktur: sehr ausgeprägt und vielfältig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 88-eutingen/009
+ENTITÄT: ortsteil
+BEZEICHNUNG: Göttelfingen
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/zurueck-in-die-geschichte/geschichte-der-gemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung: 1083
+  geschichte_beschreibung: ritterschaftlicher Besitz mit häufigen Herrscherwechseln
+  transition_württemberg_jahr: 1805
+  grundbesitz_verkauf_jahr: 1855
+  grundbesitz_verkauf_actor: Fürst Constantin von Waldburg-Zeil
+  grundbesitz_verkauf_empfänger: Göttelfinger Bürger
+GUELTIG_AB: 1083
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 88-eutingen/010
+ENTITÄT: ortsteil
+BEZEICHNUNG: Göttelfingen
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/zahlen-daten-fakten/strukturdaten-der-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 926
+  einwohnerzahl_stand: 30.06.2023
+  höhe: 501 m ü. NN
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 88-eutingen/011
+ENTITÄT: ortsteil
+BEZEICHNUNG: Göttelfingen
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/ortsteile/goettelfingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: zweitkleinster Ortsteil der Gemeinde Eutingen im Gäu
+  atmosphäre: sehr familienfreundlich
+  spielplätze: ja
+  bolzplätze: ja
+  kindergarten: moderner Kindergarten
+  verwaltungsstelle_lokal: ja
+  ortsvorsteher: Michael Dittmann
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 88-eutingen/012
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rohrdorf
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/zurueck-in-die-geschichte/geschichte-der-gemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung: 770
+  erste_nennung_quelle: Lorschen Schenkungsbuch
+  herrschaft_mittelalter: Herrschaft Urnburg
+  verpfändungen_beginn: 1381
+  pfandschaft_auslösung: 1740
+  verwaltung_ab_1740: Herrschaft Niederhohenberg von Rottenburg aus
+  transition_württemberg_zeitraum: 1805-1806
+GUELTIG_AB: 770
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 88-eutingen/013
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rohrdorf
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/zahlen-daten-fakten/strukturdaten-der-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 795
+  einwohnerzahl_stand: 30.06.2023
+  höhe: 480 m ü. NN
+  superlativ: kleinster Ortsteil der Gemeinde Eutingen im Gäu
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 88-eutingen/014
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rohrdorf
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/ortsteile/rohrdorf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  spielplätze: mehrere
+  bolzplatz: ja
+  vereinsstruktur: vielfältig
+  verwaltungsstelle_lokal: ja
+  ortsvorsteher: Johannes Metzner
+  charakterisierung: trotz kleinster Ortsteil familienfreundlich und attraktiv
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 88-eutingen/015
+ENTITÄT: ortsteil
+BEZEICHNUNG: Weitingen
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/zurueck-in-die-geschichte/geschichte-der-gemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung: ca. 850-860
+  erste_nennung_genauigkeit: vermutlich
+  erste_nennung_kontext: Schenkung an Kloster Reichenbach
+  herrschaft_mittelalter: Herrschaft Urnburg
+  herrschaft_später: Herrschaft Niederhohenberg
+  verpfändungen_beginn: 1381
+  pfandschaft_auslösung: 1740
+  transition_württemberg_zeitraum: 1805-1806
+GUELTIG_AB: 850
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 88-eutingen/016
+ENTITÄT: ortsteil
+BEZEICHNUNG: Weitingen
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/zahlen-daten-fakten/strukturdaten-der-gemeinde | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 1910
+  einwohnerzahl_stand: 30.06.2023
+  höhe: 478 m ü. NN
+  superlativ: zweitgrößter Ortsteil der Gemeinde Eutingen im Gäu
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 88-eutingen/017
+ENTITÄT: ortsteil
+BEZEICHNUNG: Weitingen
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/ortsteile/weitingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: ausgeprägte Vereinstruktur
+  vereine_eingetragen_anzahl: 17
+  vereine_superlativ: so viele wie in keinem anderen Ortsteil der Gemeinde
+  kindergarten_kirchlich: ja
+  grundschule_außenstelle: Außenstelle der Grundschule Eutingen
+  betriebe_lokal: Metzger, Bäcker, Handwerks-, Dienstleistungs- und Gastronomiebetriebe
+  betriebe_ruf: über Gemeindegrenzen bekannt
+  auszeichnung_1_titel: Bronzemedaille beim 22. Landeswettbewerb
+  auszeichnung_1_wettbewerb: Unser Dorf hat Zukunft - Unser Dorf soll schöner werden
+  auszeichnung_1_jahr: 2005-2006
+  auszeichnung_1_verleihung: Ministerium für Ernährung und Ländlichem Raum
+  auszeichnung_2_titel: 1. Platz Ehrenurkunde
+  auszeichnung_2_wettbewerb: Unser Dorf hat Zukunft
+  auszeichnung_2_jahr: 2005
+  auszeichnung_2_veranstalter: Landkreis Freudenstadt
+  auszeichnung_3_titel: Bronzemedaille beim 26. Landeswettbewerb
+  auszeichnung_3_wettbewerb: Unser Dorf hat Zukunft
+  auszeichnung_3_jahr: 2016-2017
+  verwaltungsstelle_lokal: ja
+  ortsvorsteherin: Tanja Ellinger-Gius
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 88-eutingen/018
+ENTITÄT: kirche
+BEZEICHNUNG: St. Stephanus
+ORTSTEIL_BEZUG: Eutingen
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/zurueck-in-die-geschichte/geschichte-der-gemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1494-1498
+  turm_baujahr: 13. Jahrhundert
+  konfession: katholisch
+  seelsorgeeinheit: Seelsorgeeinheit Eutingen im Gäu
+GUELTIG_AB: 1494
+IST_VERMUTISCH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 88-eutingen/019
+ENTITÄT: kirche
+BEZEICHNUNG: St. Nikolaus
+ORTSTEIL_BEZUG: Göttelfingen
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/zurueck-in-die-geschichte/geschichte-der-gemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1788
+  turm_baujahr: 15. Jahrhundert
+  turm_herkunft_beschreibung: aus dem 15. Jahrhundert stammend
+  konfession: katholisch
+  seelsorgeeinheit: Seelsorgeeinheit Eutingen im Gäu
+GUELTIG_AB: 1788
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 88-eutingen/020
+ENTITÄT: kirche
+BEZEICHNUNG: St. Georg
+ORTSTEIL_BEZUG: Rohrdorf
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/zurueck-in-die-geschichte/geschichte-der-gemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit_wesentliche_teile: 1858
+  fassadenturm_baujahr: 1726
+  erweiterung_jahr: 1920
+  erweiterung_beschreibung: erweitert zu heutiger Gestalt
+  konfession: katholisch
+  seelsorgeeinheit: Seelsorgeeinheit Eutingen im Gäu
+GUELTIG_AB: 1858
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 88-eutingen/021
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martinus (Pfarrkirche Weitingen)
+ORTSTEIL_BEZUG: Weitingen
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/zurueck-in-die-geschichte/geschichte-der-gemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1504
+  stil: spätgotisch
+  konfession: katholisch
+  patron: Heiliger Martin
+  seelsorgeeinheit: Seelsorgeeinheit Eutingen im Gäu
+GUELTIG_AB: 1504
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 88-eutingen/022
+ENTITÄT: kapelle
+BEZEICHNUNG: Wallfahrtskapelle des Heiligen Joachim und der Heiligen Anna
+ORTSTEIL_BEZUG: Weitingen
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/zurueck-in-die-geschichte/geschichte-der-gemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1506
+  erweiterung_und_barockisierung_zeit: 1769-1770
+  konfession: katholisch
+  patrone: Heiliger Joachim, Heilige Anna
+  typ: Wallfahrtskapelle
+GUELTIG_AB: 1506
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 88-eutingen/023
+ENTITÄT: ereignis_brand
+BEZEICHNUNG: Großbrand Eutingen
+ORTSTEIL_BEZUG: Eutingen
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/zurueck-in-die-geschichte/geschichte-der-gemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1685
+  ausmass: fast gesamter Ort abgebrannt
+  gebäude_bestand_vor: über 160
+  gebäude_verschont: 30
+  schaden_anteil: ca. 82%
+GUELTIG_AB: 1685
+GUELTIG_BIS: 1685
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 88-eutingen/024
+ENTITÄT: seelsorgeeinheit
+BEZEICHNUNG: Seelsorgeeinheit Eutingen im Gäu
+QUELLE: https://www.eutingen-im-gaeu.de/freizeit-kultur/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  pfarrer: Bernhard Tschullik
+  kirchen_anzahl: 4
+  kirchen_list: St. Stephanus (Eutingen), St. Nikolaus (Göttelfingen), St. Georg (Rohrdorf), St. Martinus (Weitingen)
+  ortsteile_umfasst: 4 (Eutingen, Göttelfingen, Rohrdorf, Weitingen)
+  pfarrgasse_adresse: Pfarrgasse 12, 72184 Eutingen
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 88-eutingen/025
+ENTITÄT: halle_kulturelle_einrichtung
+BEZEICHNUNG: Korntalhalle
+ORTSTEIL_BEZUG: Göttelfingen
+QUELLE: https://www.eutingen-im-gaeu.de/gemeinde-daten/ortsteile/goettelfingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sanierung_und_erweiterung_jahr: 2009
+  nutzung: Vereins- und Privatveranstaltungen
+  bedeutung_für_ortsteil: Aushängeschild von Göttelfingen
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93

@@ -1,0 +1,823 @@
+ENTITÄT: ort
+BEZEICHNUNG: Gäufelden
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ortsteile-geschichte/gaeufelden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_gemeinde: true
+  gruendungsdatum: 1. Juli 1971
+  gruendungsgrund: freiwilliger Zusammenschluss der bis dahin selbständigen Gemeinden Nebringen, Öschelbronn und Tailfingen
+  anzahl_ortsteile: 3
+  ortsteile: Nebringen, Öschelbronn, Tailfingen
+GUELTIG_AB: 1971
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Gäufelden
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 9478
+  einwohnerzahl_stichtag: 31.07.2026
+  gemarkungsflaeche_ha: 2007
+  gemarkungsflaeche_m2: 20073196
+  gemarkungsflaeche_km2: 20
+  siedlungs_verkehrsflaeche_prozent: 19.2
+  waldflaeche_prozent: 9.2
+  landwirtschaftsflaeche_prozent: 70.9
+  einwohner_bei_gruendung: 4136
+  einwohner_wachstum_faktor: mehr als verdoppelt
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Gäufelden
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_landkreis: Böblingen
+  lage_region: Oberes Gäu, Südwestrand des Landkreises Böblingen
+  entfernung_stuttgart_km: 30
+  entfernung_boeblingen_sindelfingen_km: 20
+  entfernung_nagold_km: 12
+  entfernung_altensteig_km: 20
+  entfernung_freudenstadt_km: 35
+  entfernung_tuebingen_km: 24
+  entfernung_reutlingen_km: 35
+  entfernung_horb_km: 20
+  bahnanbindung: Haltestelle Nebringen an Bahnlinie Stuttgart-Böblingen-Herrenberg-Horb-Rottweil-Tuttlingen-Singen
+  s_bahn_anbindung: Endstation Herrenberg
+  autobahn_a81_erreichbarkeit: in wenigen Minuten
+  flughafen_stuttgart_erreichbarkeit: in wenigen Minuten
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Gemeindewappen Gäufelden
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ortsteile-geschichte/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: in gespaltenem Schild vorne in Silber ein schwarzer Abtsstab, hinten in Rot ein silberner Kelch
+  vorderseite_symbol: schwarzer Abtsstab
+  vorderseite_farbe: Silber/Weiß
+  rueckseite_symbol: silberner/weißer Kelch
+  rueckseite_farbe: Rot
+  flaggenfarben: Weiß - Rot
+  zusammensetzung: Symbole aller drei am 1. Juli 1971 zusammengeschlossenen Orte (Nebringen, Öschelbronn, Tailfingen)
+GUELTIG_AB: 1971
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wappen_symbol
+BEZEICHNUNG: Abtsstab
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ortsteile-geschichte/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft_gemeinde: Öschelbronn und Nebringen
+  herkunft_grund_oeschelbronn: Öschelbronn gehört seit 1413 teilweise dem Kloster Bebenhausen
+  herkunft_grund_nebringen: Nebringen war bei seiner ersten Nennung im 12. Jahrhundert im Besitz des Klosters Hirsau
+  nachweis_fleckenzeichen_nebringen: 1683
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wappen_symbol
+BEZEICHNUNG: Kelch
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ortsteile-geschichte/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft_gemeinde: Tailfingen
+  verwendet_als: Farbdruckstempel der ehemaligen Gemeinde Tailfingen
+  verwendung_bis: 1956
+  aufgenommen_in_gemeindewappen: 1971
+GUELTIG_AB: 1971
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Nebringen
+ORTSTEIL_BEZUG: Nebringen
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ortsteile-geschichte/nebringen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwahnung_Jahrhundert: 12.
+  erste_erwahnung_grund: im Zusammenhang mit hirsauischem Besitz
+  herr_vor_1382: Pfalzgrafen von Tübingen
+  uebergabe_zu_wuerttemberg: 1382
+  kirchliche_zugehoerigkeit_urspruenglich: Pfarrei Gültstein
+  kirchliche_zugehoerigkeit_nach_mittelalter: selbständige Pfarrei
+  kirchliche_zugehoerigkeit_nach_reformation: Filiale zu Tailfingen (Evang. Dekanat Herrenberg)
+  besonderheit_keltengrab: Keltengräber mit reicher Grabbeigabe bei Bau der Umgehungsstraße B 14, Grabbeigaben im Württembergischen Landesmuseum
+  schwäbischer_ortsneckname: Spältlesgückeler
+  ortsneckname_herkunft: benannt nach "wunderfitzigem" Bauern, der die Spalten von Fensterläden beobachtete und Geschehnisse im Ort kundtat
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Nebringen
+ORTSTEIL_BEZUG: Nebringen
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 4177
+  einwohnerzahl_stichtag: 31.07.2026
+  hoehenlage_m_nn: 458
+  hoehenlage_referenzpunkt: Bahnhof
+  gemarkungsflaeche_ha: 518
+  gemarkungsflaeche_m2: 5175479
+  grundschulen_anzahl: 1
+  kindergartengruppen_anzahl: 11
+  kindergaerteneinrichtungen_mit_krippe: 1 mit 3 Krippengruppen
+  waldkindergarten_anzahl: 1 mit 1 Gruppe
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Öschelbronn
+ORTSTEIL_BEZUG: Öschelbronn
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ortsteile-geschichte/oeschelbronn | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fruehere_namensform_um_1150: Eskelbrunnen
+  gruendung_heutige_gemeinde: 1824 durch Vereinbarung über Zusammenschluss von Ober- und Unteröschelbronn
+  oberöschelbronn_erwerb_durch_wuerttemberg: 1612 schrittweise
+  oberöschelbronn_vorherige_besitzer: Herren von Genkingen, Gültlingen und andere
+  unteröschelbronn_halfte_kloster_bebenhausen_kauf: 1408 bis 1413 von Friedrich von Enzberg und Peter Remp (Reutlinger Bürger)
+  unteröschelbronn_halfte_nach_reformation: württembergisch
+  unteröschelbronn_andere_halfte_besitzerwechsel: mehrfach bis Württemberg 1774
+  kirchensitz_unteröschelbronn_seit: 1402 beim Kloster Bebenhausen
+  kirchensitz_nach_reformation: mit Württemberg
+  oberamt_zugehoerigkeit_seit_1807: altes Oberamt Herrenberg, 1807 Bebenhauser Hälfte hinzugekommen
+  schwäbischer_ortsneckname: Kälblesschlecker
+  ortsneckname_herkunft: Vorfahren sollen Kälble abgeschleckt haben, das von Mutterkuh nicht angenommen wurde
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Öschelbronn
+ORTSTEIL_BEZUG: Öschelbronn
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 3856
+  einwohnerzahl_stichtag: 31.07.2026
+  hoehenlage_m_nn: 490
+  hoehenlage_referenzpunkt: Rathaus
+  gemarkungsflaeche_ha: 823
+  gemarkungsflaeche_m2: 8236462
+  grundschulen_anzahl: 1
+  kindergartengruppen_anzahl: 8
+  kindergaerteneinrichtungen_altersgemischt: 1 mit 1 Krippengruppe
+  waldkindergarten_anzahl: 1 mit 1 Gruppe
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Tailfingen
+ORTSTEIL_BEZUG: Tailfingen
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ortsteile-geschichte/tailfingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung_datum: 18. Februar 1085
+  ortsadel_nachweis_Jahrhundert: 12. bis 14.
+  kloster_hirsau_besitz_seit: 12. Jahrhundert
+  kloster_reichenbach_besitz_seit: 12. Jahrhundert
+  kloster_alpirsbach_besitz_seit: spätestens 13. Jahrhundert
+  kloster_bebenhausen_besitz_seit: spätestens 13. Jahrhundert
+  bebenhausen_alpirsbacher_gueter_kauf: 1266
+  wuerttemberg_kaufvertrag_periode: 1418 bis 1457 (Ortsanteile der Klöster Bebenhausen und Hirsau, Benz-Kechler, Reutlinger Sichenpflege, Balthasar von Bühel)
+  kirchensatz_herkunft: Herren von Hailfingen
+  kirchensatz_verlegung_jahr: um 1350 an Stift Sindelfingen, mit dessen Verlegung an Stift Tübingen
+  kirchliche_zugehoerigkeit: Evang. Pfarrei (Dekanat Herrenberg), Nebringen als Filiale
+  altes_pfarrhaus_bau_jahr: 1614
+  altes_pfarrhaus_erbauer: Herrenberger Bürgermeister Heinrich Schickhardt
+  altes_pfarrhaus_standort: bei der Kirche
+  altes_pfarrhaus_heute: Privatbesitz
+  tailfinger_mark_beschreibung: schöner Eichenwald
+  tailfinger_mark_schicksal: im 2. Weltkrieg als Einsatzflughafen zerstört
+  wirtschaftliche_bedeutung_historisch: Mittelpunkt des Hopfenanbaus im Gäu
+  wassermangel_historisch: 1935 großer Wassermangel
+  schwäbischer_ortsneckname: Wiesespreazer
+  ortsneckname_herkunft: 1935 Wassermangel, muntere Zecher erzählten, die Tailfinger hätten Mann, Frau, Kind und Vieh losgeschickt zur Abhelfe der Wassernot
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Tailfingen
+ORTSTEIL_BEZUG: Tailfingen
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 1445
+  einwohnerzahl_stichtag: 31.07.2026
+  hoehenlage_m_nn: 430
+  hoehenlage_referenzpunkt: Rathaus
+  gemarkungsflaeche_ha: 666
+  gemarkungsflaeche_m2: 6661255
+  grundschulen_anzahl: 1
+  kindergartengruppen_anzahl: 3
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Hermann Wolf
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ortsteile-geschichte/gaeufelden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt_gemeinde_gaeufelden: Bürgermeister
+  amtszeit_gaeufelden_start: 1971
+  amtszeit_gaeufelden_ende: 12.10.2003
+GUELTIG_AB: 1971
+GUELTIG_BIS: 2003
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Hermann Wolf
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/ehrenbuerger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit_nebringen_start: 1961
+  amtszeit_nebringen_ende: 1966
+  amtszeit_nebringen_tailfingen_start: 1966
+  amtszeit_nebringen_tailfingen_ende: 1971
+  ehrenbuerger_verleihung: Oktober 2003
+  bundesverdienstkreuz: Oktober 2003
+  sterbedatum: 10.08.2019
+  sterbe_alter: 83 Jahre
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Johannes Buchter
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ortsteile-geschichte/gaeufelden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt_gemeinde_gaeufelden: Bürgermeister
+  amtszeit_start: 2003
+  amtszeit_ende: 2019
+GUELTIG_AB: 2003
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Benjamin Schmid
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ortsteile-geschichte/gaeufelden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt_gemeinde_gaeufelden: Bürgermeister
+  amtszeit_start: 2019
+GUELTIG_AB: 2019
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Albrecht Maurer
+ORTSTEIL_BEZUG: Öschelbronn
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/ehrenbuerger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt_oeschelbronn: Bürgermeister
+  amtszeit_oeschelbronn_start: 1945
+  amtszeit_oeschelbronn_ende: 1971
+  ehrenbuerger_verleihung: 21.02.1985
+  ehrenbuerger_verleihung_anlass: 70. Geburtstag
+  sterbedatum: 09.08.1993
+  sterbe_alter: 78 Jahre
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Öschelbronn
+ORTSTEIL_BEZUG: Öschelbronn
+QUELLE: https://www.gaeufelden.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  pfarramt_adresse: Tailfinger Str. 2, 71126 Gäufelden-Öschelbronn
+  pfarramt_telefon: 07032 71380
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirche Nebringen
+ORTSTEIL_BEZUG: Nebringen
+QUELLE: https://www.gaeufelden.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  kirchengemeinde: Jettingen - Gäufelden - Bondorf
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Neuapostolische Kirche Nebringen
+ORTSTEIL_BEZUG: Nebringen
+QUELLE: https://www.gaeufelden.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: neuapostolisch
+  adresse: Waldstraße 5, 71126 Gäufelden-Nebringen
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Neuapostolische Kirche Öschelbronn
+ORTSTEIL_BEZUG: Öschelbronn
+QUELLE: https://www.gaeufelden.de/leben-wohnen/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: neuapostolisch
+  adresse: Vogelsangstraße 2, 71126 Gäufelden-Öschelbronn
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Gemeinschaftsschule Gäufelden
+ORTSTEIL_BEZUG: Nebringen
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schulform: Gemeinschaftsschule
+  klassenstufen: 1-10
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Nebringen
+ORTSTEIL_BEZUG: Nebringen
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schulform: Grundschule
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Öschelbronn
+ORTSTEIL_BEZUG: Öschelbronn
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schulform: Grundschule
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Tailfingen
+ORTSTEIL_BEZUG: Tailfingen
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schulform: Grundschule
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Volkshochschule Gäufelden
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schulform: Volkshochschule
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: halle
+BEZEICHNUNG: Hermann-Wolf-Halle
+ORTSTEIL_BEZUG: Nebringen
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Veranstaltungshalle
+  eigenschaft_teilbar: 3-teilbar
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: halle
+BEZEICHNUNG: Keltensaal
+ORTSTEIL_BEZUG: Nebringen
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Veranstaltungssaal
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: halle
+BEZEICHNUNG: Gymnastikhalle
+ORTSTEIL_BEZUG: Nebringen
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Sportstätte
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: halle
+BEZEICHNUNG: Bürgerhalle
+ORTSTEIL_BEZUG: Tailfingen
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Veranstaltungshalle
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: halle
+BEZEICHNUNG: Aspenhalle
+ORTSTEIL_BEZUG: Öschelbronn
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Veranstaltungshalle
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: halle
+BEZEICHNUNG: Wilhelm-Hörmann-Halle
+ORTSTEIL_BEZUG: Öschelbronn
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Veranstaltungshalle
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: buecherei
+BEZEICHNUNG: Ortsbücherei
+ORTSTEIL_BEZUG: Nebringen
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Bibliothek
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Sporthallen
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Sport- oder Mehrzweckhallen
+  anzahl: 3
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Rasenspielfelder
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Rasenspielfeld
+  anzahl: 6
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Tennisanlagen
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Tennisanlage
+  anzahl: 2
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Radstadion
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: überdachtes Radstadion
+  anzahl: 1
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Elektronische Schießanlage
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: elektronische Schießanlage
+  anzahl: 1
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Hundesportplatz
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Hundesportplatz
+  anzahl: 1
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Kegelanlage
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Kegelanlage
+  anzahl: 1
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Kleinspielfelder
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Kleinspielfeld
+  anzahl: 2
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: DFB-Minispielfeld
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/portrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: DFB-Minispielfeld
+  anzahl: 1
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Naturfreibad
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Naturfreibad
+  anzahl: 1
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: hotel
+BEZEICHNUNG: Hotel Aramis
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Sporthotel
+  angebote: Squash/Badminton-Anlage, Golfabschlagplatz, Naturfreibad
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Lutz Ackermann
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/grusswort-des-buergermeisters | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Künstler
+  werk: Skulpturengarten
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Heinrich Schickhardt
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ortsteile-geschichte/tailfingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Herrenberger Bürgermeister
+  werk: 1614 altes Pfarrhaus bei der Kirche Tailfingen erbaut
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturdenkmael
+BEZEICHNUNG: Tailfinger Mark
+ORTSTEIL_BEZUG: Tailfingen
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ortsteile-geschichte/tailfingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: schöner Eichenwald
+  zustand_historisch: vorhanden
+  zustand_heute: im 2. Weltkrieg als Einsatzflughafen zerstört
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verband
+BEZEICHNUNG: Zweckverband Gäuwasserversorgung
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Wasserversorgung
+  beschreibung: Gäufelden bezieht komplettes Wasser vom Zweckverband
+  website: www.zv-gaeuwasser.de
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verband
+BEZEICHNUNG: Klärverband Gäu-Ammer
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ortsteile-geschichte/gaeufelden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Abwasserbehandlung
+  beschreibung: großer Klärverband, an dem Gäufelden beteiligt ist
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Bahnhof Gäufelden-Nebringen
+ORTSTEIL_BEZUG: Nebringen
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bahnlinie: Gäubahn (Stuttgart-Böblingen-Herrenberg-Horb-Rottweil-Tuttlingen-Singen)
+  s_bahn_anbindung: Endstation Herrenberg
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: logo_claim
+BEZEICHNUNG: Logo und Claim Gäufelden
+ORTSTEIL_BEZUG: 
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/logo | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  claim: Offen. Aktiv. Beweglich.
+  beschreibung_logo: stilisiert die drei Ortsteile Nebringen, Öschelbronn und Tailfingen
+  beschreibung_gemeinde: bietet Familien und aktiven Bürgern ein naturräumliches, infrastrukturelles, sozial hochwertiges und hervorragend ausgestattetes Lebensumfeld
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gemarkung
+BEZEICHNUNG: Gemarkung Gäufelden-Tailfingen
+ORTSTEIL_BEZUG: Tailfingen
+QUELLE: https://www.gaeufelden.de/gemeinde-gaeufelden/ueber-uns/daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tiefster_punkt_m_nn: 390 (Gewann Katzenloch)
+  hoechster_punkt_m_nn: 545 (Wasserbehälter, Ortsteil Öschelbronn)
+GUELTIG_AB: 
+GUELTIG_BIS: 
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

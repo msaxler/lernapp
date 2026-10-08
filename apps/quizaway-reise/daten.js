@@ -9243,6 +9243,14 @@ window.QA_DATEN = {
 ],
 "85-sulz": [
 "Oberndorf am Neckar hat rund 1.900 Einwohner mehr als Sulz am Neckar."
+],
+"86-empfingen": [
+"Kreisgrenze: Empfingen gehört zum Landkreis Freudenstadt, Oberndorf am Neckar zum Landkreis Rottweil.",
+"Oberndorf am Neckar hat dreieinhalbmal so viele Einwohner wie Empfingen."
+],
+"87-horb": [
+"Kreisgrenze: Horb am Neckar gehört zum Landkreis Freudenstadt, Oberndorf am Neckar zum Landkreis Rottweil.",
+"Horb am Neckar hat gut anderthalbmal so viele Einwohner wie Oberndorf am Neckar."
 ]
 },
 "ags": "08325045",
@@ -9442,11 +9450,2168 @@ window.QA_DATEN = {
 "anschluesse": {
 "84-oberndorf": [
 "Sulz hat mehr Fläche als Oberndorf, aber weniger Einwohner."
+],
+"86-empfingen": [
+"Kreisgrenze: Empfingen gehört zum Landkreis Freudenstadt, Sulz am Neckar zum Landkreis Rottweil.",
+"Sulz am Neckar hat dreimal so viele Einwohner wie Empfingen."
+],
+"87-horb": [
+"Kreisgrenze: Horb am Neckar gehört zum Landkreis Freudenstadt, Sulz am Neckar zum Landkreis Rottweil.",
+"Horb am Neckar hat doppelt so viele Einwohner wie Sulz am Neckar."
+],
+"88-eutingen": [
+"Kreisgrenze: Eutingen im Gäu gehört zum Landkreis Freudenstadt, Sulz am Neckar zum Landkreis Rottweil.",
+"Sulz am Neckar hat gut doppelt so viele Einwohner wie Eutingen im Gäu."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Sulz am Neckar zum Landkreis Rottweil.",
+"Sulz am Neckar hat dreimal so viele Einwohner wie Starzach."
 ]
 },
 "ags": "08325057",
 "ortsteil": false,
 "km_vom_vorigen": 9.1
+},
+{
+"slug": "86-empfingen",
+"name": "Empfingen",
+"lat": 48.39222,
+"lon": 8.71194,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Empfingen",
+"steckbrief": "Gemeinde mit rund 4.300 Einwohnern, 38 km westlich von Reutlingen.",
+"frage": "Von 1968 bis 1989 lag in Empfingen die Bundeswehr. Wozu diente die Kaserne danach bis 2006?",
+"optionen": [
+"Sie war eine Aufnahmestelle für Aussiedler.",
+"Sie war eine Ausbildungsstätte der Polizei.",
+"Sie war ein Gefängnis des Landes.",
+"Sie war ein Depot des Technischen Hilfswerks."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Nach der Bundeswehr nahm die Kaserne bis 2006 Aussiedler auf. Polizei oder Justiz liegen nahe, weil leere Kasernen oft an Behörden mit Uniform gehen. Inzwischen hat die Gemeinde das Gelände erworben; heute ist es das Gewerbegebiet „Alte Kaserne“. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.empfingen.de/gemeinde-wirtschaft/geschichte-wappen/geschichte-empfingen; Schwarzwälder Bote",
+"faktencheck": "korrigiert",
+"id": "86-empfingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Empfingen",
+"steckbrief": "Gemeinde mit rund 4.300 Einwohnern, 38 km westlich von Reutlingen.",
+"frage": "Wie groß ist die Fläche der Gemeinde Empfingen?",
+"optionen": [
+"unter 10 km²",
+"10 bis unter 25 km²",
+"25 bis unter 50 km²",
+"50 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Gemeinde Empfingen ist 18,29 Quadratkilometer groß. Weniger liegt nahe, weil die Einwohnerzahl klein ist. Doch zur Gemeindefläche gehört nicht nur der Ort, sondern die ganze Flur ringsum. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "86-empfingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Empfingen",
+"steckbrief": "Gemeinde mit rund 4.300 Einwohnern, 38 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Autobahn am Ort verbindet Stuttgart mit München.",
+"Die katholische Kirche im Hauptort heißt St. Georg.",
+"An der Anschlussstelle der Autobahn liegen Gewerbeflächen."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gelogen ist die Strecke: Die A 81 verbindet Stuttgart mit dem westlichen Bodensee. München liegt nahe, weil Stuttgart und München durch eine bekannte Autobahn verbunden sind – die führt aber nach Osten. Mit der A 81 kam Empfingen aus dem Verkehrsschatten. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.empfingen.de/gemeinde-wirtschaft/geschichte-wappen/geschichte-empfingen",
+"faktencheck": "bestätigt",
+"id": "86-empfingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Empfingen",
+"steckbrief": "Gemeinde mit rund 4.300 Einwohnern, 38 km westlich von Reutlingen.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Empfingen nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"SPD",
+"GRÜNE",
+"AfD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Hinter der CDU mit 39,1 Prozent kam die AfD auf 27,7 Prozent der Zweitstimmen. Die SPD liegt nahe, weil sie lange als zweite große Volkspartei galt; in Empfingen erreichte sie 9,6 Prozent. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "86-empfingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Empfingen",
+"steckbrief": "Gemeinde mit rund 4.300 Einwohnern, 38 km westlich von Reutlingen.",
+"frage": "Die evangelische Kirchengemeinde in Empfingen feiert Gottesdienste in ihrem Gemeindehaus. Wo feiert sie außerdem regelmäßig?",
+"optionen": [
+"In einer Kapelle am Friedhof.",
+"In einer eigenen Kirche im Ortskern.",
+"In einem Saal des Rathauses.",
+"In der Aula einer Schule."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine eigene evangelische Kirche liegt nahe, weil man sie in einem Ort dieser Größe erwartet. Die Gemeinde hat aber keine. Sie feiert im Wechsel im Gemeindehaus und in der Kriegergedächtniskapelle auf dem Friedhof. Der Name bezeichnet eine Kapelle zum Gedenken an Kriegstote. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.empfingen.de/leben-wohnen/kirchen-bestattungen/kirchengemeinden; www.evangelisch-in-empfingen.de",
+"faktencheck": "korrigiert",
+"id": "86-empfingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Empfingen",
+"steckbrief": "Gemeinde mit rund 4.300 Einwohnern, 38 km westlich von Reutlingen.",
+"frage": "Zu welchem Landkreis gehört Empfingen?",
+"optionen": [
+"Landkreis Rottweil",
+"Landkreis Freudenstadt",
+"Zollernalbkreis",
+"Landkreis Tübingen"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Empfingen gehört zum Landkreis Freudenstadt. Tübingen oder der Zollernalbkreis liegen nahe, weil die Ortsangabe nach Reutlingen weist und man Freudenstadt vor allem mit dem Schwarzwald verbindet. Das Hauptkennzeichen ist FDS. Richtig war 2.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "86-empfingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Empfingen",
+"steckbrief": "Gemeinde mit rund 4.300 Einwohnern, 38 km westlich von Reutlingen.",
+"frage": "Die katholische Kirche im Hauptort gehört zur Seelsorgeeinheit Empfingen-Dießener Tal. Wohin gehört die katholische Kirche im Ortsteil Wiesenstetten?",
+"optionen": [
+"Sie gehört ebenfalls zu Empfingen-Dießener Tal.",
+"Sie gehört zur Seelsorgeeinheit Haigerloch.",
+"Sie gehört zur Seelsorgeeinheit Horb a.N.",
+"Sie gehört zur Seelsorgeeinheit Dornstetten."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Gemeinde, eine Seelsorgeeinheit – das liegt nahe. Doch die Kirche St. Stephanus in Wiesenstetten gehört zur Seelsorgeeinheit Horb a.N.; sogar ihr Büro sitzt in Horb. Eine Seelsorgeeinheit ist ein Verbund katholischer Kirchengemeinden mit gemeinsamem Seelsorgeteam. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.empfingen.de/leben-wohnen/kirchen-bestattungen/kirchengemeinden",
+"faktencheck": "bestätigt",
+"id": "86-empfingen/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "85-sulz",
+"anschluss": [
+"Evangelische Kirchengemeinde Empfingen: Ihre Anschrift liegt in Sulz am Neckar."
+],
+"anschluesse": {
+"84-oberndorf": [
+"Kreisgrenze: Oberndorf am Neckar gehört zum Landkreis Rottweil, Empfingen zum Landkreis Freudenstadt.",
+"Oberndorf am Neckar hat dreieinhalbmal so viele Einwohner wie Empfingen."
+],
+"85-sulz": [
+"Evangelische Kirchengemeinde Empfingen: Ihre Anschrift liegt in Sulz am Neckar."
+],
+"87-horb": [
+"Horb am Neckar hat sechsmal so viele Einwohner wie Empfingen."
+],
+"88-eutingen": [
+"Eutingen im Gäu hat fast anderthalbmal so viele Einwohner wie Empfingen."
+],
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Empfingen zum Landkreis Freudenstadt.",
+"Bondorf hat fast anderthalbmal so viele Einwohner wie Empfingen."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Empfingen zum Landkreis Freudenstadt.",
+"Gäufelden hat gut doppelt so viele Einwohner wie Empfingen."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Empfingen zum Landkreis Freudenstadt.",
+"Rottenburg am Neckar hat fast elfmal so viele Einwohner wie Empfingen."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Empfingen zum Landkreis Freudenstadt.",
+"Starzach und Empfingen sind fast gleich groß: rund 4.300 und 4.300 Einwohner."
+]
+},
+"ags": "08237024",
+"ortsteil": false,
+"km_vom_vorigen": 6.8
+},
+{
+"slug": "87-horb",
+"name": "Horb am Neckar",
+"lat": 48.445,
+"lon": 8.69111,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Horb am Neckar",
+"steckbrief": "Große Kreisstadt mit rund 25.700 Einwohnern, 38 km westlich von Reutlingen.",
+"frage": "Woher hat Horb nach der Stadtgeschichte seinen Namen?",
+"optionen": [
+"Der Name meint eine Anhöhe über dem Fluss.",
+"Der Name stammt von einem keltischen Flussnamen.",
+"Der Name beschreibt eine Furt durch den Neckar.",
+"Der Name kommt von einem Wort für Sumpf."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wo die Stiftskirche hoch oben über dem Neckar thront, liegt eine Anhöhe als Namensgeber nahe. Der Name geht aber auf die Beschreibung des Ortes als sumpfiges Gebiet zurück. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.horb.de/GeschichtlicherRueckblick",
+"faktencheck": "korrigiert",
+"id": "87-horb/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Horb am Neckar",
+"steckbrief": "Große Kreisstadt mit rund 25.700 Einwohnern, 38 km westlich von Reutlingen.",
+"frage": "Nach der Gebietsreform wurde Horb zur Flächenstadt. Wie groß ist das Stadtgebiet?",
+"optionen": [
+"unter 130 km²",
+"130 bis unter 180 km²",
+"180 bis unter 250 km²",
+"250 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt mit vielen eingemeindeten Dörfern schätzt man die Fläche leicht zu groß. Horb nennt sich selbst eine Flächenstadt, kommt aber auf 119,76 Quadratkilometer und bleibt damit unter der ersten Grenze. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "87-horb/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Horb am Neckar",
+"steckbrief": "Große Kreisstadt mit rund 25.700 Einwohnern, 38 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Graf von Hohenberg erlangte Horb durch Heirat.",
+"Ein Herzog von Württemberg verlieh Horb das Stadtrecht.",
+"Nach dem Preßburger Frieden kam Horb an Württemberg."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Herzog liegt nahe, weil Horb heute zu Baden-Württemberg gehört. Das Stadtrecht verlieh aber Pfalzgraf Rudolf II. von Tübingen. Später kam Horb an die Grafen von Hohenberg und durch Kauf an Österreich, an Württemberg erst nach dem Preßburger Frieden. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.horb.de/GeschichtlicherRueckblick",
+"faktencheck": "bestätigt",
+"id": "87-horb/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Horb am Neckar",
+"steckbrief": "Große Kreisstadt am Oberen Neckar mit rund 25.700 Einwohnern, 38 km westlich von Reutlingen.",
+"frage": "Wie hoch war die Wahlbeteiligung in Horb bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 80 %",
+"80 bis unter 86 %",
+"86 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele schätzen die Beteiligung niedriger, weil sie an frühere Wahlen mit weniger Andrang denken. Bei der Bundestagswahl 2025 gaben in Horb aber 83 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "87-horb/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Horb am Neckar",
+"steckbrief": "Große Kreisstadt mit rund 25.700 Einwohnern, 38 km westlich von Reutlingen.",
+"frage": "Im Juni 1498 unterzeichnete Herzog Eberhard II. von Württemberg in Horb eine Urkunde. Was regelte sie?",
+"optionen": [
+"Er gewährte Horb neue Marktrechte.",
+"Er erklärte einem Nachbarland den Krieg.",
+"Er stiftete der Stadt ein neues Kloster.",
+"Er verzichtete auf seine Herrschaft als Herzog."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Herzogsurkunde in einer Stadt klingt nach verbrieften Rechten. Tatsächlich dankte Eberhard II. in Horb ab. Er war wegen seiner Willkürherrschaft in Ungnade gefallen, und König Maximilian I. wirkte auf die Abdankung hin. Daran erinnern heute die Horber Ritterspiele. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.horb.de/GeschichtlicherRueckblick",
+"faktencheck": "bestätigt",
+"id": "87-horb/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Horb am Neckar",
+"steckbrief": "Große Kreisstadt mit rund 25.700 Einwohnern, 38 km westlich von Reutlingen.",
+"frage": "Horb pflegt eine Städtepartnerschaft mit einer Stadt in Frankreich. Mit welcher?",
+"optionen": [
+"Salins-les-Bains",
+"Lons-le-Saunier",
+"Aix-en-Provence",
+"Hyères"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Aix-en-Provence liegt nahe, weil man den Namen kennt. Horbs Partnerstadt in Frankreich ist aber Salins-les-Bains. Richtig war 1.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "87-horb/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Horb am Neckar",
+"steckbrief": "Große Kreisstadt mit rund 25.700 Einwohnern, 38 km westlich von Reutlingen.",
+"frage": "Um die Mitte des 15. Jahrhunderts kam wahrscheinlich in Horb ein Bildhauer zur Welt, der später in Nürnberg starb. Wer war es?",
+"optionen": [
+"Es war Tilman Riemenschneider.",
+"Es war Veit Stoß.",
+"Es war Adam Kraft.",
+"Es war Michel Erhart."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Adam Kraft liegt nahe, weil man ihn mit Nürnberg verbindet. Gesucht war aber Veit Stoß. Er kam um 1440/1450 wahrscheinlich in Horb zur Welt und starb 1533 in Nürnberg. Richtig war 2.",
+"quelle": "Neue Deutsche Biographie, deutsche-biographie.de/sfz81621.html",
+"faktencheck": "korrigiert",
+"id": "87-horb/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Horb am Neckar",
+"steckbrief": "Große Kreisstadt mit rund 25.700 Einwohnern, 38 km westlich von Reutlingen.",
+"frage": "Im Jahr 1725 suchte eine Katastrophe die Stadt Horb heim. Welche?",
+"optionen": [
+"Ein Erdbeben ließ Häuser einstürzen.",
+"Ein Hochwasser des Neckars riss Häuser fort.",
+"Ein großer Stadtbrand wütete in der Stadt.",
+"Ein Bergrutsch verschüttete Häuser."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Erdbeben liegt nahe, denn Südwestdeutschland kennt spürbare Erdbeben. Tatsächlich war es ein großer Stadtbrand, und es war nicht der erste in Horbs Geschichte. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.horb.de/GeschichtlicherRueckblick",
+"faktencheck": "korrigiert",
+"id": "87-horb/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Horb am Neckar",
+"steckbrief": "Große Kreisstadt mit rund 25.700 Einwohnern, 38 km westlich von Reutlingen.",
+"frage": "Der Kürschner Sebastian Lotzer wurde 1490 in Horb geboren. Wofür ist er bis heute bekannt?",
+"optionen": [
+"Er schrieb im Bauernkrieg Forderungen der Bauern nieder.",
+"Er stiftete der Stadt ihre Lateinschule.",
+"Er verteidigte Horb gegen ein feindliches Heer.",
+"Er brachte den Buchdruck nach Horb."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem berühmten Sohn der Stadt denkt man leicht an einen Stifter. Der in Horb geborene Lotzer gilt aber als Verfasser der Zwölf Artikel von 1525, der Forderungen der aufständischen Bauern. Richtig war 1.",
+"quelle": "Neue Deutsche Biographie, deutsche-biographie.de/sfz54480.html",
+"faktencheck": "korrigiert",
+"id": "87-horb/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "86-empfingen",
+"anschluss": [
+"Fläche: Horb ist mehr als sechsmal so groß wie Empfingen.",
+"Bundestagswahl 2025: Empfingen wählte stärker CDU als Horb."
+],
+"anschluesse": {
+"84-oberndorf": [
+"Kreisgrenze: Oberndorf am Neckar gehört zum Landkreis Rottweil, Horb am Neckar zum Landkreis Freudenstadt.",
+"Horb am Neckar hat gut anderthalbmal so viele Einwohner wie Oberndorf am Neckar."
+],
+"85-sulz": [
+"Kreisgrenze: Sulz am Neckar gehört zum Landkreis Rottweil, Horb am Neckar zum Landkreis Freudenstadt.",
+"Horb am Neckar hat doppelt so viele Einwohner wie Sulz am Neckar."
+],
+"86-empfingen": [
+"Fläche: Horb ist mehr als sechsmal so groß wie Empfingen.",
+"Bundestagswahl 2025: Empfingen wählte stärker CDU als Horb."
+],
+"88-eutingen": [
+"Horb am Neckar hat gut viermal so viele Einwohner wie Eutingen im Gäu."
+],
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Horb am Neckar zum Landkreis Freudenstadt.",
+"Horb am Neckar hat gut viermal so viele Einwohner wie Bondorf."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Horb am Neckar zum Landkreis Freudenstadt.",
+"Horb am Neckar hat fast dreimal so viele Einwohner wie Gäufelden."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Horb am Neckar zum Landkreis Freudenstadt.",
+"Rottenburg am Neckar hat fast doppelt so viele Einwohner wie Horb am Neckar."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Horb am Neckar zum Landkreis Freudenstadt.",
+"Horb am Neckar hat sechsmal so viele Einwohner wie Starzach."
+]
+},
+"ags": "08237040",
+"ortsteil": false,
+"km_vom_vorigen": 6.1
+},
+{
+"slug": "88-eutingen",
+"name": "Eutingen im Gäu",
+"lat": 48.47778,
+"lon": 8.75,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eutingen im Gäu",
+"steckbrief": "Rund 6.100 Einwohner, 34 km westlich von Reutlingen.",
+"frage": "Im Gemeindewappen von 1976 schwebt unten ein nackter silberner Arm auf Rot. Woher kommt er?",
+"optionen": [
+"Er erinnert an einen alten Gerichtseid.",
+"Er steht für die Handarbeit der Gäubauern.",
+"Er stammt aus dem Wappen eines Adelsgeschlechts.",
+"Er zeigt den Arm eines Ortsheiligen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein nackter Arm erinnert an eine Schwurhand, darum liegt ein alter Eid nahe. Tatsächlich gehörte er zum Wappen der Herren von Weitingen und wurde von dort ins neue Gemeindewappen übernommen. Der grüne Zweig stammt aus dem Wappen der Adelsfamilie Schütz vom Eutinger Tal. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.eutingen-im-gaeu.de/gemeinde-daten/zurueck-in-die-geschichte/wappen",
+"faktencheck": "korrigiert",
+"id": "88-eutingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Eutingen im Gäu",
+"steckbrief": "Rund 6.100 Einwohner im Oberen Gäu, 34 km westlich von Reutlingen.",
+"frage": "Auf welcher Höhe über dem Meer liegt Eutingen im Gäu?",
+"optionen": [
+"unter 200 m",
+"200 bis unter 300 m",
+"300 bis unter 400 m",
+"400 m und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer beim Gäu an flaches Ackerland denkt, schätzt leicht zu tief. Eutingen im Gäu liegt auf 450 Metern, der Ortsteil Göttelfingen sogar noch höher. Richtig war 4.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "88-eutingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Eutingen im Gäu",
+"steckbrief": "Rund 6.100 Einwohner, 34 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Fürst verkaufte Grundbesitz an Göttelfinger Bürger.",
+"Der Eutinger Kirchturm ist älter als die Kirche.",
+"Eutingen stand nie unter österreichischer Herrschaft."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Turm älter als seine Kirche klingt verkehrt, doch bei St. Stephanus ist genau das so. Gelogen war die Sache mit Österreich: Eutingen gehörte über Jahrhunderte zu Vorderösterreich, dem habsburgischen Besitz im Südwesten, bevor es an Württemberg kam. Fürst Constantin von Waldburg-Zeil verkaufte tatsächlich Grundbesitz an Göttelfinger Bürger. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.eutingen-im-gaeu.de/gemeinde-daten/zurueck-in-die-geschichte/geschichte-der-gemeinden",
+"faktencheck": "bestätigt",
+"id": "88-eutingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Eutingen im Gäu",
+"steckbrief": "Rund 6.100 Einwohner, ländlich gelegen, 34 km westlich von Reutlingen.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Eutingen im Gäu bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 30 %",
+"30 bis unter 38 %",
+"38 bis unter 46 %",
+"46 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im ländlichen Baden-Württemberg erwarten viele ein noch deutlicheres CDU-Ergebnis. In Eutingen im Gäu holte die CDU 36,3 Prozent der Zweitstimmen und lag damit klar vor der AfD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "88-eutingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eutingen im Gäu",
+"steckbrief": "Rund 6.100 Einwohner, 34 km westlich von Reutlingen.",
+"frage": "Eutingen ist erstmals 768 schriftlich belegt. Worum ging es in diesem Eintrag?",
+"optionen": [
+"Ein König ließ dort Abgaben verzeichnen.",
+"Ein Grenzstreit zweier Grafen wurde festgehalten.",
+"Eine Schenkung an ein Kloster wurde festgehalten.",
+"Ein Bischof weihte dort eine Kirche."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Kirchweihe liegt nahe, weil viele Dorfgeschichten mit der Kirche beginnen. Eutingen taucht aber bei einer Schenkung an das Kloster Lorsch auf. Auch der Ortsteil Rohrdorf ist im Lorscher Schenkungsbuch genannt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.eutingen-im-gaeu.de/gemeinde-daten/zurueck-in-die-geschichte/geschichte-der-gemeinden",
+"faktencheck": "bestätigt",
+"id": "88-eutingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Eutingen im Gäu",
+"steckbrief": "Rund 6.100 Einwohner, 34 km westlich von Reutlingen.",
+"frage": "Wie weit ist es von Eutingen im Gäu Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 20 km",
+"20 bis unter 30 km",
+"30 bis unter 40 km",
+"40 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eutingen im Gäu liegt am Rande des Verdichtungsraums Mittlerer Neckar, da wirkt Stuttgart nah. Luftlinie sind es aber 46 Kilometer, mehr als bis Reutlingen. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "88-eutingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Eutingen im Gäu",
+"steckbrief": "Rund 6.100 Einwohner, 34 km westlich von Reutlingen.",
+"frage": "Vor dem Großbrand von 1685 standen in Eutingen über 160 Gebäude. Wie viele davon blieben verschont?",
+"optionen": [
+"unter 40",
+"40 bis unter 80",
+"80 bis unter 120",
+"120 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Dorfbrand denkt man an einzelne Höfe, darum schätzen viele hoch. In Eutingen brannte aber fast der ganze Ort ab: Nur 30 Gebäude blieben verschont. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.eutingen-im-gaeu.de/gemeinde-daten/zurueck-in-die-geschichte/geschichte-der-gemeinden",
+"faktencheck": "bestätigt",
+"id": "88-eutingen/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "87-horb",
+"anschluss": [
+"Eutingen im Gäu gehörte früher zum Oberamt Horb, später zum Landkreis Horb.",
+"Wahlbeteiligung 2025: Eutingen im Gäu 87,2 Prozent, Horb am Neckar 83 Prozent."
+],
+"anschluesse": {
+"85-sulz": [
+"Kreisgrenze: Sulz am Neckar gehört zum Landkreis Rottweil, Eutingen im Gäu zum Landkreis Freudenstadt.",
+"Sulz am Neckar hat gut doppelt so viele Einwohner wie Eutingen im Gäu."
+],
+"86-empfingen": [
+"Eutingen im Gäu hat fast anderthalbmal so viele Einwohner wie Empfingen."
+],
+"87-horb": [
+"Eutingen im Gäu gehörte früher zum Oberamt Horb, später zum Landkreis Horb.",
+"Wahlbeteiligung 2025: Eutingen im Gäu 87,2 Prozent, Horb am Neckar 83 Prozent."
+],
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
+"Bondorf und Eutingen im Gäu sind fast gleich groß: rund 6.200 und 6.100 Einwohner."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
+"Gäufelden hat anderthalbmal so viele Einwohner wie Eutingen im Gäu."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
+"Herrenberg hat fast sechsmal so viele Einwohner wie Eutingen im Gäu."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
+"Ammerbuch hat fast doppelt so viele Einwohner wie Eutingen im Gäu."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
+"Rottenburg am Neckar hat gut siebenmal so viele Einwohner wie Eutingen im Gäu."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Eutingen im Gäu zum Landkreis Freudenstadt.",
+"Eutingen im Gäu hat fast anderthalbmal so viele Einwohner wie Starzach."
+]
+},
+"ags": "08237027",
+"ortsteil": false,
+"km_vom_vorigen": 5.7
+},
+{
+"slug": "89-bondorf",
+"name": "Bondorf",
+"lat": 48.51667,
+"lon": 8.83333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bondorf",
+"steckbrief": "Bondorf ist eine Gemeinde mit rund 6.200 Einwohnern, 27 km westlich von Reutlingen.",
+"frage": "Woher hat Bondorf seinen Namen, wenn man der Ortsgeschichte der Gemeinde folgt?",
+"optionen": [
+"Der Name kommt von Bohnenfeldern ums Dorf.",
+"Der Name kommt von einer auffallenden Baumgruppe.",
+"Der Name kommt von einem Dorfbrunnen.",
+"Der Name kommt von einem Bund mehrerer Höfe."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bohnen liegen nahe, denn so klingt der heutige Name. Die Ortsgeschichte der Gemeinde nennt eine andere Herkunft: Ursprünglich hieß der Ort Baumdorf, benannt nach einer auffallenden Baumgruppe. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bondorf.de/unsere-gemeinde/geschichtliches",
+"faktencheck": "bestätigt",
+"id": "89-bondorf/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bondorf",
+"steckbrief": "Bondorf ist eine Gemeinde mit rund 6.200 Einwohnern, 27 km westlich von Reutlingen.",
+"frage": "Wie viele Einwohner leben in Bondorf auf einem Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 300",
+"300 bis unter 500",
+"500 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Gemeinde dieser Größe denkt man leicht an locker besiedeltes Land. Doch rund 6.200 Menschen leben auf nur 17,55 Quadratkilometern; das ergibt 353 Einwohner je Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "89-bondorf/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bondorf",
+"steckbrief": "Bondorf ist eine Gemeinde mit rund 6.200 Einwohnern, 27 km westlich von Reutlingen.",
+"frage": "Bondorf hat mehrmals gebrannt. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"1685 legten durchziehende Soldaten Feuer im Dorf.",
+"1815 löschten Bondorfer das Feuer, bevor es die Kirche erreichte.",
+"1559 brannte Bondorf samt Kirche und Turm ab."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Soldaten liegen nahe, denn in Kriegen gingen viele Dörfer in Flammen auf. Den Brand von 1685 löste jedoch ein Blitzschlag aus. 1559 brannte Bondorf samt Kirche und Turm ab, 1815 löschten mutige Bondorfer das Feuer, bevor es die Kirche erreichte. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.bondorf.de/unsere-gemeinde/geschichtliches",
+"faktencheck": "korrigiert",
+"id": "89-bondorf/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Bondorf",
+"steckbrief": "Bondorf ist eine Gemeinde mit rund 6.200 Einwohnern, 27 km westlich von Reutlingen.",
+"frage": "Welche Partei wurde in Bondorf bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"SPD",
+"GRÜNE",
+"FDP"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt nahe, denn sie war lange die zweite große Volkspartei. In Bondorf kam hinter der CDU mit 34 Prozent aber die AfD mit 18,9 Prozent. SPD und Grüne folgten gleichauf mit je 12,6 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "89-bondorf/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bondorf",
+"steckbrief": "Bondorf ist eine Gemeinde mit rund 6.200 Einwohnern, 27 km westlich von Reutlingen.",
+"frage": "Ab 1810 gehörte Bondorf zum Oberamt Herrenberg. Zu welchem Amt gehörte es vorher, ab 1363?",
+"optionen": [
+"Bondorf gehörte zum Amt Sindelfingen.",
+"Bondorf gehörte zum Amt Nagold.",
+"Bondorf gehörte zum Amt Leonberg.",
+"Bondorf gehörte zum Amt Calw."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Sindelfingen oder Leonberg liegen nahe, denn Bondorf gehört heute zum Landkreis Böblingen. Doch von 1363 bis 1810 zählte es zum Amt Nagold; davor waren die Grafen des Nagoldgaus Landesherren. Zum Kreis Böblingen kam Bondorf erst viel später. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bondorf.de/unsere-gemeinde/geschichtliches",
+"faktencheck": "bestätigt",
+"id": "89-bondorf/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bondorf",
+"steckbrief": "Bondorf ist eine Gemeinde mit rund 6.200 Einwohnern, 27 km westlich von Reutlingen.",
+"frage": "Wie weit ist es von Bondorf in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 20 km",
+"20 bis unter 30 km",
+"30 bis unter 50 km",
+"50 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Weil Bondorf zum Landkreis Böblingen gehört, denkt man leicht an Stuttgarts Vorortgürtel. Doch Bondorf liegt im Oberen Gäu am Südrand des Kreises. Bis Stuttgart sind es 39 Kilometer Luftlinie. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "89-bondorf/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bondorf",
+"steckbrief": "Bondorf ist eine Gemeinde mit rund 6.200 Einwohnern, 27 km westlich von Reutlingen.",
+"frage": "Bei Bondorf stand in römischer Zeit ein großer Gutshof. Was liegt heute über seinen Resten?",
+"optionen": [
+"Das Rathaus in der Hindenburgstraße steht darauf.",
+"Die Golfanlage Niederreutin liegt darüber.",
+"Das Arboretum Bernloch wächst darauf.",
+"Eine Ausfahrt der Autobahn A 81 liegt darüber."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Den Ortskern hält man leicht für den Platz, wo schon die Römer siedelten. Der Gutshof mit Haupt- und Badegebäude und Tempel liegt aber unter der Autobahnausfahrt Rottenburg/Bondorf der A 81. Die Erzeugnisse waren auch für den Verkauf in Sumelocenna, dem heutigen Rottenburg, gedacht. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.bondorf.de/unsere-gemeinde/geschichtliches",
+"faktencheck": "korrigiert",
+"id": "89-bondorf/v0.8/7",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bondorf",
+"steckbrief": "Bondorf ist eine Gemeinde mit rund 6.200 Einwohnern, 27 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Untergeschoss des Rathauses war früher eine Apotheke.",
+"Das Rathaus ist eine umgebaute alte Zehntscheuer.",
+"Die Gäuhalle ist eine Mehrzweckhalle fürs Vereinsleben."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine alte Zehntscheuer als Rathaus klingt glaubhaft, viele Orte nutzen solche Bauten neu. Bondorfs Rathaus in der Hindenburgstraße ist aber ein Neubau, in dessen Untergeschoss anfangs eine Apotheke lag. Das Vereins- und Kulturzentrum Zehntscheuer ist dagegen ein umgestaltetes bäuerliches Anwesen. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.bondorf.de/unsere-gemeinde/geschichtliches",
+"faktencheck": "bestätigt",
+"id": "89-bondorf/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "88-eutingen",
+"anschluss": [
+"Einwohner: Bondorf und Eutingen im Gäu haben fast gleich viele.",
+"Kennzeichen: In Bondorf steht BB, in Eutingen im Gäu FDS."
+],
+"anschluesse": {
+"86-empfingen": [
+"Kreisgrenze: Empfingen gehört zum Landkreis Freudenstadt, Bondorf zum Landkreis Böblingen.",
+"Bondorf hat fast anderthalbmal so viele Einwohner wie Empfingen."
+],
+"87-horb": [
+"Kreisgrenze: Horb am Neckar gehört zum Landkreis Freudenstadt, Bondorf zum Landkreis Böblingen.",
+"Horb am Neckar hat gut viermal so viele Einwohner wie Bondorf."
+],
+"88-eutingen": [
+"Einwohner: Bondorf und Eutingen im Gäu haben fast gleich viele.",
+"Kennzeichen: In Bondorf steht BB, in Eutingen im Gäu FDS."
+],
+"90-gaeufelden": [
+"Gäufelden hat anderthalbmal so viele Einwohner wie Bondorf."
+],
+"91-herrenberg": [
+"Herrenberg hat fast sechsmal so viele Einwohner wie Bondorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Herrenberg die Grünen, in Bondorf die AfD."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Ammerbuch hat fast doppelt so viele Einwohner wie Bondorf."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Bondorf die CDU."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Rottenburg am Neckar hat gut siebenmal so viele Einwohner wie Bondorf."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Bondorf zum Landkreis Böblingen.",
+"Bondorf hat fast anderthalbmal so viele Einwohner wie Starzach."
+]
+},
+"ags": "08115004",
+"ortsteil": false,
+"km_vom_vorigen": 7.5
+},
+{
+"slug": "90-gaeufelden",
+"name": "Gäufelden",
+"lat": 48.55278,
+"lon": 8.81917,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gäufelden",
+"steckbrief": "Gäufelden, zu dem Tailfingen gehört, hat rund 9.200 Einwohner und liegt 29 km westlich von Reutlingen.",
+"frage": "Bei Tailfingen lag einst ein schöner Eichenwald, die Tailfinger Mark. Was wurde aus ihm?",
+"optionen": [
+"Er musste einem Flughafen weichen.",
+"Er wurde für Hopfengärten gerodet.",
+"Er fiel einem großen Waldbrand zum Opfer.",
+"Er wurde für einen Steinbruch abgeholzt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Hopfen liegt nahe, denn Tailfingen war einst Mittelpunkt des Hopfenanbaus im Gäu. Doch die Tailfinger Mark verschwand auf andere Weise: Im Zweiten Weltkrieg wurde der schöne Eichenwald zerstört, als dort ein Einsatzflughafen entstand, ein Flugplatz für den Kriegsbetrieb. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gaeufelden.de/gemeinde-gaeufelden/ortsteile-geschichte/tailfingen",
+"faktencheck": "bestätigt",
+"id": "90-gaeufelden/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gäufelden",
+"steckbrief": "Gäufelden ist rund 20 km² groß und liegt 29 km westlich von Reutlingen.",
+"frage": "Wie viele Einwohner hat die Gemeinde Gäufelden?",
+"optionen": [
+"unter 5.000",
+"5.000 bis unter 10.000",
+"10.000 bis unter 20.000",
+"20.000 oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Gemeinde im ländlichen Gäu klingt nach wenigen tausend Menschen, daher liegt eine kleinere Spanne nahe. Doch Gäufelden zählt 9.199 Einwohner, Stand 31.12.2025. Seit der Gründung der Gemeinde hat sich die Zahl mehr als verdoppelt. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "90-gaeufelden/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gäufelden",
+"steckbrief": "Gäufelden hat rund 9.200 Einwohner und liegt 29 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Öschelbronn entstand einst aus Ober- und Unteröschelbronn.",
+"Einer der Ortsteile heißt ebenfalls Gäufelden.",
+"Der Bahnhalt Gäufelden liegt im Ortsteil Nebringen."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Oft trägt eine Gemeinde den Namen eines ihrer Dörfer, daher klingt das glaubhaft. Gäufelden aber entstand durch den freiwilligen Zusammenschluss der bis dahin selbständigen Gemeinden Nebringen, Öschelbronn und Tailfingen. Das sind auch die Ortsteile; einer namens Gäufelden ist nicht darunter. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.gaeufelden.de/gemeinde-gaeufelden/ortsteile-geschichte/gaeufelden",
+"faktencheck": "bestätigt",
+"id": "90-gaeufelden/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gäufelden",
+"steckbrief": "Gäufelden hat rund 9.200 Einwohner und liegt 29 km westlich von Reutlingen im Landkreis Böblingen.",
+"frage": "Wie hoch war die Wahlbeteiligung in Gäufelden bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 80 %",
+"80 bis unter 84 %",
+"84 % oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Kleine Gemeinden auf dem Land hält man leicht für wahlmüde, daher liegen niedrigere Spannen nahe. In Gäufelden betrug die Wahlbeteiligung bei der Bundestagswahl 2025 aber 86,1 Prozent. Stärkste Partei wurde die CDU mit 34,7 Prozent, vor der AfD. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "90-gaeufelden/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gäufelden",
+"steckbrief": "Gäufelden, zu dem Nebringen gehört, hat rund 9.200 Einwohner und liegt 29 km westlich von Reutlingen.",
+"frage": "Die Nebringer tragen den schwäbischen Spitznamen „Spältlesgückeler“. Wie kam er zustande?",
+"optionen": [
+"Ein neugieriger Bauer spähte durch Spalten seiner Fensterläden.",
+"Die Nebringer spalteten Brennholz für die Nachbardörfer.",
+"Wächter spähten durch Mauerritzen nach Feinden.",
+"Die Kirche hatte nur schmale Fensterspalten."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. „Spältle“ und „gückeln“ klingen nach Spalten und Gucken, da denkt man an Holzspalten oder Mauerritzen. Zurückzuführen ist der Name aber wohl auf einen „wunderfitzigen“, also neugierigen Bauern: Er beobachtete das Geschehen durch die Spalten seiner Fensterläden und tat es im ganzen Ort kund. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gaeufelden.de/gemeinde-gaeufelden/ortsteile-geschichte/nebringen",
+"faktencheck": "korrigiert",
+"id": "90-gaeufelden/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gäufelden",
+"steckbrief": "Gäufelden hat rund 9.200 Einwohner und liegt 29 km westlich von Reutlingen.",
+"frage": "Wie weit ist es von Gäufelden in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 25 km",
+"25 bis unter 45 km",
+"45 bis unter 70 km",
+"70 km oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer Gäufelden bei Reutlingen verortet, schiebt Stuttgart gern weiter weg. Doch die Landeshauptstadt liegt nur 37 Kilometer Luftlinie entfernt, kaum weiter als Reutlingen. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "90-gaeufelden/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gäufelden",
+"steckbrief": "Gäufelden, zu dem Tailfingen gehört, hat rund 9.200 Einwohner und liegt 29 km westlich von Reutlingen.",
+"frage": "Die Tailfinger tragen den schwäbischen Spitznamen „Wiesespreazer“. Woher kommt er?",
+"optionen": [
+"Sie mähten ihre Wiesen stets als Erste im Gäu.",
+"Ihr Bach überschwemmte jedes Frühjahr die Wiesen.",
+"Zecher spotteten über einen großen Wassermangel.",
+"Ein Flurname „Spreaz“ am Ortsrand gab ihn ihnen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. „Spreza“ ist schwäbisch für das Besprengen von Wiesen und Feldern. Der Spott hat einen trockenen Anlass: 1935 herrschte in Tailfingen großer Wassermangel. Muntere Zecher aus den Nachbarorten erzählten, die Tailfinger hätten Mann, Frau, Kind und Vieh losgeschickt, um der Wassernot abzuhelfen, und zwar durch Pinkeln. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gaeufelden.de/gemeinde-gaeufelden/ortsteile-geschichte/tailfingen und www.gaeufelden.de/freizeit-kultur/kunst-kultur/kleindenkmalpfad/kleindenkmale-in-tailfingen (Negativnachweis für die neuen Optionen 1 und 4: Weg (c). Beide Gemeindeseiten nennen genau eine Herkunft des Spitznamens, den Spott über den Wassermangel. Die Rückseite hat jetzt 51 Wörter.)",
+"faktencheck": "korrigiert",
+"id": "90-gaeufelden/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gäufelden",
+"steckbrief": "Gäufelden, zu dem Tailfingen gehört, hat rund 9.200 Einwohner und liegt 29 km westlich von Reutlingen.",
+"frage": "Das Gäufelder Wappen zeigt einen silbernen Kelch. Woher wurde er übernommen?",
+"optionen": [
+"Er stammt aus dem Siegel des Klosters Bebenhausen.",
+"Er stammt vom früheren Gemeindestempel Tailfingens.",
+"Er stammt vom Grabstein eines Tailfinger Ortsadligen.",
+"Er stammt vom Schild einer Tailfinger Brauerei."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Kelch wirkt kirchlich, und Klöster wie Bebenhausen hatten Besitz in Tailfingen. Den Klosterbezug trägt im Wappen aber der Abtsstab aus Öschelbronn und Nebringen. Der Kelch stammt vom Farbdruckstempel der früheren Gemeinde Tailfingen, einem Stempel für farbige Abdrucke. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gaeufelden.de/gemeinde-gaeufelden/ortsteile-geschichte/wappen",
+"faktencheck": "korrigiert",
+"id": "90-gaeufelden/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "89-bondorf",
+"anschluss": [
+"Einwohner: Gäufelden hat rund 9.200, Bondorf rund 6.200.",
+"Katholiken in Gäufelden und Bondorf gehören zur selben Kirchengemeinde."
+],
+"anschluesse": {
+"86-empfingen": [
+"Kreisgrenze: Empfingen gehört zum Landkreis Freudenstadt, Gäufelden zum Landkreis Böblingen.",
+"Gäufelden hat gut doppelt so viele Einwohner wie Empfingen."
+],
+"87-horb": [
+"Kreisgrenze: Horb am Neckar gehört zum Landkreis Freudenstadt, Gäufelden zum Landkreis Böblingen.",
+"Horb am Neckar hat fast dreimal so viele Einwohner wie Gäufelden."
+],
+"88-eutingen": [
+"Kreisgrenze: Eutingen im Gäu gehört zum Landkreis Freudenstadt, Gäufelden zum Landkreis Böblingen.",
+"Gäufelden hat anderthalbmal so viele Einwohner wie Eutingen im Gäu."
+],
+"89-bondorf": [
+"Einwohner: Gäufelden hat rund 9.200, Bondorf rund 6.200.",
+"Katholiken in Gäufelden und Bondorf gehören zur selben Kirchengemeinde."
+],
+"91-herrenberg": [
+"Herrenberg hat gut dreieinhalbmal so viele Einwohner wie Gäufelden.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Herrenberg die Grünen, in Gäufelden die AfD."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Ammerbuch hat rund 2.200 Einwohner mehr als Gäufelden."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Gäufelden die CDU."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Rottenburg am Neckar hat fünfmal so viele Einwohner wie Gäufelden."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Gäufelden zum Landkreis Böblingen.",
+"Gäufelden hat gut doppelt so viele Einwohner wie Starzach."
+]
+},
+"ags": "08115016",
+"ortsteil": false,
+"km_vom_vorigen": 4.1
+},
+{
+"slug": "91-herrenberg",
+"name": "Herrenberg",
+"lat": 48.59667,
+"lon": 8.87083,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herrenberg",
+"steckbrief": "Stadt mit rund 34.000 Einwohnern, 27 km nordwestlich von Reutlingen.",
+"frage": "Herrenberg entstand am Fuß einer Burg. Wer wurde dort nach der Stadtgeschichte angesiedelt, und wozu?",
+"optionen": [
+"Bergleute bauten im Schlossberg Erz ab.",
+"Köhler brannten Holzkohle aus dem Schönbuchwald.",
+"Glasmacher nutzten das Holz der Wälder.",
+"Winzer bewirtschafteten von dort die herrschaftlichen Weinberge."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Ort namens Herrenberg lässt an Bergbau denken, und Wälder gibt es ringsum. Die Stadtgeschichte nennt Winzer: Dorfbewohner aus Reistingen und Mühlhausen wurden am Fuß der Burg angesiedelt, um sich besser um die herrschaftlichen Weinberge zu kümmern. Davon dürfte auch der Name herrühren: „meines Herren Berg“. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches",
+"faktencheck": "korrigiert",
+"id": "91-herrenberg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Herrenberg",
+"steckbrief": "Stadt mit rund 34.000 Einwohnern, 27 km nordwestlich von Reutlingen.",
+"frage": "Wie groß ist das Stadtgebiet von Herrenberg samt seinen Stadtteilen?",
+"optionen": [
+"unter 70 km²",
+"70 bis unter 100 km²",
+"100 bis unter 140 km²",
+"140 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt dieser Größe mit mehreren eingemeindeten Dörfern lässt eine weitläufige Fläche erwarten. Tatsächlich misst das Stadtgebiet nur 65,7 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "91-herrenberg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Herrenberg",
+"steckbrief": "Stadt mit rund 34.000 Einwohnern, 27 km nordwestlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Erfinder Wilhelm Schickard wurde in Herrenberg geboren.",
+"Zur Zeit des zweiten großen Stadtbrands wütete auch die Pest.",
+"Herrenberg kam durch eine Heirat an Württemberg."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Heirat war im Mittelalter ein üblicher Weg, Land zu gewinnen. Doch die Grafen von Württemberg kauften Herrschaft und Stadt Herrenberg. Schickard wurde tatsächlich in Herrenberg geboren, und zur Zeit des zweiten großen Stadtbrands wütete auch die Pest. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches",
+"faktencheck": "korrigiert",
+"id": "91-herrenberg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Herrenberg",
+"steckbrief": "Stadt mit rund 34.000 Einwohnern, 27 km nordwestlich von Reutlingen und 31 km von Stuttgart.",
+"frage": "Bei der Bundestagswahl 2025 wurde die CDU in Herrenberg stärkste Partei. Welchen Anteil der Zweitstimmen erreichte sie?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 30 %",
+"30 bis unter 35 %",
+"35 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die CDU gilt im ländlichen Württemberg als stark, viele tippen deshalb höher. In Herrenberg kam sie bei den Zweitstimmen auf 32,8 Prozent, die Grünen landeten auf Platz zwei. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "91-herrenberg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herrenberg",
+"steckbrief": "Stadt mit rund 34.000 Einwohnern, 27 km nordwestlich von Reutlingen.",
+"frage": "Im Bebenhäuser Klosterhof saß im 20. Jahrhundert die „Knopflochkaserne“, wie der Volksmund sagte. Was war mit dem Spitznamen gemeint?",
+"optionen": [
+"Eine Kaserne mit eigener Uniformschneiderei.",
+"Eine Fabrik für Knöpfe und Ösen.",
+"Eine Näherei, in der Häftlinge Kleidung für den Staat nähten.",
+"Eine Schule für Frauen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. „Kaserne“ lässt an Soldaten denken, „Knopfloch“ an Uniformen. Gemeint war aber die Frauenarbeitsschule im ehemaligen Pfleghof des Klosters Bebenhausen. Dort sammelte das Kloster einst die Erträge seiner Ländereien. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.herrenberg.de/de/klosterhof-geschichte",
+"faktencheck": "korrigiert",
+"id": "91-herrenberg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Herrenberg",
+"steckbrief": "Stadt mit rund 34.000 Einwohnern, 27 km nordwestlich von Reutlingen.",
+"frage": "Zu welchem Landkreis gehört Herrenberg?",
+"optionen": [
+"Böblingen",
+"Tübingen",
+"Calw",
+"Reutlingen"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Tübingen liegt nah, und die Ammertalbahn verbindet Herrenberg mit der Universitätsstadt. Doch Herrenberg gehört zum Landkreis Böblingen; das Hauptkennzeichen ist BB. Richtig war 1.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "91-herrenberg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Herrenberg",
+"steckbrief": "Stadt mit rund 34.000 Einwohnern, 27 km nordwestlich von Reutlingen.",
+"frage": "Wie viele Einwohner zählte Herrenberg im Jahr 1939?",
+"optionen": [
+"unter 2.000",
+"2.000 bis unter 5.000",
+"5.000 bis unter 10.000",
+"10.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer die heutige Größe und die stattliche Altstadt sieht, schätzt leicht zu hoch. 1939 zählte Herrenberg nur 3.725 Einwohner. Gewachsen ist die Stadt danach, auch durch die Eingemeindung umliegender Dörfer. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches",
+"faktencheck": "bestätigt",
+"id": "91-herrenberg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Herrenberg",
+"steckbrief": "Stadt mit rund 34.000 Einwohnern, 27 km nordwestlich von Reutlingen.",
+"frage": "Der Maler Jerg Ratgeb schuf den Hochaltar der Herrenberger Stiftskirche. Wie endete sein Leben?",
+"optionen": [
+"Er starb verarmt und vergessen in einem Spital.",
+"Er starb auf einer Reise an der Pest.",
+"Er beteiligte sich am Bauernkrieg und wurde hingerichtet.",
+"Er stürzte beim Malen von einem Kirchengerüst."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Altarmaler, das klingt nach einem stillen Leben im Dienst der Kirche. Doch Ratgeb beteiligte sich am Bauernkrieg, wurde zum Tode verurteilt und durch Vierteilung hingerichtet. Sein Herrenberger Altar befindet sich heute in der Staatsgalerie Stuttgart. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtportrait/Persoenlichkeiten",
+"faktencheck": "korrigiert",
+"id": "91-herrenberg/v0.8/8",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Herrenberg",
+"steckbrief": "Stadt mit rund 34.000 Einwohnern, 27 km nordwestlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Schlossberg rutscht langsam auf die Altstadt zu.",
+"Herrenberg bekam erst nach dem Zweiten Weltkrieg Gleise.",
+"Der Theologe Johann Valentin Andreae wurde in Herrenberg geboren."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein rutschender Berg klingt erfunden, stimmt aber: Der Schlossberg bewegt sich auf die Altstadt zu. Gelogen war der späte Bahnanschluss. Die Gäubahn von Stuttgart über Herrenberg nach Freudenstadt fuhr schon lange vor den Weltkriegen. Andreae wurde tatsächlich in Herrenberg geboren. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.herrenberg.de/de/Stadtleben/Die-Stadt/Sehenswert und …/Historisches; LEO-BW, www.leo-bw.de (Johann Valentin Andreae)",
+"faktencheck": "korrigiert",
+"id": "91-herrenberg/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "90-gaeufelden",
+"anschluss": [
+"Fläche: Herrenberg ist gut dreimal so groß wie Gäufelden.",
+"Bundestagswahl 2025: Herrenberg wählte Grüne auf Platz zwei, Gäufelden AfD."
+],
+"anschluesse": {
+"88-eutingen": [
+"Kreisgrenze: Eutingen im Gäu gehört zum Landkreis Freudenstadt, Herrenberg zum Landkreis Böblingen.",
+"Herrenberg hat fast sechsmal so viele Einwohner wie Eutingen im Gäu."
+],
+"89-bondorf": [
+"Herrenberg hat fast sechsmal so viele Einwohner wie Bondorf.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bondorf die AfD, in Herrenberg die Grünen."
+],
+"90-gaeufelden": [
+"Fläche: Herrenberg ist gut dreimal so groß wie Gäufelden.",
+"Bundestagswahl 2025: Herrenberg wählte Grüne auf Platz zwei, Gäufelden AfD."
+],
+"92-ammerbuch": [
+"Kreisgrenze: Ammerbuch gehört zum Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Herrenberg hat dreimal so viele Einwohner wie Ammerbuch."
+],
+"93-tuebingen": [
+"Kreisgrenze: Tübingen gehört zum Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Herrenberg die CDU."
+],
+"94-rottenburg": [
+"Kreisgrenze: Rottenburg am Neckar gehört zum Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Rottenburg am Neckar hat rund 11.000 Einwohner mehr als Herrenberg."
+],
+"95-starzach": [
+"Kreisgrenze: Starzach gehört zum Landkreis Tübingen, Herrenberg zum Landkreis Böblingen.",
+"Herrenberg hat achtmal so viele Einwohner wie Starzach."
+]
+},
+"ags": "08115021",
+"ortsteil": false,
+"km_vom_vorigen": 6.2
+},
+{
+"slug": "92-ammerbuch",
+"name": "Ammerbuch",
+"lat": 48.55444,
+"lon": 8.96694,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ammerbuch",
+"steckbrief": "Gemeinde mit rund 11.400 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Die evangelische Kirche in Reusten, einem Ortsteil, ist innen breiter als lang. Was war das Gebäude, bevor es zur Kirche umgebaut wurde?",
+"optionen": [
+"Es war vorher eine Mühle.",
+"Es war vorher ein Rathaus.",
+"Es war vorher eine Kelter.",
+"Es war vorher ein Wirtshaus."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Mühle liegt nahe, denn Reusten liegt an der Ammer. Doch das Gebäude war eine Kelter, ein Presshaus für Trauben. Die alte Bergkirche war baufällig, Herzog Karl genehmigte den Umbau der Kelter. Die Emporenbilder stammen vermutlich aus der abgerissenen Bergkirche. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/historische-kirchengebaeude",
+"faktencheck": "korrigiert",
+"id": "92-ammerbuch/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ammerbuch",
+"steckbrief": "Gemeinde aus sechs Ortsteilen mit rund 11.400 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Wie groß ist die Gemarkung der Gemeinde Ammerbuch?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 30 km²",
+"30 bis unter 45 km²",
+"45 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei dieser Einwohnerzahl liegt eine kleine Fläche nahe. Doch Ammerbuch entstand aus dem Zusammenschluss mehrerer Gemeinden, und jede brachte ihre Gemarkung mit. Zusammen sind es 48,04 km². Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "92-ammerbuch/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Ammerbuch",
+"steckbrief": "Gemeinde mit rund 11.400 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Das Wasserschloss im Ortsteil Poltringen zählt zu den Sehenswürdigkeiten Ammerbuchs. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Nach einer Gasexplosion wurde das Schloss abgerissen.",
+"Auf dem Schlossgelände gab es einst eine öffentliche Gemeindewaschküche.",
+"Heinrich Schickhardt baute das Schloss im Renaissancestil um."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Waschküche klingt erfunden, gerade in einem Schloss, das Heinrich Schickhardt im Renaissancestil umbaute. Doch das Schloss gehörte lange der Gemeinde und diente auch als Schule. Eine Gasexplosion zerstörte zwar einen Eckturm, abgerissen wurde es aber nicht: Ein privater Investor kaufte und renovierte es, darin entstanden Privatwohnungen. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/wasserschloss-poltringen",
+"faktencheck": "korrigiert",
+"id": "92-ammerbuch/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Ammerbuch",
+"steckbrief": "Gemeinde im Landkreis Tübingen mit rund 11.400 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Welche Partei lag bei der Bundestagswahl 2025 in Ammerbuch nach Zweitstimmen auf Platz zwei?",
+"optionen": [
+"AfD",
+"GRÜNE",
+"SPD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die AfD liegt nahe, denn sie wurde bei dieser Wahl vielerorts Zweite. In Ammerbuch, im Landkreis Tübingen, lagen aber die Grünen mit 19 % auf Platz zwei, hinter der CDU mit 32,3 % und vor der AfD mit 15,7 %. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "92-ammerbuch/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ammerbuch",
+"steckbrief": "Gemeinde mit rund 11.400 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Ritter Jörg von Ehingen, geboren auf Schloss Hohenentringen, schrieb seine Lebensgeschichte auf. Wo hatte er laut Buchtitel einen Kampf ausgetragen?",
+"optionen": [
+"Er kämpfte bei der Stadt Tunis in Afrika.",
+"Er kämpfte bei der Stadt Konstantinopel.",
+"Er kämpfte bei der Stadt Sept in Afrika.",
+"Er kämpfte bei der Stadt Riga im Baltikum."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Konstantinopel liegt nahe, denn der Ritter pilgerte nach Rhodos und Jerusalem. Sein Buchtitel nennt aber einen Kampf bei der Stadt Sept in Affrica. Er reiste auch nach England und Spanien, wurde Ritter vom Heiligen Grab, Tübinger Obervogt und enger Vertrauter des Grafen Eberhard im Bart. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/schloss-hohenentringen",
+"faktencheck": "bestätigt",
+"id": "92-ammerbuch/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ammerbuch",
+"steckbrief": "Gemeinde mit rund 11.400 Einwohnern im Ammertal am Rand des Schönbuchs, 19 km westlich von Reutlingen.",
+"frage": "Wie viele Einwohner leben in Ammerbuch im Durchschnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 160",
+"160 bis unter 220",
+"220 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Felder, Wald und Dörfer am Schönbuch lassen eine dünne Besiedlung vermuten. Doch auf 48,04 km² leben 11.386 Menschen, das ergibt rund 237 Einwohner je km². Richtig war 4.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "92-ammerbuch/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ammerbuch",
+"steckbrief": "Gemeinde mit rund 11.400 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Im Jahr 1417 lebten fünf Ritter mit ihren Familien gemeinsam auf Schloss Hohenentringen. Wie viele Kinder wohnten dort?",
+"optionen": [
+"Es waren 100 Kinder.",
+"Es waren 60 Kinder.",
+"Es waren 35 Kinder.",
+"Es waren 15 Kinder."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Handvoll Ritterfamilien liegt eine kleinere Zahl nahe. Die Ortsgeschichte nennt aber 100 Kinder auf Hohenentringen. Die Ritter stammten aus den Familien von Hailfingen, Ehingen und Gültlingen. Es wird berichtet, dass die Familien sonntags gemeinsam zur Kirche nach Entringen zogen; ein Bild von Gunhild von Ow zeigt diesen Zug, wie sie ihn sich vorstellte. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/schloss-hohenentringen",
+"faktencheck": "korrigiert",
+"id": "92-ammerbuch/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ammerbuch",
+"steckbrief": "Gemeinde mit rund 11.400 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Zwischen Entringen und Poltringen stehen historische Grenzsteine in einem Museum unter freiem Himmel. Wie sind sie aufgestellt?",
+"optionen": [
+"Sie stehen nach ihrem Alter in einer Reihe.",
+"Sie stehen etwa in Richtung ihrer Herkunftsorte.",
+"Sie bilden den Umriss der Gemeinde nach.",
+"Sie stehen nach Größe geordnet im Kreis."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Reihe nach Alter liegt nahe, denn Grenzsteine zeigen oft ihr Aufstelljahr. Angeordnet sind sie aber, vom Baum aus gesehen, etwa in der Richtung, aus der sie stammen. QR-Codes liefern Informationen zu den Steinen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/grenzstein-refugium",
+"faktencheck": "korrigiert",
+"id": "92-ammerbuch/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ammerbuch",
+"steckbrief": "Gemeinde mit rund 11.400 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Heinrich Schickhardt plante eine Pumpstation an der Ammer, um das Bergschloss Oberpoltringen mit Wasser zu versorgen. Welchen Grund nennt die Ortsgeschichte, warum daraus nichts wurde?",
+"optionen": [
+"Das Bergschloss war da schon abgerissen.",
+"Die Ammer führte zu wenig Wasser.",
+"Der Herzog verbot das Vorhaben.",
+"Der Dreißigjährige Krieg kam dazwischen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Zu wenig Wasser in der Ammer liegt bei einer Pumpstation nahe. Die Ortsgeschichte nennt aber den Dreißigjährigen Krieg. Schickhardt, oft „schwäbischer Leonardo da Vinci“ genannt, war württembergischer Hofbaumeister und entwarf auch das Bergschloss selbst. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/heinrich-schickhardt-strasse",
+"faktencheck": "korrigiert",
+"id": "92-ammerbuch/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ammerbuch",
+"steckbrief": "Gemeinde mit rund 11.400 Einwohnern, 19 km westlich von Reutlingen.",
+"frage": "Die Gemeinde Ammerbuch entstand aus einem Zusammenschluss mehrerer Gemeinden. Woher hat sie ihren Namen?",
+"optionen": [
+"Er verbindet den Fluss Ammer mit dem Schönbuch.",
+"Er stammt vom verschwundenen Dorf Ammerbuch.",
+"Er geht auf die Herren von Ammerbuch zurück.",
+"Er geht auf das Kloster Ammerbuch zurück."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Nach Fusionen übernehmen Gemeinden oft den Namen eines alten Dorfs, darum liegt ein verschwundenes Dorf nahe. Doch der Name setzt den Fluss Ammer und den Naturpark Schönbuch zusammen. Das Wappen zeigt beides: ein fließendes Gewässer und eine Buche. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.ammerbuch.de/gemeinde-ammerbuch/unsere-gemeinde/geschichtliches-wappen",
+"faktencheck": "korrigiert",
+"id": "92-ammerbuch/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "91-herrenberg",
+"anschluss": [
+"Kreisgrenze: In Ammerbuch steht TÜ am Auto, in Herrenberg BB.",
+"Baumeister Heinrich Schickhardt, geboren in Herrenberg, baute Ammerbuchs Wasserschloss um."
+],
+"anschluesse": {
+"88-eutingen": [
+"Kreisgrenze: Eutingen im Gäu gehört zum Landkreis Freudenstadt, Ammerbuch zum Landkreis Tübingen.",
+"Ammerbuch hat fast doppelt so viele Einwohner wie Eutingen im Gäu."
+],
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Ammerbuch zum Landkreis Tübingen.",
+"Ammerbuch hat fast doppelt so viele Einwohner wie Bondorf."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Ammerbuch zum Landkreis Tübingen.",
+"Ammerbuch hat rund 2.200 Einwohner mehr als Gäufelden."
+],
+"91-herrenberg": [
+"Kreisgrenze: In Ammerbuch steht TÜ am Auto, in Herrenberg BB.",
+"Baumeister Heinrich Schickhardt, geboren in Herrenberg, baute Ammerbuchs Wasserschloss um."
+],
+"93-tuebingen": [
+"Bundestagswahl 2025: In Tübingen lagen die Grünen vorn, in Ammerbuch die CDU.",
+"Tübingen hat achtmal so viele Einwohner wie Ammerbuch."
+],
+"94-rottenburg": [
+"Rottenburg am Neckar hat viermal so viele Einwohner wie Ammerbuch.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Rottenburg am Neckar die AfD, in Ammerbuch die Grünen."
+],
+"95-starzach": [
+"Ammerbuch hat gut zweieinhalbmal so viele Einwohner wie Starzach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Starzach die AfD, in Ammerbuch die Grünen."
+]
+},
+"ags": "08416048",
+"ortsteil": false,
+"km_vom_vorigen": 8.5
+},
+{
+"slug": "93-tuebingen",
+"name": "Tübingen",
+"lat": 48.52,
+"lon": 9.05556,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Tübingen",
+"steckbrief": "Universitätsstadt am Neckar mit rund 93.000 Einwohnern, 11 km westlich von Reutlingen.",
+"frage": "Die Zierpflanze Fuchsie hat einen Bezug zu Tübingen. Woher hat sie ihren Namen?",
+"optionen": [
+"Von einem Fuchs im Tübinger Stadtwappen.",
+"Von einem Tübinger Mediziner und Botaniker.",
+"Von einer Tübinger Gärtnerei, die sie züchtete.",
+"Von einer Tübinger Sage über einen Fuchs."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach einem Tier, und ein Fuchs im Wappen oder in einer Sage läge nahe. Doch Pate stand ein Mensch: Leonhard Fuchs, Mediziner und Botaniker, lehrte zur Reformationszeit als Professor an der Universität Tübingen. Nach ihm ist die Fuchsie benannt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/172/37.html",
+"faktencheck": "bestätigt",
+"id": "93-tuebingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Tübingen",
+"steckbrief": "Universitätsstadt im Neckartal mit rund 93.000 Einwohnern, 11 km westlich von Reutlingen.",
+"frage": "Auf welcher Höhe über dem Meeresspiegel liegt Tübingen?",
+"optionen": [
+"unter 200 m",
+"200 bis unter 300 m",
+"300 bis unter 400 m",
+"400 m und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Flusstal klingt nach Tiefland, und bei einer Stadt am Neckar denkt man leicht an niedrige Lagen. Doch Tübingen liegt je nach Quelle auf 333 bis 341 Metern über dem Meer. Richtig war 3.",
+"quelle": "Wikidata P2044, dewiki Infobox, Altbestand staedte.json und geo.sqlite (GeoNames 2820860)",
+"faktencheck": "bestätigt",
+"id": "93-tuebingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Tübingen",
+"steckbrief": "Universitätsstadt am Neckar mit rund 93.000 Einwohnern, 11 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Nach dem Zweiten Weltkrieg war Tübingen Hauptstadt von Württemberg-Hohenzollern.",
+"Erst im 19. Jahrhundert erhielt Tübingen Stadtrecht.",
+"1861 wurde Tübingen an die Eisenbahn angeschlossen."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Landeshauptstadt Tübingen klingt erfunden, denn heute regiert Stuttgart. Doch Tübingen war einige Jahre Hauptstadt von Württemberg-Hohenzollern, und auch der Bahnanschluss stimmt. Gelogen ist das Stadtrecht: Tübingen bekam es schon Mitte des 12. Jahrhunderts, lange vor der Universität. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/15.html, www.tuebingen.de/172/41.html, www.tuebingen.de/172/42.html",
+"faktencheck": "korrigiert",
+"id": "93-tuebingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Tübingen",
+"steckbrief": "Universitätsstadt am Neckar mit rund 93.000 Einwohnern, 11 km westlich von Reutlingen.",
+"frage": "Wie hoch war die Wahlbeteiligung in Tübingen bei der Bundestagswahl 2025?",
+"optionen": [
+"87 % oder mehr",
+"81 bis unter 87 %",
+"75 bis unter 81 %",
+"unter 75 %"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei vielen Studierenden erwartet man eher eine mäßige Beteiligung, junge Leute gelten als wahlmüde. Doch in Tübingen gingen 89 Prozent wählen, und die Grünen wurden klar stärkste Kraft. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "93-tuebingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Tübingen",
+"steckbrief": "Universitätsstadt am Neckar mit rund 93.000 Einwohnern, 11 km westlich von Reutlingen.",
+"frage": "1514 kamen Hirschstangen und Landsknechtarme ins Tübinger Wappen. Welchen Grund nennt die Stadtgeschichte?",
+"optionen": [
+"Die Stadt hatte das Recht zur Hirschjagd erworben.",
+"Der Herzog belohnte so die Treue der Stadt.",
+"Sie erinnern an eine Hochzeit im Herzogshaus.",
+"Ein Bürger rettete den Herzog bei der Jagd."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Hirschstangen lassen an Jagd denken, dazu passen Jagdrecht oder Rettung im Wald. Doch die Zeichen waren ein Dank: Herzog Ulrich von Württemberg verlieh sie als Ehrenzeichen für die Treue der Stadt beim Aufstand des Armen Konrad. Die dreilatzige Fahne im Wappen stammt von den Pfalzgrafen von Tübingen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/15.html",
+"faktencheck": "korrigiert",
+"id": "93-tuebingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Tübingen",
+"steckbrief": "Universitätsstadt am Neckar mit rund 93.000 Einwohnern, 11 km westlich von Reutlingen.",
+"frage": "Zu welchem Landkreis gehört Tübingen?",
+"optionen": [
+"Landkreis Reutlingen",
+"Landkreis Böblingen",
+"Landkreis Tübingen",
+"Zollernalbkreis"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Reutlingen ist die nächste Großstadt und liegt ganz nah, da läge ein gemeinsamer Kreis auf der Hand. Doch Tübingen gehört nicht zum Kreis der Nachbarstadt, sondern zum Landkreis Tübingen. Richtig war 3.",
+"quelle": "dewiki Infobox",
+"faktencheck": "korrigiert",
+"id": "93-tuebingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Tübingen",
+"steckbrief": "Universitätsstadt am Neckar mit heute rund 93.000 Einwohnern, 11 km westlich von Reutlingen.",
+"frage": "Als Graf Eberhard im Bart 1477 die Universität gründete: Wie viele Einwohner hatte Tübingen damals etwa?",
+"optionen": [
+"20.000 oder mehr",
+"10.000 bis unter 20.000",
+"5.000 bis unter 10.000",
+"unter 5.000"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Universitätsgründung traut man eher einer großen Stadt zu. Doch damals lebten in Tübingen nur etwa 3.000 Menschen. Der Wahlspruch des Gründers lautete „Attempto – ich wag's“. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/172/37.html, www.tuebingen.de/15.html",
+"faktencheck": "korrigiert",
+"id": "93-tuebingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Tübingen",
+"steckbrief": "Universitätsstadt am Neckar mit rund 93.000 Einwohnern, 11 km westlich von Reutlingen.",
+"frage": "Im Tübinger Wald Elysium steht ein kegelförmiger Stein aus dem Frankenjura. Was markiert er?",
+"optionen": [
+"Er markiert den höchsten Punkt Tübingens.",
+"Er markiert die errechnete Mitte Baden-Württembergs.",
+"Er markiert das Grab Eberhards im Bart.",
+"Er markiert eine alte Tübinger Gerichtsstätte."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein auffälliger Stein im Wald lässt an Grab, Gipfel oder Gerichtsort denken. Doch er markiert den geografischen Landesmittelpunkt Baden-Württembergs, errechnet nach der Schwerpunkt-Methode. Er liegt unterhalb des Luise-Wetzel-Wegs nahe dem Botanischen Garten. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Tübingen",
+"faktencheck": "unsicher",
+"id": "93-tuebingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Tübingen",
+"steckbrief": "Universitätsstadt am Neckar mit rund 93.000 Einwohnern, 11 km westlich von Reutlingen.",
+"frage": "1817 richtete die Universität Tübingen eine Fakultät ein, die es so in Deutschland noch nicht gab. Welche?",
+"optionen": [
+"Es war eine Staatswissenschaftliche Fakultät.",
+"Es war eine Naturwissenschaftliche Fakultät.",
+"Es war eine Medizinische Fakultät.",
+"Es war eine Juristische Fakultät."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Naturwissenschaften klingen nach Aufbruch, und tatsächlich war Tübingen auch dort Vorreiter, nur Jahrzehnte später. Zuerst kam die Staatswissenschaftliche Fakultät, die erste in Deutschland; erster Professor war Friedrich List. Medizin und Jura gab es schon seit Gründung der Universität. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.tuebingen.de/172/41.html",
+"faktencheck": "unsicher",
+"id": "93-tuebingen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "92-ammerbuch",
+"anschluss": [
+"Bundestagswahl 2025: Grüne siegten in Tübingen, CDU in Ammerbuch.",
+"Einwohner: Tübingen hat rund achtmal so viele wie Ammerbuch."
+],
+"anschluesse": {
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Tübingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Bondorf lag die CDU vorn, in Tübingen die Grünen."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Tübingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Gäufelden lag die CDU vorn, in Tübingen die Grünen."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Tübingen zum Landkreis Tübingen.",
+"Bundestagswahl 2025: In Herrenberg lag die CDU vorn, in Tübingen die Grünen."
+],
+"92-ammerbuch": [
+"Bundestagswahl 2025: Grüne siegten in Tübingen, CDU in Ammerbuch.",
+"Einwohner: Tübingen hat rund achtmal so viele wie Ammerbuch."
+],
+"94-rottenburg": [
+"Bundestagswahl 2025: In Rottenburg am Neckar lag die CDU vorn, in Tübingen die Grünen.",
+"Tübingen hat doppelt so viele Einwohner wie Rottenburg am Neckar."
+]
+},
+"ags": "08416041",
+"ortsteil": false,
+"km_vom_vorigen": 7.6
+},
+{
+"slug": "94-rottenburg",
+"name": "Rottenburg am Neckar",
+"lat": 48.47722,
+"lon": 8.93444,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rottenburg am Neckar",
+"steckbrief": "Stadt mit rund 45.600 Einwohnern, 20 km westlich von Reutlingen.",
+"frage": "Das Neckartal beim Rottenburger Ortsteil Bieringen heißt auch „Schwäbisches Sauerland“. Welchen Grund nennt die Stadt dafür?",
+"optionen": [
+"Dort gibt es Kohlensäurevorkommen.",
+"Die Hügel erinnern an das echte Sauerland.",
+"Früher kelterte man dort besonders sauren Most.",
+"Die feuchten Wiesen haben einen sauren Boden."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Name lässt an das Mittelgebirge Sauerland denken, doch die Stadt nennt einen anderen Grund: Im Neckartal bei Bieringen gibt es Kohlensäurevorkommen, und Kohlensäure schmeckt säuerlich. Bieringen liegt an Neckar und Starzel. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.rottenburg.de/bieringen.30006.htm?lnav=1",
+"faktencheck": "korrigiert",
+"id": "94-rottenburg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rottenburg am Neckar",
+"steckbrief": "Stadt mit rund 45.600 Einwohnern, 20 km westlich von Reutlingen.",
+"frage": "Wie viele Einwohner leben in Rottenburg am Neckar durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 200",
+"200 bis unter 500",
+"500 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt dieser Größe denkt man an dichte Bebauung und tippt höher. Doch die 45.579 Einwohner verteilen sich auf 142,27 Quadratkilometer, das ergibt rund 320 Einwohner je Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P1082 (Einwohner, Stand 2025-12-31), Wikidata P2046 (Fläche); Dichte berechnet",
+"faktencheck": "bestätigt",
+"id": "94-rottenburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Rottenburg am Neckar",
+"steckbrief": "Stadt mit rund 45.600 Einwohnern, 20 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Ortsteil Oberndorf war früher für Hopfenanbau bekannt.",
+"Im Ortsteil Obernau gibt es eine Mineralquelle.",
+"Seebronns Name erinnert an ein einstiges Kloster."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Kloster klingt nach alter Ortsgeschichte, doch die Endung „-bronn“ verrät es: Der Name leitet sich vom einstigen „Seebrunnen“ ab. Brunnen sind typisch für Seebronn. Der frühere Hopfenanbau in Oberndorf und die Mineralquelle in Obernau stimmen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.rottenburg.de/seebronn.30017.htm?lnav=1",
+"faktencheck": "bestätigt",
+"id": "94-rottenburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Rottenburg am Neckar",
+"steckbrief": "Stadt mit rund 45.600 Einwohnern, 20 km westlich von Reutlingen.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Rottenburg die stärkste Partei?",
+"optionen": [
+"unter 24 %",
+"24 bis unter 28 %",
+"28 bis unter 32 %",
+"32 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wo viele Parteien antreten, tippt man auf einen kleineren Anteil. Doch die CDU holte in Rottenburg 34 Prozent der Zweitstimmen, deutlich vor der AfD. Stand: Bundestagswahl vom 23. Februar 2025. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "94-rottenburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Rottenburg am Neckar",
+"steckbrief": "Stadt mit rund 45.600 Einwohnern, 20 km westlich von Reutlingen.",
+"frage": "Im Rottenburger Ortsteil Obernau steht ein Gedenkstein für einen Dichter des Mittelalters. An wen erinnert er?",
+"optionen": [
+"Er erinnert an Hartmann von Aue.",
+"Er erinnert an Walther von der Vogelweide.",
+"Er erinnert an Wolfram von Eschenbach.",
+"Er erinnert an Gottfried von Straßburg."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Walther von der Vogelweide kennen viele aus der Schule, darum liegt er nahe. Der Gedenkstein in Obernau ist aber nach Hartmann von Aue benannt, dem Dichter von „Erec“ und „Iwein“. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.rottenburg.de/obernau.30014.htm?lnav=1",
+"faktencheck": "bestätigt",
+"id": "94-rottenburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Rottenburg am Neckar",
+"steckbrief": "Stadt mit rund 45.600 Einwohnern, 20 km westlich von Reutlingen.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Rottenburg am Neckar?",
+"optionen": [
+"RT",
+"TÜ",
+"ROT",
+"BB"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. ROT liegt wegen des Namens nahe, steht aber für Rotenburg an der Wümme in Niedersachsen. Rottenburg am Neckar gehört zum Landkreis Tübingen, dort tragen die meisten Autos TÜ. RT steht für Reutlingen, BB für Böblingen. Richtig war 2.",
+"quelle": "Wikidata P395 (Kennzeichen); dewiki Infobox (Landkreis)",
+"faktencheck": "unsicher",
+"id": "94-rottenburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Rottenburg am Neckar",
+"steckbrief": "Stadt mit rund 45.600 Einwohnern auf gut 140 Quadratkilometern, 20 km westlich von Reutlingen.",
+"frage": "Wie viele Ortschaften gehören nach Angaben der Stadt zu Rottenburg am Neckar?",
+"optionen": [
+"unter 5",
+"5 bis unter 10",
+"10 bis unter 20",
+"20 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt denkt man an einen Kern mit wenigen Vororten. Zur Kernstadt gehören aber 17 Ortschaften, darunter Weiler, Dettingen, Kiebingen und Baisingen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.rottenburg.de/tourismus+stadtinfo.6.htm?lnav=1",
+"faktencheck": "korrigiert",
+"id": "94-rottenburg/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "93-tuebingen",
+"anschluss": [
+"Einwohner: Tübingen hat etwa doppelt so viele wie Rottenburg.",
+"Bundestagswahl 2025: Grüne führten in Tübingen, CDU in Rottenburg."
+],
+"anschluesse": {
+"86-empfingen": [
+"Kreisgrenze: Empfingen gehört zum Landkreis Freudenstadt, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Rottenburg am Neckar hat fast elfmal so viele Einwohner wie Empfingen."
+],
+"87-horb": [
+"Kreisgrenze: Horb am Neckar gehört zum Landkreis Freudenstadt, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Rottenburg am Neckar hat fast doppelt so viele Einwohner wie Horb am Neckar."
+],
+"88-eutingen": [
+"Kreisgrenze: Eutingen im Gäu gehört zum Landkreis Freudenstadt, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Rottenburg am Neckar hat gut siebenmal so viele Einwohner wie Eutingen im Gäu."
+],
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Rottenburg am Neckar hat gut siebenmal so viele Einwohner wie Bondorf."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Rottenburg am Neckar hat fünfmal so viele Einwohner wie Gäufelden."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Rottenburg am Neckar zum Landkreis Tübingen.",
+"Rottenburg am Neckar hat rund 11.000 Einwohner mehr als Herrenberg."
+],
+"92-ammerbuch": [
+"Rottenburg am Neckar hat viermal so viele Einwohner wie Ammerbuch.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ammerbuch die Grünen, in Rottenburg am Neckar die AfD."
+],
+"93-tuebingen": [
+"Einwohner: Tübingen hat etwa doppelt so viele wie Rottenburg.",
+"Bundestagswahl 2025: Grüne führten in Tübingen, CDU in Rottenburg."
+],
+"95-starzach": [
+"Rottenburg am Neckar hat fast elfmal so viele Einwohner wie Starzach.",
+"Starzach liegt rund 180 Meter höher als Rottenburg am Neckar."
+]
+},
+"ags": "08416036",
+"ortsteil": false,
+"km_vom_vorigen": 10.1
+},
+{
+"slug": "95-starzach",
+"name": "Starzach",
+"lat": 48.43167,
+"lon": 8.81333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Starzach",
+"steckbrief": "Rund 4.300 Einwohner, 30 km westlich von Reutlingen.",
+"frage": "Die Gemeinde Starzach entstand erst 1972 durch einen Zusammenschluss. Woher hat sie ihren Namen?",
+"optionen": [
+"Er geht auf einen alten Hofnamen zurück.",
+"Er bedeutet „starker Bach“ in alter Mundart.",
+"Er stammt von einer abgegangenen Burg.",
+"Er verbindet die Namen zweier Flüsschen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Endung „-ach“ kennt man von vielen Bachnamen, daher liegt eine Deutung als „starker Bach“ nahe. Tatsächlich ist der Name von den beiden Flüsschen Starzel und Eyach abgeleitet, die beide auch im Gemeindewappen stehen. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Starzach",
+"faktencheck": "unsicher",
+"id": "95-starzach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Starzach",
+"steckbrief": "Gemeinde im Landkreis Tübingen, 30 km westlich von Reutlingen, auf rund 28 km² Fläche.",
+"frage": "Wie viele Menschen leben in der Gemeinde Starzach?",
+"optionen": [
+"unter 4.500",
+"4.500 bis unter 7.000",
+"7.000 bis unter 10.000",
+"10.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Ort mit mehreren Ortsteilen und eigenem Bahnhof wirkt leicht größer, als er ist. Ende 2025 lebten in Starzach 4.340 Menschen. Die Gemeinde selbst nennt sich, gemessen an der Einwohnerzahl, keine große Gemeinde. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "95-starzach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Starzach",
+"steckbrief": "Rund 4.300 Einwohner, 30 km westlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Schloss Weitenburg steht unten direkt am Neckarufer.",
+"Schloss Börstingen hatte eine Wasserburg als Vorgänger.",
+"Vom Hofgut Neuhaus blieben Teile der Ummauerung."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Schloss direkt am Fluss klingt im Neckartal plausibel, zumal Börstingen tatsächlich eine Wasserburg hatte. Doch Schloss Weitenburg liegt hoch über dem Neckartal, mit Blick über das Tal bis zur Schwäbischen Alb. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.starzach.de/leben-und-wohnen/sehenswertes",
+"faktencheck": "korrigiert",
+"id": "95-starzach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Starzach",
+"steckbrief": "Rund 4.300 Einwohner, 30 km westlich von Reutlingen im Landkreis Tübingen.",
+"frage": "Bundestagswahl 2025, Zweitstimmen: Welche Partei wurde in Starzach zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"SPD",
+"AfD",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im ländlichen Baden-Württemberg liegt die CDU meist vorn, und dahinter erwarten viele SPD oder Grüne. In Starzach kam die AfD mit 25,3 Prozent auf Platz zwei, hinter der CDU mit 35,7 Prozent. SPD und Grüne folgten mit deutlichem Abstand. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "95-starzach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Starzach",
+"steckbrief": "Rund 4.300 Einwohner, 30 km westlich von Reutlingen.",
+"frage": "Ein Museum in Bierlingen besitzt nach Angaben der Gemeinde die weltweit größte Sammlung seiner Art. Was sammelt es?",
+"optionen": [
+"Es sammelt historisches Blechspielzeug.",
+"Es sammelt alte Bienenkörbe und Imkergerät.",
+"Es sammelt Kuckucksuhren aller Bauarten.",
+"Es sammelt kleine Fasnetsmasken."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Rekordsammlung denkt man an klassische Sammelstücke wie Spielzeug oder Uhren, die viele Menschen horten. Doch das schwäbisch-alemannische Miniatur-Mäskle-Museum sammelt kleine Fasnetsmasken – nach Angaben der Gemeinde die weltweit größte Sammlung dieser Art. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.starzach.de/leben-und-wohnen/sehenswertes",
+"faktencheck": "unsicher",
+"id": "95-starzach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Starzach",
+"steckbrief": "Rund 4.300 Einwohner, 30 km westlich von Reutlingen.",
+"frage": "Wie weit ist es von Starzach in Luftlinie bis zur Landeshauptstadt Stuttgart?",
+"optionen": [
+"unter 55 km",
+"55 bis unter 75 km",
+"75 bis unter 100 km",
+"100 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Westlich von Reutlingen fühlt man sich schon weit weg von der Landeshauptstadt. Doch die Luftlinie von Starzach bis Stuttgart misst nur 47 km. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "95-starzach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Starzach",
+"steckbrief": "Rund 4.300 Einwohner, 30 km westlich von Reutlingen.",
+"frage": "Von der Siegburg bei Börstingen sind nur ein Mauerrest und ein Teil des Burggrabens übrig. Was ist über ihr Schicksal bekannt?",
+"optionen": [
+"Sie wurde erst in der Neuzeit aufgegeben.",
+"Sie wurde wohl schon bald nach dem Bau zerstört.",
+"Sie wurde erst im 15. Jahrhundert erbaut.",
+"Sie wurde im Barock als Jagdschloss errichtet."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Burgruine lässt an Jahrhunderte voller Rittergeschichte denken, an lange Herrschaft und späten Verfall. Bei der Siegburg war es anders: Sie wurde wohl im 11. Jahrhundert errichtet und schon bald nach ihrer Errichtung wieder zerstört. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.starzach.de/leben-und-wohnen/sehenswertes",
+"faktencheck": "korrigiert",
+"id": "95-starzach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Starzach",
+"steckbrief": "Rund 4.300 Einwohner, 30 km westlich von Reutlingen.",
+"frage": "Östlich von Wachendorf steht über dem Starzeltal eine Waldkapelle, gestiftet 1893 von Hans Otto von Ow. Worauf wurde sie gebaut?",
+"optionen": [
+"Sie steht auf einem Bunker aus dem Zweiten Weltkrieg.",
+"Sie steht auf einem alten Steinbruch.",
+"Sie steht auf den Fundamenten einer Burg.",
+"Sie steht auf dem Sockel eines Wasserturms aus dem 20. Jahrhundert."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Kapellen auf Anhöhen stehen oft auf Stellen, an denen früher schon etwas war. Diese Waldkapelle ruht auf den Fundamenten einer hochmittelalterlichen Burg. Gestiftet hat sie Hans Otto von Ow; sie gehört den Freiherren von Ow-Wachendorf. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.starzach.de/leben-und-wohnen/sehenswertes",
+"faktencheck": "korrigiert",
+"id": "95-starzach/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Starzach",
+"steckbrief": "Rund 4.300 Einwohner, 30 km westlich von Reutlingen.",
+"frage": "Felldorf bekam in den 1960er-Jahren eine neue Kirche, St. Johann Baptist. Sie übernahm aus der alten Kirche Reste eines Altars. Aus welcher Zeit stammt dieser Altar?",
+"optionen": [
+"Er war ein gotischer Altar um 1500.",
+"Er war ein klassizistischer Altar um 1820.",
+"Er war ein barocker Altar um 1720.",
+"Er war ein romanischer Altar um 1150."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Alte Ausstattung in Dorfkirchen ist oft barock, daher liegt ein Altar um 1720 nahe. Doch die aus der alten Kirche übernommenen Reste stammen von einem gotischen Altar aus dem Syrlin-Umkreis, entstanden um 1500. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.starzach.de/leben-und-wohnen/sehenswertes",
+"faktencheck": "korrigiert",
+"id": "95-starzach/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "94-rottenburg",
+"anschluss": [
+"Höhenlage: Starzach liegt auf 526 m, Rottenburg auf 349 m.",
+"Starzach liegt am Neckar zwischen Rottenburg und Horb."
+],
+"anschluesse": {
+"85-sulz": [
+"Kreisgrenze: Sulz am Neckar gehört zum Landkreis Rottweil, Starzach zum Landkreis Tübingen.",
+"Sulz am Neckar hat dreimal so viele Einwohner wie Starzach."
+],
+"86-empfingen": [
+"Kreisgrenze: Empfingen gehört zum Landkreis Freudenstadt, Starzach zum Landkreis Tübingen.",
+"Empfingen und Starzach sind fast gleich groß: rund 4.300 und 4.300 Einwohner."
+],
+"87-horb": [
+"Kreisgrenze: Horb am Neckar gehört zum Landkreis Freudenstadt, Starzach zum Landkreis Tübingen.",
+"Horb am Neckar hat sechsmal so viele Einwohner wie Starzach."
+],
+"88-eutingen": [
+"Kreisgrenze: Eutingen im Gäu gehört zum Landkreis Freudenstadt, Starzach zum Landkreis Tübingen.",
+"Eutingen im Gäu hat fast anderthalbmal so viele Einwohner wie Starzach."
+],
+"89-bondorf": [
+"Kreisgrenze: Bondorf gehört zum Landkreis Böblingen, Starzach zum Landkreis Tübingen.",
+"Bondorf hat fast anderthalbmal so viele Einwohner wie Starzach."
+],
+"90-gaeufelden": [
+"Kreisgrenze: Gäufelden gehört zum Landkreis Böblingen, Starzach zum Landkreis Tübingen.",
+"Gäufelden hat gut doppelt so viele Einwohner wie Starzach."
+],
+"91-herrenberg": [
+"Kreisgrenze: Herrenberg gehört zum Landkreis Böblingen, Starzach zum Landkreis Tübingen.",
+"Herrenberg hat achtmal so viele Einwohner wie Starzach."
+],
+"92-ammerbuch": [
+"Ammerbuch hat gut zweieinhalbmal so viele Einwohner wie Starzach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ammerbuch die Grünen, in Starzach die AfD."
+],
+"94-rottenburg": [
+"Höhenlage: Starzach liegt auf 526 m, Rottenburg auf 349 m.",
+"Starzach liegt am Neckar zwischen Rottenburg und Horb."
+]
+},
+"ags": "08416050",
+"ortsteil": false,
+"km_vom_vorigen": 10.3
 },
 {
 "slug": "11-emmendingen",
@@ -9654,7 +11819,7 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "85-sulz",
+"anschluss_von": "95-starzach",
 "anschluss": [],
 "anschluesse": {
 "65-march": [
@@ -9692,7 +11857,7 @@ window.QA_DATEN = {
 },
 "ags": "08316011",
 "ortsteil": false,
-"km_vom_vorigen": 63.9
+"km_vom_vorigen": 79.3
 },
 {
 "slug": "01-kenzingen",

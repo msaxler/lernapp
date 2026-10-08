@@ -1,0 +1,64 @@
+Orte: 86-empfingen 87-horb 88-eutingen 89-bondorf 90-gaeufelden 91-herrenberg 92-ammerbuch 93-tuebingen 94-rottenburg 95-starzach
+== Extraktion (Haiku) 08:47:28
+86-empfingen         extraktion ein  88650  aus  33329   0.28 USD   290 s  claude-haiku-4-5-20251001
+87-horb              extraktion ein  30672  aus  16963   0.13 USD   141 s  claude-haiku-4-5-20251001
+88-eutingen          extraktion ein  21230  aus  10246   0.08 USD    92 s  claude-haiku-4-5-20251001
+89-bondorf           extraktion ein  21488  aus   7919   0.07 USD    71 s  claude-haiku-4-5-20251001
+90-gaeufelden        extraktion ein  26919  aus  22668   0.15 USD   154 s  claude-haiku-4-5-20251001
+91-herrenberg        extraktion ein  36841  aus  15644   0.14 USD   138 s  claude-haiku-4-5-20251001
+92-ammerbuch         extraktion ein  31993  aus  10330   0.10 USD    98 s  claude-haiku-4-5-20251001
+93-tuebingen         extraktion ein  52317  aus  13881   0.16 USD   108 s  claude-haiku-4-5-20251001
+94-rottenburg        extraktion ein  26378  aus  13817   0.11 USD    92 s  claude-haiku-4-5-20251001
+95-starzach          extraktion ein  22442  aus  15122   0.11 USD   112 s  claude-haiku-4-5-20251001
+zusammen: 4530 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+86-empfingen        7052 Zeichen
+87-horb            42535 Zeichen
+88-eutingen        18652 Zeichen
+89-bondorf         19450 Zeichen
+90-gaeufelden      28389 Zeichen
+91-herrenberg      39220 Zeichen
+92-ammerbuch       27325 Zeichen
+93-tuebingen       34927 Zeichen
+94-rottenburg      15947 Zeichen
+95-starzach        22359 Zeichen
+== Karten (claude-opus-5-5) 08:52:31
+86-empfingen         karten     ein  30383  aus  28818   0.77 USD   249 s  claude-opus-5-5
+87-horb              karten     ein  53832  aus  32256   1.02 USD   279 s  claude-opus-5-5
+88-eutingen          karten     ein  37562  aus  26210   0.77 USD   228 s  claude-opus-5-5
+89-bondorf           karten     ein  38388  aus  31543   0.88 USD   266 s  claude-opus-5-5
+90-gaeufelden        karten     ein  44654  aus  36247   1.03 USD   317 s  claude-opus-5-5
+91-herrenberg        karten     ein  50749  aus  32702   1.01 USD   284 s  claude-opus-5-5
+92-ammerbuch         karten     ein  42513  aus  41843   1.12 USD   358 s  claude-opus-5-5
+93-tuebingen         karten     ein  47635  aus  43222   1.19 USD   376 s  claude-opus-5-5
+94-rottenburg        karten     ein  36323  aus  30839   0.85 USD   267 s  claude-opus-5-5
+95-starzach          karten     ein  40076  aus  27174   0.81 USD   226 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 09:03:14
+86-empfingen         pruefung   ein  48577  aus   6170   0.46 USD    55 s  claude-opus-5-5
+87-horb              pruefung   ein  59090  aus   9208   0.60 USD    81 s  claude-opus-5-5
+88-eutingen          pruefung   ein  46168  aus   6001   0.44 USD    53 s  claude-opus-5-5
+89-bondorf           pruefung   ein  48869  aus   8449   0.51 USD    78 s  claude-opus-5-5
+90-gaeufelden        pruefung   ein  62652  aus  10247   0.65 USD    93 s  claude-opus-5-5
+91-herrenberg        pruefung   ein  80113  aus  11893   0.82 USD   104 s  claude-opus-5-5
+92-ammerbuch         pruefung   ein  67752  aus  11637   0.72 USD   156 s  claude-opus-5-5
+93-tuebingen         pruefung   ein  55365  aus  11144   0.61 USD    98 s  claude-opus-5-5
+94-rottenburg        pruefung   ein  49322  aus   6484   0.47 USD    56 s  claude-opus-5-5
+95-starzach          pruefung   ein  46127  aus  11857   0.55 USD   104 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 09:06:45
+86-empfingen         stufe2     ein 191829  aus   6110   0.53 USD   119 s  claude-opus-5-5,claude-haiku-4-5-20251001
+87-horb              stufe2     ein 243998  aus   4804   0.60 USD   109 s  claude-opus-5-5,claude-haiku-4-5-20251001
+88-eutingen          FEHLER keine Karte an Stufe 2 – kein Lauf
+89-bondorf           stufe2     ein 170394  aus   4158   0.38 USD    68 s  claude-opus-5-5,claude-haiku-4-5-20251001
+90-gaeufelden        stufe2     ein 137357  aus   3457   0.35 USD   106 s  claude-opus-5-5,claude-haiku-4-5-20251001
+91-herrenberg        stufe2     ein  91651  aus   1438   0.24 USD    24 s  claude-opus-5-5,claude-haiku-4-5-20251001
+92-ammerbuch         FEHLER keine Karte an Stufe 2 – kein Lauf
+93-tuebingen         stufe2     ein 265069  aus   7870   0.87 USD   117 s  claude-opus-5-5,claude-haiku-4-5-20251001
+94-rottenburg        stufe2     ein 182069  aus   4338   0.51 USD   100 s  claude-opus-5-5,claude-haiku-4-5-20251001
+95-starzach          stufe2     ein 225871  aus   8145   0.74 USD   105 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 09:10:17
+Urteile: {'korrigiert': 249, 'bestätigt': 557, 'gesperrt': 14, 'unsicher': 41} | im Vorrat: 847 Karten an 95 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     95 Orte, 847 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 1104319 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 09:10:17

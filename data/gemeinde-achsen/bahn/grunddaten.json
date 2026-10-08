@@ -1,5 +1,5 @@
 {
- "erzeugt": "2026-10-06",
+ "erzeugt": "2026-10-08",
  "katalog": [
   {
    "schluessel": "bundesland",
@@ -337,7 +337,13 @@
   "Villingen-Schwenningen: hoehe_m 704 (Wikidata P2044) gegen 757 (Altbestand geo.sqlite (GeoNames 2817220))",
   "Oberndorf am Neckar: kfz RW (Wikidata P395) gegen SIG (Altbestand staedte.json)",
   "Sulz am Neckar: kfz RW (Wikidata P395) gegen SIG (Altbestand staedte.json)",
-  "Sulz am Neckar: hoehe_m 443 (Wikidata P2044) gegen 300 (Altbestand staedte.json)"
+  "Sulz am Neckar: hoehe_m 443 (Wikidata P2044) gegen 300 (Altbestand staedte.json)",
+  "Horb am Neckar: kfz HOR (Wikidata P395) gegen FDS (Altbestand geo.sqlite (Kreis 08237))",
+  "Horb am Neckar: hoehe_m 437 (Wikidata P2044) gegen 394 (Altbestand staedte.json)",
+  "Horb am Neckar: hoehe_m 437 (Wikidata P2044) gegen 394 (Altbestand geo.sqlite (GeoNames 2899101))",
+  "Herrenberg: hoehe_m 460 (Wikidata P2044) gegen 431 (Altbestand staedte.json)",
+  "Herrenberg: hoehe_m 460 (Wikidata P2044) gegen 431 (Altbestand geo.sqlite (GeoNames 2905826))",
+  "Rottenburg am Neckar: kfz TÜ (Wikidata P395) gegen TUT (Altbestand staedte.json)"
  ],
  "orte": [
   {
@@ -4029,6 +4035,1723 @@
      {
       "wert": "nein",
       "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "86-empfingen",
+   "rolle": "ziel",
+   "name": "Empfingen",
+   "einheit": "Gemeinde",
+   "wikidata": "Q80467",
+   "lat": 48.39222,
+   "lon": 8.71194,
+   "gemeindeschluessel": "08237024",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Freudenstadt",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Freudenstadt",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 4293,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 4123,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2930461)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 18.29,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 235,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FDS",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "FDS",
+      "quelle": "Altbestand geo.sqlite (Kreis 08237)"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 499,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 499,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 493,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2930461)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 38
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "38 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 55
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72186"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "72186"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07485"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 39.1,
+        "AfD": 27.7,
+        "SPD": 9.6,
+        "FDP": 6.7,
+        "GRÜNE": 6.4
+       },
+       "wahlbeteiligung_prozent": 84.5,
+       "gueltige_zweitstimmen": 2613
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Ferdinand Truffner",
+       "partei": "CDU"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-08",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "La Roche-Blanche"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "87-horb",
+   "rolle": "ziel",
+   "name": "Horb am Neckar",
+   "einheit": "Stadt",
+   "wikidata": "Q82690",
+   "lat": 48.445,
+   "lon": 8.69111,
+   "gemeindeschluessel": "08237040",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Freudenstadt",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Freudenstadt",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 25687,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 25651,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 25424,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2899101)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 119.76,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 119.76,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 214,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "HOR",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "HOR",
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": "FDS",
+      "quelle": "Altbestand geo.sqlite (Kreis 08237)",
+      "abweichend": true
+     },
+     {
+      "wert": "HOR",
+      "quelle": "Altbestand kfz_kennzeichen.csv"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 437,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 437,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 394,
+      "quelle": "Altbestand staedte.json",
+      "abweichend": true
+     },
+     {
+      "wert": 394,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2899101)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 38
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "38 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 52
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Horb",
+       "Haltepunkt Bittelbronn",
+       "Haltepunkt Horb-Heiligenfeld",
+       "Mühlen (b Horb)",
+       "Q110987332"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72160"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "72160"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07451",
+       "07482",
+       "07483",
+       "07486"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 34.9,
+        "AfD": 27.1,
+        "SPD": 11.4,
+        "GRÜNE": 8.0,
+        "FDP": 5.8
+       },
+       "wahlbeteiligung_prozent": 83.0,
+       "gueltige_zweitstimmen": 14766
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Michael Keßler",
+       "partei": "CDU"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-08",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Salins-les-Bains"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "88-eutingen",
+   "rolle": "ziel",
+   "name": "Eutingen im Gäu",
+   "einheit": "Gemeinde",
+   "wikidata": "Q81702",
+   "lat": 48.47778,
+   "lon": 8.75,
+   "gemeindeschluessel": "08237027",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Freudenstadt",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Freudenstadt",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 6112,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 32.82,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 186,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "FDS",
+      "quelle": "Wikidata P395"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 450,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 450,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 34
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "34 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 46
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Eutingen im Gäu",
+       "Bahnhof Hochdorf",
+       "Haltepunkt Eutingen im Gäu Nord"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72184"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07457",
+       "07459"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 36.3,
+        "AfD": 22.9,
+        "SPD": 12.5,
+        "GRÜNE": 8.4,
+        "FDP": 6.3,
+        "Die Linke": 5.1
+       },
+       "wahlbeteiligung_prozent": 87.2,
+       "gueltige_zweitstimmen": 3778
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Markus Tideman",
+       "partei": "SPD"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-08",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "89-bondorf",
+   "rolle": "ziel",
+   "name": "Bondorf",
+   "einheit": "Gemeinde",
+   "wikidata": "Q200744",
+   "lat": 48.51667,
+   "lon": 8.83333,
+   "gemeindeschluessel": "08115004",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Böblingen",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Böblingen",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 6196,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 5730,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2946485)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 17.55,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 353,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "BB",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "BB",
+      "quelle": "Altbestand geo.sqlite (Kreis 08115)"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 460,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 464,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 460,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 464,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2946485)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 27
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "27 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 39
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Bondorf (b Herrenberg)"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "71149"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "71149"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07457"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 34.0,
+        "AfD": 18.9,
+        "SPD": 12.6,
+        "GRÜNE": 12.6,
+        "Die Linke": 6.7,
+        "FDP": 6.4
+       },
+       "wahlbeteiligung_prozent": 85.2,
+       "gueltige_zweitstimmen": 3697
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Bernd Dürr",
+       "partei": "parteilos"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-08",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "90-gaeufelden",
+   "rolle": "ziel",
+   "name": "Gäufelden",
+   "einheit": "Gemeinde",
+   "wikidata": "Q538579",
+   "lat": 48.55278,
+   "lon": 8.81917,
+   "gemeindeschluessel": "08115016",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Böblingen",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Böblingen",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 9199,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 20.07,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 458,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "BB",
+      "quelle": "Wikidata P395"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 481,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 470,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 29
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "29 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 37
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Haltepunkt Gäufelden"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "71126"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07032"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 34.7,
+        "AfD": 20.5,
+        "SPD": 12.6,
+        "GRÜNE": 12.1,
+        "FDP": 6.8,
+        "Die Linke": 5.4
+       },
+       "wahlbeteiligung_prozent": 86.1,
+       "gueltige_zweitstimmen": 5553
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Benjamin Schmid"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-08",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "91-herrenberg",
+   "rolle": "ziel",
+   "name": "Herrenberg",
+   "einheit": "Stadt",
+   "wikidata": "Q16100",
+   "lat": 48.59667,
+   "lon": 8.87083,
+   "gemeindeschluessel": "08115021",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Böblingen",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 34167,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 34192,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 32649,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2905826)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 65.7,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 65.7,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 520,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "BB",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "BB",
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": "BB",
+      "quelle": "Altbestand geo.sqlite (Kreis 08115)"
+     },
+     {
+      "wert": "BB",
+      "quelle": "Altbestand kfz_kennzeichen.csv"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 460,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 460,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 431,
+      "quelle": "Altbestand staedte.json",
+      "abweichend": true
+     },
+     {
+      "wert": 431,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2905826)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 27
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "27 km nordwestlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 31
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Gültstein",
+       "Bahnhof Herrenberg"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "71083"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "71083"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07032"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 32.8,
+        "GRÜNE": 17.3,
+        "AfD": 15.4,
+        "SPD": 14.7,
+        "FDP": 6.7,
+        "Die Linke": 6.3
+       },
+       "wahlbeteiligung_prozent": 85.5,
+       "gueltige_zweitstimmen": 19532
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Nico Reith",
+       "partei": "parteilos"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-08",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Tarare",
+       "Fidenza",
+       "Amplepuis",
+       "Wenatchee"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "92-ammerbuch",
+   "rolle": "ziel",
+   "name": "Ammerbuch",
+   "einheit": "Gemeinde",
+   "wikidata": "Q473107",
+   "lat": 48.55444,
+   "lon": 8.96694,
+   "gemeindeschluessel": "08416048",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Tübingen",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 11386,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 48.04,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 237,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 391,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 384,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 386,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2929941)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 19
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "19 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 30
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Altingen",
+       "Bahnhof Breitenholz",
+       "Bahnhof Entringen",
+       "Bahnhof Pfäffingen"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72119"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "72119"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07073"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 32.3,
+        "GRÜNE": 19.0,
+        "AfD": 15.7,
+        "SPD": 12.8,
+        "Die Linke": 7.9,
+        "FDP": 5.1
+       },
+       "wahlbeteiligung_prozent": 88.3,
+       "gueltige_zweitstimmen": 7495
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Daniel Rudolph",
+       "partei": "parteilos"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-08",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Altbestand geo.sqlite (Kreis 08416)"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "93-tuebingen",
+   "rolle": "ziel",
+   "name": "Tübingen",
+   "einheit": "Stadt",
+   "wikidata": "Q3806",
+   "lat": 48.52,
+   "lon": 9.05556,
+   "gemeindeschluessel": "08416041",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Tübingen",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 92607,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 92322,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 83416,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2820860)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 108.12,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 108.07,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 857,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "TÜ",
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": "TÜ",
+      "quelle": "Altbestand geo.sqlite (Kreis 08416)"
+     },
+     {
+      "wert": "TÜ",
+      "quelle": "Altbestand kfz_kennzeichen.csv"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 338,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 341,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 333,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 333,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2820860)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 11
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "11 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 31
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Tübingen West",
+       "Ehem. Haltepunkt Ammern",
+       "Haltepunkt Neckaraue",
+       "Haltepunkt Tübingen Güterbahnhof",
+       "Haltepunkt Tübingen-Lustnau",
+       "Unterjesingen Mitte",
+       "Unterjesingen Sandäcker"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72070",
+       "72072",
+       "72074",
+       "72076"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "72070",
+       "72072",
+       "72074",
+       "72076"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07071"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "GRÜNE",
+       "anteile_prozent": {
+        "GRÜNE": 31.4,
+        "CDU": 19.1,
+        "Die Linke": 16.3,
+        "SPD": 15.9,
+        "AfD": 6.5
+       },
+       "wahlbeteiligung_prozent": 89.0,
+       "gueltige_zweitstimmen": 57569
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Boris Palmer",
+       "partei": "parteilos"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-08",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Aigle",
+       "Monthey",
+       "Aix-en-Provence",
+       "Ann Arbor",
+       "Durham",
+       "Perugia",
+       "Petrosawodsk",
+       "Kilchberg",
+       "Kingersheim",
+       "Villa El Salvador",
+       "Moshi",
+       "Krementschuk",
+       "Iklad"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "94-rottenburg",
+   "rolle": "ziel",
+   "name": "Rottenburg am Neckar",
+   "einheit": "Stadt",
+   "wikidata": "Q7078",
+   "lat": 48.47722,
+   "lon": 8.93444,
+   "gemeindeschluessel": "08416036",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Tübingen",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 45579,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 45677,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 142.27,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 142.27,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 320,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "TÜ",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "TUT",
+      "quelle": "Altbestand staedte.json",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 349,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 349,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 349,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 20
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "20 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 38
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Rottenburg am Neckar"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72108"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07073",
+       "07457",
+       "07472",
+       "07478"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 34.0,
+        "AfD": 19.1,
+        "GRÜNE": 14.7,
+        "SPD": 12.5,
+        "Die Linke": 7.0,
+        "FDP": 5.1
+       },
+       "wahlbeteiligung_prozent": 85.0,
+       "gueltige_zweitstimmen": 26167
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Stephan Neher",
+       "partei": "CDU"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-08",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Saint-Claude",
+       "Węgorzewo",
+       "Yalova"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "95-starzach",
+   "rolle": "ziel",
+   "name": "Starzach",
+   "einheit": "Gemeinde",
+   "wikidata": "Q369899",
+   "lat": 48.43167,
+   "lon": 8.81333,
+   "gemeindeschluessel": "08416050",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Tübingen",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Tübingen",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Baden-Württemberg",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 4340,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 27.84,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 156,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 526,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 526,
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Reutlingen",
+       "km": 30
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "30 km westlich von Reutlingen (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Stuttgart",
+       "km": 47
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Eyach (DB)",
+       "Bahnhof Eyach Landesbahn"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "72181"
+      ],
+      "quelle": "Wikidata P281"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "07457",
+       "07472",
+       "07478",
+       "07483"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 35.7,
+        "AfD": 25.3,
+        "SPD": 11.4,
+        "GRÜNE": 10.2,
+        "FDP": 5.1
+       },
+       "wahlbeteiligung_prozent": 87.1,
+       "gueltige_zweitstimmen": 2900
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Thomas Noé"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-08",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
      }
     ]
    }

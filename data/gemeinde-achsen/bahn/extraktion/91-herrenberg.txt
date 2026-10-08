@@ -1,0 +1,1104 @@
+ENTITÄT: ort
+BEZEICHNUNG: Herrenberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwaehnung_datiert: 1228
+  ersterwaehnung_beleg: 28. März 1228, Pfalzgraf Rudolf II. urkundet Gütertausch in castro nostro Herrenberc
+  ersterwaehnung_als_stadt: 1276
+  namensherkunft: "meines Herren Berg, herrschaftliche Weinberge"
+  aeltestes_siegel: 1278
+  ist_mittelalterliche_altstadt: true
+  altstadt_denkmalschutz_seit: 1983
+  grosse_kreisstadt_seit: 1974
+  einwohnerzahl: 34191
+  gueltig_ab: 2026
+  einwohnerzahl_1939: 3725
+  einwohnerzahl_1969: 12510
+  einwohnerzahl_1974: 22000
+  einwohner_stadtteile: 7
+  lage: "Herzen des Gäu"
+  umgebung: "Grün und Natur, Wälder und Streuobstwiesen"
+  vereine_und_organisationen: "ca. 300"
+  beschreibung_selbstverstaendnis: "Mitmachstadt mit hoher Bürgerbeteiligung und Bürgerschaftlichem Engagement"
+GUELTIG_AB: 1228
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort_grue
+BEZEICHNUNG: Herrenberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grund_der_entstehung: "Winzer siedelten sich am Fuß der Burg an, um die herrschaftlichen Weinberge besser zu bewirtschaften"
+  grue_nach_trennung_in: "Oberherrenberg, Unterherrenberg"
+  teilung_jahr: 1347
+GUELTIG_AB: 1228
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Marien Stiftskirche
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  weihedatum_original: 1293
+  weihedatum_zweiter_bauabschnitt: 1328
+  weihe_urkunde: "5. Januar 1293, Konstanzer Bischof Bruder Bonifatius, Haupt- und drei Nebenaltäre"
+  patrozinium: "St. Maria"
+  patrozinium_erster_beleg: 1284
+  bauabschnitt_einwoelbung: 1493
+  bedeutung: "erste gotische Hallenkirche Württembergs"
+  gaebeldatum: 1749
+  turmumbau_grund: "gotische Türme nach Blitzeinschlägen beschädigt"
+  turmumbau_loesung: "barocke Zwiebelhaube"
+  wahrzeichen_name: "Die Glucke vom Gäu"
+  schadensereignis_bauernkrieg: 1525
+  stadtbrand_1635_schaeden: "zerstört, später wiederaufgebaut"
+  schlossberg_eigenschaft: "nicht stabil, rutscht jährlich um ca. 1 Millimeter zur Altstadt"
+  renovierung_grund: "Baufälligkeit und Untergrundrutschen"
+  renovierung_zeitraum: 1971-1982
+  benotigte_kunstwerke: "Steinkanzel 1504 (Meister Hanselmann), Taufstein 1472, Chorgestühl 1517 (Christoph von Urach / Heinrich Schickhardt), Epitaphien, Hochaltar Jerg Ratgeb 1519-1521 (heute Staatsgalerie Stuttgart)"
+  besonderheit_rosette: "älteste Rosette Schwabens in Westwand des Turmes"
+GUELTIG_AB: 1293
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirchenbau
+BEZEICHNUNG: Kollegiatstift St. Marien
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_datum: 1439
+  gruendung_urkunde: "3. Juli 1439, Konstanzer Bischof Heinrich"
+  kanonikate: 8
+  kaplaneien: 3
+  propstei_baubeginn: "in diesen Jahren um 1439"
+  umwandlung_grund: "Etablierung der Brüder vom Gemeinsamen Leben durch Graf Eberhard im Bart"
+  umwandlung_zeitraum: 1481-1517
+  aufgeloest: 1534-1536
+  aufgeloesungs_grund: "Reformation, reformatorische Prediger kamen nach Herrenberg"
+GUELTIG_AB: 1439
+GUELTIG_BIS: 1536
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirchenbau
+BEZEICHNUNG: St.-Josefs-Kirche
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  einweihung: 1933
+  grund_neubau: "katholische Einwohner Herrenbergs erhielten nach Provisorien einen angemessenen Gottesdienstraum"
+GUELTIG_AB: 1933
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bebenhäuser Klosterhof
+QUELLE: https://www.herrenberg.de/de/klosterhof-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: "ehemaliger Pfleghof des Klosters Bebenhausen"
+  zweck: "Sammeln der Erträge der umliegenden Ländereien des Klosters, Handel mit klösterlichen Produkten, Verwaltungsaufgaben"
+  sockelgeschoss_baudatum: 1484
+  oberbau_neubau_nach_stadtbrand: 1664-1669
+  oberbau_dekoration: "barocke Scheinarchitekturmalerei an Fenstern"
+  funktion_nach_wiederaufbau: "Sitz der Stifts- und Geistlichen Verwaltung (ehemalige geistliche Besitzungen)"
+  hofkameralamt_zeitraum: 1819-1868
+  eisenbahnverwaltung_zeitraum: 1875-1881
+  haushaltungsschule_zeitraum: 1881-1902
+  frauenarbeitsschule_zeitraum: 1902-1964
+  frauenarbeitsschule_volksname: "Knopflochkaserne"
+  kindergarten_ab: 1937
+  kindergarten_name: "Schüle"
+  sonderschule_bis: 1984
+  sanierung_ab: 1991
+  aktuelle_nutzung: "Seminar- und Vereinsräume, städtischer Seniorentreff (seit über 20 Jahren), Versammlungen, kulturelle Veranstaltungen"
+  nutzerorganisationen: "über 100 Vereine und Organisationen"
+  besonderheit: "Gewölbekeller im Untergeschoss"
+GUELTIG_AB: 1484
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aelteres_rathaus_errichtung: 1649
+  aelteres_rathaus_abriss: 1806
+  neues_rathaus_errichtung: 1806-1807
+  neues_rathaus_stil: "verputzter klassizistischer Fachwerkbau"
+  neues_rathaus_grund_neubau: "Aufstieg Herrenbergs zur Oberamtsstadt"
+  neues_rathaus_lage_marktplatz: true
+GUELTIG_AB: 1649
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Fruchtkasten der Stifts- und Geistlichen Verwaltung
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1683-1684
+  grund_neubau: "vorheriger Fruchtkasten mit Kelter wurden beim Stadtbrand 1635 zerstört"
+  besonderheit_reaktivierungsbeschluss: 2018
+  reaktivierungsprojekt: "Begegnungs- und Ausstellungshaus"
+  architekturwettbewerb_gewinner: "Atelier Brückner"
+  wettbewerb_gewinn_jahr: 2020
+GUELTIG_AB: 1683
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Köhnle-Haus
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort_lage: "Marktplatz"
+  historische_funktion: "Wohnhaus und Handelshaus der Familie Köhnle"
+  zeitraum: "17. Jahrhundert"
+GUELTIG_AB: 1618
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: stadtbrand
+BEZEICHNUNG: Stadtbrand Herrenberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstes_feuer_datum: 1466
+  erstes_feuer_tag: "9. Juli 1466"
+  erstes_feuer_haeuser_zerstoert: "mehr als 90"
+GUELTIG_AB: 1466
+GUELTIG_BIS: 1466
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtbrand
+BEZEICHNUNG: Großer Stadtbrand Herrenberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1635
+  monat: Juli
+  haeuser_zerstoert: 280
+  gebaeude_verschont: "Stiftskirche und einige Häuser am Rand der Altstadt"
+  zusatzkatastrophe_pest: true
+  pest_todesfaelle: 421
+GUELTIG_AB: 1635
+GUELTIG_BIS: 1635
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: territorialwechsel
+BEZEICHNUNG: Herrenberg an Württemberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  uebergang_datum: 1382
+  uebergang_tag: "10. Februar 1382"
+  kaeufer: "Grafen von Württemberg"
+  kaufpreis: "40000 Pfund Heller"
+  verkaufsgegenstand: "Herrschaft und Stadt Herrenberg mit allem Zubehör und allen Rechten im Schönbuch"
+  grund_verkauf: "Teilung der Herrschaft im Jahr 1334"
+GUELTIG_AB: 1382
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Nico Reith
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtportrait/Persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: "Oberbürgermeister"
+  amtsantritt: 2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Thomas Sprißler
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtportrait/Persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: "Oberbürgermeister"
+  amtszeit: 2008-2024
+  wiederwahlquote: 97.5
+  wiederwahlquote_einheit: "%"
+  wiederwahljahrgang: 2015
+GUELTIG_AB: 2008
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Dr. Volker Gantner
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtportrait/Persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: "Oberbürgermeister"
+  amtszeit: 1985-2008
+GUELTIG_AB: 1985
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Heinz Schroth
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtportrait/Persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1924
+  todesjahr: 2006
+  amt_1: "Bürgermeister"
+  amtszeit_1: 1953-1973
+  amt_2: "Oberbürgermeister"
+  amtszeit_2: 1974
+  ehrenbuerger_ernennung: 1985
+  ehrenbuerger_ernennungsdatum: "10. September 1985"
+  buergermedaille_verleihung: 1973
+  buergermedaille_verleihungsdatum: "11. September 1973"
+  buergermedaille_grund: "langjähriger Oberbürgermeister der Stadt Herrenberg"
+GUELTIG_AB: 1953
+GUELTIG_BIS: 2006
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Reinhold Schick
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtportrait/Persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aemter: "Bürgermeister, Stadtschultheiß"
+  amtszeiten: "1948-1953, 1930-1934, 1927-1930"
+GUELTIG_AB: 1927
+GUELTIG_BIS: 1953
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Niethammer
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtportrait/Persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1879
+  todesjahr: 1965
+  beruf: "Kaufmann"
+  amt: "Bürgermeister"
+  amtszeit: 1945-1946
+  ehrenbuerger_ernennung: 1959
+  ehrenbuerger_ernennungsdatum: "1. Mai 1959"
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1965
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Walther C. Knoll
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtportrait/Persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1878
+  todesjahr: 1971
+  beruf: "Möbelfabrikant"
+  ehrenbuerger_ernennung: 1956
+  ehrenbuerger_ernennungsdatum: "20. Oktober 1956"
+GUELTIG_AB: 1878
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Haußer
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtportrait/Persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1865
+  todesjahr: 1938
+  amt: "Stadtschultheiß"
+  amtszeit: 1893-1927
+  ehrenbuerger_ernennung: 1927
+  ehrenbuerger_ernennungsdatum: "13. August 1927"
+GUELTIG_AB: 1893
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Dr. Viktor von Sandberger
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtportrait/Persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1835
+  todesjahr: 1912
+  aemter: "Stadtpfarrer, Konsistorialpräsident"
+  ehrenbuerger_ernennung: 1905
+  ehrenbuerger_ernennungsdatum: "22. April 1905"
+GUELTIG_AB: 1835
+GUELTIG_BIS: 1912
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Christian Krayl
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtportrait/Persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1826
+  todesjahr: 1904
+  berufe: "Färber, Gemeinderat, Stadtpfleger"
+  ehrenbuerger_ernennung: 1897
+  ehrenbuerger_ernennungsdatum: "6. April 1897"
+GUELTIG_AB: 1826
+GUELTIG_BIS: 1904
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Hans Jakob Köhnle
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtszeit: 1618
+  todesjahr: 1675
+  alter_bei_tod: 57
+  familienrolle: "Stammvater der Handelsfamilie Köhnle"
+  geschaeftstaetigkeiten: "Versorgung Herrenbergs und Umgebung mit Eisenwaren und Produkten aus Übersee"
+  geschaeftsgruendung_grund: "Nachfrage nach dem Stadtbrand 1635 und Ende des 30-jährigen Kriegs sehr gefragt"
+  buergeramt: "Mitglied im Rat"
+  denkmal: "Epitaph in der Vorhalle der Stiftskirche"
+  wohnhaus: "Köhnle-Haus auf dem Marktplatz"
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1675
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Jerg Ratgeb
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1480
+  todesjahr: 1526
+  herkunft: "Schwäbisch-Gmünd"
+  beruf: "Maler"
+  wirkungsorte: "Stuttgart, Heilbronn, Hirschhorn/Neckar, Frankfurt a.M., Herrenberg ab 1518"
+  hauptwerk: "Herrenberger Altar"
+  hauptwerk_maljahrgang: 1518-1519
+  hauptwerk_aufbewahrung: "Staatsgalerie Stuttgart"
+  politische_betaetigung: "Partizipation am Bauernkrieg"
+  todesart: "zum Tode verurteilt und durch Vierteilung hingerichtet"
+  beteiligung_bauernkrieg: 1525
+  schulgebaeude_benannt_nach: "Jerg-Ratgeb-Realschule"
+GUELTIG_AB: 1480
+GUELTIG_BIS: 1526
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Heinrich Schickhardt
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: "Herrenberg"
+  geburtsjahr: 1558
+  todesjahr: 1635
+  beruf: "Baumeister"
+  bedeutung: "einer der bedeutendsten Baumeister Württembergs"
+  familienbeziehung_zu_kirche: "Enkel des Schöpfers des Chorgestühls in der Stiftskirche"
+GUELTIG_AB: 1558
+GUELTIG_BIS: 1635
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Schickard
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: "Herrenberg"
+  geburtsjahr: 1592
+  todesjahr: 1635
+  familienbeziehung: "Urenkel des Schöpfers des Chorgestühls, Neffe des Baumeisters Heinrich Schickhardt"
+  profil: "Universalgenie"
+  erfindung_rechenmaschine: 1623
+  erfindung_beschreibung: "Rechenmaschine"
+GUELTIG_AB: 1592
+GUELTIG_BIS: 1635
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Johann Valentin Andreae
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: "Herrenberg"
+  geburtsjahr: 1586
+  todesjahr: 1654
+  beruf: "evangelischer Theologe und Schriftsteller"
+  hauptwerk: "Christianopolis"
+  hauptwerk_jahr: 1619
+  hauptwerk_beschreibung: "erste deutsche Staatsutopie"
+GUELTIG_AB: 1586
+GUELTIG_BIS: 1654
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Julius Krayl
+QUELLE: https://www.herrenberg.de/archiv/Historische-Fotos-aus-dem-Stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Buchbinder und Fotograf"
+  geschaeftsadresse: "Stuttgarter Straße 16 (damals Nufringer Straße)"
+  wohnverhaeltnisse: "Wohnhaus mit Frau, Eltern und fünf Kindern, Fotoatelier, Buchbinderei und Ladenlokal"
+  taetigkeitszeit_fotografieren: "um die Jahrhundertwende, fast 30 Jahre lang"
+  geschaefttaetigkeiten: "Gruppenfotografien von Vereinen, Schulklassen, Konfirmandenjahrgängen (mit Holzkamera)"
+  nachfolger: "Julius Krayl junior (Sohn)"
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Dr. Marcel vom Lehn
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches/Herrenberg-im-Nationalsozialismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: "Historiker"
+  herkunftsort: "Berlin"
+  forschungsauftrag: "wissenschaftliche Aufarbeitung 1933-1945 für Herrenberg"
+  beauftragung_jahr: 2015
+  forschungsdauer: "zwei Jahre intensive Recherchen"
+  recherchemethoden: "Archivrecherchen, Quellenmaterial, Zeitzeugen-Interviews"
+  publikation_titel: "Herrenberg im Nationalsozialismus. Stadt und Gesellschaft (1933-1945)"
+  publikation_datum: "November 2017"
+  ausstellung: "seit November 2017 im Stadtarchiv"
+  workshop_digitaler_stadtrundgang: 2019
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: medaille
+BEZEICHNUNG: Paul-Binder-Medaille
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtportrait/Persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihungsbeginn: 2009
+  grund_der_medaille: "Gedenken an Paul Binder, unermüdlicher Kämpfer für soziale Anliegen"
+  verleihungskriterium: "besonders herausragende Verdienste im sozialen Bereich"
+  paul_binder_lebensdaten: "1935-2008"
+  paul_binder_alter_tod: 73
+  paul_binder_gemeinderat_dauer: "1971-2008"
+  paul_binder_spd_vorsitz_dauer: "12 Jahre"
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Affstätt
+ORTSTEIL_BEZUG: Affstätt
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1965
+  einwohner_aktuell: 2450
+  gueltig_ab: 2026
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Haslach
+ORTSTEIL_BEZUG: Haslach
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1965
+  einwohner_aktuell: 1703
+  gueltig_ab: 2026
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Kayh
+ORTSTEIL_BEZUG: Kayh
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1972
+  einwohner_aktuell: 1746
+  gueltig_ab: 2026
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Kuppingen
+ORTSTEIL_BEZUG: Kuppingen
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1971
+  ersterwahnung_jubilaeum: 2011
+  ersterwahnung_jubilaeum_jahre: 1050
+  einwohner_aktuell: 4242
+  gueltig_ab: 2026
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Mönchberg
+ORTSTEIL_BEZUG: Mönchberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1972
+  einwohner_aktuell: 1221
+  gueltig_ab: 2026
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Oberjesingen
+ORTSTEIL_BEZUG: Oberjesingen
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1972
+  ersterwahnung_jubilaeum: 2014
+  ersterwahnung_jubilaeum_jahre: 700
+  einwohner_aktuell: 3171
+  gueltig_ab: 2026
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Gültstein
+ORTSTEIL_BEZUG: Gültstein
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1975
+  ersterwahnung_jubilaeum: 2019
+  ersterwahnung_jubilaeum_jahre: 1250
+  ersterwahnung_quelle: "Lorscher Codex"
+  partnerschaft_amplepuis: 1970
+  einwohner_aktuell: 3429
+  gueltig_ab: 2026
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Gäubahn
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strecke: "Stuttgart-Herrenberg-Freudenstadt"
+  eroeffnung: 1879
+  bauphase: 1875-1881
+GUELTIG_AB: 1879
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Ammertalbahn
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strecke_nach: "Tübingen"
+  eroeffnung: 1909-1910
+  reaktivierung: 1999
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: S-Bahn Herrenberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroffnungsjahr: 1992
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schönbuchturm
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Erlebnis-Herrenberg/Staunen-Erleben/Sehenswert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 35
+  hoehe_einheit: "Meter"
+  lage: "Stellberg im Schönbuch"
+  material: "Lärchenholz (heimisch) und Stahlseile"
+  bauweise: "zwei gegenläufige Treppen winden sich spiralförmig nach oben"
+  plattformen: 3
+  fertigstellung: "2020 (neuer Blickfang)"
+  aussicht: "Blick über Schönbuch, Heckengäu, Schwarzwald bis Schwäbische Alb"
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Glockenmuseum Stiftskirche
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Erlebnis-Herrenberg/Staunen-Erleben/Sehenswert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Turm der Stiftskirche"
+  eigenschaft_sammlungsumfang: "einmalig in Europa"
+  glocken_laeutbar: 30
+  glocken_zeitumfang: "neun Jahrhunderte"
+  glockenprogramm_sammelbestanteile: "altes Herrenberger Geläut, Glocken aus deutschsprachigen Gebieten"
+  veranstaltung_konzerte: "Glockenkonzerte jeden ersten Samstag eines Monats um 17 Uhr"
+  carillon_tonstimmen: 50
+  carillon_tonumfang: "b1 bis c6"
+  carillon_melodien_zeiten: "werktags 8:00, 12:00, 18:00 Uhr und 10:00, 16:00, 21:00 Uhr"
+  aktueller_status: "leider auf unbestimmte Zeit geschlossen aufgrund von Baumaßnahmen"
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Naturfreibad Herrenberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroffnungsjahr: 2015
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Freibad Herrenberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1931-1932
+GUELTIG_AB: 1931
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Alte Turnhalle Herrenberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1886
+  zweck: "erste städtische Turn- und Festhalle"
+  lage: "Seestraße"
+GUELTIG_AB: 1886
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Stadt- und Mehrzweckhalle
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 1936
+GUELTIG_AB: 1936
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Kreiskrankenhaus Herrenberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1982
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Musikschule Herrenberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Bismarckstr. 12"
+  einweihung: 1983
+GUELTIG_AB: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Stadtbibliothek Herrenberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_eroeffnung: 1983
+  erste_adresse: "Bahnhofstr. 2"
+  neueinweihung: 1994
+  neubau_name: "Hofscheuer"
+GUELTIG_AB: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: partner_gemeinde
+BEZEICHNUNG: Partnerschaft Herrenberg-Tarare
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstadt: "Tarare"
+  partnerstadt_land: "Frankreich"
+  partnerstadt_region: "Rhône"
+  unterzeichnung_urkunde: 1960
+  unterzeichnungsdatum_urkunde: "1960"
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: partner_gemeinde
+BEZEICHNUNG: Partnerschaft Gültstein-Amplepuis
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerschaft_fuer_stadtteil: "Gültstein"
+  partnerstadt: "Amplepuis"
+  partnerschaft_gruendungsjahr: 1970
+ORTSTEIL_BEZUG: Gültstein
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: partner_gemeinde
+BEZEICHNUNG: Partnerschaft Herrenberg-Fidenza
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstadt: "Fidenza"
+  partnerstadt_land: "Italien"
+  unterzeichnung_urkunde: 1989
+  unterzeichnungsdatum_urkunde: "1989"
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: archiv
+BEZEICHNUNG: Stadtarchiv Herrenberg
+QUELLE: https://www.herrenberg.de/archiv/Historische-Fotos-aus-dem-Stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sammlungsart_bilder: "historische Fotos und Postkarten"
+  sammlungsumfang: 20000
+  sammlungsumfang_einheit: "Fotos und Postkarten"
+  veroeffentlichung_rhythmus: "in unregelmäßigen Abständen"
+  social_media_publikation: "hashtag #ThrowBackThursday auf Facebook und Instagram"
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: publikation
+BEZEICHNUNG: Herrenberg im Nationalsozialismus. Stadt und Gesellschaft (1933-1945)
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches/Herrenberg-im-Nationalsozialismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  autor: "Dr. Marcel vom Lehn"
+  erscheinungsjahr: 2017
+  erscheinungsjahr_monat: November
+  inhalt: "wissenschaftliche Aufarbeitung der Zeit 1933-1945 für Herrenberg"
+  begleitausstellung: "seit November 2017 im Stadtarchiv"
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: preis_auszeichnung
+BEZEICHNUNG: Umweltschutzpreis Herrenberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stiftung_jahr: 1986
+  verleihungsrhythmus: "jährlich"
+  stifter: "Stadt Herrenberg"
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: geschichtsabschnitt
+BEZEICHNUNG: Kriegsende und Befreiung Herrenberg
+QUELLE: https://www.herrenberg.de/archiv/Historische-Fotos-aus-dem-Stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroberung_datum: 1945
+  eroberung_tag: "18. April 1945"
+  eroberung_art: "Allierte erobern die Stadt"
+  bedingungslose_kapitulation: "8. Mai 1945"
+  kampfverlauf_differenzierung: "kampflos in Gültstein, Mönchberg, Kayh; schwere Kämpfe in Affstätt, Kuppingen, Oberjesingen"
+  nachtrag_allierte: "Tage nach den Kämpfen gingen teilweise mit Verbrechen der französischen Kampftruppen einher"
+  normalisierung_nach_bedingungsloser_kapitulation: "Lebensmittelgeschäfte, Metzger, Bäcker öffnen regulär; Radios werden zurückgegeben"
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: geschichte
+BEZEICHNUNG: Herrenberg 700-Jahres-Jubilaeum
+QUELLE: https://www.herrenberg.de/archiv/Historische-Fotos-aus-dem-Stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  feier_jahr: 1929
+  jubilaeum_jahre: 700
+  veranstaltungsart: "Festumzug"
+  dokumentation: "fotografiert von Julius Krayl junior"
+GUELTIG_AB: 1929
+GUELTIG_BIS: 1929
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: dokumentation
+BEZEICHNUNG: Digitaler Stadtrundgang Herrenberg im Nationalsozialismus
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches/Herrenberg-im-Nationalsozialismus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  workshop_jahr: 2019
+  workshop_monat: Januar
+  workshop_schuler_anzahl: 20
+  workshop_schule: "Schickhardt-Gymnasium"
+  workshop_leiter: "Historiker Dr. Marcel vom Lehn"
+  stationen_anzahl: 10
+  station_themenbereiche: "Ursachen des NS, Machtübernahme, Ambivalenz, NS-Herrschaft, Kirche, Schule und Jugend, Krieg, Zwangsarbeit, Euthanasie, Holocaust"
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Spiele ohne Grenzen Herrenberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  organisiert_durch: "Stadtjugendring Herrenberg"
+  veranstaltungstyp: "inklusive Großveranstaltung"
+  zeitraum: 2004-2016
+  beschreibung: "Spiele ohne Grenzen"
+GUELTIG_AB: 2004
+GUELTIG_BIS: 2016
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Brot und Rosen Herrenberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstveranstaltung: 2005
+  anlass: "Internationaler Frauentag"
+  rhythmus: "rund um den internationalen Frauentag"
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: organisation
+BEZEICHNUNG: Herrenberger Frauennetzwerk
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 2002
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: organisation
+BEZEICHNUNG: Bürgerstiftung Herrenberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 2009
+  gruender_anzahl: 59
+  gruender_beschreibung: "Stifter/innen"
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: programm
+BEZEICHNUNG: Herrenberg 2020 Stadtentwicklungsprozess
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auftakt: 2009
+  leitbild_und_ideenwettbewerb_jahr: 2011
+  ort_auftaktveranstaltung: "Stadthalle"
+  idee_ideenwettbewerb: "städtebaulicher Ideenwettbewerb"
+GUELTIG_AB: 2009
+GUELTIG_BIS: 2011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: programm
+BEZEICHNUNG: Herrenberg 2035 Leitbildprozess
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  prozess_zeitraum: 2020-2022
+  umfrage_jahr: 2021
+  umfrage_art: "digitale Bürgerumfrage"
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur_projekt
+BEZEICHNUNG: Seestraße/Horber Straße/Hindenburgstraße Umbau
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 2020
+  projekttyp: "Modellprojekt"
+  projektname: "Saubere Luft"
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur_projekt
+BEZEICHNUNG: Technisches Rathaus Seeländer-Areal
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umzug_dezernat: "Dezernat 3"
+  umzug_jahr: 2021
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Jerg-Ratgeb-Realschule
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benannt_nach: "Jerg Ratgeb (Maler, 1480-1526)"
+  schultyp: "Realschule"
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Schickhardt-Gymnasium
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Die-Stadt/Historisches | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schultyp: "Gymnasium"
+  besonderheit_kooperationen: "Workshop mit Historiker Dr. Marcel vom Lehn zur Erstellung digitaler Stadtrundgang NS-Zeit 2019"
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: punkt_interessante
+BEZEICHNUNG: Jerg-Ratgeb-Skulpturenpfad
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Erlebnis-Herrenberg/Staunen-Erleben/Sehenswert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstellung_jahr: 2012
+  laenge: 8
+  laenge_einheit: "Kilometer"
+  startpunkt: "Herrenberger Bahnhof"
+  verlauf: "über Jerg Ratgeb Skulpturenpfad auf den Marktplatz und von dort auf den Schlossberg"
+GUELTIG_AB: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: punkt_interessante
+BEZEICHNUNG: Marktplatz Herrenberg
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Erlebnis-Herrenberg/Staunen-Erleben/Historischer-Marktplatz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: "geschlossenes Fachwerkensemble"
+  rathaus_baudatum: 1806-1807
+  uebrige_haeuser_baudatum: "nach 1635 (Jahrzehnte nach Großbrand)"
+  veranstaltungen: "Wochenmarkt dienstags und samstags, Sommerfarben im Juli, Weihnachtsmarkt Dezember"
+GUELTIG_AB: 1635
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: wanderweg
+BEZEICHNUNG: Entdeckertour Schönbuchturm
+QUELLE: https://www.herrenberg.de/de/Stadtleben/Erlebnis-Herrenberg/Staunen-Erleben/Sehenswert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  laenge: 8
+  laenge_einheit: "km"
+  startpunkt: "Gärtringen-Rohrau"
+  verlaeufer: "Pfade und Wege, am Wasser entlang, durch Wald, steil bergauf zum Schönbuchturm"
+  landart_merkmale: true
+  landart_ort: "Wegesrand"
+  zielort: "Schönbuchturm (Stellberg)"
+  attraktionen_unterwegs: "Krebsbach-Stuben in Rohrau, Naturfreundehaus Herrenberg, Sandmühle in Rohrau"
+  lernmodule: "Themen Wasser, Wiese, Wald, Turm, Kunst"
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

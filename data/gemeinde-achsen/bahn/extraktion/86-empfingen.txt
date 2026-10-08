@@ -1,0 +1,90 @@
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Katholische Kirchengemeinde St. Georg
+ORTSTEIL_BEZUG: Empfingen
+QUELLE: https://www.empfingen.de/leben-wohnen/kirchen-bestattungen/kirchengemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirche: St. Georg
+  seelsorgeeinheit: Seelsorgeeinheit Empfingen - Dießener Tal
+  adresse: Horber Gässle 29
+  telefon: 07485 97874-0
+  fax: 07485 97874-29
+  gottesdienst_sonntag: 10:30 Uhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Katholische Kirchengemeinde St. Stephanus
+ORTSTEIL_BEZUG: Wiesenstetten
+QUELLE: https://www.empfingen.de/leben-wohnen/kirchen-bestattungen/kirchengemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirche: St. Stephanus
+  seelsorgeeinheit: Seelsorgeeinheit Horb a.N.
+  adresse: Hauptstraße 75, 72186 Empfingen-Wiesenstetten
+  büro_adresse: Gutermannstraße 8, 72160 Horb a.N.
+  telefon: 07451 5553120
+  fax: 07451 5553129
+  gottesdienst_sonntag: 09:00 oder 10:30 Uhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Empfingen
+ORTSTEIL_BEZUG: Empfingen
+QUELLE: https://www.empfingen.de/leben-wohnen/kirchen-bestattungen/kirchengemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gesamtkirchengemeinde: Mühlheim - Empfingen - Renfrizhausen
+  adresse: Empfinger Straße 1, 72172 Sulz a.N. - Mühlheim am Bach
+  telefon: 07454 98274
+  gottesdienst_ort: Kapelle am Friedhof Empfingen
+  gottesdienst_tage: 2. und 4. Sonntag
+  gottesdienst_zeit: 10:30 Uhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Kriegergedächtniskapelle
+ORTSTEIL_BEZUG: Empfingen
+QUELLE: https://www.empfingen.de/leben-wohnen/kirchen-bestattungen/kirchengemeinden | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Friedhof Empfingen
+  nutzung: Evangelische Gottesdienste
+  gottesdienst_tage: 2. und 4. Sonntag
+  gottesdienst_zeit: 10:30 Uhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: autobahn
+BEZEICHNUNG: A 81
+QUELLE: https://www.empfingen.de/gemeinde-wirtschaft/geschichte-wappen/geschichte-empfingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: Dezember 1978
+  strecke: Stuttgart - Westlicher Bodensee
+  auswirkung: Gemeinde kommt aus Verkehrsschatten
+  gewerbeflächen: ca. 50 ha an Anschlussstelle
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kaserne
+ORTSTEIL_BEZUG: Empfingen
+QUELLE: https://www.empfingen.de/gemeinde-wirtschaft/geschichte-wappen/geschichte-empfingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bundeswehr_von: 1968
+  bundeswehr_bis: 1989
+  nutzung_nach_1989: Aufnahmestelle für Aussiedler
+  aussiedler_bis: 2006
+  übergang_gemeinde: danach
+  nutzung_aktuell: Gewerbeflächen
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

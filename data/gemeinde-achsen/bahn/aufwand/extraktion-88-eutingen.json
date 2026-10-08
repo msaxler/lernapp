@@ -1,0 +1,50 @@
+{
+ "stufe": "extraktion",
+ "ort": "88-eutingen",
+ "prompt": "prompt-stufe1-v0.6.txt",
+ "modell_wunsch": "haiku",
+ "modelle": [
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 18995,
+ "token_ein": 21230,
+ "token_aus": 10246,
+ "usage": {
+  "input_tokens": 9,
+  "cache_creation_input_tokens": 14093,
+  "cache_read_input_tokens": 7128,
+  "output_tokens": 10246,
+  "output_tokens_details": {
+   "thinking_tokens": 4228
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 14093,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 9,
+    "output_tokens": 10246,
+    "cache_read_input_tokens": 7128,
+    "cache_creation_input_tokens": 14093,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 14093
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.0801378,
+ "sekunden": 92,
+ "fehler": false,
+ "zeit": "2026-10-08T08:49:01"
+}

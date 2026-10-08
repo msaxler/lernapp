@@ -1,0 +1,650 @@
+ENTITÄT: ort
+BEZEICHNUNG: Ammerbuch
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/unsere-gemeinde/geschichtliches-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründungsjahr: 1971
+  gründungstyp: Zusammenschluss von Gemeinden
+  benannt_nach: Flüsse und Landschaften
+  namensherkunft: "Ammer und Schönbuch – daher der Name Ammerbuch"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+QUELLE: https://www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/sehenswuerdig | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bundesland: Baden-Württemberg
+  regierungsbezirk: Tübingen
+  landkreis: Tübingen
+  kfz_kennzeichen: TÜ
+  postleitzahl: "72119"
+  telefonvorwahl: "07073"
+  telefonvorwahl_ausnahme: "07032 (Altingen)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: ort
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/unsere-gemeinde/einwohnerzahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 11641
+  einwohner_genauigkeit: "ca."
+  fläche_ha: 4805
+  hoehe_min_m: 345
+  hoehe_max_m: 551
+  haushalte: 5230
+  haushalte_genauigkeit: "Schätzung"
+GUELTIG_AB: 2026
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Altingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/unsere-gemeinde/einwohnerzahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigenschaft_geographie: liegt an der Ammer
+  einwohner: 2622
+  fläche_ha: 864
+  hoehe_min_m: 373
+  hoehe_max_m: 551
+  haushalte: 1180
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Pfäffingen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/unsere-gemeinde/einwohnerzahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigenschaft_geographie: liegt an der Ammer
+  einwohner: 1688
+  fläche_ha: 370
+  hoehe_min_m: 345
+  hoehe_max_m: 515
+  haushalte: 790
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Poltringen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/unsere-gemeinde/einwohnerzahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigenschaft_geographie: liegt an der Ammer
+  einwohner: 1834
+  fläche_ha: 484
+  hoehe_min_m: 350
+  hoehe_max_m: 460
+  haushalte: 810
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Reusten
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/unsere-gemeinde/einwohnerzahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigenschaft_geographie: liegt an der Ammer
+  einwohner: 929
+  fläche_ha: 611
+  hoehe_min_m: 370
+  hoehe_max_m: 442
+  haushalte: 440
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Breitenholz
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/unsere-gemeinde/einwohnerzahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigenschaft_geographie: liegt am Schönbuch
+  einwohner: 762
+  fläche_ha: 1082
+  hoehe_min_m: 386
+  hoehe_max_m: 506
+  haushalte: 330
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Entringen
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/unsere-gemeinde/einwohnerzahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigenschaft_geographie: liegt am Schönbuch
+  einwohner: 3806
+  fläche_ha: 1394
+  hoehe_min_m: 360
+  hoehe_max_m: 545
+  haushalte: 1680
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Magnus-Kirche
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/historische-kirchengebaeude | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religionsgemeinschaft: katholisch
+  ursprünglicher_baustil: romanisch (Wehrkirche)
+  baustil_umbau: spätgotisch
+  baudauer_ursprungsbau: 12./13. Jahrhundert
+  umbau_jahr: 14. Jahrhundert
+  besonderheit_kirchhof: ummauert, burgartig
+  turm_besonderheit: hochgotischer Chorturm mit Schießscharten und Maßwerkfenstern
+  malereien_entdeckung_jahr: 1954
+  malereien_beschreibung: spätgotische Malereien mit Szenen aus Marienleben an Nordwand und Ostwand, Darstellungen von Goldener Pforte, Geburt Maria, Verkündigung, Heimsuchung, Geburt Christi, Anbetung, Abendmahl, vier Evangelisten mit Kirchenvätern im Kreuzgratgewölbe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche
+ORTSTEIL_BEZUG: Altingen
+QUELLE: https://www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/historische-kirchengebaeude | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religionsgemeinschaft: evangelisch
+  baustil: neugotisch
+  baubeschluss_jahr: 1859
+  erbauer: Friedrich Leins
+  erbauer_bekannt_fuer: Architekt der Villa Berg in Stuttgart
+  einweihung: 26.10.1870
+  turmeinsturz_jahr: 1880
+  grund_turmeinsturz: schweres Unwetter
+  turmwiederaufbau_jahr: 1890
+  beschaedigung_1945: ja
+  umbau_jahr: 1960
+  chorfenster_kuenstler: Adolf Saile
+  chorfenster_jahr: 1960
+GUELTIG_AB: 1859
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Wendelin-Kirche
+ORTSTEIL_BEZUG: Breitenholz
+QUELLE: https://www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/historische-kirchengebaeude | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religionsgemeinschaft: evangelisch
+  kapelle_ersterwähnung: 1453
+  kapelle_anlass: Stiftung einer Frühmesse zu Ehren des heiligen Wendelin
+  altar_weihe_jahr: 1485
+  altar_weihe_patrone: heiliges Kreuz und heiliger Wendelin
+  kirchenpatron_jahr: 1565
+  altar_steinmarke_jahr: 1577
+  kirchturm_baujahr: 14. Jahrhundert
+  kirchturm_fundamente: wahrscheinlich älter
+  langhaus_baujahr: 1577 (alter Kirchenbau); 1964 (Neubau)
+  besonderheit: einer der frühestens lutherischen Kirchenbauten überhaupt
+  übernahmen_aus_altbau: Brüstungsbilder der Empore vom Anfang des 17. Jahrhunderts, bäuerliche Malerei von 1747, Kruzifix von ca. 1400
+GUELTIG_AB: 1453
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Michaelskirche
+ORTSTEIL_BEZUG: Entringen
+QUELLE: https://www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/historische-kirchengebaeude | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religionsgemeinschaft: evangelisch
+  vorgängerbau_vorkommen: 8. Jahrhundert
+  vorgängerbau_baustil: romanisch
+  vorgängerbau_ersterwähnung: 1275
+  kirche_baujahr: 1452
+  kirche_baustil: gotisch
+  turm_beschaffenheit: mächtiger Wehrturm mit Schießscharten
+  turm_untergeschoss: ehemalige Kapelle mit Kreuzrippengewölbe
+  glockenstuhl_material: mittelalterliche Eiche
+  chor_baujahr: Anfang des 15. Jahrhundert
+  inschrift_langhaus: anno dni 1452 incepta est hec eccia
+  taufstein_baujahr: 15. Jahrhundert
+  taufstein_stil: spätgotisch mit Maßwerkzierrat
+  kanzelkorb_epoche: Reformationszeit mit geschnitzten Holzintarsien
+  herrschaftsstuhl_baujahr: 1627
+  chorgestühl_baujahr: Ende des 15. Jahrhundert
+  chorgestühl_besonderheit: spätgotisch, zu den am aufwändigsten gestalteten Chorstühlen im oberen Neckarraum
+  kruzifix_altar_baujahr: 1969
+  kruzifix_herkunft: aus dem 16. Jahrhundert
+  grabsteine_zeitraum: 16.–19. Jahrhundert
+  stifterfamilien_wappen: von Hailfingen und von Ehingen
+  weihwasserbecken_zeit: mindestens seit 1452 an Außenwand
+  weihwasserbecken_herkunft: vorreformatorische Zeit
+  öffnung_besichtigung: Sonntags April bis Oktober nach Gottesdienst bis 18:00 Uhr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Michaelskirche
+ORTSTEIL_BEZUG: Pfäffingen
+QUELLE: https://www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/historische-kirchengebaeude | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religionsgemeinschaft: evangelisch
+  ersterwähnung: 1275
+  kirchenheilige_namensfestlegung: 1483
+  baujahr: 1711
+  baustil: Barockzeit (Saalkirche)
+  baustil_charakteristik: typisch für württembergischen Barockstil
+  verwendete_ältere_bauteile: ja
+  grabmäler: Renaissance-Grabmäler der Herren von Gültlingen aus dem 16. Jahrhundert
+  apostelbilder_künstler: Johann Emanuel Schleich (Tübinger Kunstmaler)
+  apostelbilder_baujahr: 1721
+  apostelbilder_ort: Chor
+  besonderheit_kanzel: Schalldeckel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Stephanus-Kirche
+ORTSTEIL_BEZUG: Poltringen
+QUELLE: https://www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/historische-kirchengebaeude | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religionsgemeinschaft: katholisch
+  ersterwähnung: 1191
+  lage_beschreibung: außerhalb des Dorfes in Richtung Reusten
+  name_alternative: "Schlosskirche"
+  chor_baustil: spätgotisch
+  turm_baustil: spätgotisch
+  kirchenschiff_baustil: Barockzeit
+  zwiebeldach_baustil: Barokzeit
+  zwiebeldach_zeitraum: 1750–1762
+  hochaltar_beschaffenheit: groß, durchbrochen gearbeitet
+  seitenaltäre: zwei
+  sakramentshäuschen: spätgotisch, reich verziert
+  wandkreuz_baujahr: 1500
+  totenleuchte_baujahr: 14. Jahrhundert
+  totenleuchte_material: Stein
+  totenleuchte_lage: Außenbereich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Clemens-Kirche
+ORTSTEIL_BEZUG: Poltringen
+QUELLE: https://www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/historische-kirchengebaeude | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religionsgemeinschaft: katholisch
+  baustil_chor: gotisch
+  baustil_chor_zeitraum: 15. Jahrhundert
+  fenster_chor: maßwerkgegliedert
+  baustil_langhaus: romanisch
+  langhaus_fenster: Rundbogenfenster
+  chorflankenturm: ja
+  turmhelm: Spitzhelm
+  taufstein_baustil: gotisch (einfach)
+  taufstein_baujahr: 14. Jahrhundert
+  holzbildwerke: spätgotisch
+  sakramentsnische: ja
+  wandkreuz_baujahr: 15. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Kelterkirche
+ORTSTEIL_BEZUG: Reusten
+QUELLE: https://www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/historische-kirchengebaeude | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religionsgemeinschaft: evangelisch
+  umnutzung_von: Kelter
+  kelter_baujahr: 1575
+  ursprüngliches_gebäude: Bergkirche
+  bergkirche_zustand: baufällig
+  bergkirche_abriss: ja
+  umbau_genehmigung_durch: Herzog Karl
+  umbau_genehmigung_jahr: 1759
+  umbau_fertigstellung: 1760
+  umbau_besonderheit: ungewöhnliche Innenraumproportion (breiter als lang)
+  turm_herkunft: Teile vermutlich von alter Bergkirche
+  kruzifix_herkunft: vermutlich von alter Bergkirche
+  emporenbilder_herkunft: von alter Bergkirche
+  glocken_herkunft: eine von zwei Glocken aus dem 15. Jahrhundert
+  glocken_gesamtzahl: zwei
+  herrschaftsstuhl: ja
+  innenraumaufteilung: besonders interessant wegen ungewöhnlicher Gestaltung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Daniel Rudolph
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/unsere-gemeinde/geschichtliches-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtsbezeichnung: Bürgermeister
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Christel Halm
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/unsere-gemeinde/geschichtliches-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtsbezeichnung: Bürgermeisterin
+GUELTIG_AB: 2014
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Friedrich v. Ow-Wachendorf
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/unsere-gemeinde/geschichtliches-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtsbezeichnung: Bürgermeister
+GUELTIG_AB: 2001
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Hugo Dieter
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/unsere-gemeinde/geschichtliches-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtsbezeichnung: Bürgermeister
+GUELTIG_AB: 1972
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Hohenentringen
+ORTSTEIL_BEZUG: Entringen
+QUELLE: https://www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/schloss-hohenentringen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1293-1294
+  ersterwähnung_quelle: Urkunden des Klosters Bebenhausen
+  lage: Rand des Naturparks Schönbuch über Entringen und Ammertal
+  bautyp: Steinbau langgestreckt dreigeschossig
+  bautyp_dach: Walmdach
+  baudauer_hauptbau: 15.–16. Jahrhundert
+  zugang: Treppenturm vom Hof
+  wirtschaftsgebäude_1: 1724
+  wirtschaftsgebäude_2: 1727
+  ausblick_beschreibung: großartig über Ammerbuch und Oberes Gäu bis zum Schwarzwald
+  ganerbenburg_typ: ja
+  ganerbenburg_jahr: 1417
+  ganerbenburg_bewohner: fünf Ritter mit Familien (drei von Hailfingen, Rudolf von Ehingen, Hugo von Gültlingen)
+  ganerbenburg_kinderanzahl: 100
+  ganerbenburg_zug_kirchgang: Sonntag zur Kirche Entringen
+  besitz_seit: 1877
+  besitzer_familie: Freiherren von Ow-Wachendorf
+  besonderheit_malerei: Bild von Gunhild von Ow von 1913 zeigt Zug der fünf Familien
+  nutzung_gaststätte: ja
+  nutzung_gartenwirtschaft: ja
+  öffnungszeit_gartenwirtschaft: warme Jahreszeit
+  erreichbarkeit_wanderwege: ja
+  erreichbarkeit_schnellster_weg: vom Sportplatz Entringen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Christian Heinrich Zeller
+QUELLE: https://www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/schloss-hohenentringen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Hohenentringen
+  geburtsdatum: 29.03.1779
+  sterbedatum: 18.05.1860
+  beruf: christlicher Erzieher, Hausvater, Pädagoge, Liederdichter
+  wirkungsbereich: schwäbischer Pietismus, Innere Mission
+  auszeichnung: Platz im Ökumenischen Heiligenkalender
+  auszeichnung_datum: 18.05.1860
+  gedenktafel: ja
+  gedenktafel_datum: 29.03.2004
+  gedenktafel_ort: Schloss Hohenentringen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Ritter Jörg von Ehingen
+QUELLE: https://www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/schloss-hohenentringen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Schloss Hohenentringen
+  geburtsjahr: 1428
+  pilgerfahrt_rhodos: ja
+  pilgerfahrt_jerusalem: ja
+  ritterschlag: Ritter vom Heiligen Grab (Jerusalem)
+  reisen_länder: Rhodos, Jerusalem, England, Spanien
+  amt: Tübinger Obervogt
+  status: enger Vertrauter des Grafen Eberhard im Bart
+  literarisches_werk: 'Ritters Raysen nach der Ritterschafft in viel Königreych und wie Er bey der Statt Sept in Affrica Ain Kampf gethon'
+  werk_inhalt: Lebensgeschichte
+  familienbeschreibung: 100 Kinder von Hohenentringen im Jahr 1417
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.91
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Wasserschloss Poltringen
+ORTSTEIL_BEZUG: Poltringen
+QUELLE: https://www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/wasserschloss-poltringen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgängerbau: Burg auf Pfählen
+  vorgängerbau_jahr: um 1000
+  umbau_jahr: 1613
+  umbau_architekt: Heinrich Schickhardt
+  umbau_architekt_titel: württembergischer Hofbaumeister
+  umbau_auftraggeber: Christoph Franz Baron von Wolkenstein
+  umbau_ausführer: Winland (Schickhardts Baumeister)
+  umbau_stil: Renaissance-Stil
+  übernahmen_aus_altbau: Steinsockel
+  neue_vollgeschosse: zwei
+  bauform: annähernd quadratische Vierflügelanlage
+  ecktürme: vier quadratische
+  innenhof: ja
+  nebengebäude: Amtshaus, Schlossscheuer, Schlossmühle
+  schlossmühle_besonderheit: Staffelgiebel
+  kunstdenkmal_rang: eines der bemerkenswertesten Kunstdenkmale im Ammertal
+  einzigartigkeit: einziges Schloss Schickhardts das heute noch weitgehend so steht wie geplant
+  wappen_türsturz: Herren zu Wolkenstein und zu Eberstein
+  besitz_gemeinde_seit: 1890
+  unterricht_volschule_zeitraum: 1906–1960
+  weitere_einrichtungen: Schwesternstation, Kinderschule, Handarbeitsraum, öffentliche Gemeindewaschküche
+  scheuer_brand_jahr: 1930
+  scheuer_brandschutt: Schlossgraben aufgefüllt
+  gasexplosion_jahr: 1960
+  gasexplosion_schaden: südwestlicher Eckturm zerstört
+  verkauf_privat_jahr: 1966
+  verkauf_käufer_typ: privater Investor
+  renovierung_zeitraum: 1966–1972
+  wohneinheiten_privatwohnungen: 14
+  mühle_nebengebäude: ja
+  mühle_betriebszeitraum_ende: 1990
+  öffnung_besichtigung: nur von außen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Bergschloss Oberpoltringen
+QUELLE: https://www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/heinrich-schickhardt-strasse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteil_bezug: Poltringen
+  entwurf_jahr: 1613
+  entwerfer: Heinrich Schickhardt
+  abriss_jahr: ca. 1790
+  grund_abriss: nicht mehr erhalten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Wildgehege bei Entringen
+ORTSTEIL_BEZUG: Entringen
+QUELLE: https://www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/wildgehege | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Schönbuch oberhalb von Ammerbuch-Entringen
+  attraktivität: beliebter Ort bei Alt und Jung
+  spielplatz: ja
+  spielplatz_ausstattung: Rutschen, Schaukeln, Häuschen, Klettermöglichkeiten, Holzburg, Kletterspinne
+  grillstellen: 3
+  sitzgelegenheiten: viele Bänke
+  sports: Volleyballfeld
+  sports_hütte: überdachte
+  wildgehege_tiere: Wildschweine, Mufflons, Rotwild
+  weitere_fauna: Enten am Erlenweiher
+  radfahren: ja
+  wandern: ja
+  familienfreundlichkeit: ja
+  parkplatz_name: Saurucken
+  parkplatz_fußweg: ca. 2,5 km bergauf
+  zugänglichkeit_pkw: nein
+  barrierefreiheit: ja (vom Parkplatz Saurucken)
+  öpnv_anfahrt: Ammertalbahn bis Bahnhof Entringen
+  einkehr_möglichkeit: Sportheim des TGV Entringen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Grenzstein-Refugium
+ORTSTEIL_BEZUG: Entringen und Poltringen (zwischen beiden)
+QUELLE: https://www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/grenzstein-refugium | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Outdoor-Museum für historische Grenzsteine
+  lage: Verlängerung des Poltringer Weges zwischen Ammerbuch-Entringen und Ammerbuch-Poltringen
+  betriebsbeginn: 2022
+  funktion: Restaurierung und öffentliche Zugänglichkeit von historischen Grenzsteinen
+  parkplatz_lage: Schule Alemannenweg
+  fußweg_dauer: ca. 10–15 Minuten
+  fußweg_beschaffenheit: asphaltierter landwirtschaftlicher Weg
+  grenzstein_information: QR-Code-gesteuerte Informationen
+  grenzstein_anordnung: in Richtung ihrer Herkunftsorte arrangiert
+  grenzstein_charakteristika: Aufstelljahr, Nummerierung, Grenzanlieger-Zeichen (Wappen, Symbole, Buchstaben)
+  baum: Bergahorn mit Sitzbänken
+  baum_sitzbänke_initiative: Entringer Gemeinderäte 2018
+  projektträger: Gemeinde Ammerbuch, Bürgerverein Ammerbuch e.V., Förderkreis Heimatgeschichte Ammerbuch e.V., Heimat- und Wanderverein Ammerbuch e.V.
+  unterstützer: Steinbildhauer Kümmerle Entringen, Kamer GmbH Entringen, GEEK (Gesellschaft zur Erhaltung und Erforschung der Kleindenkmale in Baden-Württemberg)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Heinrich Schickhardt
+QUELLE: https://www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/heinrich-schickhardt-strasse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1558–1635
+  geburtsort: Herrenberg
+  amt: Hofbaumeister im Herzogtum Württemberg
+  fachbereich: Architektur, Städtebau, Ingenieurprojekte
+  superlativ: "schwäbischer Leonardo da Vinci"
+  reisen_italien: 1598, 1599/1600
+  bekannte_werke: Prinzenbau Stuttgart, Schillerplatz Stuttgart, Neptunbrunnen Tübingen
+  werke_andere_bekannte: Wasserschloss Poltringen (Umbau 1608, vollendet 1613), Bergschloss Oberpoltringen (Entwurf 1613), Pfarrhaus Altingen (1622), Zehntscheuer Altingen (undatiert), Schule Poltringen Umbau (1630), Pfarrhaus Poltringen Umbau (1630)
+  weitere_geplante_werke: Wasserleitung und Pumpstation an der Ammer zur Versorgung des Bergschlosses (nicht realisiert wegen Dreißigjähriger Krieg)
+  straße_benennung: Schickhardtring auf Poltringer Hottenberg
+  kulturstraße_teilnahme: ja
+  kulturstraße_seit: 2021
+  kulturstraße_name: Europäische Kulturstraße Heinrich Schickhardt
+  kulturstraße_europaratszertifikat: 2004
+  kulturstraße_umfang: über 25 Städte und Gemeinden in Deutschland, Frankreich und Schweiz
+  familiäre_verbindungen_ammerbuch: Nichte Anna verheiratet mit evangelischem Pfarrer von Poltringen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.91
+
+---
+
+ENTITÄT: gewässer
+BEZEICHNUNG: Ammer
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/unsere-gemeinde/geschichtliches-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Fließgewässer
+  ortsteile_verlauf: Altingen, Pfäffingen, Poltringen, Reusten
+  namensbedeutung: namensgeberin für Ammerbuch
+  wappensymbol: ja (fließendes Gewässer im Wappen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: landstrich
+BEZEICHNUNG: Schönbuch
+QUELLE: https://www.ammerbuch.de/gemeinde-ammerbuch/unsere-gemeinde/geschichtliches-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Naturpark und Waldlandschaft
+  ortsteile_lage: Breitenholz, Entringen
+  namensbedeutung: namensgeberin für Ammerbuch
+  wappensymbol: ja (Buche als Symbol)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Gemeinde Ammerbuch
+QUELLE: https://www.ammerbuch.de/gemeinde-ammgebäude/unsere-gemeinde/geschichtliches-wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entwurfsjahr: 1971
+  symbole: fließendes Gewässer (Ammer), Buche (Schönbuch)
+  gewässersymbol_bedeutung: Gemeindeteile an der Ammer
+  buche_symbole: sechs aufstrebende Äste und sechs bodenständige Wurzeln (sechs Gemeindeteile)
+  schutzstatus: Copyright Gemeinde Ammerbuch
+  reproduktion_genehmigung: erforderlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: kulturroute
+BEZEICHNUNG: Europäische Kulturstraße Heinrich Schickhardt
+QUELLE: https://www.ammerbuch.de/kultur-freizeit/sehenswuerdigkeiten/heinrich-schickhardt-strasse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ammerbuch_beteiligung_seit: 2021
+  europaratszertifikat: ja
+  europaratszertifikat_jahr: 2004
+  vereinsgründung: 1998
+  vereinsname: "Europäische Kulturstraße e.V."
+  vereinssitz: Horbourg-Wihr im Elsass bei Colmar
+  umfang_länderübergreifend: Deutschland, Frankreich, Schweiz
+  umfang_städte: über 25
+  ziel: Erhalt und Bewusstsein für Schickhardt-Erbe
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
