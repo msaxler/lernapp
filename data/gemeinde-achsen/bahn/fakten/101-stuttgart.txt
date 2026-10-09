@@ -1,0 +1,733 @@
+ID: 101-stuttgart/001
+ENTITÄT: ort
+BEZEICHNUNG: Stuttgart
+QUELLE: https://www.stuttgart.de/kultur/stadtgeschichte/stadtgeschichte-im-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_landeshauptstadt: true
+  einwohner_metropolregion: 2700000, genauigkeit: "ca."
+  einwohner_stadt_gemeinde_webseite: 615000, genauigkeit: "ca."
+  nationen_vertreten: 180, genauigkeit: "über"
+  migrationshintergrund_anteil: 45, einheit: "%"
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 101-stuttgart/002
+ENTITÄT: ort
+BEZEICHNUNG: Stuttgart
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 609365
+  bezugsdatum_einwohner: 2025-12-31
+  rang_deutschlands: 8
+  einwohner_dichte: 2939, einheit: "pro Quadratkilometer"
+  rang_sueddeutschlands: 2
+  rang_nach_muenchen_und_vor_nuernberg: true
+  stadtbezirke: 23
+  stadtteile: 152
+  status: Stadtkreis
+  name_schwaebisch: Schduágórd
+  urspruengliche_bedeutung: Stutengarten
+  erste_erwaehnung_urkundlich: 1160, wert: "um 1160"
+  stadterhebung: 1229-03-08
+  residenz_herzogtum: ab 1495
+  hauptstadt_koenigreich: ab 1806
+  einwohner_1875: 100000, genauigkeit: "erstmals über"
+  einwohner_1905: 250000
+  einwohner_1950: 500000
+  einwohner_1962: 640560, notiz: "historischer Höchststand"
+  hoehendifferenz: 350, einheit: "Meter", genauigkeit: "ca."
+  hoehe_min: 207, einheit: "m ü. NN"
+  hoehe_max: 549, einheit: "m ü. NN"
+  weinbau_rebflaeche: 423, einheit: "Hektar"
+  superlativ: "erste Großstadt auf dem Gebiet des heutigen Landes Baden-Württemberg (1875)"
+GUELTIG_AB: 926, notiz: "Gründung als Gestüt (926–948)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 101-stuttgart/003
+ENTITÄT: institution
+BEZEICHNUNG: Stiftung Kunstmuseum Stuttgart gGmbH
+QUELLE: https://www.stuttgart.de/rathaus/einrichtungen-und-beteiligungen/einrichtungen/stiftung-kunstmuseum-stuttgart | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendet: 2004
+  zweck: Förderung der Kunst und Kultur
+  funktion: Museum für Bildende Kunst
+  fokus: gesellschaftliche Relevanz von Kunst
+  bestand_besonderheit: bedeutendste Sammlung von Werken des Künstlers Otto Dix
+  adresse: Kleiner Schloßplatz 13, 70173 Stuttgart
+  status: gemeinnützige Einrichtung der Landeshauptstadt Stuttgart
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 101-stuttgart/004
+ENTITÄT: kirche
+BEZEICHNUNG: Martinskirche
+ORTSTEIL_BEZUG: Plieningen
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 600
+  rangfolge: "älteste Kirche Stuttgarts"
+  urspruengliche_bauweise: Holz
+  urkirche: true
+  patron: Martin von Tours
+  geweiht_dem: heiligen Martin von Tours
+  mutterkirche: true
+  mutterkirche_gebiet: Großteil des heutigen Stuttgarter Stadtgebiets
+GUELTIG_AB: 600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 101-stuttgart/005
+ENTITÄT: kirche
+BEZEICHNUNG: Stiftskirche
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  erstmals_datiert: 1170
+  bauhistorie: mehrfach erweitert, zerstört und wiederaufgebaut
+  charakterisierung: Wahrzeichen der Innenstadt Stuttgart
+  lage: Zentrum von Stuttgart
+  funktion: Hauptkirche der Evangelischen Landeskirche in Württemberg
+GUELTIG_AB: 1170
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 101-stuttgart/006
+ENTITÄT: kriegsereignis
+BEZEICHNUNG: Pogrom von Stuttgart
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  zeitpunkt: 1873-03-25
+  name_alternativ: Stuttgarter Massenkrawalle
+  charakterisierung: antisemitisch
+  verursacher_initial: Streit mit Soldaten im Geschäft der Textilhändlerin Helene Baruch
+  ort_initial: Hirschstraße 9
+  zerstoert_oder_beschaedigt: jüdische Geschäfte und Wohnungen, Bekleidungshaus Süskind geplündert
+  verletzte_polizisten_und_randalierer: mindestens 27 Polizisten
+  festnahmen: über 100 Personen
+  historische_bedeutung: "erster und einer der schwersten antijüdischen Pogrome im Deutschen Kaiserreich"
+GUELTIG_AB: 1873
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 101-stuttgart/007
+ENTITÄT: bauwerk
+BEZEICHNUNG: Altes Schloss
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  lage: Zentrum Stuttgarts, am Schloßplatz
+  urspruengliche_form: Wasserburg aus dem 10. Jahrhundert
+  erste_burganlage: ca. 950
+  umbau_zu_wasserburg: ab ca. 1302 durch Graf Eberhard I.
+  umbau_zu_renaissanceschloss: 1553–1570/78 durch Aberlin Tretsch
+  charakterisierung: repräsentatives Renaissanceschloss
+GUELTIG_AB: 950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 101-stuttgart/008
+ENTITÄT: bauwerk
+BEZEICHNUNG: Neues Schloss
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  stil: Barock
+  residenz_fuer: Herzog Carl Eugen
+  grundsteinlegung: 1746-09-03
+  fertigstellung: 1807
+  eigentumsuebergang: 1918 an Land Württemberg nach Ende der Monarchie
+GUELTIG_AB: 1746
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 101-stuttgart/009
+ENTITÄT: bauwerk
+BEZEICHNUNG: Wilhelma
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  urspruengliche_idee: Badhaus im Schlosspark
+  baubeginn: 1842
+  einweihung: 1846
+  einweihungsanlass: Hochzeit von Kronprinz Karl mit Zarentochter Olga Nikolajewna
+  heutige_form_seit: 1953
+  flaeche: 28, einheit: "Hektar"
+  tierbestand: 8000, einheit: "Tiere"
+  tierarten: 1050
+  pflanzenarten: 5000, genauigkeit: "ca."
+  rang_deutschland: "nach Berliner Zoo zweitartenreichster Zoo Deutschlands"
+GUELTIG_AB: 1846
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 101-stuttgart/010
+ENTITÄT: bauwerk
+BEZEICHNUNG: Fernsehturm Stuttgart
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  lage_stadtteil: Degerloch
+  bauweise: Stahlbetonbauweise, erstes dieser Art weltweit
+  bauzeit: 1954-1955
+  hoehe: 216.61, einheit: "m"
+  baukosten: 4.2, einheit: "Millionen DM"
+  amortisierung: "5 Jahre nach Bau durch Eintrittspreise"
+  sanierung: 2013-2016
+  charakterisierung: Wahrzeichen der Stadt
+GUELTIG_AB: 1955
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 101-stuttgart/011
+ENTITÄT: bauwerk
+BEZEICHNUNG: Stuttgarter Hauptbahnhof
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  architekten: Paul Bonatz, Friedrich Eugen Scholer
+  grundsteinlegung: 1914
+  erdarbeiten_beginn: 1914
+  eroeffnung: 1922
+  fertigstellung_endgueltig: 1927
+  denkmalschutz: 1987
+  turm_hoehe: 56, einheit: "Meter"
+  funktion: größter Fernbahnhof Stuttgarts, Zentrum S-Bahn, wichtiger Knotenpunkt Stadtbahn
+GUELTIG_AB: 1922
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 101-stuttgart/012
+ENTITÄT: bauwerk
+BEZEICHNUNG: MHPArena
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  fruehere_namen: "Gottlieb-Daimler-Stadion, Neckarstadion, Adolf-Hitler-Kampfbahn, Mercedes-Benz Arena"
+  architekten: Paul Bonatz
+  bauzeit: 1929-1933
+  inbetriebnahme: 1933-10-??
+  inbetriebnahme_name: Adolf-Hitler-Kampfbahn
+  kapazitaet_1935: 70000
+  kapazitaet_1949_1951: 97500
+  kapazitaet_1974: 72000
+  erste_farbanzeigetafel: 1986
+  erste_farbanzeigetafel_kontext: deutschlandweit erstes Stadion für Leichtathletik-Europameisterschaften
+  namen_chronologie: "Adolf-Hitler-Kampfbahn (1933) → Century Stadium/Kampfbahn (Nachkrieg) → Neckarstadion (1949) → Gottlieb-Daimler-Stadion (1993) → Mercedes-Benz Arena (2008) → MHPArena (2023-07-01)"
+GUELTIG_AB: 1933
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 101-stuttgart/013
+ENTITÄT: bauwerk
+BEZEICHNUNG: Kunstmuseum Stuttgart
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  gegruendet: 2005-03
+  vorgaengerinstitution: Galerie der Stadt Stuttgart
+  besucher_erstes_jahr: 330000
+  sammlung_fokus: Moderne Kunst
+  besonderheit: bedeutendste Sammlung von Werken Otto Dix
+  lage: Königstraße (Fußgängerzone)
+  architekturmerkmale: "Glasgebäude in Form eines Glaskubus, der die Ausstellungsräume umhüllt"
+GUELTIG_AB: 2005
+IST_VERMUTATIV_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 101-stuttgart/014
+ENTITÄT: bauwerk
+BEZEICHNUNG: Mercedes-Benz-Museum
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  besucher_2009: 550000
+  rang_stadt: meistbesuchtes Museum der Stadt
+  fahrzeugsammlung_seit: 1923
+  mercedes_benz_welt_eroeffnung: 2006
+  architektur_designer: UNStudio
+  zeitspanne_ausstellung: 120-jährige Automobilgeschichte
+  ausstellung_inhalte: "historische Fahrzeuge vom ersten Auto der Welt, legendäre Silberpfeile, aktuelle Mercedes-Benz Modelle"
+GUELTIG_AB: 1923
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 101-stuttgart/015
+ENTITÄT: bauwerk
+BEZEICHNUNG: Porsche-Museum
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 1976
+  fahrzeuge_ausgestellt: 80, genauigkeit: "ca."
+  lage: Zuffenhausen
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 101-stuttgart/016
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schlossgarten
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  flaeche: 61, einheit: "Hektar"
+  erste_erwaehnung: 1350
+  folgt: kanalisierten Nesenbach
+  abschnitte: "Oberer Schlossgarten (ca. 14 Hektar), Mittlerer Schlossgarten (ca. 19 Hektar), Unterer Schlossgarten (ca. 28 Hektar)"
+GUELTIG_AB: 1350
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 101-stuttgart/017
+ENTITÄT: bauwerk
+BEZEICHNUNG: Rosensteinpark
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  flaeche: 65, einheit: "Hektar", genauigkeit: "ca."
+  angelegt_durch: König Wilhelm I.
+  anlagezeit: 1824-1840
+  charakterisierung: "größter englischer Landschaftspark im Südwesten Deutschlands"
+  baumbestand: "großer alter Baumbestand"
+GUELTIG_AB: 1824
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 101-stuttgart/018
+ENTITÄT: bauwerk
+BEZEICHNUNG: Killesbergpark
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  flaeche: 50, einheit: "Hektar", genauigkeit: "ca."
+  urspruengliche_nutzung: Steinbruch
+  angelegt_fuer: Reichsgartenschau 1939
+  besonderheit_geschichte: "1939-1945 Sammlungsort der württembergischen Juden für Transporte in Konzentrationslager"
+  seither_genutzt: Gartenbauausstellungen (Deutsch Gartenschau 1950, Bundesgartenschau 1961, Internationale Gartenbauausstellung 1993)
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 101-stuttgart/019
+ENTITÄT: bauwerk
+BEZEICHNUNG: Waldfriedhof Stuttgart
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  flaeche: 31, einheit: "Hektar"
+  rang_stadt: größter Friedhof der Stadt
+  angelegt: 1913
+  charakterisierung: Grabstätte vieler Prominenter
+  standseilbahn: "verbindet 100 Meter höher liegenden Friedhof mit Südheimer Platz in Heslach"
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 101-stuttgart/020
+ENTITÄT: bauwerk
+BEZEICHNUNG: Pragfriedhof
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  angelegt: 1873
+  flaeche: 20, einheit: "Hektar", genauigkeit: "ca."
+  rang_stadt: drittgrößter Friedhof
+  krematorium_bauzeit: 1905-1907
+  krematorium_charakterisierung: "einziges Krematorium Stuttgarts"
+  stil_krematorium: Jugendstil
+  denkmalschutz: true
+  ausweitung_fuer_juden: 1874
+  besonderheit: "russisch-orthodoxe Heilige-Alexander-Nevskij-Kirche auf dem Gelände"
+GUELTIG_AB: 1873
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.86
+---
+ID: 101-stuttgart/021
+ENTITÄT: bauwerk
+BEZEICHNUNG: Hoppenlaufriedhof
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  rang_stadt: ältester noch erhaltener Friedhof Stuttgarts
+  gegruendet: 1626
+  urspruengliche_funktion: Spitalfriedhof
+  anlass_gruendung: Grundstücksschenkung durch Johann Kercher (erste Beerdigung dort)
+  letzte_erdbestattung: 1880
+  letzte_urnenbestattung: 1951
+GUELTIG_AB: 1626
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 101-stuttgart/022
+ENTITÄT: bauwerk
+BEZEICHNUNG: Hauptfriedhof
+ORTSTEIL_BEZUG: Bad Cannstatt, Stadtteil Muckensturm
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 1918
+  flaeche: 29.6, einheit: "Hektar"
+  rang_stadt: zweitgrößter Friedhof
+  armenisches_graberfeld_seit: 1944
+  muslimisches_graberfeld_seit: 1985
+  juedisches_graberfeld_angelegt: 1937-1938
+GUELTIG_AB: 1918
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.86
+---
+ID: 101-stuttgart/023
+ENTITÄT: bauwerk
+BEZEICHNUNG: Markthalle Stuttgart
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  stil: Jugendstil
+  bauzeit: 1911-1914
+  lage: Stadtzentrum
+  vorgaenger: Gemüsemarkt seit 1864 an der Stelle
+  urspruengliche_funktion: Nahrungsmittelbörse mit über 400 Verkaufsständen
+  zerstoerung_krieg: schwere Zerstörungen im Zweiten Weltkrieg
+  wiederaufbau: ja
+  denkmalschutz_seit: 1974
+  heutige_funktion: Verbrauchermarkt
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 101-stuttgart/024
+ENTITÄT: bauwerk
+BEZEICHNUNG: Rathaus Stuttgart
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  vorgaengerbau_bauzeit: 1901-1905
+  vorgaengerbau_stil: flämische Spätgotik
+  vorgaengerbau_charakterisierung: prachtvoller Bau
+  zerstoerung: 1944 nach Bombenangriffen vollständig ausgebrannt
+  wiederaufbau_fertigstellung: 1956
+  uhrenturm_hoehe: 60.5, einheit: "Meter"
+  sanierung: 2004, notiz: "unter Leitung von Professor Walter Belz für 26 Millionen Euro"
+  sanierung_zweck: "Modernisierung auf neuesten technischen Stand"
+  funktion: Sitz der Stuttgarter Stadtverwaltung
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 101-stuttgart/025
+ENTITÄT: luftangriff
+BEZEICHNUNG: Luftangriff auf Stuttgart
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: Erster Weltkrieg
+  bomben_22_september_1915: 29
+  todesopfer_22_september_1915: 7, notiz: "3 Soldaten und 4 Zivilisten"
+  verwundete_22_september_1915: 43
+  bomben_15_september_1918: unlisted
+  todesopfer_15_september_1918: 11
+  angriffsziel_1918: Heusteigstraße
+GUELTIG_AB: 1915
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 101-stuttgart/026
+ENTITÄT: luftangriff
+BEZEICHNUNG: Luftangriff auf Stuttgart im Zweiten Weltkrieg
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  schwerster_angriff: 12. September 1944
+  schwerster_angriff_durchfuehrer: Royal Air Force (britisch)
+  schwerster_angriff_ziel: Stuttgarter Altstadt
+  schwerster_angriff_bomben_schwer: 75
+  schwerster_angriff_bomben_spreng: 4300
+  schwerster_angriff_bomben_brand: 180000
+  schwerster_angriff_tote: 1000, genauigkeit: "über"
+  feuersturm: ja
+  gesamtangriffe: 53
+  zerstoerte_wohngebaeude: 68, einheit: "%"
+  zerstoerte_industrieanlagen: 75, einheit: "%"
+  gesamttodesopfer: 4477
+  gesamtverletzte: 8908
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 101-stuttgart/027
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Novemberpogrom 1938
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  ort: Stuttgart
+  ereignisse: "Alte Synagoge niedergebrannt, Synagoge in Bad Cannstatt niedergebrannt, Friedhofskapelle der Jüdischen Gemeinde zerstört"
+  folgen: "Großteil der männlichen jüdischen Bürger Stuttgarts verhaftet, in Polizeigefängnis Welzheim oder KZ Dachau verbracht"
+GUELTIG_AB: 1938
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 101-stuttgart/028
+ENTITÄT: plaetze_und_monumente
+BEZEICHNUNG: Gedenkstätte "Zeichen der Erinnerung"
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  lage: Stuttgarter Nordbahnhof
+  erinnert_an: Deportation von über 2000 Juden aus Stuttgart und Württemberg 1941-1945
+  bauwerk_typ: Mauer
+  lange: 70, einheit: "Meter"
+  entlang_der_gleise: true
+  inschrift: "Namen der deportierten Juden"
+  einweihung: 2006-06-14
+GUELTIG_AB: 1941
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 101-stuttgart/029
+ENTITÄT: krawall_und_ausschreitung
+BEZEICHNUNG: Ausschreitungen und Plünderungen Stuttgart
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 2020
+  jahreszeit: Sommer
+  ausloeser: "Drogenkontrolle"
+  charakterisierung: bundesweite Schlagzeilen
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 101-stuttgart/030
+ENTITÄT: universitaet
+BEZEICHNUNG: Universität Stuttgart
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  gegruendet: 1829
+  frueherer_name_1876: Polytechnikum
+  frueherer_name_1890: Technische Hochschule
+  status_seit: 1967
+GUELTIG_AB: 1829
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 101-stuttgart/031
+ENTITÄT: universitaet
+BEZEICHNUNG: Universität Hohenheim
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  gegruendet: 1818
+  urspruengliche_funktion: Lehranstalt für Land- und Forstwirtschaft
+  frueherer_status_1847: Akademie
+  frueherer_status_1904: Landwirtschaftliche Hochschule
+  status_seit: 1967
+GUELTIG_AB: 1818
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 101-stuttgart/032
+ENTITÄT: historische_schule
+BEZEICHNUNG: Hohe Karlsschule
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  gegruendet_von: Herzog Carl Eugen
+  gruendung_jahr: 1770
+  urspruenglicher_ort: herzogliches Schloss Solitude
+  funktion: Militärakademie, Kunstakademie, später Allgemeine Hochschule
+  aufgeloest: 1794
+  charakterisierung: kurzzeitiger Universitätsstandort (Ende des 18. Jahrhunderts)
+  beruehmt_schueler: Friedrich Schiller (studierte Medizin)
+GUELTIG_AB: 1770
+GUELTIG_BIS: 1794
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 101-stuttgart/033
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Friedrich Schiller
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  beziehung_zu_stadt: berühmter Schüler der Hohen Karlsschule
+  studium: Medizin
+  bekanntheit: überregional bekannt
+GUELTIG_AB: 1770
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 101-stuttgart/034
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Georg Wilhelm Friedrich Hegel
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  geburtsort: Stuttgart
+  bekanntheit: Philosoph
+  geburtshaus: Hegelhaus (zeigt sein Leben)
+GUELTIG_AB: 1770
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 101-stuttgart/035
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Theodor Heuss
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  geburtsort: Stuttgart
+  rolle: erstes Bundespräsidenten (Deutschlands)
+  geburtshaus_museum: Theodor-Heuss-Haus auf dem Killesberg
+  eroeffnung_museum: 2002
+  museum_zeigt: "Leben des ersten Bundespräsidenten"
+GUELTIG_AB: 1884
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.84
+---
+ID: 101-stuttgart/036
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gottlieb Daimler
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1834-1900
+  taetigkeit: "Gründer der Automobilindustrie"
+  arbeit_in_cannstatt: 1880er-1890er-Jahre
+  gruendung_daimler_motoren_gesellschaft: 1887
+  ort_gruendung: Cannstatt
+  brand_werkanlage: ja
+  motorenwerk_neubau: ab 1903 in Untertürkheim
+  konzernsitz: Untertürkheim (Mercedes-Benz Group heute)
+GUELTIG_AB: 1880
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.86
+---
+ID: 101-stuttgart/037
+ENTITÄT: flughafen
+BEZEICHNUNG: Flughafen Stuttgart
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  lage: südliche Stadtgrenze
+  grossenbadenwuerttembergs: größter
+  terminal_3_eroeffnung: 2004-03
+  kapazitaet: 12000000
+  passagiere_2003: 7600000
+  passagiere_2004: 8800000
+  passagiere_2005: 9500000
+  passagiere_2020: 3200000
+  passagiere_2021: 3600000
+  passagiere_2022: 7000000
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 101-stuttgart/038
+ENTITÄT: eisenbahn
+BEZEICHNUNG: Erste Württembergische Eisenbahn
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  fahrtag: 1845-10-22
+  strecke_von: Cannstatt
+  strecke_bis: Untertürkheim
+  erweiterung_mit_rosensteintunnel: 1846-10-15
+  charakterisierung: erste Eisenbahnverbindung Stuttgarts
+GUELTIG_AB: 1845
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 101-stuttgart/039
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: S-Bahn Stuttgart
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  betriebsbeginn: 1978-10-01
+  anfaengliche_strecken: 3
+  fahrgaeste_1979: 178000000
+  fahrgaeste_2018: 374000000, genauigkeit: "ca."
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 101-stuttgart/040
+ENTITÄT: sportereignis
+BEZEICHNUNG: Leichtathletik-Europameisterschaften
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1986
+  austragungsort: Neckarstadion
+GUELTIG_AB: 1986
+GUELTIG_BIS: 1986
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 101-stuttgart/041
+ENTITÄT: sportereignis
+BEZEICHNUNG: Leichtathletik-Weltmeisterschaften
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1993
+  gastgeber: Stuttgart
+GUELTIG_AB: 1993
+GUELTIG_BIS: 1993
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 101-stuttgart/042
+ENTITÄT: sportereignis
+BEZEICHNUNG: Internationale Gartenbauausstellung
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1993
+  gastgeber: Stuttgart
+GUELTIG_AB: 1993
+GUELTIG_BIS: 1993
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 101-stuttgart/043
+ENTITÄT: sportereignis
+BEZEICHNUNG: Fußballweltmeisterschaft
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1974
+  rolle: Austragungsort
+  besonderen_ereignis: Spiel um Platz 3
+GUELTIG_AB: 1974
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 101-stuttgart/044
+ENTITÄT: sportereignis
+BEZEICHNUNG: Fußballweltmeisterschaft
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 2006
+  rolle: Austragungsort
+GUELTIG_AB: 2006
+GUELTIG_BIS: 2006
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 101-stuttgart/045
+ENTITÄT: sportverein
+BEZEICHNUNG: VfB Stuttgart
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  mitglieder: 135000
+  mitglieder_stand: 2026-07-26
+  rang_deutschland: einer der größten Sportvereine Deutschlands
+  meistertitel: 5
+  pokaltitel: 4
+  heimstadion: MHPArena
+  heimstadion_lage: Neckarpark
+GUELTIG_AB: 1893
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 101-stuttgart/046
+ENTITÄT: wirtschafts_kennzahl
+BEZEICHNUNG: Bruttoinlandsprodukt Stuttgart
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 2016
+  betrag: 51571000000
+  einheit: Euro
+  rang_deutschland: 6
+  anteil_badenwuerttemberg: 11.3, einheit: "%"
+  bip_pro_kopf_jahr: 2016
+  bip_pro_kopf_betrag: 82397
+  bip_pro_kopf_einheit: Euro
+  rang_pro_kopf: achthöchstes unter allen kreisfreien Städten in Deutschland
+GUELTIG_AB: 2016
+GUELTIG_BIS: 2016
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 101-stuttgart/047
+ENTITÄT: tier_population
+BEZEICHNUNG: Gelbkopfamazonenpopulation
+QUELLE: https://de.wikipedia.org/wiki/Stuttgart | Wikipedia
+EIGENSCHAFTEN:
+  ort: Stuttgart
+  besonderheit: einzige in freier Wildbahn außerhalb Amerikas
+  verbreitung: überregional bekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80

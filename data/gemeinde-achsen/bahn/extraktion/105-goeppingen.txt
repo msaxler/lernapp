@@ -1,0 +1,956 @@
+ENTITÄT: ort
+BEZEICHNUNG: Göppingen
+QUELLE: https://www.goeppingen.de/start/kennenlernen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besiedlung_früheste_zeitperiode: Hallstattzeit
+  grabhügel_prähistorisch_fundort: Oberholz
+  grabhügel_prähistorisch_anzahl: über 30
+  grabhügel_prähistorisch_kultur: Kelten
+  römischer_gutshof_standort: Oberhofenkirche
+  römischer_gutshof_datierung_vermutlich: Mitte 2. Jahrhundert n.Chr.
+  alamannische_besiedlung: 3.-4. Jahrhundert
+  namensgeber_vermutlich: alamannischer Fürst Geppo
+  namensgeber_genauigkeit: vermutlich
+  zugehörigkeit_ab_jahr: 1273
+  zugehörigkeit_zu: Grafen von Württemberg
+  münzstadt_ab: 1396
+  stadtwappen_beschreibung: württembergische Hirschhörner
+  sauerbrunnen_urkundlich_erwähnt_ab: 1404
+  stadtbrand_erste_erwähnung: 1425
+  stadtbrand_zweite_datum: 25. August 1782
+  stadtbrand_zweite_gebäude_zerstört_anzahl: 347
+  schloss_erbaut_zeitraum: 1556-1568
+  schloss_erbauer: Herzog Christoph von Württemberg
+  schloss_grund_herkunft: Dankbarkeit nach Heilung durch Sauerwasser
+  grundriss_klassizistisch_ab: 1782
+  grundriss_klassizistisch_veranlasser: Herzog Karl Eugen von Württemberg
+  grundriss_klassizistisch_form: schachbrettartig
+  industrialisierung_ab_wann: zweite Hälfte 19. Jahrhundert
+  eisenbahn_jahr: 1847
+  charakterisierung: Hohenstaufenstadt
+  lage: Filstal
+  wirtschaftsfunktion: bedeutendes Wirtschaftszentrum (Region Stuttgart)
+  ist_kreisstadt: false
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Jebenhausen
+ORTSTEIL_BEZUG: Jebenhausen
+QUELLE: https://www.goeppingen.de/start/erleben/juedisches+museum.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_ab: 1939
+  eingemeindung_als: Stadtbezirk von Göppingen
+  jüdische_gemeinde_größe_19_jahrhundert: eine der größten Württembergs
+  schutzbrief_datum: 7. Juli 1777
+  schutzbrief_aussteller: Herren von Liebenstein
+  jüdische_bevölkerung_um_1850: ca. 530
+  jüdische_infrastruktur: Synagoge, Schule, rituelles Tauchbad, Friedhof
+  synagoge_jebenhausen_letzter_gottesdienst: 1899
+GUELTIG_AB: 1777
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Jüdisches Museum Göppingen
+ORTSTEIL_BEZUG: Jebenhausen
+QUELLE: https://www.goeppingen.de/20952448.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnet: 1992
+  neu_eröffnet: Januar 2019
+  trägerschaft: öffentlich
+  gebäude_vorherige_funktion: Dorfkirche Jebenhausen
+  gebäude_alter: über 500 Jahre
+  ausstellung_themenfelder: 8
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Dorfkirche Jebenhausen
+ORTSTEIL_BEZUG: Jebenhausen
+QUELLE: https://www.goeppingen.de/20952448.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: über 500 Jahre
+  aufgegeben_von: evangelische Kirchengemeinde
+  aufgegeben_jahr: 1966
+  nachnutzung: Jüdisches Museum (ab 1992)
+  besonderheit_beschreibung: Zeugnis des gegenseitigen Umgangs von Juden und Christen. Enthält Deckenleuchter und Gestühl der Synagoge (Geschenk 1899). Wappendarstellungen und Epitaphien der Adelsfamilie Liebenstein
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Jebenhausen
+ORTSTEIL_BEZUG: Jebenhausen
+QUELLE: https://www.goeppingen.de/20952448.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schließung: 1899
+  schließung_grund: Ausstattung als Geschenk in Kirche Jebenhausen übertragen
+  ausstattung_gegeben_an: Dorfkirche Jebenhausen
+GUELTIG_BIS: 1899
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: adelsfamilie
+BEZEICHNUNG: Herren von Liebenstein (Liebenstein / Ortsherrschaft)
+QUELLE: https://www.goeppingen.de/20952448.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schutzbrief_ausstellung_an_juden: 1777
+  schutzbrief_ort: Schloss Jebenhausen
+  schloss_erbaut: 1536
+  schloss_erbauer: Freiherr Hans von Liebenstein
+  schloss_nachnutzung: Städtisches Museum (ab 1949)
+  residenzlaufzeit_jahre: über 200 Jahre
+  schloss_verkauft_an: Dr. Gottlieb Friedrich Oetinger
+  schloss_verkauft_jahr: 1781
+  schloss_verkauft_grund: Erbgang
+  badherberge_erbaut: 1610
+  badherberge_funktion: Badgebäude des Sauerbrunnenbades Jebenhausen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Dokumentationsraum für staufische Geschichte
+QUELLE: https://www.goeppingen.de/20952549.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: 1977
+  grund_errichtung: Initiative der Stadt Göppingen, "Stauferjahr" mit Ausstellung "Die Staufer und ihre Zeit" Württembergisches Landesmuseum Stuttgart
+  ausgestaltung_ab_1977: ca. zehn Jahren je Neugestaltung
+  neugestaltung_zuletzt: 2009
+  auszeichnung: Vorbildliches Heimatmuseum
+  auszeichnung_quelle: Arbeitskreis Heimatpflege im Regierungsbezirk Stuttgart
+  auszeichnung_datum: November 2009
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Städtisches Museum im Storchen
+QUELLE: https://www.goeppingen.de/start/erleben/museumsgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  untergebracht_seit: 1949
+  gebäude_erbaut: 1536
+  gebäude_erbauer: Freiherr Hans von Liebenstein
+  gebäude_superlativ: ältestes Fachwerkhaus der Stadt
+  gebäude_charakterisierung: eines der reizvollsten Häuser der Göppinger Innenstadt
+  gebäude_verkauft_an: Dr. Gottlieb Friedrich Oetinger
+  gebäude_verkauft_jahr: 1781
+  gebäude_verschont_bei_stadtbrand: ja
+  stadtbrand_datum: 1782
+  stadtbrand_zerstörte_gebäude: 347
+  ausstellungsfläche: über 500 m²
+  stockwerke: 5
+  sammlung_schwerpunkte: Spielzeuge (Märklin, Schmohl), Kunsthandwerk Filstal, Kultur- und Alltagsgeschichte
+GUELTIG_AB: 1949
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Göppinger Geschichts- und Altertumsverein
+QUELLE: https://www.goeppingen.de/start/erleben/museumsgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1925
+  aufgabe: Erforschung der Stadtgeschichte, Vorträge, Veranstaltungen, Etablierung eines "Stadt- und Bezirksmuseums"
+  museumsneugründung: 1931
+  sammlung_übergabe_an_stadt: 1949
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Göppinger Heimatmuseum
+QUELLE: https://www.goeppingen.de/start/erleben/museumsgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnet: 1931
+  standort_initial: Grabenstraße (ehemalige Handelsschule)
+  ausstellungsschwerpunkte: vor- und frühzeitliche Funde, Urkunden und Bilder zur Stadtgeschichte, kirchliche Kunstwerke, handwerkliche und bäuerliche Zeugnisse
+  umzug_grund: Platzmangel
+  umzug_ziel: Liebensteinisches Stadtschloss
+  umzug_ziel_erworben: 1938
+  ausfall_kriegszeit: ab 1942 Vorhaben eingestellt
+GUELTIG_AB: 1931
+GUELTIG_BIS: 1949
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Liebensteinisches Stadtschloss
+QUELLE: https://www.goeppingen.de/start/erleben/museumsgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erworben_stadt: 1938
+  erworben_grund: Museumssammlung beherbergen
+  nutzung_geplant: Heimatmuseum
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Georg Bantel
+QUELLE: https://www.goeppingen.de/start/erleben/museumsgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tätigkeit_erdgeschoss: Werkstatt
+  tätigkeit_erstes_stockwerk: Weinwirtschaft
+  zeitraum_tätigkeit: 1850er Jahre
+  besonderheit_beschreibung: Weinwirtschaft ohne Polizeistunde aufgrund von Adels-Privileg aus früherer Herrschaft
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+
+---
+
+ENTITÄT: sammlung
+BEZEICHNUNG: Jurasammlung des Dr. Theodor Engel
+QUELLE: https://www.goeppingen.de/start/erleben/Museumsgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sammler_name: Dr. Theodor Engel
+  sammler_beruf: Geologe
+  sammler_wohnort: Eislingen
+  sammler_titel: Pfarrer
+  sammler_lebensjahre: 1842-1933
+  gekauft_stadt: 1925
+  kaufpreis: 6000 Goldmark
+  exponate_anzahl: ca. 120.000
+  exponate_geographie: Belegstücke aus ganz Europa
+  exponate_inhalt: Fossilien aller erdgeschichtlichen Zeitalter
+  klassische_fundstellen: heute nicht mehr zugänglich
+  gliederung: nach Tiergruppen und Zeitabschnitten
+  nachnutzung: Städtisches Naturkundliches Museum (ab 1949)
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Städtisches Naturkundliches Museum (Alte Badherberge)
+ORTSTEIL_BEZUG: Jebenhausen
+QUELLE: https://www.goeppingen.de/start/erleben/Museumsgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnet: 1949
+  standort: Alte Badherberge Jebenhausen
+  grund_standortverlagerung: Platzmangel Storchen-Museum
+  sammlungen_beherbergt: Fossiliensammlung (Engel), Vogelsammlung
+GUELTIG_AB: 1949
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Alte Badherberge (Badherberge des Sauerbrunnenbades Jebenhausen)
+ORTSTEIL_BEZUG: Jebenhausen
+QUELLE: https://www.goeppingen.de/start/erleben/Museumsgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1610
+  erbauer: Freiherren von Liebenstein
+  ursprüngliche_funktion: Badgebäude des Sauerbrunnenbades
+  sauwasser_funktion: Erwärmung und Trinkkuren
+  erworben_stadt: 1962
+  nachnutzung_bis_1962: Wohnzwecke
+  fachwerk_freilegung: 1970
+  nachnutzung_ab_1970: Städtisches Naturkundliches Museum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: quelle
+BEZEICHNUNG: Sauerbrunnen Jebenhausen
+ORTSTEIL_BEZUG: Jebenhausen
+QUELLE: https://www.goeppingen.de/start/erleben/Museumsgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit_beschreibung: sprudelt noch heute in kleinem Brunnen am Museumsgebäude
+  nutzung_historisch: Erwärmung und Trinkkuren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Klärwerk Göppingen
+QUELLE: https://www.goeppingen.de/20402660.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1941
+  standort: Uhingen
+  betreiber_seit: 1997
+  betreiber_name: Eigenbe trieb Stadt-Entwässerung Göppingen (SEG)
+  größe_rangordnung: zu den zehn größten in Baden-Württemberg
+  leistung: Bestwerte im landesweiten Vergleich
+  kapazität_abwasser_jährlich: bis zu 20 Millionen Kubikmeter
+  erweiterung_kosten: 100 Millionen D-Mark
+  erweiterung_zeitraum: 1993-1997
+  mitarbeiter_gründungsjahr: 10
+  mitarbeiter_aktuell: über 45
+  ausbildung: regelmäßig junge Menschen
+  anschlussort_städte: Eislingen, Uhingen
+  anschlussort_gemeinden: Ottenbach, Rechberghausen, Schlat
+  anschlussort_abwasserverband_heiningen: Heiningen, Dürnau, Eschenbach, Gammelshausen
+  gremium_entscheidungsfindung: jährlich tagender gemeinsamer Ausschuss
+  kläranlagengemeinschaft_bildung_zeitraum: 1951-1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: friedhof
+BEZEICHNUNG: Gesamtfriedhof Göppingen
+QUELLE: https://www.goeppingen.de/20238418.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingeweiht: 4. April 1903
+  einweihung_beschreibung: Feier als Abbild konfessioneller Eintracht mit evangelischem Dekan, katholischem Stadtpfarrer und Rabbiner
+  standort_vorher: Oberhofenkirche
+  standort_neu: Straße nach Hohenstaufen
+  architekten: Eisenlohr und Weigle (Stuttgart)
+  architektur_stil: neoromanisch
+  gebäude_eingangsportal_mit_wärterhaus: ja
+  gebäude_friedhofskapelle: ja
+  gebäude_leichenhaus: ja
+  krematorium_hinzugefügt: 1911
+  krematorium_superlativ: zu den früheren Krematoriumsbauten Deutschlands
+  krematorium_grund_verein: Verein für Feuerbestattung (gegründet 1894, Göppingen)
+  krematorium_deutung: Kulturfortschritt im Bestattungswesen
+  jüdische_abteilung: ja
+  grabstätte_charakterisierung: parkartig konzipiert
+  grabmale_auswahl: Jugendstil, Stil der Neuen Sachlichkeit (1920er)
+  gedenkstätten_beschreibung: Stadt- und kulturgeschichtliche Orte
+GUELTIG_AB: 1903
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Verein für Feuerbestattung
+QUELLE: https://www.goeppingen.de/20238418.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1894
+  standort: Göppingen
+  betätigung: Förderung der Kremation als Kulturfortschritt
+GUELTIG_AB: 1894
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: grabkapelle
+BEZEICHNUNG: Grabkapelle der Familie Seefrid
+QUELLE: https://www.goeppingen.de/20238418.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1908
+  architektur_stil: klassizistisch Mausoleum mit Säulenportikus
+  charakterisierung: beeindruckend
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Doppelkreuz Ehrenfriedhof
+QUELLE: https://www.goeppingen.de/20238418.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: 1930
+  widmung: Soldaten des Ersten Weltkriegs (in Göppinger Lazarett verstorben)
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Pietà-Skulptur (Kriegerdenkmal)
+QUELLE: https://www.goeppingen.de/20238418.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Jakob Wilhelm Fehrle
+  errichtet: 1930
+  widmung: gefallene und in fremder Erde ruhende Göppinger Soldaten Ersten Weltkriegs
+  ursprünglicher_standort: Oberhofenfriedhof
+  versetzung_grund: Nationalsozialistische Machthaber bauten sie ab und stellten sie vor neuen Friedhof auf (Hoffnung geringere Beachtung)
+  neuer_standort: Neuer Gesamtfriedhof (seitlich Haupteingang)
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Kriegsdenkmal Zweiter Weltkrieg
+QUELLE: https://www.goeppingen.de/20238418.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Eugen Schwab
+  widmung: Opfer Zweiter Weltkriegs (inkl. Luftangriffe März/April 1945)
+  gestaltung: Gedenkstein als Mittelpunkt Gräberfeld mit einfachen Steinkreuzen
+  gedenkfeier: jährlich Volkstrauertag seit 1954
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gedenkstein
+BEZEICHNUNG: Gedenkstein jüdisches Gräberfeld
+QUELLE: https://www.goeppingen.de/20238418.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: 1953
+  errichter: Israelitische Kultusvertretung Württemberg-Hohenzollern
+  widmung: im Holocaust ermordete Mitglieder der Göppinger Gemeinde
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: musikschule
+BEZEICHNUNG: Städtische Jugendmusikschule Göppingen
+QUELLE: https://www.goeppingen.de/start/lernen/Historie.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1972
+  gründer: Oberbürgermeister Dr. Herbert König
+  grund_gründung: Bildungsreform Bundesrepublik Deutschland
+  schulgebäude_name: Haus Illig
+  schüler_anzahl: über 2.620
+  lehrkräfte_anzahl: 54
+  angebot: qualitätsvoller Unterricht, Ensemblearbeit, internationale Jugendbegegnungen
+  reputation: bundesweit und international hervorragende Ruf
+  charakterisierung: Erfolgsmodell kultureller Jugendbildung
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fest
+BEZEICHNUNG: Göppinger Maientag
+QUELLE: https://www.goeppingen.de/start/erleben/historie.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung_datum: 11. August 1650
+  ursprung_grund: Dankesfest für Frieden nach Dreißigjährigem Krieg
+  ursprung_anlass_historisch: Westfälischer Frieden Oktober 1648, Augsburger Religionsfrieden bekräftigt
+  häufigkeit_historisch: über 300 Mal gefeiert (mit Unterbrechungen in Kriegen und Notzeiten)
+  tradition_kontinuität: bis in die heutige Zeit fortgesetzt
+  tradition_wendung_zeitpunkt: Ende 17. Jahrhundert von Friedensfest zu Kinder- und Volksfest
+  besonderheit_musik: Prüfung der Schulkinder in Instrumental- und Vokalmusik (ab Ende 17. Jahrhundert, Daniel Speer)
+  turngemeinde_gründung_maientag: 1844 (Ludwig Schaller)
+  wechsel_festplätze: Große Viehweide, Gartengelände Sonnenwirt (ab 1835), Maienwasen (1858), Schützenkeller (1920er), Goetheplatz/Adolf-Hitler-Platz (ab 1933), Freibad (1947), Bodenfeldschule (1954), Turnerschaftsstadion (1955), Jahnsportplatz (1957), Nordring/Schockensee (1958)
+  hohenstaufenhalle_integration: Maientag seit Hohenstaufenhalle-Errichtung mittenin Festgeschehen
+  drittes_reich_absage: 1932 aufgrund wirtschaftlicher Not
+  drittes_reich_wiederaufnahme: 1933 von NS-Regime propagandistisch ausgerichtet
+  drittes_reich_entfremdung: 1936 Ausschluss jüdischer Kinder, 1939 Ersetzung Gottesdienste durch NS-Morgenfeier
+  wiederbeginn: 7. Februar 1947 Gründung Maientagskommission, 9. Juni 1947 Festbeginn
+GUELTIG_AB: 1650
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Dreißigjähriger Krieg
+QUELLE: https://www.goeppingen.de/start/erleben/historie.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1618-1648
+  auslöser: Prager Fenstersturz Mai 1618
+  konflikt_initial: Glaubenskrieg zwischen protestantischen Ständen Böhmens und katholischen Habsburgern
+  konflikt_später: Machtrivalität Habsburg-Frankreich
+  auswirkung_deutschland_bevölkerungsverlust: ca. 7 Millionen Menschen
+  auswirkung_deutschland_bevölkerungsquote: auf fast die Hälfte reduziert
+  auswirkung_göppingen_belagerung: ja
+  auswirkung_göppingen_bevölkerung_vor: ca. 3.000 (um 1600)
+  auswirkung_göppingen_bevölkerung_nach: unter 1.700
+  auswirkung_göppingen_leiden: Inflation, Preiswucher, Quartierkosten für Truppen, Pest
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Schlacht bei Nördlingen
+QUELLE: https://www.goeppingen.de/start/erleben/historie.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: April 1634
+  sieger: kaiserliche Truppen
+  folge_göppingen_besetzung: 4. September 1634
+  folge_göppingen_plünderung: 24 Stunden
+  folge_göppingen_herscher_wechsel: unter Erzherzogin Claudia von Tirol
+  folge_göppingen_religionsdruck: Forderung zum Bekenntnis zum katholischen Glauben (Widerstand durch Bürger)
+GUELTIG_AB: 1634
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Festplatz Maienwasen
+QUELLE: https://www.goeppingen.de/start/erleben/historie.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  etabliert: 1858
+  standort: zwischen Großeislinger Straße und Bahntrasse (heute Städtischer Betriebshof)
+  form: langgestreckte Fläche
+  vergnügungspark: Schaukel, mehrere Wurst-Schnappes-Stationen, Kletterbäume (ca. 100 Jahre zurück)
+  wirte_ausschank_system: öffentlicher Aufstreich-Versteigerung
+  vereine_geselligkeit: Liederkranz, Sängerbund, Turnerbund, Militärverein, Museum, Turngemeinde, Turnclub Frisch Auf, Kaufmännischer Verein
+  armenfürsorge: Armentische
+  verlassen: 1920er Jahre
+  verlassen_grund: Bahnbauten und Industriegleise zu klein
+GUELTIG_AB: 1858
+GUELTIG_BIS: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Hohenstaufen
+QUELLE: https://www.goeppingen.de/start/kennenlernen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besitzergeschichte: Staufer-Stammsitz
+  charakterisierung: Hausberg Göppingens
+  historische_träger: Kaiser Friedrich I. (Barbarossa), Kaiser Friedrich II.
+  träger_charakterisierung: europäisch denkende Kaiser mit Ideen zu Beginn 3. Jahrtausends noch aktuell
+  namensgeber_funktion: Ort verdankt den Staufern seinen Namen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Herzog Christoph von Württemberg
+QUELLE: https://www.goeppingen.de/start/kennenlernen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: Heilung durch Sauerwasser Göppingen
+  heilung_vermutliche_ursache: Vergiftung französischer Hof
+  dankesgeste: Schloss-Erbau 1556-1568
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Herzog Karl Eugen von Württemberg
+QUELLE: https://www.goeppingen.de/start/kennenlernen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Wiederaufbau-Befehl nach Stadtbrand 1782
+  timing: in der Brandnacht von Hohenheimer Schloss nach Göppingen
+  befehl_inhalt: unverzüglicher Wiederaufbau
+  reformfolge: klassizistischer schachbrettartiger Grundriss (prägt Innenstadt bis heute)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: archiv
+BEZEICHNUNG: Stadtarchiv Göppingen
+QUELLE: https://www.goeppingen.de/start/erleben/archivgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1586
+  ersterwähnung_dokument: Verzeichnis "Registratur über des Spitals zu Göppingen Brieff"
+  provenienz: Spital und Stadt- und Amtsschreiberei
+  brände_verluste: Stadtbrand 1782
+  rettung_akteur: Stadtschreiber Karl Friedrich Knoer
+  rettung_ergebnis: Großteil der Bestände gerettet, Urkundenüberlieferung ab 1318 erhalten, Teile der Rechnungen und Inventuren verbrannt
+  raumzuweisung: 1785/86 Rathaus Erdgeschoss
+  ordnungsleitung_1928: Oberlehrer Wilhelm Scheuthle (plötzlicher Tod im selben Jahr)
+  ordnungsleitung_nachfolger: Karl Kirschmer
+  archivbestände_umfang: ca. 300 lfd. Meter
+  hauptamtliche_besetzung: 1955
+  hauptamtliche_erster: Manfred Akermann
+  leiter_1974: Dr. Dieter Kauß
+  leiter_1983: Dr. Karl-Heinz Rueß
+  leiter_ab_2020: Dr. Dominik Gerd Sieber
+  umzug: 1983/84 zum "Alter Kasten"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Alter Kasten
+QUELLE: https://www.goeppingen.de/start/erleben/archivgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Christoph von Degenfeld (Obervogt Göppingen)
+  erbaut_zeitraum: ca. 1570
+  ursprüngliche_funktion: Stadtresidenz
+  umwandlung: 1707 zu Fruchtkasten (mit Nachbarhaus)
+  fruchtkasten_funktion: Verwaltung Oberhofen-Stiftsverwaltung
+  nutzung_schulisch: ab 19. Jahrhundert
+  nachnutzung_aktuell: Stadtarchiv und Vertriebenenstuben
+  umzug_archiv: 1983/84
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Bürgermeister Laichinger (Elias Laichinger)
+QUELLE: https://www.goeppingen.de/start/erleben/historie.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitdokumentist: Tagebuch-artige Chronik Dreißigjähriger Krieg und Friedensfest 1650
+  ereignis_1634: Belagerung und Plünderung Göppingens durch kaiserliche Truppen
+  ereignis_1650: Erstes Friedens- und Dankfest nach Krieg
+  festbeschreibung_1650: detaillierte Chronik-Aufzeichnung
+  festbeschreibung_inhalt: Gottesdienst, Prozession mit ca. 300 Kindern in weißen Hemden und grünen Kränzen, Zweige in Händen, Sterne-Brote für Kinder, Schüsse von Thurm und Thoren
+  festtradition_1659: Schulkinder in Mayen geführt, Herren geistliche und weltliche Herrschaften anwesend
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Daniel Speer
+QUELLE: https://www.goeppingen.de/start/erleben/historie.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tätigkeit: Musiker und Lehrer
+  innovation_maientag: Prüfung der Schulkinder in Instrumental- und Vokalmusik
+  belohnung_beste: Schreibpapier und Federkiele
+  zeitraum_innovation: Ende 17. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Ludwig Schaller
+QUELLE: https://www.goeppingen.de/start/erleben/historie.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründer: Göppinger Turngemeinde
+  gründungsereignis: Maientag 1844
+  gründungsanlass: Probe seiner Turnkunst beim Maientag
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Dr. Theodor Engel
+QUELLE: https://www.goeppingen.de/start/erleben/Museumsgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Geologe
+  titel: Pfarrer
+  wohnort: Eislingen
+  lebensjahre: 1842-1933
+  sammlung: Jurasammlung mit ca. 120.000 Exponaten
+  sammlung_inhalt: Fossilien aller erdgeschichtlichen Zeitalter
+  sammlung_geografische_herkunft: ganz Europa
+  sammlung_methode: Exkursionen, Tausch, Zukauf
+  sammlung_wissenschaftlicher_wert: Belegstücke von klassischen Fundstellen (heute nicht mehr zugänglich)
+  sammlung_gliederung: nach Tiergruppen und Zeitabschnitten
+  sammlung_gekauft_stadt: 1925
+  sammlung_kaufpreis: 6000 Goldmark
+  sammlung_nachnutzung: Städtisches Naturkundliches Museum (ab 1949, teilweise bereits 1931 Heimatmuseum)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Dr. Gottlieb Friedrich Oetinger
+QUELLE: https://www.goeppingen.de/start/erleben/museumsgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Amtsarzt
+  haus_kauf: 1781
+  haus_herkunft: Liebenstein-Residenz (Storchen-Gebäude)
+  glück_stadtbrand: Haus 1782 bei Stadtbrand verschont (347 Gebäude zerstört)
+  weiterverkauf: 1806 durch Witwe
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Karl Friedrich Knoer
+QUELLE: https://www.goeppingen.de/start/erleben/archivgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Stadtschreiber
+  aktion: beherztes Eingreifen bei Stadtbrand 1782
+  rettung_ergebnis: Großteil Archivbestände in Sicherheit gebracht
+  rettung_verlust: mangels Transportmöglichkeiten Teile der Rechnungen und Inventuren verbrannt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Dr. Herbert König
+QUELLE: https://www.goeppingen.de/start/lernen/Historie.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Oberbürgermeister
+  gründung: Städtische Jugendmusikschule Göppingen
+  gründungsjahr: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Scheuthle
+QUELLE: https://www.goeppingen.de/start/erleben/archivgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Oberlehrer a.D.
+  auftrag: Neuordnung Stadtarchiv
+  auftrag_jahr: 1928
+  tod: plötzlich 1928
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Karl Kirschmer
+QUELLE: https://www.goeppingen.de/start/erleben/archivgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nachfolger: Wilhelm Scheuthle
+  aufgabe: Neuordnung Stadtarchiv mit großem Engagement
+  leistung: Auflistung ca. 300 lfd. Meter Bestände für "Württembergische Archivinventare"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Manfred Akermann
+QUELLE: https://www.goeppingen.de/start/erleben/archivgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Stadtarchiv Leiter
+  erster_hauptamtlicher: ja
+  anstellung: 1955
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Jakob Wilhelm Fehrle
+QUELLE: https://www.goeppingen.de/20238418.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler_typ: Bildhauer
+  werk: Pietà-Skulptur (Kriegerdenkmal)
+  werk_jahr: 1930
+  werk_widmung: gefallene und in fremder Erde ruhende Göppinger Soldaten Weltkrieg I
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Eugen Schwab
+QUELLE: https://www.goeppingen.de/20238418.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler_typ: Bildhauer
+  werk: Kriegsdenkmal Zweiter Weltkrieg
+  werk_widmung: Opfer Zweiter Weltkrieg
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Christoph Kleemann
+QUELLE: https://www.goeppingen.de/start/erleben/museum+im+storchen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler_typ: Maler
+  werk: Gemälde des von Stadtbrand 1782 zerstörten Göppingen
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Dr. Aron Tänzer
+QUELLE: https://www.goeppingen.de/start/erleben/juedisches+museum.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Rabbiner
+  kategorie: wohl wichtigster Rabbiner der Stadtgeschichte
+  wohnhaus: Rabbiner-Tänzer-Haus (zw. Freihof-Gymnasium und Uhland-Schulen)
+  wohnzeitraum: 1907-1937 (unterbrochen durch Weltkrieg I)
+  feldrabbiner_dienst: Weltkrieg I
+  familienstand: verheiratet
+  kinder_anzahl: 6
+  tod_datum: 26. Februar 1937
+  wohnhaus_nachbarschaft: Synagoge (niedergebrannt 1938 Pogromnacht)
+  aktivitäten_leihbibliothek: Gründung, Leitung (ca. 20 Jahre)
+  aktivitäten_leihbibliothek_erste: erste in Göppingen
+  aktivitäten_vorträge: gut besuchte, z.B. Goethe "Faust", Nietzsche "Zarathustra"
+  aktivitäten_vorträge_kontext: Verein für Kunst und Wissenschaft (gegründet 1919)
+  aktivitäten_forschung: Geschichte der Juden in Jebenhausen und Göppingen
+  forschung_publikation: Buch 1927
+  aktivitäten_literatur: 3 Bühnenstücke (1 unvollendet)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Bertha Tänzer (Witwe Aron Tänzer)
+QUELLE: https://www.goeppingen.de/start/erleben/juedisches+museum.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tod: 1943 (Deportation/Verfolgung in NS-Zeit)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Inge Auerbacher
+QUELLE: https://www.goeppingen.de/start/erleben/juedisches+museum.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: Überlebende KZ Theresienstadt
+  deportation_datum: August 1942
+  überlebung_art: mit Eltern durch Glück
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Obervogt Christoph von Degenfeld
+QUELLE: https://www.goeppingen.de/start/erleben/archivgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Obervogt Göppingen
+  bauwerk: Alter Kasten (Stadtresidenz)
+  erbaut_zeitraum: ca. 1570
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Klosterneuburg (Österreich) - Partnerstadt
+QUELLE: https://www.goeppingen.de/start/kennenlernen/klosterneuburg.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: ca. 32.000
+  lage: Donaudurchbruch (zw. Kahlenberg und Bisamberg)
+  lage_region: Wienerwald
+  lage_distanz_wien: 13 Kilometer
+  besonderheit_hauptwirtschaftszweig: Weinbau mit jahrhundertealter Tradition
+  kultur_weinkultur_ort: Heurige
+  kultur_architektur: Barock-Neubau Augustiner Chorherrenstift
+  kultur_kunstwerke: Verduner Altar
+  kultur_weitere_sehenswürdigkeiten: gotischer Kreuzgang, Neustift
+  museen_anzahl: 7
+  städtepartnerschaft_göppingen: Herbst 1971
+  partnerschaft_grund_historisch: Markgraf Leopold III. heiratete Kaisertochter Agnes (Ex-Gemahlin Schwabenherzog Friedrich von Hohenstaufen) → 17 Kinder
+  partnerschaft_grund_historisch_konsequenz: Familien-/Geschlechtsverbindung zu Göppingen/Staufer
+  partnerschaft_gemeinsame_patenschaft: Schönhengster
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: industrie
+BEZEICHNUNG: Märklin
+QUELLE: https://www.goeppingen.de/start/kennenlernen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 2. Hälfte 19. Jahrhundert (Göppingen)
+  reputation: Weltruf bis in die Gegenwart
+  firmentyp: Spielzeughersteller
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: industrie
+BEZEICHNUNG: Boehringer
+QUELLE: https://www.goeppingen.de/start/kennenlernen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 2. Hälfte 19. Jahrhundert (Göppingen)
+  reputation: Weltruf bis in die Gegenwart
+  firmentyp: Pharma/Chemie
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: industrie
+BEZEICHNUNG: Schuler
+QUELLE: https://www.goeppingen.de/start/kennenlernen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 2. Hälfte 19. Jahrhundert (Göppingen)
+  reputation: Weltruf bis in die Gegenwart
+  firmentyp: Maschinenbau
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Göppinger Turngemeinde
+QUELLE: https://www.goeppingen.de/start/erleben/historie.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: Maientag 1844
+  gründer: Ludwig Schaller
+  gründungsanlasszeugnisse: Turndarbietungen beim Maientag
+  beziehung_maientag: besondere Bindung
+  aktivitäten: Maientagsausrichtung (historische Rolle)
+GUELTIG_AB: 1844
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Verein für Kunst und Wissenschaft
+QUELLE: https://www.goeppingen.de/start/erleben/juedisches+museum.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1919
+  aktivitäten: Vorträge (Literatur, Philosophie z.B. Goethe, Nietzsche)
+  bedeutsame_mitglieder: Dr. Aron Tänzer (Rabbiner)
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: mauerwerk
+BEZEICHNUNG: Fachwerkhaus (Liebenstein-Residenz / Storchen-Gebäude)
+QUELLE: https://www.goeppingen.de/start/erleben/museumsgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1536
+  erbauer: Freiherr Hans von Liebenstein
+  superlativ: ältestes Fachwerkhaus der Stadt
+  charakterisierung: eines der reizvollsten Häuser der Göppinger Innenstadt
+  nachnutzung: Städtisches Museum im Storchen (ab 1949)
+GUELTIG_AB: 1536
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtraum
+BEZEICHNUNG: Innenstadt Göppingen
+QUELLE: https://www.goeppingen.de/start/kennenlernen/portrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundrissform: klassizistisch, geradlinig, schachbrettartig
+  grundrissreform_grund: Stadtbrand 1782
+  grundrissreform_veranlasser: Herzog Karl Eugen von Württemberg
+  charakterisierung: aus einem Guss gefüllt mit Neubauten (nach Großbrand)
+GUELTIG_AB: 1782
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

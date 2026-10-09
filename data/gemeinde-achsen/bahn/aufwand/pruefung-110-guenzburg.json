@@ -1,0 +1,50 @@
+{
+ "stufe": "pruefung",
+ "ort": "110-guenzburg",
+ "prompt": "prompt-pruefung-v0.2.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5"
+ ],
+ "eingabe_zeichen": 105144,
+ "token_ein": 76016,
+ "token_aus": 9095,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 69112,
+  "cache_read_input_tokens": 6902,
+  "output_tokens": 9095,
+  "output_tokens_details": {
+   "thinking_tokens": 5316
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 69112,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "not_available",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 9095,
+    "cache_read_input_tokens": 6902,
+    "cache_creation_input_tokens": 69112,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 69112
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.7361844000000001,
+ "sekunden": 77,
+ "fehler": false,
+ "zeit": "2026-10-09T09:23:38"
+}

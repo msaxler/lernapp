@@ -1,0 +1,1025 @@
+ZIELORT: Ulm (Stadt)
+LAGE: 0 km nordwestlich von Ulm (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Ulm
+
+GRUNDDATEN:
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 130.288  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 118,68  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 1098  [berechnet aus Einwohner und Fläche]
+  kfz: UL (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 481 | 478 | 480  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2820256)]
+  naechste_grossstadt: Ulm, 0 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 74 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  ersterwaehnung: 854  [Wikidata P1249; Altbestand geschichte.json]
+  bahnhof: Bahnhof Ulm-Söflingen, Friedrich-Ebert-Straße, Ulm Ost, Ulm Rangierbahnhof, Ulm Umschlagbahnhof, Ulm-Donautal  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 89073, 89075, 89077, 89079, 89081  [Wikidata P281]
+  vorwahl: 07305, 0731, 07346  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 27 %, GRÜNE 20 %, SPD 16,5 %, AfD 14 %, Die Linke 9,5 %, FDP 5,2 %; Wahlbeteiligung 83,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Martin Ansbacher (SPD) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-08]
+  partnerstaedte: Jinotega, Bratislava, Widin, Novi Sad  [Wikidata P190]
+  gewaesser: Donau, Iller  [Altbestand staedte.json]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT partnerstaedte: Partnerstadt (Ersatz: Luftlinie zur Landeshauptstadt), A, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Merklingen (Gemeinde)
+  landkreis: Alb-Donau-Kreis  [dewiki Infobox]
+  einwohner: 2153  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 21,31  [Wikidata P2046]
+  kfz: UL (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 699 | 709  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2871790)]
+  naechste_grossstadt: Ulm, 21 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Merklingen – Schwäbische Alb  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 40,7 %, AfD 24,2 %, SPD 9,7 %, GRÜNE 8,5 %, FDP 5,2 %; Wahlbeteiligung 88,4 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Frankfurt am Main, Rüsselsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Koblenz, Rhens, Boppard, St. Goar, Oberwesel, Bacharach, Bingen, Ingelheim, Alzey, Nierstein, Oppenheim, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg
+
+FAKTEN (Zielort Ulm):
+ID: 108-ulm/001
+ENTITÄT: ort
+BEZEICHNUNG: Ulm
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 130288
+  stand_einwohner: 31. Dezember 2025
+  bundesland: Baden-Württemberg
+  lage: Donau, südöstlicher Rand der Schwäbischen Alb
+  eigenschaft_als_stadt: Großstadt, Universitätsstadt, Kreisstadt
+  status: Stadtkreis, Sitz des Landratsamts des Alb-Donau-Kreises
+  oberzentren_rang: eines von 14 Oberzentren Baden-Württembergs
+  doppelstadt_partner: Neu-Ulm
+  doppelstadt_einwohner: 193131
+  stand_doppelstadt: Dezember 2025
+  gebaendeland: Bayern und Baden-Württemberg
+  groesste_stadt_in: Regierungsbezirk Tübingen, Region Donau-Iller
+  erste_urkundliche_erwaenung: 22. Juli 854
+  hoehe_durchschnitt: 479 m ü. NN
+  hoehe_minimum: 459 m ü. NN
+  hoehe_maximum: 646 m ü. NN
+  stadtteil_anzahl: 17
+  flaechengroesse: 118.68 km²
+  grundbesitz_stadt: ca. 45 km²
+  migrationshintergrund_prozent: 45.1
+  durchschnittsalter: 41.3 Jahre
+  stand_durchschnittsalter: 2023
+  klima_durchschnittstemperatur: 8.4 °C
+  klima_niederschlag_jaehrlich: 749 mm
+  klima_charakterisierung: gemäßigte Klimazone
+  fauftrag_grundflaeche: 
+  bruttoinlandsprodukt_2016: 9253 Millionen Euro
+  rang_wirtschaftsleistung: Platz 38 deutschlandweit
+  bip_pro_kopf_2016: 75044 Euro
+  arbeitslosenquote_dezember_2018: 3.2%
+  erwerbstaetige_2016: ca. 122400
+  zukunftsatlas_2016_rang: Platz 17 von 402
+---
+ID: 108-ulm/002
+ENTITÄT: kirchengebaeude
+BEZEICHNUNG: Ulmer Münster
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  architekturstil: Gotik
+  turmhoehe: 161.53 m
+  superlativ: höchster Kirchturm der Welt (1890-2025)
+  baustart: 30. Juni 1377
+  einweihung_westturm: 31. Mai 1890
+  bedeutung: prägt Stadtbild
+  besonderheit: Löwenmenschen-Sammlung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 108-ulm/003
+ENTITÄT: stadt_partner
+BEZEICHNUNG: Neu-Ulm
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  land: Bayern
+  lage_relativ: südöstlich, jenseits der Donau
+  einwohner_gemeinsam: 193131
+  status: Doppelstadt, Zweilandstadt, längderübergreifendes Doppelzentrum
+  trennung_jahr: 1810
+  grund_trennung: Gebietsaustausch Bayern-Württemberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 108-ulm/004
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Albert Einstein
+ORTSTEIL_BEZUG: Ulm
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1879
+  todesjahr: 1955
+  geburtsort: Ulm, Bahnhofstraße
+  beruf: Physiker
+  lebensabschnitt_ulm: Geburt und frühe Kindheit
+  umzug_nach_muenchen: 1880
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1879
+GUELTIG_BIS: 1955
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 108-ulm/005
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hans Scholl
+ORTSTEIL_BEZUG: Ulm
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1918
+  todesjahr: 1943
+  widerstandsgruppe: Weiße Rose
+  aufenthalt_ulm_ab: 1932
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1918
+GUELTIG_BIS: 1943
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 108-ulm/006
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Sophie Scholl
+ORTSTEIL_BEZUG: Ulm
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1921
+  todesjahr: 1943
+  widerstandsgruppe: Weiße Rose
+  aufenthalt_ulm_ab: 1932
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1921
+GUELTIG_BIS: 1943
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 108-ulm/007
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hildegard Knef
+ORTSTEIL_BEZUG: Ulm
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1925
+  todesjahr: 2002
+  beruf: Schauspielerin
+  geburtsort: Ulm
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1925
+GUELTIG_BIS: 2002
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 108-ulm/008
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Otl Aicher
+ORTSTEIL_BEZUG: Ulm
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1922
+  todesjahr: 1991
+  beruf: Gestalter und Grafikdesigner
+  geburtsort: Ulm
+  aufwachsort: Ulm
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1922
+GUELTIG_BIS: 1991
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 108-ulm/009
+ENTITÄT: museum
+BEZEICHNUNG: Museum Ulm
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  sammlungsschwerpunkt: Kunst, Archäologie, Stadt- und Kulturgeschichte
+  bekannteste_sammlung: Löwenmenschen (ca. 37000 v.Chr.), UNESCO-Welterbe
+  sammlung_kunstwerke: Ulmer Schule (Jörg Syrlin d.J., Hans Multscher, u.a.)
+  bekanntheit_kunstwerk: Löwenmenschen, älteste Mensch-Tier-Plastik der Welt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/010
+ENTITÄT: museum
+BEZEICHNUNG: Donauschwäbisches Zentralmuseum
+ORTSTEIL_BEZUG: Obere Donaubastion
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: 2000
+  themen: Geschichte und Kultur der Donauschwaben
+  bedeutung: europäische Bedeutung
+  finanzierung: Stadt Ulm, Land Baden-Württemberg, Bund, EU
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/011
+ENTITÄT: kirchengebaeude
+BEZEICHNUNG: Dreifaltigkeitskirche
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1617-1621
+  architekturstil: Barock (ursprünglich), modern wiederaufgebaut
+  beschaedigung_weltkrieg: Brand 1944
+  nutzung_heute: Haus der Begegnung für Konzerte, Seminare, Theater, Vorträge
+  bedeutung_stadtbild: prägt Stadtsilhouette
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/012
+ENTITÄT: kirchengebaeude
+BEZEICHNUNG: Pauluskirche
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1908-1910
+  architekt: Theodor Fischer
+  architekturstil: Jugendstil
+  funktion: evangelische Garnisonskirche
+  turmhoehe: auffällig turmgeprägt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/013
+ENTITÄT: kirchengebaeude
+BEZEICHNUNG: St. Georgs-Kirche
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1904
+  architekt: Max Meckel
+  architekturstil: Neugotik
+  urspruengliche_funktion: katholische Garnisonskirche
+  heutige_funktion: Pfarrkirche
+  bedeutung_stadtbild: weithin sichtbar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/014
+ENTITÄT: festungsanlage
+BEZEICHNUNG: Bundesfestung Ulm
+ORTSTEIL_BEZUG: gesamtes Stadtgebiet
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1842-1859
+  architekt_bzw_leiter: Moritz von Prittwitz (Oberst)
+  festungswerke_anzahl: 53
+  arbeiter_bauzeit: bis zu 10000
+  bedeutung: zentraler süddeutscher Waffenplatz des Deutschen Bundes
+  rang_europaweit: eine der größten Festungsanlagen Europas
+  kriegszeit_nutzung: KZ Oberer Kuhberg (1933-1935)
+GUELTIG_AB: 1842
+GUELTIG_BIS: 1859
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/015
+ENTITÄT: fluss
+BEZEICHNUNG: Donau
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  rolle_ulm: formt Stadtgebiet, Grenze zu Bayern
+  lage_ulm: südliche Begrenzung Stadtzentrums
+  geschichtliche_bedeutung: Ausganspunkt Donauschifffahrt, Auswanderungsroute
+  mündungen_in_stadtgebiet: Blau und Iller münden in Donau
+  hochwasserverhaeltnis: gelegentlich Hochwasser bei gleichzeitiger Schneeschmelze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/016
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Schlacht bei Ulm
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  datum: 14. Oktober 1805
+  kriegszug: Dritter Koalitionskrieg, napoleonische Kriege
+  teil_schlacht_elchingen: 14. Oktober 1805 (Gefecht bei Haslach-Jungingen)
+  belagerung: 16.-19. Oktober 1805
+  ausgang: Sieg Napoleons
+  folgen: Weg nach Osten frei für Austerlitz
+GUELTIG_AB: 1805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/017
+ENTITÄT: verfassung
+BEZEICHNUNG: Großer Schwörbrief
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  jahr_kraft: 1397
+  bedeutung: älteste Verfassung einer deutschen Stadt
+  regelung: Machtverteilung, Aufgaben des Bürgermeisters
+  zunft_ratsitze: 30
+  patrizier_ratsitze: 10
+  besonderheit: Zünfte hatten Mehrheit, Patrizier ausgeschlossen vom aktiven Wahlrecht
+  aufgehoben: 1547 durch Kaiser Karl V.
+  feiertag: Schwörmontag (vorletzter Montag im Juli)
+GUELTIG_AB: 1397
+GUELTIG_BIS: 1547
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 108-ulm/018
+ENTITÄT: verfassung
+BEZEICHNUNG: Kleiner Schwörbrief
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  jahr_kraft: 1345
+  bedeutung: erste Zwischenlösung zwischen Zünften und Patriziat
+  regelung: Zünfte erhielten entscheidende Mitsprache
+GUELTIG_AB: 1345
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/019
+ENTITÄT: handelsgruppe
+BEZEICHNUNG: Schwäbischer Städtebund
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1376
+  gruender: Ulm
+  rolle_ulm: Führungsrolle, Vorort (Hauptort für Versammlungen)
+  titel_ulm: "Haupt- und Zierde Schwabens"
+  mitglieder_anzahl: 14 schwäbische Reichsstädte
+  aufloesung_grund: Niederlage im Ersten Städtekrieg 1388
+GUELTIG_AB: 1376
+GUELTIG_BIS: 1388
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/020
+ENTITÄT: kirche_konfession
+BEZEICHNUNG: Evangelische Landeskirche in Württemberg
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  sitz_abteilung: Ulm (Prälatur und Dekanat)
+  reformation_einführung_jahr: 1531
+  reformation_introducer: Ambrosius Blarer (Zwinglian), später lutherisch 1533
+  durchsetzung_luthertum: Kirchenordnung 1533
+  protestantische_vertreter_reichstag: 1529 am Reichstag zu Speyer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/021
+ENTITÄT: kunsthandwerk
+BEZEICHNUNG: Ulmer Schule
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  zeit: Mitte 15. Jahrhundert - frühe Neuzeit
+  bedeutung: einer der bedeutendsten Kunstzentren Süddeutschlands
+  produkte: Skulpturen, Flügelaltäre
+  vertriebsraum: Wien, Sterzing (Südtirol), Niederlande
+  künstler: Jörg Syrlin d.J., Hans Multscher, Gregor & Michel Erhart, Bartholomäus Zeitblom, Niklaus Weckmann
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/022
+ENTITÄT: historisches_material
+BEZEICHNUNG: Barchent
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  material: Mischgewebe aus Baumwolle und Leinen
+  qualitaetssiegel: Ulmer Siegel
+  zeitraum_bedeutung: ca. 1500
+  verbreitung: ganz Europa
+  metaphorische_bedeutung: "Ulmer Geld" (Reichtum)
+  status: so begehrt wie Geld
+GUELTIG_AB: ca. 1450
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 108-ulm/023
+ENTITÄT: auswanderungsgruppe
+BEZEICHNUNG: Donauschwaben
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  auswanderungsstart: Ulm (Sammlungsort)
+  auswanderungszeit_erste_welle: spätes 17. - Mitte 18. Jahrhundert
+  auswanderungszeit_zweite_welle: 1804-1818
+  zielgebiete_erste_welle: Habsburgisches Reich (Südosteuropa - Rumänien, Ungarn, Serbien)
+  zielgebiete_zweite_welle: Dobrudscha, Bessarabien, Schwarzmeergebiet, Kaukasus
+  transportmittel: Ulmer Schachteln, Flöße
+  fahrtdauer: ca. 2500 Kilometer
+  leid_fahrt: zahlreiche Todesfälle durch Krankheiten, schlechte hygienische Bedingungen
+  nachkrieg_rueckkehr: nach Zweitem Weltkrieg Rückkehr in Ulmer Region
+  gemeinde_ulm: seit späten 1940er Jahren starke donauschwäbische Gemeinde in Ulm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/024
+ENTITÄT: schiff_typ
+BEZEICHNUNG: Ulmer Schachteln
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  bauort: Ulm (Schiffswerften am südlichen Donauufer)
+  nutzung: Donauschifffahrt, Auswanderungstransport
+  zeitraum: ca. 1650-1820
+  konstruktion: einfache Floßkonstruktion
+  bedeutung: Transportmittel für Donauschwaben-Auswanderung
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 108-ulm/025
+ENTITÄT: hochschule
+BEZEICHNUNG: Hochschule für Gestaltung Ulm
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1953
+  gruender: Inge Aicher-Scholl, Otl Aicher, Max Bill
+  tradition: Bauhaus-Tradition
+  bedeutung_rang: internationale Bedeutung
+  schließung: 1968
+  grund_schliessung: Einstellung der Landesförderung durch Baden-Württemberg
+GUELTIG_AB: 1953
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/026
+ENTITÄT: universitaet
+BEZEICHNUNG: Universität Ulm
+ORTSTEIL_BEZUG: Oberer Eselsberg
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1967
+  urspruenglicher_name: Medizinisch-Naturwissenschaftliche Hochschule
+  fachbereiche: Naturwissenschaften, Medizin, Ingenieurwissenschaften, Mathematik, Wirtschaftswissenschaften, Informatik
+  studenten_wintersemester_2022_23: 10316
+  klinikum_anschluss: 1982 (Universitätsklinikum)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/027
+ENTITÄT: theatereinrichtung
+BEZEICHNUNG: Theater Ulm
+ORTSTEIL_BEZUG: Herbert-von-Karajan-Platz 1
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  sitzplaetze: 815
+  gruendung: 1641
+  besonderheit: ältestes städtisches Theater Deutschlands
+  gebaeude_neubau_zeit: 20. Jahrhundert
+  spartenhaus_typ: Dreispartenhaus (Musiktheater, Schauspiel, Ballett)
+  orchester_angegliedert: Philharmonisches Orchester der Stadt Ulm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/028
+ENTITÄT: sportverein
+BEZEICHNUNG: SSV Ulm 1846
+ORTSTEIL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  mitgliederzahl: 9500
+  rang_baden_wuerttemberg: zweitleicht größter Sportverein Baden-Württembergs
+  fussballabteilung_bundesliga_saison: 1999/2000
+  volleyballteam_frauen_meister: 2003 (Deutscher Meister und Pokalsieger)
+  volleyball_liga_aktuell: Regionalliga Süd
+  fussball_liga_saison_2026_27: Regionalliga
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/029
+ENTITÄT: sportverein
+BEZEICHNUNG: Ratiopharm Ulm
+ORTSTIEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Basketball
+  liga_mitgliedschaft: 1. Basketball-Bundesliga (seit 2006)
+  pokalgewinn: 1996 (Deutscher Pokal)
+  meisterschaft: 2023 (Deutsche Meisterschaft)
+  erfolg_rank: erfolgreichster Ulmer Sportverein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/030
+ENTITÄT: bauwerk
+BEZEICHNUNG: Ulmer Stadtmauer
+ORTSTEIL_BEZUG: entlang der Donau
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit_donaustrecke: um 1480
+  besonderheit: Donau-Strecke "mitten im reißenden Fluss" erbaut
+  hoehe_erhaltene_abschnitte: 600 Meter Promenadenweg
+  aenderungen_renaissance: 1527 nach Albrecht Dürers Befestigungslehre umgebaut
+  baumeister_umbau: Hans Beham der Ältere (Nürnberg)
+  moderne_befestigung_zeit: 1617-1622 nach niederländischem System
+  ingenieur: Johan van Valckenburgh (Holländer)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/031
+ENTITÄT: historisches_gebaeude
+BEZEICHNUNG: Rathaus
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1370
+  beschaedigung_weltkrieg: 1944 ausgebrannt
+  wiederaufbau: wiederaufgebaut mit modernen Innenräumen
+  innenausstattung_renaissance: Sgraffito-Verzierung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/032
+ENTITÄT: historisches_gebaeude
+BEZEICHNUNG: Schwörhaus
+ORTSTEIL_BEZUG: Weinhof
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1612
+  barockgiebel_hinzufuegung: nach Brand 1785
+  beschaedigung_weltkrieg: 1944 ausgebrannt
+  wiederaufbau: bis 1954 mit modernen Innenräumen
+  heutige_nutzung: Stadtarchiv
+  bedeutung: Mittelpunkt des Ulmer Schwörmontags
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/033
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kornhaus
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1594
+  architekturstil: Renaissance
+  verzierung: reiche Sgraffito-Verzierung
+  beschaedigung_weltkrieg: 1944 ausgebrannt
+  wiederaufbau: mit modernen Innenräumen wiederaufgebaut
+  nutzung: Kongresse und Veranstaltungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/034
+ENTITÄT: gebaeude
+BEZEICHNUNG: Neue Zentralbibliothek Ulm
+ORTSTEIL_BEZUG: Münsterplatz (neben Rathaus)
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 2004
+  form: gläserne Pyramide
+  hoehe: ca. 23 Meter
+  bedeutung_architektur: moderner Bau in "Neuer Mitte"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/035
+ENTITÄT: gebaeude
+BEZEICHNUNG: Stadthaus Ulm
+ORTSTEIL_BEZUG: Münsterplatz
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1993
+  architekt: Richard Meier (New York)
+  funktion: Ausstellungs- und Veranstaltungsraum
+  bezeichnung: "begehbare Skulptur"
+  planungsverfahren: trotz Bürgerbürgerentscheid gebaut
+  nutzung: Ausstellungen, Konzerte, Tagungen, Vorträge
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/036
+ENTITÄT: museum
+BEZEICHNUNG: Kunsthalle Weishaupt
+ORTSTEIL_BEZUG: Neue Mitte (neben Museum Ulm und Rathaus)
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  errichtung: 24. November 2007
+  architekt: Wolfram Wöhr (München)
+  finanzierung: privates Kapital von Siegfried Weishaupt
+  sammlung: mehrere hundert bedeutende zeitgenössische Kunstwerke
+  rang_sammlung: bedeutende Privatsammlung zeitgenössischer Kunst in Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/037
+ENTITÄT: unternehmen
+BEZEICHNUNG: Magirus
+ORTSTEIL_BEZUG: Ulm
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1866
+  gruender: Conrad Dietrich Magirus (Feuerwehrkommandant)
+  produkte_initial: Feuerwehrgeräte
+  innovationen: 1892 erste Drehleiter, 1903 erste selbstfahrende Dampffeuerspritze
+  produkte_expansion: ab 1916 Lastkraftwagen, ab 1919 Omnibusse
+  uebernahme: 1935/36 von Klöckner-Deutz übernommen
+  marke_peak: nach 1945 Deutschlands zweitleicht größter Lkw- und Omnibushersteller
+  spezialisierung: deutscher und europäischer Marktführer für Feuerwehrfahrzeuge
+  kauf_iveco: 1975-1983 zur Iveco (Fiat-Konzern) fusioniert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/038
+ENTITÄT: unternehmen
+BEZEICHNUNG: Kässbohrer
+ORTSTIEL_BEZUG: Ulm
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1893
+  gruender: Karl Heinrich Kässbohrer
+  produkte_initial: Wagenfabrik
+  innovationen: ab 1910 Karosserien für Personenwagen-Fahrgestelle in Serie
+  patent: erstes Patent für kombinierten Omnibusaufbau
+  weiterentwicklung: 1922 erster Lastwagen-Anhänger
+  marke_setra: ab 1951 Omnibusse unter Markennamen Setra
+  peak: Ende 1960er Deutschlands größter Omnibus- und Lkw-Anhänger-Hersteller
+  uebernahme_daimler: 1993 Bus-Sparte von Daimler-Benz übernommen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/039
+ENTITÄT: event
+BEZEICHNUNG: Schwörmontag
+ORTSTEIL_BEZUG: Ulm
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  datum: vorletzter Montag im Juli
+  ursprung: Großer Schwörbrief von 1397
+  buergermeister_pflicht: Rechenschaft vor Einwohnern ablegen
+  rede_uhrzeit: traditionell gegen 11 Uhr
+  abschluss_kuerzlich: Nabada
+  fischerstechen: alle vier Jahre
+  bindertanz: zu besonderen Anlässen, ansonsten im 4-Jahres-Turnus
+  halbtag_status: wie halber Feiertag begangen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/040
+ENTITÄT: kunstzentrum
+BEZEICHNUNG: HfG-Archiv
+ORTSTIEL_BEZUG: Am Hochsträß 8
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  seit: 2011
+  location_gebaeude: ehemaliges Gebäude der Hochschule für Gestaltung
+  ausstellung_dauerausstellung: "Von der Stunde Null bis 1968"
+  sonderausstellungen: Geschichte der HfG von Gründung bis Ende
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/041
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: KZ-Gedenkstätte Ulm
+ORTSTIEL_BEZUG: Fort Oberer Kuhberg
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  nutzungszeit: November 1933 - Juli 1935
+  häftlinge_anzahl: über 600
+  herkunftsgebiet_häftlinge: Land Württemberg-Hohenzollern
+  haftbedingungen: unmenschlich
+  gebäude_erhaeltnis: einziges KZ in Süddeutschland in gesamter baulicher Substanz erhalten
+  gedenken: 1994 vom Regierungspräsidium Tübingen als "vorbildliches Heimatmuseum" ausgezeichnet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/042
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Albrecht Ludwig Berblinger
+ORTSTIEL_BEZUG: Ulm
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Schneider
+  nickname: "Der Schneider von Ulm"
+  flugversuch_jahr: 1811
+  flugtechnik: Fluggerät mit mehreren Gleitflügen von Dutzenden Metern
+  flugtestort_anfaenglich: oberer Michelsberg
+  flugtestort_demonstration: Adlerbastei (nahe Herdbrücke)
+  ausgang_demonstration: Flugversuch scheiterte, Berblinger landete in Donau
+  folgen: wurde zum Witzfigur, verarmte verarmt
+  heutige_berwertung: Ehre als Flugpionier wiederhergestellt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/043
+ENTITÄT: botanischer_garten
+BEZEICHNUNG: Botanischer Garten Ulm
+ORTSTIEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  flaechengroesse: 28 ha
+  rang_deutschland: einer der größten Botanischen Gärten Deutschlands
+  traeger: Zentrale Einrichtung der Universität Ulm
+  besonderheit: Grünes Klassenzimmer für Schulen ganzjährig
+  zusatz_neuer_apothekergarten: 2001 von ratiopharm und Universität Ulm eröffnet
+  pflanzen_heil_apothekergarten: über 200 Heil- und Nutzpflanzen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/044
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Gronne
+ORTSTIEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  flaeche: 45 ha
+  schutzstatus_seit: 15. Dezember 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/045
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Lichternsee
+ORTSTIEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  flaeche: 92 ha
+  schutzstatus_seit: 16. Dezember 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/046
+ENTITÄT: kirche_konfession
+BEZEICHNUNG: Römisch-katholische Kirche
+ORTSTIEL_BEZUG: Ulm
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  jurisdiktion_historisch: Bistum Konstanz, später Bistum Augsburg, ab 1817 Generalvikariat Rottenburg
+  jurisdiktion_heute: Bistum Rottenburg-Stuttgart
+  anteil_bevoelkerung_2012: 35%
+  anteil_bevoelkerung_2022_zensus: 28.2%
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/047
+ENTITÄT: kirche_konfession
+BEZEICHNUNG: Evangelische Kirche
+ORTSTIEL_BEZUG: Ulm
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  anteil_bevoelkerung_2012: 25.5%
+  anteil_bevoelkerung_2022_zensus: 20%
+  gemeinden_anzahl: sechs Kirchengemeinden
+  gemeindliche_mitglieder_2006: 21561
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/048
+ENTITÄT: judentum_gemeinde
+BEZEICHNUNG: Jüdische Gemeinde Ulm
+ORTSTIEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  erste_beleg_jahreszahl: 1241/42
+  synagoge_ort: Judenhof
+  verfolgung_1349_pest: Juden verfolgt, Gemeinde nahezu vernichtet
+  neusiedlung_14_jh_halbjahr: zweite Hälfte des 14. Jahrhunderts
+  wirtschaftliche_bedeutung: große wirtschaftliche Bedeutung für Stadt
+  vertreibung_1499: 1499 aus Stadt gewiesen
+  zurueckkehr_1806: ab 1806 Juden wieder zuzug möglich
+  gemeinde_seit: 1854 (eigene israelitische Gemeinde)
+  synagoge_erbauung: 1871-1873 am Weinhof
+  synagoge_zerstoerung_kristallnacht: 9. November 1938 (von SA-Gruppe in Brand gesetzt)
+  rabbinatsitz_seit: 1889
+  juden_max_anzahl: um 1880 mit 694
+  juden_1933: ca. 530
+  juden_deportation: 141 Mitbürger abtransportiert
+  juden_ermordet: 121 ermordet (Gedenkbuch: 157 deportiert und überwiegend ermordet)
+  gemeindezentrum_neubau: 5. Mai 2002
+  neue_synagoge_einweihung: 2. Dezember 2012
+  gemeinde_heute: ca. 450 Ulmer Bürger
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 108-ulm/049
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Luftangriff auf Ulm
+ORTSTIEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  datum_groesster_angriff: 17. Dezember 1944
+  zerstoerung_altstadt: 81% der historischen Altstadt zerstört
+  besonderheit: Münster weitgehend verschont
+  wiederaufbau_prozentanteil_alt: größter Teil im Stil der 1950er und 1960er Jahre wiederaufgebaut
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1944
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 108-ulm/050
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Ulmer Reichswehrprozess
+ORTSTIEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  datum: Oktober 1930
+  region: in Ulm stationiertes Artillerieregiment 5
+  anklagte_anzahl: drei Offiziere
+  anklagepunkt: Vorbereitung zum Hochverrat
+  grund: Verteilen von politischer (NSDAP-)Propaganda
+  verurteilung: je 18 Monate Festungshaft
+  besonderheit: Adolf Hitler persönlich als Zeuge vernommen
+  hitlers_aussage: Zusicherung, politische Veränderungen nur auf verfassungsgemäßem Weg
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/051
+ENTITÄT: stadtteil
+BEZEICHNUNG: Söflingen
+ORTSTEIL_BEZUG: südlich der Blau
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  religionszugehoerigkeit_historisch: katholisch
+  eingemeindung_jahr: 1903
+  kloster: Klarissenkloster seit 1258
+  kloster_aufgeloest: 1803
+  kirche: Klosterkirche St. Maria
+  kirche_erbauer: Caspar Feichtmayr
+  kirche_bauzeit: 1688
+  kirche_stil: früchbarock
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/052
+ENTITÄT: stadtteil
+BEZEICHNUNG: Wiblingen
+ORTSTEIL_BEZUG: südwestlich von Donau und Iller
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  kloster: ehemaliges Benediktinerkloster
+  kloster_gruendung: 1093
+  kloster_aufgeloest: 1806
+  klosterkirche_bauzeit: 1772-1781
+  klosterkirche_stil: spätbarock mit frühklassizistischer Innenausstattung
+  bedeutung_barockstrasse: Hauptsehenswürdigkeit der Oberschwäbischen Barockstraße
+  partnerschaft: Stadtteil ist mit französischer Stadt Argenton-sur-Creuse partnerschaftlich verbunden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/053
+ENTITÄT: kulturveranstaltung
+BEZEICHNUNG: Internationales Donaufest
+ORTSTIEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  erstauflage: Juli 1998
+  teilnehmer_initial: Repräsentanten von 15 Donaustädten
+  motto: "Die Donau und ihre Städte – ein europäisches Netzwerk der Zukunft"
+  rhythmus: alle zwei Jahre
+  inhalt: kulturelle, musikalische und kulinarische Veranstaltungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/054
+ENTITÄT: studienprogramm
+BEZEICHNUNG: Regio-S-Bahn Donau-Iller
+ORTSTIEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  linienbetrieb_start_bayern: Ende 2020
+  linie_s7: Ulm-Memmingen
+  linie_s71: Ulm-Weißenhorn
+  linienbetrieb_expansion: Dezember 2021 (fünf weitere Linien)
+  endpunkte: Munderkingen, Aulendorf, Aalen
+  planung: langfristig acht Linien mit Ulmer Hauptbahnhof als Knotenpunkt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/055
+ENTITÄT: hochgeschwindigkeit_strecke
+BEZEICHNUNG: Schnellfahrstrecke Wendlingen-Ulm
+ORTSTIEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  inbetriebnahme: 11. Dezember 2022
+  verlauf: Wendlingen (Neckar) – Merklingen – Schwäbische Alb – Ulm
+  teil_projekt: Neu- und Ausbaustrecke Stuttgart–Augsburg
+  fahtzeitersparniss_geplant_stuttgart: von 45 auf 30 Minuten
+  fahtzeitersparniss_geplant_augsburg: von ca. 40 auf 27 Minuten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/056
+ENTITÄT: gebaeude
+BEZEICHNUNG: Daimler-Forschungszentrum
+ORTSTIEL_BEZUG: Oberer Eselsberg
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  architekt: Richard Meier
+  bedeutung: modernes Forschungszentrum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 108-ulm/057
+ENTITÄT: gebaeude
+BEZEICHNUNG: Energon
+ORTSTIEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  groesse: 8000 m²
+  arbeitsplaetze: ca. 420
+  energiestandard: Passivhausstandard
+  besonderheit: weltweit größtes Bürogebäude im Passivhausstandard
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 108-ulm/058
+ENTITÄT: gebaeude
+BEZEICHNUNG: Getreidesilo Schapfenmühle
+ORTSTIEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  fertigstellung: 2005
+  hoehe: 125 m (einschließlich Antenne)
+  besonderheit: höchstes noch in Benutzung befindliches Getreidesilo der Welt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 108-ulm/059
+ENTITÄT: fernsehturm
+BEZEICHNUNG: Fernmeldeturm Ulm-Ermingen
+ORTSTIEL_BEZUG: Ermingen
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 108-ulm/060
+ENTITÄT: aussichtsturm
+BEZEICHNUNG: König-Wilhelm-Turm
+ORTSTIEL_BEZUG: Michelsberg
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: 1908
+  erbauer: Schwäbischer Albverein
+  hoehe: 16 m
+  funktion: Aussichtsturm
+  blick: guter Blick über Ulm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 108-ulm/061
+ENTITÄT: ereignis_rangliste
+BEZEICHNUNG: Lebenswerteste Großstadt in Deutschland
+ORTSTIEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  bestimmung: Meinungsforschungsunternehmen Prognos
+  jahr_bestimmung: 2024
+  ergebnis: Ulm als lebenswerteste Großstadt in Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 108-ulm/062
+ENTITÄT: oberbuergermeister
+BEZEICHNUNG: Ivo Gönner
+ORTSTIEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  partei: SPD
+  amtszeit: 1992-2016
+  amtszeiten_anzahl: drei
+GUELTIG_AB: 1992
+GUELTIG_BIS: 2016
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/063
+ENTITÄT: oberbuergermeister
+BEZEICHNUNG: Gunter Czisch
+ORTSTIEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  amtsantritt: 29. Februar 2016
+  wahlstimmen: 52.9%
+  amtsantritt_waehler: fünf weitere Kandidaten
+  abwahl: Dezember 2023 in Stichwahl
+GUELTIG_AB: 2016
+GUELTIG_BIS: 2023
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 108-ulm/064
+ENTITÄT: oberbuergermeister
+BEZEICHNUNG: Martin Ansbacher
+ORTSTIEL_BEZUG: 
+QUELLE: https://de.wikipedia.org/wiki/Ulm | Wikipedia
+EIGENSCHAFTEN:
+  partei: SPD
+  wahl_dezember_2023: gewann Stichwahl gegen Gunter Czisch
+  stimmen_stichwal: 55.1%
+  wahlbeteiligung_stichwahl: 38.4%
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

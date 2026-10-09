@@ -1,0 +1,381 @@
+ID: 104-kirchheim-teck/001
+ENTITÄT: mahnmal
+BEZEICHNUNG: Mahnmal zum Gedenken an die zivilen Opfer des Nationalsozialismus
+ORTSTEIL_BEZUG: Kirchheim
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Historisches/Denkmal | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Monika Majer
+  standort_detail: Alter Friedhof, unter einer Blutbuche
+  material: Metallstangen, rostige Spruchbänder
+  raumtyp: begehbarer Raum
+  zeitraum_gedenkbereich: 1933-1945
+  opferkategorien_texte: psychisch Kranke (Grafeneck), Behinderte (Grafeneck), Kinder (Luftangriffe), russische Kriegsgefangene, Zigeuner, Lehrer (politisch), Zwangssterilisierte, Frauen (Flucht), polnische Zwangsarbeiter, Pfarrer (Widerstand), Kommunisten, Juden, Homosexuelle, KZ-Häftlinge (Auschwitz), Asoziale
+  finanzierung: Sockelbetrag Stadt, Unterstützung Verschönerungsverein, Kirchen, Spenden
+  blickachse: zum Soldatendenkmal
+  angrenzung: Gräber russischer Zwangsarbeiter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 104-kirchheim-teck/002
+ENTITÄT: friedhof
+BEZEICHNUNG: Alter Friedhof
+ORTSTEIL_BEZUG: Kirchheim
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Historisches/Denkmal | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  enthaelt: Mahnmal, Soldatendenkmal, Gräber russischer Zwangsarbeiter
+  besonderheit: Blutbuche im Friedhof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 104-kirchheim-teck/003
+ENTITÄT: gedenksteine
+BEZEICHNUNG: Stolpersteine
+ORTSTEIL_BEZUG: Kirchheim
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 14
+  material: Messing
+  standort_typ: vor dem letzten selbstgewählten Wohnort
+  zweck: Gedenken an Opfer des Nationalsozialismus
+  angebracht_im_pflaster: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 104-kirchheim-teck/004
+ENTITÄT: ort
+BEZEICHNUNG: Kirchheim unter Teck
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/Fruehgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstgenannt: 960
+  originalname_960: Chiricheim
+  verfuegung: Königsurkunde Otto des Großen
+  empfaenger_960: Bischof Hartbert von Chur
+  menschliche_spuren_beginn: ca. 5000 v.Chr.
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 960
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 104-kirchheim-teck/005
+ENTITÄT: kirche
+BEZEICHNUNG: Martinskirche
+ORTSTEIL_BEZUG: Kirchheim
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Teil des Altstadtkerns, malerischer Akzent
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 104-kirchheim-teck/006
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus
+ORTSTEIL_BEZUG: Kirchheim
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/Mittelalter-und-Neuzeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bautyp: Fachwerkbau
+  bauzeit: 1722-1728
+  qualitaetsaussage: eines der schoensten Fachwerkbauten
+  standort: Marktplatz
+  grund_standortwechsel: herzogliche Regierung stellte alten Platz nicht mehr zur Verfuegung
+  alter_standort: Straßenkreuz (Markt-/Max-Eyth-Str.)
+GUELTIG_AB: 1722
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 104-kirchheim-teck/007
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss
+ORTSTEIL_BEZUG: Kirchheim
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/Mittelalter-und-Neuzeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  befestigung: Kasematten, Graben, Bastion
+  funktion_frueh: Sitz des württembergischen Hofes
+  funktion_spaeter: Witwensitz (17. Jh. bis spätes 19. Jh.)
+  bewohnerinnen: Sechs Herzoginnen
+  errichtung_grund: Erhebung Kirchheims zur Landesfestung
+GUELTIG_AB: 1534
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 104-kirchheim-teck/008
+ENTITÄT: burg
+BEZEICHNUNG: Burg Teck
+ORTSTEIL_BEZUG: Kirchheim
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/Mittelalter-und-Neuzeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_nennung: 1152
+  erste_nennung_quelle: Urkunde Friedrich Barbarossas
+  status_1525: Ruine
+  grund_zerstaerung: Bauernkrieg
+  funktion: Herrschafts- und Verwaltungsmittelpunkt der Zähringer
+GUELTIG_BIS: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 104-kirchheim-teck/009
+ENTITÄT: geschlechtsreihe
+BEZEICHNUNG: Herzöge von Teck
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/Mittelalter-und-Neuzeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruender: Adalbert (Sohn Bertolds IV. der Zähringer)
+  gründungsjahr_eigenbezeichnung: 1187
+  stammburg: Burg Teck
+  herkunft: Erbaufteilung nach Bertolds IV. Tod 1186
+  charakterisierung: kein eigentliches Herzogtum, kleine territoriale Basis
+  spatere_entwicklung: verlieren schrittweise ihre Herrschaft ab 14. Jh., veräußern bis 1381 komplette Herrschaft
+  neue_residenz: Mindelheim (bayerisch Schwaben)
+GUELTIG_AB: 1187
+GUELTIG_BIS: 1381
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 104-kirchheim-teck/010
+ENTITÄT: markt
+BEZEICHNUNG: Wollmarkt / Landeswollmarkt
+ORTSTEIL_BEZUG: Kirchheim
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/Historische-Maerkte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betriebszeit: 1819-1914
+  standort: Freihofareal
+  superlativ: groesster Wollmarkt in Sueddeutschland
+  konkurrenzvergleich: schlug Göppingen und Cannstatt aus dem Felde
+  saisonalitaet: Woche von Johanni (24. Juni)
+  charakter: Riesenfest
+  bedeutung_lokal: schulfrei fuer Kinder
+  arbeitskraefte: Wolltreppler (Kinder/beduerftige), die Wolle in Säcken festzustampften
+  nachbelebung: 2010 als historischer Markt wiederbelebt
+GUELTIG_AB: 1819
+GUELTIG_BIS: 1914
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 104-kirchheim-teck/011
+ENTITÄT: eisenbahn
+BEZEICHNUNG: Privateisenbahnlinie Unterboihingen - Kirchheim
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/Industrialisierung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: 1864
+  superlativ: erste Privatbahn Württembergs
+  uebernahme_oeffentlich: 1899
+  nachfolgelinie: Strecke Kirchheim - Oberlenningen (ab 1899 staatlich)
+  folgen: zog Metall verarbeitende Industrie in die Stadt
+GUELTIG_AB: 1864
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 104-kirchheim-teck/012
+ENTITÄT: institution
+BEZEICHNUNG: Stadarchiv
+ORTSTEIL_BEZUG: Kirchheim
+QUELLE: https://www.kirchheim-teck.de/stadtarchiv/Aussergewoehnliche-Quellen-zur-Stadtgeschichte- | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Gedaechtnis der Stadt
+  bestaende: zentrale Akten, Bänder, Pläne, Fotografien, Urkunden
+  thema: Geschichte Kirchheims unter Teck und dessen Entwicklung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 104-kirchheim-teck/013
+ENTITÄT: veranstaltungsreihe
+BEZEICHNUNG: Geschichte(n) unter Teck
+ORTSTEIL_BEZUG: Kirchheim
+QUELLE: https://www.kirchheim-teck.de/Geschichten-unter-Teck | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakter: unterhaltsame und lehrreiche Vortragsreihe
+  leiter: Dr. Frank Bauer (Stadtarchivar)
+  thema_fruehsemester_2026: Ur- und Frühgeschichte, Besiedlung der Region
+  ort: Büchereisaal (2. OG)
+  teilnahmegebuehr: kostenfrei
+  anmeldung_erforderlich: ja
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 104-kirchheim-teck/014
+ENTITÄT: person
+BEZEICHNUNG: Christoph Gottlieb Breining
+QUELLE: https://www.kirchheim-teck.de/stadtarchiv/Aussergewoehnliche-Quellen-zur-Stadtgeschichte- | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1822-1902
+  geburtsort: Kirchheim unter Teck
+  vater: Georg Friedrich Breining (Webermeister)
+  spaetere_taetigkeit: Lehrer in Bissingen und Schorndorf
+  werk: Lebenserinnerungen (verfasst spaete 1890er Jahre fuer Kinder und Enkel)
+  inhalt_werk: Detailaufnahme des biedermeierlichen Kirchheim der 1820er und 1830er Jahre
+  besonderheit: persoenliche Erinnerungen und Anekdoten, Alltagsszenen
+GUELTIG_AB: 1822
+GUELTIG_BIS: 1902
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 104-kirchheim-teck/015
+ENTITÄT: person
+BEZEICHNUNG: Philipp Jakob Manz
+QUELLE: https://www.kirchheim-teck.de/Geschichten-unter-Teck | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1861-1936
+  beruf: Architekt
+  spezialisierung: Fabrik- und Industriearchitektur
+  zeitraum_schaffen: Jahrhundertwende und erste Jahrzehnte 20. Jh.
+  geografischer_fokus: deutscher Suedwesten
+  bedeutung: Ikonischer Status in der Architekturgeschichte
+  bezug_kirchheim: hier nahm sein Aufstieg seinen Anfang
+  fuehrung: 31.10.2026 Fuehrung zum Werk
+GUELTIG_AB: 1861
+GUELTIG_BIS: 1936
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 104-kirchheim-teck/016
+ENTITÄT: person
+BEZEICHNUNG: Ernst Heinrich Heinkel
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/Kirchheimer-Strassen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1888-1958
+  geburtsort: Grubach (heute Remshalden)
+  todeort: Stuttgart
+  ausbildung: Maschinenbaustudium TH Stuttgart ab 1907
+  wendepunkt: Zeuge Absturz Zeppelin LZ4 in Echterdingen, wandte sich Flugmaschinenbau zu
+  erste_erfahrungen: mit Friedrich Münzer in dessen Werkstatt, Bau Flugapparat
+  albatros: Wechsel 1912, konstruierte Albatros B.II, Eintritt erster Flugzeugtyp 1.WK
+  hansa_brandenburg: 1914 Werksdirektor
+  eigengruendung: 1922 Ernst-Heinkel-Flugzeugwerke in Rostock
+  wiederaufbau_nach_1wk: Versailler Vertrag kurzzeitig Produktionsstopp, dann Expansion
+  nsdap_eintritt: 1933
+  flugzeuge_ns: He 111
+  konflikte: haeufige Auseinandersetzungen mit Parteiführung, besonders SS
+  auszeichnung: 1937 Wehrwirtschaftsführer
+  kriegsproduktion: ca. 50.000 Mitarbeiter bei Kriegsbeginn, darunter Zwangsarbeiter und KZ-Häftlinge
+GUELTIG_AB: 1888
+GUELTIG_BIS: 1958
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 104-kirchheim-teck/017
+ENTITÄT: organisation
+BEZEICHNUNG: NSDAP
+ORTSTEIL_BEZUG: Kirchheim
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/20.-Jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktivitaet_anfang_1920er: Anhaenger bemerkbar
+  status_1923: Hochburg der rechten Bewegung in Württemberg
+  status_1931: relativ bedeutungslose politische Gruppierung
+  wahlleistung_1932_november: 35% der Stimmen
+  wahlleistung_1933_maerz: 49% der Stimmen
+  machtergreifung_1933: Eintritte sprunghaft
+  mitglieder_1945: 1228 Mitglieder in vier Ortsgruppen
+GUELTIG_AB: 1920
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 104-kirchheim-teck/018
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ötlingen
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/20.-Jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verwaeltnis_gegenwaertig: Stadtteil von Kirchheim
+  eingemeindung: 1935
+GUELTIG_AB: 1935
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 104-kirchheim-teck/019
+ENTITÄT: ortsteil
+BEZEICHNUNG: Lindorf
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/20.-Jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verhaeltnis_gegenwaertig: Stadtteil von Kirchheim
+  eingemeindung: 1935
+GUELTIG_AB: 1935
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 104-kirchheim-teck/020
+ENTITÄT: ortsteil
+BEZEICHNUNG: Nabern
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/20.-Jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verhaeltnis_gegenwaertig: Stadtteil von Kirchheim
+  eingemeindung: 1974-01-01
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 104-kirchheim-teck/021
+ENTITÄT: ortsteil
+BEZEICHNUNG: Jesingen
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/20.-Jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verhaeltnis_gegenwaertig: Stadtteil von Kirchheim
+  eingemeindung: 1974-09-01
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 104-kirchheim-teck/022
+ENTITÄT: stadt
+BEZEICHNUNG: Kirchheim unter Teck
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/Mittelalter-und-Neuzeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_stadt: um 1220/1230 durch Herzöge von Teck
+  stadtrecht_nachweise: 1249 Stadtbürger erwähnt, 1261 in Urkunde Dominikanerinnenkloster
+  stadtmauer: 1293
+  siegel_stadt: 1295 (Symbol Wecken - Herzöge von Teck)
+  marktrecht: vor 1059 vorhanden (Münzrecht setzt Marktrecht voraus)
+  typische_merkmale_ende_13jh: Stadtmauer, Kirchen, Klöster, Spital
+  uebergang_herrschaft: 1381 an Württemberg
+  errichtung_oberamtsstadt: nach 1381 durch Württemberg
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1220
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 104-kirchheim-teck/023
+ENTITÄT: stadt
+BEZEICHNUNG: Kirchheim unter Teck
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/Mittelalter-und-Neuzeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_zur_landesfestung: 1534 durch Herzog Ulrich von Württemberg
+  grund_festung: nach 1519 Plünderung und Absetzung des Rates
+  reform: Einführung Reformation 1534
+  bauaktivitaeten_16jh_2h: rege (Kornhaus, Schloss mit Kasematten, Graben, Bastion)
+  wohlstand_16jh: relativ wohlhabend zu Beginn
+  auswirkungen_30krieg: Einquartierungen, Plünderung, Brandschatzung, Pest, massive Dezimierung Bevölkerung
+  lage_17_18jh: Franzoseneinfälle, Spanischer Erbfolgekrieg
+GUELTIG_AB: 1534
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 104-kirchheim-teck/024
+ENTITÄT: stadt
+BEZEICHNUNG: Kirchheim unter Teck
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/20.-Jahrhundert | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_1939: etwas ueber 13000
+  fluechtlinge_aufnahme: April 1945 - Ende 1947 annähernd 7000 Heimatvertriebene
+  wirtschaftlicher_aufschwung: folgende Jahrzehnte
+  neue_infrastruktur: Industriegebiete, verbesserte Verkehrsverhältnisse, Wohngebiete, Schulen, Sportstätten
+  projekte_beispiele: Industriegebiet Bohnau, Südumgehung, Bahnhofsverlegung, Wohngebiet Schafhof, Teck-Center mit Stadthalle, Schlossgymnasium
+  innenstadtsanierung: erhaelt Anerkennung fuer Erhalt historisch Gewachsenen
+  verwaltungsaenderungen_1973: Kreis Nürtingen aufgelöst, Sitz Landratsamt nach Esslingen
+  gemeindereform_1974: Eingliederung Nabern (01.01.1974), Jesingen (01.09.1974)
+  charakterisierung_gegenwaertig: gelungene Einheit von Stadt und Landschaft mit besonderer Atmosphäre, Stadt zum Zurückkehren, gutes Wohnklima
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 104-kirchheim-teck/025
+ENTITÄT: brand
+BEZEICHNUNG: Stadtbrand
+ORTSTEIL_BEZUG: Kirchheim
+QUELLE: https://www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/Mittelalter-und-Neuzeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignisdatum: 1690
+  zersterung: 257 Haeuser, 114 Scheuern
+  ueberlebende_gebaeude: 4 innerhalb der Stadtmauern
+  folgen: Wiederaufbau nach herzoglicher Bauordnung, vorschrift gleiche Stockwerkshöhe, keine Vorstöße/Erker
+  stadtbild_folge: typisches einheitliches Kirchheimer Stadtbild seit 300+ Jahren
+  rathaus_konflikt: Streit um Rathaus-Neubau bis 1722, herzogliche Regierung verweigerte alten Platz
+GUELTIG_AB: 1690
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93

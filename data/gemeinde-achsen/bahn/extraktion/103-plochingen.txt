@@ -1,0 +1,709 @@
+ENTITÄT: ort
+BEZEICHNUNG: Plochingen
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Zusammenfluss Neckar und Fils
+  funktion_regional: östliches Eingangstor zur Region Stuttgart
+  geographische_laenge: 9°15´00"
+  geographische_breite: 48°42´45"
+  ausdehnung_nord_sued: 2,5 km
+  ausdehnung_ost_west: 5,0 km
+  umfang_stadtgebiet: 18 km
+  markungsflaeche: 1064 ha
+  waldflaeche: 463 ha
+  einwohner: 14500
+  genauigkeit_einwohner: "ca."
+  funktion: Unterzetrum
+  funktion_verkehr: Bahnknotenpunkt Stuttgart-Tübingen und Stuttgart-Ulm-München, S-Bahnhof, Neckarhafen
+  entfernung_bundesautobahn: 7 km
+  entfernung_flughafen_stuttgart: 20 km
+  genauigkeit_flughafen: "ca."
+  erreichbarkeit_landeshauptstadt: 25 Minuten
+  reformation: evangelisch geprägt
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Plochingen
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_vor_30jaehriger_krieg: 1320
+  gueltig_bis_1635: true
+  einwohner_nach_30jaehriger_krieg: 250
+  gueltig_ab_1635: true
+GUELTIG_AB: 1620
+GUELTIG_BIS: 1635
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Plochingen
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung_schriftlich: 1146
+  urkunde_aussteller: König Konrad III. von Hohenstaufen
+  urkunde_2: 1153
+  urkunde_2_aussteller: König Friedrich I. (Barbarossa)
+  urkunde_3: 1220
+GUELTIG_AB: 1146
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: festung
+BEZEICHNUNG: Reichsfeste
+ORTSTEIL_BEZUG: Burgplatz
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Wasserburg unter den Staufern am Bereich des heutigen Burgplatzes
+  namen_designation: Reichsfeste (nur vom Kaiser verliehen)
+  gründer: Herren von Plochingen (Gefolgsleute der Staufer)
+GUELTIG_AB: 1331
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: adliger
+BEZEICHNUNG: Marquardt von Randeck
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Bischof von Augsburg und Patriarch von Aquileia
+  besitztum: Plochinger Burg (1366)
+  vermachts: Wald, Viehweiden, Gerechtigkeiten (offener Frucht-, Salz-, Vieh- und Weinhandel)
+  testament_jahr: 1371
+  auswirkung: zum Aufblühen Plochingens wesentlich beitragen
+  nachwirkung: Marquardtstraße, Marquardtschule, Marquardtfest
+GUELTIG_AB: 1366
+GUELTIG_BIS: 1371
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Dreißigjähriger Krieg
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1618-1648
+  beschreibung: Religionskrieg, der Deutschland durchtobte und in Trümmer legte
+  auswirkung_auf_plochingen: Raub, Mord, Brand, Pest
+  eroberung_plochingen: 16. September 1634
+  kaiserliche_truppen_herkunft: Göppingen, Filstal
+  pest_intensitaet: Juli, August, September 1635 besonders stark
+  bevoelkerungsverlust: von 1320 auf 250 Einwohner nach 1635
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: friedensvertrag
+BEZEICHNUNG: Westfälischer Frieden
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verhandlungsort: Münster
+  monat: Oktober
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: aussichtsturm
+BEZEICHNUNG: Albvereinsturm
+ORTSTEIL_BEZUG: Stumpenhof
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber: Schwäbischer Albverein
+  urspruengliche_form: hölzerne Aussichtsplattform
+  original_jahr: 1892
+  ersatz_durch: massiven Jubiläumsturm
+  jubilaeum_anlass: 50. Jubiläum Schwäbischer Albverein
+  hoehe: 12.5 m
+  material: Plochinger Angulatensandstein
+  funktion: Aussichtsturm, Wahrzeichen, Landmarke
+  blick_richtung: Schwäbische Alb, Schurwald, Neckartal
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Schwäbischer Albverein
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1888
+  gruendungsort: Waldhorn (Plochingen)
+  jubilaeum: 50. Jahre (1938)
+GUELTIG_AB: 1888
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Altes Rathaus
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1530
+  baustil: alemannischer Fachwerkbau
+  balkenform: Schwäbischer Mann (angeblattete Fuß- und Kopfbänder)
+  baugeschichtliche_bedeutung: regional
+  urspruenglicher_standort: Neckarstraße
+  versetzung: 1977
+  neuer_standort: Marktplatz
+  versetzungsfinanzierung: Bürgerspenden (Bürgeraktion)
+  nutzung_heute: standesamtliche Trauungen, Sitzungsort Gemeinderat
+  kunstwerk: Wandbild "Allegorie der guten Regierung"
+  kunstwerk_kuenstler: Michael Triegel (Leipzig)
+  kunstwerk_jahr: November 2000
+GUELTIG_AB: 1530
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Allegorie der guten Regierung
+ORTSTEIL_BEZUG: Altes Rathaus
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Michael Triegel
+  herkunftsort_kuenstler: Leipzig
+  anbringung_ort: Sitzungssaal Altes Rathaus
+  anbringung_jahr: November 2000
+  beschreibung: allegorische Darstellung Plochingens an der Schwelle zur Jahrtausendwende
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Plochinger Bahnhof
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1905-1907
+  architekt: Theodor Fischer
+  baustil: Jugendstil
+  meereshoehe: 252 m ü. NN
+  erste_bahnanbindung: 1846
+  bahnknotenpunkt_seit: 1858
+  funktion: Kreuzungspunkt wichtiger Bahnlinien, Verknüpfungspunkt Bundesbahn und S-Bahn
+  arbeitplaetze: zahlreich seit vergangenen Jahrhundert
+GUELTIG_AB: 1905
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: siedlung
+BEZEICHNUNG: Eisenbahnersiedlung
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekt: Theodor Fischer
+  ausstattung: Portale mit Jugendstilreliefs
+  lage: gegenüber Bahnhof
+GUELTIG_AB: 1905
+IST_VERMUTISMUS_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Fischbrunnen
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 14. Jahrhundert
+  urspruengliche_funktion: Frischhalten von Fischfang durch Neckarfischer
+  eichgeschirre_funktion: Vorgabe von Hohlmaßeinheiten
+  alte_bezeichnung: Eychbrunnen
+  neugestalltung_jahr: 1982
+  neugestaltung_kuenstler: Franz Otto Lipp
+  material_neugestaltung: Stein und Bronze
+  kunstwerk_beschreibung: Bronzeplastik einer Wasser schöpfenden Bäuerin
+  lage: unteres Ende Marktstraße
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Frauenfiguren
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Wolfgang Thiel
+  erstellungsjahr: 1996
+  anzahl: 8 Stück
+  urspruengliche_form: eine Holzskulptur (Ur-Frau)
+  weitere_formen: 8 Betonabgüsse
+  farbgebung: nach Standort verschieden
+  sockel: hohe Betonsockel mit Hinweistafeln
+  funktion: Wegweisung für Fußgänger und Radfahrer an wichtigen Schnittstellen
+  standorte: verschiedene Orte in der Stadt
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Frühmesserhaus
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1594
+  baustil: Renaissance-Fachwerk
+  merkmale: Halbrosetten, Sonnenräder, Flechtwerkverzierungen, Sterngitter im fränkischen Stil, Doppelkopf im Giebel, geschnitzte Fensterrahmen
+  regionale_besonderheit: selten im süddeutschen Raum
+  urspruenglicher_standort: direkt hinter Ottilienkapelle
+  versetzung: 1978
+  grund_versetzung: Innenstadtsanierung (Straßenbau)
+  rekonstruktion: originale Fachwerkfassade dem neuen Baukörper vorgeblendet
+  nutzung_heute: Stadtbücherei, Volkshochschule
+GUELTIG_AB: 1594
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Fuhrmannshaus
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauherr: Georg Wagner (reicher Weinfuhrmann)
+  baujahr: 1613
+  zimmermann: Hans Peltin
+  grund_standortwahl: Nähe zu Brunnen mit heilkräftigem Wasser gegen Augenleiden
+  baustil: Fachwerkhaus
+  ausstattung: Schmuckgiebel mit spezifischen Schnitzverzierungen
+  inschrift: Namen Georg Wagner und Hans Peltin am linken Eckpfosten
+  relief: spitzbärtiger Kopf in Flachrelief auf Firstpfosten
+GUELTIG_AB: 1613
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Grafsches Haus
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1604
+  bauherr: Schultheiß Hieronimus Buntz
+  zimmermeister: Hans Peltin
+  qualitaet_fachwerk: schönstes Plochinger Fachwerk des Handwerkers
+  dekoration_balken: Flachrelief mit Renaissance-Motiven (Lebensbaum aus römischer Amphore)
+  bauherr_verewigung: am rechten Eckbalken
+  portal: Renaissanceportal von Michael Krell (Steinmetzarbeit)
+  keller: großes Kellergewölbe des ehemaligen Weinkellers
+  lage: oberer Marktplatz
+GUELTIG_AB: 1604
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Grüner Baum
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  glochenspiel_anbringung: 1989
+  glochenspiel_anzahl_glocken: 15
+  glockenspiel_material: Bronze
+  spielzeiten: täglich 11:05 Uhr, 15:05 Uhr, 17:05 Uhr
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus Gablenberg
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1799
+  typ: Wengerterwohnhaus
+  lage: Schulstraße
+  nutzung_heute: Besenwirtschaft
+  besonderheit: historische Dampfhammerschmiede mit Transmissionsantrieb im Untergeschoß
+  dampfhammerschmiede_funktion: Vorführungsbetrieb möglich
+GUELTIG_AB: 1799
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ausstellung
+BEZEICHNUNG: HAP Grieshaber Holzschnitte
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: HAP Grieshaber
+  herkunftsort: Reutlingen
+  kunstform: Holzschnitte
+  ausstellungsort: Schalterhalle Kreissparkasse
+  oeffnungszeiten: Schalteröffnungszeiten
+  schaffensperiode: vierzigjährig
+  besonderheit: monumentale Sintflutdarstellung aus 12 Einzelholzschnitten (je 1 m breit, 3 m hoch)
+  verbreitung_sintflut: 3 Abdrücke (Nationaltheater Mannheim, Rostock, Plochingen)
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Heiliger Urban
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Bronzestatuette
+  kuenstler: Franz Otto Lipp
+  erstellungsjahr: 1987
+  lage: Wandnische Volksbankgebäude
+  legend_funktion: Heiliger Urban lehrte Weinanbau in Cannstatt
+  verehrung_grund: Schutzpatron der Winzer im einstigen Weinbauflecken Plochingen
+  ursprueng_darstellung: Bildstock im Mittelalter an dieser Stelle
+  nahe_zu: Urbanstraße
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Hundertwasser-Wohnhaus "Wohnen unterm Regenturm"
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  planung: 1985
+  architekten: zwei Plochinger (nicht benannt)
+  grundflaeche: 1.5 ha
+  lage: südlich Marktstraße
+  planungskonzept: Ringbau um Innenhof, eingeschrieben in Straßenzüge
+  wohnungen: 64
+  gewerbliche_einheiten: 16
+  tiefgaragenplatz: 300 zusätzlich (+ 120 Nachbargebäude)
+  einkaufsmarkt_flaeche: 2300 qm
+  baugenehmigung: 1990 baugenehmigungsreif
+  innenhofgestaltung_idee: 1990
+  kuenstler_hintergrund: österreichischer Künstler
+  kuenstler: Friedensreich Hundertwasser
+  kontakt_kuenstler: 1992
+  realisierung_innenhof: Hundertwasser bereit, Fassade des Innenhofes zu gestalten
+  besonderheit_innenhof: "nur noch Hundertwasser um sich und den Himmel über sich"
+  neuheit_fuer_kuenstler: bei keinem bisherigen Bau der Fall
+  baukosten: 60 Millionen Mark
+  finanzierung: privat
+  regenturm_hoehe: 33 m
+  regenturm_krone: vier goldene Kugeln
+  regenturm_bedeutung: Wahrzeichen der Stadt
+  regenturm_sichtbarkeit: weithin sichtbar
+  innenhof_charakteristika: fröhliche Farbigkeit, gerundete Formen, verspielte Balkone, Keramiksäulen, Keramikbänder (Regenschlieren), Bäume wachsen aus Erkern, Dachbegrünung
+  innenhof_philosophie: organische Formen, keine geraden Linien oder rechten Winkel, tanzende Fenster
+  untergeschoß: Einkaufsmarkt und Tiefgarage
+  attraktivitaet: vielbesuchter Anziehungspunkt
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Köblinhaus
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1488
+  bauherr: Hans Köblin
+  beruf_bauherr: Barchenttuchhändler und Weingärtner
+  bedeutung: ältestes noch erhaltenes Wohn- und Geschäftshaus der Stadt
+  besitz_familie: Familie Köblin bis ins 17. Jahrhundert
+  familienname_zusatz: "Schörrich"
+  differenzierung: Beinamen zur Unterscheidung vieler Köblinfamilien
+  napoleonische_zeit: Branntweinschenke im ersten Stock unter Georg Friedrich Bühl (Küfer)
+  branntweinschenke_ruf: im ganzen Umkreis bekannt und geschätzt
+  restaurierung: 1987 von Grund auf restauriert und ausgebaut
+GUELTIG_AB: 1488
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: les toilettes
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thematik: öffentliche Toilettenanlagen
+  kontakt_kuenstler_jahr: 2005
+  kuenstler: Tomi Ungerer (Elsässer Graphiker, Illustrator, Autor, Satiriker)
+  entwurf_finalisierung: Mai 2007
+  eroeffnung: 15. September 2007
+  lage: zentral Innenstadt, zwischen Marktplatz und Schorndorfer Straße
+  lage_details: Fußgängerzone, nahe Hundertwasser Regenturm
+  besonderheit: Toilettenhäuschen als Kunstobjekt statt Notwendigkeit
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Blasius
+QUELLE: https://www.plochingen.de/start/leben+_+wohnen/Kirchen+und+religioese+Gemeinschaften.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: evangelisch
+  gemeinde: Evangelische Kirchengemeinde Plochingen
+  funktion_stadt: Wahrzeichen der Stadt
+  adresse: Kirchberg 8
+  alternative_name: Stadtkirche
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Paul-Gerhardt-Kirche
+QUELLE: https://www.plochingen.de/start/leben+_+wohnen/Kirchen+und+religioese+Gemeinschaften.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: evangelisch
+  gemeinde: Evangelische Kirchengemeinde Plochingen
+  adresse: Teckplatz 12
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Konrad
+QUELLE: https://www.plochingen.de/start/leben+_+wohnen/Kirchen+und+religioese+Gemeinschaften.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: römisch-katholisch
+  gemeinde: Katholische Kirchengemeinde Plochingen
+  adresse: Hindenburgstraße 57
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johann
+ORTSTEIL_BEZUG: Stumpenhof
+QUELLE: https://www.plochingen.de/start/leben+_+wohnen/Kirchen+und+religioese+Gemeinschaften.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: römisch-katholisch
+  gemeinde: Katholische Kirchengemeinde Plochingen
+  adresse: Stuifenstraße 1
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Plochingen
+QUELLE: https://www.plochingen.de/start/leben+_+wohnen/Kirchen+und+religioese+Gemeinschaften.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  kirchen: St. Blasius (Stadtkirche), Paul-Gerhardt-Kirche
+  kinder_jugendeinrichtungen: Jugendtreff, Kindergärten
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Katholische Kirchengemeinde Plochingen
+QUELLE: https://www.plochingen.de/start/leben+_+wohnen/Kirchen+und+religioese+Gemeinschaften.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: römisch-katholisch
+  kirchen: St. Konrad, St. Johann (Stumpenhof)
+  kinder_jugendeinrichtungen: Kindergärten
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Ottilienkapelle
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: ältestes Bauwerk Plochingens
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: park
+BEZEICHNUNG: Landschaftspark Bruckenwasen
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlass_entstehung: Landesgartenschau 1998
+  lage: Neckarauen, gegenüberliegende Neckarseite
+  ausstattung: Spielplätze, Boulebahn, Dampfbahnanlage, Biergarten
+  funktion: Freizeitmöglichkeiten für Familie
+  zusatz_infrastruktur: Uferpromenade, Radwege
+  neubaugebiet_anschluss: Wohngebiet für ca. 600 Bewohner
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Landesgartenschau
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1998
+  ort: Plochingen (Neckarauen)
+  ergebnis_infrastruktur: Landschaftspark Bruckenwasen
+GUELTIG_AB: 1998
+GUELTIG_BIS: 1998
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Stumpenhof
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  meereshoehe: 398 m ü. NN
+  charakterisierung: Höhenstadtteil
+  entstehung: 1950er Jahre
+  zentrum: Teckplatz
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Lettenäcker I
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: östliche Halbhöhenlage
+  erschliessung: Ende der 1970er Jahre
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Lettenäcker II
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: östliche Halbhöhenlage
+  erschliessung: Mitte der 1990er Jahre
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Musikerviertel
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: oberhalb Kernstadt Richtung Schurwald
+  entstehung: ab 1930er Jahre
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Dornendreher
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: oberhalb Kernstadt, anschließend an Höhenstadtteil Stumpenhof
+  entstehung: ab 1930er Jahre
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Hindenburg-/Panoramastraße
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: oberhalb Kernstadt Richtung Schurwald
+  entstehung: ab 1930er Jahre
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: zeitliche_periode
+BEZEICHNUNG: Römische Zeit
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 90-260 n.Chr.
+  kastellum_bau: um 90 n.Chr. (Cannstatt, Neckarlimes)
+  roesterstrasse_durch_plochingen: ja
+  roesterstrasse_herkunft: Kastell Cannstatt nach Kastell Köngen
+  roesterstrasse_verlauf: entlang rechtem Neckarufer, Plochingen, Filstal über Süßen/Heidenheim zur Donau
+  limes_vorverlagerung: 150 n.Chr. in Schwäbischen Wald bis Linie Öhringen-Lorch
+  befestigung: Wall und Graben
+  weitere_roesterstrasse: Köngen über Plochingen/Faurndau/Schurwald zu Kastell Lorch (Remstal)
+  weitere_roesterstrasse_2: Köngen über Fildern nach Cannstatt
+  roemische_villen_fund: Wernau (1811, südlich ansteigender Höhe), Deizisau (westlich), Altbach, vermutlich Kirchberg Plochingen
+GUELTIG_AB: 90
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: zeitliche_periode
+BEZEICHNUNG: Alemannische Zeit
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstwähnung_stamm: 213 n.Chr.
+  eroberung_neckarland: 260 n.Chr.
+  ursprung_name: Alemannen = Männerverband
+  herkunft_stammesbund: Vereinigung verschiedener sübischer Völkerschaften Mitteldeutschlands
+  unternehmung_charakter: planmäßige kolonisatorische Unternehmung
+  sippe_plochingen: Blocko
+  sippe_besiedlung: Feldmark, Dorf um "Vordere Gasse" (heutige Marktstraße)
+  gassen_entwicklung: Hintere Gasse (Bergstraße), Untere Gasse (Neckarstraße), Obere Gasse (obere Marktstraße)
+  sippenälteste_wohnsitz: Kirchberg
+  gruendung_datierung: 3. oder 4. Jahrhundert
+  erste_einwohner: ca. 100
+  organisationsform: Hundertschaften mit Sippenlandverteilung
+  namenbildung: Personenname Sippenältester + Silbe "-ingen"
+  expansion: Überquerung Rhein, Elsaß und Teile der Schweiz
+  hemmnis_expansion: römische Intervention
+  verbreitungsgebiet: feste Wohnsitze in deutschen Grenzgebieten
+GUELTIG_AB: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: sippe
+BEZEICHNUNG: Sippe Blocko
+QUELLE: https://www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ethnizitaet: alemannisch
+  wohnsitz: Plochingen (Feldmark)
+  gruendung_ort: ca. 3./4. Jahrhundert
+GUELTIG_AB: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

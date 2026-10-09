@@ -1,0 +1,64 @@
+Orte: 101-stuttgart 102-esslingen 103-plochingen 104-kirchheim-teck 105-goeppingen 106-geislingen 107-merklingen 108-ulm 109-neu-ulm 110-guenzburg
+== Extraktion (Haiku) 09:01:06
+101-stuttgart        extraktion ein  80204  aus  14618   0.22 USD   127 s  claude-haiku-4-5-20251001
+102-esslingen        extraktion ein  19858  aus  15561   0.10 USD   143 s  claude-haiku-4-5-20251001
+103-plochingen       extraktion ein  25968  aus  11936   0.10 USD   116 s  claude-haiku-4-5-20251001
+104-kirchheim-teck   extraktion ein  35976  aus  12653   0.12 USD   111 s  claude-haiku-4-5-20251001
+105-goeppingen       extraktion ein  29188  aus  20653   0.15 USD   200 s  claude-haiku-4-5-20251001
+106-geislingen       extraktion ein  38075  aus  15629   0.14 USD   119 s  claude-haiku-4-5-20251001
+107-merklingen       extraktion ein  21725  aus  10031   0.08 USD    74 s  claude-haiku-4-5-20251001
+108-ulm              extraktion ein  73171  aus  13571   0.20 USD   122 s  claude-haiku-4-5-20251001
+109-neu-ulm          extraktion ein  44114  aus  24041   0.19 USD   237 s  claude-haiku-4-5-20251001
+110-guenzburg        extraktion ein  36335  aus  17345   0.15 USD   165 s  claude-haiku-4-5-20251001
+zusammen: 5038 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+101-stuttgart      29805 Zeichen
+102-esslingen      13343 Zeichen
+103-plochingen     29136 Zeichen
+104-kirchheim-teck   20592 Zeichen
+105-goeppingen     39389 Zeichen
+106-geislingen     40049 Zeichen
+107-merklingen     13625 Zeichen
+108-ulm            36458 Zeichen
+109-neu-ulm        42811 Zeichen
+110-guenzburg      31451 Zeichen
+== Karten (claude-opus-5-5) 09:07:25
+101-stuttgart        karten     ein  44416  aus  35397   1.01 USD   313 s  claude-opus-5-5
+102-esslingen        karten     ein  34125  aus  31128   0.84 USD   261 s  claude-opus-5-5
+103-plochingen       karten     ein  43490  aus  48574   1.27 USD   418 s  claude-opus-5-5
+104-kirchheim-teck   karten     ein  38757  aus  35151   0.96 USD   304 s  claude-opus-5-5
+105-goeppingen       karten     ein  49333  aus  39547   1.13 USD   504 s  claude-opus-5-5
+106-geislingen       karten     ein  50693  aus  37907   1.11 USD   322 s  claude-opus-5-5
+107-merklingen       karten     ein  34413  aus  29889   0.82 USD   257 s  claude-opus-5-5
+108-ulm              karten     ein  49094  aus  34110   1.02 USD   298 s  claude-opus-5-5
+109-neu-ulm          karten     ein  53424  aus  42996   1.23 USD   374 s  claude-opus-5-5
+110-guenzburg        karten     ein  42788  aus  31676   0.92 USD   268 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 09:20:37
+101-stuttgart        pruefung   ein  51008  aus   7608   0.51 USD    67 s  claude-opus-5-5
+102-esslingen        pruefung   ein  43433  aus   8078   0.46 USD    75 s  claude-opus-5-5
+103-plochingen       pruefung   ein  63005  aus  12187   0.69 USD   103 s  claude-opus-5-5
+104-kirchheim-teck   pruefung   ein  70625  aus  10661   0.72 USD    93 s  claude-opus-5-5
+105-goeppingen       pruefung   ein  72084  aus  11502   0.75 USD    95 s  claude-opus-5-5
+106-geislingen       pruefung   ein  58738  aus   6872   0.55 USD    67 s  claude-opus-5-5
+107-merklingen       pruefung   ein  43155  aus  12987   0.55 USD   110 s  claude-opus-5-5
+108-ulm              pruefung   ein  50990  aus   9042   0.53 USD    82 s  claude-opus-5-5
+109-neu-ulm          pruefung   ein  94900  aus  10871   0.92 USD   113 s  claude-opus-5-5
+110-guenzburg        pruefung   ein  76016  aus   9095   0.74 USD    77 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 09:24:06
+101-stuttgart        stufe2     ein 451879  aus  14440   1.31 USD   162 s  claude-opus-5-5,claude-haiku-4-5-20251001
+102-esslingen        stufe2     ein 258334  aus   7630   0.82 USD   103 s  claude-opus-5-5,claude-haiku-4-5-20251001
+103-plochingen       stufe2     ein 135049  aus   1466   0.27 USD    90 s  claude-opus-5-5,claude-haiku-4-5-20251001
+104-kirchheim-teck   stufe2     ein 158901  aus   3841   0.36 USD   103 s  claude-opus-5-5,claude-haiku-4-5-20251001
+105-goeppingen       FEHLER keine Karte an Stufe 2 – kein Lauf
+106-geislingen       stufe2     ein 622873  aus  13163   1.51 USD   230 s  claude-opus-5-5,claude-haiku-4-5-20251001
+107-merklingen       stufe2     ein 199810  aus   2422   0.37 USD    82 s  claude-opus-5-5,claude-haiku-4-5-20251001
+108-ulm              stufe2     ein 271468  aus   7985   0.91 USD   105 s  claude-opus-5-5,claude-haiku-4-5-20251001
+109-neu-ulm          FEHLER keine Karte an Stufe 2 – kein Lauf
+110-guenzburg        FEHLER keine Karte an Stufe 2 – kein Lauf
+== Geprüfte Fassung und Export 09:27:56
+Urteile: {'korrigiert': 284, 'bestätigt': 605, 'gesperrt': 17, 'unsicher': 49} | im Vorrat: 938 Karten an 105 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     105 Orte, 938 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 1206795 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 09:27:56

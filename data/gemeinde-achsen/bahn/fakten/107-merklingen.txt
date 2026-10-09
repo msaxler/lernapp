@@ -1,0 +1,290 @@
+ID: 107-merklingen/001
+ENTITÄT: ort
+QUELLE: https://www.merklingen.de/gemeinde-merklingen/geschichte/allgemein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprünglicher_name: Marchelingen
+  ersterwahnung_jahr: 861
+  ersterwahnung_kontext: Gründungsurkunde des Klosters Wiesensteig
+  gruendung_zeit: 6. Jahrhundert
+  gruendung_volk: Alemannen
+  gruendung_genauigkeit: vermutlich
+  verkauf_an: Reichsstadt Ulm
+  verkauf_datum: 1482
+  verwaltung_bis_1802: Reichsstadt Ulm
+  verwaltung_1802_1810: Bayern
+  verwaltung_1810_1938: Württemberg (Oberamt Blaubeuren)
+  verwaltung_ab_1938: Kreis Ulm
+GUELTIG_AB: 861
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 107-merklingen/002
+ENTITÄT: ort
+QUELLE: https://www.merklingen.de/gemeinde-merklingen/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_gesamt: 2201
+  einwohner_weiblich: 1085
+  einwohner_maennlich: 1116
+  einwohner_auslaender: 262
+  breitengrad: 48° 31' N
+  laengengrad: 9° 45' O
+  hoehenlage: 699 [m ü. NN]
+  gemarkungsflaeche_gesamt: 2131 [ha]
+  gemarkungsflaeche_bebaut: 320 [ha]
+  gemarkungsflaeche_landwirtschaft: 1249 [ha]
+  gemarkungsflaeche_wald: 656 [ha]
+  bevoelkerungsdichte: 99 [Einwohner/km²]
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.99
+---
+ID: 107-merklingen/003
+ENTITÄT: kirche
+BEZEICHNUNG: Heiligen Drei Königen
+QUELLE: https://www.merklingen.de/gemeinde-merklingen/geschichte/allgemein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  weihung: Heiligen Drei Königen
+  erbaut: 1452
+  chor_erweitert: 1490/91
+  hochaltar_aufgestellt: 1510
+  hochaltar_quelle: Ulmer Schule
+  turm_abgerissen: 1798
+  turm_abgerissen_grund: Baufaelligkeit
+  turm_wiederaufgebaut: 1799
+  turm_haube: zwiebelfoermig
+GUELTIG_AB: 1452
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 107-merklingen/004
+ENTITÄT: kirche
+BEZEICHNUNG: Heiligen Drei Königen
+QUELLE: https://www.merklingen.de/leben/kirchen/evangelische-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  kirchengemeinde: Evangelische Kirchengemeinde Merklingen
+  mitglieder_ungefaehr: 1150
+  pfarrer_1: Cornelius Küttner
+  pfarrer_2: Florian Rochau
+  pfarrer_seit: März 2020
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 107-merklingen/005
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde Merklingen
+QUELLE: https://www.merklingen.de/leben/kirchen/evangelische-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirche: Heiligen Drei Königen
+  mitglieder_ungefaehr: 1150
+  pfarrer_1: Cornelius Küttner
+  pfarrer_2: Florian Rochau
+  pfarrer_seit: März 2020
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 107-merklingen/006
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Maria Königin Laichingen
+QUELLE: https://www.merklingen.de/leben/kirchen/katholische-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  seelsorgeeinheit: Laichinger Alb
+  leitender_pfarrer: Karl Enderle
+  gemeindereferentin: Schwester M. Rita Fleck
+  merklingen_gehoert_zu: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 107-merklingen/007
+ENTITÄT: gebäude
+BEZEICHNUNG: Altes Pfarrhaus
+QUELLE: https://www.merklingen.de/gemeinde-merklingen/geschichte/allgemein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hauptstraße 62
+  ursprüngliche_funktion: Amtshaus
+  ursprüngliche_nutzung_bis: 1745
+  spätere_funktion: Pfarrerswohnung
+GUELTIG_AB: 1482
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 107-merklingen/008
+ENTITÄT: gebäude
+BEZEICHNUNG: Heiligenhaus
+QUELLE: https://www.merklingen.de/gemeinde-merklingen/geschichte/allgemein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1551
+  erbaut_durch: Heiligenpflege
+  funktion: Rathaus
+  rathaus_funktion_bis: 1971
+  abgerissen: 1972
+  abriss_grund: Neubau des Rathauses
+GUELTIG_AB: 1551
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 107-merklingen/009
+ENTITÄT: gebäude
+BEZEICHNUNG: Geistlichenhaus
+QUELLE: https://www.merklingen.de/gemeinde-merklingen/geschichte/allgemein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: neben der Kirche
+  ursprüngliche_funktion: Wohnung Frühmessenpriester
+  funktion_nach_reformation: Schulhaus
+  neugebaut: 1764
+  neubau_noch_vorhanden: ja
+GUELTIG_AB: vor 1490
+IST_VERMUTISCH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 107-merklingen/010
+ENTITÄT: gebäude
+BEZEICHNUNG: Altes Schulhaus
+QUELLE: https://www.merklingen.de/gemeinde-merklingen/geschichte/allgemein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1839
+  funktion: Lehrerwohnungen
+GUELTIG_AB: 1839
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 107-merklingen/011
+ENTITÄT: gebäude
+BEZEICHNUNG: Neues Schulhaus
+QUELLE: https://www.merklingen.de/gemeinde-merklingen/geschichte/allgemein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1912
+  ausstattung: zwei Lehrerwohnungen
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 107-merklingen/012
+ENTITÄT: gebäude
+BEZEICHNUNG: Brechhaus
+QUELLE: https://www.merklingen.de/gemeinde-merklingen/geschichte/allgemein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_heute: Kindergarten
+  funktion: Aufbereitung von Flachs zu Leinen
+  betrieb_bis: 1930er Jahre
+GUELTIG_AB: vor 1930
+GUELTIG_BIS: 1930
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 107-merklingen/013
+ENTITÄT: bleiche
+BEZEICHNUNG: Merklinger Bleiche
+QUELLE: https://www.merklingen.de/gemeinde-merklingen/geschichte/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: östlicher Hang "Lehr" gegen das Dorf
+  flaeche: magerer Rasen
+  funktion: Leinenbleiche
+  verwaltung: Gemeindeverwaltung
+  wasserfass: ja
+  wasserfass_funktion: Annetzen der ausgebreiteten Tücher
+  gebaude_auf_bleiche: Bleichhäusle
+  betrieb: historisch bis Anfang 20. Jahrhundert
+  im_gemeindewappen_dargestellt: ja
+GUELTIG_AB: vor 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 107-merklingen/014
+ENTITÄT: gebäude
+BEZEICHNUNG: Bleichhäusle
+QUELLE: https://www.merklingen.de/gemeinde-merklingen/geschichte/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Mitte der Bleiche
+  ausstattung: Bett, Tisch, Stuhl, kleiner Ofen
+  funktion: Unterkunft und Lagerung Leinenstücke
+  bewacher: scharfer wachsamer Hund
+  betreuer_beruf: Tuchhirt
+  im_wappen_dargestellt: ja
+GUELTIG_AB: vor 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 107-merklingen/015
+ENTITÄT: beruf
+BEZEICHNUNG: Tuchhirt
+QUELLE: https://www.merklingen.de/gemeinde-merklingen/geschichte/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Wächter und Verwalter der Leinenstücke auf der Bleiche
+  taetigkeiten: Notierung der Tuchstücke, Tag- und Nachtwache
+  unterkunft: Bleichhäusle
+  zeitalter: historisch
+GUELTIG_AB: vor 1800
+GUELTIG_BIS: ca. 1930
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 107-merklingen/016
+ENTITÄT: handwerk
+BEZEICHNUNG: Leinenweberei
+QUELLE: https://www.merklingen.de/gemeinde-merklingen/geschichte/allgemein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_haupterwerbszweig: bis 1930er Jahre
+  webstühle_anzahl: über 100
+  bedeutung: einer der bedeutsameren Orte für Leinenweberei
+  rohstoff: Flachs
+  produkt: Leinwand
+GUELTIG_BIS: 1930
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 107-merklingen/017
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Wiesensteig
+QUELLE: https://www.merklingen.de/gemeinde-merklingen/geschichte/allgemein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 861
+  grund_erwahnung_merklingen: Gründungsurkunde des Klosters
+  merklingen_name_in_urkunde: Marchelingen
+  wohltaeter: Helfensteiner Graf Rudolf
+  recht_in_merklingen: Zehntenrecht
+  zehntenrecht_prozentsatz: 10% Steuern
+GUELTIG_AB: 861
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 107-merklingen/018
+ENTITÄT: archaeologisches_fund
+BEZEICHNUNG: Gräberfeld
+QUELLE: https://www.merklingen.de/gemeinde-merklingen/geschichte/allgemein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: beim Anlage des jetzigen Friedhofs entdeckt
+  kultur: alemannisch
+  bedeutung: belegt Gründung durch Alemannen im 6. Jahrhundert
+GUELTIG_AB: 600
+GUELTIG_BIS: 600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 107-merklingen/019
+ENTITÄT: archaeologisches_fund
+BEZEICHNUNG: Römischer Gutshof
+QUELLE: https://www.merklingen.de/gemeinde-merklingen/geschichte/allgemein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Bannholz
+  kultur: römisch
+  bewohnung_bis: 260
+  bewohnung_enddatum_grund: Römer verließen das Gebiet der Alb
+  nachnutzung: nicht als Siedlungsplatz durch Alemannen gewählt
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 107-merklingen/020
+ENTITÄT: speisespezialitaet
+BEZEICHNUNG: Merklinger Nudla
+QUELLE: https://www.merklingen.de/gemeinde-merklingen/geschichte/die-merklinger-spezialitaet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Backspezialität
+  verbreitung_mahlzeit: Frühstück bis Abendessen
+  geschmacksrichtung: süß und deftig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

@@ -1,0 +1,1222 @@
+ENTITÄT: ort
+BEZEICHNUNG: Neu-Ulm
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_datum: 7. April 1811
+  gruendungsbegriff: Gemeinde
+  gruender: König Max I. Joseph
+  impulsgeber: Karl Ernst von Gravenreuth (Generalkommissär des Oberdonaukreises)
+  gruendungsursache: Vertrag 18. Mai 1810 zwischen Bayern und Württemberg, Grenzfestlegung auf Donau-Mitte ab 1. November 1810
+  stadterhebung: 29. September 1869
+  stadterheber: König Ludwig II.
+  ist_kreisfreie_stadt: true
+  kreisfreie_stadt_phasen: 1891-1935, 1948-1972
+  garnisonstadt_phasen: 1858-1918, 1934-1945, 1951-1991
+  bombardierung: Dezember 1944 und März 1945
+  zerstoerungsgrad: 80%
+  eingemeindungen_umliegender_orte: 9
+  eingemeindungen_phasen: 1972-1977
+  flaeche_gesamt: 8099 ha
+  flaeche_gesamt_qkm: 80.96
+  gemarkungen: 9
+  strassenamen: 686
+  flurstuecke: 24093
+  jubilaeum_200_jahre: 2011
+  jubilaeum_150_jahre_stadt: 2019
+  fairtrade_stadt_seit: 8. Dezember 2017
+GUELTIG_AB: 1811
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Neu-Ulms
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihungsdatum: 3. Februar 1857
+  verleiher: König Maximilian II (Max II)
+  hauptmerkmal_1: silberner Zinnenturm
+  hauptmerkmal_1_bedeutung: Symbol für Festungsanlage
+  farben: schwarz und silber/weiß (Ulm), silber/weiß und blau (Bayern)
+GUELTIG_AB: 1857
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: St. Johann Baptist
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: katholische Stadtpfarrkirche
+  umbau_zeitraum: 1922-1926
+  umbau_architekt: Dominikus Böhm
+  beschreibung: frühes Beispiel moderner Sakralbaukunst
+GUELTIG_AB: 1922
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Wasserturm
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1900
+  bedeutung: Wahrzeichen Neu-Ulms
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verkehr
+BEZEICHNUNG: Straßenbahnlinie Ulm-Neu-Ulm
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindung: zwischen Bahnhöfen Ulm und Neu-Ulm
+  einweihung: 1897
+GUELTIG_AB: 1897
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: verkehr
+BEZEICHNUNG: Donaubrücke
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindung: nach Stuttgart
+  baubeginn: 1854
+GUELTIG_AB: 1854
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: verkehr
+BEZEICHNUNG: Eisenbahn nach Augsburg
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindung: nach Augsburg
+  erstellung: 1853
+GUELTIG_AB: 1853
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: bauewerk
+BEZEICHNUNG: Tiefbahnhof
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  projekt: Neu-Ulm 21
+  inbetriebnahme: März 2007
+  ursprung: Umbau aus oberirdischem Bahnhof
+  anlass: Ausbau der ICE-Schnellbahnstrecke Stuttgart-München
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Donaucenter
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Wohn- und Geschäftshaus
+  bezug: 1975
+  funktion: Wohnen, Geschäfte
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Edwin-Scharff-Haus
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Kultur- und Tagungszentrum
+  erstellung: 1977
+  lage: an der Donau
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Edwin Scharff Museum
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstellung: 1977
+  neue_adresse_ab_1999: Petrusplatz
+  inhalt: Gemälde, Zeichnungen, Skulpturen von Edwin Scharff
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Landesgartenschau
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_landesgartenschau: 1980
+  zweite_landesgartenschau: 2008
+  auswirkung: Umwandlung Glacis-Park und Wiley-Gelände zu grünem Netz
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Glacis-Galerie
+ORTSTEIL_BEZUG: Stadtmitte
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Einkaufsgalerie/Großprojekt
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: ratiopharm arena
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Mehrzweckarena
+  inbetriebnahme: erwähnt als Großprojekt im Rahmen Stadtentwicklung
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60
+
+---
+
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Josef Kollmann
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 25. März 1855
+  todestag: 21. März 1932
+  amtszeit: 1885-1919
+  titel: Rechtskundiger Bürgermeister, Königlicher Hofrat
+  rolle: trieb Stadtentwicklung entscheidend voran
+  ehrenbuerger: 20. Juni 1919
+GUELTIG_AB: 1885
+GUELTIG_BIS: 1919
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Iselhalle
+ORTSTEIL_BEZUG: Burlafingen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstellung: 1979-1981
+  erbauer: Stadt Neu-Ulm mit Bürgern und Vereinen
+GUELTIG_AB: 1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: platz
+BEZEICHNUNG: Dorfplatz
+ORTSTEIL_BEZUG: Burlafingen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 2002
+  zentrum: Ortskern
+  besonderheit: unter Bürgerbeteiligung geplant
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Burlafingen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1287
+  selbstaendigkeit_bis: 1972
+  zusammenschluss_mit: Pfuhl
+  eingemeindung_zu_neu_ulm: 1. Juni 1977
+  merkmale: aktives Vereinsleben, Seenplatte
+GUELTIG_AB: 1287
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Finningen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1. Juli 1975
+  jubilaeum_25_jahre: 1. Juli 2000
+  roemer_bedeutung: strategische Bedeutung
+  sehenswuerdigkeiten: Finninger Kirchberg, Kirche St. Mammas mit Zwiebelturm
+  charakterisierung: ländlich aber stadtnah
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gerlenhofen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 973
+  eingemeindung: 1. Juni 1972
+  industrielle_entwicklung_grund: Illertalbahn
+  aktuelle_charakterisierung: beschaulicher Wohnort statt Industriestandort
+  bahn_haltestelle_seit: 1998
+  siedlungen: Werzlen, Häuserhof
+GUELTIG_AB: 973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Schloss Hausen
+ORTSTEIL_BEZUG: Hausen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1768
+  erbauer: Christoph Heinrich Besserer von Thalfingen (Ulmer Bürgermeister)
+  bestandteile: Schloss mit Park
+  architektur: mit Park
+GUELTIG_AB: 1768
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kirche (spätgotisch)
+ORTSTEIL_BEZUG: Hausen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architektur: spätgotisch
+  beschreibung: sehenswert
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hausen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: gut erhaltener Ortskern, gewachsener Dorfcharakter
+  umgebung: Streuobstwiesen
+  lage: idyllisch
+  wirtschaft: Landwirtschaft
+GUELTIG_AB: 1768
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Schlösschen
+ORTSTEIL_BEZUG: Holzschwang
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Ulmer Patrizier
+  bauzeit: zweite Hälfte 16. Jahrhundert
+GUELTIG_AB: 1550
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Vereinshalle
+ORTSTEIL_BEZUG: Holzschwang
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: August 1998
+  besonderheit: 167 Helfer, 600 Arbeitstage, 21.000 Arbeitsstunden Eigenleistung
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Holzschwang
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: ländliches Dorf mit starker Identität
+  weiler_gehoerig: Weiler, Tiefenbach, Neubronn
+  besitz: Schlösschen aus zweiter Hälfte 16. Jahrhundert
+GUELTIG_AB: 1550
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Feuerwehr- und Vereinsgebäude
+ORTSTEIL_BEZUG: Jedelhausen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Freiwillige Feuerwehr und Dorfgemeinschaft
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Jedelhausen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: idyllischer Stadtteil
+  lage: Südosten
+  wirtschaft: Landwirtschaft geprägt
+  besonderheit: Bauernhöfe, ländliche Einfamilienhäuser, freilaufende Tiere
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ludwigsfeld
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entdeckung: 1862
+  benannt_nach: Märchenkönig Ludwig II
+  charakterisierung: bevorzugtes Wohngebiet zwischen Naherholungsgebiet und Auwald
+  silhouette: fünf Hochhäuser aus 60er Jahren markant
+  erweiterung_1990er: Eingliederung ehemaliges US-Militärgebiet Wiley
+  illerkanal: vorhanden
+  verkehrsübungsplatz: am Rande von Ludwigsfeld
+  reitstall: vorhanden
+  ludwigsfelder_baggelsee: angelegt in 70ern, Naherholungsgebiet, Badesee
+GUELTIG_AB: 1862
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Erich-Kästner-Schule
+ORTSTEIL_BEZUG: Ludwigsfeld
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: Dezember 2005 Treff für Kinder und Jugendliche im Untergeschoss eröffnet
+  leitung: städtische Jugendpflege
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Schlössle
+ORTSTEIL_BEZUG: Offenhausen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Bierwirtschaft mit Biergarten
+  besonderheit: Bier wird selbst gebraut
+  popularitaet: beliebter Publikumsmagnet im Sommer
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Fußgänger- und Radsteg über Donau
+ORTSTEIL_BEZUG: Offenhausen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindung: zu Ulmer Friedrichsau
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Hallenbad
+ORTSTEIL_BEZUG: Offenhausen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadt: Offenhauser Gries
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Offenhausen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: an der Donau
+  charakterisierung: viele attraktive Freizeiteinrichtungen
+  offenhauser_gries: Jugendtreff im Grünen, Hallenbad
+  sportanlage: Skatepark, Streetballfeld, Spielplatz
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Trissino
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Italien
+  freundschaft_gegruendung: 1990
+  jubilaeum_25_jahre: 2015
+  jubilaeum_festakt: 2015
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum (Zweigstelle)
+ORTSTEIL_BEZUG: Pfuhl
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Hauptstraße
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Badesee Pfuhl
+ORTSTEIL_BEZUG: Pfuhl
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: von Stadt angelegtes Naherholungsgebiet
+  charakterisierung: schön im Wald gelegen
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Jugendtreff am Bolzplatz
+ORTSTEIL_BEZUG: Pfuhl
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: Herbst 2011
+  lage: Brumersweg
+  leitung: städtische Jugendpflege
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Schloss (16. Jahrhundert)
+ORTSTEIL_BEZUG: Pfuhl
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  form: viereckige Gesamtanlage
+  bauzeit: 16. Jahrhundert
+  nachnutzung: zu Wohnhaus umgebaut
+  besonderheit: überragt alles, auf Anhöhe
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Pfuhl
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hauptstrasse: viele kleine Geschäfte
+  selbstaendigkeit_bis: 1972
+  zusammenschluss_mit: Burlafingen
+  eingemeindung_zu_neu_ulm: 1. Juni 1977
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Reutti
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: beliebter Wohnort
+  landwirtschaft: Struktur zurückgegangen
+  schule: vorhanden, besucht auch von Grundschülern aus Umgebung
+  lebensmittelladen: kleiner
+  feuerwehr: Löschzug der Freiwilligen Feuerwehr
+GUELTIG_AB: 1800
+IST_VERMUTISCH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schwaighofen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Riedhöfe an Straße nach Reutti (Beginn 19. Jahrhundert)
+  gehoerigkeit: gehörten von Anfang an zu Neu-Ulm, nie selbstständig
+  namenuebernahme_datum: 20. November 1894
+  namenuebernahme_ursprung: 1255 erstmals urkundlich genannter, abgegangener Ort
+  flugplatz: beliebte Flugveranstaltungen in Vergangenheit, heute Gewerbegebiet
+  charakterisierung: trotz Industrialisierung alte Gehöfte und Kuhweiden
+GUELTIG_AB: 1894
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Illerkanal
+ORTSTEIL_BEZUG: Weststadt
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1906
+  grund: Vertrag zwischen Städten Ulm und Neu-Ulm 1899
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kraftwerk Jakobsruhe
+ORTSTEIL_BEZUG: Weststadt
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1906
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Vorwerk 14 "Fort Illerkanal"
+ORTSTEIL_BEZUG: Weststadt
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Befestigungswerk der Bundesfestung
+  bestandteile: Bundesfestung
+GUELTIG_AB: 1840
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Donaubad
+ORTSTITEL_BEZUG: Weststadt
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Erlebnisbad
+  bestandteile: Sauna, Thermalbereich, Freibad, Eislaufanlage
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Weststadt
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gebiet: Donau (Norden), Landesgrenze westlich Iller, B 30 (Süden), B 28/B 10 (Osten)
+  vorstadt_westlich_b28: 1930er Jahre, Villenviertel
+  illerbruecke_geschichte: alt, vor erstem Brückenbau "Illerüberfuhr" genannt
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus Fähre Illerbrücke
+ORTSTEIL_BEZUG: Weststadt
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber: Johann Baptist Ohmayer
+  start_faehre: seit 1817
+  schankwirtschaft: vor 1880 Haus gebaut
+GUELTIG_AB: 1817
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Steinheim
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umgebung: Ried, Buchberg, Waldgebiete
+  vereinsleben: außergewöhnlich gut
+  gemeindehalle: mit Eigenleistung der Bevölkerung gebaut
+  verkehrslage: günstig, A7 schnell erreichbar
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: festung
+BEZEICHNUNG: Bundesfestung Ulm
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/historie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entscheidung: Frankfurter Bundesversammlung 1841
+  neu_ulm_rolle: Brückenkopf, größte Festungsanlage Europas
+  grundstein: 1844
+  festungsmauern: ca. 65 ha Land
+  bauliche_ausdehnung_bis_1899: 11 ha Militärgebäude, 13 ha Bahn
+GUELTIG_AB: 1841
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Stadtgeschichten (Infotafeln)
+QUELLE: https://nu.neu-ulm.de/neu-ulm-erleben/tourismus/stadtgeschichten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standorte_anzahl: 100
+  beschreibung: Entwicklung der Stadt und ihrer Dörfer
+  bedeutungsbereich: bedeutende Bürger, Gebäude, Bauwerke, historische Wegmarken
+  platzierung: markante Gebäude oder extra gestaltete Stelen
+  rundgaenge_radtouren: ja
+  broschüre_jahr: 2012
+  broschüre_titel: "STADTGESCHICHTEN: Historische Rundgänge und Radtouren durch Neu-Ulm"
+  neueste_tafeln: Römisches Kleinkastell Burlafingen, Altes Donaubad (Orange Campus), Erlöserkirche Offenhausen, 10 Tafeln im Wiley
+GUELTIG_AB: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bibliothek
+BEZEICHNUNG: Geschichtsbibliothek Neu-Ulm
+QUELLE: https://nu.neu-ulm.de/neu-ulm-erleben/kultur/stadtbuecherei/geschichtsbibliothek | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Steubenstraße 15-17
+  sammlungsbereich: Ortsgeschichte Neu-Ulms, Schwabens, Süddeutschlands
+  bestandstypen: Literatur, Landeskunde, Lexika, Kirchengeschichte, Urkunden, Familiengeschichte, Kunstgeschichte
+  regionalarchiv: vorhanden
+  forscher_austausch: Historiker-Stammtisch regelmäßig
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Joseph Ritter von Kopp
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/ehrenbuerger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 15. November 1829
+  todestag: 1. September 1911
+  ehrenbürger: 1. Oktober 1897
+  position: Regierungspräsident im Kreis Schwaben und Neuburg (1887-1897)
+GUELTIG_AB: 1829
+GUELTIG_BIS: 1911
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Adolf Bauer
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/ehrenbuerger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 1832
+  todestag: 20. März 1908
+  ehrenbürger: 9. Oktober 1905
+  position: Stadtpfarrer evangelische Kirche Neu-Ulm (1876-1908)
+  titel: Kirchenrat
+GUELTIG_AB: 1832
+GUELTIG_BIS: 1908
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Franz Josef Nuißl
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/ehrenbuerger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 9. September 1877
+  todestag: 28. August 1955
+  ehrenbürger: 9. September 1952
+  position_bürgermeister: 1919-1945
+  position_oberbürgermeister: ab 1927 mit persönlich verliehener Titel
+GUELTIG_AB: 1877
+GUELTIG_BIS: 1955
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Dr. Dietrich Lang
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/ehrenbuerger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 23. September 1917
+  todestag: 8. August 2007
+  ehrenbürger: 23. September 1977
+  position: Oberbürgermeister Neu-Ulm (1961-1977)
+GUELTIG_AB: 1917
+GUELTIG_BIS: 2007
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Emile Tricon
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/ehrenbuerger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 17. April 1908
+  todestag: 11. Januar 2000
+  ehrenbürger: 18. September 1981
+  position: Bürgermeister Bois-Colombes
+  bois_colombes_partnerstadt_seit: 1966
+GUELTIG_AB: 1908
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Vernon A. Walters
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/ehrenbuerger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 3. Januar 1917
+  todestag: 10. Februar 2002
+  ehrenbürger: 17. Juni 1991
+  position: Botschafter USA in BRD
+  verdienst: Freisetzung ehemaliger US-Areale
+GUELTIG_AB: 1917
+GUELTIG_BIS: 2002
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Gerold Noerenberg
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/ehrenbuerger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 19. Mai 1957
+  ehrenbürger: 28. Oktober 2025
+  position: Oberbürgermeister Neu-Ulm (2004-2020)
+GUELTIG_AB: 1957
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Dr. Beate Merk
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/ehrenbuerger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 1. August 1957
+  ehrenbürgerin: 28. Oktober 2025
+  position_staatsministerin: a.D.
+  position_oberbürgermeisterin: 1995-2003
+GUELTIG_AB: 1957
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Hermann Köhl
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/ehrenbuerger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 15. April 1888
+  todestag: 7. Oktober 1938
+  ehrenbürger: 25. August 1928
+  titel: Dr. Ing. e.h.
+  qualifikation: Flugpionier
+  bedeutsame_leistung: erste Atlantiküberquerung von Ost nach West
+  flugtag: 13. April 1928
+  flugzeug: Junkers W 33 "Bremen"
+  begleiter: Günther Freiherr von Hünefeld, James C. Fitzmaurice
+  flugstrecke: Baldonnel (Irland) zu Greenly Island (Labrador)
+  flugdauer: 36,5 Stunden
+  geburtsadresse: Ludwigstraße 6
+  spaetere_adresse: Friedrichstraße 19 (heute Hermann-Köhl-Straße 19)
+  strasse_umbenennung: 1928 Friedrichstraße in Hermann-Köhl-Straße
+  ehrungen: Konfettiparade New York, höchster Fliegerorden USA
+  mehrere_städte_ehrenbürgerschaft: ja
+GUELTIG_AB: 1888
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Edwin Scharff
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/ehrenbuerger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 21. März 1887
+  todestag: 1955
+  geburtsadresse: Ludwigstraße 4
+  vater: Franz Scharff (Stadtsekretär)
+  beruf: deutscher Bildhauer
+  ausbildung_münchen: 15 Jahre alt
+  ausbildung_paris: 1,5 Jahre, Wechsel zu Bildhauerei
+  professor_berlin: 1923
+  auszeichnungen: 1926 Büste Reichspräsident Paul von Hindenburg, 1931 Mitglied Preußische Akademie
+  ns_verfolgung: Zwangsversetzung Düsseldorf, verfemt als "entartet", Arbeitsverbot
+  nachkrieg_hamburg: Professor, dort 1955 gestorben
+  hamburg_preis: bis heute Preis für zeitgenössische Kunst mit seinem Namen
+  werke_orte: Berlin, Hamburg, Neu-Ulm
+  werke_neu_ulm: 1932 Ehrenmal auf Schwal, 1929 Signet Drei Männer im Boot, Großplastik (Rathausplatz)
+  ausstellung_1978: Edwin-Scharff-Haus
+  museum_adresse_1999: Petrusplatz
+  künstlerbund: stellvertretender Vorsitzender
+GUELTIG_AB: 1887
+GUELTIG_BIS: 1955
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Richard Liebermann
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/ehrenbuerger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 21. Oktober 1900
+  todestag: 10. Dezember 1966
+  geburtsort: Neu-Ulm
+  behinderung: von Geburt an gehörlos
+  eltern: Heinrich Liebermann, Hedwig Wieler
+  geschwister: Paul, Gertrud, Hans
+  wohnadresse_neu_ulm: Friedrichstraße 19 (heute Hermann-Köhl-Straße 19)
+  schulbildung: "Königliche Taubstummenanstalt" München
+  kunstausbildung: Münchner Akademie, Kunstfach Malerei
+  religionswechsel: 1923 Konversion zum Katholizismus
+  geschwister_religionswechsel: auch
+  umzug_1935: Familie nach Konstanz
+  umzug_1936: Richard zu Herrlingen bei Ulm
+  lehrposition: bis 1939 jüdisches Landschulheim Herrlingen
+  ns_verfolgung: Diskriminierung trotz Konvertierung
+  kristallnacht_1938: 9. November in KZ Dachau "Schutzhaft", 16. Dezember entlassen
+  deportation_1940: 22. Oktober Familie in französisches KZ Gurs
+  familientragodie: Mutter und Bruder Hans KZ/Euthanasie, Vater 1942 in Gurs gestorben
+  befreiung_1943: Richard, Gertrud, Paul, nach St. Rambert
+  unterkunft_finale: Nonnen-geführtes Heim bis Kriegsende
+  kunstwerk_gesamt: 300 Ölbilder, 180 Aquarelle, 530 Zeichnungen, Collagen
+  kunststil: stimmungsvoll-realistisch, expressive leuchtende Farbigkeit
+  todestag_detail: St. Rambert
+  gedenkstätte: Gedenktafel am ehemaligen Wohnhaus
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1966
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Alfred Neuburger (Stolperstein)
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/stolpersteine/verlegungsorte-und-biografien/neuburger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 4. September 1883
+  geburtsort: Ulm
+  todestag: Oktober 1944 (in Auschwitz ermordet)
+  eltern: Isak Neuburger (geb. 28.10.1849), Rosa geb. Dreifuss (geb. 06.07.1859)
+  ausbildung_abitur: 19. Juli 1902 am Gymnasium Ulm
+  studium_1: 29. Oktober 1903 erste Immatrikulation Jura Universität Tübingen
+  studium_2: 2 Semester Universität Leipzig
+  studium_3: 1 Semester Universität Berlin
+  studium_4: 3. Mai 1906 zweite Immatrikulation Tübingen
+  exmatrikulation: 8. August 1907
+  pruefung_1: Herbst 1908 erste Höhere Justizdienstprüfung
+  pruefung_2: Frühjahr 1913 zweite Höhere Justizdienstprüfung
+  postdoktorales_studium: Wintersemester 1913/14 bis Sommersemester 1914 und Zwischensemester 1919 bis Sommersemester 1922
+  profession_1910: Referendar, Heimstraße 25 (Jacksche Villa)
+  weltkrieg_1: Soldat, mehrmals verwundet
+  kinder_unehelich: Erna Hildegard Elisabeth (geb. 28.07.1916 Frankfurt/Main), Kurt (geb. 23.09.1918 Untertürkheim)
+  kindesmutter: Maria Barbara Gehringer (aus Elpersheim bei Bad Mergentheim)
+  hochzeit: 7. April 1923 mit Maria Barbara in Ulm
+  wohnung_bis_1933: Heimstraße 25
+  kanzlei_ab_1925: eigene als Rechtsanwalt, Heimstraße 25
+  kanzlei_schliessung: Ende 1936 wegen Boykott
+  synagogen_funktion: Synagogenverwalter jüdische Gemeinde Ulm (bis 9. November 1938)
+  transportliste_1940: 5. Juli 1940 als Vormund Hermann Robert
+  umzug_neu_ulm: 2. Juni 1937, Schützenstraße 38, Untermiete Familie Neumann
+  kinder_folge: nein
+  sohn_schicksal: Kurt 1. April 1937 abgemeldet, Reichsarbeitsdienst Frankfurt/Oder, heiratete 12. Mai 1951 Erna Johanne Scherenhorst, 2 Kinder, Bergneustadt
+  tochter_schicksal: Erna Elisabeth abgemeldet, Forst am Main, heiratete 27. April 1946 Robert Planz (Kaufmann, Zigarrenhaus Frankfurt), dieser starb 29. September 1958
+  verhaftung_kristallnacht: nach 9. November 1938
+  haft_dachau: 11. November 1938 bis 28. Januar 1939
+  ausschluss_anwaltschaft: 30. November 1938
+  arbeit_nach_haft: Gartenarbeiter Gärtnerei Vietzen, Neu-Ulm
+  misshandlung: von Mitbürgern geschlagen, gehänselt, schikaniert
+  hilfe_stadt: Erlaubnis Mittagessen Gaststätte "Letzter Heller" (Memminger Straße)
+  judenhaeuser_umzug: Juni 1939
+  judenhaeuser_adressen: Hindenburgstraße 34 und Schützenstraße 41
+  ariserung_1: Schützenstraße 38 "arisiert", DAF einzug
+  umzug_bissinger: Hindenburgstraße 34 (heute Augsburger Straße 34)
+  deportation_bissinger: 4. April 1942
+  ariserung_2: Haus "arisiert"
+  umzug_wolff: Schützenstraße 41 zur Untermiete Anna Wolff
+  deportationsliste_theresienstadt: 23. Juni 1943 (nicht abgeholt)
+  deportationsbefehl: 11. Januar 1944
+  verhaftung_arbeit: direkt auf Arbeit Gärtnerei Vietzen
+  transport_muenchen: nächster Tag nach München gebracht
+  abschiedsbrief: an Sohn Kurt, Hoffnung auf Wiedersehen
+  transport_theresienstadt: 13. Januar 1944 Transport "II/30"
+  arbeit_theresienstadt: als Gärtner
+  letzte_nachricht: Postkarte 13. Oktober 1944 aus Theresienstadt
+  final_deportation: 28. Oktober 1944 Transport nach Auschwitz-Birkenau
+  todesbeschreibung: unmittelbar nach Ankunft ermordet
+  wohnort_neu_ulm: Schützenstraße 38
+GUELTIG_AB: 1883
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: einrichtung
+BEZEICHNUNG: Fairtrade-Stadt Neu-Ulm
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/fairtrade | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zertifizierung_datum: 8. Dezember 2017
+  steuerungsgruppe_gruendung: 2016 (Herbst)
+  fairtrade_partner_anzahl: 28
+  fairtrade_kriterien: mindestens 2 fair gehandelte Produkte im Sortiment
+  stadtkaffee_name: Neu-Ulmer Stadtkaffee
+  stadtkaffee_partner: Kaffeerösterei Röstschmiede
+  stadtkaffee_herkunft: Asociación Café del Futuro, Region Jaén, Peru
+  stadtkaffee_kooperative_gegruendung: 2007
+  stadtkaffee_kaffeebauern: 348
+  stadtkaffee_zertifizierung: Fairtrade und Bio
+  stadtkaffee_preis_250g: 11,30 Euro
+  fairtrade_stand: Petrusplatz (4. Samstag monatlich April-Oktober, 9-12 Uhr)
+  fairtrade_doppelstadt_partner: Ulm (seit 2014 Fairtrade-Town)
+  steuerungsgruppe_partnerschaft: regelmäßige Sitzungen (24. September 2026, 3. Dezember 2026)
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: bevoelkerung
+BEZEICHNUNG: Neu-Ulm
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/neu-ulm-in-zahlen/einwohner-flaeche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gesamteinwohner: 66392
+  einwohner_stand: 31. Dezember 2025
+  einwohner_kategorisierung: Haupt- und Nebenwohnsitze
+  eheschliessungen_2025: 126
+  geburten_2025: 1261
+  sterbefaelle_2025: 561
+  prognose_2029: ca. 67000
+  prognose_2039: über 70000
+  prognose_referenzdatum: 2023, damals 62966 Einwohner
+  prognose_annahme: ohne Zuwanderung würde schrumpfen
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Stadtmitte
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/neu-ulm-in-zahlen/einwohner-flaeche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 22007
+  einwohner_stand: 31. Dezember 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Ludwigsfeld
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/neu-ulm-in-zahlen/einwohner-flaeche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 11908
+  einwohner_stand: 31. Dezember 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Pfuhl
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/neu-ulm-in-zahlen/einwohner-flaeche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 10610
+  einwohner_stand: 31. Dezember 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Offenhausen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/neu-ulm-in-zahlen/einwohner-flaeche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 7111
+  einwohner_stand: 31. Dezember 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Burlafingen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/neu-ulm-in-zahlen/einwohner-flaeche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 5443
+  einwohner_stand: 31. Dezember 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Gerlenhofen
+QUELLE: https://neu-ulm.de/stadt-politik/stadtinfo/neu-ulm-in-zahlen/einwohner-flaeche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 2653
+  einwohner_stand: 31. Dezember 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Reutti
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/neu-ulm-in-zahlen/einwohner-flaeche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1810
+  einwohner_stand: 31. Dezember 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Finningen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/neu-ulm-in-zahlen/einwohner-flaeche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1254
+  einwohner_stand: 31. Dezember 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Holzschwang
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/neu-ulm-in-zahlen/einwohner-flaeche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 901
+  einwohner_stand: 31. Dezember 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Steinheim
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/neu-ulm-in-zahlen/einwohner-flaeche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 780
+  einwohner_stand: 31. Dezember 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Schwaighofen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/neu-ulm-in-zahlen/einwohner-flaeche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 588
+  einwohner_stand: 31. Dezember 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Weststadt
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/neu-ulm-in-zahlen/einwohner-flaeche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 565
+  einwohner_stand: 31. Dezember 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Hausen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/neu-ulm-in-zahlen/einwohner-flaeche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 382
+  einwohner_stand: 31. Dezember 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Jedelhausen
+QUELLE: https://nu.neu-ulm.de/stadt-politik/stadtinfo/neu-ulm-in-zahlen/einwohner-flaeche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 380
+  einwohner_stand: 31. Dezember 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

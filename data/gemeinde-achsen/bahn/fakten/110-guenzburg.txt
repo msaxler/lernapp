@@ -1,0 +1,819 @@
+ID: 110-guenzburg/001
+ENTITÄT: ort
+BEZEICHNUNG: Günzburg
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtportraet/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_kreisstadt: true
+  bundesland: Bayern
+  regierungsbezirk: Schwaben
+  einwohner: 21291 [Stand 31.12.2025]
+  verkehrsanbindung_autobahn: A8
+  oberzentrum: Donau-Iller-Region (zusammen mit Leipheim)
+  stadtflaeche: 5541 [ha]
+  waldflaeche: 822 [ha]
+  landwirtschaftsflaeche: 2998 [ha]
+  wasserflaeche: 377 [ha]
+  erholungsflaeche: 174 [ha]
+  hoehenlage_min: 440 [m ü. NN]
+  hoehenlage_max: 517 [m ü. NN]
+  gemarkungen: 8
+  fluerstuecke: 16103
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 110-guenzburg/002
+ENTITÄT: freizeitpark
+BEZEICHNUNG: LEGOLAND
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtportraet/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 2002
+  besucher_jaehrlich: 1900000 [genauigkeit: ca.]
+  herkunftslaender_besucher: über 120
+  rang: einer der meistbesuchten Freizeitparks in Deutschland
+  auswirkung: Günzburg zu bedeutendem Tourismus-Standort in Bayern gemacht
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 110-guenzburg/003
+ENTITÄT: naturraum
+BEZEICHNUNG: Donauried
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtportraet/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: Naturraum von europäischem Rang
+  nutzung: Baden, Entspannung
+  besonderheit: zahlreiche Seen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 110-guenzburg/004
+ENTITÄT: bad
+BEZEICHNUNG: Waldbad
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtportraet/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Auwald an der Donau
+  alternative_bezeichnung: Freibad Günzburgs
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 110-guenzburg/005
+ENTITÄT: bahnhof
+BEZEICHNUNG: Günzburger Bahnhof
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtportraet/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  halt_typen: IC- und EC-Halt
+  haupt_strecke: (Paris) - Karlsruhe - Stuttgart - München – Salzburg – (Wien)
+  neben_strecken: Donautalbahn (über Donauwörth und Ingolstadt nach Regensburg), Mittelschwabenbahn (über Krumbach nach Mindelheim)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 110-guenzburg/006
+ENTITÄT: institution
+BEZEICHNUNG: Stadtverwaltung Günzburg
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtportraet/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gebäude_historical: ehemaliges österreichisches Münzgebäude
+  sitz: Schloßplatz 1, 89312 Günzburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 110-guenzburg/007
+ENTITÄT: zertifizierung
+BEZEICHNUNG: FairtradeStadt
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtportraet/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihung: Günzburg
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 110-guenzburg/008
+ENTITÄT: initiative
+BEZEICHNUNG: #GZplastikfrei
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtportraet/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ziel: Verpackungsmüll vermeiden
+  fokus: Verpackungsreduzierung
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 110-guenzburg/009
+ENTITÄT: agenda
+BEZEICHNUNG: Agenda 21
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtportraet/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fokus: nachhaltige Projekte
+  beteiligung: lokale Agenda
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 110-guenzburg/010
+ENTITÄT: stadtteil
+BEZEICHNUNG: Deffingen
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 630 [genauigkeit: ca.]
+  lage: Günztalterasse an Autobahnausfahrt Günzburg und Bundesstraße B 16
+  urkundliche_ersterwähnung: 12.-13. Jahrhundert [als Besitztum der Herren "de Tafingen"]
+  burg: Schlossberg (Burg stand auf nördlichem Ortsrand)
+  burg_abtra: 1839
+  erwerb_guenzburg: 1571 [durch Kauf]
+  gemeinde_status_ab: 1818
+  gemeinde_status_bis: 1978
+  eingemeindung_guenzburg: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 110-guenzburg/011
+ENTITÄT: kirche
+BEZEICHNUNG: Ulrichskirche
+ORTSTEIL_BEZUG: Deffingen
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Ortszentrum Deffingen
+  stil_detail: späte Gotik (im Chor erkennbar)
+  charakterisierung: markantes Baudenkmal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 110-guenzburg/012
+ENTITÄT: stadtteil
+BEZEICHNUNG: Denzingen
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1500
+  lage: südlich von Günzburg in unmittelbarer Nachbarschaft
+  siedlungsspuren: neolithisch und römisch
+  alteste_siedlung_region: ja
+  urkundliche_ersterwähnung: 12. Jahrhundert [Mühle zu "Tainzingen" an Kloster St. Ulrich und Afra zu Augsburg geschenkt]
+  bombenangriff_datum: 12. September 1944
+  bombenangriff_kraft: amerikanisch
+  bombenangriff_opfer: 9 Tote, zahlreiche Verwundete
+  eingemeindung_guenzburg: 1978
+  bauliche_verbindung_vorangemeindung: ja
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 110-guenzburg/013
+ENTITÄT: kirche
+BEZEICHNUNG: St. Anna
+ORTSTEIL_BEZUG: Denzingen
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Filialkirche
+  bau_zeitraum: vermutlich spätes Mittelalter [genauigkeit: vermutlich]
+  charakterisierung: Baudenkmal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 110-guenzburg/014
+ENTITÄT: stadtteil
+BEZEICHNUNG: Leinheim
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 630 [genauigkeit: ca.]
+  lage: Südhang Ost-West-Einschnitt (Autobahn)
+  entstehung: mehrere Teilsiedlungen
+  mittelalter_herrschaft: wahrscheinlich Herren von Roth [genauigkeit: wahrscheinlich]
+  urkunden_herren_roth: 14. Jahrhundert
+  erwerb_guenzburg: 1454
+  eingemeindung_guenzburg: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 110-guenzburg/015
+ENTITÄT: kirche
+BEZEICHNUNG: St. Blasius
+ORTSTEIL_BEZUG: Leinheim
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1715
+  renovation: 1955
+  charakterisierung: Baudenkmal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 110-guenzburg/016
+ENTITÄT: schulhaus
+BEZEICHNUNG: Schulhaus Leinheim
+ORTSTEIL_BEZUG: Leinheim
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1820
+  erweiterung: 1950
+  charakterisierung: Baudenkmal
+  vorgaenger: Unterricht auf Hof mit Hausnamen "beim Schulmeister" [genauigkeit: vermutlich]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 110-guenzburg/017
+ENTITÄT: stadtteil
+BEZEICHNUNG: Nornheim
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 666
+  lage: fruchtbare Höhe zwischen Günz und Kammel
+  urkundliche_ersterwähnung: 1209 [päpstlicher Schutzbrief, Kloster Ursberg]
+  eingemeindung_guenzburg: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 110-guenzburg/018
+ENTITÄT: kirche
+BEZEICHNUNG: St. Erhard
+ORTSTEIL_BEZUG: Nornheim
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Filialkirche
+  bau: 1631 [anstelle mittelalterlicher Vorgängerbau aus 12.-13. Jahrhundert]
+  ausstattung_altar: Stuckaltar mit Gemälde des Günzburger Malers Franz Joseph Bernhard de la Pesterie (1738)
+  ausstattung_figur: spätgotische Muttergottesfigur (spätes 15. Jahrhundert)
+  charakterisierung: bedeutendstes historisches Gebäude Nornheims
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 110-guenzburg/019
+ENTITÄT: kindergarten
+BEZEICHNUNG: Montessori-Kinderhaus
+ORTSTEIL_BEZUG: Nornheim
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  paedagogik: Montessori
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 110-guenzburg/020
+ENTITÄT: stadtteil
+BEZEICHNUNG: Reisensburg
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 2100 [genauigkeit: ca.]
+  lage: Talkessel am nordöstlichen Rand von Günzburg
+  eingemeindung_guenzburg: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 110-guenzburg/021
+ENTITÄT: burg
+BEZEICHNUNG: Reisensburg
+ORTSTEIL_BEZUG: Reisensburg
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wahrzeichen: ja [des Ortes und des ganzen Landkreises]
+  ersterwähnung: 6. Jahrhundert [als Feste Rizinis]
+  bedeutung_antike: alemannische Befestigung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 110-guenzburg/022
+ENTITÄT: kirche
+BEZEICHNUNG: St. Sixtus
+ORTSTEIL_BEZUG: Reisensburg
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Pfarrkirche
+  bau: 18. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 110-guenzburg/023
+ENTITÄT: heiligtum
+BEZEICHNUNG: Kreuzberg
+ORTSTEIL_BEZUG: Reisensburg
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historischer_name: Kalvarienberg
+  kreuzweg_errichtung: 1747
+  kreuzweg_einweihung: 1747
+  kapelle_bau_abschluss: 1828
+GUELTIG_AB: 1747
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 110-guenzburg/024
+ENTITÄT: park
+BEZEICHNUNG: Bürgerpark Reisensburg
+ORTSTEIL_BEZUG: Reisensburg
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlegung: 1814 [auf Anregung Oberförster Gottlieb von Greyerz]
+  uebernahme_stadt_guenzburg: 1889
+  sanierung_neueroffnung: 2015 [zum 200-jährigen Bestehen der Stadt]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 110-guenzburg/025
+ENTITÄT: stadtteil
+BEZEICHNUNG: Riedhausen
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 430 [genauigkeit: ca.]
+  lage: 8,5 km nördlich von Günzburg, nahe württembergischer Grenze
+  landschaft: Donaumoos mit zahlreichen Baggerseen
+  eingemeindung_guenzburg: 1978
+  burgstall: ja [Spuren mittelalterlicher Burgstall]
+  urkundliche_ersterwähnung_person: 1219 [Ritter "Fredericus de Riethusen"]
+  ortsherrschaft_15jh: Söhne des Ulmer Patriziers Hans Strölin d. Ä.
+  pachtverhältnis: 1675-1921 [wegen drückender Schuldenlast infolge 30-jähriger Krieg]
+  zuzug_siebenbuerger_sachsen: nach Zweitem Weltkrieg [Einwohnerzahl verdoppelt sich]
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 110-guenzburg/026
+ENTITÄT: schutzgebiet
+BEZEICHNUNG: Vogelschutzgebiet Mooswaldseen
+ORTSTEIL_BEZUG: Riedhausen
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Vogelschutzgebiet
+  lage: Mooswaldseen in der Nähe von Riedhausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 110-guenzburg/027
+ENTITÄT: stadtteil
+BEZEICHNUNG: Wasserburg
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 940 [genauigkeit: ca.]
+  lage: zwischen Günz und westlichem Talrand
+  eingemeindung_guenzburg: 1748
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 110-guenzburg/028
+ENTITÄT: burg
+BEZEICHNUNG: Wasserburg (Wasser-Burg)
+ORTSTEIL_BEZUG: Wasserburg
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: zwischen zwei Armen der Günz
+  zerstoerung: 1465 [auf Befehl Kaiser Friedrichs III.]
+  zerstoerung_art: angezündet und dem Erdboden gleichgemacht
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 110-guenzburg/029
+ENTITÄT: muehle
+BEZEICHNUNG: Mühle Wasserburg
+ORTSTEIL_BEZUG: Wasserburg
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umnutzung: zu freiadeligen Ansitz umgebaut [durch Johann Josef Freiherr von Imhof zu Untermeitingen, 1719]
+  beschreibung: bestehende Mühle wurde ausgebaut
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 110-guenzburg/030
+ENTITÄT: person
+BEZEICHNUNG: Michael Jahn
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/grusswort-ob/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Oberbürgermeister
+  amtsantritt: 1. Mai 2026
+  amtsantritt_typ: Neuwahl
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 110-guenzburg/031
+ENTITÄT: person
+BEZEICHNUNG: Alexander Heilmeyer
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1872-1940
+  profession: Schriftsteller
+  bezug_guenzburg: Vaterstadt
+  zitat: "Günzburgs Schicksal und seine Geschichte liegen am Wege"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 110-guenzburg/032
+ENTITÄT: roemische_siedlung
+BEZEICHNUNG: Gontia
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gesichert_ab: 77-78 [n. Chr.]
+  typ: Kastell, blühende Siedlung
+  bestand_bis: erste Hälfte 5. Jahrhundert
+  bedeutung: Donauübergang und Straßenkreuzungspunkt
+  wohlstand: belegt durch Bodenfunde
+  funde_charakterisierung: mehr als 1.900 Grabinventare, größtes freigelegtes Gräberfeld nördlich der Alpen
+  namensherkunft: keltische Flussgottheit
+  verehrung: auch von Römern verehrt
+GUELTIG_AB: 77
+GUELTIG_BIS: 450
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 110-guenzburg/033
+ENTITÄT: person
+BEZEICHNUNG: König Heinrich IV.
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1056-1106
+  historisches_ereignis: Unterzeichnung Urkunde "ze Gunceburch"
+GUELTIG_AB: 1065
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 110-guenzburg/034
+ENTITÄT: territorium
+BEZEICHNUNG: Markgrafschaft Burgau
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufnahme_guenzburg: nach 1280
+  ende_mark_grund: Aussterben der Markgrafenfamilie
+  ende_mark_date: 1301 [Tod Heinrich III. von Berg]
+  nachfolger: Habsburger
+  charakterisierung: Teil der österreichischen Vorlande
+  dauer_habsburger: über 500 Jahre
+GUELTIG_AB: 1280
+GUELTIG_BIS: 1805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 110-guenzburg/035
+ENTITÄT: schlossbau
+BEZEICHNUNG: Schloss Günzburg
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1577-1580
+  stil: Renaissance
+  auftraggeber: Erzherzog Ferdinand II.
+  zusatzbau: Hofkirche im Renaissancestil
+  lage: Oberstadt
+  residenz: Karl (Markgraf von Burgau), 1609-1618
+  bau_veranlassung: Habsburger erkannten verkehrstechnisch günstige Lage
+GUELTIG_AB: 1577
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 110-guenzburg/036
+ENTITÄT: kirche
+BEZEICHNUNG: Frauenkirche
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgaenger: gotische Kirche
+  brand_datum: 8. Mai 1735
+  brand_bereich: gesamte Nordhälfte der Oberstadt
+  neubau_bauzeit: 1736-1741
+  neubau_stil: Rokoko
+  baumeister: Dominikus Zimmermann (Wessobrunner)
+  baumeister_bekannt_durch: Wieskirche
+  kunsthistorische_bewertung: "zu den vornehmsten Leistungen des 18. Jahrhunderts" (Georg Dehio)
+GUELTIG_AB: 1736
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 110-guenzburg/037
+ENTITÄT: herrscherin
+BEZEICHNUNG: Maria Theresia
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrschaft: 1740-1780
+  auswirkung_guenzburg: Blütezeit für die Stadt
+  herrschafts_reform: Regierungsantritt, danach Beginn der Blüte
+GUELTIG_AB: 1740
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 110-guenzburg/038
+ENTITÄT: verkehrsader
+BEZEICHNUNG: Poststraße
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  route: Wien - Paris
+  passage_guenzburg: über Marktplatz
+GUELTIG_AB: 1760
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 110-guenzburg/039
+ENTITÄT: person
+BEZEICHNUNG: Pfarrer Feuchtmayer
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  predigt_datum: Neujahrstag 1806
+  predigt_text: "Jetzt sind wir also bayerisch geworden - wahrscheinlich haben wir es wegen unserer Sünden auch nicht besser verdient!"
+  kontext: bayerische Eingliederung nach Napoleon
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 110-guenzburg/040
+ENTITÄT: person
+BEZEICHNUNG: Napoleon Bonaparte
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besuch_guenzburg: Oktober 1805
+  beschreibung: "ungeliebter Gast"
+  aktion: Eingliederung Günzburgs in Königreich Bayern
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 110-guenzburg/041
+ENTITÄT: bahnlinie
+BEZEICHNUNG: Bahnstrecke München-Stuttgart
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1853
+  auswirkung: Beginn der industriellen Produktion in Günzburg und Umgebung
+  entwicklung_danach: bis heute andauernde Aufwärtsentwicklung
+GUELTIG_AB: 1853
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 110-guenzburg/042
+ENTITÄT: krieg
+BEZEICHNUNG: Dreißigjähriger Krieg
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: 1618-1648
+  auswirkung_guenzburg: Not und Elend über die Bevölkerung
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 110-guenzburg/043
+ENTITÄT: krieg
+BEZEICHNUNG: Spanischer Erbfolgekrieg
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: 1701-1714
+  ereignis: Schloss und umliegende Häuser brennen ab 1703
+GUELTIG_AB: 1701
+GUELTIG_BIS: 1714
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 110-guenzburg/044
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Landeshauptstadt Vorderösterreich
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 18. Mai 1803
+  region: Vorderösterreich
+  dauer: kurzzeitig
+GUELTIG_AB: 1803
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 110-guenzburg/045
+ENTITÄT: person
+BEZEICHNUNG: Franz Xaver Schwarz
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: Günzburg
+  position: Reichsschatzmeister der NSDAP
+  aufgabe: verantwortlich für Finanzen der Partei Adolf Hitlers
+  zeit: Nationalsozialismus
+  bekanntheit_heute: kaum öffentlich bekannt
+  charakterisierung: wirft Schatten auf Vaterstadt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 110-guenzburg/046
+ENTITÄT: person
+BEZEICHNUNG: Josef Mengele
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: Günzburg
+  position: KZ-Arzt
+  verbrechen: grauenvolle Menschenversuche in Auschwitz
+  flucht: Südamerika [jahrzehntelang]
+  entkommen_verfolgung: ja
+  auswirkung_auf_stadt: Günzburg "am Pranger der Weltpresse"
+  mahnmal_errichtung: 8. März 2005
+  mahnmal_widmung: Gedenken an die Opfer Mengeles
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 110-guenzburg/047
+ENTITÄT: person
+BEZEICHNUNG: Otto Geiselhart
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt: Günzburg
+  position: Reichstagsabgeordneter
+  widerstand_ns: entgegengestellt
+  schicksal: 1933 von Nazis in den Tod getrieben
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 110-guenzburg/048
+ENTITÄT: person
+BEZEICHNUNG: Dr. Adam Birner
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Stadtpfarrer
+  widerstand_ns: mutig gegen das Regime gepredigt
+  verhaftung: 1941
+  ort_tod: Augsburger Gestapo-Gefängnis
+  tod_umstaende: ungeklärt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 110-guenzburg/049
+ENTITÄT: staedtepartnerschaft
+DESIGNNUNG: Partnerschaft Lannion
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/staedtepartnerschaften/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstadt: Lannion
+  land: Frankreich
+  region: Bretagne
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 110-guenzburg/050
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Partnerschaft Sternberk
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/staedtepartnerschaften/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstadt: Sternberk
+  land: Tschechien
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 110-guenzburg/051
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Partnerschaft Neustadt
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/staedtepartnerschaften/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstadt: Neustadt
+  land: Deutschland
+  region: Sachsen
+  charakterisierung: innerdeutsche Städtefreundschaft
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 110-guenzburg/052
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum Günzburg
+QUELLE: https://www.guenzburg.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse: 600 [qm]
+  gruendung: 1904
+  leitung: Sarah Maria Lorenz
+  sammlung_schwerpunkte: vorgeschichtliche und römische Archäologie, sakrale Kunst (Gotik bis 19. Jahrhundert), religiöse Handwerkskunst (18./19. Jahrhundert), Objekte der Herrschaftsgeschichte und Alltagskultur
+  foerderung: Historischer Verein Günzburg [seit 1904]
+  oeffnungszeiten: Montag bis Freitag 8:00-12:00 Uhr
+  adresse: Rathausgasse 2, 89312 Günzburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 110-guenzburg/053
+ENTITÄT: projekt
+BEZEICHNUNG: Geschichtsorte Günzburg
+QUELLE: https://www.guenzburg.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerschaft: Maria-Ward-Gymnasium und Heimatmuseum Günzburg
+  typ: Web-App
+  startdatum: Frühjahr 2026
+  zugang: QR-Code
+  schwerpunkte: ca. 40 Stationen zur NS-Zeit (1933-1945)
+  beteiligung: Schüler, Jugendliche
+  recherche_ort: Stadtarchiv
+  partizipation: offene Lücken für Bürgerbeteiligung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 110-guenzburg/054
+ENTITÄT: person_ns_geschichte
+BEZEICHNUNG: Erna Dobler
+QUELLE: https://www.guenzburg.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schicksal: denunziert wegen kritischer Einschätzung zum Kriegsverlauf
+  kritik: Zweifel an zu niedrigen Gefallenenzahlen Hitlers
+  folge_gestapo: Verhör durch Gestapo
+  folge_schule: rigoros geschnitten durch Mitschülerinnen
+  app_station: zentrale Station der App
+  tochter: Petra Dobler-Zanghi
+  tochter_wohnort: Italien
+  tochter_auftritt_app: Frühjahr 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 110-guenzburg/055
+ENTITÄT: widerstandsgruppe
+BEZEICHNUNG: Untergruppe Katholischer Frauenbund
+QUELLE: https://www.guenzburg.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Günzburg
+  zeit: NS-Zeit
+  art: kollektiver Widerstand
+GUELTIG_AB: 1933
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 110-guenzburg/056
+ENTITÄT: veranstaltungsreihe
+BEZEICHNUNG: Museumsdonnerstag
+QUELLE: https://www.guenzburg.de/museum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  haeufigkeit: einmal im Monat an Donnerstagen
+  format: exklusive Führungen
+  angebot_zusatz: Glas Wein oder Wasser, Gespräche
+  eintritt: 8 [€]
+  inbegriff_getraenk: ja
+  beginn_uhrzeit: 19 Uhr
+  anmeldung_empfohlen: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 110-guenzburg/057
+ENTITÄT: ereignis_veranstaltung
+BEZEICHNUNG: Bayerische Landesgartenschau
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/grusswort-ob/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 2029
+  ort: Günzburg
+  zweck: Impulsgeber für langfristige städtebauliche Aufwertung
+  beteiligung: enge Abstimmung mit Bürgerschaft
+GUELTIG_AB: 2029
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 110-guenzburg/058
+ENTITÄT: zertifizierung
+BEZEICHNUNG: European Energy Award in Gold
+QUELLE: https://www.guenzburg.de/geschichte-zukunft/grusswort-ob/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fokus: Energieeffizienz
+  rang: Gold
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 110-guenzburg/059
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Kultursommer
+QUELLE: https://www.guenzburg.de/kultur-feste/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahreszeit: Sommer
+  haeufigkeit: jährlich
+  dauer: 2 Monate
+  angebot: buntes Programm für alle Geschmäcker
+  publikum: Urlaubsgäste und Einheimische
+  besonderheit: überregional bekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 110-guenzburg/060
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Guntiafest
+QUELLE: https://www.guenzburg.de/kultur-feste/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahreszeit: Sommer
+  charakterisierung: Volksfest
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 110-guenzburg/061
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Altstadtweihnacht
+QUELLE: https://www.guenzburg.de/kultur-feste/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahreszeit: Winter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 110-guenzburg/062
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Schwabentag 2024
+QUELLE: https://www.guenzburg.de/schwabentag/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fokus: Fahrrad
+  aktivitaeten: Radeln, Rätsel, Basteln
+  besuchersegment: große und kleine Gäste
+  thema: "was die Region zu bieten hat"
+  foerderung: Bezirk Schwaben, AOK Günzburg
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 110-guenzburg/063
+ENTITÄT: institution
+BEZEICHNUNG: Kulturamt Günzburg
+QUELLE: https://www.guenzburg.de/kultur-feste/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufgaben: Verwaltung Veranstaltungen, Kulturprojekte, Vereinsförderung, Städtepartnerschaften
+  sitz: Forum am Hofgarten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 110-guenzburg/064
+ENTITÄT: institution
+BEZEICHNUNG: Forum am Hofgarten
+QUELLE: https://www.guenzburg.de/kultur-feste/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alternative_bezeichnung: Günzburger Stadthalle, Tagungs- und Veranstaltungszentrum
+  angebot: Theateraufführungen, Tanzveranstaltungen, Konzerte, Vorträge, Tagungen, Familienfeiern
+  kino: 4 Säle
+  kinotraditionen: bald 100 Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92

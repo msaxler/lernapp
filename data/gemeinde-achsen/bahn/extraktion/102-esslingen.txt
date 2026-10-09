@@ -1,0 +1,236 @@
+ENTITÄT: ort
+BEZEICHNUNG: Esslingen am Neckar
+QUELLE: https://www.esslingen.de/stadt-und-politik/stadtportraet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geschichte_dauer: über 1200 Jahre
+  charakteristika: Mittelalterliche Fachwerkhäuser, besondere Bauwerke, moderne Architektur
+  status_historisch: freie Reichsstadt
+  wappentier: Adler
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Altes Rathaus
+QUELLE: https://www.esslingen.de/stadt-und-politik/stadtportraet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1422
+  urspruengliche_funktion: Kauf- und Steuerhaus
+  fassade_sued: allemannische Fachwerkfassade
+  fassade_nord: zweistöckiges Uhrentürmchen, Renaissance-modernisiert
+  besonderheit_design: Kontrast zwischen zwei unterschiedlichen Fassaden
+  uhr_astronomisch_baujahr: 1591
+  uhr_superlativ: zu den ältesten Deutschlands
+  uhr_mechanik: Adlerflügelschlag zeigt die Stunde an
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Esslinger Burg
+QUELLE: https://www.esslingen.de/stadt-und-politik/stadtportraet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestand_seit_jahren: ca. 700
+  rolle: markantestes Wahrzeichen der Stadt
+  zugaenglichkeit: offen für Besucher
+GUELTIG_AB: 1326
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: befestigungsanlage
+BEZEICHNUNG: Schelztorturm
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.esslingen.de/stadt-und-politik/stadtportraet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Turm
+  teil_von: Stadtmauer
+  erhaltungszustand: erhalten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: befestigungsanlage
+BEZEICHNUNG: Pliensauturm
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.esslingen.de/stadt-und-politik/stadtportraet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Turm
+  teil_von: Stadtmauer
+  erhaltungszustand: erhalten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: befestigungsanlage
+BEZEICHNUNG: Wolfstor
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.esslingen.de/stadt-und-politik/stadtportraet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Tor
+  teil_von: Stadtmauer
+  erhaltungszustand: erhalten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: befestigungsanlage
+BEZEICHNUNG: Dicker Turm
+QUELLE: https://www.esslingen.de/stadt-und-politik/stadtportraet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Turm
+  teil_von: Burg
+  zugaenglichkeit: in Führungen besichtigbar, neulich geöffnet
+  stufen_anzahl: über 300
+  sehenswuerdigkeit: Blick über die Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: wirtschaftszweig
+BEZEICHNUNG: Weinbau
+QUELLE: https://www.esslingen.de/stadt-und-politik/stadtportraet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  terrain: Steillagen mit alten Trockenmauern
+  herausforderung_bewirtschaftung: besondere Herausforderung
+  historischer_ruf: bereits im Mittelalter berühmt
+  historisches_massstab: Esslinger Eimer
+  esslinger_eimer_fassungsvermoegen: ca. 300 Liter
+  esslinger_eimer_funktion: anerkanntes Maß im Weinhandel des süddeutschen Raums
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Fachwerkhäuser Esslingens (Sammlung)
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.esslingen.de/stadt-und-politik/stadtportraet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: über 200
+  erhaltungszustand: gut erhalten
+  kriegszerstoerung: Fassaden vom Krieg verschont
+  teil_von: Deutsche Fachwerkstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Fachwerkhaus Heugasse 3
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.esslingen.de/stadt-und-politik/stadtportraet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1261
+  superlativ: ältestes Deutschlands
+  beschreibung: Glanzstück der ältesten Fachwerkzeile der Bundesrepublik
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: pfleghof
+BESCHREIBUNG: Pfleghöfe Esslingens
+QUELLE: https://www.esslingen.de/stadt-und-politik/stadtportraet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historischer_kontext: im Mittelalter von auswärtigen Klöstern errichtet
+  funktion_hauptsaechlich: Verwaltungssitze und Lagehäuser
+  weitere_funktion: Geschäftsabwicklung, Weinausbau und -lagerung
+  anzahl_erhalten: neun
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Speyrer Pfleghof
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.esslingen.de/stadt-und-politik/stadtportraet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: in der Nähe des Marktplatzes
+  art: Pfleghof
+  beherbergt: Kessler Sektkellerei
+  kessler_sektkellerei_superlativ: älteste Sektkellerei Deutschlands
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Stadtkirche St. Dionys
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://www.esslingen.de/stadt-und-politik/stadtportraet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: gotisch
+  merkmal_architektur: Doppeltürme
+  historische_bedeutung: Ursprungsort Esslingens
+  zubehoer_museum: Ausgrabungsmuseum unter der Kirche
+  museum_inhalt: Fundamente ältester Vorgängerbauten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: marktplatz
+QUELLE: https://www.esslingen.de/stadt-und-politik/stadtportraet | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Altstadt
+EIGENSCHAFTEN:
+  lage: zentral mit Kirchentürmen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Kanäle Esslingens
+QUELLE: https://www.esslingen.de/stadt-und-politik/stadtportraet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: prägen das Stadtbild
+  charakteristika: laden zum Verweilen und Entspannen ein
+  nutzung: Kanufahrten möglich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Esslingen am Neckar
+QUELLE: https://www.esslingen.de/wohnen-und-bauen/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schutzstatus_gesamtanlage: geschützte Gesamtanlage (§ 19 DSchG BW)
+  gesamtanlage_historische_bedeutung: Gebiet der mittelalterlichen Reichsstadt als Dokument der vorindustriellen Stadtentwicklung
+  gesamtanlage_erweiterung: Überlagerung mit frühen planmäßigen Stadterweiterungen 19. Jahrhundert sowie westliche/östliche Erweiterungsgebiete als Zeugnisse württembergischer Industrieentwicklung
+  schutzgegenstande_aussenansicht: äußeres Bild von umgebenden Hängen (Neckarhalde, Burgberg/Schönenberg, Ebershalde, Eisberg, Champagne)
+  schutzgegenstande_innenansicht: inneres Bild durch historische Bebauung an Straßen/Plätzen sowie Grün-, Frei- und Wasserflächen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: freifläche
+BEZEICHNUNG: Maille
+QUELLE: https://www.esslingen.de/wohnen-und-bauen/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schutzstatus: unter Denkmalschutz
+  art: Garten/Grünfläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gewaesser
+BEZEICHNUNG: Neckarkanäle
+QUELLE: https://www.esslingen.de/wohnen-und-bauen/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schutzstatus: unter Denkmalschutz
+  typ: Wasserfläche/Kanal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

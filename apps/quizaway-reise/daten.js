@@ -25979,6 +25979,2077 @@ window.QA_DATEN = {
 "ags": "07313000",
 "ortsteil": false,
 "km_vom_vorigen": 26.0
+},
+{
+"slug": "101-stuttgart",
+"name": "Stuttgart",
+"lat": 48.7775,
+"lon": 9.18,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stuttgart",
+"steckbrief": "Stuttgart ist Landeshauptstadt von Baden-Württemberg, hat rund 609.000 Einwohner und liegt am Neckar.",
+"frage": "Der Name Stuttgart ist sehr alt. Worauf geht er ursprünglich zurück?",
+"optionen": [
+"Der Name beschreibt einen steilen Garten am Hang.",
+"An dieser Stelle wurden einst Pferde gezüchtet.",
+"Der Name geht auf einen fränkischen Gründer zurück.",
+"Der Name meint einen umzäunten Weinberg."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Stuttgart denkt man an Hänge und Weinberge, darum liegt eine Deutung aus der Landschaft nahe. Der Name kommt aber vom Stutengarten: Um 950 entstand hier das herzogliche Pferdegestüt „Stuotgarten“, aus dem die Stadt wuchs. Richtig war 2.",
+"quelle": "Landeshauptstadt Stuttgart, stuttgart.de/kultur/stadtgeschichte/stadtgeschichte-im-ueberblick",
+"faktencheck": "korrigiert",
+"id": "101-stuttgart/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stuttgart",
+"steckbrief": "Stuttgart ist die Landeshauptstadt von Baden-Württemberg und liegt am Neckar.",
+"frage": "Wie viele Einwohner hat die Stadt Stuttgart?",
+"optionen": [
+"unter 400.000",
+"400.000 bis unter 550.000",
+"550.000 bis unter 650.000",
+"650.000 oder mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Als Landeshauptstadt wirkt Stuttgart oft größer, als es ist; viele schätzen deshalb zu hoch. Ende 2025 zählte die Stadt 609.365 Einwohner. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "101-stuttgart/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Stuttgart",
+"steckbrief": "Stuttgart ist Landeshauptstadt von Baden-Württemberg, hat rund 609.000 Einwohner und liegt am Neckar.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Schlossgarten folgt dem Verlauf des kanalisierten Nesenbachs.",
+"Das Bahnhofsgebäude von Paul Bonatz entstand erst nach dem Zweiten Weltkrieg.",
+"Der Killesbergpark entstand auf einem ehemaligen Steinbruch."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Nach den schweren Luftangriffen auf Stuttgart klingt ein Nachkriegsbau glaubhaft. Doch das Bahnhofsgebäude von Paul Bonatz und Friedrich Eugen Scholer wurde schon 1922 eröffnet, lange vor dem Zweiten Weltkrieg. Der Schlossgarten folgt wirklich dem kanalisierten Nesenbach, und der Killesbergpark entstand auf einem ehemaligen Steinbruch. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stuttgart; Stuttgarter Zeitung (Killesberg)",
+"faktencheck": "korrigiert",
+"id": "101-stuttgart/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stuttgart",
+"steckbrief": "Stuttgart ist Landeshauptstadt von Baden-Württemberg, hat rund 609.000 Einwohner und liegt am Neckar.",
+"frage": "Wie hoch war in Stuttgart die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 83 %",
+"83 bis unter 85 %",
+"85 bis unter 87 %",
+"87 % oder mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Spanne darüber liegt nahe, denn die Beteiligung war bei dieser Wahl vielerorts hoch. In Stuttgart gaben 82,9 Prozent der Wahlberechtigten ihre Stimme ab, knapp unter der Grenze von 83 Prozent. Stärkste Partei wurde die CDU vor den Grünen. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "101-stuttgart/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stuttgart",
+"steckbrief": "Stuttgart ist Landeshauptstadt von Baden-Württemberg, hat rund 609.000 Einwohner und liegt am Neckar.",
+"frage": "Die Wilhelma wurde zur Hochzeit von Kronprinz Karl eingeweiht. Woher stammte seine Braut?",
+"optionen": [
+"Sie war eine Tochter des Kaisers von Österreich.",
+"Sie war eine Tochter des russischen Zaren.",
+"Sie war eine Tochter der britischen Königin.",
+"Sie war eine Tochter des Königs von Bayern."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Braut aus einem Nachbarland läge für einen württembergischen Thronfolger nahe. Kronprinz Karl heiratete aber Olga Nikolajewna, eine Tochter des Zaren. Zu dieser Hochzeit wurde die Wilhelma eingeweiht. Gedacht war sie ursprünglich als Badhaus im Schlosspark. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stuttgart",
+"faktencheck": "bestätigt",
+"id": "101-stuttgart/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Stuttgart",
+"steckbrief": "Stuttgart ist Landeshauptstadt von Baden-Württemberg, hat rund 609.000 Einwohner und liegt am Neckar.",
+"frage": "Welche Telefonvorwahl hat Stuttgart?",
+"optionen": [
+"0721",
+"07141",
+"0711",
+"0731"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Kurze Vorwahlen gehören meist zu großen Städten, deshalb kommen mehrere Antworten in Frage. Stuttgart erreicht man über die 0711. Richtig war 3.",
+"quelle": "Wikidata P473",
+"faktencheck": "bestätigt",
+"id": "101-stuttgart/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stuttgart",
+"steckbrief": "Stuttgart ist Landeshauptstadt von Baden-Württemberg, hat rund 609.000 Einwohner und liegt am Neckar.",
+"frage": "Friedrich Schiller war Schüler der Hohen Karlsschule, die Herzog Carl Eugen gegründet hatte. Was studierte er dort?",
+"optionen": [
+"Er studierte dort Malerei.",
+"Er studierte dort Baukunst.",
+"Er studierte dort Forstwirtschaft.",
+"Er studierte dort Medizin."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Dichter denkt man an die Künste, zumal die Karlsschule auch Kunstakademie war. Schiller studierte dort aber Medizin. Die Schule von Herzog Carl Eugen war zugleich Militärakademie. Richtig war 4.",
+"quelle": "Deutsches Ärzteblatt, aerzteblatt.de/archiv/friedrich-schiller-ein-arzt-auf-abwegen-8faf5bc0-ec6b-4fe5-946f-7a24616e8529",
+"faktencheck": "korrigiert",
+"id": "101-stuttgart/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stuttgart",
+"steckbrief": "Stuttgart ist Landeshauptstadt von Baden-Württemberg, hat rund 609.000 Einwohner und liegt am Neckar.",
+"frage": "Gottlieb Daimler gründete die Daimler-Motoren-Gesellschaft auf heutigem Stuttgarter Stadtgebiet. Wo genau?",
+"optionen": [
+"Er gründete sie in Zuffenhausen.",
+"Er gründete sie in Feuerbach.",
+"Er gründete sie in Cannstatt.",
+"Er gründete sie in Degerloch."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Zuffenhausen liegt nahe, denn dort steht das Porsche-Museum. Daimler gründete seine Gesellschaft aber in Cannstatt, wo er schon vorher arbeitete. Das neue Motorenwerk entstand erst später in Untertürkheim. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stuttgart",
+"faktencheck": "bestätigt",
+"id": "101-stuttgart/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "58-landau",
+"anschluss": [],
+"anschluesse": {
+"102-esslingen": [
+"Kreisgrenze: Esslingen am Neckar gehört zum Landkreis Esslingen, Stuttgart ist kreisfrei.",
+"Stuttgart hat gut sechsmal so viele Einwohner wie Esslingen am Neckar."
+],
+"103-plochingen": [
+"Kreisgrenze: Plochingen gehört zum Landkreis Esslingen, Stuttgart ist kreisfrei.",
+"Stuttgart hat rund 40-mal so viele Einwohner wie Plochingen."
+]
+},
+"ags": "08111000",
+"ortsteil": false,
+"km_vom_vorigen": 90.3
+},
+{
+"slug": "102-esslingen",
+"name": "Esslingen am Neckar",
+"lat": 48.74056,
+"lon": 9.31083,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Esslingen am Neckar",
+"steckbrief": "Stadt mit rund 95.000 Einwohnern, 11 km südöstlich von Stuttgart.",
+"frage": "Esslingens Altes Rathaus hat zwei ganz verschiedene Fassaden. Wozu wurde der Bau ursprünglich errichtet?",
+"optionen": [
+"Es war das Kauf- und Steuerhaus.",
+"Es war der Stadtpalast eines Adelsgeschlechts.",
+"Es war das Zeughaus der Reichsstadt.",
+"Es war eine Herberge für Pilger."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die prächtigen Fassaden lassen an den Palast eines Adelsgeschlechts denken. Doch der Bau entstand als Kauf- und Steuerhaus. Nach Süden zeigt er alemannisches Fachwerk, nach Norden eine in der Renaissance modernisierte Fassade. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.esslingen.de/stadt-und-politik/stadtportraet",
+"faktencheck": "bestätigt",
+"id": "102-esslingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Esslingen am Neckar",
+"steckbrief": "Stadt mit rund 95.000 Einwohnern, 11 km südöstlich von Stuttgart.",
+"frage": "Wie groß ist die Fläche der Esslinger Gemarkung?",
+"optionen": [
+"unter 30 km²",
+"30 bis unter 60 km²",
+"60 bis unter 100 km²",
+"100 km² oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei über 95.000 Einwohnern liegt eine weitläufige Gemarkung nahe, wie sie viele Großstädte haben. Doch Esslingen misst nur 46,43 Quadratkilometer; die Einwohner leben also recht dicht beieinander. Richtig war 2.",
+"quelle": "Wikidata P2046; Altbestand staedte.json; Einwohner: Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "102-esslingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Esslingen am Neckar",
+"steckbrief": "Stadt mit rund 95.000 Einwohnern, 11 km südöstlich von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Esslingen war im Mittelalter eine freie Reichsstadt.",
+"Die Neckarkanäle in Esslingen stehen unter Denkmalschutz.",
+"Esslingens Stadtwappen zeigt als Wappentier einen Löwen."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Löwe steht in vielen Wappen im Südwesten, daher klingt die Aussage glaubhaft. Doch Esslingens Wappentier ist der Adler; zur einstigen freien Reichsstadt passt das. Die Neckarkanäle stehen tatsächlich unter Denkmalschutz, ebenso die Grünfläche Maille. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.esslingen.de/stadt-und-politik/stadtportraet",
+"faktencheck": "bestätigt",
+"id": "102-esslingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Esslingen am Neckar",
+"steckbrief": "Stadt mit rund 95.000 Einwohnern, 11 km südöstlich von Stuttgart.",
+"frage": "Bei der Bundestagswahl 2025 wurde die CDU in Esslingen stärkste Partei. Welchen Zweitstimmenanteil erreichte sie?",
+"optionen": [
+"unter 22 %",
+"22 bis unter 25 %",
+"25 bis unter 28 %",
+"28 % oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer bei einer Stadt so nah an Stuttgart mit einem zersplitterten Ergebnis rechnet, tippt niedriger. Doch die CDU holte 29,2 Prozent der Zweitstimmen, klar vor den Grünen als zweitstärkster Partei. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "102-esslingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Esslingen am Neckar",
+"steckbrief": "Stadt mit rund 95.000 Einwohnern, 11 km südöstlich von Stuttgart.",
+"frage": "Die Kessler Sektkellerei, laut Stadt die älteste Deutschlands, sitzt im Speyrer Pfleghof. Was war ein Esslinger Pfleghof?",
+"optionen": [
+"Er war Lager und Verwaltung auswärtiger Klöster.",
+"Er war ein Pferdehof der Reichsstadt.",
+"Er war ein Armenhaus unter städtischer Pflege.",
+"Er war ein Gerichtshof der Esslinger Zünfte."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Wort „Pflege“ lässt an Armen- oder Krankenpflege denken. Doch auswärtige Klöster errichteten in Esslingen im Mittelalter Pfleghöfe als Verwaltungssitze und Lagerhäuser, auch für Ausbau und Lagerung ihres Weins. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.esslingen.de/stadt-und-politik/stadtportraet",
+"faktencheck": "bestätigt",
+"id": "102-esslingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Esslingen am Neckar",
+"steckbrief": "Stadt mit rund 95.000 Einwohnern südöstlich von Stuttgart.",
+"frage": "Wie weit liegt Esslingens Ortsmitte in Luftlinie von der Stadtmitte Stuttgarts entfernt?",
+"optionen": [
+"unter 5 km",
+"5 bis unter 15 km",
+"15 bis unter 25 km",
+"25 km oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an eine eigenständige Stadt mit eigener Altstadt denkt, schätzt die Entfernung leicht größer. Doch nur 11 Kilometer Luftlinie liegen zwischen Esslingen und der Landeshauptstadt, von Ortsmitte zu Stadtmitte gemessen. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "102-esslingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Esslingen am Neckar",
+"steckbrief": "Stadt mit rund 95.000 Einwohnern, 11 km südöstlich von Stuttgart.",
+"frage": "Im Mittelalter war Esslinger Wein berühmt, und der „Esslinger Eimer“ war im süddeutschen Weinhandel bekannt. Was war er?",
+"optionen": [
+"Er war ein Schöpfgefäß der Weingärtner.",
+"Er war eine Steuer auf verkauften Wein.",
+"Er war ein anerkanntes Maß für Wein.",
+"Er war ein Gütesiegel für Esslinger Lagen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Eimer klingt nach einem handlichen Gefäß, mit dem man Trauben oder Wein trägt. Doch der Esslinger Eimer war ein anerkanntes Maß im Weinhandel des süddeutschen Raums und fasste etwa 300 Liter. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.esslingen.de/stadt-und-politik/stadtportraet",
+"faktencheck": "unsicher",
+"id": "102-esslingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Esslingen am Neckar",
+"steckbrief": "Stadt mit rund 95.000 Einwohnern, 11 km südöstlich von Stuttgart.",
+"frage": "Am Alten Rathaus hängt eine astronomische Uhr. Welche Figur zeigt dort mit einer Bewegung die Stunde an?",
+"optionen": [
+"Ein Ritter zieht sein Schwert.",
+"Ein Adler schlägt mit den Flügeln.",
+"Ein Weingärtner hebt seinen Becher.",
+"Ein Hahn kräht und nickt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In einer Stadt mit langer Weinbautradition liegt ein Weingärtner nahe. Doch an der astronomischen Uhr schlägt ein Adler mit den Flügeln und zeigt so die Stunde an. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.esslingen.de/stadt-und-politik/stadtportraet",
+"faktencheck": "unsicher",
+"id": "102-esslingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Esslingen am Neckar",
+"steckbrief": "Stadt mit rund 95.000 Einwohnern, 11 km südöstlich von Stuttgart.",
+"frage": "Das Fachwerkhaus Heugasse 3 ist das Glanzstück einer sehr alten Esslinger Fachwerkzeile. Aus welchem Jahrhundert stammt es?",
+"optionen": [
+"Es wurde im 15. Jahrhundert gebaut.",
+"Es wurde im 17. Jahrhundert gebaut.",
+"Es wurde im 14. Jahrhundert gebaut.",
+"Es wurde im 13. Jahrhundert gebaut."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die meisten erhaltenen Fachwerkhäuser sind deutlich jünger, deshalb liegt ein späteres Jahrhundert nahe. Doch das Haus Heugasse 3 wurde um 1261 erbaut und gilt als eines der ältesten datierten Fachwerkhäuser Deutschlands. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.esslingen.de/stadt-und-politik/stadtportraet",
+"faktencheck": "korrigiert",
+"id": "102-esslingen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Esslingen am Neckar",
+"steckbrief": "Stadt mit rund 95.000 Einwohnern, 11 km südöstlich von Stuttgart.",
+"frage": "Unter der gotischen Stadtkirche St. Dionys liegt ein Museum. Was zeigt es?",
+"optionen": [
+"Es zeigt Fundamente von Vorgängerbauten der Kirche.",
+"Es zeigt den Weinkeller eines Klosters.",
+"Es zeigt einen Fluchtgang hinauf zur Burg.",
+"Es zeigt eine Zisterne für das Löschwasser."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein geheimer Gang zur Burg passt zu einer befestigten Stadt und klingt nach Stadtlegende. Doch unter St. Dionys liegt ein Ausgrabungsmuseum mit Fundamenten früher Vorgängerbauten. Laut Stadt steht die Kirche dort, wo Esslingen seinen Ursprung fand. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.esslingen.de/stadt-und-politik/stadtportraet",
+"faktencheck": "korrigiert",
+"id": "102-esslingen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "101-stuttgart",
+"anschluss": [
+"Kennzeichen: In Stuttgart steht S am Auto, in Esslingen ES.",
+"Einwohner: Stuttgart hat gut sechsmal so viele wie Esslingen."
+],
+"anschluesse": {
+"101-stuttgart": [
+"Kennzeichen: In Stuttgart steht S am Auto, in Esslingen ES.",
+"Einwohner: Stuttgart hat gut sechsmal so viele wie Esslingen."
+],
+"103-plochingen": [
+"Esslingen am Neckar hat fast siebenmal so viele Einwohner wie Plochingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Plochingen die SPD, in Esslingen am Neckar die Grünen."
+],
+"104-kirchheim-teck": [
+"Esslingen am Neckar hat fast zweieinhalbmal so viele Einwohner wie Kirchheim unter Teck.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Kirchheim unter Teck die AfD, in Esslingen am Neckar die Grünen."
+]
+},
+"ags": "08116019",
+"ortsteil": false,
+"km_vom_vorigen": 10.4
+},
+{
+"slug": "103-plochingen",
+"name": "Plochingen",
+"lat": 48.71167,
+"lon": 9.41639,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Plochingen",
+"steckbrief": "Stadt im Landkreis Esslingen mit rund 14.500 Einwohnern, 19 km südöstlich von Stuttgart.",
+"frage": "Woher hat Plochingen laut der Ortsgeschichte der Stadt seinen Namen?",
+"optionen": [
+"Von Pflöcken, an denen Neckarflößer ihre Flöße vertäuten.",
+"Von einem keltischen Wort für feuchtes Uferland.",
+"Von einem alten Flurnamen für die Flussgabel.",
+"Vom Namen des Ältesten einer alemannischen Sippe."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer „Ploch“ hört, denkt an Block oder Pflock, und am Neckar liegen Flößer nahe. Die Stadt erzählt es anders: Alemannische Sippen benannten ihre Siedlungen nach dem Sippenältesten und hängten „-ingen“ an. In Plochingen hieß er Blocko und wohnte auf dem Kirchberg. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html",
+"faktencheck": "bestätigt",
+"id": "103-plochingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Plochingen",
+"steckbrief": "Stadt im Landkreis Esslingen mit rund 14.500 Einwohnern, 19 km südöstlich von Stuttgart.",
+"frage": "Wie groß ist die Gemarkung der Stadt Plochingen?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 30 km²",
+"30 bis unter 50 km²",
+"50 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt dieser Größe hat oft eine weitläufige Gemarkung, darum liegt eine größere Spanne nahe. Plochingen aber kommt mit wenig Fläche aus: Die Gemarkung misst nur 10,64 Quadratkilometer. Die Stadt liegt am Zusammenfluss von Neckar und Fils. Richtig war 1.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "103-plochingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Plochingen",
+"steckbrief": "Stadt im Landkreis Esslingen mit rund 14.500 Einwohnern, 19 km südöstlich von Stuttgart.",
+"frage": "Es geht um das Hundertwasser-Wohnhaus „Wohnen unterm Regenturm“. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Hundertwasser plante den ganzen Bau von Anfang an.",
+"Den Regenturm des Hauses krönen goldene Kugeln.",
+"Der Innenhof meidet gerade Linien und rechte Winkel."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Haus trägt Hundertwassers Namen, also liegt nahe, dass er es entworfen hat. Geplant hatten es aber Plochinger Architekten. Der Österreicher kam erst dazu, als die Planung schon baugenehmigungsreif war, und gestaltete die Fassade des Innenhofs. Goldene Kugeln und Formen ohne rechte Winkel stimmen. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html",
+"faktencheck": "korrigiert",
+"id": "103-plochingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Plochingen",
+"steckbrief": "Stadt im Landkreis Esslingen mit rund 14.500 Einwohnern, 19 km südöstlich von Stuttgart.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Plochingen nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"GRÜNE",
+"AfD",
+"SPD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit wurde die AfD Zweite, darum liegt sie nahe. In Plochingen holte aber die SPD mit 17,3 Prozent Platz zwei, nur einen Zehntelpunkt vor der AfD mit 17,2 Prozent. Die Grünen kamen auf Platz vier. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "103-plochingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Plochingen",
+"steckbrief": "Stadt am Zusammenfluss von Neckar und Fils mit rund 14.500 Einwohnern, 19 km südöstlich von Stuttgart.",
+"frage": "Nach Marquardt von Randeck sind in Plochingen eine Straße, eine Schule und ein Fest benannt. Warum ehrt ihn die Stadt?",
+"optionen": [
+"Er gründete einst das Dorf Plochingen.",
+"Er führte Plochingen durch den Dreißigjährigen Krieg.",
+"Er ließ die Plochinger Wasserburg erbauen.",
+"Er vermachte Plochingen Wald, Weiden und Handelsrechte."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Marquardt besaß die Plochinger Burg, darum liegt nahe, dass er sie baute. Die Wasserburg entstand aber schon unter den Staufern, also vor Marquardts Zeit. Er erhielt die Burg für seine Verdienste um Kaiser und Reich. Der Bischof von Augsburg und Patriarch von Aquileia vermachte Plochingen per Testament Wald, Viehweiden und Rechte zum Frucht-, Salz-, Vieh- und Weinhandel. Das trug wesentlich zum Aufblühen des Orts bei. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html",
+"faktencheck": "korrigiert",
+"id": "103-plochingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Plochingen",
+"steckbrief": "Stadt im Landkreis Esslingen mit rund 14.500 Einwohnern, 19 km südöstlich von Stuttgart.",
+"frage": "Wie viele Einwohner leben in Plochingen rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 1.500",
+"1.500 bis unter 3.000",
+"3.000 bis unter 5.000",
+"5.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bahnknoten, Neckarhafen und Stadtkern lassen an dichte Bebauung denken, darum schätzt man leicht zu hoch. Rechnerisch kommen in Plochingen 1.363 Einwohner auf einen Quadratkilometer, denn auch der Wald zählt zur Fläche. Richtig war 1.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "103-plochingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Plochingen",
+"steckbrief": "Stadt im Landkreis Esslingen mit heute rund 14.500 Einwohnern, 19 km südöstlich von Stuttgart.",
+"frage": "Vor dem Dreißigjährigen Krieg zählte Plochingen 1.320 Einwohner. Wie viele lebten nach dem Pestjahr 1635 noch dort?",
+"optionen": [
+"unter 100",
+"100 bis unter 400",
+"400 bis unter 800",
+"800 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Kriegsverlusten denkt man eher an schwere Lücken als an einen fast leeren Ort. Plochingen traf es härter: Der Krieg brachte Raub, Mord, Brand und Pest, die 1635 besonders stark wütete. Von 1.320 Einwohnern blieben nur 250. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.plochingen.de/start/erkunden+_+orientieren/Stadtportrait.html",
+"faktencheck": "korrigiert",
+"id": "103-plochingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Plochingen",
+"steckbrief": "Stadt am Zusammenfluss von Neckar und Fils mit rund 14.500 Einwohnern, 19 km südöstlich von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Schwäbische Albverein wurde in Plochingen gegründet.",
+"Der Albvereinsturm ersetzte eine ältere hölzerne Aussichtsplattform.",
+"Der Plochinger Albvereinsturm steht auf der Schwäbischen Alb."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name lässt an einen Turm auf der Alb denken. Er steht aber im Plochinger Stadtteil Stumpenhof und blickt von dort zur Schwäbischen Alb, zum Schurwald und ins Neckartal. Gebaut ist er aus Plochinger Angulatensandstein, als Jubiläumsturm des Vereins, der im Plochinger Waldhorn gegründet wurde. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html",
+"faktencheck": "bestätigt",
+"id": "103-plochingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Plochingen",
+"steckbrief": "Stadt im Landkreis Esslingen mit rund 14.500 Einwohnern, 19 km südöstlich von Stuttgart.",
+"frage": "Das Frühmesserhaus, ein Renaissance-Fachwerkbau, stand dem Straßenbau bei der Innenstadtsanierung im Weg. Was geschah mit ihm?",
+"optionen": [
+"Seine originale Fachwerkfront kam vor einen Neubau.",
+"Das Haus wurde im Ganzen auf Rollen verschoben.",
+"Es blieb stehen, und die Straße wurde um das Haus geführt.",
+"Es wurde abgerissen und durch eine Kopie ersetzt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei historischen Häusern, die umziehen, denkt man an ein Versetzen im Ganzen. Das Frühmesserhaus musste der Straße weichen und wurde am jetzigen Platz neu aufgebaut. Seine originale Fachwerkfassade mit Halbrosetten, Sonnenrädern und Doppelkopf im Giebel wurde dem neuen Baukörper vorgeblendet, also davorgesetzt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html",
+"faktencheck": "korrigiert",
+"id": "103-plochingen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Plochingen",
+"steckbrief": "Stadt im Landkreis Esslingen mit rund 14.500 Einwohnern, 19 km südöstlich von Stuttgart.",
+"frage": "Plochingens öffentliches Toilettenhäuschen „les toilettes“ an der Fußgängerzone hat ein bekannter Künstler gestaltet. Wer?",
+"optionen": [
+"HAP Grieshaber entwarf es.",
+"Tomi Ungerer entwarf es.",
+"Friedensreich Hundertwasser entwarf es.",
+"Michael Triegel entwarf es."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Hundertwasser liegt nahe, denn der Hundertwasser-Regenturm steht kaum einen Steinwurf entfernt. Das Häuschen stammt aber von Tomi Ungerer, dem elsässischen Grafiker, Illustrator, Autor und Satiriker. Die Stadt wollte mitten in der Innenstadt, zwischen Marktplatz und Schorndorfer Straße, eine Toilette, die man sogar herzeigen kann. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.plochingen.de/start/erkunden+_+orientieren/Sehenswuerdigkeiten.html",
+"faktencheck": "korrigiert",
+"id": "103-plochingen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "102-esslingen",
+"anschluss": [
+"Einwohner: Esslingen hat fast siebenmal so viele wie Plochingen.",
+"Bundestagswahl 2025: Grüne holten in Esslingen mehr als in Plochingen."
+],
+"anschluesse": {
+"101-stuttgart": [
+"Kreisgrenze: Stuttgart ist kreisfrei, Plochingen gehört zum Landkreis Esslingen.",
+"Stuttgart hat rund 40-mal so viele Einwohner wie Plochingen."
+],
+"102-esslingen": [
+"Einwohner: Esslingen hat fast siebenmal so viele wie Plochingen.",
+"Bundestagswahl 2025: Grüne holten in Esslingen mehr als in Plochingen."
+],
+"104-kirchheim-teck": [
+"Kirchheim unter Teck hat dreimal so viele Einwohner wie Plochingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Kirchheim unter Teck die AfD, in Plochingen die SPD."
+],
+"105-goeppingen": [
+"Kreisgrenze: Göppingen gehört zum Landkreis Göppingen, Plochingen zum Landkreis Esslingen.",
+"Göppingen hat viermal so viele Einwohner wie Plochingen."
+]
+},
+"ags": "08116056",
+"ortsteil": false,
+"km_vom_vorigen": 8.4
+},
+{
+"slug": "104-kirchheim-teck",
+"name": "Kirchheim unter Teck",
+"lat": 48.64833,
+"lon": 9.45111,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchheim unter Teck",
+"steckbrief": "Die Stadt hat rund 42.000 Einwohner und liegt 25 km südöstlich von Stuttgart.",
+"frage": "Die Häuser der Kirchheimer Altstadt wirken auffallend einheitlich. Woher kommt das?",
+"optionen": [
+"Eine Fabrik baute die Altstadt als Arbeitersiedlung.",
+"Die Zimmerleutezunft erlaubte nur ein Hausmuster.",
+"Nach einem Stadtbrand galt eine herzogliche Bauordnung.",
+"Ein Kaufmann ließ alle Gassen gleichzeitig bebauen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Gleichförmige Häuserreihen erinnern an geplante Siedlungen eines einzigen Bauherrn. Doch ein Stadtbrand verwüstete Kirchheim; innerhalb der Stadtmauern blieben nur wenige Gebäude unversehrt. Beim Wiederaufbau schrieb eine herzogliche Bauordnung gleiche Stockwerkshöhen vor und verbot Vorbauten und Erker. Daraus entstand das typische Kirchheimer Stadtbild. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/Mittelalter-und-Neuzeit",
+"faktencheck": "korrigiert",
+"id": "104-kirchheim-teck/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kirchheim unter Teck",
+"steckbrief": "Kirchheim unter Teck hat rund 42.000 Einwohner und liegt 25 km südöstlich von Stuttgart.",
+"frage": "Auf welcher Höhe über dem Meer liegt Kirchheim unter Teck?",
+"optionen": [
+"unter 250 m",
+"250 bis unter 280 m",
+"280 bis unter 300 m",
+"300 m und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an die Nähe zu Stuttgart denkt, schätzt die Lage eher niedrig. Doch Kirchheim unter Teck liegt je nach Quelle 311 bis 316 Meter über dem Meer. Richtig war 4.",
+"quelle": "Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2890473)",
+"faktencheck": "bestätigt",
+"id": "104-kirchheim-teck/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kirchheim unter Teck",
+"steckbrief": "Die Stadt mit rund 42.000 Einwohnern liegt 25 km südöstlich von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Kirchheimer Schloss lebten früher verwitwete Herzoginnen.",
+"Auf dem Wollmarkt riefen Wolltreppler die Preise aus.",
+"Die Burg Teck wurde im Bauernkrieg zur Ruine."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach einem Handelsberuf, doch treppeln heißt trampeln: Junge Burschen, manche aus Not, stampften auf dem Wollmarkt die Wolle in den Säcken fest. Das Schloss diente tatsächlich später als Witwensitz, und die Burg Teck wurde im Bauernkrieg zur Ruine. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/Historische-Maerkte; www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/Mittelalter-und-Neuzeit",
+"faktencheck": "korrigiert",
+"id": "104-kirchheim-teck/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kirchheim unter Teck",
+"steckbrief": "Kirchheim unter Teck hat rund 42.000 Einwohner und liegt 25 km südöstlich von Stuttgart.",
+"frage": "Wie hoch war die Wahlbeteiligung in Kirchheim unter Teck bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 76 %",
+"76 bis unter 84 %",
+"84 bis unter 90 %",
+"90 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an eher mäßige Beteiligung in Städten denkt, tippt zu niedrig. Bei der Bundestagswahl 2025 gaben in Kirchheim unter Teck 82,1 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "104-kirchheim-teck/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchheim unter Teck",
+"steckbrief": "Kirchheim unter Teck zählt rund 42.000 Einwohner und liegt 25 km südöstlich von Stuttgart.",
+"frage": "Das Fachwerkrathaus am Marktplatz entstand nicht am Platz seines Vorgängers. Welchen Grund nennt die Stadtgeschichte dafür?",
+"optionen": [
+"Die Kirche beanspruchte den alten Platz für sich.",
+"Ein Hochwasser hatte den alten Platz unterspült.",
+"Die herzogliche Regierung verweigerte den alten Platz.",
+"Der Bürgermeister wollte neben seinem Haus bauen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Rathaus und Kirche stehen oft dicht beieinander, daher liegt ein Platzstreit mit der Kirche nahe. Doch die Obrigkeit sperrte sich: Die herzogliche Regierung stellte den alten Platz nicht mehr zur Verfügung. Deshalb baute die Stadt ihr Fachwerkrathaus notgedrungen an die Stelle eines abgebrannten Bürgerhauses. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/Mittelalter-und-Neuzeit",
+"faktencheck": "korrigiert",
+"id": "104-kirchheim-teck/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kirchheim unter Teck",
+"steckbrief": "Kirchheim unter Teck hat rund 42.000 Einwohner und liegt 25 km südöstlich von Stuttgart.",
+"frage": "Wie groß ist die Fläche der Stadt Kirchheim unter Teck?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 25 km²",
+"25 bis unter 35 km²",
+"35 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine dicht bewohnte Stadt nahe Stuttgart lässt eine kleine Fläche erwarten. Doch zur Stadt gehören auch die eingemeindeten Orte Ötlingen, Lindorf, Nabern und Jesingen. Die Stadt misst 40,47 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "104-kirchheim-teck/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchheim unter Teck",
+"steckbrief": "Die Stadt hat rund 42.000 Einwohner und liegt 25 km südöstlich von Stuttgart.",
+"frage": "Auf dem Alten Friedhof erinnert ein Mahnmal an die zivilen Opfer des Nationalsozialismus. Wie ist es gestaltet?",
+"optionen": [
+"Es ist ein begehbarer Raum aus Metallstangen.",
+"Es ist eine schwarze Granitstele mit Namen.",
+"Es ist eine Bronzefigur einer trauernden Mutter.",
+"Es ist ein Glaswürfel mit eingravierten Namen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele Mahnmale sind Steine mit Namen, daher liegt eine Stele nahe. Monika Majer schuf stattdessen einen Raum zum Hineingehen: Metallstangen mit rostigen Spruchbändern unter einer Blutbuche. Die Texte erinnern an Opfergruppen, von Juden und Homosexuellen bis zu polnischen Zwangsarbeitern. Der Blick führt zum Soldatendenkmal. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Historisches/Denkmal",
+"faktencheck": "bestätigt",
+"id": "104-kirchheim-teck/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchheim unter Teck",
+"steckbrief": "Kirchheim unter Teck hat rund 42.000 Einwohner und liegt 25 km südöstlich von Stuttgart.",
+"frage": "Ein Kirchheimer Stadtsiegel von 1295 zeigt sogenannte Wecken. Wofür stehen sie?",
+"optionen": [
+"Die Wecken stehen für die Bäcker der Stadt.",
+"Die Wecken sind das Zeichen der damaligen Stadtherren.",
+"Die Wecken stehen für den Kornmarkt der Stadt.",
+"Die Wecken zeigen die Steine der Stadtmauer."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im Schwäbischen ist ein Weck ein Brötchen, daher liegt das Bäckerhandwerk nahe. In der Wappenkunde sind Wecken aber rautenförmige Figuren. Das Siegel trägt das Zeichen der Herzöge von Teck, die Kirchheim zur Stadt gemacht hatten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/Mittelalter-und-Neuzeit",
+"faktencheck": "korrigiert",
+"id": "104-kirchheim-teck/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kirchheim unter Teck",
+"steckbrief": "Die Stadt zählt rund 42.000 Einwohner und liegt 25 km südöstlich von Stuttgart.",
+"frage": "Kirchheim ist erstmals 960 belegt, in einer Königsurkunde Ottos des Großen. Wer war ihr Empfänger?",
+"optionen": [
+"Die Urkunde ging an das Kloster Reichenau.",
+"Die Urkunde ging an den Herzog von Schwaben.",
+"Die Urkunde ging an das Kloster Lorsch.",
+"Die Urkunde ging an einen Bischof von Chur."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Für einen schwäbischen Ort liegt ein Kloster der Gegend oder der Herzog von Schwaben nahe. Doch die Urkunde ging an Bischof Hartbert von Chur, weit im Süden in den Alpen. Es war ein Tausch: Der Bischof bekam den Königshof in Chur, Otto dafür Kirchheim. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.kirchheim-teck.de/de/Stadt-Rathaus/Unsere-Stadt/Stadtarchiv/Kirchheimer-Stadtgeschichte/Mittelalter-und-Neuzeit",
+"faktencheck": "korrigiert",
+"id": "104-kirchheim-teck/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "103-plochingen",
+"anschluss": [
+"Kirchheim hat fast dreimal so viele Einwohner wie Plochingen.",
+"Bundestagswahl 2025: Zweite wurde in Kirchheim AfD, in Plochingen SPD."
+],
+"anschluesse": {
+"102-esslingen": [
+"Esslingen am Neckar hat fast zweieinhalbmal so viele Einwohner wie Kirchheim unter Teck.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Esslingen am Neckar die Grünen, in Kirchheim unter Teck die AfD."
+],
+"103-plochingen": [
+"Kirchheim hat fast dreimal so viele Einwohner wie Plochingen.",
+"Bundestagswahl 2025: Zweite wurde in Kirchheim AfD, in Plochingen SPD."
+],
+"105-goeppingen": [
+"Kreisgrenze: Göppingen gehört zum Landkreis Göppingen, Kirchheim unter Teck zum Landkreis Esslingen.",
+"Göppingen hat rund 16.000 Einwohner mehr als Kirchheim unter Teck."
+]
+},
+"ags": "08116033",
+"ortsteil": false,
+"km_vom_vorigen": 7.5
+},
+{
+"slug": "105-goeppingen",
+"name": "Göppingen",
+"lat": 48.7025,
+"lon": 9.65278,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Göppingen",
+"steckbrief": "Göppingen hat rund 59.000 Einwohner und liegt im Filstal, 36 km östlich von Stuttgart.",
+"frage": "Herzog Christoph von Württemberg ließ im 16. Jahrhundert in Göppingen ein Schloss bauen. Welchen Grund nennt die Stadtgeschichte?",
+"optionen": [
+"Er feierte damit einen gewonnenen Krieg.",
+"Er dankte für seine Heilung durch Sauerwasser.",
+"Er schenkte es seiner Braut zur Hochzeit.",
+"Er sühnte damit einen Streit mit der Stadt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Schlösser dienten oft der Repräsentation oder feierten Erfolge, darum liegt ein Sieg nahe. Die Stadtgeschichte nennt einen persönlichen Grund: Herzog Christoph wurde durch Göppinger Sauerwasser geheilt, möglicherweise nach einer Vergiftung am französischen Hof. Zum Dank ließ er das Schloss erbauen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.goeppingen.de/start/kennenlernen/geschichte.html",
+"faktencheck": "korrigiert",
+"id": "105-goeppingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Göppingen",
+"steckbrief": "Göppingen hat rund 59.000 Einwohner und liegt 36 km östlich von Stuttgart.",
+"frage": "Wie viele Einwohner leben in Göppingen durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 400",
+"400 bis unter 800",
+"800 bis unter 1.100",
+"1.100 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an ein bedeutendes Wirtschaftszentrum der Region Stuttgart denkt, schätzt leicht höher. Auf 59,21 Quadratkilometern leben 58.678 Menschen (Stand Ende 2025), das ergibt 991 Einwohner je Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "105-goeppingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Göppingen",
+"steckbrief": "Göppingen, eine Stadt mit rund 59.000 Einwohnern, liegt im Filstal, 36 km östlich von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Fachwerkhaus „Storchen“ überstand den großen Stadtbrand.",
+"Ein Stadtschreiber rettete beim Stadtbrand das meiste Archivgut.",
+"Nach dem großen Stadtbrand blieben die Gassen unverändert."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Nach Bränden baute man vielerorts auf den alten Grundmauern wieder auf, darum klingt das vertraut. In Göppingen befahl Herzog Karl Eugen den unverzüglichen Wiederaufbau mit geradlinigem, schachbrettartigem Grundriss; er prägt die Innenstadt bis heute. Der Storchen blieb verschont, und Stadtschreiber Karl Friedrich Knoer rettete den Großteil des Archivs. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.goeppingen.de/start/kennenlernen/geschichte.html, www.goeppingen.de/start/kennenlernen/portrait.html, www.goeppingen.de/start/erleben/museumsgeschichte.html, www.goeppingen.de/start/erleben/archivgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "105-goeppingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Göppingen",
+"steckbrief": "Göppingen hat rund 59.000 Einwohner und liegt 36 km östlich von Stuttgart.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte die stärkste Partei, die CDU, in Göppingen?",
+"optionen": [
+"unter 30 %",
+"30 bis unter 34 %",
+"34 bis unter 38 %",
+"38 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Baden-Württemberg gilt als CDU-Land, darum schätzt man leicht höher. In Göppingen holte die CDU 29,6 Prozent der Zweitstimmen und lag damit vor der AfD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "105-goeppingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Göppingen",
+"steckbrief": "Göppingen liegt 36 km östlich von Stuttgart und hat rund 59.000 Einwohner.",
+"frage": "Der Göppinger Maientag geht auf ein Fest von 1650 zurück. Was feierte die Stadt damals?",
+"optionen": [
+"Die Stadt begrüßte den Frühling mit einem Maibaum.",
+"Man feierte den Frieden nach dem Dreißigjährigen Krieg.",
+"Man feierte den Wiederaufbau nach einem großen Stadtbrand.",
+"Man feierte die Hochzeit eines württembergischen Herzogs."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach Mai und Frühlingsbrauch, darum liegt der Maibaum nahe. Gefeiert wurde aber im August: ein Dankesfest für den Frieden nach dem Dreißigjährigen Krieg. Bürgermeister Elias Laichinger beschrieb in seiner Chronik Kinder in weißen Hemden mit grünen Kränzen. Erst später wurde daraus ein Kinder- und Volksfest. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.goeppingen.de/start/erleben/historie.html",
+"faktencheck": "bestätigt",
+"id": "105-goeppingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Göppingen",
+"steckbrief": "Göppingen hat rund 59.000 Einwohner und liegt 36 km östlich von Stuttgart.",
+"frage": "Göppingen gehört zur Region Stuttgart. In welchem Landkreis liegt die Stadt?",
+"optionen": [
+"Landkreis Esslingen",
+"Rems-Murr-Kreis",
+"Landkreis Göppingen",
+"Ostalbkreis"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Stuttgart lässt an einen der Kreise rund um die Landeshauptstadt denken. Göppingen gehört aber zum gleichnamigen Landkreis Göppingen; das Hauptkennzeichen dort ist GP. Richtig war 3.",
+"quelle": "dewiki Infobox (Landkreis); Wikidata P395 (Kennzeichen)",
+"faktencheck": "bestätigt",
+"id": "105-goeppingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Göppingen",
+"steckbrief": "Göppingen hat rund 59.000 Einwohner und liegt 36 km östlich von Stuttgart.",
+"frage": "Spielzeug von Märklin aus Göppingen hat Weltruf. Wann bekam die Stadt Anschluss an die echte Eisenbahn?",
+"optionen": [
+"Göppingen bekam 1835 Anschluss an die Eisenbahn.",
+"Göppingen bekam 1871 Anschluss an die Eisenbahn.",
+"Göppingen bekam 1899 Anschluss an die Eisenbahn.",
+"Göppingen bekam 1847 Anschluss an die Eisenbahn."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Viele denken an die Gründerzeit, als sich das Bahnnetz im Reich verdichtete. Göppingen war früher dran: Die Eisenbahn kam 1847 und gab der Industrie weiteren Schub. Firmen wie Märklin und Schuler wurden in jener Zeit gegründet; ihre Namen haben bis heute Weltruf. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.goeppingen.de/start/kennenlernen/geschichte.html",
+"faktencheck": "korrigiert",
+"id": "105-goeppingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Göppingen",
+"steckbrief": "Göppingen liegt 36 km östlich von Stuttgart und hat rund 59.000 Einwohner.",
+"frage": "Georg Bantel führte in den 1850er-Jahren in Göppingen eine Weinwirtschaft ohne Polizeistunde. Warum durfte er das?",
+"optionen": [
+"Ein Privileg aus früherem Adelsbesitz des Hauses galt weiter.",
+"Der Wirt war zugleich Bürgermeister der Stadt.",
+"Der König hatte es ihm persönlich erlaubt.",
+"Er zahlte der Stadt dafür eine Sondersteuer."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Ausnahme gegen Geld klingt nach dem üblichen Weg, sich Sonderrechte zu sichern. Möglich machte es aber ein Privileg, das noch aus der Zeit stammte, als das Haus einer Adelsfamilie gehörte. Die Polizeistunde ist die behördlich festgesetzte Sperrstunde für Gaststätten. Unten hatte Bantel eine Werkstatt, darüber schenkte er Wein aus. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.goeppingen.de/start/erleben/museumsgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "105-goeppingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Göppingen",
+"steckbrief": "Göppingen hat rund 59.000 Einwohner, liegt 36 km östlich von Stuttgart und umfasst den Stadtbezirk Jebenhausen.",
+"frage": "In die Dorfkirche Jebenhausen kamen einst Deckenleuchter und Gestühl der dortigen Synagoge. Wie kamen sie in die Kirche?",
+"optionen": [
+"Sie wurden in der NS-Zeit dorthin gebracht.",
+"Das Museum ersteigerte sie für seine Ausstellung.",
+"Sie kamen als Geschenk, nachdem die Synagoge schloss.",
+"Kirche und Synagoge teilten sich einst einen Raum."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei jüdischem Kultgut in deutschen Gebäuden denkt man schnell an Raub in der NS-Zeit. Doch nachdem die Synagoge Jebenhausen geschlossen worden war, kamen Leuchter und Gestühl als Geschenk der Juden an die Christen in die Dorfkirche. Die Stadt sieht darin ein Zeugnis des gegenseitigen Umgangs von Juden und Christen. Heute ist die frühere Kirche Jüdisches Museum. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.goeppingen.de/20952448.html",
+"faktencheck": "korrigiert",
+"id": "105-goeppingen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "104-kirchheim-teck",
+"anschluss": [
+"Kennzeichen: GP in Göppingen, ES in Kirchheim unter Teck.",
+"AfD-Zweitstimmen 2025: Göppingen 24,8 %, Kirchheim unter Teck 17,6 %."
+],
+"anschluesse": {
+"103-plochingen": [
+"Kreisgrenze: Plochingen gehört zum Landkreis Esslingen, Göppingen zum Landkreis Göppingen.",
+"Göppingen hat viermal so viele Einwohner wie Plochingen."
+],
+"104-kirchheim-teck": [
+"Kennzeichen: GP in Göppingen, ES in Kirchheim unter Teck.",
+"AfD-Zweitstimmen 2025: Göppingen 24,8 %, Kirchheim unter Teck 17,6 %."
+],
+"106-geislingen": [
+"Göppingen hat gut doppelt so viele Einwohner wie Geislingen an der Steige."
+]
+},
+"ags": "08117026",
+"ortsteil": false,
+"km_vom_vorigen": 16.0
+},
+{
+"slug": "106-geislingen",
+"name": "Geislingen an der Steige",
+"lat": 48.62444,
+"lon": 9.83056,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Geislingen an der Steige",
+"steckbrief": "Rund 28.000 Einwohner, 28 km nordwestlich von Ulm.",
+"frage": "Die Burg Helfenstein über Geislingen wurde 1552 erobert. Wer ließ sie danach abbrechen?",
+"optionen": [
+"Die Ulmer brachen sie nach der Rückeroberung ab.",
+"Der Markgraf von Brandenburg-Kulmbach ließ sie abbrechen.",
+"Die Grafen von Helfenstein brachen sie selbst ab.",
+"Schwedische Truppen brachen sie im Dreißigjährigen Krieg ab."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre der Eroberer, denn Sieger zerstören oft, was sie genommen haben. Nach dem Verkauf der Grafschaft an Ulm war die Burg zur Festung ausgebaut worden. Truppen des Markgrafen nahmen sie ein, die Ulmer eroberten sie zurück und brachen sie danach selbst ab. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.geislingen.de/de/gaeste/stadtportrait/fuenftaelerstadt/einzigartig",
+"faktencheck": "unsicher",
+"id": "106-geislingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Geislingen an der Steige",
+"steckbrief": "Stadt mit knapp 76 km² Fläche, 28 km nordwestlich von Ulm.",
+"frage": "Wie viele Einwohner hat Geislingen an der Steige?",
+"optionen": [
+"unter 15.000",
+"15.000 bis unter 30.000",
+"30.000 bis unter 50.000",
+"50.000 oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Neben Ulm wirkt jede Stadt im Umland klein, deshalb schätzt man leicht zu niedrig. Geislingen zählte Ende 2025 27.781 Einwohner und blieb damit knapp unter 30.000. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "106-geislingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Geislingen an der Steige",
+"steckbrief": "Rund 28.000 Einwohner, 28 km nordwestlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Ödenturm wurde ursprünglich als Aussichtsturm gebaut.",
+"Der Dichter Schubart unterrichtete einige Jahre in Geislingen.",
+"Das Werksgelände der WMF ist ein Kulturdenkmal."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Heute ist der Ödenturm ein Aussichtsturm, darum klingt die Aussage glaubhaft. Gebaut wurde er aber zum Schutz der Burg Helfenstein, später diente er als Wachturm. Schubart unterrichtete tatsächlich in Geislingen, und das Werksgelände der WMF ist ein Kulturdenkmal. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.geislingen.de/de/gaeste/stadtportrait/fuenftaelerstadt/einzigartig",
+"faktencheck": "unsicher",
+"id": "106-geislingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Geislingen an der Steige",
+"steckbrief": "Rund 28.000 Einwohner, 28 km nordwestlich von Ulm.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Geislingen nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"SPD",
+"GRÜNE",
+"AfD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt als Tipp nahe, denn im Südwesten war sie lange die zweite Kraft hinter der CDU. Bei der Bundestagswahl 2025 kam in Geislingen aber die AfD auf Platz zwei, hinter der CDU und vor der SPD. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "106-geislingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Geislingen an der Steige",
+"steckbrief": "Rund 28.000 Einwohner, 28 km nordwestlich von Ulm.",
+"frage": "1984 schlug der SC Geislingen in der ersten Runde des DFB-Pokals einen Europapokalsieger. Wen?",
+"optionen": [
+"Der SC Geislingen schlug den Hamburger SV.",
+"Der SC Geislingen schlug Borussia Mönchengladbach.",
+"Der SC Geislingen schlug Borussia Dortmund.",
+"Der SC Geislingen schlug den 1. FC Köln."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gladbach liegt nahe, denn der Club holte selbst Europapokale. Tatsächlich warf der SC Geislingen den Hamburger SV in der ersten Runde raus. Aus dem Verein gingen Bundesligaspieler hervor, darunter Jürgen Klinsmann. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Geislingen_an_der_Steige",
+"faktencheck": "bestätigt",
+"id": "106-geislingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Geislingen an der Steige",
+"steckbrief": "Rund 28.000 Einwohner, 28 km nordwestlich von Ulm.",
+"frage": "Zu welchem Landkreis gehört Geislingen an der Steige?",
+"optionen": [
+"Alb-Donau-Kreis",
+"Landkreis Göppingen",
+"Landkreis Heidenheim",
+"Landkreis Esslingen"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ulm ist nah, darum liegt der Alb-Donau-Kreis rund um Ulm als Tipp nahe. Geislingen gehört aber zum Landkreis Göppingen. Richtig war 2.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "106-geislingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Geislingen an der Steige",
+"steckbrief": "Rund 28.000 Einwohner, 28 km nordwestlich von Ulm.",
+"frage": "Seit 1950 steht auf der Schildwacht über Geislingen das Ostlandkreuz. Woran erinnert es?",
+"optionen": [
+"Es erinnert an die Opfer eines Grubenunglücks.",
+"Es ersetzt eine abgebrannte Bergkapelle an dieser Stelle.",
+"Es weist Pilgern den Weg nach Osten.",
+"Es erinnert an Vertriebene aus Böhmen und Mähren."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach einer Wegmarke nach Osten, daher liegt der Pilgerweg nahe. Das Kreuz erinnert aber an das Leid der Deutschen aus Böhmen und Mähren bei ihrer Vertreibung. Geislingen hatte die Patenschaft für vertriebene Südmährer übernommen. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Geislingen_an_der_Steige",
+"faktencheck": "unsicher",
+"id": "106-geislingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Geislingen an der Steige",
+"steckbrief": "Rund 28.000 Einwohner, 28 km nordwestlich von Ulm.",
+"frage": "Am Forellenbrunnen in der Geislinger Fußgängerzone ist auch ein Elefant zu sehen. Wofür steht er?",
+"optionen": [
+"Er erinnert an einen Zirkus, der hier überwinterte.",
+"Er ist das Wappentier der Stadtgründer.",
+"Er ist das Markenzeichen einer örtlichen Firma.",
+"Er erinnert an Funde eines eiszeitlichen Elefanten."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Elefant in einer schwäbischen Fußgängerzone wirkt wie ein Zirkusandenken. Er ist aber das Wappentier der Grafen von Helfenstein, die Geislingen gründeten. Den Brunnen schuf Gernot Rumpf, sein Thema ist das Forellengedicht von Christian Friedrich Daniel Schubart. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Geislingen_an_der_Steige",
+"faktencheck": "bestätigt",
+"id": "106-geislingen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Geislingen an der Steige",
+"steckbrief": "Rund 28.000 Einwohner, 28 km nordwestlich von Ulm.",
+"frage": "Das Geislinger Kinderfest mit Festzug durch die Stadt hat eine lange Tradition. Woraus ist es entstanden?",
+"optionen": [
+"Es entstand aus einem Kirchweihfest.",
+"Es entstand aus einem Schützenfest der Bürger.",
+"Es entstand aus einem Erntedankfest der Bauern.",
+"Es entstand als Dankfest nach einer Pestzeit."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Schützen- oder Pestdankfeste stecken hinter vielen süddeutschen Traditionen, das macht sie naheliegend. Das Geislinger Kinderfest ging aber aus einem Kirchweihfest hervor, dem Jahresfest zur Weihe einer Kirche. Zum Ablauf gehört eine „Stäffelespredigt“ vor der Stadtkirche. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Geislingen_an_der_Steige",
+"faktencheck": "unsicher",
+"id": "106-geislingen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "105-goeppingen",
+"anschluss": [
+"Einwohner: Göppingen hat gut doppelt so viele wie Geislingen.",
+"Landkreis: Göppingen und Geislingen gehören beide zum Landkreis Göppingen."
+],
+"anschluesse": {
+"105-goeppingen": [
+"Einwohner: Göppingen hat gut doppelt so viele wie Geislingen.",
+"Landkreis: Göppingen und Geislingen gehören beide zum Landkreis Göppingen."
+],
+"107-merklingen": [
+"Kreisgrenze: Merklingen gehört zum Alb-Donau-Kreis, Geislingen an der Steige zum Landkreis Göppingen.",
+"Geislingen an der Steige hat dreizehnmal so viele Einwohner wie Merklingen."
+]
+},
+"ags": "08117024",
+"ortsteil": false,
+"km_vom_vorigen": 15.7
+},
+{
+"slug": "107-merklingen",
+"name": "Merklingen",
+"lat": 48.50861,
+"lon": 9.75417,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Merklingen",
+"steckbrief": "Merklingen hat rund 2.200 Einwohner und liegt 21 km nordwestlich von Ulm.",
+"frage": "Seit 1482 gehörte Merklingen der Reichsstadt Ulm. An welchen Staat kam das Dorf 1802?",
+"optionen": [
+"Merklingen kam an Baden.",
+"Merklingen kam an Preußen.",
+"Merklingen kam an Hessen.",
+"Merklingen kam an Bayern."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Württemberg liegt nahe, denn heute gehört Merklingen zu Baden-Württemberg. Doch nach der Zeit unter der Reichsstadt Ulm kam das Dorf 1802 an Bayern. Erst einige Jahre später wechselte es zu Württemberg und ins Oberamt Blaubeuren. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.merklingen.de/gemeinde-merklingen/geschichte/allgemein",
+"faktencheck": "bestätigt",
+"id": "107-merklingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Merklingen",
+"steckbrief": "Merklingen hat rund 2.200 Einwohner und liegt 21 km nordwestlich von Ulm.",
+"frage": "Wie groß ist die Fläche der Gemeinde Merklingen?",
+"optionen": [
+"unter 25 km²",
+"25 bis unter 40 km²",
+"40 bis unter 60 km²",
+"60 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an ein Dorf mit weiten Feldern und Wäldern denkt, schätzt leicht größer. Doch die Gemeinde umfasst nur 21,31 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "107-merklingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Merklingen",
+"steckbrief": "Merklingen hat rund 2.200 Einwohner und liegt 21 km nordwestlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Alten Pfarrhaus wohnte früher der Amtmann.",
+"Im Brechhaus wurde früher Getreide gedroschen.",
+"Das Heiligenhaus diente einst als Rathaus."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Heiligenhaus klingt nach Kirche und wirkt verdächtig: Errichtet wurde es auf Kosten der Heiligenpflege, der Verwaltung des Kirchenvermögens, doch später diente es als Rathaus. Gelogen ist das Brechhaus: Dort wurde Flachs aufbereitet, damit man ihn zu Leinen weben konnte, kein Getreide gedroschen. Im Alten Pfarrhaus wohnte zuerst der Amtmann, später der Pfarrer. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.merklingen.de/gemeinde-merklingen/geschichte/allgemein",
+"faktencheck": "korrigiert",
+"id": "107-merklingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Merklingen",
+"steckbrief": "Merklingen hat rund 2.200 Einwohner und liegt 21 km nordwestlich von Ulm.",
+"frage": "Wie hoch war in Merklingen die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 82 %",
+"82 bis unter 90 %",
+"90 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Mancher schätzt nach dem Bundesschnitt. Doch auf dem Land und in kleinen Gemeinden gehen oft besonders viele Menschen wählen. In Merklingen lag die Wahlbeteiligung bei 88,4 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "107-merklingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Merklingen",
+"steckbrief": "Merklingen hat rund 2.200 Einwohner und liegt 21 km nordwestlich von Ulm.",
+"frage": "Im Merklinger Gemeindewappen ist ein kleines Häuschen dargestellt. Wozu diente es einst?",
+"optionen": [
+"Darin schliefen Schäfer neben ihrer Herde.",
+"Darin wurde am Dorfrand Wegzoll erhoben.",
+"Darin wohnte der Wächter des Dorfbrunnens.",
+"Darin bewachte ein Hüter ausgelegte Leinentücher."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Hirtenhäuschen liegt nahe, und tatsächlich hauste darin ein Hirt: der Tuchhirt. Er bewachte auf der Bleiche, einem mageren Rasenplatz, die ausgelegten Leinenstücke und notierte sie; ein scharfer Hund half ihm dabei. Das Häuschen gab ihm Tag und Nacht Unterschlupf. Ein Wasserfass diente zum Annetzen der Tücher. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.merklingen.de/gemeinde-merklingen/geschichte/wappen",
+"faktencheck": "korrigiert",
+"id": "107-merklingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Merklingen",
+"steckbrief": "Merklingen hat rund 2.200 Einwohner und liegt 21 km nordwestlich von Ulm.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Merklingen?",
+"optionen": [
+"UL",
+"GP",
+"HDH",
+"RT"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Man könnte meinen, UL trage nur die Stadt Ulm. Doch Merklingen gehört zum Alb-Donau-Kreis, dessen Hauptkennzeichen ebenfalls UL ist. Richtig war 1.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "107-merklingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Merklingen",
+"steckbrief": "Merklingen hat rund 2.200 Einwohner und liegt 21 km nordwestlich von Ulm.",
+"frage": "Welcher Erwerbszweig war in Merklingen neben der Landwirtschaft bis in die 1930er Jahre der wichtigste?",
+"optionen": [
+"Die Merklinger brachen Kalkstein in Steinbrüchen.",
+"Die Merklinger webten Leinen an Webstühlen.",
+"Die Merklinger züchteten Schafe für den Wollhandel.",
+"Die Merklinger flochten Körbe aus Weiden."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Dorf auf der Alb denkt man zuerst an Schafe und Wolle. Doch neben der Landwirtschaft lebte Merklingen vor allem vom Leinen: Den Flachs bereitete man im Brechhaus auf, und die Merklinger webten daraus Leinwand. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.merklingen.de/gemeinde-merklingen/geschichte/allgemein",
+"faktencheck": "korrigiert",
+"id": "107-merklingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Merklingen",
+"steckbrief": "Merklingen hat rund 2.200 Einwohner und liegt 21 km nordwestlich von Ulm.",
+"frage": "Merklingen hat eine eigene Spezialität, die „Merklinger Nudla“. Was ist das?",
+"optionen": [
+"Es sind handgeschabte Nudeln für die Suppe.",
+"Es sind Teigtaschen mit einer Fleischfüllung.",
+"Es ist ein Gebäck aus dem Ofen.",
+"Es ist ein Schnaps aus Albkräutern."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei „Nudla“ denkt man an schwäbische Nudeln, also an Teigwaren für Suppe oder Pfanne. Doch die Merklinger Nudla sind eine Backspezialität. Man reicht sie vom Frühstück bis zum Abendessen, zu Süßem wie zu Deftigem. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.merklingen.de/gemeinde-merklingen/geschichte/die-merklinger-spezialitaet",
+"faktencheck": "korrigiert",
+"id": "107-merklingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Merklingen",
+"steckbrief": "Merklingen hat rund 2.200 Einwohner und liegt 21 km nordwestlich von Ulm.",
+"frage": "Beim Anlegen des heutigen Friedhofs stieß man in Merklingen auf einen Fund. Welchen?",
+"optionen": [
+"Man fand ein alemannisches Gräberfeld.",
+"Man fand die Grundmauern einer Burg.",
+"Man fand einen vergrabenen Münzschatz.",
+"Man fand Reste einer frühen Kapelle."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Grabfund an einem Friedhof klingt fast zu einfach, um wahr zu sein. Doch genau das kam zutage: ein alemannisches Gräberfeld. Es stützt die Annahme, dass Alemannen Merklingen vermutlich gegründet haben. Den römischen Gutshof im Bannholz wählten sie nicht als Siedlungsplatz. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.merklingen.de/gemeinde-merklingen/geschichte/allgemein",
+"faktencheck": "bestätigt",
+"id": "107-merklingen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "106-geislingen",
+"anschluss": [
+"Geislingen hat fast dreizehnmal so viele Einwohner wie Merklingen."
+],
+"anschluesse": {
+"106-geislingen": [
+"Geislingen hat fast dreizehnmal so viele Einwohner wie Merklingen."
+]
+},
+"ags": "08425079",
+"ortsteil": false,
+"km_vom_vorigen": 14.1
+},
+{
+"slug": "108-ulm",
+"name": "Ulm",
+"lat": 48.39861,
+"lon": 9.99111,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ulm",
+"steckbrief": "Großstadt an der Donau mit rund 130.000 Einwohnern, 74 km Luftlinie von Stuttgart.",
+"frage": "1944 wurde der größte Teil der Ulmer Altstadt im Bombenkrieg zerstört. Welches Bauwerk blieb weitgehend verschont?",
+"optionen": [
+"Das Rathaus blieb weitgehend verschont.",
+"Das Kornhaus blieb weitgehend verschont.",
+"Das Münster blieb weitgehend verschont.",
+"Das Schwörhaus blieb weitgehend verschont."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre, dass der riesige Kirchturm ein leichtes Ziel abgab und zuerst fiel. Doch es kam umgekehrt: Rathaus, Kornhaus und Schwörhaus brannten 1944 aus. Das Münster dagegen blieb weitgehend verschont. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ulm",
+"faktencheck": "korrigiert",
+"id": "108-ulm/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ulm",
+"steckbrief": "Großstadt an der Donau mit rund 130.000 Einwohnern, 74 km Luftlinie von Stuttgart.",
+"frage": "Wie groß ist das Ulmer Stadtgebiet?",
+"optionen": [
+"unter 50 km²",
+"50 bis unter 80 km²",
+"80 bis unter 110 km²",
+"110 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an die enge Altstadt rund ums Münster denkt, schätzt Ulm eher klein. Zum Stadtgebiet gehören aber auch eingemeindete Orte wie Söflingen. So kommt Ulm auf 118,68 km². Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "108-ulm/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Ulm",
+"steckbrief": "Großstadt an der Donau mit rund 130.000 Einwohnern, 74 km Luftlinie von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Schauspielerin Hildegard Knef ist gebürtige Ulmerin.",
+"Der Gestalter Otl Aicher wuchs in Ulm auf.",
+"Albert Einstein besuchte in Ulm die Schule."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Hildegard Knef verbindet man mit Berlin, deshalb wirkt ihre Aussage verdächtig. Sie ist aber in Ulm geboren, und Otl Aicher wuchs hier auf. Gelogen ist Einstein: Er kam zwar in Ulm zur Welt, doch schon im Jahr nach seiner Geburt zog die Familie nach München. In Ulm besuchte er keine Schule. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ulm",
+"faktencheck": "bestätigt",
+"id": "108-ulm/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ulm",
+"steckbrief": "Großstadt an der Donau mit rund 130.000 Einwohnern, 74 km Luftlinie von Stuttgart.",
+"frage": "Bei der Bundestagswahl 2025 wurde in Ulm die CDU stärkste Partei. Wie hoch war ihr Anteil an den Zweitstimmen?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 30 %",
+"30 bis unter 35 %",
+"35 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Baden-Württemberg gilt als CDU-Land, und auf dem Land liegt die Partei oft weit vorn. In Ulm verteilten sich die Stimmen breiter; die Grünen kamen auf 20 Prozent. Die CDU kam auf 27 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "korrigiert",
+"id": "108-ulm/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ulm",
+"steckbrief": "Großstadt an der Donau mit rund 130.000 Einwohnern, 74 km Luftlinie von Stuttgart.",
+"frage": "Ulm begeht jedes Jahr im Juli den Schwörmontag. Worauf geht dieser Tag zurück?",
+"optionen": [
+"Er erinnert an ein Gelübde in Pestzeiten.",
+"Er erinnert an das Ende einer Belagerung.",
+"Er geht auf eine mittelalterliche Stadtverfassung zurück.",
+"Er feiert die Weihe der Hauptkirche."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Gelübde aus Pestzeiten liegt nahe, denn so entstanden viele alte Feste. Der Schwörmontag geht aber auf den Großen Schwörbrief zurück, eine Stadtverfassung aus dem Mittelalter. Bis heute legt an diesem Tag der Oberbürgermeister vor den Einwohnern Rechenschaft ab. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ulm",
+"faktencheck": "korrigiert",
+"id": "108-ulm/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ulm",
+"steckbrief": "Großstadt an der Donau mit rund 130.000 Einwohnern, 74 km Luftlinie von Stuttgart.",
+"frage": "Das Museum Ulm zeigt den Löwenmenschen, eine Figur aus Mensch und Tier. Aus welcher Zeit stammt er etwa?",
+"optionen": [
+"Er entstand um 37.000 vor Christus.",
+"Er entstand um 3.000 vor Christus.",
+"Er entstand um 800 nach Christus.",
+"Er entstand um 1.450 nach Christus."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Figur im Ulmer Museum denkt man leicht an die Bildhauer der Ulmer Schule, deren Altäre bis nach Wien gingen. Ihre Werke zeigt das Museum auch. Der Löwenmensch ist aber ungleich älter: Er stammt etwa aus der Zeit um 37.000 vor Christus. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ulm",
+"faktencheck": "unsicher",
+"id": "108-ulm/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ulm",
+"steckbrief": "Großstadt mit rund 130.000 Einwohnern, 74 km Luftlinie von Stuttgart.",
+"frage": "Viele Auswanderer verließen Ulm einst mit sogenannten „Ulmer Schachteln“. Was war eine „Ulmer Schachtel“?",
+"optionen": [
+"Es war eine Truhe für das Reisegepäck.",
+"Es war ein einfaches, floßartiges Donauboot.",
+"Es war ein Planwagen mit Kastenaufbau.",
+"Es war ein Reisepass mit Stadtsiegel."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach einer Kiste fürs Gepäck. Gemeint waren aber einfache hölzerne Boote, die in Ulm gebaut wurden. Auf ihnen fuhren die Donauschwaben flussabwärts nach Südosteuropa, etwa ins Banat und in die Batschka. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ulm",
+"faktencheck": "korrigiert",
+"id": "108-ulm/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ulm",
+"steckbrief": "Großstadt an der Donau mit rund 130.000 Einwohnern, 74 km Luftlinie von Stuttgart.",
+"frage": "Für welche Ware bürgte um 1500 das „Ulmer Siegel“?",
+"optionen": [
+"Es bürgte für Wein aus dem Donautal.",
+"Es bürgte für Sensen aus Ulmer Schmieden.",
+"Es bürgte für Glocken aus Ulmer Gießereien.",
+"Es bürgte für Stoff aus Baumwolle und Leinen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Siegel denkt man an Metall- oder Edelwaren, deren Echtheit man prüfen muss. Gesiegelt wurde aber Barchent, ein Mischgewebe aus Baumwolle und Leinen. Er war in ganz Europa verbreitet und so begehrt wie Geld. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Ulm",
+"faktencheck": "unsicher",
+"id": "108-ulm/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "107-merklingen",
+"anschluss": [
+"Die Schnellfahrstrecke Wendlingen–Ulm führt über Merklingen.",
+"Kennzeichen: In Ulm und in Merklingen steht UL am Auto."
+],
+"anschluesse": {
+"109-neu-ulm": [
+"Landesgrenze: Neu-Ulm liegt in Bayern, Ulm in Baden-Württemberg.",
+"Bundestagswahl 2025: In Neu-Ulm lag die CSU vorn, in Ulm die CDU."
+],
+"107-merklingen": [
+"Die Schnellfahrstrecke Wendlingen–Ulm führt über Merklingen.",
+"Kennzeichen: In Ulm und in Merklingen steht UL am Auto."
+]
+},
+"ags": "08421000",
+"ortsteil": false,
+"km_vom_vorigen": 21.3
+},
+{
+"slug": "109-neu-ulm",
+"name": "Neu-Ulm",
+"lat": 48.38333,
+"lon": 10,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neu-Ulm",
+"steckbrief": "Stadt mit rund 63.000 Einwohnern, 2 km südlich von Ulm.",
+"frage": "Neu-Ulm wurde 1811 als eigene Gemeinde gegründet. Welchen Anlass nennt die Stadtgeschichte?",
+"optionen": [
+"Ein Hochwasser trennte die Siedlung von Ulm.",
+"Ein Vertrag legte die Landesgrenze in die Donaumitte.",
+"Ulmer Bürger flohen vor einem Stadtbrand hinüber.",
+"Ein Kloster siedelte Handwerker am Südufer an."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Hochwasser oder Stadtbrand läge nahe, denn der Name klingt nach einem Ableger Ulms. Die Stadtgeschichte nennt aber einen Vertrag zwischen Bayern und Württemberg: Die Grenze verlief fortan in der Donaumitte. Am Südufer gründete König Max I. Joseph daraufhin die Gemeinde Neu-Ulm. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, nu.neu-ulm.de/stadt-politik/stadtinfo/historie",
+"faktencheck": "bestätigt",
+"id": "109-neu-ulm/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Neu-Ulm",
+"steckbrief": "Stadt an der Donau mit rund 63.000 Einwohnern, 2 km südlich von Ulm.",
+"frage": "Auf welcher Höhe über dem Meer liegt Neu-Ulm?",
+"optionen": [
+"unter 300 m",
+"300 bis unter 450 m",
+"450 bis unter 600 m",
+"600 m und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Flussstädte wirken tief gelegen, und bei der Donau denkt man ans flache Delta am Schwarzen Meer. Die Quellen nennen für Neu-Ulm aber 471 und 474 Meter über dem Meer. Richtig war 3.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "109-neu-ulm/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Neu-Ulm",
+"steckbrief": "Stadt mit rund 63.000 Einwohnern, 2 km südlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Wappenturm erinnert an eine mittelalterliche Stadtmauer.",
+"Im Zweiten Weltkrieg wurde Neu-Ulm schwer zerstört.",
+"Neu-Ulm war über Jahrzehnte eine Garnisonsstadt."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Zinnenturm im Wappen lässt an eine alte Stadtmauer denken, wie viele Städte sie zeigen. Doch der Name „Neu-Ulm“ hätte stutzig machen können: Der silberne Turm steht für die Festungsanlage. Wahr sind die Garnisonszeit und die schweren Zerstörungen durch Bomben im Zweiten Weltkrieg. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, nu.neu-ulm.de/stadt-politik/stadtinfo/historie",
+"faktencheck": "bestätigt",
+"id": "109-neu-ulm/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Neu-Ulm",
+"steckbrief": "Bayerische Stadt mit rund 63.000 Einwohnern, 2 km südlich von Ulm.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Neu-Ulm nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"Grüne",
+"SPD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im benachbarten Ulm kamen die Grünen auf Platz zwei, das liegt nahe. In Neu-Ulm folgte auf die CSU mit 32,1 % aber die AfD mit 18,8 %, vor Grünen (14 %) und SPD (13,5 %). Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "109-neu-ulm/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neu-Ulm",
+"steckbrief": "Stadt mit rund 63.000 Einwohnern, 2 km südlich von Ulm.",
+"frage": "Der Neu-Ulmer Ehrenbürger Hermann Köhl flog 1928 mit zwei Begleitern von Irland über den Atlantik bis auf eine Insel vor Labrador. Wie hieß sein Flugzeug?",
+"optionen": [
+"Das Flugzeug hieß „Schwaben“.",
+"Das Flugzeug hieß „Bremen“.",
+"Das Flugzeug hieß „Atlantis“.",
+"Das Flugzeug hieß „Donau“."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. „Schwaben“ oder „Donau“ klängen heimatlich. Doch die Junkers-Maschine hieß „Bremen“. Neu-Ulm machte Köhl zum Ehrenbürger und benannte die Friedrichstraße, in der er wohnte, in Hermann-Köhl-Straße um. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, nu.neu-ulm.de/stadt-politik/stadtinfo/ehrenbuerger",
+"faktencheck": "korrigiert",
+"id": "109-neu-ulm/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Neu-Ulm",
+"steckbrief": "Stadt mit rund 63.000 Einwohnern, 2 km südlich von Ulm.",
+"frage": "Wie weit ist es in Luftlinie von Neu-Ulm bis zur Landeshauptstadt des eigenen Bundeslands?",
+"optionen": [
+"unter 50 km",
+"50 bis unter 100 km",
+"100 bis unter 150 km",
+"150 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an Ulm denkt, denkt an Stuttgart als Landeshauptstadt und schätzt kürzer. Neu-Ulm aber gehört zu Bayern, und bis München sind es 120 km Luftlinie. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "109-neu-ulm/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neu-Ulm",
+"steckbrief": "Stadt mit rund 63.000 Einwohnern, 2 km südlich von Ulm.",
+"frage": "Seit 2007 halten die Züge in Neu-Ulm in einem Tiefbahnhof. Wie hieß das Projekt, mit dem er entstand?",
+"optionen": [
+"Das Projekt hieß „Donaubahnhof 2000“.",
+"Das Projekt hieß „Schiene Schwaben“.",
+"Das Projekt hieß „Bahnstadt Neu-Ulm“.",
+"Das Projekt hieß „Neu-Ulm 21“."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Name mit Donau oder Schwaben läge für ein Bahnprojekt in Neu-Ulm nahe. Es hieß aber „Neu-Ulm 21“ und erinnert damit an Stuttgart 21. Im Zuge des Ausbaus der ICE-Schnellbahnstrecke Stuttgart–München wurden die Bahnanlagen abgesenkt; aus dem oberirdischen Bahnhof entstand ein Tiefbahnhof. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, nu.neu-ulm.de/stadt-politik/stadtinfo/historie",
+"faktencheck": "korrigiert",
+"id": "109-neu-ulm/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neu-Ulm",
+"steckbrief": "Stadt mit rund 63.000 Einwohnern, 2 km südlich von Ulm.",
+"frage": "Der Stadtteil Schwaighofen ging aus Höfen an der Straße nach Reutti hervor. Woher stammt sein Name?",
+"optionen": [
+"Die Höfe wurden nach ihren eigenen Viehweiden benannt.",
+"Ein Bauer der Höfe gab ihnen seinen Familiennamen.",
+"Er stammt von einem verschwundenen mittelalterlichen Ort.",
+"Bayerische Beamte erfanden ihn bei der Stadtgründung."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. „Schwaig“ klingt nach Viehhof, und alte Gehöfte und Kuhweiden prägen den Stadtteil noch – das liegt nahe. Doch die Riedhöfe, die nie selbstständig waren, übernahmen den Namen eines abgegangenen, also verschwundenen Orts, der schon im Mittelalter urkundlich genannt wurde. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, nu.neu-ulm.de/stadt-politik/stadtinfo/stadtteile",
+"faktencheck": "korrigiert",
+"id": "109-neu-ulm/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neu-Ulm",
+"steckbrief": "Stadt mit rund 63.000 Einwohnern, 2 km südlich von Ulm.",
+"frage": "1991 machte Neu-Ulm den US-Botschafter Vernon A. Walters zum Ehrenbürger. Welches Verdienst nennt die Stadt?",
+"optionen": [
+"Er half, frühere US-Militärareale freizugeben.",
+"Er bewahrte Neu-Ulm im Krieg vor Bomben.",
+"Er holte zusätzliche US-Truppen nach Neu-Ulm.",
+"Er brachte ein Schüleraustauschprogramm nach Neu-Ulm."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Austauschprogramm läge bei einem Diplomaten nahe. Die Stadt nennt aber Handfesteres: Walters half, ehemalige US-Areale freizugeben. Das frühere US-Militärgebiet Wiley wurde in den Stadtteil Ludwigsfeld eingegliedert. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, nu.neu-ulm.de/stadt-politik/stadtinfo/ehrenbuerger",
+"faktencheck": "bestätigt",
+"id": "109-neu-ulm/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "108-ulm",
+"anschluss": [
+"Kennzeichen: In Ulm steht UL am Auto, in Neu-Ulm NU.",
+"Ein Vertrag zwischen Ulm und Neu-Ulm führte zum Illerkanal."
+],
+"anschluesse": {
+"108-ulm": [
+"Kennzeichen: In Ulm steht UL am Auto, in Neu-Ulm NU.",
+"Ein Vertrag zwischen Ulm und Neu-Ulm führte zum Illerkanal."
+]
+},
+"ags": "09775135",
+"ortsteil": false,
+"km_vom_vorigen": 1.8
+},
+{
+"slug": "110-guenzburg",
+"name": "Günzburg",
+"lat": 48.4525,
+"lon": 10.27111,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Günzburg",
+"steckbrief": "Kreisstadt mit rund 21.000 Einwohnern, 21 km östlich von Ulm.",
+"frage": "Am Platz des heutigen Günzburg lag die römische Siedlung Gontia. Woher hatte sie ihren Namen?",
+"optionen": [
+"Der Name ehrte eine keltische Flussgottheit.",
+"Der Name ehrte einen römischen Kaiser.",
+"Der Name ehrte einen römischen Feldherrn.",
+"Der Name stammte von einem keltischen Stammesfürsten."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Römische Orte trugen oft Namen von Kaisern oder Feldherren, das liegt nahe. Gontia aber hieß nach einer keltischen Flussgottheit, die auch die Römer verehrten. Der Ort lag an einem Donauübergang und Straßenkreuzungspunkt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.guenzburg.de/geschichte-zukunft/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "110-guenzburg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Günzburg",
+"steckbrief": "Kreisstadt mit rund 21.000 Einwohnern, 21 km östlich von Ulm.",
+"frage": "Wie viele Einwohner kommen in Günzburg im Schnitt auf einen Quadratkilometer Stadtgebiet?",
+"optionen": [
+"unter 200",
+"200 bis unter 500",
+"500 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt dieser Größe denkt man an dichte Bebauung. Doch zu Günzburg gehören eingemeindete Dörfer, viel Wald und noch mehr Landwirtschaftsfläche. So kommen nur rund 384 Einwohner auf einen Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "110-guenzburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Günzburg",
+"steckbrief": "Kreisstadt mit rund 21.000 Einwohnern, 21 km östlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Günzburg wurde jahrhundertelang von den Habsburgern regiert.",
+"Napoleon wurde in Günzburg als Befreier gefeiert.",
+"Mit der Eisenbahn begann in Günzburg die Industrie."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Napoleon beendete die Herrschaft der Habsburger über Günzburg, das klingt nach Befreiung. Die Stadtgeschichte nennt ihn aber einen ungeliebten Gast. Er gliederte Günzburg ins Königreich Bayern ein. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.guenzburg.de/geschichte-zukunft/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "110-guenzburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Günzburg",
+"steckbrief": "Kreisstadt mit rund 21.000 Einwohnern, 21 km östlich von Ulm.",
+"frage": "Wie hoch war die Wahlbeteiligung in Günzburg bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 75 %",
+"75 bis unter 78 %",
+"78 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an Wahlmüdigkeit denkt, schätzt die Beteiligung niedrig. In Günzburg gaben bei der Bundestagswahl 2025 aber 78,5 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "110-guenzburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Günzburg",
+"steckbrief": "Kreisstadt mit rund 21.000 Einwohnern, 21 km östlich von Ulm.",
+"frage": "Neujahr 1806 war Günzburg gerade bayerisch geworden. Welchen Satz soll Pfarrer Feuchtmayer da gepredigt haben?",
+"optionen": [
+"Wohl wegen unserer Sünden verdienen wir nichts Besseres.",
+"Gott selbst hat uns von Österreich befreit.",
+"Nun bricht für Günzburg eine goldene Zeit an.",
+"Bayern und Österreich sind vor Gott gleich."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Von der Kanzel erwartet man zum Neujahr Dank an die neue Obrigkeit oder wenigstens Trost. Pfarrer Feuchtmayer soll bissig gepredigt haben: „Jetzt sind wir also bayerisch geworden – wahrscheinlich haben wir es wegen unserer Sünden auch nicht besser verdient!“ Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.guenzburg.de/geschichte-zukunft/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "110-guenzburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Günzburg",
+"steckbrief": "Kreisstadt mit rund 21.000 Einwohnern, 21 km östlich von Ulm.",
+"frage": "Wie weit ist Günzburg in Luftlinie von der Landeshauptstadt München entfernt?",
+"optionen": [
+"unter 80 km",
+"80 bis unter 120 km",
+"120 bis unter 160 km",
+"160 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer Günzburg mit Ulm verbindet, rückt es gedanklich weit von München weg. In Luftlinie sind es rund 103 Kilometer bis zur Landeshauptstadt. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "110-guenzburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Günzburg",
+"steckbrief": "Kreisstadt mit rund 21.000 Einwohnern, 21 km östlich von Ulm.",
+"frage": "Der Freizeitpark LEGOLAND hat Günzburg zu einem bedeutenden Tourismus-Standort gemacht. Wann wurde er eröffnet?",
+"optionen": [
+"Der Park wurde 1992 eröffnet.",
+"Der Park wurde 1996 eröffnet.",
+"Der Park wurde 2002 eröffnet.",
+"Der Park wurde 2008 eröffnet."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. LEGO-Steine kennt man seit Generationen, darum schätzen viele den Park älter. LEGOLAND in Günzburg wurde aber erst 2002 eröffnet. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.guenzburg.de/geschichte-zukunft/stadtportraet/",
+"faktencheck": "korrigiert",
+"id": "110-guenzburg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Günzburg",
+"steckbrief": "Kreisstadt mit rund 21.000 Einwohnern, 21 km östlich von Ulm.",
+"frage": "Nach einem Brand 1735 wurde die Günzburger Frauenkirche neu gebaut. Welcher Baumeister schuf den Neubau?",
+"optionen": [
+"Balthasar Neumann war ihr Baumeister.",
+"Dominikus Zimmermann war ihr Baumeister.",
+"Johann Michael Fischer war ihr Baumeister.",
+"Enrico Zuccalli war ihr Baumeister."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Balthasar Neumann ist der große Name des süddeutschen Barock, da liegt er nahe. Den Neubau im Rokoko schuf aber der Wessobrunner Dominikus Zimmermann, bekannt durch die Wieskirche. Der Brand hatte die ganze Nordhälfte der Oberstadt erfasst. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.guenzburg.de/geschichte-zukunft/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "110-guenzburg/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Günzburg",
+"steckbrief": "Kreisstadt mit rund 21.000 Einwohnern, 21 km östlich von Ulm.",
+"frage": "Im Mai 1803 stieg Günzburg kurzzeitig zur Hauptstadt auf. Wovon?",
+"optionen": [
+"Sie wurde Hauptstadt von Baden.",
+"Sie wurde Hauptstadt der Schweiz.",
+"Sie wurde Hauptstadt von Salzburg.",
+"Sie wurde Hauptstadt von Vorderösterreich."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In der Napoleonzeit wurden Länder ständig neu zugeschnitten, da klingt vieles möglich. Günzburg wurde für kurze Zeit Landeshauptstadt von Vorderösterreich, den habsburgischen Besitzungen im Südwesten. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.guenzburg.de/geschichte-zukunft/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "110-guenzburg/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Günzburg",
+"steckbrief": "Kreisstadt mit rund 21.000 Einwohnern, 21 km östlich von Ulm.",
+"frage": "Die Burg zwischen zwei Armen der Günz im heutigen Stadtteil Wasserburg soll 1465 niedergebrannt worden sein. Auf wessen Befehl?",
+"optionen": [
+"Kaiser Friedrich III. gab den Befehl dazu.",
+"Der Bischof von Augsburg gab den Befehl dazu.",
+"Der Pfalzgraf bei Rhein gab den Befehl dazu.",
+"Der König von Böhmen gab den Befehl dazu."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Burgen fielen oft Fehden benachbarter Herren zum Opfer, daher denkt man an einen Bischof oder Fürsten. Den Befehl soll aber Kaiser Friedrich III. gegeben haben: Die Burg soll angezündet und dem Erdboden gleichgemacht worden sein. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.guenzburg.de/geschichte-zukunft/stadtteile/",
+"faktencheck": "korrigiert",
+"id": "110-guenzburg/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "109-neu-ulm",
+"anschluss": [
+"Neu-Ulm hat rund dreimal so viele Einwohner wie Günzburg.",
+"Bundestagswahl 2025: Neu-Ulm hatte eine höhere Wahlbeteiligung als Günzburg."
+],
+"anschluesse": {
+"109-neu-ulm": [
+"Neu-Ulm hat rund dreimal so viele Einwohner wie Günzburg.",
+"Bundestagswahl 2025: Neu-Ulm hatte eine höhere Wahlbeteiligung als Günzburg."
+]
+},
+"ags": "09774135",
+"ortsteil": false,
+"km_vom_vorigen": 21.4
 }
 ]
 }
