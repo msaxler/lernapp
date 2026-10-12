@@ -1,0 +1,387 @@
+ZIELORT: Bischofsheim (Gemeinde)
+LAGE: 5 km östlich von Mainz (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Bischofsheim (Mainspitze)
+
+GRUNDDATEN:
+  landkreis: Groß-Gerau  [dewiki Infobox]
+  bundesland: Hessen  [dewiki Infobox]
+  einwohner: 13.034  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 9,03  [Wikidata P2046]
+  dichte_ew_km2: 1443  [berechnet aus Einwohner und Fläche]
+  kfz: GG (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 86  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2948290)]
+  naechste_grossstadt: Mainz, 5 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Wiesbaden, 13 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Mainz-Bischofsheim  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 65474  [Wikidata P281]
+  vorwahl: 06144  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 25,8 %, SPD 22,3 %, AfD 15,5 %, GRÜNE 13,1 %, Die Linke 10,7 %; Wahlbeteiligung 82,9 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Lisa Gößwein (SPD) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-12]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT einwohner: Einwohnerzahl (Ersatz: Fläche der Gemarkung), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Einwohner je Quadratkilometer), C, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Groß-Gerau (Stadt)
+  landkreis: Groß-Gerau  [dewiki Infobox]
+  einwohner: 25.401  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 54,47  [Wikidata P2046; Altbestand staedte.json]
+  kfz: GG (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 88 | 89 | 95 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2915613)]
+  naechste_grossstadt: Darmstadt, 13 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Groß Gerau, Bahnhof Groß Gerau-Dornheim, Bahnhof Nauheim  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 28,4 %, SPD 20,6 %, AfD 14,9 %, GRÜNE 12,4 %, Die Linke 9,4 %, BSW 5,3 %; Wahlbeteiligung 82,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg
+
+FAKTEN (Zielort Bischofsheim):
+ID: 139-bischofsheim/001
+ENTITÄT: ort
+BEZEICHNUNG: Bischofsheim
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: Mainbiegung (Wort "bieschen" = biegen)
+  erste_urkundliche_erwaehnung: 11. Jahrhundert als "Bissescheim circa menum"
+  gueltig_ab: 1100
+---
+ID: 139-bischofsheim/002
+ENTITÄT: ort
+BEZEICHNUNG: Bischofsheim
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  teil_der_megunzer_mark: true
+  beziehung_zu_mainz_ab: 1200
+  grundherrschaften_ab_1331: Graf Rudolf von Wertheim und Gottfried von Eppstein
+  grund_zwei_schultheim: zwei Grundherren erforderten zwei Ortsoberhäupter
+  zweiteilung_dauer: 248 Jahre
+  eppsteiner_anteil_wechsel_1478: Herren von Erlenbach → Philipp von Katzenelnbogen
+  grund_hessen_teil: Anna von Katzenelnbogen heiratete Landgraf Heinrich III.
+  wertheimer_besitz_ab_1348: Erzstift Mainz
+  vollstaendig_hessisch_ab: 1579
+  grund_hessisch_1579: Landgraf Georg I. von Hessen erwirbt zweiten Teil
+  gueltig_ab: 1200
+  gueltig_bis: 1579
+---
+ID: 139-bischofsheim/003
+ENTITÄT: ort
+BEZEICHNUNG: Bischofsheim
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 455
+  gueltig_ab: 1629
+---
+ID: 139-bischofsheim/004
+ENTITÄT: ort
+BEZEICHNUNG: Bischofsheim
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 63
+  grund_bestand: Dreißigjähriger Krieg, Mord, Verwüstung und Pest
+  gueltig_ab: 1641
+---
+ID: 139-bischofsheim/005
+ENTITÄT: ort
+BEZEICHNUNG: Bischofsheim
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verwaltungsform: Großherzogtum Hessen (vorher Landgrafschaft)
+  gueltig_ab: 1806
+---
+ID: 139-bischofsheim/006
+ENTITÄT: ort
+BEZEICHNUNG: Bischofsheim
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Stadtteil von Mainz
+  grund_stadtteil: administrative Änderung nach WK I
+  mit_stadtteil: auch Ginsheim-Gustavsburg, Kastel, Kostheim, Amöneburg
+  gueltig_ab: 1930
+  gueltig_bis: 1945
+---
+ID: 139-bischofsheim/007
+ENTITÄT: ort
+BEZEICHNUNG: Bischofsheim
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  administrative_zone_wk2_ende: amerikanische Besatzungszone
+  verwaltungszugehörigkeit: Land Hessen (neu gegründet)
+  bahnstation_name: Mainz-Bischofsheim
+  grund_stationsname_beibehalt: historische Kontinuität
+  gueltig_ab: 1945
+  ist_vermutlich_aktuell: true
+---
+ID: 139-bischofsheim/008
+ENTITÄT: ort
+BEZEICHNUNG: Bischofsheim
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  landkreis: Groß-Gerau
+  gueltig_ab: 1945
+  ist_vermutlich_aktuell: true
+---
+ID: 139-bischofsheim/009
+ENTITÄT: ort
+BEZEICHNUNG: Bischofsheim
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wirtschaftliche_charakterisierung: Bauerndorf → Eisenbahnergemeinde
+  grund_transformation: Bau der Ludwigsbahn zog Arbeiter mit Familien an
+  einwohner_1870_bis_1911: 4500
+  grund_wachstum: Eisenbahner aus ganz Deutschland, Arbeitskräfte aus Opel Rüsselsheim und MAN Gustavsburg
+---
+ID: 139-bischofsheim/010
+ENTITÄT: ort
+BEZEICHNUNG: Bischofsheim
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 13842
+  bevoelkerungsdichte: 1480
+  einheit_bevoelkerungsdichte: Einwohner/km²
+  flaeche: 9.03
+  einheit_flaeche: Quadratkilometer
+  gueltig_ab: 2026
+  gueltig_bis: 2026
+  ist_vermutlich_aktuell: true
+---
+ID: 139-bischofsheim/011
+ENTITÄT: ort
+BEZEICHNUNG: Bischofsheim
+QUELLE: https://bischofsheim.de/wirtschaft/zahlen-daten-fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschaeftigte: 2927
+  einpendler: 2441
+  auspendler: 5133
+  gueltig_ab: 2024
+---
+ID: 139-bischofsheim/012
+ENTITÄT: ort
+BEZEICHNUNG: Bischofsheim
+QUELLE: https://bischofsheim.de/wirtschaft/zahlen-daten-fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kaufkraft_einzelhandel_insgesamt: 97.7
+  einheit_kaufkraft: Millionen Euro
+  kaufkraft_pro_einwohner: 7671
+  einheit_kaufkraft_einwohner: Euro
+  kaufkraftkennziffer: 97.6
+  ranking_gemeindecheck: Platz 13 von 10817
+  gueltig_ab: 2025
+---
+ID: 139-bischofsheim/013
+ENTITÄT: ort
+BEZEICHNUNG: Bischofsheim
+QUELLE: https://bischofsheim.de/wirtschaft/zahlen-daten-fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gewerbesteuer_hebesatz: 420
+  grundsteuer_a_hebesatz: 540
+  grundsteuer_b_hebesatz: 950
+---
+ID: 139-bischofsheim/014
+ENTITÄT: ort
+BEZEICHNUNG: Bischofsheim
+QUELLE: https://bischofsheim.de/startseite/bischofsheim-im-ueberblick/wappen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wappen_schild_teilung: quergeteiltes Schild
+  wappen_oberer_teil: hessischer Löwe, golden gekrönt und bewehrt, fünfmal von Silber und Rot geteilt
+  wappen_unterer_teil: zwei Kreise durch Bogen verbunden, Brille mit schwarzer Einfassung
+  wappen_ursprung: Gerichtssiegel von 1582
+  wappen_scherzhafte_bezeichnung: Brille
+  wappen_erstellung: 1926
+  grund_wappen_erstellung: Veranlassung des Hessischen Ministeriums
+  urkunde_zur_wappenfuehrung_datum: 27.10.1926
+  gueltig_ab: 1926
+  ist_vermutlich_aktuell: true
+---
+ID: 139-bischofsheim/015
+ENTITÄT: bauwerk
+BEZEICHNUNG: Rathaus
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1651
+  grund_erbauung: eines der ersten neuen Häuser nach Westfälischem Frieden 1648
+  anlass_westfaelischer_frieden: Beendigung der Kriegswirren und Pest
+  heutige_nutzung: Museum
+  gueltig_ab: 1651
+---
+ID: 139-bischofsheim/016
+ENTITÄT: bauwerk
+BEZEICHNUNG: Wasserturm
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1912
+  funktion_historisch: Wasserspeicherung für Eisenbahn
+  status: Wahrzeichen der Gemeinde
+  status_heute: denkmalgeschützt
+  beschreibung: erinnert an große Zeiten der Dampfloks
+  dampfloks_basisbestand: über 100 in Bischofsheim beheimatet
+  gueltig_ab: 1912
+  ist_vermutlich_aktuell: true
+---
+ID: 139-bischofsheim/017
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bischofsheimer Bahnhof
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1858
+  grund_errichtung: Hessische Ludwigsbahn-Gesellschaft
+  streckenverlaeufer: Aschaffenburg - Darmstadt - Bischofsheim - Gustavsburg
+  anfaengliche_bauweise: eingleisig
+  faehrverbindung: ja, zu Mainz
+  mainzer_suedbruecke_fertig: Dezember 1862
+  grund_suedbruecke: Eisenbahn kann Rhein überwinden
+  mainbahn_anbindung: 1862
+  funktion_ausbau: Trennung von Personen- und Güterverkehr
+  anzahl_bahnhoefe: 2
+  status: Verkehrsknotenpunkt im Großraum Mainz-Wiesbaden
+  groesstenteils_gueterbahnhof: ja
+  zeitraum_groesstes_gueterbahnhof: Wende 19./20. Jahrhundert bis 1960er Jahre
+  gueltin_ab_gueterbahnhof: 1900
+  gueltig_bis_gueterbahnhof: 1960
+  zugbildungen_historisch: Gotthardtunnel nach Norditalien, Rheintal zum Hafen Rotterdam
+  status_verloren_seit: 1970er Jahre
+  gueltig_ab: 1858
+---
+ID: 139-bischofsheim/018
+ENTITÄT: siedlung
+BEZEICHNUNG: Am Alten Gerauer Weg
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1927-1928
+  architektonische_besonderheit: flache Dächer (damals unüblich)
+  volksmund_bezeichnung: Jerusalem
+  grund_name: Bevölkerung erinnerte sich an Vorderen Orient
+  status_heute: denkmalgeschützt
+  gueltig_ab: 1927
+---
+ID: 139-bischofsheim/019
+ENTITÄT: ereignis
+BEZEICHNUNG: Bombardierung im Zweiten Weltkrieg
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grund_bombardierung: Bahnhof als Eisenbahnknotenpunkt
+  schwerpunkt_datum: 25. März 1945
+  hauser_vollstaendig_zerstoert: 60
+  hauser_schwer_beschaedigt: 65
+  hauser_leicht_beschaedigt: 446
+  todesopfer: über 120
+  gueltig_ab: 1945
+---
+ID: 139-bischofsheim/020
+ENTITÄT: ereignis
+BEZEICHNUNG: Infotafeln zum Ortsdamm
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 7
+  titel: Bischofsheim - der Ortsdamm im Wandel der Zeiten
+  sprachen: Deutsch, Englisch, Polnisch
+  thema: Entwicklung Bischofsheims und Rolle des Ortsdamms
+  beschreibung: Infotafeln im Ortsgebiet mit Fotos und Begleittext
+  gueltig_ab: unbekannt
+  ist_vermutlich_aktuell: true
+---
+ID: 139-bischofsheim/021
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Ortsdamm
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Hochwasserschutz
+  gueltig_ab: 1700
+  genauigkeit: ca.
+  ist_vermutlich_aktuell: true
+---
+ID: 139-bischofsheim/022
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Hexendamm
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: längst verschwundenes Tor an der Darmstädter Straße
+  status: nicht mehr vorhanden
+  ist_vermutlich_aktuell: false
+---
+ID: 139-bischofsheim/023
+ENTITÄT: ereignis
+BEZEICHNUNG: Stolpersteine Verlegung
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum_erste_verlegung: 05.02.2024
+  anzahl_erste_verlegung: 14
+  standorte_anzahl: 3
+  beschreibung_standorte: Wohnorte jüdischer Bürgerinnen und Bürger
+  besucher_herkunft: Nachfahren aus Niederlanden, USA, Kanada, Australien
+  kuenstler_demnig: Gunter Demnig
+  kunstprojekt_seit: 1995
+  kunstprojekt_verbreitug: über 1000 Kommunen in Deutschland und europäischem Ausland
+  kunstprojekte_anzahl: über 100000 Steine
+  initiative_traeger: Heimat- und Geschichtsverein
+  ziel_projekt: Erinnerung an Menschen, die verfolgt, deportiert oder ermordet wurden
+  gueltig_ab: 2024
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.95
+---
+ID: 139-bischofsheim/024
+ENTITÄT: religionsgemeinschaft
+BEZEICHNUNG: Evangelische Kirchengemeinde
+QUELLE: https://bischofsheim.de/leben-und-wohnen/kirchen-religioese-einrichtungen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religion: evangelisch
+  gueltig_ab: unbekannt
+  ist_vermutlich_aktuell: true
+---
+ID: 139-bischofsheim/025
+ENTITÄT: religionsgemeinschaft
+BEZEICHNUNG: Katholische Gemeinde Christkönig
+QUELLE: https://bischofsheim.de/leben-und-wohnen/kirchen-religioese-einrichtungen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religion: katholisch
+  gueltig_ab: unbekannt
+  ist_vermutlich_aktuell: true
+---
+ID: 139-bischofsheim/026
+ENTITÄT: religionsgemeinschaft
+BEZEICHNUNG: Türkisch-Islamischer Kulturverein (DITIB)
+QUELLE: https://bischofsheim.de/leben-und-wohnen/kirchen-religioese-einrichtungen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religion: islam
+  gueltig_ab: unbekannt
+  ist_vermutlich_aktuell: true
+---
+ID: 139-bischofsheim/027
+ENTITÄT: charakterisierung_heute
+BEZEICHNUNG: Bischofsheim
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  dorfliches_leben: vielen Vereinen
+  multikulturalität: Menschen aus vielen Nationen
+  ortsmitte_charakterisierung: historisch mit Fachwerkhäusern
+  wohngebiete: viel Grün
+  ortskern: lebendig mit Geschäften
+  großmaerkte_umgebung: ja
+  verkehrsanbindung: Direktverbindungen S-Bahn und Regionalbahn nach Frankfurt, Wiesbaden, Mainz, Darmstadt
+  flughafen_frankfurt_naehe: nah
+  flughafen_bedeutung_fuer_firmen: geschätzt
+  flughafen_belaestigung: Lärmbelastung
+  ist_vermutlich_aktuell: true
+---
+ID: 139-bischofsheim/028
+ENTITÄT: fest
+BEZEICHNUNG: Fastnachtszeit
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  komponenten: Sitzungen, Erstürmung des Rathauses, Fastnachtsumzug
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+---
+ID: 139-bischofsheim/029
+ENTITÄT: fest
+BEZEICHNUNG: Bischofsheimer Kerb
+QUELLE: https://bischofsheim.de/leben-und-wohnen/geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: lokales Volksfest
+  ist_vermutlich_aktuell: true
+  vertrauen_extraktion: 0.9
+

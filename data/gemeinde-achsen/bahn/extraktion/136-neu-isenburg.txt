@@ -1,0 +1,372 @@
+ENTITÄT: ort
+BEZEICHNUNG: Neu-Isenburg
+QUELLE: https://www.neu-isenburg.de/rathaus_und_service/buergeramt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_stadt: true
+  postleitzahl: 63263
+  ist_im_foerdergebiet: "Wachstum und nachhaltige Erneuerung"
+  foerdergebiet_name: "Vom Alten Ort zur Neuen Welt"
+  foerdergebiet_laufzeit_jahre: "ca. 15"
+  gesamtinvestitionsvolumen_foerdergebiet_euro: "über 25000000"
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Neu-Isenburg
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://stadtumbau.neu-isenburg.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_foerdergebiet: "Alter Ort, Frankfurter Straße zwischen Friedensallee und Friedhofstraße, Fußgängerzone, Neue Welt"
+  handlungsfelder_stadtumbau: "Verkehr und Mobilität, Städtebau und Wohnen, Soziale Infrastruktur Kultur und Freizeit, Lokale Ökonomien Gastronomie und Einzelhandel, Klimaschutz und Klimaanpassung"
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Gravenbruch
+QUELLE: https://www.neu-isenburg.de/rathaus_und_service/buergeramt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_ortsteil_von: Neu-Isenburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Zeppelinheim
+QUELLE: https://www.neu-isenburg.de/rathaus_und_service/buergeramt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_ortsteil_von: Neu-Isenburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+
+---
+
+ENTITÄT: gebaeude_rathaus
+BEZEICHNUNG: Rathaus
+QUELLE: https://www.neu-isenburg.de/rathaus_und_service/sicherheit/Notfallinformationen-fuer-Neu-Isenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Hugenottenallee 53, 63263 Neu-Isenburg"
+  funktion: "Verwaltungssitz, Katastrophenschutz-Leuchtturm"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buergeramt
+BEZEICHNUNG: Bürgeramt Kernstadt
+QUELLE: https://www.neu-isenburg.de/rathaus_und_service/buergeramt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Schulgasse 1, 63263 Neu-Isenburg"
+  telefon: "06102 241-100"
+  email: "buergeramt stadt-neu-isenburg de"
+  tiefgarage_zufahrt: "Ludwigstraße zwischen Hausnummern 56 und 59"
+  kundenparkplaetze: 4
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buergeramt
+BEZEICHNUNG: Bürgeramt Gravenbruch
+ORTSTEIL_BEZUG: Gravenbruch
+QUELLE: https://www.neu-isenburg.de/rathaus_und_service/buergeramt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Dreiherrnsteinplatz 4, 63263 Neu-Isenburg"
+  telefon: "06102 5477, 06102 756361"
+  email: "buergeramt stadt-neu-isenburg de"
+  funktion: "Katastrophenschutz-Leuchtturm"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buergeramt
+BEZEICHNUNG: Bürgeramt Zeppelinheim
+ORTSTEIL_BEZUG: Zeppelinheim
+QUELLE: https://www.neu-isenburg.de/rathaus_und_service/buergeramt/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Kapitän-Lehmann-Straße 2, 63263 Neu-Isenburg"
+  telefon: "069 691069"
+  email: "buergeramt stadt-neu-isenburg de"
+  funktion: "Katastrophenschutz-Leuchtturm"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Neu-Isenburg, Kernstadt
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.neu-isenburg.de/rathaus_und_service/sicherheit/feuerwehr | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Sankt-Florian-Str. 2, 63263 Neu-Isenburg"
+  telefon: "06102 - 742-4"
+  fax: "06102 - 742-599"
+  email: "info ffni org"
+  stadtbrandinspektor: "Philipp Tsangos"
+  wehrfuehrer: "Thomas Schulze"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: feuerwehr
+BEZEICHNUNG: Freiwillige Feuerwehr Neu-Isenburg, Zeppelinheim
+ORTSTEIL_BEZUG: Zeppelinheim
+QUELLE: https://www.neu-isenburg.de/rathaus_und_service/sicherheit/feuerwehr | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Lange Schneise 1, 63263 Neu-Isenburg"
+  telefon: "069/693132"
+  fax: "069/69525705"
+  email: "info feuerwehr-zeppelinheim de"
+  website: "www.feuerwehr-zeppelinheim.de"
+  wehrfuehrer: "Udo Bachmann"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude_veranstaltungshalle
+BEZEICHNUNG: Hugenottenhalle
+QUELLE: https://www.neu-isenburg.de/sitemap | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Frankfurter Straße 152, Neu-Isenburg"
+  funktion: "Veranstaltungsort, Kulturort, Katastrophenschutz-Leuchtturm"
+  hat_werbeturm: true
+  werbeturm_funktion: "sendet Nachrichten bei Notlagen"
+  ist_umbau_betroffen: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude_buegerhaus
+BEZEICHNUNG: Bürgerhaus Zeppelinheim
+ORTSTEIL_BEZUG: Zeppelinheim
+QUELLE: https://www.neu-isenburg.de/sitemap | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Kapitän-Lehmann-Straße 2, 63263 Neu-Isenburg"
+  funktion: "Bürgerhaus, Katastrophenschutz-Leuchtturm"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gebaeude_stadtteilzentrum
+BEZEICHNUNG: Stadtteilzentrum West
+QUELLE: https://www.neu-isenburg.de/sitemap | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: "Stadtteilzentrum"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Haus zum Löwen
+QUELLE: https://www.haus-zum-loewen.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_stadtmuseum: true
+  themenschwerpunkte: "Gründung und Entstehung des Dorfes, theologische Aspekte und Lebensweise der Hugenotten, wirtschaftliche und demografische Entwicklung zur Stadt"
+  hat_dauerausstellung: true
+  hat_sonderausstellungen: true
+  urspruengliche_funktion: "erstes Gasthaus der hugenottischen Siedler"
+  hat_aeppelwoistub: true
+  umfang: "300 Jahre Stadtgeschichte in drei Stockwerken"
+  beschreibung: "prominente Isenburger stehen in jeder Abteilung für ihre Zeit oder besondere Schwerpunkte"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Zeppelin-Museum
+QUELLE: https://www.neu-isenburg.de/sitemap | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: "Museum"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Seminar- und Gedenkstätte Bertha Pappenheim
+QUELLE: https://gedenkbuch.neu-isenburg.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Taunusstraße 9, Haus I"
+  thema: "Leben und Werk Bertha Pappenheims"
+  oeffnung_jahr: 1996
+  location_ehemals: "ehemaliges Heim des Jüdischen Frauenbundes"
+  gruender: "Stadt Neu-Isenburg"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: heim
+BEZEICHNUNG: Heim "Isenburg"
+QUELLE: https://gedenkbuch.neu-isenburg.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruender: "Jüdischer Frauenbund"
+  gruendung_datum: "25. November 1907"
+  adresse: "Taunusstraße 9, Haus I"
+  zielgruppe: "sozial entwurzelte jüdische Mädchen, unverheiratete Schwangere und ledige Mütter mit Kindern"
+  beschreibung_geschichte: "Heimbewohnerinnen während des Zweiten Weltkriegs deportiert und ermordet; überlebende Shoah-Opfer erfasst"
+GUELTIG_AB: 1907
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gedenkbuch
+BEZEICHNUNG: Gedenkbuch
+QUELLE: https://gedenkbuch.neu-isenburg.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  website: "gedenkbuch.neu-isenburg.de"
+  thema: "Heimbewohnerinnen und Heimbewohner, die während des Zweiten Weltkriegs deportiert und ermordet wurden, sowie Überlebende der Shoah"
+  umfang: "Namen, persönliche Daten und Biographien soweit ermittelbar"
+  entwicklung: "wächst und verändert sich ständig über neue Recherchen"
+  bezug_heim: "Heim Isenburg"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bertha Pappenheim
+QUELLE: https://gedenkbuch.neu-isenburg.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "eine der wichtigsten deutschsprachigen Frauenrechtlerinnen und Sozialreformerinnen im frühen 20. Jahrhundert"
+  zeitraum: "frühjahr 20. Jahrhundert"
+  bezug_zu_ort: "Heim Isenburg gegründet durch ihre Organisation"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz Völker
+QUELLE: https://www.haus-zum-loewen.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: "Sänger, Tenor"
+  beschreibung: "von Neu-Isenburg aus die Welt erobert"
+  erwaehnung_im_museum: "haus zum Löwen"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Anny Schlemm
+QUELLE: https://www.haus-zum-loewen.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: "Sängerin, Kammersängerin"
+  beschreibung: "von Neu-Isenburg aus die Welt erobert"
+  erwaehnung_im_museum: "Haus zum Löwen"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Thomas Reiter
+QUELLE: https://www.haus-zum-loewen.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: "Astronaut"
+  beschreibung: "in der Abteilung Haus zum Löwen vertreten"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Graf Johann Philipp zu Ysenburg
+QUELLE: https://www.haus-zum-loewen.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Siedlungsgründer"
+  titel: "Graf"
+  rolle_geschichte: "Gründer der hugenottischen Siedlung"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtbibliothek
+BEZEICHNUNG: Stadtbibliothek
+QUELLE: https://www.neu-isenburg.de/sitemap | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: "Bibliothek"
+  ist_umbau_betroffen: true
+  angebote: "E-Books, Hörbücher, Filme, Musik, Lernplattformen"
+  digitale_verfuegbarkeit: "24/7"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schwimmbad
+BEZEICHNUNG: WaldSchwimmbad
+QUELLE: https://www.neu-isenburg.de/rathaus_und_service/sicherheit/Notfallinformationen-fuer-Neu-Isenburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Alicestraße 118, Neu-Isenburg"
+  funktion: "Schwimmbad, Katastrophenschutz-Leuchtturm"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: parkanlage
+BEZEICHNUNG: Waldspielpark Tannenwald
+QUELLE: https://www.neu-isenburg.de/sitemap | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: "Waldspielpark"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kulturveranstaltungsort
+BEZEICHNUNG: Terminal Zepp
+QUELLE: https://www.hugenottenhalle.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: "Kulturort"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: ausstellung
+BEZEICHNUNG: aerial.couture
+QUELLE: https://www.hugenottenhalle.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "1937 entsteht eine Serie, die LZ 129 Hindenburg kurz vor dem Unglück als Kulisse für Modeaufnahmen nutzt. Models in Luxusmode posieren am Flug- und Lufthafen Rhein-Main"
+  thema: "Luftfahrt und Mode"
+GUELTIG_AB: 2026
+GUELTIG_BIS: 2027
+GUELTIG_VON: "19. Juni 2026"
+GUELTIG_BIS_DATUM: "31. Januar 2027"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ausstellung
+BEZEICHNUNG: Stadt.Mensch.Bild
+QUELLE: https://www.hugenottenhalle.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Ausstellung über Mitmenschlichkeit, Verantwortung und eine vielfältige Stadtgesellschaft"
+  kategorie: "DiversCity Neu-Isenburg"
+  kuenstler: "Uwe Gillig, Thomas Blankenhorn, Alexander Jungmann, Leo Postl, Ardavan Safari"
+GUELTIG_AB: 2026
+GUELTIG_BIS: 2027
+GUELTIG_VON: "1. Oktober 2026"
+GUELTIG_BIS_DATUM: "21. Februar 2027"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

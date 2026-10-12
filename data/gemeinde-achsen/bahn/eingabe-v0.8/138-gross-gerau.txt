@@ -1,0 +1,680 @@
+ZIELORT: Groß-Gerau (Stadt)
+LAGE: 13 km nordwestlich von Darmstadt (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Groß-Gerau
+
+GRUNDDATEN:
+  landkreis: Groß-Gerau  [dewiki Infobox]
+  bundesland: Hessen  [dewiki Infobox]
+  einwohner: 25.401  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 54,47  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 466  [berechnet aus Einwohner und Fläche]
+  kfz: GG (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 88 | 89 | 95 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2915613)]
+  naechste_grossstadt: Darmstadt, 13 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Wiesbaden, 25 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Groß Gerau, Bahnhof Groß Gerau-Dornheim, Bahnhof Nauheim  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 64521  [Wikidata P281]
+  vorwahl: 06152  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 28,4 %, SPD 20,6 %, AfD 14,9 %, GRÜNE 12,4 %, Die Linke 9,4 %, BSW 5,3 %; Wahlbeteiligung 82,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Jörg Rüddenklau (SPD) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-12]
+  partnerstaedte: Brignoles, Tielt, Szamotuły, Bruneck  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT kfz: Kennzeichen (Ersatz: Partnerstadt), A, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Weiterstadt (Stadt)
+  landkreis: Darmstadt-Dieburg  [dewiki Infobox]
+  einwohner: 26.638  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 34,4  [Wikidata P2046; Altbestand staedte.json]
+  kfz: DA (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 105 | 109  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2811644)]
+  naechste_grossstadt: Darmstadt, 5 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Weiterstadt  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 25,8 %, SPD 21,2 %, AfD 17,8 %, GRÜNE 11,6 %, Die Linke 8,8 %, BSW 5,5 %; Wahlbeteiligung 82,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg
+
+FAKTEN (Zielort Groß-Gerau):
+ID: 138-gross-gerau/001
+ENTITÄT: ort
+BEZEICHNUNG: Groß-Gerau
+QUELLE: https://www.gross-gerau.de/Kultur-Freizeit/Sehenswertes/Geschichte-Naturlandschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besiedelung_mittelsteinzeit: 8000-5500 vor Christus
+  lage_naturraum: nördliches hessisches Ried
+  lage_geografisch: Oberrheinische Tiefebene, unweit von Rhein und Main
+  name_erstnennung_jahr: 910
+  name_erstnennung_form: geraha
+GUELTIG_AB: 8000 vor Christus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 138-gross-gerau/002
+ENTITÄT: ort
+BEZEICHNUNG: Groß-Gerau
+QUELLE: https://www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  curtis_erwähnung: königlicher Wirtschaftshof
+  curtis_erwähnung_jahr: 1002
+  stadtrechte_verleihung_jahr: 1398
+  stadtrechte_erneurung_jahr: 1663
+  einwohner_ende_18_Jahrhundert: 1450
+  sitz_kreisamt_ab: 1832
+  eisenbahn_fertigstellung: 1858
+  eisenbahn_strecke: Darmstadt-Mainz
+  erster_hauptamtlicher_buergermeister: Dr. Bernhard Lüdecke
+  erster_hauptamtlicher_buergermeister_jahr: 1926
+  europäische_partnerschaften_ab: 1959
+  eingemeindung_dornberg_jahr: 1939
+  eingemeindung_berkach_jahr: 1972
+  zusammenschluss_dornheim_wallerstädten_jahr: 1977
+  ist_kreisstadt: true
+GUELTIG_AB: 1002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 138-gross-gerau/003
+ENTITÄT: ort
+BEZEICHNUNG: Groß-Gerau
+QUELLE: https://www.gross-gerau.de/Wirtschaft-Handel/Standort-Groß-Gerau/Zahlen-Daten-Fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 27360
+  fläche_hektar: 5443
+  fläche_quadratkilometer: 54.5
+  bevölkerungswachstum_2014_zu_2024: 12.5 Prozent
+  bevölkerung_2014: 24311
+  sozialversicherungspflichtig_beschäftigte_2024: 11900
+  einpendler_2024: 9114
+  auspendler_2024: 8427
+  auszubildende_2024: 471
+  unternehmen_2022: 916
+  gewerbesteuer_2025: 430 Prozent
+  grundsteuer_a_2025: 860 Prozent
+  grundsteuer_b_2025: 850 Prozent
+  frischwasser_gebuehr: 1.42 Euro pro Kubikmeter
+  abwasser_gebuehr: 2.70 Euro pro Kubikmeter
+  einzelhandelsrelevante_kaufkraft_2025: 203.5 Millionen Euro
+  kaufkraft_pro_einwohner_2025: 7982 Euro
+  kaufkraftkennziffer: 101.6
+  ankuenfte_tourismus_2023: 23107
+  uebernachtungen_tourismus_2023: 42365
+  durchschnittliche_aufenthaltsdauer_tourismus: 1.8 Tage
+  bettenangebot_2023: 380
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 138-gross-gerau/004
+ENTITÄT: ort
+BEZEICHNUNG: Groß-Gerau
+QUELLE: https://www.gross-gerau.de/Kultur-Freizeit/Sehenswertes/Stadtplan/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  landwirtschaftsfläche_2024: 2846 Hektar
+  waldfläche_2024: 1372 Hektar
+  gebäude_freifläche_2024: 431 Hektar
+  verkehrsfläche_2024: 384 Hektar
+  wasserfläche_2024: 92 Hektar
+  erholungsfläche_2024: 98 Hektar
+  betriebsfläche_2024: 205 Hektar
+  flächen_anderer_nutzung_2024: 15 Hektar
+  nah_zu_naturschutzgebiet: Kühkopf-Knoblochsaue
+  naturschutzgebiet_entfernung_kilometer: wenige Kilometer südwestlich
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 138-gross-gerau/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Dornberg
+ORTSTEIL_BEZUG: Dornberg
+QUELLE: https://www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_urspruenglich: Wohnsiedlung für Schlossbedienstete
+  schloss_ersterwähnung: 12. Jahrhundert
+  schloss_besitzer_13_jahrhundert: Grafen von Katzenelnbogen
+  schloss_function_1479: Jagdschloss
+  schloss_funktion_erwerber_jahr: 1479
+  schloss_erwerber: Landgrafschaft Hessen
+  schloss_zerstörung_jahr: 1689
+  schloss_zerstörung_ursache: Feuer
+  schloss_nutzung_heute: Kreisvolkshochschule (Teile)
+  einwohner_2021: 439
+  einwohner_2024: 426
+GUELTIG_AB: 12. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 138-gross-gerau/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Berkach
+ORTSTEIL_BEZUG: Berkach
+QUELLE: https://www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  untergrund: Boden einer ehemaligen römischen Siedlung
+  lage_antike: Schnittpunkt Römerstraße Nierstein-Dieburg und Steinerne Straße von Mainz
+  urkundliche_ersterwähnung_jahr: 1246
+  urkundliche_ersterwähnung_anlass: Belehnung von Konrad von Dornberg
+  fachwerkhäuser_jahrhunderte: 17. und 18. Jahrhundert
+  rathaus_erbaujahr: 1597
+  rathaus_beschreibung: Fachwerkbau mit schönem Balkenwerk und Schnitzereien
+  rathaus_heutige_nutzung: Kommunale Jugendarbeit
+  einwohner_2021: 1139
+  einwohner_2024: 1151
+GUELTIG_AB: 1246
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 138-gross-gerau/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Dornheim
+ORTSTEIL_BEZUG: Dornheim
+QUELLE: https://www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frühe_besiedlung: zu Zeiten Kaiser Karl des Großen
+  urkundliche_ersterwähnung_jahr: 779
+  urkundliche_ersterwähnung_kontext: Zeit Kaiser Karl des Großen
+  abtei_verbindung: Abtei Eberbach begütert in Gemarkung
+  wirtschaftshof: Villa Rihusen (Riedhäuserhof)
+  wirtschaftshof_ersterwähnung: 1159
+  ortsadel_nachweis: 12. Jahrhundert
+  gerichtssiegel_einführung_jahr: 1543
+  gerichtssiegel_quelle: erstes Gerichtssiegel wurde Grundlage für Dornheimer Wappen
+  einwohner_2021: 4977
+  einwohner_2024: 5215
+GUELTIG_AB: 779
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 138-gross-gerau/008
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wallerstädten
+ORTSTEIL_BEZUG: Wallerstädten
+QUELLE: https://www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwähnung_jahr: 1281
+  reichsgut_besitz: Gehörte zu Reichsgutbesitz
+  reichsgut_erwerber_jahr: 1013
+  reichsgut_erwerber: König Heinrich II. an Bistum Würzburg
+  brandschatzung_jahr: 1518
+  brandschatzung_durch: Franz von Sickingen
+  dreißigjähriger_krieg_zerstörung: ja
+  dreißigjähriger_krieg_täter: Mansfelsche Kriegsvölker
+  wiederaufbau_architektur: zahlreiche stattliche Bauten aus 18. Jahrhundert
+  rathaus_besonderheit: schönes Fachwerk-Rathaus mit massivem Untergeschoss
+  auszeichnung_titel: Schönstes Dorf des Kreises Groß-Gerau
+  auszeichnung_jahr: 1963
+  einwohner_2021: 2703
+  einwohner_2024: 2696
+GUELTIG_AB: 1281
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 138-gross-gerau/009
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus Raiss
+QUELLE: https://www.gross-gerau.de/Familie-Soziales/Senioren/Geschichte-Haus-Raiss/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erwerber_initial_jahr: 1908
+  erwerber_initial_person: Samuel Hirsch und Juliane Hirsch
+  grundbucheintrag_original: Hofreite Am Hospitalgarten mit Grabgarten
+  besitzer_ab_1925: Gustav Hirsch und Lina Hirsch
+  funktion_1938: Wohnhaus
+  ereignis_1938: Reichsprogromnacht, Verwüstung durch SA
+  erwerber_1939: Philipp Raiss
+  erwerber_1939_beruf: Weißbindermeister
+  funktion_ab_1983: Senioren-Begegnungsstätte
+  eröffnung_datum: 7. Juli 1983
+  erben_philipp_raiss: Stadt Groß-Gerau
+  auflage_erbschaft: Einrichtung für alte Menschen
+  abriss_jahr: 2019
+  abriss_monat: Juli
+  neubau_fertigstellung: Oktober 2023
+  neubau_öffnung: Oktober 2024
+  neubau_beschreibung: modernes und barrierefreies Gebäude
+GUELTIG_AB: 1908
+GUELTIG_BIS: 2019
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 138-gross-gerau/010
+ENTITÄT: gebaeude
+BEZEICHNUNG: Haus Raiss (Neubau)
+QUELLE: https://www.gross-gerau.de/Familie-Soziales/Senioren/Geschichte-Haus-Raiss/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: Oktober 2023
+  eröffnung: Oktober 2024
+  funktion: Begegnungs-, Beratungs- und Anlaufstelle für Fragen des Alterns
+  nutzer: Seniorengruppen, Städtische Seniorenarbeit, Seniorenbeirat, Generationenhilfe
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.96
+---
+ID: 138-gross-gerau/011
+ENTITÄT: person
+BEZEICHNUNG: Samuel Hirsch
+QUELLE: https://www.gross-gerau.de/Familie-Soziales/Senioren/Geschichte-Haus-Raiss/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsdatum: 21.11.1846
+  beruf: Metzger
+  todesdatum: 1923
+  ehepartner: Juliane Hirsch
+  kinder: Gustav Hirsch
+GUELTIG_AB: 1846
+GUELTIG_BIS: 1923
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 138-gross-gerau/012
+ENTITÄT: person
+BEZEICHNUNG: Juliane Hirsch (geb. Krieger)
+QUELLE: https://www.gross-gerau.de/Familie-Soziales/Senioren/Geschichte-Haus-Raiss/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsdatum: 1.3.1856
+  todesdatum: 1925
+  ehepartner: Samuel Hirsch
+  wohnort_vor_1908: Wallerstädten
+GUELTIG_AB: 1856
+GUELTIG_BIS: 1925
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 138-gross-gerau/013
+ENTITÄT: person
+BEZEICHNUNG: Gustav Hirsch
+QUELLE: https://www.gross-gerau.de/Familie-Soziales/Senioren/Geschichte-Haus-Raiss/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsdatum: 23.5.1889
+  eltern: Samuel Hirsch, Juliane Hirsch
+  beruf: Metzger und Viehhändler
+  position_gemeinde: Vorsteher der jüdischen Gemeinde
+  ehepartner: Lina Hirsch
+  kinder: Liesel Hirsch
+  verhaftung_jahr: 1938
+  verhaftung_ort: Konzentrationslager Buchenwald
+  verhaftung_dauer: 1 Monat
+  verhaftung_anlass: Reichsprogromnacht
+  emigration_jahr: 1940
+  emigration_monat: Januar
+  emigration_ziel: USA
+  emigration_stadt: Bridgeport
+  emigration_staat: Connecticut
+GUELTIG_AB: 1889
+GUELTIG_BIS: nach 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 138-gross-gerau/014
+ENTITÄT: person
+BEZEICHNUNG: Lina Hirsch (geb. Mayer)
+QUELLE: https://www.gross-gerau.de/Familie-Soziales/Senioren/Geschichte-Haus-Raiss/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsdatum: 6.3.1896
+  ehepartner: Gustav Hirsch
+  kinder: Liesel Hirsch
+  mutter: Emma Mayer
+  emigration_jahr: 1940
+  emigration_ziel: USA
+GUELTIG_AB: 1896
+GUELTIG_BIS: nach 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 138-gross-gerau/015
+ENTITÄT: person
+BEZEICHNUNG: Liesel Hirsch
+QUELLE: https://www.gross-gerau.de/Familie-Soziales/Senioren/Geschichte-Haus-Raiss/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1920
+  eltern: Gustav Hirsch, Lina Hirsch
+  emigration_jahr: 1940
+  emigration_ziel: USA
+  tochter: Melissa Pope
+  wohnort_usa: Bridgeport, Connecticut
+GUELTIG_AB: 1920
+GUELTIG_BIS: nach 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 138-gross-gerau/016
+ENTITÄT: person
+BEZEICHNUNG: Emma Mayer (geb. Kahn)
+QUELLE: https://www.gross-gerau.de/Familie-Soziales/Senioren/Geschichte-Haus-Raiss/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsdatum: 6.9.1873
+  beziehung_zu_lina_hirsch: Mutter
+GUELTIG_AB: 1873
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 138-gross-gerau/017
+ENTITÄT: person
+BEZEICHNUNG: Philipp Raiss
+QUELLE: https://www.gross-gerau.de/Familie-Soziales/Senioren/Geschichte-Haus-Raiss/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Weißbindermeister
+  hauserwerb_jahr: 1939
+  hauserwerb_grund: Zwangsverkauf von Gustav Hirsch durch Nazi-Regime
+  eigentum_dauer: bis Anfang 1980er
+  testament: vermacht Haus der Stadt Groß-Gerau
+  testament_auflage: Einrichtung für alte Menschen
+  namensgeber_haus_raiss: ja
+  fassadenschmuck: Namensschriftzug mit Malereien der vier Jahreszeiten
+GUELTIG_AB: 1939
+GUELTIG_BIS: Anfang 1980er
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 138-gross-gerau/018
+ENTITÄT: person
+BEZEICHNUNG: Dr. Bernhard Lüdecke
+QUELLE: https://www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: erster hauptamtlicher Bürgermeister
+  amtsantritt_jahr: 1926
+  achievements: Elektrifizierung, Wasserversorgung, Kanalbau
+GUELTIG_AB: 1926
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 138-gross-gerau/019
+ENTITÄT: person
+BEZEICHNUNG: Jürgen Volkmann
+QUELLE: https://www.gross-gerau.de/Kultur-Freizeit/Stadtmuseum/Video-Reihe/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Museumsleiter des Stadtmuseums Groß-Gerau
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 138-gross-gerau/020
+ENTITÄT: person
+BEZEICHNUNG: Melissa Pope
+QUELLE: https://www.gross-gerau.de/Familie-Soziales/Senioren/Geschichte-Haus-Raiss/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beziehung: Enkelin von Liesel Hirsch
+  wohnort: USA
+  beteiligung_stolpersteine: anwesend bei Verlegung 11. Oktober 2016
+GUELTIG_AB: nach 1940
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 138-gross-gerau/021
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum
+QUELLE: https://www.gross-gerau.de/Kultur-Freizeit/Stadtmuseum/Führungen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  dauerausstellung_roemische_zeit: Groß-Gerau in römischer Zeit
+  dauerausstellung_geschichte: Groß-Gerau wie es früher war
+  angebote_fuehrer: Video-Reihe mit Museumsleiter Jürgen Volkmann
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 138-gross-gerau/022
+ENTITÄT: museum
+BEZEICHNUNG: Handwerksmuseum
+QUELLE: https://www.gross-gerau.de/Kultur-Freizeit/Sehenswertes/Führungen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Begegnungen mit dem alten Handwerk
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 138-gross-gerau/023
+ENTITÄT: kirche
+BEZEICHNUNG: Stadtkirche
+QUELLE: https://www.gross-gerau.de/Kultur-Freizeit/Sehenswertes/Führungen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: Turm mit Ausblick auf die Stadt und das Gerauer Land
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 138-gross-gerau/024
+ENTITÄT: landschaft
+BEZEICHNUNG: Ebbelwoi-Päädsche
+QUELLE: https://www.gross-gerau.de/Kultur-Freizeit/Sehenswertes/Geschichte-Naturlandschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Streckenabschnitt des Regionalparks Rhein-Main
+  lage: zwischen Esch und Wallerstädten
+  funktion: zeigt exemplarisch Landschaftselemente des Rieds
+  beschreibung: Schaufenster der Erdgeschichte, Römerzeit und Landwirtschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 138-gross-gerau/025
+ENTITÄT: siedlung
+BEZEICHNUNG: Esch
+QUELLE: https://www.gross-gerau.de/Kultur-Freizeit/Sehenswertes/Geschichte-Naturlandschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besiedlung_seit: vorgeschichtliche Zeit
+  geologische_beschaffenheit: eiszeitliche Flugsanddüne
+  entstehung_düne: Wind wehte Sandflächen aus Schotterflächen des Rheins an
+  zeitraum_entstehung: Trockenperioden der Eiszeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 138-gross-gerau/026
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Kühkopf-Knoblochsaue
+QUELLE: https://www.gross-gerau.de/Kultur-Freizeit/Sehenswertes/Stadtplan/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse_rang: größtes hessisches Naturschutzgebiet
+  lage_zu_groß_gerau: wenige Kilometer südwestlich
+  besonderheiten: enthält Schwedensäule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 138-gross-gerau/027
+ENTITÄT: denkmal
+BEZEICHNUNG: Schwedensäule
+QUELLE: https://www.gross-gerau.de/Kultur-Freizeit/Sehenswertes/Stadtplan/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: in/bei Kühkopf-Knoblochsaue
+  entfernung_groß_gerau: wenige Kilometer südwestlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 138-gross-gerau/028
+ENTITÄT: denkmal
+BEZEICHNUNG: Stolpersteine Familie Hirsch
+QUELLE: https://www.gross-gerau.de/Familie-Soziales/Senioren/Geschichte-Haus-Raiss/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verlegung_datum: 11. Oktober 2016
+  lage: vor dem Haus Raiss
+  personen_gedenken: Gustav Hirsch, Lina Hirsch, Liesel Hirsch, Emma Mayer
+  entfernung_2020: Stolpersteine vorübergehend entfernt
+  aufbewahrung_2020_2024: Stadtmuseum
+  wiederanbringung_geplant: mit Neueröffnung des neuen Haus Raiss
+GUELTIG_AB: 2016
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 138-gross-gerau/029
+ENTITÄT: industrie
+BEZEICHNUNG: Brauerei Groß-Gerau
+QUELLE: https://www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_ab: 1858
+  anlass_gruendung: Eisenbahn Darmstadt-Mainz
+  status_spaeter: verschwunden nach und nach
+GUELTIG_AB: 1858
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 138-gross-gerau/030
+ENTITÄT: industrie
+BEZEICHNUNG: Ölfabrik Groß-Gerau
+QUELLE: https://www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_ab: 1858
+  anlass_gruendung: Eisenbahn Darmstadt-Mainz
+GUELTIG_AB: 1858
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 138-gross-gerau/031
+ENTITÄT: industrie
+BEZEICHNUNG: Zuckerfabrik Groß-Gerau
+QUELLE: https://www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_ab: 1858
+  anlass_gruendung: Eisenbahn Darmstadt-Mainz
+GUELTIG_AB: 1858
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 138-gross-gerau/032
+ENTITÄT: industrie
+BEZEICHNUNG: Konservenfabrik Groß-Gerau
+QUELLE: https://www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_ab: 1858
+  anlass_gruendung: Eisenbahn Darmstadt-Mainz
+  status_spaeter: verschwunden nach und nach
+GUELTIG_AB: 1858
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 138-gross-gerau/033
+ENTITÄT: herrschaft
+BEZEICHNUNG: Herren von Dornberg
+QUELLE: https://www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung_mit_burg: 1160
+  status_vermutung: wahrscheinlich Dienstleute oder Ministerialen der staufischen Kaiser
+  aussterben: Mitte 13. Jahrhundert
+  nachfolger: Grafen von Katzenelnbogen
+GUELTIG_AB: 1160
+GUELTIG_BIS: Mitte 13. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 138-gross-gerau/034
+ENTITÄT: herrschaft
+BEZEICHNUNG: Grafen von Katzenelnbogen
+QUELLE: https://www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbschaft_herren_von_dornberg: 1259
+  erbschaft_dornberg_schloss: 1259
+  stadtrrechte_verleihung: 1398
+  stadtrechte_inhalt_initial: Marktrechte
+  status_1398: mächtige Territorialherren
+GUELTIG_AB: 1259
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 138-gross-gerau/035
+ENTITÄT: institutionen
+BEZEICHNUNG: Abtei Eberbach
+QUELLE: https://www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eigenschaft_dornheim: begütert in der Dornheimer Gemarkung
+  eigenschaft_wirtschaft: unterhielt Riedhäuserhof als großen Wirtschaftshof
+  wirtschaftshof_historischer_name: Villa Rihusen
+  wirtschaftshof_ersterwähnung: 1159
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 138-gross-gerau/036
+ENTITÄT: region
+BEZEICHNUNG: Rhein-Main Gebiet
+QUELLE: https://www.gross-gerau.de/Wirtschaft-Handel/Standort-Groß-Gerau/Standortportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rang_wirtschaft: einer der wirtschaftsstärksten Ballungsräume in Europa
+  kategorisierung: Wirtschaftsregion der Zukunft (laut Experten)
+  groß_gerau_position: zentraler Verwaltungs- und Versorgungsort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 138-gross-gerau/037
+ENTITÄT: fundstelle
+BEZEICHNUNG: Sandschliess/Schindkaute
+ORTSTEIL_BEZUG: Sandschliess/Schindkaute
+QUELLE: https://www.gross-gerau.de/Kultur-Freizeit/Sehenswertes/Geschichte-Naturlandschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Fundstelle prähistorisch
+  lage: Hirsländer Weg
+  bedeutung: wichtige Fundstelle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 138-gross-gerau/038
+ENTITÄT: fundstelle
+BEZEICHNUNG: Auf Esch
+ORTSTEIL_BEZUG: Auf Esch
+QUELLE: https://www.gross-gerau.de/Kultur-Freizeit/Sehenswertes/Geschichte-Naturlandschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Fundstelle prähistorisch und römisch
+  bedeutung: wichtige Fundstelle
+  funde_roemisch: zahlreiche Überreste, teils herausragend, Funde eines Mithrasheiligtums
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 138-gross-gerau/039
+ENTITÄT: fundstelle
+BEZEICHNUNG: Galgenberg (Wasserturm)
+ORTSTEIL_BEZUG: Galgenberg
+QUELLE: https://www.gross-gerau.de/Kultur-Freizeit/Sehenswertes/Geschichte-Naturlandschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Fundstelle prähistorisch
+  lage_heute: Wasserturm
+  bedeutung: wichtige Fundstelle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 138-gross-gerau/040
+ENTITÄT: fundstelle
+BEZEICHNUNG: Parfinkelfeld
+ORTSTEIL_BEZUG: Parfinkelfeld
+QUELLE: https://www.gross-gerau.de/Kultur-Freizeit/Sehenswertes/Geschichte-Naturlandschaft/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Fundstelle prähistorisch
+  lage: östlich der Landstraße nach Wallerstädten
+  bedeutung: wichtige Fundstelle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 138-gross-gerau/041
+ENTITÄT: ereignis
+BEZEICHNUNG: Reichsprogromnacht
+QUELLE: https://www.gross-gerau.de/Familie-Soziales/Senioren/Geschichte-Haus-Raiss/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1938
+  ort_aktion: Haus Raiss, Groß-Gerau
+  taeter: SA-Leute
+  handlungen: Umstellung des Hauses, Verwüstung, Möbelwurf auf die Straße
+  beschädigte_personen: Gustav Hirsch (Verhaftung in Buchenwald)
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 138-gross-gerau/042
+ENTITÄT: ereignis
+BEZEICHNUNG: Dreißigjähriger Krieg
+QUELLE: https://www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auswirkung_groß_gerau: Zerstörungen 1663
+  auswirkung_wallerstädten: zerstört durch Mansfelsche Kriegsvölker
+  folge_groß_gerau: Erneuerung Stadtrechte 1663
+GUELTIG_AB: 17. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 138-gross-gerau/043
+ENTITÄT: ereignis
+BEZEICHNUNG: Brandschatzung Wallerstädten
+QUELLE: https://www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1518
+  durch: Franz von Sickingen
+  ort: Wallerstädten
+GUELTIG_AB: 1518
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+

@@ -1,0 +1,443 @@
+ENTITÄT: ort
+BEZEICHNUNG: Weiterstadt
+QUELLE: https://www.weiterstadt.de/wirtschaft-umwelt-verkehr/ueber-weiterstadt/stadtportrait/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_nennung: 948
+  urspruenglicher_name: Widerestat
+  gründung_stadt_form: 1. Januar 1977
+  stadtrecht_seit: 29. Juli 1993
+  entwicklung: von Arbeiterwohngemeinde mit landwirtschaftlichem Einschlag zu gewerblich-industriell strukturiertem Gemeinwesen
+  hoechster_punkt: Rotböll (Stadtteil Gräfenhausen), 118,30 [m über NN]
+  gesamtflaeche: 34.405.000 [m²]
+  gesamtbevoelkerung: 27.111 [Stand 30.06.2026]
+  gewerbesteuer: 385 [v.H.]
+  grundsteuer_a: 640 [v.H.]
+  grundsteuer_b: 640 [v.H.]
+GUELTIG_AB: 948
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Braunshardt
+QUELLE: https://www.weiterstadt.de/wirtschaft-umwelt-verkehr/ueber-weiterstadt/stadtteile/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_nennung: 1303
+  erstmalige_nennung_kontext: Verzeichnis Einkünfte Grafen Wilhelm von Katzenelnbogen
+  erste_erwaehnte_einkunft: 100 Malter Korn
+  einwohner: 5.531 [Stand 30.06.2026]
+  hoehenlage: 100,7 [m über NN]
+  eingemeindung_zu_weiterstadt: 1. Juli 1973
+  eingemeindung_art: freiwillig
+  flaeche_gesamt: 4.711.330 [m²]
+GUELTIG_AB: 1303
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Gräfenhausen
+QUELLE: https://www.weiterstadt.de/wirtschaft-umwelt-verkehr/ueber-weiterstadt/stadtteile/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_nennung: 1211
+  erstmalige_nennung_quelle: Oculus Memoriae (Güterverzeichnis Kloster Eberbach)
+  einwohner: 6.274 [Stand 30.06.2026]
+  hoehenlage: 107,5 [m über NN]
+  eingemeindung_zu_weiterstadt: 1. Januar 1977
+  flaeche_gesamt: 11.372.057 [m²]
+GUELTIG_AB: 1211
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Schneppenhausen
+QUELLE: https://www.weiterstadt.de/wirtschaft-umwelt-verkehr/ueber-weiterstadt/stadtteile/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_nennung: 1211
+  erstmalige_nennung_quelle: Oculus Memoriae (Güterverzeichnis Kloster Eberbach)
+  erste_erwaehnte_person: Konrad von Schneppenhausen (schenkte Morgen Land fürs Seelenheil des Bruders)
+  einwohner: 2.090 [Stand 30.06.2026]
+  hoehenlage: 101,8 [m über NN]
+  eingemeindung_zu_weiterstadt: 1. Januar 1977
+  flaeche_gesamt: 2.767.425 [m²]
+GUELTIG_AB: 1211
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Riedbahn
+QUELLE: https://www.weiterstadt.de/wirtschaft-umwelt-verkehr/ueber-weiterstadt/stadtteile/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensgebung: nach Eisenbahnstrecke Darmstadt-Ried
+  offizielle_anerkennung_als_ortsteil: 26. Mai 1983
+  einwohner: 2.010 [Stand 30.06.2026]
+  hoehenlage: 115,4 [m über NN]
+  erste_wohnbebauung: entlang Darmstädter Straße (später Riedbahnstraße)
+  entwicklung_nach_wwii: Heimatvertriebene bauten Wohnhäuser mit landwirtschaftlichen Nebenerwerbsstellen
+  industrie_gewerbegebiet_erschliessung: Anfang 1960er Jahre
+  industrie_gewerbegebiet_grund: ehemaliger Exerzierplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Braunshardt
+ORTSTEIL_BEZUG: Braunshardt
+QUELLE: https://www.weiterstadt.de/kultur-freizeit/kulturelles-leben/schloss-braunshardt/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: Rokoko
+  erbauer: Prinz Georg Wilhelm von Hessen
+  erbaut: ca. 1760
+  bauzeit: ca. 1760
+  restaurierung_abgeschlossen: September 2008
+  parkflaeche: 28.839 [m²]
+  kunsthistorische_bedeutung: eine der wichtigsten erhaltenen Rokokoanlagen Deutschlands
+  vergleich: in einem Atemzug genannt mit Potsdam Sanssouci
+  geschaetzte_gaeste: Queen Victoria (Tagebucheintrag zu Raumen als Pralinenkästchen), Königin Luise von Preußen (1793, Luisenflügel), Johann Heinrich Merck (Goethe-Freund)
+  urspruengliche_funktion: Lustschloss
+  historische_nutzung: Heim für schwererziehbare Mädchen, Altersheim
+  restaurierung_beauftragter: Helmuth von Maltzahn
+  restaurierung_partner: Deutsche Stiftung Denkmalschutz
+  restaurierung_beginn: 1987
+  kauf_stadt_weiterstadt: 2006
+  nutzung_aktuell: Veranstaltungsort
+  ausstattung_beschreibung: vielfarbig angelegte Räume, verspielt Stuckaturen, bunte Türen, Tausende Porzellanröschen im Gartenkabinett, alte Holzböden, geschmiedete Türschlösser und Fensterhebel, bleigefasste Scheiben mit Gäste-Monogrammen
+  superlativ: eine der wichtigsten erhaltenen Rokokoanlagen Deutschlands
+GUELTIG_AB: 1760
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schlossturm Gräfenhausen
+ORTSTEIL_BEZUG: Gräfenhausen
+QUELLE: https://www.weiterstadt.de/kultur-freizeit/kulturelles-leben/schlossturm-graefenhausen/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1555
+  erbauer: Hans Henrich von Heusenstamm und Margareta von Kronberg
+  titel_erbauer: Erbmarschall des Erzstifts Mainz (Heusenstamm)
+  vorgaenger: mittelalterliche Wasserburg
+  superlativ: ältestes weltliches Gebäude Weiterstadts
+  museum: Museum der Stadt Weiterstadt (Obergeschoss)
+  archiv: Heimatvereins-Archiv (Dachgeschoss)
+  besonderheit: Heimatverein Gräfenhausen-Schneppenhausen hat Museum und Archiv dort
+  adresse: Turmstraße 4
+  derzeitige_hauptnutzung: Museum und Archiv
+GUELTIG_AB: 1555
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Renaissance-Schloss Gräfenhausen (Ohlystift)
+ORTSTEIL_BEZUG: Gräfenhausen
+QUELLE: https://www.weiterstadt.de/kultur-freizeit/kulturelles-leben/schlossturm-graefenhausen/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: Renaissance
+  erbauer: Hans Heinrich von Heusenstamm und Clara Riedesel von Eisenbach
+  erbaut: nach 1583
+  grund_bau_zeitpunkt: nach dem Tod von Margareta von Kronberg (1583)
+  benannt_nach: Albrecht Ohly (Darmstädter Oberbürgermeister)
+  derzeitige_nutzung: Ohlystift-Altenheim
+  historische_nutzung: landgräfliches Invalidenhaus, Kinderheim der Stadt Darmstadt, Altenheim
+  lage: direkt neben dem Schlossturm
+GUELTIG_AB: 1583
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Gräfenhausen und Schneppenhausen
+ORTSTEIL_BEZUG: Gräfenhausen
+QUELLE: https://www.weiterstadt.de/kultur-freizeit/kirchen/evangelisch/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denomination: Evangelisch
+  adresse: Darmstädter Landstraße 19
+  telefon: 06150/52402
+  email: evkirche.graefenhausen@t-online.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Weiterstadt, Braunshardt und Riedbahn
+ORTSTEIL_BEZUG: Weiterstadt
+QUELLE: https://www.weiterstadt.de/kultur-freizeit/kirchen/evangelisch/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denomination: Evangelisch
+  adresse: Darmstädter Straße 17 A
+  telefon: 06150/187632
+  email: Ev.Gemeindebuero-Weiterstadt@t-online.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: religioese_gemeinschaft
+BEZEICHNUNG: Evangelische Landeskirchliche Gemeinschaft Weiterstadt e.V.
+ORTSTEIL_BEZUG: Weiterstadt
+QUELLE: https://www.weiterstadt.de/kultur-freizeit/kirchen/evangelisch/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denomination: Evangelisch
+  organisationsform: e.V.
+  adresse: Zeppelinstraße 5
+  telefon: 06150/14997
+  email: mail@elkg.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Schlosskirche Braunshardt
+ORTSTEIL_BEZUG: Braunshardt
+QUELLE: https://www.weiterstadt.de/kultur-freizeit/kirchen/evangelisch/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denomination: Evangelisch
+  adresse: Georgenstraße 15
+  telefon: 06150/187632
+  email: Ev.Gemeindebuero-Weiterstadt@t-online.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: religioese_gemeinschaft
+BEZEICHNUNG: Ahmadiyya Muslim Jamaat Weiterstadt
+ORTSTEIL_BEZUG: Weiterstadt
+QUELLE: https://www.weiterstadt.de/kultur-freizeit/kirchen/religioese-gemeinschaften/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religion: Islam (Ahmadiyya)
+  vertreter: Wasim Mirza
+  telefon: 0176/24128161
+  email: weiterstadt@ahmadiyya.email
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: religioese_gemeinschaft
+BEZEICHNUNG: Bahai Gemeinde Weiterstadt
+ORTSTEIL_BEZUG: Weiterstadt
+QUELLE: https://www.weiterstadt.de/kultur-freizeit/kirchen/religioese-gemeinschaften/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religion: Bahai
+  vertreter: Familie Daneshjoo
+  adresse: Darmstädter Straße 107
+  telefon: 06150/55380
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: religioese_gemeinschaft
+BEZEICHNUNG: Neuapostolische Kirche (Gemeinde Darmstadt Nord)
+QUELLE: https://www.weiterstadt.de/kultur-freizeit/kirchen/religioese-gemeinschaften/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  religion: Christlich (Neuapostolisch)
+  zustaendige_gemeinde: Darmstadt Nord
+  gemeindevorsteher: Jürgen Kramer
+  adresse_naechste_gemeinde: Büdinger Straße 15, 64289 Darmstadt
+  telefon: 06257/506464
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: historische_person
+BEZEICHNUNG: Cleriker Liuthar
+QUELLE: https://www.weiterstadt.de/wirtschaft-umwelt-verkehr/ueber-weiterstadt/stadtportrait/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: erster Besitzer des Dorfes Widerestat
+  nennung_in: Urkunde aus 948
+GUELTIG_AB: 948
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: adlige_person
+BEZEICHNUNG: Hans Henrich von Heusenstamm
+QUELLE: https://www.weiterstadt.de/kultur-freizeit/kulturelles-leben/schlossturm-graefenhausen/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Erbmarschall des Erzstifts Mainz
+  ehefrau_erste: Margareta von Kronberg
+  ehefrau_zweite: Clara Riedesel von Eisenbach
+  bauwerke: Schlossturm (1555), Renaissance-Schloss (nach 1583)
+GUELTIG_AB: 1555
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: adlige_person
+BEZEICHNUNG: Georg Wilhelm von Hessen
+QUELLE: https://www.weiterstadt.de/kultur-freizeit/kulturelles-leben/schloss-braunshardt/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Prinz
+  erbauer_schloss: Schloss Braunshardt
+  bauzeit_schloss: ca. 1760
+  funktion_schloss: Sommersitz
+  grossvater_von: Königin Luise von Preußen
+GUELTIG_AB: 1760
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: royale_person
+BEZEICHNUNG: Königin Luise von Preußen
+QUELLE: https://www.weiterstadt.de/kultur-freizeit/kulturelles-leben/schloss-braunshardt/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  maedchenname: Luise (von Hessen-Darmstadt)
+  titel: Königin von Preußen
+  rolle_historisch: Mutter Kaiser Wilhelms I.
+  ehemann: Friedrich Wilhelm von Preußen
+  aufenthalt_schloss_braunshardt: 1793 auf Sommersitz ihres Großvaters Georg Wilhelm von Hessen
+  grund_aufenthalt: mit Bräutigam Friedrich Wilhelm nach Eroberung französisch besetzter Mainz
+  denkmal: Luisenflügel des Schlosses Braunshardt nach ihr benannt
+  dauer_aufenthalt_charakter: verbrachte Teil ihrer Jugend dort, glückliche Tage
+GUELTIG_AB: 1793
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: royale_person
+BEZEICHNUNG: Queen Victoria
+QUELLE: https://www.weiterstadt.de/kultur-freizeit/kulturelles-leben/schloss-braunshardt/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besuch_schloss_braunshardt: ja
+  tagebucheintrag_vorhanden: ja
+  bewertung_raeme: erinnerten an kleine bunte Pralinenkästchen
+  raeme_beschrieben: blaues, gelbes, lilafarbenes und grünes Zimmer
+  beschreibung_charakteristik: schwärmerisch
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kulturschaffer
+BEZEICHNUNG: Johann Heinrich Merck
+QUELLE: https://www.weiterstadt.de/kultur-freizeit/kulturelles-leben/schloss-braunshardt/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beziehung: Freund Goethes
+  ort_besuch: Schloss Braunshardt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: denkmalschuetzer
+BEZEICHNUNG: Helmuth von Maltzahn
+QUELLE: https://www.weiterstadt.de/kultur-freizeit/kulturelles-leben/schloss-braunshardt/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: passionierter Denkmalschützer
+  restaurierung: Schloss Braunshardt
+  restaurierung_beginn: 1987
+  restaurierung_partner: Deutsche Stiftung Denkmalschutz
+  resultat: Schloss wieder wie bei Besuch berühmter Gäste früherer Jahrhunderte hergerichtet
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Stadt Weiterstadt
+QUELLE: https://www.weiterstadt.de/wirtschaft-umwelt-verkehr/ueber-weiterstadt/stadtportrait/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: In Blau ein goldener Ring im Stein, darin ein silberner, blaubezungter und betraufter Brackenkopf auf Rot; der Ring begleitet rechts oben von einem auf liegender Mondsichel aufgestecktem Tatzenkreuz, links oben von einem goldenen Schragen, dessen rechter Balken oben nach links zu einen Haken umgebogen ist
+  beschreibungsansicht: aus der Perspektive des Wappens, nicht vom Betrachter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Heimatverein Gräfenhausen-Schneppenhausen
+ORTSTEIL_BEZUG: Gräfenhausen
+QUELLE: https://www.weiterstadt.de/kultur-freizeit/kulturelles-leben/schlossturm-graefenhausen/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitz: Schlossturm Gräfenhausen
+  betreibung: Museum der Stadt Weiterstadt (Obergeschoss), Archiv (Dachgeschoss)
+  angebote: Führungen durch Schloss, Digitale Orts- und Geschichtsralley durch Gräfenhausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Förderverein Schloss Braunshardt e.V.
+ORTSTEIL_BEZUG: Braunshardt
+QUELLE: https://www.weiterstadt.de/kultur-freizeit/kulturelles-leben/schloss-braunshardt/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  taetigkeiten: Führungen durch Schloss Braunshardt
+  angebot_besonderheit: Führungen im Gewandt (historische Kostüme 18. Jahrhundert), Zeitreise mit gespielte Anekdoten der Prinzessin Luise
+  erster_vorsitzender: Willi Fischer
+  kontakt_telefon: 0151/20707696
+  kontakt_email: info@schloss-braunshardt.org
+  finanzierung_angebot: Teilnahmegebühren fließen zum Förderverein für Restaurierungen und Aktionen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: organisation
+BEZEICHNUNG: Johannesbundes e.V.
+QUELLE: https://www.weiterstadt.de/wirtschaft-umwelt-verkehr/ueber-weiterstadt/stadtteile/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitz: Leutesdorf/Rhein
+  besitz: Teil des Schlosses Braunshardt
+  betreibung: Alten- und Pflegeheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+
+---
+
+ENTITÄT: stiftung
+BEZEICHNUNG: Deutsche Stiftung Denkmalschutz
+QUELLE: https://www.weiterstadt.de/kultur-freizeit/kulturelles-leben/schloss-braunshardt/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beteiligung: Restaurierung Schloss Braunshardt
+  zeitraum_restaurierung: ab 1987
+  kooperationspartner: Helmuth von Maltzahn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahnanschluss B 42/BAB Frankfurt-Mannheim
+QUELLE: https://www.weiterstadt.de/wirtschaft-umwelt-verkehr/ueber-weiterstadt/stadtportrait/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: unmittelbar am Gewerbe- und Industriegebiet (Ortsteil Riedbahn)
+  bedeutung: Verbesserung der Standortgunst für Industrie und Gewerbe
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Industrie- und Gewerbegebiet Riedbahn
+ORTSTEIL_BEZUG: Riedbahn
+QUELLE: https://www.weiterstadt.de/wirtschaft-umwelt-verkehr/ueber-weiterstadt/stadtportrait/index.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erschliessung: Anfang 1960er Jahre
+  vorgaenger_flaeche: ehemaliger Exerzierplatz
+  bedeutung: Ausschlaggebend für wirtschaftliche Entwicklung Weiterstadts nach dem Zweiten Weltkrieg
+  infrastruktur_zugangg: Autobahnanschluss B 42/BAB Frankfurt-Mannheim
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88

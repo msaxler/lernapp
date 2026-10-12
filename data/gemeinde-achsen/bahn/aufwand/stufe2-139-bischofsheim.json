@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "139-bischofsheim",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 8986,
+ "token_ein": 158322,
+ "token_aus": 2761,
+ "usage": {
+  "input_tokens": 12,
+  "cache_creation_input_tokens": 23250,
+  "cache_read_input_tokens": 135060,
+  "output_tokens": 2761,
+  "output_tokens_details": {
+   "thinking_tokens": 1032
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 23250,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 1069,
+    "cache_read_input_tokens": 28600,
+    "cache_creation_input_tokens": 1552,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 1552
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.383179,
+ "sekunden": 66,
+ "fehler": false,
+ "zeit": "2026-10-12T20:00:45"
+}

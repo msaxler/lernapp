@@ -17362,6 +17362,10 @@ window.QA_DATEN = {
 "43-darmstadt": [
 "Kreisgrenze: Darmstadt ist kreisfrei, Zwingenberg gehört zum Landkreis Bergstraße.",
 "Bundestagswahl 2025: In Darmstadt lagen die Grünen vorn, in Zwingenberg die CDU."
+],
+"137-weiterstadt": [
+"Kreisgrenze: Weiterstadt gehört zum Landkreis Darmstadt-Dieburg, Zwingenberg zum Landkreis Bergstraße.",
+"Weiterstadt hat gut dreieinhalbmal so viele Einwohner wie Zwingenberg."
 ]
 },
 "ags": "06431022",
@@ -17579,6 +17583,10 @@ window.QA_DATEN = {
 "43-darmstadt": [
 "Kreisgrenze: Darmstadt ist kreisfrei, Seeheim-Jugenheim gehört zum Landkreis Darmstadt-Dieburg.",
 "Bundestagswahl 2025: In Darmstadt lagen die Grünen vorn, in Seeheim-Jugenheim die CDU."
+],
+"137-weiterstadt": [
+"Weiterstadt hat gut anderthalbmal so viele Einwohner wie Seeheim-Jugenheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Weiterstadt die SPD, in Seeheim-Jugenheim die Grünen."
 ]
 },
 "ags": "06432022",
@@ -17788,6 +17796,14 @@ window.QA_DATEN = {
 "22-langen": [
 "Kreisgrenze: Langen gehört zum Landkreis Offenbach, Darmstadt ist kreisfrei.",
 "Bundestagswahl 2025: In Langen lag die CDU vorn, in Darmstadt die Grünen."
+],
+"137-weiterstadt": [
+"Kreisgrenze: Weiterstadt gehört zum Landkreis Darmstadt-Dieburg, Darmstadt ist kreisfrei.",
+"Bundestagswahl 2025: In Weiterstadt lag die CDU vorn, in Darmstadt die Grünen."
+],
+"138-gross-gerau": [
+"Kreisgrenze: Groß-Gerau gehört zum Landkreis Groß-Gerau, Darmstadt ist kreisfrei.",
+"Bundestagswahl 2025: In Groß-Gerau lag die CDU vorn, in Darmstadt die Grünen."
 ]
 },
 "ags": "06411000",
@@ -18010,6 +18026,9 @@ window.QA_DATEN = {
 "Kreisgrenze: Darmstadt ist kreisfrei, Langen gehört zum Landkreis Offenbach.",
 "Darmstadt hat gut viermal so viele Einwohner wie Langen."
 ],
+"136-neu-isenburg": [
+"Neu-Isenburg und Langen sind fast gleich groß: rund 38.000 und 39.000 Einwohner."
+],
 "44-frankfurt": [
 "Kreisgrenze: Frankfurt am Main ist kreisfrei, Langen gehört zum Landkreis Offenbach.",
 "Frankfurt am Main hat neunzehnmal so viele Einwohner wie Langen."
@@ -18017,11 +18036,183 @@ window.QA_DATEN = {
 "64-ruesselsheim": [
 "Kreisgrenze: Rüsselsheim gehört zum Landkreis Groß-Gerau, Langen zum Landkreis Offenbach.",
 "Rüsselsheim hat gut anderthalbmal so viele Einwohner wie Langen."
+],
+"137-weiterstadt": [
+"Kreisgrenze: Weiterstadt gehört zum Landkreis Darmstadt-Dieburg, Langen zum Landkreis Offenbach.",
+"Langen hat anderthalbmal so viele Einwohner wie Weiterstadt."
+],
+"138-gross-gerau": [
+"Kreisgrenze: Groß-Gerau gehört zum Landkreis Groß-Gerau, Langen zum Landkreis Offenbach.",
+"Langen hat anderthalbmal so viele Einwohner wie Groß-Gerau."
 ]
 },
 "ags": "06438006",
 "ortsteil": false,
 "km_vom_vorigen": 13.8
+},
+{
+"slug": "136-neu-isenburg",
+"name": "Neu-Isenburg",
+"lat": 50.05576,
+"lon": 8.69708,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neu-Isenburg / Stadt mit rund 38.000 Einwohnern, 7 km südlich von Frankfurt am Main. / Im Haus zum Löwen ist heute das Stadtmuseum. Wozu diente das Gebäude ursprünglich? / 1. Es war eine Apotheke der Siedler. / 2. Es war ein Gasthaus der Siedler. / 3. Es war eine Schmiede der Siedler. / 4. Es war eine Mühle der Siedler.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Löwe im Hausnamen erinnert an die vielen Löwen-Apotheken, daher liegt die Apotheke nahe. Doch auch Wirtshäuser trugen gern Tiernamen: Das Haus zum Löwen war eines der ersten Gasthäuser der Siedler. Das Museum erzählt dort, wie aus dem Dorf eine Stadt wurde. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.haus-zum-loewen.de/",
+"faktencheck": "korrigiert",
+"id": "136-neu-isenburg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Neu-Isenburg",
+"steckbrief": "Stadt im Kreis Offenbach, 7 km südlich von Frankfurt am Main.",
+"frage": "Wie viele Einwohner hat Neu-Isenburg?",
+"optionen": [
+"unter 20.000",
+"20.000 bis unter 30.000",
+"30.000 bis unter 45.000",
+"45.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Neben Frankfurt wirkt Neu-Isenburg leicht wie ein kleiner Vorort, daher liegt eine niedrigere Spanne nahe. Tatsächlich zählt die Stadt 38.236 Einwohner, Stand Ende 2025. Dazu gehören auch die Ortsteile Gravenbruch und Zeppelinheim. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "136-neu-isenburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Neu-Isenburg",
+"steckbrief": "Stadt mit rund 38.000 Einwohnern, 7 km südlich von Frankfurt am Main.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Isenburger Thomas Reiter machte als Rennfahrer Weltkarriere.",
+"Der Isenburger Franz Völker machte als Tenor Weltkarriere.",
+"Die Isenburgerin Anny Schlemm machte als Sängerin Weltkarriere."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Rennfahrer wirkt so glaubhaft wie zwei Sänger. Doch Thomas Reiter ist Astronaut. Das Stadtmuseum Haus zum Löwen zeigt ihn neben Tenor Franz Völker und Kammersängerin Anny Schlemm als prominenten Isenburger. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.haus-zum-loewen.de/",
+"faktencheck": "bestätigt",
+"id": "136-neu-isenburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Neu-Isenburg",
+"steckbrief": "Stadt mit rund 38.000 Einwohnern im Kreis Offenbach, 7 km südlich von Frankfurt am Main.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Neu-Isenburg zweitstärkste Kraft bei den Zweitstimmen?",
+"optionen": [
+"SPD",
+"AfD",
+"GRÜNE",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die AfD legte bundesweit stark zu, deshalb liegt sie als Zweite nahe. In Neu-Isenburg blieb die SPD mit 17,8 Prozent vor der AfD mit 14,2 Prozent; vorn lag die CDU. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "136-neu-isenburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neu-Isenburg",
+"steckbrief": "Stadt mit rund 38.000 Einwohnern, 7 km südlich von Frankfurt am Main.",
+"frage": "1907 gründete der Jüdische Frauenbund um Bertha Pappenheim in Neu-Isenburg ein Heim. Für wen?",
+"optionen": [
+"Für jüdische Auswanderer auf dem Weg nach Amerika.",
+"Für ledige Mütter und sozial entwurzelte jüdische Mädchen.",
+"Für betagte jüdische Frauen im Ruhestand.",
+"Für jüdische Lehrlinge in der Handwerksausbildung."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Heim eines Frauenbunds lässt an ein Altenheim denken. Doch das Heim nahm sozial entwurzelte jüdische Mädchen, unverheiratete Schwangere und ledige Mütter mit Kindern auf. Im Zweiten Weltkrieg wurden Bewohnerinnen deportiert und ermordet; ein Gedenkbuch der Stadt sammelt ihre Namen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, gedenkbuch.neu-isenburg.de/",
+"faktencheck": "unsicher",
+"id": "136-neu-isenburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Neu-Isenburg",
+"steckbrief": "Hessische Stadt mit rund 38.000 Einwohnern, 7 km südlich von Frankfurt am Main.",
+"frage": "Wie weit ist es von Neu-Isenburg in Luftlinie bis zur Landeshauptstadt Wiesbaden?",
+"optionen": [
+"unter 15 km",
+"15 bis unter 25 km",
+"25 bis unter 40 km",
+"40 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer Frankfurt so nah vor der Tür hat, schätzt auch Wiesbaden leicht zu nah. Bis zur Landeshauptstadt sind es von Neu-Isenburg 32 km Luftlinie, bis Frankfurt nur 7 km. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "136-neu-isenburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neu-Isenburg",
+"steckbrief": "Stadt mit rund 38.000 Einwohnern, 7 km südlich von Frankfurt am Main.",
+"frage": "Neu-Isenburg begann als Siedlung, die ein Graf gründete. Wer siedelte sich dort an?",
+"optionen": [
+"Es waren Bauern aus Tirol.",
+"Es waren Köhler aus dem Spessart.",
+"Es waren Glasmacher aus Böhmen.",
+"Es waren Hugenotten aus Frankreich."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Köhler oder Glasmacher wären naheliegend, denn solche Gewerbe gründeten früher oft neue Dörfer. Doch Graf Johann Philipp zu Ysenburg gründete eine Siedlung für Hugenotten, also französische Protestanten, die ihres Glaubens wegen ihre Heimat verlassen hatten. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.haus-zum-loewen.de/",
+"faktencheck": "bestätigt",
+"id": "136-neu-isenburg/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "22-langen",
+"anschluss": [
+"Einwohner: Langen zählt 773 mehr als Neu-Isenburg.",
+"Wahlbeteiligung zur Bundestagswahl 2025: in Langen höher als in Neu-Isenburg."
+],
+"anschluesse": {
+"22-langen": [
+"Einwohner: Langen zählt 773 mehr als Neu-Isenburg.",
+"Wahlbeteiligung zur Bundestagswahl 2025: in Langen höher als in Neu-Isenburg."
+],
+"44-frankfurt": [
+"Kreisgrenze: Frankfurt am Main ist kreisfrei, Neu-Isenburg gehört zum Landkreis Offenbach.",
+"Frankfurt am Main hat zwanzigmal so viele Einwohner wie Neu-Isenburg."
+],
+"137-weiterstadt": [
+"Kreisgrenze: Weiterstadt gehört zum Landkreis Darmstadt-Dieburg, Neu-Isenburg zum Landkreis Offenbach.",
+"Neu-Isenburg hat fast anderthalbmal so viele Einwohner wie Weiterstadt."
+]
+},
+"ags": "06438009",
+"ortsteil": false,
+"km_vom_vorigen": 7.5
 },
 {
 "slug": "44-frankfurt",
@@ -18209,20 +18400,21 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "22-langen",
-"anschluss": [
-"Frankfurt hat fast zwanzigmal so viele Einwohner wie Langen.",
-"Frankfurt hat mehr als achtmal so viel Fläche wie Langen."
-],
+"anschluss_von": "136-neu-isenburg",
+"anschluss": [],
 "anschluesse": {
 "22-langen": [
 "Frankfurt hat fast zwanzigmal so viele Einwohner wie Langen.",
 "Frankfurt hat mehr als achtmal so viel Fläche wie Langen."
+],
+"136-neu-isenburg": [
+"Kreisgrenze: Neu-Isenburg gehört zum Landkreis Offenbach, Frankfurt am Main ist kreisfrei.",
+"Frankfurt am Main hat zwanzigmal so viele Einwohner wie Neu-Isenburg."
 ]
 },
 "ags": "06412000",
 "ortsteil": false,
-"km_vom_vorigen": 13.5
+"km_vom_vorigen": 6.2
 },
 {
 "slug": "64-ruesselsheim",
@@ -18410,6 +18602,16 @@ window.QA_DATEN = {
 "Kreisgrenze: Langen gehört zum Landkreis Offenbach, Rüsselsheim zum Landkreis Groß-Gerau.",
 "Rüsselsheim hat gut anderthalbmal so viele Einwohner wie Langen."
 ],
+"137-weiterstadt": [
+"Kreisgrenze: Weiterstadt gehört zum Landkreis Darmstadt-Dieburg, Rüsselsheim zum Landkreis Groß-Gerau.",
+"Rüsselsheim hat zweieinhalbmal so viele Einwohner wie Weiterstadt."
+],
+"138-gross-gerau": [
+"Rüsselsheim hat gut zweieinhalbmal so viele Einwohner wie Groß-Gerau."
+],
+"139-bischofsheim": [
+"Rüsselsheim hat fünfmal so viele Einwohner wie Bischofsheim."
+],
 "45-mainz": [
 "Landesgrenze: Mainz liegt in Rheinland-Pfalz, Rüsselsheim in Hessen.",
 "Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Rüsselsheim die CDU."
@@ -18446,6 +18648,738 @@ window.QA_DATEN = {
 "ags": "06433012",
 "ortsteil": false,
 "km_vom_vorigen": 23.2
+},
+{
+"slug": "137-weiterstadt",
+"name": "Weiterstadt",
+"lat": 49.9,
+"lon": 8.6,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weiterstadt",
+"steckbrief": "Stadt mit rund 27.000 Einwohnern, 5 km nordwestlich von Darmstadt.",
+"frage": "Die spätere Königin Luise von Preußen weilte 1793 auf Schloss Braunshardt. Wie war sie mit dem Erbauer des Schlosses verwandt?",
+"optionen": [
+"Er war ihr Vater.",
+"Er war ihr künftiger Schwiegervater.",
+"Er war ihr Großvater.",
+"Er war ihr Onkel."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Onkel liegt nahe, denn Fürstenhäuser waren eng verwandt. Prinz Georg Wilhelm von Hessen ließ Braunshardt erbauen, es war sein Sommersitz, und Luise war seine Enkelin. Sie verbrachte dort einen Teil ihrer Jugend; der Luisenflügel des Schlosses trägt ihren Namen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.weiterstadt.de/kultur-freizeit/kulturelles-leben/schloss-braunshardt/index.php; www.weiterstadt.de/wirtschaft-umwelt-verkehr/ueber-weiterstadt/stadtteile/index.php",
+"faktencheck": "korrigiert",
+"id": "137-weiterstadt/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weiterstadt",
+"steckbrief": "Stadt mit rund 27.000 Einwohnern, 5 km nordwestlich von Darmstadt.",
+"frage": "Auf welcher Höhe über dem Meeresspiegel liegt Weiterstadt?",
+"optionen": [
+"unter 60 Meter",
+"60 bis unter 80 Meter",
+"80 bis unter 100 Meter",
+"100 bis unter 120 Meter"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Darmstadt liegt am Rand der Oberrheinischen Tiefebene; das Wort „Tiefebene“ verführt zu einer niedrigen Schätzung. Die Quellen nennen für Weiterstadt 105 oder 109 Meter; beide Werte liegen in derselben Spanne. Richtig war 4.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "137-weiterstadt/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Weiterstadt",
+"steckbrief": "Stadt mit rund 27.000 Einwohnern, 5 km nordwestlich von Darmstadt.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Stadtteil Riedbahn ist nach einem Bach benannt.",
+"Schloss Braunshardt wurde im Stil des Rokoko erbaut.",
+"Gräfenhausen und Schneppenhausen kamen gleichzeitig zu Weiterstadt."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. „Ried“ steht für feuchtes Schilfland, deshalb klingt ein Bach plausibel. Doch die Bahn im Namen ist wörtlich gemeint: Der Stadtteil heißt nach der Eisenbahnstrecke Darmstadt–Ried. Schloss Braunshardt ist tatsächlich Rokoko, und Gräfenhausen und Schneppenhausen kamen am selben Tag zu Weiterstadt. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.weiterstadt.de/wirtschaft-umwelt-verkehr/ueber-weiterstadt/stadtteile/index.php; www.weiterstadt.de/kultur-freizeit/kulturelles-leben/schloss-braunshardt/index.php; www.weiterstadt.de/wirtschaft-umwelt-verkehr/ueber-weiterstadt/stadtportrait/index.php",
+"faktencheck": "korrigiert",
+"id": "137-weiterstadt/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Weiterstadt",
+"steckbrief": "Stadt mit rund 27.000 Einwohnern, 5 km nordwestlich von Darmstadt.",
+"frage": "Welche Partei wurde in Weiterstadt bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"CDU",
+"SPD",
+"AfD",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit wurde die AfD zweitstärkste Kraft, darum liegt sie nahe. In Weiterstadt kam die SPD auf 21,2 Prozent, hinter der CDU mit 25,8 und vor der AfD mit 17,8 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "137-weiterstadt/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weiterstadt",
+"steckbrief": "Stadt mit rund 27.000 Einwohnern, 5 km nordwestlich von Darmstadt.",
+"frage": "Das Renaissance-Schloss neben dem Schlossturm Gräfenhausen heißt Ohlystift. Nach wem ist es benannt?",
+"optionen": [
+"Nach dem Erbauer des Renaissance-Schlosses.",
+"Nach einem Arzt, der dort wirkte.",
+"Nach einem Darmstädter Oberbürgermeister.",
+"Nach einer Stifterin aus Gräfenhausen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Stift heißt oft nach seinem Stifter, darum liegt eine Stifterin nahe. Namensgeber ist aber Albrecht Ohly, Oberbürgermeister von Darmstadt. Das Haus diente einst als landgräfliches Invalidenhaus und als Kinderheim der Stadt Darmstadt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.weiterstadt.de/kultur-freizeit/kulturelles-leben/schlossturm-graefenhausen/index.php",
+"faktencheck": "bestätigt",
+"id": "137-weiterstadt/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Weiterstadt",
+"steckbrief": "Stadt mit rund 27.000 Einwohnern, 5 km nordwestlich von Darmstadt.",
+"frage": "Zu welchem Landkreis gehört Weiterstadt?",
+"optionen": [
+"Groß-Gerau",
+"Offenbach",
+"Bergstraße",
+"Darmstadt-Dieburg"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Groß-Gerau liegt nahe, denn Darmstadt selbst ist kreisfrei und scheint als Kreisname auszuscheiden. Doch Weiterstadt gehört zum Landkreis Darmstadt-Dieburg, der die Stadt im Namen trägt, ohne sie zu umfassen. Richtig war 4.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "137-weiterstadt/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weiterstadt",
+"steckbrief": "Stadt mit rund 27.000 Einwohnern, 5 km nordwestlich von Darmstadt.",
+"frage": "Queen Victoria besuchte Schloss Braunshardt und schwärmte in ihrem Tagebuch von den Räumen. Woran erinnerten sie die Zimmer?",
+"optionen": [
+"Sie erinnerten sie an bunte Pralinenkästchen.",
+"Sie erinnerten sie an bemalte Ostereier.",
+"Sie erinnerten sie an kleine Vogelkäfige.",
+"Sie erinnerten sie an bestickte Seidenfächer."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bemalte Ostereier liegen nahe, denn die Räume sind vielfarbig angelegt. Victoria beschrieb ein blaues, gelbes, lilafarbenes und grünes Zimmer und fand, sie erinnerten an kleine bunte Pralinenkästchen. Zur Ausstattung gehören auch Porzellanröschen im Gartenkabinett und bunte Türen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.weiterstadt.de/kultur-freizeit/kulturelles-leben/schloss-braunshardt/index.php",
+"faktencheck": "bestätigt",
+"id": "137-weiterstadt/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weiterstadt",
+"steckbrief": "Stadt mit rund 27.000 Einwohnern, 5 km nordwestlich von Darmstadt.",
+"frage": "1211 nennt ein Güterverzeichnis des Klosters Eberbach einen Konrad von Schneppenhausen. Er schenkte Land. Wofür?",
+"optionen": [
+"Damit sicherte er die Mitgift seiner Tochter.",
+"Er gab es für das Seelenheil seines Bruders.",
+"Er dankte damit für die Rückkehr vom Kreuzzug.",
+"Er beglich damit eine alte Schuld."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Rückkehr vom Kreuzzug liegt nahe, denn Dankstiftungen an Klöster waren im Mittelalter verbreitet. Konrad schenkte das Land aber für das Seelenheil seines Bruders. Im selben Verzeichnis taucht auch Gräfenhausen auf. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.weiterstadt.de/wirtschaft-umwelt-verkehr/ueber-weiterstadt/stadtteile/index.php",
+"faktencheck": "unsicher",
+"id": "137-weiterstadt/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weiterstadt",
+"steckbrief": "Stadt mit rund 27.000 Einwohnern, 5 km nordwestlich von Darmstadt.",
+"frage": "Das Industrie- und Gewerbegebiet Riedbahn wurde Anfang der 1960er Jahre erschlossen. Was war das Gelände zuvor?",
+"optionen": [
+"Es war ein Steinbruch.",
+"Es war eine Pferderennbahn.",
+"Es war ein Golfplatz.",
+"Es war ein Exerzierplatz."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Rennbahn liegt nahe, denn große ebene Flächen am Ortsrand dienten oft Pferden und Publikum. Tatsächlich war es ein ehemaliger Exerzierplatz, also ein Übungsgelände für Soldaten. Das Gewerbegebiet am Autobahnanschluss gab nach dem Zweiten Weltkrieg den Ausschlag für Weiterstadts wirtschaftliche Entwicklung. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.weiterstadt.de/wirtschaft-umwelt-verkehr/ueber-weiterstadt/stadtportrait/index.php",
+"faktencheck": "unsicher",
+"id": "137-weiterstadt/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "64-ruesselsheim",
+"anschluss": [
+"Kennzeichen: In Rüsselsheim steht GG am Auto, in Weiterstadt DA.",
+"Bundestagswahl 2025: Weiterstadt hatte eine höhere Wahlbeteiligung als Rüsselsheim."
+],
+"anschluesse": {
+"21-zwingenberg": [
+"Kreisgrenze: Zwingenberg gehört zum Landkreis Bergstraße, Weiterstadt zum Landkreis Darmstadt-Dieburg.",
+"Weiterstadt hat gut dreieinhalbmal so viele Einwohner wie Zwingenberg."
+],
+"42-seeheim-jugenheim": [
+"Weiterstadt hat gut anderthalbmal so viele Einwohner wie Seeheim-Jugenheim.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Seeheim-Jugenheim die Grünen, in Weiterstadt die SPD."
+],
+"43-darmstadt": [
+"Kreisgrenze: Darmstadt ist kreisfrei, Weiterstadt gehört zum Landkreis Darmstadt-Dieburg.",
+"Bundestagswahl 2025: In Darmstadt lagen die Grünen vorn, in Weiterstadt die CDU."
+],
+"22-langen": [
+"Kreisgrenze: Langen gehört zum Landkreis Offenbach, Weiterstadt zum Landkreis Darmstadt-Dieburg.",
+"Langen hat anderthalbmal so viele Einwohner wie Weiterstadt."
+],
+"136-neu-isenburg": [
+"Kreisgrenze: Neu-Isenburg gehört zum Landkreis Offenbach, Weiterstadt zum Landkreis Darmstadt-Dieburg.",
+"Neu-Isenburg hat fast anderthalbmal so viele Einwohner wie Weiterstadt."
+],
+"64-ruesselsheim": [
+"Kennzeichen: In Rüsselsheim steht GG am Auto, in Weiterstadt DA.",
+"Bundestagswahl 2025: Weiterstadt hatte eine höhere Wahlbeteiligung als Rüsselsheim."
+],
+"138-gross-gerau": [
+"Kreisgrenze: Groß-Gerau gehört zum Landkreis Groß-Gerau, Weiterstadt zum Landkreis Darmstadt-Dieburg.",
+"Groß-Gerau und Weiterstadt sind fast gleich groß: rund 25.000 und 27.000 Einwohner."
+],
+"135-nackenheim": [
+"Landesgrenze: Nackenheim liegt in Rheinland-Pfalz, Weiterstadt in Hessen.",
+"Weiterstadt hat fünfmal so viele Einwohner wie Nackenheim."
+],
+"61-nierstein": [
+"Landesgrenze: Nierstein liegt in Rheinland-Pfalz, Weiterstadt in Hessen.",
+"Weiterstadt hat fast dreieinhalbmal so viele Einwohner wie Nierstein."
+],
+"62-oppenheim": [
+"Landesgrenze: Oppenheim liegt in Rheinland-Pfalz, Weiterstadt in Hessen.",
+"Weiterstadt hat gut dreieinhalbmal so viele Einwohner wie Oppenheim."
+]
+},
+"ags": "06432023",
+"ortsteil": false,
+"km_vom_vorigen": 17.1
+},
+{
+"slug": "138-gross-gerau",
+"name": "Groß-Gerau",
+"lat": 49.92139,
+"lon": 8.48181,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Groß-Gerau",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 13 km nordwestlich von Darmstadt.",
+"frage": "Im Jahr 1398 erhielt Groß-Gerau die Stadtrechte. Wer erwirkte ihre Verleihung?",
+"optionen": [
+"Die Grafen von Württemberg erwirkten sie.",
+"Die Grafen von Katzenelnbogen erwirkten sie.",
+"Die Grafen von Henneberg erwirkten sie.",
+"Die Grafen von Sponheim erwirkten sie."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Württemberg liegt nahe, weil das Haus im Südwesten so mächtig wurde. Erwirkt haben sie die Grafen von Katzenelnbogen, damals mächtige Territorialherren. Sie hatten die ausgestorbenen Herren von Dornberg samt deren Schloss beerbt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/",
+"faktencheck": "korrigiert",
+"id": "138-gross-gerau/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Groß-Gerau",
+"steckbrief": "Kreisstadt mit rund 25.000 Einwohnern, 13 km nordwestlich von Darmstadt.",
+"frage": "Wie viele Einwohner leben in Groß-Gerau rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 200",
+"200 bis unter 400",
+"400 bis unter 800",
+"800 oder mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Kreisstadt im Rhein-Main-Gebiet klingt nach dichter Bebauung. Doch zu Groß-Gerau gehört viel Landwirtschafts- und Waldfläche. Rechnerisch kommen 466 Einwohner auf einen Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "138-gross-gerau/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Groß-Gerau",
+"steckbrief": "Stadt im nördlichen hessischen Ried, rund 25.000 Einwohner, 13 km nordwestlich von Darmstadt.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Dornheim wurde zur Zeit Karls des Großen erwähnt.",
+"Berkach steht auf dem Boden einer Wikingersiedlung.",
+"Laut Ortschronik brandschatzte Franz von Sickingen einst Wallerstädten."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Karl der Große klingt verdächtig früh, doch Dornheim wurde tatsächlich zu seiner Zeit erstmals erwähnt. Gelogen ist das Volk: Berkach steht auf dem Boden einer ehemaligen römischen Siedlung und lag einst an einer Römerstraße. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/",
+"faktencheck": "korrigiert",
+"id": "138-gross-gerau/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Groß-Gerau",
+"steckbrief": "Kreisstadt im Rhein-Main-Gebiet, rund 25.000 Einwohner, 13 km nordwestlich von Darmstadt.",
+"frage": "Wie hoch war die Wahlbeteiligung in Groß-Gerau bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 83 %",
+"83 bis unter 85 %",
+"85 bis unter 87 %",
+"87 % oder mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Bundestagswahl 2025 mobilisierte bundesweit stark, da liegt eine höhere Spanne nahe. In Groß-Gerau lag die Wahlbeteiligung bei 82,2 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "138-gross-gerau/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Groß-Gerau",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 13 km nordwestlich von Darmstadt.",
+"frage": "Das Haus Raiss wurde 1983 Senioren-Begegnungsstätte. Wie war die Stadt an das Haus gekommen?",
+"optionen": [
+"Die Stadt kaufte es einem Bauunternehmen ab.",
+"Der Besitzer vererbte es der Stadt.",
+"Ein Seniorenverein schenkte es der Stadt.",
+"Die Stadt tauschte es gegen ein Grundstück."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Kauf liegt nahe, so kommen Städte meist an Häuser. Doch Weißbindermeister Philipp Raiss vererbte es der Stadt, mit der Auflage einer Einrichtung für alte Menschen. Er selbst hatte es durch einen vom NS-Regime erzwungenen Verkauf erworben: Gustav Hirsch, Vorsteher der jüdischen Gemeinde, musste es abgeben. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gross-gerau.de/Familie-Soziales/Senioren/Geschichte-Haus-Raiss/",
+"faktencheck": "bestätigt",
+"id": "138-gross-gerau/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Groß-Gerau",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 13 km nordwestlich von Darmstadt.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Groß-Gerau?",
+"optionen": [
+"DA",
+"MZ",
+"GG",
+"GER"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. DA liegt nahe, denn Darmstadt ist nur 13 Kilometer entfernt. Doch Groß-Gerau ist Kreisstadt des Landkreises Groß-Gerau, und dort ist GG das Hauptkennzeichen. Richtig war 3.",
+"quelle": "Wikidata P395 (Landkreis: dewiki Infobox; Kreisstadt: Gemeinde-Webseite, www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/)",
+"faktencheck": "bestätigt",
+"id": "138-gross-gerau/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Groß-Gerau",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 13 km nordwestlich von Darmstadt.",
+"frage": "Esch bei Groß-Gerau ist seit vorgeschichtlicher Zeit besiedelt und liegt erhöht im flachen Ried. Wie entstand die Anhöhe?",
+"optionen": [
+"Römer schütteten sie als Wachthügel auf.",
+"Siedlungsschutt türmte sich über Jahrtausende auf.",
+"Ein Vulkan hinterließ dort einen Basaltkegel.",
+"Eiszeitlicher Wind wehte dort Sand zusammen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein so alter Siedlungsplatz lässt an Menschenwerk denken, etwa an aufgehäuften Siedlungsschutt. Doch Esch ist eine eiszeitliche Flugsanddüne: In Trockenperioden der Eiszeit wehte der Wind Sand aus den Schotterflächen des Rheins heran. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gross-gerau.de/Kultur-Freizeit/Sehenswertes/Geschichte-Naturlandschaft/",
+"faktencheck": "bestätigt",
+"id": "138-gross-gerau/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Groß-Gerau",
+"steckbrief": "Kreisstadt im hessischen Ried mit rund 25.000 Einwohnern, 13 km nordwestlich von Darmstadt.",
+"frage": "Der kleine Stadtteil Dornberg hat einen besonderen Ursprung. Wofür entstand die Siedlung?",
+"optionen": [
+"Sie entstand für die Bediensteten eines Schlosses.",
+"Sie entstand für die Arbeiter einer Ziegelei.",
+"Sie entstand als Fischersiedlung an einem Altrheinarm.",
+"Sie entstand als Siedlung für Glaubensflüchtlinge."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Glaubensflüchtlinge gründeten in Hessen manches Dorf, das liegt nahe. Doch Dornberg entstand als Wohnsiedlung für die Bediensteten des Dornberger Schlosses. Später nutzte die Landgrafschaft Hessen es als Jagdschloss, bis es durch Feuer zerstört wurde; Teile blieben erhalten. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/",
+"faktencheck": "korrigiert",
+"id": "138-gross-gerau/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Groß-Gerau",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 13 km nordwestlich von Darmstadt.",
+"frage": "Brauerei, Öl-, Zucker- und Konservenfabrik zeugten in Groß-Gerau von der Industrialisierung. Was gab laut Stadtgeschichte den Startschuss dafür?",
+"optionen": [
+"Die Stadt hatte gerade Stadtrechte erhalten.",
+"Ein Großbrand hatte die alten Werkstätten zerstört.",
+"Eine neue Eisenbahnlinie hatte die Stadt erreicht.",
+"Die Stadt war gerade Sitz des Kreisamts geworden."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Stadtrechte klingen nach Aufschwung, doch die hatte Groß-Gerau längst. Den Startschuss gab die neue Eisenbahn von Darmstadt nach Mainz. Brauerei und Konservenfabrik verschwanden später nach und nach. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gross-gerau.de/Stadt-Verwaltung/Kreisstadt-Groß-Gerau/Geschichte-der-Stadtteile/",
+"faktencheck": "korrigiert",
+"id": "138-gross-gerau/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "137-weiterstadt",
+"anschluss": [
+"Kennzeichen: In Groß-Gerau steht GG am Auto, in Weiterstadt DA.",
+"Weiterstadt hat mehr Einwohner als Groß-Gerau, aber weniger Fläche."
+],
+"anschluesse": {
+"43-darmstadt": [
+"Kreisgrenze: Darmstadt ist kreisfrei, Groß-Gerau gehört zum Landkreis Groß-Gerau.",
+"Bundestagswahl 2025: In Darmstadt lagen die Grünen vorn, in Groß-Gerau die CDU."
+],
+"22-langen": [
+"Kreisgrenze: Langen gehört zum Landkreis Offenbach, Groß-Gerau zum Landkreis Groß-Gerau.",
+"Langen hat anderthalbmal so viele Einwohner wie Groß-Gerau."
+],
+"64-ruesselsheim": [
+"Rüsselsheim hat gut zweieinhalbmal so viele Einwohner wie Groß-Gerau."
+],
+"137-weiterstadt": [
+"Kennzeichen: In Groß-Gerau steht GG am Auto, in Weiterstadt DA.",
+"Weiterstadt hat mehr Einwohner als Groß-Gerau, aber weniger Fläche."
+],
+"139-bischofsheim": [
+"Groß-Gerau hat doppelt so viele Einwohner wie Bischofsheim."
+],
+"45-mainz": [
+"Landesgrenze: Mainz liegt in Rheinland-Pfalz, Groß-Gerau in Hessen.",
+"Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Groß-Gerau die CDU."
+],
+"134-bodenheim": [
+"Landesgrenze: Bodenheim liegt in Rheinland-Pfalz, Groß-Gerau in Hessen.",
+"Groß-Gerau hat fast dreieinhalbmal so viele Einwohner wie Bodenheim."
+],
+"135-nackenheim": [
+"Landesgrenze: Nackenheim liegt in Rheinland-Pfalz, Groß-Gerau in Hessen.",
+"Groß-Gerau hat gut viereinhalbmal so viele Einwohner wie Nackenheim."
+],
+"61-nierstein": [
+"Landesgrenze: Nierstein liegt in Rheinland-Pfalz, Groß-Gerau in Hessen.",
+"Groß-Gerau hat gut dreimal so viele Einwohner wie Nierstein."
+],
+"62-oppenheim": [
+"Landesgrenze: Oppenheim liegt in Rheinland-Pfalz, Groß-Gerau in Hessen.",
+"Groß-Gerau hat dreieinhalbmal so viele Einwohner wie Oppenheim."
+],
+"144-guntersblum": [
+"Landesgrenze: Guntersblum liegt in Rheinland-Pfalz, Groß-Gerau in Hessen.",
+"Groß-Gerau hat gut sechsmal so viele Einwohner wie Guntersblum."
+]
+},
+"ags": "06433006",
+"ortsteil": false,
+"km_vom_vorigen": 8.8
+},
+{
+"slug": "139-bischofsheim",
+"name": "Bischofsheim",
+"lat": 49.98903,
+"lon": 8.355,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bischofsheim",
+"steckbrief": "Bischofsheim, rund 13.000 Einwohner, liegt 5 km östlich von Mainz.",
+"frage": "Bischofsheim wurde im 11. Jahrhundert erstmals urkundlich erwähnt. Woher stammt der Ortsname nach Darstellung der Gemeinde?",
+"optionen": [
+"Er beschreibt eine Biegung des Mains.",
+"Er erinnert an einen Bischof als Gründer.",
+"Er geht auf einen bischöflichen Gutshof zurück.",
+"Er kommt von einer Bischofsmütze im Wappen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Bischof im Namen drängt sich auf, zumal Mainz mit seinem Bischofssitz gleich nebenan liegt. Die Gemeinde leitet den Namen aber von einer Mainbiegung ab: Das alte Wort „bieschen“ bedeutet biegen. Eine alte Urkunde nennt den Ort „Bissescheim circa menum“, also in der Nähe des Mains. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, bischofsheim.de/leben-und-wohnen/geschichte.html",
+"faktencheck": "korrigiert",
+"id": "139-bischofsheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bischofsheim",
+"steckbrief": "Bischofsheim liegt 5 km östlich von Mainz und umfasst gut 9 Quadratkilometer.",
+"frage": "Wie viele Menschen leben in der Gemeinde Bischofsheim?",
+"optionen": [
+"unter 10.000",
+"10.000 bis unter 15.000",
+"15.000 bis unter 25.000",
+"25.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Neun Quadratkilometer klingen nach Dorf, und so schätzen viele eher niedrig. Doch Bischofsheim ist dicht besiedelt wie eine Stadt: Ende 2025 lebten in der Gemeinde 13.034 Menschen. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "139-bischofsheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bischofsheim",
+"steckbrief": "Bischofsheim, rund 13.000 Einwohner, liegt 5 km östlich von Mainz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bischofsheim war einige Jahre ein Stadtteil von Mainz.",
+"Bomben im Zweiten Weltkrieg galten dem Bahnknoten.",
+"Zugezogene Bergleute machten das Bauerndorf zur Arbeitergemeinde."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf als Stadtteil von Mainz klingt erfunden, stimmt aber: Zwischen den Weltkriegen kam Bischofsheim zu Mainz, nach dem Zweiten Weltkrieg wieder zu Hessen. Gelogen sind die Bergleute. Gewachsen ist der Ort durch die Eisenbahn: Eisenbahner aus ganz Deutschland zogen her. Der Bahnknoten zog im Zweiten Weltkrieg auch die Bomben an. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, bischofsheim.de/leben-und-wohnen/geschichte.html",
+"faktencheck": "korrigiert",
+"id": "139-bischofsheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bischofsheim",
+"steckbrief": "Bischofsheim, rund 13.000 Einwohner, liegt 5 km östlich von Mainz im Kreis Groß-Gerau.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Bischofsheim?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 23 %",
+"23 bis unter 25 %",
+"25 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In einer Eisenbahnergemeinde erwarten viele die SPD vorn. Sie kam auch auf 22,3 Prozent, doch die CDU lag mit 25,8 Prozent der Zweitstimmen davor. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "139-bischofsheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bischofsheim",
+"steckbrief": "Bischofsheim, rund 13.000 Einwohner, liegt 5 km östlich von Mainz.",
+"frage": "Eine Siedlung aus den späten 1920er-Jahren wird im Volksmund „Jerusalem“ genannt. Warum bekam sie diesen Namen?",
+"optionen": [
+"Ihre flachen Dächer erinnerten an den Orient.",
+"Sie wurde an einem Osterfest eingeweiht.",
+"Der Bauherr wählte den Namen aus der Bibel.",
+"Fromme Siedler gründeten dort eine Gebetsgemeinschaft."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei „Jerusalem“ denkt man an Bibel und Frömmigkeit, also an eine kirchliche Gründung. Doch der Name kam aus dem Volksmund: Die Häuser Am Alten Gerauer Weg hatten flache Dächer, damals unüblich, und die Bevölkerung fühlte sich an den Vorderen Orient erinnert. Heute steht die Siedlung unter Denkmalschutz. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, bischofsheim.de/leben-und-wohnen/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "139-bischofsheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bischofsheim",
+"steckbrief": "Bischofsheim, rund 13.000 Einwohner, liegt 5 km östlich von Mainz im hessischen Kreis Groß-Gerau.",
+"frage": "Wie weit ist es von Bischofsheim in Luftlinie bis Wiesbaden, der Landeshauptstadt Hessens?",
+"optionen": [
+"unter 10 km",
+"10 bis unter 20 km",
+"20 bis unter 35 km",
+"35 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer den Kreis Groß-Gerau eher Richtung Darmstadt verortet, schätzt weiter. Doch Wiesbaden liegt Mainz direkt gegenüber am Rhein, und Bischofsheim gleich östlich von Mainz: Bis zur Landeshauptstadt sind es nur 13 km Luftlinie. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "139-bischofsheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Bischofsheim",
+"steckbrief": "Bischofsheim, heute rund 13.000 Einwohner, liegt 5 km östlich von Mainz.",
+"frage": "1629 zählte Bischofsheim 455 Einwohner. Wie viele Menschen lebten zwölf Jahre später, 1641, noch im Ort?",
+"optionen": [
+"unter 20",
+"20 bis unter 50",
+"50 bis unter 150",
+"150 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele schätzen einen Einbruch um ein Drittel oder die Hälfte, schon das wäre schlimm. Doch der Dreißigjährige Krieg brachte dem Ort Mord, Verwüstung und Pest: In jenem Jahr lebten nur noch 63 Menschen in Bischofsheim. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, bischofsheim.de/leben-und-wohnen/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "139-bischofsheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bischofsheim",
+"steckbrief": "Bischofsheim, rund 13.000 Einwohner, liegt 5 km östlich von Mainz.",
+"frage": "Im Bischofsheimer Wappen stehen zwei Kreise, durch einen Bogen verbunden. Ein Heimatforscher vermerkte, man habe sie ursprünglich scherzhaft „Brille“ genannt. Woher stammt dieses Zeichen?",
+"optionen": [
+"Es zeigt die Räder einer frühen Dampflok.",
+"Es stammt aus einem alten Gerichtssiegel.",
+"Es ehrt eine frühere Brillenfabrik im Ort.",
+"Es wurde eigens für das Wappen entworfen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Zwei Kreise mit Bogen erinnern an Räder, und in einer Eisenbahnergemeinde liegt die Dampflok nahe. Das Zeichen ist aber älter als die Bahn: Es stammt aus einem Gerichtssiegel. Das Hessische Ministerium veranlasste das Wappen; dort steht die Brille unter dem hessischen Löwen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, bischofsheim.de/startseite/bischofsheim-im-ueberblick/wappen.html",
+"faktencheck": "korrigiert",
+"id": "139-bischofsheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bischofsheim",
+"steckbrief": "Bischofsheim, rund 13.000 Einwohner, liegt 5 km östlich von Mainz.",
+"frage": "Über Generationen hatte Bischofsheim gleichzeitig zwei Ortsoberhäupter. Warum?",
+"optionen": [
+"Ein Hochwasser hatte das Dorf zweigeteilt.",
+"Alt- und Neubürger stellten je ein Oberhaupt.",
+"Zwei Kirchengemeinden wählten je ein Oberhaupt.",
+"Zwei Grundherren teilten sich den Ort."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei zwei Oberhäuptern denkt man an eine Spaltung im Dorf selbst. Doch die Teilung kam von oben: Zwei Grundherren besaßen je einen Teil des Orts, und jeder Teil brauchte sein eigenes Oberhaupt. Erst als ein hessischer Landgraf auch den zweiten Teil erwarb, war ganz Bischofsheim hessisch. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, bischofsheim.de/leben-und-wohnen/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "139-bischofsheim/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bischofsheim",
+"steckbrief": "Bischofsheim, rund 13.000 Einwohner, liegt 5 km östlich von Mainz.",
+"frage": "Der denkmalgeschützte Wasserturm ist ein Wahrzeichen Bischofsheims. Wofür speicherte er ursprünglich sein Wasser?",
+"optionen": [
+"Für die Dampfloks der Eisenbahn.",
+"Für eine Brauerei am Ortsrand.",
+"Für die Bewässerung der Gemüsefelder.",
+"Für das Freibad der Gemeinde."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Wasserturm im Dorf lässt an Felder, Gewerbe oder Badespaß denken. Dieser aber diente der Eisenbahn: Er speicherte Wasser für die vielen Dampfloks, die in Bischofsheim beheimatet waren. Heute erinnert er an die großen Zeiten der Dampflok und steht unter Denkmalschutz. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, bischofsheim.de/leben-und-wohnen/geschichte.html",
+"faktencheck": "bestätigt",
+"id": "139-bischofsheim/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "138-gross-gerau",
+"anschluss": [
+"Fläche: Groß-Gerau ist rund sechsmal so groß wie Bischofsheim.",
+"Einwohner: Groß-Gerau hat nur knapp doppelt so viele wie Bischofsheim."
+],
+"anschluesse": {
+"64-ruesselsheim": [
+"Rüsselsheim hat fünfmal so viele Einwohner wie Bischofsheim."
+],
+"138-gross-gerau": [
+"Fläche: Groß-Gerau ist rund sechsmal so groß wie Bischofsheim.",
+"Einwohner: Groß-Gerau hat nur knapp doppelt so viele wie Bischofsheim."
+],
+"45-mainz": [
+"Landesgrenze: Mainz liegt in Rheinland-Pfalz, Bischofsheim in Hessen.",
+"Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Bischofsheim die CDU."
+],
+"46-wiesbaden": [
+"Kreisgrenze: Wiesbaden ist kreisfrei, Bischofsheim gehört zum Landkreis Groß-Gerau.",
+"Wiesbaden hat rund zwanzigmal so viele Einwohner wie Bischofsheim."
+],
+"23-walluf": [
+"Kreisgrenze: Walluf gehört zum Rheingau-Taunus-Kreis, Bischofsheim zum Landkreis Groß-Gerau.",
+"Bischofsheim hat fast zweieinhalbmal so viele Einwohner wie Walluf."
+],
+"04-eltville": [
+"Kreisgrenze: Eltville am Rhein gehört zum Rheingau-Taunus-Kreis, Bischofsheim zum Landkreis Groß-Gerau.",
+"Eltville am Rhein hat rund 3.900 Einwohner mehr als Bischofsheim."
+],
+"134-bodenheim": [
+"Landesgrenze: Bodenheim liegt in Rheinland-Pfalz, Bischofsheim in Hessen.",
+"Bischofsheim hat gut anderthalbmal so viele Einwohner wie Bodenheim."
+],
+"135-nackenheim": [
+"Landesgrenze: Nackenheim liegt in Rheinland-Pfalz, Bischofsheim in Hessen.",
+"Bischofsheim hat fast zweieinhalbmal so viele Einwohner wie Nackenheim."
+],
+"61-nierstein": [
+"Landesgrenze: Nierstein liegt in Rheinland-Pfalz, Bischofsheim in Hessen.",
+"Bischofsheim hat gut anderthalbmal so viele Einwohner wie Nierstein."
+],
+"62-oppenheim": [
+"Landesgrenze: Oppenheim liegt in Rheinland-Pfalz, Bischofsheim in Hessen.",
+"Bischofsheim hat fast doppelt so viele Einwohner wie Oppenheim."
+]
+},
+"ags": "06433002",
+"ortsteil": false,
+"km_vom_vorigen": 11.8
 },
 {
 "slug": "45-mainz",
@@ -18633,15 +19567,20 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "64-ruesselsheim",
-"anschluss": [
-"Landesgrenze: Rüsselsheim liegt in Hessen, Mainz in Rheinland-Pfalz.",
-"Mainz hat mehr als dreimal so viele Einwohner wie Rüsselsheim."
-],
+"anschluss_von": "139-bischofsheim",
+"anschluss": [],
 "anschluesse": {
 "64-ruesselsheim": [
 "Landesgrenze: Rüsselsheim liegt in Hessen, Mainz in Rheinland-Pfalz.",
 "Mainz hat mehr als dreimal so viele Einwohner wie Rüsselsheim."
+],
+"138-gross-gerau": [
+"Landesgrenze: Groß-Gerau liegt in Hessen, Mainz in Rheinland-Pfalz.",
+"Bundestagswahl 2025: In Groß-Gerau lag die CDU vorn, in Mainz die Grünen."
+],
+"139-bischofsheim": [
+"Landesgrenze: Bischofsheim liegt in Hessen, Mainz in Rheinland-Pfalz.",
+"Bundestagswahl 2025: In Bischofsheim lag die CDU vorn, in Mainz die Grünen."
 ],
 "46-wiesbaden": [
 "Landesgrenze: Wiesbaden liegt in Hessen, Mainz in Rheinland-Pfalz.",
@@ -18682,7 +19621,7 @@ window.QA_DATEN = {
 },
 "ags": "07315000",
 "ortsteil": false,
-"km_vom_vorigen": 9.9
+"km_vom_vorigen": 5.9
 },
 {
 "slug": "46-wiesbaden",
@@ -18879,6 +19818,10 @@ window.QA_DATEN = {
 "64-ruesselsheim": [
 "Kreisgrenze: Rüsselsheim gehört zum Landkreis Groß-Gerau, Wiesbaden ist kreisfrei.",
 "Wiesbaden hat viereinhalbmal so viele Einwohner wie Rüsselsheim."
+],
+"139-bischofsheim": [
+"Kreisgrenze: Bischofsheim gehört zum Landkreis Groß-Gerau, Wiesbaden ist kreisfrei.",
+"Wiesbaden hat rund zwanzigmal so viele Einwohner wie Bischofsheim."
 ],
 "45-mainz": [
 "Landesgrenze: Mainz ist die Hauptstadt von Rheinland-Pfalz, Wiesbaden die von Hessen.",
@@ -19088,6 +20031,10 @@ window.QA_DATEN = {
 "64-ruesselsheim": [
 "Kreisgrenze: Rüsselsheim gehört zum Landkreis Groß-Gerau, Walluf zum Rheingau-Taunus-Kreis.",
 "Rüsselsheim hat zwölfmal so viele Einwohner wie Walluf."
+],
+"139-bischofsheim": [
+"Kreisgrenze: Bischofsheim gehört zum Landkreis Groß-Gerau, Walluf zum Rheingau-Taunus-Kreis.",
+"Bischofsheim hat fast zweieinhalbmal so viele Einwohner wie Walluf."
 ],
 "45-mainz": [
 "Landesgrenze: Mainz liegt in Rheinland-Pfalz, Walluf in Hessen.",
@@ -19320,6 +20267,10 @@ window.QA_DATEN = {
 "Eltville hat fast siebenmal so viel Fläche wie Walluf."
 ],
 "anschluesse": {
+"139-bischofsheim": [
+"Kreisgrenze: Bischofsheim gehört zum Landkreis Groß-Gerau, Eltville am Rhein zum Rheingau-Taunus-Kreis.",
+"Eltville am Rhein hat rund 3.900 Einwohner mehr als Bischofsheim."
+],
 "45-mainz": [
 "Landesgrenze: Mainz liegt in Rheinland-Pfalz, Eltville am Rhein in Hessen.",
 "Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Eltville am Rhein die CDU."
@@ -19343,6 +20294,10 @@ window.QA_DATEN = {
 "05-ruedesheim": [
 "Eltville am Rhein hat gut anderthalbmal so viele Einwohner wie Rüdesheim am Rhein.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Rüdesheim am Rhein die AfD, in Eltville am Rhein die Grünen."
+],
+"143-trechtingshausen": [
+"Landesgrenze: Trechtingshausen liegt in Rheinland-Pfalz, Eltville am Rhein in Hessen.",
+"Eltville am Rhein hat siebzehnmal so viele Einwohner wie Trechtingshausen."
 ],
 "52-bingen": [
 "Landesgrenze: Bingen liegt in Rheinland-Pfalz, Eltville am Rhein in Hessen.",
@@ -19585,6 +20540,14 @@ window.QA_DATEN = {
 "51-bacharach": [
 "Landesgrenze: Bacharach liegt in Rheinland-Pfalz, Oestrich-Winkel in Hessen.",
 "Oestrich-Winkel hat gut siebenmal so viele Einwohner wie Bacharach."
+],
+"142-niederheimbach": [
+"Landesgrenze: Niederheimbach liegt in Rheinland-Pfalz, Oestrich-Winkel in Hessen.",
+"Oestrich-Winkel hat vierzehnmal so viele Einwohner wie Niederheimbach."
+],
+"143-trechtingshausen": [
+"Landesgrenze: Trechtingshausen liegt in Rheinland-Pfalz, Oestrich-Winkel in Hessen.",
+"Oestrich-Winkel hat zwölfmal so viele Einwohner wie Trechtingshausen."
 ],
 "52-bingen": [
 "Landesgrenze: Bingen liegt in Rheinland-Pfalz, Oestrich-Winkel in Hessen.",
@@ -19837,6 +20800,14 @@ window.QA_DATEN = {
 "Landesgrenze: Bacharach liegt in Rheinland-Pfalz, Geisenheim in Hessen.",
 "Geisenheim hat gut siebenmal so viele Einwohner wie Bacharach."
 ],
+"142-niederheimbach": [
+"Landesgrenze: Niederheimbach liegt in Rheinland-Pfalz, Geisenheim in Hessen.",
+"Geisenheim hat vierzehnmal so viele Einwohner wie Niederheimbach."
+],
+"143-trechtingshausen": [
+"Landesgrenze: Trechtingshausen liegt in Rheinland-Pfalz, Geisenheim in Hessen.",
+"Geisenheim hat fast zwölfmal so viele Einwohner wie Trechtingshausen."
+],
 "52-bingen": [
 "Landesgrenze: Bingen liegt in Rheinland-Pfalz, Geisenheim in Hessen.",
 "Bingen hat fast zweieinhalbmal so viele Einwohner wie Geisenheim."
@@ -20087,6 +21058,14 @@ window.QA_DATEN = {
 "51-bacharach": [
 "Landesgrenze: Bacharach liegt in Rheinland-Pfalz, Rüdesheim am Rhein in Hessen.",
 "Rüdesheim am Rhein hat gut sechsmal so viele Einwohner wie Bacharach."
+],
+"142-niederheimbach": [
+"Landesgrenze: Niederheimbach liegt in Rheinland-Pfalz, Rüdesheim am Rhein in Hessen.",
+"Rüdesheim am Rhein hat zwölfmal so viele Einwohner wie Niederheimbach."
+],
+"143-trechtingshausen": [
+"Landesgrenze: Trechtingshausen liegt in Rheinland-Pfalz, Rüdesheim am Rhein in Hessen.",
+"Rüdesheim am Rhein hat zehnmal so viele Einwohner wie Trechtingshausen."
 ],
 "52-bingen": [
 "Landesgrenze: Bingen liegt in Rheinland-Pfalz, Rüdesheim am Rhein in Hessen.",
@@ -20347,6 +21326,14 @@ window.QA_DATEN = {
 "Landesgrenze: Bacharach liegt in Rheinland-Pfalz, Lorch in Hessen.",
 "Lorch hat zweieinhalbmal so viele Einwohner wie Bacharach."
 ],
+"142-niederheimbach": [
+"Landesgrenze: Niederheimbach liegt in Rheinland-Pfalz, Lorch in Hessen.",
+"Lorch hat gut viereinhalbmal so viele Einwohner wie Niederheimbach."
+],
+"143-trechtingshausen": [
+"Landesgrenze: Trechtingshausen liegt in Rheinland-Pfalz, Lorch in Hessen.",
+"Lorch hat viermal so viele Einwohner wie Trechtingshausen."
+],
 "52-bingen": [
 "Landesgrenze: Bingen liegt in Rheinland-Pfalz, Lorch in Hessen.",
 "Bingen hat fast siebenmal so viele Einwohner wie Lorch."
@@ -20605,6 +21592,14 @@ window.QA_DATEN = {
 "Kreisgrenze: Bacharach gehört zum Landkreis Mainz-Bingen, Kaub zum Rhein-Lahn-Kreis.",
 "Bacharach hat doppelt so viele Einwohner wie Kaub."
 ],
+"142-niederheimbach": [
+"Kreisgrenze: Niederheimbach gehört zum Landkreis Mainz-Bingen, Kaub zum Rhein-Lahn-Kreis.",
+"Niederheimbach und Kaub sind fast gleich groß: rund 800 und 800 Einwohner."
+],
+"143-trechtingshausen": [
+"Kreisgrenze: Trechtingshausen gehört zum Landkreis Mainz-Bingen, Kaub zum Rhein-Lahn-Kreis.",
+"Trechtingshausen hat rund 200 Einwohner mehr als Kaub."
+],
 "52-bingen": [
 "Kreisgrenze: Bingen gehört zum Landkreis Mainz-Bingen, Kaub zum Rhein-Lahn-Kreis.",
 "Bingen hat rund 35-mal so viele Einwohner wie Kaub."
@@ -20853,6 +21848,10 @@ window.QA_DATEN = {
 "Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, St. Goarshausen zum Rhein-Lahn-Kreis.",
 "Rhens hat fast zweieinhalbmal so viele Einwohner wie St. Goarshausen."
 ],
+"141-spay": [
+"Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, St. Goarshausen zum Rhein-Lahn-Kreis.",
+"Spay hat anderthalbmal so viele Einwohner wie St. Goarshausen."
+],
 "48-boppard": [
 "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, St. Goarshausen zum Rhein-Lahn-Kreis.",
 "Boppard hat dreizehnmal so viele Einwohner wie St. Goarshausen."
@@ -20868,6 +21867,14 @@ window.QA_DATEN = {
 "51-bacharach": [
 "Kreisgrenze: Bacharach gehört zum Landkreis Mainz-Bingen, St. Goarshausen zum Rhein-Lahn-Kreis.",
 "Bacharach hat rund 300 Einwohner mehr als St. Goarshausen."
+],
+"142-niederheimbach": [
+"Kreisgrenze: Niederheimbach gehört zum Landkreis Mainz-Bingen, St. Goarshausen zum Rhein-Lahn-Kreis.",
+"St. Goarshausen hat anderthalbmal so viele Einwohner wie Niederheimbach."
+],
+"143-trechtingshausen": [
+"Kreisgrenze: Trechtingshausen gehört zum Landkreis Mainz-Bingen, St. Goarshausen zum Rhein-Lahn-Kreis.",
+"St. Goarshausen hat rund 300 Einwohner mehr als Trechtingshausen."
 ]
 },
 "ags": "07141121",
@@ -21076,6 +22083,10 @@ window.QA_DATEN = {
 "59-rhens": [
 "Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Kestert zum Rhein-Lahn-Kreis.",
 "Rhens hat viereinhalbmal so viele Einwohner wie Kestert."
+],
+"141-spay": [
+"Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, Kestert zum Rhein-Lahn-Kreis.",
+"Spay hat dreimal so viele Einwohner wie Kestert."
 ],
 "48-boppard": [
 "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Kestert zum Rhein-Lahn-Kreis.",
@@ -21341,6 +22352,10 @@ window.QA_DATEN = {
 "Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Kamp-Bornhofen zum Rhein-Lahn-Kreis.",
 "Rhens hat doppelt so viele Einwohner wie Kamp-Bornhofen."
 ],
+"141-spay": [
+"Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, Kamp-Bornhofen zum Rhein-Lahn-Kreis.",
+"Spay hat rund 400 Einwohner mehr als Kamp-Bornhofen."
+],
 "48-boppard": [
 "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Kamp-Bornhofen zum Rhein-Lahn-Kreis.",
 "Boppard hat elfmal so viele Einwohner wie Kamp-Bornhofen."
@@ -21595,6 +22610,10 @@ window.QA_DATEN = {
 "Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Osterspai zum Rhein-Lahn-Kreis.",
 "Rhens hat fast zweieinhalbmal so viele Einwohner wie Osterspai."
 ],
+"141-spay": [
+"Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, Osterspai zum Rhein-Lahn-Kreis.",
+"Spay hat anderthalbmal so viele Einwohner wie Osterspai."
+],
 "48-boppard": [
 "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Osterspai zum Rhein-Lahn-Kreis.",
 "Boppard hat fast dreizehnmal so viele Einwohner wie Osterspai."
@@ -21812,6 +22831,10 @@ window.QA_DATEN = {
 "Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Braubach zum Rhein-Lahn-Kreis.",
 "Rhens und Braubach sind fast gleich groß: rund 2.900 und 3.000 Einwohner."
 ],
+"141-spay": [
+"Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, Braubach zum Rhein-Lahn-Kreis.",
+"Braubach hat gut anderthalbmal so viele Einwohner wie Spay."
+],
 "48-boppard": [
 "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Braubach zum Rhein-Lahn-Kreis.",
 "Boppard hat gut fünfmal so viele Einwohner wie Braubach."
@@ -22021,6 +23044,10 @@ window.QA_DATEN = {
 "Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Lahnstein zum Rhein-Lahn-Kreis.",
 "Lahnstein hat gut doppelt so viele Einwohner wie Vallendar."
 ],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Lahnstein zum Rhein-Lahn-Kreis.",
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Lahnstein die CDU."
+],
 "53-koblenz": [
 "Kreisgrenze: Koblenz ist kreisfrei, Lahnstein gehört zum Rhein-Lahn-Kreis.",
 "Koblenz hat sechsmal so viele Einwohner wie Lahnstein."
@@ -22028,6 +23055,10 @@ window.QA_DATEN = {
 "59-rhens": [
 "Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Lahnstein zum Rhein-Lahn-Kreis.",
 "Lahnstein hat gut sechsmal so viele Einwohner wie Rhens."
+],
+"141-spay": [
+"Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, Lahnstein zum Rhein-Lahn-Kreis.",
+"Lahnstein hat zehnmal so viele Einwohner wie Spay."
 ],
 "48-boppard": [
 "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Lahnstein zum Rhein-Lahn-Kreis.",
@@ -22274,12 +23305,19 @@ window.QA_DATEN = {
 "Andernach hat fast dreieinhalbmal so viele Einwohner wie Vallendar.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Andernach die AfD, in Vallendar die SPD."
 ],
+"140-weissenthurm": [
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Vallendar die CDU.",
+"Weißenthurm und Vallendar sind fast gleich groß: rund 8.900 und 9.000 Einwohner."
+],
 "53-koblenz": [
 "Kreisgrenze: Koblenz ist kreisfrei, Vallendar gehört zum Landkreis Mayen-Koblenz.",
 "Koblenz hat gut zwölfmal so viele Einwohner wie Vallendar."
 ],
 "59-rhens": [
 "Vallendar hat dreimal so viele Einwohner wie Rhens."
+],
+"141-spay": [
+"Vallendar hat fast fünfmal so viele Einwohner wie Spay."
 ],
 "48-boppard": [
 "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Vallendar zum Landkreis Mayen-Koblenz.",
@@ -22506,6 +23544,10 @@ window.QA_DATEN = {
 "Vallendar liegt rechts des Rheins, Andernach links; beide gehören zum Landkreis Mayen-Koblenz.",
 "Andernach hat mehr als dreimal so viele Einwohner wie Vallendar."
 ],
+"140-weissenthurm": [
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Andernach die CDU.",
+"Andernach hat fast dreieinhalbmal so viele Einwohner wie Weißenthurm."
+],
 "53-koblenz": [
 "Kreisgrenze: Koblenz ist kreisfrei, Andernach gehört zum Landkreis Mayen-Koblenz.",
 "Koblenz hat fast viermal so viele Einwohner wie Andernach."
@@ -22514,6 +23556,163 @@ window.QA_DATEN = {
 "ags": "07137003",
 "ortsteil": false,
 "km_vom_vorigen": 15.9
+},
+{
+"slug": "140-weissenthurm",
+"name": "Weißenthurm",
+"lat": 50.41444,
+"lon": 7.46056,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weißenthurm",
+"steckbrief": "Stadt mit rund 8.900 Einwohnern, 11 km nordwestlich von Koblenz.",
+"frage": "Woraus setzte sich das Gebiet der Gemeinde Weißenthurm bei ihrer Bildung zusammen?",
+"optionen": [
+"Aus zwei zusammengelegten älteren Dörfern",
+"Aus Flächen eines einzigen Nachbarorts",
+"Aus Grundstücken dreier Orte und einer Rheininsel",
+"Aus vier Höfen eines aufgelösten Klosters"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre, dass einfach ältere Dörfer zusammengelegt wurden. Tatsächlich setzte ein Beschluss die Gemeinde aus Grundstücken von Kettig, Kärlich und Andernach sowie einer Rheininsel zusammen. Er legitimierte damit ein schon lange bestehendes Gemeinwesen. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Weißenthurm",
+"faktencheck": "unsicher",
+"id": "140-weissenthurm/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weißenthurm",
+"steckbrief": "Stadt mit rund 8.900 Einwohnern, 11 km nordwestlich von Koblenz.",
+"frage": "Wie viele Einwohner kommen in Weißenthurm auf einen Quadratkilometer?",
+"optionen": [
+"unter 500",
+"500 bis unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Für eine Kleinstadt im Umland liegt eine lockerere Besiedlung nahe. Doch Weißenthurm hat nur knapp vier Quadratkilometer Fläche. Darauf leben 8.944 Menschen, 2.242 je Quadratkilometer. Richtig war 4.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "140-weissenthurm/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Weißenthurm",
+"steckbrief": "Stadt mit rund 8.900 Einwohnern, 11 km nordwestlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Schon um 1707 bauten die Bewohner eine erste Kapelle.",
+"1865 verfügte der preußische König, dass Weißenthurm eigene Gemeinde wird.",
+"2024 holte die SPD die meisten Stadtratssitze."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Kapelle schon um 1707 klingt früh, ist aber belegt. Auch das stimmt: 1865 verfügte der preußische König die Gemeindebildung, und ab 1866 war Weißenthurm selbständig. Gelogen ist der Stadtrat: 2024 holte die Freie Wählergruppe (FWG) 11 Sitze, die SPD nur 4. Die Lüge war 3.",
+"quelle": "Stadt Weißenthurm, weissenthurm.de",
+"faktencheck": "korrigiert",
+"id": "140-weissenthurm/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weißenthurm",
+"steckbrief": "Stadt mit rund 8.900 Einwohnern, 11 km nordwestlich von Koblenz.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Weißenthurm bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 30 %",
+"30 bis unter 35 %",
+"35 bis unter 40 %",
+"40 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im Umland von Koblenz würde man eher die CDU vorn erwarten. Stärkste Kraft wurde aber die AfD mit 33 Prozent der Zweitstimmen, vor der CDU. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "140-weissenthurm/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Weißenthurm",
+"steckbrief": "Stadt mit rund 8.900 Einwohnern, 11 km nordwestlich von Koblenz.",
+"frage": "Zu welchem Landkreis gehört die Stadt Weißenthurm?",
+"optionen": [
+"Landkreis Neuwied",
+"Landkreis Ahrweiler",
+"Rhein-Lahn-Kreis",
+"Landkreis Mayen-Koblenz"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Neuwied liegt ebenfalls nahe Koblenz, deshalb liegt der Tipp nahe. Weißenthurm gehört aber zum Landkreis Mayen-Koblenz, Hauptkennzeichen MYK. Richtig war 4.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "140-weissenthurm/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weißenthurm",
+"steckbrief": "Stadt mit rund 8.900 Einwohnern, 11 km nordwestlich von Koblenz.",
+"frage": "Wie weit ist die Landeshauptstadt Mainz in Luftlinie von Weißenthurm entfernt?",
+"optionen": [
+"unter 80 km",
+"80 bis unter 100 km",
+"100 bis unter 120 km",
+"120 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer die Strecke über Straße oder Schiene kennt, schätzt leicht zu hoch, denn beide verlaufen selten schnurgerade. In Luftlinie liegt Mainz nur 76 Kilometer von Weißenthurm entfernt. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "140-weissenthurm/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "47-andernach",
+"anschluss": [
+"Fläche: Andernach ist gut dreizehnmal so groß wie Weißenthurm.",
+"Kennzeichen: In Andernach wie in Weißenthurm steht MYK am Auto."
+],
+"anschluesse": {
+"29-lahnstein": [
+"Kreisgrenze: Lahnstein gehört zum Rhein-Lahn-Kreis, Weißenthurm zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Lahnstein lag die CDU vorn, in Weißenthurm die AfD."
+],
+"10-vallendar": [
+"Bundestagswahl 2025: In Vallendar lag die CDU vorn, in Weißenthurm die AfD.",
+"Vallendar und Weißenthurm sind fast gleich groß: rund 9.000 und 8.900 Einwohner."
+],
+"47-andernach": [
+"Fläche: Andernach ist gut dreizehnmal so groß wie Weißenthurm.",
+"Kennzeichen: In Andernach wie in Weißenthurm steht MYK am Auto."
+],
+"53-koblenz": [
+"Kreisgrenze: Koblenz ist kreisfrei, Weißenthurm gehört zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Koblenz lag die CDU vorn, in Weißenthurm die AfD."
+],
+"59-rhens": [
+"Bundestagswahl 2025: In Rhens lag die CDU vorn, in Weißenthurm die AfD.",
+"Weißenthurm hat dreimal so viele Einwohner wie Rhens."
+]
+},
+"ags": "07137228",
+"ortsteil": false,
+"km_vom_vorigen": 5.0
 },
 {
 "slug": "53-koblenz",
@@ -22721,11 +23920,8 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "47-andernach",
-"anschluss": [
-"Koblenz hat fast viermal so viele Einwohner wie Andernach.",
-"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Koblenz ist kreisfrei."
-],
+"anschluss_von": "140-weissenthurm",
+"anschluss": [],
 "anschluesse": {
 "26-kestert": [
 "Kreisgrenze: Kestert gehört zum Rhein-Lahn-Kreis, Koblenz ist kreisfrei.",
@@ -22755,9 +23951,17 @@ window.QA_DATEN = {
 "Koblenz hat fast viermal so viele Einwohner wie Andernach.",
 "Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Koblenz ist kreisfrei."
 ],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Koblenz ist kreisfrei.",
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Koblenz die CDU."
+],
 "59-rhens": [
 "Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Koblenz ist kreisfrei.",
 "Koblenz hat rund 40-mal so viele Einwohner wie Rhens."
+],
+"141-spay": [
+"Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, Koblenz ist kreisfrei.",
+"Koblenz hat rund 60-mal so viele Einwohner wie Spay."
 ],
 "48-boppard": [
 "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Koblenz ist kreisfrei.",
@@ -22766,7 +23970,7 @@ window.QA_DATEN = {
 },
 "ags": "07111000",
 "ortsteil": false,
-"km_vom_vorigen": 16.5
+"km_vom_vorigen": 11.5
 },
 {
 "slug": "59-rhens",
@@ -22967,9 +24171,16 @@ window.QA_DATEN = {
 "10-vallendar": [
 "Vallendar hat dreimal so viele Einwohner wie Rhens."
 ],
+"140-weissenthurm": [
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Rhens die CDU.",
+"Weißenthurm hat dreimal so viele Einwohner wie Rhens."
+],
 "53-koblenz": [
 "Koblenz hat fast vierzigmal so viele Einwohner wie Rhens.",
 "Bundestagswahl 2025: In Koblenz kam die CDU auf 28,6 Prozent, in Rhens auf 39,4."
+],
+"141-spay": [
+"Rhens hat gut anderthalbmal so viele Einwohner wie Spay."
 ],
 "48-boppard": [
 "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Rhens zum Landkreis Mayen-Koblenz.",
@@ -22983,6 +24194,270 @@ window.QA_DATEN = {
 "ags": "07137221",
 "ortsteil": false,
 "km_vom_vorigen": 8.9
+},
+{
+"slug": "141-spay",
+"name": "Spay",
+"lat": 50.25833,
+"lon": 7.64667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Spay",
+"steckbrief": "Die Gemeinde mit rund 1.900 Einwohnern liegt 12 km südöstlich von Koblenz.",
+"frage": "In einer Spayer Scheune entstand 1921 die heutige Schiffsantriebsfirma SCHOTTEL. Woher stammt ihr Name?",
+"optionen": [
+"Der Name ist der Familienname des Gründers.",
+"Der Name leitet sich vom Schiffswort „Schott“ ab.",
+"Der Name stammt vom ersten Kunden der Firma.",
+"Der Name verweist auf eine Gemarkung am Rhein."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Viele Firmen tragen den Namen ihres Gründers, doch der hieß Josef Becker. Der Firmenname verweist auf eine Gemarkung am Rhein bei Spay. Begonnen hatte Becker mit der Reparatur von Landmaschinen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/schottel",
+"faktencheck": "korrigiert",
+"id": "141-spay/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Spay",
+"steckbrief": "Spay hat rund 1.900 Einwohner und liegt 12 km südöstlich von Koblenz am Rhein.",
+"frage": "Wie groß ist die Fläche der Gemeinde Spay?",
+"optionen": [
+"unter 4 km²",
+"4 bis unter 8 km²",
+"8 bis unter 15 km²",
+"15 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf mit rund 1.900 Einwohnern lässt an eine weitläufige Gemarkung mit Feldern und Wald denken. Spay misst aber nur 2,7 Quadratkilometer, auf jedem leben rund 692 Menschen. Richtig war 1.",
+"quelle": "Wikidata P2046; Einwohner: Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "141-spay/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Spay",
+"steckbrief": "Die Rheingemeinde mit rund 1.900 Einwohnern liegt 12 km südöstlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Gemeinde Spay entstand aus Niederspay und Oberspay.",
+"Bei Hochwasser fuhren einst Nachen durch die Mittelstraße.",
+"Das Dorf Peterspay wurde von einem Rheinhochwasser ausgelöscht."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Hochwasser machen die Lüge glaubwürdig: Tatsächlich fuhren Nachen durch die Mittelstraße, und Vieh musste in andere Orte. Doch Peterspay, wo die Peterskapelle steht, wurde nach Bevölkerungsverlusten im Dreißigjährigen Krieg aufgegeben. Die heutige Gemeinde bildeten Niederspay und Oberspay. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte",
+"faktencheck": "bestätigt",
+"id": "141-spay/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Spay",
+"steckbrief": "Spay, rund 1.900 Einwohner, liegt 12 km südöstlich von Koblenz am linken Rheinufer.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in der Verbandsgemeinde Rhein-Mosel, zu der Spay gehört: Welchen Anteil holte die stärkste Partei?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 33 %",
+"33 bis unter 42 %",
+"42 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit lag die stärkste Kraft deutlich niedriger; das drückt Schätzungen nach unten. In der Verbandsgemeinde Rhein-Mosel holte die CDU 39,4 Prozent der Zweitstimmen, vor der SPD mit 18,5 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "141-spay/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Spay",
+"steckbrief": "Die Gemeinde am Rhein mit rund 1.900 Einwohnern liegt 12 km südöstlich von Koblenz.",
+"frage": "1961 drehte MGM in Spay für „Die Wunderwelt der Gebrüder Grimm“. Welche Rolle bekam das Ortsbild?",
+"optionen": [
+"Spays Ortsbild spielte im Film Hameln.",
+"Spays Ortsbild spielte im Film Bremen.",
+"Spays Ortsbild spielte im Film Alsfeld.",
+"Spays Ortsbild spielte im Film „Rheinburg“."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Grimm-Film liegen Märchenorte wie Hameln oder Bremen nahe. Doch Spays Ortsbild wurde zu „Rheinburg“; die Regensburger Domspatzen traten als Kinderchor von Rheinburg auf. Komparsen suchte man in großer Zahl in Spay und Umgebung. Eine Hauptrolle spielte Karlheinz Böhm. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/hollywood",
+"faktencheck": "korrigiert",
+"id": "141-spay/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Spay",
+"steckbrief": "Spay, eine Gemeinde mit rund 1.900 Einwohnern, liegt 12 km südöstlich von Koblenz.",
+"frage": "Wie weit ist Spay in der Luftlinie von der Landeshauptstadt Mainz entfernt?",
+"optionen": [
+"unter 60 km",
+"60 bis unter 80 km",
+"80 bis unter 110 km",
+"110 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer dem Rhein mit seinen Schleifen folgt, legt bis Mainz einen deutlich längeren Weg zurück; deshalb schätzt man leicht zu weit. Luftlinie trennen Spay und die Landeshauptstadt nur 55 Kilometer. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "141-spay/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Spay",
+"steckbrief": "Die Rheingemeinde mit rund 1.900 Einwohnern liegt 12 km südöstlich von Koblenz.",
+"frage": "Die Oberspayer werden „Boxelöfter“ genannt. Woher stammt der Spitzname?",
+"optionen": [
+"Die Winzer lüfteten ihre Weinfässer im Keller.",
+"Sie krempelten beim Treideln die Hosen hoch.",
+"Fischer trockneten ihre Hosen am Rheinufer.",
+"Sie trugen beim Fischen Hosen aus Leder."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. „Löften“ klingt nach Lüften, und in einem Weinort denkt man an Fässer. Doch beim Treideln brachten Oberspayer das Schleppseil der Schiffe auf die andere Rheinseite und krempelten dafür die Hose hoch, um nicht nass zu werden. Der Karnevalsverein Oberspayer Boxelöfter trägt den Namen weiter. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte",
+"faktencheck": "korrigiert",
+"id": "141-spay/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Spay",
+"steckbrief": "Spay liegt 12 km südöstlich von Koblenz und hat rund 1.900 Einwohner.",
+"frage": "Fast 50 Jahre lang brachten Kirschen Spay Geld. Welchen Grund für das Ende nennt die Ortsgeschichte?",
+"optionen": [
+"Ein strenger Winter ließ die Bäume erfrieren.",
+"Die Winzer rodeten die Bäume für neue Reben.",
+"Gekühlte Kirschen aus Italien kamen über die Alpen.",
+"Ein Hochwasser spülte die Kirschgärten fort."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Obstbaugebiet denkt man zuerst an Frost oder Missernten. Doch Spays Kirschen reiften an warmen Hängen früh und wurden in der Markthalle Rindsfüßer versteigert. Dann kamen Kühlmaschinen: Italienische Kirschen rollten im Kühlwaggon über die Alpen, und der Obstanbau ging langsam zu Ende. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/kirschenparadies",
+"faktencheck": "bestätigt",
+"id": "141-spay/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Spay",
+"steckbrief": "Die Gemeinde mit rund 1.900 Einwohnern liegt 12 km südöstlich von Koblenz.",
+"frage": "1925 konstruierte Josef Becker in Spay ein Beiboot, die SCHOTTEL-Schaluppe. Wer gab den Anstoß?",
+"optionen": [
+"Ein Fischer brauchte ein Boot für den Salmenfang.",
+"Ein Winzer brauchte ein Boot für seine Fässer.",
+"Ein Lotse brauchte ein Boot für seine Einsätze.",
+"Ein Bäcker wollte Mehl von der anderen Rheinseite holen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In einem Ort mit Salmenfang und Lotsen läge ein Fischer oder Lotse als Anstoß nahe. Die Anregung gab aber ein Bäcker, der sein Mehl auf der anderen Rheinseite holen wollte. Mit der Schaluppe stellte sich der Betrieb ganz auf den Bootsbau um. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/schottel",
+"faktencheck": "korrigiert",
+"id": "141-spay/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Spay",
+"steckbrief": "Spay, rund 1.900 Einwohner, liegt 12 km südöstlich von Koblenz am Rhein.",
+"frage": "1953 wurde in Spay der Grundstock für die Michaeliskapelle gebildet. Wofür war sie ursprünglich gedacht?",
+"optionen": [
+"Sie wurde als Leichenhalle geplant.",
+"Sie wurde als Schulkapelle für die Kinder geplant.",
+"Sie wurde als Wegkapelle für Rheinschiffer geplant.",
+"Sie wurde als Taufkapelle der Pfarrei geplant."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Name lässt an eine Kapelle für Gottesdienste denken, etwa für Taufen oder Schulkinder. Geplant war die Michaeliskapelle aber als Leichenhalle, genutzt wurde sie so nie. Heute erinnert dort eine Tafel an die Opfer beider Weltkriege. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/kirchen",
+"faktencheck": "korrigiert",
+"id": "141-spay/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "59-rhens",
+"anschluss": [
+"Einwohner: Rhens hat rund 2.900, Spay rund 1.900.",
+"Spay gehörte ab 1969 zur Verbandsgemeinde Rhens."
+],
+"anschluesse": {
+"08-st-goarshausen": [
+"Kreisgrenze: St. Goarshausen gehört zum Rhein-Lahn-Kreis, Spay zum Landkreis Mayen-Koblenz.",
+"Spay hat anderthalbmal so viele Einwohner wie St. Goarshausen."
+],
+"26-kestert": [
+"Kreisgrenze: Kestert gehört zum Rhein-Lahn-Kreis, Spay zum Landkreis Mayen-Koblenz.",
+"Spay hat dreimal so viele Einwohner wie Kestert."
+],
+"27-kamp-bornhofen": [
+"Kreisgrenze: Kamp-Bornhofen gehört zum Rhein-Lahn-Kreis, Spay zum Landkreis Mayen-Koblenz.",
+"Spay hat rund 400 Einwohner mehr als Kamp-Bornhofen."
+],
+"28-osterspai": [
+"Kreisgrenze: Osterspai gehört zum Rhein-Lahn-Kreis, Spay zum Landkreis Mayen-Koblenz.",
+"Spay hat anderthalbmal so viele Einwohner wie Osterspai."
+],
+"09-braubach": [
+"Kreisgrenze: Braubach gehört zum Rhein-Lahn-Kreis, Spay zum Landkreis Mayen-Koblenz.",
+"Braubach hat gut anderthalbmal so viele Einwohner wie Spay."
+],
+"29-lahnstein": [
+"Kreisgrenze: Lahnstein gehört zum Rhein-Lahn-Kreis, Spay zum Landkreis Mayen-Koblenz.",
+"Lahnstein hat zehnmal so viele Einwohner wie Spay."
+],
+"10-vallendar": [
+"Vallendar hat fast fünfmal so viele Einwohner wie Spay."
+],
+"53-koblenz": [
+"Kreisgrenze: Koblenz ist kreisfrei, Spay gehört zum Landkreis Mayen-Koblenz.",
+"Koblenz hat rund 60-mal so viele Einwohner wie Spay."
+],
+"59-rhens": [
+"Einwohner: Rhens hat rund 2.900, Spay rund 1.900.",
+"Spay gehörte ab 1969 zur Verbandsgemeinde Rhens."
+],
+"48-boppard": [
+"Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Spay zum Landkreis Mayen-Koblenz.",
+"Boppard hat gut achtmal so viele Einwohner wie Spay."
+],
+"49-st-goar": [
+"Kreisgrenze: St. Goar gehört zum Rhein-Hunsrück-Kreis, Spay zum Landkreis Mayen-Koblenz.",
+"St. Goar hat anderthalbmal so viele Einwohner wie Spay."
+],
+"50-oberwesel": [
+"Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, Spay zum Landkreis Mayen-Koblenz.",
+"Oberwesel hat anderthalbmal so viele Einwohner wie Spay."
+]
+},
+"ags": "07137223",
+"ortsteil": false,
+"km_vom_vorigen": 3.2
 },
 {
 "slug": "48-boppard",
@@ -23160,11 +24635,8 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "59-rhens",
-"anschluss": [
-"Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Boppard zum Rhein-Hunsrück-Kreis.",
-"Boppard hat mehr als fünfmal so viele Einwohner wie Rhens."
-],
+"anschluss_von": "141-spay",
+"anschluss": [],
 "anschluesse": {
 "08-st-goarshausen": [
 "Kreisgrenze: St. Goarshausen gehört zum Rhein-Lahn-Kreis, Boppard zum Rhein-Hunsrück-Kreis.",
@@ -23202,6 +24674,10 @@ window.QA_DATEN = {
 "Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Boppard zum Rhein-Hunsrück-Kreis.",
 "Boppard hat mehr als fünfmal so viele Einwohner wie Rhens."
 ],
+"141-spay": [
+"Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, Boppard zum Rhein-Hunsrück-Kreis.",
+"Boppard hat gut achtmal so viele Einwohner wie Spay."
+],
 "49-st-goar": [
 "Boppard hat gut fünfmal so viele Einwohner wie St. Goar."
 ],
@@ -23212,7 +24688,7 @@ window.QA_DATEN = {
 },
 "ags": "07140501",
 "ortsteil": false,
-"km_vom_vorigen": 5.8
+"km_vom_vorigen": 5.0
 },
 {
 "slug": "49-st-goar",
@@ -23462,6 +24938,10 @@ window.QA_DATEN = {
 "Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, St. Goar zum Rhein-Hunsrück-Kreis.",
 "Rhens und St. Goar sind fast gleich groß: rund 2.900 und 2.900 Einwohner."
 ],
+"141-spay": [
+"Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, St. Goar zum Rhein-Hunsrück-Kreis.",
+"St. Goar hat anderthalbmal so viele Einwohner wie Spay."
+],
 "48-boppard": [
 "Boppard hat mehr als fünfmal so viele Einwohner wie St. Goar.",
 "Boppard und St. Goar liegen beide im Rhein-Hunsrück-Kreis."
@@ -23473,6 +24953,14 @@ window.QA_DATEN = {
 "51-bacharach": [
 "Kreisgrenze: Bacharach gehört zum Landkreis Mainz-Bingen, St. Goar zum Rhein-Hunsrück-Kreis.",
 "St. Goar hat fast doppelt so viele Einwohner wie Bacharach."
+],
+"142-niederheimbach": [
+"Kreisgrenze: Niederheimbach gehört zum Landkreis Mainz-Bingen, St. Goar zum Rhein-Hunsrück-Kreis.",
+"St. Goar hat dreieinhalbmal so viele Einwohner wie Niederheimbach."
+],
+"143-trechtingshausen": [
+"Kreisgrenze: Trechtingshausen gehört zum Landkreis Mainz-Bingen, St. Goar zum Rhein-Hunsrück-Kreis.",
+"St. Goar hat dreimal so viele Einwohner wie Trechtingshausen."
 ]
 },
 "ags": "07140133",
@@ -23679,6 +25167,10 @@ window.QA_DATEN = {
 "Kreisgrenze: Braubach gehört zum Rhein-Lahn-Kreis, Oberwesel zum Rhein-Hunsrück-Kreis.",
 "Braubach und Oberwesel sind fast gleich groß: rund 3.000 und 2.900 Einwohner."
 ],
+"141-spay": [
+"Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, Oberwesel zum Rhein-Hunsrück-Kreis.",
+"Oberwesel hat anderthalbmal so viele Einwohner wie Spay."
+],
 "48-boppard": [
 "Boppard hat gut fünfmal so viele Einwohner wie Oberwesel.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Boppard die SPD, in Oberwesel die AfD."
@@ -23690,6 +25182,14 @@ window.QA_DATEN = {
 "51-bacharach": [
 "Kreisgrenze: Bacharach gehört zum Landkreis Mainz-Bingen, Oberwesel zum Rhein-Hunsrück-Kreis.",
 "Oberwesel hat fast doppelt so viele Einwohner wie Bacharach."
+],
+"142-niederheimbach": [
+"Kreisgrenze: Niederheimbach gehört zum Landkreis Mainz-Bingen, Oberwesel zum Rhein-Hunsrück-Kreis.",
+"Oberwesel hat dreieinhalbmal so viele Einwohner wie Niederheimbach."
+],
+"143-trechtingshausen": [
+"Kreisgrenze: Trechtingshausen gehört zum Landkreis Mainz-Bingen, Oberwesel zum Rhein-Hunsrück-Kreis.",
+"Oberwesel hat dreimal so viele Einwohner wie Trechtingshausen."
 ],
 "52-bingen": [
 "Kreisgrenze: Bingen gehört zum Landkreis Mainz-Bingen, Oberwesel zum Rhein-Hunsrück-Kreis.",
@@ -23928,6 +25428,12 @@ window.QA_DATEN = {
 "Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, Bacharach zum Landkreis Mainz-Bingen.",
 "Bacharach hat nur gut halb so viele Einwohner wie Oberwesel, aber mehr Fläche."
 ],
+"142-niederheimbach": [
+"Bacharach hat fast doppelt so viele Einwohner wie Niederheimbach."
+],
+"143-trechtingshausen": [
+"Bacharach hat gut anderthalbmal so viele Einwohner wie Trechtingshausen."
+],
 "52-bingen": [
 "Bingen hat siebzehnmal so viele Einwohner wie Bacharach."
 ]
@@ -23935,6 +25441,494 @@ window.QA_DATEN = {
 "ags": "07339003",
 "ortsteil": false,
 "km_vom_vorigen": 6.0
+},
+{
+"slug": "142-niederheimbach",
+"name": "Niederheimbach",
+"lat": 50.03444,
+"lon": 7.80778,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederheimbach",
+"steckbrief": "Niederheimbach hat rund 800 Einwohner und liegt 32 km westlich von Wiesbaden.",
+"frage": "Preußenkönig Friedrich Wilhelm IV. beschloss 1842, die zerstörte Burg Sooneck als Jagdburg wieder aufzubauen. Welche Weisung gab er dafür?",
+"optionen": [
+"Alles sollte so prächtig wie möglich werden.",
+"Die Ruine sollte möglichst unverändert bleiben.",
+"Alles sollte sehr einfach ausgeführt werden.",
+"Jeder Raum sollte reich bemalt werden."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Ortsgeschichte nennt Friedrich Wilhelm IV. einen Romantiker auf dem Königsthron, da liegt Prunk nahe. Doch für die Jagdburg Sooneck wies er an, „alles sehr einfach\" auszuführen. Bergfried und Palas stehen bis heute in originaler Substanz. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, niederheimbach.welterbe-mittelrheintal.de/geschichte/die-burg-sooneck",
+"faktencheck": "bestätigt",
+"id": "142-niederheimbach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Niederheimbach",
+"steckbrief": "Niederheimbach hat rund 800 Einwohner und liegt zwischen Rhein und Soonwald, 32 km westlich von Wiesbaden.",
+"frage": "Wie groß ist das Gemeindegebiet von Niederheimbach?",
+"optionen": [
+"unter 3 km²",
+"3 bis unter 5 km²",
+"5 bis unter 7 km²",
+"7 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an das Dorf zwischen Rhein und Soonwald-Hang denkt, schätzt die Fläche leicht zu klein. Das Gemeindegebiet von Niederheimbach misst aber 7,55 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "142-niederheimbach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Niederheimbach",
+"steckbrief": "Niederheimbach am linken Rheinufer hat rund 800 Einwohner und liegt 32 km westlich von Wiesbaden.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Mittelalter besaß der Ort einen Rheinverladekran.",
+"Im Dreißigjährigen Krieg blieb der Ort unversehrt.",
+"Das Gerberhandwerk war im Ort einst bedeutend."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Verladekran klingt nach Neuzeit, stand aber schon im Mittelalter am Rhein; auch die Gerberei war im Ort bedeutend. Unversehrt blieb Niederheimbach im Dreißigjährigen Krieg dagegen nicht: Schweden brannten den Ort nieder, die Einwohnerzahl sank deutlich. Die Lüge war 2.",
+"quelle": "Landesportal, www.regionalgeschichte.net/mittelrhein/niederheimbach.html",
+"faktencheck": "bestätigt",
+"id": "142-niederheimbach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Niederheimbach",
+"steckbrief": "Niederheimbach ist ein Dorf mit rund 800 Einwohnern, 32 km westlich von Wiesbaden.",
+"frage": "Bundestagswahl 2025: Wie hoch war die Wahlbeteiligung in der Verbandsgemeinde Rhein-Nahe, zu der Niederheimbach gehört?",
+"optionen": [
+"unter 82 %",
+"82 bis unter 88 %",
+"88 bis unter 92 %",
+"92 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ländliche Gemeinden im engen Rheintal hält man leicht für wahlmüde. In der Verbandsgemeinde Rhein-Nahe gaben bei der Bundestagswahl 2025 aber 86,2 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "142-niederheimbach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederheimbach",
+"steckbrief": "Niederheimbach hat rund 800 Einwohner und liegt am Rhein, 32 km westlich von Wiesbaden.",
+"frage": "Die Pfarrkirche von Niederheimbach heißt heute Maria Himmelfahrt. Wem war sie ursprünglich geweiht?",
+"optionen": [
+"Sie war dem heiligen Martin geweiht.",
+"Sie war dem heiligen Georg geweiht.",
+"Sie war dem heiligen Nikolaus geweiht.",
+"Sie war dem heiligen Michael geweiht."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der heilige Martin liegt nahe, er war bei den Franken ein beliebter Kirchenpatron. Geweiht war die erste Kirche aber dem heiligen Nikolaus, dem Schutzpatron der Schiffer. Ein neugotisches Kirchenschiff kam später dazu, quer zum alten Bau, möglich gemacht durch die Spende einer Niederheimbacher Schifferfamilie. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, niederheimbach.welterbe-mittelrheintal.de/lebenwohnen/die-kath-pfarrkirche-maria-himmelfahrt",
+"faktencheck": "korrigiert",
+"id": "142-niederheimbach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Niederheimbach",
+"steckbrief": "Niederheimbach hat rund 800 Einwohner, liegt gegenüber von Lorch am Rhein und 32 km westlich von Wiesbaden.",
+"frage": "Zu welchem Landkreis gehört Niederheimbach heute?",
+"optionen": [
+"Rheingau-Taunus-Kreis",
+"Landkreis Bad Kreuznach",
+"Rhein-Lahn-Kreis",
+"Landkreis Mainz-Bingen"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Lorch liegt direkt gegenüber, gehört aber schon zu Hessen. Niederheimbach liegt links des Rheins in Rheinland-Pfalz und gehört zum Landkreis Mainz-Bingen; früher zählte es zum Kreis St. Goar. Richtig war 4.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "142-niederheimbach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederheimbach",
+"steckbrief": "Niederheimbach hat rund 800 Einwohner und liegt 32 km westlich von Wiesbaden.",
+"frage": "Der Industrielle Hugo Stinnes besaß die Heimburg in Niederheimbach. In welchem Stil ließ er die Burg 1920 ausbauen?",
+"optionen": [
+"Er ließ sie im neugotischen Stil ausbauen.",
+"Er ließ sie im sachlichen Bauhausstil ausbauen.",
+"Er ließ sie im verspielten Jugendstil ausbauen.",
+"Er ließ sie im prunkvollen Barockstil ausbauen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Industriellen denkt man eher an sachliche Bauten. Doch Hugo Stinnes ließ an der Heimburg Torbau und Wohntrakt errichten und baute die Burg neugotisch aus. Erbaut hatte sie einst der Erzbischof von Mainz als Grenzfeste. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, niederheimbach.welterbe-mittelrheintal.de/geschichte/die-heimburg-1",
+"faktencheck": "korrigiert",
+"id": "142-niederheimbach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederheimbach",
+"steckbrief": "Niederheimbach ist ein Weinort mit rund 800 Einwohnern, 32 km westlich von Wiesbaden.",
+"frage": "In Niederheimbach gab es einen alten Kuhweg. Was wurde später aus ihm?",
+"optionen": [
+"Er wurde zum Weinlehrpfad ausgebaut.",
+"Er wurde zum Märchenweg umgestaltet.",
+"Er wurde zum Radweg am Heimbach ausgebaut.",
+"Er wurde zum Trimm-dich-Pfad umgebaut."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In einem Weinort liegt ein Weinlehrpfad nahe. Doch der alte Kuhweg wurde zum Märchenweg umgestaltet, mit dem künstlerischen Nachlass aus dem Märchenhain des Bildhauers Ernst Heilmann. Der Märchenhain war international beachtet und brachte dem Fremdenverkehr im Ort starken Aufschwung. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, niederheimbach.welterbe-mittelrheintal.de/geschichte/der-maerchenhain",
+"faktencheck": "unsicher",
+"id": "142-niederheimbach/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederheimbach",
+"steckbrief": "Niederheimbach liegt an der Mündung des Heimbachs in den Rhein, hat rund 800 Einwohner und liegt 32 km westlich von Wiesbaden.",
+"frage": "Das Wappen von Niederheimbach zeigt das Mainzer Rad und den Pfälzer Löwen. Warum?",
+"optionen": [
+"Mainz und die Pfalz stifteten gemeinsam die Kirche.",
+"Der Ort gehörte bis 1826 ganz zur Pfalz.",
+"Mainzer und Pfälzer Fürsten jagten hier gemeinsam.",
+"Der Heimbach trennte im Ort Kurmainz und Kurpfalz."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Zwei Wappenzeichen nebeneinander wirken wie ein Bündnis. Das Wappen erinnert aber an Grenzkonflikte: Der Heimbach war Grenzfluss zwischen Kurmainz und Kurpfalz. Ein silberner Wellenbalken trennt im Wappen beide Seiten. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, niederheimbach.welterbe-mittelrheintal.de/geschichte/unser-wappen (WÖRTER RÜCKSEITE: 36. NEGATIVNACHWEIS 2: Landesportal regionalgeschichte.net, Mainzer Vormachtstellung über Niederheimbach seit 1344.)",
+"faktencheck": "korrigiert",
+"id": "142-niederheimbach/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niederheimbach",
+"steckbrief": "Niederheimbach hat rund 800 Einwohner und liegt am Rand des Soonwalds, 32 km westlich von Wiesbaden.",
+"frage": "Burg Sooneck südlich von Niederheimbach wurde 1282 zerstört. Welchen Grund nennt die Ortsgeschichte dafür?",
+"optionen": [
+"Ein Blitz setzte die Burg in Brand.",
+"Ein Erdrutsch riss sie vom Steilhang.",
+"Ihre Vögte waren zu Raubrittern geworden.",
+"Ihre Besitzerin, eine Abtei, ließ sie abtragen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Am Steilhang des Soonwaldes liegt ein Naturereignis nahe. Die Ortsgeschichte erzählt anderes: Die Vögte von Sooneck wurden zu Raubrittern und behielten Zolleinnahmen für sich. Das zog den Unwillen des rheinischen Städtetages auf sich; es folgten eine Belagerung und schließlich die Zerstörung. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, niederheimbach.welterbe-mittelrheintal.de/geschichte/die-burg-sooneck",
+"faktencheck": "korrigiert",
+"id": "142-niederheimbach/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "51-bacharach",
+"anschluss": [
+"Unter Frankreich gehörte Niederheimbach ab 1798 zum Kanton Bacharach.",
+"Fläche: Bacharach ist etwa dreimal so groß wie Niederheimbach."
+],
+"anschluesse": {
+"24-oestrich-winkel": [
+"Landesgrenze: Oestrich-Winkel liegt in Hessen, Niederheimbach in Rheinland-Pfalz.",
+"Oestrich-Winkel hat vierzehnmal so viele Einwohner wie Niederheimbach."
+],
+"25-geisenheim": [
+"Landesgrenze: Geisenheim liegt in Hessen, Niederheimbach in Rheinland-Pfalz.",
+"Geisenheim hat vierzehnmal so viele Einwohner wie Niederheimbach."
+],
+"05-ruedesheim": [
+"Landesgrenze: Rüdesheim am Rhein liegt in Hessen, Niederheimbach in Rheinland-Pfalz.",
+"Rüdesheim am Rhein hat zwölfmal so viele Einwohner wie Niederheimbach."
+],
+"06-lorch": [
+"Landesgrenze: Lorch liegt in Hessen, Niederheimbach in Rheinland-Pfalz.",
+"Lorch hat gut viereinhalbmal so viele Einwohner wie Niederheimbach."
+],
+"07-kaub": [
+"Kreisgrenze: Kaub gehört zum Rhein-Lahn-Kreis, Niederheimbach zum Landkreis Mainz-Bingen.",
+"Kaub und Niederheimbach sind fast gleich groß: rund 800 und 800 Einwohner."
+],
+"08-st-goarshausen": [
+"Kreisgrenze: St. Goarshausen gehört zum Rhein-Lahn-Kreis, Niederheimbach zum Landkreis Mainz-Bingen.",
+"St. Goarshausen hat anderthalbmal so viele Einwohner wie Niederheimbach."
+],
+"49-st-goar": [
+"Kreisgrenze: St. Goar gehört zum Rhein-Hunsrück-Kreis, Niederheimbach zum Landkreis Mainz-Bingen.",
+"St. Goar hat dreieinhalbmal so viele Einwohner wie Niederheimbach."
+],
+"50-oberwesel": [
+"Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, Niederheimbach zum Landkreis Mainz-Bingen.",
+"Oberwesel hat dreieinhalbmal so viele Einwohner wie Niederheimbach."
+],
+"51-bacharach": [
+"Unter Frankreich gehörte Niederheimbach ab 1798 zum Kanton Bacharach.",
+"Fläche: Bacharach ist etwa dreimal so groß wie Niederheimbach."
+],
+"143-trechtingshausen": [
+"Trechtingshausen hat rund 200 Einwohner mehr als Niederheimbach."
+],
+"52-bingen": [
+"Bingen hat rund 30-mal so viele Einwohner wie Niederheimbach."
+],
+"60-ingelheim": [
+"Ingelheim hat rund 45-mal so viele Einwohner wie Niederheimbach."
+]
+},
+"ags": "07339040",
+"ortsteil": false,
+"km_vom_vorigen": 4.0
+},
+{
+"slug": "143-trechtingshausen",
+"name": "Trechtingshausen",
+"lat": 50.01333,
+"lon": 7.8475,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Trechtingshausen",
+"steckbrief": "Trechtingshausen hat knapp 1.000 Einwohner und liegt 29 km westlich von Wiesbaden.",
+"frage": "Im 9. Jahrhundert schenkte König Ludwig der Fromme das alte Dorf weg. Wer bekam es?",
+"optionen": [
+"Das Kloster Lorsch an der Bergstraße bekam es.",
+"Das Kloster Kornelimünster bei Aachen bekam es.",
+"Das Kloster St. Gallen am Bodensee bekam es.",
+"Das Kloster Werden an der Ruhr bekam es."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Lorsch an der Bergstraße ist nah und war reich begütert, daran denkt man zuerst. Doch Ludwig der Fromme schenkte das Dorf dem Kloster Kornelimünster bei Aachen. Um diesen Fernbesitz zu schützen, ließ das Kloster Burg Reichenstein errichten. Richtig war 2.",
+"quelle": "Landesportal, www.regionalgeschichte.net/mittelrhein/trechtingshausen.html",
+"faktencheck": "korrigiert",
+"id": "143-trechtingshausen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Trechtingshausen",
+"steckbrief": "Knapp 1.000 Einwohner, am Rhein unterhalb der Mündung des Morgenbachs, 29 km westlich von Wiesbaden.",
+"frage": "Wie groß ist die Fläche der Gemeinde Trechtingshausen?",
+"optionen": [
+"unter 3 km²",
+"3 bis unter 6 km²",
+"6 bis unter 10 km²",
+"10 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Knapp tausend Einwohner lassen an eine winzige Gemeindefläche denken. Doch Trechtingshausen misst 7,67 Quadratkilometer, mehr als die Einwohnerzahl vermuten lässt. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "korrigiert",
+"id": "143-trechtingshausen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Trechtingshausen",
+"steckbrief": "Der Weinort Trechtingshausen hat knapp 1.000 Einwohner und liegt 29 km westlich von Wiesbaden.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Burg Rheinstein steht auf Trechtingshäuser Gemeindegebiet.",
+"Die Ortsbefestigung stammt teils aus dem Spätmittelalter.",
+"Im Dreißigjährigen Krieg blieb der Ort unversehrt."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein kleiner Weinort wirkt, als hätte der große Krieg ihn übersehen. Doch im Dreißigjährigen Krieg brannten im Ort Dutzende Häuser nieder. Burg Rheinstein steht tatsächlich auf Gemeindegebiet, und Teile der Ortsbefestigung stammen aus dem Spätmittelalter. Die Lüge war 3.",
+"quelle": "Landesportal, www.regionalgeschichte.net/mittelrhein/trechtingshausen.html",
+"faktencheck": "korrigiert",
+"id": "143-trechtingshausen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Trechtingshausen",
+"steckbrief": "Das ländliche Trechtingshausen hat knapp 1.000 Einwohner und liegt 29 km westlich von Wiesbaden.",
+"frage": "Bei der Bundestagswahl 2025 wurde die CDU in der Verbandsgemeinde Rhein-Nahe stärkste Kraft. Wie hoch war ihr Zweitstimmenanteil?",
+"optionen": [
+"unter 32 %",
+"32 bis unter 36 %",
+"36 bis unter 40 %",
+"40 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ländliche Gemeinden in Rheinland-Pfalz gelten oft als CDU-Hochburgen, daher tippt man höher. In der Verbandsgemeinde Rhein-Nahe, einem Verbund mehrerer Ortsgemeinden, zu dem Trechtingshausen gehört, kam die CDU auf 31,2 Prozent der Zweitstimmen. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "143-trechtingshausen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Trechtingshausen",
+"steckbrief": "Trechtingshausen hat knapp 1.000 Einwohner und liegt 29 km westlich von Wiesbaden.",
+"frage": "Der Raubritter Dietrich von Hohenfels von Burg Reichenstein soll geköpft worden sein. Was soll er der Sage nach danach getan haben?",
+"optionen": [
+"Sein Kopf soll drei Tage lang geredet haben.",
+"Er soll kopflos an neun Söhnen vorbeigewankt sein.",
+"Sein Kopf soll zu Stein geworden sein.",
+"Sein Pferd soll zwölf Nächte lang gewacht haben."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Sprechende Köpfe und Verwandlungen sind beliebte Motive in Burgsagen, das liegt nahe. Die Sage um Burg Reichenstein erzählt es anders: Nach seiner Köpfung soll Dietrich von Hohenfels ohne Kopf an seinen neun Söhnen entlanggewankt sein. Ob es so war, bleibt Sage. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ich-geh-wandern.de/burg-reichenstein-trechtingshausen",
+"faktencheck": "korrigiert",
+"id": "143-trechtingshausen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Trechtingshausen",
+"steckbrief": "Trechtingshausen hat knapp 1.000 Einwohner und liegt 29 km westlich von Wiesbaden.",
+"frage": "Welches Hauptkennzeichen hat der Landkreis, zu dem Trechtingshausen gehört?",
+"optionen": [
+"WI",
+"KH",
+"MZ",
+"SIM"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wiesbaden ist die nächste Großstadt, da liegt WI nahe. Doch Wiesbaden gehört zu Hessen, Trechtingshausen zum Landkreis Mainz-Bingen in Rheinland-Pfalz. Dessen Hauptkennzeichen ist MZ. Richtig war 3.",
+"quelle": "Wikidata P395; dewiki Infobox",
+"faktencheck": "korrigiert",
+"id": "143-trechtingshausen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Trechtingshausen",
+"steckbrief": "Trechtingshausen hat knapp 1.000 Einwohner und liegt am Rhein, 29 km westlich von Wiesbaden.",
+"frage": "Zwischen 1899 und 1902 wurde Burg Reichenstein zu einer Wohnburg umgestaltet. Wer ließ das machen?",
+"optionen": [
+"Ein preußischer Prinz ließ sie umgestalten.",
+"Der Bischof von Mainz ließ sie umgestalten.",
+"Der Verschönerungsverein des Dorfes ließ sie umgestalten.",
+"Eine Industriellenfamilie ließ sie umgestalten."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer neugotischen Rheinburg denkt man zuerst an Adel oder Kirche. Doch umgestaltet hat sie die Industriellenfamilie Kirsch-Puricelli, im englischen Stil. Erhalten blieb von der alten Burg unter anderem die massige Schildmauer, eine Schutzmauer zur Angriffsseite. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.ich-geh-wandern.de/burg-reichenstein-trechtingshausen",
+"faktencheck": "korrigiert",
+"id": "143-trechtingshausen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Trechtingshausen",
+"steckbrief": "Trechtingshausen hat knapp 1.000 Einwohner und liegt 29 km westlich von Wiesbaden.",
+"frage": "Im Jahr 1282 zerstörten Truppen die Burg Reichenstein. In wessen Auftrag kamen sie?",
+"optionen": [
+"Rudolf von Habsburg schickte die Truppen.",
+"Friedrich Barbarossa schickte die Truppen.",
+"Ludwig der Bayer schickte die Truppen.",
+"Otto der Große schickte die Truppen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Barbarossa kennt fast jeder, deshalb fällt sein Name zuerst. Doch es waren Landfriedenstruppen Rudolfs von Habsburg, also Truppen, die den Frieden im Land durchsetzen sollten. Danach wurde die Burg wieder aufgebaut und widerrechtlich an den Pfalzgrafen verkauft. Richtig war 1.",
+"quelle": "Landesportal, www.regionalgeschichte.net/mittelrhein/trechtingshausen.html",
+"faktencheck": "korrigiert",
+"id": "143-trechtingshausen/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "142-niederheimbach",
+"anschluss": [
+"Fläche: Trechtingshausen hat 7,67 km², Niederheimbach fast genauso 7,55 km².",
+"Einwohner Ende 2025: In Trechtingshausen 968, in Niederheimbach 812."
+],
+"anschluesse": {
+"04-eltville": [
+"Landesgrenze: Eltville am Rhein liegt in Hessen, Trechtingshausen in Rheinland-Pfalz.",
+"Eltville am Rhein hat siebzehnmal so viele Einwohner wie Trechtingshausen."
+],
+"24-oestrich-winkel": [
+"Landesgrenze: Oestrich-Winkel liegt in Hessen, Trechtingshausen in Rheinland-Pfalz.",
+"Oestrich-Winkel hat zwölfmal so viele Einwohner wie Trechtingshausen."
+],
+"25-geisenheim": [
+"Landesgrenze: Geisenheim liegt in Hessen, Trechtingshausen in Rheinland-Pfalz.",
+"Geisenheim hat fast zwölfmal so viele Einwohner wie Trechtingshausen."
+],
+"05-ruedesheim": [
+"Landesgrenze: Rüdesheim am Rhein liegt in Hessen, Trechtingshausen in Rheinland-Pfalz.",
+"Rüdesheim am Rhein hat zehnmal so viele Einwohner wie Trechtingshausen."
+],
+"06-lorch": [
+"Landesgrenze: Lorch liegt in Hessen, Trechtingshausen in Rheinland-Pfalz.",
+"Lorch hat viermal so viele Einwohner wie Trechtingshausen."
+],
+"07-kaub": [
+"Kreisgrenze: Kaub gehört zum Rhein-Lahn-Kreis, Trechtingshausen zum Landkreis Mainz-Bingen.",
+"Trechtingshausen hat rund 200 Einwohner mehr als Kaub."
+],
+"08-st-goarshausen": [
+"Kreisgrenze: St. Goarshausen gehört zum Rhein-Lahn-Kreis, Trechtingshausen zum Landkreis Mainz-Bingen.",
+"St. Goarshausen hat rund 300 Einwohner mehr als Trechtingshausen."
+],
+"49-st-goar": [
+"Kreisgrenze: St. Goar gehört zum Rhein-Hunsrück-Kreis, Trechtingshausen zum Landkreis Mainz-Bingen.",
+"St. Goar hat dreimal so viele Einwohner wie Trechtingshausen."
+],
+"50-oberwesel": [
+"Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, Trechtingshausen zum Landkreis Mainz-Bingen.",
+"Oberwesel hat dreimal so viele Einwohner wie Trechtingshausen."
+],
+"51-bacharach": [
+"Bacharach hat gut anderthalbmal so viele Einwohner wie Trechtingshausen."
+],
+"142-niederheimbach": [
+"Fläche: Trechtingshausen hat 7,67 km², Niederheimbach fast genauso 7,55 km².",
+"Einwohner Ende 2025: In Trechtingshausen 968, in Niederheimbach 812."
+],
+"52-bingen": [
+"Bingen hat rund 25-mal so viele Einwohner wie Trechtingshausen."
+],
+"60-ingelheim": [
+"Ingelheim hat rund 35-mal so viele Einwohner wie Trechtingshausen."
+]
+},
+"ags": "07339058",
+"ortsteil": false,
+"km_vom_vorigen": 3.7
 },
 {
 "slug": "52-bingen",
@@ -24102,11 +26096,8 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "51-bacharach",
-"anschluss": [
-"Bingen hat fast siebzehnmal so viele Einwohner wie Bacharach.",
-"Bacharach und Bingen liegen beide im Landkreis Mainz-Bingen."
-],
+"anschluss_von": "143-trechtingshausen",
+"anschluss": [],
 "anschluesse": {
 "04-eltville": [
 "Landesgrenze: Eltville am Rhein liegt in Hessen, Bingen in Rheinland-Pfalz.",
@@ -24140,13 +26131,19 @@ window.QA_DATEN = {
 "Bingen hat fast siebzehnmal so viele Einwohner wie Bacharach.",
 "Bacharach und Bingen liegen beide im Landkreis Mainz-Bingen."
 ],
+"142-niederheimbach": [
+"Bingen hat rund 30-mal so viele Einwohner wie Niederheimbach."
+],
+"143-trechtingshausen": [
+"Bingen hat rund 25-mal so viele Einwohner wie Trechtingshausen."
+],
 "60-ingelheim": [
 "Ingelheim hat rund 9.500 Einwohner mehr als Bingen."
 ]
 },
 "ags": "07339005",
 "ortsteil": false,
-"km_vom_vorigen": 13.8
+"km_vom_vorigen": 6.2
 },
 {
 "slug": "60-ingelheim",
@@ -24352,6 +26349,12 @@ window.QA_DATEN = {
 "Landesgrenze: Lorch liegt in Hessen, Ingelheim in Rheinland-Pfalz.",
 "Ingelheim hat neunmal so viele Einwohner wie Lorch."
 ],
+"142-niederheimbach": [
+"Ingelheim hat rund 45-mal so viele Einwohner wie Niederheimbach."
+],
+"143-trechtingshausen": [
+"Ingelheim hat rund 35-mal so viele Einwohner wie Trechtingshausen."
+],
 "52-bingen": [
 "Ingelheim hat rund 9.500 Einwohner mehr als Bingen.",
 "Bingen und Ingelheim liegen beide im Landkreis Mainz-Bingen; Kreisstadt ist Ingelheim."
@@ -24556,6 +26559,13 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: Auf Platz zwei kam in Ingelheim die SPD, in Alzey die AfD."
 ],
 "anschluesse": {
+"144-guntersblum": [
+"Kreisgrenze: Guntersblum gehört zum Landkreis Mainz-Bingen, Alzey zum Landkreis Alzey-Worms.",
+"Alzey hat fünfmal so viele Einwohner wie Guntersblum."
+],
+"145-osthofen": [
+"Alzey hat doppelt so viele Einwohner wie Osthofen."
+],
 "60-ingelheim": [
 "Kreisgrenze: Ingelheim gehört zum Landkreis Mainz-Bingen, Alzey zum Landkreis Alzey-Worms.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Ingelheim die SPD, in Alzey die AfD."
@@ -24741,6 +26751,14 @@ window.QA_DATEN = {
 "Landesgrenze: Rüsselsheim liegt in Hessen, Bodenheim in Rheinland-Pfalz.",
 "Rüsselsheim hat fast neunmal so viele Einwohner wie Bodenheim."
 ],
+"138-gross-gerau": [
+"Landesgrenze: Groß-Gerau liegt in Hessen, Bodenheim in Rheinland-Pfalz.",
+"Groß-Gerau hat fast dreieinhalbmal so viele Einwohner wie Bodenheim."
+],
+"139-bischofsheim": [
+"Landesgrenze: Bischofsheim liegt in Hessen, Bodenheim in Rheinland-Pfalz.",
+"Bischofsheim hat gut anderthalbmal so viele Einwohner wie Bodenheim."
+],
 "45-mainz": [
 "Kreisgrenze: Mainz ist kreisfrei, Bodenheim gehört zum Landkreis Mainz-Bingen.",
 "Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Bodenheim die CDU."
@@ -24768,6 +26786,10 @@ window.QA_DATEN = {
 ],
 "62-oppenheim": [
 "Oppenheim und Bodenheim sind fast gleich groß: rund 7.200 und 7.600 Einwohner."
+],
+"144-guntersblum": [
+"Bodenheim hat fast doppelt so viele Einwohner wie Guntersblum.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Guntersblum die AfD, in Bodenheim die SPD."
 ],
 "54-alzey": [
 "Eine Nebenbahn verband früher Bodenheim mit Alzey.",
@@ -24954,6 +26976,18 @@ window.QA_DATEN = {
 "Landesgrenze: Rüsselsheim liegt in Hessen, Nackenheim in Rheinland-Pfalz.",
 "Rüsselsheim hat zwölfmal so viele Einwohner wie Nackenheim."
 ],
+"137-weiterstadt": [
+"Landesgrenze: Weiterstadt liegt in Hessen, Nackenheim in Rheinland-Pfalz.",
+"Weiterstadt hat fünfmal so viele Einwohner wie Nackenheim."
+],
+"138-gross-gerau": [
+"Landesgrenze: Groß-Gerau liegt in Hessen, Nackenheim in Rheinland-Pfalz.",
+"Groß-Gerau hat gut viereinhalbmal so viele Einwohner wie Nackenheim."
+],
+"139-bischofsheim": [
+"Landesgrenze: Bischofsheim liegt in Hessen, Nackenheim in Rheinland-Pfalz.",
+"Bischofsheim hat fast zweieinhalbmal so viele Einwohner wie Nackenheim."
+],
 "45-mainz": [
 "Kreisgrenze: Mainz ist kreisfrei, Nackenheim gehört zum Landkreis Mainz-Bingen.",
 "Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Nackenheim die CDU."
@@ -24979,6 +27013,10 @@ window.QA_DATEN = {
 ],
 "62-oppenheim": [
 "Oppenheim hat rund 1.800 Einwohner mehr als Nackenheim."
+],
+"144-guntersblum": [
+"Nackenheim hat rund 1.400 Einwohner mehr als Guntersblum.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Guntersblum die AfD, in Nackenheim die SPD."
 ]
 },
 "ags": "07339039",
@@ -25178,6 +27216,18 @@ window.QA_DATEN = {
 "Landesgrenze: Rüsselsheim liegt in Hessen, Nierstein in Rheinland-Pfalz.",
 "Rüsselsheim hat achtmal so viele Einwohner wie Nierstein."
 ],
+"137-weiterstadt": [
+"Landesgrenze: Weiterstadt liegt in Hessen, Nierstein in Rheinland-Pfalz.",
+"Weiterstadt hat fast dreieinhalbmal so viele Einwohner wie Nierstein."
+],
+"138-gross-gerau": [
+"Landesgrenze: Groß-Gerau liegt in Hessen, Nierstein in Rheinland-Pfalz.",
+"Groß-Gerau hat gut dreimal so viele Einwohner wie Nierstein."
+],
+"139-bischofsheim": [
+"Landesgrenze: Bischofsheim liegt in Hessen, Nierstein in Rheinland-Pfalz.",
+"Bischofsheim hat gut anderthalbmal so viele Einwohner wie Nierstein."
+],
 "45-mainz": [
 "Kreisgrenze: Mainz ist kreisfrei, Nierstein gehört zum Landkreis Mainz-Bingen.",
 "Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Nierstein die CDU."
@@ -25190,6 +27240,14 @@ window.QA_DATEN = {
 ],
 "62-oppenheim": [
 "Nierstein hat rund 900 Einwohner mehr als Oppenheim."
+],
+"144-guntersblum": [
+"Nierstein hat doppelt so viele Einwohner wie Guntersblum.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Guntersblum die AfD, in Nierstein die SPD."
+],
+"145-osthofen": [
+"Kreisgrenze: Osthofen gehört zum Landkreis Alzey-Worms, Nierstein zum Landkreis Mainz-Bingen.",
+"Osthofen hat rund 1.600 Einwohner mehr als Nierstein."
 ],
 "54-alzey": [
 "Alzey hat knapp zweieinhalbmal so viele Einwohner wie Nierstein.",
@@ -25396,6 +27454,18 @@ window.QA_DATEN = {
 "Landesgrenze: Rüsselsheim liegt in Hessen, Oppenheim in Rheinland-Pfalz.",
 "Rüsselsheim hat neunmal so viele Einwohner wie Oppenheim."
 ],
+"137-weiterstadt": [
+"Landesgrenze: Weiterstadt liegt in Hessen, Oppenheim in Rheinland-Pfalz.",
+"Weiterstadt hat gut dreieinhalbmal so viele Einwohner wie Oppenheim."
+],
+"138-gross-gerau": [
+"Landesgrenze: Groß-Gerau liegt in Hessen, Oppenheim in Rheinland-Pfalz.",
+"Groß-Gerau hat dreieinhalbmal so viele Einwohner wie Oppenheim."
+],
+"139-bischofsheim": [
+"Landesgrenze: Bischofsheim liegt in Hessen, Oppenheim in Rheinland-Pfalz.",
+"Bischofsheim hat fast doppelt so viele Einwohner wie Oppenheim."
+],
 "45-mainz": [
 "Kreisgrenze: Mainz ist kreisfrei, Oppenheim gehört zum Landkreis Mainz-Bingen.",
 "Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Oppenheim die CDU."
@@ -25409,11 +27479,468 @@ window.QA_DATEN = {
 "61-nierstein": [
 "Nierstein und Oppenheim gehören beide zur Verbandsgemeinde Rhein-Selz.",
 "Nierstein hat mehr als zweieinhalbmal so viel Fläche wie Oppenheim."
+],
+"144-guntersblum": [
+"Oppenheim hat fast doppelt so viele Einwohner wie Guntersblum.",
+"Guntersblum hat fast zweieinhalbmal so viel Fläche wie Oppenheim, aber weniger Einwohner."
+],
+"145-osthofen": [
+"Kreisgrenze: Osthofen gehört zum Landkreis Alzey-Worms, Oppenheim zum Landkreis Mainz-Bingen.",
+"Osthofen hat rund 2.500 Einwohner mehr als Oppenheim."
 ]
 },
 "ags": "07339049",
 "ortsteil": false,
 "km_vom_vorigen": 2.2
+},
+{
+"slug": "144-guntersblum",
+"name": "Guntersblum",
+"lat": 49.79722,
+"lon": 8.34556,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Guntersblum",
+"steckbrief": "Rund 3.900 Einwohner, 21 km südlich von Mainz.",
+"frage": "Was bedeutet der Ortsname Guntersblum nach der Ortsgeschichte vermutlich?",
+"optionen": [
+"Der Name meint Gunters Blumengarten.",
+"Der Name meint Gunters Pflaumengarten.",
+"Der Name meint Gunters Weinberg.",
+"Der Name meint Gunters Waldlichtung."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der heutige Name klingt nach Blumen. Doch die alte Form „Chunteres Frumere“ geht vermutlich auf mittellateinisch „prumarium“ zurück: Pflaumengarten. Ob König Gunther aus dem Nibelungenlied Pate stand, lässt sich nicht beweisen; der Name Gunther war nicht selten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.guntersblum.eu/geschichte/; Landesportal, www.regionalgeschichte.net/rheinhessen/guntersblum.html",
+"faktencheck": "korrigiert",
+"id": "144-guntersblum/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Guntersblum",
+"steckbrief": "Weinbaugemeinde im Landkreis Mainz-Bingen, 21 km südlich von Mainz.",
+"frage": "Wie viele Einwohner zählte Guntersblum Ende 2025?",
+"optionen": [
+"unter 1.500",
+"1.500 bis unter 3.000",
+"3.000 bis unter 5.000",
+"5.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Weindorf stellt man sich oft klein vor. Guntersblum zählte Ende 2025 aber 3.942 Einwohner. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "korrigiert",
+"id": "144-guntersblum/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Guntersblum",
+"steckbrief": "Rund 3.900 Einwohner, 21 km südlich von Mainz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Nach den Leiningern gehörte Guntersblum zu Frankreich.",
+"Nach dem Wiener Kongress kam Guntersblum an Bayern.",
+"Im Wappen des Ortes wachsen Blumen aus einem Topf."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bayern klingt plausibel, denn die benachbarte Pfalz wurde bayerisch. Nach dem Wiener Kongress entstand aber die Provinz Rheinhessen, und die kam an Hessen. Frankreich stimmt dagegen: Nach den Leiningern wurde die linke Rheinseite französisch. Und das Wappen zeigt wirklich Blumen im Topf. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.guntersblum.eu/geschichte/",
+"faktencheck": "bestätigt",
+"id": "144-guntersblum/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Guntersblum",
+"steckbrief": "Rund 3.900 Einwohner, 21 km südlich von Mainz.",
+"frage": "Wie hoch war die Wahlbeteiligung in Guntersblum bei der Bundestagswahl 2025?",
+"optionen": [
+"85 bis unter 90 %",
+"90 % und mehr",
+"80 bis unter 85 %",
+"unter 80 %"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine so hohe Beteiligung klingt nach Ausnahme, deshalb tippen viele tiefer. Tatsächlich gaben bei der Bundestagswahl 2025 in Guntersblum 86,6 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "144-guntersblum/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Guntersblum",
+"steckbrief": "Rund 3.900 Einwohner, 21 km südlich von Mainz.",
+"frage": "Lange teilten sich Katholiken und Protestanten in Guntersblum eine Kirche. Woher kam laut Ortsgeschichte das Geld für die eigene katholische Kirche?",
+"optionen": [
+"Man erhob eine Sonderabgabe auf Wein.",
+"Man verkaufte gefällte Eichen vom Kühkopf.",
+"Frankreich zahlte eine Entschädigung für die Besatzung.",
+"Man veranstaltete eine Lotterie in ganz Hessen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wein liegt in Rheinhessen nahe. Bezahlt wurde der Bau aber mit Holz: Man verkaufte gefällte Eichen von der Rheininsel Kühkopf. Die Insel war erst durch einen Rheindurchstich entstanden. Den Bau hatte der Kreisrat genehmigt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.guntersblum.eu/leben/katholische-kirche/",
+"faktencheck": "unsicher",
+"id": "144-guntersblum/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Guntersblum",
+"steckbrief": "Rund 3.900 Einwohner, 21 km südlich von Mainz.",
+"frage": "Wie viele Einwohner kommen in Guntersblum auf einen Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 200",
+"200 bis unter 300",
+"300 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei rund 3.900 Einwohnern denkt man schnell an dichte Bebauung. Doch zur Gemeinde gehören auch Weinlagen wie Steinberg und Authental. So kommen 236 Einwohner auf einen Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "144-guntersblum/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Guntersblum",
+"steckbrief": "Rund 3.900 Einwohner, 21 km südlich von Mainz.",
+"frage": "Die Türme der evangelischen Kirche werden „Sarazenentürme“ genannt. Woher kommt der Name laut Ortsgeschichte?",
+"optionen": [
+"Gefangene Sarazenen sollen sie erbaut haben.",
+"Sie wurden mit Kreuzzugsbeute bezahlt.",
+"Ihr Baumeister trug den Beinamen Sarazene.",
+"Ihre Gewölbeform hat möglicherweise persischen Ursprung."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Sarazenen, so nannte man im Mittelalter Muslime, und dabei denkt man schnell an die Kreuzzüge. Den Namen erklärt die Ortsgeschichte aber mit der Bauform: achtseitige Gewölbe auf quadratischem Grundriss, möglicherweise persischen Ursprungs und in Armenien weiterentwickelt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.guntersblum.eu/leben/evangelische-kirche/",
+"faktencheck": "korrigiert",
+"id": "144-guntersblum/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Guntersblum",
+"steckbrief": "Rund 3.900 Einwohner, 21 km südlich von Mainz.",
+"frage": "Wem gehörte die katholische Kirche St. Viktor in Guntersblum bis 1958?",
+"optionen": [
+"Sie gehörte dem Haus Leiningen.",
+"Sie gehörte der evangelischen Kirchengemeinde.",
+"Sie gehörte der bürgerlichen Gemeinde Guntersblum.",
+"Sie gehörte dem Land Hessen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Haus Leiningen liegt nahe, denn Kirche und Wohnungen wurden in Räume des Leininger Schlosses eingebaut. Eigentümerin war aber die bürgerliche Gemeinde, also die politische Gemeinde Guntersblum. Erst 1958 ging die Kirche an die katholische Kirchengemeinde. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.guntersblum.eu/leben/katholische-kirche/",
+"faktencheck": "unsicher",
+"id": "144-guntersblum/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Guntersblum",
+"steckbrief": "Rund 3.900 Einwohner, 21 km südlich von Mainz.",
+"frage": "Zwischen 1237 und 1242 kam Guntersblum an das Haus Leiningen. Wer belehnte Friedrich III. von Leiningen mit der Vogtei über den Ort?",
+"optionen": [
+"Die Erzbischöfe von Köln belehnten ihn.",
+"Die Erzbischöfe von Mainz belehnten ihn.",
+"Die Bischöfe von Worms belehnten ihn.",
+"Die Bischöfe von Speyer belehnten ihn."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Mainz und Worms liegen vor der Haustür, also tippt man auf einen Nachbarn. Lehnsherren waren aber die Erzbischöfe von Köln. Die Vogtei war das Recht, Schutz und Gericht über einen Ort auszuüben. Kurkölnisch war auch der Dalberger Hof, ein ehemaliger Lehnshof. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.guntersblum.eu/geschichte/",
+"faktencheck": "korrigiert",
+"id": "144-guntersblum/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "62-oppenheim",
+"anschluss": [
+"Guntersblum gehörte von 1852 bis 1969 zum Kreis Oppenheim.",
+"Bundestagswahl 2025: Guntersblum hatte eine höhere Wahlbeteiligung als Oppenheim."
+],
+"anschluesse": {
+"138-gross-gerau": [
+"Landesgrenze: Groß-Gerau liegt in Hessen, Guntersblum in Rheinland-Pfalz.",
+"Groß-Gerau hat gut sechsmal so viele Einwohner wie Guntersblum."
+],
+"54-alzey": [
+"Kreisgrenze: Alzey gehört zum Landkreis Alzey-Worms, Guntersblum zum Landkreis Mainz-Bingen.",
+"Alzey hat fünfmal so viele Einwohner wie Guntersblum."
+],
+"134-bodenheim": [
+"Bodenheim hat fast doppelt so viele Einwohner wie Guntersblum.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Bodenheim die SPD, in Guntersblum die AfD."
+],
+"135-nackenheim": [
+"Nackenheim hat rund 1.400 Einwohner mehr als Guntersblum.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Nackenheim die SPD, in Guntersblum die AfD."
+],
+"61-nierstein": [
+"Nierstein hat doppelt so viele Einwohner wie Guntersblum.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Nierstein die SPD, in Guntersblum die AfD."
+],
+"62-oppenheim": [
+"Guntersblum gehörte von 1852 bis 1969 zum Kreis Oppenheim.",
+"Bundestagswahl 2025: Guntersblum hatte eine höhere Wahlbeteiligung als Oppenheim."
+],
+"145-osthofen": [
+"Kreisgrenze: Osthofen gehört zum Landkreis Alzey-Worms, Guntersblum zum Landkreis Mainz-Bingen.",
+"Osthofen hat zweieinhalbmal so viele Einwohner wie Guntersblum."
+],
+"55-worms": [
+"Kreisgrenze: Worms ist kreisfrei, Guntersblum gehört zum Landkreis Mainz-Bingen.",
+"Worms hat rund zwanzigmal so viele Einwohner wie Guntersblum."
+]
+},
+"ags": "07339024",
+"ortsteil": false,
+"km_vom_vorigen": 6.6
+},
+{
+"slug": "145-osthofen",
+"name": "Osthofen",
+"lat": 49.70778,
+"lon": 8.32889,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Osthofen",
+"steckbrief": "Stadt in Rheinhessen mit rund 9.700 Einwohnern, 26 km nördlich von Mannheim.",
+"frage": "Der Name Osthofen meint Höfe, die im Osten lagen. Von wo aus gesehen, laut Webseite der Stadt?",
+"optionen": [
+"Die Höfe lagen von Mühlheim aus im Osten.",
+"Die Höfe lagen von Westhofen aus im Osten.",
+"Die Höfe lagen am Ostufer des Rheins.",
+"Die Höfe lagen östlich der alten Burg."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Westhofen gehört heute zur selben Verbandsgemeinde, da liegt ein Namenspaar Ost–West nahe. Die Stadt Osthofen erzählt es aber so: Man blickte von Mühlheim aus, einem Weiler an einer Handelsroute, der heute eingemeindet ist. Von dort lagen die Höfe im Osten. Das Landesportal hält dagegen eine Benennung nach Himmelsrichtungen um die Königspfalz in Worms für wahrscheinlich. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.osthofen.de/leben-in-osthofen/stadtportrait/geschichte; Landesportal, www.regionalgeschichte.net/rheinhessen/osthofen.html",
+"faktencheck": "korrigiert",
+"id": "145-osthofen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Osthofen",
+"steckbrief": "Stadt in Rheinhessen mit rund 9.700 Einwohnern, 26 km nördlich von Mannheim.",
+"frage": "Wie groß ist die Gemarkung der Stadt Osthofen?",
+"optionen": [
+"unter 12 km²",
+"12 bis unter 22 km²",
+"22 bis unter 35 km²",
+"35 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt dieser Größe vermutet man oft auf größerer Fläche, zumal ringsum Weinbau betrieben wird. Die Gemarkung von Osthofen misst aber nur rund 18,6 Quadratkilometer; die Stadt ist recht dicht besiedelt. Richtig war 2.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "145-osthofen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Osthofen",
+"steckbrief": "Stadt in Rheinhessen mit rund 9.700 Einwohnern, 26 km nördlich von Mannheim.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Kleine Kirche entstand aus dem alten Rathaus.",
+"Osthofen gehörte über Jahrhunderte zur Kurpfalz.",
+"Das Flakhäuschen war ursprünglich ein Wasserturm."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Wasserturm für die Weinberge klingt nach einem nützlichen Zweck. Doch der Name verrät es: Das Flakhäuschen wurde im Krieg als Bunker für einen Flakbeobachtungsposten gebaut. Nach dem Krieg setzte man ein Wingertsheisje, also ein Weinbergshäuschen aus Holz, darauf. Die Kleine Kirche und die Kurpfalz stimmen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.osthofen.de/kultur-und-tourismus/aktiv-natur/wandern/miniaturburgen-im-wonnegau",
+"faktencheck": "korrigiert",
+"id": "145-osthofen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Osthofen",
+"steckbrief": "Stadt in Rheinhessen mit rund 9.700 Einwohnern, 26 km nördlich von Mannheim.",
+"frage": "Bundestagswahl 2025, Verbandsgemeinde Wonnegau mit Osthofen: Welchen Zweitstimmenanteil holte die stärkste Partei?",
+"optionen": [
+"unter 22 %",
+"22 bis unter 26 %",
+"26 bis unter 29 %",
+"29 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wo mehrere Parteien stark abschneiden, erwartet man für die stärkste einen niedrigeren Wert. In der Verbandsgemeinde Wonnegau, zu der Osthofen gehört, holte die CDU 30 Prozent der Zweitstimmen; die AfD wurde Zweite. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "145-osthofen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Osthofen",
+"steckbrief": "Stadt in Rheinhessen mit rund 9.700 Einwohnern, 26 km nördlich von Mannheim.",
+"frage": "Im März 1933 errichtete die NSDAP in Osthofen ein Konzentrationslager. In welchem Gebäude?",
+"optionen": [
+"Das Lager lag in einer ehemaligen Papierfabrik.",
+"Das Lager lag in einer ehemaligen Kaserne.",
+"Das Lager lag in der alten Osthofener Burg.",
+"Das Lager lag in einem leerstehenden Weingut."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Kasernen hatten Zäune und Schlafsäle, daher liegt der Gedanke nahe. Die NSDAP nutzte jedoch eine ehemalige Papierfabrik; offiziell eröffnet wurde das Lager erst später. Dort hielt man politische Gegner und Juden fest, unter hygienisch katastrophalen Bedingungen und mit häufigen Misshandlungen. Richtig war 1.",
+"quelle": "Landesportal, www.regionalgeschichte.net/rheinhessen/osthofen.html",
+"faktencheck": "bestätigt",
+"id": "145-osthofen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Osthofen",
+"steckbrief": "Stadt in Rheinhessen mit rund 9.700 Einwohnern, 26 km nördlich von Mannheim.",
+"frage": "Wie weit ist Osthofen in Luftlinie von Mainz entfernt, der Landeshauptstadt von Rheinland-Pfalz?",
+"optionen": [
+"unter 20 km",
+"20 bis unter 35 km",
+"35 bis unter 50 km",
+"50 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Osthofen liegt nahe an Mannheim, und das klingt, als sei Mainz weit weg. Tatsächlich trennen Osthofen und die Landeshauptstadt nur 31 km Luftlinie, kaum mehr als bis Mannheim. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "145-osthofen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Osthofen",
+"steckbrief": "Stadt in Rheinhessen mit rund 9.700 Einwohnern, 26 km nördlich von Mannheim.",
+"frage": "784 wurde Osthofen dem Kloster Lorsch geschenkt. Wer schenkte es laut Ortsgeschichte?",
+"optionen": [
+"Pippin, ein Sohn Karls des Großen.",
+"Widukind, der Herzog der Sachsen.",
+"Gerold, ein Schwiegervater Karls des Großen.",
+"Tassilo, der Herzog der Bayern."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Königssohn als Stifter klingt naheliegend, denn Klöster bekamen oft Gut von der Herrscherfamilie. Geschenkt haben aber Gerold und seine Frau Imma, die Schwiegereltern Karls des Großen. Die Urkunde steht im Lorscher Kodex und nennt den Ort „Ostova“. Richtig war 3.",
+"quelle": "Landesportal, www.regionalgeschichte.net/rheinhessen/osthofen.html",
+"faktencheck": "korrigiert",
+"id": "145-osthofen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Osthofen",
+"steckbrief": "Stadt in Rheinhessen mit rund 9.700 Einwohnern, 26 km nördlich von Mannheim.",
+"frage": "Osthofen ließ einst sein Wormser Tor abreißen. Welchen Anlass nennt die Ortsgeschichte?",
+"optionen": [
+"Ein Blitzschlag hatte das Tor in Brand gesetzt.",
+"Das geschlossene Tor führte zu einer Überschwemmung.",
+"Ein Sturm hatte das Tor schwer beschädigt.",
+"Ein Erdbeben hatte das Mauerwerk gespalten."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Tortürme wurden oft vom Blitz getroffen, das macht den Brand plausibel. Doch nach einer starken Schneeschmelze trat der Seebach über die Ufer; weil das Wormser Tor geschlossen war, wurde der Ort überschwemmt. Danach brach man das Tor ab und baute den „Neuen Graben“ als Hochwasserschutz. Richtig war 2.",
+"quelle": "Landesportal, www.regionalgeschichte.net/rheinhessen/osthofen.html",
+"faktencheck": "bestätigt",
+"id": "145-osthofen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Osthofen",
+"steckbrief": "Stadt in Rheinhessen mit rund 9.700 Einwohnern, 26 km nördlich von Mannheim.",
+"frage": "Der Leckzapfen in Osthofen ist ein Weinbergshäuschen in Form einer Miniaturburg. Welchem Schloss sieht er laut Stadt verblüffend ähnlich?",
+"optionen": [
+"Schloss Neuschwanstein.",
+"Der Wartburg.",
+"Der Burg Hohenzollern.",
+"Schloss Lichtenstein."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Neuschwanstein kennt jeder als Märchenschloss, deshalb liegt es nahe. Der Leckzapfen von Gustav Friedrich Weißheimer, Guts- und Mühlenbesitzer in Osthofen, ähnelt aber verblüffend Schloss Lichtenstein. Gebaut wurde er in Anlehnung an Wilhelm Hauffs Roman „Lichtenstein“. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.osthofen.de/kultur-und-tourismus/aktiv-natur/wandern/miniaturburgen-im-wonnegau; www.osthofen.de/leben-in-osthofen/stadtportrait/wichtige-persoenlichkeiten",
+"faktencheck": "korrigiert",
+"id": "145-osthofen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "144-guntersblum",
+"anschluss": [
+"Kreisgrenze: In Guntersblum steht BIN am Auto, in Osthofen AZ.",
+"Einwohner: Osthofen hat mehr als doppelt so viele wie Guntersblum."
+],
+"anschluesse": {
+"54-alzey": [
+"Alzey hat doppelt so viele Einwohner wie Osthofen."
+],
+"61-nierstein": [
+"Kreisgrenze: Nierstein gehört zum Landkreis Mainz-Bingen, Osthofen zum Landkreis Alzey-Worms.",
+"Osthofen hat rund 1.600 Einwohner mehr als Nierstein."
+],
+"62-oppenheim": [
+"Kreisgrenze: Oppenheim gehört zum Landkreis Mainz-Bingen, Osthofen zum Landkreis Alzey-Worms.",
+"Osthofen hat rund 2.500 Einwohner mehr als Oppenheim."
+],
+"144-guntersblum": [
+"Kreisgrenze: In Guntersblum steht BIN am Auto, in Osthofen AZ.",
+"Einwohner: Osthofen hat mehr als doppelt so viele wie Guntersblum."
+],
+"55-worms": [
+"Kreisgrenze: Worms ist kreisfrei, Osthofen gehört zum Landkreis Alzey-Worms.",
+"Worms hat neunmal so viele Einwohner wie Osthofen."
+],
+"63-frankenthal": [
+"Kreisgrenze: Frankenthal ist kreisfrei, Osthofen gehört zum Landkreis Alzey-Worms.",
+"Frankenthal hat fünfmal so viele Einwohner wie Osthofen."
+]
+},
+"ags": "07331055",
+"ortsteil": false,
+"km_vom_vorigen": 10.0
 },
 {
 "slug": "55-worms",
@@ -25591,11 +28118,8 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "62-oppenheim",
-"anschluss": [
-"Worms hat gut zwölfmal so viele Einwohner wie Oppenheim.",
-"Kreisgrenze: Oppenheim gehört zum Landkreis Mainz-Bingen, Worms ist kreisfrei."
-],
+"anschluss_von": "145-osthofen",
+"anschluss": [],
 "anschluesse": {
 "40-mannheim": [
 "Landesgrenze: Mannheim liegt in Baden-Württemberg, Worms in Rheinland-Pfalz.",
@@ -25604,6 +28128,14 @@ window.QA_DATEN = {
 "20-bensheim": [
 "Landesgrenze: Bensheim liegt in Hessen, Worms in Rheinland-Pfalz.",
 "Worms hat gut doppelt so viele Einwohner wie Bensheim."
+],
+"144-guntersblum": [
+"Kreisgrenze: Guntersblum gehört zum Landkreis Mainz-Bingen, Worms ist kreisfrei.",
+"Worms hat rund zwanzigmal so viele Einwohner wie Guntersblum."
+],
+"145-osthofen": [
+"Kreisgrenze: Osthofen gehört zum Landkreis Alzey-Worms, Worms ist kreisfrei.",
+"Worms hat neunmal so viele Einwohner wie Osthofen."
 ],
 "63-frankenthal": [
 "Worms hat fast doppelt so viele Einwohner wie Frankenthal."
@@ -25619,7 +28151,7 @@ window.QA_DATEN = {
 },
 "ags": "07319000",
 "ortsteil": false,
-"km_vom_vorigen": 25.1
+"km_vom_vorigen": 8.9
 },
 {
 "slug": "63-frankenthal",
@@ -25820,6 +28352,10 @@ window.QA_DATEN = {
 "41-ladenburg": [
 "Landesgrenze: Ladenburg liegt in Baden-Württemberg, Frankenthal in Rheinland-Pfalz.",
 "Frankenthal hat fast viermal so viele Einwohner wie Ladenburg."
+],
+"145-osthofen": [
+"Kreisgrenze: Osthofen gehört zum Landkreis Alzey-Worms, Frankenthal ist kreisfrei.",
+"Frankenthal hat fünfmal so viele Einwohner wie Osthofen."
 ],
 "55-worms": [
 "Worms und Frankenthal sind beide kreisfreie Städte.",

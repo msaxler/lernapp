@@ -1,0 +1,64 @@
+Orte: 136-neu-isenburg 137-weiterstadt 138-gross-gerau 139-bischofsheim 140-weissenthurm 141-spay 142-niederheimbach 143-trechtingshausen 144-guntersblum 145-osthofen
+== Extraktion (Haiku) 19:37:55
+136-neu-isenburg     extraktion ein  27829  aus   6922   0.08 USD    57 s  claude-haiku-4-5-20251001
+137-weiterstadt      extraktion ein  23574  aus  16441   0.12 USD   125 s  claude-haiku-4-5-20251001
+138-gross-gerau      extraktion ein  25601  aus  13503   0.11 USD   107 s  claude-haiku-4-5-20251001
+139-bischofsheim     extraktion ein  20378  aus   8788   0.07 USD    80 s  claude-haiku-4-5-20251001
+140-weissenthurm     extraktion ein  78821  aus  32609   0.26 USD   271 s  claude-haiku-4-5-20251001
+141-spay             extraktion ein  45399  aus  13467   0.14 USD   135 s  claude-haiku-4-5-20251001
+142-niederheimbach   extraktion ein  24164  aus   8957   0.08 USD    91 s  claude-haiku-4-5-20251001
+143-trechtingshausen extraktion ein  24110  aus  12264   0.10 USD   103 s  claude-haiku-4-5-20251001
+144-guntersblum      extraktion ein  23599  aus  17382   0.12 USD   153 s  claude-haiku-4-5-20251001
+145-osthofen         extraktion ein  37787  aus  16184   0.14 USD   156 s  claude-haiku-4-5-20251001
+zusammen: 6725 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+136-neu-isenburg   17213 Zeichen
+137-weiterstadt    21668 Zeichen
+138-gross-gerau    27134 Zeichen
+139-bischofsheim   16904 Zeichen
+140-weissenthurm    6130 Zeichen
+141-spay           35328 Zeichen
+142-niederheimbach   20309 Zeichen
+143-trechtingshausen   22493 Zeichen
+144-guntersblum    26777 Zeichen
+145-osthofen       37805 Zeichen
+== Karten (claude-opus-5-5) 19:43:24
+136-neu-isenburg     karten     ein  36827  aus  30975   0.86 USD   265 s  claude-opus-5-5
+137-weiterstadt      karten     ein  39042  aus  41078   1.08 USD   350 s  claude-opus-5-5
+138-gross-gerau      karten     ein  43048  aus  36650   1.02 USD   317 s  claude-opus-5-5
+139-bischofsheim     karten     ein  36009  aus  42582   1.09 USD   366 s  claude-opus-5-5
+140-weissenthurm     karten     ein  29743  aus  23460   0.65 USD   204 s  claude-opus-5-5
+141-spay             karten     ein  46968  aus  35017   1.02 USD   297 s  claude-opus-5-5
+142-niederheimbach   karten     ein  35227  aus  41493   1.06 USD   353 s  claude-opus-5-5
+143-trechtingshausen karten     ein  39551  aus  38725   1.04 USD   333 s  claude-opus-5-5
+144-guntersblum      karten     ein  42829  aus  32972   0.95 USD   284 s  claude-opus-5-5
+145-osthofen         karten     ein  48845  aus  41362   1.16 USD   381 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 19:55:51
+136-neu-isenburg     pruefung   ein  54436  aus   7233   0.53 USD    70 s  claude-opus-5-5
+137-weiterstadt      pruefung   ein  53170  aus  11524   0.60 USD   104 s  claude-opus-5-5
+138-gross-gerau      pruefung   ein  60756  aus  12256   0.68 USD   106 s  claude-opus-5-5
+139-bischofsheim     pruefung   ein  46827  aus  10367   0.53 USD    90 s  claude-opus-5-5
+140-weissenthurm     pruefung   ein  33140  aus   4207   0.30 USD    41 s  claude-opus-5-5
+141-spay             pruefung   ein  89096  aus  11893   0.90 USD   100 s  claude-opus-5-5
+142-niederheimbach   pruefung   ein  51683  aus  10879   0.58 USD    92 s  claude-opus-5-5
+143-trechtingshausen pruefung   ein  47409  aus   9716   0.52 USD    86 s  claude-opus-5-5
+144-guntersblum      pruefung   ein  54729  aus  12996   0.64 USD   123 s  claude-opus-5-5
+145-osthofen         pruefung   ein  81053  aus  11904   0.83 USD   104 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 19:59:39
+136-neu-isenburg     stufe2     ein 220936  aus   7336   0.71 USD   101 s  claude-opus-5-5,claude-haiku-4-5-20251001
+137-weiterstadt      stufe2     ein 252960  aus   5151   0.63 USD   100 s  claude-opus-5-5,claude-haiku-4-5-20251001
+138-gross-gerau      FEHLER keine Karte an Stufe 2 – kein Lauf
+139-bischofsheim     stufe2     ein 158322  aus   2761   0.38 USD    66 s  claude-opus-5-5,claude-haiku-4-5-20251001
+140-weissenthurm     stufe2     ein 452256  aus   7897   0.75 USD   163 s  claude-opus-5-5,claude-haiku-4-5-20251001
+141-spay             FEHLER keine Karte an Stufe 2 – kein Lauf
+142-niederheimbach   stufe2     ein 217679  aus   6822   0.63 USD   113 s  claude-opus-5-5,claude-haiku-4-5-20251001
+143-trechtingshausen stufe2     ein 208475  aus   6688   0.55 USD    93 s  claude-opus-5-5,claude-haiku-4-5-20251001
+144-guntersblum      stufe2     ein 212235  aus   5454   0.53 USD    79 s  claude-opus-5-5,claude-haiku-4-5-20251001
+145-osthofen         stufe2     ein 116447  aus   1807   0.32 USD    54 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 20:02:37
+Urteile: {'korrigiert': 407, 'bestätigt': 797, 'gesperrt': 28, 'unsicher': 72} | im Vorrat: 1276 Karten an 145 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     145 Orte, 1276 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 1574638 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 20:02:39

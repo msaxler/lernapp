@@ -394,7 +394,32 @@
   "Bodenheim: kfz MZ (Wikidata P395) gegen RP (Altbestand geo.sqlite (Kreis 07339))",
   "Bodenheim: hoehe_m 84 (Wikidata P2044) gegen 100 (dewiki Infobox)",
   "Nackenheim: kfz MZ (Wikidata P395) gegen RP (Altbestand geo.sqlite (Kreis 07339))",
-  "Nackenheim: hoehe_m 84 (Wikidata P2044) gegen 112 (Altbestand geo.sqlite (GeoNames 2867229))"
+  "Nackenheim: hoehe_m 84 (Wikidata P2044) gegen 112 (Altbestand geo.sqlite (GeoNames 2867229))",
+  "Neu-Isenburg: geo.sqlite hat für Kreis 06438 kein Kennzeichen",
+  "Neu-Isenburg: hoehe_m 130 (Wikidata P2044) gegen 123 (dewiki Infobox)",
+  "Weiterstadt: kfz DA (Wikidata P395) gegen DIL (Altbestand staedte.json)",
+  "Groß-Gerau: kfz GG (Wikidata P395) gegen GRO (Altbestand staedte.json)",
+  "Groß-Gerau: kfz GG (Wikidata P395) gegen GRO (Altbestand kfz_kennzeichen.csv)",
+  "Groß-Gerau: hoehe_m 88 (Wikidata P2044) gegen 95 (Altbestand staedte.json)",
+  "Groß-Gerau: hoehe_m 88 (Wikidata P2044) gegen 95 (Altbestand geo.sqlite (GeoNames 2915613))",
+  "Weißenthurm: kfz MYK (Wikidata P395) gegen SIM (Altbestand staedte.json)",
+  "Weißenthurm: hoehe_m 65 (Wikidata P2044) gegen 79 (Altbestand staedte.json)",
+  "Weißenthurm: hoehe_m 65 (Wikidata P2044) gegen 79 (Altbestand geo.sqlite (GeoNames 2811837))",
+  "Spay: Briefwahl nur auf Ebene der Verbandsgemeinde Rhein-Mosel; Wahlergebnis gilt für die Verbandsgemeinde",
+  "Spay: hoehe_m 74 (Wikidata P2044) gegen 68 (dewiki Infobox)",
+  "Niederheimbach: Briefwahl nur auf Ebene der Verbandsgemeinde Rhein-Nahe; Wahlergebnis gilt für die Verbandsgemeinde",
+  "Niederheimbach: kfz MZ (Wikidata P395) gegen RP (Altbestand geo.sqlite (Kreis 07339))",
+  "Niederheimbach: hoehe_m 90 (Wikidata P2044) gegen 116 (Altbestand geo.sqlite (GeoNames 2863341))",
+  "Trechtingshausen: Briefwahl nur auf Ebene der Verbandsgemeinde Rhein-Nahe; Wahlergebnis gilt für die Verbandsgemeinde",
+  "Trechtingshausen: kfz MZ (Wikidata P395) gegen RP (Altbestand geo.sqlite (Kreis 07339))",
+  "Trechtingshausen: hoehe_m 97 (Wikidata P2044) gegen 126 (Altbestand geo.sqlite (GeoNames 2821408))",
+  "Guntersblum: kfz BIN (Wikidata P395) gegen RP (Altbestand geo.sqlite (Kreis 07339))",
+  "Guntersblum: hoehe_m 89 (Wikidata P2044) gegen 94 (Altbestand geo.sqlite (GeoNames 2913598))",
+  "Osthofen: Briefwahl nur auf Ebene der Verbandsgemeinde Wonnegau; Wahlergebnis gilt für die Verbandsgemeinde",
+  "Osthofen: geo.sqlite hat für Kreis 07331 kein Kennzeichen",
+  "Osthofen: kfz AZ (Wikidata P395) gegen DÜW (Altbestand staedte.json)",
+  "Osthofen: hoehe_m 89 (Wikidata P2044) gegen 99 (Altbestand staedte.json)",
+  "Osthofen: hoehe_m 89 (Wikidata P2044) gegen 99 (Altbestand geo.sqlite (GeoNames 2856278))"
  ],
  "orte": [
   {
@@ -11430,6 +11455,203 @@
    }
   },
   {
+   "slug": "136-neu-isenburg",
+   "rolle": "ziel",
+   "name": "Neu-Isenburg",
+   "einheit": "Stadt",
+   "wikidata": "Q14920",
+   "lat": 50.05576,
+   "lon": 8.69708,
+   "gemeindeschluessel": "06438009",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Offenbach",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Offenbach",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Hessen",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 38236,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 37926,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 35293,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2864820)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 24.29,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 24.29,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 1574,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "OF",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "OF",
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 130,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 123,
+      "quelle": "dewiki Infobox",
+      "abweichend": true
+     },
+     {
+      "wert": 127,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 127,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2864820)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Frankfurt am Main",
+       "km": 7
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "7 km südlich von Frankfurt am Main (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Wiesbaden",
+       "km": 32
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Neu Isenburg",
+       "Bahnhof Neu Isenburg Stadt",
+       "Bahnhof Zeppelinheim"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "63263"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "63263"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "06102",
+       "069"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 28.6,
+        "SPD": 17.8,
+        "AfD": 14.2,
+        "GRÜNE": 13.0,
+        "Die Linke": 10.4,
+        "FDP": 6.0,
+        "BSW": 5.9
+       },
+       "wahlbeteiligung_prozent": 79.1,
+       "gueltige_zweitstimmen": 18037
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Dirk Gene Hagelstein",
+       "partei": "SPD"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-12",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Weida",
+       "Bad Vöslau",
+       "Andrézieux-Bouthéon",
+       "Veauche",
+       "Dacorum",
+       "Chiusi"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
    "slug": "44-frankfurt",
    "rolle": "ziel",
    "name": "Frankfurt am Main",
@@ -11863,6 +12085,576 @@
        "Évreux"
       ],
       "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "137-weiterstadt",
+   "rolle": "ziel",
+   "name": "Weiterstadt",
+   "einheit": "Stadt",
+   "wikidata": "Q285140",
+   "lat": 49.9,
+   "lon": 8.6,
+   "gemeindeschluessel": "06432023",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Darmstadt-Dieburg",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Darmstadt-Dieburg",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Hessen",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 26638,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 26583,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 24253,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2811644)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 34.4,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 34.4,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 774,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "DA",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "DIL",
+      "quelle": "Altbestand staedte.json",
+      "abweichend": true
+     },
+     {
+      "wert": "DA",
+      "quelle": "Altbestand geo.sqlite (Kreis 06432)"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 105,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 105,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 109,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 109,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2811644)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Darmstadt",
+       "km": 5
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "5 km nordwestlich von Darmstadt (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Wiesbaden",
+       "km": 33
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Weiterstadt"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "64331"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "64331"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "06150"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 25.8,
+        "SPD": 21.2,
+        "AfD": 17.8,
+        "GRÜNE": 11.6,
+        "Die Linke": 8.8,
+        "BSW": 5.5
+       },
+       "wahlbeteiligung_prozent": 82.1,
+       "gueltige_zweitstimmen": 13968
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Niklas Gehnich",
+       "partei": "parteilos"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-12",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Kiens",
+       "Verneuil-sur-Seine",
+       "Bagno a Ripoli"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "138-gross-gerau",
+   "rolle": "ziel",
+   "name": "Groß-Gerau",
+   "einheit": "Stadt",
+   "wikidata": "Q251689",
+   "lat": 49.92139,
+   "lon": 8.48181,
+   "gemeindeschluessel": "06433006",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Groß-Gerau",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Groß-Gerau",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Hessen",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 25401,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 25388,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 23641,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2915613)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 54.47,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 54.47,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 466,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "GG",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "GRO",
+      "quelle": "Altbestand staedte.json",
+      "abweichend": true
+     },
+     {
+      "wert": [
+       "GG",
+       "RÜ"
+      ],
+      "quelle": "Altbestand geo.sqlite (Kreis 06433)"
+     },
+     {
+      "wert": "GRO",
+      "quelle": "Altbestand kfz_kennzeichen.csv",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 88,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 89,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 95,
+      "quelle": "Altbestand staedte.json",
+      "abweichend": true
+     },
+     {
+      "wert": 95,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2915613)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Darmstadt",
+       "km": 13
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "13 km nordwestlich von Darmstadt (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Wiesbaden",
+       "km": 25
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Groß Gerau",
+       "Bahnhof Groß Gerau-Dornheim",
+       "Bahnhof Nauheim"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "64521"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "64521"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "06152"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 28.4,
+        "SPD": 20.6,
+        "AfD": 14.9,
+        "GRÜNE": 12.4,
+        "Die Linke": 9.4,
+        "BSW": 5.3
+       },
+       "wahlbeteiligung_prozent": 82.2,
+       "gueltige_zweitstimmen": 13738
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Jörg Rüddenklau",
+       "partei": "SPD"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-12",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Brignoles",
+       "Tielt",
+       "Szamotuły",
+       "Bruneck"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "139-bischofsheim",
+   "rolle": "ziel",
+   "name": "Bischofsheim",
+   "einheit": "Gemeinde",
+   "wikidata": "Q624456",
+   "lat": 49.98903,
+   "lon": 8.355,
+   "gemeindeschluessel": "06433002",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Groß-Gerau",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Groß-Gerau",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Hessen",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 13034,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 12075,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2948290)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 9.03,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 1443,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "GG",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": [
+       "GG",
+       "RÜ"
+      ],
+      "quelle": "Altbestand geo.sqlite (Kreis 06433)"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 86,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 86,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 86,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2948290)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 5
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "5 km östlich von Mainz (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Wiesbaden",
+       "km": 13
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Mainz-Bischofsheim"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "65474"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "65474"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "06144"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 25.8,
+        "SPD": 22.3,
+        "AfD": 15.5,
+        "GRÜNE": 13.1,
+        "Die Linke": 10.7
+       },
+       "wahlbeteiligung_prozent": 82.9,
+       "gueltige_zweitstimmen": 7066
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Lisa Gößwein",
+       "partei": "SPD"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-12",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
      }
     ],
     "kueste": [
@@ -15032,6 +15824,186 @@
    }
   },
   {
+   "slug": "140-weissenthurm",
+   "rolle": "ziel",
+   "name": "Weißenthurm",
+   "einheit": "Stadt",
+   "wikidata": "Q541616",
+   "lat": 50.41444,
+   "lon": 7.46056,
+   "gemeindeschluessel": "07137228",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Mayen-Koblenz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 8944,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 9020,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 7639,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2811837)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 3.99,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 3.99,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 2242,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "MYK",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "SIM",
+      "quelle": "Altbestand staedte.json",
+      "abweichend": true
+     },
+     {
+      "wert": "MYK",
+      "quelle": "Altbestand geo.sqlite (Kreis 07137)"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 65,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 65,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 79,
+      "quelle": "Altbestand staedte.json",
+      "abweichend": true
+     },
+     {
+      "wert": 79,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2811837)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Koblenz",
+       "km": 11
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "11 km nordwestlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 76
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "56575"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "56575"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "02637"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "AfD",
+       "anteile_prozent": {
+        "AfD": 33.0,
+        "CDU": 24.9,
+        "SPD": 16.8,
+        "Die Linke": 7.1,
+        "BSW": 5.7
+       },
+       "wahlbeteiligung_prozent": 74.1,
+       "gueltige_zweitstimmen": 4283
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Johannes Juchem",
+       "partei": "FWG"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-12",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Courrières"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
    "slug": "53-koblenz",
    "rolle": "ziel",
    "name": "Koblenz",
@@ -15432,6 +16404,167 @@
       },
       "quelle": "dewiki Infobox",
       "stand": "2026-10-06",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "141-spay",
+   "rolle": "ziel",
+   "name": "Spay",
+   "einheit": "Gemeinde",
+   "wikidata": "Q573555",
+   "lat": 50.25833,
+   "lon": 7.64667,
+   "gemeindeschluessel": "07137223",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Mayen-Koblenz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 1869,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 2056,
+      "quelle": "Altbestand geo.sqlite (GeoNames 3207904)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 2.7,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 692,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "MYK",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "MYK",
+      "quelle": "Altbestand geo.sqlite (Kreis 07137)"
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 74,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 68,
+      "quelle": "dewiki Infobox",
+      "abweichend": true
+     },
+     {
+      "wert": 74,
+      "quelle": "Altbestand geo.sqlite (GeoNames 3207904)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Koblenz",
+       "km": 12
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "12 km südöstlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 55
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Spay"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "56322"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "56322"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "02628"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 39.4,
+        "SPD": 18.5,
+        "AfD": 13.2,
+        "GRÜNE": 11.7
+       },
+       "wahlbeteiligung_prozent": 86.9,
+       "gueltige_zweitstimmen": 18373
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Verbandsgemeinde Rhein-Mosel, nicht für die Gemeinde allein; die Briefwahl wird dort für alle Gemeinden gemeinsam ausgezählt"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Peter Heil"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-12",
       "hinweis": "zeitabhängig; Aktualität nicht geprüft"
      }
     ],
@@ -16206,6 +17339,349 @@
        "Santenay"
       ],
       "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "142-niederheimbach",
+   "rolle": "ziel",
+   "name": "Niederheimbach",
+   "einheit": "Gemeinde",
+   "wikidata": "Q17715",
+   "lat": 50.03444,
+   "lon": 7.80778,
+   "gemeindeschluessel": "07339040",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Mainz-Bingen",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Mainz-Bingen",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 812,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 813,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2863341)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 7.55,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 108,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "MZ",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "RP",
+      "quelle": "Altbestand geo.sqlite (Kreis 07339)",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 90,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 90,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 116,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2863341)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Wiesbaden",
+       "km": 32
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "32 km westlich von Wiesbaden (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 34
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Niederheimbach"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "55413"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "55413"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "06743"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 31.2,
+        "SPD": 20.7,
+        "AfD": 17.1,
+        "GRÜNE": 12.1,
+        "Die Linke": 5.9
+       },
+       "wahlbeteiligung_prozent": 86.2,
+       "gueltige_zweitstimmen": 9993
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Verbandsgemeinde Rhein-Nahe, nicht für die Gemeinde allein; die Briefwahl wird dort für alle Gemeinden gemeinsam ausgezählt"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Marion Pohl",
+       "partei": "SPD"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-12",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Champtoceaux"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "143-trechtingshausen",
+   "rolle": "ziel",
+   "name": "Trechtingshausen",
+   "einheit": "Gemeinde",
+   "wikidata": "Q680372",
+   "lat": 50.01333,
+   "lon": 7.8475,
+   "gemeindeschluessel": "07339058",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Mainz-Bingen",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Mainz-Bingen",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 968,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 1053,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2821408)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 7.67,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 126,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "MZ",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "RP",
+      "quelle": "Altbestand geo.sqlite (Kreis 07339)",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 97,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 97,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 126,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2821408)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Wiesbaden",
+       "km": 29
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "29 km westlich von Wiesbaden (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 31
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Trechtingshausen"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "55413"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "55413"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "06721"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 31.2,
+        "SPD": 20.7,
+        "AfD": 17.1,
+        "GRÜNE": 12.1,
+        "Die Linke": 5.9
+       },
+       "wahlbeteiligung_prozent": 86.2,
+       "gueltige_zweitstimmen": 9993
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Verbandsgemeinde Rhein-Nahe, nicht für die Gemeinde allein; die Briefwahl wird dort für alle Gemeinden gemeinsam ausgezählt"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Herbert Palmes"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-12",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
      }
     ],
     "kueste": [
@@ -17553,6 +19029,351 @@
        "Calp"
       ],
       "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "144-guntersblum",
+   "rolle": "ziel",
+   "name": "Guntersblum",
+   "einheit": "Gemeinde",
+   "wikidata": "Q656289",
+   "lat": 49.79722,
+   "lon": 8.34556,
+   "gemeindeschluessel": "07339024",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Mainz-Bingen",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 3942,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 3702,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2913598)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 16.71,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 236,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "BIN",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "RP",
+      "quelle": "Altbestand geo.sqlite (Kreis 07339)",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 89,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 89,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 94,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2913598)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 21
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "21 km südlich von Mainz (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 21
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Guntersblum"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "67583"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "67583"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "06249"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 30.0,
+        "AfD": 19.7,
+        "SPD": 18.0,
+        "GRÜNE": 13.5,
+        "Die Linke": 6.6
+       },
+       "wahlbeteiligung_prozent": 86.6,
+       "gueltige_zweitstimmen": 2528
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Dorothee Hientzsch",
+       "partei": "SPD"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-12",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "145-osthofen",
+   "rolle": "ziel",
+   "name": "Osthofen",
+   "einheit": "Stadt",
+   "wikidata": "Q655880",
+   "lat": 49.70778,
+   "lon": 8.32889,
+   "gemeindeschluessel": "07331055",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Alzey-Worms",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Alzey-Worms",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 9653,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 9650,
+      "quelle": "Altbestand staedte.json"
+     },
+     {
+      "wert": 8758,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2856278)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 18.63,
+      "quelle": "Wikidata P2046"
+     },
+     {
+      "wert": 18.62,
+      "quelle": "Altbestand staedte.json"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 518,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "AZ",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "DÜW",
+      "quelle": "Altbestand staedte.json",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 89,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 89,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 99,
+      "quelle": "Altbestand staedte.json",
+      "abweichend": true
+     },
+     {
+      "wert": 99,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2856278)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Mannheim",
+       "km": 26
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "26 km nördlich von Mannheim (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 31
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Osthofen",
+       "Haltepunkt Mühlheim (Rheinhessen)"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "67574"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "67574"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "06242"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 30.0,
+        "AfD": 26.3,
+        "SPD": 17.7,
+        "GRÜNE": 7.7
+       },
+       "wahlbeteiligung_prozent": 84.0,
+       "gueltige_zweitstimmen": 13279
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "gilt für die Verbandsgemeinde Wonnegau, nicht für die Stadt allein; die Briefwahl wird dort für alle Gemeinden gemeinsam ausgezählt"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Thomas Goller",
+       "partei": "SPD"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-12",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
      }
     ],
     "kueste": [

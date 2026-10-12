@@ -1,0 +1,37 @@
+ID: 140-weissenthurm/001
+ENTITÄT: stadtrat
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  groesse: 24 Ratsmitglieder
+  leitung: ehrenamtlicher Stadtbürgermeister
+  wahl_2024: 9. Juni 2024 (personalisierte Verhältniswahl)
+  sitzverteilung_2024_spd: 4
+  sitzverteilung_2024_cdu: 9
+  sitzverteilung_2024_fdp: 0
+  sitzverteilung_2024_fwg: 11
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 140-weissenthurm/002
+ENTITÄT: gemeinde_bildung
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  beschluss: Allerhöchster Beschluss vom 9. November 1865
+  zusammensetzung: Grundstücke aus Kettig, Kärlich, Andernach und Rheininsel
+  charakterisierung: legitimierte ein schon lange bestehendes Gemeinwesen
+GUELTIG_AB: 1865
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 140-weissenthurm/003
+ENTITÄT: pfarrei_geschichte
+QUELLE: https://de.wikipedia.org/wiki/Weißenthurm | Wikipedia
+EIGENSCHAFTEN:
+  urspruengliche_zugehoerigkeit: Pfarrei Kärlich
+  aenderung_1808: an Pfarrei Kettig angegliedert
+  erhebung_zur_pfarrei: 1872
+  grund: neue größere Kirche nach Plänen Lassaulx 1836–1839 gebaut
+GUELTIG_AB: 1872
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

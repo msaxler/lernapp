@@ -1,0 +1,793 @@
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Lambertus
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekturstil: neuromanisch
+  bauart: Ziegelbacksteinbau
+  architekten: Carl Rüdell, Richard Odenthal
+  grundform: sechseckiger Zentralbau mit Umgang
+  langhaus: zweijochig
+  apsis: halbrund
+  westturm: vorhanden
+  ausstattung: Fresken aus Erbauungszeit, Glasmalereien, Altartriptychon, Skulpturen aus Spätmittelalter
+  innenraum_umgestaltung: 1990er Jahre dem sechseckigen Grundriss angepasst
+  innenraum_ausstattung: sechseckiger Volksaltar auf hexagonaler Altarinsel
+  kunsthistorische_bedeutung: kunst- und kulturgeschichtlich interessantester historistischer Kirchenbau im Rheinland
+  genauigkeit: "originellste Schöpfung des Architektenteams"
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Peterskapelle
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekturstil: gotisch
+  zeitepoche: Hochmittelalter
+  ersterwahnung_jahr: 1237
+  ersterwahnung_kontext: urkundlich erwähnt
+  ausstattung: Fresken aus frühem 14. Jahrhundert
+  fresken_inhalt: Szenen aus dem Neuen Testament
+  freskenzustand: gut erhalten
+  superlativ: "einziger bekannter frühgotischer Kirchenbau der ehemaligen Rheinprovinz, der vollständig nach einem einheitlichen System ausgemalt wurde"
+  ortsteil_bezug: Peterspay
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Alte Kirche
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1670
+  ort: Niederspay
+  aktueller_zustand: Kulturzentrum, Privatbesitz
+  funktion_heute: Klassische Konzerte
+  nutzung_veranstalter: Franz-Krautkremer-Stiftung
+  bekanntheitsgrad: über Landesgrenzen hinaus bekannt
+  bedeutung: "als Kulturzentrum weit über die Landesgrenzen hinaus bekannt"
+  bauart: Pfarrkirche (neue Pfarrkirche nach Dreißigjährigem Krieg)
+GUELTIG_AB: 1670
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Michaeliskapelle
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundsteinlegung_jahr: 1953
+  ursprungliche_zweckbestimmung: Leichenhalle
+  aktuelle_nutzung: Gedenktafel für Kriegsopfer
+  ausstattung: Gedenktafel für Opfer des ersten und zweiten Weltkrieges
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Muttergotteskapelle
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: im Wald, idyllisch
+  zweckbestimmung: Marienwallfahrt
+  traumpfad: Spayer Blick ins Tal
+  charakter: Kleinod mit Ruhe und Harmonie
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Sebastianus-Kapelle
+ORTSTEIL_BEZUG: Traumpfadchen Spayer Blick ins Tal
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauart: Heiligenhäuschen
+  patron: Sebastianus (2. Schutzpatron von Spay)
+  errichtung_jahr: 1855
+  wiederaufbau_jahr: 1977
+  lage_nach_wiederaufbau: unmittelbare Nähe des ursprünglichen Standorts
+  traumpfad: Spayer Blick ins Tal
+GUELTIG_AB: 1855
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Spay
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwahnung_jahr: 816
+  ersterwahnung_kontext: in den Schutz Ludwig des Frommen genommen
+  gesamterwahnung_jahr: 821
+  gesamterwahnung_kontext: Ober- und Niederspay zusammen mit Brey in Schenkungsurkunde
+  lage: linkes Rheinufer, UNESCO-Welterbe-Mittelrheintal
+  lage_details: 13 km südlich Koblenz, 7 km nördlich Boppard, an der B9
+  einwohnerzahl: ca. 2000
+  einwohnerzahl_zeitraum: aktuelle Angabe
+  altitude_relativ: an der Rheinschleife
+  ortsteile_historisch: Oberspay, Niederspay, Peterspay (bis Dreißigjähriger Krieg)
+  gemeindereform_jahr: 1969
+  gemeindereform_art: Zusammenlegung Niederspay und Oberspay
+  verbandsgemeindeschaft_1969: Verbandsgemeinde Rhens
+  landkreisschaft_1969: Landkreis Mayen-Koblenz
+  verbandsgemeindeschaft_2014: Verbandsgemeinde Rhein-Mosel
+  jubilaeum: 1200 Jahre Spay im Jahr 2021
+GUELTIG_AB: 816
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Niederspay
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: links des Rheins, Flussbogen
+  lage_historisch: unterer Spay
+  ortsnamen_historisch: Kieselspay, Speien, Speion, Speiie, Kis(s)ilspeie
+  schreibweise_19_jh: Niederspey (ab ca. 1700), Niederspay (ab 1787)
+  tradition: Salmenfang, später Lotsen- und Schifferdorf
+  spitzname: Niederspayer Salmeknöppele
+  zusammenlegung_mit: Oberspay
+  zusammenlegung_jahr: 1969
+  preußische_zugehörigkeit_ab: 1816
+  preußische_verwaltungseinheit: Bürgermeisterei Boppard
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Oberspay
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: links des Rheins, Flussbogen
+  lage_historisch: oberer Spay oder Mittelspay
+  ortsnamen_historisch: Speion, Ouerspeion, Speie, Overspeie, Speie superiorem, Oberspeye
+  schreibweise_19_jh: Oberspey (ab ca. 1690), Oberspay (ab 1787)
+  tradition: Treidel- und Lotsentätigkeit, später Schifferdorf
+  spitzname: Oberspayer Boxelöfter
+  boxelöfter_herkunft: Hochkrempeln der Hose beim Treideln
+  boxelöfter_organisation: Karnevalsverein Oberspayer Boxelöfter
+  zusammenlegung_mit: Niederspay
+  zusammenlegung_jahr: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort_teil
+BEZEICHNUNG: Peterspay
+ORTSTEIL_BEZUG: historischer Ort
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: aufgegeben
+  aufgabe_grund: Bevölkerungsverluste im Dreißigjährigen Krieg
+  zeit_existenz: bis Dreißigjähriger Krieg
+  standort: Standort der Peterskapelle
+  ortsnamen_historisch: Peterspay, Ouerspeion, Speie, Overspeie
+GUELTIG_AB: Mittelalter
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: namensetymologie
+BEZEICHNUNG: Spay
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  theorie_1: keltisch, von Wurzel "spah" (spähen), bezug zu Lage an zum Spähen geeignetem Ort an Rheinschleife
+  theorie_1_kontext: traditionelle Auffassung
+  theorie_2: althochdeutsch "spia", verwandt mit altniederländisch "spoy", neuniederländisch "spui" (Wasserdurchlass/Schleuse)
+  theorie_2_kontext: neuere Auffassung
+  benannt_nach: örtliche Besonderheit (nicht nach Personenname wie bei anderen Orten)
+  alternative_herkunft: möglicherweise Wasserdurchlass bei Stromregulierungsmaßnahmen (Enge Thürchen)
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: SCHOTTEL GmbH
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/schottel | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1921
+  gruendung_datum: 21.11.1921
+  gruender: Josef Becker
+  gruender_lebensdaten: 1897–1973
+  gruendungsort: Scheune des Handwerksbetriebes in Spay
+  grau_prumaerer_betrieb: Reparatur und Konstruktion von Landmaschinen
+  name_herkunft: lokale Gemarkung am Rhein
+  unternehmensname_ab_1934: SCHOTTEL-Werft
+  firmensitz: Spay (Rheinkilometer 578,5)
+  taetigkeit_anfang: Bootsbau ab 1925
+  taetigkeit_heute: Herstellung rundum steuerbarer Schiffsantriebe und Manövriersysteme
+  bedeutung: weltweit führender Hersteller
+  taetigkeit_bereich: Flüsse, Binnengewässer, offene See
+  schiffe_mit_schottel: Schlepper, Fahrgastschiffe, Fähren, Eisbrecher, Offshore-Schiffe, Schwimmkräne, Forschungsschiffe
+  ruderpropeller_jahre: seit Mitte 1950er Jahre
+  ruderpropeller_beschreibung: bis dahin einzigartiger Antrieb, Ruderblatt überflüssig
+  ruderpropeller_funktion: 360 Grad um die eigene Achse drehbarer Propeller, vereint Steuerung und Antrieb
+  ruderpropeller_typen_erfolgreich: 490, 460
+  ruderpropeller_auslieferung: über 1000 Stück (erfolgreichste Azimutantriebe weltweit)
+  tochtergesellschaften_erstes: 1958 Niederlande
+  tochtergesellschaften_anzahl_heute: über ein Dutzend
+  servicestandorte_weltweit: über 100
+  produktionsstandort_zweiter: Dörth (eröffnet 2015)
+  produktionsanlage_dörth: modernste Ruderpropellerfabrik der Welt
+  auszeichnung_gruender: 2005 posthum Elmer A. Sperry Award
+  auszeichnung_grund: "bahnbrechendes Antriebs- und Lenksystem, echte Pionierarbeit für die Schifffahrt"
+  verfugbarkeit_heute: Hauptsitz in Spay
+  arbeitnehmer_regional: viele Spayer Bürger waren und sind beschäftigt
+  arbeitsplaetze_seit: rund 100 Jahre
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: produkt
+BEZEICHNUNG: SCHOTTEL-Schaluppe
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/schottel | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entwicklung_jahr: 1925
+  entwicklung_anlass: Auftrag eines Bäckers für Bootsüberfahrt
+  besonderheit: zum meistgebauten Beiboot der Welt
+  exemplare_gesamt: 16000 (bis 1973)
+  staende_construction: bis 1973
+GUELTIG_AB: 1925
+GUELTIG_BIS: 1973
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: schiff
+BEZEICHNUNG: Helene (Dieselmotorboot)
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/schottel | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1928
+  baudatum_erste: erstes Dieselmotorboot bei SCHOTTEL
+  laenge: 11,50 m
+  breite: 2,40 m
+  tiefgang: 0,40 m
+  leistung: 17 PS
+  benannt_nach: Ehefrau des Eigentümers Engelbert Hirsch (Fährmann)
+GUELTIG_AB: 1928
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Spay
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/bundesbahn | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroffnung_jahr: 1896
+  eroffnung_datum: 15. Dezember 1896
+  bahnstrecke: linksrheinische Eisenbahnstrecke
+  eroffnung_kontext: neuerrichtete Haltestelle
+  finanzierung_brey: 500 M
+  finanzierung_niederspay: 1500 M
+  finanzierung_baronin_v_maerken: 1000 M
+  lage: Oberspay (gegen Wünsche von Niederspay und Brey)
+  vorteil_oberspay_betriebssteuer: 5-700 M jährlich
+  nachteil_niederspay: keine Betriebssteuer, 1/4 Stunde Fußweg
+  schalterdienst_einstellung: 1965
+  bahnunterführung_fertigstellung: 1980
+  abriss_jahr: 1980
+GUELTIG_AB: 1896
+GUELTIG_BIS: 1980
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Eisenbahnstrecke (linksrheinisch)
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/bundesbahn | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1856–1859
+  elektrifizierung_beschluss: 1950
+  elektrifizierung_abschluss: 1958
+GUELTIG_AB: 1856
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: B9 Umgehungsstraße
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/umgehungsstrasse-b9 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustart: Anfang 1952
+  bauende: 18 Monate
+  freigabe_datum: 07.10.1953
+  laenge: 2,4 km
+  baukosten: 2,5 Mio DM
+  wirkung: Lärmreduktion für Anwohner und Schulunterricht
+  bautyp: Überführung, Bahnüberführung
+  ergaenzungsbau_wirtschaftsunterführung: 1976/77
+  kreuzungsfreie_anbindung_datum: 24.07.1980
+GUELTIG_AB: 1952
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: organisation
+BEZEICHNUNG: Freiwillige Feuerwehr Spay
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/feuerwehr-spay | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1933
+  gruendung_kontext: Gründungsurkunde vom 15.12.1933 (Feuerlöschgesetz)
+  vorgaenger_ueber_spay: Druckspritze von 1896 belegt frühere Wehr in Oberspay
+  brand_erstwahnung: 4.8.1914 (Haus Goebel)
+  bestaendigkeit_periode_1: 1914–1933 ca. 40 Mann
+  erste_alarmierung: Brandglocke auf alter Schule
+  erste_loeschausstattung: Ledereimer in jedem Haushalt
+  wehruebernahme_1933: Gemeindezwang durch Feuerlöschgesetz
+  staerke_soll: Halbzug 27 Mann oder Normalzug 35 Mann oder 2 Halbzüge 55 Mann
+  wehrführer_erste: Andreas Becker (bis 1936)
+  wehrführer_zweite: Wilhelm Schuth (1936–1950)
+  unterunterbrechung_krieg: praktisch unterbrochen 1939–1945 (Mitglieder eingezogen)
+  hilfseinsaetze_krieg: Bopparde Wehr übernahm Aufgaben mit Hilfe Spayer Feuerwehrleute
+  wehrführer_dritte: Josef Jakobi (1950–1956)
+  ausruestung_erste_nachkrieg: 1956 TS 8/8
+  ausruestung_zweite_nachkrieg: 1958 Tragkraftspritzenanhänger
+  wehrführer_vierte: Heinrich Alt (1956–1958)
+  wehrführer_fuenfte: Alfons Schweikert (1958–1960)
+  staerke_1960: 20 Mann
+  brandglocke_ausser_dienst: 1960
+  sirene_einführung: 1960
+  musikkapelle_gruendung: 1.5.1960
+  musikkapelle_ausbildung_leiter: Johann Staaden
+  loesch_fahrzeug_anschaffung: 24.9.1965
+  loesch_fahrzeug_einsegennung: 24.10.1965
+  geraetehaus_grundsteinlegung: 14.6.1966
+  geraetehaus_baubeginn: 3.6.1966
+  geraetehaus_baukosten: 145000 DM
+  geraetehaus_kostenfinanzierung_gemeinde: 2/3
+  geraetehaus_kostenfinanzierung_land: 1/3
+  geraetehaus_umbauter_raum: 1400 m³
+  geraetehaus_einweihung: 18.8.1967
+  atemluftatmer_anschaffung: 1968 (erste 3)
+  gegenwartsfachbestand: sehr gut
+  schlauchbestand: gut
+  feuerwehr_niederspay_existenz_frueh: vor 1920 (Ledereimer vorhanden)
+  feuerwehr_niederspay_organisiert_ab: 3.5.1970
+  feuerwehr_niederspay_kfz_einweihung: 3.5.1970
+  feuerwehr_niederspay_staerke_1970: 18 Mann
+  feuerwehr_niederspay_auflosung: Ende 1975 (Integration in Oberspay)
+GUELTIG_AB: 1933
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: organisation
+BEZEICHNUNG: Winzerverein Spay
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/weinbau | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_datum: 03.10.1891
+  gruender_oberspay: 40 Winzer
+  gruender_niederspay: 14 Winzer
+  bestaendigkeit: konnte nicht gehalten werden (Mehltau-Krise ab 1900)
+  aufloesungsgrund: Mehltau befiel Blätter und Trauben, Mißernten, keine Gegenmittel vorhanden
+GUELTIG_AB: 1891
+GUELTIG_BIS: vor 1910
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Josef Becker
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/schottel | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1897–1973
+  rolle: Gründer SCHOTTEL GmbH
+  berufe: Konstrukteur, Ingenieur
+  gruendung: 21.11.1921 in Scheune des eigenen Handwerksbetriebes
+  erfindungen: SCHOTTEL-Schaluppe (1925), Ruderpropeller (Mitte 1950er)
+  auszeichnung: 2005 posthum Elmer A. Sperry Award
+  auszeichnung_grund: bahnbrechendes Antriebs- und Lenksystem
+GUELTIG_AB: 1897
+GUELTIG_BIS: 1973
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Karlheinz Böhm
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/hollywood | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Schauspieler
+  film: Die Wunderwelt der Gebrüder Grimm
+  rolle_im_film: Hauptrolle
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: film
+BEZEICHNUNG: Die Wunderwelt der Gebrüder Grimm
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/hollywood | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  originaltitel: The Wonderful World of the Brothers Grimm
+  produktionsgesellschaft: MGM (Metro-Goldwyn-Mayer)
+  regie: Henry Levin (Rahmenhandlung)
+  dreharbeiten_jahr: 1961
+  dreharbeiten_vorbereitungen_beginn: Wochen vor 1961
+  laufzeit: ca. 124 Minuten
+  premiere: 07.08.1962 in New York
+  auszeichnung: Oscar-prämiert
+  inhalt: Episoden aus Leben der Gebrüder Grimm
+  episoden_anzahl: 3
+  episoden_titel: "Die tanzende Prinzessin", "Der Schuster und die Zwerge", "Der singende Knochen"
+  drehorte: Loreley, Rothenburg ob der Tauber, Dinkelsbühl, Schloss Weikersheim, Spay, Schloss Neuschwanstein
+  drehort_spay_rolle: als "Rheinburg" (Ortsbild)
+  kameraanzahl: 3
+  projektoren_anzahl: 3
+  projektionstechnik: stereophonisch
+  effekt_stereophonie: plastisch, Zuschauer Gefühl mittendrin
+  hauptdarsteller: Laurence Harvey, Karlheinz Böhm, Claire Bloom, Walter Slezak, Barbara Eden, Oskar Homolka, Arnold Stang, Martita Hunt, Betty Garde, Bryan Russell, Ian Wolfe, Tammy Marihugh
+  kinderchor: Regensburger Domspatzen (als Kinderchor von Rheinburg)
+  raddampfer: Oscar Huber
+  raddampfer_beschreibung: letzter Seitenrad-Schleppdampfer auf dem Rhein
+  raddampfer_heute: Museumsschiff im Hafen Duisburg
+  komparsen_spay: großer Anteil
+  musikgruppen_spay: Musikverein Niederwerth, Winninger Trachtengruppe
+GUELTIG_AB: 1961
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: weinbaugebiet
+BEZEICHNUNG: Bopparder Hamm
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/weinbau | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse_rebflaeche: ca. 70 ha
+  superlativ: "größtes zusammenhängendes Weinbaugebiet am Mittelrhein"
+  hang_richtung: nach Süden
+  bergshoehe: etwa 130 Meter
+  steigung_prozent: 40–70 Prozent
+  weinqualitaet: Qualitätswein mit nationalem und internationalem Ansehen
+  lage: große Rheinschleife bei Boppard
+  stromfluss_besonderheit: über 3 Kilometer fließt Rhein von West nach Ost quer zur eigentlichen Fließrichtung
+  schutzfunktion_hunsrueck: Westwinde abgeschirmt
+  sonnengunst: warme Steillagen mit feinerdereicheren Böden
+  terrain_vorteil: niedriger Horizontabschirmung, Beschattung kein Problem
+  einzellagen_qualitaet: beste Standorte im Hamm
+  werbung_flaechenanzahl: 17 hauptberufliche Winzer nach Flurbereinigung
+  bewirtschaftung_besonderheit: Ganzjahresjob
+  arbeitsschritte: Bodenpflege, Schneiden, Binden, Aufbinden, Düngen, Spritzen, Lese, Keltern, Kellerarbeiten
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: flurbereinigung
+BEZEICHNUNG: Bopparder Hamm
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/weinbau | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1968–1977
+  parzellen_vor_1966: 2000 Einzelparzellen
+  parzellengroesse: 3–5 ar durchschnittlich
+  eigentuemer_vor_1966: über 200
+  weinbergswege_neu: 15 km
+  stuetzmauerwerk_neu: 8 km
+  ziel: Existenzsicherung der Betriebe
+  erfolg_betriebe: 17 hauptberufliche Winzer erfolgreich arbeitsfähig
+GUELTIG_AB: 1968
+GUELTIG_BIS: 1977
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: traenkmauer
+BEZEICHNUNG: Trockenmauer Ellingsweg
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/weinbau | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datierung: 1719
+  datierungshinweis: Jahreszahl aus weißen Quarzitkieseln eingemauert
+  erhaltungszustand: guter Zustand
+  bewuchs_frueherer: Efeu (verbarg lange Inschrift)
+  reinigung_durch: Bürgergruppe "Grüner Daumen Spay"
+  alter_geschaetzt: über 300 Jahre
+  material: weiße Quarzitsteine (Kieselsteine), teilweise Lehm als Bindemittel
+  herkunft_datum_vermutung: Zusammenhang mit Landvermessung vom November 1718
+  landvermessung_zweck: Schaffung erster Grundbücher
+  vergleich_kohlenstein: Ähnliche Kieselstein-Verwendung mit Jahreszahl 1882 im Bopparder Hamm
+  kulturhistorische_bedeutung: "kleine Sensation", "kulturgeschichtliches Zeugnis der Jahrhunderte langen Bewirtschaftung"
+  bau_historisch: ab 12. Jahrhundert am Mittelrhein mit Trockenmauern begonnen
+  bau_ausbreitung: Ende 14. Jahrhundert große Teile der Hänge terrassiert
+  erneuerungstaetigkeit: Pächter erneuerten Mauern im Auftrag von geistlichen oder adligen Eigentümern meist im Winter
+GUELTIG_AB: 1719
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: weinanbau
+BEZEICHNUNG: Hochblüte um 1700 in Spay
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/weinbau | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  weinstoecke_gesamt: über 300000
+  weinstoecke_oberspay: fast 120000 von rd. 160000
+  weinstöcke_unterer_spay: rd. 160000
+  eigentuemer_dominanz: insbesondere Klöster
+  kloester_gross: Eberbach (Rheingau), Marienberg (Boppard)
+  wohlstand_indiz: Fachwerkhäuser um und nach 1700
+  wirtschaftliche_folge: "Bewohner der damals Mittelspey und Kisselspey genannten Ortschaften erlangten Wohlstand"
+GUELTIG_AB: 1700
+GUELTIG_BIS: 1800
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: weinbaukrise
+BEZEICHNUNG: Mehltau-Krise
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/weinbau | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auftritt_zeitraum: 1900–1910
+  krankheitserreger: Pilz Mehltau
+  befallene_pflanzenteile: Blätter und Trauben
+  folge: Mißernten nach der anderen
+  gegenmittel_damals: keine vorhanden
+  resultat_wirtschaft: Weinbau kam fast ganz zum Erliegen
+  auswirkung_winzerverein: Spayer Winzerverein (gegründet 1891) konnte nicht gehalten werden
+  oberflaeche_betroffenheit: ganzer Berghang vom Spayer Bahnhof bis Boppard (um 1900 mit Reben bepflanzt)
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1910
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: obstanbau
+BEZEICHNUNG: Kirschenanbau
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/kirschenparadies | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ernte_1920: 225 Tonnen
+  ernte_1920_erloese: halbe Million Mark
+  obstbaumzaehlung_1938_oberspay_ertragreich: 3785 Bäume
+  obstbaumzaehlung_1938_oberspay_jung: 1915 Bäume
+  ernte_haupt_1939: 275,5 Tonnen
+  erntezeit: Mai (wärmere Hanglagen, frühe Reife)
+  ernteverfahren: täglich von Morgengrauen bis Dunkelheit, auch an Sonn- und Feiertagen
+  vermarktung_zentral: Markthalle Rindsfüßer (Versteigerung)
+  vermarktung_umfang: einige hundert Zentner täglich in Hauptsaison
+  wirtschaftliche_bedeutung_dauer: fast 50 Jahre
+  krise_grund: Erfindung von Kühlmaschinen, italienische Kirschen im Kühlwaggon über Alpen transportiert
+  krisenfolge: langsames Ende des Obstanbaus
+  grund_konversion: Übergang von Weinbau zu Obstanbau bei schwierigen Bedingungen nach 1800
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturereignis
+BEZEICHNUNG: Hochwasser 1845
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/hochwasser-in-spay | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1845
+  ausmaß: fast das ganze Dorf unter Wasser
+  verkehr: Nachenverkehr in der Mittelstraße (Aus zweitem Stock in Nachen)
+  tierhandhabung: Vieh in andere Ortschaften gebracht
+  lagervorbereitung: Weinfässer festgekeilt
+GUELTIG_AB: 1845
+GUELTIG_BIS: 1845
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: naturereignis
+BEZEICHNUNG: Hochwasser 1882-1883
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/hochwasser-in-spay | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahre: 1882 und 1883
+  ausmaß: fast das ganze Dorf unter Wasser
+  verkehr: Nachenverkehr in der Mittelstraße (Aus zweitem Stock in Nachen)
+  tierhandhabung: Vieh in andere Ortschaften gebracht
+  lagervorbereitung: Weinfässer festgekeilt
+GUELTIG_AB: 1882
+GUELTIG_BIS: 1883
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Lindenbaum Dorfstraße
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_historisch: Versammlungsort für Gemeindemitteilungen
+  veranstalter: Bürgermeister und Gemeindediener ("Gemaan")
+  verkuendigung: Jeden Sonntag um 13 Uhr
+  alarmierung: Schulglocke läutete
+  zerstoerung: 01.06.1944
+  zerstoerung_grund: Unwetter
+GUELTIG_BIS: 1944
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Spay / Spay sur Sarthe
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land_partner: Frankreich
+  stadt_partner: Spay sur Sarthe
+  bestand_seit: 1983
+  status: Partnergemeinschaft
+GUELTIG_AB: 1983
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Hammerdorf 2010
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/hammerdorf-2010 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: September 2010
+  sendewochen: 13.–18.09.2010
+  veranstalter: SWR-Fernsehen
+  wettkampfformat: 12 Dörfer um Hammerdorf-Titel
+  heimatdorf: Spay
+  direkter_wettkampfgegner: Gemeinde Busenberg
+  wettbewerbsform: Dorfporträt, Wettkämpfe, 24-Stunden-Hammeraufgabe
+  live_fernsehen: Freitag 17.09.2010 ab 18.00 Uhr, Live-Musik
+  beteiligung: hunderte Bürgerinnen und Bürger (Handwerker, Schauspieler, Tänzer, Näher, etc.)
+  tv_sendungen: täglich in SWR-Landesschau
+  24_stunden_aufgabe: James Bond "GOLDHAMMER" als Live-Aufführung
+GUELTIG_AB: 2010
+GUELTIG_BIS: 2010
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Kindertagesstätte und Grundschule
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  renovierung_jahr: 2013
+  renovierung_aufwendig: ja
+  erweiterung_jahr: 2020
+GUELTIG_AB: 2013
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Lärmschutzwand Spay
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/bundesbahn | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 2003
+GUELTIG_AB: 2003
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Henry Levin
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/hollywood | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Regisseur (Rahmenhandlung)
+  film: Die Wunderwelt der Gebrüder Grimm
+  aussage_zu_rheinern: "Die rheinischen Menschen waren seit diesen Dreharbeiten für ihn geborene Schauspieler in Hinblick auf Natürlichkeit der Darstellung, die er in Hollywood nicht erreichen konnte"
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Roemer Kolossalstatue
+ORTSTEIL_BEZUG: Petersberg
+QUELLE: https://www.regionalgeschichte.net/mittelrhein/spay.html | Landesportal
+EIGENSCHAFTEN:
+  entdeckung_jahr: 1952
+  entdeckung_kontext: Beim Neubau der Umgehungsstraße B 9
+  entdeckung_ort: 200 Meter westlich des Bahnhofs, Abhang des Petersberges
+  entdeckung_methode: unsachgemäße Bergung durch Arbeiter
+  objekt_groesse_kopf: 50 cm hoch
+  objekt_darstellung: möglicherweise als Jupiter anzusprechender Götterstandbild
+  objekt_funde: zweiter etwas kleinerer Kopf (Jugendlicher)
+  zeitliche_zuordnung: römische Zeit
+  konserviert: teilweise zerstört bei Bergung
+GUELTIG_AB: Römische Zeit
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Römische Villa rustica
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entdeckung_jahr: 1957
+  entdeckung_ort: Niederspayer Gemarkung
+  fund_art: Grundmauern
+  zeitliche_zuordnung: erstes Drittel 4. Jahrhundert
+  hintergrund: römische Siedlungstätigkeit
+GUELTIG_AB: 4. Jahrhundert
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Roemische Statuen
+ORTSTEIL_BEZUG: Oberspay
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entdeckung_jahr: 1951
+  entdeckung_kontext: Beim Bau der B 9
+  entdeckung_ort: oberhalb des Strüwer-Heiligenhäuschens
+  fund_art: Teile römischer Statuen
+  zeitliche_zuordnung: gleiche Zeit wie Villa rustica (4. Jahrhundert)
+  objekt_groesse_kopf_kolossal: Kopf einer Kolossalstatue
+  objekt_darstellung_1: Kaiser Septimius Severus
+  objekt_darstellung_2: Knabenkopf
+  qualitaet: "zu den besten Stücken des Koblenzer Amtes für Vor- und Frühgeschichte zählend"
+  konservierung: im Koblenzer Amt für Vor- und Frühgeschichte
+GUELTIG_AB: 4. Jahrhundert
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Heimatlied "Spayer Wein"
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/weinbau | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  komponist: Josef Kron
+  liedtext_thema: Verbundenheit Spayers zum heimischen Wein
+  zeitliche_zuordnung: "vor Jahrzehnten" geschrieben
+  aktuelle_wirkung: "nichts von ihrer Strahlkraft verloren"
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: arbeitsgruppe
+BEZEICHNUNG: Grüner Daumen Spay
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/gruener-daumen-spay-gds | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  taetigkeit: Landschaftspflege, Trockenmauer-Freistellung und Sanierung, Obstgarten-Wiederbepflanzung
+  projekt_obstgarten: 2023
+  obstgarten_flaeche: ca. 800 m²
+  obstgarten_baeume_straeucher: rd. 20 Obstbäume und Sträucher
+  gelaende_vorbereitung: Entfernung von Büschen
+  fund_kleinterrassen: frühere Kleinterrassen wiederhergestellt
+  naturschutz_abstimmung: mit Naturschutzbehörden abgestimmt
+  sortenwahl: Wildobstsorten, alte oder seltene Arten, veredelte Beerensträucher
+  sortenwahl_kriterien: Standorteignung unter Klimaveränderung, Nahrungsquelle für Insekten, verwertbare Früchte
+  ausgleichsmassnahmen: 2 Lesesteinhaufen zu Reptilienunterschlupf, angrenzende Trockenmauer saniert
+  dokumentation: QR-Codes mit Verweis auf Webseite
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_haus
+BEZEICHNUNG: Fachwerk-Fischerhaus
+ORTSTEIL_BEZUG: Oberspay
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Zur Bleiche 9
+  baujahr: 1669
+  altersangabe: eines der ältesten Fachwerkhäuser in Spay
+  ausstattung_wappen: Fischerei-Wappen (drei gekreuzte Salmen in Holz geschnitzt) auf Giebel sichtbar
+  bedeutung: Zeugnis der Fischerei-Tradition
+GUELTIG_AB: 1669
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Schiffermast
+QUELLE: https://spay.welterbe-mittelrheintal.de/wohnen-und-leben/geschichte/rheinnamequellen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Ober- und Niederspay
+  funktion: Denkmal der Schifffahrts-Tradition
+  unterhalter: Schifferverein
+  zeugnis: von der Vergangenheit als Schiffahrtsort
+VERTRAUEN_EXTRAKTION: 0.75

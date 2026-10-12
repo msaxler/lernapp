@@ -1426,6 +1426,10 @@
    "43-darmstadt": [
     "Kreisgrenze: Darmstadt ist kreisfrei, Zwingenberg gehört zum Landkreis Bergstraße.",
     "Bundestagswahl 2025: In Darmstadt lagen die Grünen vorn, in Zwingenberg die CDU."
+   ],
+   "137-weiterstadt": [
+    "Kreisgrenze: Weiterstadt gehört zum Landkreis Darmstadt-Dieburg, Zwingenberg zum Landkreis Bergstraße.",
+    "Weiterstadt hat gut dreieinhalbmal so viele Einwohner wie Zwingenberg."
    ]
   },
   "42-seeheim-jugenheim": {
@@ -1448,6 +1452,10 @@
    "43-darmstadt": [
     "Kreisgrenze: Darmstadt ist kreisfrei, Seeheim-Jugenheim gehört zum Landkreis Darmstadt-Dieburg.",
     "Bundestagswahl 2025: In Darmstadt lagen die Grünen vorn, in Seeheim-Jugenheim die CDU."
+   ],
+   "137-weiterstadt": [
+    "Weiterstadt hat gut anderthalbmal so viele Einwohner wie Seeheim-Jugenheim.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Weiterstadt die SPD, in Seeheim-Jugenheim die Grünen."
    ]
   },
   "43-darmstadt": {
@@ -1462,12 +1470,23 @@
    "22-langen": [
     "Kreisgrenze: Langen gehört zum Landkreis Offenbach, Darmstadt ist kreisfrei.",
     "Bundestagswahl 2025: In Langen lag die CDU vorn, in Darmstadt die Grünen."
+   ],
+   "137-weiterstadt": [
+    "Kreisgrenze: Weiterstadt gehört zum Landkreis Darmstadt-Dieburg, Darmstadt ist kreisfrei.",
+    "Bundestagswahl 2025: In Weiterstadt lag die CDU vorn, in Darmstadt die Grünen."
+   ],
+   "138-gross-gerau": [
+    "Kreisgrenze: Groß-Gerau gehört zum Landkreis Groß-Gerau, Darmstadt ist kreisfrei.",
+    "Bundestagswahl 2025: In Groß-Gerau lag die CDU vorn, in Darmstadt die Grünen."
    ]
   },
   "22-langen": {
    "43-darmstadt": [
     "Kreisgrenze: Darmstadt ist kreisfrei, Langen gehört zum Landkreis Offenbach.",
     "Bundestagswahl 2025: In Darmstadt lagen die Grünen vorn, in Langen die CDU."
+   ],
+   "136-neu-isenburg": [
+    "Neu-Isenburg und Langen sind fast gleich groß: rund 38.000 und 39.000 Einwohner."
    ],
    "44-frankfurt": [
     "Kreisgrenze: Frankfurt am Main ist kreisfrei, Langen gehört zum Landkreis Offenbach.",
@@ -1476,18 +1495,53 @@
    "64-ruesselsheim": [
     "Kreisgrenze: Rüsselsheim gehört zum Landkreis Groß-Gerau, Langen zum Landkreis Offenbach.",
     "Rüsselsheim hat gut anderthalbmal so viele Einwohner wie Langen."
+   ],
+   "137-weiterstadt": [
+    "Kreisgrenze: Weiterstadt gehört zum Landkreis Darmstadt-Dieburg, Langen zum Landkreis Offenbach.",
+    "Langen hat anderthalbmal so viele Einwohner wie Weiterstadt."
+   ],
+   "138-gross-gerau": [
+    "Kreisgrenze: Groß-Gerau gehört zum Landkreis Groß-Gerau, Langen zum Landkreis Offenbach.",
+    "Langen hat anderthalbmal so viele Einwohner wie Groß-Gerau."
+   ]
+  },
+  "136-neu-isenburg": {
+   "22-langen": [
+    "Langen und Neu-Isenburg sind fast gleich groß: rund 39.000 und 38.000 Einwohner."
+   ],
+   "44-frankfurt": [
+    "Kreisgrenze: Frankfurt am Main ist kreisfrei, Neu-Isenburg gehört zum Landkreis Offenbach.",
+    "Frankfurt am Main hat zwanzigmal so viele Einwohner wie Neu-Isenburg."
+   ],
+   "137-weiterstadt": [
+    "Kreisgrenze: Weiterstadt gehört zum Landkreis Darmstadt-Dieburg, Neu-Isenburg zum Landkreis Offenbach.",
+    "Neu-Isenburg hat fast anderthalbmal so viele Einwohner wie Weiterstadt."
    ]
   },
   "44-frankfurt": {
    "22-langen": [
     "Kreisgrenze: Langen gehört zum Landkreis Offenbach, Frankfurt am Main ist kreisfrei.",
     "Frankfurt am Main hat neunzehnmal so viele Einwohner wie Langen."
+   ],
+   "136-neu-isenburg": [
+    "Kreisgrenze: Neu-Isenburg gehört zum Landkreis Offenbach, Frankfurt am Main ist kreisfrei.",
+    "Frankfurt am Main hat zwanzigmal so viele Einwohner wie Neu-Isenburg."
    ]
   },
   "64-ruesselsheim": {
    "22-langen": [
     "Kreisgrenze: Langen gehört zum Landkreis Offenbach, Rüsselsheim zum Landkreis Groß-Gerau.",
     "Rüsselsheim hat gut anderthalbmal so viele Einwohner wie Langen."
+   ],
+   "137-weiterstadt": [
+    "Kreisgrenze: Weiterstadt gehört zum Landkreis Darmstadt-Dieburg, Rüsselsheim zum Landkreis Groß-Gerau.",
+    "Rüsselsheim hat zweieinhalbmal so viele Einwohner wie Weiterstadt."
+   ],
+   "138-gross-gerau": [
+    "Rüsselsheim hat gut zweieinhalbmal so viele Einwohner wie Groß-Gerau."
+   ],
+   "139-bischofsheim": [
+    "Rüsselsheim hat fünfmal so viele Einwohner wie Bischofsheim."
    ],
    "45-mainz": [
     "Landesgrenze: Mainz liegt in Rheinland-Pfalz, Rüsselsheim in Hessen.",
@@ -1518,10 +1572,144 @@
     "Rüsselsheim hat neunmal so viele Einwohner wie Oppenheim."
    ]
   },
+  "137-weiterstadt": {
+   "21-zwingenberg": [
+    "Kreisgrenze: Zwingenberg gehört zum Landkreis Bergstraße, Weiterstadt zum Landkreis Darmstadt-Dieburg.",
+    "Weiterstadt hat gut dreieinhalbmal so viele Einwohner wie Zwingenberg."
+   ],
+   "42-seeheim-jugenheim": [
+    "Weiterstadt hat gut anderthalbmal so viele Einwohner wie Seeheim-Jugenheim.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Seeheim-Jugenheim die Grünen, in Weiterstadt die SPD."
+   ],
+   "43-darmstadt": [
+    "Kreisgrenze: Darmstadt ist kreisfrei, Weiterstadt gehört zum Landkreis Darmstadt-Dieburg.",
+    "Bundestagswahl 2025: In Darmstadt lagen die Grünen vorn, in Weiterstadt die CDU."
+   ],
+   "22-langen": [
+    "Kreisgrenze: Langen gehört zum Landkreis Offenbach, Weiterstadt zum Landkreis Darmstadt-Dieburg.",
+    "Langen hat anderthalbmal so viele Einwohner wie Weiterstadt."
+   ],
+   "136-neu-isenburg": [
+    "Kreisgrenze: Neu-Isenburg gehört zum Landkreis Offenbach, Weiterstadt zum Landkreis Darmstadt-Dieburg.",
+    "Neu-Isenburg hat fast anderthalbmal so viele Einwohner wie Weiterstadt."
+   ],
+   "64-ruesselsheim": [
+    "Kreisgrenze: Rüsselsheim gehört zum Landkreis Groß-Gerau, Weiterstadt zum Landkreis Darmstadt-Dieburg.",
+    "Rüsselsheim hat zweieinhalbmal so viele Einwohner wie Weiterstadt."
+   ],
+   "138-gross-gerau": [
+    "Kreisgrenze: Groß-Gerau gehört zum Landkreis Groß-Gerau, Weiterstadt zum Landkreis Darmstadt-Dieburg.",
+    "Groß-Gerau und Weiterstadt sind fast gleich groß: rund 25.000 und 27.000 Einwohner."
+   ],
+   "135-nackenheim": [
+    "Landesgrenze: Nackenheim liegt in Rheinland-Pfalz, Weiterstadt in Hessen.",
+    "Weiterstadt hat fünfmal so viele Einwohner wie Nackenheim."
+   ],
+   "61-nierstein": [
+    "Landesgrenze: Nierstein liegt in Rheinland-Pfalz, Weiterstadt in Hessen.",
+    "Weiterstadt hat fast dreieinhalbmal so viele Einwohner wie Nierstein."
+   ],
+   "62-oppenheim": [
+    "Landesgrenze: Oppenheim liegt in Rheinland-Pfalz, Weiterstadt in Hessen.",
+    "Weiterstadt hat gut dreieinhalbmal so viele Einwohner wie Oppenheim."
+   ]
+  },
+  "138-gross-gerau": {
+   "43-darmstadt": [
+    "Kreisgrenze: Darmstadt ist kreisfrei, Groß-Gerau gehört zum Landkreis Groß-Gerau.",
+    "Bundestagswahl 2025: In Darmstadt lagen die Grünen vorn, in Groß-Gerau die CDU."
+   ],
+   "22-langen": [
+    "Kreisgrenze: Langen gehört zum Landkreis Offenbach, Groß-Gerau zum Landkreis Groß-Gerau.",
+    "Langen hat anderthalbmal so viele Einwohner wie Groß-Gerau."
+   ],
+   "64-ruesselsheim": [
+    "Rüsselsheim hat gut zweieinhalbmal so viele Einwohner wie Groß-Gerau."
+   ],
+   "137-weiterstadt": [
+    "Kreisgrenze: Weiterstadt gehört zum Landkreis Darmstadt-Dieburg, Groß-Gerau zum Landkreis Groß-Gerau.",
+    "Weiterstadt und Groß-Gerau sind fast gleich groß: rund 27.000 und 25.000 Einwohner."
+   ],
+   "139-bischofsheim": [
+    "Groß-Gerau hat doppelt so viele Einwohner wie Bischofsheim."
+   ],
+   "45-mainz": [
+    "Landesgrenze: Mainz liegt in Rheinland-Pfalz, Groß-Gerau in Hessen.",
+    "Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Groß-Gerau die CDU."
+   ],
+   "134-bodenheim": [
+    "Landesgrenze: Bodenheim liegt in Rheinland-Pfalz, Groß-Gerau in Hessen.",
+    "Groß-Gerau hat fast dreieinhalbmal so viele Einwohner wie Bodenheim."
+   ],
+   "135-nackenheim": [
+    "Landesgrenze: Nackenheim liegt in Rheinland-Pfalz, Groß-Gerau in Hessen.",
+    "Groß-Gerau hat gut viereinhalbmal so viele Einwohner wie Nackenheim."
+   ],
+   "61-nierstein": [
+    "Landesgrenze: Nierstein liegt in Rheinland-Pfalz, Groß-Gerau in Hessen.",
+    "Groß-Gerau hat gut dreimal so viele Einwohner wie Nierstein."
+   ],
+   "62-oppenheim": [
+    "Landesgrenze: Oppenheim liegt in Rheinland-Pfalz, Groß-Gerau in Hessen.",
+    "Groß-Gerau hat dreieinhalbmal so viele Einwohner wie Oppenheim."
+   ],
+   "144-guntersblum": [
+    "Landesgrenze: Guntersblum liegt in Rheinland-Pfalz, Groß-Gerau in Hessen.",
+    "Groß-Gerau hat gut sechsmal so viele Einwohner wie Guntersblum."
+   ]
+  },
+  "139-bischofsheim": {
+   "64-ruesselsheim": [
+    "Rüsselsheim hat fünfmal so viele Einwohner wie Bischofsheim."
+   ],
+   "138-gross-gerau": [
+    "Groß-Gerau hat doppelt so viele Einwohner wie Bischofsheim."
+   ],
+   "45-mainz": [
+    "Landesgrenze: Mainz liegt in Rheinland-Pfalz, Bischofsheim in Hessen.",
+    "Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Bischofsheim die CDU."
+   ],
+   "46-wiesbaden": [
+    "Kreisgrenze: Wiesbaden ist kreisfrei, Bischofsheim gehört zum Landkreis Groß-Gerau.",
+    "Wiesbaden hat rund zwanzigmal so viele Einwohner wie Bischofsheim."
+   ],
+   "23-walluf": [
+    "Kreisgrenze: Walluf gehört zum Rheingau-Taunus-Kreis, Bischofsheim zum Landkreis Groß-Gerau.",
+    "Bischofsheim hat fast zweieinhalbmal so viele Einwohner wie Walluf."
+   ],
+   "04-eltville": [
+    "Kreisgrenze: Eltville am Rhein gehört zum Rheingau-Taunus-Kreis, Bischofsheim zum Landkreis Groß-Gerau.",
+    "Eltville am Rhein hat rund 3.900 Einwohner mehr als Bischofsheim."
+   ],
+   "134-bodenheim": [
+    "Landesgrenze: Bodenheim liegt in Rheinland-Pfalz, Bischofsheim in Hessen.",
+    "Bischofsheim hat gut anderthalbmal so viele Einwohner wie Bodenheim."
+   ],
+   "135-nackenheim": [
+    "Landesgrenze: Nackenheim liegt in Rheinland-Pfalz, Bischofsheim in Hessen.",
+    "Bischofsheim hat fast zweieinhalbmal so viele Einwohner wie Nackenheim."
+   ],
+   "61-nierstein": [
+    "Landesgrenze: Nierstein liegt in Rheinland-Pfalz, Bischofsheim in Hessen.",
+    "Bischofsheim hat gut anderthalbmal so viele Einwohner wie Nierstein."
+   ],
+   "62-oppenheim": [
+    "Landesgrenze: Oppenheim liegt in Rheinland-Pfalz, Bischofsheim in Hessen.",
+    "Bischofsheim hat fast doppelt so viele Einwohner wie Oppenheim."
+   ]
+  },
   "45-mainz": {
    "64-ruesselsheim": [
     "Landesgrenze: Rüsselsheim liegt in Hessen, Mainz in Rheinland-Pfalz.",
     "Bundestagswahl 2025: In Rüsselsheim lag die CDU vorn, in Mainz die Grünen."
+   ],
+   "138-gross-gerau": [
+    "Landesgrenze: Groß-Gerau liegt in Hessen, Mainz in Rheinland-Pfalz.",
+    "Bundestagswahl 2025: In Groß-Gerau lag die CDU vorn, in Mainz die Grünen."
+   ],
+   "139-bischofsheim": [
+    "Landesgrenze: Bischofsheim liegt in Hessen, Mainz in Rheinland-Pfalz.",
+    "Bundestagswahl 2025: In Bischofsheim lag die CDU vorn, in Mainz die Grünen."
    ],
    "46-wiesbaden": [
     "Landesgrenze: Wiesbaden liegt in Hessen, Mainz in Rheinland-Pfalz.",
@@ -1565,6 +1753,10 @@
     "Kreisgrenze: Rüsselsheim gehört zum Landkreis Groß-Gerau, Wiesbaden ist kreisfrei.",
     "Wiesbaden hat viereinhalbmal so viele Einwohner wie Rüsselsheim."
    ],
+   "139-bischofsheim": [
+    "Kreisgrenze: Bischofsheim gehört zum Landkreis Groß-Gerau, Wiesbaden ist kreisfrei.",
+    "Wiesbaden hat rund zwanzigmal so viele Einwohner wie Bischofsheim."
+   ],
    "45-mainz": [
     "Landesgrenze: Mainz liegt in Rheinland-Pfalz, Wiesbaden in Hessen.",
     "Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Wiesbaden die CDU."
@@ -1598,6 +1790,10 @@
    "64-ruesselsheim": [
     "Kreisgrenze: Rüsselsheim gehört zum Landkreis Groß-Gerau, Walluf zum Rheingau-Taunus-Kreis.",
     "Rüsselsheim hat zwölfmal so viele Einwohner wie Walluf."
+   ],
+   "139-bischofsheim": [
+    "Kreisgrenze: Bischofsheim gehört zum Landkreis Groß-Gerau, Walluf zum Rheingau-Taunus-Kreis.",
+    "Bischofsheim hat fast zweieinhalbmal so viele Einwohner wie Walluf."
    ],
    "45-mainz": [
     "Landesgrenze: Mainz liegt in Rheinland-Pfalz, Walluf in Hessen.",
@@ -1635,6 +1831,10 @@
    ]
   },
   "04-eltville": {
+   "139-bischofsheim": [
+    "Kreisgrenze: Bischofsheim gehört zum Landkreis Groß-Gerau, Eltville am Rhein zum Rheingau-Taunus-Kreis.",
+    "Eltville am Rhein hat rund 3.900 Einwohner mehr als Bischofsheim."
+   ],
    "45-mainz": [
     "Landesgrenze: Mainz liegt in Rheinland-Pfalz, Eltville am Rhein in Hessen.",
     "Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Eltville am Rhein die CDU."
@@ -1658,6 +1858,10 @@
    "05-ruedesheim": [
     "Eltville am Rhein hat gut anderthalbmal so viele Einwohner wie Rüdesheim am Rhein.",
     "Bundestagswahl 2025: Auf Platz zwei kam in Rüdesheim am Rhein die AfD, in Eltville am Rhein die Grünen."
+   ],
+   "143-trechtingshausen": [
+    "Landesgrenze: Trechtingshausen liegt in Rheinland-Pfalz, Eltville am Rhein in Hessen.",
+    "Eltville am Rhein hat siebzehnmal so viele Einwohner wie Trechtingshausen."
    ],
    "52-bingen": [
     "Landesgrenze: Bingen liegt in Rheinland-Pfalz, Eltville am Rhein in Hessen.",
@@ -1706,6 +1910,14 @@
     "Landesgrenze: Bacharach liegt in Rheinland-Pfalz, Oestrich-Winkel in Hessen.",
     "Oestrich-Winkel hat gut siebenmal so viele Einwohner wie Bacharach."
    ],
+   "142-niederheimbach": [
+    "Landesgrenze: Niederheimbach liegt in Rheinland-Pfalz, Oestrich-Winkel in Hessen.",
+    "Oestrich-Winkel hat vierzehnmal so viele Einwohner wie Niederheimbach."
+   ],
+   "143-trechtingshausen": [
+    "Landesgrenze: Trechtingshausen liegt in Rheinland-Pfalz, Oestrich-Winkel in Hessen.",
+    "Oestrich-Winkel hat zwölfmal so viele Einwohner wie Trechtingshausen."
+   ],
    "52-bingen": [
     "Landesgrenze: Bingen liegt in Rheinland-Pfalz, Oestrich-Winkel in Hessen.",
     "Bingen hat gut doppelt so viele Einwohner wie Oestrich-Winkel."
@@ -1740,6 +1952,14 @@
    "51-bacharach": [
     "Landesgrenze: Bacharach liegt in Rheinland-Pfalz, Geisenheim in Hessen.",
     "Geisenheim hat gut siebenmal so viele Einwohner wie Bacharach."
+   ],
+   "142-niederheimbach": [
+    "Landesgrenze: Niederheimbach liegt in Rheinland-Pfalz, Geisenheim in Hessen.",
+    "Geisenheim hat vierzehnmal so viele Einwohner wie Niederheimbach."
+   ],
+   "143-trechtingshausen": [
+    "Landesgrenze: Trechtingshausen liegt in Rheinland-Pfalz, Geisenheim in Hessen.",
+    "Geisenheim hat fast zwölfmal so viele Einwohner wie Trechtingshausen."
    ],
    "52-bingen": [
     "Landesgrenze: Bingen liegt in Rheinland-Pfalz, Geisenheim in Hessen.",
@@ -1778,6 +1998,14 @@
    "51-bacharach": [
     "Landesgrenze: Bacharach liegt in Rheinland-Pfalz, Rüdesheim am Rhein in Hessen.",
     "Rüdesheim am Rhein hat gut sechsmal so viele Einwohner wie Bacharach."
+   ],
+   "142-niederheimbach": [
+    "Landesgrenze: Niederheimbach liegt in Rheinland-Pfalz, Rüdesheim am Rhein in Hessen.",
+    "Rüdesheim am Rhein hat zwölfmal so viele Einwohner wie Niederheimbach."
+   ],
+   "143-trechtingshausen": [
+    "Landesgrenze: Trechtingshausen liegt in Rheinland-Pfalz, Rüdesheim am Rhein in Hessen.",
+    "Rüdesheim am Rhein hat zehnmal so viele Einwohner wie Trechtingshausen."
    ],
    "52-bingen": [
     "Landesgrenze: Bingen liegt in Rheinland-Pfalz, Rüdesheim am Rhein in Hessen.",
@@ -1823,6 +2051,14 @@
     "Landesgrenze: Bacharach liegt in Rheinland-Pfalz, Lorch in Hessen.",
     "Lorch hat zweieinhalbmal so viele Einwohner wie Bacharach."
    ],
+   "142-niederheimbach": [
+    "Landesgrenze: Niederheimbach liegt in Rheinland-Pfalz, Lorch in Hessen.",
+    "Lorch hat gut viereinhalbmal so viele Einwohner wie Niederheimbach."
+   ],
+   "143-trechtingshausen": [
+    "Landesgrenze: Trechtingshausen liegt in Rheinland-Pfalz, Lorch in Hessen.",
+    "Lorch hat viermal so viele Einwohner wie Trechtingshausen."
+   ],
    "52-bingen": [
     "Landesgrenze: Bingen liegt in Rheinland-Pfalz, Lorch in Hessen.",
     "Bingen hat fast siebenmal so viele Einwohner wie Lorch."
@@ -1866,6 +2102,14 @@
     "Kreisgrenze: Bacharach gehört zum Landkreis Mainz-Bingen, Kaub zum Rhein-Lahn-Kreis.",
     "Bacharach hat doppelt so viele Einwohner wie Kaub."
    ],
+   "142-niederheimbach": [
+    "Kreisgrenze: Niederheimbach gehört zum Landkreis Mainz-Bingen, Kaub zum Rhein-Lahn-Kreis.",
+    "Niederheimbach und Kaub sind fast gleich groß: rund 800 und 800 Einwohner."
+   ],
+   "143-trechtingshausen": [
+    "Kreisgrenze: Trechtingshausen gehört zum Landkreis Mainz-Bingen, Kaub zum Rhein-Lahn-Kreis.",
+    "Trechtingshausen hat rund 200 Einwohner mehr als Kaub."
+   ],
    "52-bingen": [
     "Kreisgrenze: Bingen gehört zum Landkreis Mainz-Bingen, Kaub zum Rhein-Lahn-Kreis.",
     "Bingen hat rund 35-mal so viele Einwohner wie Kaub."
@@ -1898,6 +2142,10 @@
     "Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, St. Goarshausen zum Rhein-Lahn-Kreis.",
     "Rhens hat fast zweieinhalbmal so viele Einwohner wie St. Goarshausen."
    ],
+   "141-spay": [
+    "Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, St. Goarshausen zum Rhein-Lahn-Kreis.",
+    "Spay hat anderthalbmal so viele Einwohner wie St. Goarshausen."
+   ],
    "48-boppard": [
     "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, St. Goarshausen zum Rhein-Lahn-Kreis.",
     "Boppard hat dreizehnmal so viele Einwohner wie St. Goarshausen."
@@ -1913,6 +2161,14 @@
    "51-bacharach": [
     "Kreisgrenze: Bacharach gehört zum Landkreis Mainz-Bingen, St. Goarshausen zum Rhein-Lahn-Kreis.",
     "Bacharach hat rund 300 Einwohner mehr als St. Goarshausen."
+   ],
+   "142-niederheimbach": [
+    "Kreisgrenze: Niederheimbach gehört zum Landkreis Mainz-Bingen, St. Goarshausen zum Rhein-Lahn-Kreis.",
+    "St. Goarshausen hat anderthalbmal so viele Einwohner wie Niederheimbach."
+   ],
+   "143-trechtingshausen": [
+    "Kreisgrenze: Trechtingshausen gehört zum Landkreis Mainz-Bingen, St. Goarshausen zum Rhein-Lahn-Kreis.",
+    "St. Goarshausen hat rund 300 Einwohner mehr als Trechtingshausen."
    ]
   },
   "26-kestert": {
@@ -1945,6 +2201,10 @@
    "59-rhens": [
     "Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Kestert zum Rhein-Lahn-Kreis.",
     "Rhens hat viereinhalbmal so viele Einwohner wie Kestert."
+   ],
+   "141-spay": [
+    "Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, Kestert zum Rhein-Lahn-Kreis.",
+    "Spay hat dreimal so viele Einwohner wie Kestert."
    ],
    "48-boppard": [
     "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Kestert zum Rhein-Lahn-Kreis.",
@@ -1994,6 +2254,10 @@
     "Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Kamp-Bornhofen zum Rhein-Lahn-Kreis.",
     "Rhens hat doppelt so viele Einwohner wie Kamp-Bornhofen."
    ],
+   "141-spay": [
+    "Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, Kamp-Bornhofen zum Rhein-Lahn-Kreis.",
+    "Spay hat rund 400 Einwohner mehr als Kamp-Bornhofen."
+   ],
    "48-boppard": [
     "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Kamp-Bornhofen zum Rhein-Lahn-Kreis.",
     "Boppard hat elfmal so viele Einwohner wie Kamp-Bornhofen."
@@ -2034,6 +2298,10 @@
    "59-rhens": [
     "Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Osterspai zum Rhein-Lahn-Kreis.",
     "Rhens hat fast zweieinhalbmal so viele Einwohner wie Osterspai."
+   ],
+   "141-spay": [
+    "Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, Osterspai zum Rhein-Lahn-Kreis.",
+    "Spay hat anderthalbmal so viele Einwohner wie Osterspai."
    ],
    "48-boppard": [
     "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Osterspai zum Rhein-Lahn-Kreis.",
@@ -2076,6 +2344,10 @@
     "Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Braubach zum Rhein-Lahn-Kreis.",
     "Rhens und Braubach sind fast gleich groß: rund 2.900 und 3.000 Einwohner."
    ],
+   "141-spay": [
+    "Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, Braubach zum Rhein-Lahn-Kreis.",
+    "Braubach hat gut anderthalbmal so viele Einwohner wie Spay."
+   ],
    "48-boppard": [
     "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Braubach zum Rhein-Lahn-Kreis.",
     "Boppard hat gut fünfmal so viele Einwohner wie Braubach."
@@ -2109,6 +2381,10 @@
     "Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Lahnstein zum Rhein-Lahn-Kreis.",
     "Lahnstein hat gut doppelt so viele Einwohner wie Vallendar."
    ],
+   "140-weissenthurm": [
+    "Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Lahnstein zum Rhein-Lahn-Kreis.",
+    "Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Lahnstein die CDU."
+   ],
    "53-koblenz": [
     "Kreisgrenze: Koblenz ist kreisfrei, Lahnstein gehört zum Rhein-Lahn-Kreis.",
     "Koblenz hat sechsmal so viele Einwohner wie Lahnstein."
@@ -2116,6 +2392,10 @@
    "59-rhens": [
     "Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Lahnstein zum Rhein-Lahn-Kreis.",
     "Lahnstein hat gut sechsmal so viele Einwohner wie Rhens."
+   ],
+   "141-spay": [
+    "Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, Lahnstein zum Rhein-Lahn-Kreis.",
+    "Lahnstein hat zehnmal so viele Einwohner wie Spay."
    ],
    "48-boppard": [
     "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Lahnstein zum Rhein-Lahn-Kreis.",
@@ -2147,12 +2427,19 @@
     "Andernach hat fast dreieinhalbmal so viele Einwohner wie Vallendar.",
     "Bundestagswahl 2025: Auf Platz zwei kam in Andernach die AfD, in Vallendar die SPD."
    ],
+   "140-weissenthurm": [
+    "Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Vallendar die CDU.",
+    "Weißenthurm und Vallendar sind fast gleich groß: rund 8.900 und 9.000 Einwohner."
+   ],
    "53-koblenz": [
     "Kreisgrenze: Koblenz ist kreisfrei, Vallendar gehört zum Landkreis Mayen-Koblenz.",
     "Koblenz hat gut zwölfmal so viele Einwohner wie Vallendar."
    ],
    "59-rhens": [
     "Vallendar hat dreimal so viele Einwohner wie Rhens."
+   ],
+   "141-spay": [
+    "Vallendar hat fast fünfmal so viele Einwohner wie Spay."
    ],
    "48-boppard": [
     "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Vallendar zum Landkreis Mayen-Koblenz.",
@@ -2164,9 +2451,35 @@
     "Andernach hat fast dreieinhalbmal so viele Einwohner wie Vallendar.",
     "Bundestagswahl 2025: Auf Platz zwei kam in Vallendar die SPD, in Andernach die AfD."
    ],
+   "140-weissenthurm": [
+    "Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Andernach die CDU.",
+    "Andernach hat fast dreieinhalbmal so viele Einwohner wie Weißenthurm."
+   ],
    "53-koblenz": [
     "Kreisgrenze: Koblenz ist kreisfrei, Andernach gehört zum Landkreis Mayen-Koblenz.",
     "Koblenz hat fast viermal so viele Einwohner wie Andernach."
+   ]
+  },
+  "140-weissenthurm": {
+   "29-lahnstein": [
+    "Kreisgrenze: Lahnstein gehört zum Rhein-Lahn-Kreis, Weißenthurm zum Landkreis Mayen-Koblenz.",
+    "Bundestagswahl 2025: In Lahnstein lag die CDU vorn, in Weißenthurm die AfD."
+   ],
+   "10-vallendar": [
+    "Bundestagswahl 2025: In Vallendar lag die CDU vorn, in Weißenthurm die AfD.",
+    "Vallendar und Weißenthurm sind fast gleich groß: rund 9.000 und 8.900 Einwohner."
+   ],
+   "47-andernach": [
+    "Bundestagswahl 2025: In Andernach lag die CDU vorn, in Weißenthurm die AfD.",
+    "Andernach hat fast dreieinhalbmal so viele Einwohner wie Weißenthurm."
+   ],
+   "53-koblenz": [
+    "Kreisgrenze: Koblenz ist kreisfrei, Weißenthurm gehört zum Landkreis Mayen-Koblenz.",
+    "Bundestagswahl 2025: In Koblenz lag die CDU vorn, in Weißenthurm die AfD."
+   ],
+   "59-rhens": [
+    "Bundestagswahl 2025: In Rhens lag die CDU vorn, in Weißenthurm die AfD.",
+    "Weißenthurm hat dreimal so viele Einwohner wie Rhens."
    ]
   },
   "53-koblenz": {
@@ -2198,9 +2511,17 @@
     "Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Koblenz ist kreisfrei.",
     "Koblenz hat fast viermal so viele Einwohner wie Andernach."
    ],
+   "140-weissenthurm": [
+    "Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Koblenz ist kreisfrei.",
+    "Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Koblenz die CDU."
+   ],
    "59-rhens": [
     "Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Koblenz ist kreisfrei.",
     "Koblenz hat rund 40-mal so viele Einwohner wie Rhens."
+   ],
+   "141-spay": [
+    "Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, Koblenz ist kreisfrei.",
+    "Koblenz hat rund 60-mal so viele Einwohner wie Spay."
    ],
    "48-boppard": [
     "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Koblenz ist kreisfrei.",
@@ -2235,9 +2556,16 @@
    "10-vallendar": [
     "Vallendar hat dreimal so viele Einwohner wie Rhens."
    ],
+   "140-weissenthurm": [
+    "Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Rhens die CDU.",
+    "Weißenthurm hat dreimal so viele Einwohner wie Rhens."
+   ],
    "53-koblenz": [
     "Kreisgrenze: Koblenz ist kreisfrei, Rhens gehört zum Landkreis Mayen-Koblenz.",
     "Koblenz hat rund 40-mal so viele Einwohner wie Rhens."
+   ],
+   "141-spay": [
+    "Rhens hat gut anderthalbmal so viele Einwohner wie Spay."
    ],
    "48-boppard": [
     "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Rhens zum Landkreis Mayen-Koblenz.",
@@ -2246,6 +2574,54 @@
    "49-st-goar": [
     "Kreisgrenze: St. Goar gehört zum Rhein-Hunsrück-Kreis, Rhens zum Landkreis Mayen-Koblenz.",
     "St. Goar und Rhens sind fast gleich groß: rund 2.900 und 2.900 Einwohner."
+   ]
+  },
+  "141-spay": {
+   "08-st-goarshausen": [
+    "Kreisgrenze: St. Goarshausen gehört zum Rhein-Lahn-Kreis, Spay zum Landkreis Mayen-Koblenz.",
+    "Spay hat anderthalbmal so viele Einwohner wie St. Goarshausen."
+   ],
+   "26-kestert": [
+    "Kreisgrenze: Kestert gehört zum Rhein-Lahn-Kreis, Spay zum Landkreis Mayen-Koblenz.",
+    "Spay hat dreimal so viele Einwohner wie Kestert."
+   ],
+   "27-kamp-bornhofen": [
+    "Kreisgrenze: Kamp-Bornhofen gehört zum Rhein-Lahn-Kreis, Spay zum Landkreis Mayen-Koblenz.",
+    "Spay hat rund 400 Einwohner mehr als Kamp-Bornhofen."
+   ],
+   "28-osterspai": [
+    "Kreisgrenze: Osterspai gehört zum Rhein-Lahn-Kreis, Spay zum Landkreis Mayen-Koblenz.",
+    "Spay hat anderthalbmal so viele Einwohner wie Osterspai."
+   ],
+   "09-braubach": [
+    "Kreisgrenze: Braubach gehört zum Rhein-Lahn-Kreis, Spay zum Landkreis Mayen-Koblenz.",
+    "Braubach hat gut anderthalbmal so viele Einwohner wie Spay."
+   ],
+   "29-lahnstein": [
+    "Kreisgrenze: Lahnstein gehört zum Rhein-Lahn-Kreis, Spay zum Landkreis Mayen-Koblenz.",
+    "Lahnstein hat zehnmal so viele Einwohner wie Spay."
+   ],
+   "10-vallendar": [
+    "Vallendar hat fast fünfmal so viele Einwohner wie Spay."
+   ],
+   "53-koblenz": [
+    "Kreisgrenze: Koblenz ist kreisfrei, Spay gehört zum Landkreis Mayen-Koblenz.",
+    "Koblenz hat rund 60-mal so viele Einwohner wie Spay."
+   ],
+   "59-rhens": [
+    "Rhens hat gut anderthalbmal so viele Einwohner wie Spay."
+   ],
+   "48-boppard": [
+    "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Spay zum Landkreis Mayen-Koblenz.",
+    "Boppard hat gut achtmal so viele Einwohner wie Spay."
+   ],
+   "49-st-goar": [
+    "Kreisgrenze: St. Goar gehört zum Rhein-Hunsrück-Kreis, Spay zum Landkreis Mayen-Koblenz.",
+    "St. Goar hat anderthalbmal so viele Einwohner wie Spay."
+   ],
+   "50-oberwesel": [
+    "Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, Spay zum Landkreis Mayen-Koblenz.",
+    "Oberwesel hat anderthalbmal so viele Einwohner wie Spay."
    ]
   },
   "48-boppard": {
@@ -2284,6 +2660,10 @@
    "59-rhens": [
     "Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Boppard zum Rhein-Hunsrück-Kreis.",
     "Boppard hat gut fünfmal so viele Einwohner wie Rhens."
+   ],
+   "141-spay": [
+    "Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, Boppard zum Rhein-Hunsrück-Kreis.",
+    "Boppard hat gut achtmal so viele Einwohner wie Spay."
    ],
    "49-st-goar": [
     "Boppard hat gut fünfmal so viele Einwohner wie St. Goar."
@@ -2330,6 +2710,10 @@
     "Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, St. Goar zum Rhein-Hunsrück-Kreis.",
     "Rhens und St. Goar sind fast gleich groß: rund 2.900 und 2.900 Einwohner."
    ],
+   "141-spay": [
+    "Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, St. Goar zum Rhein-Hunsrück-Kreis.",
+    "St. Goar hat anderthalbmal so viele Einwohner wie Spay."
+   ],
    "48-boppard": [
     "Boppard hat gut fünfmal so viele Einwohner wie St. Goar."
    ],
@@ -2340,6 +2724,14 @@
    "51-bacharach": [
     "Kreisgrenze: Bacharach gehört zum Landkreis Mainz-Bingen, St. Goar zum Rhein-Hunsrück-Kreis.",
     "St. Goar hat fast doppelt so viele Einwohner wie Bacharach."
+   ],
+   "142-niederheimbach": [
+    "Kreisgrenze: Niederheimbach gehört zum Landkreis Mainz-Bingen, St. Goar zum Rhein-Hunsrück-Kreis.",
+    "St. Goar hat dreieinhalbmal so viele Einwohner wie Niederheimbach."
+   ],
+   "143-trechtingshausen": [
+    "Kreisgrenze: Trechtingshausen gehört zum Landkreis Mainz-Bingen, St. Goar zum Rhein-Hunsrück-Kreis.",
+    "St. Goar hat dreimal so viele Einwohner wie Trechtingshausen."
    ]
   },
   "50-oberwesel": {
@@ -2371,6 +2763,10 @@
     "Kreisgrenze: Braubach gehört zum Rhein-Lahn-Kreis, Oberwesel zum Rhein-Hunsrück-Kreis.",
     "Braubach und Oberwesel sind fast gleich groß: rund 3.000 und 2.900 Einwohner."
    ],
+   "141-spay": [
+    "Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, Oberwesel zum Rhein-Hunsrück-Kreis.",
+    "Oberwesel hat anderthalbmal so viele Einwohner wie Spay."
+   ],
    "48-boppard": [
     "Boppard hat gut fünfmal so viele Einwohner wie Oberwesel.",
     "Bundestagswahl 2025: Auf Platz zwei kam in Boppard die SPD, in Oberwesel die AfD."
@@ -2382,6 +2778,14 @@
    "51-bacharach": [
     "Kreisgrenze: Bacharach gehört zum Landkreis Mainz-Bingen, Oberwesel zum Rhein-Hunsrück-Kreis.",
     "Oberwesel hat fast doppelt so viele Einwohner wie Bacharach."
+   ],
+   "142-niederheimbach": [
+    "Kreisgrenze: Niederheimbach gehört zum Landkreis Mainz-Bingen, Oberwesel zum Rhein-Hunsrück-Kreis.",
+    "Oberwesel hat dreieinhalbmal so viele Einwohner wie Niederheimbach."
+   ],
+   "143-trechtingshausen": [
+    "Kreisgrenze: Trechtingshausen gehört zum Landkreis Mainz-Bingen, Oberwesel zum Rhein-Hunsrück-Kreis.",
+    "Oberwesel hat dreimal so viele Einwohner wie Trechtingshausen."
    ],
    "52-bingen": [
     "Kreisgrenze: Bingen gehört zum Landkreis Mainz-Bingen, Oberwesel zum Rhein-Hunsrück-Kreis.",
@@ -2425,8 +2829,110 @@
     "Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, Bacharach zum Landkreis Mainz-Bingen.",
     "Oberwesel hat fast doppelt so viele Einwohner wie Bacharach."
    ],
+   "142-niederheimbach": [
+    "Bacharach hat fast doppelt so viele Einwohner wie Niederheimbach."
+   ],
+   "143-trechtingshausen": [
+    "Bacharach hat gut anderthalbmal so viele Einwohner wie Trechtingshausen."
+   ],
    "52-bingen": [
     "Bingen hat siebzehnmal so viele Einwohner wie Bacharach."
+   ]
+  },
+  "142-niederheimbach": {
+   "24-oestrich-winkel": [
+    "Landesgrenze: Oestrich-Winkel liegt in Hessen, Niederheimbach in Rheinland-Pfalz.",
+    "Oestrich-Winkel hat vierzehnmal so viele Einwohner wie Niederheimbach."
+   ],
+   "25-geisenheim": [
+    "Landesgrenze: Geisenheim liegt in Hessen, Niederheimbach in Rheinland-Pfalz.",
+    "Geisenheim hat vierzehnmal so viele Einwohner wie Niederheimbach."
+   ],
+   "05-ruedesheim": [
+    "Landesgrenze: Rüdesheim am Rhein liegt in Hessen, Niederheimbach in Rheinland-Pfalz.",
+    "Rüdesheim am Rhein hat zwölfmal so viele Einwohner wie Niederheimbach."
+   ],
+   "06-lorch": [
+    "Landesgrenze: Lorch liegt in Hessen, Niederheimbach in Rheinland-Pfalz.",
+    "Lorch hat gut viereinhalbmal so viele Einwohner wie Niederheimbach."
+   ],
+   "07-kaub": [
+    "Kreisgrenze: Kaub gehört zum Rhein-Lahn-Kreis, Niederheimbach zum Landkreis Mainz-Bingen.",
+    "Kaub und Niederheimbach sind fast gleich groß: rund 800 und 800 Einwohner."
+   ],
+   "08-st-goarshausen": [
+    "Kreisgrenze: St. Goarshausen gehört zum Rhein-Lahn-Kreis, Niederheimbach zum Landkreis Mainz-Bingen.",
+    "St. Goarshausen hat anderthalbmal so viele Einwohner wie Niederheimbach."
+   ],
+   "49-st-goar": [
+    "Kreisgrenze: St. Goar gehört zum Rhein-Hunsrück-Kreis, Niederheimbach zum Landkreis Mainz-Bingen.",
+    "St. Goar hat dreieinhalbmal so viele Einwohner wie Niederheimbach."
+   ],
+   "50-oberwesel": [
+    "Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, Niederheimbach zum Landkreis Mainz-Bingen.",
+    "Oberwesel hat dreieinhalbmal so viele Einwohner wie Niederheimbach."
+   ],
+   "51-bacharach": [
+    "Bacharach hat fast doppelt so viele Einwohner wie Niederheimbach."
+   ],
+   "143-trechtingshausen": [
+    "Trechtingshausen hat rund 200 Einwohner mehr als Niederheimbach."
+   ],
+   "52-bingen": [
+    "Bingen hat rund 30-mal so viele Einwohner wie Niederheimbach."
+   ],
+   "60-ingelheim": [
+    "Ingelheim hat rund 45-mal so viele Einwohner wie Niederheimbach."
+   ]
+  },
+  "143-trechtingshausen": {
+   "04-eltville": [
+    "Landesgrenze: Eltville am Rhein liegt in Hessen, Trechtingshausen in Rheinland-Pfalz.",
+    "Eltville am Rhein hat siebzehnmal so viele Einwohner wie Trechtingshausen."
+   ],
+   "24-oestrich-winkel": [
+    "Landesgrenze: Oestrich-Winkel liegt in Hessen, Trechtingshausen in Rheinland-Pfalz.",
+    "Oestrich-Winkel hat zwölfmal so viele Einwohner wie Trechtingshausen."
+   ],
+   "25-geisenheim": [
+    "Landesgrenze: Geisenheim liegt in Hessen, Trechtingshausen in Rheinland-Pfalz.",
+    "Geisenheim hat fast zwölfmal so viele Einwohner wie Trechtingshausen."
+   ],
+   "05-ruedesheim": [
+    "Landesgrenze: Rüdesheim am Rhein liegt in Hessen, Trechtingshausen in Rheinland-Pfalz.",
+    "Rüdesheim am Rhein hat zehnmal so viele Einwohner wie Trechtingshausen."
+   ],
+   "06-lorch": [
+    "Landesgrenze: Lorch liegt in Hessen, Trechtingshausen in Rheinland-Pfalz.",
+    "Lorch hat viermal so viele Einwohner wie Trechtingshausen."
+   ],
+   "07-kaub": [
+    "Kreisgrenze: Kaub gehört zum Rhein-Lahn-Kreis, Trechtingshausen zum Landkreis Mainz-Bingen.",
+    "Trechtingshausen hat rund 200 Einwohner mehr als Kaub."
+   ],
+   "08-st-goarshausen": [
+    "Kreisgrenze: St. Goarshausen gehört zum Rhein-Lahn-Kreis, Trechtingshausen zum Landkreis Mainz-Bingen.",
+    "St. Goarshausen hat rund 300 Einwohner mehr als Trechtingshausen."
+   ],
+   "49-st-goar": [
+    "Kreisgrenze: St. Goar gehört zum Rhein-Hunsrück-Kreis, Trechtingshausen zum Landkreis Mainz-Bingen.",
+    "St. Goar hat dreimal so viele Einwohner wie Trechtingshausen."
+   ],
+   "50-oberwesel": [
+    "Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, Trechtingshausen zum Landkreis Mainz-Bingen.",
+    "Oberwesel hat dreimal so viele Einwohner wie Trechtingshausen."
+   ],
+   "51-bacharach": [
+    "Bacharach hat gut anderthalbmal so viele Einwohner wie Trechtingshausen."
+   ],
+   "142-niederheimbach": [
+    "Trechtingshausen hat rund 200 Einwohner mehr als Niederheimbach."
+   ],
+   "52-bingen": [
+    "Bingen hat rund 25-mal so viele Einwohner wie Trechtingshausen."
+   ],
+   "60-ingelheim": [
+    "Ingelheim hat rund 35-mal so viele Einwohner wie Trechtingshausen."
    ]
   },
   "52-bingen": {
@@ -2460,6 +2966,12 @@
    ],
    "51-bacharach": [
     "Bingen hat siebzehnmal so viele Einwohner wie Bacharach."
+   ],
+   "142-niederheimbach": [
+    "Bingen hat rund 30-mal so viele Einwohner wie Niederheimbach."
+   ],
+   "143-trechtingshausen": [
+    "Bingen hat rund 25-mal so viele Einwohner wie Trechtingshausen."
    ],
    "60-ingelheim": [
     "Ingelheim hat rund 9.500 Einwohner mehr als Bingen."
@@ -2498,6 +3010,12 @@
     "Landesgrenze: Lorch liegt in Hessen, Ingelheim in Rheinland-Pfalz.",
     "Ingelheim hat neunmal so viele Einwohner wie Lorch."
    ],
+   "142-niederheimbach": [
+    "Ingelheim hat rund 45-mal so viele Einwohner wie Niederheimbach."
+   ],
+   "143-trechtingshausen": [
+    "Ingelheim hat rund 35-mal so viele Einwohner wie Trechtingshausen."
+   ],
    "52-bingen": [
     "Ingelheim hat rund 9.500 Einwohner mehr als Bingen."
    ],
@@ -2505,10 +3023,27 @@
     "Ingelheim hat viereinhalbmal so viele Einwohner wie Bodenheim."
    ]
   },
+  "54-alzey": {
+   "144-guntersblum": [
+    "Kreisgrenze: Guntersblum gehört zum Landkreis Mainz-Bingen, Alzey zum Landkreis Alzey-Worms.",
+    "Alzey hat fünfmal so viele Einwohner wie Guntersblum."
+   ],
+   "145-osthofen": [
+    "Alzey hat doppelt so viele Einwohner wie Osthofen."
+   ]
+  },
   "134-bodenheim": {
    "64-ruesselsheim": [
     "Landesgrenze: Rüsselsheim liegt in Hessen, Bodenheim in Rheinland-Pfalz.",
     "Rüsselsheim hat fast neunmal so viele Einwohner wie Bodenheim."
+   ],
+   "138-gross-gerau": [
+    "Landesgrenze: Groß-Gerau liegt in Hessen, Bodenheim in Rheinland-Pfalz.",
+    "Groß-Gerau hat fast dreieinhalbmal so viele Einwohner wie Bodenheim."
+   ],
+   "139-bischofsheim": [
+    "Landesgrenze: Bischofsheim liegt in Hessen, Bodenheim in Rheinland-Pfalz.",
+    "Bischofsheim hat gut anderthalbmal so viele Einwohner wie Bodenheim."
    ],
    "45-mainz": [
     "Kreisgrenze: Mainz ist kreisfrei, Bodenheim gehört zum Landkreis Mainz-Bingen.",
@@ -2537,12 +3072,28 @@
    ],
    "62-oppenheim": [
     "Oppenheim und Bodenheim sind fast gleich groß: rund 7.200 und 7.600 Einwohner."
+   ],
+   "144-guntersblum": [
+    "Bodenheim hat fast doppelt so viele Einwohner wie Guntersblum.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Guntersblum die AfD, in Bodenheim die SPD."
    ]
   },
   "135-nackenheim": {
    "64-ruesselsheim": [
     "Landesgrenze: Rüsselsheim liegt in Hessen, Nackenheim in Rheinland-Pfalz.",
     "Rüsselsheim hat zwölfmal so viele Einwohner wie Nackenheim."
+   ],
+   "137-weiterstadt": [
+    "Landesgrenze: Weiterstadt liegt in Hessen, Nackenheim in Rheinland-Pfalz.",
+    "Weiterstadt hat fünfmal so viele Einwohner wie Nackenheim."
+   ],
+   "138-gross-gerau": [
+    "Landesgrenze: Groß-Gerau liegt in Hessen, Nackenheim in Rheinland-Pfalz.",
+    "Groß-Gerau hat gut viereinhalbmal so viele Einwohner wie Nackenheim."
+   ],
+   "139-bischofsheim": [
+    "Landesgrenze: Bischofsheim liegt in Hessen, Nackenheim in Rheinland-Pfalz.",
+    "Bischofsheim hat fast zweieinhalbmal so viele Einwohner wie Nackenheim."
    ],
    "45-mainz": [
     "Kreisgrenze: Mainz ist kreisfrei, Nackenheim gehört zum Landkreis Mainz-Bingen.",
@@ -2568,12 +3119,28 @@
    ],
    "62-oppenheim": [
     "Oppenheim hat rund 1.800 Einwohner mehr als Nackenheim."
+   ],
+   "144-guntersblum": [
+    "Nackenheim hat rund 1.400 Einwohner mehr als Guntersblum.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Guntersblum die AfD, in Nackenheim die SPD."
    ]
   },
   "61-nierstein": {
    "64-ruesselsheim": [
     "Landesgrenze: Rüsselsheim liegt in Hessen, Nierstein in Rheinland-Pfalz.",
     "Rüsselsheim hat achtmal so viele Einwohner wie Nierstein."
+   ],
+   "137-weiterstadt": [
+    "Landesgrenze: Weiterstadt liegt in Hessen, Nierstein in Rheinland-Pfalz.",
+    "Weiterstadt hat fast dreieinhalbmal so viele Einwohner wie Nierstein."
+   ],
+   "138-gross-gerau": [
+    "Landesgrenze: Groß-Gerau liegt in Hessen, Nierstein in Rheinland-Pfalz.",
+    "Groß-Gerau hat gut dreimal so viele Einwohner wie Nierstein."
+   ],
+   "139-bischofsheim": [
+    "Landesgrenze: Bischofsheim liegt in Hessen, Nierstein in Rheinland-Pfalz.",
+    "Bischofsheim hat gut anderthalbmal so viele Einwohner wie Nierstein."
    ],
    "45-mainz": [
     "Kreisgrenze: Mainz ist kreisfrei, Nierstein gehört zum Landkreis Mainz-Bingen.",
@@ -2587,12 +3154,32 @@
    ],
    "62-oppenheim": [
     "Nierstein hat rund 900 Einwohner mehr als Oppenheim."
+   ],
+   "144-guntersblum": [
+    "Nierstein hat doppelt so viele Einwohner wie Guntersblum.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Guntersblum die AfD, in Nierstein die SPD."
+   ],
+   "145-osthofen": [
+    "Kreisgrenze: Osthofen gehört zum Landkreis Alzey-Worms, Nierstein zum Landkreis Mainz-Bingen.",
+    "Osthofen hat rund 1.600 Einwohner mehr als Nierstein."
    ]
   },
   "62-oppenheim": {
    "64-ruesselsheim": [
     "Landesgrenze: Rüsselsheim liegt in Hessen, Oppenheim in Rheinland-Pfalz.",
     "Rüsselsheim hat neunmal so viele Einwohner wie Oppenheim."
+   ],
+   "137-weiterstadt": [
+    "Landesgrenze: Weiterstadt liegt in Hessen, Oppenheim in Rheinland-Pfalz.",
+    "Weiterstadt hat gut dreieinhalbmal so viele Einwohner wie Oppenheim."
+   ],
+   "138-gross-gerau": [
+    "Landesgrenze: Groß-Gerau liegt in Hessen, Oppenheim in Rheinland-Pfalz.",
+    "Groß-Gerau hat dreieinhalbmal so viele Einwohner wie Oppenheim."
+   ],
+   "139-bischofsheim": [
+    "Landesgrenze: Bischofsheim liegt in Hessen, Oppenheim in Rheinland-Pfalz.",
+    "Bischofsheim hat fast doppelt so viele Einwohner wie Oppenheim."
    ],
    "45-mainz": [
     "Kreisgrenze: Mainz ist kreisfrei, Oppenheim gehört zum Landkreis Mainz-Bingen.",
@@ -2606,6 +3193,73 @@
    ],
    "61-nierstein": [
     "Nierstein hat rund 900 Einwohner mehr als Oppenheim."
+   ],
+   "144-guntersblum": [
+    "Oppenheim hat fast doppelt so viele Einwohner wie Guntersblum.",
+    "Guntersblum hat fast zweieinhalbmal so viel Fläche wie Oppenheim, aber weniger Einwohner."
+   ],
+   "145-osthofen": [
+    "Kreisgrenze: Osthofen gehört zum Landkreis Alzey-Worms, Oppenheim zum Landkreis Mainz-Bingen.",
+    "Osthofen hat rund 2.500 Einwohner mehr als Oppenheim."
+   ]
+  },
+  "144-guntersblum": {
+   "138-gross-gerau": [
+    "Landesgrenze: Groß-Gerau liegt in Hessen, Guntersblum in Rheinland-Pfalz.",
+    "Groß-Gerau hat gut sechsmal so viele Einwohner wie Guntersblum."
+   ],
+   "54-alzey": [
+    "Kreisgrenze: Alzey gehört zum Landkreis Alzey-Worms, Guntersblum zum Landkreis Mainz-Bingen.",
+    "Alzey hat fünfmal so viele Einwohner wie Guntersblum."
+   ],
+   "134-bodenheim": [
+    "Bodenheim hat fast doppelt so viele Einwohner wie Guntersblum.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Bodenheim die SPD, in Guntersblum die AfD."
+   ],
+   "135-nackenheim": [
+    "Nackenheim hat rund 1.400 Einwohner mehr als Guntersblum.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Nackenheim die SPD, in Guntersblum die AfD."
+   ],
+   "61-nierstein": [
+    "Nierstein hat doppelt so viele Einwohner wie Guntersblum.",
+    "Bundestagswahl 2025: Auf Platz zwei kam in Nierstein die SPD, in Guntersblum die AfD."
+   ],
+   "62-oppenheim": [
+    "Oppenheim hat fast doppelt so viele Einwohner wie Guntersblum.",
+    "Guntersblum hat fast zweieinhalbmal so viel Fläche wie Oppenheim, aber weniger Einwohner."
+   ],
+   "145-osthofen": [
+    "Kreisgrenze: Osthofen gehört zum Landkreis Alzey-Worms, Guntersblum zum Landkreis Mainz-Bingen.",
+    "Osthofen hat zweieinhalbmal so viele Einwohner wie Guntersblum."
+   ],
+   "55-worms": [
+    "Kreisgrenze: Worms ist kreisfrei, Guntersblum gehört zum Landkreis Mainz-Bingen.",
+    "Worms hat rund zwanzigmal so viele Einwohner wie Guntersblum."
+   ]
+  },
+  "145-osthofen": {
+   "54-alzey": [
+    "Alzey hat doppelt so viele Einwohner wie Osthofen."
+   ],
+   "61-nierstein": [
+    "Kreisgrenze: Nierstein gehört zum Landkreis Mainz-Bingen, Osthofen zum Landkreis Alzey-Worms.",
+    "Osthofen hat rund 1.600 Einwohner mehr als Nierstein."
+   ],
+   "62-oppenheim": [
+    "Kreisgrenze: Oppenheim gehört zum Landkreis Mainz-Bingen, Osthofen zum Landkreis Alzey-Worms.",
+    "Osthofen hat rund 2.500 Einwohner mehr als Oppenheim."
+   ],
+   "144-guntersblum": [
+    "Kreisgrenze: Guntersblum gehört zum Landkreis Mainz-Bingen, Osthofen zum Landkreis Alzey-Worms.",
+    "Osthofen hat zweieinhalbmal so viele Einwohner wie Guntersblum."
+   ],
+   "55-worms": [
+    "Kreisgrenze: Worms ist kreisfrei, Osthofen gehört zum Landkreis Alzey-Worms.",
+    "Worms hat neunmal so viele Einwohner wie Osthofen."
+   ],
+   "63-frankenthal": [
+    "Kreisgrenze: Frankenthal ist kreisfrei, Osthofen gehört zum Landkreis Alzey-Worms.",
+    "Frankenthal hat fünfmal so viele Einwohner wie Osthofen."
    ]
   },
   "55-worms": {
@@ -2616,6 +3270,14 @@
    "20-bensheim": [
     "Landesgrenze: Bensheim liegt in Hessen, Worms in Rheinland-Pfalz.",
     "Worms hat gut doppelt so viele Einwohner wie Bensheim."
+   ],
+   "144-guntersblum": [
+    "Kreisgrenze: Guntersblum gehört zum Landkreis Mainz-Bingen, Worms ist kreisfrei.",
+    "Worms hat rund zwanzigmal so viele Einwohner wie Guntersblum."
+   ],
+   "145-osthofen": [
+    "Kreisgrenze: Osthofen gehört zum Landkreis Alzey-Worms, Worms ist kreisfrei.",
+    "Worms hat neunmal so viele Einwohner wie Osthofen."
    ],
    "63-frankenthal": [
     "Worms hat fast doppelt so viele Einwohner wie Frankenthal."
@@ -2633,6 +3295,10 @@
    "41-ladenburg": [
     "Landesgrenze: Ladenburg liegt in Baden-Württemberg, Frankenthal in Rheinland-Pfalz.",
     "Frankenthal hat fast viermal so viele Einwohner wie Ladenburg."
+   ],
+   "145-osthofen": [
+    "Kreisgrenze: Osthofen gehört zum Landkreis Alzey-Worms, Frankenthal ist kreisfrei.",
+    "Frankenthal hat fünfmal so viele Einwohner wie Osthofen."
    ],
    "55-worms": [
     "Worms hat fast doppelt so viele Einwohner wie Frankenthal."
