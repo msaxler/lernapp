@@ -1,0 +1,686 @@
+ENTITÄT: ort
+BEZEICHNUNG: Engen
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwahnung: 11. Jahrhundert
+  besiedlung_vorgeschichte: vor 14.000 Jahren
+  settlement_altertum: vor 1.500-1.300 Jahren (Alamannen, Altdorf)
+  entwicklung_spätmittelalter: ansehnliche Stadt mit Marktplatz, Stadtkirche, Kloster
+  historische_ereignisse: Pest (17. Jahrhundert), Brände (1845, 1911)
+  altstadt_denkmalschutz: seit 1977
+  altstadt_sanierung: seit Mitte 1970er Jahre, Aufwand 90 Millionen Mark
+  altstadt_superlativ: eines der besterhaltenen mittelalterlichen Stadtensembles Süddeutschlands
+  mitgliedschaft: Arbeitsgemeinschaft "Die Alte Stadt"
+  rang_gemarkung: größte Gemarkungsfläche aller Städte im Landkreis Konstanz
+  einwohner: 11.739 (Stand 01.01.2026)
+  kernstadt_einwohner: 6.787
+  gesamtflaeche: 7.053 ha
+  hoechster_punkt: 867 m (Neuhewen)
+  tiefster_punkt: 470 m (Welschingen)
+  stadtgrenze_laenge: ca. 50 km
+  nord_sued_ausdehnung: ca. 13 km
+  west_ost_ausdehnung: ca. 12 km
+  verkehrsanbindung_autobahn: A81 (Stuttgart-Singen)
+  verkehrsanbindung_bahn: Offenburg-Konstanz und Singen-Stuttgart
+  nahverkehr: Seehas im ½-Stundentakt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: archaeologisches_artefakt
+BEZEICHNUNG: Venus von Engen
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: ca. 14.000 Jahre
+  material: Gagat
+  beschreibung: kleine abstrahierte Frauenstatuette
+  ausstellung: Städtisches Museum Engen + Galerie
+GUELTIG_AB: -12000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: hoehle
+BEZEICHNUNG: Petersfels-Höhle
+ORTSTEIL_BEZUG: Bittelbrunn
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nutzung: Rastplatz von Rentierjägern
+  zeitperiode: Paläolithikum (12.000 v.Chr.)
+  grabungen: durchgeführt, Auskunft über Lebensgewohnheiten
+  funde_ort: Städtisches Museum Engen + Galerie
+GUELTIG_AB: -12000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: hoehle
+BEZEICHNUNG: Gnirshöhle
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nutzung: Rastplatz von Rentierjägern
+  zeitperiode: Paläolithikum
+GUELTIG_AB: -12000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: hoehle
+BEZEICHNUNG: Hohle Fels
+ORTSTEIL_BEZUG: Bittelbrunn
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nutzung: paläolithische Station der Rentierjäger
+  zeitperiode: Paläolithikum (12.000 v.Chr.)
+  ort_grabungen: Brudertal
+GUELTIG_AB: -12000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: staette
+BEZEICHNUNG: Altstadt Engen
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/historische+altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: eines der besterhaltenen mittelalterlichen Stadtensembles Süddeutschlands
+  denkmalschutz_seit: 1977
+  sanierungsaufwand: 90 Millionen Mark
+  sanierungszeitraum: seit Mitte 1970er Jahre
+  sanierungsergebnis: vollständig saniert, Sieger aus mehreren Wettbewerben
+  mitgliedschaft: Arbeitsgemeinschaft "Die Alte Stadt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Stadtkirche Engen
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architektur: romanische Basilika
+  entstehung: Spätmittelalter
+  lage: Marktplatz
+  material_saeulen: Zimmerholzer Muschelkalk (Überlieferung)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster St. Wolfgang
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.engen.de/tourismus+_+kultur/kunst+_+kultur/staedtisches+museum+engen+_+galerie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: um 1300
+  gruendung_als: Niederlassung von Beginen
+  orden_ab_1725: Dominikanerinnenorden
+  namensgeber: Graf Wolfram von Nellenburg (Altar um 1335)
+  klosterkirche_erbaut: 1629
+  saeularisierung: 1802
+  folgenutzer_ab_1841: Schule und Badisches Bezirksamte
+  folgenutzer_1841: Gefängnis (Kirche in kleine Zellen aufgeteilt)
+  nutzung_ab_1988: Städtisches Museum Engen + Galerie
+GUELTIG_AB: 1300
+GUELTIG_BIS: 1802
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Städtisches Museum Engen + Galerie
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.engen.de/tourismus+_+kultur/kunst+_+kultur/staedtisches+museum+engen+_+galerie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Klostergasse 19, 78234 Engen
+  standort_gebaeude: ehemaliges Kloster St. Wolfgang
+  eroeffnung: 1988
+  ausrichtung: zeitgenössische Kunst, Klassische Moderne nach 1900
+  dauerausstellung: archäologische Fundstücke, Venus von Engen, Leben von Jägern & Sammlern vor 15.000 Jahren, Stadtgeschichte
+  sonderausstellungen: zur Klassischen Moderne nach 1900
+  telefon: 07733 501400
+  fax: 07733 502-299
+  website: www.museum-engen.de (seit 2022)
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Schoren
+ORTSTEIL_BEZUG: Neuhausen
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_funktion: trennt Neuhausen von Engen
+  flora: interessante und überaus reiche Flora
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burg Anselfingen
+ORTSTEIL_BEZUG: Anselfingen
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1270
+  urspruengliche_funktion: Raubritternest für Grafen von Lupfen
+  zerstoerung: 1639 (kaiserlich-bayrische Truppen)
+  heutige_reste: noch vorhanden
+GUELTIG_AB: 1270
+GUELTIG_BIS: 1639
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burg Neuhewen
+ORTSTEIL_BEZUG: Stetten
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  andere_bezeichnung: Stettener Schlössle
+  hoehe: 869 m (höchster Punkt der Gemarkung Stetten)
+  urkundliche_erwahnung: 1315
+  status_ab_1315: österreichisch, später fürstenbergisch
+  status_ab_1806: badisches Amt Engen
+GUELTIG_AB: 1315
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burg Zimmerholz
+ORTSTEIL_BEZUG: Zimmerholz
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwahnung: 1251
+  urspruengliche_funktion: Dienst für Herren von Hewen
+  beschreibung: stand in romantisch anmutendem Talkessel
+GUELTIG_AB: 1251
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Hohenhewen
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hausberge: von Anselfingen und Welschingen
+  lage_anselfingen: direkt am Fuße (Wanderparkplatz Almenhütte)
+  wanderweg: ausgeschilderter Wanderweg vorhanden
+  geologische_besonderheit: zwei Bergrutsche im vorigen Jahrhundert (Welschingen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Witthoh
+ORTSTEIL_BEZUG: Biesendorf
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: oberhalb von Biesendorf
+  skilift: im Winter in Betrieb
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: aussichtspunkt
+BEZEICHNUNG: Hegaublick
+ORTSTEIL_BEZUG: Stetten
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: an der L191 nahe Stetten
+  qualitaet: bekannter Aussichtspunkt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Anselfingen
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1.386 (Stand 01.01.2026)
+  rang: zweiter größter Stadtteil
+  lage: am Fuße des Hohenhewen
+  adelsgeschlecht: Ernest von Anselfingen (1100)
+  herrschaft_zugehoerigkeit: Herrschaft Hewen
+  eingemeindung: 01.01.1975
+  buergerhaus_errichtung: 2000
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bargen
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: ältere Ausbauzeit
+  urkundliche_ersterwahnung: 1342
+  herrschaft_zugehoerigkeit: Herrschaft Hewen
+  verwaltung_1806: badisches Amt Engen
+  verwaltung_1936: Landkreis Donaueschingen
+  verwaltung_1939: Landkreis Konstanz
+  gemarkung_zusatz: frühere Gemarkung Schopfloch
+  eingemeindung: 01.07.1971
+  einwohner: 264 (Stand 01.01.2026)
+  archaeologische_funde: römische Villa, Hügelgräber der Hallstattzeit
+  lage: Tal von Immendingen nach Engen
+GUELTIG_AB: 1342
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Biesendorf
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: späte Ausbauzeit (nach 750)
+  urkundliche_ersterwahnung: 1324
+  wirtschaft_18_jahrhundert: Erzgräberei (Bonerze)
+  herrschaft_zugehoerigkeit: Herrschaft Hewen (fürstenbergisch)
+  verwaltung_1806: badisches Amt Engen
+  verwaltung_1936: Kreis Donaueschingen
+  verwaltung_1939: Landkreis Konstanz
+  eingemeindung: 01.12.1971
+  einwohner: 191 (Stand 01.01.2026)
+  rang: kleinster und nördlichster Stadtteil
+  hoehenlage: ca. 800 m
+  besonderheit: einziger Ortsteil mit Ortschaftsrat
+  skilift: auf dem Witthoh im Winter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bittelbrunn
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwahnung: 1339
+  archaeologische_besonderheit: Hügelgräber der Hallsteinzeit, Petersfels, Hohle Fels (paläolithische Stationen 12.000 v.Chr.)
+  grabungen: durchgeführt mit Auskunft über Lebensgewohnheiten
+  eiszeitpark: auf der Gemarkung vorhanden
+  eingemeindung: 01.12.1971
+  einwohner: 293 (Stand 01.01.2026)
+  entfernung: ca. 3 km von Engen
+  lage: Hochplateau
+  aussicht: über Hegau und auf die Alpen
+  kulturelle_einrichtung: Petersfelshalle
+  unterkunft: Bittelbrunner Schlössle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neuhausen
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  mittelalter_bauwerke: Burg und alte Kirche aus fränkischer Zeit
+  verwaltung_1936: Landkreis Konstanz
+  eingemeindung: 01.01.1975
+  einwohner: 677 (Stand 01.01.2026)
+  naturdenkmal: Naturschutzgebiet Schoren
+  klima: mild auf Südhang des Schorens
+  wirtschaft_geschichte: Neuhauser Weinbau (ehemals guter Ruf)
+  bahnanbindung: Bahnhof Neuhausen-Welschingen, Nahverkehrszug Seehas im ½-Stundentakt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Stetten
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwahnung: 1236
+  burg_neuhewen: höchster Punkt 869 m (Stettener Schlössle)
+  burg_status_1315: aus Herrschaft Hewen herausgenommen, österreichisch
+  burg_status_spaeter: fürstenbergisch
+  verwaltung_1806: badisches Amt Engen
+  eingemeindung: 01.01.1975
+  einwohner: 252 (Stand 01.01.2026)
+  lage: nördlichster Teil des Hegaus, Ausläufer des Schwarzwaldes
+  wasserscheide: Rhein-Donau-Wasserscheide bei 800 m (europäisch)
+  verkehrsanbindung: Landstrasse nach Leipferdingen
+  wintersport: Loipe vorhanden
+  aussichtspunkt: Hegaublick an der L191
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Welschingen
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwahnung: 752
+  quelle_ersterwahnung: Schenkungsurkunde an Kloster St. Gallen
+  jubilaeum: 1250-jähriges Bestehen 2002
+  herrschaft_zugehoerigkeit: Herrschaft Hewen
+  verwaltung_1806: badisches Amt Engen
+  brand: 1808 (großer Brand)
+  eingemeindung: 01.01.1975
+  einwohner: 1.567 (Stand 01.01.2026)
+  rang: größter und südlichster Stadtteil
+  geographie: Tal mit Kies ausgefüllt (Gletscher), Hohenhewen ragt über Welschingen
+  bergrutsch: zwei im vorigen Jahrhundert
+  bahnanbindung: Bahnhof Neuhausen-Welschingen (gemeinsam mit Neuhausen)
+  innovationszentrum_seit: 2000 (für Existenzgründer)
+GUELTIG_AB: 752
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Zimmerholz
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwahnung: 965
+  quelle_ersterwahnung: Besitzungen des Grafen Kuno von Öhningen, bestätigt Kaiser Otto I., später 1166 Friedrich Barbarossa
+  burg_ersterwahnung: 1251
+  burg_funktion: Dienst für Herren von Hewen
+  steinabbau_material: Zimmerholzer Muschelkalk / Juranagelfluh (seit Jahrhunderten)
+  ueberlieferung_saeulen: romanische Säulen der Stadtkirche Engen sollen aus Zimmerholz stammen
+  versandweg: bis Hamburg und Amsterdam
+  abbau_produktiv_bis: 1920er Jahre
+  geologischer_wert: heute Fundgrube von Versteinerungen von Wassertieren der alten Molassemeere
+  verwaltung_1806: badisches Amt Engen
+  verwaltung_1936: Kreis Donaueschingen
+  verwaltung_1939: Landkreis Konstanz
+  eingemeindung: 01.01.1975
+  einwohner: 322 (Stand 01.01.2026)
+  vereinsleben: vier Vereine
+  veranstaltung: Dorfplatzfest jährlich
+  unterkunft: Zimmerholzer Berghütte oberhalb des Ortes
+GUELTIG_AB: 965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Ernest von Anselfingen
+ORTSTEIL_BEZUG: Anselfingen
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwahnung: 1100
+  benannt_nach: Dorf Anselfingen
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: graf
+BEZEICHNUNG: Wolfram von Nellenburg
+QUELLE: https://www.engen.de/tourismus+_+kultur/kunst+_+kultur/staedtisches+museum+engen+_+galerie | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Altar im Kloster St. Wolfgang aufstellen lassen
+  jahr: um 1335
+  namensgeber: Name St. Wolfgang des Klosters
+GUELTIG_AB: 1335
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Hewener Hof
+ORTSTEIL_BEZUG: Anselfingen
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwahnung: 1500
+  status: noch heute bestehend
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bürgerhaus Anselfingen
+ORTSTEIL_BEZUG: Anselfingen
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 2000
+  entstehung_grund: Engagement der Anselfinger Vereine und Bürger
+  inhalte: Veranstaltungssaal, Vereinsräume, Kindergarten Anselfingen
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gesteinformation
+BEZEICHNUNG: Zimmerholzer Muschelkalk
+ORTSTEIL_BEZUG: Zimmerholz
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  andere_bezeichnung: Juranagelfluh
+  abbau_geschichte: schon seit Jahrhunderten ausgebeutet
+  verwendung: Bausteine für alte Bauwerke im Hegau und Bodenseegebiet
+  verwendung_stadtkirche: romanische Säulen der Stadtkirche Engen (nach Überlieferung)
+  versandweg: bis Hamburg und Amsterdam
+  versandweg_zeitraum: bis in die 1920er Jahre
+  geologischer_wert: Fundgruben von Versteinerungen von Wassertieren der alten Molassemeere
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Pest Engen
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitperiode: 17. Jahrhundert
+  ereignis: Pest wütete in Engen
+GUELTIG_AB: 1600
+GUELTIG_BIS: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Brand Altstadt
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1845
+  auswirkung: zerstörte große Teile der Altstadt
+GUELTIG_BIS: 1845
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Brand Altstadt
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1911
+  auswirkung: zerstörte große Teile der Altstadt
+GUELTIG_BIS: 1911
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Brand Welschingen
+ORTSTEIL_BEZUG: Welschingen
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1808
+  auswirkung: großer Brand, großer Teil des Dorfes brannte ab
+GUELTIG_BIS: 1808
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahn A81
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/zahlen+_+daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strecke: Stuttgart-Singen
+  anschluss: Engen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bahnverbindung
+BEZEICHNUNG: Bahnverbindung Engen
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/zahlen+_+daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindungen: Offenburg-Konstanz und Singen-Stuttgart
+  bahnhof_hoehe: 520 m.ü.N.N.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: nahverkehrszug
+BEZEICHNUNG: Seehas
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/zahlen+_+daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  taktung: ½-Stundentakt
+  verbindung: Engen - Singen-Konstanz und Schweiz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Engen
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/zahlen+_+daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 520 m.ü.N.N.
+  bahnverbindungen: Offenburg-Konstanz und Singen-Stuttgart
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Neuhausen-Welschingen
+ORTSTEIL_BEZUG: Neuhausen, Welschingen
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verkehrsmittel: Nahverkehrszug Seehas im ½-Stundentakt
+  lage_neuhausen: südwestlich von Neuhausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: innovationszentrum
+BEZEICHNUNG: Innovationszentrum für Existenzgründer
+ORTSTEIL_BEZUG: Welschingen
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/zahlen+_+daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 2000
+  function: kostengünstige Starthilfe für Existenzgründer
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gewerbefläche
+BEZEICHNUNG: Grub / A81
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/zahlen+_+daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verfuegbare_flaeche: ca. 16.000 m²
+  verkehrsanbindung: direkt an der A81
+  grundstuecksgroessen: ab 4.000 m²
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gewerbefläche
+BEZEICHNUNG: Grub
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/zahlen+_+daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verfuegbare_flaeche: ca. 8.000 m²
+  verkehrsanbindung: direkt an der A81
+  grundstuecksgroessen: 2.300 m² bis 3.400 m²
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gewerbefläche
+BEZEICHNUNG: Welschingen
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/zahlen+_+daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundstuecksgroessen: ab 1.000 m²
+  verkehrsanbindung: Gleisanschluss, 5 Minuten von der A81
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: archaeologisches_artefakt
+BEZEICHNUNG: Hügelgräber
+ORTSTEIL_BEZUG: Bittelbrunn, Bargen, Zimmerholz
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitperiode: Hallstattzeit / Hallsteinzeit
+  lage_bittelbrunn: in großen Waldgebieten nördlich von Bittelbrunn
+  lage_bargen: nahe Bargen
+  lage_zimmerholz: in großen Waldgebieten nördlich von Zimmerholz
+GUELTIG_AB: -800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: archaeologisches_artefakt
+BEZEICHNUNG: römische Villa
+ORTSTEIL_BEZUG: Bargen
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: in der Nähe Bargens
+  zeitperiode: Antike
+GUELTIG_AB: 1
+GUELTIG_BIS: 500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: wasserscheide
+BEZEICHNUNG: Rhein-Donau-Wasserscheide
+ORTSTEIL_BEZUG: Stetten
+QUELLE: https://www.engen.de/leben+in+engen/unsere+stadt/stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 800 m
+  verlauf: Kammhöhe in der Nähe von Stetten
+  bedeutung: europäische Wasserscheide und Landschafts-/Klimagrenze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

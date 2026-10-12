@@ -1,0 +1,929 @@
+ID: 117-singen/001
+ENTITÄT: ort
+BEZEICHNUNG: Singen
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_erwaenung: Sisinga, Königshof
+  erste_erwaehnungsquelle: Kloster St. Gallen
+  wappen_element: St. Galler Bär
+  entwicklung_charakterisierung: "vom Dorf zur Stadt in amerikanischem Tempo"
+  stadtrechte_verleihungsdatum: 2. September 1899
+  stadtrechte_verleihender: Großherzog Friedrich I. (Baden)
+GUELTIG_AB: 787
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 117-singen/002
+ENTITÄT: ort
+BEZEICHNUNG: Singen
+QUELLE: https://www.singen.de/informieren/unsere_stadt/singen+in+zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 48089
+  durchschnittsalter_jahre: 43.2
+  durchschnittsalter_vergleich_bw: jünger als Baden-Württemberg-Durchschnitt (44,2 Jahre)
+  stadtflaeche_km2: 61.8
+  ortsteile_anzahl: 6
+  ortsteile_namen: Beuren a.d.A., Bohlingen, Friedingen, Hausen a.d.A., Schlatt u.Kr., Überlingen a.R.
+  sozialversicherungspflichtig_beschaeftigte_am_ort: 26902
+  wohnungen: 23780
+  wohngebaeude: 7883
+  durchschnittliche_wohnflaeche_pro_kopf_m2: 44
+  einfamilienhauser_anteil_prozent: 55
+  bevölkerung_zuwachs_2025: 478
+  landwirtschaftliche_nutzung_prozent: 40
+  waldflaechen_prozent: 27
+  siedlung_verkehr_prozent: 30
+  produzierendes_gewerbe_prozent: 34
+  handel_verkehr_gastgewerbe_prozent: 23
+  sonstige_dienstleistungen_prozent: 43
+  schueler_allgemeinbildende_schulen: 5663
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 117-singen/003
+ENTITÄT: institution_religioes
+BEZEICHNUNG: Kloster Reichenau
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsherrschaft_singen: seit 10. Jahrhundert
+  aktion_1432: übertrug Dorf als Lehen an Kloster St. Gallen
+GUELTIG_AB: 1000
+GUELTIG_BIS: 1432
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 117-singen/004
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Grafen von Enzenberg
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunftsregion: Tirol
+  rolle: erhielten Singen als Pfand- und Kunkellehen
+GUELTIG_AB: 1774
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/005
+ENTITÄT: unternehmen
+BEZEICHNUNG: Baumwollspinnerei Trötschler
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ansiedlung: 1846
+  zusatzfunktion_ab_1895: Stromversorgung der Gemeinde per Konzessionsvertrag
+GUELTIG_AB: 1846
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 117-singen/006
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Eisenbahnnetz Singen
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strecke_1: Waldshut - Konstanz
+  strecke_2: Schwarzwaldbahn Offenburg - Konstanz
+  strecke_3: Winterthur - Etzwilen
+  charakterisierung: grenzübergreifendes Eisenbahnnetz
+GUELTIG_AB: 1863
+GUELTIG_BIS: 1875
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 117-singen/007
+ENTITÄT: unternehmen
+BEZEICHNUNG: Maggi GmbH
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruender: Julius Maggi (Schweizer Unternehmer)
+  erste_ansiedlung_form: Versandstelle
+  produkt: Suppenwürze
+  rechtsform_selbstaendig_ab: 1897
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 117-singen/008
+ENTITÄT: unternehmen
+BEZEICHNUNG: Georg Fischer Werke Schaffhausen (Werk Singen)
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  produkt: Tempergussfittings
+  ansiedlung_ort: Singen
+GUELTIG_AB: 1895
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 117-singen/009
+ENTITÄT: gebaeude
+BEZEICHNUNG: Festspielhalle
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekt: Wilhelm Albert Bauder (Stuttgart)
+  grund_abriss: Baufälligkeit
+GUELTIG_AB: 1906
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/010
+ENTITÄT: unternehmen
+BEZEICHNUNG: Dr. Lauber, Neher Co. GmbH Singen
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Aluminium Walzwerke zur Herstellung von Alufolie und Vorwalzblechen
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 117-singen/011
+ENTITÄT: gebaeude
+BEZEICHNUNG: Krankenhaus
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihungsdatum: 1. Oktober 1928
+  architekt: Hermann Billing (Architekturprofessor)
+  architektonischer_bezug: Rondell Augusta
+GUELTIG_AB: 1928
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 117-singen/012
+ENTITÄT: ereignis_politisch
+BEZEICHNUNG: Machtübernahme NSDAP Singen
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Gleichschaltung der Vereine, Auflösung der Gewerkschaften, Verbot der Badischen Volkspartei, Deutschnationalen Volkspartei, des Zentrums, der SPD und der KPD
+GUELTIG_AB: 1933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 117-singen/013
+ENTITÄT: ereignis_krieg
+BEZEICHNUNG: Zwangsarbeit Singen Zweiter Weltkrieg
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft_arbeitskraefte: Osteuropa
+  einsatzorte: Singener Großbetriebe und Landwirtschaft
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/014
+ENTITÄT: ereignis_krieg
+BEZEICHNUNG: Bombenangriffe Singen
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zerstoerte_bereiche: Gegend um Bahnhof und Gebäude entlang der Hauptstraße
+  grund_relative_verschonung: ansässige Schweizer Unternehmen
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/015
+ENTITÄT: kapelle
+BEZEICHNUNG: Theresienkapelle
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Kriegsgefangenenlager an der Fittingstraße
+  weihe: 1947
+  status_ab_2016: Gedenkstätte des Landes Baden-Württemberg
+GUELTIG_AB: 1947
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 117-singen/016
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus Singen
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Hohgarten
+  grund_neubau: Abriss altes Rathaus und Teile des Alten Dorfs
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 117-singen/017
+ENTITÄT: ereignis_verwaltung
+BEZEICHNUNG: Eingemeindung Hohentwiel zu Singen
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Hohentwiel wird nach Singen eingemeindet
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 117-singen/018
+ENTITÄT: ereignis_verwaltung
+BEZEICHNUNG: Eingemeindungen Nachbargemeinden zu Singen
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeinden: Überlingen a.R., Friedingen, Hausen a.d.A., Schlatt u.Kr., Beuren a.d.A., Bohlingen
+GUELTIG_AB: 1971
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 117-singen/019
+ENTITÄT: ereignis_sicherheit
+BEZEICHNUNG: Verhaftung RAF-Terroristen Singen
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 3. Mai 1977
+  personen: Verena Becker, Günter Sonnenberg
+  anlass: Personenkontrolle und anschließender Schusswechsel
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 117-singen/020
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahn A81
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strecke: Stuttgart - Zürich über Singen
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 117-singen/021
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Landesgartenschau Singen
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 2000
+  motto: Aus der Stadt - über den Fluss - auf den Berg
+  gelände: vom Rathaus über das Alte Dorf und die Offwiese bis zur Schanz
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 117-singen/022
+ENTITÄT: publikation
+BEZEICHNUNG: SINGEN Jahrbuch
+QUELLE: https://www.singen.de/informieren/unsere_stadt/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herausgeber: Stadt Singen
+  erscheinungsweise: jährlich
+  inhalt: Stadtchronik
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 117-singen/023
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bohlingen
+ORTSTEIL_BEZUG: Bohlingen
+QUELLE: https://www.singen.de/informieren/ortsteile/bohlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besiedlung_art: alemannische Siedlung
+  entstehung_jahr: 500
+  entstehung_genauigkeit: ca.
+  namensherkunft_abgeleitet_von: Pollo
+  beweise_existenz: ausgegrabener Friedhof und urkundliche Erwähnung
+  erste_urkundliche_erwaenung_jahr: 773
+  erste_urkundliche_erwaenung_quelle: St. Galler Schenkungsurkunde
+  eingemeindung_jahr: 1975
+  eingemeindung_zu: Singen am Hohentwiel
+GUELTIG_AB: 500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/024
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Pankratius
+ORTSTEIL_BEZUG: Bohlingen
+QUELLE: https://www.singen.de/informieren/ortsteile/bohlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: acht große Dreiecksfenster
+  fenster_kuenstler: Robert Seyfried (ortsansässig)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 117-singen/025
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Martin
+ORTSTEIL_BEZUG: Bohlingen
+QUELLE: https://www.singen.de/informieren/ortsteile/bohlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zweck: Friedhofskapelle
+  architekturstil: spätgotisch, barockisiert
+  zeitraum: 17. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/026
+ENTITÄT: bauwerk
+BEZEICHNUNG: Rundturm
+ORTSTEIL_BEZUG: Bohlingen
+QUELLE: https://www.singen.de/informieren/ortsteile/bohlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 17. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/027
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gasthaus Krone
+ORTSTEIL_BEZUG: Bohlingen
+QUELLE: https://www.singen.de/informieren/ortsteile/bohlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fruehere_funktion: bischöflich-konstanzisches Amtshaus und Jagdschloss
+GUELTIG_BIS: historisch
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 117-singen/028
+ENTITÄT: ereignis_verwaltung
+BEZEICHNUNG: Bohlingen unter Bischofsherrschaft Konstanz
+ORTSTEIL_BEZUG: Bohlingen
+QUELLE: https://www.singen.de/informieren/ortsteile/bohlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Bischof von Konstanz wird Eigentümer des Hofes "Polling"
+GUELTIG_AB: 877
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 117-singen/029
+ENTITÄT: ereignis_verwaltung
+BEZEICHNUNG: Bohlingen unter Herren von Homburg
+ORTSTEIL_BEZUG: Bohlingen
+QUELLE: https://www.singen.de/informieren/ortsteile/bohlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Herren von Homburg üben niedere Gerichtsbarkeit aus
+GUELTIG_AB: 1426
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/030
+ENTITÄT: ereignis_verwaltung
+BEZEICHNUNG: Bohlingen unter Kloster Salem
+ORTSTEIL_BEZUG: Bohlingen
+QUELLE: https://www.singen.de/informieren/ortsteile/bohlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Bohlingen kommt an das Kloster Salem
+GUELTIG_AB: 1456
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/031
+ENTITÄT: ereignis_verwaltung
+BEZEICHNUNG: Bohlingen unter Grafen von Sulz
+ORTSTEIL_BEZUG: Bohlingen
+QUELLE: https://www.singen.de/informieren/ortsteile/bohlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Grafen von Sulz werden neue Herren Bohlingens
+GUELTIG_AB: 1469
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/032
+ENTITÄT: ereignis_verwaltung
+BEZEICHNUNG: Bohlingen Verkauf an Bischof von Konstanz
+ORTSTEIL_BEZUG: Bohlingen
+QUELLE: https://www.singen.de/informieren/ortsteile/bohlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Verkauf der Herrschaft Bohlingen an den Bischof von Konstanz
+GUELTIG_AB: 1497
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/033
+ENTITÄT: ereignis_verwaltung
+BEZEICHNUNG: Vogteiamt Bohlingen errichtet
+ORTSTEIL_BEZUG: Bohlingen
+QUELLE: https://www.singen.de/informieren/ortsteile/bohlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Errichtung des Vogteiamtes Bohlingen
+GUELTIG_AB: 1512
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/034
+ENTITÄT: ereignis_militaer
+BEZEICHNUNG: Burg Bohlingen Zerstörung
+ORTSTEIL_BEZUG: Bohlingen
+QUELLE: https://www.singen.de/informieren/ortsteile/bohlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Zerstörung der Burg
+GUELTIG_AB: 1640
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/035
+ENTITÄT: ereignis_bauwerk
+BEZEICHNUNG: Bischöfliches Jagdschloss Bohlingen errichtet
+ORTSTEIL_BEZUG: Bohlingen
+QUELLE: https://www.singen.de/informieren/ortsteile/bohlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Bau des bischöflichen Jagdschlosses
+GUELTIG_AB: 1686
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/036
+ENTITÄT: ereignis_verwaltung
+BEZEICHNUNG: Bohlingen wird badisch
+ORTSTEIL_BEZUG: Bohlingen
+QUELLE: https://www.singen.de/informieren/ortsteile/bohlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Bohlingen wird badisch
+GUELTIG_AB: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 117-singen/037
+ENTITÄT: ortsteil
+BEZEICHNUNG: Friedingen
+ORTSTEIL_BEZUG: Friedingen
+QUELLE: https://www.singen.de/informieren/ortsteile/friedingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besiedlung_zeitraum: Merowingerzeit (5.-7. Jahrhundert)
+  beweise_existenz: Reihengräberfunde
+  namensherkunft_abgeleitet_von: Frido (Personenname)
+  erste_urkundliche_erwaenung_jahr: 1090
+  eingemeindung_datum: 1.12.1971
+  eingemeindung_zu: Singen am Hohentwiel
+GUELTIG_AB: 1090
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 117-singen/038
+ENTITÄT: burg
+BEZEICHNUNG: Hohenfriedingen (Friedinger Schlössle)
+ORTSTEIL_BEZUG: Friedingen
+QUELLE: https://www.singen.de/informieren/ortsteile/friedingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Herren von Friedingen
+  zeitraum_erbauung: 12. Jahrhundert
+  besonderheit: Wahrzeichen des Stadtteils
+  gastronomie: Pächter im Innenhof
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 117-singen/039
+ENTITÄT: wappen
+BEZEICHNUNG: Friedingen
+ORTSTEIL_BEZUG: Friedingen
+QUELLE: https://www.singen.de/informieren/ortsteile/friedingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: ehemaliges Rittergeschlechts-Wappen
+  verwendung: Emblem der politischen Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 117-singen/040
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Leodegar
+ORTSTEIL_BEZUG: Friedingen
+QUELLE: https://www.singen.de/informieren/ortsteile/friedingen | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/041
+ENTITÄT: kapelle
+BEZEICHNUNG: Sebastianskapelle
+ORTSTEIL_BEZUG: Friedingen
+QUELLE: https://www.singen.de/informieren/ortsteile/friedingen | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/042
+ENTITÄT: ortsteil
+BEZEICHNUNG: Beuren an der Aach
+ORTSTEIL_BEZUG: Beuren a.d.A.
+QUELLE: https://www.singen.de/informieren/ortsteile/beuren+an+der+aach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besiedlung_zeitraum: Merowingerzeit
+  erste_urkundliche_erwaenung_jahr: 1204
+  namensherkunft_bedeutung: bei den Häusern
+  namensherkunft_sprache: Althochdeutsch
+GUELTIG_AB: 1204
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 117-singen/043
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Wendelinskapelle
+ORTSTEIL_BEZUG: Beuren a.d.A.
+QUELLE: https://www.singen.de/informieren/ortsteile/beuren+an+der+aach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1760
+  denkmalschutz: true
+GUELTIG_AB: 1760
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 117-singen/044
+ENTITÄT: schloss
+BEZEICHNUNG: Schlössle Meldegg
+ORTSTEIL_BEZUG: Beuren a.d.A.
+QUELLE: https://www.singen.de/informieren/ortsteile/beuren+an+der+aach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: auf künstlicher Insel in der Aach
+  erste_urkundliche_erwaenung_jahr: 1568
+  denkmalschutz: true
+GUELTIG_AB: 1568
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 117-singen/045
+ENTITÄT: projekt
+BEZEICHNUNG: Aach-Renaturierung
+ORTSTEIL_BEZUG: Beuren a.d.A.
+QUELLE: https://www.singen.de/informieren/ortsteile/beuren+an+der+aach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  massnahmen: Renaturierung, natürliche Flusserlebniszone mit Mäanderschlinge und Sedimentfang
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/046
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hausen an der Aach
+ORTSTEIL_BEZUG: Hausen a.d.A.
+QUELLE: https://www.singen.de/informieren/ortsteile/hausen+an+der+aach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besiedlung_zeitraum: Merowingerzeit (5.-7. Jahrhundert)
+  namenselement: "Haus" im Namen
+  erste_urkundliche_erwaenung_jahr: 787
+  eingemeindung_jahr: 1971
+  eingemeindung_zu: Singen
+GUELTIG_AB: 787
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 117-singen/047
+ENTITÄT: wappen
+BEZEICHNUNG: Hausen an der Aach
+ORTSTEIL_BEZUG: Hausen a.d.A.
+QUELLE: https://www.singen.de/informieren/ortsteile/hausen+an+der+aach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  element: achtspeichiges Rad
+  grund: Marterinstrument der hl. Katharina
+  nebenpatron: hl. Agatha (Namenspatronin der Pfarrei)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/048
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Lindenplatz
+ORTSTEIL_BEZUG: Hausen a.d.A.
+QUELLE: https://www.singen.de/informieren/ortsteile/hausen+an+der+aach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: neu angelegt, Mittelpunkt des Ortes
+  gebaeude_um_platz: Pfarrkirche, Rathaus, Bücherei, Kindergarten, Bürgercafé
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/049
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Hausener Aachried
+ORTSTEIL_BEZUG: Hausen a.d.A.
+QUELLE: https://www.singen.de/informieren/ortsteile/hausen+an+der+aach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: aktiver Erholungsraum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/050
+ENTITÄT: ortsteil
+BEZEICHNUNG: Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  siedlungszeiten: Urnenfelder- und Alemannenzeit
+  namensherkunft_abgeleitet_von: Personenname IBUR
+  erste_urkundliche_erwaenung_jahr: 1256
+  erste_besiedlung_zeitraum: 6. oder 7. Jahrhundert
+  besiedlung_art: alemannische Siedlung
+  vermutet_gehoerte_zu: Besitz Kloster Reichenau
+  gebiet_ab_13_jh: Ammannamt der Stadt Radolfzell
+  aenderung_1806: Württemberg
+  aenderung_1810: Baden
+  abstimmung_eingemeindung_datum: 10.12.1970
+  eingemeindung_datum: 1.1.1971
+  eingemeindung_zu: Singen
+GUELTIG_AB: 1256
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 117-singen/051
+ENTITÄT: ereignis_verwaltung
+BEZEICHNUNG: Habsburg erwirbt Vogtei Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Habsburg erwirbt die Vogtei
+GUELTIG_AB: 1298
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/052
+ENTITÄT: ereignis_verwaltung
+BEZEICHNUNG: Kloster Reichenau überlässt Überlingen an Radolfzell
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Kloster Reichenau überlässt der Stadt Radolfzell pfandweise das Burg- und Ammannamt
+GUELTIG_AB: 1421
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/053
+ENTITÄT: ereignis_verwaltung
+BEZEICHNUNG: Kaplanei Überlingen errichtet
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Errichtung einer Kaplanei
+GUELTIG_AB: 1481
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/054
+ENTITÄT: ereignis_verwaltung
+BEZEICHNUNG: Überlingen Waldschenkung an Radolfzell
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Gemeinde Überlingen übergibt Radolfzellern als Entschädigung für Bauernkrieg-Teilnahme die Wälder Raitholz und Schachenwald
+GUELTIG_AB: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/055
+ENTITÄT: ereignis_verwaltung
+BEZEICHNUNG: Überlingen geht in Besitz Radolfzells über
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Überlingen am Ried geht endgültig in den Besitz der Stadt Radolfzell über
+GUELTIG_AB: 1538
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/056
+ENTITÄT: ereignis_verwaltung
+BEZEICHNUNG: Überlingen wird badisch
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Überlingen am Ried wird badisch (Bezirksamt Radolfzell)
+GUELTIG_AB: 1805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/057
+ENTITÄT: gebaeude
+BEZEICHNUNG: Schul- und Rathaus Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: Schul- und Rathaus
+GUELTIG_AB: 1832
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/058
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: Pfarrkirche
+GUELTIG_AB: 1862
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/059
+ENTITÄT: gebaeude
+BEZEICHNUNG: Pfarramt Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: Pfarramt
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/060
+ENTITÄT: gebaeude
+BEZEICHNUNG: Schule Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau_und_einweihung: Bau und Einweihung der neuen Schule
+GUELTIG_AB: 1962
+GUELTIG_BIS: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/061
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kindergarten Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau_und_einweihung: Neubau und Einweihung des Kindergartens
+GUELTIG_AB: 1970
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/062
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Dorfbrunnen Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  uebergabe_datum: Mai 1982
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/063
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Sportplatz Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  uebergabe_datum: Juni 1982
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/064
+ENTITÄT: gebaeude
+BEZEICHNUNG: Franziskusheim
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: Juni 1982
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/065
+ENTITÄT: institution
+BEZEICHNUNG: Freiwillige Feuerwehr Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1886
+  betrag_jubilaeum_1986: 100-jähriges Bestehen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/066
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Überlinger Ortsdurchfahrt Rückbau
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Rückbau der Ortsdurchfahrt abgeschlossen
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/067
+ENTITÄT: institution
+BEZEICHNUNG: Jugendfeuerwehr Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: Gründung der Jugendfeuerwehr
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/068
+ENTITÄT: gebaeude
+BEZEICHNUNG: Turnhalle Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Sanierung und Erweiterung der Turnhalle der Grund- und Hauptschule
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/069
+ENTITÄT: kirche
+BEZEICHNUNG: Heilig-Kreuz-Kirche Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1997
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/070
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Schulhof Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktion: Einweihung des neuen Schulhofes der Grund- und Hauptschule
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/071
+ENTITÄT: institution
+BEZEICHNUNG: Angelsportverein Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jubilaeum: 25 Jahre Angelsportverein
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/072
+ENTITÄT: veranstaltung
+BEZEICHNUNG: 750-Jahr-Feier Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 2006
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/073
+ENTITÄT: gebaeude
+BEZEICHNUNG: Bürgerhaus Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung_datum: November 2006
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 117-singen/074
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kindergarten Räume Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung_datum: 21. Juli 2007
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/075
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Postfiliale Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung_datum: 13. November 2007
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/076
+ENTITÄT: institution
+BEZEICHNUNG: Chrüzerbrötli-Zunft Überlingen am Ried
+ORTSTEIL_BEZUG: Überlingen a.R.
+QUELLE: https://www.singen.de/informieren/ortsteile/ueberlingen+am+ried | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jubilaeum: 50 Jahre Chrüzerbrötli-Zunft
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 117-singen/077
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schlatt unter Krähen
+ORTSTEIL_BEZUG: Schlatt u.Kr.
+QUELLE: https://www.singen.de/informieren/ortsteile/schlatt+unter+kraehen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  siedlungsgebiet_zeitraum: Bronze- und Römerzeit
+  erste_urkundliche_erwaenung_jahr: 787
+  namensherkunft_moeglichkeit_1: Sumpf (aus Slate)
+  namensherkunft_moeglichkeit_2: Holzschlag (aus Slant)
+  sprache_etymologie: Althochdeutsch
+  verbindung_hohenkraehen: eng verbunden mit Hohenkrähen
+  wappen_bezug: Hohenkrähen im Wappen
+  eingemeindung: 1971
+GUELTIG_AB: 787
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 117-singen/078
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnstation Schlatt
+ORTSTEIL_BEZUG: Schlatt u.Kr.
+QUELLE: https://www.singen.de/informieren/ortsteile/schlatt+unter+kraehen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1868
+  strecke_1: Donaueschingen – Immendingen – Singen
+  strecke_2: Schaffhausen – Radolfzell – Konstanz
+  folge: Umwandlung zu Pendler- und Wohngemeinde
+GUELTIG_AB: 1868
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92

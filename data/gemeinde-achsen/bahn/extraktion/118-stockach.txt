@@ -1,0 +1,656 @@
+ENTITÄT: ort
+BEZEICHNUNG: Stockach
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 17500, genauigkeit: "ca."
+  ortsteile: 10
+  geschichte_seit: 1150
+  erwähnung_urkundlich_seit: 1150
+  gemarkungsflaeche: 69.3 [km²]
+  postleitzahl: 78333
+  koordinaten_breite: "47°51′ nördlich"
+  koordinaten_laenge: "9°1′ östlich"
+  hoehenlage_kernstadt: 491 [m]
+  hoehenlage_minimum: 399.60 [m]
+  hoehenlage_maximum: 681.1 [m]
+  anteil_siedlungsflaeche: 14 [%]
+  anteil_waldflaeche: 31 [%]
+  anteil_landwirtschaftsflaeche: 54 [%]
+  ist_mittelzentrum: true
+  ist_verwaltungsgemeinschaftssitz: true
+  rolle_verwaltungszentrum_seit: 1465
+  superlativ: "über 900-jährige Geschichte"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Stockach
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Nordosten des Landkreises Konstanz"
+  lage_region: "zwischen Bodensee und Hegau"
+  lage_geografie: "Molasserücken"
+  eiszeit_gepraegt: "Würm-Eiszeit"
+  benachbarte_verwaltungsgemeinschaften: "Bodman-Ludwigshafen, Eigeltingen, Hohenfels, Mühlingen, Orsingen-Nenzingen"
+  gesamt_einwohner_verwaltungsgemeinschaft: 30000, genauigkeit: "ca."
+  autobahn_anschluss: "A98"
+  bundesstrassen: "B14, B31, B313"
+  bahnanbindung_seit: 1996
+  bildungseinrichtungen: 16
+  krankenhaus: true
+  krankenhaus_schwerpunkt: "Gelenkchirurgie"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: stadtwappen
+BEZEICHNUNG: Stadtwappen Stockach
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verliehen_jahr: 1898
+  verliehen_an: "Stadt Stockach"
+  beschreibung: "Goldener Schild, silberner Schrägbalken mit gestümmeltem roten Ast, zwei blaue Hirschstangen (Geweihe aus Wappen der Grafschaft Nellenburg)"
+  symbolik_ast: "Stock in der Aach"
+  symbolik_hirschstangen: "Wappen der Grafschaft Nellenburg"
+  namensherkunft: "Stock (Baumstamm) abgeleitet vom Ortsnamen"
+GUELTIG_AB: 1898
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtsiegel
+BEZEICHNUNG: Ältestes Stadtsiegel Stockach
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1472
+  beschreibung: "Baumstamm"
+  symbolik: "Anspielung auf Ortsnamen"
+GUELTIG_AB: 1472
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: burgermeisterin
+BEZEICHNUNG: Susen Katter
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/grusswort | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: "Bürgermeisterin"
+  ort_amtsantritt: "Stockach"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: La Roche-sur-Foron
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/partner--partnerschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: "Frankreich"
+  region: "Hochsavoyen"
+  partnerschaft_seit: 1972
+  partnerschaft_datum: "17. Juni 1972"
+  initiator_1: "Johannes Röhrenbach (Gymnasiallehrer)"
+  initiator_2: "Günther Klein (Gymnasiallehrer)"
+  erstkontakt_jahr: 1970, genauigkeit: "ca."
+  motiv_partnerschaft: "Versöhnung und Freundschaft zwischen Deutschen und Franzosen als Werk des Friedens"
+  austausch_art: "Schüleraustausch, Delegationenbesuche, Künstlerbesuche"
+  adresse: "1, Place de l'Hôtel de Ville, 74800 La Roche sur Foron"
+  webseite: "www.larochesurforon.fr"
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Wermsdorf
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/partner--partnerschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: "Deutschland"
+  bundesland: "Sachsen"
+  lage: "zwischen Leipzig und Dresden"
+  partnerschaft_seit: 1992
+  partnerschaft_typ: "Verwaltungspartnerschaft"
+  grund_partnerschaft: "Wiederaufbau und Ablauforganisation Verwaltung nach deutschen Wiedervereinigung"
+  hilfe_hochwasser_2002: true
+  adresse: "Altes Jagdschloss 1, 04779 Wermsdorf"
+  webseite: "www.wermsdorf.de"
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: patenschaft_ehemalig
+BEZEICHNUNG: U 23
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/partner--partnerschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  uebernahme_jahr: 1974
+  schiff_typ: "U-Boot"
+  schiff_indienststellung: 1975
+  schiff_indienststellung_datum: "Mai 1975"
+  schiff_ort: "Eckernförde"
+  schiff_stationierung: "Eckernförde"
+  schiff_geschwader: "3. Ubootgeschwader"
+  schiff_dienstjahre: 36
+  schiff_kostensch: 50-60, einheit: "Millionen DM", genauigkeit: "ca."
+  schiff_einsatzgebiete: "Ostsee, Nordsee, Kattegat, Skagerrak"
+  schiff_ausserdienststellung_jahr: 2011
+  schiff_anzahl_gleichtyp: 24
+  patenschaft_ende: 2011
+GUELTIG_AB: 1974
+GUELTIG_BIS: 2011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Adler Post
+QUELLE: https://www.stockach.de/eiscafe | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_ursprung: "Gasthof"
+  funktion_ursprung_jahr: 1618
+  benachbarte_institution: "Poststation (1505)"
+  brand_jahr: 1904
+  funktion_nach_brand: "Hotel"
+  funktion_aktuell: "Bürgerhaus"
+  umbau_zu_buergerhaus_jahr: 1980er
+  obergeschoss_nutzung: "Narrenstüble (Sitzungsraum Narrengerichts)"
+  erdgeschoss_nutzung: "Eiscafé"
+  grund_namengebung: "Wirt des Gasthofs Adler amtierte gleichzeitig als Postmeister"
+  baustil: "Fachwerkbau"
+  baustil_baujahr: "18. Jahrhundert"
+  lage: "Altstadt Stockach"
+GUELTIG_AB: 1618
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: krieg_ereignis
+BEZEICHNUNG: Schlacht von Stockach
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: "25. März 1799"
+  ort: "Raithaslach"
+  beteiligt_oesterreich: true
+  beteiligt_frankreich: true
+  kontext_krieg: "Zweiter Koalitionskrieg"
+  ausgang: "Sieg Österreichs"
+  ergebnis_fuer_stockach: "Sieg gegen französische Truppen"
+GUELTIG_AB: 1799
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: krieg_ereignis
+BEZEICHNUNG: Schweizerkrieg (Schwabenkrieg)
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum_ereignis: 1499
+  belag: "von eidgenössischen Truppen"
+  ausgang_belag: "erfolglos"
+  auswirkung_stockach: "befestigte Stadt belagert"
+  ergebnis_fuer_stockach: "Stadt hielt stand"
+  tradition_gedenken: "Schweizerfeiertag (jährlich)"
+GUELTIG_AB: 1499
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: stadtzerstoerung
+BEZEICHNUNG: Stadtbrand Stockach
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: "25. Mai 1704"
+  kontext_krieg: "Spanischer Erbfolgekrieg"
+  verursacher: "Befehl bayerischer Kurfürst Max Emanuel II."
+  umfang: "nahezu vollständige Zerstörung"
+  wiederaufbau_signalisiert: "1770 durch Besuch Marie Antoinette"
+  folge_schriftlich_dokumentiert: "Memoriale 1705"
+GUELTIG_AB: 1704
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: krieg_ereignis
+BEZEICHNUNG: Bauernkrieg
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: "1524-1525"
+  auswirkung_stockach: "Stadt und Bevölkerung stark getroffen"
+GUELTIG_AB: 1524
+GUELTIG_BIS: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: krieg_ereignis
+BEZEICHNUNG: Dreißigjähriger Krieg
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: "1618-1648"
+  auswirkung_stockach: "Stadt und Bevölkerung stark getroffen"
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person_historisch
+BEZEICHNUNG: Marie Antoinette
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besuch_stockach_jahr: 1770
+  besuch_grund: "Brautfahrt von Wien nach Frankreich"
+  bedeutung_fuer_stockach: "Symbol des Wiederaufbaus"
+  herkunft: "Tochter von Kaiserin Maria Theresia"
+GUELTIG_AB: 1770
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: institution_historisch
+BEZEICHNUNG: Nellenburg
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "Grafschaft"
+  rolle_stockach: "eng mit Stockachs Geschichte verbunden"
+  funktion_stockach: "Gerichts- und Verwaltungssitz Landgrafschaft"
+  bedeutung_ab: 1283
+  wechsel_habsburg: 1465
+GUELTIG_AB: 1283
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: unternehmen_historisch
+BEZEICHNUNG: Schiesser
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  branche: "Textilien"
+  gruendung_jahr: 1890
+  rolle: "floriernder Industriebetrieb"
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen_historisch
+BEZEICHNUNG: Fahr
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  branche: "Maschinenbau"
+  gruendung_jahr: 1891
+  rolle: "floriernder Industriebetrieb"
+GUELTIG_AB: 1891
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verwaltungsreform
+BEZEICHNUNG: Kreisreform 1973
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_jahr: 1973
+  folge_status_vor: "Kreisstadt, Verwaltungssitz Landkreis Stockach"
+  folge_status_nach: "aufgelöst"
+  neue_zuordnung: "Landkreis Konstanz"
+  ortsteile_zugemeindung_jahr_bis: 1975
+  ortsteile_zugemeindung: "Espasingen, Hindelwangen, Hoppetenzell, Mahlspüren im Hegau, Mahlspüren im Tal – Seelfingen, Raithaslach, Wahlwies, Winterspüren, Zizenhausen"
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Espasingen
+ORTSTEIL_BEZUG: Espasingen
+QUELLE: https://www.stockach.de/stadt-und-politik/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hindelwangen
+ORTSTEIL_BEZUG: Hindelwangen
+QUELLE: https://www.stockach.de/stadt-und-politik/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hoppetenzell
+ORTSTEIL_BEZUG: Hoppetenzell
+QUELLE: https://www.stockach.de/stadt-und-politik/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mahlspüren im Hegau
+ORTSTEIL_BEZUG: Mahlspüren im Hegau
+QUELLE: https://www.stockach.de/stadt-und-politik/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mahlspüren im Tal
+ORTSTEIL_BEZUG: Mahlspüren im Tal
+QUELLE: https://www.stockach.de/stadt-und-politik/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1975
+  alternativname: "Seelfingen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Raithaslach
+ORTSTEIL_BEZUG: Raithaslach
+QUELLE: https://www.stockach.de/stadt-und-politik/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wahlwies
+ORTSTEIL_BEZUG: Wahlwies
+QUELLE: https://www.stockach.de/stadt-und-politik/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Winterspüren
+ORTSTEIL_BEZUG: Winterspüren
+QUELLE: https://www.stockach.de/stadt-und-politik/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Zizenhausen
+ORTSTEIL_BEZUG: Zizenhausen
+QUELLE: https://www.stockach.de/stadt-und-politik/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum Stockach
+QUELLE: https://www.stockach.de/kultur-und-freizeit/stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_ursprung: 1930
+  offnung_erstes_museum: 1930
+  erste_location: "Historisches Kaufhaus auf dem Gustav-Hammer-Platz"
+  zweite_location: 1983
+  zweite_location_gebaeude: "Adler Post"
+  dritte_location_eroeffnung: "2002-2003"
+  dritte_location_gebaeude: "Altes Forstamt (ehemaliges Forstamt)"
+  funktion_teil: "Kulturzentrum (zusammen mit Bücherei und Stadtarchiv)"
+  sammlungen_gesamt: 3000, einheit: "Objekte"
+  sammlung_stadthistorisch: 1200, einheit: "Objekte"
+  sammlung_kunstsammlung_wagner: 300, einheit: "Werke von über 70 Künstlern"
+  sammlung_wagner_dauerleihgabe_bis: 2046
+  sammlung_terrakotten_zizenhausen: 650, einheit: "Figuren"
+  sammlung_terrakotten_modeln: 1200, einheit: "Modeln"
+  sammlung_terrakotten_weltgroesstes: true
+  sonderausstellung_aktuell: "Wasserwelten – Von Dix bis Mollweide"
+  sonderausstellung_datum: "8. Mai – 8. November 2026"
+  digitalisierung: "teilweise, Museum Digital"
+  oeffnungszeiten: "Di-So 10:00-17:00, Feiertage 10:00-17:00, Mo geschlossen"
+  führungen_sonntaglich: true
+  führungen_zeitpunkt: "14:00 Uhr"
+  barrierefreiheit: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kunstsammlung
+BEZEICHNUNG: Kunstsammlung Heinrich Wagner
+QUELLE: https://www.stockach.de/kultur-und-politik/stadtmuseum/sammlung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  werke_anzahl: 300, genauigkeit: "ueber"
+  kuenstler_anzahl: 70, genauigkeit: "ueber"
+  kuenstler_beispiele: "Marc Chagall, Salvador Dalí"
+  sammler: "Heinrich Wagner (Bauunternehmer, Politiker, Fasnachtler)"
+  uebergabe_stadt_jahr: 2016
+  uebergabe_typ: "Leihgabe"
+  leihgabe_dauer_jahre: 30
+  leihgabe_dauer_bis: 2046
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: sammlung
+BEZEICHNUNG: Zizenhausener Terrakotten
+QUELLE: https://www.stockach.de/kultur-und-freizeit/stadtmuseum/sammlung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  objekttyp: "Tonfiguren"
+  herkunftsort: "Stockach-Zizenhausen"
+  herstellung_zeitraum_ungefaehr: "ueber 100 Jahre"
+  verbreitungsgebiet: "ganz Europa"
+  zeithistorische_bedeutung: "Spiegel bürgerlicher Wohnkultur im Wandel der Zeit"
+  charakterisierung: "verspielt bis politisch, religiös bis derb"
+  sammlung_groesse_figuren: 650
+  sammlung_groesse_modeln: 1200
+  sammlung_status: "weltgrößte Sammlung"
+  hersteller_nachlass_sohn: true
+  sohn_generationen: 4
+  sohn_herstellung_typ: "Heimarbeit"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ausstellung_dauerausstellung
+BEZEICHNUNG: Schlachtendiorama
+QUELLE: https://www.stockach.de/kultur-und-freizeit/stadtmuseum/ausstellungen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: "Rathaus Raithaslach"
+  Schlacht_dargestellt: "Schlacht von Stockach"
+  schlacht_datum: "25. März 1799"
+  schlacht_krieg: "Zweiter Koalitionskrieg"
+  schlacht_beteiligt: "französische und österreichische Heere"
+  diorama_typ: "detailfreies Handwerk"
+  eintritt: "kostenfrei"
+  ortsteil_bezug: "Raithaslach"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: brauchtum
+BEZEICHNUNG: Stockacher Fasnacht
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tradition: true
+  veranstaltung_komponenten: "Narrengerichtstagung (Hohe Grobgünstige Narrengericht zu Stocken), Straßenfasnacht"
+  kulturelle_bedeutung: "prägt das kulturelle Leben der Stadt"
+  historischer_bezug: "fünfte Jahreszeit"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: brauchtum
+BEZEICHNUNG: Schweizerfeiertag
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tradition: true
+  anlass: "Gedenken an erfolgreiche Belagerung gegen eidgenössische Truppen 1499"
+  kulturelle_bedeutung: "prägt das kulturelle Leben der Stadt"
+  feier_haeufigkeit: "jährlich"
+GUELTIG_AB: 1499
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Stadtfest Schweizer Feiertag
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "Stadtfest"
+  tradition: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Eisenbahnanschluss Stockach
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 1867
+  wirtschaftliche_bedeutung: "wichtiger Impuls für Industrialisierung"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Eisenbahnanschluss Stockach (Wiederherstellung)
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wiederanbindung_jahr: 1996
+  schienennetzanbindung: true
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: poststation
+BEZEICHNUNG: Europäische Poststation Stockach
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  etabliert_zeitraum: "frühes 16. Jahrhundert"
+  bedeutung: "wichtige Poststation entlang zentraler europäischer Handelsrouten"
+  handelsrouten: "Wien-Paris, Stuttgart-Zürich, Ulm-Basel"
+GUELTIG_AB: 1501, genauigkeit: "ca."
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verwaltungsstatus
+BEZEICHNUNG: Stockach als Kreisstadt
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_erlangung: 1939
+  status_erlaeuterung: "Kreisstadt und Verwaltungssitz eines Landkreises"
+  status_beendigung_jahr: 1973
+  status_beendigung_grund: "Kreisreform"
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: vogelart
+BEZEICHNUNG: Weißstorch
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  habitat: "Stockach und Ortsteile"
+  lebensraum: "weitläufige Feuchtwiesen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: vogelart
+BEZEICHNUNG: Rotmilan
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  habitat: "Stockach und Ortsteile"
+  lebensraum: "offene Landschaften und Gehölzstrukturen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: vogelart
+BEZEICHNUNG: Kiebitz
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  habitat: "Stockach und Ortsteile"
+  schutzstatus: "am stärksten gefährdet"
+  wiederansiedlungsprojekt: true
+  erfolgreich_bruetung_jahr: 2025
+  erfolgreich_bruetung_beschreibung: "erste erfolgreiche Brütung nach vielen Jahren"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historische_persoenlichkeit
+BEZEICHNUNG: Johannes Röhrenbach
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/partner--partnerschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Gymnasiallehrer"
+  wirkungsort: "Stockach"
+  leistung: "Mitinitiator der Partnerschaft mit La Roche-sur-Foron"
+  initiator_erstkontakt_jahr: 1970, genauigkeit: "ca."
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historische_persoenlichkeit
+BEZEICHNUNG: Günther Klein
+QUELLE: https://www.stockach.de/stadt-und-politik/stadtportrait/partner--partnerschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: "Gymnasiallehrer"
+  wirkungsort: "Stockach"
+  leistung: "Mitinitiator der Partnerschaft mit La Roche-sur-Foron"
+  initiator_erstkontakt_jahr: 1970, genauigkeit: "ca."
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

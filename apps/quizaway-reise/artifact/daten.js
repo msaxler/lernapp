@@ -14693,6 +14693,10 @@ window.QA_DATEN = {
 "36-graben-neudorf": [
 "Kreisgrenze: Graben-Neudorf gehört zum Landkreis Karlsruhe, Karlsruhe ist kreisfrei.",
 "Bundestagswahl 2025: In Graben-Neudorf lag die CDU vorn, in Karlsruhe die Grünen."
+],
+"96-bruchsal": [
+"Kreisgrenze: Bruchsal gehört zum Landkreis Karlsruhe, Karlsruhe ist kreisfrei.",
+"Bundestagswahl 2025: In Bruchsal lag die CDU vorn, in Karlsruhe die Grünen."
 ]
 },
 "ags": "08212000",
@@ -14896,6 +14900,9 @@ window.QA_DATEN = {
 ],
 "36-graben-neudorf": [
 "Stutensee hat doppelt so viele Einwohner wie Graben-Neudorf."
+],
+"96-bruchsal": [
+"Bruchsal hat fast doppelt so viele Einwohner wie Stutensee."
 ]
 },
 "ags": "08215109",
@@ -15092,6 +15099,9 @@ window.QA_DATEN = {
 "57-speyer": [
 "Landesgrenze: Speyer liegt in Rheinland-Pfalz, Graben-Neudorf in Baden-Württemberg.",
 "Speyer hat viermal so viele Einwohner wie Graben-Neudorf."
+],
+"96-bruchsal": [
+"Bruchsal hat fast viermal so viele Einwohner wie Graben-Neudorf."
 ]
 },
 "ags": "08215099",
@@ -15304,6 +15314,9 @@ window.QA_DATEN = {
 "57-speyer": [
 "Landesgrenze: Speyer liegt in Rheinland-Pfalz, Waghäusel in Baden-Württemberg.",
 "Speyer hat gut doppelt so viele Einwohner wie Waghäusel."
+],
+"96-bruchsal": [
+"Bruchsal hat gut doppelt so viele Einwohner wie Waghäusel."
 ]
 },
 "ags": "08215106",
@@ -25981,6 +25994,1044 @@ window.QA_DATEN = {
 "km_vom_vorigen": 26.0
 },
 {
+"slug": "96-bruchsal",
+"name": "Bruchsal",
+"lat": 49.13333,
+"lon": 8.6,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bruchsal",
+"steckbrief": "Bruchsal hat rund 48.000 Einwohner und liegt 20 km nordöstlich von Karlsruhe.",
+"frage": "Was bedeutet der Ortsname Bruchsal nach der Zeittafel der Stadt?",
+"optionen": [
+"Der Name meint einen Steinbruch an einer Salzquelle.",
+"Der Name meint eine Furt über einen Bergbach.",
+"Der Name meint einen Herrenhof im Sumpf.",
+"Der Name meint ein Kloster in einer Waldlichtung."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Beim „Bruch“ denkt man an einen Steinbruch – das Wort lebt ja im Alltag weiter. Die Zeittafel der Stadt übersetzt die alte Namensform „Bruohsella“ aber mit Herrenhof im Sumpf. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte",
+"faktencheck": "korrigiert",
+"id": "96-bruchsal/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bruchsal",
+"steckbrief": "Bruchsal ist Große Kreisstadt und liegt 20 km nordöstlich von Karlsruhe.",
+"frage": "Wie viele Einwohner hat die Stadt Bruchsal?",
+"optionen": [
+"unter 20.000",
+"20.000 bis unter 30.000",
+"30.000 bis unter 45.000",
+"45.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Im Schatten von Karlsruhe wirkt Bruchsal leicht wie eine Kleinstadt. Doch mit eingemeindeten Orten wie Untergrombach, Obergrombach und Büchenau zählte die Stadt Ende 2025 47.578 Einwohner. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "96-bruchsal/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bruchsal",
+"steckbrief": "Bruchsal hat rund 48.000 Einwohner und liegt 20 km nordöstlich von Karlsruhe.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Balthasar Neumann lieferte die Pläne für St. Peter.",
+"Der Bauernführer Joß Fritz stammte aus Untergrombach.",
+"Bruchsal blieb im Zweiten Weltkrieg von Bomben verschont."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Balthasar Neumann klingt für eine Bruchsaler Kirche fast zu berühmt – stimmt aber, ebenso Joß Fritz aus Untergrombach. Gelogen ist die Schonung: Ein Bombenangriff legte im Zweiten Weltkrieg weite Teile der Innenstadt in Trümmer. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte",
+"faktencheck": "bestätigt",
+"id": "96-bruchsal/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bruchsal",
+"steckbrief": "Bruchsal hat rund 48.000 Einwohner und liegt 20 km nordöstlich von Karlsruhe.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Bruchsal bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 28 %",
+"28 bis unter 34 %",
+"34 bis unter 40 %",
+"40 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die einstige fürstbischöfliche Residenz lässt eine schwarze Hochburg erwarten. Die CDU wurde zwar stärkste Kraft, kam aber nur auf 31,9 Prozent; die AfD folgte als Zweite. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "96-bruchsal/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bruchsal",
+"steckbrief": "Bruchsal hat rund 48.000 Einwohner und liegt 20 km nordöstlich von Karlsruhe.",
+"frage": "Ein Gasthaus an der Kaiserstraße neben der Stadtkirche hieß bis 1888 „Zum Zähringer Hof“. Welchen Namen bekam es 1888?",
+"optionen": [
+"Es hieß nun Gasthaus zur Glocke.",
+"Es hieß nun Gasthaus zum Großherzog.",
+"Es hieß nun Gasthaus zum Krokodil.",
+"Es hieß nun Gasthaus zum Goldenen Löwen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Neben der Stadtkirche läge die Glocke nahe, und schon der alte Name ehrte ein Herrscherhaus. Gewählt wurde aber ein exotisches Tier. Im Ersten Weltkrieg diente das Haus als Kriegerheim des Roten Kreuzes. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.bruchsal.de/erleben/kultur/stadtarchiv/bilderraetsel+zur+stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "96-bruchsal/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bruchsal",
+"steckbrief": "Bruchsal hat rund 48.000 Einwohner und liegt 20 km nordöstlich von Karlsruhe.",
+"frage": "Wie weit ist Bruchsal in Luftlinie von der Landeshauptstadt Stuttgart entfernt?",
+"optionen": [
+"unter 30 km",
+"30 bis unter 40 km",
+"40 bis unter 50 km",
+"50 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. „Nordöstlich von Karlsruhe“ klingt nach halbem Weg in die Landeshauptstadt. Doch der Schritt nach Nordosten ist kurz, Stuttgart bleibt weit: Die Luftlinie misst 57 Kilometer. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "96-bruchsal/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bruchsal",
+"steckbrief": "Bruchsal hat rund 48.000 Einwohner und liegt 20 km nordöstlich von Karlsruhe.",
+"frage": "Der Spatzenturm in Bruchsal entstand im 18. Jahrhundert. Wozu wurde er gebaut?",
+"optionen": [
+"Er versorgte den Bauhof mit Wasser.",
+"Er diente als Taubenschlag des Hofes.",
+"Er war ein Wachturm der Stadtmauer.",
+"Er war ein Gefängnis für Schuldner."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Name lockt zu den Vögeln, und ein Turm klingt nach Wache. Doch der Spatzenturm nördlich der Saalbach war ein Wasserturm: Er versorgte den Bauhof. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.bruchsal.de/erleben/kultur/stadtarchiv/bilderraetsel+zur+stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "96-bruchsal/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bruchsal",
+"steckbrief": "Bruchsal hat rund 48.000 Einwohner und liegt 20 km nordöstlich von Karlsruhe.",
+"frage": "Die Gegend am heutigen Otto-Oppenheimer-Platz in Bruchsal hatte früher im Volksmund einen eigenen Namen. Welchen?",
+"optionen": [
+"Man nannte die Gegend Klein-Rom.",
+"Man nannte die Gegend Klein-Venedig.",
+"Man nannte die Gegend Klein-Paris.",
+"Man nannte die Gegend Klein-Amerika."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer einstigen Bischofsresidenz läge Klein-Rom nahe. Der Volksmund dachte aber an die Lagunenstadt: Klein-Venedig hieß die Gegend am heutigen Otto-Oppenheimer-Platz. Für die einen war sie malerisch, für die anderen Ausdruck prekärer Lebensverhältnisse. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.bruchsal.de/erleben/kultur/stadtarchiv/bilderraetsel+zur+stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "96-bruchsal/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bruchsal",
+"steckbrief": "Bruchsal hat rund 48.000 Einwohner und liegt 20 km nordöstlich von Karlsruhe.",
+"frage": "Am 1. Oktober 1002 wurde der „Friede von Bruchsal“ geschlossen. Wer unterwarf sich dabei wem?",
+"optionen": [
+"Heinrich II. unterwarf sich Hermann von Schwaben.",
+"Otto III. unterwarf sich Heinrich II.",
+"Hermann von Schwaben unterwarf sich Otto III.",
+"Hermann von Schwaben unterwarf sich Heinrich II."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Friede klingt nach Einigung unter Gleichen. In Bruchsal aber beugte sich Hermann von Schwaben Heinrich II.; die Stadtgeschichte zählt das zu ihren bedeutenden Ereignissen. Der Tag war der Remigiustag. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte",
+"faktencheck": "bestätigt",
+"id": "96-bruchsal/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "58-landau",
+"anschluss": [
+"Landau hat gut 700 Einwohner mehr als Bruchsal.",
+"Bundestagswahl 2025: AfD in Bruchsal deutlich stärker als in Landau."
+],
+"anschluesse": {
+"34-karlsruhe": [
+"Kreisgrenze: Karlsruhe ist kreisfrei, Bruchsal gehört zum Landkreis Karlsruhe.",
+"Bundestagswahl 2025: In Karlsruhe lagen die Grünen vorn, in Bruchsal die CDU."
+],
+"35-stutensee": [
+"Bruchsal hat fast doppelt so viele Einwohner wie Stutensee."
+],
+"36-graben-neudorf": [
+"Bruchsal hat fast viermal so viele Einwohner wie Graben-Neudorf."
+],
+"37-waghaeusel": [
+"Bruchsal hat gut doppelt so viele Einwohner wie Waghäusel."
+],
+"58-landau": [
+"Landau hat gut 700 Einwohner mehr als Bruchsal.",
+"Bundestagswahl 2025: AfD in Bruchsal deutlich stärker als in Landau."
+]
+},
+"ags": "08215009",
+"ortsteil": false,
+"km_vom_vorigen": 35.4
+},
+{
+"slug": "97-vaihingen",
+"name": "Vaihingen an der Enz",
+"lat": 48.93278,
+"lon": 8.95639,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vaihingen an der Enz",
+"steckbrief": "Stadt mit rund 28.600 Einwohnern, 20 km östlich von Pforzheim.",
+"frage": "Im März 779 verschenkte Graf Cunibert Güter in Feinga, der vermutlichen Keimzelle Vaihingens. Wer erhielt sie?",
+"optionen": [
+"Die Güter gingen an das Kloster Reichenau.",
+"Die Güter gingen an das Kloster Fulda.",
+"Die Güter gingen an das Kloster St. Gallen.",
+"Die Güter gingen an das Kloster Hirsau."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre ein großes Kloster im alemannischen Südwesten, etwa Reichenau oder St. Gallen. Graf Cunibert bedachte aber das ferne Kloster Fulda. Feinga war vermutlich die Alemannensiedlung, aus der Vaihingen hervorging. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.vaihingen.de/unsere-stadt/stadt-vaihingen/geschichte",
+"faktencheck": "korrigiert",
+"id": "97-vaihingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Vaihingen an der Enz",
+"steckbrief": "Stadt mit rund 28.600 Einwohnern, 20 km östlich von Pforzheim.",
+"frage": "Wie groß ist das gesamte Stadtgebiet von Vaihingen an der Enz mit allen Stadtteilen?",
+"optionen": [
+"unter 25 km²",
+"25 bis unter 60 km²",
+"60 bis unter 85 km²",
+"85 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt dieser Größe schätzt man oft kleiner. Doch zu Vaihingen gehören viele Stadtteile mit Feldern, Wäldern und Rebhängen: Das Stadtgebiet misst 73,4 Quadratkilometer. Landwirtschaft und Wald nehmen den größten Teil ein. Richtig war 3.",
+"quelle": "GRUNDDATEN, Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "97-vaihingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Vaihingen an der Enz",
+"steckbrief": "Stadt mit rund 28.600 Einwohnern, 20 km östlich von Pforzheim.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Soldaten zerstörten die Burg Roßwag im Dreißigjährigen Krieg.",
+"Riets Kirche birgt den Grabstein eines Paracelsus-Onkels.",
+"Ensingens evangelische Dorfkirche ist dem heiligen Veit geweiht."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Zerstörte Burgen verbindet man oft mit dem Dreißigjährigen Krieg, deshalb klingt die Lüge glaubhaft. Die Burg Roßwag auf dem Muschelkalkfelsen ebneten aber die Äbte des Klosters Maulbronn ein, lange vor diesem Krieg. Die beiden anderen Aussagen stimmen. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.vaihingen.de/unsere-stadt/stadtteile/rosswag",
+"faktencheck": "korrigiert",
+"id": "97-vaihingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Vaihingen an der Enz",
+"steckbrief": "Stadt mit rund 28.600 Einwohnern im Landkreis Ludwigsburg, 20 km östlich von Pforzheim.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Vaihingen an der Enz nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"SPD",
+"GRÜNE",
+"FDP"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Lange galt die SPD als zweite Kraft hinter der CDU, das liegt nahe. 2025 kam in Vaihingen aber die AfD mit 18,3 Prozent auf Platz zwei. SPD und Grüne lagen dahinter fast gleichauf. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "97-vaihingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vaihingen an der Enz",
+"steckbrief": "Stadt mit rund 28.600 Einwohnern, 20 km östlich von Pforzheim; Horrheim ist einer ihrer Stadtteile.",
+"frage": "Das Horrheimer Türmle, ein Rest der Stadtmauer, heißt auch Bärentürmle. Woher kommt der Name vermutlich?",
+"optionen": [
+"Im Turm hielt man früher einen Bären.",
+"Sein letzter Bewohner wirkte tapsig wie ein Bär.",
+"Ein Bär zierte das Wappen der Erbauer.",
+"Am Turm wurde einst ein Bär erlegt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Bärenzwinger an der Stadtmauer liegt nahe, solche gab es in manchen Städten. Den Namen verdankt das Türmle aber vermutlich seinem letzten Bewohner: einem großen Mann mit langem Mantel, tapsig wie ein Bär. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.vaihingen.de/unsere-stadt/stadtteile/horrheim",
+"faktencheck": "unsicher",
+"id": "97-vaihingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Vaihingen an der Enz",
+"steckbrief": "Stadt mit rund 28.600 Einwohnern, 20 km östlich von Pforzheim.",
+"frage": "Zu welchem Landkreis gehört Vaihingen an der Enz?",
+"optionen": [
+"Enzkreis",
+"Landkreis Böblingen",
+"Landkreis Ludwigsburg",
+"Landkreis Karlsruhe"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Pforzheim und der Fluss im Namen lassen an den Enzkreis denken. Vaihingen an der Enz gehört aber zum Landkreis Ludwigsburg. Richtig war 3.",
+"quelle": "GRUNDDATEN, dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "97-vaihingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vaihingen an der Enz",
+"steckbrief": "Stadt mit rund 28.600 Einwohnern, 20 km östlich von Pforzheim; Enzweihingen gehört als Stadtteil dazu.",
+"frage": "Mozart reiste durch Enzweihingen, Schiller rastete dort auf seiner Flucht. Was verbindet Wilhelm Hauff mit dem Ort?",
+"optionen": [
+"Er wurde in Enzweihingen geboren.",
+"Er wirkte dort als Dorfpfarrer.",
+"Er lag dort als Soldat im Quartier.",
+"Er erwarb dort das Bürgerrecht."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Dichter denkt man zuerst an Geburtsort oder Wirkungsstätte, und Hauff hatte Theologie studiert. Doch in Enzweihingen erwarb er das Bürgerrecht, also die volle Zugehörigkeit zur Gemeinde. Mozart und Schiller dagegen waren auf der Durchreise. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.vaihingen.de/unsere-stadt/stadtteile/enzweihingen",
+"faktencheck": "bestätigt",
+"id": "97-vaihingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vaihingen an der Enz",
+"steckbrief": "Stadt mit rund 28.600 Einwohnern, 20 km östlich von Pforzheim; Gündelbach ist einer ihrer Stadtteile.",
+"frage": "Im Oktober 2017 ging in Gündelbach ein Fernwärmenetz in Betrieb. Woraus gewann man die Wärme?",
+"optionen": [
+"Aus Gas einer Deponie mit altem Hausmüll.",
+"Aus Abwärme eines nahen Rechenzentrums.",
+"Aus heißem Wasser einer Tiefenbohrung.",
+"Aus Abwärme eines Industriebetriebs."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Fernwärme, also Heizwärme aus einem Leitungsnetz, kommt oft aus Kraftwerken, Abwärme oder Erdwärme. In Gündelbach stammte sie aber aus Methan, das auf der Deponie Burghof aus altem Hausmüll entsteht; eine Wärmeleitung führt von dort in den Ort. Möglich machten das laut Stadt Bürgerengagement und gute Kooperation. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.vaihingen.de/unsere-stadt/stadtteile/guendelbach",
+"faktencheck": "korrigiert",
+"id": "97-vaihingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Vaihingen an der Enz",
+"steckbrief": "Stadt mit rund 28.600 Einwohnern, 20 km östlich von Pforzheim; Enzweihingen ist einer ihrer Stadtteile.",
+"frage": "Anfang des 16. Jahrhunderts entstand in Enzweihingen eine Posthalterei an der Verbindung Knittlingen–Cannstatt. Wer richtete sie ein?",
+"optionen": [
+"Die Kaufmannsfamilie Fugger richtete sie ein.",
+"Die Mönche des Klosters Maulbronn richteten sie ein.",
+"Die Herren von Taxis richteten sie ein.",
+"Die Kaufmannsfamilie Welser richtete sie ein."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. An einer Posthalterei wechselten Postreiter ihre Pferde. Mächtige Kaufmannshäuser wie Fugger und Welser liegen nahe, sie unterhielten weite Handelsnetze. Eingerichtet haben sie aber die Herren von Taxis. Die Station bestand über Jahrhunderte. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.vaihingen.de/unsere-stadt/stadtteile/enzweihingen",
+"faktencheck": "korrigiert",
+"id": "97-vaihingen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "96-bruchsal",
+"anschluss": [
+"Einwohner: Bruchsal hat deutlich mehr als Vaihingen an der Enz.",
+"Bundestagswahl 2025: Vaihingen hatte eine höhere Wahlbeteiligung als Bruchsal."
+],
+"anschluesse": {
+"98-ludwigsburg": [
+"Ludwigsburg hat fast dreieinhalbmal so viele Einwohner wie Vaihingen an der Enz.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ludwigsburg die Grünen, in Vaihingen an der Enz die AfD."
+],
+"99-pforzheim": [
+"Kreisgrenze: Pforzheim ist kreisfrei, Vaihingen an der Enz gehört zum Landkreis Ludwigsburg.",
+"Bundestagswahl 2025: In Pforzheim lag die AfD vorn, in Vaihingen an der Enz die CDU."
+],
+"100-leonberg": [
+"Kreisgrenze: Leonberg gehört zum Landkreis Böblingen, Vaihingen an der Enz zum Landkreis Ludwigsburg.",
+"Leonberg hat gut anderthalbmal so viele Einwohner wie Vaihingen an der Enz."
+],
+"96-bruchsal": [
+"Einwohner: Bruchsal hat deutlich mehr als Vaihingen an der Enz.",
+"Bundestagswahl 2025: Vaihingen hatte eine höhere Wahlbeteiligung als Bruchsal."
+]
+},
+"ags": "08118073",
+"ortsteil": false,
+"km_vom_vorigen": 34.2
+},
+{
+"slug": "98-ludwigsburg",
+"name": "Ludwigsburg",
+"lat": 48.8975,
+"lon": 9.19194,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ludwigsburg",
+"steckbrief": "Stadt mit rund 93.000 Einwohnern, 13 km nördlich von Stuttgart.",
+"frage": "Ludwigsburg entstand Anfang des 18. Jahrhunderts auf dem Erlachhof. Welchen Anlass nennt die Stadtgeschichte für die Gründung durch Herzog Eberhard Ludwig?",
+"optionen": [
+"Er plante ein Lustschloss für Jagd und Sommeraufenthalt.",
+"Er ließ dort ein Bergwerk anlegen.",
+"Er suchte einen Ort für eine Universität.",
+"Er wollte dort eine Saline errichten."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine neue Stadt klingt nach Gewerbe oder Bildung. Doch Herzog Eberhard Ludwig plante auf dem Erlachhof nur ein Lustschloss zum Jagd- und Sommeraufenthalt; das nennt die Stadtgeschichte als Anlass der Gründung. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.ludwigsburg.de/start/rathaus+und+service/stadtportraet+und+stadtgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "98-ludwigsburg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ludwigsburg",
+"steckbrief": "Stadt mit rund 93.000 Einwohnern, 13 km nördlich von Stuttgart.",
+"frage": "Wie groß ist die Fläche der Gemarkung Ludwigsburg?",
+"optionen": [
+"unter 30 km²",
+"30 bis unter 60 km²",
+"60 bis unter 100 km²",
+"100 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt dieser Größe stellt man sich weitläufig vor. Ludwigsburg ist aber dicht besiedelt: Die Gemarkung misst 43,34 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "98-ludwigsburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Ludwigsburg",
+"steckbrief": "Stadt mit rund 93.000 Einwohnern, 13 km nördlich von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Filmakademie Baden-Württemberg liegt in dieser Stadt.",
+"Das Residenzschloss im Herzen der Stadt ist gotisch.",
+"Grünbühl-Sonnenberg liegt am südlichen Rand der Stadt."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Schloss im Stadtkern weckt Bilder von Mittelalter und Gotik. Das Residenzschloss ist aber ein Barockbau. Die Filmakademie Baden-Württemberg liegt tatsächlich in Ludwigsburg, Grünbühl-Sonnenberg am südlichen Stadtrand. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.ludwigsburg.de/start/rathaus+und+service/stadtportraet+und+stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "98-ludwigsburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ludwigsburg",
+"steckbrief": "Stadt mit rund 93.000 Einwohnern, 13 km nördlich von Stuttgart.",
+"frage": "Wie hoch war die Wahlbeteiligung in Ludwigsburg bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 72 %",
+"72 bis unter 77 %",
+"77 bis unter 81 %",
+"81 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In Städten gehen oft weniger Menschen wählen als auf dem Land, daher liegt eine niedrigere Spanne nahe. In Ludwigsburg lag die Wahlbeteiligung bei der Bundestagswahl 2025 aber bei 82,3 Prozent. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "98-ludwigsburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ludwigsburg",
+"steckbrief": "Stadt mit rund 93.000 Einwohnern, 13 km nördlich von Stuttgart.",
+"frage": "Das Otto-Hahn-Gymnasium in Ludwigsburg hat eine Sportbegabtenklasse. Was ist laut Stadt ihre Besonderheit beim Schulabschluss?",
+"optionen": [
+"Sie haben ein Jahr länger Zeit.",
+"Sie machen den Abschluss ein Jahr früher.",
+"Ihre Sportnoten zählen im Abschluss doppelt.",
+"Sie schreiben zwei Abschlussprüfungen weniger."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Sportförderung klingt nach Vorsprung, etwa einem früheren Abschluss. Die Sportbegabtenklasse am Otto-Hahn-Gymnasium setzt auf Schulzeitstreckung: Die Schülerinnen und Schüler haben ein Jahr länger Zeit für den Schulabschluss. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.ludwigsburg.de/start/kultur+und+freizeit/sport.html",
+"faktencheck": "bestätigt",
+"id": "98-ludwigsburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Ludwigsburg",
+"steckbrief": "Stadt mit rund 93.000 Einwohnern, 13 km nördlich von Stuttgart.",
+"frage": "Zu welchem Landkreis gehört die Stadt Ludwigsburg?",
+"optionen": [
+"Rems-Murr-Kreis",
+"Landkreis Ludwigsburg",
+"Landkreis Böblingen",
+"Landkreis Heilbronn"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt so nah an Stuttgart denkt man an Nachbarkreise wie den Rems-Murr-Kreis oder Böblingen. Ludwigsburg gehört aber zum gleichnamigen Landkreis. Richtig war 2.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "98-ludwigsburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Ludwigsburg",
+"steckbrief": "Stadt mit rund 93.000 Einwohnern, 13 km nördlich von Stuttgart.",
+"frage": "Ludwigsburg nennt sich Sportstadt. Wie viele Menschen sind laut Stadt in ihren Sportvereinen aktiv?",
+"optionen": [
+"unter 10.000",
+"10.000 bis unter 25.000",
+"25.000 bis unter 50.000",
+"50.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Nicht jeder treibt Sport im Verein, deshalb liegt eine kleinere Zahl nahe. In der Sportstadt Ludwigsburg sind aber rund 35.000 Menschen in Sportvereinen aktiv. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.ludwigsburg.de/start/kultur+und+freizeit/sport.html",
+"faktencheck": "korrigiert",
+"id": "98-ludwigsburg/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "97-vaihingen",
+"anschluss": [
+"Fläche: Vaihingen an der Enz ist größer als Ludwigsburg.",
+"Bundestagswahl 2025: Vaihingen an der Enz wählte eifriger als Ludwigsburg."
+],
+"anschluesse": {
+"97-vaihingen": [
+"Fläche: Vaihingen an der Enz ist größer als Ludwigsburg.",
+"Bundestagswahl 2025: Vaihingen an der Enz wählte eifriger als Ludwigsburg."
+],
+"100-leonberg": [
+"Kreisgrenze: Leonberg gehört zum Landkreis Böblingen, Ludwigsburg zum Landkreis Ludwigsburg.",
+"Ludwigsburg hat fast doppelt so viele Einwohner wie Leonberg."
+],
+"101-stuttgart": [
+"Kreisgrenze: Stuttgart ist kreisfrei, Ludwigsburg gehört zum Landkreis Ludwigsburg.",
+"Stuttgart hat fast siebenmal so viele Einwohner wie Ludwigsburg."
+],
+"102-esslingen": [
+"Kreisgrenze: Esslingen am Neckar gehört zum Landkreis Esslingen, Ludwigsburg zum Landkreis Ludwigsburg.",
+"Esslingen am Neckar und Ludwigsburg sind fast gleich groß: rund 95.000 und 93.000 Einwohner."
+]
+},
+"ags": "08118048",
+"ortsteil": false,
+"km_vom_vorigen": 17.7
+},
+{
+"slug": "99-pforzheim",
+"name": "Pforzheim",
+"lat": 48.89088,
+"lon": 8.70295,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Pforzheim",
+"steckbrief": "Großstadt mit rund 134.000 Einwohnern, 37 km Luftlinie von Stuttgart.",
+"frage": "Was gilt heute als Grundstein der Pforzheimer Schmuck- und Uhrenindustrie?",
+"optionen": [
+"Die Münzstätte des Markgrafen.",
+"Eine Goldschmiede am Hof.",
+"Eine Werkstatt für Kirchensilber.",
+"Ein Waisenhaus."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Goldschmiede am Hof klingt nach dem natürlichen Anfang einer Schmuckstadt. Als Grundstein gilt aber ein Waisenhaus im ehemaligen Dominikanerinnenkloster, amtlich „Waisen-, Toll-, Kranken-, Zucht- und Arbeitshaus“. Unter Markgraf Karl-Friedrich kam eine Uhrenfabrik hinzu, später die Schmuckwaren. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.pforzheim.de/kultur/stadtgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "99-pforzheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Pforzheim",
+"steckbrief": "Großstadt mit rund 134.000 Einwohnern, 37 km Luftlinie von Stuttgart.",
+"frage": "Wie viele Einwohner kommen in Pforzheim im Schnitt auf einen Quadratkilometer?",
+"optionen": [
+"unter 1.500",
+"1.500 bis unter 2.000",
+"2.000 bis unter 3.000",
+"3.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Großstadt erwartet man dichte Bebauung. Doch seit der Gebietsreform gehören auch Würm, Hohenwart, Büchenbronn, Huchenfeld und Eutingen samt ihrer Fläche zu Pforzheim. So kommen nur 1.371 Einwohner auf einen Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "99-pforzheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Pforzheim",
+"steckbrief": "Großstadt mit rund 134.000 Einwohnern, 37 km Luftlinie von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Matthäuskirche hat farbige Wabensteine aus Trümmersplitt.",
+"Die Auferstehungskirche entstand nach dem Krieg als Notkirche.",
+"Das Reuchlinhaus ist das Geburtshaus Johannes Reuchlins."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name legt nahe, dass Reuchlin hier zur Welt kam. Doch das Reuchlinhaus ist ein Neubau von Manfred Lehmbruck, Bauhaus-Schüler und Sohn Wilhelm Lehmbrucks. Die beiden Kirchen erzählen dagegen wirklich vom Wiederaufbau: Wabensteine aus Trümmersplitt, also zerkleinertem Kriegsschutt, und eine Notkirche. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.pforzheim.de/stadt/stadtgeschichte/architektur-denkmalpflege.html und www.pforzheim.de/kultur/digitale-angebote/denkmal-digital.html",
+"faktencheck": "korrigiert",
+"id": "99-pforzheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Pforzheim",
+"steckbrief": "Großstadt mit rund 134.000 Einwohnern, 37 km Luftlinie von Stuttgart.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei bei der Bundestagswahl 2025 in Pforzheim?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 25 %",
+"25 bis unter 30 %",
+"30 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wo viele Parteien Stimmen holen, bleibt für die Spitze oft wenig übrig. In Pforzheim wurde aber die AfD stärkste Partei, mit 29,3 Prozent knapp vor der CDU. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "99-pforzheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Pforzheim",
+"steckbrief": "Großstadt mit rund 134.000 Einwohnern, 37 km Luftlinie von Stuttgart.",
+"frage": "Um 1725 kam es in Pforzheim zum sogenannten „Weiberkrawall“. Worum ging es laut Stadtchronik?",
+"optionen": [
+"Es ging um ein Tanzverbot an Sonntagen.",
+"Es ging um einen abgesetzten Stadtpfarrer.",
+"Es ging um eine verbotene Hochzeit.",
+"Es ging um Steuerforderungen des Markgrafen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem „Weiberkrawall“ denkt man an Ärger um Alltagsdinge wie Verbote oder den Pfarrer. Die Stadtchronik ordnet den Tumult anders ein: Er gehörte zum Pforzheimer Privilegienstreit, dem Widerstand gegen Steuerforderungen des badischen Markgrafen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html",
+"faktencheck": "unsicher",
+"id": "99-pforzheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Pforzheim",
+"steckbrief": "Großstadt mit rund 134.000 Einwohnern, 37 km Luftlinie von Stuttgart.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Pforzheim?",
+"optionen": [
+"PF",
+"KA",
+"CW",
+"LB"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Oft verbirgt sich hinter einem Kennzeichen ein anderer Ort, etwa der Sitz eines Landkreises. Bei Pforzheim nicht: Die meisten Autos tragen PF, die Buchstaben der Stadt selbst. Wer CW, KA oder LB tippte, suchte einen Haken, wo keiner ist. Richtig war 1.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "99-pforzheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Pforzheim",
+"steckbrief": "Großstadt mit rund 134.000 Einwohnern, 37 km Luftlinie von Stuttgart.",
+"frage": "Am 23. Februar 1945 zerstörte ein Luftangriff die Pforzheimer Innenstadt. Wie lange dauerte der Angriff?",
+"optionen": [
+"Der Angriff dauerte rund fünf Minuten.",
+"Der Angriff dauerte rund 20 Minuten.",
+"Der Angriff dauerte rund zwei Stunden.",
+"Der Angriff dauerte rund sechs Stunden."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine so vollständige Zerstörung stellt man sich als stundenlanges Bombardement vor. Doch der Angriff dauerte nur rund 20 Minuten; Bombenhagel und Feuersturm zerstörten die Innenstadt komplett. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.pforzheim.de/kultur/stadtgeschichte.html und www.pforzheim.de/stadt/stadtgeschichte/architektur-denkmalpflege.html",
+"faktencheck": "korrigiert",
+"id": "99-pforzheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Pforzheim",
+"steckbrief": "Großstadt mit rund 134.000 Einwohnern, 37 km Luftlinie von Stuttgart.",
+"frage": "Am 10. Juli 1968 wurden weite Teile der Pforzheimer Innenstadt verwüstet. Was war geschehen?",
+"optionen": [
+"Ein Erdbeben erschütterte die Stadt.",
+"Ein Blindgänger aus dem Krieg explodierte.",
+"Ein Tornado zog über die Stadt.",
+"Ein Munitionslager am Stadtrand flog in die Luft."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Pforzheim denkt man schnell an Altlasten aus dem Krieg, und Tornados verbindet man eher mit Amerika. Doch an jenem Abend fegte tatsächlich ein Tornado durch die Stadt und verwüstete weite Teile der Innenstadt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html",
+"faktencheck": "bestätigt",
+"id": "99-pforzheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Pforzheim",
+"steckbrief": "Großstadt mit rund 134.000 Einwohnern, 37 km Luftlinie von Stuttgart.",
+"frage": "1511 veröffentlichte der Pforzheimer Humanist Johannes Reuchlin eine Schrift namens „Augenspiegel“. Was war das?",
+"optionen": [
+"Sie verteidigte jüdische Bücher gegen ihre Verbrennung.",
+"Sie beschrieb ein Gerät zur Augenuntersuchung.",
+"Sie war ein Tugendratgeber für junge Fürsten.",
+"Sie war eine Sammlung von Bußpredigten."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Titel klingt nach Augenheilkunde oder nach einem Fürstenspiegel, einem Ratgeber für Herrscher. Tatsächlich war der „Augenspiegel“ ein Gutachten gegen die Verbrennung jüdischer Bücher. Reuchlin setzte sich für den Erhalt des jüdischen Schrifttums ein; später verurteilte ihn die Kirche zu ewigem Stillschweigen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.pforzheim.de/stadt/stadtgeschichte/johannes-reuchlin.html",
+"faktencheck": "bestätigt",
+"id": "99-pforzheim/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "98-ludwigsburg",
+"anschluss": [
+"Wahlbeteiligung Bundestagswahl 2025: Ludwigsburg 82,3 Prozent, Pforzheim 75,7 Prozent.",
+"Einwohner: Pforzheim hat rund 134.000, Ludwigsburg rund 93.000."
+],
+"anschluesse": {
+"97-vaihingen": [
+"Kreisgrenze: Vaihingen an der Enz gehört zum Landkreis Ludwigsburg, Pforzheim ist kreisfrei.",
+"Bundestagswahl 2025: In Vaihingen an der Enz lag die CDU vorn, in Pforzheim die AfD."
+],
+"98-ludwigsburg": [
+"Wahlbeteiligung Bundestagswahl 2025: Ludwigsburg 82,3 Prozent, Pforzheim 75,7 Prozent.",
+"Einwohner: Pforzheim hat rund 134.000, Ludwigsburg rund 93.000."
+]
+},
+"ags": "08231000",
+"ortsteil": false,
+"km_vom_vorigen": 35.8
+},
+{
+"slug": "100-leonberg",
+"name": "Leonberg",
+"lat": 48.80139,
+"lon": 9.01306,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leonberg",
+"steckbrief": "Stadt mit rund 49.500 Einwohnern, 12 km westlich von Stuttgart.",
+"frage": "Der Leonberger Hund ist international verbreitet. Aus welchen Rassen kreuzte ihn sein Züchter Heinrich Essig?",
+"optionen": [
+"Er kreuzte Deutsche Dogge, Schäferhund und Wolf.",
+"Er kreuzte Hovawart, Berner Sennenhund und Spitz.",
+"Er kreuzte Bernhardiner, Neufundländer und Pyrenäen-Wolfshund.",
+"Er kreuzte Mastiff, Bloodhound und Kuvasz."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer den großen, zotteligen Hund sieht, vermutet leicht wilde Vorfahren wie den Wolf. Heinrich Essig, der auch im Leonberger Stadtrat saß, kreuzte aber Bernhardiner, Neufundländer und Pyrenäen-Wolfshund. Das Ergebnis gilt als kinderlieb. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/",
+"faktencheck": "bestätigt",
+"id": "100-leonberg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Leonberg",
+"steckbrief": "Stadt mit rund 49.500 Einwohnern, 12 km westlich von Stuttgart.",
+"frage": "Wie viele Einwohner leben in Leonberg durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 300",
+"300 bis unter 600",
+"600 bis unter 900",
+"900 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer vor den Toren Stuttgarts an Wald und Felder denkt, schätzt eher niedrig. Doch 49.514 Menschen teilen sich 48,73 Quadratkilometer, das sind 1.016 je Quadratkilometer. Richtig war 4.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "100-leonberg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Leonberg",
+"steckbrief": "Stadt mit rund 49.500 Einwohnern, 12 km westlich von Stuttgart.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Johannes Kepler wurde in Leonberg geboren.",
+"Friedrich Schelling wurde in Leonberg geboren.",
+"Schillers Mutter lebte im Leonberger Schloss."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Kepler wuchs in Leonberg auf und besuchte dort die Lateinschule, daher klingt die Aussage glaubhaft. Geboren wurde er aber in Weil der Stadt und kam erst als Kind nach Leonberg. Schelling dagegen kam in Leonberg zur Welt, und Schillers Mutter wohnte einige Jahre im Schloss. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/",
+"faktencheck": "bestätigt",
+"id": "100-leonberg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Leonberg",
+"steckbrief": "Stadt mit rund 49.500 Einwohnern, 12 km westlich von Stuttgart.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in Leonberg: Die CDU wurde stärkste Partei. Welche Partei kam auf Platz zwei?",
+"optionen": [
+"AfD",
+"Grüne",
+"SPD",
+"FDP"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit wurde die AfD zweitstärkste Kraft, daher liegt sie als Tipp nahe. In Leonberg war es hauchdünn: Die Grünen holten 15,5 Prozent, die AfD 15,3 und die SPD 15 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "100-leonberg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leonberg",
+"steckbrief": "Stadt mit rund 49.500 Einwohnern, 12 km westlich von Stuttgart.",
+"frage": "Christian Wagner aus Warmbronn, heute Stadtteil von Leonberg, war Dichter und Bauer. Wer gab 1913 einen Sammelband von ihm heraus?",
+"optionen": [
+"Eduard Mörike gab den Band heraus.",
+"Thomas Mann gab den Band heraus.",
+"Hermann Hesse gab den Band heraus.",
+"Rainer Maria Rilke gab den Band heraus."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Thomas Mann liegt nahe, denn der Band erschien in München, wo Mann lebte. Herausgeber war aber Hermann Hesse. Mörike scheidet aus, er war damals längst tot. Wagner, Sohn eines Schreiners, arbeitete als Taglöhner und Waldarbeiter. Sein Leitgedanke: möglichste Schonung alles Lebendigen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/",
+"faktencheck": "bestätigt",
+"id": "100-leonberg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Leonberg",
+"steckbrief": "Stadt mit rund 49.500 Einwohnern, 12 km westlich von Stuttgart.",
+"frage": "Leonberg pflegt eine Städtepartnerschaft mit einer französischen Stadt. Mit welcher?",
+"optionen": [
+"Montbéliard",
+"Colmar",
+"Mulhouse",
+"Belfort"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Montbéliard liegt nahe: Als Mömpelgard gehörte es lange zu Württemberg, und Sybilla von Anhalt, die ihren Witwensitz im Leonberger Schloss hatte, trug den Titel Gräfin von Mömpelgard. Leonbergs Partnerin ist aber das benachbarte Belfort. Richtig war 4.",
+"quelle": "GRUNDDATEN, Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "100-leonberg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leonberg",
+"steckbrief": "Stadt mit rund 49.500 Einwohnern, 12 km westlich von Stuttgart.",
+"frage": "Katharina Kepler aus Eltingen lebte ab 1575 in Leonberg. 1615 geriet sie unter Hexenverdacht. Wie ging die Sache aus?",
+"optionen": [
+"Sie wurde nach langer Haft freigesprochen.",
+"Sie wurde verurteilt und als Hexe verbrannt.",
+"Sie starb im Gefängnis vor dem Urteil.",
+"Sie wurde zu öffentlicher Kirchenbuße verurteilt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei Hexenprozessen denkt man zuerst an den Scheiterhaufen, viele endeten so. Katharina Kepler saß zwar lange in Haft, wurde aber freigesprochen. Sie starb wenig später. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Leonbergs/ und www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/",
+"faktencheck": "korrigiert",
+"id": "100-leonberg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leonberg",
+"steckbrief": "Stadt mit rund 49.500 Einwohnern, 12 km westlich von Stuttgart.",
+"frage": "Die Leonberger Bausparkasse machte den Namen der Stadt in ganz Deutschland bekannt. Wer stand hinter ihren Anfängen?",
+"optionen": [
+"Die Stadt gründete sie als kommunale Sparkasse.",
+"Ein Missionar gründete zuerst einen christlichen Notbund.",
+"Ein Bankier verlegte sein Geldhaus nach Leonberg.",
+"Ein Fabrikant gründete sie für seine Arbeiter."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Bausparkasse denkt man an Bankleute oder die Stadt. Am Anfang stand aber der Missionar Christian Röckle aus Eltingen mit dem Verein „Christlicher Notbund zur gegenseitigen Hilfe“, gegen die Wohnungsnot. Bald nach Gründung der Bausparkasse schied er im Zwiespalt zwischen Evangelisation und Unternehmertum aus dem Vorstand aus. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Leonbergs/ und www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/",
+"faktencheck": "korrigiert",
+"id": "100-leonberg/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leonberg",
+"steckbrief": "Stadt mit rund 49.500 Einwohnern, 12 km westlich von Stuttgart.",
+"frage": "Von 1944 bis 1945 bestand in Leonberg ein KZ-Außenlager. Welchem Hauptlager war es unterstellt?",
+"optionen": [
+"Es gehörte zum KZ Dachau.",
+"Es gehörte zum KZ Buchenwald.",
+"Es gehörte zum KZ Natzweiler.",
+"Es gehörte zum KZ Flossenbürg."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Süden denkt man zuerst an Dachau. Leonberg war aber ein Außenlager des KZ Natzweiler im Elsass. Häftlinge aus ganz Europa mussten im Engelbergtunnel, einem Autobahntunnel, Tragflächen und Fahrwerke für das Flugzeug ME 262 montieren. Ein Gedenkpfad erinnert heute an sie. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Leonbergs/ und www.leonberg.de/Kultur-Sport-Tourismus/Tourismus/Sehenswertes/Geschichtliche-Rundgänge/",
+"faktencheck": "korrigiert",
+"id": "100-leonberg/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Leonberg",
+"steckbrief": "Stadt mit rund 49.500 Einwohnern, 12 km westlich von Stuttgart.",
+"frage": "1514 war Leonberg ein Brennpunkt des Aufstands „Armer Konrad“. Wie endete die Sache für die Leonberger?",
+"optionen": [
+"Der Herzog machte ihnen Zugeständnisse.",
+"Truppen schlugen den Aufstand dort blutig nieder.",
+"Der Herzog wies alle ihre Forderungen ab.",
+"Die Aufständischen gaben ohne jedes Ergebnis auf."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Aufstand gegen eine Steuererhöhung ist für sein blutiges Ende bekannt, und in Schorndorf kam es auch so. Leonberg dagegen konnte Herzog Ulrich Zugeständnisse abringen. Auf sie beriefen sich danach andere Gemeinden im Land bei ihren Verhandlungen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Leonbergs/",
+"faktencheck": "korrigiert",
+"id": "100-leonberg/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "99-pforzheim",
+"anschluss": [
+"Leonbergs Pferdemarkt sollte dem Pforzheimer Pferdemarkt Konkurrenz machen.",
+"Bundestagswahl 2025: Stärkste Partei in Pforzheim AfD, in Leonberg CDU."
+],
+"anschluesse": {
+"97-vaihingen": [
+"Kreisgrenze: Vaihingen an der Enz gehört zum Landkreis Ludwigsburg, Leonberg zum Landkreis Böblingen.",
+"Leonberg hat gut anderthalbmal so viele Einwohner wie Vaihingen an der Enz."
+],
+"98-ludwigsburg": [
+"Kreisgrenze: Ludwigsburg gehört zum Landkreis Ludwigsburg, Leonberg zum Landkreis Böblingen.",
+"Ludwigsburg hat fast doppelt so viele Einwohner wie Leonberg."
+],
+"101-stuttgart": [
+"Kreisgrenze: Stuttgart ist kreisfrei, Leonberg gehört zum Landkreis Böblingen.",
+"Stuttgart hat zwölfmal so viele Einwohner wie Leonberg."
+],
+"99-pforzheim": [
+"Leonbergs Pferdemarkt sollte dem Pforzheimer Pferdemarkt Konkurrenz machen.",
+"Bundestagswahl 2025: Stärkste Partei in Pforzheim AfD, in Leonberg CDU."
+]
+},
+"ags": "08115028",
+"ortsteil": false,
+"km_vom_vorigen": 24.8
+},
+{
 "slug": "101-stuttgart",
 "name": "Stuttgart",
 "lat": 48.7775,
@@ -26146,9 +27197,20 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "58-landau",
-"anschluss": [],
+"anschluss_von": "100-leonberg",
+"anschluss": [
+"Höhenlage: Leonberg liegt mehr als 100 Meter höher als Stuttgart.",
+"Bundestagswahl 2025: Grüne in Stuttgart 21,7, in Leonberg 15,5 Prozent."
+],
 "anschluesse": {
+"98-ludwigsburg": [
+"Kreisgrenze: Ludwigsburg gehört zum Landkreis Ludwigsburg, Stuttgart ist kreisfrei.",
+"Stuttgart hat fast siebenmal so viele Einwohner wie Ludwigsburg."
+],
+"100-leonberg": [
+"Höhenlage: Leonberg liegt mehr als 100 Meter höher als Stuttgart.",
+"Bundestagswahl 2025: Grüne in Stuttgart 21,7, in Leonberg 15,5 Prozent."
+],
 "102-esslingen": [
 "Kreisgrenze: Esslingen am Neckar gehört zum Landkreis Esslingen, Stuttgart ist kreisfrei.",
 "Stuttgart hat gut sechsmal so viele Einwohner wie Esslingen am Neckar."
@@ -26160,7 +27222,7 @@ window.QA_DATEN = {
 },
 "ags": "08111000",
 "ortsteil": false,
-"km_vom_vorigen": 90.3
+"km_vom_vorigen": 12.5
 },
 {
 "slug": "102-esslingen",
@@ -26374,6 +27436,10 @@ window.QA_DATEN = {
 "Einwohner: Stuttgart hat gut sechsmal so viele wie Esslingen."
 ],
 "anschluesse": {
+"98-ludwigsburg": [
+"Kreisgrenze: Ludwigsburg gehört zum Landkreis Ludwigsburg, Esslingen am Neckar zum Landkreis Esslingen.",
+"Ludwigsburg und Esslingen am Neckar sind fast gleich groß: rund 93.000 und 95.000 Einwohner."
+],
 "101-stuttgart": [
 "Kennzeichen: In Stuttgart steht S am Auto, in Esslingen ES.",
 "Einwohner: Stuttgart hat gut sechsmal so viele wie Esslingen."
@@ -28988,6 +30054,637 @@ window.QA_DATEN = {
 "km_vom_vorigen": 20.4
 },
 {
+"slug": "116-engen",
+"name": "Engen",
+"lat": 47.85278,
+"lon": 8.77139,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Engen",
+"steckbrief": "Engen hat gut 11.000 Einwohner und liegt 70 km östlich von Freiburg im Breisgau.",
+"frage": "Die etwa 14.000 Jahre alte Venus von Engen ist eine kleine Frauenstatuette. Woraus besteht sie?",
+"optionen": [
+"Sie besteht aus Mammutelfenbein.",
+"Sie besteht aus gebranntem Ton.",
+"Sie besteht aus Gagat.",
+"Sie besteht aus Rentiergeweih."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Elfenbein liegt nahe, denn bekannte Eiszeitfiguren von der Schwäbischen Alb sind daraus geschnitzt. Die Venus von Engen, eine kleine abstrahierte Frauenstatuette, besteht aber aus Gagat, auch Jett genannt: einer tiefschwarzen, polierbaren Kohle. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.engen.de/leben+in+engen/unsere+stadt/geschichte",
+"faktencheck": "bestätigt",
+"id": "116-engen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Engen",
+"steckbrief": "Engen ist eine Stadt im Landkreis Konstanz, 70 km östlich von Freiburg im Breisgau, und hat zwei Bahnhöfe.",
+"frage": "Wie viele Einwohner hat die Stadt Engen samt ihren Stadtteilen?",
+"optionen": [
+"unter 4.000",
+"4.000 bis unter 7.000",
+"7.000 bis unter 10.000",
+"10.000 bis unter 13.000"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer nur an die Altstadt denkt, schätzt leicht zu niedrig. Doch zur Stadt gehören auch Dörfer wie Welschingen, Anselfingen und Neuhausen. Engen hatte am 31.12.2025 genau 11.351 Einwohner. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "116-engen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Engen",
+"steckbrief": "Engen hat gut 11.000 Einwohner und liegt 70 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bei Engen rasteten einst Rentierjäger in Höhlen.",
+"Große Stadtbrände haben Engens Altstadt stets verschont.",
+"Zimmerholzer Gestein wurde bis nach Amsterdam verschickt."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Altstadt wirkt heute geschlossen mittelalterlich, da liegt nahe, dass sie nie abbrannte. Doch Brände zerstörten große Teile der Altstadt. Wahr ist: In der Petersfels-Höhle rasteten Rentierjäger, und Zimmerholzer Muschelkalk ging bis Hamburg und Amsterdam. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.engen.de/leben+in+engen/unsere+stadt/geschichte und www.engen.de/leben+in+engen/unsere+stadt/stadtteile",
+"faktencheck": "korrigiert",
+"id": "116-engen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Engen",
+"steckbrief": "Engen hat gut 11.000 Einwohner und liegt 70 km östlich von Freiburg im Breisgau.",
+"frage": "Wie hoch war in Engen die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 76 %",
+"76 bis unter 83 %",
+"83 bis unter 88 %",
+"88 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an niedrige Beteiligung bei früheren Wahlen denkt, tippt leicht zu tief. Doch die vorgezogene Bundestagswahl 2025 mobilisierte viele Wählerinnen und Wähler, auch in Engen: die Wahlbeteiligung lag bei 82,2 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "116-engen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Engen",
+"steckbrief": "Engen hat gut 11.000 Einwohner und liegt 70 km östlich von Freiburg im Breisgau.",
+"frage": "Das Kloster St. Wolfgang in Engen wurde 1802 aufgehoben. Wozu baute man 1841 seine Kirche um?",
+"optionen": [
+"Sie wurde zu einer Brauerei umgebaut.",
+"Sie wurde zu einem Festsaal umgebaut.",
+"Sie wurde zu einem Gefängnis umgebaut.",
+"Sie wurde zur städtischen Markthalle umgebaut."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Festsaal liegt nahe, denn eine Kirche bietet einen großen, hohen Raum. Doch ins ehemalige Kloster zogen eine Schule und das badische Bezirksamt, und die Kirche wurde in kleine Zellen aufgeteilt: ein Gefängnis. Heute ist dort das Städtische Museum Engen + Galerie. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.engen.de/tourismus+_+kultur/kunst+_+kultur/staedtisches+museum+engen+_+galerie",
+"faktencheck": "bestätigt",
+"id": "116-engen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Engen",
+"steckbrief": "Engen hat gut 11.000 Einwohner und liegt 70 km östlich von Freiburg im Breisgau.",
+"frage": "Wie weit ist Engen in Luftlinie von Stuttgart entfernt, der Landeshauptstadt?",
+"optionen": [
+"unter 60 km",
+"60 bis unter 80 km",
+"80 bis unter 100 km",
+"100 bis unter 130 km"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die A81 verbindet Stuttgart direkt mit Engen, das klingt nach einem kurzen Weg. Doch Engen liegt weit im Süden des Landes: Bis Stuttgart sind es 108 km Luftlinie, deutlich mehr als nach Freiburg im Breisgau. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "116-engen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "„Die Burg Hohenhewen auf dem Berg über dem Engener Stadtteil Anselfingen wurde 1639 zerstört. Von wem?“ (Optionen 1–4 bleiben.) RÜCKSEITE: „Du hattest [Option] getippt. Schweden liegen nahe, denn schwedische Heere zogen im Dreißigjährigen Krieg durch Süddeutschland. Doch die Burg Hohenhewen zerstörten kaiserlich-bayerische Truppen, also Soldaten der kaiserlichen Seite. Reste der Burg sind noch vorhanden. Richtig war 1.“",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Schweden liegen nahe, denn schwedische Heere zogen im Dreißigjährigen Krieg durch Süddeutschland. Doch die Burg Anselfingen zerstörten kaiserlich-bayerische Truppen, also Soldaten der kaiserlichen Seite. Reste der Burg sind noch vorhanden. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.engen.de/leben+in+engen/unsere+stadt/stadtteile",
+"faktencheck": "korrigiert",
+"id": "116-engen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Engen",
+"steckbrief": "Engen hat gut 11.000 Einwohner und liegt 70 km östlich von Freiburg im Breisgau.",
+"frage": "Welschingen, heute Stadtteil von Engen, ist seit 752 urkundlich belegt. Wo wird der Ort erstmals genannt?",
+"optionen": [
+"Eine Schenkung an Kloster Reichenau nennt ihn.",
+"Eine Schenkung an Kloster St. Gallen nennt ihn.",
+"Eine Schenkung an Kloster Fulda nennt ihn.",
+"Eine Schenkung an Kloster Murbach nennt ihn."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Reichenau liegt nahe, denn das Inselkloster im Bodensee ist nicht weit von Engen entfernt. Doch Welschingen taucht zuerst in einer Schenkungsurkunde an das Kloster St. Gallen auf. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.engen.de/leben+in+engen/unsere+stadt/stadtteile",
+"faktencheck": "bestätigt",
+"id": "116-engen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Engen",
+"steckbrief": "Engen hat gut 11.000 Einwohner und liegt 70 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bei Engen fand man keine Spuren der Römer.",
+"Bei Stetten verläuft die europäische Rhein-Donau-Wasserscheide.",
+"Im Stadtteil Biesendorf wurde einst nach Erz gegraben."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Wasserscheide klingt nach Erfindung, und Erzgruben erwartet man eher im Gebirge. Beides stimmt. Gelogen ist das Fehlen der Römer: In der Nähe des Stadtteils Bargen fand man eine römische Villa. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.engen.de/leben+in+engen/unsere+stadt/stadtteile",
+"faktencheck": "bestätigt",
+"id": "116-engen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "115-muenchen",
+"anschluss": [
+"Höhe: Engen und München liegen beide gut 500 Meter hoch.",
+"Bundestagswahl 2025: Die FDP lag in Engen und München gleichauf."
+],
+"anschluesse": {
+"117-singen": [
+"Bundestagswahl 2025: In Singen lag die AfD vorn, in Engen die CDU.",
+"Singen hat gut viermal so viele Einwohner wie Engen."
+],
+"118-stockach": [
+"Stockach hat gut anderthalbmal so viele Einwohner wie Engen."
+],
+"115-muenchen": [
+"Höhe: Engen und München liegen beide gut 500 Meter hoch.",
+"Bundestagswahl 2025: Die FDP lag in Engen und München gleichauf."
+]
+},
+"ags": "08335022",
+"ortsteil": false,
+"km_vom_vorigen": 211.0
+},
+{
+"slug": "117-singen",
+"name": "Singen",
+"lat": 47.76278,
+"lon": 8.84,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Singen",
+"steckbrief": "Stadt im Landkreis Konstanz mit rund 48.000 Einwohnern, 78 km östlich von Freiburg im Breisgau.",
+"frage": "Singen wurde im Zweiten Weltkrieg zwar bombardiert, aber vergleichsweise verschont. Welchen Grund nennt die Stadtgeschichte dafür?",
+"optionen": [
+"Die Bahnlinien führten an Singen vorbei.",
+"In Singen saßen Schweizer Unternehmen.",
+"Ein großes Lazarett stand unter Rotkreuzschutz.",
+"Tarnanstriche ließen die Stadt wie Wald aussehen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Lazarett liegt nahe, denn Rotkreuzzeichen sollten Angriffe abhalten. Die Stadtgeschichte nennt aber die in Singen ansässigen Schweizer Unternehmen als Grund. Getroffen wurden trotzdem die Gegend um den Bahnhof und Gebäude entlang der Hauptstraße. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.singen.de/informieren/unsere_stadt/stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "117-singen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Singen",
+"steckbrief": "Stadt im Landkreis Konstanz mit rund 48.000 Einwohnern, 78 km östlich von Freiburg im Breisgau.",
+"frage": "Wie groß ist die Fläche der Stadt Singen?",
+"optionen": [
+"unter 25 km²",
+"25 bis unter 45 km²",
+"45 bis unter 75 km²",
+"75 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an eine dicht bebaute Industriestadt denkt, schätzt eher klein. Doch seit den Eingemeindungen gehören Dörfer wie Bohlingen und Friedingen dazu, und Felder und Wald nehmen einen großen Teil der Fläche ein: Singen misst 61,77 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "117-singen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Singen",
+"steckbrief": "Stadt im Landkreis Konstanz mit rund 48.000 Einwohnern, 78 km östlich von Freiburg im Breisgau.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Eine Spinnerei versorgte die Gemeinde einst mit Strom.",
+"Die Theresienkapelle wurde einst in einem Kriegsgefangenenlager geweiht.",
+"Maggi-Gründer Julius Maggi war ein französischer Unternehmer."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Strom aus einer Spinnerei klingt erfunden, stimmt aber: Trötschler versorgte die Gemeinde per Konzessionsvertrag. Auch die Theresienkapelle wurde im Kriegsgefangenenlager an der Fittingstraße geweiht. Gelogen war Frankreich: Julius Maggi war Schweizer Unternehmer, seine Firma kam zuerst als Versandstelle nach Singen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.singen.de/informieren/unsere_stadt/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "117-singen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Singen",
+"steckbrief": "Stadt im Landkreis Konstanz mit rund 48.000 Einwohnern, 78 km östlich von Freiburg im Breisgau.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Singen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 30 %",
+"30 bis unter 34 %",
+"34 bis unter 38 %",
+"38 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend ist ein klarer CDU-Sieg, denn Baden-Württemberg galt lange als CDU-Land. In Singen lag es aber eng: Die AfD wurde mit 28,6 Prozent knapp stärkste Partei, vor der CDU mit 28,4 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "117-singen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Singen",
+"steckbrief": "Stadt im Landkreis Konstanz mit rund 48.000 Einwohnern, 78 km östlich von Freiburg im Breisgau.",
+"frage": "Der Hohentwiel steckt sogar im Namen „Singen am Hohentwiel“. Seit wann gehört er zur Stadt?",
+"optionen": [
+"Er kam 1899 mit den Stadtrechten dazu.",
+"Er wurde 1969 nach Singen eingemeindet.",
+"Er kam 1975 mit Bohlingen dazu.",
+"Er gehört schon seit 1806 dazu."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Weil der Hohentwiel im Namen „Singen am Hohentwiel“ steckt, liegt nahe, dass er immer zu Singen gehörte. Tatsächlich wurde er erst 1969 eingemeindet, kurz vor Dörfern wie Friedingen und Bohlingen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.singen.de/informieren/unsere_stadt/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "117-singen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Singen",
+"steckbrief": "Stadt im Landkreis Konstanz mit rund 48.000 Einwohnern, 78 km östlich von Freiburg im Breisgau.",
+"frage": "Wie weit liegt Singen in Luftlinie von der Landeshauptstadt Stuttgart entfernt?",
+"optionen": [
+"unter 60 km",
+"60 bis unter 90 km",
+"90 bis unter 130 km",
+"130 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die A81 führt von Stuttgart über Singen Richtung Zürich, das lässt die Landeshauptstadt nah wirken. In Luftlinie liegen aber 116 Kilometer zwischen Singen und Stuttgart, deutlich mehr als bis Freiburg im Breisgau. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "117-singen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Singen",
+"steckbrief": "Stadt im Landkreis Konstanz mit rund 48.000 Einwohnern, 78 km östlich von Freiburg im Breisgau.",
+"frage": "Im Mai 1977 wurden in Singen die RAF-Mitglieder Verena Becker und Günter Sonnenberg festgenommen. Wie kam es dazu?",
+"optionen": [
+"Sie stellten sich freiwillig der Polizei in Singen.",
+"Ein Spezialkommando stürmte ihre Wohnung in Singen.",
+"Sie wurden beim Grenzübertritt ohne Gegenwehr gefasst.",
+"Eine Personenkontrolle endete in einem Schusswechsel."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei RAF-Festnahmen denkt man an gezielte Zugriffe von Spezialkräften. In Singen begann es mit einer Personenkontrolle, die in einen Schusswechsel mündete. Danach wurden Verena Becker und Günter Sonnenberg verhaftet. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.singen.de/informieren/unsere_stadt/stadtgeschichte",
+"faktencheck": "bestätigt",
+"id": "117-singen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Singen",
+"steckbrief": "Stadt im Landkreis Konstanz mit rund 48.000 Einwohnern, 78 km östlich von Freiburg im Breisgau.",
+"frage": "Überlingen am Ried, heute ein Stadtteil Singens, gab 1525 der Stadt Radolfzell zwei Wälder. Warum?",
+"optionen": [
+"Radolfzell hatte die Wälder dem Dorf abgekauft.",
+"Die Wälder waren Mitgift bei einer Adelshochzeit.",
+"Das Dorf entschädigte Radolfzell für seine Bauernkriegsteilnahme.",
+"Das Dorf dankte für Hilfe nach einem Großbrand."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Waldkauf läge nahe, denn Städte erwarben oft Land im Umland. Doch Überlingen am Ried hatte sich im Bauernkrieg an der Belagerung Radolfzells beteiligt und entschädigte die Stadt mit den Wäldern Raitholz und Schachenwald. Später ging das ganze Dorf endgültig in den Besitz Radolfzells über. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.singen.de/informieren/ortsteile/ueberlingen+am+ried",
+"faktencheck": "korrigiert",
+"id": "117-singen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Singen",
+"steckbrief": "Stadt im Landkreis Konstanz mit rund 48.000 Einwohnern, 78 km östlich von Freiburg im Breisgau.",
+"frage": "Das Schlössle Meldegg steht im Singener Stadtteil Beuren an der Aach. Was ist an seiner Lage besonders?",
+"optionen": [
+"Es steht auf einer künstlichen Insel.",
+"Es steht auf einem erloschenen Vulkankegel.",
+"Es steht genau auf der Schweizer Grenze.",
+"Es steht in einem aufgelassenen Steinbruch."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Vulkankegel läge nahe, denn Burgen und Schlösser stehen oft auf Bergen. Das Schlössle Meldegg steht aber auf einer künstlichen Insel in der Aach und ist denkmalgeschützt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.singen.de/informieren/ortsteile/beuren+an+der+aach",
+"faktencheck": "bestätigt",
+"id": "117-singen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Singen",
+"steckbrief": "Stadt im Landkreis Konstanz mit rund 48.000 Einwohnern, 78 km östlich von Freiburg im Breisgau.",
+"frage": "Woher hat Friedingen, heute ein Stadtteil von Singen, seinen Namen?",
+"optionen": [
+"Der Name erinnert an einen alten Friedensschluss.",
+"Der Name geht auf einen Personennamen zurück.",
+"Der Name bezeichnet eine eingefriedete Viehweide.",
+"Der Name stammt von einem früheren Bachnamen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Frieden im heutigen Ortsnamen drängt sich auf. Nach der Ortsgeschichte geht Friedingen aber auf den Personennamen Frido zurück. Besiedelt war der Ort schon in der Merowingerzeit, wie Reihengräberfunde zeigen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.singen.de/informieren/ortsteile/friedingen",
+"faktencheck": "bestätigt",
+"id": "117-singen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "116-engen",
+"anschluss": [
+"Singen hat gut viermal so viele Einwohner wie Engen.",
+"Bundestagswahl 2025: In Singen lag AfD vorn, in Engen CDU."
+],
+"anschluesse": {
+"116-engen": [
+"Singen hat gut viermal so viele Einwohner wie Engen.",
+"Bundestagswahl 2025: In Singen lag AfD vorn, in Engen CDU."
+],
+"118-stockach": [
+"Bundestagswahl 2025: In Stockach lag die CDU vorn, in Singen die AfD.",
+"Singen hat gut zweieinhalbmal so viele Einwohner wie Stockach."
+]
+},
+"ags": "08335075",
+"ortsteil": false,
+"km_vom_vorigen": 11.2
+},
+{
+"slug": "118-stockach",
+"name": "Stockach",
+"lat": 47.85139,
+"lon": 9.01139,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stockach",
+"steckbrief": "Stadt mit rund 17.500 Einwohnern, 73 km südlich von Reutlingen.",
+"frage": "In der Altstadt steht das Bürgerhaus „Adler Post“. Woher stammt der Namensteil „Post“?",
+"optionen": [
+"Der Adler-Wirt amtierte zugleich als Postmeister.",
+"Der Erbauer des Hauses hieß mit Nachnamen Post.",
+"Ein Postkutscher vermachte das Haus der Stadt.",
+"Ein Postbeamter rettete das Haus vor dem Abriss."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Erbauer namens Post klingt plausibel, denn viele Häuser tragen den Namen ihrer Besitzer. Tatsächlich war das Haus ursprünglich der Gasthof Adler, und dessen Wirt amtierte gleichzeitig als Postmeister. Nach einem Brand wurde daraus ein Hotel, heute ist es ein Bürgerhaus. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.stockach.de/eiscafe",
+"faktencheck": "bestätigt",
+"id": "118-stockach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stockach",
+"steckbrief": "Kleinstadt mit rund 17.500 Einwohnern, 73 km südlich von Reutlingen.",
+"frage": "Wie groß ist die Gemarkung der Stadt Stockach?",
+"optionen": [
+"unter 40 km²",
+"40 bis unter 75 km²",
+"75 bis unter 110 km²",
+"110 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Für eine Kleinstadt liegt eine kleine Gemarkung nahe. Doch Stockach ist weitläufig: Gut die Hälfte der Fläche wird landwirtschaftlich genutzt, knapp ein Drittel ist Wald, nur ein kleiner Teil Siedlung und Verkehr. Zusammen sind das 69,73 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046; Flächenanteile: Gemeinde-Webseite, www.stockach.de/stadt-und-politik/stadtportrait/zahlen-daten-fakten",
+"faktencheck": "korrigiert",
+"id": "118-stockach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Stockach",
+"steckbrief": "Stadt im Landkreis Konstanz mit rund 17.500 Einwohnern, 73 km südlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Marie Antoinette reiste 1770 auf der Flucht aus Frankreich durch Stockach.",
+"Auf Befehl des bayerischen Kurfürsten brannte Stockach 1704 fast vollständig nieder.",
+"1992 begann Stockach eine Verwaltungspartnerschaft mit dem sächsischen Wermsdorf."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Verwaltungshilfe für Sachsen wirkt ungewöhnlich, sollte aber nach der Wiedervereinigung beim Aufbau der Verwaltung in Wermsdorf helfen. Gelogen ist die Flucht: Marie Antoinette machte auf ihrer Brautfahrt von Wien nach Frankreich Halt im wiederaufgebauten Stockach. Ihr Besuch war ein Zeichen des Wiederaufbaus. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen und www.stockach.de/stadt-und-politik/stadtportrait/partner--partnerschaften",
+"faktencheck": "korrigiert",
+"id": "118-stockach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Stockach",
+"steckbrief": "Kleinstadt mit rund 17.500 Einwohnern, 73 km südlich von Reutlingen.",
+"frage": "Welche Partei holte in Stockach bei der Bundestagswahl 2025 die zweitmeisten Zweitstimmen?",
+"optionen": [
+"SPD",
+"CDU",
+"GRÜNE",
+"AfD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Dass die CDU vorne liegt, überrascht in einer Kleinstadt im Süden Baden-Württembergs kaum. Für Platz zwei hätte man SPD oder Grüne erwarten können, beide kamen auf gut elf Prozent. Zweitstärkste Kraft wurde aber die AfD mit 22,8 Prozent, hinter der CDU mit 32,8 Prozent. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "118-stockach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stockach",
+"steckbrief": "Stadt zwischen Bodensee und Hegau, rund 17.500 Einwohner, 73 km südlich von Reutlingen.",
+"frage": "Stockach begeht jedes Jahr den „Schweizerfeiertag“. Woran erinnert er?",
+"optionen": [
+"Er erinnert an eine abgewehrte Belagerung durch Eidgenossen.",
+"Er erinnert an eine Schweizer Stifterfamilie der Stadt.",
+"Er erinnert an aufgenommene Schweizer Glaubensflüchtlinge.",
+"Er ehrt Schweizer Söldner, die Stockach befreiten."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Fest namens Schweizerfeiertag klingt nach Freundschaft oder Dank an Schweizer. Gemeint ist das Gegenteil: Im Schweizerkrieg, auch Schwabenkrieg genannt, belagerten eidgenössische Truppen die befestigte Stadt. Die Belagerung blieb erfolglos, Stockach hielt stand. Daran erinnert der Feiertag jedes Jahr. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen",
+"faktencheck": "bestätigt",
+"id": "118-stockach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stockach",
+"steckbrief": "Stadt mit Bahnhof, rund 17.500 Einwohner, 73 km südlich von Reutlingen.",
+"frage": "Wie viele Einwohner kommen in Stockach rechnerisch auf einen Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 300",
+"300 bis unter 600",
+"600 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt mit Bahnhof und Autobahnanschluss stellt man sich dichter besiedelt vor. Doch zu Stockach gehören viele eingemeindete Dörfer wie Wahlwies, Zizenhausen und Raithaslach. Rechnerisch kommen so 252 Einwohner auf einen Quadratkilometer, Stand Ende 2025. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "118-stockach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stockach",
+"steckbrief": "Stadt im Landkreis Konstanz, rund 17.500 Einwohner, 73 km südlich von Reutlingen.",
+"frage": "Im Stadtwappen von Stockach liegt ein roter Ast. Wofür steht er?",
+"optionen": [
+"Er erinnert an den großen Stadtbrand.",
+"Er stammt aus dem Wappen früherer Landesherren.",
+"Er spielt auf den Ortsnamen an.",
+"Er steht für den Stab des Narrengerichts."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Zeichen früherer Landesherren liegen nahe, und tatsächlich stammen die blauen Hirschstangen aus dem Wappen der Grafschaft Nellenburg. Der rote Ast aber spielt auf den Ortsnamen an: ein Stock, also ein Baumstamm, in der Aach. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.stockach.de/stadt-und-politik/stadtportrait/geschichte--wappen",
+"faktencheck": "bestätigt",
+"id": "118-stockach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stockach",
+"steckbrief": "Kleinstadt mit rund 17.500 Einwohnern, 73 km südlich von Reutlingen.",
+"frage": "Stockach liegt fern vom Meer, war aber bis 2011 Patin von „U 23“. Was war das?",
+"optionen": [
+"Eine Fußball-Auswahl der Unter-23-Jährigen im Hegau.",
+"Ein U-Boot mit Standort Eckernförde.",
+"Ein Forschungstauchboot auf dem Bodensee.",
+"Ein Schnellzug zwischen Ulm und Basel."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei „U 23“ denkt man heute eher an Sport, und ein U-Boot passt kaum zu einer Stadt ohne Küste. Doch Stockach war Patin eines U-Boots, stationiert in Eckernförde. Sein Einsatzgebiet waren Ostsee, küstennahe Nordsee, Kattegat und Skagerrak. Mit seiner Außerdienststellung endete auch die Patenschaft. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.stockach.de/stadt-und-politik/stadtportrait/partner--partnerschaften",
+"faktencheck": "korrigiert",
+"id": "118-stockach/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stockach",
+"steckbrief": "Stadt zwischen Bodensee und Hegau, rund 17.500 Einwohner, 73 km südlich von Reutlingen.",
+"frage": "Seit 1972 ist La Roche-sur-Foron in Hochsavoyen Partnerstadt von Stockach. Wie kam der erste Kontakt zustande?",
+"optionen": [
+"Ein Fußballverein knüpfte ihn bei einem Turnier.",
+"Ein Stockacher Unternehmen knüpfte ihn über Geschäftsbeziehungen.",
+"Narren lernten sich bei einem Fasnachtsumzug kennen.",
+"Zwei Stockacher Gymnasiallehrer knüpften ihn."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Partnerstädten denkt man oft an Vereine oder die Wirtschaft. Den Anstoß gaben aber zwei Stockacher Gymnasiallehrer, Johannes Röhrenbach und Günther Klein. Ihr Motiv war die Versöhnung zwischen Deutschen und Franzosen. Daraus entstanden Schüleraustausch sowie Besuche von Delegationen und Künstlern. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.stockach.de/stadt-und-politik/stadtportrait/partner--partnerschaften NEGATIVNACHWEIS 2: Weg (c). FAKTEN nennen genau eine Herkunft des Kontakts, nämlich die beiden Gymnasiallehrer. Die Option ist frei erfunden.",
+"faktencheck": "korrigiert",
+"id": "118-stockach/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "117-singen",
+"anschluss": [
+"Bundestagswahl 2025: AfD vorn in Singen, CDU vorn in Stockach.",
+"Fläche: Stockach ist größer als Singen, hat aber weniger Einwohner."
+],
+"anschluesse": {
+"116-engen": [
+"Stockach hat gut anderthalbmal so viele Einwohner wie Engen."
+],
+"117-singen": [
+"Bundestagswahl 2025: AfD vorn in Singen, CDU vorn in Stockach.",
+"Fläche: Stockach ist größer als Singen, hat aber weniger Einwohner."
+]
+},
+"ags": "08335079",
+"ortsteil": false,
+"km_vom_vorigen": 16.2
+},
+{
 "slug": "127-eching",
 "name": "Eching",
 "lat": 48.3,
@@ -29132,7 +30829,7 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "115-muenchen",
+"anschluss_von": "118-stockach",
 "anschluss": [],
 "anschluesse": {
 "115-muenchen": [
@@ -29148,11 +30845,17 @@ window.QA_DATEN = {
 "130-freising": [
 "Freising hat fast dreieinhalbmal so viele Einwohner wie Eching.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Freising die Grünen, in Eching die AfD."
+],
+"132-allershausen": [
+"Eching hat zweieinhalbmal so viele Einwohner wie Allershausen."
+],
+"133-kranzberg": [
+"Eching hat dreieinhalbmal so viele Einwohner wie Kranzberg."
 ]
 },
 "ags": "09178120",
 "ortsteil": false,
-"km_vom_vorigen": 18.3
+"km_vom_vorigen": 199.9
 },
 {
 "slug": "128-neufahrn",
@@ -29312,6 +31015,12 @@ window.QA_DATEN = {
 "130-freising": [
 "Freising hat fast zweieinhalbmal so viele Einwohner wie Neufahrn bei Freising.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Freising die Grünen, in Neufahrn bei Freising die AfD."
+],
+"132-allershausen": [
+"Neufahrn bei Freising hat dreieinhalbmal so viele Einwohner wie Allershausen."
+],
+"133-kranzberg": [
+"Neufahrn bei Freising hat fünfmal so viele Einwohner wie Kranzberg."
 ]
 },
 "ags": "09178145",
@@ -29520,6 +31229,12 @@ window.QA_DATEN = {
 "130-freising": [
 "Freising hat gut viermal so viele Einwohner wie Hallbergmoos.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Freising die Grünen, in Hallbergmoos die AfD."
+],
+"132-allershausen": [
+"Hallbergmoos hat doppelt so viele Einwohner wie Allershausen."
+],
+"133-kranzberg": [
+"Hallbergmoos hat gut zweieinhalbmal so viele Einwohner wie Kranzberg."
 ]
 },
 "ags": "09178130",
@@ -29674,6 +31389,14 @@ window.QA_DATEN = {
 "131-moosburg": [
 "Freising hat zweieinhalbmal so viele Einwohner wie Moosburg an der Isar.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Moosburg an der Isar die AfD, in Freising die Grünen."
+],
+"132-allershausen": [
+"Freising hat achtmal so viele Einwohner wie Allershausen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Allershausen die AfD, in Freising die Grünen."
+],
+"133-kranzberg": [
+"Freising hat gut elfmal so viele Einwohner wie Kranzberg.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Kranzberg die AfD, in Freising die Grünen."
 ]
 },
 "ags": "09178124",
@@ -29880,6 +31603,337 @@ window.QA_DATEN = {
 "ags": "09178143",
 "ortsteil": false,
 "km_vom_vorigen": 15.3
+},
+{
+"slug": "132-allershausen",
+"name": "Allershausen",
+"lat": 48.425,
+"lon": 11.59167,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Allershausen",
+"steckbrief": "Gemeinde mit rund 6.000 Einwohnern, 32 km nördlich von München.",
+"frage": "Seit wann ist Allershausen in Urkunden belegt?",
+"optionen": [
+"Erstmals belegt ist der Ort 1180.",
+"Erstmals belegt ist der Ort 1043.",
+"Erstmals belegt ist der Ort 814.",
+"Erstmals belegt ist der Ort 1315."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Jahr aus dem Hochmittelalter liegt nahe, weil man so frühe Urkunden eher bei Städten vermutet. Doch Allershausen ist schon im Jahr 814 erstmals erwähnt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.allershausen.de/burgermeister/",
+"faktencheck": "bestätigt",
+"id": "132-allershausen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Allershausen",
+"steckbrief": "Gemeinde mit rund 6.000 Einwohnern, 32 km nördlich von München.",
+"frage": "Wie groß ist die Fläche der Gemeinde Allershausen?",
+"optionen": [
+"unter 8 km²",
+"8 bis unter 14 km²",
+"14 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an ein Dorf im Umland denkt, schätzt die Fläche eher klein und tippt auf eine mittlere Spanne. Die Gemeinde Allershausen umfasst aber 26,55 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "132-allershausen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Allershausen",
+"steckbrief": "Gemeinde mit rund 6.000 Einwohnern, 32 km nördlich von München.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Laut Gemeinde nennt die Ersterwähnung den Ort Adalhareshusum.",
+"Allershausen liegt in der Amperlandschaft.",
+"Allershausen gehört zum Regierungsbezirk Niederbayern."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Adalhareshusum klingt erfunden, doch so nennt die Gemeinde den Ort in seiner Ersterwähnung. Auch die Amperlandschaft stimmt. Nördlich von München klingt Niederbayern nah, doch Allershausen gehört zu Oberbayern. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.allershausen.de/burgermeister/",
+"faktencheck": "korrigiert",
+"id": "132-allershausen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Allershausen",
+"steckbrief": "Gemeinde mit rund 6.000 Einwohnern, 32 km nördlich von München.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Allershausen?",
+"optionen": [
+"unter 35 %",
+"35 bis unter 45 %",
+"45 bis unter 55 %",
+"55 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im ländlichen Bayern erwartet man für die CSU oft eine absolute Mehrheit, daher liegt die Spanne darüber nahe. In Allershausen kam die CSU bei der Bundestagswahl 2025 auf 42,1 Prozent der Zweitstimmen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "132-allershausen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Allershausen",
+"steckbrief": "Gemeinde mit rund 6.000 Einwohnern, 32 km nördlich von München.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Allershausen?",
+"optionen": [
+"DAH",
+"ED",
+"FS",
+"PAF"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Dachau liegt ebenfalls nördlich von München, deshalb liegt DAH nahe. Allershausen gehört aber zum Landkreis Freising, und dessen Hauptkennzeichen ist FS. Richtig war 3.",
+"quelle": "Wikidata P395; Landkreis: dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "132-allershausen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Allershausen",
+"steckbrief": "Gemeinde mit rund 6.000 Einwohnern, 32 km nördlich von München.",
+"frage": "Wie viele Einwohner leben in Allershausen durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 150",
+"150 bis unter 200",
+"200 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf auf dem Land wirkt dünn besiedelt, deshalb liegen die unteren Spannen nahe. Auf jeden Quadratkilometer der Gemeinde kommen aber 224 Einwohner. Richtig war 4.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "132-allershausen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Allershausen",
+"steckbrief": "Gemeinde mit rund 6.000 Einwohnern, 32 km nördlich von München.",
+"frage": "Bundestagswahl 2025: Welche Partei holte in Allershausen die zweitmeisten Zweitstimmen?",
+"optionen": [
+"AfD",
+"GRÜNE",
+"SPD",
+"FREIE WÄHLER"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im Münchner Umland denkt man bei Platz zwei schnell an die Grünen. In Allershausen lag aber die AfD auf dem zweiten Platz, vor den Grünen, der SPD und den Freien Wählern. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "132-allershausen/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "131-moosburg",
+"anschluss": [
+"Einwohner: Moosburg hat gut dreimal so viele wie Allershausen.",
+"Wahlbeteiligung Bundestagswahl 2025: in Allershausen höher als in Moosburg."
+],
+"anschluesse": {
+"127-eching": [
+"Eching hat zweieinhalbmal so viele Einwohner wie Allershausen."
+],
+"128-neufahrn": [
+"Neufahrn bei Freising hat dreieinhalbmal so viele Einwohner wie Allershausen."
+],
+"129-hallbergmoos": [
+"Hallbergmoos hat doppelt so viele Einwohner wie Allershausen."
+],
+"130-freising": [
+"Freising hat achtmal so viele Einwohner wie Allershausen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Freising die Grünen, in Allershausen die AfD."
+],
+"133-kranzberg": [
+"Allershausen hat rund 1.700 Einwohner mehr als Kranzberg."
+],
+"131-moosburg": [
+"Einwohner: Moosburg hat gut dreimal so viele wie Allershausen.",
+"Wahlbeteiligung Bundestagswahl 2025: in Allershausen höher als in Moosburg."
+]
+},
+"ags": "09178113",
+"ortsteil": false,
+"km_vom_vorigen": 25.6
+},
+{
+"slug": "133-kranzberg",
+"name": "Kranzberg",
+"lat": 48.4,
+"lon": 11.61667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kranzberg",
+"steckbrief": "Gemeinde mit rund 4.300 Einwohnern, 29 km nördlich von München.",
+"frage": "Kranz und Berg, so klingt der Name. Woher hat Kranzberg ihn wirklich?",
+"optionen": [
+"Ein Erntekranz auf dem Hügel gab den Namen.",
+"Der Ort ist nach einer Burg benannt.",
+"Ein Kranz aus Wald umschloss einst den Berg.",
+"Ein Kranz von Grenzsteinen markierte einst den Berg."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach Kranz und Berg, also liegt ein Kranz als Ursprung nahe. Tatsächlich ist Kranzberg von der Burg Kranichsberg abgeleitet. Darin steckt der Kranich: Das Wappen zeigt ihn in Silber, als redende Figur, die den Ortsnamen bildlich ausspricht. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kranzberg",
+"faktencheck": "bestätigt",
+"id": "133-kranzberg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kranzberg",
+"steckbrief": "Gemeinde mit rund 4.300 Einwohnern, 29 km nördlich von München.",
+"frage": "Wie groß ist das Gemeindegebiet von Kranzberg?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 30 km²",
+"30 bis unter 50 km²",
+"50 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei rund 4.300 Einwohnern denkt man an ein kleines Gemeindegebiet. Doch Kranzberg umfasst 39,5 Quadratkilometer: Zur Gemeinde gehören neben dem Hauptort auch Dörfer wie Thalhausen und Bernstorf. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "korrigiert",
+"id": "133-kranzberg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kranzberg",
+"steckbrief": "Gemeinde mit rund 4.300 Einwohnern, 29 km nördlich von München.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Burg Kranzberg wurde erst im 17. Jahrhundert erbaut.",
+"Die Burg war Mittelpunkt eines bayerischen Landgerichts.",
+"Schwedische Truppen zerstörten die Burg im Jahr 1632."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gelogen war das späte Baujahr: Die Burg Kranichsberg spielte schon seit dem 13. Jahrhundert eine wichtige Rolle, als Ministerialenburg und Mittelpunkt des herzoglich-bayerischen Landgerichts Kranzberg. Im Dreißigjährigen Krieg, 1632, zerstörten sie schwedische Truppen. Die Lüge war 1.",
+"quelle": "Haus der Bayerischen Geschichte, Gemeindewappen Kranzberg",
+"faktencheck": "korrigiert",
+"id": "133-kranzberg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Kranzberg",
+"steckbrief": "Gemeinde mit rund 4.300 Einwohnern, 29 km nördlich von München.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in Kranzberg: Welche Partei kam auf Platz zwei?",
+"optionen": [
+"AfD",
+"Grüne",
+"SPD",
+"Freie Wähler"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im Umland von München sind die Grünen oft stark, und knapp war es tatsächlich: Die AfD erreichte hinter der CSU 15,2 Prozent, die Grünen 13,9. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "133-kranzberg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Kranzberg",
+"steckbrief": "Gemeinde mit rund 4.300 Einwohnern, 29 km nördlich von München.",
+"frage": "Zu welchem Landkreis gehört Kranzberg?",
+"optionen": [
+"Landkreis Dachau",
+"Landkreis Pfaffenhofen an der Ilm",
+"Landkreis Freising",
+"Landkreis Erding"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer von München nach Norden fährt, denkt schnell an Dachau oder Pfaffenhofen. Kranzberg gehört aber zum Landkreis Freising; das Hauptkennzeichen dort ist FS. Richtig war 3.",
+"quelle": "dewiki Infobox; Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "133-kranzberg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Kranzberg",
+"steckbrief": "Gemeinde mit rund 4.300 Einwohnern, 29 km nördlich von München.",
+"frage": "Um wie viele Einwohner wuchs Kranzberg zwischen 1988 und 2018?",
+"optionen": [
+"um weniger als 300",
+"um 300 bis unter 600",
+"um 600 bis unter 900",
+"um 900 oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an ein Dorf denkt, schätzt das Wachstum gering. Tatsächlich legte Kranzberg zwischen 1988 und 2018 um 1.136 Einwohner zu, mehr als ein Drittel. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Kranzberg",
+"faktencheck": "unsicher",
+"id": "133-kranzberg/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "132-allershausen",
+"anschluss": [
+"Kranzberg hat mehr Fläche, Allershausen hat mehr Einwohner.",
+"Bundestagswahl 2025: Wahlbeteiligung in Kranzberg höher als in Allershausen."
+],
+"anschluesse": {
+"127-eching": [
+"Eching hat dreieinhalbmal so viele Einwohner wie Kranzberg."
+],
+"128-neufahrn": [
+"Neufahrn bei Freising hat fünfmal so viele Einwohner wie Kranzberg."
+],
+"129-hallbergmoos": [
+"Hallbergmoos hat gut zweieinhalbmal so viele Einwohner wie Kranzberg."
+],
+"130-freising": [
+"Freising hat gut elfmal so viele Einwohner wie Kranzberg.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Freising die Grünen, in Kranzberg die AfD."
+],
+"132-allershausen": [
+"Kranzberg hat mehr Fläche, Allershausen hat mehr Einwohner.",
+"Bundestagswahl 2025: Wahlbeteiligung in Kranzberg höher als in Allershausen."
+]
+},
+"ags": "09178137",
+"ortsteil": false,
+"km_vom_vorigen": 3.3
 }
 ]
 }

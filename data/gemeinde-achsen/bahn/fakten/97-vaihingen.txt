@@ -1,0 +1,809 @@
+ID: 97-vaihingen/001
+ENTITÄT: ort
+BEZEICHNUNG: Vaihingen an der Enz
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadt-vaihingen/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 29582 [Personen]
+  einwohner_stand: April 2026
+  gesamtflaeche: 7340 [ha]
+  waldflaeche: 1592 [ha]
+  rebflaeche: 329 [ha]
+  landwirtschaftsflaeche: 4116 [ha]
+  bebaute_flaeche: 600 [ha]
+  friedhoefe_strassen_gruenanlagen: 535 [ha]
+  wasserfläche: 88 [ha]
+  entfernung_zu_stuttgart: 28 [km]
+  entfernung_zum_flughafen_international: 38 [km]
+  einzelhandel_umsatz_2024: 147.96 [Mio Euro]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 97-vaihingen/002
+ENTITÄT: ort
+BEZEICHNUNG: Vaihingen an der Enz
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadt-vaihingen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geschichte_zeitspanne: mehr als 1200 Jahre
+  funde_jungsteinzeit: 4000 v.Chr.
+  funde_bronzezeit: vorhanden
+  roemer_zeit_belege: zahlreiche Gutshöfe in Feldflur
+  alemannische_periode_ab: 3. Jahrhundert
+  alemannensiedlung_name: Feinga
+  schenkungsurkunde_datum: März 779
+  schenkungsurkunde_aussteller: Graf Cunibert
+  schenkungsurkunde_empfaenger: Kloster Fulda
+  schenkungsurkunde_objekt: Güter in Feinga
+  erstes_schriftliches_zeugnis: Schenkungsurkunde Graf Cuniberts
+  nachbarorte_archaeologie: Hochdorf (keltisches Fürstengrab 6.-7. Jahrhundert v.Chr.)
+  altstadt_charakter: gut erhaltene historische Altstadt, mittelalterliche Stadtanlage
+  altstadt_merkmale: enge Gassen, alte Fachwerkhäuser, Reste Stadtmauer, Pulverturm, Haspelturm
+  stadtbrand_datum: August 1693
+  stadtbrand_folge: fast alle Gebäude in Schutt und Asche, meiste schriftliche Aufzeichnungen verloren
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 97-vaihingen/003
+ENTITÄT: institution
+BEZEICHNUNG: Stadtarchiv Vaihingen an der Enz
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadt-vaihingen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Spitalstraße 8, 71665 Vaihingen an der Enz
+  aufgabe: Verwaltung rechtlich und historisch wichtiger Schriftgut, Verzeichnung, Öffentlichkeitszugang
+  leiterin: Andrea Majer (Stadtarchivarin)
+  weitere_kontaktperson: Monika Schmidt (Ansprechpartnerin)
+  telefon: 07042 18439
+  gebuehrenfrei_fuer: heimatkundliche und wissenschaftliche Forschungen
+  sammelbereich: Stadt Vaihingen an der Enz und alle Stadtteile, auch Privat- und Vereinsarchive als Dauerleihgabe
+  publikationen: Schriftenreihe der Stadt Vaihingen an der Enz, Beihefte zur Schriftenreihe
+  ausstellungen: regelmäßig
+  kooperation: personell und organisatorisch mit Städtisches Museum Peterskirche verbunden
+  oeffnungszeiten: Mo-Do 08:30-12:00, Di 14:00-16:30, Do 14:00-18:00, Fr nur Terminabsprache
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 97-vaihingen/004
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Stifterfenster im Vaihinger Rathaus
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadt-vaihingen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 18
+  material: mundgeblasenes Echtantikglasmosaik
+  lage: 1. Stock Vaihinger Rathaus
+  zeitraum_entstehung: 1951-1998
+  stifter: namhafte Vaihinger Bürger und Firmen
+  motive: Persönlichkeiten der Stadt, Szenen aus Stadtgeschichte und Handwerk, politische Ereignisse (z.B. Märzrevolution 1848)
+GUELTIG_AB: 1951
+GUELTIG_BIS: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 97-vaihingen/005
+ENTITÄT: dokument
+BEZEICHNUNG: Vaihinger Totenbuch
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadt-vaihingen/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angelegte_jahr: 1609
+  aufbewahrungsort: evangelisches Kirchenarchiv Vaihingen/Enz
+  eintraege_zeitraum: 1609-1788
+  inhalt: Verstorbene in chronologischer Reihenfolge mit Todesdaten, Todesumständen, Berufswelt
+  quelle_fuer: historische Forschungen
+  teil_1_publikation: Vaihinger Totenbuch (VTB) Teil 1: 1609-1654 = Beiheft 5
+  teil_1_publikation_jahr: 1999
+  teil_2_publikation: Vaihinger Totenbuch (VTB) Teil 2: 1655-1728 = Beiheft 6
+  teil_2_publikation_jahr: 2005
+  teil_3_publikation: Vaihinger Totenbuch (VTB) Teil 3: 1729-1788 = Beiheft 7
+  teil_3_publikation_jahr: 2008
+  editoren: Heidemarie und Manfred Scheck
+  registerfunktion: jeder Teilband mit Namen-, Orts- und Berufsregister
+  gesamtregister: drei Register zusammengefasst
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 97-vaihingen/006
+ENTITÄT: stadtteil
+BEZEICHNUNG: Vaihingen (Kernstadt)
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadt-vaihingen/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 10927
+  einwohner_stand: April 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 97-vaihingen/007
+ENTITÄT: stadtteil
+BEZEICHNUNG: Aurich
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadt-vaihingen/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1697
+  einwohner_stand: April 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 97-vaihingen/008
+ENTITÄT: stadtteil
+BEZEICHNUNG: Aurich
+ORTSTEIL_BEZUG: Aurich
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadtteile/aurich | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwähnung: um 1090 (als "Urah")
+  benannt_nach: Urah (antiker Name)
+  roemer_besiedlung: vermutlich kurz nach Jahr 0
+  eingemeindet_datum: 1. Januar 1975
+  eingemeindet_rang: letzter Stadtteil Vaihingens
+  einwohner_1950: ca. 650
+  einwohner_aktuell: über 1600
+  flaeche_merkmal: südlich der Enz
+  ortstypus: Idyllischer Weinort
+  kirche: Johanniskirche (prägt seit Jahrhunderten das Stadtbild)
+  infrastruktur: Kindergarten, Grundschule, Jugendhaus
+  vereine: knapp zehn
+  besonderheit: gut erhaltene Fachwerkhäuser
+  kultur: zweibändige Ortschronik
+  gesangverein_name: Eintracht Aurich
+  gesangverein_ergruendung: gegründet ca. 1903 (1953 erwaehnt mit 50-jährigem Jubiläum)
+  ortsvorsteher: Michael Bauz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 97-vaihingen/009
+ENTITÄT: stadtteil
+BEZEICHNUNG: Ensingen
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadt-vaihingen/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 2551
+  einwohner_stand: April 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 97-vaihingen/010
+ENTITÄT: stadtteil
+BEZEICHNUNG: Ensingen
+ORTSTEIL_BEZUG: Ensingen
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadtteile/ensingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwähnung: 1071 (Urkundenbuch Kloster Lorch)
+  ortskern_merkmal: gruppiert sich um St. Veitskirche
+  eselsberg: Aussichtsturm mit Ausblick ins Land
+  eselsburg: verfallene Burg der Herren von Eselsberg
+  eselsburg_steine: bis in 70er Jahre des 20. Jahrhunderts als Andenken vorhanden, später in Weinbergmauern eingefügt
+  infrastruktur_neu: Schnellbahntrasse Deutsche Bahn, Gewerbegebiet "Perfekter Standort"
+  ortskernverschoenerung_jahr: 1984
+  ortskernverschoenerung_umfang: ueber 30 Gebäude, viele Fachwerkhäuser, Straßen, Plätze, Wege
+  flaeche: 1500 [ha]
+  einwohner_ca: 2500
+  besiedlung_nachkrieg: 1945 Heimatvertriebene und Flüchtlinge
+  stadtteil_seit: 1972
+  besonderheit_wein: Ensinger Wein
+  besonderheit_mineralwasser: Ensinger Mineralwasser
+  ortsvorsteher: Gerd Fink
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 97-vaihingen/011
+ENTITÄT: stadtteil
+BEZEICHNUNG: Enzweihingen
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadt-vaihingen/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 3899
+  einwohner_stand: April 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 97-vaihingen/012
+ENTITÄT: stadtteil
+BEZEICHNUNG: Enzweihingen
+ORTSTEIL_BEZUG: Enzweihingen
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadtteile/enzweihingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  roemer_zeit: wichtiger Verkehrsknotenpunkt
+  posthalterei_gruendung: Anfang 16. Jahrhundert
+  posthalterei_betreiber: Herren von Taxis
+  posthalterei_verbindung: zwischen Knittlingen und Cannstatt
+  posthalterei_dauer: 300 Jahre
+  krieg: Pfälzischer Erbfolgekrieg
+  kriegszerstoerung: Franzosen zündeten Dorf an, über 100 Gebäude zerstoert (Kirche, Rathaus, Schule)
+  ortskern_gebaeude: Martinskirche, "Großes Haus", altes Rathaus (Fachwerk-Trio)
+  gewaesser: Enz und Strudelbach
+  flaeche: 1500 [ha] (laut einer Quelle die groesste Fläche der Ortsteile)
+  einwohner: ueber 4000
+  wirtschaft: Weinbau und Landwirtschaft, auch Gewerbe
+  dorfladen_ergruendung: Oktober 2014
+  dorfladen_vorgaenger: ehemaliger Schlecker-Markt
+  dorfladen_form: genossenschaftliche Basis
+  dorfladen_geschaeftsfuehrer: Wilfried Breit (ehrenamtlich)
+  dorfladen_besonderheit: Buergerbeteiligung, Sortiment fair und regional
+  ortsvorsteher: Matthias Siehler
+  historische_besucher: Wolfgang Amadeus Mozart (1763), Friedrich Schiller (auf Flucht), Wilhelm Hauff (erwarb Bürgerrecht)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 97-vaihingen/013
+ENTITÄT: stadtteil
+BEZEICHNUNG: Gündelbach
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadt-vaihingen/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1152
+  einwohner_stand: April 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 97-vaihingen/014
+ENTITÄT: stadtteil
+BEZEICHNUNG: Gündelbach
+ORTSTEIL_BEZUG: Gündelbach
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadtteile/guendelbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geschichte_dauer: ca. 900 Jahre
+  wappensymbol: St. Laurentius (Kirchenpatron)
+  geographie: am Fuße des Wachtkopf
+  naturpark: Stromberg-Heuchelberg
+  kulturerbe_in_reichweite: Klosteranlage Maulbronn (Weltkulturerbe)
+  infrastruktur_bildung: Kindergarten und Grundschule am Ort
+  infrastruktur_sport: Spiel- und Sportplätze
+  infrastruktur_verkehr: öffentlicher Nahverkehr mit Direktanschluss Bahnhof Vaihingen
+  gaestebett: Gästehaus
+  vereine: ca. 20
+  besonderheit_wein: Weinbau und Landwirtschaft
+  ortsfläche_beschreibung: Wälder und Weingärten, Bäche und Seen wie riesiger Obstgarten
+  lebensqualitaet: zeitgemäße Infrastruktur für Wohnen und Gewerbe, Kultur, Sport, Geselligkeit
+  familienfreundlichkeit: Prädikat gerechtfertigt
+  ortsvorsteher: Karl-Heinz Menauer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 97-vaihingen/015
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Fernwärmeversorgung Gündelbach
+ORTSTEIL_BEZUG: Gündelbach
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadtteile/guendelbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  energiequelle: Deponiegas
+  betriebsbeginn: Oktober 2017
+  deponie_name: Burghof (kreiseigene Deponie)
+  deponie_betriebsjahre: 1978-2005 (Hausmüll)
+  energietraeger: Methan
+  blockheiz_kraftwerk_inbetriebnahme: 2010
+  blockheiz_kraftwerk_thermische_leistung: 1500 [kW]
+  blockheiz_kraftwerk_betreiber: Stadtwerke Ludwigsburg-Kornwestheim (SWLB)
+  jahresproduktion_waerme: ca. 11 [Mio kWh]
+  jahresproduktion_strom: 9.5 [Mio kWh]
+  waermeleitung_laenge: 1.5 [km]
+  waermeleitung_verlauf: von Deponie nach Gündelbach
+  ortsleitungsnetz_laenge: ca. 5 [km]
+  bauarbeiten_beginn: Anfang Mai 2016
+  partnerinstitutionen: Stadt Vaihingen an der Enz, AVL Ludwigsburg, Stadtwerke Ludwigsburg-Kornwestheim GmbH (SWLB), Bürger.Energie.Neckar.Enz GmbH & Co., IBS Ingenieurbüro Schuler GmbH
+  besonderheit: eines der ersten Projekte dieser Art in Deutschland
+  erfolgsgeheimnis: Bürgerengagement und gute Kooperation
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 97-vaihingen/016
+ENTITÄT: stadtteil
+BEZEICHNUNG: Horrheim
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadt-vaihingen/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 2708
+  einwohner_stand: April 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 97-vaihingen/017
+ENTITÄT: stadtteil
+BEZEICHNUNG: Horrheim
+ORTSTEIL_BEZUG: Horrheim
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadtteile/horrheim | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwähnung: 771 n.Chr. (Urkundenbuch Benediktinerabtei Lorsch)
+  stadtgraendung: Mitte 13. Jahrhundert
+  stadtgruendung_durch: Graf Konrad von Vaihingen
+  stadtmauer_rest: Horrheimer Türmle (auch "Bärentürmle" genannt)
+  tuermle_legende: Bezeichnung vermutlich nach letztem Bewohner (großer Mann mit langen Mantel, tapsig wie Bär)
+  tuermle_nutzung_aktuell: kleines Heimatmuseum
+  wahrzeichen: historisches Rathaus (Fachwerkstil), Alte Kelter, St. Clemens-Kirche
+  st_clemens_kirche_besonderheit: wertvolle Wandgemälde aus 14. Jahrhundert
+  weinbau_seit: ca. 1147 n.Chr.
+  wein_lehrpfad_name: Wein- und Rebsortenlehrpfad am Klosterberg
+  wein_lehrpfad_laenge: ca. 3 [km]
+  wein_lehrpfad_tafeln: 23
+  wein_lehrpfad_inhalte: Weinanbaugebiete Deutschland, Vollernter, Begrünung Weinbau, Jahresarbeiten Weinbau
+  wein_lehrpfad_aussichten: malerisch, Blick bis Schwäbische Alb, Löwensteiner Bergen, Neckartal
+  rebsorten_lehrpfad: oberhalb des Weinlehrpfads
+  rebsorten_lehrpfad_laenge: ca. 500 [m]
+  rebsorten_lehrpfad_arten: ca. 40 verschiedene Rebsorten
+  baiselberg: höchste Erhebung des Strombergs
+  kloster_fund: mittelalterliches Kloster auf Baiselberg
+  kloster_fund_jahr: 1970er Jahre
+  kloster_grabungen: 1975-1990
+  kloster_ausstellung: Verwaltungsstelle Horrheim (Funde, Urkundenreproduktionen, Fotos)
+  naturraum: eingebettet in Naherholungsgebiet Stromberg
+  seewaldeen: Seen in Umgebung
+  ortsvorsteher: Joachim Müller
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 97-vaihingen/018
+ENTITÄT: stadtteil
+BEZEICHNUNG: Kleinglattbach
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadt-vaihingen/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 4390
+  einwohner_stand: April 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 97-vaihingen/019
+ENTITÄT: stadtteil
+BEZEICHNUNG: Riet
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadt-vaihingen/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1002
+  einwohner_stand: April 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 97-vaihingen/020
+ENTITÄT: stadtteil
+BEZEICHNUNG: Riet
+ORTSTEIL_BEZUG: Riet
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadtteile/riet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse: kleinster Vaihinger Teilort
+  charakterisierung: klein, aber fein
+  einwohner_ca: knapp 1000
+  urkundliche_ersterwähnung: 812
+  gewaesser: Strudelbach
+  umgebung: Naturschutzgebiete
+  wohnqualitaet: vielfältige Freizeitmöglichkeiten auf Wander- und Radwegen
+  gemeinschaft: verschiedene Vereine, aktive freiwillige Feuerwehr
+  infrastruktur: Kindergarten und Grundschule am Ort
+  schloss: Schloss der Grafen von Reischach
+  schloss_beschreibung: Schloss präsentiert sich mitten im Ort, umgeben von hohen alten Bäumen
+  kirche: Stephanuskirche
+  kirche_ursprung: bis ins Mittelalter zurück, war früher Schlosskapelle
+  kirche_besonderheit: Grabstein eines Onkels des Theophrastus Bombastus von Hohenheim (Paracelsus)
+  historische_herren: Riet war Sitz der Herren von Hohenheim
+  ortskern_gebaeude: Rathaus (mit Maienbaum im Mai), evangelisches Gemeindehaus
+  ortskern_naturmerkmale: Linden, Strudelbach
+  gastronomie: Strudelbachhalle mit Wirtschaft und Biergarten (beliebter Treffpunkt am Radweg)
+  ortsvorsteherin: Kimberly Gräfin von Reischach
+  besonderheit: Osterbrunnen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 97-vaihingen/021
+ENTITÄT: stadtteil
+BEZEICHNUNG: Roßwag
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadt-vaihingen/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1256
+  einwohner_stand: April 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 97-vaihingen/022
+ENTITÄT: stadtteil
+BEZEICHNUNG: Roßwag
+ORTSTEIL_BEZUG: Roßwag
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadtteile/rosswag | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_ca: ca. 1200
+  charakter: Weinort mit Tradition und Geschichte
+  landschaft: steile Rebhänge mit markanten Felsengalerien über der Enz
+  felsen: Muschelkalkfelsen
+  rebmauerwerk: Trockenmauern typisch, werden erhalten und saniert
+  martinskirche: Wahrzeichen
+  pfarrhaus: wichtiger Stellenwert
+  dichter: Gottlob David Hartmann (Geburtshaus im Ort)
+  burg_historisch: Burg Roßwag (auf Muschelkalkfelsen)
+  burg_verfall: im 14. Jahrhundert von Äbten des Klosters Maulbronn eingeebnet
+  naturschutz: angrenzend Natur- und Landschaftsschutzgebiet
+  industrie_verbot: verboten durch Naturschutz
+  wirtschaft_orientierung: Investitionen in Weinbau und wertvolle Landschaft
+  wein_qualitaet: weit über Grenzen bekannt, höchste Auszeichnungen auf nationaler Ebene
+  architektur: Fachwerkhäuser
+  heimatfest: Lindenfest
+  lindenfest_tradition: seit ueber 70 Jahren
+  lindenfest_termin: immer am ersten Sonntag im Juli
+  lindenfest_location: rund um alten Lindenbaum in Dorfmitte
+  dorfgemeinschaft: intakt, lebende Idylle, zufrieden mit dem was schon lange ist
+  ortsvorsteher: Rolf Allmendinger
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 97-vaihingen/023
+ENTITÄT: kirche
+BEZEICHNUNG: St. Antonius Vaihingen
+ORTSTEIL_BEZUG: Vaihingen
+QUELLE: https://www.vaihingen.de/leben-wohnen/religion-glaube/katholische-kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  kirchengemeinde_seit: 1958
+  kirche_baujahr: 1937
+  gemeindezentrum: in Kleinglattbach
+  gemeindezentrum_einweihung: 1976
+  kindergarten_name: Kindergarten St. Maria
+  kindergarten_seit: 1955
+  kindergarten_gruppen: 3
+  mitglieder_katholiken: 3620
+  gottesdienstbesuch_prozent_regelmaessig: ca. 12
+  kindergottesdienst: ja
+  gemeinde_aktivitaeten: Liturgie, Caritas, Glaubensverkündung, Chöre, Familien- und Frauenkreise, KAB, Frauenbund
+  zustaendigkeit: Kernstadt Vaihingen, Kleinglattbach, Roßwag
+  vorgeschichte: bis 1958 Zugehörigkeit zur Pfarrei Mühlacker, ab 1958 auch mit Gebiet heutiger Pfarrei St. Paulus Enzweihingen
+  pfarrer: Karl Böck
+  telefon: 07042 3767390
+  adresse: Heiligkreuzstrasse 45, 71665 Vaihingen an der Enz
+  telefon_kirche: 07042 5588
+  fax: 07042 5562
+GUELTIG_AB: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 97-vaihingen/024
+ENTITÄT: kirche
+BEZEICHNUNG: St. Joseph Illingen
+ORTSTEIL_BEZUG: Ensingen
+QUELLE: https://www.vaihingen.de/leben-wohnen/religion-glaube/katholische-kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  kirche_name_alternativ: Marienkirche
+  lage: Holbeinstraße 1, Ensingen
+  baujahr: 1964
+  altarweihe_datum: Oktober 1965
+  mitglieder_katholiken: ca. 420
+  zustaendigkeit: Ensingen, Illingen, Schützingen
+  pfarrer: Claus Schmidt
+  telefon: 07042 22046
+  fax: 07042 827986
+  adresse: Eichwaldstraße 35, 75428 Illingen
+GUELTIG_AB: 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 97-vaihingen/025
+ENTITÄT: kirche
+BEZEICHNUNG: St. Paulus Enzweihingen
+ORTSTEIL_BEZUG: Enzweihingen
+QUELLE: https://www.vaihingen.de/leben-wohnen/religion-glaube/katholische-kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  dioezese: Rottenburg Stuttgart
+  dekanat: Ludwigsburg
+  pfarrkirche: St. Paulus in Enzweihingen
+  gemeindezentrum: St. Markus in Riet
+  zustaendigkeit: Enzweihingen, Aurich, Riet, Eberdingen, Hochdorf, Nussdorf
+  mitglieder_katholiken: ca. 2200
+  seelsorgeeinheit: Vaihingen-Eberdingen (zusammen mit St. Antonius Vaihingen)
+  pfarrer: Karl Böck
+  telefon: 07042 3767390
+  adresse: Im Pfarrhof 2, 71665 Vaihingen-Enzweihingen
+  telefon_buero: 07042 4403
+  fax: 07042 4406
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 97-vaihingen/026
+ENTITÄT: kirche
+BEZEICHNUNG: St. Stephanus Sersheim
+QUELLE: https://www.vaihingen.de/leben-wohnen/religion-glaube/katholische-kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  typ: Diasporagemeinde in vier Teilgemeinden
+  mitglieder_katholiken: ca. 2250
+  seelsorgeeinheit: Stromberg (zusammen mit Sachsenheim)
+  kirche_oberriexingen: St. Andreaskirche
+  kirche_horrheim: St. Martinskirche (Hedwigstraße 18)
+  gemeindezentrum_guendelbach: ökumenisches Gemeindehaus
+  dekan: Alexander König
+  dekan_adresse: Schorndorfer Straße 31, 71638 Ludwigsburg
+  dekan_telefon: 07042 33900
+  dekan_fax: 07042 3951
+  pfarrer: Sunny Muckumkal (Sachsenheim)
+  pfarrer_telefon: 07042 33900
+  pfarrer_fax: 07042 3951
+  gemeindereferentin: Christina Findeis
+  gemeindereferentin_adresse: Zur Schießmauer 30, Sersheim
+  gemeindereferentin_telefon: 07042 33900
+  gemeindereferentin_fax: 07042 3951
+  pfarrbüro_adresse: Zur Schießmauer 30, 74372 Sersheim
+  pfarrbüro_telefon: 07042 33900
+  pfarrbüro_fax: 07042 3951
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 97-vaihingen/027
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Aurich
+ORTSTEIL_BEZUG: Aurich
+QUELLE: https://www.vaihingen.de/leben-wohnen/religion-glaube/evangelische-kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  adresse: Heinrichstraße 1, 71665 Vaihingen-Aurich
+  telefon: 07042 4236
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 97-vaihingen/028
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Ensingen
+ORTSTEIL_BEZUG: Ensingen
+QUELLE: https://www.vaihingen.de/leben-wohnen/religion-glaube/evangelische-kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  kirchentyp: Dorfturmkirche
+  bauperiode_kern: 13. Jahrhundert
+  ummauert_historisch: ja
+  erneuert: 1468
+  patrozinium: heiliger Veit
+  urkundliche_ersterwähnung: 1262
+  erster_pfarrer: Dekan Gottfried (1265)
+  vorgaenger: Kapelle angenommen (Dorf älter als Kirche)
+  ort_erwaehnung_kloster: Urkundenbuch Kloster Lorch 1071
+  pfarrerin: Karin Blanc
+  telefon: 07042 820600
+  adresse: Sankt-Veith-Straße 7, 71665 Vaihingen-Ensingen
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 97-vaihingen/029
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Enzweihingen
+ORTSTEIL_BEZUG: Enzweihingen
+QUELLE: https://www.vaihingen.de/leben-wohnen/religion-glaube/evangelische-kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  kirche_name: Martinskirche
+  gottesdienst_zeit: Sonntag 09:30
+  gemeindeangebote: Kinderkirche, Kinderchor, Kinderstunden, Jungscharen, Mädchenkreis, Jungenschaft, ec-Jugendbund, Handballgruppen
+  mitglieder: ca. 2100
+  zustaendigkeit: Enzweihingen, Pulverdingen
+  adresse: Pfarrgasse 17, 71665 Vaihingen-Enzweihingen
+  telefon: 07042 6877
+  fax: 07042 17203
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 97-vaihingen/030
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Gündelbach
+ORTSTEIL_BEZUG: Gündelbach
+QUELLE: https://www.vaihingen.de/leben-wohnen/religion-glaube/evangelische-kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  lage: am weitesten nördlich gelegene Teilgemeinde
+  gemeindeglieder: 709
+  gemeindeglieder_stand: Anfang 2016
+  grundausrichtung: biblische und missionarische Grundausrichtung
+  kindergarten: ja
+  kindergarten_gruppen: 1.5
+  gemeindeangebote: Kinder- und Jugendarbeit, Frauenfrühstückstreffen, Seniorennachmittage
+  pfarrer: Christoph Pascher
+  pfarrer_adresse: Obere Kirchgasse 12, 71665 Vaihingen-Horrheim
+  pfarrer_telefon: 07042 32929
+  pfarrer_fax: 07042 840951
+  pfarramtssekretaerin: Ursula Klaiber
+  sekretaerin_adresse: Lorenzenstraße 9, 71665 Vaihingen-Gündelbach
+  sekretaerin_telefon: 07042 23033
+  sekretaerin_fax: 07042 820154
+  kirche_adresse: Lorenzenstraße 9, 71665 Vaihingen-Gündelbach
+  oeffnungszeiten: Mittwoch 09:00-11:00
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 97-vaihingen/031
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Horrheim
+ORTSTEIL_BEZUG: Horrheim
+QUELLE: https://www.vaihingen.de/leben-wohnen/religion-glaube/evangelische-kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  pfarrer: Christoph Pascher
+  adresse: Obere Kirchgasse 12, 71655 Vaihingen-Horrheim
+  telefon: 07042 32929
+  fax: 07042 840951
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 97-vaihingen/032
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Kleinglattbach
+ORTSTEIL_BEZUG: Kleinglattbach
+QUELLE: https://www.vaihingen.de/leben-wohnen/religion-glaube/evangelische-kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  pfarrer: Philipp Kuttler
+  adresse: Kirchstraße 15, 71655 Vaihingen-Kleinglattbach
+  telefon: 07042 5495
+  fax: 07042 940396
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 97-vaihingen/033
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Riet
+ORTSTEIL_BEZUG: Riet
+QUELLE: https://www.vaihingen.de/leben-wohnen/religion-glaube/evangelische-kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  charakterisierung: kleine, weltoffene evangelische Kirchengemeinde
+  grundausrichtung: Freude am Evangelium
+  pfarrerin: Annette Zeuner
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 97-vaihingen/034
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Roßwag
+ORTSTEIL_BEZUG: Roßwag
+QUELLE: https://www.vaihingen.de/leben-wohnen/religion-glaube/evangelische-kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  adresse: Sankt-Martin-Straße 20, 71665 Vaihingen-Roßwag
+  telefon: 07042 21189
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 97-vaihingen/035
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirchengemeinde Vaihingen
+ORTSTEIL_BEZUG: Vaihingen
+QUELLE: https://www.vaihingen.de/leben-wohnen/religion-glaube/evangelische-kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  charakterisierung: offene Gemeinde mit verschiedenen Stilen evangelischen Glaubens
+  kirchengebaeude: Stadtkirche Vaihingen
+  mittelpunkt: sonntäglicher Gottesdienst in Stadtkirche
+  spätgottesdienst_ort: Wolfsberg
+  spätgottesdienst_haeufigkeit: dreimal monatlich
+  kindergaerten: zwei evangelische Kindergärten
+  kirchenmusik: gut besuchte Veranstaltungen prägen Gemeindeleben
+  jugendarbeit: offene Jugendarbeit mit Vernetzung von Schule, Konfirmandenunterricht, Jugendarbeit
+  besonderheit_stadt: württembergische Ur-Dekanatstadt
+  erwachsenenbildung: umfangreiche Erwachsenenbildung
+  einrichtungen_kirchenbezirk: Diakonische Bezirksstelle, Bezirkskantorat, Bezirksjugendwerk
+  beziehungen_oekumenisch: intensive Beziehungen zu ökumenischen Partnern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 97-vaihingen/036
+ENTITÄT: institution
+BEZEICHNUNG: Stadtbücherei Vaihingen
+QUELLE: https://www.vaihingen.de/bildung-betreuung/stadtbuecherei/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  struktur: Hauptstelle mit 5 Zweigstellen
+  zweigstellen: Ensingen, Enzweihingen, Gündelbach, Horrheim, Kleinglattbach
+  virtuelle_zweigstelle_onleihe: Onleihe LB (E-Medien: E-Books, E-Audio, E-Paper)
+  virtuelle_zweigstelle_overdrive: Overdrive Baden-Württemberg (englische E-Books und E-Audios)
+  bestand_hauptstelle: 40930 [Medien]
+  bestand_zweigstellen: 26192 [Medien]
+  bestandszusammensetzung_sachbuecher_prozent: 17
+  bestandszusammensetzung_romane_prozent: 11
+  bestandszusammensetzung_kinder_jugend_prozent: 55
+  bestandszusammensetzung_sonstiges_prozent: 17
+  medienzugang_jahr_2025: 3708
+  medienabgang_jahr_2025: 3063
+  benutzer_2025: 4308
+  ausleihzahlen_hauptstelle_2025: 146997
+  ausleihzahlen_zweigstellen_2025: 46331
+  eausleihe_onleihe_overdrive_2025: 44483
+  oeffnungstage_hauptstelle_2025: 245
+  tagesdurchschnitt_ausleihzahlen_hauptstelle: 599
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 97-vaihingen/037
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Wolfgang Amadeus Mozart
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadtteile/enzweihingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug_enzweihingen: durchreiste Ort 1763
+  verbindung: historische Passage
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 97-vaihingen/038
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Friedrich Schiller
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadtteile/enzweihingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug_enzweihingen: rastete auf Flucht
+  verbindung: historischer Aufenthalt
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 97-vaihingen/039
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Wilhelm Hauff
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadtteile/enzweihingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug_enzweihingen: erwarb Bürgerrecht
+  verbindung: Aufenthaltsrecht
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 97-vaihingen/040
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gottlob David Hartmann
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadtteile/rosswag | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Dichter
+  geburtsort: Roßwag
+  geburtshaus_lage: im Ort Roßwag vorhanden
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 97-vaihingen/041
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Theophrastus Bombastus von Hohenheim (Paracelsus)
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadtteile/riet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindung_riet: Grabstein eines Onkels in Stephanuskirche Riet
+  nachlass: Grabstein in Kirche vorhanden
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 97-vaihingen/042
+ENTITÄT: kulturelles_erbe
+BEZEICHNUNG: Wein- und Rebsortenlehrpfad Horrheim
+ORTSTEIL_BEZUG: Horrheim
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadtteile/horrheim | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Klosterberg bei Horrheim
+  laenge: ca. 3 [km]
+  informationstafeln: 23
+  inhalte: Weinanbaugebiete Deutschland, Vollernter, Begrünung Weinbau, Jahresarbeiten Weinbau
+  aussichten: malerisch, reichen teilweise bis Schwäbische Alb, Löwensteiner Bergen, Neckartal
+  zusatz_rebsortenweg: oberhalb, ca. 500 Meter, ca. 40 verschiedene Rebsorten mit Hinweistafeln
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 97-vaihingen/043
+ENTITÄT: gebaeude
+BEZEICHNUNG: Schloss Reischach
+ORTSTEIL_BEZUG: Riet
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadtteile/riet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besitzer: Grafen von Reischach
+  lage: Ortsmitte Riet
+  umgebung: umgeben von hohen alten Bäumen
+  merkmal: prägt Dorfbild
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 97-vaihingen/044
+ENTITÄT: kirche
+BEZEICHNUNG: St. Veitskirche Ensingen
+ORTSTEIL_BEZUG: Ensingen
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadtteile/ensingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  patrozinium: heiliger Veit
+  kern_bauzeit: 13. Jahrhundert
+  lage: Ortskern Ensingen
+  umgebung: zahlreiche Fachwerkhäuser gruppieren sich darum
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 97-vaihingen/045
+ENTITÄT: wirtschaft
+BEZEICHNUNG: Dorfladen Enzweihingen
+ORTSTEIL_BEZUG: Enzweihingen
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadtteile/enzweihingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: Oktober 2014
+  vorgaenger: ehemaliger Schlecker-Markt
+  form: genossenschaftliche Basis
+  finanzierung: Bürger erwerben Geschäftsanteile
+  leitung: Wilfried Breit (Geschäftsführer, ehrenamtlich)
+  besonderheit: beispiellose Bürgerbeteiligung
+  sortiment: günstig, fair, regional
+  zweck: Versorgung mit Dingen des täglichen Bedarfs, Belebung Ortsmitte
+  erfolg: regelmäßiger Einkauf, ehrenamtliches Engagement der Bürger notwendig
+  perspektive: langfristig erfolgreich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 97-vaihingen/046
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Osterbrunnen Riet
+ORTSTEIL_BEZUG: Riet
+QUELLE: https://www.vaihingen.de/unsere-stadt/stadtteile/riet | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Riet
+  beschreibung: Brunnen, Osterschmuck Tradition
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

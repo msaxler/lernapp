@@ -1,0 +1,64 @@
+Orte: 132-allershausen 133-kranzberg 96-bruchsal 97-vaihingen 98-ludwigsburg 99-pforzheim 100-leonberg 116-engen 117-singen 118-stockach
+== Extraktion (Haiku) 09:24:58
+96-bruchsal          extraktion ein  24777  aus  30777   0.19 USD   266 s  claude-haiku-4-5-20251001
+97-vaihingen         extraktion ein  35286  aus  27740   0.20 USD   230 s  claude-haiku-4-5-20251001
+98-ludwigsburg       extraktion ein  35334  aus   7149   0.09 USD    58 s  claude-haiku-4-5-20251001
+99-pforzheim         extraktion ein  40431  aus  14027   0.14 USD   104 s  claude-haiku-4-5-20251001
+100-leonberg         extraktion ein  41204  aus  17181   0.15 USD   132 s  claude-haiku-4-5-20251001
+116-engen            extraktion ein  23470  aus  22030   0.14 USD   160 s  claude-haiku-4-5-20251001
+117-singen           extraktion ein  28519  aus  18489   0.14 USD   134 s  claude-haiku-4-5-20251001
+118-stockach         extraktion ein  37917  aus   8968   0.11 USD    68 s  claude-haiku-4-5-20251001
+132-allershausen     extraktion ein  22733  aus   1687   0.04 USD    16 s  claude-haiku-4-5-20251001
+133-kranzberg        extraktion ein  19347  aus  18565   0.12 USD   160 s  claude-haiku-4-5-20251001
+zusammen: 5919 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+96-bruchsal        35882 Zeichen
+97-vaihingen       36442 Zeichen
+98-ludwigsburg     17986 Zeichen
+99-pforzheim       36283 Zeichen
+100-leonberg       41854 Zeichen
+116-engen          27821 Zeichen
+117-singen         34857 Zeichen
+118-stockach       25919 Zeichen
+132-allershausen    5192 Zeichen
+133-kranzberg      14420 Zeichen
+== Karten (claude-opus-5-5) 09:31:13
+96-bruchsal          karten     ein  48793  aus  38721   1.11 USD   342 s  claude-opus-5-5
+97-vaihingen         karten     ein  47913  aus  46975   1.27 USD   537 s  claude-opus-5-5
+98-ludwigsburg       karten     ein  36897  aus  24775   0.74 USD   219 s  claude-opus-5-5
+99-pforzheim         karten     ein  48668  aus  33645   1.01 USD   282 s  claude-opus-5-5
+100-leonberg         karten     ein  51855  aus  41976   1.20 USD   369 s  claude-opus-5-5
+116-engen            karten     ein  43038  aus  32743   0.95 USD   281 s  claude-opus-5-5
+117-singen           karten     ein  48013  aus  31595   0.96 USD   268 s  claude-opus-5-5
+118-stockach         karten     ein  39044  aus  35721   0.97 USD   311 s  claude-opus-5-5
+132-allershausen     karten     ein  29126  aus  19053   0.56 USD   162 s  claude-opus-5-5
+133-kranzberg        karten     ein  35278  aus  31757   0.86 USD   282 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 09:44:16
+96-bruchsal          pruefung   ein  62385  aus   7625   0.60 USD    69 s  claude-opus-5-5
+97-vaihingen         pruefung   ein  75508  aus  12324   0.80 USD   108 s  claude-opus-5-5
+98-ludwigsburg       pruefung   ein  62879  aus   6035   0.57 USD    59 s  claude-opus-5-5
+99-pforzheim         pruefung   ein  84881  aus  12019   0.87 USD   106 s  claude-opus-5-5
+100-leonberg         pruefung   ein  89395  aus  13366   0.93 USD   115 s  claude-opus-5-5
+116-engen            pruefung   ein  54436  aus  10472   0.59 USD    91 s  claude-opus-5-5
+117-singen           pruefung   ein  66605  aus  11436   0.71 USD   100 s  claude-opus-5-5
+118-stockach         pruefung   ein  74554  aus  10733   0.76 USD    89 s  claude-opus-5-5
+132-allershausen     pruefung   ein  37184  aus   5039   0.34 USD    45 s  claude-opus-5-5
+133-kranzberg        pruefung   ein  36130  aus   5653   0.35 USD    52 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 09:47:31
+96-bruchsal          FEHLER keine Karte an Stufe 2 – kein Lauf
+97-vaihingen         stufe2     ein 151772  aus   2719   0.38 USD    56 s  claude-opus-5-5,claude-haiku-4-5-20251001
+98-ludwigsburg       stufe2     ein 193778  aus   5568   0.53 USD    88 s  claude-opus-5-5,claude-haiku-4-5-20251001
+99-pforzheim         stufe2     ein 184295  aus   3184   0.38 USD    59 s  claude-opus-5-5,claude-haiku-4-5-20251001
+100-leonberg         FEHLER keine Karte an Stufe 2 – kein Lauf
+116-engen            stufe2     ein 208877  aus   3885   0.47 USD    71 s  claude-opus-5-5,claude-haiku-4-5-20251001
+117-singen           stufe2     ein 227255  aus   4158   0.61 USD    80 s  claude-opus-5-5,claude-haiku-4-5-20251001
+118-stockach         stufe2     ein 158251  aus   3966   0.38 USD    63 s  claude-opus-5-5,claude-haiku-4-5-20251001
+132-allershausen     stufe2     ein 175970  aus   3277   0.46 USD    51 s  claude-opus-5-5,claude-haiku-4-5-20251001
+133-kranzberg        stufe2     ein 283994  aus   8088   0.82 USD   110 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 09:50:33
+Urteile: {'korrigiert': 337, 'bestätigt': 707, 'gesperrt': 23, 'unsicher': 58} | im Vorrat: 1102 Karten an 125 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     125 Orte, 1102 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 1374170 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 09:50:34

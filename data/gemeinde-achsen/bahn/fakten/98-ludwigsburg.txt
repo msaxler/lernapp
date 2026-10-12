@@ -1,0 +1,378 @@
+ID: 98-ludwigsburg/001
+ENTITÄT: ort
+BEZEICHNUNG: Ludwigsburg
+QUELLE: https://www.ludwigsburg.de/start/rathaus+und+service/stadtportraet+und+stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundungszeit: anfang 18. jahrhundert
+  stadtrechte_erhalten: 1718
+  einwohnerzahl: 95000
+  lage_historisch: auf dem erlachhof
+  grunder: herzog eberhard ludwig
+  grundungsanlass: lustschloss zum jagd- und sommeraufenthalt
+GUELTIG_AB: 1718
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 98-ludwigsburg/002
+ENTITÄT: ort
+BEZEICHNUNG: Ludwigsburg
+QUELLE: https://www.ludwigsburg.de/,(anker17986399)/start/wirtschaft+und+innovation/wirtschaftsstandort.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entfernung_stuttgartstadt: 15 km
+  verkehrslage_bundesstrasse: ja
+  autobahnanschluesse: 2
+  autobahn: a81 stuttgart-heilbronn
+  sbahn_anschluesseanzahl: 2
+  sbahn_haltestellen: lb hbf, lb favoritepark
+  hat_glasfaserausbau: ja
+  hat_fernwaerme: ja
+  ist_wirtschaftsstandort: true
+  industriebranche_automobilzulieferer: true
+  industriebranche_maschinenbau: true
+  industriebranche_medizintechnik: true
+  industriebranche_film_kreativbranche: true
+  regionaler_kontext: inmitten einer der wirtschaftsstärksten regionen deutschlands
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 98-ludwigsburg/003
+ENTITÄT: gebaeude
+BEZEICHNUNG: Residenzschloss
+QUELLE: https://www.ludwigsburg.de/start/rathaus+und+service/stadtportraet+und+stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: herz der stadt
+  baustil: barock
+  beschreibung: hauptgebäude ludwigsburgs, ursprünglich lustschloss geplant
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 98-ludwigsburg/004
+ENTITÄT: gartenschau
+BEZEICHNUNG: Blühendes Barock
+QUELLE: https://www.ludwigsburg.de/start/rathaus+und+service/stadtportraet+und+stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: ludwigsburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 98-ludwigsburg/005
+ENTITÄT: kulturveranstaltungsort
+BEZEICHNUNG: Forum am Schlosspark
+QUELLE: https://www.ludwigsburg.de/start/rathaus+und+service/stadtportraet+und+stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: kultur- und kongresszentrum
+  beschreibung: einer der schönsten und technisch modernsten veranstaltungsorte
+  nutzer_schlossfestspiele: ja
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 98-ludwigsburg/006
+ENTITÄT: kulturveranstaltung
+BEZEICHNUNG: Ludwigsburger Schlossfestspiele
+QUELLE: https://www.ludwigsburg.de/start/rathaus+und+service/stadtportraet+und+stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel_alternativ: internationale festspiele baden-württemberg
+  veranstaltungsort: forum am schlosspark
+  renommee: international
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 98-ludwigsburg/007
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Filmakademie Baden-Württemberg
+QUELLE: https://www.ludwigsburg.de/start/rathaus+und+service/stadtportraet+und+stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: ludwigsburg
+  bedeutung: verleiht ludwigsburg internationale bedeutung als film- und medienstandort
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 98-ludwigsburg/008
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Film- und Medienzentrum
+QUELLE: https://www.ludwigsburg.de/start/rathaus+und+service/stadtportraet+und+stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: ludwigsburg
+  enthaelt_gruenderzentrum: ja
+  zielgruppe_gruenderzentrum: junge medienschaffende
+  bedeutung: verleiht ludwigsburg internationale bedeutung als film- und medienstandort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 98-ludwigsburg/009
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Deutsch-Französisches Institut
+QUELLE: https://www.ludwigsburg.de/start/rathaus+und+service/stadtportraet+und+stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: ludwigsburg
+  hochschulanzahl_stadt: 5
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 98-ludwigsburg/010
+ENTITÄT: sportstaette
+BEZEICHNUNG: MHPArena Ludwigsburg
+QUELLE: https://www.ludwigsburg.de/start/rathaus+und+service/stadtportraet+und+stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nutzer_basketball: mhp riesen
+  nutzer_handball: sgbbm bietigheim
+  besucherzahlen: regelmäßig viele tausend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 98-ludwigsburg/011
+ENTITÄT: kunstzentrum
+BEZEICHNUNG: Kunstzentrum Karlskaserne
+QUELLE: https://www.ludwigsburg.de/start/rathaus+und+service/stadtportraet+und+stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezeichnung_alternativ: alternative ideenschmiede
+  fokus: bildende kunst, theater, moderner tanz
+  typ: werkstätten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 98-ludwigsburg/012
+ENTITÄT: stadtteil
+BEZEICHNUNG: Eglosheim
+QUELLE: https://www.ludwigsburg.de/start/leben+in+ludwigsburg/leben+in+den+stadtteilen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: nordwestlich der kernstadt
+  umgebung: viel natur
+  vielfalt: miteinander in vielfalt stark ausgepraegt
+  verkehrsanbindung: an wichtigen verkehrsachsen
+  stadtteilbuero: karma eglosheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 98-ludwigsburg/013
+ENTITÄT: stadtteil
+BEZEICHNUNG: Grünbühl-Sonnenberg
+QUELLE: https://www.ludwigsburg.de/start/leben+in+ludwigsburg/leben+in+den+stadtteilen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  größe: kleinster stadtteil ludwigsburgs
+  lage: am südlichen rand der stadt
+  umgebung: gruene umgebung
+  mehrgenerationenhaus: ja
+  mehrgenerationenhaus_name: mehrgenerationenhaus grünbühl-sonnenberg
+  mehrgenerationenhaus_adresse: weichselstraße 10-14
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 98-ludwigsburg/014
+ENTITÄT: infrastrukturprojekt
+BEZEICHNUNG: Campusbad
+QUELLE: https://www.ludwigsburg.de/start/kultur+und+freizeit/sport.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: schul- und vereinsbad
+  location: innenstadt
+  inbetriebnahme: 2016
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 98-ludwigsburg/015
+ENTITÄT: sportstaette
+BEZEICHNUNG: Stadionbad
+QUELLE: https://www.ludwigsburg.de/start/kultur+und+freizeit/sport.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: bad
+  ressourcentyp: wasserfläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 98-ludwigsburg/016
+ENTITÄT: sportstaette
+BEZEICHNUNG: Heilbad
+QUELLE: https://www.ludwigsburg.de/start/kultur+und+freizeit/sport.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: bad
+  ressourcentyp: wasserfläche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 98-ludwigsburg/017
+ENTITÄT: sportstaette
+BEZEICHNUNG: Ludwig-Jahn-Stadion
+QUELLE: https://www.ludwigsburg.de/start/kultur+und+freizeit/sport.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: stadion
+  beschreibung: alt-ehrwürdig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 98-ludwigsburg/018
+ENTITÄT: sportstaette
+BEZEICHNUNG: Stadion am Bildungszentrum West
+QUELLE: https://www.ludwigsburg.de/start/kultur+und+freizeit/sport.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  location: bildungszentrum west
+  typ: stadion
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 98-ludwigsburg/019
+ENTITÄT: sportverein
+BEZEICHNUNG: MHP RIESEN
+QUELLE: https://www.ludwigsburg.de/start/kultur+und+freizeit/sport.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sportart: basketball
+  liga: bundesliga
+  heimspielstaette: mhp arena ludwigsburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 98-ludwigsburg/020
+ENTITÄT: schule
+BEZEICHNUNG: Otto-Hahn-Gymnasium
+QUELLE: https://www.ludwigsburg.de/start/kultur+und+freizeit/sport.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  location: bildungszentrum west
+  status_sport: partnerschule des sports baden-württemberg
+  angebot_sportbegabtenklasse: ja
+  sportbegabtenklasse_seit: 2016
+  sportbegabtenklasse_beschreibung: schulzeitstreckung - ein jahr laenger zeit fuer schulabschluss
+  sportbegabtenklasse_klassen: 8 9 10 10-plus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 98-ludwigsburg/021
+ENTITÄT: schule
+BEZEICHNUNG: Gottlieb-Daimler-Realschule
+QUELLE: https://www.ludwigsburg.de/start/kultur+und+freizeit/sport.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  location: bildungszentrum west
+  status_sport: partnerschule des sports baden-württemberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 98-ludwigsburg/022
+ENTITÄT: sportinternat
+BEZEICHNUNG: Sportinternat Ludwigsburg gGmbH
+QUELLE: https://www.ludwigsburg.de/start/kultur+und+freizeit/sport.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  location: bildungszentrum west
+  typ: vollzeitinternat
+  zielgruppe: athleten deren elternhaus zu weit entfernt ist
+  beschreibung: rund um die uhr versorgt, alles auf entwicklung der athleten ausgerichtet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 98-ludwigsburg/023
+ENTITÄT: sportinternat
+BEZEICHNUNG: Sportinternat Ludwigsburg - Teilzeitinternat
+QUELLE: https://www.ludwigsburg.de/start/kultur+und+freizeit/sport.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  parent_institution: sportinternat ludwigsburg ggmbh
+  typ: teilzeitinternat
+  angebot: flexible nachmittagsbetreuung individuell abgestimmt
+  services: hausaufgabenbetreuung, lernhilfen, lernen-lernen-workshops, mentaltraining
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 98-ludwigsburg/024
+ENTITÄT: infrastrukturprojekt
+BEZEICHNUNG: Bildungszentrum West
+QUELLE: https://www.ludwigsburg.de/start.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: umgestaltung und neubau
+  gueltig_ab_jahr: 2024
+  gueltig_bis_jahr: 2032
+  beschreibung: rohbauarbeiten fuer die ersten beiden gebaeude weit fortgeschritten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 98-ludwigsburg/025
+ENTITÄT: wohnprojekt
+BEZEICHNUNG: Wohnpark Fuchshof
+QUELLE: https://www.ludwigsburg.de/start.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: neubaugebiet
+  status: groesstes neubaugebiet ludwigsburgs
+  entwicklungsstand: wohnbebauung gestartet
+  infrastruktur_gruenanlage: ja
+  infrastruktur_spielplatz: ja
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 98-ludwigsburg/026
+ENTITÄT: infrastrukturprojekt
+BEZEICHNUNG: Radschnellweg RS 8
+QUELLE: https://www.ludwigsburg.de/start.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: radweg
+  gueltig_ab_jahr: 2026
+  status: baustart oktober 2026
+  erster_bauabschnitt: alleenstrasse
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 98-ludwigsburg/027
+ENTITÄT: sanierungsgebiet
+BEZEICHNUNG: Zentrale Innenstadt Entwicklung (ZIEL)
+QUELLE: https://www.ludwigsburg.de/start/stadt+entwickeln.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  location: innenstadt ludwigsburg
+  besonderheit: im herzen der barockstadt
+  handlungsschwerpunkte: campus-areal
+  grossprojekte: bahnhofsareal, oeffentliche raeume arsenal schiller zeughausplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 98-ludwigsburg/028
+ENTITÄT: sanierungsgebiet
+BEZEICHNUNG: Sanierungsgebiet Grünbühl-Sonnenberg / Karlshöhe
+QUELLE: https://www.ludwigsburg.de/start/stadt+entwickeln.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  location: grünbühl, sonnenberg, karlshöhe
+  foerderprogramm: soziale stadt
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 98-ludwigsburg/029
+ENTITÄT: sanierungsgebiet
+BEZEICHNUNG: Sanierungsgebiet Jägerhofkaserne
+QUELLE: https://www.ludwigsburg.de/start/stadt+entwickeln.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  location: jägerhofkaserne
+  aufnahme_stadtumbau_west: 2018
+  aufnahme_sozialer_zusammenhalt: 2019
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 98-ludwigsburg/030
+ENTITÄT: sanierungsgebiet
+BEZEICHNUNG: Sanierungsgebiet Östliche Innenstadt
+QUELLE: https://www.ludwigsburg.de/start/stadt+entwickeln.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  location: östliche innenstadt
+  status: juengstes sanierungsgebiet ludwigsburgs
+  beschluss: juni 2026
+  antrag_foerderung: in vorbereitung
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 98-ludwigsburg/031
+ENTITÄT: ort
+BEZEICHNUNG: Ludwigsburg
+QUELLE: https://www.ludwigsburg.de/start/kultur+und+freizeit/sport.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sportstadtstatus: ja
+  sportvereins_mitglieder: 35000
+  bundesliga_mannschaften: ca. 20
+  bundesliga_sportarten: basketball, handball, feld- und hallenhockey, karate, kunstturnen, tanzsport latein modern dance standard, triathlon, luftpistole, volleyball
+  rasenplaetze_anzahl: 9
+  fussball_kunstrasenplaetze_anzahl: 12
+  hockey_kunstrasenplaetze_anzahl: 3
+  multifunktionsfelder_bolzplaetze_anzahl: 19
+  rollschuhbahn_anzahl: 1
+  lehrschwimmbaeder_anzahl: 4
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

@@ -1,0 +1,26 @@
+ENTITÄT: ort
+BEZEICHNUNG: Allershausen
+QUELLE: https://www.allershausen.de/burgermeister/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwahnung_jahr: 814
+  ersterwahnung_name: Adalhareshusum
+  einwohner: 5900
+  einwohner_stand: 2024
+  region: Oberbayern
+  charakterisierung: Dom des Ampertals
+  landschaft: Amperlandschaft
+  geschichte_dauer: über 1200 Jahre
+GUELTIG_AB: 814
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: burgermeister
+BEZEICHNUNG: Martin Vaas
+QUELLE: https://www.allershausen.de/burgermeister/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Erster Bürgermeister
+  amtsinhabend: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

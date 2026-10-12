@@ -1,0 +1,1035 @@
+ID: 100-leonberg/001
+ENTITÄT: ort
+BEZEICHNUNG: Leonberg
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Leonbergs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_jahr: 1248
+  gründer: Graf Ulrich I. von Württemberg
+  gründungsort: Markungsgrenze zwischen Eltingen und Dilgshausen
+  gründungsgrund: Strategische Sicherung der Grafschaft gegen Westen
+  status_seit_1963: Große Kreisstadt
+  einwohner_1950: 12430
+  einwohner_1963: 20000
+  einwohner_1975: 35938
+  eingemeindung_eltingen: 1938
+  eingemeindung_andere_ortsteile: 1975
+  pest_1635_todesfälle: 635
+GUELTIG_AB: 1248
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 100-leonberg/002
+ENTITÄT: hunderasse
+BEZEICHNUNG: Leonberger Hund
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  züchter: Heinrich Essig
+  züchtung_jahr: 1846
+  zuchtkomponenten: Bernhardiner, Neufundländer, Pyrenäen-Wolfshund
+  verbreitung: international
+  charakteristik: kinderliebend
+GUELTIG_AB: 1846
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/003
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Johannes Kepler
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_jahr: 1571
+  geburt_ort: Weil der Stadt
+  leonberg_wohnzeit: ab 5. Lebensjahr
+  leonberg_bildung: Lateinschule
+  hauptwerk: Planetengesetze
+  karriere_1: Mathematicus in Graz
+  karriere_2: kaiserlicher Astronom Prag (ab 1601)
+  hauptwerk_publikation: Mysterium Cosmographicum 1596
+  tod_jahr: 1630
+GUELTIG_AB: 1576
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/004
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Katharina Kepler
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_jahr: 1547
+  geburt_ort: Eltingen
+  heirat_jahr: 1571
+  heirat_partner: Heinrich Kepler
+  umzug_leonberg: 1575
+  bürgerrecht_erwerb: 1575
+  hexenverdacht_jahr: 1615
+  haft_dauer_monate: 14
+  freisprechung: 1621
+  tod_jahr: 1622
+  tod_ort: Cleversulzbach
+GUELTIG_AB: 1575
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/005
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Christian Wagner
+ORTSTEIL_BEZUG: Warmbronn
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_datum: 5. August 1835
+  tod_datum: 15. Februar 1918
+  profession: Dichter und Bauer
+  eltern: Schreiner und Nebenerwerbslandwirt
+  erste_frau_tod: 1870
+  zweite_frau_tod: 1892
+  kinder: vier, zwei starben im Säuglingsalter
+  tätigkeiten: Taglöhner, Waldarbeiter
+  publikationen_regional: Gedichte in lokaler Presse
+  sammelband_erscheinungsjahr: 1913
+  sammelband_herausgeber: Hermann Hesse
+  sammelband_ort: München
+  populärstes_werk: Eigenbrötler. Kleine Geschichten aus meiner Jugendzeit (1915)
+  zentrale_idee: möglichste Schonung alles Lebendigen
+GUELTIG_AB: 1835
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/006
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Eduard Mörike
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_jahr: 1804
+  tod_jahr: 1875
+  beruf: Dichter
+  pfarrer_eltingen: Juli 1831 - Januar 1832
+  pfarrer_eltingen_bezeichnung: Pfarramtsverweser
+  dorf_größe: 1600 Seelen
+  vikariatsdauer_jahre: 8
+  arbeitsbezeichnung: Vikariatsknechtschaft
+  verfasste_gedichte: Agnes, Hochzeitlied
+  verfasste_werke: Maler Nolten (veröffentlicht August 1832)
+GUELTIG_AB: 1831
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/007
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Friedrich Wilhelm Joseph von Schelling
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburt_datum: 27. Januar 1775
+  geburt_ort: Leonberg
+  vater_beruf: Pfarrer
+  leonberg_aufenthalt_dauer: bis 2. Lebensjahr
+  studium_ort: Tübingen
+  professur_orte: Jena, Würzburg, Erlangen, München, Berlin
+  hauptwerk: Naturphilosophie
+  zentrale_begriffe: Freiheit, Geschichte
+  tod_jahr: 1854
+GUELTIG_AB: 1775
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/008
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Heinrich Essig
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1808-1887
+  profession: Züchter
+  zucht_rasse: Leonberger Hund
+  kreuzung_komponenten: Neufundländer, Bernhardiner, Pyrenäen-Wolfshund
+  hundetyp_charakteristik: kinderliebend
+  verbreitung: international
+  gesellschaftliche_rollen: Stadtrat, Vereinsengagement
+GUELTIG_AB: 1846
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/009
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Margarete Stingele
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1907-2000
+  zeit_des_engagements: Zweiter Weltkrieg
+  aktivitäten: Hilfe für Zwangsarbeiter und KZ-Häftlinge
+  unterstützungsformen: Essen, Kleidungsstücke, Informationen
+  versteck_häftlinge: fünf, einige Wochen vor Kriegsende
+  entdeckung_engagement: 1979
+  ehrung: Bundesverdienstkreuz 1980
+  volkstitel: Engel des KZ in Leonberg
+GUELTIG_AB: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/010
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Sybilla von Anhalt
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1564-1614
+  titel: Gräfin von Mömpelgard
+  titel_2: Herzogin von Württemberg
+  gatte: Friedrich I. von Württemberg
+  witwensitz: Leonberger Schloss
+  witwensitz_zeit: 1609-1614
+  einfluss: Hofbaumeister, Lustgarten, höfische Eleganz
+GUELTIG_AB: 1609
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/011
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Jeremias Schwartz
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1550-1621
+  profession: Bildhauer
+  aktivitätszeit_leonberg: 1570-1621
+  erste_werke: Bauskulpturen Stadtkirchturm 1574
+  position_1: Hofbildhauer kurpfälzischer Hof Heidelberg (ab ca. 1582)
+  rückkehr_leonberg: nach 1590
+  leistung: Begründer eigener Grabdenkmalform für bürgerliche Oberschicht
+  bedeutung_superlativ: wichtigste Bildhauer Spätrenaissance mittlerer Neckarraum
+  erhaltene_werke: zahlreiche Grabdenkmäler in Stadtkirche
+GUELTIG_AB: 1574
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/012
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Daniel Speer
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1636-1707
+  position_leonberg: Lehrer Lateinschule
+  tätigkeitszeit_leonberg: 1670-1672
+  spätere_position: Lehrer Göppingen
+  bekanntheit_grund: Herausgabe mehrerer Romane
+  literarische_einordnung: schwäbischer Simplizissimus
+  weitere_werke: Kirchenmusik, Bläserstücke, geistliche Konzerte
+GUELTIG_AB: 1670
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/013
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Elisabeth Dorothea Schiller
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1732-1802
+  sohn: Friedrich Schiller (Dichter)
+  wohnort_leonberg: Leonberger Schloss
+  zeitraum_schloss: November 1796 - Anfang 1802
+  vorige_residenz: Solitude
+  finanzierung: Zuschuss vom Sohn, sparsame Wirtschaft
+  tod_ort: Cleversulzbach (Tochter)
+  tod_datum: 29. April 1802
+GUELTIG_AB: 1796
+IST_VERMUTISMUS_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/014
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Christian Röckle
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1883-1966
+  herkunft: Eltingen
+  profession: Missionar
+  gründung_bausparkasse: 1929 in Leonberg
+  gründungsname: Creditgenossenschaft des Christlichen Notbundes zur gegenseitigen Hilfe
+  umbenennung: 1934 zu Leonberger Bausparkasse
+  austritt: bald nach Gründung aus Vorstand
+  grund_austritt: Zwiespalt zwischen Evangelisation und Unternehmertum
+GUELTIG_AB: 1929
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 100-leonberg/015
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Otto Baum
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1900-1977
+  geburt_ort: Leonberg
+  aufwachsen_ort: Vaihingen
+  ausbildung: Stuttgarter Akademie
+  besonderheit_1: einer der bedeutendsten Bildhauer Mitte 20. Jahrhundert Deutschland
+  geschichtlicher_kontext: während Nazi-Regime ins Abseits geraten
+  arbeitsmodus: versteckt arbeiten, keine Ausstellungen
+  künstlerischer_beitrag: Begründer moderne Plastik, Formvereinfachung
+  anerkennung_von: Hans Arp, Henry Moore
+  anstellung: 1946 Stuttgarter Akademie
+  superlativ_werk: Bronzerelief "Ruhendes Paar" 1939
+  standort_werk: Altes Rathaus Leonberg
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 100-leonberg/016
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Berta Haffner
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1888-1973
+  profession: Kontoristin
+  historische_bedeutung: erste Frau im Gemeinderat Leonbergs
+  partizipation_gemeinderatswahl: ab 1919
+  parteiaffilitation: SPD-Fraktion
+  amtszeit_dauer: drei Jahre
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/017
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: G.W. Hoffmann
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1771-1846
+  titel: Leonberger Bürgermeister
+  gründung_gut_korntal: 1819
+  gründungsgruppe: 68 Familien pietistischer Glaubensauffassung
+  gründungszweck: Güterkaufgesellschaft
+  ziel_gruppe: Erwartung der nahen Wiederkunft Christi
+  inspiration: Christianopolis von Johann Valentin Andreä
+GUELTIG_AB: 1819
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 100-leonberg/018
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Helmut Lachenmann
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Ehrenbürger/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Komponist
+  rang: Weltrang
+  verleihungsdatum: 26. Juli 2026
+  verleihungsanlass: außergewöhnliches Wirken
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/019
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Prof. Dr. Helmuth Rilling
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Ehrenbürger/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Dirigent
+  verleihungsdatum: 24. September 2019
+  verleihungsanlass: 85. Geburtstag (29. Mai)
+  besonderheit: Dirigent, Kirchenmusiker, Musikpädagoge
+  wirkung: bekannt gemacht Namen der Stadt Leonberg in aller Welt
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/020
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Brigitte Vöster-Alber
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Ehrenbürger/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: geschäftsführende Gesellschafterin Firma GEZE
+  verleihungsdatum: 17. Juli 2013
+  grund: herausragende Verdienste als Unternehmerin
+  unternehmen_eigenschaft: international agierend
+  unternehmen_sitz: Leonberg
+  unternehmenstyp: Familienunternehmen
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/021
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Prof. Dr. Frei Otto
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Ehrenbürger/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1925-2015
+  verleihungsdatum: 3. Juli 2000
+  verleihungsanlass: 75. Geburtstag (31. Mai)
+  rang: einer der bedeutendsten lebenden Architekten der Welt (2000)
+GUELTIG_AB: 2000
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/022
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Pfarrer Prof. Dr. hc. Albrecht Goes
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Ehrenbürger/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1908-2000
+  verleihungsdatum: 22. März 1998
+  verleihungsanlass: 90. Geburtstag
+GUELTIG_AB: 1998
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/023
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Emil Bammesberger
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Ehrenbürger/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1889-1971
+  beruf: Fabrikant
+  verleihungsdatum: 22. Oktober 1969
+  verleihungsanlass: 80. Geburtstag
+  positionen: Altstadtrat, Inhaber Steinhaus Schwarzer Adler
+  verdienste: Lehrlingsausbildung, Industrie- und Wirtschaftsförderung, Freiwillige Feuerwehr
+GUELTIG_AB: 1969
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/024
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Reinhold Vöster
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Ehrenbürger/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1884-1968
+  position: Seniorchef Firma Gretsch & Co GmbH
+  firmenzweig: Vereinigte Baubeschlag-Fabrik Leonberg
+  verleihungsdatum: 24. Juli 1964
+  verleihungsanlass: 80. Geburtstag
+  verdienste: Repräsentation und Ansehen Stadt, Industrie- und Wirtschaft, Kultur und Bildung
+GUELTIG_AB: 1964
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/025
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Heinrich Staudt
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Ehrenbürger/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1887-1979
+  beruf: Kfz-Meister
+  verleihungsdatum: 12. November 1962
+  verleihungsanlass: 75. Geburtstag (14. November)
+  wirkungsbereich: Stadtteil Eltingen
+  verdienste: KFZ-Gewerbe-Ausbau, Unternehmerinitiativen
+GUELTIG_AB: 1962
+GUELTIG_BIS: 1979
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/026
+ENTITÄT: ehrenbürger
+BEZEICHNUNG: Christian Wagner
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Ehrenbürger/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeit: 1835-1918
+  beruf: Dichter und Bauer
+  ortsteil: Warmbronn
+  verleihungsdatum: 5. August 1915
+  verleihungsanlass: 80. Geburtstag
+  grund: treue Verbundenheit mit Geburts- und Wohnort, Mehrung des Ansehens
+GUELTIG_AB: 1915
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/027
+ENTITÄT: kirche
+BEZEICHNUNG: Michaelskirche
+ORTSTEIL_BEZUG: Eltingen
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Eltingens/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1487
+  baumeister: Peter von Koblenz
+  konfession: evangelisch
+GUELTIG_AB: 1487
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/028
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Auferstehungskirche
+ORTSTEIL_BEZUG: Gebersheim
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Gebersheims/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirchenschiff_neu_eingeweiht: 1968
+  konfession: evangelisch
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 100-leonberg/029
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche
+ORTSTEIL_BEZUG: Gebersheim
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Gebersheims/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ältester_teil_erbaut: 1588
+GUELTIG_AB: 1588
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 100-leonberg/030
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Kirche St. Michael
+ORTSTEIL_BEZUG: Höfingen
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Höfingens/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1966
+  ausstattung: Gemeinderäume
+  konfession: katholisch
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/031
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Täufer-Johannes-Kirche
+ORTSTEIL_BEZUG: Warmbronn
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Tourismus/Sehenswertes/Geschichtliche-Rundgänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hauptstraße 44
+  konfession: evangelisch
+GUELTIG_AB: 1784
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 100-leonberg/032
+ENTITÄT: kirche
+BEZEICHNUNG: Neuapostolische Kirche
+ORTSTEIL_BEZUG: Höfingen
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Höfingens/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1962
+  konfession: neuapostolisch
+GUELTIG_AB: 1962
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/033
+ENTITÄT: rathaus
+BEZEICHNUNG: Altes Rathaus
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Tourismus/Sehenswertes/Geschichtliche-Rundgänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: um 1480
+  ursprünglicher_name: Bürgerhaus
+  adresse: Pforzheimer Straße 11
+  nebennutzung: Traubenpressung Höfinger Wein (Untergeschoss)
+  nebennutzung_2: Kinderschule (erste, 1893)
+GUELTIG_AB: 1480
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 100-leonberg/034
+ENTITÄT: rathaus
+BEZEICHNUNG: Eltinger Rathaus
+ORTSTEIL_BEZUG: Eltingen
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Eltingens/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1841
+  ausstattung: Kelter im Erdgeschoss
+GUELTIG_AB: 1841
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/035
+ENTITÄT: rathaus
+BEZEICHNUNG: Höfinger Rathaus
+ORTSTEIL_BEZUG: Höfingen
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Höfingens/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1971/72
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/036
+ENTITÄT: schloss
+BEZEICHNUNG: Leonberger Schloss
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Leonbergs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1560-1565
+  auftraggeber: Herzog Christoph
+  grundlage: Burg mit Fachwerkoberbau
+  lustgarten_name: Pomeranzengarten
+  lustgarten_baumeister: Heinrich Schickhardt
+  lustgarten_anlage: 1609-1614
+  lustgarten_rekonstruktion: 1980
+  lustgarten_besonderheit: einziger Terrassengarten Spätrennaissance Deutschland
+  bewohner_schiller_mutter: Elisabeth Dorothea Schiller (1796-1801)
+  bewohner_sybilla: Sybilla von Anhalt (1609-1614)
+GUELTIG_AB: 1560
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/037
+ENTITÄT: schloss
+BEZEICHNUNG: Höfinger Schloss
+ORTSTEIL_BEZUG: Höfingen
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Höfingens/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1500-1550
+  grundlage: Burggemäuer
+  bauweise: Fachwerkoberbau
+  historischer_kontext: Stammsitz Truchsessen von Höfingen
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 100-leonberg/038
+ENTITÄT: brunnen
+BEZEICHNUNG: Marktbrunnen
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Leonbergs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  renovierung: 1566
+  dekoration: Wappnerfigur mit Wappen und Hoheitszeichen Landesherrn
+GUELTIG_AB: 1566
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 100-leonberg/039
+ENTITÄT: gedenkstätte
+BEZEICHNUNG: KZ-Gedenkpfad "Weg der Erinnerung"
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Tourismus/Sehenswertes/Geschichtliche-Rundgänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lager_betriebszeit: Frühjahr 1944 - April 1945
+  häftlinge_gesamt: ca. 3000
+  häftlinge_herkunft: 24 europäische Länder
+  arbeitseinsatz: Montage Tragflächen und Fahrwerk ME 262
+  montageort: Engelbergtunnel
+  todesfälle_umgebettet: 337
+  gedenkpfad_stationen: 6
+  gedenkpfad_startpunkt: Friedhof Seestraße (Altseefriedhof)
+  gedenkpfad_themen: Leben, Arbeiten und Sterben der Gefangenen
+GUELTIG_AB: 1944
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 100-leonberg/040
+ENTITÄT: lager_konzentration
+BEZEICHNUNG: KZ-Außenlager Leonberg
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Leonbergs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betriebszeit: 1944-1945
+  betriebszeit_genauer: Frühjahr 1944 - April 1945
+  übergeordnete_anlage: KZ Natzweiler (Elsass)
+  häftlinge_nationale_herkunft: ganz Europa
+  häftlinge_anzahl: ca. 3000
+  arbeitseinsatz: Rüstungsgüter im Engelbergtunnel
+  arbeitseinsatz_spezifik: Tragflächen und Fahrwerk ME 262
+  unterkunft_häftlinge: Baracken, später Flakkaserne
+  todesfälle: 374
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/041
+ENTITÄT: wanderweg
+BEZEICHNUNG: Ortshistorischer Rundwanderweg Höfingen
+ORTSTEIL_BEZUG: Höfingen
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Tourismus/Sehenswertes/Geschichtliche-Rundgänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stationen: 25
+  streckenlänge_km: 2.6
+  gehzeit_minuten: 40
+  startpunkt: Altes Rathaus Höfingen, Pforzheimer Str. 11
+  besonderheiten: Schloss, Altes Rathaus, Traubenpresserei, erste Kinderschule 1893
+  information: Höfinger Heimatverein e.V.
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 100-leonberg/042
+ENTITÄT: wanderweg
+BEZEICHNUNG: Christian-Wagner-Dichterpfad
+ORTSTEIL_BEZUG: Warmbronn
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Tourismus/Sehenswertes/Geschichtliche-Rundgänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lesestationen: 11
+  route_beschaffenheit: Wiese und Wald rund um Warmbronn
+  gesamtgehzeit_stunden: 2
+  südteil_stationen: 1-5
+  südteil_gehzeit_minuten: 45
+  nordteil_stationen: 5-11
+  nordteil_gehzeit_minuten: 75
+  startpunkt: Christian-Wagner-Haus Warmbronn
+  startpunkt_adresse: Christian-Wagner-Straße 3
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 100-leonberg/043
+ENTITÄT: wanderweg
+BEZEICHNUNG: Historischer Ortsrundgang Warmbronn
+ORTSTEIL_BEZUG: Warmbronn
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Tourismus/Sehenswertes/Geschichtliche-Rundgänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  thema: historische Dorfkern-Gebäude
+  merkmale: Pfarrhaus, Kirche, Backhaus, Rathaus
+  startpunkt: Evangelische Täufer-Johannes-Kirche Warmbronn
+  startpunkt_adresse: Hauptstraße 44
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 100-leonberg/044
+ENTITÄT: wanderweg
+BEZEICHNUNG: Altstadtrundgang Leonberg
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Tourismus/Sehenswertes/Geschichtliche-Rundgänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stationen: 29
+  startpunkt: Altes Rathaus
+  markierung: rote Hinweistafeln
+  informationsmaterial: Broschüre "Leonberg. 20 Sehenswürdigkeiten"
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 100-leonberg/045
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Bronzerelief "Ruhendes Paar"
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Otto Baum
+  jahr: 1939
+  material: Bronze
+  standort: Altes Rathaus Leonberg
+  künstlerische_bedeutung: Werk eines der bedeutendsten Bildhauer um Mitte 20. Jahrhundert
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/046
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Stadtbrand
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Leonbergs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr_erstes: 1498
+  häuser_zerstört_1498: 46
+  obdachlose_1498: ca. 200
+  auswirkung_1498: Wiederaufbau noch 50 Jahre verzögert, 20 Hofstätten unaufgebaut
+  jahr_zweites: 1895
+  wohngebäude_zerstört_1895: 54
+  scheunen_zerstört_1895: 16
+  auswirkung_1895: Wiederaufbau rasch vorangeschritten, Neuordnung Quartier
+GUELTIG_AB: 1498
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/047
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Landtag (Leonberger Landtag)
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Leonbergs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 16. November 1457
+  grund: Vormundschaft für Graf Eberhard V.
+  rechtsfolge: Mitspracherecht für bürgerliche Oberschicht vertraglich zugesichert
+  historische_bedeutung: erster württembergischer Landtag (von Württemberg-Urach)
+GUELTIG_AB: 1457
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/048
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Pest
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Leonbergs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1635
+  todesfälle_leonberg: 635
+  bevölkerungsanteil_leonberg: ca. Hälfte
+  todesfälle_eltingen: 660
+  todesfälle_eltingen_anteil: nur ein Drittel überlebt
+  todesfälle_höfingen: 245
+  bevölkerungsanteil_höfingen: über ein Drittel
+  todesfälle_gebersheim: 113
+  bevölkerungsanteil_gebersheim: etwa ein Drittel
+GUELTIG_AB: 1635
+GUELTIG_BIS: 1635
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/049
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Aufstand "Armer Konrad"
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Leonbergs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1514
+  grund: Steuererhöhung
+  folgen: häufigere Frondienste, zunehmende Regelungen landesherrliche Verwaltung
+  beteiligung_schorndorf: Brennpunkt, blutiges Ende
+  beteiligung_leonberg: Brennpunkt, Zugeständnisse vom Herzog Ulrich
+GUELTIG_AB: 1514
+GUELTIG_BIS: 1514
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 100-leonberg/050
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Einführung Reformation
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Leonbergs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1534
+  ort: Württemberg
+  auswirkung_leonberg: widerwillige Einführung evangelischer Glaube
+  folgen: Auflösung Franziskanerkloster, Auflösung Nonnenklause
+GUELTIG_AB: 1534
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/051
+ENTITÄT: markt
+BEZEICHNUNG: Leonberger Pferdemarkt
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Leonbergs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_austragung: 1684
+  grund_gründung: wirtschaftliche Lage verbessern, Geldabfluss ins Ausland verhindern
+  zielkonkurrenz: Pforzheimer Pferdemarkt
+  besonderheit_erhalt: einziger Jahrmarkt der bis heute erhalten
+GUELTIG_AB: 1684
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 100-leonberg/052
+ENTITÄT: bausparkasse
+BEZEICHNUNG: Leonberger Bausparkasse
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Persönlichkeiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründungsjahr_verein: 1924
+  gründer_verein: Christian Röckle
+  vereinsname_original: Christlicher Notbund zur gegenseitigen Hilfe
+  umbenennungsjahr: 1934
+  bausparkasse_name: Leonberger Bausparkasse
+  gründungszweck: Wohnungsnot abhelfen
+  auswirkung: bekannt gemacht Stadt überall in Deutschland
+GUELTIG_AB: 1924
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 100-leonberg/053
+ENTITÄT: autobahninfrastruktur
+BEZEICHNUNG: Engelbergtunnel
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Leonbergs/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: 1935-1938
+  besonderheit: erster Autobahntunnel Deutschland
+  bauherr: Reichsautobahn
+  markung: Leonberger und Eltinger Markung
+  kriegsnutzung: Rüstungsgüterfertigung, Montage Tragflächen und Fahrwerk ME 262
+  kriegsopfer: zahlreiche Todesopfer durch katastrophale Arbeitsbedingungen
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/054
+ENTITÄT: museum
+BEZEICHNUNG: Christian-Wagner-Haus
+ORTSTEIL_BEZUG: Warmbronn
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Tourismus/Sehenswertes/Geschichtliche-Rundgänge/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  originalzweck: Wohnhaus Dichter Christian Wagner
+  heutiger_zweck: Museum
+  adresse: Christian-Wagner-Straße 3
+  nutzung: Veranstaltungsort Christian-Wagner-Gesellschaft
+GUELTIG_AB: 1835
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 100-leonberg/055
+ENTITÄT: ortsteil
+BEZEICHNUNG: Höfingen
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Höfingens/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frühe_besiedlung: 5.-7. Jahrhundert (Alamanen)
+  erste_urkundliche_erwähnung: 1100
+  adelsgeschlecht_erste_erwähnung: ca. 1290
+  adelsgeschlecht: Truchsessen von Höfingen
+  befestigungsanlagen: Tore und Graben ca. 1290
+  burg_zerstörung: 1395 (Schleglerkrieg)
+  schloss_neubau: 1500-1550
+  pest_1635_opfer: 245
+  pest_1635_bevölkerungsanteil: über ein Drittel
+  gebäude_1850: 261 insgesamt, 131 Wohn-/Hauptgebäude
+  eingemindungsjahr: 1. Januar 1975
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/056
+ENTITÄT: ortsteil
+BEZEICHNUNG: Eltingen
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Eltingens/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frühe_besiedlung: 5.-7. Jahrhundert (Alamanen)
+  erste_urkundliche_erwähnung: 1100
+  markung_abtretung_leonberg: 1248/49
+  zugehörigkeit_württemberg: 1318
+  hofstätten_1350: 71
+  kirchenneubau: 1487 (Michaelskirche)
+  pest_1635_opfer: 660
+  pest_1635_bevölkerungsanteil: nur ein Drittel überlebt
+  freibad_einweihung: 1938
+  eingemindungsjahr_kandidatur: seit 1924 verhandelt
+  eingemindungsjahr: 1. Oktober 1938
+  gebäude_1850: 414 insgesamt, 231 Wohn-/Hauptgebäude
+  erwerbszweige_1850: Gipsgewinnung (3 Steinbrüche, 14 Gipsmühlen), Landwirtschaft
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/057
+ENTITÄT: ortsteil
+BEZEICHNUNG: Warmbronn
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Warmbronns/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  siedlung_ursprung: 10. Jahrhundert (Rodungssiedlung von Renningen)
+  erste_urkundliche_erwähnung: 1100
+  hofstätten_1350: 32
+  zugehörigkeit_württemberg: 1452
+  kloster_hirsau_vertrag: Tausch aller Güter und Rechte an Württemberg
+  bevölkerung_1655: ca. 150
+  bevölkerung_vorkrieg_1634: ca. 350
+  häuser_1731: 76 insgesamt, 51 Wohnhäuser
+  kirche_neubau: 1784
+  christlicher_wagner_geburt: 5. August 1835
+  christlicher_wagner_tod: 15. Februar 1918
+  christlicher_wagner_denkmal: auf dem Friedhof
+  christlicher_wagner_geburtshaus: heute Museum
+  haupterwerbszweig_1850: Landwirtschaft mit Viehhandel
+  nebenerwerbszweig_1850: Holzhandel, Kleinhandel
+  wohnhäuser_1925: 124
+  wasserleitung_1927: öffentliche Ausleitung Hirschquelle
+  grundschule_1962: eingeweiht
+  kläranlage_1965: mechanisch-biologisch
+  wagner_kindergarten_1969: Eröffnung
+  müldeponie_1969: Rübenloch angelegt
+  stöckhof_kindergarten_1973: eröffnet
+  eingemindungsjahr: 1. Januar 1975
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/058
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gebersheim
+QUELLE: https://www.leonberg.de/Kultur-Sport-Tourismus/Stadtgeschichte/Entwicklung-Leonbergs/Geschichte-Gebersheims/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frühe_besiedlung: 5.-7. Jahrhundert (Alamanen)
+  erste_urkundliche_erwähnung: 1100
+  zugehörigkeit_württemberg: 1308
+  zugehörigkeit_glemsgau: 1308
+  kirche_erbaut: 1588
+  pest_1635_opfer: 113
+  pest_1635_bevölkerungsanteil: etwa ein Drittel
+  bevölkerung_1654: 46
+  häuser_1731: 39 insgesamt, 26 Wohnhäuser
+  haupterwerbszweig_1850: Landwirtschaft und Viehzucht
+  wohnhäuser_1925: 98
+  bevölkerung_1925: 476
+  erwerbszweig_1925: zwei Drittel Landwirtschaft, ein Drittel Gewerbe und Fabrikarbeit
+  wasserleitung_1927: Ausbau mit Hochreservoir
+  kirchenschiff_1968: Neues Kirchenschiff Evangelische Auferstehungskirche
+  grundschule_1970_71: Bau
+  turnhalle_1970_71: Bau
+  festhalle_1970_71: Bau
+  kindergarten_1970_71: Bau
+  gewerbegebiet_1971: Erschließung Carl-Zeiss-Straße
+  kleinschwimmhalle_1974: Bau
+  bürgerhaus_1974: Bau
+  eingemindungsjahr: 1. Januar 1975
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/059
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Bad Lobenstein
+QUELLE: https://www.leonberg.de/Bürger-Stadt/Stadt/Stadtportrait/Partnerstädte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Thüringen (Deutschland)
+  kreis: Saale-Orla-Kreis
+  status: Kurstadt
+  offizieller_name_ab: 2005
+  einwohner: ca. 7.500
+  beziehung_zu_leonberg: Patenschaft (kein offizieller Partnerschaftsvertrag)
+  kontakt_grund: Mitarbeiter Leonberger Verwaltung halfen beim Aufbau neue Verwaltungsstrukturen nach Wende
+  treffen_tradition: Leonberger Pferdmarkt und Lobensteiner Marktfest
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 100-leonberg/060
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Belfort
+QUELLE: https://www.leonberg.de/Bürger-Stadt/Stadt/Stadtportrait/Partnerstädte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  departement: Territoire de Belfort
+  region_ab_2016: Bourgogne-Franche-Comté
+  entfernung_leonberg_km: 280
+  partnerschaftsjahr: 1977
+  bügermeister_amtsantritt_2014: Damien Meslot
+  bürgermeister_bestätigung: Juni 2020 (57% Zustimmung für weitere 6 Jahre)
+  bürgermeister_partei: UMP (später Les Républicains)
+  bürgermeister_weitere_positionen: Präsident Communauté d'Agglomération Belfortaine
+  gemeinderat_sitze: 43 insgesamt
+  gemeinderat_mehrheit_sitze: 34
+  gemeinderat_mehrheit_liste: Tous ensemble pour Belfort
+  gemeinderat_opposition_sitze: 9
+  kontakte: Schulen, Kirchen, Vereine
+  austausch_rhythmus: großes Partnerschaftswochenende jährlich im Wechsel
+  jubiläum_40: Mai 2017 mit zeitgleich Blumenmarkt Belflorissimo unter Motto
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/061
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Berlin-Neukölln
+QUELLE: https://www.leonberg.de/Bürger-Stadt/Stadt/Stadtportrait/Partnerstädte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Deutschland
+  staat: Berlin
+  stadt_bezirk: Neukölln
+  einwohner: über 300.000
+  einwohner_nationen: 160+
+  kontaktaufnahme_grund: nach Mauerbau 1960er Jahre, Hilfe gegen Isolierungsgefühl
+  kontaktaufnahme_grund_2: Neukölln lag direkt an der Mauer
+  partnerschaftsjahr: 1970
+  bezirksbürgermeister_amtsantritt_2018: Martin Hikel (SPD)
+  bezirksbürgermeister_vorgänger: Dr. Franziska Giffey (wechselte zur Bundesregierung als Familienministerin)
+  bezirksbürgermeister_geburt: 1986
+  bezirksbürgermeister_ausbildung: Politikwissenschaften und Mathematik (Lehramt)
+  bezirksbürgermeister_erfahrung: Lehrer, seit 2011 Bezirksverordneter, seit 2016 SPD-Fraktionsvorsitzender
+  bezirksbürgermeister_zuständigkeiten: Leitung Abteilung Finanzen und Wirtschaft
+  bezirksbürgermeister_schwerpunkt: Bildung
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 100-leonberg/062
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Rovinj
+QUELLE: https://www.leonberg.de/Bürger-Stadt/Stadt/Stadtportrait/Partnerstädte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Kroatien
+  region: Halbinsel Istrien (Westküste)
+  italienischer_name: Rovigno
+  einwohner: mehr als 14.000
+  italienische_minderheit_anteil: knapp 12%
+  amtssprachen: zweisprachig (kroatisch, italienisch)
+  partnerschaftsjahr: 1990
+  partnerschaftssignum: Partnerschaftsvertrag unterzeichnet
+  austausch_rhythmus: alle zwei Jahre im Wechsel
+  kontakte_typ: persönliche Kontakte durch Sportler, Musiker, Schüler
+  schüleraustausch_sprache: Italienisch (wegen italienisch-stämmiger Bevölkerung)
+  gymnasium_verbindung: italienisches Gymnasium Rovinj - Johannes-Kepler-Gymnasium Leonberg (lose Verbindung)
+  bürgermeister_amtsantritt_2017: Dr. Marko Paliaga
+  bürgermeister_vorgänger: Giovanni Sponza
+  bürgermeister_geburt: 1974 in Pola
+  bürgermeister_ausbildung: Wirtschaftswissenschaften
+  bürgermeister_promotion: Marketingstrategien für Städte
+  tourismusattraktivität: malerisches Stadtbild, zahlreiche Strände
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

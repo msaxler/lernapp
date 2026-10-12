@@ -1,0 +1,993 @@
+ZIELORT: Pforzheim (Stadt)
+LAGE: 1 km nördlich von Pforzheim (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Pforzheim
+
+GRUNDDATEN:
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 134.422  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 98,07 | 97,99  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 1371  [berechnet aus Einwohner und Fläche]
+  kfz: PF (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 273 | 261 | 256 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2853969)]
+  naechste_grossstadt: Pforzheim, 1 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 37 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  ersterwaehnung: 1067  [Wikidata P1249]
+  bahnhof: Bahnhof Pforzheim-Weißenstein, Brötzingen Mitte, Brötzingen Sandweg, Brötzingen Wohnlichstraße, Haltepunkt Eutingen (Baden), Pforzheim Hauptbahnhof, Pforzheim Maihälden  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 75172–75181  [Wikidata P281]
+  vorwahl: 07231, 07234  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: AfD 29,3 %, CDU 26,9 %, SPD 12,2 %, GRÜNE 9,5 %, Die Linke 7 %, FDP 5,7 %, BSW 5,4 %; Wahlbeteiligung 75,7 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Peter Boch (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-08]
+  partnerstaedte: Gernika, Saint-Maur-des-Fossés, Vicenza, Osijek, Irkutsk, Nevşehir, Częstochowa, Komitat Győr-Moson-Sopron  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT kfz: Kennzeichen (Ersatz: Partnerstadt), A, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Ludwigsburg (Stadt)
+  landkreis: Ludwigsburg  [dewiki Infobox]
+  einwohner: 93.002  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 43,34  [Wikidata P2046; Altbestand staedte.json]
+  kfz: LB (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 293 | 256 | 298 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2875392)]
+  naechste_grossstadt: Stuttgart, 13 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Ludwigsburg  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 27,8 %, GRÜNE 17,5 %, AfD 15,9 %, SPD 15,8 %, Die Linke 9 %, FDP 5,9 %; Wahlbeteiligung 82,3 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Frankfurt am Main, Rüsselsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Koblenz, Rhens, Boppard, St. Goar, Oberwesel, Bacharach, Bingen, Ingelheim, Alzey, Nierstein, Oppenheim, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg
+
+FAKTEN (Zielort Pforzheim):
+ID: 99-pforzheim/001
+ENTITÄT: ort
+BEZEICHNUNG: Pforzheim
+QUELLE: https://www.pforzheim.de/kultur/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: römische Siedlung (Portus)
+  entstehung_jahr: 90
+  leugenstein_fund: 244 n.Chr.
+  erste_urkundliche_erwaehnung: 1067
+  marktrecht_erworben: ca. 1080
+  erwaehnung_beiname: Pforte zum Schwarzwald
+  sitz_markgraf_baden: 1535-1565
+  eintritt_bluethezeit: 13./14. Jahrhundert
+  zerstoerung_luftangriff: 23. Februar 1945
+  todesfaelle_1945: 18000
+  wiederaufbau_dauer_jahre: 40
+  einwohnerzahl_aktuell: 125000
+  ist_schmuckstadt: true
+  ist_uhrenstadt: true
+  industrie_bedeutung: führend in Deutschland für Gold- und Silberwarenfertigung
+GUELTIG_BIS: 1945 (für Zerstörung)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 99-pforzheim/002
+ENTITÄT: bombardierung
+BEZEICHNUNG: Luftangriff auf Pforzheim
+ORTSTEIL_BEZUG: Innenstadt
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/architektur-denkmalpflege.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 23. Februar 1945
+  dauer_minuten: 20
+  verursacher: alliierte Fliegerangriff
+  zerstoerungsmittel: Bombenhagel und Feuersturm
+  ausmass: komplett
+  todesfaelle: ca. 18000
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 99-pforzheim/003
+ENTITÄT: gebaeude
+BEZEICHNUNG: Pforzheimer Hauptbahnhof (Empfangsgebäude)
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/architektur-denkmalpflege.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architektur_stil: Nachkriegsmoderne
+  einweihung_jahr: 1958
+  architekt: Helmuth Conradi
+  architektur_merkmal: schwebevordach, glasfront, leuchtender Körper in Dämmerung
+  bedeutung: markantes Beispiel nachkriegsdeutscher Verkehrsarchitektur
+GUELTIG_AB: 1958
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 99-pforzheim/004
+ENTITÄT: gebaeude
+BEZEICHNUNG: Reuchlinhaus
+ORTSTEIL_BEZUG: Stadtgarten
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/architektur-denkmalpflege.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekt: Manfred Lehmbruck
+  baujahr: 1961
+  architekt_herkunft: Schüler des Bauhauses, Sohn Wilhelm Lehmbruck
+  architektur_stil: Bauhaus-inspiriert
+  architektur_merkmale: Panoramascheiben, frei schwingende Treppenspirale, pavillonartige Quader, großzügiges Foyer
+  internationale_beachtung: true
+  insassen_schmuckmuseum: true
+  insassen_kunstverein_pforzheim: true
+  insassen_museumscafe: true
+GUELTIG_AB: 1961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 99-pforzheim/005
+ENTITÄT: kirche
+BEZEICHNUNG: Matthäuskirche
+ORTSTEIL_BEZUG: Brötzingen-Arlinger
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/architektur-denkmalpflege.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekt: Egon Eiermann
+  baujahr: 1953
+  architektur_stil: Nachkriegsmoderne
+  material_besonderheit: farbige Betonwabensteine aus Trümmersplitt
+  material_besonderheit_einzigartig: true
+  beschreibung: Inkunabel der Nachkriegsmoderne
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 99-pforzheim/006
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johannes Reuchlin
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/johannes-reuchlin.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsdatum: 22. Februar 1455
+  geburtsort: Pforzheim
+  todesjahr: 1522
+  sterbeort: Stuttgart
+  beiname: Phorcensis (aus Pforzheim)
+  beruf: Humanist, Jurist, Bundesrichter
+  bedeutung: einer der wichtigsten europäischen Humanisten
+  vergleichbar_mit: Erasmus von Rotterdam
+  lehrfach_universitaet: Griechisch und Hebräisch
+  lehrstuhl_ab_1520: Universität Ingolstadt, ab 1522 Tübingen
+  hauptanliegen: Wiedererschließung lateinischer, griechischer und hebräischer religiöser und philosophischer Urtexte
+  vorbild: Toleranz, interreligiöser Dialog
+  engagement: Erhalt des jüdischen Schrifttums
+  verurteilung_kirche: 1520 - ewiges Stillschweigen
+  werk_augenspiegel: 1511 - Gutachten gegen Verbrennung jüdischer Bücher
+GUELTIG_AB: 1455
+GUELTIG_BIS: 1522
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 99-pforzheim/007
+ENTITÄT: museum
+BEZEICHNUNG: Museum Johannes Reuchlin
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/johannes-reuchlin.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 2008
+  location: Schloßkirche
+  beschreibung: Lernort und Stätte des Humanismus
+  fokus: Leben, Werk und Wirken des Humanisten Johannes Reuchlin
+  architekt_wiederaufbau: Bernhard Hirche (Hamburg)
+  gestaltung: Stahl-Glas-Konstruktion, schwebende Ausstellungsebenen
+  besonderheit_wand_des_humanismus: südliche Chorwand mit Kriegswunden erhalten
+  zugang_stiftschor: direkt angrenzend
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 99-pforzheim/008
+ENTITÄT: preis
+BEZEICHNUNG: Reuchlinpreis
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/johannes-reuchlin.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gestiftung_jahr: 1955
+  grund: 500. Geburtstag Johannes Reuchlin
+  erster_verleiher: Bundespräsident Theodor Heuss
+  verleihungsrhythmus: 3-Jahres-Turnus (später 2-3 Jahre)
+  kategorie: geisteswissenschaftlicher Preis
+  kriterium: hervorragende geisteswissenschaftliche Leistungen im Sinne Reuchlins
+  vorschlag_akademie: Heidelberger Akademie der Wissenschaften
+GUELTIG_AB: 1955
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 99-pforzheim/009
+ENTITÄT: kongress
+BEZEICHNUNG: Internationaler Reuchlinkongress
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/johannes-reuchlin.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  veranstalter: Stadt Pforzheim
+  rhythmus: 5-Jahres-Turnus
+  fokus: Reuchlins Leben, Werk und Wirkung im Kontext europäischer Renaissance-Humanismus
+  zuletzt: 2022 (Reuchlin-Jubiläumsjahr)
+GUELTIG_AB: 1961 (erste Reuchlinschriften)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 99-pforzheim/010
+ENTITÄT: archiv
+BEZEICHNUNG: Stadtarchiv Pforzheim
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/stadtarchiv.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtlicher_name: Institut für Stadtgeschichte
+  funktion: Gedächtnis der Verwaltung und Ansprechpartner für Fragen der Stadtgeschichte
+  bestaende: Zeitungen, Fotos, Plakate, Pläne, Karten, Filme, amtliche Unterlagen
+  zugang: öffentlich für Interessierte
+  nutzer: Privatpersonen, Wissenschaftler, Behörden, Gerichte
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 99-pforzheim/011
+ENTITÄT: dokument
+BEZEICHNUNG: Goldenes Buch der Stadt Pforzheim
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/goldenes-buch.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Visitenkarte der Stadt
+  geschichte: bis 1972 identisch mit Stadtchronik, dann neu geschaffen
+  beginn_neue_eintraege: 1950
+  eintraeger_beispiele: Bundespräsidenten, Bundeskanzler, Ministerpräsidenten
+  gestaltung: individuell durch Pforzheimer Grafiker
+GUELTIG_AB: 1950 (neue Version)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/012
+ENTITÄT: industrie
+BEZEICHNUNG: Schmuck- und Uhrenindustrie Pforzheim
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: 1718 Waisenhaus mit Uhrenfabrik, später Schmuckfertigung hinzugekommen
+  formale_gruendung_schmuck: 1767
+  gewerbefreiheit_einfuehrung: 1776
+  bedeutung: führender Standort für Gold- und Silberwarenfertigung in Deutschland
+  bluethezeit_uhren: 1920er Jahre (Armbanduhren)
+  status_heute: deutschlandweit führend
+GUELTIG_AB: 1718 (Waisenhaus), 1767 (Schmuck formal)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 99-pforzheim/013
+ENTITÄT: gebaeude
+BEZEICHNUNG: Waisenhaus (ehem. Dominikanerinnenloster)
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundung: 1718
+  offizielle_bezeichnung: Waisen-, Toll-, Kranken-, Zucht- und Arbeitshaus
+  funktion_original: Waisenbetreuung, Krankenbetreuung
+  funktion_erweiterung: Uhrenfabrik (Markgraf Karl-Friedrich), später Schmuckwaren
+  bedeutung: Grundstein der Pforzheimer Schmuck- und Uhrenindustrie
+GUELTIG_AB: 1718
+IST_VERMUTLICH_AKTUELL: false (historisches Gebäude)
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 99-pforzheim/014
+ENTITÄT: gebaeude
+BEZEICHNUNG: Neues Rathaus
+QUELLE: https://www.pforzheim.de/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 7. Juli 1973
+  bauzeit: 5 Jahre
+  material: Sichtbeton
+  standort: Marktplatz
+  besonderheit_foyer: hohe Foyerhalle
+  besonderheit_glockenspiel: 46 Glocken, von Bürgern gestiftet
+  innenarchitektur: Herta-Maria Witzemann
+  kunstwerke: HAP Griesbaber
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 99-pforzheim/015
+ENTITÄT: kirche
+BEZEICHNUNG: Schloß- und Stiftskirche St. Michael
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau_ungefaehr: ca. 1225
+  architektur: spätgotisch und romanisch
+  funktion_heute: Pfarrkirche, Stiftschor
+  stiftschor_funktion: seit 1556 Grablege des badischen Fürstenhauses
+  graeberkunst: Grabdenkmäler im Stil der Spätrenaissancezeit
+  besonderheit: steinernes Geschichtsbuch Pforzheims
+  glasfenster: herausragende Kunstwerke der Nachkriegszeit
+GUELTIG_AB: 1225
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 99-pforzheim/016
+ENTITÄT: gebaeude
+BEZEICHNUNG: Altstadtkirche
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Altstädter Straße 25
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 99-pforzheim/017
+ENTITÄT: museum
+BEZEICHNUNG: Schmuckmuseum
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  location: Reuchlinhaus (Stadtgarten)
+GUELTIG_AB: 1961
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/018
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1979
+  ortsteil: Brötzingen
+  schwerpunkt: Stadtgeschichte vom Mittelalter bis Nachkriegszeit
+  ausstattung: originalgetreue Werkstätten traditioneller Gewerbe
+  highlight_druckerpresse: erste Medienrevolution zu Zeiten Reuchlins
+  highlight_benz_patent_motorwagen: funktionstüchtiger Nachbau (Bertha-Benz-Mobil)
+GUELTIG_AB: 1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 99-pforzheim/019
+ENTITÄT: museum
+BEZEICHNUNG: Technisches Museum der Schmuck- und Uhrenindustrie
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1983
+  ortsteil: Eutingen
+  thema: Schmuck- und Uhrenindustrie Pforzheims
+  adresse: Bleichstraße 81
+GUELTIG_AB: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/020
+ENTITÄT: museum
+BEZEICHNUNG: Bäuerliches Museum
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1983
+  ortsteil: Eutingen
+GUELTIG_AB: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 99-pforzheim/021
+ENTITÄT: gebaeude
+BEZEICHNUNG: Synagoge (alt)
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1893
+  zerstoerung: Pogromnacht 1938
+GUELTIG_AB: 1893
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 99-pforzheim/022
+ENTITÄT: gebaeude
+BEZEICHNUNG: Synagoge (neu)
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 2006
+  betreiber: Jüdische Gemeinde Pforzheim
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/023
+ENTITÄT: gebaeude
+BEZEICHNUNG: Fatih Moschee
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1992
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/024
+ENTITÄT: hochschule
+BEZEICHNUNG: Fachhochschule Pforzheim
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zusammenschluss: 1992
+  bestandteile: Fachhochschulen für Wirtschaft und Gestaltung
+  offizielle_bezeichnung: Hochschule für Gestaltung, Technik und Wirtschaft
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/025
+ENTITÄT: schule
+BEZEICHNUNG: Reuchlin-Gymnasium
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namenspatron: Johannes Reuchlin
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 99-pforzheim/026
+ENTITÄT: schule
+BEZEICHNUNG: Kunstgewerbeschule (heute Fakultät für Gestaltung)
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1877
+GUELTIG_AB: 1877
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/027
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bertha Benz
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum_ereignis: 1888
+  ereignis: erste Fernfahrt mit Automobil von Mannheim nach Pforzheim und zurück
+  begleiter: ihre beiden Söhne
+GUELTIG_AB: 1888
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/028
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Heinrich Wieland
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Pforzheim
+  geburtsjahr: 1877
+  todesjahr: 1957
+  leistung: Nobelpreis für Chemie
+  nobelpreis_jahr: 1927
+GUELTIG_AB: 1877
+GUELTIG_BIS: 1957
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 99-pforzheim/029
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Thomas Anshelm
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Buchdrucker
+  betaetigung_jahr: 1496
+  publikationen: Bücher Johannes Reuchlins und anderer Humanisten
+GUELTIG_AB: 1496
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/030
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Ferdinand Oechsle
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erfindung: Mostwaage
+  erfindungszweck: Bestimmung des Zuckergehalts
+  erfinderzeit: ca. 1836
+GUELTIG_AB: 1836
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 99-pforzheim/031
+ENTITÄT: organisation
+BEZEICHNUNG: Löbliche Singergesellschaft der Stadt Pforzheim
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1501
+GUELTIG_AB: 1501
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/032
+ENTITÄT: gebaeude
+BEZEICHNUNG: Auferstehungskirche
+QUELLE: https://www.pforzheim.de/kultur/digitale-angebote/denkmal-digital.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Goebenstraße 2
+  baujahr: 1946-1948
+  besonderheit: erster deutscher Nachkriegskirchenbau
+  typ: Notkirche
+  architekt: Otto Bartning
+  architekt_hintergrund: Mitverfasser Bauhaus-Manifest 1919, NS-Gegner
+  einweihung: 24. Oktober 1948
+  finanzierung: Weltkirchenrat und Hilfswerk der Evangelischen Kirche, Spenden aus aller Welt
+  bedeutung: Prototyp für Notkirchenprogramm in kriegszerstörten Städten
+GUELTIG_AB: 1948
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 99-pforzheim/033
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kreativzentrum EMMA
+QUELLE: https://www.pforzheim.de/kultur/digitale-angebote/denkmal-digital.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Emma-Jaeger-Straße 20
+  ursprung: Emma-Jaeger-Bad
+  bauzeit_original: 1911
+  stil_original: deutsche Neorenaissance
+  architekten_original: Alfred Roepert
+  ausstattung_original: zwei Schwimmhallen, Dampf- und Sonnenbad
+  benannt_nach: Emma Jaeger (Stifterin)
+  zerstoerung: westliche Schwimmhalle 1945
+  umwandlung: 2014 Umgestaltung zum Kreativzentrum
+  foerderung: Europäischer Fonds für regionale Entwicklung (EFRE)
+GUELTIG_AB: 1911 (Original), 2014 (Kreativzentrum)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/034
+ENTITÄT: gebaeude
+BEZEICHNUNG: Technisches Rathaus (Neues)
+QUELLE: https://sbh-pforzheim.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  projekt: Schlossberghöfe
+  bauprojekt_start: Januar 2022
+  planierte_fertigstellung: 2029
+  zusatzfunktion: Infopunkt Bauen
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/035
+ENTITÄT: bauprojekt
+BEZEICHNUNG: Schlossberghöfe
+QUELLE: https://sbh-pforzheim.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Innenstadt Pforzheim
+  gesamtareal: ca. 30000 m²
+  gebaeude_grundflaeche: ca. 9500 m²
+  freiflaechen_und_strassen: ca. 14500 m²
+  baukoerper: 4 im Rathaushof und nördlich der Fußgängerzone
+  geplante_wohnungen: ca. 140
+  geplante_kitas: 2
+  gastronomie: ja
+  einzelhandel: ja
+  supermarkt: ja
+  kulturraum: ja
+  tiefgaragen: 3
+  baustart: Januar 2022 (Baufeld 1)
+  geplante_fertigstellung: 2029
+  funktion: Wohnen, Arbeiten, Kultur, Einzelhandel
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/036
+ENTITÄT: gebaeude
+BEZEICHNUNG: Kollmar & Jordan Haus (ehem. Schmuckfabrik)
+QUELLE: https://www.pforzheim.de/kultur/digitale-angebote/denkmal-digital.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Bleichstraße 81
+  bauzeit: 1900-1910
+  zweck_original: Schmuckfabrik Kollmar & Jourdan AG
+  erweiterung: 1922 Kontorgebäude (Nr. 77) mit Gangway
+  nachnutzung_ab_1977: Technisches Museum, Pforzheim-Galerie, Gewerbetreibende
+  nachnutzung_ab_2011: Carlo-Schmid-Schule
+  status: Denkmalschutz
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/037
+ENTITÄT: gebaeude
+BEZEICHNUNG: Burgruine Liebeneck
+QUELLE: https://www.pforzheim.de/kultur/digitale-angebote/denkmal-digital.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Würmtal (oberhalb der Würmtalstraße)
+  erste_erwaehnung: 1263
+  erwaehnung_kontext: Schenkungsurkunde mit Floßzoll am Liebenecker Wehr
+  urspruengliche_funktion: Überwachung einer Talschleife des Würmtals
+  hypothetische_gruendung_grund: Erzbergbau im Umfeld
+  baubestandteile: Bergfried, Kernburg mit Palaswesten, fünfseitige Ringmauer, Zwingermauern, Halsgräben
+  status: sanierungsarbeiten (zeitweise nicht zugänglich)
+GUELTIG_AB: 1263
+IST_VERMUTLICH_AKTUELL: false (Ruine)
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/038
+ENTITÄT: stadtteil
+BEZEICHNUNG: Brötzingen
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1905
+GUELTIG_AB: 1905
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/039
+ENTITÄT: stadtteil
+BEZEICHNUNG: Dillweißenstein
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1913
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/040
+ENTITÄT: stadtteil
+BEZEICHNUNG: Würm
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1971-1975 (Gebietsreform)
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/041
+ENTITÄT: stadtteil
+BEZEICHNUNG: Hohenwart
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1971-1975 (Gebietsreform)
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/042
+ENTITÄT: stadtteil
+BEZEICHNUNG: Büchenbronn
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1971-1975 (Gebietsreform)
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/043
+ENTITÄT: stadtteil
+BEZEICHNUNG: Huchenfeld
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1971-1975 (Gebietsreform)
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/044
+ENTITÄT: stadtteil
+BEZEICHNUNG: Eutingen
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1971-1975 (Gebietsreform)
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/045
+ENTITÄT: epidemie
+BEZEICHNUNG: Typhus-Epidemie
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1805/06
+GUELTIG_AB: 1805
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/046
+ENTITÄT: ereignis
+BEZEICHNUNG: Pforzheimer Fürstenhochzeit
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1447
+  braetigam: Markgraf Karl I. von Baden
+  braut: Katharina von Österreich (Schwester Kaiser Friedrichs III.)
+  merkmale: großer Prunk
+GUELTIG_AB: 1447
+GUELTIG_BIS: 1447
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 99-pforzheim/047
+ENTITÄT: ereignis
+BEZEICHNUNG: Goldschmiedsrevolution
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1839
+  grund: Konflikt über Arbeitszeit in Pforzheimer Industrie
+  folge: gewalttaetige Auseinandersetzungen
+GUELTIG_AB: 1839
+GUELTIG_BIS: 1839
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/048
+ENTITÄT: ereignis
+BEZEICHNUNG: Pforzheimer Weiberkrawall
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: ca. 1725
+  kontext: Pforzheimer Privilegienstreit 1715-1730
+  grund: Widerstand gegen Steuerforderungen des badischen Markgrafen
+  beschreibung: tumultartig geführter Privilegienstreit
+GUELTIG_AB: 1725
+GUELTIG_BIS: 1725
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/049
+ENTITÄT: stele
+BEZEICHNUNG: Historische Stelen
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/historische-stelen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konzept_initiatoren: Kulturamt, Verkehrsverein Pforzheim e.V., Pforzheim mitgestalten e.V., Löbliche Singergesellschaft, WSP
+  umsetzungsziel: Schmuck- und Uhrenjubiläum 2017
+  location: Innenstadtgebiet
+  funktion: Information zur Stadtgeschichte
+  themenverbindung: historische Orte mit Themen, Bildern und Kurztexten
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 99-pforzheim/050
+ENTITÄT: institution
+BEZEICHNUNG: Kommunale Statistikstelle Pforzheim
+QUELLE: https://www.pforzheim.de/buerger/buergerservice/zahlen-und-fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: abgeschottete Statistikstelle nach Landesstatistikgesetz
+  funktion: zentrale Datendrehscheibe der Stadtverwaltung
+  aufgaben: Bevölkerungsstatistik, Wahlergebnisse, Sozialplanung, Mietspiegelerbung, Gewerbeflächenprognose
+  online_portal: PFAU (Pforzheimer Analyseumgebung)
+  intranet_portal: PSP (Pforzheimer Statistikportal)
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/051
+ENTITÄT: gebaeude
+BEZEICHNUNG: Hauptfriedhof
+QUELLE: https://www.pforzheim.de/kultur/digitale-angebote/denkmal-digital.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Ispringer Straße 42
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 99-pforzheim/052
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gasometer
+QUELLE: https://www.pforzheim.de/kultur/digitale-angebote/denkmal-digital.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hohenwiesenweg 6
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 99-pforzheim/053
+ENTITÄT: theater
+BEZEICHNUNG: Stadttheater
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1987/90
+  standort: Waisenhausplatz
+  eigenschaft: neu gebaut
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/054
+ENTITÄT: gebaeude
+BEZEICHNUNG: Stadthalle
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1987
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/055
+ENTITÄT: kulturzentrum
+BEZEICHNUNG: Kulturhaus Osterfeld
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1994
+  gebaeude: historisches Osterfeldgebäude
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/056
+ENTITÄT: kulturzentrum
+BEZEICHNUNG: Jugendkulturzentrum Kupferdächle
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1981
+  betreiber: Manfred-Bader-Stiftung
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/057
+ENTITÄT: museum
+BEZEICHNUNG: Pforzheim-Galerie
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 2000
+  bemerkung: Anzahl Pforzheimer Museen erhöht sich damit auf elf
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/058
+ENTITÄT: museum
+BEZEICHNUNG: Museum Gegen das Vergessen
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1998
+  eigenschaft: privat
+  schwerpunkt: DDR-Geschichte
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/059
+ENTITÄT: stele
+BEZEICHNUNG: Archäologischer Schauplatz Kappelhof
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1995
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 99-pforzheim/060
+ENTITÄT: ereignis
+BEZEICHNUNG: Tornado-Ereignis
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 10. Juli 1968
+  tageszeit: Abendstunden
+  ausmass: Verwüstung weiter Teile der Innenstadt
+GUELTIG_AB: 1968
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/061
+ENTITÄT: event
+BEZEICHNUNG: Landesgartenschau
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1992
+  ergebnis: großräumige Park- und Erholungslandschaft im Osten des Stadtgebietes
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: false (temporär)
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/062
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Partnerschaft mit Gernika
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Spanien
+  gruendung: 1989
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/063
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Partnerschaft mit Saint-Maur-des-Fossés
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  gruendung: 1990
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/064
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Partnerschaft mit Vicenza
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Italien
+  gruendung: 1991
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/065
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Partnerschaft mit Irkutsk
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Russland
+  gruendung: 1999
+GUELTIG_AB: 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/066
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Partnerschaft mit Nevsehir
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Türkei
+  gruendung: 2000
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/067
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Partnerschaft mit Györ-Moson-Sopron
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Ungarn
+  gruendung: 2001
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/068
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Partnerschaft mit Tschenstochau
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Polen
+  gruendung: 2007
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/069
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Partnerschaft mit Osijek
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Kroatien
+  gruendung: 2008
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/070
+ENTITÄT: bibliothek
+BEZEICHNUNG: Stadtbibliothek Pforzheim
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau_einweihung: 2002
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/071
+ENTITÄT: gebaeude
+BEZEICHNUNG: Schmuckwelten
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wiederoeffnung: 2005
+  standort: Leopoldplatz
+  vorprojekt: Industriehaus
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 99-pforzheim/072
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Bombardierung 23. Februar 1944
+QUELLE: https://www.pforzheim.de/stadt/stadtgeschichte/kleine-stadtchronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1. April 1944
+  ausmass: größerer Luftangriff
+  opfer: 95 Menschen
+  besonderheit: meiste Bomben auf unbebautes Gebiet
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 99-pforzheim/073
+ENTITÄT: event
+BEZEICHNUNG: Tag des offenen Denkmals
+QUELLE: https://www.pforzheim.de/kultur/digitale-angebote/denkmal-digital.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: 1984 Frankreich
+  internationale_verbreitung: 50 europäische Länder
+  deutsche_koordination: Deutsche Stiftung Denkmalschutz mit Landesdenkmalämtern und Kommunen
+GUELTIG_AB: 1984 (international), 1991 (European Heritage Days)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

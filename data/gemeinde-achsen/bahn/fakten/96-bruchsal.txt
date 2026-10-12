@@ -1,0 +1,914 @@
+ID: 96-bruchsal/001
+ENTITÄT: ort
+BEZEICHNUNG: Bruchsal
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung: Bruohsella
+  erste_urkundliche_erwahnung_jahr: 976
+  bedeutung_name: Herrenhof im Sumpf
+  erste_nennung_als_stadt_oppidum: 1248
+  gehoert_zum_hochstift_speyer: 1056-1803
+  zerstoerung_pfaelzischer_erbfolgekrieg: 1689
+  badischer_besitz_ab: 1803
+  grosse_kreisstadt_ab: 1956
+  bombenangriff_1945_zerstoerung_prozent: 80
+  bombenangriff_1945_tote: über 1000
+  wiederaufbau_abgeschlossen: 1975
+  ueberschreitet_40000_einwohner: 1994
+  archaeologische_besiedlung: Michelsberger Kulturkreis (mehrere tausend Jahre)
+GUELTIG_AB: 976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 96-bruchsal/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Helmsheim
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung: 769, 770
+  alter_ab_2019: 1250 Jahre
+GUELTIG_AB: 769
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Heidelsheim
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung: 769, 770
+GUELTIG_AB: 769
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Obergrombach
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung_vor_jahren_ab_2014: 1225
+  eingemeindung: 1971-1974
+GUELTIG_AB: 789
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Untergrombach
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwahnung_vor_jahren_ab_2014: 1225
+  eingemeindung: 1971-1974
+  bauernfuehrer: Joß Fritz
+GUELTIG_AB: 789
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Büchenau
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1971-1974
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 96-bruchsal/007
+ENTITÄT: bauwerk
+BEZEICHNUNG: Bergfried
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_jahr: 1358
+  erbaut_unter: Bischof Gerhard von Ehrenberg
+  superlativ: ältestes noch erhaltenes Bauwerk der Stadt
+  geburtstag_650jahre_gefeiert: 2008
+GUELTIG_AB: 1358
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 96-bruchsal/008
+ENTITÄT: kirche
+BEZEICHNUNG: Stadtkirche Unsere Liebe Frau
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  chor_grundsteinlegung: 1447
+  erste_urkundliche_erwahnung_vor_jahren_ab_2018: 750
+GUELTIG_AB: 1447
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/009
+ENTITÄT: kirche
+BEZEICHNUNG: Barockkirche St. Peter
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau_beginn_jahr: 1742
+  bau_plaene: Balthasar Neumann
+  vollendung_unter: Franz Christoph von Hutten
+  vollendung_jahr: 1743
+  superlativ: einziges Bruchsaler Gotteshaus, das Zweiten Weltkrieg unbeschadet überstanden hat
+GUELTIG_AB: 1742
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 96-bruchsal/010
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Lazaruskapelle
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/bilderraetsel+zur+stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_jahr: 1780
+  funktion: Spitalkapelle
+  anlass: Bezug des danebenliegenden Krankenspitals
+GUELTIG_AB: 1780
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 96-bruchsal/011
+ENTITÄT: schloss
+BEZEICHNUNG: Bruchsaler Schloss
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  residenz_plan: 1720
+  residenz_planer: Damian Hugo von Schönborn
+  grundsteinlegung: 1722
+  zerstoerung: 1689 (Pfälzischer Erbfolgekrieg)
+  renovierung_ab: 1904
+  renovierung_leiter: Fritz Hirsch
+  renovierung_beendigung: 1910
+  witwensitz_ab: 1806 (Markgräfin Amalie von Baden)
+  wiederaufbau_abgeschlossen: 1975
+  beletage_wiederoeffnung: 2017 (nach 14 Jahren)
+  sammlung_jan_brauer_seit: 1984
+  verwaltungssitz_seit: 2009 (Staatliche Schlösser und Gärten Baden-Württemberg)
+GUELTIG_AB: 1722
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 96-bruchsal/012
+ENTITÄT: brunnen
+BEZEICHNUNG: Brunnen Ferdinand Keller
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/bilderraetsel+zur+stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Belvedere
+  errichtet_jahr: 1912
+  benannt_nach: Ferdinand Keller
+  anlass: Erinnerung an Wirken Ferdinand Kellers, der Bruchsaler Tradition wieder zum Leben erweckte
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/013
+ENTITÄT: bauwerk
+BEZEICHNUNG: Wasserburg mit Reservoir
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_jahr: 1750
+  funktion: zentrale Wasserversorgung Schlossbereich
+  ort: heutiger Stadtgarten
+GUELTIG_AB: 1750
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/014
+ENTITÄT: schule
+BEZEICHNUNG: Schönborn-Gymnasium
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1757
+  gruender: Franz Christoph von Hutten
+  250jaehriges_bestand_ab: 2005
+  besonderheit: gehört zu ältesten Schulen Baden-Württembergs
+GUELTIG_AB: 1757
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 96-bruchsal/015
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Fürst-Stirum-Klinik
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1777
+  gruender: Damian August von Limburg-Stirum
+  a_bau_100jahre_ab: 2006
+GUELTIG_AB: 1777
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/016
+ENTITÄT: gefaengnis
+BEZEICHNUNG: Neue Männerzuchthaus zu Bruchsal
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung_jahr: 1848
+  baummeister: Heinrich Hübsch
+  erste_insassen: Revolutionäre der Jahre 1848/49
+GUELTIG_AB: 1848
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/017
+ENTITÄT: bibliothek
+BEZEICHNUNG: Stadtbibliothek
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_als_volksbuecherei: 1884
+  geschichte_125jahre_ab: 2009
+GUELTIG_AB: 1884
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/018
+ENTITÄT: museum
+BEZEICHNUNG: Städtisches Museum
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung_jahr: 1902
+GUELTIG_AB: 1902
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/019
+ENTITÄT: museum
+BEZEICHNUNG: Deutsches Musikautomaten-Museum
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestand: Titanic-Orgel
+  ausstellung_2012: Untergang des Kreuzfahrtschiffes vor 100 Jahren
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 96-bruchsal/020
+ENTITÄT: institution
+BEZEICHNUNG: Landesfeuerwehrschule Baden-Württemberg
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ansaessig_ab: 1952
+  trainingszentrums_inbetriebnahme: 2000
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/021
+ENTITÄT: universitaet
+BEZEICHNUNG: International University in Germany
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1998
+  standort: Gelände der ehemaligen Dragonerkaserne
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/022
+ENTITÄT: schwimmbad
+BEZEICHNUNG: Erstes Bruchsaler Schwimmbad
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/bilderraetsel+zur+stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_jahr: 1891
+  frauenbadbassin_hinzugefuegt_jahr: 1897
+  nachfolger_auf_gelaende: Stirumschule
+GUELTIG_AB: 1891
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/023
+ENTITÄT: platz
+BEZEICHNUNG: Otto-Oppenheimer-Platz
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/bilderraetsel+zur+stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueherer_volksmund_name: Klein-Venedig
+  errichtung: 2011
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/024
+ENTITÄT: platz
+BEZEICHNUNG: Friedrichsplatz
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neugestaltung_durch: Jürgen Goertz
+  einweihung_jahr: 2008
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/025
+ENTITÄT: platz
+BEZEICHNUNG: Europaplatzes
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Bahnhof
+  neugestaltung_einweihung: 2010
+GUELTIG_AB: 2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/026
+ENTITÄT: gebaude
+BEZEICHNUNG: Friedrichspalais
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaeuung: 2007
+  lage: Stadtmitte
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/027
+ENTITÄT: buergerzentrum
+BEZEICHNUNG: Bürgerzentrum
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung_jahr: 1987
+  bauzeit_jahre: 3
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/028
+ENTITÄT: einkaufszentrum
+BEZEICHNUNG: Rathausgalerie
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung_jahr: 2011
+  lage: Stadtmitte
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/029
+ENTITÄT: kraftwerk
+BEZEICHNUNG: Bruchsaler Geothermiekraftwerk
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundsteinlegung_jahr: 2008
+  grundsteinlegung_durch: Umweltministerin Tanja Gönner
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/030
+ENTITÄT: musikschule
+BEZEICHNUNG: Musik- und Kunstschule
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1969
+  50jaehriges_bestand_ab: 2019
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/031
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bruchsaler Bahnhof
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung_jahr: 1843
+  bahnlinie: Heidelberg-Bruchsal-Karlsruhe
+GUELTIG_AB: 1843
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/032
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Telefonnetz
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_fernsprecher_installation: 1889
+GUELTIG_AB: 1889
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/033
+ENTITÄT: wassertum
+BEZEICHNUNG: Spatzenturm
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/bilderraetsel+zur+stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_jahr: 1721
+  ort: nördlich der Saalbach am Ostende der Viktoriastraße
+  funktion: Wassertum für Bauhofversorgung
+  zerstoerung: nach Ende des Zweiten Weltkriegs bis auf Erdgeschoss
+GUELTIG_AB: 1721
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/034
+ENTITÄT: gebaude
+BEZEICHNUNG: Bahnschlitten
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/bilderraetsel+zur+stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: ungewöhnliche Gebäudeform
+  frueherer_standort: zwischen Rathausstraße und Oppenloch
+GUELTIG_AB: ?
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 96-bruchsal/035
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Partnerschaft Helmsheim-Gornja Radgona
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsteil_bruchsal: Helmsheim
+  partnerort: Gornja Radgona
+  partnerland: Slowenien
+  bestand_10jahre_ab: 2016
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/036
+ENTITÄT: person_historisch
+BEZEICHNUNG: Damian Hugo von Schönborn
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Fürstbischof
+  aktivitaet: plant und ließ neue Residenz bauen
+  planung_residenz: 1720
+  grundsteinlegung_schloss: 1722
+  todesjahr: 1743
+  alter_at_death: 66 Jahre
+GUELTIG_AB: 1720
+GUELTIG_BIS: 1743
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/037
+ENTITÄT: person_historisch
+BEZEICHNUNG: Balthasar Neumann
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Architekt
+  werk: Plaene für Barockkirche St. Peter
+  baubeginn: 1742
+GUELTIG_AB: 1742
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/038
+ENTITÄT: person_historisch
+BEZEICHNUNG: Franz Christoph von Hutten
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Fürstbischof
+  aktivitaet: Vollendung Schlossanlage und Peterskirche
+  gruendung: Schönborn-Gymnasium
+  gruendung_jahr: 1757
+GUELTIG_AB: 1743
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/039
+ENTITÄT: person_historisch
+BEZEICHNUNG: Damian August von Limburg-Stirum
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Fürstbischof
+  gruendung: Spital (heute Fürst-Stirum-Klinik)
+  gruendung_jahr: 1777
+GUELTIG_AB: 1777
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/040
+ENTITÄT: person_historisch
+BEZEICHNUNG: Markgräfin Amalie von Baden
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktivitaet: macht Bruchsaler Schloss zu Witwensitz
+  jahr_aktivitaet: 1806
+GUELTIG_AB: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/041
+ENTITÄT: person_historisch
+BEZEICHNUNG: Heinrich Hübsch
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Baumeister
+  werk: Neue Männerzuchthaus zu Bruchsal
+  fertigstellung: 1848
+GUELTIG_AB: 1848
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/042
+ENTITÄT: person
+BEZEICHNUNG: Fritz Hirsch
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/bilderraetsel+zur+stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Ehrenbürger der Stadt Bruchsal
+  ehrung_grund: Bauleistung
+  position: Vorstand der Bezirksbauinspektion 1905-1910
+  aktivitaet: leitete Renovierung des Schlosses und der Peterskirche ab 1904
+  ehrenbuerger_ab: 1922
+GUELTIG_AB: 1905
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/043
+ENTITÄT: person
+BEZEICHNUNG: Ferdinand Keller
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/bilderraetsel+zur+stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktivitaet: erweckte beliebte Bruchsaler Tradition wieder zum Leben
+  denkmal: Brunnen am Belvedere 1912 errichtet
+GUELTIG_AB: 1912
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/044
+ENTITÄT: person_historisch
+BEZEICHNUNG: Joß Fritz
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Bauernführer
+  herkunft: Untergrombach
+  aktivitaet: Anführer des Bundschuh-Aufstands
+  aufstand_jahr: 1502
+  ausgang: gescheitert
+  bewegung: Bundschuhbewegung und Bauernkrieg am Oberrhein im frühen 16. Jahrhundert
+GUELTIG_AB: 1502
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/045
+ENTITÄT: person
+BEZEICHNUNG: Otto Oppenheimer
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/bilderraetsel+zur+stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  werk: Der Brusler Dorscht
+  werk_status: heimliche Hymne der Stadt Bruchsal
+  werk_erstaufführung: 1901
+  erfundener_charakter: Graf Kuno
+  stammlokal_des_charakters: Der Rappen (offizielles Stammlokal)
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/046
+ENTITÄT: person
+BEZEICHNUNG: Otto Härdle
+QUELLE: https://www.bruchsal.de/erleben/kultur/kommission-fuer-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geborenheit_jahr: 1900
+  todesjahr: 1978
+  beruf: Heimatforscher
+  titel: Ehrenbürger Bruchsal
+  weitere_funktion: Karlsruher Schulrektor
+  wirkungsort: Heidelsheim
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/047
+ENTITÄT: person
+BEZEICHNUNG: Cornelia Petzold-Schick
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Oberbürgermeisterin
+  wahl_jahr: 2009
+  besonderheit: erste Frau als Oberbürgermeisterin in Bruchsals Geschichte
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/048
+ENTITÄT: person
+BEZEICHNUNG: Marianne Kirchgessner
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Glasharmonikavirtuosin
+  ortsbezeichnung: Bruchsaler
+  geburtstag_250jahre_ab: 2019
+GUELTIG_AB: 1769
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 96-bruchsal/049
+ENTITÄT: person
+BEZEICHNUNG: Dr. Ute Obhof
+QUELLE: https://www.bruchsal.de/erleben/kultur/kommission-fuer-stadtgeschichte/dr-ute-obhof | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  promotion_fach: Mediävistik, Germanistik
+  universitaetsbibliothek_freiburg_taetig: 1993-1997
+  position_freiburg: Leiterin der Rara-Abteilung
+  badische_landesbibliothek_karlsruhe_taetig: bis 2025
+  position_karlsruhe: Leiterin der Handschriftenabteilung
+  spezialisierung: mittelalterliche Handschriften, Inkunabeln, wertvolle und seltene Drucke
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/050
+ENTITÄT: person
+BEZEICHNUNG: Dr. Jürgen Treffeisen
+QUELLE: https://www.bruchsal.de/erleben/kultur/kommission-fuer-stadtgeschichte/dr-juergen-treffeisen-vorsitzender | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Vorsitzender der Kommission für Stadtgeschichte
+  promotion_jahr: 1988
+  promotion_fach: mittelalterliche Geschichte
+  generallandesarchiv_karlsruhe_taetig_bis: 2025
+  position_archiv: stellvertretender Leiter
+  weitere_mitgliedschaften: Alemannisches Institut, Kommission für Geschichtliche Landeskunde Baden-Württemberg
+  lehrtaetigkeit: Universität Freiburg Historisches Seminar (Abteilung Landesgeschichte)
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/051
+ENTITÄT: person
+BEZEICHNUNG: Prof. Dr. Konrad Dussel
+QUELLE: https://www.bruchsal.de/erleben/kultur/kommission-fuer-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: stellvertretender Vorsitzender der Kommission für Stadtgeschichte
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 96-bruchsal/052
+ENTITÄT: person
+BEZEICHNUNG: Steffen Maisch
+QUELLE: https://www.bruchsal.de/erleben/kultur/kommission-fuer-stadtgeschichte/steffen-maisch-stellv-vorsitzender | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: stellvertretender Vorsitzender der Kommission für Stadtgeschichte
+  beruf: Lehrer
+  schule: Käthe-Kollwitz-Schule in Bruchsal
+  lehrfaecher: Deutsch, Geschichte mit Gemeinschaftskunde, Ethik
+  weitere_funktion: Fachberater Regionalstelle Karlsruhe des Zentrums für Schulqualität und Lehrerbildung
+  historische_schwerpunkte: Geschichte Heidelsheims, Nationalsozialismus und Jüdische Geschichte
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/053
+ENTITÄT: person
+BEZEICHNUNG: Prof. Dr. Werner Schnatterbeck
+QUELLE: https://www.bruchsal.de/erleben/kultur/kommission-fuer-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Stadtrat
+  initiative: Gründung Kommission für Stadtgeschichte
+  vorsitzender_bis: 2025
+  gründung_jahr: 2019
+GUELTIG_AB: 2019
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/054
+ENTITÄT: person
+BEZEICHNUNG: Rainer Kaufmann
+QUELLE: https://www.bruchsal.de/erleben/kultur/kommission-fuer-stadtgeschichte/rainer-kaufmann | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Journalist
+  medienbereich: Zeitung, TV, Bücher
+  historische_schwerpunkte: Demokratiegeschichte in Bruchsal, Badische Revolution 1848/49, NS-Zeit, Nachkriegszeit
+  funktion_verein: Vorsitzender Förderverein Demokratiegeschichte in Bruchsal
+  weitere_aktivitaeten: historische Stadt- und Friedhofsführungen, Heimatkunde-TV (Geschichte und Geschichten)
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 96-bruchsal/055
+ENTITÄT: person
+BEZEICHNUNG: Prof. Dr. Jürgen Wacker
+QUELLE: https://www.bruchsal.de/erleben/kultur/kommission-fuer-stadtgeschichte/prof-dr-juergen-wacker | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf_ehemals: Chefarzt der Frauenklinik Bruchsal
+  beruf_aktuell: Gynäkologische Praxis in Bruchsal
+  weitere_funktionen: Stadtrat, Kreisrat
+  historische_schwerpunkte: Jugendzentrumsbewegung Edingen-Neckarhausen, Dr. Johann Peter Frank, historische Erklärung von Genitaler Verstümmelung
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 96-bruchsal/056
+ENTITÄT: organisation
+BEZEICHNUNG: Kommission für Stadtgeschichte Bruchsal
+QUELLE: https://www.bruchsal.de/erleben/kultur/kommission-fuer-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 2019
+  gruender_initiator: Prof. Dr. Werner Schnatterbeck
+  vorsitzender_ab_2019: Dr. Jürgen Treffeisen
+  tradition: Nachfolger der Historischen Kommission der Stadt Bruchsal (1980-2005)
+  gremium_typ: fachliches und beratendes Gremium
+  arbeitsbereich: historische Fragestellungen und Beurteilungen für Stadt Bruchsal
+  leitung: Vorsitzender und zwei Stellvertreter
+  sitzungstyp: mehrmals im Jahr nichtöffentlich
+  oeffentlichkeitsarbeit: Vorträge und Publikationen
+  publikationsreihe: Bausteine zur Geschichte der Stadt Bruchsal und ihres Umlandes
+  zusammenarbeit: Fotofreunde Heidelsheim
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 96-bruchsal/057
+ENTITÄT: organisation
+BEZEICHNUNG: Historische Kommission der Stadt Bruchsal
+QUELLE: https://www.bruchsal.de/erleben/kultur/kommission-fuer-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestand: 1980-2005
+  nachfolger_organisation: Kommission für Stadtgeschichte Bruchsal (gegründet 2019)
+GUELTIG_AB: 1980
+GUELTIG_BIS: 2005
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/058
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Sommertagszug
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/bilderraetsel+zur+stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erwahnt_jahr: 1925
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 96-bruchsal/059
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Historische Schlosskonzerte
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/bilderraetsel+zur+stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wiederbelebung_jahr: 1922
+  wiederbelebung_anlass: 200-Jahr Feier
+  besonderheit: Musiker, Platzanweiser und Pagen treten in Rokokokostümen auf
+GUELTIG_AB: 1922
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 96-bruchsal/060
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Kammermusikreihe
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  veranstalter: Kulturring Bruchsal zusammen mit SWR
+  dauer_Jahre: 50
+  dauer_gerechnet_ab: ca. 1955
+  renommee: international renommiert
+GUELTIG_AB: 1955
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/061
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Europäischer Tag der jüdischen Kultur 2026
+QUELLE: https://www.bruchsal.de/erleben/kultur/kommission-fuer-stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 6. September 2026
+  ort: Vinzentiussaal
+  podiumsgespräch: Prof. Johannes Ehmann und Alt-OB Bernd Doll
+  moderator: Dr. Alexander Lang
+  thema: Wo Menschen nicht mehr mahnen können, mahnen die Steine
+GUELTIG_AB: 2026
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/062
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Heimattage Baden-Württemberg
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gastgeber: Bruchsal
+  jahr: 2015
+  veranstaltungsanzahl: ca. 300
+  dauer: Januar-Dezember
+  orte: Bruchsal und Stadtteile
+GUELTIG_AB: 2015
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/063
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Landesjamboree der Pfadfinder
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 2007
+  ort: Eichelberg
+  teilnehmer: ca. 6000
+GUELTIG_AB: 2007
+GUELTIG_BIS: 2007
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/064
+ENTITÄT: historischer_event
+BEZEICHNUNG: Friede von Bruchsal
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: Unterwerfung Hermann von Schwabens durch Heinrich II.
+  datum: 1. Oktober 1002 (Remigiustag)
+  historische_bedeutung: bedeutender geschichtlicher Ereignis
+GUELTIG_AB: 1002
+GUELTIG_BIS: 1002
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 96-bruchsal/065
+ENTITÄT: historischer_event
+BEZEICHNUNG: Zerstörung Bruchsals 1689
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grund: Pfälzischer Erbfolgekrieg
+  zerstoerung: Stadt wird zerstört
+GUELTIG_AB: 1689
+GUELTIG_BIS: 1689
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 96-bruchsal/066
+ENTITÄT: historischer_event
+BEZEICHNUNG: Hochwasser
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/bilderraetsel+zur+stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 7. Mai 1931
+  ort: Prinz-Wilhelm-Straße
+GUELTIG_AB: 1931
+GUELTIG_BIS: 1931
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/067
+ENTITÄT: historischer_event
+BEZEICHNUNG: Bombenangriff 1945
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zerstoerung_prozent: 80
+  tote: über 1000
+  bereich: Innenstadt
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 96-bruchsal/068
+ENTITÄT: historischer_event
+BEZEICHNUNG: Bundschuh-Aufstand
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/Zeittafel+zur+Bruchsaler+Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fuehrer: Joß Fritz
+  herkunft_fuehrer: Untergrombach
+  datum: 1502
+  ausgang: gescheitert
+  bewegung: Bundschuhbewegung am Oberrhein im frühen 16. Jahrhundert
+GUELTIG_AB: 1502
+GUELTIG_BIS: 1502
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/069
+ENTITÄT: musikwerk
+BEZEICHNUNG: Der Brusler Dorscht
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/bilderraetsel+zur+stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  autor: Otto Oppenheimer
+  status: heimliche Hymne der Stadt Bruchsal
+  erste_aufführung: 1901
+  erfundener_charakter: Graf Kuno
+  stammlokal_charakter: Der Rappen
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 96-bruchsal/070
+ENTITÄT: gaststaette
+BEZEICHNUNG: Gasthaus zum Zähringer Hof / Gasthaus zum Krokodil
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/bilderraetsel+zur+stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueherer_name: Gasthaus zum Zähringer Hof
+  umbenennung_jahr: 1888
+  neuer_name: Gasthaus zum Krokodil
+  verwendung_wwi: Kriegerheim des Roten Kreuzes
+  lage_historisch: Kaiserstraße rechts neben der Stadtkirche
+  nachfolger_heute: Schuhgeschäft
+GUELTIG_AB: 1888
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 96-bruchsal/071
+ENTITÄT: gaststaette
+BEZEICHNUNG: Der Rappen
+QUELLE: https://www.bruchsal.de/erleben/kultur/stadtarchiv/bilderraetsel+zur+stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: offizielles Stammlokal des Charakters Graf Kuno
+  referenzwerk: Der Brusler Dorscht
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 96-bruchsal/072
+ENTITÄT: schule
+BEZEICHNUNG: Käthe-Kollwitz-Schule
+QUELLE: https://www.bruchsal.de/erleben/kultur/kommission-fuer-stadtgeschichte/steffen-maisch-stellv-vorsitzender | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Bruchsal
+  lehrfaecher_deutsch_geschichte_ethik: vertreten durch Steffen Maisch
+GUELTIG_AB: ?
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
