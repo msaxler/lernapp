@@ -147,12 +147,21 @@ def neuester(claims, prop):
 
 def wd_bahnhoefe(qids):
     # in Gruppen zu acht: 29 Orte auf einmal (Raum bahn, 2026-10-03) brachten den Abfragedienst an die Zeitgrenze (500)
+    # Gruppe scheitert (Würzburg, Hanau, Offenbach in einer Gruppe, 2026-10-12: 500/502/504) → Orte einzeln nachfragen
     aus = {}
-    for i in range(0, len(qids), 8):
+    gruppen = [qids[i:i + 8] for i in range(0, len(qids), 8)]
+    while gruppen:
+        g = gruppen.pop(0)
         q = ('SELECT ?ort ?sLabel ?tLabel WHERE { VALUES ?ort { %s } ?s wdt:P131 ?ort ; wdt:P31 ?t . '
              '?t wdt:P279* wd:Q12819564 . SERVICE wikibase:label { bd:serviceParam wikibase:language "de". } }'
-             % ' '.join('wd:' + x for x in qids[i:i + 8]))
-        d = hole('https://query.wikidata.org/sparql?' + urllib.parse.urlencode({'query': q, 'format': 'json'}))
+             % ' '.join('wd:' + x for x in g))
+        try:
+            d = hole('https://query.wikidata.org/sparql?' + urllib.parse.urlencode({'query': q, 'format': 'json'}))
+        except urllib.error.HTTPError:
+            if len(g) == 1:
+                raise
+            gruppen[:0] = [[x] for x in g]
+            continue
         for b in d['results']['bindings']:
             if re.search(r'Bahnhof|Haltepunkt', b['tLabel']['value']):
                 aus.setdefault(b['ort']['value'].rsplit('/', 1)[1], set()).add(b['sLabel']['value'])
