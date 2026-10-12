@@ -1,0 +1,619 @@
+ZIELORT: Heiligenroth (Gemeinde)
+LAGE: 23 km nordöstlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Heiligenroth
+
+GRUNDDATEN:
+  landkreis: Westerwaldkreis  [dewiki Infobox]
+  bundesland: Rheinland-Pfalz  [dewiki Infobox]
+  einwohner: 1458  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 5,99  [Wikidata P2046]
+  dichte_ew_km2: 243  [berechnet aus Einwohner und Fläche]
+  kfz: WW (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 235 | 225  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2907554)]
+  naechste_grossstadt: Koblenz, 23 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Mainz, 60 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  plz: 56412  [Wikidata P281]
+  vorwahl: 02602  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 36,3 %, SPD 17,1 %, AfD 16,2 %, GRÜNE 10,8 %, Die Linke 5,8 %, FDP 5,2 %; Wahlbeteiligung 84,9 % — GILT FÜR DIE VERBANDSGEMEINDE MONTABAUR  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Alexander Herbst — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-12]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Landkreis), C, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Montabaur (Stadt)
+  landkreis: Westerwaldkreis  [dewiki Infobox]
+  einwohner: 14.937  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 33,77  [Wikidata P2046; Altbestand staedte.json]
+  kfz: WW (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 230 | 256 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2869746)]
+  naechste_grossstadt: Koblenz, 20 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Montabaur  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 36,3 %, SPD 17,1 %, AfD 16,2 %, GRÜNE 10,8 %, Die Linke 5,8 %, FDP 5,2 %; Wahlbeteiligung 84,9 % — GILT FÜR DIE VERBANDSGEMEINDE MONTABAUR  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen
+
+FAKTEN (Zielort Heiligenroth):
+ID: 182-heiligenroth/001
+ENTITÄT: ort
+BEZEICHNUNG: Heiligenroth
+QUELLE: https://www.heiligenroth.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geographische_lage: nordöstlich von Montabaur am Ostrand der Montabaurer Senke, Richtung Kannenbäckerland
+  liegenschaft_region: mitten im Nassauer Land
+  ersterwahnung_datum: 1211/14
+  ersterwahnung_name: Hildigerode
+  bestand_bei_ersterwahnung: vermutlich zwei Höfe
+  genauigkeit_bestand: vermutlich
+  zugehorigkeit_historisch: Banne Montabaur
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1211
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 182-heiligenroth/002
+ENTITÄT: ort
+BEZEICHNUNG: Heiligenroth
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  gründungstyp: Rodungsort
+  gründungszeitraum_ab: 10
+  gründungszeitraum_bis: 10
+  herrschaft_ab_1018: Trierer Erzstift / St. Florinskirche Koblenz
+  herrschaft_grund: Schenkung König Heinrich II. 1018 an Erzbischof Poppo
+  herrschaftlich_ab_1018_wert: 1018
+  herrschaft_1018_bis_1802: Trierer Erzbischöfe
+  ersterwahnung_schriftquelle_wann: um 1220
+  ersterwahnung_kontext: Librum annalium, erzbischöfliche Einkünfte im Bann Himbach
+  ersterwahnung_abgabe_hafer: 6,5 Scheffel Hafer an Amt Montabaur
+  zeche_bildung_jahr: 1488
+  zeche_nummer: 7
+  zeche_verwaltung: Amt und Gericht Montabaur
+  zeche_leitung: Heimbürgen und Schultheiß
+  zeche_genannt_ab: 1502
+  zeche_genannt_bis: 1803
+  bannzuordnung_ab_17_jh_ende: Bann Wirges
+  territorium_1802_1866: Herzogtum Nassau
+  territorium_ab_1866: Königreich Preußen
+  territorium_heute: Westerwaldkreis, Verbandsgemeinde Montabaur
+GUELTIG_AB: 1018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 182-heiligenroth/003
+ENTITÄT: ort
+BEZEICHNUNG: Heiligenroth
+QUELLE: https://de.wikipedia.org/wiki/Heiligenroth | Wikipedia
+EIGENSCHAFTEN:
+  verwaltungsebene: Ortsgemeinde
+  landkreis: Westerwaldkreis
+  bundesland: Rheinland-Pfalz
+  verband: Verbandsgemeinde Montabaur
+  entfernung_montabaur: 3 km
+  nachbarorte: Ruppach-Goldhausen, Boden, Staudt, Wirzenborn, Großholbach
+  ersterwahnung_jahr: 1211
+  namensetymologie: -roth aus mittelalterlichen Waldrodungen zur Acker- und Weidelandgewinnung
+  verkehrsanbindung_autobahn: A3
+  autobahnanschluss: Montabaur
+  bahnhof_nächster: Goldhausen an Bahnstrecke Limburg-Staffel–Siershahn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 182-heiligenroth/004
+ENTITÄT: kirche
+BEZEICHNUNG: St. Petrus und Marcellinus
+QUELLE: https://www.heiligenroth.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1782
+  architektur_westturm: romanisch
+  ausstattung_innenraum: barocke Innenausstattung mit Spiegeldecke
+  vorgaengerbau: Bauernkirche
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1782
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 182-heiligenroth/005
+ENTITÄT: kirche
+BEZEICHNUNG: St. Petrus und Marcellinus
+QUELLE: https://www.heiligenroth.de/kirche-friedhof/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_ersatz: 1782 ersetzte existierende Bauernkirche
+  erweiterung_geplant_jahr: 1913
+  erweiterung_verzoegerung_grund: 1. Weltkrieg
+  erweiterung_durchgefuehrt_jahr: 1933
+  erweiterung_element: Seitenschiff
+GUELTIG_AB: 1782
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 182-heiligenroth/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Petrus und Marcellinus
+QUELLE: https://de.wikipedia.org/wiki/Heiligenroth | Wikipedia
+EIGENSCHAFTEN:
+  vorgaenger_einsturz_jahr: 1781
+  pfarrkirche_eigenstaendigkeit: war eigenständig und filiallos
+  neubau_zeit_ab: 1782
+  neubau_zeit_bis: 1784
+  neubau_leitung_stift: St. Florin Koblenz
+  zehntpflicht_gegenueber: St. Florin
+  baustil: Rokoko
+  ausstattung_altar: Rokoko-Altäre holzsichtig mit vergoldeten Schnitzereien
+  restaurierung_jahr: 2020
+GUELTIG_AB: 1782
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 182-heiligenroth/007
+ENTITÄT: bauwerk
+BEZEICHNUNG: Wehrturm
+QUELLE: https://www.heiligenroth.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirche_anbau_jahr: 1782
+  eigentumsuebergang_jahr: 1975
+  eigentumsuebergang_von: Zivilgemeinde
+  eigentumsuebergang_zu: Kirchengemeinde
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1782
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 182-heiligenroth/008
+ENTITÄT: bauwerk
+BEZEICHNUNG: Wehrturm
+QUELLE: https://de.wikipedia.org/wiki/Heiligenroth | Wikipedia
+EIGENSCHAFTEN:
+  funktion_historisch: Wehrturm mit Schießscharten
+  urspruengliche_situation: stand allein, kleine Kirche abseits
+  kirche_anbau_wann: 1782
+  eigentumsuebergang_bisherig: Zivilgemeinde
+  eigentumsuebergang_wann: 1975
+  eigentumsuebergang_neu: Kirchengemeinde
+  existiert_heute: ja
+  architektur: romanisch
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1782
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 182-heiligenroth/009
+ENTITÄT: ort
+BEZEICHNUNG: Winanshain
+ORTSTEIL_BEZUG: Flur Brenken
+QUELLE: https://www.heiligenroth.de/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_historisch: Hauptort einer Vogtei
+  funktion_historisch_zeit: 15. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1500
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 182-heiligenroth/010
+ENTITÄT: pfarrhaus
+QUELLE: https://www.heiligenroth.de/kirche-friedhof/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_historisch: Wohnhaus des örtlichen Pfarrers
+  nutzung_heute_og: Wohnung vermietet
+  anbau_pfarrheim_jahr: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 182-heiligenroth/011
+ENTITÄT: pfarrheim
+QUELLE: https://www.heiligenroth.de/kirche-friedhof/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angebaut_an: Pfarrhaus
+  anbau_jahr: 2015
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2015
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 182-heiligenroth/012
+ENTITÄT: gremium
+BEZEICHNUNG: Ortskirchenausschuss
+QUELLE: https://www.heiligenroth.de/kirche-friedhof/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufgabe: Kümmern um kirchliche Belange im Kirchort Heiligenroth
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 182-heiligenroth/013
+ENTITÄT: pfarrei
+BEZEICHNUNG: St. Laurentius, Nentershausen
+QUELLE: https://www.heiligenroth.de/kirche-friedhof/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Großpfarrei
+  kirchort_heiligenroth_status: Kirchort nach Pfarreienumstrukturierung
+  grund_integration: Umstrukturierung der Pfarreien
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 182-heiligenroth/014
+ENTITÄT: stift
+BEZEICHNUNG: St. Florin zu Koblenz
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  eigenschaft_zehnten_heiligenroth: Inhaber von Zehntrechten in Heiligenroth
+  zehnten_weitergabe_1462: an Ritter Friedrich vom Stein und Herren von Helfenstein
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1200
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 182-heiligenroth/015
+ENTITÄT: heimbürge
+BEZEICHNUNG: Heintzgin
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  amt_zeit_ab: 1541
+  amt_zeit_bis: 1541
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1541
+GUELTIG_BIS: 1541
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 182-heiligenroth/016
+ENTITÄT: heimbürge
+BEZEICHNUNG: Henne
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  amt_zeit_ab: 1566
+  amt_zeit_bis: 1566
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1566
+GUELTIG_BIS: 1566
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 182-heiligenroth/017
+ENTITÄT: heimbürge
+BEZEICHNUNG: Peter uf der Hobstat
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  amt_zeit_ab: 1584
+  amt_zeit_bis: 1589
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1584
+GUELTIG_BIS: 1589
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 182-heiligenroth/018
+ENTITÄT: heimbürge
+BEZEICHNUNG: Jost
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  amt_zeit_ab: 1597
+  amt_zeit_bis: 1605
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1597
+GUELTIG_BIS: 1605
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 182-heiligenroth/019
+ENTITÄT: heimbürge
+BEZEICHNUNG: Thomas Vetz
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  amt_zeit_ab: 1624
+  amt_zeit_bis: 1643
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1624
+GUELTIG_BIS: 1643
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 182-heiligenroth/020
+ENTITÄT: heimbürge
+BEZEICHNUNG: Andres Greuß
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  amt_zeit_ab: 1666
+  amt_zeit_bis: 1666
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1666
+GUELTIG_BIS: 1666
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 182-heiligenroth/021
+ENTITÄT: heimbürge
+BEZEICHNUNG: Johannes Greiff
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  amt_zeit_ab: 1694
+  amt_zeit_bis: 1714
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1694
+GUELTIG_BIS: 1714
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 182-heiligenroth/022
+ENTITÄT: heimbürge
+BEZEICHNUNG: Jakob Roder (jun.)
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  amt_zeit_ab: 1717
+  amt_zeit_bis: 1733
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1717
+GUELTIG_BIS: 1733
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 182-heiligenroth/023
+ENTITÄT: heimbürge
+BEZEICHNUNG: Johan Adam Greiff
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  amt_zeit_ab: 1733
+  amt_zeit_bis: 1743
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1733
+GUELTIG_BIS: 1743
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 182-heiligenroth/024
+ENTITÄT: heimbürge
+BEZEICHNUNG: Hans Henrich Hild
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  amt_zeit_ab: 1743
+  amt_zeit_bis: 1756
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1743
+GUELTIG_BIS: 1756
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 182-heiligenroth/025
+ENTITÄT: heimbürge
+BEZEICHNUNG: Hans Adam Hild
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  amt_zeit_ab: 1757
+  amt_zeit_bis: 1759
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1757
+GUELTIG_BIS: 1759
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 182-heiligenroth/026
+ENTITÄT: heimbürge
+BEZEICHNUNG: Hans Henrich Hild
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  amt_zeit_ab: 1760
+  amt_zeit_bis: 1763
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1760
+GUELTIG_BIS: 1763
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 182-heiligenroth/027
+ENTITÄT: heimbürge
+BEZEICHNUNG: Johannes Greiff
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  amt_zeit_ab: 1765
+  amt_zeit_bis: 1791
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1765
+GUELTIG_BIS: 1791
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 182-heiligenroth/028
+ENTITÄT: heimbürge
+BEZEICHNUNG: Johann Hannappel
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  amt_zeit_ab: 1792
+  amt_zeit_bis: 1792
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1792
+GUELTIG_BIS: 1792
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 182-heiligenroth/029
+ENTITÄT: heimbürge
+BEZEICHNUNG: Johann Jakob Knie
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  amt_zeit_ab: 1803
+  amt_zeit_bis: 1806
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1803
+GUELTIG_BIS: 1806
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 182-heiligenroth/030
+ENTITÄT: heimbürge
+BEZEICHNUNG: Retig
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  amt_zeit_ab_ca: 1812
+  amt_zeit_bis_ca: 1816
+  genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1812
+GUELTIG_BIS: 1816
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 182-heiligenroth/031
+ENTITÄT: bürgermeister
+BEZEICHNUNG: Kalbfleisch
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  amt_zeit_ab_ca: 1812
+  amt_zeit_bis_ca: 1816
+  genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1812
+GUELTIG_BIS: 1816
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 182-heiligenroth/032
+ENTITÄT: schule
+BEZEICHNUNG: Elementarschule Heiligenroth
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  zeitraum_existenz: in nassauischer Zeit (1802-1866)
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1802
+GUELTIG_BIS: 1866
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 182-heiligenroth/033
+ENTITÄT: schule
+BEZEICHNUNG: Schulhaus Heiligenroth
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  dacharbeiten_jahr: 1824
+  lage_amt: Amt Montabaur
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1824
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 182-heiligenroth/034
+ENTITÄT: schule
+BEZEICHNUNG: Volksschule Heiligenroth
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  baujahr: 1955
+  klassenanzahl: 2
+  umnutzung_jahr: 1986
+  umnutzung_zu: Kindergarten
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1955
+GUELTIG_BIS: 1986
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 182-heiligenroth/035
+ENTITÄT: kindergarten
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  nutzt_gebaeude: alte Volksschule
+  umnutzung_jahr: 1986
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1986
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 182-heiligenroth/036
+ENTITÄT: gemeindeamt
+QUELLE: https://www.regionalgeschichte.net/westerwald/heiligenroth.html | Landesportal
+EIGENSCHAFTEN:
+  untergebracht_in_1997: alte Volksschule
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 182-heiligenroth/037
+ENTITÄT: wappen
+QUELLE: https://de.wikipedia.org/wiki/Heiligenroth | Wikipedia
+EIGENSCHAFTEN:
+  genehmigung_datum: 21. März 1980
+  genehmigung_durch: Regierungspräsident
+  blasonierung: Schild gespalten, vorne in Silber ein roter Wehrturm, hinten in Blau ein goldener Löwe
+  element_wehrturm_bedeutung: Wehrturm mit Schießscharten als historisches Bauwerk in Heiligenroth, ursprünglich allein stehend mit kleiner Kirche abseits, 1782 Kirche angebaut, 1975 Eigentumsübergang von Zivilgemeinde zu Kirchengemeinde
+  element_loewe_bedeutung: verweist auf geographische Lage im Nassauer Land; Nassauer Farben beziehen sich auf Geographie, nicht auf kurze politische Zugehörigkeit zu Nassau (1802-1866)
+  naturpark_nassau_anfang: beginnt in Heiligenroth
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1980
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 182-heiligenroth/038
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Épineuil
+QUELLE: https://de.wikipedia.org/wiki/Heiligenroth | Wikipedia
+EIGENSCHAFTEN:
+  lage_region: Burgund
+  lage_land: Frankreich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 182-heiligenroth/039
+ENTITÄT: industriegebiet
+QUELLE: https://de.wikipedia.org/wiki/Heiligenroth | Wikipedia
+EIGENSCHAFTEN:
+  lage_relativ: getrennt vom Ortskern nördlich der A3
+  verkehrsbindung: Autobahnanschlussstelle Montabaur
+  laermschutz: Lärmschutzwall im Zuge Schnellfahrstrecke Köln–Rhein/Main
+  betriebe_art: produzierende Betriebe, Service- und Einkaufsangebote
+  beispielbetrieb_summerfield_group: Partyschlager-Produzenten Dominik de Leon und Ikke Hüftgold
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 182-heiligenroth/040
+ENTITÄT: gemeinderat
+QUELLE: https://de.wikipedia.org/wiki/Heiligenroth | Wikipedia
+EIGENSCHAFTEN:
+  ratsmitglieder_anzahl: 16
+  wahl_datum: 9. Juni 2024
+  wahl_system: personalisierte Verhältniswahl
+  vorsitzender_art: ehrenamtlicher Ortsbürgermeister
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 182-heiligenroth/041
+ENTITÄT: ortsbürgermeister
+BEZEICHNUNG: Alexander Herbst
+QUELLE: https://de.wikipedia.org/wiki/Heiligenroth | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: 3. September 2024
+  wahl_art: durch Gemeinderat auf konstituierender Sitzung
+  grund_wahl_durch_rat: Direktwahl am 9. Juni 2024 hatte keinen Wahlvorschlag
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 2024
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 182-heiligenroth/042
+ENTITÄT: ortsbürgermeister
+BEZEICHNUNG: Helmut Burkey
+QUELLE: https://de.wikipedia.org/wiki/Heiligenroth | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: März 2021
+  amtsende: 3. September 2024
+  vorgaenger_funktion: Erster Beigeordneter
+  vorgaenger_amtsgeschaefte: führte Amtsgeschäfte bereits als Erster Beigeordneter
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 2021
+GUELTIG_BIS: 2024
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 182-heiligenroth/043
+ENTITÄT: ortsbürgermeister
+BEZEICHNUNG: Daniel Kurth
+QUELLE: https://de.wikipedia.org/wiki/Heiligenroth | Wikipedia
+EIGENSCHAFTEN:
+  amtsantritt: 25. Juni 2019
+  amtsende: 24. August 2020
+  wahl_art: durch Gemeinderat
+  grund_wahl_durch_rat: Direktwahl am 26. Mai 2019 hatte keinen Bewerber
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 2019
+GUELTIG_BIS: 2020
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 182-heiligenroth/044
+ENTITÄT: ortsbürgermeister
+BEZEICHNUNG: Günther Behr
+QUELLE: https://de.wikipedia.org/wiki/Heiligenroth | Wikipedia
+EIGENSCHAFTEN:
+  funktion: übergangsweise Amtsausübung
+  dauer_monate: 9
+  grund_uebernahme: nach Rücktritt Erich Herbst Oktober 2018
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 2018
+GUELTIG_BIS: 2019
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 182-heiligenroth/045
+ENTITÄT: ortsbürgermeister
+BEZEICHNUNG: Erich Herbst
+QUELLE: https://de.wikipedia.org/wiki/Heiligenroth | Wikipedia
+EIGENSCHAFTEN:
+  erstwahl: 2002
+  amtsende_datum: 1. Oktober 2018
+  amtsende_grund: aus gesundheitlichen Gründen Rücktritt
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 2002
+GUELTIG_BIS: 2018
+VERTRAUEN_EXTRAKTION: 0.9
+

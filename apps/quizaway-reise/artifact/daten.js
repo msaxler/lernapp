@@ -19850,6 +19850,10 @@ window.QA_DATEN = {
 "135-nackenheim": [
 "Landesgrenze: Nackenheim liegt in Rheinland-Pfalz, Wiesbaden in Hessen.",
 "Wiesbaden hat rund 55-mal so viele Einwohner wie Nackenheim."
+],
+"176-idstein": [
+"Kreisgrenze: Idstein gehört zum Rheingau-Taunus-Kreis, Wiesbaden ist kreisfrei.",
+"Wiesbaden hat elfmal so viele Einwohner wie Idstein."
 ]
 },
 "ags": "06414000",
@@ -22846,6 +22850,10 @@ window.QA_DATEN = {
 "50-oberwesel": [
 "Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, Braubach zum Rhein-Lahn-Kreis.",
 "Oberwesel und Braubach sind fast gleich groß: rund 2.900 und 3.000 Einwohner."
+],
+"184-hoehr-grenzhausen": [
+"Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Braubach zum Rhein-Lahn-Kreis.",
+"Höhr-Grenzhausen hat gut dreimal so viele Einwohner wie Braubach."
 ]
 },
 "ags": "07141501",
@@ -23067,6 +23075,10 @@ window.QA_DATEN = {
 "49-st-goar": [
 "Kreisgrenze: St. Goar gehört zum Rhein-Hunsrück-Kreis, Lahnstein zum Rhein-Lahn-Kreis.",
 "Lahnstein hat fast siebenmal so viele Einwohner wie St. Goar."
+],
+"184-hoehr-grenzhausen": [
+"Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Lahnstein zum Rhein-Lahn-Kreis.",
+"Lahnstein hat doppelt so viele Einwohner wie Höhr-Grenzhausen."
 ]
 },
 "ags": "07141075",
@@ -23322,6 +23334,22 @@ window.QA_DATEN = {
 "48-boppard": [
 "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Vallendar zum Landkreis Mayen-Koblenz.",
 "Boppard hat gut anderthalbmal so viele Einwohner wie Vallendar."
+],
+"181-montabaur": [
+"Kreisgrenze: Montabaur gehört zum Westerwaldkreis, Vallendar zum Landkreis Mayen-Koblenz.",
+"Montabaur hat gut anderthalbmal so viele Einwohner wie Vallendar."
+],
+"182-heiligenroth": [
+"Kreisgrenze: Heiligenroth gehört zum Westerwaldkreis, Vallendar zum Landkreis Mayen-Koblenz.",
+"Vallendar hat gut sechsmal so viele Einwohner wie Heiligenroth."
+],
+"183-ransbach-baumbach": [
+"Kreisgrenze: Ransbach-Baumbach gehört zum Westerwaldkreis, Vallendar zum Landkreis Mayen-Koblenz.",
+"Vallendar hat rund 900 Einwohner mehr als Ransbach-Baumbach."
+],
+"184-hoehr-grenzhausen": [
+"Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Vallendar zum Landkreis Mayen-Koblenz.",
+"Höhr-Grenzhausen und Vallendar sind fast gleich groß: rund 9.400 und 9.000 Einwohner."
 ]
 },
 "ags": "07137226",
@@ -23551,6 +23579,10 @@ window.QA_DATEN = {
 "53-koblenz": [
 "Kreisgrenze: Koblenz ist kreisfrei, Andernach gehört zum Landkreis Mayen-Koblenz.",
 "Koblenz hat fast viermal so viele Einwohner wie Andernach."
+],
+"184-hoehr-grenzhausen": [
+"Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Andernach zum Landkreis Mayen-Koblenz.",
+"Andernach hat gut dreimal so viele Einwohner wie Höhr-Grenzhausen."
 ]
 },
 "ags": "07137003",
@@ -23708,6 +23740,14 @@ window.QA_DATEN = {
 "59-rhens": [
 "Bundestagswahl 2025: In Rhens lag die CDU vorn, in Weißenthurm die AfD.",
 "Weißenthurm hat dreimal so viele Einwohner wie Rhens."
+],
+"183-ransbach-baumbach": [
+"Kreisgrenze: Ransbach-Baumbach gehört zum Westerwaldkreis, Weißenthurm zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Ransbach-Baumbach lag die CDU vorn, in Weißenthurm die AfD."
+],
+"184-hoehr-grenzhausen": [
+"Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Weißenthurm zum Landkreis Mayen-Koblenz.",
+"Bundestagswahl 2025: In Höhr-Grenzhausen lag die CDU vorn, in Weißenthurm die AfD."
 ]
 },
 "ags": "07137228",
@@ -23966,6 +24006,18 @@ window.QA_DATEN = {
 "48-boppard": [
 "Kreisgrenze: Boppard gehört zum Rhein-Hunsrück-Kreis, Koblenz ist kreisfrei.",
 "Koblenz hat gut siebenmal so viele Einwohner wie Boppard."
+],
+"181-montabaur": [
+"Kreisgrenze: Montabaur gehört zum Westerwaldkreis, Koblenz ist kreisfrei.",
+"Koblenz hat fast achtmal so viele Einwohner wie Montabaur."
+],
+"183-ransbach-baumbach": [
+"Kreisgrenze: Ransbach-Baumbach gehört zum Westerwaldkreis, Koblenz ist kreisfrei.",
+"Koblenz hat vierzehnmal so viele Einwohner wie Ransbach-Baumbach."
+],
+"184-hoehr-grenzhausen": [
+"Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Koblenz ist kreisfrei.",
+"Koblenz hat zwölfmal so viele Einwohner wie Höhr-Grenzhausen."
 ]
 },
 "ags": "07111000",
@@ -24189,6 +24241,10 @@ window.QA_DATEN = {
 "49-st-goar": [
 "Kreisgrenze: St. Goar gehört zum Rhein-Hunsrück-Kreis, Rhens zum Landkreis Mayen-Koblenz.",
 "St. Goar und Rhens sind fast gleich groß: rund 2.900 und 2.900 Einwohner."
+],
+"184-hoehr-grenzhausen": [
+"Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Rhens zum Landkreis Mayen-Koblenz.",
+"Höhr-Grenzhausen hat gut dreimal so viele Einwohner wie Rhens."
 ]
 },
 "ags": "07137221",
@@ -24453,6 +24509,10 @@ window.QA_DATEN = {
 "50-oberwesel": [
 "Kreisgrenze: Oberwesel gehört zum Rhein-Hunsrück-Kreis, Spay zum Landkreis Mayen-Koblenz.",
 "Oberwesel hat anderthalbmal so viele Einwohner wie Spay."
+],
+"184-hoehr-grenzhausen": [
+"Kreisgrenze: Höhr-Grenzhausen gehört zum Westerwaldkreis, Spay zum Landkreis Mayen-Koblenz.",
+"Höhr-Grenzhausen hat fünfmal so viele Einwohner wie Spay."
 ]
 },
 "ags": "07137223",
@@ -38661,6 +38721,1920 @@ window.QA_DATEN = {
 "ags": "09671126",
 "ortsteil": false,
 "km_vom_vorigen": 10.4
+},
+{
+"slug": "176-idstein",
+"name": "Idstein",
+"lat": 50.22056,
+"lon": 8.26917,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Idstein",
+"steckbrief": "Stadt mit rund 26.000 Einwohnern, 15 km nördlich von Wiesbaden.",
+"frage": "Der Hexenturm ist Idsteins Wahrzeichen. Woher hat er seinen Namen?",
+"optionen": [
+"Im Turm saßen verurteilte Hexen gefangen.",
+"Die Grafen tauften ihn schon beim Bau so.",
+"Der Volksmund gab ihm den Namen erst spät.",
+"Dort tagten die Richter der Hexenprozesse."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name lässt an die Hexenverfolgung denken, die es in Idstein tatsächlich gab. Doch der Name hat mit ihr nichts zu tun: „Hexenturm“ ist eine volkstümliche Bezeichnung, die erst lange nach der Verfolgung aufkam. Gebaut wurde der Turm noch viel früher. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.idstein.de/tourismus/baukunst-geschichte/hexenturm/",
+"faktencheck": "korrigiert",
+"id": "176-idstein/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Idstein",
+"steckbrief": "Stadt auf knapp 80 km² Fläche, 15 km nördlich von Wiesbaden.",
+"frage": "Wie viele Einwohner hat Idstein?",
+"optionen": [
+"unter 10.000",
+"10.000 bis unter 16.000",
+"16.000 bis unter 23.000",
+"23.000 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an Fachwerkgassen und ein Residenzschloss denkt, schätzt Idstein leicht kleiner. Doch zur Stadt gehören neben der Kernstadt eingemeindete Dörfer. Ende 2025 zählte sie 25.724 Einwohner. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "176-idstein/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Idstein",
+"steckbrief": "Stadt mit rund 26.000 Einwohnern, 15 km nördlich von Wiesbaden.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Stadtteil Heftrich wurde früher Silber abgebaut.",
+"Im Idsteiner Schloss wohnt bis heute die Fürstenfamilie.",
+"Das Schiefe Haus verzog sich, weil Diagonalstreben fehlten."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Dass Adelsfamilien noch in ihren alten Schlössern wohnen, kommt durchaus vor. In Idstein aber endete die Zeit als Residenzstadt mit dem Tod von Fürst Georg August Samuel. Silber wurde in Heftrich wirklich abgebaut, und das Schiefe Haus verzog sich tatsächlich, nachdem Diagonalstreben für größere Räume entfernt wurden. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.idstein.de/tourismus/baukunst-geschichte/geschichte/",
+"faktencheck": "korrigiert",
+"id": "176-idstein/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Idstein",
+"steckbrief": "Stadt mit rund 26.000 Einwohnern, 15 km nördlich von Wiesbaden.",
+"frage": "Wie hoch war die Wahlbeteiligung in Idstein bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 78 %",
+"78 bis unter 87 %",
+"87 bis unter 91 %",
+"91 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Wahl 2025 brachte bundesweit eine hohe Beteiligung, da liegt die dritte Spanne nahe. In Idstein gaben 86,1 Prozent der Wahlberechtigten ihre Stimme ab, knapp unter dieser Grenze. Stärkste Kraft wurde die CDU. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "176-idstein/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Idstein",
+"steckbrief": "Stadt mit rund 26.000 Einwohnern, 15 km nördlich von Wiesbaden.",
+"frage": "Die Geschichte des Stadtteils Heftrich erzählt vom Räuber Schinderhannes. Wen erpresste er dort 1801?",
+"optionen": [
+"Er erpresste den Pfarrer des Dorfes.",
+"Er erpresste den Wirt des Gasthauses.",
+"Er erpresste einen Müller in der Nähe.",
+"Er erpresste den Schultheiß des Ortes."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Pfarrer und Wirt wirken als lohnende Opfer, bei ihnen vermutet man Geld. Der legendäre Räuber nahm sich aber den Müller der Fuchsmühle unweit des Heftricher Moores vor. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/heftrich/",
+"faktencheck": "bestätigt",
+"id": "176-idstein/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Idstein",
+"steckbrief": "Stadt mit rund 26.000 Einwohnern, 15 km nördlich von Wiesbaden.",
+"frage": "Zu welchem Landkreis gehört Idstein?",
+"optionen": [
+"Hochtaunuskreis",
+"Main-Taunus-Kreis",
+"Landkreis Limburg-Weilburg",
+"Rheingau-Taunus-Kreis"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. „Taunus“ steckt in mehreren Kreisnamen der Gegend, das macht die Wahl schwer. Idstein gehört zum Rheingau-Taunus-Kreis. Sein Hauptkennzeichen ist RÜD. Richtig war 4.",
+"quelle": "dewiki Infobox (Landkreis); Altbestand staedte.json (Kennzeichen)",
+"faktencheck": "bestätigt",
+"id": "176-idstein/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Idstein",
+"steckbrief": "Stadt mit rund 26.000 Einwohnern, 15 km nördlich von Wiesbaden.",
+"frage": "Im Stadtteil Lenzhahn leben heute gut 200 Menschen. Wie viele Einwohner hatte der Ort gegen Ende des Dreißigjährigen Kriegs?",
+"optionen": [
+"unter 10",
+"10 bis unter 40",
+"40 bis unter 100",
+"100 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an Krieg und Seuchen jener Zeit denkt, rechnet mit schweren Verlusten, aber kaum mit einem fast leeren Dorf. Doch gegen Ende des Krieges sind in Lenzhahn nur noch 4 Einwohner nachzuweisen. Nach und nach wurde der Ort wieder bevölkert. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/lenzhahn/",
+"faktencheck": "korrigiert",
+"id": "176-idstein/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Idstein",
+"steckbrief": "Stadt mit rund 26.000 Einwohnern, 15 km nördlich von Wiesbaden.",
+"frage": "Graf Johannes von Nassau-Idstein ließ prachtvolle Blumenbücher malen. Was bestimmte er über sie?",
+"optionen": [
+"Sie sollten nach seinem Tod verkauft werden.",
+"Sie durften das Haus Nassau nie verlassen.",
+"Sie sollten dem Kaiser geschenkt werden.",
+"Sie sollten der Universität Gießen vermacht werden."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Verkauf hätte Geld in die gräfliche Kasse gebracht, doch der Graf wollte die Bücher im Haus Nassau halten. Geholfen hat es wenig: Ihre Spur verlor sich, Blumendarstellungen aus dem Idsteiner Garten tauchten im Victoria & Albert Museum London, in der Bibliothèque nationale de France und im Städel in Frankfurt auf. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.idstein.de/tourismus/baukunst-geschichte/geschichte/schlossgarten-flyer.pdf",
+"faktencheck": "korrigiert",
+"id": "176-idstein/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Idstein",
+"steckbrief": "Stadt mit rund 26.000 Einwohnern, 15 km nördlich von Wiesbaden.",
+"frage": "Am Ostrand des Stadtteils Walsdorf steht eine charakteristische Scheunenreihe. Worauf wurde sie nach einem Großbrand gebaut?",
+"optionen": [
+"Sie steht auf Resten eines Römerkastells.",
+"Sie steht auf einem alten Bahndamm.",
+"Sie steht auf dem alten Friedhof.",
+"Sie steht auf der mittelalterlichen Ringmauer."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Römerkastell liegt nahe, denn durch mehrere Idsteiner Stadtteile zieht sich der Limes. Doch Walsdorf war im Mittelalter selbst befestigt. Nach einem der großen Brände entstand die Scheunenreihe, auch Scheunenfront genannt, auf der alten Ringmauer am Ostrand. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/walsdorf/",
+"faktencheck": "korrigiert",
+"id": "176-idstein/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Idstein",
+"steckbrief": "Stadt mit rund 26.000 Einwohnern, 15 km nördlich von Wiesbaden.",
+"frage": "Graf Adolf von Nassau-Idstein, der 1287 bei König Rudolf das Stadtrecht für Idstein erwirkte, stieg später auf. Was wurde er?",
+"optionen": [
+"Er wurde Deutscher König.",
+"Er wurde Erzbischof von Mainz.",
+"Er wurde Herzog von Bayern.",
+"Er wurde Kurfürst von Trier."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Kirchenamt wie das des Mainzer Erzbischofs wirkt für einen Grafen erreichbarer als die Krone. Doch Adolf folgte Rudolf von Habsburg als Deutscher König, also jenem König, der Idstein das Stadtrecht verliehen hatte. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.idstein.de/tourismus/baukunst-geschichte/geschichte/",
+"faktencheck": "korrigiert",
+"id": "176-idstein/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "155-heigenbruecken",
+"anschluss": [],
+"anschluesse": {
+"46-wiesbaden": [
+"Kreisgrenze: Wiesbaden ist kreisfrei, Idstein gehört zum Rheingau-Taunus-Kreis.",
+"Wiesbaden hat elfmal so viele Einwohner wie Idstein."
+],
+"177-huenfelden": [
+"Kreisgrenze: Hünfelden gehört zum Landkreis Limburg-Weilburg, Idstein zum Rheingau-Taunus-Kreis.",
+"Idstein hat gut zweieinhalbmal so viele Einwohner wie Hünfelden."
+]
+},
+"ags": "06439008",
+"ortsteil": false,
+"km_vom_vorigen": 81.7
+},
+{
+"slug": "177-huenfelden",
+"name": "Hünfelden",
+"lat": 50.33333,
+"lon": 8.15,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hünfelden",
+"steckbrief": "Gemeinde mit rund 9.700 Einwohnern, 28 km nördlich von Wiesbaden.",
+"frage": "Im Ortsteil Nauheim wurde 1932 ein Leuchtturm gebaut, weit weg von jeder Küste. Wozu wurde er gebaut? (Rückseite bleibt unverändert.)",
+"optionen": [
+"Er sollte Schiffer auf der Lahn vor Untiefen warnen.",
+"Er sollte Nachtflüge zwischen Köln und Frankfurt leiten.",
+"Er sollte als Feuerwache am Nauheimer Kopf dienen.",
+"Er sollte die alte Hühnerstraße für Fuhrleute markieren."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Leuchtturm denkt man an Schiffe, im Hügelland eher an Wache oder Wegzeichen. Doch Nauheims Turm leuchtete für den Himmel: Er ermöglichte Nachtflüge auf der Strecke Köln–Frankfurt. Solche Feuer gaben Piloten im Dunkeln Orientierung. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.huenfelden.de/leben-in-huenfelden/ortsteile/nauheim/",
+"faktencheck": "korrigiert",
+"id": "177-huenfelden/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hünfelden",
+"steckbrief": "Gemeinde mit rund 9.700 Einwohnern, 28 km nördlich von Wiesbaden.",
+"frage": "Hünfelden fasst mehrere Dörfer zu einer Gemeinde zusammen. Wie groß ist ihre Fläche?",
+"optionen": [
+"unter 30 km²",
+"30 bis unter 50 km²",
+"50 bis unter 80 km²",
+"80 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Knapp zehntausend Einwohner klingen nach einer kompakten Gemeinde. Doch Hünfelden verteilt sich auf mehrere Dörfer mit viel Land dazwischen: Die Fläche beträgt 62,69 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "177-huenfelden/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hünfelden",
+"steckbrief": "Gemeinde mit rund 9.700 Einwohnern, 28 km nördlich von Wiesbaden.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"In Neesbach diente das alte Rathaus zugleich als Backhaus und Schule.",
+"In Heringen wurde die Feuerwehrhalle auf einer ehemaligen Viehtränke gebaut.",
+"Das Stein'sche Haus in Kirberg ist nach seinem Baumaterial benannt."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer „Stein'sche Haus“ hört, denkt an ein Steinhaus zwischen Kirbergs Fachwerk. Doch der Name nennt Besitzer: Gebaut wurde es als Amtshaus derer von Reifenberg, benannt ist es nach der Familie vom Stein, die es später übernahm. Neesbachs Rathaus und Heringens Viehtränke stimmen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.huenfelden.de/freizeit-tourismus/sehenswertes/",
+"faktencheck": "bestätigt",
+"id": "177-huenfelden/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hünfelden",
+"steckbrief": "Gemeinde mit rund 9.700 Einwohnern im Landkreis Limburg-Weilburg, 28 km nördlich von Wiesbaden.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Hünfelden bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 30 Prozent",
+"30 bis unter 35 Prozent",
+"35 bis unter 40 Prozent",
+"40 Prozent und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele erwarten in hessischen Landgemeinden eine klare CDU-Mehrheit. Die CDU lag in Hünfelden zwar vorn, kam aber nur auf 29,6 Prozent; Zweite wurde die AfD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "177-huenfelden/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hünfelden",
+"steckbrief": "Gemeinde mit rund 9.700 Einwohnern, 28 km nördlich von Wiesbaden.",
+"frage": "Ein altes Gerichtssiegel des Ortsteils Heringen zeigt zwei gekreuzte Heringe. Woher kommt der Ortsname laut Ortsgeschichte wahrscheinlich?",
+"optionen": [
+"Er erinnert an Heringshändler auf der Hühnerstraße.",
+"Er kommt wahrscheinlich vom Bach namens Herbach.",
+"Er stammt von einem Fischmarkt in Kirberg.",
+"Er erinnert an Fastenheringe für Kloster Lorsch."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Siegel legt Fisch nahe: Ein altes Gerichtssiegel von Heringen zeigt zwei gekreuzte Heringe. Doch die Ortsgeschichte leitet den Namen anders her: wahrscheinlich vom Bachlauf Herbach. Heringen liegt am Rand des Herbachtales. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.huenfelden.de/leben-in-huenfelden/ortsteile/heringen/",
+"faktencheck": "korrigiert",
+"id": "177-huenfelden/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hünfelden",
+"steckbrief": "Gemeinde mit rund 9.700 Einwohnern im Landkreis Limburg-Weilburg, nördlich von Wiesbaden.",
+"frage": "Wie weit ist es in Luftlinie von Hünfeldens Ortsmitte bis zur Stadtmitte der Landeshauptstadt Wiesbaden?",
+"optionen": [
+"12 Kilometer",
+"19 Kilometer",
+"28 Kilometer",
+"41 Kilometer"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Kreisname Limburg-Weilburg klingt nach Lahn und weiter Ferne von Wiesbaden. Tatsächlich trennen die Ortsmitte von Hünfelden und die Wiesbadener Stadtmitte nur 28 Kilometer Luftlinie. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "177-huenfelden/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hünfelden",
+"steckbrief": "Gemeinde mit rund 9.700 Einwohnern, 28 km nördlich von Wiesbaden.",
+"frage": "Auf dem Nauheimer Kopf erinnert ein Denkmal an Kaiser Wilhelm II. Was tat der Kaiser dort am 15. September 1905?",
+"optionen": [
+"Er weihte dort eine neue Kirche ein.",
+"Er legte den Grundstein für ein Kriegerdenkmal.",
+"Er schoss bei einer Hofjagd einen Hirsch.",
+"Er hielt dort eine Manöverkritik ab."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Kaiserdenkmal auf einem Hügel lässt an Jagd oder Einweihung denken. Doch es ging ums Militär: Truppen hatten bei Bad Homburg zu Scheingefechten Aufstellung genommen, und auf dem Nauheimer Kopf hielt Wilhelm II. die Manöverkritik ab, also die Auswertung der Übung. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.huenfelden.de/freizeit-tourismus/sehenswertes/",
+"faktencheck": "bestätigt",
+"id": "177-huenfelden/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hünfelden",
+"steckbrief": "Gemeinde mit rund 9.700 Einwohnern, 28 km nördlich von Wiesbaden.",
+"frage": "Südlich von Ohren legte man um 1355 das Bechtheimer Gebück an. Was war das?",
+"optionen": [
+"Es war eine Grenzbefestigung aus Hecken.",
+"Es war ein Hohlweg für Fuhrwerke.",
+"Es war ein Stollen zum Erzabbau.",
+"Es war ein Gehege für Wildschweine."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. „Gebück“ klingt nach Bücken, also nach einem niedrigen Weg oder Gang. Gemeint ist aber eine Grenzbefestigung aus Hecken. Ihr Verlauf bildet heute etwa die Gemeinde- und Landkreisgrenze ab. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.huenfelden.de/leben-in-huenfelden/ortsteile/ohren/",
+"faktencheck": "bestätigt",
+"id": "177-huenfelden/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hünfelden",
+"steckbrief": "Gemeinde mit rund 9.700 Einwohnern, 28 km nördlich von Wiesbaden.",
+"frage": "Nach der Reformation ließ Graf Johann der Ältere das Nonnenkloster Gnadenthal umwandeln. Wozu?",
+"optionen": [
+"Es wurde ein Spital für Arme und Kranke.",
+"Es wurde ein Gefängnis der Grafschaft.",
+"Es wurde eine Bildungsanstalt für adlige Töchter.",
+"Es wurde eine Kaserne für Soldaten."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Aufgelöste Klöster wurden nach der Reformation oft Spitäler oder Amtssitze. Gnadenthal aber war ein adeliges Nonnenkloster der Zisterzienser, und es blieb bei adligen Frauen: Es wurde eine Bildungsanstalt für adlige Töchter. Heute existiert es nicht mehr. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.huenfelden.de/leben-in-huenfelden/ortsteile/dauborn-mit-gnadenthal/",
+"faktencheck": "bestätigt",
+"id": "177-huenfelden/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hünfelden",
+"steckbrief": "Gemeinde mit rund 9.700 Einwohnern, 28 km nördlich von Wiesbaden.",
+"frage": "Die Neesbacher waren Hörige des Stifts in Limburg. Um 1363 versuchten sie, sich von ihren Pflichten zu befreien. Was folgte?",
+"optionen": [
+"Das Stift ließ ihr Dorf niederbrennen.",
+"Über sie wurde der Kirchenbann verhängt.",
+"Sie wurden aus dem Dorf vertrieben.",
+"Ihr Schultheiß wurde öffentlich hingerichtet."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Bauern, die sich auflehnten, denkt man an Gewalt oder Vertreibung. Die Strafe war aber geistlich: Den Neesbachern wurde der Kirchenbann auferlegt, der Ausschluss aus der kirchlichen Gemeinschaft. Als Hörige waren sie an ihren Grundherrn gebunden. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.huenfelden.de/leben-in-huenfelden/ortsteile/neesbach/",
+"faktencheck": "bestätigt",
+"id": "177-huenfelden/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "176-idstein",
+"anschluss": [
+"Idstein hat mehr als doppelt so viele Einwohner wie Hünfelden.",
+"Wahlbeteiligung zur Bundestagswahl 2025: in Idstein und Hünfelden fast gleich."
+],
+"anschluesse": {
+"176-idstein": [
+"Idstein hat mehr als doppelt so viele Einwohner wie Hünfelden.",
+"Wahlbeteiligung zur Bundestagswahl 2025: in Idstein und Hünfelden fast gleich."
+],
+"178-limburg": [
+"Limburg an der Lahn hat gut dreieinhalbmal so viele Einwohner wie Hünfelden."
+],
+"179-elz": [
+"Hünfelden hat rund 1.600 Einwohner mehr als Elz."
+],
+"180-diez": [
+"Landesgrenze: Diez liegt in Rheinland-Pfalz, Hünfelden in Hessen.",
+"Diez hat rund 1.700 Einwohner mehr als Hünfelden."
+]
+},
+"ags": "06533008",
+"ortsteil": false,
+"km_vom_vorigen": 15.1
+},
+{
+"slug": "178-limburg",
+"name": "Limburg an der Lahn",
+"lat": 50.38333,
+"lon": 8.06667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Limburg an der Lahn",
+"steckbrief": "Stadt mit rund 36.000 Einwohnern, 35 km östlich von Koblenz.",
+"frage": "Welchen Anlass nennt die Stadt für Limburgs erste urkundliche Erwähnung?",
+"optionen": [
+"Ein geistliches Stift wurde gegründet.",
+"Der Ort erhielt die Stadtrechte.",
+"Eine Brücke über den Fluss entstand.",
+"Ein Hochwasser zerstörte den Ort."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Stadtrechte liegen nahe, denn viele Städte treten mit einem solchen Privileg in die Geschichte ein. Limburg aber verdankt seine erste urkundliche Erwähnung der Gründung des St.-Georg-Stifts. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.limburg.de/Rathaus-Leben/Stadtportrait/",
+"faktencheck": "bestätigt",
+"id": "178-limburg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Limburg an der Lahn",
+"steckbrief": "Kreisstadt mit rund 36.000 Einwohnern, 35 km östlich von Koblenz.",
+"frage": "Wie groß ist das Stadtgebiet von Limburg?",
+"optionen": [
+"unter 30 km²",
+"30 bis unter 60 km²",
+"60 bis unter 100 km²",
+"100 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Kreisstadt mit Stadtteilen wie Offheim, Dietkirchen und Eschhofen lässt ein weitläufiges Gebiet vermuten. Doch Limburg kommt auf 45,16 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "178-limburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Limburg an der Lahn",
+"steckbrief": "Stadt mit rund 36.000 Einwohnern, 35 km östlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das St.-Georg-Stift war einem Apostel geweiht.",
+"Die Limburger tragen den Spitznamen „Säcker“.",
+"Der Bahnhof Limburg Süd ist ein ICE-Bahnhof."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Apostel als Namensgeber klingt plausibel, denn viele alte Kirchen tragen Apostelnamen. Doch das Stift ist nach dem heiligen Georg benannt, einem Märtyrer und keinem Apostel. Säcker heißen die Limburger wirklich, und Limburg Süd ist ein ICE-Bahnhof. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.limburg.de/Rathaus-Leben/Stadtportrait/",
+"faktencheck": "korrigiert",
+"id": "178-limburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Limburg an der Lahn",
+"steckbrief": "Kreisstadt in Hessen mit rund 36.000 Einwohnern, 35 km östlich von Koblenz.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Limburg bei den Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"GRÜNE",
+"CDU",
+"AfD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Als klassische zweite Volkspartei liegt die SPD hinter der CDU nahe. Sie kam mit 16,9 Prozent aber nur auf Platz drei. Vorn lag die CDU mit 32,6 Prozent, dahinter die AfD mit 19 Prozent. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "178-limburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Limburg an der Lahn",
+"steckbrief": "Stadt mit rund 36.000 Einwohnern, 35 km östlich von Koblenz.",
+"frage": "In welchem Jahrhundert ist jüdisches Leben in Limburg laut Stadt erstmals belegt?",
+"optionen": [
+"Der erste Beleg stammt aus dem 13. Jahrhundert.",
+"Der erste Beleg stammt aus dem 16. Jahrhundert.",
+"Der erste Beleg stammt aus dem 18. Jahrhundert.",
+"Der erste Beleg stammt aus dem 19. Jahrhundert."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele jüdische Landgemeinden entstanden erst in der Neuzeit, das macht spätere Jahrhunderte naheliegend. Die Stadt nennt aber eine Urkunde von 1278, in der erstmals ein „Abraham iudeus de Limpurg“ erwähnt wird. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.limburg.de/Rathaus-Leben/Stadtportrait/",
+"faktencheck": "korrigiert",
+"id": "178-limburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Limburg an der Lahn",
+"steckbrief": "Kreisstadt in Hessen mit rund 36.000 Einwohnern, östlich von Koblenz.",
+"frage": "Wie weit ist es von Limburg in Luftlinie bis zur Landeshauptstadt Wiesbaden?",
+"optionen": [
+"etwa 15 km",
+"etwa 35 km",
+"etwa 55 km",
+"etwa 75 km"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die nächste Großstadt Koblenz liegt schon in Rheinland-Pfalz, da wirkt die eigene Landeshauptstadt fern. Doch Wiesbaden ist von Limburg aus etwa so weit entfernt wie Koblenz: jeweils rund 35 Kilometer Luftlinie. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "korrigiert",
+"id": "178-limburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Limburg an der Lahn",
+"steckbrief": "Kreisstadt mit rund 36.000 Einwohnern, 35 km östlich von Koblenz.",
+"frage": "Urkundlich erwähnt wird Limburg im Jahr 910. Seit wie vielen Jahren ist das Gebiet laut Stadt besiedelt?",
+"optionen": [
+"unter 3.000 Jahren",
+"3.000 bis unter 20.000 Jahren",
+"20.000 bis unter 50.000 Jahren",
+"50.000 Jahre und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Urkunde verleitet dazu, in Jahrhunderten zu denken, und auch die Römerzeit läge als Tipp nahe. Doch laut Stadt ist das Gebiet seit mehr als 35.000 Jahren besiedelt, lange vor jeder Urkunde und jedem Stadtnamen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.limburg.de/Rathaus-Leben/Stadtportrait/",
+"faktencheck": "korrigiert",
+"id": "178-limburg/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "177-huenfelden",
+"anschluss": [
+"Kennzeichen: In Hünfelden und Limburg steht gleichermaßen WEL am Auto.",
+"Fläche: Hünfelden ist größer als Limburg, hat aber weniger Einwohner."
+],
+"anschluesse": {
+"177-huenfelden": [
+"Kennzeichen: In Hünfelden und Limburg steht gleichermaßen WEL am Auto.",
+"Fläche: Hünfelden ist größer als Limburg, hat aber weniger Einwohner."
+],
+"179-elz": [
+"Limburg an der Lahn hat viereinhalbmal so viele Einwohner wie Elz."
+],
+"180-diez": [
+"Landesgrenze: Diez liegt in Rheinland-Pfalz, Limburg an der Lahn in Hessen.",
+"Limburg an der Lahn hat gut dreimal so viele Einwohner wie Diez."
+],
+"181-montabaur": [
+"Landesgrenze: Montabaur liegt in Rheinland-Pfalz, Limburg an der Lahn in Hessen.",
+"Limburg an der Lahn hat fast zweieinhalbmal so viele Einwohner wie Montabaur."
+],
+"182-heiligenroth": [
+"Landesgrenze: Heiligenroth liegt in Rheinland-Pfalz, Limburg an der Lahn in Hessen.",
+"Limburg an der Lahn hat rund 25-mal so viele Einwohner wie Heiligenroth."
+]
+},
+"ags": "06533009",
+"ortsteil": false,
+"km_vom_vorigen": 8.1
+},
+{
+"slug": "179-elz",
+"name": "Elz",
+"lat": 50.41667,
+"lon": 8.03333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Elz",
+"steckbrief": "Gemeinde mit rund 8.100 Einwohnern, 33 km östlich von Koblenz.",
+"frage": "Woher hat die Gemeinde Elz ihren Namen?",
+"optionen": [
+"Der Name kommt von einer Elster im Wappen.",
+"Der Name erinnert an eine heilige Quelle.",
+"Der Name stammt von einem fränkischen Siedlerführer.",
+"Der Name kommt von Erlen am Bach."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Siedlerführer liegt nahe, denn viele Ortsnamen gehen auf Personen zurück. Die Ortsgeschichte erklärt den Namen aber aus der Natur: von den vielen Erlen, „elsen“, am heutigen Erbach. Nach ihnen wurden der Bach und die Siedlung benannt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/",
+"faktencheck": "korrigiert",
+"id": "179-elz/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Elz",
+"steckbrief": "Gemeinde mit rund 8.100 Einwohnern, 33 km östlich von Koblenz.",
+"frage": "Wie viele Einwohner leben in Elz im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 550",
+"550 bis unter 800",
+"800 bis unter 1.100",
+"1.100 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Gemeinde dieser Größe wirkt fast städtisch, darum schätzt man leicht zu hoch. Doch zur Gemarkung gehören viel Wald und der kleine Ortsteil Malmeneich. Rechnerisch leben rund 480 Menschen auf einem Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "179-elz/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Elz",
+"steckbrief": "Gemeinde mit rund 8.100 Einwohnern, 33 km östlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Elzer war zeitweise Rektor in Marburg.",
+"In der Reformation wurde Elz evangelisch.",
+"Elzer zogen einst als Wandermusikanten durch Europa."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Evangelisch klingt glaubhaft, denn der gebürtige Elzer Johannes Opilio predigte als Lutheraner in Usingen. Elz selbst aber blieb katholisch, als Gemeinde des Kurfürstentums Trier. Der Rektor war der Jurist Justus Studaeus Elsanus, die Musikanten zogen aus Armut bis Russland. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/",
+"faktencheck": "bestätigt",
+"id": "179-elz/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Elz",
+"steckbrief": "Gemeinde mit rund 8.100 Einwohnern, 33 km östlich von Koblenz.",
+"frage": "Wie hoch war die Wahlbeteiligung in Elz bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 78 %",
+"78 bis unter 86 %",
+"86 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an sinkende Wahlbeteiligung in vielen Jahren denkt, schätzt eher niedrig. Bei der Bundestagswahl 2025 gingen in Elz aber 82,6 Prozent der Wahlberechtigten zur Wahl; stärkste Kraft wurde die CDU. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "179-elz/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Elz",
+"steckbrief": "Gemeinde mit rund 8.100 Einwohnern, 33 km östlich von Koblenz.",
+"frage": "Von 1436 an hatte Elz zwei Herren zugleich. Wie kam es dazu?",
+"optionen": [
+"Ein Kaiser hatte Elz zwei Fürsten zugleich geschenkt.",
+"Ein Teil von Elz war Mitgift einer Grafentochter.",
+"Ein Schiedsgericht teilte Elz nach einem Erbstreit.",
+"Elz war wegen Schulden verpfändet worden."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Erbstreit liegt nahe, denn geteilte Herrschaften entstanden oft durch Erbteilung. In Elz ging es um Geld: Der Trierer Kurfürst verpfändete den Ort an Hessen, um Schulden seines Vorgängers zu begleichen. Kurtrier blieb Grundherr, Hessen wurde Pfandherr. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/",
+"faktencheck": "korrigiert",
+"id": "179-elz/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Elz",
+"steckbrief": "Gemeinde mit rund 8.100 Einwohnern, 33 km östlich von Koblenz.",
+"frage": "Wie weit ist es von Elz in Luftlinie bis zur hessischen Landeshauptstadt Wiesbaden?",
+"optionen": [
+"unter 45 km",
+"45 bis unter 60 km",
+"60 bis unter 80 km",
+"80 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Am Fuß des Westerwaldes fühlt man sich weit weg von der Landeshauptstadt, zumal Koblenz in einem anderen Bundesland liegt. Doch bis Wiesbaden sind es in Luftlinie nur rund 40 Kilometer. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "179-elz/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Elz",
+"steckbrief": "Gemeinde mit rund 8.100 Einwohnern, 33 km östlich von Koblenz.",
+"frage": "Der Elzer Ortsteil Malmeneich war 1945 eine Grenzstation. Welche Grenze verlief dort?",
+"optionen": [
+"Dort grenzten britische und amerikanische Zone aneinander.",
+"Dort grenzten amerikanische und französische Zone aneinander.",
+"Dort grenzten britische und französische Zone aneinander.",
+"Dort grenzten sowjetische und amerikanische Zone aneinander."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die britische Zone liegt nahe, denn Köln und das nördliche Rheinland waren britisch. Doch an Malmeneich grenzten die amerikanische und die französische Besatzungszone aneinander. Grenzstation war der Ort schon nach dem Ersten Weltkrieg, damals zwischen besetztem und unbesetztem Deutschland. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.elz.de/leben-in-elz/ortsportrait/ortsteil-malmeneich/ortsgeschichte-malmeneich/",
+"faktencheck": "bestätigt",
+"id": "179-elz/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Elz",
+"steckbrief": "Gemeinde mit rund 8.100 Einwohnern, 33 km östlich von Koblenz.",
+"frage": "Das Elzer Wappen zeigt einen Kelch mit einer Schlange. Wofür gelten Kelch und Schlange in der Kunstgeschichte?",
+"optionen": [
+"Sie gelten als Attribute des heiligen Georg.",
+"Sie gelten als Attribute des Arztes Paracelsus.",
+"Sie gelten als Attribute des heiligen Patrick.",
+"Sie gelten als Attribute des Apostels Johannes."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Georg liegt wegen der Schlange nahe, doch sein Zeichen ist der Drache, kein Kelch. Kelch und heilwirkende Schlange gelten in der Kunstgeschichte als Attribute des Apostels Johannes. Der Legende nach sog die Schlange das Gift aus seinem Becher. Die Farben stehen für Kurtrier und Nassau. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/das-wappen-der-gemeinde-elz/",
+"faktencheck": "korrigiert",
+"id": "179-elz/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Elz",
+"steckbrief": "Gemeinde mit rund 8.100 Einwohnern, 33 km östlich von Koblenz.",
+"frage": "Eine alte Urkunde über Elz wurde jahrhundertelang falsch gelesen. Welchen Namen las man dort?",
+"optionen": [
+"Man las dort die Weilburger Mark.",
+"Man las dort die Diezer Mark.",
+"Man las dort die Hadamarer Mark.",
+"Man las dort die Runkeler Mark."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Weilburg liegt nahe, denn der Name steckt im heutigen Kreisnamen. Gelesen hatte man aber „disser marc“, die Diezer Mark. Tatsächlich stand in der verlorenen Urkunde „elisser marc“, gemeint war also die Elzer Gemarkung. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/",
+"faktencheck": "korrigiert",
+"id": "179-elz/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Elz",
+"steckbrief": "Gemeinde mit rund 8.100 Einwohnern, 33 km östlich von Koblenz.",
+"frage": "Elz erhielt im Jahr 1442 Stadtrecht. Welches Vorbild hatte es?",
+"optionen": [
+"Elz bekam Stadtrecht nach Trierer Vorbild.",
+"Elz bekam Stadtrecht nach Kölner Vorbild.",
+"Elz bekam Stadtrecht nach Frankfurter Vorbild.",
+"Elz bekam Stadtrecht nach Wetzlarer Vorbild."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Trier liegt nahe, denn Landesherr war damals der Trierer Erzbischof Jakob von Sierck. Grundlage des Elzer Stadtrechts war aber das Frankfurter Recht. Später überfielen nassauische Grafen den Ort und zerstörten seine Befestigung. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/",
+"faktencheck": "bestätigt",
+"id": "179-elz/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "178-limburg",
+"anschluss": [
+"Bundestagswahl 2025: CDU in Elz 39,2, in Limburg 32,6 Prozent.",
+"Hexenverfolgung: Elzer Angeklagte wurden 1589/90 in Limburg verbrannt."
+],
+"anschluesse": {
+"177-huenfelden": [
+"Hünfelden hat rund 1.600 Einwohner mehr als Elz."
+],
+"178-limburg": [
+"Bundestagswahl 2025: CDU in Elz 39,2, in Limburg 32,6 Prozent.",
+"Hexenverfolgung: Elzer Angeklagte wurden 1589/90 in Limburg verbrannt."
+],
+"180-diez": [
+"Landesgrenze: Diez liegt in Rheinland-Pfalz, Elz in Hessen.",
+"Diez hat fast anderthalbmal so viele Einwohner wie Elz."
+],
+"181-montabaur": [
+"Landesgrenze: Montabaur liegt in Rheinland-Pfalz, Elz in Hessen.",
+"Montabaur hat fast doppelt so viele Einwohner wie Elz."
+],
+"182-heiligenroth": [
+"Landesgrenze: Heiligenroth liegt in Rheinland-Pfalz, Elz in Hessen.",
+"Elz hat fast sechsmal so viele Einwohner wie Heiligenroth."
+]
+},
+"ags": "06533006",
+"ortsteil": false,
+"km_vom_vorigen": 4.4
+},
+{
+"slug": "180-diez",
+"name": "Diez",
+"lat": 50.37083,
+"lon": 8.01583,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Diez",
+"steckbrief": "Stadt mit rund 11.400 Einwohnern, 31 km östlich von Koblenz.",
+"frage": "Unter Fürstin Amalie von Nassau-Diez entstand im frühen 18. Jahrhundert am Oberen Markt eine Kirche. Für wen war sie bestimmt?",
+"optionen": [
+"Sie war für die reformierte Stadtgemeinde bestimmt.",
+"Sie diente französischen Glaubensflüchtlingen als Gotteshaus.",
+"Sie gab den Lutheranern eine eigene Kirche.",
+"Sie war als Hofkirche für das Schloss gedacht."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Hofkirche läge nahe, denn Fürstinnen bauten gern für den eigenen Hof. Doch Amalie gewährte den Lutheranern in der sonst reformierten Stadt Religionsfreiheit und erlaubte ihnen, eine eigene Kirche zu bauen. Sie steht am heutigen Ernst-Scheuern-Platz und ist inzwischen katholisch. Richtig war 3.",
+"quelle": "Landesportal, www.regionalgeschichte.net/rhein-lahn/diez.html",
+"faktencheck": "korrigiert",
+"id": "180-diez/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Diez",
+"steckbrief": "Stadt mit rund 11.400 Einwohnern, 31 km östlich von Koblenz.",
+"frage": "Wie viele Einwohner leben in Diez im Schnitt auf einem Quadratkilometer?",
+"optionen": [
+"unter 250",
+"250 bis unter 500",
+"500 bis unter 800",
+"800 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Für eine Kleinstadt wirkt eine mittlere Spanne plausibel. Doch die 11.445 Einwohner (Stand Ende 2025) teilen sich nur 12,41 Quadratkilometer Stadtfläche. Das ergibt etwa 922 Menschen je Quadratkilometer. Richtig war 4.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "180-diez/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Diez",
+"steckbrief": "Stadt mit rund 11.400 Einwohnern, 31 km östlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Schloss Oranienstein entstand an der Stelle eines Klosters.",
+"Eine NS-Motorsportschule zog vom Nürburgring nach Diez.",
+"Die Lahnbrücke überstand den Zweiten Weltkrieg ohne Zerstörung."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Motorsportschule wirkt verdächtig, denn wer verlässt schon den Nürburgring? Sie zog aber wirklich nach Diez. Gelogen war die Brücke: Sie wurde im Zweiten Weltkrieg zerstört und in Eisenbeton neu gebaut. Schon früher hatten Schweden die alte Steinbrücke zerstört. Die Lüge war 3.",
+"quelle": "Landesportal, www.regionalgeschichte.net/rhein-lahn/diez.html",
+"faktencheck": "bestätigt",
+"id": "180-diez/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Diez",
+"steckbrief": "Stadt mit rund 11.400 Einwohnern, 31 km östlich von Koblenz.",
+"frage": "Bundestagswahl 2025 in der Verbandsgemeinde Diez: Wie viel Prozent der Zweitstimmen holte dort die stärkste Partei?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 32 %",
+"32 bis unter 40 %",
+"40 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an die oft starke Union auf dem Land denkt, schätzt höher. In der Verbandsgemeinde Diez lag die CDU zwar vorn, aber nur mit 28,2 Prozent vor AfD und SPD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "180-diez/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Diez",
+"steckbrief": "Stadt mit rund 11.400 Einwohnern, 31 km östlich von Koblenz.",
+"frage": "Unter Fürstin Amalie entstand im frühen 18. Jahrhundert die Diezer Neustadt. Was wurde dabei aus dem Bett der Aar?",
+"optionen": [
+"Die Aar verschwand in einem unterirdischen Kanal.",
+"Die Aar wurde zu einem großen Teich gestaut.",
+"Die Aar floss wie eine Gracht zwischen Gärten.",
+"Die Aar wurde zugeschüttet und überbaut."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein unterirdischer Kanal liegt nahe, denn viele Städte haben ihre Bäche unter die Straßen verlegt. Amalie tat das Gegenteil: Das Aarbett wurde kanalartig ausgebaut, mit je einer Häuserzeile auf beiden Seiten und blühenden Gärten, ähnlich einer holländischen Gracht. Darüber führten Steinbrücken, eine mit Amalies Monogramm. Richtig war 3.",
+"quelle": "Landesportal, www.regionalgeschichte.net/rhein-lahn/diez.html",
+"faktencheck": "bestätigt",
+"id": "180-diez/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Diez",
+"steckbrief": "Stadt mit rund 11.400 Einwohnern, 31 km östlich von Koblenz.",
+"frage": "Wie weit ist es von Diez in Luftlinie bis zur Landeshauptstadt Mainz?",
+"optionen": [
+"unter 20 km",
+"20 bis unter 30 km",
+"30 bis unter 42 km",
+"42 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Koblenz liegt nah, da wirkt auch Mainz nicht weit. Doch von Diez bis zur Landeshauptstadt sind es 47 Kilometer Luftlinie. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "180-diez/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Diez",
+"steckbrief": "Stadt mit rund 11.400 Einwohnern, 31 km östlich von Koblenz.",
+"frage": "Graf Heinrich II. von Diez war ein enger Vertrauter Kaiser Friedrich Barbarossas. Wo war er Statthalter?",
+"optionen": [
+"Er war Statthalter in der Lombardei.",
+"Er war Statthalter in Holland.",
+"Er war Statthalter in Böhmen.",
+"Er war Statthalter auf Sizilien."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Holland liegt nahe: Statthalter war später der Titel der Oranier in den Niederlanden, und mit ihnen ist Diez eng verbunden. Heinrich aber vertrat den Kaiser in der Lombardei und verhandelte nach der Schlacht von Legnano zwischen Kaiser und Papst über Frieden. Vom Dritten Kreuzzug kehrte er nicht zurück. Richtig war 1.",
+"quelle": "Landesportal, www.regionalgeschichte.net/rhein-lahn/diez.html",
+"faktencheck": "bestätigt",
+"id": "180-diez/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Diez",
+"steckbrief": "Stadt mit rund 11.400 Einwohnern, 31 km östlich von Koblenz.",
+"frage": "Am 27. März 1945 wurde Diez nach einigen Schüssen in die Altstadt an amerikanische Truppen übergeben. Wer übergab die Stadt?",
+"optionen": [
+"Der Bürgermeister übergab die Stadt persönlich.",
+"Ein Malermeister und Rennfahrer übergab die Stadt.",
+"Der Kommandant der Kaserne übergab die Stadt.",
+"Der evangelische Stadtpfarrer übergab die Stadt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Meist denkt man an Bürgermeister oder Kommandanten, die eine Stadt übergeben. In Diez tat es Willi Seibel, Malermeister und Rennfahrer. Danach kam Diez zur französischen Besatzungszone. Richtig war 2.",
+"quelle": "Landesportal, www.regionalgeschichte.net/rhein-lahn/diez.html",
+"faktencheck": "bestätigt",
+"id": "180-diez/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "179-elz",
+"anschluss": [
+"Hauptkennzeichen: In Elz ist es WEL, in Diez DIZ.",
+"Einwohner: Diez hat rund 11.400, Elz rund 8.100."
+],
+"anschluesse": {
+"177-huenfelden": [
+"Landesgrenze: Hünfelden liegt in Hessen, Diez in Rheinland-Pfalz.",
+"Diez hat rund 1.700 Einwohner mehr als Hünfelden."
+],
+"178-limburg": [
+"Landesgrenze: Limburg an der Lahn liegt in Hessen, Diez in Rheinland-Pfalz.",
+"Limburg an der Lahn hat gut dreimal so viele Einwohner wie Diez."
+],
+"179-elz": [
+"Hauptkennzeichen: In Elz ist es WEL, in Diez DIZ.",
+"Einwohner: Diez hat rund 11.400, Elz rund 8.100."
+],
+"181-montabaur": [
+"Kreisgrenze: Montabaur gehört zum Westerwaldkreis, Diez zum Rhein-Lahn-Kreis.",
+"Montabaur hat rund 3.500 Einwohner mehr als Diez."
+],
+"182-heiligenroth": [
+"Kreisgrenze: Heiligenroth gehört zum Westerwaldkreis, Diez zum Rhein-Lahn-Kreis.",
+"Diez hat achtmal so viele Einwohner wie Heiligenroth."
+]
+},
+"ags": "07141029",
+"ortsteil": false,
+"km_vom_vorigen": 5.2
+},
+{
+"slug": "181-montabaur",
+"name": "Montabaur",
+"lat": 50.4375,
+"lon": 7.82583,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Montabaur",
+"steckbrief": "Kreisstadt mit rund 15.000 Einwohnern, 20 km nordöstlich von Koblenz.",
+"frage": "Woher hat Montabaur nach der Stadtgeschichte seinen Namen?",
+"optionen": [
+"Er bedeutet „Berg der Bauern“.",
+"Er geht auf einen biblischen Berg zurück.",
+"Er stammt von einem französischen Grafengeschlecht.",
+"Er geht auf einen keltischen Flussnamen zurück."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. „Berg der Bauern“ liegt nahe, weil der Name nach „Mont“ und „Bauer“ klingt. Tatsächlich steckt „Mons Tabor“ darin, der Berg Tabor – in Anlehnung an den biblischen Ort der Verklärung. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "181-montabaur/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Montabaur",
+"steckbrief": "Kreisstadt im Westerwald, 20 km nordöstlich von Koblenz.",
+"frage": "Wie viele Menschen leben in der Stadt Montabaur?",
+"optionen": [
+"unter 5.000",
+"5.000 bis unter 10.000",
+"10.000 bis unter 20.000",
+"20.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Unter 10.000 liegt nahe, denn der Westerwald gilt als ländlich. Als Kreisstadt und Verwaltungs-, Einkaufs- und Bildungszentrum des südlichen Westerwaldes zählt Montabaur aber 14.937 Einwohner. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "181-montabaur/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Montabaur",
+"steckbrief": "Kreisstadt mit rund 15.000 Einwohnern, 20 km nordöstlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Fachwerkhäuser der Altstadt überstanden den großen Brand.",
+"Schwedische Truppen belagerten Montabaur einst mehrere Monate lang.",
+"Im Schloss war früher ein Lehrerseminar untergebracht."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die monatelange Belagerung durch die Schweden klingt erfunden, stimmt aber. Falsch ist der Satz zum Brand: Ein verheerender Stadtbrand löschte Montabaur fast aus. Die Fachwerkhäuser, die heute die Altstadt prägen, stammen aus dem Wiederaufbau nach Bränden und Krieg. Auch das Lehrerseminar im Schloss gab es wirklich. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/ und www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/h/historischer-stadtplan/",
+"faktencheck": "korrigiert",
+"id": "181-montabaur/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Montabaur",
+"steckbrief": "Kreisstadt mit rund 15.000 Einwohnern, 20 km nordöstlich von Koblenz.",
+"frage": "Bundestagswahl 2025, Verbandsgemeinde Montabaur: Welche Partei holte nach der CDU die meisten Zweitstimmen?",
+"optionen": [
+"SPD",
+"AfD",
+"GRÜNE",
+"FDP"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die AfD liegt nahe, denn in vielen ländlichen Gegenden wurde sie zweitstärkste Kraft. In der Verbandsgemeinde Montabaur lag aber die SPD mit 17,1 Prozent knapp vor der AfD mit 16,2 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "181-montabaur/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Montabaur",
+"steckbrief": "Kreisstadt mit rund 15.000 Einwohnern, 20 km nordöstlich von Koblenz.",
+"frage": "Im Februar 1719 wurden in Montabaur städtische Wachleute zwölf Stunden in einen Turm gesperrt. Warum?",
+"optionen": [
+"Sie hatten einen Gefangenen entkommen lassen.",
+"Sie ließen den Kurfürsten am Stadttor warten.",
+"Sie hatten Geld aus der Stadtkasse genommen.",
+"Sie hatten gegen den Stadtrat gemeutert."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein entwischter Gefangener liegt nahe, denn der Turm „Schiffgen“ diente zeitweise als Gefängnis, genannt „Bürgergehorsam“. Doch die Wachen hatten ihren Dienst am Stadttor nicht versehen, während Kurfürst Franz Ludwig von Trier auf Einlass wartete. Zur Strafe saßen sie bei Winterwetter ein. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/h/historischer-stadtplan/",
+"faktencheck": "bestätigt",
+"id": "181-montabaur/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Montabaur",
+"steckbrief": "Kreisstadt mit rund 15.000 Einwohnern, 20 km nordöstlich von Koblenz.",
+"frage": "Wie viele Einwohner kommen in Montabaur auf einen Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 300",
+"300 bis unter 600",
+"600 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine niedrige Zahl liegt nahe, denn der Westerwald gilt als dünn besiedelt. Doch auf knapp 34 Quadratkilometern leben fast 15.000 Menschen. Das ergibt 442 Einwohner je Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Wikidata P1082 (Stand 2025-12-31) und Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "181-montabaur/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Montabaur",
+"steckbrief": "Kreisstadt mit rund 15.000 Einwohnern, 20 km nordöstlich von Koblenz.",
+"frage": "Die Mädchenschule von Montabaur bestand seit 1687. Wo wurden die Schülerinnen ursprünglich unterrichtet?",
+"optionen": [
+"In einem Raum des Rathauses.",
+"In der Sakristei der Pfarrkirche.",
+"In einem Stall des Schlosses.",
+"In einem Turm der Stadtbefestigung."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Raum im Rathaus liegt nahe, weil Schulen früher oft in städtischen Gebäuden unterkamen. Die Mädchen lernten aber in einem Stadtturm neben dem Peterstor, der später „Schulturm“ genannt wurde. Erst danach zog die Schule in einen Fachwerkbau gegenüber dem Kirchplatz. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/h/historische-schulen/die-maedchenschule/",
+"faktencheck": "korrigiert",
+"id": "181-montabaur/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Montabaur",
+"steckbrief": "Kreisstadt mit rund 15.000 Einwohnern, 20 km nordöstlich von Koblenz.",
+"frage": "Die Katharinenschule der Dernbacher Schwestern, eine Mittelschule für Mädchen, musste im 19. Jahrhundert schließen. Was war der Grund?",
+"optionen": [
+"Ein Brand zerstörte das Schulhaus.",
+"Eine Seuche legte den Schulbetrieb lahm.",
+"Ein staatliches Gesetz gegen Klöster erzwang sie.",
+"Der Orden gab die Schule freiwillig auf."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Brand liegt nahe, denn Feuer zerstörte früher viele Schulhäuser. Geschlossen wurde sie aber wegen des Klostergesetzes im Kulturkampf, des Streits zwischen Staat und katholischer Kirche. Um die Jahrhundertwende öffnete sie wieder, später erneut unter Leitung der Dernbacher Schwestern. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/h/historische-schulen/die-katharinenschule/",
+"faktencheck": "korrigiert",
+"id": "181-montabaur/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Montabaur",
+"steckbrief": "Kreisstadt mit rund 15.000 Einwohnern, 20 km nordöstlich von Koblenz.",
+"frage": "Von 1946 bis 1969 nutzte eine Behörde das Schloss Montabaur. Welche?",
+"optionen": [
+"Dort saß ein Oberlandesgericht.",
+"Dort saß eine Bezirksregierung.",
+"Dort saß ein Landesfinanzamt.",
+"Dort saß eine Polizeidirektion."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Gericht liegt nahe, denn in Schlössern saßen oft Behörden und Gerichte. Tatsächlich saß dort die Bezirksregierung Montabaur. Danach zog die Fortbildungsakademie der deutschen Genossenschaften ein; früher hatte das Schloss schon ein Landratsamt beherbergt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "181-montabaur/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "180-diez",
+"anschluss": [
+"Fläche: Montabaur ist gut zweieinhalbmal so groß wie Diez.",
+"Bundestagswahl 2025: Verbandsgemeinde Montabaur hatte höhere Beteiligung als Diez."
+],
+"anschluesse": {
+"10-vallendar": [
+"Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Montabaur zum Westerwaldkreis.",
+"Montabaur hat gut anderthalbmal so viele Einwohner wie Vallendar."
+],
+"53-koblenz": [
+"Kreisgrenze: Koblenz ist kreisfrei, Montabaur gehört zum Westerwaldkreis.",
+"Koblenz hat fast achtmal so viele Einwohner wie Montabaur."
+],
+"178-limburg": [
+"Landesgrenze: Limburg an der Lahn liegt in Hessen, Montabaur in Rheinland-Pfalz.",
+"Limburg an der Lahn hat fast zweieinhalbmal so viele Einwohner wie Montabaur."
+],
+"179-elz": [
+"Landesgrenze: Elz liegt in Hessen, Montabaur in Rheinland-Pfalz.",
+"Montabaur hat fast doppelt so viele Einwohner wie Elz."
+],
+"180-diez": [
+"Fläche: Montabaur ist gut zweieinhalbmal so groß wie Diez.",
+"Bundestagswahl 2025: Verbandsgemeinde Montabaur hatte höhere Beteiligung als Diez."
+],
+"182-heiligenroth": [
+"Montabaur hat zehnmal so viele Einwohner wie Heiligenroth."
+],
+"183-ransbach-baumbach": [
+"Montabaur hat fast doppelt so viele Einwohner wie Ransbach-Baumbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ransbach-Baumbach die AfD, in Montabaur die SPD."
+],
+"184-hoehr-grenzhausen": [
+"Montabaur hat gut anderthalbmal so viele Einwohner wie Höhr-Grenzhausen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Höhr-Grenzhausen die AfD, in Montabaur die SPD."
+]
+},
+"ags": "07143048",
+"ortsteil": false,
+"km_vom_vorigen": 15.4
+},
+{
+"slug": "182-heiligenroth",
+"name": "Heiligenroth",
+"lat": 50.44972,
+"lon": 7.865,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heiligenroth",
+"steckbrief": "Heiligenroth hat rund 1.500 Einwohner und liegt 23 km nordöstlich von Koblenz.",
+"frage": "An den Wehrturm von Heiligenroth wurde 1782 die Kirche angebaut. Wem gehörte der Turm, bevor er 1975 an die Kirchengemeinde ging?",
+"optionen": [
+"Er gehörte der politischen Gemeinde.",
+"Er gehörte dem Bundesland.",
+"Er gehörte einem Heimatverein.",
+"Er gehörte einer Bauernfamilie."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Wehrbau liegt das Land als Eigentümer nahe, denn viele Burgen und Türme gehören dem Staat. Doch der Wehrturm gehörte der Zivilgemeinde, also dem Dorf selbst. Erst danach ging er an die Kirchengemeinde über. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.heiligenroth.de/geschichte/",
+"faktencheck": "bestätigt",
+"id": "182-heiligenroth/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Heiligenroth",
+"steckbrief": "Heiligenroth hat rund 1.500 Einwohner und liegt 23 km nordöstlich von Koblenz.",
+"frage": "Wie groß ist die Fläche der Gemeinde Heiligenroth?",
+"optionen": [
+"unter 4 km²",
+"4 bis unter 8 km²",
+"8 bis unter 15 km²",
+"15 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf mit Feldern und Wald ringsum schätzt man leicht größer ein, zumal im ländlichen Westerwald. Die Gemarkung von Heiligenroth misst aber nur 5,99 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "182-heiligenroth/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Heiligenroth",
+"steckbrief": "Heiligenroth hat rund 1.500 Einwohner und liegt 23 km nordöstlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"In nassauischer Zeit hatte Heiligenroth eine Elementarschule.",
+"Heiligenroth wurde als Siedlung von Bergleuten gegründet.",
+"Nach der nassauischen Zeit kam Heiligenroth zu Preußen."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bergbau klingt im Westerwald glaubwürdig, die Gegend ist für ihre Tongruben bekannt. Doch Heiligenroth gehörte wohl zu den Rodungsorten, angelegt auf gerodetem Waldland. Die Elementarschule gab es in nassauischer Zeit, danach kam der Ort an Preußen. Die Lüge war 2.",
+"quelle": "Landesportal, www.regionalgeschichte.net/westerwald/heiligenroth.html",
+"faktencheck": "korrigiert",
+"id": "182-heiligenroth/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Heiligenroth",
+"steckbrief": "Heiligenroth hat rund 1.500 Einwohner und liegt 23 km nordöstlich von Koblenz.",
+"frage": "Wie hoch war bei der Bundestagswahl 2025 die Wahlbeteiligung in der Verbandsgemeinde Montabaur, zu der Heiligenroth gehört?",
+"optionen": [
+"unter 72 %",
+"72 bis unter 78 %",
+"78 bis unter 82 %",
+"82 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine niedrigere Spanne liegt nahe, denn auf dem Land vermutet man oft weniger Wahleifer als in Städten. Doch in der Verbandsgemeinde Montabaur gaben 84,9 Prozent der Wahlberechtigten ihre Stimme ab. Der Wert gilt für die ganze Verbandsgemeinde, nicht für Heiligenroth allein. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "182-heiligenroth/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heiligenroth",
+"steckbrief": "Heiligenroth hat rund 1.500 Einwohner und liegt 23 km nordöstlich von Koblenz.",
+"frage": "Für die Kirche von Heiligenroth plante man eine Erweiterung, umgesetzt wurde sie erst zwei Jahrzehnte später. Welchen Grund für den Aufschub nennt die Ortsgeschichte?",
+"optionen": [
+"Der Erste Weltkrieg kam dazwischen.",
+"Der Baumeister starb kurz vor Baubeginn.",
+"Die Baupläne verbrannten bei einem Feuer.",
+"Ein Sturm beschädigte zuerst das Kirchendach."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer langen Bauverzögerung denkt man zuerst an Pech auf der Baustelle, etwa an verlorene Pläne. Die Ortsgeschichte nennt einen größeren Grund: Der Erste Weltkrieg kam dazwischen. Erst Jahre später wurde die Kirche St. Petrus und Marcellinus um ein Seitenschiff vergrößert. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.heiligenroth.de/kirche-friedhof/",
+"faktencheck": "korrigiert",
+"id": "182-heiligenroth/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Heiligenroth",
+"steckbrief": "Heiligenroth hat rund 1.500 Einwohner und liegt 23 km nordöstlich von Koblenz.",
+"frage": "Wie viele Einwohner leben in Heiligenroth rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 300",
+"300 bis unter 600",
+"600 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Dorf im Westerwald liegt dünne Besiedlung nahe, man denkt an viel Feld und Wald. In Heiligenroth kommen aber rechnerisch 243 Einwohner auf einen Quadratkilometer, mehr als man einem Dorf zutraut. Richtig war 2.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "182-heiligenroth/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heiligenroth",
+"steckbrief": "Heiligenroth hat rund 1.500 Einwohner und liegt 23 km nordöstlich von Koblenz.",
+"frage": "In Heiligenroth sitzt das Musiklabel Summerfield Records. Wer steht hinter der Firma?",
+"optionen": [
+"Zwei Fernsehköche stehen hinter der Firma.",
+"Zwei Rennfahrer stehen hinter der Firma.",
+"Zwei Partyschlager-Produzenten stehen hinter der Firma.",
+"Zwei Fußballprofis stehen hinter der Firma."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. An einer Autobahn liegen Rennfahrer nahe, und Sportler gründen gern eigene Firmen. Doch Summerfield Records haben die Partyschlager-Produzenten Dominik de Leon und Matthias Distel gegründet. Distel kennt man als Ikke Hüftgold. Richtig war 3.",
+"quelle": "Westerwälder Zeitung (Rhein-Zeitung), 10.02.2023",
+"faktencheck": "korrigiert",
+"id": "182-heiligenroth/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heiligenroth",
+"steckbrief": "Heiligenroth hat rund 1.500 Einwohner und liegt 23 km nordöstlich von Koblenz.",
+"frage": "Das Wappen von Heiligenroth zeigt einen Löwen auf Blau. Wofür steht er?",
+"optionen": [
+"Er erinnert an einen alten Gasthof „Zum Löwen“.",
+"Er verweist auf die Lage im Nassauer Land.",
+"Er erinnert an einen Wanderzirkus, der im Ort überwinterte.",
+"Er steht für den Evangelisten Markus."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Löwe im Wappen lässt an Wirtshausschilder oder Heilige denken. Doch laut Gemeinde verweist er auf die Lage: Heiligenroth liegt bis heute mitten im Nassauer Land. Der rote Wehrturm im Wappen steht noch, an ihn wurde 1782 die Kirche angebaut. Richtig war 2.",
+"quelle": "Gemeinde Heiligenroth, heiligenroth.de/geschichte",
+"faktencheck": "korrigiert",
+"id": "182-heiligenroth/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heiligenroth",
+"steckbrief": "Heiligenroth hat rund 1.500 Einwohner und liegt 23 km nordöstlich von Koblenz.",
+"frage": "Ab 1018 stand das Gebiet um Heiligenroth unter der Herrschaft der Trierer Erzbischöfe. Wie kam es damals an sie?",
+"optionen": [
+"Ein Graf verlor es in einer Fehde.",
+"Der Erzbischof kaufte es einem Grafen ab.",
+"Eine Adlige vererbte es der Kirche.",
+"Ein König schenkte es der Trierer Kirche."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Kauf liegt nahe, denn Kirchenfürsten rundeten ihre Gebiete oft mit Geld ab. Doch es war ein Geschenk: König Heinrich II. schenkte der Trierer Kirche den Besitz um Montabaur, und dazu gehörte auch das Gebiet um Heiligenroth. Bei den Trierer Erzbischöfen blieb Heiligenroth, bis Nassau den Ort übernahm. Richtig war 4.",
+"quelle": "Landesportal, www.regionalgeschichte.net/westerwald/heiligenroth.html",
+"faktencheck": "korrigiert",
+"id": "182-heiligenroth/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "181-montabaur",
+"anschluss": [
+"Einwohner: Montabaur hat rund zehnmal so viele wie Heiligenroth.",
+"Früher gehörte Heiligenroth zu Amt und Gericht Montabaur."
+],
+"anschluesse": {
+"10-vallendar": [
+"Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Heiligenroth zum Westerwaldkreis.",
+"Vallendar hat gut sechsmal so viele Einwohner wie Heiligenroth."
+],
+"178-limburg": [
+"Landesgrenze: Limburg an der Lahn liegt in Hessen, Heiligenroth in Rheinland-Pfalz.",
+"Limburg an der Lahn hat rund 25-mal so viele Einwohner wie Heiligenroth."
+],
+"179-elz": [
+"Landesgrenze: Elz liegt in Hessen, Heiligenroth in Rheinland-Pfalz.",
+"Elz hat fast sechsmal so viele Einwohner wie Heiligenroth."
+],
+"180-diez": [
+"Kreisgrenze: Diez gehört zum Rhein-Lahn-Kreis, Heiligenroth zum Westerwaldkreis.",
+"Diez hat achtmal so viele Einwohner wie Heiligenroth."
+],
+"181-montabaur": [
+"Einwohner: Montabaur hat rund zehnmal so viele wie Heiligenroth.",
+"Früher gehörte Heiligenroth zu Amt und Gericht Montabaur."
+],
+"183-ransbach-baumbach": [
+"Ransbach-Baumbach hat fast sechsmal so viele Einwohner wie Heiligenroth.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Ransbach-Baumbach die AfD, in Heiligenroth die SPD."
+],
+"184-hoehr-grenzhausen": [
+"Höhr-Grenzhausen hat gut sechsmal so viele Einwohner wie Heiligenroth.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Höhr-Grenzhausen die AfD, in Heiligenroth die SPD."
+]
+},
+"ags": "07143027",
+"ortsteil": false,
+"km_vom_vorigen": 3.1
+},
+{
+"slug": "183-ransbach-baumbach",
+"name": "Ransbach-Baumbach",
+"lat": 50.46611,
+"lon": 7.72528,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ransbach-Baumbach",
+"steckbrief": "Stadt mit rund 8.200 Einwohnern, 16 km nordöstlich von Koblenz.",
+"frage": "Nordöstlich von Alsbach, einem Dorf der Verbandsgemeinde, hatten die Herren zu Isenburg seit 1376 die Hohe Feste am Weißenstein. Wozu diente sie laut Ortsgeschichte?",
+"optionen": [
+"Sie bewachte eine Zollstelle an einem Bach.",
+"Dort ließen die Herren eigene Münzen prägen.",
+"Sie diente verwitweten Herrinnen als Wohnsitz.",
+"Dort wurde das Landgericht abgehalten."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer „Feste“ denkt man leicht an eine Burg, die eine Straße oder einen Bach bewacht. Die Ortsgeschichte von Alsbach nennt einen anderen Zweck: Auf der Hohen Feste am Weißenstein hielten die Herren zu Isenburg das Landgericht ab, ein Gericht für das umliegende Land. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Alsbach/Kurzportrait/",
+"faktencheck": "korrigiert",
+"id": "183-ransbach-baumbach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ransbach-Baumbach",
+"steckbrief": "Stadt mit rund 8.200 Einwohnern, 16 km nordöstlich von Koblenz.",
+"frage": "Wie groß ist die Gemarkung der Stadt Ransbach-Baumbach?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 25 km²",
+"25 bis unter 40 km²",
+"40 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an eine Westerwälder Kleinstadt mit viel Wald und Feld denkt, schätzt leicht zu hoch. Auch die Dörfer ringsum zählen nicht mit: Sie gehören zwar zur Verbandsgemeinde Ransbach-Baumbach, sind aber eigene Gemeinden. Die Stadt selbst misst gut 12 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "183-ransbach-baumbach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Ransbach-Baumbach",
+"steckbrief": "Stadt mit rund 8.200 Einwohnern, 16 km nordöstlich von Koblenz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ransbach und Baumbach waren früher zwei eigene Gemeinden.",
+"Im Mittelalter herrschten hier die Herren von Isenburg.",
+"Vor Rheinland-Pfalz gehörte der Ort lange zu Bayern."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bayern liegt nahe, denn die Pfalz im Süden von Rheinland-Pfalz war lange bayerisch. Der Ort ging einen anderen Weg: Nach den Herren von Isenburg kamen Kurtrier, Nassau und Preußen. Ransbach und Baumbach wurden später zu einer Gemeinde zusammengelegt. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Stadt-Ransbach-Baumbach/Kurzportrait/",
+"faktencheck": "bestätigt",
+"id": "183-ransbach-baumbach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Ransbach-Baumbach",
+"steckbrief": "Stadt mit rund 8.200 Einwohnern, 16 km nordöstlich von Koblenz.",
+"frage": "Bundestagswahl 2025, Zweitstimmen in der Verbandsgemeinde Ransbach-Baumbach: Welchen Anteil holte die stärkste Partei?",
+"optionen": [
+"unter 24 %",
+"24 bis unter 30 %",
+"30 bis unter 36 %",
+"36 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer ländliche Gegenden für Hochburgen der Union hält, tippt höher. Die CDU lag in der Verbandsgemeinde Ransbach-Baumbach zwar klar vorn, kam aber auf 33,8 Prozent der Zweitstimmen. Der Wert gilt für die ganze Verbandsgemeinde, nicht nur für die Stadt. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "183-ransbach-baumbach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ransbach-Baumbach",
+"steckbrief": "Stadt mit rund 8.200 Einwohnern, 16 km nordöstlich von Koblenz.",
+"frage": "Im Dorf Caan in der Verbandsgemeinde Ransbach-Baumbach arbeiteten im Jahr 1723 drei Kannenbäcker. Womit verdienten sie ihr Brot?",
+"optionen": [
+"Sie backten Brotlaibe in Form von Kannen.",
+"Sie gossen Kannen und Teller aus Zinn.",
+"Sie flickten als Wanderhandwerker Kessel und Kannen.",
+"Sie stellten Kannen aus Ton her."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Das Wort Bäcker lockt zum Brot. Gebacken wurde aber Ton: Kannenbäcker formten aus Ton Kannen und brannten sie im Ofen hart. Ransbach-Baumbach liegt im Herzen des Kannenbäckerlandes, das nach diesem Handwerk heißt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Caan/Kurzportrait-Caan/",
+"faktencheck": "bestätigt",
+"id": "183-ransbach-baumbach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Ransbach-Baumbach",
+"steckbrief": "Stadt mit rund 8.200 Einwohnern, 16 km nordöstlich von Koblenz.",
+"frage": "In welchem Landkreis liegt Ransbach-Baumbach?",
+"optionen": [
+"Westerwaldkreis",
+"Landkreis Neuwied",
+"Rhein-Lahn-Kreis",
+"Landkreis Mayen-Koblenz"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Koblenz ist so nah, dass man an den Landkreis Mayen-Koblenz denkt. Zwischen Koblenz und Ransbach-Baumbach verläuft aber eine Kreisgrenze: Die Stadt gehört zum Westerwaldkreis. Richtig war 1.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "183-ransbach-baumbach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ransbach-Baumbach",
+"steckbrief": "Stadt mit rund 8.200 Einwohnern, 16 km nordöstlich von Koblenz.",
+"frage": "Nauort gehört zur Verbandsgemeinde Ransbach-Baumbach. Was steckt laut Ortsgeschichte hinter seinem Namen?",
+"optionen": [
+"Er bezeichnet einen Ort an einer Bachaue.",
+"Er bedeutet eine neue Rodung im Wald.",
+"Er erinnert an einen Rastplatz für Fuhrleute.",
+"Er erinnert an eine alte Gerichtsstätte."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im heutigen Namen hört man leicht eine Aue. Die Ortsgeschichte führt ihn aber auf Nuenrohde zurück, was etwa eine neue Rodung im Wald bedeutet. Aus Nuenrohde oder Nauenrohde wurde später Nauert und schließlich Nauort. Bis heute liegt das Dorf waldreich auf einem Hochplateau. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Nauort/Begrüßung-und-Kurzportrait-Nauort/",
+"faktencheck": "korrigiert",
+"id": "183-ransbach-baumbach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Ransbach-Baumbach",
+"steckbrief": "Stadt mit rund 8.200 Einwohnern, 16 km nordöstlich von Koblenz.",
+"frage": "Die Stadthalle von Ransbach-Baumbach wurde 1989 eröffnet. Welche Form hat der Bau?",
+"optionen": [
+"Der Bau ist ein Achteck.",
+"Der Bau ahmt einen großen Krug nach.",
+"Der Bau ist kreisrund wie eine Töpferscheibe.",
+"Der Bau ist ein langer, flacher Quader."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In einer Stadt, die sich Töpferstadt nennt, läge eine Halle in Krug- oder Scheibenform nahe. Gebaut wurde aber ein klassisches Oktogon, also ein Achteck. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Stadt-Ransbach-Baumbach/Kurzportrait/",
+"faktencheck": "korrigiert",
+"id": "183-ransbach-baumbach/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "182-heiligenroth",
+"anschluss": [
+"Einwohner: Ransbach-Baumbach hat über fünfmal so viele wie Heiligenroth.",
+"Fläche: Ransbach-Baumbach ist etwa doppelt so groß wie Heiligenroth."
+],
+"anschluesse": {
+"10-vallendar": [
+"Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Ransbach-Baumbach zum Westerwaldkreis.",
+"Vallendar hat rund 900 Einwohner mehr als Ransbach-Baumbach."
+],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Ransbach-Baumbach zum Westerwaldkreis.",
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Ransbach-Baumbach die CDU."
+],
+"53-koblenz": [
+"Kreisgrenze: Koblenz ist kreisfrei, Ransbach-Baumbach gehört zum Westerwaldkreis.",
+"Koblenz hat vierzehnmal so viele Einwohner wie Ransbach-Baumbach."
+],
+"181-montabaur": [
+"Montabaur hat fast doppelt so viele Einwohner wie Ransbach-Baumbach.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Montabaur die SPD, in Ransbach-Baumbach die AfD."
+],
+"182-heiligenroth": [
+"Einwohner: Ransbach-Baumbach hat über fünfmal so viele wie Heiligenroth.",
+"Fläche: Ransbach-Baumbach ist etwa doppelt so groß wie Heiligenroth."
+],
+"184-hoehr-grenzhausen": [
+"Höhr-Grenzhausen hat rund 1.200 Einwohner mehr als Ransbach-Baumbach."
+]
+},
+"ags": "07143062",
+"ortsteil": false,
+"km_vom_vorigen": 10.1
+},
+{
+"slug": "184-hoehr-grenzhausen",
+"name": "Höhr-Grenzhausen",
+"lat": 50.435,
+"lon": 7.67111,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Höhr-Grenzhausen",
+"steckbrief": "Eine Stadt mit rund 9.400 Einwohnern, 11 km nordöstlich von Koblenz.",
+"frage": "Wasserkrüge waren das Hauptprodukt der Westerwälder Töpfer. Allein die Quelle in Selters brauchte bis ins 19. Jahrhundert jährlich mehrere hunderttausend davon. Was beendete dieses Geschäft?",
+"optionen": [
+"Die Mineralquelle in Selters versiegte.",
+"Selters ließ seine Krüge fortan selbst brennen.",
+"Glasflaschen lösten die Tonkrüge ab.",
+"Holzfässer lösten die Tonkrüge ab."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine versiegte Quelle klingt nach einem schnellen, endgültigen Ende, deshalb liegt diese Theorie nahe. Die Museumsseite erzählt es anders: Glasflaschen lösten die Tonkrüge ab. Das Mineralwasser reiste damals weit, nachweislich sogar bis Batavia in Indonesien. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.hoehr-grenzhausen.de/leben-erleben/kultur-geschichte/heimatmuseum-hillscheid/",
+"faktencheck": "korrigiert",
+"id": "184-hoehr-grenzhausen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Höhr-Grenzhausen",
+"steckbrief": "Eine Stadt im Westerwaldkreis mit rund 9.400 Einwohnern, 11 km nordöstlich von Koblenz.",
+"frage": "Wie hoch über dem Meeresspiegel liegt Höhr-Grenzhausen?",
+"optionen": [
+"unter 120 m",
+"120 bis unter 180 m",
+"180 bis unter 240 m",
+"240 m und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Koblenz liegt unten am Rhein, und die Stadt ist nicht weit entfernt; da liegt eine tiefe Lage nahe. Doch Höhr-Grenzhausen liegt je nach Quelle auf 250 oder 256 Metern. Richtig war 4.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "184-hoehr-grenzhausen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Höhr-Grenzhausen",
+"steckbrief": "Höhr-Grenzhausen ist eine Stadt mit rund 9.400 Einwohnern, 11 km nordöstlich von Koblenz.",
+"frage": "Es geht um das Freibad Linderhohl. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bademeister Galle ließ nach Kriegsende das Becken zuschütten.",
+"Im Krieg lagerte die Wehrmacht dort Munition.",
+"Bei der Sanierung fand man giftige Farbe."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Sprengungen von Munition hatten das Becken stark beschädigt, da wirkt Zuschütten plausibel. Doch Bademeister Hans Galle sammelte nach dem Krieg Spenden für die Sanierung. Er bewirtschaftete das Bad jahrzehntelang mit seiner Familie. Die giftige Farbe im alten Becken enthielt PCB. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.hoehr-grenzhausen.de/leben-erleben/freizeit-sport/schwimmbad-linderhohl/geschichte/",
+"faktencheck": "bestätigt",
+"id": "184-hoehr-grenzhausen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Höhr-Grenzhausen",
+"steckbrief": "Höhr-Grenzhausen ist eine Stadt mit rund 9.400 Einwohnern, 11 km nordöstlich von Koblenz.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in der Verbandsgemeinde Höhr-Grenzhausen zweitstärkste Kraft nach Zweitstimmen?",
+"optionen": [
+"SPD",
+"AfD",
+"CDU",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die SPD liegt nahe, denn sie war lange die zweite große Volkspartei. Doch in der Verbandsgemeinde kam die AfD auf 18,4 Prozent, knapp vor der SPD mit 17,1 Prozent. Vorn lag die CDU. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "184-hoehr-grenzhausen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Höhr-Grenzhausen",
+"steckbrief": "Eine Stadt mit rund 9.400 Einwohnern, 11 km nordöstlich von Koblenz.",
+"frage": "Das Stadtmuseum begann 1997 in einem Fachwerkhaus und zog dann in eine alte Fabrik. Welchen Grund nennt die Vereinsgeschichte?",
+"optionen": [
+"Der Eigentümer kündigte dem Verein die Räume.",
+"Ein Brand machte das Fachwerkhaus unbenutzbar.",
+"Ein Wasserschaden traf das Fachwerkhaus.",
+"Die Stadt brauchte das Haus selbst."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem alten Fachwerkhaus denkt man schnell an Feuer, denn Holz brennt. Die Vereinsgeschichte nennt aber einen Wasserschaden. Das Museum zog ins benachbarte Fabrikgebäude der ehemaligen Firma Merkelbach. Gegründet hatte es die Gesellschaft für Stadtgeschichte und Kultur, die Wissen über die Vergangenheit wachhalten will. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.hoehr-grenzhausen.de/neuigkeiten/2021/juli/25-jahre-gesellschaft-fuer-stadtgeschichte-und-kultur-e-v-hoehr-grenzhausen/",
+"faktencheck": "bestätigt",
+"id": "184-hoehr-grenzhausen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Höhr-Grenzhausen",
+"steckbrief": "Höhr-Grenzhausen ist eine Stadt mit rund 9.400 Einwohnern, 11 km nordöstlich von Koblenz.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Höhr-Grenzhausen?",
+"optionen": [
+"KO",
+"NR",
+"EMS",
+"WW"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. KO liegt nahe, weil Koblenz die nächste Großstadt ist. Doch Höhr-Grenzhausen gehört zum Westerwaldkreis, und dessen Hauptkennzeichen ist WW. Richtig war 4.",
+"quelle": "Wikidata P395; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "184-hoehr-grenzhausen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Höhr-Grenzhausen",
+"steckbrief": "Höhr-Grenzhausen ist eine Stadt mit rund 9.400 Einwohnern, 11 km nordöstlich von Koblenz.",
+"frage": "1928 eröffnete das Freibad Linderhohl. Was hält die Badgeschichte über den Bademeister jenes Jahres fest?",
+"optionen": [
+"Er konnte selbst nicht schwimmen.",
+"Er war zugleich Dorfpolizist.",
+"Er war noch ein Schuljunge.",
+"Er hatte das Becken selbst ausgehoben."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Bademeister, der nicht schwimmen kann, klingt wie ein Witz, darum sucht man die Besonderheit lieber anderswo, etwa in einem Nebenamt. Doch die Badgeschichte hält genau das fest: Er war Nichtschwimmer. Das Bad war damals ein Strandbad mit Sand; später wurde es zum Schwimmteich umgebaut. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.hoehr-grenzhausen.de/leben-erleben/freizeit-sport/schwimmbad-linderhohl/geschichte/",
+"faktencheck": "bestätigt",
+"id": "184-hoehr-grenzhausen/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "183-ransbach-baumbach",
+"anschluss": [
+"Einwohner: Höhr-Grenzhausen hat rund 1.200 mehr als Ransbach-Baumbach."
+],
+"anschluesse": {
+"09-braubach": [
+"Kreisgrenze: Braubach gehört zum Rhein-Lahn-Kreis, Höhr-Grenzhausen zum Westerwaldkreis.",
+"Höhr-Grenzhausen hat gut dreimal so viele Einwohner wie Braubach."
+],
+"29-lahnstein": [
+"Kreisgrenze: Lahnstein gehört zum Rhein-Lahn-Kreis, Höhr-Grenzhausen zum Westerwaldkreis.",
+"Lahnstein hat doppelt so viele Einwohner wie Höhr-Grenzhausen."
+],
+"10-vallendar": [
+"Kreisgrenze: Vallendar gehört zum Landkreis Mayen-Koblenz, Höhr-Grenzhausen zum Westerwaldkreis.",
+"Vallendar und Höhr-Grenzhausen sind fast gleich groß: rund 9.000 und 9.400 Einwohner."
+],
+"47-andernach": [
+"Kreisgrenze: Andernach gehört zum Landkreis Mayen-Koblenz, Höhr-Grenzhausen zum Westerwaldkreis.",
+"Andernach hat gut dreimal so viele Einwohner wie Höhr-Grenzhausen."
+],
+"140-weissenthurm": [
+"Kreisgrenze: Weißenthurm gehört zum Landkreis Mayen-Koblenz, Höhr-Grenzhausen zum Westerwaldkreis.",
+"Bundestagswahl 2025: In Weißenthurm lag die AfD vorn, in Höhr-Grenzhausen die CDU."
+],
+"53-koblenz": [
+"Kreisgrenze: Koblenz ist kreisfrei, Höhr-Grenzhausen gehört zum Westerwaldkreis.",
+"Koblenz hat zwölfmal so viele Einwohner wie Höhr-Grenzhausen."
+],
+"59-rhens": [
+"Kreisgrenze: Rhens gehört zum Landkreis Mayen-Koblenz, Höhr-Grenzhausen zum Westerwaldkreis.",
+"Höhr-Grenzhausen hat gut dreimal so viele Einwohner wie Rhens."
+],
+"141-spay": [
+"Kreisgrenze: Spay gehört zum Landkreis Mayen-Koblenz, Höhr-Grenzhausen zum Westerwaldkreis.",
+"Höhr-Grenzhausen hat fünfmal so viele Einwohner wie Spay."
+],
+"181-montabaur": [
+"Montabaur hat gut anderthalbmal so viele Einwohner wie Höhr-Grenzhausen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Montabaur die SPD, in Höhr-Grenzhausen die AfD."
+],
+"182-heiligenroth": [
+"Höhr-Grenzhausen hat gut sechsmal so viele Einwohner wie Heiligenroth.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Heiligenroth die SPD, in Höhr-Grenzhausen die AfD."
+],
+"183-ransbach-baumbach": [
+"Einwohner: Höhr-Grenzhausen hat rund 1.200 mehr als Ransbach-Baumbach."
+]
+},
+"ags": "07143032",
+"ortsteil": false,
+"km_vom_vorigen": 5.2
 }
 ]
 }

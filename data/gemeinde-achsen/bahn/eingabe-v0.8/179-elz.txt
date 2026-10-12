@@ -1,0 +1,729 @@
+ZIELORT: Elz (Gemeinde)
+LAGE: 33 km östlich von Koblenz (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Elz (Westerwald)
+
+GRUNDDATEN:
+  landkreis: Limburg-Weilburg  [dewiki Infobox]
+  bundesland: Hessen  [dewiki Infobox]
+  einwohner: 8101  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 16,86  [Wikidata P2046]
+  dichte_ew_km2: 480  [berechnet aus Einwohner und Fläche]
+  kfz: WEL (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 130 | 119 | 159 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2930628)]
+  naechste_grossstadt: Koblenz, 33 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Wiesbaden, 40 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Haltepunkt Elz (Kr Limburg/Lahn), Haltepunkt Elz (Kr Limburg/Lahn) Süd  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 65604  [Wikidata P281]
+  vorwahl: 06431  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 39,2 %, AfD 16,6 %, SPD 15,3 %, GRÜNE 10,1 %, Die Linke 5,9 %; Wahlbeteiligung 82,6 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Matthias Schmidt (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-12]
+  partnerstaedte: Waldmünchen  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Fläche der Gemarkung), C, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Limburg an der Lahn (Stadt)
+  landkreis: Limburg-Weilburg  [dewiki Infobox]
+  einwohner: 35.802  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 45,16  [Wikidata P2046]
+  kfz: WEL (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 117 | 116 | 138 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2877648)]
+  naechste_grossstadt: Koblenz, 35 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Eschhofen, Bahnhof Limburg (Lahn), Bahnhof Limburg Süd, Bahnhof Staffel  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,6 %, AfD 19 %, SPD 16,9 %, GRÜNE 10,6 %, Die Linke 7,2 %, FDP 5,1 %; Wahlbeteiligung 80,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen
+
+FAKTEN (Zielort Elz):
+ID: 179-elz/001
+ENTITÄT: ort
+BEZEICHNUNG: Elz
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/das-wappen-der-gemeinde-elz/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wappenmotiv: Kelch mit heilwirkender Schlange
+  wappenfarben: Rot und Silber (Kurtrier), Blau und Gold (Nassau)
+  wappen_symbolik_motiv: Attribute des Apostels Johannes
+  zugehörigkeit_kurtrier: 1322-1802
+  zugehörigkeit_nassau: 1803-1866
+GUELTIG_AB: 1322
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 179-elz/002
+ENTITÄT: ort
+BEZEICHNUNG: Elz
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung_jahr: 933
+  erste_erwähnung_form: elisser mark
+  erste_erhaltene_urkunde_jahr: 1145
+  erste_erhaltene_urkunde_person: Cunrado de Elise (Konrad von Elz)
+  namensentwicklung_mittelalter: Else
+  namensentwicklung_19_jhd_früh: Els
+  namensentwicklung_19_jhd_spät: Elz
+  namensentwicklung_quelle: Hessische Chronica des Wilhelm Dilich von 1605
+GUELTIG_AB: 933
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 179-elz/003
+ENTITÄT: ort
+BEZEICHNUNG: Elz
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/der-ortsname-elz/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: Benannt nach Erlen (elsen) und Haseln am Erbach und Elbbach, später Erlenbach und Elbbach
+  etymologie_beschreibung: Von elsen (Erlen) und breiten Eichen umsäuselt
+  lesefehler_geschichte: Jahrhundertelang als disser marc (Diezer Mark) fehlgedeutet, 1956 korrigiert
+GUELTIG_AB: 933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 179-elz/004
+ENTITÄT: ort
+BEZEICHNUNG: Elz
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Am Fuß des Westerwaldes
+  geologische_geschichte_devon: Meeresarm-Überfluung
+  geologische_geschichte_devon_zeitraum: ca. 416-359 Millionen Jahre vor heute
+  geologische_geschichte_oberkarbon: Meeresabfluss und Kalksteinbildung
+  geologische_geschichte_oberkarbon_zeitraum: ca. 359-299 Millionen Jahre vor heute
+  erste_menschliche_besiedlung_zeitraum: ca. 10.000 Jahren (Sammler und Jäger)
+  hügelgräber_neolithikum_anzahl: über 150
+  hügelgräber_größtes_durchmesser: 32 m
+GUELTIG_AB: 1322
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 179-elz/005
+ENTITÄT: ort
+BEZEICHNUNG: Elz
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadtrechtsverleihung_jahr: 1442
+  stadtrechtsverleihung_kaiser: Friedrich III.
+  stadtrechtsverleihung_landesherr: Erzbischof Jakob von Sierck (Kurtrier)
+  stadtrechtsgrundlage: Frankfurter Stadtrecht
+  befestigungszerstörung_jahr: 1456
+  befestigungszerstörung_ursache: Überfall durch nassauische Grafen
+GUELTIG_AB: 1442
+GUELTIG_BIS: 1456
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 179-elz/006
+ENTITÄT: ort
+BEZEICHNUNG: Elz
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  reformation_konfession: katholisch (als Gemeinde des Kurfürstentums Trier)
+  hexereiverbrennungen_anzahl_erste_welle: 3 Frauen
+  hexereiverbrennungen_anzahl_zweite_welle: 5 Personen
+  hexereiverbrennungen_zeitraum: 1589-1590
+  hexereiverbrennungen_ursache: angebliche Hexerei nach Unwetter
+  hexereiverbrennungen_ort: Limburg
+GUELTIG_AB: 1589
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 179-elz/007
+ENTITÄT: ort
+BEZEICHNUNG: Elz
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zweiherschaften_jahr: 1436
+  zweiherschaften_grund: Pfandschaft für Schuldenbegleichung (Hussitenkrieg)
+  zweiherschaften_betrag: 22.000 rheinische Gulden
+  zweiherschaften_grundherr: Kurtrier
+  zweiherschaften_pfandherr: Hessen
+  zweiherschaften_dauer_bis: 1624
+GUELTIG_AB: 1436
+GUELTIG_BIS: 1624
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 179-elz/008
+ENTITÄT: ort
+BEZEICHNUNG: Elz
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verluste_30jähriger_krieg: sieben Familien überlebten
+  fluchtorte_30jähriger_krieg: Offheim, Hadamar, Wald
+  friedensvertrag_unterzeichner: Johann-Ludwig von Nassau-Hadamar
+  friedensvertrag_name: Westfälischer Friedensvertrag
+  friedensvertrag_ort: Münster
+  friedensvertrag_jahr: 1648
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 179-elz/009
+ENTITÄT: ort
+BEZEICHNUNG: Elz
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirchenschiff_einsturz_jahr: 1846
+  großbrand_oberdorf_jahr: 1850
+  pfarrkirche_neubau_beschluss_jahr: 1850
+  industrialisierung_erreicher_zeitpunkt: spätes 19. Jahrhundert
+GUELTIG_AB: 1846
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 179-elz/010
+ENTITÄT: ort
+BEZEICHNUNG: Elz
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_wohnungen_nach_1900_ort: Offheimer Weg
+  erste_wohnungen_nachbarn: Brötzenmühle, Kammfabrik
+  siedlung_erste_häuser_jahr: 1938
+  weltkrieg_1_teilnehmer: 500
+  weltkrieg_1_gefallene: 109
+  weltkrieg_1_vermisste: 5
+  weltkrieg_1_enddatum: 1918
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 179-elz/011
+ENTITÄT: ort
+BEZEICHNUNG: Elz
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  weltkrieg_2_besetzung_datum: 26. März 1945
+  weltkrieg_2_besetzung_kraft: amerikanische Panzereinheiten
+  gewerbegebiet_erster_betrieb_jahr: 1971
+  währungsreform_jahr: 1948
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 179-elz/012
+ENTITÄT: ort
+BEZEICHNUNG: Elz
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/zahlen-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fläche_gesamt: 1686 ha
+  fläche_ortsteil_elz: 1465 ha
+  fläche_ortsteil_malmeneich: 221 ha
+  waldfläche_elz: 567 ha
+  waldfläche_malmeneich: 142 ha
+  lage: Am Fuße des Westerwaldes
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 179-elz/013
+ENTITÄT: ort
+BEZEICHNUNG: Elz
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/zahlen-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 8147
+  einwohnerzahl_hauptwohnung: 7993
+  einwohnerzahl_nebenwohnung: 154
+  einwohner_weiblich: 4124
+  einwohner_männlich: 4023
+  einwohner_deutsche_staatsangehörigkeit: 6805
+  einwohner_ausländisch: 1200
+  einwohner_ausländisch_prozent: 14.73
+  nationen_anzahl: 65
+  religion_überwiegend: katholisch
+GUELTIG_AB: 2021
+GUELTIG_BIS: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 179-elz/014
+ENTITÄT: ort
+BEZEICHNUNG: Elz
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/zahlen-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  höhenlage_niedrigster_punkt: 110 m über NN
+  höhenlage_niedrigster_punkt_ort: unterer Elbbach
+  höhenlage_höchster_punkt: 291.3 m über NN
+  höhenlage_höchster_punkt_ort: Elzer Berg Autobahn A3 km 100
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 179-elz/015
+ENTITÄT: ort
+BEZEICHNUNG: Elz
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/zahlen-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahresniederschlag_mm: 650-660
+  durchschnittstemperatur_celsius: 10.3
+  frühlingsanfang_durchschnitt: 23.04-29.04
+  hochbehälter_anzahl: 3
+  brunnen_anzahl: 4
+  wasserhärte_dh: 21
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 179-elz/016
+ENTITÄT: ortsteil
+BEZEICHNUNG: Malmeneich
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsteil-malmeneich/ortsgeschichte-malmeneich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: an der Hohen Straße von Frankfurt am Main nach Köln
+  lage_geografisch: südlicher Rand des Westerwaldes
+  höhenlage_niedrigster_punkt: 140 m über NN
+  höhenlage_höchster_punkt: 290 m über NN
+  höhenlage_ort: 250 m über NN
+  nächster_ort_norden: Hundsangen
+  nächster_ort_westen: Obererbach
+  verkehrsanbindung: Bundesstraße 8 (Hohe Straße)
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 179-elz/017
+ENTITÄT: ortsteil
+BEZEICHNUNG: Malmeneich
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsteil-malmeneich/ortsgeschichte-malmeneich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensvariante_1312_1: Madelbodeneich
+  namensvariante_1304: Malbodineych
+  namensvariante_1312_2: Malbodeneysch
+  namensvariante_mittelalter: Malmen-Eysch
+  namensvariante_1560: Wolmenach
+  dialektalter_name: Wolmenach
+  namensherkunft_vermutung: Herrschaftsbereich Mallobaudes, fränkischer Fürst 4. Jahrhundert
+GUELTIG_AB: 1304
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 179-elz/018
+ENTITÄT: ortsteil
+BEZEICHNUNG: Malmeneich
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsteil-malmeneich/ortsgeschichte-malmeneich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erwähnung_urkunde_jahr: 1382
+  erwähnung_urkunde_person: Ludwig Herr zu Waldmannshausen
+  herrenschaft_von: Graf zu Katzeneinbogen
+  zollhaus_vorhanden: ja
+  zolleinnahmen_graf_von_diez: 2/3
+  zolleinnahmen_jahr: 1305
+  zolleinnahmen_waltboten_waldmannshausen: 1/3
+GUELTIG_AB: 1305
+GUELTIG_BIS: 1564
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 179-elz/019
+ENTITÄT: ortsteil
+BEZEICHNUNG: Malmeneich
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsteil-malmeneich/ortsgeschichte-malmeneich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  teilung_jahr: 1564
+  teilung_vertrag: Diezer Vertrag
+  teilung_westliche_hälfte: Kurtrier (mit Kapelle und Friedhof)
+  teilung_östliche_hälfte: Nassau-Hadamar
+  territoriale_abfolge_1815: Herzogtum Nassau
+  territoriale_abfolge_1866: Preußen
+  territoriale_abfolge_1945: Hessen
+GUELTIG_AB: 1564
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 179-elz/020
+ENTITÄT: ortsteil
+BEZEICHNUNG: Malmeneich
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsteil-malmeneich/ortsgeschichte-malmeneich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grenzstation_weltkrieg_1_jahr: 1918
+  grenzstation_weltkrieg_1_beschreibung: zwischen besetztem und unbesetztem Deutschland
+  grenzstation_weltkrieg_2_jahr: 1945
+  grenzstation_weltkrieg_2_beschreibung: zwischen amerikanischer und französischer Besatzungszone
+GUELTIG_AB: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 179-elz/021
+ENTITÄT: ortsteil
+BEZEICHNUNG: Malmeneich
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsteil-malmeneich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingliederung_jahr: 1971
+  eingliederung_datum: 31.12.1971
+  eingliederung_grund: Verwaltungsreform auf Gemeinde-Ebene
+  eingliederung_empfehlung: Schreiben Landrat Heinz Wolf 29.03.1971
+  eingliederung_bürgerversammlung: 07.08.1971
+  eingliederung_grenzänderungsvertrag: 25.10.1971
+  eingliederung_erste_gemeinsame_sitzung: 06.01.1972
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 179-elz/022
+ENTITÄT: ortsteil
+BEZEICHNUNG: Malmeneich
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/zahlen-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 370
+  einwohnerzahl_hauptwohnung: 327
+  einwohnerzahl_nebenwohnung: 8
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 179-elz/023
+ENTITÄT: chronik
+BEZEICHNUNG: Malmeneicher Chronik
+ORTSTEIL_BEZUG: Malmeneich
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsteil-malmeneich/malmeneicher-chronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  autoren: Karl-Heinz Rörig, Werner Geberzahn
+  publikationsjahr: 2015
+  unterstützer: Maria Schmitz, Erhard Weimer, Josef Weimer, Karl Ohlemacher, Helmuth Gensicke, Robert Höhl, Detlef Schneider, Peter Paul Schweizer, Otto Purtauf, Martina Hartmann-Menz
+  vollständiger_titel: Malmeneich – Chronologie, Geschichte und Geschichten eines Dorfes und seiner Umgebung
+  zeitspanne: Erdgeschichte bis heutige Zeit
+  finanzierung_kultur_freizeitverein: 2500 Euro
+  exemplare_kultur_freizeitverein: 60 von 200
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 179-elz/024
+ENTITÄT: buch
+BEZEICHNUNG: Elzer Chronik
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/das-besondere-buchgeschenk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  autor: Erhard Weimer (verstorbener Ehrenbürger)
+  publikationsjahr: 1981
+  inhalt: Geschichten rund um das Dorf Elz und Menschen die dort gelebt und gewirkt haben
+  preis: 17.50 Euro
+  erwerbungsort: Rathaus Zimmer 5
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 179-elz/025
+ENTITÄT: buch
+BEZEICHNUNG: Elzer Atlas
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/das-besondere-buchgeschenk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  autor: Erhard Weimer
+  publikationsjahr: 2006
+  inhalt: heimatlicher Raum, Elzer Geschichte an Ort und Stelle, Dorf mit seinen Häusern, Plätzen, Wegen, Gassen und Straßen
+  preis: 19.50 Euro
+  erwerbungsort: Rathaus Zimmer 5
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 179-elz/026
+ENTITÄT: person
+BEZEICHNUNG: Justus Studaeus Elsanus (Jost Staudt)
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Elz
+  studium: Jura
+  beruf: Professor der Rechte
+  universität: Marburger Universität
+  position_universität: Rektor (zeitweise)
+  position_hofgericht: Beisitzer beim hessischen Landgrafen
+  position_kirche: Kanzler des Fürstabts Philipp Schenck zu Schweinsberg in Fulda
+  position_kirche_jahr: 1546
+  bürgerrecht_frankfurt_jahr: 1563
+  mitgliedschaft_alten_limpurg: Patriziergesellschaft
+GUELTIG_AB: 1546
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 179-elz/027
+ENTITÄT: person
+BEZEICHNUNG: Johannes Opilio
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Elz
+  religionszugehörigkeit: lutherisch
+  beruf: Prediger
+  predigstation: Usingen im Taunus
+  erste_lutherische_prediger: ja (von Usingen)
+  tätigkeitsaufnahme_jahr: 1529
+GUELTIG_AB: 1529
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 179-elz/028
+ENTITÄT: person
+BEZEICHNUNG: Heinrich Arnoldi
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Elz
+  geburtsjahr: 1759
+  schulausbildung: Hadamarer Jesuitengymnasium
+  universität: Universität Göttingen
+  studium_frankreich: ja
+  studium_frankreich_inhalt: französische Sprache und Sitte
+  position: Hofkaplan des Trierer Kurfürsten Clemens Wenceslaus (letzter)
+  publikation: Tagebuch vom Emser Congreß
+  publikation_jahr: 1786
+GUELTIG_AB: 1759
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 179-elz/029
+ENTITÄT: person
+BEZEICHNUNG: Erhard Weimer
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/das-besondere-buchgeschenk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel_ehrenbürger: ja
+  status: verstorben
+  publikationen: Elzer Chronik, Elzer Atlas
+  publikationsjahr_chronik: 1981
+  publikationsjahr_atlas: 2006
+  profession: Heimatforscher
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 179-elz/030
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Nikolaus Kapelle
+ORTSTEIL_BEZUG: Malmeneich
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsteil-malmeneich/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung_zeitraum: wahrscheinlich ottonische Zeit
+  erbauung_vermutung_belegt: 1953 Freilegung Mauerwerk Fischgrätenmuster
+  architektur_fischgrätenmuster: römischer Ursprung
+  architektur_gültig_in_deutschland_bis: 13. Jahrhundert
+  schutzpatron: Heiliger St. Nikolaus
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 179-elz/031
+ENTITÄT: bodendenkmal
+BEZEICHNUNG: Pfaffenkopf
+ORTSTEIL_BEZUG: Malmeneich
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsteil-malmeneich/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Niederungsburg (Turmhügelburg, Motte)
+  lage: Fußweg entlang des Hasslerbachs
+  erreichbarkeit_zeit: ca. 20 Minuten von Malmeneich
+  zeitliche_einordnung: 900-1000 n. Chr. bis ins 13. Jahrhundert
+  nutzung: Wohnsitz des niederen Landadels
+GUELTIG_AB: 900
+GUELTIG_BIS: 1300
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 179-elz/032
+ENTITÄT: bodendenkmal
+BEZEICHNUNG: Landwehranlage
+ORTSTEIL_BEZUG: Malmeneich
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsteil-malmeneich/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Landwehr bzw. Grenzwallanlage
+  lage: Rand der Malmeneicher Gemarkung
+  zeitliche_einordnung_frühest: fränkische Zeit
+  zeitliche_einordnung_wahrscheinlicher: 30-jähriger Krieg, Teilung durch Diezer Vertrag 1564, oder Schutz der Hohen Straße
+  genauigkeit: vermutlich
+GUELTIG_AB: 900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 179-elz/033
+ENTITÄT: wappen
+BEZEICHNUNG: Ortswappen Malmeneich
+ORTSTEIL_BEZUG: Malmeneich
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsteil-malmeneich/das-ortswappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  element_löwe: hoheitliche Macht des Königs in Bezug zur Hohen Straße
+  element_eichenblatt: steht für den Ort Malmeneich
+  element_eichenblatt_historisch: unter Eiche wurde Gericht gehalten
+  element_bischofsstab: Sinnbild für die Kapelle
+  element_bischofsstab_patron: Schutzpatron St. Nikolaus
+  farbe_blau: Zugehörigkeit zur Gemeinde Elz
+  farbe_gelb: Zugehörigkeit zur Gemeinde Elz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 179-elz/034
+ENTITÄT: verein
+BEZEICHNUNG: Kultur- und Freizeitverein Malmeneich
+ORTSTEIL_BEZUG: Malmeneich
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsteil-malmeneich/malmeneicher-chronik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsitzender: Meik Wagner
+  funktion: Veranstalter und Organisator von Festen
+  veranstaltungen: Malmeneicher Kirmes
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 179-elz/035
+ENTITÄT: verein
+BEZEICHNUNG: Freiwillige Feuerwehr Malmeneich
+ORTSTEIL_BEZUG: Malmeneich
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsteil-malmeneich/ortsgeschichte-malmeneich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: einziger Verein neben dem Kultur- und Freizeitverein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 179-elz/036
+ENTITÄT: verein
+BEZEICHNUNG: Elzer Geschichts- und Museumsverein
+QUELLE: https://www.elz.de/freizeit/zu-gast-in-elz/historischer-rundgang/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Angebote Sonderführungen zu Themen
+  themen: Historischer Rundgang, Barocke Altäre der Hadamarer Schule, Keltisches Grabfeld im Elzer Wald, Ausstellungen im Haus Loer
+  buchungen: nach Terminvereinbarung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 179-elz/037
+ENTITÄT: bauwerk
+BEZEICHNUNG: Historisches Rathaus
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Schultheißenfamilie Staudt
+  zeitraum: Hussitenkrieg bis 1624
+GUELTIG_AB: 1436
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 179-elz/038
+ENTITÄT: bauwerk
+BEZEICHNUNG: Pfarrkirche
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgängerbau_schiff_einsturz_jahr: 1846
+  neubau_beschluss_jahr: 1850
+GUELTIG_AB: 1850
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 179-elz/039
+ENTITÄT: sage
+BEZEICHNUNG: Mordschau
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kontext: 30-jähriger Krieg
+  beschreibung: erzählt von Flucht der Elzer nach Offheim, Hadamar oder in den Wald
+GUELTIG_AB: 1618
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 179-elz/040
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Großbrand Oberdorf
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1850
+  beschreibung: Ausbreitung bei starkem Wind auf Lehrgasse
+GUELTIG_AB: 1850
+GUELTIG_BIS: 1850
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 179-elz/041
+ENTITÄT: hohenzug
+BEZEICHNUNG: Bachelberg
+ORTSTEIL_BEZUG: Malmeneich
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsteil-malmeneich/ortsgeschichte-malmeneich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  dialektname: Bachelberg
+  beschreibung: kleiner Hügel südlich von Malmeneich
+  nutzung_freizeit: Kinder fahren im Winter Schlitten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 179-elz/042
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Keltisches Grabfeld
+QUELLE: https://www.elz.de/freizeit/zu-gast-in-elz/historischer-rundgang/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Elzer Wald
+  zugehörig: Elz Neolithikum
+  funktion: Bestattungsplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 179-elz/043
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schönauer Hof
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stiftung_jahr: 1145
+  stifter: Cunrado de Elise (Konrad von Elz)
+  empfänger: Benedektiner Kloster Schönau im Taunus
+  größe: größter mittelalterlicher Bauernhof
+  lage: Elzer Hirtenplatz
+  beschreibung: erster bekannter mittelalterlicher Bauernhof
+GUELTIG_AB: 1145
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 179-elz/044
+ENTITÄT: bauwerk
+BEZEICHNUNG: Diersteiner Hof
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: neben Schönauer Hof
+  nachreformatorischer_name: Oraniensteiner Hof
+GUELTIG_AB: 1145
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 179-elz/045
+ENTITÄT: bauwerk
+BEZEICHNUNG: Marienstätter Hof
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besitzer: Zisterzienser
+GUELTIG_AB: 1145
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 179-elz/046
+ENTITÄT: bauwerk
+BEZEICHNUNG: Eberbacher Höfchen
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besitzer: Zisterzienser
+GUELTIG_AB: 1145
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 179-elz/047
+ENTITÄT: bauwerk
+BEZEICHNUNG: Deutsches Haus
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Pfortenstraße
+  besitzer: Deutscher Orden
+  zeitraum: früher (mittelalter)
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 179-elz/048
+ENTITÄT: beruf_tradition
+BEZEICHNUNG: Elzer Musikanten
+QUELLE: https://www.elz.de/leben-in-elz/ortsportrait/ortsgeschichte/die-geschichtliche-entwicklung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: Nassauer Zeit
+  beschreibung: Wandermusikanten
+  reiseziele: Holland, Belgien, England, Russland
+  rückkehr_zeit: Herbst vor der Kirmes
+  grund: Pauperismus und Armut
+GUELTIG_AB: 1803
+GUELTIG_BIS: 1866
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+

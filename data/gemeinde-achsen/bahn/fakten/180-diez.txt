@@ -1,0 +1,571 @@
+ID: 180-diez/001
+ENTITÄT: ort
+BEZEICHNUNG: Diez
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  erstmalige_urkundliche_erwaehnung: 790
+  erstmalige_erwaehnung_name: Theodissa
+  erstmalige_erwaehnung_automat: Kaiser Karl der Große
+  lage: Westrande des Limburger Beckens an der mittleren Lahn
+  stadt_rechte_verliehen: 1329
+  stadt_rechte_verliehen_durch: Kaiser Ludwig der Bayern
+  stadt_rechte_verliehen_von: Graf Gottfried von Diez
+  stadtmauer_errichtet: 1329
+  stadttore_anzahl: 5
+  kreisstadt_seit: 1867
+  kreis: Kreis Unterlahn
+  regierungsbezirk: Wiesbaden
+  provinz: Hessen-Nassau
+  einwohnerzahl_ca: 5200
+  einwohnerzahl_ca_jahr: 1934
+  besatzung_1945_durch: USA
+  besatzungszone_ab_1945: französische Zone
+  besatzungsabzug: 1950er Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 180-diez/002
+ENTITÄT: burg
+BEZEICHNUNG: Grafenschloss
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  bauzeit: 1050
+  bauzeit_genauigkeit: ca.
+  bauzeit_periode: Mitte des 11. Jahrhunderts
+  erbauer: letzte Gaugrafen des Niederlahngaues
+  standort: steiler Porphyrfelsen über der Lahn
+  funktion_ursprung: Sicherung eines wichtigen Lahnueberganges
+  benannt_nach: Grafen von Diez
+GUELTIG_AB: 1050
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 180-diez/003
+ENTITÄT: schloss
+BEZEICHNUNG: Oranienstein
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  erbaut_an_stelle_von: Kloster Dierstein
+  erbauerin: Fürstin Albertine Agnes
+  bauzeit_beginn: 1672
+  bauzeit_beginn_genauigkeit: nach
+  umgestaltet_ab: 1709
+  umgestaltet_durch: Fürstin Amalie von Nassau-Diez
+  architekt: Daniel Marot
+  bewohner_ab_1709: Amalie und fünf ihrer Töchter
+  nutzung_1867: Königlich Preußische Kadettenanstalt
+  nutzung_kadettenanstalt_bis: 1918
+  besatzung_ab: Dezember 1918
+  besatzung_durch: französische Truppen
+  besatzung_abzug: 1927
+  nutzung_ab_1928: Reformrealgymnasium und Heimatmuseum
+  nutzung_ab_maerz_1934: Nationalpolitische Erziehungsanstalt (Napola)
+GUELTIG_AB: 1672
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 180-diez/004
+ENTITÄT: bruecke
+BEZEICHNUNG: Lahnbruecke
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  material_ursprung: Stein
+  material_ursprung_bauzeit: ca. 100 Jahre vor 1634
+  zerstoert_jahr: 1634
+  zerstoert_durch: Schweden
+  wiederhergestellt_material_1: Holz (Behelfsbruecke)
+  wiederhergestellt_material_2: Stein
+  material_mitte_19_jahrhundert: Eisenkonstruktion
+  zerstoert_erneut: kurz vor 1945
+  wiederaufbau_material: Eisenbeton
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 180-diez/005
+ENTITÄT: stift
+BEZEICHNUNG: Chorherfenstift
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  errichtet: 1289
+  kanonikate: 8
+  vikariate: 4
+  status_nach_reformation: aufgeloest
+  vermogen_verwendung: Besoldung Geistlicher, Errichtung und Unterhaltung von Schulen
+GUELTIG_AB: 1289
+GUELTIG_BIS: Reformation
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 180-diez/006
+ENTITÄT: kirche
+BEZEICHNUNG: Stiftskirche
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  erbaut: 1289
+  funktion: Stiftskirche des Chorherfenstifts
+GUELTIG_AB: 1289
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 180-diez/007
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche am Oberen Markt
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  lage_heute: Ernst-Scheuern-Platz
+  erbaut_unter: Fürstin Amalie von Nassau-Diez
+  bauzeit: frühes 18. Jahrhundert
+  religion_ursprung: lutherisch
+  religion_heute: katholisch
+  grund_errichtung: Gewährung von Religionsfreiheit fuer Lutheraner in reformierter Stadt
+GUELTIG_AB: frühes 18. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 180-diez/008
+ENTITÄT: schule
+BEZEICHNUNG: Lateinschule
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  gegruendet: 1567
+  art: erste höhere Bildungsanstalt in Diez
+  grund_errichtung: Reformation und Bildungsförderung
+GUELTIG_AB: 1567
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 180-diez/009
+ENTITÄT: hoehle
+BEZEICHNUNG: Wildweiberlei
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+ORTSTEIL_BEZUG: Altendiez
+EIGENSCHAFTEN:
+  zeitperiode: Jungpaläolithikum
+  zeitperiode_spanne: ca. 40000-9700 v. Chr.
+  funde: Stein- und Knochenwerkzeuge
+  status: zerstoert durch Kalksteinbruch
+GUELTIG_AB: 40000
+GUELTIG_BIS: Kalksteinbruch (Neuzeit)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 180-diez/010
+ENTITÄT: grabstaette
+BEZEICHNUNG: Jungsteinzeitliches Hockergrab
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  zeitperiode: Jungsteinzeit
+  zeitperiode_spanne: ca. 3000-2000 v. Chr.
+  entdeckt: 1950er Jahre
+  entdeckungsort_wohngebiet: Alte Gaertnerei
+  verbleib: Regionalmuseum der Stadt Diez
+GUELTIG_AB: 3000
+GUELTIG_BIS: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 180-diez/011
+ENTITÄT: mark_distrikt
+BEZEICHNUNG: Diezer Mark (Dissermark)
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  erwaehnt_urkundlich: 933
+  erwaehnt_erneut_urkundlich: 1012
+  umfang: Gebiet der heutigen Stadt Diez mit Ortsteilen Freiendiez und Altendiez
+GUELTIG_AB: 933
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 180-diez/012
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Heinrich I. von Diez
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  titel: Graf von Diez
+  erwaehnt: 1101
+  funktion: Mitglied eines vom Kaiser Heinrich IV. eingesetzten Reichsfuerstenrates
+GUELTIG_AB: 1101
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 180-diez/013
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Heinrich II. von Diez
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  lebensjahre: 1145-1189
+  titel: Graf von Diez
+  beschreibung: engster Vertrauter Kaiser Friedrich Barbarossas
+  position: Statthalter in der Lombardei
+  ereignis: Friedensunterhandlungen nach Schlacht von Legnano
+  ereignis_partner: zwischen Kaiser und Papst
+  kriegsteilnahme: Dritter Kreuzzug
+  schicksal_kreuzzug: kehrte nicht in Heimat zurueck
+GUELTIG_AB: 1145
+GUELTIG_BIS: 1189
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 180-diez/014
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Heinrich III. von Diez
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  titel: Graf von Diez
+  kriegsteilnahme: Kreuzzug
+  schicksal_kreuzzug: kehrte nach Beendigung zurueck
+GUELTIG_AB: (undatiert)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 180-diez/015
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Gottfried von Diez
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  lebensjahre: 1303-1348
+  titel: Graf von Diez
+  errungenschaft: Verleihung der Stadtrechte fuer Diez
+  stadt_rechte_jahr: 1329
+  stadt_rechte_verliehen_durch: Kaiser Ludwig der Bayern
+  stadtmauer_errichtung: 1329
+  stadttore: 5
+  woechentliche_maerkte_errichtung: 1329
+  stadtgericht_errichtung: 1329
+GUELTIG_AB: 1303
+GUELTIG_BIS: 1348
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 180-diez/016
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Gerhard VI. von Diez
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  titel: Graf von Diez
+  vater: Gottfried von Diez
+  tod_jahr: 1343
+  tod_grund: Verletzungen aus Gefecht mit Limburger Bürgern
+  tod_ort: rote Erde (in der Nähe des heutigen Kalkwerk Wohngebietes zwischen Diez und Limburg)
+  besonderheit: starb noch vor seinem Vater
+GUELTIG_AB: (undatiert)
+GUELTIG_BIS: 1343
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 180-diez/017
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Johann von Diez
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  titel: Graf von Diez
+  tod_jahr: 1367
+  tod_grund: erstochen bei Streit auf Burg Dehrn
+GUELTIG_AB: (undatiert)
+GUELTIG_BIS: 1367
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 180-diez/018
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Gerhard VII. von Diez
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  lebensjahre: 1347-1386
+  titel: Graf von Diez
+  ehe: mit Gertrud von Westerburg
+  nachkommenschaft: keine männlichen Nachkommen
+GUELTIG_AB: 1347
+GUELTIG_BIS: 1386
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 180-diez/019
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Johann VI. von Nassau-Dillenburg
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  titel: Graf von Nassau-Dillenburg, später auch Grafschaft Diez
+  ereignis: Diezer Vertrag
+  ereignis_jahr: 1564
+  ereignis_partner: Kurtrier (Erzbischof von Trier)
+  ergebnis_vertrag: Alleinherrschaft Johanns VI. in Grafschaft Diez
+  reform: Einfuehrung Reformation in Grafschaft Diez
+GUELTIG_AB: 1564
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 180-diez/020
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Ernst Casimir
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  titel: Graf
+  erhielt_nach_landesteilung: Grafschaft Diez
+  effekt_regierung: positive Auswirkung auf Land und Stadt Diez
+GUELTIG_AB: (nach Johanns VI. Tod)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 180-diez/021
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Fuerstin Albertine Agnes
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  herkunft: Enkelin Wilhelms I. von Oranien
+  position: Regentin der Region Diez
+  grund_position: verwaltete waehrend Abwesenheit ihres Mannes dessen Gebiete in Deutschland
+  bauwerk: Schloss Oranienstein
+  bauwerk_errichtet: nach 1672
+  bauwerk_grund: Ersatz des zerstoerten Klosters Dierstein
+  reform_apotheke: Errichtung einer Apotheke in Diez
+  reform_gesundheit: Anordnung, dass ihr Leibarzt auch den Landeskindern zur Verfuegung stehen sollte
+  tod_jahr: 1696
+  tod_ort: Niederlande
+GUELTIG_AB: nach 1672
+GUELTIG_BIS: 1696
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 180-diez/022
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Fuerstin Amalie von Nassau-Diez
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  position: Schwiegertochter Albertine Agnes
+  funktion: Fortsetzung und Vollendung des Stadterweiterungswerkes
+  stadterweiterung: Diezer Neustadt
+  stadterweiterung_zeit: frühes 18. Jahrhundert
+  stadterweiterung_lage: zwischen Rosen- und Schaumburger Straße
+  stadterweiterung_merkmale: breite Straßen, große Plätze, kanalatig ausgebautes Aarbett
+  aarbett_beschreibung: mit blühenden Gärten, ähnlich holländischer Gracht
+  bruecken: drei Steinbruecken ueber Kanal
+  bruecke_mittlere_merkmale: verbindet beide Marktplaetze, Monogramm Amalies und Jahreszahl 1707 in Schlusssteinen
+  bauwerk_umgestaltung: Schloss Oranienstein
+  bauwerk_umgestaltung_pläne: Daniel Marot
+  bauwerk_umgestaltung_deko: erstklassige Stuckateure und Maler
+  bauwerk_bewohnung: 1709 bis zu ihrem Tode
+  bewohner: sie und ihre fünf Töchter
+  religion_politik: Gewährung von Religionsfreiheit fuer Lutheraner in sonst reformierter Stadt
+  kirche: Bau einer Kirche fuer Lutheraner
+  kirche_standort: Oberer Markt (heute Ernst-Scheuern-Platz)
+  kirche_form: urspruenglich lutherisch, heute katholisch
+GUELTIG_AB: frühes 18. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 180-diez/023
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Wilhelm V. von Nassau-Oranien
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  titel: Fürst
+  flucht_grund: französische Revolutionsheere
+  flucht_zwischenstation: England
+  rueckkehr_jahr: 1801
+  rueckkehr_ort: Schloss Oranienstein, Stammlande
+  massnahmen_stadt: Verzicht auf Abgaben zugunsten Landeskasse
+  massnahmen_stadt: Übernahme Großteil der Schulden der Stadt
+  massnahmen_stadt: Schenkung des bisherigen herrschaftlichen Hainwaldes
+  dauer_aufenthalt: kurz
+  effekt_aufenthalt: außerordentlich positiv fuer Stadt und Land
+GUELTIG_AB: 1801
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 180-diez/024
+ENTITÄT: personlichkeit
+BEZEICHNUNG: Wilhelm VI. von Nassau-Oranien
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  titel: Fürst
+  ereignis: Beraubung seiner Lande
+  ereignis_durch: Napoleon
+  ereignis_jahr: gleiche Jahr wie Tod seines Vaters (1801)
+  folge: Herzogtum Nassau begründet mit Grafschaft Diez
+GUELTIG_AB: 1801
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 180-diez/025
+ENTITÄT: personlichkeit
+BESCHREIBUNG: Willi Seibel
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  beruf: Malermeister, Rennfahrer
+  ereignis: Übergabe der Stadt Diez an amerikanische Truppen
+  ereignis_datum: 27. März 1945
+  ereignis_details: nach einigen Schüssen in die Altstadt
+  befolge: danach französische Besatzungszone
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 180-diez/026
+ENTITÄT: wohnviertel
+BEZEICHNUNG: Diezer Neustadt
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  erbaut_unter: Fürstin Amalie von Nassau-Diez
+  bauzeit: frühes 18. Jahrhundert
+  lage: Gebiet zwischen Rosen- und Schaumburger Straße
+  merkmale: sehr breite Straßen, große Plaetze
+  beschreibung: kanalatig ausgebautes Aarbett mit je einer Häuserzeile auf beiden Seiten, eingefasst von blühenden Gärten, ähnlich holländische Gracht
+  bruecken: drei Steinbruecken ueber Kanal
+  bruecke_mittlere_markierungen: Monogramm Amalies und Jahreszahl 1707 in Schlusssteinen
+GUELTIG_AB: frühes 18. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 180-diez/027
+ENTITÄT: kloster
+BEZEICHNUNG: Dierstein
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  standort: bei Diez
+  status_nach_reformation: aufgeloest
+  nachnutzung: Flaeche fuer Schloss Oranienstein verwendet
+GUELTIG_AB: (Mittelalter)
+GUELTIG_BIS: Reformation
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 180-diez/028
+ENTITÄT: kloster
+BEZEICHNUNG: Gnadenthal
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  standort: im Diezer Land
+  status_nach_reformation: aufgeloest
+  vermogen_verwendung: zur Besoldung Geistlicher und Schulen verwendet
+GUELTIG_AB: (Mittelalter)
+GUELTIG_BIS: Reformation
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 180-diez/029
+ENTITÄT: kloster
+BEZEICHNUNG: Beselich
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  standort: im Diezer Land
+  status_nach_reformation: aufgeloest
+  vermogen_verwendung: zur Besoldung Geistlicher und Schulen verwendet
+GUELTIG_AB: (Mittelalter)
+GUELTIG_BIS: Reformation
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 180-diez/030
+ENTITÄT: stift
+BEZEICHNUNG: Diezer Marienstift
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  status_nach_reformation: aufgeloest
+  grund_auflosung: Reformation
+GUELTIG_AB: (Mittelalter)
+GUELTIG_BIS: Reformation
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 180-diez/031
+ENTITÄT: ortschaft
+BEZEICHNUNG: Freiendiez
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+ORTSTEIL_BEZUG: Freiendiez
+EIGENSCHAFTEN:
+  status: Ortsteil von Diez
+  teil_von: Diezer Mark (um 933-1012)
+  ereignisse: nationalsozialistische Großkundgebungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 180-diez/032
+ENTITÄT: ortschaft
+BEZEICHNUNG: Altendiez
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+ORTSTEIL_BEZUG: Altendiez
+EIGENSCHAFTEN:
+  status: Ortsteil von Diez
+  teil_von: Diezer Mark (um 933-1012)
+  historische_ortsnamen: Silberfeld, Silberfeldweg (Spuren karolingischer Königshof)
+  archaeologische_fundstaette: Wildweiberlei (Höhle mit Steinartefakten)
+  bergbau: Kalksteinbruch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 180-diez/033
+ENTITÄT: militaer_einrichtung
+BEZEICHNUNG: Nationalpolitische Erziehungsanstalt (Napola)
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  untergebracht_in: Schloss Oranienstein
+  betrieb_von: März 1934
+  betrieb_bis: 1945
+  regime: Nationalsozialismus
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 180-diez/034
+ENTITÄT: motorsportschule
+BEZEICHNUNG: Motorsportschule des Nationalsozialistischen Kraftfahrkorps (NSKK)
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  ursprungsstandort: Nürburgring
+  verlegt_nach: Diez
+  verlegt_ab: März 1934
+  betrieb_bis: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 180-diez/035
+ENTITÄT: kinderheim
+BEZEICHNUNG: Israelitisches Kinderheim
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  standort: Schlossberg
+  betrieb_bis: 1935
+  grund_schließung: antisemitische Ausschreitungen
+  grund_details: Sprechchöre und Demonstrationen von Diezer Bürgern
+  evakuierung: ca. 50 Kinder und Erzieher
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 180-diez/036
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhofsgebäude
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  erbaut: 1862
+GUELTIG_AB: 1862
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 180-diez/037
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  untergebracht_in: Schloss Oranienstein
+  untergebracht_ab: 1928
+  bestaende: jungsteinzeitliches Hockergrab, lokale Funde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 180-diez/038
+ENTITÄT: museum
+BEZEICHNUNG: Regionalmuseum der Stadt Diez
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  bestaende: jungsteinzeitliches Hockergrab
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 180-diez/039
+ENTITÄT: kasernen
+BEZEICHNUNG: Diezer Kasernen
+QUELLE: https://www.regionalgeschichte.net/rhein-lahn/diez.html | Landesportal
+EIGENSCHAFTEN:
+  neue_nutzung_ab: 1950er Jahre
+  neue_nutzer: Bundeswehr
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

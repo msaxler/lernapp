@@ -1,0 +1,59 @@
+Orte: 176-idstein 177-huenfelden 178-limburg 179-elz 180-diez 181-montabaur 182-heiligenroth 183-ransbach-baumbach 184-hoehr-grenzhausen
+== Extraktion (Haiku) 23:38:42
+176-idstein          extraktion ein  30724  aus  22073   0.16 USD   204 s  claude-haiku-4-5-20251001
+177-huenfelden       extraktion ein  28240  aus  19381   0.14 USD   180 s  claude-haiku-4-5-20251001
+178-limburg          extraktion ein  40812  aus  11386   0.13 USD    81 s  claude-haiku-4-5-20251001
+179-elz              extraktion ein  28466  aus  11722   0.10 USD    91 s  claude-haiku-4-5-20251001
+180-diez             extraktion ein  26292  aus  15107   0.11 USD   112 s  claude-haiku-4-5-20251001
+181-montabaur        extraktion ein  24059  aus  10038   0.08 USD    81 s  claude-haiku-4-5-20251001
+182-heiligenroth     extraktion ein  23337  aus  10524   0.09 USD    83 s  claude-haiku-4-5-20251001
+183-ransbach-baumbach extraktion ein  29160  aus  24132   0.17 USD   183 s  claude-haiku-4-5-20251001
+184-hoehr-grenzhausen extraktion ein  30392  aus   7018   0.08 USD    58 s  claude-haiku-4-5-20251001
+zusammen: 7463 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+176-idstein        54975 Zeichen
+177-huenfelden     23815 Zeichen
+178-limburg        18342 Zeichen
+179-elz            29157 Zeichen
+180-diez           24350 Zeichen
+181-montabaur      21515 Zeichen
+182-heiligenroth   22869 Zeichen
+183-ransbach-baumbach   19321 Zeichen
+184-hoehr-grenzhausen   16912 Zeichen
+== Karten (claude-opus-5-5) 23:43:38
+176-idstein          karten     ein  59835  aus  35346   1.13 USD   302 s  claude-opus-5-5
+177-huenfelden       karten     ein  40109  aus  38791   1.04 USD   330 s  claude-opus-5-5
+178-limburg          karten     ein  37828  aus  28533   0.82 USD   252 s  claude-opus-5-5
+179-elz              karten     ein  44177  aus  31652   0.93 USD   266 s  claude-opus-5-5
+180-diez             karten     ein  40685  aus  30597   0.88 USD   263 s  claude-opus-5-5
+181-montabaur        karten     ein  38980  aus  32272   0.90 USD   274 s  claude-opus-5-5
+182-heiligenroth     karten     ein  40373  aus  35680   0.98 USD   310 s  claude-opus-5-5
+183-ransbach-baumbach karten     ein  38319  aus  41841   1.09 USD   362 s  claude-opus-5-5
+184-hoehr-grenzhausen karten     ein  36395  aus  39322   1.02 USD   344 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 23:54:25
+176-idstein          pruefung   ein  81984  aus  12164   0.85 USD   107 s  claude-opus-5-5
+177-huenfelden       pruefung   ein  60538  aus   9054   0.61 USD    82 s  claude-opus-5-5
+178-limburg          pruefung   ein  70250  aus   9080   0.69 USD    84 s  claude-opus-5-5
+179-elz              pruefung   ein  62767  aus  12484   0.70 USD   113 s  claude-opus-5-5
+180-diez             pruefung   ein  55341  aus   7917   0.55 USD    76 s  claude-opus-5-5
+181-montabaur        pruefung   ein  51559  aus  12133   0.60 USD   103 s  claude-opus-5-5
+182-heiligenroth     pruefung   ein  48712  aus  10176   0.54 USD    89 s  claude-opus-5-5
+183-ransbach-baumbach pruefung   ein  57251  aus   6585   0.54 USD    56 s  claude-opus-5-5
+184-hoehr-grenzhausen pruefung   ein  56711  aus   8207   0.56 USD    72 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 23:57:25
+176-idstein          stufe2     ein 206722  aus   6120   0.60 USD   106 s  claude-opus-5-5,claude-haiku-4-5-20251001
+177-huenfelden       stufe2     ein 260681  aus   4329   0.55 USD    83 s  claude-opus-5-5,claude-haiku-4-5-20251001
+178-limburg          stufe2     ein 305816  aus   4857   0.61 USD    98 s  claude-opus-5-5,claude-haiku-4-5-20251001
+179-elz              stufe2     ein  89155  aus   3130   0.29 USD    43 s  claude-opus-5-5,claude-haiku-4-5-20251001
+180-diez             stufe2     ein 111397  aus   1500   0.24 USD    37 s  claude-opus-5-5,claude-haiku-4-5-20251001
+181-montabaur        stufe2     ein 188776  aus   3278   0.49 USD    94 s  claude-opus-5-5,claude-haiku-4-5-20251001
+182-heiligenroth     stufe2     ein 282554  aus   6275   0.55 USD    87 s  claude-opus-5-5,claude-haiku-4-5-20251001
+183-ransbach-baumbach stufe2     ein 116246  aus   2471   0.33 USD    42 s  claude-opus-5-5,claude-haiku-4-5-20251001
+184-hoehr-grenzhausen FEHLER keine Karte an Stufe 2 – kein Lauf
+== Geprüfte Fassung und Export 23:59:36
+Urteile: {'korrigiert': 460, 'bestätigt': 904, 'gesperrt': 30, 'unsicher': 78} | im Vorrat: 1442 Karten an 164 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     164 Orte, 1442 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 1751332 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 23:59:37

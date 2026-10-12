@@ -1,0 +1,300 @@
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum Hillscheid
+ORTSTEIL_BEZUG: Hillscheid
+QUELLE: https://www.hoehr-grenzhausen.de/leben-erleben/kultur-geschichte/heimatmuseum-hillscheid/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gebaeude_typ: altes Fachwerkhaus
+  betreiber: Westerwald-Verein
+  sammlungen: Wasserkrüge, alte Keramikerzeugnisse, Werkzeugsammlung alter Berufe, Steinzeug, Tonpfeifen
+  sammlungen_detail: Schmiedewerkzeug, Schusterwerkzeug, historische Küche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: keine
+QUELLE: https://www.hoehr-grenzhausen.de/leben-erleben/kultur-geschichte/heimatmuseum-hillscheid/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historisches_handwerk: Keramikherstellung (Wasserkrüge als Hauptprodukt im 18./19. Jahrhundert)
+  exportgut_ab_17_jahrhundert: Mineralwasser über hunderte Kilometer, auch nach Batavia (Indonesien)
+  toepferprodukte_bedarf_selters: mehrere hunderttausend Tonkrüge jährlich bis 19. Jahrhundert (bis Ablösung durch Glasflasche)
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 1600
+GUELTIG_BIS: 1800
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Museum für Stadtgeschichte
+QUELLE: https://www.hoehr-grenzhausen.de/leben-erleben/kultur-geschichte/museum-fuer-stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sammlungen: Spielzeuge aus Kinderstuben, Puppenstuben, Kaufladen, Dampfmaschinen, Eisenbahnen, Schaukelpferde, Baukästen und Spiele
+  eintritt: frei
+VERTRAUEN_EXTRAKTION: 0.8
+IST_VERMUTLICH_AKTUELL: true
+
+---
+
+ENTITÄT: schwimmbad
+BEZEICHNUNG: Linderhohl
+QUELLE: https://www.hoehr-grenzhausen.de/leben-erleben/freizeit-sport/schwimmbad-linderhohl/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstes_freibad_errichtet: 1927
+  eroeffnung_licht_luftfreibad: 1928
+  bademeister_erster: Nichtschwimmer (1928)
+  bademeister_langjährig: Hans Galle (bewirtschaftete gemeinsam mit Familie über viele Jahrzehnte)
+  urspruengliche_bauweise: mit Sand versehenes Strandbad
+  nutzung_kriegsjahre: Wehrmacht-Munitionslager
+  beschaedigung_kriegsjahre: starke Beschädigungen durch Sprengungen von Munition im Beckenbereich
+  schliessung: 1994
+  gruendung_foerderverein: 1995
+  umbau_zu_schwimmteich: 2000-2001
+  besonderheit_wasseraufbereitung: biologische Wasseraufbereitung (ohne Chemie, mit Pflanzen und Granulat)
+  merkmale_2022: Sprungfelsen, Wasserkaskaden, Rutschanlage, Klettergerüst
+  sanierung_2000_2001_bis_2022: Stilllegung nach Badesaison 2017, Wiedereröffnung 23. Juli 2022
+  sanierungskosten_bundesfoerderung: 850000 [Euro]
+  besondere_befunde_sanierung: PCB-haltige giftige Farbe in ehemaligem Becken, Abschälung auf 1000 m², 120 Tonnen Bauschutt anstelle von 10 Tonnen
+  schwimmerbecken_flaeche: 840 [m²]
+  schwimmerbecken_tiefe: 1.80-2.00 [m]
+  nichtschwimmerbereich_flaeche: ca. 1450 [m²]
+  kinderbecken_flaeche: 90 [m²]
+  besonderheit_2022: 50-Meter-Bahn, separate und integrierte Nichtschwimmerbereiche, barrierefrei
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1928
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Paul Viehmann
+GUELTIG_AB: 1927
+QUELLE: https://www.hoehr-grenzhausen.de/leben-erleben/freizeit-sport/schwimmbad-linderhohl/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeinde: Grenzhausen (heute Höhr-Grenzhausen)
+  leistung: beschaffung von Zuschüssen für Freibadbau Berlin
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Hans Galle
+QUELLE: https://www.hoehr-grenzhausen.de/leben-erleben/freizeit-sport/schwimmbad-linderhohl/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Bademeister Linderhohl
+  taetigkeitsdauer: Jahrzehnte (ab ca. 1928)
+  taetigkeitsform: Bewirtschaftung gemeinsam mit Familie
+  nachkriegsengagement: Spendensammlung und Sanierung des Freibads
+  bedeutung: "engagierter Verfechter" des Bades, Tod verlor das Bad seinen engagiertesten Verfechter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Grenzau
+QUELLE: https://www.hoehr-grenzhausen.de/themen-die-uns-bewegen/hochwasservorbesorgekonzept/historie-grenzau/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  infrastruktur_projekte: Hochwasservorsorgekonzept
+  projekt_foerderung: Land Rheinland-Pfalz
+  problematik: Hagel, Sturm, Starkregen, Sturzfluten, Überschwemmungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Georg Schlemming
+GUELTIG_AB: 1920
+GUELTIG_BIS: 1936
+QUELLE: https://www.hoehr-grenzhausen.de/leben-erleben/die-gemeinden/stadt-hoehr-grenzhausen/historie-der-buergermeister/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wahl: 27.08.1920
+  einführung: 20.10.1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Paul Kitzelmann
+GUELTIG_AB: 1920
+QUELLE: https://www.hoehr-grenzhausen.de/leben-erleben/die-gemeinden/stadt-hoehr-grenzhausen/historie-der-buergermeister/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: kommisarischer Bürgermeister
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: James Legau
+GUELTIG_AB: 1936
+GUELTIG_BIS: 1944
+QUELLE: https://www.hoehr-grenzhausen.de/leben-erleben/die-gemeinden/stadt-hoehr-grenzhausen/historie-der-buergermeister/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einführung: 22.09.1936
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Vief
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1946
+QUELLE: https://www.hoehr-grenzhausen.de/leben-erleben/die-gemeinden/stadt-hoehr-grenzhausen/historie-der-buergermeister/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Mit der Wahrnehmung der Geschäfte beauftragt
+  einführung: 20.06.1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Othmar Gerhards
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1949
+QUELLE: https://www.hoehr-grenzhausen.de/leben-erleben/die-gemeinden/stadt-hoehr-grenzhausen/historie-der-buergermeister/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wahl: 22.09.1946
+  einführung: 03.10.1946
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Georg Münzner
+GUELTIG_AB: 1949
+GUELTIG_BIS: 1957
+QUELLE: https://www.hoehr-grenzhausen.de/leben-erleben/die-gemeinden/stadt-hoehr-grenzhausen/historie-der-buergermeister/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wahl: 22.03.1949
+  einführung: 16.05.1949
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Hugo Friedrichs
+GUELTIG_AB: 1957
+GUELTIG_BIS: 1971
+QUELLE: https://www.hoehr-grenzhausen.de/leben-erleben/die-gemeinden/stadt-hoehr-grenzhausen/historie-der-buergermeister/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wahl: 14.06.1957
+  einführung: 30.09.1957
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Wendelin Knesen
+GUELTIG_AB: 1971
+GUELTIG_BIS: 1991
+QUELLE: https://www.hoehr-grenzhausen.de/leben-erleben/die-gemeinden/stadt-hoehr-grenzhausen/historie-der-buergermeister/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wahl: 24.06.1971
+  einführung: 01.08.1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Jürgen Johannsen
+GUELTIG_AB: 1991
+GUELTIG_BIS: 2009
+QUELLE: https://www.hoehr-grenzhausen.de/leben-erleben/die-gemeinden/stadt-hoehr-grenzhausen/historie-der-buergermeister/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wahl: 15.03.1991
+  einführung: 01.08.1991
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Michael Thiesen
+GUELTIG_AB: 2009
+GUELTIG_BIS: 2024
+QUELLE: https://www.hoehr-grenzhausen.de/leben-erleben/die-gemeinden/stadt-hoehr-grenzhausen/historie-der-buergermeister/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wahl: 21.06.2009
+  einführung: 06.07.2009
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Wolfgang Letschert
+GUELTIG_AB: 2024
+QUELLE: https://www.hoehr-grenzhausen.de/leben-erleben/die-gemeinden/stadt-hoehr-grenzhausen/historie-der-buergermeister/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wahl: 09.06.2024
+  einführung: 08.07.2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Gesellschaft für Stadtgeschichte und Kultur e.V.
+QUELLE: https://www.hoehr-grenzhausen.de/neuigkeiten/2021/juli/25-jahre-gesellschaft-fuer-stadtgeschichte-und-kultur-e-v-hoehr-grenzhausen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1996
+  gruendungszahl: 15 an der Geschichte interessierte Bürger und Bürgerinnen
+  ziel: Wissen über Vergangenheit zusammentragen, wachhalten, der Öffentlichkeit zugänglich machen
+  museum_gruendung: Frühjahr 1997
+  museum_erstes_gebaeude: Brunnenstraße 13 (historisches Fachwerkgebäude)
+  museum_standortwechsel_grund: Wasserschaden
+  museum_neuer_standort: benachbartes Fabrikgebäude der ehemaligen Firma Merkelbach
+  museum_inhalt: Töpferarbeit (Euler), Holzpfeifenwerkstatt von Jean Löhner, Gegenstände des Alltags früherer Generationen, Spielzeuge
+  aktivitaeten: Stadtmuseum, Schaufenster-Ausstellung "Gegen die Leere: Das sich wandelnde Schaufenster in der Innenstadt", digitales Archiv
+  ausstellung_dauer: seit 5 Jahren
+  archiv_projekt: Aufbau eines elektronischen Archivs zur Erfassung von lokalem Archivgut
+  foerderung_archiv: Stiftung der Nassauischen Sparkasse "Initiative und Leistung" 1850 [Euro]
+  website: www.gsk-hg.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kunstort
+BEZEICHNUNG: Kunstraum am Limes (Sammlung Dr. Ciesielski)
+ORTSTEIL_BEZUG: Hillscheid
+QUELLE: https://www.hoehr-grenzhausen.de/neuigkeiten/2018/september/gerd-koenen-die-farbe-rot-die-epische-geschichte-eines-menschheitstraums/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Am Limes 2, 56204 Hillscheid
+  sammlungsinhaber: Dr. Ciesielski
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: St. Sebastianus Schützengesellschaft Höhr 1859 e.V.
+QUELLE: https://www.hoehr-grenzhausen.de/neuigkeiten/2018/august/st-sebastianus-schuetzen-hoehr-haben-juengsten-koenig-ihrer-vereinsgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1859
+  schützenfest_teilzahl: 159. Mal im Jahr 2018
+  schützenkoenig_2018: Felix Albert
+  superlativ_felix_albert: jüngster König ihrer Vereinsgeschichte
+  felix_albert_beitraege: Mitglied seit 2007, Sportschütze, Jugendleiter, Jungschützenkönig 2012
+  jugendkoenig_2018: Leon Hanak
+  jugendkoenig_1_ritter_2018: Lukas Weigand
+  jugendkoenig_2_ritter_2018: Robin Völkel
+  damenkönigin_2018: Annelies Hartwig
+  damenkönigin_begleiterinnen_2018: Madlen Hartwig, Andrea Auer
+  1_ritter_2018: Eric Hannappel
+  2_ritter_2018: Rainer Schneider
+  stadtmeisterschaft_sportschießen: 33. Offene Stadtmeisterschaften im Jahr 2018
+  musikverein_zapfenstreich: Musikverein Hillscheid
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

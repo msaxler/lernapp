@@ -1,0 +1,419 @@
+ENTITÄT: ort
+BEZEICHNUNG: Deesen
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Deesen/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_erwähnung: 1218
+  historischer_name: "Desene"
+  liegt_an: "Saynbach (Schleife)"
+  zugehörigkeit_bis_1664: "Isenburg"
+  zugehörigkeit_1664_1803: "Kurtrier"
+  zugehörigkeit_ab_1803: "Nassau"
+  zugehörigkeit_ab_1866: "Preußen"
+GUELTIG_AB: 1218
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schule (alte)
+ORTSTEIL_BEZUG: Deesen
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Deesen/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schutzstatus: "Denkmalschutz"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Alsbach
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Alsbach/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_erwähnung: 1143
+  lage: "Nordhang, in einer Mulde"
+  zugehörigkeit_früh: "Isenburger"
+  zugehörigkeit_ab_1376: "Grafen von Wied"
+  zugehörigkeit_ab_1806: "Herzogtum Nassau"
+  zugehörigkeit_ab_1866: "Preußen"
+  zugehörigkeit_ab_1867: "Kreis Unterwesterwald"
+  zugehörigkeit_ab_1974: "Westerwaldkreis"
+GUELTIG_AB: 1143
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: festung
+BEZEICHNUNG: Hohe Feste am Weißenstein
+ORTSTEIL_BEZUG: Alsbach
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Alsbach/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Nordöstlich von Alsbach"
+  erbauer: "Herren zu Isenburg"
+  gueltig_ab: 1376
+  funktion: "Abhaltung des Landgerichts"
+GUELTIG_AB: 1376
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Oberhaid
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Oberhaid/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_erwähnung: 1376
+  historischer_name: "Heide"
+  war_sitz_gericht: "Haiderbach"
+GUELTIG_AB: 1376
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gericht
+BEZEICHNUNG: Haiderbach
+ORTSTEIL_BEZUG: Oberhaid
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Oberhaid/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: "Besonderes Gericht"
+  sitz: "Oberhaid"
+GUELTIG_AB: 1376
+GUELTIG_BIS: 1560
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: mühle
+BEZEICHNUNG: Fuchsmühle (ehemals Hasenmühle)
+ORTSTEIL_BEZUG: Oberhaid
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Oberhaid/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1700
+  typ: "Ölmühle"
+  früherer_name: "Hasenmühle"
+  späterer_name: "Fuchsmühle"
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Wittgert
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Wittgert/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_erwähnung: 1298
+  historischer_name: "Widechinrode"
+  zugehörigkeit_bis_1664: "Isenburg-Grenzau"
+  zugehörigkeit_ab_1664: "Kurtrier"
+  zugehörigkeit_ab_1802: "Nassau-Usingen und Nassau-Weilburg"
+  zugehörigkeit_ab_1806: "Herzogtum Nassau"
+  zugehörigkeit_ab_1866: "Preußen"
+  zugehörigkeit_ab_1867: "Unterwesterwaldkreis"
+  zugehörigkeit_ab_1974: "Westerwaldkreis"
+  zugehörigkeit_ab_1971: "Verbandsgemeinde Ransbach-Baumbach"
+  lage: "Fuße des Westerwaldes, flacher Hang des Saynbaches"
+  entfernung_ransbach_baumbach: "ca. 4 km"
+GUELTIG_AB: 1298
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Breitenau
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Breitenau/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_erwähnung: 1265
+  historischer_name: "Bredenowe"
+  namensherkunft: "breite Aue"
+  zugehörigkeit_früh: "St. Lubentius-Stift in Dietkirchen"
+  zugehörigkeit_ab_1343: "Isenburg (zu Lehen von Trier)"
+  zugehörigkeit_ab_1664: "Kurtrier"
+  zugehörigkeit_ab_1803: "Nassau"
+  zugehörigkeit_ab_1866: "Preußen"
+GUELTIG_AB: 1265
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Caan
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Caan/Kurzportrait-Caan/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Am Fuße des Pfahlberges"
+  pfahlberg_höhe: "346 m"
+  handwerk_1723: "3 Kannenbäcker (Tonverarbeitung)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: "von Kane" (später "Reuber von Caan")
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Caan/Kurzportrait-Caan/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: "Von einem Hof in Caan"
+  erste_erwähnung: 1250
+  späterer_name: "Reuber von Caan"
+GUELTIG_AB: 1250
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Hundsdorf
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Hundsdorf/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_erwähnung: 1243
+  historischer_name: "Hundisdorp"
+  historischer_name_früh: "Hohdorf"
+  vermutliche_besiedlung: "9. Jahrhundert (als Hohdorf)"
+  besitzer_früh: "Abtei Fulda"
+  grundherrschaft_ursprünglich: "Ransbach"
+  zugehörigkeit_ab_16_jh: "Lehen von Wied"
+  lage: "Masselbachtal"
+GUELTIG_AB: 1243
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fabrik
+BEZEICHNUNG: Naxoschmirgelfabrik
+ORTSTEIL_BEZUG: Hundsdorf
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Hundsdorf/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: "Peter Fuchs"
+  gründungsjahr: 1838
+  superlativ: "Erste Naxoschmirgelfabrik Deutschlands"
+  betriebsart: "Wasserkraft-betriebene Mühle"
+GUELTIG_AB: 1838
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Wirscheid
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Wirscheid/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_erwähnung: 1547
+  historischer_name: "Wersched"
+  namensherkunft_vermutlich: "zum Walde des Wiro oder Hinweis auf Wychardus"
+  zugehörigkeit_historisch: "Isenburg-Grenzau"
+  zugehörigkeit_ab_1802: "Herzogtum Nassau"
+  zugehörigkeit_ab_1866: "Königreich Preußen"
+  zugehörigkeit_ab_1947: "Land Rheinland-Pfalz"
+  lage: "Hangmulde, waldumgeben, ca. 4 km zum Sayntal"
+  region: "Kannenbächerland"
+GUELTIG_AB: 1547
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Schule Wirscheid
+ORTSTEIL_BEZUG: Wirscheid
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Wirscheid/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  mutterschule_bis_1818: "Nauort"
+  schultype: "Einklassige Schule"
+  unterricht_tägliche_stunden: 6
+  schulhaus_bauzeit: "1892-1895"
+  schulhaus_einweihung: "1.12.1896"
+  schulhaus_unterrichtsraum_abmessungen: "ca. 10m x 6m"
+  schulhaus_auflösung: "1968-1969"
+GUELTIG_AB: 1665
+GUELTIG_BIS: 1969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kriegerdenkmal
+ORTSTEIL_BEZUG: Wirscheid
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Wirscheid/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  widmung: "Gefallene und Vermißte der beiden Weltkriege"
+  einweihung: "21. Oktober 1921"
+  veränderung: "vor einigen Jahren verändert und neu gestaltet"
+GUELTIG_AB: 1921
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: backhaus
+BEZEICHNUNG: Wirscheider Backes
+ORTSTEIL_BEZUG: Wirscheid
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Wirscheid/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau: "Spät 19. Jahrhundert"
+  nutzung_bis: "Anfang der 60er Jahre"
+  funktion: "Backen von Brot und Kuchen"
+  backprodukte: "Roggenbrot, Streuselkuchen, Zwetschgen- und Apfelkuchen"
+  renovation: 1982
+  fest_seit_1982: "Backesfest alljährlich am 2. Wochenende im September"
+GUELTIG_AB: 1880
+GUELTIG_BIS: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Sessenbach
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Sessenbach/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_erwähnung: 1220
+  frühe_besiedlung_indizien: "Faustkeile, Mahlsteine, Bronzebeil"
+  keltische_siedlung_um: "1200 v.Chr."
+  keltische_scherben_datierung: "vor 500 v.Chr."
+  wirtschaft_18_19_jh: "Kupfer- und Erzbergbau"
+  wirtschaft_20_jh: "Landwirtschaft und Keramikindustrie"
+  kirche_bau: 1948
+  kirche_bauweise: "mit Eigenleistung und Spenden"
+  einwohner_1948: 200
+  einwohner_aktuell: 530
+  häuser: 170
+  gemarkung_fläche: "2,8 km²"
+  zugehörigkeit_ab_1972: "Verbandsgemeinde Ransbach-Baumbach"
+GUELTIG_AB: 1220
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Marienkirche
+ORTSTEIL_BEZUG: Sessenbach
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Sessenbach/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1948
+  besonderheit: "Unmittelbar nach dem 2. Weltkrieg mit Eigenleistung und Spenden erbaut"
+GUELTIG_AB: 1948
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verwaltungsbezirk
+BEZEICHNUNG: Verbandsgemeinde Ransbach-Baumbach
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Verbandsgemeinde-/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bundesland: "Rheinland-Pfalz"
+  landkreis: "Westerwaldkreis"
+  mitgliedsgemeinden: "Alsbach, Breitenau, Caan, Deesen, Hundsdorf, Nauort, Oberhaid, Sessenbach, Wirscheid, Wittgert"
+  anzahl_gemeinden: 10
+  zentrum: "Töpferstadt Ransbach-Baumbach"
+  fläche: "4.986 ha"
+  einwohner_stand_30_06_2015: 15310
+  einwohner_mit_hauptwohnsitz: 14807
+  höchste_erhebung: "Zipfen (445 m, Naturpark Nassau)"
+  tiefster_punkt: "160 m (Saynbachtal westlich von Caan)"
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadt
+BEZEICHNUNG: Ransbach-Baumbach
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Stadt-Ransbach-Baumbach/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundherrschaft_ransbach: "Mitte 10. Jahrhundert"
+  erste_erwähnung_kirche: 1330
+  erste_erwähnung_adelsfamilie: 1360
+  ortsname_baumbach: "Babenbach"
+  ortsname_baumbach_jahr: 1373
+  zugehörigkeit_ab_1304_1310: "Herren von Isenburg-Arenfels"
+  zugehörigkeit_ab_1376: "Nieder-Isenburger Linie (Grenzauer Linie)"
+  zugehörigkeit_ab_1664: "Kurtrier"
+  zugehörigkeit_ab_1803: "Nassau"
+  zugehörigkeit_ab_1866: "Preußen"
+  zugehörigkeit_ab_1867: "Unterwesterwaldkreis"
+  zugehörigkeit_ab_1971: "Verbandsgemeinde Ransbach-Baumbach"
+  zugehörigkeit_ab_1974: "Westerwaldkreis"
+  status_stadt: 1975
+  zusammenlegung_gemeinden: "1969 Ransbach und Baumbach"
+  zentrum_region: "Herzen des Kannenbäckerlandes"
+  spitzname: "Töpferstadt"
+  arbeitsplätze: 4000
+  partnerstadt_seit: 1985
+  partnerstadt_ort: "Pleurtuit"
+  partnerstadt_land: "Frankreich"
+GUELTIG_AB: 1330
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadthalle
+BEZEICHNUNG: Stadthalle Ransbach-Baumbach
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Stadt-Ransbach-Baumbach/Kurzportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1989
+  fertigstellung_monat: "September"
+  architektur: "Klassisches Oktogon"
+  nutzung: "Tagungen, Kongresse, Seminare, Ausstellungen, Theater, Konzerte, Festlichkeiten"
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Nauort
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Nauort/Begrüßung-und-Kurzportrait-Nauort/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 2300
+  rang_in_verbandsgemeinde: "zweitgrößter Ort"
+  lage_höhe: "310 m (Hochplateau)"
+  lage_beschreibung: "waldreich, zwischen Tälern Saynbachs und Brexbachs"
+  burgendreieck: "Sayn, Isenburg, Grenzau"
+  namensherkunft: "Nuenrohde (neue Wald-Rodung), ca. Jahrhundertwende"
+  namensherkunft_entwicklung: "Nuenrohde → Nauenrohde → Nauert → Nauort"
+  erste_erwähnung_ortsadelige: 1279
+  wirtschaft_20_jh: "Landwirtschaft und Bimsindustrie"
+  entfernung_koblenz: "ca. 20 km"
+  internationales_netzwerk: "Partnerschaften mit Oundle (England) und Condette (Frankreich)"
+GUELTIG_AB: 1279
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: burgruine
+BEZEICHNUNG: Sayn
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Nauort/Begrüßung-und-Kurzportrait-Nauort/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Burgendreieck zwischen Tälern Saynbachs und Brexbachs"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: burgruine
+BEZEICHNUNG: Isenburg
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Nauort/Begrüßung-und-Kurzportrait-Nauort/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Burgendreieck zwischen Tälern Saynbachs und Brexbachs"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: burgruine
+BEZEICHNUNG: Grenzau
+QUELLE: https://www.ransbach-baumbach.de/Bürger-Einwohner/Gemeinden/Nauort/Begrüßung-und-Kurzportrait-Nauort/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Burgendreieck zwischen Tälern Saynbachs und Brexbachs"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7

@@ -1,0 +1,456 @@
+ENTITÄT: ort
+BEZEICHNUNG: Montabaur
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwähnung: 959
+  urkundlicher_name_bei_ersterwähnung: Humbach
+  namensherkunft: "Mons Tabor" (Berg Tabor), in Anlehnung an biblischen Ort der Verklärung
+  stadtrechte_verleihung_jahr: 1291
+  stadtrechte_verliehen_durch: König Rudolf von Habsburg
+  stadtrechte_verliehen_auf_betreiben: Erzbischofs Boemund I. von Trier
+  siedlung_entstanden_seit: Frühmittelalter
+  siedlung_erwähnung: 930
+  siedlung_status: seit 1018 kurtrierische Siedlung
+  einwohner: 14884
+  einwohner_stand: 12/2024
+  ist_kreisstadt: true
+  funktion: Verwaltungs-, Einkaufs- und Bildungszentrum des südlichen Westerwaldes
+  lage: südlicher Westerwald, nahe Rhein, Mosel und Lahn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Kirche (steinerne Kirche - Residenz des Konradinergrafen Hermann)
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  weihe: 959
+  material: Stein
+  funktion: Residenz des Konradinergrafen Hermann im Engersgau, später Herzog von Schwaben
+GUELTIG_AB: 959
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Mons Tabor
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frueherer_name: Kastell Humbach
+  errichtung_durch: Erzbischof Dietrich II. von Wied
+  errichtung_jahr: 1227
+  umbau_17_jahrhundert: mehrfach umgebaut
+  funktion_bis_1802: Residenz der Trierer Kurfürsten
+  eigentümer_ab_1803: Fürsten von Nassau (nach Säkularisation)
+  eigentümer_ab_1866: Preußen
+  nutzung_1800er: Lehrerseminar, Landratsamt
+  nutzung_1946_1969: Bezirksregierung Montabaur
+  nutzung_ab_1969: Fortbildungsakademie der deutschen Genossenschaften
+GUELTIG_AB: 1227
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: handelsstraße
+BEZEICHNUNG: Handelsstraße Trier-Frankfurt
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: förderte Ansiedlung unterhalb des Schlossbergs
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: brunnen
+BEZEICHNUNG: Marktbrunnen
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1989
+  standort: zentrale Stelle in der Fußgängerzone (seit 1984)
+  funktion: zeigt Stadtwappen
+  reliefdarstellung: Besonderheiten der 1972 eingemeindeten Ortsteile
+  reliefdarstellung_teil2: 13 historische Stadttore mit Zunftsymbolen
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Horressen
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Elgendorf
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Eschelbach
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wirzenborn
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Reckenthal
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bladernheim
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ettersdorf
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtmauer
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: Anfang 14. Jahrhundert
+  grund_errichtung: Sicherung der Stadtrechte von 1291
+  turmanzahl: 15
+  stadtpforten_anzahl: 12
+  wehrgaenge: untereinander verbunden auf der Stadtmauer
+  funktion_ab_17_jh: nach Dreißigjährigem Krieg schrittweise verlust militärischer Bedeutung
+  funktion_verbleibend: Verkehrslenkung durch Stadttore
+  reparaturen_und_erneuerungen: mehrfach an verschiedenen Stellen im 17./18. Jahrhundert
+  bewaechung_bis_ende_18_jh: nachts in Wechsel von Bürgern oder Beauftragten
+  verfall: nach 1800
+  verfall_grund: Steine wurden als Baumaterial verwendet
+  verbleibende_reste: einzelne erhaltene Reste und mehrere Stadttürme am Abhang zum Sauertal
+GUELTIG_AB: 1300
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Stadtbrand
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1534
+  beschreibung: verheerender Stadtbrand, Stadt fast ausgelöscht
+  folge: Wiederaufbau
+  architektur_folge: Fachwerkhäuser aus dieser Zeit prägen noch heute die Altstadt
+GUELTIG_AB: 1534
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Brände (Serie)
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 15., 16. und 17. Jahrhundert
+  schaden: schwere Schäden an der Stadt
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Belagerung durch schwedische Truppen
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1633
+  belagerungsdauer: mehrere Monate
+  belagerungs_truppen: schwedische Truppen
+  schlossverteidiger: kaiserlich-spanische Truppe
+  ergebnis: Stadt musste sich ergeben, kaiserlich-spanischer Truppe freier Abzug gewährt
+GUELTIG_AB: 1633
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: zoeunftssystem
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Kaufleute profitierten von kaiserlich garantierter Zollfreiheit und waren in Zünften tätig
+  beispiele_zünfte: Eisen-, Textil- und Ledergewerbe
+  zeitraum: unter Herrschaft Trierer Kurfürsten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: stadttürme
+BEZEICHNUNG: Schiffgen
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/h/historischer-stadtplan/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_zeitweise: Gefängnis, "Bürgergehorsam"
+  historisches_ereignis_datum: Februar 1719
+  historisches_ereignis: zwei Stadtkorporale und 5 Schildwächter eingesperrt für 12 Stunden bei Winterwetter
+  grund_inhaftierung: Nichtausübung des Wachdienstes am Stadttor (Kurfürst Franz Ludwig von Trier wartete auf Einlass)
+  beschreibung_heute: noch sichtbar, erinnert an historische Stadtbefestigung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Kaiser-Wilhelms-Gymnasium zu Montabaur
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/h/historische-schulen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: historische Schule
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Joseph-Kehrein-Schule
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/h/historische-schulen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: historische Schule
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Lehrerseminar zu Montabaur
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/h/historische-schulen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: historische Schule
+  hinweis: beherbergt im Schloss Montabaur (siehe Burg-Eintrag für Nutzungsdetails)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: schulchronik
+BEZEICHNUNG: Schulchronik Eschelbach
+ORTSTEIL_BEZUG: Eschelbach
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/s/schulchronik-eschelbach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  transkription_durch: Fritz Schwind (Heimatforscher aus Eschelbach, Mitglied Historischer Stammtisch Montabaur)
+  ursprung: "Nassauisches Schuledikt" von 1817 (Führung eines Rescriptenbuches ab dann verpflichtend)
+  schulleiter_funktion: Dokumentation schulischer Ereignisse
+  inhalt_erweitert: auch Wetter, Ernte und Gemeindeleben
+  wissenschaftlicher_wert: authentische Quelle über Gemeindealltag im 19. Jahrhundert, Primärliteratur für Heimatforscher und Historiker
+  verfügbarkeit: kostenlos online einsehbar und herunterladbar
+GUELTIG_AB: 1817
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schulzentrum
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/h/historische-schulen/schulzentrum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestandteile: zwei Realschulen, Mons-Tabor-Gymnasium, Peter-Altmeier-Landesmusikgymnasium, Berufsbildungszentrum
+  infrastruktur: Mehrfachturnhallen und Sportanlagen
+  ruf: "Westerwaldathen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gymnasium
+BEZEICHNUNG: Mons-Tabor-Gymnasium
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/h/historische-schulen/schulzentrum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Schulzentrum Montabaur
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: gymnasium
+BEZEICHNUNG: Peter-Altmeier-Landesmusikgymnasium
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/h/historische-schulen/schulzentrum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Schulzentrum Montabaur
+  ruf: weit über die Grenzen Montabaurs bekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Akademie Deutscher Genossenschaften (ADG)
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/h/historische-schulen/schulzentrum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Schloss Montabaur
+  gebaeude: Schloss mit angegliederten Lehr- und Hotelgebäuden
+  unterorganisation: ADG Business School an der Steinbeis-Hochschule Berlin
+  funktion: macht Montabaur zu Universitätsstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Verwahrschule
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/h/historische-schulen/verwahrschule/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Kindergarten
+  gruender: Dernbacher Schwestern
+  ankunft_in_montabaur: sechs Jahre nach Ordensgründung 1857 (ca. 1863)
+  eroffnung_zweiter_kindergarten: 1901 durch zwei weitere Schwestern
+  standort_zweiter_kindergarten: Hospital (später Standort der Deutschen Bank)
+  zielgruppe: Kinder jeder Konfession
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Winterschule (Landwirtschaftliche)
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/h/historische-schulen/die-winterschule/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1906
+  zweck: Ausbildung junger Landwirte
+  besonderheit: nur Winterhalbjahr besucht (wegen jahreszeitlicher Arbeitsschwerpunkte)
+  standort_1: ehemalige Gaststätte "Zum weißen Ross", Sauertalstraße
+  standort_1_bau: 1835
+  standort_1_abriss: 1964
+  standort_2_neubau: 1937 in Tiergartenstraße/Ecke Herzog-Adolf-Straße
+  unterricht_ende: 1971
+GUELTIG_AB: 1906
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Mädchenschule
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/h/historische-schulen/die-maedchenschule/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestand_seit: 1687
+  finanzierung: testamentarische Stiftung des Stadtsfarrers Bartholomäus Trebus 1737
+  verlegung: nach 1740
+  standort_urspruenglich: Stadttrum neben Peterstor ("Schulturm" genannt)
+  standort_seit_1740: Fachwerkbau Kirchstraße gegenüber Kirchplatz
+  schulturm_abriss: 1805
+  architektur_um_1955: Fachwerkbau
+GUELTIG_AB: 1687
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Katharinenschule
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/h/historische-schulen/die-katharinenschule/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruender: Dernbacher Schwestern
+  gruendung: 1862
+  art: Lehr- und Erziehungsanstalt (Mittelschule für Mädchen)
+  standort: hinter der katholischen Kirche
+  schließung: 1875 (Klostergesetz im Kulturkampf)
+  neuerwerb_gebäude: 1878 durch Preußischen Staat
+  wiedereroffnung: um die Jahrhundertwende (ca. 1900)
+  leitung_ab_1920: Dernbacher Schwestern wieder
+  umzug: 1922 in Haus der bisherigen "Präparandenanstalt"
+  aufloesung: 1939
+  nachnutzung: nach Krieg zu Eigentumswohnungen umgebaut
+GUELTIG_AB: 1862
+GUELTIG_BIS: 1939
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Lateinschule
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/h/historische-schulen/die-alte-lateinschule/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Vorgängerinstitution humanistischer Gymnasien, Grundlagen gelehrter Bildung auf Basis Latein
+  ursprünglicher_standort: unbekannt
+  unterrichtsgebäude_kauf: 1789 (Haus Grandry, erbaut 1715)
+  aufloesung_und_untergang: ausgehendes 18. Jahrhundert / Revolutionskriege
+  nachnutzung_1930: Heimatmuseum im Haus Grandry
+GUELTIG_AB: 1789
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Schule Elgendorf
+ORTSTEIL_BEZUG: Elgendorf
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/h/historische-schulen/die-schule-in-elgendorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  unterricht_seit: Mitte 17. Jahrhundert (zunächst in Privaträumen, später in Schulhaus)
+  gebäude_einklassig_bau: 1823
+  gebäude_zweiklassig_bau: 1896
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Schule Horressen
+ORTSTEIL_BEZUG: Horressen
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtlexikon-a-z/h/historische-schulen/die-schule-in-horressen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau: 1927/28
+  klassenzimmer: 3
+  schueleranzahl: 106
+  besonderheiten: unterkellert, zwei Lehrerwohnungen im Obergeschoss
+  heutige_nutzung: Kindergarten
+GUELTIG_AB: 1927
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: fussgangerzone
+QUELLE: https://www.montabaur.de/leben/freizeit-und-kultur/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einrichtung: seit 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

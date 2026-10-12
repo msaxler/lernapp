@@ -1,0 +1,1441 @@
+ZIELORT: Idstein (Stadt)
+LAGE: 15 km nördlich von Wiesbaden (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Idstein
+
+GRUNDDATEN:
+  landkreis: Rheingau-Taunus-Kreis  [dewiki Infobox]
+  bundesland: Hessen  [dewiki Infobox]
+  einwohner: 25.724  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 79,76  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 323  [berechnet aus Einwohner und Fläche]
+  hoehe_m: 266 | 276  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2896736)]
+  naechste_grossstadt: Wiesbaden, 15 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Wiesbaden, 15 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Haltepunkt Wörsdorf  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 65510  [Wikidata P281]
+  vorwahl: 06126  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32,6 %, SPD 17,4 %, GRÜNE 15,8 %, AfD 13,3 %, Die Linke 6,9 %, FDP 6,4 %; Wahlbeteiligung 86,1 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Christian Herfurth (CDU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-12]
+  partnerstaedte: Zwijndrecht  [Wikidata P190]
+  kfz: RÜD (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand staedte.json]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT einwohner: Einwohnerzahl (Ersatz: Fläche der Gemarkung), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT landkreis: Landkreis (Ersatz: Kennzeichen), A, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Niedernhausen (Gemeinde)
+  landkreis: Rheingau-Taunus-Kreis  [dewiki Infobox]
+  einwohner: 14.216  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 35,29  [Wikidata P2046]
+  kfz: SWA (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 257 | 338 | 271 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2863046)]
+  naechste_grossstadt: Wiesbaden, 10 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Niedernhausen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 33,9 %, SPD 16,5 %, GRÜNE 14,8 %, AfD 14 %, FDP 7,3 %, Die Linke 6,5 %; Wahlbeteiligung 87,3 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen
+
+FAKTEN (Zielort Idstein):
+ID: 176-idstein/001
+ENTITÄT: ort
+BEZEICHNUNG: Idstein
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 27425
+  einwohnerzahl_stand: 30.06.2026
+  mittelzentrum_umland_ca: 45000
+  entwicklungsband: 2. Ordnung
+  gesamtflaeche_ha: 7961
+  waldflaechen_ha: 3631
+  laengste_ausdehnung_km: 14.8
+  hoechste_erhelung_m: 517.5
+  buergermeister: Christian Herfurth
+  buergermeister_partei: CDU
+  erster_stadtrat: Wolfgang Müller
+  erster_stadtrat_partei: Bündnis90/Die Grünen
+  gewerbesteuer_v_h: 420
+  grundsteuer_a_v_h: 695
+  grundsteuer_b_v_h: 695
+  verkehrsanbindung_autobahn: A 3 Köln-Frankfurt
+  verkehrsanbindung_bundesstrassen: 8, 275, 417
+  verkehrsanbindung_bahnhof: Idstein, Wörsdorf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/002
+ENTITÄT: ort
+BEZEICHNUNG: Idstein
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundlich_erwaehnt_seit: 1102
+  stadtrechte_erworben: 1287
+  stadtrechte_verliehen_durch: König Rudolf von Habsburg
+  stadtrrechte_verliehen_von: Graf Adolf von Nassau-Idstein
+  residenzstadt_bis: 1721
+  residenzstadt_fuer: Grafen und Fürsten von Nassau-Idstein
+  ist_residenzstadt: false
+  gueltig_bis_residenzstadt: 1721
+  industrie_lederherstellung: ja
+  industrie_lederherstellung_periode: Mitte 18. Jahrhundert bis ca. Mitte 20. Jahrhundert
+  architektur_fachwerkhaeuser: 15.-18. Jahrhundert
+  beschreibung: Alter Baubestand mit reichem Schnitzwerk, Adelssitze und Handwerkerhäuser
+IST_VERMUTLICH_AKTUELL: true
+GUELTIG_AB: 1102
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/003
+ENTITÄT: bauwerk
+BEZEICHNUNG: Hexenturm
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/hexenturm/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Ältestes erhaltenes Bauwerk Idsteins, Wahrzeichen der Stadt
+  hoehe_m: 42
+  bauphasen: ca. 1170, ca. 1240, ca. 1500
+  heutiges_aussehen_seit: 1810
+  superlativ: ältestes erhaltenes Bauwerk Idsteins
+  namensherkunft: Volkstümliche Bezeichnung ab 19. Jahrhundert, nicht verbunden mit Hexenverfolgungen des 17. Jh.
+  bergfried_datum: ca. 1170
+  besichtigung_moeglich: ja
+GUELTIG_AB: 1170
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/004
+ENTITÄT: garten
+BEZEICHNUNG: Schlossgarten
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/besondere-orte/schlossgarten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gaerten_erste_erwaehnung: 1566
+  erbauer: Graf Johannes von Nassau-Idstein
+  erbauer_lebensdaten: 1603-1677
+  gestaltung_jahr_ca: 1650
+  gestaltungsart: Hofgarten mit kostbaren und exotischen Pflanzen
+  ausstattung: Gartenpavillon, künstliche Grotte, Brunnen, Arkaden, Skulpturen
+  blumenbuch_florilegium: ja
+  blumenbuch_autor_hofmaler: Valentin Hoffmann, Johann Walter
+  blumenbuch_seiten_ca: 200 (Gouache auf Pergament)
+  verfallszeitraum_grund: Mit Tod von Fürst Georg August Samuel endete Idstein als Residenz
+  rekonstruktion_erste: 1990
+  neuerrichtung: 2016
+  beschreibung: Barocker Gartentraum für illustre Gäste, historisch rekonstruiert mit nachgewiesenen Pflanzen
+GUELTIG_AB: 1566
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 176-idstein/005
+ENTITÄT: person
+BEZEICHNUNG: Graf Johannes von Nassau-Idstein
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/besondere-orte/schlossgarten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: 1603-1677
+  titel: Graf
+  territorium: Nassau-Idstein
+  kulturelle_aktivitaet: Schlossgarten gestaltet, Florilegium (Blumenbuch) in Auftrag gegeben
+  blumenbuch_baeende: Zwei dekorative und aufwändige Bände mit ca. 200 Darstellungen
+  kunstpatronym: Beriet sich von namhaften Gartenarchitekten und Künstlern
+GUELTIG_AB: 1603
+GUELTIG_BIS: 1677
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/006
+ENTITÄT: bauwerk
+BEZEICHNUNG: Killingerhaus
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: 1615
+  erbauer: Johann Conrad Killing (gräflicher Amtsschreiber), Anna Margareta Löber
+  erbauer_sterbejahr_killing: 1630
+  lage: König-Adolf-Platz, unteres Ende der Obergasse
+  beschreibung: Prachtvollstes aller Idsteiner Fachwerkgebäude
+  stil: Spätrenaissance
+  schmuckelemente: Greif, Pfau mit Hufeisen, Doppeladler
+  nutzungsgeschichte_1905: Bäckerei und Konditorei mit Café
+  stadtbesitz_seit: 1916
+  heutige_nutzung: Tourist-Info und Stadtmuseum
+  superlativ: Prachtvollstes aller Idsteiner Fachwerkgebäude
+GUELTIG_AB: 1615
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/007
+ENTITÄT: bauwerk
+BEZEICHNUNG: Obergasse Nr. 2
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: 1410
+  stil: Gotik
+  superlativ: Ältestes Wohnhaus Idsteins
+  haustyp: Fester Typ mit massivem Keller- und Erdgeschoss
+  ortsteil_bezug: Obergasse
+  ausstattung: Obergeschoss deutlich auskragend, gekreuzte Schweifstreben
+GUELTIG_AB: 1410
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/008
+ENTITÄT: bauwerk
+BEZEICHNUNG: Kanzleitor
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: 1497
+  funktion: Markiert Trennlinie zwischen städtischem und herrschaftlichem Bezirk
+  still: Gotik
+  besonderheit: Bundverstrebung der Übergangszeit (1470–1550), Wilder-Mann-Figuren
+  farbgebung_sanierung: 2012 befundgerecht wiederhergestellt
+  heutige_nutzung: Stadtverwaltung Idstein, Trauzimmer des Standesamtes
+GUELTIG_AB: 1497
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 176-idstein/009
+ENTITÄT: bauwerk
+BEZEICHNUNG: Rathaus
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: 1698
+  lage: König-Adolf-Platz
+  stil: Barock
+GUELTIG_AB: 1698
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/010
+ENTITÄT: bauwerk
+BEZEICHNUNG: Schiefes Haus
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: 1725
+  erbauer: Major Johann Jacob Nicolay (Landmiliz)
+  geschossanzahl: 4 (für Idsteiner Verhältnisse sehr hoch)
+  stil: Nordhessische Handels- und Handwerkerhäuser
+  besonderheit: Viergeschossig mit zwei Zwerchhäusern, Vertikal betonte Proportionen
+  schaeden_grund: Fachwerk-Holzskelett verschob sich durch Verlust von Diagonalverstrebungen
+  freilegung_fachwerk: Nach Ersten Weltkrieg durch Familie Nau (Stahlwarenhändler)
+GUELTIG_AB: 1725
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/011
+ENTITÄT: kirche
+BEZEICHNUNG: Unionskirche
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Evangelisch
+  ursprungsepoche: 14. Jahrhundert
+  umbauzeitraum: 1665-1677
+  fertigstellung_innenraum: 18. Jahrhundert
+  innenausstattung: Farbenprächtig, bildergeschmückt
+  kuenstler: Künstler der Rubensschule
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/012
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Idstein
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorgaengerbauten: Vermutlich bis ins 11. Jahrhundert
+  umbau_erweiterung: 1614-1634
+  innenausstattung: Unter Fürst Georg August Samuel durch namhafte Künstler
+  heutige_nutzung: Gymnasium/Pestalozzischule (seit 1946)
+  besichtigung: Möglich im Rahmen von Führungen
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/013
+ENTITÄT: stadtteil
+BEZEICHNUNG: Dasbach
+ORTSTEIL_BEZUG: Dasbach
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_stand_30_06_2026: 321
+  eingemeindung_jahr: 1971
+  beschreibung: Kleine Ortschaft mit dörflicher Idylle, von Durchgangsverkehr verschont
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/014
+ENTITÄT: stadtteil
+BEZEICHNUNG: Dasbach
+ORTSTEIL_BEZUG: Dasbach
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/dasbach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_ca: 320
+  merkmal_laufbrunnen: Gusseiserner Laufbrunnen aus Michelbacher Hütte
+  merkmal_fischteiche: Fischteiche an den Drei Eichen
+  spielplatz: Großer Spielplatz
+  welterbe_limes: Römischer Wachturm, rekonstruiert zur Hessentag 2002
+  roemer_veranstaltung: Jährliches Römerfest
+  sportverein: Falke Dasbach (Schützenverein), mehrfach Deutscher Meister
+  sportverein_aktivitaet: Luftpistolenschießen in Erster Bundesliga Nord
+ORTSTEIL_BEZUG: Dasbach
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/015
+ENTITÄT: stadtteil
+BEZEICHNUNG: Ehrenbach
+ORTSTEIL_BEZUG: Ehrenbach
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_stand_30_06_2026: 291
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/016
+ENTITÄT: stadtteil
+BEZEICHNUNG: Ehrenbach
+ORTSTEIL_BEZUG: Ehrenbach
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/ehrenbach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_ca: 300
+  flaeche_charakteristik: Talmulde an einem Bach (Ehrenbach)
+  urkundlich_erwaehnt: 1475
+  eingemeindung_jahr: 1971
+  besonderheit_kirche: Fachwerkhaus mit Turm (ehemaliges Hirtenhaus), 1982 zur Kirche geweiht, vermutlich kleinste Kirche der Region
+  lederverarbeitung: Wird bis heute betrieben (seit Mittelalter oder früher)
+  limes_grenze: Bildet südliche Grenze der Gemarkung
+  grenzland_detail: Grenzt an Kastell Zugmantel und Nachbarstadt Taunusstein
+  rang: Zweitkleinster Stadtteil Idsteins
+GUELTIG_AB: 1475
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 176-idstein/017
+ENTITÄT: stadtteil
+BEZEICHNUNG: Eschenhahn
+ORTSTEIL_BEZUG: Eschenhahn
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_stand_30_06_2026: 695
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/018
+ENTITÄT: stadtteil
+BEZEICHNUNG: Heftrich
+ORTSTEIL_BEZUG: Heftrich
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_stand_30_06_2026: 1544
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/019
+ENTITÄT: stadtteil
+BEZEICHNUNG: Heftrich
+ORTSTEIL_BEZUG: Heftrich
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/heftrich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_ca: 1600
+  urkundliche_erwaehnung: 1234
+  markt_alteburger_markt: Traditioneller Markt auf historischem Gelände Alteburg
+  markt_frequenz: Jährlich an drei Donnerstagen (nach Kirchenkalender)
+  markt_besucher_jaehrlich: Tausende
+  roemer_kastelle: Zwei ehemalige Römerkastelle nachgewiesen
+  roemer_kapelle_pilger: Mittelalterliche Kapelle als Pilgerort, Ursprung des Markttreibens
+  stadtrecht_jahr: 1367 (650 Jahre Stadtrecht 2017)
+  stadtrecht_entwicklung: Ort entwickelte sich nicht zu einer Stadt
+  beruehmter_ueberfall: Müller der Fuchsmühle von Schinderhannes 1801 erpresst
+  hexenverfolgung_opfer: Cäcilie Zeitlose Wicht (1676)
+  bergwerk: Blei-, Kupfer- und Silberabbau ab 1900, 30 Jahre lang
+  eingemeindung_jahr: 1972
+  jugendarbeit: SV 1920 Heftrich e.V. (außergewöhnlich aktiv)
+GUELTIG_AB: 1234
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/020
+ENTITÄT: stadtteil
+BEZEICHNUNG: Kröftel
+ORTSTEIL_BEZUG: Kröftel
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_stand_30_06_2026: 542
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/021
+ENTITÄT: stadtteil
+BEZEICHNUNG: Kröftel
+ORTSTEIL_BEZUG: Kröftel
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/kroeftel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_ca: 540
+  lage: Östlichster Stadtteil Idsteins
+  hoehenlage_m: ca. 370
+  hoehenlage_differenz_zu_idstein_m: ca. 100
+  eingemeindung_jahr: 1971
+  gewaesser: Kröftelbach (Zufluss des Dattenbachs)
+  urkundliche_erwaehnung: 890 als "in marcu Cruftero"
+  kirchenbau: Evangelische Kirche erbaut 1703
+  grenzflaechen: Welterbe Limes durchläuft die Gemarkung
+  grenzlage_detail: Wo Römer Grenzwall aufrichteten, verläuft heute Stadtgrenze und Grenze Rheingau-Taunus-Kreis
+  stadt_bezeichnung: Grenzort in seiner Geschichte
+GUELTIG_AB: 890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/022
+ENTITÄT: stadtteil
+BEZEICHNUNG: Lenzhahn
+ORTSTEIL_BEZUG: Lenzhahn
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_stand_30_06_2026: 245
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/023
+ENTITÄT: stadtteil
+BEZEICHNUNG: Lenzhahn
+ORTSTEIL_BEZUG: Lenzhahn
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/lenzhahn/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_ca: 230
+  rang: Kleinster Idsteiner Stadtteil
+  lage: Südöstlich der Kernstadt, von Wald umgeben, Quellgebiet Seelbach
+  urkundlich_erwaehnt_als: Leiza (1223/1227)
+  limes: Römischer Limes auf Wasserscheide Lahn-Main verläuft durch Gemarkung
+  roemer_turm: Nächstgelegener Römerturm ca. 1 km entfernt
+  roemer_kastell_nachbarschaft: Unmittelbare Nähe zum Römerkastell auf Heftricher Alteburg
+  roemer_siedlung: Möglich in Bereich Lenzhahn
+  dreissigjähriger_krieg_folge: Nur noch 4 Einwohner gegen Ende des Krieges, wurde später wieder bevölkert
+  spaszbühne: Lenzhahner Spaßbühne e.V., alle zwei Jahre selbstentwickelte Komödie
+  backesfest: Jährliches Fest mit traditionellem Backhaus (2014 saniert), Kuchen und rustikales Brot
+  backhaus_bezeichnung: "Backes" (Fachwerkhaus)
+GUELTIG_AB: 1223
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/024
+ENTITÄT: stadtteil
+BEZEICHNUNG: Niederauroff
+ORTSTEIL_BEZUG: Niederauroff
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_stand_30_06_2026: 388
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/025
+ENTITÄT: stadtteil
+BEZEICHNUNG: Nieder-Oberrod
+ORTSTEIL_BEZUG: Nieder-Oberrod
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_stand_30_06_2026: 549
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/026
+ENTITÄT: stadtteil
+BEZEICHNUNG: Oberauroff
+ORTSTEIL_BEZUG: Oberauroff
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_stand_30_06_2026: 346
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/027
+ENTITÄT: stadtteil
+BEZEICHNUNG: Walsdorf
+ORTSTEIL_BEZUG: Walsdorf
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_stand_30_06_2026: 1391
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/028
+ENTITÄT: stadtteil
+BEZEICHNUNG: Walsdorf
+ORTSTEIL_BEZUG: Walsdorf
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/walsdorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_ca: 1560
+  urkundlich_belegt_seit: 774
+  freiheitsbriefe_ab: 1358
+  befestigung: Ende 14. Jahrhundert errichtet, in Teilen noch erkennbar
+  hutturm: Gotischer Hutturm erhalten
+  kirchenturm: Evangelische Pfarrkirche 17. Jahrhundert
+  grosse_braende: 1692 (fast ganzer Ort), 1831 (Ort)
+  scheunenfron_entstand_nach: Großbrand 1831 auf mittelalterlicher Ringmauer am Ostrand
+  scheunenfron_sichtbarkeit: Besonders gut von der B 8 zu sehen
+  eingemeindung_jahr: 1971
+  baugebietsentwicklung: Schnelle Steigerung Häuser und Einwohner ab 1945 durch Ausweisung von Baugebieten
+  archaeologischer_fund: 2011 Steinzeitsiedlung mit Brunnen aus Bandkeramiker-Zeit im Baugebiet "Auf der Weide"
+  archaeologischer_fund_lage: Oberhalb des Knappbachs
+  wettbewerb_dolles_dorf: 2013 "Goldener Onkel Otto" von Ministerpräsident Bouffier (HR-Wettbewerb)
+GUELTIG_AB: 774
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 176-idstein/029
+ENTITÄT: stadtteil
+BEZEICHNUNG: Wörsdorf
+ORTSTEIL_BEZUG: Wörsdorf
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_stand_30_06_2026: 3614
+GUELTIG_AB: 1971
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/030
+ENTITÄT: stadtteil
+BEZEICHNUNG: Idstein-Kern
+ORTSTEIL_BEZUG: Idstein-Kern
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_stand_30_06_2026: 17571
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/031
+ENTITÄT: person
+BEZEICHNUNG: Christian Herfurth
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Bürgermeister der Stadt Idstein
+  partei: CDU
+  stand_datum: 30.06.2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/032
+ENTITÄT: person
+BEZEICHNUNG: Wolfgang Müller
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/zahlen-daten-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Erster Stadtrat der Stadt Idstein
+  partei: Bündnis90/Die Grünen
+  stand_datum: 30.06.2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/033
+ENTITÄT: person
+BEZEICHNUNG: Adolf von Nassau-Idstein
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Graf
+  titel_aenderung: Deutscher König
+  deutschkoenig_periode: 1292-1298
+  deutschkoenig_vorgaenger: Rudolf von Habsburg
+  amtsantritt_stadtrecht: 1287
+  stadt_idstein_stadtrechte_verliehen_durch: König Rudolf von Habsburg
+GUELTIG_AB: 1287
+GUELTIG_BIS: 1298
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/034
+ENTITÄT: person
+BEZEICHNUNG: Georg August Samuel
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/besondere-orte/schlossgarten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Fürst
+  territorium: Nassau-Idstein
+  letzter_idsteiner_fuerst: ja
+  regierungszeit_ca: 1665/1684-1721
+  ereignis_bedeutung: Mit seinem Tod endete Idstein als Residenzstadt
+  schloss_innenausstattung_auftraggeber: ja (von namhaften Künstlern)
+GUELTIG_AB: 1665
+GUELTIG_BIS: 1721
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/035
+ENTITÄT: person
+BEZEICHNUNG: Fürst Georg August Samuel
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Fürst
+  stadterweiterung_massnahme: "Barocke Vorstadt" ab 1685 planmäßig nach Abriss der Stadtmauer angelegt
+  stadterweiterung_bauweise: Typisierte Bauweise auf kleinen Parzellen
+GUELTIG_AB: 1685
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/036
+ENTITÄT: person
+BEZEICHNUNG: Johann Conrad Killing
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Gräflicher Amtsschreiber
+  erbautes_gebaeude: Killingerhaus
+  erbautes_gebaeude_jahr: 1615
+  frau: Anna Margareta Löber
+  sterbejahr: 1630
+GUELTIG_AB: 1615
+GUELTIG_BIS: 1630
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/037
+ENTITÄT: person
+BEZEICHNUNG: Valentin Hoffmann
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/besondere-orte/schlossgarten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Hofmaler
+  auftraggeber: Graf Johannes von Nassau-Idstein
+  werk: Blumenbuch-Illustrationen (Florilegium)
+  kunstwerk_medium: Gouache auf Pergament
+  kunstwerk_menge: Fast 200 Darstellungen (später 9 Werke signiert)
+  zeitraum_arbeit: 1. Hälfte der Arbeiten (später Johann Walter)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/038
+ENTITÄT: person
+BEZEICHNUNG: Johann Walter
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/besondere-orte/schlossgarten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Künstler (Straßburg)
+  herkunft: Straßburg
+  auftraggeber: Graf Johannes von Nassau-Idstein
+  werk: Blumenbuch-Illustrationen (Florilegium)
+  kunstwerk_medium: Gouache auf Pergament
+  kunstwerk_zeichen: Gemälde "Darstellung des zweigeteilten Gartens im Frühling", 1663
+  gemaelder_verlust: Persönliches Exemplar verbrannte 1944 in Darmstädter Bibliothek
+  zeitraum_arbeit: 2. Teil der Arbeiten (nach Valentin Hoffmann)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/039
+ENTITÄT: person
+BEZEICHNUNG: Schinderhannes
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/heftrich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  legendaer_beruechtigung: Legendärer Räuber
+  ereignis: Erpressung des Müllers der Fuchsmühle
+  ereignis_jahr: 1801
+  ereignis_ort: Fuchsmühle unweit des Heftricher Moores
+GUELTIG_AB: 1801
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 176-idstein/040
+ENTITÄT: person
+BEZEICHNUNG: Cäcilie Zeitlose Wicht
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/heftrich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Standhafte mutige Pfarrfrau
+  ereignis: Opfer der Idstein-Nassauischen Hexenverfolgung
+  ereignis_jahr: 1676
+  wohnort: Heftrich
+GUELTIG_AB: 1676
+GUELTIG_BIS: 1676
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/041
+ENTITÄT: person
+BEZEICHNUNG: Ernst Toepfer
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Kunstmaler
+  residenz: Höerhof
+  baujahr_residenz_erweiterung: 1911 (Ausbau und Wiedereinbau Fenstererker)
+  heimatname: Toepferhaus
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/042
+ENTITÄT: person
+BEZEICHNUNG: Georg Grandpierre
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit: 1899
+  werk: Gründung der Idsteiner Zeitung
+  werk_nutzung: Druckerei und Verlagshaus bis heute
+  residenz: Obergasse Nr. 16
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/043
+ENTITÄT: ereignis
+BEZEICHNUNG: Hexenverfolgung
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/hexenturm/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_zeit: 17. Jahrhundert
+  ereignis_ort: Idstein
+  hexenturm_namenherkunft: Volkstümlich ab 19. Jh., nicht mit Hexenverfolgung verbunden
+  beschreibung: Historische Verfolgungen im 17. Jahrhundert
+GUELTIG_AB: 1600
+GUELTIG_BIS: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 176-idstein/044
+ENTITÄT: ereignis
+BEZEICHNUNG: Großbrand Walsdorf
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/walsdorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_jahr: 1692
+  beschreibung: Fast der ganze Ort brannte ab
+  ereignis_ort: Walsdorf
+  folgen: Wiederaufbau
+GUELTIG_AB: 1692
+GUELTIG_BIS: 1692
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/045
+ENTITÄT: ereignis
+BEZEICHNUNG: Großbrand Walsdorf
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/walsdorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_jahr: 1831
+  beschreibung: Zweiter großer Brand
+  ereignis_ort: Walsdorf
+  folgen: Entstehen der charakteristischen Scheunenfron auf mittelalterlicher Ringmauer am Ostrand
+GUELTIG_AB: 1831
+GUELTIG_BIS: 1831
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/046
+ENTITÄT: ereignis
+BEZEICHNUNG: Hessentag 2002
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/dasbach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_jahr: 2002
+  ereignis_ort: Idstein (Dasbach)
+  anlass: Rekonstruktion römischer Wachturm auf Dasbacher Höhe
+  beschreibung: Rekonstruierter römischer Wachturm am Welterbe Limes
+GUELTIG_AB: 2002
+GUELTIG_BIS: 2002
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/047
+ENTITÄT: ereignis
+BEZEICHNUNG: Münzfund
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_jahr: 1928
+  ereignis_ort: Zum Löwen
+  fund_beschreibung: Münzschatz mit um 1370 geprägten Münzen
+GUELTIG_AB: 1928
+GUELTIG_BIS: 1928
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/048
+ENTITÄT: ereignis
+BEZEICHNUNG: Gebietsreform
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_zeit: ab 1971
+  beschreibung: Eingemeindung von elf ehemals selbstständigen Dörfern zu Stadt Idstein
+  zahl_doerfer: 11
+  doerfer: Dasbach, Ehrenbach, Eschenhahn, Heftrich, Kröftel, Lenzhahn, Niederauroff, Nieder-Oberrod, Oberauroff, Walsdorf, Wörsdorf
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/049
+ENTITÄT: industrie
+BEZEICHNUNG: Lederindustrie
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Idstein
+  periode: Ende 18. Jahrhundert bis Mitte 20. Jahrhundert
+  beschreibung: Bedeutende Lederindustrie, Standort einer bedeutenden Produktion
+  verfall: Nach Hochwasser 1956 zum Erliegen gekommen
+GUELTIG_AB: 1750
+GUELTIG_BIS: 1950
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/050
+ENTITÄT: industrie
+BEZEICHNUNG: Lederverarbeitung
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/ehrenbach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Ehrenbach
+  periode_vergleich: Bis heute betrieben, in Idstein nach 1956 beendet
+  beschreibung: Lederverarbeitung wird in Ehrenbach fortgesetzt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/051
+ENTITÄT: industrie
+BEZEICHNUNG: Bergwerk
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/heftrich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Heftrich
+  abbau_stoffe: Blei, Kupfer, Silber
+  periode: ab 1900 für 30 Jahre
+  beschreibung: Bestimmte die örtliche Wirtschaft für 30 Jahre
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1930
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/052
+ENTITÄT: bauwerk
+BEZEICHNUNG: Obergasse Nr. 1
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: 1595
+  stil: Spätrenaissance
+  besonderheit: Giebelständiger Bau mit geschwungenen Streben, durchflochtenen Brüstungsrauten, Flachschnitzerei am Eckständer
+  historischer_name: Gasthaus zum Hirsch
+  name_19_jh: Haus Cahn (benannt nach Besitzer Lazarus Cahn)
+  nachfolgende_nutzung: Friseur Höhn, später Schneider Karl Schmidt
+  spitzname: Usse-Schmidte-Haus
+GUELTIG_AB: 1595
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/053
+ENTITÄT: bauwerk
+BEZEICHNUNG: Deutsches Haus
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: 1750
+  stil: Barock
+  besonderheit: Traufständiger Bau mit großem Zwerchhaus
+  historischer_name: Deutscher Kaiser
+  historische_nutzung: Keller diente zu Tanzveranstaltungen
+  spezialnutzung: Paukboden (Studenten schlagender Verbindungen maßen sich beim Pauken mit dem Säbel)
+GUELTIG_AB: 1750
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/054
+ENTITÄT: bauwerk
+BEZEICHNUNG: Zum Schwanen
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: 1598
+  besonderheit: Historisches Gasthaus an Ecklage zur Unionskirche
+  ausstattung: Auffallend stark profilierte Gebälkzone mit sichtbaren Balkenköpfen
+  sanierung_jahr: 1989
+  sanierungsmassnahmen: Innenumbau, neue Gauben
+GUELTIG_AB: 1598
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/055
+ENTITÄT: bauwerk
+BEZEICHNUNG: Sattlerhaus
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: 1680
+  erbauer_beruf: Steinbildhauer
+  erbauer_name: Johann Martin Sattler
+  ursprungsort: Löhergasse
+  bewegung: Translozierung für Löherplatzbebauung
+  stil: Hessischer Typ mit symmetrischer Fassadenordnung
+  besonderheit: Mittelerker mit Giebel, Brüstungstafel, schmale Fensterachsen mit Andreaskreuzen
+GUELTIG_AB: 1680
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/056
+ENTITÄT: bauwerk
+BEZEICHNUNG: Obergasse Nr. 14
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: 1596
+  lage: Kopfbau im spitzen Winkel von Kaffee- und Obergasse
+  stil: Renaissance
+  ausstattung: Massives Erdgeschoss, Hauptkeller mit Tonnengewölbe, drei Schweifgiebel mit Flachschnitzerei
+  schmuckwerk: Vielfältige Brüstungsornamentik mit geschnitzten Eckständern, Säulen-, Ranken- und Maskenmotiven
+  fenster: Sandstein-Fenstergewände in Renaissanceformen
+  historische_nutzung: Bis Beginn 20. Jh. Wohnsitz des Dekans der ev. Kirche (zugleich Schulinspektor)
+GUELTIG_AB: 1596
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/057
+ENTITÄT: bauwerk
+BEZEICHNUNG: Obergasse Nr. 16
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: ab 1612
+  ursprung: Ehemaliger Adelshof
+  historische_nutzung: Später Gasthaus "Zur Weißen Taube"
+  bau: Lang gestreckter Bau mit massivem Erdgeschoss
+  stil: Renaissance
+  fenster: Klar gegliederte Fensterfront mit flachen Feuerböcken
+  institutionen: 1818 Nassauisches Institut für Landwirtschaft, später Lehrerseminar
+  zeitungsgründung: 1899 Gründung Idsteiner Zeitung durch Georg Grandpierre
+  heutige_nutzung: Druckerei und Verlagshaus bis heute
+  kunstwerk: Reliefmedaillons von Ferdinand Abt
+  architekturdetail: Beachenswert auch das Hoftor
+GUELTIG_AB: 1612
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/058
+ENTITÄT: bauwerk
+BEZEICHNUNG: Obergasse Nr. 24
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: 16. Jahrhundert
+  grundriss: Winkelförmiger Grundriss
+  fassade: Hauptfassade mit reich verziertem Renaissance-Schweifgiebel
+  schmuckwerk: Geometrisches Schmuckwerk und Blattornamente
+  besonderheit: Nördliche Giebelseite mit Ständer und aufgeblatteten Riegeln ergibt fast quadratisches Raster
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/059
+ENTITÄT: bauwerk
+BEZEICHNUNG: Höerhof
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr_nordbau: 1620
+  erbauer_beruf: Bauschreiber des Idsteiner Schlosses
+  erbauer_name: Henrich Heer
+  erweiterung_titel: Fränkischer Hof
+  erweiterung_jahre: ab ca. 1700
+  lage: Auf hohem Massivgeschoss
+  stil: Spätrenaissance
+  schmuckwerk: Straßenseitig schmückendes Schnitzwerk, Fenstererker im Obergeschoss mit reich geschnitzten Brüstungsplatten
+  fenstererker_herkunft: Ursprünglich vom Killingerhaus (Obergasse 1)
+  fenstererker_versetzung_jahr: 1911 durch Kunstmaler Ernst Toepfer
+  hausname: Toepferhaus
+  heutige_nutzung: 1992 Umbau zu Hotel und Restaurant
+GUELTIG_AB: 1620
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/060
+ENTITÄT: bauwerk
+BEZEICHNUNG: Barocke Vorstadt
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geplante_entstehung_jahr: ab 1685
+  grund: Nach Abriss der Stadtmauer durch Fürst Georg August Samuel
+  zweck: Stadterweiterung
+  bauweise: Typisierte Bauweise auf kleinen Parzellen
+  charakteristika: Alle Häuser gleich hoch (Geschosshöhe 2,60 m), unterschiedlich in Breite und Tiefe
+GUELTIG_AB: 1685
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/061
+ENTITÄT: bauwerk
+BEZEICHNUNG: Borngasse Nr. 23
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: 1704
+  bezeichnung: Typisches Haus in der Barocken Vorstadt
+  besonderheit: Hölzernes Hoftor, "Idsteiner Eingang"
+GUELTIG_AB: 1704
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/062
+ENTITÄT: staedtische_flaeche
+BEZEICHNUNG: Weiherwiese
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristika: Typische Straße in der Barocken Vorstadt
+GUELTIG_AB: 1685
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 176-idstein/063
+ENTITÄT: staedtische_flaeche
+BEZEICHNUNG: Kreuzgasse
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristika: Teil der barocken Vorstadt, Straßenzug mit kleinsten Häusern (2 Zonen, 3 Achsen)
+  entstehung_ab: 1700
+  namensherkunft: Benannt nach früherer Kreuzigungsgruppe auf dem Marktplatz
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/064
+ENTITÄT: staedtische_flaeche
+BEZEICHNUNG: Marktplatz
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  haeuser_nummern: 8, 10, 12
+  entstehung_hauptgruppe: 18. Jahrhundert
+  modernisierung_nummer_12: Um 1900 (Ladeneinbau, Kniestock/Drempel mit Zwerchhaus)
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/065
+ENTITÄT: bauwerk
+BEZEICHNUNG: Zum Tal
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: 1710
+  urspungsform: Schlichter fünfachsiger Traufenbau mit Mitteleingang
+  erhaltenes_fachwerkelement: Eckstrebe mit Andreaskreuz
+  veraenderung: Durch Straßendurchbruch neue Ecklage
+  zwerchhaus_hinzufuegung: 19. Jahrhundert
+GUELTIG_AB: 1710
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/066
+ENTITÄT: bauwerk
+BEZEICHNUNG: Zur Peif
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: 1615
+  erbauer_beruf: Magister (religiöser Titel)
+  erbauer_name: Tobias Weber
+  erbauer_familienverhaeltnis: Sohn und Nachfolger des ersten lutherischen Stadtpfarrers Anton Weber
+  historische_nutzung: Brauerei und Rathausapotheke
+  bautyp: Dreigeschossiger Bau über niedrigem massivem Erdgeschoss
+  stil: Renaissance
+  ausstattung: Geschweifte Bundstreben mit beidseitigen Andreaskreuzen, geschnitzte Feuerböcke, Beschlagwerks-Schnitzereien
+  giebel_schmuck: Reiche Beschlagwerks-Schnitzereien an Eckständern und Brüstungsplatten im geschweiften Giebel
+  profilierung: Aufwendige Profilierung von Rähm und Schwelle
+GUELTIG_AB: 1615
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/067
+ENTITÄT: bauwerk
+BEZEICHNUNG: König-Adolf-Platz Nr. 4
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: um 1700
+  lage: Unterhalb des Kanzleitors
+  bautyp: Langgestrecktes, traufständiges, zweigeschossiges Wohnhaus
+  besonderheit: Ungewöhnlich starke Balken mit drei Mannfiguren und Schweifstreben
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/068
+ENTITÄT: bauwerk
+BEZEICHNUNG: Taunushof
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr_erbauungszeit: Stark dimensionierte Eckständer mit verzierten Knaggen
+  erneuerung_jahr: 1994
+  ausstattung: Genaste Andreaskreuze unterhalb der Fenster im ersten Obergeschoss
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 176-idstein/069
+ENTITÄT: bauwerk
+BEZEICHNUNG: Zum Löwen
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Ehemaliges gräfliches bzw. fürstliches Gasthaus
+  bauart: Neuaufbau anstelle eines älteren Gebäudes
+  bautyp: Giebelhaus
+  erhaltenes_fachwerk: Teile des Schmuckfachwerks aus der Erbauungszeit
+  ausstattung: Geschnitzte Eckständer im ersten Obergeschoss
+  tuer: Aufwendig geschnitzte barocke Holztür des 18. Jahrhunderts mit zwei Löwen
+  keller: Mittelalterlicher Gewölbekeller
+  münzfund_jahr: 1928
+  muenzfund_beschreibung: Fund eines Münzschatzes mit um 1370 geprägten Münzen
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/070
+ENTITÄT: staedtische_flaeche
+BEZEICHNUNG: König-Adolf-Platz
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezeichnung: Zentrum der Stadt und ihre gute Stube
+  charakteristika: Umgeben von Fachwerkgebäuden, die größtenteils um 1600 datieren
+  bebauung_rathaus: Rathaus (1698)
+  bebauung_schiefes_haus: Schiefes Haus (1728 erbaut von Major Nicolay)
+  bebauung_kanzleitor: Kanzleitor (seit 1497 Zugang zum Schlossbezirk)
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/071
+ENTITÄT: staedtische_flaeche
+BEZEICHNUNG: Obere Schlossgasse
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakteristika: Gebäudegruppe der alten Burganlage (Vorburg mit Wirtschaftsgebäuden)
+  entstehung: Bis 1565 errichtet
+  bauweise: Massives Untergeschoss mit Fachwerk-Obergeschossen
+  obergeschoss_merkmale: Geschosshohe Schweifstreben
+  giebel: Reich gestaltet mit geschnitzten Eckständern (gedrehte Säule mit Engelskopf) und Pflanzenornamenten im Schweifgiebel
+  nutzung: Stadtverwaltung
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1565
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/072
+ENTITÄT: bauwerk
+BEZEICHNUNG: Altes Amtsgericht
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: 1588
+  funktion_ursprung: Letzter Erweiterungstrakt der Vorburg
+  bauweise: Massiver Steinbau mit achteckigem Treppenturm
+  geschichtliche_funktion: 1867-1938 Amtsgericht (preußische Zeit nach 1866)
+  giebel_merkmal: Geschweifter Nordgiebel mit reicher Fachwerkzier
+  giebel_sanierung: 1992 erneuert
+  heutige_nutzung: Erdgeschoss Stadtarchiv
+GUELTIG_AB: 1588
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/073
+ENTITÄT: denkmal
+BEZEICHNUNG: Limes
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/dasbach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: UNESCO-Welterbe
+  beschreibung: Römische Grenzanlage
+  rekonstruktion_wachturm: 2002 auf Dasbacher Höhe fertiggestellt
+  ausflugsziel: Beliebtes Ausflugsziel für Freunde römischer Geschichte
+GUELTIG_AB: -200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/074
+ENTITÄT: denkmal
+BEZEICHNUNG: Stolpersteine
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Gedenksteine für Opfer von Verfolgung
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 176-idstein/075
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Kriegsgräberstätte Idstein
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Kriegsgräberstätte
+  beschreibung: Gedenkstätte für Kriegsgefallene
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 176-idstein/076
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Kalmenhof Opfergedenken
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Gedenkstätte
+  beschreibung: Opfergedenken auf städtischem Friedhof
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 176-idstein/077
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Römerkastelle Heftrich
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/heftrich/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: Zwei
+  beschreibung: Zwei ehemalige Römerkastelle
+  lage: Alteburg (Marktgelände)
+  nachgewiesene_qualitaet: Nachgewiesen
+GUELTIG_AB: -50
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/078
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Römerturm Kröftel
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/kroeftel/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Gut sichtbar und beschildert sind die Reste des Welterbe Limes
+  lage: Gemarkung Kröftel
+GUELTIG_AB: -50
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/079
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Römerturm Lenzhahn
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/lenzhahn/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Nächstgelegener Römerturm stand kaum einen Kilometer vom heutigen Ort entfernt
+  lage: Lenzhahn
+  limesverlauf: Durch Norden der Lenzhahner Gemarkung auf der Wasserscheide Lahn-Main
+GUELTIG_AB: -50
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/080
+ENTITÄT: archaeologischer_fund
+BEZEICHNUNG: Steinzeitsiedlung Walsdorf
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/walsdorf/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausgrabungsjahr: 2011
+  periode: Bandkeramiker
+  lage: Baugebiet "Auf der Weide", oberhalb des Knappbachs
+  besonderheit: Seltener Brunnen aus Bandkeramiker-Zeit
+  spektakularitaet: Archaeologisch spektakulärer Fund
+GUELTIG_AB: -5000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/081
+ENTITÄT: person
+BEZEICHNUNG: Anton Weber
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Erster lutherischer Stadtpfarrer
+  familienbeziehung: Vater von Tobias Weber
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 176-idstein/082
+ENTITÄT: person
+BEZEICHNUNG: Henrich Heer
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Bauschreiber des Idsteiner Schlosses
+  erbauer: Nordbau des Höerhofs (1620)
+GUELTIG_AB: 1620
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/083
+ENTITÄT: person
+BEZEICHNUNG: Johann Martin Sattler
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Steinbildhauer
+  erbauer: Sattlerhaus (1680)
+GUELTIG_AB: 1680
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/084
+ENTITÄT: person
+BEZEICHNUNG: Lazarus Cahn
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Obergasse Nr. 1
+  hausname: Haus Cahn (19. Jahrhundert)
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 176-idstein/085
+ENTITÄT: person
+BEZEICHNUNG: Karl Schmidt
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Schneider
+  wohnsitz: Obergasse Nr. 1
+  hausname: Usse-Schmidte-Haus (ab 1902)
+GUELTIG_AB: 1902
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 176-idstein/086
+ENTITÄT: person
+BEZEICHNUNG: Johann Jacob Nicolay
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Major der Landmiliz
+  erbauer: Schiefes Haus (1725)
+GUELTIG_AB: 1725
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/087
+ENTITÄT: person
+BEZEICHNUNG: Herzogin Luise von Nassau-Usingen
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/besondere-orte/schlossgarten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beziehung_zu_idstein: Nachlass enthält zwei Bände der Idsteiner Blumenbücher
+  fundort_baende: Städel, Frankfurt
+  verwahrung_prior: 200 Jahre in Museumsdespot
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/088
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum Idstein
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Killingerhaus
+  darstellung: Anschauliche Darstellung der 900jährigen Geschichte der Stadt
+  ausstellungsumfang: Zahlreiche Ausstellungsstücke aus mehreren Jahrhunderten
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/089
+ENTITÄT: institution
+BEZEICHNUNG: Nassauisches Institut für Landwirtschaft
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1818
+  lage: Obergasse Nr. 16
+  nachfolge: Lehrerseminar
+GUELTIG_AB: 1818
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/090
+ENTITÄT: institution
+BEZEICHNUNG: Idsteiner Zeitung
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1899
+  gruender: Georg Grandpierre
+  lage: Obergasse Nr. 16
+  nutzung: Druckerei und Verlagshaus bis heute
+GUELTIG_AB: 1899
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/091
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Florilegium (Blumenbücher)
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/besondere-orte/schlossgarten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Florilegium (Blumenbuch)
+  auftraggeber: Graf Johannes von Nassau-Idstein
+  kuenstler_1: Valentin Hoffmann (Hofmaler)
+  kuenstler_2: Johann Walter (Straßburg)
+  seiten_ca: 200
+  medium: Gouache auf Pergament
+  dekoration: Zwei dekorative und aufwändige Bände
+  ausstattung: Dezidierte Detailierung der üppigen Ausstattung zu verschiedenen Zeiten
+  bestand_beschraenkung: Graf bestimmte, dass die Blumenbücher das Haus Nassau nie verlassen dürften
+  verlust_spur: Im Laufe der Jahrhunderte verlor sich die Spur
+  fund_orte: Victoria & Albert Museum London, Bibliothèque nationale de France Paris, Städel Frankfurt
+  verlust_kriegs: Ein persönliches Exemplar von Johann Walter verbrannte 1944 in Darmstädter Bibliothek
+  neufunde_qualitaet: Zwei Frankfurter Bände neu identifiziert mit neun signierten Hoffmann-Werken
+GUELTIG_AB: 1650
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/092
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Gemälde des Gartens
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/besondere-orte/schlossgarten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Darstellung des zweigeteilten Gartens im Frühling
+  kuenstler: Johann Walter
+  jahr: 1663
+  thema: Schlossgarten Idstein
+GUELTIG_AB: 1663
+GUELTIG_BIS: 1663
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/093
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Reliefmedaillons
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/fachwerk/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Ferdinand Abt
+  lage: Obergasse Nr. 16
+  beschreibung: Beachtenswert als Kunstwerk
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 176-idstein/094
+ENTITÄT: ort
+BEZEICHNUNG: Idstein
+QUELLE: https://www.idstein.de/leben-in-idstein/stadtportraet/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadt_rang: Stadt (Hochschulstadt laut Magistrat)
+  administrative_struktur: Besteht aus elf Stadtteilen (ehemals selbstständige Dörfer)
+  stadtteile_anzahl: 11
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/095
+ENTITÄT: person
+BEZEICHNUNG: Rudolf von Habsburg
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: König (Deutscher König)
+  amtshandlung: Verleihung der Stadtrechte an Idstein 1287
+  nachfolger: Adolf von Nassau
+GUELTIG_AB: 1273
+GUELTIG_BIS: 1291
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 176-idstein/096
+ENTITÄT: person
+BEZEICHNUNG: Balthasar
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Graf
+  territorium: Nassau-Idstein
+  lebensdaten: 1520/1564-1568
+  kulturelle_aktivitaet: Anlegung eines Lustgartens 1566
+  nachfolger: Graf Johannes
+GUELTIG_AB: 1564
+GUELTIG_BIS: 1568
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 176-idstein/097
+ENTITÄT: historischer_ereignis
+BEZEICHNUNG: Stadtrecht Verleihung
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_jahr: 1287
+  verliehen_von: König Rudolf von Habsburg
+  verliehen_an: Idstein (durch Graf Adolf von Nassau-Idstein)
+  bedeutung: Gründung der Stadt als Rechtsperson
+GUELTIG_AB: 1287
+GUELTIG_BIS: 1287
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 176-idstein/098
+ENTITÄT: ort
+BEZEICHNUNG: Idstein
+QUELLE: https://www.idstein.de/tourismus/baukunst-geschichte/baukunst-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fachwerkgebaeude_anzahl_ca: 200
+  fachwerkgebaeude_zeitraum: 1410 bis Mitte 18. Jahrhundert
+  fachwerkgebaeude_stil: Überwiegend hessisch-fränkisch
+  altstadt_denkmalschutz: Denkmalgeschützte Altstadt mit alten Gassen
+  fachwerkgebaeude_restauration: Liebevoll restauriert
+GUELTIG_AB: 1410
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

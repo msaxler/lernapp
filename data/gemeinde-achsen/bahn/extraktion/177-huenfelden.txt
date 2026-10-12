@@ -1,0 +1,465 @@
+ENTITÄT: ort
+BEZEICHNUNG: Hünfelden
+QUELLE: https://www.huenfelden.de/leben-in-huenfelden/ortsteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Gemeinde
+  ortsteile: Dauborn, Gnadenthal, Kirberg, Mensfelden, Heringen, Neesbach, Nauheim, Ohren
+  verwaltungssitz: Kirberg
+  einwohnerstärkster_ortsteil: Dauborn
+  gebietsreform: 1971 fusionierte Nauheim mit sechs Anreinern zur Gemeinde Hünfelden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kirberg
+QUELLE: https://www.huenfelden.de/leben-in-huenfelden/ortsteile/kirberg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verwaltungssitz: true
+  charakterisierung: Fülle an restaurierten Fachwerkbauten
+  sehenswuerdigkeiten: Stein'sche Haus, restaurierte Burgruine mit Aussichtsturm, Reste alter Stadtmauer, Heimatmuseum
+  heimatmuseum_standort: Altes Rathaus
+  evangelische_pfarrgemeinde: true
+  geschichte_frueh: vor 786 drei Landhöfe in Bubenheim an Kloster Hersfeld
+  kirchdorf_erwaehnung: 1336 Urkunde über Abgaben von Kirchdorf, Sindersbach, Bubenheim
+  grafen_von_dietz_autorität: landesherrliche Gewalt
+  grafen_von_nassau_autorität: Vogtei und Gerichtshof seit 1465
+  konflikt_1353: Auseinandersetzung zwischen Graf Johann von Nassau-Merenberg und Dietz
+  vertragsabschluss: 1355 Abtretung der landesherrlichen Gewalt an Nassau
+  gemeinschaftsgruendung_1355: gemeinsamer Beschluss zum Bau einer Landesburg und gemeinsamen Amtmann
+  dietz_rückerwerbung: 1388 ging die Hälfte an Grafen von Dietz zurück
+  dietz_besitz_bis: 1806 gemeinsam mit Nassau-Saarbrücken
+  amtmann_position_aufloesung: um 1560
+  ursprüngliche_kirche: wahrscheinlich bald nach 790 errichtet
+  kirchdorf_name: ursprünglicher Name
+  kirche_jurisdiktion: zwischen Dörsbach und Weil sowie zwischen Lahn und Höhenzug
+  ruralkapitel_sitz: während Mittelalter
+  kirche_schliessung_1308: an Stift Dietz angeschlossen
+  kirche_abriss_und_burg: 1355 Abriss der Kirche, Bau einer Burg
+  kirchburg_name: neuer Name nach Stadterweiterung
+  burgherren: Spechte von Bubenheim, Reiffenbergs bis 1593, von Heppenheft (1491 Schütz von Holzhausen), von Heiden, von Bergen, von Ried, von Stein
+  brände_zerstoerungen: mehrfache schwere Brände
+  wiederaufbau: 1711 nach regulärem Plan
+  heutige_kirche_bau: 1355
+  nebenaltäre: vier mit Altardienern
+  ruralkapitel_gebaeude: eigenes Gebäude
+  reformation_verbreitung: um 1530
+  schule_errichtung: 1555
+  kapellanei_errichtung: 1555, existierte bis 1818
+  kirchensatz_besitz: gemeinsam Nassau-Saarbrücken und Oranien-Nassau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: rathaus
+BEZEICHNUNG: Altes Rathaus Kirberg
+ORTSTEIL_BEZUG: Kirberg
+QUELLE: https://www.huenfelden.de/freizeit-tourismus/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprüngliche_funktion: Adelshof
+  erbaut: Ende des 18. Jahrhunderts
+  amtssitz_zeitraum: 19. Jahrhundert bis nach 1970
+  architektur_merkmale: Schopf-Mansardendach, gerundeter Zwerchgiebel
+  eingangstuer_stil: frühklassizistisch
+  nutzung_heute: Heimatmuseum
+GUELTIG_AB: 1790
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historisches_gebaeude
+BEZEICHNUNG: Stein'sche Haus
+ORTSTEIL_BEZUG: Kirberg
+QUELLE: https://www.huenfelden.de/freizeit-tourismus/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1481
+  urspruengliche_funktion: Amtshaus derer von Reifenberg
+  benannt_nach: Familie vom Stein, die es später übernahm
+  architekturstil: Spätgotik
+  restaurierungszustand: restauriert
+GUELTIG_AB: 1481
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burgruine Kirberg
+ORTSTEIL_BEZUG: Kirberg
+QUELLE: https://www.huenfelden.de/freizeit-tourismus/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: um 1355
+  erbauer: Grafen von Diez und Nassau-Weilburg
+  grund_erbauung: Schlichtungshandlung nach Fehde zwischen beiden
+  grund_errichtung: gemeinsamer Beschluss nach Konflikt 1353
+  nutzung_bis: Ende des 17. Jahrhunderts
+  erhaltungszustand: nur Grundmauern erhalten
+  heutiger_zustand: Burgruine mit Aussichtsturm
+  beschreibung: auf isoliert stehendem Schalsteinfelsen
+GUELTIG_AB: 1355
+GUELTIG_BIS: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Kaisermanöverdenkmal Nauheimer Kopf
+ORTSTEIL_BEZUG: Nauheim
+QUELLE: https://www.huenfelden.de/freizeit-tourismus/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlass: Manöverkritik Kaiser Wilhelm II. am 15. September 1905
+  standort: Nauheimer Kopf (Hügel)
+  ereignis: Kaiser Wilhelm II. hielt Manöverkritik ab
+  ereignis_kontext: Truppen hatten bei Bad Homburg Aufstellung zu Scheingefechten
+GUELTIG_AB: 1905
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Mensfelder Kopf
+ORTSTEIL_BEZUG: Mensfelden
+QUELLE: https://www.huenfelden.de/freizeit-tourismus/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Flora-Fauna-Habitat Gebiet
+  hoehe: 314 [Meter]
+  lage: am Rande des Kirberger Hügellandes zum Übergang in das Limburger Becken
+  vegetation: Heidelandschaft
+  besonderheit: Quarzitsvorkommen, nur partiell bewaldet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Rotes Meer
+ORTSTEIL_BEZUG: Heringen
+QUELLE: https://www.huenfelden.de/freizeit-tourismus/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  komponenten: Ufer- und Wasserflächen, angrenzende Wiesen- und Auenflächen
+  funktion: Nahrungs- und Brutreviere für heimische Tierarten
+  fauna: Rotmilan, Schwarzmilan, Wachteln, Uhu, Schwarzstorch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naherholungsgebiet
+BEZEICHNUNG: Weißer Berg
+ORTSTEIL_BEZUG: Kirberg
+QUELLE: https://www.huenfelden.de/freizeit-tourismus/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nutzung: Wandern mit ursprünglichen Pfaden
+  radweg: unterhalb des Berges, verbindet Kirberg und Dauborn
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: fundstaette
+BEZEICHNUNG: Hügelgräber Ohren
+ORTSTEIL_BEZUG: Ohren
+QUELLE: https://www.huenfelden.de/freizeit-tourismus/sehenswertes/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: eisenzeitliche Grabhügel
+  zeitraum: etwa 800 v. Chr. bis Zeitenwende
+  bedeutung: Zeugnisse vergangener Kulturen, Einblicke in Sozialstruktur, Glauben und Handwerkskunst
+GUELTIG_AB: -800
+GUELTIG_BIS: 1
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: fundstaette
+BEZEICHNUNG: Glauberg
+ORTSTEIL_BEZUG: Wetteraukreis
+QUELLE: https://www.huenfelden.de/freizeit-tourismus/sehenswertes/huegelgraeber/fundorte-eisenzeitlicher-graeber/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Wetteraukreis
+  superlativ: "wichtigste eisenzeitliche Fundstätte Hessens und von europaweiter Bedeutung"
+  entdeckung: 1990er Jahre
+  prunkgraeber_anzahl: drei
+  fund_hauptwerk: Statue des Keltenfürsten vom Glauberg
+  statue_material: Sandstein
+  statue_groesse: lebensgroße
+  statue_merkmale: charakteristische "Mittelmeerstulpe" (Haartracht oder Helm)
+  grabhügel_anzahl: zwei große (Hügel 1 und 2)
+  grabenwerk: rätselhaftes Grabenwerk, astronomisch ausgerichtet
+  funktion: Machtzentrum mit befestigter Höhensiedlung und ritueller Prozessionsstraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Pflege- und Adoptivfamilien Limburg-Weilburg e.V.
+ORTSTEIL_BEZUG: Neesbach
+QUELLE: https://www.huenfelden.de/strukturierte-daten/vereine/pflege-und-adoptivfamilien-limburg-weilburg-e-v/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besteht_seit: Ende der 70er Jahre
+  eintragung: 1992
+  zweck: Netzwerk und Anlaufstelle für Familien zu Fragen Pflege und Adoption
+  adresse: Neesbacher Str. 17, 65597 Hünfelden
+  email: kontakt@pflege-und-adoptivfamilien.de
+  vorsitzende: Frau Monika Pfeiffer
+  kategorie: Soziales
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ohren
+QUELLE: https://www.huenfelden.de/leben-in-huenfelden/ortsteile/ohren/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: südlichster Ortsteil der Gemeinde
+  grenzenachbarschaft: nordwestlich Kirberg (Verwaltungssitz), nordöstlich Dauborn (einwohnerstärkster)
+  lage_handelsstrasse: an der alten Trasse der Hühnerstraße
+  handelsstrasse_herkunft: geht auf die Kelten zurück
+  handelsstrasse_funktion: verband Rheinland mit Taunus und Wetterau
+  erstmals_erwaehnt: 1301
+  entstehungszeitraum: Spätphase der mittelalterlichen Binnenkolonisation
+  umgebung: dicht bewaldete Umgebung auf eher mageren Böden
+  bechtheimer_gebück: um 1355 südlich der Gemarkung angelegt
+  gebück_typ: Grenzbefestigung aus Hecken
+  gebück_verlauf_heute: bildet etwa den Verlauf der Gemeinde- und Landkreisgrenze ab
+  friedhof_und_kapelle: 1612 eigener Friedhof und Kapelle mit eigenem Kirchenvorstand
+  kirchliche_zugehoerigkeit: blieb der Pfarrei Kirberg zugeordnet
+  kriegszustand: am Ende des Dreißigjährigen Krieges nahezu entvölkert
+  schule_erbaut: 1717
+GUELTIG_AB: 1301
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Nauheim
+QUELLE: https://www.huenfelden.de/leben-in-huenfelden/ortsteile/nauheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmals_erwaehnt_urkundlich: 1235
+  vermutet_aelter: true
+  urspruengliche_funktion: vermutlich Fronhof der Merowinger
+  grund_gruendung: Lage an der Hünerstraße
+  urspruengliche_grafschaft: Grafschaft Diez
+  uebertragung_nassau_weilburg: 1355 hälftig
+  gerichtssitz_verlagerung: ging nach Kirberg über
+  zweite_haelfte_nassau: 1388
+  haeufige_verpaendungen: nach 1355
+  kirche_spaetestens: 1262
+  pfarrhaus_1502: 1502
+  pfarrhaus_neubau: 1685
+  reformation_erreichte: vermutlich 1535
+  kirche_unbenutzbar_ab: 1633
+  kirche_abgebrochen: 1706
+  neue_kirche_erbaut: 1708
+  spielhaus_gemeindehaus: 1579
+  spielhaus_weitere_nutzung: später Rathaus und Backhaus
+  schulhaus_erstes: 1609
+  kaisermanoever_1905: Kaiser Wilhelm II. hielt Manöverkritik ab
+  kaisermanoever_gedenkstein: Kaisermanöverdenkmal
+  leuchtturm_erbaut: 1932
+  leuchtturm_hoehe: 19 [Meter]
+  leuchtturm_funktion: ermöglichte Nachtflüge Strecke Köln-Frankfurt
+  leuchtturm_betrieb_bis: 1939
+  leuchtturm_abbau: vermutlich um 1953
+  gebietsreform_1971: fusionierte mit sechs Anreinern zur Gemeinde Hünfelden
+GUELTIG_AB: 1235
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Heringen
+QUELLE: https://www.huenfelden.de/leben-in-huenfelden/ortsteile/heringen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: am Rande des Herbachtales südlich der B417
+  landesgrenze_entfernung: etwa hundert Meter von Rheinland-Pfalz (nach zweitem Weltkrieg)
+  erstmals_erwaehnt: 790 n.Chr. (Schenkungsurkunde Karls des Großen)
+  einwohnerzahl_aktuell: 1100
+  rang_ortsteile: viertgrößter Ortsteil
+  wappensymbol: zwei gekreuzte Heringe (amtliches Gerichtssiegel 17./18. Jahrhundert)
+  adlige_familie_von_heryngen: führte Wappensymbol 1391, 1457
+  namensherkunft: wahrscheinlich vom Bachlauf "Herbach"
+  huelgelgraeberfunde_1924: Entdeckung Hügelgräber
+  huelgelgraeberfunde_1953: weitere Entdeckung
+  besiedlung_eisenzeit: 800 bis 400 v.Chr.
+  grabfunde_karolinger_1900: um 1900
+  grabfunde_karolinger_1988: um 1988
+  grabfund_typ: Steinkistengräber
+  grabfund_besichtigung: letztes entdecktes Grab hinter Ehrenmal bei Kirche
+  grabfund_kammeranzahl: zwei (für Erwachsenen und Kind)
+  kapelle_1301: kleine Kapelle
+  kapelle_pfarrer: keinen Pfarrer, Messe vom Pfarrer Mensfelden
+  kapelle_reformation: viermal im Jahr Abendmahl, Gottesdienste nach Mensfelden
+  kirche_bau: 1782-1785
+  kirche_stil: klassisch
+  kirche_kosten: 6160 Gulden
+  kirche_finanzierung: Geldspenden, Sammlungen, Eigenleistung
+  pfarrgemeinde_selbstaendig: 1848
+  pfarrstelle_errichtet: 1849
+  kirche_zustand: in voller Pracht
+  altes_rathaus: 1830
+  alte_post_fachwerkbau: Fachwerkbau "Alte Post"
+  schule_erbaut: 1844/1845
+  schule_urspruenglich: zweiklassige Volksschule
+  schule_nutzung_heute: Dorfgemeinschaftshaus "Alte Schule"
+  schule_chronikraum: Geschichte von Heringen
+  feuerwehrhaus_erbaut: 1954
+  feuerwehrhaus_erweitert: bis 1988
+  feuerwehrhaus_besonderheit: Fahrzeughalle auf ehemalige Viehtränke, fasst 95 Kubikmeter Wasser
+  turnhalle_erbaut: 1925
+  turnhalle_funktion: zentrale Kulturstätte
+  turnhalle_umbau: bis 2008 zu moderner Mehrzweckhalle
+  besonderheit_pferdedorf: entwickelt zu Pferdedorf
+  reit_fahrclub: Reitanlage mit Reitplatz und Reithalle
+  vereinsleben: zehn Vereine
+  dorfgemeinschaft: ausgeprägte Dorfgemeinschaft, enge Zusammenarbeit Ortsbeirat
+  strukturwandel: von Bauerndorf zu Wohnort mit neuen Baugebieten
+GUELTIG_AB: 790
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neesbach
+QUELLE: https://www.huenfelden.de/leben-in-huenfelden/ortsteile/neesbach/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmals_erwaehnt: um 750-779 (Urkunde Gräfin Adeltrud)
+  urspruenglicher_name: Neistenbach
+  benannt_nach: schenkte an Kloster Fulda
+  lage_bedeutung: günstige Lage zwischen Hünerstraße und Hessenstraße
+  stiftsbezug_1129: gehört dem Stift in Limburg
+  hoerigkeit: Bewohner waren Hörige des Stifts
+  befreiungsversuch_um_1363: Versuch Befreiung von Verpflichtungen
+  strafe: Kirchenbann auferlegt
+  lehen_1332: an Herren von Trier
+  pest_1607: Dorfbevölkerung fast vollständig ausgelöscht
+  kapelle_erwaehnung: 1339
+  kirchliche_trennung_1571: aus Pfarrei Bergen gelöst
+  pfarrer_zustaendigkeit: Pfarrer in Nauheim
+  kirche_erbaut: 1711
+  kirche_stil: barock
+  kirche_name: Johannes-Kirche
+  kirche_vorgaenger: anstelle der alten, ebenfalls dem Johannes geweihten Kirche
+  kirche_vorbild: Kirche in benachbartem Nauheim
+  kirche_innenausmalung: ähnelte Nauheim
+  kirche_restaurierung: 1975
+  kirche_restaurierung_funde: kulturhistorisch wertvolle Gemälde
+  kirche_restaurierungskosten: 365.500 DM
+  kirche_gemälde: heute noch besichtigt
+  rathaus_erbaut: 1717
+  rathaus_nutzung: gleichzeitig Backhaus und Schulgebäude
+  schulhaus_erbaut: 1756
+GUELTIG_AB: 750
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mensfelden
+QUELLE: https://www.huenfelden.de/leben-in-huenfelden/ortsteile/mensfelden/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: evangelisches Pfarrdorf
+  erstmals_erwaehnt: 775
+  benannt_nach: Güter gelangten mit Zustimmung Graf Sahn an Kloster Dirstein
+  grundherrschaft: eigenständige Grundherrschaft
+  grundherrschafts_umfang: nicht über Ortsgrenzen
+  gerichtsbarkeit_blut: in Händen Grafen Dietz
+  gerichtsbarkeit_unterstellung: Gerichtsbarkeit Flacht
+  dynastien_grundherren: Westerburg und Limburg
+  limburg_erwerbung: 1332 als Burglehen von Trier
+  trier_uebernahme: 1406
+  nassau_saarbrücken_teilhaber: 1453
+  anteilverhaeltnis: Westerburg vier Anteile, Trier und Nassau je einen
+  anteilwechsel_zeitraum: 1605-1728 verschiedene Eigentümerwechsel
+  oranien_nassau_tausch: 1790 gegen Schießheim
+  gemeinschaft: 1803-1803 zwischen Oranien-Nassau und Trier
+  nassau_weilburg_ueberlassung: 1803
+  gericht_15th: unter den Linden vor dem Kirchhof
+  familienverkaeufe: 1301-1310
+  abtei_eberbach: Güter an Abtei Eberbach
+  pfarrkirche_existenz: 1301
+  reformation_einfuehrung: 1529 durch Pfarrer Jacob Königstein (lutherisch)
+  kirchensatz_zehnten: 1615 ausgestorben, zurück an Kirche
+  hof_anwesen_burgfrieden: 1368 in Burgfrieden Kirberg
+  dorf_pfarrei: gehörte zur Pfarrei
+GUELTIG_AB: 775
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Dauborn
+QUELLE: https://www.huenfelden.de/leben-in-huenfelden/ortsteile/dauborn-mit-gnadenthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  weitere_bezeichnungen: Dabornahe, Tabernä, Deberne
+  typ: evangelisches Pfarrdorf
+  lage: am Wörsbach
+  urspruengliche_grafschaft: Grafschaft Dietz
+  spaetere_zugehoerigkeit: nassau-ottosche Linie
+  gerichtsstätte_14_16_jh: in Eufingen
+  kloster_rodaha_besitz: aus dem Maingau
+  kloster_rodaha_uebergabe: 786 an Kloster Lorsch
+  abtei_pruem_erwerb: 790
+  spechtensitz: Hofgut mit Burgsitz der Spechten von Bubenheim
+  pfarrkirche_schenkung: 1260 an Kloster Gnadenthal
+  pfarrkirche_schenker: Gottfried von Eppstein, Gottfried von Biegen, Peter von Dern, Philipp von Birneburg (Erben der Herren von Biegen)
+  pfarrkirche_inkorporation: 1261 durch Erzbischof von Trier
+  pfarrkirche_verantwortung: Kloster Gnadenthal für Kirchensitz und großen Zehnten
+  eufingen_alternative_name: Uffingen
+  eufingen_vereinigung_mit_dauborn: 1824
+  eufingen_eigenstaendigkeit: zuvor eigenständige Kirchengemeinde
+  eufingen_eingepfarrt_bis: 1564 nach Gnadenthal
+  eufingen_zehnten_kloster: Hälfte von Kloster Gnadenthal
+  eufingen_zehnten_adel: 1566 andere Hälfte von Adeligen (Bergen, Staffel, Reiffenberg, Stockheim, Braubach)
+  branntweinbrennereien: 73
+  branntweinproduktion_jaehrlich: 1200 Ohm
+  sehenswertes: restaurierte Fachwerkbauten, Kirche, ehemaliges Äbtissinnenhaus
+  wanderwege: gut befestigte Wege zum Ortsteil Ohren
+GUELTIG_AB: 786
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Gnadenthal
+ORTSTEIL_BEZUG: Gnadenthal (Dauborn)
+QUELLE: https://www.huenfelden.de/leben-in-huenfelden/ortsteile/dauborn-mit-gnadenthal/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: adeliges Nonnenkloster
+  orden: Zisterzienser
+  gruendung: 1238
+  gruender: der Sage nach Ritter Peter von Dern
+  gruender_vertrauen: vermutlich
+  besitzumfang: umfangreicher Besitz in der Umgebung
+  pfarrkirche_schenkung_dauborn: 1260
+  pfarrkirche_inkorporation: 1261
+  pfarrkirche_verantwortung: Kirchensitz und großen Zehnten Dauborn
+  reformation_uebergang: 1567
+  umwandlung_zu: Bildungsanstalt für adlige Töchter
+  umwandlung_durch: Graf Johann der Ältere
+  trier_uebernahme: 1628
+  westfaelischer_frieden: wieder an Nassau zurückgegeben
+  konvent_erlosch: 1635 mit Tod Äbtissin Liebmuth von Irmtraud
+  nachnutzung: Nach 1648 herrschaftlicher Hof auf Gelände errichtet
+  einnahmen_verwendung: Verbesserung Pfarrkirchen, Schulen, Unterstützung Studierender
+  zentralstudienfonds: 1817 eingebracht
+  existenzstatus: existiert heute nicht mehr
+  stiftskirche_status: nicht mehr vorhanden
+GUELTIG_AB: 1238
+GUELTIG_BIS: 1635
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
