@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "114-olching",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 17758,
+ "token_ein": 217946,
+ "token_aus": 8803,
+ "usage": {
+  "input_tokens": 12,
+  "cache_creation_input_tokens": 39116,
+  "cache_read_input_tokens": 178818,
+  "output_tokens": 8803,
+  "output_tokens_details": {
+   "thinking_tokens": 4278
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 39116,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 6165,
+    "cache_read_input_tokens": 44633,
+    "cache_creation_input_tokens": 1385,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 1385
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.9322306,
+ "sekunden": 117,
+ "fehler": false,
+ "zeit": "2026-10-12T09:01:11"
+}

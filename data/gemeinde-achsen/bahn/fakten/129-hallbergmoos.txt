@@ -1,0 +1,366 @@
+ID: 129-hallbergmoos/001
+ENTITÄT: ort
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Dreieck München-Freising-Erding, unmittelbare Nachbarschaft zum Münchner Flughafen"
+  entfernung_zu_muenchen: 25 km
+  entfernung_zu_freising: 12 km
+  entfernung_zu_erding: 18 km
+  meereshoehe: 460 m NN
+  ortsteile: "Goldach, Birkeneck, Erching"
+  gruendung: 1828
+  gruendungsanlass: "Entwässerung von Moorflächen nach holländischem Vorbild"
+  benannt_nach: "Freiherr Karl Theodor von Hallberg-Broich"
+  benennungsdatum: 1828
+  erste_siedler: 1830
+  einwohner_1840: 307
+  einwohner_1890: ca. 1000
+  einwohner_nach_wk2: ca. 2600
+  einwohner_2021: 11255
+  durchschnittsalter_2021: 39,7 Jahre
+  nationen_vertreten: 100
+  erste_schule: 1832
+  erste_kirche: 1833
+  gebietsreform: 1978
+  ist_junge_gemeinde: true
+GUELTIG_AB: 1828
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 129-hallbergmoos/002
+ENTITÄT: ortsteil
+BEZEICHNUNG: Goldach
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: 1865
+  urspruengliche_zugehörigkeit: "Notzing, Landkreis Erding"
+  angliederung_hallbergmoos: 1978
+GUELTIG_AB: 1865
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 129-hallbergmoos/003
+ENTITÄT: ortsteil
+BEZEICHNUNG: Birkeneck
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 750
+  urkundliche_form: "Prikhet (Birkenwäldchen)"
+  erwaehnung_1035: true
+GUELTIG_AB: 750
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 129-hallbergmoos/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Erching
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 750
+  urkundliche_quelle: "Schenkungsurkunde Fürst Tassilos an Freisinger Bischof Joseph"
+  schlossgut_errichtung: "Anfang 19. Jahrhundert"
+  aelteste_ansiedlung_hallbergmoos: true
+GUELTIG_AB: 750
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 129-hallbergmoos/005
+ENTITÄT: person
+BEZEICHNUNG: Karl Theodor Maria Hubert Isidor von Hallberg-Broich
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1768
+  geburtsort: "Schloss Broich, Herzogtum Jülich und Berg"
+  sterbejahr: 1862
+  sterbeort: "Schloss Hörmannsdorf bei Landshut"
+  alter_bei_tod: 93
+  besonderheiten: "Schiffsjunge, Reisen, Heerführer in Befreiungskriegen gegen Napoleon, strebte nach schwedischer Königskrone"
+  erwerb_schloss_birkeneck: 1826
+  gruendung_hallbergmoos: 1828
+  erste_siedler_hallbergmoos: 1830
+  beziehung_ludwig_i: "Duzfreund"
+  spitzname: "Eremit von Gauting"
+GUELTIG_AB: 1768
+GUELTIG_BIS: 1862
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 129-hallbergmoos/006
+ENTITÄT: person
+BEZEICHNUNG: König Ludwig I.
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: "König von Bayern"
+  namensgebung_hallbergmoos: "Mai 1828 Befehl zur Namensgebung zu Ehren des Freiherrn von Hallberg"
+  beziehung_hallberg: "Duzfreund, wohlwollender Gönner"
+  finanzielle_unterstützung: "Gelder für ehrgeizige Besiedlungspläne"
+  verehrung_strassennamen: "Ludwig-, Theresien-, Maximilian-, Mathilden- und Ottostraße"
+GUELTIG_AB: 1828
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 129-hallbergmoos/007
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Birkeneck
+ORTSTEIL_BEZUG: Birkeneck
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaujahr: 1706
+  erbauer: "Fürstbischof Johann Franz Ecker zu Karpfing"
+  bauart: "barockes Jagdschloss"
+  urspruengliche_funktion: "Jagdschloss der Freisinger Fürstbischöfe"
+  besitzer_ab_1925: "Herz-Jesu-Missionare"
+  nutzung_ab_1925: "Heim für gefährdete Jugendliche (heute: Jugendwerk Birkeneck)"
+GUELTIG_AB: 1706
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 129-hallbergmoos/008
+ENTITÄT: schlossgut
+BEZEICHNUNG: Schlossgut Erching
+ORTSTEIL_BEZUG: Erching
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/sport-freizeit/ausflugsziele/schlossgut-erching | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1400
+  bauart: "Lustschloss mit Wasserschloss (breiter Wassergraben)"
+  architektur: "dreigeschossiger barocker Satteldachbau"
+  schlosskapelle: "St. Walburga"
+  park: "ringförmiger Schlossweiher"
+  besitz: "Privatbesitz"
+  aktuelle_nutzung: "Ackerbaubetrieb"
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 129-hallbergmoos/009
+ENTITÄT: schlosskapelle
+BEZEICHNUNG: St. Walburga
+ORTSTEIL_BEZUG: Erching
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/sport-freizeit/ausflugsziele/schlossgut-erching | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: "Schlossgut Erching, nördlich des Schlosses"
+  erbaujahr: 1672
+  bauart: "schlichter Saalbau mit polygonalem Ostturm und welscher Haube"
+GUELTIG_AB: 1672
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 129-hallbergmoos/010
+ENTITÄT: kirche
+BEZEICHNUNG: St. Theresia
+ORTSTEIL_BEZUG: Hallbergmoos
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/gesellschaft-soziales/glaubensgemeinschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: "Katholisch"
+  weihe: 1833
+  pfarrer: "Thomas Gruber"
+  adresse: "Theresienstraße 4"
+  telefon: "0811 99 88 38 - 0"
+  email: "pv-hallbergmoos@erzbistum-muenchen.de"
+  website: "www.pfarrei-hallbergmoos.de"
+GUELTIG_AB: 1833
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 129-hallbergmoos/011
+ENTITÄT: kirche
+BEZEICHNUNG: Herz-Jesu
+ORTSTEIL_BEZUG: Goldach
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/gesellschaft-soziales/glaubensgemeinschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: "Katholisch"
+  pfarrer: "Thomas Gruber"
+  adresse: "Hauptstraße 58"
+  telefon: "0811 99 88 38 - 0"
+  email: "pv-hallbergmoos@erzbistum-muenchen.de"
+  website: "www.pfarrei-hallbergmoos.de"
+  hat_gedenktafel_pfarrer_pflueger: true
+GUELTIG_AB: "unbekannt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 129-hallbergmoos/012
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evangelische Kirchengemeinde
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/gesellschaft-soziales/glaubensgemeinschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: "Evangelisch"
+  pfarrer: "Steffen Schubert"
+  adresse: "Bürgermeister-Funk-Straße 4"
+  telefon: "0811 98 709"
+  email: "steffen.schubert@elkb.de"
+  website: "www.kirche-hallbergmoos.de"
+GUELTIG_AB: "unbekannt"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 129-hallbergmoos/013
+ENTITÄT: jugendwerk
+BEZEICHNUNG: Jugendwerk Birkeneck
+ORTSTEIL_BEZUG: Birkeneck
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/sport-freizeit/ausflugsziele/schloss-birkeneck | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1925
+  gruender: "Herz-Jesu-Missionare"
+  standort: "Schloss Birkeneck"
+  funktion: "Fürsorgeerziehungsanstalt / Heim für gefährdete Jugendliche"
+  status_1950: "fünf MSC-Patres betreuen fünf Gruppen mit 250 Zöglingen"
+  berufsausbildung_1950: "20 eigene Lehrbetriebe und Heimberufsschule"
+  inobhutnahme_fluechtlinge_1992: "erste in Bayern"
+  neubau_2016: "energetisch und ökologisch optimierte Häuser mit Einzelzimmern"
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 129-hallbergmoos/014
+ENTITÄT: flughafen
+BEZEICHNUNG: Flughafen München
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: "Erdinger Moos"
+  eroeffnung: "Mai 1992"
+  entfernung_zu_hallbergmoos: "unmittelbare Nachbarschaft"
+  auswirkung_besiedlung: "Zuzug, Ansiedlung moderner Betriebe in Gewerbegebiet (vor allem Computer- und Kommunikationsbranche)"
+  auswirkung_einwohnerzahl: "enormer Einwohnerzuwachs"
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 129-hallbergmoos/015
+ENTITÄT: wappen
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/der-ort | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "In Silber auf grünem Boden ein grüner Eichbaum, beseitet von je einem schwebenden grünen Rohrstengel mit schwarzem Kolben"
+  eichbaum_herkunft: "Familienwappen Hallberg"
+  eichbaum_bedeutung: "Gründer und Gründung"
+  rohrkolben_bedeutung: "Lage am Erdinger Moos"
+  verwendung_genehmigungspflichtig: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 129-hallbergmoos/016
+ENTITÄT: rathaus
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 2003
+  bedeutung: "schuf endlich ein Orts-Zentrum in dem Straßendorf"
+  umfeld: "mit Wohn- und Geschäftshaus gegenüber"
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 129-hallbergmoos/017
+ENTITÄT: geschichtsweg
+BEZEICHNUNG: Spuren unserer Vergangenheit
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichtsweg-hallbergmoos | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  infotafeln_anzahl: 15
+  laenge_km: 20.3
+  zeitliche_spanne: "1828 (Ortsgründung) bis jüngere Nachkriegsgeschichte"
+  organisator: "Heimat- und Traditionsverein"
+  anlass: "Aufstellung Gedenkstein für Häftlingsmärsche (Mai 2016)"
+  gestaltung_basierend_auf: "68 Sammelblätter des Heimatforschers Karl-Heinz Zenker"
+  kontakt_fuehrungen: "Karl-Heinz Zenker, Tel: 0811/3690"
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 129-hallbergmoos/018
+ENTITÄT: gedenkstein
+BEZEICHNUNG: Häftlingsmärsche
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichtsweg-hallbergmoos | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geschichtsereignis: "Häftlingsmärsche"
+  datum_ereignis: "29. April 1945"
+  aufstellung_denkmal: "Mai 2016"
+  standort: "100 Meter nach Grünecker Straße 24 Richtung S-Bahn"
+  material: "Edelstahlgestell und uv-beständige Folie"
+  kosten: "ca. 400 Euro"
+  finanzierung: "Gemeinde Hallbergmoos"
+  organisator: "Heimat- und Traditionsverein"
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 129-hallbergmoos/019
+ENTITÄT: ereignis
+BEZEICHNUNG: Absturz Messerschmitt Me 110 Nachtjäger
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichtsweg-hallbergmoos | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ_flugzeug: "Messerschmitt Me 110 Nachtjäger"
+  datum: "November 1943"
+  standort: "Am Bach, ca. 200 Meter nach Ortsende"
+GUELTIG_BIS: 1943
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 129-hallbergmoos/020
+ENTITÄT: sportverein
+BEZEICHNUNG: SV Siegfried
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sportart: "Ringen"
+  status: "Hallbergmooser Traditionssport"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 129-hallbergmoos/021
+ENTITÄT: sportverein
+BEZEICHNUNG: VfB Hallbergmoos-Goldach
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sportabteilungen: 13
+  beispiel_abteilungen: "Fußball, Tennis, Gymnastik/Fitness"
+  website: "www.vfb-hallbergmoos.de"
+  standort_sport_freizeit_park: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 129-hallbergmoos/022
+ENTITÄT: gebaeude
+BEZEICHNUNG: Alter Wirt
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichtsweg-hallbergmoos | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: "ältestes Gebäude von Hallbergmoos"
+  adresse: "Ludwigstraße 2"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 129-hallbergmoos/023
+ENTITÄT: mühle
+BEZEICHNUNG: Mühle in der Ludwigstraße
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichtsweg-hallbergmoos | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Ludwigstraße 30 / Am Ludwigskanal"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 129-hallbergmoos/024
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof St. Theresia
+ORTSTEIL_BEZUG: Hallbergmoos
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/gesellschaft-soziales/glaubensgemeinschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Theresienstraße 10"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 129-hallbergmoos/025
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof Herz-Jesu
+ORTSTEIL_BEZUG: Goldach
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/gesellschaft-soziales/glaubensgemeinschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Hauptstraße 58"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 129-hallbergmoos/026
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof Birkeneck
+ORTSTEIL_BEZUG: Birkeneck
+QUELLE: https://www.hallbergmoos.de/buerger/leben-in-hallbergmoos/gesellschaft-soziales/glaubensgemeinschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: "Birkeneck"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8

@@ -1,0 +1,470 @@
+ZIELORT: Augsburg (Stadt)
+LAGE: 0 km südlich von Augsburg (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Augsburg
+
+GRUNDDATEN:
+  bundesland: Bayern  [dewiki Infobox]
+  einwohner: 301.786  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 146,87 | 146,85  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 2055  [berechnet aus Einwohner und Fläche]
+  kfz: A (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 489 | 498 | 482 | 494  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json]
+  naechste_grossstadt: Augsburg, 0 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: München, 56 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Augsburg Hauptbahnhof, Augsburg Hirblingerstraße, Augsburg-Hochzoll, Augsburg-Oberhausen, Bahnhof Augsburg Haunstetterstraße, Bahnhof Gersthofen, Bahnhof Inningen  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 86150, 86152, 86153, 86154, 86156, 86157, 86159, 86161, 86163, 86165, 86167, 86169, 86179, 86199  [Wikidata P281]
+  vorwahl: 0821  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 28,4 %, AfD 17,5 %, GRÜNE 16,5 %, SPD 13,4 %, Die Linke 10,6 %; Wahlbeteiligung 79,4 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Florian Freund (SPD) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-08]
+  partnerstaedte: Inverness, Amagasaki, Nagahama, Bourges, Dayton, Reichenberg, Jinan, Changsha, Nagahama, Mysuru  [Wikidata P190]
+  gewaesser: Lech, Wertach  [Altbestand staedte.json]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Kennzeichen), C, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Burgau (Stadt)
+  landkreis: Günzburg  [dewiki Infobox]
+  einwohner: 10.677  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 25,92  [Wikidata P2046; Altbestand staedte.json]
+  kfz: GZ (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 462 | 454  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2941485)]
+  naechste_grossstadt: Ulm, 31 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Burgau (Schwab)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 34,4 %, AfD 27,2 %, SPD 9,8 %, GRÜNE 6,9 %, FREIE WÄHLER 6,6 %; Wahlbeteiligung 81 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Frankfurt am Main, Rüsselsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Koblenz, Rhens, Boppard, St. Goar, Oberwesel, Bacharach, Bingen, Ingelheim, Alzey, Nierstein, Oppenheim, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg
+
+FAKTEN (Zielort Augsburg):
+ID: 112-augsburg/001
+ENTITÄT: ort
+BEZEICHNUNG: Augsburg
+EIGENSCHAFTEN:
+  geschichte: über 2000 Jahre alte Geschichte
+  einwohner: 300000
+  groesste_arbeitgeberinnen_region: true
+  arbeitnehmer_stadt: 7500
+  selbstverstaendnis: Friedensstadt
+  religionsfrieden_jahr: 1555
+  religionsfrieden_bedeutung: hat das Selbstverständnis der Stadt zum Frieden entscheidend geprägt
+  friedensfest_datum: 8. August
+  roemerzeit_ursprung: römische Siedlung
+  sportvereine_count: 200+
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 112-augsburg/002
+ENTITÄT: institution
+BEZEICHNUNG: Stadtarchiv Augsburg
+QUELLE: https://www.augsburg.de/buergerservice-rathaus/buergerservice/dienste-a-z/aemterweise/leistungen-stadtarchiv/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Gedächtnis der Stadt, zentrale Anlaufstelle für Augsburger Stadtgeschichtsforschung
+  ueberlieferung_umfang: 14000 laufende Regalmeter
+  ueberlieferung_zeitraum_ab: 11. Jahrhundert
+  digitaler_lesessaal: recherche-stadtarchiv.augsburg.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 112-augsburg/003
+ENTITÄT: fest
+BEZEICHNUNG: Gögginger Frühlingsfest
+ORTSTEIL_BEZUG: Göggingen
+QUELLE: https://www.augsburg.de/freizeit/feste-und-maerkte/goegginger-fruehlingsfest | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_ausrichtung: 1969
+  urspruengliche_form: Starkbierfest zur 1000-Jahr-Feier der damals noch eigenständigen Gemeinde Göggingen
+  eroeffnung_traditional: Fassanstich in Göggingen
+  termin_2027: 5. bis 14. März
+  saison_rolle: Auftakt der Volksfestsaison
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 112-augsburg/004
+ENTITÄT: stadtteil
+BEZEICHNUNG: Göggingen
+QUELLE: https://www.augsburg.de/freizeit/feste-und-maerkte/goegginger-fruehlingsfest | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_historisch: damals noch eigenständige Gemeinde
+  status_ab_ca: vor 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 112-augsburg/005
+ENTITÄT: fest
+BEZEICHNUNG: Augsburger Plärrer
+QUELLE: https://www.augsburg.de/freizeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Bayerisch-Schwabens größtes Volksfest
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/006
+ENTITÄT: fest
+BEZEICHNUNG: Christkindlesmarkt
+QUELLE: https://www.augsburg.de/freizeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: einer der ältesten Weihnachtsmärkte Deutschlands
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/007
+ENTITÄT: fest
+BEZEICHNUNG: Lechhauser Kirchweih
+ORTSTEIL_BEZUG: Lechhausen
+QUELLE: https://www.augsburg.de/freizeit/feste-und-maerkte/goegginger-fruehlingsfest | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_monat: Oktober
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/008
+ENTITÄT: stadtteil
+BEZEICHNUNG: Lechhausen
+QUELLE: https://www.augsburg.de/freizeit/feste-und-maerkte/goegginger-fruehlingsfest | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 112-augsburg/009
+ENTITÄT: stadtteil
+BEZEICHNUNG: Hochfeld
+QUELLE: https://www.augsburg.de/buergerservice-rathaus/buergerservice/dienste-a-z/aemterweise/leistungen-amt-fuer-kinder-jugend-und-familie/beratung-im-stadtteil | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/010
+ENTITÄT: stadtteil
+BEZEICHNUNG: Univiertel
+QUELLE: https://www.augsburg.de/buergerservice-rathaus/buergerservice/dienste-a-z/aemterweise/leistungen-amt-fuer-kinder-jugend-und-familie/beratung-im-stadtteil | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/011
+ENTITÄT: person
+BEZEICHNUNG: Leopold Mozart
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verhaeltnis_augsburg: Vater von Wolfgang Amadeus Mozart, in Augsburg geboren
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 112-augsburg/012
+ENTITÄT: person
+BEZEICHNUNG: Bertolt Brecht
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindung_augsburg: besuchte das Gymnasium in Augsburg
+  werk: schrieb "Baal"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 112-augsburg/013
+ENTITÄT: person
+BEZEICHNUNG: Jakob Fugger
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: berühmter Sohn Augsburgs
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/014
+ENTITÄT: person
+BEZEICHNUNG: Alexander Grimm
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: berühmter Sohn Augsburgs
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 112-augsburg/015
+ENTITÄT: ereignis
+BEZEICHNUNG: Augsburger Religionsfrieden
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1555
+  wirkung: hat das Selbstverständnis der Stadt zum Frieden entscheidend geprägt
+GUELTIG_AB: 1555
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 112-augsburg/016
+ENTITÄT: auszeichnung
+BEZEICHNUNG: UNESCO-Welterbe Augsburger Wassermanagement-System
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihungsdatum: 6. Juli 2019
+  verleihende_organisation: UNESCO-Welterbekomitee
+  beschreibung: Das Augsburger Wassermanagementsystem
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 112-augsburg/017
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: Goldener Saal
+  sanierung_beginn: August 2024
+  sanierung_ende_geplant: Frühjahr 2026
+  sanierung_status: geschlossen mit wenigen Ausnahmen
+GUELTIG_AB: 2024
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 112-augsburg/018
+ENTITÄT: gebaeude
+BEZEICHNUNG: Staatstheater
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sanierungsbeschluss_jahr: 2015
+  planungsphase_vor_beschluss: fast 10 Jahre
+  ziel: Theater der Bürger, baulich neu gedacht
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/019
+ENTITÄT: gebaeude
+BEZEICHNUNG: Perlachturm
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: sanierungsbedürftig
+  foerdermoeglichkeit: Spenden, Patenschaften und andere Hilfen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/020
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gaswerk
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: über 100 Jahre
+  umnutzung_seit: 2017
+  betreiber_umnutzung: Stadtwerke Augsburg (swa) in Kooperation mit der Stadt Augsburg
+  neue_bestimmung: Areal für Kultur- und Kreativwirtschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 112-augsburg/021
+ENTITÄT: kirche
+BEZEICHNUNG: Dominikanerkirche
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 112-augsburg/022
+ENTITÄT: gebaeude
+BEZEICHNUNG: Synagoge in der Halderstraße
+QUELLE: https://www.augsburg.de/friedenteilen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jubileum_jahr: 2017
+  jubileum_zeitraum: 100 Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/023
+ENTITÄT: einrichtung
+BEZEICHNUNG: Stadtbücherei
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angebot: Bücher und Medien, attraktive Veranstaltungen, Raumvermietung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 112-augsburg/024
+ENTITÄT: museum
+BEZEICHNUNG: Römisches Museum
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  themenschwerpunkt: Römerzeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/025
+ENTITÄT: einrichtung
+BEZEICHNUNG: Halle 116
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Erinnerungs- und Lernort
+  fokus: Gedenken an die Opfer des verbrecherischen NS-Regimes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/026
+ENTITÄT: ausflugsziel
+BEZEICHNUNG: Augsburger Zoo
+QUELLE: https://www.augsburg.de/freizeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Besuchermagnet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/027
+ENTITÄT: ausflugsziel
+BEZEICHNUNG: Botanischer Garten
+QUELLE: https://www.augsburg.de/freizeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Idyll
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/028
+ENTITÄT: sportverein
+BEZEICHNUNG: FC Augsburg
+QUELLE: https://www.augsburg.de/freizeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  spielklasse: Erstklasse
+  heimstadion: WWK-ARENA
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 112-augsburg/029
+ENTITÄT: sportverein
+BEZEICHNUNG: Augsburger Panther
+QUELLE: https://www.augsburg.de/freizeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  spielklasse: Erstklasse
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 112-augsburg/030
+ENTITÄT: stadion
+BEZEICHNUNG: WWK-ARENA
+QUELLE: https://www.augsburg.de/freizeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nutzer: FC Augsburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 112-augsburg/031
+ENTITÄT: wald
+BEZEICHNUNG: Siebentischwald
+QUELLE: https://www.augsburg.de/freizeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nutzung: Radeln, Naherholung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/032
+ENTITÄT: strasse
+BEZEICHNUNG: Annastraße
+QUELLE: https://www.augsburg.de/freizeit | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Shopping
+  besonderheit: 800 Fachgeschäfte, Boutiquen und Kaufhäuser
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/033
+ENTITÄT: gebaeude
+BEZEICHNUNG: Freilichtbühne
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 112-augsburg/034
+ENTITÄT: bauwerk
+BEZEICHNUNG: Wasserkraftwerk Wolfzahnau
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Wasserkraftwerk an der Wolfzahnau, Zeugnis langer Tradition des Wasserbaus in der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 112-augsburg/035
+ENTITÄT: bauwerk
+BEZEICHNUNG: Wasserkraftwerk Hochablass
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Wasserkraftwerk am Hochablass, Zeugnis langer Tradition des Wasserbaus in der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 112-augsburg/036
+ENTITÄT: platz
+BEZEICHNUNG: Rathausplatz
+QUELLE: https://www.augsburg.de/friedenteilen | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/037
+ENTITÄT: platz
+BEZEICHNUNG: Königsplatz
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/038
+ENTITÄT: festival
+BEZEICHNUNG: Brechtfestival
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug: Bertolt Brecht
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/039
+ENTITÄT: festival
+BEZEICHNUNG: Mozartfest Augsburg
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug: Wolfgang Amadeus Mozart
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/040
+ENTITÄT: festival
+BEZEICHNUNG: Internationaler Augsburger Jazzsommer
+QUELLE: https://www.augsburg.de/kultur | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Musikfestival
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/041
+ENTITÄT: organisation
+BEZEICHNUNG: Descendants of the Jewish Community of Augsburg (DJCA)
+QUELLE: https://www.augsburg.de/friedenteilen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundung_anlass: 100-jähriges Jubiläum der Synagoge in der Halderstraße
+  grundung_jahr: 2017
+  mitglieder_beschreibung: Angehörige der ehemaligen Jüdischen Gemeinde Augsburg, Nachfahren von Familien, die durch Emigration den Terror des Naziregimes überlebt haben
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 112-augsburg/042
+ENTITÄT: institution
+BEZEICHNUNG: Jüdisches Museum
+QUELLE: https://www.augsburg.de/friedenteilen | Gemeinde-Webseite
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 112-augsburg/043
+ENTITÄT: dienststelle
+BEZEICHNUNG: Stadtarchiv
+QUELLE: https://www.augsburg.de/buergerservice-rathaus/buergerservice/dienste-a-z/aemterweise/leistungen-stadtarchiv/familiengeschichtliche-forschung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angebot: Familiengeschichtliche Forschung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 112-augsburg/044
+ENTITÄT: dienststelle
+BEZEICHNUNG: Mobilitäts- und Tiefbauamt
+QUELLE: https://www.augsburg.de/buergerservice-rathaus/buergerservice/dienste-a-z/aemterweise/leistungen-mobilitaets-und-tiefbauamt/verkehrszahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Verkehrsplanung
+  angebot: Verkehrszählungen, Auskunft über Verkehrszahlen und prognostizierte zukünftige Verkehrszahlen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

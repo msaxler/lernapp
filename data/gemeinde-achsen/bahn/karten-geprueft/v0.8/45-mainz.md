@@ -200,7 +200,7 @@ Landeshauptstadt von Rheinland-Pfalz mit rund 224.000 Einwohnern.
 3. Ebersheim kam als einzige freiwillig zu Mainz.
 4. Nur Ebersheim wurde per Gerichtsurteil eingemeindet.
 RÜCKSEITE:
-„Du hattest [Option] getippt. Ein Gerichtsstreit liegt nahe, denn Gemeinden wehren sich oft gegen den Verlust ihrer Selbständigkeit. Ebersheim aber, das Tor nach Rheinhessen und nach Angaben der Stadt am weitesten von der Stadtmitte entfernt, kam als einzige der sechs freiwillig. Danach bekam es Anschluss an den Stadtbus. Richtig war 3.“
+Du hattest [Option] getippt. Ein Gerichtsstreit liegt nahe, denn Gemeinden wehren sich oft gegen den Verlust ihrer Selbständigkeit. Ebersheim aber, das Tor nach Rheinhessen und nach Angaben der Stadt am weitesten von der Stadtmitte entfernt, kam als einzige der sechs freiwillig. Danach bekam es Anschluss an den Stadtbus. Richtig war 3.
 Quelle: Gemeinde-Webseite, www.mainz.de/startseite-mainz.de/stadtteile/ebersheim/ebersheim
 WÖRTER RÜCKSEITE: 47
 NEGATIVNACHWEISE:

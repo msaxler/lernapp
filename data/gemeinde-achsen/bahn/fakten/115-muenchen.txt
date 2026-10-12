@@ -1,0 +1,644 @@
+ID: 115-muenchen/001
+ENTITÄT: ort
+BEZEICHNUNG: München
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1158
+  namensherkunft: Mönch; Ortsname "Munichen" im Mittelalter auf "Mönch" zurückgeführt
+  ursprung: Schenkung an Kloster Schäftlarn im Jahr 782
+  stadtwappen_siegel_herkunft: Mönch mit übergezogener Kapuze (seit 1239), später stehender Mönch mit Tonsur (ab 1304)
+  stadtsiegel_entwicklung: ab 1239 Kopf eines Mönchs; ab 1304 stehender Mönch mit Tonsur, Segenshand und Evangelienbuch; später als "Münchner Kindl" reinterpretiert
+  stadtfarben: schwarz und gelb (gold)
+  stadtfarben_herkunft: Farben des Reiches; Gebrauch wohl seit Kaiser Ludwig der Bayer (1314-1347)
+  entwicklung_marktort_zu_residenzstadt: ca. 100 Jahre nach 1158
+  residenzstadt_eines_teilherzogtums: ja
+  teilherzogtum: Oberbayern
+  hauptstadt_herzogtum_bayern: seit 1506
+  status_als_amtssitz: seit 1255 Amtssitz eines Landesherrn
+  kaiserliche_residenzstadt: seit 1314 (Kaiser Ludwig der Bayer)
+GUELTIG_AB: 1158
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 115-muenchen/002
+ENTITÄT: kirche
+BEZEICHNUNG: Frauenkirche
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1468
+  baumeister: Jörg von Halspach
+  charakteristisches_merkmal: Kuppeln aus Kupferblech
+  kuppeln_fertigstellung: 1525
+  besonderheit_der_kuppeln: charakteristisch für das Stadtbild
+GUELTIG_AB: 1468
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 115-muenchen/003
+ENTITÄT: gebaeude
+BEZEICHNUNG: Altes Rathaus
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1462
+  erbauer: Jörg von Halspach
+  funktion: städtisches Fest- und Tanzhaus
+  zusatzfunktion: fürstliche Repräsentationszwecke
+  saal_künstler: Münchner Künstler (Ausstattung des großen Saals)
+  künstlerischer_höhepunkt: Moriskentänzer von Erasmus Grasser
+  moriskentänzer_originalstandort: Münchner Stadtmuseum
+  parterre_nutzung: Brotverkaufsstände und Stadtgefängnis
+  decke_zentrum: Wappen Kaiser Ludwigs des Bayern mit doppelköpfigem Reichsadler und weiß-blau gerautetem Herzschild
+  decke_wappen_count: 99 Wappen am unteren Rand (Herrschaftsmächte des 15. Jahrhunderts)
+  zerstörung_weltkrieg: Zweiter Weltkrieg (schwer zerstört)
+  wiederaufbau: Ausstattung dem ursprünglichen Zustand weitestgehend angeglichen
+GUELTIG_AB: 1462
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 115-muenchen/004
+ENTITÄT: platz
+BEZEICHNUNG: Marktplatz / Schrannenplatz
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umbau_entfernung_gebäude: 1481
+  vorherige_nutzung: diverse Gebäude (u.a. eine Kapelle)
+  form_nach_umbau: rechteckiger freier Platz
+  ursprüngliche_bezeichnung: Platz oder Markt
+  namensgebung_seit: 1487
+  namenherkunft: nach dem dort stattfindenden Getreidemarkt (Getreideschranne)
+  heutige_größe_erworben: nach dem Zweiten Weltkrieg (Zurückverlegung der Baulinie auf der Südseite)
+GUELTIG_AB: 1481
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 115-muenchen/005
+ENTITÄT: denkmal
+BEZEICHNUNG: Mariensäule
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1638
+  auftraggeber: Kurfürst Maximilian
+  anlass: Gelübde von 1632 für die Verschonung seiner beiden Hauptstädte Landshut und München vor feindlicher Zerstörung
+  ikonografischer_grund: Symbol für den durch den Dreißigjährigen Krieg wiedererstarkten Glauben
+  dargestellung: Gottesmutter
+  entwurf: wohl Hubert Gerhart
+  bronzene_skulpturen: Heldenputti zu Füßen der Gottesmutter
+  heldenputti_symbolik: kämpfen gegen vier Plagen der Zeit: Ketzerei (Schlange), Krieg (Löwe), Hunger (Drache), Pest (Basilisk)
+GUELTIG_AB: 1638
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 115-muenchen/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Kajetan
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundsteinlegung: 1663
+  architekten: Barelli, später Zuccalli
+  fassade_architekt: Cuvilliés
+  zugehörig: anschließender Klosterkomplex der Theatiner
+  entstehungsgrund: Gelöbnis der Kurfürstin Henriette Adelaide
+  anlass_gelöbnis: Geburt eines Thronfolgers
+  thronfolger_name: Erbprinz Max Emanuel
+  geburtsjahrgang: 1662
+GUELTIG_AB: 1663
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 115-muenchen/007
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Nymphenburg
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1664
+  architekten: Barelli, später Zuccalli
+  entwicklung: ausgebaut zu imposanter Anlage mit weitläufigem Park
+GUELTIG_AB: 1664
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 115-muenchen/008
+ENTITÄT: schloss
+BEZEICHNUNG: Neues Schloss Schleißheim
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundsteinlegung: 1701
+  funktion: Sommerresidenz des Kurfürsten
+  nachbargebäude: Altes Schloss Schleißheim (erbaut 1616)
+GUELTIG_AB: 1701
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 115-muenchen/009
+ENTITÄT: kirche
+BEZEICHNUNG: Jesuitenkirche St. Michael
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1583
+  bauende: 1590
+  architekt: Friedrich Sustris
+  ort_adresse: Neuhauser Straße
+  architekturstil: Renaissance-Stil
+  superlativ: größte Kirche im Renaissance-Stil nördlich der Alpen
+  tonnengewölbe: nach St. Peter/Rom größtes Tonnengewölbe der Welt
+  stilhistorische_bedeutung: leitet den neuen Stil des Barock in Süddeutschland ein
+  vorbildfunktion: beispielhaft für zahlreiche Nachfolgebauten
+GUELTIG_AB: 1583
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 115-muenchen/010
+ENTITÄT: gebaeude_komplex
+BEZEICHNUNG: Residenz München
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn_neuveste: 1560
+  bauende_neuveste: 1570
+  ort_neuveste: heutige Residenzstraße
+  entwicklung: umfangreiche Anlage aus Neuveste
+  hofgarten_anlage: 1613
+  funktion: Wohnungsort und Regierungszentrale der Herzöge, Kurfürsten und Könige
+GUELTIG_AB: 1560
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 115-muenchen/011
+ENTITÄT: bibliothek
+BEZEICHNUNG: Hofbibliothek (heute Bayerische Staatsbibliothek)
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1558
+  aktuelle_bezeichnung: Bayerische Staatsbibliothek
+GUELTIG_AB: 1558
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 115-muenchen/012
+ENTITÄT: brauerei
+BEZEICHNUNG: Braunes Hofbräuhaus
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1589
+  gründer: Herzog Wilhelm V.
+  ort_adresse: heutige Sparkassenstraße
+  spezialisierung: Brauen von braunem Bier
+  vorbezug: Herzogshof bezog Bier von bürgerlichen Brauern oder von auswärts (u.a. aus Einbeck in Niedersachsen)
+  umstrukturierung: 1808 mit Weißem Hofbräuhaus vereinigt
+  betriebsverlagerung: 1890 aus Innenstadt an Peripherie verlegt
+  aktuelle_funktion: Gaststätte (seit 1890)
+  gebäude_modernisierung: heutige Gestalt 1896
+GUELTIG_AB: 1589
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 115-muenchen/013
+ENTITÄT: brauerei
+BEZEICHNUNG: Weiße Hofbräuhaus (Hofbräuhaus)
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1602
+  ort_adresse: Platzl
+  spezialisierung: Brauen von Weißbier
+  umstrukturierung: 1808 mit Braunem Hofbräuhaus vereinigt
+  ruhm_heute: weltberühmt
+GUELTIG_AB: 1602
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 115-muenchen/014
+ENTITÄT: brauordnung
+BEZEICHNUNG: Reinheitsgebot für München
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erlassung: 1487
+  erlasser: Herzog Albrecht IV.
+  regelbereich: München
+  bestimmung: Bier darf nur aus Hopfen, Gerste (als Malz) und Wasser gebraut werden
+  regionalisierung: 1516 in das "Buch der gemeinen Landgebot, Landesordnung, Satzung und Gebräuch" übernommen
+  regionalisierung_gültig_ab: 1516
+  gültig_für: gesamtes Herzogtum Bayern
+  heutige_tradition: Münchner Bierbrauer erneuern jährlich auf dem Brauertag den "Preu-Eid"
+  rechtliche_gültigkeit_ende: 1986 (Entscheidung des Europäischen Gerichtshofes)
+GUELTIG_AB: 1487
+GUELTIG_BIS: 1986
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 115-muenchen/015
+ENTITÄT: park
+BEZEICHNUNG: Englischer Garten
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlage: 1789
+  anlage_ende: 1790
+  besonderheit: am Rande des Gartens entstand die Schönfeldvorstadt
+GUELTIG_AB: 1789
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 115-muenchen/016
+ENTITÄT: brauch
+BEZEICHNUNG: Schäfflertanz
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung: 1702
+  häufigkeit: alle sieben Jahre
+  jahreszeit: Faschingszeit
+  legende: soll seinen Ursprung einer Pestepidemie verdanken; Tanzende wollten Lebensfreude in die Straßen bringen
+  tatsächliche_herkunft: vermutlich alter Handwerksbrauch
+  herkunft_genauigkeit: vermutlich
+GUELTIG_AB: 1702
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 115-muenchen/017
+ENTITÄT: person
+BEZEICHNUNG: Jörg von Halspach
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Baumeister
+  werk1: Frauenkirche (Baubeginn 1468)
+  werk2: Altes Rathaus (Erbauung 1462)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 115-muenchen/018
+ENTITÄT: person
+BEZEICHNUNG: Erasmus Grasser
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Künstler
+  hauptwerk: Moriskentänzer (künstlerischer Höhepunkt des Saals im Alten Rathaus)
+  aufenthaltsort_originale: Münchner Stadtmuseum
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 115-muenchen/019
+ENTITÄT: person
+BEZEICHNUNG: Tobias Volckmer
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Kartograph
+  werk: erster Stadtplan von München
+  jahr: 1613
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 115-muenchen/020
+ENTITÄT: person
+BEZEICHNUNG: Franz Anton Bustelli
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Modelleur
+  institution: Nymphenburger Porzellanmanufaktur
+  lebenszeit: 1723-1763
+  zeitraum_aktivität: Blütezeit der Nymphenburger Porzellanmanufaktur
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 115-muenchen/021
+ENTITÄT: person
+BEZEICHNUNG: Ludwig der Bayer (Kaiser Ludwig)
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel_wahl: 1314 zum König gewählt
+  titel_kaiserliche_wahl: 1328 zum römisch-deutschen Kaiser gewählt
+  amtszeit: 1314-1347
+  herkunft: Sohn Ludwigs von Bayern-München
+  wirkung_münchen: München wird zu einer kaiserlichen Residenzstadt
+  stadtfarbenherkunft: Gebrauch der Farben Schwarz und Gelb (Gold) als Stadtfarben geht wohl auf diese Zeit zurück
+GUELTIG_AB: 1314
+GUELTIG_BIS: 1347
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 115-muenchen/022
+ENTITÄT: person
+BEZEICHNUNG: Heinrich der Löwe
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Herzog von Sachsen und Bayern
+  beteiligung_konflikt: Streit mit Bischof Otto von Freising 1158 um "Munichen"
+  streitort: Augsburg (Kaiser und Reichstag)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 115-muenchen/023
+ENTITÄT: person
+BEZEICHNUNG: Bischof Otto von Freising
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Bischof
+  beteiligung_konflikt: Streit mit Heinrich dem Löwen 1158 um "Munichen"
+  streitort: Augsburg (Kaiser und Reichstag)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 115-muenchen/024
+ENTITÄT: person
+BEZEICHNUNG: Herzog Wilhelm IV.
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erlass: erstes bayerisches Religionsmandat
+  erlass_jahr: 1522
+  inhalt: Zensur-Verordnung gegen Verbreitung und Lesen lutherischen Schrifttums unter Strafe
+  politische_wirkung: Bayern stellt sich offiziell auf die Seite der Gegner Luthers und anderer Reformatoren
+GUELTIG_AB: 1522
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 115-muenchen/025
+ENTITÄT: person
+BEZEICHNUNG: Herzog Albrecht IV.
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erlass: neue Brauordnung für München
+  erlass_jahr: 1487
+  regelwerk_name: Reinheitsgebot
+GUELTIG_AB: 1487
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 115-muenchen/026
+ENTITÄT: person
+BEZEICHNUNG: Kurfürst Maximilian
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  monumentales_werk: Errichtung der Mariensäule
+  monumentales_werk_jahr: 1638
+  gelübde: 1632
+  gelübde_grund: für die Verschonung seiner beiden Hauptstädte Landshut und München vor feindlicher Zerstörung
+  gelübde_kontext: Dreißigjähriger Krieg
+GUELTIG_AB: 1632
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 115-muenchen/027
+ENTITÄT: person
+BEZEICHNUNG: Kurfürstin Henriette Adelaide
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gelöbnis: für die Geburt eines Thronfolgers
+  gelöbnis_erfüllung: St. Kajetan und Klosterkomplex der Theatiner
+  thronfolger: Erbprinz Max Emanuel
+  thronfolger_geburtsjahrgang: 1662
+  gelöbnis_kontext: lang ersehnte Geburt des Stammhalters
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 115-muenchen/028
+ENTITÄT: person
+BEZEICHNUNG: Pfalzgraf Otto von Wittelsbach
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel_erhebung: 1180 Herzog von Bayern
+  династия_herrschaft: Mitglieder des Hauses Wittelsbach regieren als Herzöge, Kurfürsten und Könige von Bayern bis 1918
+  dynastien_dauer_ab: 1180
+  dynastien_dauer_bis: 1918
+GUELTIG_AB: 1180
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 115-muenchen/029
+ENTITÄT: person
+BEZEICHNUNG: Herzog Albrecht (Kurfürst Albrecht)
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  akt_berufung_orden: 1559
+  orden_berufung: Jesuiten
+  grund_berufung: im Sinne der Gegenreformation wirken und Erziehung der Jugend nach katholischen Grundsätzen führen
+  gymnasium_gründung: 1560 (erstes Münchner Gymnasium, später Wilhelms-Gymnasium)
+GUELTIG_AB: 1559
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 115-muenchen/030
+ENTITÄT: person
+BEZEICHNUNG: Kurfürst Karl Theodor
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erkenntnis: München kann keine Festung mehr sein
+  erkenntnis_jahr: 1791
+  folgehandlung: Öffnung des Mauerrings
+  folgehandlung_wirkung: Grundstein für endgültige Integration der St.Anna-Vorstadt beziehungsweise des Lehels
+GUELTIG_AB: 1791
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 115-muenchen/031
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Schäftlarn
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schenkung: 782
+  schenkung_bezug: tatsächlicher Ursprung der Münchner Geschichte
+  empfänger: Kloster Schäftlarn
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 115-muenchen/032
+ENTITÄT: porzellanmanufaktur
+BEZEICHNUNG: Nymphenburger Porzellanmanufaktur
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1753
+  verlegung: 1761
+  verlegung_ort: Nymphenburg
+  blütezeit_modelleur: Franz Anton Bustelli (1723-1763)
+GUELTIG_AB: 1753
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 115-muenchen/033
+ENTITÄT: ort
+BEZEICHNUNG: München
+QUELLE: https://stadt.muenchen.de/infos/stadtbezirke-geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_landeshauptstadt: true
+  fläche_mitte_12_jahrhundert: ca. 14 [hektar]
+  altstadt_viertel_seit: 14. Jahrhundert
+  altstadt_viertel_anzahl: vier
+  altstadt_viertel_struktur: durch kreuzförmige Straßenführung vorgegeben (Sendlinger Tor Süden - Schwabinger Tor Norden; Salzstraße Ost-West)
+  altstadt_viertel_seit_15_jh: Angerviertel, Graggenau, Hackenviertel, Kreuzviertel
+  status_festung_aufgabe_ca: 1791
+  stadtbezirke_anzahl: 25
+  verwaltungsgliederung: Stadtbezirke (seit Gemeindeordnung Artikel 60 unter Berücksichtigung historischer Zusammenhänge)
+  erste_bezirkseinteilung: 1818
+GUELTIG_AB: 1158
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 115-muenchen/034
+ENTITÄT: ereignis
+BEZEICHNUNG: Ausschreitungen gegen Münchner Juden
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1280
+  folgen: zahlreiche Tote
+  zahlenverlässlichkeit: überlieferte Zahlen differieren allerdings stark
+GUELTIG_AB: 1280
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 115-muenchen/035
+ENTITÄT: ereignis
+BEZEICHNUNG: Vertreibung der Juden aus München
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1442
+  anordner: Landesherr (Herzog)
+  maßnahme: Vertreibung
+GUELTIG_AB: 1442
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 115-muenchen/036
+ENTITÄT: ereignis
+BEZEICHNUNG: Sendlinger Mordweihnacht
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1705
+  datum: Weihnachtstag
+  ort: vor den Toren Münchens
+  kontext: Bauernaufstände gegen österreichische Besatzer
+  charakterisierung: blutige Auseinandersetzung
+GUELTIG_AB: 1705
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 115-muenchen/037
+ENTITÄT: ereignis
+BEZEICHNUNG: Zweiter Weltkrieg - Zerstörung Münchens
+QUELLE: https://stadt.muenchen.de/infos/stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  folgen: schwere Zerstörungen von Gebäuden (u.a. Altes Rathaus)
+  wiederaufbau_maßnahmen: Ausstattungen dem ursprünglichen Zustand weitestgehend angeglichen
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 115-muenchen/038
+ENTITÄT: vorstadtgebiet
+BEZEICHNUNG: Schwabing
+QUELLE: https://stadt.muenchen.de/infos/stadtbezirke-geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historischer_status: historisch alter Ort
+  status_ehemals: selbstständiges Pfarrdorf
+  eingemeindung: 1890
+  erreichbarkeit_historisch: durch englischen Garten, Königinstraße oder Nürnberger Landstraße
+  historische_gebäude: altes Kirchlein mit Friedhof und ehemaligem Hospital (Ambrosihaus)
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 115-muenchen/039
+ENTITÄT: stadtviertel
+BEZEICHNUNG: Angerviertel (Altstadt-Viertel)
+QUELLE: https://stadt.muenchen.de/infos/stadtbezirke-geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezeichnung_seit: 15. Jahrhundert
+  teil_von: Altstadt München
+  entstehung: kreuzförmige Straßenführung der Altstadt
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 115-muenchen/040
+ENTITÄT: stadtviertel
+BEZEICHNUNG: Graggenau (Altstadt-Viertel)
+QUELLE: https://stadt.muenchen.de/infos/stadtbezirke-geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezeichnung_seit: 15. Jahrhundert
+  teil_von: Altstadt München
+  entstehung: kreuzförmige Straßenführung der Altstadt
+GUELTIG_AB: 1400
+IST_VERMUTISMUS_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 115-muenchen/041
+ENTITÄT: stadtviertel
+BEZEICHNUNG: Hackenviertel (Altstadt-Viertel)
+QUELLE: https://stadt.muenchen.de/infos/stadtbezirke-geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezeichnung_seit: 15. Jahrhundert
+  teil_von: Altstadt München
+  entstehung: kreuzförmige Straßenführung der Altstadt
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 115-muenchen/042
+ENTITÄT: stadtviertel
+BEZEICHNUNG: Kreuzviertel (Altstadt-Viertel)
+QUELLE: https://stadt.muenchen.de/infos/stadtbezirke-geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezeichnung_seit: 15. Jahrhundert
+  teil_von: Altstadt München
+  entstehung: kreuzförmige Straßenführung der Altstadt
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 115-muenchen/043
+ENTITÄT: vorstadtgebiet
+BEZEICHNUNG: St.Anna-Vorstadt / Lehel
+QUELLE: https://stadt.muenchen.de/infos/stadtbezirke-geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  öffnung_mauerring: ca. 1791
+  grund_öffnung: Erkentnis, dass München keine Festung mehr sein kann
+  integration: endgültige Integration nach Öffnung des Mauerrings
+GUELTIG_AB: 1791
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 115-muenchen/044
+ENTITÄT: vorstadtgebiet
+BEZEICHNUNG: Schönfeldvorstadt
+QUELLE: https://stadt.muenchen.de/infos/stadtbezirke-geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: ca. 1789-1790
+  lage: am Rande des Englischen Gartens
+GUELTIG_AB: 1789
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 115-muenchen/045
+ENTITÄT: vorstadtgebiet
+BEZEICHNUNG: Maximiliansvorstadt
+QUELLE: https://stadt.muenchen.de/infos/stadtbezirke-geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  planung: 1804 Baukommission mit Generalplänen zur Stadterweiterung
+  architektur_stil: klassizistisch
+  gestaltung_durch: Thronfolger und späterer König Ludwig I.
+  stilprägende_zeit: seit 1825
+  funktion: Zentrum von Kunst, Kultur und Bildung
+GUELTIG_AB: 1804
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 115-muenchen/046
+ENTITÄT: vorstadtgebiet
+BEZEICHNUNG: Ludwigsvorstadt
+QUELLE: https://stadt.muenchen.de/infos/stadtbezirke-geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  planung: als modernes grünes Viertel geplant
+  entwicklung: von Industrialisierungsentwicklungen buchstäblich überrollt
+  industrialisierungsfaktoren: Entstehung des Hauptbahnhofs und verschiedener Arbeitersiedlungen
+GUELTIG_AB: 1804
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 115-muenchen/047
+ENTITÄT: vorstadtgebiet
+BEZEICHNUNG: Isarvorstadt
+QUELLE: https://stadt.muenchen.de/infos/stadtbezirke-geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: ab 1861
+  grundeigentum: Grund der Bankiersfamilie von Eichthal
+  ort: am Heilig-Geist-Anger
+  enthält: Gärtnerplatzviertel
+GUELTIG_AB: 1861
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

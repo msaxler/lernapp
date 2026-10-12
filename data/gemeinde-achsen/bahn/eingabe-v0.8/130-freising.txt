@@ -1,0 +1,360 @@
+ZIELORT: Freising (Stadt)
+LAGE: 32 km nordöstlich von München (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Freising
+
+GRUNDDATEN:
+  landkreis: Freising  [dewiki Infobox]
+  bundesland: Bayern  [dewiki Infobox]
+  einwohner: 48.953  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 88,59  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 553  [berechnet aus Einwohner und Fläche]
+  kfz: FS (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 448  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2925034)]
+  naechste_grossstadt: München, 32 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: München, 32 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Freising, München Flughafen Besucherpark, Pulling (b Freising)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 85354, 85356  [Wikidata P281]
+  vorwahl: 08161  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 30 %, GRÜNE 22,2 %, SPD 13,2 %, AfD 11,1 %, Die Linke 8,9 %; Wahlbeteiligung 85,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Monika Schwind (FSM) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-08]
+  partnerstaedte: Obervellach, Innichen, Maria Wörth, Waidhofen an der Ybbs, Arpajon, Škofja Loka  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Fläche der Gemarkung), C, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Hallbergmoos (Gemeinde)
+  landkreis: Freising  [dewiki Infobox]
+  einwohner: 11.602  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 35,09  [Wikidata P2046]
+  kfz: FS (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 460 | 456  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2911530)]
+  naechste_grossstadt: München, 25 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Hallbergmoos  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 39,8 %, AfD 19,1 %, GRÜNE 9,7 %, SPD 9,2 %, Die Linke 5,8 %; Wahlbeteiligung 85,3 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Frankfurt am Main, Rüsselsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Koblenz, Rhens, Boppard, St. Goar, Oberwesel, Bacharach, Bingen, Ingelheim, Alzey, Nierstein, Oppenheim, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg
+
+FAKTEN (Zielort Freising):
+ID: 130-freising/001
+ENTITÄT: ort
+BEZEICHNUNG: Freising
+QUELLE: https://www.freising.de/leben-wohnen/bauen/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_große_kreisstadt: true
+  koordinate_oesten: 11°45´
+  koordinate_norden: 48°24´
+  hoehe_ueber_nn: 448 m
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 130-freising/002
+ENTITÄT: gebaeude
+BEZEICHNUNG: Mariensäule
+QUELLE: https://www.freising.de/stadtportraet/webcam | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Marienplatz
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 130-freising/003
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus
+QUELLE: https://www.freising.de/stadtportraet/webcam | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Marienplatz
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 130-freising/004
+ENTITÄT: kirche
+BEZEICHNUNG: St. Georg
+QUELLE: https://www.freising.de/stadtportraet/webcam | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Pfarrkirche
+  lage: Marienplatz
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 130-freising/005
+ENTITÄT: denkmal
+BEZEICHNUNG: Kriegerdenkmal
+QUELLE: https://www.freising.de/stadtportraet/webcam | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Obere Hauptstraße
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 130-freising/006
+ENTITÄT: gebaeude
+BEZEICHNUNG: Asamgebäude
+QUELLE: https://www.freising.de/kultur-freizeit/stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekturstil: barock
+  ursprung: ehemalige fürstbischöfliche Hochschule
+  lage: Marienplatz 7, 85354 Freising
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 130-freising/007
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum Freising
+QUELLE: https://www.freising.de/kultur-freizeit/stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Marienplatz 7, 85354 Freising
+  gebaeude: Asamgebäude
+  sammlung_zeitraum: Jungsteinzeit bis Gegenwart
+  flaeche: 250 m²
+  neueroeffnung: 20.07.2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 130-freising/008
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum Freising (Vorgänger)
+QUELLE: https://www.freising.de/kultur-freizeit/stadtmuseum/museum-seit-1890 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendet_durch: Historischer Verein Freising
+  erste_heimat: St. Georgsschule, Heiliggeistgasse
+  umzug_zu_asamgebaeude: 1965
+GUELTIG_AB: 1890
+GUELTIG_BIS: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 130-freising/009
+ENTITÄT: verein
+BEZEICHNUNG: Historischer Verein Freising
+QUELLE: https://www.freising.de/kultur-freizeit/stadtmuseum/museum-seit-1890 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendet: 1890
+  beschreibung: Gründer des Stadtmuseums, Besitzer der Sammlung
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 130-freising/010
+ENTITÄT: gebaeude
+BEZEICHNUNG: St. Georgsschule
+QUELLE: https://www.freising.de/kultur-freizeit/stadtmuseum/museum-seit-1890 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Heiliggeistgasse
+  nutzungsgeschichte: Heimat des Stadtmuseums bis 1965
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/011
+ENTITÄT: depot
+BEZEICHNUNG: Modernes Depot (ehemaliger Karzer)
+QUELLE: https://www.freising.de/kultur-freizeit/stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Asamgebäude
+  gegruendet: 2000
+  beschreibung: Im ehemaligen Karzer der bischöflichen Hochschule; Graffiti-Sammlung von Schülern ca. 1740-1770
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 130-freising/012
+ENTITÄT: ortsteil
+BEZEICHNUNG: Pulling
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hat_ortsteilentwicklungskonzept: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 130-freising/013
+ENTITÄT: ortsteil
+BEZEICHNUNG: Attaching
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hat_ortsteilentwicklungskonzept: true
+  hat_altort_wirt: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/014
+ENTITÄT: ortsteil
+BEZEICHNUNG: Achering
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hat_ortsteilentwicklungskonzept: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 130-freising/015
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hohenbachern
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hat_ortsteilentwicklungskonzept: true
+  einwohnerzahl: 530
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/016
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kleinbachern
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hat_ortsteilentwicklungskonzept: true
+  einwohnerzahl: 72
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/017
+ENTITÄT: ortsteil
+BEZEICHNUNG: Tüntenhausen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: größerer Ortsteil im Freisinger Nordosten
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/018
+ENTITÄT: ortsteil
+BEZEICHNUNG: Haindlfing
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: größerer Ortsteil im Freisinger Nordwesten
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/019
+ENTITÄT: ortsteil
+BEZEICHNUNG: Sünzhausen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: größerer Ortsteil im Freisinger Westen
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/020
+ENTITÄT: ortsteil
+BEZEICHNUNG: Itzling
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: größerer Ortsteil im Freisinger Nordwesten
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/021
+ENTITÄT: ortsteil
+BEZEICHNUNG: Erlau
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: größerer Ortsteil im Freisinger Nordosten
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/022
+ENTITÄT: ortsteil
+BEZEICHNUNG: Altenhausen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hat_ortsteilentwicklungsdialog: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/023
+ENTITÄT: ortsteil
+BEZEICHNUNG: Haxthausen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: größerer Ortsteil im Freisinger Westen
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/024
+ENTITÄT: ortsteil
+BEZEICHNUNG: Untergartelshausen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: größerer Ortsteil im Freisinger Nordwesten
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/025
+ENTITÄT: ortsteil
+BEZEICHNUNG: Pallhausen West
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Westen
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/026
+ENTITÄT: ortsteil
+BEZEICHNUNG: Pallhausen Ost
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Westen
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/027
+ENTITÄT: ortsteil
+BEZEICHNUNG: Lageltshausen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Westen
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/028
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gartelshausen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Westen
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/029
+ENTITÄT: ortsteil
+BEZEICHNUNG: Zellhausen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Nordosten
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/030
+ENTITÄT: ortsteil
+BEZEICHNUNG: Zurnhausen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Nordosten
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/031
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gut Piesing
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Nordosten
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/032
+ENTITÄT: ortsteil
+BEZEICHNUNG: Edenhofen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Nordosten
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/033
+ENTITÄT: ortsteil
+BEZEICHNUNG: Garten
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Nordwesten
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/034
+ENTITÄT: ortsteil
+BEZEICHNUNG: Pettenbrunn
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Nordwesten
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/035
+ENTITÄT: ortsteil
+BEZEICHNUNG: Feldhof
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Nordwesten
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 130-freising/036
+ENTITÄT: ortsteil
+BEZEICHNUNG: Vötting
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Nachbarortsteil mit Fahrradwegverbindung zu Hohenbachern geplant
+VERTRAUEN_EXTRAKTION: 0.75
+

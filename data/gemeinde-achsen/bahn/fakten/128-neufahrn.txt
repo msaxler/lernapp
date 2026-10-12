@@ -1,0 +1,872 @@
+ID: 128-neufahrn/001
+ENTITÄT: ort
+BEZEICHNUNG: Neufahrn bei Freising
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  amtliche_bezeichnung: Neufahrn b.Freising
+  landkreis: Freising
+  region: Oberbayern
+  mundart: Neifahrn
+  lage_beschreibung: links der Isar, Grenze zwischen Münchner Schotterebene und tertiärem Donau-Isar-Hügelland
+  entfernung_freising: 10 km südlich
+  entfernung_muenchen: 20 km nordöstlich
+  hoehe_ueber_nn: 464 m
+  flaeche: 45.51 km²
+GUELTIG_AB: 804
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 128-neufahrn/002
+ENTITÄT: ort
+BEZEICHNUNG: Neufahrn bei Freising
+QUELLE: https://www.neufahrn.de/wohnen-leben/neufahrn-kompakt/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_gesamt: 22328
+  einwohner_genauigkeit: mit Mehrfachzählungen
+  einwohner_ohne_mehrfach: 21753
+  siedlungs_verkehrsflaeche_anteil: ca. 15
+  siedlungs_verkehrsflaeche_anteil_einheit: "%"
+  landwirtschaftliche_nutzflaeche_anteil: ca. 85
+  landwirtschaftliche_nutzflaeche_anteil_einheit: "%"
+  geschlossene_waldflaeche: keine
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 128-neufahrn/003
+ENTITÄT: ort
+BEZEICHNUNG: Neufahrn bei Freising
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  klima_jahresmitteltemperatur: 8
+  klima_jahresmitteltemperatur_einheit: "°C"
+  klima_niederschlag_jaehrlich: 800
+  klima_niederschlag_jaehrlich_einheit: mm
+  klima_charakterisierung: humid ganzjährig, Übergansbereich zwischen feuchtem atlantischen und trockenem Kontinentalklima
+  hauptniederschlaege_saison: Sommer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 128-neufahrn/004
+ENTITÄT: ort
+BEZEICHNUNG: Neufahrn bei Freising
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  gemeindeteile_anzahl: 8
+  gemeindeteile: Neufahrn, Mintraching/Grüneck, Massenhausen, Giggenhausen, Fürholzen, Hetzenhausen, Moosmühle, Schaidenhausen
+  nachbargemeinden: Fahrenzhausen, Kranzberg, Freising, Hallbergmoos, Eching
+  einwohnerentwicklung_1988: 14610
+  einwohnerentwicklung_2018: 20223
+  einwohnerentwicklung_wachstum_prozent: 38.4
+  einwohnerentwicklung_wachstum_absolut: 5613
+GUELTIG_AB: 1988
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 128-neufahrn/005
+ENTITÄT: namensherkunft
+BEZEICHNUNG: Neufahrn
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  ursprungsname: Niwiwara
+  jahrzahl: 804
+  bedeutung: bei den sich neu ansiedelnden Familien
+GUELTIG_AB: 804
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 128-neufahrn/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neufahrn
+QUELLE: https://www.neufahrn.de/wohnen-leben/neufahrn-kompakt/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_haupt_erstwohnsitz: 16896
+  einwohner_nebenwohnsitz: 559
+  einwohner_gesamt: 17455
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 128-neufahrn/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neufahrn
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  eigenschaft: einwohnerstärkster Gemeindeteil
+  infrastruktur_kern: Bahnhofstraße und Echinger Straße
+  infrastruktur_zone: Industriegebiet an Eching angrenzend
+  erste_urkundliche_erwaehnung_jahr: 804
+  ursprungsname: Niwiwara
+  namensherkunft: Ansiedlung neuer Familien
+GUELTIG_AB: 804
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 128-neufahrn/008
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mintraching/Grüneck
+QUELLE: https://www.neufahrn.de/wohnen-leben/neufahrn-kompakt/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_haupt_erstwohnsitz: 2074
+  einwohner_nebenwohnsitz: 77
+  einwohner_gesamt: 2151
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 128-neufahrn/009
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mintraching/Grüneck
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  lage: etwa ein Kilometer östlich vom Hauptort
+  besonderheit: Zusammenwuchs früherer separater Orte Mintraching und Grüneck
+  erste_urkundliche_erwaehnung_jahre: 762, 764
+  ursprungsname: Munrihhinga oder Munirinchingun
+  bebauungstyp: Dorf mit Gewerbegebiet und Logistikpark
+GUELTIG_AB: 762
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/010
+ENTITÄT: kirche
+BEZEICHNUNG: Hl. Margarethe
+ORTSTEIL_BEZUG: Mintraching/Grüneck
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  baustil_original: spätgotisch
+  baustil_umbau: barock
+  umbaujahr: 18. Jahrhundert
+  besonderheit: Zwiebelhaube
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 128-neufahrn/011
+ENTITÄT: ortsteil
+BEZEICHNUNG: Massenhausen
+QUELLE: https://www.neufahrn.de/wohnen-leben/neufahrn-kompakt/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_haupt_erstwohnsitz: 1159
+  einwohner_nebenwohnsitz: 44
+  einwohner_gesamt: 1203
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 128-neufahrn/012
+ENTITÄT: ortsteil
+BEZEICHNUNG: Massenhausen
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung_jahre: 887-895
+  ursprungsname: Massinhuson
+  herrschaft: Massenhausener Adelsgeschlecht
+  herrschaft_umfang: Schloss Massenhausen, Schloss Täsingen (Dasing), Höfe und Liegenschaften in umliegenden Ortschaften
+  integration_domstift_freising: 1499
+  eingemeindung_neufahrn: 1820
+  wirtschaft_entwicklung: Regulierung von Moosach und Mauka in 2. Hälfte 19. Jahrhundert
+  eingemeindung_giggenhausen: 1972-01-01
+  eingemeindung_nach_neufahrn: 1978-05-01
+GUELTIG_AB: 887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/013
+ENTITÄT: kirche
+BEZEICHNUNG: Zu unserer lieben Frau
+ORTSTEIL_BEZUG: Massenhausen
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  baustil: gotisch
+  besonderheit: reicher Kirchenschatz, bemerkenswerte Ausstattung
+  zeugnis: ehemaliger Glanz der Massenhausener Schlossherren
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 128-neufahrn/014
+ENTITÄT: ortsteil
+BEZEICHNUNG: Giggenhausen
+QUELLE: https://www.neufahrn.de/wohnen-leben/neufahrn-kompakt/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_haupt_erstwohnsitz: 634
+  einwohner_nebenwohnsitz: 28
+  einwohner_gesamt: 662
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 128-neufahrn/015
+ENTITÄT: ortsteil
+BEZEICHNUNG: Giggenhausen
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  namensherkunft: Namensgeber vermutlich Gueticho
+  namensherkunft_genauigkeit: vermutlich
+  urgeschichte: Pfarrsitz schon in frühesten Zeiten
+  filialkirche_seit: 1390
+  filialkirche_von: Massenhausener Pfarrei
+  leid_dreissigjähriger_krieg: ja
+  schutz_dreissigjähriger_krieg: Schutzbriefe von Wrangel (Schweden) und Turenne (Frankreich)
+  schutzbrief_vermittler: Puech (Diplomat, Domherr, Pfarrherr Massenhausen)
+  zeit_schutzbrief: letzte Kriegsjahre
+  oesterreichischer_erbfolgekrieg_leid: 1745, ca. 22000 Mann lagerten in Dörfern, Bauern litten Not
+  napoleon_zeit_leid: um 1805
+  schule_errichtung: 1837
+  gemeinde_gliederung: Giggenhausen, Schaidenhausen, Moosmühle
+  eingemeindung_massenhausen: 1972-01-01
+  eingemeindung_neufahrn: 1978-05-01
+  segelflugplatz_name: Lange Haken
+  segelflugplatz_lage: zwischen Giggenhausen und Pulling
+  segelflugplatz_betrieb: 1963-1992
+  segelflugplatz_grund_schliessung: Lage in Einflugschneise Münchner Flughafen
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 128-neufahrn/016
+ENTITÄT: ortsteil
+BEZEICHNUNG: Fürholzen
+QUELLE: https://www.neufahrn.de/wohnen-leben/neufahrn-kompakt/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_haupt_erstwohnsitz: 459
+  einwohner_nebenwohnsitz: 8
+  einwohner_gesamt: 467
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 128-neufahrn/017
+ENTITÄT: ortsteil
+BEZEICHNUNG: Fürholzen
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  lage: paar Kilometer nordwestlich Neufahrns am Rande des tertiären Hügellandes
+  erste_urkundliche_erwaehnung_jahr: 772
+  ursprungsname: Furiholci
+  ursprungsname_bedeutung: vor dem Holz, vor dem Wald
+  pfarrei_gruendung: 772
+  erste_kirche_bau: 772
+  pfarrei_verwaltung: Freisinger Domgeistliche
+  pfarrei_betreuung: Hilfspriester und Vikare
+  neue_pfarrkirche_name: St. Stephanus
+  neue_pfarrkirche_baujahr: 1723
+  neue_pfarrkirche_stil: barock
+  erste_schule_eroeffnung: 1852
+  versteck_person: Robert Lembke
+  versteck_zeit: September 1944 bis Kriegsende 1945
+  gemeindezugehoerigkeit_vorher: Massenhausen
+  eingemeindung_neufahrn: 1978-05-01
+GUELTIG_AB: 772
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/018
+ENTITÄT: kirche
+BEZEICHNUNG: St. Stephanus
+ORTSTEIL_BEZUG: Fürholzen
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1723
+  baustil: barock
+GUELTIG_AB: 1723
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 128-neufahrn/019
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hetzenhausen
+QUELLE: https://www.neufahrn.de/wohnen-leben/neufahrn-kompakt/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_haupt_erstwohnsitz: 231
+  einwohner_nebenwohnsitz: 8
+  einwohner_gesamt: 239
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 128-neufahrn/020
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hetzenhausen
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  hoehe_ueber_nhn: 499 m
+  hoehe_bedeutung: höchstgelegener Gemeindeteil
+  lage_topographie: Höhenzug zwischen Isar- und Ampertal
+  keltische_funde: ja
+  keltische_funde_zeit: ca. 450 v. Chr.
+  urkundliche_erwaehnung_unsicherheit: Schwierig zu filtern, mehrere Namensvarianten
+  urkundliche_erwaehnung_varianten: Zezinhusir, Zezinhusa, Hezinhusa, Zezinhusen
+  urkundliche_erwaehnung_verwechselung_moeglichkeit: Etzenhausen im Landkreis Dachau
+  beruehmt_person: Neidhart von Reuental
+  beruehmt_person_wahrscheinlichkeit: vermutlich
+  beruehmt_person_zeit: hohes Mittelalter
+  beruehmt_person_beruf: Dichter und Minnesänger
+  dorfkirche_name: St. Martin
+  dorfkirche_ursprung_zeit: 2. Hälfte 13. Jahrhundert
+  dorfkirche_ursprung_wahrscheinlichkeit: aller Wahrscheinlichkeit nach
+  dorfkirche_umbau: 1709
+  dorfkirche_skulptur: sehenswert
+  dorfkirche_skulptur_zuordnung: Meister der Münchner Schule
+  dorfkirche_skulptur_zeit: gegen Ende 15. Jahrhundert
+  gemeindezugehoerigkeit_vorher: Massenhausen
+  eingemeindung_neufahrn: 1978-05-01
+GUELTIG_AB: 450
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 128-neufahrn/021
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+ORTSTEIL_BEZUG: Hetzenhausen
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit_ursprung: 2. Hälfte 13. Jahrhundert
+  umbau_jahr: 1709
+  skulptur_zuordnung: Meister der Münchner Schule gegen Ende 15. Jahrhundert
+  skulptur_beschreibung: sehenswert
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/022
+ENTITÄT: ortsteil
+BEZEICHNUNG: Moosmühle
+QUELLE: https://www.neufahrn.de/wohnen-leben/neufahrn-kompakt/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_haupt_erstwohnsitz: 94
+  einwohner_nebenwohnsitz: 5
+  einwohner_gesamt: 99
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 128-neufahrn/023
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schaidenhausen
+QUELLE: https://www.neufahrn.de/wohnen-leben/neufahrn-kompakt/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner_haupt_erstwohnsitz: 47
+  einwohner_nebenwohnsitz: 5
+  einwohner_gesamt: 52
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 128-neufahrn/024
+ENTITÄT: kirche
+BEZEICHNUNG: St. Wilgefortis
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  baustil_original: 14./15. Jahrhundert
+  weihe_jahr: 1499
+  baustil_umbau: barock
+  umbau_jahr: 1715
+  besonderheit: Pfarr- und Wallfahrtskirche
+  ausstattung: Wilgefortis-Kreuz am Hauptaltar
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 128-neufahrn/025
+ENTITÄT: see
+BEZEICHNUNG: Neufahrner Mühlseen
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  eigenschaft: Baggerseen
+  entstehung_zeitraum: Anfang 1970er
+  entstehung_grund: Kiesabbau für Autobahn nach Deggendorf
+  anzahl: 3
+  ausbaur_massnahmen_beginn: 1983
+  infrastruktur_initial: keine
+  zweck: Erholungsgebiet
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 128-neufahrn/026
+ENTITÄT: see
+BEZEICHNUNG: Sportsee
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  teil_von: Neufahrner Mühlseen
+  flaeche: 9 ha
+  flaeche_charakterisierung: größter der Mühlseen
+  ausweisung: Sportsee
+GUELTIG_AB: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/027
+ENTITÄT: see
+BEZEICHNUNG: Badesee
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  teil_von: Neufahrner Mühlseen
+  flaeche: 4.1 ha
+  ausgestaltung: Badesee
+GUELTIG_AB: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/028
+ENTITÄT: see
+BEZEICHNUNG: Naturschutz-See
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  teil_von: Neufahrner Mühlseen
+  flaeche: 3.6 ha
+  flaeche_charakterisierung: kleinster der Mühlseen
+  zweck: der Natur vorbehalten
+GUELTIG_AB: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/029
+ENTITÄT: gewaesser
+BEZEICHNUNG: Galgenbachweiher
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  flaeche: 0.7 ha
+  lage: nordöstlicher Ortsrand von Neufahrn
+  ursprung: Rest des Galgenbachs
+  geschichte_zuschuettung: 1858 beim Bau der Bahnlinie München–Landshut
+  geschichte_verwendung: Versuchsteich für Karpfenzucht
+  rekultivierung: 1970er Jahre
+  integration: Neufahrner Freizeit- und Sportpark
+GUELTIG_AB: 1858
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/030
+ENTITÄT: buergermeister
+BEZEICHNUNG: Franz Heilmeier
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  partei: Bündnis 90/Die Grünen
+  wahl_jahr: 2014
+  wahl_art: Stichwahl
+  wahl_ergebnis_prozent: 59.07
+  wahlamt_beginn: 2014
+  besonderheit: erster Bürgermeister der Grünen im Landkreis Freising
+  wiederwahl_jahr: 2020
+  wiederwahl_ergebnis_prozent: 50.65
+GUELTIG_AB: 2014
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 128-neufahrn/031
+ENTITÄT: buergermeister
+BEZEICHNUNG: Ozan İyibaş
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  partei: CSU
+  wahl_jahr: 2026
+  wahl_art: Stichwahl
+  wahl_datum: 2026-03-22
+  wahl_ergebnis_prozent: 53.6
+  gegenkanditat: Christian Meidinger
+  gegenkanditat_partei: Bündnis 90/Die Grünen
+  wahlamt_beginn: 2026
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 128-neufahrn/032
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Gardolo
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  stadt: Trient
+  stadt_italienisch: Trento
+  land: Norditalien
+  stadtteil_von: Trient
+  region: Norden von Trient
+  partnerschaft_jahr: 1983
+GUELTIG_AB: 1983
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 128-neufahrn/033
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Neufahrn bei Freising
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: In Grün aus einer flachen halben, goldenen Spitze, darin ein golden durchbohrtes schwarzes 10-faches Zahnrad mit goldenem Ring, ein wachsendes goldenes Wiederkreuz mit gelängten Seitenarmen
+  oberer_teil_symbol: altes Neufahrn
+  oberer_teil_element: gelbes Kreuz auf grünem Grund
+  oberer_teil_element_name: Wilgefortis-Kreuz
+  oberer_teil_fundort: Hauptaltar der St. Wilgefortis
+  oberer_teil_gruenground_bedeutung: Heidelandschaft (Gfild)
+  unterer_teil_symbol: modernes Neufahrn
+  unterer_teil_element: schwarzes Zahnrad in goldener Spitze
+  unterer_teil_bedeutung: Ansiedlung von Handwerk und Gewerbe auf goldenem Boden
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 128-neufahrn/034
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule 1
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  typ: Grundschule
+  anzahl: 2 insgesamt
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 128-neufahrn/035
+ENTITÄT: schule
+BEZEICHNUNG: Mittelschule
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  typ: Mittelschule
+  anzahl: 1
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 128-neufahrn/036
+ENTITÄT: schule
+BEZEICHNUNG: Oskar-Maria-Graf-Gymnasium
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  typ: Gymnasium
+  namenspate: Oskar Maria Graf
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 128-neufahrn/037
+ENTITÄT: sportverein
+BEZEICHNUNG: TC Blau-Weiß Neufahrn
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Tennis
+  besonderheit: ehemaliger Tennis-Bundesligist
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 128-neufahrn/038
+ENTITÄT: sportverein
+BEZEICHNUNG: TSV Neufahrn
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  lage: Freizeit- und Sportpark
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 128-neufahrn/039
+ENTITÄT: sportverein
+BEZEICHNUNG: FC Neufahrn
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Fussball
+  lage: Freizeit- und Sportpark
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 128-neufahrn/040
+ENTITÄT: bad
+BEZEICHNUNG: Hallenbad Neufun
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  lage: Freizeit- und Sportpark
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 128-neufahrn/041
+ENTITÄT: freizeitanlage
+BEZEICHNUNG: FlyStation
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  typ: Indoor-Skydive-Anlage
+  gruendung_jahr: 2018
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/042
+ENTITÄT: freizeitanlage
+BEZEICHNUNG: Cineplex-Kino
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  kino_saeale: 16
+  zusatzangebot: Bowling, Escape-Room, Lasertag
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 128-neufahrn/043
+ENTITÄT: unternehmen
+BEZEICHNUNG: HUK-COBURG
+QUELLE: https://www.neufahrn.de/strukturierte-daten/firmen/wirtschaft/huk-coburg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  leistung: Beratung und Vermittlung von Versicherungen, Bausparverträge
+  adresse: Ohmweg 1
+  plz: 85375
+  ort: Neufahrn bei Freising
+  telefon: "08165 62463"
+  fax: "08165 632058"
+  website: huk.de
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/044
+ENTITÄT: unternehmen
+BEZEICHNUNG: Auto-Burglechner GmbH
+QUELLE: https://www.neufahrn.de/strukturierte-daten/firmen/wirtschaft/auto-burglechner-gmbh/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  leistung: Kfz-Reparaturen
+  adresse: Münchner Straße 22-24
+  plz: 85375
+  ort: Neufahrn-Mintraching
+  telefon: "08165 9155"
+  fax: "08165 9157"
+ORTSTEIL_BEZUG: Mintraching
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/045
+ENTITÄT: unternehmen
+BEZEICHNUNG: Auburger Fun & Freizeit GmbH
+QUELLE: https://www.neufahrn.de/strukturierte-daten/firmen/wirtschaft/auburger-fun-freizeit-gmbh/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  leistung: Betrieb von Spiel- und Freizeitanlagen (Lasertag-Anlage)
+  adresse: Bajuwarenstraße 5
+  plz: 85375
+  ort: Neufahrn-Mintraching
+  telefon: "08165 9059130"
+  email: info@muenchen-lasertag.de
+  website: Lasertag-Neufahrn.de
+ORTSTEIL_BEZUG: Mintraching
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/046
+ENTITÄT: unternehmen
+BEZEICHNUNG: MAN
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  lage: Gewerbegebiet an Eching angrenzend
+  beschreibung: Einzelne Standorte ansässig
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 128-neufahrn/047
+ENTITÄT: unternehmen
+BEZEICHNUNG: Schenker AG
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  lage: Gewerbegebiet an Eching angrenzend
+  beschreibung: Einzelne Standorte ansässig
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 128-neufahrn/048
+ENTITÄT: unternehmen
+BEZEICHNUNG: BMW
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  lage: Gewerbegebiet an Eching angrenzend
+  beschreibung: Einzelne Standorte ansässig
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 128-neufahrn/049
+ENTITÄT: unternehmen
+BEZEICHNUNG: DPD Deutschland
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  lage: Niederlassung in Neufahrn
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 128-neufahrn/050
+ENTITÄT: verein
+BEZEICHNUNG: NordAllianz – Metropolregion München Nord
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  mitgliedschaft: Neufahrn ist Mitglied
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 128-neufahrn/051
+ENTITÄT: verkeehrsmittel
+BEZEICHNUNG: S-Bahn S1
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  anbindung: München, Freising, Flughafen München
+  bahnhof_neufahrn: ja
+  fahrtzeit_muenchen_neufahrn: ca. 30 Minuten
+  fahrtzeit_startpunkt: Münchner Hauptbahnhof
+  taktung_tagsueber: 20-Minuten-Takt
+  endbahnhoefe: Freising, Flughafen München (Teilung in Neufahrn)
+  betreiber: MVV (Münchner Verkehrs- und Tarifverbund)
+  direktanschluss_ubahn: Feldmoching, Moosach (U-Bahn München)
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 128-neufahrn/052
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Neufahrn
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  bahnstrecke: München–Regensburg
+  bahnstrecke_nutzung: S1
+GUELTIG_AB: 1858
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/053
+ENTITÄT: autobahn
+BEZEICHNUNG: A9 München–Nürnberg
+QUELLE: https://www.neufahrn.de/wohnen-leben/neufahrn-kompakt/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Autobahnkreuz Neufahrn
+  ausfahrt: Eching/Neufahrn
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/054
+ENTITÄT: autobahn
+BEZEICHNUNG: A92 München–Deggendorf
+QUELLE: https://www.neufahrn.de/wohnen-leben/neufahrn-kompakt/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Autobahnkreuz Neufahrn
+  ausfahrt_1: Eching Ost
+  ausfahrt_2: Freising Süd (bindet Gemeindeteil Mintraching/Grüneck an)
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/055
+ENTITÄT: flughafen
+BEZEICHNUNG: Flughafen München
+QUELLE: https://www.neufahrn.de/wohnen-leben/neufahrn-kompakt/zahlen-und-fakten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entfernung_neufahrn: ca. 6 km
+  lage_allgemein: östlich
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/056
+ENTITÄT: flughafen
+BEZEICHNUNG: Flughafen München
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  entfernung_neufahrn: ca. 10 km
+  lage: östlich im Erdinger Moos
+  eigenschaft: international
+GUELTIG_AB: Unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/057
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Gleb Rahr
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1922-2006
+  beruf: exilrussischer Journalist und Kirchenhistoriker
+  aufenthalt_neufahrn: 1975-1980
+GUELTIG_AB: 1975
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 128-neufahrn/058
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Anke Martiny
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1939-2016
+  berufe: Politikerin (SPD), Journalistin, Publizistin
+  bundestag_mitglied: 1972-1989
+  kultursenatorin_berlin: 1989-1991
+  wohnort: Neufahrn
+GUELTIG_AB: 1939
+GUELTIG_BIS: 2016
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 128-neufahrn/059
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hans-Heinrich Held
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  lebensjahre: 1957-2015
+  beruf: Vielseitigkeitsreiter und Landwirt
+GUELTIG_AB: 1957
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/060
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Christian Grundner
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1968
+  beruf: Ultra-Langstreckenläufer
+  wohnort: Neufahrn
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/061
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Conny Kreitmeier
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1971
+  berufe: Sängerin, Musik-Kabarettistin, Entertainerin, Komponistin, Gesangsdozentin
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 128-neufahrn/062
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Neidhart von Reuental
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  zeit: hohes Mittelalter
+  beruf: Dichter und Minnesänger
+  herkunft_vermutung: Hetzenhausen
+  herkunft_vermutung_genauigkeit: vermutlich
+  renommee: zu den berühmtesten Dichtern und Minnesängern seiner Zeit
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 128-neufahrn/063
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Robert Lembke
+QUELLE: https://de.wikipedia.org/wiki/Neufahrn_bei_Freising | Wikipedia
+EIGENSCHAFTEN:
+  versteck_ort: Fürholzen
+  versteck_zeitraum: September 1944 bis Kriegsende 1945
+  kontext: Zweiter Weltkrieg
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

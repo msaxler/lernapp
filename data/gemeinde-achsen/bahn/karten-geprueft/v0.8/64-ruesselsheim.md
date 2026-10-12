@@ -167,7 +167,8 @@ Eine Rüsselsheimer Kellereirechnung von 1435 ist für Weinfreunde bedeutsam. Wa
 3. Sie ist der älteste bekannte Trollinger-Nachweis.
 4. Sie ist der älteste bekannte Spätburgunder-Nachweis.
 RÜCKSEITE:
-„Du hattest [Option] getippt. Silvaner liegt als alte, weit verbreitete Sorte nahe, und an Wein denkt bei Rüsselsheim kaum jemand. Doch die Kellereirechnung nennt den Riesling: der älteste bekannte Nachweis dieser Rebsorte. Seit 1980 erinnert ein kleiner Weinberg auf städtischem Grund daran. Richtig war 2.“ Quelle: Stadt Rüsselsheim am Main, main-ruesselsheim.de
+Du hattest [Option] getippt. Silvaner liegt als alte, weit verbreitete Sorte nahe, und an Wein denkt bei Rüsselsheim kaum jemand. Doch die Kellereirechnung nennt den Riesling: der älteste bekannte Nachweis dieser Rebsorte. Seit 1980 erinnert ein kleiner Weinberg auf städtischem Grund daran. Richtig war 2.
+Quelle: Stadt Rüsselsheim am Main, main-ruesselsheim.de
 WÖRTER RÜCKSEITE: 48
 NEGATIVNACHWEISE:
 1: Weg (c). FAKTEN nennen für die Rechnung genau eine Rebsorte als ältesten bekannten Nachweis: den Riesling.
@@ -214,7 +215,8 @@ Der Rüsselsheimer Ruder-Klub 08 begann als Ruderverein mit Bootshaus am Main. W
 3. Er ist heute vor allem für Drachenboote bekannt.
 4. Er ist heute vor allem für Wasserski bekannt.
 RÜCKSEITE:
-„Du hattest [Option] getippt. Ein Ruderklub mit Bootshaus am Main – da liegt ein anderer Wassersport nahe. Doch der RRK ist heute vor allem für Hockey bekannt. Er holte 24 deutsche Meistertitel im Hockey, seine Damen zudem 16 Europapokale in Halle und Feld. Richtig war 1.“ Quelle: Rüsselsheimer Ruder-Klub 08, rrk-online.de
+Du hattest [Option] getippt. Ein Ruderklub mit Bootshaus am Main – da liegt ein anderer Wassersport nahe. Doch der RRK ist heute vor allem für Hockey bekannt. Er holte 24 deutsche Meistertitel im Hockey, seine Damen zudem 16 Europapokale in Halle und Feld. Richtig war 1.
+Quelle: Rüsselsheimer Ruder-Klub 08, rrk-online.de
 WÖRTER RÜCKSEITE: 46
 NEGATIVNACHWEISE:
 2: Weg (c). FAKTEN nennen genau einen Schwerpunkt, für den der Klub bekannt ist: Hockey.

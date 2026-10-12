@@ -1,0 +1,368 @@
+ENTITÄT: ort
+BEZEICHNUNG: Moosburg an der Isar
+QUELLE: https://www.moosburg.de/Geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grund_staendigung_als_stadt: Benediktinerabtei 769
+  transfer_bistum_freising: 895
+  reliquien_hl_kastulus: vor 809
+  marktrechtsverleihung: vor 1155
+  zollstation: vor 1155
+  stadt_bezeugt: 1313
+  freiheitsbrief: 1331
+  mauerring_beginn: 1403
+  superlativ_bedeutung: zentraler Ort des 12. Jahrhunderts
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ort
+QUELLE: https://www.moosburg.de/Einwohnerzahlen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl_gesamt: 20945
+  hauptwohnsitz: 20561
+  nebenwohnsitz: 386
+  deutsche_staatsangehoerigkeit: 16345
+  deutsche_staatsangehoerigkeit_maennlich: 8177
+  deutsche_staatsangehoerigkeit_weiblich: 8168
+  auslaendische_staatsangehoerigkeit: 4600
+  auslaendische_staatsangehoerigkeit_maennlich: 2462
+  auslaendische_staatsangehoerigkeit_weiblich: 2138
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ENTITÄT: kirche
+BEZEICHNUNG: Kastuluskirche
+QUELLE: https://www.moosburg.de/Geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundsteinlegung: 1171
+  grundsteinlegung_durch: Herzog Heinrich der Löwe
+  neuweihe_nach_brand: 1212
+  neubau_chor: 1468
+  neubau_chor_durch: Herzog Ludwig der Reiche von Landshut
+  kunsthistorisches_denkmal: true
+  hauptaltar_kunstwerk: Hans Leinberger, 14 Meter hoch
+  hauptaltar_aufstellung: ca. 16. Jahrhundert
+GUELTIG_AB: 1171
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: adelsgeschlecht
+BEZEICHNUNG: Grafen von Moosburg
+QUELLE: https://www.moosburg.de/Geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erloschen: 1281
+  letzter_graf: Konrad der IV.
+  wappentiere: 3 Rosen
+  beschreibung: Lehen fielen nach Erlöschen an Lehensherren zurück
+GUELTIG_BIS: 1281
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: wappen
+QUELLE: https://www.moosburg.de/Wappen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Geteilt von Silber und Rot; oben zwei rote heraldische Rosen, unten eine silberne heraldische Rose, alle mit goldenen Butzen
+  herkunft: Schildbild der 1281 ausgestorbenen Grafen von Moosburg
+  aeltestes_siegel: 1374
+  fruehere_entstehung_vermutet: zeitlich nah bei Stadtrechtsverleihung 1331
+  aelteste_farbige_darstellung: 1517, Hochaltarbild des Moosburger Kastulus-Münsters
+  wappenfuehrung_seit: 14. Jahrhundert
+  fahne: Weiß-Rot
+GUELTIG_AB: 1374
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: brandschaedigung
+QUELLE: https://www.moosburg.de/Geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1207
+  ausloeser: Grafen von Moosburg Hausbrand
+  auswirkung: Stiftskirche teilweise zerstört
+  folgen: Grafen bauen neues Schloss südlich
+GUELTIG_BIS: 1207
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: brandschaedigung
+QUELLE: https://www.moosburg.de/Geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1632
+  kontext: 30jähriger Krieg, mehrmalige Besetzung und Brandschatzung
+  auswirkung: wirtschaftliche und soziale Verelendung
+GUELTIG_BIS: 1632
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: brandschaedigung
+QUELLE: https://www.moosburg.de/Geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1702
+  charakter: großer Brand
+  auswirkung: mehr als die Hälfte der Häuser zerstört
+  folgen: Innenstadt vom Baustil des 19. Jahrhunderts geprägt
+GUELTIG_BIS: 1702
+IST_VERMUTISMUS_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: brandschaedigung
+QUELLE: https://www.moosburg.de/Geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1865
+  charakter: verheerender Stadtbrand
+GUELTIG_BIS: 1865
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Süd-Chemie
+QUELLE: https://www.moosburg.de/Geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1906
+  industrie: Verarbeitung von Tonerde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Steinbock
+QUELLE: https://www.moosburg.de/Geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1922
+  industrie: Maschinenfabrik, später Gabelstaplerhersteller
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Molkerei und Käsewerk
+QUELLE: https://www.moosburg.de/Geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1936
+  industrie: Molkereiprodukte und Käsewerk
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Driescher
+QUELLE: https://www.moosburg.de/Geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1938
+  industrie: elektrotechnisches Unternehmen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: unternehmen
+BEZEICHNUNG: Peschler
+QUELLE: https://www.moosburg.de/Geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1939
+  industrie: Fahrzeughersteller
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: kriegsgefangenenlager
+BEZEICHNUNG: STALAG VII A
+QUELLE: https://www.moosburg.de/Geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betriebszeit: 1939-1945
+  errichtung: September 1939
+  anlass: 2. Weltkrieg
+  befreiung: Ende April 1945
+  befreiung_durch: Amerikaner
+  flaeche: 35 ha
+  kapazitaet_initial: 10000 gefangene
+  kapazitaet_maximum: 80000 gefangene
+  gefangene_franzosen_1945: 38000
+  gefangene_sowjetunion_1945: 14300
+  nutzung_nach_befreiung: 1945-1948 Arbeits- und Internierungslager
+  flaeche_freigegeben: 1948
+  folge: Entstehung Moosburg-Neustadt
+  superlativ: eines der größten Kriegsgefangenenlager auf deutschem Boden
+GUELTIG_BIS: 1948
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Moosburg-Neustadt
+QUELLE: https://www.moosburg.de/Geschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: nach 1948
+  grund: Umsiedlung von Heimatvertriebenen auf Stalag-Gelände
+  entstehungszeit: 1948
+GUELTIG_AB: 1948
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: schule
+BEZEICHNUNG: Theresia-Gerhardinger-Grundschule
+QUELLE: https://www.moosburg.de/Schulen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+  lage: Nord
+  adresse: Albinstraße 14
+  telefon: 08761 4466
+  webseite: http://tg-moosburg.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schule
+BEZEICHNUNG: Anton-Vitzthum-Grundschule
+QUELLE: https://www.moosburg.de/Schulen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+  lage: Süd
+  adresse: Münchener Straße 29
+  telefon: 08761 4284
+  webseite: http://www.anton-vitzthum-grundschule.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schule
+BEZEICHNUNG: Georg-Hummel-Mittelschule
+QUELLE: https://www.moosburg.de/Schulen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schultyp: Mittelschule
+  adresse: Schlesierstr. 2
+  telefon: 08761 7259-0
+  webseite: http://www.mittelschule-moosburg.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schule
+BEZEICHNUNG: Kastulus Realschule Moosburg
+QUELLE: https://www.moosburg.de/Schulen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schultyp: Realschule
+  adresse: Breitenbergstraße 22
+  telefon: 08761 3308-0
+  webseite: http://www.realschulemoosburg.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schule
+BEZEICHNUNG: Karl-Ritter-von-Frisch-Gymnasium
+QUELLE: https://www.moosburg.de/Schulen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schultyp: Gymnasium
+  adresse: Albinstraße 5
+  telefon: 08761 7227-0
+  webseite: http://www.gymnasium-moosburg.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: schule
+BEZEICHNUNG: Sonderpädagogisches Förderzentrum Freising, Außenstelle Moosburg
+QUELLE: https://www.moosburg.de/Schulen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schultyp: Förderzentrum
+  foerderschwerpunkte: Sprache, Lernen, emotionale und soziale Entwicklung
+  adresse: Stellwerkstraße 49
+  telefon: 08761 2661
+  webseite: http://www.sfz-freising.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: institution
+BEZEICHNUNG: VHS - Volkshochschule Moosburg
+QUELLE: https://www.moosburg.de/Schulen.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einrichtungstyp: Volkshochschule
+  adresse: Stadtplatz 2
+  telefon: 08761 72250
+  webseite: http://www.vhs-moosburg.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: markt
+BEZEICHNUNG: Wochenmarkt Moosburg
+QUELLE: https://www.moosburg.de/wochenmarkt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tag_regulaer: Samstag
+  zeit: 07:00-12:00 Uhr
+  zusaetzlicher_tag: Mittwoch mit kleiner Auswahl Grüner Markt
+  ort: Auf dem Plan (Altstadt)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Pfrombach
+QUELLE: https://www.moosburg.de/12-aenderung-teilbereich-im-ortsteil-pfrombach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gewerbegebiet: Pfrombach (Nau-Gelände)
+  bebauungsplan_nr: 70 "Containerbau ELA"
+  flaeche_plangebiet: 4.6 ha
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: ortsteil
+BEZEICHNUNG: Feldkirchen
+QUELLE: https://www.moosburg.de/feldkirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bebauungsplan_nr: 74 "Feldkirchen"
+  saatgutbetrieb: vorhanden, als Sondergebiet ausgewiesen
+  flaeche_plangebiet: 5.41 ha
+  nutzungsmischung: Landwirtschaft, Wohnen, Gewerbe
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum der Stadt Moosburg a. d. Isar
+QUELLE: https://stalag7a.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  objekte: Objekte aus dem Stalag VII A
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: museum
+BEZEICHNUNG: Stalag-Neustadt-Museum
+QUELLE: https://stalag7a.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  themenbereiche: Kriegsgefangenenlager und Nachkriegsjahre
+  materialien: historische Fotos aus Stalag und Nachkriegsjahren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ENTITÄT: institution
+BEZEICHNUNG: Klimaschutzmanagement Moosburg
+QUELLE: https://www.moosburg.de/klimaschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  energiewendebeschluss: 2007
+  ziel_erneuerbare_energien: 100% bis 2035
+  klimaschutzkonzept_erstellung: 2014-2015
+  klimaschutzmanagerin: Melanie Falkenstein
+  amtsantritt_klimaschutzmanagerin: 01.03.2016
+  foerderung: Bundesministerium für Umweltschutz, Naturschutz und nukleare Sicherheit
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: bauwerk
+BEZEICHNUNG: Eisstadion Moosburg
+QUELLE: https://www.moosburg.de/homepage | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  oeffnungsstart: 14. September 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ENTITÄT: amt
+BEZEICHNUNG: Erster Bürgermeister
+QUELLE: https://www.moosburg.de/sachgebiete | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtsinhaber: Josef Dollinger
+  gueltig_ab: vor 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ENTITÄT: baugebiet
+BEZEICHNUNG: WA Amperauen
+QUELLE: https://www.moosburg.de/wa-amperauen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bebauungsplan_nr: 52
+  gebietstyp: allgemeines Wohngebiet
+  flaeche: 6.41 ha
+  lage: Nordwesten Stadtgebiet
+  angrenzende_infrastruktur: Staatsstraße 2085 in Richtung Mauern, Westumfahrung
+  feststellung: 08.03.2018
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

@@ -1,0 +1,549 @@
+ID: 111-burgau/001
+ENTITÄT: ort
+BEZEICHNUNG: Burgau
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Zahlen-Daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_nennung: 1147
+  koordinaten: 10.4072°O / 48.4329°N
+  hoehe: 462 [m ü. NHN]
+  flaeche: 25.92 [km²]
+  einwohner: 10784 [Stand 01.10.2025]
+  postleitzahl: 89331
+  telefonvorwahl: 08222
+  bundesland: Bayern
+  regierungsbezirk: Schwaben
+  landkreis: Günzburg
+  lage: zwischen Flüssen Mindel und Kammel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 111-burgau/002
+ENTITÄT: ort
+QUELLE: https://www.burgau.de/Stadtportrait/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_markgrafenstadt: true
+  markgrafenwuerde_erlangt: 1212
+  zugehoerigkeit: Österreich (externe Exklave)
+  gueltig_ab: 1200 [ca.]
+  gueltig_bis: 1806
+  ist_exklave_oesterreich: true
+  verwaltungsmittelpunkt: Markgrafenschaft
+  gueltig_ab_verwaltung: 1200 [ca.]
+  gueltig_bis_verwaltung: 1744
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 111-burgau/003
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bruno (Prun) von Burgau
+QUELLE: https://www.burgau.de/Stadtportrait/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Ministeriale und Amtsträger Herzog Welfs VI.
+  status_1147: unfrei, Ministeriale
+  status_1156: frei (liber)
+  urkundliche_erwaehnung: 1147
+  aufstieg_zu_freien: 1156
+  ansehen: gestiegen (Platzierung in Zeugenlisten)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 111-burgau/004
+ENTITÄT: burg
+BEZEICHNUNG: Burg Burgau
+QUELLE: https://www.burgau.de/Stadtportrait/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: um 1100
+  zerstoert_durch: Feuerbrunst
+  zerstoerung_zeitraum: erste Haelfte 18. Jahrhundert
+  neubau: nach Feuerbrunst
+  beschreibung: weithin sichtbar, überragt Mindeltal
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 111-burgau/005
+ENTITÄT: kirche
+BEZEICHNUNG: St. Leonhard
+QUELLE: https://www.burgau.de/Stadtportrait/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1667
+  status: bedeutsames Dokument des Übergangs vom Rokoko zum Klassizismus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 111-burgau/006
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche Burgau
+QUELLE: https://www.burgau.de/Stadtportrait/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baumeister: Kaspar Zengerle (Vorarlberger Baumeister)
+  bauzeit: 1788-1791
+  baustil: Uebergang Rokoko zu Klassizismus
+  fresken: Johann Baptist Enderle und Konrad Huber
+  grund_neubau: Erhebung zur eigenstaendigen Pfarrei
+  veroeffentlichung_pfarrei_urkunde: 09.05.1725
+  vorgaengerin: Frauenkapelle (untergeschosse von 1425)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 111-burgau/007
+ENTITÄT: kirche
+BEZEICHNUNG: Loretokapelle
+QUELLE: https://www.burgau.de/Stadtportrait/Geschichte | Gemeinde-Webseite
+ORTSTEIL_BEZUG: auf Nachbarhügel des Schlosses
+EIGENSCHAFTEN:
+  bauzeit: 1692
+  grund_errichtung: auf Grund des ehemaligen Pfleghauses errichtet
+  funktion: Wallfahrtsort
+  beschreibung: Ort der Stille, Einkehr und Andacht mit Kreuzweg-Stationen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 111-burgau/008
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberknöringen
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Zahlen-Daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 922 [Stand 01.10.2025]
+  eingemeindung: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 111-burgau/009
+ENTITÄT: ortsteil
+BEZEICHNUNG: Unterknöringen
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Zahlen-Daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 886 [Stand 01.10.2025]
+  eingemeindung: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 111-burgau/010
+ENTITÄT: ortsteil
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Stadtteile | Gemeinde-Webseite
+BEZEICHNUNG: Unterknöringen
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 12. Jahrhundert
+  stammsitz: Herren von Knöringen
+  lage: Tal der Kammel
+  beschreibung: wahrscheinlich noch älter als Burgau selbst
+  siedlungsursprunge: alemannische Landnahme (frueh)
+  status_ursprung: Urpfarrei fuer ganzes Gebiet (fraenkische Gruendung)
+  schloss_erbauer: Freiherren von Freyberg
+  schloss_bauzeit: 16. Jahrhundert
+  schloss_typ: Wasserburg, dreigeschossiger Giebelbau
+  schloss_funktion: Grablege der Freiherren von Freyberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 111-burgau/011
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Martin
+ORTSTEIL_BEZUG: Unterknöringen
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baumeister: Moritz von Mindelheim (Meister)
+  bauzeit: 1481-1484
+  bauweise: Backsteinbau
+  stil: spaetgotisch
+  turm_beschreibung: hoch aufragend, viergiebelich, mit spaetgotischem Zierwerk
+  funktion: Grablege
+  ausstattung: Epitaphien
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 111-burgau/012
+ENTITÄT: kapelle
+BEZEICHNUNG: Dreifaltigkeitskapelle
+ORTSTEIL_BEZUG: Unterknöringen
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: Mitte 19. Jahrhundert
+  funktion: Grablege der Freiherren von Freyberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 111-burgau/013
+ENTITÄT: kapelle
+BEZEICHNUNG: Seelenkapelle
+ORTSTEIL_BEZUG: Unterknöringen
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: Mitte 19. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 111-burgau/014
+ENTITÄT: kapelle
+BEZEICHNUNG: Antoniuskapelle
+ORTSTEIL_BEZUG: Unterknöringen
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1765
+  veranlassung: Errichtung von Unterknöringen aus angeregt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 111-burgau/015
+ENTITÄT: ortsteil
+BEZEICHNUNG: Großanhausen
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Zahlen-Daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 105 [Stand 01.10.2025]
+  eingemeindung: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 111-burgau/016
+ENTITÄT: ortsteil
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Stadtteile | Gemeinde-Webseite
+BEZEICHNUNG: Großanhausen
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1207 [als Ahusen]
+  beschreibung: ueber Jahrhunderte Sitz verschiedener Adelsfamilien
+  namenherkunft: Unserer Lieben Frauen geweiht
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 111-burgau/017
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche Unserer Lieben Frauen
+ORTSTEIL_BEZUG: Großanhausen
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1795
+  baustil: fruehklassizistische Sakralbauweise Schwabens
+  chor_stil: gotisch (noch vorhanden)
+  fresken: Johann Baptist Enderle (Geburt Christi)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 111-burgau/018
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kleinanhausen
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Zahlen-Daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 210 [Stand 01.10.2025]
+  eingemeindung: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 111-burgau/019
+ENTITÄT: ortsteil
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Stadtteile | Gemeinde-Webseite
+BEZEICHNUNG: Kleinanhausen
+EIGENSCHAFTEN:
+  eingemeindet_in: Unterknöringen [1970]
+  spaeter_eingemeindung: Burgau [1978]
+  trennungsfaktor: historischer Handelsweg zu Großanhausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 111-burgau/020
+ENTITÄT: kirche
+BEZEICHNUNG: St. Gangolf
+ORTSTEIL_BEZUG: Kleinanhausen
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baustil: Barock
+  zeit: 18. Jahrhundert
+  ausstattung: schoener Barockaltar
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 111-burgau/021
+ENTITÄT: ortsteil
+BEZEICHNUNG: Limbach
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Zahlen-Daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 287 [Stand 01.10.2025]
+  eingemeindung: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 111-burgau/022
+ENTITÄT: ortsteil
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Stadtteile | Gemeinde-Webseite
+BEZEICHNUNG: Limbach
+EIGENSCHAFTEN:
+  beschreibung: historische Dorfanlage, ehedem Sitz eines Ministerialengeschlechts
+  pfarrhaus_baujahr: 1630
+  pfarrhaus_beschreibung: aeltestes Fachwerk am Ort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 111-burgau/023
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Stephan
+ORTSTEIL_BEZUG: Limbach
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehungszeit: Anfang 16. Jahrhundert
+  ausstattung: Kruzifix, gotische Apostelfiguren (Petrus und Paulus)
+  umgestaltung: Mitte 18. Jahrhundert
+  umgestalter: Joseph Dossenberger
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 111-burgau/024
+ENTITÄT: wallfahrtskirche
+BEZEICHNUNG: Wallfahrtskirchlein Königin-Bild
+ORTSTEIL_BEZUG: Limbach
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1679
+  erbauer: Maria Eleonora (Erzherzogin von Lothringen, Königinwitwe von Polen)
+  herkunftshaus: Habsburg
+  funktion: Wallfahrtsort
+  besucherstrom: Pilgerströme zwangen zu fruehe Erweiterung
+  abgetragen: Ende 18. Jahrhundert
+  gnadenbild_weitergabe: Seitenaltar Burgauer Pfarrkirche
+  neuerrichtung_kapelle: 1964 am alten Platz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 111-burgau/025
+ENTITÄT: bauwerk
+BEZEICHNUNG: Rathaus (Block-Haus)
+QUELLE: https://www.burgau.de/Stadtportrait/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1614
+  alternativname: Stadttor
+  charakter: wahrscheinlich ehedem eines von drei Stadttoren
+  funktion_heute: Verkehrsberuhigung Autoverkehr
+  beschreibung: mächtig, maßvoll, Wahrzeichen der Stadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 111-burgau/026
+ENTITÄT: bauwerk
+BEZEICHNUNG: Rat- und Tanzhaus
+QUELLE: https://www.burgau.de/Stadtportrait/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1711
+  erbauer: Valerianus Brenner
+  wappenschmuck: kaiserlicher Doppeladler mit Reichsinsignien
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 111-burgau/027
+ENTITÄT: brunnen
+BEZEICHNUNG: Marienbrunnen
+QUELLE: https://www.burgau.de/Stadtportrait/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Hauptplatz
+  baujahr: 1696
+  kuestler: Franz Schäfferle
+  statue: Heilige Maria (wertvoll)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 111-burgau/028
+ENTITÄT: museum
+BEZEICHNUNG: Museum der Stadt Burgau
+QUELLE: https://www.burgau.de/Museum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Norbert-Schuster-Str. 11, 89331 Burgau
+  telefon: 08222 / 4114-30
+  email: museum@stadt.burgau.de
+  beschreibung: Praesentiert ueber 850-jaehrige Geschichte auf zwei Stockwerken
+  schwerpunkt: Leben der Menschen in und um Burgau
+  sonderausstellungen: Wechselnde Ausstellungen zu Aspekten der Stadtgeschichte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 111-burgau/029
+ENTITÄT: freizeit_einrichtung
+BEZEICHNUNG: Freibad Burgau (Gsundbrunnenbad)
+QUELLE: https://www.burgau.de/Freibad | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Badstraße 15, 89331 Burgau
+  telefon: 08222 / 5059
+  ausstattung: Springerbecken 5m, Schwimmbecken 50m, Nichtschwimmerbecken, Planschbecken, Breitwasserrutsche, Liegewiese, Spielplatz, Beachvolleyball, Basketball, Tischtennisplatten, Tischkicker
+  besonderheiten: beheizte Becken, kostenloser Internetzugang
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 111-burgau/030
+ENTITÄT: biografie
+BEZEICHNUNG: Johann Baptist Enderle
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Maler
+  werke: Fresken in Pfarrkirche Großanhausen (Geburt Christi - Meisterwerk), Fresken in Pfarrkirche Burgau
+  zeit: 18. Jahrhundert
+  charakterisierung: großer Maler, dynamische Behandlung des Lichts
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 111-burgau/031
+ENTITÄT: biografie
+BEZEICHNUNG: Konrad Huber
+QUELLE: https://www.burgau.de/Stadtportrait/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Maler
+  werke: Fresken in Pfarrkirche Burgau
+  zeit: 18. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 111-burgau/032
+ENTITÄT: biografie
+BEZEICHNUNG: Kaspar Zengerle
+QUELLE: https://www.burgau.de/Stadtportrait/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Vorarlberger Baumeister
+  werke: Neubau Pfarrkirche Burgau (1788-1791)
+  zeit: 18. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 111-burgau/033
+ENTITÄT: biografie
+BEZEICHNUNG: Joseph Dossenberger
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Baumeister/Gestalter
+  werke: Umgestaltung Pfarrkirche St. Stephan (Limbach)
+  zeit: Mitte 18. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 111-burgau/034
+ENTITÄT: biografie
+BEZEICHNUNG: Moritz von Mindelheim
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Stadtteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Meister (Baumeister)
+  werke: Pfarrkirche St. Martin Unterknöringen (1481-1484, Backsteinbau)
+  zeit: 15. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 111-burgau/035
+ENTITÄT: biografie
+BEZEICHNUNG: Franz Schäfferle
+QUELLE: https://www.burgau.de/Stadtportrait/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Kuenstler
+  werke: Statue der Heiligen Maria (Marienbrunnen, 1696)
+  zeit: 17. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 111-burgau/036
+ENTITÄT: biografie
+BEZEICHNUNG: Valerianus Brenner
+QUELLE: https://www.burgau.de/Stadtportrait/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Erbauer
+  werke: Rat- und Tanzhaus Burgau (1711)
+  zeit: 18. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 111-burgau/037
+ENTITÄT: biografie
+BEZEICHNUNG: Martin Brenner
+QUELLE: https://www.burgau.de/Stadtrat | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Erster Bürgermeister
+  amtszeit_beginn: 01.05.2026
+  amtszeit_ende: 30.04.2032
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 111-burgau/038
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Burgau/Steiermark
+QUELLE: https://www.burgau.de/Stadtportrait/Partnerschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerort: Burgau, Steiermark
+  land: Oesterreich
+  status: Partnerschaft seit vielen Jahren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 111-burgau/039
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Knöringen
+QUELLE: https://www.burgau.de/Stadtpartner/Partnerschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerort: Knöringen
+  region: Pfalz
+  land: Deutschland
+  status: Partnerschaft seit vielen Jahren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 111-burgau/040
+ENTITÄT: patenschaft
+QUELLE: https://www.burgau.de/Stadtportrait/Partnerschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partner: 6. Kompanie Sanitätsregiment 3
+  kaserne: Rommelkaserne Dornstadt
+  institution: Bundeswehr
+  beginn: 2017
+  partnerschaftsverein_gruendung: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 111-burgau/041
+ENTITÄT: ort
+QUELLE: https://www.burgau.de/Lage-Anfahrt | Gemeinde-Webseite
+BEZEICHNUNG: Burgau
+EIGENSCHAFTEN:
+  entfernung_muenchen: 117 [km]
+  entfernung_nuernberg: 150 [km]
+  entfernung_stuttgart: 124 [km]
+  entfernung_ulm: 49 [km]
+  entfernung_augsburg: 45 [km]
+  entfernung_guenzburg: 10 [km]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 111-burgau/042
+ENTITÄT: wirtschaftsdaten
+QUELLE: https://www.burgau.de/Leben-Arbeiten/Stadtportrait/Zahlen-Daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  steuerkraft_2025: 21220108 [Euro]
+  steuerkraft_pro_kopf_2025: 1996.62 [Euro]
+  verschuldung_30_09_2025: 7249076 [Euro]
+  verschuldung_pro_kopf_30_09_2025: 679.39 [Euro]
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 111-burgau/043
+ENTITÄT: stadtrat
+BEZEICHNUNG: Burgauer Stadtrat
+QUELLE: https://www.burgau.de/Stadtrat | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  mitglieder: 24
+  plus_buergermeister: 1
+  amtszeit_beginn: 01.05.2026
+  amtszeit_ende: 30.04.2032
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 111-burgau/044
+ENTITÄT: buergermeister
+BEZEICHNUNG: Martina Wenni-Auinger
+QUELLE: https://www.burgau.de/Stadtrat | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Zweite Bürgermeisterin
+  amtszeit_beginn: 01.05.2026
+  amtszeit_ende: 30.04.2032
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 111-burgau/045
+ENTITÄT: buergermeister
+BEZEICHNUNG: Monika Riß
+QUELLE: https://www.burgau.de/Stadtrat | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Dritte Bürgermeisterin
+  amtszeit_beginn: 01.05.2026
+  amtszeit_ende: 30.04.2032
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9

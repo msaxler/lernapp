@@ -1,0 +1,383 @@
+ENTITÄT: ort
+BEZEICHNUNG: Eching
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 15000
+  genauigkeit_einwohnerzahl: ca.
+  lage: zwischen München und dem Flughafen
+  arbeitsplaetze: 6000
+  genauigkeit_arbeitsplaetze: mehr als
+  groendung: 773
+  genauigkeit_gruendung: ca.
+  grund_festwochenende: 1250-Jahresfeier 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Dietersheim
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: östlicher Rand der Gemeinde
+  naturraeume: FFH-Gebiet Isarauen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Günzenhausen
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: nördlicher Ortsteil
+  topografie: Beginn des tertiären Hügellandes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Andreas
+ORTSTEIL_BEZUG: Eching
+QUELLE: https://www.eching.de/leben-wohnen/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denomination: katholisch
+  funktion: Pfarrkirche
+  pfarrgemeinde: St. Andreas Eching
+  filialkirche: St. Johannes der Täufer (Dietersheim)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johannes der Täufer
+ORTSTEIL_BEZUG: Dietersheim
+QUELLE: https://www.eching.de/leben-wohnen/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denomination: katholisch
+  funktion: Filialkirche
+  pfarrgemeinde: St. Andreas Eching
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Laurentius
+ORTSTEIL_BEZUG: Günzenhausen
+QUELLE: https://www.eching.de/leben-wohnen/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denomination: katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Magdalenenkirche
+ORTSTEIL_BEZUG: Eching
+QUELLE: https://www.eching.de/leben-wohnen/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denomination: evangelisch-lutherisch
+  kirchengemeinde: Evangelisch-Lutherische Kirchengemeinde Eching
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: archive
+BEZEICHNUNG: Gemeindearchiv Eching
+QUELLE: https://www.eching.de/gemeinde-rathaus/gemeinde/gemeindearchiv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  existenz_seit: 1985
+  genauigkeit_existenz_seit: ca.
+  funktion: sammelt, bewahrt und erschließt Schrift- und Sammlungsgut zur Echinger Geschichte
+  arbeitsschwerpunkte: Historische Bildungsarbeit, Führungen, Ausstellungen, Kinderprogramme
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Echinger Heimatmuseum
+ORTSTEIL_BEZUG: Eching
+QUELLE: https://www.eching.de/gemeinde-rathaus/gemeinde/gemeindearchiv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  offizielle_bezeichnung: Bäuerliche Gerätesammlung auf dem Gfild und Maischer Heimatecke
+  eroeffnung: 1995
+  schwerpunkt_1: landwirtschaftliche Geschichte und bäuerliche Geräte
+  schwerpunkt_2: Maischer Heimatecke – Erinnerungsstücke heimatvertriebener Ungarndeutscher
+  schwerpunkt_3: Kunst und Objekte von Vereinen und Partnergemeinden
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Michael Steigerwald
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Erster Bürgermeister
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: see
+BEZEICHNUNG: Echinger See
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Naherholungsgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: see
+BEZEICHNUNG: Hollerner See
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Naherholungsgebiet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Echinger Lohe
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: beliebter Ausflugsort bei Kennern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Garchinger Heide
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: beliebter Ausflugsort bei Kennern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: naturraum
+BEZEICHNUNG: Mallertshofer Holz
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausstattung: Heiden
+  beschreibung: beliebter Ausflugsort bei Kennern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Isarauen
+ORTSTEIL_BEZUG: Dietersheim
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: FFH-Gebiet
+  lage: östlicher Rand der Gemeinde
+  freizeitnutzung: Radfahren, Spaziergang
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Echinger Bürgerhaus
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: kulturelle Veranstaltungen ganzjährig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: musikschule
+BEZEICHNUNG: Musikschule Eching
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schueler: 600
+  genauigkeit_schueler: mehr als
+  unterrichtsangebote: Instrumentalmusik, Gesang, Ballett
+  bekanntheitsgrad: weit über Gemeindegrenzen bekannt und geschätzt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: blasorchester
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 2
+  repertoire: umfassend
+  funktion: bereichern die örtliche Musikszene
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: grundschule
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 2
+  standort: Eching (Hauptort)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: mittelschule
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Eching (Hauptort)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: realschule
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Eching (Hauptort)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: volkshochschule
+BEZEICHNUNG: Volkshochschule Eching-Allershausen
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbund: Fahrenzhausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: auszeichnung
+BEZEICHNUNG: Fahrradfreundliche Kommune
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  empfaenger: Eching
+  jahr: 2023
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: auszeichnung
+BEZEICHNUNG: Fair-Trade-Kommune
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  empfaenger: Eching
+  vergebung: erneute Auszeichnung
+  jahr: 2023
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: neubaugebiet
+BEZEICHNUNG: Eching-West
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauparzellen: 59
+  baumodell: Echinger Wohnbaumodell
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: neubaugebiet
+BEZEICHNUNG: Dietersheim
+ORTSTEIL_BEZUG: Dietersheim
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauparzellen: 59
+  baumodell: Echinger Wohnbaumodell
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: feuerwehrhaus
+ORTSTEIL_BEZUG: Günzenhausen
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bautyp: Neubau
+  fertigstellung: 2023
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Sportplatz
+ORTSTEIL_BEZUG: Günzenhausen
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: multifunktional
+  bautyp: Neubau
+  fertigstellung: 2023
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportanlage
+BEZEICHNUNG: Calisthenics-Anlage
+ORTSTEIL_BEZUG: Dietersheim
+QUELLE: https://www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bautyp: Neubau
+  inbetriebnahme: 2023
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirchliche_organisation
+BEZEICHNUNG: Katholischer Frauenbund
+QUELLE: https://www.eching.de/leben-wohnen/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denomination: katholisch
+  zugehoerigkeitskirche: St. Andreas
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kirchliche_organisation
+BEZEICHNUNG: Sozialdienst St. Andreas
+QUELLE: https://www.eching.de/leben-wohnen/kirchen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denomination: katholisch
+  zugehoerigkeitskirche: St. Andreas
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Gemeindebücherei Eching
+QUELLE: https://www.eching.de/gemeinde-rathaus/gemeinde/gemeindearchiv/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kooperationen: Gemeindearchiv, Heimatmuseum, vhs Eching-Allershausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

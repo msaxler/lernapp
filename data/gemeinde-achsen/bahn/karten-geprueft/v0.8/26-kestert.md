@@ -67,7 +67,7 @@ Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?
 2. Die Kirche St. Georg ist ein Barockbau.
 3. Hochwasser zerstörte die alte Pfarrkirche von Kestert.
 RÜCKSEITE:
-„Du hattest [Option] getippt. Ein Rheinort wie Kestert lässt an Hochwasser denken, doch die alte Pfarrkirche ging durch einen Brand verloren. Die 1778/79 erbaute St.-Georg-Kirche besitzt eine barocke Ausstattung. Die Lüge war 3.
+Du hattest [Option] getippt. Ein Rheinort wie Kestert lässt an Hochwasser denken, doch die alte Pfarrkirche ging durch einen Brand verloren. Die 1778/79 erbaute St.-Georg-Kirche besitzt eine barocke Ausstattung. Die Lüge war 3.
 Quelle: regionalgeschichte.net/mittelrhein/kestert/kulturdenkmaeler/st-georgkirche.html"
 WÖRTER RÜCKSEITE: 33
 NEGATIVNACHWEISE:

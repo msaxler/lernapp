@@ -18345,7 +18345,7 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 2,
-"rueckseite": "„Du hattest [Option] getippt. Silvaner liegt als alte, weit verbreitete Sorte nahe, und an Wein denkt bei Rüsselsheim kaum jemand. Doch die Kellereirechnung nennt den Riesling: der älteste bekannte Nachweis dieser Rebsorte. Seit 1980 erinnert ein kleiner Weinberg auf städtischem Grund daran. Richtig war 2.“",
+"rueckseite": "Du hattest [Option] getippt. Silvaner liegt als alte, weit verbreitete Sorte nahe, und an Wein denkt bei Rüsselsheim kaum jemand. Doch die Kellereirechnung nennt den Riesling: der älteste bekannte Nachweis dieser Rebsorte. Seit 1980 erinnert ein kleiner Weinberg auf städtischem Grund daran. Richtig war 2.",
 "quelle": "Stadt Rüsselsheim am Main, main-ruesselsheim.de",
 "faktencheck": "korrigiert",
 "id": "64-ruesselsheim/v0.8/7",
@@ -18380,7 +18380,7 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 1,
-"rueckseite": "„Du hattest [Option] getippt. Ein Ruderklub mit Bootshaus am Main – da liegt ein anderer Wassersport nahe. Doch der RRK ist heute vor allem für Hockey bekannt. Er holte 24 deutsche Meistertitel im Hockey, seine Damen zudem 16 Europapokale in Halle und Feld. Richtig war 1.“",
+"rueckseite": "Du hattest [Option] getippt. Ein Ruderklub mit Bootshaus am Main – da liegt ein anderer Wassersport nahe. Doch der RRK ist heute vor allem für Hockey bekannt. Er holte 24 deutsche Meistertitel im Hockey, seine Damen zudem 16 Europapokale in Halle und Feld. Richtig war 1.",
 "quelle": "Rüsselsheimer Ruder-Klub 08, rrk-online.de",
 "faktencheck": "korrigiert",
 "id": "64-ruesselsheim/v0.8/9",
@@ -18585,7 +18585,7 @@ window.QA_DATEN = {
 ],
 "art": "richtig",
 "loesung": 3,
-"rueckseite": "„Du hattest [Option] getippt. Ein Gerichtsstreit liegt nahe, denn Gemeinden wehren sich oft gegen den Verlust ihrer Selbständigkeit. Ebersheim aber, das Tor nach Rheinhessen und nach Angaben der Stadt am weitesten von der Stadtmitte entfernt, kam als einzige der sechs freiwillig. Danach bekam es Anschluss an den Stadtbus. Richtig war 3.“",
+"rueckseite": "Du hattest [Option] getippt. Ein Gerichtsstreit liegt nahe, denn Gemeinden wehren sich oft gegen den Verlust ihrer Selbständigkeit. Ebersheim aber, das Tor nach Rheinhessen und nach Angaben der Stadt am weitesten von der Stadtmitte entfernt, kam als einzige der sechs freiwillig. Danach bekam es Anschluss an den Stadtbus. Richtig war 3.",
 "quelle": "Gemeinde-Webseite, www.mainz.de/startseite-mainz.de/stadtteile/ebersheim/ebersheim",
 "faktencheck": "korrigiert",
 "id": "45-mainz/v0.8/8",
@@ -20880,7 +20880,7 @@ window.QA_DATEN = {
 ],
 "art": "luege",
 "loesung": 3,
-"rueckseite": "„Du hattest [Option] getippt. Ein Rheinort wie Kestert lässt an Hochwasser denken, doch die alte Pfarrkirche ging durch einen Brand verloren. Die 1778/79 erbaute St.-Georg-Kirche besitzt eine barocke Ausstattung. Die Lüge war 3.",
+"rueckseite": "Du hattest [Option] getippt. Ein Rheinort wie Kestert lässt an Hochwasser denken, doch die alte Pfarrkirche ging durch einen Brand verloren. Die 1778/79 erbaute St.-Georg-Kirche besitzt eine barocke Ausstattung. Die Lüge war 3.",
 "quelle": "regionalgeschichte.net/mittelrhein/kestert/kulturdenkmaeler/st-georgkirche.html\"",
 "faktencheck": "korrigiert",
 "id": "26-kestert/v0.8/3",
@@ -28042,6 +28042,9 @@ window.QA_DATEN = {
 "Bundestagswahl 2025: Neu-Ulm hatte eine höhere Wahlbeteiligung als Günzburg."
 ],
 "anschluesse": {
+"111-burgau": [
+"Günzburg hat doppelt so viele Einwohner wie Burgau."
+],
 "109-neu-ulm": [
 "Neu-Ulm hat rund dreimal so viele Einwohner wie Günzburg.",
 "Bundestagswahl 2025: Neu-Ulm hatte eine höhere Wahlbeteiligung als Günzburg."
@@ -28050,6 +28053,1833 @@ window.QA_DATEN = {
 "ags": "09774135",
 "ortsteil": false,
 "km_vom_vorigen": 21.4
+},
+{
+"slug": "111-burgau",
+"name": "Burgau",
+"lat": 48.43222,
+"lon": 10.40694,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Burgau",
+"steckbrief": "Stadt mit rund 10.700 Einwohnern, 31 km östlich von Ulm.",
+"frage": "Bis 1806 lag Burgau getrennt vom übrigen Gebiet seines Staates. Zu welchem Staat gehörte es?",
+"optionen": [
+"Burgau gehörte zu Preußen.",
+"Burgau gehörte zu Sachsen.",
+"Burgau gehörte zu Hessen.",
+"Burgau gehörte zu Österreich."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Preußen liegt nahe, denn man kennt es als Staat mit verstreuten Landesteilen. Doch Burgau war Markgrafenstadt und gehörte als Exklave – ein vom Kernland abgetrenntes Gebiet – zu Österreich. Lange war es Verwaltungsmittelpunkt der Markgrafschaft. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.burgau.de/Stadtportrait/Geschichte",
+"faktencheck": "bestätigt",
+"id": "111-burgau/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Burgau",
+"steckbrief": "Stadt im Landkreis Günzburg zwischen Mindel und Kammel, 31 km östlich von Ulm.",
+"frage": "Wie viele Einwohner hatte Burgau Ende 2025?",
+"optionen": [
+"unter 11.000",
+"11.000 bis unter 15.000",
+"15.000 bis unter 20.000",
+"20.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. „Stadt“ und eigener Bahnhof lassen leicht an mehr Menschen denken. Burgau zählte Ende 2025 aber 10.677 Einwohner, die Dörfer wie Limbach oder Großanhausen schon eingerechnet. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "111-burgau/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Burgau",
+"steckbrief": "Stadt mit rund 10.700 Einwohnern, 31 km östlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Kleinanhausen kam über Unterknöringen zu Burgau.",
+"Ein Vorarlberger Baumeister baute Burgaus Pfarrkirche neu.",
+"Die Statue des Marienbrunnens am Hauptplatz entstand erst im 19. Jahrhundert."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Umweg Kleinanhausens wirkt erfunden, stimmt aber: Erst kam es zu Unterknöringen, dann zu Burgau. Auch die Pfarrkirche baute der Vorarlberger Kaspar Zengerle neu. Gelogen ist der Brunnen: Franz Schäfferle schuf die Statue schon 1696, also im Barock. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.burgau.de/Stadtportrait/Geschichte (NEGATIVNACHWEIS 3 neu: Weg (a). Laut burgau.de/Stadtportrait/Geschichte stammt die Statue von 1696.)",
+"faktencheck": "korrigiert",
+"id": "111-burgau/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Burgau",
+"steckbrief": "Stadt mit rund 10.700 Einwohnern im Landkreis Günzburg, 31 km östlich von Ulm.",
+"frage": "Bundestagswahl 2025: Welchen Anteil der Zweitstimmen holte in Burgau die stärkste Partei?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 30 %",
+"30 bis unter 36 %",
+"36 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. In Bayern erwartet man leicht eine übermächtige CSU. Sie wurde zwar stärkste Partei, kam aber auf 34,4 Prozent; die AfD folgte als zweitstärkste Kraft. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "111-burgau/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Burgau",
+"steckbrief": "Stadt mit rund 10.700 Einwohnern, 31 km östlich von Ulm; Limbach ist ein Ortsteil.",
+"frage": "In Limbach steht die Wallfahrtskapelle „Königin-Bild“. Wer ließ das erste Kirchlein dort erbauen?",
+"optionen": [
+"Eine verwitwete Königin von Schweden ließ es bauen.",
+"Eine verwitwete Königin von Dänemark ließ es bauen.",
+"Eine verwitwete Königin von England ließ es bauen.",
+"Eine verwitwete Königin von Polen ließ es bauen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Schweden liegt nahe, denn die Schweden kennt man in Schwaben aus dem Dreißigjährigen Krieg. Doch gebaut hat das Kirchlein Maria Eleonora aus dem Haus Habsburg, Königinwitwe von Polen. Pilgerströme zwangen bald zur Erweiterung. Später wurde es abgetragen, das Gnadenbild kam an einen Seitenaltar der Burgauer Pfarrkirche. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.burgau.de/Leben-Arbeiten/Stadtportrait/Stadtteile",
+"faktencheck": "bestätigt",
+"id": "111-burgau/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Burgau",
+"steckbrief": "Stadt mit rund 10.700 Einwohnern, 31 km östlich von Ulm.",
+"frage": "Wie viele Einwohner leben in Burgau rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 450",
+"450 bis unter 700",
+"700 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an eine geschlossene Altstadt denkt, schätzt hoch. Doch zum Stadtgebiet gehören auch Dörfer wie Limbach, Groß- und Kleinanhausen. So kommen rechnerisch 412 Einwohner auf einen Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "111-burgau/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Burgau",
+"steckbrief": "Stadt mit rund 10.700 Einwohnern, 31 km östlich von Ulm.",
+"frage": "1147 ist Bruno von Burgau als Zeuge belegt, er war Amtsträger Herzog Welfs VI. Welchen Stand hatte er damals?",
+"optionen": [
+"Er war ein Graf aus dem Hochadel.",
+"Er war ein unfreier Dienstmann des Herzogs.",
+"Er war ein jüngerer Bruder des Herzogs.",
+"Er war ein Neffe des Kaisers."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Name wie „von Burgau“ klingt nach Hochadel. Doch Bruno war Ministeriale, ein unfreier Dienstmann und Amtsträger Herzog Welfs VI. Später zählte er zu den Freien; seine Plätze in späteren Zeugenlisten sprechen wohl für gestiegenes Ansehen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.burgau.de/Stadtportrait/Geschichte",
+"faktencheck": "korrigiert",
+"id": "111-burgau/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "110-guenzburg",
+"anschluss": [
+"Laut Stadt Burgau sind es nach Günzburg nur 10 Kilometer.",
+"Einwohner: Günzburg hat ungefähr doppelt so viele wie Burgau."
+],
+"anschluesse": {
+"110-guenzburg": [
+"Laut Stadt Burgau sind es nach Günzburg nur 10 Kilometer.",
+"Einwohner: Günzburg hat ungefähr doppelt so viele wie Burgau."
+]
+},
+"ags": "09774121",
+"ortsteil": false,
+"km_vom_vorigen": 10.3
+},
+{
+"slug": "112-augsburg",
+"name": "Augsburg",
+"lat": 48.36889,
+"lon": 10.89778,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Augsburg",
+"steckbrief": "Bayerische Großstadt mit rund 300.000 Einwohnern an Lech und Wertach, 56 Kilometer Luftlinie von München.",
+"frage": "Das Gögginger Frühlingsfest gibt es seit 1969 im heutigen Augsburger Stadtteil Göggingen. Wie fing es an?",
+"optionen": [
+"Es war das Eröffnungsfest des Gögginger Kurhauses.",
+"Es feierte Göggingens Eingemeindung nach Augsburg.",
+"Es war ein Starkbierfest zu einem Ortsjubiläum.",
+"Es begann als Frühjahrsmarkt der Gögginger Bauern."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Weil Göggingen heute zu Augsburg gehört, liegt ein Fest zur Eingemeindung nahe. Tatsächlich begann es als Starkbierfest zur 1000-Jahr-Feier Göggingens, das damals noch eine eigenständige Gemeinde war. Eröffnet wird es traditionell mit einem Fassanstich. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.augsburg.de/freizeit/feste-und-maerkte/goegginger-fruehlingsfest",
+"faktencheck": "korrigiert",
+"id": "112-augsburg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Augsburg",
+"steckbrief": "Bayerische Großstadt mit rund 300.000 Einwohnern an Lech und Wertach, 56 Kilometer Luftlinie von München.",
+"frage": "Wie groß ist das Stadtgebiet von Augsburg?",
+"optionen": [
+"unter 60 km²",
+"60 bis unter 100 km²",
+"100 bis unter 140 km²",
+"140 km² oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an eine dicht bebaute Großstadt denkt, schätzt die Fläche leicht zu klein. Tatsächlich misst das Stadtgebiet von Augsburg rund 146,9 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "112-augsburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Augsburg",
+"steckbrief": "Bayerische Großstadt mit rund 300.000 Einwohnern an Lech und Wertach, 56 Kilometer Luftlinie von München.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im alten Gaswerk wird heute noch Gas erzeugt.",
+"Mozarts Vater Leopold wurde in Augsburg geboren.",
+"Bertolt Brecht ging in Augsburg aufs Gymnasium."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Gaswerk klingt nach Versorgung, doch das alte Werk ist umgenutzt: Die Stadtwerke machen es gemeinsam mit der Stadt zum Areal für Kultur- und Kreativwirtschaft. Die anderen stimmen: Leopold Mozart ist gebürtiger Augsburger, und Brecht, Autor von „Baal“, besuchte hier das Gymnasium. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.augsburg.de/kultur",
+"faktencheck": "bestätigt",
+"id": "112-augsburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Augsburg",
+"steckbrief": "Bayerische Großstadt mit rund 300.000 Einwohnern an Lech und Wertach, 56 Kilometer Luftlinie von München.",
+"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Augsburg die zweitmeisten Zweitstimmen?",
+"optionen": [
+"GRÜNE",
+"AfD",
+"SPD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In Großstädten schneiden die Grünen oft stark ab, und es war knapp: Sie kamen auf 16,5 Prozent. Davor lag die AfD mit 17,5 Prozent; stärkste Kraft blieb die CSU mit 28,4 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "112-augsburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Augsburg",
+"steckbrief": "Bayerische Großstadt mit rund 300.000 Einwohnern an Lech und Wertach, 56 Kilometer Luftlinie von München.",
+"frage": "Seit 2019 trägt etwas in Augsburg den Titel UNESCO-Welterbe. Was?",
+"optionen": [
+"Die Kirchen der Altstadt wurden Welterbe.",
+"Eine historische Sozialsiedlung wurde Welterbe.",
+"Das Wassermanagement-System der Stadt wurde Welterbe.",
+"Die Stätten des Religionsfriedens wurden Welterbe."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Augsburg denken viele zuerst an die Fugger, an Kirchen oder an den Religionsfrieden. Ausgezeichnet hat das UNESCO-Welterbekomitee aber das Augsburger Wassermanagement-System. Für die lange Tradition des Wasserbaus stehen etwa die Wasserkraftwerke am Hochablass und an der Wolfzahnau. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.augsburg.de/kultur",
+"faktencheck": "bestätigt",
+"id": "112-augsburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Augsburg",
+"steckbrief": "Bayerische Großstadt mit rund 300.000 Einwohnern an Lech und Wertach, 56 Kilometer Luftlinie von München.",
+"frage": "Wie viele Menschen leben in Augsburg rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 1.500",
+"1.500 bis unter 2.000",
+"2.000 oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Mit Grün wie dem Siebentischwald, dem Zoo und dem Botanischen Garten im Stadtgebiet schätzen viele die Dichte niedriger. Rechnerisch kommen aber rund 2.055 Einwohner auf jeden Quadratkilometer. Richtig war 4.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "112-augsburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Augsburg",
+"steckbrief": "Bayerische Großstadt mit rund 300.000 Einwohnern an Lech und Wertach, 56 Kilometer Luftlinie von München.",
+"frage": "Augsburg versteht sich als Friedensstadt; der Religionsfrieden von 1555 prägte dieses Selbstverständnis. An welchem Tag feiert die Stadt ihr Friedensfest?",
+"optionen": [
+"Das Friedensfest ist am 8. August.",
+"Das Friedensfest ist am 25. September.",
+"Das Friedensfest ist am 3. Oktober.",
+"Das Friedensfest ist am 1. September."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Viele tippen auf den Tag des Friedensschlusses oder auf einen bundesweiten Gedenk- oder Feiertag. Augsburg feiert sein Friedensfest aber am 8. August. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.augsburg.de/kultur",
+"faktencheck": "bestätigt",
+"id": "112-augsburg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Augsburg",
+"steckbrief": "Bayerische Großstadt mit rund 300.000 Einwohnern an Lech und Wertach, 56 Kilometer Luftlinie von München.",
+"frage": "Augsburg blickt auf über 2000 Jahre Geschichte zurück. In welchem Jahrhundert beginnt die Überlieferung im Augsburger Stadtarchiv?",
+"optionen": [
+"Sie beginnt im 2. Jahrhundert.",
+"Sie beginnt im 11. Jahrhundert.",
+"Sie beginnt im 15. Jahrhundert.",
+"Sie beginnt im 18. Jahrhundert."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Augsburgs Geschichte reicht bis zu den Römern zurück, da liegt die Römerzeit nahe. Die Überlieferung des Stadtarchivs, das sich als Gedächtnis der Stadt versteht, beginnt aber erst im 11. Jahrhundert. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.augsburg.de/buergerservice-rathaus/buergerservice/dienste-a-z/aemterweise/leistungen-stadtarchiv/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "112-augsburg/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "111-burgau",
+"anschluss": [
+"Kennzeichen: In Burgau steht GZ am Auto, in Augsburg A.",
+"Einwohnerzahl: Augsburg hat gut 28-mal so viele wie Burgau."
+],
+"anschluesse": {
+"111-burgau": [
+"Kennzeichen: In Burgau steht GZ am Auto, in Augsburg A.",
+"Einwohnerzahl: Augsburg hat gut 28-mal so viele wie Burgau."
+]
+},
+"ags": "09761000",
+"ortsteil": false,
+"km_vom_vorigen": 36.9
+},
+{
+"slug": "113-odelzhausen",
+"name": "Odelzhausen",
+"lat": 48.31667,
+"lon": 11.18333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Odelzhausen",
+"steckbrief": "Gemeinde mit rund 5.700 Einwohnern, 22 km östlich von Augsburg.",
+"frage": "Im Gemeindewappen liegt auf einem goldenen Stern ein silbernes Ei. Worauf verweist dieses Wappenbild?",
+"optionen": [
+"Auf die Hühnerhöfe, von denen das Dorf lebte.",
+"Auf ein früheres Wallfahrtskloster im Gemeindegebiet.",
+"Auf einen alten Osterbrauch im Dorf.",
+"Auf einen Kometen über dem Dorf."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Ei im Wappen lässt an Hühner oder Ostern denken. Gemeint ist aber das einstige Kloster Maria Stern im Ortsteil Taxa. Wunderzeichen seiner Wallfahrt war ein Bildnis Marias im Sternenkranz auf einem Hühnerei. Abraham a Sancta Clara verfasste dazu ein Wallfahrtsbüchlein. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.odelzhausen.de/rathaus/ueber-odelzhausen/daten-und-fakten",
+"faktencheck": "bestätigt",
+"id": "113-odelzhausen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Odelzhausen",
+"steckbrief": "Gemeinde mit rund 5.700 Einwohnern, 22 km östlich von Augsburg.",
+"frage": "Wie groß ist das Gemeindegebiet von Odelzhausen?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 25 km²",
+"25 bis unter 35 km²",
+"35 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Dorf dieser Größe stellt man sich klein vor. Doch zur Gemeinde gehören auch Ortsteile wie Taxa. Das Gemeindegebiet umfasst 30,44 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "korrigiert",
+"id": "113-odelzhausen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Odelzhausen",
+"steckbrief": "Gemeinde mit rund 5.700 Einwohnern, 22 km östlich von Augsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die nahe Autobahn hat eine Ausfahrt Odelzhausen.",
+"Das Schloss im Ort entstand als Kloster.",
+"Die Rosen im Wappen stammen von einer Adelsfamilie."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Schloss als ehemaliges Kloster ist in Bayern keine Seltenheit, darum klingt die Lüge glaubhaft. Schloss Odelzhausen entstand aber als Burg. Die Ausfahrt an der Autobahn gibt es, und die Rosen im Wappen stammen von der Familie Minucci beziehungsweise Törring-Minucci. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.odelzhausen.de/rathaus/ueber-odelzhausen/daten-und-fakten",
+"faktencheck": "unsicher",
+"id": "113-odelzhausen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Odelzhausen",
+"steckbrief": "Gemeinde mit rund 5.700 Einwohnern, 22 km östlich von Augsburg.",
+"frage": "Wie hoch war die Wahlbeteiligung in Odelzhausen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 85 %",
+"85 bis unter 88 %",
+"88 bis unter 91 %",
+"91 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im ländlichen Umland zweier Großstädte könnte man eine besonders hohe Beteiligung erwarten. Tatsächlich gingen in Odelzhausen 83,6 Prozent der Wahlberechtigten zur Wahl. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "113-odelzhausen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Odelzhausen",
+"steckbrief": "Gemeinde mit rund 5.700 Einwohnern, 22 km östlich von Augsburg.",
+"frage": "Woher hat Odelzhausen nach Angabe der Gemeinde seinen Namen?",
+"optionen": [
+"Vom bairischen Wort Odel für Jauche.",
+"Von einem frühen Sippenältesten.",
+"Von Häusern in einer öden Gegend.",
+"Von einer Zollstation an einer Römerstraße."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer Bairisch spricht, hört in „Odel“ sofort die Jauche, und ein derber Ortsname klingt verlockend. Laut Gemeinde geht der Name aber auf Otolt oder Odholt zurück, einen Sippenältesten. Eine frühe Urkunde nennt den Ort Otolteshusir. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.odelzhausen.de/rathaus/ueber-odelzhausen/daten-und-fakten",
+"faktencheck": "bestätigt",
+"id": "113-odelzhausen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Odelzhausen",
+"steckbrief": "Gemeinde mit rund 5.700 Einwohnern, 22 km östlich von Augsburg.",
+"frage": "Zu welchem Landkreis gehört Odelzhausen?",
+"optionen": [
+"Aichach-Friedberg",
+"Fürstenfeldbruck",
+"Dachau",
+"Augsburg"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Augsburg ist näher als München, deshalb liegt ein schwäbischer Kreis wie Aichach-Friedberg nahe. Odelzhausen gehört aber zum Landkreis Dachau und damit zu Oberbayern. Richtig war 3.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "113-odelzhausen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Odelzhausen",
+"steckbrief": "Gemeinde mit rund 5.700 Einwohnern, 22 km östlich von Augsburg.",
+"frage": "Ein Radweg durch Odelzhausen und sechs weitere Gemeinden heißt nach dem Räuber Kneißl. Welchen Grund nennt die Gemeinde dafür?",
+"optionen": [
+"Er verteilte seine Beute an arme Bauern.",
+"Er wurde in einer dieser Gemeinden hingerichtet.",
+"Ein Nachfahre von ihm stiftete den Radweg.",
+"Er hat in diesen Gemeinden gelebt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Räuber denkt man an Beute, Verstecke oder ein dramatisches Ende. Die Gemeinde nennt einen schlichteren Grund: Mathias Kneißl hat in diesen Gemeinden gelebt. Bekannt war er als „Kneißl Hias“, „Räuber Kneißl“ oder „Schachenmüller-Hias“. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.odelzhausen.de/freizeit-und-tourismus/rad-und-fusswege/raeuber-kneissl",
+"faktencheck": "bestätigt",
+"id": "113-odelzhausen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Odelzhausen",
+"steckbrief": "Gemeinde mit rund 5.700 Einwohnern, 22 km östlich von Augsburg.",
+"frage": "Im Ortsteil Taxa stand das Wallfahrtskloster Maria Stern. Was geschah mit ihm bei der Säkularisation?",
+"optionen": [
+"Es wurde zu einem Bauernhof umgebaut.",
+"Es wurde dem Erdboden gleichgemacht.",
+"Es wurde zur Pfarrkirche des Ortsteils.",
+"Es diente fortan als Dorfschule."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele aufgehobene Klöster bekamen einen neuen Zweck, das liegt nahe. Bei der Säkularisation, als der Staat Kirchengut einzog, traf es Maria Stern härter: Erst wurden die Besitztümer versteigert, dann wurde das Kloster dem Erdboden gleichgemacht. An seiner Stelle steht heute eine kleine Kapelle aus dem 19. Jahrhundert. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.odelzhausen.de/rathaus/ueber-odelzhausen/daten-und-fakten",
+"faktencheck": "korrigiert",
+"id": "113-odelzhausen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Odelzhausen",
+"steckbrief": "Gemeinde mit rund 5.700 Einwohnern, 22 km östlich von Augsburg.",
+"frage": "Der lutherische Reformator Johannes Mathesius hatte eine Aufgabe in Odelzhausen. Welche?",
+"optionen": [
+"Er war Erzieher auf dem Schloss.",
+"Er war Verwalter der Hofmark.",
+"Er war Schreiber in einem Kloster.",
+"Er war Arzt des Schlossherrn."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Reformator liegt ein Posten im Kloster nahe. Johannes Mathesius war in Odelzhausen aber Erzieher auf dem Schloss. Bekannt ist er als Pfarrer und lutherischer Reformator. Richtig war 1.",
+"quelle": "Neue Deutsche Biographie, www.deutsche-biographie.de/sfz58968.html",
+"faktencheck": "korrigiert",
+"id": "113-odelzhausen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "112-augsburg",
+"anschluss": [
+"Kennzeichen: In Odelzhausen steht DAH am Auto, in Augsburg A.",
+"Einwohner: Augsburg hat gut fünfzigmal so viele wie Odelzhausen."
+],
+"anschluesse": {
+"114-olching": [
+"Kreisgrenze: Olching gehört zum Landkreis Fürstenfeldbruck, Odelzhausen zum Landkreis Dachau.",
+"Olching hat fast fünfmal so viele Einwohner wie Odelzhausen."
+],
+"112-augsburg": [
+"Kennzeichen: In Odelzhausen steht DAH am Auto, in Augsburg A.",
+"Einwohner: Augsburg hat gut fünfzigmal so viele wie Odelzhausen."
+]
+},
+"ags": "09174135",
+"ortsteil": false,
+"km_vom_vorigen": 21.9
+},
+{
+"slug": "114-olching",
+"name": "Olching",
+"lat": 48.2,
+"lon": 11.31667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Olching",
+"steckbrief": "Olching ist eine Stadt mit rund 27.000 Einwohnern, 20 km westlich von München.",
+"frage": "Herzog Ludwig der Strenge verlegte ein Zisterzienserkloster für kurze Zeit nach Olching. Warum hatte er es gegründet?",
+"optionen": [
+"Er wollte den Mord an seiner Frau sühnen.",
+"Er dankte damit für einen Sieg im Krieg.",
+"Er erfüllte ein Gelübde nach schwerer Krankheit.",
+"Er dankte damit für die Geburt eines Sohnes."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Sieg oder ein Gelübde liegen nahe, aus solchen Anlässen entstanden viele Klöster. Hier war es Buße: Ludwig der Strenge hatte seine Gemahlin Maria von Brabant aus Eifersucht ermordet und gründete das Kloster zur Sühne. In Olching blieb es nicht lange, vermutlich wegen Hochwassers der Starzel oder Streit ums Eigentum. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.olching.de/politik-and-service/stadtportrait/stadtgeschichte",
+"faktencheck": "unsicher",
+"id": "114-olching/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Olching",
+"steckbrief": "Olching ist eine Stadt mit rund 27.000 Einwohnern an der Amper, 20 km westlich von München.",
+"frage": "Auf welcher Höhe über dem Meer liegt Olching?",
+"optionen": [
+"unter 450 m",
+"450 bis unter 550 m",
+"550 bis unter 650 m",
+"650 m und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei Oberbayern denkt man schnell an Berge und schätzt zu hoch. Olching liegt aber nicht im Gebirge, sondern an der Amper westlich von München. Die Quellen nennen 503 oder 509 Meter über dem Meer. Richtig war 2.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "114-olching/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Olching",
+"steckbrief": "Olching ist eine Stadt mit rund 27.000 Einwohnern, 20 km westlich von München.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Wilhelm Leibl lebte zeitweise im heutigen Ortsteil Graßlfing.",
+"Das Schilfrohr im Wappen steht für moorige Böden.",
+"Die Amper ist der Ausfluss des Starnberger Sees."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Gelogen war der Starnberger See: Er ist bekannter, darum klingt die Aussage glaubhaft. Doch die Amper ist der Ausfluss des Ammersees und bildet mit der Ammer ein zusammenhängendes Flusssystem. Der Maler Wilhelm Leibl lebte wirklich zeitweise in Graßlfing, und das Schilfrohr im Wappen steht für die Böden des Dachauer Mooses. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.olching.de/politik-and-service/stadtportrait; www.olching.de/politik-and-service/stadtportrait/stadtgeschichte; www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/wappen",
+"faktencheck": "korrigiert",
+"id": "114-olching/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Olching",
+"steckbrief": "Olching ist eine Stadt mit rund 27.000 Einwohnern, 20 km westlich von München.",
+"frage": "Bei der Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Olching?",
+"optionen": [
+"unter 29 %",
+"29 bis unter 33 %",
+"33 bis unter 37 %",
+"37 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu München lässt großstädtisches Wahlverhalten und eine schwächere CSU erwarten. Doch in Olching holte die CSU 39,2 Prozent der Zweitstimmen, weit vor den Grünen. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "114-olching/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Olching",
+"steckbrief": "Olching ist eine Stadt mit rund 27.000 Einwohnern, 20 km westlich von München.",
+"frage": "Als die Bahn München–Augsburg gebaut wurde, gab es Widerstand gegen die ursprünglich geplante Trasse. Von wem?",
+"optionen": [
+"Eine Posthalterfamilie aus Fürstenfeldbruck wehrte sich.",
+"Die Gemeinde Gröbenzell wehrte sich.",
+"Die Mönche von Kloster Fürstenfeld wehrten sich.",
+"Die Pfarrei Olching wehrte sich."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an Widerstand gegen die Bahn denkt, denkt an Grundbesitzer wie ein Kloster. Belegt ist anderes: Die Posthalterfamilie Weiß in Fürstenfeldbruck wehrte sich gegen die ursprüngliche Trassenführung. Kloster Fürstenfeld war in Olching nur bis zur Säkularisierung begütert. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.olching.de/politik-and-service/stadtportrait/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "114-olching/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Olching",
+"steckbrief": "Olching ist eine Stadt mit rund 27.000 Einwohnern, 20 km westlich von München.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Olching?",
+"optionen": [
+"DAH",
+"FFB",
+"M",
+"STA"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. So nah an München liegt M als Tipp nahe. Olching gehört aber zum Landkreis Fürstenfeldbruck, und dessen Hauptkennzeichen ist FFB. Richtig war 2.",
+"quelle": "Wikidata P395; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "114-olching/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Olching",
+"steckbrief": "Olching ist eine Stadt mit rund 27.000 Einwohnern, 20 km westlich von München.",
+"frage": "1631 zählte Olching 67 Anwesen. Wie viele waren es nach dem Dreißigjährigen Krieg, 1648?",
+"optionen": [
+"Es blieben 58 Anwesen.",
+"Es blieben 34 Anwesen.",
+"Es blieben 9 Anwesen.",
+"Es blieben 3 Anwesen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an Plünderung und Seuchen denkt, rechnet mit Verlusten, aber selten mit so vielen. Für Olching war der Krieg katastrophal: Es blieben nur 9 Anwesen. Das Umland litt stärker als München. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.olching.de/politik-and-service/stadtportrait/stadtgeschichte",
+"faktencheck": "unsicher",
+"id": "114-olching/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Olching",
+"steckbrief": "Olching ist eine Stadt mit rund 27.000 Einwohnern, 20 km westlich von München.",
+"frage": "Die Amperbrücke im Ortsteil Esting heißt Römerbrücke. Wann wurde dort die feste Brücke errichtet, die diesen Namen trägt?",
+"optionen": [
+"Römische Soldaten bauten sie im 2. Jahrhundert.",
+"Sie entstand um 1840 mit der Eisenbahn.",
+"Sie wurde um 1870 errichtet.",
+"Sie wurde 1907 errichtet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name lädt zur Römer-Theorie ein. Die feste Amperbrücke, die man Römerbrücke nennt, wurde aber erst 1907 errichtet. Einen Übergang gab es schon lange: Seit dem Spätmittelalter wurde hier Brückenzoll erhoben, und die Lage an der Brücke förderte Estings Entwicklung. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/zeitachse und www.olching.de/politik-and-service/stadtportrait/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "114-olching/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Olching",
+"steckbrief": "Olching hat rund 27.000 Einwohner und liegt 20 km westlich von München.",
+"frage": "Olching trägt heute den Titel Stadt. Seit wann?",
+"optionen": [
+"Olching ist seit dem 14. Jahrhundert Stadt.",
+"Olching ist seit 2011 eine Stadt.",
+"Olching ist seit 1978 eine Stadt.",
+"Olching ist seit 1901 eine Stadt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei so vielen Einwohnern vermutet man ein altes Stadtrecht. Doch Olching blieb lange Gemeinde, auch als Großgemeinde mit Esting, Geiselbullach und Graßlfing. Erst 2011 wurde es zur Stadt erhoben. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/zeitachse",
+"faktencheck": "bestätigt",
+"id": "114-olching/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "113-odelzhausen",
+"anschluss": [
+"Fläche: Olching und Odelzhausen messen beide rund 30 km².",
+"Einwohner: Olching zählt fast fünfmal so viele wie Odelzhausen."
+],
+"anschluesse": {
+"113-odelzhausen": [
+"Fläche: Olching und Odelzhausen messen beide rund 30 km².",
+"Einwohner: Olching zählt fast fünfmal so viele wie Odelzhausen."
+]
+},
+"ags": "09179142",
+"ortsteil": false,
+"km_vom_vorigen": 16.3
+},
+{
+"slug": "115-muenchen",
+"name": "München",
+"lat": 48.1375,
+"lon": 11.575,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "München",
+"steckbrief": "Bayerns Landeshauptstadt an der Isar mit rund 1,5 Millionen Einwohnern.",
+"frage": "Kurfürstin Henriette Adelaide ließ die Kirche St. Kajetan samt Kloster der Theatiner bauen. Welches Gelöbnis erfüllte sie damit?",
+"optionen": [
+"Sie gelobte sie für das Ende einer Seuche.",
+"Sie gelobte sie für ihre eigene Genesung.",
+"Sie gelobte sie für einen Sieg ihres Mannes.",
+"Sie gelobte sie für die Geburt eines Thronfolgers."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Kirchen als Dank für überstandene Seuchen oder Siege gibt es viele, darum liegt das nahe. Hier aber ging es um ein Kind: Henriette Adelaide gelobte den Bau für die lang ersehnte Geburt eines Stammhalters. Es kam Erbprinz Max Emanuel; Kirche und Theatinerkloster lösten das Gelöbnis ein. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, stadt.muenchen.de/infos/stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "115-muenchen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "München",
+"steckbrief": "Bayerns Landeshauptstadt an der Isar mit rund 1,5 Millionen Einwohnern.",
+"frage": "Wie viele Einwohner kommen in München im Schnitt auf einen Quadratkilometer?",
+"optionen": [
+"unter 5.000",
+"5.000 bis unter 7.500",
+"7.500 bis unter 10.000",
+"10.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an das Gedränge der Altstadt denkt, schätzt leicht höher. Gerechnet wird aber über die ganze Stadtfläche: Auf einen Quadratkilometer kommen im Schnitt 4.844 Einwohner. Richtig war 1.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "115-muenchen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "München",
+"steckbrief": "Bayerns Landeshauptstadt an der Isar mit rund 1,5 Millionen Einwohnern.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Schrannenplatz war nach einem Viehmarkt benannt.",
+"Im Alten Rathaus lag einst das Stadtgefängnis.",
+"Der Herzogshof ließ einst Bier aus Einbeck kommen."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Gefängnis im Alten Rathaus klingt erfunden und fällt deshalb auf. Doch im Erdgeschoss lagen Brotstände und das Stadtgefängnis, und der Herzogshof bezog Bier tatsächlich auch aus Einbeck in Niedersachsen. Gelogen war der Viehmarkt: Der Schrannenplatz war nach dem dort abgehaltenen Getreidemarkt benannt, der Getreideschranne. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, stadt.muenchen.de/infos/stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "115-muenchen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "München",
+"steckbrief": "Bayerns Landeshauptstadt an der Isar mit rund 1,5 Millionen Einwohnern.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in München nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"AfD",
+"Grüne",
+"CSU"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die SPD gilt als klassische Großstadtpartei, darum liegt sie nahe. In München kamen bei der Bundestagswahl 2025 aber die Grünen mit 23,5 Prozent der Zweitstimmen auf Platz zwei, hinter der CSU und deutlich vor der SPD. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "115-muenchen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "München",
+"steckbrief": "Bayerns Landeshauptstadt an der Isar mit rund 1,5 Millionen Einwohnern.",
+"frage": "Kurfürst Maximilian ließ die Mariensäule errichten und löste damit ein Gelübde ein. Wofür hatte er es abgelegt?",
+"optionen": [
+"Für seine Rettung nach einem schweren Jagdunfall.",
+"Für die Heilung seiner Augen.",
+"Für seine Heimkehr vom Reichstag.",
+"Für die Verschonung seiner Hauptstädte."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine persönliche Rettung liegt nahe, weil Fürsten oft für eigenes Glück stifteten. Maximilian aber dachte an seine Städte: Mitten im Dreißigjährigen Krieg legte er ein Gelübde ab für den Fall, dass Landshut und München feindlicher Zerstörung entgingen; die Säule löste es ein. Zu Füßen der Gottesmutter kämpfen Heldenputti gegen Ketzerei, Krieg, Hunger und Pest. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, stadt.muenchen.de/infos/stadtgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "115-muenchen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "München",
+"steckbrief": "Bayerns Landeshauptstadt an der Isar mit rund 1,5 Millionen Einwohnern.",
+"frage": "Welche dieser Städte ist eine Partnerstadt Münchens?",
+"optionen": [
+"Sapporo",
+"Innsbruck",
+"Barcelona",
+"Mailand"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Innsbruck und Mailand liegen nah, Barcelona ist beliebt, darum wirken sie wahrscheinlich. Münchens Partnerschaften reichen aber weit: Neben Sapporo gehören Edinburgh, Verona, Bordeaux, Cincinnati, Kiew, Harare und Be'er Sheva dazu. Richtig war 1.",
+"quelle": "stadt.muenchen.de/infos/partnerstaedte",
+"faktencheck": "korrigiert",
+"id": "115-muenchen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "München",
+"steckbrief": "Bayerns Landeshauptstadt an der Isar mit rund 1,5 Millionen Einwohnern.",
+"frage": "1487 erließ Herzog Albrecht IV. für München eine Brauordnung mit dem sogenannten Reinheitsgebot. Woraus durfte Bier danach gebraut werden?",
+"optionen": [
+"Nur Hopfen, Gerste, Wasser und Hefe waren erlaubt.",
+"Nur Hopfen, Gerste und Wasser waren erlaubt.",
+"Nur Hopfen, Gerste, Weizen und Wasser waren erlaubt.",
+"Nur Gerste, Wasser und Kräuter waren erlaubt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Hefe gehört heute selbstverständlich zum Bier, darum liegt sie nahe. Herzog Albrecht IV. erlaubte aber nur Hopfen, Gerste als Malz und Wasser. Später übernahm man die Regel für das ganze Herzogtum Bayern. Münchner Brauer erneuern jährlich auf dem Brauertag den „Preu-Eid“. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, stadt.muenchen.de/infos/stadtgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "115-muenchen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "München",
+"steckbrief": "Bayerns Landeshauptstadt an der Isar mit rund 1,5 Millionen Einwohnern.",
+"frage": "Der Schäfflertanz soll der Sage nach auf eine Pestepidemie zurückgehen. Wie oft wird er getanzt?",
+"optionen": [
+"Die Schäffler tanzen jedes Jahr.",
+"Die Schäffler tanzen alle drei Jahre.",
+"Die Schäffler tanzen alle sieben Jahre.",
+"Die Schäffler tanzen alle zwölf Jahre."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein jährlicher Faschingsbrauch wäre das Übliche, darum liegt das nahe. Die Schäffler (Fassmacher) tanzen aber nur alle sieben Jahre in der Faschingszeit. Der Sage nach wollten sie nach einer Pest Lebensfreude in die Straßen bringen; vermutlich steckt aber ein alter Handwerksbrauch dahinter. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, stadt.muenchen.de/infos/stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "115-muenchen/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "114-olching",
+"anschluss": [
+"Einwohner: München zählt rund 55-mal so viele wie Olching.",
+"Bundestagswahl 2025: Olching hatte eine höhere Wahlbeteiligung als München."
+],
+"anschluesse": {
+"127-eching": [
+"Kreisgrenze: Eching gehört zum Landkreis Freising, München ist kreisfrei.",
+"München hat rund 100-mal so viele Einwohner wie Eching."
+],
+"114-olching": [
+"Einwohner: München zählt rund 55-mal so viele wie Olching.",
+"Bundestagswahl 2025: Olching hatte eine höhere Wahlbeteiligung als München."
+]
+},
+"ags": "09162000",
+"ortsteil": false,
+"km_vom_vorigen": 20.4
+},
+{
+"slug": "127-eching",
+"name": "Eching",
+"lat": 48.3,
+"lon": 11.61667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eching",
+"steckbrief": "Gemeinde mit rund 14.700 Einwohnern, 18 km nördlich von München.",
+"frage": "Das Echinger Heimatmuseum hat eine „Maischer Heimatecke“. Was zeigt sie?",
+"optionen": [
+"Sie zeigt alte Geräte zum Bierbrauen.",
+"Sie zeigt Funde aus der Römerzeit.",
+"Sie erinnert an eine frühere Echinger Mühle.",
+"Sie zeigt Erinnerungsstücke heimatvertriebener Ungarndeutscher."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei „Maischer“ denkt man an Maische, den Brei beim Bierbrauen. Die Ecke im Echinger Heimatmuseum zeigt aber Erinnerungsstücke heimatvertriebener Ungarndeutscher. Daneben sammelt das Museum bäuerliche Geräte sowie Kunst und Objekte von Vereinen und Partnergemeinden. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.eching.de/gemeinde-rathaus/gemeinde/gemeindearchiv/",
+"faktencheck": "bestätigt",
+"id": "127-eching/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Eching",
+"steckbrief": "Gemeinde mit rund 14.700 Einwohnern, 18 km nördlich von München.",
+"frage": "Wie groß ist das Gemeindegebiet von Eching?",
+"optionen": [
+"unter 40 km²",
+"40 bis unter 60 km²",
+"60 bis unter 80 km²",
+"80 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Mit den Ortsteilen Dietersheim und Günzenhausen und den Isarauen am Ostrand wirkt Eching weitläufig; das verleitet zu einer höheren Schätzung. Das Gemeindegebiet misst aber 37,32 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "127-eching/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Eching",
+"steckbrief": "Gemeinde mit rund 14.700 Einwohnern, 18 km nördlich von München.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Isarauen liegen am westlichen Rand der Gemeinde.",
+"Im Ortsteil Günzenhausen beginnt das tertiäre Hügelland.",
+"Die Magdalenenkirche in Eching ist evangelisch-lutherisch."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das tertiäre Hügelland klingt nach Lehrbuch und darum nach Lüge, stimmt aber: Bei Günzenhausen im Norden beginnt das nach dem Erdzeitalter Tertiär benannte Hügelland. Gelogen ist die Himmelsrichtung: Die Isarauen, ein FFH-Schutzgebiet nach EU-Recht, liegen beim Ortsteil Dietersheim am östlichen Gemeinderand. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/ und www.eching.de/leben-wohnen/kirchen/; Ev.-Luth. Kirchengemeinde Eching, www.magdalenenkirche.de",
+"faktencheck": "korrigiert",
+"id": "127-eching/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Eching",
+"steckbrief": "Gemeinde mit rund 14.700 Einwohnern, 18 km nördlich von München.",
+"frage": "Bei der Bundestagswahl 2025 lag in Eching die CSU vorn. Welche Partei holte die zweitmeisten Zweitstimmen?",
+"optionen": [
+"Grüne",
+"SPD",
+"AfD",
+"FDP"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. So nah an München liegen die Grünen als Tipp nahe, und tatsächlich fehlte ihnen wenig: Sie kamen auf 14,2 Prozent, die AfD auf 14,5 Prozent. Die SPD folgte mit 12,4 Prozent, stärkste Partei war die CSU. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "127-eching/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Eching",
+"steckbrief": "Gemeinde mit rund 14.700 Einwohnern, 18 km nördlich von München.",
+"frage": "Eching feierte 2023 ein Festwochenende zu einem Ortsjubiläum. Welches Jubiläum war es?",
+"optionen": [
+"Eching feierte sein 750-jähriges Bestehen.",
+"Eching feierte sein 900-jähriges Bestehen.",
+"Eching feierte sein 1000-jähriges Bestehen.",
+"Eching feierte sein 1250-jähriges Bestehen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Zwischen München und dem Flughafen wirkt Eching wie ein junger Ort; runde 750 oder 1000 Jahre klingen zudem vertrauter. Die Gemeinde feierte 2023 aber ein Festwochenende zum 1250-jährigen Bestehen Echings. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/",
+"faktencheck": "korrigiert",
+"id": "127-eching/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Eching",
+"steckbrief": "Gemeinde mit rund 14.700 Einwohnern, 18 km nördlich von München.",
+"frage": "Zu welchem Landkreis gehört Eching heute?",
+"optionen": [
+"Landkreis Freising",
+"Landkreis München",
+"Landkreis Dachau",
+"Landkreis Erding"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer Eching so nah an München sieht, tippt auf den Landkreis München; die Nähe zur Großstadt legt das nahe. Eching gehört aber zum Landkreis Freising, dessen Hauptkennzeichen FS ist. Richtig war 1.",
+"quelle": "dewiki Infobox (Landkreis); Wikidata P395 (Kennzeichen)",
+"faktencheck": "bestätigt",
+"id": "127-eching/v0.8/6",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Eching",
+"steckbrief": "Gemeinde mit rund 14.700 Einwohnern und dem Ortsteil Dietersheim, 18 km nördlich von München.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Eching wurde als Fahrradfreundliche Kommune ausgezeichnet.",
+"Dietersheims Kirche ist Sitz einer eigenen Pfarrei.",
+"Eching wurde mehrfach als Fair-Trade-Kommune ausgezeichnet."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Zwei Auszeichnungen für eine Gemeinde dieser Größe wirken fast zu viel des Guten, doch beide stimmen: Eching wurde als Fahrradfreundliche Kommune ausgezeichnet und erneut als Fair-Trade-Kommune. Gelogen ist die Pfarrei: St. Johannes der Täufer in Dietersheim ist Filialkirche der Pfarrgemeinde St. Andreas Eching. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.eching.de/leben-wohnen/kirchen/ und www.eching.de/gemeinde-rathaus/rathaus/grusswort-des-ersten-buergermeisters/",
+"faktencheck": "korrigiert",
+"id": "127-eching/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "115-muenchen",
+"anschluss": [],
+"anschluesse": {
+"115-muenchen": [
+"Kreisgrenze: München ist kreisfrei, Eching gehört zum Landkreis Freising.",
+"München hat rund 100-mal so viele Einwohner wie Eching."
+],
+"128-neufahrn": [
+"Neufahrn bei Freising hat fast anderthalbmal so viele Einwohner wie Eching."
+],
+"129-hallbergmoos": [
+"Eching hat rund 3.100 Einwohner mehr als Hallbergmoos."
+],
+"130-freising": [
+"Freising hat fast dreieinhalbmal so viele Einwohner wie Eching.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Freising die Grünen, in Eching die AfD."
+]
+},
+"ags": "09178120",
+"ortsteil": false,
+"km_vom_vorigen": 18.3
+},
+{
+"slug": "128-neufahrn",
+"name": "Neufahrn bei Freising",
+"lat": 48.31588,
+"lon": 11.66316,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Neufahrn bei Freising",
+"steckbrief": "Gemeinde mit rund 21.000 Einwohnern, 21 km nördlich von München.",
+"frage": "Wie groß ist das Gemeindegebiet von Neufahrn?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 25 km²",
+"25 bis unter 40 km²",
+"40 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. So nah an München denkt man an einen dicht bebauten Vorort mit kleinem Gemeindegebiet. Doch Neufahrn misst 45,54 km². Zur Gemeinde gehören neben dem Hauptort sieben weitere Gemeindeteile, darunter Massenhausen, Giggenhausen und Fürholzen. Richtig war 4.",
+"quelle": "GRUNDDATEN, Wikidata P2046; Gemeinde-Webseite neufahrn.de (Zahlen und Fakten)",
+"faktencheck": "korrigiert",
+"id": "128-neufahrn/v0.8/2",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Neufahrn bei Freising",
+"steckbrief": "Gemeinde mit rund 21.000 Einwohnern im Münchner Umland, 21 km nördlich von München.",
+"frage": "Wie hoch war die Wahlbeteiligung bei der Bundestagswahl 2025 in der Gemeinde Neufahrn?",
+"optionen": [
+"unter 78 %",
+"78 bis unter 84 %",
+"84 bis unter 88 %",
+"88 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Wahl 2025 mobilisierte stark, und im Münchner Umland vermutet man oft besonders eifrige Wähler. In Neufahrn lag die Wahlbeteiligung bei 82,9 Prozent. Stärkste Kraft wurde die CSU, dahinter folgte die AfD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "128-neufahrn/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Neufahrn bei Freising",
+"steckbrief": "Gemeinde mit rund 21.000 Einwohnern, 21 km nördlich von München.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Neufahrn?",
+"optionen": [
+"M",
+"DAH",
+"ED",
+"FS"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. So nah an der Landeshauptstadt liegt M nahe, und auch Dachau und Erding sind nicht weit. Neufahrn gehört aber zum Landkreis Freising, deshalb tragen die meisten Autos dort FS. Richtig war 4.",
+"quelle": "GRUNDDATEN, Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "128-neufahrn/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neufahrn bei Freising",
+"steckbrief": "Gemeinde mit rund 21.000 Einwohnern und mehreren Dörfern, 21 km nördlich von München.",
+"frage": "Robert Lembke, später Quizmaster von „Was bin ich?“, versteckte sich ab September 1944 in einem Neufahrner Gemeindeteil. In welchem?",
+"optionen": [
+"Er versteckte sich in Fürholzen.",
+"Er versteckte sich in Hetzenhausen.",
+"Er versteckte sich in Massenhausen.",
+"Er versteckte sich in Giggenhausen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Für ein Versteck tippt man leicht auf Hetzenhausen, den höchstgelegenen Gemeindeteil, oder auf das größere Massenhausen. Lembke versteckte sich aber in Fürholzen, einem Dorf am Rand des Hügellands nordwestlich von Neufahrn. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Neufahrn_bei_Freising",
+"faktencheck": "unsicher",
+"id": "128-neufahrn/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neufahrn bei Freising",
+"steckbrief": "Gemeinde mit rund 21.000 Einwohnern, 21 km nördlich von München.",
+"frage": "Wie entstanden Anfang der 1970er-Jahre die drei Neufahrner Mühlseen?",
+"optionen": [
+"Ein Bach wurde für eine Mühle aufgestaut.",
+"Dort wurde Torf zum Heizen gestochen.",
+"Dort wurde Kies für einen Autobahnbau gebaggert.",
+"Man legte sie als Löschwasserbecken an."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name Mühlseen lässt an einen aufgestauten Mühlbach denken. Tatsächlich sind es Baggerseen: Hier wurde Kies für die Autobahn nach Deggendorf abgebaut. Später entstand daraus ein Erholungsgebiet mit Sportsee, Badesee und einem See, der der Natur vorbehalten ist. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Neufahrn_bei_Freising",
+"faktencheck": "unsicher",
+"id": "128-neufahrn/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Neufahrn bei Freising",
+"steckbrief": "Gemeinde mit rund 21.000 Einwohnern am Übergang zum Hügelland, 21 km nördlich von München.",
+"frage": "Aus Hetzenhausen stammte vermutlich ein berühmter Mann des hohen Mittelalters. Was war er?",
+"optionen": [
+"Er war ein reicher Salzhändler.",
+"Er war Baumeister an einem Dom.",
+"Er war Abt eines großen Klosters.",
+"Er war Dichter und Minnesänger."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In einem Dorf mit alter Kirche denkt man leicht an einen Geistlichen. Vermutlich stammte aber Neidhart von Reuental aus Hetzenhausen. Er zählt zu den berühmtesten Dichtern und Minnesängern seiner Zeit. Sicher belegt ist das nicht. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Neufahrn_bei_Freising",
+"faktencheck": "unsicher",
+"id": "128-neufahrn/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Frage: Das goldene Kreuz im Neufahrner Gemeindewappen hat ein Vorbild. Welches? Option 2: Es verweist auf das Wilgefortis-Kreuz der Pfarrkirche. (Optionen 1, 3, 4 unverändert)",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Kreuz im Gemeindewappen hält man schnell für ein Adels- oder Wegzeichen. Das goldene Kreuz verweist aber auf das romanische Wilgefortis-Kreuz der alten Pfarrkirche und auf die Wallfahrt zur Heiligen Kümmernis. Das Grün steht für die Lage im Gefilde. Richtig war 2.",
+"quelle": "Haus der Bayerischen Geschichte, hdbg.eu/gemeinden/index.php/detail?rschl=9178145",
+"faktencheck": "korrigiert",
+"id": "128-neufahrn/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "127-eching",
+"anschluss": [
+"Einwohner: Neufahrn hat rund 21.100, Eching rund 14.700.",
+"Die A9-Ausfahrt trägt beide Namen: Eching/Neufahrn."
+],
+"anschluesse": {
+"127-eching": [
+"Einwohner: Neufahrn hat rund 21.100, Eching rund 14.700.",
+"Die A9-Ausfahrt trägt beide Namen: Eching/Neufahrn."
+],
+"129-hallbergmoos": [
+"Neufahrn bei Freising hat fast doppelt so viele Einwohner wie Hallbergmoos."
+],
+"130-freising": [
+"Freising hat fast zweieinhalbmal so viele Einwohner wie Neufahrn bei Freising.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Freising die Grünen, in Neufahrn bei Freising die AfD."
+]
+},
+"ags": "09178145",
+"ortsteil": false,
+"km_vom_vorigen": 3.9
+},
+{
+"slug": "129-hallbergmoos",
+"name": "Hallbergmoos",
+"lat": 48.33333,
+"lon": 11.75,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hallbergmoos",
+"steckbrief": "Gemeinde mit rund 11.600 Einwohnern, 25 km nordöstlich von München.",
+"frage": "Der Ortsname klingt nach Berg und Moos. Woher hat Hallbergmoos seinen Namen?",
+"optionen": [
+"Er beschreibt einen Hügel mitten im Moos.",
+"Er ehrt den Freiherrn, der den Ort gründete.",
+"Er erinnert an einen alten Salzhandelsweg.",
+"Er ehrt ein Kloster, dem das Moos gehörte."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach einem Berg im Moos, deshalb liegt diese Deutung nahe. Tatsächlich ist Hallbergmoos nach Freiherr Karl Theodor von Hallberg-Broich benannt, der den Ort gründete. König Ludwig I. befahl die Namensgebung zu Ehren des Freiherrn. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichte",
+"faktencheck": "bestätigt",
+"id": "129-hallbergmoos/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hallbergmoos",
+"steckbrief": "Gemeinde mit rund 11.600 Einwohnern, 25 km nordöstlich von München.",
+"frage": "Auf welcher Höhe über dem Meeresspiegel liegt Hallbergmoos?",
+"optionen": [
+"unter 300 m",
+"300 bis unter 450 m",
+"450 bis unter 500 m",
+"500 m und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei „Moos“ denkt man an eine tiefe Niederung, also schätzt man leicht zu niedrig. Doch das ganze Münchner Umland liegt hoch über dem Meer. Je nach Quelle liegt Hallbergmoos auf 456 oder 460 Metern. Richtig war 3.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "129-hallbergmoos/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hallbergmoos",
+"steckbrief": "Gemeinde mit rund 11.600 Einwohnern, 25 km nordöstlich von München.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Schloss Birkeneck entstand als Jagdschloss der Fürstbischöfe.",
+"Goldach gehörte früher zu Notzing im Landkreis Erding.",
+"Die Rohrkolben im Wappen erinnern an eine Schilfweberei."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Schilf und Rohrkolben wurden früher oft verarbeitet, darum klingt eine Weberei glaubhaft. Im Gemeindewappen stehen die Rohrkolben aber für die Lage am Erdinger Moos, der Eichbaum für Gründer und Gründung. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/der-ort",
+"faktencheck": "bestätigt",
+"id": "129-hallbergmoos/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hallbergmoos",
+"steckbrief": "Gemeinde mit rund 11.600 Einwohnern im Landkreis Freising, 25 km nordöstlich von München.",
+"frage": "Welchen Zweitstimmenanteil holte die CSU als stärkste Partei bei der Bundestagswahl 2025 in Hallbergmoos?",
+"optionen": [
+"unter 42 %",
+"42 bis unter 46 %",
+"46 bis unter 50 %",
+"50 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im ländlichen Oberbayern erwartet man schnell eine absolute Mehrheit der CSU. In Hallbergmoos kam sie auf 39,8 Prozent der Zweitstimmen, die AfD wurde Zweite. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "129-hallbergmoos/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hallbergmoos",
+"steckbrief": "Gemeinde mit rund 11.600 Einwohnern, 25 km nordöstlich von München.",
+"frage": "Anlass der Gründung von Hallbergmoos war die Entwässerung von Moorflächen. Nach welchem Vorbild geschah sie?",
+"optionen": [
+"Man entwässerte nach preußischem Vorbild.",
+"Man entwässerte nach holländischem Vorbild.",
+"Man entwässerte nach englischem Vorbild.",
+"Man entwässerte nach venezianischem Vorbild."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Preußen war für die Trockenlegung großer Bruchlandschaften bekannt, das liegt nahe. Hallbergmoos entstand aber bei einer Entwässerung nach holländischem Vorbild, und die Niederländer gelten als Meister im Trockenlegen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichte",
+"faktencheck": "bestätigt",
+"id": "129-hallbergmoos/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hallbergmoos",
+"steckbrief": "Gemeinde mit rund 11.600 Einwohnern, 25 km nordöstlich von München.",
+"frage": "Mit welchem Ort pflegt Hallbergmoos eine Partnerschaft?",
+"optionen": [
+"Moena",
+"Cavalese",
+"Predazzo",
+"Arco"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die vier Namen klingen alle nach Urlaub im Süden, raten ist hier schwer. Die Partnerschaft verbindet Hallbergmoos mit Predazzo. Richtig war 3.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "129-hallbergmoos/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hallbergmoos",
+"steckbrief": "Gemeinde mit rund 11.600 Einwohnern, 25 km nordöstlich von München.",
+"frage": "Seit 1992 ist der Flughafen München direkter Nachbar. Betriebe welcher Branche siedelten sich danach vor allem im Gewerbegebiet an?",
+"optionen": [
+"Vor allem kamen Brauereien und Lebensmittelfirmen.",
+"Vor allem kamen Chemie- und Pharmafirmen.",
+"Vor allem kamen Möbel- und Holzbetriebe.",
+"Vor allem kamen Computer- und Kommunikationsfirmen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Chemie und Pharma klingen plausibel, denn moderne Industrie sucht kurze Wege zu Flughäfen. Laut Gemeinde kamen aber vor allem Betriebe der Computer- und Kommunikationsbranche ins Gewerbegebiet. Der Flughafen im Erdinger Moos trug außerdem wesentlich zum enormen Einwohnerzuwachs bei. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichte",
+"faktencheck": "korrigiert",
+"id": "129-hallbergmoos/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hallbergmoos",
+"steckbrief": "Gemeinde mit rund 11.600 Einwohnern, 25 km nordöstlich von München.",
+"frage": "Der Gründer von Hallbergmoos war Schiffsjunge, Reisender und Heerführer gegen Napoleon. Welche Krone strebte er laut Gemeinde an?",
+"optionen": [
+"Er strebte nach der schwedischen Krone.",
+"Er strebte nach der griechischen Krone.",
+"Er strebte nach der polnischen Krone.",
+"Er strebte nach der portugiesischen Krone."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Griechenland liegt nahe, denn dort bestieg ein Wittelsbacher den Thron. Karl Theodor von Hallberg-Broich aber strebte nach der schwedischen Königskrone. Der Abenteurer aus dem Herzogtum Jülich und Berg war ein Duzfreund König Ludwigs I. und trug den Spitznamen „Eremit von Gauting“. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichte",
+"faktencheck": "bestätigt",
+"id": "129-hallbergmoos/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hallbergmoos",
+"steckbrief": "Gemeinde mit rund 11.600 Einwohnern, 25 km nordöstlich von München.",
+"frage": "Hallbergmoos hat eine Ludwig-, Theresien-, Maximilian-, Mathilden- und Ottostraße. Warum tragen sie gerade diese Namen?",
+"optionen": [
+"Sie tragen Vornamen erster Siedler aus Schwaben.",
+"Sie ehren Heilige des Bistums Freising.",
+"Sie tragen Namen aus der Familie König Ludwigs I.",
+"Sie tragen Namen der Kinder eines Münchner Bankiers."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Lauter Heiligennamen, da denkt man schnell an Kirchenpatrone. Die Straßen tragen aber Namen aus der königlichen Familie. König Ludwig I. war ein wohlwollender Gönner und gab Geld für die ehrgeizigen Besiedlungspläne des Ortsgründers. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.hallbergmoos.de/buerger/leben-in-hallbergmoos/hallbergmoos/geschichte",
+"faktencheck": "korrigiert",
+"id": "129-hallbergmoos/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "128-neufahrn",
+"anschluss": [
+"Neufahrn hat fast doppelt so viele Einwohner wie Hallbergmoos.",
+"Bundestagswahl 2025: Wahlbeteiligung in Hallbergmoos 85,3, in Neufahrn 82,9 Prozent."
+],
+"anschluesse": {
+"127-eching": [
+"Eching hat rund 3.100 Einwohner mehr als Hallbergmoos."
+],
+"128-neufahrn": [
+"Neufahrn hat fast doppelt so viele Einwohner wie Hallbergmoos.",
+"Bundestagswahl 2025: Wahlbeteiligung in Hallbergmoos 85,3, in Neufahrn 82,9 Prozent."
+],
+"130-freising": [
+"Freising hat gut viermal so viele Einwohner wie Hallbergmoos.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Freising die Grünen, in Hallbergmoos die AfD."
+]
+},
+"ags": "09178130",
+"ortsteil": false,
+"km_vom_vorigen": 6.7
+},
+{
+"slug": "130-freising",
+"name": "Freising",
+"lat": 48.40278,
+"lon": 11.74889,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Freising",
+"steckbrief": "Freising zählt rund 49.000 Einwohner und liegt 32 km nordöstlich von München.",
+"frage": "Im barocken Asamgebäude am Marienplatz blieben Wandkritzeleien aus dem 18. Jahrhundert erhalten. Wer hat sie hinterlassen?",
+"optionen": [
+"Schüler haben sie hinterlassen.",
+"Bauhandwerker haben sie beim Umbau hinterlassen.",
+"Einquartierte Soldaten haben sie hinterlassen.",
+"Pilger haben sie auf der Durchreise hinterlassen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wären Bauhandwerker, denn Kritzeleien an Wänden kennt man von Baustellen. Doch die Graffiti stammen aus dem früheren Karzer, dem Arrestraum der bischöflichen Hochschule: Dort haben sich Schüler verewigt. Später richtete das Stadtmuseum in dem Raum ein modernes Depot ein. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.freising.de/kultur-freizeit/stadtmuseum/museum-seit-1890",
+"faktencheck": "korrigiert",
+"id": "130-freising/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Freising",
+"steckbrief": "Freising zählt rund 49.000 Einwohner und liegt 32 km nordöstlich von München.",
+"frage": "Wie viele Einwohner leben in Freising durchschnittlich auf einem Quadratkilometer Stadtgebiet?",
+"optionen": [
+"unter 300",
+"300 bis unter 700",
+"700 bis unter 1.200",
+"1.200 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei rund 49.000 Einwohnern liegt eine höhere Dichte nahe, wie man sie aus Großstädten kennt. Doch zu Freising gehören zahlreiche Ortsteile, und das Stadtgebiet umfasst 88,59 km². Rechnerisch kommen so 553 Einwohner auf einen Quadratkilometer. Richtig war 2.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "130-freising/v0.8/2",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Freising",
+"steckbrief": "Freising zählt rund 49.000 Einwohner und liegt 32 km nordöstlich von München.",
+"frage": "Welche Partei holte in Freising bei der Bundestagswahl 2025 die zweitmeisten Zweitstimmen?",
+"optionen": [
+"AfD",
+"SPD",
+"CSU",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die AfD liegt nahe, denn sie wurde 2025 bundesweit zweitstärkste Kraft. In Freising aber kamen die Grünen mit 22,2 % auf Platz zwei, hinter der CSU mit 30 %. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "130-freising/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Freising",
+"steckbrief": "Freising zählt rund 49.000 Einwohner und liegt 32 km nordöstlich von München.",
+"frage": "Der Historische Verein Freising rief das Stadtmuseum ins Leben. Wo war seine Sammlung viele Jahrzehnte untergebracht, bevor sie ins Asamgebäude zog?",
+"optionen": [
+"In der St. Georgsschule in der Heiliggeistgasse.",
+"Im Rathaus am Marienplatz.",
+"In einem Saal der Pfarrkirche St. Georg.",
+"In einem Gasthof im Ortsteil Attaching."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Rathaus liegt nahe, denn städtische Sammlungen landen oft im Rathaus. Doch die Sammlung war viele Jahrzehnte in der St. Georgsschule in der Heiliggeistgasse untergebracht, bis sie ins Asamgebäude umzog. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.freising.de/kultur-freizeit/stadtmuseum/museum-seit-1890",
+"faktencheck": "korrigiert",
+"id": "130-freising/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Freising",
+"steckbrief": "Freising zählt rund 49.000 Einwohner und liegt nordöstlich von München.",
+"frage": "Wie weit ist Freising in Luftlinie von der Landeshauptstadt München entfernt?",
+"optionen": [
+"unter 20 km",
+"20 bis unter 40 km",
+"40 bis unter 60 km",
+"60 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Mancher schätzt Freising weiter von München entfernt, weil es eine Große Kreisstadt mit eigenem Kennzeichen FS ist. Dabei gehört zu Freising sogar der Bahnhof München Flughafen Besucherpark. Die Luftlinie zur Landeshauptstadt beträgt 32 km. Richtig war 2.",
+"quelle": "GRUNDDATEN, berechnet aus Koordinaten (Wikidata, staedte.json); Bahnhof: Wikidata (Bahnhöfe mit P131 = Ort)",
+"faktencheck": "korrigiert",
+"id": "130-freising/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Freising",
+"steckbrief": "Freising zählt rund 49.000 Einwohner und liegt 32 km nordöstlich von München.",
+"frage": "Wie weit reicht die Sammlung des Freisinger Stadtmuseums zeitlich zurück?",
+"optionen": [
+"Die Sammlung beginnt in der Römerzeit.",
+"Die Sammlung beginnt im Mittelalter.",
+"Die Sammlung beginnt in der Jungsteinzeit.",
+"Die Sammlung beginnt in der Altsteinzeit."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Viele denken bei Stadtgeschichte zuerst an das Mittelalter, weil Städte meist dann entstanden. Die Sammlung des Stadtmuseums setzt aber viel früher an: Sie reicht von der Jungsteinzeit bis in die Gegenwart. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.freising.de/kultur-freizeit/stadtmuseum/museum-seit-1890",
+"faktencheck": "korrigiert",
+"id": "130-freising/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "129-hallbergmoos",
+"anschluss": [
+"Einwohner: Freising hat gut viermal so viele wie Hallbergmoos.",
+"Bundestagswahl 2025: Grüne in Freising 22,2, in Hallbergmoos 9,7 Prozent."
+],
+"anschluesse": {
+"127-eching": [
+"Freising hat fast dreieinhalbmal so viele Einwohner wie Eching.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Eching die AfD, in Freising die Grünen."
+],
+"128-neufahrn": [
+"Freising hat fast zweieinhalbmal so viele Einwohner wie Neufahrn bei Freising.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Neufahrn bei Freising die AfD, in Freising die Grünen."
+],
+"129-hallbergmoos": [
+"Einwohner: Freising hat gut viermal so viele wie Hallbergmoos.",
+"Bundestagswahl 2025: Grüne in Freising 22,2, in Hallbergmoos 9,7 Prozent."
+],
+"131-moosburg": [
+"Freising hat zweieinhalbmal so viele Einwohner wie Moosburg an der Isar.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Moosburg an der Isar die AfD, in Freising die Grünen."
+]
+},
+"ags": "09178124",
+"ortsteil": false,
+"km_vom_vorigen": 7.7
+},
+{
+"slug": "131-moosburg",
+"name": "Moosburg an der Isar",
+"lat": 48.46667,
+"lon": 11.93333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Moosburg an der Isar",
+"steckbrief": "Stadt mit rund 20.000 Einwohnern, 45 km nordöstlich von München.",
+"frage": "Nach dem Zweiten Weltkrieg entstand der Stadtteil Moosburg-Neustadt. Wer wurde dort angesiedelt?",
+"optionen": [
+"Familien amerikanischer Besatzungssoldaten zogen dort ein.",
+"Arbeiter einer neuen Zuckerfabrik wurden dort untergebracht.",
+"Familien aus der abgebrannten Altstadt zogen dorthin.",
+"Heimatvertriebene wurden dort neu angesiedelt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Amerikanische Soldaten liegen nahe, denn nach dem Krieg war Bayern amerikanische Besatzungszone. Tatsächlich siedelte man in Moosburg-Neustadt Heimatvertriebene an, auf dem frei gewordenen Gelände des früheren Kriegsgefangenenlagers Stalag VII A. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.moosburg.de/Geschichte.html",
+"faktencheck": "bestätigt",
+"id": "131-moosburg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Moosburg an der Isar",
+"steckbrief": "Stadt im Landkreis Freising, 45 km nordöstlich von München.",
+"frage": "Wie viele Einwohner hat Moosburg an der Isar?",
+"optionen": [
+"unter 22.000",
+"22.000 bis unter 30.000",
+"30.000 bis unter 45.000",
+"45.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Mit Gymnasium und Realschule wirkt Moosburg leicht größer, als es ist. Ende 2025 zählte die Stadt 20.107 Einwohner. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "131-moosburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Moosburg an der Isar",
+"steckbrief": "Stadt mit rund 20.000 Einwohnern, 45 km nordöstlich von München.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Moosburger Stadtwappen zeigt rote und silberne Rosen.",
+"Die Grafen von Moosburg führten einen Löwen im Wappen.",
+"Im Dreißigjährigen Krieg wurde Moosburg mehrmals besetzt."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Löwe klingt glaubhaft, er ist in Bayern ein häufiges Wappentier. Die Grafen von Moosburg führten aber Rosen, und genau dieses Schildbild übernahm die Stadt. Wahr sind die Rosen im Stadtwappen und die mehrfache Besetzung im Dreißigjährigen Krieg. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.moosburg.de/Geschichte.html",
+"faktencheck": "bestätigt",
+"id": "131-moosburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Moosburg an der Isar",
+"steckbrief": "Stadt mit rund 20.000 Einwohnern, 45 km nordöstlich von München.",
+"frage": "Wie hoch war in Moosburg die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 72 %",
+"72 bis unter 80 %",
+"80 bis unter 88 %",
+"88 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an die oft beklagte Wahlmüdigkeit denkt, schätzt niedriger. Doch die Bundestagswahl 2025 mobilisierte stark: In Moosburg gaben 84,2 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "131-moosburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Moosburg an der Isar",
+"steckbrief": "Stadt mit rund 20.000 Einwohnern, 45 km nordöstlich von München.",
+"frage": "Als was tritt Moosburg laut eigener Stadtgeschichte erstmals ins Licht der Geschichte?",
+"optionen": [
+"Als Burg im Isarmoos.",
+"Als Salzlager an einer Handelsstraße.",
+"Als Siedlung von Torfstechern.",
+"Als Benediktinerabtei."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name legt eine Burg im Moos nahe. Laut Stadtgeschichte tritt Moosburg aber zuerst als Benediktinerabtei in Erscheinung. Früh kamen Reliquien des heiligen Kastulus hierher. Später führte eine Zollstation wohl zum Marktrecht und leitete so die städtische Entwicklung ein. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.moosburg.de/Geschichte.html",
+"faktencheck": "korrigiert",
+"id": "131-moosburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Moosburg an der Isar",
+"steckbrief": "Stadt mit rund 20.000 Einwohnern im Landkreis Freising, nordöstlich von München.",
+"frage": "Wie weit liegt Moosburg in Luftlinie von der Landeshauptstadt München entfernt?",
+"optionen": [
+"unter 50 km",
+"50 bis unter 70 km",
+"70 bis unter 90 km",
+"90 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer mit dem Auto über Land fährt, empfindet den Weg leicht länger als die gerade Linie. Von Ortsmitte zu Stadtmitte sind es nur 45 Kilometer Luftlinie. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "131-moosburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Moosburg an der Isar",
+"steckbrief": "Stadt mit rund 20.000 Einwohnern, 45 km nordöstlich von München.",
+"frage": "Im Zweiten Weltkrieg lag hier das Kriegsgefangenenlager Stalag VII A, zunächst für 10.000 Gefangene eingerichtet. Wie viele Gefangene waren dort am Ende des Krieges höchstens gleichzeitig untergebracht?",
+"optionen": [
+"unter 50.000",
+"50.000 bis unter 100.000",
+"100.000 bis unter 150.000",
+"150.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer vom anfänglichen Umfang ausgeht, schätzt vorsichtig. Doch am Ende des Krieges lebten dort in Zelten und Baracken bis zu 80.000 Gefangene, weit mehr, als Moosburg heute Einwohner hat. Befreit wurde das Lager von den Amerikanern. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.moosburg.de/Geschichte.html",
+"faktencheck": "korrigiert",
+"id": "131-moosburg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Moosburg an der Isar",
+"steckbrief": "Stadt mit rund 20.000 Einwohnern, 45 km nordöstlich von München.",
+"frage": "Die Grafen von Moosburg bauten sich im Mittelalter ein neues Schloss weiter südlich. Was war laut Stadtgeschichte vorausgegangen?",
+"optionen": [
+"Die Isar hatte den alten Grafensitz unterspült.",
+"Der Herzog ließ den alten Grafensitz schleifen.",
+"Ein Brand im Grafensitz erfasste auch die Stiftskirche.",
+"Ein Erdbeben ließ den alten Grafensitz einstürzen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. An der Isar denkt man zuerst an Hochwasser, das Ufer und Mauern angreift. Laut Stadtgeschichte brannte aber das Haus der Grafen, und das Feuer zerstörte die Stiftskirche teilweise. Danach errichteten die Grafen ihr neues Schloss weiter südlich. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.moosburg.de/Geschichte.html",
+"faktencheck": "bestätigt",
+"id": "131-moosburg/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Moosburg an der Isar",
+"steckbrief": "Stadt mit rund 20.000 Einwohnern, 45 km nordöstlich von München.",
+"frage": "1171 wurde der Grundstein der Moosburger Kastuluskirche gelegt. Wer legte ihn?",
+"optionen": [
+"Herzog Heinrich der Löwe legte ihn.",
+"Kaiser Friedrich Barbarossa legte ihn.",
+"Pfalzgraf Otto von Wittelsbach legte ihn.",
+"Herzog Tassilo III. legte ihn."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Barbarossa liegt nahe, er war damals Kaiser. Den Grundstein legte aber Herzog Heinrich der Löwe, der damals auch Bayern regierte und als Gründer Münchens bekannt ist. Den Hochaltar der Kirche schuf später Hans Leinberger. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.moosburg.de/Geschichte.html",
+"faktencheck": "bestätigt",
+"id": "131-moosburg/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "130-freising",
+"anschluss": [
+"Bundestagswahl 2025: Zweitstärkste Partei in Freising Grüne, in Moosburg AfD.",
+"Kennzeichen: In Freising wie in Moosburg steht FS am Auto."
+],
+"anschluesse": {
+"130-freising": [
+"Bundestagswahl 2025: Zweitstärkste Partei in Freising Grüne, in Moosburg AfD.",
+"Kennzeichen: In Freising wie in Moosburg steht FS am Auto."
+]
+},
+"ags": "09178143",
+"ortsteil": false,
+"km_vom_vorigen": 15.3
 }
 ]
 }

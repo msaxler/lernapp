@@ -1,0 +1,64 @@
+Orte: 111-burgau 112-augsburg 113-odelzhausen 114-olching 115-muenchen 127-eching 128-neufahrn 129-hallbergmoos 130-freising 131-moosburg
+== Extraktion (Haiku) 08:39:46
+111-burgau           extraktion ein  27206  aus   8933   0.09 USD    69 s  claude-haiku-4-5-20251001
+112-augsburg         extraktion ein  25878  aus  12005   0.10 USD   103 s  claude-haiku-4-5-20251001
+113-odelzhausen      extraktion ein  21700  aus  12613   0.09 USD    93 s  claude-haiku-4-5-20251001
+114-olching          extraktion ein  37277  aus  31569   0.22 USD   233 s  claude-haiku-4-5-20251001
+115-muenchen         extraktion ein  25489  aus  10893   0.09 USD    87 s  claude-haiku-4-5-20251001
+127-eching           extraktion ein  21436  aus  12255   0.09 USD    78 s  claude-haiku-4-5-20251001
+128-neufahrn         extraktion ein  24724  aus  16287   0.12 USD   120 s  claude-haiku-4-5-20251001
+129-hallbergmoos     extraktion ein  23565  aus  16135   0.11 USD   117 s  claude-haiku-4-5-20251001
+130-freising         extraktion ein  28724  aus   6461   0.08 USD    43 s  claude-haiku-4-5-20251001
+131-moosburg         extraktion ein  31098  aus   7493   0.09 USD    59 s  claude-haiku-4-5-20251001
+zusammen: 5435 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+111-burgau         21871 Zeichen
+112-augsburg       18179 Zeichen
+113-odelzhausen    16677 Zeichen
+114-olching        25520 Zeichen
+115-muenchen       28657 Zeichen
+127-eching         16131 Zeichen
+128-neufahrn       32108 Zeichen
+129-hallbergmoos   17985 Zeichen
+130-freising       14784 Zeichen
+131-moosburg       16794 Zeichen
+== Karten (claude-opus-5-5) 08:43:39
+111-burgau           karten     ein  39802  aus  34445   0.95 USD   302 s  claude-opus-5-5
+112-augsburg         karten     ein  37387  aus  30459   0.85 USD   260 s  claude-opus-5-5
+113-odelzhausen      karten     ein  36452  aus  39569   1.03 USD   346 s  claude-opus-5-5
+114-olching          karten     ein  41777  aus  47208   1.22 USD   418 s  claude-opus-5-5
+115-muenchen         karten     ein  43241  aus  33972   0.97 USD   298 s  claude-opus-5-5
+127-eching           karten     ein  36050  aus  26949   0.77 USD   228 s  claude-opus-5-5
+128-neufahrn         karten     ein  46438  aus  39217   1.10 USD   340 s  claude-opus-5-5
+129-hallbergmoos     karten     ein  37116  aus  33203   0.91 USD   289 s  claude-opus-5-5
+130-freising         karten     ein  35087  aus  25608   0.74 USD   229 s  claude-opus-5-5
+131-moosburg         karten     ein  36360  aus  38294   1.00 USD   336 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 08:56:14
+111-burgau           pruefung   ein  56894  aus   8441   0.57 USD    75 s  claude-opus-5-5
+112-augsburg         pruefung   ein  53546  aus   7625   0.53 USD    70 s  claude-opus-5-5
+113-odelzhausen      pruefung   ein  43117  aus   9180   0.47 USD    82 s  claude-opus-5-5
+114-olching          pruefung   ein  75120  aus   9910   0.75 USD    89 s  claude-opus-5-5
+115-muenchen         pruefung   ein  58595  aus   9161   0.60 USD    81 s  claude-opus-5-5
+127-eching           pruefung   ein  42710  aus   6376   0.42 USD    55 s  claude-opus-5-5
+128-neufahrn         pruefung   ein  51473  aus   9247   0.54 USD    85 s  claude-opus-5-5
+129-hallbergmoos     pruefung   ein  49024  aus  10372   0.55 USD    89 s  claude-opus-5-5
+130-freising         pruefung   ein  52170  aus   7523   0.51 USD    66 s  claude-opus-5-5
+131-moosburg         pruefung   ein  57835  aus  10396   0.62 USD    92 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 08:59:14
+111-burgau           stufe2     ein 164634  aus   2657   0.39 USD    57 s  claude-opus-5-5,claude-haiku-4-5-20251001
+112-augsburg         stufe2     ein 188915  aus   4372   0.64 USD    83 s  claude-opus-5-5,claude-haiku-4-5-20251001
+113-odelzhausen      stufe2     ein 368087  aus   7465   0.85 USD   138 s  claude-opus-5-5,claude-haiku-4-5-20251001
+114-olching          stufe2     ein 217946  aus   8803   0.93 USD   117 s  claude-opus-5-5,claude-haiku-4-5-20251001
+115-muenchen         stufe2     ein 135406  aus   2480   0.28 USD    65 s  claude-opus-5-5,claude-haiku-4-5-20251001
+127-eching           stufe2     ein  63761  aus   1146   0.16 USD    22 s  claude-opus-5-5,claude-haiku-4-5-20251001
+128-neufahrn         stufe2     ein 515796  aus  10462   1.10 USD   213 s  claude-opus-5-5,claude-haiku-4-5-20251001
+129-hallbergmoos     stufe2     ein 173769  aus   2632   0.37 USD    73 s  claude-opus-5-5,claude-haiku-4-5-20251001
+130-freising         stufe2     ein 189473  aus   5019   0.58 USD   111 s  claude-opus-5-5,claude-haiku-4-5-20251001
+131-moosburg         stufe2     ein 116243  aus   1761   0.28 USD    40 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 09:03:52
+Urteile: {'korrigiert': 310, 'bestätigt': 652, 'gesperrt': 22, 'unsicher': 55} | im Vorrat: 1017 Karten an 115 Orten
+bahn     115 Orte, 1015 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 1284648 Bytes
+  - bahn 112-augsburg v0.8 1: Lösung nicht lesbar
+  - bahn 114-olching v0.8 5: Lösung nicht lesbar
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 09:03:53

@@ -1,0 +1,712 @@
+ZIELORT: Olching (Stadt)
+LAGE: 20 km westlich von München (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Olching
+
+GRUNDDATEN:
+  landkreis: Fürstenfeldbruck  [dewiki Infobox]
+  bundesland: Bayern  [dewiki Infobox]
+  einwohner: 27.418  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 29,92  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 916  [berechnet aus Einwohner und Fläche]
+  kfz: FFB (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 503 | 509  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2857472)]
+  naechste_grossstadt: München, 20 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: München, 20 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Q55611059  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 82140  [Wikidata P281]
+  vorwahl: 08142  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 39,2 %, GRÜNE 14,7 %, AfD 13,7 %, SPD 13,1 %, Die Linke 5,6 %, FDP 5,2 %; Wahlbeteiligung 86,7 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Maximilian Gigl (CSU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-08]
+  partnerstaedte: Feurs, Tuchola  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT hoehe_m: Höhe des Orts (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT kfz: Kennzeichen (Ersatz: Partnerstadt), A, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Odelzhausen (Gemeinde)
+  landkreis: Dachau  [dewiki Infobox]
+  einwohner: 5727  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 30,44  [Wikidata P2046]
+  kfz: DAH (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 499 | 503  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2858149)]
+  naechste_grossstadt: Augsburg, 22 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 41,1 %, AfD 21,4 %, GRÜNE 8,7 %, SPD 7,5 %, FDP 5,5 %; Wahlbeteiligung 83,6 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Frankfurt am Main, Rüsselsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Koblenz, Rhens, Boppard, St. Goar, Oberwesel, Bacharach, Bingen, Ingelheim, Alzey, Nierstein, Oppenheim, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg
+
+FAKTEN (Zielort Olching):
+ID: 114-olching/001
+ENTITÄT: ort
+BEZEICHNUNG: Olching
+ORTSTEIL_BEZUG:
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  landkreis: Fürstenfeldbruck
+  bundesland: Bayern
+  fläche: 29.91 [km²]
+  hoehenlage: 503 [m über NN]
+  einwohner: 28377 [Stand 2026-10-05]
+  entfernung_muenchen: 20 [km]
+  lage: Oberbayern, westlich München, zu beiden Seiten der Amper
+  stadtteile: Olching, Esting, Neu-Esting, Geiselbullach, Graßlfing
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 114-olching/002
+ENTITÄT: ort_statusaenderung
+BEZEICHNUNG: Gebietsreform 1978
+ORTSTEIL_BEZUG:
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1978-05-01
+  komponenten: Olching, Esting, Geiselbullach, Graßlfing
+  resultat: Großgemeinde Olching
+GUELTIG_AB: 1978
+GUELTIG_BIS: 2011
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 114-olching/003
+ENTITÄT: ort_statusaenderung
+BEZEICHNUNG: Stadterhebung 2011
+ORTSTEIL_BEZUG:
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 2011-06-19
+  rang: 317. Stadt Bayerns
+  event: Olching wird zur Stadt erhoben
+GUELTIG_AB: 2011
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 114-olching/004
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Olching
+ORTSTEIL_BEZUG:
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verleihung: 1951-07-10
+  schildhaupt: Bayerische Rauten in Silber
+  hauptelement: Grünes Schilfrohr mit schwarzem Kolben, flanktiert von Halmen mit goldener Ähre
+  wellensymbol: Gesenkter blauer Wellenbalken
+  grund_schilfrohr: Moorige Böden des Dachauer Mooses
+  grund_aehren: Landwirtschaft als Haupterwerbszweig
+  grund_welle: Lage an der Amper
+  grund_rauten: Beziehungen zum bayerischen Herrscherhaus und Tradition der Gemeindepolizei
+  grund_ausnahmegenehmigung: Unterscheidung vom Wappen von Kolbermoor
+  annahme_1981: 1981 von Großgemeinde unverändert übernommen
+GUELTIG_AB: 1951
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 114-olching/005
+ENTITÄT: ortsteil
+BEZEICHNUNG: Esting
+ORTSTEIL_BEZUG: Esting
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1965
+  ersterwähnung: 793-806 [in Freisinger Traditionen]
+  charakterisierung: Frühe bajuwarische Ansiedlung
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 114-olching/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neu-Esting
+ORTSTEIL_BEZUG: Neu-Esting
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 4550
+  erstes_wohnhaus: 1876
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 114-olching/007
+ENTITÄT: ortsteil
+BEZEICHNUNG: Geiselbullach
+ORTSTEIL_BEZUG: Geiselbullach
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1950
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 114-olching/008
+ENTITÄT: ortsteil
+BEZEICHNUNG: Graßlfing
+ORTSTEIL_BEZUG: Graßlfing
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 4583
+  urspruenge: Frühmittelalter
+  ersterwähnung: 1200 [Kloster Schäftlarn]
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 114-olching/009
+ENTITÄT: kirche
+BEZEICHNUNG: St. Peter und Paul
+ORTSTEIL_BEZUG: Olching
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kategorie: Pfarrkirche
+  bauzeitraum: 1899-1901
+  weihe_datum: 1901-09-22
+  grund_neubau: Mittelalterliche Kirche zu klein und baufällig
+  glocken_anzahl: 3
+  glocken_gießerei: A.J. Bachmeier, Erding
+  glocken_weihe: 1901-08-30
+  pfarrststatus: Seit 1909
+  glocken_kriegsschaeden: 1942 abgeliefert
+GUELTIG_AB: 1901
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 114-olching/010
+ENTITÄT: kirche
+BEZEICHNUNG: St. Stephanus
+ORTSTEIL_BEZUG: Esting
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: Romanisch
+  erbauzeitraum: 13. Jahrhundert
+  superlativ: älteste erhaltene Baudenkmal im Gemeindegebiet
+  urspruengliche_zugehoerigkeit: Filiale der Pfarrei Emmering
+  glocken_neuanschaffung_jahr: 1896
+  glocken_gießerei: Kortler, München
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 114-olching/011
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Nepomuk Kapelle
+ORTSTEIL_BEZUG: Geiselbullach
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Adam Geisler
+  baujahr: 1724
+  bauherr: Kurfürst Max Emanuel
+  ausmalung: Rokoko-Stil durch Hofmaler Johann Adam von Schöpf
+  turm_baujahr: 1816
+  wall fahrtsziel: 18. Jahrhundert
+GUELTIG_AB: 1724
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 114-olching/012
+ENTITÄT: kloster
+BEZEICHNUNG: Fürstenfeld
+ORTSTEIL_BEZUG:
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_initial: 1258 [Aiblinger Gebiet]
+  verlegung_nach_olching: 1262-08-14
+  grund_gruendung: Sühne für Mord des Herzogs Ludwig der Strenge an Maria von Brabant
+  initial_konstruktion: Hölzerner Bau
+  erster_abt: Anselmus
+  umzug_von_olching: 1263
+  orden: Zisterzienser
+  begüterung_in_olching: Bis Säkularisierung 1802/03
+  grund_umzug: Vermutlich Starzelhochwasser oder Eigentumsstreitigkeiten
+GUELTIG_AB: 1262
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 114-olching/013
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Geiselbullach
+ORTSTEIL_BEZUG: Geiselbullach
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Adam Geisler
+  baujahr: 1724
+  zusatzbauten: Kapelle und Häuser für Gütler und Handwerker
+  besitzer_1918: Familie Raadts
+  besitzer_modern: Familie Stürzer
+  massnahmen_modern: Aufwendige Restaurierung
+GUELTIG_AB: 1724
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 114-olching/014
+ENTITÄT: schwaige
+BEZEICHNUNG: Kurfürstliche Schwaige Graßlfing
+ORTSTEIL_BEZUG: Graßlfing
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1605
+  gruender: Kurfürst Maximilian I.
+  zweck: Pferdezucht
+  pferdebestand_max: 300
+  gesamtfläche: 3280 [Tagwerk]
+  nutzung_1783: Jagdgebiet unter Kurfürst Karl Theodor
+  veraeusserung_1791: An Mätresse vermacht
+  militaere_nutzung: 1818 Remontedepot für Kavallerie
+  moderne_verwaltung: Seit 1918 Wittelsbacher Ausgleichsfonds
+GUELTIG_AB: 1605
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 114-olching/015
+ENTITÄT: fluss
+BEZEICHNUNG: Amper
+ORTSTEIL_BEZUG:
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Lebensader von Olching
+  laenge: 185 [km]
+  rolle: Wichtigster Zufluss der Isar
+  quelle: Ausfluss des Ammersees
+  muendung: Isar bei Moosburg
+  flusssystem: Zusammenhängend mit der Ammer
+  naturzustand: Über weite Bereiche naturnahe
+  regulierung: Ab 1933 in Olching und Esting
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 114-olching/016
+ENTITÄT: eisenbahnlinie
+BEZEICHNUNG: München-Augsburger Eisenbahn
+ORTSTEIL_BEZUG:
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung_bis_olching: 1839-10-27
+  fertigstellung_bis_augsburg: 1840
+  erster_dampfzug: 1840
+  opposition: Widerstand der Posthaltersfamilie Weiß in Fürstenfeldbruck gegen ursprüngliche Trassenführung
+GUELTIG_AB: 1839
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 114-olching/017
+ENTITÄT: infrastruktur_sbahn
+BEZEICHNUNG: S-Bahn Olching
+ORTSTEIL_BEZUG: Olching
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1972-03-28
+  linie: S3 Mammendorf – München – Holzkirchen
+  taktung: 10 bzw. 20 Minuten
+  fahrzeit_muenchen_zentrum: 27 [Minuten]
+  grund_errichtung: Anläßlich Olympiade 1972
+GUELTIG_AB: 1972
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 114-olching/018
+ENTITÄT: infrastruktur_sbahn_station
+BEZEICHNUNG: S-Bahnstation Esting
+ORTSTEIL_BEZUG: Esting
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1980-06-01
+GUELTIG_AB: 1980
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 114-olching/019
+ENTITÄT: fabrik
+BEZEICHNUNG: Holzstoff-Fabrik der München-Dachauer AG
+ORTSTEIL_BEZUG: Olching
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber: München-Dachauer AG für Papiererzeugung
+  funktion: Papiererzeugung
+  effekt: Erheblicher Bevölkerungsanstieg durch Arbeitskräfte-Ansiedlung
+  oberes_werk_baujahr: 1877
+  oberes_werk_abbruch: 1921-1922
+  unteres_werk_gruendung: 1894
+  unteres_werk_stilllegung: 1970
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 114-olching/020
+ENTITÄT: archaeologische_periode
+BEZEICHNUNG: Glockenbecherzeit
+ORTSTEIL_BEZUG: Esting
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitperiode: Neolithikum, Ende
+  datierung: ca. 2000 [v.C.]
+  fund_anzahl: 25 [Gräber]
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 114-olching/021
+ENTITÄT: archaeologische_periode
+BEZEICHNUNG: La-Tène-Zeit
+ORTSTEIL_BEZUG:
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fund: Hügelgräber entlang Straße Neu-Esting – Geiselbullach
+  grabungen_akademie: 1789 durch Kurfürstliche Akademie der Wissenschaften
+  grabungen_verein: 1873 durch Historischer Verein von Oberbayern
+  huegel_anzahl: 21 [keltische]
+  inventar: Aschenurnen in Wagengräbern
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 114-olching/022
+ENTITÄT: person
+BEZEICHNUNG: Tassilo III.
+ORTSTEIL_BEZUG:
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Agilolfinger-Herzog
+  charakterisierung: Letzter Agilolfingerherzog
+  handlung: Schenkung von Olching mit Kirche und Getreidemühle
+  empfaenger: Kloster Benediktbeuren
+  jahr: 740
+  quellenzuverlaessigkeit: Umstritten, nur in spätmittelalterlicher Abschrift überliefert
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 114-olching/023
+ENTITÄT: person
+BEZEICHNUNG: Ludwig der Strenge
+ORTSTEIL_BEZUG:
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Herzog
+  handlung: Gründung eines Klosters
+  grund_klosterggruendung: Sühne für eifersüchtigen Mord an Gemahlin Maria von Brabant
+  initial_kloster_ort: Aiblinger Gebiet
+  initial_kloster_jahr: 1258
+  verlegung_ort: Olching
+  verlegung_jahr: 1262
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 114-olching/024
+ENTITÄT: person
+BEZEICHNUNG: Wilhelm Leibl
+ORTSTEIL_BEZUG: Graßlfing
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Maler
+  kunstbewegung: Münchner Schule
+  aufenthalt_zeitraum: 1872-1876
+GUELTIG_AB: 1872
+GUELTIG_BIS: 1876
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 114-olching/025
+ENTITÄT: person
+BEZEICHNUNG: Karl Sonner
+ORTSTEIL_BEZUG: Graßlfing
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Maler und Lüftlmaler
+  gruendung_malschule: 1927
+  bekanntestes_werk: Wandmalereien 1924/25 an Estinger Schloßkapelle
+GUELTIG_AB: 1927
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 114-olching/026
+ENTITÄT: person
+BEZEICHNUNG: Albert Leiss
+ORTSTEIL_BEZUG:
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Apotheker und Gemeinderat
+  initiative: Partnerschaft mit Feurs
+  gedanken_seit: Mitte 1950er Jahre
+  gemeinderat_beschluss: 1959-01-28
+  verschwisterungsurkunde: 1963-08-03
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 114-olching/027
+ENTITÄT: person
+BEZEICHNUNG: Félix Nigay
+ORTSTEIL_BEZUG:
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Bürgermeister von Feurs
+  lebensdaten: 1901-1974
+  amtsantritt: 1953
+  erfahrung: Kriegsgefangenschaft im WWII
+  ziel: Verständigung Deutschlands und Frankreichs
+  verschwisterungsurkunde: 1963-08-02
+GUELTIG_AB: 1953
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 114-olching/028
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Feurs
+ORTSTEIL_BEZUG:
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  lage: 65 [km] westlich Lyon, Loire-Ufer, Forez-Ebene
+  departement: Loire
+  einwohner: Ca. 8000
+  partnerschaft_datum: 1963-08-02
+  partnerschaft_bedeutung: Eine der ersten deutsch-französischen Partnerschaften nach WWII
+  gruender_olching: Albert Leiss
+  gruender_feurs: Félix Nigay
+  austausch_form: Schüleraustausch, Feuerwehr-Beziehungen, persönliche Freundschaften
+GUELTIG_AB: 1963
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 114-olching/029
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Tuchola
+ORTSTEIL_BEZUG:
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Polen
+  lage: An der Brda (Brahe)
+  urspruenge: Bis 13. Jahrhundert
+  erstkontakt: Ende 1960er Jahre [Jungsozialisten]
+  erstkontakt_typ: Mit polnischem offiziellen Jugendverband
+  delegation_olching: April 1989
+  gegenbesuch: September 1989
+  partnerschaft_gruendung: 1994-10-01
+  partnerschaft_rang: 700. Städtepartnerschaft einer bayerischen Kommune mit Ausland
+  partnerschaft_bedeutung: Nach Krakau-Nürnberg erst zweite polnisch-bayerische Partnerschaft
+  austausch_bereiche: Wirtschaftlich, kulturell, sportlich, Jugendaustausch
+GUELTIG_AB: 1994
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 114-olching/030
+ENTITÄT: kriegsereignis
+BEZEICHNUNG: Dreißigjähriger Krieg
+ORTSTEIL_BEZUG:
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konsequenz_olching: Katastrophal, starke Dezimierung
+  anwesen_vorher: 67 [1631]
+  anwesen_nachher: 9 [1648]
+  belastung: Umland stärker belastet als München
+GUELTIG_AB: 1631
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 114-olching/031
+ENTITÄT: kriegsereignis
+BEZEICHNUNG: Bombenangriff 1944
+ORTSTEIL_BEZUG: Olching
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 1944-02-22
+  bombentypen: Ca. 75 Spreng- und 200 Brandbomben
+  tote: 22
+  zielgruppe_tote: Darunter polnische Zwangsarbeiterin und russischer Zwangsarbeiter
+  hauser_vollstaendig_zerstoert: 58
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 114-olching/032
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus Olching
+ORTSTEIL_BEZUG: Olching
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1973-06-16
+GUELTIG_AB: 1973
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 114-olching/033
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gymnasium Olching
+ORTSTEIL_BEZUG: Olching
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1974-06-29
+GUELTIG_AB: 1974
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 114-olching/034
+ENTITÄT: kulturzentrum
+BEZEICHNUNG: Kulturwerkstatt am Olchinger Mühlbach (KOM)
+ORTSTEIL_BEZUG: Olching
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 2004-04-30
+  funktionen: Kunstausstellungen, Kabarett, Musikveranstaltungen, Archivveranstaltungen
+GUELTIG_AB: 2004
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 114-olching/035
+ENTITÄT: verein
+BEZEICHNUNG: Freiwillige Feuerwehr Olching
+ORTSTEIL_BEZUG: Olching
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1895
+GUELTIG_AB: 1895
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 114-olching/036
+ENTITÄT: verein
+BEZEICHNUNG: Freiwillige Feuerwehr Esting
+ORTSTEIL_BEZUG: Esting
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1899-01-06
+GUELTIG_AB: 1899
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 114-olching/037
+ENTITÄT: fest
+BEZEICHNUNG: Olchinger Volksfest
+ORTSTEIL_BEZUG: Olching
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmals: 1949 [auf der Insel]
+  zeitpunkt_wiederkehrend: Ab erstem Freitag der Pfingstferien
+  dauer: 10 [Tage]
+  bekanntheit: Weit über Landkreisgrenzen hinaus
+  charakterisierung: Geselligkeit, Attraktionen, bayerische Spezialitäten, Brauchtum
+GUELTIG_AB: 1949
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 114-olching/038
+ENTITÄT: fest
+BEZEICHNUNG: Christkindlmarkt
+ORTSTEIL_BEZUG: Olching
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: Alle vier Adventswochen Freitag bis Sonntag
+  erste_krippe: 1975
+  standort: Vor Kirche St. Peter und Paul
+  rahmenprogramm: Kunsthandwerker, Musikgruppen
+GUELTIG_AB: 1975
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 114-olching/039
+ENTITÄT: platz
+BEZEICHNUNG: Nöscherplatz
+ORTSTEIL_BEZUG: Olching
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benennung: 1918
+  benannt_nach: Georg Nöscher
+  grund_benennung: Expositus und Kirchenförderer
+GUELTIG_AB: 1918
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 114-olching/040
+ENTITÄT: brücke
+BEZEICHNUNG: Römerbrücke (Amperbrücke)
+ORTSTEIL_BEZUG: Esting
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1907-09-07
+  material: Fest [Stein]
+  historische_bedeutung: Lage an Amperbrücke förderte Estings Entwicklung
+  zollrecht: Brückenzoll seit Spätmittelalter, seit 1330 regelmäßig
+GUELTIG_AB: 1907
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 114-olching/041
+ENTITÄT: chronik
+BEZEICHNUNG: Chronik der Stadt Olching
+ORTSTEIL_BEZUG:
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtgeschichte/chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  autoren_original: Konrad Bauer, Tobias Weger, Fritz Scherer
+  publikation_original: 1990er Jahre
+  veroeffentlichung_neuauflage: 2021-12
+  autoren_ueberarbeitung: Tobias Weger
+  autoren_ab_1978: Werner Dreher mit Christin Gruber-Scheuermann
+  enddatum_inhalte: 2011 [Stadterhebung]
+  preis: 49 [Euro]
+  verkauf: Rathaus Olching, Treffpunkt Wagner
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 114-olching/042
+ENTITÄT: archive
+BEZEICHNUNG: Stadtarchiv Olching
+ORTSTEIL_BEZUG: Olching
+QUELLE: https://www.olching.de/politik-and-service/stadtportrait/stadtarchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreuung_seit: 1982
+  archivarin: Angelika Steer
+  zugaenglichkeit: Nicht öffentlich zugänglich
+  sammlungen_bereiche: 20 [Bereiche]
+  fotoarchiv_negativ_ca: 30000
+  luftbildarchiv_aufnahmen: 1300+ [von 2005/2006]
+  veranstaltung: Monatlicher Archivstammtisch in der KOM
+GUELTIG_AB: 1982
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

@@ -58,6 +58,18 @@ def einsetzen(karte, berichtigt):
             continue
         neu = m.group(1).strip()
         alt = feld(karte, name)
+        # Anführungszeichen um die berichtigte Rückseite („Du hattest … Richtig war 3.“) gehören nicht zum Text (Kestert, Mainz,
+        # Rüsselsheim; sonst zeigte der Prototyp „Du hattest [Option] getippt.“ wörtlich)
+        if name == 'RÜCKSEITE' and neu.startswith('„'):
+            neu = re.sub(r'“(?=\s*(?:Quelle:|$))', '', neu[1:], count=1)
+            neu = re.sub(r'\s+Quelle:', '\nQuelle:', neu, count=1)
+        # Eine echte Rückseite beginnt mit „Du hattest“. Schreibt die Prüfstufe stattdessen eine Anweisung („unverändert …“,
+        # „Der Text bleibt gleich, nur die Quellenzeile lautet …“; Augsburg 1, Olching 5, 2026-10-12), bleibt der alte Text
+        # stehen; eine neue Quellenzeile wird übernommen
+        if name == 'RÜCKSEITE' and not neu.startswith('Du hattest') and alt.startswith('Du hattest'):
+            q = re.search(r'Quelle:[^\n]*', neu)
+            text_alt = alt[:alt.index('Quelle:')].rstrip() if 'Quelle:' in alt else alt.rstrip()
+            neu = text_alt + '\n' + (q.group(0) if q else (alt[alt.index('Quelle:'):] if 'Quelle:' in alt else ''))
         if name == 'RÜCKSEITE' and 'Quelle:' not in neu and 'Quelle:' in alt:
             neu += '\n' + alt[alt.index('Quelle:'):]
         k = re.search(r'^%s:[ \t]*\n?(.*?)(?=^[A-ZÄÖÜ][A-ZÄÖÜ0-9 -]*:|\Z)' % name, karte, flags=re.S | re.M)

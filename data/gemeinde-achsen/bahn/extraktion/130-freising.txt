@@ -1,0 +1,349 @@
+ENTITÄT: ort
+BEZEICHNUNG: Freising
+QUELLE: https://www.freising.de/leben-wohnen/bauen/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_große_kreisstadt: true
+  koordinate_oesten: 11°45´
+  koordinate_norden: 48°24´
+  hoehe_ueber_nn: 448 m
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Mariensäule
+QUELLE: https://www.freising.de/stadtportraet/webcam | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Marienplatz
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus
+QUELLE: https://www.freising.de/stadtportraet/webcam | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Marienplatz
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Georg
+QUELLE: https://www.freising.de/stadtportraet/webcam | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Pfarrkirche
+  lage: Marienplatz
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Kriegerdenkmal
+QUELLE: https://www.freising.de/stadtportraet/webcam | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Obere Hauptstraße
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Asamgebäude
+QUELLE: https://www.freising.de/kultur-freizeit/stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekturstil: barock
+  ursprung: ehemalige fürstbischöfliche Hochschule
+  lage: Marienplatz 7, 85354 Freising
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum Freising
+QUELLE: https://www.freising.de/kultur-freizeit/stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Marienplatz 7, 85354 Freising
+  gebaeude: Asamgebäude
+  sammlung_zeitraum: Jungsteinzeit bis Gegenwart
+  flaeche: 250 m²
+  neueroeffnung: 20.07.2024
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum Freising (Vorgänger)
+QUELLE: https://www.freising.de/kultur-freizeit/stadtmuseum/museum-seit-1890 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendet_durch: Historischer Verein Freising
+  erste_heimat: St. Georgsschule, Heiliggeistgasse
+  umzug_zu_asamgebaeude: 1965
+GUELTIG_AB: 1890
+GUELTIG_BIS: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Historischer Verein Freising
+QUELLE: https://www.freising.de/kultur-freizeit/stadtmuseum/museum-seit-1890 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendet: 1890
+  beschreibung: Gründer des Stadtmuseums, Besitzer der Sammlung
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: St. Georgsschule
+QUELLE: https://www.freising.de/kultur-freizeit/stadtmuseum/museum-seit-1890 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Heiliggeistgasse
+  nutzungsgeschichte: Heimat des Stadtmuseums bis 1965
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: depot
+BEZEICHNUNG: Modernes Depot (ehemaliger Karzer)
+QUELLE: https://www.freising.de/kultur-freizeit/stadtmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Asamgebäude
+  gegruendet: 2000
+  beschreibung: Im ehemaligen Karzer der bischöflichen Hochschule; Graffiti-Sammlung von Schülern ca. 1740-1770
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Pulling
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hat_ortsteilentwicklungskonzept: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Attaching
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hat_ortsteilentwicklungskonzept: true
+  hat_altort_wirt: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Achering
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hat_ortsteilentwicklungskonzept: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hohenbachern
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hat_ortsteilentwicklungskonzept: true
+  einwohnerzahl: 530
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kleinbachern
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hat_ortsteilentwicklungskonzept: true
+  einwohnerzahl: 72
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Tüntenhausen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: größerer Ortsteil im Freisinger Nordosten
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Haindlfing
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: größerer Ortsteil im Freisinger Nordwesten
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Sünzhausen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: größerer Ortsteil im Freisinger Westen
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Itzling
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: größerer Ortsteil im Freisinger Nordwesten
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Erlau
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: größerer Ortsteil im Freisinger Nordosten
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Altenhausen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hat_ortsteilentwicklungsdialog: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Haxthausen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: größerer Ortsteil im Freisinger Westen
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Untergartelshausen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: größerer Ortsteil im Freisinger Nordwesten
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Pallhausen West
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Westen
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Pallhausen Ost
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Westen
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Lageltshausen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Westen
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gartelshausen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Westen
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Zellhausen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Nordosten
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Zurnhausen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Nordosten
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gut Piesing
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Nordosten
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Edenhofen
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Nordosten
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Garten
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Nordwesten
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Pettenbrunn
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Nordwesten
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Feldhof
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: kleinerer Ortsteil im Freisinger Nordwesten
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Vötting
+QUELLE: https://www.freising.de/rathaus/stadtentwicklungsplan/ortsteilentwicklung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Nachbarortsteil mit Fahrradwegverbindung zu Hohenbachern geplant
+VERTRAUEN_EXTRAKTION: 0.75
