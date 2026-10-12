@@ -1,0 +1,431 @@
+ZIELORT: Maintal (Stadt)
+LAGE: 7 km nordöstlich von Offenbach am Main (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Maintal
+
+GRUNDDATEN:
+  landkreis: Main-Kinzig-Kreis  [dewiki Infobox]
+  bundesland: Hessen  [dewiki Infobox]
+  einwohner: 39.130  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 32,41  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 1207  [berechnet aus Einwohner und Fläche]
+  kfz: SLÜ (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 100 | 161 | 107 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2874230)]
+  naechste_grossstadt: Offenbach am Main, 7 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Wiesbaden, 43 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Maintal Ost, Maintal West  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 63477  [Wikidata P281]
+  vorwahl: 06109, 06181  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 29 %, SPD 18,9 %, AfD 16,7 %, GRÜNE 11,5 %, Die Linke 9,3 %, BSW 5,7 %; Wahlbeteiligung 80,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Monika Böttcher (parteilos) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-12]
+  partnerstaedte: Katerini, Luisant, Moosburg, Esztergom  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 1
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: zweitstärkste Partei, A, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT kfz: Kennzeichen (Ersatz: Partnerstadt), A, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 2)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Hanau (Stadt)
+  einwohner: 98.582  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 76,47 | 76,28  [Wikidata P2046; Altbestand staedte.json]
+  kfz: HU (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 104 | 100 | 107 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2911007)]
+  naechste_grossstadt: Offenbach am Main, 11 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Hanau Nord, Bahnhof Steinheim (Main), Bahnhof Wolfgang (Kr Hanau), Großauheim (Kr Hanau), Hanau Hauptbahnhof, Hanau West, Hanau-Klein Auheim, Hanau-Wilhelmsbad  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 26,4 %, AfD 18,6 %, SPD 18 %, GRÜNE 11,2 %, Die Linke 11,1 %, BSW 5,9 %; Wahlbeteiligung 77 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen
+
+FAKTEN (Zielort Maintal):
+ID: 163-maintal/001
+ENTITÄT: ort
+BEZEICHNUNG: Maintal
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  lage: zwischen Frankfurt am Main und Hanau, am Main
+  rangierung: bevölkerungsreichste Stadt des Main-Kinzig-Kreises
+  nachbargemeinden_nord: Niederdorfelden, Schöneck
+  nachbargemeinden_ost: Hanau
+  nachbargemeinden_süd: Mühlheim am Main, Offenbach am Main
+  nachbargemeinden_west: Frankfurt am Main
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 163-maintal/002
+ENTITÄT: ort
+DESIGNUNG: Maintal
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  gründung: Zusammenlegung der Stadt Dörnigheim und der Gemeinden Bischofsheim, Hochstadt, Wachenbuchen
+  gründungsdatum: 1. Juli 1974
+  kontext: Hessische Gebietsreform
+  alternative_namensvorschlag: Mainstadt (Bürgerabstimmung vor Zusammenlegung, am meisten Stimmen)
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 163-maintal/003
+ENTITÄT: wappen
+DESIGNUNG: Wappen Maintal
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  genehmigung: 10. Februar 1976
+  genehmigungsbehörde: Hessisches Innenministerium
+  gestalter: Heinz Ritt (Bad Nauheim, Heraldiker)
+  beschreibung: "Schild im Verhältnis 3:1 gespalten; vorne in Rot zwei ineinander greifende silberne Zahnräder übereinander; hinten in Silber ein grüner Schilfstängel mit grünen Blättern und schwarzem Kolben. Im unteren Viertel ist das Wappen belegt mit einem Wellenbalken in verwechselten Farben."
+  basiert_auf: Wappen der ehemaligen Gemeinde Bischofsheim
+  symbolik_zahnräder: Industrie
+  symbolik_schilfstängel: Natur
+  symbolik_wellenbalken: Main
+GUELTIG_AB: 1976
+IST_VERMUTISMUS_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 163-maintal/004
+ENTITÄT: flagge
+DESIGNUNG: Flagge Maintal
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  genehmigung: 17. August 1967
+  genehmigungsbehörde: Hessisches Innenministerium
+  beschreibung: "Die Flagge zeigt die Farben Weiß und Rot, im oberen Drittel belegt mit dem Stadtwappen."
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 163-maintal/005
+ENTITÄT: ortsteil
+DESIGNUNG: Dörnigheim
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 16970
+  einwohner_stand: ~2026
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 163-maintal/006
+ENTITÄT: ortsteil
+DESIGNUNG: Bischofsheim
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 15072
+  einwohner_stand: ~2026
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 163-maintal/007
+ENTITÄT: ortsteil
+DESIGNUNG: Hochstadt
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 6239
+  einwohner_stand: ~2026
+  sitz_stadtverwaltung: true
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 163-maintal/008
+ENTITÄT: ortsteil
+DESIGNUNG: Wachenbuchen
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  einwohner: 3450
+  einwohner_stand: ~2026
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 163-maintal/009
+ENTITÄT: bügermeister
+DESIGNUNG: Monika Böttcher
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  partei: parteilos
+  amtsantritt: 1. Januar 2016
+  amtsende: 2027
+  wahl: 27. September 2015, Stichwahl, 51,8 % der Stimmen, 31,2 % Wahlbeteiligung
+  wiedererwahl: September 2021
+  geschlecht: weiblich
+GUELTIG_AB: 2016
+GUELTIG_BIS: 2027
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 163-maintal/010
+ENTITÄT: bürgermeister
+DESIGNUNG: Erhard Rohrbach
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  amtszeit_früher: 1995–2001
+  amtszeit_später: 2004–2015
+  besonderheit: unterzeichnete am 29. November 2010 die Charta der 100 Kommunen für den Klimaschutz
+GUELTIG_AB: 1995
+GUELTIG_BIS: 2015
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 163-maintal/011
+ENTITÄT: bürgermeister
+DESIGNUNG: Dorothee Diehl
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  partei: CDU
+  amtszeit: 2001–2003
+GUELTIG_AB: 2001
+GUELTIG_BIS: 2003
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 163-maintal/012
+ENTITÄT: bürgermeister
+DESIGNUNG: Walter Unger
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  partei: SPD
+  amtszeit: 1983–1995
+GUELTIG_AB: 1983
+GUELTIG_BIS: 1995
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 163-maintal/013
+ENTITÄT: bürgermeister
+DESIGNUNG: Erwin Henkel
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  partei: SPD
+  amtszeit: 1975–1983
+  bemerkung: zuvor Bürgermeister in Dörnigheim
+GUELTIG_AB: 1975
+GUELTIG_BIS: 1983
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 163-maintal/014
+ENTITÄT: bürgermeister
+DESIGNUNG: Georg Krieger
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  partei: SPD
+  amtszeit: 1974–1975
+  rolle: Staatsbeauftragter
+  bemerkung: zuvor Bürgermeister in Bischofsheim
+GUELTIG_AB: 1974
+GUELTIG_BIS: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 163-maintal/015
+ENTITÄT: erster_stadtrat
+DESIGNUNG: Karl-Heinz Kaiser
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  partei: SPD
+  amtsantritt: 1. September 2020
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 163-maintal/016
+ENTITÄT: stadt_partnerschaft
+DESIGNUNG: Luisant
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  seit: 11. April 1974
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 163-maintal/017
+ENTITÄT: stadt_partnerschaft
+DESIGNUNG: Moosburg
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  land: Österreich
+  seit: 21. Oktober 1976
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 163-maintal/018
+ENTITÄT: stadt_partnerschaft
+DESIGNUNG: Esztergom
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  land: Ungarn
+  seit: 15. Juli 1993
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 163-maintal/019
+ENTITÄT: stadt_partnerschaft
+DESIGNUNG: Katerini
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  land: Griechenland
+  seit: 20. März 1994
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 163-maintal/020
+ENTITÄT: museum
+DESIGNUNG: Heimatmuseum Maintal
+ORTSTEIL_BEZUG: Hochstadt
+QUELLE: https://www.maintal.de/seite/129278/heimatmuseum.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1996
+  adresse: Haupstraße 9, 63477 Maintal-Hochstadt
+  standort: 1. Stock des ehemaligen Pfarr- und Standesamtes Maintal-Hochstadt
+  träger: Heimat-Museum-Maintal e.V.
+  sammlung_objekte: ca. 1000
+  fokus: Kultur- und Wirtschaftsgeschichte Maintals
+  ausstellungsinhalte: Hausarbeitsgeräte, Gegenstände zur Ortsgeschichte, Fotosammlung, Bibliothek, Apfelweinherstellung, Obst- und Weinbau-Werkzeuge, alte Handwerksgeräte, Schlafzimmerstube
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 163-maintal/021
+ENTITÄT: unternehmen
+DESIGNUNG: Norma Group
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  branche: Automobilzulieferer
+  produkt: Schlauchschellen und Schlauchverbinder
+  bekanntheitsgrad: wahrscheinlich bekannteste Maintaler Firma
+  verbreitung: in vielen Autos zu finden
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 163-maintal/022
+ENTITÄT: unternehmen
+DESIGNUNG: Xiamen Hongfa Electroacoustic (Hongfa Europe GmbH)
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: chinesischer Relaishersteller
+  gründung_niederlassung: 2003
+  produkt: Relais aus 110 Relaisfamilien
+  besonderheit: recht neu
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 163-maintal/023
+ENTITÄT: bahnhof
+DESIGNUNG: Maintal West
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  strecke: Frankfurt–Hanau ("Hanauer Bahn")
+  früherer_name: Bischofsheim-Rumpenheim
+  namensänderung_datum: Juni 1997
+  ortsteil: Bischofsheim
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 163-maintal/024
+ENTITÄT: bahnhof
+DESIGNUNG: Maintal Ost
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  strecke: Frankfurt–Hanau ("Hanauer Bahn")
+  früherer_name: Hochstadt-Dörnigheim
+  namensänderung_datum: Juni 1997
+  ortsteile: Hochstadt, Dörnigheim
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 163-maintal/025
+ENTITÄT: fähre
+DESIGNUNG: Autofähre Maintal-Rumpenheim
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  ziel: Rumpenheim (Offenbach am Main)
+  typ: Autofähre
+  status: aktiv
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 163-maintal/026
+ENTITÄT: fähre
+DESIGNUNG: Fähre nach Mühlheim am Main
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  ziel: Mühlheim am Main
+  status_bis_2017: aktiv
+  status_2017: vorübergehend stillgelegt
+  status_ab_2020: endgültig stillgelegt
+GUELTIG_AB: unbekannt
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 163-maintal/027
+ENTITÄT: stolpersteine
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  künstler: Gunter Demnig
+  anzahl_bis_2025: 87
+  verteilung: vier Maintaler Stadtteile
+  zweck: Opfer des Nationalsozialismus
+  beginn_verlegung: 2007
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 163-maintal/028
+ENTITÄT: naturerbe_baum_population
+DESIGNUNG: Alteichenpopulation Bischofsheim
+ORTSTEIL_BEZUG: Bischofsheim
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  standort: südöstlicher Rand des Gänseweihers, zwischen Gänseweiherweg und Stadion FSV 07 Bischofsheim
+  status: bemerkenswert
+  ältester_baum_keimung: um 1710
+  ältester_baum_umfang: ca. 4 Meter
+  größerer_kontext: Teil einer Ansammlung 250–380 Jahre alter Eichen im Enkheimer Wald und Naturschutzgebiet Enkheimer Ried
+GUELTIG_AB: ~1710
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 163-maintal/029
+ENTITÄT: naturschutzgebiet
+DESIGNUNG: Enkheimer Ried
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  standort: südlicher Rand des Naturschutzgebiets Enkheimer Ried, Frankfurter Stadtwald und Grüngürtel
+  größe_enkheimer_wald: ca. 23,3 Hektar
+  größe_naturschutzgebiet: ca. 8,9 Hektar
+  bäume: mindestens 30 Einzelexemplare 250–380 Jahre alter Eichen an vier Stellen
+  bewertung: älteste und besterhaltene Baumpopulationen Frankfurts
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 163-maintal/030
+ENTITÄT: persönlichkeit
+DESIGNUNG: Hans Ticha
+QUELLE: https://de.wikipedia.org/wiki/Maintal | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1940
+  beruf: Maler, Grafiker, Illustrator
+  wohnort_seit: 1993
+  wohnort: Maintal
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+

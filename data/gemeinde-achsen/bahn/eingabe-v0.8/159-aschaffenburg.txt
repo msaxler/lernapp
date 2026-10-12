@@ -1,0 +1,359 @@
+ZIELORT: Aschaffenburg (Stadt)
+LAGE: 31 km südöstlich von Offenbach am Main (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Aschaffenburg
+
+GRUNDDATEN:
+  bundesland: Bayern  [dewiki Infobox]
+  einwohner: 73.326  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 62,45  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 1174  [berechnet aus Einwohner und Fläche]
+  kfz: AB (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 138 | 136 | 133 | 140  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json]
+  naechste_grossstadt: Offenbach am Main, 31 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: München, 270 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Aschaffenburg Hauptbahnhof, Aschaffenburg Hochschule, Aschaffenburg Süd, Aschaffenburg-Nilkheim, Aschaffenburg-Obernau  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 63739–63743  [Wikidata P281]
+  vorwahl: 06021  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 32,7 %, AfD 18,7 %, SPD 14 %, GRÜNE 13,2 %, Die Linke 8,1 %; Wahlbeteiligung 81,9 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Markus Schlemmer {{Internetquelle |url=https://www.br.de/nachrichten/bayern/kommunalwahl-bayern-2026-historischer-tag-fuer-aschaffenburg-csu-stellt-oberbuergermeister,VEce8rR |titel=Der Oberbürgermeister |hrsg=Stadt Aschaffenburg |abruf=2026-05-02}} (CSU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-12]
+  partnerstaedte: Saint-Germain-en-Laye, Perth, Miskolc, Saint-Germain-en-Laye  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT hoehe_m: Höhe des Orts (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Fläche der Gemarkung), C, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Goldbach (Gemeinde)
+  landkreis: Aschaffenburg  [dewiki Infobox]
+  einwohner: 9784  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 10,97  [Wikidata P2046]
+  kfz: AB (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 148 | 139 | 144 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2919438)]
+  naechste_grossstadt: Offenbach am Main, 32 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 41,3 %, AfD 15,9 %, SPD 12,4 %, GRÜNE 10,9 %, Die Linke 5,8 %; Wahlbeteiligung 86,6 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen
+
+FAKTEN (Zielort Aschaffenburg):
+ID: 159-aschaffenburg/001
+ENTITÄT: cafe
+BEZEICHNUNG: Café Grenzenlos
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: März 1999
+  lage: Frohsinnstraße
+  funktion: warme Mahlzeiten täglich an Bedürftige
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 159-aschaffenburg/002
+ENTITÄT: kaufhaus
+BEZEICHNUNG: Kaufhaus Grenzenlos
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1 Jahr nach Café Grenzenlos (ca. 2000)
+  funktion: Lebensmittel gegen geringes Entgelt
+  bedingung: Sozialpass erforderlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 159-aschaffenburg/003
+ENTITÄT: beratungsstelle
+BEZEICHNUNG: Sozialberatung Grenzenlos
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Kolpingstraße 7
+  funktion: Rat und Tat für Hilfesuchende
+  personal: Sozialarbeiter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 159-aschaffenburg/004
+ENTITÄT: verein
+BEZEICHNUNG: ECCO – Helfen durch Kunst
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsitz: Alfred Kalb (über 15 Jahre)
+  ziel: Konzerteinnahmen für soziale Projekte Stadt und Region
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 159-aschaffenburg/005
+ENTITÄT: verein
+BEZEICHNUNG: Aschaffenburger Altstadtfreunde
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsitz_1_vorsitzender: Edgar Röhrig
+  ziel: harmonisches Stadtbild
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 159-aschaffenburg/006
+ENTITÄT: verein
+BEZEICHNUNG: Arbeitsgemeinschaft Christlicher Kirchen (ACK)
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_initiative: Edgar Röhrig
+  ziel: ökumenisches Miteinander
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 159-aschaffenburg/007
+ENTITÄT: verein
+BEZEICHNUNG: Heimat- und Geschichtsverein Schweinheim
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 2006
+  gründer: Josef Syndikus mit Gleichgesinnten
+  vorsitz_früher: Josef Syndikus
+  status_aktuell: Josef Syndikus Ehrenmitglied
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 159-aschaffenburg/008
+ENTITÄT: verein
+BEZEICHNUNG: KirchnerHAUS Aschaffenburg e.V.
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Kulturpreis/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ziel: Umnutzung Geburtshaus Ernst Ludwig Kirchner zu Dokumentations- und Ausstellungshaus
+  motor: Brigitte Schad
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 159-aschaffenburg/009
+ENTITÄT: verein
+BEZEICHNUNG: Lebenshilfe Aschaffenburg
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1963
+  gründer: Marielies Schleicher
+  werkstätte: 1976 eröffnet
+  fokus: Behinderte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 159-aschaffenburg/010
+ENTITÄT: verein
+BEZEICHNUNG: Turnverein Schweinheim 1885
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  mitglied: Josef Syndikus
+  funktionen: Übungsleiter, 25 Jahre Abteilungsleiter
+GUELTIG_AB: 1885
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 159-aschaffenburg/011
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Mainkanalisierung
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fortführung: unter Oberbürgermeister Friedrich Medicus
+  ergebnis: Aschaffenburg als Binnenhafen, verkehrspolitisch bedeutend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 159-aschaffenburg/012
+ENTITÄT: bauwerk
+BEZEICHNUNG: Markthalle
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: unter Bürgermeister Magnus Will (1867-1877)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.86
+---
+ID: 159-aschaffenburg/013
+ENTITÄT: schule
+BEZEICHNUNG: Höhere Weibliche Bildungsanstalt
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: unter Bürgermeister Magnus Will (1867-1877)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 159-aschaffenburg/014
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Löhergraben Überwölbung
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  durchführung: unter Bürgermeister Adalbert von Herrlein (1835-1864)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.84
+---
+ID: 159-aschaffenburg/015
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Landingstraße
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: unter Bürgermeister Adalbert von Herrlein (1835-1864)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.84
+---
+ID: 159-aschaffenburg/016
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Schwanenkolonie / Nilkheim-Besiedlung
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  durchführung: unter Oberbürgermeister Wilhelm Wohlgemuth
+  charakterisierung: städtebauliche Veränderung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 159-aschaffenburg/017
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Strietwald-Siedlung
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: unter Oberbürgermeister Wilhelm Wohlgemuth
+  charakterisierung: städtebauliche Veränderung
+GUELTIG_AB: 1933
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.83
+---
+ID: 159-aschaffenburg/018
+ENTITÄT: gesellschaft
+BEZEICHNUNG: Gesellschaft für Wohnungsbau
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: unter Oberbürgermeister Vinzenz Schwind
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.84
+---
+ID: 159-aschaffenburg/019
+ENTITÄT: baugenossenschaft
+BEZEICHNUNG: Baugenossenschaft Österreicher Kolonie
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1919 durch Architekt Franz Schmitt
+  aufruf: zur Gründung
+  häuser_1919_bis_1929: 170
+  wohneinheiten_10_jahre: 557
+  ziel: Linderung Wohnungsnot
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 159-aschaffenburg/020
+ENTITÄT: ereignis
+BEZEICHNUNG: Zweiter Weltkrieg – Aschaffenburg
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zerstörungen: schwere Zerstörungen der Altstadt
+  wiederaufbau: Altstadt weitgehend restauriert und modernisiert
+  modernisierungen: Rathausneubau, Fußgängerzone Herstallstraße, City-Galerie
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 159-aschaffenburg/021
+ENTITÄT: ereignis
+BEZEICHNUNG: Bombardierung Festung Aschaffenburg
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: Kriegsende 1945
+  kontext: Kapitulation der Festung Aschaffenburg
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 159-aschaffenburg/022
+ENTITÄT: ereignis
+BEZEICHNUNG: Gemeindeedikt vom 17. Mai 1818
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  effekt: Abbau der Bevormundung durch zentrale Staatsmacht, Rückgabe Selbstverwaltungsrecht
+  konsequenz: Aschaffenburg bekam Bürgermeister, Magistratsräte und Gemeindebevollmächtigte
+  vorbeschäftigung: Polizeikommissar Joseph von Hoermann (seit 1815)
+GUELTIG_AB: 1818
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 159-aschaffenburg/023
+ENTITÄT: ereignis
+BEZEICHNUNG: Eingemeinsung Leider und Damm
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: 1901
+  grund: zunehmende Industrialisierung
+  effekt: breiter Raum für leistungsfähige industrielle Ansiedlungen
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 159-aschaffenburg/024
+ENTITÄT: person
+BEZEICHNUNG: Joseph von Hoermann
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Polizeikommissar
+  zeitraum: 1815-1818
+GUELTIG_AB: 1815
+GUELTIG_BIS: 1818
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 159-aschaffenburg/025
+ENTITÄT: person
+BEZEICHNUNG: Papst Johannes Paul II.
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verdienst: Verleihung Ehrentitel Monsignore an Edgar Röhrig 1997
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 159-aschaffenburg/026
+ENTITÄT: person
+BEZEICHNUNG: Papst Pius IX.
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Ehrenbürger-innen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verdienst: Angebot Kurienkardinal-Stelle an Franz Hettinger (abgelehnt)
+GUELTIG_AB: 1868
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 159-aschaffenburg/027
+ENTITÄT: person
+BEZEICHNUNG: Prinzregent Luitpold
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verdienst: Verleihung Orden mit persönlicher Erhebung in den Adel an Friedrich Medicus 1897
+GUELTIG_AB: 1897
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 159-aschaffenburg/028
+ENTITÄT: person
+BEZEICHNUNG: König Maximilian I. Joseph von Bayern
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Ehrenbürger-innen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verdienst: Arbeitgeber Friedrich Fechenbach als Kämmerer
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 159-aschaffenburg/029
+ENTITÄT: person
+BEZEICHNUNG: Bischof Dr. Josef Stangl
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Ehrenbürger-innen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verdienst: Priesterweihe von Gregor Türk 1960
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.86
+---
+ID: 159-aschaffenburg/030
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Schloßgraben
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Grenzmarkierung historische Innenstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.79
+

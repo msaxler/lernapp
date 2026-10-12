@@ -1,0 +1,1019 @@
+ENTITÄT: ort
+BEZEICHNUNG: Offenbach am Main
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  einwohnerzahl: 133.195 [zum 31. Dezember 2025]
+  rangplatz_hessen: 5
+  rangplatz_deutschland: 59
+  ist_kreisfreie_stadt: true
+  ist_oberzentrum: true
+  lage: südliches und südöstliches Ufer des Mains im Rhein-Main-Gebiet
+  hoechster_punkt: 166 [m, Schneckenberg]
+  niedrigster_punkt: 97 [m ü. NHN, am Isenburger Schloss am Mainufer]
+  stadtteile_anzahl: 21 [seit 2019]
+  durchschnittsalter: 40,7 [Jahre, 2023, niedrigste unter deutschen Städten und Landkreisen]
+  anteil_einwohner_migrationshintergrund: 63 [% im Jahr 2019]
+GUELTIG_AB: 977 [Gründung]
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+ORTSTEIL_BEZUG: Offenbach am Main (Kernstadt)
+QUELLE: https://www.offenbach.de/gaeste/stadtgeschichte/offenbach-die-kleine-grossstadt-am-main.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 977
+  erwaehnung_urkunde_beschreibung: Schenkung Güter an Frankfurter Salvatorstift durch Frau Ruotlint
+  urspruenglicher_name: Ovenbach
+  namensherkunft: Vorname "Ovo"
+  einwohner_1800: 5.000
+  einwohner_1850: 11.000
+  einwohner_1900: 50.000
+  einwohner_ende_17_jhd: unter 1.000
+GUELTIG_AB: 977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Isenburger Schloss
+QUELLE: https://www.offenbach.de/gaeste/stadtgeschichte/offenbach-die-kleine-grossstadt-am-main.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1576 [laut Wikipedia: für Grafen von Isenburg]
+  stil: Renaissance
+  urspruengliche_form: Wasserburg [13. Jahrhundert]
+  charakteristikum: schoenste Renaissance-Fassade noerdlich der Alpen [laut Gemeindewebseite]
+  rangbewertung: bedeutendster Renaissancebau nördlich der Alpen [laut Wikipedia]
+  status_seit_1999: Teil der Hochschule für Gestaltung
+  eigentuemer: Land Hessen
+  baugeschichte: mehrmals umgebaut, nach Brand des Dachstuhls im Zweiten Weltkrieg
+GUELTIG_AB: 1576
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Büsing-Palais
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit_original: 1775
+  umgestaltung: 1901-1907
+  stil_umgestaltung: neobarock
+  urspruengliche_funktion: Stadtsitz Fabrikantenfamilie Bernard
+  nutzer_heute: Standesamt, Stadtbibliothek, Klingspor-Museum
+GUELTIG_AB: 1775
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Evangelische Stadtkirche
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  grundsteinlegung: 1739
+  urspruenglicher_name: lutherische Kirche
+  unterstuetzung: durch mehrere evangelische Reichsfürsten
+  ausstattung: unterstützt durch Gesandte anläßlich Kaiserwahl Karl VII. 1741
+GUELTIG_AB: 1739
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Französisch-Reformierte Kirche
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  baustil: mansarddach-typisch [Hugenotten-Architektur spätes 17./18. Jh.]
+  erhaltungszustand: weitestgehend original erhalten
+  bauperiode: spätes 17./18. Jahrhundert
+GUELTIG_AB: 1698
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Marienkirche
+ORTSTEIL_BEZUG:
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  adresse: Bieberer Straße
+  konfession: katholisch
+  stil: neobarock mit Jugendstil-Akzenten
+  bauzeit: 1911-1913
+  architekt: Ludwig Becker [Mainzer Dombaumeister]
+  grundriss: dreischiffig
+  renovierung: 1999-2001
+  besonderheit_nachbau: vermauertes Fenster im Turm nach WWII freigelegt
+  zusatz: Krypta unter der Kirche gebaut
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Rathaus
+ORTSTEIL_BEZUG: Berliner Straße
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 1971
+  hoehe: 70 [Meter]
+  stil: Sichtbetonarchitektur
+  besonderheit: Baudenkmal, Beispiel gelungene Nachkriegsarchitektur
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Lili-Tempel
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  urspruengliche_funktion: Badehaus
+  bauzeit: 1798
+  lage: Offenbacher Lili-Park
+  architekt: Nicolas Alexandre Salins de Montfort
+  stil: klassizistisch
+  besonderheit: einziges im Originalzustand erhaltene Werk Salins de Montforts im Rhein-Main-Gebiet
+  namensherkunft_sage: nach Elisabeth Schönemann [Verlobte Goethes, modernen Sage zufolge]
+  nutzungsgeschichte: 2004 im Rahmen Restaurierung an Privatperson als Erbbaurecht vergeben
+GUELTIG_AB: 1798
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Rumpenheimer Schloss
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  historische_funktion: Treffpunkt europäischen Hochadels
+  zerstoerung_wwii: bis auf Außenmauern
+  uebergang_stadt: 1965
+  wiederherstellung: mehrere Teilstücke, Mittelflügel um 2002
+  aussenansicht_zustand: weitestgehend um 1805
+  heutige_nutzung: private Wohnanlage
+  veranstaltungen_bis_2011: Mittelaltermarkt im Schlosshof und -park
+  seit_2006: Musik im Park
+GUELTIG_AB: [klassizistisch, vor 1805 erbaut]
+GUELTIG_BIS: [zerstört 1945]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Hochschule für Gestaltung
+ORTSTEIL_BEZUG: Schlossplatz
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  urspruengliche_gruendung: 1832 [als Handwerkerschule/Technische Lehranstalten]
+  hochschul_status_seit: 1970
+  architekt_neubau_1917: Hugo Eberhardt
+  fachbereiche_heute: 2 [Kunst mit Kommunikationsdesign, Medien, Kunst, Bühnenbild; Design mit Produktgestaltung]
+  fachbereich_architektur_bis: 1982 [eingestellt]
+  bekanntheit: Design-Hochschule mit Clusterbildung im Designbereich
+  lage_seit_1999: unmittelbar neben Isenburger Schloss
+GUELTIG_AB: 1832
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: institution
+BEZEICHNUNG: Deutscher Wetterdienst
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  sitz: Offenbach am Main [Zentrale]
+  voraussagen_pro_jahr: 90.000 [Stand 2014]
+  unwetterwarnungen_pro_jahr: 30.000 [Stand 2014]
+  besonderheit_luftfahrt: wichtig für Frankfurt Flughafen
+  besonderheit_klima: Überwachung und Erforschung des Klimawandels
+  bibliothek: Deutsche Meteorologische Bibliothek [eine der größten Fachbibliotheken weltweit]
+  oeffnung_wetterpark: frei zugänglich für Besucher
+  fachbereich_2025: seit Juli 2025 Fachbereich Wetterdienst der Hochschule des Bundes für öffentliche Verwaltung
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: erste urkundliche Erwähnung
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  datum: 12. April 977
+  kaiser: Otto II.
+  handlung: beurkundete Schenkung an Salvatorkirche [späteren Dom] in Frankfurt am Main
+  schenker: Frau Ruotlint
+  gegenstand: Güter in Offenbach
+GUELTIG_AB: 977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Goethe
+QUELLE: https://www.offenbach.de/gaeste/stadtgeschichte/offenbach-die-kleine-grossstadt-am-main.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aktivitaeten_offenbach: Romanze 1775 mit Lili Schönemann
+  charakterisierung_stadt: "gärtenreiche Häufung großzügiger Landsitze"
+  aktion: beschrieb regen Schiffsverkehr auf dem Main
+GUELTIG_AB: 1775
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Lili Schönemann
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Verlobte Goethes
+  aktivitaeten_1775: lebte in Offenbach
+  beziehung_goethe: Goethe besuchte sie regelmäßig 1775
+GUELTIG_AB: 1775
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Jacques Offenbach
+QUELLE: https://www.offenbach.de/gaeste/stadtgeschichte/offenbach-die-kleine-grossstadt-am-main.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beziehung_stadt: Großvater wurde in Offenbach begraben
+  geburtsort: Köln [nicht Offenbach]
+  vater: in Offenbach geboren, nannte sich nach seiner Heimatstadt Offenbach
+  grossvater_original_name: Eberscht
+  grossvater_herkunft: Rhön
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Wolfgang Amadeus Mozart
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  aktivitaeten: besuchte mehrmals aufstrebende Industriestadt Offenbach
+  notendruck: ließ Noten bei Johann André verlegen
+  beziehung_andre: erste lithografische Notendrucke ab 1800
+GUELTIG_AB: [diverse Besuche]
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Niccolò Paganini
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  aktivitaeten: besuchte mehrmals Offenbach
+  grund: erwarb Musiksaiten bei Pirazzi
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Sophie von La Roche
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Schriftstellerin
+  ansiedlung: 1786 Domstraße 23
+  bedeutung: Familie niedergelassen
+GUELTIG_AB: 1786
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Johann Philipp von Isenburg-Offenbach
+QUELLE: https://www.offenbach.de/gaeste/stadtgeschichte/offenbach-die-kleine-grossstadt-am-main.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebensdaten: geb. 1655, gest. 1718
+  herrschaft_antritt: 1685
+  bekanntheit: Grafenschaft Isenburg-Offenbach
+  policy_peuplierung: Bevölkerung vermehren
+  hugenotten_aufnahme: 1699 erklärte sich bereit
+  hugenotten_privilegien: 1705 weitreichend
+GUELTIG_AB: 1685
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: group
+BEZEICHNUNG: Hugenotten
+QUELLE: https://www.offenbach.de/gaeste/stadtgeschichte/offenbach-die-kleine-grossstadt-am-main.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufnahme_jahr: 1699
+  privilegien: 1705 erhalten
+  beziehung_stadt: gründeten Neugemeinde separate Gemeinde
+  beziehung_altgemeinde: neben Altgemeinde separate Einheit bis 1. 1. 1824
+  bildung_selbststaendige_gemeinde: 1. Januar 1824
+  beitraege: Textilgewerbe 18. Jahrhundert, Tabakverarbeitung
+  effekt: Wachstumsschub für Ort, Einwohnerzahl verdoppelt
+GUELTIG_AB: 1699
+GUELTIG_BIS: 1824 [formale Trennung]
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: group
+BEZEICHNUNG: Juden
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  erste_erwaehnung: Mitte 14. Jahrhundert
+  gemeindestatuten: 1706
+  unabhaengige_gemeinde_seit: 1707 [ein Jahr später]
+  oberrabinat: Friedberg [unterstand diesem]
+  gottesdienste_ort: Bürgel
+  synagoge_erste: nach Brand errichtet
+  groesse_1910: 1131 [überwiegend russische Juden]
+  emanzipation: 1848 volle bürgerliche Gleichberechtigung [Gesetz 2. August]
+  synagoge_neue: 1916 erbaut
+  novemberpogrome_1938: Synagoge verwüstet
+  syningoge_heutige_nutzung: Kinosaal
+  gemeinde_neugr_1945: 20. Juli 1945 mit 12 Mitgliedern
+  gemeinde_wachstum_1948: 86 Gläubige
+  gemeinde_1986: mitgliederstärkste im Landesverband Hessen
+  gemeinde_nach_sowjetunion_zerfall: ca. 1000 Personen
+  gemeinde_2016: ca. 800 Mitglieder
+  rabbiner_post_1945: 1998 Menachem Mendel Gurewitz bestellt
+  kindergarten_juedisch: 1950er Jahre erbaut, einziger im Landesverband
+GUELTIG_AB: [14. Jh. erwähnt]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: industriebranche
+BEZEICHNUNG: Lederwarenindustrie
+QUELLE: https://www.offenbach.de/gaeste/stadtgeschichte/offenbach-die-kleine-grossstadt-am-main.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bluetenzeit: 18. Jahrhundert und folgende
+  rolle_stadt: "Stadt des Leders und der Lettern"
+  niedergang_tendenz: Heimarbeit in umliegende Gemeinden verlagert
+  messe: Internationale Lederwarenmesse seit 1949
+  branchenführer_schliessung: Goldpfeil 2008
+  beschaeftigung: Fertigungsbetriebe und Vertriebsfirmen im Umland noch
+GUELTIG_AB: 1775
+IST_VERMUTLICH_AKTUELL: false [Niedergang]
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: industriebranche
+BEZEICHNUNG: Textilgewerbe
+QUELLE: https://www.offenbach.de/gaeste/stadtgeschichte/offenbach-die-kleine-grossstadt-am-main.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: von Franzosen [Hugenotten]
+  bluetenzeit: 18. Jahrhundert
+  niedergang: niedergehend durch Lederwarenindustrie ersetzt
+GUELTIG_AB: 1698
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: industriebranche
+BEZEICHNUNG: Schnupftabakfabrik
+QUELLE: https://www.offenbach.de/gaeste/stadtgeschichte/offenbach-die-kleine-grossstadt-am-main.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besitzer_gaendung: Gebrüder Bernard
+  gründung: ab 1733
+  besonderheit: bedeutend im 18. Jahrhundert
+  palais_errichtung: ab 1775 Besitzer errichteten Büsing-Palais [Herrenhaus]
+GUELTIG_AB: 1733
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: industriebranche
+BEZEICHNUNG: Metallindustrie
+QUELLE: https://www.offenbach.de/gaeste/stadtgeschichte/offenbach-die-kleine-grossstadt-am-main.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entwicklung: immer bedeutender werdend ab 19. Jh.
+  niedergang: besonders 1960er und 1970er Jahre 20. Jh.
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: false [Niedergang]
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: industriebranche
+BEZEICHNUNG: Chemische Industrie
+QUELLE: https://www.offenbach.de/gaeste/stadtgeschichte/offenbach-die-kleine-grossstadt-am-main.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betriebe: chemische Betriebe [auch Lacke und Seifen]
+  entwicklung: bedeutender
+  widerstand_niedergang: konnte sich Trend entziehen
+  strukturwandel: jüngste Vergangenheit unterworfen
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: industriebranche
+BEZEICHNUNG: Druckereien und Verlage
+QUELLE: https://www.offenbach.de/gaeste/stadtgeschichte/offenbach-die-kleine-grossstadt-am-main.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  groesse: große Druckereien und Verlage
+  rolle_stadt: Teil der Identität "Stadt des Leders und der Lettern"
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: industriebranche
+BEZEICHNUNG: Lithografie
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  erste_kommerzielle_anwendung: 1799
+  patent: erworben von Alois Senefelder durch Johann Anton André
+  patent_zweck: Noten und Bilder auf Stein drucken
+  steindruckpressen: fünf Maschinen eingerichtet von Senefelder
+  nutzung: Notendruck
+  filialen_gruendung: 1800 in Paris und London
+  mozarts_werke: ab 1800 erste lithografische Notendrucke
+GUELTIG_AB: 1799
+IST_VERMUTLICH_AKTUELL: false [historisch]
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Notenverlag André
+QUELLE: https://www.offenbach.de/gaeste/stadtgeschichte/offenbach-die-kleine-grossstadt-am-main.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 1774 [von Hugenottenfamilie André]
+  gruender: Familie André
+  bestand: noch heute existierend
+  publikationen: Mozart-Noten
+GUELTIG_AB: 1774
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Teerfarbenfabrik Oehler
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1842 [Ernst Sell und Karl Oehler]
+  standort: Mainufer zwischen Offenbach und Bürgel
+  heutige_bezeichnung: AllessaChemie
+  zusammenschluss: Chemische Fabriken Griesheim-Elektron
+  bedeutung: Werk Offenbach lange Zeit bedeutender Standort Hoechst AG
+  produktion: Farbstoffe, Polyestervorprodukte
+  produktionsstilllegung: 2010
+GUELTIG_AB: 1842
+IST_VERMUTLICH_AKTUELL: false [Demontage 2010]
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Pirazzi
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  produktion: Musiksaiten
+  bekanntheit: Paganini kaufte hier
+  aktivitaeten: 18. Jahrhundert
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false [historisch]
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Klingspor
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  gründer: Karl Klingspor
+  sammlung: Schriftgießerei-Sammlung
+  besitztum: Büchersammlung von Siegfried Guggenheim
+  schwerpunkt: typografisch anspruchsvolle Buchausgaben
+  besonderheit: Nachlässe Rudolf Koch [Offenbacher Schrift], Otto Reichert, Heinrich Jost
+  museum: Klingspor-Museum im Büsing-Palais
+GUELTIG_AB: [Schriftgießerei historisch]
+IST_VERMUTLICH_AKTUELL: true [Museum]
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Goldpfeil
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  beziehung_stadt: einstiger Branchenführer [Lederwarenindustrie]
+  schliessung: 2008
+GUELTIG_AB: [19. Jh.]
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Lokalbahn Frankfurt-Offenbach
+QUELLE: https://www.offenbach.de/gaeste/stadtgeschichte/offenbach-die-kleine-grossstadt-am-main.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindung: Frankfurt und Offenbach
+  betrieb_beginn: seit 1848
+  betrieb_ende: 1955
+  fahrzeuge_ende: Dampfloks Baureihe 74.4-13 [Preußische T 12]
+GUELTIG_AB: 1848
+GUELTIG_BIS: 1955
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Eisenbahn Frankfurt-Bebraer Eisenbahn
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  verbindung: Frankfurt - Bebra
+  hauptbahnhof_bau: 1873 errichtet
+  lage_bahnhof: damals weit außerhalb im Süden
+  auswirkung: Weg zum Ausbau Schwerindustrie und chemische Industrie
+GUELTIG_AB: 1873
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verkehrsmittel
+BEZEICHNUNG: Straßenbahn Frankfurt-Offenbacher Trambahn-Gesellschaft (FOTG)
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1882 Projekt eingereicht von Konsortium [Weintraut, Weymann, Merzbach]
+  betrieb: 12. Juni 1882 Projekt eingereicht
+  erster_streckenabschnitt: 18. Februar 1884 eröffnet
+  charakteristik_erste: meterspurige Schmalspurbahn
+  strecke_erste: Sachsenhausen - Buchrainplatz Oberrad
+  fortsetzung: 10. April 1884 zum Offenbacher Mathildenplatz
+  gesamtlaenge: 6,7 Kilometer
+  charakteristik_technik: vierte elektrische Straßenbahn-Linie der Welt
+  technischer_partner: Siemens & Halske
+  betreiber_spaeter: ab 1906 Städtische Straßenbahn
+  betrieb_stilllegung: Straßenbahnlinie 16 1996 stillgelegt
+GUELTIG_AB: 1884
+GUELTIG_BIS: 1996
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Dreißigjähriger Krieg in Offenbach
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  besatzung_bayern: 1631 Schweden vertrieben Bayern
+  kapitulationi: König Gustav Adolf nahm Kapitulation Reichsstadt Frankfurt im Schloss entgegen
+GUELTIG_AB: 1631
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Wiener Kongress
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  auswirkung_offenbach: liquidierte das Fürstentum Isenburg
+  konsequenz: Offenbach gelangte an Großherzogtum Hessen-Darmstadt
+  verlust_fuerst_carl: verlor Landesherrschaft wegen Nähe zu Napoleon I.
+  kurzzeitiger_besitztum: Kaisertum Österreich
+GUELTIG_AB: 1815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Karfreitagsputsch
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1919
+  ort_aktion: Kaserne [heutiger Sitz Finanzamt] Stadthof Ecke Frankfurter Straße
+  opfer: 17 Menschen erschossen
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Alliierte Rheinlandbesetzung
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  offenbach_besetzung_datum: 1920
+  dauer: ein Monat
+  besetzer: französische Truppen
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Novemberpogrome
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  datum: November 1938
+  schaedigungen: Synagoge [heutiges Capitol] geschändet
+  weitere_schaedigungen: mehrere Wohnungen und Geschäfte beschädigt
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Zweiter Weltkrieg Luftangriffe auf Offenbach
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  zerstoerungsgrad: 36 [% zerstört]
+  schwerpunkte_schaeden: Altstadt, Weststadt
+  schwerster_angriff: 18. März 1944 nachts
+  flugzeuge_schwerster: 750 Bomber [Royal Air Force RAF und Kanadische Luftstreitkräfte RCAF]
+  bombenlast_schwerster: 3.600 [Tonnen Spreng- und Brandbomben]
+  opfer_schwerster_angriff: 176
+  opfer_gesamt: 467
+  stadt_besetzung: 26. März 1945 durch US-Armee
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Eingemeindung Bürgel
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1. April 1908
+  folge: Stadtteil Offenbachs
+  gewinnung: Gebiet östlich Grenzstraße
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Eingemeindung Bieber
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1. April 1938
+  folge: Stadtteil Offenbachs
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Eingemeindung Rumpenheim
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1. April 1942
+  folge: Stadtteil Offenbachs
+  beschreibung: letzte Eingemeindung
+GUELTIG_AB: 1942
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Erste Stadtüberschreitung 100.000 Einwohner
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  datum: 18. August 1954
+  bedeutung: jüngste Großstadt Hessens
+GUELTIG_AB: 1954
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Europapreis
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1956
+  grund: hervorragende Bemühungen um europäischen Integrationsgedanken
+  staedtegruendung_vergleich: erste Städte überhaupt [mit Puteaux] erhielten Preis
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: 1000-jähriges Jubiläum Offenbachs
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1977
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Puteaux
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  erste_kontakte: 1952 [Jugend- und Sportbegegnungen]
+  offizielle_verschwisterung: 1955
+  besonderheit_europapreis: erste Städte überhaupt 1956 Europapreis erhalten [mit Offenbach]
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Deutsches Ledermuseum
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  gruender: Hugo Eberhardt [Architekt und Professor Technischer Lehranstalten]
+  schwerpunkt_ursprung: Angewandte Kunst
+  schwerpunkt_heute: Ethnologie, Lederwaren [auch Devotionalien]
+GUELTIG_AB: [Gründung historisch]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Klingspor-Museum
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  sammlung_herkunft: Firmensammlung Karl Klingspor, Sammlung Siegfried Guggenheim
+  bestand: seltene Buchausgaben mit typografischem Anspruch
+  nachlaesse: Rudolf Koch [Offenbacher Schrift], Otto Reichert, Heinrich Jost
+  weitere_werke: Manuale Tipografico Bodoni, Arbeiten Peter Behrens
+  schwerpunkt_jahrzehnte: kunsthandwerklich-dekorative Bücher, Malen von Buchstaben
+  lage: Büsing-Palais
+GUELTIG_AB: [Sammlung historisch]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Haus der Stadtgeschichte
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: Stadtmuseum und Stadtarchiv
+  schwerpunkte: Offenbacher Manufakturen, Hugenotten, Buchdruck
+  besonderes_exponat: Bieberer Amulett
+  industriehalle: aktuelle Kunst
+  neue_abteilung: April 2011 Kunst der Moderne/Grafische Sammlung [Ausstellung zu Erich Martin]
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Internationale Lederwarenmesse
+QUELLE: https://www.offenbach.de/gaeste/stadtgeschichte/offenbach-die-kleine-grossstadt-am-main.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beginn: 1949
+  periodizitaet: regelmäßig [März und September laut Wikipedia]
+  bedeutung: erinnert an Tradition "Stadt der Lederwaren"
+GUELTIG_AB: 1949
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturdenkmal
+BEZEICHNUNG: Main
+QUELLE: https://www.offenbach.de/gaeste/stadtgeschichte/der-main-als-ursprung-der-stadt.php | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle_stadt: Ursprung der Stadt, Landesgrenze, Flusslandschaft
+  rom_antike: Römerstraße verlief durch Offenbacher Gebiet
+  karlgrund: Karl der Große versuchte um 800 Verlängerung bis Donau
+  albrecht_duerer: um 1500 Wasserweg Offenbach vorbei
+  marktschiffe: 18. Jahrhundert Verkehr mit Mainz und Rhein
+  schiffsverkehr: reger Schiffsverkehr nach Goethe
+  dammbau: Ende 19. Jahrhundert gegen Überflutungen
+  geologie: Mainbett über 200.000 Jahre Erdgeschichte bekannt
+GUELTIG_AB: [prähistorisch]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturraum
+BEZEICHNUNG: Offenbacher Stadtwald
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  ausdehnung: 1.330 [Hektar]
+  baumbestand: 1.256 [Hektar]
+  verbreitung: Süden der Stadt von Gravenbruch über Heusenstamm bis Obertshausen
+  weitere_teile: Lohberg im Osten
+  foersterei: Revierwaldförsterei Bieber
+  forstamt: Forstamt Langen
+  baumzusammensetzung_kiefer: 54 [%]
+  baumzusammensetzung_buchen: 21 [%]
+  baumzusammensetzung_eichen: 14 [%]
+  wwii_besonderheit: Scheindörfer angelegt zur Bombenablenkung
+  bombensplitter: in älteren Bäumen sichtbar
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Offenbacher Hafen
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  bedeutung_heute: marginale
+  gelaende_status: große Teile brach
+  entwicklung: seit 2012 Hafeninsel neuer Stadtteil Wohnen und Arbeiten
+  beliebtheit_schiffer: Anlegeplatz am Mainufer Höhe Isenburger Schloss
+GUELTIG_AB: [19. Jh. gegründet]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Staustufe Offenbach
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  art: Staustufe mit Schleuse
+  lage: Mainkilometer 38,51
+  stadtteil: Offenbach-Kaiserlei
+  grenze: Stadtgrenze zu Frankfurt
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kulturelles_erbe
+BEZEICHNUNG: Offenbacher Pfeffernüsse
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  bekanntheit: weltberühmt seit 18. Jahrhundert
+  aufwaehnung: Lexika, Messekataloge, Tagebücher, Zeitschriften
+  verwendung_staatsempfaenge: Hessen ließ servieren bis 1980
+  vergessenheit: ab 1980er zeitweise in Vergessenheit
+  beschaffenheit: helles weiches Plätzchen
+  gewuerze: Pfeffer, Muskat, Koriander, Zimt
+  ursprung_rezept: Zuckerbäcker Philipp Fleischmann 1757
+  goethe_fan: auch Goethe mochte das Gebäck
+  verfuegbarkeit_wieder: seit 2014 wieder erhältlich
+GUELTIG_AB: 1757
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: kulturelles_erbe
+BEZEICHNUNG: Kaiser-Friedrich-Quelle
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  erschliessung: 1888
+  namensgeber: Kaiser Friedrich III. [amtierte nur 99 Tage]
+  lage: Westend
+  verarbeitung: Mineralwasser und Limonade Frischa bis 1996
+  besonderheit_jodid: hoher Jodid-Anteil [1 Liter deckt Tagesbedarf Erwachsener]
+  verarbeitung_eisen: Eisen-Anteil nicht entzogen
+  ausfallgrund: Wasser zu salzig geworden
+GUELTIG_AB: 1888
+GUELTIG_BIS: 1996
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Gustav Adolf [König Schweden]
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  aktivitaet: nahm Quartier im Isenburger Schloss
+  handlung: forderte Ergebung Frankfurts
+  krieg: Dreißigjähriger Krieg
+  kapitulationi: nahm Kapitulation Reichsstadt Frankfurt entgegen
+GUELTIG_AB: 1631
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Manfred Weinberg
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Vorstand OFC [Kickers Offenbach]
+  aktion: untersagte Hitler-Wahlkampfveranstaltung 16. Juli 1932
+  konsequenz: aus Vorstand und Verein gedrängt
+GUELTIG_AB: 1932
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Felix Schwenke
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  amt: Oberbürgermeister
+  wahl_erste: 10. September 2017 [Stichwahl 24. September 2017]
+  wahlbeteiligung_erste: 30,6 % [1. Wahlgang], 43 % [Stichwahl]
+  ergebnis_stichwahl: 67 [%]
+  amtsantritt: 21. Januar 2018
+  konkurrenz: Peter Freier [CDU]
+  wiederwahlstimmen: 69,9 % [17. September 2023]
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: sport_verein
+BEZEICHNUNG: Kickers Offenbach
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  groesse: größter Fußballverein in Offenbach
+  stadion: Stadion am Bieberer Berg
+  stadion_kapazitaet: 20.500 [Plätze]
+  ligastatus_haendig: häufiger in erster Liga
+  finale_meisterschaft_1950: Endspiel deutsche Fußballmeisterschaft 1950, Vizemeister
+  finale_meisterschaft_1959: Endspiel deutsche Fußballmeisterschaft 1959, Vizemeister
+  dlfb_pokal_gewinn: 1970 DFB-Pokal gewonnen
+  insolvenzbedrohung_2013: stand 2013 vor Insolvenz
+  insolvenzbedrohung_2016: stand 2016 vor Insolvenz
+GUELTIG_AB: [historisch gegründet]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gotthaer-Haus
+ORTSTEIL_BEZUG: Berliner Straße
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 1977
+  charakteristik: multifunktionales Gebäude
+  bekanntheit: unübersehbar
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: City Tower
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  hoehe: 120 [Meter]
+  architekten: Novotny Mähner Assoziierte
+  lage: Kaiserlei
+GUELTIG_AB: [neuere Planung]
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: CinemaxX
+QUELLE: https://de.wikipedia.org/wiki/Offenbach_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  lage: Berliner Straße
+  entstehung: nach S-Bahn-Bau
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

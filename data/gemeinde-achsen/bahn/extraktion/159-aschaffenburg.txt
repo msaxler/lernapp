@@ -1,0 +1,346 @@
+---
+
+ENTITÄT: cafe
+BEZEICHNUNG: Café Grenzenlos
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: März 1999
+  lage: Frohsinnstraße
+  funktion: warme Mahlzeiten täglich an Bedürftige
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+
+---
+
+ENTITÄT: kaufhaus
+BEZEICHNUNG: Kaufhaus Grenzenlos
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1 Jahr nach Café Grenzenlos (ca. 2000)
+  funktion: Lebensmittel gegen geringes Entgelt
+  bedingung: Sozialpass erforderlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: beratungsstelle
+BEZEICHNUNG: Sozialberatung Grenzenlos
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Kolpingstraße 7
+  funktion: Rat und Tat für Hilfesuchende
+  personal: Sozialarbeiter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: ECCO – Helfen durch Kunst
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsitz: Alfred Kalb (über 15 Jahre)
+  ziel: Konzerteinnahmen für soziale Projekte Stadt und Region
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Aschaffenburger Altstadtfreunde
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vorsitz_1_vorsitzender: Edgar Röhrig
+  ziel: harmonisches Stadtbild
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Arbeitsgemeinschaft Christlicher Kirchen (ACK)
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_initiative: Edgar Röhrig
+  ziel: ökumenisches Miteinander
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Heimat- und Geschichtsverein Schweinheim
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 2006
+  gründer: Josef Syndikus mit Gleichgesinnten
+  vorsitz_früher: Josef Syndikus
+  status_aktuell: Josef Syndikus Ehrenmitglied
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: KirchnerHAUS Aschaffenburg e.V.
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Kulturpreis/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ziel: Umnutzung Geburtshaus Ernst Ludwig Kirchner zu Dokumentations- und Ausstellungshaus
+  motor: Brigitte Schad
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Lebenshilfe Aschaffenburg
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1963
+  gründer: Marielies Schleicher
+  werkstätte: 1976 eröffnet
+  fokus: Behinderte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Turnverein Schweinheim 1885
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  mitglied: Josef Syndikus
+  funktionen: Übungsleiter, 25 Jahre Abteilungsleiter
+GUELTIG_AB: 1885
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Mainkanalisierung
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fortführung: unter Oberbürgermeister Friedrich Medicus
+  ergebnis: Aschaffenburg als Binnenhafen, verkehrspolitisch bedeutend
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Markthalle
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: unter Bürgermeister Magnus Will (1867-1877)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.86
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Höhere Weibliche Bildungsanstalt
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: unter Bürgermeister Magnus Will (1867-1877)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Löhergraben Überwölbung
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  durchführung: unter Bürgermeister Adalbert von Herrlein (1835-1864)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.84
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Landingstraße
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: unter Bürgermeister Adalbert von Herrlein (1835-1864)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.84
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Schwanenkolonie / Nilkheim-Besiedlung
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  durchführung: unter Oberbürgermeister Wilhelm Wohlgemuth
+  charakterisierung: städtebauliche Veränderung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Strietwald-Siedlung
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: unter Oberbürgermeister Wilhelm Wohlgemuth
+  charakterisierung: städtebauliche Veränderung
+GUELTIG_AB: 1933
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.83
+
+---
+
+ENTITÄT: gesellschaft
+BEZEICHNUNG: Gesellschaft für Wohnungsbau
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: unter Oberbürgermeister Vinzenz Schwind
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.84
+
+---
+
+ENTITÄT: baugenossenschaft
+BEZEICHNUNG: Baugenossenschaft Österreicher Kolonie
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1919 durch Architekt Franz Schmitt
+  aufruf: zur Gründung
+  häuser_1919_bis_1929: 170
+  wohneinheiten_10_jahre: 557
+  ziel: Linderung Wohnungsnot
+GUELTIG_AB: 1919
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Zweiter Weltkrieg – Aschaffenburg
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zerstörungen: schwere Zerstörungen der Altstadt
+  wiederaufbau: Altstadt weitgehend restauriert und modernisiert
+  modernisierungen: Rathausneubau, Fußgängerzone Herstallstraße, City-Galerie
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.91
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Bombardierung Festung Aschaffenburg
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: Kriegsende 1945
+  kontext: Kapitulation der Festung Aschaffenburg
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Gemeindeedikt vom 17. Mai 1818
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  effekt: Abbau der Bevormundung durch zentrale Staatsmacht, Rückgabe Selbstverwaltungsrecht
+  konsequenz: Aschaffenburg bekam Bürgermeister, Magistratsräte und Gemeindebevollmächtigte
+  vorbeschäftigung: Polizeikommissar Joseph von Hoermann (seit 1815)
+GUELTIG_AB: 1818
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Eingemeinsung Leider und Damm
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: 1901
+  grund: zunehmende Industrialisierung
+  effekt: breiter Raum für leistungsfähige industrielle Ansiedlungen
+GUELTIG_AB: 1901
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Joseph von Hoermann
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  position: Polizeikommissar
+  zeitraum: 1815-1818
+GUELTIG_AB: 1815
+GUELTIG_BIS: 1818
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Papst Johannes Paul II.
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Bürgermedaille/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verdienst: Verleihung Ehrentitel Monsignore an Edgar Röhrig 1997
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Papst Pius IX.
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Ehrenbürger-innen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verdienst: Angebot Kurienkardinal-Stelle an Franz Hettinger (abgelehnt)
+GUELTIG_AB: 1868
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Prinzregent Luitpold
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verdienst: Verleihung Orden mit persönlicher Erhebung in den Adel an Friedrich Medicus 1897
+GUELTIG_AB: 1897
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: König Maximilian I. Joseph von Bayern
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Ehrenbürger-innen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verdienst: Arbeitgeber Friedrich Fechenbach als Kämmerer
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Bischof Dr. Josef Stangl
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Ehrenbürger-innen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verdienst: Priesterweihe von Gregor Türk 1960
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.86
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Schloßgraben
+QUELLE: https://www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Grenzmarkierung historische Innenstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.79

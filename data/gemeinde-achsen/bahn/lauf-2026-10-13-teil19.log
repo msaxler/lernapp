@@ -1,0 +1,64 @@
+Orte: 156-laufach 157-hoesbach 158-goldbach 159-aschaffenburg 160-kahl 161-grosskrotzenburg 162-hanau 163-maintal 164-offenbach 165-kist
+== Extraktion (Haiku) 00:08:03
+156-laufach          extraktion ein  21693  aus  19855   0.13 USD   150 s  claude-haiku-4-5-20251001
+157-hoesbach         extraktion ein  31223  aus  14191   0.12 USD   129 s  claude-haiku-4-5-20251001
+158-goldbach         extraktion ein  25987  aus  12217   0.10 USD    99 s  claude-haiku-4-5-20251001
+159-aschaffenburg    extraktion ein 113622  aus  36778   0.32 USD   289 s  claude-haiku-4-5-20251001
+160-kahl             extraktion ein  23823  aus   5467   0.06 USD    42 s  claude-haiku-4-5-20251001
+161-grosskrotzenburg extraktion ein  25931  aus  20769   0.14 USD   162 s  claude-haiku-4-5-20251001
+162-hanau            extraktion ein  47626  aus  24262   0.20 USD   190 s  claude-haiku-4-5-20251001
+163-maintal          extraktion ein  26895  aus   6093   0.07 USD    50 s  claude-haiku-4-5-20251001
+164-offenbach        extraktion ein  56333  aus  16419   0.18 USD   144 s  claude-haiku-4-5-20251001
+165-kist             extraktion ein  22209  aus  13789   0.10 USD    98 s  claude-haiku-4-5-20251001
+zusammen: 7889 Fakten · 0 Berichtigungen an 0 Fakten · 0 an Grunddaten · Befunde des Faktenchecks ohne Fakt: 0
+156-laufach        22474 Zeichen
+157-hoesbach       21127 Zeichen
+158-goldbach       28780 Zeichen
+159-aschaffenburg   17224 Zeichen
+160-kahl           12001 Zeichen
+161-grosskrotzenburg   20724 Zeichen
+162-hanau          62689 Zeichen
+163-maintal        16925 Zeichen
+164-offenbach      38965 Zeichen
+165-kist            9369 Zeichen
+== Karten (claude-opus-5-5) 00:12:58
+156-laufach          karten     ein  40003  aus  34474   0.96 USD   301 s  claude-opus-5-5
+157-hoesbach         karten     ein  38464  aus  42455   1.10 USD   358 s  claude-opus-5-5
+158-goldbach         karten     ein  43536  aus  36179   1.02 USD   309 s  claude-opus-5-5
+159-aschaffenburg    karten     ein  36834  aus  34474   0.93 USD   297 s  claude-opus-5-5
+160-kahl             karten     ein  33446  aus  28025   0.77 USD   242 s  claude-opus-5-5
+161-grosskrotzenburg karten     ein  39019  aus  36972   1.00 USD   317 s  claude-opus-5-5
+162-hanau            karten     ein  64129  aus  39216   1.24 USD   451 s  claude-opus-5-5
+163-maintal          karten     ein  36617  aus  31004   0.86 USD   277 s  claude-opus-5-5
+164-offenbach        karten     ein  49748  aus  29944   0.94 USD   254 s  claude-opus-5-5
+165-kist             karten     ein  31769  aus  25121   0.70 USD   212 s  claude-opus-5-5
+== Prüfstufe 1 (claude-opus-5-5) 00:25:27
+156-laufach          pruefung   ein  49268  aus  12767   0.60 USD   114 s  claude-opus-5-5
+157-hoesbach         pruefung   ein  61284  aus  14494   0.73 USD   129 s  claude-opus-5-5
+158-goldbach         pruefung   ein  50397  aus   7706   0.50 USD    69 s  claude-opus-5-5
+159-aschaffenburg    pruefung   ein  72232  aus   9107   0.71 USD    77 s  claude-opus-5-5
+160-kahl             pruefung   ein  44221  aus   8336   0.47 USD    71 s  claude-opus-5-5
+161-grosskrotzenburg pruefung   ein  47752  aus   8867   0.51 USD    78 s  claude-opus-5-5
+162-hanau            pruefung   ein 110368  aus  11369   1.06 USD    98 s  claude-opus-5-5
+163-maintal          pruefung   ein  42161  aus   5581   0.40 USD    50 s  claude-opus-5-5
+164-offenbach        pruefung   ein  56272  aus   9095   0.58 USD    77 s  claude-opus-5-5
+165-kist             pruefung   ein  39525  aus   6747   0.40 USD    62 s  claude-opus-5-5
+== Stufe 2 (claude-opus-5-5) 00:28:38
+156-laufach          stufe2     ein 217394  aus   6849   0.80 USD   104 s  claude-opus-5-5,claude-haiku-4-5-20251001
+157-hoesbach         stufe2     ein 163664  aus   2798   0.36 USD    64 s  claude-opus-5-5,claude-haiku-4-5-20251001
+158-goldbach         stufe2     ein 393533  aus  10806   0.99 USD   138 s  claude-opus-5-5,claude-haiku-4-5-20251001
+159-aschaffenburg    stufe2     ein 130455  aus   3915   0.46 USD    56 s  claude-opus-5-5,claude-haiku-4-5-20251001
+160-kahl             stufe2     ein 170397  aus   3954   0.42 USD    68 s  claude-opus-5-5,claude-haiku-4-5-20251001
+161-grosskrotzenburg stufe2     ein 1011615  aus  18623   1.69 USD   269 s  claude-opus-5-5,claude-haiku-4-5-20251001
+162-hanau            stufe2     ein 183757  aus   7508   0.66 USD    92 s  claude-opus-5-5,claude-haiku-4-5-20251001
+163-maintal          stufe2     ein 547729  aus   8634   1.31 USD   149 s  claude-opus-5-5,claude-haiku-4-5-20251001
+164-offenbach        stufe2     ein 359820  aus   6792   0.55 USD   106 s  claude-opus-5-5,claude-haiku-4-5-20251001
+165-kist             stufe2     ein 224351  aus   4725   0.48 USD    96 s  claude-opus-5-5,claude-haiku-4-5-20251001
+== Geprüfte Fassung und Export 00:34:03
+Urteile: {'korrigiert': 498, 'bestätigt': 946, 'gesperrt': 32, 'unsicher': 83} | im Vorrat: 1527 Karten an 174 Orten
+iter1    10 Orte, 128 Karten, Tisch-Reihe 3
+neuwied  11 Orte, 104 Karten, Tisch-Reihe 11
+bahn     174 Orte, 1527 Karten, Tisch-Reihe 0
+geschrieben: D:\claude-code\LernApp\apps\quizaway-reise\daten.js 1844874 Bytes
+Kosten aller Orte 32-41 bisher: 24.07 USD
+Fertig 00:34:04

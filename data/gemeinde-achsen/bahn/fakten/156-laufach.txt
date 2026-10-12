@@ -1,0 +1,503 @@
+ID: 156-laufach/001
+ENTITÄT: ort
+BEZEICHNUNG: Laufach
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1084
+  erste_erwaehnung_quelle: Verzeichnis des Stiftes St. Peter und Alexander in Aschaffenburg
+  gehoert_zu: Erzstift des Mainzer Erzbischofs [bis 1814]
+  bayrisch_seit: 1814
+  amt_status: Eigenes Amt innerhalb der kurmainzischen Verwaltung [1554-1668]
+  eigenstaendige_pfarrei_seit: 1810
+  bahnanlage_seit: 1850
+GUELTIG_AB: 1084
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 156-laufach/002
+ENTITÄT: ministerialenfamilie
+BEZEICHNUNG: Herren von Laufach
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 12. Jahrhundert
+  funktion: Ausübung von Herrschaftsrechten im Tal
+  moeglicher_sitz: Hof Wendelstein
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1250
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 156-laufach/003
+ENTITÄT: hof
+BEZEICHNUNG: Wendelstein
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Zwischen Laufach und Frohnhofen
+  funktion_frueher: Moeglicher Sitz der Herren von Laufach
+  funktion_spaeter: Hofgut
+  hatte_muehle: true
+  auf_flosskarte_ca_1630: ja
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 156-laufach/004
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Mauritius
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auf_karte_ca_1630: ja
+  funktion: An hohen Feiertagen Gottesdienste
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 156-laufach/005
+ENTITÄT: kirche
+BEZEICHNUNG: St. Valentin Kirche
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1812
+  abgerissen: 1962
+  lage: Kirchberg
+GUELTIG_AB: 1812
+GUELTIG_BIS: 1962
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 156-laufach/006
+ENTITÄT: kirche
+BEZEICHNUNG: Thomas-Morus-Kirche
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geweiht: 1964
+  standort: Gleicher Platz wie ehemalige St. Valentin-Kirche
+  besonderheit: Pieta aus Werkstatt von Riemenschneider, datiert 1520
+GUELTIG_AB: 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 156-laufach/007
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Pieta aus der Werkstatt von Riemenschneider
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datiert: 1520
+  standort: Thomas-Morus-Kirche Laufach
+  charakterisierung: Besondere Kostbarkeit
+GUELTIG_AB: 1520
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 156-laufach/008
+ENTITÄT: pfarrei
+BEZEICHNUNG: Sailauf
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umfasste: Laufach, Hain
+  bis_wann: 1810
+  kirchweg: Weg zur Taufe, Kommunion, Heirat und Begraebnis bis 1810
+GUELTIG_AB: 1100
+GUELTIG_BIS: 1810
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 156-laufach/009
+ENTITÄT: doppelpfarrei
+BEZEICHNUNG: Laufach-Hain
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: 28. November 1810
+  grund: Nach Entsendung eines Kaplans 1750 fuer Laufach und Hain
+GUELTIG_AB: 1810
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 156-laufach/010
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hain
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  teil_von_laufach_seit: 1970
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 156-laufach/011
+ENTITÄT: ortsteil
+BEZEICHNUNG: Frohnhofen
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  teil_von_laufach_seit: 1970
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 156-laufach/012
+ENTITÄT: ereignis
+BEZEICHNUNG: Tieffliegerangriffe Laufach Zweiter Weltkrieg
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: Zweiter Weltkrieg
+  folgen: Ein Haus zerstört, weitere Häuser beschädigt
+  todesfaelle: Keine
+  grund: Lage Laufachs an der Bahnlinie
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 156-laufach/013
+ENTITÄT: fest
+BEZEICHNUNG: Gelobte Tag
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: 15. August
+  ort: Grotte
+  anlass: Erinnerung an Tieffliegerangriffe im Zweiten Weltkrieg
+GUELTIG_AB: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 156-laufach/014
+ENTITÄT: denkmal
+BEZEICHNUNG: Lenne mit Denkmal fuer die Eisenschmelze
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Dorfplatz, unterhalb der Kirche
+  thema: Eisenschmelze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 156-laufach/015
+ENTITÄT: bahnuebergang
+BEZEICHNUNG: Driller
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benannt_nach: Zwei Drehkreuze, die den ungesicherten Bahnuebergang fuer Fussgaenger sicherten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 156-laufach/016
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Spessartrampe - Tunnelabschnitt
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  strecke: Laufach bis Heigenbruecken
+  umbau_seit: 2017
+  tunnel_hain_laenge: 745 [m]
+  tunnel_metzberg_laenge: 629 [m]
+  tunnel_hirschberg_laenge: 525 [m]
+  tunnel_falkenberg_laenge: 2623 [m]
+  steigung_alt: 2 [%]
+  steigung_neu: 1,25 [%]
+  folge: Beendigung des Schubbetriebs
+  tunnel_verbindungsroehren_falkenberg: 5 (Rettungsstollen)
+  roehrenlabstand_max: 35 [m]
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 156-laufach/017
+ENTITÄT: verein
+BEZEICHNUNG: Eisenbahnfreunde Kahlgrund e.V.
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendet: 1986
+  gruendungsort: Schöllkrippen
+  mitglieder_herkunft: Gesamt Region des bayerischen Untermains
+  projekt: Nachbau der Spessartrampe von Laufach bis Heigenbruecken
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 156-laufach/018
+ENTITÄT: projekt
+BEZEICHNUNG: Kulturweg Laufach-Heigenbruecken
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  uebergeordnetes_projekt: Pathways to Cultural Landscapes
+  unterstuetzer: Gemeinden Laufach und Heigenbruecken, AG Kulturweg, Bezirk Unterfranken
+  traeger: Archaeologisches Spessart-Projekt e.V., Unterfraenkisches Institut fuer Kulturlandschaftsforschung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 156-laufach/019
+ENTITÄT: zuwanderung
+BEZEICHNUNG: Facharbeiter aus der Pfalz
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 18. Jahrhundert
+  grund: Wirtschaftlicher Wohlstand durch Eisenwerk und Schmelzoefen
+  besonderheit: Evangelische Konfession, ungewöhnlich im katholischen Erzstift Mainz
+GUELTIG_AB: 1700
+GUELTIG_BIS: 1800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 156-laufach/020
+ENTITÄT: zuwanderung
+BEZEICHNUNG: Gastarbeiter aus Italien, Spanien und Tuerkei
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: Ab Mitte 20. Jahrhundert
+  grund: Wirtschaftlicher Wohlstand durch Eisenwerk
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 156-laufach/021
+ENTITÄT: kartografisches_dokument
+BEZEICHNUNG: Pfinzingkarte
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datiert: 1594
+  zeigt: Weiberhöfe, Frohnhofen, Bischlingshof, Wendelsteinhof, moeglicher Liebesgrund
+  interpretation: Moegliche Hinweise auf Bergbau aufgrund der Darstellung
+GUELTIG_AB: 1594
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 156-laufach/022
+ENTITÄT: kartografisches_dokument
+BEZEICHNUNG: Flosskarte
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datiert: ca. 1630
+  zeigt: Mauritiuskapelle, Wendelsteinhof mit Muehle
+GUELTIG_AB: 1630
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 156-laufach/023
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hain
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1279
+  erste_erwaehnung_kontext: In Verbindung mit der Sailaufer Mutterpfarrei
+  fruehe_bezeichnung: Laufacher Hain
+  waldfoerster_seit: 1660
+  forstamt_von_bis: 1695-1973
+  schule_gegruendet: 1800
+  schule_neubau: 1878
+  schule_aufgeloest: 1971
+  kindergarten_seit: 1973
+  partnerschaft_mit: Saint Eulalie (Frankreich) seit 1974
+  status_1974: Kleinste Gemeinde in Deutschland
+  gemeindefusion: 1978 mit Laufach
+GUELTIG_AB: 1279
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 156-laufach/024
+ENTITÄT: kirche
+BEZEICHNUNG: Johanneskirche Hain (alt)
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1779
+  abgerissen: 1976
+  grund_bau: Nach Begruendung der Kaplanei Laufach-Hain
+GUELTIG_AB: 1779
+GUELTIG_BIS: 1976
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 156-laufach/025
+ENTITÄT: kirche
+BEZEICHNUNG: Johanneskirche Hain (neu)
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geweiht: 1970
+  standort: Gleicher Platz wie alte Johanneskirche
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 156-laufach/026
+ENTITÄT: gebaeude
+BEZEICHNUNG: Mainzer Haus
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1709
+  erbauer: Erzbischof Lothar Franz von Schönborn (Eckwappen am Gebaeude)
+  ursprungsfunktion: Kurfuerstliches Jagdhaus
+  post_station_seit: 1841
+  erbaut_von_post_expediteur: Konrad Müller (Expediteur und Poststallhalter)
+  post_eilkutsche: Vier Pferde bespannte neunsitzige Eilkutsche, täglich Dienst
+  verkauft_1847: An koeniglich bayerische Eisenbahnbausektion
+  eisenbahn_sektion_1850_1854: Sektion Hain untergebracht
+  forstbehoerde_von_bis: 1857-1980
+  aktueller_besitzer: Privatbesitz
+  fund_2008: Zettel mit Abgabenliste des Cuntz Hesler aus 1578/79 in Deckengebaelk gefunden
+GUELTIG_AB: 1709
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 156-laufach/027
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Philipp Holzmann
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Bauunternehmer
+  zeitraum_hain: 1850-1854
+  wohnort_waehrend_bahnbau: Ehemaliges Post-Expeditions-Gebaeude (Mainzer Haus)
+  besonderheit: Frau sorgte fuer warme Suppe fuer Arbeiter
+  spaetere_leistung: Gruender einer internationalen Bauunternehmung, erste wichtige Auftrag war Bahnbau
+GUELTIG_AB: 1850
+GUELTIG_BIS: 1854
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 156-laufach/028
+ENTITÄT: bahnbau
+BEZEICHNUNG: Bahnbau Hain Eisenbahnstrecke Aschaffenburg-Lohr
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1850-1854
+  viadukt: Hohes Viadukt durch Bahndamm (Wahrzeichen von Hain)
+  opfer: Vier Anwesen und Kunkelsmühle mussten dem Bahnbau weichen
+GUELTIG_AB: 1850
+GUELTIG_BIS: 1854
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 156-laufach/029
+ENTITÄT: muehle
+BEZEICHNUNG: Kunkelsmühle
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abgebrochen: 1850-1854 fuer Bahnbau
+GUELTIG_AB: 1600
+GUELTIG_BIS: 1854
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 156-laufach/030
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Chaussee nach Lohr
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verlauf: Ueber Hain
+  bedeutung: Gab Hain Bedeutung und führte zur Ansiedlung von Waldförster 1660
+GUELTIG_AB: 1660
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 156-laufach/031
+ENTITÄT: forstamt
+BEZEICHNUNG: Forstamt Hain
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betrieb_von_bis: 1695-1973
+  vorgaenger: Waldförster ab 1660
+  grund: Neuordnung der Forstverwaltung 1660, dann formales Forstamt 1695
+GUELTIG_AB: 1695
+GUELTIG_BIS: 1973
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 156-laufach/032
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kindergarten Hain
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingerichtet: 1973
+  standort: Alte Schule
+  traeger: St.-Johannis-Zweigverein Laufach-Hain
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 156-laufach/033
+ENTITÄT: brunnen
+BEZEICHNUNG: Brunnen Schmelz Laufach
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wassertransport: Wasser von der Schmelz in Laufach
+  standort: Hain
+  kulturelle_bedeutung: Auf zeitgenoessischem Briefkopf abgebildet
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.70
+---
+ID: 156-laufach/034
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Partnerschaft Hain - Saint Eulalie
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegruendet: 1974
+  partner: Saint Eulalie (Frankreich)
+  kontext: Hain war 1974 kleinste Gemeinde in Deutschland
+  uebernahme_1978: Nach Gemeindefusion mit Laufach übernahm Gesamtgemeinde Laufach die Partnerschaft
+GUELTIG_AB: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 156-laufach/035
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Cuntz Hesler
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1578/79
+  status: Wohlhabender Mann
+  aktivitaet: Verpachtete Land eigenstaendig, fuehrte Steuern an Landesherren ab
+  hinterlassenschaft: Zettel mit Abgabenliste in 2008 in Deckengebälk gefunden
+GUELTIG_AB: 1570
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 156-laufach/036
+ENTITÄT: stauweicher
+BEZEICHNUNG: Stauweicher Seebachtal
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anzahl: 2
+  ort: Seebachtal
+  funktion: Transport von gefloesstem Brennholz in den Goldbacher Holzhof
+  auf_flosskarte_ca_1630: ja
+  betrieb_bis: Ca. 1850
+  beaufsichtigung: Floßmeister zu Hain
+  archaeologischer_nachweis: Airborne Laser Scan zeigt Daemme noch erkennbar
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1850
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 156-laufach/037
+ENTITÄT: amtsvogtei
+BEZEICHNUNG: Kurmainzer Amtsvogtei Hain
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1772-1782
+  sitz: Hain
+  umfang: Acht Spessarter Ortschaften
+  grund: Chausseebau nach Lohr
+  status: Kurzzeitig
+GUELTIG_AB: 1772
+GUELTIG_BIS: 1782
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 156-laufach/038
+ENTITÄT: person
+BEZEICHNUNG: Konrad Müller
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Expediteur und Poststallhalter
+  aktivitaet: Erbaut das Gebaeude der Post-Expedition 1841
+GUELTIG_AB: 1840
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 156-laufach/039
+ENTITÄT: gemeindefusion
+BEZEICHNUNG: Fusion Hain und Laufach
+QUELLE: https://www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1978
+  folge_partnerschaft: Gesamtgemeinde Laufach uebernahm Partnerschaft mit Saint Eulalie
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90

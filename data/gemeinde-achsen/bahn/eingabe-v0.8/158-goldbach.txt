@@ -1,0 +1,796 @@
+ZIELORT: Goldbach (Gemeinde)
+LAGE: 32 km östlich von Offenbach am Main (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Goldbach (Unterfranken)
+
+GRUNDDATEN:
+  landkreis: Aschaffenburg  [dewiki Infobox]
+  bundesland: Bayern  [dewiki Infobox]
+  einwohner: 9784  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 10,97  [Wikidata P2046]
+  dichte_ew_km2: 892  [berechnet aus Einwohner und Fläche]
+  kfz: AB (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 148 | 139 | 144 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2919438)]
+  naechste_grossstadt: Offenbach am Main, 32 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: München, 270 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  plz: 63773  [Wikidata P281]
+  vorwahl: 06021  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 41,3 %, AfD 15,9 %, SPD 12,4 %, GRÜNE 10,9 %, Die Linke 5,8 %; Wahlbeteiligung 86,6 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Sandra Rußmann (Freie Wählergemeinschaft) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-12]
+  partnerstaedte: Courseulles-sur-Mer  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 1
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 2
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 4
+  Karte 5: Geschichte, A, wahre Option an Stelle 1
+  Karte 6: Klassiker, EIGENSCHAFT km_landeshauptstadt: Luftlinie zur Landeshauptstadt (Ersatz: Landkreis), C, wahre Option an Stelle 2
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 3 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Hösbach (Gemeinde)
+  landkreis: Aschaffenburg  [dewiki Infobox]
+  einwohner: 12.965  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 30,58  [Wikidata P2046]
+  kfz: AB (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 144 | 160 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2898494)]
+  naechste_grossstadt: Offenbach am Main, 33 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Hösbach  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 42,4 %, AfD 17,7 %, SPD 12,1 %, GRÜNE 10,7 %; Wahlbeteiligung 87,3 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen
+
+FAKTEN (Zielort Goldbach):
+ID: 158-goldbach/001
+ENTITÄT: ort
+BEZEICHNUNG: Goldbach
+QUELLE: https://www.bayernportal.de/dokumente/behoerde/43775138569 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Markt
+  landkreis: Aschaffenburg
+  region: Unterfranken
+  einwohner: 9756
+  adresse_rathaus: Sachsenhausen 19, 63773 Goldbach
+  erste_schriftliche_erwaehnung: 1218
+---
+ID: 158-goldbach/002
+ENTITÄT: ort
+BEZEICHNUNG: Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_1995: 10270
+  einwohner_1988: 9226
+  einwohner_2018: 9997
+  lage_entfernung_aschaffenburg: ca. 4 km nordöstlich
+  lage_entfernung_frankfurt: ca. 45 km
+  lage_entfernung_wuerzburg: ca. 75 km
+  hoechster_punkt_name: Fockenberg
+  hoechster_punkt_hoehe: 319
+  hoechster_punkt_hoehe_einheit: m ü. NHN
+  niedrigster_punkt_name: Aschaff an der Autobahnausfahrt Aschaffenburg-Ost
+  niedrigster_punkt_hoehe: 129
+  niedrigster_punkt_hoehe_einheit: m ü. NHN
+  gemarkung_flaeche: 8.681
+  gemarkung_flaeche_einheit: km²
+  gemarkung_fluerstuecke: 7807
+  volksmundname: Gollwich
+---
+ID: 158-goldbach/003
+ENTITÄT: ort
+BEZEICHNUNG: Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  namensherkunft: vermutlich von gelber Lößerde, die der Goldbach bei starkem Regen mit sich führte
+  genauigkeit: vermutlich
+---
+ID: 158-goldbach/004
+ENTITÄT: ort
+BEZEICHNUNG: Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  fruehere_schreibweise_1218: Golbach
+  fruehere_schreibweise_1219: Goldbach
+  fruehere_schreibweise_1240: Goltbach
+  fruehere_schreibweise_1257: Golpach
+---
+ID: 158-goldbach/005
+ENTITÄT: ort
+BEZEICHNUNG: Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  besiedlung_jungsteinzeit: Streufunde vorhanden
+  besiedlung_urnenfelderzeitlich: 1250-750 vor Christus
+  besiedlung_roemerzeit: ja, mit Unterbrechungen
+---
+ID: 158-goldbach/006
+ENTITÄT: ort
+BEZEICHNUNG: Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  herrscher_ab_mitte_13_jhd: Mainzer Erzbischöfe
+  herrscher_ab_mitte_15_jhd: Mainzer Erzbischöfe und Kurfürsten
+  herrscher_status_1803: Fürstentum Aschaffenburg unter Karl Theodor von Dalberg
+  herrscher_1810: Großherzogtum Frankfurt
+  herrscher_ab_1814: Bayern
+GUELTIG_AB: 1250
+GUELTIG_BIS: 1814
+---
+ID: 158-goldbach/007
+ENTITÄT: ort
+BEZEICHNUNG: Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  feuerstelzlen_1812: 148
+  einwohner_1812: 892
+GUELTIG_AB: 1812
+IST_VERMUTLICH_AKTUELL: false
+---
+ID: 158-goldbach/008
+ENTITÄT: ort
+BEZEICHNUNG: Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  markterhebung_datum: 26. Mai 1995
+  markterhebung_grund: Anerkennung ihrer zukunftsorientierten Kommunalpolitik
+GUELTIG_AB: 1995
+---
+ID: 158-goldbach/009
+ENTITÄT: ort
+BEZEICHNUNG: Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung_unterafferbach: 1. Juli 1971
+  grenzregelung_hoesbach: 1. Oktober 1958
+  grenzregelung_hoesbach_beschreibung: ca. 22 ha Goldbacher Gemarkung mit 41 Wohnhäusern und 313 Einwohnern zu Hösbach; Hösbacher Gartenhöfe mit Kugelberg ca. 100 ha zu Goldbach
+---
+ID: 158-goldbach/010
+ENTITÄT: ort
+BEZEICHNUNG: Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  autobahn_anbindung_jahr: 1958
+  autobahn: Bundesautobahn 3
+---
+ID: 158-goldbach/011
+ENTITÄT: ort
+BEZEICHNUNG: Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  gewerbesteuer_2022: 4860000
+  gewerbesteuer_2022_einheit: Euro
+  gewerbesteuerhebesatz: 360
+  gewerbesteuerhebesatz_einheit: Prozent
+---
+ID: 158-goldbach/012
+ENTITÄT: ort
+BEZEICHNUNG: Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  haushaltsvolumen_2018: 31.92
+  haushaltsvolumen_2018_einheit: Millionen Euro
+  haushaltsvolumen_2017: 30.63
+  haushaltsvolumen_2017_einheit: Millionen Euro
+  investitionen_2018: 6.8
+  investitionen_2018_einheit: Millionen Euro
+  investitionen_2017: 5.5
+  investitionen_2017_einheit: Millionen Euro
+  pro_kopf_verschuldung_status: 27 Prozent unter bayernweiten Schnitt
+GUELTIG_AB: 2018
+---
+ID: 158-goldbach/013
+ENTITÄT: ort
+BEZEICHNUNG: Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  stadtuumbau_west_aufnahme: 2008
+  stadtuumbau_west_foerderprogramm_beginn: Anfang 2010
+---
+ID: 158-goldbach/014
+ENTITÄT: ort
+BEZEICHNUNG: Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  strukturwandel_agrargemeinde_zu_gewerbe: endgültig nach dem Zweiten Weltkrieg
+---
+ID: 158-goldbach/015
+ENTITÄT: ortsteil
+BEZEICHNUNG: Unterafferbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  siedlungstyp: Kirchdorf
+  eingemeindung_zu_goldbach: 1. Juli 1971
+  ehemalige_schreibweise_1812: Niederaffholdersbach
+---
+ID: 158-goldbach/016
+ENTITÄT: ortsteil
+BEZEICHNUNG: Goldbach
+ORTSTEIL_BEZUG: Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  siedlungstyp: Stadtrandsiedlung
+---
+ID: 158-goldbach/017
+ENTITÄT: buergermeister
+BEZEICHNUNG: Sandra Rußmann
+QUELLE: https://www.bayernportal.de/dokumente/behoerde/43775138569 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Erste Bürgermeisterin
+  gemeinde: Goldbach
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 158-goldbach/018
+ENTITÄT: buergermeister
+BEZEICHNUNG: Sandra Rußmann
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  titel: Erste Bürgermeisterin
+  gemeinde: Goldbach
+  amtsantritt: 1. Mai 2020
+  wahl_datum: 29. März 2020
+  wahl_ergebnis_stichwahl: 52.8
+  wahl_ergebnis_stichwahl_einheit: Prozent
+  partei: Freie Wählergemeinschaft – FWG
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 158-goldbach/019
+ENTITÄT: buergermeister
+BEZEICHNUNG: Thomas Krimm
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  titel: Bürgermeister
+  gemeinde: Goldbach
+  partei: Freie Wählergemeinschaft – FWG
+  amtsbeginn: Mai 2002
+  amtsende: April 2020
+GUELTIG_AB: 2002
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 158-goldbach/020
+ENTITÄT: kirche
+BEZEICHNUNG: St. Nikolaus-Kirche
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  lage: alter Ortskern Goldbach
+  baustil: neuromanischer Stil
+  material: Sandstein
+  erbauung: 1894-1895
+  besonderheit: moderne Anbau später hinzugefügt
+---
+ID: 158-goldbach/021
+ENTITÄT: kirche
+BEZEICHNUNG: St. Maria Immaculata
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  lage: Westen von Goldbach, ehemaliges Neubaugebiet
+  einweihung: 1961
+  baustil: moderner Klinkerbau
+  turmhoehe: 37
+  turmhoehe_einheit: m
+  turmbesonderheit: asymmetrischer Turm
+  kapazitaet: ca. 600 Besucher
+  ausstatung: monumentales Gemälde des Künstlers Curd Lessig, moderner Oktogonleuchter mit biblischen Szenen
+  orgel_hauptorgel_register: 36 klingende Register
+  orgel_hauptorgel_erbauer: Michael Weise
+  orgel_hauptorgel_erbauer_jahr: 1964
+  orgel_barock_jahr: 1782
+  orgel_barock_restaurierung: Anfang 1880er Jahre
+  orgel_positiv_erbauer: Hartwig Späth
+  besonderheit: Orgel-Trias
+GUELTIG_AB: 1961
+---
+ID: 158-goldbach/022
+ENTITÄT: kirche
+BEZEICHNUNG: Johanneskirche
+ORTSTEIL_BEZUG: Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  lage: Ortsgrenze zu Hösbach
+  erbauung: 1955
+  kapazitaet: ca. 250 Gläubige
+---
+ID: 158-goldbach/023
+ENTITÄT: kapelle
+BEZEICHNUNG: Marienkapelle
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  lage: nordwestlicher Teil von Goldbach
+  größe: kleine Kapelle
+---
+ID: 158-goldbach/024
+ENTITÄT: kapelle
+BEZEICHNUNG: Edelweisskapelle
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  erbauer: Wanderverein Edelweiss Club e.V.
+  erbauung: 1926
+  lage: nordwestlicher Teil von Goldbach
+  anlass: Andenken an im Krieg gefallene Vereinsmitglieder
+  benannt_nach: Edelweiss Club e.V.
+---
+ID: 158-goldbach/025
+ENTITÄT: kapelle
+BEZEICHNUNG: Magnificat
+ORTSTEIL_BEZUG: Unterafferbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  weihe: 2001
+  konfession: katholisch
+---
+ID: 158-goldbach/026
+ENTITÄT: synagoge
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: 1818
+  zerstoerung: Novemberpogrom 1938
+  zerstoerung_beschreibung: verwüstet durch SA-Männer
+  gedenkstein_erbauung: 1987
+  gedenktafeln_fuer_ermordete_und_deportierte: 2008
+---
+ID: 158-goldbach/027
+ENTITÄT: kloster
+BEZEICHNUNG: St. Maria Hagen
+QUELLE: https://www.bayernportal.de/dokumente/behoerde/43775138569 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schenkung_von: Konrad von Kugelnberg
+  schenkung_jahr: 1218
+  schenkung_bestaetigung_urkunde_jahr: 1229
+  alias: Schmerlenbach
+IST_VERMUTLICH_AKTUELL: false
+---
+ID: 158-goldbach/028
+ENTITÄT: burg
+BEZEICHNUNG: Burg Kugelnberg
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Kugelberg südlich von Goldbach
+  besitzer: Herren von Kugelnberg
+  bestandsdauer: 12.-14. Jahrhundert
+  beschreibung: Höhenburg
+  archaeologische_funde_2018: Münze mit Erzbischof Adalbert von Mainz, Waffen, Werkzeuge, Pingsdorfware
+  archaeologische_funde_funktion: Hinweis auf Wohn- oder Wehrburg (nicht Fliehburg)
+  archaeologische_funde_datum: Sommer 2018
+  archaeologische_funde_durchgefuehrt_von: Archäologen der Universität Würzburg mit Laienhelfer des Geschichts- und Heimatvereins
+  aelteste_besiedlung: möglicherweise bis ins 10. Jahrhundert
+  aelteste_besiedlung_genauigkeit: vermutlich
+IST_VERMUTLICH_AKTUELL: false
+---
+ID: 158-goldbach/029
+ENTITÄT: mineralquelle
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  eigenschaft: eisenhaltig
+  entdeckung: Winter 1815/1816
+  entdecker_name: Klee
+  entdecker_herkunft: Aschaffenburg
+  lage: Tal des Goldbaches
+GUELTIG_AB: 1816
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 158-goldbach/030
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Courseulles-sur-Mer
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  partnerschaft_seit: 1994
+---
+ID: 158-goldbach/031
+ENTITÄT: verein
+BEZEICHNUNG: TV Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Leichtathletik
+  besonderheit: jährliche Winterlaufserie
+  winterlaufserie_termine: neun Termine
+  winterlaufserie_distanz: 10 km pro Termin
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 158-goldbach/032
+ENTITÄT: verein
+BEZEICHNUNG: AC Bavaria Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Ringen
+  besonderheit: erfolgreiche Ringer in Mannschaftsmeisterschaften
+  erfolgszeit: 1990er Jahre
+  bekanntheit: deutschlandweit
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 158-goldbach/033
+ENTITÄT: sportereignis
+BEZEICHNUNG: German Masters Badminton-Turnier
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  sport: Badminton
+  ausrichter_ort: Goldbach
+  durchfuehrung: 1998, 1999
+  bekanntheit: deutschlandweit
+GUELTIG_AB: 1998
+GUELTIG_BIS: 1999
+IST_VERMUTLICH_AKTUELL: false
+---
+ID: 158-goldbach/034
+ENTITÄT: sportereignis
+BEZEICHNUNG: Deutsche Moto-Cross-Meisterschaft
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  sport: Moto-Cross
+  ausrichter_ort: Goldbach
+  ausrichter_einrichtung: Rennstrecke
+  besucher_2018: ca. 5000
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+---
+ID: 158-goldbach/035
+ENTITÄT: unternehmen
+BEZEICHNUNG: Basler Fashion
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  branche: Bekleidung
+  insolvenz: 2017
+  bedeutung: einer der bekanntesten Arbeitgeber in Goldbach
+IST_VERMUTLICH_AKTUELL: false
+---
+ID: 158-goldbach/036
+ENTITÄT: unternehmen
+BEZEICHNUNG: Desch
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  branche: Herrenbekleidung
+  insolvenz: 2004
+IST_VERMUTLICH_AKTUELL: false
+---
+ID: 158-goldbach/037
+ENTITÄT: unternehmen
+BEZEICHNUNG: Werner RC GmbH & Co
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  branche: Müllentsorgung und Recycling
+  sitz: Goldbach
+  operationsgebiet: Landkreis Aschaffenburg
+---
+ID: 158-goldbach/038
+ENTITÄT: unternehmen
+BEZEICHNUNG: Elektrizitätswerk
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  branche: Energieversorgung
+  eigentuemer: Gemeinde Goldbach
+---
+ID: 158-goldbach/039
+ENTITÄT: orgelbaufirma
+BEZEICHNUNG: Michael Weise
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  werk: Hauptorgel St. Maria Immaculata
+  werk_erbauung: 1964
+  werk_register: 36 klingende Register
+---
+ID: 158-goldbach/040
+ENTITÄT: orgelbauer
+BEZEICHNUNG: Hartwig Späth
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  werk: Orgelpositiv St. Maria Immaculata
+---
+ID: 158-goldbach/041
+ENTITÄT: kuenstler
+BEZEICHNUNG: Curd Lessig
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  werk: monumentales Gemälde in St. Maria Immaculata
+---
+ID: 158-goldbach/042
+ENTITÄT: schwimmbad
+BEZEICHNUNG: Waldschwimmbad
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  typ: Freibad
+  lage: Ortsausgang in Richtung Unterafferbach
+  badegaeste_2018: ueber 100000
+  sanierung_beginn: Herbst 2019
+  foerdermittel: ueber 2
+  foerdermittel_einheit: Millionen Euro
+IST_VERMUTLICH_AKTUELL: true
+---
+ID: 158-goldbach/043
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+  angebot: Ganztagsschule
+  besonderheit: Schwimmhalle in Wintermonaten öffentlich zugänglich
+---
+ID: 158-goldbach/044
+ENTITÄT: schule
+BEZEICHNUNG: Mittelschule Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Mittelschule
+  angebot: Ganztagsschule
+  besonderheit: Schwimmhalle in Wintermonaten öffentlich zugänglich
+---
+ID: 158-goldbach/045
+ENTITÄT: infrastruktur
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  kindertagesstaetten: 4
+  kinderkrippen: 1
+  kinderspielplaetze: 14
+  bolzplaetze: 2
+  sporthallen: 2
+  jugendhaus_lage: Straße Am Sachsenhausen
+---
+ID: 158-goldbach/046
+ENTITÄT: einhausung_autobahn
+BEZEICHNUNG: Einhausung Hösbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  autobahn: Bundesautobahn 3
+  lage: zwischen Goldbach und Hösbach
+  lage_anschlussstelllen: Aschaffenburg-Ost und Hösbach
+  funktion: Lärmschutz
+  laenge_ost: ca. 1400 m
+  laenge_west_1: 364 m
+  laenge_west_2: 340 m
+  ausbau_autobahn_laenge: ca. 6.5 km sechsspurig
+  kosten_gesamt: ca. 127 Millionen Euro
+  kosten_einhausung: ca. 80 Millionen Euro
+  bauzeit: ca. 3 Jahre
+  fertigstellung: 2005
+  fensterflächen_gesamtflaeche: 9500 m²
+  fensterflächen_funktion: Beleuchtung der Anlage bei Tag überflüssig
+  kontroverzen: ja
+  kritik_bundes_der_steuerzahler: als Luxus-Lärmschutz bezeich­net, eine der größten Verschwendungen 2003
+  gegenstellung_autobahndirektion_nordbayern: keine kostengünstigere Alternative, Immissionsgrenzwerte ohne Lärmschutz um mehr als 20 dB überschritten
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+---
+ID: 158-goldbach/047
+ENTITÄT: naturdenkmal
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  zusammensetzung: zwei Eichen und eine Platane
+  lage: östlicher Rand von Goldbach
+---
+ID: 158-goldbach/048
+ENTITÄT: naturdenkmal
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Österreicher Straße
+---
+ID: 158-goldbach/049
+ENTITÄT: aussichtsturm
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Kugelberg
+  bestandsdauer_beginn: Anfang 20. Jahrhundert
+  bestandsdauer_ende: unbekannt
+  zustand: nur Fundamente erhalten
+IST_VERMUTLICH_AKTUELL: false
+---
+ID: 158-goldbach/050
+ENTITÄT: aussichtsturm
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Grauen Stein zwischen Glattbach und Unterafferbach
+  bestandsdauer_beginn: Anfang 20. Jahrhundert
+  bestandsdauer_ende: unbekannt
+  zustand: nur Fundamente erhalten
+IST_VERMUTLICH_AKTUELL: false
+---
+ID: 158-goldbach/051
+ENTITÄT: miniatur_wehrturm
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  erbauung: 2012
+  lage: Wendeplatte an Gemarkungsgrenze zu Aschaffenburg am Ende der Österreicher Straße
+  hoehe: ca. 3 m
+  stil: ruinenartig, mittelalterlich
+  anlass: Erinnerung an sagenhafte Burg der Herren von Kugelnberg
+GUELTIG_AB: 2012
+---
+ID: 158-goldbach/052
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Konrad von Kugelnberg
+QUELLE: https://www.bayernportal.de/dokumente/behoerde/43775138569 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Herr von Kugelnberg
+  handlung: bestätigt in Urkunde von 1229 seine Schenkung an das Kloster St. Maria Hagen aus dem Jahr 1218
+IST_VERMUTLICH_AKTUELL: false
+---
+ID: 158-goldbach/053
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Joseph Stenger
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Maire
+  zeitraum: 1812
+  ort: Goldbach
+IST_VERMUTLICH_AKTUELL: false
+---
+ID: 158-goldbach/054
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Georg Lippert
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Adjunct des Maire
+  zeitraum: 1812
+  ort: Goldbach
+IST_VERMUTLICH_AKTUELL: false
+---
+ID: 158-goldbach/055
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Bernhard Hain
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Adjunct des Maire
+  zeitraum: 1812
+  ort: Goldbach
+IST_VERMUTLICH_AKTUELL: false
+---
+ID: 158-goldbach/056
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Niclas Sauer
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Landzöller
+  zeitraum: 1812
+  ort: Goldbach
+IST_VERMUTLICH_AKTUELL: false
+---
+ID: 158-goldbach/057
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Phillip Lautensack
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Pfarrer
+  zeitraum: 1812
+  ort: Goldbach
+IST_VERMUTLICH_AKTUELL: false
+---
+ID: 158-goldbach/058
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl Theodor von Dalberg
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  titel: Kurfürst und Kanzler des Alten Reiches
+  funktion: Fürst des Fürstentum Aschaffenburg
+  zeitraum: 1803
+  gebiet: Fürstentum Aschaffenburg, einschließlich Goldbach
+IST_VERMUTLICH_AKTUELL: false
+---
+ID: 158-goldbach/059
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Eugen Heßler
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1882
+  todesjahr: 1964
+  beruf: Mediziner
+  funktion: nationalsozialistischer Funktionär
+  heimatort: Goldbach
+IST_VERMUTLICH_AKTUELL: false
+---
+ID: 158-goldbach/060
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Klaus-Peter Nabein
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1960
+  todesjahr: 2009
+  sportart: Leichtathletik
+  spezialisierung: Mittel- und Langstreckenläufer
+  heimatort: Goldbach
+IST_VERMUTLICH_AKTUELL: false
+---
+ID: 158-goldbach/061
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johannes Zang
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1964
+  beruf: Autor
+  heimatort: Goldbach
+IST_VERMUTLICH_AKTUELL: true
+---
+ID: 158-goldbach/062
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Nick Seidel
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 2005
+  sportart: Fußball
+  heimatort: Goldbach
+IST_VERMUTLICH_AKTUELL: true
+---
+ID: 158-goldbach/063
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Klee
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  handlung: Entdeckung eisenhaltiger Mineralquelle
+  entdeckung_zeitraum: Winter 1815/1816
+  herkunft: Aschaffenburg
+  ort_entdeckung: Tal des Goldbaches
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.5
+---
+ID: 158-goldbach/064
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Goldbach
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: In Rot ein goldener Schrägwellenbalken, oben eine mit bunten Steinen besetzte silberne Laubkrone, unten ein sechsspeichiges silbernes Rad
+  element_goldener_bach: redend für Ortsnamensteil -bach
+  element_laubkrone: Zeichen der Zugehörigkeit zum fränkischen Königsgut (7.-11. Jahrhundert)
+  element_mainzer_rad: Zeichen der Herrschaft von Kurmainz bis 1803
+  element_farben: Gold und Rot dem Wappen der Grafen von Rieneck entnommen
+  grafen_von_rieneck_funktion: Vasallen des Erzbischofs von Mainz, Vogtei Goldbach bis Aussterben 1559
+  einfuehrung: 1965
+GUELTIG_AB: 1965
+---
+ID: 158-goldbach/065
+ENTITÄT: branche
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  sektor: Bekleidungsindustrie
+  bedeutung: einer der bedeutendsten Industriezweige am bayerischen Untermain
+  hoehepunkt_Jahr: 1970er Jahre
+  hoehepunkt_beschaeftigte: ca. 29000
+  hoehepunkt_betriebe: ca. 400
+GUELTIG_AB: 1970
+GUELTIG_BIS: 1990
+IST_VERMUTLICH_AKTUELL: false
+---
+ID: 158-goldbach/066
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Interkommunales Gewerbegebiet Goldbach-Aschaffenburg
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  beschluss: Februar 2018
+  beschluss_organiusation: Marktgemeinderat
+  kooperationspartner: Stadt Aschaffenburg
+  besonderheit: erstes dieser Art in der Region
+  bestaetigung_datum: August 2018
+  bestaetigung_durch: Bürgermeister Thomas Krimm und Oberbürgermeister Klaus Herzog
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+---
+ID: 158-goldbach/067
+ENTITÄT: neubaugebiet
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  lage: Grenze zu Hösbach
+  flaeche: ca. 12 Hektar
+  bauplätze: 33
+  geplante_erschließung: 2019
+  charakteristik: barrierefreies und generationenübergreifendes Wohnen
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+---
+ID: 158-goldbach/068
+ENTITÄT: breitbandausbau
+QUELLE: https://de.wikipedia.org/wiki/Goldbach_(Unterfranken) | Wikipedia
+EIGENSCHAFTEN:
+  geschwindigkeit_mindest: 50 Mbit/s
+  internet_zugaenge_mit_mindestgeschwindigkeit_prozent: zwei Drittel
+  berichtsquelle: Staatsministerium der Finanzen, für Landesentwicklung und Heimat
+  berichtsdatum: September 2016
+  datenbasis_quelle: TÜV Rheinland
+  datenbasis_datum: Ende 2015
+GUELTIG_AB: 2016
+

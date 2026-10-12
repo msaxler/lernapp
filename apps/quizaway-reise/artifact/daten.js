@@ -18044,6 +18044,10 @@ window.QA_DATEN = {
 "138-gross-gerau": [
 "Kreisgrenze: Groß-Gerau gehört zum Landkreis Groß-Gerau, Langen zum Landkreis Offenbach.",
 "Langen hat anderthalbmal so viele Einwohner wie Groß-Gerau."
+],
+"164-offenbach": [
+"Kreisgrenze: Offenbach am Main ist kreisfrei, Langen gehört zum Landkreis Offenbach.",
+"Offenbach am Main hat dreieinhalbmal so viele Einwohner wie Langen."
 ]
 },
 "ags": "06438006",
@@ -18208,6 +18212,18 @@ window.QA_DATEN = {
 "137-weiterstadt": [
 "Kreisgrenze: Weiterstadt gehört zum Landkreis Darmstadt-Dieburg, Neu-Isenburg zum Landkreis Offenbach.",
 "Neu-Isenburg hat fast anderthalbmal so viele Einwohner wie Weiterstadt."
+],
+"162-hanau": [
+"Kreisgrenze: Hanau ist kreisfrei, Neu-Isenburg gehört zum Landkreis Offenbach.",
+"Hanau hat gut zweieinhalbmal so viele Einwohner wie Neu-Isenburg."
+],
+"163-maintal": [
+"Kreisgrenze: Maintal gehört zum Main-Kinzig-Kreis, Neu-Isenburg zum Landkreis Offenbach.",
+"Maintal und Neu-Isenburg sind fast gleich groß: rund 39.000 und 38.000 Einwohner."
+],
+"164-offenbach": [
+"Kreisgrenze: Offenbach am Main ist kreisfrei, Neu-Isenburg gehört zum Landkreis Offenbach.",
+"Offenbach am Main hat dreieinhalbmal so viele Einwohner wie Neu-Isenburg."
 ]
 },
 "ags": "06438009",
@@ -18410,6 +18426,18 @@ window.QA_DATEN = {
 "136-neu-isenburg": [
 "Kreisgrenze: Neu-Isenburg gehört zum Landkreis Offenbach, Frankfurt am Main ist kreisfrei.",
 "Frankfurt am Main hat zwanzigmal so viele Einwohner wie Neu-Isenburg."
+],
+"162-hanau": [
+"Frankfurt am Main hat fast achtmal so viele Einwohner wie Hanau.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Hanau die AfD, in Frankfurt am Main die Grünen."
+],
+"163-maintal": [
+"Kreisgrenze: Maintal gehört zum Main-Kinzig-Kreis, Frankfurt am Main ist kreisfrei.",
+"Frankfurt am Main hat neunzehnmal so viele Einwohner wie Maintal."
+],
+"164-offenbach": [
+"Frankfurt am Main hat fast sechsmal so viele Einwohner wie Offenbach am Main.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Offenbach am Main die SPD, in Frankfurt am Main die Grünen."
 ]
 },
 "ags": "06412000",
@@ -36774,6 +36802,10 @@ window.QA_DATEN = {
 "Kreisgrenze: Himmelstadt gehört zum Landkreis Main-Spessart, Würzburg ist kreisfrei.",
 "Würzburg hat rund 85-mal so viele Einwohner wie Himmelstadt."
 ],
+"165-kist": [
+"Kreisgrenze: Kist gehört zum Landkreis Würzburg, Würzburg ist kreisfrei.",
+"Würzburg hat rund 50-mal so viele Einwohner wie Kist."
+],
 "133-kranzberg": [
 "Bundestagswahl 2025: CSU in Kranzberg 42, in Würzburg 28,5 Prozent.",
 "Würzburg hat über dreißigmal so viele Einwohner wie Kranzberg."
@@ -37013,6 +37045,10 @@ window.QA_DATEN = {
 "151-karlstadt": [
 "Kreisgrenze: Karlstadt gehört zum Landkreis Main-Spessart, Veitshöchheim zum Landkreis Würzburg.",
 "Karlstadt hat anderthalbmal so viele Einwohner wie Veitshöchheim."
+],
+"165-kist": [
+"Veitshöchheim hat gut dreieinhalbmal so viele Einwohner wie Kist.",
+"Kist liegt rund 190 Meter höher als Veitshöchheim."
 ]
 },
 "ags": "09679202",
@@ -37250,6 +37286,10 @@ window.QA_DATEN = {
 "151-karlstadt": [
 "Kreisgrenze: Karlstadt gehört zum Landkreis Main-Spessart, Thüngersheim zum Landkreis Würzburg.",
 "Karlstadt hat fast sechsmal so viele Einwohner wie Thüngersheim."
+],
+"165-kist": [
+"Kist und Thüngersheim sind fast gleich groß: rund 2.700 und 2.600 Einwohner.",
+"Kist liegt rund 200 Meter höher als Thüngersheim."
 ]
 },
 "ags": "09679194",
@@ -37469,6 +37509,10 @@ window.QA_DATEN = {
 "153-lohr": [
 "Lohr am Main hat fast zweieinhalbmal so viele Einwohner wie Zellingen.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Lohr am Main die SPD, in Zellingen die AfD."
+],
+"165-kist": [
+"Kreisgrenze: Kist gehört zum Landkreis Würzburg, Zellingen zum Landkreis Main-Spessart.",
+"Zellingen hat fast zweieinhalbmal so viele Einwohner wie Kist."
 ]
 },
 "ags": "09677203",
@@ -37692,6 +37736,10 @@ window.QA_DATEN = {
 "153-lohr": [
 "Lohr am Main hat gut neunmal so viele Einwohner wie Himmelstadt.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Lohr am Main die SPD, in Himmelstadt die AfD."
+],
+"165-kist": [
+"Kreisgrenze: Kist gehört zum Landkreis Würzburg, Himmelstadt zum Landkreis Main-Spessart.",
+"Kist hat gut anderthalbmal so viele Einwohner wie Himmelstadt."
 ]
 },
 "ags": "09677142",
@@ -38511,6 +38559,10 @@ window.QA_DATEN = {
 "155-heigenbruecken": [
 "Kreisgrenze: Heigenbrücken gehört zum Landkreis Aschaffenburg, Partenstein zum Landkreis Main-Spessart.",
 "Partenstein hat rund 500 Einwohner mehr als Heigenbrücken."
+],
+"156-laufach": [
+"Kreisgrenze: Laufach gehört zum Landkreis Aschaffenburg, Partenstein zum Landkreis Main-Spessart.",
+"Laufach hat fast doppelt so viele Einwohner wie Partenstein."
 ]
 },
 "ags": "09677170",
@@ -38716,11 +38768,2096 @@ window.QA_DATEN = {
 "154-partenstein": [
 "Bundestagswahl 2025: Zweitstärkste Partei in Heigenbrücken AfD, in Partenstein SPD.",
 "Einwohner: Partenstein hat rund 450 mehr als Heigenbrücken."
+],
+"156-laufach": [
+"Laufach hat fast zweieinhalbmal so viele Einwohner wie Heigenbrücken."
+],
+"157-hoesbach": [
+"Hösbach hat sechsmal so viele Einwohner wie Heigenbrücken."
+],
+"158-goldbach": [
+"Goldbach hat viereinhalbmal so viele Einwohner wie Heigenbrücken."
+],
+"159-aschaffenburg": [
+"Kreisgrenze: Aschaffenburg ist kreisfrei, Heigenbrücken gehört zum Landkreis Aschaffenburg.",
+"Aschaffenburg hat rund 35-mal so viele Einwohner wie Heigenbrücken."
 ]
 },
 "ags": "09671126",
 "ortsteil": false,
 "km_vom_vorigen": 10.4
+},
+{
+"slug": "156-laufach",
+"name": "Laufach",
+"lat": 50.01667,
+"lon": 9.3,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Laufach",
+"steckbrief": "Gemeinde mit rund 5.000 Einwohnern, 39 km östlich von Offenbach am Main.",
+"frage": "Im Ortsteil Hain steht das Mainzer Haus, erbaut 1709 von einem Mainzer Erzbischof. Wozu diente es ursprünglich?",
+"optionen": [
+"Es war ein Zollhaus an der Straße nach Lohr.",
+"Es war ein Pfarrhaus für die Gläubigen des Tals.",
+"Es war ein kurfürstliches Jagdhaus.",
+"Es war ein Kornspeicher des Erzbischofs."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Eckwappen von Erzbischof Lothar Franz von Schönborn lässt an Amt, Zoll oder Abgaben denken. Doch der Mainzer Erzbischof war zugleich Kurfürst, und er ließ das Haus als kurfürstliches Jagdhaus bauen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf",
+"faktencheck": "bestätigt",
+"id": "156-laufach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Laufach",
+"steckbrief": "Gemeinde im Landkreis Aschaffenburg, 15,6 km² groß, 39 km östlich von Offenbach am Main.",
+"frage": "Wie viele Einwohner hat Laufach?",
+"optionen": [
+"unter 2.000",
+"2.000 bis unter 3.000",
+"3.000 bis unter 4.500",
+"4.500 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ortsteile wie Hain und Frohnhofen lassen an ein verstreutes Dorf denken, und 15,6 km² sind keine große Fläche. Laufach hatte Ende 2025 aber 5.049 Einwohner. Richtig war 4.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "156-laufach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Laufach",
+"steckbrief": "Gemeinde mit rund 5.000 Einwohnern, 39 km östlich von Offenbach am Main.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Laufacher gingen früher zum Taufen bis nach Sailauf.",
+"Einst zogen evangelische Facharbeiter aus der Pfalz zu.",
+"Dem Bahnbau in Hain musste eine Kirche weichen."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Evangelische Zuwanderer im katholischen Erzstift Mainz klingen erfunden, sind aber belegt: Pfälzer Facharbeiter kamen wegen des Eisenwerks. Gelogen ist die Kirche. Dem Bahnbau mussten Anwesen und die Kunkelsmühle weichen; dafür bekam Hain ein hohes Viadukt, sein Wahrzeichen. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf",
+"faktencheck": "bestätigt",
+"id": "156-laufach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Laufach",
+"steckbrief": "Gemeinde in Bayern mit rund 5.000 Einwohnern, 39 km östlich von Offenbach am Main.",
+"frage": "Bundestagswahl 2025: Welchen Zweitstimmenanteil erreichte die stärkste Partei in Laufach?",
+"optionen": [
+"unter 30 %",
+"30 bis unter 45 %",
+"45 bis unter 55 %",
+"55 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In ländlichen bayerischen Gemeinden erwarten viele eine absolute CSU-Mehrheit. Die CSU lag in Laufach klar vorn, kam aber auf 39,5 Prozent; zweitstärkste Partei wurde die AfD mit 21,6 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "156-laufach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Laufach",
+"steckbrief": "Gemeinde mit rund 5.000 Einwohnern, 39 km östlich von Offenbach am Main.",
+"frage": "Ein Bahnübergang in Laufach hieß früher „Driller“. Woher kam der Name?",
+"optionen": [
+"Ein Bahnwärter dieses Namens bewachte den Übergang.",
+"Hier drillten Soldaten früher ihre Rekruten.",
+"Drehkreuze sicherten dort den Übergang für Fußgänger.",
+"Lokführer pfiffen dort einen langen Triller."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach Drill oder Triller. Er kommt aber von zwei Drehkreuzen, die den sonst ungesicherten Bahnübergang für Fußgänger sicherten. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf",
+"faktencheck": "korrigiert",
+"id": "156-laufach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Laufach",
+"steckbrief": "Gemeinde mit rund 5.000 Einwohnern, 39 km östlich von Offenbach am Main.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Laufach?",
+"optionen": [
+"OF",
+"MSP",
+"MIL",
+"AB"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Offenbach am Main ist die nächste Großstadt, liegt aber in Hessen. Laufach gehört zum Landkreis Aschaffenburg, und dessen Hauptkennzeichen ist AB. Richtig war 4.",
+"quelle": "Wikidata P395; dewiki Infobox (Landkreis)",
+"faktencheck": "bestätigt",
+"id": "156-laufach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Laufach",
+"steckbrief": "Gemeinde mit rund 5.000 Einwohnern, 39 km östlich von Offenbach am Main.",
+"frage": "Philipp Holzmann, später Gründer eines internationalen Bauunternehmens, wohnte während des Bahnbaus im Ortsteil Hain. Was ist dort über seine Frau überliefert?",
+"optionen": [
+"Sie sorgte für warme Suppe für die Arbeiter.",
+"Sie führte im Mainzer Haus die Poststation.",
+"Sie stiftete der Johanneskirche eine neue Glocke.",
+"Sie unterrichtete die Kinder der Bahnarbeiter."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem späteren Großunternehmer denkt man an Stiftungen oder Ämter. Überliefert ist etwas Alltägliches: Während Holzmann am Bahnbau arbeitete und im früheren Haus der Post-Expedition wohnte, sorgte seine Frau für warme Suppe für die Arbeiter. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf",
+"faktencheck": "korrigiert",
+"id": "156-laufach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Laufach",
+"steckbrief": "Gemeinde mit rund 5.000 Einwohnern, 39 km östlich von Offenbach am Main.",
+"frage": "Im Seebachtal zeigt ein Laserscan aus der Luft noch zwei alte Dämme. Wozu dienten sie?",
+"optionen": [
+"Sie waren Wälle eines alten Wildgeheges.",
+"Sie stauten Wasser zum Flößen von Brennholz.",
+"Sie trugen einen Weg durch das sumpfige Tal.",
+"Sie sind Reste eines alten Bahndamms."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Alte Dämme lassen an Bahn oder Wege denken. Diese Stauweiher dienten aber der Flößerei, dem Holztransport auf dem Wasser: So kam Brennholz in den Goldbacher Holzhof, beaufsichtigt vom Floßmeister zu Hain. Schon eine alte Floßkarte zeigt sie. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachHain.pdf",
+"faktencheck": "unsicher",
+"id": "156-laufach/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Laufach",
+"steckbrief": "Gemeinde mit rund 5.000 Einwohnern, 39 km östlich von Offenbach am Main.",
+"frage": "Am 15. August feiert Laufach an einer Grotte den „Gelobten Tag“. Woran erinnert er?",
+"optionen": [
+"Er erinnert an das Ende einer Pestepidemie.",
+"Er erinnert an einen großen Dorfbrand.",
+"Er erinnert an eine verheerende Überschwemmung.",
+"Er erinnert an Tieffliegerangriffe im Zweiten Weltkrieg."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Gelobte Tage gehen oft auf ein Gelübde in Pestzeiten zurück, deshalb liegt diese Theorie nahe. Die Laufacher Grotte wurde aber erst 1933 geweiht. Der Tag erinnert an Tieffliegerangriffe im Zweiten Weltkrieg; Grund war die Lage an der Bahnlinie. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.spessartprojekt.de/wordpress/wp-content/uploads/2019/04/LaufachBlick.pdf",
+"faktencheck": "korrigiert",
+"id": "156-laufach/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "155-heigenbruecken",
+"anschluss": [
+"Einwohner: Laufach hat mehr als doppelt so viele wie Heigenbrücken.",
+"Bahn: Die Spessartrampe führt von Laufach durch Tunnel nach Heigenbrücken."
+],
+"anschluesse": {
+"154-partenstein": [
+"Kreisgrenze: Partenstein gehört zum Landkreis Main-Spessart, Laufach zum Landkreis Aschaffenburg.",
+"Laufach hat fast doppelt so viele Einwohner wie Partenstein."
+],
+"155-heigenbruecken": [
+"Einwohner: Laufach hat mehr als doppelt so viele wie Heigenbrücken.",
+"Bahn: Die Spessartrampe führt von Laufach durch Tunnel nach Heigenbrücken."
+],
+"157-hoesbach": [
+"Hösbach hat zweieinhalbmal so viele Einwohner wie Laufach."
+],
+"158-goldbach": [
+"Goldbach hat fast doppelt so viele Einwohner wie Laufach."
+],
+"159-aschaffenburg": [
+"Kreisgrenze: Aschaffenburg ist kreisfrei, Laufach gehört zum Landkreis Aschaffenburg.",
+"Aschaffenburg hat fast fünfzehnmal so viele Einwohner wie Laufach."
+]
+},
+"ags": "09671139",
+"ortsteil": false,
+"km_vom_vorigen": 5.5
+},
+{
+"slug": "157-hoesbach",
+"name": "Hösbach",
+"lat": 50,
+"lon": 9.2,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hösbach",
+"steckbrief": "Rund 13.000 Einwohner, 33 km östlich von Offenbach am Main.",
+"frage": "Das Hösbacher Wappen zeigt einen grünen Sporn und darüber ein grünes Eichenblatt. Wofür stehen die beiden?",
+"optionen": [
+"Sie erinnern an eine frühere Pferdezucht.",
+"Sie stehen für den berittenen Forstdienst.",
+"Sie erinnern an ein Ritterturnier im Wald.",
+"Sie erinnern an eine Sporenschmiede im Ort."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Sporn lässt an Ritter oder Pferde denken. Sporn und Eichenblatt sind aber das Kennzeichen des berittenen Forstdienstes. Hösbach war einst Standort einer Forstorganisation im Spessart mit reitenden Förstern, und große Höfe, die Forsthuben, beherrschten damals den Ort. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.hoesbach.de/markt-hoesbach/geschichte/wappen und www.hoesbach.de/markt-hoesbach/ortsteile/hoesbach",
+"faktencheck": "korrigiert",
+"id": "157-hoesbach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hösbach",
+"steckbrief": "Gemeinde mit rund 13.000 Einwohnern, 33 km östlich von Offenbach am Main.",
+"frage": "Wie groß ist das gesamte Gemeindegebiet von Hösbach?",
+"optionen": [
+"unter 10 km²",
+"10 bis unter 20 km²",
+"20 bis unter 40 km²",
+"40 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei rund 13.000 Einwohnern wirkt eine kleinere Fläche plausibel. Doch zur Gemeinde gehören auch eingegliederte Gemeinden wie Feldkahl und Winzenhohl sowie der früher gemeindefreie Schmerlenbacher Wald. Zusammen sind das 30,58 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "157-hoesbach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hösbach",
+"steckbrief": "Rund 13.000 Einwohner, 33 km östlich von Offenbach am Main.",
+"frage": "Drei Aussagen über den Ortsteil Hösbach-Bahnhof. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Winterschule am Bahnhof richtete einst der Staat ein.",
+"Das Autobahnamt kaufte später ein Kalkwerk am Bahnhof.",
+"Eine Drahtseilbahn führte einst zum Steinbruch in Rottenberg."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Schulen richtet meist die öffentliche Hand ein, darum klingt das harmlos. Die Winterschule im Ortsteil Bahnhof richteten aber die Bahnhöfer aus Privatmitteln ein. Wahr ist: Das Kalkwerk Sophienhütte wurde ans Autobahnamt verkauft, und eine Drahtseilbahn führte zum Steinbruch in Rottenberg. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.hoesbach.de/markt-hoesbach/ortsteile/hoesbach",
+"faktencheck": "korrigiert",
+"id": "157-hoesbach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hösbach",
+"steckbrief": "Rund 13.000 Einwohner, 33 km östlich von Offenbach am Main.",
+"frage": "Welche Partei holte bei der Bundestagswahl 2025 in Hösbach die zweitmeisten Zweitstimmen?",
+"optionen": [
+"AfD",
+"SPD",
+"Grüne",
+"CSU"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In Bayern galt die SPD lange als Nummer zwei hinter der CSU, darum liegt sie nahe. In Hösbach holte bei der Bundestagswahl 2025 aber die AfD mit 17,7 Prozent Platz zwei, vor SPD und Grünen. Stärkste Kraft war die CSU. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "157-hoesbach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hösbach",
+"steckbrief": "Rund 13.000 Einwohner, 33 km östlich von Offenbach am Main.",
+"frage": "Das spätere Kloster Schmerlenbach im heutigen Ortsteil Winzenhohl wurde 1218 von einem Kugelberger gegründet. Welches seiner Motive nennt die Ortsgeschichte?",
+"optionen": [
+"Er dankte für seine Heimkehr vom Kreuzzug.",
+"Er leistete Sühne für in Sünde gezeugte Söhne.",
+"Er dankte für die Heilung einer schweren Krankheit.",
+"Er dankte für einen Sieg in einer Fehde."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. In jener Zeit zogen viele Adlige auf Kreuzzug, ein Dankkloster läge nahe. Laut Ortsgeschichte gab aber Gottfried aus der Familie der Kugelberger, Propst in Obermockstadt, als eines seiner Motive Sühne für seine in Sünde gezeugten Söhne an. Die Klosterkirche wurde später Pfarrkirche der neuen Pfarrei Winzenhohl. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.hoesbach.de/markt-hoesbach/ortsteile/winzenhohl/-schmerlenbach",
+"faktencheck": "korrigiert",
+"id": "157-hoesbach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hösbach",
+"steckbrief": "Rund 13.000 Einwohner, 33 km östlich von Offenbach am Main.",
+"frage": "Hösbach liegt in Bayern. Wie weit ist es in Luftlinie bis zur Landeshauptstadt München?",
+"optionen": [
+"unter 150 km",
+"150 bis unter 220 km",
+"220 bis unter 300 km",
+"300 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Hösbach gehört zu Bayern, da wirkt die Landeshauptstadt nicht allzu fern. Doch der Ort liegt in Unterfranken im Vorspessart, Frankfurt am Main ist viel näher. Bis München sind es 270 Kilometer Luftlinie. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "157-hoesbach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hösbach",
+"steckbrief": "Rund 13.000 Einwohner, 33 km östlich von Offenbach am Main.",
+"frage": "1971 wollten bei einer Befragung fast 80 Prozent der Abstimmenden in Rottenberg selbständig bleiben. Wie ging die Bürgerbefragung von 1973 aus?",
+"optionen": [
+"80 Prozent wollten weiter selbständig bleiben.",
+"60 Prozent wollten zu Sailauf.",
+"Hösbach und Sailauf lagen bei je 50 Prozent.",
+"90 Prozent wollten zu Hösbach."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Nach dem deutlichen Votum für die Selbständigkeit liegt ein weiteres Nein nahe. Doch bei der neuen Befragung wollten 90 Prozent zu Hösbach, die übrigen zu Sailauf. Rottenberg wurde Ortsteil von Hösbach, sein Name blieb erhalten. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.hoesbach.de/markt-hoesbach/ortsteile/rottenberg",
+"faktencheck": "korrigiert",
+"id": "157-hoesbach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hösbach",
+"steckbrief": "Rund 13.000 Einwohner, 33 km östlich von Offenbach am Main.",
+"frage": "Bei einer Bürgerbefragung 1971 stimmten 58 Prozent der Wenighösbacher gegen die Eingliederung nach Hösbach. Was geschah danach?",
+"optionen": [
+"Wenighösbach blieb danach noch lange selbständig.",
+"Der Gemeinderat beschloss die Eingliederung trotzdem.",
+"Wenighösbach wurde stattdessen Ortsteil von Feldkahl.",
+"Hösbach lehnte den Anschluss daraufhin selbst ab."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Nach einem klaren Nein der Bürger liegt nahe, dass das Dorf selbständig blieb. Doch der Gemeinderat stimmte wenige Monate später mit großer Mehrheit für die Eingliederung, ausdrücklich gegen das Ergebnis der Befragung. Kurz darauf wurde Wenighösbach Ortsteil von Hösbach. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.hoesbach.de/markt-hoesbach/ortsteile/wenighoesbach",
+"faktencheck": "bestätigt",
+"id": "157-hoesbach/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hösbach",
+"steckbrief": "Rund 13.000 Einwohner, 33 km östlich von Offenbach am Main.",
+"frage": "Das Wappen des Hösbacher Ortsteils Rottenberg zeigt einen roten Zinnturm auf drei grünen Bergen. Woran erinnert der Turm?",
+"optionen": [
+"Er erinnert an den Kirchturm von St. Michael.",
+"Er erinnert an das Kalkwerk Sophienhütte.",
+"Er erinnert an die frühere Burg Landesehre.",
+"Er erinnert an den Wartturm „Roter Turm“."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Turm im Wappen lässt an eine Kirche denken, im Hösbacher Wappen steht ja der Turm von St. Michael. Rottenbergs Zinnturm erinnert aber an die frühere Burg Landesehre und an die Berge Gräfenberg, Klosterberg und Rottenberg. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.hoesbach.de/markt-hoesbach/geschichte/wappen",
+"faktencheck": "bestätigt",
+"id": "157-hoesbach/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hösbach",
+"steckbrief": "Rund 13.000 Einwohner, 33 km östlich von Offenbach am Main.",
+"frage": "Eine Skizze der Klosterkirche Schmerlenbach von 1813 erschien später in einem Buch in Paris. Wer hatte sie gezeichnet?",
+"optionen": [
+"Ein französischer Soldat hatte sie gezeichnet.",
+"Eine Nonne des Klosters hatte sie gezeichnet.",
+"Ein englischer Reisender hatte sie gezeichnet.",
+"Ein Hofmaler des Erzbischofs hatte sie gezeichnet."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Buch aus Paris lässt an einen reisenden Künstler denken. Gezeichnet hat aber Alexis Noel, ein französischer Soldat. Seine Skizze erschien in einem Pariser Werk über eine malerische und militärische Reise durch Frankreich und Deutschland. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.hoesbach.de/markt-hoesbach/ortsteile/winzenhohl/-schmerlenbach",
+"faktencheck": "korrigiert",
+"id": "157-hoesbach/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "156-laufach",
+"anschluss": [
+"Einwohner: Hösbach hat mehr als doppelt so viele wie Laufach.",
+"Bundestagswahl 2025: AfD in Laufach stärker als in Hösbach."
+],
+"anschluesse": {
+"155-heigenbruecken": [
+"Hösbach hat sechsmal so viele Einwohner wie Heigenbrücken."
+],
+"156-laufach": [
+"Einwohner: Hösbach hat mehr als doppelt so viele wie Laufach.",
+"Bundestagswahl 2025: AfD in Laufach stärker als in Hösbach."
+],
+"158-goldbach": [
+"Hösbach hat rund 3.200 Einwohner mehr als Goldbach."
+],
+"159-aschaffenburg": [
+"Kreisgrenze: Aschaffenburg ist kreisfrei, Hösbach gehört zum Landkreis Aschaffenburg.",
+"Aschaffenburg hat fast sechsmal so viele Einwohner wie Hösbach."
+],
+"160-kahl": [
+"Hösbach hat anderthalbmal so viele Einwohner wie Kahl am Main."
+],
+"161-grosskrotzenburg": [
+"Landesgrenze: Großkrotzenburg liegt in Hessen, Hösbach in Bayern.",
+"Bundestagswahl 2025: In Großkrotzenburg lag die CDU vorn, in Hösbach die CSU."
+]
+},
+"ags": "09671130",
+"ortsteil": false,
+"km_vom_vorigen": 7.4
+},
+{
+"slug": "158-goldbach",
+"name": "Goldbach",
+"lat": 49.98889,
+"lon": 9.18639,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Goldbach",
+"steckbrief": "Markt im Landkreis Aschaffenburg mit rund 9.800 Einwohnern, 32 km östlich von Offenbach am Main.",
+"frage": "Wie erklärt man vermutlich das „Gold“ im Namen Goldbach?",
+"optionen": [
+"Der Bach führte bei Starkregen gelbe Lößerde mit.",
+"Im Bach wuschen Siedler früher Gold aus.",
+"Am Ufer blühten gelbe Sumpfdotterblumen in Mengen.",
+"Mühlen am Bach machten das Dorf reich."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Goldwäscher liegen beim Namen nahe. Doch vermutlich steckt Erde dahinter: Der Goldbach führte bei starkem Regen gelbe Lößerde mit sich und färbte sich dadurch „gold“. Löß ist ein feiner, gelblicher Boden. Richtig war 1.",
+"quelle": "Markt Goldbach, bayernportal.de/dokumente/behoerde/43775138569",
+"faktencheck": "korrigiert",
+"id": "158-goldbach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Goldbach",
+"steckbrief": "Markt im Landkreis Aschaffenburg mit rund 9.800 Einwohnern, 32 km östlich von Offenbach am Main.",
+"frage": "Wie groß ist die Fläche der Gemeinde Goldbach?",
+"optionen": [
+"unter 5 km²",
+"5 bis unter 15 km²",
+"15 bis unter 30 km²",
+"30 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei so vielen Einwohnern erwarten viele eine größere Fläche, wie sie Landgemeinden oft haben. Doch Goldbach ist dicht besiedelt: Die Gemeinde umfasst nur 10,97 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "158-goldbach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Goldbach",
+"steckbrief": "Markt im Landkreis Aschaffenburg mit rund 9.800 Einwohnern, 32 km östlich von Offenbach am Main.",
+"frage": "Es geht um das Wappen von Goldbach. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Krone steht für früheres fränkisches Königsgut.",
+"Das Rad erinnert an eine alte Dorfmühle.",
+"Die Farben stammen von den Grafen von Rieneck."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Rad im Ortswappen deutet man leicht als Mühlrad. Doch es ist das Mainzer Rad, Zeichen der Herrschaft von Kurmainz bis 1803. Krone und Rot stimmen: Die Krone steht für altes Königsgut, das Rot kommt von den Grafen von Rieneck, die das Dorf für den Mainzer Erzbischof beherrschten. Die Lüge war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Goldbach_(Unterfranken)",
+"faktencheck": "korrigiert",
+"id": "158-goldbach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Goldbach",
+"steckbrief": "Markt im Landkreis Aschaffenburg mit rund 9.800 Einwohnern, 32 km östlich von Offenbach am Main.",
+"frage": "Wie hoch war die Wahlbeteiligung in Goldbach bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 80 %",
+"80 bis unter 85 %",
+"85 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Viele schätzen tiefer, weil so hohe Beteiligungen selten sind. In Goldbach gingen bei der Bundestagswahl 2025 aber 86,6 Prozent der Wahlberechtigten wählen. Stärkste Kraft wurde die CSU. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "158-goldbach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Goldbach",
+"steckbrief": "Markt im Landkreis Aschaffenburg mit rund 9.800 Einwohnern, 32 km östlich von Offenbach am Main.",
+"frage": "Im Nordwesten von Goldbach steht die Edelweisskapelle. Woher hat sie ihren Namen?",
+"optionen": [
+"Ein Wanderverein namens Edelweiss Club baute sie.",
+"An ihrem Platz wuchs früher wildes Edelweiß.",
+"Ein Bergsteiger stiftete sie nach einer Alpentour.",
+"Ein Pfarrer benannte sie nach seiner Heimat Tirol."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Edelweiß lässt an die Alpen denken, deshalb liegen Bergsteiger, Tirol oder wilde Blumen nahe. Doch den Namen gab der Wanderverein Edelweiss Club: Er baute die Kapelle zum Andenken an seine im Krieg gefallenen Mitglieder. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Goldbach_(Unterfranken)",
+"faktencheck": "korrigiert",
+"id": "158-goldbach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Goldbach",
+"steckbrief": "Markt in Unterfranken mit rund 9.800 Einwohnern, 32 km östlich von Offenbach am Main.",
+"frage": "Wie weit ist Goldbach in Luftlinie von der bayerischen Landeshauptstadt München entfernt?",
+"optionen": [
+"unter 150 km",
+"150 bis unter 300 km",
+"300 bis unter 400 km",
+"400 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele unterschätzen, wie weit Bayern sich erstreckt. Goldbach liegt viel näher an Offenbach in Hessen als an der eigenen Landeshauptstadt: Bis München sind es 270 Kilometer Luftlinie. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "158-goldbach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Goldbach",
+"steckbrief": "Markt im Landkreis Aschaffenburg mit rund 9.800 Einwohnern, 32 km östlich von Offenbach am Main.",
+"frage": "Es geht um die Einhausung der A3 zwischen Goldbach und Hösbach. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Sie wurde zum Schutz vor Autobahnlärm gebaut.",
+"Der Bund der Steuerzahler nannte sie Luxus-Lärmschutz.",
+"Sie hat keine Fenster und braucht tagsüber Kunstlicht."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Den Luxus-Lärmschutz halten viele für erfunden, so zugespitzt klingt er. Doch so nannte der Bund der Steuerzahler die Einhausung, eine Überdachung der Autobahn wie ein Tunnel. Gelogen war das Fensterlose: Rund 1.600 Glasfenster lassen Tageslicht hinein. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Goldbach_(Unterfranken)",
+"faktencheck": "korrigiert",
+"id": "158-goldbach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Goldbach",
+"steckbrief": "Markt im Landkreis Aschaffenburg mit rund 9.800 Einwohnern, 32 km östlich von Offenbach am Main.",
+"frage": "Im Sommer 2018 gruben Archäologen auf dem Kugelberg bei Goldbach. Worauf deuten ihre Funde zur Burg Kugelnberg hin?",
+"optionen": [
+"Sie war ein Jagdschloss aus der Barockzeit.",
+"Sie war eine Wohn- oder Wehrburg.",
+"Sie diente nur als Fliehburg in Notzeiten.",
+"Sie war ein römischer Wachposten."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Fliehburg liegt nahe, denn manche Höhenburg diente nur als Zuflucht in Gefahr. Doch Mauern, Münzen und Keramik deuten auf eine Wohn- oder Wehrburg aus dem 12. Jahrhundert. Gegraben haben das Archäologische Spessartprojekt und der Geschichts- und Heimatverein Goldbach. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Goldbach_(Unterfranken)",
+"faktencheck": "korrigiert",
+"id": "158-goldbach/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Goldbach",
+"steckbrief": "Markt im Landkreis Aschaffenburg mit rund 9.800 Einwohnern, 32 km östlich von Offenbach am Main.",
+"frage": "Seit 1995 ist Goldbach ein Markt. Welchen Grund für die Erhebung nennt die Ortsgeschichte?",
+"optionen": [
+"Goldbach bekam verlorene mittelalterliche Marktrechte zurück.",
+"Ein großer Wochenmarkt zog Händler der Region an.",
+"Goldbach hatte einen neuen Marktplatz angelegt.",
+"Die Gemeinde wurde für zukunftsorientierte Kommunalpolitik anerkannt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Markt denkt man an alte Marktrechte oder Händler. In Bayern ist Markt aber ein Ehrentitel für Gemeinden. Goldbach erhielt ihn als Anerkennung seiner zukunftsorientierten Kommunalpolitik. Richtig war 4.",
+"quelle": "Markt Goldbach, bayernportal.de/dokumente/behoerde/43775138569",
+"faktencheck": "korrigiert",
+"id": "158-goldbach/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "157-hoesbach",
+"anschluss": [
+"Fläche: Hösbach ist fast dreimal so groß wie Goldbach.",
+"Grenzregelung 1958: Goldbach gab Häuser an Hösbach, bekam den Kugelberg."
+],
+"anschluesse": {
+"155-heigenbruecken": [
+"Goldbach hat viereinhalbmal so viele Einwohner wie Heigenbrücken."
+],
+"156-laufach": [
+"Goldbach hat fast doppelt so viele Einwohner wie Laufach."
+],
+"157-hoesbach": [
+"Fläche: Hösbach ist fast dreimal so groß wie Goldbach.",
+"Grenzregelung 1958: Goldbach gab Häuser an Hösbach, bekam den Kugelberg."
+],
+"159-aschaffenburg": [
+"Kreisgrenze: Aschaffenburg ist kreisfrei, Goldbach gehört zum Landkreis Aschaffenburg.",
+"Aschaffenburg hat gut siebenmal so viele Einwohner wie Goldbach."
+],
+"160-kahl": [
+"Goldbach hat rund 1.200 Einwohner mehr als Kahl am Main."
+],
+"161-grosskrotzenburg": [
+"Landesgrenze: Großkrotzenburg liegt in Hessen, Goldbach in Bayern.",
+"Bundestagswahl 2025: In Großkrotzenburg lag die CDU vorn, in Goldbach die CSU."
+]
+},
+"ags": "09671121",
+"ortsteil": false,
+"km_vom_vorigen": 1.6
+},
+{
+"slug": "159-aschaffenburg",
+"name": "Aschaffenburg",
+"lat": 49.97405,
+"lon": 9.14936,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Aschaffenburg",
+"steckbrief": "Bayerische Stadt mit rund 73.000 Einwohnern, 31 km südöstlich von Offenbach am Main.",
+"frage": "1901 wurden Leider und Damm nach Aschaffenburg eingemeindet. Welchen Grund nennt die Stadt dafür?",
+"optionen": [
+"Die Orte waren nach einem Brand verarmt.",
+"Die Stadt wollte die Mainfischerei kontrollieren.",
+"Die Pfarreien sollten zusammengelegt werden.",
+"Die wachsende Industrie brauchte Raum für Ansiedlungen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Eingemeindung denkt man schnell an Not oder alte Bindungen der eingemeindeten Orte. Den Ausschlag gab nach Angaben der Stadt aber die zunehmende Industrialisierung. Mit Leider und Damm gewann Aschaffenburg breiten Raum für leistungsfähige industrielle Ansiedlungen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ und www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtteile/",
+"faktencheck": "korrigiert",
+"id": "159-aschaffenburg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Aschaffenburg",
+"steckbrief": "Bayerische Stadt mit rund 73.000 Einwohnern, 31 km südöstlich von Offenbach am Main.",
+"frage": "Wie viele Einwohner leben in Aschaffenburg rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 1.500",
+"1.500 bis unter 2.500",
+"2.500 bis unter 4.000",
+"4.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gut 73.000 Einwohner klingen nach dichter Stadt, und viele schätzen deshalb hoch. Doch Aschaffenburg verteilt sich auf 62,45 Quadratkilometer. Rechnerisch leben dort, Stand Ende 2025, 1.174 Menschen auf einem Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "159-aschaffenburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Aschaffenburg",
+"steckbrief": "Bayerische Stadt mit rund 73.000 Einwohnern, 31 km südöstlich von Offenbach am Main.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Zweiten Weltkrieg wurde die Altstadt schwer zerstört.",
+"Unter Bürgermeister Magnus Will entstand eine Markthalle.",
+"Die Mainkanalisierung schnitt die Stadt vom Schiffsverkehr ab."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein kanalisierter Fluss klingt nach Eingriff und Verlust. Das Gegenteil trat ein: Mit der Fortführung der Mainkanalisierung wurde Aschaffenburg als Binnenhafen verkehrspolitisch bedeutend. Die Altstadt wurde im Zweiten Weltkrieg tatsächlich schwer zerstört und danach weitgehend restauriert; die Markthalle entstand unter Bürgermeister Magnus Will. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/ und www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtteile/",
+"faktencheck": "korrigiert",
+"id": "159-aschaffenburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Aschaffenburg",
+"steckbrief": "Bayerische Stadt mit rund 73.000 Einwohnern, 31 km südöstlich von Offenbach am Main.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Aschaffenburg bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 20 %",
+"20 bis unter 28 %",
+"28 bis unter 36 %",
+"36 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. In Bayern liegt die CSU meist klar vorn, deshalb erwarten viele ein noch höheres Ergebnis. In Aschaffenburg holte sie bei der Bundestagswahl 2025 32,7 Prozent der Zweitstimmen, vor der AfD mit 18,7 und der SPD mit 14 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "159-aschaffenburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Aschaffenburg",
+"steckbrief": "Bayerische Stadt mit rund 73.000 Einwohnern, 31 km südöstlich von Offenbach am Main.",
+"frage": "In Aschaffenburg steht das Geburtshaus eines berühmten Malers. Wer wurde hier geboren?",
+"optionen": [
+"Hier wurde August Macke geboren.",
+"Hier wurde Otto Dix geboren.",
+"Hier wurde Max Beckmann geboren.",
+"Hier wurde Ernst Ludwig Kirchner geboren."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ernst Ludwig Kirchner verbindet man mit Dresden, Berlin und Davos. Deshalb liegt ein anderer Name näher. Doch sein Geburtshaus steht in Aschaffenburg. Der Verein KirchnerHAUS Aschaffenburg hat es zu einem Dokumentations- und Ausstellungshaus gemacht. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Kulturpreis/; museen-in-bayern.de (KirchnerHAUS)",
+"faktencheck": "korrigiert",
+"id": "159-aschaffenburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Aschaffenburg",
+"steckbrief": "Bayerische Stadt mit rund 73.000 Einwohnern, 31 km südöstlich von Offenbach am Main.",
+"frage": "Wie weit ist es von Aschaffenburg in Luftlinie bis zur Landeshauptstadt München?",
+"optionen": [
+"unter 300 km",
+"300 bis unter 360 km",
+"360 bis unter 430 km",
+"430 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer Aschaffenburg so nah an Offenbach am Main sieht, schätzt den Weg in die bayerische Landeshauptstadt leicht größer ein. Tatsächlich sind es bis München 270 Kilometer Luftlinie. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "159-aschaffenburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Aschaffenburg",
+"steckbrief": "Bayerische Stadt mit rund 73.000 Einwohnern, 31 km südöstlich von Offenbach am Main.",
+"frage": "Am 17. Mai 1818 erging ein Gemeindeedikt. Was bedeutete es für Aschaffenburg?",
+"optionen": [
+"Die Stadt verlor ihre Magistratsräte.",
+"Die Stadt bekam Teile ihrer Selbstverwaltung zurück.",
+"Die Stadt wurde dem Militär unterstellt.",
+"Die Stadt verlor ihr Stadtrecht."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Edikt von oben klingt nach mehr Staat und weniger Mitsprache. Hier war es umgekehrt: Das Gemeindeedikt baute die Bevormundung der Kommunen durch die zentrale Staatsmacht weiter ab, und Aschaffenburg bekam Teile seines Selbstverwaltungsrechts zurück. Die Stadt bekam Bürgermeister, Magistratsräte und Gemeindebevollmächtigte. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Stadtoberhäupter/",
+"faktencheck": "korrigiert",
+"id": "159-aschaffenburg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Aschaffenburg",
+"steckbrief": "Bayerische Stadt mit rund 73.000 Einwohnern, 31 km südöstlich von Offenbach am Main.",
+"frage": "Papst Pius IX. bot Franz Hettinger, Ehrenbürger von Aschaffenburg, eine Stelle als Kurienkardinal an. Wie ging das aus?",
+"optionen": [
+"Hettinger nahm an und zog nach Rom.",
+"Der Papst zog das Angebot zurück.",
+"Hettinger lehnte die Stelle ab.",
+"Hettinger nahm an, blieb aber in Deutschland."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein solches Angebot aus Rom schlägt man kaum aus, so liegt die Annahme nahe. Hettinger aber lehnte ab, und zwar wegen seines labilen Gesundheitszustands. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.aschaffenburg.de/Leben-in-Aschaffenburg/Meine-Stadt/Stadtportrait/Ehrenbürger-innen/",
+"faktencheck": "korrigiert",
+"id": "159-aschaffenburg/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "158-goldbach",
+"anschluss": [
+"Bundestagswahl 2025: Goldbach wählte deutlich stärker CSU als Aschaffenburg.",
+"Einwohner: Aschaffenburg zählt etwa siebeneinhalbmal so viele wie Goldbach."
+],
+"anschluesse": {
+"155-heigenbruecken": [
+"Kreisgrenze: Heigenbrücken gehört zum Landkreis Aschaffenburg, Aschaffenburg ist kreisfrei.",
+"Aschaffenburg hat rund 35-mal so viele Einwohner wie Heigenbrücken."
+],
+"156-laufach": [
+"Kreisgrenze: Laufach gehört zum Landkreis Aschaffenburg, Aschaffenburg ist kreisfrei.",
+"Aschaffenburg hat fast fünfzehnmal so viele Einwohner wie Laufach."
+],
+"157-hoesbach": [
+"Kreisgrenze: Hösbach gehört zum Landkreis Aschaffenburg, Aschaffenburg ist kreisfrei.",
+"Aschaffenburg hat fast sechsmal so viele Einwohner wie Hösbach."
+],
+"158-goldbach": [
+"Bundestagswahl 2025: Goldbach wählte deutlich stärker CSU als Aschaffenburg.",
+"Einwohner: Aschaffenburg zählt etwa siebeneinhalbmal so viele wie Goldbach."
+],
+"160-kahl": [
+"Kreisgrenze: Kahl am Main gehört zum Landkreis Aschaffenburg, Aschaffenburg ist kreisfrei.",
+"Aschaffenburg hat fast neunmal so viele Einwohner wie Kahl am Main."
+],
+"161-grosskrotzenburg": [
+"Landesgrenze: Großkrotzenburg liegt in Hessen, Aschaffenburg in Bayern.",
+"Bundestagswahl 2025: In Großkrotzenburg lag die CDU vorn, in Aschaffenburg die CSU."
+]
+},
+"ags": "09661000",
+"ortsteil": false,
+"km_vom_vorigen": 3.1
+},
+{
+"slug": "160-kahl",
+"name": "Kahl am Main",
+"lat": 50.06806,
+"lon": 9.00667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kahl am Main",
+"steckbrief": "Kahl am Main hat rund 8.500 Einwohner und liegt 18 km östlich von Offenbach am Main.",
+"frage": "Das Rathaus von Kahl wurde ursprünglich für einen anderen Zweck gebaut. Wofür?",
+"optionen": [
+"Es wurde als Kornspeicher eines Klosters gebaut.",
+"Es wurde als Jagdhaus eines Adligen gebaut.",
+"Es wurde als Zollhaus an der Landesgrenze gebaut.",
+"Es wurde als Empfangsgebäude der Eisenbahn gebaut."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein stattlicher Sandsteinbau lässt an den Sitz eines Adligen denken. Doch das heutige Rathaus entstand als Zollhaus an der Grenze Bayerns. Für ein Bahngebäude war es zu früh: Die Eisenbahn kam erst später. Heute bildet es mit dem Wasserturm ein Ensemble. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kahl-main.de/seite/de/cms121020262010090677a645/014:81/-/Sehenswuerdigkeiten_in_Kahl.html",
+"faktencheck": "bestätigt",
+"id": "160-kahl/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kahl am Main",
+"steckbrief": "Kahl am Main hat rund 8.500 Einwohner und liegt 18 km östlich von Offenbach am Main.",
+"frage": "Wie viele Menschen leben in Kahl am Main auf einem Quadratkilometer?",
+"optionen": [
+"unter 200",
+"200 bis unter 400",
+"400 bis unter 700",
+"700 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Gemeinde dieser Größe denkt man an viel Feld ringsum. Doch die Rechnung ergibt 803 Menschen je Quadratkilometer, eine Dichte, wie man sie eher aus Städten kennt. Richtig war 4.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "160-kahl/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kahl am Main",
+"steckbrief": "Kahl am Main hat rund 8.500 Einwohner und liegt 18 km östlich von Offenbach am Main.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Zeche Gustav war nach einem König benannt.",
+"Die Kreuzkirche in Kahl ist im Bauhausstil gebaut.",
+"Von Kahl wurde eine Bahn nach Schöllkrippen gebaut."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei Gustav denkt man schnell an einen Schwedenkönig. Benannt war die Zeche aber nach Direktor Gustav Müller. Die Kreuzkirche ist tatsächlich ein Bauhausbau, und die Zweigbahn in den Kahlgrund nach Schöllkrippen wurde ebenfalls gebaut. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.kahl-main.de/seite/de/cms121020262010090677a645/014:89/-/Ortsgeschichte.html und www.kahl-main.de/seite/de/cms121020262010090677a645/014:81/-/Sehenswuerdigkeiten_in_Kahl.html",
+"faktencheck": "korrigiert",
+"id": "160-kahl/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Kahl am Main",
+"steckbrief": "Kahl am Main hat rund 8.500 Einwohner und liegt 18 km östlich von Offenbach am Main.",
+"frage": "Bundestagswahl 2025: Welche Partei holte in Kahl am Main die zweitmeisten Zweitstimmen?",
+"optionen": [
+"SPD",
+"AfD",
+"CSU",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Für Platz zwei hinter der CSU tippen viele auf die SPD, in Bayern lange die zweite Kraft. In Kahl am Main kam sie aber nur auf 15,4 Prozent. Zweite wurde die AfD mit 17,9 Prozent; vorn lag die CSU mit 34,8 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "160-kahl/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kahl am Main",
+"steckbrief": "Kahl am Main hat rund 8.500 Einwohner und liegt 18 km östlich von Offenbach am Main.",
+"frage": "Kahl gilt als Ort der ersten Erprobung eines Atomkraftwerks in Deutschland. Auf welcher heutigen Gemarkung stand das Versuchsatomkraftwerk Kahl?",
+"optionen": [
+"Auf der heutigen Gemarkung von Kahl am Main.",
+"Auf der heutigen Gemarkung von Alzenau.",
+"Auf der heutigen Gemarkung von Karlstein.",
+"Auf der heutigen Gemarkung von Kleinostheim."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name legt Kahler Boden nahe, schließlich hieß das Werk nach dem Ort. Tatsächlich stand das Versuchsatomkraftwerk auf heutiger Karlsteiner Gemarkung. Nach der Abschaltung des Reaktors wurde die Anlage vollständig rückgebaut. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.kahl-main.de/seite/de/cms121020262010090677a645/014:89/-/Ortsgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "160-kahl/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kahl am Main",
+"steckbrief": "Kahl am Main hat rund 8.500 Einwohner und liegt 18 km östlich von Offenbach am Main.",
+"frage": "Wie groß ist die Gemarkung von Kahl am Main?",
+"optionen": [
+"40 km² und mehr",
+"25 bis unter 40 km²",
+"15 bis unter 25 km²",
+"unter 15 km²"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an das Wald- und Seengebiet Richtung Alzenau denkt, schätzt eine weitläufige Gemarkung. Tatsächlich misst sie nur 10,64 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "160-kahl/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kahl am Main",
+"steckbrief": "Die Gemeinde Kahl am Main hat rund 8.500 Einwohner und liegt 18 km östlich von Offenbach am Main.",
+"frage": "Woher hat Kahl am Main seinen Namen?",
+"optionen": [
+"Er bedeutet althochdeutsch „Ort am kalten Wasser“.",
+"Er spielt auf eine kahle, baumlose Anhöhe an.",
+"Er geht auf die Kähne der Mainfischer zurück.",
+"Er erinnert an kahlgeschorene Mönche eines Klosters."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt nach einem kahlen Hügel, das liegt nahe. Er stammt aber nach der Ortsgeschichte von althochdeutsch Kaldaha, Ort am kalten Wasser. In einer alten Urkunde erscheint der Ort als Calde. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.kahl-main.de/seite/de/cms121020262010090677a645/014:89/-/Ortsgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "160-kahl/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kahl am Main",
+"steckbrief": "Kahl am Main hat rund 8.500 Einwohner und liegt 18 km östlich von Offenbach am Main.",
+"frage": "Bei Kahl liegt die Kahler Seenplatte. Wie sind ihre Seen entstanden?",
+"optionen": [
+"Sie wurden als Fischteiche eines Klosters angelegt.",
+"Sie sind mit Wasser gefüllte Gruben früheren Rohstoffabbaus.",
+"Sie blieben als natürliche Seen nach der Eiszeit.",
+"Sie wurden als Stauweiher für Mühlen angelegt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Seen am Main wirken natürlich, als hätte die Eiszeit sie hinterlassen. Tatsächlich sind es alte Abbaugruben: Erst wurde im Tagebau Braunkohle abgebaut, später Sand und Kies. Die Gruben füllten sich nach und nach mit Wasser. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.kahl-main.de/seite/de/cms121020262010090677a645/014:89/-/Ortsgeschichte.html",
+"faktencheck": "korrigiert",
+"id": "160-kahl/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "159-aschaffenburg",
+"anschluss": [
+"Kennzeichen: In Kahl am Main wie in Aschaffenburg steht AB.",
+"Wahlbeteiligung Bundestagswahl 2025: Kahl am Main 87,9, Aschaffenburg 81,9 Prozent."
+],
+"anschluesse": {
+"157-hoesbach": [
+"Hösbach hat anderthalbmal so viele Einwohner wie Kahl am Main."
+],
+"158-goldbach": [
+"Goldbach hat rund 1.200 Einwohner mehr als Kahl am Main."
+],
+"159-aschaffenburg": [
+"Kennzeichen: In Kahl am Main wie in Aschaffenburg steht AB.",
+"Wahlbeteiligung Bundestagswahl 2025: Kahl am Main 87,9, Aschaffenburg 81,9 Prozent."
+],
+"161-grosskrotzenburg": [
+"Landesgrenze: Großkrotzenburg liegt in Hessen, Kahl am Main in Bayern.",
+"Bundestagswahl 2025: In Großkrotzenburg lag die CDU vorn, in Kahl am Main die CSU."
+],
+"162-hanau": [
+"Landesgrenze: Hanau liegt in Hessen, Kahl am Main in Bayern.",
+"Bundestagswahl 2025: In Hanau lag die CDU vorn, in Kahl am Main die CSU."
+],
+"163-maintal": [
+"Landesgrenze: Maintal liegt in Hessen, Kahl am Main in Bayern.",
+"Bundestagswahl 2025: In Maintal lag die CDU vorn, in Kahl am Main die CSU."
+],
+"164-offenbach": [
+"Landesgrenze: Offenbach am Main liegt in Hessen, Kahl am Main in Bayern.",
+"Bundestagswahl 2025: In Offenbach am Main lag die CDU vorn, in Kahl am Main die CSU."
+]
+},
+"ags": "09671134",
+"ortsteil": false,
+"km_vom_vorigen": 14.6
+},
+{
+"slug": "161-grosskrotzenburg",
+"name": "Großkrotzenburg",
+"lat": 50.08333,
+"lon": 8.98333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Großkrotzenburg",
+"steckbrief": "Rund 7.400 Einwohner, 16 km östlich von Offenbach am Main.",
+"frage": "Großkrotzenburg liegt am römischen Limes. Was war hier das Besondere am Verlauf der Grenze?",
+"optionen": [
+"Hier endete die römische Grenze endgültig.",
+"Ab hier bildete der Main die Grenze.",
+"Hier nahm der Limes seinen Anfang.",
+"Hier lag der östlichste Punkt des Limes."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer den Limes als Wall mit Graben kennt, vermutet am Fluss sein Ende. Doch bei Großkrotzenburg erreichte der Limes den Main, und von hier an markierte der Fluss selbst die Grenze nach Süden. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg",
+"faktencheck": "unsicher",
+"id": "161-grosskrotzenburg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Großkrotzenburg",
+"steckbrief": "Gemeinde im Main-Kinzig-Kreis, 16 km östlich von Offenbach am Main.",
+"frage": "Wie viele Menschen wohnen in Großkrotzenburg?",
+"optionen": [
+"unter 3.000",
+"3.000 bis unter 6.000",
+"6.000 bis unter 9.000",
+"9.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Neben der Großstadt Offenbach wirkt die Gemeinde klein, da liegt eine niedrige Zahl nahe. Doch auf engem Raum am Main wohnen 7.364 Menschen. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "161-grosskrotzenburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Großkrotzenburg / Rund 7.400 Einwohner, 16 km östlich von Offenbach am Main. / Zwei dieser Aussagen stimmen, eine ist gelogen. Welche? / 1. Der Bahnhof liegt an der Strecke Hanau–Aschaffenburg. / 2. Der See am Strandbad war früher ein Mainarm. / 3. Das Museum steht in einem ehemaligen Römerkastell.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein See in einem Ort am Main lässt an einen alten Flussarm denken. Doch der See ist ein Tagebausee: Zu Beginn des 20. Jahrhunderts wurde hier Braunkohle abgebaut. Der Bahnhof liegt wirklich an der Strecke Hanau–Aschaffenburg, und das Museum steht in einem ehemaligen Römerkastell. Die Lüge war 2.",
+"quelle": "HLNUG, badeseen.hlnug.de; Gemeinde Großkrotzenburg, grosskrotzenburg.de",
+"faktencheck": "korrigiert",
+"id": "161-grosskrotzenburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Großkrotzenburg",
+"steckbrief": "Rund 7.400 Einwohner, 16 km östlich von Offenbach am Main.",
+"frage": "Wie hoch war die Wahlbeteiligung in Großkrotzenburg bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 86 %",
+"86 bis unter 88 %",
+"88 bis unter 90 %",
+"90 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gemeinden im Umland großer Städte gehen oft besonders fleißig wählen, darum liegt eine höhere Spanne nahe. Großkrotzenburg kam auf 85,6 Prozent. Stärkste Partei wurde die CDU vor SPD und AfD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "161-grosskrotzenburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Großkrotzenburg",
+"steckbrief": "Rund 7.400 Einwohner, 16 km östlich von Offenbach am Main.",
+"frage": "Im Wappen von Großkrotzenburg stehen zwei gekreuzte goldene Schlüssel vor einer roten Mauer. Wofür steht die Mauer?",
+"optionen": [
+"Sie erinnert an eine mittelalterliche Ritterburg.",
+"Sie erinnert an das römische Kastell.",
+"Sie erinnert an die alte Ortsbefestigung.",
+"Sie erinnert an den Hochwasserschutz am Main."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Ortsname endet auf -burg, da denkt man an eine Ritterburg. Doch die Mauer steht für die Römerzeit: Mitten durch den heutigen Ortskern zog der Limes, hier stand ein Kastell. Richtig war 2.",
+"quelle": "Gemeinde Großkrotzenburg, grosskrotzenburg.de/leben-wohnen/gemeindeportaet/wappen/",
+"faktencheck": "korrigiert",
+"id": "161-grosskrotzenburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Großkrotzenburg",
+"steckbrief": "Rund 7.400 Einwohner, 16 km östlich von Offenbach am Main.",
+"frage": "Wie viele Einwohner kommen in Großkrotzenburg auf einen Quadratkilometer?",
+"optionen": [
+"unter 300",
+"300 bis unter 700",
+"700 bis unter 1.200",
+"1.200 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Rund 7.400 Einwohner klingen nach Dorf, da liegt eine geringe Dichte nahe. Doch sie teilen sich eine kleine Gemarkung von 7,47 Quadratkilometern. So kommen 986 Menschen auf einen Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "161-grosskrotzenburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Großkrotzenburg",
+"steckbrief": "Rund 7.400 Einwohner, 16 km östlich von Offenbach am Main.",
+"frage": "Das Heimatmuseum von Großkrotzenburg zeigt die Ortsgeschichte. Als was wurde sein Gebäude 1894 errichtet?",
+"optionen": [
+"Es entstand als Zollhaus am Main.",
+"Es entstand als katholisches Pfarrhaus.",
+"Es entstand als Fabrikantenvilla.",
+"Es entstand als Schule."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein altes Haus, das heute ein Museum beherbergt, war oft ein Pfarrhaus oder Amtssitz, das liegt nahe. Doch dieses Gebäude wurde als Schule gebaut. Heute zeigt es die Ortsgeschichte. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.grosskrotzenburg.de/leben-wohnen/gemeindeportaet/museum-und-geschichte/",
+"faktencheck": "korrigiert",
+"id": "161-grosskrotzenburg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Großkrotzenburg / Rund 7.400 Einwohner, 16 km östlich von Offenbach am Main. / Um 1628 wurden in Großkrotzenburg Menschen in Hexenprozessen verfolgt. Wer war dafür verantwortlich? / 1. Mainz ließ die Prozesse führen. / 2. Württemberg ließ die Prozesse führen. / 3. Sachsen ließ die Prozesse führen. / 4. Die Pfalz ließ die Prozesse führen.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Hexenprozesse gab es in vielen Ländern, darum wirkt jeder größere Staat plausibel. Großkrotzenburg gehörte aber über 800 Jahre zu Mainz, und die Prozesse liefen im Kurfürstentum Mainz. Inquisitor war hier Reigersberger, der auch in Aschaffenburg Hexengerichte leitete. Richtig war 1.",
+"quelle": "Universität Tübingen; Main-Echo, main-echo.de; Gemeinde Großkrotzenburg",
+"faktencheck": "korrigiert",
+"id": "161-grosskrotzenburg/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Großkrotzenburg",
+"steckbrief": "Rund 7.400 Einwohner, 16 km östlich von Offenbach am Main.",
+"frage": "Die Hexeneiche erinnerte an die Hexenverfolgung im Ort. Wie endete der alte Baum?",
+"optionen": [
+"Unbekannte sägten ihn heimlich ab.",
+"Ein Blitz traf ihn, danach wurde er gefällt.",
+"Ein Mainhochwasser entwurzelte ihn.",
+"Er wurde im Krieg zu Brennholz geschlagen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Baum mit so düsterem Namen lädt zu Geschichten über Frevler ein. Die Hexeneiche aber wurde von einem Blitz beschädigt und danach gefällt. Als Andenken gibt es eine neu gepflanzte Eiche und einen Gedenkstein. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg",
+"faktencheck": "unsicher",
+"id": "161-grosskrotzenburg/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "160-kahl",
+"anschluss": [
+"Die alte Hexeneiche stand zwischen Großkrotzenburg und Kahl am Main."
+],
+"anschluesse": {
+"157-hoesbach": [
+"Landesgrenze: Hösbach liegt in Bayern, Großkrotzenburg in Hessen.",
+"Bundestagswahl 2025: In Hösbach lag die CSU vorn, in Großkrotzenburg die CDU."
+],
+"158-goldbach": [
+"Landesgrenze: Goldbach liegt in Bayern, Großkrotzenburg in Hessen.",
+"Bundestagswahl 2025: In Goldbach lag die CSU vorn, in Großkrotzenburg die CDU."
+],
+"159-aschaffenburg": [
+"Landesgrenze: Aschaffenburg liegt in Bayern, Großkrotzenburg in Hessen.",
+"Bundestagswahl 2025: In Aschaffenburg lag die CSU vorn, in Großkrotzenburg die CDU."
+],
+"160-kahl": [
+"Die alte Hexeneiche stand zwischen Großkrotzenburg und Kahl am Main."
+],
+"162-hanau": [
+"Kreisgrenze: Hanau ist kreisfrei, Großkrotzenburg gehört zum Main-Kinzig-Kreis.",
+"Hanau hat dreizehnmal so viele Einwohner wie Großkrotzenburg."
+],
+"163-maintal": [
+"Maintal hat gut fünfmal so viele Einwohner wie Großkrotzenburg."
+],
+"164-offenbach": [
+"Kreisgrenze: Offenbach am Main ist kreisfrei, Großkrotzenburg gehört zum Main-Kinzig-Kreis.",
+"Offenbach am Main hat achtzehnmal so viele Einwohner wie Großkrotzenburg."
+]
+},
+"ags": "06435011",
+"ortsteil": false,
+"km_vom_vorigen": 2.4
+},
+{
+"slug": "162-hanau",
+"name": "Hanau",
+"lat": 50.13278,
+"lon": 8.91694,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hanau",
+"steckbrief": "Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main.",
+"frage": "Ein Hanauer Fest ist nach Guillaume von Lamboy benannt. Wer war er?",
+"optionen": [
+"Er war ein Feldherr, der Hanau belagerte.",
+"Er war ein Bürgermeister, der Hanau wiederaufbaute.",
+"Er war ein Kaufmann, der das Fest stiftete.",
+"Er war ein Herrscher, der Hanau Stadtrecht verlieh."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Guillaume von Lamboy war kaiserlicher Generalfeldmarschall und belagerte Hanau im Dreißigjährigen Krieg. Naheliegend wäre ein Wohltäter, denn Feste ehren meist Freunde einer Stadt. Hier trägt das Fest den Namen des Belagerers. Auch Grimmelshausens „Simplicissimus“ schildert das belagerte Hanau. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.hanau.de/stadtentwicklung/geschichte/persoenlichkeiten/index.html",
+"faktencheck": "bestätigt",
+"id": "162-hanau/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hanau",
+"steckbrief": "Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main.",
+"frage": "Wie groß ist die Fläche des Hanauer Stadtgebiets?",
+"optionen": [
+"unter 50 km²",
+"50 bis unter 100 km²",
+"100 bis unter 150 km²",
+"150 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Hanau umfasst rund 76 Quadratkilometer. Wer kleiner schätzt, denkt an eine dicht bebaute Stadt im Ballungsraum. Doch zum Stadtgebiet gehören auch Stadtteile wie Großauheim, Steinheim oder Wolfgang. Richtig war 2.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "162-hanau/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Hanau",
+"steckbrief": "Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Ein Urgroßvater der Brüder Grimm war Hanauer Pfarrer.",
+"Freiherr Knigge leitete in Hanau ein Liebhabertheater.",
+"Goethe verspottete die Hanauer Zeichenschule als provinziell."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Goethe kannte Hanau gut und lobte die Zeichenschule: Sie verdiene „eine sehr ehrenvolle Erwähnung“. Die Akademie machte ihn sogar zum Ehrenmitglied. Der Spott liegt nahe, weil Goethe als scharfer Kritiker gilt. Knigge leitete am Hof des Erbprinzen ein Liebhabertheater, der Grimm-Urgroßvater war Pfarrer an der Marienkirche. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.hanau.de/stadtentwicklung/geschichte/persoenlichkeiten/index.html",
+"faktencheck": "bestätigt",
+"id": "162-hanau/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Hanau",
+"steckbrief": "Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Hanau die stärkste Partei?",
+"optionen": [
+"unter 18 %",
+"18 bis unter 22 %",
+"22 bis unter 25 %",
+"25 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei der Bundestagswahl 2025 wurde die CDU in Hanau mit 26,4 Prozent stärkste Partei. Wer niedriger tippte, rechnete mit einer zersplitterten Stimmenlage, wie sie in Großstadtnähe häufig ist. Dahinter folgten AfD und SPD fast gleichauf. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "162-hanau/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hanau",
+"steckbrief": "Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main.",
+"frage": "1709 wurde der „Gesundbrunnen“ entdeckt, an dem später das Kurbad Wilhelmsbad entstand. Wer fand die Quelle?",
+"optionen": [
+"Zwei Kräuterweiber stießen auf die Quelle.",
+"Ein Brunnenbauer des Grafen fand sie.",
+"Mönche eines nahen Klosters entdeckten sie.",
+"Ein Schäfer bemerkte sie beim Hüten."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Den Gesundbrunnen entdeckten zwei Kräuterweiber. Nahe liegt der Gedanke an einen Fachmann im Dienst des Grafen, denn später ließ Erbprinz Wilhelm an dieser Stelle die Kuranlagen errichten, die seinen Namen tragen: Wilhelmsbad. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.hanau.de/stadtentwicklung/geschichte/geschichtsdaten/index.html",
+"faktencheck": "korrigiert",
+"id": "162-hanau/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Hanau / Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main. / Welches Kfz-Kennzeichen ist das eigene Kennzeichen der Stadt Hanau? / 1. OF 2. HU 3. F 4. AB",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. HU ist das Kennzeichen der Stadt Hanau. OF liegt nahe, weil Offenbach am Main gleich nebenan liegt. Doch OF steht für Offenbach. HU verschwand als einziges hessisches Heimatkennzeichen nie ganz, denn Hanauer mussten nie MKK nehmen. Richtig war 2. /",
+"quelle": "hessenschau.de, 7. 8. 2026",
+"faktencheck": "korrigiert",
+"id": "162-hanau/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hanau",
+"steckbrief": "Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main.",
+"frage": "1813 trafen bei Hanau Napoleons Truppen auf ein bayerisch-österreichisches Heer. Wie ging die Schlacht für Napoleon aus?",
+"optionen": [
+"Napoleon erlitt dort seine entscheidende Niederlage.",
+"Die Schlacht endete ohne klaren Sieger.",
+"Napoleon siegte letztmals auf deutschem Boden.",
+"Napoleon geriet bei Hanau in Gefangenschaft."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Hanau standen französische Truppen einem bayerisch-österreichischen Heer unter General Wrede gegenüber. Eine Niederlage liegt nahe, weil Napoleon im selben Herbst bei Leipzig geschlagen worden war. Doch bei Hanau siegte er, zum letzten Mal auf deutschem Boden. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.hanau.de/stadtentwicklung/geschichte/geschichtsdaten/index.html",
+"faktencheck": "bestätigt",
+"id": "162-hanau/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hanau / Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main. / Der in Hanau geborene Arzt Franciscus Sylvius soll der Überlieferung nach ein Getränk erfunden haben, zunächst als Arznei. Welches? / 1. Er soll den Apfelwein erfunden haben. 2. Er soll den Genever erfunden haben, den Vorläufer des Gin. 3. Er soll den Kaffee erfunden haben. 4. Er soll das Bier erfunden haben.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Sylvius, Professor der Medizin in Leiden, soll um 1650 den Genever als Arznei gegen Magen- und Nierenleiden gemischt haben. Belegt ist das nicht, Arzneien aus Wacholder gab es schon lange vorher. Apfelwein liegt in Hessen nahe, doch er war wie Bier längst bekannt. Richtig war 2. /",
+"quelle": "Universität Leiden, universiteitleiden.nl",
+"faktencheck": "korrigiert",
+"id": "162-hanau/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hanau / Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main. / Im Wappen des Hanauer Stadtteils Kesselstadt stehen zwei silberne Sterne neben einem Bootshaken. Wofür sollen die Sterne nach Angabe der Stadt stehen? / 1. Sie stehen für zwei Schutzheilige des Dorfes. 2. Sie stehen für zwei zusammengelegte Dörfer. 3. Sie stehen für zwei Adelsfamilien des Ortes. 4. Sie stehen für zwei Flüsse am Ort.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Nach Angabe der Stadt sollen die Sterne für Main und Kinzig stehen, der Bootshaken für die Bedeutung des Wassers. Wer zwei Sterne sieht, denkt leicht an zwei Heilige oder Familien. Doch Kesselstadt war ein Ort der Fischer und Bootsleute. Richtig war 4. /",
+"quelle": "Gemeinde-Webseite, www.hanau.de/stadtentwicklung/geschichte/wappen/index.html",
+"faktencheck": "korrigiert",
+"id": "162-hanau/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Hanau",
+"steckbrief": "Stadt mit rund 99.000 Einwohnern, 11 km östlich von Offenbach am Main.",
+"frage": "Das Kloster Wolfgang begann 1468 mit einer Kapelle in der Bulau. Wer stiftete sie?",
+"optionen": [
+"Ein Trompeter stiftete die Kapelle.",
+"Ein Abt aus Fulda stiftete sie.",
+"Ein reicher Frankfurter Kaufmann stiftete sie.",
+"Eine Bruderschaft von Pilgern stiftete sie."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Gestiftet hat die Kapelle ein Trompeter namens Hasefuß, zu Ehren des heiligen Wolfgang. Ein Kloster lässt eher an einen Adligen oder Abt als Stifter denken, deshalb überrascht der Musiker. Bauern aus Niederrodenbach zerstörten das Kloster später. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.hanau.de/stadtentwicklung/geschichte/geschichtsdaten/index.html",
+"faktencheck": "bestätigt",
+"id": "162-hanau/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "161-grosskrotzenburg",
+"anschluss": [
+"Fläche: Hanau ist gut zehnmal so groß wie Großkrotzenburg.",
+"Bundestagswahl 2025: Großkrotzenburg hatte eine höhere Wahlbeteiligung als Hanau."
+],
+"anschluesse": {
+"136-neu-isenburg": [
+"Kreisgrenze: Neu-Isenburg gehört zum Landkreis Offenbach, Hanau ist kreisfrei.",
+"Hanau hat gut zweieinhalbmal so viele Einwohner wie Neu-Isenburg."
+],
+"44-frankfurt": [
+"Frankfurt am Main hat fast achtmal so viele Einwohner wie Hanau.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Frankfurt am Main die Grünen, in Hanau die AfD."
+],
+"160-kahl": [
+"Landesgrenze: Kahl am Main liegt in Bayern, Hanau in Hessen.",
+"Bundestagswahl 2025: In Kahl am Main lag die CSU vorn, in Hanau die CDU."
+],
+"161-grosskrotzenburg": [
+"Fläche: Hanau ist gut zehnmal so groß wie Großkrotzenburg.",
+"Bundestagswahl 2025: Großkrotzenburg hatte eine höhere Wahlbeteiligung als Hanau."
+],
+"163-maintal": [
+"Kreisgrenze: Maintal gehört zum Main-Kinzig-Kreis, Hanau ist kreisfrei.",
+"Hanau hat zweieinhalbmal so viele Einwohner wie Maintal."
+],
+"164-offenbach": [
+"Offenbach am Main hat rund 35.000 Einwohner mehr als Hanau.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Offenbach am Main die SPD, in Hanau die AfD."
+]
+},
+"ags": "06435014",
+"ortsteil": false,
+"km_vom_vorigen": 7.3
+},
+{
+"slug": "163-maintal",
+"name": "Maintal",
+"lat": 50.14387,
+"lon": 8.83713,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Maintal",
+"steckbrief": "Maintal ist eine Stadt mit rund 39.000 Einwohnern, 7 km nordöstlich von Offenbach am Main.",
+"frage": "Wie groß ist die Fläche der Stadt Maintal?",
+"optionen": [
+"unter 40 km²",
+"40 bis unter 55 km²",
+"55 bis unter 70 km²",
+"70 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an eine Stadt mit rund 39.000 Einwohnern denkt, rechnet leicht mit mehr Fläche. Maintal misst aber nur 32,41 Quadratkilometer und ist entsprechend dicht besiedelt. Richtig war 1.",
+"quelle": "Wikidata P2046 (Fläche); Einwohner Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "163-maintal/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Maintal",
+"steckbrief": "Maintal hat rund 39.000 Einwohner und liegt 7 km nordöstlich von Offenbach am Main.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Stadtwappen zeigt einen Weinstock für den Weinbau.",
+"Eine Fähre fuhr früher nach Mühlheim am Main.",
+"Die Maintaler Stolpersteine stammen vom Künstler Gunter Demnig."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Weinstock klingt glaubhaft, denn das Heimatmuseum in Hochstadt zeigt Werkzeuge aus dem Obst- und Weinbau. Doch das Wappen zeigt Zahnräder für die Industrie, einen Schilfstängel für die Natur und einen Wellenbalken für den Main. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Maintal",
+"faktencheck": "unsicher",
+"id": "163-maintal/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Maintal",
+"steckbrief": "Maintal hat rund 39.000 Einwohner und liegt 7 km nordöstlich von Offenbach am Main.",
+"frage": "Welche Partei wurde in Maintal bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"GRÜNE",
+"SPD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die AfD liegt nahe, weil sie 2025 in vielen Orten Zweite wurde. In Maintal blieb die SPD mit 18,9 Prozent knapp vor der AfD mit 16,7 Prozent; stärkste Partei wurde die CDU. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "163-maintal/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Maintal / Maintal hat rund 39.000 Einwohner und liegt 7 km nordöstlich von Offenbach am Main. / Früher trug der heutige Bahnhof Maintal West einen Doppelnamen. Wie lautete er? / 1. Er hieß Bischofsheim-Fechenheim. / 2. Er hieß Hochstadt-Dörnigheim. / 3. Er hieß Bischofsheim-Dörnigheim. / 4. Er hieß Bischofsheim-Rumpenheim.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend ist ein Maintaler Stadtteil oder ein Nachbar auf derselben Mainseite. Doch der zweite Namensteil war Rumpenheim, ein Stadtteil von Offenbach am Main auf der anderen Mainseite. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Maintal",
+"faktencheck": "korrigiert",
+"id": "163-maintal/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Maintal",
+"steckbrief": "Maintal hat rund 39.000 Einwohner und liegt 7 km nordöstlich von Offenbach am Main.",
+"frage": "Welche dieser Städte ist eine Partnerstadt von Maintal?",
+"optionen": [
+"Esztergom",
+"Pécs",
+"Thessaloniki",
+"Chartres"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bekanntere Namen wie Thessaloniki oder Chartres liegen nahe. Maintals Partnerstädte sind aber Katerini, Luisant, Moosburg und Esztergom. Richtig war 1.",
+"quelle": "Wikidata P190",
+"faktencheck": "bestätigt",
+"id": "163-maintal/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Maintal",
+"steckbrief": "Maintal hat rund 39.000 Einwohner und liegt 7 km nordöstlich von Offenbach am Main.",
+"frage": "Maintal besteht aus den Stadtteilen Dörnigheim, Bischofsheim, Hochstadt und Wachenbuchen. In welchem sitzt die Stadtverwaltung?",
+"optionen": [
+"Sie sitzt in Dörnigheim.",
+"Sie sitzt in Hochstadt.",
+"Sie sitzt in Bischofsheim.",
+"Sie sitzt in Wachenbuchen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Dörnigheim liegt nahe, denn es ist der größte Stadtteil, gefolgt von Bischofsheim. Doch die Stadtverwaltung sitzt in Hochstadt, das nach Einwohnern erst an dritter Stelle steht. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Maintal",
+"faktencheck": "unsicher",
+"id": "163-maintal/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "162-hanau",
+"anschluss": [
+"Einwohner: Hanau hat mehr als doppelt so viele wie Maintal.",
+"Maintal liegt am Main zwischen Frankfurt am Main und Hanau."
+],
+"anschluesse": {
+"136-neu-isenburg": [
+"Kreisgrenze: Neu-Isenburg gehört zum Landkreis Offenbach, Maintal zum Main-Kinzig-Kreis.",
+"Neu-Isenburg und Maintal sind fast gleich groß: rund 38.000 und 39.000 Einwohner."
+],
+"44-frankfurt": [
+"Kreisgrenze: Frankfurt am Main ist kreisfrei, Maintal gehört zum Main-Kinzig-Kreis.",
+"Frankfurt am Main hat neunzehnmal so viele Einwohner wie Maintal."
+],
+"160-kahl": [
+"Landesgrenze: Kahl am Main liegt in Bayern, Maintal in Hessen.",
+"Bundestagswahl 2025: In Kahl am Main lag die CSU vorn, in Maintal die CDU."
+],
+"161-grosskrotzenburg": [
+"Maintal hat gut fünfmal so viele Einwohner wie Großkrotzenburg."
+],
+"162-hanau": [
+"Einwohner: Hanau hat mehr als doppelt so viele wie Maintal.",
+"Maintal liegt am Main zwischen Frankfurt am Main und Hanau."
+],
+"164-offenbach": [
+"Kreisgrenze: Offenbach am Main ist kreisfrei, Maintal gehört zum Main-Kinzig-Kreis.",
+"Offenbach am Main hat dreieinhalbmal so viele Einwohner wie Maintal."
+]
+},
+"ags": "06435019",
+"ortsteil": false,
+"km_vom_vorigen": 5.8
+},
+{
+"slug": "164-offenbach",
+"name": "Offenbach am Main",
+"lat": 50.1,
+"lon": 8.76667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Offenbach am Main",
+"steckbrief": "Offenbach am Main ist eine Großstadt mit rund 133.000 Einwohnern am Südufer des Mains im Rhein-Main-Gebiet.",
+"frage": "Woher hat Offenbach am Main nach der Stadtgeschichte vermutlich seinen Namen?",
+"optionen": [
+"Er beschreibt einen offen fließenden Bach.",
+"Er erinnert an ein früheres Adelsgeschlecht.",
+"Er geht auf einen alten Vornamen zurück.",
+"Er stammt von einem keltischen Flussnamen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der heutige Name klingt nach einem offenen Bach, und Bäche geben vielen Orten ihren Namen. Die Stadtgeschichte führt ihn aber vermutlich auf den Vornamen „Ovo“ zurück; in der ersten Urkunde schrieb sich der Ort noch Ovenbach. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.offenbach.de/gaeste/stadtgeschichte/offenbach-die-kleine-grossstadt-am-main.php",
+"faktencheck": "korrigiert",
+"id": "164-offenbach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Offenbach am Main",
+"steckbrief": "Offenbach am Main ist eine Großstadt mit rund 133.000 Einwohnern am Südufer des Mains im Rhein-Main-Gebiet.",
+"frage": "Wie viele Einwohner kommen in Offenbach am Main rechnerisch auf einen Quadratkilometer?",
+"optionen": [
+"unter 1.500",
+"1.500 bis unter 2.000",
+"2.000 bis unter 2.800",
+"2.800 und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Neben Frankfurt wirkt Offenbach klein, also schätzt man leicht zu niedrig. Doch auf knapp 45 Quadratkilometern leben über 133.000 Menschen, rechnerisch 2.968 je Quadratkilometer. Richtig war 4.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "164-offenbach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Offenbach am Main",
+"steckbrief": "Offenbach am Main ist eine Großstadt mit rund 133.000 Einwohnern am Südufer des Mains im Rhein-Main-Gebiet.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Hugenotten brachten das Textilgewerbe nach Offenbach.",
+"Die Hugenotten bildeten nie eine eigene Gemeinde.",
+"Ein Isenburger Graf nahm die Hugenotten auf."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Textilgewerbe klingt nach späterer Industrie, ist aber wahr: Offenbach verdankte es den Hugenotten. Gelogen ist die zweite Aussage. Graf Johann Philipp nahm sie auf, und sie bildeten neben der Altgemeinde eine eigene Neugemeinde, die lange getrennt blieb. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.offenbach.de/gaeste/stadtgeschichte/offenbach-die-kleine-grossstadt-am-main.php",
+"faktencheck": "korrigiert",
+"id": "164-offenbach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Offenbach am Main",
+"steckbrief": "Offenbach am Main ist eine Großstadt mit rund 133.000 Einwohnern am Südufer des Mains im Rhein-Main-Gebiet.",
+"frage": "Wie hoch war die Wahlbeteiligung in Offenbach am Main bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 78 %",
+"78 bis unter 84 %",
+"84 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit gingen 2025 auffallend viele zur Wahl, deshalb liegt eine hohe Spanne nahe. In Offenbach lag die Wahlbeteiligung bei 75,2 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "164-offenbach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Offenbach am Main",
+"steckbrief": "Offenbach am Main ist eine Großstadt mit rund 133.000 Einwohnern am Südufer des Mains im Rhein-Main-Gebiet.",
+"frage": "Der Komponist Jacques Offenbach trug den Namen der Stadt. Wie kam seine Familie zu diesem Namen?",
+"optionen": [
+"Er wählte ihn selbst als Künstlernamen.",
+"Die Familie hieß schon seit Generationen so.",
+"Sein Vater nannte sich nach seiner Heimatstadt.",
+"Ein Vorfahr erhielt ihn als Adelstitel."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Künstlername liegt nahe, denn viele Bühnenleute legten sich einen zu. Doch schon sein Vater, in Offenbach geboren, nannte sich nach seiner Heimatstadt; der Großvater hieß noch Eberscht und stammte aus der Rhön. Jacques selbst kam in Köln zur Welt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.offenbach.de/gaeste/stadtgeschichte/offenbach-die-kleine-grossstadt-am-main.php",
+"faktencheck": "bestätigt",
+"id": "164-offenbach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Offenbach am Main",
+"steckbrief": "Offenbach am Main ist eine Großstadt mit rund 133.000 Einwohnern am Südufer des Mains im Rhein-Main-Gebiet.",
+"frage": "Wie weit ist es von Offenbach am Main in Luftlinie bis zur hessischen Landeshauptstadt Wiesbaden?",
+"optionen": [
+"rund 22 Kilometer",
+"rund 52 Kilometer",
+"rund 70 Kilometer",
+"rund 37 Kilometer"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer an die Fahrt quer durch Frankfurt denkt, schätzt die Strecke leicht größer. In Luftlinie liegen zwischen Offenbach und Wiesbaden rund 37 Kilometer. Richtig war 4.",
+"quelle": "GRUNDDATEN, km_landeshauptstadt, berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "164-offenbach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Offenbach am Main",
+"steckbrief": "Offenbach am Main ist eine Großstadt mit rund 133.000 Einwohnern am Südufer des Mains im Rhein-Main-Gebiet.",
+"frage": "Offenbach wurde als „Stadt des Leders und der Lettern“ bezeichnet. Wofür standen die Lettern?",
+"optionen": [
+"Für große Druckereien und Verlage in der Stadt.",
+"Für Ledertaschen mit eingeprägten Initialen.",
+"Für eine berühmte Schreibschule der Kaufleute.",
+"Für eine alte Inschrift am Stadtschloss."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei „Leder und Lettern“ denkt man schnell an Buchstaben auf Ledertaschen, weil beides zusammen genannt wird. Gemeint waren aber große Druckereien und Verlage, die neben der Leder- und Lederwarenbranche entstanden. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.offenbach.de/gaeste/stadtgeschichte/offenbach-die-kleine-grossstadt-am-main.php",
+"faktencheck": "korrigiert",
+"id": "164-offenbach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Offenbach am Main",
+"steckbrief": "Offenbach am Main ist eine Großstadt mit rund 133.000 Einwohnern am Südufer des Mains im Rhein-Main-Gebiet.",
+"frage": "Im Dreißigjährigen Krieg forderte ein König vom Offenbacher Schloss aus die Reichsstadt Frankfurt zur Übergabe auf. Welcher?",
+"optionen": [
+"Es war Christian IV. von Dänemark.",
+"Es war Gustav Adolf von Schweden.",
+"Es war Ludwig XIII. von Frankreich.",
+"Es war Philipp IV. von Spanien."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Frankreich liegt nahe, weil französische Heere am Rhein oft mitmischten. Doch es war der Schwedenkönig Gustav Adolf: 1631 nahm er Quartier im Offenbacher Schloss und forderte Frankfurt zur Übergabe auf. Die Frankfurter Gesandten mussten sich ihm unterwerfen. Richtig war 2.",
+"quelle": "Stadt Offenbach, offenbach.de (Stadtgeschichte, „1414: Städte-Fehde mit Frankfurt“)",
+"faktencheck": "korrigiert",
+"id": "164-offenbach/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Offenbach am Main",
+"steckbrief": "Offenbach am Main ist eine Großstadt mit rund 133.000 Einwohnern am Südufer des Mains im Rhein-Main-Gebiet.",
+"frage": "Im Offenbacher Lilipark steht der Lilitempel. Wozu wurde er ursprünglich gebaut?",
+"optionen": [
+"Er war eine Gartenkapelle für Andachten.",
+"Er war ein Zollhaus am Mainufer.",
+"Er war ein Gedenkbau für einen Fürsten.",
+"Er wurde als Badehaus errichtet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein „Tempel“ im Park klingt nach Andacht oder Gedenken. Gebaut wurde er 1798 aber als Badehaus für den Bankier Friedrich Metzler, entworfen von Salins de Montfort. Seinen Namen trägt er einer modernen Sage zufolge nach Goethes Verlobter Lili Schönemann. Richtig war 4.",
+"quelle": "Stadt Offenbach, offenbach.de (Metzler'sches Badehaus – Lilitempel; Lilipark)",
+"faktencheck": "korrigiert",
+"id": "164-offenbach/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "163-maintal",
+"anschluss": [
+"Einwohner: Offenbach hat mehr als dreimal so viele wie Maintal.",
+"Bundestagswahl 2025: Linke in Offenbach 17,3, in Maintal 9,3 Prozent."
+],
+"anschluesse": {
+"22-langen": [
+"Kreisgrenze: Langen gehört zum Landkreis Offenbach, Offenbach am Main ist kreisfrei.",
+"Offenbach am Main hat dreieinhalbmal so viele Einwohner wie Langen."
+],
+"136-neu-isenburg": [
+"Kreisgrenze: Neu-Isenburg gehört zum Landkreis Offenbach, Offenbach am Main ist kreisfrei.",
+"Offenbach am Main hat dreieinhalbmal so viele Einwohner wie Neu-Isenburg."
+],
+"44-frankfurt": [
+"Frankfurt am Main hat fast sechsmal so viele Einwohner wie Offenbach am Main.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Frankfurt am Main die Grünen, in Offenbach am Main die SPD."
+],
+"160-kahl": [
+"Landesgrenze: Kahl am Main liegt in Bayern, Offenbach am Main in Hessen.",
+"Bundestagswahl 2025: In Kahl am Main lag die CSU vorn, in Offenbach am Main die CDU."
+],
+"161-grosskrotzenburg": [
+"Kreisgrenze: Großkrotzenburg gehört zum Main-Kinzig-Kreis, Offenbach am Main ist kreisfrei.",
+"Offenbach am Main hat achtzehnmal so viele Einwohner wie Großkrotzenburg."
+],
+"162-hanau": [
+"Offenbach am Main hat rund 35.000 Einwohner mehr als Hanau.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Hanau die AfD, in Offenbach am Main die SPD."
+],
+"163-maintal": [
+"Einwohner: Offenbach hat mehr als dreimal so viele wie Maintal.",
+"Bundestagswahl 2025: Linke in Offenbach 17,3, in Maintal 9,3 Prozent."
+]
+},
+"ags": "06413000",
+"ortsteil": false,
+"km_vom_vorigen": 7.0
+},
+{
+"slug": "165-kist",
+"name": "Kist",
+"lat": 49.74444,
+"lon": 9.84472,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kist",
+"steckbrief": "Kist hat rund 2.700 Einwohner und liegt 9 km südwestlich von Würzburg.",
+"frage": "Kist entstand vermutlich in der Karolingerzeit. Wer hat den Ort nach Angabe der Gemeinde wahrscheinlich gegründet?",
+"optionen": [
+"Mönche gründeten den Ort als Rodungssiedlung eines Klosters.",
+"Köhler siedelten neben ihrer Arbeitsstätte im Wald.",
+"Bergleute gründeten eine Siedlung beim Erzabbau.",
+"Schäfer ließen sich bei ihren Sommerweiden nieder."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Mönche liegen nahe, denn viele Waldorte entstanden als Rodung eines Klosters. Die Gemeinde nennt aber Köhler als wahrscheinliche Gründer: Sie siedelten sich vermutlich in der Karolingerzeit im Wald neben ihrer Arbeitsstätte an. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-kist.de/gemeinde-kist/geschichte",
+"faktencheck": "korrigiert",
+"id": "165-kist/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kist",
+"steckbrief": "Kist hat rund 2.700 Einwohner und liegt 9 km südwestlich von Würzburg.",
+"frage": "Wie viele Einwohner kommen in der Gemeinde Kist auf einen Quadratkilometer Gemeindefläche?",
+"optionen": [
+"unter 200",
+"200 bis unter 500",
+"500 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Für eine Landgemeinde klingt eine hohe Dichte unwahrscheinlich, denn auf dem Land verteilen sich wenige Menschen auf viel Fläche. Kist hat aber eine kleine Gemeindefläche: 2.662 Einwohner auf 3,86 Quadratkilometern ergeben rund 690 je Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "165-kist/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kist",
+"steckbrief": "Kist hat rund 2.700 Einwohner und liegt 9 km südwestlich von Würzburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im „Kalten Loch“ standen einst Schlagbaum und Grenzturm.",
+"Am Ortsrand, hinter dem alten Sportplatz, liegen Hügelgräber.",
+"Grenzsäulen bei Kist trennten Würzburger und Bamberger Gebiet."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bamberg klingt fränkisch und damit plausibel. Die hohen Grenzsäulen bei Kist trennten aber das Gebiet des Würzburger Bischofs von dem des Mainzers. Schlagbaum und Grenzturm im „Kalten Loch“ dienten derselben Grenze, und die Hügelgräber hinter dem alten Sportplatz gibt es wirklich. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-kist.de/gemeinde-kist/geschichte",
+"faktencheck": "bestätigt",
+"id": "165-kist/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kist",
+"steckbrief": "Kist hat rund 2.700 Einwohner und liegt 9 km südwestlich von Würzburg.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Kist bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 45 %",
+"45 bis unter 50 %",
+"50 bis unter 55 %",
+"55 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Auf dem Land in Bayern rechnet man oft mit einer absoluten Mehrheit der CSU. In Kist blieb die CSU bei der Bundestagswahl 2025 mit 40,1 Prozent der Zweitstimmen deutlich darunter, lag aber klar vor der AfD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "165-kist/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kist",
+"steckbrief": "Kist hat rund 2.700 Einwohner und liegt 9 km südwestlich von Würzburg an der Grenze zu Baden-Württemberg.",
+"frage": "Im Forsthaus Irtenberg saß einst ein Oberzollamt. Warum war Kist nur bis 1836 Sitz dieses Amts?",
+"optionen": [
+"Bayern trat 1836 dem deutschen Zollverein bei.",
+"Baden trat dem deutschen Zollverein bei.",
+"Württemberg trat 1836 dem deutschen Zollverein bei.",
+"Hessen-Darmstadt trat 1836 dem deutschen Zollverein bei."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bayern, Württemberg und Hessen-Darmstadt gehörten schon seit 1834 zum Zollverein. Kist war Sitz eines Oberzollamts bis 1836, als auch Baden dem deutschen Zollverein beitrat. Damit verlief zwischen Bayern und Baden keine Zollgrenze mehr. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-kist.de/gemeinde-kist/geschichte; Deutsches Historisches Museum, www.dhm.de/lemo/bestand/objekt/karte-des-deutschen-zollvereins-1836",
+"faktencheck": "korrigiert",
+"id": "165-kist/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kist",
+"steckbrief": "Kist hat rund 2.700 Einwohner und liegt 9 km südwestlich von Würzburg.",
+"frage": "Wie weit ist Kist in Luftlinie von der bayerischen Landeshauptstadt München entfernt?",
+"optionen": [
+"unter 100 km",
+"100 bis unter 175 km",
+"175 bis unter 250 km",
+"250 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Innerhalb eines Bundeslands schätzt man Entfernungen gern kürzer. Bayern ist aber das flächengrößte Land, und Würzburg liegt weit nördlich von München. Von Kist bis München sind es 219 Kilometer Luftlinie. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "165-kist/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kist",
+"steckbrief": "Kist hat rund 2.700 Einwohner und liegt 9 km südwestlich von Würzburg.",
+"frage": "In der Kister Pfarrkirche St. Bartholomäus hängt das Gemälde „Petrus in der Reue“. Wem ordnet die Gemeinde es zu?",
+"optionen": [
+"Der Schule des Venezianers Giovanni Battista Tiepolo.",
+"Der Werkstatt von Lucas Cranach dem Älteren.",
+"Der Werkstatt des Nürnberger Malers Albrecht Dürer.",
+"Der Schule des Würzburger Hofmalers Konrad Onghers."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Tiepolo liegt nahe, denn er malte die berühmten Fresken der Würzburger Residenz. Die Gemeinde ordnet das Bild aber der Schule des Würzburger Hofmalers Konrad Onghers zu. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-kist.de/gemeinde-kist/geschichte",
+"faktencheck": "bestätigt",
+"id": "165-kist/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "164-offenbach",
+"anschluss": [
+"Offenbach am Main zählt fünfzigmal so viele Einwohner wie Kist."
+],
+"anschluesse": {
+"146-wuerzburg": [
+"Kreisgrenze: Würzburg ist kreisfrei, Kist gehört zum Landkreis Würzburg.",
+"Würzburg hat rund 50-mal so viele Einwohner wie Kist."
+],
+"147-veitshoechheim": [
+"Veitshöchheim hat gut dreieinhalbmal so viele Einwohner wie Kist.",
+"Kist liegt rund 190 Meter höher als Veitshöchheim."
+],
+"148-thuengersheim": [
+"Thüngersheim und Kist sind fast gleich groß: rund 2.600 und 2.700 Einwohner.",
+"Kist liegt rund 200 Meter höher als Thüngersheim."
+],
+"149-zellingen": [
+"Kreisgrenze: Zellingen gehört zum Landkreis Main-Spessart, Kist zum Landkreis Würzburg.",
+"Zellingen hat fast zweieinhalbmal so viele Einwohner wie Kist."
+],
+"150-himmelstadt": [
+"Kreisgrenze: Himmelstadt gehört zum Landkreis Main-Spessart, Kist zum Landkreis Würzburg.",
+"Kist hat gut anderthalbmal so viele Einwohner wie Himmelstadt."
+],
+"164-offenbach": [
+"Offenbach am Main zählt fünfzigmal so viele Einwohner wie Kist."
+]
+},
+"ags": "09679154",
+"ortsteil": false,
+"km_vom_vorigen": 86.7
 },
 {
 "slug": "176-idstein",
@@ -38928,7 +41065,7 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "155-heigenbruecken",
+"anschluss_von": "165-kist",
 "anschluss": [],
 "anschluesse": {
 "46-wiesbaden": [
@@ -38942,7 +41079,7 @@ window.QA_DATEN = {
 },
 "ags": "06439008",
 "ortsteil": false,
-"km_vom_vorigen": 81.7
+"km_vom_vorigen": 124.5
 },
 {
 "slug": "177-huenfelden",

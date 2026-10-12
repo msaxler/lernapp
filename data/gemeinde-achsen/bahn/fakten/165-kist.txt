@@ -1,0 +1,126 @@
+ID: 165-kist/001
+ENTITÄT: ort
+BEZEICHNUNG: Kist
+QUELLE: https://www.gemeinde-kist.de/gemeinde-kist/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: an der Grenze Bayerns zu Baden-Württemberg
+  erste_schriftliche_zeugnisse: 779
+  gründung_zeitraum: Karolingerzeit
+  gründung_genauigkeit: vermutlich
+  gründer: Köhler
+  gründer_genauigkeit: wahrscheinlich
+  gründungsgrund: siedelten sich im Wald neben ihrer Arbeitsstätte an
+  verkehrslage_grund: alte Verkehrsstraße von Würzburg nach Tauberbischofsheim führte am Kister Wald vorbei
+  gemarkungsflaeche: 365 ha
+  einwohner: 2600
+  einwohner_genauigkeit: ca.
+  hoehe_ueber_meeresspiegel: 375 m
+  superlativ: höchstgelegener Ort des Landkreises
+  archaeologische_funde: Jungsteinzeit, Bronze- und Eisenzeit
+  bedeutung_historisch: an Kist führte für Menschen kein Weg vorbei
+GUELTIG_AB: 779
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 165-kist/002
+ENTITÄT: verwaltungsgemeinschaft
+BEZEICHNUNG: Verwaltungsgemeinschaft Kist
+QUELLE: https://www.gemeinde-kist.de/gemeinde-kist/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  mitgliedsgemeinden: Kist; Altertheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 165-kist/003
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Bartholomäus
+QUELLE: https://www.gemeinde-kist.de/gemeinde-kist/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirchturm: weithin sichtbar
+  kunstwerk: Gemälde "Petrus in der Reue"
+  kunstwerk_schulzuordnung: Schule des Würzburger Hofmalers Konrad Onghers
+  kunstwerk_zeitraum: 1659-1706
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 165-kist/004
+ENTITÄT: bauwerk
+BEZEICHNUNG: Wasserturm
+QUELLE: https://www.gemeinde-kist.de/gemeinde-kist/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hoehe: 30 m
+  hoehe_genauigkeit: ca.
+  stufen: 154
+  funktion: Wahrzeichen des Ortes
+  erbaut: 1960
+GUELTIG_AB: 1960
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 165-kist/005
+ENTITÄT: grenzzeichen
+BEZEICHNUNG: Grenzsteine
+QUELLE: https://www.gemeinde-kist.de/gemeinde-kist/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: zwei hohe Säulen
+  lage: 100 Meter südlich der Staatsstraße 578
+  zweck: Abgrenzung zwischen Gebiet des Würzburger Bischofs und des Mainzers
+  grenzverlegung_jahr: 1584
+GUELTIG_AB: 1584
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 165-kist/006
+ENTITÄT: historisches_bauwerk
+BEZEICHNUNG: Schlagbaum und Grenzturm
+QUELLE: https://www.gemeinde-kist.de/gemeinde-kist/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Im "Kalten Loch" an der Staatsstraße 578
+  zweck: Abgrenzung zwischen Gebiet des Würzburger Bischofs und des Mainzers
+GUELTIG_BIS: 1584
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 165-kist/007
+ENTITÄT: aemter_verwaltung
+BEZEICHNUNG: Oberzollamt
+QUELLE: https://www.gemeinde-kist.de/gemeinde-kist/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitz: Forsthaus Irtenberg
+  aufgeloest: 1836
+  grund_auflosung: Baden trat dem deutschen Zollverein bei
+GUELTIG_BIS: 1836
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 165-kist/008
+ENTITÄT: ortslandschaft
+BEZEICHNUNG: Hügelgräber
+QUELLE: https://www.gemeinde-kist.de/gemeinde-kist/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Ortsrand, hinter dem alten Sportplatz
+  historische_bedeutung: Zeugen der wechselvollen Historie
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 165-kist/009
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Tafel mit Bildnis Mariens
+QUELLE: https://www.gemeinde-kist.de/gemeinde-kist/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Fachwerkhaus der Gaststätte "Zum Grünen Baum"
+  beschreibung: wertvolle Tafel mit Bildnis Mariens
+  datierung: 1706
+GUELTIG_AB: 1706
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 165-kist/010
+ENTITÄT: gebaeude_infrastruktur
+BEZEICHNUNG: Otto-Seubert-Halle
+QUELLE: https://www.gemeinde-kist.de/gemeinde-kist/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Sportstadion
+  typ: Sporthalle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

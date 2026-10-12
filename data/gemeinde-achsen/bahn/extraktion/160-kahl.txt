@@ -1,0 +1,201 @@
+ENTITÄT: ort
+BEZEICHNUNG: Kahl am Main
+QUELLE: https://www.kahl-main.de/seite/de/cms121020262010090677a645/014:89/-/Ortsgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1282
+  erwaehnung_form: "Calde"
+  namensherkunft: "aus Kaldaha (Althochdeutsch) = Ort am kalten Wasser"
+  gruendung: ca. 800
+  fruehe_besiedlung: vor 800
+  verkehrslage: "Salzstraße nach Bad Orb und Handels-/Heerstraße Frankfurt–Nürnberg (Bundesstraße 8)"
+  staat_seit: Bayern
+  staat_seit_jahr: 1816
+  bekannt_fuer: "Braunkohleabbau, später Atomkraftforschung und Seenlandschaft"
+GUELTIG_AB: 800
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bahnstation
+BEZEICHNUNG: Kahl
+QUELLE: https://www.kahl-main.de/seite/de/cms121020262010090677a645/014:89/-/Ortsgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  etabliert: 1854
+  verbindung_hanau_aschaffenburg: "angeschlossen 1854 nach 2 Jahren Bauzeit"
+  verbindung_frankfurt_hanau: "bereits 1846 vorhanden"
+  zweigbahn_kahlgrund: "1898 nach Schöllkrippen"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bergbauanlage
+BEZEICHNUNG: Zeche Gustav
+QUELLE: https://www.kahl-main.de/seite/de/cms121020262010090677a645/014:89/-/Ortsgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rohstoff: Braunkohle
+  benannt_nach: "Direktor Gustav Müller"
+  entdeckung_kohlevorkommen: ca. 1900
+  entdeckung_kohlevorkommen_genauigkeit: "ca."
+  besch_arbeiter: 1000
+  besch_arbeiter_genauigkeit: "über"
+  betriebsende: 1932
+  grund_ende: "abbaufähige Kohlevorräte erschöpft"
+GUELTIG_AB: 1900
+GUELTIG_BIS: 1932
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: industrieanlage
+BEZEICHNUNG: Versuchsatomkraftwerk Kahl
+QUELLE: https://www.kahl-main.de/seite/de/cms121020262010090677a645/014:89/-/Ortsgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Atomkraftwerk
+  superlativ: "erste Erprobung eines Atomkraftwerkes in Deutschland"
+  standort_gemarkung: Karlstein
+  reaktorabschaltung: 1985
+  verbleib: "vollständig rückgebaut"
+GUELTIG_AB: 1960
+GUELTIG_BIS: 1985
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: seenlandschaft
+BEZEICHNUNG: Kahler Seenplatte
+QUELLE: https://www.kahl-main.de/seite/de/cms121020262010090677a645/014:89/-/Ortsgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: "aus Tagebauten des Braunkohleabbaus und späteren Sand-/Kiesabbau, mit Wasserfüllung"
+  nutzungsphase: "1860er–1970er Jahre"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Wasserturm
+QUELLE: https://www.kahl-main.de/seite/de/cms121020262010090677a645/014:81/-/Sehenswuerdigkeiten_in_Kahl.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1931
+  hoehe: 27 [m]
+  material: Sandstein
+  ensemble: "mit Rathaus"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus
+QUELLE: https://www.kahl-main.de/seite/de/cms121020262010090677a645/014:81/-/Sehenswuerdigkeiten_in_Kahl.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1830
+  urspruengliche_funktion: "Zollhaus an der Grenze Bayerns"
+  material: Sandstein
+  ensemble: "mit Wasserturm"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Margareta
+QUELLE: https://www.kahl-main.de/seite/de/cms121020262010090677a645/014:81/-/Sehenswuerdigkeiten_in_Kahl.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Katholisch
+  stil: Historismus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Kreuzkirche
+QUELLE: https://www.kahl-main.de/seite/de/cms121020262010090677a645/014:81/-/Sehenswuerdigkeiten_in_Kahl.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Evangelisch
+  erbaut: 1929
+  stil: Bauhaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Emmerichshofen
+QUELLE: https://www.kahl-main.de/seite/de/cms121020262010090677a645/014:81/-/Sehenswuerdigkeiten_in_Kahl.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: Spätbarock
+  lage: "zwischen Kahl und Alzenau, Wald- und Seengebiet"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Backes
+QUELLE: https://www.kahl-main.de/seite/de/cms121020262010090677a645/014:81/-/Sehenswuerdigkeiten_in_Kahl.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  material: Stein
+  funktion: Bäckerei
+  nutzungsdauer: "fast 300 Jahre"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+
+---
+
+ENTITÄT: berg
+BEZEICHNUNG: Birkenkopf
+QUELLE: https://www.kahl-main.de/seite/de/cms121020262010090677a645/014:81/-/Sehenswuerdigkeiten_in_Kahl.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: "kleinster Berg Bayerns"
+  ausstattung: Gipfelkreuz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Eis-Albert
+QUELLE: https://www.kahl-main.de/seite/de/cms121020262010090677a645/014:81/-/Sehenswuerdigkeiten_in_Kahl.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  darsteller: "Albert Uftring"
+  material: Metall (Schattenriss)
+  motiv: "mit Verkaufswagen und Kind"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: geografischer_punkt
+BEZEICHNUNG: Tiefster Punkt Bayerns
+QUELLE: https://www.kahl-main.de/seite/de/cms121020262010090677a645/014:81/-/Sehenswuerdigkeiten_in_Kahl.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: "tiefster Punkt Bayerns"
+  lage: Kahl am Main
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.6
+
+---
+
+ENTITÄT: sage
+BEZEICHNUNG: Hörschter Köppsche
+QUELLE: https://www.kahl-main.de/seite/de/cms121020262010090677a645/014:81/-/Sehenswuerdigkeiten_in_Kahl.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Lokale Sage (Name unbekannt, nur Titel überliefert)"
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.5
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Lügenbänkchen
+QUELLE: https://www.kahl-main.de/seite/de/cms121020262010090677a645/014:81/-/Sehenswuerdigkeiten_in_Kahl.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: "Sehenswürdigkeit (Details im Quellentext nicht angegeben)"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.3

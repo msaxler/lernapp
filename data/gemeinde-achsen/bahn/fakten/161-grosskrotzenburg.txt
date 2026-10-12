@@ -1,0 +1,467 @@
+ID: 161-grosskrotzenburg/001
+ENTITÄT: ort
+BEZEICHNUNG: Großkrotzenburg
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Main-Kinzig-Kreis
+  bundesland: Hessen
+  lage: südlich von Hanau, unmittelbar am Main
+  wasserflaechenanteil: 10 %
+  ortsteilanzahl: 1
+  gemarkungsnummer: 60906
+  status: territoriale Exklave des Main-Kinzig-Kreises
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 161-grosskrotzenburg/002
+KASTELL: Römerkastell Großkrotzenburg
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: um 100 n.Chr.
+  besatzung: Cohors IV Vindelicorum
+  besatzung_besonderheit: einzige Auxiliartruppe mit großflächiger Militärziegelei-Produktion in Obergermanien
+  status: UNESCO-Welterbe seit Sommer 2005
+  eckturm_superlativ: ältestes oberirdisches römisches Bauwerk diesseits des Rheins
+  umfassungsmauer_hoehe: 5 m
+  limes_verlauf: Limes erreicht hier den Main, von hier ab markiert der Main südlichen Limes-Verlauf
+  erhalte_teile: Eckturm, Umfassungsmauer, Römerbrücke
+  auszeichnung_kirchstrasse: Umrisse der Eingangstore mit Pflastersteinen kenntlich gemacht
+GUELTIG_AB: 100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 161-grosskrotzenburg/003
+MUSEUM: Heimatmuseum Großkrotzenburg
+QUELLE: https://www.grosskrotzenburg.de/leben-wohnen/gemeindeportaet/museum-und-geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_als: Schule
+  erbaut_jahr: 1894
+  bauwerk_lage: neben dem Eckturm des Römerkastells
+  traeger: Heimat- und Geschichtsverein Großkrotzenburg e.V.
+  funktion: Darstellung der wechselvollen Ortsgeschichte
+  ausstellung_schwerpunkt: Hexenprozesse 1628
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 161-grosskrotzenburg/004
+VEREIN: Heimat- und Geschichtsverein Großkrotzenburg e.V.
+QUELLE: https://www.grosskrotzenburg.de/strukturierte-daten/vereine/heimat-und-geschichtsverein-grosskrotzenburg-e-v/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendungsjahr: 1956
+  aufgabe: Ortsgeschichte erforschen, dokumentieren und darstellen
+  zusatzaufgabe: kreative Tätigkeiten fördern und öffentlich präsentieren
+  sitz: Heimatmuseum
+  webseite: museum-grosskrotzenburg.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 161-grosskrotzenburg/005
+KIRCHE: St. Laurentius (römisch-katholisch)
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1826–1828
+  baumeister: Julius Eugen Ruhl
+  pfarrer: Philipp Kreisler
+  baustil: klassizistisch
+  renoviert: 1997–1998, 2017–2018
+  renoviert_turm: 2009
+GUELTIG_AB: 1826
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 161-grosskrotzenburg/006
+SYNAGOGE: Synagoge Großkrotzenburg
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1826
+  lage: Steingasse
+  schaedigung: Verwüstung in Novemberpogromen 1938
+GUELTIG_AB: 1826
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 161-grosskrotzenburg/007
+BADEANSTALT: Strandbad Spessartblick
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  see: Freigericht-West (Baggersee Großkrotzenburger See)
+  flaeche: ca. 150.000 m²
+  wasserqualitaet: beste der Kahler Seenplatte
+  grund_qualitaet: unterirdisch mit See Freigericht-Ost verbunden, aus natürlichen Quellen gespeist
+  ursprung: Braunkohletagebau bis 1920er Jahre, später Sand- und Kiesabbau
+  ausstattung: Liegewiese, Volleyballfelder, Kinderspielplätze, Sanitäranlagen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 161-grosskrotzenburg/008
+NATURDENKMAL: Hexeneiche
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  lage: zwischen Großkrotzenburg und Kahl am Main
+  historisches_zeugnis: Dreißigjähriger Krieg
+  schaedigung: 7. August 1970 durch Blitzeinschlag
+  gefaellt: 8. Juni 1971
+  andenken: neu angepflanzte Eiche und Gedenkstein
+  bedeutung: Erinnerung an Hexenverfolgungen 1628–1630
+  ausstellung_info: Heimatmuseum Großkrotzenburg
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 161-grosskrotzenburg/009
+HISTORISCHES_EREIGNIS: Hexenverfolgungen in Großkrotzenburg
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: 1628–1630
+  opfer_anzahl: 90
+  opfer_geschlechterverteilung: 69 Frauen, 21 Männer
+  namensliste_ueberliefert: 81 Namen
+  verursacher: Erzstift Mainz
+GUELTIG_AB: 1628
+GUELTIG_BIS: 1630
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 161-grosskrotzenburg/010
+HISTORISCHES_EREIGNIS: Novemberpogromen 1938
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  aktion_synagoge: Verwüstung
+  aktion_maennliche_juden: Verhaftung aller
+  betroffene_zahl: ca. 155 Juden und Jüdinnen
+  ueberlebende: wenige
+  erinnerung: Stolpersteine
+GUELTIG_AB: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 161-grosskrotzenburg/011
+PERSON: Theresa Neumann
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Bürgermeisterin
+  partei: CDU
+  amtsantritt: 1. Juli 2022
+  wahltermin: 20. März 2022
+  wahlform: Stichwahl
+  wahlerg: 57,04 % der Stimmen
+  wahlbeteiligung: 42,08 %
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 161-grosskrotzenburg/012
+PERSON: Martin Woythal
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Bürgermeister
+  lebensdaten: 1928–2012
+  amtszeit: 1958–1968
+GUELTIG_AB: 1958
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 161-grosskrotzenburg/013
+PERSON: Martin Kopp
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1826–1902
+  funktion: Bürgermeister
+  funktion_2: Mitglied Provinziallandtag Provinz Hessen-Nassau
+GUELTIG_AB: 1826
+GUELTIG_BIS: 1902
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 161-grosskrotzenburg/014
+WAPPEN: Wappen Großkrotzenburg
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  bestandteile: zwei gekreuzte goldene Schlüssel vor roten Burgmauer auf weißem Grund
+  symbolik_schluessel: Symbol für Diözesen Fulda und Mainz, zu denen Großkrotzenburg gehörte
+  symbolik_mauer: römische Vergangenheit als Kastell
+  wappenrecht_verleihung: 19. Mai 1950
+  wappenrecht_behoerde: Hessisches Staatsministerium
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 161-grosskrotzenburg/015
+FLAGGE: Flagge Großkrotzenburg
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  bestandteile: Gemeindewappen auf rot-weißem Flaggentuch
+  flaggenrecht_verleihung: 18. Juni 1951
+  flaggenrecht_behoerde: Hessisches Staatsministerium
+GUELTIG_AB: 1951
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 161-grosskrotzenburg/016
+PARTNERSTADT: Oederan
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  partnerschaft_mit: Großkrotzenburg
+  land: Deutschland
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 161-grosskrotzenburg/017
+PARTNERSTADT: Achères
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  partnerschaft_mit: Großkrotzenburg
+  land: Frankreich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 161-grosskrotzenburg/018
+PARTNERSTADT: Torsby
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  partnerschaft_mit: Großkrotzenburg
+  land: Schweden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 161-grosskrotzenburg/019
+SCHULE: Geschwister-Scholl-(Grund)schule
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Grundschule
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 161-grosskrotzenburg/020
+SCHULE: Franziskanergymnasium Kreuzburg
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  schultyp: Gymnasium (privat)
+  einzugsbereich: überregional
+  gebaeude_baujahr: 1920er Jahre
+  gebaeude_form: kreuzförmig
+  namensbegründung: kreuzförmiger Gebäudekomplex
+  vorgaenger: Gymnasium Afrikanum (Schule der Weißen Väter)
+  vorgaenger_bis: 1967
+  traeger_ab_1967: Franziskaner
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 161-grosskrotzenburg/021
+VEREIN: Turnverein 1884 e.V.
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  gruendungsjahr: 1884
+  vereinstyp: Breitensportverein
+  einrichtungen: Halle in Kahler Straße
+GUELTIG_AB: 1884
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 161-grosskrotzenburg/022
+VEREIN: Fußballverein Großkrotzenburg
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Fußball
+  einrichtung: Sportstadion
+  besitz_stadion: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 161-grosskrotzenburg/023
+VEREIN: Tennisverein Großkrotzenburg
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Tennis
+  plaetze_anzahl: mehrere
+  lage: unmittelbare Nähe zum Main
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 161-grosskrotzenburg/024
+VEREIN: Stemm- und Ringverein
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Ringen, Stemmen
+  lage: Freigericht-West (Strandbadgelände)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 161-grosskrotzenburg/025
+VEREIN: Wanderfreunde Edelweiß
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  aktivitaet: Wandern
+  lage: Freigericht-West (Strandbadgelände)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 161-grosskrotzenburg/026
+VEREIN: Wassersportverein Großkrotzenburg
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Wassersport
+  lage: Freigericht-West (Strandbadgelände)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 161-grosskrotzenburg/027
+INFRASTRUKTUR: Freiwillige Feuerwehr Großkrotzenburg
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  aufgabe: Brandschutz und allgemeine Hilfe
+  verein: Feuerwehrverein mit 500 Mitgliedern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 161-grosskrotzenburg/028
+INFRASTRUKTUR: Jugendzentrum Großkrotzenburg
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  abkuerzung: JUZ
+  zielgruppe: Kinder und Jugendliche 7–25 Jahre
+  lage: Rückseite des Bürgerhauses
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 161-grosskrotzenburg/029
+BAHNHOF: Bahnhof Großkrotzenburg
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  strecke: Frankfurt–Aschaffenburg
+  lage: nördlicher Ortsrand
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 161-grosskrotzenburg/030
+VERKEHRSLINIE: Buslinie 566
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  linie: 566
+  verlauf: Hanau – Kahl am Main
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 161-grosskrotzenburg/031
+RADFERNWEG: Deutscher Limes-Radweg
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  laenge: 818 km
+  verlauf: Bad Hönningen am Rhein – Regensburg an der Donau
+  folgt: Obergermanisch-Raetischer Limes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 161-grosskrotzenburg/032
+RADFERNWEG: Main-Radweg
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  laenge: 1021 km
+  verlauf: Saarbrücken – tschechische Grenze
+  route_segment: D-Route 5 (Saar-Mosel-Main)
+  hauptstaedtefolge: Trier – Koblenz – Mainz – Frankfurt am Main – Würzburg – Bayreuth
+  ufer_großkrotzenburg: linkes Mainufer
+  zugang: Steg der Staustufe Krotzenburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 161-grosskrotzenburg/033
+FERNWANDERWEG: Limesweg
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  teil_von: Deutscher Limes-Wanderweg
+  verlaeuft_durch: Großkrotzenburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 161-grosskrotzenburg/034
+INFRASTRUKTUR: Kraftwerk Staudinger
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  typ: Kohlekraftwerk
+  merkmal: Kühltürme (Orientierungsmarke östliches Rhein-Main-Gebiet)
+  bedeutung: zentral für wirtschaftliche Situation Großkrotzenburgs
+  status: teilweise abgeschaltet
+  folge_abschaltung: Hochverschuldung der Gemeinde
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 161-grosskrotzenburg/035
+SENIORENBEIRAT: Seniorenbeirat Großkrotzenburg
+QUELLE: https://www.grosskrotzenburg.de/leben-wohnen/seniorenbeirat/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wahl: 17. März 2025
+  funktion: Interessenvertretung der älteren Einwohner
+  charakteristika: parteipolitisch neutral, unabhängig, konfessionell nicht gebunden
+  rolle: Bindeglied zwischen Senioren und Gemeindegremien
+  aufgabe: Beratung und Unterstützung Gemeindeorgane bei Seniorenarbeit
+  besonderheit: Beteiligung Senioren bei Planung und Durchführung von Reisen und Veranstaltungen
+  besetzungswechsel: bisherige Mitglieder nicht wiederwählt
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 161-grosskrotzenburg/036
+PERSON: Emilie Flierl
+QUELLE: https://www.grosskrotzenburg.de/leben-wohnen/seniorenbeirat/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Mitglied Seniorenbeirat
+  wahl: 17. März 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 161-grosskrotzenburg/037
+PERSON: Susanne Matthias
+QUELLE: https://www.grosskrotzenburg.de/leben-wohnen/seniorenbeirat/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Mitglied Seniorenbeirat
+  wahl: 17. März 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 161-grosskrotzenburg/038
+PERSON: Beate Reinhart
+QUELLE: https://www.grosskrotzenburg.de/leben-wohnen/seniorenbeirat/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Mitglied Seniorenbeirat
+  wahl: 17. März 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 161-grosskrotzenburg/039
+PERSON: Ute Böning
+QUELLE: https://www.grosskrotzenburg.de/leben-wohnen/seniorenbeirat/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Mitglied Seniorenbeirat
+  wahl: 17. März 2025
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 161-grosskrotzenburg/040
+ORTSNAMEN: historische Varianten
+QUELLE: https://de.wikipedia.org/wiki/Gro%C3%9Fkrotzenburg | Wikipedia
+EIGENSCHAFTEN:
+  cruzenburch: 1175
+  crozenburc: 1282
+  crocenburg_trans_mogum: 1292
+  gross_crotzenberg: 1602
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 161-grosskrotzenburg/041
+RATHAUS: Gemeinde Großkrotzenburg
+QUELLE: https://www.grosskrotzenburg.de/barrierefreiheit/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Bahnhofstraße 3, 63538 Großkrotzenburg
+  telefon_zentral: +49 6186 2009-0
+  telefon_fax: +49 6186 2009-222
+  email: rathaus@grosskrotzenburg.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95

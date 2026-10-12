@@ -1,0 +1,377 @@
+ENTITÄT: ort
+BEZEICHNUNG: Hösbach
+QUELLE: https://www.hoesbach.de/markt-hoesbach/geschichte/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wappen_beschreibung: Gespalten von Rot und Silber; vorne ein wachsender silberner Kirchturm, hinten über einem senkrecht gestellten grünen Sporn ein grünes Eichenblatt mit einer goldenen Eichel
+  wappen_wahrzeichen: St. Michaels-Pfarrkirche mit charakteristischem Turm
+  wappen_farben_bedeutung: Farben Silber-Rot erinnern an frühere territoriale Verbindung zum Erzstift Mainz
+  wappen_sporn_eichenblatt_bedeutung: Kennzeichen des berittenen Forstdienstes
+  wappen_entwurf_autor: Karl Haas aus Kronach
+  wappen_genehmigung_datum: 15. Juni 1967
+  wappen_genehmigung_behoerde: Bayerisches Staatsministerium des Innern
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Michaels-Pfarrkirche
+QUELLE: https://www.hoesbach.de/markt-hoesbach/geschichte/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_wahrzeichen: true
+  hat_charakteristischen_turm: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Rottenberg
+ORTSTEIL_BEZUG: Rottenberg
+QUELLE: https://www.hoesbach.de/markt-hoesbach/geschichte/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wappen_beschreibung: Gespalten und vorne geteilt; oben in Rot ein sechsspeichiges silbernes Rad, unten fünfmal geteilt von Rot und Gold; hinten in Silber auf grünem Dreiberg ein roter Zinnturm
+  wappen_rad_bedeutung: Mainzer Symbol
+  wappen_rot_gold_teilung_bedeutung: Kennzeichen der Grafen von Rieneck
+  wappen_zinnturm_bedeutung: Erinnert an frühere Burg Landesehre und die drei Berge Gräfenberg, Klosterberg und Rottenberg
+  wappen_genehmigung_behoerde: Bayerisches Staatsministerium des Innern
+  wappen_genehmigung_datum: 15. Juni 1967
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Winzenhohl
+ORTSTEIL_BEZUG: Winzenhohl
+QUELLE: https://www.hoesbach.de/markt-hoesbach/geschichte/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wappen_beschreibung: In Rot auf einem sechsspeichigen silbernen Rad stehend eine silberne Madonna mit dem Kind auf dem linken Arm
+  wappen_madonna_name: Schmerlenbacher Madonna
+  wappen_rad_bedeutung: Uraltes Wahrzeichen des ehemaligen Erzstiftes Mainz
+  wappen_farbengebung: Farben von Kurmainz, silbernes Rad in Rot
+  wappen_farben_zusatzbedeutung: Weiß und Rot erinnern an fränkische Farben
+  territoriale_zugehoerigkeit: Gehörte von jeher zu Mainz
+  staat_ab_1814: Königreich Bayern
+GUELTIG_AB: Unbekannt
+GUELTIG_BIS: Gegenwart
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Hösbach
+QUELLE: https://www.hoesbach.de/markt-hoesbach/zahlen-daten-fakten/strukturdaten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  landkreis: Aschaffenburg
+  regierungsbezirk: Unterfranken
+  staat: Freistaat Bayern
+  region: Vorspessart
+  entfernung_aschaffenburg_km: 5
+  entfernung_wuerzburg_km: 70
+  entfernung_frankfurt_am_main_km: 50
+  hoehenlage_min_m: 150
+  hoehenlage_max_m: 408
+  eingegliederte_gemeinden_1972: Wenighösbach, Feldkahl
+  eingegliederte_gemeinden_1978: Rottenberg, Winzenhohl
+  markterhebung_datum: 29. September 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Hösbach
+QUELLE: https://www.hoesbach.de/markt-hoesbach/ortsteile/hoesbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  name_erstmalige_erwaehnung_jahr: 1189
+  name_erstmalige_erwaehnung_kontext: Herman von Hostebach ist Zeuge in einem Rechtsgeschäft für das Stift St. Peter und Alexander in Aschaffenburg
+  pfarrei_eingliederung_abtei_schmerlenbach_jahr: 1218
+  hauptabgabe_mainzer_erzbischof_menge: 8 Malter Hafer
+  hauptabgabe_mainzer_erzbischof_rhythmus: jährlich
+  zugehoerigkeit_zweite_haelfte_13_jh: Centa Ascaffinburg des Mainzer Oberstifts
+  herrscher_zweite_haelfte_13_jh: Mainzer Erzbistum
+  rienecker_grafen_rechte_vorhanden: true
+  forstorganisation_ab_jahr: 1350
+  forstorganisation_ort: Hösbach
+  forstorganisation_region: Spessart
+  reitende_foerster_zahl: 6
+  forsthuben_beschreibung: Große Höfe, die den Ort Hösbach damals beherrschen
+  bewohner_beginn_30jaehriger_krieg_status: Nur noch Leibeigene des Mainzer Erzbischofs
+  leibeigenschaft_loeskauf_jahr: 1804
+  auswirkung_30jaehriger_krieg_haeuser_vorher: 75
+  auswirkung_30jaehriger_krieg_haeuser_nachher: 17
+  auswirkung_30jaehriger_krieg_maenner_nachher: 14
+  auswirkung_30jaehriger_krieg_dokument_jahr: 1651
+  schulmeister_ab_jahr: 1651
+  schulmeister_name: Heinrich Fleck
+  kirche_barockbau_jahr: 1762
+  pfarrei_eigenstaendigkeit_ab_jahr: 1783
+  hofreithen_um_1750_zahl: 53
+  hofreithen_durchschnittliche_groesse_m2: 360
+  berufsgruppen_nebenerwerbsbauern: Leineweber, Schneider
+  haeuser_im_jahr_1814: 128
+  herdstellen_im_jahr_1814: 175
+  einwohner_im_jahr_1814: 1020
+  entwicklung_19_jh: Wandelt sich in weitgehend nach Aschaffenburg orientierte Arbeitersiedlung
+  auswanderung_nach_amerika: true
+  industriegründungen_schwerpunkt: Ortsteil Bahnhof
+  arzt_ab_jahr: 1863
+  tierarzt_ab_jahr: 1908
+  zahnarzt_ab_jahr: 1922
+  apotheke_ab_jahr: 1884
+  petroleumlaternen_ab_jahr: 1889
+  petroleumlaternen_zahl: 6
+  elektr_strassenbeleuchtung_ab_jahr: 1909
+  kindergarten_ab_jahr: 1901
+  kirche_neuerbau_einweihung_datum: 12. August 1906
+  wasserversorgung_erste_ab_jahr: 1907
+  wasserversorgung_erste_beschreibung: Leitung in die Vorgangsiedlung
+  wasserversorgung_gesamtort_ab_jahr: 1929
+  autobahnbauabschnitt_einweihung_datum: 09. Juli 1958
+  autobahnbauabschnitt_strecke: Stockstadt – Hösbach
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1958
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hösbach-Bahnhof
+ORTSTEIL_BEZUG: Hösbach-Bahnhof
+QUELLE: https://www.hoesbach.de/markt-hoesbach/ortsteile/hoesbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bahnhof_erste_zug_datum: 01. August 1881
+  bahnhof_rolle: Ausgangspunkt für das erste Hösbacher Industrieviertel
+  industrie_saegewerk_gruendung_jahr: 1872
+  industrie_saegewerk_gruender: Sebastian Vorgang
+  industrie_kalköfen_errichtung_jahr: 1888
+  industrie_kalköfen_gruender: Josef Vorgang
+  industrie_kalkwerk_sophienhuette_gruendung_jahr: 1889
+  industrie_kalkwerk_sophienhuette_name: Sophienhütte
+  industrie_dampfziegelei_gruendung_jahr: 1895
+  industrie_dampfziegelei_name: Josephshütte
+  industrie_kalkwerk_eigentuemer_ab_1899: Aschaffenburger Kalkwerke vormals Hein und Stenger
+  industrie_drahtseilbahn_errichtung_jahr: 1909
+  industrie_drahtseilbahn_zielort: Steinbruch Rottenberg
+  industrie_winterschule_errichtung_jahr: 1900
+  industrie_winterschule_finanzierung: Privatmitteln der Bahnhöfer
+  industrie_schulhaus_errichtung_jahr: 1923
+  industrie_apfelweinkelterei_errichtung_jahr: 1909
+  industrie_apfelweinkelterei_name: Grünewald
+  industrie_furnierwerk_errichtung_jahr: 1912
+  industrie_furnierwerk_name: Vorgang
+  industrie_furnierwerk_standort: Gelände der aufgelassenen Josephshütte
+  industrie_lebkuchen_zuckerwarenfabrik_gruendung_jahr: 1927
+  industrie_lebkuchen_zuckerwarenfabrik_name: Hasenstab
+  industrie_schuhfabrik_gruendung_jahr: 1948
+  industrie_schuhfabrik_name: Gebr. Seibel später ADA
+  industrie_sophienhuette_verkauf_jahr: 1956
+  industrie_sophienhuette_kaeufer: Autobahnamt
+  industrie_asc_ansiedlung_jahr: 1979
+  industrie_asc_name: ASC Audio System Componenten
+  industrie_asc_standort: Gebäude der aufgelassenen Schuhfabrik
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_BIS: 1979
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Feldkahl
+ORTSTEIL_BEZUG: Feldkahl
+QUELLE: https://www.hoesbach.de/markt-hoesbach/ortsteile/feldkahl | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeinderatsbeschluss_fusion_1971_04_14: true
+  gemeinderatsbeschluss_fusion_bestaetigung_1971_09_27: true
+  gemeinderatsbeschluss_fusion_bestaetigung_1972_03_14: true
+  eingemeindung_datum: 01. Juli 1972
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rottenberg
+ORTSTEIL_BEZUG: Rottenberg
+QUELLE: https://www.hoesbach.de/markt-hoesbach/ortsteile/rottenberg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_geplant_1971_datum: 01. Juli 1971
+  gemeinderatsbeschluss_fusion_1971_04_03: true
+  gemeinderatsbeschluss_fusion_feldkahl_eichenberg_1971_04_06: true
+  gemeinderatsbeschluss_zusammenlegung_1971_04_14: true
+  testabstimmung_1971_05_07: Mehrheit für Anschluss an Hösbach
+  buergerbefragung_1971_11_15_fuer_selbstaendigkeit: 551
+  buergerbefragung_1971_11_15_insgesamt: 691
+  buergerbefragung_1971_11_15_prozent_selbstaendigkeit: 80
+  gemeinderatsbeschluss_ruecknahme_1971_11_19: true
+  buergerbefragung_1973_04_fuer_hoesbach_prozent: 90
+  buergerbefragung_1973_04_fuer_sailauf_prozent: 10
+  gemeinderatsbeschluss_eingliederung_1975_11_15_datum: 01. Mai 1978
+  gemeindeteilname_erhalten_rottenberg: true
+  rechtsverordnung_1976_04_12: true
+  eingemeindung_datum: 01. Mai 1978
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wenighösbach
+ORTSTEIL_BEZUG: Wenighösbach
+QUELLE: https://www.hoesbach.de/markt-hoesbach/ortsteile/wenighoesbach | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeinderatsbeschluss_1971_04_14_verhaeltnis: 5 zu 3 Stimmen für Eingliederung
+  buergerbefragung_1971_06_06_fuer_prozent: 38
+  buergerbefragung_1971_06_06_gegen_prozent: 58
+  gemeinderatsbeschluss_1971_09_25_verhaeltnis: 7 zu 1 Stimmen bei einer Enthaltung
+  gemeinderatsbeschluss_1971_09_25_entscheidung_datum: 01. Januar 1972
+  gemeinderatsbeschluss_1971_09_25_begruendung: gegen das Abstimmungsergebnis der Bürgerbefragung vom 06. Juni 1971
+  regierung_unterfranken_entscheidung_1971_11_24: true
+  eingemeindung_datum: 01. Januar 1972
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Winzenhohl
+ORTSTEIL_BEZUG: Winzenhohl
+QUELLE: https://www.hoesbach.de/markt-hoesbach/ortsteile/winzenhohl | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gemeinderatsbeschluss_1973_04_27_ungeteilter_bestand: true
+  gemeinderatsbeschluss_anschluss_hoesbach_position: befürwortet
+  buergerversammlung_1975_08_21_entscheidung: Gemeinde soll ungeteilt bleiben
+  gemeinderatsbeschluss_1975_09_08_ungeteilter_anschluss: true
+  amtsblatt_veroeffentlichung_1976_04_13: true
+  eingemeindung_datum: 01. Mai 1978
+  gemeindefreies_gebiet_schmerlenbacher_wald_eingemeindung_1980_01_01: true
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Abtei Schmerlenbach
+ORTSTEIL_BEZUG: Winzenhohl
+QUELLE: https://www.hoesbach.de/markt-hoesbach/ortsteile/winzenhohl | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1218
+  gruender_familie: Kugelberger
+  gruender_grund: Sühne für in Sünde gezeugte Söhne
+  ordensform_initial: Zisterzienserinnenkloster
+  initial_name: Im Hagen
+  name_ab_1240: Schmerlenbach
+  ordensform_ab_1254: Benediktinerinnenkloster
+  unterstellung: Erzbischof von Mainz
+  vorechte: Vogtfreiheit, freie Abtswahl, Steuer- und Abgabenfreiheit
+  pfarrei_hoesbach_eingliederung: true
+  erste_nonnen_herkunft: Kloster Wechterswinkel in der Rhön
+  besitzungen_ortschaften_zahl: 96
+  besitzungen_geografisch: zwischen Würzburg und Frankfurt
+  nonnen_zahl_edikt_1332_max: 32
+  religiose_blueetezeit_um: 1500
+  religiose_blueetezeit_unter: Elisabeth von Wertheim
+  niedergang_30jaehriger_krieg: 1618-1648
+  niedergang_30jaehriger_krieg_folgen: Überfälle, Zerstörungen, Konvent flieht nach Speyer, innere Streitigkeiten, Misswirtschaft
+  finanzielle_erholung_um: 1700
+  bauaktivitaet_um_1700_unter: Franziska von Münchhausen
+  pfarreirechte_hoesbach_verlust: 1755
+  niedergang_periode: 1755-1800
+  aufloesung_beginn: 1803
+  aufloesung_durch: Karl Theodor v. Dalberg
+  aufloesung_prozess: schrittweise
+  klosterkirche_neunutzung: Pfarrkirche der neuen Pfarrei Winzenhohl
+  grundbesitz_destination_1: Priesterseminar Aschaffenburg
+  grundbesitz_destination_2: Priesterseminar Würzburg
+  grundbesitz_struktur: Seminarfonds
+  nutzung_ab_1985: Bildungshaus der Diözese Würzburg
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Klosterkirche Schmerlenbach
+ORTSTEIL_BEZUG: Winzenhohl
+QUELLE: https://www.hoesbach.de/markt-hoesbach/ortsteile/winzenhohl | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  existenz_vor_1500: true
+  skizze_1813_kuenstler: Alexis Noel französischer Soldat
+  skizze_publikation: Voyage pittoreque et militaire en France et en Allemagne Paris 1817/18
+  restaurierung_1713_abtissin: Franziska von Münchhausen
+  restaurierung_1713_arbeiten: Neues Dach, Erweiterung Nonnenchor, Neugestaltung Fassaden, Hochaltar, Kanzel, Plattelung Fußboden
+  restaurierung_1713_dachziegel_boeden_floßholz: 3
+  restaurierung_1713_schieferdecker: Christophel Hejd
+  restaurierung_1713_glaser: Nicolay Buchberger
+  restaurierung_1713_hochaltar_maler: Johann Melchior Sell
+  restaurierung_1713_hochaltar_bildschnitzer: Sauer und Frau
+  seitenaltaere_errichtung_abtissin: Juliane v. Murach
+  seitenaltaere_errichtung_periode: 1734-1755
+  stuckierung_abtissin: Engelberta v. Rodenhausen
+  stuckierung_periode: 1758/59
+  stuckierung_handwerker: Meister Hürschler und Franz Staffle aus Neckarsulm
+  gefaehrdung_19_jh_grund: schlechter Baugrund
+  bauabschnitt_renovation_1867: Westfassadensanierung Turmbau
+  bauabschnitt_renovation_1867_grund: Versuch Wegsacken nach Westen aufzuhalten
+  innenraum_restaurierung_1898_1901_maler: Adalbert Hock aus Aschaffenburg
+  fresken_zustand_nach_restaurierung_1898_1901: Neumalerei im Charakter ursprünglicher Malerei
+  fresken_rest_alt: Martyrium der hl. Agatha
+  fresken_wappendarstellung_datum_neu: 1759
+  restaurierung_ab_1980: true
+  restaurierung_ab_1980_grund: schlechter Baugrund
+GUELTIG_AB: vor 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: pfarrei
+BEZEICHNUNG: Pfarrei Hösbach
+ORTSTEIL_BEZUG: Hösbach
+QUELLE: https://www.hoesbach.de/markt-hoesbach/ortsteile/winzenhohl | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Aus Muttergottespfarrei Aschaffenburg herausgelöst und der Abtei Schmerlenbach bei deren Gründung 1218 eingegliedert
+  abtei_rechte: Abtei darf Hösbacher Pfarrer bestellen durch Vorschlag an Aschaffenburger Stift
+  abtei_einnahmen: gesamter Hösbacher Zehnt
+  abtei_verpflichtungen: Seelsorge im Hösbacher Pfarrsprengel finanzieren
+  winzenhohl_gemeinde_zuordnung: Bewohner müssen nach Hösbach zur Kirche und werden dort begraben
+  vikarie_errichtung_1339_abtissin: Ottilie
+  vikarie_1339_bestellung: Abtei besoldet Vikar in Hösbach
+  vikarien_zahl_1532_zurueckgang: zu gering dotiert
+  vikarien_zusammenlegung_1532: Edikt Erzbischof Albrecht von Brandenburg
+  vikarien_zusammenlegung_1532_orte: Goldbach und Hösbach
+  streit_pfarreirechte_periode: 1690-1750
+  streit_kontrahenten: Abtei Schmerlenbach und Aschaffenburger Stift
+  eigenstaendigkeit_ab_jahr: 1783
+  eigenstaendigkeit_grund: Gründung eigener Pfarrei Hösbach endet Konflikt
+GUELTIG_AB: 1218
+GUELTIG_BIS: 1783
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: adelsfamilie
+BEZEICHNUNG: Kugelberger
+QUELLE: https://www.hoesbach.de/markt-hoesbach/ortsteile/winzenhohl | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namenursprung: Nach Burg im Aschafftal oberhalb Goldbach
+  chorherren_zahl: 6 männliche Mitglieder
+  chorherren_orte: Mainz, Aschaffenburg, Würzburg
+  kugelburg_bewohner_kinderlos: true
+  kugelburg_bewohner_patronatrecht_hoesbach: true
+  gruender_abtei_name: Gottfried
+  gruender_abtei_titel: Propst in Obermockstadt
+  gruender_abtei_motiv: Sühne für in Sünde gezeugte Söhne
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
