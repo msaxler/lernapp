@@ -18048,6 +18048,18 @@ window.QA_DATEN = {
 "164-offenbach": [
 "Kreisgrenze: Offenbach am Main ist kreisfrei, Langen gehört zum Landkreis Offenbach.",
 "Offenbach am Main hat dreieinhalbmal so viele Einwohner wie Langen."
+],
+"172-obertshausen": [
+"Langen hat anderthalbmal so viele Einwohner wie Obertshausen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Obertshausen die AfD, in Langen die SPD."
+],
+"173-kelsterbach": [
+"Kreisgrenze: Kelsterbach gehört zum Landkreis Groß-Gerau, Langen zum Landkreis Offenbach.",
+"Langen hat fast zweieinhalbmal so viele Einwohner wie Kelsterbach."
+],
+"174-raunheim": [
+"Kreisgrenze: Raunheim gehört zum Landkreis Groß-Gerau, Langen zum Landkreis Offenbach.",
+"Bundestagswahl 2025: In Raunheim lag die SPD vorn, in Langen die CDU."
 ]
 },
 "ags": "06438006",
@@ -18224,6 +18236,22 @@ window.QA_DATEN = {
 "164-offenbach": [
 "Kreisgrenze: Offenbach am Main ist kreisfrei, Neu-Isenburg gehört zum Landkreis Offenbach.",
 "Offenbach am Main hat dreieinhalbmal so viele Einwohner wie Neu-Isenburg."
+],
+"171-seligenstadt": [
+"Neu-Isenburg hat fast doppelt so viele Einwohner wie Seligenstadt.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Seligenstadt die AfD, in Neu-Isenburg die SPD."
+],
+"172-obertshausen": [
+"Neu-Isenburg hat anderthalbmal so viele Einwohner wie Obertshausen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Obertshausen die AfD, in Neu-Isenburg die SPD."
+],
+"173-kelsterbach": [
+"Kreisgrenze: Kelsterbach gehört zum Landkreis Groß-Gerau, Neu-Isenburg zum Landkreis Offenbach.",
+"Neu-Isenburg hat fast zweieinhalbmal so viele Einwohner wie Kelsterbach."
+],
+"174-raunheim": [
+"Kreisgrenze: Raunheim gehört zum Landkreis Groß-Gerau, Neu-Isenburg zum Landkreis Offenbach.",
+"Bundestagswahl 2025: In Raunheim lag die SPD vorn, in Neu-Isenburg die CDU."
 ]
 },
 "ags": "06438009",
@@ -18438,6 +18466,14 @@ window.QA_DATEN = {
 "164-offenbach": [
 "Frankfurt am Main hat fast sechsmal so viele Einwohner wie Offenbach am Main.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Offenbach am Main die SPD, in Frankfurt am Main die Grünen."
+],
+"172-obertshausen": [
+"Kreisgrenze: Obertshausen gehört zum Landkreis Offenbach, Frankfurt am Main ist kreisfrei.",
+"Frankfurt am Main hat rund 30-mal so viele Einwohner wie Obertshausen."
+],
+"173-kelsterbach": [
+"Kreisgrenze: Kelsterbach gehört zum Landkreis Groß-Gerau, Frankfurt am Main ist kreisfrei.",
+"Frankfurt am Main hat rund 45-mal so viele Einwohner wie Kelsterbach."
 ]
 },
 "ags": "06412000",
@@ -18667,6 +18703,17 @@ window.QA_DATEN = {
 "62-oppenheim": [
 "Landesgrenze: Oppenheim liegt in Rheinland-Pfalz, Rüsselsheim in Hessen.",
 "Rüsselsheim hat neunmal so viele Einwohner wie Oppenheim."
+],
+"173-kelsterbach": [
+"Rüsselsheim hat viermal so viele Einwohner wie Kelsterbach."
+],
+"174-raunheim": [
+"Bundestagswahl 2025: In Raunheim lag die SPD vorn, in Rüsselsheim die CDU.",
+"Rüsselsheim hat fast viereinhalbmal so viele Einwohner wie Raunheim."
+],
+"175-niedernhausen": [
+"Kreisgrenze: Niedernhausen gehört zum Rheingau-Taunus-Kreis, Rüsselsheim zum Landkreis Groß-Gerau.",
+"Rüsselsheim hat gut viereinhalbmal so viele Einwohner wie Niedernhausen."
 ],
 "44-frankfurt": [
 "Frankfurt hat mehr als elfmal so viele Einwohner wie Rüsselsheim.",
@@ -18908,6 +18955,14 @@ window.QA_DATEN = {
 "62-oppenheim": [
 "Landesgrenze: Oppenheim liegt in Rheinland-Pfalz, Weiterstadt in Hessen.",
 "Weiterstadt hat gut dreieinhalbmal so viele Einwohner wie Oppenheim."
+],
+"173-kelsterbach": [
+"Kreisgrenze: Kelsterbach gehört zum Landkreis Groß-Gerau, Weiterstadt zum Landkreis Darmstadt-Dieburg.",
+"Weiterstadt hat gut anderthalbmal so viele Einwohner wie Kelsterbach."
+],
+"174-raunheim": [
+"Kreisgrenze: Raunheim gehört zum Landkreis Groß-Gerau, Weiterstadt zum Landkreis Darmstadt-Dieburg.",
+"Bundestagswahl 2025: In Raunheim lag die SPD vorn, in Weiterstadt die CDU."
 ]
 },
 "ags": "06432023",
@@ -19147,6 +19202,13 @@ window.QA_DATEN = {
 "144-guntersblum": [
 "Landesgrenze: Guntersblum liegt in Rheinland-Pfalz, Groß-Gerau in Hessen.",
 "Groß-Gerau hat gut sechsmal so viele Einwohner wie Guntersblum."
+],
+"173-kelsterbach": [
+"Groß-Gerau hat anderthalbmal so viele Einwohner wie Kelsterbach."
+],
+"174-raunheim": [
+"Bundestagswahl 2025: In Raunheim lag die SPD vorn, in Groß-Gerau die CDU.",
+"Groß-Gerau hat gut anderthalbmal so viele Einwohner wie Raunheim."
 ]
 },
 "ags": "06433006",
@@ -19403,6 +19465,17 @@ window.QA_DATEN = {
 "62-oppenheim": [
 "Landesgrenze: Oppenheim liegt in Rheinland-Pfalz, Bischofsheim in Hessen.",
 "Bischofsheim hat fast doppelt so viele Einwohner wie Oppenheim."
+],
+"173-kelsterbach": [
+"Kelsterbach hat rund 3.700 Einwohner mehr als Bischofsheim."
+],
+"174-raunheim": [
+"Bundestagswahl 2025: In Raunheim lag die SPD vorn, in Bischofsheim die CDU.",
+"Raunheim hat rund 2.100 Einwohner mehr als Bischofsheim."
+],
+"175-niedernhausen": [
+"Kreisgrenze: Niedernhausen gehört zum Rheingau-Taunus-Kreis, Bischofsheim zum Landkreis Groß-Gerau.",
+"Niedernhausen und Bischofsheim sind fast gleich groß: rund 14.000 und 13.000 Einwohner."
 ]
 },
 "ags": "06433002",
@@ -19645,6 +19718,18 @@ window.QA_DATEN = {
 "62-oppenheim": [
 "Kreisgrenze: Oppenheim gehört zum Landkreis Mainz-Bingen, Mainz ist kreisfrei.",
 "Bundestagswahl 2025: In Oppenheim lag die CDU vorn, in Mainz die Grünen."
+],
+"173-kelsterbach": [
+"Landesgrenze: Kelsterbach liegt in Hessen, Mainz in Rheinland-Pfalz.",
+"Bundestagswahl 2025: In Kelsterbach lag die CDU vorn, in Mainz die Grünen."
+],
+"174-raunheim": [
+"Landesgrenze: Raunheim liegt in Hessen, Mainz in Rheinland-Pfalz.",
+"Bundestagswahl 2025: In Raunheim lag die SPD vorn, in Mainz die Grünen."
+],
+"175-niedernhausen": [
+"Landesgrenze: Niedernhausen liegt in Hessen, Mainz in Rheinland-Pfalz.",
+"Bundestagswahl 2025: In Niedernhausen lag die CDU vorn, in Mainz die Grünen."
 ]
 },
 "ags": "07315000",
@@ -19879,6 +19964,14 @@ window.QA_DATEN = {
 "Landesgrenze: Nackenheim liegt in Rheinland-Pfalz, Wiesbaden in Hessen.",
 "Wiesbaden hat rund 55-mal so viele Einwohner wie Nackenheim."
 ],
+"174-raunheim": [
+"Kreisgrenze: Raunheim gehört zum Landkreis Groß-Gerau, Wiesbaden ist kreisfrei.",
+"Bundestagswahl 2025: In Raunheim lag die SPD vorn, in Wiesbaden die CDU."
+],
+"175-niedernhausen": [
+"Kreisgrenze: Niedernhausen gehört zum Rheingau-Taunus-Kreis, Wiesbaden ist kreisfrei.",
+"Wiesbaden hat rund zwanzigmal so viele Einwohner wie Niedernhausen."
+],
 "176-idstein": [
 "Kreisgrenze: Idstein gehört zum Rheingau-Taunus-Kreis, Wiesbaden ist kreisfrei.",
 "Wiesbaden hat elfmal so viele Einwohner wie Idstein."
@@ -20101,6 +20194,10 @@ window.QA_DATEN = {
 "135-nackenheim": [
 "Landesgrenze: Nackenheim liegt in Rheinland-Pfalz, Walluf in Hessen.",
 "Nackenheim und Walluf sind fast gleich groß: rund 5.400 und 5.500 Einwohner."
+],
+"175-niedernhausen": [
+"Niedernhausen hat gut zweieinhalbmal so viele Einwohner wie Walluf.",
+"Niedernhausen liegt rund 170 Meter höher als Walluf."
 ]
 },
 "ags": "06439017",
@@ -26879,6 +26976,10 @@ window.QA_DATEN = {
 "Bodenheim hat fast doppelt so viele Einwohner wie Guntersblum.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Guntersblum die AfD, in Bodenheim die SPD."
 ],
+"174-raunheim": [
+"Landesgrenze: Raunheim liegt in Hessen, Bodenheim in Rheinland-Pfalz.",
+"Bundestagswahl 2025: In Raunheim lag die SPD vorn, in Bodenheim die CDU."
+],
 "54-alzey": [
 "Eine Nebenbahn verband früher Bodenheim mit Alzey.",
 "Bundestagswahl 2025: In Bodenheim wählten 89,6 Prozent, in Alzey 80,1."
@@ -27105,6 +27206,10 @@ window.QA_DATEN = {
 "144-guntersblum": [
 "Nackenheim hat rund 1.400 Einwohner mehr als Guntersblum.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Guntersblum die AfD, in Nackenheim die SPD."
+],
+"174-raunheim": [
+"Landesgrenze: Raunheim liegt in Hessen, Nackenheim in Rheinland-Pfalz.",
+"Bundestagswahl 2025: In Raunheim lag die SPD vorn, in Nackenheim die CDU."
 ]
 },
 "ags": "07339039",
@@ -27336,6 +27441,10 @@ window.QA_DATEN = {
 "145-osthofen": [
 "Kreisgrenze: Osthofen gehört zum Landkreis Alzey-Worms, Nierstein zum Landkreis Mainz-Bingen.",
 "Osthofen hat rund 1.600 Einwohner mehr als Nierstein."
+],
+"174-raunheim": [
+"Landesgrenze: Raunheim liegt in Hessen, Nierstein in Rheinland-Pfalz.",
+"Bundestagswahl 2025: In Raunheim lag die SPD vorn, in Nierstein die CDU."
 ],
 "54-alzey": [
 "Alzey hat knapp zweieinhalbmal so viele Einwohner wie Nierstein.",
@@ -27575,6 +27684,10 @@ window.QA_DATEN = {
 "145-osthofen": [
 "Kreisgrenze: Osthofen gehört zum Landkreis Alzey-Worms, Oppenheim zum Landkreis Mainz-Bingen.",
 "Osthofen hat rund 2.500 Einwohner mehr als Oppenheim."
+],
+"174-raunheim": [
+"Landesgrenze: Raunheim liegt in Hessen, Oppenheim in Rheinland-Pfalz.",
+"Bundestagswahl 2025: In Raunheim lag die SPD vorn, in Oppenheim die CDU."
 ]
 },
 "ags": "07339049",
@@ -36806,6 +36919,10 @@ window.QA_DATEN = {
 "Kreisgrenze: Kist gehört zum Landkreis Würzburg, Würzburg ist kreisfrei.",
 "Würzburg hat rund 50-mal so viele Einwohner wie Kist."
 ],
+"166-helmstadt": [
+"Kreisgrenze: Helmstadt gehört zum Landkreis Würzburg, Würzburg ist kreisfrei.",
+"Würzburg hat rund 55-mal so viele Einwohner wie Helmstadt."
+],
 "133-kranzberg": [
 "Bundestagswahl 2025: CSU in Kranzberg 42, in Würzburg 28,5 Prozent.",
 "Würzburg hat über dreißigmal so viele Einwohner wie Kranzberg."
@@ -37049,6 +37166,10 @@ window.QA_DATEN = {
 "165-kist": [
 "Veitshöchheim hat gut dreieinhalbmal so viele Einwohner wie Kist.",
 "Kist liegt rund 190 Meter höher als Veitshöchheim."
+],
+"166-helmstadt": [
+"Veitshöchheim hat fast viermal so viele Einwohner wie Helmstadt.",
+"Helmstadt hat gut doppelt so viel Fläche wie Veitshöchheim, aber weniger Einwohner."
 ]
 },
 "ags": "09679202",
@@ -37290,6 +37411,14 @@ window.QA_DATEN = {
 "165-kist": [
 "Kist und Thüngersheim sind fast gleich groß: rund 2.700 und 2.600 Einwohner.",
 "Kist liegt rund 200 Meter höher als Thüngersheim."
+],
+"166-helmstadt": [
+"Helmstadt und Thüngersheim sind fast gleich groß: rund 2.500 und 2.600 Einwohner.",
+"Helmstadt hat gut doppelt so viel Fläche wie Thüngersheim, aber weniger Einwohner."
+],
+"167-marktheidenfeld": [
+"Kreisgrenze: Marktheidenfeld gehört zum Landkreis Main-Spessart, Thüngersheim zum Landkreis Würzburg.",
+"Marktheidenfeld hat fast viereinhalbmal so viele Einwohner wie Thüngersheim."
 ]
 },
 "ags": "09679194",
@@ -37513,6 +37642,13 @@ window.QA_DATEN = {
 "165-kist": [
 "Kreisgrenze: Kist gehört zum Landkreis Würzburg, Zellingen zum Landkreis Main-Spessart.",
 "Zellingen hat fast zweieinhalbmal so viele Einwohner wie Kist."
+],
+"166-helmstadt": [
+"Kreisgrenze: Helmstadt gehört zum Landkreis Würzburg, Zellingen zum Landkreis Main-Spessart.",
+"Zellingen hat zweieinhalbmal so viele Einwohner wie Helmstadt."
+],
+"167-marktheidenfeld": [
+"Marktheidenfeld hat fast doppelt so viele Einwohner wie Zellingen."
 ]
 },
 "ags": "09677203",
@@ -37740,6 +37876,13 @@ window.QA_DATEN = {
 "165-kist": [
 "Kreisgrenze: Kist gehört zum Landkreis Würzburg, Himmelstadt zum Landkreis Main-Spessart.",
 "Kist hat gut anderthalbmal so viele Einwohner wie Himmelstadt."
+],
+"166-helmstadt": [
+"Kreisgrenze: Helmstadt gehört zum Landkreis Würzburg, Himmelstadt zum Landkreis Main-Spessart.",
+"Helmstadt hat gut anderthalbmal so viele Einwohner wie Himmelstadt."
+],
+"167-marktheidenfeld": [
+"Marktheidenfeld hat siebenmal so viele Einwohner wie Himmelstadt."
 ]
 },
 "ags": "09677142",
@@ -37939,6 +38082,9 @@ window.QA_DATEN = {
 "153-lohr": [
 "Lohr am Main und Karlstadt sind fast gleich groß: rund 15.000 und 15.000 Einwohner.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Lohr am Main die SPD, in Karlstadt die AfD."
+],
+"167-marktheidenfeld": [
+"Karlstadt hat rund 3.400 Einwohner mehr als Marktheidenfeld."
 ]
 },
 "ags": "09677148",
@@ -38372,6 +38518,14 @@ window.QA_DATEN = {
 "155-heigenbruecken": [
 "Kreisgrenze: Heigenbrücken gehört zum Landkreis Aschaffenburg, Lohr am Main zum Landkreis Main-Spessart.",
 "Lohr am Main hat fast siebenmal so viele Einwohner wie Heigenbrücken."
+],
+"167-marktheidenfeld": [
+"Lohr am Main hat rund 3.700 Einwohner mehr als Marktheidenfeld.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Marktheidenfeld die AfD, in Lohr am Main die SPD."
+],
+"169-weibersbrunn": [
+"Kreisgrenze: Weibersbrunn gehört zum Landkreis Aschaffenburg, Lohr am Main zum Landkreis Main-Spessart.",
+"Lohr am Main hat gut achtmal so viele Einwohner wie Weibersbrunn."
 ]
 },
 "ags": "09677155",
@@ -38563,6 +38717,10 @@ window.QA_DATEN = {
 "156-laufach": [
 "Kreisgrenze: Laufach gehört zum Landkreis Aschaffenburg, Partenstein zum Landkreis Main-Spessart.",
 "Laufach hat fast doppelt so viele Einwohner wie Partenstein."
+],
+"169-weibersbrunn": [
+"Kreisgrenze: Weibersbrunn gehört zum Landkreis Aschaffenburg, Partenstein zum Landkreis Main-Spessart.",
+"Partenstein hat anderthalbmal so viele Einwohner wie Weibersbrunn."
 ]
 },
 "ags": "09677170",
@@ -38781,6 +38939,9 @@ window.QA_DATEN = {
 "159-aschaffenburg": [
 "Kreisgrenze: Aschaffenburg ist kreisfrei, Heigenbrücken gehört zum Landkreis Aschaffenburg.",
 "Aschaffenburg hat rund 35-mal so viele Einwohner wie Heigenbrücken."
+],
+"169-weibersbrunn": [
+"Heigenbrücken hat rund 400 Einwohner mehr als Weibersbrunn."
 ]
 },
 "ags": "09671126",
@@ -38996,6 +39157,13 @@ window.QA_DATEN = {
 "159-aschaffenburg": [
 "Kreisgrenze: Aschaffenburg ist kreisfrei, Laufach gehört zum Landkreis Aschaffenburg.",
 "Aschaffenburg hat fast fünfzehnmal so viele Einwohner wie Laufach."
+],
+"169-weibersbrunn": [
+"Laufach hat fast dreimal so viele Einwohner wie Weibersbrunn.",
+"Weibersbrunn liegt rund 180 Meter höher als Laufach."
+],
+"170-stockstadt": [
+"Stockstadt am Main hat gut anderthalbmal so viele Einwohner wie Laufach."
 ]
 },
 "ags": "09671139",
@@ -39234,6 +39402,17 @@ window.QA_DATEN = {
 "161-grosskrotzenburg": [
 "Landesgrenze: Großkrotzenburg liegt in Hessen, Hösbach in Bayern.",
 "Bundestagswahl 2025: In Großkrotzenburg lag die CDU vorn, in Hösbach die CSU."
+],
+"169-weibersbrunn": [
+"Hösbach hat siebenmal so viele Einwohner wie Weibersbrunn.",
+"Weibersbrunn liegt rund 210 Meter höher als Hösbach."
+],
+"170-stockstadt": [
+"Hösbach hat gut anderthalbmal so viele Einwohner wie Stockstadt am Main."
+],
+"171-seligenstadt": [
+"Landesgrenze: Seligenstadt liegt in Hessen, Hösbach in Bayern.",
+"Bundestagswahl 2025: In Seligenstadt lag die CDU vorn, in Hösbach die CSU."
 ]
 },
 "ags": "09671130",
@@ -39451,6 +39630,17 @@ window.QA_DATEN = {
 "161-grosskrotzenburg": [
 "Landesgrenze: Großkrotzenburg liegt in Hessen, Goldbach in Bayern.",
 "Bundestagswahl 2025: In Großkrotzenburg lag die CDU vorn, in Goldbach die CSU."
+],
+"169-weibersbrunn": [
+"Goldbach hat gut fünfmal so viele Einwohner wie Weibersbrunn.",
+"Weibersbrunn liegt rund 210 Meter höher als Goldbach."
+],
+"170-stockstadt": [
+"Goldbach hat rund 1.900 Einwohner mehr als Stockstadt am Main."
+],
+"171-seligenstadt": [
+"Landesgrenze: Seligenstadt liegt in Hessen, Goldbach in Bayern.",
+"Bundestagswahl 2025: In Seligenstadt lag die CDU vorn, in Goldbach die CSU."
 ]
 },
 "ags": "09671121",
@@ -39652,6 +39842,18 @@ window.QA_DATEN = {
 "161-grosskrotzenburg": [
 "Landesgrenze: Großkrotzenburg liegt in Hessen, Aschaffenburg in Bayern.",
 "Bundestagswahl 2025: In Großkrotzenburg lag die CDU vorn, in Aschaffenburg die CSU."
+],
+"169-weibersbrunn": [
+"Kreisgrenze: Weibersbrunn gehört zum Landkreis Aschaffenburg, Aschaffenburg ist kreisfrei.",
+"Aschaffenburg hat rund 40-mal so viele Einwohner wie Weibersbrunn."
+],
+"170-stockstadt": [
+"Kreisgrenze: Stockstadt am Main gehört zum Landkreis Aschaffenburg, Aschaffenburg ist kreisfrei.",
+"Aschaffenburg hat gut neunmal so viele Einwohner wie Stockstadt am Main."
+],
+"171-seligenstadt": [
+"Landesgrenze: Seligenstadt liegt in Hessen, Aschaffenburg in Bayern.",
+"Bundestagswahl 2025: In Seligenstadt lag die CDU vorn, in Aschaffenburg die CSU."
 ]
 },
 "ags": "09661000",
@@ -39855,6 +40057,17 @@ window.QA_DATEN = {
 "164-offenbach": [
 "Landesgrenze: Offenbach am Main liegt in Hessen, Kahl am Main in Bayern.",
 "Bundestagswahl 2025: In Offenbach am Main lag die CDU vorn, in Kahl am Main die CSU."
+],
+"170-stockstadt": [
+"Stockstadt am Main und Kahl am Main sind fast gleich groß: rund 7.900 und 8.500 Einwohner."
+],
+"171-seligenstadt": [
+"Landesgrenze: Seligenstadt liegt in Hessen, Kahl am Main in Bayern.",
+"Bundestagswahl 2025: In Seligenstadt lag die CDU vorn, in Kahl am Main die CSU."
+],
+"172-obertshausen": [
+"Landesgrenze: Obertshausen liegt in Hessen, Kahl am Main in Bayern.",
+"Bundestagswahl 2025: In Obertshausen lag die CDU vorn, in Kahl am Main die CSU."
 ]
 },
 "ags": "09671134",
@@ -40068,6 +40281,18 @@ window.QA_DATEN = {
 "164-offenbach": [
 "Kreisgrenze: Offenbach am Main ist kreisfrei, Großkrotzenburg gehört zum Main-Kinzig-Kreis.",
 "Offenbach am Main hat achtzehnmal so viele Einwohner wie Großkrotzenburg."
+],
+"170-stockstadt": [
+"Landesgrenze: Stockstadt am Main liegt in Bayern, Großkrotzenburg in Hessen.",
+"Bundestagswahl 2025: In Stockstadt am Main lag die CSU vorn, in Großkrotzenburg die CDU."
+],
+"171-seligenstadt": [
+"Kreisgrenze: Seligenstadt gehört zum Landkreis Offenbach, Großkrotzenburg zum Main-Kinzig-Kreis.",
+"Seligenstadt hat fast dreimal so viele Einwohner wie Großkrotzenburg."
+],
+"172-obertshausen": [
+"Kreisgrenze: Obertshausen gehört zum Landkreis Offenbach, Großkrotzenburg zum Main-Kinzig-Kreis.",
+"Obertshausen hat dreieinhalbmal so viele Einwohner wie Großkrotzenburg."
 ]
 },
 "ags": "06435011",
@@ -40294,6 +40519,18 @@ window.QA_DATEN = {
 "164-offenbach": [
 "Offenbach am Main hat rund 35.000 Einwohner mehr als Hanau.",
 "Bundestagswahl 2025: Auf Platz zwei kam in Offenbach am Main die SPD, in Hanau die AfD."
+],
+"170-stockstadt": [
+"Landesgrenze: Stockstadt am Main liegt in Bayern, Hanau in Hessen.",
+"Bundestagswahl 2025: In Stockstadt am Main lag die CSU vorn, in Hanau die CDU."
+],
+"171-seligenstadt": [
+"Kreisgrenze: Seligenstadt gehört zum Landkreis Offenbach, Hanau ist kreisfrei.",
+"Hanau hat gut viereinhalbmal so viele Einwohner wie Seligenstadt."
+],
+"172-obertshausen": [
+"Kreisgrenze: Obertshausen gehört zum Landkreis Offenbach, Hanau ist kreisfrei.",
+"Hanau hat viermal so viele Einwohner wie Obertshausen."
 ]
 },
 "ags": "06435014",
@@ -40449,6 +40686,14 @@ window.QA_DATEN = {
 "164-offenbach": [
 "Kreisgrenze: Offenbach am Main ist kreisfrei, Maintal gehört zum Main-Kinzig-Kreis.",
 "Offenbach am Main hat dreieinhalbmal so viele Einwohner wie Maintal."
+],
+"171-seligenstadt": [
+"Kreisgrenze: Seligenstadt gehört zum Landkreis Offenbach, Maintal zum Main-Kinzig-Kreis.",
+"Maintal hat fast doppelt so viele Einwohner wie Seligenstadt."
+],
+"172-obertshausen": [
+"Kreisgrenze: Obertshausen gehört zum Landkreis Offenbach, Maintal zum Main-Kinzig-Kreis.",
+"Maintal hat anderthalbmal so viele Einwohner wie Obertshausen."
 ]
 },
 "ags": "06435019",
@@ -40674,6 +40919,18 @@ window.QA_DATEN = {
 "163-maintal": [
 "Einwohner: Offenbach hat mehr als dreimal so viele wie Maintal.",
 "Bundestagswahl 2025: Linke in Offenbach 17,3, in Maintal 9,3 Prozent."
+],
+"171-seligenstadt": [
+"Kreisgrenze: Seligenstadt gehört zum Landkreis Offenbach, Offenbach am Main ist kreisfrei.",
+"Offenbach am Main hat gut sechsmal so viele Einwohner wie Seligenstadt."
+],
+"172-obertshausen": [
+"Kreisgrenze: Obertshausen gehört zum Landkreis Offenbach, Offenbach am Main ist kreisfrei.",
+"Offenbach am Main hat gut fünfmal so viele Einwohner wie Obertshausen."
+],
+"173-kelsterbach": [
+"Kreisgrenze: Kelsterbach gehört zum Landkreis Groß-Gerau, Offenbach am Main ist kreisfrei.",
+"Offenbach am Main hat achtmal so viele Einwohner wie Kelsterbach."
 ]
 },
 "ags": "06413000",
@@ -40851,6 +41108,10 @@ window.QA_DATEN = {
 "Kreisgrenze: Himmelstadt gehört zum Landkreis Main-Spessart, Kist zum Landkreis Würzburg.",
 "Kist hat gut anderthalbmal so viele Einwohner wie Himmelstadt."
 ],
+"166-helmstadt": [
+"Helmstadt und Kist sind fast gleich groß: rund 2.500 und 2.700 Einwohner.",
+"Helmstadt hat sechsmal so viel Fläche wie Kist, aber weniger Einwohner."
+],
 "164-offenbach": [
 "Offenbach am Main zählt fünfzigmal so viele Einwohner wie Kist."
 ]
@@ -40858,6 +41119,2321 @@ window.QA_DATEN = {
 "ags": "09679154",
 "ortsteil": false,
 "km_vom_vorigen": 86.7
+},
+{
+"slug": "166-helmstadt",
+"name": "Helmstadt",
+"lat": 49.76667,
+"lon": 9.71667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Helmstadt",
+"steckbrief": "Marktgemeinde mit rund 2.500 Einwohnern, 17 km westlich von Würzburg.",
+"frage": "Am Rathausplatz erinnert ein Denkmal an Hans Böhm, den „Pfeifer von Niklashausen“. Warum wurde er 1476 in Würzburg verbrannt?",
+"optionen": [
+"Er predigte gegen geistliche und weltliche Herrschaft.",
+"Er hatte Kaufleute auf der Landstraße ausgeraubt.",
+"Er hatte Gift in einen Brunnen geschüttet.",
+"Er hatte einen Nachbarn im Streit erschlagen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Feuertod klingt nach einem gemeinen Verbrechen, etwa Raub oder Mord. Doch Hans Böhm wurde wegen seiner aufrührerischen Predigten wider die geistliche und weltliche Herrschaft als Ketzer und Zauberer verurteilt und auf dem Schottenanger in Würzburg verbrannt. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.helmstadt-ufr.de/ueber-uns/geschichte; Neue Deutsche Biographie",
+"faktencheck": "korrigiert",
+"id": "166-helmstadt/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Helmstadt",
+"steckbrief": "Marktgemeinde im Landkreis Würzburg, 17 km westlich von Würzburg.",
+"frage": "Wie viele Einwohner hat die Marktgemeinde Helmstadt?",
+"optionen": [
+"unter 1.500",
+"1.500 bis unter 3.000",
+"3.000 bis unter 5.000",
+"5.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Titel Marktgemeinde lässt an eine kleine Stadt denken. Helmstadt zählte Ende 2025 aber 2.517 Einwohner. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "166-helmstadt/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Helmstadt",
+"steckbrief": "Marktgemeinde mit rund 2.500 Einwohnern, 17 km westlich von Würzburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Helmstadt blieb in der Reformationszeit durchgehend katholisch.",
+"Helmstadter Bauern beteiligten sich im Bauernkrieg am Überfall auf das Kloster Holzkirchen.",
+"Helmstadt wurde einst dem Kloster Fulda geschenkt."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Dorf so nah am katholischen Würzburg klingt das plausibel. Doch Helmstadt wurde in der Reformation evangelisch und erst unter dem Würzburger Fürstbischof Julius Echter wieder katholisch. Die Bauern plünderten im Bauernkrieg auch das Pfarrhaus. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse",
+"faktencheck": "korrigiert",
+"id": "166-helmstadt/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Helmstadt",
+"steckbrief": "Ländliche Marktgemeinde mit rund 2.500 Einwohnern, 17 km westlich von Würzburg.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Helmstadt bei den Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"GRÜNE",
+"CSU",
+"AfD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Hinter der CSU vermuten viele die SPD, die lange zweite Volkspartei war. In Helmstadt kam aber die AfD auf 16,7 Prozent der Zweitstimmen und damit auf Platz zwei hinter der CSU. Grüne und SPD lagen deutlich darunter. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "166-helmstadt/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Helmstadt",
+"steckbrief": "Marktgemeinde mit rund 2.500 Einwohnern, 17 km westlich von Würzburg.",
+"frage": "1866 wurde der spätere König Ludwig III. von Bayern bei Helmstadt schwer verwundet. In welcher Rolle war er dort?",
+"optionen": [
+"Er diente als Ordonnanzoffizier seines Vaters.",
+"Er führte als Kronprinz die bayerische Armee.",
+"Er kämpfte als einfacher Soldat ohne Rang.",
+"Er beobachtete die Schlacht nur als Gast."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein künftiger König an der Spitze des Heeres klingt naheliegend. Doch Ludwig war damals Prinz und diente als Ordonnanzoffizier, also Überbringer von Befehlen, seines Vaters, des Prinzen Luitpold. Im Ehringstal auf Helmstadter Gemarkung wurde er schwer verwundet. Ein Denkmal am Ortsausgang Richtung Würzburg erinnert daran. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.helmstadt-ufr.de/ueber-uns/geschichte",
+"faktencheck": "bestätigt",
+"id": "166-helmstadt/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Helmstadt",
+"steckbrief": "Marktgemeinde mit rund 2.500 Einwohnern, 17 km westlich von Würzburg.",
+"frage": "Wie weit ist es von Helmstadt in Luftlinie bis zur Landeshauptstadt München?",
+"optionen": [
+"unter 200 km",
+"200 bis unter 250 km",
+"250 bis unter 300 km",
+"300 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer die Fahrt über die Autobahn kennt, schätzt eher höher, denn die Straße macht Umwege. In Luftlinie liegt München 226 Kilometer von Helmstadt entfernt; Unterfranken ist eben Bayerns Nordwesten. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "166-helmstadt/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Helmstadt",
+"steckbrief": "Marktgemeinde mit rund 2.500 Einwohnern, 17 km westlich von Würzburg.",
+"frage": "Im August 1719 zerstörte ein Großbrand in Helmstadt 104 Gebäude und sämtliche Erntevorräte. Was löste ihn aus?",
+"optionen": [
+"In einer Schmiede sprang ein Funke über.",
+"Durchziehende Soldaten legten in Scheunen Feuer.",
+"Ein Blitz schlug in ein Haus ein.",
+"Ein Kind spielte im Stall mit Feuer."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Dorfbränden denkt man zuerst an offenes Feuer in Werkstatt oder Stall. Diesmal kam das Feuer vom Himmel: Ein Blitz schlug in ein Haus am Anger ein. Ein Propst schrieb damals, etliche seien vom Brand „ertappt und armselig gebraten“ worden. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse",
+"faktencheck": "korrigiert",
+"id": "166-helmstadt/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Helmstadt",
+"steckbrief": "Marktgemeinde mit rund 2.500 Einwohnern, 17 km westlich von Würzburg.",
+"frage": "Neben drei roten Rosen zeigt das Wappen von Helmstadt etwas Blaues, waagrecht liegend. Was ist das?",
+"optionen": [
+"Es ist eine Keule als Zeichen der Wehrhaftigkeit.",
+"Es ist der Stiel eines Werkzeugs.",
+"Es ist ein Grenzbalken zwischen zwei Herrschaften.",
+"Es ist ein Bach, der den Ort durchfließt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Waffe passt scheinbar gut in ein Wappen, und zeitweise wurde das Zeichen tatsächlich als Keule oder Helmeisen gedeutet. Gemeint ist aber ein Werkzeugstiel, alt „Helm“ oder „Halm“ genannt: ein redendes Zeichen für den Ortsnamen. Ein Schreiben hat das später klargestellt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.helmstadt-ufr.de/ueber-uns/wappen/das-wappen-von-helmstadt",
+"faktencheck": "bestätigt",
+"id": "166-helmstadt/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Helmstadt",
+"steckbrief": "Marktgemeinde mit rund 2.500 Einwohnern, 17 km westlich von Würzburg.",
+"frage": "Ostermontag 1945 befreiten amerikanische Truppen Helmstadt. Der Volkssturm hatte vorher Panzersperren aus Leiterwagen gebaut. Was wurde aus ihnen?",
+"optionen": [
+"Amerikanische Panzer schoben sie einfach beiseite.",
+"Der Volkssturm verteidigte sie bis zuletzt.",
+"Die Wehrmacht sprengte sie beim Abzug.",
+"Mitbürger entfernten sie in der Nacht."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Gegen Panzer hätten Leiterwagen wenig ausgerichtet, also liegt nahe, dass die Amerikaner sie einfach beiseiteschoben. So weit kam es nicht: Mitbürger entfernten die Sperren des Volkssturms, des Aufgebots aus Jugendlichen und älteren Männern, in der Nacht. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse",
+"faktencheck": "bestätigt",
+"id": "166-helmstadt/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Helmstadt",
+"steckbrief": "Marktgemeinde mit rund 2.500 Einwohnern, 17 km westlich von Würzburg; dazu gehört der Ortsteil Holzkirchhausen.",
+"frage": "Das Wappen des Ortsteils Holzkirchhausen zeigt eine Hirschkuh, deren Hals ein Pfeil durchbohrt. Wofür steht sie?",
+"optionen": [
+"Sie ist das Zeichen des Kirchenpatrons.",
+"Sie erinnert an ein altes Jagdrecht des Dorfs.",
+"Sie zeigt eine Sage von einem Wilderer.",
+"Sie steht für ein früheres Rittergeschlecht."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Pfeil und Wild erinnern an die Jagd, deshalb liegt ein altes Jagdrecht nahe. Doch die Hirschkuh ist das Zeichen des heiligen Ägidius, des Kirchenpatrons von Holzkirchhausen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.helmstadt-ufr.de/ueber-uns/wappen/das-wappen-von-holzkirchhausen",
+"faktencheck": "bestätigt",
+"id": "166-helmstadt/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "165-kist",
+"anschluss": [
+"Einwohner und Fläche: Kist hat mehr Einwohner auf viel weniger Fläche.",
+"Höhenlage: Kist liegt höher als Helmstadt."
+],
+"anschluesse": {
+"146-wuerzburg": [
+"Kreisgrenze: Würzburg ist kreisfrei, Helmstadt gehört zum Landkreis Würzburg.",
+"Würzburg hat rund 55-mal so viele Einwohner wie Helmstadt."
+],
+"147-veitshoechheim": [
+"Veitshöchheim hat fast viermal so viele Einwohner wie Helmstadt.",
+"Helmstadt hat gut doppelt so viel Fläche wie Veitshöchheim, aber weniger Einwohner."
+],
+"148-thuengersheim": [
+"Thüngersheim und Helmstadt sind fast gleich groß: rund 2.600 und 2.500 Einwohner.",
+"Helmstadt hat gut doppelt so viel Fläche wie Thüngersheim, aber weniger Einwohner."
+],
+"149-zellingen": [
+"Kreisgrenze: Zellingen gehört zum Landkreis Main-Spessart, Helmstadt zum Landkreis Würzburg.",
+"Zellingen hat zweieinhalbmal so viele Einwohner wie Helmstadt."
+],
+"150-himmelstadt": [
+"Kreisgrenze: Himmelstadt gehört zum Landkreis Main-Spessart, Helmstadt zum Landkreis Würzburg.",
+"Helmstadt hat gut anderthalbmal so viele Einwohner wie Himmelstadt."
+],
+"165-kist": [
+"Einwohner und Fläche: Kist hat mehr Einwohner auf viel weniger Fläche.",
+"Höhenlage: Kist liegt höher als Helmstadt."
+],
+"167-marktheidenfeld": [
+"Kreisgrenze: Marktheidenfeld gehört zum Landkreis Main-Spessart, Helmstadt zum Landkreis Würzburg.",
+"Marktheidenfeld hat viereinhalbmal so viele Einwohner wie Helmstadt."
+],
+"168-wertheim": [
+"Landesgrenze: Wertheim liegt in Baden-Württemberg, Helmstadt in Bayern.",
+"Bundestagswahl 2025: In Wertheim lag die CDU vorn, in Helmstadt die CSU."
+]
+},
+"ags": "09679144",
+"ortsteil": false,
+"km_vom_vorigen": 9.5
+},
+{
+"slug": "167-marktheidenfeld",
+"name": "Marktheidenfeld",
+"lat": 49.85,
+"lon": 9.6,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Marktheidenfeld",
+"steckbrief": "Stadt im Landkreis Main-Spessart mit rund 11.300 Einwohnern, 26 km westlich von Würzburg.",
+"frage": "Worauf geht der Namensteil „Heidenfeld“ vermutlich zurück?",
+"optionen": [
+"Das Feld war mit Heidekraut bewachsen.",
+"Auf dem Feld siedelten einst Heiden.",
+"Auf dem Feld lag ein heidnischer Opferplatz.",
+"Das Feld war nach einem Mann benannt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. „Heiden“ und „Heide“ stecken scheinbar im Namen, deshalb liegen Heidekraut oder heidnische Siedler nahe. Die Stadtgeschichte nennt etwas anderes: Der Name bedeutet vermutlich „Feld des Heidino“. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/",
+"faktencheck": "unsicher",
+"id": "167-marktheidenfeld/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Marktheidenfeld",
+"steckbrief": "Stadt im Landkreis Main-Spessart mit rund 11.300 Einwohnern, 26 km westlich von Würzburg.",
+"frage": "Wie groß ist das Stadtgebiet von Marktheidenfeld samt aller Stadtteile?",
+"optionen": [
+"unter 40 km²",
+"40 bis unter 60 km²",
+"60 bis unter 80 km²",
+"80 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer an die eingemeindeten Dörfer denkt, etwa Altfeld, Michelrieth oder Zimmern, schätzt die Fläche leicht zu groß. Das ganze Stadtgebiet misst 35,7 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046 (Altbestand staedte.json)",
+"faktencheck": "bestätigt",
+"id": "167-marktheidenfeld/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Marktheidenfeld",
+"steckbrief": "Stadt im Landkreis Main-Spessart mit rund 11.300 Einwohnern, 26 km westlich von Würzburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Marktheidenfeld war bis zur Gebietsreform Sitz eines Landkreises.",
+"Die Mainbrücke überstand den Zweiten Weltkrieg ohne Schaden.",
+"Fischer und Schiffer hatten hier einst eine eigene Zunft."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein eigener Landkreis wirkt bei dieser Stadtgröße unwahrscheinlich, stimmt aber: Erst die Gebietsreform löste den Landkreis Marktheidenfeld auf, die Stadt verlor ihren Kreissitz. Gelogen ist die Brücke: Die Mainbrücke wurde kurz vor Kriegsende gesprengt. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "167-marktheidenfeld/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Marktheidenfeld",
+"steckbrief": "Stadt im Landkreis Main-Spessart mit rund 11.300 Einwohnern, 26 km westlich von Würzburg.",
+"frage": "Wie hoch war die Wahlbeteiligung in Marktheidenfeld bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 78 %",
+"78 bis unter 86 %",
+"86 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer Kleinstädte für wahlmüde hält, tippt zu niedrig. Bei der Bundestagswahl 2025 beteiligten sich in Marktheidenfeld 82,8 Prozent der Wahlberechtigten; stärkste Partei wurde die CSU. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "167-marktheidenfeld/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Marktheidenfeld",
+"steckbrief": "Stadt im Landkreis Main-Spessart mit rund 11.300 Einwohnern, 26 km westlich von Würzburg.",
+"frage": "Im Gewölbekeller eines Weinhändlerhauses in Marktheidenfeld soll der Überlieferung nach etwas Besonderes entstanden sein. Was?",
+"optionen": [
+"Dort wurde der erste Bocksbeutel abgefüllt.",
+"Dort wurde der erste deutsche Traubensaft gepresst.",
+"Dort wurde der erste deutsche Kräuterlikör angesetzt.",
+"Dort wurde der erste deutsche Sekt hergestellt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In Franken denkt man beim Wein zuerst an den Bocksbeutel. Die Überlieferung erzählt anderes: Im Gewölbekeller des smalteblauen Hauses, das der Weinhändler Franz Valentin Franck erbaute, soll der erste deutsche Sekt hergestellt worden sein. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/",
+"faktencheck": "unsicher",
+"id": "167-marktheidenfeld/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Marktheidenfeld",
+"steckbrief": "Stadt im Landkreis Main-Spessart mit rund 11.300 Einwohnern, 26 km westlich von Würzburg.",
+"frage": "Wie viele Einwohner kommen in Marktheidenfeld rechnerisch auf einen Quadratkilometer Stadtgebiet?",
+"optionen": [
+"unter 400",
+"400 bis unter 700",
+"700 bis unter 1.000",
+"1.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Über 11.000 Einwohner klingen nach dichter Bebauung. Doch zur Stadt gehören auch ländliche Stadtteile wie das landwirtschaftlich geprägte Oberwittbach. Rechnerisch kommen deshalb nur 317 Einwohner auf einen Quadratkilometer. Richtig war 1.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "167-marktheidenfeld/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Marktheidenfeld",
+"steckbrief": "Stadt im Landkreis Main-Spessart mit rund 11.300 Einwohnern, 26 km westlich von Würzburg.",
+"frage": "Wie viele Einwohner zählte Marktheidenfeld am Ende des Dreißigjährigen Krieges?",
+"optionen": [
+"unter 300",
+"300 bis unter 800",
+"800 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer von der heutigen Stadt zurückrechnet, landet leicht zu hoch: Ein Ort mit eigenem Rathaus wirkt größer. Am Ende des Dreißigjährigen Krieges zählte Marktheidenfeld aber nur rund 500 Einwohner. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "167-marktheidenfeld/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Marktheidenfeld",
+"steckbrief": "Stadt im Landkreis Main-Spessart mit rund 11.300 Einwohnern, 26 km westlich von Würzburg.",
+"frage": "Sicher vor dem Jahr 855 gelangte Heidenfeld an das Kloster Holzkirchen. Zu welcher Abtei gehörte das Kloster zu dieser Zeit?",
+"optionen": [
+"Es gehörte zur Abtei Lorsch.",
+"Es gehörte zur Abtei Amorbach.",
+"Es gehörte zur Abtei Fulda.",
+"Es gehörte zur Abtei Ebrach."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an Klöster in Mainfranken denkt, kommt schnell auf andere Namen. Holzkirchen gehörte zu dieser Zeit aber zur Abtei Fulda. Fulda und die Propstei Holzkirchen waren auch in den heutigen Stadtteilen Altfeld, Michelrieth und Oberwittbach bestimmend. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "167-marktheidenfeld/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "166-helmstadt",
+"anschluss": [
+"Höhenlage: Helmstadt liegt über 130 Meter höher als Marktheidenfeld.",
+"Kreisgrenze: Helmstadt gehört zum Landkreis Würzburg, Marktheidenfeld zu Main-Spessart."
+],
+"anschluesse": {
+"148-thuengersheim": [
+"Kreisgrenze: Thüngersheim gehört zum Landkreis Würzburg, Marktheidenfeld zum Landkreis Main-Spessart.",
+"Marktheidenfeld hat fast viereinhalbmal so viele Einwohner wie Thüngersheim."
+],
+"149-zellingen": [
+"Marktheidenfeld hat fast doppelt so viele Einwohner wie Zellingen."
+],
+"150-himmelstadt": [
+"Marktheidenfeld hat siebenmal so viele Einwohner wie Himmelstadt."
+],
+"151-karlstadt": [
+"Karlstadt hat rund 3.400 Einwohner mehr als Marktheidenfeld."
+],
+"153-lohr": [
+"Lohr am Main hat rund 3.700 Einwohner mehr als Marktheidenfeld.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Lohr am Main die SPD, in Marktheidenfeld die AfD."
+],
+"166-helmstadt": [
+"Höhenlage: Helmstadt liegt über 130 Meter höher als Marktheidenfeld.",
+"Kreisgrenze: Helmstadt gehört zum Landkreis Würzburg, Marktheidenfeld zu Main-Spessart."
+],
+"168-wertheim": [
+"Landesgrenze: Wertheim liegt in Baden-Württemberg, Marktheidenfeld in Bayern.",
+"Bundestagswahl 2025: In Wertheim lag die CDU vorn, in Marktheidenfeld die CSU."
+],
+"169-weibersbrunn": [
+"Kreisgrenze: Weibersbrunn gehört zum Landkreis Aschaffenburg, Marktheidenfeld zum Landkreis Main-Spessart.",
+"Marktheidenfeld hat gut sechsmal so viele Einwohner wie Weibersbrunn."
+]
+},
+"ags": "09677157",
+"ortsteil": false,
+"km_vom_vorigen": 12.5
+},
+{
+"slug": "168-wertheim",
+"name": "Wertheim",
+"lat": 49.75,
+"lon": 9.51667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wertheim / Stadt mit rund 23.000 Einwohnern, 32 km westlich von Würzburg. / Der Spitze Turm an der Mainspitze war ein Wach- und Wartturm. Die Stadt Wertheim nennt zwei Gruppen, die dort zeitweise eingesperrt wurden. Welche? / 1. Gefangene Raubritter und Wegelagerer. / 2. Säumige Steuerzahler und Schuldner. / 3. Trunkenbolde und zänkische Weiber. / 4. Deserteure und Plünderer. — RÜCKSEITE: Du hattest [Option] getippt. Ein wehrhafter Turm lässt an schwere Verbrecher denken. Die Stadt nennt als Gefangene aber Trunkenbolde und zänkische Weiber. Aus dieser Zeit ist im Inneren das sogenannte Angstloch erhalten. Der ursprüngliche Eingang liegt hoch über dem Boden und war nur über eine Leiter erreichbar. Richtig war 3.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein wehrhafter Turm lässt an schwere Verbrecher denken. Eingesperrt wurden dort aber Trunkenbolde und zänkische Weiber. Aus dieser Zeit ist das Angstloch erhalten, eine Öffnung, durch die man Gefangene hinabließ. Der ursprüngliche Eingang liegt hoch über dem Boden und war nur über eine Leiter erreichbar. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, tourismus-wertheim.de/entdecken-und-erleben/kultur/stadtschoenheiten/",
+"faktencheck": "korrigiert",
+"id": "168-wertheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wertheim",
+"steckbrief": "Stadt mit rund 23.000 Einwohnern, 32 km westlich von Würzburg.",
+"frage": "Wie groß ist Wertheims gesamte Gemarkung, alle Ortschaften eingeschlossen?",
+"optionen": [
+"unter 40 km²",
+"40 bis unter 80 km²",
+"80 bis unter 120 km²",
+"120 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer mittelgroßen Stadt rechnet man mit einer kompakten Fläche. Doch zu Wertheim gehören viele eingemeindete Ortschaften, und sie machen den weitaus größten Teil der Gemarkung aus; große Teile sind Landschafts- oder Naturschutzgebiet. Zusammen kommen gut 138 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "168-wertheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Wertheim",
+"steckbrief": "Stadt mit rund 23.000 Einwohnern, 32 km westlich von Würzburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Wertheims Rathaus ging aus einem mittelalterlichen Klosterhof hervor.",
+"Bettingens Gewerbegebiet hat eine Brücke zu Wertheim Village.",
+"Der Stadtteil Wartberg entstand als Siedlung für Bergleute."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Rathaus im Klosterhof klingt erfunden, stimmt aber: Es ging aus dem mittelalterlichen Bronnbacher Klosterhof hervor. Auch die Brücke von Bettingen zum Gewerbegebiet mit Wertheim Village gibt es. Gelogen war Wartberg: Die Siedlung dort entstand für Offiziere, nicht für Bergleute. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.wertheim.de/leben-in-wertheim/portrait/stadtteile-und-ortschaften",
+"faktencheck": "bestätigt",
+"id": "168-wertheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wertheim",
+"steckbrief": "Baden-württembergische Stadt mit rund 23.000 Einwohnern, 32 km westlich von Würzburg.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Wertheim bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 35 %",
+"35 bis unter 45 %",
+"45 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Baden-Württemberg gilt als CDU-Land, viele erwarten deutlich mehr als ein Drittel. In Wertheim lag die CDU zwar vorn, kam aber nur auf 32 Prozent; die AfD folgte mit 25 Prozent. Stand: Bundestagswahl vom 23. Februar 2025, Zweitstimmen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "168-wertheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wertheim",
+"steckbrief": "Stadt mit rund 23.000 Einwohnern, 32 km westlich von Würzburg.",
+"frage": "Die Wertheimer Stadtgeschichte nennt eine erste Besiedlung im 7. Jahrhundert. Wo lag sie?",
+"optionen": [
+"Sie lag auf dem heutigen Burgberg.",
+"Sie lag direkt an der Mündung der Tauber.",
+"Sie lag im heutigen Kreuzwertheim.",
+"Sie lag im heutigen Stadtteil Bestenheid."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Burgberg und Flussmündung wirken wie der natürliche Ursprung der Stadt. Die Stadtgeschichte nennt als Ort der ersten Besiedlung jedoch Kreuzwertheim. Wertheim selbst erhielt später von König Heinrich II. das Marktrecht. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.wertheim.de/leben-in-wertheim/portrait/geschichte",
+"faktencheck": "unsicher",
+"id": "168-wertheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Wertheim",
+"steckbrief": "Stadt mit rund 23.000 Einwohnern, 32 km westlich von Würzburg.",
+"frage": "Zu welchem Landkreis gehört die Stadt Wertheim?",
+"optionen": [
+"Landkreis Main-Spessart",
+"Neckar-Odenwald-Kreis",
+"Landkreis Miltenberg",
+"Main-Tauber-Kreis"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Würzburg liegt nah, und gleich hinter der Stadtgrenze beginnt Bayern. Darum tippen viele auf einen bayerischen Kreis. Wertheim gehört aber zu Baden-Württemberg und dort zum Main-Tauber-Kreis. Richtig war 4.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "168-wertheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wertheim",
+"steckbrief": "Stadt an Main und Tauber mit rund 23.000 Einwohnern, 32 km westlich von Würzburg.",
+"frage": "Wertheim pflegt seit Jahrzehnten eine Patenschaft für ein Schiff namens MAIN. Was für ein Schiff ist es?",
+"optionen": [
+"Es ist ein Versorgungsschiff der Marine.",
+"Es ist ein Rettungskreuzer der Seenotretter.",
+"Es ist ein Fahrgastschiff einer Mainreederei.",
+"Es ist ein Schubboot der Wasserstraßenverwaltung."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Schiff namens MAIN lässt an den Fluss vor der Haustür denken, an Fahrgastschiffe oder Arbeitsboote. Tatsächlich ist der Tender MAIN ein Versorgungsschiff der Marine, das U-Boote unterstützt. Aus der Patenschaft ist über die Jahre mit regelmäßigen Besuchen eine echte Partnerschaft geworden. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.wertheim.de/leben-in-wertheim/portrait/partnerstaedte",
+"faktencheck": "bestätigt",
+"id": "168-wertheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wertheim",
+"steckbrief": "Stadt mit rund 23.000 Einwohnern, 32 km westlich von Würzburg.",
+"frage": "Die Burg Wertheim über der Stadt ist heute eine Ruine. Was zerstörte sie 1619 teilweise?",
+"optionen": [
+"Ein Blitz setzte die Burg in Brand.",
+"Eine Pulverexplosion zerstörte Teile der Burg.",
+"Ein Erdrutsch riss Teile vom Bergsporn.",
+"Aufständische Bauern legten in der Burg Feuer."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Burgruine denkt man an Feinde oder Feuer von außen. Teilzerstört wurde die Burg Wertheim aber durch eine Pulverexplosion. Im Dreißigjährigen Krieg wurde sie zudem beschossen. Heute gehört die Ruine der Stadt und ist ihr Wahrzeichen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, tourismus-wertheim.de/entdecken-und-erleben/kultur/stadtschoenheiten/",
+"faktencheck": "unsicher",
+"id": "168-wertheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wertheim",
+"steckbrief": "Stadt mit rund 23.000 Einwohnern, 32 km westlich von Würzburg.",
+"frage": "Zu Wertheims Partnerorten gehört das ungarische Csobánka. Welche besondere Verbindung nennt die Stadt?",
+"optionen": [
+"Wertheimer Winzer legten dort Weinberge an.",
+"Csobánka lieferte Sandstein für Wertheims Altstadt.",
+"Wertheimer Kaufleute gründeten dort eine Handelsniederlassung.",
+"Viele Vertriebene aus Csobánka zogen nach Wertheim."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wein, Stein und Handel sind die klassischen Fäden zwischen Städten, deshalb liegen sie nahe. Die Verbindung ist aber eine menschliche: Csobánka ist Herkunftsort zahlreicher Heimatvertriebener, und viele von ihnen siedelten sich nach dem Krieg in Wertheim an. Der Ort liegt wenige Kilometer von Szentendre, einer weiteren Partnerstadt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.wertheim.de/leben-in-wertheim/portrait/partnerstaedte",
+"faktencheck": "bestätigt",
+"id": "168-wertheim/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wertheim",
+"steckbrief": "Stadt mit rund 23.000 Einwohnern, 32 km westlich von Würzburg.",
+"frage": "Von etwa 1622 bis 1842 nutzten beide Konfessionen die Stiftskirche St. Marien. Wie war sie aufgeteilt?",
+"optionen": [
+"Die Konfessionen wechselten sich mit den Gottesdienstzeiten ab.",
+"Der Chor war katholisch, das Langhaus evangelisch.",
+"Das Langhaus war katholisch, der Chor evangelisch.",
+"Die Evangelischen durften nur die Emporen nutzen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre ein Wechsel nach Uhrzeit, wie man ihn von geteilten Räumen kennt. In Wertheim teilte man stattdessen den Raum: Der Chor war katholisch, das Langhaus evangelisch. Das endete mit der Vollendung der katholischen Pfarrkirche St. Venantius. Im Chor liegen Grabmäler der Wertheimer Grafen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, tourismus-wertheim.de/entdecken-und-erleben/kultur/stadtschoenheiten/",
+"faktencheck": "unsicher",
+"id": "168-wertheim/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "167-marktheidenfeld",
+"anschluss": [
+"Einwohner: Wertheim hat etwa doppelt so viele wie Marktheidenfeld.",
+"Fläche: Wertheim ist fast viermal so groß wie Marktheidenfeld."
+],
+"anschluesse": {
+"166-helmstadt": [
+"Landesgrenze: Helmstadt liegt in Bayern, Wertheim in Baden-Württemberg.",
+"Bundestagswahl 2025: In Helmstadt lag die CSU vorn, in Wertheim die CDU."
+],
+"167-marktheidenfeld": [
+"Einwohner: Wertheim hat etwa doppelt so viele wie Marktheidenfeld.",
+"Fläche: Wertheim ist fast viermal so groß wie Marktheidenfeld."
+]
+},
+"ags": "08128131",
+"ortsteil": false,
+"km_vom_vorigen": 12.6
+},
+{
+"slug": "169-weibersbrunn",
+"name": "Weibersbrunn",
+"lat": 49.93333,
+"lon": 9.36667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weibersbrunn",
+"steckbrief": "Die Gemeinde hat rund 1.800 Einwohner und liegt 45 km westlich von Würzburg.",
+"frage": "Weibersbrunn wurde 1706 im Hochspessart gegründet. Welchen Grund nennt die Ortsgeschichte dafür?",
+"optionen": [
+"Bergleute sollten dort eine Erzgrube betreiben.",
+"Dort sollte eine Glashütte entstehen.",
+"Soldaten sollten dort eine Festung bauen.",
+"An einer Heilquelle sollte ein Kurort entstehen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Endung „-brunn“ lässt an eine Quelle denken, vielleicht eine heilende. Doch Weibersbrunn entstand als Standort einer Glashütte der Kurmainzischen Spiegelmanufaktur. Handwerker und Arbeiterfamilien siedelten sich an, und der Ort wuchs rasch. Die Gemeinde nennt sich heute ehemaliges Glashüttendorf. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.weibersbrunn.de/gemeinde-weibersbrunn/geschichte",
+"faktencheck": "bestätigt",
+"id": "169-weibersbrunn/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Weibersbrunn",
+"steckbrief": "Die Gemeinde hat rund 1.800 Einwohner und liegt 45 km westlich von Würzburg.",
+"frage": "Weibersbrunn liegt mitten im Hochspessart. Wie hoch liegt der Ort über dem Meer?",
+"optionen": [
+"unter 200 Meter",
+"200 bis unter 300 Meter",
+"300 bis unter 450 Meter",
+"450 Meter und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. „Hochspessart“ klingt nach rauer Höhe, doch der Spessart ist ein eher niedriges Mittelgebirge. Weibersbrunn liegt je nach Quelle auf 354 bis 361 Metern, also klar in der Spanne von 300 bis unter 450 Metern. Richtig war 3.",
+"quelle": "Wikidata P2044; dewiki Infobox; GeoNames 2813176",
+"faktencheck": "bestätigt",
+"id": "169-weibersbrunn/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Weibersbrunn",
+"steckbrief": "Weibersbrunn liegt 45 km westlich von Würzburg und hat rund 1.800 Einwohner.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Rathaus war früher das Haus der Ordensschwestern.",
+"Die Pfarrei des Orts betreute anfangs auch Lichtenau.",
+"Ein früheres Schulhaus wich einer Erweiterung des Friedhofs."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ordensschwestern lebten tatsächlich im Ort, und große Gemeinschaftshäuser werden oft zum Rathaus. Doch das Rathaus sitzt im früheren Schulhaus an der Jakob-Gross-Straße, zusammen mit einem Kindergarten. Das einstige Schwesternhaus wird laut Ortsgeschichte zum Heimatmuseum umgebaut. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.weibersbrunn.de/gemeinde-weibersbrunn/geschichte",
+"faktencheck": "korrigiert",
+"id": "169-weibersbrunn/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Weibersbrunn",
+"steckbrief": "Das Spessartdorf mit rund 1.800 Einwohnern liegt 45 km westlich von Würzburg.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Weibersbrunn bei den Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"SPD",
+"CSU",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die CSU vorn, dahinter die SPD als alte Volkspartei: So hätte man früher getippt. In Weibersbrunn holte die AfD 20,2 Prozent der Zweitstimmen, die SPD nur 12,1 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "169-weibersbrunn/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weibersbrunn",
+"steckbrief": "Die Gemeinde hat rund 1.800 Einwohner und liegt 45 km westlich von Würzburg.",
+"frage": "Beim Autobahnanschluss 1959 sprach der damalige Bürgermeister vom Anschluss an die große weite Welt. Wie hieß er?",
+"optionen": [
+"Er hieß Gottlieb Daimler.",
+"Er hieß Karl Benz.",
+"Er hieß Wilhelm Maybach.",
+"Er hieß August Horch."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Lauter Autopioniere als Auswahl: Da vermutet man einen Scherz, und jeder Name wirkt gleich unwahrscheinlich. Doch Bürgermeister war damals wirklich ein Karl Benz, Namensvetter des Autobauers. Die Autobahn brachte dem Ort Aufschwung, neue Baugebiete und mehr Einwohner. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.weibersbrunn.de/gemeinde-weibersbrunn/geschichte",
+"faktencheck": "korrigiert",
+"id": "169-weibersbrunn/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Weibersbrunn",
+"steckbrief": "Die Spessartgemeinde mit rund 1.800 Einwohnern liegt 45 km westlich von Würzburg.",
+"frage": "In welchem Landkreis liegt Weibersbrunn?",
+"optionen": [
+"Landkreis Main-Spessart",
+"Landkreis Miltenberg",
+"Landkreis Aschaffenburg",
+"Main-Tauber-Kreis"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Spessart und Würzburg als nächste Großstadt lassen an den Landkreis Main-Spessart denken. Doch Weibersbrunn gehört zum Landkreis Aschaffenburg; nach Aschaffenburg sind es nur wenige Autobahnminuten. Richtig war 3.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "169-weibersbrunn/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weibersbrunn",
+"steckbrief": "Die Gemeinde hat rund 1.800 Einwohner und liegt 45 km westlich von Würzburg.",
+"frage": "Im Ortsteil Rohrbrunn gab es ein Wirtshaus, das durch den Film „Das Wirtshaus im Spessart“ berühmt wurde. Was wurde daraus?",
+"optionen": [
+"Es brannte im Krieg vollständig ab.",
+"Es wurde zum Rathaus der Gemeinde.",
+"Es beherbergt heute das Heimatmuseum.",
+"Es musste dem Autobahnbau weichen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Haus, das durch einen Film berühmt wurde, würde man gern bewahren, etwa als Museum. Doch das Wirtshaus in Rohrbrunn stand dem Autobahnbau im Weg und musste weichen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.weibersbrunn.de/gemeinde-weibersbrunn/geschichte",
+"faktencheck": "korrigiert",
+"id": "169-weibersbrunn/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Weibersbrunn",
+"steckbrief": "Weibersbrunn hat rund 1.800 Einwohner und liegt 45 km westlich von Würzburg.",
+"frage": "Laut der Ortsgeschichte der Gemeinde bezeichnete 1852 jemand Weibersbrunn als ärmsten Ort im Hochspessart. Wer war das?",
+"optionen": [
+"Der Arzt Rudolf Virchow.",
+"Der Dichter Theodor Fontane.",
+"Der Sprachforscher Jacob Grimm.",
+"Der Revolutionär Friedrich Engels."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Urteil über Armut klingt nach Sozialkritik, da liegt Friedrich Engels nahe. Doch es war der Arzt und Sozialpolitiker Rudolf Virchow. Hintergrund waren fehlende Verdienstmöglichkeiten. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.weibersbrunn.de/gemeinde-weibersbrunn/geschichte",
+"faktencheck": "korrigiert",
+"id": "169-weibersbrunn/v0.8/8",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Weibersbrunn",
+"steckbrief": "Die Gemeinde mit rund 1.800 Einwohnern liegt 45 km westlich von Würzburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die katholische Kirche ist Johannes Nepomuk geweiht.",
+"Prinzregent Luitpold mied bei der Jagd die Einheimischen.",
+"Eine alte Karte zeigt am Ort einen „Weiler Pron“."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Prinzregent auf der Jagd wirkt fern vom einfachen Volk. Doch Luitpold, der zur Jagd im Jagdschloss Luitpoldhöhe in Rohrbrunn wohnte, hatte Kontakt zur Bevölkerung und unterstützte sie mit Geld. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.weibersbrunn.de/gemeinde-weibersbrunn/geschichte",
+"faktencheck": "bestätigt",
+"id": "169-weibersbrunn/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "168-wertheim",
+"anschluss": [
+"Einwohner: Wertheim hat über zwölfmal so viele wie Weibersbrunn.",
+"Bundestagswahl 2025: Weibersbrunn hatte höhere Wahlbeteiligung als Wertheim."
+],
+"anschluesse": {
+"153-lohr": [
+"Kreisgrenze: Lohr am Main gehört zum Landkreis Main-Spessart, Weibersbrunn zum Landkreis Aschaffenburg.",
+"Lohr am Main hat gut achtmal so viele Einwohner wie Weibersbrunn."
+],
+"154-partenstein": [
+"Kreisgrenze: Partenstein gehört zum Landkreis Main-Spessart, Weibersbrunn zum Landkreis Aschaffenburg.",
+"Partenstein hat anderthalbmal so viele Einwohner wie Weibersbrunn."
+],
+"155-heigenbruecken": [
+"Heigenbrücken hat rund 400 Einwohner mehr als Weibersbrunn."
+],
+"156-laufach": [
+"Laufach hat fast dreimal so viele Einwohner wie Weibersbrunn.",
+"Weibersbrunn liegt rund 180 Meter höher als Laufach."
+],
+"157-hoesbach": [
+"Hösbach hat siebenmal so viele Einwohner wie Weibersbrunn.",
+"Weibersbrunn liegt rund 210 Meter höher als Hösbach."
+],
+"158-goldbach": [
+"Goldbach hat gut fünfmal so viele Einwohner wie Weibersbrunn.",
+"Weibersbrunn liegt rund 210 Meter höher als Goldbach."
+],
+"159-aschaffenburg": [
+"Kreisgrenze: Aschaffenburg ist kreisfrei, Weibersbrunn gehört zum Landkreis Aschaffenburg.",
+"Aschaffenburg hat rund 40-mal so viele Einwohner wie Weibersbrunn."
+],
+"167-marktheidenfeld": [
+"Kreisgrenze: Marktheidenfeld gehört zum Landkreis Main-Spessart, Weibersbrunn zum Landkreis Aschaffenburg.",
+"Marktheidenfeld hat gut sechsmal so viele Einwohner wie Weibersbrunn."
+],
+"168-wertheim": [
+"Einwohner: Wertheim hat über zwölfmal so viele wie Weibersbrunn.",
+"Bundestagswahl 2025: Weibersbrunn hatte höhere Wahlbeteiligung als Wertheim."
+]
+},
+"ags": "09671157",
+"ortsteil": false,
+"km_vom_vorigen": 23.0
+},
+{
+"slug": "170-stockstadt",
+"name": "Stockstadt am Main",
+"lat": 49.97972,
+"lon": 9.06389,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stockstadt am Main",
+"steckbrief": "Marktgemeinde am Main mit rund 7.900 Einwohnern, 25 km südöstlich von Offenbach am Main.",
+"frage": "Stockstadt gilt als Heimat des ältesten nachgewiesenen Weihnachtsbaums Deutschlands. Worauf stützt sich der Nachweis?",
+"optionen": [
+"Eine Akte der Obrigkeit erwähnt ihn.",
+"Ein Altarbild der Pfarrkirche zeigt ihn.",
+"Die Chronik des Ortspfarrers beschreibt ihn.",
+"Ein Rechnungsbuch des Dorfwirts verzeichnet ihn."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Bild oder eine Chronik läge nahe, denn Bräuche kennt man oft aus Kirche und Pfarrhaus. Doch der Beleg stammt aus der Verwaltung: Eine Akte der Mainzer Landesherren nennt 1527 „die weiennacht baum“ im Stockstädter Hübnerwald. Deshalb gilt er als ältester nachgewiesener Weihnachtsbaum Deutschlands. Ob er schon dem heutigen Brauch entsprach, ist umstritten. Richtig war 1.",
+"quelle": "Main-Echo, 21.12.2013",
+"faktencheck": "korrigiert",
+"id": "170-stockstadt/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stockstadt am Main",
+"steckbrief": "Marktgemeinde mit rund 7.900 Einwohnern, 25 km südöstlich von Offenbach am Main.",
+"frage": "Wie viele Einwohner kommen in Stockstadt am Main auf einen Quadratkilometer?",
+"optionen": [
+"unter 250",
+"250 bis unter 600",
+"600 bis unter 1.200",
+"1.200 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im dicht besiedelten Rhein-Main-Gebiet läge eine städtische Dichte nahe. Doch rund 7.900 Einwohner verteilen sich auf 18,87 Quadratkilometer Gemeindefläche. So kommen auf jeden Quadratkilometer 416 Menschen. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "170-stockstadt/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Stockstadt am Main",
+"steckbrief": "Rund 7.900 Einwohner, 25 km südöstlich von Offenbach am Main.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Bei Stockstadt mündet die Gersprenz in den Main.",
+"Stockstadt am Main gehört zum Bundesland Hessen.",
+"Bei Stockstadt stand einst ein römisches Kastell."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Offenbach und die Lage in der Rhein-Main-Ebene lassen an Hessen denken. Doch Stockstadt am Main ist eine Marktgemeinde in Bayern. Die Gersprenz mündet hier tatsächlich in den Main, und nahe dem Main lag einst ein römisches Kastell. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.ich-geh-wandern.de/stockstadt-am-main",
+"faktencheck": "korrigiert",
+"id": "170-stockstadt/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Stockstadt am Main",
+"steckbrief": "Marktgemeinde mit rund 7.900 Einwohnern, 25 km südöstlich von Offenbach am Main.",
+"frage": "Wie hoch war in Stockstadt am Main die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 76 %",
+"76 bis unter 82 %",
+"82 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wahlbeteiligungen schätzt man leicht zu niedrig, zumal in Orten nahe einer Großstadt. Doch bei der Bundestagswahl 2025 gingen in Stockstadt 84,5 Prozent der Wahlberechtigten wählen. Stärkste Kraft wurde die CSU vor der AfD. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "170-stockstadt/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stockstadt am Main",
+"steckbrief": "Rund 7.900 Einwohner, 25 km südöstlich von Offenbach am Main.",
+"frage": "Die alte St.-Anna-Kapelle stand an der Ecke Hauptstraße/Alter Stadtweg. Was wurde aus ihr?",
+"optionen": [
+"Sie wurde abgerissen, später entstand anderswo ein Neubau.",
+"Sie steht bis heute an ihrem alten Platz.",
+"Sie wurde Stein für Stein versetzt.",
+"Sie wurde in die Pfarrkirche eingebaut."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Alte Kapellen überdauern oft die Jahrhunderte, daher liegt Erhalt nahe. Doch die alte Kapelle an der Hauptstraße wurde abgerissen. Die heutige ist ein Neubau nach altem Vorbild, westlich der Bundesstraße, mit einem Platz zur Ruhe. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.ich-geh-wandern.de/stockstadt-am-main",
+"faktencheck": "bestätigt",
+"id": "170-stockstadt/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Stockstadt am Main",
+"steckbrief": "Rund 7.900 Einwohner, 25 km südöstlich von Offenbach am Main.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Stockstadt am Main?",
+"optionen": [
+"OF",
+"AB",
+"MIL",
+"DA"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. OF liegt nahe, denn Offenbach ist die nächste Großstadt. Doch Stockstadt gehört zum Landkreis Aschaffenburg, und dessen Hauptkennzeichen ist AB. Richtig war 2.",
+"quelle": "Wikidata P395; Landkreis: dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "170-stockstadt/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stockstadt am Main",
+"steckbrief": "Marktgemeinde mit rund 7.900 Einwohnern, 25 km südöstlich von Offenbach am Main.",
+"frage": "Die Tänzerin, Tanztrainerin und Wertungsrichterin Motsi Mabuse wohnt in Stockstadt. Wer aus dem Ort hat dieselben drei Berufe?",
+"optionen": [
+"Es ist die in Stockstadt aufgewachsene Katja Benrath.",
+"Es ist der in Stockstadt geborene Rudolf Bott.",
+"Es ist der in Stockstadt aufgewachsene Timo Kulczak.",
+"Es ist die in Stockstadt aufgewachsene Carola Bott."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Bühne und Kamera denkt man an Katja Benrath, doch sie ist Schauspielerin und Regisseurin. Tänzer, Tanztrainer und Wertungsrichter ist Timo Kulczak, geboren in Aschaffenburg, aufgewachsen in Stockstadt. Rudolf Bott ist Goldschmied, Carola Bott Badmintonspielerin. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stockstadt_am_Main",
+"faktencheck": "unsicher",
+"id": "170-stockstadt/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stockstadt am Main / Rund 7.900 Einwohner, 25 km südöstlich von Offenbach am Main. / Stockstadt pflegt Partnerschaften mit drei Orten. Was trifft auf sie zu? (Optionen unverändert)",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele Gemeinden sammeln Partner in mehreren Ländern, das liegt nahe. Stockstadts drei Partnerorte liegen dagegen alle nahe beieinander an der Orne in Frankreich: Saint-André-sur-Orne, Saint-Martin-de-Fontenay und May-sur-Orne. Die beiden letzten bilden seit 2025 die Gemeinde Saint-Martin-de-May. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stockstadt_am_Main",
+"faktencheck": "korrigiert",
+"id": "170-stockstadt/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stockstadt am Main",
+"steckbrief": "Marktgemeinde mit rund 7.900 Einwohnern, 25 km südöstlich von Offenbach am Main.",
+"frage": "Die Comedienne Daphne de Luxe erhielt 2010 einen Stockstädter Publikumspreis. Wie heißt der Preis?",
+"optionen": [
+"Der Preis heißt Stockstädter Mainkiesel.",
+"Der Preis heißt Stockstädter Zollstock.",
+"Der Preis heißt Stockstädter Fährmann.",
+"Der Preis heißt Stockstädter Römerhelm."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Am Fluss liegt ein Mainkiesel nahe. Doch der Preis heißt Stockstädter Römerhelm, und der Name passt zum Ort: Das Gemeindewappen zeigt einen silbernen Legionärshelm mit rotem Kamm. Daphne de Luxe, bürgerlich Daphne Haderlein, ist Stand-up-Comedienne. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stockstadt_am_Main",
+"faktencheck": "unsicher",
+"id": "170-stockstadt/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Stockstadt am Main",
+"steckbrief": "Rund 7.900 Einwohner, 25 km südöstlich von Offenbach am Main.",
+"frage": "In den 1820er-Jahren sammelte Johann Hock in Stockstadt römische Altertümer. Was war er von Beruf?",
+"optionen": [
+"Er war Gastwirt in Stockstadt.",
+"Er war Pfarrer in Stockstadt.",
+"Er war Lehrer in Stockstadt.",
+"Er war Ziegler in Stockstadt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Pfarrer oder Lehrer läge nahe, denn Altertümer sammelten früher oft Gebildete. Doch Johann Hock war Gastwirt in Stockstadt. Im Umfeld des römischen Kastells wurden mehrere Steindenkmäler entdeckt, in Kastellnähe auch mehrere Ziegelöfen. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Stockstadt_am_Main",
+"faktencheck": "korrigiert",
+"id": "170-stockstadt/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "169-weibersbrunn",
+"anschluss": [
+"Stockstadt hat über viermal so viele Einwohner wie Weibersbrunn.",
+"Höhe: Weibersbrunn liegt rund 240 Meter höher als Stockstadt."
+],
+"anschluesse": {
+"156-laufach": [
+"Stockstadt am Main hat gut anderthalbmal so viele Einwohner wie Laufach."
+],
+"157-hoesbach": [
+"Hösbach hat gut anderthalbmal so viele Einwohner wie Stockstadt am Main."
+],
+"158-goldbach": [
+"Goldbach hat rund 1.900 Einwohner mehr als Stockstadt am Main."
+],
+"159-aschaffenburg": [
+"Kreisgrenze: Aschaffenburg ist kreisfrei, Stockstadt am Main gehört zum Landkreis Aschaffenburg.",
+"Aschaffenburg hat gut neunmal so viele Einwohner wie Stockstadt am Main."
+],
+"160-kahl": [
+"Kahl am Main und Stockstadt am Main sind fast gleich groß: rund 8.500 und 7.900 Einwohner."
+],
+"161-grosskrotzenburg": [
+"Landesgrenze: Großkrotzenburg liegt in Hessen, Stockstadt am Main in Bayern.",
+"Bundestagswahl 2025: In Großkrotzenburg lag die CDU vorn, in Stockstadt am Main die CSU."
+],
+"162-hanau": [
+"Landesgrenze: Hanau liegt in Hessen, Stockstadt am Main in Bayern.",
+"Bundestagswahl 2025: In Hanau lag die CDU vorn, in Stockstadt am Main die CSU."
+],
+"171-seligenstadt": [
+"Landesgrenze: Seligenstadt liegt in Hessen, Stockstadt am Main in Bayern.",
+"Bundestagswahl 2025: In Seligenstadt lag die CDU vorn, in Stockstadt am Main die CSU."
+],
+"172-obertshausen": [
+"Landesgrenze: Obertshausen liegt in Hessen, Stockstadt am Main in Bayern.",
+"Bundestagswahl 2025: In Obertshausen lag die CDU vorn, in Stockstadt am Main die CSU."
+],
+"169-weibersbrunn": [
+"Stockstadt hat über viermal so viele Einwohner wie Weibersbrunn.",
+"Höhe: Weibersbrunn liegt rund 240 Meter höher als Stockstadt."
+]
+},
+"ags": "09671155",
+"ortsteil": false,
+"km_vom_vorigen": 22.3
+},
+{
+"slug": "171-seligenstadt",
+"name": "Seligenstadt",
+"lat": 50.0441,
+"lon": 8.97535,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Seligenstadt",
+"steckbrief": "Stadt mit rund 21.000 Einwohnern, 16 km südöstlich von Offenbach am Main.",
+"frage": "Das Stadtwappen zeigt links einen halben schwarzen Adler. Wofür steht er laut Stadt?",
+"optionen": [
+"Er erinnert an ein römisches Militärlager.",
+"Er zeigt die Zugehörigkeit zu einem Kirchenfürstentum.",
+"Er ist das Zeichen der früheren Abtei.",
+"Er erinnert an die Zeit als Reichsstadt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Einen Adler hält man leicht für ein Zeichen der Römer oder der Kirche. Laut Stadt erinnert der halbe schwarze Adler aber an die Zeit als Reichsstadt im Heiligen Römischen Reich. Die Kirchenmacht steckt in der anderen Hälfte: Das halbe weiße Rad steht für die spätere Zugehörigkeit zu Kurmainz. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.seligenstadt.de/leben-und-wohnen/unsere-stadt/stadtwappen/",
+"faktencheck": "bestätigt",
+"id": "171-seligenstadt/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Seligenstadt",
+"steckbrief": "Stadt im Landkreis Offenbach auf rund 31 km² Fläche, 16 km südöstlich von Offenbach am Main.",
+"frage": "Wie viele Einwohner hat Seligenstadt?",
+"optionen": [
+"unter 22.000",
+"22.000 bis unter 28.000",
+"28.000 bis unter 36.000",
+"36.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im dicht besiedelten Rhein-Main-Gebiet schätzt man Städte leicht größer. Seligenstadt zählt 21.225 Einwohner (Stand Ende 2025). Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "171-seligenstadt/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Seligenstadt",
+"steckbrief": "Rund 21.000 Einwohner, 16 km südöstlich von Offenbach am Main.",
+"frage": "Seligenstadt und seine Mainfähre: Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Eine frühere Fähre hing an einem verankerten Seil.",
+"Eine spätere Fähre kam ganz ohne Motor aus.",
+"Die heutige Fähre wird mit Dampf angetrieben."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Dampf klingt nach alter Flussromantik und wirkt deshalb glaubhaft. Die heutige Wagenmotorfähre fährt aber mit Antriebsmotoren. Wahr sind die Seilfähren: Erst hing ein Fährschiff als „fliegende Brücke“ an einem auf dem Maingrund verankerten Seil, später querte eine motorlose Fähre an einem über den Main gespannten Seil von Hessen nach Bayern. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.seligenstadt.de/leben-und-wohnen/mobilitaet/faehre/faehrchronik.pdf?cid=zg",
+"faktencheck": "korrigiert",
+"id": "171-seligenstadt/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Seligenstadt",
+"steckbrief": "Rund 21.000 Einwohner, 16 km südöstlich von Offenbach am Main.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Seligenstadt?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 32 %",
+"32 bis unter 38 %",
+"38 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Speckgürtel einer Großstadt verteilen sich Stimmen oft breiter, darum liegt eine niedrigere Spanne nahe. Die CDU kam in Seligenstadt aber auf 35,9 Prozent der Zweitstimmen (Stand 23.02.2025). Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "171-seligenstadt/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Seligenstadt",
+"steckbrief": "Stadt am Main mit rund 21.000 Einwohnern, 16 km südöstlich von Offenbach am Main.",
+"frage": "Die Mainfähre hieß im Seligenstädter Volksmund „Neewe“. Woher stammt der Name laut Fährchronik der Stadt?",
+"optionen": [
+"Die Fähre war damals ganz neu gebaut.",
+"Die Fähre fuhr oft durch dichten Nebel.",
+"Die Fähre lag neben der Stadtmauer.",
+"Die Fähre bringt das andere Ufer näher."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. „Neewe“ klingt im Dialekt nach „neu“, das liegt am nächsten. Laut Fährchronik der Stadt stammt der Name aber vom mittelhochdeutschen „naehen“, also nah machen: Eine Fähre bringt das andere Ufer näher. Eine Fährverbindung gibt es in Seligenstadt seit Jahrhunderten. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.seligenstadt.de/leben-und-wohnen/mobilitaet/faehre/faehrchronik.pdf?cid=zg",
+"faktencheck": "korrigiert",
+"id": "171-seligenstadt/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Seligenstadt",
+"steckbrief": "Stadt mit rund 21.000 Einwohnern, 16 km südöstlich von Offenbach am Main.",
+"frage": "Der Maler Hans Memling wurde in Seligenstadt geboren. In welcher Stadt starb er?",
+"optionen": [
+"Er starb in Antwerpen.",
+"Er starb in Brügge.",
+"Er starb in Gent.",
+"Er starb in Köln."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Antwerpen und Gent liegen nahe, beide waren große flämische Kunststädte. Memling, ein Maler der niederländischen Schule, starb aber in Brügge. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Seligenstadt",
+"faktencheck": "unsicher",
+"id": "171-seligenstadt/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Seligenstadt",
+"steckbrief": "Rund 21.000 Einwohner, 16 km südöstlich von Offenbach am Main.",
+"frage": "Nach dem Dreißigjährigen Krieg holte ein Abt Siedler nach Seligenstadt. Ihr Fachwerkquartier heißt „Klaa-Frankreich“. Woher kamen sie?",
+"optionen": [
+"Sie kamen aus dem Elsass.",
+"Sie kamen aus Lothringen.",
+"Sie kamen aus Wallonien.",
+"Sie kamen aus der Picardie."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. „Frankreich“ im Namen lässt an Elsass oder Lothringen denken. Abt Leonhard Colchon, geboren in Lüttich, holte aber Siedler aus seiner Heimat Wallonien, weil Krieg und Pest die Bevölkerung dezimiert hatten. Richtig war 3.",
+"quelle": "Deutsche Biographie, deutsche-biographie.de/sfz8582.html; Wikipedia, de.wikipedia.org/wiki/Seligenstadt",
+"faktencheck": "korrigiert",
+"id": "171-seligenstadt/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Seligenstadt",
+"steckbrief": "Stadt mit rund 21.000 Einwohnern, 16 km südöstlich von Offenbach am Main.",
+"frage": "Einhard, Biograph Karls des Großen, gründete in Seligenstadt ein Kloster. Wer schenkte ihm das fränkische Gut Obermulinheim?",
+"optionen": [
+"Ludwig der Fromme schenkte es ihm.",
+"Karl der Große schenkte es ihm.",
+"Papst Leo III. schenkte es ihm.",
+"Lothar I. schenkte es ihm."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Karl der Große liegt nahe, denn Einhard war sein Biograph und Berater. Obermulinheim schenkte Einhard und seiner Frau Imma aber 815 Ludwig der Fromme. Dort gründete Einhard ein Benediktinerkloster und baute die Basilika, die heute seinen Namen trägt. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Seligenstadt",
+"faktencheck": "korrigiert",
+"id": "171-seligenstadt/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Seligenstadt",
+"steckbrief": "Rund 21.000 Einwohner, 16 km südöstlich von Offenbach am Main.",
+"frage": "Beim Seligenstädter Geleit mussten Neulinge einst den Geleitslöffel austrinken. Was war darin?",
+"optionen": [
+"Ein Viertelliter Schnaps war darin.",
+"Ein halber Liter Bier war darin.",
+"Ein Liter Mainwasser war darin.",
+"Ein Liter Wein war darin."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Löffel denkt man an einen Schluck, etwa Schnaps. Der Geleitslöffel fasste aber einen Liter Wein, möglichst in einem Zug zu leeren. Wer es nicht schaffte, zahlte den anderen Wein. Das Geleit erinnert an Kaufleute, die auf dem gefährlichen Weg zur Frankfurter Messe in Seligenstadt Station machten. Richtig war 4.",
+"quelle": "Historisches Museum Frankfurt; Wikipedia, de.wikipedia.org/wiki/Seligenstadt",
+"faktencheck": "korrigiert",
+"id": "171-seligenstadt/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "170-stockstadt",
+"anschluss": [
+"Kennzeichen: In Seligenstadt OF, in Stockstadt am Main AB.",
+"Bundestagswahl 2025: Seligenstadt wählte vor allem CDU, Stockstadt am Main CSU."
+],
+"anschluesse": {
+"136-neu-isenburg": [
+"Neu-Isenburg hat fast doppelt so viele Einwohner wie Seligenstadt.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Neu-Isenburg die SPD, in Seligenstadt die AfD."
+],
+"157-hoesbach": [
+"Landesgrenze: Hösbach liegt in Bayern, Seligenstadt in Hessen.",
+"Bundestagswahl 2025: In Hösbach lag die CSU vorn, in Seligenstadt die CDU."
+],
+"158-goldbach": [
+"Landesgrenze: Goldbach liegt in Bayern, Seligenstadt in Hessen.",
+"Bundestagswahl 2025: In Goldbach lag die CSU vorn, in Seligenstadt die CDU."
+],
+"159-aschaffenburg": [
+"Landesgrenze: Aschaffenburg liegt in Bayern, Seligenstadt in Hessen.",
+"Bundestagswahl 2025: In Aschaffenburg lag die CSU vorn, in Seligenstadt die CDU."
+],
+"160-kahl": [
+"Landesgrenze: Kahl am Main liegt in Bayern, Seligenstadt in Hessen.",
+"Bundestagswahl 2025: In Kahl am Main lag die CSU vorn, in Seligenstadt die CDU."
+],
+"161-grosskrotzenburg": [
+"Kreisgrenze: Großkrotzenburg gehört zum Main-Kinzig-Kreis, Seligenstadt zum Landkreis Offenbach.",
+"Seligenstadt hat fast dreimal so viele Einwohner wie Großkrotzenburg."
+],
+"162-hanau": [
+"Kreisgrenze: Hanau ist kreisfrei, Seligenstadt gehört zum Landkreis Offenbach.",
+"Hanau hat gut viereinhalbmal so viele Einwohner wie Seligenstadt."
+],
+"163-maintal": [
+"Kreisgrenze: Maintal gehört zum Main-Kinzig-Kreis, Seligenstadt zum Landkreis Offenbach.",
+"Maintal hat fast doppelt so viele Einwohner wie Seligenstadt."
+],
+"164-offenbach": [
+"Kreisgrenze: Offenbach am Main ist kreisfrei, Seligenstadt gehört zum Landkreis Offenbach.",
+"Offenbach am Main hat gut sechsmal so viele Einwohner wie Seligenstadt."
+],
+"170-stockstadt": [
+"Kennzeichen: In Seligenstadt OF, in Stockstadt am Main AB.",
+"Bundestagswahl 2025: Seligenstadt wählte vor allem CDU, Stockstadt am Main CSU."
+],
+"172-obertshausen": [
+"Obertshausen hat rund 4.200 Einwohner mehr als Seligenstadt.",
+"Seligenstadt hat fast zweieinhalbmal so viel Fläche wie Obertshausen, aber weniger Einwohner."
+]
+},
+"ags": "06438013",
+"ortsteil": false,
+"km_vom_vorigen": 9.6
+},
+{
+"slug": "172-obertshausen",
+"name": "Obertshausen",
+"lat": 50.07153,
+"lon": 8.84819,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Obertshausen",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 7 km südöstlich von Offenbach am Main.",
+"frage": "Von der Burg im Hain bei Obertshausen sind nur spärliche Reste geblieben. Was hat sie laut Stadt vor allem zerstört?",
+"optionen": [
+"Feindliche Truppen zerstörten sie im Krieg.",
+"Ein Erdbeben brachte ihre Mauern zum Einsturz.",
+"Man nutzte sie über Jahrhunderte als Steinbruch.",
+"Aufständische Bauern brannten sie nieder."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer zerstörten Burg denkt man zuerst an Belagerung und Krieg. Doch laut Stadt schadeten der Burg im Hain Kämpfe weniger als etwas anderes: Man nutzte sie über Jahrhunderte als Steinbruch. Auch Landwirtschaft setzte den Resten zu, daher waren die ausgegrabenen Fragmente nicht besonders gut erhalten. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.obertshausen.de/de/stadtleben/sehenswertes/die-burg-im-hain",
+"faktencheck": "korrigiert",
+"id": "172-obertshausen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Obertshausen",
+"steckbrief": "Rund 25.000 Einwohner, 7 km südöstlich von Offenbach am Main gelegen.",
+"frage": "Wie groß ist das Stadtgebiet von Obertshausen?",
+"optionen": [
+"unter 6 km²",
+"6 bis unter 10 km²",
+"10 bis unter 13 km²",
+"13 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt dicht vor Offenbach wirkt wie eine kompakte Vorstadt, also tippen viele klein. Obertshausen umfasst aber 13,62 Quadratkilometer. Dicht besiedelt ist es trotzdem. Richtig war 4.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "172-obertshausen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Obertshausen",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 7 km südöstlich von Offenbach am Main.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Lederwaren fertigte man hier meist in großen Fabrikhallen.",
+"Der Bahnhof wurde baugleich mit anderen Rodgaubahn-Bahnhöfen errichtet.",
+"Die Stadt ging aus Hausen und Obertshausen hervor."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Dass ein Bahnhof baugleich mit anderen entstand, klingt nach einer erfundenen Kleinigkeit. Gelogen ist aber die Fabrikhalle: Anfangs entstanden die Lederwaren in Heimarbeit, als Teilproduktion in häuslichen Betrieben für die Offenbacher Lederwarenbetriebe. So konnte die ganze Familie am Broterwerb mithelfen. Erst daraus wuchsen eigene Betriebe. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.obertshausen.de/de/stadtleben/geschichte",
+"faktencheck": "korrigiert",
+"id": "172-obertshausen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Obertshausen",
+"steckbrief": "Stadt im Kreis Offenbach mit rund 25.000 Einwohnern, 7 km südöstlich von Offenbach am Main.",
+"frage": "Welche Partei wurde in Obertshausen bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"SPD",
+"AfD",
+"GRÜNE",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im Rhein-Main-Gebiet liegt die SPD als alte Volkspartei nahe. In Obertshausen kam die AfD mit 17,7 Prozent hinter der CDU auf Platz zwei; die SPD folgte knapp mit 16 Prozent. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "172-obertshausen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Obertshausen",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 7 km südöstlich von Offenbach am Main.",
+"frage": "Der Marktplatz im Stadtteil Hausen trägt den Spitznamen „Hausener Moor“. Woher kommt er?",
+"optionen": [
+"Auf dem Platz lag früher ein Moor.",
+"Der Brunnen dort führt dunkles Moorwasser.",
+"Seine Skulpturen wirken wie versinkende Arme.",
+"Nach Regen steht der Platz oft unter Wasser."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Moor im Namen lässt an feuchten Boden oder einen alten Sumpf denken. Der Spitzname spielt aber auf Kunst an: Die Skulpturen von Louis Molinari aus der Partnerstadt Sainte-Geneviève-des-Bois zeigen Hände mit Wappen. Sie wirken wie Arme, die im Moor versinken und sich gen Himmel strecken. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.obertshausen.de/de/stadtleben/sehenswertes/marktplatz-in-hausen",
+"faktencheck": "unsicher",
+"id": "172-obertshausen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Obertshausen",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 7 km südöstlich von Offenbach am Main.",
+"frage": "Wie weit ist es in Luftlinie von Obertshausen zur hessischen Landeshauptstadt Wiesbaden?",
+"optionen": [
+"unter 15 km",
+"15 bis unter 25 km",
+"25 bis unter 40 km",
+"40 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Im dichten Rhein-Main-Gebiet scheint alles nah beieinander. Doch Wiesbaden liegt am anderen Ende des Ballungsraums, jenseits von Frankfurt: Von Obertshausen sind es 43 Kilometer Luftlinie. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "172-obertshausen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Obertshausen",
+"steckbrief": "Heute eine Stadt mit rund 25.000 Einwohnern, 7 km südöstlich von Offenbach am Main.",
+"frage": "Im Jahr 1636 wütete die Pest. Wie viele Einwohner hatte das Dorf Obertshausen danach laut Ortsgeschichte noch?",
+"optionen": [
+"unter 50",
+"50 bis unter 150",
+"150 bis unter 400",
+"400 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Ort, der heute eine Stadt ist, hatte doch sicher einige Hundert Einwohner? Doch nach den Plünderungen im Dreißigjährigen Krieg und der Pest zählte Obertshausen laut den Aufzeichnungen nur noch 20 Einwohner, das Nachbardorf Hausen noch weniger. Gewachsen ist der Ort später unter anderem durch Vertriebene nach dem Zweiten Weltkrieg. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.obertshausen.de/de/stadtleben/geschichte",
+"faktencheck": "korrigiert",
+"id": "172-obertshausen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Obertshausen",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 7 km südöstlich von Offenbach am Main.",
+"frage": "Das Heimatmuseum sollte einst ins alte Schulgebäude in der Waldstraße ziehen. Warum wurde daraus nichts?",
+"optionen": [
+"Der Denkmalschutz verbot den nötigen Umbau.",
+"Das Gebäude wurde weiter als Schule gebraucht.",
+"Ein Investor kaufte das Gebäude vorher auf.",
+"Das Gebäude stürzte während der Renovierung ein."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei alten Gebäuden bremst oft der Denkmalschutz, darum liegt diese Theorie nahe. Bei der Renovierung des Schulgebäudes in der Waldstraße stürzte jedoch ein Teil ein, und ein Wiederaufbau wäre zu teuer gewesen. Das Heimatmuseum fand deshalb ein anderes Haus. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.obertshausen.de/de/stadtleben/sehenswertes/heimatmuseum",
+"faktencheck": "korrigiert",
+"id": "172-obertshausen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Obertshausen",
+"steckbrief": "Stadt mit rund 25.000 Einwohnern, 7 km südöstlich von Offenbach am Main.",
+"frage": "Das Werkstatt-Museum „Karl-Mayer-Haus“ ist das Geburtshaus eines Ehrenbürgers von Obertshausen. Womit machte er sich einen Namen?",
+"optionen": [
+"Er gründete eine große Lederwarenfabrik.",
+"Er gründete eine Fabrik für Wirkmaschinen.",
+"Er schrieb die Chronik des Ortes.",
+"Er leitete die Ausgrabung der Burg im Hain."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Heimatmuseum in einem Ort der Lederwaren liegt ein Lederfabrikant nahe. Karl Mayer gründete aber eine Wirkmaschinenfabrik, gab vielen Menschen in schweren Zeiten Arbeit und war ein großer Mäzen. Sein Geburtshaus schenkte er der Stadt für ein Museum. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.obertshausen.de/de/stadtleben/sehenswertes/heimatmuseum",
+"faktencheck": "korrigiert",
+"id": "172-obertshausen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "171-seligenstadt",
+"anschluss": [
+"Erste Nennung: Obertshausen steht im Zinsregister der Abtei Seligenstadt.",
+"Fläche: Seligenstadt ist mehr als doppelt so groß wie Obertshausen."
+],
+"anschluesse": {
+"22-langen": [
+"Langen hat anderthalbmal so viele Einwohner wie Obertshausen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Langen die SPD, in Obertshausen die AfD."
+],
+"136-neu-isenburg": [
+"Neu-Isenburg hat anderthalbmal so viele Einwohner wie Obertshausen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Neu-Isenburg die SPD, in Obertshausen die AfD."
+],
+"44-frankfurt": [
+"Kreisgrenze: Frankfurt am Main ist kreisfrei, Obertshausen gehört zum Landkreis Offenbach.",
+"Frankfurt am Main hat rund 30-mal so viele Einwohner wie Obertshausen."
+],
+"160-kahl": [
+"Landesgrenze: Kahl am Main liegt in Bayern, Obertshausen in Hessen.",
+"Bundestagswahl 2025: In Kahl am Main lag die CSU vorn, in Obertshausen die CDU."
+],
+"161-grosskrotzenburg": [
+"Kreisgrenze: Großkrotzenburg gehört zum Main-Kinzig-Kreis, Obertshausen zum Landkreis Offenbach.",
+"Obertshausen hat dreieinhalbmal so viele Einwohner wie Großkrotzenburg."
+],
+"162-hanau": [
+"Kreisgrenze: Hanau ist kreisfrei, Obertshausen gehört zum Landkreis Offenbach.",
+"Hanau hat viermal so viele Einwohner wie Obertshausen."
+],
+"163-maintal": [
+"Kreisgrenze: Maintal gehört zum Main-Kinzig-Kreis, Obertshausen zum Landkreis Offenbach.",
+"Maintal hat anderthalbmal so viele Einwohner wie Obertshausen."
+],
+"164-offenbach": [
+"Kreisgrenze: Offenbach am Main ist kreisfrei, Obertshausen gehört zum Landkreis Offenbach.",
+"Offenbach am Main hat gut fünfmal so viele Einwohner wie Obertshausen."
+],
+"170-stockstadt": [
+"Landesgrenze: Stockstadt am Main liegt in Bayern, Obertshausen in Hessen.",
+"Bundestagswahl 2025: In Stockstadt am Main lag die CSU vorn, in Obertshausen die CDU."
+],
+"171-seligenstadt": [
+"Erste Nennung: Obertshausen steht im Zinsregister der Abtei Seligenstadt.",
+"Fläche: Seligenstadt ist mehr als doppelt so groß wie Obertshausen."
+]
+},
+"ags": "06438010",
+"ortsteil": false,
+"km_vom_vorigen": 9.6
+},
+{
+"slug": "173-kelsterbach",
+"name": "Kelsterbach",
+"lat": 50.06882,
+"lon": 8.53014,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kelsterbach",
+"steckbrief": "Stadt mit rund 17.000 Einwohnern, 12 km südwestlich von Frankfurt am Main.",
+"frage": "Um 1700 entstand neben dem alten Dorf die eigenständige Siedlung Neukelsterbach. Wozu?",
+"optionen": [
+"Dort zogen Dorfbewohner nach einem Hochwasser hin.",
+"Dort wurden Glaubensflüchtlinge angesiedelt.",
+"Dort entstand ein Jagdhof für den Landesherrn.",
+"Dort wurden Soldaten mit ihren Familien einquartiert."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Hochwasser liegt nahe, denn Kelsterbach liegt am Main, und Dörfer wurden oft wegen Überschwemmungen verlegt. Doch der Landgraf von Hessen-Darmstadt gründete Neukelsterbach für hugenottisch-waldensische Glaubensflüchtlinge aus Frankreich, also verfolgte Protestanten. Lange blieb die Siedlung eigenständig, bevor sie mit Alt-Kelsterbach zusammengelegt wurde. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, kelsterbach.de/Stadt-Region/Geschichte/",
+"faktencheck": "unsicher",
+"id": "173-kelsterbach/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kelsterbach",
+"steckbrief": "Stadt mit rund 17.000 Einwohnern, 12 km südwestlich von Frankfurt am Main.",
+"frage": "Wie groß ist das Stadtgebiet von Kelsterbach?",
+"optionen": [
+"unter 6 km²",
+"6 bis unter 12 km²",
+"12 bis unter 18 km²",
+"18 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei rund 17.000 Einwohnern so nah an Frankfurt denkt man an ein kleines Stadtgebiet. Kelsterbach misst aber 15,41 Quadratkilometer; neben den Wohnvierteln gehören mehrere Gewerbegebiete dazu, etwa der Taubengrund. Richtig war 3.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "173-kelsterbach/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Kelsterbach",
+"steckbrief": "Stadt mit rund 17.000 Einwohnern, 12 km südwestlich von Frankfurt am Main.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Süden grenzt Kelsterbach an den Frankfurter Flughafen.",
+"Ein Frankfurter Kaufmann gründete die Kelsterbacher Porzellan-Manufaktur.",
+"In den Glanzstoffwerken entstand Kunstseide aus Viskose."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Kaufmann aus der nahen Großstadt klingt plausibel. Porzellan-Manufakturen waren damals aber meist Sache von Fürsten: Die Kelsterbacher Manufaktur gründete Landgraf Ludwig VIII. von Hessen-Darmstadt; später kamen Fayencen und Steingut hinzu. Die Grenze zum Flughafen und die Kunstseide aus Viskose stimmen. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, kelsterbach.de/Stadt-Region/Geschichte/, kelsterbach.de/Stadt-Region/Stadtportrait/, kelsterbach.de/Freizeit-Kultur/Stadtmuseum/",
+"faktencheck": "korrigiert",
+"id": "173-kelsterbach/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kelsterbach",
+"steckbrief": "Stadt mit rund 17.000 Einwohnern, 12 km südwestlich von Frankfurt am Main.",
+"frage": "Wie hoch war die Wahlbeteiligung in Kelsterbach bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 80 %",
+"80 bis unter 83 %",
+"83 bis unter 86 %",
+"86 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei der Bundestagswahl 2025 war das Interesse groß, da liegt eine hohe Spanne nahe. In Kelsterbach gingen 79,4 Prozent der Wahlberechtigten zur Wahl, knapp unter achtzig. Stärkste Partei wurde die CDU vor der SPD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "173-kelsterbach/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kelsterbach",
+"steckbrief": "Stadt mit rund 17.000 Einwohnern, 12 km südwestlich von Frankfurt am Main.",
+"frage": "Was verbirgt sich hinter der „Alten Dame von Kelsterbach“?",
+"optionen": [
+"Eine uralte Linde mitten in der Altstadt.",
+"Ein uralter Schädel, der von einer Frau stammt.",
+"Ein Ausflugsdampfer, der früher hier anlegte.",
+"Eine geschnitzte Holzfigur am Giebel des Rathauses."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei „Alte Dame“ denkt man an etwas Ehrwürdiges, das man noch heute sehen kann, etwa einen Baum oder ein Schiff. Gemeint ist aber ein Schädelfund: Er stammt von einer Frau und wird den Cro-Magnon-Menschen zugeordnet, also frühen modernen Menschen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, kelsterbach.de/Stadt-Region/Geschichte/, kelsterbach.de/Freizeit-Kultur/Stadtmuseum/",
+"faktencheck": "korrigiert",
+"id": "173-kelsterbach/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Kelsterbach",
+"steckbrief": "Stadt mit rund 17.000 Einwohnern, 12 km südwestlich von Frankfurt am Main.",
+"frage": "Wie weit ist es von Kelsterbach in Luftlinie bis zur Landeshauptstadt Wiesbaden?",
+"optionen": [
+"unter 12 km",
+"12 bis unter 17 km",
+"17 bis unter 23 km",
+"23 km und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer Kelsterbach vor allem mit Frankfurt verbindet, schätzt die Landeshauptstadt eher weit weg. Doch beide Städte liegen im Rhein-Main-Gebiet: Bis Wiesbaden sind es nur rund 20 Kilometer Luftlinie. Richtig war 3.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "173-kelsterbach/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kelsterbach",
+"steckbrief": "Stadt mit rund 17.000 Einwohnern, 12 km südwestlich von Frankfurt am Main.",
+"frage": "Die Kelsterbacher Ortsgeschichte nennt drei Weltmeister aus dem Jahr 1955. In welcher Sportart holten sie den Titel?",
+"optionen": [
+"Sie wurden Weltmeister im Rudern.",
+"Sie wurden Weltmeister im Kanurennsport.",
+"Sie wurden Weltmeister im Faustball.",
+"Sie wurden Weltmeister im Bowling."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Rudern oder Kanu liegen nahe, denn Kelsterbach liegt am Main. Die Ortsgeschichte nennt aber Bowling-Weltmeister: Willi Laun, Ludwig Laun und Ernst Freese. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, kelsterbach.de/Stadt-Region/Geschichte/",
+"faktencheck": "bestätigt",
+"id": "173-kelsterbach/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kelsterbach",
+"steckbrief": "Stadt mit rund 17.000 Einwohnern, 12 km südwestlich von Frankfurt am Main.",
+"frage": "Im 16. Jahrhundert entstand in Kelsterbach das Renaissanceschloss Wolfenburg. Wer ließ es bauen?",
+"optionen": [
+"Ein Herr von Hagen-Münzenberg ließ es bauen.",
+"Ein Herr von Falkenstein ließ es bauen.",
+"Ein Graf von Ysenburg ließ es bauen.",
+"Ein Erzbischof von Mainz ließ es bauen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Falkenstein oder Hagen-Münzenberg liegen nahe, denn auch diese Herren herrschten über Kelsterbach. Ihre Zeit war aber vorbei, als Graf Wolfgang von Ysenburg die Wolfenburg im Renaissancestil als Residenz bauen ließ. Im Dreißigjährigen Krieg wurde das Schloss mehrfach zerstört. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, kelsterbach.de/Stadt-Region/Geschichte/, kelsterbach.de/Freizeit-Kultur/Stadtmuseum/",
+"faktencheck": "korrigiert",
+"id": "173-kelsterbach/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kelsterbach",
+"steckbrief": "Stadt mit rund 17.000 Einwohnern, 12 km südwestlich von Frankfurt am Main.",
+"frage": "Lange fuhr eine Fähre zwischen Kelsterbach und Sindlingen. Warum wurde sie eingestellt?",
+"optionen": [
+"Nach dem Aus der Raffinerie fehlten die Fahrgäste.",
+"Ein Schiffsunfall führte zum Ende der Fähre.",
+"Der Anleger musste einer neuen Landebahn weichen.",
+"Nach Schließung des Kunstseidenwerks lohnte sie sich nicht."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Dass eine Fähre ihre Fahrgäste verliert, wenn ein großer Betrieb schließt, liegt nahe. Doch Raffinerie und Kunstseidenwerk arbeiteten noch, als die Fähre schon stillstand, und die Landebahn kam viel später. Die Ortsgeschichte nennt einen Schiffsunfall als Grund für das Ende. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, kelsterbach.de/Stadt-Region/Geschichte/",
+"faktencheck": "bestätigt",
+"id": "173-kelsterbach/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Kelsterbach",
+"steckbrief": "Stadt mit rund 17.000 Einwohnern, 12 km südwestlich von Frankfurt am Main.",
+"frage": "Am Fundort „Auf der Steinmauer“ stand einst ein römisches Gebäude. Mit welchem Kult wird es verbunden?",
+"optionen": [
+"Mit dem Kult des Lichtgottes Mithras.",
+"Mit dem Kult der ägyptischen Göttin Isis.",
+"Mit dem Kult des Göttervaters Jupiter.",
+"Mit dem Hirschkult des keltischen Gottes Cernunnos."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Mithras oder Jupiter liegen nahe, denn ihre Kulte waren im Römischen Reich weit verbreitet. Die Stadt verbindet das Gebäude aber mit dem Hirschkult des keltischen Gottes Cernunnos, der meist mit Hirschgeweih dargestellt wird. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, kelsterbach.de/Freizeit-Kultur/Stadtmuseum/",
+"faktencheck": "korrigiert",
+"id": "173-kelsterbach/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "172-obertshausen",
+"anschluss": [
+"Fläche: Kelsterbach ist größer als Obertshausen, hat aber weniger Einwohner.",
+"Kennzeichen: In Obertshausen steht OF am Auto, in Kelsterbach GG."
+],
+"anschluesse": {
+"22-langen": [
+"Kreisgrenze: Langen gehört zum Landkreis Offenbach, Kelsterbach zum Landkreis Groß-Gerau.",
+"Langen hat fast zweieinhalbmal so viele Einwohner wie Kelsterbach."
+],
+"136-neu-isenburg": [
+"Kreisgrenze: Neu-Isenburg gehört zum Landkreis Offenbach, Kelsterbach zum Landkreis Groß-Gerau.",
+"Neu-Isenburg hat fast zweieinhalbmal so viele Einwohner wie Kelsterbach."
+],
+"44-frankfurt": [
+"Kreisgrenze: Frankfurt am Main ist kreisfrei, Kelsterbach gehört zum Landkreis Groß-Gerau.",
+"Frankfurt am Main hat rund 45-mal so viele Einwohner wie Kelsterbach."
+],
+"64-ruesselsheim": [
+"Rüsselsheim hat viermal so viele Einwohner wie Kelsterbach."
+],
+"137-weiterstadt": [
+"Kreisgrenze: Weiterstadt gehört zum Landkreis Darmstadt-Dieburg, Kelsterbach zum Landkreis Groß-Gerau.",
+"Weiterstadt hat gut anderthalbmal so viele Einwohner wie Kelsterbach."
+],
+"138-gross-gerau": [
+"Groß-Gerau hat anderthalbmal so viele Einwohner wie Kelsterbach."
+],
+"139-bischofsheim": [
+"Kelsterbach hat rund 3.700 Einwohner mehr als Bischofsheim."
+],
+"45-mainz": [
+"Landesgrenze: Mainz liegt in Rheinland-Pfalz, Kelsterbach in Hessen.",
+"Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Kelsterbach die CDU."
+],
+"164-offenbach": [
+"Kreisgrenze: Offenbach am Main ist kreisfrei, Kelsterbach gehört zum Landkreis Groß-Gerau.",
+"Offenbach am Main hat achtmal so viele Einwohner wie Kelsterbach."
+],
+"174-raunheim": [
+"Bundestagswahl 2025: In Raunheim lag die SPD vorn, in Kelsterbach die CDU.",
+"Kelsterbach hat rund 1.600 Einwohner mehr als Raunheim."
+],
+"175-niedernhausen": [
+"Kreisgrenze: Niedernhausen gehört zum Rheingau-Taunus-Kreis, Kelsterbach zum Landkreis Groß-Gerau.",
+"Kelsterbach hat rund 2.500 Einwohner mehr als Niedernhausen."
+],
+"172-obertshausen": [
+"Fläche: Kelsterbach ist größer als Obertshausen, hat aber weniger Einwohner.",
+"Kennzeichen: In Obertshausen steht OF am Auto, in Kelsterbach GG."
+]
+},
+"ags": "06433007",
+"ortsteil": false,
+"km_vom_vorigen": 22.7
+},
+{
+"slug": "174-raunheim",
+"name": "Raunheim",
+"lat": 50.00972,
+"lon": 8.45,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Raunheim",
+"steckbrief": "Stadt mit rund 15.000 Einwohnern am Main, 13 km östlich von Mainz.",
+"frage": "Auf welcher Höhe über dem Meeresspiegel liegt Raunheim?",
+"optionen": [
+"unter 50 m",
+"50 bis unter 150 m",
+"150 bis unter 300 m",
+"300 m und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Am flachen Mainufer denkt man an Tiefland fast auf Meereshöhe. Doch auch das Mainufer liegt deutlich über dem Meer: Raunheim liegt je nach Quelle auf 90 oder 91 Metern. Richtig war 2.",
+"quelle": "Wikidata P2044; dewiki Infobox; Altbestand staedte.json",
+"faktencheck": "bestätigt",
+"id": "174-raunheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Raunheim",
+"steckbrief": "Stadt mit rund 15.000 Einwohnern, 13 km östlich von Mainz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Europarat zeichnete Raunheim mit der Europafahne aus.",
+"In einer Neujahrsnacht brach in Raunheim der Maindamm.",
+"Raunheim entstand erst als Siedlung für Fabrikarbeiter."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Fabriken wie das Mannesmann-Röhrenwerk prägten Raunheim, deshalb wirkt der Ort wie eine junge Industriesiedlung. Doch eine mittelalterliche Urkunde des Mainzer Erzbischofs Hatto nennt ihn schon als Ruwenheim, lange vor jeder Fabrik. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Raunheim",
+"faktencheck": "unsicher",
+"id": "174-raunheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Raunheim",
+"steckbrief": "Stadt mit rund 15.000 Einwohnern, 13 km östlich von Mainz.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen holte in Raunheim die stärkste Partei?",
+"optionen": [
+"unter 16 %",
+"16 bis unter 19 %",
+"19 bis unter 22 %",
+"22 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Stimmen verteilten sich auf viele Parteien, darum wirkt ein Sieg knapp unter 22 Prozent plausibel. Doch die SPD kam auf 22,3 Prozent, knapp vor der CDU. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "174-raunheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Raunheim",
+"steckbrief": "Stadt mit rund 15.000 Einwohnern, 13 km östlich von Mainz.",
+"frage": "Wie groß ist das Stadtgebiet von Raunheim?",
+"optionen": [
+"unter 8 km²",
+"8 bis unter 15 km²",
+"15 bis unter 30 km²",
+"30 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt dieser Größe erwartet man mehr Fläche mit Feldern rundherum. Doch das Stadtgebiet misst nur 12,6 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046; Altbestand staedte.json",
+"faktencheck": "korrigiert",
+"id": "174-raunheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Raunheim",
+"steckbrief": "Stadt mit rund 15.000 Einwohnern, 13 km östlich von Mainz.",
+"frage": "Der Fußballspieler Cenk Tosun wuchs in Raunheim auf. In welcher Stadt wurde er geboren?",
+"optionen": [
+"Er wurde in Istanbul geboren.",
+"Er wurde in Gießen geboren.",
+"Er wurde in Wetzlar geboren.",
+"Er wurde in Köln geboren."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Istanbul liegt nahe, weil Tosun für die türkische Nationalmannschaft spielte. Geboren wurde er aber in Wetzlar, aufgewachsen ist er in Raunheim. Dort wuchsen auch die Fußballer Youssef und Oualid Mokhtari auf. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Raunheim",
+"faktencheck": "unsicher",
+"id": "174-raunheim/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "173-kelsterbach",
+"anschluss": [
+"Bundestagswahl 2025: Stärkste Partei in Raunheim SPD, in Kelsterbach CDU.",
+"Seit 2000 haben Raunheim und Kelsterbach ein gemeinsames Rotes Kreuz."
+],
+"anschluesse": {
+"22-langen": [
+"Kreisgrenze: Langen gehört zum Landkreis Offenbach, Raunheim zum Landkreis Groß-Gerau.",
+"Bundestagswahl 2025: In Langen lag die CDU vorn, in Raunheim die SPD."
+],
+"136-neu-isenburg": [
+"Kreisgrenze: Neu-Isenburg gehört zum Landkreis Offenbach, Raunheim zum Landkreis Groß-Gerau.",
+"Bundestagswahl 2025: In Neu-Isenburg lag die CDU vorn, in Raunheim die SPD."
+],
+"64-ruesselsheim": [
+"Bundestagswahl 2025: In Rüsselsheim lag die CDU vorn, in Raunheim die SPD.",
+"Rüsselsheim hat fast viereinhalbmal so viele Einwohner wie Raunheim."
+],
+"137-weiterstadt": [
+"Kreisgrenze: Weiterstadt gehört zum Landkreis Darmstadt-Dieburg, Raunheim zum Landkreis Groß-Gerau.",
+"Bundestagswahl 2025: In Weiterstadt lag die CDU vorn, in Raunheim die SPD."
+],
+"138-gross-gerau": [
+"Bundestagswahl 2025: In Groß-Gerau lag die CDU vorn, in Raunheim die SPD.",
+"Groß-Gerau hat gut anderthalbmal so viele Einwohner wie Raunheim."
+],
+"139-bischofsheim": [
+"Bundestagswahl 2025: In Bischofsheim lag die CDU vorn, in Raunheim die SPD.",
+"Raunheim hat rund 2.100 Einwohner mehr als Bischofsheim."
+],
+"45-mainz": [
+"Landesgrenze: Mainz liegt in Rheinland-Pfalz, Raunheim in Hessen.",
+"Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Raunheim die SPD."
+],
+"46-wiesbaden": [
+"Kreisgrenze: Wiesbaden ist kreisfrei, Raunheim gehört zum Landkreis Groß-Gerau.",
+"Bundestagswahl 2025: In Wiesbaden lag die CDU vorn, in Raunheim die SPD."
+],
+"134-bodenheim": [
+"Landesgrenze: Bodenheim liegt in Rheinland-Pfalz, Raunheim in Hessen.",
+"Bundestagswahl 2025: In Bodenheim lag die CDU vorn, in Raunheim die SPD."
+],
+"135-nackenheim": [
+"Landesgrenze: Nackenheim liegt in Rheinland-Pfalz, Raunheim in Hessen.",
+"Bundestagswahl 2025: In Nackenheim lag die CDU vorn, in Raunheim die SPD."
+],
+"61-nierstein": [
+"Landesgrenze: Nierstein liegt in Rheinland-Pfalz, Raunheim in Hessen.",
+"Bundestagswahl 2025: In Nierstein lag die CDU vorn, in Raunheim die SPD."
+],
+"62-oppenheim": [
+"Landesgrenze: Oppenheim liegt in Rheinland-Pfalz, Raunheim in Hessen.",
+"Bundestagswahl 2025: In Oppenheim lag die CDU vorn, in Raunheim die SPD."
+],
+"173-kelsterbach": [
+"Bundestagswahl 2025: Stärkste Partei in Raunheim SPD, in Kelsterbach CDU.",
+"Seit 2000 haben Raunheim und Kelsterbach ein gemeinsames Rotes Kreuz."
+],
+"175-niedernhausen": [
+"Kreisgrenze: Niedernhausen gehört zum Rheingau-Taunus-Kreis, Raunheim zum Landkreis Groß-Gerau.",
+"Bundestagswahl 2025: In Niedernhausen lag die CDU vorn, in Raunheim die SPD."
+]
+},
+"ags": "06433010",
+"ortsteil": false,
+"km_vom_vorigen": 8.7
+},
+{
+"slug": "175-niedernhausen",
+"name": "Niedernhausen",
+"lat": 50.16167,
+"lon": 8.31764,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niedernhausen",
+"steckbrief": "Niedernhausen hat rund 14.000 Einwohner und liegt 10 km nordöstlich von Wiesbaden.",
+"frage": "Die Guldenmühle in der Gemeinde Niedernhausen trägt ein altes Geldstück im Namen. Was steckt dahinter?",
+"optionen": [
+"Die Mühle wurde einst für einen Gulden verkauft.",
+"Der erste Müller hieß mit Familiennamen Gulden.",
+"Im Mühlbach wurden früher Goldkörner ausgewaschen.",
+"Ihr Mühlrad ragte in ein fremdes Herrschaftsgebiet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Familienname oder ein Kaufpreis liegt nahe, denn Mühlen hießen oft nach Besitzern. Doch die Mühle stand auf nassauischem Gebiet, und ein Teil ihres Mühlrads ragte ins Mainzische. Dafür zahlte der Müller dem Mainzer Erzbischof jährlich einen Gulden. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.niedernhausen.de/kultur-vereine-freizeit/rad-wanderwege/der-gusbacher-strandweg-natur-und-geschichte/",
+"faktencheck": "bestätigt",
+"id": "175-niedernhausen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Niedernhausen",
+"steckbrief": "Niedernhausen hat rund 14.000 Einwohner und liegt 10 km nordöstlich von Wiesbaden.",
+"frage": "Wie viele Einwohner kamen Ende 2025 in der Gemeinde Niedernhausen auf einen Quadratkilometer?",
+"optionen": [
+"unter 500",
+"500 bis unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Nähe zu Wiesbaden lässt an dichte Vorstadtbebauung denken. Doch die Gemeinde besteht aus mehreren Ortsteilen, darunter Engenhahn, das seinen dörflichen Charakter bewahrt hat. So kamen Ende 2025 auf einen Quadratkilometer nur 403 Einwohner. Richtig war 1.",
+"quelle": "GRUNDDATEN, berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "175-niedernhausen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Niedernhausen",
+"steckbrief": "Niedernhausen hat rund 14.000 Einwohner und liegt 10 km nordöstlich von Wiesbaden.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Den Sandstein für die Alte Kirche brachte man von weit her.",
+"Im Felsenkeller lagerte man früher Eis aus Weihern bis zum Sommer.",
+"Im Hammergrund am Daisbach schmiedete früher ein wassergetriebener Hammer Eisen."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eiskeller und Schmiedehammer klingen ungewöhnlicher, doch beides stimmt: Im Felsenkeller lagerte Eis aus Weihern bis zum Sommer, und am Daisbach verarbeitete ein Hammer Eisen. Den Sandstein für die Alte Kirche aber brach man an Klippen hinter dem Felsenkeller. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.niedernhausen.de/kultur-vereine-freizeit/rad-wanderwege/historischer-spaziergang-durch-niedernhausen/",
+"faktencheck": "bestätigt",
+"id": "175-niedernhausen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Niedernhausen",
+"steckbrief": "Niedernhausen hat rund 14.000 Einwohner und liegt 10 km nordöstlich von Wiesbaden.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Niedernhausen mit den Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"GRÜNE",
+"AfD",
+"SPD",
+"FDP"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Grünen liegen nahe, weil sie in Gemeinden am Rand großer Städte oft stark sind. In Niedernhausen kam bei der Bundestagswahl 2025 aber die SPD mit 16,5 Prozent auf Platz zwei, knapp vor den Grünen mit 14,8 Prozent. Vorn lag die CDU. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "175-niedernhausen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niedernhausen",
+"steckbrief": "Niedernhausen hat rund 14.000 Einwohner und liegt 10 km nordöstlich von Wiesbaden.",
+"frage": "Nach dem Dreißigjährigen Krieg holte Graf Johannes von Nassau-Idstein neue Familien in den heutigen Ortsteil Königshofen. Woher kamen sie?",
+"optionen": [
+"Die Familien kamen aus Tirol.",
+"Die Familien kamen aus Salzburg.",
+"Die Familien kamen aus Böhmen.",
+"Die Familien kamen aus Lüttich."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Siedler aus fernen Gegenden liegen nahe, denn nach dem Krieg standen viele Dörfer leer. Nach Königshofen aber kamen wallonische, also französischsprachige Familien aus dem Fürstbistum Lüttich. Deshalb zählte der Ort mit Niedernhausen und Engenhahn zu den „welschen Dörfern“. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.niedernhausen.de/portrait/ortsteile/; Landesamt für Denkmalpflege Hessen, www.kuladig.de/Objektansicht/P-FR-20091030-0001",
+"faktencheck": "korrigiert",
+"id": "175-niedernhausen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Niedernhausen",
+"steckbrief": "Niedernhausen hat rund 14.000 Einwohner und liegt 10 km nordöstlich von Wiesbaden.",
+"frage": "Zu welchem Landkreis gehört die Gemeinde Niedernhausen?",
+"optionen": [
+"Rheingau-Taunus-Kreis",
+"Main-Taunus-Kreis",
+"Hochtaunuskreis",
+"Kreis Groß-Gerau"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Main-Taunus-Kreis liegt nahe, denn auch er trägt den Taunus im Namen. Niedernhausen gehört aber zum Rheingau-Taunus-Kreis; dessen Hauptkennzeichen ist SWA. Richtig war 1.",
+"quelle": "dewiki Infobox (Artikel Niedernhausen); Kennzeichen: Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "175-niedernhausen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niedernhausen",
+"steckbrief": "Niedernhausen hat rund 14.000 Einwohner und liegt 10 km nordöstlich von Wiesbaden.",
+"frage": "Neben Niedernhausen gab es im Mittelalter ein Obernhausen. Was wurde aus diesem Ort?",
+"optionen": [
+"Es ging im heutigen Ortsteil Oberjosbach auf.",
+"Es wurde aufgegeben und fiel wüst.",
+"Es lebt im Ortsteil Königshofen weiter.",
+"Es wurde zu einem Kloster umgewandelt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Dass Obernhausen in einem Nachbarort weiterlebt, liegt nahe, denn Oberjosbach trägt das „Ober“ noch im Namen. Doch Obernhausen fiel wüst: Es wurde vermutlich schon in der spätmittelalterlichen Wüstungsperiode aufgegeben. Wohl lag es etwa beim heutigen Waldschwimmbad; ein Straßenname und Flurnamen erinnern noch daran. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.niedernhausen.de/kultur-vereine-freizeit/rad-wanderwege/historischer-spaziergang-durch-niedernhausen/ (mit Flyer historischer-spaziergang-niedernhausen.pdf)",
+"faktencheck": "korrigiert",
+"id": "175-niedernhausen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niedernhausen",
+"steckbrief": "Niedernhausen hat rund 14.000 Einwohner und liegt 10 km nordöstlich von Wiesbaden.",
+"frage": "Der Niedernhausener Ortsteil Engenhahn trägt einen auffälligen Namen. Woher kommt er nach der Ortsgeschichte?",
+"optionen": [
+"Er beschreibt eine enge Stelle im Tal.",
+"Er erinnert an Auerhähne in den umliegenden Wäldern.",
+"Er geht auf einen Mönch und seinen Hof zurück.",
+"Er stammt von einem Wirtshaus zum Hahn."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Hahn und Enge liegen nahe, denn so klingt der heutige Name. Nach der Ortsgeschichte aber gründete ein Mönch namens Enicho hier einen Meierhof, also einen Gutshof: „Enich im Hag“. Engenhahns Ursprung hängt mit der Gründung des Klosters Bleidenstadt zusammen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.niedernhausen.de/portrait/ortsteile/",
+"faktencheck": "bestätigt",
+"id": "175-niedernhausen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niedernhausen",
+"steckbrief": "Niedernhausen hat rund 14.000 Einwohner und liegt 10 km nordöstlich von Wiesbaden.",
+"frage": "Die Gemeinde Niedernhausen sagt, ihr Ortsteil Oberjosbach habe einst einen eigenen Strand gehabt. Was ist damit gemeint?",
+"optionen": [
+"Vor Jahrmillionen lag Oberjosbach an einer Meeresküste.",
+"Ein Stausee mit Badestrand lag früher im Tal.",
+"Ein Wirt schüttete einst Sand für Badegäste auf.",
+"„Strand“ hieß hier eine sandige Uferwiese am Bach."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Badesee liegt nahe, denn bei einem Strand denkt man an Sommerfrische. Gemeint ist aber die Erdgeschichte: Im Erdzeitalter Tertiär lag Oberjosbach an einer Meeresküste. Davon erzählt der Gusbacher Strandweg, ein Rundweg durch Streuobstwiesen und Wälder. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.niedernhausen.de/kultur-vereine-freizeit/rad-wanderwege/der-gusbacher-strandweg-natur-und-geschichte/",
+"faktencheck": "bestätigt",
+"id": "175-niedernhausen/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Niedernhausen",
+"steckbrief": "Niedernhausen hat rund 14.000 Einwohner und liegt 10 km nordöstlich von Wiesbaden.",
+"frage": "Pfarrer Stähler gab in Niedernhausen eine Mariengrotte in Auftrag. Woran sollte sie nach der Ortsgeschichte erinnern?",
+"optionen": [
+"Eine Viehseuche soll das Dorf verschont haben.",
+"Maria soll einen Bombenangriff verhindert haben.",
+"Ein Großbrand soll vor der Kirche erloschen sein.",
+"Ein Hochwasser soll das Dorf verschont haben."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Seuchen oder Brände liegen nahe, denn zum Dank für solche Rettungen entstanden oft Kapellen. Hier aber erzählt eine Wundergeschichte, eine Marienstatue soll gegen Ende des Zweiten Weltkriegs einen Bombenangriff auf Niedernhausen verhindert haben. Zum Gedenken daran entstand die Grotte. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.niedernhausen.de/kultur-vereine-freizeit/rad-wanderwege/historischer-spaziergang-durch-niedernhausen/",
+"faktencheck": "bestätigt",
+"id": "175-niedernhausen/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "174-raunheim",
+"anschluss": [
+"Fläche: Niedernhausen ist fast dreimal so groß wie Raunheim.",
+"Bundestagswahl 2025: In Niedernhausen wählten 87,3 Prozent, in Raunheim 75,3."
+],
+"anschluesse": {
+"64-ruesselsheim": [
+"Kreisgrenze: Rüsselsheim gehört zum Landkreis Groß-Gerau, Niedernhausen zum Rheingau-Taunus-Kreis.",
+"Rüsselsheim hat gut viereinhalbmal so viele Einwohner wie Niedernhausen."
+],
+"139-bischofsheim": [
+"Kreisgrenze: Bischofsheim gehört zum Landkreis Groß-Gerau, Niedernhausen zum Rheingau-Taunus-Kreis.",
+"Bischofsheim und Niedernhausen sind fast gleich groß: rund 13.000 und 14.000 Einwohner."
+],
+"45-mainz": [
+"Landesgrenze: Mainz liegt in Rheinland-Pfalz, Niedernhausen in Hessen.",
+"Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Niedernhausen die CDU."
+],
+"46-wiesbaden": [
+"Kreisgrenze: Wiesbaden ist kreisfrei, Niedernhausen gehört zum Rheingau-Taunus-Kreis.",
+"Wiesbaden hat rund zwanzigmal so viele Einwohner wie Niedernhausen."
+],
+"23-walluf": [
+"Niedernhausen hat gut zweieinhalbmal so viele Einwohner wie Walluf.",
+"Niedernhausen liegt rund 170 Meter höher als Walluf."
+],
+"173-kelsterbach": [
+"Kreisgrenze: Kelsterbach gehört zum Landkreis Groß-Gerau, Niedernhausen zum Rheingau-Taunus-Kreis.",
+"Kelsterbach hat rund 2.500 Einwohner mehr als Niedernhausen."
+],
+"174-raunheim": [
+"Fläche: Niedernhausen ist fast dreimal so groß wie Raunheim.",
+"Bundestagswahl 2025: In Niedernhausen wählten 87,3 Prozent, in Raunheim 75,3."
+],
+"176-idstein": [
+"Idstein hat fast doppelt so viele Einwohner wie Niedernhausen."
+]
+},
+"ags": "06439011",
+"ortsteil": false,
+"km_vom_vorigen": 19.4
 },
 {
 "slug": "176-idstein",
@@ -41065,12 +43641,19 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "165-kist",
-"anschluss": [],
+"anschluss_von": "175-niedernhausen",
+"anschluss": [
+"Einwohner: Idstein zählt fast doppelt so viele wie Niedernhausen.",
+"Fläche: Idstein ist mehr als doppelt so groß wie Niedernhausen."
+],
 "anschluesse": {
 "46-wiesbaden": [
 "Kreisgrenze: Wiesbaden ist kreisfrei, Idstein gehört zum Rheingau-Taunus-Kreis.",
 "Wiesbaden hat elfmal so viele Einwohner wie Idstein."
+],
+"175-niedernhausen": [
+"Einwohner: Idstein zählt fast doppelt so viele wie Niedernhausen.",
+"Fläche: Idstein ist mehr als doppelt so groß wie Niedernhausen."
 ],
 "177-huenfelden": [
 "Kreisgrenze: Hünfelden gehört zum Landkreis Limburg-Weilburg, Idstein zum Rheingau-Taunus-Kreis.",
@@ -41079,7 +43662,7 @@ window.QA_DATEN = {
 },
 "ags": "06439008",
 "ortsteil": false,
-"km_vom_vorigen": 124.5
+"km_vom_vorigen": 7.4
 },
 {
 "slug": "177-huenfelden",

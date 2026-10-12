@@ -86,6 +86,8 @@ def main():
         # Reihenfolge der Fahrt: orte.json, wo es sie gibt (Raum bahn: Nummern 01–10 Messorte, 11–29 Ausbau), sonst Slug
         pfad_o = os.path.join(iter_, 'orte.json')
         reihe_orte = [o[0] for o in json.loads(lies(pfad_o))['orte'] if o[0] in grund] if os.path.exists(pfad_o) else sorted(grund)
+        # breiteres Zielfenster für Städte abseits der Autobahn (Mike 2026-10-13: bis 7 km, z. B. Jena, Gotha, Potsdam)
+        korridor = json.loads(lies(pfad_o)).get('korridor_m', {}) if os.path.exists(pfad_o) else {}
         # nur Orte mit Karten im Vorrat (im Raum bahn laufen die Ausbau-Orte noch)
         reihe_orte = [s for s in reihe_orte if any(x['ort'] == s for x in vorrat)]
         for slug in reihe_orte:
@@ -134,6 +136,8 @@ def main():
                    # Gemeindeschlüssel: im GPS-Modus ersetzt ein Ort mit Geschichten-Karten die Grundversorgung derselben
                    # Gemeinde (ein Ortsteil wie Zähringen nicht die Stadt Freiburg)
                    'ags': g.get('gemeindeschluessel'), 'ortsteil': g.get('einheit', '').startswith('Ortsteil')}
+            if slug in korridor:
+                ort['korridor'] = korridor[slug]
             if vorher:
                 ort['km_vom_vorigen'] = round(km(grund[vorher], g), 1)
             orte.append(ort)

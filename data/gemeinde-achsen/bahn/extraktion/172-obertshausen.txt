@@ -1,0 +1,416 @@
+ENTITÄT: ort
+BEZEICHNUNG: Obertshausen
+QUELLE: https://www.obertshausen.de/de/stadtleben/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Kleinstadt
+  kreis: Offenbach
+  lage_im_kreis: nordöstlicher Bereich
+  gemeinden_im_kreis: 13
+  region: Rhein-Main Gebiet
+  nachbarorte: Frankfurt am Main, Offenbach am Main, Hanau, Darmstadt
+  ursprungsgemeiden: Hausen und Obertshausen
+  gebietsreform_jahr: 1977
+  grund_gebietsreform: Hessische Gebietsreform
+  stadt_seit: 1979
+  einwohner_ca: 25500
+  wachstum_grund: Zuzug von Vertriebenen nach 2. Weltkrieg und günstige Lage zwischen Großstädten
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Obertshausen
+QUELLE: https://www.obertshausen.de/de/stadtleben/zahlen/daten/fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 25939
+  einwohner_stand: 30.06.2026
+  hoehenlage_m: 112
+  breite: 50°04'
+  laenge: 08°51'
+  arbeitnehmer_wohnort: 8940
+  arbeitnehmer_weiblich_wohnort: 4148
+  produzierendes_gewerbe: 3124
+  handel_gastgewerbe_verkehr: 1337
+  unternehmensdienstleistungen: 890
+  arbeitnehmer_arbeitsort: 6317
+  arbeitnehmer_weiblich_arbeitsort: 2518
+  teilzeitbeschaeftigte: 1675
+  ausl_arbeitnehmer_arbeitsort: 1025
+  ohne_berufsausbildung_prozent: 14.0
+  mit_berufsausbildung_prozent: 55.6
+  hochschule_prozent: 9.1
+  einpendler: 4490
+  auspendler: 7113
+  grundsteuer_a_vs_h: 888
+  grundsteuer_b_vs_h: 1107
+  gewerbesteuer_vs_h: 395
+  einzelhandelszentralitaet: 67.2
+  steuern_gueltig_ab: 01.01.2026
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Obertshausen
+QUELLE: https://www.obertshausen.de/de/stadtleben/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmalige_nennung_namen: Huson und Oberdueshuson
+  erstmalige_nennung_quelle: Zinsregister Abtei Seligenstadt
+  erste_ansiedlungen: karolingische Rodungsperiode
+  ansiedlung_jahr_von_bis: 686-814
+  schenkung_1069: Heinrich IV. schenkt Neubruchland an Kloster Jakob in Mainz
+  besitzer_geschichte: Herren von Eppstein, Ullrich von Hanau, Erzbischof Conrad III. von Mainz (ab 1425)
+  pest_jahr: 1636
+  pest_folgen: Obertshausen 20 Einwohner, Hausen 7 Einwohner
+  besitzer_ab_1648: Graf Philip von Schönborn
+  grund_besitzerwechsel: Türkenkriege und Hungersnot
+  souveraenitaet_1803: Fürsten von Isenburg-Birstein
+  souveraenitaet_1816: Großherzogtum Hessen
+  wirtschaft_bis_20_jh: rein landwirtschaftlich orientiert
+  eisenbahn_nebenstrecke_zeitpunkt: Ende 19. Jahrhundert
+  eisenbahn_strecke: Offenbach-Dieburg-Reinheim
+  eisenbahn_folge: ermöglichte Erwerbstätigkeit in Industrie
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Obertshausen
+QUELLE: https://www.obertshausen.de/de/stadtleben/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lederwaren_betriebe_um_1965: ca. 130
+  lederwaren_form: Heimarbeit und Teilproduktion in häuslichen Betrieben
+  lederwaren_zentrum: Offenbach am Main
+  lederwaren_vorteil: ermöglichte Mithilfe der ganzen Familie
+  wohlstand_1960er: zwei der reichsten Gemeinden Deutschlands bezogen auf Pro-Kopf-Steueraufkommen
+  infrastruktur_zeitraum: 1960er Jahre
+  infrastruktur_ausgebaut: Bürgerhaus, Rathäuser, Hallenbad, Freibad, Kindergärten, Schulen, Sporthallen, Spielplätze, Seniorenwohnheime
+GUELTIG_AB: 1960
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Hausen
+QUELLE: https://www.obertshausen.de/de/stadtleben/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_bis_1977: selbststaendige Gemeinde
+  erste_ansiedlung: karolingische Rodungsperiode
+  ansiedlung_jahr_von_bis: 686-814
+  erstmalige_nennung_name: Huson
+  erstmalige_nennung_quelle: Zinsregister Abtei Seligenstadt
+  pest_1636_einwohner: 7
+  zusammenlegung: 1977 mit Obertshausen
+GUELTIG_BIS: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Ev. Kirchengemeinde Obertshausen
+ORTSTEIL_BEZUG: Obertshausen
+QUELLE: https://www.obertshausen.de/de/stadtleben/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  adresse: Schönbornstraße 42
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Kath. Kirche Herz-Jesu
+ORTSTEIL_BEZUG: Obertshausen
+QUELLE: https://www.obertshausen.de/de/stadtleben/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Bahnhofstraße 62
+  pfarrer: Norbert Hofmann
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Kath. Kirche St. Thomas Morus
+ORTSTEIL_BEZUG: Obertshausen
+QUELLE: https://www.obertshausen.de/de/stadtleben/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Franz-Liszt-Straße 15
+  pfarrer: Norbert Hofmann
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Kath. Kirche St. Josef
+ORTSTEIL_BEZUG: Obertshausen
+QUELLE: https://www.obertshausen.de/de/stadtleben/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  adresse: Pfarrer-Schwahn-Straße 4
+  pfarrer: Christoph Schneider
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Werkstatt-Museum "Karl-Mayer-Haus"
+ORTSTEIL_BEZUG: Obertshausen
+QUELLE: https://www.obertshausen.de/de/stadtleben/sehenswertes/heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Karl-Mayer-Straße 10
+  traeger: Heimat- und Geschichtsverein
+  eroeffnung: 3. Oktober 1992
+  eintritt: frei
+  gebaeude_beschreibung: Geburtshaus von Prof. Dr. h.c. Karl Mayer, der Stadt 1990 geschenkt
+  dauerausstellungen: Ortsgeschichte, Lederwarenwerkstatt, Naturschutzgebiet Hengster, Religionsgeschichte, Burg im Hain, Familiengeschichte
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Karl Mayer
+QUELLE: https://www.obertshausen.de/de/stadtleben/sehenswertes/heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Gründer der Wirkmaschinenfabrik Karl Mayer GmbH
+  status: Ehrenbürger der Stadt Obertshausen
+  geburtsjahr: 1910
+  gueltig_ab: 1910
+  sterbejahr: 1996
+  sterbealter: 86
+  verdienste: gab vielen Menschen in schweren Zeiten Arbeit, großer Mäzen
+  geburtshaus: Karl-Mayer-Haus, Karl-Mayer-Straße 10
+GUELTIG_BIS: 1996
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Heinz Kahl
+QUELLE: https://www.obertshausen.de/de/stadtleben/sehenswertes/heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Verfasser der Obertshausener Ortschronik
+  leistung: sammelte historische Dokumente
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Otto Lechens
+QUELLE: https://www.obertshausen.de/de/stadtleben/sehenswertes/heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: setzte sich für die Gründung des Heimatmuseums ein
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Burg im Hain
+ORTSTEIL_BEZUG: Obertshausen
+QUELLE: https://www.obertshausen.de/de/stadtleben/sehenswertes/die-burg-im-hain | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Wald
+  namensherkunft: vermutlich durch Lage im Wald
+  burgmauer_breite_m: 2.20
+  befestigte_flaeche_m: 28 mal 31
+  burggraben: wassergefüllt, 1 Meter vor Mauer
+  turm_lage: in der Mitte der befestigten Fläche
+  funktion: Repräsentation und Verteidigung
+  erstmalige_nennung_urkundlich: 1576
+  vermutet_erbauer: Herren Wigger und Gottfried von Hausen
+  vermutet_erbauer_belege: Namen in Urkunden aus den Jahren 1130 und 1151
+  vermutet_ursprung: Stammsitz der Adelsfamilie von Hausen aus dem Geschlecht der dienstadligen Maingaugrafen
+  besitzer_1124: Erzbischof Adalbert von Mainz
+  besitzer_1124_weg: geschenkt durch Udalrich
+  besitzer_1173: Herren von Eppstein
+  besitzer_ab_1664: Graf von Schönborn
+  besitzer_1806: Fürsten von Isenburg-Birstein
+  besitzer_1816: Großherzogtum Hessen
+  zerstoerung_grund: Missbrauch als Steinbruch während letzte Jahrhunderte, nicht durch kriegerische Aktivitäten
+  archaeolog_grabung_1964: Karl Nahrgang
+  archaeolog_grabung_1974: Klaus Ulrich
+  archaeolog_fundsituation: Fragmente nicht besonders gut erhalten
+  archaeolog_schaeden: Nutzung als Steinbruch und landwirtschaftliche Nutzung
+  fruehe_nutzung_bis_1930er: als Garten
+  sagenmotiv: unterirdische Geheimgänge, keine Beweise gefunden
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Obertshausen
+ORTSTEIL_BEZUG: Obertshausen
+QUELLE: https://www.obertshausen.de/de/stadtleben/sehenswertes/bahnhof-obertshausen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1896-1897
+  linie: Rodgaubahn
+  bauprinzip: nach gleichen Bauplänen wie alle anderen Rodgaubahn-Bahnhöfe
+  zentennial: 1997
+  bahnuebergang_beschrankt_seit: 1914
+  urspr_einrichtung: Empfangsgebäude mit Warteraum, Dienstraum, Fahrkartenausgabe, Güterabfertigung, Büroraum, Dienstwohnungen
+  heizung_urspruenglich: mit Öfen
+  wartehaeuschen_baujahr: 1952
+  aenderung_1960: Gleis zur Werkshalle Mayer, Tankanlage zum Betanken von Kleinlok
+  abbruch_1966: Schrankenbude
+  ausbauzeitraum: 2001-2003
+  ausbau_art: zweigleisig ausgebaut, elektrifiziert
+  s_bahn_anbindung_eroffnung: 13. Dezember 2003
+  infrastruktur_ausbau: Omega-Unterführung (Jahrhundertprojekt)
+  stadtuebername: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: marktplatz
+BEZEICHNUNG: Marktplatz in Hausen
+ORTSTEIL_BEZUG: Hausen
+QUELLE: https://www.obertshausen.de/de/stadtleben/sehenswertes/marktplatz-in-hausen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umgestaltung_eroeffnung: 1. Mai 1992
+  kunstwerk_anzahl: 3
+  kunstwerk_art: Skulpturen
+  kunstwerk_darstellen: 3 Hände mit Wappen
+  kunstwerk_wappen: Laakirchen, Sainte-Geneviève-des-Bois, Obertshausen
+  kunstwerk_kuenstler: Louis Molinari aus Sainte-Geneviève-des-Bois
+  spitzname: Hausener Moor
+  spitzname_grund: wirken wie im Moor versinkende Arme, die sich gen Himmel strecken
+  mittelpunkt: Brunnen
+  bushaltehaus_name: Hände der Freundschaft
+  bushaltehaus_hoehe_m: 2.80
+  bushaltehaus_zusatzfunktion: Eingangstor zum Marktplatz
+  einweihung_atmosphaere: glich einem Volksfest
+  jährliche_veranstaltung: DRK Hausen veranstaltet großes Fest am 1. Mai
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Laakirchen
+ORTSTEIL_BEZUG: Österreich
+QUELLE: https://www.obertshausen.de/de/stadtleben/partnerstaedte/laakirchen-oesterreich | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Österreich
+  region: Salzkammergut
+  entfernung_gmunden_km: ca. 8
+  nahe_traun_see: Gmunden am Traunsee
+  nahe_bad_ischl: ja
+  nahe_bad_ischl_bezug: Königin Sissi verweilte dort
+  einwohner: 9500
+  charakterisierung: Urlaubsort
+  freizeiteinrichtungen: zahlreiche für die ganze Familie
+  nahegelegene_seen: Traunsee, Wolfgangsee, Attersee, Mondsee
+  berg_aktivitaeten: Tauern mit Dachsteingletscher
+  weitere_attraktionen: Rieseneishöhlenwelt, Hallstätter See, Salzbergwerk, Traunfall
+  staedtepartnerschaft_seit: 1972
+  staedtepartnerschaft_grund: mit damals selbstständiger Gemeinde Obertshausen
+  staedtepartnerschaft_35_jahre_jubilaeum: 2007
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Sainte-Geneviève-des-Bois
+ORTSTEIL_BEZUG: Frankreich
+QUELLE: https://www.obertshausen.de/de/stadtleben/sehenswertes/marktplatz-in-hausen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  staedtepartnerschaft_mit: Obertshausen
+  kuenstler_ansaessig: Louis Molinari
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: denkmal
+BEZEICHNUNG: Ehrendenkmal Volkstrauertag
+ORTSTEIL_BEZUG: Obertshausen
+QUELLE: https://www.obertshausen.de/de/index.php?id=508&no_cache=1&publish[id]=1654041&publish[start]= | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Friedhof Obertshausen, Rembrücker Weg
+  anlass: Volkstrauertag
+  gedenken: Tote beider Weltkriege
+  veranstaltung: Gedenkstunde und Kranzniederlegung
+  gedenkstunde_anfang: 11.30 Uhr
+  gedenkstunde_rhythmus_seit_2024: wechselnd in Ortsteilen Obertshausen und Hausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: wirtschaftliche_branche
+BEZEICHNUNG: Lederwaren
+QUELLE: https://www.obertshausen.de/de/stadtleben/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung_zeitpunkt: Ende 19. Jahrhundert
+  zentrum: Offenbach am Main
+  betriebsart: Heimarbeit und Teilproduktion in häuslichen Betrieben
+  betriebsart_grund: ermöglichte Mithilfe der ganzen Familie am Broterwerb
+  betriebe_um_1965_anzahl: ca. 130
+  betriebe_orte: Hausen und Obertshausen
+  wirtschaftliche_bedeutung: trug wesentlich zum Wohlstand bei
+  wohlstands_periode: 1960er Jahre
+GUELTIG_AB: 1880
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: unternehmen
+BEZEICHNUNG: Karl Mayer GmbH
+ORTSTEIL_BEZUG: Obertshausen
+QUELLE: https://www.obertshausen.de/de/stadtleben/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Wirkmaschinenfabrik
+  gruender: Karl Mayer
+  expansion: innerhalb weniger Jahre (Mitte des 20. Jahrhunderts)
+  infrastruktur_werkshalle: 1960 Gleis zur Werkshalle, Tankanlage für Kleinlok
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Schulgebäude Waldstraße
+ORTSTEIL_BEZUG: Obertshausen
+QUELLE: https://www.obertshausen.de/de/stadtleben/sehenswertes/heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Waldstraße 1
+  baujahr: 1881
+  geplante_umnutzung: Heimatmuseum
+  grund_verwerfung: Einsturz während Renovierungsarbeiten, Wiederaufbau zu teuer
+GUELTIG_BIS: 1990
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Hengster
+ORTSTEIL_BEZUG: Obertshausen
+QUELLE: https://www.obertshausen.de/de/stadtleben/sehenswertes/heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: ältestes Naturschutzgebiet Deutschlands
+  ausstellung_museum: Dauerausstellungsraum im Karl-Mayer-Haus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75

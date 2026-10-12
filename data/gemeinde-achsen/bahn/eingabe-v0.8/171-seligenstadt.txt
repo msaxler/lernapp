@@ -1,0 +1,914 @@
+ZIELORT: Seligenstadt (Stadt)
+LAGE: 16 km südöstlich von Offenbach am Main (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Seligenstadt
+
+GRUNDDATEN:
+  landkreis: Offenbach  [dewiki Infobox]
+  bundesland: Hessen  [dewiki Infobox]
+  einwohner: 21.225  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 30,85  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 688  [berechnet aus Einwohner und Fläche]
+  kfz: OF (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 111 | 110 | 112  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2833242)]
+  naechste_grossstadt: Offenbach am Main, 16 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Wiesbaden, 52 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Seligenstadt  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 63500  [Wikidata P281]
+  vorwahl: 06182  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 35,9 %, AfD 16 %, SPD 14,9 %, GRÜNE 13,2 %, Die Linke 6 %, FDP 5,9 %; Wahlbeteiligung 86,6 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Daniell Bastian (FDP) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-12]
+  partnerstaedte: Triel-sur-Seine, Brookfield, Piedimonte Matese  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT einwohner: Einwohnerzahl (Ersatz: Fläche der Gemarkung), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT partnerstaedte: Partnerstadt (Ersatz: Luftlinie zur Landeshauptstadt), A, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Stockstadt am Main (Gemeinde)
+  landkreis: Aschaffenburg  [dewiki Infobox]
+  einwohner: 7852  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 18,87  [Wikidata P2046]
+  kfz: AB (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 117 | 118  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2826670)]
+  naechste_grossstadt: Offenbach am Main, 25 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Stockstadt (Main)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 35,1 %, AfD 22,7 %, SPD 15,8 %, GRÜNE 7,1 %, Die Linke 6,2 %; Wahlbeteiligung 84,5 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen
+
+FAKTEN (Zielort Seligenstadt):
+ID: 171-seligenstadt/001
+ENTITÄT: transportmittel
+BEZEICHNUNG: Stadt Seligenstadt (Mainfähre)
+QUELLE: https://www.seligenstadt.de/leben-und-wohnen/mobilitaet/faehre/faehrchronik.pdf?cid=zg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Wagenmotorfähre
+  betreiber: Stadtwerke Seligenstadt
+  laenge: 28 Meter
+  breite: 8,40 Meter
+  tiefgang_leer: 0,62 Meter
+  tiefgang_beladen: 1 Meter
+  tragfaehigkeit: 45 Tonnen
+  fahrbahnbreite: 5,25 Meter
+  antrieb: 2 Iveco-Motoren
+  propeller: 2 Schottel-Propeller
+  geschwindigkeit: 5 Knoten
+  inbetriebnahme: 1971
+  betriebsstunden: über 75.000
+  lage_main_kilometer: 69,6
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 171-seligenstadt/002
+ENTITÄT: transportmittel
+BEZEICHNUNG: fliegende Brücke
+QUELLE: https://www.seligenstadt.de/leben-und-wohnen/mobilitaet/faehre/faehrchronik.pdf?cid=zg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Fähre
+  konstruktion: an Maingrund verankertes Seil, von 5 Booten getragen
+  beschreibung: an Seil hängendes Fährschiff
+GUELTIG_AB: 1873
+GUELTIG_BIS: 1928
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 171-seligenstadt/003
+ENTITÄT: transportmittel
+BEZEICHNUNG: motorlose Fähre an Seil
+QUELLE: https://www.seligenstadt.de/leben-und-wohnen/mobilitaet/faehre/faehrchronik.pdf?cid=zg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Fähre
+  antrieb: keine Motoren
+  konstruktion: über dem Wasser von Hessen zu Bayern gespanntes Seil
+GUELTIG_AB: 1928
+GUELTIG_BIS: 1957
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 171-seligenstadt/004
+ENTITÄT: ort
+QUELLE: https://www.seligenstadt.de/leben-und-wohnen/mobilitaet/faehre/faehrchronik.pdf?cid=zg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fährverbindung_seit_jahrhunderten: true
+  volksetymologie_faehrname: vom mittelhochdeutschen „naehen" (nahemachen), Fähre bringt das andere Ufer näher
+  mainfaehre_volkssprachlich_name_historisch: Neewe
+GUELTIG_AB: 9
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/005
+ENTITÄT: ort
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Offenbach
+  bundesland: Hessen
+  lage_fluss: Main
+  lage_ufer: linkes südwestliches Ufer einer rechtswendenden Mainschleife
+  entfernung_frankfurt: ca. 25 Kilometer südöstlich
+  grenzbildung: Main bildet Grenze zu Bayern
+  gemarkungsflaeche: 2043 Hektar
+  genauigkeit_gemarkung: ca.
+  waldflaeche: 1026 Hektar
+  genauigkeit_wald: ca.
+  bedeutung_geschichte: karolingische Zeit
+  amtliche_zusatzbezeichnung: Einhardstadt
+  amtliche_zusatzbezeichnung_gueltig_ab: 2020
+GUELTIG_AB: 9
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 171-seligenstadt/006
+ENTITÄT: stadtteil
+BEZEICHNUNG: Klein-Welzheim
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  richtung: mainaufwärts im Osten
+  eingemeindung: 1977
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/007
+ENTITÄT: stadtteil
+BEZEICHNUNG: Froschhausen
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  richtung: Nordwesten
+  eingemeindung: 1977
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/008
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Hainburg
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  richtung: Norden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 171-seligenstadt/009
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Karlstein
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  richtung: Osten
+  bundesland: Bayern
+  landkreis: Aschaffenburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 171-seligenstadt/010
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Mainhausen
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  richtung: Südosten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 171-seligenstadt/011
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Babenhausen
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  richtung: Süden
+  landkreis: Darmstadt-Dieburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 171-seligenstadt/012
+ENTITÄT: nachbargemeinde
+BEZEICHNUNG: Rodgau
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  richtung: Westen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 171-seligenstadt/013
+ENTITÄT: bauwerk
+BEZEICHNUNG: Castrum Selgum
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  typ: Kohortenkastell
+  zeit: Antike
+  baubeginn: ca. 100
+  herrscher: Trajan
+  stationierte_kohorte: Cohors I Civium Romanorum equitata
+  aufgabe: Sicherung des Obergermanischen Limes
+  aufgegeben: ca. 260
+  grund_aufgabe: Alamannenstürme
+  nachfolgebebauung: Siedlung Mulinheim superior (Obermühlheim)
+GUELTIG_AB: 100
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/014
+ENTITÄT: persoenlichkeit_historisch
+BEZEICHNUNG: Einhard
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  rolle: Biograph Karls des Großen, Beratzer Karls des Großen
+  schaenkung_jahr: 815
+  beschaenkung_von: Ludwig I. (Ludwig der Fromme)
+  beschaenkung_gut: fränkisches Domanialgut Obermulinheim
+  tätigkeit_grundung: Benediktinerkloster gegründet
+  tätigkeit_basilika: Einhard-Basilika gebaut
+  titel: Laienabt (erster)
+GUELTIG_AB: 815
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/015
+ENTITÄT: bauwerk
+BEZEICHNUNG: Einhard-Basilika St. Marcellinus und Petrus
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  typ: Basilika
+  reliquien: Heilige Marcellinus und Petrus
+  grundung: zeitnah nach 828
+  ehrentitel: Basilica minor
+  ehrentitel_verliehen_durch: Papst Pius XI.
+  ehrentitel_verliehen_ab: 1925
+  bausubstanz: karolingische Bausubstanz (nördlich der Alpen)
+  beschreibung: Wahrzeichen der Stadt am Untermain
+  reliquienherkunft: 828 aus Rom (Basilika Steinbach im Odenwald) überführt
+  reliquien_urspruengliche_aufbewahrung: Laurentiuskapelle des Gutshofes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 171-seligenstadt/016
+ENTITÄT: kloster
+BEZEICHNUNG: Benediktinerabtei Seligenstadt
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  typ: Benediktinerabtei
+  gründer: Einhard
+  grundung: ca. 815
+  eigenkloster_ja: true
+  besitz_umfang_zeit_um_1000: Einkünfte aus 40 Orten
+  aufgehoben: 1803
+  grund_aufhebung: Säkularisation
+GUELTIG_AB: 815
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/017
+ENTITÄT: bauwerk
+BEZEICHNUNG: Benediktiner-Klosteranlage
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  stil: barocke Flügelbauten
+  anlagen: Hof- und Gartenanlagen
+  aufgehoben: 1803
+  zustand: vollständig restauriert
+GUELTIG_AB: 1803
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 171-seligenstadt/018
+ENTITÄT: veranstaltung_historisch
+BEZEICHNUNG: Synode Seligenstadt
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  typ: römisch-katholische Synode
+  jahr: 1028
+  wichtigstes_ergebnis: Einführung des Quatember mit strengen Fastenregeln
+GUELTIG_AB: 1028
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 171-seligenstadt/019
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Hoftag Barbarossas Seligenstadt
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  herrscher: Friedrich Barbarossa
+  datum: 1188-04-23
+  ereignis: Ehevertrag zwischen Konrad und Berenguela von Kastilien
+  beteiligte: König Alfons VIII. von Kastilien
+  ergebnis: Ehevertrag zwischen Konrad und Berenguela
+  ort_handlung_romanisches_haus: wahr
+GUELTIG_AB: 1188
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/020
+ENTITÄT: stadtrecht
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  verleihung_zeit: Regierungszeit Friedrich Barbarossas
+  bestandteile: Königshof (Palatium) am Mainufer
+GUELTIG_AB: 1188
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 171-seligenstadt/021
+ENTITÄT: kooperationsbund
+BEZEICHNUNG: Neunstädtebund des Mainzer Oberstifts
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  grundung: 1346
+  gruendungsmitglieder_anzahl: 9
+  seligenstadt_mitglied_von_anfang: true
+  verfassung_initial: kommunale Selbstverwaltung (Ratsverfassung)
+  emanzipation_zeitraum: im Verlauf des 15. Jahrhunderts
+  emanzipation_von: Mainzer Erzbischof, Mainzer Domkapitel
+  rechte: eigenständige Steuererhebung und -bewilligung
+  aufloesungsfaktisch: 1527-1528
+  grund_aufloesungsfaktisch: erzbischöfliche Verfügungen
+GUELTIG_AB: 1346
+GUELTIG_BIS: 1528
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 171-seligenstadt/022
+ENTITÄT: stadtordnung
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  erlassen_durch: Mainzer Erzbischof Albrecht von Brandenburg
+  erlassen_jahr: 1527
+  folge: Bürgerrechte stark eingeschränkt
+GUELTIG_AB: 1527
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 171-seligenstadt/023
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Dreißigjähriger Krieg Seligenstadt
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  besatzung_verwaltung: schwedischer Kommissar (um 1631) im Auftrag König Gustav Adolfs
+  besatzung_zahlungen: Kontributionen an Schwedenkönig
+  besatzung_verhandlung: Verzicht auf Niederbrennen der Häuser
+  besatzung_plunderung: Besatzungssoldaten plünderten trotzdem Stadt und Abtei
+  wiederaufbau_abt_gebaeude: 1685
+GUELTIG_AB: 1631
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 171-seligenstadt/024
+ENTITÄT: verwaltungsreform
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  grund: Säkularisation von Kurmainz (Reichsdeputationshauptschluss)
+  jahr: 1803
+  folge_territorium: Stadt und Amt Seligenstadt an Landgrafschaft Hessen-Darmstadt
+  folge_status_1806: Großherzogtum Hessen (Rheinbundstaat)
+  kloster_folge: Säkularisierung
+GUELTIG_AB: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/025
+ENTITÄT: verwaltungsreform
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1821
+  massnahme: Trennung von Rechtsprechung und Verwaltung
+  neuer_verwaltungsbehoerde: Landratsbezirke
+  neue_rechtssprechung: Landgerichte
+  betroffenes_amt: Amt Seligenstadt (aufgelöst)
+GUELTIG_AB: 1821
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 171-seligenstadt/026
+ENTITÄT: verwaltungsreform
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  jahr_1832: Kreis Offenbach
+  jahr_1848: Regierungsbezirk Darmstadt
+  jahr_1852: zurück Kreis Offenbach
+  jahr_1939: Landkreis Offenbach (Umbenennng)
+GUELTIG_AB: 1832
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/027
+ENTITÄT: gericht
+BEZEICHNUNG: Landgericht Steinheim
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  aufgabe_initial: erstinstanzliche Rechtsprechung Seligenstadt
+  aenderung_1835: Sitz verlegt nach Seligenstadt
+  neue_bezeichnung_1835: Landgericht Seligenstadt
+GUELTIG_AB: 1821
+GUELTIG_BIS: 1879
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 171-seligenstadt/028
+ENTITÄT: gericht
+BEZEICHNUNG: Amtsgericht Seligenstadt
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  ersetzt: Landgericht Seligenstadt
+  aenderung_jahr: 1879
+  grund_aenderung: Gerichtsverfassungsgesetz
+GUELTIG_AB: 1879
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/029
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Eisenbahnstrecke Hanau-Seligenstadt-Eberbach
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  eroffnung: 1882-05-01
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/030
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Erhebung Basilika zur Basilica minor
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  objekt: Einhard-Basilika St. Marcellinus und Petrus
+  jahr: 1925
+  erhoben_durch: Papst Pius XI.
+GUELTIG_AB: 1925
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 171-seligenstadt/031
+ENTITÄT: juedische_gemeinde
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  existenzdauer: Jahrhunderte
+  anzahl_frueh_1930er: 146
+  vertreibung_grund: Entrechtung, Boykott, Repressalien (Arisierung)
+  vertreibung_ziele: Nord- und Südamerika (überwiegende Mehrheit)
+  novemberpogromen_1938: Synagoge abgebrannt, Juden misshandelt
+  deportation_kz: 10 Juden ins KZ Buchenwald (1938)
+  einwohner_mai_1939: 77
+  einwohner_1941: ca. 45 (in 4 Judenhäusern)
+  deportation_theresienstadt: Herbst 1942
+  ermordete_insgesamt: 103
+  rueckkehr_nach_krieg: 2 aus Emigration
+GUELTIG_AB: 1800
+GUELTIG_BIS: 1942
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/032
+ENTITÄT: brauch
+BEZEICHNUNG: Seligenstädter Geleit
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: Mittelalter
+  superlativ: einmaliger Brauch in der Bundesrepublik Deutschland
+  ursprung: Kaufleute aus Augsburg und Nürnberg zogen über Spessart oder Main
+  rastplatz: Seligenstadt
+  gefaehrdung: Wegelagerer und Raubritter
+  schutz_verleihung: 1240 durch Friedrich II. (Geleitsbrief)
+  geleitsloeffel_inhalt: 1 Liter Wein
+  haeselbrauch: Neulinge mussten Löffel austrinken
+  nagelprobe: Prüfung im Geleit
+  geleitsfest_frequenz: alle vier Jahre
+  geleitsfest_veranstalter: Heimatbund Seligenstadt e.V.
+  kaufmannszug_rekonstruktion_seit: 2003, alle vier Jahre
+GUELTIG_AB: 1240
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/033
+ENTITÄT: ordensbruderschaft
+BEZEICHNUNG: Ordensbruderschaft vom Steyffen Löffel zu Seligenstadt
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  grundung: 1989
+  zweck: Pflege des Brauchtums um historischen Löffeltrunk
+  leitung: Ordensmeister
+  stellvertreter: Fauth
+  loeffelgruppe_groesse: Löffelmeister, Examinator, Protokollant, Löffelwirt, Löffelmädchen
+  loeffelmädchen_ausstattung: schwere Holzketten an Trinklöffeln (1 Liter)
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 171-seligenstadt/034
+ENTITÄT: brauch
+BEZEICHNUNG: Seligenstädter Fastnacht
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  rosenmontagszug_existenz_seit: 1859
+  rosenmontagszug_zugnummern: 99
+  rosenmontagszug_besucher_durchschnitt: ca. 40.000
+  narrenname: Schlumber
+  stadtnamen_fastnacht: Schlumberland
+  prinzenpaar_arten: Prinzenpaar und Kinderprinzenpaar
+  kinderfastnachtsumzug: Sonntag vor Rosenmontag
+  zusatzzuege_anzahl: 2 Umzüge insgesamt
+  fahne_farben: grün, weiß, blau, gelb, rot
+  fahne_besonderheit: leicht abgewandelt von Mainzer Fahne
+  veranstalter: Heimatbund Seligenstadt e.V.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/035
+ENTITÄT: bauwerk
+BEZEICHNUNG: Evangelische Kirche Seligenstadt
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1847
+  stil: byzantinischer Stil mit romanisierenden Formen
+  lage: Südrand des mittelalterlichen Stadtkerns, am ehemaligen Obertor
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 171-seligenstadt/036
+ENTITÄT: bauwerk
+BEZEICHNUNG: Palatium
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  lokalname: Rotes Schloss
+  zeit: 12. Jahrhundert (Friedrich Barbarossa)
+  grundflaeche: 47 m × 14 m
+  grundflaeche_vergleich: klein im Vergleich zu anderen Kaiserpfalzen
+  material_arkaden: roter Sandstein
+  erhaltenes_relikt: Mainfront mit Doppel- und Dreifacharkaden
+  restaurierung_erste: 1938
+  restaurierung_rekonstruktion: Süd- und Westwand seit 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 171-seligenstadt/037
+ENTITÄT: bauwerk
+BEZEICHNUNG: Romanisches Haus
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  lokalname: domus lapidea
+  zeit: 12. Jahrhundert (Friedrich Barbarossa)
+  material: Stein, massive Bauweise
+  architektur: Arkaden, Mittelsäule, Überfangbogen, Blendarkade
+  funktion_1187: Vogtei
+  funktion_1188: Schauplatz des Hoftags Barbarossas
+  restaurierung: 1984
+  preis: Denkmalschutzpreis des Landes Hessen (1986)
+  nutzung_heute: kulturelle Veranstaltungen, standesamtliche Trauungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/038
+ENTITÄT: bauwerk
+BEZEICHNUNG: Steinheimer Tor
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  typ: Tor der Stadtbefestigung
+  erbaut: 1603-1605
+  zeitraum_befestigung_anlage: 12. Jahrhundert
+  zeitraum_befestigung_verstaerkung: 15. Jahrhundert
+  status_erhalten: einziges erhaltenes Tor
+GUELTIG_AB: 1603
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 171-seligenstadt/039
+ENTITÄT: bauwerk
+BEZEICHNUNG: Rathaus Seligenstadt
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  erneuerung: 1823
+  stil: Klassizismus mit großen Arkaden
+  besonderheit: einziger klassizistischer Bau inmitten von Fachwerkhäusern
+  wappensteine_anzahl: 2
+  wappensteine_motiv: Drachenköpfe
+  wappensteine_jahr: 1539
+  turm_herkunft: ehemalige Pfarrkirche
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 171-seligenstadt/040
+ENTITÄT: bauwerk
+BEZEICHNUNG: Wasserturm Seligenstadt
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1938
+  hoehe: 51,70 Meter
+  dachkonstruktion: pickelhaubenförmig, ähnlich barockem Schlossturm
+  kulturdenkmal: aufgeführt in Denkmaltopographie der BRD
+  wasserbehälter_kapazität: 500 Kubikmeter
+  nutzung_historisch: Trinkwassernetz, Löschwasser für Krankenhaus
+  nutzung_heute: Nistkästen für Turmfalken, Antennen (Feuerwehr, Katastrophenschutz, Mobilfunk)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/041
+ENTITÄT: fachwerkquartier
+BEZEICHNUNG: Klaa-Frankreich
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  lage: Rosengasse
+  zeitperiode_ansiedlung: nach Dreißigjährigem Krieg
+  ansiedlung_durch: Abt Leonhard Colchon
+  besiedler_herkunft: Wallonien (Heimat des Abts)
+  grund_ansiedlung: lokale Bevölkerung dezimiert durch Kampfhandlungen, Hungersnot, Pest
+  personennamen_wallonisch: Beike, Massoth, Bonifer, Dutine, Oger, Assion
+GUELTIG_AB: 1650
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 171-seligenstadt/042
+ENTITÄT: bauwerk
+BEZEICHNUNG: Wasserburg Klein-Welzheim
+ORTSTEIL_BEZUG: Klein-Welzheim
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  stil: mittelalterliche Burg mit barocken Anbauten
+  zweck: Sommersitz eines Seligenstädter Abts
+  gebaut: 1707
+  teil_von: Regionalpark Rhein-Main
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 171-seligenstadt/043
+ENTITÄT: bauwerk
+BEZEICHNUNG: Rathaus Froschhausen
+ORTSTEIL_BEZUG: Froschhausen
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1939
+  besonderheit: Kirchturm der abgerissenen Gemeinde-Kirche in Rathausgebäude integriert
+  beschreibung: schmucke Fachwerkgebäude
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 171-seligenstadt/044
+ENTITÄT: wappen
+QUELLE: https://www.seligenstadt.de/leben-und-wohnen/unsere-stadt/stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  form: gespalten
+  linke_seite_feldfarbe: gold
+  linke_seite_figur: halber schwarzer Adler
+  linke_seite_figur_bewehrung: rot
+  linke_seite_figur_krone: rot
+  rechte_seite_feldfarbe: rot
+  rechte_seite_figur: halbes sechsspeichiges weißes Rad
+  figuren_position: am Spalt
+  bedeutung_adler: Zeit als Reichsstadt im Heiligen Römischen Reich
+  bedeutung_rad: spätere Zugehörigkeit zu Kurmainz
+  designer: Georg Massoth (Heraldiker)
+  genehmigung_datum: 1952-12-04
+  schutz: staatliche Hoheitszeichen und geschützte Markenzeichen
+  verwendungsberechtigung: nur Ämter und Dezernate der Einhardstadt Seligenstadt
+  regelung: Wappenschutzsatzung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 171-seligenstadt/045
+ENTITÄT: flagge
+QUELLE: https://www.seligenstadt.de/leben-und-wohnen/unsere-stadt/stadtwappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: breite weiße Mittelbahn, beseitet von zwei schmäleren roten Bahnen, das Gemeindewappen
+  genehmigung_datum: 1957-10-23
+  genehmigung_durch: Hessisches Innenministerium
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/046
+ENTITÄT: buergerstift
+BEZEICHNUNG: Einhard-Preis-Stiftung
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  grundung: 1998
+  typ: Stiftung bürgerlichen Rechts
+  zweck: europäische Einigung auf Ebene einer Stadt, Wurzeln europäischer Nationen sichtbar machen
+  massnahme_1: Literaturpreis nach Einhard benannt
+  massnahme_2: wissenschaftliche Pflege und Erforschung Einhards
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELT: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 171-seligenstadt/047
+ENTITÄT: spielstaette
+BEZEICHNUNG: Freischwimmbad Seligenstadt
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  eroffnung: 1965
+  beckenbereiche: 4
+  nutzung: Trainingsbetrieb
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 171-seligenstadt/048
+ENTITÄT: ort_stadtebeziehung
+BEZEICHNUNG: Triel-sur-Seine
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  beziehung_typ: Städtepartnerschaft
+  gruendung_jahr: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/049
+ENTITÄT: ort_stadtebeziehung
+BEZEICHNUNG: Brookfield
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  land: USA
+  beziehung_typ: Städtepartnerschaft
+  gruendung_jahr: 2008
+  gruendung_monat: September
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/050
+ENTITÄT: ort_stadtebeziehung
+BEZEICHNUNG: Piedimonte Matese
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  land: Italien
+  beziehung_typ: Städtepartnerschaft
+  gruendung_jahr: 2010
+  gruendung_monat: September
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/051
+ENTITÄT: ort_stadtebeziehung_beendet
+BEZEICHNUNG: Heel
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  land: Niederlande
+  beziehung_typ: Städtepartnerschaft
+  gruendung_jahr: 1972
+  ende_jahr: 2008
+  ende_monat: März
+  grund_ende: Fusion zu Maasgouw (1. Januar 2007)
+GUELTIG_AB: 1972
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 171-seligenstadt/052
+ENTITÄT: ort_stadtebeziehung_beendet
+BEZEICHNUNG: Wessem
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  land: Niederlande
+  beziehung_typ: Städtepartnerschaft
+  partnerortsteil: Klein-Welzheim
+  herkunft: Partnerschaft Klein-Welzheims, ging zu Heel über
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 171-seligenstadt/053
+ENTITÄT: sage
+BEZEICHNUNG: Eginhard und Emma
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  variante_1: Umbenennung wegen Märtyrerknochen, nicht wegen Eginhard und Emma
+  variante_2_ereignis: Eginhard mit Karls Tochter Emma vom Hof verwiesen, leben zusammen in Obermulinheim
+  variante_2_kaiserbegegnung: Kaiser besucht Gasthaus, erkennt Emma, findet Pfannkuchen unvergleichlich
+  variante_2_ausspruch: Selig sei die Stadt genannt, da ich meine Tochter Emma wiederfand
+  variante_2_beleg: Erker des Einhardhauses (erneuert 1596)
+  variante_3: Eginhard und Emma lebten in Einöde im Wald, Karl nannte Stätte daher Seligenstatt
+  variante_4: Einhard bei Begräbnis seiner Frau sagte Selig sei die Statt, wo du ruhest
+  beschreibung: mehrere Varianten zur Namensherkunft
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 171-seligenstadt/054
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hans Memling
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: ca. 1433
+  geburtsort: Seligenstadt
+  todesjahr: 1494
+  todesort: Brügge
+  sterbedatum: 1494-08-11
+  beruf: Maler
+  stil: niederländische Schule
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 171-seligenstadt/055
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Frank Lortz
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  geburtsjahr: 1953
+  geburtsort: Seligenstadt
+  geburtsdatum: 1953-06-05
+  beruf: Abgeordneter, Vizepräsident des Hessischen Landtags
+  ehrentitel_ehrenbuerger: seit 2024-02-26
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 171-seligenstadt/056
+ENTITÄT: buergermesteramt
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  amtsinhaber: Daniell Bastian
+  amtsinhaber_partei: FDP
+  amtsantritt: 2016-01-01
+  amtszeit_dauer: 6 Jahre
+  wahlmodus: Direktwahl
+  wahlmodus_seit: 1993
+  rolle: Vorsitzender des Magistrats
+  magistrat_zusammensetzung: Bürgermeister + 1 Erster Stadtrat + 8 weitere Stadträte
+  vorgaenger: Dagmar Nonn-Adams
+  vorgaenger_amtszeiten: 2
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 171-seligenstadt/057
+ENTITÄT: kinderbetreuungseinrichtung
+BEZEICHNUNG: Kinderkrippe Burg Wirbelwind
+QUELLE: https://www.seligenstadt.de/strukturierte-daten/organisationen/kindertagesbetreuung/kinderkrippe-burg-wirbelwind/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: Mütterzentrum Seligenstadt e.V. „Weibernest"
+  altersgruppe: 6 Monate bis 3 Jahren
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 171-seligenstadt/058
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Affelderchen und Rettichbruch von Klein-Welzheim
+ORTSTEIL_BEZUG: Klein-Welzheim
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  nsg_kennung: 1438007
+  flaeche: ca. 51,23 Hektar
+  naturraum: Seligenstädter Senke
+  besonderheiten_flora: Orchideen (Dactylorhiza, Epipactis), Fieberklee, Sumpf- und Wiesen-Schwertlilie, Sumpffarn
+  fauna_voegel_brueter: Neuntöter, Teichrohrsänger, Kuckuck (Brutparasit), Pirol
+  pflanzenpflege: Mähkonzept zur optimalen Jahreszeit
+  neobiota: Waschbär (seit mindestens 2015 ausbreitend)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 171-seligenstadt/059
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Kortenbach bei Froschhausen
+ORTSTEIL_BEZUG: Froschhausen
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  nsg_kennung: 1438029
+  flaeche: ca. 40,5 Hektar
+  besonderheiten: bodenfrische Laubwälder, Hartholzaue-Reliktwälder mit wertvollen Altbeständen
+  gefaehrdung: alte Flatterulmen durch Grundwasserabsenkung gefährdet
+  wasserlauf: Werniggraben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 171-seligenstadt/060
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Langhorst von Hainburg und Seligenstadt
+ORTSTEIL_BEZUG: Froschhausen
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  nsg_kennung: 1438025
+  flaeche: ca. 82,27 Hektar
+  besonderheiten: typische Landschaftselemente der holozänen Mainaue, Laubwälder, Grünlandzüge mit Feuchtwiesen
+  gewaesser: Werniggraben, Weihersbach
+  gewässer_herkunft: Relikte nacheiszeitlicher Mainarme
+  nutzung: extensivierte Wiesen- und Grünlandnutzung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 171-seligenstadt/061
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Pechgraben bei Klein-Krotzenburg
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  nsg_kennung: 1438022
+  flaeche: ca. 34,04 Hektar
+  zusammensetzung: naturnahe Laubwälder, Feuchtgrünland, Röhrichte, Großseggenriede
+  wasserlauf: Pechgraben
+  wasserlauf_herkunft: nacheiszeitliche Flutrinne des Mains
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 171-seligenstadt/062
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Schwarzbruch von Seligenstadt
+QUELLE: https://de.wikipedia.org/wiki/Seligenstadt | Wikipedia
+EIGENSCHAFTEN:
+  nsg_kennung: 1438018
+  ffh_gebiet: DE-5919-303
+  natura_2000_status: ja
+  flaeche: ca. 34 Hektar
+  herkunft: verlandeter nacheiszeitlicher Altarm des Mains
+  zusammensetzung: Feuchtgrünland, Laubwaldbestände, mehrere Teiche
+  entstehung_teiche: Torfabbau (bis zu 2 Meter starke Schicht)
+  fauna_historisch: Grasfrosch und Erdkröte zahlreich
+  fauna_veraendert_durch: Golfplatzbau
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+

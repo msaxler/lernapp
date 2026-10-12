@@ -1,0 +1,497 @@
+ID: 170-stockstadt/001
+ENTITÄT: ort
+BEZEICHNUNG: Stockstadt am Main
+QUELLE: https://www.ich-geh-wandern.de/stockstadt-am-main | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: Marktgemeinde
+  region: Rhein-Main-Ebene
+  landkreis: Landkreis Aschaffenburg
+  bundesland: Bayern
+  flussgeografie: an der Mündung der Gersprenz in den Main
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/002
+ENTITÄT: ort
+BEZEICHNUNG: Stockstadt am Main
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  status: Markt
+  region: Unterfranken
+  lage: westlich angrenzend an Aschaffenburg, linke Mainseite
+  hoechster_punkt_muebernn: 144
+  niedrigster_punkt_muebernn: 101.7
+  gemeindeflaeche_km2: 18.856
+  flurstücke: 5402
+  grenze_nord_west: Hessen
+  bekannt_fuer: Kastell Stockstadt und ältester nachgewiesener Weihnachtsbaum Deutschland
+  erste_schriftliche_erwaehnung: Mitte 9. Jahrhundert (Form: "Stocestat")
+  erste_namentliche_erwaehnung_mit_kaiser: 1024 (Kaiser Heinrich II, geschenk an Kloster Fulda)
+  uebergabe_erzbistum_mainz: 1309
+  entdeckung_roemische_altertümer: 1820
+  jubilaeum_1000_jahre: 2024
+GUELTIG_AB: 844
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/003
+ENTITÄT: ort
+BEZEICHNUNG: Stockstadt am Main
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_1988: 6774
+  einwohner_2018: 8029
+  einwohner_anstieg_absolut: 1255
+  einwohner_anstieg_prozent: 18.5
+GUELTIG_AB: 1988
+GUELTIG_BIS: 2018
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/004
+ENTITÄT: kastell
+BEZEICHNUNG: Kastell Stockstadt
+QUELLE: https://www.ich-geh-wandern.de/stockstadt-am-main | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  epoche: römisch (1. Jahrhundert)
+  limes: Obergermanisch-Raetischer Limes (550 km)
+  bestand_bis: ca. 260
+  groesse_ha: 3.25
+  lage: nahe dem Main
+  dokumentation: Schautafel auf Bodendenkmal
+GUELTIG_AB: 100
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/005
+ENTITÄT: kastell
+BEZEICHNUNG: Kastell Stockstadt
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  epoche: römisch (Zeit Kaiser Trajans)
+  abzug_der_roemer: 260
+  entdeckungsjahreszahl: 1820
+  steindenkmäler: mehrere im Umfeld entdeckt
+  ziegelofen: mehrere in Kastellnähe
+  militaerziegelei_betreiber: cohors III Aquitanorum
+  kastellareal_ueberbauung: südlich Rhein-Main-Bahn mit Zellstofffabrik
+GUELTIG_AB: 100
+GUELTIG_BIS: 260
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Leonhard
+QUELLE: https://www.ich-geh-wandern.de/stockstadt-am-main | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  typ: Pfarrkirche
+  lage: Hauptstraße, altes Stockstadt
+  turmuntergeschoss_stil: gotisch
+  turmuntergeschoss_zeit: 15. Jahrhundert
+  saalbau_errichtung: 1773
+GUELTIG_AB: 1773
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/007
+ENTITÄT: kirche
+BEZEICHNUNG: Leonharduskirche
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  lage: alter Gemeindeteil
+  bauzeit: 1773
+GUELTIG_AB: 1773
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/008
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Anna Kapelle (original)
+QUELLE: https://www.ich-geh-wandern.de/stockstadt-am-main | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1458
+  lage: Ecke Hauptstraße/Alter Stadtweg
+  status: abgerissen
+GUELTIG_AB: 1458
+GUELTIG_BIS: ca. 1925
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/009
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Anna Kapelle (original)
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1458
+  lage_original: Ecke Hauptstraße/Alter Stadtweg
+  abriss: Januar 1925
+  abriss_beschluss: Gemeinderatsbeschluss
+GUELTIG_AB: 1458
+GUELTIG_BIS: 1925
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/010
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Anna Kapelle (Neubau)
+QUELLE: https://www.ich-geh-wandern.de/stockstadt-am-main | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 2008
+  baustil: nach altem Vorbild
+  lage: westlich der B 469
+  ausstattung: Platz zur Ruhe
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/011
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Anna Kapelle (Neubau)
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  neuerrichtung: 2007
+  neuerrichtung_standort: westlich jenseits B 469 in Richtung Auhof
+  weihe: 6. April 2008
+GUELTIG_AB: 2008
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/012
+ENTITÄT: zollhaus
+BEZEICHNUNG: Kurmainzisches Hauptzollhaus
+QUELLE: https://www.ich-geh-wandern.de/stockstadt-am-main | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Hauptstraße, Hausnummer 53
+  bauteile: Wohnhaus und Ökonomiegebäude (durch Bruchsteinmauer verbunden)
+  vorbau_funktion: Zolleinnahmestelle
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/013
+ENTITÄT: zollhaus
+BEZEICHNUNG: Zollhaus
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  erbaut: 1514-1545
+  nutzer_funktion: Zollstation für Mainzer Erzbischof und Kurfürst Albrecht von Brandenburg
+GUELTIG_AB: 1514
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/014
+ENTITÄT: fachwerkhaus
+BEZEICHNUNG: Fachwerkhaus neben St. Leonhard
+QUELLE: https://www.ich-geh-wandern.de/stockstadt-am-main | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1686
+  geschosse: zwei
+  dach: Satteldach mit Gauben
+  lage: Hauptstraße, neben katholischer Pfarrkirche St. Leonhard
+GUELTIG_AB: 1686
+IST_VERMUTISCH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/015
+ENTITÄT: weihnachtsbaum
+BEZEICHNUNG: Ältester Weihnachtsbaum Deutschlands
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  herkunft: Hübnerwald, Stockstadt
+  urkundliche_erwaehnung: 1527
+  quelle_erwaehnung: Akte der Kurmainzer Fürstbischöfe
+  zitat_original: "die weiennacht baum" (Kanzleischrift, 16. Jahrhundert)
+  superlativ: ältester nachgewiesener Weihnachtsbaum in Deutschland
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 170-stockstadt/016
+ENTITÄT: buegermeister
+BEZEICHNUNG: Rafael Herbrik
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  partei: SPD
+  amtsantritt: 1. Mai 2020
+  wahl_2020_ergebnis_prozent: 61.0
+  wiederwahl_datum: 8. März 2026
+  wiederwahl_ergebnis_prozent: 71.8
+  titel: Erster Bürgermeister
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/017
+ENTITÄT: buegermeister
+BEZEICHNUNG: Peter Wolf
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  partei: CSU
+  amtszeit_von: Mai 2008
+  amtszeit_bis: April 2020
+GUELTIG_AB: 2008
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/018
+ENTITÄT: buegermeister
+BEZEICHNUNG: Lothar Schaffrath
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  partei: SPD
+  amtszeit: vor Peter Wolf
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 170-stockstadt/019
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Saint-André-sur-Orne
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  benachbart: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/020
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Saint-Martin-de-Fontenay
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  benachbart: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/021
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: May-sur-Orne
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  benachbart: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/022
+ENTITÄT: radfernweg
+BEZEICHNUNG: Deutscher Limes-Radweg
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  verlauf: folgt Obergermanisch-Raetischer Limes
+  startpunkt: Bad Hönningen am Rhein
+  endpunkt: Regensburg an der Donau
+  laenge_km: 818
+  passage: durch Stockstadt am Main
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/023
+ENTITÄT: industrie_betrieb
+BEZEICHNUNG: Papier- und Zellstoffwerk Sappi
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  betrieb_eingestellt: Frühjahr 2024
+  uebergabe: 14. Mai 2024
+  neuer_betreiber: Progroup
+  neubau_planung: Wellpapperrohpapierwerk
+  abbruch_status_2026: läuft
+GUELTIG_BIS: 2024
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/024
+ENTITÄT: gemeindegebiet
+BEZEICHNUNG: Flächengliederung Stockstadts
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  gesamtfläche_km2: 18.856
+  flurstücke: 5402
+  durchschnittliche_flurstückfläche_m2: 3490.42
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/025
+ENTITÄT: gemeinderat
+BEZEICHNUNG: Marktgemeinderat
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  mitgliederzahl: 21
+  einschluss: Erster Bürgermeister
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/026
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Stockstadt am Main
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: In Blau über einem gesenkten silbernen Wellenbalken ein silberner Legionärshelm mit rotem Kamm in Seitenansicht
+  ortssiegel_ursprung: 17. Jahrhundert (oval, Anfangsbuchstaben unter Kurmainzer Rad)
+  entwerfer: Friedrich Merzbacher
+  genehmigung: 16. Februar 1952
+GUELTIG_AB: 1952
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/027
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz Bopp
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  geburt_ort: Mainz
+  geburt_jahr: 1791
+  tod_ort: Berlin
+  tod_jahr: 1867
+  beruf: Sprachwissenschaftler und Sanskritforscher
+GUELTIG_AB: 1791
+GUELTIG_BIS: 1867
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/028
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Hock
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Gastwirt in Stockstadt
+  zeittaetigkeiten: 1820er Jahre
+  verdienst: Sammlung römischer Altertümer
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 170-stockstadt/029
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Konrad Bardroff
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Lehrer in Stockstadt
+  stiftung: Bardroff'sche Stiftung
+  stiftung_genehmigung: 15. Juni 1882
+  stiftung_zweck: für krüppelhafte Kinder aus Aschaffenburg, Schweinheim, Leider, Mainaschaff und Stockstadt
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/030
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Josef Hofmeister
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1946
+  geburt_ort: Aschaffenburg
+  beruf: deutscher Fußballspieler
+  karrierestart: SV Stockstadt
+  karrierenende: SV Stockstadt
+GUELTIG_AB: 1946
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/031
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Rudolf Bott
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1956
+  geburt_ort: Stockstadt am Main
+  beruf: Goldschmied
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/032
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Jackson Richardson
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1969
+  geburt_ort: Saint-Pierre, Réunion
+  nationalitaet: französisch
+  beruf: Handballer
+  aufenthalt_stockstadt: 1997-2000
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/033
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Daphne de Luxe
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  geburt_monat_jahr: März 1971
+  geburt_ort: Kronach
+  buergername: Daphne Haderlein
+  beruf: Stand-up-Comedienne
+  auszeichnung: 2010 Publikumspreis Stockstädter Römerhelm
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/034
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Timo Kulczak
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1977
+  geburt_ort: Aschaffenburg
+  beruf: Tänzer, Tanztrainer, Wertungsrichter
+  aufwachsort_wohnort: Stockstadt
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/035
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Katja Benrath
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1979
+  geburt_ort: Erbach (Odenwald)
+  beruf: deutsche Schauspielerin und Regisseurin
+  aufwachsort: Stockstadt
+GUELTIG_AB: 1979
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/036
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Motsi Mabuse
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1981
+  geburt_ort: Mankwe, Bophuthatswana (heute Südafrika)
+  beruf: Tänzerin, Tanztrainerin, Wertungsrichterin
+  wohnort: Stockstadt
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/037
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Carola Bott
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1984
+  geburt_ort: Aschaffenburg
+  beruf: deutsche Badmintonspielerin
+  aufwachsort: Stockstadt
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/038
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Julian Lahme
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1988
+  geburt_ort: Aschaffenburg
+  beruf: deutscher Handballspieler
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0
+---
+ID: 170-stockstadt/039
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Sinan Kaplan
+QUELLE: https://de.wikipedia.org/wiki/Stockstadt_am_Main | Wikipedia
+EIGENSCHAFTEN:
+  geburt_jahr: 1994
+  geburt_ort: Aschaffenburg
+  nationalitaet: deutsch-türkisch
+  beruf: Fußballspieler
+  karrierestart: SV Stockstadt
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 1.0

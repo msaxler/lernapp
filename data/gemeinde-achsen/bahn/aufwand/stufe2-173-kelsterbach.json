@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "173-kelsterbach",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 9965,
+ "token_ein": 199587,
+ "token_aus": 4697,
+ "usage": {
+  "input_tokens": 14,
+  "cache_creation_input_tokens": 26515,
+  "cache_read_input_tokens": 173058,
+  "output_tokens": 4697,
+  "output_tokens_details": {
+   "thinking_tokens": 1680
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 26515,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 2554,
+    "cache_read_input_tokens": 32912,
+    "cache_creation_input_tokens": 505,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 505
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.47894659999999994,
+ "sekunden": 95,
+ "fehler": false,
+ "zeit": "2026-10-13T01:11:48"
+}

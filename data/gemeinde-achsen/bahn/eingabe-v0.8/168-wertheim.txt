@@ -1,0 +1,894 @@
+ZIELORT: Wertheim (Stadt)
+LAGE: 32 km westlich von Würzburg (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Wertheim
+
+GRUNDDATEN:
+  landkreis: Main-Tauber-Kreis  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 22.808  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 138,63 | 138,59  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 165  [berechnet aus Einwohner und Fläche]
+  kfz: MGH (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 145 | 174 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2810716)]
+  naechste_grossstadt: Würzburg, 32 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 110 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Bronnbach, Bahnhof Reicholzheim, Bahnhof Wertheim, Grünenwört (Baden), Wertheim-Bestenheid  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 97877  [Wikidata P281]
+  vorwahl: 09342, 09397  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 32 %, AfD 25 %, SPD 14,9 %, GRÜNE 8,8 %, Die Linke 5,3 %, BSW 5,3 %; Wahlbeteiligung 81,6 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Markus Herrera Torrez (SPD) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-12]
+  partnerstaedte: Szentendre, Salon-de-Provence, Huntingdon, Csobánka, Gubbio  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 3
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 4
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 2
+  Karte 5: Geschichte, A, wahre Option an Stelle 3
+  Karte 6: Klassiker, EIGENSCHAFT landkreis: Landkreis (Ersatz: Kennzeichen), A, wahre Option an Stelle 4
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 1 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Marktheidenfeld (Stadt)
+  landkreis: Main-Spessart  [dewiki Infobox]
+  einwohner: 11.306  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 35,7  [Wikidata P2046; Altbestand staedte.json]
+  hoehe_m: 162 | 154  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2873301)]
+  naechste_grossstadt: Würzburg, 26 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Marktheidenfeld  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 36,7 %, AfD 20,5 %, SPD 11,4 %, GRÜNE 10,5 %, Die Linke 5,9 %, BSW 5,1 %; Wahlbeteiligung 82,8 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  kfz: KG (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand staedte.json]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen
+
+FAKTEN (Zielort Wertheim):
+ID: 168-wertheim/001
+ENTITÄT: ort
+BEZEICHNUNG: Wertheim
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bundesland: Baden-Württemberg
+  status: Große Kreisstadt
+  status_ab: 1. Januar 1976
+  einwohner: 23076
+  einwohner_stand: 31. Dezember 2023
+  maennliche_einwohner: 11528
+  weibliche_einwohner: 11548
+  auslaendische_einwohner: 3535
+  einwohner_nahbereich_15km: ca. 40000
+  einwohner_einzugsgebiet: ca. 70000
+  laengengrad: 9 Grad 31'00" östlich Greenwich
+  breitengrad: 49 Grad 45'30" nördlich Äquator
+  hoehenlage: 141 m über NN
+  location_beschreibung: nordöstlichste Stadt Baden-Württembergs an der Mündung der Tauber in den Main
+  gemarkungsflaeche_gesamt: 13859 ha
+  stadtgebiet_flaeche: 1920 ha
+  ortschaften_flaeche: 11943 ha
+  uebererbaute_flaeche: 782 ha
+  landschafts_naturschutzgebiete_flaeche: 5786 ha
+  einwohnerzahl_eigenfortschreibung: 23100 [Stand 30. Juni 2026]
+  ist_kreisstadt: true
+  ist_residenzstadt_geschichte: true
+  regionale_zugehoerigkeit: Heilbronn-Franken
+  region_lage: zwischen Spessart und Odenwald
+  ist_wirtschaftsstandort_region: true
+  ist_familienfreundliche_kommune: true
+  flussverhaeltnisse: an der Mündung von Tauber und Main
+  hochwasser_risiko: true
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 168-wertheim/002
+ENTITÄT: ort
+BEZEICHNUNG: Wertheim
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_besiedlung: 7. Jahrhundert
+  erste_besiedlung_ort: Kreuzwertheim
+  erste_erwaehnung: 779
+  verleihung_marktrecht: 1009
+  marktrecht_verliehen_von: König Heinrich II.
+  erste_urkundliche_grafschaft_erwaehnung: 1103
+  stadtrecht_verleihung: 1306
+  stadtrecht_verleihung_folge: auch Münzrecht
+  weinbau_haupterwerbszweig: 16. Jahrhundert
+  status_residenzstadt: ehemals Residenzstadt der Wertheimer Grafen
+  beschreibung_altstadt: historisches Fachwerk und reich verzierte Bürgerhäuser mit mittelalterlich anmutendem Charme
+GUELTIG_AB: 779
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 168-wertheim/003
+ENTITÄT: burg
+BEZEICHNUNG: Burg Wertheim
+QUELLE: https://tourismus-wertheim.de/entdecken-und-erleben/kultur/stadtschoenheiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauungszeit: 12. Jahrhundert
+  bauzeit_detailliert: 12.-17. Jahrhundert kontinuierlich ausgebaut und erweitert
+  urspruengliche_anlage: staufisch
+  teilzerstoerung_durch_pulverexplosion: 1619
+  beschaedigung_dreissigjähriger_krieg: beschossen
+  status_heute: Ruine
+  sanierung: 1980er Jahre mit Unterstützung Baden-Württemberg
+  eigentuemer_seit: 1995 Stadt Wertheim
+  superlativen: eine der größten und schönsten Steinburgruinen Süddeutschlands
+  funktion_sommer: Kulisse für Open Air Veranstaltungen
+  lage: auf Bergzunge oberhalb Wertheim zwischen Main- und Tauber-Tälern
+  wahrzeichen: ja, Wahrzeichen der Stadt
+  ausblick: über Altstadt und Flusslandschaften Main und Tauber
+  adresse: Schlossgasse 11, 97877 Wertheim
+  aussichtsbereich: derzeit abgedichtet [Stand 2025-02-14]
+GUELTIG_AB: 1200
+GUELTIG_BIS: 1634
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 168-wertheim/004
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Stiftskirche St. Marien
+QUELLE: https://tourismus-wertheim.de/entdecken-und-erleben/kultur/stadtschoenheiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundsteinlegung: 1384
+  grundsteinlegung_durch: Graf Johann I. von Wertheim
+  architekturstil: spätgotische dreischiffige Basilika
+  chor_baubeginn: 1388
+  erhebung_zur_stiftskirche: 1481
+  erhaeltnis_vorgaengerbauten: steht vermutlich auf Fundamenten zweier romanischer Vorgängerbauten
+  bibliothek_einrichtung: Obergeschoss spätgotischer Bau
+  bibliothek_grundstock_handschriften: rund 63 Bücher
+  bibliothek_grundstock_stifter: Konrad Wellin
+  bibliothek_grundstock_jahr: 1448
+  bibliothek_bestand_heute: ca. 900 mittelalterliche Handschriften und frühe Drucke
+  besonderen_schatz: eine der drei noch existierenden Wertheimer Bibeln
+  grabmaeler: Grabmäler des Wertheimer Grafengeschlechts im Erdgeschoss des Chores
+  reformation_umwandlung: ab 1522 schrittweise zum evangelischen Gotteshaus
+  simultankirche_nutzung: ab ca. 1622 bis 1842, Chor katholisch, Langhaus evangelisch
+  simultankirche_ende: 1842 mit Vollendung der Pfarrkirche St. Venantius
+  besonderheit_grundriss: leicht asymmetrischer Grundriss wegen damaligem Straßenverlauf und möglichen Planungsfehlern
+  heilig_geist_kapelle: neben Eingang, über gewundener Sandsteintreppe
+  wertheimer_madonna: frühen 14. Jahrhundert in Kapelle, zeigt Wandel von majestätischem Marienbild zur liebenden Mutter
+  gottesdienste_sonntag: 10:15 Uhr
+GUELTIG_AB: 1384
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 168-wertheim/005
+ENTITÄT: platz
+BEZEICHNUNG: Historischer Marktplatz
+ORTSTEIL_BEZUG: Altstadt
+QUELLE: https://tourismus-wertheim.de/entdecken-und-erleben/kultur/stadtschoenheiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Zentrum der Altstadt
+  umrahmung: reich verzierte und denkmalgeschuetzte Fachwerkhäuser
+  alter_fachwerkhaeuser: teilweise aus dem 16. Jahrhundert
+  aeltestes_haus_frankens: Marktplatz Nr. 6
+  aeltestes_haus_frankens_baujahr: ca. 1520
+  aeltestes_haus_frankens_besonderheit: eines der ältesten und schmalsten Häuser Frankens
+  fassaden_dekoration: Neidköpfe, Fratzenköpfe und Tiergestalten
+  wochenmarkt_name: Grüner Markt
+  wochenmarkt_tage: Mittwoch und Samstag
+  wochenmarkt_zeit: 8 bis 13 Uhr
+GUELTIG_AB: 1306
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 168-wertheim/006
+ENTITÄT: turm
+BEZEICHNUNG: Spitzer Turm
+QUELLE: https://tourismus-wertheim.de/entdecken-und-erleben/kultur/stadtschoenheiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauung: 13. Jahrhundert
+  hoehe: 36,5 m
+  stufen_bis_spitze: 141
+  lage: an der Mainspitze, Mündung der Tauber in den Main
+  originale_funktion: Wach- und Wartturm
+  status_heute: markante Sehenswürdigkeit
+  oberbau_umgestaltung: 15. Jahrhundert mit achteckigem Oberbau zur Ausgleichung der Neigung des Unterbaus
+  historische_nebennutzung: Gefängnis für Trunkenbolde und zänkische Weiber
+  angstloch: erhalten aus dieser Zeit
+  originaleingang_hoehe: 10 m über Grund
+  originaleingang_zugang: nur über Leiter
+  führungen: auf Anfrage
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 168-wertheim/007
+ENTITÄT: gebaeude
+BEZEICHNUNG: Ehemalige Fürstliche Hofhaltung / Wertheimer Rathaus
+QUELLE: https://tourismus-wertheim.de/entdecken-und-erleben/kultur/stadtschoenheiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Mühlenstraße
+  ursprung: hervorgegangen aus mittelalterlichem Bronnbacher Klosterhof
+  ausbauzeitraum: 17./18. Jahrhundert als Hofhaltung des katholischen Fürstenhauses
+  barocksaal: mit aufwendigem Barocksaal ausgebaut
+  hofhaltung_bis: 1781
+  funktion_heute: Wertheimer Rathaus
+  umbau_zum_rathaus: 1970er Jahre
+  weisser_turm: Teil der Stadtmauer
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 168-wertheim/008
+ENTITÄT: friedhof
+BEZEICHNUNG: Jüdischer Friedhof
+QUELLE: https://tourismus-wertheim.de/entdecken-und-erleben/kultur/stadtschoenheiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlegung: 1406
+  anlegung_gemeinde: jüdische Gemeinde Wertheim
+  nutzung_bis: 20. Jahrhundert
+  erweiterung: 1714
+  erweiterung_stifter: Samson Wertheimer, Wiener Hofbankier
+  erweiterung_stifter_wohnort: Eisenstadt
+  lage: Schlossberg gegenüber der Mainbrücke
+  flaeche: 73,44 a
+  steinebestand_15_jhd: 72 Steine allein aus dem 15. Jahrhundert
+  superlativen: einer der ältesten Friedhöfe Deutschlands, ältester erhaltener jüdischer Friedhof Baden-Württembergs
+  letzte_bestattung: 1938
+GUELTIG_AB: 1406
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 168-wertheim/009
+ENTITÄT: kunstmuseum
+BEZEICHNUNG: Hofgartenschlösschen
+ORTSTEIL_BEZUG: Eichel-Hofgarten
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/stadtteile-und-ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauer: Graf Friedrich Ludwig
+  erbaujahr: 1777
+  urspruenglicher_eigentuemer: Fürstenhaus Löwenstein-Wertheim-Freudenberg
+  erwerb_durch_stadt: 2000
+  sanierung: aufwendige Sanierung nach Erwerb
+  funktion_heute: Kunstmuseum
+  ruf: hervorragender Ruf
+  umgebung: Park als Naherholungsgebiet
+GUELTIG_AB: 1777
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 168-wertheim/010
+ENTITÄT: stadtteil
+BEZEICHNUNG: Bestenheid
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/stadtteile-und-ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: größter und ältester Stadtteil Wertheims
+  abstimmung_anschluss: 1909 stimmten Bestenheider für Anschluss an Wertheim
+  offizielle_vereinigung: 1. Januar 1913
+  einwohner_bei_vereinigung: 270
+  einwohner_heute: ca. 3400
+  zuzugswelle: 1950er Jahre, Vertriebene aus Kriegsfolgen
+  industrialisierung_zeitpunkt: nach dem Zweiten Weltkrieg
+  glasindustrie_ansiedlung: durch Glasmacher aus Thüringen nach Zweitem Weltkrieg
+  industriestandort_bedeutung: attraktiv für weitere Branchen
+  infrastruktur: hervorragend
+  einkautsmarktschwerpunkt: begehrter Standort für Einkaufsmärkte
+  versorgungsangebot: Fachgeschäfte, Bäckereien, Metzgereien, Dienstleister
+  soziale_einrichtungen: Kindertageseinrichtungen, Schulen, Sporteinrichtungen, Bürger- und Vereinstreff
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 168-wertheim/011
+ENTITÄT: stadtteil
+BEZEICHNUNG: Eichel-Hofgarten
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/stadtteile-und-ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zusammensetzung: Altort Eichel und Wohngebiet Hofgarten
+  eichel_eingemeindet: 1935
+  eichel_status: Selbständigkeit aufgegeben
+  hofgarten_entstehung: nach dem Zweiten Weltkrieg
+  hoechenlage_wohngebiet: Hang oberhalb des Altortes
+  hoechenlage_entwicklung: wuchs zur Stadt hin, bis an Ausläufer der Altstadt
+  neubaugebiete_erweiterung: kontinuierliche Weiterentwicklung
+  einwohner_heute: ca. 1700
+  churches: Veitskirche (Altort Eichel, ältestes Gotteshaus badisches Mainfranken), St. Lioba (katholisch)
+  senioreneinrichtung: Wohnstift Hofgarten (Diakonie)
+  mutterhaus: Frankensteiner Diakonissen
+  tennisanlage: am Rande Schlösschenparks
+  kinderbetreuung: evangelische Kindertagesstätte
+GUELTIG_AB: 1935
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 168-wertheim/012
+ENTITÄT: stadtteil
+BEZEICHNUNG: Reinhardshof
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/stadtteile-und-ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: aus landwirtschaftlichem Anwesen hervorgegangen
+  flugplatznutzung: Zweiter Weltkrieg als Flugplatz und Kasernenanlage der Deutschen Reichsluftwaffe
+  kriegsende_nutzung: zunächst Lager für Kriegsgefangene und Zwangsarbeiter
+  nachkriegsentwicklung: später Unterkunft für Vertriebene und Flüchtlinge
+  us_kaserne: 40 Jahre Peden-Barracks der US-Streitkräfte
+  us_abzug: 1992
+  entwicklung_nach_abzug: Konversion zur Stadt auf der Höhe
+  umfunktionierung: ehemalige Kasernengebäude in moderne Wohneinheiten mit Landeshilfe Baden-Württemberg
+  einwohner_heute: 990
+  versorgungseinrichtungen: zwei Einkaufsmärkte, Gastronomie, Einzelhandel, Dienstleistungs- und Industriebetriebe
+  schulen: Grundschule mit Sportanlagen
+  kinderbetreuung: kommunales Kinderhaus mit flexiblen Betreuungsangeboten
+  altersversorgung: Alloheim Senioren-Residenz
+  krankenhaus: Bürgerspital Wertheim
+  medizinische_rehabilitation: Mediclin AG stationäre neurologische Rehabilitation geplant [88 Betten]
+  dialyse: Dialysezentrum im Mediclin-Gebäude
+  bereitschaftspraxis: allgemeine Bereitschaftspraxis
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 168-wertheim/013
+ENTITÄT: stadtteil
+BEZEICHNUNG: Vockenrot
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/stadtteile-und-ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: angrenzend an Stadtteil Reinhardshof
+  lage_verkehr: durchquert von Landesstraße Richtung Hardheim
+  ursprung: ehemals landwirtschaftlich geprägtesorf
+  eingemeindung: 1939
+  status_heute: reine Wohngemeinde
+  ortsteil: gehört zu Vockenrot Neuhof
+  einwohner_heute: ca. 560
+  ortsmittelpunkt: Mehrzweckhalle
+  mehrzweckhalle_funktion: Begegnungsstätte, Vereinstreff, Gottesdienstraum
+  neubaugebiete_erschliessung: ab Anfang 1980er Jahre
+GUELTIG_AB: 1939
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 168-wertheim/014
+ENTITÄT: stadtteil
+BEZEICHNUNG: Wartberg
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/stadtteile-und-ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: entstanden aus Wartbergsiedlung
+  wartbergsiedlung_bau: 1930er Jahre, etwa ein Dutzend Mehrfamilienhäuser für Offiziere
+  bundesdemonstrativbauvorhaben: Mitte 1960er Jahre
+  besiedlungsensemble: Hochhäuser, Wohnblocks, Reihenhäuser, Bungalows
+  soziale_mitte_eroeffnung: 2023
+  soziale_mitte_beschreibung: Neue Soziale Mitte als Leuchtturm für die ganze Stadt
+  internationale_prägung: Kennzeichnend ist Miteinander von Menschen verschiedener Nationalitäten
+  stadtteilkoordination: unter Trägerschaft Diakonischen Werk
+  koordinationsziel: Förderung bürgerschaftlichen Miteinanders durch Vernetzung und Unterstützung
+  nachbarschaft: grenzt direkt an Stadtteil Reinhardshof
+  einwohner_heute: ca. 3000
+  infrastruktur_nutzung: kurze Wege zu sehr guter Infrastruktur des Nachbarstadtteils
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 168-wertheim/015
+ENTITÄT: ortschaft
+BEZEICHNUNG: Bettingen
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/stadtteile-und-ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: idyllisch an der Mainschleife
+  lage_verkehr: Ortskern ruhig abseits Durchgangsverkehr
+  eingemeindung: 1972 als erste Ortschaft zu Wertheim
+  einwohner_heute: ca. 770
+  freizeit: zahlreiche Vereine mit breitem Freizeitangebot
+  kinderbetreuung: kommunale Kindertagesstätte
+  gewerbegebiet: Obere Grüben am Ortsrand
+  gewerbegebiet_ausdehnung: bis zur Autobahn A3
+  brueckenverbindung: zu benachbartem Gewerbegebiet Almosenberg mit Wertheim Village
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 168-wertheim/016
+ENTITÄT: ortschaft
+BEZEICHNUNG: Dertingen
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/stadtteile-und-ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entfernung_wertheim: ca. 12 km
+  lage_baden_wuerttemberg: nordöstlichste Ecke Baden-Württembergs
+  charakterisierung_historisch: seit jeher vom Weinbau geprägt
+  eingemeindung: 1972
+  altort_sanierung: behutsame Sanierung zum schmucken Weinort
+  einwohner_heute: ca. 900
+  dorf_charakter: intaktes Dorfleben
+  schulen: Grundschule
+  kindergaerten: Kindergarten und Waldkindergarten
+  vereinsleben: vielfältig
+  infrastruktur: gute Infrastruktur
+  naehe_wuerzburg: 30 Minuten erreichbar
+  lage_beschreibung: Wohnort im Grünen
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 168-wertheim/017
+ENTITÄT: ortschaft
+BEZEICHNUNG: Dietenhan
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/stadtteile-und-ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: eingerahmt von Wald und Weinbergen, Kembachtal
+  entfernung_wertheim: ca. 11 km
+  eingemeindung: 1972
+  einwohner_heute: ca. 340
+  groessenposition: kleinste Ortschaft der Großen Kreisstadt Wertheim
+  vereinsleben: reges Vereinsleben
+  dorfgemeinschaft: intakt, aufgeschlossen für Neubürger
+  kinderbetreuung: evangelische Kindertagesstätte in Kembach
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 168-wertheim/018
+ENTITÄT: ortschaft
+BEZEICHNUNG: Dörlesberg
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/stadtteile-und-ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: auf hügeliger Anhöhe des Taubertals
+  entfernung_wertheim: ca. 10 km
+  eingemeindung: 1972
+  einwohner_heute: ca. 790
+  ortsprägung: Katholische Pfarrkirche
+  buergerhaus: 2003 fertig gestellt, Treffpunkt und Veranstaltungsort
+  feuerwehr: Domizil der örtlichen Feuerwehr
+  sportstaetten: Waldsporthalle und Sportplatz am Ortsrand
+  vereinsleben: zahlreiche rührige Vereine
+  versorgungsangebot: Bäckerei mit Lebensmittelangebot, Metzgerei, Dienstleistungsbetriebe
+  kinderbetreuung: katholische Kindertagesstätte
+  neubaugebiet: kleines Gewerbe- und Neubaugebiet am Altort
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 168-wertheim/019
+ENTITÄT: ortschaft
+BEZEICHNUNG: Grünenwört
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/stadtteile-und-ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_industrie: nahtlos angrenzend an Industriegebiet Bestenheid
+  eingemeindung: 1972
+  entfernung_stadtmitte: ca. 5 km
+  einwohner_heute: ca. 600
+  lage_main: links der Maintalstraße L 2310
+  trennlinie: Maintalstraße trennt Dorf vom Mainufer
+  neubaugebiet: in den 80er Jahren erschlossen
+  neubaugebiet_ausblick: Blick über das Maintal
+  versorgung: durch Nähe zu Stadtteil Bestenheid gewährleistet
+  dorfgemeinschaft: intakt mit regem Vereinsleben
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 168-wertheim/020
+ENTITÄT: ortschaft
+BEZEICHNUNG: Höhefeld
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/stadtteile-und-ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: am Rande einer Hochebene über dem Taubertal
+  lage_verkehr: abseits vom Durchgangsverkehr
+  entfernung_wertheim: 15 km
+  eingemeindung: 1975
+  einwohner_heute: ca. 410
+  hoehenlage: 365 m
+  ausblicke: beeindruckende Aussichten in die Umgebung
+  ursprung_wirtschaft: früher fast ausschließlich landwirtschaftlich geprägt
+  arbeitsmarkt: Mehrzahl pendelt zu Arbeitplätzen in der Region
+  vereinsleben: vielfältige Freizeitmöglichkeiten durch Vereine
+  buergerhaus: schmuckes Bürgerhaus, 2008 eingeweiht
+  kinderbetreuung: evangelische Kindertagesstätte
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 168-wertheim/021
+ENTITÄT: ortschaft
+BEZEICHNUNG: Kembach
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/stadtteile-und-ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_geographie: äußerster Nordosten Wertheims
+  lage_landesgrenzen: direkt an der Grenze zu Bayern
+  entfernung_wertheim: 11 km
+  eingemeindung: 1972
+  einwohner_heute: ca. 360
+  vereinsleben: reges Vereinsleben
+  veranstaltungen: zahlreiche Veranstaltungen prägen den Jahreslauf
+  veranstaltungsort: Kembachtalhalle
+  dorfgemeinschaft: intakt, bemüht um ansprechende Gestaltung
+  kinderbetreuung: evangelische Kindertagesstätte
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 168-wertheim/022
+ENTITÄT: ortschaft
+BEZEICHNUNG: Lindelbach
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/stadtteile-und-ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: auf Anhöhe oberhalb von Urphar
+  entfernung_wertheim: ca. 9 km
+  eingemeindung: 1972
+  einwohner_heute: ca. 480
+  weinbau: kleine Weinberglagen Ebenrain und Schöneberg
+  weinreputation: beliebte Weine bei Kennern
+  weinfest: jährlich, Anziehungspunkt für Besucher
+  vereinsleben: lebendige Vereine prägen Dorfgemeinschaft
+  schulen: Werkrealschule Urphar-Lindelbach
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 168-wertheim/023
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Salon-de-Provence
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Département Bouches-du-Rhône, Provence
+  lage_beschreibung: Südfrankreich, Herz der Provence
+  partnerschaft_seit: 19. September 1964
+  partnerschaft_art: älteste Partnerstadt Wertheims
+  entfernung_wertheim: 1021 km
+  einwohnerzahl: ca. 38000
+  beruehmt_fuer: Wohn- und Sterbeort von Nostradamus, Arzt und Astrologe
+  nostradamus_museum: in früheren Wohnhaus
+  saint_michel_kirche: berühmt, Arkaden-Glockenturm, romanischer Stil, provenzalische Baukunst
+  uhrturm: 17. Jahrhundert, Glockenklang nach Mistrals Windrichtung optimiert, Wochenkalender und Mondzyklus-Uhr
+  moosbrunnen: Wahrzeichen, Kalkablagerungen, charakteristische Form
+  schloss_groessenposition: größtes der Provence im 12./13. Jahrhundert
+  schloss_geschichte: nach Französischer Revolution Stadtbesitz, nach Erdbeben 1909 restauriert
+  schloss_heute: Militärmuseum
+  schloss_veranstaltungen: jährlich internationales klassisches Musikfestival
+  erdbeben_zerstaerung: 1909
+  naehe_avignon: 41 km
+  naehe_marseille: 50 km
+GUELTIG_AB: 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 168-wertheim/024
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Huntingdon/Godmanchester
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Großbritannien
+  region: East Anglia, Grafschaft Cambridgeshire
+  partnerschaft_seit: 4. April 1981
+  entfernung_wertheim: Huntingdon 947 km, Godmanchester 945 km
+  einwohnerzahl: Huntingdon 20000, Godmanchester 5500
+  fluss: Great Ouse, einer der längsten schiffbaren Flüsse
+  freizeit_naherholung: Flusslandschaft als Naherholungsziel und Freizeitparadies
+  bridgeyear: 1322
+  old_bridge: gut erhaltene mittelalterliche Steinbrücke
+  old_bridge_funktion_bis_1975: einzige Verbindung zwischen den Städten
+  huntingdon_beruehmtheit: Geburtsstadt von Oliver Cromwell
+  huntingdon_museum: Cromwell Museum über Leben und Wirken
+  godmanchester_charakter: historische Marktstadt
+  godmanchester_erwaehnung: 1212 von König John erwähnt
+  godmanchester_chinesische_bruecke: berühmtes Bauwerk
+  godmanchester_bruecke_sage: ohne Nägel gebaut
+  godmanchester_bruecke_anekdote: Architekt versuchte Überprüfung, konnte nicht rekonstruieren, heute mit Nägeln befestigt
+  cambridge_entfernung: 15 Meilen, unter einer Stunde erreichbar
+  london_entfernung: mit Auto eine Stunde, mit Zug 45 Minuten
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 168-wertheim/025
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Szentendre
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Ungarn
+  region: Komitat Pest, Donauknie
+  lage: nahe Hauptstadt Budapest
+  charakterisierung: Stadt der Künste und Museen
+  partnerschaft_seit: 26. August 1989
+  entfernung_wertheim: 907 km
+  einwohnerzahl: ca. 22000
+  ungarisches_freilichtmuseum: zeigt ländliche Volksbaukunst und Kultur des Karpatenbeckens
+  museen_galerien: ca. 30 Museen und Galerien
+  gebirge: Pilis-Gebirge, geeignet zum Wandern
+  fremdenverkehr_bedeutung: besonders wichtig für Szentendre
+  unterkunftsangebot: viele Hotels, Pensionen, Gaststätten, Campingplätze
+  budapest_erreichbarkeit: ca. 20 Minuten mit Auto, ca. 38 Minuten mit HÉV Schnellbahn
+GUELTIG_AB: 1989
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 168-wertheim/026
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Csobánka
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Ungarn
+  region: Komitat Pest
+  lage_relativ_szentendre: wenige Kilometer von Szentendre entfernt
+  partnerschaft_seit: 4. Juli 1992
+  entfernung_wertheim: 912 km
+  einwohnerzahl: ca. 2200
+  besonderheit_verwurzelung: Herkunftsort zahlreicher ehemaliger Heimatvertriebener
+  heimatvertriebene_integration: viele siedelten sich nach Krieg in Wertheim an
+  lage_tal: im Tal der Dera, landschaftlich schön eingebettet
+  ausblick: weite Sicht auf Vesegrader Berge und Pilis-Gebirge
+  serbisch_orthodoxe_kirche_baujahr: 1790
+  katholische_kirche_baujahr: 1856
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 168-wertheim/027
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Gubbio
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Italien
+  region: Umbrien
+  lage_hoehe: 522 m auf Hängen des Monte Ingino im Apennin
+  ursprung: Ursprünge gehen auf Zeit der Etrusker zurück
+  partnerschaft_art_zeitraum: 1980-2006 Städtefreundschaft, ab 2006 Partnerschaft
+  partnerschaft_seit: 30. April 2006
+  entfernung_wertheim: 1108 km
+  einwohnerzahl_gemeinde: 31000
+  einwohnerzahl_stadt: 12400
+  lage_charakteristik: außergewöhnliches Beispiel einer Berghanglage
+  palazzo_dei_consoli_besonderheit: extremer Hanglage errichtet, größtenteils in die Luft hinein gebaut
+  dom_konstruktion: mit Substruktionen abgestützt, enge malerische Gassen
+  dom_innenraum: einschiffig, Schwibbögen zur Stabilisierung statt üblicher Gliederung
+  ceri_fest_datum: 15. Mai
+  ceri_fest_grund: zu Ehren des Patrons, des Heiligen Ubaldo von Gubbio
+  ceri_fest_beschreibung: drei Mannschaften in historischer Kleidung, tragen je 5 m hohe 400 kg schwere Statuen auf Monte Ingino
+  ceri_fest_statuen: Heiliger Ubaldo, Heiliger Antonius, Heiliger Georg
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 168-wertheim/028
+ENTITÄT: schiff
+BEZEICHNUNG: UUE Tender MAIN
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/partnerstaedte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber: Bundesmarine
+  flotille: 1. Ubootgeschwader
+  heimathafen: Eckernförde
+  funktion: Unterstützungseinheit, Versorgungsschiff
+  wertheim_patenschaft_seit: 29. Juni 1963
+  indienststellung_neu: Juni 1994
+  patenschaftsmaerker: 60 Jahre außergewöhnlich lange Patenschaftsdauer
+  patenschaftsentwicklung: im Laufe der Jahre zu echter Partnerschaft entwickelt
+  patenschaftsbesuch: regelmäßige Besuche beider Seiten
+  jubileaum_feier: 2023 großes Jubiläum gemeinsam gefeiert
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 168-wertheim/029
+ENTITÄT: ehrenbueger
+BEZEICHNUNG: Prof. Stefan Gläser
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/ehrenbuerger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  buergerrecht_seit: 10. April 2003
+  titel: Oberbürgermeister a. D.
+  zusatztitel: Geschäftsführendes Vorstandsmitglied a.D. des Städtetages Baden-Württemberg
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 168-wertheim/030
+ENTITÄT: ehrenbueger
+BEZEICHNUNG: Gerhard Schwend
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/ehrenbuerger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  buergerrecht_seit: 27. November 2004
+  funktion: Ehrenamtlicher stv. Oberbürgermeister a. D.
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 168-wertheim/031
+ENTITÄT: ehrenbueger
+BEZEICHNUNG: Renate Gassert
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/ehrenbuerger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  buergerrecht_seit: 9. Oktober 2021
+  funktion: Ehrenamtliche stv. Oberbürgermeisterin a. D.
+GUELTIG_AB: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 168-wertheim/032
+ENTITÄT: ehrenbueger
+BEZEICHNUNG: Richard Goldschmitt
+ORTSTEIL_BEZUG: Dörlesberg
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/ehrenbuerger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  buergerrecht_seit: 11.08.2013
+  funktion: Ortsvorsteher a. D.
+GUELTIG_AB: 2013
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 168-wertheim/033
+ENTITÄT: ehrenbueger
+BEZEICHNUNG: Kurt Oberdorf
+ORTSTEIL_BEZUG: Dietenhan
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/ehrenbuerger | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  buergerrecht_seit: 8. November 2014
+  funktion: Ortsvorsteher a. D.
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 168-wertheim/034
+ENTITÄT: graf_historisch
+BEZEICHNUNG: Johann I. von Wertheim
+QUELLE: https://tourismus-wertheim.de/entdecken-und-erleben/kultur/stadtschoenheiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lebenszeitraum: 14. Jahrhundert
+  handlung: legte Grundstein für spätgotische dreischiffige Basilika St. Marien
+  grundsteinlegung_jahr: 1384
+GUELTIG_AB: 1384
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 168-wertheim/035
+ENTITÄT: graf_historisch
+BEZEICHNUNG: Michael III. von Wertheim
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: letzter Graf von Wertheim
+  tod: 1556
+  folge_tod: Grafschaft geht an Graf Ludwig zu Stolberg über
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1556
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 168-wertheim/036
+ENTITÄT: graf_historisch
+BEZEICHNUNG: Ludwig zu Stolberg
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Graf
+  uebernahme_grafschaft: nach Tod Michael III. 1556
+  grund_uebernahme: Erbfall
+GUELTIG_AB: 1556
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 168-wertheim/037
+ENTITÄT: graf_historisch
+BEZEICHNUNG: Ludwig von Löwenstein-Wertheim
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  title: Graf
+  regierungsuebernahme: ab 1598
+  regierungsuebernahme_art: Übernahme der Regierung
+GUELTIG_AB: 1598
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 168-wertheim/038
+ENTITÄT: graf_historisch
+BEZEICHNUNG: Erasmus von Wertheim
+QUELLE: https://tourismus-wertheim.de/entdecken-und-erleben/kultur/stadtschoenheiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Graf
+  besitz_uebernahme: 1497 Freudenberg
+  residenz_freudenburg: Residenzsitz
+  umbau_festung: machte Burg zur Festungsanlage
+  renaissance_bau: errichtete prachtvollen Renaissancebau
+  rathaus_errichtung: ließ Freudenberger Rathaus erbauen
+  tod_kinderlos: 1509
+  nachfolge_bruder: Bruder Michael erbt nach seinem Tod
+GUELTIG_AB: 1497
+GUELTIG_BIS: 1509
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 168-wertheim/039
+ENTITÄT: graf_historisch
+BEZEICHNUNG: Friedrich Ludwig
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/stadtteile-und-ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handlung: errichtete Hofgartenschlösschen
+  erbaujahr: 1777
+GUELTIG_AB: 1777
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 168-wertheim/040
+ENTITÄT: kreuzung_gewaesser
+BEZEICHNUNG: Tauber-Main Mündung
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage_wertheim: Wertheim an der Mündung der Tauber in den Main
+  lage_bundesland: nordöstlichste Stadt Baden-Württembergs
+  lage_region: Ferienregion zwischen Spessart und Odenwald
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 168-wertheim/041
+ENTITÄT: naturgefaehr
+BEZEICHNUNG: Hochwasser Wertheim
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/hochwasser | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grund: Besondere Lage Wertheims zwischen Main und Tauber
+  affected_area: Teile der Altstadt
+  risiko_kategorie: regelmäßige Bedrohung und Überflutung
+  massnahmen: Hochwasserabwehr und Bevölkerungsversorgung durch Stadtverwaltung und Hilfsorganisationen koordiniert
+  foerderprogramm_seit: 2004
+  foerderprogramm_massnahmen: bauliche und technische Maßnahmen an Gebäuden
+  foerdersatz: 75 Prozent Zuschüsse
+  foerderkostenaufteilung: 50% Land Baden-Württemberg, 25% Stadt Wertheim, 25% Eigenanteil
+  foederfaehige_beispiele: druckdichte Fenster, Stahltueren statt Holz, Pumpensümpfe, Kellerzuleitungen
+  foederfaelle: über 164 Förderanträge seit 2004
+  foerdervolumen: über 730000 Euro seit 2004
+  foerderverlauf_verlaengerung: bis zum 30. April 2026 verlängert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 168-wertheim/042
+ENTITÄT: kirche
+BEZEICHNUNG: St. Venantius
+QUELLE: https://tourismus-wertheim.de/entdecken-und-erleben/kultur/stadtschoenheiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  funktion: Pfarrkirche
+  vollendung: 1842
+  grund_bau: ermöglichte Ende der Simultankirchen-Nutzung von St. Marien
+GUELTIG_AB: 1842
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 168-wertheim/043
+ENTITÄT: kirche
+BEZEICHNUNG: Veitskirche
+ORTSTEIL_BEZUG: Eichel
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/stadtteile-und-ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Ortsmitte Eichel
+  superlativen: ältestes Gotteshaus im badischen Mainfranken
+GUELTIG_AB: 1200
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 168-wertheim/044
+ENTITÄT: kirche
+BEZEICHNUNG: St. Lioba
+ORTSTEIL_BEZUG: Hofgarten
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/stadtteile-und-ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  lage: Zentrum des Stadtteils Hofgarten
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 168-wertheim/045
+ENTITÄT: krankenhaus
+BEZEICHNUNG: Bürgerspital Wertheim
+ORTSTEIL_BEZUG: Reinhardshof
+QUELLE: https://www.wertheim.de/leben-in-wertheim/portrait/stadtteile-und-ortschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  versorgungsstufe: Grund- und Regelversorgung
+  betten_gesamt: 80
+  betten_chirurgie: 80 [Chirurgie und Innere Medizin]
+  notaufnahme: vorhanden
+  bariatrische_chirurgie_zentrum: ja
+  bariatrische_betten: 15
+  betreiber: Westfalenklinik-Gruppe / Bürgerspital Wertheim gGmbH
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 168-wertheim/046
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Wertheimer Madonna
+QUELLE: https://tourismus-wertheim.de/entdecken-und-erleben/kultur/stadtschoenheiten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Heilig Geist Kapelle, neben Eingang der Stiftskirche
+  zeit: frühes 14. Jahrhundert
+  bedeutung: zeigt Wandel vom majestätischen mittelalterlichen Marienbild zur liebenden Mutter
+GUELTIG_AB: 1300
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+

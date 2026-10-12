@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "175-niedernhausen",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 8375,
+ "token_ein": 269062,
+ "token_aus": 4929,
+ "usage": {
+  "input_tokens": 20,
+  "cache_creation_input_tokens": 24563,
+  "cache_read_input_tokens": 244479,
+  "output_tokens": 4929,
+  "output_tokens_details": {
+   "thinking_tokens": 2004
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 24563,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 2000,
+    "cache_read_input_tokens": 30702,
+    "cache_creation_input_tokens": 763,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 763
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.5164908,
+ "sekunden": 93,
+ "fehler": false,
+ "zeit": "2026-10-13T01:11:55"
+}

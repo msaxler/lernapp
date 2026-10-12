@@ -613,9 +613,11 @@ textarea{width:100%;min-height:90px;font:inherit;border:2px solid var(--line);bo
       var l = lage(i);
       if(fahrt.raum === 'alle' && l.dist > 40000){ if(f.lage) delete f.lage; if(f.zustand === 'vorschau') f.zustand = 'fern'; return; }
       f.lage = l;
-      if(f.slug.indexOf('de:') !== 0 && !(f.karten && f.karten.length) && !l.still && l.t >= 0 && l.t <= FENSTER.vorschau && l.lat <= FENSTER.korridor) geschichteInSicht = true;
-      var inVorschau = l.still ? l.dist <= FENSTER.still_radius : (l.t >= 0 && l.t <= FENSTER.vorschau && l.lat <= FENSTER.korridor);
-      var faellig = l.still ? l.dist <= FENSTER.still_radius : (l.t <= FENSTER.ausloesung && l.t > -FENSTER.nachlauf && l.lat <= FENSTER.korridor);
+      // Städte abseits der Autobahn haben ein breiteres Fenster (Ort.korridor, Mike 2026-10-13: bis 7 km)
+      var kor = raum().orte[i].korridor || FENSTER.korridor;
+      if(f.slug.indexOf('de:') !== 0 && !(f.karten && f.karten.length) && !l.still && l.t >= 0 && l.t <= FENSTER.vorschau && l.lat <= kor) geschichteInSicht = true;
+      var inVorschau = l.still ? l.dist <= FENSTER.still_radius : (l.t >= 0 && l.t <= FENSTER.vorschau && l.lat <= kor);
+      var faellig = l.still ? l.dist <= FENSTER.still_radius : (l.t <= FENSTER.ausloesung && l.t > -FENSTER.nachlauf && l.lat <= kor);
       if(!l.still && l.t < 0 && f.ev.vorschau && !f.ev.passiert){ f.ev.passiert = now; }
       if(f.zustand === 'aktiv') return;
       if(f.zustand === 'fern' && inVorschau){ f.zustand = 'vorschau'; f.ev.vorschau = f.ev.vorschau || now; }

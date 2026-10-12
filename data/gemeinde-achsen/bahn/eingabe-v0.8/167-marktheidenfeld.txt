@@ -1,0 +1,678 @@
+ZIELORT: Marktheidenfeld (Stadt)
+LAGE: 26 km westlich von Würzburg (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Marktheidenfeld
+
+GRUNDDATEN:
+  landkreis: Main-Spessart  [dewiki Infobox]
+  bundesland: Bayern  [dewiki Infobox]
+  einwohner: 11.306  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 35,7  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 317  [berechnet aus Einwohner und Fläche]
+  hoehe_m: 162 | 154  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2873301)]
+  naechste_grossstadt: Würzburg, 26 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: München, 239 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Marktheidenfeld  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 97828  [Wikidata P281]
+  vorwahl: 09391  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 36,7 %, AfD 20,5 %, SPD 11,4 %, GRÜNE 10,5 %, Die Linke 5,9 %, BSW 5,1 %; Wahlbeteiligung 82,8 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Thomas Stamm {{Internetquelle |url=https://www.stadt-marktheidenfeld.de/rathaus-burgerservice/kommunalpolitik |titel=Bürgermeister |hrsg=Stadt Marktheidenfeld |abruf=2020-09-19}} (Parteilos) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-12]
+  partnerstaedte: Montfort-sur-Meu  [Wikidata P190]
+  kfz: KG (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand staedte.json]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Landkreis), C, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Helmstadt (Gemeinde)
+  landkreis: Würzburg  [dewiki Infobox]
+  einwohner: 2517  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 22,79  [Wikidata P2046]
+  hoehe_m: 301 | 302  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2906680)]
+  naechste_grossstadt: Würzburg, 17 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 49,2 %, AfD 16,7 %, GRÜNE 9,2 %, SPD 8,2 %; Wahlbeteiligung 89,8 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  kfz: WÜ (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand geo.sqlite (Kreis 09679)]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen
+
+FAKTEN (Zielort Marktheidenfeld):
+ID: 167-marktheidenfeld/001
+ENTITÄT: ort
+BEZEICHNUNG: Marktheidenfeld
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: vermutlich "Feld des Heidino"
+  erste_siedlung_entstanden: 8. Jahrhundert (erste Hälfte)
+  genuigkeit: "vermutlich"
+  erste_urkundliche_nennung: als "oppidum" (Stadt Heidenfeld) 1397
+  marktrecht_seit: ca. 15. Jahrhundert
+  reformation_eingefuehrt: 1522
+  evangelische_prediger_nachgewiesen_ab: 1530
+  wurde_stadt: 1948
+  wappenfigur_seit: 1883 (Brücke mit Stern des Glücks)
+  ist_bruecke_zwischen: "Wald und Reben"
+GUELTIG_AB: 800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 167-marktheidenfeld/002
+ENTITÄT: ort
+BEZEICHNUNG: Marktheidenfeld
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 530
+  jahr_einwohnerzahl: 1542
+GUELTIG_AB: 1542
+GUELTIG_BIS: 1542
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/003
+ENTITÄT: ort
+BEZEICHNUNG: Marktheidenfeld
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 800
+  genauigkeit: "ca."
+  beschreibung: Bevölkerung am Ende des 16. Jahrhunderts
+GUELTIG_AB: 1590
+GUELTIG_BIS: 1599
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 167-marktheidenfeld/004
+ENTITÄT: ort
+BEZEICHNUNG: Marktheidenfeld
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 500
+  beschreibung: Bevölkerung am Ende des Dreißigjährigen Krieges
+GUELTIG_AB: 1648
+GUELTIG_BIS: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/005
+ENTITÄT: ort
+BEZEICHNUNG: Marktheidenfeld
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 1100
+  genauigkeit: "ca."
+GUELTIG_AB: 1720
+GUELTIG_BIS: 1720
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/006
+ENTITÄT: ort
+BEZEICHNUNG: Marktheidenfeld
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 1860
+GUELTIG_AB: 1870
+GUELTIG_BIS: 1871
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/007
+ENTITÄT: ort
+BEZEICHNUNG: Marktheidenfeld
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 4300
+  genauigkeit: "ca."
+  beschreibung: Bevölkerung nach Zweitem Weltkrieg
+GUELTIG_AB: 1946
+GUELTIG_BIS: 1946
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/008
+ENTITÄT: ort
+BEZEICHNUNG: Marktheidenfeld
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 6600
+  genauigkeit: "ca."
+  beschreibung: Bevölkerung beim Verlust des Kreissitzes
+GUELTIG_AB: 1972
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/009
+ENTITÄT: ort
+BEZEICHNUNG: Marktheidenfeld
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 11930
+GUELTIG_AB: 2020
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 167-marktheidenfeld/010
+ENTITÄT: kirche
+BEZEICHNUNG: St. Laurentius
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirchhof_errichtet_vor: 855
+  genauigkeit: "wahrscheinlich vor 775"
+  pfarrkirche_neu_gebaut: 1612
+  grund_neubau: Gegenreformation unter Pfarrer Johannes Molitor
+  erweitert: erste Hälfte 18. Jahrhundert
+  seitenschiffe_erweitert: 1897-1898
+  kirchenpatron: Laurentius
+GUELTIG_AB: 855
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/011
+ENTITÄT: kirche
+BEZEICHNUNG: evangelische Kirche
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1896
+GUELTIG_AB: 1896
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/012
+ENTITÄT: kirche
+BEZEICHNUNG: St. Josef
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingeweiht: 1967
+  beschreibung: neue Pfarrkirche
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/013
+ENTITÄT: kapelle
+BEZEICHNUNG: Kreuzbergkapelle
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstanden: 1890
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/014
+ENTITÄT: kloster
+BEZEICHNUNG: Holzkirchen
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gelangte_heidenfeld_vor: 855
+  genauigkeit: "wahrscheinlich vor 775"
+  gehoerte_zu: Abtei Fulda
+  grundbesitz_in: Heidenfeld
+  mitbesitzer_des: Dorfgerichts
+GUELTIG_AB: 775
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/015
+ENTITÄT: person
+BEZEICHNUNG: Johannes Molitor
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Pfarrer
+  tätigkeit: setzte Gegenreformation um
+GUELTIG_AB: 1612
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 167-marktheidenfeld/016
+ENTITÄT: person
+BEZEICHNUNG: Sebastian Stöber
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Schultheiß
+  zeitraum: 1648
+  grabstein: 1672
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/017
+ENTITÄT: person
+BEZEICHNUNG: Franz Valentin Franck
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Weinhändler
+  erbaut_1745: smalteblaues Haus
+  lage: Untertorstraße
+  heutiger_nutzen: Kulturzentrum der Stadt
+  besonderheit_gewölbekeller: überlieferte Herstellung des ersten deutschen Sekts
+GUELTIG_AB: 1745
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 167-marktheidenfeld/018
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmals_nachgewiesen: 16. Jahrhundert
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 167-marktheidenfeld/019
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rat- und Schulhaus
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: 1865-1866
+  lage: Marktplatz
+GUELTIG_AB: 1865
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/020
+ENTITÄT: gefaengnis
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: 1831
+  lage: Würzburger Straße
+GUELTIG_AB: 1831
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/021
+ENTITÄT: gerichtsgebaeude
+BEZEICHNUNG: Amtsgerichtsgebäude
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertiggestellt: 1887
+  lage: Würzburger Straße
+  beschreibung: repräsentativ
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/022
+ENTITÄT: gebaeude
+BEZEICHNUNG: Krankenhaus
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gebaut: 1884
+  lage: Petzoltstraße
+GUELTIG_AB: 1884
+GUELTIG_BIS: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/023
+ENTITÄT: krankenhaus
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingeweiht: 1968
+  beschreibung: neues Krankenhaus
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/024
+ENTITÄT: forstamt
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: 1885
+GUELTIG_AB: 1885
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/025
+ENTITÄT: bruecke
+BEZEICHNUNG: Mainbrücke
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschluss: 1835
+  dem_verkehr_uebergeben: 1846
+  superlativ: "eine der ältesten und schönsten am bayerischen Main"
+  gesprengt: 1945 (2. April)
+GUELTIG_AB: 1846
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/026
+ENTITÄT: stadttore
+BEZEICHNUNG: Obertor
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abgerissen: 1845-1846
+GUELTIG_BIS: 1846
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/027
+ENTITÄT: stadttore
+BEZEICHNUNG: Mitteltor
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abgerissen: 1860
+GUELTIG_BIS: 1860
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/028
+ENTITÄT: stadttore
+BEZEICHNUNG: Untertor
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  abgerissen: 1863
+GUELTIG_BIS: 1863
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/029
+ENTITÄT: zeitung
+BEZEICHNUNG: Marktheidenfelder Bote
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erschien_ab: 1880
+  beschreibung: Lokalzeitung
+GUELTIG_AB: 1880
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 167-marktheidenfeld/030
+ENTITÄT: bahnstrecke
+BEZEICHNUNG: Lohr–Wertheim
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnet: 1881
+  band_marktheidenfeld_an: bis in die 1970er Jahre
+GUELTIG_AB: 1881
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/031
+ENTITÄT: brauerei
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet: 1796
+  beschreibung: erste Brauerei
+GUELTIG_AB: 1796
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 167-marktheidenfeld/032
+ENTITÄT: gewerbe
+BEZEICHNUNG: Schiffsbau
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nachgewiesen: Ende 18. Jahrhundert
+GUELTIG_AB: 1780
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 167-marktheidenfeld/033
+ENTITÄT: gewerbe
+BEZEICHNUNG: Orgelbau
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nachgewiesen: Ende 18. Jahrhundert
+GUELTIG_AB: 1780
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 167-marktheidenfeld/034
+ENTITÄT: gewerbe
+BEZEICHNUNG: Bildhauerei
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nachgewiesen: Ende 18. Jahrhundert
+GUELTIG_AB: 1780
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 167-marktheidenfeld/035
+ENTITÄT: zunft
+BEZEICHNUNG: Schneider und Krämer
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: 1648-1651
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 167-marktheidenfeld/036
+ENTITÄT: zunft
+BEZEICHNUNG: Fischer und Schiffer
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: 1648-1651
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 167-marktheidenfeld/037
+ENTITÄT: zunft
+BEZEICHNUNG: Schuster und Gerber
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: 1648-1651
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 167-marktheidenfeld/038
+ENTITÄT: zunft
+BEZEICHNUNG: Büttner, Steinhauer, Maurer, Bäcker
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: 1648-1651
+GUELTIG_AB: 1648
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 167-marktheidenfeld/039
+ENTITÄT: zunft
+BEZEICHNUNG: Schmiede, Zimmerer, Wagner
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet: Beginn 18. Jahrhundert
+GUELTIG_AB: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 167-marktheidenfeld/040
+ENTITÄT: stadtteil
+BEZEICHNUNG: Altfeld
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstanden_wahrscheinlich: karolingische Zeit
+  dominante_institutionen_ab_9_jhdt: Abtei Fulda, Propstei Holzkirchen
+  augustiner_chorherrenstift: Triefenstein (gegründet 1102)
+  kartause_ab: 1328 (Grünau)
+  weistum: 1473 (belegt Dorfherrschaft Grafen Wertheim)
+  herrschaft_bis: 1848 (Grafen Löwenstein-Wertheim nach 1556)
+  eingemeindet: 1976
+  heutige_struktur: bedeutender Gewerbestandort nahe Autobahn
+GUELTIG_AB: 700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/041
+ENTITÄT: stadtteil
+BEZEICHNUNG: Glasofen
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung_vermutet: karolingische Zeit
+  urspruenglich: fränkisches Königsland
+  an_reichsabtei_fulda: Schenkungen
+  an_tochterkloster: Holzkirchen
+  vogtei_wertheim: Grafen Wertheim sicherten sich Klostervogtei
+  teil_der_cent_michelrieth: 1359
+  herrschaftsgericht_kreuzwertheim: 1806-1814 (Fürsten Löwenstein-Wertheim)
+  in_staatliche_behoerde_umgewandelt: 1848
+  landgericht_stadtprozelten_zustandes: 1853
+  zum_bezirksamt_marktheidenfeld: 1862
+  amtsgericht_marktheidenfeld_zustaendig: 1879
+  freiwillig_eingemeinded: 1972
+GUELTIG_AB: 700
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/042
+ENTITÄT: stadtteil
+BEZEICHNUNG: Marienbrunn
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nachgewiesen_seit: 1251
+  dominante_institutionen: Kloster Neustadt, Hochstift Würzburg
+  gemeinde_mit_hafenlohr: seit 1500
+  selbstaendige_gemeinde_seit: 1830
+  gemarkung_uebertrag: 1831-1833 (ein Fünftel der gemeinsamen Gemarkung)
+  kapelle_errichtet: 1708
+  filialkirche_neubau: 1869
+  uebergang_vom_hochstift_wuerzburg: 1803 (an Löwenstein-Wertheim)
+  einwohner_1690: 65
+  einwohner_1841: 231
+  einwohner_1970: 300
+  eingemeined: 1975
+GUELTIG_AB: 1251
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/043
+ENTITÄT: stadtteil
+BEZEICHNUNG: Michelrieth
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortstyp: ursprüngliches Straßendorf
+  dominante_institutionen_ab_9_jhdt: Abtei Fulda, Propstei Holzkirchen
+  augustiner_chorherrenstift: Triefenstein (seit 1102)
+  kartause_ab: 1328 (Grünau)
+  ab_12_jhdt: Grafen Wertheim als Vögte
+  kirchspiel_herausgeloest: 1390 (aus Pfarrei Kreuzwertheim)
+  fuer_reformation_gewonnen: nach 1522
+  evangelisches_bekenntnis: bis 1976 bewahrt
+  bis_1848_bestimmend: Löwenstein-Grafen
+  seit_1814: Bayern
+  eingemeined: 1976
+GUELTIG_AB: 900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/044
+ENTITÄT: stadtteil
+BEZEICHNUNG: Oberwittbach
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortstyp: hochmittelalterliche Rodungssiedlung ("Platzweiler")
+  zur_grafschaft_wertheim: Jahrhundert lang
+  dominante_institutionen_ab_9_jhdt: Abtei Fulda, Propstei Holzkirchen
+  augustiner_chorherrenstift: Triefenstein
+  kartause: Grünau
+  nach_aussterben_wertheim: Grafen Löwenstein-Wertheim (bis 1848)
+  charakterisierung_heute: landwirtschaftliche Prägung
+  eingemeined: 1976
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/045
+ENTITÄT: stadtteil
+BEZEICHNUNG: Zimmern
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtteile/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung_unklar: 9. Jahrhundert oder später (Rodung Abtei Neustadt)
+  entscheidend_fuer_entwicklung: Burg und Siedlung Rothenfels (um Mitte 12. Jahrhundert)
+  rothenfels_zur_stadt_erhoben: vor 1342
+  besitzer_grafen_von_rieneck: 1250-1333
+  hochstift_wuerzburg_besitzer: ab 1377, wieder 1474-1803
+  zimmer_teil_der_stadt: Rothenfels
+  urpfarrei: Urspringen (ursprünglich)
+  pfarrei_rothenfels: ab 1687
+  gemeinsame_gemarkung_mit: Roden (bis 1735)
+  gemarkung_zuteil: ein Drittel (1735)
+  gewerbe_buettnergewerbe: Weinbau (bis 19. Jahrhundert)
+  steinbrueche: große Bedeutung bis 20. Jahrhundert
+  faehre_rothenfels: bis 1963
+  einwohner_1824: 331
+  einwohner_1974: 374
+  neubaugebiete: erheblicher Anstieg seitdem
+  eingemeined: 1974
+GUELTIG_AB: 900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/046
+ENTITÄT: museum
+BEZEICHNUNG: Obertor-Apotheke
+QUELLE: https://www.stadt-marktheidenfeld.de/kultur-tourismus/fuehrungen/museum-obertor-apotheke/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schwerpunkt: über 250 Jahre Apotheken-geschichte (lokaler Bezug + allgemeine Pharmaziegeschichte)
+  ausstellung: Dauerausstellung mit Themenbereichen und Kinderapotheke
+  adresse: Obertorstraße 10, 97828 Marktheidenfeld
+  leiter: Dr. Eric Martin (Marktheidenfelder Apotheker)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 167-marktheidenfeld/047
+ENTITÄT: institution
+BEZEICHNUNG: Musikschule Marktheidenfeld
+QUELLE: https://www.stadt-marktheidenfeld.de/25-oktober-der-klang-des-atems-in-der-st-laurentius-kirche/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ensembles: Akkordeonorchester, Ensemble Akkordeonissimo
+  dirigenten: Dr. Alma Flammersberger, Katrin Ferenz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/048
+ENTITÄT: religio_kulturgemeinschaft
+BEZEICHNUNG: jüdische Kultusgemeinde
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet_um: 1909
+  grund_zuzug: Zuzug aus Umlandgemeinden
+  bestand_bis: Verfolgungen während Dritten Reiches
+GUELTIG_AB: 1909
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 167-marktheidenfeld/049
+ENTITÄT: institution
+BEZEICHNUNG: Landgericht
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sitz_seit: 1806
+  trennung_von_verwaltung: 1862
+GUELTIG_AB: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/050
+ENTITÄT: institution
+BEZEICHNUNG: Bezirksamt / Landratsamt
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  etabliert_als_bezirksamt: 1862
+  umbenennung_zu_landratsamt: 1939
+GUELTIG_AB: 1862
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 167-marktheidenfeld/051
+ENTITÄT: landkreis
+BEZEICHNUNG: Marktheidenfeld
+QUELLE: https://www.stadt-marktheidenfeld.de/start/unsere-stadt/stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  aufgeloest: 1972
+  grund: Gebietsreform
+  stadt_verlor: Kreissitz und damit verbundene amtliche Einrichtungen
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+

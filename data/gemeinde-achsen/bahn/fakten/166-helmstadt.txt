@@ -1,0 +1,574 @@
+ID: 166-helmstadt/001
+ENTITÄT: ort
+BEZEICHNUNG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_marktgemeinde: true
+  bundesland: Bayern
+  regierungsbezirk: Unterfranken
+  landkreis: Würzburg
+  flaehe: 22.8 [km²]
+  hoehe_min: 286 [m ü. d. M.]
+  hoehe_max: 381 [m ü. d. M.]
+  breitengrad: 49° 46' N
+  laengengrad: 9° 43' O
+  postleitzahl: 97264
+  telefonvorwahl: 09369
+  kfz_kennzeichen: WÜ
+  gemeindeschluessel: 09679144
+  nachbargemeinden: Uettingen, Holzkirchen, Roßbrunn, Mädelhofen, Neubrunn, Unter- und Oberaltertheim
+  einwohner_2009: 2603
+  einwohner_2015: 2571
+  bebaute_flaeche: 77 [ha]
+  landwirtschaftliche_flaeche: 986 [ha]
+  waldflaeche: 356 [ha]
+  gesamtflaeche_gemarkung: 1567 [ha]
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 166-helmstadt/002
+ENTITÄT: ort
+BEZEICHNUNG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  marktrecht_jahr: 1770
+  marktrecht_tag_monat: 1. Oktober
+  maerkte_pro_jahr: 2
+  markttermine: Pfingsten, Martini
+GUELTIG_AB: 1770
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 166-helmstadt/003
+ENTITÄT: ort
+BEZEICHNUNG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung_jahr: 772
+  erste_urkundliche_erwaehnung_context: Kleriker Alwalah schenkte Helmstadt dem Kloster Fulda
+  lage_beschreibung: zwischen Würzburg, Wertheim, Tauberbischofsheim und Marktheidenfeld im historischen Waldsassengau
+  urspruenglicher_besitzer: Kloster Fulda
+  besitzwechsel_mittelalter: Wertheimer Grafen
+  besitzwechsel_1556: Nürnberger Patrizierfamilien Haller von Hallerstein, von Imhof, von Buirette
+  besitzwechsel_1612: Würzburger Fürstbischöfe unter Julius Echter
+  landkreis_wechsel_1972: von Marktheidenfeld zu Würzburg
+  staat: Bayern
+  gueltig_ab_state_change: 1814
+GUELTIG_AB: 772
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 166-helmstadt/004
+ENTITÄT: ort
+BEZEICHNUNG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besiedlung_jungsteinzeit: true
+  besiedlung_jungsteinzeit_alter: 6000-4000 v. Chr.
+  besiedlung_jungsteinzeit_orte: Altersberg, Ameisenberg, Hochstatt
+  keltische_siedlung: Am Roth
+  keltische_siedlung_alter: 1250-450 v. Chr.
+  besiedlung_bandkeramik: true
+  besiedlung_bandkeramik_alter: ca. 5000 v. Chr.
+  besiedlung_hallstattzeit: true
+  besiedlung_hallstattzeit_alter: um 400 v. Chr.
+GUELTIG_AB: 6000
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 166-helmstadt/005
+ENTITÄT: ort
+BEZEICHNUNG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: vom Personennamen Adalhalm abgeleitet; später von "Helm" und "Halm" (Beilstiel, Werkzeugstiel) reinterpretiert
+  alte_namenform: Adalhalmestat
+  muenze_historisch: Helbling
+  spitzname_einwohner: Blomäuser (nach der Helbling-Münze)
+GUELTIG_AB: 772
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 166-helmstadt/006
+ENTITÄT: ortsteil
+BEZEICHNUNG: Holzkirchhausen
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung_jahr: 815
+  erste_urkundliche_erwaehnung_context: Vertrag von Retzbach zwischen Kloster Fulda und Bistum Würzburg; Gundihhenhus genannt
+  gehoert_seit_zu_helmstadt: 1978
+  ortsteil_von: Helmstadt
+  urspruengliche_namenform: Gundihhenhus
+  telefonvorwahl: 09397
+  besiedlung_ursprung_vermutlich: Kloster Holzkirchen
+GUELTIG_AB: 815
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 166-helmstadt/007
+ENTITÄT: person
+BEZEICHNUNG: Hans Böhm
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alias: Pfeifer von Niklashausen
+  geburtsjahr_erwaehnung: Helmstadt
+  todesjahr: 1476
+  todesstelle: Würzburg, Schottenanger
+  todeeart: verbrannt
+  todesbegruendung: aufrührerische Predigten wider die geistliche und weltliche Herrschaft
+  anhaengerschaft: Tausende in Tauberstadt
+GUELTIG_BIS: 1476
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 166-helmstadt/008
+ENTITÄT: denkmal
+BEZEICHNUNG: Hans-Böhm-Denkmal
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Rathausplatz Helmstadt
+  erinnert_an: Hans Böhm (Pfeifer von Niklashausen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 166-helmstadt/009
+ENTITÄT: person
+BEZEICHNUNG: Prinz Ludwig
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  spaeteren_titel: König Ludwig III. von Bayern
+  ereignis_jahr: 1866
+  ereignis_datum: 25. Juli 1866
+  ereignis_ort: Schlacht bei Helmstadt im Ehringstal
+  ereignis_funktion: Ordonanzoffizier seines Vaters, des Prinzen Luitpold
+  ereignis_folge: schwer verwundet
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 166-helmstadt/010
+ENTITÄT: denkmal
+BEZEICHNUNG: Prinz-Ludwig-Denkmal
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Ortsausgang Richtung Würzburg Helmstadt
+  einweihung_jahr: 1909
+  einweihung_datum: 3. Oktober 1909
+  erinnert_an: Verwundung Prinz Ludwigs 1866 bei Helmstadt
+  anwesend_bei_einweihung: Prinz Ludwig
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 166-helmstadt/011
+ENTITÄT: event_historisch
+BEZEICHNUNG: Schlacht bei Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1866
+  datum: 25. Juli 1866
+  kontext: Krieg zwischen Preußen und Bayern
+  ort: Ehringstal auf Helmstadter Gemarkung
+  bedeutung: Verwundung des späteren König Ludwig III.
+  besuch_koenig_ludwig_II: November 1866
+GUELTIG_BIS: 1866
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 166-helmstadt/012
+ENTITÄT: buerkmeister_in
+BEZEICHNUNG: Christiane Lurz
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partei: CSU
+  amtsbeginn: 2026
+  ort: Helmstadt
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 166-helmstadt/013
+ENTITÄT: pfarrei
+BEZEICHNUNG: Pfarrei Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung_jahr: 1291
+  erste_erwaehnung_kontext: urkundlich dokumentiert; vermutlich Urpfarrei aus Christianisierungszeit
+  konfession_1529: evangelisch
+  konfession_1612: katholisch (seit Fürstbistum Würzburg)
+  kirchenname: St. Martin
+GUELTIG_AB: 1291
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 166-helmstadt/014
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+ORTSTEIL_BEZUG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/gemeindeleben/kirchen-und-pfarraemter | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Pfarrkirche
+  konfession: katholisch
+  pfarramt_adresse: St.-Martin Str. 16, 97264 Helmstadt
+  pfarramt_telefon: 09369/2362
+  pfarramt_fax: 09369/20115
+  pfarramt_email: pfarrei.helmstadt@bistum-wuerzburg.de
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 166-helmstadt/015
+ENTITÄT: kirche_bauwerk
+BEZEICHNUNG: St. Martin Pfarrkirche Helmstadt
+ORTSTEIL_BEZUG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kirchenschiff_erneuerung_jahr: 1721
+  ostchor_erneuerung: 1721
+  ostchor_bestand: bis heute erhalten
+  kirchenerweiterung_jahr: 1965-1966
+GUELTIG_AB: 1721
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 166-helmstadt/016
+ENTITÄT: kapelle
+BEZEICHNUNG: St. Ägidius
+ORTSTEIL_BEZUG: Holzkirchhausen
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung_jahr: 1305
+  typ: Filiale der Pfarrkirche Helmstadt
+  kirchenpatron: Heiliger Ägidius
+GUELTIG_AB: 1305
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 166-helmstadt/017
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/wappen/das-wappen-von-helmstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  genehmigung_jahr: 1589
+  genehmigt_durch: Ludwig von Löwenstein-Wertheim
+  elemente: drei rote heraldische Rosen (zwei zu eins), waagrechter blauer Werkzeugstiel
+  farben: Gold, Rot, Blau
+  bedeutung_rosen: Zugehörigkeit zur Grafschaft Wertheim
+  bedeutung_werkzeugstiel: redender Ortsnamen-Helm oder Helbling
+  fehlinterpretation_20_jh: als Keule/Helmeisen gedeutet
+  korrektur_jahr: 2010
+  korrektur_schreiben: 8. September 2010
+GUELTIG_AB: 1589
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 166-helmstadt/018
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Holzkirchhausen
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/wappen/das-wappen-von-holzkirchhausen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  genehmigung_jahr: 1964
+  genehmigung_datum: 1. April 1964
+  genehmigt_durch: Bayerisches Staatsministerium des Innern
+  farben: Rot und Silber (Weiß)
+  bedeutung_farben: Zugehörigkeit zum Herzogtum Franken / Hochstift Würzburg
+  elemente: von Pfeil am Hals durchbohrte Hirschkuh, durchgehendes schwarzes Kreuz in unterer Hälfte
+  bedeutung_hirschkuh: Symbol für heiligen Ägidius (Kirchenpatron)
+  bedeutung_fuldisches_kreuz: Hinweis auf Zugehörigkeit zum Kloster Holzkirchen der Reichsabtei Fulda
+GUELTIG_AB: 1964
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 166-helmstadt/019
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum Holzkirchhausen
+ORTSTEIL_BEZUG: Holzkirchhausen
+QUELLE: https://www.helmstadt-ufr.de/tourismus/heimatmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  existiert_seit: 1988
+  museumsverein_gegruendet: 2009
+  umbau_jahre: 2010-2014
+  gebaeude_baujahr: 1875
+  gebaeude_urspruengliche_funktion: Hirten- oder Armenhaus
+  gebaeude_funktion_1930er: Kinderbewahranstalt und öffentliche Badeanstalt
+  ausstellungsflaeche: 250 [m²]
+  adresse: Hauptstraße 4, 97264 Helmstadt-Holzkirchhausen
+  leitung_kontakt: Reiner Volk, Tel. 09397/1426
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 166-helmstadt/020
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Wasserleitung
+ORTSTEIL_BEZUG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  Jahr_einfuehrung: 1914
+  ersetzte: Dorfbrunnen
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 166-helmstadt/021
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Elektrisches Licht
+ORTSTEIL_BEZUG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einführung_jahr: 1920
+GUELTIG_AB: 1920
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 166-helmstadt/022
+ENTITÄT: event_historisch
+BEZEICHNUNG: Großbrand
+ORTSTEIL_BEZUG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1696
+  datum: 20. Januar 1696
+  ausgangspunkt: Brauerei des Valentin Kaspar Schätzlein im Gasthaus Stern
+  zerstoerte_gebaeude: 5 Häuser und 14 Scheunen
+GUELTIG_BIS: 1696
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 166-helmstadt/023
+ENTITÄT: event_historisch
+BEZEICHNUNG: Großbrand
+ORTSTEIL_BEZUG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1719
+  datum: 7. August 1719
+  ursache: Blitzschlag in ein Haus am Anger
+  zerstoerte_gebaeude: 104 Gebäude
+  zerstoerte_inhalte: sämtliche Erntevorräte
+  todesfaelle: mehrere Personen
+GUELTIG_BIS: 1719
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 166-helmstadt/024
+ENTITÄT: event_historisch
+BEZEICHNUNG: Brand
+ORTSTEIL_BEZUG: Holzkirchhausen
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1581
+  typ: Großbrand
+  folge: Bitte um Almosen in Wertheim
+GUELTIG_BIS: 1581
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 166-helmstadt/025
+ENTITÄT: event_historisch
+BEZEICHNUNG: Niederbrennungen
+ORTSTEIL_BEZUG: Helmstadt, Roßbrunn, Uettingen
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1466
+  kontext: Fehde zwischen Deutschem Orden und Graf Johann von Wertheim
+  betroffene_doerfer: Helmstadt, Roßbrunn, Uettingen
+GUELTIG_BIS: 1466
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 166-helmstadt/026
+ENTITÄT: event_historisch
+BEZEICHNUNG: Bauernkrieg - Helmstadt
+ORTSTEIL_BEZUG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1525
+  beteiligung: Helmstadter Bauern überfielen Kloster Holzkirchen und plünderten Pfarrhaus
+  folge_strafzahlung: 1000 Gulden
+GUELTIG_BIS: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 166-helmstadt/027
+ENTITÄT: event_historisch
+BEZEICHNUNG: Pfarrhaus-Überfall
+ORTSTEIL_BEZUG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1528
+  teil_des_konfliktes: zweiter Überfall und Plünderung des Pfarrhauses
+  raedesfuehrer: Endres Schmidt, Claus Fiederling, Stefan Weickert, Hans Baunach, Claus Schätzlein
+GUELTIG_BIS: 1528
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 166-helmstadt/028
+ENTITÄT: event_historisch
+BEZEICHNUNG: Reformationsereignisse
+ORTSTEIL_BEZUG: Helmstadt, Holzkirchhausen
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jah_evangelisch_1529: 1529
+  erster_pastor_1529: Paulus Klug
+  zurueck_katholisch_1612: 1612
+  grund_1612: Fürstbistum Würzburg unter Julius Echter
+GUELTIG_AB: 1529
+GUELTIG_BIS: 1612
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 166-helmstadt/029
+ENTITÄT: event_historisch
+BEZEICHNUNG: Kriegsfallzahlen Erster Weltkrieg
+ORTSTEIL_BEZUG: Helmstadt, Holzkirchhausen
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1914-1918
+  gefallene_helmstadt: 48
+  gefallene_holzkirchhausen: 12
+GUELTIG_BIS: 1918
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 166-helmstadt/030
+ENTITÄT: event_historisch
+BEZEICHNUNG: Kriegsfallzahlen Zweiter Weltkrieg
+ORTSTEIL_BEZUG: Helmstadt, Holzkirchhausen
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1939-1945
+  gefallene_vermisste_helmstadt: 111
+  gefallene_vermisste_holzkirchhausen: 31
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 166-helmstadt/031
+ENTITÄT: event_historisch
+BEZEICHNUNG: Befreiung durch amerikanische Truppen
+ORTSTEIL_BEZUG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 2. April 1945 (Ostermontag)
+  vorbereitung_widerstand: Volkssturm mit Panzersperren aus Leiterwagen
+  vorbereitung_aufhebung: von Mitbürgern nachts entfernt
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 166-helmstadt/032
+ENTITÄT: person_lehrer
+BEZEICHNUNG: Bernhard Schlüpfer
+ORTSTEIL_BEZUG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten/zeitachse | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erster_helmstadter_lehrer_erwaehnung: 1583
+  erwaehnung_anlass: als Teilnehmer einer Schlägerei genannt
+GUELTIG_AB: 1583
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 166-helmstadt/033
+ENTITÄT: schaule
+BEZEICHNUNG: Verbandsschule Helmstadt
+ORTSTEIL_BEZUG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Grundschule
+  groessen_2015: 12 Klassen, ca. 280 Schüler
+  funktion: Verbandsschule für Gemeindeverband
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 166-helmstadt/034
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kindergarten Helmstadt
+ORTSTEIL_BEZUG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruppen_2015: 3 Kindergartengruppen mit 75 Kindern, 2 Kleinkindgruppen mit 24 Kindern
+  gesamtgruppen: 5 Gruppen
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 166-helmstadt/035
+ENTITÄT: kindergarten
+BEZEICHNUNG: Kindergarten Holzkirchhausen
+ORTSTEIL_BEZUG: Holzkirchhausen
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/zahlen-und-daten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruppen_2015: 1 Kindergartengruppe mit 15 Kindern
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 166-helmstadt/036
+ENTITÄT: geografisches_merkmal
+BEZEICHNUNG: Sesselberg
+ORTSTEIL_BEZUG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/geografische-lage | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: höchste Erhebung
+  hoehe: 381 [m ü. d. M.]
+  superlativ: höchste Erhebung Helmstadts
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 166-helmstadt/037
+ENTITÄT: gewaesser
+BEZEICHNUNG: Welsbach
+ORTSTEIL_BEZUG: Helmstadt, Holzkirchhausen
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/geografische-lage | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bildung: Vereinigung von Flecklerisgraben/Lachgraben mit Bachlauf vom Feuerlöschweiher
+  fliessrichtung: Richtung Holzkirchhausen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 166-helmstadt/038
+ENTITÄT: gewaesser
+BEZEICHNUNG: Flecklerisgraben / Lachgraben
+ORTSTEIL_BEZUG: Helmstadt, Holzkirchhausen
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/geografische-lage | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alternativname: Lachgraben oder äußerer Bach
+  ursprung: ca. 500 m östlich der Ziegelei Wander
+  fliessrichtung: Brückenstraße
+  charakteristik: führt meist nur im Frühjahr, bei Unwettern oder hohem Grundwasserstand Wasser
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 166-helmstadt/039
+ENTITÄT: gewaesser
+BEZEICHNUNG: Rothquelle
+ORTSTEIL_BEZUG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/geografische-lage | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Würzburger Straße
+  charakteristik: tritt nur in feuchten Jahren in Erscheinung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 166-helmstadt/040
+ENTITÄT: klima
+BEZEICHNUNG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/geografische-lage | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  mittlerer_jahresniederschlag: 602-640 [mm] / 600-700 [mm]
+  mittlere_jahrestemperatur: 8-8.5 [°C]
+  hauptwindrichtung: West – Ost
+  charakteristik: Frühsommertrockenheiten und trockenwarme Herbste häufig
+  einfluss: Höhenlage und Nähe Spessart
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 166-helmstadt/041
+ENTITÄT: archiv
+BEZEICHNUNG: Gemeindearchiv Markt Helmstadt
+ORTSTEIL_BEZUG: Helmstadt
+QUELLE: https://www.helmstadt-ufr.de/ueber-uns/gemeindearchiv | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  leitung: Bernd Schätzlein
+  adresse: Im Kies 4, 97264 Helmstadt
+  telefon: 09369 454
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
