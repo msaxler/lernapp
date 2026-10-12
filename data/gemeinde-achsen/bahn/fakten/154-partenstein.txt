@@ -1,0 +1,538 @@
+ID: 154-partenstein/001
+ENTITÄT: ort
+BEZEICHNUNG: Partenstein
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  landkreis: Main-Spessart
+  bundesland: Bayern
+  region: Unterfranken
+  region_spessart: Spessart
+  liegt_an_fluss: Lohr (linkes Ufer)
+  entfernung_zu_lohr_am_main: ca. 7 km
+  richtung_zu_lohr_am_main: nordwestlich
+  ist_gemeindesitz: true
+  ist_sitz_verwaltungsgemeinschaft: true
+  bundesstrasse: 276
+  radweg: Kahltal-Spessart-Radweg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 154-partenstein/002
+ENTITÄT: gemarkung
+BEZEICHNUNG: Partenstein
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  flaeche: 10.446 km²
+  fluerstuecke_anzahl: 3417
+  fluerstuecke_durchschnittliche_groesse: 3057.06 m²
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 154-partenstein/003
+ENTITÄT: naturpunkt
+BEZEICHNUNG: Gaulskopf
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  art: topographisch höchster Punkt der Gemeinde
+  hoehe: 502 m ü. NHN
+  lage_zu_ort: nordöstlich von Partenstein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 154-partenstein/004
+ENTITÄT: ortsteil
+BEZEICHNUNG: Partenstein
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  art: Pfarrdorf
+  einziger_gemeindeteil: true
+  sitzt_gemeindeverwaltung: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 154-partenstein/005
+ENTITÄT: burg
+BEZEICHNUNG: Bartenstein
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  erbauer: Grafen von Rieneck
+  bauzeit: ca. 1180
+  zerstoert: 1626
+  grund_zerstoerung: Dreißigjähriger Krieg
+  lage: Bergsporn über dem Dorf
+  verwaltungssitz: Amt Partenstein
+  zustand_20jhd_ende: ca. 20 m hoher Mauerrest
+  ausgrabungen_sanierungen: laufend
+GUELTIG_AB: 1180
+GUELTIG_BIS: 1626
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 154-partenstein/006
+ENTITÄT: ortsname_etymologie
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  benannt_nach: Burg Bartenstein
+  etymologie: Ortsname stammt von der Burgbezeichnung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 154-partenstein/007
+ENTITÄT: historische_industrie
+BEZEICHNUNG: Waldglasherstellung
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  material: Waldglas
+  ort: Wälder um Partenstein
+GUELTIG_AB: 1500
+GUELTIG_BIS: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 154-partenstein/008
+ENTITÄT: historische_industrie
+BEZEICHNUNG: Holzhandel und Holzverarbeitung
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: bis ins 19. Jahrhundert
+GUELTIG_BIS: 1900
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 154-partenstein/009
+ENTITÄT: verkehrsanbindung
+BEZEICHNUNG: Main-Spessart-Bahn
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  frueherer_name: Ludwigs-West-Bahn
+  bahnstation_eroeffnung: 1854
+  auswirkung: ermöglichte Industrialisierung und Bergbau
+GUELTIG_AB: 1854
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 154-partenstein/010
+ENTITÄT: bergbau
+BEZEICHNUNG: Schwerspatabbau
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  mineral: Baryt (Schwerspat)
+  abbau_start: ca. 1840
+  gruben_anzahl: 14
+  abbau_ende: 1948
+  grund_abbau_ende: Blitzschlag zerstörte Maschinenhaus des Marienschachts
+GUELTIG_AB: 1840
+GUELTIG_BIS: 1948
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 154-partenstein/011
+ENTITÄT: industrie
+BEZEICHNUNG: Schuhfabrik Schantz
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  produkt: Schuhe
+  standort_beschreibung: in der Nähe des Bahnhofs
+  zeitraum_betrieb: 1939 bis in die 1980er Jahre
+  gebaeude: noch erhalten
+GUELTIG_AB: 1939
+GUELTIG_BIS: 1980
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 154-partenstein/012
+ENTITÄT: person_historisch
+BEZEICHNUNG: Fritz Seyboth
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Pfarrer
+  geburt: 1907
+  tod: 1974
+  mitgliedschaft: NSDAP-Ortsgruppe Partenstein
+  verfahren: 1942 Anzeige wegen Abhaltung Gottesdienst am Werktag, eingestellt nach Verwarnung
+  militar_eingezogen: 1943 zum Heeresdienst eingezogen
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 154-partenstein/013
+ENTITÄT: religion
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  katholiken: 1282
+  protestanten: 1175
+  zensus_jahr: 2011
+  grund_konfessionsvielfalt: Hanauer Grafschafts-Einfluss und Mainzer Herrschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 154-partenstein/014
+ENTITÄT: demografie
+BEZEICHNUNG: Einwohnerentwicklung
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_1961: 2308
+  einwohner_1970: 2516
+  einwohner_1987: 2683
+  einwohner_1991: 2775
+  einwohner_1995: 2886
+  einwohner_2000: 2912
+  einwohner_2005: 2868
+  einwohner_2010: 2833
+  einwohner_2011: 2851
+  einwohner_2015: 2806
+  einwohner_2020: 2816
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 154-partenstein/015
+ENTITÄT: buergermeister
+BEZEICHNUNG: Stephan Amend
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  titel: Erster Bürgermeister
+  parteizugehoerigkeit: Freie Wähler
+  amtsantritt: 1. Mai 2008
+  wiederwahl_datum: 15. März 2020
+  wiederwahl_prozentual: 91,8 %
+  wiederwahl_dauer: 6 Jahre
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 154-partenstein/016
+ENTITÄT: buergermeister
+BEZEICHNUNG: Günter Amend
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  titel: Zweiter Bürgermeister
+  parteizugehoerigkeit: CSU
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 154-partenstein/017
+ENTITÄT: buergermeister
+BEZEICHNUNG: Dirk Mehrlich
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  titel: Dritter Bürgermeister
+  parteizugehoerigkeit: SPD
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 154-partenstein/018
+ENTITÄT: gemeinderat
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  wahl_datum: 15. März 2020
+  freie_waehler_sitze: 6
+  freie_waehler_prozent: 40,96 %
+  spd_sitze: 5
+  spd_prozent: 33,96 %
+  csu_sitze: 3
+  csu_prozent: 25,08 %
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 154-partenstein/019
+ENTITÄT: symbol
+BEZEICHNUNG: Gemeindeflagge
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  farben: weiß-rot-gelb
+  muster: gestreift
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 154-partenstein/020
+ENTITÄT: symbol
+BEZEICHNUNG: Gemeindewappen
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  blasonierung: In Rot über goldenen Mauersteinen in vier Reihen zwei schräg gekreuzte silberne Hellebarden
+  bedeutung_hellebarden: Parten als redende Figur für Ortsnamen
+  bedeutung_steine: redend für Ortsnamen
+  bedeutung_rot_gold: Wappen der Grafen von Rieneck und Grafen von Hanau
+  bedeutung_silber_rot: Landesherrschaft des Kurstaates Mainz
+  heraldiker: Karl Haas aus Kronach
+  genehmigung_datum: 28. Januar 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 154-partenstein/021
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Thise
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 154-partenstein/022
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Pfarrkirche
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  bauzeit: 1830-1831
+  architekt: Johann Philipp Mattlener
+  architekt_ausbildung: Schüler von Friedrich Weinbrenner
+GUELTIG_AB: 1830
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 154-partenstein/023
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johannes der Täufer
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  konfession: katholisch
+  bauzeit: 1836
+  vorbild: Anlehnung an evangelische Kirche
+  architekt: vermutlich Philipp Mattlener
+  genauigkeit_architekt: vermutlich
+GUELTIG_AB: 1836
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 154-partenstein/024
+ENTITÄT: denkmal
+BEZEICHNUNG: Kriegerdenkmal
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  lage: Ortskern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 154-partenstein/025
+ENTITÄT: oeffentliche_anlage
+BEZEICHNUNG: Brunnengarten
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  lage: Ortskern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 154-partenstein/026
+ENTITÄT: museum
+BEZEICHNUNG: Ahler Kram
+QUELLE: https://vg-partenstein.de/seite/pa/cms121020262009145453f8ae/02751:2879/-/Heimatkundemuseum_Ahler_Kram.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vollname: Heimatkundemuseum Ahler Kram
+  adresse: Am Herrenhof 8, Dorfplatz, Altes Schulhaus
+  adresse_zusatz: neben der evangelischen Kirche
+  plz: 97846
+  traeger: Gemeinde Partenstein
+  hausgebaeude_baujahr: 1894
+  hausgebaeude_art: ehemaliges Volksschulhaus
+  begruender: Dr. Eugen Nätscher
+  begruender_beruf: Privatsammler und Arzt
+  status: geschlossen bis auf weitere
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 154-partenstein/027
+ENTITÄT: buergermeister
+BEZEICHNUNG: Dominik Brühl
+QUELLE: https://vg-partenstein.de/seite/pa/cms121020262009145453f8ae/02751:2879/-/Heimatkundemuseum_Ahler_Kram.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Erster Bürgermeister
+  email: dominik.bruehl@vg-partenstein.de
+  telefon: +49 9355 9721-11
+  mobil: +49 152 02625531
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 154-partenstein/028
+ENTITÄT: gemeindemitarbeiter
+BEZEICHNUNG: Kerstin Lindner
+QUELLE: https://vg-partenstein.de/seite/pa/cms121020262009145453f8ae/02751:2879/-/Heimatkundemuseum_Ahler_Kram.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Vermittlung/Öffentlichkeitsarbeit
+  email: kerstin.lindner@vg-partenstein.de
+  telefon: +49 9355 9721-14
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 154-partenstein/029
+ENTITÄT: wanderweg
+BEZEICHNUNG: Europäischer Kulturpfad
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  thema: ehemaliger Schwerspatabbau
+  gebiet: Schnepfental
+  besonderheit: Sandsteinplattenweg mit Radspuren von Transportfuhrwerken
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 154-partenstein/030
+ENTITÄT: bergwerk_anlage
+BEZEICHNUNG: Marienschacht
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  fruehere_bezeichnung: Erichschacht
+  angelegt: 1904
+  ausstattung: Förderturm, Maschinenhaus, Werkstatt
+  zerstoert: Blitzschlag auf Maschinenhaus
+  grund_stillegung: Blitzschlag
+  zustand_heute: wenige Fundamente erkennbar
+GUELTIG_AB: 1904
+GUELTIG_BIS: 1948
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 154-partenstein/031
+ENTITÄT: bergwerk_anlage
+BEZEICHNUNG: Transportstollen / Erichstollen
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Transport von Schwerspat mit Loren
+  verbindung: vom Marienschacht zum Verladeplatz
+  erbaut: 1922
+  restauration: 1992
+  erhalten: Mundloch, Lorengleis, Unterstand mit Infotafeln
+GUELTIG_AB: 1922
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 154-partenstein/032
+ENTITÄT: historische_staette
+BEZEICHNUNG: Hirtleswiese
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  funktion: Ort der Schwerspatwäsche
+  zeitraum_funktion: vor 1922
+  besonderheit: weite Aussicht über Ort und Burg
+GUELTIG_BIS: 1922
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 154-partenstein/033
+ENTITÄT: muehle
+BEZEICHNUNG: Untere Mühle
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  gedenktafel_inhalt: Hinweis auf Besitzer von 1825
+  erhalten: Gedenktafel vorhanden, Gebäude nicht mehr erhalten
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 154-partenstein/034
+ENTITÄT: muehle
+BEZEICHNUNG: Mittlere Mühle
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  bauweise: Fachwerkbau
+  lage: an der Brücke unterhalb der Burg
+  besitztum: Privatbesitz
+  gedenktafel_material: Sandstein
+  gedenktafel_inhalt: Hinweis auf Müller Johannes von 1824
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 154-partenstein/035
+ENTITÄT: muehle
+BEZEICHNUNG: Obere Mühle
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  bauweise: restauriertes Fachwerkhaus
+  besitztum: Privatbesitz
+  datierbar_seit: 16. Jahrhundert
+  urspruengliche_funktion: Getreidemühle
+  umwandlung: Schwerspatmühle
+  umwandlung_grund: Schwerspatwäsche nach Erichstollen-Anbindung 1922
+  funktionslos_seit: nach 1948
+  muehlrad_entfernt: Ende 1950er Jahre
+  neuerrichtung: 2011 als innovatives Kleinkraftwerk
+GUELTIG_AB: 1500
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 154-partenstein/036
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Kindertageseinrichtung
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  plaetze_anzahl: 169
+  kinder_anzahl: 117
+  stand: 2020/21
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 154-partenstein/037
+ENTITÄT: bildungseinrichtung
+BEZEICHNUNG: Grundschule
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  klassen_anzahl: 4
+  schueler_anzahl: 101
+  stand: 2020/21
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 154-partenstein/038
+ENTITÄT: sportverein
+BEZEICHNUNG: TSV Partenstein Fußball
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Fußball
+  spielklasse: Kreisklasse 4
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 154-partenstein/039
+ENTITÄT: sportverein
+BEZEICHNUNG: TSV Partenstein Handball
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  sportart: Handball
+  spielklasse_2010_2014: Handball-Landesliga (fünftklassig)
+  dachverband: Bayerischer Handballverband
+  spielklasse_2022_23: Bezirksoberliga Unterfranken (sechstklassig)
+  mannschaften_2023: 2 Männermannschaften, 1 Damenteam, 4 Nachwuchsmannschaften
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 154-partenstein/040
+ENTITÄT: verein
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  anzahl_vereine_insgesamt: 50
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 154-partenstein/041
+ENTITÄT: wirtschaft
+BEZEICHNUNG: Arbeitsplätze Partenstein
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 2019
+  produzierendes_gewerbe: 167 arbeitsplaetze
+  handel_verkehr: 40 arbeitsplaetze
+  dienstleister: 186 arbeitsplaetze
+  arbeitsort: Arbeitsort im Ort
+  wohnort_arbeitsplaetze_insgesamt: 1265
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 154-partenstein/042
+ENTITÄT: wirtschaft
+BEZEICHNUNG: Betriebe Partenstein
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 2020
+  verarbeitendes_gewerbe_betriebe_20plus: 2
+  bauhauptgewerbe_betriebe_20plus: 3
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 154-partenstein/043
+ENTITÄT: landwirtschaft
+QUELLE: https://de.wikipedia.org/wiki/Partenstein | Wikipedia
+EIGENSCHAFTEN:
+  jahr_betriebe: 2020
+  betriebe_anzahl: 12
+  genutzte_flaeche: 152 ha
+  dauergruenflaeche: 151 ha
+  stand_flaeche: 2016
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

@@ -1,0 +1,738 @@
+ZIELORT: Lohr am Main (Stadt)
+LAGE: 35 km nordwestlich von Würzburg (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Lohr am Main
+
+GRUNDDATEN:
+  landkreis: Main-Spessart  [dewiki Infobox]
+  bundesland: Bayern  [dewiki Infobox]
+  einwohner: 14.964  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 90,42  [Wikidata P2046]
+  dichte_ew_km2: 165  [berechnet aus Einwohner und Fläche]
+  kfz: MSP (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 167 | 161  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2876147)]
+  naechste_grossstadt: Würzburg, 35 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: München, 253 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Lohr Bahnhof, Rodenbach  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 97816  [Wikidata P281]
+  vorwahl: 09352  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 41,4 %, SPD 15,5 %, AfD 13 %, GRÜNE 11,9 %, Die Linke 5 %; Wahlbeteiligung 84,4 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Dirk Rieb {{Internetquelle |url=https://www.lohr.de/leben-und-arbeiten/unser-rathaus/buergermeister |titel=Bürgermeister |abruf=2026-07-22}} mini|hochkant|Die Stadtpfarrkirche St. Michael (parteilos) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-12]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Höhe des Orts), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Landkreis), C, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Gemünden am Main (Stadt)
+  landkreis: Main-Spessart  [dewiki Infobox]
+  einwohner: 10.021  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 75,06  [Wikidata P2046]
+  hoehe_m: 160 | 179 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2921379)]
+  naechste_grossstadt: Würzburg, 33 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Bahnhof Gemünden (Main), Josefshaus, Kleingemünden, Langenprozelten, Schönau (b Gemünden), Wernfeld  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 42,9 %, AfD 19,3 %, SPD 12,8 %, GRÜNE 8,6 %; Wahlbeteiligung 83 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  kfz: GMN (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand kfz_kennzeichen.csv]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen
+
+FAKTEN (Zielort Lohr am Main):
+ID: 153-lohr/001
+ENTITÄT: ort
+BEZEICHNUNG: Lohr am Main
+QUELLE: https://www.lohr.de/tourismus/stadtgeschichte-chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_schriftliche_erwähnung: 1295
+  kelten_besiedlung: vermutlich in letzten Jahrhunderten vor Christus
+  namensetymologie: vermutlich keltisch, geht zurück auf Fluss "Lara"
+  namensetymologie_urkunde: 1057 erstmals urkundlich erwähnt
+  stadtrechte_verleihung: 1333
+  stadtrechte_verleiher: Kaiser Ludwig der Bayern
+  stadtrechte_typ: Gelnhäuser Stadtrecht
+  herrschaftsperiode_rieneck: 12.-14. Jahrhundert
+  herrschaftsperiode_mainz: ab 1559
+  übergang_zu_bayern: 1814
+  status_1814: Königlich Bayerische Amtsstadt
+  einwohnerzahl_1601: 1.800
+  einwohnerzahl_1639: 576
+  einwohnerzahl_nach_gebietsreform: ca. 16.000
+  fläche_nach_gebietsreform: 9.029 ha
+  schulstadt_seit: 1839
+  spessarträuber_großer_postwagenraub: 1787
+GUELTIG_AB: 1295
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/002
+ENTITÄT: vereinigung
+BEZEICHNUNG: Geschichts- und Museumsverein Lohr a.Main e.V.
+QUELLE: https://www.lohr.de/leben/vereine/geschichts-und-museumsverein-lohr-a-main-e-v | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tätigkeit_forschung: Geschichte Lohrs und Main-Spessart-Region
+  tätigkeit_vermittlung: Geschichte
+  aktivität_publikationen: true
+  aktivität_vorträge: true
+  aktivität_museumsunterstützung: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/003
+ENTITÄT: vereinigung
+BEZEICHNUNG: Geschichtsverein Ruppertshütten
+QUELLE: https://www.lohr.de/leben/vereine/geschichtsverein-ruppertshuetten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  arbeitsfeld_geschichte: true
+  arbeitsfeld_kultur: true
+  arbeitsfeld_lokales_erbe: true
+IST_VERMUTISMUS_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 153-lohr/004
+ENTITÄT: kulturelle_gemeinschaft
+BEZEICHNUNG: Israelitische Kultusgemeinde
+QUELLE: https://www.lohr.de/tourismus/juedische-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bestand_von: 1864
+  bestand_bis: 1938/1939
+  erinnerungsorte: 13
+  gründungsgrund: Einführung Niederlassungsfreiheit für jüdische Untertanen in Bayern 1861
+  widersand_stadt_gegen_jüdische_besiedlung: Jahrhunderte vor Gründung
+  höchststand_mitglieder: ca. 90 Personen Ende 19. Jahrhundert
+  reichspogromnacht: 09./10. November 1938 Verwüstung und Versiegelung
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/005
+ENTITÄT: gebäude
+BEZEICHNUNG: Synagoge Fischergasse
+ORTSTEIL_BEZUG: Fischergasse 32
+QUELLE: https://www.lohr.de/tourismus/juedische-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nutzung_von: 1871
+  nutzung_bis: 1938/1939
+  architektur: Barockgebäude mit Walmdach
+  datierung_bau: 1732
+  äußere_veränderung_seit_bau: keine (baulich unverändert)
+  betsaal_fläche: 50 qm
+  betsaal_bestuhlung: eng
+  mikwe_vorhanden: ja, im Hinterhaus
+  reichspogromnacht_schaden: Verwüstung, danach polizeilich versiegelt
+  reichspogromnacht_datum: 09. November 1938
+  brand_schutzmaßnahme_grund: Vermeidung Brandstiftung in dicht bewohnter Gasse
+  bedeutung: wichtigstes originales bauliches Denkmal der jüdischen Gemeinde
+GUELTIG_AB: 1871
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/006
+ENTITÄT: betsaal
+BEZEICHNUNG: Erster jüdischer Betsaal
+ORTSTEIL_BEZUG: Lotte-Stern-Gasse
+QUELLE: https://www.lohr.de/tourismus/juedische-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nutzung_von: 1867/1868
+  nutzung_bis: 1871
+  mietung_von: Lohrer Dachdeckermeister
+  zweck: Übergangslösung
+  zugang: durch Hinterhof, offene Toreinfahrt
+  gedenktafel_enthüllung: 16. April 2018
+  gedenktafel_enthüllt_von: Bürgermeister Dr. Mario Paul
+GUELTIG_AB: 1867
+GUELTIG_BIS: 1871
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 153-lohr/007
+ENTITÄT: gasse
+BEZEICHNUNG: Lotte-Stern-Gasse
+ORTSTEIL_BEZUG: nahe dem Schlossplatz
+QUELLE: https://www.lohr.de/tourismus/juedische-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  benannt_nach: Lotte Stern
+  benennung_jahr: 2019
+  frühere_bezeichnung: namenlos
+  grund_benennung: Gedenken an jüdisches NS-Opfer
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/008
+ENTITÄT: person
+BEZEICHNUNG: Lotte Stern
+QUELLE: https://www.lohr.de/tourismus/juedische-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtstag: 08. Juni 1925
+  wohnort: Hauptstraße
+  alter_bei_reichspogromnacht: 13 Jahre
+  fluchtversuch: Kindertransport Januar 1939 in Niederlande
+  verhaftung: 12. Februar 1942 in niederländischem Kinderheim
+  deportation: 15. Juli 1942 nach Auschwitz (mit 50 anderen Kindern aus Westerbork)
+  tod: 17. Juli 1942 (Tag der Ankunft in Auschwitz)
+  tod_ursache: umgebracht im Lager
+  superlativ: jüngstes jüdisches NS-Opfer
+GUELTIG_AB: 1925
+GUELTIG_BIS: 1942
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/009
+ENTITÄT: person
+BEZEICHNUNG: Simon Strauß
+QUELLE: https://www.lohr.de/tourismus/juedische-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion_1924_1938: Leiter der rituellen (koscheren) Küche
+  funktion_1924_1938_zusatz: Seelsorger für jüdische Patienten
+  funktion_1926_1938: Vorstand der Israelitischen Kultusgemeinde
+  funktion_syn: Prediger, Lehrer und Schächter in der Synagoge
+  alter_bei_reichspogromnacht: 71 Jahre
+  reaktion_reichspogromnacht: Der Rabbi weinte
+  inhaftierung_nach_reichspogromnacht: mehrere Tage
+  ausreise: April 1939
+  ausreiseziel: unbekannt
+  tod_ort: Bad Nauheim
+  tod_jahr: 1940
+  gedenktafel_enthüllung: 12. September 2019
+  gedenktafel_enthüllt_von: Bezirkstagspräsident Erwin Dotzel und Bürgermeister Dr. Mario Paul
+GUELTIG_AB: 1924
+GUELTIG_BIS: 1940
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/010
+ENTITÄT: gebäude
+BEZEICHNUNG: Israelitischer Pavillon
+ORTSTEIL_BEZUG: Sommerberg 43 (Bezirkskrankenhaus)
+QUELLE: https://www.lohr.de/tourismus/juedische-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nutzung_von: 1924
+  nutzung_bis: 1938
+  zweck: Unterkunft jüdischer Patienten
+  errichtung: eigens dafür errichtet
+  leiter: Simon Strauß (rituelle Küche, Seelsorge)
+GUELTIG_AB: 1924
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 153-lohr/011
+ENTITÄT: gedenkstätte
+BEZEICHNUNG: Infotafel "75 Jahre jüdische Gemeinde"
+ORTSTEIL_BEZUG: Schlossplatz Ostseite
+QUELLE: https://www.lohr.de/tourismus/juedische-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Ostseite des Lohrer Schlossplatzes
+  gegenstand: Geschichte der Israelitischen Kultusgemeinde Lohr (1864–1939)
+  besonderheit: einzige Tafel ihrer Art im bayerischen Spessart
+  art: bebilderter Überblick über Geschichte und Menschen
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/012
+ENTITÄT: museum
+BEZEICHNUNG: Dauerausstellung jüdisches Leben
+ORTSTEIL_BEZUG: Schlossplatz 1 (Spessartmuseum)
+QUELLE: https://www.lohr.de/tourismus/juedische-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung_geplant: 2024
+  träger: Spessartmuseum (Einrichtung Landkreis Main-Spessart)
+  inhalt_geografisch: jüdisches Leben in Lohr, Spessart, Landkreis Main-Spessart
+  zentrales_objekt: Torso des Tora-Schreins
+  tora_schreintorso_zerstörung: Reichspogromnacht 10. November 1938
+  tora_schreintorso_fund: 2021 auf Dachboden ehemalige Synagoge Fischergasse
+  erste_protokollbuch: Laufzeit 1867-1913, archiviert Jerusalem, kopie vorhanden
+  ester_rolle: ursprünglich Synagoge, entwendet Reichspogromnacht, 1996 anonym zurückgegeben, seit 2022 im Museum
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 153-lohr/013
+ENTITÄT: gedenkstein
+BEZEICHNUNG: Gedenkstein an der alten Stadtmauer
+ORTSTEIL_BEZUG: Grafen-von-Rieneck-Straße (alte Stadtmauer)
+QUELLE: https://www.lohr.de/tourismus/juedische-geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  enthüllung_datum: 11. November 2019
+  enthüllt_von: Bürgermeister Dr. Mario Paul
+  nennt_opfernamen: 17 Töchter und Söhne jüdischer Familien
+  opfer_deportiert_von: anderen Städten (privat oder beruf lich zugezogen)
+  opfer_deportiert_nach: Tötungsorte benannt
+  direktdeportationen_aus_lohr: nein (familien konnten rechtzeitig auswandern)
+  ergänzung: Tafel von 1991 mit allgemeiner Erinnerung
+  funktion_heute: Erinnerungsort mit Kerzen, Blumen, Steinen nach jüdischem Brauch
+GUELTIG_AB: 2019
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/014
+ENTITÄT: gebäude
+BEZEICHNUNG: Kurmainzer Schloss
+ORTSTEIL_BEZUG: Schlossplatz
+QUELLE: https://www.lohr.de/tourismus/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundstein: 1340
+  grundstein_lege: Grafen von Rieneck
+  befestigung_von: spätes 15. Jahrhundert
+  befestigung_mit: Graben und Schlossmauer (heute gut erhalten)
+  übernahme: 1559
+  übernahme_von: Kurfürsten von Mainz (nach Tod letzter Rienecker)
+  gestalt_geändert_von: Kurfürsten von Mainz ab 1559
+  türme_count: 4
+  denkmalschutz: ja
+  museum_seit: 1972 Spessartmuseum
+  besonderheit: Geburtsort Schneewittchen 1725
+GUELTIG_AB: 1340
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/015
+ENTITÄT: gebäude
+BEZEICHNUNG: Kellereischeune
+ORTSTEIL_BEZUG: Lohr (Kernstadt)
+QUELLE: https://www.lohr.de/tourismus/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: aus 14. Jahrhundert
+  material: Fachwerkhaus
+  frühere_nutzung: Küferei
+  küferei_handwerk: Fertigung Holzfässer und Gefäße (Wein, Bier, Lebensmittel)
+  heutige_nutzung: Touristinformation
+  zugang_altstadtparkhaus: durch dieses Gebäude
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/016
+ENTITÄT: rathaus
+BEZEICHNUNG: Altes Rathaus
+ORTSTEIL_BEZUG: Lohr (Altstadt)
+QUELLE: https://www.lohr.de/tourismus/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: um 1600
+  bedeutung_stadtentwicklung: repräsentativ für bedeutende Stadt
+  architektur_einfahrtsbögen: vier Seiten mit großen Einfahrtsbögen
+  architektur_einfahrtsbögen_nutzung: Reiter konnten ohne Abstieg hineinreiten
+  architektur_halle: ehemals offene Markthalle
+  markthalle_bedeutung: enorm wichtig für Wirtschaft der Stadt Lohr
+  portale_wappen: tragen Wappen verdienter Bürger und Bürgermeister
+  steinmetzkunst: zahlreiche Fratzen, Köpfe, Karyatiden
+  steinmetzzeichen: 21 verschiedene
+  dachreiter_turm: sechseckig
+  dachreiter_decoration: goldene Justitia
+  umbau: Anfang 19. Jahrhundert zu geschlossenem Raum
+  heutige_nutzung: Veranstaltungsraum
+  heutige_nutzung_zusatz: Ausstellungen, Lesungen, Konzerte
+  obergeschosse: Stadtbücherei und Musikschule
+  stadtverwaltung_umzug: 1985 zum Neuen Rathaus am Schlossplatz
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/017
+ENTITÄT: turm
+BEZEICHNUNG: Bayersturm
+ORTSTEIL_BEZUG: Fischergasse/Turmstraße (Ausgang Fischerviertel)
+QUELLE: https://www.lohr.de/tourismus/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: 13./14. Jahrhundert
+  höhe: 40 Meter
+  ursprung: Teil der Stadtbefestigung
+  architektur_eckquader: große
+  architektur_haube: Barockhaube
+  besonderheit: letzter erhaltener Stadtturm
+  stockwerke: 6
+  türmerwohnung: auf zwei oberen Etagen (mit Familie und Vieh)
+  türmerfunktion: Tag- und Nachtwache, Warnung vor Feuer und Gefahr
+  namensetymologie: Familie Bayer verrichtete Türmer-Dienst über 200 Jahre
+  treppenanlage: 1979 eingebaut durch Bayersturm-Verein
+  treppenanlage_finanzierung: Erlös Bayersturm-Feste
+  ausblick: herrlicher Blick über Main, Stadt, Spessart
+  denkmalschutz: ja
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/018
+ENTITÄT: architektur_ensemble
+BEZEICHNUNG: Fachwerk (fränkisches)
+QUELLE: https://www.lohr.de/tourismus/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stil: fränkisches Fachwerk
+  verbreitung: fast ausnahmslos in Lohr
+  ältestes_haus: spätgotisches Doppelhaus Hauptstraße 3/5 (unterschiedliche Geschosshöhen)
+  besonderheiten: Hausportale, Hausmadonnen, Wirtshausschilder
+  charakteristik: geschnitzte Eckpfosten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/019
+ENTITÄT: platz
+BEZEICHNUNG: Maler-Winkel
+ORTSTEIL_BEZUG: Hauptstraße 19-27
+QUELLE: https://www.lohr.de/tourismus/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architektur: kunstvolles Fachwerk, geschnitzte Eckpfosten
+  wirtshaus_ausleger: besonders prächtig mit vergoldetem Adler (heute Main Echo Geschäftsstelle)
+  gegenüber: Altes Rathaus
+  gastwirtschaft_früher: "Zum Stern" (heute Geschäft Dreisbusch)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/020
+ENTITÄT: brunnen
+BEZEICHNUNG: Märchenbrunnen
+ORTSTEIL_BEZUG: Unterer Marktplatz
+QUELLE: https://www.lohr.de/tourismus/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  künstler: Hermann Amrhein
+  aufstellung_seit: 600-Jahr-Feier der Stadt
+  vorgänger: Fischbrunnen (bis 1936)
+  vorgänger_neuer_standort: Färbergasse
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/021
+ENTITÄT: viertel
+BEZEICHNUNG: Fischerviertel
+ORTSTEIL_BEZUG: Lohr (Kernstadt)
+QUELLE: https://www.lohr.de/tourismus/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gassen: Fischergasse, Muschelgasse
+  charakteristik: romantisch, historisch
+  pflastersteine: uralte
+  bebauung: kleine historische Wohn- und Handwerkerhäuschen
+  blumenschmuck: überbordend im Sommer
+  denkmalschutz: Fischerviertel denkmalgeschützt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/022
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Alte Stadtmauer
+ORTSTEIL_BEZUG: Grafen-von-Rieneck-Straße
+QUELLE: https://www.lohr.de/tourismus/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erhaltungszustand: teilweise erhalten
+  erkenntnis_punkt: Steinmühlplatz mit schönem Blick
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 153-lohr/023
+ENTITÄT: kirche
+BEZEICHNUNG: Stadtpfarrkirche St. Michael
+ORTSTEIL_BEZUG: Kirchplatz
+QUELLE: https://www.lohr.de/tourismus/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architektur: Pfeilerbasilika
+  bauzeit: 13.-15. Jahrhundert
+  vorgänger: vermutlich 7.-8. Jahrhundert
+  kirchturm_errichtung: 1496
+  kirchturm_höhe: 61 Meter
+  ältester_teil: romanische Sakristei aus 12. Jahrhundert
+  lage_im_mittelalter: Zentrum Kirchburg (Keimzelle der Stadt)
+  ummauerung: heute noch erkennbar
+  friedhof_nutzung: bis 1551 Bestattungsort (dann aufgegeben)
+  friedhofskreuz: beeindruckend, aus Sandstein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/024
+ENTITÄT: schule
+BEZEICHNUNG: Lateinschule
+ORTSTEIL_BEZUG: Kirchplatz
+QUELLE: https://www.lohr.de/tourismus/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1544
+  gründer: Reformator Johann Konrad Ulmer
+  standort_vorher: Friedhofskapelle/Marienkapelle (1416 erbaut)
+  lage: Obergeschosse des Hauses mit hoher Sandsteintreppe
+GUELTIG_AB: 1544
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 153-lohr/025
+ENTITÄT: kloster
+BEZEICHNUNG: Kapuzinerkloster (Bruder-Konrad-Haus)
+ORTSTEIL_BEZUG: Kirchplatz 8
+QUELLE: https://www.lohr.de/tourismus/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: hochmittelalterlicher Wohnturm Grafen von Rieneck
+  umbau_zeitraum: 1651-1664
+  umbau_zu: Kapuzinerkloster
+  angebaut: Kirche St. Joseph
+  wechselvolle_geschichte: ja
+GUELTIG_AB: 1651
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 153-lohr/026
+ENTITÄT: prozession
+BEZEICHNUNG: Lohrer Karfreitagsprozession
+ORTSTEIL_BEZUG: Kapuzinerkirche
+QUELLE: https://www.lohr.de/tourismus/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alter: eine der ältesten in Deutschland
+  immaterielles_kulturerbe_seit: 2026
+  immaterielles_kulturerbe_land: Bayern
+  figuren: lebensgroße Figurengruppen
+  figurenanzahl: mehrere
+  figurenthema: Leiden und Sterben Christi
+  ausstellung: außerhalb Prozession in Kapuzinerkirche
+  eintritt: frei
+GUELTIG_AB: unbekannt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/027
+ENTITÄT: gebäude
+BEZEICHNUNG: Altes Gymnasium
+ORTSTEIL_BEZUG: Lohr (Stadtgebiet)
+QUELLE: https://www.lohr.de/tourismus/sehenswuerdigkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1903
+  stil: Neorenaissance
+  charakteristik: repräsentatives Erscheinungsbild
+  lage: unmittelbar mit historischem Stadtkern verbunden (via Gärtnerstraße)
+  funktion: architektonische Brücke zwischen Altstadt und später entstandenen Stadtbereichen
+GUELTIG_AB: 1903
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 153-lohr/028
+ENTITÄT: museum
+BEZEICHNUNG: Lohrer Schulmuseum
+ORTSTEIL_BEZUG: Sendelbach
+QUELLE: https://www.lohr.de/tourismus/lohrer-schulmuseum | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  exponate_count: über 3.000
+  exponate_zeitspanne: 200 Jahre Schulgeschichte
+  klassenzimmer: zwei vollständig eingerichtete historische
+  lehrerwohnung: eine historische
+  schwerpunkt_kaiserreich: 1871-1918
+  schwerpunkt_drittes_reich: ja
+  schwerpunkt_focus: Schule als Spiegel gesellschaftlicher Entwicklungen
+  besonderheit_bewertung: Prof. Dr. Max Liedtke zählt es zu den national und international attraktivsten Schulmuseen
+  erlebnisführung: Historische Schulstunde zur Kaiserzeit möglich
+  eintritt_erwachsene: 1,50 €
+  eintritt_schüler: 1,00 €
+  eintritt_kinder: frei
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/029
+ENTITÄT: hörbank
+BEZEICHNUNG: Hörbank Schlossplatz
+ORTSTEIL_BEZUG: Schlossplatz
+QUELLE: https://www.lohr.de/tourismus/aktivitaet/schlossplatz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inhalt_titel: Do köste doch...
+  inhalt_thema: Von Moppern und Schnüdeln
+  sammler: Otto Schecher
+  bearbeitung: Krystyna Kuhn
+  erzähler: Georgia Viola-Richartz und Peter Amann
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/030
+ENTITÄT: ereignis
+BEZEICHNUNG: Schwedeneinfall
+QUELLE: https://www.lohr.de/tourismus/stadtgeschichte-chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1632
+  krieg_kontext: Dreißigjähriger Krieg
+  bestand_vorher: 12 Jahre unbeschadet
+  zusatz_pest: ja
+  bevölkerungsverlust_prozentsatz: mehr als Hälfte
+GUELTIG_AB: 1632
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/031
+ENTITÄT: kapelle
+BEZEICHNUNG: Valentinus-Kapelle
+QUELLE: https://www.lohr.de/tourismus/stadtgeschichte-chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1660
+  grund_errichtung: Pestgelübde der Lohrer Bürgerschaft
+  wallfahrt_seit: 1666
+  wallfahrt_datum: 16. August (jährlich)
+GUELTIG_AB: 1660
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 153-lohr/032
+ENTITÄT: manufaktur
+BEZEICHNUNG: Kurfürstliche Spiegelmanufaktur
+QUELLE: https://www.lohr.de/tourismus/stadtgeschichte-chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_von: 1698/1708
+  gründung_bis: 1806
+  ruf_geografisch: weit über Deutschland hinaus
+  ruf_qualität: ausgezeichnet
+GUELTIG_AB: 1698
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/033
+ENTITÄT: industrie
+BEZEICHNUNG: Blechwalzwerk
+QUELLE: https://www.lohr.de/tourismus/stadtgeschichte-chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1817
+  gründer: Friedrich Stein
+  standort_vorher: leerstehende Spiegelmanufaktur
+  erwerber: 1850 Brüder Rexroth
+  entwicklung: zu Industrieunternehmen von Weltruf
+  konzern_zugehörigkeit: Bosch-Konzern
+GUELTIG_AB: 1817
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/034
+ENTITÄT: handwerk
+BEZEICHNUNG: Lohrer Schiffbauer
+QUELLE: https://www.lohr.de/tourismus/stadtgeschichte-chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_aktivität: 1769/1771
+  einsatzorte: Wien und Prag
+  schiffe_flüsse: Donau- und Moldauschuffe
+  lokale_infrastruktur: vier Lohrer Schiffsbauplätze
+  zeugnis: blühendes handwerkliches Leben
+GUELTIG_AB: 1769
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 153-lohr/035
+ENTITÄT: reformator
+BEZEICHNUNG: Johann Konrad Ulmer
+QUELLE: https://www.lohr.de/tourismus/stadtgeschichte-chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Schaffhausen
+  aktion: Reformation Grafschaft Rieneck
+  aktion_jahr: 1544
+  schulgründung: Lateinschule 1544
+GUELTIG_AB: 1544
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 153-lohr/036
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Ouistreham-Riva Bella
+QUELLE: https://www.lohr.de/tourismus/stadtgeschichte-chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  partnerschaft_seit: 1992
+  ort_landesteil: Normandie
+GUELTIG_AB: 1992
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/037
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Milicz
+QUELLE: https://www.lohr.de/tourismus/stadtgeschichte-chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Polen
+  partnerschaft_seit: 2001
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/038
+ENTITÄT: städtepartnerschaft
+BEZEICHNUNG: Burgeis
+QUELLE: https://www.lohr.de/tourismus/stadtgeschichte-chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Italien
+  region: Südtirol
+  partnerschaft_typ: Patenschaft
+  patenschaft_seit: 1972
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/039
+ENTITÄT: religionsgemeinschaft
+BEZEICHNUNG: Römisch-katholische Kirche
+QUELLE: https://www.lohr.de/leben/religion-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  dominanz: Großteil der Lohrer Bevölkerung
+  pfarreiengemeinschaft: zwölf Apostel am Tor zum Spessart
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 153-lohr/040
+ENTITÄT: kindergarten
+BEZEICHNUNG: St. Pius
+ORTSTEIL_BEZUG: Lindigsiedlung
+QUELLE: https://www.lohr.de/leben/religion-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  träger: Katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 153-lohr/041
+ENTITÄT: kindergarten
+BEZEICHNUNG: St. Franziskus
+ORTSTEIL_BEZUG: Wombach
+QUELLE: https://www.lohr.de/leben/religion-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  träger: Katholisch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 153-lohr/042
+ENTITÄT: seniorenzentrum
+BEZEICHNUNG: St. Martin
+ORTSTEIL_BEZUG: Herz der Stadt
+QUELLE: https://www.lohr.de/leben/religion-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  träger: Caritas
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 153-lohr/043
+ENTITÄT: kirche
+BEZEICHNUNG: Auferstehungskirche
+QUELLE: https://www.lohr.de/leben/religion-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Evangelisch-lutherisch
+  location: Lohrer Kernstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 153-lohr/044
+ENTITÄT: kirche
+BEZEICHNUNG: St. Elisabeth Kirche
+ORTSTEIL_BEZUG: Bezirkskrankenhaus
+QUELLE: https://www.lohr.de/leben/religion-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zweck: Andachtsort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 153-lohr/045
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapelle Klinikum Main-Spessart
+ORTSTEIL_BEZUG: Klinikum Main-Spessart
+QUELLE: https://www.lohr.de/leben/religion-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zweck: Andachtsort
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 153-lohr/046
+ENTITÄT: moschee
+BEZEICHNUNG: Ulu-Moschee (Ulu Camii Moschee)
+ORTSTEIL_BEZUG: Partensteiner Straße 16
+QUELLE: https://www.lohr.de/leben/religion-kirche | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: Islamisch
+  zweck: Gebetsort
+  führungen: regelmäßig für Nicht-Muslime
+  führungen_inhalt: Funktionen Minbar, Mihrab, Minarett, Brunnen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+

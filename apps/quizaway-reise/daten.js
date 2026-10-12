@@ -36545,6 +36545,2122 @@ window.QA_DATEN = {
 "ags": "09178137",
 "ortsteil": false,
 "km_vom_vorigen": 3.3
+},
+{
+"slug": "146-wuerzburg",
+"name": "Würzburg",
+"lat": 49.79444,
+"lon": 9.92944,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Würzburg",
+"steckbrief": "Würzburg ist eine Stadt am Main in Bayern mit rund 134.000 Einwohnern, etwa 220 km Luftlinie von München.",
+"frage": "Welchen Anlass nennt die Stadt für die Gründung ihrer Umweltstation im Jahr 1990?",
+"optionen": [
+"Sie war ein Ausstellungsbeitrag zur Landesgartenschau.",
+"Sie war eine Forschungsstelle der Universität Würzburg.",
+"Sie ging aus einem alten Schulgarten hervor.",
+"Sie ersetzte ein geschlossenes städtisches Forstamt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Umweltstation verbindet man leicht mit Hochschule oder Forstamt, wo Umweltwissen zu Hause ist. Laut Stadt entstand sie aber als Ausstellungsbeitrag zur Landesgartenschau Würzburg und als Pilotprojekt des Bayerischen Umweltministeriums. Die Stadt nennt sie die erste Umweltstation Bayerns. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.wuerzburg.de/themen/umwelt-klima/abfall-und-stadtreinigung/wir-ueber-uns",
+"faktencheck": "unsicher",
+"id": "146-wuerzburg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Würzburg",
+"steckbrief": "Würzburg ist eine Universitätsstadt am Main in Bayern, etwa 220 km Luftlinie von München.",
+"frage": "Wie viele Einwohner hat Würzburg?",
+"optionen": [
+"unter 110.000",
+"110.000 bis unter 140.000",
+"140.000 bis unter 180.000",
+"180.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Universität und Bedeutung für die Region lassen Würzburg größer wirken, als es ist. Ende 2025 zählte die Stadt 133.753 Einwohner. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "146-wuerzburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Würzburg",
+"steckbrief": "Würzburg ist eine Stadt am Main in Bayern mit rund 134.000 Einwohnern, etwa 220 km Luftlinie von München.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Stadtreiniger bekamen einen Sonderpreis für nachhaltige Beschaffung.",
+"Der Stadtteil Rottenbauer gehörte schon immer zu Würzburg.",
+"Die Stadtreiniger wurden als Entsorgungsfachbetrieb zertifiziert."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Klingt glaubhaft, denn Rottenbauer ist heute ein ganz normaler Würzburger Stadtteil. Doch der dörflich geprägte Ort im Süden des Stadtgebiets wurde erst später eingemeindet. Wahr sind die Zertifizierung der Stadtreiniger als Entsorgungsfachbetrieb und ihr Sonderpreis für nachhaltige Beschaffung, zu der fair gehandelte Arbeitskleidung gehört. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.wuerzburg.de/themen/bauen-planen/stadtplanung/stadtentwicklung/stadtteilkonzepte/isek-rottenbauer1; www.wuerzburg.de/themen/umwelt-klima/abfall-und-stadtreinigung/wir-ueber-uns",
+"faktencheck": "korrigiert",
+"id": "146-wuerzburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Würzburg",
+"steckbrief": "Würzburg ist eine Universitätsstadt am Main mit rund 134.000 Einwohnern, etwa 220 km Luftlinie von München.",
+"frage": "Wie hoch war in Würzburg die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 75 %",
+"75 bis unter 80 %",
+"80 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In Universitätsstädten mit vielen jungen Menschen erwartet man oft eine eher schwache Beteiligung. In Würzburg gaben bei der Bundestagswahl 2025 aber 83,7 Prozent der Wahlberechtigten ihre Stimme ab. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "146-wuerzburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Würzburg",
+"steckbrief": "Würzburg ist eine Stadt am Main in Bayern mit rund 134.000 Einwohnern, etwa 220 km Luftlinie von München.",
+"frage": "Die Stadt Würzburg hat ihre Umweltstation neu gebaut. Mit welcher Wärmetechnik wurde der Neubau ausgestattet?",
+"optionen": [
+"Er erhielt eine Eisspeicherheizung mit Photovoltaikanlage.",
+"Er erhielt eine Heizung mit Holzpellets.",
+"Er erhielt ein Blockheizkraftwerk für Biogas.",
+"Er erhielt eine Brennwertheizung für Erdgas."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Öko-Neubau tippen viele auf Holzpellets, weil sie als klimafreundlich gelten. Die Umweltstation erhielt aber eine Eisspeicherheizung mit Photovoltaikanlage. Eine Wärmepumpe nutzt dabei die Wärme, die frei wird, wenn Wasser im Speicher gefriert. Der Neubau gilt als erster in Bayern, bei dem Recyclingbeton im Hochbau eingesetzt wurde. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.wuerzburg.de/themen/umwelt-klima/umweltstation/wir-ueber-uns",
+"faktencheck": "korrigiert",
+"id": "146-wuerzburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Würzburg",
+"steckbrief": "Würzburg ist eine Universitätsstadt am Main mit rund 134.000 Einwohnern, etwa 220 km Luftlinie von München.",
+"frage": "Wie viele Einwohner leben in Würzburg rechnerisch auf einem Quadratkilometer?",
+"optionen": [
+"unter 1.000",
+"1.000 bis unter 2.000",
+"2.000 bis unter 3.000",
+"3.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Großstadt denkt man an dichte Bebauung und rechnet schnell mit mehr. Doch Stadtgebiete umfassen meist auch Felder, Wälder und frühere Dörfer, die die Rechnung verdünnen. In Würzburg kommen 1.526 Einwohner auf einen Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "146-wuerzburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Würzburg",
+"steckbrief": "Würzburg ist eine Stadt am Main in Bayern mit rund 134.000 Einwohnern, etwa 220 km Luftlinie von München.",
+"frage": "Die Stadtreiniger betreuen rund 72.000 Bio-, Papier- und Restmülltonnen. Wie viele Behälterleerungen zählen sie im Jahr?",
+"optionen": [
+"unter 500.000",
+"500.000 bis unter 1,5 Mio.",
+"1,5 Mio. bis unter 3 Mio.",
+"3 Mio. und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer mit einer Leerung pro Tonne und Monat rechnet, landet in Spanne 2. Laut Stadt zählen die Stadtreiniger aber 2,3 Millionen Behälterentleerungen im Jahr. Im Schnitt wird jede Tonne also deutlich öfter als einmal monatlich geleert. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.wuerzburg.de/themen/umwelt-klima/abfall-und-stadtreinigung/wir-ueber-uns",
+"faktencheck": "bestätigt",
+"id": "146-wuerzburg/v0.8/7",
+"tisch": false
+}
+],
+"anschluss_von": "133-kranzberg",
+"anschluss": [
+"Bundestagswahl 2025: CSU in Kranzberg 42, in Würzburg 28,5 Prozent.",
+"Würzburg hat über dreißigmal so viele Einwohner wie Kranzberg."
+],
+"anschluesse": {
+"147-veitshoechheim": [
+"Kreisgrenze: Veitshöchheim gehört zum Landkreis Würzburg, Würzburg ist kreisfrei.",
+"Würzburg hat vierzehnmal so viele Einwohner wie Veitshöchheim."
+],
+"148-thuengersheim": [
+"Kreisgrenze: Thüngersheim gehört zum Landkreis Würzburg, Würzburg ist kreisfrei.",
+"Würzburg hat rund 50-mal so viele Einwohner wie Thüngersheim."
+],
+"149-zellingen": [
+"Kreisgrenze: Zellingen gehört zum Landkreis Main-Spessart, Würzburg ist kreisfrei.",
+"Würzburg hat rund zwanzigmal so viele Einwohner wie Zellingen."
+],
+"150-himmelstadt": [
+"Kreisgrenze: Himmelstadt gehört zum Landkreis Main-Spessart, Würzburg ist kreisfrei.",
+"Würzburg hat rund 85-mal so viele Einwohner wie Himmelstadt."
+],
+"133-kranzberg": [
+"Bundestagswahl 2025: CSU in Kranzberg 42, in Würzburg 28,5 Prozent.",
+"Würzburg hat über dreißigmal so viele Einwohner wie Kranzberg."
+]
+},
+"ags": "09663000",
+"ortsteil": false,
+"km_vom_vorigen": 197.8
+},
+{
+"slug": "147-veitshoechheim",
+"name": "Veitshöchheim",
+"lat": 49.83278,
+"lon": 9.88167,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Veitshöchheim",
+"steckbrief": "Die Gemeinde hat rund 9.700 Einwohner und liegt 7 km nordwestlich von Würzburg.",
+"frage": "Im Wappen von Veitshöchheim steht der heilige Vitus in einem gelben Kessel mit drei Füßen. Wofür steht der Kessel?",
+"optionen": [
+"Der Kessel erinnert an den Weinbau im Ort.",
+"Der Kessel erinnert an eine alte Brauerei.",
+"Der Kessel erinnert an ein früheres Badhaus.",
+"Der Kessel erinnert an das Martyrium des Heiligen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. In einem Weinort liegt ein Gefäß für Most oder Wein nahe. Doch der Kessel gehört zur Legende des Ortspatrons: Unter Kaiser Diokletian soll Vitus wegen seines Glaubens in siedendes Öl geworfen worden sein und blieb der Überlieferung nach unversehrt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/wappen",
+"faktencheck": "bestätigt",
+"id": "147-veitshoechheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Veitshöchheim",
+"steckbrief": "Rund 9.700 Einwohner, 7 km nordwestlich von Würzburg.",
+"frage": "Wie groß ist die Fläche der Gemeinde Veitshöchheim?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 25 km²",
+"25 bis unter 40 km²",
+"40 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei dieser Einwohnerzahl liegt mehr Fläche nahe, denn viele Landgemeinden sind weitläufig. Veitshöchheim kommt aber auf nur 10,76 Quadratkilometer, die Menschen wohnen entsprechend dicht. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "147-veitshoechheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Veitshöchheim",
+"steckbrief": "Rund 9.700 Menschen leben hier, 7 km nordwestlich von Würzburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Balthasar Neumann erweiterte das Schloss Veitshöchheim.",
+"Der Bildhauer Ferdinand Tietz arbeitete für den Hofgarten.",
+"Fürstbischof von Seinsheim ließ den Hofgarten zum englischen Landschaftsgarten umgestalten."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Schlossgarten im Grünen lässt an einen englischen Landschaftsgarten denken. Doch Fürstbischof von Seinsheim ließ den Hofgarten der fürstbischöflichen Sommerresidenz zum Rokokogarten umgestalten. Neumann erweiterte das Schloss, und Tietz schuf Figuren für den Garten. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick",
+"faktencheck": "korrigiert",
+"id": "147-veitshoechheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Veitshöchheim",
+"steckbrief": "Rund 9.700 Einwohner, 7 km nordwestlich von Würzburg.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die CSU als stärkste Partei bei der Bundestagswahl 2025 in Veitshöchheim?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 32 %",
+"32 bis unter 40 %",
+"40 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Gleich neben einer Großstadt vermutet man ein schwächeres CSU-Ergebnis. Doch in Veitshöchheim holte die CSU 37 Prozent der Zweitstimmen, klar vor den Grünen. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "147-veitshoechheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Veitshöchheim",
+"steckbrief": "Die Gemeinde zählt rund 9.700 Einwohner und liegt 7 km nordwestlich von Würzburg.",
+"frage": "Die Synagoge von Veitshöchheim wurde in der NS-Zeit umgenutzt. Wozu?",
+"optionen": [
+"Sie wurde als Kino genutzt.",
+"Sie wurde als Turnhalle genutzt.",
+"Sie wurde als Schulhaus genutzt.",
+"Sie wurde als Feuerwehrhaus genutzt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Kino oder eine Turnhalle liegen nahe, denn eine Synagoge bietet einen großen Raum. Tatsächlich zog die Feuerwehr ein. Heute beherbergt der Bau das Jüdische Kulturmuseum. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick",
+"faktencheck": "bestätigt",
+"id": "147-veitshoechheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Veitshöchheim",
+"steckbrief": "Rund 9.700 Einwohner, 7 km nordwestlich von Würzburg.",
+"frage": "Veitshöchheim liegt vor den Toren Würzburgs. Zu welchem Landkreis gehört die Gemeinde?",
+"optionen": [
+"Landkreis Würzburg",
+"Landkreis Main-Spessart",
+"Landkreis Kitzingen",
+"Landkreis Schweinfurt"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer Würzburg nur als eigenständige Stadt kennt, sucht einen Nachbarkreis wie Main-Spessart. Doch es gibt auch einen Landkreis Würzburg rund um die Stadt, und zu ihm gehört Veitshöchheim. Richtig war 1.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "147-veitshoechheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Veitshöchheim",
+"steckbrief": "Rund 9.700 Einwohner, 7 km nordwestlich von Würzburg.",
+"frage": "Der Bayerische Rundfunk überträgt „Fastnacht in Franken“ seit über 30 Jahren live aus Veitshöchheim. Wo genau wird gefeiert?",
+"optionen": [
+"Gefeiert wird im Schloss im Hofgarten.",
+"Gefeiert wird in den Mainfrankensälen.",
+"Gefeiert wird in der Dreifachsporthalle.",
+"Gefeiert wird in einem Festzelt am Mainufer."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Schloss liegt nahe, denn ein Schloss klingt nach festlicher Kulisse. Doch der Bayerische Rundfunk sendet die Fastnacht aus den Mainfrankensälen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/sehenswertes",
+"faktencheck": "korrigiert",
+"id": "147-veitshoechheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Veitshöchheim",
+"steckbrief": "Rund 9.700 Einwohner, 7 km nordwestlich von Würzburg.",
+"frage": "Seit 2020 liegt im Ortsteil Gadheim der geografische Mittelpunkt der Europäischen Union. Was hat ihn dorthin verschoben?",
+"optionen": [
+"Veitshöchheim bewarb sich erfolgreich um den Titel.",
+"Nordmazedonien trat der Europäischen Union bei.",
+"Großbritannien trat aus der Europäischen Union aus.",
+"Die Schweiz trat der Europäischen Union bei."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Beitritt liegt nahe, denn neue Mitglieder ziehen den Mittelpunkt in ihre Richtung. Doch die Union schrumpfte: Mit dem Brexit wanderte der Punkt von Westerngrund bei Aschaffenburg nach Gadheim. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick",
+"faktencheck": "bestätigt",
+"id": "147-veitshoechheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Veitshöchheim",
+"steckbrief": "Rund 9.700 Einwohner, 7 km nordwestlich von Würzburg.",
+"frage": "Von 1806 bis 1814 diente das Schloss Veitshöchheim einem Herrscher als Sommerresidenz. Wem?",
+"optionen": [
+"Der Großherzog von Toscana verbrachte hier den Sommer.",
+"Der König von Sachsen verbrachte hier den Sommer.",
+"Der Großherzog von Baden verbrachte hier den Sommer.",
+"Der König von Neapel verbrachte hier den Sommer."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein deutscher Fürst liegt näher. Doch Ferdinand, Großherzog von Toscana, regierte 1806 bis 1814 das Großherzogtum Würzburg und nutzte das Schloss als Sommerresidenz. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick",
+"faktencheck": "korrigiert",
+"id": "147-veitshoechheim/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Veitshöchheim",
+"steckbrief": "Rund 9.700 Einwohner, 7 km nordwestlich von Würzburg.",
+"frage": "Die Mainwiesen bei Veitshöchheim waren 1246 Schauplatz eines Ereignisses der Reichsgeschichte. Welches?",
+"optionen": [
+"Kaiser und Papst schlossen dort Frieden.",
+"Ein Kaiser fiel dort in einer Schlacht.",
+"Ein König heiratete dort eine Kaisertochter.",
+"Dort fand eine Königswahl statt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Schlacht liegt nahe, denn weite Flusswiesen boten Platz für Heere. Doch auf den Mainwiesen wurde gewählt: Kandidat war Landgraf Heinrich Raspe. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick",
+"faktencheck": "bestätigt",
+"id": "147-veitshoechheim/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "146-wuerzburg",
+"anschluss": [
+"Einwohner: Würzburg hat fast vierzehnmal so viele wie Veitshöchheim.",
+"Bundestagswahl 2025: Veitshöchheim hatte höhere Wahlbeteiligung als Würzburg."
+],
+"anschluesse": {
+"146-wuerzburg": [
+"Einwohner: Würzburg hat fast vierzehnmal so viele wie Veitshöchheim.",
+"Bundestagswahl 2025: Veitshöchheim hatte höhere Wahlbeteiligung als Würzburg."
+],
+"148-thuengersheim": [
+"Veitshöchheim hat gut dreieinhalbmal so viele Einwohner wie Thüngersheim."
+],
+"149-zellingen": [
+"Kreisgrenze: Zellingen gehört zum Landkreis Main-Spessart, Veitshöchheim zum Landkreis Würzburg.",
+"Veitshöchheim hat anderthalbmal so viele Einwohner wie Zellingen."
+],
+"150-himmelstadt": [
+"Kreisgrenze: Himmelstadt gehört zum Landkreis Main-Spessart, Veitshöchheim zum Landkreis Würzburg.",
+"Veitshöchheim hat sechsmal so viele Einwohner wie Himmelstadt."
+],
+"151-karlstadt": [
+"Kreisgrenze: Karlstadt gehört zum Landkreis Main-Spessart, Veitshöchheim zum Landkreis Würzburg.",
+"Karlstadt hat anderthalbmal so viele Einwohner wie Veitshöchheim."
+]
+},
+"ags": "09679202",
+"ortsteil": false,
+"km_vom_vorigen": 5.5
+},
+{
+"slug": "148-thuengersheim",
+"name": "Thüngersheim",
+"lat": 49.87864,
+"lon": 9.84164,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Thüngersheim",
+"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 12 km nordwestlich von Würzburg.",
+"frage": "Bei Thüngersheim entstand Ende des 12. Jahrhunderts die Ravensburg. Wer ließ sie bauen?",
+"optionen": [
+"Kaufleute aus dem oberschwäbischen Ravensburg bauten sie.",
+"Der Kaiser baute sie als Stützpunkt am Main.",
+"Dienstleute des Würzburger Bischofs ließen sie bauen.",
+"Thüngersheims Bürger bauten sie als Fluchtburg."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name lockt nach Oberschwaben, doch gebaut haben die Burg Ministerialen, also Dienstleute des Bischofs von Würzburg. Sie entstand auf einem Sporn, einem vorspringenden Bergrücken bei Thüngersheim. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.thuengersheim.de/de/freizeit-tourismus/ravensburg",
+"faktencheck": "bestätigt",
+"id": "148-thuengersheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Thüngersheim",
+"steckbrief": "Winzerdorf mit rund 2.600 Einwohnern, 12 km nordwestlich von Würzburg.",
+"frage": "Wie groß ist die Gemeindefläche von Thüngersheim?",
+"optionen": [
+"unter 4 km²",
+"4 bis unter 7 km²",
+"7 bis unter 10 km²",
+"10 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Für ein Dorf dieser Größe schätzt man leicht kleiner. Doch die Gemeindefläche umfasst weit mehr als den Ortskern, auch die Weinberge des Winzerdorfs: 11,06 Quadratkilometer. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "148-thuengersheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Thüngersheim",
+"steckbrief": "Gemeinde mit rund 2.600 Einwohnern, 12 km nordwestlich von Würzburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Pfarrkirche St. Michael ist eine evangelische Kirche.",
+"Die Ortsmauer bestand aus Bruchsteinen von rotem Sandstein.",
+"Der Muttergottesbrunnen diente einst der öffentlichen Wasserversorgung."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Mauer aus rotem Sandstein klingt nach Ausschmückung, stimmt aber. Der Muttergottesbrunnen war einer der öffentlichen Brunnen und versorgte einst den Ort mit Wasser. Gelogen war die Kirche: Nahe dem alten Bischofssitz Würzburg überrascht es nicht, dass St. Michael katholisch ist. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.thuengersheim.de/de/leben-wohnen/kirchen-friedhof; www.thuengersheim.de/de/rathaus-service/altortsanierung/historische-aspekte; www.thuengersheim.de/de/freizeit-tourismus/sehenswuerdigkeiten/die-brunnen",
+"faktencheck": "korrigiert",
+"id": "148-thuengersheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Thüngersheim",
+"steckbrief": "Winzerdorf mit rund 2.600 Einwohnern, 12 km nordwestlich von Würzburg.",
+"frage": "Bei der Bundestagswahl 2025 lag in Thüngersheim die CSU vorn. Welche Partei holte die zweitmeisten Zweitstimmen?",
+"optionen": [
+"SPD",
+"Grüne",
+"AfD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre die AfD, die 2025 bundesweit Zweite wurde. In Thüngersheim lagen aber die Grünen hinter der CSU, knapp vor SPD und AfD. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "148-thuengersheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Thüngersheim",
+"steckbrief": "Winzerdorf mit rund 2.600 Einwohnern, 12 km nordwestlich von Würzburg.",
+"frage": "Georg Anton Urlaub, in Thüngersheim geboren, arbeitete an der Würzburger Residenz. In welcher Rolle?",
+"optionen": [
+"Er kochte dort als Hofkoch des Fürstbischofs.",
+"Er lieferte als Winzer den Wein des Hofes.",
+"Er arbeitete dort als Maler.",
+"Er pflegte als Gärtner den Garten der Residenz."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Winzerdorf liegt der Weinlieferant nahe. Doch Georg Anton Urlaub war Maler und arbeitete in der Residenz mit Tiepolo. Unter Kollegen war er offenbar hoch anerkannt, finanziell stand er wohl nicht glänzend da. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.thuengersheim.de/de/gemeinde-weinbau/geschichtliches/georg-anton-urlaub; www.thuengersheim.de/de/gemeinde-weinbau/geschichtliches/geschichte",
+"faktencheck": "korrigiert",
+"id": "148-thuengersheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Thüngersheim",
+"steckbrief": "Winzerdorf am Main mit rund 2.600 Einwohnern, 12 km nordwestlich von Würzburg.",
+"frage": "Zu welchem Landkreis gehört Thüngersheim?",
+"optionen": [
+"Main-Spessart",
+"Kitzingen",
+"Schweinfurt",
+"Würzburg"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Main-Spessart liegt nahe, denn Thüngersheim grenzt im Westen an den Main. Doch der Ort gehört zum Landkreis Würzburg und liegt an dessen nördlichem Ende. Richtig war 4.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "148-thuengersheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Thüngersheim",
+"steckbrief": "Winzerdorf mit rund 2.600 Einwohnern, 12 km nordwestlich von Würzburg.",
+"frage": "Für das Rathaus wurde 1981 eine Glocke gespendet. Wer läutet sie?",
+"optionen": [
+"Jedes Brautpaar, das in Thüngersheim heiratet.",
+"Nur der Bürgermeister, und zwar vor Ratssitzungen.",
+"Nur die Winzer, und zwar zur Weinlese.",
+"Nur die Feuerwehr, und zwar bei Hochwasser."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Beim Rathaus denkt man zuerst an Ratssitzungen. Doch die Glocke ist eine Hochzeitsglocke, und alle Brautpaare läuten sie. Gebaut wurde das Rathaus übrigens einst als Schulhaus. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.thuengersheim.de/de/freizeit-tourismus/sehenswuerdigkeiten/das-rathaus NEGATIVNACHWEISE (neu): 2, 3, 4: Die Quelle sagt, dass alle Brautpaare die Glocke läuten. Damit ist jedes „nur“ für eine andere Gruppe nachweislich falsch (018).",
+"faktencheck": "korrigiert",
+"id": "148-thuengersheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Thüngersheim",
+"steckbrief": "Winzerdorf mit rund 2.600 Einwohnern, 12 km nordwestlich von Würzburg.",
+"frage": "Thüngersheims Wappen verlieh 1581 der Würzburger Bischof Julius Echter. Was zeigt das Wappen heute?",
+"optionen": [
+"Es zeigt den heiligen Urban mit Weintraube.",
+"Es zeigt Erzengel Michael auf einem Drachen.",
+"Es zeigt den heiligen Kilian mit Bischofsstab.",
+"Es zeigt den heiligen Georg zu Pferd."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im Winzerdorf läge der Weinheilige Urban nahe, in Franken auch Kilian. Doch das Wappen zeigt Erzengel Michael in silberner Rüstung auf einem grünen Drachen, das Schwert über dem Haupt, in der Linken eine goldene Waage. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.thuengersheim.de/de/gemeinde-weinbau/geschichtliches/wappen",
+"faktencheck": "bestätigt",
+"id": "148-thuengersheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Thüngersheim",
+"steckbrief": "Gemeinde im Maintal mit rund 2.600 Einwohnern, 12 km nordwestlich von Würzburg.",
+"frage": "Im Altort von Thüngersheim herrscht bei den Hauptgebäuden das sogenannte Häckerhaus vor. Was zeichnet es aus?",
+"optionen": [
+"Es gehörte Holzhackern, die im Wald arbeiteten.",
+"Es diente Metzgern samt Schlachtraum.",
+"Es war ein Wachhaus entlang der Ortsmauer.",
+"Es vereint Keller, Wirtschaftsräume und Wohnung unter einem Dach."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. „Häcker“ klingt nach Holzhacker. In Franken nennt man so aber die Winzer. Das Häckerhaus vereint Keller-, Wirtschafts- und Wohnflächen unter einem Dach. Weil im ummauerten Altort Baugrund rar war, baute man eher in die Höhe. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.thuengersheim.de/de/rathaus-service/altortsanierung/historische-aspekte",
+"faktencheck": "korrigiert",
+"id": "148-thuengersheim/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Thüngersheim",
+"steckbrief": "Winzerdorf mit rund 2.600 Einwohnern, 12 km nordwestlich von Würzburg.",
+"frage": "In Thüngersheim gibt es die sogenannte „Thüngersheimer Leiter“. Was verbirgt sich dahinter?",
+"optionen": [
+"Es sind ansteigende Gassen zwischen zwei Hauptstraßen.",
+"Es ist ein steiler Treppenweg in die Weinberge.",
+"Es ist eine alte Feuerwehrleiter aus Holz.",
+"Es ist ein Ehrentitel für den obersten Winzer."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im Winzerdorf denkt man bei „Leiter“ an steile Wege in die Weinberge. Gemeint sind aber die ansteigenden Quergassen zwischen Oberer und Unterer Hauptstraße, die wie Sprossen zwischen zwei Holmen liegen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.thuengersheim.de/de/rathaus-service/altortsanierung/historische-aspekte",
+"faktencheck": "bestätigt",
+"id": "148-thuengersheim/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "147-veitshoechheim",
+"anschluss": [
+"Für Thüngersheims Evangelische ist die Kirchengemeinde Veitshöchheim zuständig.",
+"Veitshöchheim hat fast viermal so viele Einwohner wie Thüngersheim."
+],
+"anschluesse": {
+"146-wuerzburg": [
+"Kreisgrenze: Würzburg ist kreisfrei, Thüngersheim gehört zum Landkreis Würzburg.",
+"Würzburg hat rund 50-mal so viele Einwohner wie Thüngersheim."
+],
+"147-veitshoechheim": [
+"Für Thüngersheims Evangelische ist die Kirchengemeinde Veitshöchheim zuständig.",
+"Veitshöchheim hat fast viermal so viele Einwohner wie Thüngersheim."
+],
+"149-zellingen": [
+"Kreisgrenze: Zellingen gehört zum Landkreis Main-Spessart, Thüngersheim zum Landkreis Würzburg.",
+"Zellingen hat fast zweieinhalbmal so viele Einwohner wie Thüngersheim."
+],
+"150-himmelstadt": [
+"Kreisgrenze: Himmelstadt gehört zum Landkreis Main-Spessart, Thüngersheim zum Landkreis Würzburg.",
+"Thüngersheim hat gut anderthalbmal so viele Einwohner wie Himmelstadt."
+],
+"151-karlstadt": [
+"Kreisgrenze: Karlstadt gehört zum Landkreis Main-Spessart, Thüngersheim zum Landkreis Würzburg.",
+"Karlstadt hat fast sechsmal so viele Einwohner wie Thüngersheim."
+]
+},
+"ags": "09679194",
+"ortsteil": false,
+"km_vom_vorigen": 5.9
+},
+{
+"slug": "149-zellingen",
+"name": "Zellingen",
+"lat": 49.9,
+"lon": 9.81667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Zellingen",
+"steckbrief": "Gemeinde mit rund 6.300 Einwohnern, 15 km nordwestlich von Würzburg.",
+"frage": "Die Kirche St. Georg in Zellingen entstand 1786–1787 durch einen Umbau. Was war das Gebäude vorher?",
+"optionen": [
+"Das Gebäude war vorher eine Getreidemühle.",
+"Das Gebäude war vorher ein Schlossflügel.",
+"Das Gebäude war vorher ein Spital.",
+"Das Gebäude war vorher ein Gasthaus."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Mühle oder ein Gasthaus liegt im Dorf näher als ein Schloss. Doch St. Georg entstand aus einem Flügel des Weißen Schlosses, eines fürstbischöflichen Jagdschlosses von 1717. Johann Philipp Geigel baute ihn 1786–1787 um, mit klassizistischer Dekoration. Den Stuck schuf der Würzburger Hofstuckateur Materno Bossi, sparsam an Altären und Kanzel. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.markt-zellingen.de (Sehenswertes; Chronik von Zellingen)",
+"faktencheck": "korrigiert",
+"id": "149-zellingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Zellingen",
+"steckbrief": "Gemeinde am Main mit rund 6.300 Einwohnern, 15 km nordwestlich von Würzburg.",
+"frage": "Auf welcher Höhe über dem Meeresspiegel liegt Zellingen?",
+"optionen": [
+"unter 120 m",
+"120 bis unter 150 m",
+"150 bis unter 200 m",
+"200 m und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Rund um Würzburg denkt man an steile Weinberge und Höhenzüge. Zellingen liegt aber am Main: Die Quellen nennen 169 bis 171 Meter über dem Meer. Richtig war 3.",
+"quelle": "Wikidata P2044; dewiki Infobox; GeoNames 2804808",
+"faktencheck": "bestätigt",
+"id": "149-zellingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Zellingen",
+"steckbrief": "Gemeinde mit rund 6.300 Einwohnern, 15 km nordwestlich von Würzburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Ortsteil Retzbach war früher selbst ein Markt.",
+"In Duttenbrunn leben die meisten Einwohner des Marktes.",
+"Die Kirche in Duttenbrunn wurde beim Umbau gedreht."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine gedrehte Kirche klingt nach Erfindung, doch St. Margaretha in Duttenbrunn wurde beim Umbau 1936 tatsächlich in ihrer Achse gedreht. Gelogen ist die Größe: Die meisten Einwohner leben im Hauptort Zellingen, nach dem der Markt heißt. Retzbach war bis zur Eingemeindung 1975 selbst eine Marktgemeinde. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.markt-zellingen.de (Sehenswertes; Impressionen und Ortsteile)",
+"faktencheck": "korrigiert",
+"id": "149-zellingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Zellingen",
+"steckbrief": "Gemeinde mit rund 6.300 Einwohnern, 15 km nordwestlich von Würzburg.",
+"frage": "Wie hoch war die Wahlbeteiligung in Zellingen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 86 %",
+"86 bis unter 88 %",
+"88 bis unter 90 %",
+"90 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Auf dem Land in Bayern gehen viele wählen, darum liegt eine noch höhere Beteiligung nahe. In Zellingen lag sie bei der Bundestagswahl 2025 bei 85,3 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "149-zellingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Im Ortsteil Retzbach steht die barocke Pfarrkirche St. Laurentius. Nach wessen Plänen entstand sie?",
+"steckbrief": "1. Nach Plänen von Johann Dientzenhofer.",
+"frage": "",
+"optionen": [
+"Nach Plänen von Balthasar Neumann.",
+"Nach Plänen von Dominikus Zimmermann.",
+"Nach Plänen von Johann Michael Fischer."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Dientzenhofer bauten viel in Franken, darum liegt der Name nahe. Die barocke Pfarrkirche St. Laurentius in Retzbach entstand aber 1736–1738 nach Plänen des Barockbaumeisters Balthasar Neumann. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.markt-zellingen.de/seite/ze/cms12102026200719e3550f45/038:333/-/Sehenswertes.html",
+"faktencheck": "korrigiert",
+"id": "149-zellingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Zellingen",
+"steckbrief": "Gemeinde mit rund 6.300 Einwohnern, 15 km nordwestlich von Würzburg.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Zellingen?",
+"optionen": [
+"WÜ",
+"KT",
+"MSP",
+"SW"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Würzburg ist gleich nebenan, deshalb tippen viele auf WÜ. Zellingen gehört aber zum Landkreis Main-Spessart, dessen Hauptkennzeichen MSP lautet. Richtig war 3.",
+"quelle": "Wikidata P395; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "149-zellingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Zellingen",
+"steckbrief": "Gemeinde mit rund 6.300 Einwohnern, 15 km nordwestlich von Würzburg.",
+"frage": "Das Wappen des Marktes Zellingen zeigt unten drei silberne Spitzen und einen Schrägbalken mit Ringen. Woher stammen diese Zeichen?",
+"optionen": [
+"Sie stammen aus dem Gerichtssiegel von Zellingen.",
+"Sie stammen aus einem Siegel von Duttenbrunn.",
+"Sie stammen aus dem Wappen von Geyer.",
+"Sie stammen aus dem Gerichtssiegel von Retzbach."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei mehreren Ortsteilen läge ein Zeichen für jeden nahe. Doch das Z stammt aus dem alten Zellinger Gerichtssiegel, Spitzen und Schrägbalken aus dem Gerichtssiegel von Retzbach. Sie zeigen das Symbol des Herzogtums Franken und das Wappen des Fürstbischofs Julius Echter von Mespelbrunn. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.markt-zellingen.de/seite/ze/cms12102026200719e3550f45/036:326/-/Wappen_und_Chronik.html",
+"faktencheck": "bestätigt",
+"id": "149-zellingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Zellingen erhielt 1312 von König Heinrich VII. das Schweinfurter Stadtrecht und die Erlaubnis, sich mit Mauern und Gräben zu umgeben. Was wurde aus der Stadtmauer?",
+"steckbrief": "1. Sie wurde 1313 fertiggestellt.",
+"frage": "",
+"optionen": [
+"Sie wurde nie gebaut.",
+"Sie wurde im Dreißigjährigen Krieg geschleift.",
+"Sie umgibt bis heute den Altort."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Torturm am Eingang zum Altort lässt an eine Stadtbefestigung denken. Doch laut Ortschronik unterblieb der Bau von Mauern und Gräben, obwohl der König ihn 1312 erlaubt hatte. Zellingen ist bis heute ein Markt, keine Stadt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.markt-zellingen.de (Chronik von Zellingen)",
+"faktencheck": "korrigiert",
+"id": "149-zellingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Am 21. September 1619 kam Kaiser Ferdinand II. nach Wahl und Krönung auf seiner Reise von Frankfurt nach Wien durch Zellingen. Wo empfing und bewirtete ihn Dompropst Konrad Friedrich von Thüngen?",
+"steckbrief": "1. Im Alten Rathaus von Zellingen.",
+"frage": "",
+"optionen": [
+"Im Pfarrhaus von Zellingen.",
+"Im Zellinger Schloss.",
+"Auf einem Mainschiff."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Alte Rathaus von 1609 stand damals schon und wirkt wie ein würdiger Ort für hohen Besuch. Empfangen und bewirtet wurde der Kaiser aber im Zellinger Schloss, von Dompropst Konrad Friedrich von Thüngen. Das spätere Jagdschloss, das Weiße Schloss, entstand erst 1717. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.markt-zellingen.de (Chronik von Zellingen)",
+"faktencheck": "korrigiert",
+"id": "149-zellingen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "148-thuengersheim",
+"anschluss": [
+"Kreisgrenze: In Zellingen steht MSP am Auto, in Thüngersheim WÜ.",
+"Einwohner: Zellingen hat mehr als doppelt so viele wie Thüngersheim."
+],
+"anschluesse": {
+"146-wuerzburg": [
+"Kreisgrenze: Würzburg ist kreisfrei, Zellingen gehört zum Landkreis Main-Spessart.",
+"Würzburg hat rund zwanzigmal so viele Einwohner wie Zellingen."
+],
+"147-veitshoechheim": [
+"Kreisgrenze: Veitshöchheim gehört zum Landkreis Würzburg, Zellingen zum Landkreis Main-Spessart.",
+"Veitshöchheim hat anderthalbmal so viele Einwohner wie Zellingen."
+],
+"148-thuengersheim": [
+"Kreisgrenze: In Zellingen steht MSP am Auto, in Thüngersheim WÜ.",
+"Einwohner: Zellingen hat mehr als doppelt so viele wie Thüngersheim."
+],
+"150-himmelstadt": [
+"Zellingen hat viermal so viele Einwohner wie Himmelstadt."
+],
+"151-karlstadt": [
+"Karlstadt hat fast zweieinhalbmal so viele Einwohner wie Zellingen."
+],
+"152-gemuenden": [
+"Gemünden am Main hat gut anderthalbmal so viele Einwohner wie Zellingen."
+],
+"153-lohr": [
+"Lohr am Main hat fast zweieinhalbmal so viele Einwohner wie Zellingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Lohr am Main die SPD, in Zellingen die AfD."
+]
+},
+"ags": "09677203",
+"ortsteil": false,
+"km_vom_vorigen": 3.0
+},
+{
+"slug": "150-himmelstadt",
+"name": "Himmelstadt",
+"lat": 49.91667,
+"lon": 9.8,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Himmelstadt",
+"steckbrief": "Die Gemeinde mit rund 1.600 Einwohnern liegt 17 km nordwestlich von Würzburg.",
+"frage": "1231 wurde in Himmelstadt ein Zisterzienserinnenkloster gegründet und später in die Nähe von Würzburg verlegt. Welchen Grund nennt die Ortsgeschichte dafür?",
+"optionen": [
+"Die Nonnen litten unter anhaltenden Überfällen.",
+"Ein Brand hatte die Klostergebäude zerstört.",
+"Der Main hatte das Kloster überschwemmt.",
+"Der Papst hatte das Kloster aufgehoben."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In einem Dorf am Main denkt man schnell an Hochwasser. Die Ortsgeschichte nennt aber anhaltende Überfälle. Bischof Hermann von Lobdeburg hatte den Konvent gegründet, der Papst bestätigte die Verlegung nach Himmelspforten bei Würzburg. Im Gemeindewappen erinnert das Monogramm HP an das Kloster. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, himmelstadt.de/heimat-kultur/ortsportrait/geschichte-publikationen/",
+"faktencheck": "bestätigt",
+"id": "150-himmelstadt/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Himmelstadt",
+"steckbrief": "Die Gemeinde mit rund 1.600 Einwohnern liegt 17 km nordwestlich von Würzburg.",
+"frage": "Wie viele Einwohner leben in Himmelstadt je Quadratkilometer?",
+"optionen": [
+"unter 100",
+"100 bis unter 200",
+"200 bis unter 400",
+"400 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. So nah an Würzburg erwartet man eine dicht bebaute Vorortgemeinde. Doch Wald und Felder nehmen den Großteil der Gemarkung ein, Wohn- und Gewerbeflächen nur einen kleinen Teil. Rechnerisch leben in Himmelstadt 119 Einwohner je Quadratkilometer. Richtig war 2.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "150-himmelstadt/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Himmelstadt",
+"steckbrief": "Die Gemeinde mit rund 1.600 Einwohnern liegt 17 km nordwestlich von Würzburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Auf Befehl der Wehrmacht wurde 1945 die Mainbrücke zerstört.",
+"Die Mainschleuse bei Himmelstadt ging 1940 in Betrieb.",
+"Eine Brücke über den Main bekam Himmelstadt erst 1979."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer vom Neubau der Mainbrücke gehört hat, glaubt leicht, vorher habe es keine gegeben. Doch lange davor stand die Eiserne Mainbrücke, gebaut von der Firma Noell & Co. und eingeweiht von Bischof von Schlör. Nach der Zerstörung wurde die Mainbrücke wiederaufgebaut. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, himmelstadt.de/heimat-kultur/ortsportrait/geschichte-publikationen/",
+"faktencheck": "bestätigt",
+"id": "150-himmelstadt/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Himmelstadt",
+"steckbrief": "Die Gemeinde mit rund 1.600 Einwohnern liegt 17 km nordwestlich von Würzburg.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die CSU, die stärkste Partei, in Himmelstadt bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 30 %",
+"30 bis unter 38 %",
+"38 bis unter 45 %",
+"45 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. So nah an Würzburg erwartet mancher ein städtischeres, knapperes Ergebnis. Doch in Himmelstadt holte die CSU 48 Prozent der Zweitstimmen, weit vor AfD, SPD und Grünen. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "150-himmelstadt/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Himmelstadt",
+"steckbrief": "Die Gemeinde mit rund 1.600 Einwohnern liegt 17 km nordwestlich von Würzburg.",
+"frage": "Himmelstadt ist für sein Weihnachtspostamt bekannt. In welchem Jahr wurde die Poststelle des Orts zum Weihnachtspostamt?",
+"optionen": [
+"1986",
+"1952",
+"1968",
+"2003"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Weihnachtspostamt wirkt wie ein Brauch aus Großelternzeiten. Doch erst 1986 wurde die Poststelle umgewandelt. Für das ehrenamtliche Engagement dahinter erhielt die Weihnachtspostfiliale den Heimatpreis Unterfranken, überreicht von Markus Söder in der Residenz Würzburg. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, himmelstadt.de/heimat-kultur/ortsportrait/geschichte-publikationen/",
+"faktencheck": "bestätigt",
+"id": "150-himmelstadt/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Himmelstadt",
+"steckbrief": "Die Gemeinde mit rund 1.600 Einwohnern liegt 17 km nordwestlich von Würzburg.",
+"frage": "Wie weit ist es von Himmelstadt in Luftlinie bis zur Landeshauptstadt München?",
+"optionen": [
+"unter 200 km",
+"200 bis unter 260 km",
+"260 bis unter 320 km",
+"320 km und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Himmelstadt liegt in Unterfranken, im Nordwesten Bayerns. Wer an die lange Autofahrt nach München denkt, schätzt die Entfernung leicht zu hoch. In Luftlinie trennen Himmelstadt und die Landeshauptstadt 236 Kilometer. Richtig war 2.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "150-himmelstadt/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Himmelstadt",
+"steckbrief": "Die Gemeinde mit rund 1.600 Einwohnern liegt 17 km nordwestlich von Würzburg.",
+"frage": "Wer hat Himmelstadt laut der Ortsgeschichte der Gemeinde vermutlich gegründet?",
+"optionen": [
+"Ein fränkischer Adliger namens Himmo",
+"Ein Burgunder namens Immin",
+"Ein römischer Offizier namens Celsus",
+"Ein sächsischer Händler namens Hildo"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Ortsname lässt an den Himmel denken, ein Gründer mit ähnlich klingendem Namen liegt da nahe. Doch dem alten Ortsnamen Imminestat liegt laut Ortsgeschichte der ostgermanische Personenname Immin zugrunde. Der Forscher Joachim Andraschke hält einen burgundischen Gründer für sehr wahrscheinlich. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, himmelstadt.de/heimat-kultur/ortsportrait/geschichte-publikationen/",
+"faktencheck": "korrigiert",
+"id": "150-himmelstadt/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Himmelstadt",
+"steckbrief": "Die Gemeinde mit rund 1.600 Einwohnern liegt 17 km nordwestlich von Würzburg.",
+"frage": "1926 berichteten drei Mädchen in Himmelstadt von Muttergotteserscheinungen am Waldrand. Wie entschied der Bischof darüber?",
+"optionen": [
+"Er erkannte die Erscheinungen als echt an.",
+"Er erklärte den Waldrand zum Wallfahrtsort.",
+"Er überließ die Entscheidung dem Papst.",
+"Er erkannte die Erscheinungen nicht an."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Es setzte ein Pilgerstrom ein, und mancher Wallfahrtsort hat genau so begonnen. Bischof Matthias Ehrenfried lehnte die Erscheinungen jedoch ab, Veranstaltungen am Erscheinungsort wurden untersagt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, himmelstadt.de/heimat-kultur/ortsportrait/geschichte-publikationen/",
+"faktencheck": "bestätigt",
+"id": "150-himmelstadt/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Himmelstadt",
+"steckbrief": "Die Gemeinde mit rund 1.600 Einwohnern liegt 17 km nordwestlich von Würzburg.",
+"frage": "Im Dreißigjährigen Krieg lagerten 1631 etwa 28.000 Liter Wein im Klosterkeller von Himmelstadt. Was wurde aus dem Vorrat?",
+"optionen": [
+"Schweden tranken ihn aus oder trugen ihn fort.",
+"Kaiserliche Truppen schafften ihn ins Heerlager.",
+"Würzburger Händler kauften den Vorrat rechtzeitig auf.",
+"Fränkische Bauern vergruben die Fässer im Wald."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein voller Weinkeller im Krieg lässt an kluge Verstecke denken. Doch die Schweden tranken den Vorrat aus oder trugen ihn weg. Insgesamt erlebte Himmelstadt im Dreißigjährigen Krieg wenig Plünderungen und Übergriffe. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, himmelstadt.de/heimat-kultur/ortsportrait/geschichte-publikationen/",
+"faktencheck": "bestätigt",
+"id": "150-himmelstadt/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "149-zellingen",
+"anschluss": [
+"Verwaltung: Himmelstadt gehört zur Verwaltungsgemeinschaft Zellingen.",
+"Einwohner: Zellingen hat rund viermal so viele wie Himmelstadt."
+],
+"anschluesse": {
+"146-wuerzburg": [
+"Kreisgrenze: Würzburg ist kreisfrei, Himmelstadt gehört zum Landkreis Main-Spessart.",
+"Würzburg hat rund 85-mal so viele Einwohner wie Himmelstadt."
+],
+"147-veitshoechheim": [
+"Kreisgrenze: Veitshöchheim gehört zum Landkreis Würzburg, Himmelstadt zum Landkreis Main-Spessart.",
+"Veitshöchheim hat sechsmal so viele Einwohner wie Himmelstadt."
+],
+"148-thuengersheim": [
+"Kreisgrenze: Thüngersheim gehört zum Landkreis Würzburg, Himmelstadt zum Landkreis Main-Spessart.",
+"Thüngersheim hat gut anderthalbmal so viele Einwohner wie Himmelstadt."
+],
+"149-zellingen": [
+"Verwaltung: Himmelstadt gehört zur Verwaltungsgemeinschaft Zellingen.",
+"Einwohner: Zellingen hat rund viermal so viele wie Himmelstadt."
+],
+"151-karlstadt": [
+"Karlstadt hat neunmal so viele Einwohner wie Himmelstadt."
+],
+"152-gemuenden": [
+"Gemünden am Main hat gut sechsmal so viele Einwohner wie Himmelstadt."
+],
+"153-lohr": [
+"Lohr am Main hat gut neunmal so viele Einwohner wie Himmelstadt.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Lohr am Main die SPD, in Himmelstadt die AfD."
+]
+},
+"ags": "09677142",
+"ortsteil": false,
+"km_vom_vorigen": 2.2
+},
+{
+"slug": "151-karlstadt",
+"name": "Karlstadt",
+"lat": 49.96028,
+"lon": 9.77222,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Karlstadt",
+"steckbrief": "Rund 14.700 Einwohner, 23 km nordwestlich von Würzburg.",
+"frage": "Karlstadt hat eine Partnerstadt in Deutschland: Querfurt. Welche historische Verbindung steckt dahinter?",
+"optionen": [
+"Querfurter Bergleute halfen beim Aufbau der Zementfabrik.",
+"Karlstädter Siedler gründeten einst die Stadt Querfurt.",
+"Ein Querfurter Kaufmann stiftete Karlstadts Spital.",
+"Ein Bischof namens Konrad von Querfurt gründete Karlstadt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Partnerstadt denkt man an Handel, Flucht oder Stifter, also an Menschen, die zwischen beiden Orten wanderten. Die Verbindung steckt in einem Namen: Der Würzburger Bischof Konrad von Querfurt gründete Karlstadt um 1200. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html; Stadt Querfurt, www.querfurt.de/seite/328928/karlstadt.html",
+"faktencheck": "korrigiert",
+"id": "151-karlstadt/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Karlstadt",
+"steckbrief": "Kreisstadt am Main, 23 km nordwestlich von Würzburg.",
+"frage": "Wie viele Menschen leben in Karlstadt mit allen Stadtteilen?",
+"optionen": [
+"unter 16.000",
+"16.000 bis unter 22.000",
+"22.000 bis unter 30.000",
+"30.000 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Kreisstadt stellt man sich größer vor, mit Ämtern, Schulen und Gewerbe für einen ganzen Landkreis. Karlstadt zählt aber 14.719 Einwohner, und das mit allen Stadtteilen. Richtig war 1.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "151-karlstadt/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Karlstadt",
+"steckbrief": "Rund 14.700 Einwohner, 23 km nordwestlich von Würzburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Zur Reformationszeit lehnten die Bürger Luthers Lehre ab.",
+"Im Dreißigjährigen Krieg hielten Schweden die Stadt besetzt.",
+"Im Bauernkrieg wurde die Karlsburg am Main zerstört."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine von einem Bischof gegründete Stadt wirkt fest katholisch, deshalb klingt die erste Aussage glaubwürdig. Doch die Bürger bekannten sich mehrheitlich zu Luthers Lehre. Später betrieb Bischof Julius Echter hier die Gegenreformation. Schwedische Besetzung und zerstörte Karlsburg stimmen. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "151-karlstadt/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Karlstadt",
+"steckbrief": "Rund 14.700 Einwohner, 23 km nordwestlich von Würzburg.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Karlstadt zweitstärkste Kraft nach Zweitstimmen?",
+"optionen": [
+"SPD",
+"GRÜNE",
+"AfD",
+"Die Linke"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Dass die CSU vorne liegt, ahnt man; um Platz zwei ging es knapp. Die AfD kam auf 13,7 Prozent der Zweitstimmen, die SPD auf 13 Prozent. Wer auf die SPD als traditionelle Nummer zwei tippte, lag also nur knapp daneben. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "151-karlstadt/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Karlstadt",
+"steckbrief": "Rund 14.700 Einwohner, 23 km nordwestlich von Würzburg.",
+"frage": "Im Jahr 1236 wurden Burg und Dorf Karlburg, heute ein Stadtteil Karlstadts, zerstört. Wodurch?",
+"optionen": [
+"Ein Felssturz begrub Burg und Dorf.",
+"Ein Erdbeben ließ Burg und Dorf einstürzen.",
+"Ein Blitzschlag löste einen verheerenden Brand aus.",
+"Beide fielen einer Fehde zum Opfer."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Felssturz liegt nahe, denn bei Karlstadt steigen Felsen über dem Main auf, an denen heute geklettert wird. Doch es waren Menschen: Burg und Dorf Karlburg wurden in der Rienecker Fehde zerstört. Eine Fehde war ein Privatkrieg, mit dem Adlige ihre Ansprüche durchsetzten. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "151-karlstadt/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Karlstadt",
+"steckbrief": "Rund 14.700 Einwohner, 23 km nordwestlich von Würzburg.",
+"frage": "Wie weit ist Karlstadt in Luftlinie von der Landeshauptstadt München entfernt?",
+"optionen": [
+"220 bis unter 260 km",
+"260 bis unter 300 km",
+"300 km und mehr",
+"unter 220 km"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer zu knapp schätzt, vergisst, wie groß Bayern ist. Karlstadt liegt nordwestlich von Würzburg, also noch weiter von München entfernt als Würzburg selbst. In Luftlinie trennen Karlstadt und München 242 Kilometer. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "151-karlstadt/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Karlstadt",
+"steckbrief": "Rund 15.000 Einwohner mit allen Stadtteilen, 23 km nordwestlich von Würzburg.",
+"frage": "Wie viele dieser Menschen wohnen in der Kernstadt Karlstadt, also ohne die eingemeindeten Stadtteile?",
+"optionen": [
+"unter 5.000",
+"5.000 bis unter 9.000",
+"9.000 bis unter 12.000",
+"12.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Man denkt, die meisten Einwohner einer Kreisstadt wohnten im Kern. In Karlstadt waren es aber nur 7.061, knapp die Hälfte. Die übrigen leben in eingemeindeten Stadtteilen wie Karlburg, Gambach oder Stetten. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:164/tn_78/Zahlen_Daten_Fakten.html, Stand 2024-01-01",
+"faktencheck": "korrigiert",
+"id": "151-karlstadt/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Karlstadt",
+"steckbrief": "Rund 14.700 Einwohner, 23 km nordwestlich von Würzburg.",
+"frage": "Von 1409 bis 1493 war Karlstadt verpfändet. Wer hielt das Pfand?",
+"optionen": [
+"Die Stadt Nürnberg hielt das Pfand.",
+"Ein Augsburger Kaufmannshaus hielt das Pfand.",
+"Das Domkapitel hielt das Pfand.",
+"Die Stadt Frankfurt hielt das Pfand."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Reiche Handelsstädte und Kaufleute liehen Fürsten oft Geld und nahmen dafür Städte als Pfand, das liegt nahe. Karlstadt aber war an das Domkapitel verpfändet, das Gremium der Geistlichen am Bischofssitz. Erst Bischof Rudolf von Scherenberg löste die Verpfändung auf. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html",
+"faktencheck": "bestätigt",
+"id": "151-karlstadt/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "150-himmelstadt",
+"anschluss": [
+"Einwohner: Karlstadt zählt gut neunmal so viele wie Himmelstadt.",
+"Bundestagswahl 2025: CSU in Himmelstadt 48 Prozent, in Karlstadt 43,9."
+],
+"anschluesse": {
+"147-veitshoechheim": [
+"Kreisgrenze: Veitshöchheim gehört zum Landkreis Würzburg, Karlstadt zum Landkreis Main-Spessart.",
+"Karlstadt hat anderthalbmal so viele Einwohner wie Veitshöchheim."
+],
+"148-thuengersheim": [
+"Kreisgrenze: Thüngersheim gehört zum Landkreis Würzburg, Karlstadt zum Landkreis Main-Spessart.",
+"Karlstadt hat fast sechsmal so viele Einwohner wie Thüngersheim."
+],
+"149-zellingen": [
+"Karlstadt hat fast zweieinhalbmal so viele Einwohner wie Zellingen."
+],
+"150-himmelstadt": [
+"Einwohner: Karlstadt zählt gut neunmal so viele wie Himmelstadt.",
+"Bundestagswahl 2025: CSU in Himmelstadt 48 Prozent, in Karlstadt 43,9."
+],
+"152-gemuenden": [
+"Karlstadt hat anderthalbmal so viele Einwohner wie Gemünden am Main."
+],
+"153-lohr": [
+"Lohr am Main und Karlstadt sind fast gleich groß: rund 15.000 und 15.000 Einwohner.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Lohr am Main die SPD, in Karlstadt die AfD."
+]
+},
+"ags": "09677148",
+"ortsteil": false,
+"km_vom_vorigen": 5.2
+},
+{
+"slug": "152-gemuenden",
+"name": "Gemünden am Main",
+"lat": 50.04972,
+"lon": 9.70556,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gemünden am Main",
+"steckbrief": "Rund 10.000 Einwohner, 33 km nordwestlich von Würzburg.",
+"frage": "Nach örtlicher Überlieferung entstand Gemünden aus einer Fischersiedlung. Welchen Grund für den Fischreichtum nennt die Stadtgeschichte?",
+"optionen": [
+"Ein Wehr staute die Fische vor der Stadt.",
+"Mönche setzten im Main gezielt Fische aus.",
+"Hier treffen unterschiedliche Flüsse aufeinander.",
+"Der Main war hier besonders tief."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Wehr oder Fischbesatz liegt nahe, so kennt man Fischreichtum heute. Die Stadtgeschichte nennt aber die Lage: Main, Saale und Sinn fließen hier zusammen, und ihre Unterschiede sorgen für reichlich Fisch. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.stadt-gemuenden.de/geschichte/",
+"faktencheck": "korrigiert",
+"id": "152-gemuenden/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gemünden am Main",
+"steckbrief": "Kleinstadt mit rund 10.000 Einwohnern, 33 km nordwestlich von Würzburg.",
+"frage": "Wie groß ist die Fläche des Stadtgebiets von Gemünden am Main?",
+"optionen": [
+"unter 25 km²",
+"25 bis unter 45 km²",
+"45 bis unter 70 km²",
+"70 km² und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Für eine Kleinstadt klingt eine kleine Fläche naheliegend. Doch durch Eingemeindungen vervielfachte sich das Stadtgebiet, und der größte Teil davon ist Wald. Gemünden misst 75,06 km². Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "152-gemuenden/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Gemünden am Main",
+"steckbrief": "Rund 10.000 Einwohner, 33 km nordwestlich von Würzburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Rathaus wurde mitten auf den Fischmarkt gebaut.",
+"Früher lebte Gemünden vor allem vom Fernhandel.",
+"Bei der Gebietsreform verlor Gemünden seinen Kreissitz."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt am Zusammenfluss von Main, Saale und Sinn wirkt wie ein Handelsplatz. Die Stadtgeschichte nennt aber als alte Wirtschaftsgrundlage den Weinbau, ausdrücklich nicht den Fernhandel. Den Kreissitz verlor Gemünden tatsächlich, mit ihm zogen weitere Behörden ab. Das Rathaus entstand unter Fürstbischof Julius Echter mitten auf dem Fischmarkt. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.stadt-gemuenden.de/geschichte/",
+"faktencheck": "korrigiert",
+"id": "152-gemuenden/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gemünden am Main",
+"steckbrief": "Kleinstadt mit rund 10.000 Einwohnern, 33 km nordwestlich von Würzburg.",
+"frage": "Wie hoch war die Wahlbeteiligung in Gemünden bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 78 %",
+"78 bis unter 84 %",
+"84 bis unter 88 %",
+"88 % und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Bundestagswahl 2025 lockte bundesweit viele an die Urnen, da liegt ein sehr hoher Wert nahe. In Gemünden wählten 83 Prozent. Bei den Zweitstimmen lag die CSU klar vorn, die AfD wurde Zweite. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "152-gemuenden/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gemünden am Main",
+"steckbrief": "Rund 10.000 Einwohner, 33 km nordwestlich von Würzburg.",
+"frage": "Das Hauptstaatsarchiv München nannte das Gemündener Wappen 1953 eine sehr seltene Erscheinung. Was ist daran besonders?",
+"optionen": [
+"Es zeigt den Zusammenfluss der Flüsse.",
+"Es zeigt einen Fisch als Zunftzeichen.",
+"Es wird seit Jahrhunderten im Wesentlichen unverändert geführt.",
+"Es zeigt einen Weinstock auf grünem Grund."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Ort am Zusammenfluss von Main, Saale und Sinn erwartet man Wasser oder Fische im Wappen. Es zeigt aber im blauen Feld eine rot gedeckte Zinnenmauer mit Seitentürmen und offenem Tor, darüber einen Turm. Selten ist laut Hauptstaatsarchiv, dass es über Jahrhunderte kaum verändert wurde. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.stadt-gemuenden.de/wappen/; Haus der Bayerischen Geschichte",
+"faktencheck": "korrigiert",
+"id": "152-gemuenden/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Gemünden am Main",
+"steckbrief": "Kleinstadt mit rund 10.000 Einwohnern, 33 km nordwestlich von Würzburg.",
+"frage": "Wie weit ist Gemünden am Main in Luftlinie von der Landeshauptstadt München entfernt?",
+"optionen": [
+"unter 160 km",
+"160 bis unter 200 km",
+"200 bis unter 240 km",
+"240 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Gemünden liegt in Bayern, da denkt man leicht an eine mittlere Entfernung zur eigenen Hauptstadt. Doch Unterfranken liegt am nordwestlichen Rand des Freistaats: Bis München sind es in Luftlinie 252 Kilometer. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "152-gemuenden/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Gemünden am Main",
+"steckbrief": "Heute rund 10.000 Einwohner, 33 km nordwestlich von Würzburg.",
+"frage": "1964 hatte Gemünden etwa 4.000 Einwohner. Wie viele Mitarbeiter beschäftigte die Bundesbahn damals in Gemünden?",
+"optionen": [
+"1.200 und mehr",
+"800 bis unter 1.200",
+"400 bis unter 800",
+"unter 400"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Für eine Kleinstadt wären ein paar hundert Bahnleute schon viel. Doch Gemünden war ein Eisenbahnknoten, an dem mehrere Strecken zusammenliefen; die Stadtgeschichte nennt es für diese Zeit eine Eisenbahner-Stadt. Die Bundesbahn beschäftigte hier über 1.200 Mitarbeiter. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.stadt-gemuenden.de/geschichte/",
+"faktencheck": "bestätigt",
+"id": "152-gemuenden/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Gemünden am Main",
+"steckbrief": "Rund 10.000 Einwohner, 33 km nordwestlich von Würzburg.",
+"frage": "Adelsberg, heute ein Stadtteil von Gemünden, wurde im Mittelalter besiedelt. Was gab laut Ortsgeschichte den Anlass?",
+"optionen": [
+"Bergleute ließen sich an einer Erzgrube nieder.",
+"Leute siedelten sich beim Bau einer Burg an.",
+"Ein Kloster legte hier einen Gutshof an.",
+"Hirten richteten hier eine Sommerweide ein."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Kloster oder Bodenschätze stehen oft am Anfang eines Dorfs. In Adelsberg war es eine Burg: Adolph von Hohenburg baute die Burg Adolphsbühl, sein Bruder Reinhard die Homburg, und mit dem Burgbau kamen die Siedler. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.stadt-gemuenden.de/stadtteile/",
+"faktencheck": "unsicher",
+"id": "152-gemuenden/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "151-karlstadt",
+"anschluss": [
+"Einwohner: Karlstadt hat rund 14.700, Gemünden rund 10.000.",
+"Bundestagswahl 2025: AfD holte in Gemünden 19,3%, in Karlstadt 13,7%."
+],
+"anschluesse": {
+"149-zellingen": [
+"Gemünden am Main hat gut anderthalbmal so viele Einwohner wie Zellingen."
+],
+"150-himmelstadt": [
+"Gemünden am Main hat gut sechsmal so viele Einwohner wie Himmelstadt."
+],
+"151-karlstadt": [
+"Einwohner: Karlstadt hat rund 14.700, Gemünden rund 10.000.",
+"Bundestagswahl 2025: AfD holte in Gemünden 19,3%, in Karlstadt 13,7%."
+],
+"153-lohr": [
+"Lohr am Main hat anderthalbmal so viele Einwohner wie Gemünden am Main.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Lohr am Main die SPD, in Gemünden am Main die AfD."
+],
+"154-partenstein": [
+"Gemünden am Main hat gut dreieinhalbmal so viele Einwohner wie Partenstein.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Partenstein die SPD, in Gemünden am Main die AfD."
+]
+},
+"ags": "09677131",
+"ortsteil": false,
+"km_vom_vorigen": 11.0
+},
+{
+"slug": "153-lohr",
+"name": "Lohr am Main",
+"lat": 49.99361,
+"lon": 9.57833,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lohr am Main",
+"steckbrief": "Stadt mit rund 15.000 Einwohnern, 35 km nordwestlich von Würzburg.",
+"frage": "Woher hat Lohr nach der Stadtchronik vermutlich seinen Namen?",
+"optionen": [
+"Vom alten Wort „Loh“ für Wald.",
+"Vom keltischen Flussnamen „Lara“.",
+"Von einem fränkischen Grundherrn namens Lothar.",
+"Von der Gerberlohe der Lohrer Gerber."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. „Loh“ für Wald klingt am Tor zum Spessart naheliegend. Die Stadtchronik führt den Namen aber vermutlich auf den keltischen Flussnamen „Lara“ zurück. Kelten siedelten hier vermutlich schon in den letzten Jahrhunderten vor Christus. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.lohr.de/tourismus/stadtgeschichte-chronik",
+"faktencheck": "bestätigt",
+"id": "153-lohr/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lohr am Main",
+"steckbrief": "Stadt mit rund 15.000 Einwohnern, 35 km nordwestlich von Würzburg.",
+"frage": "Wie groß ist das Stadtgebiet von Lohr am Main?",
+"optionen": [
+"unter 30 km²",
+"30 bis unter 60 km²",
+"60 bis unter 100 km²",
+"100 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an die Fachwerk-Altstadt am Main denkt, schätzt leicht zu klein. Zur Stadt gehören aber auch Stadtteile wie Sendelbach und Wombach. Zusammen sind es 90,42 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "153-lohr/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Lohr am Main",
+"steckbrief": "Stadt mit rund 15.000 Einwohnern, 35 km nordwestlich von Würzburg.",
+"frage": "Drei Aussagen über das Alte Rathaus von Lohr. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Reiter konnten hineinreiten, ohne vom Pferd zu steigen.",
+"Seine Halle war einst eine offene Markthalle.",
+"Die Stadtverwaltung arbeitet bis heute in dem Haus."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Das Hineinreiten klingt erfunden, stimmt aber: Große Einfahrtsbögen an allen Seiten machten es möglich. Die Verwaltung dagegen ist ausgezogen, wie schon der Name verrät: ins Neue Rathaus am Schlossplatz. Die offene Markthalle wurde später zu einem geschlossenen Raum umgebaut. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.lohr.de/tourismus/sehenswuerdigkeiten",
+"faktencheck": "bestätigt",
+"id": "153-lohr/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lohr am Main",
+"steckbrief": "Stadt in Bayern mit rund 15.000 Einwohnern, 35 km nordwestlich von Würzburg.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Lohr am Main bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 42 %",
+"42 bis unter 47 %",
+"47 bis unter 52 %",
+"52 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In einer bayerischen Kleinstadt liegt die CSU klar vorn, und auf dem Land denkt man schnell an eine absolute Mehrheit. In Lohr am Main kam sie auf 41,4 Prozent der Zweitstimmen, weit vor der SPD. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "153-lohr/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lohr am Main",
+"steckbrief": "Stadt mit rund 15.000 Einwohnern, 35 km nordwestlich von Würzburg.",
+"frage": "Das Kurmainzer Schloss in Lohr wird als Geburtsort Schneewittchens bezeichnet. Wer legte seinen Grundstein?",
+"optionen": [
+"Die Kurfürsten von Mainz legten ihn.",
+"Die Grafen von Rieneck legten ihn.",
+"Kaiser Ludwig der Bayer legte ihn.",
+"Die Herren von Hohenlohe legten ihn."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name führt auf Mainz. Doch die Kurfürsten übernahmen das Schloss erst nach dem Ende der Rienecker und veränderten seine Gestalt. Den Grundstein hatten die Grafen von Rieneck gelegt. Heute beherbergt das Schloss das Spessartmuseum. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.lohr.de/tourismus/sehenswuerdigkeiten",
+"faktencheck": "bestätigt",
+"id": "153-lohr/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lohr am Main",
+"steckbrief": "Stadt mit rund 15.000 Einwohnern, 35 km nordwestlich von Würzburg.",
+"frage": "Wie viele Einwohner kommen in Lohr am Main rechnerisch auf einen Quadratkilometer?",
+"optionen": [
+"unter 80",
+"80 bis unter 130",
+"130 bis unter 200",
+"200 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt mit Fachwerk-Altstadt klingt nach dichter Bebauung. Doch die Einwohner verteilen sich auf ein großes Stadtgebiet. Rechnerisch leben 165 Menschen auf einem Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohner (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "153-lohr/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lohr am Main",
+"steckbrief": "Stadt mit rund 15.000 Einwohnern, 35 km nordwestlich von Würzburg.",
+"frage": "Der Bayersturm ist ein Turm der alten Lohrer Stadtbefestigung. Woher hat er seinen Namen?",
+"optionen": [
+"Er heißt nach dem Anschluss Lohrs an Bayern.",
+"Er heißt nach bayerischen Soldaten, die ihn bewachten.",
+"Er heißt nach einem Stifter aus Bayern.",
+"Er heißt nach der Türmerfamilie Bayer."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name lädt ein, an Bayern zu denken, zu dem Lohr später kam. Doch der Turm heißt nach der Familie Bayer, die hier über Generationen Türmerdienst tat: Tag- und Nachtwache, Warnung vor Feuer und Gefahr. Die Türmer wohnten mit Familie und Vieh in den oberen Etagen. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.lohr.de/tourismus/sehenswuerdigkeiten",
+"faktencheck": "bestätigt",
+"id": "153-lohr/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lohr am Main",
+"steckbrief": "Stadt mit rund 15.000 Einwohnern, 35 km nordwestlich von Würzburg.",
+"frage": "Aus dem Lohrer Blechwalzwerk wurde ein Industrieunternehmen von Weltruf. Wo begann es 1817?",
+"optionen": [
+"In der leerstehenden kurfürstlichen Spiegelmanufaktur.",
+"In einer stillgelegten Mühle am Main.",
+"In den früheren Stallungen des Schlosses.",
+"In einer ehemaligen Kaserne der Stadt."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Für ein Walzwerk liegt eine Mühle am Fluss nahe. Friedrich Stein zog aber in die leerstehende kurfürstliche Spiegelmanufaktur, deren Spiegel weit über Deutschland hinaus geschätzt waren. Die Brüder Rexroth erwarben das Werk später; heute gehört das Unternehmen zum Bosch-Konzern. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.lohr.de/tourismus/stadtgeschichte-chronik",
+"faktencheck": "unsicher",
+"id": "153-lohr/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lohr am Main",
+"steckbrief": "Stadt mit rund 15.000 Einwohnern, 35 km nordwestlich von Würzburg.",
+"frage": "Lohr ist heute überwiegend katholisch. Doch 1544 gründete ein Reformator hier eine Lateinschule. Woher stammte er?",
+"optionen": [
+"Er stammte aus Wittenberg.",
+"Er stammte aus Straßburg.",
+"Er stammte aus Schaffhausen.",
+"Er stammte aus Nürnberg."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Reformation denkt man zuerst an Wittenberg und Luther. Johann Konrad Ulmer stammte aber aus Schaffhausen in der Schweiz. Er führte in der Grafschaft Rieneck die Reformation ein und gründete die Lateinschule am Kirchplatz. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.lohr.de/tourismus/stadtgeschichte-chronik",
+"faktencheck": "bestätigt",
+"id": "153-lohr/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lohr am Main",
+"steckbrief": "Stadt mit rund 15.000 Einwohnern, 35 km nordwestlich von Würzburg.",
+"frage": "Ab 1924 leitete Simon Strauß in Lohr eine koschere Küche. Für wen wurde dort gekocht?",
+"optionen": [
+"Für jüdische Schüler eines Internats.",
+"Für jüdische Patienten in einem eigenen Pavillon.",
+"Für jüdische Reisende in einem Gasthaus.",
+"Für jüdische Soldaten einer Garnison."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine koschere Küche, also eine nach jüdischen Speisegesetzen, vermutet man eher in einem Gasthaus. Sie gehörte aber zum Israelitischen Pavillon, eigens für jüdische Patienten auf dem Gelände des heutigen Bezirkskrankenhauses errichtet. Strauß war dort auch Seelsorger. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.lohr.de/tourismus/juedische-geschichte",
+"faktencheck": "bestätigt",
+"id": "153-lohr/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "152-gemuenden",
+"anschluss": [
+"Einwohner: Lohr am Main hat rund 5.000 mehr als Gemünden."
+],
+"anschluesse": {
+"149-zellingen": [
+"Lohr am Main hat fast zweieinhalbmal so viele Einwohner wie Zellingen.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Zellingen die AfD, in Lohr am Main die SPD."
+],
+"150-himmelstadt": [
+"Lohr am Main hat gut neunmal so viele Einwohner wie Himmelstadt.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Himmelstadt die AfD, in Lohr am Main die SPD."
+],
+"151-karlstadt": [
+"Karlstadt und Lohr am Main sind fast gleich groß: rund 15.000 und 15.000 Einwohner.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Karlstadt die AfD, in Lohr am Main die SPD."
+],
+"152-gemuenden": [
+"Einwohner: Lohr am Main hat rund 5.000 mehr als Gemünden."
+],
+"154-partenstein": [
+"Lohr am Main hat fast sechsmal so viele Einwohner wie Partenstein."
+],
+"155-heigenbruecken": [
+"Kreisgrenze: Heigenbrücken gehört zum Landkreis Aschaffenburg, Lohr am Main zum Landkreis Main-Spessart.",
+"Lohr am Main hat fast siebenmal so viele Einwohner wie Heigenbrücken."
+]
+},
+"ags": "09677155",
+"ortsteil": false,
+"km_vom_vorigen": 11.0
+},
+{
+"slug": "154-partenstein",
+"name": "Partenstein",
+"lat": 50.05,
+"lon": 9.51667,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Partenstein",
+"steckbrief": "Partenstein hat rund 2.700 Einwohner und liegt 42 km nordwestlich von Würzburg.",
+"frage": "Im Gemeindewappen kreuzen sich zwei silberne Hellebarden. Warum gerade diese Waffen?",
+"optionen": [
+"Ein Wort für Hellebarde steckt im Ortsnamen.",
+"Im Ort gab es früher eine Waffenschmiede.",
+"Sie erinnern an eine Schlacht vor der Burg.",
+"Sie stehen für die einstige Burgwache."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Waffen im Wappen lassen an Krieg, Wachen oder Schmiede denken. Hier ist es ein Wortspiel: Die Hellebarden heißen Parten und spielen auf den Ortsnamen an, ebenso die goldenen Mauersteine darunter. Rot und Gold erinnern an die Grafen von Rieneck und Hanau. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Partenstein",
+"faktencheck": "bestätigt",
+"id": "154-partenstein/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Partenstein",
+"steckbrief": "Partenstein hat rund 2.700 Einwohner und liegt an der Lohr im Spessart, 42 km nordwestlich von Würzburg.",
+"frage": "Auf welcher Höhe über dem Meeresspiegel liegt der Ort?",
+"optionen": [
+"unter 150 m",
+"150 bis unter 250 m",
+"250 bis unter 400 m",
+"400 m und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Spessart ist ein Mittelgebirge, darum schätzt man den Ort leicht höher. Partenstein liegt aber an der Lohr, je nach Quelle auf 194 oder 202 Metern. Richtig war 2.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "154-partenstein/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Partenstein",
+"steckbrief": "Partenstein hat rund 2.700 Einwohner und liegt 42 km nordwestlich von Würzburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Burg Bartenstein entstand im 19. Jahrhundert.",
+"1854 erhielt Partenstein eine eigene Bahnstation.",
+"1939 eröffnete im Ort eine Schuhfabrik."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Schuhe aus einem Spessartdorf klingen erfunden, doch im Ort wurden wirklich Schuhe hergestellt. Gelogen war die Burg: Sie gilt als Bau der Grafen von Rieneck um 1180, auf einem Bergsporn über dem Dorf. Die Lüge war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Partenstein; vg-partenstein.de",
+"faktencheck": "korrigiert",
+"id": "154-partenstein/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Partenstein",
+"steckbrief": "Partenstein hat rund 2.700 Einwohner und liegt im Spessart, 42 km nordwestlich von Würzburg.",
+"frage": "Welche Partei wurde in Partenstein bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"AfD",
+"GRÜNE",
+"Die Linke",
+"SPD"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei der Bundestagswahl 2025 wurde die AfD vielerorts zweitstärkste Kraft, deshalb liegt sie nahe. In Partenstein kam aber die SPD mit 21 Prozent auf Platz zwei, hinter der CSU; die AfD folgte mit 16,9 Prozent. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "154-partenstein/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Partenstein",
+"steckbrief": "Partenstein hat rund 2.700 Einwohner und liegt 42 km nordwestlich von Würzburg.",
+"frage": "Bei Partenstein wurde bis 1948 Schwerspat abgebaut. Welchen Grund nennt die Ortsgeschichte für das Ende?",
+"optionen": [
+"Ein Blitz zerstörte das Maschinenhaus des Schachts.",
+"Hochwasser der Lohr flutete die Stollen.",
+"Ein Einsturz verschüttete den Förderschacht.",
+"Ein Sprengunfall zerstörte den Förderturm."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Einsturz oder Wassereinbruch sind die klassischen Gefahren unter Tage, darum liegen sie nahe. Das Aus kam aber von oben: Ein Blitzschlag zerstörte das Maschinenhaus des Marienschachts, und damit endete der Abbau. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Partenstein",
+"faktencheck": "unsicher",
+"id": "154-partenstein/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Partenstein",
+"steckbrief": "Partenstein hat rund 2.700 Einwohner und liegt 42 km nordwestlich von Würzburg.",
+"frage": "Zu welchem Landkreis gehört Partenstein?",
+"optionen": [
+"Landkreis Aschaffenburg",
+"Landkreis Main-Spessart",
+"Landkreis Würzburg",
+"Landkreis Miltenberg"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Würzburg ist die nächste Großstadt, Aschaffenburg liegt westlich; beides klingt plausibel. Partenstein gehört aber zum Landkreis Main-Spessart, dessen Hauptkennzeichen MSP lautet. Richtig war 2.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "154-partenstein/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Partenstein",
+"steckbrief": "Partenstein hat rund 2.700 Einwohner und liegt 42 km nordwestlich von Würzburg.",
+"frage": "Die katholische Kirche St. Johannes der Täufer entstand 1836 nach einem Vorbild. Nach welchem?",
+"optionen": [
+"Sie ist dem Dom der Bischofsstadt nachempfunden.",
+"Sie ist einer römischen Basilika nachempfunden.",
+"Sie ist der evangelischen Ortskirche nachempfunden.",
+"Sie ist einer Klosterkirche im Spessart nachempfunden."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer katholischen Kirche denkt man an Dom oder Kloster als Vorbild, darum liegen sie nahe. Sie lehnt sich aber an die evangelische Kirche im Ort an, die wenige Jahre zuvor entstanden war. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Partenstein",
+"faktencheck": "korrigiert",
+"id": "154-partenstein/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Partenstein",
+"steckbrief": "Partenstein hat rund 2.700 Einwohner und liegt 42 km nordwestlich von Würzburg.",
+"frage": "Das Heimatkundemuseum „Ahler Kram“ geht auf einen Privatsammler zurück. Welchen Beruf hatte er?",
+"optionen": [
+"Er arbeitete als Lehrer.",
+"Er arbeitete als Arzt.",
+"Er arbeitete als Pfarrer.",
+"Er arbeitete als Förster."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Das Museum liegt im ehemaligen Volksschulhaus neben der evangelischen Kirche, da liegt ein Lehrer als Sammler nahe. Begründet hat es aber Dr. Eugen Nätscher, Privatsammler und Arzt. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, vg-partenstein.de/seite/pa/cms121020262009145453f8ae/02751:2879/-/Heimatkundemuseum_Ahler_Kram.html",
+"faktencheck": "bestätigt",
+"id": "154-partenstein/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "153-lohr",
+"anschluss": [
+"Partenstein liegt etwa sieben Kilometer von Lohr am Main entfernt."
+],
+"anschluesse": {
+"152-gemuenden": [
+"Gemünden am Main hat gut dreieinhalbmal so viele Einwohner wie Partenstein.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Gemünden am Main die AfD, in Partenstein die SPD."
+],
+"153-lohr": [
+"Partenstein liegt etwa sieben Kilometer von Lohr am Main entfernt."
+],
+"155-heigenbruecken": [
+"Kreisgrenze: Heigenbrücken gehört zum Landkreis Aschaffenburg, Partenstein zum Landkreis Main-Spessart.",
+"Partenstein hat rund 500 Einwohner mehr als Heigenbrücken."
+]
+},
+"ags": "09677170",
+"ortsteil": false,
+"km_vom_vorigen": 7.7
+},
+{
+"slug": "155-heigenbruecken",
+"name": "Heigenbrücken",
+"lat": 50.02806,
+"lon": 9.37528,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heigenbrücken",
+"steckbrief": "Heigenbrücken hat rund 2.200 Einwohner und liegt 44 km östlich von Offenbach am Main.",
+"frage": "In Heigenbrücken fließen Kurze Lohr und Dorfquell zusammen. Was stand an dieser Stelle laut Ortschronik mutmaßlich?",
+"optionen": [
+"Dort stand vermutlich ein fürstliches Jagdschloss.",
+"Dort stand vermutlich eine Wallfahrtskapelle.",
+"Dort stand vermutlich eine Zollstation.",
+"Dort stand vermutlich die erste Glashütte."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Jagdschloss liegt nahe, denn der Spessart war Jagdgebiet von Königen und Kaisern. Die Ortschronik vermutet am Zusammenfluss aber die erste Glashütte. Heigenbrücken hat sich vermutlich aus einer Glashütte entwickelt. Die Dorfquell war früher neben dem Gemeindehaus als Brunnen gefasst. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.heigenbruecken.de/chronik",
+"faktencheck": "unsicher",
+"id": "155-heigenbruecken/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Heigenbrücken",
+"steckbrief": "Heigenbrücken hat rund 2.200 Einwohner und liegt 44 km östlich von Offenbach am Main.",
+"frage": "Wie viele Einwohner leben in Heigenbrücken je Quadratkilometer?",
+"optionen": [
+"unter 400",
+"400 bis unter 800",
+"800 bis unter 1.500",
+"1.500 und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. In Heigenbrücken leben rund 330 Menschen je Quadratkilometer: 2.224 Einwohner auf 6,73 Quadratkilometern. Die Fläche ist klein; wer daraus auf einen dicht besiedelten Ort schließt, tippt leicht höher. Richtig war 1.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "155-heigenbruecken/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Heigenbrücken",
+"steckbrief": "Heigenbrücken hat rund 2.200 Einwohner und liegt 44 km östlich von Offenbach am Main.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Der Ortsteil Jakobsthal geht auf Glasbläser zurück.",
+"Lange Zeit war Heigenbrücken ein wohlhabendes Bauerndorf.",
+"Die Eisenbahn erleichterte den Holzabtransport und brachte Arbeitsplätze."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bahnanschluss und Holzabtransport lassen an Wohlstand denken, doch Heigenbrücken war lange eine bettelarme Gemeinde. Man lebte von Glas, später von Stein; die Steinindustrie blühte erst nach der Eisenbahnanbindung auf. Jakobsthal geht tatsächlich auf Glasbläser zurück. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.heigenbruecken.de/chronik",
+"faktencheck": "korrigiert",
+"id": "155-heigenbruecken/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Heigenbrücken",
+"steckbrief": "Die bayerische Gemeinde Heigenbrücken hat rund 2.200 Einwohner und liegt 44 km östlich von Offenbach am Main.",
+"frage": "Wie hoch war in Heigenbrücken die Wahlbeteiligung bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 75 %",
+"75 bis unter 85 %",
+"85 bis unter 92 %",
+"92 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei der Bundestagswahl 2025 gingen in Heigenbrücken 90,2 Prozent der Wahlberechtigten wählen. Bundesweit lag die Beteiligung deutlich niedriger; wer sich daran orientiert, tippt eine Spanne zu tief. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "155-heigenbruecken/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heigenbrücken",
+"steckbrief": "Heigenbrücken hat rund 2.200 Einwohner und liegt 44 km östlich von Offenbach am Main.",
+"frage": "Die Villa Marburg in Heigenbrücken entstand 1884 als Landhaus. Wer ließ sie bauen?",
+"optionen": [
+"Ein Fabrikant aus Nürnberg ließ sie bauen.",
+"Ein Bahningenieur aus Kassel ließ sie bauen.",
+"Ein Professor aus Marburg ließ sie bauen.",
+"Ein Kaufmann aus Frankfurt ließ sie bauen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Der Name erinnert an die Universitätsstadt Marburg, und ein Professor in der Sommerfrische klingt plausibel. Gebaut hat das Landhaus aber Rudolf Marburg, ein Kaufmann aus Frankfurt. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.heigenbruecken.de/villa-marburg-im-park",
+"faktencheck": "bestätigt",
+"id": "155-heigenbruecken/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Heigenbrücken",
+"steckbrief": "Heigenbrücken hat rund 2.200 Einwohner und liegt 44 km östlich von Offenbach am Main.",
+"frage": "Zu welchem Landkreis gehört Heigenbrücken?",
+"optionen": [
+"Landkreis Aschaffenburg",
+"Main-Kinzig-Kreis",
+"Landkreis Main-Spessart",
+"Landkreis Miltenberg"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Main-Spessart liegt nahe, denn Heigenbrücken liegt im Spessart. Der Ort gehört aber zum Landkreis Aschaffenburg in Bayern; das Hauptkennzeichen dort ist AB. Richtig war 1.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "155-heigenbruecken/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heigenbrücken",
+"steckbrief": "Heigenbrücken hat rund 2.200 Einwohner und liegt 44 km östlich von Offenbach am Main.",
+"frage": "Das älteste Haus Heigenbrückens, ein Fachwerkhaus gegenüber vom Rathaus, ist auf 1562 datiert. Woher stammt die Jahreszahl?",
+"optionen": [
+"Eine Holzuntersuchung hat die Balken datiert.",
+"Sie steht auf einem Türsturz im Keller.",
+"Ein Kirchenbuch verzeichnet den Bau des Hauses.",
+"Eine Kaufurkunde im Gemeindearchiv nennt sie."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Fachwerkhaus denkt man an eine Holzuntersuchung der Balken, wie sie bei alten Häusern üblich ist. Die Ortschronik nennt eine schlichtere Quelle: Die Jahreszahl steht auf einem Türsturz im Keller des Hauses gegenüber vom Rathaus. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.heigenbruecken.de/chronik",
+"faktencheck": "unsicher",
+"id": "155-heigenbruecken/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heigenbrücken",
+"steckbrief": "Heigenbrücken hat rund 2.200 Einwohner und liegt 44 km östlich von Offenbach am Main.",
+"frage": "Heigenbrücken liegt im Spessart. Was bedeutet der Name Spessart laut der Ortschronik von Heigenbrücken?",
+"optionen": [
+"Der Name bedeutet steiniger Bergrücken.",
+"Der Name bedeutet Speisekammer der Fürsten.",
+"Der Name bedeutet Spechtswald.",
+"Der Name bedeutet Grenzwald zweier Bistümer."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Spessart klingt nach Speise, da liegt eine fürstliche Speisekammer im Wald nahe. Die Ortschronik leitet den Namen aber von Spechts-hart ab, dem Spechtswald. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.heigenbruecken.de/chronik",
+"faktencheck": "bestätigt",
+"id": "155-heigenbruecken/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Heigenbrücken",
+"steckbrief": "Heigenbrücken hat rund 2.200 Einwohner und liegt 44 km östlich von Offenbach am Main.",
+"frage": "1432 sind im Spessart vier Glashütten belegt, aus denen vermutlich auch Heigenbrücken hervorging. Wem mussten sie Abgaben zahlen?",
+"optionen": [
+"Sie zahlten an den Rothenbücher Forstmeister.",
+"Sie zahlten an den Bischof von Bamberg.",
+"Sie zahlten an die Reichsstadt Nürnberg.",
+"Sie zahlten an das Kloster Ebrach."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Kloster oder Bischof liegt nahe, denn die Kirche besaß im Mittelalter viel Land. Die Glashütten mussten ihre Abgaben aber an den Rothenbücher Forstmeister zahlen. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.heigenbruecken.de/chronik",
+"faktencheck": "korrigiert",
+"id": "155-heigenbruecken/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "154-partenstein",
+"anschluss": [
+"Bundestagswahl 2025: Zweitstärkste Partei in Heigenbrücken AfD, in Partenstein SPD.",
+"Einwohner: Partenstein hat rund 450 mehr als Heigenbrücken."
+],
+"anschluesse": {
+"153-lohr": [
+"Kreisgrenze: Lohr am Main gehört zum Landkreis Main-Spessart, Heigenbrücken zum Landkreis Aschaffenburg.",
+"Lohr am Main hat fast siebenmal so viele Einwohner wie Heigenbrücken."
+],
+"154-partenstein": [
+"Bundestagswahl 2025: Zweitstärkste Partei in Heigenbrücken AfD, in Partenstein SPD.",
+"Einwohner: Partenstein hat rund 450 mehr als Heigenbrücken."
+]
+},
+"ags": "09671126",
+"ortsteil": false,
+"km_vom_vorigen": 10.4
 }
 ]
 }

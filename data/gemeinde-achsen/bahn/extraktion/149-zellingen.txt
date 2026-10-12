@@ -1,0 +1,564 @@
+ENTITÄT: ort
+BEZEICHNUNG: Markt Zellingen
+QUELLE: https://www.markt-zellingen.de/seite/ze/cms12102026200719e3550f45/036:326/-/Wappen_und_Chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  landkreis: Main-Spessart
+  gebildet_aus: Zellingen, Retzbach, Duttenbrunn
+  ist_marktverwaltungsbehördensitz: true
+  verwaltungsgemeinschaftssitz: true
+  mittelalterlicher_name: Cellingen
+  region: Würzburg am Main
+  ist_sitz_der_verwaltungsgemeinschaft_zellingen: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen des Marktes Zellingen
+QUELLE: https://www.markt-zellingen.de/seite/ze/cms12102026200719e3550f45/036:326/-/Wappen_und_Chronik.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  blasonierung: Geteilt; oben in Silber ein roter Großbuchstabe Z; unten gespalten von Rot und Blau, vorne drei silberne Spitzen, hinten ein silberner Schrägbalken mit drei blauen Ringen
+  fahne: Rot-Weiß
+  entwurf_von: Karl Haas, Kronach
+  herkunft_z_buchstabe: altes Gerichtssiegel der Gemeinde Zellingen
+  herkunft_spitzen_und_balken: Gerichtssiegel der Gemeinde Retzbach von 1586; Symbol des Herzogtums Franken und Wappen des Fürstbischofs Julius Echter von Mespelbrunn
+  genehmigungsdatum: 12.02.1982
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+
+---
+
+ENTITÄT: geologische_struktur
+BEZEICHNUNG: Zellinger Mulde
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: geologische Synklinale
+  teil_von: charakteristische Sattel-Mulden-Struktur Unterfrankens
+  namensgebung: nach Zellingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Zellingen
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Hauptort
+  beschreibung: Einwohnerstärkste Gemeinde des Marktes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Retzbach
+QUELLE: https://www.markt-zellingen.de/seite/ze/cms12102026200719e3550f45/036:282/-/Impressionen_und_Ortsteile.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: ehemaliger Markt
+  charakteristik: Wein und Wallfahrt
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Duttenbrunn
+QUELLE: https://www.markt-zellingen.de/seite/ze/cms12102026200719e3550f45/036:282/-/Impressionen_und_Ortsteile.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Pfarrdorf
+  charakteristik: Klein aber fein
+GUELTIG_AB: 1978
+IST_VERMUTISMUS_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Georg
+ORTSTEIL_BEZUG: Zellingen
+QUELLE: https://www.markt-zellingen.de/seite/ze/cms12102026200719e3550f45/038:333/-/Sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Umbau eines zweigeschossigen Schlossflügels
+  umbau_durch: Johann Philipp Geigel
+  umbau_zeitraum: 1786-1787
+  stil: klassizistisch
+  stuck_durch: Materno Bossi (Würzburger Hofstuckateur)
+  stuck_jahr: 1790
+  stuck_besonderheit: sparsame Verwendung an Altären und Kanzel
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Mariahilfkapelle
+ORTSTEIL_BEZUG: Zellingen
+QUELLE: https://www.markt-zellingen.de/seite/ze/cms12102026200719e3550f45/038:333/-/Sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1678-1685
+  erneuerung: 1892
+  stil_erneuerung: klassizistisch
+  altäre_von: Peter Wagner und Heinz Schiestl
+GUELTIG_AB: 1678
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: bauwerk
+BEZEICHNUNG: Pfarrhaus
+ORTSTEIL_BEZUG: Zellingen
+QUELLE: https://www.markt-zellingen.de/seite/ze/cms12102026200719e3550f45/038:333/-/Sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1658
+GUELTIG_AB: 1658
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule
+ORTSTEIL_BEZUG: Zellingen
+QUELLE: https://www.markt-zellingen.de/seite/ze/cms12102026200719e3550f45/038:333/-/Sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1909
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: rathaus
+BEZEICHNUNG: Altes Rathaus Zellingen
+ORTSTEIL_BEZUG: Zellingen
+QUELLE: https://www.markt-zellingen.de/seite/ze/cms12102026200719e3550f45/038:333/-/Sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1609
+  zusatz: mit Büchereihof
+GUELTIG_AB: 1609
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: rathaus
+BEZEICHNUNG: Altes Rathaus Retzbach
+ORTSTEIL_BEZUG: Retzbach
+QUELLE: https://www.markt-zellingen.de/seite/ze/cms12102026200719e3550f45/038:333/-/Sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1576
+  stil: Fachwerkbau mit achteckigem Erker
+GUELTIG_AB: 1576
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche St. Laurentius
+ORTSTEIL_BEZUG: Retzbach
+QUELLE: https://www.markt-zellingen.de/seite/ze/cms12102026200719e3550f45/038:333/-/Sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1736-1738
+  erbaut_von: Balthasar Neumann
+  stil: barock
+GUELTIG_AB: 1736
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: wallfahrtskirche
+BEZEICHNUNG: Wallfahrtskirche Maria im Grünen Tal
+ORTSTEIL_BEZUG: Retzbach
+QUELLE: https://www.markt-zellingen.de/seite/ze/cms12102026200719e3550f45/038:333/-/Sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wallfahrt_seit: 1229
+  bekanntheitsgrad: weit über Franken hinaus bekannt
+GUELTIG_AB: 1229
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Margaretha Kirche
+ORTSTEIL_BEZUG: Duttenbrunn
+QUELLE: https://www.markt-zellingen.de/seite/ze/cms12102026200719e3550f45/038:333/-/Sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  chor_und_nordwand_baujahr: 12. Jahrhundert
+  umbau: 1936
+  besonderheit_umbau: in ihrer Achse gedreht
+  architektur: quadratischer Chor
+  superlativ: älteste Bauwerk des Marktes
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: torturm
+BEZEICHNUNG: Torturm Zellingen
+ORTSTEIL_BEZUG: Zellingen
+QUELLE: https://www.markt-zellingen.de/seite/ze/cms12102026200719e3550f45/038:333/-/Sehenswertes.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahrhundert: 15. Jahrhundert
+  spitzname: Ture
+  ist_wahrzeichen_zellingens: true
+  funktion: Eingang zum Altort
+  besonderheit: imposante barocke Haube
+  genauigkeit: ca.
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: namensherkunft
+BEZEICHNUNG: Zellingen
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  grundlage: Personenname Cello oder Zello
+  suffix: althochdeutsches -ing
+  endung_bedeutung: weist auf alamannische Siedlung hin
+  genauigkeit: vermutlich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Verleihung Schweinfurter Stadtrecht
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  ort: Zellingen
+  zeitraum: 1312-1313
+  status: vorübergehend, ungenutzt geblieben
+GUELTIG_AB: 1312
+GUELTIG_BIS: 1313
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Dorfordnung für Zellingen
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  erlasser: Julius Echter von Mespelbrunn
+  zeit: um 1575
+  ort: Zellingen und Umgebung
+GUELTIG_AB: 1575
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Kaisererempfang für Ferdinand
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  kaiser: Ferdinand (neugekrönt)
+  monat_jahr: September 1619
+  ausrichter: Fürstbischof Johann Gottfried von Aschhausen
+  ort: Zellingen und Umgebung
+  besonderheit: 21. September Mittagessen im Zellinger Jagdschloss mit Dompropst Konrad Friedrich von Thüngen
+GUELTIG_AB: 1619
+GUELTIG_BIS: 1619
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Säkularisation
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  Jahr: 1803
+  folge: Zellingen fiel an Bayern (ehemaliges Amt des Hochstiftes Würzburg)
+GUELTIG_AB: 1803
+GUELTIG_BIS: 1803
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Friede von Preßburg
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  jahr: 1805
+  folge: Zellingen wurde Erzherzog Ferdinand von Toskana zur Bildung des Großherzogtums Würzburg überlassen
+GUELTIG_AB: 1805
+GUELTIG_BIS: 1805
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Eingemeindung Markt Retzbach
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1. Januar 1975
+  ereignis: Eingemeindung in den Markt Zellingen
+GUELTIG_AB: 1975
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Eingemeindung Gemeinde Duttenbrunn
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1. Mai 1978
+  ereignis: Eingemeindung in den Markt Zellingen
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: buegermeister
+BEZEICHNUNG: Wieland Gsell
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  partei: Grüne
+  wahl_1_datum: 16. März 2008
+  wahl_1_typ: Stichwahl
+  wahl_1_ergebnis: 51,51 % gegen Karl Mühlbauer (CSU)
+  wahl_2_datum: 2014
+  wahl_2_ergebnis: absoluter Mehrheit 58,66 % gegen Philipp Kromczynski (CSU) und Andrea Heßdörfer (Freie Bürger)
+  wahl_2_wahlbeteiligung: 67,26 %
+GUELTIG_AB: 2008
+GUELTIG_BIS: 2014
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: buergermeister
+BEZEICHNUNG: Stefan Wohlfart
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  partei: CSU
+  wahl_datum: 15. März 2020
+  wahl_ergebnis: 54,5 %
+  wahlbeteiligung: 67,3 %
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Geyer
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  region: Sachsen
+  partnerschaft_seit: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Louvigny
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  region: Frankreich
+  partnerschaft_seit: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Tiefenbach
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  region: Niederbayern
+  partnerschaft_seit: 1974
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Retzbach-Zellingen
+ORTSTEIL_BEZUG: Retzbach
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  lage: östliche Mainseite
+  bahnstrecke: Würzburg–Aschaffenburg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: eisenbahn_schnellfahrstrecke
+BEZEICHNUNG: Eisenbahn-Schnellfahrstrecke Hannover–Würzburg
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  durchquert: Gebiet der Marktgemeinde Zellingen
+  bauwerke: Hohe Wart-Tunnel, Bartelsgrabentalbrücke
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: bruecke
+BEZEICHNUNG: Alte Mainbrücke Zellingen
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  ersterrichtung: 1884
+  zerstoerung_datum: 27. März 1945
+  wiederaufbau: nach dem Zweiten Weltkrieg
+GUELTIG_AB: 1884
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: bruecke
+BEZEICHNUNG: Mainbrücke (neue)
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  baujahr: 1993
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Grundschule
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  lehrkraefte: 12
+  schueler: 185
+  schuljahr: 2023/24
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: schule
+BEZEICHNUNG: Mittelschule
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  lehrkraefte: 10
+  schueler: 128
+  schuljahr: 2023/24
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kita
+BEZEICHNUNG: Kindertageseinrichtungen
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  plaetze: 325
+  kinder: 264
+  stand: 2015
+GUELTIG_AB: 2015
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Theodor Rienecker
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1873-1932
+  beruf: Gewerkschaftsfunktionär
+  position: Mitglied des Provinziallandtages Hessen-Nassau
+GUELTIG_AB: 1873
+GUELTIG_BIS: 1932
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Ludwig Hagenauer
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  geburtsort: Markt Retzbach
+  lebensdaten: 1883-1949
+  beruf: Jurist und Politiker
+GUELTIG_AB: 1883
+GUELTIG_BIS: 1949
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Karl Staab
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  lebensdaten: 1892-1974
+  beruf: römisch-katholischer Geistlicher
+  position: Bibelwissenschaftler an der Universität Würzburg
+GUELTIG_AB: 1892
+GUELTIG_BIS: 1974
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Maria-Hilf-Kapelle
+ORTSTEIL_BEZUG: Zellingen
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  besonderheit: Leuchter der Skapulierbruderschaft Zellingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: kapelle
+BEZEICHNUNG: Flurkapelle Sankt Therese
+ORTSTEIL_BEZUG: Zellingen
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  lage: auf dem Kirchberg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: statistik
+BEZEICHNUNG: Einwohnerentwicklung
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  zeitraum: 2000-2020
+  einwohner_2000: 6514
+  einwohner_2020: 6357
+  verlust: 157
+  verlust_prozentual: 2,4 %
+GUELTIG_AB: 2000
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: fränkischer_marienweg
+BEZEICHNUNG: Fränkischer Marienweg
+QUELLE: https://de.wikipedia.org/wiki/Zellingen | Wikipedia
+EIGENSCHAFTEN:
+  verlaeuft_durch: Zellingen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90

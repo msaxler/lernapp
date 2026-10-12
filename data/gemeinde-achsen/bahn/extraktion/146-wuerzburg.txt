@@ -1,0 +1,275 @@
+ENTITÄT: umweltstation
+BEZEICHNUNG: Umweltstation der Stadt Würzburg
+QUELLE: https://www.wuerzburg.de/themen/umwelt-klima/umweltstation/wir-ueber-uns | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gegründet_anlass: Landesgartenschau
+  gegründet_park_mit_baumarten: Landesgartenschau-Park von 1990 mit über 40 verschiedenen Baumarten
+  neubau_eröffnet: 2019
+  erstmalige_verwendung_recyclingbeton_hochbau: Bayern
+  energiespeicher: Eisspeicherheizung mit Photovoltaikanlage
+  förderung_durch: Deutsche Bundesstiftung Umwelt, Bayerisches Staatsministerium für Umwelt und Verbraucherschutz, Zweckverband Abfallwirtschaft Würzburg
+  wissenschaftliche_begleitung: Brandenburgische Technische Universität Cottbus–Senftenberg, Bayerisches Zentrum für angewandte Energieforschung
+  adresse: Nigglweg 5, 97082 Würzburg
+  telefon: 0931-374400
+  fax: 0931-374477
+  email: umweltstation@stadt.wuerzburg.de
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: eigenbetrieb
+BEZEICHNUNG: Die Stadtreiniger
+QUELLE: https://www.wuerzburg.de/themen/umwelt-klima/abfall-und-stadtreinigung/wir-ueber-uns | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rechtsform: Eigenbetrieb der Stadt Würzburg
+  zertifizierung_entsorgungsfachbetrieb: Oktober 1998
+  bruttoumsatz_jaehrlich: 33 Mio. €
+  beschaeftigte: 300
+  werkleiter: Wolfgang Kleiner
+  werkleiter_titel: rechtskundiger berufsmäßiger Stadtrat, Umwelt- und Kommunalreferent
+  werkleiter_seit: April 2003
+  betriebsleiter_1_vertreter: Philipp Kuhn
+  leiterin_rechnungswesen_2_vertreterin: Judith Sinn
+  adresse: Äußere Aumühlstraße 5, 97076 Würzburg
+  telefon: 0931-374444
+  fax: 0931-374424
+  email: stadtreiniger.kundenbuero@stadt.wuerzburg.de
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: abteilung
+BEZEICHNUNG: Abfalldienste
+QUELLE: https://www.wuerzburg.de/themen/umwelt-klima/abfall-und-stadtreinigung/wir-ueber-uns | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: Stadtreiniger (Eigenbetrieb Stadt Würzburg)
+  abfallbehaeltnisse_geleert_jaehrlich: 72000
+  behälterentleerungen_jaehrlich: 2,3 Mio.
+  volumen_jaehrlich: 415 Mio. Liter
+  biotonnen: 21000
+  papiertonnen: 24000
+  restmuelltonnen: 27000
+  wertstoffe_angenommen_jaehrlich: 8100 t
+  wertstoffe_standorte: Gattingerstraße 29, Edith-Stein-Straße 7
+  problemmüll_haltepunkte: 8
+  problemmüll_jaehrlich_angenommen: 36 t
+  gruengutabfuhr_saison: Frühjahr und Herbst
+  christbaumabfuhr_saison: Januar
+  sammelmenge_gruengut_christbaum_jaehrlich: 700 t
+  sperrmuell_abholung_jaehrlich: 10000 m³
+  gruengut_abholung_jaehrlich: 1400 m³
+  jahresumsatz: 15 Mio. €
+  beschaeftigte: 100
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: abteilung
+BEZEICHNUNG: Straßenreinigung
+QUELLE: https://www.wuerzburg.de/themen/umwelt-klima/abfall-und-stadtreinigung/wir-ueber-uns | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: Stadtreiniger (Eigenbetrieb Stadt Würzburg)
+  superlativ: älteste Abteilung der Stadtreiniger
+  betriebshof: Aumühle
+  standort_2: Gewerbebiet Heuchelhof, Max-Mengeringhausen-Straße
+  gebührenfähige_frontmeter: 700000
+  kehrleistung_jaehrlich: 41 Mio. Frontmeter
+  reinigung_innenstadt_häufigkeit: jeden Tag (einschließlich Wochenende und Feiertagen)
+  reinigung_andere_stadtbezirke: mindestens 1x pro Woche
+  kehrmaschinen_gross: 7
+  kehrmaschinen_klein: 22
+  arbeitswoche: Fünf-Tagewoche mit Sonderdiensten am Wochenende
+  besen_verbrauch_jaehrlich: 2500
+  jahresumsatz: 9 Mio. €
+  beschaeftigte: 90
+  ist_aelteste_abteilung: true
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: abteilung
+BEZEICHNUNG: Abfallberatung / Umweltstation
+QUELLE: https://www.wuerzburg.de/themen/umwelt-klima/abfall-und-stadtreinigung/wir-ueber-uns | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: Stadtreiniger (Eigenbetrieb Stadt Würzburg)
+  gegründet: 1990
+  anlass_gründung: Ausstellungsbeitrag für Landesgartenschau Würzburg, Pilotprojekt des Bayerischen Umweltministeriums
+  superlativ: erste Umweltstation Bayerns
+  dachmarke_umweltbildung_bayern_verliehen: Dezember 2005
+  organisationsposition: Stabsabteilung direkt bei Werk- und Betriebsleitung
+  anrufe_jaehrlich: 20000
+  veranstaltungen_jaehrlich: über 200
+  besucherzahl_veranstaltungen_jaehrlich: 11500
+  teilnehmerstunden_jaehrlich: 45000
+  anteil_kinder_jugendliche: 80%
+  umweltbibliothek_werke: 250
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Rottenbauer
+ORTSTEIL_BEZUG: Rottenbauer
+QUELLE: https://www.wuerzburg.de/themen/bauen-planen/stadtplanung/stadtentwicklung/stadtteilkonzepte/isek-rottenbauer1 | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südlichster Teil des Stadtgebietes Würzburg
+  eingemeindet: 1973
+  charakter: dörflich
+  infrastruktur_straßenbahn: Straßenbahnanschluss
+  entwicklungskonzept: ISEK beschlossen November 2018
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: stadtteilprojekt
+BEZEICHNUNG: Ortsmitte Lengfeld
+ORTSTEIL_BEZUG: Lengfeld
+QUELLE: https://www.wuerzburg.de/themen/bauen-planen/stadtplanung/stadtentwicklung/stadtentwicklung-lengfeld | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grundlage: ISEK Lengfeld beschlossen 2016
+  fokusraum: Ortskern/Altort
+  massnahme_abriss: Feuerlösch-Gerätehaus
+  massnahme_wettbewerb: Gestaltungswettbewerb Ortsmitte Lengfeld
+  wettbewerb_art: anonymer hochbaulicher und freiraumplanerischer Realisierungs- und Ideenwettbewerb
+  wettbewerb_teilnehmer: 8 eingeladene Arbeitsgemeinschaften (Architekten + Landschaftsarchitekten)
+  preisgerichtssitzung: 10.12.2021
+  preis_1_architekten: Architekturbüro Jäcklein (Volkach), sunder plaßmann. Noll, plan+bau GmbH (Kassel)
+  preis_2_architekten: O5 Architekten (Frankfurt), MANN Landschaftsarchitektur (Fulda)
+  preis_3_architekten: Manfred Ring Architekten (Würzburg), Matthias Braun Architekten (Würzburg), Kaiser+Juritza+Partner (Würzburg)
+  jugendhaus_nutzfläche: 270 m²
+  realisierungsbereich: 1000 m²
+  ideenbereich: 2500 m²
+  förderung: Bayerisches Städtebauförderungsprogramm (Regierung von Unterfranken)
+  buergerbeteiligung_informationsveranstaltung: 14.11.2018
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: stadtteilkonzept
+BEZEICHNUNG: ISEK Grombühl
+ORTSTEIL_BEZUG: Grombühl
+QUELLE: https://www.wuerzburg.de/themen/bauen-planen/stadtplanung/stadtentwicklung/stadtteilkonzepte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konzept_typ: Integriertes städtebauliches Entwicklungskonzept
+  stadtrat_beschluss: 5. Mai 2022
+GUELTIG_AB: 2022
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteilkonzept
+BEZEICHNUNG: ISEK Innenstadt
+ORTSTEIL_BEZUG: Innenstadt
+QUELLE: https://www.wuerzburg.de/themen/bauen-planen/stadtplanung/stadtentwicklung/stadtteilkonzepte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konzept_typ: Integriertes städtebauliches Entwicklungskonzept
+  stadtrat_beschluss: März 2012
+GUELTIG_AB: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: stadtteilkonzept
+BEZEICHNUNG: ISEK Gesamtstadt
+QUELLE: https://www.wuerzburg.de/themen/bauen-planen/stadtplanung/stadtentwicklung/stadtteilkonzepte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konzept_typ: Integriertes städtebauliches Entwicklungskonzept
+  planungsbüro: SSR Schulten Stadt- und Raumentwicklung (Dortmund)
+  stadtrat_beschluss: Mai 2012
+GUELTIG_AB: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: beratungsstelle
+BEZEICHNUNG: LSBTIQ Regenbogenbüro Unterfranken
+QUELLE: https://www.wuerzburg.de/rathaus/lsbtiq | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  teil_von: Queeres Netzwerk Bayern
+  finanzierung: Bayerisches Sozialministerium, Stadt Würzburg
+  beratungsformat: persönlich, telefonisch
+  kosten: kostenlos
+  beratungszeiten: montags bis donnerstags 9:00–17:00 Uhr (nach Absprache)
+  adresse: Marktplatz 9 (Falkenhaus), 97070 Würzburg
+  telefon: 0931-372716
+  fax: 0931-373719
+  email: lsbtiq@stadt.wuerzburg.de
+  instagram: regenbogenbuero_ufr
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: preis
+BEZEICHNUNG: Preis „Queer sein in Würzburg"
+QUELLE: https://www.wuerzburg.de/rathaus/lsbtiq | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadt: Würzburg
+  träger: Regenbogenbüro Unterfranken
+  stadtrat_beschluss: 2023
+  preisgeld: 1000 Euro
+  häufigkeit: jährlich
+  vergabe_2023: PRISM Kollektiv
+  vergabe_2024: WuF Zentrum e.V.
+  vergabe_2025: Queer Pride Würzburg e.V.
+  nominierungsfrist_2026: bis 06.09.2026
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: eigenschaft_stadt
+BEZEICHNUNG: Julius-Maximilians-Universität Würzburg
+QUELLE: https://www.wuerzburg.de/unternehmen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  exzellenzbewerbung: ja
+  unterstützung_stadt: Beflaggung Innenstadt
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: auszeichnung
+BEZEICHNUNG: Fair Trade-Stadt
+QUELLE: https://www.wuerzburg.de/unternehmen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  stadt: Würzburg
+  erwerbung: ja
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: projekt_nachhaltigkeit
+BEZEICHNUNG: Fair-Trade-Arbeitskleidung Stadtreiniger
+QUELLE: https://www.wuerzburg.de/themen/umwelt-klima/abfall-und-stadtreinigung/wir-ueber-uns | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  träger: Die Stadtreiniger
+  beginn: 2012
+  zertifikationen: Fair Wear Foundation, Fair Trade-Gütesiegel
+  sonderpreis_hauptstadt_fairen_handels: September 2015
+  hersteller_bewertung_fair_wear_foundation: Leader (dritte Mal in Folge)
+GUELTIG_AB: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90

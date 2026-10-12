@@ -1,0 +1,769 @@
+ZIELORT: Veitshöchheim (Gemeinde)
+LAGE: 7 km nordwestlich von Würzburg (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Veitshöchheim
+
+GRUNDDATEN:
+  landkreis: Würzburg  [dewiki Infobox]
+  bundesland: Bayern  [dewiki Infobox]
+  einwohner: 9694  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 10,76  [Wikidata P2046]
+  dichte_ew_km2: 901  [berechnet aus Einwohner und Fläche]
+  hoehe_m: 185 | 170 | 215 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2817733)]
+  naechste_grossstadt: Würzburg, 7 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: München, 225 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Veitshöchheim  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 97209  [Wikidata P281]
+  vorwahl: 0931  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 37 %, GRÜNE 16,1 %, AfD 14,3 %, SPD 14,1 %, Die Linke 6,2 %; Wahlbeteiligung 85,9 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Jürgen Götz (CSU) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-12]
+  partnerstaedte: Geithain, Greve in Chianti, Pont-l’Évêque, Rotava  [Wikidata P190]
+  kfz: WÜ (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Altbestand geo.sqlite (Kreis 09679)]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 4
+  Karte 2: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Einwohner je Quadratkilometer), C, wahre Spanne an Stelle 1
+  Karte 3: Geschichte, B, Lüge an Stelle 3
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Anteil der stärksten Partei in Prozent, C, wahre Option an Stelle 3
+  Karte 5: Geschichte, A, wahre Option an Stelle 4
+  Karte 6: Klassiker, EIGENSCHAFT landkreis: Landkreis (Ersatz: Kennzeichen), A, wahre Option an Stelle 1
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 2 (bei B: Lüge an Stelle 1)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Würzburg (Stadt)
+  einwohner: 133.753  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 87,66 | 87,6  [Wikidata P2046; Altbestand staedte.json]
+  kfz: WÜ (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 177 | 204 — MEHRERE WERTE  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2805615)]
+  naechste_grossstadt: Würzburg, 2 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  bahnhof: Rottenbauer, Würzburg Süd, Würzburg-Heidingsfeld Ost, Würzburg-Heimgarten, Würzburg-Zell  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 28,5 %, GRÜNE 21,2 %, SPD 13,8 %, Die Linke 12,2 %, AfD 11,9 %; Wahlbeteiligung 83,7 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Neu-Isenburg, Frankfurt am Main, Rüsselsheim, Weiterstadt, Groß-Gerau, Bischofsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Weißenthurm, Koblenz, Rhens, Spay, Boppard, St. Goar, Oberwesel, Bacharach, Niederheimbach, Trechtingshausen, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Guntersblum, Osthofen, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg, Würzburg, Veitshöchheim, Thüngersheim, Zellingen, Himmelstadt, Karlstadt, Gemünden am Main, Lohr am Main, Partenstein, Heigenbrücken, Laufach, Hösbach, Goldbach, Aschaffenburg, Kahl am Main, Großkrotzenburg, Hanau, Maintal, Offenbach am Main, Kist, Helmstadt, Marktheidenfeld, Wertheim, Weibersbrunn, Stockstadt am Main, Seligenstadt, Obertshausen, Kelsterbach, Raunheim, Niedernhausen, Idstein, Hünfelden, Limburg an der Lahn, Elz, Diez, Montabaur, Heiligenroth, Ransbach-Baumbach, Höhr-Grenzhausen
+
+FAKTEN (Zielort Veitshöchheim):
+ID: 147-veitshoechheim/001
+ENTITÄT: ort
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/zahlen-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 10000
+  gesamtfläche_ha: 1076.21
+  bauflächen_ha: 285
+  grünflächen_ha: 69.83
+  landwirtschaft_ha: 387.67
+  wald_forstwirtschaft_ha: 221.4
+  naturschutzgebiete_ha: 4
+  tiefster_punkt_m_nn: 167
+  höchster_punkt_m_nn: 281
+  postleitzahl: 97209
+  telefonvorwahl: 0931
+  entfernung_würzburg_km: 7
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/002
+ENTITÄT: ort
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründungszeit: 560-600
+  gründungsart: Ostfränkische Kolonisation
+  erste_erwähnung_schriftlich: 779
+  früherer_name: Höchheim
+  ortspatron: St. Vitus
+  erste_urkundliche_erwähnung: 1097
+  benannt_nach: St. Vitus
+GUELTIG_AB: 560
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/003
+ENTITÄT: heiliger
+BEZEICHNUNG: St. Vitus
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortspatron_seit: 1301
+  martyrium: Folter wegen christlichen Glaubens durch Kaiser Diokletian
+  martyrium_wunder: in siedendem Öl geworfen, blieb aber unversehrt
+GUELTIG_AB: 1301
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/004
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: hl. Bilhildis
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Tochter von Graf Iberich
+  titel: Herzogin von Franken
+GUELTIG_AB: 650
+GUELTIG_BIS: 750
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 147-veitshoechheim/005
+ENTITÄT: persönlichkeit
+BEZEICHNUNG: Graf Iberich
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Graf von Höchheim
+  zeitperiode: 7. Jahrhundert
+GUELTIG_AB: 650
+GUELTIG_BIS: 750
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 147-veitshoechheim/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Vituskirche
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihungsjahr: 1691
+  einweihender: Fürstbischof von Guttenberg
+GUELTIG_AB: 1691
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/007
+ENTITÄT: kapelle
+BEZEICHNUNG: Martinskapelle
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auch_genannt: Märzekirch
+  erbaut: 1202
+  lage: alter Friedhof
+  renoviert: 1589
+  renovierer: Reichard von der Kehre
+  neugeweiht: 1591
+GUELTIG_AB: 1202
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/008
+ENTITÄT: ereignis
+BEZEICHNUNG: Bischofsmord 1202
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  opfer: Würzburger Bischof Konrad von Querfurt
+  täter: Bodo von Ravensburg
+  folge: Zerstörung der Ravensburg
+GUELTIG_AB: 1202
+GUELTIG_BIS: 1202
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/009
+ENTITÄT: ereignis
+BEZEICHNUNG: Königswahl 1246
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Mainwiesen bei Veitshöchheim
+  kandidat: Landgraf Heinrich Raspe
+GUELTIG_AB: 1246
+GUELTIG_BIS: 1246
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/010
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Veitshöchheim
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Reinstein'sches Wasserschloss und Schlösschen derer von Echter
+  übergang_hochstift: 1619
+  lusthaus_bauzeit: 1680-1682
+  lusthaus_baumeister: Heinrich Zimmer (Werkmeister)
+  lusthaus_bauherr: Fürstbischof von Dernbach
+  abriss_schlösser: 1748/49
+  neubau_architekt: Balthasar Neumann
+  neubau_bauzeit: 1748-1753
+  erweiterung: 1753
+  erweiterung_architekt: Balthasar Neumann
+  erweiterung_bauherr: Fürstbischof Carl Philipp von Greiffenclau
+  nutzung: 1806-1814 Sommerresidenz des Großherzogs von Toscana
+  sanierung_zeitraum: 2005
+GUELTIG_AB: 1619
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/011
+ENTITÄT: garten
+BEZEICHNUNG: Hofgarten
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1619
+  anlage_beginn: ab 1702
+  stil: Rokokogarten
+  umgestaltung_bauzeit: 1763-1770
+  umgestaltung_bauherr: Fürstbischof Adam Friedrich von Seinsheim
+  bildhauer: Johann Wolfgang van der Auvera, Ferdinand Tietz, Peter Wagner
+  funktion: fürstbischöfliche Sommerresidenz
+GUELTIG_AB: 1702
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/012
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Veitshöchheim
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1727-1730
+  umnutzung_ns_zeit: Feuerwehrhaus
+  museum_eröffnung: 1994
+  museum: Jüdisches Kulturmuseum
+GUELTIG_AB: 1727
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/013
+ENTITÄT: museum
+BEZEICHNUNG: Jüdisches Kulturmuseum
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1994
+  gebäude: Synagoge von 1730
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/014
+ENTITÄT: bahnhof
+BEZEICHNUNG: Bahnhof Veitshöchheim
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1855
+  erbauer: Gottfried v. Neureuther
+  bahnlinie: Ludwigs-Westbahn (Würzburg–Aschaffenburg)
+  besonderheit: Königspavillon unter König Max II. von Bayern
+GUELTIG_AB: 1855
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/015
+ENTITÄT: institution
+BEZEICHNUNG: Königliche Wein-, Obst- und Gartenbauschule
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auch_genannt: Bayerische Landesanstalt für Weinbau und Gartenbau
+  einrichtung: 1902
+  lage: ehemalige Versorgungsbauten des Hofgartens
+GUELTIG_AB: 1902
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/016
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Staustufe Erlabrunn
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1931-1934
+  funktion: Regulierung des Mains
+GUELTIG_AB: 1931
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/017
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Christuskirche
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1963
+GUELTIG_AB: 1963
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/018
+ENTITÄT: kirche
+BEZEICHNUNG: Kuratie-Kirche Heilige Dreifaltigkeit
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1966
+ORTSTEIL_BEZUG: Gartensiedlung
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/019
+ENTITÄT: kaserne
+BEZEICHNUNG: Balthasar-Neumann-Kaserne
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1965
+  erste_garnison: 12. Panzerdivision
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/020
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Ludwig-Volk-Steg
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  über: Main
+  erbaut: 1967
+GUELTIG_AB: 1967
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/021
+ENTITÄT: gebäude
+BEZEICHNUNG: Geisbergbad
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1968
+  sanierung_fertigstellung: 2007
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/022
+ENTITÄT: gebäude
+BEZEICHNUNG: Dreifachsporthalle
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung: 1998
+  besonderheit: mit Lehrschwimmbecken
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/023
+ENTITÄT: schule
+BEZEICHNUNG: Gymnasium Veitshöchheim
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezug: 2000
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/024
+ENTITÄT: institution
+BEZEICHNUNG: Berufsförderungswerk für erwachsene Blinde und Sehbehinderte
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1980
+  heutiger_name: Berufsförderungswerk Würzburg gGmbH
+  erweiterung: 2004
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/025
+ENTITÄT: platz
+BEZEICHNUNG: Erwin-Vornberger-Platz
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  umrahmt_von: katholische Pfarrkirche St. Vitus und Kavaliersbauten des Hofgartens
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/026
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Mainuferpromenade
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: Anlegestelle für Ausflugsschiffe aus Würzburg
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 147-veitshoechheim/027
+ENTITÄT: gebäude
+BEZEICHNUNG: Mainfrankensäle
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/sehenswertes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1981
+  sanierung_zeitraum: 2013-2015
+  wiedereröffnung: 2015
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/028
+ENTITÄT: fernsehsendung
+BEZEICHNUNG: Fastnacht in Franken
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sender: Bayerischer Rundfunk
+  liveübertragung: seit über 30 Jahren
+  sendungsort: Mainfrankensäle
+GUELTIG_AB: 1982
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/029
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gadheim
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung: 1301
+  besonderheit: Standort geografischer EU-Mittelpunkt seit 2020
+GUELTIG_AB: 1301
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/030
+ENTITÄT: punkt_geographisch
+BEZEICHNUNG: Geografischer Mittelpunkt der Europäischen Union
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Gadheim
+EIGENSCHAFTEN:
+  gültig_seit: 2020
+  grund_verschiebung: Austritt Großbritannien aus der EU (Brexit)
+  vorgängerstandort: Westerngrund bei Aschaffenburg
+GUELTIG_AB: 2020
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/031
+ENTITÄT: weinklasse
+BEZEICHNUNG: Veitshöchheimer Sonnenschein
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/weinbau | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frühere_anbaugebiete: Talsberg, Fachtel
+  größe_ha: 20
+  anbaugeschichte_seit: 779
+GUELTIG_AB: 779
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/032
+ENTITÄT: weinklasse
+BEZEICHNUNG: Veitshöchheimer Wölflein
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/weinbau | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  größe_ha: 20
+GUELTIG_AB: 1000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 147-veitshoechheim/033
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Weinlehrpfad
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/weinbau | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angelegt: 2009
+  länge_km: 2
+  lage: Birkental
+  stationen_anzahl: 14
+ORTSTEIL_BEZUG: Birkental
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/034
+ENTITÄT: wappen
+BEZEICHNUNG: Ortswappen Veitshöchheim
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: auf rotem Schild St. Vitus in dreifüßigem gelbem Kessel, links und rechts je ein gelber Stern
+  verliehen: 1563
+  verleiher: Fürstbischof Friedrich von Wirsberg
+  symbolik: Ortspatron Vitus und sein Martyrium
+GUELTIG_AB: 1563
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/035
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Geithain
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Deutschland
+  bundesland: Sachsen
+  partnerschaft_seit: 1990
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/036
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Greve in Chianti
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Italien
+  partnerschaft_seit: 1994
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/037
+ENTITÄT: partnerregion
+BEZEICHNUNG: Pays de Pont l'Évêque
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  partnerschaft_seit: 1995
+GUELTIG_AB: 1995
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/038
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Rotava
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Tschechien
+  auch_genannt: Rothau
+  partnerschaft_seit: 2006
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/039
+ENTITÄT: institution
+BEZEICHNUNG: Bayerische Kammeroper Veitshöchheim
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1982
+  auflösung: 2012
+GUELTIG_AB: 1982
+GUELTIG_BIS: 2012
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/040
+ENTITÄT: verein
+BEZEICHNUNG: Sing- und Musikschule Veitshöchheim
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1978
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/041
+ENTITÄT: stadtteil
+BEZEICHNUNG: Gartensiedlung
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: ab 1949
+GUELTIG_AB: 1949
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/042
+ENTITÄT: stadtteil
+BEZEICHNUNG: Setz
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baugebiet_ab: 1955
+GUELTIG_AB: 1955
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/043
+ENTITÄT: stadtteil
+BEZEICHNUNG: Birkental
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baugebiet_ab: 1972
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/044
+ENTITÄT: stadtteil
+BEZEICHNUNG: Sandäcker
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erster_spatenstich: 2018
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/045
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Maintalbrücke der DB
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1988
+GUELTIG_AB: 1988
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/046
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Freisportanlage
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1991
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/047
+ENTITÄT: institution
+BEZEICHNUNG: St. Markushof
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Gadheim
+EIGENSCHAFTEN:
+  eröffnung: 1993
+  erweiterung: 2004
+  betreiber: Berufsbildungswerk Caritas – Don Bosco gGmbH Würzburg
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/048
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Umgehungsstraße B 27
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1970
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/049
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Zentralkläranlage des Zweckverbands Maintal Würzburg
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 1970
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/050
+ENTITÄT: gebäude
+BEZEICHNUNG: Rathaus
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 1972
+  umbau_von: ehemaliger Kavaliersbau
+  sanierung_fertigstellung: 2019
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/051
+ENTITÄT: ereignis
+BEZEICHNUNG: Sanierung des Altorts
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1984-1995
+  maßnahmen: Umgestaltung des Straßenraums, Weinbergsflurbereinigung
+GUELTIG_AB: 1984
+GUELTIG_BIS: 1995
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/052
+ENTITÄT: verein
+BEZEICHNUNG: Veitshöchheimer Carnevalclub
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/traditionen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: Prunksitzungen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 147-veitshoechheim/053
+ENTITÄT: verein
+BEZEICHNUNG: Tanz-Sport-Garde
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/traditionen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: Auftritte bei Fastnachtsveranstaltungen
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 147-veitshoechheim/054
+ENTITÄT: verein
+BEZEICHNUNG: Freiwillige Feuerwehr Veitshöchheim
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/traditionen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: Aufstellung des Maibaums
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 147-veitshoechheim/055
+ENTITÄT: verein
+BEZEICHNUNG: Musikverein Veitshöchheim
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/traditionen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: spielt bei Maibaum-Aufstellung
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 147-veitshoechheim/056
+ENTITÄT: tradition
+BEZEICHNUNG: Maibaum-Aufstellung
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/traditionen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  termin: 30. April
+  ort: Ortsmitte
+GUELTIG_AB: 1800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/057
+ENTITÄT: tradition
+BEZEICHNUNG: Altort-Weihnacht
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/traditionen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: Erwin-Vornberger-Platz
+  zeitraum: Adventswochenenden
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 147-veitshoechheim/058
+ENTITÄT: bahn
+BEZEICHNUNG: Main-Spessart-Bahn
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/zahlen-fakten/lage-anreise | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betreiber: Regionalbahn
+  frequenz: stündlich
+GUELTIG_AB: 1855
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/059
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Personenschifffahrt
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/zahlen-fakten/lage-anreise | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betriebszeit: April bis Oktober
+  ziel: Würzburg (Alter Kranen)
+  fahrtdauer_min: 45
+  frequenz: mehrmals täglich
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 147-veitshoechheim/060
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Schallschutzwand der DB
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 2018
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 147-veitshoechheim/061
+ENTITÄT: zertifizierung
+BEZEICHNUNG: Fair-Trade-Gemeinde
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zertifizierung: 2017
+  verlängerung: 2019
+GUELTIG_AB: 2017
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 147-veitshoechheim/062
+ENTITÄT: auszeichnung
+BEZEICHNUNG: Goldmedaille Entente Florale
+QUELLE: https://www.gemeinde-veitshoechheim.de/unser-ort/ortsgeschichte/geschichtlicher-ueberblick | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wettbewerb: bundesweiter Wettbewerb „Entente Florale"
+  auszeichnungsjahr: 2009
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+

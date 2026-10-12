@@ -1,0 +1,174 @@
+ENTITÄT: ort
+BEZEICHNUNG: Heigenbrücken
+QUELLE: https://www.heigenbruecken.de/chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 1477
+  erste_urkundliche_bezeichnung: "Heygerbruch"
+  erste_erwähnung_kontext: Errichtungsurkunde der Pfarrei Wiesthal
+  entwicklung_aus: Glashütte (vermutlich)
+  genauigkeit_entwicklung: "vermutlich"
+  charakter_bis_20_jh: bettelarme Gemeinde
+  namensherkunft_implikation: mögliche Herkunft vom Fluss-Zusammenfluss (Kurze Lohr und Dorfquell)
+  wirtschaft_früher: Glasproduktion, später Steinindustrie
+  steinindustrie_grund: Verordnung von oben
+  steinindustrie_hochblüte: nach Eisenbahnanbindung (Mitte 19. Jahrhundert)
+  eisenbahn_gebaut: Mitte 19. Jahrhundert
+  eisenbahn_bedeutung: Steinindustrie, Holzexport, Arbeitsplätze, Pendelverkehr
+  freischwimmbad_erstes: im Spessart, 1929
+  skisprungwettbewerbe: nach Krieg im Winterloch stattfindend
+  wildgehege: Bächlesgrund, Ende 1960er Jahre
+  kur_rehabilitationszentrum: 1977
+  kurpark: Mitte 1980er Jahre
+  fremdenverkehr_ausgelöst_durch: Bahnstation und damit verbundene Öffnung
+  verwaltungsgemeinschaft_partner: Heinrichsthal
+  verwaltungsgemeinschaft_sitz: Heigenbrücken
+  verwaltungsgemeinschaft_bildung: seit 1972 mit Jakobsthal verbunden
+  bevölkerung_arbeitsort_hauptsächlich: Aschaffenburg und Frankfurt
+GUELTIG_AB: 1477
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: region
+BEZEICHNUNG: Spessart
+QUELLE: https://www.heigenbruecken.de/chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: Spechts-hart (Spechts-Wald)
+  erste_namensnennung: 839
+  besiedlung_im_inneren_um_839: unbesiedelt
+  umwandlung_funktion: Jagdgebiet ab Jahrtausendwende
+  jagdgebiet_nutzer: Könige und Kaiser
+  folgemaßnahme_besiedlung: Fürsten siedelten Personal zur Jagd an
+  glasproduktion_beginn: ab ca. 1400
+  glasproduktion_erste_belege: 1432, vier Glashütten
+  glasproduktion_orte: Heigenbrücken, Habichsthal, Neuhütten, Krommenthal
+GUELTIG_AB: 839
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: glashütten_ensemble
+QUELLE: https://www.heigenbruecken.de/chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_beginn: ca. 1400
+  erste_urkundliche_erwähnung: 1432
+  anzahl_1432: 4
+  1432_unterordnung: Rothenbücher Forstmeister (Abgabenzahlung)
+  vermutliche_nachfolgesiedlungen: Heigenbrücken, Habichsthal, Neuhütten, Krommenthal
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Ältestes Haus Heigenbrückens (Fachwerkhaus)
+QUELLE: https://www.heigenbruecken.de/chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauart: Fachwerkhaus
+  lage_beschreibung: gegenüber vom Rathaus
+  datierung: 1562
+  datierung_quelle: Jahreszahl auf Türsturz im Keller
+GUELTIG_AB: 1562
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Jakobsthal
+ORTSTEIL_BEZUG: Jakobsthal
+QUELLE: https://www.heigenbruecken.de/chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entfernung_zu_heigenbrücken: ca. 5 km
+  ursprung: Glasbläser
+  gründungsjubiläum_300_jahre: 1972
+  gründung_impliziert: ca. 1672
+  eingemeindung_jahr: 1972
+  eingemeindung_kontext: Gebietsreform
+GUELTIG_AB: 1672
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gewässer
+BEZEICHNUNG: Kurze Lohr und Dorfquell
+QUELLE: https://www.heigenbruecken.de/chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zusammenfluss: Ort Heigenbrücken
+  dorfquell_früher: Brunnen neben Gemeindehaus gefasst
+  bedeutung_historisch: mutmaßlicher Standort erste Glashütte
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Katholische Pfarrgemeinde Heigenbrücken
+QUELLE: https://www.heigenbruecken.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindung_gemeinde: eng mit Gemeinde verbunden und in Herzen verankert
+  beitrag_gesellschaft: bürgerliches Miteinander, soziales und ehrenamtliches Engagement, Kulturpflege
+  adresse: Pfarrgasse 6, 63869 Heigenbrücken
+  telefon: 06020 1226
+  fax: 06020 979737
+  e_mail: pfarrei.heigenbruecken@bistum-wuerzburg.de
+  webseite: pg-hochspessart.de
+  pfarrbüro_öffnungszeiten: Dienstag 15:00-18:00 Uhr, Freitag 09:00-12:00 Uhr
+GUELTIG_AB: 1477
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Heigenbrücken
+QUELLE: https://www.heigenbruecken.de/kirchen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verbindung_gemeinde: eng mit Gemeinde verbunden und in Herzen verankert
+  beitrag_gesellschaft: bürgerliches Miteinander, soziales und ehrenamtliches Engagement, Kulturpflege
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.65
+
+---
+
+ENTITÄT: hotel
+BEZEICHNUNG: Villa Marburg im Park
+QUELLE: https://www.heigenbruecken.de/villa-marburg-im-park | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  klassifizierung: 4-Sterne Hotel
+  erbauer: Rudolf Marburg, Kaufmann aus Frankfurt
+  erbaujahr: 1884
+  funktion_damals: Landhaus
+  lage: zentral in Heigenbrücken, Mitte Deutschlands
+  ausstattung_zimmer: WC, Dusche, Bad, ISDN, TV, Minibar, Föhn, Safe, Balkon, Internetzugang
+  zimmer_anzahl: 20 Doppelzimmer, 15 Junior-Suiten, 3 Suiten
+  gastronomie: Gourmet-Restaurant, Weinstube
+  wellness_einrichtungen: Whirlpool, Sauna, Tecaldarium, Dampfbad
+  außenanlage: Parkanlage mit Liegewiese, Kinderspielplatz
+  adresse: Werner-Wenzel-Straße 1, 63869 Heigenbrücken
+  telefon: 06020 97999-0
+  fax: 06020 97999 999
+  e_mail: info@villa-marburg.de
+  webseite: www.villa-marburg.de
+GUELTIG_AB: 1884
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: naturschutzgebiet
+BEZEICHNUNG: Spessartwiesen
+QUELLE: https://www.heigenbruecken.de/landratsamt-aschaffenburg-sperrung | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Naturschutzgebiet im Bereich Heigenbrücken
+  pflegemaßnahmen: durchgeführt
+GUELTIG_AB:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.60

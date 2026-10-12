@@ -1,0 +1,583 @@
+ID: 148-thuengersheim/001
+ENTITÄT: ort
+BEZEICHNUNG: Thüngersheim
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1098
+  gemarkungsflaeche: 1106 [ha]
+  einwohnerzahl: 2764
+  einwohnerzahl_stand: Juli 2023
+  hoehenlage_rathaus: 167 [m NN]
+  hoehenlage_hoechster_punkt: 365 [m NN]
+  postleitzahl: 97291
+  telefon_vorwahl: 0 93 64
+  kfz_kennzeichen: WÜ
+  landkreis: Würzburg
+  regierungsbezirk: Unterfranken
+  lage_beschreibung: Maintal, nördliches Ende des Landkreises Würzburg, direkt am Fuße der Muschelkalk- und Sandsteinhänge
+  grenzen_westen: Main
+  wird_begrenzt_durch: Main
+  ist_winzerdorf: true
+  entstehung_zeit: ca. 6. Jahrhundert
+  wasserharte: "> 2.5 mmol/l Calciumcarbonat"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 148-thuengersheim/002
+ENTITÄT: ort
+BEZEICHNUNG: Thüngersheim
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/geschichtliches/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohnerzahl: 2800
+  einwohnerzahl_stand: 1998 (900-Jahres-Jubiläum)
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 148-thuengersheim/003
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Thüngersheim
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/geschichtliches/wappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verliehen_durch: Würzburger Bischof Julius Echter von Mespelbrunn
+  verleihung_jahr: 1581
+  verleihung_dokument: Wappenbrief
+  beschreibung: In Rot der auf einem linkshingewendeten grünen Drachen stehende Erzengel Michael in silberner Rüstung und wallendem silbernem Mantel; auf der Brust einen blauen Schild mit silbernem Schrägbalken tragend, der mit drei blauen Ringen belegt ist, in der Rechten ein silbernes Schwert über das Haupt haltend, in der Linken eine goldene Waage, deren rechte Schale niedersinkt
+  farben_fahne: Blau-Weiß-Grün
+  neugenehmigung_datum: 28.02.1952
+  neugenehmigung_behoerde: Staatsministerium des Innern
+  neugenehmigung_grund: Wappen seit etwa 1806 nicht mehr im Siegel benutzt
+  entwurfsfertiger: Dr. Merzbacher, Würzburg
+  zierte_auch_ortsfahne_um: 1616
+  benannt_nach: Geschlechtswappen des Bischofs Julius Echter von Mespelbrunn
+GUELTIG_AB: 1581
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 148-thuengersheim/004
+ENTITÄT: ortsbefestigung
+BEZEICHNUNG: Ortsbefestigung Thüngersheim
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/geschichtliches/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  torhaeuser: 4
+  torhaeuser_erhalten: 3
+  umgeben_von: Mauer und Gräben
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 148-thuengersheim/005
+ENTITÄT: ortsbefestigung
+BEZEICHNUNG: Mauerbefestigung Thüngersheim
+QUELLE: https://www.thuengersheim.de/de/rathaus-service/altortsanierung/historische-aspekte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  material: Bruchsteinmauer aus Rotsandstein
+  entstehungszeit: 2. Hälfte 16. Jahrhundert
+  umgeben_von: Graben
+  anzahl_tore: 4
+  tore_erhalten: 3
+  form: geometrisch regelmäßig
+GUELTIG_AB: 1550
+GUELTIG_BIS: 1806
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 148-thuengersheim/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Michael (Pfarrkirche)
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/geschichtliches/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  vollendung_jahr: 1604
+  erbaut_von: Julius Echter
+  konfession: Katholisch
+  pfarramt_adresse: Untere Hauptstraße 5, 97291 Thüngersheim
+  pfarramt_telefon: 09364 9642
+  pfarrheim_adresse: Untere Hauptstraße 12
+  pfarrheim_telefon: 09364 7189
+  pfarrgemeinde_name: Kath. Pfarrgemeinde St. Michael
+GUELTIG_AB: 1604
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 148-thuengersheim/007
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Georg Anton Urlaub
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/geschichtliches/georg-anton-urlaub | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsjahr: 1713
+  geburtsort: Thüngersheim
+  beruf: Maler
+  todesjahr: 1759
+  genauigkeit_todesjahr: "aus 250. Todestag 2009 berechnet"
+  arbeitete_mit: Tiepolo
+  arbeitsort: Würzburger Residenz
+  anerkennung: Große Anerkennung im Kollegenkreis
+  finanzielle_situation: Nicht glänzend
+GUELTIG_AB: 1713
+GUELTIG_BIS: 1759
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 148-thuengersheim/008
+ENTITÄT: rebanbau
+BEZEICHNUNG: Rebanbau Thüngersheim
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/geschichtliches/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_rebstoecke_jahr: 1154
+GUELTIG_AB: 1154
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 148-thuengersheim/009
+ENTITÄT: weinbau
+BEZEICHNUNG: Weinbau Thüngersheim
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/zahlen-daten-fakten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flaeche: 246 [ha]
+  flaeche_genauigkeit: "ca."
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 148-thuengersheim/010
+ENTITÄT: strasse
+BEZEICHNUNG: Thüngersheimer Leiter
+QUELLE: https://www.thuengersheim.de/de/rathaus-service/altortsanierung/historische-aspekte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Ansteigende Quergassen zwischen Oberer und Unterer Hauptstraße
+  zeit: um 1834
+GUELTIG_AB: 16. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 148-thuengersheim/011
+ENTITÄT: torhaus
+BEZEICHNUNG: Würzburger Tor
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/geschichtliches/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erhaltungszustand: Sehr gut erhalten
+  anzahl_der_torhaeuser_gesamt: 4
+  status: 3 von 4 erhalten
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 148-thuengersheim/012
+ENTITÄT: burg
+BEZEICHNUNG: Ravensburg
+QUELLE: https://www.thuengersheim.de/de/freizeit-tourismus/ravensburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauungszeit: Ende 12. Jahrhundert
+  lage: Sporn bei Thüngersheim
+  erbaut_von: Ministerialen des Bischofs von Würzburg
+  gegenüber_liegende_burg: Burg Falkenberg
+GUELTIG_AB: 1170
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 148-thuengersheim/013
+ENTITÄT: kelter
+BEZEICHNUNG: Historische Kelter
+QUELLE: https://www.thuengersheim.de/de/freizeit-tourismus/sehenswuerdigkeiten/die-kelter | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Nördlich des Ortsausgangs, direkt an den Weinbergen
+  beschreibung: Holzhebelpress (Kelterbaum oder Baumkelter) mit Bohlen, Hölzern und Spindel
+  schutz: Schutzdach gegen Witterungseinflüsse
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 148-thuengersheim/014
+ENTITÄT: brunnen
+BEZEICHNUNG: Muttergottesbrunnen
+QUELLE: https://www.thuengersheim.de/de/freizeit-tourismus/sehenswuerdigkeiten/die-brunnen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Untere Hauptstraße
+  zeit: um Mitte 19. Jahrhundert
+  status_heute: Zierbrunnen
+  urspruengliche_funktion: Öffentliche Wasserversorgung
+GUELTIG_BIS: Anfang 20. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 148-thuengersheim/015
+ENTITÄT: brunnen
+BEZEICHNUNG: Gräulichsbrunnen
+QUELLE: https://www.thuengersheim.de/de/freizeit-tourismus/sehenswuerdigkeiten/die-brunnen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Brunnengässchen (ehemals)
+  zeit: um Mitte 19. Jahrhundert
+GUELTIG_BIS: Anfang 20. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 148-thuengersheim/016
+ENTITÄT: brunnen
+BEZEICHNUNG: Schmiedsbrunnen
+QUELLE: https://www.thuengersheim.de/de/freizeit-tourismus/sehenswuerdigkeiten/die-brunnen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Obere Hauptstraße, neben einer Schmiede
+  zeit: um Mitte 19. Jahrhundert
+GUELTIG_BIS: Anfang 20. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 148-thuengersheim/017
+ENTITÄT: brunnen
+BEZEICHNUNG: Ketten- oder Metzgersbrunnen
+QUELLE: https://www.thuengersheim.de/de/freizeit-tourismus/sehenswuerdigkeiten/die-brunnen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Untere Hauptstraße
+  zeit: um Mitte 19. Jahrhundert
+GUELTIG_BIS: Anfang 20. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 148-thuengersheim/018
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus (neues Rathaus)
+QUELLE: https://www.thuengersheim.de/de/freizeit-tourismus/sehenswuerdigkeiten/das-rathaus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1697
+  fertigstellung: 1699
+  urspruengliche_nutzung: Schulhaus
+  baukosten: 620 [Gulden]
+  baukosten_anteil_kirche: 200 [Gulden]
+  baukosten_anteil_gemeinde: 420 [Gulden]
+  umbau_jahr: 1828
+  veraenderung_umbau: Verlängerung und Aufstockung um ein Stockwerk
+  schulgebaeude_neubau: 1906
+  zentralschulgebaeude: 1962
+  umbau_grundlegend: 1981
+  funktion_seit: 1982 Sitz der Gemeindeverwaltung
+  funktion_zwischennutzung: Wohnhaus, zentrale Milchsammelstelle (ab 1962)
+  hochzeitsglocke: gespendet 1981, von allen Brautpaaren geläutet
+GUELTIG_AB: 1699
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 148-thuengersheim/019
+ENTITÄT: rathaus
+BEZEICHNUNG: Altes Rathaus
+QUELLE: https://www.thuengersheim.de/de/freizeit-tourismus/sehenswuerdigkeiten/das-alte-rathaus | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1579
+  fertigstellung: 1581
+  baukosten: 800 [Gulden]
+  grundriss: Hakengrundriss
+  geschosse: 2
+  konstruktion_erdgeschoss: Stein
+  konstruktion_obergeschoss: Fachwerk mit leichtem Vorkrag
+  giebel: Massive Treppengiebel an den Stirnseiten
+  besonderheit_obergeschoss: Großflächige Amtsstube mit Stuckdecke und vielen Fenstern, als Repräsentativraum konzipiert
+  nutzung_als_rathaus: bis 1981
+GUELTIG_AB: 1581
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 148-thuengersheim/020
+ENTITÄT: buergermeister
+BEZEICHNUNG: Franz Lauk
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit: 1945 (Juni) - 1947
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1947
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 148-thuengersheim/021
+ENTITÄT: buergermeister
+BEZEICHNUNG: Michael Urlaub
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit: 1947 - 1956
+  partei: CSU
+  titel: Altbürgermeister
+GUELTIG_AB: 1947
+GUELTIG_BIS: 1956
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 148-thuengersheim/022
+ENTITÄT: buergermeister
+BEZEICHNUNG: Engelbert Klüpfel
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit: 1956 - 1972
+  partei: UWG
+GUELTIG_AB: 1956
+GUELTIG_BIS: 1972
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 148-thuengersheim/023
+ENTITÄT: buergermeister
+BEZEICHNUNG: Josef Bauermees
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit: 1972 - 1984
+  partei: SPD
+  titel: Altbürgermeister
+GUELTIG_AB: 1972
+GUELTIG_BIS: 1984
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 148-thuengersheim/024
+ENTITÄT: buergermeister
+BEZEICHNUNG: Albert Dausacker
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit: 1984 - 1996
+  partei: CSU
+  titel: Altbürgermeister
+GUELTIG_AB: 1984
+GUELTIG_BIS: 1996
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 148-thuengersheim/025
+ENTITÄT: buergermeister
+BEZEICHNUNG: Wilhelm Remling
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit: 1996 - 2008
+  partei: FWG
+  titel: Altbürgermeister
+GUELTIG_AB: 1996
+GUELTIG_BIS: 2008
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 148-thuengersheim/026
+ENTITÄT: buergermeister
+BEZEICHNUNG: Markus Höfling
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit: 2008 - 2020
+  partei: CSU/BüBew
+  titel: Altbürgermeister
+GUELTIG_AB: 2008
+GUELTIG_BIS: 2020
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 148-thuengersheim/027
+ENTITÄT: buergermeister
+BEZEICHNUNG: Michael Röhm
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amtszeit: 2020 - 2026
+  partei: BüBew
+GUELTIG_AB: 2020
+GUELTIG_BIS: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 148-thuengersheim/028
+ENTITÄT: ehrenbueger
+BEZEICHNUNG: Eugen Gärtner
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ehrenbuerger_seit: 23.02.1968
+  grund: Besondere Verdienste für die Gemeinde Thüngersheim
+  verst_am: 01.09.1981
+GUELTIG_AB: 1968
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 148-thuengersheim/029
+ENTITÄT: ehrenbueger
+BEZEICHNUNG: Pfarrer Hans Carl
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ehrenbuerger_seit: 18.09.1977
+  grund: Besondere Verdienste für die Gemeinde Thüngersheim
+  verst_am: 02.11.1992
+GUELTIG_AB: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 148-thuengersheim/030
+ENTITÄT: buergermedaillentraeger
+BEZEICHNUNG: Joachim Oechsner
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  medaille_gold_jahr: 2009
+  medaille_gold_grund: Deutscher Meister 2008 und Weltmeister bei der 24-Stunden-Mountainbike-Weltmeisterschaft
+  medaille_silber_jahr: 2003
+  medaille_silber_grund: Vizeweltmeister der Mountainbiker
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 148-thuengersheim/031
+ENTITÄT: buergermedaillentraeger
+BEZEICHNUNG: Peter Günther
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  medaille_silber_jahr: 2001
+  medaille_silber_grund: 40 Jahre Chorleitung des Gesangverein 1862 Thüngersheim e.V.
+  medaille_gold_jahr: 2011
+  medaille_gold_grund: 50-jährige Leitung des Männerchores des Gesangverein 1862 Thüngersheim e.V.
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 148-thuengersheim/032
+ENTITÄT: buergermedaillentraeger
+BEZEICHNUNG: Georg Lutz
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  medaille_silber_jahr: 2004
+  medaille_silber_grund: Großer persönlicher Einsatz bei der Vermarktung des Thüngersheimer Wein über die Ortsgrenzen hinaus
+GUELTIG_AB: 2004
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 148-thuengersheim/033
+ENTITÄT: buergermedaillentraeger
+BEZEICHNUNG: Maria Pröstler
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  medaille_silber_jahr: 2012
+  medaille_silber_grund: Gründerin der Laienspielgruppe 1987 sowie Gründerin des Weihnachtsmarktes im Jahr 1990
+GUELTIG_AB: 2012
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 148-thuengersheim/034
+ENTITÄT: buergermedaillentraeger
+BEZEICHNUNG: Heinrich Urlaub
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  medaille_silber_jahr: 2018
+  medaille_silber_grund: 40 aktive Dienstjahre bei der Freiwilligen Feuerwehr
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 148-thuengersheim/035
+ENTITÄT: buergermedaillentraeger
+BEZEICHNUNG: Emil Öchsner
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  medaille_silber_jahr: 2018
+  medaille_silber_grund: 40 aktive Dienstjahre bei der Freiwilligen Feuerwehr
+GUELTIG_AB: 2018
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 148-thuengersheim/036
+ENTITÄT: buergermedaillentraeger
+BEZEICHNUNG: Heinrich Gutbrod
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  medaille_silber_jahr: 2023
+  medaille_silber_grund: 50 aktive Dienstjahre bei der Freiwilligen Feuerwehr
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 148-thuengersheim/037
+ENTITÄT: buergermedaillentraeger
+BEZEICHNUNG: August Leist
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  medaille_silber_jahr: 2023
+  medaille_silber_grund: 55 Jahre aktiver Dienst beim Roten Kreuz
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 148-thuengersheim/038
+ENTITÄT: buergermedaillentraeger
+BEZEICHNUNG: Peter Volk
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  medaille_silber_jahr: 2023
+  medaille_silber_grund: Seit Beginn des Höfefestes (2007) langjährige, verantwortliche Tätigkeit
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 148-thuengersheim/039
+ENTITÄT: buergermedaillentraeger
+BEZEICHNUNG: Jürgen Weid
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  medaille_silber_jahr: 2023
+  medaille_silber_grund: Seit Beginn des Höfefestes (2007) langjährige, verantwortliche Tätigkeit
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 148-thuengersheim/040
+ENTITÄT: buergermedaillentraeger
+BEZEICHNUNG: Roland Klüpfel
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  medaille_silber_jahr: 2023
+  medaille_silber_grund: 40 aktive Dienstjahre bei der Freiwilligen Feuerwehr
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 148-thuengersheim/041
+ENTITÄT: buergermedaillentraeger
+BEZEICHNUNG: Michael Roth
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/thuengersheimer-persoenlichkeiten | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  medaille_silber_jahr: 2026
+  medaille_silber_grund: Seit Beginn des Höfefestes (2007) langjährige, verantwortliche Tätigkeit
+GUELTIG_AB: 2026
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 148-thuengersheim/042
+ENTITÄT: friedhof
+BEZEICHNUNG: Friedhof Thüngersheim
+QUELLE: https://www.thuengersheim.de/de/leben-wohnen/kirchen-friedhof | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  traeger: Gemeinde (Gemeindeeigentum)
+  graebertypen: Einzelgräber, Familiengräber, Urnengräber
+  zusatzausstattung: Leichenhaus mit Aussegnungsraum
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 148-thuengersheim/043
+ENTITÄT: kirchengemeinde
+BEZEICHNUNG: Evang.-Luth. Kirchengemeinde Veitshöchheim
+QUELLE: https://www.thuengersheim.de/de/leben-wohnen/kirchen-friedhof | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fuer_gemeinde: Thüngersheim
+  pfarramt_adresse: Günterslebener Straße 7, 97209 Veitshöchheim
+  pfarramt_telefon: 0931 91313
+  pfarramt_fax: 0931 91319
+  gemeindehaus_adresse: Günterslebener Straße 15
+  gemeindehaus_telefon: 0931 98565
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 148-thuengersheim/044
+ENTITÄT: fachwerk_haus
+BEZEICHNUNG: Fachwerkhäuser Thüngersheim
+QUELLE: https://www.thuengersheim.de/de/freizeit-tourismus/sehenswuerdigkeiten/fachwerkhaeuser | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: Aus Zeit Julius Echters (1581)
+  haustyp: Häckerhaus
+  beschreibung: Ein dichtes Nebeneinander von Wohn- und Geschäftshäusern mit Abseiten zur Produktion von Wein, mit Ställen, Remisen und Scheunen
+  besonderheit: Einige sehr gut erhaltene oder vollständig restaurierte Fachwerkhäuser in den verwinkelten Gassen des Altortes
+GUELTIG_AB: 1581
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 148-thuengersheim/045
+ENTITÄT: jubilaeum
+BEZEICHNUNG: 900-Jahres-Jubiläum
+QUELLE: https://www.thuengersheim.de/de/gemeinde-weinbau/geschichtliches/geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  grund: Erste urkundliche Erwähnung 1098
+  gefeiert: 1998
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9

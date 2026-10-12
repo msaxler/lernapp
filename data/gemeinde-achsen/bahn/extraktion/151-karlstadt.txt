@@ -1,0 +1,557 @@
+ENTITÄT: ort
+BEZEICHNUNG: Karlstadt
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_jahr_von: 1198
+  gründung_jahr_bis: 1202
+  gründer: Bischof Konrad I. von Querfurt
+  erste_urkundliche_erwähnung: 1225
+  benannt_nach: Karolinger (karolingische Zeit mit villa karloburgo und castellum carloburgo)
+  genauigkeit: vermutlich
+  ist_kreisstadt: true
+  gueltig_ab_kreisstadt: 1973
+  landkreis: Main-Spessart
+  fluss: Main
+  einwohner_stadt_hauptort: 7061
+  einwohner_stadt_gesamt_mit_stadtteilen: 15072
+  einwohner_stand: 2024-01-01
+  jubilaeum_800_jahre: 2000
+  industriebetriebe_ca: 25
+  einzelhandelsumsaetze_ca_mio_eur: 79.44
+  arbeitsplaetze: 4598
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: burganlage
+BEZEICHNUNG: Karlsburg
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/0562:563:568/tn_563/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Felssporn über dem Main
+  typ: früh- bis hochmittelalterliche Burganlage
+  zeitstufe_karolingisch: villa karloburgo und castellum carloburgo
+  periode_karolingisch_von: 7
+  periode_karolingisch_bis: 9
+  beschreibung: sagenumwoben, thront von weitem sichtbar
+  zerstoerung_ereignis: Zerstörung im Bauernkrieg
+  zerstoerung_jahr: 1525
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: gebäude
+BEZEICHNUNG: Historisches Rathaus
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:77:523/tn_77/Historisches_Rathaus.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1422
+  adresse: Hauptstraße, Karlstadt
+  funktion: Sitz der Stadtverwaltung, Mietung für Veranstaltungen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Pfarrkirche Karlstadt
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung_pfarrei: 1339
+  umgestaltung_von: 1370
+  umgestaltung_bis: 1515
+  umgestaltung_von_stil: romanisch
+  umgestaltung_zu_stil: gotischer Hallenbau
+  beschreibung: erste romanische Pfarrkirche durchgreifend zu gotischem Hallenbau umgestaltet
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: spital
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_jahr: 1369
+GUELTIG_AB: 1369
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Spitalkirche
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baubeginn: 1438
+  kontext_jahrmärkte_bestätigung: 1438
+  beschreibung: Bau der Spitalkirche; gleichzeitige Bestätigung von vier altprivilegierten Jahrmärkten und einem Wochenmarkt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Museum Karlstadt
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/0562:567/tn_567/Museum_Karlstadt.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  adresse: Hauptstraße 9, 97753 Karlstadt
+  wiedereroeffnung_nach_sanierung: 2022-05
+  sanierungsdauer_jahre: 5
+  abteilungen: ZeitBRÜCHE, StadtGESCHICHTE
+  abteilung_zeitbruecke_fokus: Kunstwerke als Seismografen der Reformationszeit und Umbruchsituationen, Fachwerkstuben aus dem 16. Jahrhundert
+  abteilung_stadtgeschichte_fokus: Karolinger am Main, Siedlungsraum Vorgeschichte, Geologie, Stadtarchäologie, Weinbau
+  oeffnungszeiten_april_oktober: täglich 10:00-18:00 Uhr
+  oeffnungszeiten_november_maerz: geschlossen
+  eintritt_erwachsene_euro: 4
+  besonderheit_baudenkmal: Gebäude aus dem 14. Jahrhundert, über 500 Jahre erhaltene Fachwerkstuben unverändert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: verein
+BEZEICHNUNG: Historischer Verein Karlstadt
+QUELLE: https://www.historischer-verein-karlstadt.de/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  offizielle_bezeichnung: Freunde der Geschichte Karlstadts und seines Umlandes e. V.
+  gründung_jahr: 1972
+  gründung_zeitraum: Frühjahr
+  geschichte_jahre_mindestalter: 50
+  adresse_abteilung_stadtgeschichte: Hauptstraße 11, 97753 Karlstadt
+  oeffnungszeiten_april_oktober: täglich 10:00-18:00 Uhr
+  tätigkeitsgebiet_stadtteile: Gambach, Heßlar, Karlburg, Karlstadt, Laudenbach, Mühlbach, Rohrbach, Stadelhofen, Stetten, Wiesenfeld
+  ziele: Erforschung der Ortsgeschichte; Kontakte zu Stadt und Landkreis; Exkursionen; Schutz historisch gewachsener Bilder
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: brücke
+BEZEICHNUNG: Mainbrücke
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau_jahr: 1880
+  fluss: Main
+GUELTIG_AB: 1880
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: industriebetrieb
+BEZEICHNUNG: Zementfabrik
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anfaenge_jahr: 1887
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: industriebetrieb
+BEZEICHNUNG: Eisenwerk
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung_jahr: 1914
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: bahnhof
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  inbetriebnahme: 1854
+GUELTIG_AB: 1854
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: stadtsiegels
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fruehester_nachweis: 1277
+GUELTIG_AB: 1277
+IST_VERMUTWEISE_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: stadtbefestigung
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1304
+  abtraegung_von: 1839
+  abtraegung_bis: 1895
+GUELTIG_AB: 1304
+GUELTIG_BIS: 1895
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: muenzstaette
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status: bischöfliche Münzstätte
+  zeitraum: kurze Zeit
+  gueltig_ab: 1400
+  gueltig_bis: 1400
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Pest in Karlstadt
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_jahr: 1475
+  todesfaelle: 700
+GUELTIG_AB: 1475
+GUELTIG_BIS: 1475
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Zerstörung Karlburg in der Rienecker Fehde
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_jahr: 1236
+  betroffene_orte: Burg und Dorf Karlburg
+  grund: Rienecker Fehde
+GUELTIG_AB: 1236
+GUELTIG_BIS: 1236
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Zerstörung Karlsburg im Bauernkrieg
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_jahr: 1525
+  grund: Bauernkrieg
+  folge: Blutgericht an Aufständischen auf dem Marktplatz
+GUELTIG_AB: 1525
+GUELTIG_BIS: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Hochwasser des Maines
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_jahr: 1784
+  beschreibung: Großes Hochwasser
+  fluss: Main
+GUELTIG_AB: 1784
+GUELTIG_BIS: 1784
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Schwedische Besetzung im Dreißigjährigen Krieg
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_von: 1631
+  zeitraum_bis: 1634
+  akteur: Schweden
+  kontext: Dreißigjähriger Krieg
+GUELTIG_AB: 1631
+GUELTIG_BIS: 1634
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Beschuss Karlstadts im 2. Weltkrieg
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_jahr: 1945
+  beschreibung: Starke Schäden in der Altstadt
+  ursache: amerikanischer Artilleriebeschuss
+GUELTIG_AB: 1945
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Eingemeindung Gambach
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_jahr: 1971
+  anlass: Gemeinde-Gebietsreform
+GUELTIG_AB: 1971
+GUELTIG_BIS: 1971
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Eingemeindung Stadtteile
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_jahr: 1978
+  eingemeindete_orte: Heßlar, Karlburg, Laudenbach, Mühlbach, Rohrbach, Stadelhofen, Stetten, Wiesenfeld
+GUELTIG_AB: 1978
+GUELTIG_BIS: 1978
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: reformation
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bekenntnis_zu_luther_jahr: 1540
+  beschreibung: Bürger bekennen sich mehrheitlich zur Lehre Luthers
+GUELTIG_AB: 1540
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gegenreformation
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_von: 1579
+  zeitraum_bis: 1600
+  leiter: Bischof Julius Echter
+GUELTIG_AB: 1579
+GUELTIG_BIS: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kloster
+BEZEICHNUNG: Kapuzinerkloster
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bau_von: 1670
+  bau_bis: 1674
+  aufgeloest_jahr: 1976
+GUELTIG_AB: 1670
+GUELTIG_BIS: 1976
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: verpfaendung
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum_von: 1409
+  zeitraum_bis: 1493
+  empfaenger: Domkapitel
+  aufloesende_person: Bischof Rudolf von Scherenberg
+GUELTIG_AB: 1409
+GUELTIG_BIS: 1493
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: weinbau
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung: 1244
+  abteilung_museum_fertigstellung: 2026
+GUELTIG_AB: 1244
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gambach
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:164/tn_78/Zahlen_Daten_Fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1207
+  einwohner_stand: 2024-01-01
+  eingemeindung: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Heßlar
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:164/tn_78/Zahlen_Daten_Fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 350
+  einwohner_stand: 2024-01-01
+  eingemeindung: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Karlburg
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:164/tn_78/Zahlen_Daten_Fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1981
+  einwohner_stand: 2024-01-01
+  eingemeindung: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Laudenbach
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:164/tn_78/Zahlen_Daten_Fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1124
+  einwohner_stand: 2024-01-01
+  eingemeindung: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mühlbach
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:164/tn_78/Zahlen_Daten_Fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 461
+  einwohner_stand: 2024-01-01
+  eingemeindung: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Rohrbach
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:164/tn_78/Zahlen_Daten_Fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 449
+  einwohner_stand: 2024-01-01
+  eingemeindung: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Stadelhofen
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:164/tn_78/Zahlen_Daten_Fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 183
+  einwohner_stand: 2024-01-01
+  eingemeindung: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Stetten
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:164/tn_78/Zahlen_Daten_Fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1074
+  einwohner_stand: 2024-01-01
+  eingemeindung: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ortsteil
+BEZEICHNUNG: Wiesenfeld
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:164/tn_78/Zahlen_Daten_Fakten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 1182
+  einwohner_stand: 2024-01-01
+  eingemeindung: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Maen Roch
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  früherer_name: Saint-Brice-en-Coglès
+  land: Frankreich
+  status: Partnerstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Mühlbach/Gais
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Österreich
+  status: Partnerstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Querfurt
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Deutschland
+  status: Partnerstadt
+  historischer_bezug: Bischof Konrad I. von Querfurt gründete Karlstadt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Cuckfield
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/060:78:162/tn_78/Stadtgeschichte.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: England
+  status: Partnerschaft beendet
+GUELTIG_BIS: unbekannt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ausflugsziel
+BEZEICHNUNG: Edelweiß
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/0562:563:568/tn_563/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Aussichtspunkt
+  lage: hoch über dem Main
+  besuchergruppen: Wanderer, Kletterer, Radfahrer
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: ausflugsziel
+BEZEICHNUNG: terroir f Karlstadt-Stetten
+QUELLE: https://www.karlstadt.de/seite/de/cms1210202620075841f10235/0562:563:568/tn_563/Sehenswuerdigkeiten.html | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Stetten
+EIGENSCHAFTEN:
+  thema: Wein und Main
+  lage: sonnenverwöhnte Steillagen
+  weinlage: Stettener Stein
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
