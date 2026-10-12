@@ -1,0 +1,576 @@
+ID: 122-lindau/001
+ENTITÄT: ort
+BEZEICHNUNG: Lindau
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Zahlen-Daten-Statistik/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_kreisstadt: true
+  einwohner: 25845
+  staat: Bayern
+  region: Bodensee
+  lage: südwestlichste Stadt Bayerns, Dreiländereck Deutschland-Österreich-Schweiz
+  fläche: 3300 [ha]
+GUELTIG_AB: 2024
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 122-lindau/002
+ENTITÄT: ort
+BEZEICHNUNG: Lindau
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: Insel, auf der Lindenbäume wachsen
+  status: Freie Reichsstadt
+  status_ab: 1274
+  wurde_evangelisch: 1528
+  konfession_nach_reformation: evangelisch
+GUELTIG_AB: 882
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 122-lindau/003
+ENTITÄT: villa
+BEZEICHNUNG: Villa
+ORTSTEIL_BEZUG: Aeschach
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 200 [ca.]
+  besonderheit: bedeutendste Zeugnis der römischen Siedlungstätigkeit in der Region
+  besonderheit_standort: Römerpark
+GUELTIG_AB: 200
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/004
+ENTITÄT: stadtwappen
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  nachweisbar_seit: 13
+  bezug_ursprünglich: adliges Frauenkloster auf der Insel
+GUELTIG_AB: 1300
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/005
+ENTITÄT: kloster
+BEZEICHNUNG: Damenstift (Frauenkloster)
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: Frauenkloster
+  gründungsjahr: 882
+  gründer: Graf Adalbert von Rätien
+  gründung_grund: Dank für Rettung aus Seenot
+  gründung_grund_genauigkeit: vermutlich
+  gebäude_erhalten: Münster Unserer Lieben Frau, Amtsgericht, Landratsamt
+  verlegung_markt: 1079
+  konfession: katholisch
+  äbtissin_1782_1796: Friederike von Bretzenheim
+GUELTIG_AB: 882
+GUELTIG_BIS: 1802
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 122-lindau/006
+ENTITÄT: kirche
+BEZEICHNUNG: Peterskirche
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: ältester Gotteshaus Lindaus
+  zeitlicher_bezug: 9. Jahrhundert
+  besonderheit: Wandmalereien von Hans Holbein d.Ä. (Lindauer Passion)
+GUELTIG_AB: 900
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 122-lindau/007
+ENTITÄT: kirche
+BEZEICHNUNG: St. Stephan
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: evangelisch
+  besonderheit_brand_1728: verschont beim Stadtbrand von 1728
+GUELTIG_AB: 1400
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/008
+ENTITÄT: kirche
+BEZEICHNUNG: Münster Unserer Lieben Frau
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: katholisch
+  herkunft: ehemaliges Stift
+  erneuerung_barocke_periode: 1728
+  schadensfall: Stuckdecke einstürz 1987
+GUELTIG_AB: 882
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/009
+ENTITÄT: kirche
+BEZEICHNUNG: Franziskaner-Klosterkirche
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besiedlung: 1224
+  orden: Franziskaner (Barfüßer)
+  nachnutzung_heute: Stadttheater
+  adresse: Fischergasse 37
+GUELTIG_AB: 1224
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 122-lindau/010
+ENTITÄT: hospital
+BEZEICHNUNG: Heilig-Geist-Hospital
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ersterwähnung: 1237
+  art: evangelische Hospitalstiftung
+  standort: zwischen Stadtmauer und Schmiedgasse
+  bestand: bis heute an Originalstandort
+GUELTIG_AB: 1237
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 122-lindau/011
+ENTITÄT: rathaus
+BEZEICHNUNG: Altes Rathaus
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1422-1436
+  vorheriger_standort: Rebgarten
+  ereignis_1496: Reichstag mit Herzog Philipp von Burgund
+  freskenband: zeigt Einzug Herzog Philipps von Burgund
+  heutige_nutzung: Ehemals Reichsstädtische Bibliothek (Erdgeschoss), gotischer Saal (1. Stock)
+GUELTIG_AB: 1422
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 122-lindau/012
+ENTITÄT: bürgerhaus
+BEZEICHNUNG: Haus Zum Sünfzen
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1358
+  bauherr: Gesellschaft Zum Sünfzen (Patrizier-Zusammenschluss)
+  adresse: Maximilianstr. 1
+  erhalten: ja
+GUELTIG_AB: 1358
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/013
+ENTITÄT: infrastruktur_service
+BEZEICHNUNG: Mailänder Boten
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: regelmäßiger Dienst für Transport von Nachrichten, Waren und Personen
+  route: Bodensee über Rheintal und Bündner Pässe nach Oberitalien
+  betrieb: spätes Mittelalter bis 1826
+GUELTIG_AB: 1400
+GUELTIG_BIS: 1826
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/014
+ENTITÄT: event
+BEZEICHNUNG: Reichstag 1496/97
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1496
+  ort: Altes Rathaus
+  teilnehmer: Reichsfürsten und Reichsstädte
+  besonderheit: Herzog Philipp von Burgund vertrat Kaiser Maximilian I.
+GUELTIG_AB: 1496
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 122-lindau/015
+ENTITÄT: ereignis_militär
+BEZEICHNUNG: Belagerung Lindaus
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: 1646-1647
+  kontext: 30-jähriger Krieg
+  angreifer: schwedische Truppen
+  verteidigung: Bürger und kaiserliche Besatzung unter Graf Waldburg-Wolfegg
+  ausgang: erfolgreiche Abwehr, Lindau von Plünderungen verschont
+GUELTIG_AB: 1646
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 122-lindau/016
+ENTITÄT: person
+BEZEICHNUNG: Valentin Heider
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Diplomat
+  zeit: 1648
+  leistung: maßgeblicher Anteil an der Garantie von politischer und konfessioneller Eigenständigkeit Lindaus im Westfälischen Frieden
+GUELTIG_AB: 1648
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/017
+ENTITÄT: ereignis
+BEZEICHNUNG: Stadtbrand
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1728
+  auswirkung: verwüstete Stiftsbezirk und angrenzende Stadtviertel
+  folge_architektur: barocker Wiederaufbau von Stift, Stiftskirche und Markt
+  exception: evangelische Stephanskirche bleibt verschont
+GUELTIG_AB: 1728
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 122-lindau/018
+ENTITÄT: event_regelmäßig
+BEZEICHNUNG: Lindauer Kinderfest
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Historisches-Kinderfest/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprung: Schulpredigten seit 1655
+  tradition_dauer: 370 Jahre
+  beschreibung: größtes Heimatfest in Lindau
+  termin: letzter Mittwoch vor bayerischen Sommerferien
+GUELTIG_AB: 1655
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 122-lindau/019
+ENTITÄT: person
+BEZEICHNUNG: Friederike von Bretzenheim
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Äbtissin des Lindauer Damenstifts
+  amtszeit: 1782-1796
+  literarische_inspiration: Vorbild für weibliche Hauptfigur in "Der liebe Augustin" von Horst Wolfram Geißler
+  roman_veröffentlichung: 1921
+GUELTIG_AB: 1782
+GUELTIG_BIS: 1796
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/020
+ENTITÄT: person
+BEZEICHNUNG: Horst Wolfram Geißler
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Schriftsteller
+  todesjahr: 1983
+  werk: Roman "Der liebe Augustin"
+  werk_veröffentlichung: 1921
+  werk_status: Lindauer "Nationalepos"
+GUELTIG_AB: 1921
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/021
+ENTITÄT: schiff
+BEZEICHNUNG: Ludwig
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  art: erstes eisernes Dampfschiff
+  gewässer: Bodensee
+  betrieb_beginn: 1838
+  superlativ: erstes eisernes Dampfschiff auf dem Bodensee
+GUELTIG_AB: 1838
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 122-lindau/022
+ENTITÄT: gebäude_wohnbau
+BEZEICHNUNG: Lindenhofvilla
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: 1842-1847
+  erbauer: F. Gruber
+  erbauer_beschreibung: in Italien zu Vermögen gekommener Lindauer Großkaufmann
+  lage: Schachener Seeufer
+  einfluss: Anlass für Villengürtel an Bayerischer Riviera, Nachahmer einschließlich bayerische Königsfamilie
+GUELTIG_AB: 1842
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/023
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Eisenbahndamm
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1853-1854
+  erreicht: Inselstadt Lindau
+GUELTIG_AB: 1853
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/024
+ENTITÄT: hafen
+BEZEICHNUNG: Seehafen
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1856
+  funktion: Schnittstelle für Dampfschifffahrt und Eisenbahn
+  architektur_charakter: repräsentativ als südwestliche Eingangspforte Bayerns
+  ausstattung: Leuchtturm und bayerischer Löwe
+  symbol: Wahrzeichen Lindaus
+  erwerb_durch_stadt: 2010
+GUELTIG_AB: 1856
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 122-lindau/025
+ENTITÄT: infrastruktur_energie
+BEZEICHNUNG: Elektrizitätswerk
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betrieb_beginn: 1900
+GUELTIG_AB: 1900
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/026
+ENTITÄT: kaserne
+BEZEICHNUNG: Luitpoldkaserne
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut: 1903
+  ortsteil: Hintere Insel
+  benannt_nach: bayerischer Prinzregent
+  nachnutzung_2002: Luitpoldpark (Wirtschafts- und Bildungszentrum)
+GUELTIG_AB: 1903
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/027
+ENTITÄT: event_naturphänomen
+BEZEICHNUNG: Seegfrörne
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1963
+  beschreibung: ganzer Bodensee zugefroren
+  besonderheit: bislang letzte Seegfrörne
+GUELTIG_AB: 1963
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 122-lindau/028
+ENTITÄT: partnerstadt
+BEZEICHNUNG: Chelles
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  lage: bei Paris
+  partnerschaft_begründung: 1964
+  partnerschaft_art: intensive Partnerschaft
+  jubiläum_50_jahre: 2014
+GUELTIG_AB: 1964
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 122-lindau/029
+ENTITÄT: infrastruktur_stadtentwicklung
+BEZEICHNUNG: Fußgängerzone
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einweihung_erste_teil: 1973
+GUELTIG_AB: 1973
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/030
+ENTITÄT: ortsteil
+BEZEICHNUNG: Reitnau
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1976
+  urkundliche_ersterwähnung: 805
+  ersterwähnung_form: Reitinauwia / (Ober- und Unter-) Reitnau
+GUELTIG_AB: 805
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 122-lindau/031
+ENTITÄT: gebäude_tagungseinrichtung
+BEZEICHNUNG: Inselhalle
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung_initial: 1981
+  beschreibung: modernes Tagungs- und Veranstaltungszentrum
+  sanierung_beginn: 2015
+  funktion: Ort für Nobelpreisträgertagung und andere Kongresse
+GUELTIG_AB: 1981
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/032
+ENTITÄT: infrastruktur_abwasser
+BEZEICHNUNG: Kläranlage
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  fertigstellung: 1998
+  beschreibung: hochmoderne Kläranlage
+GUELTIG_AB: 1998
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/033
+ENTITÄT: event_naturereignis
+BEZEICHNUNG: Jahrhunderthochwasser
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: Pfingsten 1999
+GUELTIG_AB: 1999
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/034
+ENTITÄT: institution_kultur
+BEZEICHNUNG: Nobelpreisträgertagung
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1951
+  beschreibung: Treffen von Nobelpreisträgern mit studentischem Nachwuchs
+  disziplinen_initial: Medizin, Chemie, Physik
+  disziplinen_zusatz: Wirtschaftswissenschaften (seit 2004, zweijährlich)
+  häufigkeit: jährlich (Medizin/Naturwissenschaften), zweijährlich (Wirtschaftswissenschaften)
+GUELTIG_AB: 1951
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 122-lindau/035
+ENTITÄT: institution_kultur
+BEZEICHNUNG: Lindauer Psychotherapiewochen
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1950
+  teilnehmerzahl: über 3000 Ärzte und Psychologen pro Jahr
+  herkunft_teilnehmer: aus aller Welt
+  beschreibung: Forum wissenschaftlicher Fortbildung
+GUELTIG_AB: 1950
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 122-lindau/036
+ENTITÄT: spielstätte
+BEZEICHNUNG: Spielbank Lindau
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betrieb_beginn: 1950
+  neubau: 2000
+GUELTIG_AB: 1950
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 122-lindau/037
+ENTITÄT: person
+BEZEICHNUNG: Felix Wankel
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  wohnort_ab: 1936 in Lindau
+  erfindung: Drehkolben-(Rotations-)Motor
+  patent_jahr: 1954
+  patent_beschreibung: nach ihm benannter Motor
+GUELTIG_AB: 1936
+IST_VERMUTUNG_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 122-lindau/038
+ENTITÄT: institution_museum
+BEZEICHNUNG: Stadtmuseum (Haus zum Cavazzen)
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtportrait/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gebäude: Haus zum Cavazzen
+  beschreibung: schönstes Bürgerhaus am Bodensee
+  besonderheit: hochkarätige Ausstellungen jährlich
+GUELTIG_AB: 1400
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/039
+ENTITÄT: ort_friedenseinrichtung
+BEZEICHNUNG: Friedensräume
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 2001
+  standort: Villa Lindenhof
+  beschreibung: einmalige Einrichtung in Deutschland
+GUELTIG_AB: 2001
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/040
+ENTITÄT: zentrum_wirtschafts_bildung
+BEZEICHNUNG: Luitpoldpark
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: 2002
+  lage: Westliche Insel
+  vorgänger: Luitpoldkaserne
+  beschreibung: Wirtschafts- und Bildungszentrum
+GUELTIG_AB: 2002
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/041
+ENTITÄT: klinik
+BEZEICHNUNG: Bodensee-Klinik für ästhetische Chirurgie
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eröffnung: 2003
+  lage: Westliche Insel, neben Luitpoldpark
+  leitung: Prof. Dr. Dr. Werner Mang
+GUELTIG_AB: 2003
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/042
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Seebrücke
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  neubau: 2000
+GUELTIG_AB: 2000
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/043
+ENTITÄT: institution_kultur
+BEZEICHNUNG: Lindauer Marionettenoper
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 2000
+GUELTIG_AB: 2000
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/044
+ENTITÄT: einkaufszentrum
+BEZEICHNUNG: Lindaupark
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: 2000
+  lage: Reutin
+  beschreibung: modernes Einkaufszentrum
+GUELTIG_AB: 2000
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 122-lindau/045
+ENTITÄT: institution_bildung
+BEZEICHNUNG: Lindauer Musikschule
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jubiläum_60_jahre: 2011
+  gründung: ca. 1951
+GUELTIG_AB: 1951
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 122-lindau/046
+ENTITÄT: infrastruktur_verkehr
+BEZEICHNUNG: Stadtbussystem
+QUELLE: https://www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  betrieb_beginn: 1994
+GUELTIG_AB: 1994
+IST_VERMUTUNG_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

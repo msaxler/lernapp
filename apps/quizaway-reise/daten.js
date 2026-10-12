@@ -18422,6 +18422,14 @@ window.QA_DATEN = {
 "Kreisgrenze: Walluf gehört zum Rheingau-Taunus-Kreis, Rüsselsheim zum Landkreis Groß-Gerau.",
 "Rüsselsheim hat zwölfmal so viele Einwohner wie Walluf."
 ],
+"134-bodenheim": [
+"Landesgrenze: Bodenheim liegt in Rheinland-Pfalz, Rüsselsheim in Hessen.",
+"Rüsselsheim hat fast neunmal so viele Einwohner wie Bodenheim."
+],
+"135-nackenheim": [
+"Landesgrenze: Nackenheim liegt in Rheinland-Pfalz, Rüsselsheim in Hessen.",
+"Rüsselsheim hat zwölfmal so viele Einwohner wie Nackenheim."
+],
 "61-nierstein": [
 "Landesgrenze: Nierstein liegt in Rheinland-Pfalz, Rüsselsheim in Hessen.",
 "Rüsselsheim hat achtmal so viele Einwohner wie Nierstein."
@@ -18655,6 +18663,14 @@ window.QA_DATEN = {
 "Kreisgrenze: Ingelheim gehört zum Landkreis Mainz-Bingen, Mainz ist kreisfrei.",
 "Bundestagswahl 2025: In Ingelheim lag die CDU vorn, in Mainz die Grünen."
 ],
+"134-bodenheim": [
+"Kreisgrenze: Bodenheim gehört zum Landkreis Mainz-Bingen, Mainz ist kreisfrei.",
+"Bundestagswahl 2025: In Bodenheim lag die CDU vorn, in Mainz die Grünen."
+],
+"135-nackenheim": [
+"Kreisgrenze: Nackenheim gehört zum Landkreis Mainz-Bingen, Mainz ist kreisfrei.",
+"Bundestagswahl 2025: In Nackenheim lag die CDU vorn, in Mainz die Grünen."
+],
 "61-nierstein": [
 "Kreisgrenze: Nierstein gehört zum Landkreis Mainz-Bingen, Mainz ist kreisfrei.",
 "Bundestagswahl 2025: In Nierstein lag die CDU vorn, in Mainz die Grünen."
@@ -18883,6 +18899,14 @@ window.QA_DATEN = {
 "60-ingelheim": [
 "Landesgrenze: Ingelheim liegt in Rheinland-Pfalz, Wiesbaden in Hessen.",
 "Wiesbaden hat gut achtmal so viele Einwohner wie Ingelheim."
+],
+"134-bodenheim": [
+"Landesgrenze: Bodenheim liegt in Rheinland-Pfalz, Wiesbaden in Hessen.",
+"Wiesbaden hat rund 40-mal so viele Einwohner wie Bodenheim."
+],
+"135-nackenheim": [
+"Landesgrenze: Nackenheim liegt in Rheinland-Pfalz, Wiesbaden in Hessen.",
+"Wiesbaden hat rund 55-mal so viele Einwohner wie Nackenheim."
 ]
 },
 "ags": "06414000",
@@ -19090,6 +19114,14 @@ window.QA_DATEN = {
 "60-ingelheim": [
 "Landesgrenze: Ingelheim liegt in Rheinland-Pfalz, Walluf in Hessen.",
 "Ingelheim hat gut sechsmal so viele Einwohner wie Walluf."
+],
+"134-bodenheim": [
+"Landesgrenze: Bodenheim liegt in Rheinland-Pfalz, Walluf in Hessen.",
+"Bodenheim hat rund 2.100 Einwohner mehr als Walluf."
+],
+"135-nackenheim": [
+"Landesgrenze: Nackenheim liegt in Rheinland-Pfalz, Walluf in Hessen.",
+"Nackenheim und Walluf sind fast gleich groß: rund 5.400 und 5.500 Einwohner."
 ]
 },
 "ags": "06439017",
@@ -19319,6 +19351,14 @@ window.QA_DATEN = {
 "60-ingelheim": [
 "Landesgrenze: Ingelheim liegt in Rheinland-Pfalz, Eltville am Rhein in Hessen.",
 "Ingelheim hat gut doppelt so viele Einwohner wie Eltville am Rhein."
+],
+"134-bodenheim": [
+"Landesgrenze: Bodenheim liegt in Rheinland-Pfalz, Eltville am Rhein in Hessen.",
+"Eltville am Rhein hat gut doppelt so viele Einwohner wie Bodenheim."
+],
+"135-nackenheim": [
+"Landesgrenze: Nackenheim liegt in Rheinland-Pfalz, Eltville am Rhein in Hessen.",
+"Eltville am Rhein hat gut dreimal so viele Einwohner wie Nackenheim."
 ]
 },
 "ags": "06439003",
@@ -24315,6 +24355,9 @@ window.QA_DATEN = {
 "52-bingen": [
 "Ingelheim hat rund 9.500 Einwohner mehr als Bingen.",
 "Bingen und Ingelheim liegen beide im Landkreis Mainz-Bingen; Kreisstadt ist Ingelheim."
+],
+"134-bodenheim": [
+"Ingelheim hat viereinhalbmal so viele Einwohner wie Bodenheim."
 ]
 },
 "ags": "07339030",
@@ -24523,6 +24566,426 @@ window.QA_DATEN = {
 "km_vom_vorigen": 25.2
 },
 {
+"slug": "134-bodenheim",
+"name": "Bodenheim",
+"lat": 49.92972,
+"lon": 8.31333,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bodenheim",
+"steckbrief": "Bodenheim hat rund 7.600 Einwohner und liegt 6 km südlich von Mainz.",
+"frage": "Woher hat Bodenheim seinen Namen?",
+"optionen": [
+"Er beschreibt den fruchtbaren Boden der Gegend.",
+"Er geht auf den Namen eines Mannes zurück.",
+"Er erinnert an eine Furt durch den Rhein.",
+"Er stammt von einem keltischen Flussnamen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Beim heutigen Namen denkt man zuerst an fruchtbaren Boden. Doch darin steckt ein Personenname: Bado. Die Endung geht auf althochdeutsch heima zurück, Wohnung oder Heimstatt. Bodenheim ist also die Heimstatt des Bado. Richtig war 2.",
+"quelle": "Landesportal, www.regionalgeschichte.net/rheinhessen/bodenheim.html",
+"faktencheck": "bestätigt",
+"id": "134-bodenheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bodenheim",
+"steckbrief": "Bodenheim hat rund 7.600 Einwohner und liegt 6 km südlich von Mainz.",
+"frage": "Wie viele Einwohner kommen in Bodenheim auf einen Quadratkilometer?",
+"optionen": [
+"unter 200",
+"200 bis unter 400",
+"400 bis unter 800",
+"800 oder mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Landgemeinde vor der Stadt tippt man leicht auf wenige Menschen je Quadratkilometer. Doch Bodenheim ist dicht besiedelt: Auf einen Quadratkilometer kommen etwa 566 Einwohner, berechnet aus Einwohnerzahl und Fläche. Richtig war 3.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "134-bodenheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Bodenheim",
+"steckbrief": "Bodenheim hat rund 7.600 Einwohner und liegt 6 km südlich von Mainz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Kloster St. Alban war einst Ortsherr hier.",
+"Die Bodenheimer Synagoge ist bis heute erhalten.",
+"Seitenaltäre der katholischen Kirche kamen vom Mainzer Dom."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Altäre aus dem Mainzer Dom in einer eher einfachen Kirche klingen erfunden, stimmen aber. Gelogen ist die Synagoge: Nach ihrer Enteignung diente sie als Stall, dann als Lagerhalle; später riss der neue Eigentümer sie ab. Nur eine Gedenktafel erinnert noch an sie. Die Lüge war 2.",
+"quelle": "Landesportal, www.regionalgeschichte.net/rheinhessen/bodenheim.html; Gemeinde-Webseite, www.vg-bodenheim.de/wohnen-leben/kultur-freizeit/kirchen/kirchen-in-der-vg-bodenheim/",
+"faktencheck": "korrigiert",
+"id": "134-bodenheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bodenheim",
+"steckbrief": "Bodenheim hat rund 7.600 Einwohner und liegt 6 km südlich von Mainz.",
+"frage": "Wie hoch war die Wahlbeteiligung in Bodenheim bei der Bundestagswahl 2025?",
+"optionen": [
+"85 % oder mehr",
+"80 bis unter 85 %",
+"75 bis unter 80 %",
+"unter 75 %"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Landgemeinde tippt man leicht auf einen mittleren Wert. Doch bei der Bundestagswahl 2025 gingen in Bodenheim 89,6 Prozent der Wahlberechtigten zur Wahl. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "134-bodenheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bodenheim",
+"steckbrief": "Bodenheim hat rund 7.600 Einwohner und liegt 6 km südlich von Mainz.",
+"frage": "1793 belagerten die Preußen Mainz. Mit wem turtelte der preußische Kronprinz damals in Bodenheim?",
+"optionen": [
+"Er turtelte mit Anna, einer Bodenheimer Winzerstochter.",
+"Er turtelte mit seiner Braut Louise.",
+"Er turtelte mit Marie, einer französischen Schauspielerin.",
+"Er turtelte mit Sophie, einer Hofdame seiner Mutter."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Im Weinort liegt eine Winzerstochter nahe. Doch der Kronprinz, später König Friedrich Wilhelm III., turtelte hier mit seiner Braut Louise. Bodenheim war Hauptquartier der preußischen Belagerer; auch König Friedrich Wilhelm II. kam, und Goethe, der die Belagerung beschrieb, gastierte hier. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.vg-bodenheim.de/tourismus/historisches/geschichten/",
+"faktencheck": "bestätigt",
+"id": "134-bodenheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Bodenheim",
+"steckbrief": "Bodenheim hat rund 7.600 Einwohner und liegt 6 km südlich von Mainz.",
+"frage": "Wie groß ist die Gemarkung von Bodenheim?",
+"optionen": [
+"unter 5 km²",
+"5 bis unter 10 km²",
+"10 bis unter 20 km²",
+"20 km² oder mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Ort so dicht an Mainz lässt eine kleine, eingeklemmte Gemarkung vermuten. Doch die Gemeindefläche von Bodenheim misst 13,43 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "134-bodenheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bodenheim",
+"steckbrief": "Bodenheim hat rund 7.600 Einwohner und liegt 6 km südlich von Mainz.",
+"frage": "Das Rathaus von Bodenheim ist ein Fachwerkbau der Renaissance. Wozu wurde es ursprünglich errichtet?",
+"optionen": [
+"Es wurde als Gasthaus für Fuhrleute errichtet.",
+"Es wurde als Kelterhaus der Winzer errichtet.",
+"Es wurde als Kornspeicher des Dorfes errichtet.",
+"Es wurde als Gerichtsgebäude errichtet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Im Weinland Rheinhessen liegt ein Kelterhaus nahe. Doch das Fachwerkhaus entstand als Gerichtsgebäude: Bodenheim war Sitz eines Ober- und Dorfgerichts und Ort der Rechtsprechung auch für die Umgebung. An seiner Rückseite streckt ein Kopf die Zunge heraus. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.vg-bodenheim.de/tourismus/historisches/geschichten/",
+"faktencheck": "korrigiert",
+"id": "134-bodenheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Bodenheim",
+"steckbrief": "Bodenheim hat rund 7.600 Einwohner und liegt 6 km südlich von Mainz.",
+"frage": "Das Bodenheimer Wappen geht auf ein altes Gerichtssiegel und eine Tafel am alten Rathaus zurück. Was zeigt es?",
+"optionen": [
+"Ein Esel steht vor einem goldenen Trog.",
+"Ein Löwe hält eine goldene Weintraube.",
+"Ein Ochse zieht einen goldenen Pflug.",
+"Ein Hahn sitzt auf einem goldenen Fass."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Im Weinland wäre eine Traube das naheliegende Wappenbild. Doch das Wappen zeigt einen silbernen Esel vor einem goldenen Trog, daneben eine goldene Henkelvase mit grünem Eichenzweig. Der Esel stammt aus dem Gerichtssiegel des Propstes des Stiftes St. Alban in Mainz, Vase, Zweig und Trog von einer Tafel am alten Rathaus. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.vg-bodenheim.de/tourismus/historisches/wappen-der-gemeinden/wappen-der-ortsgemeinde-bodenheim/",
+"faktencheck": "korrigiert",
+"id": "134-bodenheim/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "54-alzey",
+"anschluss": [
+"Eine Nebenbahn verband früher Bodenheim mit Alzey.",
+"Bundestagswahl 2025: In Bodenheim wählten 89,6 Prozent, in Alzey 80,1."
+],
+"anschluesse": {
+"64-ruesselsheim": [
+"Landesgrenze: Rüsselsheim liegt in Hessen, Bodenheim in Rheinland-Pfalz.",
+"Rüsselsheim hat fast neunmal so viele Einwohner wie Bodenheim."
+],
+"45-mainz": [
+"Kreisgrenze: Mainz ist kreisfrei, Bodenheim gehört zum Landkreis Mainz-Bingen.",
+"Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Bodenheim die CDU."
+],
+"46-wiesbaden": [
+"Landesgrenze: Wiesbaden liegt in Hessen, Bodenheim in Rheinland-Pfalz.",
+"Wiesbaden hat rund 40-mal so viele Einwohner wie Bodenheim."
+],
+"23-walluf": [
+"Landesgrenze: Walluf liegt in Hessen, Bodenheim in Rheinland-Pfalz.",
+"Bodenheim hat rund 2.100 Einwohner mehr als Walluf."
+],
+"04-eltville": [
+"Landesgrenze: Eltville am Rhein liegt in Hessen, Bodenheim in Rheinland-Pfalz.",
+"Eltville am Rhein hat gut doppelt so viele Einwohner wie Bodenheim."
+],
+"60-ingelheim": [
+"Ingelheim hat viereinhalbmal so viele Einwohner wie Bodenheim."
+],
+"135-nackenheim": [
+"Bodenheim hat fast anderthalbmal so viele Einwohner wie Nackenheim."
+],
+"61-nierstein": [
+"Nierstein und Bodenheim sind fast gleich groß: rund 8.100 und 7.600 Einwohner."
+],
+"62-oppenheim": [
+"Oppenheim und Bodenheim sind fast gleich groß: rund 7.200 und 7.600 Einwohner."
+],
+"54-alzey": [
+"Eine Nebenbahn verband früher Bodenheim mit Alzey.",
+"Bundestagswahl 2025: In Bodenheim wählten 89,6 Prozent, in Alzey 80,1."
+]
+},
+"ags": "07339006",
+"ortsteil": false,
+"km_vom_vorigen": 24.3
+},
+{
+"slug": "135-nackenheim",
+"name": "Nackenheim",
+"lat": 49.91528,
+"lon": 8.33889,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Nackenheim",
+"steckbrief": "Weinort mit rund 5.400 Einwohnern, 9 km südöstlich von Mainz.",
+"frage": "Das Ortsmuseum von Nackenheim heißt „Muxum“. Woher kommt der ungewöhnliche Name?",
+"optionen": [
+"Der Wandschriftzug „Museum“ lässt sich so lesen.",
+"Es ist ein rheinhessisches Mundartwort für Museum.",
+"Ein Schülerwettbewerb hat den Namen erfunden.",
+"Er besteht aus Initialen der Museumsgründer."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Mundart liegt nahe, Rheinhessisch klingt für Fremde oft rätselhaft. Doch dahinter steckt das Wort selbst: Der Schriftzug „Museum“ an der Außenwand lässt sich als „Muxum“ lesen. Weil es für Heimat- und Ortsmuseen keinen griffigen Markenbegriff gab, wurde daraus der Eigenname des Museums. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.nackenheim.de/og_nackenheim/Kultur/Ortsmuseum/",
+"faktencheck": "bestätigt",
+"id": "135-nackenheim/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Nackenheim",
+"steckbrief": "Weinort mit rund 5.400 Einwohnern, 9 km südöstlich von Mainz.",
+"frage": "Wie viele Einwohner kommen in Nackenheim auf einen Quadratkilometer?",
+"optionen": [
+"unter 300",
+"300 bis unter 700",
+"700 bis unter 1.200",
+"1.200 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Weinort klingt nach Dorf mit viel Platz zwischen den Häusern. Doch Nackenheim ist dichter besiedelt, als man denkt: Rund 625 Einwohner kommen auf einen Quadratkilometer, berechnet aus Einwohnerzahl (Stand Ende 2025) und Gemeindefläche. Richtig war 2.",
+"quelle": "berechnet aus Einwohnerzahl (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "135-nackenheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Nackenheim",
+"steckbrief": "Weinort mit rund 5.400 Einwohnern, 9 km südöstlich von Mainz.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Ortsmuseum nutzt ein ehemaliges Schulgebäude.",
+"Der Rathaus-Wappenstein weicht vom heutigen Wappen ab.",
+"Das heutige Gemeindewappen zeigt den Löwen der Kurpfalz."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Pfälzer Löwe liegt nahe, denn die Kurpfalz hielt zeitweise Vogteirechte und war ein gefährlicher Rivale der Mainzer Kirche. Doch das Wappen zeigt Reichsapfel und Mainzer Rad; die silberne Leiste verweist zusammen mit dem Rot auf das Erzstift Mainz. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.nackenheim.de/og_nackenheim/Über Nackenheim/Wappen/",
+"faktencheck": "korrigiert",
+"id": "135-nackenheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Nackenheim",
+"steckbrief": "Gemeinde mit rund 5.400 Einwohnern, 9 km südöstlich von Mainz.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Nackenheim bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 24 %",
+"24 bis unter 28 %",
+"28 bis unter 31 %",
+"31 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei so vielen Parteien rechnet man mit einem knappen Sieger. In Nackenheim holte die CDU aber 31,8 Prozent der Zweitstimmen, deutlich vor der SPD. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "135-nackenheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Nackenheim",
+"steckbrief": "Weinort mit rund 5.400 Einwohnern, 9 km südöstlich von Mainz.",
+"frage": "1258 wurde das Mainzer Stift St. Stephan Grundherr in Nackenheim. Wie kam es zu diesem Besitz?",
+"optionen": [
+"Es kaufte ihn einem anderen Kirchenstift ab.",
+"Ein Ritter vermachte ihn dem Stift im Testament.",
+"Der Kaiser schenkte ihn dem Stift.",
+"Es erhielt ihn als Pfand für ein Darlehen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Schenkung liegt nahe, so kamen viele Kirchen zu Land. Doch St. Stephan kaufte: Das Kölner Stift St. Gereon besaß in Nackenheim Güter, die wohl schon in der Merowingerzeit an die Kölner Kirche gelangt waren. Gegen die Übergriffe des Vogtes Philipp von Hohenfels konnte es sich kaum wehren, dazu kamen wirtschaftliche Erwägungen. Richtig war 1.",
+"quelle": "Landesportal, www.regionalgeschichte.net/rheinhessen/nackenheim.html",
+"faktencheck": "korrigiert",
+"id": "135-nackenheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Nackenheim",
+"steckbrief": "Weinort mit rund 5.400 Einwohnern, 9 km südöstlich von Mainz.",
+"frage": "Wie groß ist die Fläche der Gemeinde Nackenheim?",
+"optionen": [
+"unter 5 km²",
+"5 bis unter 10 km²",
+"10 bis unter 20 km²",
+"20 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Weinort lässt viel Rebfläche und damit eine weitläufige Gemarkung erwarten. Doch Nackenheim ist klein: Die Gemeinde umfasst 8,62 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "135-nackenheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Nackenheim",
+"steckbrief": "Weinort mit rund 5.400 Einwohnern, 9 km südöstlich von Mainz.",
+"frage": "Die Familie des Schriftstellers Carl Zuckmayer stammt aus Nackenheim. Wohin wanderte der Musikpädagoge Eduard Zuckmayer aus?",
+"optionen": [
+"Er wanderte nach Amerika aus.",
+"Er wanderte nach England aus.",
+"Er wanderte in die Türkei aus.",
+"Er wanderte nach Schweden aus."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Amerika liegt nahe, denn dorthin wanderte Schriftsteller Carl Zuckmayer aus. Eduard Zuckmayer, Musikpädagoge aus derselben Nackenheimer Familie, ging dagegen in die Türkei. Über beide schreibt das Ortsmuseum, sie hätten heute noch Bedeutung und Wirkung. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.nackenheim.de/og_nackenheim/Kultur/Ortsmuseum/",
+"faktencheck": "bestätigt",
+"id": "135-nackenheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Nackenheim",
+"steckbrief": "Weinort mit rund 5.400 Einwohnern, 9 km südöstlich von Mainz.",
+"frage": "1661 erwarb das Mainzer Jakobskloster größeren Besitz in Nackenheim. Was war der Anlass?",
+"optionen": [
+"Ein Winzer vermachte dem Kloster sein ganzes Gut.",
+"Das Kloster wurde für Verluste beim Festungsbau entschädigt.",
+"Der Kaiser belohnte das Kloster für Kriegshilfe.",
+"Das Kloster kaufte Land verschuldeter Bauern auf."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Kauf liegt nahe, so wuchs Klosterbesitz oft. Doch beim Ausbau der Befestigungsanlagen auf dem Jakobsberg erlitt das Kloster Einbußen, und der Mainzer Erzbischof entschädigte es mit Nackenheimer Besitz. Richtig war 2.",
+"quelle": "Landesportal, www.regionalgeschichte.net/rheinhessen/nackenheim.html",
+"faktencheck": "korrigiert",
+"id": "135-nackenheim/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "134-bodenheim",
+"anschluss": [
+"Einwohner: Bodenheim hat rund 7.600, Nackenheim rund 5.400.",
+"Bundestagswahl 2025, Wahlbeteiligung: Bodenheim 89,6 %, Nackenheim 86,3 %."
+],
+"anschluesse": {
+"64-ruesselsheim": [
+"Landesgrenze: Rüsselsheim liegt in Hessen, Nackenheim in Rheinland-Pfalz.",
+"Rüsselsheim hat zwölfmal so viele Einwohner wie Nackenheim."
+],
+"45-mainz": [
+"Kreisgrenze: Mainz ist kreisfrei, Nackenheim gehört zum Landkreis Mainz-Bingen.",
+"Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Nackenheim die CDU."
+],
+"46-wiesbaden": [
+"Landesgrenze: Wiesbaden liegt in Hessen, Nackenheim in Rheinland-Pfalz.",
+"Wiesbaden hat rund 55-mal so viele Einwohner wie Nackenheim."
+],
+"23-walluf": [
+"Landesgrenze: Walluf liegt in Hessen, Nackenheim in Rheinland-Pfalz.",
+"Walluf und Nackenheim sind fast gleich groß: rund 5.500 und 5.400 Einwohner."
+],
+"04-eltville": [
+"Landesgrenze: Eltville am Rhein liegt in Hessen, Nackenheim in Rheinland-Pfalz.",
+"Eltville am Rhein hat gut dreimal so viele Einwohner wie Nackenheim."
+],
+"134-bodenheim": [
+"Einwohner: Bodenheim hat rund 7.600, Nackenheim rund 5.400.",
+"Bundestagswahl 2025, Wahlbeteiligung: Bodenheim 89,6 %, Nackenheim 86,3 %."
+],
+"61-nierstein": [
+"Nierstein hat anderthalbmal so viele Einwohner wie Nackenheim."
+],
+"62-oppenheim": [
+"Oppenheim hat rund 1.800 Einwohner mehr als Nackenheim."
+]
+},
+"ags": "07339039",
+"ortsteil": false,
+"km_vom_vorigen": 2.4
+},
+{
 "slug": "61-nierstein",
 "name": "Nierstein",
 "lat": 49.86944,
@@ -24708,11 +25171,8 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "54-alzey",
-"anschluss": [
-"Alzey hat knapp zweieinhalbmal so viele Einwohner wie Nierstein.",
-"Kreisgrenze: Alzey gehört zum Landkreis Alzey-Worms, Nierstein zum Landkreis Mainz-Bingen."
-],
+"anschluss_von": "135-nackenheim",
+"anschluss": [],
 "anschluesse": {
 "64-ruesselsheim": [
 "Landesgrenze: Rüsselsheim liegt in Hessen, Nierstein in Rheinland-Pfalz.",
@@ -24721,6 +25181,12 @@ window.QA_DATEN = {
 "45-mainz": [
 "Kreisgrenze: Mainz ist kreisfrei, Nierstein gehört zum Landkreis Mainz-Bingen.",
 "Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Nierstein die CDU."
+],
+"134-bodenheim": [
+"Bodenheim und Nierstein sind fast gleich groß: rund 7.600 und 8.100 Einwohner."
+],
+"135-nackenheim": [
+"Nierstein hat anderthalbmal so viele Einwohner wie Nackenheim."
 ],
 "62-oppenheim": [
 "Nierstein hat rund 900 Einwohner mehr als Oppenheim."
@@ -24732,7 +25198,7 @@ window.QA_DATEN = {
 },
 "ags": "07339043",
 "ortsteil": false,
-"km_vom_vorigen": 20.6
+"km_vom_vorigen": 5.1
 },
 {
 "slug": "62-oppenheim",
@@ -24933,6 +25399,12 @@ window.QA_DATEN = {
 "45-mainz": [
 "Kreisgrenze: Mainz ist kreisfrei, Oppenheim gehört zum Landkreis Mainz-Bingen.",
 "Bundestagswahl 2025: In Mainz lagen die Grünen vorn, in Oppenheim die CDU."
+],
+"134-bodenheim": [
+"Bodenheim und Oppenheim sind fast gleich groß: rund 7.600 und 7.200 Einwohner."
+],
+"135-nackenheim": [
+"Oppenheim hat rund 1.800 Einwohner mehr als Nackenheim."
 ],
 "61-nierstein": [
 "Nierstein und Oppenheim gehören beide zur Verbandsgemeinde Rhein-Selz.",
@@ -30678,11 +31150,1607 @@ window.QA_DATEN = {
 "117-singen": [
 "Bundestagswahl 2025: AfD vorn in Singen, CDU vorn in Stockach.",
 "Fläche: Stockach ist größer als Singen, hat aber weniger Einwohner."
+],
+"119-ueberlingen": [
+"Kreisgrenze: Überlingen gehört zum Bodenseekreis, Stockach zum Landkreis Konstanz.",
+"Überlingen hat rund 5.300 Einwohner mehr als Stockach."
 ]
 },
 "ags": "08335079",
 "ortsteil": false,
 "km_vom_vorigen": 16.2
+},
+{
+"slug": "119-ueberlingen",
+"name": "Überlingen",
+"lat": 47.76667,
+"lon": 9.165,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Überlingen",
+"steckbrief": "Stadt im Bodenseekreis mit rund 22.800 Einwohnern, 81 km südlich von Reutlingen.",
+"frage": "Überlingen feiert alljährlich die „Historische Schwedenprozession“. Wie kam die Stadt zu diesem Brauch?",
+"optionen": [
+"Schwedische Pilger brachten den Brauch in die Stadt.",
+"Die Stadt gelobte sie nach überstandener schwedischer Belagerung.",
+"Sie ehrt einen aus Schweden stammenden Stadtheiligen.",
+"Sie erinnert an das Ende einer Pestseuche."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Name lässt an Gäste oder Heilige aus Schweden denken. Doch die Prozession geht auf ein Gelübde im Dreißigjährigen Krieg zurück: Schwedische Truppen belagerten die Stadt vergeblich, und die Bürger versprachen für alle kommenden Generationen eine Dankprozession am Tag des feindlichen Abzugs. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ueberlingen.de/1-historische-schwedenprozession",
+"faktencheck": "bestätigt",
+"id": "119-ueberlingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Überlingen",
+"steckbrief": "Große Kreisstadt im Bodenseekreis, 81 km südlich von Reutlingen.",
+"frage": "Wie viele Einwohner hat Überlingen?",
+"optionen": [
+"unter 15.000",
+"15.000 bis unter 20.000",
+"20.000 bis unter 25.000",
+"25.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Altstadt mit Münster und Uferpromenade wirkt kleinstädtisch, deshalb schätzen viele zu niedrig. Doch zur Stadt gehören auch eingemeindete Dörfer wie Nußdorf, Hödingen und Lippertsreute. Ende 2025 zählte Überlingen 22.799 Einwohner. Richtig war 3.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "119-ueberlingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Überlingen",
+"steckbrief": "Stadt im Bodenseekreis mit rund 22.800 Einwohnern, 81 km südlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Überlingen verkaufte sein Korn vor allem ins Elsass.",
+"Überlingen erhielt das Marktrecht von Friedrich Barbarossa.",
+"Nach der Reichsstadtzeit kam Überlingen an Baden."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Das Elsass klingt nach altem Handelsweg am Rhein. Doch das Getreide vom Überlinger Markt wurde vor allem in die Schweiz verschifft. Das Marktrecht stammt tatsächlich von Kaiser Friedrich I. Barbarossa, und als die Reichsstadtzeit endete, kam Überlingen an Baden. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.ueberlingen.de/stadtpotrait",
+"faktencheck": "korrigiert",
+"id": "119-ueberlingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Überlingen",
+"steckbrief": "Stadt im Bodenseekreis mit rund 22.800 Einwohnern, 81 km südlich von Reutlingen.",
+"frage": "Welche Partei wurde bei der Bundestagswahl 2025 in Überlingen nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"Grüne",
+"AfD",
+"SPD",
+"FDP"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bundesweit wurde die AfD bei dieser Wahl Zweite, das liegt als Tipp nahe. In Überlingen lagen aber die Grünen mit 17,8 Prozent vor der AfD mit 15,6 Prozent. Stärkste Kraft wurde die CDU. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "119-ueberlingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Überlingen",
+"steckbrief": "Stadt im Bodenseekreis mit rund 22.800 Einwohnern, 81 km südlich von Reutlingen.",
+"frage": "Überlingen wurde im 13. Jahrhundert Reichsstadt. Welchen Anlass dafür nennt die Stadtgeschichte?",
+"optionen": [
+"Die Bürger hatten ihren Stadtherrn vertrieben.",
+"Das bisherige Herrscherhaus war ausgestorben.",
+"Der Kaiser belohnte die Stadt für Kriegshilfe.",
+"Ein Papst stellte die Stadt unter Schutz."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Reichsfreiheit klingt nach erkämpftem Recht oder kaiserlichem Dank. Die Stadtgeschichte nennt einen schlichteren Anlass: Die Staufer starben aus, deren König Friedrich II. Überlingen zur Stadt erhoben hatte. Danach unterstand Überlingen als Reichsstadt direkt dem Reich, bis es in den napoleonischen Kriegen diesen Status verlor. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ueberlingen.de/stadtpotrait",
+"faktencheck": "korrigiert",
+"id": "119-ueberlingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Überlingen",
+"steckbrief": "Stadt im Bodenseekreis mit rund 22.800 Einwohnern, 81 km südlich von Reutlingen.",
+"frage": "Welches Hauptkennzeichen gibt der Landkreis aus, zu dem Überlingen gehört?",
+"optionen": [
+"KN",
+"RV",
+"FN",
+"SIG"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. KN liegt nahe, denn Konstanz ist die große Stadt am See. Überlingen war früher selbst Kreissitz, gehört heute aber zum Bodenseekreis. Dessen Hauptkennzeichen ist FN, das Kürzel von Friedrichshafen. Richtig war 3.",
+"quelle": "Altbestand staedte.json",
+"faktencheck": "korrigiert",
+"id": "119-ueberlingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Überlingen",
+"steckbrief": "Stadt im Bodenseekreis mit rund 22.800 Einwohnern, 81 km südlich von Reutlingen.",
+"frage": "Was geschah in Überlingen im Jahr 1955?",
+"optionen": [
+"Es richtete eine Landesgartenschau aus.",
+"Es wurde zur Großen Kreisstadt erhoben.",
+"Es bildete eine Verwaltungsgemeinschaft mit Nachbarorten.",
+"Es wurde staatlich als Kneipp-Heilbad anerkannt."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Große Kreisstadt, Gartenschau und Verwaltungsgemeinschaft klingen nach Stadtgeschichte, kamen aber alle erst später. Überlingen setzte früh auf Gäste: 1955 erhielt es das Prädikat eines staatlich anerkannten Kneipp-Heilbads und blieb daneben Gewerbestandort. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.ueberlingen.de/stadtpotrait",
+"faktencheck": "korrigiert",
+"id": "119-ueberlingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Überlingen",
+"steckbrief": "Stadt im Bodenseekreis mit rund 22.800 Einwohnern, 81 km südlich von Reutlingen.",
+"frage": "Den Hochaltar im Überlinger Münster schufen Jörg Zürn und seine Verwandten. Wer gab ihn in Auftrag?",
+"optionen": [
+"Der Rat der Stadt gab ihn in Auftrag.",
+"Der Bischof gab ihn in Auftrag.",
+"Ein Kloster gab ihn in Auftrag.",
+"Eine reiche Kaufmannsfamilie gab ihn in Auftrag."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Hochaltar denkt man zuerst an Bischof oder Kloster als Bauherrn. Im Münster St. Nikolaus bestellte ihn jedoch der Rat der Stadt. Die Altäre im Kapellenkranz stifteten dagegen Bürger, von der Gotik bis zum Barock. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.ueberlingen.de/stadtpotrait",
+"faktencheck": "korrigiert",
+"id": "119-ueberlingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Überlingen",
+"steckbrief": "Stadt im Bodenseekreis mit rund 22.800 Einwohnern, 81 km südlich von Reutlingen.",
+"frage": "Im Dreißigjährigen Krieg nahm Konrad Widerholt, Kommandeur der Festung Hohentwiel, Überlingen ein. Wie gelang ihm das?",
+"optionen": [
+"Er hungerte die Stadt in langer Belagerung aus.",
+"Er überrumpelte die Stadt mit einem Handstreich.",
+"Die Stadt ergab sich nach schwerem Kanonenbeschuss.",
+"Er besiegte die Bürger in offener Feldschlacht."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine befestigte Stadt nimmt man sich meist mit langer Belagerung vor, das liegt nahe. Konrad Widerholt, Kommandeur der Festung Hohentwiel, nahm Überlingen jedoch durch einen Handstreich ein, also durch einen überraschenden Zugriff. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.ueberlingen.de/stadtpotrait",
+"faktencheck": "bestätigt",
+"id": "119-ueberlingen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "118-stockach",
+"anschluss": [
+"Kennzeichen: In Stockach steht KN am Auto, in Überlingen FN.",
+"Bundestagswahl 2025: Grüne in Überlingen Zweite, in Stockach nur Vierte."
+],
+"anschluesse": {
+"118-stockach": [
+"Kennzeichen: In Stockach steht KN am Auto, in Überlingen FN.",
+"Bundestagswahl 2025: Grüne in Überlingen Zweite, in Stockach nur Vierte."
+],
+"120-meersburg": [
+"Überlingen hat fast viermal so viele Einwohner wie Meersburg."
+]
+},
+"ags": "08435059",
+"ortsteil": false,
+"km_vom_vorigen": 14.8
+},
+{
+"slug": "120-meersburg",
+"name": "Meersburg",
+"lat": 47.69583,
+"lon": 9.27083,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Meersburg",
+"steckbrief": "Stadt am Bodensee mit rund 6.000 Einwohnern, 89 km südlich von Reutlingen.",
+"frage": "Wie groß ist das Stadtgebiet von Meersburg?",
+"optionen": [
+"unter 8 km²",
+"8 bis unter 16 km²",
+"16 bis unter 30 km²",
+"30 km² und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt rechnet man leicht mit einer weiten Fläche. Meersburgs Stadtgebiet misst aber nur 12,07 Quadratkilometer. Richtig war 2.",
+"quelle": "Wikidata P2046",
+"faktencheck": "korrigiert",
+"id": "120-meersburg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Meersburg",
+"steckbrief": "Stadt mit rund 6.000 Einwohnern, 89 km südlich von Reutlingen.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Balthasar Neumann plante das Treppenhaus im Neuen Schloss.",
+"Freiherr von Laßberg kaufte die Burg zum Abreißen.",
+"König Albrecht verlieh Meersburg Stadtrecht nach Ulmer Muster."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Dass alte Burgen auf Abbruch verkauft wurden, kam vor; darum klingt die Lüge glaubhaft. Doch Freiherr Joseph von Laßberg erwarb die Burg und bewahrte sie so vor dem Abriss. Er sammelte mittelalterliche Handschriften. Neumanns Treppenhaus und das Stadtrecht von König Albrecht stimmen. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.meersburg.de/de/Tourismus/Geschichte/Stadtchronik; www.meersburg.de/de/Tourismus/Geschichte/Magische-Saeule",
+"faktencheck": "korrigiert",
+"id": "120-meersburg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Meersburg",
+"steckbrief": "Kleine Stadt mit rund 6.000 Einwohnern, 89 km südlich von Reutlingen.",
+"frage": "Wie hoch war die Wahlbeteiligung in Meersburg bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 70 %",
+"70 bis unter 75 %",
+"75 bis unter 80 %",
+"80 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei Bundestagswahlen gehen längst nicht alle zur Urne, deshalb tippen viele auf eine mittlere Spanne. In Meersburg lag die Beteiligung aber bei 81,7 Prozent. Stärkste Partei bei den Zweitstimmen wurde die CDU. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "120-meersburg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Meersburg",
+"steckbrief": "Stadt mit rund 6.000 Einwohnern, 89 km südlich von Reutlingen.",
+"frage": "Annette von Droste-Hülshoff ersteigerte das Fürstenhäusle auf einer Anhöhe über Meersburg. Woher hat das Häuschen seinen Namen?",
+"optionen": [
+"Konstanzer Fürstbischöfe nutzten es als Rückzugsort.",
+"Die Droste taufte es nach dem Kauf so.",
+"Es war einst eine fürstliche Zollstation.",
+"Ein Fürst lebte dort im Exil."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Weil die Droste das Häuschen besaß, liegt ein Name von ihr nahe. Doch er stammt aus fürstbischöflicher Zeit: Bis zur Säkularisation war das Rebhaus persönliches Refugium der Konstanzer Fürstbischöfe. Bauen ließ es Jakob Fugger, Konstanzer Domherr und späterer Fürstbischof. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.meersburg.de/de/Tourismus/Geschichte/Fuerstenhaeusle",
+"faktencheck": "bestätigt",
+"id": "120-meersburg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Meersburg",
+"steckbrief": "Weinstadt mit rund 6.000 Einwohnern, 89 km südlich von Reutlingen.",
+"frage": "Meersburgs italienische Partnerstadt teilt mit ihr Weinbau und eine denkmalgeschützte Altstadt. Welche Stadt ist es?",
+"optionen": [
+"Montepulciano",
+"San Gimignano",
+"Orvieto",
+"Bardolino"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Alle vier sind Weinorte mit alter Altstadt, darum passt jede auf den ersten Blick. Meersburgs Partnerstadt ist San Gimignano in der Toskana mit ihren hoch aufragenden Türmen. Weitere Partnerstädte sind Hohnstein in Sachsen und Louveciennes bei Paris. Richtig war 2.",
+"quelle": "Wikidata P190; Gemeinde-Webseite, www.meersburg.de/de/Leben-Rathaus/Leben-in-Meersburg/Stadtportraet/Staedtepartnerschaften",
+"faktencheck": "korrigiert",
+"id": "120-meersburg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Meersburg",
+"steckbrief": "Stadt mit rund 6.000 Einwohnern, 89 km südlich von Reutlingen.",
+"frage": "Simon Weinzürn war Bürgermeister von Meersburg und führte Aufstände an. Wie endete er 1458?",
+"optionen": [
+"Er wurde öffentlich enthauptet.",
+"Er starb in einem Kerker.",
+"Er wurde ertränkt.",
+"Er wurde am Galgen gehängt."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei Anführern von Aufständen denkt man zuerst an Schwert oder Galgen. Die Stadtchronik hält aber fest: Bürgermeister Simon Weinzürn wurde ertränkt. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.meersburg.de/de/Tourismus/Geschichte/Stadtchronik",
+"faktencheck": "bestätigt",
+"id": "120-meersburg/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Meersburg",
+"steckbrief": "Stadt mit rund 6.000 Einwohnern, 89 km südlich von Reutlingen.",
+"frage": "Auf Peter Lenks Magischer Säule am Meersburger Hafen folgt eine Möwe dem Drehtanz im Wind. Wessen Gesicht trägt sie?",
+"optionen": [
+"Sie trägt das Gesicht Franz Anton Mesmers.",
+"Sie trägt das Gesicht Annette von Droste-Hülshoffs.",
+"Sie trägt das Gesicht Balthasar Neumanns.",
+"Sie trägt das Gesicht Kasia von Szadurskas."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die Säule versammelt bekannte Persönlichkeiten der Meersburger Stadtgeschichte, deshalb kommt jeder dieser Namen in Frage. Die Möwe aber trägt das Antlitz der Dichterin Annette von Droste-Hülshoff, die im Alten Schloss starb. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.meersburg.de/de/Tourismus/Geschichte/Magische-Saeule",
+"faktencheck": "bestätigt",
+"id": "120-meersburg/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Meersburg",
+"steckbrief": "Stadt mit rund 6.000 Einwohnern, 89 km südlich von Reutlingen.",
+"frage": "Johann Joseph Gaßner erregte großes Aufsehen, und 1774 fieberte man auch in Meersburg seinem Auftritt entgegen. Womit erregte er Aufsehen?",
+"optionen": [
+"Mit Ballonaufstiegen.",
+"Mit Heilungen durch Magnete.",
+"Mit Fotografien von Geistern.",
+"Mit exorzistischen Heilungen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Magnetheilung liegt nahe, denn mit animalischem Magnetismus arbeitete Franz Anton Mesmer – doch Mesmer war ein Gegner von Gaßners Teufelsaustreibungen. Gaßner war Exorzist, und seine exorzistischen Heilungen erregten großes Aufsehen. In Meersburg versuchte er sie 1774, teils ohne Erfolg. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.meersburg.de/de/Tourismus/Geschichte/Magische-Saeule; Deutsche Biographie (ADB)",
+"faktencheck": "korrigiert",
+"id": "120-meersburg/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Meersburg",
+"steckbrief": "Stadt mit rund 6.000 Einwohnern, 89 km südlich von Reutlingen.",
+"frage": "Die Burg Meersburg ist das Wahrzeichen der Stadt. Auf wen gehen ihre Anfänge der Sage nach zurück?",
+"optionen": [
+"Sie gehen auf König Dagobert I. zurück.",
+"Sie gehen auf den Römer Drusus zurück.",
+"Sie gehen auf Kaiser Barbarossa zurück.",
+"Sie gehen auf Karl Martell zurück."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei Burgen denkt man an Ritter und Staufer, daher liegt Barbarossa nahe. Die Sage führt die Anfänge aber auf den Merowingerkönig Dagobert I. zurück. Die Burg gilt außerdem als nie zerstört und ist in keinem Teil Ruine. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.meersburg.de/de/Tourismus/Geschichte/Burg-Meersburg",
+"faktencheck": "korrigiert",
+"id": "120-meersburg/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "119-ueberlingen",
+"anschluss": [
+"Einwohner: Überlingen hat fast viermal so viele wie Meersburg.",
+"Bundestagswahl 2025: CDU-Anteil in Meersburg höher als in Überlingen."
+],
+"anschluesse": {
+"119-ueberlingen": [
+"Einwohner: Überlingen hat fast viermal so viele wie Meersburg.",
+"Bundestagswahl 2025: CDU-Anteil in Meersburg höher als in Überlingen."
+],
+"121-friedrichshafen": [
+"Friedrichshafen hat gut zehnmal so viele Einwohner wie Meersburg.",
+"Bundestagswahl 2025: Auf Platz zwei kam in Friedrichshafen die AfD, in Meersburg die Grünen."
+]
+},
+"ags": "08435036",
+"ortsteil": false,
+"km_vom_vorigen": 11.2
+},
+{
+"slug": "121-friedrichshafen",
+"name": "Friedrichshafen",
+"lat": 47.65417,
+"lon": 9.47917,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friedrichshafen",
+"steckbrief": "Stadt am Bodensee mit rund 63.000 Einwohnern, 91 km südwestlich von Ulm.",
+"frage": "Friedrichshafen entstand 1811 aus der Reichsstadt Buchhorn und Hofen. Nach wem wurde die neue Stadt benannt?",
+"optionen": [
+"Sie trägt den Namen Kaiser Friedrich Barbarossas.",
+"Sie ehrt Friedrich den Großen von Preußen.",
+"Sie hieß nach dem Hafen eines Fischers Friedrich.",
+"Sie ehrt König Friedrich I. von Württemberg."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Barbarossa liegt nahe, denn die Staufer waren in Schwaben mächtig. Benannt wurde die Stadt aber nach Friedrich I., dem ersten württembergischen König. Vom alten Buchhorn blieb das Wappen: Friedrichshafen führt das Wappen der Reichsstadt Buchhorn. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Friedrichshafen",
+"faktencheck": "unsicher",
+"id": "121-friedrichshafen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Friedrichshafen",
+"steckbrief": "Stadt am Bodensee mit rund 63.000 Einwohnern, 91 km südwestlich von Ulm.",
+"frage": "Wie groß ist das Stadtgebiet von Friedrichshafen?",
+"optionen": [
+"unter 75 km²",
+"75 bis unter 100 km²",
+"100 bis unter 150 km²",
+"150 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt mit über 60.000 Einwohnern wirkt weitläufig, deshalb schätzen viele eine größere Fläche. Das Stadtgebiet von Friedrichshafen misst 69,94 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "121-friedrichshafen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Friedrichshafen",
+"steckbrief": "Stadt am Bodensee mit rund 63.000 Einwohnern, 91 km südwestlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Zahnradfabrik entstand, um Zeppelin-Getriebe zu verbessern.",
+"Das Zeppelin-Museum befindet sich im ehemaligen Hafenbahnhof.",
+"Schloss Hofen war ursprünglich eine Burg am Seeufer."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Museum in einem Bahnhof klingt erfunden, doch das Zeppelin-Museum nutzt tatsächlich den ehemaligen Hafenbahnhof. Auch die Zahnradfabrik entstand für Zeppelin-Getriebe. Gelogen ist die Burg: Schloss Hofen war ursprünglich das Kloster Hofen und wurde später zur königlichen Sommerresidenz umgebaut. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Friedrichshafen",
+"faktencheck": "unsicher",
+"id": "121-friedrichshafen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Friedrichshafen",
+"steckbrief": "Stadt am Bodensee mit rund 63.000 Einwohnern, 91 km südwestlich von Ulm.",
+"frage": "Bundestagswahl 2025: Wie viel Prozent der Zweitstimmen erhielt in Friedrichshafen die stärkste Partei?",
+"optionen": [
+"unter 25 %",
+"25 bis unter 30 %",
+"30 bis unter 35 %",
+"35 % und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Im Süden Baden-Württembergs liegt die CDU oft weit vorn, deshalb tippen viele höher. In Friedrichshafen holte die CDU 32,4 Prozent der Zweitstimmen und wurde stärkste Partei. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "121-friedrichshafen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friedrichshafen",
+"steckbrief": "Stadt am Bodensee mit rund 63.000 Einwohnern, 91 km südwestlich von Ulm.",
+"frage": "Graf Zeppelin gründete 1908 eine Stiftung zur Förderung des Luftschiffbaus. Was sollte geschehen, falls dieser Zweck nicht mehr erfüllbar wäre?",
+"optionen": [
+"Das Vermögen sollte an die Familie Zeppelin zurückfallen.",
+"Die Stiftung sollte alles verkaufen und sich auflösen.",
+"Das Geld sollte dann die Bodenseeschifffahrt fördern.",
+"Die Erträge sollten dann wohltätigen Zwecken dienen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Dass Vermögen an die Stifterfamilie zurückfällt, klingt naheliegend. Graf Zeppelin bestimmte aber: Kann der Zweck nicht mehr erfüllt werden, fällt das Vermögen an die Stadt Friedrichshafen, und die Erträge dienen wohltätigen Zwecken. So geschah es 1947. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Friedrichshafen",
+"faktencheck": "korrigiert",
+"id": "121-friedrichshafen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Friedrichshafen",
+"steckbrief": "Stadt am Bodensee mit rund 63.000 Einwohnern, 91 km südwestlich von Ulm.",
+"frage": "Wie weit liegt Friedrichshafen in Luftlinie von der Landeshauptstadt Stuttgart entfernt?",
+"optionen": [
+"unter 140 km",
+"140 bis unter 170 km",
+"170 bis unter 200 km",
+"200 km und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Wer die Strecke fährt, schätzt meist mehr, denn Straßen machen Umwege. In Luftlinie liegen zwischen Friedrichshafen und Stuttgart 127 Kilometer. Richtig war 1.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)",
+"faktencheck": "bestätigt",
+"id": "121-friedrichshafen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Friedrichshafen",
+"steckbrief": "Stadt am Bodensee mit rund 63.000 Einwohnern, 91 km südwestlich von Ulm.",
+"frage": "1943 lebten rund 27.000 Menschen in Friedrichshafen. Wie viele waren es im Juli 1944 nach den Bombenangriffen noch?",
+"optionen": [
+"unter 5.000",
+"5.000 bis unter 10.000",
+"10.000 bis unter 20.000",
+"20.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Viele schätzen, dass trotz der Angriffe die Hälfte blieb. Doch zwei Drittel der Bewohner waren geflohen oder evakuiert; im Juli 1944 zählte die Stadt noch 7.650 Menschen. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Friedrichshafen",
+"faktencheck": "unsicher",
+"id": "121-friedrichshafen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friedrichshafen",
+"steckbrief": "Stadt am Bodensee mit rund 63.000 Einwohnern, 91 km südwestlich von Ulm.",
+"frage": "An der Hafenseite des Zeppelin-Museums erinnert eine Tafel an die sogenannten Schweizer Kinder. Wer war damit gemeint?",
+"optionen": [
+"Schweizer Kinder kamen jeden Sommer zum Seehasenfest.",
+"Schweizer Waisenkinder fanden hier eine neue Heimat.",
+"Kinder erholten sich nach Kriegsende in der Schweiz.",
+"Eine Schweizer Schulklasse überlebte hier ein Schiffsunglück."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Der Name klingt, als seien Kinder aus der Schweiz gekommen. Gemeint ist das Gegenteil: Nach dem Krieg luden großherzige Menschen Kinder zur Erholung in die Schweiz ein. An diese Einladung erinnert die Tafel. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Friedrichshafen",
+"faktencheck": "unsicher",
+"id": "121-friedrichshafen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Friedrichshafen",
+"steckbrief": "Stadt am Bodensee mit rund 63.000 Einwohnern, 91 km südwestlich von Ulm.",
+"frage": "Das Zeppelin-Luftschiff LZ 126 ging nach dem Ersten Weltkrieg an die USA. Warum?",
+"optionen": [
+"Es wurde als Wiedergutmachung an die USA übergeben.",
+"Eine amerikanische Reederei hatte es fest bestellt.",
+"Es passte in keine Halle am Bodensee.",
+"Graf Zeppelin hatte es Amerika einst versprochen."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Ein Auftrag aus Amerika klingt nach gewöhnlichem Geschäft. LZ 126 wurde jedoch als Wiedergutmachungsleistung an die USA übergeben. Seine Atlantiküberquerung 1924 sorgte für großes Aufsehen. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Friedrichshafen",
+"faktencheck": "korrigiert",
+"id": "121-friedrichshafen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "120-meersburg",
+"anschluss": [
+"Einwohner: Friedrichshafen hat gut zehnmal so viele wie Meersburg.",
+"Bundestagswahl 2025: Zweite in Meersburg die Grünen, in Friedrichshafen die AfD."
+],
+"anschluesse": {
+"120-meersburg": [
+"Einwohner: Friedrichshafen hat gut zehnmal so viele wie Meersburg.",
+"Bundestagswahl 2025: Zweite in Meersburg die Grünen, in Friedrichshafen die AfD."
+],
+"122-lindau": [
+"Landesgrenze: Lindau liegt in Bayern, Friedrichshafen in Baden-Württemberg.",
+"Bundestagswahl 2025: In Lindau lag die CSU vorn, in Friedrichshafen die CDU."
+]
+},
+"ags": "08435016",
+"ortsteil": false,
+"km_vom_vorigen": 16.3
+},
+{
+"slug": "122-lindau",
+"name": "Lindau",
+"lat": 47.54583,
+"lon": 9.68389,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lindau",
+"steckbrief": "Lindau hat rund 25.700 Einwohner und liegt 98 km südlich von Ulm.",
+"frage": "An der „Bayerischen Riviera“ in Lindau entstand ein Gürtel von Villen. Wer baute die Villa, die den Anstoß gab?",
+"optionen": [
+"Die bayerische Königsfamilie ließ sie bauen.",
+"Ein Münchner Bankier ließ sie bauen.",
+"Ein in Italien reich gewordener Kaufmann baute sie.",
+"Ein englischer Lord ließ sie bauen."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Die Königsfamilie liegt nahe, schließlich heißt die Gegend „Bayerische Riviera“. Doch sie kam erst als Nachahmerin. Den Anfang machte die Lindenhofvilla am Schachener Ufer, erbaut von F. Gruber, einem Lindauer Großkaufmann, der in Italien zu Vermögen gekommen war. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "122-lindau/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lindau",
+"steckbrief": "Lindau hat rund 25.700 Einwohner und liegt am Bodensee, 98 km südlich von Ulm.",
+"frage": "Wie hoch über dem Meeresspiegel liegt Lindau?",
+"optionen": [
+"unter 250 m",
+"250 bis unter 330 m",
+"330 bis unter 390 m",
+"390 m und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Am Ufer eines großen Sees denkt man leicht an Tiefland. Doch der Bodensee ist ein Voralpensee und liegt selbst hoch. Je nach Quelle liegt Lindau 401 oder 406 Meter über dem Meer. Richtig war 4.",
+"quelle": "Wikidata P2044; dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "122-lindau/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Lindau",
+"steckbrief": "Lindau hat rund 25.700 Einwohner und liegt 98 km südlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Im Dreißigjährigen Krieg eroberten schwedische Truppen Lindau.",
+"Beim Stadtbrand blieb die evangelische Stephanskirche verschont.",
+"Die Luitpoldkaserne war nach einem bayerischen Prinzregenten benannt."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Schwedische Truppen zogen im Dreißigjährigen Krieg weit durch Süddeutschland, das macht die Eroberung glaubhaft. Doch Lindau hielt der Belagerung stand: Bürger und eine kaiserliche Besatzung unter Graf Waldburg-Wolfegg wehrten sie ab, die Stadt blieb von Plünderungen verschont. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "122-lindau/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Lindau",
+"steckbrief": "Lindau hat rund 25.700 Einwohner und liegt am Bodensee, 98 km südlich von Ulm.",
+"frage": "Bei der Bundestagswahl 2025 lag in Lindau die CSU vorn. Welche Partei holte die zweitmeisten Zweitstimmen?",
+"optionen": [
+"AfD",
+"Grüne",
+"SPD",
+"FDP"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Die AfD wurde bundesweit zweitstärkste Kraft, daher liegt sie nahe. In Lindau aber holten die Grünen mit 16,3 Prozent Platz zwei hinter der CSU. AfD und SPD folgten mit 13,9 und 13,5 Prozent fast gleichauf. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "122-lindau/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lindau",
+"steckbrief": "Lindau hat rund 25.700 Einwohner und liegt 98 km südlich von Ulm.",
+"frage": "Der Legende nach gründete Graf Adalbert von Rätien auf der Insel ein Frauenkloster. Aus welchem Anlass soll er es gestiftet haben?",
+"optionen": [
+"Er dankte für einen Sieg in einer Schlacht.",
+"Er dankte für die Heilung von einer Seuche.",
+"Er dankte für seine Rettung aus Seenot.",
+"Er dankte für die Geburt eines Erben."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Sieg liegt nahe, denn Adlige stifteten Klöster oft als Dank für Kriegsglück. Die Lindauer Stadtgeschichte erzählt es anders: Der Legende nach soll Graf Adalbert das Kloster zum Dank für seine Rettung aus Seenot gegründet haben. An das Stift erinnert heute das Münster Unserer Lieben Frau, die einstige Stiftskirche. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/",
+"faktencheck": "korrigiert",
+"id": "122-lindau/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Lindau",
+"steckbrief": "Lindau hat rund 25.700 Einwohner und liegt 98 km südlich von Ulm.",
+"frage": "Wie weit ist Lindau in Luftlinie von der Landeshauptstadt München entfernt?",
+"optionen": [
+"unter 80 km",
+"80 bis unter 110 km",
+"110 bis unter 140 km",
+"140 km und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Lindau gehört zu Bayern, das lässt an einen kurzen Weg nach München denken. Doch Lindau liegt ganz im Südwesten des Freistaats, im Dreiländereck mit Österreich und der Schweiz. Bis München sind es 156 Kilometer Luftlinie, deutlich mehr als bis Ulm. Richtig war 4.",
+"quelle": "berechnet aus Koordinaten (Wikidata, staedte.json); Gemeinde-Webseite, www.stadtlindau.de/Unsere-Stadt/Stadtportrait/",
+"faktencheck": "korrigiert",
+"id": "122-lindau/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lindau",
+"steckbrief": "Lindau hat rund 25.700 Einwohner und liegt 98 km südlich von Ulm.",
+"frage": "Seit 1951 treffen sich in Lindau Nobelpreisträger mit studentischem Nachwuchs. Was kam 2004 hinzu?",
+"optionen": [
+"Seitdem kommen auch Preisträger der Wirtschaftswissenschaften.",
+"Seitdem kommen auch Preisträger der Literatur.",
+"Seitdem kommen auch Preisträger der Physik.",
+"Seitdem kommen auch Nobelpreisträger der Mathematik."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Einen Nobelpreis für Mathematik gibt es nicht, und um Literatur geht es in Lindau nicht: Hier treffen Nobelpreisträger aus Medizin, Chemie und Physik studentischen Nachwuchs. Seit 2004 kommen auch Preisträger der Wirtschaftswissenschaften dazu. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.stadtlindau.de/Unsere-Stadt/Stadtportrait/ und www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/ NEGATIVNACHWEIS 4 (neu): Weg (a). Einen Nobelpreis für Mathematik gibt es nicht. Die Nobelstiftung vergibt Preise für Physik, Chemie, Medizin, Literatur und Frieden; dazu kommt der Preis der Reichsbank für Wirtschaftswissenschaften.",
+"faktencheck": "korrigiert",
+"id": "122-lindau/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lindau",
+"steckbrief": "Lindau hat rund 25.700 Einwohner und liegt 98 km südlich von Ulm.",
+"frage": "Horst Wolfram Geißlers Roman „Der liebe Augustin“ von 1921 gilt als Lindauer „Nationalepos“. Wer war das Vorbild seiner Heldin?",
+"optionen": [
+"Eine Lindauer Fischerstochter stand Modell.",
+"Eine Äbtissin des Lindauer Damenstifts stand Modell.",
+"Eine Wiener Sängerin stand Modell.",
+"Die Ehefrau des Autors stand Modell."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Der Titel erinnert an das Wiener Lied vom lieben Augustin, da liegt eine Wienerin nahe. Doch Geißler fand das Vorbild im Lindauer Damenstift: Äbtissin Friederike von Bretzenheim. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "122-lindau/v0.8/8",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Lindau",
+"steckbrief": "Lindau hat rund 25.700 Einwohner und liegt am Bodensee, 98 km südlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Mailänder Boten brachten Waren über Bündner Pässe nach Oberitalien.",
+"Den Hafen zieren ein Leuchtturm und ein bayerischer Löwe.",
+"Zum Lindauer Reichstag reiste der Kaiser persönlich an."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Reichstag ohne Kaiser klingt seltsam, doch Kaiser ließen sich oft vertreten. So auch in Lindau: Im Alten Rathaus vertrat Herzog Philipp von Burgund Kaiser Maximilian I. vor Reichsfürsten und Reichsstädten. Ein Freskenband zeigt seinen Einzug. Die Lüge war 3.",
+"quelle": "Gemeinde-Webseite, www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "122-lindau/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Lindau",
+"steckbrief": "Lindau hat rund 25.700 Einwohner und liegt 98 km südlich von Ulm.",
+"frage": "Das Haus „Zum Sünfzen“ an der Maximilianstraße wurde 1358 erbaut. Wer ließ es bauen?",
+"optionen": [
+"Ein reicher Weinhändler ließ es bauen.",
+"Das Damenstift ließ es bauen.",
+"Die Zunft der Fischer ließ es bauen.",
+"Ein Zusammenschluss von Patriziern ließ es bauen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Eine Zunft liegt nahe, denn Handwerker trafen sich oft in eigenen Häusern. Bauherrin war aber die Gesellschaft „Zum Sünfzen“, ein Zusammenschluss Lindauer Patrizier, also der vornehmen Familien der Stadt. Das Haus steht bis heute. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.stadtlindau.de/Unsere-Stadt/Stadtgeschichte/",
+"faktencheck": "bestätigt",
+"id": "122-lindau/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "121-friedrichshafen",
+"anschluss": [
+"Kreisgrenze: In Friedrichshafen steht FN am Auto, in Lindau LI.",
+"Einwohner: Friedrichshafen hat mehr als doppelt so viele wie Lindau."
+],
+"anschluesse": {
+"121-friedrichshafen": [
+"Kreisgrenze: In Friedrichshafen steht FN am Auto, in Lindau LI.",
+"Einwohner: Friedrichshafen hat mehr als doppelt so viele wie Lindau."
+],
+"123-wangen": [
+"Landesgrenze: Wangen im Allgäu liegt in Baden-Württemberg, Lindau in Bayern.",
+"Bundestagswahl 2025: In Wangen im Allgäu lag die CDU vorn, in Lindau die CSU."
+]
+},
+"ags": "09776116",
+"ortsteil": false,
+"km_vom_vorigen": 19.5
+},
+{
+"slug": "123-wangen",
+"name": "Wangen im Allgäu",
+"lat": 47.68583,
+"lon": 9.83417,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wangen im Allgäu",
+"steckbrief": "Stadt im Allgäu mit rund 29.000 Einwohnern, 80 km südlich von Ulm.",
+"frage": "Auf dem Marktplatz von Wangen zieht sich eine dunkle Linie durchs Pflaster. Was zeigt sie?",
+"optionen": [
+"Sie markiert die Grenze zwischen Ober- und Unterstadt.",
+"Sie zeigt den Umriss eines abgebrochenen Herrensitzes.",
+"Sie folgt dem Lauf eines zugeschütteten Stadtbachs.",
+"Sie zeichnet den Rand eines früheren Marktbrunnens nach."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Eine Grenze liegt nahe, denn die Altstadt teilt sich in Ober- und Unterstadt. Doch die dunklen Pflastersteine zeichnen den Umriss eines Gebäudes nach, das einst dort stand: das Domizil der Herren von Praßberg. Es wurde abgebrochen. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt",
+"faktencheck": "bestätigt",
+"id": "123-wangen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wangen im Allgäu",
+"steckbrief": "Stadt mit rund 29.000 Einwohnern, 80 km südlich von Ulm.",
+"frage": "Wangen umfasst neben der Kernstadt mehrere eingemeindete Ortschaften. Wie viele Einwohner kommen dort auf einen Quadratkilometer?",
+"optionen": [
+"unter 150",
+"150 bis unter 250",
+"250 bis unter 400",
+"400 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Wer an die enge Altstadt denkt, schätzt die Stadt dichter besiedelt. Doch zu Wangen gehören auch Ortsteile wie Haslach und Primisweiler an der Unteren Argen. Rechnerisch kommen rund 284 Einwohner auf einen Quadratkilometer. Richtig war 3.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "123-wangen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Wangen im Allgäu",
+"steckbrief": "Stadt im Allgäu mit rund 29.000 Einwohnern, 80 km südlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Das Martinstor wird auch Lindauer Tor genannt.",
+"Der Antonius-Brunnen steht auf dem früheren Pferdemarkt.",
+"Der Esel-Brunnen greift eine Fabel des Aesop auf."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Pferde passen zu jedem alten Marktort, deshalb klingt die Aussage harmlos. Doch der Antonius-Brunnen steht am Saumarkt, wo seit Hunderten von Jahren wöchentlich der Schweinemarkt abgehalten wurde. Einen besseren Standort hätte er nicht finden können. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt",
+"faktencheck": "korrigiert",
+"id": "123-wangen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wangen im Allgäu",
+"steckbrief": "Stadt im württembergischen Allgäu mit rund 29.000 Einwohnern, 80 km südlich von Ulm.",
+"frage": "Wie hoch war die Wahlbeteiligung in Wangen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 85 %",
+"85 bis unter 88 %",
+"88 bis unter 91 %",
+"91 % und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Die Spanne darüber liegt nahe, denn 2025 war die Beteiligung bundesweit so hoch wie lange nicht. In Wangen lag sie bei 84,2 Prozent, also knapp unter der Grenze von 85 Prozent. Richtig war 1.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "123-wangen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wangen im Allgäu",
+"steckbrief": "Stadt mit rund 29.000 Einwohnern, 80 km südlich von Ulm.",
+"frage": "Vor dem Landratsamt in Wangen steht ein Brunnen, an dem sich alle Figuren bewegen lassen. Worüber macht er sich lustig?",
+"optionen": [
+"Er verspottet die Rivalität mit Ravensburg.",
+"Er nimmt die Bürokratie der Behörden aufs Korn.",
+"Er verulkt die Narren der Wangener Fasnet.",
+"Er macht sich über die Touristen lustig."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bewegliche Figuren erinnern an die Fasnet, darum liegen Narren nahe. Doch es ist der Amtsschimmel-Brunnen, und der Amtsschimmel steht sprichwörtlich für Behördenkram. Bei der Einweihung nannte ihn der damalige Ravensburger Landrat Guntram Blaser einen Beitrag zur Selbstironie der Bürokratie. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt",
+"faktencheck": "korrigiert",
+"id": "123-wangen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Wangen im Allgäu",
+"steckbrief": "Stadt im württembergischen Allgäu mit rund 29.000 Einwohnern, 80 km südlich von Ulm.",
+"frage": "Wie groß ist das Stadtgebiet von Wangen samt seinen Ortschaften?",
+"optionen": [
+"unter 50 km²",
+"50 bis unter 80 km²",
+"80 bis unter 120 km²",
+"120 km² und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Stadt dieser Größe stellt man sich kompakt vor. Doch bei der Verwaltungsreform kamen mehrere Gemeinden hinzu, etwa Neuravensburg, das bis dahin selbständig war. So misst das Stadtgebiet heute rund 101 Quadratkilometer. Richtig war 3.",
+"quelle": "Wikidata P2046 (101,29 km²); Altbestand staedte.json (101,35 km²)",
+"faktencheck": "bestätigt",
+"id": "123-wangen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wangen im Allgäu",
+"steckbrief": "Stadt mit rund 29.000 Einwohnern, 80 km südlich von Ulm.",
+"frage": "In Wangen gibt es das Deutsche Eichendorff-Museum, obwohl der Dichter aus Schlesien stammte. Wie kam es dazu?",
+"optionen": [
+"Eichendorff lebte einige Jahre in Wangen.",
+"Nachfahren schenkten der Stadt seinen Nachlass.",
+"Die Stadt ersteigerte eine große Sammlung.",
+"Vertriebene Schlesier trugen die Sammlung zusammen."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Dichtermuseum vermutet man dort, wo der Dichter gelebt hat. Doch Willibald Köhler und Karl Fleischer, beide aus Schlesien vertrieben, sammelten Erinnerungsstücke an die Dichter ihrer Heimat und eröffneten zunächst selbst Museen. Später kamen die Sammlungen unter ein städtisches Dach. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.wangen.de/gaeste/zu-gast-in-wangen/kultur-und-kunst/museumslandschaft",
+"faktencheck": "korrigiert",
+"id": "123-wangen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Wangen im Allgäu",
+"steckbrief": "Stadt mit rund 29.000 Einwohnern, 80 km südlich von Ulm.",
+"frage": "In der Ortschaft Schomburg überquert eine gedeckte Holzbrücke die Obere Argen. Über sie führte einst eine Fernstraße über Lindau hinaus. Welches Ziel nennt die Ortsgeschichte?",
+"optionen": [
+"Die Straße führte weiter bis nach Mailand.",
+"Die Straße führte weiter bis nach Venedig.",
+"Die Straße führte weiter bis nach Genua.",
+"Die Straße führte weiter bis nach Turin."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Venedig liegt nahe, denn dorthin lief viel Handel über die Alpen. Doch die Ortsgeschichte nennt die Fernstraße Augsburg–Wangen–Lindau–Mailand. Die gedeckte Holzbrücke über die Obere Argen wurde unter Fürstabt Beda Angehrn von St. Gallen erbaut. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.wangen.de/buerger/stadt-ortschaften/ortschaften/schomburg",
+"faktencheck": "korrigiert",
+"id": "123-wangen/v0.8/8",
+"tisch": false
+}
+],
+"anschluss_von": "122-lindau",
+"anschluss": [
+"Einwohner: Wangen zählt rund 3.000 mehr als Lindau.",
+"Die Burg Neuravensburg in Wangen gehörte 1450 bis 1586 Lindau."
+],
+"anschluesse": {
+"122-lindau": [
+"Einwohner: Wangen zählt rund 3.000 mehr als Lindau.",
+"Die Burg Neuravensburg in Wangen gehörte 1450 bis 1586 Lindau."
+]
+},
+"ags": "08436081",
+"ortsteil": false,
+"km_vom_vorigen": 19.2
+},
+{
+"slug": "124-memmingen",
+"name": "Memmingen",
+"lat": 47.98778,
+"lon": 10.18111,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Memmingen",
+"steckbrief": "Rund 44.000 Einwohner, 48 km südlich von Ulm.",
+"frage": "Das neue Feuerwehrhaus im Memminger Ortsteil Eisenburg ist ein Holzbau. Woher stammt das Holz?",
+"optionen": [
+"Es stammt aus dem Memminger Stadtwald.",
+"Es stammt aus Wäldern in Skandinavien.",
+"Es stammt aus dem Bregenzerwald in Österreich.",
+"Es stammt aus Fichtenwäldern im Schwarzwald."
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Naheliegend wäre Bauholz aus dem Handel, etwa aus Österreich oder Skandinavien. Doch das Holz für das neue Feuerwehrhaus in Eisenburg kam aus dem Memminger Stadtwald. Neu gebaut wurde am Ortsrand, weil das enge Grundstück und die Nähe zur denkmalgeschützten Kapelle St. Johann Nepomuk eine Erweiterung des alten Hauses verhinderten. Richtig war 1.",
+"quelle": "Gemeinde-Webseite, www.memmingen.de/rathaus/bauprojekte/feuerwehrhaus-eisenburg.html",
+"faktencheck": "korrigiert",
+"id": "124-memmingen/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Memmingen",
+"steckbrief": "Stadt in Bayern, 48 km südlich von Ulm, gut 70 km² groß.",
+"frage": "Wie viele Menschen leben in der Stadt Memmingen?",
+"optionen": [
+"unter 30.000",
+"30.000 bis unter 50.000",
+"50.000 bis unter 80.000",
+"80.000 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer bei Memmingen an ein Allgäuer Städtchen denkt, schätzt leicht zu niedrig. Tatsächlich zählte Memmingen Ende 2025 44.378 Einwohner. Richtig war 2.",
+"quelle": "Wikidata P1082, Stand 2025-12-31",
+"faktencheck": "bestätigt",
+"id": "124-memmingen/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Memmingen",
+"steckbrief": "Rund 44.000 Einwohner, 48 km südlich von Ulm.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Fußball-Weltmeister Mario Götze wurde in Memmingen geboren.",
+"Memmingen war im Mittelalter eine Freie Reichsstadt.",
+"Der Flughafen Memmingen liegt auf Memminger Stadtgebiet."
+],
+"art": "luege",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Götze verbindet man eher mit Dortmund oder München, doch geboren ist er in Memmingen. Und Freie Reichsstadt war Memmingen tatsächlich. Gelogen ist der Flughafen: Trotz seines Namens liegt er nicht in der Stadt, sondern in Memmingerberg, Benningen und Hawangen. Die Lüge war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Memmingen",
+"faktencheck": "unsicher",
+"id": "124-memmingen/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Memmingen",
+"steckbrief": "Stadt in Bayern mit rund 44.000 Einwohnern, 48 km südlich von Ulm.",
+"frage": "Wie viel Prozent der Zweitstimmen holte die stärkste Partei in Memmingen bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 24 %",
+"24 bis unter 28 %",
+"28 bis unter 32 %",
+"32 % und mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Wer die starke AfD einrechnet, tippt bei der CSU leicht zu tief. Sie lag in Memmingen bei der Bundestagswahl 2025 mit 33,4 Prozent der Zweitstimmen klar vorn, vor der AfD. Richtig war 4.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "124-memmingen/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Memmingen / Rund 44.000 Einwohner, 48 km südlich von Ulm. / Jedes Jahr im Sommer feiert Memmingen den Fischertag. Was geschieht dabei im Kern? 1. Fischer fischen den Stadtbach in der Altstadt leer. 2. Fischer fahren in geschmückten Booten die Iller hinab. 3. Die Stadt setzt Jungfische in die Iller aus. 4. Fischer fischen einen Weiher vor der Stadt leer.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Bei Fischen denkt man an die Iller oder an Weiher vor der Stadt. Doch beim Fischertag fischen zahlreiche Fischer den Stadtbach mitten in der Altstadt leer. Wer die schwerste Forelle fängt, wird Fischerkönig. Richtig war 1.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Memmingen",
+"faktencheck": "korrigiert",
+"id": "124-memmingen/v0.8/5",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Memmingen",
+"steckbrief": "Rund 44.000 Einwohner, 48 km südlich von Ulm.",
+"frage": "Wie viele Einwohner leben in Memmingen durchschnittlich auf einem Quadratkilometer?",
+"optionen": [
+"unter 400",
+"400 bis unter 800",
+"800 bis unter 1.500",
+"1.500 und mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt mit rund 44.000 Einwohnern erwartet man dichte Bebauung. Doch das Stadtgebiet ist mit gut 70 Quadratkilometern weitläufig. So kommen auf jeden Quadratkilometer 633 Einwohner. Richtig war 2.",
+"quelle": "berechnet aus Einwohnern (Wikidata P1082, Stand 2025-12-31) und Fläche (Wikidata P2046)",
+"faktencheck": "bestätigt",
+"id": "124-memmingen/v0.8/6",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Geschichte",
+"ort": "Memmingen",
+"steckbrief": "Rund 44.000 Einwohner, 48 km südlich von Ulm.",
+"frage": "Alle vier Jahre spielt Memmingen bei den Wallensteinfestspielen das Jahr 1630 nach. Wie viele Bürger wirken in historischen Kostümen mit?",
+"optionen": [
+"unter 500",
+"500 bis unter 2.000",
+"2.000 bis unter 8.000",
+"8.000 und mehr"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Bürgerspiel denkt man an einen überschaubaren Kreis von Mitwirkenden. Doch bei den Wallensteinfestspielen schlüpfen etwa 4500 Bürger eine Woche lang in historische Kostüme und spielen den Sommer 1630 nach, als Wallenstein mit seinem Heer in der Stadt lag. Richtig war 3.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Memmingen",
+"faktencheck": "korrigiert",
+"id": "124-memmingen/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Memmingen",
+"steckbrief": "Rund 44.000 Einwohner, 48 km südlich von Ulm.",
+"frage": "Um 1525 entstanden in Memmingen die Zwölf Artikel. Was waren sie?",
+"optionen": [
+"Sie waren die Zunftordnung der Memminger Handwerker.",
+"Sie waren Forderungen der aufständischen oberschwäbischen Bauern.",
+"Sie waren ein Friedensvertrag zwischen Bauern und Adel.",
+"Sie waren das neue Stadtrecht der Reichsstadt."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. „Artikel“ klingt nach Satzung oder Vertrag. Doch die Zwölf Artikel fassten im Bauernkrieg die Forderungen der aufständischen oberschwäbischen Bauern zusammen. Maßgeblich beteiligt waren der Kürschner Sebastian Lotzer und der Prediger Christoph Schappeler. Sie zählen zu den frühen Forderungen nach Freiheitsrechten in Europa. Richtig war 2.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Memmingen",
+"faktencheck": "korrigiert",
+"id": "124-memmingen/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Memmingen / Rund 44.000 Einwohner, 48 km südlich von Ulm. / Im Dreißigjährigen Krieg hielt sich Wallenstein im Sommer 1630 mit seinem Heer in Memmingen auf. Was geschah in dieser Zeit? 1. Er belagerte die Stadt vergeblich von außen. 2. Er heiratete eine Memminger Kaufmannstochter. 3. Er schloss dort Frieden mit den Schweden. 4. Er wurde als Oberbefehlshaber der Kaiserlichen abgesetzt.",
+"steckbrief": "",
+"frage": "",
+"optionen": [],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Ein Feldherr bei einer Stadt klingt nach Belagerung. Doch Wallenstein hielt sich in der Stadt auf, nicht vor ihr. Im September 1630 überbrachten ihm dort kaiserliche Gesandte seine Absetzung als Oberbefehlshaber der Kaiserlichen. Richtig war 4.",
+"quelle": "Wikipedia, de.wikipedia.org/wiki/Memmingen",
+"faktencheck": "korrigiert",
+"id": "124-memmingen/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "123-wangen",
+"anschluss": [
+"Bundestagswahl 2025: In Wangen wählten 84,2 Prozent, in Memmingen 79,8.",
+"Fläche: Wangen ist größer als Memmingen, hat aber weniger Einwohner."
+],
+"anschluesse": {
+"123-wangen": [
+"Bundestagswahl 2025: In Wangen wählten 84,2 Prozent, in Memmingen 79,8.",
+"Fläche: Wangen ist größer als Memmingen, hat aber weniger Einwohner."
+]
+},
+"ags": "09764000",
+"ortsteil": false,
+"km_vom_vorigen": 42.4
+},
+{
+"slug": "125-mindelheim",
+"name": "Mindelheim",
+"lat": 48.05313,
+"lon": 10.49152,
+"karten": [
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Mindelheim",
+"steckbrief": "Stadt mit rund 15.300 Einwohnern, 47 km südwestlich von Augsburg.",
+"frage": "Wie groß ist das gesamte Stadtgebiet von Mindelheim einschließlich aller Ortsteile?",
+"optionen": [
+"unter 60 km²",
+"60 bis unter 85 km²",
+"85 bis unter 110 km²",
+"110 km² und mehr"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Zahlreiche eingemeindete Ortsteile wie Nassenbeuren, Mindelau oder Westernach lassen ein weites Stadtgebiet vermuten. Doch alles zusammen misst nur 56,42 Quadratkilometer. Richtig war 1.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "125-mindelheim/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Mindelheim",
+"steckbrief": "Stadt mit rund 15.300 Einwohnern, 47 km südwestlich von Augsburg.",
+"frage": "Es geht um Wappen und Stadtfarben. Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Die Wellen im Wappen stehen für den Lech.",
+"Die Glocke im Wappen steht für das Marktrecht.",
+"Die Stadtfarben erinnern an die Herzöge von Teck."
+],
+"art": "luege",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Der Lech ist der große Fluss der Region, darum klingt das glaubhaft. Doch die Wellen stehen für die Mindel, an der die Stadt liegt und nach der sie heißt. Die Glocke, eine Markt- oder Ratsglocke, steht auch für die Autonomie der Bürger. Die Stadtfarben Schwarz und Gold erinnern zudem an das Geschlecht Frundsberg. Die Lüge war 1.",
+"quelle": "Gemeinde-Webseite, www.mindelheim.de/unsere-stadt/mindelheim/stadtwappen",
+"faktencheck": "korrigiert",
+"id": "125-mindelheim/v0.8/3",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Mindelheim",
+"steckbrief": "Stadt mit rund 15.300 Einwohnern, 47 km südwestlich von Augsburg.",
+"frage": "Welche Partei wurde in Mindelheim bei der Bundestagswahl 2025 nach Zweitstimmen zweitstärkste Kraft?",
+"optionen": [
+"CSU",
+"SPD",
+"AfD",
+"GRÜNE"
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. In einer schwäbischen Kreisstadt liegt die CSU vorn, dahinter vermutet man die SPD, lange die zweite Volkspartei. Doch Platz zwei ging an die AfD mit 22,1 Prozent, weit vor der SPD mit 10,4 Prozent. Die CSU kam auf 37,8 Prozent. Richtig war 3.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "125-mindelheim/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mindelheim",
+"steckbrief": "Stadt mit rund 15.300 Einwohnern, 47 km südwestlich von Augsburg.",
+"frage": "Georg von Frundsberg, der „Vater der Landsknechte“, kam auf der Mindelburg zur Welt. Wo starb der kaiserliche Feldhauptmann?",
+"optionen": [
+"Er fiel in einer Schlacht in Italien.",
+"Er starb in Gefangenschaft in Frankreich.",
+"Er starb am Kaiserhof in Wien.",
+"Er starb auf der Mindelburg."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einem Landsknechtsführer liegt der Tod im Feld nahe. Doch Georg von Frundsberg starb dort, wo er geboren war: auf der Mindelburg über dem Mindeltal. Als Feldhauptmann diente er den Kaisern Maximilian und Karl. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.mindelheim.de/tourismus/entdecken/mindelburg und www.mindelheim.de/tourismus/entdecken/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "125-mindelheim/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Mindelheim",
+"steckbrief": "Stadt mit rund 15.300 Einwohnern, 47 km südwestlich von Augsburg.",
+"frage": "Zu welchem Landkreis gehört Mindelheim?",
+"optionen": [
+"Landkreis Unterallgäu",
+"Landkreis Ostallgäu",
+"Landkreis Günzburg",
+"Landkreis Augsburg"
+],
+"art": "richtig",
+"loesung": 1,
+"rueckseite": "Du hattest [Option] getippt. Augsburg ist die nächste Großstadt, und Allgäuer Kreise gibt es mehrere, darum klingen viele Antworten plausibel. Mindelheim gehört zum Landkreis Unterallgäu und ist dessen Kreisstadt: In Mindelheim sitzt das Landratsamt. Richtig war 1.",
+"quelle": "dewiki Infobox",
+"faktencheck": "bestätigt",
+"id": "125-mindelheim/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mindelheim",
+"steckbrief": "Stadt mit rund 15.300 Einwohnern, 47 km südwestlich von Augsburg.",
+"frage": "1796 zogen französische Truppen durch Mindelheim. Was bewahrte die Stadt vor Plünderung und Brandschatzung?",
+"optionen": [
+"Die Bürger verteidigten erfolgreich ihre Stadtmauern.",
+"Die Posthalterin der Stadt griff ein.",
+"Ein Hochwasser der Mindel hielt die Truppen von der Stadt fern.",
+"Die Truppen zogen an Mindelheim vorbei, ohne die Stadt zu betreten."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Feste Mauern oder ein Umweg der Truppen, das liegt nahe. Doch die Franzosen zogen durch die Stadt, und die Ortsgeschichte nennt eine Frau: Posthalterin Caecilia von Dreer bewahrte Mindelheim durch mutiges Handeln vor Plünderung und Brandschatzung. Brandschatzung hieß: Geld erpressen unter Androhung von Feuer. Ihre Post von damals heißt heute Alte Post. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.mindelheim.de/tourismus/entdecken/stadtgeschichte",
+"faktencheck": "korrigiert",
+"id": "125-mindelheim/v0.8/7",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mindelheim",
+"steckbrief": "Stadt mit rund 15.300 Einwohnern, 47 km südwestlich von Augsburg.",
+"frage": "Mindelheim hat eine lange Krippentradition. Wer hat sie begründet?",
+"optionen": [
+"Mönche aus dem Kloster Ottobeuren brachten sie mit.",
+"Tiroler Holzschnitzer brachten den Brauch mit.",
+"Ein Augsburger Kaufmann stiftete die erste Krippe.",
+"Die Jesuiten haben die Tradition begründet."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Krippen verbindet man gern mit Tiroler Schnitzkunst oder großen Klöstern, das liegt nahe. Doch begründet haben die Tradition die Jesuiten. Ihr ehemaliges Kolleg beherbergt heute das Schwäbische Krippenmuseum. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.mindelheim.de/tourismus/kultur-museen/krippen-museums-stadt",
+"faktencheck": "bestätigt",
+"id": "125-mindelheim/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Mindelheim",
+"steckbrief": "Stadt mit rund 15.300 Einwohnern, 47 km südwestlich von Augsburg.",
+"frage": "Unter der heutigen Kirche St. Vitus im Ortsteil Nassenbeuren fand man Reste aus römischer Zeit. Was war dort einst?",
+"optionen": [
+"Dort stand ein römischer Tempel.",
+"Dort lag das Bad eines Gutshofs.",
+"Dort lag ein römisches Militärlager.",
+"Dort stand eine römische Straßenstation."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Kirchen stehen oft auf alten Kultstätten, darum liegt ein Tempel nahe. Doch unter St. Vitus kam eine römische Badeanlage zutage. Sie gehörte zu einer Villa rustica, einem römischen Gutshof. Siedlungsspuren in Nassenbeuren reichen sogar bis in die Hallstattzeit zurück. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.mindelheim.de/unsere-stadt/mindelheim/ortsteile",
+"faktencheck": "bestätigt",
+"id": "125-mindelheim/v0.8/9",
+"tisch": false
+}
+],
+"anschluss_von": "124-memmingen",
+"anschluss": [
+"Kennzeichen: In Memmingen steht MM am Auto, in Mindelheim MN.",
+"Einwohner: Memmingen hat fast dreimal so viele wie Mindelheim."
+],
+"anschluesse": {
+"124-memmingen": [
+"Kennzeichen: In Memmingen steht MM am Auto, in Mindelheim MN.",
+"Einwohner: Memmingen hat fast dreimal so viele wie Mindelheim."
+]
+},
+"ags": "09778173",
+"ortsteil": false,
+"km_vom_vorigen": 24.2
+},
+{
+"slug": "126-landsberg",
+"name": "Landsberg am Lech",
+"lat": 48.05277,
+"lon": 10.86893,
+"karten": [
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Landsberg am Lech",
+"steckbrief": "Stadt am Lech mit rund 29.000 Einwohnern, 36 km südlich von Augsburg.",
+"frage": "1315 ging Landsberg in Flammen auf. Was steckte nach der Stadtgeschichte dahinter?",
+"optionen": [
+"Ein Blitz setzte die Dächer in Brand.",
+"Funken aus einer Schmiede entzündeten ein Haus.",
+"Nach mehrtägiger Belagerung brannte ein Feind sie nieder.",
+"Ein Bürger legte aus Rache Feuer."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Blitz oder Funkenflug liegen nahe, denn mittelalterliche Städte brannten oft aus Versehen ab. Landsberg aber belagerte Friedrich der Schöne mehrere Tage und brannte es dann nieder. Ludwig der Bayer gewährte der Stadt danach Einnahmen für den Wiederaufbau. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/",
+"faktencheck": "bestätigt",
+"id": "126-landsberg/v0.8/1",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Landsberg am Lech",
+"steckbrief": "Stadt am Lech mit rund 29.000 Einwohnern, 36 km südlich von Augsburg.",
+"frage": "Wie groß ist das Stadtgebiet von Landsberg am Lech?",
+"optionen": [
+"unter 15 km²",
+"15 bis unter 30 km²",
+"30 bis unter 50 km²",
+"50 km² oder mehr"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Bei einer Stadt dieser Größe denkt man an ein kompaktes Gebiet. Doch Landsberg am Lech misst 57,9 Quadratkilometer, auch weil Reisch und Pitzling sowie Erpfting mit Ellighofen eingemeindet wurden. Richtig war 4.",
+"quelle": "Wikidata P2046",
+"faktencheck": "bestätigt",
+"id": "126-landsberg/v0.8/2",
+"tisch": false
+},
+{
+"familie": "B",
+"sorte": "Geschichte",
+"ort": "Landsberg am Lech",
+"steckbrief": "Stadt am Lech mit rund 29.000 Einwohnern, 36 km südlich von Augsburg.",
+"frage": "Zwei dieser Aussagen stimmen, eine ist gelogen. Welche?",
+"optionen": [
+"Landsberg erhielt einst die gleichen Rechte wie München.",
+"Die Eisenbahn verhalf der Lechflößerei zu neuem Aufschwung.",
+"Ein künstlicher Mühlbach trieb Mühlen und Sägen an."
+],
+"art": "luege",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Gleiche Rechte wie München klingen übertrieben, stimmen aber: Ludwig der Bayer gewährte sie. Gelogen ist die Eisenbahn-Aussage. Die Lechflößerei transportierte jahrhundertelang Holz und Baumaterialien, doch mit der Eisenbahn ging sie nieder. Die Lüge war 2.",
+"quelle": "Gemeinde-Webseite, www.landsberg.de/kultur/stadtgeschichte/landsberg-und-der-lech/",
+"faktencheck": "bestätigt",
+"id": "126-landsberg/v0.8/3",
+"tisch": false
+},
+{
+"familie": "C",
+"sorte": "Klassiker",
+"ort": "Landsberg am Lech",
+"steckbrief": "Stadt am Lech mit rund 29.000 Einwohnern, 36 km südlich von Augsburg.",
+"frage": "Wie hoch war die Wahlbeteiligung in Landsberg am Lech bei der Bundestagswahl 2025?",
+"optionen": [
+"unter 80 %",
+"80 bis unter 85 %",
+"85 bis unter 90 %",
+"90 % oder mehr"
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Wer an frühere Wahlen denkt, schätzt oft tiefer. In Landsberg am Lech lag die Wahlbeteiligung bei 83,8 Prozent. Bei den Zweitstimmen lag die CSU vorn, dahinter die Grünen. Richtig war 2.",
+"quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23",
+"faktencheck": "bestätigt",
+"id": "126-landsberg/v0.8/4",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Landsberg am Lech",
+"steckbrief": "Stadt am Lech mit rund 29.000 Einwohnern, 36 km südlich von Augsburg.",
+"frage": "Um 1160, zur Zeit Heinrichs des Löwen, entstand auf dem Schlossberg die Burg Landespurch. Wozu diente sie?",
+"optionen": [
+"Sie diente den Landesherren als Jagdsitz.",
+"Sie bewachte eine Silbergrube am Steilufer.",
+"Sie sicherte als Grenzposten den Salzhandel.",
+"Sie schützte eine Pilgerherberge am Lech."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Ein Jagdsitz liegt nahe, denn manche Burgen waren reine Jagdsitze des Adels. Landespurch war aber ein militärischer Grenzstützpunkt: Sie sicherte den Salzhandel auf der Salzstraße von Reichenhall nach Oberschwaben. Heinrich der Löwe wollte den Salzhandel kontrollieren und ließ den Handelsweg über Landsberg ausbauen. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/",
+"faktencheck": "unsicher",
+"id": "126-landsberg/v0.8/5",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Klassiker",
+"ort": "Landsberg am Lech",
+"steckbrief": "Stadt am Lech mit rund 29.000 Einwohnern, 36 km südlich von Augsburg.",
+"frage": "Welches Kennzeichen tragen die meisten Autos in Landsberg am Lech?",
+"optionen": [
+"A",
+"FFB",
+"MN",
+"LL"
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. A liegt nahe, denn Augsburg ist die nächste Großstadt. Landsberg am Lech gehört aber zum gleichnamigen Landkreis Landsberg am Lech, und dort steht LL am Auto. Richtig war 4.",
+"quelle": "Wikidata P395",
+"faktencheck": "bestätigt",
+"id": "126-landsberg/v0.8/6",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Landsberg am Lech",
+"steckbrief": "Stadt am Lech mit rund 29.000 Einwohnern, 36 km südlich von Augsburg.",
+"frage": "Die Landsberger Lechbrücke ist erstmals um 1150 belegt. In welchem Zusammenhang wird sie erwähnt?",
+"optionen": [
+"Ein Hochwasser hatte die Brücke fortgerissen.",
+"Bei der Brücke wurde ein Gutskauf abgeschlossen.",
+"Ein Bischof weihte die neue Brücke ein.",
+"An der Brücke wurde eine Schlacht geschlagen."
+],
+"art": "richtig",
+"loesung": 2,
+"rueckseite": "Du hattest [Option] getippt. Ein Hochwasser liegt nahe, denn der Lech war ein ungestümer Wildfluss. Die Brücke steht aber in den Traditionen, den Besitzaufzeichnungen des Klosters Polling: Bei ihr wurde ein Gutskauf abgeschlossen. Sie ersetzte Furt und Fähre über den Lech. Richtig war 2.",
+"quelle": "Gemeinde-Webseite, www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/",
+"faktencheck": "unsicher",
+"id": "126-landsberg/v0.8/8",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Landsberg am Lech",
+"steckbrief": "Stadt am Lech mit rund 29.000 Einwohnern, 36 km südlich von Augsburg.",
+"frage": "Jahrhundertelang fuhren Flöße auf dem Lech bei Landsberg. Bis wohin reichte ihre Route?",
+"optionen": [
+"Sie führte über den Rhein zur Nordsee.",
+"Sie führte über die Elbe bis Hamburg.",
+"Sie führte über die Etsch zur Adria.",
+"Sie führte über die Donau zum Schwarzen Meer."
+],
+"art": "richtig",
+"loesung": 4,
+"rueckseite": "Du hattest [Option] getippt. Die Nordsee liegt nahe, weil man bei Flößen oft an den Rhein denkt. Der Lech fließt aber der Donau zu. Viele Transporte mit Holz, Wein oder Käse führten über sie bis ans Schwarze Meer. Richtig war 4.",
+"quelle": "Gemeinde-Webseite, www.landsberg.de/tourismus/erlebnisse/sehenswuerdigkeiten/lechwehr/",
+"faktencheck": "korrigiert",
+"id": "126-landsberg/v0.8/9",
+"tisch": false
+},
+{
+"familie": "A",
+"sorte": "Geschichte",
+"ort": "Landsberg am Lech",
+"steckbrief": "Stadt am Lech mit rund 29.000 Einwohnern, 36 km südlich von Augsburg.",
+"frage": "Am Lechwehr in Landsberg fällt der Fluss über Stufen. Wie kamen die Flöße früher daran vorbei?",
+"optionen": [
+"Sie wurden zerlegt und über Land getragen.",
+"Sie fuhren direkt über die Wehrstufen hinab.",
+"Sie fuhren gegen Gebühr durch eine eigene Gasse.",
+"Eine Schleuse mit Toren senkte sie ab."
+],
+"art": "richtig",
+"loesung": 3,
+"rueckseite": "Du hattest [Option] getippt. Eine Schleuse liegt nahe, so überwinden Schiffe heute Staustufen. Am Landsberger Lechwehr gab es aber am rechten Ufer eine Floßgasse mit mäßigem Gefälle, im Volksmund ‚Lange Fahrt‘. Sie wich später dem Ausbau des Inselbades. Richtig war 3.",
+"quelle": "Gemeinde-Webseite, www.landsberg.de/kultur/stadtgeschichte/landsberg-und-der-lech/",
+"faktencheck": "korrigiert",
+"id": "126-landsberg/v0.8/10",
+"tisch": false
+}
+],
+"anschluss_von": "125-mindelheim",
+"anschluss": [
+"Einwohner: Landsberg hat fast doppelt so viele wie Mindelheim.",
+"Bundestagswahl 2025: Grüne in Landsberg 16,9, in Mindelheim 8,6 Prozent."
+],
+"anschluesse": {
+"125-mindelheim": [
+"Einwohner: Landsberg hat fast doppelt so viele wie Mindelheim.",
+"Bundestagswahl 2025: Grüne in Landsberg 16,9, in Mindelheim 8,6 Prozent."
+]
+},
+"ags": "09181130",
+"ortsteil": false,
+"km_vom_vorigen": 28.1
 },
 {
 "slug": "127-eching",
@@ -30829,8 +32897,11 @@ window.QA_DATEN = {
 "tisch": false
 }
 ],
-"anschluss_von": "118-stockach",
-"anschluss": [],
+"anschluss_von": "126-landsberg",
+"anschluss": [
+"Eching hat halb so viele Einwohner wie Landsberg am Lech.",
+"Bundestagswahl 2025: Eching hatte höhere Wahlbeteiligung als Landsberg am Lech."
+],
 "anschluesse": {
 "115-muenchen": [
 "Kreisgrenze: München ist kreisfrei, Eching gehört zum Landkreis Freising.",
@@ -30851,11 +32922,15 @@ window.QA_DATEN = {
 ],
 "133-kranzberg": [
 "Eching hat dreieinhalbmal so viele Einwohner wie Kranzberg."
+],
+"126-landsberg": [
+"Eching hat halb so viele Einwohner wie Landsberg am Lech.",
+"Bundestagswahl 2025: Eching hatte höhere Wahlbeteiligung als Landsberg am Lech."
 ]
 },
 "ags": "09178120",
 "ortsteil": false,
-"km_vom_vorigen": 199.9
+"km_vom_vorigen": 61.9
 },
 {
 "slug": "128-neufahrn",

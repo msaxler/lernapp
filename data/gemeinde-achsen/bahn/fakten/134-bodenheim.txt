@@ -1,0 +1,771 @@
+ID: 134-bodenheim/001
+ENTITÄT: ort
+BEZEICHNUNG: Bodenheim
+ORTSTEIL_BEZUG:
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/bodenheim.html | Landesportal
+EIGENSCHAFTEN:
+  ersterwaehnung_jahr: 754
+  ersterwaehnung_kontext: "Schenkungsurkunde an das Kloster Fulda als villa Batenheim"
+  namensherkunft: "Personenname Bado (althochdeutsch heima=Wohnung, Behausung, Heimstatt)"
+  heutige_namenform_seit: 1303
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 134-bodenheim/002
+ENTITÄT: ort
+BEZEICHNUNG: Bodenheim
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besiedlung_bandkeramik_jahre: "ca. 5600-5900 v. Chr."
+  roessener_kultur_besiedlung: true
+  broenzezeitliche_siedlung: true
+  broenzezeitliche_siedlung_fundort: "Spatzenmühle, südöstlicher Ortsrand"
+  broenzezeitliche_siedlung_funde: "Scherben, Gefäße, Steinbeil-Bruchstück, Tierknochen"
+  eisenzeitliche_funde: true
+  roemische_praesenz_ab: "13.-12. Jahrhundert v. Chr."
+  roemische_praesenzdauer_bis: "ca. 460 n. Chr."
+  roemische_villen_anzahl: 3
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 134-bodenheim/003
+ENTITÄT: ort
+BEZEICHNUNG: Bodenheim
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  frankische_besiedlung_ab: "ca. 500 n. Chr."
+  frankische_siedlungskerne: 3
+  kirchlicher_grundbesitzer: "St. Alban (ab 775, 802)"
+  ortsherr_ab: "um 8. Jahrhundert"
+  ortsherr_name: "Kloster St. Alban"
+  vogtei_erwerb_jahr: 1277
+  obergericht_ansaessig_ab: 1338
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 134-bodenheim/004
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus Bodenheim
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauart: "Renaissance-Fachwerkbau"
+  erbaut_jahr: 1608
+  urspruenglicher_zweck: "Gerichtsgebäude"
+  baustil_praedikat: "einer der schönsten Fachwerkbauten der Renaissance weit und breit"
+  wappen_verzierung: "Bodenheimer Wappen (Esel unter Zweig trinkt aus Eimer)"
+  besonderheit: "Kopf auf der Rückseite, der die Zunge herausstreckt"
+GUELTIG_AB: 1608
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 134-bodenheim/005
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Ortsgemeinde Bodenheim
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/wappen-der-gemeinden/wappen-der-ortsgemeinde-bodenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heraldische_beschreibung: "Über schwarzem Schildfuß in Blau ein vor einem goldenen Trog stehender linksgewendeter silberne Esel, links eine goldene Henkelvase, aus der ein grüner Eichenzweig nach rechts geneigt wächst"
+  gerichtssiegel_ursprung_ab: "ca. 1600"
+  gerichtssiegel_urheber: "Propst des Stiftes St. Alban in Mainz"
+  holzschnittafel_am_rathaus: true
+  historisch_beweisbar: true
+  gutachten_datum: "07.07.1990"
+  gutachten_quelle: "Landesarchiv Speyer"
+GUELTIG_AB: 1600
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 134-bodenheim/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Alban
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: "katholisch"
+  erbaut_jahr: 1830
+  bauzeit: "1828-1830"
+GUELTIG_AB: 1828
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 134-bodenheim/007
+ENTITÄT: kirche
+BEZEICHNUNG: St. Alban
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/wohnen-leben/kultur-freizeit/kirchen/kirchen-in-der-vg-bodenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: "katholisch"
+  hochaltar_herkunft: "aus Worms"
+  seitenaltaere_herkunft: "aus dem Mainzer Dom"
+  besonderheit_madonna: "anmutige Madonna (frühes 16. Jh., aus der Bodenheimer Wallfahrtskirche Maria Oberndorf)"
+  madonna_standort: "Zentrum des Hochaltars"
+  baustil_charakterisierung: "barocke Wucht in eher einfacher Kirche"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 134-bodenheim/008
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Bodenheim
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: "evangelisch"
+  erbaut_jahr: 1888
+GUELTIG_AB: 1888
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 134-bodenheim/009
+ENTITÄT: kapelle
+BEZEICHNUNG: Maria-Oberndorf
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_jahr: 1891
+  typ: "Wallfahrtskirche / Kapelle"
+GUELTIG_AB: 1891
+GUELTIG_BIS:
+IST_VERMUTISMUS_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 134-bodenheim/010
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Bodenheim
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_jahr: 1853
+  konfession: "jüdisch"
+  friedhof_erlaubt_jahr: 1883
+  friedhof_lage: "Ortsrand"
+GUELTIG_AB: 1853
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 134-bodenheim/011
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Bodenheim
+ORTSTEIL_BEZUG:
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/bodenheim.html | Landesportal
+EIGENSCHAFTEN:
+  pogrom_datum: "09.11.1938"
+  beschaedigungen_und_deportationen: "Angehörige der Familie Weil misshandelt und am 12.11. in KZ Buchenwald deportiert"
+  enteignung_und_umnutzung: "zunächst als Stall, dann als Lagerhalle"
+  abriss_jahr: "1970er Jahre"
+  abriss_grund: "Enteignung und Umnutzung durch neuen Eigentümer"
+  gedenktafel: "nur noch Gedenktafel erinnert daran"
+GUELTIG_AB:
+GUELTIG_BIS: 1970
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 134-bodenheim/012
+ENTITÄT: friedhof
+BEZEICHNUNG: Jüdischer Friedhof Bodenheim
+ORTSTEIL_BEZUG:
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/bodenheim.html | Landesportal
+EIGENSCHAFTEN:
+  konfession: "jüdisch"
+  erlaubt_jahr: 1883
+  lage: "Ortsrand"
+  erhalten: true
+  besonderheit: "in Rheinhessen eine Ausnahme"
+GUELTIG_AB: 1883
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 134-bodenheim/013
+ENTITÄT: gemeinde
+BEZEICHNUNG: Verbandsgemeinde Bodenheim
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zusammenschluss_jahr: 1972
+  ortsgemeinden_anzahl: 5
+  ortsgemeinden: "Bodenheim, Harxheim, Nackenheim, Lörzweiler, Gau-Bischofsheim"
+GUELTIG_AB: 1972
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 134-bodenheim/014
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Verbandsgemeinde Bodenheim
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/wappen-der-gemeinden/wappen-der-verbandsgemeinde-bodenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heraldische_beschreibung: "In von Rot und Silber schräglinks geteiltem Schildbord durch einen von Rot und Silber geteilten Schräglinksbalken von Silber und Rot geteilt, oben eine grünbeblätterte grüne Weintraube, unten ein sechsspeichiges silbernes Rad"
+  symbolik_rad: "silbernes Rad in Rot für Hoch- und Hoheitsrechte des Hochstifts Mainz"
+  symbolik_querbalken: "von Rot und Silber geteilter Querbalken für das Domstift"
+  symbolik_traube: "Weinbau als Hauptwirtschaftsgrundlage der Gegenwart"
+  symbolik_bedeutung: "vereint Geschichte mit Wirtschaftsform der Gegenwart"
+  gutachten_datum: "26.09.1985"
+  gutachten_quelle: "Landesarchiv Speyer"
+  heraldisch_einwandfrei: true
+GUELTIG_AB: 1985
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 134-bodenheim/015
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Ortsgemeinde Harxheim
+ORTSTEIL_BEZUG: Harxheim
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/wappen-der-gemeinden/wappen-der-ortsgemeinde-harxheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heraldische_beschreibung: "In Gold eine grüne Ähre und ein grüner blattloser Eichenzweig mit je einer nach unten hängenden und nach oben stehenden Eichel, die sich kreuzen und mit einer blauen Traube belegt sind"
+  wappentradition_seit: "16. Jahrhundert"
+  gerichtssiegel_16_jh: "senkrecht stehender Halm mit Ähre, kreuzweise belegt mit Rebstiel und Eichenzweig mit Eicheln, beseitet von zwei Sternen"
+  gerichtssiegel_1564: "Eichenzweig mit Eichel und Rebstiel mit Traube, unten von drei Äpfeln bewinkelt"
+  gerichtssiegel_1636: "wie oben beschrieben, aber mit nach unten hängender Ähre"
+  gerichtssiegel_bis: "napoleonische Zeit"
+  wappenbild_vorbild_jahr: 1936
+  motivation_symbolik: "Motive weisen auf bodenständige Fruchtbarkeit der Landschaft rings um Harxheim hin"
+  gutachten_datum: "März 1967"
+  gutachten_quelle: "Dr. Phil. Heinz Leitermann"
+GUELTIG_AB: 1936
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 134-bodenheim/016
+ENTITÄT: kirche
+BEZEICHNUNG: Evangelische Kirche Harxheim
+ORTSTEIL_BEZUG: Harxheim
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: "evangelisch"
+  erbaut_jahr: 1803
+  umbau_jahr: 1873
+GUELTIG_AB: 1803
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 134-bodenheim/017
+ENTITÄT: kirche
+BEZEICHNUNG: St. Laurentius
+ORTSTEIL_BEZUG: Harxheim
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: "katholisch"
+  erbaut_jahr: 1871
+  turm_besonderheit: "Achteckform (1873) des alten Turms der evangelischen Kirche dem jüngeren Langhaus angepasst"
+GUELTIG_AB: 1871
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 134-bodenheim/018
+ENTITÄT: kapelle
+BEZEICHNUNG: Harxheimer Kapellchen
+ORTSTEIL_BEZUG: Harxheim
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_jahr: 1864
+GUELTIG_AB: 1864
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 134-bodenheim/019
+ENTITÄT: ort
+BEZEICHNUNG: Nackenheim
+ORTSTEIL_BEZUG: Nackenheim
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urnenfriedhof_alter: "1200 v. Chr."
+  urnenfriedhof_kalturaepoche: "Bronzezeit"
+  keltische_siedlung_jahr: "600 v. Chr."
+  roemische_villa_rustica_jahr: "250 n. Chr."
+  ersterwaehnung_Jahrhundert: "7.-9. Jahrhundert"
+  ersterwaehnung_kontext: "im Besitz des St-Gereon-Stifts in Köln"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 134-bodenheim/020
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Ortsgemeinde Nackenheim
+ORTSTEIL_BEZUG: Nackenheim
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/wappen-der-gemeinden/wappen-der-ortsgemeinde-nackenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heraldische_beschreibung: "Von Schwarz und Rot durch silberne Leiste geteilt, oben ein silberner Reichsapfel mit silbernem Kreuz, unten ein sechsspeichiges silbernes Rad"
+  wappenstein_ort: "über dem Rathauseingang"
+  wappenstein_unterschiede: "statt des Kreuzes ziert ein Haken mit spitzem Winkel den Reichsapfel, Rad ist achtspeichig"
+  rad_typ: "Mainzer Rad (sechsspeichig)"
+  reichsapfel_deutung: "ursprüngliche Deutung unklar"
+  reichsapfel_entwicklung: "Umwandlung von Ortszeichen ähnlich Sester zu Reichsapfel"
+  leiste_symbolik: "silberne Farbe weist auf Erzstift Mainz hin"
+  historisch_beweisbar: true
+  heraldisch_einwandfrei: true
+  gutachten_datum: "25.05.1984"
+  gutachten_quelle: "Landesarchiv Speyer"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 134-bodenheim/021
+ENTITÄT: kirche
+BEZEICHNUNG: St. Gereon
+ORTSTEIL_BEZUG: Nackenheim
+QUELLE: https://www.vg-bodenheim.de/wohnen-leben/kultur-freizeit/kirchen/kirchen-in-der-vg-bodenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: "katholisch"
+  erbaut_jahr: 1716
+  bauzeit: "1716-1731"
+  baustil: "Barock"
+  besonderheit_sarkophag: "römischer Sarkophag bei Renovierungsarbeiten in den 80er Jahren gefunden"
+  sarkophag_inhalt: "zwei Franken statt eines Römers"
+  sarkophag_neuer_ort: "Kirchenschiff"
+GUELTIG_AB: 1716
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 134-bodenheim/022
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Carl Zuckmayer
+ORTSTEIL_BEZUG: Nackenheim
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: "Nackenheim"
+  geburt_jahr: 1896
+  tod_jahr: 1977
+  tod_ort: "Saas-Fee, Schweiz"
+  bedeutung: "Dramatiker und Schriftsteller"
+  bekanntes_werk: "Der fröhliche Weinberg"
+  handlungsort_werk: "Nackenheim"
+GUELTIG_AB:
+GUELTIG_BIS: 1977
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 134-bodenheim/023
+ENTITÄT: museum
+BEZEICHNUNG: Ortsmuseum Nackenheim / Kultur im Muxum
+ORTSTEIL_BEZUG: Nackenheim
+QUELLE: https://www.vg-bodenheim.de/wohnen-leben/kultur-freizeit/theater-museen/ortsmuseum-nackenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1952
+  gruendungsgrund: "Archäologische Funde in der Gemarkung"
+  urspruengliche_bezeichnung: "Heimatmuseum Nackenheim"
+  aktuelle_bezeichnung: "Kultur im Muxum"
+  dauerausstellung_zuckmayer: true
+  zuckmayer_fokus: "Familie Zuckmayer, deren Söhne Eduard und Carl internationalen Ruf erlangten"
+  weitere_dauerausstellung: "Schifferverein zeigt, wie der Rhein das Leben der Nackenheimer prägte"
+  weitere_angebote: "wechselnde Kunstausstellungen, Filmabende"
+GUELTIG_AB: 1952
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 134-bodenheim/024
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Ortsgemeinde Lörzweiler
+ORTSTEIL_BEZUG: Lörzweiler
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/wappen-der-gemeinden/wappen-der-ortsgemeinde-loerzweiler/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heraldische_beschreibung: "In Silber ein fünfblättriges bewurzeltes schwarzes Lindenbäumchen mit grüner Blattäderung"
+  verleihung_datum: "11.08.1955"
+  verleihungs_behoerde: "Ministerium des Inneren in Mainz"
+  ursprung_symbol: "Adelswappen der Freiherren von Hettersdorf"
+  adelswappen_belegt_bis: 1790
+  beschreibung_von: "Kirche und ein Haus in Lörzweiler"
+  ablesbarkeit: "Einwohner sahen dieses Adelswappen bei Fehlen eines Gerichtssiegels als ihr eigenes Wappen an"
+  aenderung_datum: "in Zusammenhang mit Genehmigung einer Flagge"
+  aenderung: "Farbe der Blattäderung (grün) in amtliche Beschreibung aufgenommen"
+  aenderung_historisch_begruendbar: true
+  aenderung_heraldisch_empfohlen: true
+  gutachten_datum: "03.07.1991"
+  gutachten_quelle: "Landesarchiv Speyer"
+GUELTIG_AB: 1955
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 134-bodenheim/025
+ENTITÄT: kirche
+BEZEICHNUNG: Michaelskirche
+ORTSTEIL_BEZUG: Lörzweiler
+QUELLE: https://www.vg-bodenheim.de/wohnen-leben/kultur-freizeit/kirchen/kirchen-in-der-vg-bodenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: "katholisch"
+  erbaut_jahr: 1790
+  baustil: "Barockkirche"
+  besonderheit_anbau: "moderner Anbau verbunden mit Barockkirche"
+  kirchenschiff_charakterisierung: "breit gezogenes Kirchenschiff lässt Gemeinde nah an den Volksaltar rücken"
+  altar: "barocker Mariä-Himmelfahrts-Altar (ursprünglich aus dem Mainzer Dom)"
+  altar_funktion: "schafft besonderen Andachtsraum"
+GUELTIG_AB: 1790
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 134-bodenheim/026
+ENTITÄT: ort
+BEZEICHNUNG: Lörzweiler
+ORTSTEIL_BEZUG: Lörzweiler
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historischer_ereignis: "Wahl König Konrads II. zum deutschen König möglicherweise auf dem Lörzweiler Königstuhl"
+  ereignis_jahr: 1024
+  ereignis_alternativversion: "andere Version spricht für Kamba (untergang) rechtsrheinisch vis-à-vis Oppenheim"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.65
+---
+ID: 134-bodenheim/027
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen der Ortsgemeinde Gau-Bischofsheim
+ORTSTEIL_BEZUG: Gau-Bischofsheim
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/wappen-der-gemeinden/wappen-der-ortsgemeinde-gau-bischofsheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heraldische_beschreibung: "Von Silber und Rot geteilt, oben zwei rote Schrägbalken, unten ein halbes sechsspeichiges silbernes Rad an der Teilung"
+  gerichtssiegel_alter: "18. Jahrhundert"
+  gerichtssiegel_darstellung: "heiliger Petrus mit Schlüssel und Buch"
+  ortspatrozinium: "heiliger Petrus"
+  ortspatrozinium_im_wappen_frueh: true
+  wappenemblem_auf_gebaeudeschlussstein: true
+  schlussstein_datierung: "1651"
+  schlussstein_symbolik: "stellt Ortsherrschaft in Gau-Bischofsheim dar"
+  rad_symbol: "halbes Rad des Kurfürsten von Mainz"
+  schraegbalken_symbol: "rote Schrägbalken des Mainzer Domkapitels"
+  fuehrung_ab_1945: "ungenehmigtes Wappen bis zu diesem Gutachten"
+  heraldische_verbesserung: true
+  gutachten_datum: "06.11.1990"
+  gutachten_quelle: "Landesarchiv Speyer"
+GUELTIG_AB: 1651
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 134-bodenheim/028
+ENTITÄT: kirche
+BEZEICHNUNG: St. Petrus in Ketten
+ORTSTITEL_BEZUG: Gau-Bischofsheim
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: "katholisch"
+  erbaut_jahr: 1868
+GUELTIG_AB: 1868
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 134-bodenheim/029
+ENTITÄT: kirche
+BEZEICHNUNG: St. Petrus in Ketten
+ORTSTEIL_BEZUG: Gau-Bischofsheim
+QUELLE: https://www.vg-bodenheim.de/wohnen-leben/kultur-freizeit/kirchen/kirchen-in-der-vg-bodenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  konfession: "katholisch"
+  neuerbau_jahr: "19. Jahrhundert"
+  skulptur_sandstein_madonna_alter: "ca. 1320"
+  madonna_groesse: "lebensgroß"
+  madonna_besonderheit: "schelmisch lächelnd, Jesuskind sitzt fast auf Schulter und hält sich an Krone fest"
+  kunstwert_madonna: "größtes bildhauerisches Meisterwerk der Region"
+  holzskulptur_jahreszahl: 1520
+  holzskulptur_darstellt: "hl. Petrus als Apostel (Symbol: Buch) und als erster Papst (Symbol: Mitra)"
+  orgel_erbauer: "Mainzer Orgelbaumeister Geissel"
+  orgel_jahr: 1667
+  orgel_superlativ: "älteste in Rheinland-Pfalz"
+  orgel_nutzung: "Orgelkonzerte sind ein kultureller Genuss"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 134-bodenheim/030
+ENTITÄT: betrieb
+BEZEICHNUNG: Vereinigte Kapselfabriken
+ORTSTEIL_BEZUG: Nackenheim
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung_jahr: 1868
+  typ: "Fabrik"
+  bedeutung: "später 'Vereinigte Kapselfabriken'"
+  wirtschaftliche_bedeutung: "schuf Arbeitsplätze in der Industrie"
+GUELTIG_AB: 1868
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 134-bodenheim/031
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Eisenbahn Mainz–Worms
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung_jahr: 1853
+  strecke: "Mainz–Worms"
+  orte_auf_strecke: "Bodenheim und Nackenheim"
+  infrastruktur_typ: "Eisenbahnlinie"
+GUELTIG_AB: 1853
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 134-bodenheim/032
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Nebenbahn Bodenheim–Alzey
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung_jahr: 1896
+  betrieb_ende_jahr: 1985
+  strecke: "Bodenheim–Alzey"
+  infrastruktur_typ: "Nebenbahn"
+  heute_nutzung: "Rad-Wanderstrecke auf stillgelegter Strecke, 'Natur und Eisenbahnromantik'"
+GUELTIG_AB: 1896
+GUELTIG_BIS: 1985
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 134-bodenheim/033
+ENTITÄT: naturereignis
+BEZEICHNUNG: Jahrhundert-Hochwasser
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_jahr: 1882
+  auswirkungen_orte: "Bodenheim und Nackenheim"
+  schadensumfang: "große Schäden"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 134-bodenheim/034
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Hexenverfolgung in Bodenheim
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: "1612-1614"
+  charakterisierung: "wiederholt Frauen vor Gericht, warteten auf Prozess"
+  rettung_durch: "liberale Kurpfälzer befreiten mehrmals im Handstreich Frauen aus Gefängnis"
+  folge: "ersparte Ort 'unrühmlich-schaurige Prozesse und Hinrichtungen'"
+  ausloeser_argwohn: "Ausausdruck von Argwohn, Aberglaube oder Intrige"
+GUELTIG_AB: 1612
+GUELTIG_BIS: 1614
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.7
+---
+ID: 134-bodenheim/035
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Hexenverfolgungen in Bodenheim (erweitert)
+ORTSTEIL_BEZUG:
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/bodenheim.html | Landesportal
+EIGENSCHAFTEN:
+  erste_verhaeftung: "08.10.1612 (Witwe Merg Scholl)"
+  erste_verhaeftung_grund: "sollte ein Kind mittels Zauberei getötet haben"
+  erste_verurteilung_fruhjahr_1613: true
+  erste_verurteilte: "Merg Scholl und zwei weitere Frauen"
+  erste_verurteilte_strafe: "Todesurteil, anschließend verbrannt"
+  verfolgungs_welle_dauer: "bis 1615"
+  betroffene_insgesamt: 32
+  gestorbene: 27
+  freigelassen: 1
+  freigelassene_folgeschaden: "aufgrund Folter lebenslang körperlich beeinträchtigt"
+  flucht_geholfen: 4
+  flucht_folgen: "mussten Bodenheim verlassen, jahrelang ohne Besitz, Heimat oder Angehörige"
+  zentren_rang: "zeitweise zu Zentren europäischer Hexenverfolgung"
+  zentren_rang_messung: "Relation Opferzahl zu Einwohnerzahl und Verfolgungsdauer"
+  weitere_verfolgungs_wellen: "1628-1630/31, 1637/38, 1644"
+GUELTIG_AB: 1612
+GUELTIG_BIS: 1644
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 134-bodenheim/036
+ENTITÄT: kulturelle_region
+BEZEICHNUNG: Rheinhessen
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/kurzportrait-der-vg-bodenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  weinflaeche_anteil: "rund 1.100 ha, damit ein Drittel der Gesamtfläche der Verbandsgemeinde"
+  grosslagenbezeichnung: "St. Alban"
+  grosslage_ortsgemeinden: "Bodenheim, Harxheim, Lörzweiler, Gau-Bischofsheim (ausgenommen Nackenheim)"
+  einzellagenbezeichnungen: "Bodenheimer Kapelle, Nackenheimer Rothenberg, Gau-Bischofsheimer Kellersberg, Harxheimer Börnchen, Lörzweiler Hohberg"
+  bekanntheitsgrad_lagen: "weithin bekannt"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 134-bodenheim/037
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Besatzung durch französische Truppen
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_jahr: 1644
+  kontext: "Dreißigjähriger Krieg"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 134-bodenheim/038
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Kirchliche Simultannutzung in Harxheim
+ORTSTEIL_BEZUG: Harxheim
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_jahr: 1698
+  kirche: "Kirche in Harxheim"
+  nutzung: "simultan (evangelisch und katholisch)"
+GUELTIG_AB: 1698
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 134-bodenheim/039
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: "Nackenheimer Revolution"
+ORTSTEIL_BEZUG: Nackenheim
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_zeit: "1792/93"
+  ereignis_beschreibung: "Bewohner leisten französischen Bürgereid"
+GUELTIG_AB: 1792
+GUELTIG_BIS: 1793
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 134-bodenheim/040
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Französische Besatzung
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichte/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: "1797-1813"
+  folge: "Alle fünf Orte kommen 1816 in Folge des Wiener Kongresses an das Großherzogtum Hessen-Darmstadt"
+GUELTIG_AB: 1797
+GUELTIG_BIS: 1813
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 134-bodenheim/041
+ENTITÄT: ort
+BEZEICHNUNG: Bodenheim
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ortsherrschaft_sitz_ab: 1338
+  ortsherrschaft_typ: "Ober- und Dorfgericht"
+  ortsherrschaft_funktion: "Ort der Rechtsprechung auch für die Umgebung"
+GUELTIG_AB: 1338
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 134-bodenheim/042
+ENTITÄT: historisches_ereignis
+BEZEICHNUNG: Königliche Besuche während preußischer Belagerung von Mainz
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_jahr: 1793
+  ereignis_kontext: "Mainz unter Napoleon erste Republik auf deutschem Boden"
+  ort_hauptquartier: "Bodenheim war Hauptquartier für preußische Belagerer"
+  besucher: "König Friedrich Wilhelm II. und dessen Sohn"
+  gastierende_persoenlichkeit: "Goethe (beschrieb die Belagerung)"
+  romantische_begegnung: "Kronprinz (späterer Friedrich Wilhelm III. von Preußen) turtelte mit seiner Braut Louise"
+  monat: "Mai"
+  gasthof: "Anwesen Schönborn"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 134-bodenheim/043
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Eduard Zuckmayer
+ORTSTEIL_BEZUG: Nackenheim
+QUELLE: https://www.vg-bodenheim.de/wohnen-leben/kultur-freizeit/theater-museen/ortsmuseum-nackenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  familien_zuordnung: "Sohn in Familie Zuckmayer"
+  bedeutung: "erlang internationalen Ruf"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 134-bodenheim/044
+ENTITÄT: fest
+BEZEICHNUNG: St. Albans-Fest
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/kurzportrait-der-vg-bodenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: "Bodenheim"
+  zeitraum: "erstes Wochenende im Juni"
+  besonderheit: "findet inmitten der Weinberge statt"
+  reichweite: "außerordentlich starke Resonanz weit über die nähere Umgebung hinaus"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 134-bodenheim/045
+ENTITÄT: fest
+BEZEICHNUNG: Familienwandertag
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/kurzportrait-der-vg-bodenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: "Christi Himmelfahrt"
+  charakter: "Familienveranstaltung"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 134-bodenheim/046
+ENTITÄT: fest
+BEZEICHNUNG: Weinfest Nackenheim
+ORTSTEIL_BEZUG: Nackenheim
+QUELLE: https://www.vg-bodenheim.de/tourismus/kurzportrait-der-vg-bodenheim/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ort: "Nackenheim"
+  charakter: "Weinfest"
+GUELTIG_AB:
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 134-bodenheim/047
+ENTITÄT: partnerschaft
+BEZEICHNUNG: Partnergemeinden Rheinhessen – Burgund
+ORTSTEIL_BEZUG:
+QUELLE: https://www.vg-bodenheim.de/tourismus/historisches/geschichten/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beginn_ab: 1960
+  charakterisierung: "rege Partnerschaften"
+  partnergemeinden_burgund: "Eppoisses, Lièrnais, Messigny-et-Ventoux, Pommard, Seurre"
+  austauschart: "privat oder offiziell"
+  charakterisierung_franzosen: "gern gesehene Gäste"
+GUELTIG_AB: 1960
+GUELTIG_BIS:
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

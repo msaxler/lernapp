@@ -1,0 +1,296 @@
+ID: 135-nackenheim/001
+ENTITÄT: ort
+BEZEICHNUNG: Nackenheim
+QUELLE: https://www.nackenheim.de/og_nackenheim/Tourismus/Ortsgeschichtlicher Rundweg/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ist_weinort: true
+  ortsgeschichte_zeitspanne_jahre: 1250
+  ortsgeschichtlicher_rundweg_stationen: 35
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 135-nackenheim/002
+ENTITÄT: ort
+BEZEICHNUNG: Nackenheim
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nackenheim.html | Landesportal
+EIGENSCHAFTEN:
+  grundbesitz_merowingerzeit_kölner_kirche: true
+  besitz_stift_gereon_dokumentiert_um: 1210
+  fronhof_grundbesitz_größe_hufen: 16
+  fronhof_grundbesitz_größe_hufen_genauigkeit: "mehr als"
+  grundherrschaft_mainzer_stift_stephan_ab: 1258
+  ortsherrschaft_mainzer_stift_stephan_ab: 1258
+  ortsherrschaft_mainzer_erzbischof_ab: 1615
+GUELTIG_AB: Merowingerzeit
+GUELTIG_BIS: 1615
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 135-nackenheim/003
+ENTITÄT: museum
+BEZEICHNUNG: Muxum (Ortsmuseum Nackenheim)
+QUELLE: https://www.nackenheim.de/og_nackenheim/Kultur/Ortsmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ_gebäude: ehemaliges Schulgebäude
+  lokation: Fuß der Nackenheim Kirche / Kirchsteig
+  lokation_wegbezug: RheinTerrassenWeg
+  öffnungszeiten_sonntag: 13:00 bis 17:00 Uhr
+  eintritt: kostenlos
+  ist_baudenkmal: true
+  ist_barrierefrei: false
+  funktion: kulturelles Zentrum
+  ausstellung_künstler_wechsel: vierteljährlich, Künstler aus Rheinhessen
+  dauerausstellung_1: "Die Zuckmayers - eine Familie aus Rheinhessen"
+  dauerausstellung_2: "Nackenheim – das Unterdorf geprägt vom Rhein" (Schiffervereins-Ausstellung)
+  veranstaltungen: Filmabende, Lesungen, begleitende Vorträge
+  sammlungen: archäologische Funde, fränkisches Kriegergrad, Grabsteinsammlung im Hof
+  auszeichnung: "Museum des Monats"
+  superlativ: "thematische Vielfalt in Rheinhessen einmalig"
+  existenz_dauer_jahren: "mehr als 70"
+GUELTIG_AB: vor etwa 1954
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 135-nackenheim/004
+ENTITÄT: museum_namensherkunft
+BEZEICHNUNG: Muxum
+QUELLE: https://www.nackenheim.de/og_nackenheim/Kultur/Ortsmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  namensherkunft: "Schriftzug ‚Museum' an der Außenwand lesbar als ‚Muxum'"
+  grund_markenbildung: "kein spezifischer Markenbegriff für Heimatmuseum oder Ortsmuseum vorhanden"
+  funktion: "griffiger Eigenname und Marke für das Nackenheimer Ortsmuseum"
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 135-nackenheim/005
+ENTITÄT: museum_initiator
+BEZEICHNUNG: Wilhelm Klein, Werner Lang, Josef Struck
+QUELLE: https://www.nackenheim.de/og_nackenheim/Kultur/Ortsmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Initiatoren des Ortsmuseums
+  reichweite_bekanntheit: "über Orts- und Landesgrenzen hinaus bekannt"
+  publikation: "Heimatkundliche Schriftenreihe" (fachlich fundierte Aufsätze)
+  publikation_anerkennung: "in der Fachwelt anerkannt und respektiert"
+GUELTIG_AB: (vor mehr als 70 Jahren)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 135-nackenheim/006
+ENTITÄT: kirche
+BEZEICHNUNG: Nackenheimer Kirche / Gereonskirche
+QUELLE: https://www.nackenheim.de/og_nackenheim/Kultur/Ortsmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lokation_bezug: Ortsmuseum steht am Fuß der Kirche
+  patron_mainzer_stephansstift: true
+GUELTIG_AB: (historisch)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 135-nackenheim/007
+ENTITÄT: person
+BEZEICHNUNG: Carl Zuckmayer
+QUELLE: https://www.nackenheim.de/og_nackenheim/Kultur/Ortsmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Nackenheim (Familie Zuckmayer)
+  auswanderung: Amerika
+  beruf: Schriftsteller
+  bedeutung: "hat heute noch Bedeutung und Wirkung"
+GUELTIG_AB: (historisch)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 135-nackenheim/008
+ENTITÄT: person
+BEZEICHNUNG: Eduard Zuckmayer
+QUELLE: https://www.nackenheim.de/og_nackenheim/Kultur/Ortsmuseum/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herkunft: Nackenheim (Familie Zuckmayer)
+  auswanderung: Türkei
+  beruf: Musikpädagoge
+  bedeutung: "hat heute noch Bedeutung und Wirkung"
+GUELTIG_AB: (historisch)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 135-nackenheim/009
+ENTITÄT: wappenstein
+BEZEICHNUNG: Wappenstein Nackenheim
+QUELLE: https://www.nackenheim.de/og_nackenheim/Über Nackenheim/Wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lokation: über dem Rathauseingang in Nackenheim
+  beschreibung_form: silberner Reichsapfel mit Haken (spitzer Winkel), achtspeichiges silbernes Rad
+  datierung_laut_brilmayer: 1612
+  abweichung_vom_wappen: weicht von modernem Wappen in Einzelheiten ab
+GUELTIG_AB: 1612
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 135-nackenheim/010
+ENTITÄT: wappen
+BEZEICHNUNG: Wappen Ortsgemeinde Nackenheim
+QUELLE: https://www.nackenheim.de/og_nackenheim/Über Nackenheim/Wappen/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  blasonierung: "Von Schwarz und Rot durch silberne Leiste geteilt, oben ein silberner Reichsapfel mit silbernem Kreuz, unten ein sechsspeichiges silbernes Rad"
+  genehmigung_behörde: Landesarchiv Speyer
+  genehmigung_datum: 25.05.1984
+  symbolik_reichsapfel_herkunft: "Umwandlung des Ortszeichens von der Steinigung des heiligen Stephanus"
+  symbolik_mainzer_rad: "sechsspeichiges Mainzer Rad verweist auf Mainzer Stephansstift als Patronatsherren der Nackenheimer Gereonskirche"
+  symbolik_farben_bedeutung: "Schwarz und Rot mit silberner Leiste verweisen auf Erzstift Mainz"
+  heraldische_bewertung: "historisch wohl begründet und heraldisch einwandfrei"
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 135-nackenheim/011
+ENTITÄT: stift
+BEZEICHNUNG: Stift St. Gereon (Köln)
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nackenheim.html | Landesportal
+EIGENSCHAFTEN:
+  lokation: Köln
+  besitz_nackenheim_seit: Merowingerzeit
+  besitz_nackenheim_dokumentiert_um: 1210
+  besitz_größe_hufen: 16
+  besitz_größe_hufen_genauigkeit: "mehr als"
+  verlust_besitz_jahr: 1258
+  grund_verkauf: "Übergriffe des Vogtes Philipp von Hohenfels konnten sich nicht erwehrt werden; Wirtschaftlichkeitserwägungen"
+GUELTIG_AB: Merowingerzeit
+GUELTIG_BIS: 1258
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 135-nackenheim/012
+ENTITÄT: stift
+BEZEICHNUNG: Mainzer Stift St. Stephan
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nackenheim.html | Landesportal
+EIGENSCHAFTEN:
+  lokation: Mainz
+  erwerb_nackenheim_besitz_jahr: 1258
+  erwerb_quelle: Verkauf von St. Gereon Köln
+  status_nach_erwerb: "größter Grundherr, Kirchenherr, später Ortsherr Nackenheims"
+  fronhof_seit: 1263
+  fronhof_besitz: Mühle u.a.
+  ortsherrschaft_übertragung_jahr: 1615
+  ortsherrschaft_übertragung_an: Mainzer Erzbischof
+  grundbesitz_beibehalt: true (auch nach 1615)
+GUELTIG_AB: 1258
+GUELTIG_BIS: (fortbestand mit Änderungen)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 135-nackenheim/013
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster St. Klara
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nackenheim.html | Landesportal
+EIGENSCHAFTEN:
+  besitz_nackenheim: ja
+  besitz_mühlen_initial: 1
+  besitz_mühlen_später: 2
+GUELTIG_AB: (um 1210 oder früher)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 135-nackenheim/014
+ENTITÄT: kloster
+BEZEICHNUNG: Mainzer St. Jakobskloster
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nackenheim.html | Landesportal
+EIGENSCHAFTEN:
+  lokation: Mainz
+  besitz_nackenheim_alt: ja
+  besitz_nackenheim_erwerbung_größer_jahr: 1661
+  grund_erwerb_1661: "Entschädigung des Mainzer Erzbischofs für Einbußen beim Ausbau der Befestigungsanlangen auf dem Jakobsberg"
+GUELTIG_AB: (historisch, 1661 erweitert)
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 135-nackenheim/015
+ENTITÄT: kloster
+BEZEICHNUNG: Mainzer Weißfrauenkloster
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nackenheim.html | Landesportal
+EIGENSCHAFTEN:
+  lokation: Mainz
+  erwerb_nackenheim_gut_jahr: 1739
+  erwerb_gut_typ: Weinberge
+  erwerb_bedingung: "gegen den Widerstand der Gemeinde"
+GUELTIG_AB: 1739
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 135-nackenheim/016
+ENTITÄT: person
+BEZEICHNUNG: Philipp von Hohenfels
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nackenheim.html | Landesportal
+EIGENSCHAFTEN:
+  rolle: Vogt (Vogtei der Hohenfelser)
+  beschreibung: "dessen Übergriffe auf St. Gereon dieses sich kaum erwehren konnte"
+  abgabenverzicht_jahr: 1264
+  abgabenverzicht_detail: "verzichtete auf Abgaben der Güter Johann (Sohn des Hufnagel) und beliehte ihn damit selbst"
+GUELTIG_AB: (12./13. Jahrhundert)
+GUELTIG_BIS: 1264
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 135-nackenheim/017
+ENTITÄT: person
+BEZEICHNUNG: Wiegand von Dienheim
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nackenheim.html | Landesportal
+EIGENSCHAFTEN:
+  rolle: Vogt in Nackenheim
+  vogtei_teil_verlust_jahr: 1367
+  grund_verlust: "St. Stephan erwarb einen Teil der Vogtei"
+GUELTIG_AB: (vor 1367)
+GUELTIG_BIS: 1367
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.78
+---
+ID: 135-nackenheim/018
+ENTITÄT: person
+BEZEICHNUNG: Pfalzgraf (Kurpfalz)
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nackenheim.html | Landesportal
+EIGENSCHAFTEN:
+  rolle: "gefährlichster territorialer Konkurrent des Mainzer Stiftes"
+  vogtei_erwerb_1413_menge: "Hälfte der Vogtei"
+  vogtei_erwerb_1498_quelle: "Caspar Erlenhaupt von Saulheim"
+  einigung_1510_basis: "Weistum von 1367, fixierte Vogteigerechtsame"
+  herrschaftsverlust_nackenheim_jahr: 1615
+GUELTIG_AB: 1413
+GUELTIG_BIS: 1615
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 135-nackenheim/019
+ENTITÄT: person
+BEZEICHNUNG: Mainzer Erzbischof
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nackenheim.html | Landesportal
+EIGENSCHAFTEN:
+  erwerb_ortsherrschaft_jahr: 1615
+  erwerb_quelle: Mainzer Stift St. Stephan
+  erfolg_konsolidierung: "gelang es schnell, kurpfälzische Ansprüche abzuwehren und Herrschaft zu konsolidieren"
+GUELTIG_AB: 1615
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 135-nackenheim/020
+ENTITÄT: historisches_dokument
+BEZEICHNUNG: Weistum Nackenheim
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nackenheim.html | Landesportal
+EIGENSCHAFTEN:
+  datierung: 1367
+  inhalt: "fixierte Vogteigerechtsame zwischen St. Stephan und Pfalzgraf"
+  bedeutung_rechtlich: "bildete immer wieder die Grundlage der rechtlichen Argumentation in späteren Auseinandersetzungen"
+  überlieferung: "in großer Zahl von Abschriften überliefert"
+GUELTIG_AB: 1367
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 135-nackenheim/021
+ENTITÄT: historisches_dokument
+BEZEICHNUNG: Güterverzeichnis St. Gereon
+QUELLE: https://www.regionalgeschichte.net/rheinhessen/nackenheim.html | Landesportal
+EIGENSCHAFTEN:
+  datierung: "um 1210"
+  inhalt: "Besitzungen des Stiftes St. Gereon in Nackenheim und Lörzweiler"
+  qualität_quelle: "gewährt guten Einblick in umfangreiche Besitzungen"
+  erkenntnisse: "weitgehende Zersplitterung des ehemals geschlossenen Gutes"
+GUELTIG_AB: 1210
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85

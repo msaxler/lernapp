@@ -1,0 +1,51 @@
+{
+ "stufe": "stufe2",
+ "ort": "120-meersburg",
+ "prompt": "prompt-stufe2-v0.1.txt",
+ "modell_wunsch": "claude-opus-5-5",
+ "modelle": [
+  "claude-opus-5-5",
+  "claude-haiku-4-5-20251001"
+ ],
+ "eingabe_zeichen": 12193,
+ "token_ein": 253586,
+ "token_aus": 6234,
+ "usage": {
+  "input_tokens": 16,
+  "cache_creation_input_tokens": 30819,
+  "cache_read_input_tokens": 222751,
+  "output_tokens": 6234,
+  "output_tokens_details": {
+   "thinking_tokens": 2654
+  },
+  "server_tool_use": {
+   "web_search_requests": 0,
+   "web_fetch_requests": 0
+  },
+  "service_tier": "standard",
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 30819,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "inference_geo": "global",
+  "iterations": [
+   {
+    "input_tokens": 2,
+    "output_tokens": 3083,
+    "cache_read_input_tokens": 37286,
+    "cache_creation_input_tokens": 435,
+    "cache_creation": {
+     "ephemeral_5m_input_tokens": 0,
+     "ephemeral_1h_input_tokens": 435
+    },
+    "type": "message"
+   }
+  ],
+  "speed": "standard",
+  "fallback_credit": null
+ },
+ "kosten_usd": 0.7233862000000001,
+ "sekunden": 99,
+ "fehler": false,
+ "zeit": "2026-10-12T10:23:31"
+}

@@ -1,0 +1,916 @@
+ZIELORT: Wangen im Allgäu (Stadt)
+LAGE: 80 km südlich von Ulm (Luftlinie, Ortsmitte zu Stadtmitte)
+ARTIKEL: Wangen im Allgäu
+
+GRUNDDATEN:
+  landkreis: Ravensburg  [dewiki Infobox]
+  bundesland: Baden-Württemberg  [dewiki Infobox]
+  einwohner: 28.784  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 101,29 | 101,35  [Wikidata P2046; Altbestand staedte.json]
+  dichte_ew_km2: 284  [berechnet aus Einwohner und Fläche]
+  kfz: WG (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 556 | 572  [Wikidata P2044; dewiki Infobox; Altbestand staedte.json; Altbestand geo.sqlite (GeoNames 2814270)]
+  naechste_grossstadt: Ulm, 80 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  km_landeshauptstadt: Stuttgart, 131 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json)]
+  bahnhof: Bahnhof Wangen (Allgäu)  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  plz: 88239  [Wikidata P281]
+  vorwahl: 07522  [Wikidata P473]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CDU 35 %, AfD 15,3 %, GRÜNE 14,7 %, SPD 13,3 %, Die Linke 7,1 %; Wahlbeteiligung 84,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+  buergermeister: Michael Lang (parteilos) — AKTUALITÄT NICHT GEPRÜFT  [dewiki Infobox, Stand 2026-10-08]
+  partnerstaedte: La Garenne-Colombes, Prato, Stadt Wehlen  [Wikidata P190]
+
+PLAN:
+  Karte 1: Geschichte, A, wahre Option an Stelle 2
+  Karte 2: Klassiker, EIGENSCHAFT dichte_ew_km2: Einwohner je Quadratkilometer (Ersatz: Einwohnerzahl), C, wahre Spanne an Stelle 3
+  Karte 3: Geschichte, B, Lüge an Stelle 2
+  Karte 4: Klassiker Politik, EIGENSCHAFT wahl_btw25: Wahlbeteiligung in Prozent, C, wahre Option an Stelle 1
+  Karte 5: Geschichte, A, wahre Option an Stelle 2
+  Karte 6: Klassiker, EIGENSCHAFT flaeche_km2: Fläche der Gemarkung (Ersatz: Landkreis), C, wahre Option an Stelle 3
+  Karte 7: Geschichte, A oder B, oder C mit einer überraschenden Zahl aus FAKTEN (Regel 6); wahre Option an Stelle 4 (bei B: Lüge an Stelle 3)
+  Zusatzkarten 8 bis 10 (nur wenn FAKTEN es hergeben): je eine weitere Geschichte, Familie A oder B, auf einem bisher ungenutzten Fakt; Stelle der Lösung frei, aber anders als bei der Karte davor
+
+LETZTER_PIN: Lindau (Stadt)
+  landkreis: Lindau (Bodensee)  [dewiki Infobox]
+  einwohner: 25.702  [Wikidata P1082, Stand 2025-12-31]
+  flaeche_km2: 33,06  [Wikidata P2046]
+  kfz: LI (Hauptkennzeichen; Kreise geben daneben oft frühere Kennzeichen aus)  [Wikidata P395]
+  hoehe_m: 401 | 406  [Wikidata P2044; dewiki Infobox; Altbestand geo.sqlite (GeoNames 2877550)]
+  naechste_grossstadt: Ulm, 98 km Luftlinie  [berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern]
+  ersterwaehnung: 882  [Wikidata P1249]
+  bahnhof: Haltepunkt Lindau-Aeschach  [Wikidata (Bahnhöfe mit P131 = Ort)]
+  wahl_btw25: Bundestagswahl 2025, Zweitstimmen: CSU 34,7 %, GRÜNE 16,3 %, AfD 13,9 %, SPD 13,5 %, Die Linke 7,1 %, FDP 5,2 %; Wahlbeteiligung 81,2 %  [Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich), Stand 2025-02-23]
+
+FAHRT: March, Gottenheim, Bötzingen, Eichstetten, Ihringen, Breisach, Stegen, Oberried, Buchenbach, Hinterzarten, Titisee-Neustadt, Löffingen, Bräunlingen, Hüfingen, Donaueschingen, Bad Dürrheim, Villingen-Schwenningen, Tuningen, Rottweil, Oberndorf am Neckar, Sulz am Neckar, Empfingen, Horb am Neckar, Eutingen im Gäu, Bondorf, Gäufelden, Herrenberg, Ammerbuch, Tübingen, Rottenburg am Neckar, Starzach, Emmendingen, Kenzingen, Herbolzheim, Lahr, Friesenheim, Offenburg, Appenweier, Renchen, Achern, Bühl, Baden-Baden, Rastatt, Durmersheim, Karlsruhe, Stutensee, Graben-Neudorf, Waghäusel, Hockenheim, Schwetzingen, Mannheim, Ladenburg, Weinheim, Laudenbach, Heppenheim, Bensheim, Zwingenberg, Seeheim-Jugenheim, Darmstadt, Langen, Frankfurt am Main, Rüsselsheim, Mainz, Wiesbaden, Walluf, Eltville am Rhein, Oestrich-Winkel, Geisenheim, Rüdesheim am Rhein, Lorch, Kaub, St. Goarshausen, Kestert, Kamp-Bornhofen, Osterspai, Braubach, Lahnstein, Vallendar, Andernach, Koblenz, Rhens, Boppard, St. Goar, Oberwesel, Bacharach, Bingen, Ingelheim, Alzey, Bodenheim, Nackenheim, Nierstein, Oppenheim, Worms, Frankenthal, Ludwigshafen, Speyer, Landau, Bruchsal, Vaihingen an der Enz, Ludwigsburg, Pforzheim, Leonberg, Stuttgart, Esslingen am Neckar, Plochingen, Kirchheim unter Teck, Göppingen, Geislingen an der Steige, Merklingen, Ulm, Neu-Ulm, Günzburg, Burgau, Augsburg, Odelzhausen, Olching, München, Engen, Singen, Stockach, Überlingen, Meersburg, Friedrichshafen, Lindau, Wangen im Allgäu, Memmingen, Mindelheim, Landsberg am Lech, Eching, Neufahrn bei Freising, Hallbergmoos, Freising, Moosburg an der Isar, Allershausen, Kranzberg
+
+FAKTEN (Zielort Wangen im Allgäu):
+ID: 123-wangen/001
+ENTITÄT: ort
+BEZEICHNUNG: Wangen im Allgäu
+QUELLE: https://www.wangen.de/buerger/stadt-ortschaften/zeitreise/chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmals_erwähnt_als: Wangun
+  erstmals_erwähnt_jahr: 815
+  ursprung: alemannische Ansiedlung
+  ursprünglicher_besitzer: Kloster St. Gallen
+  status_1217: urkundlich Stadt (Urkunde Kaiser Friedrichs II.)
+  status_seit_1286: freie Reichsstadt
+  status_ab_1802: bayerische Amtsstadt
+  status_ab_1810: Württemberg
+  status_verwaltung: Oberamtsstadt
+  industrialisierung_beginn: 1860
+  eisenbahnanschluss: 1880
+  bevölkerung_1840: 1769
+  bevölkerung_1940: 8034
+  verwaltungsreform: 1972-1973
+  gemeinden_eingemeindet: 6
+  einwohner_nach_reform: 22066
+  ist_große_kreisstadt: true
+  ist_denkmalgeschützt: true
+  denkmalschutz_seit: Mitte 1970er Jahre
+  ist_luftkurort: true
+  luftkurort_verliehen: 1974
+  jährliche_besucher: über 500000
+  charakterisierung: traditionsreich und quicklebendige Stadt
+  charakterisierung_funktion: wirtschaftlicher, kultureller und gesellschaftlicher Mittelpunkt Württembergischen Allgäus
+GUELTIG_AB: 815
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 123-wangen/002
+ENTITÄT: altstadt
+BEZEICHNUNG: Historische Altstadt
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ruf_regional: eine der schönsten Altstädten im Allgäu
+  ruf_überregional: eine der schönsten unter den süddeutschen Altstädten
+  charakterisierung: geschlossener Gesamtcharakter mit authentischen Details
+  merkmal: liebevoll restaurierte Fachwerkhäuser
+  merkmal: farbenfrohe Fassaden
+  merkmal: mittelalterliche Stadttore
+  merkmal: verwinkelte Gassen
+  merkmal: gemütliche Plätze
+  merkmal: zahlreiche Brunnen
+  jährliche_besucher: über 500000
+  ruf_touristisch: mittelalterliches Juwel
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 123-wangen/003
+ENTITÄT: platz
+BEZEICHNUNG: Marktplatz
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: gute Stube der Stadt
+  funktion: Treffpunkt für Einheimische und Besucher
+  tradition: gemeinsame Neujahrsfeier der Wangener
+  wochenmarkt_name: schönster Wochenmarkt der Region
+  veranstaltungen: Fasnets- und Kinderfestumzug, Freiluftkino, Konzerte
+  verkehrssituation: autofrei
+  autofrei_seit: 1984
+  vorgänger_bebauung: Domizil Herren von Praßberg
+  domizil_abbruch: 1719
+  markierung_vorgänger: dunkle Linie Pflastersteine zeigt Umrisse
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 123-wangen/004
+ENTITÄT: platz
+BEZEICHNUNG: Postplatz
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: hinter dem Rathaus
+  charakterisierung: Schönheit nicht nachstehend dem Marktplatz
+  besonderheit: originale Farbigkeit der mittelalterlichen Stadt sichtbar
+  grenzmarkierung: Kirchhofmauer (Überrest der ältesten Stadtbefestigung)
+  gebäude_ensemble: Waaghaus, Rathaus, Ratloch, Mesnerhaus
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/005
+ENTITÄT: rathaus
+BEZEICHNUNG: Rathaus
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  architekturstil: barock
+  merkmal: barocke Fassade
+  besonderheit: Pfaffenturm
+  lage: Marktplatz / Postplatz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 123-wangen/006
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: katholische Stadtpfarrkirche
+  lage: Marktplatz
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 123-wangen/007
+ENTITÄT: gebäude
+BEZEICHNUNG: Hinderofenhaus
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: gegenüber St. Martin, Marktplatz
+  beschreibung: prägt das Gesicht des Platzes
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 123-wangen/008
+ENTITÄT: gebäude
+BEZEICHNUNG: Kornhaus
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Postplatz
+  bauzeit: 1600-1602
+  ursprüngliche_funktion: Getreidespeicher und -verkauf
+  ursprüngliche_funktion_bis: 19. Jahrhundert
+  gegenwärtige_funktion: öffentliche Bücherei
+  merkmal: historisches Dach bewahrt
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/009
+ENTITÄT: stadttor
+BEZEICHNUNG: Martinstor
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Paradiesstraße Richtung Süden
+  benannt_nach: benachbarte Pfarrkirche St. Martin
+  alternative_bezeichnung: Lindauer Tor
+  erstmals_erwähnt: 1347
+  architekturstil_ursprünglich: gotisch
+  architekturstil_aktuell: gotisch mit Renaissance-Elementen
+  form_umgestaltet: 1608
+  ausstattung: Gemälde des Heiligen St. Martin auf Innenseite
+  besonderheit_bemalung: gotische Bemalung im Tordurchgang erhalten
+  turmstuben: restauriert, von örtlichen Vereinen genutzt
+  künstlerbemalung_paradiesstraße: August und Josef Braun
+  künstlerbemalung_jahr: 1928
+  uhr: auf südlicher Seite mit Inschrift Lass dir Zeit
+GUELTIG_AB: 1347
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/010
+ENTITÄT: stadttor
+BEZEICHNUNG: Frauentor
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Abschluss Herrenstraße
+  alternative_bezeichnung: Ravensburger Tor
+  vermuteter_ursprung: Stadtgründung
+  bauzeit_vermutung: 12. Jahrhundert
+  bauzeit_genauigkeit: vermutlich
+  erstmals_erwähnt: 1472
+  architekturstil_aktuell: Renaissance
+  form_umgestaltet: 1608
+  außenrenovierung: 1988
+GUELTIG_AB: 1472
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 123-wangen/011
+ENTITÄT: mühle
+BEZEICHNUNG: Eselmühle
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alternative_bezeichnung: Stadtmühle
+  bauzeit: 16. Jahrhundert
+  lage: Eselberg
+  ursprünglicher_träger: Spital
+  besitzer_ab_1824: Benedikt Halder
+  halder_eigenschaft: Müller
+  mahlbetrieb_eingestellt: 1937
+  kauf_durch: Stadt Wangen
+  funktion_seit_1978: Heimatmuseum
+  gegenwärtige_nutzung: Museum und Kulturinststitution
+  merkmal: Wasserrad dreht sich im Sommer
+  merkmal: Wehrgang mit Blick auf Altstadt
+GUELTIG_AB: 16. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/012
+ENTITÄT: turm
+BEZEICHNUNG: Pulverturm
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit_beginn: Anfang 15. Jahrhundert
+  bauanlass: Ummaurung Unterstadt durch Wangener
+  ursprünglicher_name: Färber- oder Wasserturm
+  grund_name: benachbarte Färberei (Rauchsche Stadtansicht 1611)
+  umgebaut_grundlegend: 1596
+  restauriert: 1985
+  dach_erneuert: 2011
+GUELTIG_AB: 1400
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/013
+ENTITÄT: friedhof
+BEZEICHNUNG: Alter Gottesacker
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heutige_funktion: Stadtpark
+  angelegt: 1521
+  anlass_anlage: Pestjahr
+  grund_anlage: Pest
+  gelände_ursprung: Maierhof des Klosters St. Gallen
+  maierhof_dokumentiert_seit: 815
+  vorbild_anlage: italienische Friedhöfe der Renaissance
+  ausstattung: Arkaden mit steinernen und gemalten Epitaphen
+  grabmale_träger: Bürger- und Zunftmeister, Gerichts- und Ratsherren der Freien Reichsstadt
+  kapelle_bestattung: Rochuskapelle
+  kapelle_bauzeit: Ende 16. Jahrhundert
+  gegenwärtige_nutzung: idyllischer Park mit Bäumen und Blumenrabatten
+GUELTIG_AB: 1521
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/014
+ENTITÄT: brunnen
+BEZEICHNUNG: Allgäuer-Brunnen
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: vor Pfaffenturm am Weg vom Marktplatz zum Postplatz
+  künstler: Joseph Michael Neustifter
+  künstler_herkunft: Eggenfelden
+  thema: die verdruckten Allgäuer
+  referenz_spruch: von sechs übereinandergestapelten Allgäuern unterster so verdruckt wie oberster
+  besonderheit: Figur spuckt Wasser auf Passanten in Intervallen während warmer Jahreszeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 123-wangen/015
+ENTITÄT: brunnen
+BEZEICHNUNG: Esel-Brunnen
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: vor Gasthof Stiefel am Eselberg bei Eselmühle
+  literarischer_bezug: Fabel des Aesop
+  thema: Geschichte eines Bauern, seines Sohnes und eines Esels mit guten Ratschlägen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 123-wangen/016
+ENTITÄT: brunnen
+BEZEICHNUNG: Antonius-Brunnen
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Saumarkt
+  künstler: Werner und Elsa Gürtner
+  künstler_typ: Künstlerehepaar
+  künstler_herkunft: Überlingen
+  künstler_arbeitszeit: über ein Jahr
+  material: Bronzeplastiken
+  einweihung_datum: 6. Dezember 1986
+  standortbegründung: Saumarkt als historischer Ort des wöchentlichen Schweinmarktes über Hunderte von Jahren
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/017
+ENTITÄT: brunnen
+BEZEICHNUNG: Amtsschimmel-Brunnen
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Vorplatz Landratsamt Lindauer Straße
+  einweihung_jahr: 1984
+  eingeweihter: Dr. Guntram Blaser
+  eingeweihter_titel: Ravensburger Landrat
+  eingeweihter_charakterisierung: Beitrag zur Selbstironie der Bürokratie
+  besonderheit: alle Figuren beweglich
+  typ: Brunnen zum Anfassen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/018
+ENTITÄT: ortsteil
+BEZEICHNUNG: Schomburg
+ORTSTEIL_BEZUG: Ortschaft
+QUELLE: https://www.wangen.de/buerger/stadt-ortschaften/ortschaften/schomburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: 2500
+  status: eine der sechs Ortschaften von Wangen
+  status_seit: 1972
+  frühere_zugehörigkeit: Oberamt Tettnang
+  zugehörigkeit_ab_1937: Kreis Wangen
+  pfarreien_anzahl: zwei
+  pfarreien_konfession: katholisch
+  pfarrei_1: Haslach
+  pfarrei_2: Primisweiler
+  fluss_grenze: Untere Argen
+  evangelisches_pfarramt_zuständigkeit: Amtzell
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/019
+ENTITÄT: ortsteil
+BEZEICHNUNG: Haslach
+ORTSTEIL_BEZUG: Ortschaft Schomburg
+QUELLE: https://www.wangen.de/buerger/stadt-ortschaften/ortschaften/schomburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erstmals_erwähnt: 882
+  erstmals_erwähnt_als: HASALACHA
+  erwähnt_in: Schenkungsurkunde Klosters St. Gallen
+  lage: rechts des Flusses (Untere Argen)
+  pfarrkirche: Hl. Stephanus
+  pfarrkirche_zerstört: zweimal vor 1588
+  patronat_übertrag: 1588
+  patronat_übertrag_an: Friedrich Humpis von Waltrams-Pfaffenweiler
+  wiederaufbau_kirche: durch Abt Joachim Opser von St. Gallen
+GUELTIG_AB: 882
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/020
+ENTITÄT: ortsteil
+BEZEICHNUNG: Primisweiler
+ORTSTEIL_BEZUG: Ortschaft Schomburg
+QUELLE: https://www.wangen.de/buerger/stadt-ortschaften/ortschaften/schomburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprünglicher_name: BRUNIGESWILLARE
+  herkunft: wahrscheinlich erste Zeiten der Christianisierung
+  lage: links der Unteren Argen
+  pfarrkirche: St. Clemens
+  pfarrkirche_herkunft: mittelalterliche Ursprünge
+  pfarrkirche_besitzer_1092: Abtei Mehrerau bei Bregenz
+  pfarrkirche_wechsel_1722: Hochstift Konstanz
+  schaden_dreißigjähriger_krieg: Kirche zerstört
+  wiederaufbau: durchgeführt
+  kirchenverlängerung: 1831
+  kirchenverlängerung_finanzierung: mit Beiträgen der Pfarrgemeinde
+GUELTIG_AB: 8. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/021
+ENTITÄT: kapelle
+BEZEICHNUNG: Kapelle Hiltensweiler
+ORTSTEIL_BEZUG: Schomburg
+QUELLE: https://www.wangen.de/buerger/stadt-ortschaften/ortschaften/schomburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gebaut: ca. 1150
+  geweiht: Hl. Konrad Bischof von Konstanz
+  heiliger_lebensdaten: 934-975
+  heiliger_herkunft: Geschlecht der Welfen
+  gotisierung: 1512
+  renovierung: 2017
+GUELTIG_AB: 1150
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/022
+ENTITÄT: brücke
+BEZEICHNUNG: Holzbrücke über Obere Argen
+ORTSTEIL_BEZUG: Schomburg/Primisweiler
+QUELLE: https://www.wangen.de/buerger/stadt-ortschaften/ortschaften/schomburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeit: ca. 1790
+  bauherr: Fürstabt Beda Angehrn von St. Gallen
+  material: Holz
+  typ: gedeckte Brücke
+  überquert: Obere Argen
+  erschließt_straße: ehemalige Fernstraße Augsburg-Wangen-Lindau-Mailand
+  straße_bedeutung: bis Mitte 19. Jahrhundert verkehrsreichste Staatsstraße Württemberg
+  reichsstraße_verlegt: 1929
+  neuer_flussübergang_bau: 1929
+  denkmalpflege: 1937
+GUELTIG_AB: 1790
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/023
+ENTITÄT: ruine
+BEZEICHNUNG: Alt-Schomburg
+ORTSTEIL_BEZUG: Schomburg
+QUELLE: https://www.wangen.de/buerger/stadt-ortschaften/ortschaften/schomburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  heute_benannt: Hofgut Hochburg
+  lage: linkes Ufer Untere Argen
+  lage_quelle: Wangener Landtafel Johann Andreas Rauch 1617
+  funktion_historisch: Mittelpunkt Herrschaft Schomburg
+  herrschaft_umfang: ca. 15 Orte gehörten dazu
+  sichtbarkeit_heute: kaum noch sichtbar
+GUELTIG_AB: Mittelalter
+GUELTIG_BIS: 19. Jahrhundert
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 123-wangen/024
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Schomburg
+ORTSTEIL_BEZUG: Schomburg
+QUELLE: https://www.wangen.de/buerger/stadt-ortschaften/ortschaften/schomburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: rechtes Ufer Untere Argen auf das Tal beherrschende Anhöhe
+  lage_quelle: Wangener Landtafel Johann Andreas Rauch 1617
+  sichtbarkeit_heute: so gut wie nichts mehr zu sehen
+  verkauf_abbruch: 1836
+  letzte_reste: Ende des Jahrhunderts verschwunden
+GUELTIG_AB: Mittelalter
+GUELTIG_BIS: 1836
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 123-wangen/025
+ENTITÄT: adliges_geschlecht
+BEZEICHNUNG: Herren von Schauenburg
+QUELLE: https://www.wangen.de/buerger/stadt-ortschaften/ortschaften/schomburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alternative_schreibweise: Schowenburg oder Scowenburg
+  erstmals_bezeugt: 1229
+  ursprüngliche_funktion: Ministeriale der Abtei St. Gallen
+  unterstellung_unter: Grafen von Montfort-Tettnang
+  unterstellung_ab: ca. 1250
+  herrschaftsgebiet: Herrschaft Schomburg
+  herrschaft_grösse: ca. 15 Orte
+GUELTIG_AB: 1229
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 123-wangen/026
+ENTITÄT: ortsteil
+BEZEICHNUNG: Neuravensburg
+ORTSTEIL_BEZUG: Ortschaft
+QUELLE: https://www.wangen.de/buerger/stadt-ortschaften/ortschaften/neuravensburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einwohner: ca. 3000
+  status: eine der sechs Ortschaften von Wangen
+  status_seit: 1972
+  frühere_status: selbständige Gemeinde bis 1972
+  frühere_herrschaft: sanktgallische Herrschaft Neuravensburg
+  pfarreien_anzahl: zwei
+  pfarreien_konfession: katholisch
+  pfarrei_1: Roggenzell
+  pfarrei_2: Schwarzenbach
+  pfarreien_herkunft: 8. und 9. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/027
+ENTITÄT: burg
+BEZEICHNUNG: Burg Neuravensburg
+ORTSTEIL_BEZUG: Neuravensburg
+QUELLE: https://www.wangen.de/buerger/stadt-ortschaften/ortschaften/neuravensburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  mittelpunkt: Herrschaft Neuravensburg
+  erstmals_erwähnt: 13. Jahrhundert
+  gründer: Heinrich von Ravensburg
+  gründer_titel: Reichsministeriale
+  gründer_leistung: gründete auch Stadt am Fuße der Burg
+  gründer_sterbedatum: ca. 1270
+  nachfolge_1270: Erbweg an Kloster St. Gallen
+  verkauf_1450: Stadt Lindau
+  besitz_lindau: 1450-1586
+  zerstörung_bauernkrieg: 1525
+  wiederaufbau: 1614 als Schloss unter St. Galler Herrschaft
+  lösung_durch_wangen: 1586 Reichsstadt Wangen löste verpfändete Herrschaft
+  rückgabe_an_kloster: 1608
+  übertrag_1803: Fürst von Dietrichstein
+  württemberg_ab: 1806
+  verkauf_1836: an Wangener Bürger
+  abbruch: 1837
+  erhalten: nur Turm als Wahrzeichen
+  denkmalpflege_1913: erste Instandsetzungs- und Erhaltungsarbeiten
+  verein_gegründet: 1987
+  verein_name: Burg- und Heimatverein
+GUELTIG_AB: 13. Jahrhundert
+GUELTIG_BIS: 1837
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/028
+ENTITÄT: weiher
+BEZEICHNUNG: Neuravensburger Weiher
+ORTSTEIL_BEZUG: Neuravensburg
+QUELLE: https://www.wangen.de/buerger/stadt-ortschaften/ortschaften/neuravensburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  typ: Wahrzeichen der Gemeinde
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 123-wangen/029
+ENTITÄT: fest
+BEZEICHNUNG: Neuravensburger Burgfest
+ORTSTEIL_BEZUG: Neuravensburg
+QUELLE: https://www.wangen.de/buerger/stadt-ortschaften/ortschaften/neuravensburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: jährlich zweites Wochenende im August
+  ort: Burggelände
+  angebot_kinder: spannende Spiele
+  angebot_erwachsene: vielseitiges musikalisches Programm
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 123-wangen/030
+ENTITÄT: fest
+BEZEICHNUNG: Burgspectaculum
+ORTSTEIL_BEZUG: Neuravensburg
+QUELLE: https://www.wangen.de/buerger/stadt-ortschaften/ortschaften/neuravensburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitpunkt: Frühjahr
+  dauer: mehrtägig
+  thema: Zeitreise ins Mittelalter
+  angebote: verschiedene Aktionen von Künstlern und Handwerkern im mittelalterlichen Stil
+  verpflegung: Köstlichkeiten aus vergangenen Zeiten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 123-wangen/031
+ENTITÄT: fest
+BEZEICHNUNG: Brückenfest
+ORTSTEIL_BEZUG: Neuravensburg
+QUELLE: https://www.wangen.de/buerger/stadt-ortschaften/ortschaften/neuravensburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  organisator: Musikverein Schwarzenbach
+  erstmals_stattgefunden: 1987
+  zeitpunkt_wiederkehrend: jährlich im Sommer
+  dauer: dreitägig
+  ort: rund um die alte Argenbrücke
+  zielgruppe: jung und alt
+  attraktionen: musikalische Unterhaltung, kulinarische Genüsse
+  besonderheit: größter Flohmarkt von Wangen und Umgebung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/032
+ENTITÄT: museum
+BEZEICHNUNG: Deutsches Eichendorff-Museum
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/kultur-und-kunst/museumslandschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  person: Joseph Freiherr von Eichendorff
+  person_lebensdaten: 1788-1857
+  person_herkunft: schlesisch
+  person_werk: Erfinder des Taugenichts
+  sammlungsgegenstand: Briefe, originale Handschriften, zeitgenössische Kunst, Fotografien aus Heimat
+  sammler_initial: Willibald Köhler und Karl Fleischer
+  sammler_hintergrund: vertrieben aus Schlesien
+  ursprüngliche_form: von Sammlern selbst eröffnete Museen
+  gegenwärtig_träger: Stadt Wangen
+  gegenwärtig_ort: Eselmühle (ehemaliiges Färberhaus beim Pulverturm)
+  träger_wechsel_jahr: 1986
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/033
+ENTITÄT: museum
+BEZEICHNUNG: Gustav-Freytag-Museum
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/kultur-und-kunst/museumslandschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  person: Gustav Freytag
+  person_lebensdaten: 1816-1895
+  person_rollen: Schriftsteller, Publizist, Erzähler, Kulturhistoriker
+  person_bedeutung: zählt zu großen Gestalten des deutschen Geisteslebens
+  sammlungsgegenstand: Briefe, Schriften, Erstausgaben, Bilder
+  sammler_initial: Willibald Köhler und Karl Fleischer
+  sammler_hintergrund: vertrieben aus Schlesien
+  ursprüngliche_form: von Sammlern selbst eröffnete Museen
+  gegenwärtig_träger: Stadt Wangen
+  gegenwärtig_ort: Eselmühle (ehemaliiges Färberhaus beim Pulverturm)
+  träger_wechsel_jahr: 1986
+GUELTIG_AB: 1986
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/034
+ENTITÄT: museum
+BEZEICHNUNG: Historische Badstube
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/kultur-und-kunst/museumslandschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Langen Gasse 9
+  architektur: massive kreuzgewölbte Halle
+  ausstattung: Kupferkessel, Waschzuber, Lichtnischen
+  ausgrabung_badanlage: 1589
+  ältere_schicht: noch um 180 Jahre älter darunter
+  vermutung_betrieb_beginn: Anfang 15. Jahrhundert
+  badebetrieb_form: öffentlich
+  sanierung: 1991-1993
+  qualität: bauhistorische Kostbarkeit
+GUELTIG_AB: 1407
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/035
+ENTITÄT: museum
+BEZEICHNUNG: Käsereimuseum
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/kultur-und-kunst/museumslandschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Eselmühle Wehrgang / Stadtmauer
+  thema: Geschichte der Allgäuer Milchwirtschaft
+  subthema: Emmentaler Dorfkäserei, Alpkäserei
+  sammlung_schwerpunkt: Wangener Käsefabrik ADLER
+  adler_produkt: Schmelzkäseecken
+  adler_vertrieb: weit über Stadt hinaus
+  ortliche_zugehörigkeit: Wangen an Allgäuer Käsestraße
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/036
+ENTITÄT: museum
+BEZEICHNUNG: OsterEierMuseum
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/kultur-und-kunst/museumslandschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: oberhalb Pulverturmcafés
+  größe: ca. 37 Quadratmeter
+  sammlungsquelle: über 40 Jahre Wangener Ostereier-Künstlermarkt
+  sammlungsgegenstand: kunstvolle Ostereier, Hasen aus Keramik, Karten
+  raumgestaltung: Wohnzimmercharakter mit Tischgarnitur und Sofa
+  raumfarbgebung: österliches Rot, frühlingshaftes Grün
+  besonderheit: sprechender Brunnen erzählt Bräuche rund um Ostern
+  kinderformat: Quiz für schlaue Hasen mit versteckten Antworten
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/037
+ENTITÄT: museum
+BEZEICHNUNG: Museum für mechanische Musikinstrumente
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/kultur-und-kunst/museumslandschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Eselmühle
+  thema: Vorgänger von Jukebox und MP3-Player
+  sammlungsgegenstand: Drehorgeln, Flötenuhr, mechanischer Flügel, Orchestrien, mechanischer Plattenwechsler, polyphone Spieldosen, mechanische Zither
+  plattenwechsler_herkunft: USA um 1900
+  besonderheit_führungen: Vorführungen und Hören möglich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/038
+ENTITÄT: museum
+BEZEICHNUNG: Museumsdruckerei
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/kultur-und-kunst/museumslandschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Langen Gasse 3a
+  typ: originalgetreu eingerichtete Buchdruckerei
+  maschine_1: Gutenberg-Druckmaschine-Nachbau
+  maschine_1_jahr: 1825
+  maschine_1_material: Holz
+  maschine_2: Boston-Kleindruck-Tiegelpresse
+  maschine_2_jahr: 1860
+  maschine_2_eigenschaft: erste eiserne
+  maschine_3: Phönix-Buchdruck-Tiegel
+  maschine_3_system: Gally-System
+  maschine_3_jahr: 1900
+  dauerleihgaben: Druckerei J. Walchner KG
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/039
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/kultur-und-kunst/museumslandschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Eselmühle (Eselberg)
+  thema: Geschichte von Wangen und ihrer Bedeutung als freie Reichsstadt
+  zeitumfang: 1200-jährige Geschichte
+  gebäude_eigenschaft: charakteristisches Wasserrad dreht sich im Sommer
+  original_anstalten: Mahlmühle-Einrichtungen im Erdgeschoss
+  sammlungs_themenkreise: Zunftwesen, alte Waffen, Silberschatz von St. Wolfgang, Volksfrömmigkeit, Bürgerleben, Flachsbauern, Leinwandherstellung
+  funktion: zentrale Zugangsfunktion zu allen Museumslandschafts-Gebäuden
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/040
+ENTITÄT: museum
+BEZEICHNUNG: Museum für ländliches Kulturgut Leupolz
+ORTSTEIL_BEZUG: Leupolz
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/kultur-und-kunst/museumslandschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Dorfstadel Leupolz
+  größe: 1000 Quadratmeter
+  geschosse: 4
+  thema: ländliches Leben von früher
+  sammlungsgegenstand: Geräte und Erinnerungsstücke aus Handwerk und Haushalt
+  schulzimmer_darstellung: Unterrichtsalltag Omas Zeiten
+  spezialausstellung: Ecke der Frömmigkeit
+  trägerschaft: Ehrenamtliche
+  öffnungszeiten_sommer: April-Oktober jeden 1. und 3. Mittwoch 14-16 Uhr
+  museumsfest_termin: 4. Sonntag September
+  museumsfest_charakter: großes Programm und Bewirtung
+  umgebung_kirchberg: Rundgang über Berg
+  umgebung_leupolzer_weinberg: mit Blick
+  umgebung_himmelszipfel: Garten der Sinne mit Kräutern
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/041
+ENTITÄT: museum
+BEZEICHNUNG: Heimatmuseum Haslach
+ORTSTEIL_BEZUG: Haslach
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/kultur-und-kunst/museumslandschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: ehemalige Kath. Volksschule
+  räume: zwei Unterrichtsräume (Unterklasse 1-4, Oberklasse 5-8)
+  sammlungsgegenstand: typische Utensilien und Gerätschaften aus Umfeld
+  urkunden_zeitspanne: seit 882 und 1120
+  galerie_inhalt: Schloss Schomburg
+  schloss_bauzeit: 14. Jahrhundert
+  schloss_funktion: Sommer-Residenz bis Untergang Tettnanger Montfortlinie
+  historisches_ereignis: Brückensprengung Schomburg 1945
+  ereignis_grund: Abwehr französischer Truppen von Wangen
+  berühmte_bürger: Prof. Dr. Dr. Alois Knöpfler, Familie Hofer
+  eintritt: frei
+  öffnungszeiten: nach Absprache
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/042
+ENTITÄT: park
+BEZEICHNUNG: Argenpark
+ORTSTEIL_BEZUG: Kernstadt - ERBA/Auwiesen
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/landesgartenschaugelaende | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  größe: 43 Hektar
+  flussbezug: am blauen Band der Oberen Argen
+  flussabschnitte: Stadtgarten bis Argenwiese
+  zentrum: ERBA-Park
+  bepflanzung: 3000 neue Sträucher und Bäume
+  bäume_versetzung: alte, gesunde Bäume versetzt
+  ursprung: Landesgartenschau 2024
+  gegenwärtig: Parks und Wege öffentlich zugänglich
+  nutzung: Freizeit und Erholung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/043
+ENTITÄT: fluss
+BEZEICHNUNG: Obere Argen
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/landesgartenschaugelaende | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  charakterisierung: einer der letzten deutschen voralpinen wilden Gebirgsflüsse
+  zustand_vor_renaturierung: in steiniges Korsett gezwängt in Kernstadt
+  revitalisierung_länge: 3,5 Kilometer
+  revitalisierung_von: Rehgarten bis Riedbrücke
+  revitalisierung_zeitraum: Landesgartenschau 2024
+  revitalisierungsziel: ökologische Aufwertung gesamter Flussabschnitt
+  maßnahmen: Raue Rampe für Fischpassage, Flachufer, Buhnen, Aue
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/044
+ENTITÄT: stadtteil
+BEZEICHNUNG: ERBA / Auwiesen
+ORTSTEIL_BEZUG: südliches Ende Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/landesgartenschaugelaende | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  entstehung: ab 2017
+  vorgängernutzung: Industriebrache der Baumwollspinnerei
+  gegenwärtiges_gemeinwesen: 1500 Menschen lebend
+  arbeitsplätze: 600 in zukunftsweisenden Berufen
+  neue_wohnungen_gesamt: 300
+  baumaterial_schwerpunkt: nachhaltiger Baustoff Holz
+  merkmal: Schornstein verschwundenes Kesselhaus als Wahrzeichen
+  kindergarten_neuer: Pusteblume
+  zielgruppe: junge Familien, Menschen mit Betreuungsbedarf
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/045
+ENTITÄT: industriedenkmal
+BEZEICHNUNG: Baumwollspinnerei Wangen
+ORTSTEIL_BEZUG: ERBA / Kernstadt
+QUELLE: https://www.wangen.de/buerger/stadt-ortschaften/zeitreise/chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1860
+  bezeichnung_ab_1913: ERBA
+  bedeutung: erste Industrie in Wangen
+  function: Spinnerei und Weberei
+  form_gegenwärtig: transformiert zu gemischtem Stadtteil ERBA/Auwiesen
+  transformation_zeitraum: ab 2017
+GUELTIG_AB: 1860
+GUELTIG_BIS: 2017
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/046
+ENTITÄT: verkehrswesen
+BEZEICHNUNG: Eisenbahnanschluss Wangen
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/buerger/stadt-ortschaften/zeitreise/chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  etabliert: 1880
+  folge_wirtschaft: wirtschaftliche Entwicklung gestärkt
+  folge_industrie: Voraussetzung Gründung 3 Großkäsereien
+  strecke: Zürich nach München
+  status_gegenwärtig: jüngst elektrifiziert
+GUELTIG_AB: 1880
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 123-wangen/047
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Pestwellen
+QUELLE: https://www.wangen.de/buerger/stadt-ortschaften/zeitreise/chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitraum: mehrfach in Mittelalter und Frühneuzeit
+  wirkung: große Bevölkerungsteile über Nacht dahingerafft
+  konsequenz: Anlage Alter Gottesacker 1521
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 123-wangen/048
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Stadtbrände Wangen
+QUELLE: https://www.wangen.de/buerger/stadt-ortschaften/zeitreise/chronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis_1539: Oberstadt durch Mordbrenner nahezu eingeäschert
+  ereignis_1539_täter: Mordbrenner
+  ereignis_1793_1858: ganze Straßenzüge Unterstadt
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 123-wangen/049
+ENTITÄT: geschichtliches_ereignis
+BEZEICHNUNG: Brückensprengung Schomburg
+ORTSTEIL_BEZUG: Schomburg
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/kultur-und-kunst/museumslandschaft | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahr: 1945
+  anlass: Abwehr französischer Truppen von Wangen
+  gedenkort: Heimatmuseum Haslach
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 123-wangen/050
+ENTITÄT: platz
+BEZEICHNUNG: Saumarkt
+ORTSTEIL_BEZUG: Kernstadt
+QUELLE: https://www.wangen.de/gaeste/zu-gast-in-wangen/sehenswert/historische-altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  historische_funktion: wöchentlicher Schweinmarkt über Hunderte von Jahren
+  gegenwärtiges_merkmal: Antonius-Brunnen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+

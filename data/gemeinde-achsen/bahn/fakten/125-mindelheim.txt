@@ -1,0 +1,599 @@
+ID: 125-mindelheim/001
+ENTITÄT: ort
+BEZEICHNUNG: Mindelheim
+QUELLE: https://www.mindelheim.de/unsere-stadt/mindelheim/mindelheim-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  postleitzahl: 87719
+  fläche: 56,44 qkm
+  telefonvorwahl: 08261
+  meereshoehe: 607 m
+  kfz_kennzeichen: MN
+  gewaesser: Mindel
+  einwohnerzahl: 16226
+  gueltig_ab_einwohnerzahl: 2023
+  lage: Mindeltal am Riedelruecken
+  ist_kreisstadt: true
+  verwaltungssitz: Landraatsamt Unterallgäu
+  landkreis: Unterallgäu
+  regierungsbezirk: Schwaben
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 125-mindelheim/002
+ENTITÄT: ort
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwaehnung: 1046
+  gueltig_ab: 1046
+  namensgebung: "Heim an der Mindel"
+  namensgebung_kultur: Alamannische Besiedlung
+  gueltig_ab_namensgebung: 7
+  jh: n. Chr.
+  christianisierung: 7
+  jh: n. Chr.
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 125-mindelheim/003
+ENTITÄT: ort
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung_buerger: um 1250
+  stadtrechtsverleihung: um 1250
+  verleihende_herrschaften: Schwiggern von Mindelberg (Dienstmannen Welfen/später Staufer)
+GUELTIG_AB: 1250
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 125-mindelheim/004
+ENTITÄT: ort
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_ab_1946: Kreisstadt
+  gueltig_ab: 1946
+  status_1616_bis_1939: Teil Herzogtum Bayern
+  gueltig_bis: 1945
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 125-mindelheim/005
+ENTITÄT: burgenanlage
+BEZEICHNUNG: Mindelburg
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/mindelburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  alternative_bezeichnung: Schloss St. Georgenberg
+  lage: Hoehenzug über dem Mindeltal
+  erbaut: 1170-1191
+  bautyp_ursprung: staufische Herzogpfalz
+  urheber: Kaiser Friedrich I. Barbarossa
+  auftraggeber: für seinen unmündigen Sohn Herzog Friedrich V. von Schwaben
+  ausbau_spätmittelalter: nach 1369
+  ausbau_durch: Herzöge von Teck
+  burgbrunnen_tiefe: 27 m
+  burgfried_umnutzung: zum Aussichtsturm umgebaut
+  zugaenglichkeit_burgfried: April bis Oktober
+  denkmalstatus: national bedeutsam
+  gueltig_ab_denkmalstatus: 2021
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 125-mindelheim/006
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Georg I. von Frundsberg
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/mindelburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  geburtsort: Mindelburg
+  geburtsjahr: 1473
+  todesjahr: 1528
+  todesort: Mindelburg
+  titel: Vater der Landsknechte
+  funktion: kaiserlicher Feldhauptmann
+  funktioniert_unter: Kaiser Maximilian I. und Karl V.
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 125-mindelheim/007
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaus
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Mindelheim
+  funktion: Sitz der Tourist-Information
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 125-mindelheim/008
+ENTITÄT: gebaeude
+BEZEICHNUNG: Stadtpfarrkirche St. Stephan
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: innerhalb der Stadtmauer
+  erbaut_beginn: ab 1409
+  erbaut_durch: Herzog Ulrich von Teck und Gemahlin Anna von Polen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 125-mindelheim/009
+ENTITÄT: kapelle
+BEZEICHNUNG: Silvesterkapelle
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_beginn: ab 1409
+  erbaut_durch: Herzog Ulrich von Teck und Gemahlin Anna von Polen
+GUELTIG_AB: 1409
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 125-mindelheim/010
+ENTITÄT: spital
+BEZEICHNUNG: Hl-Geist-Spital
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbaut_beginn: ab 1409
+  erbaut_durch: Herzog Ulrich von Teck und Gemahlin Anna von Polen
+GUELTIG_AB: 1409
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 125-mindelheim/011
+ENTITÄT: gebaeude
+BEZEICHNUNG: Jesuitenkolleg
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtet_jahr: 1618
+  errichtet_durch: Jesuiten
+  funktion: Gymnasium
+  beherbergt_heute: Krippenmuseum (ab Oktober 2018)
+GUELTIG_AB: 1618
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 125-mindelheim/012
+ENTITÄT: stadtbefestigung
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ausbau_beginn: ab 1365
+  ausbau_durch: Herzog Friedrich von Teck
+  verstaerkung: unter Herzog Ulrich von Teck (ab 1409)
+GUELTIG_AB: 1365
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 125-mindelheim/013
+ENTITÄT: wappen
+BEZEICHNUNG: Stadtwappen Mindelheim
+QUELLE: https://www.mindelheim.de/unsere-stadt/mindelheim/stadtwappen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: In Silber über blauen Wellen schwebend eine schwarze Glocke mit goldenen Reifen und goldenem Klöppel
+  wappenfuehrung_seit: ca. 1330
+  siegelfuehrung_seit: 1337
+  symbol_glocke: Markt- oder Ratsglocke
+  symbol_bedeutung_buergerrechte: Autonomie der Bürger Mindelheims
+  symbol_bedeutung_markt: Marktrecht der Stadt
+  symbol_wellen: Mindel (Fluss)
+  darstellung_1705_1715: Glocke im Brustschild eines gekrönten Doppeladlers
+  moderne_gestaltung_jahr: 1963
+  moderne_gestaltung_gestalter: Ernst Göhlert, Augsburg
+  moderne_element: fuenf Zinnen oder Türmer versinnbildlichen Stadtkrone
+  stadtfarben: Schwarz und Gold
+  stadtfarben_bezug_1: Herzöge von Teck
+  stadtfarben_bezug_2: Frundsberg (Rotter von Frundsberg, Schwaz/Tirol)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 125-mindelheim/014
+ENTITÄT: museum
+BEZEICHNUNG: Schwäbisches Krippenmuseum
+QUELLE: https://www.mindelheim.de/tourismus/kultur-museen/krippen-museums-stadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung_jahr: 1989
+  errichtung_ort: ehemaliges Jesuitenkolleg
+  neueroffnung_jahr: 2018
+  neueroffnung_monat: Oktober
+  standort_detail: Colleg (ehemaliges Jesuitenkolleg)
+  tradition_seit: 400 Jahren
+  grunder_tradition: Jesuiten (Anfang 17. Jahrhundert)
+  besonderheit: Wiege der schwäbischen Krippenkunst
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 125-mindelheim/015
+ENTITÄT: museum
+BEZEICHNUNG: Textilmuseum-Sandtnerstiftung
+QUELLE: https://www.mindelheim.de/tourismus/kultur-museen/krippen-museums-stadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Mindelheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 125-mindelheim/016
+ENTITÄT: museum
+BEZEICHNUNG: Südschwäbisches Archäologiemuseum
+QUELLE: https://www.mindelheim.de/tourismus/kultur-museen/krippen-museums-stadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Mindelheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 125-mindelheim/017
+ENTITÄT: museum
+BEZEICHNUNG: Schwäbisches Turmuhrenmuseum
+QUELLE: https://www.mindelheim.de/tourismus/kultur-museen/krippen-museums-stadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Mindelheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 125-mindelheim/018
+ENTITÄT: museum
+BEZEICHNUNG: Städtisches Heimatmuseum
+QUELLE: https://www.mindelheim.de/tourismus/kultur-museen/krippen-museums-stadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Mindelheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 125-mindelheim/019
+ENTITÄT: ortsteil
+BEZEICHNUNG: Gernstall
+QUELLE: https://www.mindelheim.de/unsere-stadt/mindelheim/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südlich von Mindelheim
+  eingemeindet_jahr: 1971
+  eingemeindet_mit: Unggenried, Vogelhäuser, St. Georgenberg
+  einwohner: ca. 150
+  einwohner_mit: Unggenried
+  erste_erwaehnung: 1295
+  erste_erwaehnung_anlass: Tausch eines Wirtschaftshofes durch Schwiggern von Mindelberg
+  pfarrei_zugehoerigkeit: Filiale Pfarrei St. Stephan Mindelheim (seit langer Zeit)
+  kapelle: Kapelle Zu den Sieben-Schmerzen-Mariens
+  kapelle_epoche: 18. Jahrhundert
+  muehle: Weihermühle
+  muehle_belegt_seit: 1616
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 125-mindelheim/020
+ENTITÄT: ortsteil
+BEZEICHNUNG: Heimenegg
+QUELLE: https://www.mindelheim.de/unsere-stadt/mindelheim/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südöstlich der Stadt
+  eingemeindet_jahr: 1965
+  einwohner: ca. 90
+  besiedlung_beginn: ab Mitte 13. Jahrhundert
+  besiedlung_durch: Dienstmannen der Mindelberger (Herren der alten Burg)
+  bauform: Straßendorf
+  kapelle: Kapelle St. Wendelin
+  kapelle_erbaut: um 1700
+  kapelle_architektur_vermutung: möglicherweise von Thomas Natter
+  kapelle_ausstattung: Fresken aus der Erbauungszeit
+  ortssprecher: Riedele, Franz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 125-mindelheim/021
+ENTITÄT: ortsteil
+BEZEICHNUNG: Mindelau
+QUELLE: https://www.mindelheim.de/unsere-stadt/mindelheim/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: südöstlich Mindelheims
+  eingemeindet_jahr: 1976
+  eingemeindet_mit: Jägersruh, Katzenhirn
+  einwohner: ca. 370
+  erste_erwaehnung: 1075
+  erste_erwaehnung_name: Mindilowa
+  pfarrkirche: Pfarrkirche St. Jakobus d. Ä.
+  pfarrkirche_erbaut: 1713
+  pfarrkirche_zeitkontext: Herrschaft gehörte Earl of Marlborough
+  grabkapelle: 1858 errichtet
+  ausflugsziel_frueherer: Jägersruh
+  kapelle_unterort: Martinskapelle
+  kapelle_unterort_ort: Katzenhirn
+  kapelle_unterort_epoche: 18. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 125-mindelheim/022
+ENTITÄT: ortsteil
+BEZEICHNUNG: Nassenbeuren
+QUELLE: https://www.mindelheim.de/unsere-stadt/mindelheim/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: nordöstlich der Stadt
+  eingemeindet_jahr: 1978
+  eingemeindet_mit: Kloster Lohhof
+  einwohner: ca. 900
+  groessenklasse: größter Ortsteil
+  siedlungsspuren_hallstattzeit: 8.-5. Jahrhundert v. Chr.
+  roemische_badeanlage: unter heutiger Kirche St. Vitus gefunden
+  roemische_anlage_typ: gehörte zu Villa rustica
+  erste_urkundliche_erwaehnung: 1105
+  kirche: Kirche St. Vitus
+  kirche_umbau: 1739
+  kirche_umbau_funktion: Umgestaltung und Vergrößerung
+  pfarrhof: 1796
+  pfarrhof_funktion: heute Kindergarten
+  muehle: Wiesmühle
+  muehle_lage: an der Mindel
+  muehle_erwähnung: 1457
+  wallfahrtskapelle: Maria Schnee
+  wallfahrtskapelle_original: 1655
+  wallfahrtskapelle_umbau: 1701/03
+  wallfahrtskapelle_ausstattung: reiche gemalte Innenausstattung
+  kloster: Kloster Lohhof
+  kloster_erwaehnung: 1363
+  kloster_orden: Dominikanerinnen von Wettenhausen
+  kloster_neubau: 1903-1907
+  kloster_neubau_teile: Kirche und Klostergebäude
+  kloster_spezialitaet: Textilwerkstatt der Ordensfrauen
+  kloster_heutige_nutzung: Kompass Drogenhilfe GmbH (seit einigen Jahren)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 125-mindelheim/023
+ENTITÄT: ortsteil
+BEZEICHNUNG: Oberauerbach
+QUELLE: https://www.mindelheim.de/unsere-stadt/mindelheim/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: westlich der Stadt
+  eingemeindet_jahr: 1978
+  einwohner: ca. 400
+  urkundliche_erwaehnung_frueh: Ende 11. Jahrhundert
+  urkundliche_name_frueh: Urbach
+  urkundliche_name_ab_1300: Ober Urbach
+  agrarische_struktur_frueh: viele Landwirte
+  agrarische_struktur_heute: nur noch wenige Landwirte im Haupterwerb
+  pfarrkirche: Pfarrkirche St. Mauritius
+  pfarrkirche_erbaut: um 1500
+  pfarrkirche_umbau: 1753
+  pfarrkirche_umbau_funktion: Innenraumumgestaltung
+  pfarrei_zugehoerigkeit: umfasst auch Unterauerbach und Stetten
+  ortssprecher: Salger, Manfred
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 125-mindelheim/024
+ENTITÄT: ortsteil
+BEZEICHNUNG: Unterauerbach
+QUELLE: https://www.mindelheim.de/unsere-stadt/mindelheim/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: (Teil der Pfarrei Oberauerbach)
+  eingemeindet_jahr: 1976
+  filialkirche: Filialkirche St. Michael
+  filialkirche_stil: Spätgotik
+  filialkirche_umbau: 1720
+  filialkirche_ausstattung: bemerkenswerte einheitliche und reiche Ausstattung in bäuerlich kräftigen Barockformen
+  ortssprecher: Bader, Andreas
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 125-mindelheim/025
+ENTITÄT: ortsteil
+BEZEICHNUNG: Westernach
+QUELLE: https://www.mindelheim.de/unsere-stadt/mindelheim/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: nordwestlich der Stadt
+  eingemeindet_jahr: 1976
+  eingemeindet_mit: Bergerhausen, Doldenhausen
+  einwohner: ca. 350
+  erste_urkundliche_erwaehnung: 1258
+  erste_erwaehnung_vermittlung: Heinrich von Westernach (Dienst bei Augsburger Bischöfen)
+  kapelle_1: St.-Anna-Kapelle
+  kapelle_2: Feldkapelle St. Johann Baptist
+  kapelle_2_erbaut: 1753-1760
+  pfarrkirche: Pfarrkirche St. Andreas
+  pfarrkirche_chor: um 1500
+  pfarrkirche_langhaus: 1666
+  pfarrkirche_umbau_1: 1731
+  pfarrkirche_umbau_2: 1858/59
+  unterort_bergerhausen: wenige Häuser am Straßenkreuz
+  unterort_doldenhausen_erwaehnung: 1258
+  unterort_doldenhausen_kapelle: vorhanden
+  unterort_doldenhausen_ausstattung: aus Mitte 17. Jahrhundert
+  ortssprecher: Schedel, Andreas
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 125-mindelheim/026
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Caecilia von Dreer
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Posthalterin
+  tat_jahr: 1796
+  tat_beschreibung: bewahrte Mindelheim während französischer Truppendurchzüge vor Plünderung und Brandschatzung durch mutiges Handeln
+  gebaeude_heute: Alte Post
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 125-mindelheim/027
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Christoph von Schmid
+QUELLE: https://www.mindelheim.de/unsere-stadt/mindelheim/ortsteile | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Nassenbeuren
+EIGENSCHAFTEN:
+  funktion: Kaplan
+  funktion_zeitraum: 1791-1795
+  standort: Nassenbeuren
+  beruf: Volksaufklärer
+  beruf: Komponist
+  werk: Weihnachtslied "Ihr Kinderlein kommet ..."
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 125-mindelheim/028
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Thomas Natter
+QUELLE: https://www.mindelheim.de/unsere-stadt/mindelheim/ortsteile | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Mindelheimer Stadtbaumeister
+  zeitraum: um 1700
+  vermutliches_werk: Kapelle St. Wendelin in Heimenegg
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.6
+---
+ID: 125-mindelheim/029
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Erwin Reiter
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funktion: Stadtgestalter/Planer
+  projekte_jahr: 2008/2010
+  projekt_1: Neugestaltung des Marienplatzes
+  projekt_2: Umgestaltung der Oberen Maximilianstraße
+  projekt_3: Restaurierung des Oberen Tores
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+---
+ID: 125-mindelheim/030
+ENTITÄT: tor
+BEZEICHNUNG: Oberes Tor
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Mindelheim
+  restaurierung: 2008/2010
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 125-mindelheim/031
+ENTITÄT: tor
+BEZEICHNUNG: Unteres Tor
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Mindelheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 125-mindelheim/032
+ENTITÄT: tor
+BEZEICHNUNG: Einlasstor
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Mindelheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 125-mindelheim/033
+ENTITÄT: turm
+BEZEICHNUNG: Collegturm
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Mindelheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 125-mindelheim/034
+ENTITÄT: turm
+BEZEICHNUNG: Gefängnisturm
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Mindelheim
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 125-mindelheim/035
+ENTITÄT: platz
+BEZEICHNUNG: Marienplatz
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: Zentrum der Altstadt
+  neugestaltung_jahr: 2008/2010
+  neugestaltung_durch: Erwin Reiter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 125-mindelheim/036
+ENTITÄT: kapelle
+BEZEICHNUNG: Hospitalkrippe
+QUELLE: https://www.mindelheim.de/tourismus/kultur-museen/krippen-museums-stadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  standort: ehemaliges Heilig-Geist-Spital
+  adresse: Maximilianstraße 27
+  zugaenglichkeit: ganzjährig zugänglich
+  darstellung: Weihnachtsgeschehen
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 125-mindelheim/037
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnhof Mindelheim
+QUELLE: https://www.mindelheim.de/unsere-stadt/mindelheim/mindelheim-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bahnlinien: München – Lindau – Zürich; Mittelschwabenbahn
+  funktion: Kreuzungspunkt
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 125-mindelheim/038
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahn A 96
+QUELLE: https://www.mindelheim.de/unsere-stadt/mindelheim/mindelheim-in-zahlen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bezeichnung_strecke: München – Lindau
+  verbindung_mindelheim: eigener Autobahnanschluss
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+---
+ID: 125-mindelheim/039
+ENTITÄT: siedlung_archaeologisch
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: Urnenfelderzeit
+  zeitraum: um 1200 v. Chr.
+  typ: Siedlungsspuren
+GUELTIG_AB: -1200
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 125-mindelheim/040
+ENTITÄT: siedlung_archaeologisch
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  periode: Hallstattzeit
+  zeitraum: 8.-7. Jahrhundert v. Chr.
+  typ: Grabhügel mit reichen Grabbeigaben
+GUELTIG_AB: -800
+GUELTIG_BIS: -700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.8
+---
+ID: 125-mindelheim/041
+ENTITÄT: herrschaft
+BEZEICHNUNG: Herrschaft Mindelheim
+QUELLE: https://www.mindelheim.de/tourismus/entdecken/stadtgeschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  herrscherfamilie_1: Schwiggern von Mindelberg
+  herrscherfamilie_1_zugehoerigkeit: Dienstmannen der Welfen/später der Staufer
+  herrscherfamilie_1_zeitraum: bis um 1337
+  herrscherfamilie_2: Heinrich und Walter von Hochschlitz
+  herrscherfamilie_2_zeitraum: ab 1337
+  herrscherfamilie_3: Ritter von Rechberg
+  herrscherfamilie_3_zeitraum: 1439-1467
+  herrscherfamilie_4: Frundsberg (Ulrich und Hans aus Schwaz/Tirol)
+  herrscherfamilie_4_zeitraum: 1467-1586
+  herrscherfamilie_5: Herzogtum Bayern
+  herrscherfamilie_5_zeitraum: ab 1616
+  vogt: Herzog Friedrich von Teck
+  vogt_zeitraum: ab 1365
+  landesherr: Herzog Friedrich von Teck
+  landesherr_zeitraum: ab 1369
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 125-mindelheim/042
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Lohhof
+QUELLE: https://www.mindelheim.de/unsere-stadt/mindelheim/ortsteile | Gemeinde-Webseite
+ORTSTEIL_BEZUG: Nassenbeuren
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1363
+  orden: Dominikanerinnen
+  orden_mutterkloster: Wettenhausen
+  funktion_original: Filiale von Wettenhausen
+  neubau_jahr: 1903-1907
+  neubau_teile: Kirche und Klostergebäude
+  spezialitaet: Textilwerkstatt
+  heutige_nutzung: Kompass Drogenhilfe GmbH
+GUELTIG_AB: 1363
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

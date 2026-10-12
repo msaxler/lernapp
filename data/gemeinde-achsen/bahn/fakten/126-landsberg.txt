@@ -1,0 +1,672 @@
+ID: 126-landsberg/001
+ENTITÄT: ort
+BEZEICHNUNG: Landsberg am Lech
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besiedlung_seit: Steinzeit
+  kelten_präsenz: ja, 5. Jahrhundert v.Chr.
+  kelten_benannt_fluss: ja, Lech (Licca = Schnellfließender)
+  römer_zeit: 1. Jahrhundert n.Chr.
+  römer_bauwerk: Steinturm (burgus) auf Schlossberg
+  alamannen_einzug: Ende 5. Jahrhundert
+  bajuwaren_einzug: später als Alamannen
+  kern_stadt_name: Phetine oder Pfetten
+  erste_erwähnung_phetine: ca. 1135
+  stadtrechte_vermutlich_ab: 1260-1280, genauigkeit: vermutlich
+  salzhandel_bedeutung: ja, lukrativer Umschlagplatz
+  stadtbrände: ja, 1315 von Friedrich dem Schönen
+  einwohner_spätmittelalter: 4000
+  einwohner_1634: 200
+  gründe_bevölkerungsverlust: Dreißigjähriger Krieg, Pestepidemien, Stadtbrände
+  stadtmauerring_erweiterung: 1415-1435
+  salzzolle_berechtigung: 1320
+  große_kreisstadt_status: ab 1972
+  gebietsreform_1972: Gemeinden Reisch und Pitzling eingemeindet
+  eingemeindung_1978: Gemeinde Erpfting mit Ellighofen
+  wirtschaftliche_blüte_zeit: Mittelalter bis Dreißigjähriger Krieg
+  standortfaktoren: Verkehrslage A96 und B17, Romantische Straße
+  vorstadt_entwicklung: Bayervorstadt, Katharinenvorstadt, Sandauer Vorstadt
+  franzosenkriege_zeitan: 1792-1815
+GUELTIG_AB: Steinzeit
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 126-landsberg/002
+ENTITÄT: ort
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/landsberg-und-der-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: unmittelbar am Steilufer des Lechs
+  verkehrsgünstige_lage: ja, A96 München-Lindau, B17 Füssen-Augsburg
+---
+ID: 126-landsberg/003
+ENTITÄT: fluss
+BEZEICHNUNG: Lech
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ursprünglicher_name: Licca
+  namenherkunft: keltisch, bedeutet Schnellfließender
+  nebenfluss_von: Donau
+  flusslauf_richtung: rechter Nebenfluss
+  ursprung: Vorarlberg
+  länge: 264, [km]
+  flussverlauf_regionen: Tirol, Südbayern
+  größte_städte_am_fluss: Landsberg am Lech, Augsburg
+  aufnahmefluss_augsburg: Wertach
+  charakterisierung: schnellfließend, starkes Gefälle
+  historische_bedeutung: Handelsweg, Energiequelle
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 126-landsberg/004
+ENTITÄT: fluss
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/landsberg-und-der-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  etymologie_lateinisch: Licus
+  etymologie_keltisch: Lik
+  bedeutung_name: der Schnellfließende oder der Steinreiche
+  charakterisierung_vor_regulierung: ungestümer alpiner Wildfluss mit Auenlandschaft
+  regulierung_zeitraum: 19. und 20. Jahrhundert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 126-landsberg/005
+ENTITÄT: geländemarke
+BEZEICHNUNG: Schlossberg
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  funde_bronzezeit: Reste abgebrannter Holzhütten, Keramikscherben
+  funde_hallstattzeit: ja, um 500 v.Chr.
+  römer_bauwerk: Steinturm (burgus)
+  spätereFunktion: Kern mittelalterlicher Burganlage
+  burg_um_1160: ja, Burg Landespurch/Landesperch
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 126-landsberg/006
+ENTITÄT: burg
+BEZEICHNUNG: Burg Phetine (Pfetten)
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: Kern der späteren Stadt Landsberg
+  mögliche_vorgänger: Fliehburg aus 10. Jahrhundert (Ungarngefahr) oder Blockhaus/Wachthaus mit Palisaden
+  errichtung: um 1100
+  ausstattung: Kapelle, Siedlung östlich zwischen Hofgraben und Bergstraße
+  urkundliche_ersterwähnung: ca. 1135
+GUELTIG_AB: 1100
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 126-landsberg/007
+ENTITÄT: burg
+BEZEICHNUNG: Burg Landespurch (Landesperch)
+ORTSTEIL_BEZUG: Schlossberg
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erbauungsjahr: um 1160
+  vorgänger: ältere Pfettenburg
+  funktion: militärischer Grenzstützpunkt
+  sicherungszweck: Salzhandel auf Salzstraße (Reichenhall nach Oberschwaben)
+GUELTIG_AB: 1160
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 126-landsberg/008
+ENTITÄT: bauwerk
+BEZEICHNUNG: Landsberger Brücke
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwähnung: um 1150
+  quellen_ersterwähnung: Traditionen des Klosters Polling
+  ersetzte: Furt und Fährbetrieb über den Lech
+  furt_lage: etwa auf Höhe des Lechwehrs
+GUELTIG_AB: 1150
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 126-landsberg/009
+ENTITÄT: kirche
+BEZEICHNUNG: Stadtpfarrkirche Mariä Himmelfahrt (Unserer Lieben Frau)
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_kirche_an_ort: spätes 12. Jahrhundert (Grabungsfunde)
+  prächtige_neuerbauung: 1458-1488
+  stil_charakterisierung: prächtig
+GUELTIG_AB: 1458
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 126-landsberg/010
+ENTITÄT: kirche
+BEZEICHNUNG: Spötting (Pfarrei)
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_urkundliche_erwähnung: 969
+  initial_besitzer: Hl. Ulrich
+  schenkung_adressat: Augsburger Frauenkloster St. Stephan
+  schenkung_inhalt: Kirche mit Gutshof
+GUELTIG_AB: 969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 126-landsberg/011
+ENTITÄT: kloster
+BEZEICHNUNG: Augsburger Frauenkloster St. Stephan
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schenkung_969: Kirche und Gutshof von Spötting von Hl. Ulrich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 126-landsberg/012
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Benediktbeuren
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  tochtergründungen: Sandau, südlich Pitzling (Seiferstetten)
+  zeitalter_gründung: mittleres 8. Jahrhundert
+GUELTIG_AB: 800, genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 126-landsberg/013
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Polling
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  dokumentation_brücke: Landsberger Brücke um 1150 in Traditionen erwähnt
+  besitz_oberostendorf: Gut, dessen Kauf sich bei Landsberger Brücke abschloss
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 126-landsberg/014
+ENTITÄT: spital
+BEZEICHNUNG: Heilig-Geist-Spital
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  genehmigung: 1349
+  genehmigungsperson: Ludwig der Brandenburger
+GUELTIG_AB: 1349
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 126-landsberg/015
+ENTITÄT: salzstadel
+BEZEICHNUNG: Salzstadel Landsberg
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erster_bau: 1353
+  genehmigung: 1353 (Ludwig der Brandenburger)
+  anzahl: drei große Salzstadel insgesamt
+  funktion: Ort für Salzverkauf
+GUELTIG_AB: 1353
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 126-landsberg/016
+ENTITÄT: salzstadel
+BEZEICHNUNG: Lechstadel
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/altstadtnummerierung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Lechstraße
+  hausnummer_vorher: 55/Vorstadt
+  hausnummer_nachher: 132 ½
+  umnummerierung_ab: 1926
+GUELTIG_AB: 1926
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 126-landsberg/017
+ENTITÄT: straße
+BEZEICHNUNG: Via Claudia
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: römisch
+  verlauf_start: Bodensee-Region
+  verlauf_weg: über Fernpass, Westufer Lech, Epfach, Landsberg
+  verlauf_ziel: Augsburg
+  funktion: römische Fernstraße
+GUELTIG_AB: 1, genauigkeit: ca. Jahrhundert n.Chr.
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 126-landsberg/018
+ENTITÄT: straßenstation
+BEZEICHNUNG: ad Novas munitiones
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: römisch
+  lage: nördlich von Epfach
+  funktion: römische Straßenstation
+  bedeutung: Halt an Salzhandelsroute
+GUELTIG_AB: 1, genauigkeit: ca. Jahrhundert n.Chr.
+IST_VERMUTISMUS_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 126-landsberg/019
+ENTITÄT: ortsteil
+BEZEICHNUNG: Phetine (auch Pfetten, Landsberg im Dorfe)
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwähnung: ca. 1135
+  bedeutung: Kern der späteren Stadt Landsberg
+  lage: Gegend um Burg, östlich zwischen Hofgraben und Bergstraße
+GUELTIG_AB: 1135
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 126-landsberg/020
+ENTITÄT: ortsteil
+BEZEICHNUNG: Sandau
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kloster_tochtergründung: Kloster Benediktbeuren, mittleres 8. Jahrhundert
+  vorstadt: Sandauer Vorstadt (ab ca. 19. Jahrhundert erwähnt)
+GUELTIG_AB: 800
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 126-landsberg/021
+ENTITÄT: ortsteil
+BEZEICHNUNG: Pitzling
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  auch_genannt: Seiferstetten (südlich von Pitzling)
+  kloster_tochtergründung: Kloster Benediktbeuren, mittleres 8. Jahrhundert
+  gebietsreform: 1972 zur Stadt Landsberg
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 126-landsberg/022
+ENTITÄT: ortsteil
+BEZEICHNUNG: Spötting
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pfarrei_urkundlich: 969
+  vorstadt: Spötting (ab ca. 19. Jahrhundert als Vorstadt erwähnt)
+GUELTIG_AB: 969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 126-landsberg/023
+ENTITÄT: ortsteil
+BEZEICHNUNG: Bayervorstadt
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit_entwicklung: 19./20. Jahrhundert
+  eigene_zählung_bis: 1926
+  umnummerierung: 1926
+GUELTIG_AB: 1900, genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 126-landsberg/024
+ENTITÄT: ortsteil
+BEZEICHNUNG: Katharinenvorstadt
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit_entwicklung: 19./20. Jahrhundert
+  eigene_zählung_bis: 1926
+  umnummerierung: 1926
+GUELTIG_AB: 1900, genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 126-landsberg/025
+ENTITÄT: ortsteil
+BEZEICHNUNG: Sandauer Vorstadt
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit_entwicklung: 19./20. Jahrhundert
+  eigene_zählung_bis: 1926
+  umnummerierung: 1926
+  besonderheit: Gebäude Sandauer Straße und Lechstraße danach zur Altstadt gezählt
+GUELTIG_AB: 1900, genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 126-landsberg/026
+ENTITÄT: ortsteil
+BEZEICHNUNG: Reisch
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1972
+  grund: Gebietsreform
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 126-landsberg/027
+ENTITÄT: ortsteil
+BEZEICHNUNG: Erpfting
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1978
+  mit_ortsteil: Ellighofen
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 126-landsberg/028
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ellighofen
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung: 1978
+  zusammen_mit: Erpfting
+GUELTIG_AB: 1978
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 126-landsberg/029
+ENTITÄT: person
+BEZEICHNUNG: Heinrich der Löwe
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Herzog von Bayern und Sachsen
+  handlung: Ausbauten von Handelsweg über Landsberg zur Salzstraße, Kontrolle des Salzhandels
+  zeitalter: 12. Jahrhundert, um 1160
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 126-landsberg/030
+ENTITÄT: person
+BEZEICHNUNG: Friedrich der Schöne
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handlung: Belagerung und Niederbrandt der Stadt Landsberg
+  jahr: 1315
+  belagerung_dauer: mehrtägig
+GUELTIG_AB: 1315
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 126-landsberg/031
+ENTITÄT: person
+BEZEICHNUNG: Ludwig der Bayer
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handlung_nach_1315: Gewährung von Einnahmen zum Wiederaufbau
+  handlung_gewährung: gleiche Rechte wie München
+  jahr: nach 1315
+GUELTIG_AB: 1315
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 126-landsberg/032
+ENTITÄT: person
+BEZEICHNUNG: Ludwig der Brandenburger
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handlung_1349: Erlaubnis Errichtung Heilig-Geist-Spital
+  handlung_1353: Genehmigung Bau erster Salzstadel
+  jahr_1349: 1349
+  jahr_1353: 1353
+GUELTIG_AB: 1349
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 126-landsberg/033
+ENTITÄT: person
+BEZEICHNUNG: Hl. Ulrich (Heiliger Ulrich)
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  handlung: Schenkung Kirche und Gutshof Spötting an Augsburger Frauenkloster St. Stephan
+  jahr: 969
+GUELTIG_AB: 969
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 126-landsberg/034
+ENTITÄT: handwerk
+BEZEICHNUNG: Lechflößerei
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/landsberg-und-der-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bedeutung: bedeutendes Verkehrs- und Handelsgewerbe
+  floßverkehr_duration: Jahrhunderte lang
+  transportierte_güter: Holz, Holzprodukte, mineralische Baumaterialien
+  transportierte_güter_19jh: Schlachtvieh-, Käse-, Wetzsteinlieferungen
+  militäre_nutzung: ja, Militärtransporte
+  niedergang: 1900-1910 durch Eisenbahn
+GUELTIG_AB: Mittelalter
+GUELTIG_BIS: 1910
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 126-landsberg/035
+ENTITÄT: handwerk
+BEZEICHNUNG: Floßverkehr
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/altstadtnummerierung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flöße_pro_jahr_19jh: 4000, genauigkeit: bis zu
+  transportroute_ziel: bis Schwarzes Meer über Donau
+  transportierte_güter: Holz, Baumaterialien, Wein, Käse, Schlachtvieh, Pelze, Wetzsteine
+  niedergang: Ausbau Eisenbahn 1900-1910
+GUELTIG_AB: Mittelalter
+GUELTIG_BIS: 1910
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 126-landsberg/036
+ENTITÄT: wehr
+BEZEICHNUNG: Lechwehr
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlage_zeitpunkt: spätestens 1364
+  funktionen: Zahmung des Wildflusses, Betrieb von Mühlen und Sägen, Wasserversorgung
+  umgehung_floßverkehr: "Floßfahrt" oder "Floßgasse" mit moderatem Gefälle am rechten Lechufer
+  umgehung_volksname: "Lange Fahrt"
+  umgehung_zugang: 1970 dem Ausbau des Inselbades gewichen
+  umgehung_gebühr: 3 Pfennige pro Floß
+GUELTIG_AB: 1364
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 126-landsberg/037
+ENTITÄT: wehr
+BEZEICHNUNG: Lechwehr
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/altstadtnummerierung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: ab 1364
+  bauwerk_bedeutung: Denkmal der Industriegeschichte
+  fotomotiv: beliebtestes Fotomotiv von Landsberg
+  beschädigungen: über Jahrhunderte durch Hochwasser
+  stufen_zusatz: ab 18. Jahrhundert weitere Stufen
+  umbau_neuzeit: 1993-1996 (letzter großer Umbau)
+  stufen_heute: vier Stufen
+  flößerpfennig_gebühr: 3 Pfennige pro Floß
+GUELTIG_AB: 1364
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 126-landsberg/038
+ENTITÄT: kanal
+BEZEICHNUNG: Mühlbach (Mühlkanal)
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlage_zeitpunkt: ab 1364
+  funktionen: Antrieb von Mühlen und Sägen, Wasserversorgung Stadt
+  art: künstlich angelegt
+GUELTIG_AB: 1364
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 126-landsberg/039
+ENTITÄT: altstadt
+BEZEICHNUNG: Landsberger Altstadt
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/altstadtnummerierung/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  hausnummerierung_system: 1 (Hauptplatz) bis 496a (Hofgraben)
+  hausnummern_kontinuität: unabhängig von heutigen Straßenbezeichnungen
+  nebennummern: a, b, c oder ½, 1/3, ¼ bei Teilungen und neuer Bebauung
+  erste_schriftliche_erwähnung: 1762
+  heutige_zählung_seit: 1790
+  entstehungszeit_erstes_viertel: bis 13. Jahrhundert
+  lage_erstes_viertel: rund um Hauptplatz innerhalb ältester Stadtmauer
+  zweites_viertel_zeitalter: 14. Jahrhundert
+  lage_zweites_viertel: Klösterl/Seelberg, Spitalquartier/Alte Bergstraße
+  drittes_viertel_zeitalter: 14.-15. Jahrhundert
+  lage_drittes_viertel: Gebiet vor Salzgasse
+  silhouette_prägung: Steilhänge und Kiesbänke des Lechs
+GUELTIG_AB: 1790
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 126-landsberg/040
+ENTITÄT: freizeit_einrichtung
+BEZEICHNUNG: Lechpark Pössinger Au
+QUELLE: https://www.landsberg.de/tourismus/erlebnisse/sehenswuerdigkeiten/lechwehr/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: oberhalb des Lechwehrs
+  funktion: Naherholungsgebiet
+  ausstattung: Wasserspielplatz, Kneippbecken, Liegewiesen
+  gastronomie: Teufelsküche mit Blick auf Fluss
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 126-landsberg/041
+ENTITÄT: freizeit_einrichtung
+BEZEICHNUNG: Inselbad
+QUELLE: https://www.landsberg.de/tourismus/erlebnisse/sehenswuerdigkeiten/lechwehr/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  besonderheit: Lechstrand, Kiesbänke für Erholung
+  zugang: Eintritt ins Inselbad
+  funktion: Badestrand und Freizeitbereich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 126-landsberg/042
+ENTITÄT: platz
+BEZEICHNUNG: Flößerplatz
+QUELLE: https://www.landsberg.de/tourismus/erlebnisse/sehenswuerdigkeiten/lechwehr/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: oberhalb des rauschenden Lechwehrs
+  gastronomie: Eis, Cafés
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 126-landsberg/043
+ENTITÄT: promenade
+BEZEICHNUNG: Lechpromenade Peter-Dörfler-Weg
+QUELLE: https://www.landsberg.de/tourismus/erlebnisse/sehenswuerdigkeiten/lechwehr/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: oberhalb des Lechs
+  gastronomie: Cafés, Spritz
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 126-landsberg/044
+ENTITÄT: gastronomie
+BEZEICHNUNG: Biergarten am Lech
+QUELLE: https://www.landsberg.de/tourismus/erlebnisse/sehenswuerdigkeiten/lechwehr/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: am Lech
+  funktion: Treffpunkt, Erholung
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 126-landsberg/045
+ENTITÄT: hochstift
+BEZEICHNUNG: Hochstift Augsburg
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  ereignis: Aneignung durch Bayern
+  jahr: 1802
+  grund: Reichsdeputationshauptschluss
+  konsequenz: Landsberg verlor Grenzfunktion
+GUELTIG_AB: 1802
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 126-landsberg/046
+ENTITÄT: kaserne
+BEZEICHNUNG: Saarburg-Kaserne
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_heute: ehemalige
+  neunutzung: moderne Wohngebiete
+GUELTIG_AB: 1900, genauigkeit: ca.
+GUELTIG_BIS: 1970, genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 126-landsberg/047
+ENTITÄT: kaserne
+BEZEICHNUNG: Ritter-von-Leeb-Kaserne
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  status_heute: ehemalige
+  neunutzung: moderne Wohngebiete
+GUELTIG_AB: 1900, genauigkeit: ca.
+GUELTIG_BIS: 1970, genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 126-landsberg/048
+ENTITÄT: fabrik
+BEZEICHNUNG: Oberbayerische Pflugfabrik
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitalter: 19./20. Jahrhundert
+  bedeutung: Arbeitgeber
+  neunutzung: Stadquartier wird gerade errichtet
+GUELTIG_AB: 1900, genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 126-landsberg/049
+ENTITÄT: betrieb
+BEZEICHNUNG: Sägewerk Kink
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitalter: 19./20. Jahrhundert
+  bedeutung: Arbeitgeber
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 126-landsberg/050
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Bahnanschluss Landsberg
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeitalter: 19./20. Jahrhundert
+  bedeutung: Arbeitsplätze, wirtschaftliche Entwicklung
+GUELTIG_AB: 1900, genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 126-landsberg/051
+ENTITÄT: gewerbegebiet
+BEZEICHNUNG: Gewerbe- und Industriegebiet Nordwesten
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Nordwesten
+  schaffungszeitraum: ab 1970er Jahren
+  wirtschaftliche_bedeutung: Auftrieb wirtschaftliche Entwicklung Landsbergs
+GUELTIG_AB: 1970
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 126-landsberg/052
+ENTITÄT: straße
+BEZEICHNUNG: Romantische Straße
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verlauf: Würzburg bis Füssen
+  bedeutung: Touristenattraktion
+  attraktion_landsberg: Landsberger Altstadt
+GUELTIG_AB: 1970, genauigkeit: ca.
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 126-landsberg/053
+ENTITÄT: landstraße
+BEZEICHNUNG: Salzstraße
+QUELLE: https://www.landsberg.de/kultur/stadtgeschichte/die-entwicklung-der-stadt-landsberg-am-lech/ | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  verlauf: von Reichenhall nach Oberschwaben
+  bedeutung: lukrativer Salzhandelsweg
+  bedeutung_landsberg: Grund für Entstehung und frühen Wohlstand Landsbergs
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90

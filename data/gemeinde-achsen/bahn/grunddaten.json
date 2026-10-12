@@ -1,5 +1,5 @@
 {
- "erzeugt": "2026-10-08",
+ "erzeugt": "2026-10-12",
  "katalog": [
   {
    "schluessel": "bundesland",
@@ -390,7 +390,11 @@
   "Allershausen: geo.sqlite hat für Kreis 09178 kein Kennzeichen",
   "Allershausen: einwohner 5953 (Wikidata P1082) gegen 4734 (Altbestand geo.sqlite (GeoNames 2958376))",
   "Kranzberg: geo.sqlite hat für Kreis 09178 kein Kennzeichen",
-  "Kranzberg: hoehe_m 483 (Wikidata P2044) gegen 450 (Altbestand geo.sqlite (GeoNames 2884739))"
+  "Kranzberg: hoehe_m 483 (Wikidata P2044) gegen 450 (Altbestand geo.sqlite (GeoNames 2884739))",
+  "Bodenheim: kfz MZ (Wikidata P395) gegen RP (Altbestand geo.sqlite (Kreis 07339))",
+  "Bodenheim: hoehe_m 84 (Wikidata P2044) gegen 100 (dewiki Infobox)",
+  "Nackenheim: kfz MZ (Wikidata P395) gegen RP (Altbestand geo.sqlite (Kreis 07339))",
+  "Nackenheim: hoehe_m 84 (Wikidata P2044) gegen 112 (Altbestand geo.sqlite (GeoNames 2867229))"
  ],
  "orte": [
   {
@@ -16801,6 +16805,360 @@
        "Kościan",
        "Kamenz",
        "Naharija"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "134-bodenheim",
+   "rolle": "ziel",
+   "name": "Bodenheim",
+   "einheit": "Gemeinde",
+   "wikidata": "Q178532",
+   "lat": 49.92972,
+   "lon": 8.31333,
+   "gemeindeschluessel": "07339006",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Mainz-Bingen",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Mainz-Bingen",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 7605,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 6907,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2947133)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 13.43,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 566,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "MZ",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "RP",
+      "quelle": "Altbestand geo.sqlite (Kreis 07339)",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 84,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 100,
+      "quelle": "dewiki Infobox",
+      "abweichend": true
+     },
+     {
+      "wert": 86,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2947133)"
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 6
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "6 km südlich von Mainz (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 6
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Bahnhof Bodenheim"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "55294"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "55294"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "06135"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 35.6,
+        "SPD": 18.6,
+        "GRÜNE": 18.1,
+        "AfD": 11.4,
+        "Die Linke": 5.5,
+        "FDP": 5.2
+       },
+       "wahlbeteiligung_prozent": 89.6,
+       "gueltige_zweitstimmen": 5214
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "Jens Mutzke",
+       "partei": "SPD"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-12",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Seurre",
+       "Grezzana"
+      ],
+      "quelle": "Wikidata P190"
+     }
+    ],
+    "kueste": [
+     {
+      "wert": "nein",
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ]
+   }
+  },
+  {
+   "slug": "135-nackenheim",
+   "rolle": "ziel",
+   "name": "Nackenheim",
+   "einheit": "Gemeinde",
+   "wikidata": "Q683933",
+   "lat": 49.91528,
+   "lon": 8.33889,
+   "gemeindeschluessel": "07339039",
+   "eigenschaften": {
+    "landkreis": [
+     {
+      "wert": "Mainz-Bingen",
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": "Landkreis Mainz-Bingen",
+      "quelle": "Wikidata P131"
+     }
+    ],
+    "bundesland": [
+     {
+      "wert": "Rheinland-Pfalz",
+      "quelle": "dewiki Infobox"
+     }
+    ],
+    "einwohner": [
+     {
+      "wert": 5387,
+      "quelle": "Wikidata P1082",
+      "stand": "2025-12-31"
+     },
+     {
+      "wert": 5054,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2867229)"
+     }
+    ],
+    "flaeche_km2": [
+     {
+      "wert": 8.62,
+      "quelle": "Wikidata P2046"
+     }
+    ],
+    "dichte_ew_km2": [
+     {
+      "wert": 625,
+      "quelle": "berechnet aus Einwohner und Fläche"
+     }
+    ],
+    "kfz": [
+     {
+      "wert": "MZ",
+      "quelle": "Wikidata P395"
+     },
+     {
+      "wert": "RP",
+      "quelle": "Altbestand geo.sqlite (Kreis 07339)",
+      "abweichend": true
+     }
+    ],
+    "hoehe_m": [
+     {
+      "wert": 84,
+      "quelle": "Wikidata P2044"
+     },
+     {
+      "wert": 84,
+      "quelle": "dewiki Infobox"
+     },
+     {
+      "wert": 112,
+      "quelle": "Altbestand geo.sqlite (GeoNames 2867229)",
+      "abweichend": true
+     }
+    ],
+    "naechste_grossstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 9
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json), Großstadt ab 100.000 Einwohnern"
+     }
+    ],
+    "lage": [
+     {
+      "wert": "9 km südöstlich von Mainz (Luftlinie, Ortsmitte zu Stadtmitte)",
+      "quelle": "berechnet aus Koordinaten"
+     }
+    ],
+    "km_landeshauptstadt": [
+     {
+      "wert": {
+       "name": "Mainz",
+       "km": 9
+      },
+      "quelle": "berechnet aus Koordinaten (Wikidata, staedte.json)"
+     }
+    ],
+    "bahnhof": [
+     {
+      "wert": [
+       "Haltepunkt Nackenheim"
+      ],
+      "quelle": "Wikidata (Bahnhöfe mit P131 = Ort)",
+      "hinweis": "Liste nicht gesichert vollständig"
+     }
+    ],
+    "plz": [
+     {
+      "wert": [
+       "55299"
+      ],
+      "quelle": "Wikidata P281"
+     },
+     {
+      "wert": [
+       "55299"
+      ],
+      "quelle": "Altbestand geo.sqlite"
+     }
+    ],
+    "vorwahl": [
+     {
+      "wert": [
+       "06135"
+      ],
+      "quelle": "Wikidata P473"
+     }
+    ],
+    "wahl_btw25": [
+     {
+      "wert": {
+       "staerkste_partei": "CDU",
+       "anteile_prozent": {
+        "CDU": 31.8,
+        "SPD": 18.5,
+        "GRÜNE": 15.6,
+        "AfD": 13.9,
+        "Die Linke": 6.4
+       },
+       "wahlbeteiligung_prozent": 86.3,
+       "gueltige_zweitstimmen": 3496
+      },
+      "quelle": "Bundeswahlleiterin, Wahlbezirksstatistik Bundestagswahl 2025 (amtlich)",
+      "stand": "2025-02-23",
+      "hinweis": "Summe aller Urnen- und Briefwahlbezirke der Gemeinde"
+     }
+    ],
+    "buergermeister": [
+     {
+      "wert": {
+       "name": "René Adler",
+       "partei": "FWG"
+      },
+      "quelle": "dewiki Infobox",
+      "stand": "2026-10-12",
+      "hinweis": "zeitabhängig; Aktualität nicht geprüft"
+     }
+    ],
+    "partnerstaedte": [
+     {
+      "wert": [
+       "Pommard"
       ],
       "quelle": "Wikidata P190"
      }

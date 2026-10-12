@@ -1,0 +1,617 @@
+ENTITÄT: ort
+BEZEICHNUNG: Meersburg
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_erwaehnung: 1113
+  erste_erwaehnung_form: Liupoldus de Merdesburch
+  erste_erwaehnung_quelle: Rotulus Sanpetrinus
+  marktrecht_verleihung: 1233
+  stadtrecht_verleihung: 1299
+  stadtrecht_gewaehrer: König Albrecht
+  stadtrecht_vorbild: Ulmer Muster
+  lage: hoch über dem Bodensee
+  silhouette: barock
+  besitz_ab_1211: Bistum Konstanz
+  besitz_ab_1802: Großherzogtum Baden
+  grund_wechsel_1802: Säkularisation
+  denkmalschutz_altstadt: 1954
+  denkmalschutz_form: Gesamtensemble
+  fachwerkstrasse_mitglied_seit: 2004
+  praedikat_erholungsort: 1986
+  praedikat_viabono_wohlfuehlstadt: 2003
+  praedikat_weinort_im_weinsüden: 2020
+  praedikat_weinort_bedeutung: einzige Stadt, die das Anbaugebiet Bodensee für Deutschland repräsentiert
+GUELTIG_AB: 1113
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ort
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  pest_jahre: 1635/36, 1646
+  pest_folgen: nur ein Sechstel der Bevölkerung überlebt
+  pest_kulturelles_erbe: Fasnachtsbrauchtum "Schnabelgiere"
+  blütezeit: 18. Jahrhundert
+  blütezeit_form: fürstbischöfliche Residenzstadt
+  barocke_silhouette_entstehung: 18. Jahrhundert
+  residenzstadt_ende: 1802/03
+  transformation_1802: aus fürstbischöflicher Residenz wird Landstadt
+  grund_transformation: überregionale Verwaltungsämter verlegt
+  stadtbefestigung_abbau: 1820/1860
+  strandbad_erstes: 1920
+  strandbad_lage: nördliches Bodenseeufer
+  strandbad_bedeutung: erstes am nördlichen Bodenseeufer
+  elektrifizierung_altstadt: 1921
+  autofähre_betrieb: 1928
+  autofähre_strecke: Konstanz-Meersburg
+  thermalwasser_entdeckung: 1994
+  sanierung_altstadt_beginn: 1981
+  sanierung_form: denkmalgerechte Sanierung
+GUELTIG_AB: 1635
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: burg
+BEZEICHNUNG: Meersburg
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Burg-Meersburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  superlativ: älteste bewohnte Burg Deutschlands
+  lage: hoch über dem See
+  lage_besonderheit: Wahrzeichen der Stadt
+  ursprung_sage: Merowinger-König Dagobert I.
+  ursprung_Jahrhundert: 7. Jahrhundert
+  ursprung_genauigkeit: vermutlich
+  besitz_ab: 1211
+  besitzer: Bistum Konstanz
+  anzahl_besitzer_fürsten: 44 Fürstbischöfe
+  besitzdauer_jahre: mehr als 500 Jahre
+  zerstoerungen: keine
+  besonderheit: in keinem Teil Ruine, nie zerstört
+  burgensamtheit_alter: über tausendjährig
+  privatbesitz_ab: 19. Jahrhundert
+  museumsraeume: 36
+  museumsraeume_zustand: alle eingerichtet und beschriftet
+GUELTIG_AB: 1211
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: schloss
+BEZEICHNUNG: Neues Schloss Meersburg
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Neues-Schloss-Meersburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bautyp: barocke Residenz
+  residenz_funktion: Fürstbischöfe von Konstanz
+  baubeginn: 1704
+  bauherr_1: Johann Franz Schenk von Stauffenberg
+  bauherr_1_funktion: legt Grundstein
+  bauzeit_hauptphase: 1704-1740
+  priesterseminar_barockes: 1725/35
+  priesterseminar_bauherr: Johann Franz Schenk von Stauffenberg
+  treppenhaus_anbau: 1740-1743
+  treppenhaus_auftraggeber: Kardinal Hugo Damian von Schönborn
+  treppenhaus_planer: Balthasar Neumann
+  schlosskapelle_erbauung: 1740-1743
+  schlosskapelle_auftraggeber: Kardinal Hugo Damian von Schönborn
+  fertigstellung: 1750-1775
+  fertigstellung_durch: Kardinal Franz Konrad von Rodt
+  residenzbezug: 1750-1775
+  lage: über dem Bodensee
+  architektur_merkmale: Statuen, prächtiges Deckengemälde, Stuckaturen
+  stuckaturen_qualitaet: zu den schönsten ihrer Art in Baden-Württemberg
+GUELTIG_AB: 1704
+IST_VERMUTISMUS_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Fürstenhäusle
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Fuerstenhaeusle | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  lage: Anhöhe über Meersburg, umgeben von Weinstöcken
+  bauherr: Jakob Fugger
+  bauherr_titel: Konstanzer Domherr, späterer Fürstbischof
+  baujahr: ca. 1600
+  baujahr_genauigkeit: ca.
+  grundriss: kreuzförmig
+  gebaeudetype_1: Rebhaus
+  gebaeudetype_2: zweigeschossiger Pavillon
+  nutzung_1: persönliches Refugium der Konstanzer Fürstbischöfe
+  nutzung_1_zeitraum: bis Säkularisation
+  erwerb_1843: ersteigert durch Annette von Droste-Hülshoff
+  erwerb_umfang: Gebäude, Weinberg, Garten
+  namensherkunft: Nutzung in fürstbischöflicher Zeit
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: vineum bodensee
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/vineum-bodensee | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: Juli 2016
+  untertitel: Haus für Wein, Kultur und Geschichte
+  standort: historisches Heilig-Geist-Spital
+  baudenkmal_alter: 400 Jahre
+  umbau_charakterisierung: aufwendig und liebevoll
+  flaeche: 600 qm
+  etagen: zwei
+  ausstellung_typ: modernen, interaktiven und sinnlichen Rundgang
+  ausstellung_thema: Kulturgeschichte des Weines
+  innovativ: innovatives Konzept
+  innovativ_besonderheit: bislang einmalig in Deutschland
+  sammlung_weinflaschen: 101 Weinflaschen
+  sammlung_weinflaschen_herkunft: aus der ganzen Welt
+  duftstationen: über 20 Weinaromen
+GUELTIG_AB: 2016
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+
+---
+
+ENTITÄT: weinpresse
+BEZEICHNUNG: Weintorkel Meersburg
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  baujahr: 1607
+  standort: ehemaliges Heilig-Geist-Spital
+  superlativ: eine der ältesten Weinpressen Europas
+  superlativ_2: eine der größten Weinpressen Europas
+  funktionsfaehigkeit: noch voll funktionsfähig
+  technik_charakterisierung: Technikbaudenkmal
+GUELTIG_AB: 1607
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+
+---
+
+ENTITÄT: kunstwerk
+BEZEICHNUNG: Magische Säule
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Magische-Saeule | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  kuenstler: Peter Lenk
+  kuenstler_geburtsort: Nürnberg
+  kuenstler_geburtsjahr: 1947
+  kuenstler_wohnort: Bodman am Bodensee
+  enthuellungsdatum: 28. April 2007
+  hoehe: 15 m
+  standort: Hafenrondell Meersburg
+  kunsttyp: Denkmal
+  thema: versammelt bekannte Persönlichkeiten der Meersburger Stadtgeschichte
+  charakterisierung: Varieté
+  besonderheit_poetisch: Möwe mit Antlitz Annette von Droste-Hülshoffs folgt Drehtanz im Wind
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Zeppelin Museum Meersburg
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Zeppelin-Museum-Meersburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  sammlung_typ: Privatsammlung
+  sammlung_thema: Zeppelin und Luftschifffahrt
+  sammlung_bedeutung: eine der großen und bedeutenden Sammlungen zum Thema Zeppelin
+  sammlungsgut: Uniformen, technische Raritäten, Bordbesteck, Möbel
+  videofilme: Zeppelin-Geschichte von den Anfängen bis Hindenburg-Absturz
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Bibelgalerie Meersburg
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Bibelgalerie-Meersburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beschreibung: Ausstellung zur Bibelgeschichte über 3000 Jahre
+  sonderausstellungen: ja
+  besonderheit: Kloster- und Kräutergarten
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Annette von Droste-Hülshoff
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Dichterin
+  beruf_2: Komponistin
+  tod_datum: 24. Mai 1848
+  tod_ort: Altes Schloss, Meersburg
+  tod_umstand: bei drittem Aufenthalt bei ihrer Schwester Jenny von Laßberg
+  aufenthalte_gesamt: mindestens drei
+  werk_bekannt: Die Judenbuche
+  charakterisierung: berühmteste deutsche Dichterin
+  bruch_konvention: durchbrach konventionelle Schranken des Frauenbildes
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.91
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Balthasar Neumann
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: Barockarchitekt
+  werk_1: Treppenhaus Neues Schloss
+  werk_1_zeit: 1740-1743
+  charakterisierung: berühmter Barockarchitekt
+  beschreibung: einer der berühmtesten Künstler und Baumeister seiner Zeit
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Joseph von Laßberg
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Freiherr
+  erwerb_burg_meersburg: 1838
+  erwerb_grund: Bewahrung vor Abriss
+  sammlung: mittelalterliche Handschriften
+  besitz: Burg Meersburg
+  schwester: Jenny von Laßberg (Schwägerin von Annette von Droste-Hülshoff)
+GUELTIG_AB: 1838
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Karl Moll
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Bürgermeister
+  amtszeit: 1919-1936
+  charakterisierung: visionär
+  fokus_1: Meersburgs Einzug in die Moderne
+  fokus_2: Wirtschaftsfaktor Tourismus
+GUELTIG_AB: 1919
+GUELTIG_BIS: 1936
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Kasia von Szadurska
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: expressionistische Malerin
+  zug_nach_meersburg: 1922
+GUELTIG_AB: 1922
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.80
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Fritz Mauthner
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: Sprachphilosoph
+  tod_jahr: 1923
+  tod_ort: Glaserhäusle Meersburg
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hans Zender
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: Komponist
+  profession_2: Dirigent
+  profession_3: Autor
+  ruf: international renommiert
+  tod_jahr: 2019
+  tod_ort: Glaserhäusle Meersburg
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Peter Lenk
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Magische-Saeule | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: Bildhauer
+  geburtsort: Nürnberg
+  geburtsdatum: 6. Juni 1947
+  wohnort: Bodman-Ludwigshafen
+  charakterisierung: Künstler mit satirischem Charakter
+  werk_konstanz_1: Imperia
+  werk_konstanz_2: Triumphbogen (Laubebrunnen)
+  werk_stuttgart: S 21 Denkmal
+  werk_stuttgart_jahr: Oktober 2020
+  werk_meersburg: Magische Säule
+  werk_meersburg_jahr: April 2007
+  kunstrichtung: satirische Skulptur
+  kritik: Werke stoßen auf heftige Kritik
+GUELTIG_AB: 1947
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Johann Joseph Gaßner
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Magische-Saeule | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: Exorzist
+  lebenszeit: 1729-1779
+  bekannt_fuer: exorzistische Heilungen
+  ereignis_meersburg: spektakuläre exorzistische Heilung
+  ereignis_meersburg_jahr: 1774
+  auswirkung: großes Aufsehen
+GUELTIG_AB: 1729
+GUELTIG_BIS: 1779
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.82
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz Anton Mesmer
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Magische-Saeule | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  profession: Arzt
+  verbindung_meersburg: Gegner der Teufelaustreibungen (Gaßner)
+  methode: animalischer Magnetismus
+  ruhm: gilt für viele als Begründer der modernen Hypnose-Therapie
+  kritik: Lehre wird von französischer Akademie der Wissenschaften als Humbug abgetan
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Jakob Fugger
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Fuerstenhaeusle | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Konstanzer Domherr
+  titel_2: späterer Fürstbischof
+  bauherr: Fürstenhäusle
+  baujahr: ca. 1600
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Dagobert I.
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Burg-Meersburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Merowinger-König
+  zeit: 7. Jahrhundert
+  verbindung_meersburg: Anfänge der Burg gehen einer Sage nach auf ihn zurück
+  genauigkeit: vermutlich
+GUELTIG_AB: 600
+GUELTIG_BIS: 700
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.70
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Simon Weinzürn
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  beruf: Bürgermeister
+  rolle: Anführer der Aufstände
+  schicksal: ertränkt
+  schicksal_jahr: 1458
+GUELTIG_AB: 0
+GUELTIG_BIS: 1458
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Hugo Damian von Schönborn
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Neues-Schloss-Meersburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Kardinal
+  bauprojekt: Treppenhaus und Schlosskapelle Neues Schloss
+  bauprojekt_architect: Balthasar Neumann
+  bauprojekt_zeit: 1740-1743
+GUELTIG_AB: 1740
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: persoenlichkeit
+BEZEICHNUNG: Franz Konrad von Rodt
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Neues-Schloss-Meersburg | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  titel: Kardinal
+  residenz: Neues Schloss Meersburg
+  fertigstellung_schloss: 1750-1775
+  residenzzeit: 1750-1775
+  gegner: Gegner der exorzistischen Teufelaustreibungen
+GUELTIG_AB: 1750
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.87
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Hohnstein
+QUELLE: https://www.meersburg.de/de/Leben-Rathaus/Leben-in-Meersburg/Stadtportraet/Staedtepartnerschaften/Stadt-Hohnstein | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Deutschland
+  bundesland: Sachsen
+  partnerschaft_besiegelung_1: Juni 1991 in Hohnstein
+  partnerschaft_besiegelung_2: 3. Oktober 1991 im Meersburger Neuen Schloss
+  partnerschaft_grund: Inspiriertheit von deutscher Einheit, Zusammenwachsen nach Trennung
+  aktivitaeten: jährliche Wanderwochen
+  beziehung: herzliche Freundschaft
+  stadt_charakterisierung: Burgstadt am Fels
+  besonderheit_national_park: unmittelbare Nähe zu Nationalpark Sächsische Schweiz
+  besonderheit_landschaft: romantisches Polenztal
+  burg: gut erhaltene mittelalterliche Burganlage Burg Hohnstein
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Louveciennes
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Staedtepartnerschaften/Louveciennes | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Frankreich
+  region: Île-de-France
+  departement: Yvelines
+  lage: etwa 20 Kilometer westlich von Paris
+  einwohner: ca. 7700
+  partnerschaft_besiegelung: 1991
+  partnerschaft_dauer: bald 35 Jahre (Stand 2026)
+  partnerschaft_foerderung: deutsch-französische Freundschaft
+  aktivitaeten: Schüleraustausch, Chorkonzerte, Bürgerfahrten, Stammtische, französische Kochabende, Filmabende
+  jubilaeum: 35. Jubiläum 2026
+GUELTIG_AB: 1991
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: San Gimignano
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Staedtepartnerschaften/San-Gimignano | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  land: Italien
+  region: Toskana
+  lage: inmitten leicht hügeliger Landschaft, umringt von Weinbergen und Olivenhainen
+  partnerschaft_besiegelung: November 2002
+  partnerschaft_delegation: Mai 2002 (hochkarätige Delegation unter Bürgermeister Dr. Marco Lisi)
+  charakterisierung: besterhaltene mittelalterliche Stadt der Toskana
+  unesco_weltkulturerbe: 1990
+  UNESCO_eigenschaft: autofreie Altstadt
+  geschichte_glanzzeit: 13. Jahrhundert bis erste Hälfte 14. Jahrhundert
+  glanzzeit_merkmale: künstlerisch, kulturell und politisch glänzendste Zeit
+  wahrzeichen: hoch aufragende Türme
+  niedergang_grund: Pestepidemien, Bevölkerungsverminderung, wirtschaftlicher Niedergang
+  niedergang_vorteil: Bewahrung des mittelalterlichen Charakters
+  aehnlichkeit_meersburg: Tourismus, denkmalgeschützte Altstadt, freundliche Bürger, Weinbau
+GUELTIG_AB: 2002
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+
+---
+
+ENTITÄT: preis
+BEZEICHNUNG: Droste-Preis
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  erste_verleihung: 1957
+  auszeichnung_fuer: deutschsprachige Autorinnen
+  besonderheit: ältester Literaturpreis an deutschsprachige Autorinnen
+  benannt_nach: Annette von Droste-Hülshoff
+GUELTIG_AB: 1957
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+
+---
+
+ENTITÄT: thermalbad
+BEZEICHNUNG: Meersburg Therme
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 2003
+  entdeckung_thermalwasser: 1994
+  praedikat_verleihung: Viabono-Wohlfühlstadt (2003)
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+
+---
+
+ENTITÄT: freizeitbad
+BESCHREIBUNG: Erstes beheizbares Freibad am Bodensee
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eroeffnung: 1973
+  besonderheit: erstes am Bodensee beheiztes Freibad
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+
+---
+
+ENTITÄT: patenschiff
+BEZEICHNUNG: Patenschiff A 1418 "Meersburg"
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Staedtepartnerschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  schiffstyp: ehemaliges Versorgungsschiff der Bundesmarine
+  patenschaft_status: Patenschaft durch Meersburg
+  besonderheit: Name Meersburg auch auf den Meeren bekannt
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: patenfluzeug
+BEZEICHNUNG: Canadair Jet CRJ200
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Staedtepartnerschaften | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  flugzeugtyp: Canadair Jet CRJ200
+  betreiber: Lufthansa
+  patenschaft_status: noch sehr junge Patenschaft
+  besonderheit: Name Meersburg auch in den Lüften bekannt
+GUELTIG_AB: 0
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.72
+
+---
+
+ENTITÄT: hafen
+BEZEICHNUNG: Hafen Meersburg
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anlage: 1509
+  lage: östliche Ende der Unterstadt
+  modernisierung: 1851/56
+  modernisierung_grund: Versuch Stadt-Modernisierung
+  modernisierung_ergebnis: Zugänglichkeit für Dampfschiffe ab 1851/56
+  gegenwart: Hafenrondell mit Magischer Säule
+GUELTIG_AB: 1509
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.86
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Gredhaus (Kornhaus)
+QUELLE: https://www.meersburg.de/de/Tourismus/Geschichte/Stadtchronik | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  errichtung: 1509
+  funktion: Kornhaus
+  lage: östliches Ende der Unterstadt
+  historischer_name: "Gred"
+GUELTIG_AB: 1509
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

@@ -1,0 +1,426 @@
+ENTITÄT: ort
+BEZEICHNUNG: Überlingen
+QUELLE: https://www.ueberlingen.de/stadtpotrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  urkundliche_ersterwahnung: 773
+  urkundlicher_name: Iburinga
+  verwaltungsfunktion_frueh: fränkischer Verwaltungssitz
+  grund_verwaltungsfunktion: Schenkung an Kloster St. Gallen
+  marktrecht_verliehen: um 1180
+  marktrecht_verleiher: Kaiser Friedrich I. Barbarossa
+  stadtrechte_erworben: um 1210/20
+  stadtrechte_verleiher: König Friedrich II.
+  reichsstadtstatus_ab: 1268
+  grund_reichsstadtstatus: Aussterben der Staufer
+  weinbauflaeche_ca: 268 ha
+  weinbau_besonderheit: sonnige Südhänge
+  kornmarkt_bedeutung: größter Kornmarkt in Süddeutschland bis 19. Jahrhundert
+  kornhandel_ziel: vor allem Schweiz
+  reichsstadtstatus_verlust: 1802/03
+  grund_statusverlust: napoleonische Kriege
+  neue_zugehoerigkeit: Baden
+  fremdenverkehr_seit: 19. Jahrhundert
+  uferpromenadenlaenge: 5 km
+  promenade_erweiterung: 1971/1976
+  eisenbahnanschluss: 1895/1901
+  wirkung_eisenbahn: Industrialisierung
+  duale_funktion_20jh: Erholungs- und Kurort sowie Gewerbestandort
+  kneipp_heilbad_status: 1955
+  kneipp_heilbad_besonderheit: erste in Baden-Württemberg
+  kreissitz_funktion_bis: 1973
+  eingemeindete_orte: Bambergen, Bonndorf, Deisendorf, Hödingen, Lippertsreute, Nesselwangen, Nußdorf
+  eingemeindungen_datum: 1973
+  verwaltungsgemeinschaft_seit: 1975
+  verwaltungsgemeinschaft_partner: Sipplingen, Owingen
+  grossekreisstadt_seit: 1993
+  landesgartenschau_jahr: 2021
+  botanischer_garten_seit: Ende 19. Jahrhundert
+  staedtepartnerschaft_1: Chantilly (Frankreich)
+  staedtepartnerschaft_1_seit: 1987
+  staedtepartnerschaft_1_entfernung: 40 km nördlich von Paris
+  staedtepartnerschaft_2: Bad Schandau (Deutschland)
+  staedtepartnerschaft_2_seit: 1990
+  staedtepartnerschaft_2_entfernung: 40 km östlich von Dresden
+  bevölkerung_ende_2019: 22475
+  wohngebaeude_2019: 5149
+  wohnungen_2019: 12492
+  schüler_2019_2020: 3486
+  sozialversicherungspflichtig_beschaeftigte_2020: 10930
+  übernachtungen_gäste_2020: 353341
+  kraftfahrzeugbestand_2020: 17020
+  vereine_anzahl: genauigkeit: "ca.", wert: 200
+  ist_ehemals_freie_reichsstadt: true
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Nikolaus Münster
+QUELLE: https://www.ueberlingen.de/stadtpotrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeitraum: 1350-1562/63
+  architekturstil: spätgotisch
+  superlativ: größter spätgotischer Kirchenbau des Bodenseegebiets
+  superlativ_bezugsraum: Bodenseegebiet
+  hochaltar: 1613-1616
+  hochaltar_kuenstler: Jörg Zürn und Verwandte
+  hochaltar_auftraggeber: Rat der Stadt
+  altaere: von Bürgern gestiftete Altäre vom Gotik bis Barock in Kapellenkranz
+  liturgie_gottesdienst_ort_schwedenprozession: St. Nikolaus Münster, 8:00 Uhr
+GUELTIG_AB: 1350
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Rathaussaal
+QUELLE: https://www.ueberlingen.de/stadtpotrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bauzeitraum: 1490-1494
+  kuenstler: Jakob Russ
+  kuenstler_rolle: Meister, reich schnitzend
+  dekorationselemente: Darstellungen der Reichsstände
+  bedeutung: künstlerisches Denkmal manifestiert Frömmigkeit und Selbstbewusstsein der Bürgerschaft
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: tradition
+BEZEICHNUNG: Historische Schwedenprozessionen
+QUELLE: https://www.ueberlingen.de/1-historische-schwedenprozession | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  anfang: Dreißigjähriger Krieg
+  grund: Gelübde als Dankprozessionen
+  grund_details: Bewahrung der Stadt bei Belagerung durch schwedische Truppen
+  haeufigkeit: alljährlich, zwei mal im Jahr
+  gelübde_inhalt: für alle kommenden Generationen geltend, feierliche Prozession am Tag des feindlichen Abzuges
+  liturgie_besonderheit: eigens herausgegebenes Heft mit Texten, Liedern und Gebeten
+  gottesDienst_ort: St. Nikolaus Münster
+  gottesdienst_startzeit: 08:00 Uhr
+GUELTIG_AB: Dreißigjähriger Krieg
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: hafen
+BEZEICHNUNG: Mantelhafen
+QUELLE: https://www.ueberlingen.de/sanierungsarbeiten-an-der-historischen-ostmauer-am-mantelhafen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denkmalstatus: Kulturdenkmal
+  grund_denkmalstatus: Bestandteil der gesamten Stadtbefestigung
+  mauer: Ostmauer
+  mauer_zustand_vor_sanierung: große Flächen mit zerstörten Fugen und Fehlstellen des Mauerwerks
+  sanierungsbeginn: Februar 2024
+  sanierungsarbeiten_detail: Mauer- und Putzarbeiten, teilweise Verfüllen von Hohlräumen, Austausch von Steinen, Verfugung, Verpressen
+  sanierungsmassnahme_geplante_ende: 2024-09
+  sperrstatus_während_bauzeit: Mantelkopf gesperrt
+  steganlage_erneuerung_geplant: Frühjahr 2025
+GUELTIG_AB: 1300
+GUELTIG_BIS: 2025
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Jan Zeitler
+QUELLE: https://www.ueberlingen.de/erstes-exemplar-der-chronik-an-ob-zeitler-uebergeben | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Oberbürgermeister
+  aktion_chronik: erstes Exemplar der Chronik überreicht am 14.11.2023
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historische_person
+BEZEICHNUNG: Gunzo
+QUELLE: https://www.ueberlingen.de/stadtpotrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: 7. Jahrhundert
+  titel: alemannischer Herzog
+  wohnort: Überlingen
+  anmerkung: Tochter durch hl. Gallus von bösen Geist befreit
+  genauigkeit: vermutlich
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 600
+GUELTIG_BIS: 700
+VERTRAUEN_EXTRAKTION: 0.7
+
+---
+
+ENTITÄT: historische_person
+BEZEICHNUNG: Friedrich I. Barbarossa
+QUELLE: https://www.ueberlingen.de/stadtpotrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: um 1180
+  aktion: verlieh Überlingen Marktrecht
+  titel: Kaiser
+GUELTIG_AB: 1180
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historische_person
+BEZEICHNUNG: Friedrich II.
+QUELLE: https://www.ueberlingen.de/stadtpotrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: um 1210/20
+  aktion: Erhebung Überlingens zur Stadt
+  titel: König
+GUELTIG_AB: 1210
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: historische_person
+BEZEICHNUNG: Konrad Widerholt
+QUELLE: https://www.ueberlingen.de/stadtpotrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  zeit: 1643
+  aktion: Einnahme Überlingens durch Handstreich
+  titel: Kommandeur der Festung Hohentwiel
+  kontext: Dreißigjähriger Krieg
+GUELTIG_AB: 1643
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: historischer_belagerung
+BEZEICHNUNG: Schwedische Belagerungen im Dreißigjährigen Krieg
+QUELLE: https://www.ueberlingen.de/stadtpotrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  jahre: 1632, 1634
+  typ: vergebliche Bestürmung und Belagerung
+  erfolg_belagerung: negativ, Stadt nicht erobert
+  folgebelagerung: 1643 Einnahme durch Konrad Widerholt
+  wirtschaftliche_folge: Wirtschaftlicher Niedergang
+GUELTIG_AB: 1632
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis
+BEZEICHNUNG: Dachstuhlbrand Hofstatt
+QUELLE: https://www.ueberlingen.de/dachstuhlbrand-eines-wohn-und-geschaeftshauses-in-der-historischen-altstadt | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  datum: 2023-04-11
+  uhrzeit: nach 21:00 Uhr
+  ort: Hofstatt, historische Altstadt
+  gebaeudeart: Wohn- und Geschäftshaus
+  brandart: Dachstuhlbrand in Vollbrand
+  schaden_geschaetzt: 2000000 EUR
+  personenschaeden: keine
+  einsatzkraefte_feuerwehr_spitze: über 100
+  einsatzkraefte_drk: ca. 70
+  weitere_behoerden: THW, Landespolizei, Drohneneinheit Bodenseekreis
+  oberbuergermeister_reaktion: Jan Zeitler vor Ort, Lob für Feuerwehr
+  feuerwehr_kommandant: Ludwig Ehing
+  kreisbrandmeister: Alexander Ammann
+  einsatzabteilungen: Stadt und Nußdorf
+  besonderheit: Drohnenaufnahmen zur Einsatzleitung
+IST_VERMUTLICH_AKTUELL: false
+GUELTIG_AB: 2023
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: veranstaltung
+BEZEICHNUNG: Internationaler Bodensee-Musikwettbewerb
+QUELLE: https://www.ueberlingen.de/rekordzahlen-beim-bodensee-musikwettbewerb-2025-in-ueberlingen | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gruendung: 2009
+  stadt_austragung: Überlingen
+  austraegung_2025: 16.-19. Juni 2025, 9. Mal
+  schwerpunkt_2025: Oboe
+  teilnehmer_2025_geplant: 39 aus 15 Nationen, 19-29 Jahre
+  teilnehmer_2025_tatsaechlich: 35
+  veranstalter: Südwestdeutsche Mozartgesellschaft, Stadt Überlingen, Kulturstiftung Rotary Club Überlingen
+  kooperation: Rotary Club Überlingen
+  veranstaltungsort: Kursaal
+  preis_erste_platz: 3000 EUR
+  preis_zweite_platz: 1500 EUR
+  preis_dritte_platz: 1000 EUR
+  preis_foerderung: 750 EUR
+  preis_publikum: 750 EUR
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: chronik
+BEZEICHNUNG: 1250 Jahre Überlingen. Eine Zeitreise vom Mittelalter bis zur Moderne
+QUELLE: https://www.ueberlingen.de/erstes-exemplar-der-chronik-an-ob-zeitler-uebergeben | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  seitenzahl: 704
+  gewicht: ca. 5 kg
+  format: Großformat
+  besonderheit: größtes Buch im Gmeiner Verlag Meßkirch
+  redaktionsteam: fünfköpfig, Stadt Überlingen
+  buchtaufe_datum: 2023-11-26
+  buchtaufe_ort: Kursaal
+  buchtaufe_uhrzeit: 11:30 Uhr
+  anlass: Abschlussveranstaltung vierjähriges Stadtjubiläum (1250 Jahre)
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: denkmalschutz_behoerde
+BEZEICHNUNG: Stadt Überlingen
+QUELLE: https://www.ueberlingen.de/denkmalschutz | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  rolle: Untere Denkmalschutzbehörde
+  verwaltungsgemeinschaft_denkmallisten: Owingen, Sipplingen
+  denkmallisten_verwaltung: Abteilung Bauverwaltung
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: verkehrsinfrastruktur
+BEZEICHNUNG: Stadtbus Überlingen
+QUELLE: https://www.ueberlingen.de/adventsaktion-beim-stadtbus-ueberlingen-einfach-zahlen-den-ganzen-tag-fahren | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  einzelfahrschein_erwachsene: 2.90 EUR
+  einzelfahrschein_kinder_6_14: 1.70 EUR
+  tageskarte_erwachsene: 2.90 EUR (an Adventssamstagen)
+  tageskarte_kinder: 1.70 EUR (an Adventssamstagen)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.75
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Chantilly
+QUELLE: https://www.ueberlingen.de/stadtpotrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstadt_land: Frankreich
+  partnerstadt_lage: 40 km nördlich von Paris
+  seit: 1987
+GUELTIG_AB: 1987
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Bad Schandau
+QUELLE: https://www.ueberlingen.de/stadtpotrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  partnerstadt_land: Deutschland
+  partnerstadt_lage: 40 km östlich von Dresden
+  seit: 1990
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: eingemeindete_gemeinde
+BEZEICHNUNG: Bambergen
+QUELLE: https://www.ueberlingen.de/stadtpotrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1973
+  grund_eingemeindung: Verwaltungsreformen
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: eingemeindete_gemeinde
+BEZEICHNUNG: Bonndorf
+QUELLE: https://www.ueberlingen.de/stadtpotrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1973
+  grund_eingemeindung: Verwaltungsreformen
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: eingemeindete_gemeinde
+BEZEICHNUNG: Deisendorf
+QUELLE: https://www.ueberlingen.de/stadtpotrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1973
+  grund_eingemeindung: Verwaltungsreformen
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: eingemeindete_gemeinde
+BEZEICHNUNG: Hödingen
+QUELLE: https://www.ueberlingen.de/stadtpotrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1973
+  grund_eingemeindung: Verwaltungsreformen
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: eingemeindete_gemeinde
+BEZEICHNUNG: Lippertsreute
+QUELLE: https://www.ueberlingen.de/stadtpotrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1973
+  grund_eingemeindung: Verwaltungsreformen
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: eingemeindete_gemeinde
+BEZEICHNUNG: Nesselwangen
+QUELLE: https://www.ueberlingen.de/stadtpotrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1973
+  grund_eingemeindung: Verwaltungsreformen
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: eingemeindete_gemeinde
+BEZEICHNUNG: Nußdorf
+QUELLE: https://www.ueberlingen.de/stadtpotrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  eingemeindung_jahr: 1973
+  grund_eingemeindung: Verwaltungsreformen
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: botanischer_garten
+BEZEICHNUNG: Stadtgarten Überlingen
+QUELLE: https://www.ueberlingen.de/stadtpotrait | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  angelegt: Ende 19. Jahrhundert
+  ausstattung: Baumbestand, Blumenbeete, Kakteengruppen
+  superlativ: botanische Sehenswürdigkeit der Region
+  superlativ_bezugsraum: Region (Bodensee)
+  vergleichbares_objekt: Mainau
+GUELTIG_AB: 1890
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85

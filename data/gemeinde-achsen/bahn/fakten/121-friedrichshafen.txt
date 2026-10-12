@@ -1,0 +1,1496 @@
+ID: 121-friedrichshafen/001
+ENTITÄT: ort
+DESIGNIERUNG: Friedrichshafen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  ist_mittelstadt: true
+  lage: nördliches Ufer des Bodensees, sanft geschwungene Bucht
+  ist_kreisstadt: true
+  kreisstadt_von: Bodenseekreis
+  groesste_stadt_kreisstadt: true
+  ist_universitaetsstadt: true
+  ist_grosse_kreisstadt: true
+  grosse_kreisstadt_seit: 1956-04
+  universitaetsstadt_seit: 2011-09
+  oberzentrum: true (in Funktionsergänzung mit Ravensburg und Weingarten)
+  oberzentren_des_landes: eines von 14 in Baden-Württemberg
+  benannt_nach: Friedrich I., erster württembergischer König
+  gruendung: 1811
+  gruendung_genese: Zusammenschluss Reichsstadt Buchhorn, Dorf Hofen, Kloster Hofen
+  wappen_quelle: Wappen der Reichsstadt Buchhorn
+  hoehenlage_minimum: 395.2 [m ü. NHN] (Bodenseeufer)
+  hoehenlage_maximum: 501.6 [m] (Ailingen, Horach)
+  verwaltungssitz_kreisstadt_seit: 1973-01-01
+  zentrale_ort_mittelbereich: ja (umfasst Bermatingen, Deggenhausertal, Eriskirch, Immenstaad, Kressbronn, Langenargen, Markdorf, Meckenbeuren, Neukirch, Oberteuringen, Tettnang)
+  zerstoerungsgrad_wwii: zwei drittel
+  wiederaufbau_beginn: 1950
+  wiederaufbau_abschluss_phase: 1956
+  besatzungszone_1945: Französische Besatzungszone
+  bundesland_seit_1952: Baden-Württemberg
+  konfession_katholisch_2011: 45.6 [%]
+  konfession_evangelisch_2011: 20.6 [%]
+  konfession_konfessionslos_2011: 33.8 [%]
+  konfession_katholisch_2022: 35.2 [%]
+  konfession_evangelisch_2022: 15.9 [%]
+  konfession_konfessionslos_2022: 49.0 [%]
+  konfession_prognose_protestantisch_evangelisch: jährlicher Rückgang um 1 Prozentpunkt seit 2011
+GUELTIG_AB: 1811
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+---
+ID: 121-friedrichshafen/002
+ENTITÄT: einwohner_entwicklung
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_1353: ca. 800
+  einwohner_1798: ca. 800
+  einwohner_1843: 1257
+  einwohner_1871: 2827
+  einwohner_1900: 4627
+  einwohner_1910: 7041
+  einwohner_1925: 11289
+  einwohner_1939: 25041
+  einwohner_1943: 27168
+  einwohner_1950: 20501
+  einwohner_1961: 37148
+  einwohner_1970: 43140
+  einwohner_1975: 51544
+  einwohner_1990: 54129
+  einwohner_2011: 56938
+  einwohner_2020: 61221
+  wachstum_1939_1943: ca. 2127
+  bestand_juli_1944_nach_bombardement: 7650
+  flucht_evakuierung_prozent_1944: zwei drittel
+GUELTIG_AB: 1353
+IST_VERMUTLICH_AKTUELL: true (für 2020)
+VERTRAUEN_EXTRAKTION: 0.98
+---
+ID: 121-friedrichshafen/003
+ENTITÄT: kirche
+BEZEICHNUNG: Schlosskirche
+ORTSTEIL_BEZUG: Kernstadt (ehem. Kloster Hofen)
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  vorgaenger: Klosterkirche des Klosters Hofen
+  bauzeit: 1695-1702
+  architekt: Christian Thumb
+  turmhoehe: 55 [m]
+  turmmerkmale: zwei Türme mit Zwiebeldach
+  ist_wahrzeichen: true
+  ist_bedeutendstes_bauwerk: true
+  funktion_bis_1824: Klosterkirche, dann Schlosskapelle
+  klosteranlage_umbau: 1824 zu Schloss umgebaut
+  alt_gebaeu_bauzeit: 1654-1661
+  alt_gebaeu_architect: Michael Beer
+  denkmalschutz_status: ja
+GUELTIG_AB: 1695
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 121-friedrichshafen/004
+ENTITÄT: kirche
+BEZEICHNUNG: St. Nikolaus
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  lage: Zentrum früherer Stadt Buchhorn
+  bauzeit: 17. Jahrhundert
+  besonderheit: unter Einbeziehung einer Kapelle aus dem 13. Jahrhundert erbaut
+  pfarrkirche: true
+  ist_mittelalter_kirche: vermutlich
+  genauigkeit_mittelalter: vermutlich
+GUELTIG_AB: 1300 (Kapelle)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/005
+ENTITÄT: kirche
+BEZEICHNUNG: St. Petrus Canisius
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1927-1928
+  grund_bau: Filialkirche infolge starken Wachstums der Nikolausgemeinde
+  architekt: Hugo Schlösser aus Stuttgart
+  architekturstil: Backsteinexpressionismus
+  weihe: 1928-11-24
+  denkmalschutz: ja
+  geistliche: Joannes Baptista Sproll (Bekennerbischof)
+GUELTIG_AB: 1928
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 121-friedrichshafen/006
+ENTITÄT: kirche
+BEZEICHNUNG: Zum Guten Hirten
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1962
+  weihe: 1962-05-12
+  architektur: muschelförmiger Kuppelbau mit aufgesetzter Glockenschale
+  grund_bau: Gemeinde wuchs weiter, weitere Kirche notwendig
+  eigene_gemeinde_seit: 1962-10-01
+  denkmalschutz: ja
+  besonderheit: Dach musste 10 Jahre nach Weihe nach Sportflugzeugabsturz instand gesetzt werden
+GUELTIG_AB: 1962
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 121-friedrichshafen/007
+ENTITÄT: kirche
+BEZEICHNUNG: St. Columban
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit_abschluss: 1966
+  weihe: 1966
+  geistliche: Pietro Zuccarino, italienischer Bischof aus Bobbio
+  architektur: zeltförmig, von Reformideen des Zweiten Vatikanischen Konzils geprägt
+  gemeindegebiet: Stadtteil Friedrichshafen Ost, alte Gemarkung St. Georgen
+  gemeindechor_aktivitaeten: nationale Auftritte (Katholikentag Ulm, Ökumenischer Kirchentag Berlin)
+GUELTIG_AB: 1966
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/008
+ENTITÄT: kirche
+BEZEICHNUNG: St. Blasius
+ORTSTEIL_BEZUG: Meistershofen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 11. Jahrhundert
+  aeltestes_bauwerk_stadtgebiet: true
+  architektur: romanisch (Kern), romanischer Turm später erbaut
+  schiff: kurz
+  chor: quadratisch
+GUELTIG_AB: 1100 (ca.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 121-friedrichshafen/009
+ENTITÄT: kirche
+BEZEICHNUNG: St. Magnus
+ORTSTEIL_BEZUG: Fischbach
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1955
+  vorgaengerin: St. Vitus (alte Pfarrkirche, 1834)
+GUELTIG_AB: 1955
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 121-friedrichshafen/010
+ENTITÄT: kirche
+BEZEICHNUNG: St. Peter und Paul
+ORTSTEIL_BEZUG: Schnetzenhausen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1754
+  besonderheit: erbaut auf älteren Resten
+GUELTIG_AB: 1754
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.86
+---
+ID: 121-friedrichshafen/011
+ENTITÄT: kirche
+BEZEICHNUNG: St. Nikolaus
+ORTSTEIL_BEZUG: Berg
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit_erstes: 1520
+  bauzeit_renovierung: 1785
+  bauzeit_veraenderung: ca. 1900
+GUELTIG_AB: 1520
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 121-friedrichshafen/012
+ENTITÄT: kirche
+BEZEICHNUNG: St. Petrus und Paulus
+ORTSTEIL_BEZUG: Ettenkirch
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 17. Jahrhundert
+  turm_erhoehung: 1884
+GUELTIG_AB: 1600
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 121-friedrichshafen/013
+ENTITÄT: kirche
+BEZEICHNUNG: St. Johann Baptist
+ORTSTEIL_BEZUG: Ailingen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  vorgaenger: aelterer Vorgaengerbau
+GUELTIG_AB: 1600 (ca.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 121-friedrichshafen/014
+ENTITÄT: kirche
+BEZEICHNUNG: St. Gangolf
+ORTSTEIL_BEZUG: Kluftern
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gehoert_nicht_zu: Gesamtkirchengemeinde Friedrichshafen
+  gehoert_zu: Dekanat Linzgau, Erzdiözese Freiburg
+  grund_gehoerigkeit: Kluftern gehörte ab 1806 zu Baden
+GUELTIG_AB: 1900 (ca.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 121-friedrichshafen/015
+ENTITÄT: kapelle
+BEZEICHNUNG: Mariä Heimsuchung
+ORTSTEIL_BEZUG: Raderach
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1837
+GUELTIG_AB: 1837
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 121-friedrichshafen/016
+ENTITÄT: kapelle
+BEZEICHNUNG: Haldenberg-Kapelle
+ORTSTEIL_BEZUG: nördlich von Ailingen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1921
+  zweck: Kriegergedächtniskapelle
+  standort_hoehe: 479 [m] (Haldenberg)
+GUELTIG_AB: 1921
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/017
+ENTITÄT: kirche
+BEZEICHNUNG: Schlosskirche (evangelisch)
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  ursprung_von_koenig: Friedrich von Württemberg
+  bereitstellung_fuer: evangelische Kirchengemeinde (Beamte und Bedienstete des württembergischen Königs im Schloss Hofen)
+  bauzeit_barock: barock
+  pfarrei_seit: 1845
+GUELTIG_AB: 1800 (ca.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 121-friedrichshafen/018
+ENTITÄT: kirche
+BEZEICHNUNG: Mehmet-Akif-Moschee
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  traeger: türkische DİTİB
+  betrieb_seit: 1998
+  lage: Rande des Stadtkerns in Richtung Teilgemeinde Berg
+GUELTIG_AB: 1998
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/019
+ENTITÄT: fluss
+BEZEICHNUNG: Rotach
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  mündung: Bodensee
+  muendung_lage: östlich der Kernstadt
+  durchfliesst: mehrere kleinere Ortsteile
+  verlauf: von Oberteuringen kommend, westlich von Ailingen Stadtgebiet erreichend
+GUELTIG_AB: 0 (Naturgegebenheit)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/020
+ENTITÄT: fluss
+BEZEICHNUNG: Schussen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  lage: streift nordöstliche Ecke des Stadtgebietes
+  mündung: Bodensee
+  muendung_entfernung: wenige Kilometer östlich von Friedrichshafen
+GUELTIG_AB: 0 (Naturgegebenheit)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/021
+ENTITÄT: naturschutzgebiet
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  behoerde: Regierungspräsidium Tübingen, Landratsamt Bodenseekreis
+  stand: 2009
+  anzahl_naturschutzgebiete: 4
+  naturschutzgebiet_1: Eriskircher Ried
+  naturschutzgebiet_2: Hepbacher-Leimbacher Ried
+  naturschutzgebiet_3: Lipbachsenke
+  naturschutzgebiet_4: Lipbachmündung
+  anzahl_landschaftsschutzgebiete: 5
+  landschaftsschutzgebiet_1: Haldenberg
+  landschaftsschutzgebiet_2: Hepbacher-Leimbacher Ried
+  landschaftsschutzgebiet_3: Lipbachsenke
+  landschaftsschutzgebiet_4: Württembergisches Bodenseeufer (Teilgebiete)
+  anzahl_naturdenkmale_flaechig: 11
+  anzahl_naturdenkmale_einzeln: 25
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 121-friedrichshafen/022
+ENTITÄT: unternehmen
+BEZEICHNUNG: ZF Friedrichshafen AG
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1915
+  urspruenglicher_name: Zahnradfabrik GmbH
+  gruendung_grund: Getriebe (insbesondere Zahnräder) der Zeppeline verbessern
+  umwandlung_ag: 1921 (Aktiengesellschaft)
+  plaetzierung_weltweit: viertgrößter Automobilzulieferer weltweit
+  fachgebiet: Antriebs- und Fahrwerktechnik
+  eigentum_zeppelin_stiftung: 93.8 [%]
+  eigentum_ulderup_stiftung: 6.2 [%]
+  erfinder_der_technik: Max Maag (Maag Zahnräder AG)
+  erfindung_bedeutung: ermöglichte Herstellung präziser Zahnräder in Serie
+  arbeitgeber_groesse: einer der größten Arbeitgeber der Stadt
+GUELTIG_AB: 1915
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.94
+---
+ID: 121-friedrichshafen/023
+ENTITÄT: unternehmen
+BEZEICHNUNG: Rolls-Royce Power Systems (ehem. MTU Friedrichshafen)
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_zeitraum: historische MTU-Tradition
+  bis_1985: Teil des Daimler-Chrysler-Konzerns
+  verkauf_an_eqt: 2005 (1.6 Mrd. Euro an Private-Equity-Gruppe EQT)
+  umbenennung_tognum: 2006 (Markenname MTU erhalten)
+  boersengang_tognum_ag: 2007
+  gesellschafter_rolls_royce_daimler: ab 2011 (Engine Holding GmbH, 98.3 % der Tognum AG)
+  uebernahme_daimler_anteile: 2014 durch Rolls-Royce
+  firmierung_seit: 2014-01 als Rolls-Royce Power Systems
+  spezialisierung: großen Dieselmotoren, Antriebs- und Energiesysteme
+  plaetzierung_weltweit: führender Hersteller
+  arbeitgeber_groesse: einer der größten Arbeitgeber der Stadt
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93
+---
+ID: 121-friedrichshafen/024
+ENTITÄT: unternehmen
+BEZEICHNUNG: Luftschiffbau Zeppelin GmbH
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: spätes 19. Jahrhundert
+  gruender: Ferdinand von Zeppelin
+  spezialisierung: Starrluftschiffe (Zeppeline)
+  erste_start_lz1: 1900-07-02
+  lz1_laenge: 128 [m]
+  lz1_startort: Manzeller Bucht
+  lz2_test_start: 1906
+  arbeitgeber_1912: ca. 200 Mitarbeiter
+  siedlung_fuer_arbeiter: Zeppelindorf
+  beteiligung_delag: DELAG (Deutsche Luftschifffahrts-AG) gegründet 1909
+  delag_status: erste Luftreederei weltweit
+  zwangsauflosung_nach_wwii: ja
+  eigentuemer_nach_1947: Zeppelin-Stiftung
+GUELTIG_AB: 1890 (ca.)
+GUELTIG_BIS: 1945 (Betrieb beendet)
+IST_VERMUTLICH_AKTUELL: false (Betrieb eingestellt, Stiftung Eigentümer)
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 121-friedrichshafen/025
+ENTITÄT: unternehmen
+BEZEICHNUNG: Zeppelin Luftschifftechnik GmbH
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1993
+  produkt: halbstarren Hybridluftschiffe vom Typ Zeppelin NT
+  entwicklung: ja
+  herstellung: ja
+  hauptanteilseigner_1: Luftschiffbau Zeppelin GmbH
+  hauptanteilseigner_2: ZF
+  tochterunternehmen: Deutsche Zeppelin-Reederei GmbH (für Flugvermittlung)
+GUELTIG_AB: 1993
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 121-friedrichshafen/026
+ENTITÄT: unternehmen
+BEZEICHNUNG: Dornier-Werke GmbH
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1922 (Übernahme von Claude Dornier)
+  ursprung: Büro Dornier, zunächst mit Metallflugzeugbau im Hause Zeppelin
+  gruender: Claude Dornier
+  umbenennungen: ursprünglich Zeppelin-Werk Lindau GmbH (ab 1922 Dornier-Metallbauten GmbH, ab 1938 Dornier-Werke GmbH, ab 1966 Dornier GmbH)
+  erweiterungen_1930er: Zweigbetriebe in Neuaubing, Oberpfaffenhofen (bei München), Wismar
+  expansion_flugzeugbau: spezialisiert auf Flugzeugbau
+  bekanntestes_flugzeug: Dornier Wal (zunächst nur in Italien in Lizenz wegen Versailler Vertrag)
+  groesstes_flugzeug: Dornier Do X (seinerzeit größtes Flugzeug der Welt)
+  produktion_wwii: ca. 6000 Flugzeuge
+  arbeitgeber_wwii: rüstungsbetrieb mit großer Bedeutung
+  zwangsauflosung: ja
+  museum: Dornier-Museum (eröffnet 2009)
+GUELTIG_AB: 1922
+GUELTIG_BIS: 1945 (Betrieb beendet)
+IST_VERMUTLICH_AKTUELL: false (Betrieb eingestellt)
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 121-friedrichshafen/027
+ENTITÄT: unternehmen
+BEZEICHNUNG: Maybach-Motorenbau GmbH
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_urspruengliche_ort: 1909 in Bissingen an der Enz
+  gruender: Wilhelm Maybach
+  initiator: Ferdinand von Zeppelin
+  name_urspruenglich: Luftfahrzeug-Motorenbau GmbH
+  umzug_friedrichshafen: 1912
+  leitung: Karl Maybach (1879-1960), ältester Sohn von Wilhelm Maybach
+  spezialisierung_frueher: Motoren für Zeppeline
+  spezialisierung_1920er: Pkw-Motoren
+  produktion_auto_erstes: 1922 (erstes Maybach-Automobil)
+  spezialisierung_wwii: Fertigung aller Motoren für Kettenfahrzeuge der Wehrmacht (nicht alle am Standort FN)
+  rettung_nach_wwii: ja (Produktion konnte umgestellt werden)
+  arbeitgeber_wwii: bedeutender Rüstungsbetrieb
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: false (als eigenständiges Unternehmen nicht mehr existent)
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/028
+ENTITÄT: unternehmen
+BEZEICHNUNG: Hüni + Co
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1859
+  standort_gruendung: östlich der Altstadt von Friedrichshafen
+  gruender: Hans Heinrich Hüni
+  spezialisierung_urspruenglich: Leder
+  spezialisierung_heute: hochwertige Beschichtungen mit organischen Kunststoffen
+  besonderheit: lange Zeit vor Zeppelinproduktion gegründet
+  aktivitaeten_wwii: Trümmerwiederaufbereitungsanlage nach dem Krieg errichtet
+GUELTIG_AB: 1859
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/029
+ENTITÄT: unternehmen
+BEZEICHNUNG: Sauerstoffwerk Friedrichshafen GmbH (SWF)
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1913
+  urspruengliches_produkt: Wasserstoff als Traggas für Zeppeline
+  standorte_heute: zwei weitere Werke in Aitrach und Bielefeld
+  produkt_heute: Gase aller Art für industriellen, handwerklichen und medizinischen Bedarf
+GUELTIG_AB: 1913
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/030
+ENTITÄT: unternehmen
+BEZEICHNUNG: DGH Sand Casting GmbH (ehem. LZ-Gießerei)
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung_lz_giesserei: 1909
+  umwandlung: 1948 in Metallbearbeitung Friedrichshafen eGmbH
+  aktuelle_firma: DGH Sand Casting GmbH
+  gruppe: DGH-Group mit Sitz in Dohna
+GUELTIG_AB: 1909
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/031
+ENTITÄT: unternehmen
+BEZEICHNUNG: Messe Friedrichshafen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  etablierung: als Messestandort etabliert
+  selbstbezeichnung: Messe- und Zeppelinstadt
+  veranstaltungen_aero: Luftfahrtmesse
+  veranstaltungen_ibo: Internationale Bodenseemesse (Konsum- und Investitionsgüter)
+  veranstaltungen_interboot: Wassersportmesse
+  veranstaltungen_eurobike: Fahrradmesse (1991-2021)
+  veranstaltungen_tuning_world: Auto-Tuningmesse
+  veranstaltungen_ham_radio: internationale Amateurfunkausstellung
+  veranstaltungen_fakuma: Fachmesse für Kunststoffverarbeitung
+  veranstaltungen_pferd: Pferdefachmesse
+  veranstaltungen_motorrad: Motorradmesse (seit 1990er Jahren)
+  t_city_gewinn: 2007-02-21 (Wettbewerb Deutsche Telekom)
+GUELTIG_AB: 1990 (ca.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/032
+ENTITÄT: schloss
+BEZEICHNUNG: Schloss Hofen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  ursprung: ehemaliges Kloster Hofen
+  umbau_zu_schloss: 1824
+  funktion: königliche Sommerresidenz
+  nutzung_bis: Monarchie-Ende (1918)
+  umbau_planung_19_jhd: Giovanni Salucci
+  alte_gebaeu_erbaut: 1654-1661
+  alte_gebaeu_architekt: Michael Beer
+  architektur_beschreibung: Schlossanlage neben Schlosskirche erbaut
+GUELTIG_AB: 1824
+IST_VERMUTLICH_AKTUELL: true (als historisches Bauwerk)
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 121-friedrichshafen/033
+ENTITÄT: kloster
+BEZEICHNUNG: Kloster Hofen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  kirche_gehoerigkeit: St. Andreas und Pantaleon
+  kirche_buchhorns: war auch Kirche Buchhorns
+  umwandlung: 1824 zu Schloss umgebaut
+  kloester_kirche_neuerbau: 1695-1702 von Christian Thumb
+GUELTIG_AB: 1654 (ca. Gründung)
+GUELTIG_BIS: 1824
+IST_VERMUTLICH_AKTUELL: false (nicht mehr Kloster)
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/034
+ENTITÄT: flughafen
+BEZEICHNUNG: Flughafen Friedrichshafen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  lage: Nordosten der Stadt (Richtung Meckenbeuren)
+  fluggesellschaften_innerdeutsch: Lufthansa, British Airways, weitere
+  ziele_innerdeutsch: Frankfurt
+  ziele_international: London, Toulouse, Istanbul (Turkish Airlines)
+  ziele_saisonal: Palma de Mallorca, Kroatien, Teneriffa
+  besonderheit_2006_fussball_wm: Mannschaftsquartier der iranischen Nationalmannschaft
+GUELTIG_AB: 1900 (ca., basierend auf Zeppelinflüge)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/035
+ENTITÄT: museum
+BEZEICHNUNG: Dornier-Museum
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 2009-07
+  lage: direkt neben Flughafen Friedrichshafen
+  groesse_park: 25000 [m²]
+  architektur_inspiration: Flugzeughangar
+  anzahl_exponate: mehr als 400
+  schwerpunkt_geschichte: 100 Jahre Luft- und Raumfahrtgeschichte
+  ausstellungen_flugzeuge: Dornier Do 27, Dornier Do 31 (Senkrechtstarter), Dornier Merkur (Nachbau)
+  ausstellungen_sonstiges: Originalteile eines Spacelabs, Museumsbox mit Filmen und Videos
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 121-friedrichshafen/036
+ENTITÄT: museum
+BEZEICHNUNG: Zeppelin-Museum
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  lage: Gebäude des ehemaligen Hafenbahnhofes
+  inhalt: Zeppelin-Geschichte und Auswirkungen auf Stadtentwicklung
+  besonderheit: begehbares Segment aus Fahrgastraum eines Zeppelins mit Passagierzimmer und Schlafkabinen
+  zweites_stockwerk: Bilder von Otto Dix und anderen Künstlern (Motto: Technik und Kunst)
+  vorgaenger: Bodensee-Museum
+  eroeffnung_zaeppelin_museum: 1996
+GUELTIG_AB: 1996
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 121-friedrichshafen/037
+ENTITÄT: museum
+BEZEICHNUNG: Schulmuseum Friedrichshafen
+ORTSTEIL_BEZUG: Schnetzenhausen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: gegründet von Erich H. Müller-Gaebele und Norbert Steinhauser
+  gruender_1_rolle: Professor an der Pädagogischen Hochschule Weingarten
+  gruender_2_rolle: Rektor der Pestalozzischule
+  besonderheit_fuer_baden_wuerttemberg: erstes Museum Baden-Württembergs, das schulgeschichtliche Sammlungen zeigte
+  umzug: 1989 in Villa von Riss (Gemeinderat-Beschluss)
+  ausstellungsraeume_typ: Schulräume aus Jahren 1800, 1850, 1900, 1930
+  schwerpunkt: Schule im Nationalsozialismus
+  weitere_ausstellung: Schultypen, Schulstrafen
+GUELTIG_AB: 1972 (ca., Gründung)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/038
+ENTITÄT: museum
+BEZEICHNUNG: Feuerwehrmuseum Ettenkirch
+ORTSTEIL_BEZUG: Ettenkirch-Waltenweiler
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  einrichtung_beginn: 2002 von ehrenamtlichen Helfern
+  museumsgebaeude_baujahr: 1930
+  feuerwehrhaus_bis: 1977
+  leerstands_bis: 2005 (Museumseröffnung)
+  inhalt: Ausstellungsstücke aus der Geschichte der Feuerwehr
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/039
+ENTITÄT: museum
+BEZEICHNUNG: Bodensee-Museum (historisch)
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: ab 1869
+  gruendung_verein: Verein für Geschichte des Bodensees und seiner Umgebung
+  standort_endgueltig: 1912 im ehemaligen Kreuzlinger Hof (Ecke Karlstraße/Schanzstraße)
+  uebernahme_stadt: 1927
+  zerstoerung: 1944-04-28 durch Bombenangriff
+  nachfolger: Städtisches Bodensee-Museum (1957), Zeppelin-Museum (1996)
+GUELTIG_AB: 1869
+GUELTIG_BIS: 1944
+IST_VERMUTLICH_AKTUELL: false (zerstört)
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 121-friedrichshafen/040
+ENTITÄT: universitaet
+BEZEICHNUNG: Zeppelin Universität
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 2003
+  promotions_habilitationsrecht: 2011-09 (Verleihung durch Wissenschaftsministerium)
+  rang_im_land: zehnte Universität in Baden-Württemberg
+  traeger: private Trägerschaft
+  eigendarstellung: Universität zwischen Wirtschaft, Kultur und Politik
+  studiengaenge_bereiche: Wirtschaftswissenschaften, Kommunikations- und Kulturwissenschaften, Politik- und Verwaltungswissenschaften, Soziologie, Politik und Ökonomie
+GUELTIG_AB: 2003
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 121-friedrichshafen/041
+ENTITÄT: hochschule
+BEZEICHNUNG: Duale Hochschule Baden-Württemberg Ravensburg (DHBW Ravensburg)
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  fakultaet_standort: Fakultät Technik in Friedrichshafen
+  studienrichtungen: 14
+  studienrichtungen_bereiche: Elektrotechnik, Maschinenbau, Informatik, Wirtschaftsinformatik, Luft- und Raumfahrttechnik, Wirtschaftsingenieurwesen
+GUELTIG_AB: 1980 (ca., DHBW gegründet)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/042
+ENTITÄT: hochschule
+BEZEICHNUNG: DIPLOMA Fachhochschule Nordhessen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  standorttyp: Studienzentrum
+  traegerschaft: privat
+GUELTIG_AB: 2000 (ca.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.80
+---
+ID: 121-friedrichshafen/043
+ENTITÄT: bibliothek
+BEZEICHNUNG: Medienhaus am See
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  vorgaenger_name: Stadtbibliothek
+  standort_neu: K42 (seit Jahresbeginn 2007)
+  eröffnung_neu: 2007-01-01
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 121-friedrichshafen/044
+ENTITÄT: bibliothek
+BEZEICHNUNG: Bodenseebibliothek
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  sammelgebiet: Bodenseeraum und seine Geschichte
+  bibliothekentyp: Spezialbibliothek
+GUELTIG_AB: 1970 (ca.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 121-friedrichshafen/045
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Rathaus Friedrichshafen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1954-1956
+  architekten: Wilhelm Tiedje, Ludwig Hilmar Kresse
+  funktion_wiederaufbau: Einweihung markierte Bauphase des Wiederaufbaus
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/046
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Stadtbahnhof
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  baucharakter: repräsentativer Bau
+  bauzeit: 1846-1847
+  bahnstrecke_verbindung: verbindet Bahnstrecke Friedrichshafen Stadt–Friedrichshafen Hafen, Ulm–Friedrichshafen, Stahringen–Friedrichshafen, Friedrichshafen–Lindau
+GUELTIG_AB: 1847
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 121-friedrichshafen/047
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Hafenbahnhof
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1928-1933
+  vorgaenger: zwei Vorgängerbauten
+  umbau_museum: 1994-1996 zum Zeppelin-Museum umgebaut
+  architekturstil: Neues Bauen am Bodensee
+GUELTIG_AB: 1933
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/048
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Zeppelindorf
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1914-1919
+  gruendung_zweck: von Ferdinand Graf von Zeppelin als Wohnraum für Arbeitgeber
+  organisation_groender: Zeppelin Wohlfahrt GmbH (gegründet 1913)
+  architekten: Paul Bonatz, Friedrich Eugen Scholer (Stuttgarter Architekten)
+  denkmalschutz: seit 1991
+  arbeitgeber_beschaeftigte_1912: ca. 200 Mitarbeiter des Zeppelinkonzerns
+  sozialwerk_umfang: umfassendes und vorbildliches Sozialwerk
+GUELTIG_AB: 1914
+IST_VERMUTLICH_AKTUELL: true (Denkmal)
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 121-friedrichshafen/049
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Villa Winz
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1915
+  architekt: Paul Bonatz
+  bautyp: Wohngebäude
+GUELTIG_AB: 1915
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 121-friedrichshafen/050
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Villa Niederberger
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  standort: Schmidstraße 3
+  architekturstil: expressionistisch
+  denkmalschutz: ja
+GUELTIG_AB: 1920 (ca.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 121-friedrichshafen/051
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Villa Wagner
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  bauzeit: 1965
+  denkmalschutz: ja
+  ortsteil_bezug: Spaltenstein
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 121-friedrichshafen/052
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Aussichtsturm Moleturm
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  erbanung: 2000
+  standort: am Hafen
+GUELTIG_AB: 2000
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 121-friedrichshafen/053
+ENTITÄT: baudenkmal
+BEZEICHNUNG: Tankstelle in der Werastraße
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  erbauer: Deutsch-Amerikanische Petroleum-Gesellschaft (DAPG)
+  bauzeit: 1950
+  baustil: Klinkerbau mit typischem Flachdach
+  seltenheit_region: nur noch zwei Exemplare dieses Baustils im gesamten Bodenseekreis
+  denkmalschutz: ja
+GUELTIG_AB: 1950
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 121-friedrichshafen/054
+ENTITÄT: kunstwerk_oeffentlich
+BEZEICHNUNG: Buchhornbrunnen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  lage: vor dem Rathaus
+  schoepfer: Barbara und Gernot Rumpf
+  baujahr: 2001
+  stil: groteske Skulpturen
+  bedeutung: erinnert an Umbenennung von Buchhorn in Friedrichshafen 1811
+  bezug_industrie: Bezüge zur heimischen Industrie
+GUELTIG_AB: 2001
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/055
+ENTITÄT: sport_verein
+BEZEICHNUNG: VfB Friedrichshafen (Volleyball)
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1969
+  liga_eintritt: 1981 (erste Bundesliga)
+  ligastatus_aeternum: seit 1987 durchgehend erste Bundesliga
+  dvv_pokalsieg_anzahl: 13
+  deutscher_meister_anzahl: 13
+  double_erfolge: 8
+  champions_league_erfolg_erstes: 2007-04-01 (erste deutsche Volleyballmannschaft)
+  triple_erfolg: ja (erste Mannschaft in ganz Europa)
+  heimspielort_bis_2020: ZF-Arena
+  heimspielort_seit_2020: Zeppelin Cat Halle A1 der Messe Friedrichshafen
+  spielbereich: Volleyball-Bundesliga, Champions League
+GUELTIG_AB: 1969
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 121-friedrichshafen/056
+ENTITÄT: sport_verein
+BEZEICHNUNG: Lacrosse-Team Friedrichshafen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 2011
+  gruender: zwei Studenten der Zeppelin Universität
+  liga: Bundesliga Süd
+  zusammensetzung: Schüler, Arbeitstätige, Studenten
+  geschlechter: Herren- und Damenteam
+  spielort: Gelände des VfB Friedrichshafen
+  traegerschaft: Hochschulsportverein der Zeppelin Universität
+GUELTIG_AB: 2011
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/057
+ENTITÄT: sport_verein
+BEZEICHNUNG: Badmintonabteilung VfB Friedrichshafen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1953
+  liga_2006_2007: Meister der zweiten Bundesliga Süd
+  aufstieg_1bundesliga: 2006-2007
+  ligastatus_2010_2011: Regionalliga
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 121-friedrichshafen/058
+ENTITÄT: sport_verein
+BEZEICHNUNG: Württembergischer Yacht-Club Friedrichshafen e.V. (WYC)
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1911
+  gruender: König Wilhelm II.
+  yachthafen_bau_beginn: 1911
+  regatta_ereignis: Internationale Bodenseewoche
+  regatta_unterbruch: Weltkriege
+  regatta_wiederaufnahme: 1951
+  olympiasieger_1976: Jörg und Eckart Diesch (Flying Dutchman vor Kingston, Kanada)
+  weltmeister_1978: Albert und Rudolf Batzill (Flying Dutchman vor Hayling Island)
+  yachthafen_neubau_erbanung: 1992
+  yachthafen_neubau_einweihung: 1992
+  mitglieder_1999: ueber 1000
+GUELTIG_AB: 1911
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 121-friedrichshafen/059
+ENTITÄT: sport_verein
+BEZEICHNUNG: Fußballabteilung VfB Friedrichshafen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  ligen_aktuell: Verbandsliga Württemberg
+  besonderheit_2006_weltmeisterschaft: Mannschaftsquartier iranischer Nationalmannschaft
+  trainingsstadion: VfB-Stadion im Norden der Stadt
+  trainieren_dorf: Ringhotel Krone in Schnetzenhausen
+  weitere_interesse_team: Niederlande, Norwegen, Schweiz, Tschechien, Japan, Slowakei, Russland
+GUELTIG_AB: 1970 (ca.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 121-friedrichshafen/060
+ENTITÄT: sport_verein
+BEZEICHNUNG: Karate-Schule Friedrichshafen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  lehrer: Toni Dietl (ehemaliger Karate-Bundestrainer)
+  dojo_standort: Sportpark Friedrichshafen
+  dojo_groesse: eines der größten in Deutschland
+  schueler_anzahl: ueber 1000
+  schulgroesse: eine der größten Karate-Schulen in Deutschland
+  systementwicklung_samurai_kids: ja
+  system_junior_dan: ja
+  system_sound_karate: ja
+GUELTIG_AB: 1990 (ca.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/061
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Sarajevo
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  land: Bosnien und Herzegowina
+  partnerschaft_seit: 1972
+  verein_austausch: Pro Sarajevo (gegründet 2000)
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/062
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Saint-Dié-des-Vosges
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  land: Frankreich
+  partnerschaft_seit: 1973
+  verein_austausch: Freundeskreis (name nicht angegeben, aber impliziert)
+GUELTIG_AB: 1973
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/063
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Peoria
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  land: Vereinigte Staaten
+  partnerschaft_seit: 1976
+  verein_austausch: Peoria Club (gegründet 1982)
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/064
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Delitzsch
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  land: Deutschland
+  partnerschaft_seit: 1990
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/065
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Polozk
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  land: Belarus
+  partnerschaft_seit: 1990
+  verein_austausch: Freundeskreis Polozk (gegründet 1995)
+GUELTIG_AB: 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/066
+ENTITÄT: partnergemeinde
+BEZEICHNUNG: Imperia
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  land: Italien
+  partnerschaft_seit: 2014
+  verein_austausch: Amici di Imperia (gegründet 2009)
+GUELTIG_AB: 2014
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/067
+ENTITÄT: freundschaftsgemeinde
+BEZEICHNUNG: Tsuchiura
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  land: Japan
+  freundschaft_seit: 1994
+  beziehung_typ: Städtefreundschaft
+GUELTIG_AB: 1994
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/068
+ENTITÄT: schiff
+BEZEICHNUNG: Fridolin
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Katamaran
+  linie: Friedrichshafen–Konstanz
+  seit: 2005
+  zielstadt: Konstanz
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/069
+ENTITÄT: schiff
+BEZEICHNUNG: Constanze
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Katamaran
+  linie: Friedrichshafen–Konstanz
+  seit: 2005
+  zielstadt: Konstanz
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/070
+ENTITÄT: schiff
+BEZEICHNUNG: Ferdinand
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Katamaran
+  linie: Friedrichshafen–Konstanz
+  seit: 2007
+  zielstadt: Konstanz
+GUELTIG_AB: 2007
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/071
+ENTITÄT: schiff
+BEZEICHNUNG: LZ 1
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Luftschiff (Zeppelin)
+  laenge: 128 [m]
+  erster_flug: 1900-07-02
+  startort: Manzeller Bucht
+GUELTIG_AB: 1900
+IST_VERMUTLICH_AKTUELL: false (historisch)
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 121-friedrichshafen/072
+ENTITÄT: schiff
+BEZEICHNUNG: LZ 2
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Luftschiff (Zeppelin)
+  nachfolger_von: LZ 1
+  test_beginn: 1906
+GUELTIG_AB: 1906
+IST_VERMUTLICH_AKTUELL: false (historisch)
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/073
+ENTITÄT: schiff
+BEZEICHNUNG: LZ 126
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Luftschiff (Zeppelin)
+  besonderheit: erstes Luftschiff nach dem Krieg
+  uebergabe: als Wiedergutmachungsleistung an USA
+  atlantikueberquerung: sorgte für großes Aufsehen
+GUELTIG_AB: 1920 (ca.)
+GUELTIG_BIS: 1937
+IST_VERMUTLICH_AKTUELL: false (historisch)
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 121-friedrichshafen/074
+ENTITÄT: schiff
+BEZEICHNUNG: LZ 127 Graf Zeppelin
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Luftschiff (Zeppelin)
+  besonderheit: starken Blickpunkt der Öffentlichkeit
+GUELTIG_AB: 1930 (ca.)
+GUELTIG_BIS: 1937
+IST_VERMUTLICH_AKTUELL: false (historisch)
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 121-friedrichshafen/075
+ENTITÄT: schiff
+BEZEICHNUNG: LZ 129 Hindenburg
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Luftschiff (Zeppelin)
+  besonderheit: starken Blickpunkt der Öffentlichkeit
+  katastrophe: 1937-05-06 in Lakehurst
+  katastrophe_todesfaelle: 36
+  katastrophe_grund: Explosion
+  katastrophe_folge: Bau weiterer Luftschiffe (mit Ausnahme LZ 130, LZ 131) eingestellt
+GUELTIG_AB: 1936
+GUELTIG_BIS: 1937-05-06
+IST_VERMUTLICH_AKTUELL: false (zerstört)
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 121-friedrichshafen/076
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Graf-Zeppelin-Haus
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Kultur- und Kongresszentrum
+  idee_jahr: 1964 (Bürgerversammlung)
+  standort_planung: freies Grundstück westliche Uferpromenade neben Yachthafen
+  genehmigung_gemeinderat: 1978-10
+  eroeffnung: 1985-10
+  architekten: Breuning/Büchin aus Stuttgart
+  architektur_merkmale: Fassaden zum großen Teil aus Glas, zur Landschaft passendes Gebäude mit niedrigen Fassaden
+  saal_hugo_eckener: 1300 [m²] mit Erweiterung und Empore
+  saal_kapazitaet: bis 1300 Plätze
+  weitere_raeume: acht kleinere Säle und Tagungsräume
+  infrastruktur: zwei Restaurants, ein Café, Tiefgarage
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.92
+---
+ID: 121-friedrichshafen/077
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Kulturzentrum K42
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  eroeffnung: 2006
+  adresse_herkunft_name: Karlstraße 42
+  vorgaeber_gebaeude: Kreissparkasse Friedrichshafen
+  vorgaeber_baujahr: 1973
+  vorgaeber_zerstoerter_gebaeude: historischer Salzstadel (1967 Abbruch)
+  umwandlung_entscheidung: 2004 Gemeinderat
+  umwandlung_zweck: kombiniertes Geschäfts- und Medienhaus
+  ausstattung_buchhandlung: 2006-11-02
+  ausstattung_cafe_restaurant: 2007-01-01
+  ausstattung_textilkaufhaus: 2007-03-01
+  ausstattung_stadtbibliothek: 2007-03-01 (Medienhaus am See)
+  ausstattung_kiesel: 2007-03 (Veranstaltungsraum)
+  kiesel_kapazitaet: ca. 100 Zuschauer
+  kiesel_programmtypen: Schauspiel, Kinder- und Jugendtheater, Lesungen, Konzerte, Hörspiele, Filme, Figurentheater, Tanz, Video-Performances
+  kiesel_auszeichnung: 2009 Veranstalterpreis der Assitej für Kinder- und Jugendtheater
+GUELTIG_AB: 2006
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.91
+---
+ID: 121-friedrichshafen/078
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Kulturhaus Caserne
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  lage: westlicher Teil der Stadt, Fallenbrunnen
+  ursprung_name: ursprüngliche Nutzung als Kaserne
+  baujahr_flakkaserne: 1937-1943
+  verein_gruendung: Culturverein Caserne e.V. (2002)
+  verein_finanzierung: Mitglieder, Stadtverwaltung
+  raeume_theater_atrium: Theater-, Kabarett- und Musikveranstaltungen
+  bestandteil_boedensee_players: englischsprachige Amateurtheatergruppe (mehrheitlich Muttersprachler)
+  bestandteil_studio17: Kino mit 88 Sitzplätzen, alternative Kinofilme
+  restaurant: im ehemaligen Mannschaftskasino
+  club_metropol: 1996 Ende als Disko und Konzerthalle, 1999 Umbau und Erweiterung
+  groove_box: 1997 eingerichtet, House und Jazz
+GUELTIG_AB: 2002 (Kulturverein)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/079
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Seehasen-Fanfarenzug
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1956-06
+  gruender_anlass: Seehasenfest
+  gruender_lehrer: Erich Deisel (Lehrer am Graf-Zeppelin-Gymnasium)
+  initial_zusammensetzung: vier Trommler, zwei Fanfarenbläser
+  kostuum_einfuehrung: 1959 (gelb-rote Kostüme, an spanische Epoche erinnernd)
+  wettbewerb_erfolg: 1972 Achter Platz Deutsche Meisterschaft Fanfarenzüge
+  aktivitaeten: Konzerte im Ausland, Wettbewerbe deutschlandweit
+  hoehepunkt_jaehrlich: Seehasenfest
+  jubilaeum_2006_50_jahre: ja
+GUELTIG_AB: 1956
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 121-friedrichshafen/080
+ENTITÄT: musikgruppe
+BEZEICHNUNG: Fanfarenzug Graf Zeppelin
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1965
+  gruender_anteil: Mitglieder des Seehasen-Fanfarenzuges
+  ursprung_name: Seegockel-Fanfarenzug (bis 1967)
+  fusion_versuch: 1976 (verhindert)
+  russland_reise: 1992 auf Einladung Moskauer Konservatoriums
+  russia_veranstaltung: Victory-Peace-Parade auf Rotem Platz
+  aktivitaeten: Reisen, Seehasenfest
+GUELTIG_AB: 1965
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/081
+ENTITÄT: musikgruppe
+BEZEICHNUNG: jazzport Friedrichshafen e.V.
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1999
+  ziel: Forum für Jazzbegeisterte schaffen, Konzerte veranstalten
+  eigenband: New Jazzport Orchestra (NJPO)
+  eigenband_zusammensetzung: vor allem Musikschulleherer und -schüler
+  veranstaltungsort: überwiegend Flughafenrestaurant
+GUELTIG_AB: 1999
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/082
+ENTITÄT: musikschule
+BEZEICHNUNG: Musikschule Friedrichshafen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1953
+  gruendung_typ: städtische Bildungseinrichtung
+  standort_umzug: 2003 in neu erbautes Gebäude neben Graf-Zeppelin-Gymnasium
+  angebote_fruehbild: musikalische Früherziehung
+  angebote_grundbildung: ja
+  angebote_instrumente: gängige Instrumente als Einzel- oder Gruppenunterricht
+  angebote_ensemble: Symphonisches Jugendblasorchester, Folklore-Ensemble, Jugend-Sinfonieorchester, Bigband
+  wettbewerbe_teilnahme: Jugend musiziert
+  orchester_austraetige: ja
+GUELTIG_AB: 1953
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 121-friedrichshafen/083
+ENTITÄT: veranstaltung_festival
+BEZEICHNUNG: Seehasenfest
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  typ: Kinder- und Heimatfest
+  kontinuitaet: seit der Nachkriegszeit
+  besonderheit_status: eines der bekanntesten und ältesten Feste
+GUELTIG_AB: 1945 (ca., Nachkriegszeit)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 121-friedrichshafen/084
+ENTITÄT: veranstaltung_festival
+BEZEICHNUNG: Kulturufer
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  beginn: 1985 (zu Beginn der Sommerferien)
+  art: zehntägiges Zeltfestival in den Uferanlagen
+  lage: direkt am Bodensee
+  gruendung_veranstalter: Jugendreferat der Stadt
+  ab_1986_veranstalter: Kulturamt (heute Kulturbüro)
+  inhalte: Musik, Kabarett, Schauspiel, Tanz, Lesungen, Akrobatik, Straßentheater, Kindergebot
+  besucher_durchschnitt: ca. 70000
+GUELTIG_AB: 1985
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/085
+ENTITÄT: veranstaltung_festival
+BEZEICHNUNG: Kulinarisches Stadtfest
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  beginn: 1997
+  zeitraum: Sommerferien
+  lage: Uferanlagen
+  aktivitaet: Gastronomieunternehmen bieten Köstlichkeiten verschiedener Nationalitäten an
+  rahmenprogramm: abends musikalisches Rahmenprogramm
+GUELTIG_AB: 1997
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.86
+---
+ID: 121-friedrichshafen/086
+ENTITÄT: veranstaltung_festival
+BEZEICHNUNG: Theatertage am See
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  beginn: 1984
+  gruendung_veranstalter: Jugendreferat der Stadt
+  seit_1986: Bodensee-Schule St. Martin
+  typ: internationales Theaterfestival
+  status: begehrter Treffpunkt Amateurtheaterszene über Europas Grenzen
+  grosser_anerkennung: ja
+  groesse_europa_theaterpädagogie: eine der größten
+  traeger_seit_1993: Verein Theatertage am See Friedrichshafen
+GUELTIG_AB: 1984
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.89
+---
+ID: 121-friedrichshafen/087
+ENTITÄT: veranstaltung_festival
+BEZEICHNUNG: Jetzt oder nie (Filmfestival)
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  beginn: 2009
+  veranlasser: Kulturbüro Friedrichshafen
+  art: mehrtägiges Filmfestival
+  filmtypen: Kurzfilme, Experimentalfilme, Animationsfilme, Dokumentarfilme
+  filmregisseure: junge Regisseure aus deutschsprachigem Raum
+  filmzeitraum_produktion: vorangegangene zwei Jahre
+  eingereichte_filme_2018: mehr als 300
+  zielgruppe: besonders attraktiv für junge Filmemacher
+  spielort: Medienhaus Kiesel (ca. 100 Sitze)
+  publikumsgespräche: ja
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.87
+---
+ID: 121-friedrichshafen/088
+ENTITÄT: veranstaltung_festival
+BEZEICHNUNG: Fasnet Friedrichshafen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  mundartbereich: Bodenseealemannisch
+  tradition: schwäbisch-alemannische Tradition
+  aelteste_belege: 1569
+  wiederbelebung_nach_wwii: ja
+  aelteste_maske: Buchhorn-Hexe
+  populäre_maske: Seegockel (drei Jahre später)
+  zuenftige_zuordnung: Narrenzunft Buchhorn-Hexe und Seegockel
+  zeitablauf: Gumpiger Donnerstag bis Fasnetsdienstag
+  hoehepunkte: Bürgerball (Graf-Zeppelin-Haus), Umzug
+GUELTIG_AB: 1569 (erste Belege)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/089
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Russenfriedhof (KZ-Opfer)
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  lage: städtischer Hauptfriedhof
+  gedenken_anzahl: ca. 450 Frauen und Männer
+  kontext: KZ-Häftlinge der NS-Zwangsarbeit in Flugzeug- und Luftschiffwerken Dornier
+  gedenkstein: ja
+GUELTIG_AB: 1944 (ca., Arbeitslagerperiode)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/090
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Gedenkstein Schweizer Kinder
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  lage: Hafenseite des Zeppelinmuseums
+  gedenken_typ: Tafel
+  kontext: sogenannte Schweizer Kinder, die 1946-1947 zur Erholung in Schweiz eingeladen wurden
+  einladung_beschreibung: von großherzigen Menschen
+GUELTIG_AB: 1946
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 121-friedrichshafen/091
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Gedenkstein Vertriebene
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  lage: Bereich des hinteren Hafens/Yachthafens an der östlichen Uferstraße
+  material: Granit
+  form: großer Granitstein
+  wappen_anzahl: 12 (der Gebiete der Vertriebenen)
+  inschrift: Unserer ostdeutschen Heimat zum steten Gedenken
+  kontext: Vertriebene aus deutschen Ostgebieten
+GUELTIG_AB: 1950 (ca.)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+---
+ID: 121-friedrichshafen/092
+ENTITÄT: gedenkstaette
+BEZEICHNUNG: Kriegerdenkmal
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  lage: zentral im Uferpark
+  form: Brunnen
+  architektur: vier Stelen umgeben den Brunnen
+  zentrales_kunstwerk: Statue eines verwundeten Soldaten, der seine Wunden verbindet
+  einweihung: 1930
+  schoepfer: Josef Heckler (Steinmetz)
+  gedenken_kontext: Gefallene des Ersten und Zweiten Weltkriegs, Flüchtlinge die ihr Leben in Krieg verloren
+  heimat_gefallener: ursprünglich aus Friedrichshafen und Umgebung
+GUELTIG_AB: 1930
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.88
+---
+ID: 121-friedrichshafen/093
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ailingen
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindet: 1971-12-01
+  vorherige_struktur: Gemeinde Berg mit Ailingen
+  wohnplaetze_anzahl: viele räumlich getrennte mit eigenen Namen
+  ortsrat: ja
+  ortsvorsteher: ja
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/094
+ENTITÄT: ortsteil
+BEZEICHNUNG: Ettenkirch
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindet: 1972-12-01
+  eingemeindete_ortschaft: Hirschlatt (1937 bereits eingemeindet)
+  ortsrat: ja
+  ortsvorsteher: ja
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/095
+ENTITÄT: ortsteil
+BEZEICHNUNG: Kluftern
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindet: 1972-04-01
+  eingemeindete_teile: Efrizweiler, Lipbach (1861 eingmeeindet)
+  vorheriger_kreis: Landkreis Überlingen
+  ortsrat: ja
+  ortsvorsteher: ja
+  land_zuordnung_historisch: ab 1806 zu Baden
+GUELTIG_AB: 1972
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/096
+ENTITÄT: ortsteil
+BEZEICHNUNG: Raderach
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindet: 1971-12-01
+  vorheriger_kreis: Landkreis Überlingen
+  ortsrat: ja
+  ortsvorsteher: ja
+  v2_werk: V2-Werk Raderach (Prüf- und Abnahmestelle, 1942-1943 erbaut)
+GUELTIG_AB: 1971
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.90
+---
+ID: 121-friedrichshafen/097
+ENTITÄT: infrastruktur_fluss_bach
+BEZEICHNUNG: Grenzbach
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  lage: zwischen Friedrichshafen-Fischbach und Immenstaad
+  geschichte: Grenzlinie zwischen Baden und Württemberg
+  relikte: Reste des Grenzhofs zwischen Bundesstraße 31 und naturgeschützter Uferzone
+GUELTIG_AB: 1800 (ca., historische Grenze)
+GUELTIG_BIS: 1952 (Fusion zu Baden-Württemberg)
+IST_VERMUTLICH_AKTUELL: false (politische Bedeutung verloren)
+VERTRAUEN_EXTRAKTION: 0.82
+---
+ID: 121-friedrichshafen/098
+ENTITÄT: stiftung
+BEZEICHNUNG: Zeppelin-Stiftung
+QUELLE: https://de.wikipedia.org/wiki/Friedrichshafen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1908
+  gruender: Graf Zeppelin
+  urspruenglicher_stiftungszweck: Förderung des Luftschiffbaus
+  fallausloeseparagraph: falls Stiftungszweck nicht mehr erfüllt werden kann
+  fallausloese_bestimmung: Erträge für wohltätige Zwecke einsetzen
+  vermoegen_transfer: 1947-03-01 an Stadt Friedrichshafen
+  aktienbesitz: 93.8 % der Aktien der ZF Friedrichshafen AG
+  eigentuemerschaften: Luftschiffbau Zeppelin GmbH, Zeppelin GmbH
+  finanzierung_zweck: mildtätige und gemeinnützige Zwecke
+GUELTIG_AB: 1908
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.93

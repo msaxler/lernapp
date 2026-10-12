@@ -1,0 +1,550 @@
+ENTITÄT: gebaeude
+BEZEICHNUNG: Feuerwehrhaus Eisenburg
+ORTSTEIL_BEZUG: Eisenburg
+QUELLE: https://www.memmingen.de/rathaus/bauprojekte/feuerwehrhaus-eisenburg.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  bautyp: Holzbau (gedämmte Massivholzweise)
+  fertigstellung: 2026
+  nutzfläche: 595 m²
+  bruttorauminhalt: 3000 m³
+  kosten: 3700000 €
+  förderung_freistaat_bayern: 363000 €
+  baugenehmigung_erhalten: 2025-01
+  richtfest: 2026-03-20
+  spatenstich: 2025-04
+  baustoff_holz_herkunft: Memminger Stadtwald
+  energieversorgung: Infrarotheizung mit Photovoltaikanlage
+  stromspeicher: vorhanden
+  regenwasserspeicher: Zisterne 50 m³
+  dachform: Gründach mit Biodiversitätselementen
+  fahrzeugstellplätze: 2
+  lage: südöstlicher Ortsrand (früherer Bolzplatz)
+GUELTIG_AB: 2025
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: organisation
+BEZEICHNUNG: Freiwillige Feuerwehr Eisenburg
+ORTSTEIL_BEZUG: Eisenburg
+QUELLE: https://www.memmingen.de/rathaus/bauprojekte/feuerwehrhaus-eisenburg.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  gründung: 1887-08-14
+  mitglieder_aktiv: 50
+  adresse_alt: Trunkelsberger Straße 7
+GUELTIG_AB: 1887
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: Kapelle St. Johann Nepomuk
+ORTSTEIL_BEZUG: Eisenburg
+QUELLE: https://www.memmingen.de/rathaus/bauprojekte/feuerwehrhaus-eisenburg.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  denkmalschutz: true
+  grund_neubau_statt_anbau: Nähe zur denkmalgeschützten Kapelle machte Erweiterung des Feuerwehrhauses unmöglich
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Jan Rothenbacher
+QUELLE: https://www.memmingen.de/rathaus/bauprojekte/feuerwehrhaus-eisenburg.html | Gemeinde-Webseite
+EIGENSCHAFTEN:
+  amt: Oberbürgermeister
+  zitat: "Schon heute ist zu erkennen, dass mit diesem sensationellen Gebäude etwas geschaffen wird, das die Feuerwehr in Eisenburg für die nächsten Jahrzehnte sehr gut aufstellt."
+GUELTIG_AB: 2023
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ort
+BEZEICHNUNG: Memmingen
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  ist_kreisfreie_stadt: true
+  regierungsbezirk: Schwaben
+  bayern_region: Bayern
+  einwohner: 44378
+  einwohnerstand: 2025-12-31
+  flaeche_qkm: 70.14
+  landwirtschaftliche_flaeche_hektar: 3481
+  waldflaeche_hektar: 1709
+  funktion_zentrum: Oberzentrum
+  funktion_zentrum_seit: 1993
+  ist_fruhere_reichsstadt: true
+  charakterisierung: Stadt der Freiheitsrechte
+  grenze_westen: Iller (Grenze zu Baden-Württemberg)
+  entfernung_ulm_km: 50
+  entfernung_muenchen_km: 115
+  lage_region: Oberschwaben
+  grund_allgaeu_zuordnung: kulturhistorisch Oberschwaben, touristisch oft Allgäu genannt
+GUELTIG_AB: 1286
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.95
+
+---
+
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Zwölf Artikel
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1525-02
+  ort: Memmingen
+  genauigkeit: ca.
+  bedeutung: frühe Forderungen nach Freiheits- und Menschenrechten in Europa
+  urheber: Sebastian Lotzer und Christoph Schappeler
+  klassifikation: Beschwerdeschrift, Reformprogramm und politisches Manifest
+  kontext: Bauernkrieg, erste verfassungsgebende Versammlung auf deutschem Boden
+  grund: Forderungen der aufständischen oberschwäbischen Bauern
+GUELTIG_AB: 1525
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Martin
+ORTSTEIL_BEZUG: Memmingen
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  denomination: evangelisch-lutherisch
+  funktion: Stadtpfarrkirche
+  baustil: gotisch
+  chorgestuhl_baujahr: ca. 500 Jahre alt (Grundlage aus text)
+  chorgestuhl_bedeutung: zu den bedeutendsten Deutschlands
+  eigenschaft: Orgelkonzerte sind weithin bekannt
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: kirche
+BEZEICHNUNG: St. Josef
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  denomination: römisch-katholisch
+  baujahr: 1927-1929
+  superlativ: größter Kirchenbau zwischen dem Ersten und dem Zweiten Weltkrieg in Deutschland
+  bezugsraum_superlativ: Deutschland
+GUELTIG_AB: 1927
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: synagoge
+BEZEICHNUNG: Synagoge Memmingen
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  einweihung: 1909
+  lage: Schweizerberg
+  zerstoerung: 1938
+  zerstoerungsanlass: Novemberpogrome
+  judaica_vorhanden: Toravorhang 18. Jahrhundert
+GUELTIG_AB: 1909
+GUELTIG_BIS: 1938
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Fischertag
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  frequenz: jährlich
+  zeitpunkt: Ende Juli (Samstag)
+  besucher: zehntausende
+  beschreibung: Leerfischen des Stadtbachs innerhalb der Altstadt mit ca. 1500 Fischern
+  kinderfest_vortag: Donnerstag mit Memminger Kinderfest
+  mittelalterliches_spektakel: true
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Wallensteinfestspiele
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  frequenz: alle vier Jahre
+  zeitpunkt: nach Fischertag im Juli
+  seit: 1980
+  teilnehmer: ca. 4500 Bürger in historischen Kostümen
+  historischer_hintergrund: Nachstellung von Wallenstein 1630 in der Stadt
+  superlativ: zu den größten Historienspielen in ganz Europa
+  bezugsraum_superlativ: Europa
+  dauer_event: eine Woche
+GUELTIG_AB: 1980
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Bernhard Strigel
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Künstler, Haus- und Hofmaler
+  patron: Kaiser Maximilian I.
+  erste_portraetierung: 1504
+  auszeichnung: einer der bedeutendsten Künstler der Stadt
+GUELTIG_AB: ca. 1450
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Christoph Schappeler
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Theologe, Reformator, Prädikant
+  anstellung: 1513 als Prediger in Memmingen
+  erste_lutherische_predigt: 1523
+  bekanntheit: Urheber der Zwölf Artikel (zusammen mit Sebastian Lotzer)
+  einfluss: setzte sich für Reformation in Memmingen durch
+GUELTIG_AB: 1513
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Wallenstein (Generalissimus)
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  aufenthalt_memmingen: 1630 (einige Wochen)
+  kontext: Dreißigjähriger Krieg
+  ereignis: Absetzung als Oberbefehlshaber der Kaiserlichen
+  abgesetztheit_grund: auf Betreiben von Maximilian I.
+  zitat_stadtchronik: "Es hat Glück und Heyl gewest!"
+GUELTIG_AB: 1630
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: person
+BEZEICHNUNG: Mario Götze
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  beruf: Fußball-Nationalspieler
+  geburtsort: Memmingen
+  auszeichnung: Weltmeister
+GUELTIG_AB: ca. 1990
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: preis
+BEZEICHNUNG: Memminger Freiheitspreis 1525
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  verleihung_start: 2005
+  frequenz: unregelmäßig
+  benannt_nach: Zwölf Artikel (1525)
+  erste_verleihung: 2005 an Gyula Horn
+  zweite_verleihung_person: Reiner Kunze (Schriftsteller)
+  zweite_verleihung_datum: 2009-03-20
+GUELTIG_AB: 2005
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: flughafen
+BEZEICHNUNG: Flughafen Memmingen / Allgäu Airport
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  lage: Memmingerberg, Benningen, Hawangen
+  linienflugverkehr_start: 2007
+  klassifikation: einer der drei Verkehrsflughäfen in Bayern
+  klassifikation_2: zu den bedeutendsten Low-Cost-Flughäfen Deutschlands
+  passagiere_2025: 3700000
+  ranking_deutschland: zu den zehn größten Verkehrsflughäfen Deutschlands
+GUELTIG_AB: 2007
+IST_VERMUTISMUS_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Gründung zur Freien Reichsstadt
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1286
+  koenig: Rudolf I. von Habsburg
+  grund: nach Ausfall der Staufer fiel die Stadt an das Reich
+  status_vorig: Stauferstaat
+  rechtsstellung: direkt dem deutschen König unterstellt
+  zusaetzliche_rechtserteilung: Überlinger Recht, später Ulmer Recht (1296)
+GUELTIG_AB: 1286
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Erhebung zur Stadt
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1158
+  person: Herzog Welf VI.
+GUELTIG_AB: 1158
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Antoniter-Kloster
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  restaurierung: 1996
+  typ: französisches Kloster
+  superlativ: besterhaltene und größte Antoniter-Klosteranlage weltweit
+  bezugsraum_superlativ: weltweit
+  museum: Antoniter-Museum im Antonierhaus
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: gebaeude
+BEZEICHNUNG: Siebendächerhaus
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  kriegsschaeden_wwii: beschädigt durch Bombenanschläge
+  rettung: Abgestützt und so vor völliger Zerstörung bewahrt
+  sehenswuerdigkeit: ja
+GUELTIG_AB: Mittelalter
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: ereignis_historisch
+BEZEICHNUNG: Stadtbrände und Zerstörung 1130
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  datum: 1130
+  grund: Streit mit den Welfen, Staufer Friedrich von Schwaben zerstörte auch Ravensburg und Altdorf
+  schaeden: Memmingen brannte bis auf die Grundmauern ab
+  nachweise: Aschespuren im Boden noch heute erkennbar
+GUELTIG_AB: 1130
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: stadtteil
+BEZEICHNUNG: Eisenburg
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  eingemeindung: 1976-07-01
+  eingemeindung_einwohner_damals: 1448
+  geologie: Ansammlung größerer durch Gletscher zusammengedrückter Steinformationen, eigenes Hochplateau
+  hoechster_punkt: 679 m ü. NN (Wasserspeicher im Eisenburger Wald)
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: kultureinrichtung
+BEZEICHNUNG: Landestheater Schwaben (LTS)
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  gruendung: 1937
+  spielstaetten: drei im Stadttheater Memmingen
+  wwii_aktivitaet: eines der ersten Theater in Westdeutschland mit Aufführungen nach 1945
+  baumaßnahmen: Um- und Neubauten mit neuer Studiobühne, Probebühnen, Werkstätten
+GUELTIG_AB: 1937
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: event
+BEZEICHNUNG: Luftangriffe auf Memmingen im Zweiten Weltkrieg
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  grund: Fliegerhorst Memmingerberg der Luftwaffe
+  schaeden_zwei_angriffe: fast gesamte südliche Altstadt, Gerberviertel zerstört
+  gesamtschaeden: über 30 Prozent der Wohnbebauung zerstört
+  betroffene_bereiche: Bahnhofsviertel
+GUELTIG_AB: 1944
+GUELTIG_BIS: 1945
+IST_VERMUTLICH_AKTUELL: false
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: demografisch
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  einwohner_wachstum_1988_2018: von 37942 auf 43837
+  einwohner_wachstum_prozent: 15.5 Prozent
+  einwohner_2016_mark_ueberschritten: 43000 (November 2016 erstmals)
+  einwohner_maennlich_prozent: 48.24
+  einwohner_weiblich_prozent: 51.76
+  auslaenderanteil_2016: 16.8 Prozent
+  auslaenderanteil_2013: 13.33 Prozent
+  muslime_prozent: 11-13 Prozent (Stand 2024)
+  aramaeer_christlich: über 500 aus Mesopotamien
+GUELTIG_AB: 2024
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Glendale (Arizona, USA)
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  seit: 1976
+  aktivitaet_level: eine der lebendigsten Partnerschaften
+  austausch: Schüleraustausche, Vertreterbesuche
+  besonderheiten: Park in Glendale nach Memmingen benannt, Straße in Memmingen nach Glendale benannt
+  dauer: älteste Partnerstadt
+GUELTIG_AB: 1976
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Teramo (Italien)
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  stadt_seit: 1986
+  provinz_seit: 1981
+  region: Abruzzen
+  aktivitaet_level: zu den aktivsten Partnerschaften
+  austausch: Schüleraustausch, regelmäßige Vereinstreffen
+GUELTIG_AB: 1981
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: staedtepartnerschaft
+BEZEICHNUNG: Kiryat Shmona (Israel)
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  seit: 2009-04-03
+  funktion: jüngste Partnerstadt
+  vorgeschichte: längere Freundschaft vor Partnerschaftsbeschluss
+GUELTIG_AB: 2009
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: ECDC Memmingen
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  sport: Eishockey
+  zuschauerzahlen: höchste in der Stadt
+  herrenmannschaft_liga: DEL2 (zweithöchste Liga)
+  damenmannschaft_liga: Fraueneishockey-Bundesliga
+  damenmannschaft_platzierung: meist vordere Plätze
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: sportverein
+BEZEICHNUNG: FC Memmingen
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  sport: Fußball
+  erfolgreichster_fussballverein: der Stadt
+  liga_2024_25: Bayernliga Süd (fünftklassig)
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Stadtmuseum Memmingen
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  lokation: Hermansbau
+  groesse: größtes Museum der Stadt
+  ausstellung_vorgeschichte: Vor- und Frühgeschichte (Steinzeit, Bronzezeit, Alemannen, Römer)
+  ausstellung_reichsstadt: Entwicklung der Freien Reichsstadt
+  kunstwerke: Johann Heiss (Barockmaler)
+  judaica: jüdische Abteilung mit Toravorhang 18. Jahrhundert
+  kostenlos_seit: 2019-05-01
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: museum
+BEZEICHNUNG: Strigel- und Antoniter-Museum
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  lokation: Antonierhaus
+  eroeffnung: 1996
+  inhalte: Schnitz- und Malkunst Familie Strigel, Antoniterorden, Mutterkornbrand-Krankheit
+  kostenlos_seit: 2019-05-01
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: infrastruktur
+BEZEICHNUNG: Autobahn-Kreuzung Memmingen
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  autobahnen: A 7 (Ulm-Füssen-Österreich) und A 96 (München-Lindau-Österreich)
+  besonderheit: südlichstes Autobahnkreuz Deutschlands
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.9
+
+---
+
+ENTITÄT: geologie
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  tiefster_punkt_m_ue_nn: 561
+  tiefster_punkt_ort: Iller bei Egelsee
+  hoechster_punkt_m_ue_nn: 679
+  hoechster_punkt_ort: Wasserspeicher im Eisenburger Wald
+  ortsmittel_m_ue_nn: 595
+  ortsmittel_ort: Marktplatz
+  bodentyp_kernstadt: sandig
+  bodentyp_ortsteile_westen: lehmig
+  grundwasserspiegel_osten: 1.5 bis 2.5 Meter unter Erdoberfläche
+  moorboden_vorhanden: ja (teilweise)
+  gletscherplateau: ja (auf altem)
+GUELTIG_AB: Quartär
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
+
+---
+
+ENTITÄT: klima
+QUELLE: https://de.wikipedia.org/wiki/Memmingen | Wikipedia
+EIGENSCHAFTEN:
+  zone: gemäßigt
+  niederschlag: meist etwas höher als Durchschnitt
+  tiefsttemperaturen: etwas niedriger als Durchschnitt
+  nebel_haeufigkeit: Frühjahr und Herbst dicht
+  kaeltester_monat: Januar mit -5 °C Durchschnittstiefstwert und +2 °C Durchschnittshöchstwert
+  waermste_monate: Juli und August mit 12 °C Tiefst- und 24 °C Höchstwert
+IST_VERMUTLICH_AKTUELL: true
+VERTRAUEN_EXTRAKTION: 0.85
